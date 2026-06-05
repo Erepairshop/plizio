@@ -48,7 +48,160 @@ export const kiribatiCitiesV2: POI[] = [
     image: "/poi-images/kiribati-south-tarawa-cities-v2.webp",
   },
   {
-    id: "kiribati-betio-cities-v2",
+    id: "kiribati-betio-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "mary's beach",
+                  "text": "Mary's Beach ist ein Küstenabschnitt in Betio. Er bietet Besuchern einen Sandstrand zum Entspannen und Genießen des Ozeans.",
+                  "category": "recreational",
+                  "coords": [
+                        172.950539,
+                        1.347851
+                  ]
+            },
+            {
+                  "name": "marewen teriki",
+                  "text": "Marewen Teriki ist ein lokaler Strandabschnitt in Betio. Es ist ein natürliches Ziel zum Sonnenbaden und für Wasseraktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        172.918331,
+                        1.356073
+                  ]
+            },
+            {
+                  "name": "U.S. Marine Corps Memorial",
+                  "text": "Das U.S. Marine Corps Memorial ist eine wichtige Attraktion in Betio. Es erinnert an die Soldaten, die im Pazifikkrieg des Zweiten Weltkriegs gekämpft haben.",
+                  "category": "landmark",
+                  "coords": [
+                        172.927747,
+                        1.356233
+                  ]
+            },
+            {
+                  "name": "Domestic Ferry Pier",
+                  "text": "Der Domestic Ferry Pier ist eine Attraktion und ein Verkehrsknotenpunkt in Betio. Er verbindet die Insel mit anderen lokalen Zielen.",
+                  "category": "landmark",
+                  "coords": [
+                        172.930472,
+                        1.359258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "mary's beach",
+                  "text": "A Mary's Beach egy tengerparti szakasz Betióban. Homokos partot kínál a látogatóknak a pihenésre és az óceán élvezetére.",
+                  "category": "recreational",
+                  "coords": [
+                        172.950539,
+                        1.347851
+                  ]
+            },
+            {
+                  "name": "marewen teriki",
+                  "text": "A Marewen Teriki egy helyi strand Betióban. Természetes úti cél napozáshoz és vízi tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        172.918331,
+                        1.356073
+                  ]
+            },
+            {
+                  "name": "U.S. Marine Corps Memorial",
+                  "text": "Az U.S. Marine Corps emlékmű egy fontos látványosság Betióban. A második világháború csendes-óceáni hadszínterén harcoló katonáknak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        172.927747,
+                        1.356233
+                  ]
+            },
+            {
+                  "name": "Domestic Ferry Pier",
+                  "text": "A Belföldi kompkikötő egy látványosság és közlekedési csomópont Betióban. Összeköti a szigetet más helyi úti célokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        172.930472,
+                        1.359258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "mary's beach",
+                  "text": "Plaja Mary's este o porțiune de coastă situată în Betio. Oferă un țărm nisipos pentru ca vizitatorii să se relaxeze și să se bucure de ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        172.950539,
+                        1.347851
+                  ]
+            },
+            {
+                  "name": "marewen teriki",
+                  "text": "Marewen Teriki este o zonă de plajă locală situată în Betio. Este o destinație naturală pentru plajă și activități acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        172.918331,
+                        1.356073
+                  ]
+            },
+            {
+                  "name": "U.S. Marine Corps Memorial",
+                  "text": "Memorialul Corpului de Pușcași Marini ai S.U.A. este o atracție importantă situată în Betio. Acesta comemorează soldații care au luptat în teatrul din Pacific al celui de-al Doilea Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        172.927747,
+                        1.356233
+                  ]
+            },
+            {
+                  "name": "Domestic Ferry Pier",
+                  "text": "Debarcaderul Feribotului Intern este o atracție și un nod de transport situat în Betio. Acesta conectează insula la alte destinații locale.",
+                  "category": "landmark",
+                  "coords": [
+                        172.930472,
+                        1.359258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "mary's beach",
+                  "text": "Mary's Beach is a coastal stretch located in Betio. It offers a sandy shoreline for visitors to relax and enjoy the ocean.",
+                  "category": "recreational",
+                  "coords": [
+                        172.950539,
+                        1.347851
+                  ]
+            },
+            {
+                  "name": "marewen teriki",
+                  "text": "Marewen Teriki is a local beach area situated in Betio. It is a natural destination for sunbathing and water activities.",
+                  "category": "recreational",
+                  "coords": [
+                        172.918331,
+                        1.356073
+                  ]
+            },
+            {
+                  "name": "U.S. Marine Corps Memorial",
+                  "text": "The U.S. Marine Corps Memorial is an important attraction located in Betio. It commemorates the soldiers who fought in the Pacific theater of WWII.",
+                  "category": "landmark",
+                  "coords": [
+                        172.927747,
+                        1.356233
+                  ]
+            },
+            {
+                  "name": "Domestic Ferry Pier",
+                  "text": "The Domestic Ferry Pier is an attraction and transport hub situated in Betio. It connects the island to other local destinations.",
+                  "category": "landmark",
+                  "coords": [
+                        172.930472,
+                        1.359258
+                  ]
+            }
+      ]
+},
     parent: "KI",
     type: "town",
     name: { de: "Betio", hu: "Betio", ro: "Betio", en: "Betio" },
@@ -93,7 +246,124 @@ export const kiribatiCitiesV2: POI[] = [
     image: "/poi-images/kiribati-betio-cities-v2.webp",
   },
   {
-    id: "kiribati-bikenibeu-cities-v2",
+    id: "kiribati-bikenibeu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Te Umwanibong",
+                  "text": "Kiribati National Museum and Cultural Centre ist ein Museum in Bikenibeu.",
+                  "category": "museum",
+                  "coords": [
+                        173.120726,
+                        1.365728
+                  ]
+            },
+            {
+                  "name": "Main port",
+                  "text": "Main port ist ein Aussichtspunkt in Bikenibeu.",
+                  "category": "natural",
+                  "coords": [
+                        173.118736,
+                        1.365386
+                  ]
+            },
+            {
+                  "name": "Maneaban te kukurei",
+                  "text": "Maneaban te kukurei ist ein Aussichtspunkt in Bikenibeu.",
+                  "category": "natural",
+                  "coords": [
+                        173.123479,
+                        1.366558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Te Umwanibong",
+                  "text": "A Kiribati National Museum and Cultural Centre egy múzeum Bikenibeuban.",
+                  "category": "museum",
+                  "coords": [
+                        173.120726,
+                        1.365728
+                  ]
+            },
+            {
+                  "name": "Main port",
+                  "text": "A Main port egy kilátó Bikenibeuban.",
+                  "category": "natural",
+                  "coords": [
+                        173.118736,
+                        1.365386
+                  ]
+            },
+            {
+                  "name": "Maneaban te kukurei",
+                  "text": "A Maneaban te kukurei egy kilátó Bikenibeuban.",
+                  "category": "natural",
+                  "coords": [
+                        173.123479,
+                        1.366558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Te Umwanibong",
+                  "text": "Kiribati National Museum and Cultural Centre este un muzeu în Bikenibeu.",
+                  "category": "museum",
+                  "coords": [
+                        173.120726,
+                        1.365728
+                  ]
+            },
+            {
+                  "name": "Main port",
+                  "text": "Main port este un punct de belvedere în Bikenibeu.",
+                  "category": "natural",
+                  "coords": [
+                        173.118736,
+                        1.365386
+                  ]
+            },
+            {
+                  "name": "Maneaban te kukurei",
+                  "text": "Maneaban te kukurei este un punct de belvedere în Bikenibeu.",
+                  "category": "natural",
+                  "coords": [
+                        173.123479,
+                        1.366558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiribati National Museum and Cultural Centre",
+                  "text": "Kiribati National Museum and Cultural Centre is a museum located in Bikenibeu.",
+                  "category": "museum",
+                  "coords": [
+                        173.120726,
+                        1.365728
+                  ]
+            },
+            {
+                  "name": "Main port",
+                  "text": "Main port is a viewpoint situated in Bikenibeu.",
+                  "category": "natural",
+                  "coords": [
+                        173.118736,
+                        1.365386
+                  ]
+            },
+            {
+                  "name": "Maneaban te kukurei",
+                  "text": "Maneaban te kukurei is a viewpoint found in Bikenibeu.",
+                  "category": "natural",
+                  "coords": [
+                        173.123479,
+                        1.366558
+                  ]
+            }
+      ]
+},
     parent: "KI",
     type: "town",
     name: { de: "Bikenibeu", hu: "Bikenibeu", ro: "Bikenibeu", en: "Bikenibeu" },
@@ -138,7 +408,88 @@ export const kiribatiCitiesV2: POI[] = [
     image: "/poi-images/kiribati-bikenibeu-cities-v2.webp",
   },
   {
-    id: "kiribati-teaoraereke-cities-v2",
+    id: "kiribati-teaoraereke-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "Die Herz-Jesu-Kathedrale ist die Hauptkirche von Kiribati in Teaoraereke.",
+                  "category": "landmark",
+                  "coords": [
+                        173.007222,
+                        1.332587
+                  ]
+            },
+            {
+                  "name": "Itoiningaina Handicraft Center",
+                  "text": "Handwerkszentrum in Teaoraereke.",
+                  "category": "landmark",
+                  "coords": [
+                        173.008208,
+                        1.333076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "A Jézus Szíve székesegyház Kiribati főtemploma Teaoraerekében.",
+                  "category": "landmark",
+                  "coords": [
+                        173.007222,
+                        1.332587
+                  ]
+            },
+            {
+                  "name": "Itoiningaina Handicraft Center",
+                  "text": "Kézműves központ Teaoraerekében.",
+                  "category": "landmark",
+                  "coords": [
+                        173.008208,
+                        1.333076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "Catedrala Inimii Sacre este principala biserică din Kiribati în Teaoraereke.",
+                  "category": "landmark",
+                  "coords": [
+                        173.007222,
+                        1.332587
+                  ]
+            },
+            {
+                  "name": "Itoiningaina Handicraft Center",
+                  "text": "Centru de artizanat în Teaoraereke.",
+                  "category": "landmark",
+                  "coords": [
+                        173.008208,
+                        1.333076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "The Sacred Heart Cathedral is the main church of Kiribati in Teaoraereke.",
+                  "category": "landmark",
+                  "coords": [
+                        173.007222,
+                        1.332587
+                  ]
+            },
+            {
+                  "name": "Itoiningaina Handicraft Center",
+                  "text": "Handicraft center in Teaoraereke.",
+                  "category": "landmark",
+                  "coords": [
+                        173.008208,
+                        1.333076
+                  ]
+            }
+      ]
+},
     parent: "KI",
     type: "town",
     name: { de: "Teaoraereke", hu: "Teaoraereke", ro: "Teaoraereke", en: "Teaoraereke" },
@@ -318,7 +669,52 @@ export const kiribatiCitiesV2: POI[] = [
     image: "/poi-images/kiribati-banana-cities-v2.webp",
   },
   {
-    id: "kiribati-eita-cities-v2",
+    id: "kiribati-eita-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eita",
+                  "text": "Eita ist eine bekannte lokale Attraktion in der Siedlung Eita. Es dient als zentraler Anlaufpunkt für Besucher in der Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        173.068872,
+                        1.358797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eita",
+                  "text": "Az Eita egy kiemelkedő helyi látványosság Eita településén. Központi szerepet tölt be a környékre látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        173.068872,
+                        1.358797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eita",
+                  "text": "Eita este o atracție locală proeminentă situată în așezarea Eita. Servește ca punct focal pentru vizitatorii din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        173.068872,
+                        1.358797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eita",
+                  "text": "Eita is a prominent local attraction situated in the settlement of Eita. It serves as a focal point for visitors in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        173.068872,
+                        1.358797
+                  ]
+            }
+      ]
+},
     parent: "KI",
     type: "village",
     name: { de: "Eita", hu: "Eita", ro: "Eita", en: "Eita" },
@@ -363,7 +759,160 @@ export const kiribatiCitiesV2: POI[] = [
     image: "/poi-images/kiribati-eita-cities-v2.webp",
   },
   {
-    id: "kiribati-temwaiku-cities-v2",
+    id: "kiribati-temwaiku-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Te Umwanibong",
+                  "text": "Kiribati National Museum and Cultural Centre ist ein Museum in Temwaiku.",
+                  "category": "museum",
+                  "coords": [
+                        173.120726,
+                        1.365728
+                  ]
+            },
+            {
+                  "name": "Main port",
+                  "text": "Main port ist ein Aussichtspunkt in Temwaiku.",
+                  "category": "natural",
+                  "coords": [
+                        173.118736,
+                        1.365386
+                  ]
+            },
+            {
+                  "name": "Bill house",
+                  "text": "Bill house ist ein Aussichtspunkt in Temwaiku.",
+                  "category": "natural",
+                  "coords": [
+                        173.158837,
+                        1.36154
+                  ]
+            },
+            {
+                  "name": "Maneaban te kukurei",
+                  "text": "Maneaban te kukurei ist ein Aussichtspunkt in Temwaiku.",
+                  "category": "natural",
+                  "coords": [
+                        173.123479,
+                        1.366558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Te Umwanibong",
+                  "text": "A Kiribati National Museum and Cultural Centre egy múzeum Temwaikuban.",
+                  "category": "museum",
+                  "coords": [
+                        173.120726,
+                        1.365728
+                  ]
+            },
+            {
+                  "name": "Main port",
+                  "text": "A Main port egy kilátó Temwaikuban.",
+                  "category": "natural",
+                  "coords": [
+                        173.118736,
+                        1.365386
+                  ]
+            },
+            {
+                  "name": "Bill house",
+                  "text": "A Bill house egy kilátó Temwaikuban.",
+                  "category": "natural",
+                  "coords": [
+                        173.158837,
+                        1.36154
+                  ]
+            },
+            {
+                  "name": "Maneaban te kukurei",
+                  "text": "A Maneaban te kukurei egy kilátó Temwaikuban.",
+                  "category": "natural",
+                  "coords": [
+                        173.123479,
+                        1.366558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Te Umwanibong",
+                  "text": "Kiribati National Museum and Cultural Centre este un muzeu în Temwaiku.",
+                  "category": "museum",
+                  "coords": [
+                        173.120726,
+                        1.365728
+                  ]
+            },
+            {
+                  "name": "Main port",
+                  "text": "Main port este un punct de belvedere în Temwaiku.",
+                  "category": "natural",
+                  "coords": [
+                        173.118736,
+                        1.365386
+                  ]
+            },
+            {
+                  "name": "Bill house",
+                  "text": "Bill house este un punct de belvedere în Temwaiku.",
+                  "category": "natural",
+                  "coords": [
+                        173.158837,
+                        1.36154
+                  ]
+            },
+            {
+                  "name": "Maneaban te kukurei",
+                  "text": "Maneaban te kukurei este un punct de belvedere în Temwaiku.",
+                  "category": "natural",
+                  "coords": [
+                        173.123479,
+                        1.366558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiribati National Museum and Cultural Centre",
+                  "text": "Kiribati National Museum and Cultural Centre is a museum situated in Temwaiku.",
+                  "category": "museum",
+                  "coords": [
+                        173.120726,
+                        1.365728
+                  ]
+            },
+            {
+                  "name": "Main port",
+                  "text": "Main port is a viewpoint found in Temwaiku.",
+                  "category": "natural",
+                  "coords": [
+                        173.118736,
+                        1.365386
+                  ]
+            },
+            {
+                  "name": "Bill house",
+                  "text": "Bill house is a viewpoint located in Temwaiku.",
+                  "category": "natural",
+                  "coords": [
+                        173.158837,
+                        1.36154
+                  ]
+            },
+            {
+                  "name": "Maneaban te kukurei",
+                  "text": "Maneaban te kukurei is a viewpoint situated in Temwaiku.",
+                  "category": "natural",
+                  "coords": [
+                        173.123479,
+                        1.366558
+                  ]
+            }
+      ]
+},
     parent: "KI",
     type: "village",
     name: { de: "Temwaiku", hu: "Temwaiku", ro: "Temwaiku", en: "Temwaiku" },

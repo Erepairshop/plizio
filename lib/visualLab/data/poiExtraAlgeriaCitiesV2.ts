@@ -32,7 +32,736 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       en: ["Algiers was refounded in 944 AD by the Zirid dynasty ruler Buluggin ibn Ziri.", "The Casbah of Algiers was designated a UNESCO World Heritage site in 1992.", "The city's Great Mosque, Djamaâ el-Djazaïr, was completed in 2019.", "The Martyrs' Memorial was inaugurated in 1982 on the 20th anniversary of independence.", "Algiers is the largest port city in North Africa after Casablanca and Alexandria.", "The city's metro system was the second in Africa (after Cairo) to be operational.", "The Botanical Garden of Hamma features over 3,000 species of plants.", "Average summer temperatures in Algiers typically range from 28°C to 32°C."],
     }, image: "/poi-images/algiers-cities-v2.webp"},
   {
-    id: "oran-cities-v2",
+    id: "oran-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée National Ahmed Zabana",
+                  "text": "Das Nationalmuseum Ahmed Zabana ist ein bemerkenswertes Museum in Oran mit vielfältigen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        -0.645004,
+                        35.695806
+                  ]
+            },
+            {
+                  "name": "Palais du Bey",
+                  "text": "Das Palais du Bey ist ein bedeutender historischer Palast und ein Schloss in Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.649341,
+                        35.705726
+                  ]
+            },
+            {
+                  "name": "porte canastel",
+                  "text": "Porte Canastel ist eine Burganlage in der Stadt Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.652522,
+                        35.705177
+                  ]
+            },
+            {
+                  "name": "Musée d'art moderne d'Oran",
+                  "text": "Das Musée d'art moderne d'Oran ist ein Museum für moderne Kunst in Oran.",
+                  "category": "museum",
+                  "coords": [
+                        -0.64588,
+                        35.701693
+                  ]
+            },
+            {
+                  "name": "Fort Santiago",
+                  "text": "Fort Santiago ist eine historische Burganlage in Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.660111,
+                        35.705462
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction Djanat El Ahlam",
+                  "text": "Der Vergnügungspark Djanat El Ahlam bietet Unterhaltung in Oran.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.634312,
+                        35.6848
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Das Musée du Moudjahid ist ein lokales Museum in Oran.",
+                  "category": "museum",
+                  "coords": [
+                        -0.603384,
+                        35.699372
+                  ]
+            },
+            {
+                  "name": "Théâtre Régional Abdelkader Alloula",
+                  "text": "Das Regionaltheater Abdelkader Alloula ist ein kultureller Veranstaltungsort für darstellende Kunst in Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.650245,
+                        35.703403
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure Hasni",
+                  "text": "Das Théâtre de verdure Hasni ist ein Freilichttheater in der Stadt Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.645374,
+                        35.706371
+                  ]
+            },
+            {
+                  "name": "Fort Saint André",
+                  "text": "Fort Saint André ist eine Burg und historische Festung in Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.652845,
+                        35.698307
+                  ]
+            },
+            {
+                  "name": "Zoo d'Oran",
+                  "text": "Der Zoo d'Oran ist ein zoologischer Garten in Oran.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646716,
+                        35.689292
+                  ]
+            },
+            {
+                  "name": "المدينة الجديدة",
+                  "text": "Die Medina Jdida (Neue Stadt) ist ein markantes Denkmal und ein Viertel in Oran.",
+                  "category": "historical",
+                  "coords": [
+                        -0.64732,
+                        35.695515
+                  ]
+            },
+            {
+                  "name": "قمبيطة",
+                  "text": "Gambetta ist ein bemerkenswertes Denkmal und ein Gebiet in der Stadt Oran.",
+                  "category": "historical",
+                  "coords": [
+                        -0.621498,
+                        35.706932
+                  ]
+            },
+            {
+                  "name": "سعيدان",
+                  "text": "Saidan ist eine Touristenattraktion in der Stadt Oran.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.651908,
+                        35.67676
+                  ]
+            },
+            {
+                  "name": "جمعية نوميديا ​​الثقافية",
+                  "text": "Die Kulturvereinigung Numidia ist ein Kunstzentrum in Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.640795,
+                        35.704799
+                  ]
+            },
+            {
+                  "name": "Conservatoire Ahmed Wahbi المعهد الموسيقي أحمد وهبي",
+                  "text": "Das Ahmed Wahbi Konservatorium ist ein wichtiges Kunst- und Musikzentrum in Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644713,
+                        35.704106
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des arts d'Oran",
+                  "text": "Der Palais de la Culture et des arts d'Oran ist ein bedeutendes Kunstzentrum in Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.647799,
+                        35.700317
+                  ]
+            },
+            {
+                  "name": "Association Santé Sidi El Houari (SDH) \"L'école de la citoyenneté\"",
+                  "text": "Die Association Santé Sidi El Houari (SDH) ist ein Kunst- und Gemeindezentrum in Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.654223,
+                        35.704721
+                  ]
+            },
+            {
+                  "name": "Mosquée Abdelhamid Ben Badis",
+                  "text": "Die Moschee von Abdelhamid Ibn Badis ist ein bedeutendes Gotteshaus in Oran.",
+                  "category": "religious",
+                  "coords": [
+                        -0.606427,
+                        35.697734
+                  ]
+            },
+            {
+                  "name": "Mosquée Abdallah Ibn Salam",
+                  "text": "Die Abdallah Ibn Salam Moschee ist eine Stätte des Kulturerbes in Oran.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.650028,
+                        35.70002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée National Ahmed Zabana",
+                  "text": "Az Ahmed Zabana Nemzeti Múzeum egy jelentős múzeum Oránban, amely változatos kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.645004,
+                        35.695806
+                  ]
+            },
+            {
+                  "name": "Palais du Bey",
+                  "text": "A Palais du Bey egy jelentős történelmi palota és kastély Oránban.",
+                  "category": "castle",
+                  "coords": [
+                        -0.649341,
+                        35.705726
+                  ]
+            },
+            {
+                  "name": "porte canastel",
+                  "text": "A Porte Canastel egy kastélyépület Orán városában.",
+                  "category": "castle",
+                  "coords": [
+                        -0.652522,
+                        35.705177
+                  ]
+            },
+            {
+                  "name": "Musée d'art moderne d'Oran",
+                  "text": "A Musée d'art moderne d'Oran egy modern művészetnek szentelt múzeum Oránban.",
+                  "category": "museum",
+                  "coords": [
+                        -0.64588,
+                        35.701693
+                  ]
+            },
+            {
+                  "name": "Fort Santiago",
+                  "text": "A Fort Santiago egy történelmi erődítmény Oránban.",
+                  "category": "castle",
+                  "coords": [
+                        -0.660111,
+                        35.705462
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction Djanat El Ahlam",
+                  "text": "A Djanat El Ahlam vidámpark szórakozási lehetőségeket kínál Oránban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.634312,
+                        35.6848
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "A Musée du Moudjahid egy helyi múzeum Oránban.",
+                  "category": "museum",
+                  "coords": [
+                        -0.603384,
+                        35.699372
+                  ]
+            },
+            {
+                  "name": "Théâtre Régional Abdelkader Alloula",
+                  "text": "Az Abdelkader Alloula Regionális Színház a kulturális előadó-művészetek helyszíne Oránban.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.650245,
+                        35.703403
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure Hasni",
+                  "text": "A Théâtre de verdure Hasni egy szabadtéri színházi helyszín Orán városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.645374,
+                        35.706371
+                  ]
+            },
+            {
+                  "name": "Fort Saint André",
+                  "text": "A Fort Saint André egy kastély és történelmi erődítmény Oránban.",
+                  "category": "castle",
+                  "coords": [
+                        -0.652845,
+                        35.698307
+                  ]
+            },
+            {
+                  "name": "Zoo d'Oran",
+                  "text": "A Zoo d'Oran egy állatkert Orán városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646716,
+                        35.689292
+                  ]
+            },
+            {
+                  "name": "المدينة الجديدة",
+                  "text": "A Medina Jdida (Újváros) egy kiemelkedő emlékmű és negyed Oránban.",
+                  "category": "historical",
+                  "coords": [
+                        -0.64732,
+                        35.695515
+                  ]
+            },
+            {
+                  "name": "قمبيطة",
+                  "text": "Gambetta egy jelentős műemlék és terület Orán városában.",
+                  "category": "historical",
+                  "coords": [
+                        -0.621498,
+                        35.706932
+                  ]
+            },
+            {
+                  "name": "سعيدان",
+                  "text": "Saidan egy turisztikai látványosság Orán városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.651908,
+                        35.67676
+                  ]
+            },
+            {
+                  "name": "جمعية نوميديا ​​الثقافية",
+                  "text": "A Numidia Kulturális Egyesület egy művészeti központ Oránban.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.640795,
+                        35.704799
+                  ]
+            },
+            {
+                  "name": "Conservatoire Ahmed Wahbi المعهد الموسيقي أحمد وهبي",
+                  "text": "Az Ahmed Wahbi Konzervatórium egy fontos művészeti és zenei központ Oránban.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644713,
+                        35.704106
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des arts d'Oran",
+                  "text": "A Palais de la Culture et des arts d'Oran egy jelentős művészeti központ Oránban.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.647799,
+                        35.700317
+                  ]
+            },
+            {
+                  "name": "Association Santé Sidi El Houari (SDH) \"L'école de la citoyenneté\"",
+                  "text": "Az Association Santé Sidi El Houari (SDH) egy művészeti és közösségi központ Oránban.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.654223,
+                        35.704721
+                  ]
+            },
+            {
+                  "name": "Mosquée Abdelhamid Ben Badis",
+                  "text": "Az Abdelhamid Ibn Badis mecset egy kiemelkedő imahely Oránban.",
+                  "category": "religious",
+                  "coords": [
+                        -0.606427,
+                        35.697734
+                  ]
+            },
+            {
+                  "name": "Mosquée Abdallah Ibn Salam",
+                  "text": "Az Abdallah Ibn Salam mecset egy kulturális örökségi helyszín Oránban.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.650028,
+                        35.70002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée National Ahmed Zabana",
+                  "text": "Muzeul Național Ahmed Zabana este un muzeu notabil din Oran care prezintă diverse exponate.",
+                  "category": "museum",
+                  "coords": [
+                        -0.645004,
+                        35.695806
+                  ]
+            },
+            {
+                  "name": "Palais du Bey",
+                  "text": "Palais du Bey este un palat și castel istoric notabil situat în Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.649341,
+                        35.705726
+                  ]
+            },
+            {
+                  "name": "porte canastel",
+                  "text": "Porte Canastel este o structură de castel situată în orașul Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.652522,
+                        35.705177
+                  ]
+            },
+            {
+                  "name": "Musée d'art moderne d'Oran",
+                  "text": "Musée d'art moderne d'Oran este un muzeu dedicat artei moderne din Oran.",
+                  "category": "museum",
+                  "coords": [
+                        -0.64588,
+                        35.701693
+                  ]
+            },
+            {
+                  "name": "Fort Santiago",
+                  "text": "Fort Santiago este o structură istorică tip castel situată în Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.660111,
+                        35.705462
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction Djanat El Ahlam",
+                  "text": "Parcul de distracții Djanat El Ahlam este un parc tematic care oferă divertisment în Oran.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.634312,
+                        35.6848
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Musée du Moudjahid este un muzeu local situat în Oran.",
+                  "category": "museum",
+                  "coords": [
+                        -0.603384,
+                        35.699372
+                  ]
+            },
+            {
+                  "name": "Théâtre Régional Abdelkader Alloula",
+                  "text": "Teatrul Regional Abdelkader Alloula este un spațiu cultural pentru artele spectacolului din Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.650245,
+                        35.703403
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure Hasni",
+                  "text": "Théâtre de verdure Hasni este un teatru în aer liber din orașul Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.645374,
+                        35.706371
+                  ]
+            },
+            {
+                  "name": "Fort Saint André",
+                  "text": "Fort Saint André este un castel și o fortificație istorică din Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.652845,
+                        35.698307
+                  ]
+            },
+            {
+                  "name": "Zoo d'Oran",
+                  "text": "Grădina Zoologică din Oran este un parc zoologic situat în Oran.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646716,
+                        35.689292
+                  ]
+            },
+            {
+                  "name": "المدينة الجديدة",
+                  "text": "Medina Jdida (Orașul Nou) este un monument și un cartier proeminent din Oran.",
+                  "category": "historical",
+                  "coords": [
+                        -0.64732,
+                        35.695515
+                  ]
+            },
+            {
+                  "name": "قمبيطة",
+                  "text": "Gambetta este un monument și o zonă notabilă situată în orașul Oran.",
+                  "category": "historical",
+                  "coords": [
+                        -0.621498,
+                        35.706932
+                  ]
+            },
+            {
+                  "name": "سعيدان",
+                  "text": "Saidan este o atracție turistică situată în orașul Oran.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.651908,
+                        35.67676
+                  ]
+            },
+            {
+                  "name": "جمعية نوميديا ​​الثقافية",
+                  "text": "Asociația Culturală Numidia este un centru de arte situat în Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.640795,
+                        35.704799
+                  ]
+            },
+            {
+                  "name": "Conservatoire Ahmed Wahbi المعهد الموسيقي أحمد وهبي",
+                  "text": "Conservatorul Ahmed Wahbi este un important centru de artă și muzică din Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644713,
+                        35.704106
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des arts d'Oran",
+                  "text": "Palais de la Culture et des arts d'Oran este un centru de arte major din Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.647799,
+                        35.700317
+                  ]
+            },
+            {
+                  "name": "Association Santé Sidi El Houari (SDH) \"L'école de la citoyenneté\"",
+                  "text": "Asociația Santé Sidi El Houari (SDH) este un centru de artă și comunitar din Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.654223,
+                        35.704721
+                  ]
+            },
+            {
+                  "name": "Mosquée Abdelhamid Ben Badis",
+                  "text": "Moscheea lui Abdelhamid Ibn Badis este un proeminent lăcaș de cult situat în Oran.",
+                  "category": "religious",
+                  "coords": [
+                        -0.606427,
+                        35.697734
+                  ]
+            },
+            {
+                  "name": "Mosquée Abdallah Ibn Salam",
+                  "text": "Moscheea Abdallah Ibn Salam este un sit de patrimoniu cultural situat în Oran.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.650028,
+                        35.70002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ahmed Zabana National Museum",
+                  "text": "The Ahmed Zabana National Museum is a notable museum in Oran featuring diverse exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -0.645004,
+                        35.695806
+                  ]
+            },
+            {
+                  "name": "Palais du Bey",
+                  "text": "The Palais du Bey is a notable historic palace and castle located in Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.649341,
+                        35.705726
+                  ]
+            },
+            {
+                  "name": "porte canastel",
+                  "text": "Porte Canastel is a castle structure located in the city of Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.652522,
+                        35.705177
+                  ]
+            },
+            {
+                  "name": "Musée d'art moderne d'Oran",
+                  "text": "The Musée d'art moderne d'Oran is a museum dedicated to modern art in Oran.",
+                  "category": "museum",
+                  "coords": [
+                        -0.64588,
+                        35.701693
+                  ]
+            },
+            {
+                  "name": "Fort Santiago",
+                  "text": "Fort Santiago is a historical castle structure located in Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.660111,
+                        35.705462
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction Djanat El Ahlam",
+                  "text": "Parc d'attraction Djanat El Ahlam is a theme park offering entertainment in Oran.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.634312,
+                        35.6848
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "The Musée du Moudjahid is a local museum located in Oran.",
+                  "category": "museum",
+                  "coords": [
+                        -0.603384,
+                        35.699372
+                  ]
+            },
+            {
+                  "name": "Abdelkader Alloula Regional Theatre",
+                  "text": "The Abdelkader Alloula Regional Theatre is a cultural venue for performing arts in Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.650245,
+                        35.703403
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure Hasni",
+                  "text": "Théâtre de verdure Hasni is an open-air theatre venue in the city of Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.645374,
+                        35.706371
+                  ]
+            },
+            {
+                  "name": "Fort Saint André",
+                  "text": "Fort Saint André is a castle and historic fortification in Oran.",
+                  "category": "castle",
+                  "coords": [
+                        -0.652845,
+                        35.698307
+                  ]
+            },
+            {
+                  "name": "Zoo d'Oran",
+                  "text": "The Zoo d'Oran is a zoological park located in Oran.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646716,
+                        35.689292
+                  ]
+            },
+            {
+                  "name": "المدينة الجديدة",
+                  "text": "The Medina Jdida (New City) is a prominent monument and district in Oran.",
+                  "category": "historical",
+                  "coords": [
+                        -0.64732,
+                        35.695515
+                  ]
+            },
+            {
+                  "name": "قمبيطة",
+                  "text": "Gambetta is a notable monument and area located in the city of Oran.",
+                  "category": "historical",
+                  "coords": [
+                        -0.621498,
+                        35.706932
+                  ]
+            },
+            {
+                  "name": "Saidan",
+                  "text": "Saidan is a tourist attraction found in the city of Oran.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.651908,
+                        35.67676
+                  ]
+            },
+            {
+                  "name": "جمعية نوميديا ​​الثقافية",
+                  "text": "The Numidia Cultural Association is an arts centre situated in Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.640795,
+                        35.704799
+                  ]
+            },
+            {
+                  "name": "Conservatoire Ahmed Wahbi المعهد الموسيقي أحمد وهبي",
+                  "text": "The Ahmed Wahbi Conservatory is an important arts and music centre in Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644713,
+                        35.704106
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des arts d'Oran",
+                  "text": "The Palais de la Culture et des arts d'Oran is a major arts centre in Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.647799,
+                        35.700317
+                  ]
+            },
+            {
+                  "name": "Association Santé Sidi El Houari (SDH) \"L'école de la citoyenneté\"",
+                  "text": "The Association Santé Sidi El Houari (SDH) is an arts and community centre in Oran.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.654223,
+                        35.704721
+                  ]
+            },
+            {
+                  "name": "Mosque of Abdelhamid Ibn Badis",
+                  "text": "The Mosque of Abdelhamid Ibn Badis is a prominent place of worship located in Oran.",
+                  "category": "religious",
+                  "coords": [
+                        -0.606427,
+                        35.697734
+                  ]
+            },
+            {
+                  "name": "Abdallah Ibn Salam Mosque",
+                  "text": "The Abdallah Ibn Salam Mosque is a site of cultural heritage situated in Oran.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.650028,
+                        35.70002
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-31",
     coords: [-0.6331, 35.6911],
@@ -67,7 +796,484 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Oran a été fondée en 902 ap. J.-C. par des marchands andalous.", "Les Espagnols ont régné sur la ville de 1509 à 1708.", "Le fort Santa Cruz surplombe la ville sur le mont Murdjadjo.", "Oran est le lieu de naissance de la musique Raï.", "La ville est le cadre du roman 'La Peste' (1947) d'Albert Camus.", "La population de l'aire métropolitaine dépasse 1,5 million d'habitants.", "L'Université d'Oran est l'une des plus anciennes d'Algérie.", "Le port est un centre pour la pétrochimie et le commerce méditerranéen."],
     }, image: "/poi-images/oran-cities-v2.webp"},
   {
-    id: "constantine-cities-v2",
+    id: "constantine-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Public National Cirta",
+                  "text": "Cirta-Museum in Constantine, mit antiken Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        6.607138,
+                        36.36288
+                  ]
+            },
+            {
+                  "name": "Palais du Bey",
+                  "text": "Palast des Beys in Constantine.",
+                  "category": "castle",
+                  "coords": [
+                        6.611554,
+                        36.367801
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Museum für den Unabhängigkeitskrieg in Constantine.",
+                  "category": "museum",
+                  "coords": [
+                        6.621546,
+                        36.350054
+                  ]
+            },
+            {
+                  "name": "جسر ملاح سليمان",
+                  "text": "Slimane-Mellah-Brücke in Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61498,
+                        36.36625
+                  ]
+            },
+            {
+                  "name": "جسر سيدي مسيد",
+                  "text": "Sidi-M'Cid-Brücke in Constantine, eine markante Hängebrücke.",
+                  "category": "landmark",
+                  "coords": [
+                        6.614432,
+                        36.372527
+                  ]
+            },
+            {
+                  "name": "Conservatoire municipal des Arts Abdelmoumen Bentoubel",
+                  "text": "Städtisches Kunstkonservatorium in Constantine.",
+                  "category": "cultural",
+                  "coords": [
+                        6.60968,
+                        36.356407
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Kriegerdenkmal in Constantine mit Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        6.613469,
+                        36.375222
+                  ]
+            },
+            {
+                  "name": "الهرم",
+                  "text": "Pyramidenartiges Bauwerk in Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.606471,
+                        36.360368
+                  ]
+            },
+            {
+                  "name": "Aqueduc Romain",
+                  "text": "Römisches Aquädukt in Constantine.",
+                  "category": "historical",
+                  "coords": [
+                        6.617577,
+                        36.350196
+                  ]
+            },
+            {
+                  "name": "Palais de la culture Mohamed Laïd El-Khalifa",
+                  "text": "Mohamed-Laid-Al-Khalifa-Kulturpalast in Constantine.",
+                  "category": "cultural",
+                  "coords": [
+                        6.608074,
+                        36.363832
+                  ]
+            },
+            {
+                  "name": "دار الثقافة مالك حداد",
+                  "text": "Malek-Haddad-Kulturzentrum in Constantine.",
+                  "category": "cultural",
+                  "coords": [
+                        6.609404,
+                        36.351556
+                  ]
+            },
+            {
+                  "name": "جسر باب القنطرة",
+                  "text": "Bab-El-Kantra-Brücke in Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.618144,
+                        36.368983
+                  ]
+            },
+            {
+                  "name": "جسر سيدي راشد",
+                  "text": "Sidi-Rached-Viadukt in Constantine, eine beeindruckende Brücke.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61357,
+                        36.363138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Public National Cirta",
+                  "text": "Cirta Múzeum Constantine-ban, antik gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        6.607138,
+                        36.36288
+                  ]
+            },
+            {
+                  "name": "Palais du Bey",
+                  "text": "A Bey palotája Constantine-ban.",
+                  "category": "castle",
+                  "coords": [
+                        6.611554,
+                        36.367801
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Függetlenségi háborús múzeum Constantine-ban.",
+                  "category": "museum",
+                  "coords": [
+                        6.621546,
+                        36.350054
+                  ]
+            },
+            {
+                  "name": "جسر ملاح سليمان",
+                  "text": "Slimane Mellah híd Constantine-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61498,
+                        36.36625
+                  ]
+            },
+            {
+                  "name": "جسر سيدي مسيد",
+                  "text": "Sidi M'Cid híd Constantine-ban, jellegzetes függőhíd.",
+                  "category": "landmark",
+                  "coords": [
+                        6.614432,
+                        36.372527
+                  ]
+            },
+            {
+                  "name": "Conservatoire municipal des Arts Abdelmoumen Bentoubel",
+                  "text": "Városi művészeti konzervatórium Constantine-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.60968,
+                        36.356407
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Háborús emlékmű Constantine-ban, kilátóval.",
+                  "category": "natural",
+                  "coords": [
+                        6.613469,
+                        36.375222
+                  ]
+            },
+            {
+                  "name": "الهرم",
+                  "text": "Piramis alakú építmény Constantine-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.606471,
+                        36.360368
+                  ]
+            },
+            {
+                  "name": "Aqueduc Romain",
+                  "text": "Római vízvezeték Constantine-ban.",
+                  "category": "historical",
+                  "coords": [
+                        6.617577,
+                        36.350196
+                  ]
+            },
+            {
+                  "name": "Palais de la culture Mohamed Laïd El-Khalifa",
+                  "text": "Mohamed Laid Al-Khalifa kulturális palota Constantine-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.608074,
+                        36.363832
+                  ]
+            },
+            {
+                  "name": "دار الثقافة مالك حداد",
+                  "text": "Malek Haddad kulturális központ Constantine-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.609404,
+                        36.351556
+                  ]
+            },
+            {
+                  "name": "جسر باب القنطرة",
+                  "text": "Bab El Kantra híd Constantine-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.618144,
+                        36.368983
+                  ]
+            },
+            {
+                  "name": "جسر سيدي راشد",
+                  "text": "Sidi Rached viadukt Constantine-ban, lenyűgöző híd.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61357,
+                        36.363138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Public National Cirta",
+                  "text": "Muzeul Cirta din Constantine, cu colecții antice.",
+                  "category": "museum",
+                  "coords": [
+                        6.607138,
+                        36.36288
+                  ]
+            },
+            {
+                  "name": "Palais du Bey",
+                  "text": "Palatul Bey-ului din Constantine.",
+                  "category": "castle",
+                  "coords": [
+                        6.611554,
+                        36.367801
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Muzeul Războiului de Independență din Constantine.",
+                  "category": "museum",
+                  "coords": [
+                        6.621546,
+                        36.350054
+                  ]
+            },
+            {
+                  "name": "جسر ملاح سليمان",
+                  "text": "Podul Slimane Mellah din Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61498,
+                        36.36625
+                  ]
+            },
+            {
+                  "name": "جسر سيدي مسيد",
+                  "text": "Podul Sidi M'Cid din Constantine, un pod suspendat distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        6.614432,
+                        36.372527
+                  ]
+            },
+            {
+                  "name": "Conservatoire municipal des Arts Abdelmoumen Bentoubel",
+                  "text": "Conservatorul municipal de arte din Constantine.",
+                  "category": "cultural",
+                  "coords": [
+                        6.60968,
+                        36.356407
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "Monumentul eroilor din Constantine cu punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        6.613469,
+                        36.375222
+                  ]
+            },
+            {
+                  "name": "الهرم",
+                  "text": "Structură piramidală în Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.606471,
+                        36.360368
+                  ]
+            },
+            {
+                  "name": "Aqueduc Romain",
+                  "text": "Apeduct roman în Constantine.",
+                  "category": "historical",
+                  "coords": [
+                        6.617577,
+                        36.350196
+                  ]
+            },
+            {
+                  "name": "Palais de la culture Mohamed Laïd El-Khalifa",
+                  "text": "Palatul culturii Mohamed Laid Al-Khalifa din Constantine.",
+                  "category": "cultural",
+                  "coords": [
+                        6.608074,
+                        36.363832
+                  ]
+            },
+            {
+                  "name": "دار الثقافة مالك حداد",
+                  "text": "Centrul cultural Malek Haddad din Constantine.",
+                  "category": "cultural",
+                  "coords": [
+                        6.609404,
+                        36.351556
+                  ]
+            },
+            {
+                  "name": "جسر باب القنطرة",
+                  "text": "Podul Bab El Kantra din Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.618144,
+                        36.368983
+                  ]
+            },
+            {
+                  "name": "جسر سيدي راشد",
+                  "text": "Viaductul Sidi Rached din Constantine, un pod impresionant.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61357,
+                        36.363138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Public National Cirta",
+                  "text": "Cirta Museum in Constantine, featuring ancient collections.",
+                  "category": "museum",
+                  "coords": [
+                        6.607138,
+                        36.36288
+                  ]
+            },
+            {
+                  "name": "Palais du Bey",
+                  "text": "Palace of the Bey in Constantine.",
+                  "category": "castle",
+                  "coords": [
+                        6.611554,
+                        36.367801
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Museum of the War of Independence in Constantine.",
+                  "category": "museum",
+                  "coords": [
+                        6.621546,
+                        36.350054
+                  ]
+            },
+            {
+                  "name": "Slimane Mellah Bridge",
+                  "text": "Slimane Mellah Bridge in Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61498,
+                        36.36625
+                  ]
+            },
+            {
+                  "name": "جسر سيدي مسيد",
+                  "text": "Sidi M'Cid Bridge in Constantine, a distinctive suspension bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        6.614432,
+                        36.372527
+                  ]
+            },
+            {
+                  "name": "Conservatoire municipal des Arts Abdelmoumen Bentoubel",
+                  "text": "Municipal arts conservatory in Constantine.",
+                  "category": "cultural",
+                  "coords": [
+                        6.60968,
+                        36.356407
+                  ]
+            },
+            {
+                  "name": "Monument aux morts",
+                  "text": "War memorial in Constantine with a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        6.613469,
+                        36.375222
+                  ]
+            },
+            {
+                  "name": "الهرم",
+                  "text": "Pyramid-like structure in Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.606471,
+                        36.360368
+                  ]
+            },
+            {
+                  "name": "Aqueduc Romain",
+                  "text": "Roman aqueduct in Constantine.",
+                  "category": "historical",
+                  "coords": [
+                        6.617577,
+                        36.350196
+                  ]
+            },
+            {
+                  "name": "Mohamed Laid Al-Khalifa culture palace",
+                  "text": "Mohamed Laid Al-Khalifa culture palace in Constantine.",
+                  "category": "cultural",
+                  "coords": [
+                        6.608074,
+                        36.363832
+                  ]
+            },
+            {
+                  "name": "دار الثقافة مالك حداد",
+                  "text": "Malek Haddad cultural center in Constantine.",
+                  "category": "cultural",
+                  "coords": [
+                        6.609404,
+                        36.351556
+                  ]
+            },
+            {
+                  "name": "جسر باب القنطرة",
+                  "text": "Bab El Kantra Bridge in Constantine.",
+                  "category": "landmark",
+                  "coords": [
+                        6.618144,
+                        36.368983
+                  ]
+            },
+            {
+                  "name": "Sayyidi Rashid Bridge",
+                  "text": "Sidi Rached Viaduct in Constantine, an impressive bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61357,
+                        36.363138
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-25",
     coords: [6.6147, 36.365],
@@ -102,7 +1308,664 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Les gorges du Rhumel atteignent 200 mètres de profondeur.", "Sept ponts spectaculaires relient les différents quartiers.", "Sidi M'Cid était le plus haut pont suspendu du monde en 1912.", "La cité antique de Cirta était la capitale de la Numidie.", "L'empereur Constantin fit reconstruire la ville en 313 apr. J.-C.", "Le palais d'Ahmed Bey est un chef-d'œuvre de l'architecture ottomane.", "Constantine est un centre de la musique Malouf.", "La ville est située à environ 640 mètres d'altitude."],
     }, image: "/poi-images/constantine-cities-v2.webp"},
   {
-    id: "annaba-cities-v2",
+    id: "annaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "Das Musée des Ruines d'Hippone ist ein Museum in Annaba.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "Das Annaba Theater ist eine archäologische Stätte in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "Das متحف المجاهد (Mudschaheddin-Museum) ist ein Museum in Annaba.",
+                  "category": "museum",
+                  "coords": [
+                        7.742644,
+                        36.913424
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "Die Villa of Procurator ist eine archäologische Stätte in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "Die Southern Baths sind historische Ausgrabungsstätten in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "Plage Chapuis ist ein Strand in der Küstenstadt Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761094,
+                        36.927583
+                  ]
+            },
+            {
+                  "name": "شاطئ رشيد فلاح",
+                  "text": "شاطئ رشيد فلاح ist ein lokaler Strand in Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.765764,
+                        36.919054
+                  ]
+            },
+            {
+                  "name": "Site archéologique d’Hippone (Annaba)",
+                  "text": "Die Site archéologique d’Hippone ist eine bedeutende archäologische Stätte in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750136,
+                        36.882437
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "Das Théatre Azzedine Medjoubi ist ein Theater in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759576,
+                        36.899696
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Das Théâtre de verdure ist ein Freilufttheater in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757584,
+                        36.903197
+                  ]
+            },
+            {
+                  "name": "شاطئ قطارة",
+                  "text": "شاطئ قطارة ist ein Strand in Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.772401,
+                        36.909392
+                  ]
+            },
+            {
+                  "name": "شاطئ اليهود",
+                  "text": "شاطئ اليهود ist ein Küstenstrand in der Stadt Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.768413,
+                        36.916526
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "Die Thermen von Hippo Regius bilden eine archäologische Stätte in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "Das Forum von Hippo Regius ist eine archäologische Stätte in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الفرنسي",
+                  "text": "Das المركز الثقافي الفرنسي (Französisches Kulturzentrum) ist ein Kunstzentrum in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.760398,
+                        36.905461
+                  ]
+            },
+            {
+                  "name": "مسجد صالح باي",
+                  "text": "Die Salah Bey Moschee ist ein historisches osmanisches Gotteshaus in Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.762304,
+                        36.899015
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "Die Mosquée de Sidi Bou Merouane ist eine der ältesten Moscheen in Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.764156,
+                        36.898428
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "Die Basilique Saint-Augustin ist eine katholische Basilika in Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.74475,
+                        36.881913
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "A Musée des Ruines d'Hippone egy múzeum Annaba városában.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "Az Annaba Theater egy régészeti lelőhely Annabában.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "A متحف المجاهد (Mudzsahedin Múzeum) egy múzeum Annabában.",
+                  "category": "museum",
+                  "coords": [
+                        7.742644,
+                        36.913424
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "A Villa of Procurator egy régészeti lelőhely Annabában.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "A Southern Baths egy történelmi régészeti lelőhely Annabában.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "A Plage Chapuis egy tengerpart Annaba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761094,
+                        36.927583
+                  ]
+            },
+            {
+                  "name": "شاطئ رشيد فلاح",
+                  "text": "A شاطئ رشيد فلاح egy helyi tengerpart Annabában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.765764,
+                        36.919054
+                  ]
+            },
+            {
+                  "name": "Site archéologique d’Hippone (Annaba)",
+                  "text": "A Site archéologique d’Hippone egy régészeti lelőhely Annaba városában.",
+                  "category": "historical",
+                  "coords": [
+                        7.750136,
+                        36.882437
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "A Théatre Azzedine Medjoubi egy színház Annabában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759576,
+                        36.899696
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "A Théâtre de verdure egy szabadtéri színház Annabában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757584,
+                        36.903197
+                  ]
+            },
+            {
+                  "name": "شاطئ قطارة",
+                  "text": "A شاطئ قطارة egy tengerpart Annabában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.772401,
+                        36.909392
+                  ]
+            },
+            {
+                  "name": "شاطئ اليهود",
+                  "text": "A شاطئ اليهود egy part menti strand Annaba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.768413,
+                        36.916526
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "A Hippo Regius fürdői egy régészeti lelőhely Annabában.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "A Hippo Regius fóruma egy régészeti lelőhely Annabában.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الفرنسي",
+                  "text": "A المركز الثقافي الفرنسي (Francia Kulturális Központ) egy művészeti központ Annabában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.760398,
+                        36.905461
+                  ]
+            },
+            {
+                  "name": "مسجد صالح باي",
+                  "text": "A Salah Bey mecset egy történelmi oszmán kori imahely Annabában.",
+                  "category": "religious",
+                  "coords": [
+                        7.762304,
+                        36.899015
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "A Mosquée de Sidi Bou Merouane a város egyik legrégebbi mecsete Annabában.",
+                  "category": "religious",
+                  "coords": [
+                        7.764156,
+                        36.898428
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "A Basilique Saint-Augustin egy katolikus bazilika Annaba városában.",
+                  "category": "religious",
+                  "coords": [
+                        7.74475,
+                        36.881913
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "Musée des Ruines d'Hippone este un muzeu din orașul Annaba.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "Annaba Theater este un sit arheologic situat în Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "متحف المجاهد (Muzeul Mujahedinilor) este un muzeu în Annaba.",
+                  "category": "museum",
+                  "coords": [
+                        7.742644,
+                        36.913424
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "Villa of Procurator este un sit arheologic din orașul Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "Southern Baths reprezintă un sit arheologic istoric din Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "Plage Chapuis este o plajă situată în Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761094,
+                        36.927583
+                  ]
+            },
+            {
+                  "name": "شاطئ رشيد فلاح",
+                  "text": "شاطئ رشيد فلاح este o plajă locală din Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.765764,
+                        36.919054
+                  ]
+            },
+            {
+                  "name": "Site archéologique d’Hippone (Annaba)",
+                  "text": "Site archéologique d’Hippone este un sit arheologic situat în Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750136,
+                        36.882437
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "Théatre Azzedine Medjoubi este un teatru din orașul Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759576,
+                        36.899696
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Théâtre de verdure este un teatru în aer liber din Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757584,
+                        36.903197
+                  ]
+            },
+            {
+                  "name": "شاطئ قطارة",
+                  "text": "شاطئ قطارة este o plajă din Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.772401,
+                        36.909392
+                  ]
+            },
+            {
+                  "name": "شاطئ اليهود",
+                  "text": "شاطئ اليهود este o plajă situată pe coasta din Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.768413,
+                        36.916526
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "Termele de la Hippo Regius sunt un sit arheologic din Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "Forumul de la Hippo Regius este un sit arheologic din Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الفرنسي",
+                  "text": "المركز الثقافي الفرنسي (Centrul Cultural Francez) este un centru de arte din Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.760398,
+                        36.905461
+                  ]
+            },
+            {
+                  "name": "مسجد صالح باي",
+                  "text": "Moscheea Salah Bey este un lăcaș de cult istoric otoman din Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.762304,
+                        36.899015
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "Mosquée de Sidi Bou Merouane este una dintre cele mai vechi moschei din Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.764156,
+                        36.898428
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "Basilique Saint-Augustin este o bazilică catolică din orașul Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.74475,
+                        36.881913
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des Ruines d'Hippone",
+                  "text": "The Musée des Ruines d'Hippone is a museum located in the city of Annaba.",
+                  "category": "museum",
+                  "coords": [
+                        7.751782,
+                        36.882034
+                  ]
+            },
+            {
+                  "name": "Annaba Theater",
+                  "text": "The Annaba Theater is an archaeological site situated in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.74672,
+                        36.881403
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "The متحف المجاهد (Mujahideen Museum) is a museum located in Annaba.",
+                  "category": "museum",
+                  "coords": [
+                        7.742644,
+                        36.913424
+                  ]
+            },
+            {
+                  "name": "Villa of Procurator",
+                  "text": "The Villa of Procurator is an archaeological site located in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.749249,
+                        36.880844
+                  ]
+            },
+            {
+                  "name": "Southern Baths",
+                  "text": "The Southern Baths are a historical archaeological site in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750935,
+                        36.880716
+                  ]
+            },
+            {
+                  "name": "Plage Chapuis",
+                  "text": "Plage Chapuis is a beach situated in the city of Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761094,
+                        36.927583
+                  ]
+            },
+            {
+                  "name": "شاطئ رشيد فلاح",
+                  "text": "شاطئ رشيد فلاح is a local beach located in Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.765764,
+                        36.919054
+                  ]
+            },
+            {
+                  "name": "Site archéologique d’Hippone (Annaba)",
+                  "text": "The Site archéologique d’Hippone is an archaeological site in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750136,
+                        36.882437
+                  ]
+            },
+            {
+                  "name": "Théatre Azzedine Medjoubi",
+                  "text": "The Théatre Azzedine Medjoubi is a theatre located in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.759576,
+                        36.899696
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "The Théâtre de verdure is an open-air theatre in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.757584,
+                        36.903197
+                  ]
+            },
+            {
+                  "name": "شاطئ قطارة",
+                  "text": "شاطئ قطارة is a beach located in Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.772401,
+                        36.909392
+                  ]
+            },
+            {
+                  "name": "شاطئ اليهود",
+                  "text": "شاطئ اليهود is a coastal beach in the city of Annaba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.768413,
+                        36.916526
+                  ]
+            },
+            {
+                  "name": "Hippo Regius, Thermae",
+                  "text": "The Thermae of Hippo Regius form an archaeological site in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.750171,
+                        36.884752
+                  ]
+            },
+            {
+                  "name": "Forum of Hippo Regius",
+                  "text": "The Forum of Hippo Regius is an archaeological site in Annaba.",
+                  "category": "historical",
+                  "coords": [
+                        7.748134,
+                        36.881555
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الفرنسي",
+                  "text": "The المركز الثقافي الفرنسي (French Cultural Center) is an arts centre in Annaba.",
+                  "category": "cultural",
+                  "coords": [
+                        7.760398,
+                        36.905461
+                  ]
+            },
+            {
+                  "name": "مسجد صالح باي",
+                  "text": "The Salah Bey Mosque is a historical Ottoman-era place of worship in Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.762304,
+                        36.899015
+                  ]
+            },
+            {
+                  "name": "Mosquée de Sidi Bou Merouane",
+                  "text": "The Mosquée de Sidi Bou Merouane is one of the oldest mosques in Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.764156,
+                        36.898428
+                  ]
+            },
+            {
+                  "name": "Basilique Saint-Augustin",
+                  "text": "The Basilique Saint-Augustin is a Catholic basilica located in Annaba.",
+                  "category": "religious",
+                  "coords": [
+                        7.74475,
+                        36.881913
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-23",
     coords: [7.7667, 36.9],
@@ -137,7 +2000,88 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Annaba était connue sous le nom d'Hippo Regius dans l'Antiquité.", "Saint Augustin y fut évêque de 396 à 430 apr. J.-C.", "La basilique Saint-Augustin a été achevée en 1909.", "El Hadjar est l'un des plus grands complexes sidérurgiques d'Afrique.", "À l'époque coloniale française, la ville s'appelait Bône.", "Annaba est la quatrième ville la plus peuplée d'Algérie.", "Le port est spécialisé dans l'exportation de phosphate et de minerai de fer.", "La cité fut fondée par les Phéniciens comme comptoir commercial."],
     }, image: "/poi-images/annaba-cities-v2.webp"},
   {
-    id: "blida-cities-v2",
+    id: "blida-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre Mohamed El Touri",
+                  "text": "Das Théâtre Mohamed El Touri ist ein Theater in der Stadt Blida.",
+                  "category": "cultural",
+                  "coords": [
+                        2.828153,
+                        36.469729
+                  ]
+            },
+            {
+                  "name": "Parc de loisirs familial de Blida",
+                  "text": "Der Parc de loisirs familial de Blida ist ein Freizeitpark in der Stadt Blida.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802589,
+                        36.467994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre Mohamed El Touri",
+                  "text": "A Théâtre Mohamed El Touri egy színház Blida városában.",
+                  "category": "cultural",
+                  "coords": [
+                        2.828153,
+                        36.469729
+                  ]
+            },
+            {
+                  "name": "Parc de loisirs familial de Blida",
+                  "text": "A Parc de loisirs familial de Blida egy vidámpark Blida városában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802589,
+                        36.467994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre Mohamed El Touri",
+                  "text": "Théâtre Mohamed El Touri este un teatru situat în orașul Blida.",
+                  "category": "cultural",
+                  "coords": [
+                        2.828153,
+                        36.469729
+                  ]
+            },
+            {
+                  "name": "Parc de loisirs familial de Blida",
+                  "text": "Parc de loisirs familial de Blida este un parc de distracții din orașul Blida.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802589,
+                        36.467994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théâtre Mohamed El Touri",
+                  "text": "Théâtre Mohamed El Touri is a theatre located in the city of Blida.",
+                  "category": "cultural",
+                  "coords": [
+                        2.828153,
+                        36.469729
+                  ]
+            },
+            {
+                  "name": "Parc de loisirs familial de Blida",
+                  "text": "Parc de loisirs familial de Blida is a theme park located in the city of Blida.",
+                  "category": "recreational",
+                  "coords": [
+                        2.802589,
+                        36.467994
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-09",
     coords: [2.8277, 36.47],
@@ -172,7 +2116,520 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Fondée au XVIe siècle par Sidi Ahmed El-Kebir.", "Le nom 'Blida' provient du mot arabe signifiant 'petite ville'.", "La station de ski de Chréa se situe à plus de 1 500 mètres d'altitude.", "L'université de Blida est l'une des plus grandes du pays.", "La région est réputée pour ses oranges, mandarines et son huile de rose.", "La ville compte une population de plus de 300 000 habitants.", "La distance jusqu'à Alger est d'environ 45 kilomètres.", "Le parc national de Chréa abrite les rares macaques de Barbarie."],
     }, image: "/poi-images/blida-cities-v2.webp"},
   {
-    id: "batna-cities-v2",
+    id: "batna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National de Belezma",
+                  "text": "Belezma-Nationalpark in Batna.",
+                  "category": "natural",
+                  "coords": [
+                        6.110335,
+                        35.604341
+                  ]
+            },
+            {
+                  "name": "Théatre de Batna",
+                  "text": "Theater von Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.175844,
+                        35.553628
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Museum in Batna.",
+                  "category": "museum",
+                  "coords": [
+                        6.159015,
+                        35.554097
+                  ]
+            },
+            {
+                  "name": "Borj Bel Cadi",
+                  "text": "Bel-Cadi-Festung in Batna.",
+                  "category": "fortress",
+                  "coords": [
+                        6.178024,
+                        35.545422
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air",
+                  "text": "Freilichttheater in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.159941,
+                        35.552991
+                  ]
+            },
+            {
+                  "name": "Monument BENBOULAID",
+                  "text": "Benboulaid-Denkmal in Batna.",
+                  "category": "historical",
+                  "coords": [
+                        6.178137,
+                        35.555151
+                  ]
+            },
+            {
+                  "name": "دار الشباب",
+                  "text": "Jugendzentrum in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.192742,
+                        35.537636
+                  ]
+            },
+            {
+                  "name": "المجاهد الحاج لخضر",
+                  "text": "Denkmal für Hadj Lakhdar in Batna.",
+                  "category": "historical",
+                  "coords": [
+                        6.15767,
+                        35.542467
+                  ]
+            },
+            {
+                  "name": "المجاهد المجهول",
+                  "text": "Denkmal für den unbekannten Freiheitskämpfer in Batna.",
+                  "category": "historical",
+                  "coords": [
+                        6.184435,
+                        35.542999
+                  ]
+            },
+            {
+                  "name": "lieu de culture",
+                  "text": "Kulturelle Einrichtung in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.192653,
+                        35.560533
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture de la wilaya de Batna",
+                  "text": "Kulturhaus der Provinz Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.180869,
+                        35.553076
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "Islamisches Kulturzentrum in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.177693,
+                        35.54858
+                  ]
+            },
+            {
+                  "name": "Chambre de l'Artisanat et des Métiers",
+                  "text": "Handwerkskammer in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.167427,
+                        35.546825
+                  ]
+            },
+            {
+                  "name": "Hasan El Banaa",
+                  "text": "Motel Hasan El Banaa in Batna.",
+                  "category": "landmark",
+                  "coords": [
+                        6.190605,
+                        35.539311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National de Belezma",
+                  "text": "Belezma Nemzeti Park Batnában.",
+                  "category": "natural",
+                  "coords": [
+                        6.110335,
+                        35.604341
+                  ]
+            },
+            {
+                  "name": "Théatre de Batna",
+                  "text": "Batnai színház.",
+                  "category": "cultural",
+                  "coords": [
+                        6.175844,
+                        35.553628
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Múzeum Batnában.",
+                  "category": "museum",
+                  "coords": [
+                        6.159015,
+                        35.554097
+                  ]
+            },
+            {
+                  "name": "Borj Bel Cadi",
+                  "text": "Bel Cadi erőd Batnában.",
+                  "category": "fortress",
+                  "coords": [
+                        6.178024,
+                        35.545422
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air",
+                  "text": "Szabadtéri színház Batnában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.159941,
+                        35.552991
+                  ]
+            },
+            {
+                  "name": "Monument BENBOULAID",
+                  "text": "Benboulaid-emlékmű Batnában.",
+                  "category": "historical",
+                  "coords": [
+                        6.178137,
+                        35.555151
+                  ]
+            },
+            {
+                  "name": "دار الشباب",
+                  "text": "Ifjúsági központ Batnában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.192742,
+                        35.537636
+                  ]
+            },
+            {
+                  "name": "المجاهد الحاج لخضر",
+                  "text": "Hadj Lakhdar emlékműve Batnában.",
+                  "category": "historical",
+                  "coords": [
+                        6.15767,
+                        35.542467
+                  ]
+            },
+            {
+                  "name": "المجاهد المجهول",
+                  "text": "Az ismeretlen szabadságharcos emlékműve Batnában.",
+                  "category": "historical",
+                  "coords": [
+                        6.184435,
+                        35.542999
+                  ]
+            },
+            {
+                  "name": "lieu de culture",
+                  "text": "Kulturális intézmény Batnában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.192653,
+                        35.560533
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture de la wilaya de Batna",
+                  "text": "Batna tartományi kultúrháza.",
+                  "category": "cultural",
+                  "coords": [
+                        6.180869,
+                        35.553076
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "Iszlám kulturális központ Batnában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.177693,
+                        35.54858
+                  ]
+            },
+            {
+                  "name": "Chambre de l'Artisanat et des Métiers",
+                  "text": "Kézműves kamara Batnában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.167427,
+                        35.546825
+                  ]
+            },
+            {
+                  "name": "Hasan El Banaa",
+                  "text": "Hasan El Banaa motel Batnában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.190605,
+                        35.539311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National de Belezma",
+                  "text": "Parcul Național Belezma din Batna.",
+                  "category": "natural",
+                  "coords": [
+                        6.110335,
+                        35.604341
+                  ]
+            },
+            {
+                  "name": "Théatre de Batna",
+                  "text": "Teatrul din Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.175844,
+                        35.553628
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Muzeul din Batna.",
+                  "category": "museum",
+                  "coords": [
+                        6.159015,
+                        35.554097
+                  ]
+            },
+            {
+                  "name": "Borj Bel Cadi",
+                  "text": "Fortăreața Bel Cadi din Batna.",
+                  "category": "fortress",
+                  "coords": [
+                        6.178024,
+                        35.545422
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air",
+                  "text": "Teatru în aer liber din Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.159941,
+                        35.552991
+                  ]
+            },
+            {
+                  "name": "Monument BENBOULAID",
+                  "text": "Monumentul Benboulaid din Batna.",
+                  "category": "historical",
+                  "coords": [
+                        6.178137,
+                        35.555151
+                  ]
+            },
+            {
+                  "name": "دار الشباب",
+                  "text": "Centru de tineret în Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.192742,
+                        35.537636
+                  ]
+            },
+            {
+                  "name": "المجاهد الحاج لخضر",
+                  "text": "Monumentul Hadj Lakhdar din Batna.",
+                  "category": "historical",
+                  "coords": [
+                        6.15767,
+                        35.542467
+                  ]
+            },
+            {
+                  "name": "المجاهد المجهول",
+                  "text": "Monumentul luptătorului necunoscut pentru libertate din Batna.",
+                  "category": "historical",
+                  "coords": [
+                        6.184435,
+                        35.542999
+                  ]
+            },
+            {
+                  "name": "lieu de culture",
+                  "text": "Instituție culturală în Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.192653,
+                        35.560533
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture de la wilaya de Batna",
+                  "text": "Casa culturii din provincia Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.180869,
+                        35.553076
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "Centrul cultural islamic din Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.177693,
+                        35.54858
+                  ]
+            },
+            {
+                  "name": "Chambre de l'Artisanat et des Métiers",
+                  "text": "Camera meșteșugarilor din Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.167427,
+                        35.546825
+                  ]
+            },
+            {
+                  "name": "Hasan El Banaa",
+                  "text": "Motelul Hasan El Banaa din Batna.",
+                  "category": "landmark",
+                  "coords": [
+                        6.190605,
+                        35.539311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Belezma National Park",
+                  "text": "Belezma National Park in Batna.",
+                  "category": "natural",
+                  "coords": [
+                        6.110335,
+                        35.604341
+                  ]
+            },
+            {
+                  "name": "Théatre de Batna",
+                  "text": "Theatre in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.175844,
+                        35.553628
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Museum in Batna.",
+                  "category": "museum",
+                  "coords": [
+                        6.159015,
+                        35.554097
+                  ]
+            },
+            {
+                  "name": "Bel Cadi Fort",
+                  "text": "Bel Cadi Fort in Batna.",
+                  "category": "fortress",
+                  "coords": [
+                        6.178024,
+                        35.545422
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air",
+                  "text": "Open-air theatre in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.159941,
+                        35.552991
+                  ]
+            },
+            {
+                  "name": "Monument BENBOULAID",
+                  "text": "Benboulaid monument in Batna.",
+                  "category": "historical",
+                  "coords": [
+                        6.178137,
+                        35.555151
+                  ]
+            },
+            {
+                  "name": "دار الشباب",
+                  "text": "Youth center in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.192742,
+                        35.537636
+                  ]
+            },
+            {
+                  "name": "Moudjahid hadj Lakhdar",
+                  "text": "Hadj Lakhdar monument in Batna.",
+                  "category": "historical",
+                  "coords": [
+                        6.15767,
+                        35.542467
+                  ]
+            },
+            {
+                  "name": "Moudjahid inconnu",
+                  "text": "Monument to the unknown freedom fighter in Batna.",
+                  "category": "historical",
+                  "coords": [
+                        6.184435,
+                        35.542999
+                  ]
+            },
+            {
+                  "name": "lieu de culture",
+                  "text": "Cultural institution in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.192653,
+                        35.560533
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture de la wilaya de Batna",
+                  "text": "Culture house of Batna province.",
+                  "category": "cultural",
+                  "coords": [
+                        6.180869,
+                        35.553076
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Islamique",
+                  "text": "Islamic cultural center in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.177693,
+                        35.54858
+                  ]
+            },
+            {
+                  "name": "Chambre de l'Artisanat et des Métiers",
+                  "text": "Chamber of Crafts in Batna.",
+                  "category": "cultural",
+                  "coords": [
+                        6.167427,
+                        35.546825
+                  ]
+            },
+            {
+                  "name": "Hasan El Banaa",
+                  "text": "Hasan El Banaa motel in Batna.",
+                  "category": "landmark",
+                  "coords": [
+                        6.190605,
+                        35.539311
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-05",
     coords: [6.1741, 35.5559],
@@ -242,7 +2699,484 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Située à une altitude de 1 138 mètres.", "Fondée en 1852 comme poste militaire français.", "Centre de la confédération des Ouled Naïl.", "La région abrite un art rupestre important du Néolithique.", "Le marché hebdomadaire aux bestiaux est un événement économique central.", "Les températures peuvent descendre en dessous de zéro en hiver.", "La végétation est dominée par des herbes steppiques comme l'alfa.", "La population de la province de Djelfa dépasse le million d'habitants."],
     }, image: "/poi-images/djelfa-cities-v2.webp"},
   {
-    id: "setif-cities-v2",
+    id: "setif-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archäologisches Museum von Sétif",
+                  "text": "Das Nationalmuseum von Sétif ist ein archäologisches Museum, das für seine römischen Artefakte bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.409928,
+                        36.191901
+                  ]
+            },
+            {
+                  "name": "Zoo Sétif",
+                  "text": "Dies ist ein Zoo in der Stadt Sétif.",
+                  "category": "recreational",
+                  "coords": [
+                        5.406747,
+                        36.194533
+                  ]
+            },
+            {
+                  "name": "كهف كمارو",
+                  "text": "Dies ist ein Theater in der Stadt Sétif.",
+                  "category": "cultural",
+                  "coords": [
+                        5.430051,
+                        36.204985
+                  ]
+            },
+            {
+                  "name": "Chambre de l'artisanat",
+                  "text": "Die Chambre de l'artisanat ist ein Museum in der Stadt Sétif.",
+                  "category": "museum",
+                  "coords": [
+                        5.405398,
+                        36.181102
+                  ]
+            },
+            {
+                  "name": "Römische Ruinen",
+                  "text": "Dies ist eine archäologische Stätte in der Stadt Sétif.",
+                  "category": "historical",
+                  "coords": [
+                        5.404307,
+                        36.192068
+                  ]
+            },
+            {
+                  "name": "حديقة التسلية سيتيفيس",
+                  "text": "Dies ist ein Freizeitpark in der Stadt Sétif.",
+                  "category": "recreational",
+                  "coords": [
+                        5.406657,
+                        36.193012
+                  ]
+            },
+            {
+                  "name": "مسرح سطيف",
+                  "text": "Dies ist ein Theater in der Stadt Sétif.",
+                  "category": "cultural",
+                  "coords": [
+                        5.405999,
+                        36.188914
+                  ]
+            },
+            {
+                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
+                  "text": "Das CV.ilot 47- 1 Musée du Moudjahid ist ein Museum in der Stadt Sétif.",
+                  "category": "museum",
+                  "coords": [
+                        5.405222,
+                        36.187155
+                  ]
+            },
+            {
+                  "name": "عين الفوارة",
+                  "text": "Die Ain El Fouara-Statue ist ein berühmter Monumentalbrunnen und ein markantes Wahrzeichen in der Stadt Sétif.",
+                  "category": "historical",
+                  "coords": [
+                        5.404887,
+                        36.189332
+                  ]
+            },
+            {
+                  "name": "زهرة اللوتس",
+                  "text": "Dies ist ein Denkmal in der Stadt Sétif.",
+                  "category": "historical",
+                  "coords": [
+                        5.40624,
+                        36.19604
+                  ]
+            },
+            {
+                  "name": "Piratenschiff",
+                  "text": "Dies ist eine Attraktion in der Stadt Sétif.",
+                  "category": "landmark",
+                  "coords": [
+                        5.408119,
+                        36.191124
+                  ]
+            },
+            {
+                  "name": "Zug",
+                  "text": "Dies ist eine Attraktion in der Stadt Sétif.",
+                  "category": "landmark",
+                  "coords": [
+                        5.407655,
+                        36.192071
+                  ]
+            },
+            {
+                  "name": "billiard",
+                  "text": "Dies ist eine Attraktion in der Stadt Sétif.",
+                  "category": "landmark",
+                  "coords": [
+                        5.392735,
+                        36.196364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "المتحف العمومي الوطني سطيف",
+                  "text": "A Sétif Nemzeti Múzeum egy régészeti múzeum, amely római kori leleteiről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        5.409928,
+                        36.191901
+                  ]
+            },
+            {
+                  "name": "حديقة حيوانات سطيف",
+                  "text": "Ez egy állatkert Sétif városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.406747,
+                        36.194533
+                  ]
+            },
+            {
+                  "name": "كهف كمارو",
+                  "text": "Ez egy színház Sétif városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.430051,
+                        36.204985
+                  ]
+            },
+            {
+                  "name": "Chambre de l'artisanat",
+                  "text": "A Chambre de l'artisanat egy múzeum Sétif városában.",
+                  "category": "museum",
+                  "coords": [
+                        5.405398,
+                        36.181102
+                  ]
+            },
+            {
+                  "name": "الآثار الرومانية",
+                  "text": "Ez egy régészeti lelőhely Sétif városában.",
+                  "category": "historical",
+                  "coords": [
+                        5.404307,
+                        36.192068
+                  ]
+            },
+            {
+                  "name": "حديقة التسلية سيتيفيس",
+                  "text": "Ez egy vidámpark Sétif városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.406657,
+                        36.193012
+                  ]
+            },
+            {
+                  "name": "مسرح سطيف",
+                  "text": "Ez egy színház Sétif városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.405999,
+                        36.188914
+                  ]
+            },
+            {
+                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
+                  "text": "A CV.ilot 47- 1 Musée du Moudjahid egy múzeum Sétif városában.",
+                  "category": "museum",
+                  "coords": [
+                        5.405222,
+                        36.187155
+                  ]
+            },
+            {
+                  "name": "عين الفوارة",
+                  "text": "Az Ain El Fouara-szobor egy híres monumentális szökőkút és Sétif városának egyik kiemelkedő nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        5.404887,
+                        36.189332
+                  ]
+            },
+            {
+                  "name": "زهرة اللوتس",
+                  "text": "Ez egy emlékmű Sétif városában.",
+                  "category": "historical",
+                  "coords": [
+                        5.40624,
+                        36.19604
+                  ]
+            },
+            {
+                  "name": "سفينة القراصنة",
+                  "text": "Ez egy látványosság Sétif városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.408119,
+                        36.191124
+                  ]
+            },
+            {
+                  "name": "قطار",
+                  "text": "Ez egy látványosság Sétif városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.407655,
+                        36.192071
+                  ]
+            },
+            {
+                  "name": "billiard",
+                  "text": "Ez egy látványosság Sétif városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.392735,
+                        36.196364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "المتحف العمومي الوطني سطيف",
+                  "text": "Muzeul Național din Sétif este un muzeu arheologic cunoscut pentru artefactele sale romane.",
+                  "category": "museum",
+                  "coords": [
+                        5.409928,
+                        36.191901
+                  ]
+            },
+            {
+                  "name": "حديقة حيوانات سطيف",
+                  "text": "Acesta este un parc zoologic situat în orașul Sétif.",
+                  "category": "recreational",
+                  "coords": [
+                        5.406747,
+                        36.194533
+                  ]
+            },
+            {
+                  "name": "كهف كمارو",
+                  "text": "Acesta este un teatru situat în orașul Sétif.",
+                  "category": "cultural",
+                  "coords": [
+                        5.430051,
+                        36.204985
+                  ]
+            },
+            {
+                  "name": "Chambre de l'artisanat",
+                  "text": "Chambre de l'artisanat este un muzeu situat în orașul Sétif.",
+                  "category": "museum",
+                  "coords": [
+                        5.405398,
+                        36.181102
+                  ]
+            },
+            {
+                  "name": "الآثار الرومانية",
+                  "text": "Acesta este un sit arheologic situat în orașul Sétif.",
+                  "category": "historical",
+                  "coords": [
+                        5.404307,
+                        36.192068
+                  ]
+            },
+            {
+                  "name": "حديقة التسلية سيتيفيس",
+                  "text": "Acesta este un parc de distracții situat în orașul Sétif.",
+                  "category": "recreational",
+                  "coords": [
+                        5.406657,
+                        36.193012
+                  ]
+            },
+            {
+                  "name": "مسرح سطيف",
+                  "text": "Acesta este un teatru situat în orașul Sétif.",
+                  "category": "cultural",
+                  "coords": [
+                        5.405999,
+                        36.188914
+                  ]
+            },
+            {
+                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
+                  "text": "CV.ilot 47- 1 Musée du Moudjahid este un muzeu situat în orașul Sétif.",
+                  "category": "museum",
+                  "coords": [
+                        5.405222,
+                        36.187155
+                  ]
+            },
+            {
+                  "name": "عين الفوارة",
+                  "text": "Statuia Ain El Fouara este o fântână monumentală celebră și un punct de reper important în orașul Sétif.",
+                  "category": "historical",
+                  "coords": [
+                        5.404887,
+                        36.189332
+                  ]
+            },
+            {
+                  "name": "زهرة اللوتس",
+                  "text": "Acesta este un monument situat în orașul Sétif.",
+                  "category": "historical",
+                  "coords": [
+                        5.40624,
+                        36.19604
+                  ]
+            },
+            {
+                  "name": "سفينة القراصنة",
+                  "text": "Aceasta este o atracție situată în orașul Sétif.",
+                  "category": "landmark",
+                  "coords": [
+                        5.408119,
+                        36.191124
+                  ]
+            },
+            {
+                  "name": "قطار",
+                  "text": "Aceasta este o atracție situată în orașul Sétif.",
+                  "category": "landmark",
+                  "coords": [
+                        5.407655,
+                        36.192071
+                  ]
+            },
+            {
+                  "name": "billiard",
+                  "text": "Aceasta este o atracție situată în orașul Sétif.",
+                  "category": "landmark",
+                  "coords": [
+                        5.392735,
+                        36.196364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "المتحف العمومي الوطني سطيف",
+                  "text": "The National Museum of Sétif is an archaeological museum known for its collection of Roman artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        5.409928,
+                        36.191901
+                  ]
+            },
+            {
+                  "name": "حديقة حيوانات سطيف",
+                  "text": "This is a zoo located in the city of Sétif.",
+                  "category": "recreational",
+                  "coords": [
+                        5.406747,
+                        36.194533
+                  ]
+            },
+            {
+                  "name": "كهف كمارو",
+                  "text": "This is a theatre located in the city of Sétif.",
+                  "category": "cultural",
+                  "coords": [
+                        5.430051,
+                        36.204985
+                  ]
+            },
+            {
+                  "name": "Chambre de l'artisanat",
+                  "text": "Chambre de l'artisanat is a museum located in the city of Sétif.",
+                  "category": "museum",
+                  "coords": [
+                        5.405398,
+                        36.181102
+                  ]
+            },
+            {
+                  "name": "الآثار الرومانية",
+                  "text": "This is an archaeological site located in the city of Sétif.",
+                  "category": "historical",
+                  "coords": [
+                        5.404307,
+                        36.192068
+                  ]
+            },
+            {
+                  "name": "حديقة التسلية سيتيفيس",
+                  "text": "This is a theme park located in the city of Sétif.",
+                  "category": "recreational",
+                  "coords": [
+                        5.406657,
+                        36.193012
+                  ]
+            },
+            {
+                  "name": "مسرح سطيف",
+                  "text": "This is a theatre located in the city of Sétif.",
+                  "category": "cultural",
+                  "coords": [
+                        5.405999,
+                        36.188914
+                  ]
+            },
+            {
+                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
+                  "text": "CV.ilot 47- 1 Musée du Moudjahid is a museum located in the city of Sétif.",
+                  "category": "museum",
+                  "coords": [
+                        5.405222,
+                        36.187155
+                  ]
+            },
+            {
+                  "name": "Ain El Fouara Statue",
+                  "text": "The Ain El Fouara Statue is a famous monumental fountain and a prominent landmark in the city of Sétif.",
+                  "category": "historical",
+                  "coords": [
+                        5.404887,
+                        36.189332
+                  ]
+            },
+            {
+                  "name": "زهرة اللوتس",
+                  "text": "This is a monument located in the city of Sétif.",
+                  "category": "historical",
+                  "coords": [
+                        5.40624,
+                        36.19604
+                  ]
+            },
+            {
+                  "name": "سفينة القراصنة",
+                  "text": "This is an attraction located in the city of Sétif.",
+                  "category": "landmark",
+                  "coords": [
+                        5.408119,
+                        36.191124
+                  ]
+            },
+            {
+                  "name": "قطار",
+                  "text": "This is an attraction located in the city of Sétif.",
+                  "category": "landmark",
+                  "coords": [
+                        5.407655,
+                        36.192071
+                  ]
+            },
+            {
+                  "name": "billiard",
+                  "text": "This is an attraction located in the city of Sétif.",
+                  "category": "landmark",
+                  "coords": [
+                        5.392735,
+                        36.196364
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-19",
     coords: [5.4109, 36.1911],
@@ -277,7 +3211,268 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Sétif est située à une altitude de 1 096 mètres.", "La cité romaine de Sitifis a été fondée sous l'empereur Nerva.", "Le musée archéologique de Sétif abrite d'impressionnantes mosaïques romaines.", "Les massacres de Sétif du 8 mai 1945 ont fait des milliers de victimes.", "La ville compte une population de près de 300 000 habitants.", "Sétif est un pôle important de l'industrie pharmaceutique.", "La fontaine d'Ain El Fouara est un symbole célèbre de la ville.", "La région est une importante zone de production céréalière."],
     }, image: "/poi-images/setif-cities-v2.webp"},
   {
-    id: "sidi-bel-abbes-cities-v2",
+    id: "sidi-bel-abbes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theâtre de Verdure",
+                  "text": "Freilichttheater in Sidi Bel Abbès.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644055,
+                        35.190117
+                  ]
+            },
+            {
+                  "name": "Planétarium - la coupole",
+                  "text": "Planetarium in Sidi Bel Abbès.",
+                  "category": "museum",
+                  "coords": [
+                        -0.6331,
+                        35.193805
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Museum für den Unabhängigkeitskrieg in Sidi Bel Abbès.",
+                  "category": "museum",
+                  "coords": [
+                        -0.638234,
+                        35.179347
+                  ]
+            },
+            {
+                  "name": "Théâtre Régional SBA",
+                  "text": "Das Théâtre Régional SBA ist ein bekanntes Theater in Sidi Bel Abbès.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.633218,
+                        35.191122
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction",
+                  "text": "Dieser Vergnügungspark in Sidi Bel Abbès bietet Unterhaltung für alle Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.60926,
+                        35.195407
+                  ]
+            },
+            {
+                  "name": "4 Horloges",
+                  "text": "Die 4 Horloges sind ein historisches Denkmal in Sidi Bel Abbès.",
+                  "category": "historical",
+                  "coords": [
+                        -0.634169,
+                        35.190711
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Kateb Yassine",
+                  "text": "Das Maison de la culture Kateb Yassine ist ein Kulturzentrum in Sidi Bel Abbès.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.624494,
+                        35.209333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theâtre de Verdure",
+                  "text": "Szabadtéri színház Sidi Bel Abbèsben.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644055,
+                        35.190117
+                  ]
+            },
+            {
+                  "name": "Planétarium - la coupole",
+                  "text": "Planetárium Sidi Bel Abbèsben.",
+                  "category": "museum",
+                  "coords": [
+                        -0.6331,
+                        35.193805
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Függetlenségi háborús múzeum Sidi Bel Abbèsben.",
+                  "category": "museum",
+                  "coords": [
+                        -0.638234,
+                        35.179347
+                  ]
+            },
+            {
+                  "name": "Théâtre Régional SBA",
+                  "text": "A Théâtre Régional SBA egy jelentős színház Sidi Bel Abbès városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.633218,
+                        35.191122
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction",
+                  "text": "Ez a szórakoztatópark Sidi Bel Abbès városában kikapcsolódást kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.60926,
+                        35.195407
+                  ]
+            },
+            {
+                  "name": "4 Horloges",
+                  "text": "A 4 Horloges egy történelmi emlékhely Sidi Bel Abbès városában.",
+                  "category": "historical",
+                  "coords": [
+                        -0.634169,
+                        35.190711
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Kateb Yassine",
+                  "text": "A Maison de la culture Kateb Yassine egy kulturális központ Sidi Bel Abbès-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.624494,
+                        35.209333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theâtre de Verdure",
+                  "text": "Teatru în aer liber din Sidi Bel Abbès.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644055,
+                        35.190117
+                  ]
+            },
+            {
+                  "name": "Planétarium - la coupole",
+                  "text": "Planetariu în Sidi Bel Abbès.",
+                  "category": "museum",
+                  "coords": [
+                        -0.6331,
+                        35.193805
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Muzeul Războiului de Independență din Sidi Bel Abbès.",
+                  "category": "museum",
+                  "coords": [
+                        -0.638234,
+                        35.179347
+                  ]
+            },
+            {
+                  "name": "Théâtre Régional SBA",
+                  "text": "Théâtre Régional SBA este un teatru important din Sidi Bel Abbès.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.633218,
+                        35.191122
+                  ]
+            },
+            {
+                  "name": "Parc d'attraction",
+                  "text": "Acest parc de distracții din Sidi Bel Abbès oferă divertisment vizitatorilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.60926,
+                        35.195407
+                  ]
+            },
+            {
+                  "name": "4 Horloges",
+                  "text": "4 Horloges este un monument istoric din Sidi Bel Abbès.",
+                  "category": "historical",
+                  "coords": [
+                        -0.634169,
+                        35.190711
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Kateb Yassine",
+                  "text": "Maison de la culture Kateb Yassine este un centru cultural din Sidi Bel Abbès.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.624494,
+                        35.209333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theâtre de Verdure",
+                  "text": "Open-air theatre in Sidi Bel Abbès.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.644055,
+                        35.190117
+                  ]
+            },
+            {
+                  "name": "Planétarium - la coupole",
+                  "text": "Planetarium in Sidi Bel Abbès.",
+                  "category": "museum",
+                  "coords": [
+                        -0.6331,
+                        35.193805
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Museum of the War of Independence in Sidi Bel Abbès.",
+                  "category": "museum",
+                  "coords": [
+                        -0.638234,
+                        35.179347
+                  ]
+            },
+            {
+                  "name": "Théâtre Régional SBA",
+                  "text": "The Théâtre Régional SBA is a prominent theater in Sidi Bel Abbès.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.633218,
+                        35.191122
+                  ]
+            },
+            {
+                  "name": "Amusement park",
+                  "text": "This amusement park in Sidi Bel Abbès offers entertainment for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.60926,
+                        35.195407
+                  ]
+            },
+            {
+                  "name": "4 Horloges",
+                  "text": "The 4 Horloges is a historic monument in Sidi Bel Abbès.",
+                  "category": "historical",
+                  "coords": [
+                        -0.634169,
+                        35.190711
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Kateb Yassine",
+                  "text": "The Maison de la culture Kateb Yassine is a cultural center in Sidi Bel Abbès.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.624494,
+                        35.209333
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-22",
     coords: [-0.6333, 35.2],
@@ -312,7 +3507,160 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Quartier général de la Légion étrangère pendant 131 ans.", "La ville porte le nom d'un marabout (saint) local.", "Bel Abbès est située sur l'oued Mekerra.", "La ville est réputée pour ses quatre portes.", "La région est une importante zone viticole.", "L'ENIE, entreprise électronique d'État, y a son siège.", "La population dépasse les 200 000 habitants.", "L'architecture est fortement marquée par la période coloniale française."],
     }, image: "/poi-images/sidi-bel-abbes-cities-v2.webp"},
   {
-    id: "biskra-cities-v2",
+    id: "biskra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "المسرح",
+                  "text": "Das المسرح (Theater) ist ein Veranstaltungsort in Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.712581,
+                        34.854174
+                  ]
+            },
+            {
+                  "name": "دار ثقافة",
+                  "text": "Das دار ثقافة (Kulturhaus) ist ein Kunstzentrum in Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.740753,
+                        34.850609
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "Das دار الثقافة (Haus der Kultur) ist ein Kunst- und Kulturzentrum in Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.745648,
+                        34.858432
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي",
+                  "text": "Das المركز الثقافي الإسلامي (Islamisches Kulturzentrum) ist ein Zentrum in Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.733473,
+                        34.857819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "المسرح",
+                  "text": "A المسرح (Színház) egy előadóhely Biskrában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.712581,
+                        34.854174
+                  ]
+            },
+            {
+                  "name": "دار ثقافة",
+                  "text": "A دار ثقافة (Kultúrház) egy művészeti központ Biskrában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.740753,
+                        34.850609
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "A دار الثقافة (Kultúra Háza) egy művészeti és kulturális központ Biskrában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.745648,
+                        34.858432
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي",
+                  "text": "A المركز الثقافي الإسلامي (Iszlám Kulturális Központ) egy központ Biskrában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.733473,
+                        34.857819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "المسرح",
+                  "text": "المسرح (Teatrul) este un loc de spectacole din Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.712581,
+                        34.854174
+                  ]
+            },
+            {
+                  "name": "دار ثقافة",
+                  "text": "دار ثقافة (Casa de Cultură) este un centru de arte din Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.740753,
+                        34.850609
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "دار الثقافة (Casa Culturii) este un centru de artă și cultură din Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.745648,
+                        34.858432
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي",
+                  "text": "المركز الثقافي الإسلامي (Centrul Cultural Islamic) este un centru din Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.733473,
+                        34.857819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "المسرح",
+                  "text": "The المسرح (Theatre) is a performance venue located in Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.712581,
+                        34.854174
+                  ]
+            },
+            {
+                  "name": "دار ثقافة",
+                  "text": "The دار ثقافة (House of Culture) is an arts centre in Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.740753,
+                        34.850609
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "The دار الثقافة (House of Culture) is an arts and cultural centre in Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.745648,
+                        34.858432
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي",
+                  "text": "The المركز الثقافي الإسلامي (Islamic Cultural Center) is a centre located in Biskra.",
+                  "category": "cultural",
+                  "coords": [
+                        5.733473,
+                        34.857819
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-07",
     coords: [5.7275, 34.85],
@@ -382,7 +3730,304 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["L'arc de Caracalla a été érigé en 214 après J.-C.", "Le mur byzantin entoure une superficie de six hectares.", "Theveste était la ville de garnison de la Legio III Augusta avant son transfert à Lambaesis.", "Le temple de Minerve est l'un des rares temples romains conservés en Algérie.", "La ville est située à une altitude de 960 mètres.", "La population s'élève à environ 200 000 habitants.", "La région abrite l'importante mine de phosphate de Djebel Onk.", "La ville est réputée pour ses tapis traditionnels."],
     }, image: "/poi-images/tebessa-cities-v2.webp"},
   {
-    id: "el-oued-cities-v2",
+    id: "el-oued-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "حديقة ترفيه",
+                  "text": "Dieser Vergnügungspark befindet sich in El Oued.",
+                  "category": "recreational",
+                  "coords": [
+                        6.858386,
+                        33.391233
+                  ]
+            },
+            {
+                  "name": "Makam Echahid, مقام الشهيد",
+                  "text": "Makam Echahid ist ein bedeutendes Denkmal in El Oued.",
+                  "category": "historical",
+                  "coords": [
+                        6.863158,
+                        33.361084
+                  ]
+            },
+            {
+                  "name": "مدخل السوق الوادي",
+                  "text": "Der Marché El Oued ist ein belebter Handelsort in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.865175,
+                        33.362483
+                  ]
+            },
+            {
+                  "name": "محلات سامي أثاث",
+                  "text": "Sami meuble ist ein Aussichtspunkt in El Oued.",
+                  "category": "natural",
+                  "coords": [
+                        6.873007,
+                        33.35964
+                  ]
+            },
+            {
+                  "name": "Tournage du Souf,خراطة السوف",
+                  "text": "Torner ist ein Aussichtspunkt in El Oued.",
+                  "category": "natural",
+                  "coords": [
+                        6.850163,
+                        33.365185
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture (Ancienne)",
+                  "text": "Das ehemalige Maison de la Culture ist ein Kulturzentrum in El Oued.",
+                  "category": "cultural",
+                  "coords": [
+                        6.865103,
+                        33.359869
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي الوادي",
+                  "text": "Das Islamische Kulturzentrum in El Oued ist ein Ort der Begegnung.",
+                  "category": "cultural",
+                  "coords": [
+                        6.864594,
+                        33.340834
+                  ]
+            },
+            {
+                  "name": "Maison de l'artisanat et des métiers",
+                  "text": "Das Haus des Kunsthandwerks ist ein kulturelles Zentrum in El Oued.",
+                  "category": "cultural",
+                  "coords": [
+                        6.871662,
+                        33.394643
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "حديقة ترفيه",
+                  "text": "Ez a szórakoztatópark El Oued városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        6.858386,
+                        33.391233
+                  ]
+            },
+            {
+                  "name": "Makam Echahid, مقام الشهيد",
+                  "text": "A Makam Echahid egy jelentős emlékhely El Oued városában.",
+                  "category": "historical",
+                  "coords": [
+                        6.863158,
+                        33.361084
+                  ]
+            },
+            {
+                  "name": "مدخل السوق الوادي",
+                  "text": "A Marché El Oued egy forgalmas kereskedelmi hely a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.865175,
+                        33.362483
+                  ]
+            },
+            {
+                  "name": "محلات سامي أثاث",
+                  "text": "A Sami meuble egy kilátópont El Oued városában.",
+                  "category": "natural",
+                  "coords": [
+                        6.873007,
+                        33.35964
+                  ]
+            },
+            {
+                  "name": "Tournage du Souf,خراطة السوف",
+                  "text": "A Torner egy kilátópont El Oued városában.",
+                  "category": "natural",
+                  "coords": [
+                        6.850163,
+                        33.365185
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture (Ancienne)",
+                  "text": "A korábbi Maison de la Culture egy kulturális központ El Oued városában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.865103,
+                        33.359869
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي الوادي",
+                  "text": "Az iszlám kulturális központ El Oued városában a találkozás helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        6.864594,
+                        33.340834
+                  ]
+            },
+            {
+                  "name": "Maison de l'artisanat et des métiers",
+                  "text": "A kézművesház egy kulturális központ El Oued városában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.871662,
+                        33.394643
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "حديقة ترفيه",
+                  "text": "Acest parc de distracții este situat în El Oued.",
+                  "category": "recreational",
+                  "coords": [
+                        6.858386,
+                        33.391233
+                  ]
+            },
+            {
+                  "name": "Makam Echahid, مقام الشهيد",
+                  "text": "Makam Echahid este un monument important din El Oued.",
+                  "category": "historical",
+                  "coords": [
+                        6.863158,
+                        33.361084
+                  ]
+            },
+            {
+                  "name": "مدخل السوق الوادي",
+                  "text": "Marché El Oued este un loc comercial animat din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        6.865175,
+                        33.362483
+                  ]
+            },
+            {
+                  "name": "محلات سامي أثاث",
+                  "text": "Sami meuble este un punct de observație în El Oued.",
+                  "category": "natural",
+                  "coords": [
+                        6.873007,
+                        33.35964
+                  ]
+            },
+            {
+                  "name": "Tournage du Souf,خراطة السوف",
+                  "text": "Torner este un punct de observație în El Oued.",
+                  "category": "natural",
+                  "coords": [
+                        6.850163,
+                        33.365185
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture (Ancienne)",
+                  "text": "Fosta Maison de la Culture este un centru cultural din El Oued.",
+                  "category": "cultural",
+                  "coords": [
+                        6.865103,
+                        33.359869
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي الوادي",
+                  "text": "Centrul Cultural Islamic din El Oued este un loc de întâlnire.",
+                  "category": "cultural",
+                  "coords": [
+                        6.864594,
+                        33.340834
+                  ]
+            },
+            {
+                  "name": "Maison de l'artisanat et des métiers",
+                  "text": "Casa artizanatului este un centru cultural din El Oued.",
+                  "category": "cultural",
+                  "coords": [
+                        6.871662,
+                        33.394643
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "حديقة ترفيه",
+                  "text": "This amusement park is located in El Oued.",
+                  "category": "recreational",
+                  "coords": [
+                        6.858386,
+                        33.391233
+                  ]
+            },
+            {
+                  "name": "Makam Echahid, مقام الشهيد",
+                  "text": "Makam Echahid is a significant monument in El Oued.",
+                  "category": "historical",
+                  "coords": [
+                        6.863158,
+                        33.361084
+                  ]
+            },
+            {
+                  "name": "Marché El oued",
+                  "text": "The Marché El Oued is a busy commercial site in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        6.865175,
+                        33.362483
+                  ]
+            },
+            {
+                  "name": "Sami meuble",
+                  "text": "Sami meuble is a viewpoint in El Oued.",
+                  "category": "natural",
+                  "coords": [
+                        6.873007,
+                        33.35964
+                  ]
+            },
+            {
+                  "name": "Torner",
+                  "text": "Torner is a viewpoint in El Oued.",
+                  "category": "natural",
+                  "coords": [
+                        6.850163,
+                        33.365185
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture (Ancienne)",
+                  "text": "The former Maison de la Culture is a cultural center in El Oued.",
+                  "category": "cultural",
+                  "coords": [
+                        6.865103,
+                        33.359869
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي الوادي",
+                  "text": "The Islamic Cultural Center in El Oued is a place of gathering.",
+                  "category": "cultural",
+                  "coords": [
+                        6.864594,
+                        33.340834
+                  ]
+            },
+            {
+                  "name": "Maison de l'artisanat et des métiers",
+                  "text": "The House of Crafts is a cultural center in El Oued.",
+                  "category": "cultural",
+                  "coords": [
+                        6.871662,
+                        33.394643
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-39",
     coords: [6.8675, 33.3683],
@@ -417,7 +4062,484 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Chaque pièce d'une maison traditionnelle possède sa propre coupole.", "La ville est le chef-lieu de la province d'El Oued.", "La région fait partie du Grand Erg Oriental, un immense désert de sable.", "Le système d'irrigation des 'ghouts' est unique dans la région.", "El Oued est un marché important pour les dattes et autres produits locaux.", "La population de la ville s'élève à plus de 130 000 habitants.", "L'architecture est influencée par la tradition ibadite de la vallée du M'zab.", "Les températures peuvent dépasser les 50 °C en été."],
     }, image: "/poi-images/el-oued-cities-v2.webp"},
   {
-    id: "skikda-cities-v2",
+    id: "skikda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "Das Théatre régional de Skikda ist ein regionales Theater in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906487,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "Das Théâtre Romain ist ein antikes römisches Amphitheater in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905171,
+                        36.87961
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Das Musée ist ein lokales Museum in der Stadt Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.905329,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "Das Musée d'el Moujahid ist ein Museum in Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.920248,
+                        36.871067
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "Das Palais Meriem (Chateau Bengana) ist ein bemerkenswertes Schloss in Skikda.",
+                  "category": "castle",
+                  "coords": [
+                        6.897138,
+                        36.886565
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "Plage Château Vert ist ein Strand in der Küstenstadt Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895436,
+                        36.888121
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "Plage Market ist ein Küstenstrand in Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890403,
+                        36.890377
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "Plage Militaire 1 ist ein Strand in Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887051,
+                        36.892162
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "Plage Paradis ist ein malerischer Strand in Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883826,
+                        36.894217
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Issat Idir",
+                  "text": "Das Issat Idir Cultural Centre ist ein Kunstzentrum in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910689,
+                        36.875442
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "Das Centre Culturel Ali Tlilani ist ein Kulturzentrum in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869109
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des Arts",
+                  "text": "Der Palace of Culture and Arts ist ein Kulturzentrum in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911284,
+                        36.882213
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "Die Maison de Culture Mohamed Seradj ist ein Kunst- und Kulturzentrum in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909327,
+                        36.868234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "A Théatre régional de Skikda egy regionális színház Skikdában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906487,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "A Théâtre Romain egy ókori római amfiteátrum Skikda városában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905171,
+                        36.87961
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "A Musée egy helyi múzeum Skikda városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.905329,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "A Musée d'el Moujahid egy múzeum Skikdában.",
+                  "category": "museum",
+                  "coords": [
+                        6.920248,
+                        36.871067
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "A Palais Meriem (Chateau Bengana) egy figyelemre méltó kastély Skikdában.",
+                  "category": "castle",
+                  "coords": [
+                        6.897138,
+                        36.886565
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "A Plage Château Vert egy tengerpart a parti Skikdában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895436,
+                        36.888121
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "A Plage Market egy parti strand Skikda városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890403,
+                        36.890377
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "A Plage Militaire 1 egy tengerpart Skikdában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887051,
+                        36.892162
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "A Plage Paradis egy festői tengerpart Skikdában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883826,
+                        36.894217
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Issat Idir",
+                  "text": "Az Issat Idir Cultural Centre egy művészeti központ Skikdában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910689,
+                        36.875442
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "A Centre Culturel Ali Tlilani egy kulturális központ Skikdában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869109
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des Arts",
+                  "text": "A Palace of Culture and Arts egy kulturális központ Skikdában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911284,
+                        36.882213
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "A Maison de Culture Mohamed Seradj egy művészeti és kulturális központ Skikdában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909327,
+                        36.868234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "Théatre régional de Skikda este un teatru regional din Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906487,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "Théâtre Romain este un antic amfiteatru roman din Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905171,
+                        36.87961
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "Musée este un muzeu local din orașul Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.905329,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "Musée d'el Moujahid este un muzeu situat în Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.920248,
+                        36.871067
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "Palais Meriem (Chateau Bengana) este un castel notabil din Skikda.",
+                  "category": "castle",
+                  "coords": [
+                        6.897138,
+                        36.886565
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "Plage Château Vert este o plajă din orașul de coastă Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895436,
+                        36.888121
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "Plage Market este o plajă situată pe coasta din Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890403,
+                        36.890377
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "Plage Militaire 1 este o plajă situată în Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887051,
+                        36.892162
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "Plage Paradis este o plajă pitorească din Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883826,
+                        36.894217
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Issat Idir",
+                  "text": "Issat Idir Cultural Centre este un centru de arte din Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910689,
+                        36.875442
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "Centre Culturel Ali Tlilani este un centru cultural în Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869109
+                  ]
+            },
+            {
+                  "name": "Palais de la Culture et des Arts",
+                  "text": "Palace of Culture and Arts este un centru cultural din Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911284,
+                        36.882213
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "Maison de Culture Mohamed Seradj este un centru de artă și cultură din Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909327,
+                        36.868234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théatre régional de Skikda",
+                  "text": "The Théatre régional de Skikda is a regional theatre located in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.906487,
+                        36.881245
+                  ]
+            },
+            {
+                  "name": "Théâtre Romain",
+                  "text": "The Théâtre Romain is an ancient Roman amphitheater in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.905171,
+                        36.87961
+                  ]
+            },
+            {
+                  "name": "Musée",
+                  "text": "The Musée is a local museum located in the city of Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.905329,
+                        36.88328
+                  ]
+            },
+            {
+                  "name": "Musée d'el Moujahid",
+                  "text": "The Musée d'el Moujahid is a museum situated in Skikda.",
+                  "category": "museum",
+                  "coords": [
+                        6.920248,
+                        36.871067
+                  ]
+            },
+            {
+                  "name": "Palais Meriem (Chateau Bengana)",
+                  "text": "The Palais Meriem (Chateau Bengana) is a notable castle in Skikda.",
+                  "category": "castle",
+                  "coords": [
+                        6.897138,
+                        36.886565
+                  ]
+            },
+            {
+                  "name": "Plage Château Vert",
+                  "text": "Plage Château Vert is a beach in the coastal city of Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.895436,
+                        36.888121
+                  ]
+            },
+            {
+                  "name": "Plage Market",
+                  "text": "Plage Market is a coastal beach located in Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.890403,
+                        36.890377
+                  ]
+            },
+            {
+                  "name": "Plage Militaire 1",
+                  "text": "Plage Militaire 1 is a beach located in Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.887051,
+                        36.892162
+                  ]
+            },
+            {
+                  "name": "Plage Paradis",
+                  "text": "Plage Paradis is a scenic beach situated in Skikda.",
+                  "category": "recreational",
+                  "coords": [
+                        6.883826,
+                        36.894217
+                  ]
+            },
+            {
+                  "name": "Issat Idir Cultural Centre",
+                  "text": "The Issat Idir Cultural Centre is an arts centre in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.910689,
+                        36.875442
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ali Tlilani",
+                  "text": "The Centre Culturel Ali Tlilani is a cultural centre located in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.91569,
+                        36.869109
+                  ]
+            },
+            {
+                  "name": "Palace of Culture and Arts",
+                  "text": "The Palace of Culture and Arts is a cultural centre in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.911284,
+                        36.882213
+                  ]
+            },
+            {
+                  "name": "Maison de Culture Mohamed Seradj",
+                  "text": "The Maison de Culture Mohamed Seradj is an arts and cultural centre in Skikda.",
+                  "category": "cultural",
+                  "coords": [
+                        6.909327,
+                        36.868234
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-21",
     coords: [6.9083, 36.8778],
@@ -452,7 +4574,340 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Le nom de Philippeville fut donné en l'honneur du roi des Français Louis-Philippe Ier.", "Le port de Skikda est l'un des plus profonds et des plus grands d'Algérie.", "La raffinerie de Skikda est l'une des plus importantes du pays.", "Le théâtre romain pouvait accueillir environ 10 000 spectateurs.", "La ville moderne a été fondée par les Français en 1838.", "Skikda est célèbre pour sa fête annuelle de la fraise.", "La population est d'environ 180 000 habitants.", "La route côtière de la 'Corniche' offre des vues spectaculaires."],
     }, image: "/poi-images/skikda-cities-v2.webp"},
   {
-    id: "tiaret-cities-v2",
+    id: "tiaret-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسرح ح. الحسني",
+                  "text": "Dies ist ein Theater in der Stadt Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.313316,
+                        35.366766
+                  ]
+            },
+            {
+                  "name": "Rostom Amusement Park",
+                  "text": "Der Rostom Amusement Park ist ein Freizeitpark in der Stadt Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.30657,
+                        35.38635
+                  ]
+            },
+            {
+                  "name": "Roller Coaster",
+                  "text": "Diese Achterbahn ist Teil eines Freizeitparks in der Stadt Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307201,
+                        35.38768
+                  ]
+            },
+            {
+                  "name": "Trampoline",
+                  "text": "Diese Trampolin-Attraktion befindet sich in einem Freizeitpark in Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307148,
+                        35.385422
+                  ]
+            },
+            {
+                  "name": "Bumper cars",
+                  "text": "Diese Autoscooter-Attraktion ist Teil eines Freizeitparks in Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307981,
+                        35.386411
+                  ]
+            },
+            {
+                  "name": "جناح النشاطات الثقافية",
+                  "text": "Dies ist ein Kunstzentrum in der Stadt Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.348559,
+                        35.379406
+                  ]
+            },
+            {
+                  "name": "دار الشباب",
+                  "text": "Dies ist ein Kunst- und Jugendzentrum in der Stadt Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.33278,
+                        35.371953
+                  ]
+            },
+            {
+                  "name": "Conservatoire Mohamed Bouteiba",
+                  "text": "Das Conservatoire Mohamed Bouteiba ist ein Kunstzentrum in der Stadt Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.319186,
+                        35.374826
+                  ]
+            },
+            {
+                  "name": "دار الشباب الاخوة بوصغير",
+                  "text": "Dies ist ein Kunstzentrum in der Stadt Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.310686,
+                        35.377555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسرح ح. الحسني",
+                  "text": "Ez egy színház Tiaret városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.313316,
+                        35.366766
+                  ]
+            },
+            {
+                  "name": "Rostom Amusement Park",
+                  "text": "A Rostom Amusement Park egy vidámpark Tiaret városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.30657,
+                        35.38635
+                  ]
+            },
+            {
+                  "name": "Roller Coaster",
+                  "text": "Ez a hullámvasút egy vidámpark része Tiaret városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307201,
+                        35.38768
+                  ]
+            },
+            {
+                  "name": "Trampoline",
+                  "text": "Ez a trambulin attrakció egy vidámparkban található Tiaret városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307148,
+                        35.385422
+                  ]
+            },
+            {
+                  "name": "Bumper cars",
+                  "text": "Ez a dodzsem attrakció egy vidámpark része Tiaret városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307981,
+                        35.386411
+                  ]
+            },
+            {
+                  "name": "جناح النشاطات الثقافية",
+                  "text": "Ez egy művészeti központ Tiaret városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.348559,
+                        35.379406
+                  ]
+            },
+            {
+                  "name": "دار الشباب",
+                  "text": "Ez egy művészeti és ifjúsági központ Tiaret városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.33278,
+                        35.371953
+                  ]
+            },
+            {
+                  "name": "Conservatoire Mohamed Bouteiba",
+                  "text": "A Conservatoire Mohamed Bouteiba egy művészeti központ Tiaret városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.319186,
+                        35.374826
+                  ]
+            },
+            {
+                  "name": "دار الشباب الاخوة بوصغير",
+                  "text": "Ez egy művészeti központ Tiaret városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.310686,
+                        35.377555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسرح ح. الحسني",
+                  "text": "Acesta este un teatru situat în orașul Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.313316,
+                        35.366766
+                  ]
+            },
+            {
+                  "name": "Rostom Amusement Park",
+                  "text": "Rostom Amusement Park este un parc de distracții situat în orașul Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.30657,
+                        35.38635
+                  ]
+            },
+            {
+                  "name": "Roller Coaster",
+                  "text": "Acest roller coaster face parte dintr-un parc de distracții din orașul Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307201,
+                        35.38768
+                  ]
+            },
+            {
+                  "name": "Trampoline",
+                  "text": "Această atracție cu trambulină este situată într-un parc de distracții din Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307148,
+                        35.385422
+                  ]
+            },
+            {
+                  "name": "Bumper cars",
+                  "text": "Această atracție cu mașinuțe tamponabile face parte dintr-un parc de distracții din Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307981,
+                        35.386411
+                  ]
+            },
+            {
+                  "name": "جناح النشاطات الثقافية",
+                  "text": "Acesta este un centru de arte situat în orașul Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.348559,
+                        35.379406
+                  ]
+            },
+            {
+                  "name": "دار الشباب",
+                  "text": "Acesta este un centru de arte și tineret situat în orașul Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.33278,
+                        35.371953
+                  ]
+            },
+            {
+                  "name": "Conservatoire Mohamed Bouteiba",
+                  "text": "Conservatoire Mohamed Bouteiba este un centru de arte situat în orașul Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.319186,
+                        35.374826
+                  ]
+            },
+            {
+                  "name": "دار الشباب الاخوة بوصغير",
+                  "text": "Acesta este un centru de arte situat în orașul Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.310686,
+                        35.377555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "مسرح ح. الحسني",
+                  "text": "This is a theatre located in the city of Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.313316,
+                        35.366766
+                  ]
+            },
+            {
+                  "name": "Rostom Amusement Park",
+                  "text": "Rostom Amusement Park is a theme park located in the city of Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.30657,
+                        35.38635
+                  ]
+            },
+            {
+                  "name": "Roller Coaster",
+                  "text": "This roller coaster is part of a theme park in the city of Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307201,
+                        35.38768
+                  ]
+            },
+            {
+                  "name": "Trampoline",
+                  "text": "This trampoline attraction is located within a theme park in Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307148,
+                        35.385422
+                  ]
+            },
+            {
+                  "name": "Bumper cars",
+                  "text": "This bumper cars attraction is part of a theme park in Tiaret.",
+                  "category": "recreational",
+                  "coords": [
+                        1.307981,
+                        35.386411
+                  ]
+            },
+            {
+                  "name": "جناح النشاطات الثقافية",
+                  "text": "This is an arts centre located in the city of Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.348559,
+                        35.379406
+                  ]
+            },
+            {
+                  "name": "دار الشباب",
+                  "text": "This is an arts and youth centre located in the city of Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.33278,
+                        35.371953
+                  ]
+            },
+            {
+                  "name": "Conservatoire Mohamed Bouteiba",
+                  "text": "Conservatoire Mohamed Bouteiba is an arts centre located in the city of Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.319186,
+                        35.374826
+                  ]
+            },
+            {
+                  "name": "دار الشباب الاخوة بوصغير",
+                  "text": "This is an arts centre located in the city of Tiaret.",
+                  "category": "cultural",
+                  "coords": [
+                        1.310686,
+                        35.377555
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-14",
     coords: [1.32, 35.37],
@@ -557,7 +5012,376 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Capitale du royaume zianide pendant plus de 300 ans.", "La Grande Mosquée a été construite en 1136 par les Almoravides.", "Sidi Boumediene est le saint patron de la ville.", "Le parc national de Tlemcen comprend des forêts, des grottes et des cascades.", "Tlemcen a été « Capitale de la culture islamique » en 2011.", "La population de la ville est d'environ 140 000 habitants.", "Les ruines de Mansourah, à l'extérieur de la ville, témoignent d'un siège au XIVe siècle.", "Les textiles de Tlemcen sont renommés pour leur qualité et leurs motifs."],
     }, image: "/poi-images/tlemcen-cities-v2.webp"},
   {
-    id: "ouargla-cities-v2",
+    id: "ouargla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khaled",
+                  "text": "Khaled ist ein Theater in der Stadt Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.335262,
+                        31.946793
+                  ]
+            },
+            {
+                  "name": "Das große Haus",
+                  "text": "The Big House ist eine Burg in der Stadt Ouargla.",
+                  "category": "castle",
+                  "coords": [
+                        5.326422,
+                        31.936047
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "Das Musée El Moudjahid ist ein Museum in der Stadt Ouargla.",
+                  "category": "museum",
+                  "coords": [
+                        5.330024,
+                        31.95918
+                  ]
+            },
+            {
+                  "name": "شركة تأمين",
+                  "text": "Dies ist ein Aussichtspunkt in der Stadt Ouargla.",
+                  "category": "natural",
+                  "coords": [
+                        5.320464,
+                        31.945438
+                  ]
+            },
+            {
+                  "name": "مدرسة قرآنية والحديث سكرة",
+                  "text": "Dies ist eine Touristenattraktion in der Stadt Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.336758,
+                        31.934127
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Das Maison de la Culture ist ein Kunstzentrum in der Stadt Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.328328,
+                        31.958712
+                  ]
+            },
+            {
+                  "name": "Maison dess Jeunes",
+                  "text": "Das Maison dess Jeunes ist ein Kunstzentrum in der Stadt Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.312369,
+                        31.965135
+                  ]
+            },
+            {
+                  "name": "Rondpint ELHADJRA",
+                  "text": "Dies ist eine Attraktion in der Stadt Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.324895,
+                        31.961797
+                  ]
+            },
+            {
+                  "name": "CENTRE CULTUREL HADJAJ",
+                  "text": "Das Centre Culturel Hadjaj ist ein Kunstzentrum in der Stadt Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.333644,
+                        31.944216
+                  ]
+            },
+            {
+                  "name": "المركة الثقافي الاسلامي",
+                  "text": "Dies ist ein Kunst- und Kulturzentrum in der Stadt Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.301688,
+                        31.941672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khaled",
+                  "text": "A Khaled egy színház Ouargla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.335262,
+                        31.946793
+                  ]
+            },
+            {
+                  "name": "الدار الكبيرة",
+                  "text": "A The Big House egy kastély Ouargla városában.",
+                  "category": "castle",
+                  "coords": [
+                        5.326422,
+                        31.936047
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "A Musée El Moudjahid egy múzeum Ouargla városában.",
+                  "category": "museum",
+                  "coords": [
+                        5.330024,
+                        31.95918
+                  ]
+            },
+            {
+                  "name": "شركة تأمين",
+                  "text": "Ez egy kilátó Ouargla városában.",
+                  "category": "natural",
+                  "coords": [
+                        5.320464,
+                        31.945438
+                  ]
+            },
+            {
+                  "name": "مدرسة قرآنية والحديث سكرة",
+                  "text": "Ez egy turisztikai látványosság Ouargla városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.336758,
+                        31.934127
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "A Maison de la Culture egy művészeti központ Ouargla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.328328,
+                        31.958712
+                  ]
+            },
+            {
+                  "name": "Maison dess Jeunes",
+                  "text": "A Maison dess Jeunes egy művészeti központ Ouargla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.312369,
+                        31.965135
+                  ]
+            },
+            {
+                  "name": "Rondpint ELHADJRA",
+                  "text": "Ez egy látványosság Ouargla városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.324895,
+                        31.961797
+                  ]
+            },
+            {
+                  "name": "CENTRE CULTUREL HADJAJ",
+                  "text": "A Centre Culturel Hadjaj egy művészeti központ Ouargla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.333644,
+                        31.944216
+                  ]
+            },
+            {
+                  "name": "المركة الثقافي الاسلامي",
+                  "text": "Ez egy művészeti és kulturális központ Ouargla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.301688,
+                        31.941672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khaled",
+                  "text": "Khaled este un teatru situat în orașul Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.335262,
+                        31.946793
+                  ]
+            },
+            {
+                  "name": "الدار الكبيرة",
+                  "text": "The Big House este un castel situat în orașul Ouargla.",
+                  "category": "castle",
+                  "coords": [
+                        5.326422,
+                        31.936047
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "Musée El Moudjahid este un muzeu situat în orașul Ouargla.",
+                  "category": "museum",
+                  "coords": [
+                        5.330024,
+                        31.95918
+                  ]
+            },
+            {
+                  "name": "شركة تأمين",
+                  "text": "Acesta este un punct de belvedere situat în orașul Ouargla.",
+                  "category": "natural",
+                  "coords": [
+                        5.320464,
+                        31.945438
+                  ]
+            },
+            {
+                  "name": "مدرسة قرآنية والحديث سكرة",
+                  "text": "Aceasta este o atracție turistică situată în orașul Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.336758,
+                        31.934127
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Maison de la Culture este un centru de arte situat în orașul Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.328328,
+                        31.958712
+                  ]
+            },
+            {
+                  "name": "Maison dess Jeunes",
+                  "text": "Maison dess Jeunes este un centru de arte situat în orașul Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.312369,
+                        31.965135
+                  ]
+            },
+            {
+                  "name": "Rondpint ELHADJRA",
+                  "text": "Aceasta este o atracție situată în orașul Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.324895,
+                        31.961797
+                  ]
+            },
+            {
+                  "name": "CENTRE CULTUREL HADJAJ",
+                  "text": "Centre Culturel Hadjaj este un centru de arte situat în orașul Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.333644,
+                        31.944216
+                  ]
+            },
+            {
+                  "name": "المركة الثقافي الاسلامي",
+                  "text": "Acesta este un centru de arte și cultură situat în orașul Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.301688,
+                        31.941672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khaled",
+                  "text": "Khaled is a theatre located in the city of Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.335262,
+                        31.946793
+                  ]
+            },
+            {
+                  "name": "The Big House",
+                  "text": "The Big House is a castle located in the city of Ouargla.",
+                  "category": "castle",
+                  "coords": [
+                        5.326422,
+                        31.936047
+                  ]
+            },
+            {
+                  "name": "Musée El Moudjahid",
+                  "text": "Musée El Moudjahid is a museum located in the city of Ouargla.",
+                  "category": "museum",
+                  "coords": [
+                        5.330024,
+                        31.95918
+                  ]
+            },
+            {
+                  "name": "Insurance",
+                  "text": "This is a viewpoint located in the city of Ouargla.",
+                  "category": "natural",
+                  "coords": [
+                        5.320464,
+                        31.945438
+                  ]
+            },
+            {
+                  "name": "مدرسة قرآنية والحديث سكرة",
+                  "text": "This is a tourist attraction located in the city of Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.336758,
+                        31.934127
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Maison de la Culture is an arts centre located in the city of Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.328328,
+                        31.958712
+                  ]
+            },
+            {
+                  "name": "Maison dess Jeunes",
+                  "text": "Maison dess Jeunes is an arts centre located in the city of Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.312369,
+                        31.965135
+                  ]
+            },
+            {
+                  "name": "Rondpint ELHADJRA",
+                  "text": "This is an attraction located in the city of Ouargla.",
+                  "category": "landmark",
+                  "coords": [
+                        5.324895,
+                        31.961797
+                  ]
+            },
+            {
+                  "name": "CENTRE CULTUREL HADJAJ",
+                  "text": "Centre Culturel Hadjaj is an arts centre located in the city of Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.333644,
+                        31.944216
+                  ]
+            },
+            {
+                  "name": "المركة الثقافي الاسلامي",
+                  "text": "This is an arts and cultural centre located in the city of Ouargla.",
+                  "category": "cultural",
+                  "coords": [
+                        5.301688,
+                        31.941672
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-30",
     coords: [5.325, 31.95],
@@ -592,7 +5416,196 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Ouargla est située dans le vaste bassin de l'Oued Mya.", "L'Université d'Ouargla est un centre éducatif majeur pour le sud.", "Les températures estivales dépassent régulièrement les 45 °C.", "L'ancien Ksar d'Ouargla a été fondé au Xe siècle.", "La ville dispose d'un aéroport international.", "La population d'Ouargla s'élève à plus de 130 000 habitants.", "La région est riche en réserves d'eau souterraines (Aquifère de l'Albien).", "La ville est un carrefour de transport stratégique pour le Sahara."],
     }, image: "/poi-images/ouargla-cities-v2.webp"},
   {
-    id: "bechar-cities-v2",
+    id: "bechar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "CLF 3°RM",
+                  "text": "Der CLF 3°RM ist ein Vergnügungspark in Béchar.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.218394,
+                        31.613991
+                  ]
+            },
+            {
+                  "name": "Parc d'Attraction",
+                  "text": "Dieser Vergnügungspark bietet Attraktionen in Béchar.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.194209,
+                        31.637919
+                  ]
+            },
+            {
+                  "name": "متحف بشار",
+                  "text": "Das Museum von Béchar bewahrt lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -2.218938,
+                        31.611655
+                  ]
+            },
+            {
+                  "name": "Theâtre régionale de Béchar",
+                  "text": "Das Théâtre Régional de Béchar ist ein kultureller Veranstaltungsort.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.224829,
+                        31.620402
+                  ]
+            },
+            {
+                  "name": "الحمامة",
+                  "text": "Das Denkmal El Hammama ist ein Wahrzeichen in Béchar.",
+                  "category": "historical",
+                  "coords": [
+                        -2.218484,
+                        31.626979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CLF 3°RM",
+                  "text": "A CLF 3°RM egy szórakoztatópark Béchar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.218394,
+                        31.613991
+                  ]
+            },
+            {
+                  "name": "Parc d'Attraction",
+                  "text": "Ez a szórakoztatópark attrakciókat kínál Béchar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.194209,
+                        31.637919
+                  ]
+            },
+            {
+                  "name": "متحف بشار",
+                  "text": "A Béchar-i múzeum a helyi történelmet őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -2.218938,
+                        31.611655
+                  ]
+            },
+            {
+                  "name": "Theâtre régionale de Béchar",
+                  "text": "A Théâtre Régional de Béchar egy kulturális helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.224829,
+                        31.620402
+                  ]
+            },
+            {
+                  "name": "الحمامة",
+                  "text": "Az El Hammama emlékmű egy jellegzetes építmény Béchar városában.",
+                  "category": "historical",
+                  "coords": [
+                        -2.218484,
+                        31.626979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CLF 3°RM",
+                  "text": "CLF 3°RM este un parc de distracții din Béchar.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.218394,
+                        31.613991
+                  ]
+            },
+            {
+                  "name": "Parc d'Attraction",
+                  "text": "Acest parc de distracții oferă atracții în Béchar.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.194209,
+                        31.637919
+                  ]
+            },
+            {
+                  "name": "متحف بشار",
+                  "text": "Muzeul din Béchar păstrează istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -2.218938,
+                        31.611655
+                  ]
+            },
+            {
+                  "name": "Theâtre régionale de Béchar",
+                  "text": "Théâtre Régional de Béchar este o locație culturală.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.224829,
+                        31.620402
+                  ]
+            },
+            {
+                  "name": "الحمامة",
+                  "text": "Monumentul El Hammama este un punct de reper în Béchar.",
+                  "category": "historical",
+                  "coords": [
+                        -2.218484,
+                        31.626979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CLF 3°RM",
+                  "text": "The CLF 3°RM is an amusement park in Béchar.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.218394,
+                        31.613991
+                  ]
+            },
+            {
+                  "name": "Parc d'Attraction",
+                  "text": "This amusement park offers attractions in Béchar.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.194209,
+                        31.637919
+                  ]
+            },
+            {
+                  "name": "متحف بشار",
+                  "text": "The museum of Béchar preserves local history.",
+                  "category": "museum",
+                  "coords": [
+                        -2.218938,
+                        31.611655
+                  ]
+            },
+            {
+                  "name": "Theâtre régionale de Béchar",
+                  "text": "The Théâtre Régional de Béchar is a cultural venue.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.224829,
+                        31.620402
+                  ]
+            },
+            {
+                  "name": "الحمامة",
+                  "text": "The El Hammama monument is a landmark in Béchar.",
+                  "category": "historical",
+                  "coords": [
+                        -2.218484,
+                        31.626979
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-08",
     coords: [-2.2167, 31.6167],
@@ -627,7 +5640,664 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Béchar se trouve sur l'oued Saoura, l'un des plus grands oueds du Sahara.", "La ville fut au centre du programme d'essais nucléaires français dans les années 1960.", "Elle compte environ 165.000 habitants.", "La mosquée de Kenadsa, à proximité, est l'une des plus anciennes de la région.", "Béchar possède une université et un aéroport.", "Le style musical traditionnel de la région est le Gnawa.", "La ville est située à 747 mètres d'altitude.", "Le climat est désertique chaud avec des précipitations très rares."],
     }, image: "/poi-images/bechar-cities-v2.webp"},
   {
-    id: "mostaganem-cities-v2",
+    id: "mostaganem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Das Musée du Moudjahid ist ein Museum in der Stadt Mostaganem.",
+                  "category": "museum",
+                  "coords": [
+                        0.078014,
+                        35.930894
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Kaid",
+                  "text": "Das Musée Dar El Kaid ist ein historisches Museum in Mostaganem.",
+                  "category": "museum",
+                  "coords": [
+                        0.092938,
+                        35.936324
+                  ]
+            },
+            {
+                  "name": "Parc Aquatique",
+                  "text": "Der Parc Aquatique ist ein Wasserpark in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.095428,
+                        35.95286
+                  ]
+            },
+            {
+                  "name": "Cité zagheloul f",
+                  "text": "Cité zagheloul f ist ein Schloss in der Stadt Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.090699,
+                        35.919797
+                  ]
+            },
+            {
+                  "name": "مؤسسة جنة العارف",
+                  "text": "Die Djanat el arif foundation ist in einem Schloss in Mostaganem untergebracht.",
+                  "category": "castle",
+                  "coords": [
+                        0.112148,
+                        35.915324
+                  ]
+            },
+            {
+                  "name": "34 - Spectacle De Danse",
+                  "text": "34 - Spectacle De Danse ist eine Freizeitpark-Attraktion in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.096883,
+                        35.953095
+                  ]
+            },
+            {
+                  "name": "Mostaland Parc",
+                  "text": "Mostaland Parc ist ein bekannter Freizeitpark mit verschiedenen Attraktionen in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.097726,
+                        35.956615
+                  ]
+            },
+            {
+                  "name": "Théâtre de Mostaganem",
+                  "text": "Das Théâtre de Mostaganem ist eine kulturelle Einrichtung für Theateraufführungen in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        0.07696,
+                        35.926409
+                  ]
+            },
+            {
+                  "name": "Jardin Zoologique",
+                  "text": "Der Jardin Zoologique ist ein zoologischer Garten mit verschiedenen Tierarten in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088983,
+                        35.932806
+                  ]
+            },
+            {
+                  "name": "Fort Turc",
+                  "text": "Fort Turc ist eine historische Burganlage in Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.096429,
+                        35.934281
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Der Parc animalier ist ein Tierpark in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.099957,
+                        35.958422
+                  ]
+            },
+            {
+                  "name": "8- Trampoline",
+                  "text": "8- Trampoline ist eine Sprungattraktion in einem Freizeitpark in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.098261,
+                        35.954539
+                  ]
+            },
+            {
+                  "name": "27 - Zera Gravity",
+                  "text": "27 - Zera Gravity ist ein Fahrgeschäft mit Schwerkraft-Thematik in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.097973,
+                        35.953618
+                  ]
+            },
+            {
+                  "name": "الدلافين الثلاثة",
+                  "text": "The three dolphins ist ein lokales Denkmal in der Stadt Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.091179,
+                        35.94925
+                  ]
+            },
+            {
+                  "name": "الفارس",
+                  "text": "الفارس (Der Ritter) ist ein Denkmal in Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.115505,
+                        35.939775
+                  ]
+            },
+            {
+                  "name": "تمثال رجل المسرح و 4 أسود",
+                  "text": "Das Denkmal تمثال رجل المسرح و 4 أسود zeigt eine Theaterfigur und vier Löwen in Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.078974,
+                        35.91151
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "Das Maison de la culture ist ein Kunst- und Kulturzentrum in Mostaganem.",
+                  "category": "cultural",
+                  "coords": [
+                        0.080363,
+                        35.926682
+                  ]
+            },
+            {
+                  "name": "23 - Flume Ride",
+                  "text": "23 - Flume Ride ist eine Wildwasserbahn in Mostaganem.",
+                  "category": "landmark",
+                  "coords": [
+                        0.09705,
+                        35.954016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "A Musée du Moudjahid egy múzeum Mostaganem városában.",
+                  "category": "museum",
+                  "coords": [
+                        0.078014,
+                        35.930894
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Kaid",
+                  "text": "A Musée Dar El Kaid egy történelmi múzeum Mostaganemben.",
+                  "category": "museum",
+                  "coords": [
+                        0.092938,
+                        35.936324
+                  ]
+            },
+            {
+                  "name": "Parc Aquatique",
+                  "text": "A Parc Aquatique egy vízipark Mostaganem városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.095428,
+                        35.95286
+                  ]
+            },
+            {
+                  "name": "Cité zagheloul f",
+                  "text": "A Cité zagheloul f egy kastély Mostaganem városában.",
+                  "category": "castle",
+                  "coords": [
+                        0.090699,
+                        35.919797
+                  ]
+            },
+            {
+                  "name": "مؤسسة جنة العارف",
+                  "text": "A Djanat el arif foundation egy kastélyban található Mostaganemben.",
+                  "category": "castle",
+                  "coords": [
+                        0.112148,
+                        35.915324
+                  ]
+            },
+            {
+                  "name": "34 - Spectacle De Danse",
+                  "text": "A 34 - Spectacle De Danse egy vidámparki látványosság Mostaganem városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.096883,
+                        35.953095
+                  ]
+            },
+            {
+                  "name": "Mostaland Parc",
+                  "text": "A Mostaland Parc egy ismert vidámpark különféle látványosságokkal Mostaganemben.",
+                  "category": "recreational",
+                  "coords": [
+                        0.097726,
+                        35.956615
+                  ]
+            },
+            {
+                  "name": "Théâtre de Mostaganem",
+                  "text": "A Théâtre de Mostaganem egy színházi előadásoknak otthont adó kulturális intézmény a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        0.07696,
+                        35.926409
+                  ]
+            },
+            {
+                  "name": "Jardin Zoologique",
+                  "text": "A Jardin Zoologique egy különféle állatfajokat bemutató állatkert Mostaganemben.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088983,
+                        35.932806
+                  ]
+            },
+            {
+                  "name": "Fort Turc",
+                  "text": "A Fort Turc egy történelmi erődítmény Mostaganem városában.",
+                  "category": "castle",
+                  "coords": [
+                        0.096429,
+                        35.934281
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "A Parc animalier egy állatkert Mostaganemben.",
+                  "category": "recreational",
+                  "coords": [
+                        0.099957,
+                        35.958422
+                  ]
+            },
+            {
+                  "name": "8- Trampoline",
+                  "text": "A 8- Trampoline egy trambulin látványosság egy mostaganemi vidámparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.098261,
+                        35.954539
+                  ]
+            },
+            {
+                  "name": "27 - Zera Gravity",
+                  "text": "A 27 - Zera Gravity egy gravitációs témájú vidámparki játék Mostaganemben.",
+                  "category": "recreational",
+                  "coords": [
+                        0.097973,
+                        35.953618
+                  ]
+            },
+            {
+                  "name": "الدلافين الثلاثة",
+                  "text": "A The three dolphins egy helyi műemlék Mostaganem városában.",
+                  "category": "historical",
+                  "coords": [
+                        0.091179,
+                        35.94925
+                  ]
+            },
+            {
+                  "name": "الفارس",
+                  "text": "Az الفارس (A lovag) egy emlékmű Mostaganem városában.",
+                  "category": "historical",
+                  "coords": [
+                        0.115505,
+                        35.939775
+                  ]
+            },
+            {
+                  "name": "تمثال رجل المسرح و 4 أسود",
+                  "text": "A تمثال رجل المسرح و 4 أسود egy színházi alakot és négy oroszlánt ábrázoló emlékmű Mostaganemben.",
+                  "category": "historical",
+                  "coords": [
+                        0.078974,
+                        35.91151
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "A Maison de la culture egy művészeti és kulturális központ Mostaganemben.",
+                  "category": "cultural",
+                  "coords": [
+                        0.080363,
+                        35.926682
+                  ]
+            },
+            {
+                  "name": "23 - Flume Ride",
+                  "text": "A 23 - Flume Ride egy vizes rönkcsúszda látványosság Mostaganemben.",
+                  "category": "landmark",
+                  "coords": [
+                        0.09705,
+                        35.954016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Musée du Moudjahid este un muzeu din orașul Mostaganem.",
+                  "category": "museum",
+                  "coords": [
+                        0.078014,
+                        35.930894
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Kaid",
+                  "text": "Musée Dar El Kaid este un muzeu istoric situat în Mostaganem.",
+                  "category": "museum",
+                  "coords": [
+                        0.092938,
+                        35.936324
+                  ]
+            },
+            {
+                  "name": "Parc Aquatique",
+                  "text": "Parc Aquatique este un parc acvatic din Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.095428,
+                        35.95286
+                  ]
+            },
+            {
+                  "name": "Cité zagheloul f",
+                  "text": "Cité zagheloul f este un castel din orașul Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.090699,
+                        35.919797
+                  ]
+            },
+            {
+                  "name": "مؤسسة جنة العارف",
+                  "text": "Djanat el arif foundation își are sediul într-un castel din Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.112148,
+                        35.915324
+                  ]
+            },
+            {
+                  "name": "34 - Spectacle De Danse",
+                  "text": "34 - Spectacle De Danse este o atracție de parc de distracții în Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.096883,
+                        35.953095
+                  ]
+            },
+            {
+                  "name": "Mostaland Parc",
+                  "text": "Mostaland Parc este un parc de distracții popular ce oferă diverse atracții în Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.097726,
+                        35.956615
+                  ]
+            },
+            {
+                  "name": "Théâtre de Mostaganem",
+                  "text": "Théâtre de Mostaganem este o locație culturală ce găzduiește spectacole de teatru în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        0.07696,
+                        35.926409
+                  ]
+            },
+            {
+                  "name": "Jardin Zoologique",
+                  "text": "Jardin Zoologique este o grădină zoologică ce expune diverse specii de animale în Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088983,
+                        35.932806
+                  ]
+            },
+            {
+                  "name": "Fort Turc",
+                  "text": "Fort Turc este un castel istoric situat în Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.096429,
+                        35.934281
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Parc animalier este o grădină zoologică din Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.099957,
+                        35.958422
+                  ]
+            },
+            {
+                  "name": "8- Trampoline",
+                  "text": "8- Trampoline este o atracție de sărituri într-un parc de distracții din Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.098261,
+                        35.954539
+                  ]
+            },
+            {
+                  "name": "27 - Zera Gravity",
+                  "text": "27 - Zera Gravity este o atracție cu tematică gravitațională în Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.097973,
+                        35.953618
+                  ]
+            },
+            {
+                  "name": "الدلافين الثلاثة",
+                  "text": "The three dolphins este un monument local situat în orașul Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.091179,
+                        35.94925
+                  ]
+            },
+            {
+                  "name": "الفارس",
+                  "text": "الفارس (Cavalerul) este un monument situat în Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.115505,
+                        35.939775
+                  ]
+            },
+            {
+                  "name": "تمثال رجل المسرح و 4 أسود",
+                  "text": "تمثال رجل المسرح و 4 أسود este un monument reprezentând o figură teatrală și patru lei în Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.078974,
+                        35.91151
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "Maison de la culture este un centru de artă și cultură din Mostaganem.",
+                  "category": "cultural",
+                  "coords": [
+                        0.080363,
+                        35.926682
+                  ]
+            },
+            {
+                  "name": "23 - Flume Ride",
+                  "text": "23 - Flume Ride este o atracție pe apă cu bușteni în Mostaganem.",
+                  "category": "landmark",
+                  "coords": [
+                        0.09705,
+                        35.954016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "The Musée du Moudjahid is a museum located in the city of Mostaganem.",
+                  "category": "museum",
+                  "coords": [
+                        0.078014,
+                        35.930894
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Kaid",
+                  "text": "The Musée Dar El Kaid is a historical museum situated in Mostaganem.",
+                  "category": "museum",
+                  "coords": [
+                        0.092938,
+                        35.936324
+                  ]
+            },
+            {
+                  "name": "Parc Aquatique",
+                  "text": "The Parc Aquatique is a water park in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.095428,
+                        35.95286
+                  ]
+            },
+            {
+                  "name": "Cité zagheloul f",
+                  "text": "Cité zagheloul f is a castle located in the city of Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.090699,
+                        35.919797
+                  ]
+            },
+            {
+                  "name": "Djanat el arif foundation",
+                  "text": "The Djanat el arif foundation is housed in a castle in Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.112148,
+                        35.915324
+                  ]
+            },
+            {
+                  "name": "34 - Spectacle De Danse",
+                  "text": "34 - Spectacle De Danse is a theme park attraction located in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.096883,
+                        35.953095
+                  ]
+            },
+            {
+                  "name": "Mostaland Parc",
+                  "text": "Mostaland Parc is a well-known theme park offering various attractions in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.097726,
+                        35.956615
+                  ]
+            },
+            {
+                  "name": "Théâtre de Mostaganem",
+                  "text": "Théâtre de Mostaganem is a cultural venue hosting theatrical performances in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        0.07696,
+                        35.926409
+                  ]
+            },
+            {
+                  "name": "Jardin Zoologique",
+                  "text": "Jardin Zoologique is a zoological park exhibiting various animal species in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088983,
+                        35.932806
+                  ]
+            },
+            {
+                  "name": "Fort Turc",
+                  "text": "Fort Turc is a historical castle structure located in Mostaganem.",
+                  "category": "castle",
+                  "coords": [
+                        0.096429,
+                        35.934281
+                  ]
+            },
+            {
+                  "name": "Parc animalier",
+                  "text": "Parc animalier is a zoo providing animal exhibits in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.099957,
+                        35.958422
+                  ]
+            },
+            {
+                  "name": "8- Trampoline",
+                  "text": "8- Trampoline is a jumping attraction in a theme park in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.098261,
+                        35.954539
+                  ]
+            },
+            {
+                  "name": "27 - Zera Gravity",
+                  "text": "27 - Zera Gravity is a gravity-themed amusement ride in Mostaganem.",
+                  "category": "recreational",
+                  "coords": [
+                        0.097973,
+                        35.953618
+                  ]
+            },
+            {
+                  "name": "The three dolphins",
+                  "text": "The three dolphins is a local monument situated in the city of Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.091179,
+                        35.94925
+                  ]
+            },
+            {
+                  "name": "الفارس",
+                  "text": "الفارس (The Knight) is a monument located in Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.115505,
+                        35.939775
+                  ]
+            },
+            {
+                  "name": "تمثال رجل المسرح و 4 أسود",
+                  "text": "تمثال رجل المسرح و 4 أسود is a monument featuring a theatrical figure and four lions in Mostaganem.",
+                  "category": "historical",
+                  "coords": [
+                        0.078974,
+                        35.91151
+                  ]
+            },
+            {
+                  "name": "Maison de la culture",
+                  "text": "Maison de la culture is an arts and cultural center located in Mostaganem.",
+                  "category": "cultural",
+                  "coords": [
+                        0.080363,
+                        35.926682
+                  ]
+            },
+            {
+                  "name": "23 - Flume Ride",
+                  "text": "23 - Flume Ride is a water-based log flume attraction in Mostaganem.",
+                  "category": "landmark",
+                  "coords": [
+                        0.09705,
+                        35.954016
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-27",
     coords: [0.0894, 35.9311],
@@ -698,7 +6368,196 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
     },
    image: "/poi-images/bordj-bou-arreridj-cities-v2.webp"},
   {
-    id: "chlef-cities-v2",
+    id: "chlef-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "pet’s corner (animalerie) ركن الحيوانات الأليفة",
+                  "text": "Pet’s Corner ist ein kleiner Tierpark in Chlef.",
+                  "category": "recreational",
+                  "coords": [
+                        1.333774,
+                        36.165434
+                  ]
+            },
+            {
+                  "name": "Musée Regional de Chlef  المتحف الإقليمي الشليف",
+                  "text": "Das Regionalmuseum von Chlef zeigt historische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        1.333725,
+                        36.161101
+                  ]
+            },
+            {
+                  "name": "ساحة حسيبة بن بوعلي",
+                  "text": "Die Hassiba-Ben-Bouali-Platz ist ein zentrales Denkmal in Chlef.",
+                  "category": "historical",
+                  "coords": [
+                        1.339451,
+                        36.166486
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "Das Kulturhaus ist ein bedeutendes Zentrum in Chlef.",
+                  "category": "cultural",
+                  "coords": [
+                        1.344875,
+                        36.162077
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Das Maison de la Culture bietet kulturelle Programme in Chlef.",
+                  "category": "cultural",
+                  "coords": [
+                        1.339687,
+                        36.163874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "pet’s corner (animalerie) ركن الحيوانات الأليفة",
+                  "text": "A Pet’s Corner egy kis állatkert Chlef városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.333774,
+                        36.165434
+                  ]
+            },
+            {
+                  "name": "Musée Regional de Chlef  المتحف الإقليمي الشليف",
+                  "text": "A Chlef-i regionális múzeum történelmi leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        1.333725,
+                        36.161101
+                  ]
+            },
+            {
+                  "name": "ساحة حسيبة بن بوعلي",
+                  "text": "A Hassiba Ben Bouali tér egy központi emlékhely Chlef városában.",
+                  "category": "historical",
+                  "coords": [
+                        1.339451,
+                        36.166486
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "A kulturális ház egy fontos központ Chlef városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.344875,
+                        36.162077
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "A Maison de la Culture kulturális programokat kínál Chlef városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.339687,
+                        36.163874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "pet’s corner (animalerie) ركن الحيوانات الأليفة",
+                  "text": "Pet’s Corner este o mică grădină zoologică din Chlef.",
+                  "category": "recreational",
+                  "coords": [
+                        1.333774,
+                        36.165434
+                  ]
+            },
+            {
+                  "name": "Musée Regional de Chlef  المتحف الإقليمي الشليف",
+                  "text": "Muzeul Regional din Chlef expune artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        1.333725,
+                        36.161101
+                  ]
+            },
+            {
+                  "name": "ساحة حسيبة بن بوعلي",
+                  "text": "Piața Hassiba Ben Bouali este un monument central din Chlef.",
+                  "category": "historical",
+                  "coords": [
+                        1.339451,
+                        36.166486
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "Casa de cultură este un centru important din Chlef.",
+                  "category": "cultural",
+                  "coords": [
+                        1.344875,
+                        36.162077
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Maison de la Culture oferă programe culturale în Chlef.",
+                  "category": "cultural",
+                  "coords": [
+                        1.339687,
+                        36.163874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "pet’s corner (animalerie)",
+                  "text": "Pet’s Corner is a small zoo in Chlef.",
+                  "category": "recreational",
+                  "coords": [
+                        1.333774,
+                        36.165434
+                  ]
+            },
+            {
+                  "name": "Musée Regional de Chlef  المتحف الإقليمي الشليف",
+                  "text": "The Regional Museum of Chlef showcases historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        1.333725,
+                        36.161101
+                  ]
+            },
+            {
+                  "name": "ساحة حسيبة بن بوعلي",
+                  "text": "The Hassiba Ben Bouali Square is a central monument in Chlef.",
+                  "category": "historical",
+                  "coords": [
+                        1.339451,
+                        36.166486
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "The House of Culture is a significant center in Chlef.",
+                  "category": "cultural",
+                  "coords": [
+                        1.344875,
+                        36.162077
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "The Maison de la Culture offers cultural programs in Chlef.",
+                  "category": "cultural",
+                  "coords": [
+                        1.339687,
+                        36.163874
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-02",
     coords: [1.3314, 36.1647],
@@ -733,7 +6592,88 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["La ville fut fondée par les Romains sous le nom de Castellum Tingitanum.", "Le séisme de 1980 avait une magnitude de 7,3.", "Chlef est renommée pour ses oranges et ses citrons de qualité.", "Située sur le Cheliff, le plus long fleuve d'Algérie.", "La partie côtière de la province, Ténès, est une station balnéaire prisée.", "L'université est axée sur la recherche scientifique.", "La ville a été reconstruite selon des normes parasismiques après 1980.", "Chlef est un carrefour de communication majeur dans l'ouest algérien."],
     }, image: "/poi-images/chlef-cities-v2.webp"},
   {
-    id: "souk-ahras-cities-v2",
+    id: "souk-ahras-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Das Musée du Moudjahid ist ein Museum in Souk Ahras, das der Geschichte des algerischen Widerstands gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.967845,
+                        36.287215
+                  ]
+            },
+            {
+                  "name": "Théatre",
+                  "text": "Théatre ist ein lokaler Veranstaltungsort für darstellende Kunst und kulturelle Ereignisse in Souk Ahras.",
+                  "category": "cultural",
+                  "coords": [
+                        7.957838,
+                        36.283795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "A Musée du Moudjahid az algériai ellenállás történetének szentelt múzeum Souk Ahrasban.",
+                  "category": "museum",
+                  "coords": [
+                        7.967845,
+                        36.287215
+                  ]
+            },
+            {
+                  "name": "Théatre",
+                  "text": "A Théatre az előadó-művészet és kulturális események helyi színtere Souk Ahrasban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.957838,
+                        36.283795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Musée du Moudjahid este un muzeu din Souk Ahras dedicat istoriei rezistenței algeriene.",
+                  "category": "museum",
+                  "coords": [
+                        7.967845,
+                        36.287215
+                  ]
+            },
+            {
+                  "name": "Théatre",
+                  "text": "Théatre este un loc pentru artele spectacolului și evenimente culturale în Souk Ahras.",
+                  "category": "cultural",
+                  "coords": [
+                        7.957838,
+                        36.283795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Musée du Moudjahid is a museum in Souk Ahras dedicated to the history of the Algerian resistance.",
+                  "category": "museum",
+                  "coords": [
+                        7.967845,
+                        36.287215
+                  ]
+            },
+            {
+                  "name": "Théatre",
+                  "text": "Théatre is a local venue for performing arts and cultural events in Souk Ahras.",
+                  "category": "cultural",
+                  "coords": [
+                        7.957838,
+                        36.283795
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-41",
     coords: [7.9511, 36.2864],
@@ -768,7 +6708,268 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Saint Augustin, futur évêque d'Hippone, y est né en 354 ap. J.-C.", "La ville est située à environ 650 mètres d'altitude.", "Souk Ahras est frontalière avec la Tunisie.", "Dans l'Antiquité, la ville portait le nom de Thagaste.", "La région compte parmi les zones les plus pluvieuses d'Algérie.", "Réputée pour ses forêts de chênes-lièges et son exploitation forestière.", "La cité antique de Madaure, toute proche, est un site archéologique majeur.", "La wilaya est un centre de l'artisanat traditionnel des bijoux berbères."],
     }, image: "/poi-images/souk-ahras-cities-v2.webp"},
   {
-    id: "medea-cities-v2",
+    id: "medea-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Ahmed Bougherra",
+                  "text": "Das Musée Ahmed Bougherra ist ein Museum in der Stadt Médéa.",
+                  "category": "museum",
+                  "coords": [
+                        2.756764,
+                        36.263667
+                  ]
+            },
+            {
+                  "name": "Dar Emir Abdelkader",
+                  "text": "Dar Emir Abdelkader ist ein Museum in der Stadt Médéa.",
+                  "category": "museum",
+                  "coords": [
+                        2.751495,
+                        36.261711
+                  ]
+            },
+            {
+                  "name": "دار الصناعة التقليدية",
+                  "text": "Dies ist ein Museum in der Stadt Médéa.",
+                  "category": "museum",
+                  "coords": [
+                        2.752245,
+                        36.268491
+                  ]
+            },
+            {
+                  "name": "Bab Lakouas (Porte des Arcades)",
+                  "text": "Bab Lakouas, auch bekannt als Porte des Arcades, ist ein Denkmal in der Stadt Médéa.",
+                  "category": "historical",
+                  "coords": [
+                        2.746833,
+                        36.266808
+                  ]
+            },
+            {
+                  "name": "دار الثقافة حسن الحسني",
+                  "text": "Dies ist ein Kunstzentrum in der Stadt Médéa.",
+                  "category": "cultural",
+                  "coords": [
+                        2.761786,
+                        36.26011
+                  ]
+            },
+            {
+                  "name": "Maison des arts et métiers",
+                  "text": "Das Maison des arts et métiers ist ein Kunstzentrum in der Stadt Médéa.",
+                  "category": "cultural",
+                  "coords": [
+                        2.790161,
+                        36.263934
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs scientifiques",
+                  "text": "Das Centre de loisirs scientifiques ist ein Kunstzentrum in der Stadt Médéa.",
+                  "category": "cultural",
+                  "coords": [
+                        2.761159,
+                        36.267823
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Ahmed Bougherra",
+                  "text": "A Musée Ahmed Bougherra egy múzeum Médéa városában.",
+                  "category": "museum",
+                  "coords": [
+                        2.756764,
+                        36.263667
+                  ]
+            },
+            {
+                  "name": "Dar Emir Abdelkader",
+                  "text": "A Dar Emir Abdelkader egy múzeum Médéa városában.",
+                  "category": "museum",
+                  "coords": [
+                        2.751495,
+                        36.261711
+                  ]
+            },
+            {
+                  "name": "دار الصناعة التقليدية",
+                  "text": "Ez egy múzeum Médéa városában.",
+                  "category": "museum",
+                  "coords": [
+                        2.752245,
+                        36.268491
+                  ]
+            },
+            {
+                  "name": "Bab Lakouas (Porte des Arcades)",
+                  "text": "A Bab Lakouas, más néven Porte des Arcades, egy emlékmű Médéa városában.",
+                  "category": "historical",
+                  "coords": [
+                        2.746833,
+                        36.266808
+                  ]
+            },
+            {
+                  "name": "دار الثقافة حسن الحسني",
+                  "text": "Ez egy művészeti központ Médéa városában.",
+                  "category": "cultural",
+                  "coords": [
+                        2.761786,
+                        36.26011
+                  ]
+            },
+            {
+                  "name": "Maison des arts et métiers",
+                  "text": "A Maison des arts et métiers egy művészeti központ Médéa városában.",
+                  "category": "cultural",
+                  "coords": [
+                        2.790161,
+                        36.263934
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs scientifiques",
+                  "text": "A Centre de loisirs scientifiques egy művészeti központ Médéa városában.",
+                  "category": "cultural",
+                  "coords": [
+                        2.761159,
+                        36.267823
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Ahmed Bougherra",
+                  "text": "Musée Ahmed Bougherra este un muzeu situat în orașul Médéa.",
+                  "category": "museum",
+                  "coords": [
+                        2.756764,
+                        36.263667
+                  ]
+            },
+            {
+                  "name": "Dar Emir Abdelkader",
+                  "text": "Dar Emir Abdelkader este un muzeu situat în orașul Médéa.",
+                  "category": "museum",
+                  "coords": [
+                        2.751495,
+                        36.261711
+                  ]
+            },
+            {
+                  "name": "دار الصناعة التقليدية",
+                  "text": "Acesta este un muzeu situat în orașul Médéa.",
+                  "category": "museum",
+                  "coords": [
+                        2.752245,
+                        36.268491
+                  ]
+            },
+            {
+                  "name": "Bab Lakouas (Porte des Arcades)",
+                  "text": "Bab Lakouas, cunoscut și sub numele de Porte des Arcades, este un monument situat în orașul Médéa.",
+                  "category": "historical",
+                  "coords": [
+                        2.746833,
+                        36.266808
+                  ]
+            },
+            {
+                  "name": "دار الثقافة حسن الحسني",
+                  "text": "Acesta este un centru de arte situat în orașul Médéa.",
+                  "category": "cultural",
+                  "coords": [
+                        2.761786,
+                        36.26011
+                  ]
+            },
+            {
+                  "name": "Maison des arts et métiers",
+                  "text": "Maison des arts et métiers este un centru de arte situat în orașul Médéa.",
+                  "category": "cultural",
+                  "coords": [
+                        2.790161,
+                        36.263934
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs scientifiques",
+                  "text": "Centre de loisirs scientifiques este un centru de arte situat în orașul Médéa.",
+                  "category": "cultural",
+                  "coords": [
+                        2.761159,
+                        36.267823
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Ahmed Bougherra",
+                  "text": "Musée Ahmed Bougherra is a museum located in the city of Médéa.",
+                  "category": "museum",
+                  "coords": [
+                        2.756764,
+                        36.263667
+                  ]
+            },
+            {
+                  "name": "Dar Emir Abdelkader",
+                  "text": "Dar Emir Abdelkader is a museum located in the city of Médéa.",
+                  "category": "museum",
+                  "coords": [
+                        2.751495,
+                        36.261711
+                  ]
+            },
+            {
+                  "name": "دار الصناعة التقليدية",
+                  "text": "This is a museum located in the city of Médéa.",
+                  "category": "museum",
+                  "coords": [
+                        2.752245,
+                        36.268491
+                  ]
+            },
+            {
+                  "name": "Bab Lakouas (Porte des Arcades)",
+                  "text": "Bab Lakouas, also known as Porte des Arcades, is a monument located in the city of Médéa.",
+                  "category": "historical",
+                  "coords": [
+                        2.746833,
+                        36.266808
+                  ]
+            },
+            {
+                  "name": "دار الثقافة حسن الحسني",
+                  "text": "This is an arts centre located in the city of Médéa.",
+                  "category": "cultural",
+                  "coords": [
+                        2.761786,
+                        36.26011
+                  ]
+            },
+            {
+                  "name": "Maison des arts et métiers",
+                  "text": "Maison des arts et métiers is an arts centre located in the city of Médéa.",
+                  "category": "cultural",
+                  "coords": [
+                        2.790161,
+                        36.263934
+                  ]
+            },
+            {
+                  "name": "Centre de loisirs scientifiques",
+                  "text": "Centre de loisirs scientifiques is an arts centre located in the city of Médéa.",
+                  "category": "cultural",
+                  "coords": [
+                        2.761159,
+                        36.267823
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-26",
     coords: [2.7667, 36.2667],
@@ -838,7 +7039,160 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["S'appelait Saint-Arnaud pendant la période française.", "Le 'marché Dubaï' est la zone commerciale la plus grande et la plus célèbre de la ville.", "Située à environ 950 mètres d'altitude.", "Important site logistique des hauts plateaux de l'Est.", "Connue pour son dynamisme entrepreneurial dans le secteur privé.", "Abrite une base industrielle en pleine croissance.", "La population a doublé en 20 ans.", "Située à proximité de la grande ville de Sétif."],
     }, image: "/poi-images/el-eulma-cities-v2.webp"},
   {
-    id: "touggourt-cities-v2",
+    id: "touggourt-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف المجاهدين",
+                  "text": "متحف المجاهدين ist ein Museum in Touggourt, das der Geschichte der Kämpfer der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.069733,
+                        33.105708
+                  ]
+            },
+            {
+                  "name": "Monument d'El Moudjahid",
+                  "text": "Das Monument d'El Moudjahid ist eine Gedenkstätte in der Stadt Touggourt.",
+                  "category": "historical",
+                  "coords": [
+                        6.066345,
+                        33.104509
+                  ]
+            },
+            {
+                  "name": "Torneur",
+                  "text": "Torneur ist ein malerischer Aussichtspunkt mit Panoramablick über Touggourt.",
+                  "category": "natural",
+                  "coords": [
+                        6.068762,
+                        33.089615
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes de Nezla",
+                  "text": "Maison de jeunes de Nezla ist ein Jugend- und Kulturzentrum in Touggourt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.06276,
+                        33.097993
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف المجاهدين",
+                  "text": "A متحف المجاهدين egy a régió harcosainak történelmét bemutató múzeum Touggourt városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.069733,
+                        33.105708
+                  ]
+            },
+            {
+                  "name": "Monument d'El Moudjahid",
+                  "text": "A Monument d'El Moudjahid egy emlékmű Touggourt városában.",
+                  "category": "historical",
+                  "coords": [
+                        6.066345,
+                        33.104509
+                  ]
+            },
+            {
+                  "name": "Torneur",
+                  "text": "A Torneur egy festői kilátóhely, ahonnan panorámás kilátás nyílik Touggourtra.",
+                  "category": "natural",
+                  "coords": [
+                        6.068762,
+                        33.089615
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes de Nezla",
+                  "text": "A Maison de jeunes de Nezla egy ifjúsági és kulturális központ Touggourtban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.06276,
+                        33.097993
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف المجاهدين",
+                  "text": "متحف المجاهدين este un muzeu din Touggourt dedicat istoriei luptătorilor din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        6.069733,
+                        33.105708
+                  ]
+            },
+            {
+                  "name": "Monument d'El Moudjahid",
+                  "text": "Monument d'El Moudjahid este un sit memorial situat în orașul Touggourt.",
+                  "category": "historical",
+                  "coords": [
+                        6.066345,
+                        33.104509
+                  ]
+            },
+            {
+                  "name": "Torneur",
+                  "text": "Torneur este un punct de belvedere panoramic asupra orașului Touggourt.",
+                  "category": "natural",
+                  "coords": [
+                        6.068762,
+                        33.089615
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes de Nezla",
+                  "text": "Maison de jeunes de Nezla este un centru cultural și pentru tineret situat în Touggourt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.06276,
+                        33.097993
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "متحف المجاهدين",
+                  "text": "متحف المجاهدين is a museum in Touggourt dedicated to the history of the region's fighters.",
+                  "category": "museum",
+                  "coords": [
+                        6.069733,
+                        33.105708
+                  ]
+            },
+            {
+                  "name": "Monument d'El Moudjahid",
+                  "text": "Monument d'El Moudjahid is a memorial site located in the city of Touggourt.",
+                  "category": "historical",
+                  "coords": [
+                        6.066345,
+                        33.104509
+                  ]
+            },
+            {
+                  "name": "Torneur",
+                  "text": "Torneur is a scenic viewpoint providing panoramic views over Touggourt.",
+                  "category": "natural",
+                  "coords": [
+                        6.068762,
+                        33.089615
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes de Nezla",
+                  "text": "Maison de jeunes de Nezla is a youth and cultural center located in Touggourt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.06276,
+                        33.097993
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-55",
     coords: [6.0667, 33.1],
@@ -873,7 +7227,124 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Capitale du sultanat de Touggourt de 1414 à 1854.", "Le mausolée des sultans est un lieu de pèlerinage important.", "Réputée pour ses dattes Deglet Nour de haute qualité.", "Terminus de la ligne de chemin de fer venant du nord.", "Située à proximité des champs pétrolifères de Hassi Messaoud.", "L'architecture est influencée par la tradition mozabite.", "Célèbre pour ses spectacles équestres de Fantasia.", "Des barrières de sable protègent la ville de l'ensablement."],
     }, image: "/poi-images/touggourt-cities-v2.webp"},
   {
-    id: "ghardaia-cities-v2",
+    id: "ghardaia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Planétarium de Ghardaia",
+                  "text": "Das Planétarium de Ghardaia ist ein Museum und Planetarium in der Stadt Ghardaia.",
+                  "category": "museum",
+                  "coords": [
+                        3.684134,
+                        32.503516
+                  ]
+            },
+            {
+                  "name": "الرمز التاريخ لبني مزاب",
+                  "text": "Dies ist ein Denkmal in der Stadt Ghardaia.",
+                  "category": "historical",
+                  "coords": [
+                        3.70002,
+                        32.481093
+                  ]
+            },
+            {
+                  "name": "كاتدرائية غرداية",
+                  "text": "Die Kathedrale von Ghardaïa ist eine historische Kultstätte in der Stadt Ghardaïa.",
+                  "category": "religious",
+                  "coords": [
+                        3.670613,
+                        32.488273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Planétarium de Ghardaia",
+                  "text": "A Planétarium de Ghardaia egy múzeum és planetárium Ghardaia városában.",
+                  "category": "museum",
+                  "coords": [
+                        3.684134,
+                        32.503516
+                  ]
+            },
+            {
+                  "name": "الرمز التاريخ لبني مزاب",
+                  "text": "Ez egy emlékmű Ghardaia városában.",
+                  "category": "historical",
+                  "coords": [
+                        3.70002,
+                        32.481093
+                  ]
+            },
+            {
+                  "name": "كاتدرائية غرداية",
+                  "text": "A Ghardaïa-katedrális egy történelmi istentiszteleti hely Ghardaïa városában.",
+                  "category": "religious",
+                  "coords": [
+                        3.670613,
+                        32.488273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Planétarium de Ghardaia",
+                  "text": "Planétarium de Ghardaia este un muzeu și planetariu situat în orașul Ghardaia.",
+                  "category": "museum",
+                  "coords": [
+                        3.684134,
+                        32.503516
+                  ]
+            },
+            {
+                  "name": "الرمز التاريخ لبني مزاب",
+                  "text": "Acesta este un monument situat în orașul Ghardaia.",
+                  "category": "historical",
+                  "coords": [
+                        3.70002,
+                        32.481093
+                  ]
+            },
+            {
+                  "name": "كاتدرائية غرداية",
+                  "text": "Catedrala din Ghardaïa este un lăcaș de cult istoric situat în orașul Ghardaïa.",
+                  "category": "religious",
+                  "coords": [
+                        3.670613,
+                        32.488273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Planétarium de Ghardaia",
+                  "text": "Planétarium de Ghardaia is a museum and planetarium located in the city of Ghardaia.",
+                  "category": "museum",
+                  "coords": [
+                        3.684134,
+                        32.503516
+                  ]
+            },
+            {
+                  "name": "الرمز التاريخ لبني مزاب",
+                  "text": "This is a monument located in the city of Ghardaia.",
+                  "category": "historical",
+                  "coords": [
+                        3.70002,
+                        32.481093
+                  ]
+            },
+            {
+                  "name": "Cathedral of Ghardaïa",
+                  "text": "The Cathedral of Ghardaïa is a historical place of worship located in the city of Ghardaïa.",
+                  "category": "religious",
+                  "coords": [
+                        3.670613,
+                        32.488273
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-47",
     coords: [3.6736, 32.4909],
@@ -943,7 +7414,232 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Saïda est située à environ 850 mètres d'altitude.", "Elle abrite l'une des usines d'eau minérale les plus célèbres d'Algérie.", "La ville a été fondée par les Français en 1844.", "Base importante d'Abd el-Kader pendant la résistance.", "L'université est spécialisée dans la technologie.", "Des vestiges paléolithiques ont été découverts dans la région.", "Réputée pour sa source thermale curative, Hammam Rabbi.", "Située à la charnière entre les hauts plateaux et l'Atlas saharien."],
     }, image: "/poi-images/saida-cities-v2.webp"},
   {
-    id: "laghouat-cities-v2",
+    id: "laghouat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Bouscaren",
+                  "text": "Fort Bouscaren ist eine historische Festungsanlage in der Stadt Laghouat.",
+                  "category": "castle",
+                  "coords": [
+                        2.880241,
+                        33.803437
+                  ]
+            },
+            {
+                  "name": "Musée Ex-Église",
+                  "text": "Das Musée Ex-Église ist ein Museum in Laghouat, das in einer ehemaligen Kirche untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        2.88302,
+                        33.806932
+                  ]
+            },
+            {
+                  "name": "مسرح جهوي",
+                  "text": "مسرح جهوي ist ein regionales Theater in Laghouat.",
+                  "category": "cultural",
+                  "coords": [
+                        2.860148,
+                        33.80579
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Abdellah Ben Keriou",
+                  "text": "Das Maison de la culture Abdellah Ben Keriou ist ein bedeutendes Kunst- und Kulturzentrum in Laghouat.",
+                  "category": "cultural",
+                  "coords": [
+                        2.861004,
+                        33.793277
+                  ]
+            },
+            {
+                  "name": "CIAJ",
+                  "text": "CIAJ ist ein Kunst- und Gemeindezentrum für kulturelle Aktivitäten in Laghouat.",
+                  "category": "cultural",
+                  "coords": [
+                        2.871107,
+                        33.812011
+                  ]
+            },
+            {
+                  "name": "Conservatoire de Laghouat",
+                  "text": "Das Conservatoire de Laghouat ist ein Kunstzentrum für musikalische und kulturelle Bildung in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        2.852366,
+                        33.796241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Bouscaren",
+                  "text": "A Fort Bouscaren egy történelmi erődítmény Laghouat városában.",
+                  "category": "castle",
+                  "coords": [
+                        2.880241,
+                        33.803437
+                  ]
+            },
+            {
+                  "name": "Musée Ex-Église",
+                  "text": "A Musée Ex-Église egy egykori templomépületben helyet kapó múzeum Laghouatban.",
+                  "category": "museum",
+                  "coords": [
+                        2.88302,
+                        33.806932
+                  ]
+            },
+            {
+                  "name": "مسرح جهوي",
+                  "text": "A مسرح جهوي egy regionális színház Laghouat városában.",
+                  "category": "cultural",
+                  "coords": [
+                        2.860148,
+                        33.80579
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Abdellah Ben Keriou",
+                  "text": "A Maison de la culture Abdellah Ben Keriou egy kiemelkedő kulturális és művészeti központ Laghouatban.",
+                  "category": "cultural",
+                  "coords": [
+                        2.861004,
+                        33.793277
+                  ]
+            },
+            {
+                  "name": "CIAJ",
+                  "text": "A CIAJ egy kulturális tevékenységeket biztosító művészeti és közösségi központ Laghouatban.",
+                  "category": "cultural",
+                  "coords": [
+                        2.871107,
+                        33.812011
+                  ]
+            },
+            {
+                  "name": "Conservatoire de Laghouat",
+                  "text": "A Conservatoire de Laghouat egy zenei és kulturális oktatásnak szentelt művészeti központ a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        2.852366,
+                        33.796241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Bouscaren",
+                  "text": "Fort Bouscaren este o fortăreață istorică poziționată în orașul Laghouat.",
+                  "category": "castle",
+                  "coords": [
+                        2.880241,
+                        33.803437
+                  ]
+            },
+            {
+                  "name": "Musée Ex-Église",
+                  "text": "Musée Ex-Église este un muzeu din Laghouat găzduit într-o fostă biserică.",
+                  "category": "museum",
+                  "coords": [
+                        2.88302,
+                        33.806932
+                  ]
+            },
+            {
+                  "name": "مسرح جهوي",
+                  "text": "مسرح جهوي este un teatru regional situat în Laghouat.",
+                  "category": "cultural",
+                  "coords": [
+                        2.860148,
+                        33.80579
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Abdellah Ben Keriou",
+                  "text": "Maison de la culture Abdellah Ben Keriou este un centru cultural de artă proeminent din Laghouat.",
+                  "category": "cultural",
+                  "coords": [
+                        2.861004,
+                        33.793277
+                  ]
+            },
+            {
+                  "name": "CIAJ",
+                  "text": "CIAJ este un centru comunitar și de artă care oferă activități culturale în Laghouat.",
+                  "category": "cultural",
+                  "coords": [
+                        2.871107,
+                        33.812011
+                  ]
+            },
+            {
+                  "name": "Conservatoire de Laghouat",
+                  "text": "Conservatoire de Laghouat este un centru de arte dedicat educației muzicale și culturale în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        2.852366,
+                        33.796241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Bouscaren",
+                  "text": "Fort Bouscaren is a historical fortress positioned in the city of Laghouat.",
+                  "category": "castle",
+                  "coords": [
+                        2.880241,
+                        33.803437
+                  ]
+            },
+            {
+                  "name": "Musée Ex-Église",
+                  "text": "Musée Ex-Église is a museum in Laghouat housed in a former church building.",
+                  "category": "museum",
+                  "coords": [
+                        2.88302,
+                        33.806932
+                  ]
+            },
+            {
+                  "name": "مسرح جهوي",
+                  "text": "مسرح جهوي is a regional theatre venue located in Laghouat.",
+                  "category": "cultural",
+                  "coords": [
+                        2.860148,
+                        33.80579
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Abdellah Ben Keriou",
+                  "text": "Maison de la culture Abdellah Ben Keriou is a prominent cultural arts center in Laghouat.",
+                  "category": "cultural",
+                  "coords": [
+                        2.861004,
+                        33.793277
+                  ]
+            },
+            {
+                  "name": "CIAJ",
+                  "text": "CIAJ is an arts and community center providing cultural activities in Laghouat.",
+                  "category": "cultural",
+                  "coords": [
+                        2.871107,
+                        33.812011
+                  ]
+            },
+            {
+                  "name": "Conservatoire de Laghouat",
+                  "text": "Conservatoire de Laghouat is an arts center dedicated to musical and cultural education in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        2.852366,
+                        33.796241
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-03",
     coords: [2.8651, 33.8],
@@ -978,7 +7674,160 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Le nom signifie 'les jardins' ou 'les oasis' en arabe.", "Siège d'importantes installations gazières de Sonatrach.", "Située à environ 750 mètres d'altitude.", "Prise par les Français en 1852 après un siège sanglant.", "Célèbre pour son tissage traditionnel et ses travaux du cuir.", "Le gigantesque gisement de gaz Hassi R'mel se trouve à proximité.", "Dispose d'un campus universitaire moderne.", "Situation stratégique entre l'Atlas tellien et le Sahara."],
     }, image: "/poi-images/laghouat-cities-v2.webp"},
   {
-    id: "msila-cities-v2",
+    id: "msila-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف",
+                  "text": "Dies ist ein Museum in der Stadt M'Sila.",
+                  "category": "museum",
+                  "coords": [
+                        4.546025,
+                        35.716895
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "Das Elmodjahid museum ist ein Museum in der Stadt M'Sila.",
+                  "category": "museum",
+                  "coords": [
+                        4.53802,
+                        35.715304
+                  ]
+            },
+            {
+                  "name": "تمثال محمد بوضياف",
+                  "text": "Dies ist ein Denkmal in der Stadt M'Sila.",
+                  "category": "historical",
+                  "coords": [
+                        4.537929,
+                        35.694693
+                  ]
+            },
+            {
+                  "name": "قصر الثقافة",
+                  "text": "Dies ist ein Kunstzentrum in der Stadt M'Sila.",
+                  "category": "cultural",
+                  "coords": [
+                        4.536221,
+                        35.706841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف",
+                  "text": "Ez egy múzeum M'Sila városában.",
+                  "category": "museum",
+                  "coords": [
+                        4.546025,
+                        35.716895
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "Az Elmodjahid museum egy múzeum M'Sila városában.",
+                  "category": "museum",
+                  "coords": [
+                        4.53802,
+                        35.715304
+                  ]
+            },
+            {
+                  "name": "تمثال محمد بوضياف",
+                  "text": "Ez egy emlékmű M'Sila városában.",
+                  "category": "historical",
+                  "coords": [
+                        4.537929,
+                        35.694693
+                  ]
+            },
+            {
+                  "name": "قصر الثقافة",
+                  "text": "Ez egy művészeti központ M'Sila városában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.536221,
+                        35.706841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف",
+                  "text": "Acesta este un muzeu situat în orașul M'Sila.",
+                  "category": "museum",
+                  "coords": [
+                        4.546025,
+                        35.716895
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "Elmodjahid museum este un muzeu situat în orașul M'Sila.",
+                  "category": "museum",
+                  "coords": [
+                        4.53802,
+                        35.715304
+                  ]
+            },
+            {
+                  "name": "تمثال محمد بوضياف",
+                  "text": "Acesta este un monument situat în orașul M'Sila.",
+                  "category": "historical",
+                  "coords": [
+                        4.537929,
+                        35.694693
+                  ]
+            },
+            {
+                  "name": "قصر الثقافة",
+                  "text": "Acesta este un centru de arte situat în orașul M'Sila.",
+                  "category": "cultural",
+                  "coords": [
+                        4.536221,
+                        35.706841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "متحف",
+                  "text": "This is a museum located in the city of M'Sila.",
+                  "category": "museum",
+                  "coords": [
+                        4.546025,
+                        35.716895
+                  ]
+            },
+            {
+                  "name": "Elmodjahid museum",
+                  "text": "Elmodjahid museum is a museum located in the city of M'Sila.",
+                  "category": "museum",
+                  "coords": [
+                        4.53802,
+                        35.715304
+                  ]
+            },
+            {
+                  "name": "تمثال محمد بوضياف",
+                  "text": "This is a monument located in the city of M'Sila.",
+                  "category": "historical",
+                  "coords": [
+                        4.537929,
+                        35.694693
+                  ]
+            },
+            {
+                  "name": "قصر الثقافة",
+                  "text": "This is an arts centre located in the city of M'Sila.",
+                  "category": "cultural",
+                  "coords": [
+                        4.536221,
+                        35.706841
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-28",
     coords: [4.5419, 35.7058],
@@ -1013,7 +7862,628 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["A été fondée en 941 par les Fatimides.", "Abrite l'une des plus grandes centrales solaires d'Algérie.", "La Kalâa des Béni Hammad a été érigée au XIe siècle.", "M'Sila est réputée pour l'élevage ovin et la laine.", "La ville est située à environ 440 mètres d'altitude.", "Le Chott el Hodna est un immense lac salé temporaire.", "Célèbre pour l'artisanat traditionnel de Boussaada.", "Ville universitaire importante de la région."],
     }, image: "/poi-images/msila-cities-v2.webp"},
   {
-    id: "jijel-cities-v2",
+    id: "jijel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "المسرح الجهوي - ولاية جيجل",
+                  "text": "Das Regionaltheater von Jijel ist ein Zentrum für darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        5.787527,
+                        36.802581
+                  ]
+            },
+            {
+                  "name": "venec",
+                  "text": "Venec ist ein Museum in der Küstenstadt Jijel.",
+                  "category": "museum",
+                  "coords": [
+                        5.751907,
+                        36.810856
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد لولاية جيجل",
+                  "text": "Das Moudjahid-Museum in Jijel erinnert an die Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        5.791606,
+                        36.802793
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "Plage Kotama ist ein beliebter Strand in Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.776145,
+                        36.814046
+                  ]
+            },
+            {
+                  "name": "شاطئ ازاوي",
+                  "text": "Plage Azzaoui ist ein schöner Strandabschnitt in Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.734637,
+                        36.822389
+                  ]
+            },
+            {
+                  "name": "Plage Rabta",
+                  "text": "Plage Rabta ist ein bekannter Strand in Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.754223,
+                        36.824415
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Das Freilichttheater in Jijel bietet kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780177,
+                        36.806003
+                  ]
+            },
+            {
+                  "name": "Mini-parc d’attraction Oumnia",
+                  "text": "Der Oumnia Minipark ist ein Vergnügungspark in Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.765931,
+                        36.811521
+                  ]
+            },
+            {
+                  "name": "Fort Duquesne",
+                  "text": "Fort Duquesne ist eine historische Befestigungsanlage in Jijel.",
+                  "category": "castle",
+                  "coords": [
+                        5.772775,
+                        36.819217
+                  ]
+            },
+            {
+                  "name": "متحف كتامة",
+                  "text": "Das Kotama Museum zeigt Exponate zur Region in Jijel.",
+                  "category": "museum",
+                  "coords": [
+                        5.764419,
+                        36.821194
+                  ]
+            },
+            {
+                  "name": "Monument Galère de Barberousse",
+                  "text": "Das Barberousse-Denkmal erinnert an die Geschichte in Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.771536,
+                        36.816732
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts",
+                  "text": "Das Denkmal für die Gefallenen ist ein Ehrenmal in Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.765437,
+                        36.823116
+                  ]
+            },
+            {
+                  "name": "Ruines du Sor",
+                  "text": "Die Ruinen des Sor sind eine archäologische Stätte in Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.7599,
+                        36.824592
+                  ]
+            },
+            {
+                  "name": "ام السلاسل",
+                  "text": "3ème ist ein bekannter Aussichtspunkt in Jijel.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Omar Oussedik",
+                  "text": "Das Maison de la culture Omar Oussedik ist ein Zentrum in Jijel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.779188,
+                        36.805274
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Bounab Rachid",
+                  "text": "Das Jugendhaus Bounab Rachid ist ein Treffpunkt in Jijel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.769649,
+                        36.813665
+                  ]
+            },
+            {
+                  "name": "Centre culturel islamique",
+                  "text": "Das Islamische Kulturzentrum in Jijel ist eine Bildungseinrichtung.",
+                  "category": "cultural",
+                  "coords": [
+                        5.766848,
+                        36.822099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "المسرح الجهوي - ولاية جيجل",
+                  "text": "A Jijel-i regionális színház az előadóművészet központja.",
+                  "category": "cultural",
+                  "coords": [
+                        5.787527,
+                        36.802581
+                  ]
+            },
+            {
+                  "name": "venec",
+                  "text": "A Venec egy múzeum Jijel tengerparti városában.",
+                  "category": "museum",
+                  "coords": [
+                        5.751907,
+                        36.810856
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد لولاية جيجل",
+                  "text": "A Jijel-i Moudjahid múzeum a történelemre emlékezik.",
+                  "category": "museum",
+                  "coords": [
+                        5.791606,
+                        36.802793
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "A Plage Kotama egy népszerű strand Jijel városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.776145,
+                        36.814046
+                  ]
+            },
+            {
+                  "name": "شاطئ ازاوي",
+                  "text": "A Plage Azzaoui egy szép strand Jijel városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.734637,
+                        36.822389
+                  ]
+            },
+            {
+                  "name": "Plage Rabta",
+                  "text": "A Plage Rabta egy ismert strand Jijel városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.754223,
+                        36.824415
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "A szabadtéri színház Jijel városában kulturális előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780177,
+                        36.806003
+                  ]
+            },
+            {
+                  "name": "Mini-parc d’attraction Oumnia",
+                  "text": "Az Oumnia Minipark egy szórakoztatópark Jijel városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.765931,
+                        36.811521
+                  ]
+            },
+            {
+                  "name": "Fort Duquesne",
+                  "text": "Fort Duquesne egy történelmi erődítmény Jijel városában.",
+                  "category": "castle",
+                  "coords": [
+                        5.772775,
+                        36.819217
+                  ]
+            },
+            {
+                  "name": "متحف كتامة",
+                  "text": "A Kotama Múzeum a Jijel régió kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.764419,
+                        36.821194
+                  ]
+            },
+            {
+                  "name": "Monument Galère de Barberousse",
+                  "text": "A Barberousse emlékmű a Jijel-i történelemre utal.",
+                  "category": "historical",
+                  "coords": [
+                        5.771536,
+                        36.816732
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts",
+                  "text": "A hősi emlékmű Jijel városában található.",
+                  "category": "historical",
+                  "coords": [
+                        5.765437,
+                        36.823116
+                  ]
+            },
+            {
+                  "name": "Ruines du Sor",
+                  "text": "A Sor romjai egy régészeti terület Jijel városában.",
+                  "category": "historical",
+                  "coords": [
+                        5.7599,
+                        36.824592
+                  ]
+            },
+            {
+                  "name": "ام السلاسل",
+                  "text": "A 3ème egy ismert kilátópont Jijel városában.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Omar Oussedik",
+                  "text": "A Maison de la culture Omar Oussedik egy központ Jijel városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.779188,
+                        36.805274
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Bounab Rachid",
+                  "text": "A Bounab Rachid ifjúsági ház egy találkozóhely Jijel városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.769649,
+                        36.813665
+                  ]
+            },
+            {
+                  "name": "Centre culturel islamique",
+                  "text": "Az iszlám kulturális központ Jijel városában egy oktatási intézmény.",
+                  "category": "cultural",
+                  "coords": [
+                        5.766848,
+                        36.822099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "المسرح الجهوي - ولاية جيجل",
+                  "text": "Teatrul Regional din Jijel este un centru pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        5.787527,
+                        36.802581
+                  ]
+            },
+            {
+                  "name": "venec",
+                  "text": "Venec este un muzeu în orașul de coastă Jijel.",
+                  "category": "museum",
+                  "coords": [
+                        5.751907,
+                        36.810856
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد لولاية جيجل",
+                  "text": "Muzeul Moudjahid din Jijel comemorează istoria.",
+                  "category": "museum",
+                  "coords": [
+                        5.791606,
+                        36.802793
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "Plage Kotama este o plajă populară din Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.776145,
+                        36.814046
+                  ]
+            },
+            {
+                  "name": "شاطئ ازاوي",
+                  "text": "Plage Azzaoui este o porțiune frumoasă de plajă în Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.734637,
+                        36.822389
+                  ]
+            },
+            {
+                  "name": "Plage Rabta",
+                  "text": "Plage Rabta este o plajă cunoscută în Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.754223,
+                        36.824415
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "Teatrul în aer liber din Jijel oferă spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780177,
+                        36.806003
+                  ]
+            },
+            {
+                  "name": "Mini-parc d’attraction Oumnia",
+                  "text": "Miniparcul Oumnia este un parc de distracții din Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.765931,
+                        36.811521
+                  ]
+            },
+            {
+                  "name": "Fort Duquesne",
+                  "text": "Fort Duquesne este o fortificație istorică din Jijel.",
+                  "category": "castle",
+                  "coords": [
+                        5.772775,
+                        36.819217
+                  ]
+            },
+            {
+                  "name": "متحف كتامة",
+                  "text": "Muzeul Kotama prezintă exponate despre regiunea Jijel.",
+                  "category": "museum",
+                  "coords": [
+                        5.764419,
+                        36.821194
+                  ]
+            },
+            {
+                  "name": "Monument Galère de Barberousse",
+                  "text": "Monumentul Barberousse amintește de istoria din Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.771536,
+                        36.816732
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts",
+                  "text": "Monumentul eroilor este un memorial în Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.765437,
+                        36.823116
+                  ]
+            },
+            {
+                  "name": "Ruines du Sor",
+                  "text": "Ruinele Sor sunt un sit arheologic din Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.7599,
+                        36.824592
+                  ]
+            },
+            {
+                  "name": "ام السلاسل",
+                  "text": "3ème este un punct de observație cunoscut în Jijel.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Omar Oussedik",
+                  "text": "Maison de la culture Omar Oussedik este un centru din Jijel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.779188,
+                        36.805274
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Bounab Rachid",
+                  "text": "Casa de tineret Bounab Rachid este un loc de întâlnire în Jijel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.769649,
+                        36.813665
+                  ]
+            },
+            {
+                  "name": "Centre culturel islamique",
+                  "text": "Centrul Cultural Islamic din Jijel este o instituție educativă.",
+                  "category": "cultural",
+                  "coords": [
+                        5.766848,
+                        36.822099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "المسرح الجهوي - ولاية جيجل",
+                  "text": "The Regional Theater of Jijel is a center for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        5.787527,
+                        36.802581
+                  ]
+            },
+            {
+                  "name": "venec",
+                  "text": "Venec is a museum in the coastal city of Jijel.",
+                  "category": "museum",
+                  "coords": [
+                        5.751907,
+                        36.810856
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد لولاية جيجل",
+                  "text": "The Moudjahid Museum in Jijel commemorates history.",
+                  "category": "museum",
+                  "coords": [
+                        5.791606,
+                        36.802793
+                  ]
+            },
+            {
+                  "name": "Plage Kotama",
+                  "text": "Plage Kotama is a popular beach in Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.776145,
+                        36.814046
+                  ]
+            },
+            {
+                  "name": "شاطئ ازاوي",
+                  "text": "Plage Azzaoui is a beautiful beach section in Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.734637,
+                        36.822389
+                  ]
+            },
+            {
+                  "name": "Plage Rabta",
+                  "text": "Plage Rabta is a known beach in Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.754223,
+                        36.824415
+                  ]
+            },
+            {
+                  "name": "Théâtre de verdure",
+                  "text": "The open-air theater in Jijel offers cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.780177,
+                        36.806003
+                  ]
+            },
+            {
+                  "name": "Mini-parc d’attraction Oumnia",
+                  "text": "The Oumnia Minipark is an amusement park in Jijel.",
+                  "category": "recreational",
+                  "coords": [
+                        5.765931,
+                        36.811521
+                  ]
+            },
+            {
+                  "name": "Fort Duquesne",
+                  "text": "Fort Duquesne is a historic fortification in Jijel.",
+                  "category": "castle",
+                  "coords": [
+                        5.772775,
+                        36.819217
+                  ]
+            },
+            {
+                  "name": "Kotama Museum",
+                  "text": "The Kotama Museum displays exhibits about the region in Jijel.",
+                  "category": "museum",
+                  "coords": [
+                        5.764419,
+                        36.821194
+                  ]
+            },
+            {
+                  "name": "Monument Galère de Barberousse",
+                  "text": "The Barberousse monument recalls history in Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.771536,
+                        36.816732
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts",
+                  "text": "The war memorial is a site of remembrance in Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.765437,
+                        36.823116
+                  ]
+            },
+            {
+                  "name": "Ruines du Sor",
+                  "text": "The ruins of Sor are an archaeological site in Jijel.",
+                  "category": "historical",
+                  "coords": [
+                        5.7599,
+                        36.824592
+                  ]
+            },
+            {
+                  "name": "3ème",
+                  "text": "3ème is a known viewpoint in Jijel.",
+                  "category": "natural",
+                  "coords": [
+                        5.788863,
+                        36.808964
+                  ]
+            },
+            {
+                  "name": "Maison de la culture Omar Oussedik",
+                  "text": "The Maison de la culture Omar Oussedik is a center in Jijel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.779188,
+                        36.805274
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes Bounab Rachid",
+                  "text": "The Bounab Rachid Youth House is a meeting point in Jijel.",
+                  "category": "cultural",
+                  "coords": [
+                        5.769649,
+                        36.813665
+                  ]
+            },
+            {
+                  "name": "Centre culturel islamique",
+                  "text": "The Islamic Cultural Center in Jijel is an educational institution.",
+                  "category": "cultural",
+                  "coords": [
+                        5.766848,
+                        36.822099
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-18",
     coords: [5.7667, 36.8206],
@@ -1048,7 +8518,268 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Fondée par les Phéniciens sous le nom d'Igilgili.", "Djendjen est l'un des ports les plus profonds d'Algérie.", "Célèbre pour les grottes de stalactites 'Grottes Merveilleuses'.", "Presque entièrement détruite par un tremblement de terre en 1856.", "Zone importante de pêche à la sardine.", "La rare sitelle de Kabylie vit dans le parc national de Taza.", "La promenade côtière est l'une des plus longues du pays.", "A servi de base à Barberousse au XVIe siècle."],
     }, image: "/poi-images/jijel-cities-v2.webp"},
   {
-    id: "relizane-cities-v2",
+    id: "relizane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place de la Mina",
+                  "text": "Der Place de la Mina ist ein bekannter öffentlicher Platz und ein Denkmalbereich in Relizane.",
+                  "category": "historical",
+                  "coords": [
+                        0.557407,
+                        35.744581
+                  ]
+            },
+            {
+                  "name": "Marché aux viandes et douara",
+                  "text": "Marché aux viandes et douara ist ein lokaler Fleischmarkt, der auch als Sehenswürdigkeit in Relizane gilt.",
+                  "category": "natural",
+                  "coords": [
+                        0.557595,
+                        35.739273
+                  ]
+            },
+            {
+                  "name": "Suidi",
+                  "text": "Suidi ist eine lokale Touristenattraktion in der Stadt Relizane.",
+                  "category": "landmark",
+                  "coords": [
+                        0.575932,
+                        35.75405
+                  ]
+            },
+            {
+                  "name": "Espace vert",
+                  "text": "Espace vert ist eine Sehenswürdigkeit in der Stadt Relizane.",
+                  "category": "landmark",
+                  "coords": [
+                        0.565747,
+                        35.731875
+                  ]
+            },
+            {
+                  "name": "Zaki labassi",
+                  "text": "Zaki labassi ist eine Sehenswürdigkeit in der Stadt Relizane.",
+                  "category": "landmark",
+                  "coords": [
+                        0.555776,
+                        35.736948
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "دار الثقافة ist ein Kunstzentrum in der Stadt Relizane.",
+                  "category": "cultural",
+                  "coords": [
+                        0.560098,
+                        35.744506
+                  ]
+            },
+            {
+                  "name": "Palais de culture M'hamed Issiakhem",
+                  "text": "Der Palais de culture M'hamed Issiakhem ist ein Kunstzentrum in Relizane.",
+                  "category": "cultural",
+                  "coords": [
+                        0.546565,
+                        35.728521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place de la Mina",
+                  "text": "A Place de la Mina egy jelentős köztér és emlékmű Relizane városában.",
+                  "category": "historical",
+                  "coords": [
+                        0.557407,
+                        35.744581
+                  ]
+            },
+            {
+                  "name": "Marché aux viandes et douara",
+                  "text": "A Marché aux viandes et douara egy helyi húspiac és egyben egy érdekes látnivaló Relizane városában.",
+                  "category": "natural",
+                  "coords": [
+                        0.557595,
+                        35.739273
+                  ]
+            },
+            {
+                  "name": "Suidi",
+                  "text": "A Suidi egy helyi turisztikai látványosság Relizane városában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.575932,
+                        35.75405
+                  ]
+            },
+            {
+                  "name": "Espace vert",
+                  "text": "Az Espace vert egy látványosság Relizane városában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.565747,
+                        35.731875
+                  ]
+            },
+            {
+                  "name": "Zaki labassi",
+                  "text": "A Zaki labassi egy látványosság Relizane városában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.555776,
+                        35.736948
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "A دار الثقافة egy művészeti központ Relizane városában.",
+                  "category": "cultural",
+                  "coords": [
+                        0.560098,
+                        35.744506
+                  ]
+            },
+            {
+                  "name": "Palais de culture M'hamed Issiakhem",
+                  "text": "A Palais de culture M'hamed Issiakhem egy művészeti központ Relizane városában.",
+                  "category": "cultural",
+                  "coords": [
+                        0.546565,
+                        35.728521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place de la Mina",
+                  "text": "Place de la Mina este o piață publică și zonă monumentală proeminentă în Relizane.",
+                  "category": "historical",
+                  "coords": [
+                        0.557407,
+                        35.744581
+                  ]
+            },
+            {
+                  "name": "Marché aux viandes et douara",
+                  "text": "Marché aux viandes et douara este o piață locală de carne, ce servește și ca punct de atracție în Relizane.",
+                  "category": "natural",
+                  "coords": [
+                        0.557595,
+                        35.739273
+                  ]
+            },
+            {
+                  "name": "Suidi",
+                  "text": "Suidi este o atracție turistică locală situată în orașul Relizane.",
+                  "category": "landmark",
+                  "coords": [
+                        0.575932,
+                        35.75405
+                  ]
+            },
+            {
+                  "name": "Espace vert",
+                  "text": "Espace vert este o atracție în orașul Relizane.",
+                  "category": "landmark",
+                  "coords": [
+                        0.565747,
+                        35.731875
+                  ]
+            },
+            {
+                  "name": "Zaki labassi",
+                  "text": "Zaki labassi este o atracție în orașul Relizane.",
+                  "category": "landmark",
+                  "coords": [
+                        0.555776,
+                        35.736948
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "دار الثقافة este un centru de arte în orașul Relizane.",
+                  "category": "cultural",
+                  "coords": [
+                        0.560098,
+                        35.744506
+                  ]
+            },
+            {
+                  "name": "Palais de culture M'hamed Issiakhem",
+                  "text": "Palais de culture M'hamed Issiakhem este un centru de arte în orașul Relizane.",
+                  "category": "cultural",
+                  "coords": [
+                        0.546565,
+                        35.728521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place de la Mina",
+                  "text": "Place de la Mina is a prominent public square and monumental area in Relizane.",
+                  "category": "historical",
+                  "coords": [
+                        0.557407,
+                        35.744581
+                  ]
+            },
+            {
+                  "name": "Marché aux viandes et douara",
+                  "text": "Marché aux viandes et douara is a local meat market that also serves as a point of interest in Relizane.",
+                  "category": "natural",
+                  "coords": [
+                        0.557595,
+                        35.739273
+                  ]
+            },
+            {
+                  "name": "Suidi",
+                  "text": "Suidi is a local tourist attraction located in the city of Relizane.",
+                  "category": "landmark",
+                  "coords": [
+                        0.575932,
+                        35.75405
+                  ]
+            },
+            {
+                  "name": "Espace vert",
+                  "text": "Espace vert is an attraction in the city of Relizane.",
+                  "category": "landmark",
+                  "coords": [
+                        0.565747,
+                        35.731875
+                  ]
+            },
+            {
+                  "name": "Zaki labassi",
+                  "text": "Zaki labassi is an attraction in the city of Relizane.",
+                  "category": "landmark",
+                  "coords": [
+                        0.555776,
+                        35.736948
+                  ]
+            },
+            {
+                  "name": "دار الثقافة",
+                  "text": "دار الثقافة is an arts centre in the city of Relizane.",
+                  "category": "cultural",
+                  "coords": [
+                        0.560098,
+                        35.744506
+                  ]
+            },
+            {
+                  "name": "Palais de culture M'hamed Issiakhem",
+                  "text": "Palais de culture M'hamed Issiakhem is an arts centre in the city of Relizane.",
+                  "category": "cultural",
+                  "coords": [
+                        0.546565,
+                        35.728521
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-48",
     coords: [0.5558, 35.7372],
@@ -1153,7 +8884,160 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Fondée en 1848 autour d'une source importante.", "Célèbre pour son commerce de bijoux traditionnels.", "Située à environ 1 000 mètres d'altitude.", "Elle abrite l'un des plus anciens lycées du pays.", "Connue pour les traditions de la tribu berbère Harakta.", "Production importante de blé et d'orge.", "Le nom de la ville évoque la limpidité de l'eau de source.", "Point de passage stratégique entre Constantine et Tébessa."],
     }, image: "/poi-images/ain-beida-cities-v2.webp"},
   {
-    id: "khenchela-cities-v2",
+    id: "khenchela-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف المجاهدين",
+                  "text": "متحف المجاهدين ist ein Museum in der Stadt Khenchela.",
+                  "category": "museum",
+                  "coords": [
+                        7.124281,
+                        35.437417
+                  ]
+            },
+            {
+                  "name": "المتحف العمومي الوطني الإخوة الشهداء بولعزيز",
+                  "text": "المتحف العمومي الوطني الإخوة الشهداء بولعزيز ist ein Museum in der Stadt Khenchela.",
+                  "category": "museum",
+                  "coords": [
+                        7.136137,
+                        35.432347
+                  ]
+            },
+            {
+                  "name": "مسرح الهواء الطلق",
+                  "text": "Open air theatre ist ein Theater in der Stadt Khenchela.",
+                  "category": "cultural",
+                  "coords": [
+                        7.133421,
+                        35.432378
+                  ]
+            },
+            {
+                  "name": "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ",
+                  "text": "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ ist ein Kunstzentrum in der Stadt Khenchela.",
+                  "category": "cultural",
+                  "coords": [
+                        7.14917,
+                        35.42968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف المجاهدين",
+                  "text": "A متحف المجاهدين egy múzeum Khenchela városában.",
+                  "category": "museum",
+                  "coords": [
+                        7.124281,
+                        35.437417
+                  ]
+            },
+            {
+                  "name": "المتحف العمومي الوطني الإخوة الشهداء بولعزيز",
+                  "text": "A المتحف العمومي الوطني الإخوة الشهداء بولعزيز egy múzeum Khenchela városában.",
+                  "category": "museum",
+                  "coords": [
+                        7.136137,
+                        35.432347
+                  ]
+            },
+            {
+                  "name": "مسرح الهواء الطلق",
+                  "text": "Az Open air theatre egy színház Khenchela városában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.133421,
+                        35.432378
+                  ]
+            },
+            {
+                  "name": "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ",
+                  "text": "A دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ egy művészeti központ Khenchela városában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.14917,
+                        35.42968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف المجاهدين",
+                  "text": "متحف المجاهدين este un muzeu în orașul Khenchela.",
+                  "category": "museum",
+                  "coords": [
+                        7.124281,
+                        35.437417
+                  ]
+            },
+            {
+                  "name": "المتحف العمومي الوطني الإخوة الشهداء بولعزيز",
+                  "text": "المتحف العمومي الوطني الإخوة الشهداء بولعزيز este un muzeu în orașul Khenchela.",
+                  "category": "museum",
+                  "coords": [
+                        7.136137,
+                        35.432347
+                  ]
+            },
+            {
+                  "name": "مسرح الهواء الطلق",
+                  "text": "Open air theatre este un teatru în orașul Khenchela.",
+                  "category": "cultural",
+                  "coords": [
+                        7.133421,
+                        35.432378
+                  ]
+            },
+            {
+                  "name": "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ",
+                  "text": "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ este un centru de arte în orașul Khenchela.",
+                  "category": "cultural",
+                  "coords": [
+                        7.14917,
+                        35.42968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "متحف المجاهدين",
+                  "text": "متحف المجاهدين is a museum in the city of Khenchela.",
+                  "category": "museum",
+                  "coords": [
+                        7.124281,
+                        35.437417
+                  ]
+            },
+            {
+                  "name": "المتحف العمومي الوطني الإخوة الشهداء بولعزيز",
+                  "text": "المتحف العمومي الوطني الإخوة الشهداء بولعزيز is a museum in the city of Khenchela.",
+                  "category": "museum",
+                  "coords": [
+                        7.136137,
+                        35.432347
+                  ]
+            },
+            {
+                  "name": "Open air theatre",
+                  "text": "Open air theatre is a theatre in the city of Khenchela.",
+                  "category": "cultural",
+                  "coords": [
+                        7.133421,
+                        35.432378
+                  ]
+            },
+            {
+                  "name": "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ",
+                  "text": "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ is an arts centre in the city of Khenchela.",
+                  "category": "cultural",
+                  "coords": [
+                        7.14917,
+                        35.42968
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-40",
     coords: [7.1433, 35.4358],
@@ -1223,7 +9107,340 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Étienne Dinet s'y est converti à l'islam et y est enterré.", "Réputée pour ses couteaux Boussaadi forgés à la main.", "La ville a été fortifiée par les Français en 1849.", "Elle abrite le Musée national Nasreddine Dinet.", "Ce fut un lieu de tournage prisé pour le cinéma algérien.", "Célèbre pour les danses et la musique de la tribu des Ouled Naïl.", "L'oasis est alimentée par l'Oued Bou Saâda.", "Les dunes de sable sont un site touristique populaire."],
     }, image: "/poi-images/bousaada-cities-v2.webp"},
   {
-    id: "mascara-cities-v2",
+    id: "mascara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre de Mascara",
+                  "text": "Das Theater von Mascara ist ein Ort für Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        0.139972,
+                        35.395736
+                  ]
+            },
+            {
+                  "name": "مسجد الفجر",
+                  "text": "Die al-Fadjr-Moschee ist ein historischer Ort in Mascara.",
+                  "category": "museum",
+                  "coords": [
+                        0.132055,
+                        35.407238
+                  ]
+            },
+            {
+                  "name": "مسجد الغمامة",
+                  "text": "Die al-Ghamama-Moschee ist ein historisches Gebäude in Mascara.",
+                  "category": "museum",
+                  "coords": [
+                        0.136279,
+                        35.404684
+                  ]
+            },
+            {
+                  "name": "عبن بنت السلطان",
+                  "text": "Ain Bent Soltane ist eine historische Stätte in Mascara.",
+                  "category": "museum",
+                  "coords": [
+                        0.135145,
+                        35.402722
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Das Moudjahid-Museum in Mascara bewahrt das Erbe.",
+                  "category": "museum",
+                  "coords": [
+                        0.140202,
+                        35.403803
+                  ]
+            },
+            {
+                  "name": "Théâtre de Verdure",
+                  "text": "Das Freilichttheater ist ein Veranstaltungsort in Mascara.",
+                  "category": "cultural",
+                  "coords": [
+                        0.139712,
+                        35.397109
+                  ]
+            },
+            {
+                  "name": "النقطة الدائرية الشمعة",
+                  "text": "Das Denkmal Achamaa ist ein Wahrzeichen in Mascara.",
+                  "category": "historical",
+                  "coords": [
+                        0.142295,
+                        35.410707
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes Samach Said",
+                  "text": "Das Jugendhaus Samach Said ist ein Treffpunkt in Mascara.",
+                  "category": "cultural",
+                  "coords": [
+                        0.143381,
+                        35.397438
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي",
+                  "text": "Das Islamische Kulturzentrum in Mascara ist ein Bildungsort.",
+                  "category": "cultural",
+                  "coords": [
+                        0.145559,
+                        35.405328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre de Mascara",
+                  "text": "A Mascara-i színház előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        0.139972,
+                        35.395736
+                  ]
+            },
+            {
+                  "name": "مسجد الفجر",
+                  "text": "Az al-Fadjr mecset egy történelmi hely Mascara városában.",
+                  "category": "museum",
+                  "coords": [
+                        0.132055,
+                        35.407238
+                  ]
+            },
+            {
+                  "name": "مسجد الغمامة",
+                  "text": "Az al-Ghamama mecset egy történelmi épület Mascara városában.",
+                  "category": "museum",
+                  "coords": [
+                        0.136279,
+                        35.404684
+                  ]
+            },
+            {
+                  "name": "عبن بنت السلطان",
+                  "text": "Ain Bent Soltane egy történelmi hely Mascara városában.",
+                  "category": "museum",
+                  "coords": [
+                        0.135145,
+                        35.402722
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "A Mascara-i Moudjahid múzeum az örökséget őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        0.140202,
+                        35.403803
+                  ]
+            },
+            {
+                  "name": "Théâtre de Verdure",
+                  "text": "A szabadtéri színház Mascara városában egy rendezvényhelyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        0.139712,
+                        35.397109
+                  ]
+            },
+            {
+                  "name": "النقطة الدائرية الشمعة",
+                  "text": "Az Achamaa emlékmű egy jellegzetes építmény Mascara városában.",
+                  "category": "historical",
+                  "coords": [
+                        0.142295,
+                        35.410707
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes Samach Said",
+                  "text": "A Samach Said ifjúsági ház egy találkozóhely Mascara városában.",
+                  "category": "cultural",
+                  "coords": [
+                        0.143381,
+                        35.397438
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي",
+                  "text": "Az iszlám kulturális központ Mascara városában egy oktatási helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        0.145559,
+                        35.405328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre de Mascara",
+                  "text": "Teatrul din Mascara este un loc pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        0.139972,
+                        35.395736
+                  ]
+            },
+            {
+                  "name": "مسجد الفجر",
+                  "text": "Moscheea al-Fadjr este un loc istoric din Mascara.",
+                  "category": "museum",
+                  "coords": [
+                        0.132055,
+                        35.407238
+                  ]
+            },
+            {
+                  "name": "مسجد الغمامة",
+                  "text": "Moscheea al-Ghamama este o clădire istorică din Mascara.",
+                  "category": "museum",
+                  "coords": [
+                        0.136279,
+                        35.404684
+                  ]
+            },
+            {
+                  "name": "عبن بنت السلطان",
+                  "text": "Ain Bent Soltane este un sit istoric din Mascara.",
+                  "category": "museum",
+                  "coords": [
+                        0.135145,
+                        35.402722
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "Muzeul Moudjahid din Mascara păstrează patrimoniul.",
+                  "category": "museum",
+                  "coords": [
+                        0.140202,
+                        35.403803
+                  ]
+            },
+            {
+                  "name": "Théâtre de Verdure",
+                  "text": "Teatrul în aer liber este o locație pentru evenimente în Mascara.",
+                  "category": "cultural",
+                  "coords": [
+                        0.139712,
+                        35.397109
+                  ]
+            },
+            {
+                  "name": "النقطة الدائرية الشمعة",
+                  "text": "Monumentul Achamaa este un punct de reper în Mascara.",
+                  "category": "historical",
+                  "coords": [
+                        0.142295,
+                        35.410707
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes Samach Said",
+                  "text": "Casa de tineret Samach Said este un loc de întâlnire în Mascara.",
+                  "category": "cultural",
+                  "coords": [
+                        0.143381,
+                        35.397438
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي",
+                  "text": "Centrul Cultural Islamic din Mascara este un loc educativ.",
+                  "category": "cultural",
+                  "coords": [
+                        0.145559,
+                        35.405328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théâtre de Mascara",
+                  "text": "The theater of Mascara is a venue for performances.",
+                  "category": "cultural",
+                  "coords": [
+                        0.139972,
+                        35.395736
+                  ]
+            },
+            {
+                  "name": "مسجد الفجر",
+                  "text": "The al-Fadjr Mosque is a historic site in Mascara.",
+                  "category": "museum",
+                  "coords": [
+                        0.132055,
+                        35.407238
+                  ]
+            },
+            {
+                  "name": "مسجد الغمامة",
+                  "text": "The al-Ghamama Mosque is a historic building in Mascara.",
+                  "category": "museum",
+                  "coords": [
+                        0.136279,
+                        35.404684
+                  ]
+            },
+            {
+                  "name": "عبن بنت السلطان",
+                  "text": "Ain Bent Soltane is a historic site in Mascara.",
+                  "category": "museum",
+                  "coords": [
+                        0.135145,
+                        35.402722
+                  ]
+            },
+            {
+                  "name": "Musée du Moudjahid",
+                  "text": "The Moudjahid Museum in Mascara preserves the heritage.",
+                  "category": "museum",
+                  "coords": [
+                        0.140202,
+                        35.403803
+                  ]
+            },
+            {
+                  "name": "Théâtre de Verdure",
+                  "text": "The open-air theater is a venue for events in Mascara.",
+                  "category": "cultural",
+                  "coords": [
+                        0.139712,
+                        35.397109
+                  ]
+            },
+            {
+                  "name": "النقطة الدائرية الشمعة",
+                  "text": "The Achamaa monument is a landmark in Mascara.",
+                  "category": "historical",
+                  "coords": [
+                        0.142295,
+                        35.410707
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes Samach Said",
+                  "text": "The Samach Said Youth House is a meeting point in Mascara.",
+                  "category": "cultural",
+                  "coords": [
+                        0.143381,
+                        35.397438
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي الإسلامي",
+                  "text": "The Islamic Cultural Center in Mascara is a place of education.",
+                  "category": "cultural",
+                  "coords": [
+                        0.145559,
+                        35.405328
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-29",
     coords: [0.1403, 35.3969],
@@ -1293,7 +9510,52 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Fondée en 1852 par des membres de la tribu des Tadjakant.", "Les camps de réfugiés sahraouis se trouvent à proximité.", "Le gisement de minerai de fer de Gara Djebilet est estimé à des milliards de tonnes.", "Les températures estivales dépassent régulièrement les 45 °C.", "L'aéroport est la seule liaison fiable avec le nord.", "Connue pour la fête traditionnelle du désert « Moussem ».", "Approvisionnement en eau par des puits artésiens profonds.", "Site militaire stratégique aux confins de trois frontières."],
     }, image: "/poi-images/tindouf-cities-v2.webp"},
   {
-    id: "adrar-cities-v2",
+    id: "adrar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Station Thermale",
+                  "text": "Station Thermale ist eine bemerkenswerte Attraktion für Freizeitaktivitäten in Adrar.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.300699,
+                        27.876611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Station Thermale",
+                  "text": "A Station Thermale egy figyelemre méltó látványosság Adrar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.300699,
+                        27.876611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Station Thermale",
+                  "text": "Station Thermale este o atracție notabilă din Adrar, oferind experiențe de agrement.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.300699,
+                        27.876611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Station Thermale",
+                  "text": "Station Thermale is a notable attraction offering leisure experiences in Adrar.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.300699,
+                        27.876611
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-01",
     coords: [-0.2939, 27.8742],
@@ -1328,7 +9590,160 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Adrar est surnommée la \"Ville Rouge\" en raison de ses bâtiments.", "Le système des foggaras achemine l'eau sous terre sur des kilomètres.", "Elle abrite l'une des plus grandes centrales solaires expérimentales du pays.", "La province compte plus de 100 oasis habitées.", "Célèbre pour la danse traditionnelle de la poudre \"Baroud\".", "La ville est située à environ 260 mètres d'altitude.", "La région du Touat était une étape des anciennes caravanes de sel et d'or.", "Réputée pour ses dattes et son artisanat traditionnel."],
     }, image: "/poi-images/adrar-cities-v2.webp"},
   {
-    id: "tamanrasset-cities-v2",
+    id: "tamanrasset-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "الحصن الفرنسي التاريخي",
+                  "text": "Dieses historische französische Fort ist ein Museum in Tamanrasset.",
+                  "category": "museum",
+                  "coords": [
+                        5.526683,
+                        22.787977
+                  ]
+            },
+            {
+                  "name": "مركز الترفيه العائلي",
+                  "text": "Das Familien-Freizeitzentrum ist ein Park in Tamanrasset.",
+                  "category": "recreational",
+                  "coords": [
+                        5.536692,
+                        22.792211
+                  ]
+            },
+            {
+                  "name": "Dar Al-Imzad",
+                  "text": "Dar Al-Imzad ist ein Museum für Musik in Tamanrasset.",
+                  "category": "museum",
+                  "coords": [
+                        5.542964,
+                        22.805071
+                  ]
+            },
+            {
+                  "name": "مقهى إنترنت",
+                  "text": "Das Internetcafé ist ein Anlaufpunkt in Tamanrasset.",
+                  "category": "landmark",
+                  "coords": [
+                        5.51901,
+                        22.797951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الحصن الفرنسي التاريخي",
+                  "text": "Ez a történelmi francia erőd egy múzeum Tamanrasset városában.",
+                  "category": "museum",
+                  "coords": [
+                        5.526683,
+                        22.787977
+                  ]
+            },
+            {
+                  "name": "مركز الترفيه العائلي",
+                  "text": "A családi szabadidőközpont egy park Tamanrasset városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.536692,
+                        22.792211
+                  ]
+            },
+            {
+                  "name": "دار الإمزاد",
+                  "text": "A Dar Al-Imzad egy zenemúzeum Tamanrasset városában.",
+                  "category": "museum",
+                  "coords": [
+                        5.542964,
+                        22.805071
+                  ]
+            },
+            {
+                  "name": "مقهى إنترنت",
+                  "text": "Az internetkávézó egy találkozóhely Tamanrasset városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.51901,
+                        22.797951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الحصن الفرنسي التاريخي",
+                  "text": "Acest fort istoric francez este un muzeu din Tamanrasset.",
+                  "category": "museum",
+                  "coords": [
+                        5.526683,
+                        22.787977
+                  ]
+            },
+            {
+                  "name": "مركز الترفيه العائلي",
+                  "text": "Centrul de recreere pentru familii este un parc din Tamanrasset.",
+                  "category": "recreational",
+                  "coords": [
+                        5.536692,
+                        22.792211
+                  ]
+            },
+            {
+                  "name": "دار الإمزاد",
+                  "text": "Dar Al-Imzad este un muzeu de muzică din Tamanrasset.",
+                  "category": "museum",
+                  "coords": [
+                        5.542964,
+                        22.805071
+                  ]
+            },
+            {
+                  "name": "مقهى إنترنت",
+                  "text": "Internet-café-ul este un punct de atracție în Tamanrasset.",
+                  "category": "landmark",
+                  "coords": [
+                        5.51901,
+                        22.797951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "historic french Fort",
+                  "text": "This historic French fort is a museum in Tamanrasset.",
+                  "category": "museum",
+                  "coords": [
+                        5.526683,
+                        22.787977
+                  ]
+            },
+            {
+                  "name": "مركز الترفيه العائلي",
+                  "text": "The family recreation center is a park in Tamanrasset.",
+                  "category": "recreational",
+                  "coords": [
+                        5.536692,
+                        22.792211
+                  ]
+            },
+            {
+                  "name": "Dar Al-Imzad",
+                  "text": "Dar Al-Imzad is a music museum in Tamanrasset.",
+                  "category": "museum",
+                  "coords": [
+                        5.542964,
+                        22.805071
+                  ]
+            },
+            {
+                  "name": "cyber cafe",
+                  "text": "The internet cafe is a spot in Tamanrasset.",
+                  "category": "landmark",
+                  "coords": [
+                        5.51901,
+                        22.797951
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-11",
     coords: [5.5228, 22.785],
@@ -1363,7 +9778,268 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["La ville s'est développée près de l'ermitage de Charles de Foucauld.", "Le Tahat (2 908 m) dans le Hoggar est le point culminant de l'Algérie.", "Célèbre pour les chants des femmes touarègues « Tindi ».", "Un festival international du désert a lieu chaque année.", "Marché important pour les bijoux touaregs.", "Les températures nocturnes descendent souvent sous le point de congélation en hiver.", "Point de transit important vers le Niger et le Mali.", "Située à plus de 1 300 mètres d'altitude."],
     }, image: "/poi-images/tamanrasset-cities-v2.webp"},
   {
-    id: "bouira-cities-v2",
+    id: "bouira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre régional Amar-Laskri",
+                  "text": "Das Théâtre régional Amar-Laskri ist ein Theater in der Stadt Bouira.",
+                  "category": "cultural",
+                  "coords": [
+                        3.901017,
+                        36.375832
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
+                  "text": "Das Théâtre en plein air moudjahid Mechedou Salah ist ein Theater in der Stadt Bouira.",
+                  "category": "cultural",
+                  "coords": [
+                        3.897961,
+                        36.376016
+                  ]
+            },
+            {
+                  "name": "Musee el moujahid",
+                  "text": "Das Musee el moujahid ist ein Museum in der Stadt Bouira.",
+                  "category": "museum",
+                  "coords": [
+                        3.882916,
+                        36.379209
+                  ]
+            },
+            {
+                  "name": "Theatre municipal",
+                  "text": "Theatre municipal ist ein Theater in der Stadt Bouira.",
+                  "category": "cultural",
+                  "coords": [
+                        3.900687,
+                        36.380714
+                  ]
+            },
+            {
+                  "name": "AB aqua park",
+                  "text": "AB aqua park ist ein Wasserpark in der Stadt Bouira.",
+                  "category": "recreational",
+                  "coords": [
+                        3.876691,
+                        36.383772
+                  ]
+            },
+            {
+                  "name": "Memorial Des Martyrs",
+                  "text": "Memorial Des Martyrs ist ein Denkmal in der Stadt Bouira.",
+                  "category": "historical",
+                  "coords": [
+                        3.891945,
+                        36.373471
+                  ]
+            },
+            {
+                  "name": "Bordj Hamza",
+                  "text": "Bordj Hamza sind Ruinen in der Stadt Bouira.",
+                  "category": "historical",
+                  "coords": [
+                        3.892957,
+                        36.369461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre régional Amar-Laskri",
+                  "text": "A Théâtre régional Amar-Laskri egy színház Bouira városában.",
+                  "category": "cultural",
+                  "coords": [
+                        3.901017,
+                        36.375832
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
+                  "text": "A Théâtre en plein air moudjahid Mechedou Salah egy színház Bouira városában.",
+                  "category": "cultural",
+                  "coords": [
+                        3.897961,
+                        36.376016
+                  ]
+            },
+            {
+                  "name": "Musee el moujahid",
+                  "text": "A Musee el moujahid egy múzeum Bouira városában.",
+                  "category": "museum",
+                  "coords": [
+                        3.882916,
+                        36.379209
+                  ]
+            },
+            {
+                  "name": "Theatre municipal",
+                  "text": "A Theatre municipal egy színház Bouira városában.",
+                  "category": "cultural",
+                  "coords": [
+                        3.900687,
+                        36.380714
+                  ]
+            },
+            {
+                  "name": "AB aqua park",
+                  "text": "Az AB aqua park egy vízipark Bouira városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.876691,
+                        36.383772
+                  ]
+            },
+            {
+                  "name": "Memorial Des Martyrs",
+                  "text": "A Memorial Des Martyrs egy emlékmű Bouira városában.",
+                  "category": "historical",
+                  "coords": [
+                        3.891945,
+                        36.373471
+                  ]
+            },
+            {
+                  "name": "Bordj Hamza",
+                  "text": "A Bordj Hamza romok Bouira városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        3.892957,
+                        36.369461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre régional Amar-Laskri",
+                  "text": "Théâtre régional Amar-Laskri este un teatru în orașul Bouira.",
+                  "category": "cultural",
+                  "coords": [
+                        3.901017,
+                        36.375832
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
+                  "text": "Théâtre en plein air moudjahid Mechedou Salah este un teatru în orașul Bouira.",
+                  "category": "cultural",
+                  "coords": [
+                        3.897961,
+                        36.376016
+                  ]
+            },
+            {
+                  "name": "Musee el moujahid",
+                  "text": "Musee el moujahid este un muzeu în orașul Bouira.",
+                  "category": "museum",
+                  "coords": [
+                        3.882916,
+                        36.379209
+                  ]
+            },
+            {
+                  "name": "Theatre municipal",
+                  "text": "Theatre municipal este un teatru în orașul Bouira.",
+                  "category": "cultural",
+                  "coords": [
+                        3.900687,
+                        36.380714
+                  ]
+            },
+            {
+                  "name": "AB aqua park",
+                  "text": "AB aqua park este un parc acvatic în orașul Bouira.",
+                  "category": "recreational",
+                  "coords": [
+                        3.876691,
+                        36.383772
+                  ]
+            },
+            {
+                  "name": "Memorial Des Martyrs",
+                  "text": "Memorial Des Martyrs este un monument în orașul Bouira.",
+                  "category": "historical",
+                  "coords": [
+                        3.891945,
+                        36.373471
+                  ]
+            },
+            {
+                  "name": "Bordj Hamza",
+                  "text": "Bordj Hamza sunt ruine în orașul Bouira.",
+                  "category": "historical",
+                  "coords": [
+                        3.892957,
+                        36.369461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théâtre régional Amar-Laskri",
+                  "text": "Théâtre régional Amar-Laskri is a theatre in the city of Bouira.",
+                  "category": "cultural",
+                  "coords": [
+                        3.901017,
+                        36.375832
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
+                  "text": "Théâtre en plein air moudjahid Mechedou Salah is a theatre in the city of Bouira.",
+                  "category": "cultural",
+                  "coords": [
+                        3.897961,
+                        36.376016
+                  ]
+            },
+            {
+                  "name": "Musee el moujahid",
+                  "text": "Musee el moujahid is a museum in the city of Bouira.",
+                  "category": "museum",
+                  "coords": [
+                        3.882916,
+                        36.379209
+                  ]
+            },
+            {
+                  "name": "Theatre municipal",
+                  "text": "Theatre municipal is a theatre in the city of Bouira.",
+                  "category": "cultural",
+                  "coords": [
+                        3.900687,
+                        36.380714
+                  ]
+            },
+            {
+                  "name": "AB aqua park",
+                  "text": "AB aqua park is a water park in the city of Bouira.",
+                  "category": "recreational",
+                  "coords": [
+                        3.876691,
+                        36.383772
+                  ]
+            },
+            {
+                  "name": "Memorial Des Martyrs",
+                  "text": "Memorial Des Martyrs is a monument in the city of Bouira.",
+                  "category": "historical",
+                  "coords": [
+                        3.891945,
+                        36.373471
+                  ]
+            },
+            {
+                  "name": "Bordj Hamza",
+                  "text": "Bordj Hamza are ruins located in the city of Bouira.",
+                  "category": "historical",
+                  "coords": [
+                        3.892957,
+                        36.369461
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-10",
     coords: [3.9, 36.3833],
@@ -1433,7 +10109,88 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["À l'époque française, la ville s'appelait Vialar.", "Théniet El Had a été fondé en 1923, devenant le premier parc national d'Algérie.", "Tissemsilt est une zone importante d'élevage de moutons et de chèvres.", "La région compte de nombreuses sources thermales.", "La ville est située à environ 900 mètres d'altitude.", "Réputée pour ses tissages de laine traditionnels."],
     }, image: "/poi-images/tissemsilt-cities-v2.webp"},
   {
-    id: "naama-cities-v2",
+    id: "naama-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف المجاهد",
+                  "text": "Das Moudjahid-Museum in Naâma bewahrt die Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -0.315981,
+                        33.262077
+                  ]
+            },
+            {
+                  "name": "حديقة التسلية والترفيه عموري",
+                  "text": "Der Amouri-Vergnügungspark ist ein Park in Naâma.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.306945,
+                        33.271606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف المجاهد",
+                  "text": "A Naâma-i Moudjahid múzeum a történelmet őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -0.315981,
+                        33.262077
+                  ]
+            },
+            {
+                  "name": "حديقة التسلية والترفيه عموري",
+                  "text": "Az Amouri szórakoztatópark egy park Naâma városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.306945,
+                        33.271606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف المجاهد",
+                  "text": "Muzeul Moudjahid din Naâma păstrează istoria.",
+                  "category": "museum",
+                  "coords": [
+                        -0.315981,
+                        33.262077
+                  ]
+            },
+            {
+                  "name": "حديقة التسلية والترفيه عموري",
+                  "text": "Parcul de distracții Amouri este un parc din Naâma.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.306945,
+                        33.271606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Moudjahid",
+                  "text": "The Moudjahid Museum in Naâma preserves history.",
+                  "category": "museum",
+                  "coords": [
+                        -0.315981,
+                        33.262077
+                  ]
+            },
+            {
+                  "name": "حديقة التسلية والترفيه عموري",
+                  "text": "The Amouri amusement park is a park in Naâma.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.306945,
+                        33.271606
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-45",
     coords: [-0.3144, 33.2667],
@@ -1468,7 +10225,196 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["La ville est située à environ 1 176 mètres d'altitude.", "L'un des plus importants centres d'élevage ovin du pays.", "Les températures hivernales descendent régulièrement sous les -5 °C.", "La végétation steppique est dominée par l'alfa.", "Gare ferroviaire importante sur la ligne nord-sud.", "Est devenue chef-lieu de province en 1984.", "Importance du tissage de laine traditionnel.", "Situation stratégique entre l'Atlas et le Sahara."],
     }, image: "/poi-images/naama-cities-v2.webp"},
   {
-    id: "el-bayadh-cities-v2",
+    id: "el-bayadh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "غزلان",
+                  "text": "غزلان ist ein Denkmal in der Stadt El Bayadh.",
+                  "category": "historical",
+                  "coords": [
+                        1.030841,
+                        33.671685
+                  ]
+            },
+            {
+                  "name": "El Bayadh",
+                  "text": "El Bayadh ist eine Sehenswürdigkeit in der gleichnamigen Stadt El Bayadh.",
+                  "category": "landmark",
+                  "coords": [
+                        1.016542,
+                        33.689189
+                  ]
+            },
+            {
+                  "name": "شيخ بوعمامة",
+                  "text": "شيخ بوعمامة ist ein Denkmal in der Stadt El Bayadh.",
+                  "category": "historical",
+                  "coords": [
+                        1.043646,
+                        33.667457
+                  ]
+            },
+            {
+                  "name": "Maison de la culture d'El Bayadh",
+                  "text": "Maison de la culture d'El Bayadh ist ein Kunstzentrum in El Bayadh.",
+                  "category": "cultural",
+                  "coords": [
+                        1.010738,
+                        33.684842
+                  ]
+            },
+            {
+                  "name": "معهد موسيقي",
+                  "text": "معهد موسيقي ist ein Kunstzentrum in der Stadt El Bayadh.",
+                  "category": "cultural",
+                  "coords": [
+                        1.016827,
+                        33.682336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "غزلان",
+                  "text": "A غزلان egy emlékmű El Bayadh városában.",
+                  "category": "historical",
+                  "coords": [
+                        1.030841,
+                        33.671685
+                  ]
+            },
+            {
+                  "name": "El Bayadh",
+                  "text": "El Bayadh egy látványosság El Bayadh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.016542,
+                        33.689189
+                  ]
+            },
+            {
+                  "name": "شيخ بوعمامة",
+                  "text": "A شيخ بوعمامة egy emlékmű El Bayadh városában.",
+                  "category": "historical",
+                  "coords": [
+                        1.043646,
+                        33.667457
+                  ]
+            },
+            {
+                  "name": "Maison de la culture d'El Bayadh",
+                  "text": "A Maison de la culture d'El Bayadh egy művészeti központ El Bayadh városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.010738,
+                        33.684842
+                  ]
+            },
+            {
+                  "name": "معهد موسيقي",
+                  "text": "A معهد موسيقي egy művészeti központ El Bayadh városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.016827,
+                        33.682336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "غزلان",
+                  "text": "غزلان este un monument în orașul El Bayadh.",
+                  "category": "historical",
+                  "coords": [
+                        1.030841,
+                        33.671685
+                  ]
+            },
+            {
+                  "name": "El Bayadh",
+                  "text": "El Bayadh este o atracție în orașul El Bayadh.",
+                  "category": "landmark",
+                  "coords": [
+                        1.016542,
+                        33.689189
+                  ]
+            },
+            {
+                  "name": "شيخ بوعمامة",
+                  "text": "شيخ بوعمامة este un monument în orașul El Bayadh.",
+                  "category": "historical",
+                  "coords": [
+                        1.043646,
+                        33.667457
+                  ]
+            },
+            {
+                  "name": "Maison de la culture d'El Bayadh",
+                  "text": "Maison de la culture d'El Bayadh este un centru de arte în orașul El Bayadh.",
+                  "category": "cultural",
+                  "coords": [
+                        1.010738,
+                        33.684842
+                  ]
+            },
+            {
+                  "name": "معهد موسيقي",
+                  "text": "معهد موسيقي este un centru de arte în orașul El Bayadh.",
+                  "category": "cultural",
+                  "coords": [
+                        1.016827,
+                        33.682336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "غزلان",
+                  "text": "غزلان is a monument in the city of El Bayadh.",
+                  "category": "historical",
+                  "coords": [
+                        1.030841,
+                        33.671685
+                  ]
+            },
+            {
+                  "name": "El Bayadh",
+                  "text": "El Bayadh is an attraction in the city of El Bayadh.",
+                  "category": "landmark",
+                  "coords": [
+                        1.016542,
+                        33.689189
+                  ]
+            },
+            {
+                  "name": "شيخ بوعمامة",
+                  "text": "شيخ بوعمامة is a monument in the city of El Bayadh.",
+                  "category": "historical",
+                  "coords": [
+                        1.043646,
+                        33.667457
+                  ]
+            },
+            {
+                  "name": "Maison de la culture d'El Bayadh",
+                  "text": "Maison de la culture d'El Bayadh is an arts centre in the city of El Bayadh.",
+                  "category": "cultural",
+                  "coords": [
+                        1.010738,
+                        33.684842
+                  ]
+            },
+            {
+                  "name": "معهد موسيقي",
+                  "text": "معهد موسيقي is an arts centre in the city of El Bayadh.",
+                  "category": "cultural",
+                  "coords": [
+                        1.016827,
+                        33.682336
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-32",
     coords: [1.0283, 33.6833],
@@ -1503,7 +10449,232 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["La ville est située à plus de 1 300 mètres d'altitude.", "Fondée en 1852 comme poste militaire français.", "Des gravures rupestres ont été trouvées sur plus de 100 sites de la région.", "L'un des plus importants centres de commerce de la laine en Algérie.", "Le point culminant de la province se trouve dans les monts des Ksour.", "Les précipitations annuelles dépassent rarement 300 mm.", "Dispose d'une université moderne et d'un centre de recherche.", "La ville s'appelait autrefois Géryville."],
     }, image: "/poi-images/el-bayadh-cities-v2.webp"},
   {
-    id: "tizi-ouzou-cities-v2",
+    id: "tizi-ouzou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de Tizi-Ouzou",
+                  "text": "Das Musée de Tizi-Ouzou ist ein lokales Museum zur Bewahrung der regionalen Geschichte in Tizi Ouzou.",
+                  "category": "museum",
+                  "coords": [
+                        4.047586,
+                        36.71405
+                  ]
+            },
+            {
+                  "name": "Parc aquatique",
+                  "text": "Der Parc aquatique ist ein Wasserpark mit Freizeitangeboten in Tizi Ouzou.",
+                  "category": "recreational",
+                  "coords": [
+                        4.043082,
+                        36.704575
+                  ]
+            },
+            {
+                  "name": "Bordj Turc",
+                  "text": "Bordj Turc ist eine historische Burganlage in Tizi Ouzou.",
+                  "category": "castle",
+                  "coords": [
+                        4.047328,
+                        36.709006
+                  ]
+            },
+            {
+                  "name": "Musée et Monument des Martyrs",
+                  "text": "Das Musée et Monument des Martyrs ist ein Gedenkmuseum in Tizi Ouzou.",
+                  "category": "museum",
+                  "coords": [
+                        4.062706,
+                        36.711008
+                  ]
+            },
+            {
+                  "name": "Grande Salle",
+                  "text": "Die Grande Salle ist ein Veranstaltungsort für Theateraufführungen in Tizi Ouzou.",
+                  "category": "cultural",
+                  "coords": [
+                        4.053525,
+                        36.713466
+                  ]
+            },
+            {
+                  "name": "Théâtre en Plein Air",
+                  "text": "Das Théâtre en Plein Air ist ein Freilufttheater in der Stadt Tizi Ouzou.",
+                  "category": "cultural",
+                  "coords": [
+                        4.05233,
+                        36.713668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de Tizi-Ouzou",
+                  "text": "A Musée de Tizi-Ouzou egy helyi múzeum, amely Tizi Ouzou regionális történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.047586,
+                        36.71405
+                  ]
+            },
+            {
+                  "name": "Parc aquatique",
+                  "text": "A Parc aquatique egy vízipark, amely szabadidős tevékenységeket kínál Tizi Ouzou városában.",
+                  "category": "recreational",
+                  "coords": [
+                        4.043082,
+                        36.704575
+                  ]
+            },
+            {
+                  "name": "Bordj Turc",
+                  "text": "A Bordj Turc egy történelmi kastélyépület Tizi Ouzou városában.",
+                  "category": "castle",
+                  "coords": [
+                        4.047328,
+                        36.709006
+                  ]
+            },
+            {
+                  "name": "Musée et Monument des Martyrs",
+                  "text": "A Musée et Monument des Martyrs egy emlékmúzeum Tizi Ouzou városában.",
+                  "category": "museum",
+                  "coords": [
+                        4.062706,
+                        36.711008
+                  ]
+            },
+            {
+                  "name": "Grande Salle",
+                  "text": "A Grande Salle egy színházi előadásoknak és kulturális eseményeknek otthont adó létesítmény Tizi Ouzou-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        4.053525,
+                        36.713466
+                  ]
+            },
+            {
+                  "name": "Théâtre en Plein Air",
+                  "text": "A Théâtre en Plein Air egy szabadtéri színház Tizi Ouzou városában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.05233,
+                        36.713668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de Tizi-Ouzou",
+                  "text": "Musée de Tizi-Ouzou este un muzeu local dedicat istoriei regionale din Tizi Ouzou.",
+                  "category": "museum",
+                  "coords": [
+                        4.047586,
+                        36.71405
+                  ]
+            },
+            {
+                  "name": "Parc aquatique",
+                  "text": "Parc aquatique este un parc acvatic care oferă activități recreative în Tizi Ouzou.",
+                  "category": "recreational",
+                  "coords": [
+                        4.043082,
+                        36.704575
+                  ]
+            },
+            {
+                  "name": "Bordj Turc",
+                  "text": "Bordj Turc este o structură istorică tip castel situată în Tizi Ouzou.",
+                  "category": "castle",
+                  "coords": [
+                        4.047328,
+                        36.709006
+                  ]
+            },
+            {
+                  "name": "Musée et Monument des Martyrs",
+                  "text": "Musée et Monument des Martyrs este un muzeu memorial situat în Tizi Ouzou.",
+                  "category": "museum",
+                  "coords": [
+                        4.062706,
+                        36.711008
+                  ]
+            },
+            {
+                  "name": "Grande Salle",
+                  "text": "Grande Salle este un spațiu pentru spectacole de teatru și evenimente culturale în Tizi Ouzou.",
+                  "category": "cultural",
+                  "coords": [
+                        4.053525,
+                        36.713466
+                  ]
+            },
+            {
+                  "name": "Théâtre en Plein Air",
+                  "text": "Théâtre en Plein Air este un teatru în aer liber situat în orașul Tizi Ouzou.",
+                  "category": "cultural",
+                  "coords": [
+                        4.05233,
+                        36.713668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de Tizi-Ouzou",
+                  "text": "Musée de Tizi-Ouzou is a local museum dedicated to preserving regional history in Tizi Ouzou.",
+                  "category": "museum",
+                  "coords": [
+                        4.047586,
+                        36.71405
+                  ]
+            },
+            {
+                  "name": "Parc aquatique",
+                  "text": "Parc aquatique is a water park providing recreational activities in Tizi Ouzou.",
+                  "category": "recreational",
+                  "coords": [
+                        4.043082,
+                        36.704575
+                  ]
+            },
+            {
+                  "name": "Bordj Turc",
+                  "text": "Bordj Turc is a historic castle structure located in Tizi Ouzou.",
+                  "category": "castle",
+                  "coords": [
+                        4.047328,
+                        36.709006
+                  ]
+            },
+            {
+                  "name": "Musée et Monument des Martyrs",
+                  "text": "Musée et Monument des Martyrs is a memorial museum located in Tizi Ouzou.",
+                  "category": "museum",
+                  "coords": [
+                        4.062706,
+                        36.711008
+                  ]
+            },
+            {
+                  "name": "Grande Salle",
+                  "text": "Grande Salle is a venue for theatrical performances and cultural events in Tizi Ouzou.",
+                  "category": "cultural",
+                  "coords": [
+                        4.053525,
+                        36.713466
+                  ]
+            },
+            {
+                  "name": "Théâtre en Plein Air",
+                  "text": "Théâtre en Plein Air is an open-air theater situated in the city of Tizi Ouzou.",
+                  "category": "cultural",
+                  "coords": [
+                        4.05233,
+                        36.713668
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-15",
     coords: [4.0456, 36.7119],
@@ -1538,7 +10709,160 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["C'est la ville la plus grande et la plus peuplée de Kabylie.", "L'université Mouloud-Mammeri a été fondée en 1977.", "Le village voisin de Beni Yenni est célèbre pour ses bijoux en argent.", "Siège du club de football JSK, l'un des plus titrés d'Afrique.", "Principale région productrice d'huile d'olive en Algérie.", "Le tamazight fait partie intégrante du quotidien et de l'enseignement scolaire.", "Porte d'entrée du parc national du Djurdjura.", "Le nom de la ville signifie « col des genêts » en berbère."],
     }, image: "/poi-images/tizi-ouzou-cities-v2.webp"},
   {
-    id: "ain-defla-cities-v2",
+    id: "ain-defla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "دار الشباب عين الدفلى",
+                  "text": "Das Jugendhaus von Aïn Defla ist ein kultureller Treffpunkt.",
+                  "category": "cultural",
+                  "coords": [
+                        1.967626,
+                        36.263094
+                  ]
+            },
+            {
+                  "name": "Maison de culture Emir Abdelkader",
+                  "text": "Das Emir-Abdelkader-Kulturhaus ist ein Zentrum in Aïn Defla.",
+                  "category": "cultural",
+                  "coords": [
+                        1.952897,
+                        36.253144
+                  ]
+            },
+            {
+                  "name": "دار الثقافة ابن باديس",
+                  "text": "Das Ibn-Badis-Kulturhaus ist ein Zentrum in Aïn Defla.",
+                  "category": "cultural",
+                  "coords": [
+                        1.963014,
+                        36.261678
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Ein Kunstzentrum in Aïn Defla.",
+                  "category": "cultural",
+                  "coords": [
+                        1.958328,
+                        36.255289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "دار الشباب عين الدفلى",
+                  "text": "Aïn Defla ifjúsági háza egy kulturális találkozóhely.",
+                  "category": "cultural",
+                  "coords": [
+                        1.967626,
+                        36.263094
+                  ]
+            },
+            {
+                  "name": "Maison de culture Emir Abdelkader",
+                  "text": "Az Emir Abdelkader kultúrház egy központ Aïn Defla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.952897,
+                        36.253144
+                  ]
+            },
+            {
+                  "name": "دار الثقافة ابن باديس",
+                  "text": "Az Ibn Badis kultúrház egy központ Aïn Defla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.963014,
+                        36.261678
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Művészeti központ Aïn Defla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.958328,
+                        36.255289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "دار الشباب عين الدفلى",
+                  "text": "Casa de tineret din Aïn Defla este un punct de întâlnire cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        1.967626,
+                        36.263094
+                  ]
+            },
+            {
+                  "name": "Maison de culture Emir Abdelkader",
+                  "text": "Casa de cultură Emir Abdelkader este un centru din Aïn Defla.",
+                  "category": "cultural",
+                  "coords": [
+                        1.952897,
+                        36.253144
+                  ]
+            },
+            {
+                  "name": "دار الثقافة ابن باديس",
+                  "text": "Casa de cultură Ibn Badis este un centru din Aïn Defla.",
+                  "category": "cultural",
+                  "coords": [
+                        1.963014,
+                        36.261678
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Un centru de artă în Aïn Defla.",
+                  "category": "cultural",
+                  "coords": [
+                        1.958328,
+                        36.255289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "دار الشباب عين الدفلى",
+                  "text": "The Youth House of Aïn Defla is a cultural meeting point.",
+                  "category": "cultural",
+                  "coords": [
+                        1.967626,
+                        36.263094
+                  ]
+            },
+            {
+                  "name": "Maison de culture Emir Abdelkader",
+                  "text": "The Emir Abdelkader House of Culture is a center in Aïn Defla.",
+                  "category": "cultural",
+                  "coords": [
+                        1.952897,
+                        36.253144
+                  ]
+            },
+            {
+                  "name": "دار الثقافة ابن باديس",
+                  "text": "The Ibn Badis House of Culture is a center in Aïn Defla.",
+                  "category": "cultural",
+                  "coords": [
+                        1.963014,
+                        36.261678
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "An arts centre in Aïn Defla.",
+                  "category": "cultural",
+                  "coords": [
+                        1.958328,
+                        36.255289
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-44",
     coords: [1.9678, 36.2658],
@@ -1608,7 +10932,232 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["La ville en ruines est inscrite sur la liste du patrimoine mondial de l'UNESCO depuis 1982.", "Le « Tombeau de la Chrétienne » est un mausolée monumental.", "Tipaza était un port romain important de la Maurétanie Césarienne.", "Vestiges visibles de la basilique Sainte-Salsa datant du IVe siècle.", "Albert Camus est honoré par une stèle dans l'enceinte des ruines.", "Des peintures rupestres très anciennes ont été découvertes au mont Chenoua.", "La côte est un site de plongée prisé pour ses eaux claires.", "Comptoir commercial phénicien dans l'Antiquité."],
     }, image: "/poi-images/tipaza-cities-v2.webp"},
   {
-    id: "mila-cities-v2",
+    id: "mila-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "MUSEE DU MOUDJAHID",
+                  "text": "Das MUSEE DU MOUDJAHID ist ein Museum, das sich der regionalen Geschichte von Mila widmet.",
+                  "category": "museum",
+                  "coords": [
+                        6.258629,
+                        36.44056
+                  ]
+            },
+            {
+                  "name": "PARC D'ATTRACTION EN CONSTRUCTION",
+                  "text": "PARC D'ATTRACTION EN CONSTRUCTION ist ein im Bau befindlicher Freizeitpark in Mila.",
+                  "category": "recreational",
+                  "coords": [
+                        6.26343,
+                        36.443338
+                  ]
+            },
+            {
+                  "name": "Bab el Bled",
+                  "text": "Bab el Bled umfasst historische Ruinen in der Stadt Mila.",
+                  "category": "historical",
+                  "coords": [
+                        6.273632,
+                        36.452149
+                  ]
+            },
+            {
+                  "name": "الآثار الرومانية",
+                  "text": "Diese historischen römischen Ruinen befinden sich in der Stadt Mila.",
+                  "category": "historical",
+                  "coords": [
+                        6.271204,
+                        36.4502
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Das Maison de la Culture ist ein Kunstzentrum für kulturelle Aktivitäten in Mila.",
+                  "category": "cultural",
+                  "coords": [
+                        6.257941,
+                        36.441919
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Maison de jeunes ist ein Kultur- und Kunstzentrum für Jugendliche in Mila.",
+                  "category": "cultural",
+                  "coords": [
+                        6.26578,
+                        36.45305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MUSEE DU MOUDJAHID",
+                  "text": "A MUSEE DU MOUDJAHID egy múzeum, amely Mila regionális történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.258629,
+                        36.44056
+                  ]
+            },
+            {
+                  "name": "PARC D'ATTRACTION EN CONSTRUCTION",
+                  "text": "A PARC D'ATTRACTION EN CONSTRUCTION egy fejlesztés alatt álló vidámpark Mila városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.26343,
+                        36.443338
+                  ]
+            },
+            {
+                  "name": "Bab el Bled",
+                  "text": "A Bab el Bled történelmi romokból áll Mila városában.",
+                  "category": "historical",
+                  "coords": [
+                        6.273632,
+                        36.452149
+                  ]
+            },
+            {
+                  "name": "الآثار الرومانية",
+                  "text": "Ezek a történelmi római romok Mila városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        6.271204,
+                        36.4502
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "A Maison de la Culture kulturális tevékenységeknek otthont adó művészeti központ Mila városában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.257941,
+                        36.441919
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "A Maison de jeunes egy ifjúsági kulturális és művészeti központ Mila-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.26578,
+                        36.45305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MUSEE DU MOUDJAHID",
+                  "text": "MUSEE DU MOUDJAHID este un muzeu care explorează istoria regională în Mila.",
+                  "category": "museum",
+                  "coords": [
+                        6.258629,
+                        36.44056
+                  ]
+            },
+            {
+                  "name": "PARC D'ATTRACTION EN CONSTRUCTION",
+                  "text": "PARC D'ATTRACTION EN CONSTRUCTION este un parc tematic în curs de dezvoltare în Mila.",
+                  "category": "recreational",
+                  "coords": [
+                        6.26343,
+                        36.443338
+                  ]
+            },
+            {
+                  "name": "Bab el Bled",
+                  "text": "Bab el Bled prezintă ruine istorice situate în orașul Mila.",
+                  "category": "historical",
+                  "coords": [
+                        6.273632,
+                        36.452149
+                  ]
+            },
+            {
+                  "name": "الآثار الرومانية",
+                  "text": "Aceste ruine istorice romane sunt situate în orașul Mila.",
+                  "category": "historical",
+                  "coords": [
+                        6.271204,
+                        36.4502
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Maison de la Culture este un centru de arte care găzduiește activități culturale în Mila.",
+                  "category": "cultural",
+                  "coords": [
+                        6.257941,
+                        36.441919
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Maison de jeunes este un centru cultural și de arte pentru tineri din Mila.",
+                  "category": "cultural",
+                  "coords": [
+                        6.26578,
+                        36.45305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MUSEE DU MOUDJAHID",
+                  "text": "MUSEE DU MOUDJAHID is a museum exploring regional history in Mila.",
+                  "category": "museum",
+                  "coords": [
+                        6.258629,
+                        36.44056
+                  ]
+            },
+            {
+                  "name": "PARC D'ATTRACTION EN CONSTRUCTION",
+                  "text": "PARC D'ATTRACTION EN CONSTRUCTION is an upcoming theme park under development in Mila.",
+                  "category": "recreational",
+                  "coords": [
+                        6.26343,
+                        36.443338
+                  ]
+            },
+            {
+                  "name": "Bab el Bled",
+                  "text": "Bab el Bled features historical ruins situated in the city of Mila.",
+                  "category": "historical",
+                  "coords": [
+                        6.273632,
+                        36.452149
+                  ]
+            },
+            {
+                  "name": "الآثار الرومانية",
+                  "text": "These historical Roman ruins are located in the city of Mila.",
+                  "category": "historical",
+                  "coords": [
+                        6.271204,
+                        36.4502
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Maison de la Culture is an arts center that hosts cultural activities in Mila.",
+                  "category": "cultural",
+                  "coords": [
+                        6.257941,
+                        36.441919
+                  ]
+            },
+            {
+                  "name": "Maison de jeunes",
+                  "text": "Maison de jeunes is a cultural center and arts facility for youth in Mila.",
+                  "category": "cultural",
+                  "coords": [
+                        6.26578,
+                        36.45305
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-43",
     coords: [6.2644, 36.4503],
@@ -1643,7 +11192,124 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Mila s'appelait Milevum dans l'Antiquité.", "La mosquée Sidi Ghanem a été construite en 678 après J.-C.", "Les remparts byzantins de la ville datent du VIe siècle.", "Le barrage de Beni Haroun est le plus grand d'Algérie avec 1 milliard de m³.", "Saint Augustin a visité Mila à plusieurs reprises pour des affaires ecclésiastiques.", "La fontaine romaine Ain El-Beled fonctionne encore aujourd'hui.", "Zone importante de culture céréalière en bordure des hauts plateaux.", "Plusieurs synodes ecclésiastiques ont eu lieu à Milevum."],
     }, image: "/poi-images/mila-cities-v2.webp"},
   {
-    id: "el-tarf-cities-v2",
+    id: "el-tarf-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف ولاية الطارف",
+                  "text": "Ein Museum in El Tarf.",
+                  "category": "museum",
+                  "coords": [
+                        8.310716,
+                        36.766274
+                  ]
+            },
+            {
+                  "name": "ساحة 1 نوفمبر 1954",
+                  "text": "Ein Denkmal in El Tarf.",
+                  "category": "historical",
+                  "coords": [
+                        8.325797,
+                        36.765746
+                  ]
+            },
+            {
+                  "name": "ساحة المجاهد",
+                  "text": "Ein Denkmal in El Tarf.",
+                  "category": "historical",
+                  "coords": [
+                        8.311789,
+                        36.761682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف ولاية الطارف",
+                  "text": "Múzeum El Tarf városában.",
+                  "category": "museum",
+                  "coords": [
+                        8.310716,
+                        36.766274
+                  ]
+            },
+            {
+                  "name": "ساحة 1 نوفمبر 1954",
+                  "text": "Emlékmű El Tarf városában.",
+                  "category": "historical",
+                  "coords": [
+                        8.325797,
+                        36.765746
+                  ]
+            },
+            {
+                  "name": "ساحة المجاهد",
+                  "text": "Emlékmű El Tarf városában.",
+                  "category": "historical",
+                  "coords": [
+                        8.311789,
+                        36.761682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف ولاية الطارف",
+                  "text": "Un muzeu în El Tarf.",
+                  "category": "museum",
+                  "coords": [
+                        8.310716,
+                        36.766274
+                  ]
+            },
+            {
+                  "name": "ساحة 1 نوفمبر 1954",
+                  "text": "Un monument în El Tarf.",
+                  "category": "historical",
+                  "coords": [
+                        8.325797,
+                        36.765746
+                  ]
+            },
+            {
+                  "name": "ساحة المجاهد",
+                  "text": "Un monument în El Tarf.",
+                  "category": "historical",
+                  "coords": [
+                        8.311789,
+                        36.761682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "متحف ولاية الطارف",
+                  "text": "A museum in El Tarf.",
+                  "category": "museum",
+                  "coords": [
+                        8.310716,
+                        36.766274
+                  ]
+            },
+            {
+                  "name": "1 Novembre 1954",
+                  "text": "A monument in El Tarf.",
+                  "category": "historical",
+                  "coords": [
+                        8.325797,
+                        36.765746
+                  ]
+            },
+            {
+                  "name": "ساحة المجاهد",
+                  "text": "A monument in El Tarf.",
+                  "category": "historical",
+                  "coords": [
+                        8.311789,
+                        36.761682
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-36",
     coords: [8.3136, 36.7672],
@@ -1678,7 +11344,232 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Le parc national d'El-Kala s'étend sur 80 000 hectares.", "El Tarf est célèbre pour son 'corail rouge' utilisé en joaillerie.", "Le lac Tonga est un lieu de repos important pour les oiseaux migrateurs.", "Plus grandes forêts de chênes-lièges d'Algérie.", "Le poste frontière d'Oum Teboul est l'un des plus fréquentés.", "La baie d'El Kala possède une riche faune marine.", "Zone apicole importante avec du miel de fleurs sauvages.", "Réserve de biosphère de l'UNESCO dans la province."],
     }, image: "/poi-images/el-tarf-cities-v2.webp"},
   {
-    id: "oum-el-bouaghi-cities-v2",
+    id: "oum-el-bouaghi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسرح دار الثقافة - نوار بويكر",
+                  "text": "مسرح دار الثقافة - نوار بويكر ist ein Theater in der Stadt Oum El Bouaghi.",
+                  "category": "cultural",
+                  "coords": [
+                        7.114768,
+                        35.869931
+                  ]
+            },
+            {
+                  "name": "Château",
+                  "text": "Castle ist ein Schloss in der Stadt Oum El Bouaghi.",
+                  "category": "castle",
+                  "coords": [
+                        7.116255,
+                        35.878755
+                  ]
+            },
+            {
+                  "name": "مسبح محمد لخضر",
+                  "text": "مسبح محمد لخضر ist ein Wasserpark in der Stadt Oum El Bouaghi.",
+                  "category": "recreational",
+                  "coords": [
+                        7.100796,
+                        35.878935
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "متحف المجاهد ist ein Museum in der Stadt Oum El Bouaghi.",
+                  "category": "museum",
+                  "coords": [
+                        7.112496,
+                        35.868031
+                  ]
+            },
+            {
+                  "name": "حديقة الحيوانات",
+                  "text": "حديقة الحيوانات ist ein Zoo in der Stadt Oum El Bouaghi.",
+                  "category": "recreational",
+                  "coords": [
+                        7.108084,
+                        35.876592
+                  ]
+            },
+            {
+                  "name": "ruines époque coloniale",
+                  "text": "Die ruines époque coloniale sind Ruinen in Oum El Bouaghi.",
+                  "category": "historical",
+                  "coords": [
+                        7.115886,
+                        35.874624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسرح دار الثقافة - نوار بويكر",
+                  "text": "A مسرح دار الثقافة - نوار بويكر egy színház Oum El Bouaghi városában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.114768,
+                        35.869931
+                  ]
+            },
+            {
+                  "name": "Château",
+                  "text": "A Castle egy kastély Oum El Bouaghi városában.",
+                  "category": "castle",
+                  "coords": [
+                        7.116255,
+                        35.878755
+                  ]
+            },
+            {
+                  "name": "مسبح محمد لخضر",
+                  "text": "A مسبح محمد لخضر egy vízipark Oum El Bouaghi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.100796,
+                        35.878935
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "A متحف المجاهد egy múzeum Oum El Bouaghi városában.",
+                  "category": "museum",
+                  "coords": [
+                        7.112496,
+                        35.868031
+                  ]
+            },
+            {
+                  "name": "حديقة الحيوانات",
+                  "text": "A حديقة الحيوانات egy állatkert Oum El Bouaghi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.108084,
+                        35.876592
+                  ]
+            },
+            {
+                  "name": "ruines époque coloniale",
+                  "text": "A ruines époque coloniale romok Oum El Bouaghi városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        7.115886,
+                        35.874624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسرح دار الثقافة - نوار بويكر",
+                  "text": "مسرح دار الثقافة - نوار بويكر este un teatru în orașul Oum El Bouaghi.",
+                  "category": "cultural",
+                  "coords": [
+                        7.114768,
+                        35.869931
+                  ]
+            },
+            {
+                  "name": "Château",
+                  "text": "Castle este un castel în orașul Oum El Bouaghi.",
+                  "category": "castle",
+                  "coords": [
+                        7.116255,
+                        35.878755
+                  ]
+            },
+            {
+                  "name": "مسبح محمد لخضر",
+                  "text": "مسبح محمد لخضر este un parc acvatic în orașul Oum El Bouaghi.",
+                  "category": "recreational",
+                  "coords": [
+                        7.100796,
+                        35.878935
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "متحف المجاهد este un muzeu în orașul Oum El Bouaghi.",
+                  "category": "museum",
+                  "coords": [
+                        7.112496,
+                        35.868031
+                  ]
+            },
+            {
+                  "name": "حديقة الحيوانات",
+                  "text": "حديقة الحيوانات este o grădină zoologică în orașul Oum El Bouaghi.",
+                  "category": "recreational",
+                  "coords": [
+                        7.108084,
+                        35.876592
+                  ]
+            },
+            {
+                  "name": "ruines époque coloniale",
+                  "text": "Ruines époque coloniale sunt ruine în orașul Oum El Bouaghi.",
+                  "category": "historical",
+                  "coords": [
+                        7.115886,
+                        35.874624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "مسرح دار الثقافة - نوار بويكر",
+                  "text": "مسرح دار الثقافة - نوار بويكر is a theatre in the city of Oum El Bouaghi.",
+                  "category": "cultural",
+                  "coords": [
+                        7.114768,
+                        35.869931
+                  ]
+            },
+            {
+                  "name": "Castle",
+                  "text": "Castle is a castle located in the city of Oum El Bouaghi.",
+                  "category": "castle",
+                  "coords": [
+                        7.116255,
+                        35.878755
+                  ]
+            },
+            {
+                  "name": "مسبح محمد لخضر",
+                  "text": "مسبح محمد لخضر is a water park in the city of Oum El Bouaghi.",
+                  "category": "recreational",
+                  "coords": [
+                        7.100796,
+                        35.878935
+                  ]
+            },
+            {
+                  "name": "متحف المجاهد",
+                  "text": "متحف المجاهد is a museum in the city of Oum El Bouaghi.",
+                  "category": "museum",
+                  "coords": [
+                        7.112496,
+                        35.868031
+                  ]
+            },
+            {
+                  "name": "حديقة الحيوانات",
+                  "text": "حديقة الحيوانات is a zoo in the city of Oum El Bouaghi.",
+                  "category": "recreational",
+                  "coords": [
+                        7.108084,
+                        35.876592
+                  ]
+            },
+            {
+                  "name": "ruines époque coloniale",
+                  "text": "The ruines époque coloniale are ruins located in the city of Oum El Bouaghi.",
+                  "category": "historical",
+                  "coords": [
+                        7.115886,
+                        35.874624
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-04",
     coords: [7.1167, 35.8667],
@@ -1713,7 +11604,232 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Devenue chef-lieu de wilaya en 1984 ; elle s'appelait auparavant Canrobert.", "Les lacs salés voisins sont des zones humides Ramsar d'importance internationale.", "L'Université d'Oum El Bouaghi a été ouverte en 2009.", "Climat continental avec des étés chauds et des hivers froids.", "Des dolmens néolithiques ont été découverts dans la région.", "Le pivot de l'agriculture est la céréaliculture sèche.", "Site militaire et administratif important.", "Importante zone de production céréalière de l'est."],
     }, image: "/poi-images/oum-el-bouaghi-cities-v2.webp"},
   {
-    id: "ain-temouchent-cities-v2",
+    id: "ain-temouchent-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manège",
+                  "text": "Manège ist ein Freizeitpark und Erholungsgebiet in Aïn Témouchent.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.135946,
+                        35.294252
+                  ]
+            },
+            {
+                  "name": "SARL Les Moulins",
+                  "text": "SARL Les Moulins ist eine bemerkenswerte Windmühlenstruktur in Aïn Témouchent.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.119783,
+                        35.317454
+                  ]
+            },
+            {
+                  "name": "Palais de la culture",
+                  "text": "Das Palais de la culture ist ein Zentrum für Kunst und Kulturveranstaltungen in Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.145057,
+                        35.305583
+                  ]
+            },
+            {
+                  "name": "Maison de jeune",
+                  "text": "Das Maison de jeune dient als kulturelles Kunstzentrum in der Stadt Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.140055,
+                        35.301167
+                  ]
+            },
+            {
+                  "name": "Centre d'exposition culturelle et artistique",
+                  "text": "Das Centre d'exposition culturelle et artistique ist ein Kunstzentrum für Ausstellungen in Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.139975,
+                        35.293099
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes Boulanouar Mohamed",
+                  "text": "Das Maison des jeunes Boulanouar Mohamed ist eine Jugend-, Kunst- und Kultureinrichtung in Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.119197,
+                        35.295839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manège",
+                  "text": "A Manège egy vidámpark és szabadidős terület Aïn Témouchent városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.135946,
+                        35.294252
+                  ]
+            },
+            {
+                  "name": "SARL Les Moulins",
+                  "text": "A SARL Les Moulins egy figyelemre méltó szélmalomépület Aïn Témouchent-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.119783,
+                        35.317454
+                  ]
+            },
+            {
+                  "name": "Palais de la culture",
+                  "text": "A Palais de la culture egy művészeti és kulturális eseményeknek szentelt központ Aïn Témouchent-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.145057,
+                        35.305583
+                  ]
+            },
+            {
+                  "name": "Maison de jeune",
+                  "text": "A Maison de jeune kulturális művészeti központként szolgál Aïn Témouchent városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.140055,
+                        35.301167
+                  ]
+            },
+            {
+                  "name": "Centre d'exposition culturelle et artistique",
+                  "text": "A Centre d'exposition culturelle et artistique egy kiállításoknak helyet adó művészeti központ Aïn Témouchent-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.139975,
+                        35.293099
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes Boulanouar Mohamed",
+                  "text": "A Maison des jeunes Boulanouar Mohamed egy ifjúsági művészeti és kulturális létesítmény Aïn Témouchent-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.119197,
+                        35.295839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manège",
+                  "text": "Manège este un parc tematic și o zonă de recreere situată în Aïn Témouchent.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.135946,
+                        35.294252
+                  ]
+            },
+            {
+                  "name": "SARL Les Moulins",
+                  "text": "SARL Les Moulins este o structură notabilă de moară de vânt situată în Aïn Témouchent.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.119783,
+                        35.317454
+                  ]
+            },
+            {
+                  "name": "Palais de la culture",
+                  "text": "Palais de la culture este un centru dedicat artelor și evenimentelor culturale din Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.145057,
+                        35.305583
+                  ]
+            },
+            {
+                  "name": "Maison de jeune",
+                  "text": "Maison de jeune servește drept centru cultural de arte în orașul Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.140055,
+                        35.301167
+                  ]
+            },
+            {
+                  "name": "Centre d'exposition culturelle et artistique",
+                  "text": "Centre d'exposition culturelle et artistique este un centru de arte pentru expoziții din Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.139975,
+                        35.293099
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes Boulanouar Mohamed",
+                  "text": "Maison des jeunes Boulanouar Mohamed este o facilitate culturală și de artă pentru tineret în Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.119197,
+                        35.295839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manège",
+                  "text": "Manège is a theme park and recreational area located in Aïn Témouchent.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.135946,
+                        35.294252
+                  ]
+            },
+            {
+                  "name": "SARL Les Moulins",
+                  "text": "SARL Les Moulins is a notable windmill structure situated in Aïn Témouchent.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.119783,
+                        35.317454
+                  ]
+            },
+            {
+                  "name": "Palais de la culture",
+                  "text": "Palais de la culture is a dedicated center for arts and cultural events in Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.145057,
+                        35.305583
+                  ]
+            },
+            {
+                  "name": "Maison de jeune",
+                  "text": "Maison de jeune serves as a cultural arts center in the city of Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.140055,
+                        35.301167
+                  ]
+            },
+            {
+                  "name": "Centre d'exposition culturelle et artistique",
+                  "text": "Centre d'exposition culturelle et artistique is an arts center for exhibitions in Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.139975,
+                        35.293099
+                  ]
+            },
+            {
+                  "name": "Maison des jeunes Boulanouar Mohamed",
+                  "text": "Maison des jeunes Boulanouar Mohamed is a youth arts and cultural facility in Aïn Témouchent.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.119197,
+                        35.295839
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-46",
     coords: [-1.14, 35.2975],
@@ -1748,7 +11864,412 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Frappée par un séisme majeur en 1999, elle a été entièrement reconstruite.", "Des vestiges phéniciens et romains ont été découverts sur l'île de Rachgoun.", "Le port de Beni Saf est un centre de pêche important.", "Région célèbre pour les \"vins de Témouchent\".", "Le nom de la ville signifie \"Source de la chacale\" en berbère.", "Rachgoun est prisée des amateurs de sports nautiques.", "Point de départ du gazoduc Medgaz vers l'Espagne.", "Située entre Oran et Tlemcen."],
     }, image: "/poi-images/ain-temouchent-cities-v2.webp"},
   {
-    id: "boumerdes-cities-v2",
+    id: "boumerdes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Complexe militaire CRF",
+                  "text": "Ein Strand in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.480301,
+                        36.767334
+                  ]
+            },
+            {
+                  "name": "Réservée aux policiers",
+                  "text": "Ein Strand in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.482886,
+                        36.767507
+                  ]
+            },
+            {
+                  "name": "Plage Dauphin",
+                  "text": "Ein Strand in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.475418,
+                        36.766445
+                  ]
+            },
+            {
+                  "name": "Strand 1",
+                  "text": "Ein Strand in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.470294,
+                        36.766972
+                  ]
+            },
+            {
+                  "name": "Plage Le figuier 1 - Boumerdas",
+                  "text": "Ein Strand in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.506367,
+                        36.77329
+                  ]
+            },
+            {
+                  "name": "Corso Beach",
+                  "text": "Ein Strand in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.436865,
+                        36.768358
+                  ]
+            },
+            {
+                  "name": "Jardin de la Victoire (ennasser)",
+                  "text": "Ein Park in Boumerdès.",
+                  "category": "park",
+                  "coords": [
+                        3.459993,
+                        36.766097
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "Ein Denkmal in Boumerdès.",
+                  "category": "historical",
+                  "coords": [
+                        3.479909,
+                        36.751221
+                  ]
+            },
+            {
+                  "name": "Presqu'île Rocher Noire",
+                  "text": "Eine Sehenswürdigkeit in Boumerdès.",
+                  "category": "landmark",
+                  "coords": [
+                        3.476774,
+                        36.768434
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture Rachid Mimouni",
+                  "text": "Ein Kunstzentrum in Boumerdès.",
+                  "category": "cultural",
+                  "coords": [
+                        3.476439,
+                        36.764951
+                  ]
+            },
+            {
+                  "name": "The Mosque Of Okba Ben Nafaa",
+                  "text": "Ein Gotteshaus in Boumerdès.",
+                  "category": "religious",
+                  "coords": [
+                        3.458595,
+                        36.754791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Complexe militaire CRF",
+                  "text": "Strand Boumerdès városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.480301,
+                        36.767334
+                  ]
+            },
+            {
+                  "name": "Réservée aux policiers",
+                  "text": "Strand Boumerdès városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.482886,
+                        36.767507
+                  ]
+            },
+            {
+                  "name": "Plage Dauphin",
+                  "text": "Strand Boumerdès városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.475418,
+                        36.766445
+                  ]
+            },
+            {
+                  "name": "Tabḥirt n Grand Blu",
+                  "text": "Strand Boumerdès városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.470294,
+                        36.766972
+                  ]
+            },
+            {
+                  "name": "Plage Le figuier 1 - Boumerdas",
+                  "text": "Strand Boumerdès városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.506367,
+                        36.77329
+                  ]
+            },
+            {
+                  "name": "Corso Beach",
+                  "text": "Strand Boumerdès városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.436865,
+                        36.768358
+                  ]
+            },
+            {
+                  "name": "Jardin de la Victoire (ennasser)",
+                  "text": "Park Boumerdès városában.",
+                  "category": "park",
+                  "coords": [
+                        3.459993,
+                        36.766097
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "Emlékmű Boumerdès városában.",
+                  "category": "historical",
+                  "coords": [
+                        3.479909,
+                        36.751221
+                  ]
+            },
+            {
+                  "name": "Presqu'île Rocher Noire",
+                  "text": "Látnivaló Boumerdès városában.",
+                  "category": "landmark",
+                  "coords": [
+                        3.476774,
+                        36.768434
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture Rachid Mimouni",
+                  "text": "Művészeti központ Boumerdès városában.",
+                  "category": "cultural",
+                  "coords": [
+                        3.476439,
+                        36.764951
+                  ]
+            },
+            {
+                  "name": "The Mosque Of Okba Ben Nafaa",
+                  "text": "Imaház Boumerdès városában.",
+                  "category": "religious",
+                  "coords": [
+                        3.458595,
+                        36.754791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Complexe militaire CRF",
+                  "text": "O plajă în Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.480301,
+                        36.767334
+                  ]
+            },
+            {
+                  "name": "Réservée aux policiers",
+                  "text": "O plajă în Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.482886,
+                        36.767507
+                  ]
+            },
+            {
+                  "name": "Plage Dauphin",
+                  "text": "O plajă în Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.475418,
+                        36.766445
+                  ]
+            },
+            {
+                  "name": "Tabḥirt n Grand Blu",
+                  "text": "O plajă în Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.470294,
+                        36.766972
+                  ]
+            },
+            {
+                  "name": "Plage Le figuier 1 - Boumerdas",
+                  "text": "O plajă în Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.506367,
+                        36.77329
+                  ]
+            },
+            {
+                  "name": "Corso Beach",
+                  "text": "O plajă în Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.436865,
+                        36.768358
+                  ]
+            },
+            {
+                  "name": "Jardin de la Victoire (ennasser)",
+                  "text": "Un parc în Boumerdès.",
+                  "category": "park",
+                  "coords": [
+                        3.459993,
+                        36.766097
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "Un monument în Boumerdès.",
+                  "category": "historical",
+                  "coords": [
+                        3.479909,
+                        36.751221
+                  ]
+            },
+            {
+                  "name": "Presqu'île Rocher Noire",
+                  "text": "O atracție în Boumerdès.",
+                  "category": "landmark",
+                  "coords": [
+                        3.476774,
+                        36.768434
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture Rachid Mimouni",
+                  "text": "Un centru de artă în Boumerdès.",
+                  "category": "cultural",
+                  "coords": [
+                        3.476439,
+                        36.764951
+                  ]
+            },
+            {
+                  "name": "The Mosque Of Okba Ben Nafaa",
+                  "text": "Un lăcaș de cult în Boumerdès.",
+                  "category": "religious",
+                  "coords": [
+                        3.458595,
+                        36.754791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Complexe militaire CRF",
+                  "text": "A beach in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.480301,
+                        36.767334
+                  ]
+            },
+            {
+                  "name": "Réservée aux policiers",
+                  "text": "A beach in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.482886,
+                        36.767507
+                  ]
+            },
+            {
+                  "name": "Plage Dauphin",
+                  "text": "A beach in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.475418,
+                        36.766445
+                  ]
+            },
+            {
+                  "name": "Tabḥirt n Grand Blu",
+                  "text": "A beach in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.470294,
+                        36.766972
+                  ]
+            },
+            {
+                  "name": "Plage Le figuier 1 - Boumerdas",
+                  "text": "A beach in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.506367,
+                        36.77329
+                  ]
+            },
+            {
+                  "name": "Corso Beach",
+                  "text": "A beach in Boumerdès.",
+                  "category": "recreational",
+                  "coords": [
+                        3.436865,
+                        36.768358
+                  ]
+            },
+            {
+                  "name": "Jardin de la Victoire (ennasser)",
+                  "text": "A park in Boumerdès.",
+                  "category": "park",
+                  "coords": [
+                        3.459993,
+                        36.766097
+                  ]
+            },
+            {
+                  "name": "Monument aux martyrs",
+                  "text": "A monument in Boumerdès.",
+                  "category": "historical",
+                  "coords": [
+                        3.479909,
+                        36.751221
+                  ]
+            },
+            {
+                  "name": "Presqu'île Rocher Noire",
+                  "text": "An attraction in Boumerdès.",
+                  "category": "landmark",
+                  "coords": [
+                        3.476774,
+                        36.768434
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture Rachid Mimouni",
+                  "text": "An arts centre in Boumerdès.",
+                  "category": "cultural",
+                  "coords": [
+                        3.476439,
+                        36.764951
+                  ]
+            },
+            {
+                  "name": "The Mosque Of Okba Ben Nafaa",
+                  "text": "A place of worship in Boumerdès.",
+                  "category": "religious",
+                  "coords": [
+                        3.458595,
+                        36.754791
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-35",
     coords: [3.4731, 36.7628],
@@ -1888,7 +12409,196 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Érigée en chef-lieu de province indépendant en 2019.", "À seulement 15 km environ du poste frontière nigérien d'Assamaka.", "Point le plus au sud de l'Algérie sur la route transsaharienne.", "Région importante dans la lutte contre la migration clandestine et la contrebande.", "Approvisionnement en eau par des puits profonds sous le sable du désert.", "Festival culturel touareg annuel.", "Dans les environs, des monolithes de granit émergent du sable.", "Située directement sur la frontière avec le Niger."],
     }, image: "/poi-images/in-guezzam-cities-v2.webp"},
   {
-    id: "djanet-cities-v2",
+    id: "djanet-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف والتسجيل الطاسيلي",
+                  "text": "Tassili Museum & Registration ist ein Museum in der Stadt Djanet.",
+                  "category": "museum",
+                  "coords": [
+                        9.486297,
+                        24.554138
+                  ]
+            },
+            {
+                  "name": "قلعة جانت Fort Charlet",
+                  "text": "قلعة جانت Fort Charlet ist ein Schloss in der Stadt Djanet.",
+                  "category": "castle",
+                  "coords": [
+                        9.483956,
+                        24.551306
+                  ]
+            },
+            {
+                  "name": "جانت",
+                  "text": "Djanet ist eine Sehenswürdigkeit in der gleichnamigen Stadt Djanet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.481134,
+                        24.538487
+                  ]
+            },
+            {
+                  "name": "Ksar und Altstadt (verfallen)",
+                  "text": "Ksar und Altstadt (verfallen) ist eine Sehenswürdigkeit in Djanet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.485081,
+                        24.547018
+                  ]
+            },
+            {
+                  "name": "دار الشباب Maison de jeunes",
+                  "text": "دار الشباب Maison de jeunes ist ein Kunstzentrum in der Stadt Djanet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.487318,
+                        24.553291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف والتسجيل الطاسيلي",
+                  "text": "A Tassili Museum & Registration egy múzeum Djanet városában.",
+                  "category": "museum",
+                  "coords": [
+                        9.486297,
+                        24.554138
+                  ]
+            },
+            {
+                  "name": "قلعة جانت Fort Charlet",
+                  "text": "A قلعة جانت Fort Charlet egy kastély Djanet városában.",
+                  "category": "castle",
+                  "coords": [
+                        9.483956,
+                        24.551306
+                  ]
+            },
+            {
+                  "name": "جانت",
+                  "text": "Djanet egy látványosság Djanet városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.481134,
+                        24.538487
+                  ]
+            },
+            {
+                  "name": "Ksar und Altstadt (verfallen)",
+                  "text": "A Ksar und Altstadt (verfallen) egy látványosság Djanet városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.485081,
+                        24.547018
+                  ]
+            },
+            {
+                  "name": "دار الشباب Maison de jeunes",
+                  "text": "A دار الشباب Maison de jeunes egy művészeti központ Djanet városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.487318,
+                        24.553291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف والتسجيل الطاسيلي",
+                  "text": "Tassili Museum & Registration este un muzeu în orașul Djanet.",
+                  "category": "museum",
+                  "coords": [
+                        9.486297,
+                        24.554138
+                  ]
+            },
+            {
+                  "name": "قلعة جانت Fort Charlet",
+                  "text": "قلعة جانت Fort Charlet este un castel în orașul Djanet.",
+                  "category": "castle",
+                  "coords": [
+                        9.483956,
+                        24.551306
+                  ]
+            },
+            {
+                  "name": "جانت",
+                  "text": "Djanet este o atracție în orașul Djanet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.481134,
+                        24.538487
+                  ]
+            },
+            {
+                  "name": "Ksar und Altstadt (verfallen)",
+                  "text": "Ksar und Altstadt (verfallen) este o atracție în orașul Djanet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.485081,
+                        24.547018
+                  ]
+            },
+            {
+                  "name": "دار الشباب Maison de jeunes",
+                  "text": "دار الشباب Maison de jeunes este un centru de arte în orașul Djanet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.487318,
+                        24.553291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tassili Museum & Registration",
+                  "text": "Tassili Museum & Registration is a museum in the city of Djanet.",
+                  "category": "museum",
+                  "coords": [
+                        9.486297,
+                        24.554138
+                  ]
+            },
+            {
+                  "name": "قلعة جانت Fort Charlet",
+                  "text": "قلعة جانت Fort Charlet is a castle in the city of Djanet.",
+                  "category": "castle",
+                  "coords": [
+                        9.483956,
+                        24.551306
+                  ]
+            },
+            {
+                  "name": "Djanet",
+                  "text": "Djanet is an attraction in the city of Djanet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.481134,
+                        24.538487
+                  ]
+            },
+            {
+                  "name": "Ksar und Altstadt (verfallen)",
+                  "text": "Ksar und Altstadt (verfallen) is an attraction in the city of Djanet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.485081,
+                        24.547018
+                  ]
+            },
+            {
+                  "name": "دار الشباب Maison de jeunes",
+                  "text": "دار الشباب Maison de jeunes is an arts centre in the city of Djanet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.487318,
+                        24.553291
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-56",
     coords: [9.4833, 24.55],
@@ -1923,7 +12633,196 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Le Tassili n'Ajjer est classé au patrimoine mondial de l'UNESCO depuis 1982.", "Célèbre gravure rupestre de 'La Vache qui pleure' située près de Djanet.", "La fête de la Sebeïba est célébrée chaque année lors de l'Achoura.", "La ville est située à 1 035 mètres d'altitude.", "Plus de 30 000 palmiers dattiers poussent dans l'oasis.", "Le canyon d'Essendilene abrite une guelta permanente.", "Point de départ majeur pour les expéditions dans le désert."],
     }, image: "/poi-images/djanet-cities-v2.webp"},
   {
-    id: "el-menia-cities-v2",
+    id: "el-menia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "شاطو",
+                  "text": "Diese als Château bekannte Burganlage ist ein architektonisches Wahrzeichen in El Menia.",
+                  "category": "castle",
+                  "coords": [
+                        2.874131,
+                        30.579273
+                  ]
+            },
+            {
+                  "name": "المتحف",
+                  "text": "Diese Museumseinrichtung widmet sich der Ausstellung kultureller Artefakte in El Menia.",
+                  "category": "museum",
+                  "coords": [
+                        2.884912,
+                        30.583651
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي",
+                  "text": "Das Kulturzentrum fungiert als bekanntes Theater und Veranstaltungsort in El Menia.",
+                  "category": "cultural",
+                  "coords": [
+                        2.880891,
+                        30.583005
+                  ]
+            },
+            {
+                  "name": "La citadelle (Taourit)",
+                  "text": "La citadelle (Taourit) ist eine historische Befestigungsanlage in El Menia.",
+                  "category": "castle",
+                  "coords": [
+                        2.893548,
+                        30.582849
+                  ]
+            },
+            {
+                  "name": "فروض",
+                  "text": "Diese lokale Attraktion bietet Sehenswürdigkeiten für Besucher in der Stadt El Menia.",
+                  "category": "landmark",
+                  "coords": [
+                        2.881066,
+                        30.581172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "شاطو",
+                  "text": "Ez az épület, amely helyben chateau-ként ismert, egy építészeti tájékozódási pont El Menia-ban.",
+                  "category": "castle",
+                  "coords": [
+                        2.874131,
+                        30.579273
+                  ]
+            },
+            {
+                  "name": "المتحف",
+                  "text": "Ez a múzeum kulturális műtárgyak kiállításának van szentelve El Menia városában.",
+                  "category": "museum",
+                  "coords": [
+                        2.884912,
+                        30.583651
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي",
+                  "text": "A Kulturális Központ kiemelkedő színházként és előadóteremként működik El Menia-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        2.880891,
+                        30.583005
+                  ]
+            },
+            {
+                  "name": "La citadelle (Taourit)",
+                  "text": "A La citadelle (Taourit) egy történelmi kastélyerődítmény El Menia-ban.",
+                  "category": "castle",
+                  "coords": [
+                        2.893548,
+                        30.582849
+                  ]
+            },
+            {
+                  "name": "فروض",
+                  "text": "Ez a helyi látványosság érdekes pontokat kínál a látogatóknak El Menia városában.",
+                  "category": "landmark",
+                  "coords": [
+                        2.881066,
+                        30.581172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "شاطو",
+                  "text": "Această structură de tip castel, cunoscută local sub numele de chateau, este un reper arhitectural în El Menia.",
+                  "category": "castle",
+                  "coords": [
+                        2.874131,
+                        30.579273
+                  ]
+            },
+            {
+                  "name": "المتحف",
+                  "text": "Această instituție muzeală este dedicată expunerii de artefacte culturale în El Menia.",
+                  "category": "museum",
+                  "coords": [
+                        2.884912,
+                        30.583651
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي",
+                  "text": "Centrul Cultural funcționează ca un teatru și spațiu de spectacole proeminent în El Menia.",
+                  "category": "cultural",
+                  "coords": [
+                        2.880891,
+                        30.583005
+                  ]
+            },
+            {
+                  "name": "La citadelle (Taourit)",
+                  "text": "La citadelle (Taourit) este o fortificație istorică tip castel situată în El Menia.",
+                  "category": "castle",
+                  "coords": [
+                        2.893548,
+                        30.582849
+                  ]
+            },
+            {
+                  "name": "فروض",
+                  "text": "Această atracție locală oferă puncte de interes pentru vizitatori în orașul El Menia.",
+                  "category": "landmark",
+                  "coords": [
+                        2.881066,
+                        30.581172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "شاطو",
+                  "text": "This castle structure, locally known as a chateau, is an architectural landmark in El Menia.",
+                  "category": "castle",
+                  "coords": [
+                        2.874131,
+                        30.579273
+                  ]
+            },
+            {
+                  "name": "المتحف",
+                  "text": "This museum institution is dedicated to displaying cultural artifacts in El Menia.",
+                  "category": "museum",
+                  "coords": [
+                        2.884912,
+                        30.583651
+                  ]
+            },
+            {
+                  "name": "المركز الثقافي",
+                  "text": "The Cultural Center operates as a prominent theater and performance space in El Menia.",
+                  "category": "cultural",
+                  "coords": [
+                        2.880891,
+                        30.583005
+                  ]
+            },
+            {
+                  "name": "La citadelle (Taourit)",
+                  "text": "La citadelle (Taourit) is a historic castle fortification situated in El Menia.",
+                  "category": "castle",
+                  "coords": [
+                        2.893548,
+                        30.582849
+                  ]
+            },
+            {
+                  "name": "فروض",
+                  "text": "This local attraction offers points of interest for visitors in the city of El Menia.",
+                  "category": "landmark",
+                  "coords": [
+                        2.881066,
+                        30.581172
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-58",
     coords: [2.8667, 30.5833],
@@ -1958,7 +12857,160 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["Le nom signifie 'petite forteresse' en arabe.", "Réputée pour ses oranges douces et juteuses, une rareté dans le désert.", "L'église fondée par Foucauld peut encore être visitée aujourd'hui.", "Le lac salé voisin attire les oiseaux migrateurs.", "Située sur l'axe principal de transport Nord-Sud de l'Algérie.", "Des forages profonds fournissent de l'eau à 25–30 °C.", "Le musée d'El Menia expose des fossiles régionaux."],
     }, image: "/poi-images/el-menia-cities-v2.webp"},
   {
-    id: "timimoun-cities-v2",
+    id: "timimoun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "المركز الجزائري للتراث الثقافي",
+                  "text": "Ein Museum in Timimoun.",
+                  "category": "museum",
+                  "coords": [
+                        0.230554,
+                        29.26246
+                  ]
+            },
+            {
+                  "name": "مسرح في الهواء الطلق",
+                  "text": "Ein Theater in Timimoun.",
+                  "category": "cultural",
+                  "coords": [
+                        0.226409,
+                        29.254371
+                  ]
+            },
+            {
+                  "name": "‎Tamimimoon Old Town",
+                  "text": "Eine archäologische Stätte in Timimoun.",
+                  "category": "historical",
+                  "coords": [
+                        0.241386,
+                        29.288176
+                  ]
+            },
+            {
+                  "name": "بوابة السودان",
+                  "text": "Eine Sehenswürdigkeit in Timimoun.",
+                  "category": "landmark",
+                  "coords": [
+                        0.229376,
+                        29.26108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "المركز الجزائري للتراث الثقافي",
+                  "text": "Múzeum Timimoun városában.",
+                  "category": "museum",
+                  "coords": [
+                        0.230554,
+                        29.26246
+                  ]
+            },
+            {
+                  "name": "مسرح في الهواء الطلق",
+                  "text": "Színház Timimoun városában.",
+                  "category": "cultural",
+                  "coords": [
+                        0.226409,
+                        29.254371
+                  ]
+            },
+            {
+                  "name": "‎Tamimimoon Old Town",
+                  "text": "Régészeti lelőhely Timimoun városában.",
+                  "category": "historical",
+                  "coords": [
+                        0.241386,
+                        29.288176
+                  ]
+            },
+            {
+                  "name": "بوابة السودان",
+                  "text": "Látnivaló Timimoun városában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.229376,
+                        29.26108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "المركز الجزائري للتراث الثقافي",
+                  "text": "Un muzeu în Timimoun.",
+                  "category": "museum",
+                  "coords": [
+                        0.230554,
+                        29.26246
+                  ]
+            },
+            {
+                  "name": "مسرح في الهواء الطلق",
+                  "text": "Un teatru în Timimoun.",
+                  "category": "cultural",
+                  "coords": [
+                        0.226409,
+                        29.254371
+                  ]
+            },
+            {
+                  "name": "‎Tamimimoon Old Town",
+                  "text": "Un sit arheologic în Timimoun.",
+                  "category": "historical",
+                  "coords": [
+                        0.241386,
+                        29.288176
+                  ]
+            },
+            {
+                  "name": "بوابة السودان",
+                  "text": "O atracție în Timimoun.",
+                  "category": "landmark",
+                  "coords": [
+                        0.229376,
+                        29.26108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "المركز الجزائري للتراث الثقافي",
+                  "text": "A museum in Timimoun.",
+                  "category": "museum",
+                  "coords": [
+                        0.230554,
+                        29.26246
+                  ]
+            },
+            {
+                  "name": "مسرح في الهواء الطلق",
+                  "text": "A theatre in Timimoun.",
+                  "category": "cultural",
+                  "coords": [
+                        0.226409,
+                        29.254371
+                  ]
+            },
+            {
+                  "name": "‎Tamimimoon Old Town",
+                  "text": "An archaeological site in Timimoun.",
+                  "category": "historical",
+                  "coords": [
+                        0.241386,
+                        29.288176
+                  ]
+            },
+            {
+                  "name": "Gate of Sudan",
+                  "text": "An attraction in Timimoun.",
+                  "category": "landmark",
+                  "coords": [
+                        0.229376,
+                        29.26108
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-49",
     coords: [0.2333, 29.2667],
@@ -2028,7 +13080,88 @@ export const poiExtraAlgeriaCitiesV2: POI[] = [
       fr: ["La ville est bâtie sur un rocher en forme de scorpion dominant l'oued.", "Elle abrite l'un des plus anciens musées sahariens et un zoo.", "Elle offre un accès direct aux dunes du Grand Erg Occidental.", "Le territoire communal compte sept ruines de ksars.", "L'eau de source locale est limpide et minéralisée.", "La station de recherche saharienne du CNRS y fut créée en 1942.", "Réputée pour son sirop de dattes et son pain de sable (taguella).", "L'ermitage de Charles de Foucauld est un site emblématique."],
     }, image: "/poi-images/beni-abbes-cities-v2.webp"},
   {
-    id: "ouled-djellal-cities-v2",
+    id: "ouled-djellal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسرح الهواء الطلق الشهيدة رقية سنوسي",
+                  "text": "Das Open Air Theatre ist ein Freiluftveranstaltungsort für Aufführungen in Ouled Djellal.",
+                  "category": "cultural",
+                  "coords": [
+                        5.068137,
+                        34.432571
+                  ]
+            },
+            {
+                  "name": "دار الشباب محمد بوضياف",
+                  "text": "Dieses Jugendkunstzentrum dient als kultureller Mittelpunkt in der Stadt Ouled Djellal.",
+                  "category": "cultural",
+                  "coords": [
+                        5.058419,
+                        34.429627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسرح الهواء الطلق الشهيدة رقية سنوسي",
+                  "text": "Az Open Air Theatre egy szabadtéri rendezvényhelyszín Ouled Djellal városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.068137,
+                        34.432571
+                  ]
+            },
+            {
+                  "name": "دار الشباب محمد بوضياف",
+                  "text": "Ez az ifjúsági művészeti központ kulturális központként szolgál Ouled Djellal városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.058419,
+                        34.429627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسرح الهواء الطلق الشهيدة رقية سنوسي",
+                  "text": "Open Air Theatre este un spațiu în aer liber care găzduiește spectacole în Ouled Djellal.",
+                  "category": "cultural",
+                  "coords": [
+                        5.068137,
+                        34.432571
+                  ]
+            },
+            {
+                  "name": "دار الشباب محمد بوضياف",
+                  "text": "Acest centru de arte pentru tineret servește drept centru cultural în orașul Ouled Djellal.",
+                  "category": "cultural",
+                  "coords": [
+                        5.058419,
+                        34.429627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Open Air Theatre",
+                  "text": "Open Air Theatre is an outdoor venue hosting performances in Ouled Djellal.",
+                  "category": "cultural",
+                  "coords": [
+                        5.068137,
+                        34.432571
+                  ]
+            },
+            {
+                  "name": "دار الشباب محمد بوضياف",
+                  "text": "This youth arts center serves as a cultural hub in the city of Ouled Djellal.",
+                  "category": "cultural",
+                  "coords": [
+                        5.058419,
+                        34.429627
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DZ-51",
     coords: [5.0667, 34.4167],

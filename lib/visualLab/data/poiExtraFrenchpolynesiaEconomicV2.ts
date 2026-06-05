@@ -1038,7 +1038,232 @@ export const frenchpolynesiaEconomicV2: POI[] = [
     image: "/poi-images/frenchpolynesia-tikehau-trade-center-economic-v2.webp",
   },
   {
-    id: "frenchpolynesia-atuona-economic-hub-economic-v2",
+    id: "frenchpolynesia-atuona-economic-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Jacques Brel",
+                  "text": "Centre Jacques Brel ist ein Museum in Wirtschaftshub Atuona.",
+                  "category": "museum",
+                  "coords": [
+                        -139.040599,
+                        -9.804628
+                  ]
+            },
+            {
+                  "name": "Pétroglyphes de Tehueto",
+                  "text": "Pétroglyphes de Tehueto ist eine archäologische Stätte in Wirtschaftshub Atuona.",
+                  "category": "historical",
+                  "coords": [
+                        -139.027127,
+                        -9.782908
+                  ]
+            },
+            {
+                  "name": "Me'ae et Tohua de Tehueto",
+                  "text": "Me'ae et Tohua de Tehueto ist eine archäologische Stätte in Wirtschaftshub Atuona.",
+                  "category": "historical",
+                  "coords": [
+                        -139.02786,
+                        -9.781935
+                  ]
+            },
+            {
+                  "name": "Maison du Jouir",
+                  "text": "Maison du Jouir ist ein Museum in Wirtschaftshub Atuona.",
+                  "category": "museum",
+                  "coords": [
+                        -139.040817,
+                        -9.803721
+                  ]
+            },
+            {
+                  "name": "Tikis souriant suivre les indications",
+                  "text": "Tikis souriant suivre les indications ist eine Attraktion in Wirtschaftshub Atuona.",
+                  "category": "landmark",
+                  "coords": [
+                        -139.00972,
+                        -9.791613
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée-Conception",
+                  "text": "Église de l'Immaculée-Conception ist eine Kultstätte in Wirtschaftshub Atuona.",
+                  "category": "religious",
+                  "coords": [
+                        -139.041857,
+                        -9.802125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Jacques Brel",
+                  "text": "A Centre Jacques Brel egy múzeum Wirtschaftshub Atuona területén.",
+                  "category": "museum",
+                  "coords": [
+                        -139.040599,
+                        -9.804628
+                  ]
+            },
+            {
+                  "name": "Pétroglyphes de Tehueto",
+                  "text": "A Pétroglyphes de Tehueto egy régészeti lelőhely Wirtschaftshub Atuona területén.",
+                  "category": "historical",
+                  "coords": [
+                        -139.027127,
+                        -9.782908
+                  ]
+            },
+            {
+                  "name": "Me'ae et Tohua de Tehueto",
+                  "text": "A Me'ae et Tohua de Tehueto egy régészeti lelőhely Wirtschaftshub Atuona területén.",
+                  "category": "historical",
+                  "coords": [
+                        -139.02786,
+                        -9.781935
+                  ]
+            },
+            {
+                  "name": "Maison du Jouir",
+                  "text": "A Maison du Jouir egy múzeum Wirtschaftshub Atuona területén.",
+                  "category": "museum",
+                  "coords": [
+                        -139.040817,
+                        -9.803721
+                  ]
+            },
+            {
+                  "name": "Tikis souriant suivre les indications",
+                  "text": "A Tikis souriant suivre les indications egy látványosság Wirtschaftshub Atuona területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -139.00972,
+                        -9.791613
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée-Conception",
+                  "text": "Az Église de l'Immaculée-Conception egy istentiszteleti hely Wirtschaftshub Atuona területén.",
+                  "category": "religious",
+                  "coords": [
+                        -139.041857,
+                        -9.802125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Jacques Brel",
+                  "text": "Centre Jacques Brel este un muzeu situat în Wirtschaftshub Atuona.",
+                  "category": "museum",
+                  "coords": [
+                        -139.040599,
+                        -9.804628
+                  ]
+            },
+            {
+                  "name": "Pétroglyphes de Tehueto",
+                  "text": "Pétroglyphes de Tehueto este un sit arheologic situat în Wirtschaftshub Atuona.",
+                  "category": "historical",
+                  "coords": [
+                        -139.027127,
+                        -9.782908
+                  ]
+            },
+            {
+                  "name": "Me'ae et Tohua de Tehueto",
+                  "text": "Me'ae et Tohua de Tehueto este un sit arheologic situat în Wirtschaftshub Atuona.",
+                  "category": "historical",
+                  "coords": [
+                        -139.02786,
+                        -9.781935
+                  ]
+            },
+            {
+                  "name": "Maison du Jouir",
+                  "text": "Maison du Jouir este un muzeu situat în Wirtschaftshub Atuona.",
+                  "category": "museum",
+                  "coords": [
+                        -139.040817,
+                        -9.803721
+                  ]
+            },
+            {
+                  "name": "Tikis souriant suivre les indications",
+                  "text": "Tikis souriant suivre les indications este o atracție situată în Wirtschaftshub Atuona.",
+                  "category": "landmark",
+                  "coords": [
+                        -139.00972,
+                        -9.791613
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée-Conception",
+                  "text": "Église de l'Immaculée-Conception este un loc de cult situat în Wirtschaftshub Atuona.",
+                  "category": "religious",
+                  "coords": [
+                        -139.041857,
+                        -9.802125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Jacques Brel",
+                  "text": "Centre Jacques Brel is a museum located in Wirtschaftshub Atuona.",
+                  "category": "museum",
+                  "coords": [
+                        -139.040599,
+                        -9.804628
+                  ]
+            },
+            {
+                  "name": "Pétroglyphes de Tehueto",
+                  "text": "Pétroglyphes de Tehueto is an archaeological site located in Wirtschaftshub Atuona.",
+                  "category": "historical",
+                  "coords": [
+                        -139.027127,
+                        -9.782908
+                  ]
+            },
+            {
+                  "name": "Me'ae et Tohua de Tehueto",
+                  "text": "Me'ae et Tohua de Tehueto is an archaeological site located in Wirtschaftshub Atuona.",
+                  "category": "historical",
+                  "coords": [
+                        -139.02786,
+                        -9.781935
+                  ]
+            },
+            {
+                  "name": "Maison du Jouir",
+                  "text": "Maison du Jouir is a museum located in Wirtschaftshub Atuona.",
+                  "category": "museum",
+                  "coords": [
+                        -139.040817,
+                        -9.803721
+                  ]
+            },
+            {
+                  "name": "Tikis souriant suivre les indications",
+                  "text": "Tikis souriant suivre les indications is an attraction located in Wirtschaftshub Atuona.",
+                  "category": "landmark",
+                  "coords": [
+                        -139.00972,
+                        -9.791613
+                  ]
+            },
+            {
+                  "name": "Église de l'Immaculée-Conception",
+                  "text": "Église de l'Immaculée-Conception is a place of worship located in Wirtschaftshub Atuona.",
+                  "category": "religious",
+                  "coords": [
+                        -139.041857,
+                        -9.802125
+                  ]
+            }
+      ]
+},
     parent: "PF",
     type: "town",
     name: { de: "Wirtschaftshub Atuona", hu: "Atuona gazdasági központ", ro: "Hub-ul economic Atuona", en: "Atuona Economic Hub" },

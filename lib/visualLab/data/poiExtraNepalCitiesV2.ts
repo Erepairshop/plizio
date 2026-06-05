@@ -50,7 +50,124 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/ghorahi-cities-v2.webp"},
   {
-    id: "budhanilkantha-cities-v2",
+    id: "budhanilkantha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jestha Nagarik Bishram Esthal",
+                  "text": "Freizeitpark in Budhanilkantha.",
+                  "category": "recreational",
+                  "coords": [
+                        85.366308,
+                        27.762091
+                  ]
+            },
+            {
+                  "name": "Budhanikantha entry gate",
+                  "text": "Eingangstor zur Stätte Budhanilkantha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.362218,
+                        27.776884
+                  ]
+            },
+            {
+                  "name": "Budhanilkantha",
+                  "text": "Heilige Stätte in Budhanilkantha, bekannt für ihre berühmte liegende Vishnu-Statue.",
+                  "category": "religious",
+                  "coords": [
+                        85.362342,
+                        27.778126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jestha Nagarik Bishram Esthal",
+                  "text": "Vidámpark Budhanilkanthában.",
+                  "category": "recreational",
+                  "coords": [
+                        85.366308,
+                        27.762091
+                  ]
+            },
+            {
+                  "name": "Budhanikantha entry gate",
+                  "text": "A Budhanilkantha szentély bejárati kapuja.",
+                  "category": "landmark",
+                  "coords": [
+                        85.362218,
+                        27.776884
+                  ]
+            },
+            {
+                  "name": "Budhanilkantha",
+                  "text": "Szent hely Budhanilkanthában, amely híres fekvő Visnu-szobráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        85.362342,
+                        27.778126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jestha Nagarik Bishram Esthal",
+                  "text": "Parc de distracții în Budhanilkantha.",
+                  "category": "recreational",
+                  "coords": [
+                        85.366308,
+                        27.762091
+                  ]
+            },
+            {
+                  "name": "Budhanikantha entry gate",
+                  "text": "Poarta de intrare la situl Budhanilkantha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.362218,
+                        27.776884
+                  ]
+            },
+            {
+                  "name": "Budhanilkantha",
+                  "text": "Situl sacru din Budhanilkantha, cunoscut pentru celebra sa statuie a lui Vishnu culcat.",
+                  "category": "religious",
+                  "coords": [
+                        85.362342,
+                        27.778126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jestha Nagarik Bishram Esthal",
+                  "text": "Theme park in Budhanilkantha.",
+                  "category": "recreational",
+                  "coords": [
+                        85.366308,
+                        27.762091
+                  ]
+            },
+            {
+                  "name": "Budhanikantha entry gate",
+                  "text": "Entry gate to the Budhanilkantha site.",
+                  "category": "landmark",
+                  "coords": [
+                        85.362218,
+                        27.776884
+                  ]
+            },
+            {
+                  "name": "Budhanilkantha",
+                  "text": "Sacred site in Budhanilkantha, known for its famous reclining Vishnu statue.",
+                  "category": "religious",
+                  "coords": [
+                        85.362342,
+                        27.778126
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.37, 27.77],
@@ -97,7 +214,124 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/budhanilkantha-cities-v2.webp"},
   {
-    id: "tarakeshwar-cities-v2",
+    id: "tarakeshwar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "रानीबन",
+                  "text": "रानीबन bietet einen malerischen Aussichtspunkt in Tarakeshwar.",
+                  "category": "natural",
+                  "coords": [
+                        85.26688,
+                        27.745211
+                  ]
+            },
+            {
+                  "name": "Manamaiju Ajima Mai Temple",
+                  "text": "Manamaiju Ajima Mai Temple ist eine religiöse Attraktion in Tarakeshwar.",
+                  "category": "landmark",
+                  "coords": [
+                        85.31214,
+                        27.752077
+                  ]
+            },
+            {
+                  "name": "Decoration and Fine Art Gallery",
+                  "text": "Decoration and Fine Art Gallery ist eine Kunstgalerie in Tarakeshwar.",
+                  "category": "museum",
+                  "coords": [
+                        85.315746,
+                        27.748946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "रानीबन",
+                  "text": "A रानीबन egy festői kilátó Tarakeshwar városában.",
+                  "category": "natural",
+                  "coords": [
+                        85.26688,
+                        27.745211
+                  ]
+            },
+            {
+                  "name": "Manamaiju Ajima Mai Temple",
+                  "text": "A Manamaiju Ajima Mai Temple egy vallási látványosság Tarakeshwar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.31214,
+                        27.752077
+                  ]
+            },
+            {
+                  "name": "Decoration and Fine Art Gallery",
+                  "text": "A Decoration and Fine Art Gallery egy művészeti galéria Tarakeshwar városában.",
+                  "category": "museum",
+                  "coords": [
+                        85.315746,
+                        27.748946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "रानीबन",
+                  "text": "रानीबन oferă un punct de belvedere pitoresc situat în Tarakeshwar.",
+                  "category": "natural",
+                  "coords": [
+                        85.26688,
+                        27.745211
+                  ]
+            },
+            {
+                  "name": "Manamaiju Ajima Mai Temple",
+                  "text": "Manamaiju Ajima Mai Temple este o atracție religioasă situată în Tarakeshwar.",
+                  "category": "landmark",
+                  "coords": [
+                        85.31214,
+                        27.752077
+                  ]
+            },
+            {
+                  "name": "Decoration and Fine Art Gallery",
+                  "text": "Decoration and Fine Art Gallery este o galerie de artă situată în Tarakeshwar.",
+                  "category": "museum",
+                  "coords": [
+                        85.315746,
+                        27.748946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "रानीबन",
+                  "text": "रानीबन offers a scenic viewpoint located in Tarakeshwar.",
+                  "category": "natural",
+                  "coords": [
+                        85.26688,
+                        27.745211
+                  ]
+            },
+            {
+                  "name": "Manamaiju Ajima Mai Temple",
+                  "text": "Manamaiju Ajima Mai Temple is a religious attraction situated in Tarakeshwar.",
+                  "category": "landmark",
+                  "coords": [
+                        85.31214,
+                        27.752077
+                  ]
+            },
+            {
+                  "name": "Decoration and Fine Art Gallery",
+                  "text": "Decoration and Fine Art Gallery is an art gallery located in Tarakeshwar.",
+                  "category": "museum",
+                  "coords": [
+                        85.315746,
+                        27.748946
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.29, 27.76],
@@ -250,7 +484,124 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/gokarneshwar-cities-v2.webp"},
   {
-    id: "kalaiya-cities-v2",
+    id: "kalaiya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Janaki Cinema Hall",
+                  "text": "Die Janaki Cinema Hall ist ein Theater in der Stadt Kalaiya.",
+                  "category": "cultural",
+                  "coords": [
+                        85.009327,
+                        27.033518
+                  ]
+            },
+            {
+                  "name": "Gupta Cinema Hall",
+                  "text": "Die Gupta Cinema Hall ist ein Theater in Kalaiya.",
+                  "category": "cultural",
+                  "coords": [
+                        85.006739,
+                        27.033696
+                  ]
+            },
+            {
+                  "name": "Kalaiya Darbar",
+                  "text": "Kalaiya Darbar ist eine historische Burg in Kalaiya.",
+                  "category": "castle",
+                  "coords": [
+                        84.998957,
+                        27.026366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Janaki Cinema Hall",
+                  "text": "A Janaki Cinema Hall egy színház Kalaiya városában.",
+                  "category": "cultural",
+                  "coords": [
+                        85.009327,
+                        27.033518
+                  ]
+            },
+            {
+                  "name": "Gupta Cinema Hall",
+                  "text": "A Gupta Cinema Hall egy színház Kalaiya városában.",
+                  "category": "cultural",
+                  "coords": [
+                        85.006739,
+                        27.033696
+                  ]
+            },
+            {
+                  "name": "Kalaiya Darbar",
+                  "text": "A Kalaiya Darbar egy történelmi kastély Kalaiya városában.",
+                  "category": "castle",
+                  "coords": [
+                        84.998957,
+                        27.026366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Janaki Cinema Hall",
+                  "text": "Janaki Cinema Hall este un teatru situat în orașul Kalaiya.",
+                  "category": "cultural",
+                  "coords": [
+                        85.009327,
+                        27.033518
+                  ]
+            },
+            {
+                  "name": "Gupta Cinema Hall",
+                  "text": "Gupta Cinema Hall este un teatru situat în Kalaiya.",
+                  "category": "cultural",
+                  "coords": [
+                        85.006739,
+                        27.033696
+                  ]
+            },
+            {
+                  "name": "Kalaiya Darbar",
+                  "text": "Kalaiya Darbar este un castel istoric situat în Kalaiya.",
+                  "category": "castle",
+                  "coords": [
+                        84.998957,
+                        27.026366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Janaki Cinema Hall",
+                  "text": "Janaki Cinema Hall is a theatre located in the city of Kalaiya.",
+                  "category": "cultural",
+                  "coords": [
+                        85.009327,
+                        27.033518
+                  ]
+            },
+            {
+                  "name": "Gupta Cinema Hall",
+                  "text": "Gupta Cinema Hall is a theatre situated in Kalaiya.",
+                  "category": "cultural",
+                  "coords": [
+                        85.006739,
+                        27.033696
+                  ]
+            },
+            {
+                  "name": "Kalaiya Darbar",
+                  "text": "Kalaiya Darbar is a historic castle located in Kalaiya.",
+                  "category": "castle",
+                  "coords": [
+                        84.998957,
+                        27.026366
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P2",
     coords: [85.00, 27.03],
@@ -297,7 +648,340 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/kalaiya-cities-v2.webp"},
   {
-    id: "suryabinayak-cities-v2",
+    id: "suryabinayak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "sandip khanal",
+                  "text": "Sandip khanal ist eine Burg in Suryabinayak.",
+                  "category": "castle",
+                  "coords": [
+                        85.415554,
+                        27.663709
+                  ]
+            },
+            {
+                  "name": "Nyatapola Temple",
+                  "text": "Der Nyatapola Temple ist ein markantes, historisches Denkmal in Suryabinayak.",
+                  "category": "historical",
+                  "coords": [
+                        85.429372,
+                        27.67141
+                  ]
+            },
+            {
+                  "name": "International Green Developers Nepal",
+                  "text": "International Green Developers Nepal ist eine Attraktion in Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.442811,
+                        27.667091
+                  ]
+            },
+            {
+                  "name": "Dabu (Dance Platform)",
+                  "text": "Das Dabu (Dance Platform) ist ein Denkmal in Suryabinayak.",
+                  "category": "historical",
+                  "coords": [
+                        85.427766,
+                        27.672117
+                  ]
+            },
+            {
+                  "name": "Pottery Square (Talako Tole)",
+                  "text": "Der Pottery Square (Talako Tole) ist eine Attraktion in Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.427743,
+                        27.669897
+                  ]
+            },
+            {
+                  "name": "Cremation Site",
+                  "text": "Die Cremation Site ist eine Attraktion in Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.430726,
+                        27.668279
+                  ]
+            },
+            {
+                  "name": "Bhajyu Pukhu",
+                  "text": "Bhajyu Pukhu ist eine lokale Attraktion in Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.420929,
+                        27.670594
+                  ]
+            },
+            {
+                  "name": "Pilot Baba Ashram",
+                  "text": "Pilot Baba Ashram ist eine Attraktion in Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.422529,
+                        27.640523
+                  ]
+            },
+            {
+                  "name": "Shilu Mahadev (Fasidega)",
+                  "text": "Shilu Mahadev (Fasidega) ist ein Gotteshaus in Suryabinayak.",
+                  "category": "religious",
+                  "coords": [
+                        85.428908,
+                        27.672409
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "sandip khanal",
+                  "text": "A sandip khanal egy vár Suryabinayakban.",
+                  "category": "castle",
+                  "coords": [
+                        85.415554,
+                        27.663709
+                  ]
+            },
+            {
+                  "name": "Nyatapola Temple",
+                  "text": "A Nyatapola Temple egy nevezetes történelmi műemlék Suryabinayakban.",
+                  "category": "historical",
+                  "coords": [
+                        85.429372,
+                        27.67141
+                  ]
+            },
+            {
+                  "name": "International Green Developers Nepal",
+                  "text": "Az International Green Developers Nepal egy látványosság Suryabinayakban.",
+                  "category": "landmark",
+                  "coords": [
+                        85.442811,
+                        27.667091
+                  ]
+            },
+            {
+                  "name": "Dabu (Dance Platform)",
+                  "text": "A Dabu (Dance Platform) egy emlékmű Suryabinayakban.",
+                  "category": "historical",
+                  "coords": [
+                        85.427766,
+                        27.672117
+                  ]
+            },
+            {
+                  "name": "Pottery Square (Talako Tole)",
+                  "text": "A Pottery Square (Talako Tole) egy látványosság Suryabinayakban.",
+                  "category": "landmark",
+                  "coords": [
+                        85.427743,
+                        27.669897
+                  ]
+            },
+            {
+                  "name": "Cremation Site",
+                  "text": "A Cremation Site egy látványosság Suryabinayakban.",
+                  "category": "landmark",
+                  "coords": [
+                        85.430726,
+                        27.668279
+                  ]
+            },
+            {
+                  "name": "Bhajyu Pukhu",
+                  "text": "A Bhajyu Pukhu egy helyi látványosság Suryabinayakban.",
+                  "category": "landmark",
+                  "coords": [
+                        85.420929,
+                        27.670594
+                  ]
+            },
+            {
+                  "name": "Pilot Baba Ashram",
+                  "text": "A Pilot Baba Ashram egy látványosság Suryabinayakban.",
+                  "category": "landmark",
+                  "coords": [
+                        85.422529,
+                        27.640523
+                  ]
+            },
+            {
+                  "name": "Shilu Mahadev (Fasidega)",
+                  "text": "A Shilu Mahadev (Fasidega) egy istentiszteleti hely Suryabinayakban.",
+                  "category": "religious",
+                  "coords": [
+                        85.428908,
+                        27.672409
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "sandip khanal",
+                  "text": "Sandip khanal este un castel situat în Suryabinayak.",
+                  "category": "castle",
+                  "coords": [
+                        85.415554,
+                        27.663709
+                  ]
+            },
+            {
+                  "name": "Nyatapola Temple",
+                  "text": "Nyatapola Temple este un monument istoric notabil situat în Suryabinayak.",
+                  "category": "historical",
+                  "coords": [
+                        85.429372,
+                        27.67141
+                  ]
+            },
+            {
+                  "name": "International Green Developers Nepal",
+                  "text": "International Green Developers Nepal este o atracție situată în Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.442811,
+                        27.667091
+                  ]
+            },
+            {
+                  "name": "Dabu (Dance Platform)",
+                  "text": "Dabu (Dance Platform) este un monument în Suryabinayak.",
+                  "category": "historical",
+                  "coords": [
+                        85.427766,
+                        27.672117
+                  ]
+            },
+            {
+                  "name": "Pottery Square (Talako Tole)",
+                  "text": "Pottery Square (Talako Tole) este o atracție în Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.427743,
+                        27.669897
+                  ]
+            },
+            {
+                  "name": "Cremation Site",
+                  "text": "Cremation Site este o atracție aflată în Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.430726,
+                        27.668279
+                  ]
+            },
+            {
+                  "name": "Bhajyu Pukhu",
+                  "text": "Bhajyu Pukhu este o atracție locală din Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.420929,
+                        27.670594
+                  ]
+            },
+            {
+                  "name": "Pilot Baba Ashram",
+                  "text": "Pilot Baba Ashram este o atracție aflată în Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.422529,
+                        27.640523
+                  ]
+            },
+            {
+                  "name": "Shilu Mahadev (Fasidega)",
+                  "text": "Shilu Mahadev (Fasidega) este un lăcaș de cult situat în Suryabinayak.",
+                  "category": "religious",
+                  "coords": [
+                        85.428908,
+                        27.672409
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "sandip khanal",
+                  "text": "Sandip khanal is a castle located in Suryabinayak.",
+                  "category": "castle",
+                  "coords": [
+                        85.415554,
+                        27.663709
+                  ]
+            },
+            {
+                  "name": "Nyatapola Temple",
+                  "text": "Nyatapola Temple is a notable historical monument located in Suryabinayak.",
+                  "category": "historical",
+                  "coords": [
+                        85.429372,
+                        27.67141
+                  ]
+            },
+            {
+                  "name": "International Green Developers Nepal",
+                  "text": "International Green Developers Nepal is an attraction located in Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.442811,
+                        27.667091
+                  ]
+            },
+            {
+                  "name": "Dabu (Dance Platform)",
+                  "text": "Dabu (Dance Platform) is a monument in Suryabinayak.",
+                  "category": "historical",
+                  "coords": [
+                        85.427766,
+                        27.672117
+                  ]
+            },
+            {
+                  "name": "Pottery Square (Talako Tole)",
+                  "text": "Pottery Square (Talako Tole) is an attraction in Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.427743,
+                        27.669897
+                  ]
+            },
+            {
+                  "name": "Cremation Site",
+                  "text": "The Cremation Site is an attraction found in Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.430726,
+                        27.668279
+                  ]
+            },
+            {
+                  "name": "Bhajyu Pukhu",
+                  "text": "Bhajyu Pukhu is a local attraction located in Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.420929,
+                        27.670594
+                  ]
+            },
+            {
+                  "name": "Pilot Baba Ashram",
+                  "text": "Pilot Baba Ashram is an attraction found in Suryabinayak.",
+                  "category": "landmark",
+                  "coords": [
+                        85.422529,
+                        27.640523
+                  ]
+            },
+            {
+                  "name": "Shilu Mahadev (Fasidega)",
+                  "text": "Shilu Mahadev (Fasidega) is a place of worship located in Suryabinayak.",
+                  "category": "religious",
+                  "coords": [
+                        85.428908,
+                        27.672409
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.42, 27.65],
@@ -397,7 +1081,268 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/chandragiri-cities-v2.webp"},
   {
-    id: "tokha-cities-v2",
+    id: "tokha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Aquarium World",
+                  "text": "The Aquarium World ist ein lokales Aquarium in Tokha.",
+                  "category": "recreational",
+                  "coords": [
+                        85.335544,
+                        27.747153
+                  ]
+            },
+            {
+                  "name": "Narayan Gopal Chowk",
+                  "text": "Narayan Gopal Chowk ist ein bemerkenswertes Denkmal in Tokha.",
+                  "category": "historical",
+                  "coords": [
+                        85.33707,
+                        27.740023
+                  ]
+            },
+            {
+                  "name": "Er. Abeey Poudel Flat",
+                  "text": "Er. Abhiyan Poudel Flat ist eine Attraktion in Tokha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.339763,
+                        27.749295
+                  ]
+            },
+            {
+                  "name": "Manamaiju Ajima Mai Temple",
+                  "text": "Manamaiju Ajima Mai Temple ist eine religiöse Attraktion in Tokha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.31214,
+                        27.752077
+                  ]
+            },
+            {
+                  "name": "Destination Art Gallery",
+                  "text": "Destination Art Gallery ist eine Kunstgalerie in Tokha.",
+                  "category": "museum",
+                  "coords": [
+                        85.328886,
+                        27.786863
+                  ]
+            },
+            {
+                  "name": "Johan Arts",
+                  "text": "Johan Arts ist ein Kunstzentrum in der Stadt Tokha.",
+                  "category": "cultural",
+                  "coords": [
+                        85.321953,
+                        27.742066
+                  ]
+            },
+            {
+                  "name": "Decoration and Fine Art Gallery",
+                  "text": "Decoration and Fine Art Gallery ist eine Galerie in Tokha.",
+                  "category": "museum",
+                  "coords": [
+                        85.315746,
+                        27.748946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Aquarium World",
+                  "text": "A The Aquarium World egy helyi akvárium Tokha városában.",
+                  "category": "recreational",
+                  "coords": [
+                        85.335544,
+                        27.747153
+                  ]
+            },
+            {
+                  "name": "Narayan Gopal Chowk",
+                  "text": "A Narayan Gopal Chowk egy figyelemre méltó emlékmű Tokha városában.",
+                  "category": "historical",
+                  "coords": [
+                        85.33707,
+                        27.740023
+                  ]
+            },
+            {
+                  "name": "Er. Abeey Poudel Flat",
+                  "text": "Az Er. Abhiyan Poudel Flat egy látványosság Tokha városában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.339763,
+                        27.749295
+                  ]
+            },
+            {
+                  "name": "Manamaiju Ajima Mai Temple",
+                  "text": "A Manamaiju Ajima Mai Temple egy vallási látványosság Tokha városában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.31214,
+                        27.752077
+                  ]
+            },
+            {
+                  "name": "Destination Art Gallery",
+                  "text": "A Destination Art Gallery egy művészeti galéria Tokha városában.",
+                  "category": "museum",
+                  "coords": [
+                        85.328886,
+                        27.786863
+                  ]
+            },
+            {
+                  "name": "Johan Arts",
+                  "text": "A Johan Arts egy művészeti központ Tokha városában.",
+                  "category": "cultural",
+                  "coords": [
+                        85.321953,
+                        27.742066
+                  ]
+            },
+            {
+                  "name": "Decoration and Fine Art Gallery",
+                  "text": "A Decoration and Fine Art Gallery egy galéria Tokha városában.",
+                  "category": "museum",
+                  "coords": [
+                        85.315746,
+                        27.748946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Aquarium World",
+                  "text": "The Aquarium World este un acvariu local situat în Tokha.",
+                  "category": "recreational",
+                  "coords": [
+                        85.335544,
+                        27.747153
+                  ]
+            },
+            {
+                  "name": "Narayan Gopal Chowk",
+                  "text": "Narayan Gopal Chowk este un monument notabil situat în Tokha.",
+                  "category": "historical",
+                  "coords": [
+                        85.33707,
+                        27.740023
+                  ]
+            },
+            {
+                  "name": "Er. Abeey Poudel Flat",
+                  "text": "Er. Abhiyan Poudel Flat este o atracție aflată în Tokha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.339763,
+                        27.749295
+                  ]
+            },
+            {
+                  "name": "Manamaiju Ajima Mai Temple",
+                  "text": "Manamaiju Ajima Mai Temple este o atracție religioasă situată în Tokha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.31214,
+                        27.752077
+                  ]
+            },
+            {
+                  "name": "Destination Art Gallery",
+                  "text": "Destination Art Gallery este o galerie de artă situată în Tokha.",
+                  "category": "museum",
+                  "coords": [
+                        85.328886,
+                        27.786863
+                  ]
+            },
+            {
+                  "name": "Johan Arts",
+                  "text": "Johan Arts este un centru de arte aflat în orașul Tokha.",
+                  "category": "cultural",
+                  "coords": [
+                        85.321953,
+                        27.742066
+                  ]
+            },
+            {
+                  "name": "Decoration and Fine Art Gallery",
+                  "text": "Decoration and Fine Art Gallery este o galerie situată în Tokha.",
+                  "category": "museum",
+                  "coords": [
+                        85.315746,
+                        27.748946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Aquarium World",
+                  "text": "The Aquarium World is a local aquarium situated in Tokha.",
+                  "category": "recreational",
+                  "coords": [
+                        85.335544,
+                        27.747153
+                  ]
+            },
+            {
+                  "name": "Narayan Gopal Chowk",
+                  "text": "Narayan Gopal Chowk is a notable monument located in Tokha.",
+                  "category": "historical",
+                  "coords": [
+                        85.33707,
+                        27.740023
+                  ]
+            },
+            {
+                  "name": "Er. Abhiyan Poudel Flat",
+                  "text": "Er. Abhiyan Poudel Flat is an attraction found in Tokha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.339763,
+                        27.749295
+                  ]
+            },
+            {
+                  "name": "Manamaiju Ajima Mai Temple",
+                  "text": "Manamaiju Ajima Mai Temple is a religious attraction situated in Tokha.",
+                  "category": "landmark",
+                  "coords": [
+                        85.31214,
+                        27.752077
+                  ]
+            },
+            {
+                  "name": "Destination Art Gallery",
+                  "text": "Destination Art Gallery is an art gallery situated in Tokha.",
+                  "category": "museum",
+                  "coords": [
+                        85.328886,
+                        27.786863
+                  ]
+            },
+            {
+                  "name": "Johan Arts",
+                  "text": "Johan Arts is an arts centre found in the city of Tokha.",
+                  "category": "cultural",
+                  "coords": [
+                        85.321953,
+                        27.742066
+                  ]
+            },
+            {
+                  "name": "Decoration and Fine Art Gallery",
+                  "text": "Decoration and Fine Art Gallery is a gallery located in Tokha.",
+                  "category": "museum",
+                  "coords": [
+                        85.315746,
+                        27.748946
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.33, 27.76],
@@ -450,7 +1395,124 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/tokha-cities-v2.webp"},
   {
-    id: "kageshwari-manohara-cities-v2",
+    id: "kageshwari-manohara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Changu Museum",
+                  "text": "Das Changu Museum ist ein Museum in Kageshwari-Manohara.",
+                  "category": "museum",
+                  "coords": [
+                        85.429241,
+                        27.716517
+                  ]
+            },
+            {
+                  "name": "Changu Narayan Temple",
+                  "text": "Der Changu Narayan Temple ist ein berühmtes historisches Denkmal in Kageshwari-Manohara.",
+                  "category": "historical",
+                  "coords": [
+                        85.427897,
+                        27.716347
+                  ]
+            },
+            {
+                  "name": "Gam Dhoka Park",
+                  "text": "Der Gam Dhoka Park ist ein Aussichtspunkt in Kageshwari-Manohara.",
+                  "category": "natural",
+                  "coords": [
+                        85.426139,
+                        27.717063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Changu Museum",
+                  "text": "A Changu Museum egy múzeum Kageshwari-Manohara városában.",
+                  "category": "museum",
+                  "coords": [
+                        85.429241,
+                        27.716517
+                  ]
+            },
+            {
+                  "name": "Changu Narayan Temple",
+                  "text": "A Changu Narayan Temple egy híres történelmi műemlék Kageshwari-Manohara területén.",
+                  "category": "historical",
+                  "coords": [
+                        85.427897,
+                        27.716347
+                  ]
+            },
+            {
+                  "name": "Gam Dhoka Park",
+                  "text": "A Gam Dhoka Park egy kilátópont Kageshwari-Manohara területén.",
+                  "category": "natural",
+                  "coords": [
+                        85.426139,
+                        27.717063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Changu Museum",
+                  "text": "Changu Museum este un muzeu situat în Kageshwari-Manohara.",
+                  "category": "museum",
+                  "coords": [
+                        85.429241,
+                        27.716517
+                  ]
+            },
+            {
+                  "name": "Changu Narayan Temple",
+                  "text": "Changu Narayan Temple este un renumit monument istoric din Kageshwari-Manohara.",
+                  "category": "historical",
+                  "coords": [
+                        85.427897,
+                        27.716347
+                  ]
+            },
+            {
+                  "name": "Gam Dhoka Park",
+                  "text": "Gam Dhoka Park este un punct de belvedere situat în Kageshwari-Manohara.",
+                  "category": "natural",
+                  "coords": [
+                        85.426139,
+                        27.717063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Changu Museum",
+                  "text": "The Changu Museum is a museum situated in Kageshwari-Manohara.",
+                  "category": "museum",
+                  "coords": [
+                        85.429241,
+                        27.716517
+                  ]
+            },
+            {
+                  "name": "Changu Narayan Temple",
+                  "text": "The Changu Narayan Temple is a famous historical monument in Kageshwari-Manohara.",
+                  "category": "historical",
+                  "coords": [
+                        85.427897,
+                        27.716347
+                  ]
+            },
+            {
+                  "name": "Gam Dhoka Park",
+                  "text": "Gam Dhoka Park is a viewpoint situated in Kageshwari-Manohara.",
+                  "category": "natural",
+                  "coords": [
+                        85.426139,
+                        27.717063
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.41, 27.71],
@@ -609,7 +1671,664 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/mahalaxmi-cities-v2.webp"},
   {
-    id: "madhyapur-thimi-cities-v2",
+    id: "madhyapur-thimi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kausaltar Aquarium House",
+                  "text": "Kausaltar Aquarium House ist ein Aquarium in Madhyapur Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.365199,
+                        27.674145
+                  ]
+            },
+            {
+                  "name": "Xemadevi Light House Pvt.Ltd",
+                  "text": "Das Xemadevi Light House Pvt.Ltd ist ein Leuchtturm in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363454,
+                        27.674852
+                  ]
+            },
+            {
+                  "name": "PROPOSED SITE",
+                  "text": "Ein geplanter Strandabschnitt in Madhyapur Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.378142,
+                        27.680387
+                  ]
+            },
+            {
+                  "name": "Namuna Park",
+                  "text": "Ein Freizeitpark in der Stadt Madhyapur Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.363913,
+                        27.688741
+                  ]
+            },
+            {
+                  "name": "शंखधर शाख्वा",
+                  "text": "Ein Denkmal, das Shankhadar Shakwa in Madhyapur Thimi gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        85.385278,
+                        27.673487
+                  ]
+            },
+            {
+                  "name": "Rames",
+                  "text": "Ein malerischer Aussichtspunkt in Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.387072,
+                        27.674967
+                  ]
+            },
+            {
+                  "name": "Barudkhana",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Umgebung in Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.410312,
+                        27.682569
+                  ]
+            },
+            {
+                  "name": "Shakhal Basti",
+                  "text": "Ein Aussichtspunkt in Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.407476,
+                        27.678179
+                  ]
+            },
+            {
+                  "name": "Dandipakha",
+                  "text": "Ein lokaler Aussichtspunkt in der Stadt Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.408941,
+                        27.682023
+                  ]
+            },
+            {
+                  "name": "विद्यागणेश",
+                  "text": "Ein lokales Denkmal in Madhyapur Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.386511,
+                        27.681793
+                  ]
+            },
+            {
+                  "name": "Gankhu dharamapur dol",
+                  "text": "Eine lokale Sehenswürdigkeit in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.394766,
+                        27.68612
+                  ]
+            },
+            {
+                  "name": "Shree Krishna Rice Mill",
+                  "text": "Eine Mühlenattraktion in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.390755,
+                        27.682191
+                  ]
+            },
+            {
+                  "name": "Balkumari Temple",
+                  "text": "Eine bemerkenswerte Tempelattraktion in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385314,
+                        27.675947
+                  ]
+            },
+            {
+                  "name": "Dhungedhara",
+                  "text": "Eine traditionelle Wasserspeier-Attraktion in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385027,
+                        27.674715
+                  ]
+            },
+            {
+                  "name": "Siwa Tole",
+                  "text": "Eine Touristenattraktion in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.386721,
+                        27.677749
+                  ]
+            },
+            {
+                  "name": "Nigu Pukhu",
+                  "text": "Ein traditioneller Teich und eine Sehenswürdigkeit in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385638,
+                        27.678356
+                  ]
+            },
+            {
+                  "name": "Dil Ceramics",
+                  "text": "Ein Kunstzentrum für Keramik in Madhyapur Thimi.",
+                  "category": "cultural",
+                  "coords": [
+                        85.391802,
+                        27.68188
+                  ]
+            },
+            {
+                  "name": "Birendra Chwok",
+                  "text": "Ein lokales Denkmal in Madhyapur Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.373972,
+                        27.698721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kausaltar Aquarium House",
+                  "text": "A Kausaltar Aquarium House egy akvárium Madhyapur Thimiben.",
+                  "category": "recreational",
+                  "coords": [
+                        85.365199,
+                        27.674145
+                  ]
+            },
+            {
+                  "name": "Xemadevi Light House Pvt.Ltd",
+                  "text": "A Xemadevi Light House Pvt.Ltd egy világítótorony Madhyapur Thimiben.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363454,
+                        27.674852
+                  ]
+            },
+            {
+                  "name": "PROPOSED SITE",
+                  "text": "Egy tervezett strand helyszíne Madhyapur Thimi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        85.378142,
+                        27.680387
+                  ]
+            },
+            {
+                  "name": "Namuna Park",
+                  "text": "Egy vidámpark Madhyapur Thimi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        85.363913,
+                        27.688741
+                  ]
+            },
+            {
+                  "name": "शंखधर शाख्वा",
+                  "text": "Shankhadar Shakwa emlékműve Madhyapur Thimi városában.",
+                  "category": "historical",
+                  "coords": [
+                        85.385278,
+                        27.673487
+                  ]
+            },
+            {
+                  "name": "Rames",
+                  "text": "Egy festői kilátó Madhyapur Thimi városában.",
+                  "category": "natural",
+                  "coords": [
+                        85.387072,
+                        27.674967
+                  ]
+            },
+            {
+                  "name": "Barudkhana",
+                  "text": "Egy helyi látnivalókat kínáló kilátó Madhyapur Thimi városában.",
+                  "category": "natural",
+                  "coords": [
+                        85.410312,
+                        27.682569
+                  ]
+            },
+            {
+                  "name": "Shakhal Basti",
+                  "text": "Egy kilátópont Madhyapur Thimi területén.",
+                  "category": "natural",
+                  "coords": [
+                        85.407476,
+                        27.678179
+                  ]
+            },
+            {
+                  "name": "Dandipakha",
+                  "text": "Egy helyi kilátó Madhyapur Thimi városában.",
+                  "category": "natural",
+                  "coords": [
+                        85.408941,
+                        27.682023
+                  ]
+            },
+            {
+                  "name": "विद्यागणेश",
+                  "text": "Egy helyi emlékmű Madhyapur Thimi városában.",
+                  "category": "historical",
+                  "coords": [
+                        85.386511,
+                        27.681793
+                  ]
+            },
+            {
+                  "name": "Gankhu dharamapur dol",
+                  "text": "Egy helyi látványosság Madhyapur Thimi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.394766,
+                        27.68612
+                  ]
+            },
+            {
+                  "name": "Shree Krishna Rice Mill",
+                  "text": "Egy malom látványosság Madhyapur Thimi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.390755,
+                        27.682191
+                  ]
+            },
+            {
+                  "name": "Balkumari Temple",
+                  "text": "Egy figyelemre méltó templom Madhyapur Thimi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385314,
+                        27.675947
+                  ]
+            },
+            {
+                  "name": "Dhungedhara",
+                  "text": "Egy hagyományos vízköpő látványosság Madhyapur Thimi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385027,
+                        27.674715
+                  ]
+            },
+            {
+                  "name": "Siwa Tole",
+                  "text": "Egy turisztikai látványosság Madhyapur Thimi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.386721,
+                        27.677749
+                  ]
+            },
+            {
+                  "name": "Nigu Pukhu",
+                  "text": "Egy hagyományos tó és látványosság Madhyapur Thimi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385638,
+                        27.678356
+                  ]
+            },
+            {
+                  "name": "Dil Ceramics",
+                  "text": "Egy kerámiával foglalkozó művészeti központ Madhyapur Thimi városában.",
+                  "category": "cultural",
+                  "coords": [
+                        85.391802,
+                        27.68188
+                  ]
+            },
+            {
+                  "name": "Birendra Chwok",
+                  "text": "Egy helyi emlékmű Madhyapur Thimi városában.",
+                  "category": "historical",
+                  "coords": [
+                        85.373972,
+                        27.698721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kausaltar Aquarium House",
+                  "text": "Kausaltar Aquarium House este un acvariu situat în Madhyapur Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.365199,
+                        27.674145
+                  ]
+            },
+            {
+                  "name": "Xemadevi Light House Pvt.Ltd",
+                  "text": "Xemadevi Light House Pvt.Ltd este un far din Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363454,
+                        27.674852
+                  ]
+            },
+            {
+                  "name": "PROPOSED SITE",
+                  "text": "Un loc propus pentru plajă, situat în Madhyapur Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.378142,
+                        27.680387
+                  ]
+            },
+            {
+                  "name": "Namuna Park",
+                  "text": "Un parc de distracții situat în orașul Madhyapur Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.363913,
+                        27.688741
+                  ]
+            },
+            {
+                  "name": "शंखधर शाख्वा",
+                  "text": "Un monument dedicat lui Shankhadar Shakwa în Madhyapur Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.385278,
+                        27.673487
+                  ]
+            },
+            {
+                  "name": "Rames",
+                  "text": "Un punct de belvedere pitoresc situat în Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.387072,
+                        27.674967
+                  ]
+            },
+            {
+                  "name": "Barudkhana",
+                  "text": "Un punct de belvedere care oferă priveliști locale în Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.410312,
+                        27.682569
+                  ]
+            },
+            {
+                  "name": "Shakhal Basti",
+                  "text": "O zonă de belvedere situată în Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.407476,
+                        27.678179
+                  ]
+            },
+            {
+                  "name": "Dandipakha",
+                  "text": "Un punct de belvedere local situat în orașul Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.408941,
+                        27.682023
+                  ]
+            },
+            {
+                  "name": "विद्यागणेश",
+                  "text": "Un monument local situat în Madhyapur Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.386511,
+                        27.681793
+                  ]
+            },
+            {
+                  "name": "Gankhu dharamapur dol",
+                  "text": "O atracție locală situată în Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.394766,
+                        27.68612
+                  ]
+            },
+            {
+                  "name": "Shree Krishna Rice Mill",
+                  "text": "O atracție de tip moară situată în Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.390755,
+                        27.682191
+                  ]
+            },
+            {
+                  "name": "Balkumari Temple",
+                  "text": "Un templu notabil situat în Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385314,
+                        27.675947
+                  ]
+            },
+            {
+                  "name": "Dhungedhara",
+                  "text": "O atracție tradițională cu jet de apă în Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385027,
+                        27.674715
+                  ]
+            },
+            {
+                  "name": "Siwa Tole",
+                  "text": "O atracție turistică situată în Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.386721,
+                        27.677749
+                  ]
+            },
+            {
+                  "name": "Nigu Pukhu",
+                  "text": "Un iaz tradițional și o atracție în Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385638,
+                        27.678356
+                  ]
+            },
+            {
+                  "name": "Dil Ceramics",
+                  "text": "Un centru de arte axat pe ceramică în Madhyapur Thimi.",
+                  "category": "cultural",
+                  "coords": [
+                        85.391802,
+                        27.68188
+                  ]
+            },
+            {
+                  "name": "Birendra Chwok",
+                  "text": "Un monument local situat în Madhyapur Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.373972,
+                        27.698721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kausaltar Aquarium House",
+                  "text": "Kausaltar Aquarium House is an aquarium located in Madhyapur Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.365199,
+                        27.674145
+                  ]
+            },
+            {
+                  "name": "Xemadevi Light House Pvt.Ltd",
+                  "text": "Xemadevi Light House Pvt.Ltd is a lighthouse in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.363454,
+                        27.674852
+                  ]
+            },
+            {
+                  "name": "PROPOSED SITE",
+                  "text": "A proposed beach site located in Madhyapur Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.378142,
+                        27.680387
+                  ]
+            },
+            {
+                  "name": "Namuna Park",
+                  "text": "A theme park located in the city of Madhyapur Thimi.",
+                  "category": "recreational",
+                  "coords": [
+                        85.363913,
+                        27.688741
+                  ]
+            },
+            {
+                  "name": "Shankhadar Shakwa statue",
+                  "text": "A monument dedicated to Shankhadar Shakwa in Madhyapur Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.385278,
+                        27.673487
+                  ]
+            },
+            {
+                  "name": "Rames",
+                  "text": "A scenic viewpoint situated in Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.387072,
+                        27.674967
+                  ]
+            },
+            {
+                  "name": "Barudkhana",
+                  "text": "A viewpoint offering local sights in Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.410312,
+                        27.682569
+                  ]
+            },
+            {
+                  "name": "Shakhal Basti",
+                  "text": "A viewpoint area located in Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.407476,
+                        27.678179
+                  ]
+            },
+            {
+                  "name": "Dandipakha",
+                  "text": "A local viewpoint situated in the city of Madhyapur Thimi.",
+                  "category": "natural",
+                  "coords": [
+                        85.408941,
+                        27.682023
+                  ]
+            },
+            {
+                  "name": "Vidhyaganesh",
+                  "text": "A local monument situated in Madhyapur Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.386511,
+                        27.681793
+                  ]
+            },
+            {
+                  "name": "Gankhu dharamapur dol",
+                  "text": "A local attraction located in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.394766,
+                        27.68612
+                  ]
+            },
+            {
+                  "name": "Shree Krishna Rice Mill",
+                  "text": "A mill attraction situated in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.390755,
+                        27.682191
+                  ]
+            },
+            {
+                  "name": "Balkumari Temple",
+                  "text": "A notable temple attraction located in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385314,
+                        27.675947
+                  ]
+            },
+            {
+                  "name": "Dhungedhara",
+                  "text": "A traditional water spout attraction in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385027,
+                        27.674715
+                  ]
+            },
+            {
+                  "name": "Siwa Tole",
+                  "text": "A tourist attraction situated in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.386721,
+                        27.677749
+                  ]
+            },
+            {
+                  "name": "Nigu Pukhu",
+                  "text": "A traditional pond and attraction in Madhyapur Thimi.",
+                  "category": "landmark",
+                  "coords": [
+                        85.385638,
+                        27.678356
+                  ]
+            },
+            {
+                  "name": "Dil Ceramics",
+                  "text": "An arts centre focused on ceramics in Madhyapur Thimi.",
+                  "category": "cultural",
+                  "coords": [
+                        85.391802,
+                        27.68188
+                  ]
+            },
+            {
+                  "name": "Birendra Chwok",
+                  "text": "A local monument situated in Madhyapur Thimi.",
+                  "category": "historical",
+                  "coords": [
+                        85.373972,
+                        27.698721
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.38, 27.68],
@@ -709,7 +2428,124 @@ export const poiExtraNepalCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/jitpursimara-cities-v2.webp"},
   {
-    id: "birtamod-cities-v2",
+    id: "birtamod-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heaven Water Park",
+                  "text": "Heaven Water Park ist ein Wasserpark in Birtamod.",
+                  "category": "recreational",
+                  "coords": [
+                        87.971172,
+                        26.625254
+                  ]
+            },
+            {
+                  "name": "मुक्ति चोक",
+                  "text": "Mukti Chowk ist ein markantes Denkmal in Birtamod.",
+                  "category": "historical",
+                  "coords": [
+                        87.991907,
+                        26.643063
+                  ]
+            },
+            {
+                  "name": "Pal creations",
+                  "text": "Pal creations ist eine Galerie in der Stadt Birtamod.",
+                  "category": "museum",
+                  "coords": [
+                        87.988342,
+                        26.638748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heaven Water Park",
+                  "text": "A Heaven Water Park egy élményfürdő Birtamod városában.",
+                  "category": "recreational",
+                  "coords": [
+                        87.971172,
+                        26.625254
+                  ]
+            },
+            {
+                  "name": "मुक्ति चोक",
+                  "text": "A Mukti Chowk egy kiemelkedő emlékmű Birtamod városában.",
+                  "category": "historical",
+                  "coords": [
+                        87.991907,
+                        26.643063
+                  ]
+            },
+            {
+                  "name": "Pal creations",
+                  "text": "A Pal creations egy galéria Birtamod városában.",
+                  "category": "museum",
+                  "coords": [
+                        87.988342,
+                        26.638748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heaven Water Park",
+                  "text": "Heaven Water Park este un parc acvatic situat în Birtamod.",
+                  "category": "recreational",
+                  "coords": [
+                        87.971172,
+                        26.625254
+                  ]
+            },
+            {
+                  "name": "मुक्ति चोक",
+                  "text": "Mukti Chowk este un monument proeminent situat în Birtamod.",
+                  "category": "historical",
+                  "coords": [
+                        87.991907,
+                        26.643063
+                  ]
+            },
+            {
+                  "name": "Pal creations",
+                  "text": "Pal creations este o galerie situată în orașul Birtamod.",
+                  "category": "museum",
+                  "coords": [
+                        87.988342,
+                        26.638748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heaven Water Park",
+                  "text": "Heaven Water Park is an aquatic amusement park located in Birtamod.",
+                  "category": "recreational",
+                  "coords": [
+                        87.971172,
+                        26.625254
+                  ]
+            },
+            {
+                  "name": "Mukti Chowk",
+                  "text": "Mukti Chowk is a prominent monument situated in Birtamod.",
+                  "category": "historical",
+                  "coords": [
+                        87.991907,
+                        26.643063
+                  ]
+            },
+            {
+                  "name": "Pal creations",
+                  "text": "Pal creations is a gallery located in the city of Birtamod.",
+                  "category": "museum",
+                  "coords": [
+                        87.988342,
+                        26.638748
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P1",
     coords: [87.98, 26.63],
@@ -1097,7 +2933,52 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "rajbiraj-cities-v2",
+    id: "rajbiraj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rajput House",
+                  "text": "Historisches Herrenhaus in Rajbiraj.",
+                  "category": "historical",
+                  "coords": [
+                        86.741583,
+                        26.544523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rajput House",
+                  "text": "Történelmi kúria Rajbirajban.",
+                  "category": "historical",
+                  "coords": [
+                        86.741583,
+                        26.544523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rajput House",
+                  "text": "Conac istoric în Rajbiraj.",
+                  "category": "historical",
+                  "coords": [
+                        86.741583,
+                        26.544523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rajput House",
+                  "text": "Historic manor in Rajbiraj.",
+                  "category": "historical",
+                  "coords": [
+                        86.741583,
+                        26.544523
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P2",
     coords: [86.75, 26.54],
@@ -1193,7 +3074,52 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "bhadrapur-cities-v2",
+    id: "bhadrapur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gautam's House ",
+                  "text": "Eine lokale Sehenswürdigkeit in der Stadt Bhadrapur.",
+                  "category": "landmark",
+                  "coords": [
+                        88.079186,
+                        26.563583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gautam's House ",
+                  "text": "Egy helyi látványosság Bhadrapur városában.",
+                  "category": "landmark",
+                  "coords": [
+                        88.079186,
+                        26.563583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gautam's House ",
+                  "text": "O atracție locală situată în orașul Bhadrapur.",
+                  "category": "landmark",
+                  "coords": [
+                        88.079186,
+                        26.563583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gautam's House ",
+                  "text": "A local attraction situated in the city of Bhadrapur.",
+                  "category": "landmark",
+                  "coords": [
+                        88.079186,
+                        26.563583
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P1",
     coords: [88.09, 26.54],
@@ -1241,7 +3167,268 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "banepa-cities-v2",
+    id: "banepa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ura Dance Music Theater",
+                  "text": "Theater für traditionelle Tanzmusik in Banepa.",
+                  "category": "cultural",
+                  "coords": [
+                        85.524444,
+                        27.630987
+                  ]
+            },
+            {
+                  "name": "Chandeshwori view-tower",
+                  "text": "Aussichtspunkt in Banepa mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        85.540402,
+                        27.633961
+                  ]
+            },
+            {
+                  "name": "Kobha Pukhu",
+                  "text": "Denkmal in Banepa.",
+                  "category": "historical",
+                  "coords": [
+                        85.521965,
+                        27.6313
+                  ]
+            },
+            {
+                  "name": "Chandika house",
+                  "text": "Aussichtspunkt am Chandika-Haus in Banepa.",
+                  "category": "natural",
+                  "coords": [
+                        85.520743,
+                        27.628242
+                  ]
+            },
+            {
+                  "name": "कृष्ण को घर",
+                  "text": "Lokale Sehenswürdigkeit in Banepa.",
+                  "category": "landmark",
+                  "coords": [
+                        85.535625,
+                        27.646638
+                  ]
+            },
+            {
+                  "name": "LHO HITI:",
+                  "text": "Historisches Denkmal in Banepa.",
+                  "category": "historical",
+                  "coords": [
+                        85.493307,
+                        27.63297
+                  ]
+            },
+            {
+                  "name": "Sanjivani Krishi farm",
+                  "text": "Landwirtschaftlicher Betrieb in Banepa.",
+                  "category": "landmark",
+                  "coords": [
+                        85.518957,
+                        27.645044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ura Dance Music Theater",
+                  "text": "Hagyományos tánczenei színház Banepában.",
+                  "category": "cultural",
+                  "coords": [
+                        85.524444,
+                        27.630987
+                  ]
+            },
+            {
+                  "name": "Chandeshwori view-tower",
+                  "text": "Kilátópont Banepában, kilátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        85.540402,
+                        27.633961
+                  ]
+            },
+            {
+                  "name": "Kobha Pukhu",
+                  "text": "Emlékmű Banepában.",
+                  "category": "historical",
+                  "coords": [
+                        85.521965,
+                        27.6313
+                  ]
+            },
+            {
+                  "name": "Chandika house",
+                  "text": "Kilátópont a Chandika-háznál Banepában.",
+                  "category": "natural",
+                  "coords": [
+                        85.520743,
+                        27.628242
+                  ]
+            },
+            {
+                  "name": "कृष्ण को घर",
+                  "text": "Helyi látnivaló Banepában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.535625,
+                        27.646638
+                  ]
+            },
+            {
+                  "name": "LHO HITI:",
+                  "text": "Történelmi emlékmű Banepában.",
+                  "category": "historical",
+                  "coords": [
+                        85.493307,
+                        27.63297
+                  ]
+            },
+            {
+                  "name": "Sanjivani Krishi farm",
+                  "text": "Mezőgazdasági farm Banepában.",
+                  "category": "landmark",
+                  "coords": [
+                        85.518957,
+                        27.645044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ura Dance Music Theater",
+                  "text": "Teatru pentru muzică și dans tradițional în Banepa.",
+                  "category": "cultural",
+                  "coords": [
+                        85.524444,
+                        27.630987
+                  ]
+            },
+            {
+                  "name": "Chandeshwori view-tower",
+                  "text": "Punct de belvedere în Banepa cu vedere asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        85.540402,
+                        27.633961
+                  ]
+            },
+            {
+                  "name": "Kobha Pukhu",
+                  "text": "Monument în Banepa.",
+                  "category": "historical",
+                  "coords": [
+                        85.521965,
+                        27.6313
+                  ]
+            },
+            {
+                  "name": "Chandika house",
+                  "text": "Punct de belvedere la casa Chandika în Banepa.",
+                  "category": "natural",
+                  "coords": [
+                        85.520743,
+                        27.628242
+                  ]
+            },
+            {
+                  "name": "कृष्ण को घर",
+                  "text": "Atracție locală în Banepa.",
+                  "category": "landmark",
+                  "coords": [
+                        85.535625,
+                        27.646638
+                  ]
+            },
+            {
+                  "name": "LHO HITI:",
+                  "text": "Monument istoric în Banepa.",
+                  "category": "historical",
+                  "coords": [
+                        85.493307,
+                        27.63297
+                  ]
+            },
+            {
+                  "name": "Sanjivani Krishi farm",
+                  "text": "Fermă agricolă în Banepa.",
+                  "category": "landmark",
+                  "coords": [
+                        85.518957,
+                        27.645044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ura Dance Music Theater",
+                  "text": "Theater for traditional dance music in Banepa.",
+                  "category": "cultural",
+                  "coords": [
+                        85.524444,
+                        27.630987
+                  ]
+            },
+            {
+                  "name": "Gosainsthan View Point",
+                  "text": "Viewpoint in Banepa overlooking the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        85.540402,
+                        27.633961
+                  ]
+            },
+            {
+                  "name": "Dwakha Pukhu",
+                  "text": "Monument in Banepa.",
+                  "category": "historical",
+                  "coords": [
+                        85.521965,
+                        27.6313
+                  ]
+            },
+            {
+                  "name": "Chandika house",
+                  "text": "Viewpoint at the Chandika house in Banepa.",
+                  "category": "natural",
+                  "coords": [
+                        85.520743,
+                        27.628242
+                  ]
+            },
+            {
+                  "name": "Krishna's home",
+                  "text": "Local attraction in Banepa.",
+                  "category": "landmark",
+                  "coords": [
+                        85.535625,
+                        27.646638
+                  ]
+            },
+            {
+                  "name": "LHO HITI:",
+                  "text": "Historic monument in Banepa.",
+                  "category": "historical",
+                  "coords": [
+                        85.493307,
+                        27.63297
+                  ]
+            },
+            {
+                  "name": "Sanjivani Krishi farm",
+                  "text": "Agricultural farm in Banepa.",
+                  "category": "landmark",
+                  "coords": [
+                        85.518957,
+                        27.645044
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P3",
     coords: [85.52, 27.63],
@@ -1289,7 +3476,52 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "baglung-cities-v2",
+    id: "baglung-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baglung Kalika Temple Viewpoint",
+                  "text": "Baglung Kalika Temple Viewpoint bietet malerische Ausblicke in Baglung.",
+                  "category": "natural",
+                  "coords": [
+                        83.615482,
+                        28.254329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baglung Kalika Temple Viewpoint",
+                  "text": "A Baglung Kalika Temple Viewpoint festői kilátást kínál Baglung városában.",
+                  "category": "natural",
+                  "coords": [
+                        83.615482,
+                        28.254329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baglung Kalika Temple Viewpoint",
+                  "text": "Baglung Kalika Temple Viewpoint oferă vederi pitorești în Baglung.",
+                  "category": "natural",
+                  "coords": [
+                        83.615482,
+                        28.254329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baglung Kalika Temple Viewpoint",
+                  "text": "Baglung Kalika Temple Viewpoint offers scenic views in Baglung.",
+                  "category": "natural",
+                  "coords": [
+                        83.615482,
+                        28.254329
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P4",
     coords: [83.60, 28.27],
@@ -1337,7 +3569,160 @@ export const poiExtraNepalCitiesV2: POI[] = [
     },
   },
   {
-    id: "waling-cities-v2",
+    id: "waling-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bhumre Shiva Mandir",
+                  "text": "Eine Hindu-Tempel-Attraktion in Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.750715,
+                        27.979612
+                  ]
+            },
+            {
+                  "name": "Pandethok View Point, Tower",
+                  "text": "Ein Turm mit malerischer Aussicht über Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.798043,
+                        27.983495
+                  ]
+            },
+            {
+                  "name": "Thamko Chaur Tourist Area",
+                  "text": "Ein ausgewiesenes Touristengebiet in Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.780694,
+                        27.984965
+                  ]
+            },
+            {
+                  "name": "Bahunthan Tourist Area",
+                  "text": "Ein Attraktionsgebiet in der Stadt Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.745532,
+                        27.989746
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bhumre Shiva Mandir",
+                  "text": "Egy hindu templom látványosság Waling városában.",
+                  "category": "landmark",
+                  "coords": [
+                        83.750715,
+                        27.979612
+                  ]
+            },
+            {
+                  "name": "Pandethok View Point, Tower",
+                  "text": "Egy kilátótorony, amely festői kilátást nyújt Walingra.",
+                  "category": "landmark",
+                  "coords": [
+                        83.798043,
+                        27.983495
+                  ]
+            },
+            {
+                  "name": "Thamko Chaur Tourist Area",
+                  "text": "Egy kijelölt turisztikai terület Waling városában.",
+                  "category": "landmark",
+                  "coords": [
+                        83.780694,
+                        27.984965
+                  ]
+            },
+            {
+                  "name": "Bahunthan Tourist Area",
+                  "text": "Egy turisztikai látványosság Waling városában.",
+                  "category": "landmark",
+                  "coords": [
+                        83.745532,
+                        27.989746
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bhumre Shiva Mandir",
+                  "text": "Un templu hindus situat în Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.750715,
+                        27.979612
+                  ]
+            },
+            {
+                  "name": "Pandethok View Point, Tower",
+                  "text": "Un turn care oferă priveliști pitorești asupra orașului Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.798043,
+                        27.983495
+                  ]
+            },
+            {
+                  "name": "Thamko Chaur Tourist Area",
+                  "text": "O zonă turistică desemnată situată în Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.780694,
+                        27.984965
+                  ]
+            },
+            {
+                  "name": "Bahunthan Tourist Area",
+                  "text": "O zonă de atracție situată în orașul Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.745532,
+                        27.989746
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shiva mandir",
+                  "text": "A Hindu temple attraction located in Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.750715,
+                        27.979612
+                  ]
+            },
+            {
+                  "name": "Pandethok View Point, Tower",
+                  "text": "A tower offering scenic views over Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.798043,
+                        27.983495
+                  ]
+            },
+            {
+                  "name": "Thamko Chaur Tourist Area",
+                  "text": "A designated tourist area located in Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.780694,
+                        27.984965
+                  ]
+            },
+            {
+                  "name": "Bahunthan Tourist Area",
+                  "text": "An attraction area situated in the city of Waling.",
+                  "category": "landmark",
+                  "coords": [
+                        83.745532,
+                        27.989746
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NP-P4",
     coords: [83.77, 27.98],

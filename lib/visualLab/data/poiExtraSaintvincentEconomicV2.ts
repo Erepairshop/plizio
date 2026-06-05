@@ -363,7 +363,52 @@ export const saintvincentEconomicV2: POI[] = [
     image: "/poi-images/saintvincent-kingstown-market-economic-v2.webp",
   },
   {
-    id: "saintvincent-barrouallie-fisheries-v2",
+    id: "saintvincent-barrouallie-fisheries-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pirates of the Caribbean Movie Set Location",
+                  "text": "Der Drehort des Films Pirates of the Caribbean ist eine Attraktion im Fischereizentrum Barrouallie.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.271276,
+                        13.246738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pirates of the Caribbean Movie Set Location",
+                  "text": "A Karib-tenger kalózai filmforgatási helyszín egy látványosság Fischereizentrum Barrouallie területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.271276,
+                        13.246738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pirates of the Caribbean Movie Set Location",
+                  "text": "Locația de filmare a filmului Pirații din Caraibe este o atracție situată în Fischereizentrum Barrouallie.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.271276,
+                        13.246738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pirates of the Caribbean Movie Set Location",
+                  "text": "The Pirates of the Caribbean Movie Set Location is an attraction situated in Fischereizentrum Barrouallie.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.271276,
+                        13.246738
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "village",
     name: { de: "Fischereizentrum Barrouallie", hu: "Barrouallie halászati központ", ro: "Centrul de Pescuit Barrouallie", en: "Barrouallie Fisheries Complex" },

@@ -3,7 +3,448 @@ import { POI } from './poi';
 export const saintluciaCitiesV2: POI[] = [
 
   {
-    id: "saintlucia-castries-cities-v2",
+    id: "saintlucia-castries-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Der Vigie-Leuchtturm ist eine funktionsfähige Navigationshilfe in Castries.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach ist ein beliebtes Sandstrandziel in Castries.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach ist ein Küstenerholungsgebiet in Castries.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "Das Morne Museum ist ein lokales Museum in Castries, das Artefakte und Geschichte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Das Folk Research Center in Castries fungiert als Museum, das sich dem kulturellen Erbe von St. Lucia widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach ist ein malerischer Strand in Castries.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Der Derek Walcott Square ist ein bedeutender öffentlicher Park und zentraler Platz in Castries.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Dieser Aussichtspunkt in Castries bietet einen malerischen Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Das Sir John Compton Monument ist eine Gedenkstätte in Castries.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Das Derick Walcott Building ist ein Denkmal in der Stadt Castries.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia ist eine lokale Sehenswürdigkeit in Castries.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park umfasst historische Ruinen in Castries.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "A Vigie világítótorony egy működő navigációs segédeszköz Castries-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "A Vigie Beach egy népszerű homokos strand Castries-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "A Choc Beach egy part menti rekreációs strand Castries-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "A Morne Múzeum egy helyi múzeum, amely műtárgyakat és a történelmet mutatja be Castries-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "A castriesi Néprajzi Kutatóközpont a Saint Lucia-i kulturális örökségnek szentelt múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "A Yellow Sands Beach egy festői strand Castries-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "A Derek Walcott Square egy kiemelkedő közpark és központi tér Castries-ben.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Ez a castriesi kilátó festői panorámát nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "A Sir John Compton-emlékmű egy emlékmű Castries-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "A Derick Walcott Building egy műemlék Castries városában.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "A Saint Lucia egy helyi látványosság Castriesban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "A Provost Park történelmi romokat foglal magába Castriesban.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Farul Vigie este un ajutor de navigație funcțional situat în Castries.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach este o destinație populară cu plajă de nisip din Castries.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach este o zonă de plajă de recreere de coastă situată în Castries.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "Muzeul Morne este un muzeu local care expune artefacte și istorie în Castries.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Centrul de Cercetare Folclorică din Castries acționează ca un muzeu dedicat patrimoniului cultural din Sfânta Lucia.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach este o destinație de plajă pitorească situată în Castries.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Piața Derek Walcott este un parc public proeminent și o piață centrală din Castries.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Acest punct de belvedere din Castries oferă panorame pitorești ale peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Monumentul Sir John Compton este o structură memorială situată în Castries.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Derick Walcott Building este un monument în orașul Castries.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia este o atracție locală în Castries.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park cuprinde ruine istorice din Castries.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "The Vigie Lighthouse is a functional navigational aid situated in Castries.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach is a popular sandy beach destination located in Castries.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach is a coastal recreational beach area located in Castries.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "The Morne Museum is a local museum exhibiting artifacts and history in Castries.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "The Folk Research Center in Castries acts as a museum dedicated to Saint Lucian cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach is a scenic beach destination situated in Castries.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square is a prominent public park and central square in Castries.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "This viewpoint in Castries offers scenic overviews of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "The Sir John Compton Monument is a memorial structure situated in Castries.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "The Derick Walcott Building is a monument in the city of Castries.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia is a local attraction located in Castries.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park features historical ruins located in Castries.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "capital",
     name: { de: "Castries", hu: "Castries", ro: "Castries", en: "Castries" },
@@ -48,7 +489,160 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-castries-cities-v2.webp",
   },
   {
-    id: "saintlucia-vieux-fort-cities-v2",
+    id: "saintlucia-vieux-fort-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moule-à-Chique",
+                  "text": "Moule-à-Chique ist ein Leuchtturm in Vieux Fort.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.941672,
+                        13.711128
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Mankote Beach ist ein Küstenerholungsgebiet in Vieux Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Maria Islands Nature Reserve",
+                  "text": "Das Naturschutzgebiet der Maria-Inseln ist ein geschütztes Naturgebiet in Vieux Fort.",
+                  "category": "natural",
+                  "coords": [
+                        -60.931429,
+                        13.72605
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "Das Independence Square Monument ist ein öffentliches Wahrzeichen in Vieux Fort.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moule-à-Chique",
+                  "text": "A Moule-à-Chique egy világítótorony Vieux Fortban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.941672,
+                        13.711128
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "A Mankote Beach egy tengerparti rekreációs terület Vieux Fortban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Maria Islands Nature Reserve",
+                  "text": "A Maria-szigetek Természetvédelmi Terület egy védett természeti övezet Vieux Fortban.",
+                  "category": "natural",
+                  "coords": [
+                        -60.931429,
+                        13.72605
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "A Függetlenség Tér Emlékmű egy köztéri tájékozódási pont Vieux Fortban.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moule-à-Chique",
+                  "text": "Moule-à-Chique este un far situat în Vieux Fort.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.941672,
+                        13.711128
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Mankote Beach este o zonă de agrement de coastă în Vieux Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Maria Islands Nature Reserve",
+                  "text": "Rezervația Naturală Maria Islands este o arie naturală protejată din Vieux Fort.",
+                  "category": "natural",
+                  "coords": [
+                        -60.931429,
+                        13.72605
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "Monumentul din Piața Independenței este un punct de reper public în Vieux Fort.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moule-à-Chique",
+                  "text": "Moule-à-Chique is a lighthouse situated in Vieux Fort.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.941672,
+                        13.711128
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Mankote Beach is a coastal recreational area in Vieux Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Maria Islands Nature Reserve",
+                  "text": "The Maria Islands Nature Reserve is a protected natural area in Vieux Fort.",
+                  "category": "natural",
+                  "coords": [
+                        -60.931429,
+                        13.72605
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "The Independence Square Monument is a public landmark in Vieux Fort.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "town",
     name: { de: "Vieux Fort", hu: "Vieux Fort", ro: "Vieux Fort", en: "Vieux Fort" },
@@ -93,7 +687,556 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-vieux-fort-cities-v2.webp",
   },
   {
-    id: "saintlucia-soufriere-cities-v2",
+    id: "saintlucia-soufriere-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anse Chastanet Beach",
+                  "text": "Der Anse Chastanet Beach ist ein Strand in Soufrière.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.077795,
+                        13.865286
+                  ]
+            },
+            {
+                  "name": "Soufrière Beach",
+                  "text": "Der Soufrière Beach ist ein Strand in der gleichnamigen Stadt Soufrière.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.062251,
+                        13.857694
+                  ]
+            },
+            {
+                  "name": "Malgretoute Beach",
+                  "text": "Der Malgretoute Beach ist ein Strand in Soufrière.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063415,
+                        13.842697
+                  ]
+            },
+            {
+                  "name": "Diamond Botanical Garden",
+                  "text": "Der Diamond Botanical Garden ist ein botanischer Garten in Soufrière.",
+                  "category": "park",
+                  "coords": [
+                        -61.049196,
+                        13.852832
+                  ]
+            },
+            {
+                  "name": "Petit Piton",
+                  "text": "Der Petit Piton ist einer der beiden markanten Vulkankegel in Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.064036,
+                        13.833906
+                  ]
+            },
+            {
+                  "name": "Sulphur Springs",
+                  "text": "Die Sulphur Springs sind geothermal aktive Quellen und eine beliebte Attraktion in Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.04647,
+                        13.838658
+                  ]
+            },
+            {
+                  "name": "Soufriere",
+                  "text": "Dieser Aussichtspunkt bietet einen Blick auf Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.061215,
+                        13.84841
+                  ]
+            },
+            {
+                  "name": "Soufriere Coconut Factory",
+                  "text": "Die Ruinen der Kokosnussfabrik befinden sich in Soufrière.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05586,
+                        13.858217
+                  ]
+            },
+            {
+                  "name": "Toraille Atv Park and Trail",
+                  "text": "Der Toraille Atv Park and Trail ist eine Freizeitattraktion in Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.036921,
+                        13.853591
+                  ]
+            },
+            {
+                  "name": "On pitons",
+                  "text": "Dieser Aussichtspunkt bietet Blicke auf die Pitons in Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.050601,
+                        13.865525
+                  ]
+            },
+            {
+                  "name": "Big Nature",
+                  "text": "Big Nature ist ein landschaftlicher Aussichtspunkt in Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.048865,
+                        13.834851
+                  ]
+            },
+            {
+                  "name": "Project Chocolate",
+                  "text": "Project Chocolate ist eine lokale Attraktion in Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.047526,
+                        13.833759
+                  ]
+            },
+            {
+                  "name": "UNESCO World Heritage",
+                  "text": "Dieser Punkt an der UNESCO-Welterbe-Plakette bietet Aussichten in Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.06011,
+                        13.845803
+                  ]
+            },
+            {
+                  "name": "Morne Coubaril Historical Adventure Park",
+                  "text": "Der Morne Coubaril Historical Adventure Park ist ein Abenteuerpark in Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.056706,
+                        13.847204
+                  ]
+            },
+            {
+                  "name": "The BEST VIEW OF  CARRIBEAN",
+                  "text": "Diese Attraktion in Soufrière ist für ihre malerischen Ausblicke bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.059411,
+                        13.830238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anse Chastanet Beach",
+                  "text": "Az Anse Chastanet Beach egy tengerpart Soufrière-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.077795,
+                        13.865286
+                  ]
+            },
+            {
+                  "name": "Soufrière Beach",
+                  "text": "A Soufrière Beach egy tengerpart a névadó Soufrière városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.062251,
+                        13.857694
+                  ]
+            },
+            {
+                  "name": "Malgretoute Beach",
+                  "text": "A Malgretoute Beach egy strand Soufrière-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063415,
+                        13.842697
+                  ]
+            },
+            {
+                  "name": "Diamond Botanical Garden",
+                  "text": "A Diamond Botanical Garden egy botanikus kert Soufrière-ben.",
+                  "category": "park",
+                  "coords": [
+                        -61.049196,
+                        13.852832
+                  ]
+            },
+            {
+                  "name": "Petit Piton",
+                  "text": "A Petit Piton egyike a két ikonikus vulkáni kúpnak Soufrière-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -61.064036,
+                        13.833906
+                  ]
+            },
+            {
+                  "name": "Sulphur Springs",
+                  "text": "A Sulphur Springs geotermikusan aktív források és népszerű látványosságok Soufrière-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.04647,
+                        13.838658
+                  ]
+            },
+            {
+                  "name": "Soufriere",
+                  "text": "Ez a kilátó Soufrière-re nyújt panorámát.",
+                  "category": "natural",
+                  "coords": [
+                        -61.061215,
+                        13.84841
+                  ]
+            },
+            {
+                  "name": "Soufriere Coconut Factory",
+                  "text": "A kókuszdiógyár romjai Soufrière-ben találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05586,
+                        13.858217
+                  ]
+            },
+            {
+                  "name": "Toraille Atv Park and Trail",
+                  "text": "A Toraille Atv Park and Trail egy szabadidős látványosság Soufrière-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.036921,
+                        13.853591
+                  ]
+            },
+            {
+                  "name": "On pitons",
+                  "text": "Ez a kilátópont a Soufrière-ben található Pitonokra nyújt rálátást.",
+                  "category": "natural",
+                  "coords": [
+                        -61.050601,
+                        13.865525
+                  ]
+            },
+            {
+                  "name": "Big Nature",
+                  "text": "A Big Nature egy festői kilátó Soufrière-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -61.048865,
+                        13.834851
+                  ]
+            },
+            {
+                  "name": "Project Chocolate",
+                  "text": "A Project Chocolate egy helyi látványosság Soufrière-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.047526,
+                        13.833759
+                  ]
+            },
+            {
+                  "name": "UNESCO World Heritage",
+                  "text": "Az UNESCO Világörökség emléktáblájánál lévő kilátópont Soufrière-ben található.",
+                  "category": "natural",
+                  "coords": [
+                        -61.06011,
+                        13.845803
+                  ]
+            },
+            {
+                  "name": "Morne Coubaril Historical Adventure Park",
+                  "text": "A Morne Coubaril Historical Adventure Park egy élménypark Soufrière-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.056706,
+                        13.847204
+                  ]
+            },
+            {
+                  "name": "The BEST VIEW OF  CARRIBEAN",
+                  "text": "Ez a soufrière-i látványosság festői kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.059411,
+                        13.830238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anse Chastanet Beach",
+                  "text": "Anse Chastanet Beach este o plajă din Soufrière.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.077795,
+                        13.865286
+                  ]
+            },
+            {
+                  "name": "Soufrière Beach",
+                  "text": "Soufrière Beach este o plajă în orașul cu același nume.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.062251,
+                        13.857694
+                  ]
+            },
+            {
+                  "name": "Malgretoute Beach",
+                  "text": "Malgretoute Beach este o plajă din Soufrière.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063415,
+                        13.842697
+                  ]
+            },
+            {
+                  "name": "Diamond Botanical Garden",
+                  "text": "Diamond Botanical Garden este o grădină botanică în Soufrière.",
+                  "category": "park",
+                  "coords": [
+                        -61.049196,
+                        13.852832
+                  ]
+            },
+            {
+                  "name": "Petit Piton",
+                  "text": "Petit Piton este unul dintre cele două vârfuri vulcanice emblematice din Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.064036,
+                        13.833906
+                  ]
+            },
+            {
+                  "name": "Sulphur Springs",
+                  "text": "Sulphur Springs este o zonă cu izvoare geotermale și o atracție populară în Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.04647,
+                        13.838658
+                  ]
+            },
+            {
+                  "name": "Soufriere",
+                  "text": "Acest punct de observație oferă o priveliște asupra orașului Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.061215,
+                        13.84841
+                  ]
+            },
+            {
+                  "name": "Soufriere Coconut Factory",
+                  "text": "Ruinele fabricii de nucă de cocos sunt situate în Soufrière.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05586,
+                        13.858217
+                  ]
+            },
+            {
+                  "name": "Toraille Atv Park and Trail",
+                  "text": "Toraille Atv Park and Trail este o atracție de agrement în Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.036921,
+                        13.853591
+                  ]
+            },
+            {
+                  "name": "On pitons",
+                  "text": "Acest punct de observație oferă vedere spre vârfurile Pitons din Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.050601,
+                        13.865525
+                  ]
+            },
+            {
+                  "name": "Big Nature",
+                  "text": "Big Nature este un punct de observație peisagistic în Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.048865,
+                        13.834851
+                  ]
+            },
+            {
+                  "name": "Project Chocolate",
+                  "text": "Project Chocolate este o atracție locală din Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.047526,
+                        13.833759
+                  ]
+            },
+            {
+                  "name": "UNESCO World Heritage",
+                  "text": "Punctul de observație de la placa Patrimoniului Mondial UNESCO se află în Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.06011,
+                        13.845803
+                  ]
+            },
+            {
+                  "name": "Morne Coubaril Historical Adventure Park",
+                  "text": "Morne Coubaril Historical Adventure Park este un parc de aventură din Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.056706,
+                        13.847204
+                  ]
+            },
+            {
+                  "name": "The BEST VIEW OF  CARRIBEAN",
+                  "text": "Această atracție din Soufrière este cunoscută pentru priveliștile sale pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.059411,
+                        13.830238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anse Chastanet Beach",
+                  "text": "Anse Chastanet Beach is a beach located in Soufrière.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.077795,
+                        13.865286
+                  ]
+            },
+            {
+                  "name": "Soufrière Beach",
+                  "text": "Soufrière Beach is a beach located in the town of Soufrière.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.062251,
+                        13.857694
+                  ]
+            },
+            {
+                  "name": "Malgretoute Beach",
+                  "text": "Malgretoute Beach is a beach in Soufrière.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063415,
+                        13.842697
+                  ]
+            },
+            {
+                  "name": "Diamond Botanical Garden",
+                  "text": "Diamond Botanical Garden is a garden located in Soufrière.",
+                  "category": "park",
+                  "coords": [
+                        -61.049196,
+                        13.852832
+                  ]
+            },
+            {
+                  "name": "Petit Piton",
+                  "text": "Petit Piton is one of the two iconic volcanic plugs located in Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.064036,
+                        13.833906
+                  ]
+            },
+            {
+                  "name": "Sulphur Springs",
+                  "text": "Sulphur Springs are geothermally active springs and a popular attraction in Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.04647,
+                        13.838658
+                  ]
+            },
+            {
+                  "name": "Soufriere",
+                  "text": "This viewpoint offers scenic sights of Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.061215,
+                        13.84841
+                  ]
+            },
+            {
+                  "name": "Soufriere Coconut Factory",
+                  "text": "The ruins of the Soufriere Coconut Factory are located in Soufrière.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05586,
+                        13.858217
+                  ]
+            },
+            {
+                  "name": "Toraille Atv Park and Trail",
+                  "text": "The Toraille Atv Park and Trail is a recreational attraction in Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.036921,
+                        13.853591
+                  ]
+            },
+            {
+                  "name": "On pitons",
+                  "text": "This viewpoint provides a look at the Pitons in Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.050601,
+                        13.865525
+                  ]
+            },
+            {
+                  "name": "Big Nature",
+                  "text": "Big Nature is a scenic viewpoint in Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.048865,
+                        13.834851
+                  ]
+            },
+            {
+                  "name": "Project Chocolate",
+                  "text": "Project Chocolate is a local attraction in Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.047526,
+                        13.833759
+                  ]
+            },
+            {
+                  "name": "UNESCO World Heritage Plaque",
+                  "text": "The viewpoint at the UNESCO World Heritage Plaque is located in Soufrière.",
+                  "category": "natural",
+                  "coords": [
+                        -61.06011,
+                        13.845803
+                  ]
+            },
+            {
+                  "name": "Morne Coubaril Historical Adventure Park",
+                  "text": "Morne Coubaril Historical Adventure Park is an adventure park attraction in Soufrière.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.056706,
+                        13.847204
+                  ]
+            },
+            {
+                  "name": "The BEST VIEW OF  CARRIBEAN",
+                  "text": "This attraction in Soufrière is known for its scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.059411,
+                        13.830238
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "town",
     name: { de: "Soufrière", hu: "Soufrière", ro: "Soufrière", en: "Soufrière" },
@@ -138,7 +1281,520 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-soufriere-cities-v2.webp",
   },
   {
-    id: "saintlucia-gros-islet-cities-v2",
+    id: "saintlucia-gros-islet-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Wasserpark in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Strand in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Strand in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Beliebter Strand in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Strand in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Strand in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Strand in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Historische Festung auf Pigeon Island bei Gros Islet.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Strand in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Strand in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Sehenswürdigkeit in Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Ruinen in Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Ruinen in Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Sehenswürdigkeit in Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Vízi park Gros Isletben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Strand Gros Isletben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Strand Gros Isletben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Népszerű strand Gros Isletben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Strand Gros Isletben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Strand Gros Isletben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Strand Gros Isletben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Történelmi erőd a Pigeon Islanden, Gros Islet közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Strand Gros Isletben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Strand Gros Isletben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Látnivaló Gros Isletben.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Romok Gros Isletben.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Romok Gros Isletben.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Látnivaló Gros Isletben.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Parc acvatic în Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Plajă în Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Plajă în Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Plajă populară în Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Plajă în Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Plajă în Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Plajă în Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Fortăreață istorică pe Pigeon Island lângă Gros Islet.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Plajă în Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Plajă în Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Atracție în Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Ruine în Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Ruine în Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Atracție în Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Water park in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Beach in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Beach in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Popular beach in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Beach in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Beach in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Beach in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Historical fort on Pigeon Island near Gros Islet.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Beach in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Beach in Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Attraction in Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Ruins in Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Ruins in Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Attraction in Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "town",
     name: { de: "Gros Islet", hu: "Gros Islet", ro: "Gros Islet", en: "Gros Islet" },
@@ -183,7 +1839,124 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-gros-islet-cities-v2.webp",
   },
   {
-    id: "saintlucia-micoud-cities-v2",
+    id: "saintlucia-micoud-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "L'Anse Mabouya (Fond Bay Beach) ist ein lokaler Strand in Micoud.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "Die Fond Bay Gardens sind eine botanische Attraktion in Micoud.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "Der älteste Baobab-Baum ist eine natürliche Attraktion in Micoud.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "A L'Anse Mabouya (Fond Bay Beach) egy helyi strand Micoud-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "A Fond Bay Gardens egy botanikus látványosság Micoud-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "A Legöregebb Majomkenyérfa egy természeti látványosság Micoud-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "L'Anse Mabouya (Fond Bay Beach) este o plajă locală din Micoud.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "Fond Bay Gardens sunt o atracție botanică situată în Micoud.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "Cel mai vechi arbore baobab este o atracție naturală aflată în Micoud.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "L'Anse Mabouya (Fond Bay Beach) is a local beach in Micoud.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "The Fond Bay Gardens are a botanical attraction located in Micoud.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "The Oldest Baobab Tree is a natural attraction found in Micoud.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Micoud", hu: "Micoud", ro: "Micoud", en: "Micoud" },
@@ -318,7 +2091,340 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-laborie-cities-v2.webp",
   },
   {
-    id: "saintlucia-anse-la-raye-cities-v2",
+    id: "saintlucia-anse-la-raye-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anse Cochon Beach",
+                  "text": "Anse Cochon Beach ist ein beliebtes Sandziel in Anse La Raye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.056863,
+                        13.926545
+                  ]
+            },
+            {
+                  "name": "Roseau Beach",
+                  "text": "Roseau Beach ist ein malerischer Strand in Anse La Raye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "Tolonge Beach ist ein entspannender Küstenbereich in Anse La Raye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "Dieser Aussichtspunkt bietet malerische Ausblicke in Anse La Raye.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "Horizon ist ein lokaler Aussichtspunkt in Anse La Raye.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "The Melting Pot ist eine Kunstgalerie in Anse La Raye.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "St. Lucia Bamboo Rafting ist eine Wasserattraktion im Freien in Anse La Raye.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "Paula's Place",
+                  "text": "Paula's Place ist eine bekannte lokale Attraktion in Anse La Raye.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.045667,
+                        13.935463
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "Die Old Police Station ist eine historische Ruine in Anse La Raye.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anse Cochon Beach",
+                  "text": "Az Anse Cochon Beach egy népszerű homokos part Anse La Raye-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.056863,
+                        13.926545
+                  ]
+            },
+            {
+                  "name": "Roseau Beach",
+                  "text": "A Roseau Beach egy festői strand Anse La Raye-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "A Tolonge Beach egy pihentető tengerparti terület Anse La Raye-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "Ez a kilátópont festői panorámát kínál Anse La Raye-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "A Horizon egy helyi kilátó Anse La Raye-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "A The Melting Pot egy művészeti galéria Anse La Raye-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "A St. Lucia Bamboo Rafting egy szabadtéri vízi attrakció Anse La Raye-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "Paula's Place",
+                  "text": "A Paula's Place egy ismert helyi látványosság Anse La Raye-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.045667,
+                        13.935463
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "A régi rendőrőrs romjai Anse La Raye városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anse Cochon Beach",
+                  "text": "Plaja Anse Cochon este o destinație populară cu nisip din Anse La Raye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.056863,
+                        13.926545
+                  ]
+            },
+            {
+                  "name": "Roseau Beach",
+                  "text": "Plaja Roseau este o plajă pitorească situată în Anse La Raye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "Plaja Tolonge este o zonă de coastă relaxantă situată în Anse La Raye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "Acest punct de belvedere oferă priveliști pitorești în Anse La Raye.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "Horizon este un punct de belvedere local din Anse La Raye.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "The Melting Pot este o galerie de artă situată în Anse La Raye.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "St. Lucia Bamboo Rafting este o atracție acvatică în aer liber din Anse La Raye.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "Paula's Place",
+                  "text": "Paula's Place este o atracție locală cunoscută din Anse La Raye.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.045667,
+                        13.935463
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "Old Police Station este o ruină istorică situată în Anse La Raye.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anse Cochon Beach",
+                  "text": "Anse Cochon Beach is a popular sandy destination in Anse La Raye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.056863,
+                        13.926545
+                  ]
+            },
+            {
+                  "name": "Roseau Beach",
+                  "text": "Roseau Beach is a scenic beach situated in Anse La Raye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "Tolonge Beach is a relaxing coastal area located in Anse La Raye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "This Viewing Point offers scenic vistas in Anse La Raye.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "Horizon is a local viewpoint in Anse La Raye.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "The Melting Pot is an art gallery situated in Anse La Raye.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "St. Lucia Bamboo Rafting is an outdoor water attraction in Anse La Raye.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "Paula's Place",
+                  "text": "Paula's Place is a known local attraction in Anse La Raye.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.045667,
+                        13.935463
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "The Old Police Station is a historical ruins site located in Anse La Raye.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Anse La Raye", hu: "Anse La Raye", ro: "Anse La Raye", en: "Anse La Raye" },
@@ -363,7 +2469,304 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-anse-la-raye-cities-v2.webp",
   },
   {
-    id: "saintlucia-choiseul-cities-v2",
+    id: "saintlucia-choiseul-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Choiseul Petroglyph",
+                  "text": "Das Choiseul-Petroglyph ist eine archäologische Stätte in Choiseul.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05113,
+                        13.776357
+                  ]
+            },
+            {
+                  "name": "Choiseul village public beach",
+                  "text": "Der öffentliche Strand des Dorfes Choiseul ist ein lokaler Küstenabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.050682,
+                        13.775387
+                  ]
+            },
+            {
+                  "name": "River Doree Beach",
+                  "text": "Der River Doree Beach ist ein Strand in Choiseul.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Sable Wiche Sha Beach, Choiseul",
+                  "text": "Der Sable Wiche Sha Beach ist ein lokaler Strand in Choiseul.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.054851,
+                        13.780025
+                  ]
+            },
+            {
+                  "name": "La Pointe Beach",
+                  "text": "Der La Pointe Beach ist ein Küstenabschnitt in Choiseul.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063043,
+                        13.786981
+                  ]
+            },
+            {
+                  "name": "Morne Sion Wind Mill",
+                  "text": "Die Ruinen der Windmühle Morne Sion befinden sich in Choiseul.",
+                  "category": "historical",
+                  "coords": [
+                        -61.057984,
+                        13.787175
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "Caribbean Imprints ist ein Kunstzentrum in Choiseul.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Balenbouche Estate",
+                  "text": "Das Balenbouche Estate ist eine Sehenswürdigkeit in Choiseul.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.027023,
+                        13.756616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Choiseul Petroglyph",
+                  "text": "A Choiseul-petroglifa egy régészeti lelőhely Choiseulban.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05113,
+                        13.776357
+                  ]
+            },
+            {
+                  "name": "Choiseul village public beach",
+                  "text": "Choiseul falu nyilvános strandja egy helyi partszakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.050682,
+                        13.775387
+                  ]
+            },
+            {
+                  "name": "River Doree Beach",
+                  "text": "A River Doree Beach egy tengerpart Choiseulban.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Sable Wiche Sha Beach, Choiseul",
+                  "text": "A Sable Wiche Sha Beach egy helyi strand Choiseulban.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.054851,
+                        13.780025
+                  ]
+            },
+            {
+                  "name": "La Pointe Beach",
+                  "text": "A La Pointe Beach egy tengerpart Choiseulban.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063043,
+                        13.786981
+                  ]
+            },
+            {
+                  "name": "Morne Sion Wind Mill",
+                  "text": "A Morne Sion szélmalom romjai Choiseulban találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -61.057984,
+                        13.787175
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "A Caribbean Imprints egy művészeti központ Choiseulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Balenbouche Estate",
+                  "text": "A Balenbouche Estate egy látványosság Choiseulban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.027023,
+                        13.756616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Choiseul Petroglyph",
+                  "text": "Petroglifa Choiseul este un sit arheologic din Choiseul.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05113,
+                        13.776357
+                  ]
+            },
+            {
+                  "name": "Choiseul village public beach",
+                  "text": "Plaja publică a satului Choiseul este o zonă de coastă locală.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.050682,
+                        13.775387
+                  ]
+            },
+            {
+                  "name": "River Doree Beach",
+                  "text": "River Doree Beach este o plajă din Choiseul.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Sable Wiche Sha Beach, Choiseul",
+                  "text": "Sable Wiche Sha Beach este o plajă locală din Choiseul.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.054851,
+                        13.780025
+                  ]
+            },
+            {
+                  "name": "La Pointe Beach",
+                  "text": "La Pointe Beach este o plajă din Choiseul.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063043,
+                        13.786981
+                  ]
+            },
+            {
+                  "name": "Morne Sion Wind Mill",
+                  "text": "Ruinele morii de vânt Morne Sion se află în Choiseul.",
+                  "category": "historical",
+                  "coords": [
+                        -61.057984,
+                        13.787175
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "Caribbean Imprints este un centru de artă din Choiseul.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Balenbouche Estate",
+                  "text": "Balenbouche Estate este o atracție în Choiseul.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.027023,
+                        13.756616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Choiseul Petroglyph",
+                  "text": "The Choiseul Petroglyph is an archaeological site in Choiseul.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05113,
+                        13.776357
+                  ]
+            },
+            {
+                  "name": "Choiseul village public beach",
+                  "text": "The Choiseul village public beach is a local coastline in Choiseul.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.050682,
+                        13.775387
+                  ]
+            },
+            {
+                  "name": "River Doree Beach",
+                  "text": "River Doree Beach is a beach located in Choiseul.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Sable Wiche Sha Beach, Choiseul",
+                  "text": "Sable Wiche Sha Beach is a local beach in Choiseul.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.054851,
+                        13.780025
+                  ]
+            },
+            {
+                  "name": "La Pointe Beach",
+                  "text": "La Pointe Beach is a beach situated in Choiseul.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063043,
+                        13.786981
+                  ]
+            },
+            {
+                  "name": "Morne Sion Wind Mill",
+                  "text": "The ruins of the Morne Sion Wind Mill are located in Choiseul.",
+                  "category": "historical",
+                  "coords": [
+                        -61.057984,
+                        13.787175
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "Caribbean Imprints is an arts centre in Choiseul.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Balenbouche Estate",
+                  "text": "Balenbouche Estate is an attraction in Choiseul.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.027023,
+                        13.756616
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Choiseul", hu: "Choiseul", ro: "Choiseul", en: "Choiseul" },
@@ -543,7 +2946,196 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-bexon-cities-v2.webp",
   },
   {
-    id: "saintlucia-ciceron-cities-v2",
+    id: "saintlucia-ciceron-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Morne Museum",
+                  "text": "Museum in Ciceron.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Strand in Ciceron.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Gipfel in Ciceron.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Park in Ciceron; benannt nach dem Nobelpreisträger Derek Walcott.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Ruinen in Ciceron.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Morne Museum",
+                  "text": "Múzeum Ciceronban.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Strand Ciceronban.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Hegycsúcs Ciceronban.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Park Ciceronban; a Nobel-díjas Derek Walcottról elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Romok Ciceronban.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Morne Museum",
+                  "text": "Muzeu în Ciceron.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Plajă în Ciceron.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Vârf în Ciceron.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Parc în Ciceron; numit după laureatul Nobel Derek Walcott.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Ruine în Ciceron.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Morne Museum",
+                  "text": "Museum in Ciceron.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Beach in Ciceron.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Peak in Ciceron.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Park in Ciceron; named after Nobel laureate Derek Walcott.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Ruins in Ciceron.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Ciceron", hu: "Ciceron", ro: "Ciceron", en: "Ciceron" },
@@ -633,7 +3225,628 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-rodney-bay-cities-v2.webp",
   },
   {
-    id: "saintlucia-cap-estate-cities-v2",
+    id: "saintlucia-cap-estate-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Der Splash Island Water Park ist ein Wasserpark in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Der Anse du Cap ist ein lokaler Strand in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Der Anse Bécune Beach ist ein Strandabschnitt in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Der Reduit Beach ist ein beliebter Strand in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Donkey Beach",
+                  "text": "Der Donkey Beach ist ein Sandstrand in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.918619,
+                        14.095611
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Der Smugglers Cove Beach ist eine malerische Bucht in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Das Pigeon Island National Landmark ist eine historische Festungsanlage in Cap Estate.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Der Pigeon Island Beach ist ein Strand in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas ist ein lokaler Strand in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "Der $5 Beach ist ein Strand in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Der Tousalee Beach ist ein Küstenstreifen in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Secret Beach",
+                  "text": "Der Secret Beach ist ein versteckter Strand in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.919419,
+                        14.092068
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Das Pigeon Island Interpretation Center ist eine lokale Attraktion in Cap Estate.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Die Ruinen der US-Signalstation befinden sich in Cap Estate.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Die Aquaholics Kitesurfing School ist eine sportliche Attraktion in Cap Estate.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "Der Gorgona-Wald bietet landschaftliche Aussichtspunkte in Cap Estate.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Cactus forest",
+                  "text": "Der Kakteenwald ist ein natürlicher Aussichtspunkt in Cap Estate.",
+                  "category": "natural",
+                  "coords": [
+                        -60.918712,
+                        14.096891
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "A Splash Island Water Park egy vízipark Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Az Anse du Cap egy helyi strand Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Az Anse Bécune Beach egy tengerpart Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "A Reduit Beach egy népszerű strand Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Donkey Beach",
+                  "text": "A Donkey Beach egy homokos strand Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.918619,
+                        14.095611
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "A Smugglers Cove Beach egy festői öböl Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "A Pigeon Island National Landmark egy történelmi erődítmény Cap Estate-ben.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "A Pigeon Island Beach egy tengerpart Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "A Cas en bas egy helyi strand Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "Az $5 Beach egy strand Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "A Tousalee Beach egy tengerpart Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Secret Beach",
+                  "text": "A Secret Beach egy eldugott strand Cap Estate-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.919419,
+                        14.092068
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "A Pigeon Island Interpretation Center egy látványosság Cap Estate-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Az amerikai jelzőállomás romjai Cap Estate-ben találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Az Aquaholics Kiteszörf Iskola egy sportlátványosság Cap Estate-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "A Gorgona-erdő festői kilátókat kínál Cap Estate-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Cactus forest",
+                  "text": "A Kaktuszerdő egy természetes kilátópont Cap Estate-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -60.918712,
+                        14.096891
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Splash Island Water Park este un parc acvatic din Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap este o plajă din Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Anse Bécune Beach este o plajă în Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach este o plajă populară din Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Donkey Beach",
+                  "text": "Donkey Beach este o plajă de nisip în Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.918619,
+                        14.095611
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach este un golf pitoresc din Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Pigeon Island National Landmark este un fort istoric în Cap Estate.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Pigeon Island Beach este o plajă situată în Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas este o plajă locală în Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "$5 Beach este o plajă din Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Tousalee Beach este o plajă în Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Secret Beach",
+                  "text": "Secret Beach este o plajă izolată din Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.919419,
+                        14.092068
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Pigeon Island Interpretation Center este o atracție în Cap Estate.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Ruinele stației de semnalizare americane se află în Cap Estate.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Aquaholics Kite surfing School este o atracție sportivă în Cap Estate.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "Pădurea Gorgona oferă puncte de observație peisagistice în Cap Estate.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Cactus forest",
+                  "text": "Pădurea de cactuși este un punct de observație natural din Cap Estate.",
+                  "category": "natural",
+                  "coords": [
+                        -60.918712,
+                        14.096891
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Splash Island Water Park is a water park in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap is a beach in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Anse Bécune Beach is a sandy beach in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach is a popular beach located in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Donkey Beach",
+                  "text": "Donkey Beach is a sandy beach located in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.918619,
+                        14.095611
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach is a scenic beach in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Pigeon Island National Landmark is a historical fort site in Cap Estate.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Pigeon Island Beach is a coastal stretch in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas is a local beach in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "The $5 Beach is a beach situated in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Tousalee Beach is a coastal area in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Secret Beach",
+                  "text": "Secret Beach is a secluded beach in Cap Estate.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.919419,
+                        14.092068
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "The Pigeon Is. interpretation Center is an attraction in Cap Estate.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "The ruins of the US Signaling Station are located in Cap Estate.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "The Aquaholics Kite surfing School is a sports attraction in Cap Estate.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "Gorgona forest provides scenic viewpoints in Cap Estate.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Cactus forest",
+                  "text": "The Cactus forest is a natural viewpoint in Cap Estate.",
+                  "category": "natural",
+                  "coords": [
+                        -60.918712,
+                        14.096891
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Cap Estate", hu: "Cap Estate", ro: "Cap Estate", en: "Cap Estate" },
@@ -678,7 +3891,268 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-cap-estate-cities-v2.webp",
   },
   {
-    id: "saintlucia-monchy-cities-v2",
+    id: "saintlucia-monchy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pebble beach",
+                  "text": "Strand in Monchy.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.898453,
+                        14.06561
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Strand in Monchy.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "Der $5 Beach in Monchy ist ein ruhiger Strandabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Tousalee Beach ist ein naturbelassener Strand in Monchy.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Diese Schule in Monchy bietet Kurse für Kitesurfen an.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "Der Gorgona-Wald in Monchy bietet einen schönen Ausblick.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Mermaid pool",
+                  "text": "Der Mermaid Pool ist ein attraktives Ausflugsziel in Monchy.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899772,
+                        14.066144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pebble beach",
+                  "text": "Strand Monchyban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.898453,
+                        14.06561
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Strand Monchyban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "A monchyi $5 Beach egy csendes partszakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "A Tousalee Beach egy természetes strand Monchyban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Ez az iskola Monchyban kitesurfing órákat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "A monchyi Gorgona-erdő szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Mermaid pool",
+                  "text": "A Mermaid Pool egy vonzó úti cél Monchyban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899772,
+                        14.066144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pebble beach",
+                  "text": "Plajă în Monchy.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.898453,
+                        14.06561
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Plajă în Monchy.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "Plaja $5 din Monchy este o secțiune liniștită de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Tousalee Beach este o plajă naturală în Monchy.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Această școală din Monchy oferă cursuri de kitesurfing.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "Pădurea Gorgona din Monchy oferă o priveliște frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Mermaid pool",
+                  "text": "Mermaid Pool este o atracție populară în Monchy.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899772,
+                        14.066144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pebble beach",
+                  "text": "Beach in Monchy.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.898453,
+                        14.06561
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Beach in Monchy.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "The $5 Beach in Monchy is a quiet stretch of coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Tousalee Beach is a natural beach in Monchy.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "This school in Monchy offers kitesurfing lessons.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "The Gorgona forest in Monchy offers a beautiful view.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Mermaid pool",
+                  "text": "The Mermaid Pool is a popular attraction in Monchy.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899772,
+                        14.066144
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Monchy", hu: "Monchy", ro: "Monchy", en: "Monchy" },
@@ -768,7 +4242,88 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-augier-cities-v2.webp",
   },
   {
-    id: "saintlucia-desruisseaux-cities-v2",
+    id: "saintlucia-desruisseaux-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Desruisseaux Cross",
+                  "text": "Das Desruisseaux-Kreuz ist ein Denkmal in Desruisseaux.",
+                  "category": "historical",
+                  "coords": [
+                        -60.93112,
+                        13.805676
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "Der älteste Affenbrotbaum ist eine natürliche Attraktion in Desruisseaux.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Desruisseaux Cross",
+                  "text": "A Desruisseaux-kereszt egy emlékmű Desruisseaux-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -60.93112,
+                        13.805676
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "A legöregebb baobabfa egy természeti látványosság Desruisseaux-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Desruisseaux Cross",
+                  "text": "Crucea Desruisseaux este un monument în Desruisseaux.",
+                  "category": "historical",
+                  "coords": [
+                        -60.93112,
+                        13.805676
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "Cel mai vechi copac baobab este o atracție naturală în Desruisseaux.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Desruisseaux Cross",
+                  "text": "The Desruisseaux Cross is a monument in Desruisseaux.",
+                  "category": "historical",
+                  "coords": [
+                        -60.93112,
+                        13.805676
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "The Oldest Baobab Tree is a natural attraction in Desruisseaux.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Desruisseaux", hu: "Desruisseaux", ro: "Desruisseaux", en: "Desruisseaux" },
@@ -858,7 +4413,124 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-saltibus-cities-v2.webp",
   },
   {
-    id: "saintlucia-ti-rocher-micoud-cities-v2",
+    id: "saintlucia-ti-rocher-micoud-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "L'Anse Mabouya (Fond Bay Beach) ist ein Strand in Ti Rocher (Micoud).",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "Das Sessene Descartes House ist ein lokales Museum in Ti Rocher (Micoud).",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "Die Fond Bay Gardens sind eine Touristenattraktion in Ti Rocher (Micoud).",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "A L'Anse Mabouya (Fond Bay Beach) egy tengerparti strand Ti Rocher (Micoud) területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "A Sessene Descartes House egy helyi múzeum Ti Rocher (Micoud) településen.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "A Fond Bay Gardens egy turisztikai látványosság Ti Rocher (Micoud) városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "L'Anse Mabouya (Fond Bay Beach) este o plajă situată în Ti Rocher (Micoud).",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "Casa Sessene Descartes este un muzeu local din Ti Rocher (Micoud).",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "Fond Bay Gardens este o atracție turistică situată în Ti Rocher (Micoud).",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "L'Anse Mabouya (Fond Bay Beach) is a coastal beach destination in Ti Rocher (Micoud).",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "The Sessene Descartes House is a local museum situated in Ti Rocher (Micoud).",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "Fond Bay Gardens is a tourist attraction located in Ti Rocher (Micoud).",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Ti Rocher (Micoud)", hu: "Ti Rocher (Micoud)", ro: "Ti Rocher (Micoud)", en: "Ti Rocher (Micoud)" },
@@ -903,7 +4575,88 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-ti-rocher-micoud-cities-v2.webp",
   },
   {
-    id: "saintlucia-ti-rocher-castries-cities-v2",
+    id: "saintlucia-ti-rocher-castries-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "View point",
+                  "text": "View point ist ein malerischer Aussichtspunkt in Ti Rocher (Castries).",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Der Forestry Zoo ist eine lokale Attraktion in Ti Rocher (Castries).",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View point",
+                  "text": "A View point egy festői kilátó Ti Rocher (Castries) településen.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "A Forestry Zoo egy helyi látványosság Ti Rocher (Castries) területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View point",
+                  "text": "View point este un punct de belvedere pitoresc situat în Ti Rocher (Castries).",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Forestry Zoo este o atracție situată în Ti Rocher (Castries).",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View point",
+                  "text": "View point is a scenic viewpoint located in Ti Rocher (Castries).",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "The Forestry Zoo is a local attraction situated in Ti Rocher (Castries).",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Ti Rocher (Castries)", hu: "Ti Rocher (Castries)", ro: "Ti Rocher (Castries)", en: "Ti Rocher (Castries)" },
@@ -993,7 +4746,232 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-mongiraud-cities-v2.webp",
   },
   {
-    id: "saintlucia-marisule-cities-v2",
+    id: "saintlucia-marisule-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach ist ein bekannter Sandstrand in Marisule, der parallel zur Landebahn des örtlichen Flughafens verläuft.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach ist ein malerischer Strand in Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Francois Beach ist ein Küstenabschnitt in der Gegend von Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach ist ein entspannender Strand in Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach ist ein Strand zur Erholung in Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Der Forestry Zoo ist eine lokale Tierattraktion in Marisule.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "A Vigie Beach egy népszerű strand Marisule mellett, amely a helyi repülőtér kifutópályájával párhuzamosan fut.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "A Choc Beach egy festői tengerparti strand Marisule településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "A Francois Beach egy tengerparti szakasz Marisule területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "A Trouya Beach egy pihentető tengerparti strand Marisule városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "A Marisule Beach egy tengerparti pihenőhely Marisule településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "A Forestry Zoo egy helyi állatkert és látványosság Marisule városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach este o plajă populară din Marisule, situată paralel cu pista aeroportului local.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach este o plajă pitorească situată în Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Francois Beach este o plajă de pe litoralul din Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach este o plajă relaxantă situată în Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach este un loc de relaxare pe litoralul din Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Forestry Zoo este o atracție cu animale situată în Marisule.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach is a popular white sand beach in Marisule, running parallel to the local airport runway.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach is a scenic beach destination situated in Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Francois Beach is a coastal stretch located in the Marisule area.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach is a relaxing beach situated in Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach is a coastal relaxation spot located in Marisule.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Forestry Zoo is a local animal attraction situated in Marisule.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Marisule", hu: "Marisule", ro: "Marisule", en: "Marisule" },
@@ -1083,7 +5061,160 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-choc-cities-v2.webp",
   },
   {
-    id: "saintlucia-union-cities-v2",
+    id: "saintlucia-union-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach bei Union ist ein beliebter, entspannter Sandstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach ist ein entspannter Küstenabschnitt in Union.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach bietet in Union einen ruhigen Zugang zum Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Der Forestry Zoo in Union ist eine lokale Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "A Vigie Beach Union közelében egy népszerű, nyugodt homokos strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "A Choc Beach egy nyugodt partszakasz Unionban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "A Marisule Beach csendes hozzáférést biztosít a tengerhez Unionban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "A Forestry Zoo Unionban egy helyi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach lângă Union este o plajă populară și relaxantă cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach este o secțiune relaxantă de coastă în Union.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach oferă acces liniștit la mare în Union.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Forestry Zoo din Union este o atracție locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach near Union is a popular, relaxing sandy beach.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach is a relaxing coastal area in Union.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach provides quiet access to the sea in Union.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "The Forestry Zoo in Union is a local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Union", hu: "Union", ro: "Union", en: "Union" },
@@ -1218,7 +5349,52 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-giraud-cities-v2.webp",
   },
   {
-    id: "saintlucia-monier-cities-v2",
+    id: "saintlucia-monier-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Dauphin",
+                  "text": "Old Dauphin ist eine bedeutende archäologische Stätte in Monier.",
+                  "category": "historical",
+                  "coords": [
+                        -60.896774,
+                        14.039128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Dauphin",
+                  "text": "Old Dauphin egy jelentős régészeti lelőhely Monierben.",
+                  "category": "historical",
+                  "coords": [
+                        -60.896774,
+                        14.039128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Dauphin",
+                  "text": "Old Dauphin este un sit arheologic important în Monier.",
+                  "category": "historical",
+                  "coords": [
+                        -60.896774,
+                        14.039128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Dauphin",
+                  "text": "Old Dauphin is a significant archaeological site in Monier.",
+                  "category": "historical",
+                  "coords": [
+                        -60.896774,
+                        14.039128
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Monier", hu: "Monier", ro: "Monier", en: "Monier" },
@@ -1308,7 +5484,268 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-fond-st-jacques-cities-v2.webp",
   },
   {
-    id: "saintlucia-piaye-cities-v2",
+    id: "saintlucia-piaye-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "River Doree Beach",
+                  "text": "River Doree Beach ist ein Strandabschnitt in Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Piaye Beach",
+                  "text": "Piaye Beach ist ein lokaler Strand in Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.021081,
+                        13.753238
+                  ]
+            },
+            {
+                  "name": "Balembouche beach",
+                  "text": "Der Balembouche Strand ist ein entspannendes Ziel in Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.025512,
+                        13.754405
+                  ]
+            },
+            {
+                  "name": "Rudy John Beach",
+                  "text": "Rudy John Beach ist ein malerischer Strand in Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.000524,
+                        13.751768
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "Caribbean Imprints ist ein Kunstzentrum in Piaye.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Morne Le Blanc Heritage Site",
+                  "text": "Die Morne Le Blanc Heritage Site ist ein historischer Aussichtspunkt in Piaye.",
+                  "category": "natural",
+                  "coords": [
+                        -61.007218,
+                        13.770354
+                  ]
+            },
+            {
+                  "name": "Sugar mill",
+                  "text": "Diese Ruinen einer alten Zuckermühle befinden sich in Piaye.",
+                  "category": "historical",
+                  "coords": [
+                        -61.026525,
+                        13.75666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "River Doree Beach",
+                  "text": "A River Doree Beach egy strand Piaye városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Piaye Beach",
+                  "text": "A Piaye Beach egy helyi strand Piaye településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.021081,
+                        13.753238
+                  ]
+            },
+            {
+                  "name": "Balembouche beach",
+                  "text": "A Balembouche strand egy pihentető célpont Piaye területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.025512,
+                        13.754405
+                  ]
+            },
+            {
+                  "name": "Rudy John Beach",
+                  "text": "A Rudy John Beach egy festői strand Piaye városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.000524,
+                        13.751768
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "A Caribbean Imprints egy művészeti központ Piaye területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Morne Le Blanc Heritage Site",
+                  "text": "A Morne Le Blanc Heritage Site egy történelmi kilátó Piaye városában.",
+                  "category": "natural",
+                  "coords": [
+                        -61.007218,
+                        13.770354
+                  ]
+            },
+            {
+                  "name": "Sugar mill",
+                  "text": "Ennek a régi cukormalomnak a romjai Piaye településen találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -61.026525,
+                        13.75666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "River Doree Beach",
+                  "text": "River Doree Beach este o plajă situată în Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Piaye Beach",
+                  "text": "Piaye Beach este o plajă locală din Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.021081,
+                        13.753238
+                  ]
+            },
+            {
+                  "name": "Balembouche beach",
+                  "text": "Plaja Balembouche este o destinație de relaxare în Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.025512,
+                        13.754405
+                  ]
+            },
+            {
+                  "name": "Rudy John Beach",
+                  "text": "Rudy John Beach este o plajă pitorească situată în Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.000524,
+                        13.751768
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "Caribbean Imprints este un centru de arte situat în Piaye.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Morne Le Blanc Heritage Site",
+                  "text": "Morne Le Blanc Heritage Site este un punct de belvedere istoric în Piaye.",
+                  "category": "natural",
+                  "coords": [
+                        -61.007218,
+                        13.770354
+                  ]
+            },
+            {
+                  "name": "Sugar mill",
+                  "text": "Aceste ruine ale unei mori de zahăr sunt situate în Piaye.",
+                  "category": "historical",
+                  "coords": [
+                        -61.026525,
+                        13.75666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "River Doree Beach",
+                  "text": "River Doree Beach is a sandy beach located in Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Piaye Beach",
+                  "text": "Piaye Beach is a coastal stretch located in the city of Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.021081,
+                        13.753238
+                  ]
+            },
+            {
+                  "name": "Balembouche beach",
+                  "text": "Balembouche beach is a local beach destination in Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.025512,
+                        13.754405
+                  ]
+            },
+            {
+                  "name": "Rudy John Beach",
+                  "text": "Rudy John Beach is a beach situated in Piaye.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.000524,
+                        13.751768
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "Caribbean Imprints is an arts centre located in Piaye.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Morne Le Blanc Heritage Site",
+                  "text": "Morne Le Blanc Heritage Site is a scenic viewpoint situated in Piaye.",
+                  "category": "natural",
+                  "coords": [
+                        -61.007218,
+                        13.770354
+                  ]
+            },
+            {
+                  "name": "Sugar mill",
+                  "text": "These ruins of a sugar mill are located in Piaye.",
+                  "category": "historical",
+                  "coords": [
+                        -61.026525,
+                        13.75666
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Piaye", hu: "Piaye", ro: "Piaye", en: "Piaye" },
@@ -1398,7 +5835,88 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-balembouche-cities-v2.webp",
   },
   {
-    id: "saintlucia-praslin-cities-v2",
+    id: "saintlucia-praslin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Grand pa's old house ist eine interessante Ruine in Praslin.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "Die Ruinen von Madame de Ricoud bieten einen Blick in die Vergangenheit von Praslin.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grand pa's old house",
+                  "text": "A Grand pa's old house egy érdekes romépület Praslin településen.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "A Madame de Ricoud romok bepillantást engednek Praslin múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Casa veche a bunicului (Grand pa's old house) este o ruină interesantă din Praslin.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "Ruinele Madame de Ricoud oferă o privire în trecutul localității Praslin.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Grand pa's old house is an interesting ruin site located in Praslin.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "The Madame de Ricoud ruins offer a glimpse into the past in Praslin.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Praslin", hu: "Praslin", ro: "Praslin", en: "Praslin" },
@@ -1443,7 +5961,124 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-praslin-cities-v2.webp",
   },
   {
-    id: "saintlucia-mon-repos-cities-v2",
+    id: "saintlucia-mon-repos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "Das Sessene Descartes House ist ein Museum in Mon Repos.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Grand pa's old house umfasst historische Ruinen in Mon Repos.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "Die Madame de Ricoud Ruinen sind historische Überreste in Mon Repos.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "A Sessene Descartes House egy múzeum Mon Repos városában.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "A Grand pa's old house történelmi romokat rejt Mon Repos területén.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "A Madame de Ricoud romok történelmi maradványok Mon Repos településen.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "Sessene Descartes House este un muzeu situat în Mon Repos.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Grand pa's old house prezintă ruine istorice situate în Mon Repos.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "Ruinele Madame de Ricoud sunt vestigii istorice în Mon Repos.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "Sessene Descartes House is a museum situated in Mon Repos.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Grand pa's old house features historic ruins located in Mon Repos.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "The Madame de Ricoud ruins are historical remains in Mon Repos.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Mon Repos", hu: "Mon Repos", ro: "Mon Repos", en: "Mon Repos" },
@@ -1488,7 +6123,160 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-mon-repos-cities-v2.webp",
   },
   {
-    id: "saintlucia-patience-cities-v2",
+    id: "saintlucia-patience-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dennery Community Park",
+                  "text": "Der Dennery Community Park in Patience bietet Freizeitangebote.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.891218,
+                        13.90951
+                  ]
+            },
+            {
+                  "name": "Mandele Lookout Point",
+                  "text": "Der Mandele Lookout Point bietet einen weiten Blick über Patience.",
+                  "category": "natural",
+                  "coords": [
+                        -60.889287,
+                        13.904515
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Diese Ruinen in Patience zeugen vom alten Grand pa's Haus.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "Die Ruinen von Madame de Ricoud liegen in Patience.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dennery Community Park",
+                  "text": "A Patience-ben található Dennery Community Park kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.891218,
+                        13.90951
+                  ]
+            },
+            {
+                  "name": "Mandele Lookout Point",
+                  "text": "A Mandele Lookout Point széles kilátást nyújt Patience-re.",
+                  "category": "natural",
+                  "coords": [
+                        -60.889287,
+                        13.904515
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Ezek a Patience-beli romok a régi Grand pa's ház maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "Madame de Ricoud romjai Patience-ben találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dennery Community Park",
+                  "text": "Dennery Community Park din Patience oferă facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.891218,
+                        13.90951
+                  ]
+            },
+            {
+                  "name": "Mandele Lookout Point",
+                  "text": "Mandele Lookout Point oferă o vedere largă asupra zonei Patience.",
+                  "category": "natural",
+                  "coords": [
+                        -60.889287,
+                        13.904515
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Aceste ruine din Patience sunt resturile vechii case a bunicului.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "Ruinele Madame de Ricoud sunt situate în Patience.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dennery Community Park",
+                  "text": "The Dennery Community Park in Patience offers leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.891218,
+                        13.90951
+                  ]
+            },
+            {
+                  "name": "Mandele Lookout Point",
+                  "text": "Mandele Lookout Point offers a wide view over Patience.",
+                  "category": "natural",
+                  "coords": [
+                        -60.889287,
+                        13.904515
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "These ruins in Patience are the remnants of Grand pa's old house.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "The ruins of Madame de Ricoud are located in Patience.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Patience", hu: "Patience", ro: "Patience", en: "Patience" },
@@ -1533,7 +6321,52 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-patience-cities-v2.webp",
   },
   {
-    id: "saintlucia-boguis-cities-v2",
+    id: "saintlucia-boguis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Dauphin",
+                  "text": "Old Dauphin ist eine archäologische Stätte in Boguis.",
+                  "category": "historical",
+                  "coords": [
+                        -60.896774,
+                        14.039128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Dauphin",
+                  "text": "Az Old Dauphin egy régészeti lelőhely Boguis városában.",
+                  "category": "historical",
+                  "coords": [
+                        -60.896774,
+                        14.039128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Dauphin",
+                  "text": "Old Dauphin este un sit arheologic situat în Boguis.",
+                  "category": "historical",
+                  "coords": [
+                        -60.896774,
+                        14.039128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Dauphin",
+                  "text": "Old Dauphin is an ancient archaeological site situated in Boguis.",
+                  "category": "historical",
+                  "coords": [
+                        -60.896774,
+                        14.039128
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Boguis", hu: "Boguis", ro: "Boguis", en: "Boguis" },
@@ -1668,7 +6501,52 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-ravine-poisson-cities-v2.webp",
   },
   {
-    id: "saintlucia-vanard-cities-v2",
+    id: "saintlucia-vanard-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barre de L'Isle rainforest trail",
+                  "text": "Der Barre de L'Isle Regenwaldpfad ist eine Naturattraktion in Vanard.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.957638,
+                        13.927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barre de L'Isle rainforest trail",
+                  "text": "A Barre de L'Isle esőerdei ösvény egy természeti látványosság Vanard területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.957638,
+                        13.927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barre de L'Isle rainforest trail",
+                  "text": "Traseul din pădurea tropicală Barre de L'Isle este o atracție naturală din Vanard.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.957638,
+                        13.927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barre de L'Isle rainforest trail",
+                  "text": "The Barre de L'Isle rainforest trail is a nature attraction located in Vanard.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.957638,
+                        13.927
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Vanard", hu: "Vanard", ro: "Vanard", en: "Vanard" },
@@ -1758,7 +6636,340 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-millet-cities-v2.webp",
   },
   {
-    id: "saintlucia-roseau-cities-v2",
+    id: "saintlucia-roseau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Roseau Beach ist ein schöner Strandort in Roseau.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "Marigot Beach in Roseau ist für seine Lage bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "Tolonge Beach ist ein ruhiger Küstenabschnitt bei Roseau.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue bei Roseau ist ein markanter Berg der Insel.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "Dieser Aussichtspunkt bietet eine schöne Sicht bei Roseau.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "The Melting Pot in Roseau ist eine lokale Kunstgalerie.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "Bambus-Rafting in Roseau ist eine beliebte touristische Aktivität.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "MARIGOT VIEW ist ein beliebter Aussichtspunkt in Roseau.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "Die Ruinen der alten Polizeistation befinden sich in Roseau.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Roseau Beach egy szép tengerparti hely Roseauban.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "A Roseauban található Marigot Beach a fekvéséről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "A Tolonge Beach egy csendes partszakasz Roseau közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "A Roseau melletti Mount Bellevue a sziget jellegzetes hegye.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "Ez a kilátópont szép kilátást nyújt Roseauban.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "A Roseauban található The Melting Pot egy helyi művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "A bambuszrafting Roseauban népszerű turisztikai tevékenység.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "A MARIGOT VIEW egy népszerű kilátópont Roseauban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "A régi rendőrség romjai Roseauban találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Roseau Beach este o frumoasă locație pe plajă în Roseau.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "Marigot Beach din Roseau este cunoscută pentru locația sa.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "Tolonge Beach este o zonă de coastă liniștită lângă Roseau.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue lângă Roseau este un munte distinctiv al insulei.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "Acest punct de belvedere oferă o vedere frumoasă în Roseau.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "The Melting Pot din Roseau este o galerie de artă locală.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "Raftingul pe bambus în Roseau este o activitate turistică populară.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "MARIGOT VIEW este un punct de belvedere popular în Roseau.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "Ruinele vechii secții de poliție se află în Roseau.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Roseau Beach is a beautiful beach location in Roseau.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "Marigot Beach in Roseau is known for its location.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "Tolonge Beach is a quiet coastal area near Roseau.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue near Roseau is a prominent mountain on the island.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "This viewpoint offers a beautiful view in Roseau.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "The Melting Pot in Roseau is a local art gallery.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "Bamboo rafting in Roseau is a popular tourist activity.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "MARIGOT VIEW is a popular viewpoint in Roseau.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "The ruins of the old police station are located in Roseau.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Roseau", hu: "Roseau", ro: "Roseau", en: "Roseau" },
@@ -1803,7 +7014,196 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-roseau-cities-v2.webp",
   },
   {
-    id: "saintlucia-marigot-bay-cities-v2",
+    id: "saintlucia-marigot-bay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Roseau Beach ist ein wunderschöner Sandstrand in Marigot Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "Marigot Beach ist ein entspannender Küstenort in Marigot Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue ist ein markanter Berggipfel über der Marigot Bay auf St. Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "St. Lucia Bamboo Rafting ist eine Wasserattraktion im Freien in Marigot Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "MARIGOT VIEW ist eine malerische Touristenattraktion in Marigot Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "A Roseau Beach egy gyönyörű homokos tengerpart Marigot Bay területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "A Marigot Beach egy pihentető tengerparti helyszín Marigot Bay-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "A Mount Bellevue egy kiemelkedő hegycsúcs, amely a Marigot Bay-re néz Saint Lucia szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "A St. Lucia Bamboo Rafting egy szabadtéri vízi látványosság Marigot Bay-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "A MARIGOT VIEW egy festői turisztikai látványosság Marigot Bay területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Roseau Beach este o plajă frumoasă cu nisip din Marigot Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "Marigot Beach este un loc de relaxare pe coastă, situat în Marigot Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue este un vârf montan proeminent care domină Marigot Bay în Sfânta Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "St. Lucia Bamboo Rafting este o atracție acvatică în aer liber din Marigot Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "MARIGOT VIEW este o atracție turistică pitorească situată în Marigot Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Roseau Beach is a beautiful sandy shoreline in Marigot Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "Marigot Beach is a relaxing coastal spot located in Marigot Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue is a prominent mountain peak overlooking Marigot Bay in Saint Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "St. Lucia Bamboo Rafting is an outdoor water attraction in Marigot Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "MARIGOT VIEW is a scenic tourist attraction located in Marigot Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Marigot Bay", hu: "Marigot Bay", ro: "Marigot Bay", en: "Marigot Bay" },
@@ -1848,7 +7248,196 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-marigot-bay-cities-v2.webp",
   },
   {
-    id: "saintlucia-la-croix-maingot-cities-v2",
+    id: "saintlucia-la-croix-maingot-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Morne Museum",
+                  "text": "Das Morne Museum ist ein lokales Museum in La Croix Maingot.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "Marigot Beach ist ein Strandabschnitt in La Croix Maingot.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue ist ein markanter Berggipfel in La Croix Maingot auf der Insel St. Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "MARIGOT VIEW ist eine lokale Touristenattraktion in La Croix Maingot.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Der Provost Park bietet historische Ruinen in La Croix Maingot.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Morne Museum",
+                  "text": "A Morne Museum egy helyi múzeum La Croix Maingot városában.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "A Marigot Beach egy part menti strand La Croix Maingot településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "A Mount Bellevue egy jelentős hegycsúcs a Saint Lucia-i La Croix Maingot területén.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "A MARIGOT VIEW egy helyi turisztikai látványosság La Croix Maingot városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "A Provost Park történelmi romokat mutat be La Croix Maingot településen.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Morne Museum",
+                  "text": "Morne Museum este un muzeu local situat în La Croix Maingot.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "Marigot Beach este o zonă de plajă în La Croix Maingot.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue este un vârf montan notabil situat în La Croix Maingot din Sfânta Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "MARIGOT VIEW este o atracție turistică locală în La Croix Maingot.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park prezintă ruine istorice situate în La Croix Maingot.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Morne Museum",
+                  "text": "The Morne Museum is a local museum situated in La Croix Maingot.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Marigot Beach",
+                  "text": "Marigot Beach is a coastal beach area in La Croix Maingot.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.02537,
+                        13.966359
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue is a notable mountain peak located in La Croix Maingot, Saint Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "MARIGOT VIEW",
+                  "text": "MARIGOT VIEW is a local tourist attraction in La Croix Maingot.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.020008,
+                        13.962796
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park features historical ruins located in La Croix Maingot.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "La Croix Maingot", hu: "La Croix Maingot", ro: "La Croix Maingot", en: "La Croix Maingot" },
@@ -1893,7 +7482,340 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-la-croix-maingot-cities-v2.webp",
   },
   {
-    id: "saintlucia-vigie-cities-v2",
+    id: "saintlucia-vigie-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Der Vigie Lighthouse in Vigie dient als Leuchtfeuer.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach in Vigie ist ein bekannter Strandabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Das Folk Research Center in Vigie widmet sich der Tradition.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach ist ein beliebter Strand in Vigie.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Der Derek Walcott Square in Vigie ist ein zentraler Park.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Dieses Denkmal in Vigie ehrt Sir John Compton.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Das Derick Walcott Gebäude ist ein Denkmal in Vigie.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia bietet in Vigie viele touristische Attraktionen.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park in Vigie zeigt historische Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "A Vigie-ben található Vigie Lighthouse világítótoronyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "A Vigie-beli Vigie Beach egy ismert partszakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "A Vigie-beli Folk Research Center a hagyományoknak szentelődik.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "A Yellow Sands Beach egy kedvelt strand Vigie-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "A Vigie-beli Derek Walcott Square egy központi park.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Ez a Vigie-beli emlékmű Sir John Comptont tiszteli.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "A Derick Walcott épület egy emlékmű Vigie-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia sok turisztikai látnivalót kínál Vigie-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "A Vigie-beli Provost Park történelmi romokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Vigie Lighthouse din Vigie servește drept far.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach în Vigie este o secțiune cunoscută de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Folk Research Center din Vigie se dedică tradițiilor.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach este o plajă populară în Vigie.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square din Vigie este un parc central.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Acest monument din Vigie îl onorează pe Sir John Compton.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Clădirea Derick Walcott este un monument în Vigie.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia oferă multe atracții turistice în Vigie.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park din Vigie prezintă ruine istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "The Vigie Lighthouse in Vigie serves as a beacon.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach in Vigie is a well-known beach area.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "The Folk Research Center in Vigie is dedicated to tradition.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach is a popular beach in Vigie.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square in Vigie is a central park.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "This monument in Vigie honors Sir John Compton.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "The Derick Walcott building is a monument in Vigie.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia offers many tourist attractions in Vigie.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park in Vigie features historic ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "city",
     name: { de: "Vigie", hu: "Vigie", ro: "Vigie", en: "Vigie" },
@@ -2028,7 +7950,412 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-marchand-cities-v2.webp",
   },
   {
-    id: "saintlucia-entrepot-cities-v2",
+    id: "saintlucia-entrepot-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach bei Entrepot ist ein schöner Sandstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach ist ein bekannter Strandabschnitt bei Entrepot.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "Das Morne Museum in Entrepot bewahrt die Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Das Folk Research Center in Entrepot erforscht Traditionen.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Der Derek Walcott Square in Entrepot ist ein öffentlicher Park.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Dieser Aussichtspunkt bei Entrepot bietet eine schöne Sicht.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Das Sir John Compton Denkmal steht in Entrepot.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Der Forestry Zoo in Entrepot ist eine Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Das Derick Walcott Gebäude in Entrepot ist ein Monument.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia Attraktionen finden sich auch in Entrepot.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park in Entrepot bietet historische Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "A Vigie Beach Entrepot közelében egy szép homokos strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "A Choc Beach egy ismert partszakasz Entrepot közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "Az Entrepot-beli Morne Museum őrzi a történelmet.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Az Entrepot-beli Folk Research Center kutatja a hagyományokat.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Az Entrepot-beli Derek Walcott Square egy nyilvános park.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Ez az Entrepot melletti kilátópont szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "A Sir John Compton emlékmű Entrepotban található.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Az Entrepot-beli Forestry Zoo egy látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Az Entrepot-beli Derick Walcott épület egy emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia látnivalók Entrepotban is találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Az Entrepot-beli Provost Park történelmi romokat kínál.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach lângă Entrepot este o plajă frumoasă cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach este o zonă cunoscută de plajă lângă Entrepot.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "Morne Museum din Entrepot conservă istoria.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Folk Research Center din Entrepot cercetează tradițiile.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square din Entrepot este un parc public.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Acest punct de belvedere lângă Entrepot oferă o vedere frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Monumentul Sir John Compton se află în Entrepot.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Forestry Zoo din Entrepot este o atracție.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Clădirea Derick Walcott din Entrepot este un monument.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Atracții Saint Lucia se găsesc și în Entrepot.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park din Entrepot oferă ruine istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach near Entrepot is a beautiful sandy beach.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach is a known beach area near Entrepot.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "The Morne Museum in Entrepot preserves history.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "The Folk Research Center in Entrepot explores traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square in Entrepot is a public park.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "This viewpoint near Entrepot offers a beautiful view.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "The Sir John Compton monument is in Entrepot.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "The Forestry Zoo in Entrepot is an attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "The Derick Walcott building in Entrepot is a monument.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia attractions can also be found in Entrepot.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park in Entrepot features historic ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "city",
     name: { de: "Entrepot", hu: "Entrepot", ro: "Entrepot", en: "Entrepot" },
@@ -2118,7 +8445,484 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-carellie-cities-v2.webp",
   },
   {
-    id: "saintlucia-chase-gardens-cities-v2",
+    id: "saintlucia-chase-gardens-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Das Vigie Lighthouse ist ein historischer Leuchtturm in Chase Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach ist ein bekannter weißer Sandstrand nahe dem Flughafen in Chase Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach ist ein lokaler Sandstrand in Chase Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "Das Morne Museum ist ein informatives Museum in Chase Gardens.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Das Folk Research Center ist ein Museum in Chase Gardens.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach ist ein malerischer Küstenabschnitt in Chase Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square ist ein bekannter öffentlicher Park in Chase Gardens, der nach dem Nobelpreisträger benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf Chase Gardens.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Das Sir John Compton Monument ist ein historisches Denkmal in Chase Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Der Forestry Zoo ist eine tierische Attraktion in Chase Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Das Derick Walcott Building dient als Wahrzeichen in Chase Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia ist eine bemerkenswerte Attraktion in Chase Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Im Provost Park befinden sich alte Ruinen in Chase Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "A Vigie Lighthouse egy történelmi világítótorony Chase Gardens városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "A Vigie Beach egy jól ismert fehér homokos strand a repülőtér közelében, Chase Gardens területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "A Choc Beach egy helyi homokos strand Chase Gardens településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "A Morne Museum egy informatív múzeum Chase Gardens városában.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "A Folk Research Center egy múzeum Chase Gardens területén.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "A Yellow Sands Beach egy festői partszakasz Chase Gardens településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "A Derek Walcott Square egy ismert közpark Chase Gardens területén, amelyet a Nobel-díjas íróról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Egy festői kilátó, amely panorámát kínál Chase Gardens területére.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "A Sir John Compton Monument egy történelmi emlékmű Chase Gardens városában.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "A Forestry Zoo egy állatos látványosság Chase Gardens területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "A Derick Walcott Building egy tájékozódási pont Chase Gardens városában.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "A Saint Lucia egy figyelemre méltó látványosság Chase Gardens városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "A Provost Park ősi romokkal rendelkezik Chase Gardens területén.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Vigie Lighthouse este un far istoric situat în Chase Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach este o plajă de nisip alb bine cunoscută situată în Chase Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach este o plajă locală de nisip situată în Chase Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "Morne Museum este un muzeu informativ situat în Chase Gardens.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Folk Research Center este un muzeu în Chase Gardens.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach este o porțiune pitorească de coastă în Chase Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square este un parc public proeminent în Chase Gardens, numit după laureatul premiului Nobel.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Un punct de belvedere pitoresc care oferă panorame asupra Chase Gardens.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Monumentul Sir John Compton este un monument istoric în Chase Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Forestry Zoo este o atracție cu animale situată în Chase Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Clădirea Derick Walcott servește ca un punct de reper în Chase Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia este o atracție notabilă situată în Chase Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park prezintă ruine antice situate în Chase Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Vigie Lighthouse is a historic lighthouse situated in Chase Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach is a well-known white sand beach situated near the airport in Chase Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach is a local sandy beach located in Chase Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "The Morne Museum is an informative museum located in Chase Gardens.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "The Folk Research Center operates as a museum in Chase Gardens.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach is a scenic stretch of coastline in Chase Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square is a prominent public park in Chase Gardens named after the Nobel laureate.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "A scenic viewpoint offering panoramas of Chase Gardens.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "The Sir John Compton Monument is a dedicated historical monument in Chase Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "The Forestry Zoo is an animal attraction located in Chase Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "The Derick Walcott Building serves as a landmark monument in Chase Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia is a notable point of interest situated in Chase Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park features ancient ruins located within Chase Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "city",
     name: { de: "Chase Gardens", hu: "Chase Gardens", ro: "Chase Gardens", en: "Chase Gardens" },
@@ -2163,7 +8967,448 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-chase-gardens-cities-v2.webp",
   },
   {
-    id: "saintlucia-la-clery-cities-v2",
+    id: "saintlucia-la-clery-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Der Vigie Lighthouse in La Clery ist ein markantes Leuchtfeuer.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach bei La Clery ist ein beliebter Sandstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach ist ein schöner Strandabschnitt bei La Clery.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "Das Morne Museum in La Clery bewahrt die lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Das Folk Research Center in La Clery erforscht Traditionen.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach ist ein schöner Strand in La Clery.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Der Derek Walcott Square in La Clery ist ein Park.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Dieser Aussichtspunkt bei La Clery bietet eine gute Sicht.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Das Sir John Compton Denkmal steht in La Clery.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Das Derick Walcott Gebäude in La Clery ist ein Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia Attraktionen gibt es auch in La Clery.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Ruinen in La Clery.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "A La Clery-beli Vigie Lighthouse egy jellegzetes világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "A La Clery melletti Vigie Beach egy népszerű homokos strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "A Choc Beach egy szép partszakasz La Clery közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "A La Clery-beli Morne Museum őrzi a helyi történelmet.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "A La Clery-beli Folk Research Center kutatja a hagyományokat.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "A Yellow Sands Beach egy szép strand La Clery-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "A La Clery-beli Derek Walcott Square egy park.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Ez a La Clery melletti kilátópont jó kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "A Sir John Compton emlékmű La Clery-ben áll.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "A La Clery-beli Derick Walcott épület egy emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia látnivalók La Clery-ben is találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Romok La Cleryben.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Vigie Lighthouse din La Clery este un far distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach lângă La Clery este o plajă populară cu nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach este o secțiune frumoasă de plajă lângă La Clery.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "Morne Museum din La Clery conservă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Folk Research Center din La Clery cercetează tradițiile.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach este o plajă frumoasă în La Clery.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square din La Clery este un parc.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Acest punct de belvedere lângă La Clery oferă o vedere bună.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Monumentul Sir John Compton se află în La Clery.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Clădirea Derick Walcott din La Clery este un monument.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Atracții Saint Lucia se găsesc și în La Clery.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Ruine în La Clery.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "The Vigie Lighthouse in La Clery is a distinctive beacon.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach near La Clery is a popular sandy beach.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach is a beautiful beach area near La Clery.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "The Morne Museum in La Clery preserves local history.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "The Folk Research Center in La Clery explores traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach is a lovely beach in La Clery.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square in La Clery is a park.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "This viewpoint near La Clery offers a good view.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "The Sir John Compton monument is in La Clery.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "The Derick Walcott building in La Clery is a monument.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia attractions can also be found in La Clery.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Ruins in La Clery.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "city",
     name: { de: "La Clery", hu: "La Clery", ro: "La Clery", en: "La Clery" },
@@ -2208,7 +9453,412 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-la-clery-cities-v2.webp",
   },
   {
-    id: "saintlucia-vide-bouteille-cities-v2",
+    id: "saintlucia-vide-bouteille-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Der Vigie Lighthouse ist ein historisches maritimes Leuchtfeuer in Vide Bouteille.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach ist ein bekannter weißer Sandstrand in Vide Bouteille in der Nähe des örtlichen Flughafens.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach ist ein schöner Ort am Meer in Vide Bouteille.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Das Folk Research Center ist ein kulturelles Museum in Vide Bouteille.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach ist ein Küstengebiet zur Erholung in Vide Bouteille.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Der Derek Walcott Square ist ein öffentlicher Park in Vide Bouteille, benannt nach dem berühmten Nobelpreisträger.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Dieser Aussichtspunkt bietet einen Panoramablick auf die Umgebung von Vide Bouteille.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Das Sir John Compton Monument ist eine Gedenkstätte in Vide Bouteille.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Der Forestry Zoo ist eine beliebte Tierattraktion in Vide Bouteille.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Das Derick Walcott Building ist ein architektonisches Denkmal in Vide Bouteille.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Diese lokale Attraktion in Vide Bouteille hebt Aspekte von St. Lucia hervor.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "A Vigie Lighthouse egy történelmi tengerészeti világítótorony Vide Bouteille-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "A Vigie Beach egy jelentős fehér homokos partszakasz Vide Bouteille-ben, közel a helyi repülőtérhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "A Choc Beach egy szép tengerparti helyszín Vide Bouteille városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "A Folk Research Center egy oktatási múzeum Vide Bouteille területén.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "A Marisule Beach egy tengerparti kikapcsolódást nyújtó terület Vide Bouteille-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "A Derek Walcott Square egy nyilvános park Vide Bouteille-ben, amelyet a híres Nobel-díjasról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Ez a kilátó panorámás kilátást nyújt a környező Vide Bouteille területére.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "A Sir John Compton-emlékmű egy emlékhely Vide Bouteille városában.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "A Forestry Zoo egy népszerű állatkert és látványosság Vide Bouteille területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "A Derick Walcott Building egy építészeti emlékmű Vide Bouteille-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Ez a helyi látványosság Vide Bouteille-ben Saint Lucia jellegzetességeit emeli ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Farul Vigie este un reper maritim istoric situat în Vide Bouteille.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach este o întindere remarcabilă de nisip alb din Vide Bouteille, situată aproape de aeroportul local.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach este o locație frumoasă la malul mării din Vide Bouteille.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Centrul de Cercetare Folclorică (Folk Research Center) este un muzeu educațional din Vide Bouteille.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach este o zonă de relaxare pe coastă situată în Vide Bouteille.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Piața Derek Walcott este un parc public din Vide Bouteille, numit după celebrul laureat al premiului Nobel.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Acest punct de belvedere oferă o vedere panoramică asupra zonei înconjurătoare din Vide Bouteille.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Monumentul Sir John Compton este un sit memorial situat în Vide Bouteille.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Forestry Zoo este o atracție populară cu animale din Vide Bouteille.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Clădirea Derick Walcott este un monument arhitectural din Vide Bouteille.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Această atracție locală din Vide Bouteille evidențiază aspecte ale insulei Sfânta Lucia.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Lighthouse",
+                  "text": "Vigie Lighthouse is a historic maritime beacon located in Vide Bouteille.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.00122,
+                        14.022348
+                  ]
+            },
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach is a notable white-sand stretch in Vide Bouteille, located close to the local airport.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach is a lovely seaside location situated in Vide Bouteille.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "The Folk Research Center is an educational museum located in Vide Bouteille.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach is a coastal relaxation area situated in Vide Bouteille.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square is a public park in Vide Bouteille, named after the famous Nobel Laureate.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "This view point offers panoramic sights of the surrounding Vide Bouteille area.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "The Sir John Compton Monument is a memorial site located in Vide Bouteille.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Forestry Zoo is a popular animal attraction in Vide Bouteille.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "The Derick Walcott Building is an architectural monument in Vide Bouteille.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "This local attraction in Vide Bouteille highlights aspects of Saint Lucia.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "city",
     name: { de: "Vide Bouteille", hu: "Vide Bouteille", ro: "Vide Bouteille", en: "Vide Bouteille" },
@@ -2253,7 +9903,232 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-vide-bouteille-cities-v2.webp",
   },
   {
-    id: "saintlucia-bissee-cities-v2",
+    id: "saintlucia-bissee-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach ist ein bekannter weißer Sandstrand in Bissee.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach ist ein Küstenabschnitt in Bissee, ideal für Strandbesucher.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Das Folk Research Center ist ein lokales Museum in Bissee.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach ist ein entspannender lokaler Strand in Bissee.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Ein lokaler Aussichtspunkt mit weitem Blick über Bissee.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Der Forestry Zoo ist eine Wildtierattraktion in Bissee.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "A Vigie Beach egy jelentős fehér homokos partszakasz Bissee területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "A Choc Beach egy kiváló partszakasz a strandolók számára Bissee városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "A Folk Research Center egy helyi múzeum Bissee területén.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "A Marisule Beach egy pihentető helyi strand Bissee városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Egy helyi kilátó, amely tágas kilátást nyújt Bissee területére.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "A Forestry Zoo egy vadvilági látványosság Bissee városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach este o porțiune notabilă de nisip alb situată în Bissee.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach este o porțiune de coastă ideală pentru plajă în Bissee.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Folk Research Center este un muzeu local în Bissee.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach este o plajă locală relaxantă situată în Bissee.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "Un punct de belvedere local care oferă vederi ample asupra Bissee.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Forestry Zoo este o atracție cu animale sălbatice în Bissee.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach is a notable stretch of white sand located in Bissee.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach is a coastal stretch perfect for beachgoers in Bissee.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "The Folk Research Center is a museum preserving local culture in Bissee.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach is a relaxing local beach situated in Bissee.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "A local viewpoint offering expansive views over Bissee.",
+                  "category": "natural",
+                  "coords": [
+                        -60.978443,
+                        14.008816
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "The Forestry Zoo is a wildlife attraction in Bissee.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "city",
     name: { de: "Bissee", hu: "Bissee", ro: "Bissee", en: "Bissee" },
@@ -2343,7 +10218,664 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-sunny-acres-cities-v2.webp",
   },
   {
-    id: "saintlucia-beausejour-cities-v2",
+    id: "saintlucia-beausejour-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Der Splash Island Water Park ist ein unterhaltsames Ausflugsziel in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap ist ein entspannender Sandstrand in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Anse Bécune Beach ist ein wunderschöner Küstenabschnitt in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach ist ein beliebtes Küstenziel zum Sonnenbaden in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Donkey Beach",
+                  "text": "Donkey Beach ist ein ruhiger Ort an der Küste in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.918619,
+                        14.095611
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach ist ein abgelegener Strandabschnitt in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Das Pigeon Island National Landmark ist eine historische Festungsanlage in Beausejour.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Pigeon Island Beach bietet einen malerischen Rückzugsort am Strand in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas ist ein Küstenstrand in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "$5 Beach ist ein Küstenabschnitt mit bemerkenswertem Namen in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Tousalee Beach ist eine entspannende Umgebung am Meer in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Secret Beach",
+                  "text": "Secret Beach bietet einen versteckten Rückzugsort am Strand in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.919419,
+                        14.092068
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Das Pigeon Is. interpretation Center ist eine lehrreiche Attraktion in Beausejour.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Die US Signaling Station ist eine historische Ruine in Beausejour.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Die WWII Old U.S. Military Pillars stehen als historische Ruinen in Beausejour.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Die Aquaholics Kite surfing School ist eine aktive Touristenattraktion in Beausejour.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "Der Gorgona forest ist ein natürlicher Aussichtspunkt mit weiten Landschaften in Beausejour.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Cactus forest",
+                  "text": "Der Cactus forest ist ein einzigartiger malerischer Aussichtspunkt in Beausejour.",
+                  "category": "natural",
+                  "coords": [
+                        -60.918712,
+                        14.096891
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "A Splash Island Water Park egy szórakoztató vízi célpont Beausejour városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Az Anse du Cap egy pihentető homokos strand Beausejour területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Az Anse Bécune Beach egy gyönyörű tengerparti szakasz Beausejour városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "A Reduit Beach egy népszerű tengerparti célpont napozáshoz Beausejour-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Donkey Beach",
+                  "text": "A Donkey Beach egy csendes tengerparti hely Beausejour területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.918619,
+                        14.095611
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "A Smugglers Cove Beach egy eldugott partszakasz Beausejour városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "A Pigeon Island National Landmark egy történelmi erődítmény Beausejour-ban.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "A Pigeon Island Beach egy festői homokos menedékhely Beausejour területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "A Cas en bas egy tengerparti célpont Beausejour városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "A $5 Beach egy érdekes nevű tengerparti hely Beausejour-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "A Tousalee Beach egy pihentető tengerparti környezet Beausejour városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Secret Beach",
+                  "text": "A Secret Beach egy eldugott homokos menedék Beausejour területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.919419,
+                        14.092068
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "A Pigeon Is. interpretation Center egy oktatási látványosság Beausejour-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Az US Signaling Station egy történelmi romépület Beausejour városában.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "A WWII Old U.S. Military Pillars második világháborús történelmi romok Beausejour városában.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Az Aquaholics Kite surfing School egy aktív turisztikai látványosság Beausejour-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "A Gorgona forest egy természetes kilátó, amely csodálatos tájat kínál Beausejour területén.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Cactus forest",
+                  "text": "A Cactus forest egy egyedülálló, festői kilátóhely Beausejour városában.",
+                  "category": "natural",
+                  "coords": [
+                        -60.918712,
+                        14.096891
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Splash Island Water Park este o destinație acvatică distractivă din Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap este o plajă relaxantă cu nisip situată în Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Plaja Anse Bécune este o porțiune frumoasă de litoral din Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach este o destinație de coastă populară pentru plajă în Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Donkey Beach",
+                  "text": "Donkey Beach este un loc liniștit pe coastă, situat în Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.918619,
+                        14.095611
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach este o destinație retrasă pe țărm din Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Pigeon Island National Landmark este un sit istoric cu fortificații din Beausejour.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Plaja Pigeon Island oferă un refugiu pitoresc cu nisip în Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas este o plajă pe litoralul din Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "Plaja $5 este un loc de coastă cu un nume inedit din Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Tousalee Beach este un mediu relaxant la malul mării situat în Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Secret Beach",
+                  "text": "Secret Beach oferă o evadare ascunsă pe nisip situată în Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.919419,
+                        14.092068
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Centrul de interpretare Pigeon Is. este o atracție educațională din Beausejour.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "US Signaling Station prezintă ruine istorice situate în Beausejour.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Vechii stâlpi militari americani din Al Doilea Război Mondial sunt ruine istorice în Beausejour.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Școala de kitesurfing Aquaholics este o atracție turistică activă din Beausejour.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "Pădurea Gorgona este un punct de belvedere natural care oferă peisaje vaste în Beausejour.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Cactus forest",
+                  "text": "Pădurea de cactuși este un punct de belvedere pitoresc și unic situat în Beausejour.",
+                  "category": "natural",
+                  "coords": [
+                        -60.918712,
+                        14.096891
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Splash Island Water Park is a fun aquatic destination located in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap is a relaxing sandy beach situated in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Anse Bécune Beach is a beautiful seaside stretch located in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach is a popular coastal destination for sunbathing in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Donkey Beach",
+                  "text": "Donkey Beach is a quiet coastal spot located in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.918619,
+                        14.095611
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach is a secluded shoreline destination in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Pigeon Island National Landmark is a historic fort site located in Beausejour.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Pigeon Island Beach offers a scenic sandy retreat in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas is a coastal beach destination situated in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "$5 Beach is a notably named coastal spot located in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Tousalee Beach is a relaxing seaside environment located in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "Secret Beach",
+                  "text": "Secret Beach offers a hidden sandy escape situated in Beausejour.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.919419,
+                        14.092068
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "The Pigeon Is. interpretation Center is an educational attraction in Beausejour.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "The US Signaling Station features historical ruins located in Beausejour.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "The WWII Old U.S. Military Pillars stand as historic ruins in Beausejour.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Aquaholics Kite surfing School is an active tourist attraction in Beausejour.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            },
+            {
+                  "name": "Gorgona forest",
+                  "text": "Gorgona forest is a natural viewpoint offering sweeping landscapes in Beausejour.",
+                  "category": "natural",
+                  "coords": [
+                        -60.919969,
+                        14.091096
+                  ]
+            },
+            {
+                  "name": "Cactus forest",
+                  "text": "The Cactus forest is a unique scenic viewpoint located in Beausejour.",
+                  "category": "natural",
+                  "coords": [
+                        -60.918712,
+                        14.096891
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "town",
     name: { de: "Beausejour", hu: "Beausejour", ro: "Beausejour", en: "Beausejour" },
@@ -2433,7 +10965,376 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-bonne-terre-cities-v2.webp",
   },
   {
-    id: "saintlucia-rodney-heights-cities-v2",
+    id: "saintlucia-rodney-heights-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Wasserpark in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Strand in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Strand in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Strand in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Strand in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Strand in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Strand in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "Strand in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Strand in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Militärruinen in Rodney Heights.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Vízi park Rodney Heightsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Strand Rodney Heightsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Strand Rodney Heightsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Strand Rodney Heightsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Strand Rodney Heightsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Strand Rodney Heightsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Strand Rodney Heightsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "Strand Rodney Heightsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Strand Rodney Heightsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Katonai romok Rodney Heightsban.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Parc acvatic în Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Plajă în Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Plajă în Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Plajă în Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Plajă în Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Plajă în Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Plajă în Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "Plajă în Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Plajă în Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Ruine militare în Rodney Heights.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Water park in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Beach in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Beach in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Beach in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Beach in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Beach in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Beach in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "$5 Beach",
+                  "text": "Beach in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.921624,
+                        14.08362
+                  ]
+            },
+            {
+                  "name": "Tousalee Beach",
+                  "text": "Beach in Rodney Heights.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.9196,
+                        14.079342
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Military ruins in Rodney Heights.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "town",
     name: { de: "Rodney Heights", hu: "Rodney Heights", ro: "Rodney Heights", en: "Rodney Heights" },
@@ -2478,7 +11379,124 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-rodney-heights-cities-v2.webp",
   },
   {
-    id: "saintlucia-mon-repos-east-cities-v2",
+    id: "saintlucia-mon-repos-east-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "Das Sessene Descartes House ist ein lokales Museum in Mon Repos East.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Grand pa's old house ist eine interessante Ruine in Mon Repos East.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "Die Ruinen von Madame de Ricoud sind Überreste vergangener Bauwerke in Mon Repos East.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "A Sessene Descartes House egy helyi múzeum Mon Repos East településen.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "A Grand pa's old house egy érdekes romos épület Mon Repos East városában.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "A Madame de Ricoud romok a múlt építményeinek maradványai Mon Repos East területén.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "Casa Sessene Descartes este un muzeu local din Mon Repos East.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Casa veche a bunicului este o ruină interesantă din Mon Repos East.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "Ruinele Madame de Ricoud sunt rămășițele unor structuri din trecut în Mon Repos East.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "The Sessene Descartes House is a local museum situated in Mon Repos East.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Grand pa's old house",
+                  "text": "Grand pa's old house is an interesting ruined structure located in Mon Repos East.",
+                  "category": "historical",
+                  "coords": [
+                        -60.901863,
+                        13.867622
+                  ]
+            },
+            {
+                  "name": "Madame de Ricoud ruins",
+                  "text": "The Madame de Ricoud ruins are remnants of past structures in Mon Repos East.",
+                  "category": "historical",
+                  "coords": [
+                        -60.903374,
+                        13.869467
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Mon Repos East", hu: "Mon Repos East", ro: "Mon Repos East", en: "Mon Repos East" },
@@ -2523,7 +11541,52 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-mon-repos-east-cities-v2.webp",
   },
   {
-    id: "saintlucia-balata-east-cities-v2",
+    id: "saintlucia-balata-east-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Der Forestry Zoo ist eine Attraktion in Balata East.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forestry Zoo",
+                  "text": "A Forestry Zoo egy látványosság Balata East városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Forestry Zoo este o atracție situată în Balata East.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forestry Zoo",
+                  "text": "The Forestry Zoo is an attraction located in Balata East.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Balata East", hu: "Balata East", ro: "Balata East", en: "Balata East" },
@@ -2568,7 +11631,196 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-balata-east-cities-v2.webp",
   },
   {
-    id: "saintlucia-union-west-cities-v2",
+    id: "saintlucia-union-west-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Beliebter Strand in Union West.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Strand in Union West.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Museum in Union West.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Strand in Union West.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Tierpark in Union West.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Népszerű strand Union Westben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Strand Union Westben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Múzeum Union Westben.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Strand Union Westben.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Állatkert Union Westben.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Plajă populară în Union West.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Plajă în Union West.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Muzeu în Union West.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Plajă în Union West.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Grădină zoologică în Union West.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Popular beach in Union West.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Beach in Union West.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Folk Research Center",
+                  "text": "Museum in Union West.",
+                  "category": "museum",
+                  "coords": [
+                        -60.984748,
+                        14.0145
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Beach in Union West.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            },
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Zoo in Union West.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Union West", hu: "Union West", ro: "Union West", en: "Union West" },
@@ -2658,7 +11910,196 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-marisule-beach-cities-v2.webp",
   },
   {
-    id: "saintlucia-choc-commercial-cities-v2",
+    id: "saintlucia-choc-commercial-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach ist eine berühmte Sandküste in Choc Commercial, die für ihren Verlauf entlang des örtlichen Flughafens bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach ist ein schönes Ziel am Meer in Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Francois Beach ist ein Sandstrand in Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach ist eine ruhige Strandumgebung in Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach ist ein Strandabschnitt in Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "A Vigie Beach egy híres homokos partszakasz Choc Commercial közelében, amely a helyi repülőtér mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "A Choc Beach egy kellemes tengerparti úti cél Choc Commercial területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "A Francois Beach egy homokos tengerparti hely Choc Commercial városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "A Trouya Beach egy nyugodt tengerparti környezet Choc Commercial településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "A Marisule Beach egy tengerparti szakasz Choc Commercial területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach este o coastă renumită cu nisip din Choc Commercial, cunoscută pentru faptul că se află lângă aeroportul local.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach este o destinație plăcută pe malul mării din Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Francois Beach este un loc cu plajă de nisip situat în Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach este un mediu liniștit la malul mării din Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach este o plajă situată în Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach is a renowned sandy coastline in Choc Commercial, known for running alongside the local airport.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "Choc Beach",
+                  "text": "Choc Beach is a pleasant seaside destination located in Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.975235,
+                        14.033723
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Francois Beach is a sandy coastal spot situated in Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach is a tranquil beach environment located in Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Marisule Beach is a coastal spot located in Choc Commercial.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "city",
     name: { de: "Choc Commercial", hu: "Choc Commercial", ro: "Choc Commercial", en: "Choc Commercial" },
@@ -2748,7 +12189,124 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-desruisseaux-west-cities-v2.webp",
   },
   {
-    id: "saintlucia-augier-south-cities-v2",
+    id: "saintlucia-augier-south-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Black Bay Beach",
+                  "text": "Strand in Augier South.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.981244,
+                        13.736239
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Strand in Augier South.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "Denkmal in Augier South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Black Bay Beach",
+                  "text": "Strand Augier Southban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.981244,
+                        13.736239
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Strand Augier Southban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "Emlékmű Augier Southban.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Black Bay Beach",
+                  "text": "Plajă în Augier South.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.981244,
+                        13.736239
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Plajă în Augier South.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "Monument în Augier South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Black Bay Beach",
+                  "text": "Beach in Augier South.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.981244,
+                        13.736239
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Beach in Augier South.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "Monument in Augier South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Augier South", hu: "Augier South", ro: "Augier South", en: "Augier South" },
@@ -2838,7 +12396,448 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-laborie-north-cities-v2.webp",
   },
   {
-    id: "saintlucia-soufriere-hills-cities-v2",
+    id: "saintlucia-soufriere-hills-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soufrière Beach",
+                  "text": "Soufrière Beach ist ein malerisches Küstenziel in den Soufrière Hills.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.062251,
+                        13.857694
+                  ]
+            },
+            {
+                  "name": "Malgretoute Beach",
+                  "text": "Malgretoute Beach ist ein malerischer Sandstrand in den Soufrière Hills.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063415,
+                        13.842697
+                  ]
+            },
+            {
+                  "name": "Diamond Botanical Garden",
+                  "text": "Der Diamond Botanical Garden ist ein üppiger öffentlicher Garten in den Soufrière Hills.",
+                  "category": "park",
+                  "coords": [
+                        -61.049196,
+                        13.852832
+                  ]
+            },
+            {
+                  "name": "Sulphur Springs",
+                  "text": "Sulphur Springs ist berühmt als der weltweit einzige Drive-in-Vulkan in den Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.04647,
+                        13.838658
+                  ]
+            },
+            {
+                  "name": "Soufriere",
+                  "text": "Soufriere ist ein spektakulärer Aussichtspunkt in den Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.061215,
+                        13.84841
+                  ]
+            },
+            {
+                  "name": "Soufriere Coconut Factory",
+                  "text": "Die Soufriere Coconut Factory bietet historische Ruinen in den Soufrière Hills.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05586,
+                        13.858217
+                  ]
+            },
+            {
+                  "name": "Toraille Atv Park and Trail",
+                  "text": "Toraille Atv Park and Trail ist eine Abenteuer-Attraktion in den Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.036921,
+                        13.853591
+                  ]
+            },
+            {
+                  "name": "On pitons",
+                  "text": "On pitons ist ein bemerkenswerter Aussichtspunkt in den Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.050601,
+                        13.865525
+                  ]
+            },
+            {
+                  "name": "Big Nature",
+                  "text": "Big Nature bietet weitreichende malerische Ausblicke über die Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.048865,
+                        13.834851
+                  ]
+            },
+            {
+                  "name": "Project Chocolate",
+                  "text": "Project Chocolate ist eine thematische Attraktion in den Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.047526,
+                        13.833759
+                  ]
+            },
+            {
+                  "name": "UNESCO World Heritage",
+                  "text": "Die UNESCO World Heritage Plaque dient als Aussichtspunkt in den Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.06011,
+                        13.845803
+                  ]
+            },
+            {
+                  "name": "Morne Coubaril Historical Adventure Park",
+                  "text": "Der Morne Coubaril Historical Adventure Park ist eine Attraktion in den Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.056706,
+                        13.847204
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soufrière Beach",
+                  "text": "A Soufrière Beach egy festői tengerparti célpont a Soufrière Hills területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.062251,
+                        13.857694
+                  ]
+            },
+            {
+                  "name": "Malgretoute Beach",
+                  "text": "A Malgretoute Beach egy festői homokos partszakasz a Soufrière Hills térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063415,
+                        13.842697
+                  ]
+            },
+            {
+                  "name": "Diamond Botanical Garden",
+                  "text": "A Diamond Botanical Garden egy buja közkert a Soufrière Hills területén.",
+                  "category": "park",
+                  "coords": [
+                        -61.049196,
+                        13.852832
+                  ]
+            },
+            {
+                  "name": "Sulphur Springs",
+                  "text": "A Sulphur Springs arról híres, hogy ez a világ egyetlen autós vulkánja a Soufrière Hills térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.04647,
+                        13.838658
+                  ]
+            },
+            {
+                  "name": "Soufriere",
+                  "text": "A Soufriere egy látványos kilátó a Soufrière Hills területén.",
+                  "category": "natural",
+                  "coords": [
+                        -61.061215,
+                        13.84841
+                  ]
+            },
+            {
+                  "name": "Soufriere Coconut Factory",
+                  "text": "A Soufriere Coconut Factory történelmi romokat mutat be a Soufrière Hills térségében.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05586,
+                        13.858217
+                  ]
+            },
+            {
+                  "name": "Toraille Atv Park and Trail",
+                  "text": "A Toraille Atv Park and Trail egy kalandpark a Soufrière Hills területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.036921,
+                        13.853591
+                  ]
+            },
+            {
+                  "name": "On pitons",
+                  "text": "Az On pitons egy figyelemre méltó kilátó a Soufrière Hills térségében.",
+                  "category": "natural",
+                  "coords": [
+                        -61.050601,
+                        13.865525
+                  ]
+            },
+            {
+                  "name": "Big Nature",
+                  "text": "A Big Nature kiterjedt, festői kilátást nyújt a Soufrière Hills területére.",
+                  "category": "natural",
+                  "coords": [
+                        -61.048865,
+                        13.834851
+                  ]
+            },
+            {
+                  "name": "Project Chocolate",
+                  "text": "A Project Chocolate egy tematikus látogatói attrakció a Soufrière Hills területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.047526,
+                        13.833759
+                  ]
+            },
+            {
+                  "name": "UNESCO World Heritage",
+                  "text": "Az UNESCO világörökségi emléktábla kilátóként szolgál a Soufrière Hills térségében.",
+                  "category": "natural",
+                  "coords": [
+                        -61.06011,
+                        13.845803
+                  ]
+            },
+            {
+                  "name": "Morne Coubaril Historical Adventure Park",
+                  "text": "A Morne Coubaril Historical Adventure Park egy helyi látványosság a Soufrière Hills területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.056706,
+                        13.847204
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soufrière Beach",
+                  "text": "Plaja Soufrière este o destinație de coastă pitorească în Soufrière Hills.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.062251,
+                        13.857694
+                  ]
+            },
+            {
+                  "name": "Malgretoute Beach",
+                  "text": "Plaja Malgretoute este o porțiune pitorească de nisip în Soufrière Hills.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063415,
+                        13.842697
+                  ]
+            },
+            {
+                  "name": "Diamond Botanical Garden",
+                  "text": "Grădina Botanică Diamond este o grădină publică luxuriantă situată în Soufrière Hills.",
+                  "category": "park",
+                  "coords": [
+                        -61.049196,
+                        13.852832
+                  ]
+            },
+            {
+                  "name": "Sulphur Springs",
+                  "text": "Sulphur Springs este faimos ca fiind singurul vulcan cu acces auto din lume, în Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.04647,
+                        13.838658
+                  ]
+            },
+            {
+                  "name": "Soufriere",
+                  "text": "Soufriere este un punct de belvedere spectaculos în Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.061215,
+                        13.84841
+                  ]
+            },
+            {
+                  "name": "Soufriere Coconut Factory",
+                  "text": "Soufriere Coconut Factory prezintă ruine istorice în Soufrière Hills.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05586,
+                        13.858217
+                  ]
+            },
+            {
+                  "name": "Toraille Atv Park and Trail",
+                  "text": "Toraille Atv Park and Trail este o atracție de aventură în Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.036921,
+                        13.853591
+                  ]
+            },
+            {
+                  "name": "On pitons",
+                  "text": "On pitons este un punct de belvedere remarcabil situat în Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.050601,
+                        13.865525
+                  ]
+            },
+            {
+                  "name": "Big Nature",
+                  "text": "Big Nature oferă vederi pitorești ample asupra Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.048865,
+                        13.834851
+                  ]
+            },
+            {
+                  "name": "Project Chocolate",
+                  "text": "Project Chocolate este o atracție tematică în Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.047526,
+                        13.833759
+                  ]
+            },
+            {
+                  "name": "UNESCO World Heritage",
+                  "text": "Placa Patrimoniului Mondial UNESCO servește ca punct de belvedere în Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.06011,
+                        13.845803
+                  ]
+            },
+            {
+                  "name": "Morne Coubaril Historical Adventure Park",
+                  "text": "Parcul de aventură istorică Morne Coubaril este o atracție în Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.056706,
+                        13.847204
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soufrière Beach",
+                  "text": "Soufrière Beach is a picturesque coastal destination in Soufrière Hills.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.062251,
+                        13.857694
+                  ]
+            },
+            {
+                  "name": "Malgretoute Beach",
+                  "text": "Malgretoute Beach is a scenic stretch of sand in Soufrière Hills.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063415,
+                        13.842697
+                  ]
+            },
+            {
+                  "name": "Diamond Botanical Garden",
+                  "text": "Diamond Botanical Garden is a lush public garden located in Soufrière Hills.",
+                  "category": "park",
+                  "coords": [
+                        -61.049196,
+                        13.852832
+                  ]
+            },
+            {
+                  "name": "Sulphur Springs",
+                  "text": "Sulphur Springs is famous for being the world's only drive-in volcano, located in Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.04647,
+                        13.838658
+                  ]
+            },
+            {
+                  "name": "Soufriere",
+                  "text": "Soufriere is a spectacular viewpoint in Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.061215,
+                        13.84841
+                  ]
+            },
+            {
+                  "name": "Soufriere Coconut Factory",
+                  "text": "The Soufriere Coconut Factory features historic ruins in Soufrière Hills.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05586,
+                        13.858217
+                  ]
+            },
+            {
+                  "name": "Toraille Atv Park and Trail",
+                  "text": "Toraille Atv Park and Trail is an adventure attraction in Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.036921,
+                        13.853591
+                  ]
+            },
+            {
+                  "name": "On pitons",
+                  "text": "On pitons is a remarkable viewpoint situated in Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.050601,
+                        13.865525
+                  ]
+            },
+            {
+                  "name": "Big Nature",
+                  "text": "Big Nature offers expansive scenic views over Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.048865,
+                        13.834851
+                  ]
+            },
+            {
+                  "name": "Project Chocolate",
+                  "text": "Project Chocolate is a themed visitor attraction in Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.047526,
+                        13.833759
+                  ]
+            },
+            {
+                  "name": "UNESCO World Heritage Plaque",
+                  "text": "The UNESCO World Heritage Plaque serves as a viewpoint in Soufrière Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -61.06011,
+                        13.845803
+                  ]
+            },
+            {
+                  "name": "Morne Coubaril Historical Adventure Park",
+                  "text": "Morne Coubaril Historical Adventure Park is an active attraction in Soufrière Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.056706,
+                        13.847204
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Soufrière Hills", hu: "Soufrière Hills", ro: "Soufrière Hills", en: "Soufrière Hills" },
@@ -2883,7 +12882,304 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-soufriere-hills-cities-v2.webp",
   },
   {
-    id: "saintlucia-anse-la-raye-inland-cities-v2",
+    id: "saintlucia-anse-la-raye-inland-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Strand in Anse La Raye Inland.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "Strand in Anse La Raye Inland.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "Aussichtspunkt in Anse La Raye Inland.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "Aussichtspunkt in Anse La Raye Inland.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "Galerie in Anse La Raye Inland.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "Attraktion in Anse La Raye Inland.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "Paula's Place",
+                  "text": "Attraktion in Anse La Raye Inland.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.045667,
+                        13.935463
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "Ruinen einer alten Polizeistation in Anse La Raye Inland.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Strand Anse La Raye Inlandban.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "Strand Anse La Raye Inlandban.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "Kilátópont Anse La Raye Inlandban.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "Kilátópont Anse La Raye Inlandban.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "Galéria Anse La Raye Inlandban.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "Látnivaló Anse La Raye Inlandban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "Paula's Place",
+                  "text": "Látnivaló Anse La Raye Inlandban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.045667,
+                        13.935463
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "Régi rendőrőrs romjai Anse La Raye Inlandban.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Plajă în Anse La Raye Inland.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "Plajă în Anse La Raye Inland.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "Punct de observație în Anse La Raye Inland.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "Punct de observație în Anse La Raye Inland.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "Galerie în Anse La Raye Inland.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "Atracție în Anse La Raye Inland.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "Paula's Place",
+                  "text": "Atracție în Anse La Raye Inland.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.045667,
+                        13.935463
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "Ruinele unei vechi secții de poliție în Anse La Raye Inland.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roseau Beach",
+                  "text": "Beach in Anse La Raye Inland.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.034509,
+                        13.958362
+                  ]
+            },
+            {
+                  "name": "Tolonge Beach",
+                  "text": "Beach in Anse La Raye Inland.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.044721,
+                        13.944407
+                  ]
+            },
+            {
+                  "name": "Viewing Point",
+                  "text": "Viewpoint in Anse La Raye Inland.",
+                  "category": "natural",
+                  "coords": [
+                        -61.043808,
+                        13.942563
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "Viewpoint in Anse La Raye Inland.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "The Melting Pot",
+                  "text": "Gallery in Anse La Raye Inland.",
+                  "category": "museum",
+                  "coords": [
+                        -61.043986,
+                        13.937796
+                  ]
+            },
+            {
+                  "name": "St. Lucia Bamboo Rafting",
+                  "text": "Attraction in Anse La Raye Inland.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.026548,
+                        13.955839
+                  ]
+            },
+            {
+                  "name": "Paula's Place",
+                  "text": "Attraction in Anse La Raye Inland.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.045667,
+                        13.935463
+                  ]
+            },
+            {
+                  "name": "Old Police Station",
+                  "text": "Ruins of an old police station in Anse La Raye Inland.",
+                  "category": "historical",
+                  "coords": [
+                        -61.043255,
+                        13.940073
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Anse La Raye Inland", hu: "Anse La Raye Inland", ro: "Anse La Raye Inland", en: "Anse La Raye Inland" },
@@ -2928,7 +13224,124 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-anse-la-raye-inland-cities-v2.webp",
   },
   {
-    id: "saintlucia-canaries-north-cities-v2",
+    id: "saintlucia-canaries-north-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anse Cochon Beach",
+                  "text": "Anse Cochon Beach ist ein Strand in Canaries North.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.056863,
+                        13.926545
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "Horizon ist ein Aussichtspunkt in Canaries North.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "Adeline's Art Cafe",
+                  "text": "Adeline's Art Cafe ist eine Kunstgalerie in Canaries North.",
+                  "category": "museum",
+                  "coords": [
+                        -61.062633,
+                        13.90641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anse Cochon Beach",
+                  "text": "Az Anse Cochon Beach egy strand Canaries North területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.056863,
+                        13.926545
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "A Horizon egy kilátó Canaries North területén.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "Adeline's Art Cafe",
+                  "text": "Az Adeline's Art Cafe egy művészeti galéria Canaries North területén.",
+                  "category": "museum",
+                  "coords": [
+                        -61.062633,
+                        13.90641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anse Cochon Beach",
+                  "text": "Anse Cochon Beach este o plajă situată în Canaries North.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.056863,
+                        13.926545
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "Horizon este un punct de belvedere din Canaries North.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "Adeline's Art Cafe",
+                  "text": "Adeline's Art Cafe este o galerie de artă situată în Canaries North.",
+                  "category": "museum",
+                  "coords": [
+                        -61.062633,
+                        13.90641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anse Cochon Beach",
+                  "text": "Anse Cochon Beach is a secluded beach situated in Canaries North.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.056863,
+                        13.926545
+                  ]
+            },
+            {
+                  "name": "Horizon",
+                  "text": "Horizon is a scenic viewpoint located in Canaries North.",
+                  "category": "natural",
+                  "coords": [
+                        -61.045695,
+                        13.916994
+                  ]
+            },
+            {
+                  "name": "Adeline's Art Cafe",
+                  "text": "Adeline's Art Cafe is an art gallery and cafe located in Canaries North.",
+                  "category": "museum",
+                  "coords": [
+                        -61.062633,
+                        13.90641
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Canaries North", hu: "Canaries North", ro: "Canaries North", en: "Canaries North" },
@@ -2973,7 +13386,304 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-canaries-north-cities-v2.webp",
   },
   {
-    id: "saintlucia-choiseul-east-cities-v2",
+    id: "saintlucia-choiseul-east-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Choiseul Petroglyph",
+                  "text": "Das Choiseul Petroglyph ist eine archäologische Stätte in Choiseul East.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05113,
+                        13.776357
+                  ]
+            },
+            {
+                  "name": "Choiseul village public beach",
+                  "text": "Der öffentliche Strand von Choiseul ist ein gemeinschaftlicher Sandstrand in Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.050682,
+                        13.775387
+                  ]
+            },
+            {
+                  "name": "River Doree Beach",
+                  "text": "River Doree Beach ist ein malerischer Sandstrand in Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Sable Wiche Sha Beach, Choiseul",
+                  "text": "Sable Wiche Sha Beach ist ein Strand in Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.054851,
+                        13.780025
+                  ]
+            },
+            {
+                  "name": "La Pointe Beach",
+                  "text": "La Pointe Beach ist ein Strand in Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063043,
+                        13.786981
+                  ]
+            },
+            {
+                  "name": "Morne Sion Wind Mill",
+                  "text": "Morne Sion Wind Mill ist eine Ruine in Choiseul East.",
+                  "category": "historical",
+                  "coords": [
+                        -61.057984,
+                        13.787175
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "Caribbean Imprints ist ein Kunstzentrum in Choiseul East.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Balenbouche Estate",
+                  "text": "Balenbouche Estate ist eine Sehenswürdigkeit in Choiseul East.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.027023,
+                        13.756616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Choiseul Petroglyph",
+                  "text": "A Choiseul Petroglyph egy régészeti lelőhely Choiseul East városában.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05113,
+                        13.776357
+                  ]
+            },
+            {
+                  "name": "Choiseul village public beach",
+                  "text": "A Choiseul falu nyilvános strandja egy közösségi partszakasz Choiseul East területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.050682,
+                        13.775387
+                  ]
+            },
+            {
+                  "name": "River Doree Beach",
+                  "text": "A River Doree Beach egy festői homokos strand Choiseul East városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Sable Wiche Sha Beach, Choiseul",
+                  "text": "Sable Wiche Sha Beach egy strand Choiseul East területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.054851,
+                        13.780025
+                  ]
+            },
+            {
+                  "name": "La Pointe Beach",
+                  "text": "La Pointe Beach egy strand Choiseul East területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063043,
+                        13.786981
+                  ]
+            },
+            {
+                  "name": "Morne Sion Wind Mill",
+                  "text": "Morne Sion Wind Mill egy rom Choiseul East területén.",
+                  "category": "historical",
+                  "coords": [
+                        -61.057984,
+                        13.787175
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "Caribbean Imprints egy művészeti központ Choiseul East területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Balenbouche Estate",
+                  "text": "Balenbouche Estate egy látványosság Choiseul East területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.027023,
+                        13.756616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Choiseul Petroglyph",
+                  "text": "Choiseul Petroglyph este un sit arheologic în Choiseul East.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05113,
+                        13.776357
+                  ]
+            },
+            {
+                  "name": "Choiseul village public beach",
+                  "text": "Plaja publică a satului Choiseul este o porțiune comunală de plajă în Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.050682,
+                        13.775387
+                  ]
+            },
+            {
+                  "name": "River Doree Beach",
+                  "text": "River Doree Beach este o plajă de nisip pitorească situată în Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Sable Wiche Sha Beach, Choiseul",
+                  "text": "Sable Wiche Sha Beach este o plajă în Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.054851,
+                        13.780025
+                  ]
+            },
+            {
+                  "name": "La Pointe Beach",
+                  "text": "La Pointe Beach este o plajă în Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063043,
+                        13.786981
+                  ]
+            },
+            {
+                  "name": "Morne Sion Wind Mill",
+                  "text": "Morne Sion Wind Mill este o ruină în Choiseul East.",
+                  "category": "historical",
+                  "coords": [
+                        -61.057984,
+                        13.787175
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "Caribbean Imprints este un centru de arte în Choiseul East.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Balenbouche Estate",
+                  "text": "Balenbouche Estate este o atracție în Choiseul East.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.027023,
+                        13.756616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Choiseul Petroglyph",
+                  "text": "Choiseul Petroglyph is an archaeological site in Choiseul East.",
+                  "category": "historical",
+                  "coords": [
+                        -61.05113,
+                        13.776357
+                  ]
+            },
+            {
+                  "name": "Choiseul village public beach",
+                  "text": "Choiseul village public beach is a communal stretch of sand in Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.050682,
+                        13.775387
+                  ]
+            },
+            {
+                  "name": "River Doree Beach",
+                  "text": "River Doree Beach is a scenic sandy beach located in Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.037447,
+                        13.759551
+                  ]
+            },
+            {
+                  "name": "Sable Wiche Sha Beach, Choiseul",
+                  "text": "Sable Wiche Sha Beach is a beach located in Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.054851,
+                        13.780025
+                  ]
+            },
+            {
+                  "name": "La Pointe Beach",
+                  "text": "La Pointe Beach is a beach located in Choiseul East.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.063043,
+                        13.786981
+                  ]
+            },
+            {
+                  "name": "Morne Sion Wind Mill",
+                  "text": "Morne Sion Wind Mill is a ruins site located in Choiseul East.",
+                  "category": "historical",
+                  "coords": [
+                        -61.057984,
+                        13.787175
+                  ]
+            },
+            {
+                  "name": "Caribbean Imprints",
+                  "text": "Caribbean Imprints is an arts centre located in Choiseul East.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.043612,
+                        13.777246
+                  ]
+            },
+            {
+                  "name": "Balenbouche Estate",
+                  "text": "Balenbouche Estate is an attraction located in Choiseul East.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.027023,
+                        13.756616
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Choiseul East", hu: "Choiseul East", ro: "Choiseul East", en: "Choiseul East" },
@@ -3018,7 +13728,160 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-choiseul-east-cities-v2.webp",
   },
   {
-    id: "saintlucia-vieux-fort-north-cities-v2",
+    id: "saintlucia-vieux-fort-north-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moule-à-Chique",
+                  "text": "Leuchtturm in Vieux Fort North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.941672,
+                        13.711128
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Strand in Vieux Fort North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Maria Islands Nature Reserve",
+                  "text": "Naturschutzgebiet in Vieux Fort North.",
+                  "category": "natural",
+                  "coords": [
+                        -60.931429,
+                        13.72605
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "Denkmal in Vieux Fort North.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moule-à-Chique",
+                  "text": "Világítótorony Vieux Fort Northban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.941672,
+                        13.711128
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Strand Vieux Fort Northban.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Maria Islands Nature Reserve",
+                  "text": "Természetvédelmi terület Vieux Fort Northban.",
+                  "category": "natural",
+                  "coords": [
+                        -60.931429,
+                        13.72605
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "Emlékmű Vieux Fort Northban.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moule-à-Chique",
+                  "text": "Far în Vieux Fort North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.941672,
+                        13.711128
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Plajă în Vieux Fort North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Maria Islands Nature Reserve",
+                  "text": "Rezervație naturală în Vieux Fort North.",
+                  "category": "natural",
+                  "coords": [
+                        -60.931429,
+                        13.72605
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "Monument în Vieux Fort North.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moule-à-Chique",
+                  "text": "Lighthouse in Vieux Fort North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.941672,
+                        13.711128
+                  ]
+            },
+            {
+                  "name": "Mankote Beach",
+                  "text": "Beach in Vieux Fort North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.935588,
+                        13.74477
+                  ]
+            },
+            {
+                  "name": "Maria Islands Nature Reserve",
+                  "text": "Nature reserve in Vieux Fort North.",
+                  "category": "natural",
+                  "coords": [
+                        -60.931429,
+                        13.72605
+                  ]
+            },
+            {
+                  "name": "Independence Square Monument",
+                  "text": "Monument in Vieux Fort North.",
+                  "category": "historical",
+                  "coords": [
+                        -60.953327,
+                        13.729686
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Vieux Fort North", hu: "Vieux Fort North", ro: "Vieux Fort North", en: "Vieux Fort North" },
@@ -3063,7 +13926,160 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-vieux-fort-north-cities-v2.webp",
   },
   {
-    id: "saintlucia-micoud-north-cities-v2",
+    id: "saintlucia-micoud-north-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "L'Anse Mabouya, auch bekannt als Fond Bay Beach, ist ein Strand in Micoud North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "Das Sessene Descartes House ist ein Museum in Micoud North.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "Die Fond Bay Gardens sind eine lokale Attraktion in Micoud North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "Der Oldest Baobab Tree ist eine natürliche Sehenswürdigkeit in Micoud North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "A Fond Bay Beach néven is ismert L'Anse Mabouya egy strand Micoud North területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "A Sessene Descartes House egy múzeum Micoud North városában.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "A Fond Bay Gardens egy helyi látványosság Micoud North területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "Az Oldest Baobab Tree egy természeti látványosság Micoud North területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "L'Anse Mabouya, cunoscută și sub numele de Fond Bay Beach, este o plajă din Micoud North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "Sessene Descartes House este un muzeu situat în Micoud North.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "Fond Bay Gardens este o atracție locală din Micoud North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "Oldest Baobab Tree este o atracție naturală notabilă din Micoud North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "L'Anse Mabouya (Fond Bay Beach)",
+                  "text": "L'Anse Mabouya, also known as Fond Bay Beach, is a coastal destination in Micoud North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.892259,
+                        13.833654
+                  ]
+            },
+            {
+                  "name": "Sessene Descartes House",
+                  "text": "Sessene Descartes House is a museum located in Micoud North.",
+                  "category": "museum",
+                  "coords": [
+                        -60.907702,
+                        13.849501
+                  ]
+            },
+            {
+                  "name": "Fond Bay Gardens",
+                  "text": "Fond Bay Gardens is a local attraction situated in Micoud North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.899276,
+                        13.832575
+                  ]
+            },
+            {
+                  "name": "Oldest Baobab Tree",
+                  "text": "The Oldest Baobab Tree is a notable natural attraction in Micoud North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.914843,
+                        13.809232
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Micoud North", hu: "Micoud North", ro: "Micoud North", en: "Micoud North" },
@@ -3153,7 +14169,52 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-dennery-south-cities-v2.webp",
   },
   {
-    id: "saintlucia-babonneau-central-cities-v2",
+    id: "saintlucia-babonneau-central-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Tierpark in Babonneau Central.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Állatkert Babonneau Centralban.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Grădină zoologică în Babonneau Central.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forestry Zoo",
+                  "text": "Zoo in Babonneau Central.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.961787,
+                        14.020886
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "village",
     name: { de: "Babonneau Central", hu: "Babonneau Central", ro: "Babonneau Central", en: "Babonneau Central" },
@@ -3198,7 +14259,448 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-babonneau-central-cities-v2.webp",
   },
   {
-    id: "saintlucia-gros-islet-north-cities-v2",
+    id: "saintlucia-gros-islet-north-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Der Splash Island Water Park ist ein Wasserpark in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap ist ein Strand in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Anse Bécune Beach ist ein Küstenabschnitt in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach ist ein beliebter Sandstrand in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach ist ein Strand in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Das Pigeon Island National Landmark ist eine historische Festungsanlage in Gros Islet North.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Pigeon Island Beach ist ein Strandbereich in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas ist ein Strand in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Das Pigeon Is. Interpretation Center ist eine Attraktion in Gros Islet North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Die US Signaling Station bietet historische Ruinen in Gros Islet North.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Die WWII Old U.S. Military Pillars sind historische Ruinen aus dem Zweiten Weltkrieg in Gros Islet North.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Die Aquaholics Kite surfing School ist eine Wassersportattraktion in Gros Islet North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "A Splash Island Water Park egy vízi vidámpark Gros Islet North területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Az Anse du Cap egy festői strand Gros Islet North területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Az Anse Bécune Beach egy partszakasz Gros Islet North területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "A Reduit Beach egy népszerű homokos strand Gros Islet North területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "A Smugglers Cove Beach egy tengerparti terület Gros Islet North városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "A Pigeon Island National Landmark egy történelmi park katonai romokkal Gros Islet North területén.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "A Pigeon Island Beach egy tengerparti pihenőhely Gros Islet North területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "A Cas en bas egy tengerparti úti cél Gros Islet North területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "A Pigeon Is. Interpretation Center egy látványosság Gros Islet North területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "A US Signaling Station történelmi romokat foglal magában Gros Islet North területén.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "A WWII Old U.S. Military Pillars második világháborús történelmi romok Gros Islet North területén.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Az Aquaholics Kite surfing School egy vízi sportokkal foglalkozó létesítmény Gros Islet North területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Splash Island Water Park este un parc acvatic situat în Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap este o plajă situată în Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Anse Bécune Beach este o plajă din Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach este o plajă cu nisip populară situată în Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach este o plajă izolată situată în Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Pigeon Island National Landmark este un parc istoric cu fortificații din Gros Islet North.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Pigeon Island Beach este o zonă de plajă relaxantă din Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas este o destinație de plajă aflată în Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Centrul de interpretare Pigeon Is. este o atracție din Gros Islet North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Stația de semnalizare a SUA prezintă ruine istorice în Gros Islet North.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "WWII Old U.S. Military Pillars sunt ruine istorice situate în Gros Islet North.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Aquaholics Kite surfing School este o atracție pentru sporturi nautice din Gros Islet North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Splash Island Water Park is an aquatic attraction located in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap is a scenic beach located in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Anse Bécune Beach is a coastal stretch situated in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach is a popular sandy shoreline situated in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach is a secluded beach destination located in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Pigeon Island National Landmark in Gros Islet North is a historic park featuring military ruins.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Pigeon Island Beach is a relaxing coastal area situated in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas is a coastal beach destination found in Gros Islet North.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "The Pigeon Is. Interpretation Center is an informative attraction located in Gros Islet North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "The US Signaling Station features historic military ruins in Gros Islet North.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "The WWII Old U.S. Military Pillars are historical ruins located in Gros Islet North.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Aquaholics Kite surfing School is a popular water sports attraction in Gros Islet North.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "town",
     name: { de: "Gros Islet North", hu: "Gros Islet North", ro: "Gros Islet North", en: "Gros Islet North" },
@@ -3243,7 +14745,340 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-gros-islet-north-cities-v2.webp",
   },
   {
-    id: "saintlucia-castries-south-cities-v2",
+    id: "saintlucia-castries-south-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach ist ein bekannter Strand in Castries South. Er befindet sich in der Nähe der örtlichen Flughafenlandebahn.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "The Morne Museum ist ein Museum in Castries South.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach ist ein Strand in Castries South.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue ist ein Gipfel in Castries South. Er ist eine der markanten Erhebungen der Insel St. Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square ist ein Park in Castries South. Dieser öffentliche Platz ist nach dem berühmten Nobelpreisträger benannt.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Sir John Compton Monument ist ein Denkmal in Castries South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Derick Walcott Building ist ein Denkmal in Castries South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia ist eine Sehenswürdigkeit in Castries South.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park ist eine Ruine in Castries South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach egy nevezetes strand Castries South területén. A helyi repülőtér kifutópályája mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "The Morne Museum egy múzeum Castries South területén.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach egy strand Castries South területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue egy hegycsúcs Castries South területén. Ez Saint Lucia szigetének egyik jelentős magaslata.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square egy park Castries South területén. Ezt a nyilvános teret a híres Nobel-díjasról nevezték el.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Sir John Compton Monument egy emlékmű Castries South területén.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Derick Walcott Building egy emlékmű Castries South területén.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia egy látványosság Castries South területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park egy rom Castries South területén.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach este o plajă notabilă în Castries South. Aceasta este situată lângă pista aeroportului local.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "The Morne Museum este un muzeu în Castries South.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach este o plajă în Castries South.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue este un vârf în Castries South. Este una dintre elevațiile importante de pe insula Sfânta Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square este un parc în Castries South. Această piață publică poartă numele celebrului laureat al Premiului Nobel.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Sir John Compton Monument este un monument în Castries South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Derick Walcott Building este un monument în Castries South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia este o atracție în Castries South.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park este o ruină în Castries South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigie Beach",
+                  "text": "Vigie Beach is a notable beach located in Castries South. It is situated close to the local airport runway.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.988251,
+                        14.024862
+                  ]
+            },
+            {
+                  "name": "The Morne Museum",
+                  "text": "The Morne Museum is a museum located in Castries South.",
+                  "category": "museum",
+                  "coords": [
+                        -60.996541,
+                        13.999785
+                  ]
+            },
+            {
+                  "name": "Yellow Sands Beach",
+                  "text": "Yellow Sands Beach is a beach located in Castries South.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.009579,
+                        14.009262
+                  ]
+            },
+            {
+                  "name": "Mount Bellevue",
+                  "text": "Mount Bellevue is a peak located in Castries South. It is one of the prominent elevations on the island of Saint Lucia.",
+                  "category": "natural",
+                  "coords": [
+                        -61.014144,
+                        13.971109
+                  ]
+            },
+            {
+                  "name": "Derek Walcott Square",
+                  "text": "Derek Walcott Square is a park located in Castries South. This public square is named in honor of the famous Nobel laureate.",
+                  "category": "park",
+                  "coords": [
+                        -60.990813,
+                        14.008855
+                  ]
+            },
+            {
+                  "name": "Sir John Compton Monument",
+                  "text": "Sir John Compton Monument is a monument located in Castries South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.990046,
+                        14.009986
+                  ]
+            },
+            {
+                  "name": "Derick Walcott Building",
+                  "text": "Derick Walcott Building is a monument located in Castries South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.987762,
+                        14.007401
+                  ]
+            },
+            {
+                  "name": "Saint Lucia",
+                  "text": "Saint Lucia is an attraction located in Castries South.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.996447,
+                        14.014745
+                  ]
+            },
+            {
+                  "name": "Provost Park",
+                  "text": "Provost Park is a ruins site located in Castries South.",
+                  "category": "historical",
+                  "coords": [
+                        -60.997903,
+                        14.000203
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "city",
     name: { de: "Castries South", hu: "Castries South", ro: "Castries South", en: "Castries South" },

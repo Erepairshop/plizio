@@ -48,7 +48,160 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-noumea-cities-v2.webp",
   },
   {
-    id: "newcaledonia-dumbea-cities-v2",
+    id: "newcaledonia-dumbea-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mémorial des gendarmes d’Ouvéa et soldats parachutistes du 11° Choc",
+                  "text": "Ein Denkmal in Dumbéa, das den Gendarmen von Ouvéa und den Fallschirmjägern gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        166.458004,
+                        -22.168109
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont Pédestre du Chemin de Fer",
+                  "text": "Die Ruinen einer alten Eisenbahn-Fußgängerbrücke in Dumbéa.",
+                  "category": "historical",
+                  "coords": [
+                        166.466309,
+                        -22.171392
+                  ]
+            },
+            {
+                  "name": "La Rhumérie",
+                  "text": "Ein lokales Denkmal in Dumbéa.",
+                  "category": "historical",
+                  "coords": [
+                        166.466679,
+                        -22.154243
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer",
+                  "text": "Die historischen Ruinen einer Eisenbahnbrücke in Dumbéa.",
+                  "category": "historical",
+                  "coords": [
+                        166.450954,
+                        -22.155194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mémorial des gendarmes d’Ouvéa et soldats parachutistes du 11° Choc",
+                  "text": "Az Ouvéa csendőreinek és az ejtőernyősöknek szentelt emlékmű Dumbéa városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.458004,
+                        -22.168109
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont Pédestre du Chemin de Fer",
+                  "text": "Egy régi vasúti gyaloghíd romjai Dumbéa városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.466309,
+                        -22.171392
+                  ]
+            },
+            {
+                  "name": "La Rhumérie",
+                  "text": "Egy helyi emlékmű Dumbéa városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.466679,
+                        -22.154243
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer",
+                  "text": "Egy vasúti híd történelmi romjai Dumbéa városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.450954,
+                        -22.155194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mémorial des gendarmes d’Ouvéa et soldats parachutistes du 11° Choc",
+                  "text": "Un memorial în Dumbéa dedicat jandarmilor din Ouvéa și parașutiștilor.",
+                  "category": "historical",
+                  "coords": [
+                        166.458004,
+                        -22.168109
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont Pédestre du Chemin de Fer",
+                  "text": "Ruinele unui vechi pod pietonal feroviar din Dumbéa.",
+                  "category": "historical",
+                  "coords": [
+                        166.466309,
+                        -22.171392
+                  ]
+            },
+            {
+                  "name": "La Rhumérie",
+                  "text": "Un monument local situat în Dumbéa.",
+                  "category": "historical",
+                  "coords": [
+                        166.466679,
+                        -22.154243
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer",
+                  "text": "Ruinele istorice ale unui pod feroviar situat în Dumbéa.",
+                  "category": "historical",
+                  "coords": [
+                        166.450954,
+                        -22.155194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mémorial des gendarmes d’Ouvéa et soldats parachutistes du 11° Choc",
+                  "text": "A memorial in Dumbéa dedicated to the gendarmes of Ouvéa and paratroopers.",
+                  "category": "historical",
+                  "coords": [
+                        166.458004,
+                        -22.168109
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont Pédestre du Chemin de Fer",
+                  "text": "The ruins of an old railway pedestrian bridge in Dumbéa.",
+                  "category": "historical",
+                  "coords": [
+                        166.466309,
+                        -22.171392
+                  ]
+            },
+            {
+                  "name": "La Rhumérie",
+                  "text": "A local monument situated in Dumbéa.",
+                  "category": "historical",
+                  "coords": [
+                        166.466679,
+                        -22.154243
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer",
+                  "text": "The historical ruins of a railway bridge located in Dumbéa.",
+                  "category": "historical",
+                  "coords": [
+                        166.450954,
+                        -22.155194
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "city",
     name: { de: "Dumbéa", hu: "Dumbéa", ro: "Dumbéa", en: "Dumbéa" },
@@ -93,7 +246,232 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-dumbea-cities-v2.webp",
   },
   {
-    id: "newcaledonia-paita-cities-v2",
+    id: "newcaledonia-paita-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pétroglyphes de Paita",
+                  "text": "Archäologische Stätte mit antiken Petroglyphen in Païta.",
+                  "category": "historical",
+                  "coords": [
+                        166.393463,
+                        -22.139248
+                  ]
+            },
+            {
+                  "name": "Villa musée de Païta",
+                  "text": "Museum in Païta, das die lokale Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        166.378156,
+                        -22.140787
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Paita",
+                  "text": "Kulturzentrum in Païta für Kunst und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        166.366333,
+                        -22.129435
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
+                  "text": "Überreste der alten Eisenbahnbrücke (Karikouié links) in Païta.",
+                  "category": "historical",
+                  "coords": [
+                        166.378037,
+                        -22.110837
+                  ]
+            },
+            {
+                  "name": "Locomotive du Chemin de Fer",
+                  "text": "Historische Eisenbahnlokomotive in Païta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.37601,
+                        -22.115446
+                  ]
+            },
+            {
+                  "name": "Église de Paita",
+                  "text": "Kirche in Païta.",
+                  "category": "religious",
+                  "coords": [
+                        166.370867,
+                        -22.129329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pétroglyphes de Paita",
+                  "text": "Régészeti lelőhely ősi petroglifákkal Païtában.",
+                  "category": "historical",
+                  "coords": [
+                        166.393463,
+                        -22.139248
+                  ]
+            },
+            {
+                  "name": "Villa musée de Païta",
+                  "text": "Múzeum Païtában, amely bemutatja a helyi történelmet.",
+                  "category": "museum",
+                  "coords": [
+                        166.378156,
+                        -22.140787
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Paita",
+                  "text": "Kulturális központ Païtában művészeti és egyéb események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        166.366333,
+                        -22.129435
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
+                  "text": "A régi vasúti híd maradványai (bal oldali Karikouié) Païtában.",
+                  "category": "historical",
+                  "coords": [
+                        166.378037,
+                        -22.110837
+                  ]
+            },
+            {
+                  "name": "Locomotive du Chemin de Fer",
+                  "text": "Történelmi vasúti mozdony Païtában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.37601,
+                        -22.115446
+                  ]
+            },
+            {
+                  "name": "Église de Paita",
+                  "text": "Templom Païtában.",
+                  "category": "religious",
+                  "coords": [
+                        166.370867,
+                        -22.129329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pétroglyphes de Paita",
+                  "text": "Sit arheologic cu petroglife antice în Païta.",
+                  "category": "historical",
+                  "coords": [
+                        166.393463,
+                        -22.139248
+                  ]
+            },
+            {
+                  "name": "Villa musée de Païta",
+                  "text": "Muzeu în Païta care prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        166.378156,
+                        -22.140787
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Paita",
+                  "text": "Centru cultural în Païta pentru artă și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        166.366333,
+                        -22.129435
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
+                  "text": "Rămășițele vechiului pod feroviar (Karikouié stânga) în Païta.",
+                  "category": "historical",
+                  "coords": [
+                        166.378037,
+                        -22.110837
+                  ]
+            },
+            {
+                  "name": "Locomotive du Chemin de Fer",
+                  "text": "Locomotivă feroviară istorică în Païta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.37601,
+                        -22.115446
+                  ]
+            },
+            {
+                  "name": "Église de Paita",
+                  "text": "Biserică în Païta.",
+                  "category": "religious",
+                  "coords": [
+                        166.370867,
+                        -22.129329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pétroglyphes de Paita",
+                  "text": "Archaeological site with ancient petroglyphs in Païta.",
+                  "category": "historical",
+                  "coords": [
+                        166.393463,
+                        -22.139248
+                  ]
+            },
+            {
+                  "name": "Villa musée de Païta",
+                  "text": "Museum in Païta showcasing local history.",
+                  "category": "museum",
+                  "coords": [
+                        166.378156,
+                        -22.140787
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Paita",
+                  "text": "Cultural center in Païta for arts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        166.366333,
+                        -22.129435
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
+                  "text": "Remains of the old railway bridge (Karikouié left) in Païta.",
+                  "category": "historical",
+                  "coords": [
+                        166.378037,
+                        -22.110837
+                  ]
+            },
+            {
+                  "name": "Locomotive du Chemin de Fer",
+                  "text": "Historic railway locomotive in Païta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.37601,
+                        -22.115446
+                  ]
+            },
+            {
+                  "name": "Église de Paita",
+                  "text": "Church in Païta.",
+                  "category": "religious",
+                  "coords": [
+                        166.370867,
+                        -22.129329
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "city",
     name: { de: "Païta", hu: "Païta", ro: "Païta", en: "Païta" },
@@ -138,7 +516,160 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-paita-cities-v2.webp",
   },
   {
-    id: "newcaledonia-kone-cities-v2",
+    id: "newcaledonia-kone-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre culturel Pomémie",
+                  "text": "Das Centre culturel Pomémie ist ein Kunstzentrum in Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.885275,
+                        -21.068592
+                  ]
+            },
+            {
+                  "name": "Tu Koohnê Plongée",
+                  "text": "Tu Koohnê Plongée ist eine lokale Attraktion in Koné.",
+                  "category": "landmark",
+                  "coords": [
+                        164.842074,
+                        -21.055876
+                  ]
+            },
+            {
+                  "name": "Complexe culturel",
+                  "text": "Complexe culturel ist ein Kunstzentrum in der Stadt Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.863262,
+                        -21.056408
+                  ]
+            },
+            {
+                  "name": "Église de Koné",
+                  "text": "Église de Koné ist eine Kultstätte in Koné.",
+                  "category": "religious",
+                  "coords": [
+                        164.861331,
+                        -21.06243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre culturel Pomémie",
+                  "text": "A Centre culturel Pomémie egy művészeti központ Koné városában.",
+                  "category": "cultural",
+                  "coords": [
+                        164.885275,
+                        -21.068592
+                  ]
+            },
+            {
+                  "name": "Tu Koohnê Plongée",
+                  "text": "A Tu Koohnê Plongée egy helyi látványosság Koné városában.",
+                  "category": "landmark",
+                  "coords": [
+                        164.842074,
+                        -21.055876
+                  ]
+            },
+            {
+                  "name": "Complexe culturel",
+                  "text": "A Complexe culturel egy művészeti központ Koné városában.",
+                  "category": "cultural",
+                  "coords": [
+                        164.863262,
+                        -21.056408
+                  ]
+            },
+            {
+                  "name": "Église de Koné",
+                  "text": "Az Église de Koné egy istentiszteleti hely Koné városában.",
+                  "category": "religious",
+                  "coords": [
+                        164.861331,
+                        -21.06243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre culturel Pomémie",
+                  "text": "Centre culturel Pomémie este un centru de arte situat în Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.885275,
+                        -21.068592
+                  ]
+            },
+            {
+                  "name": "Tu Koohnê Plongée",
+                  "text": "Tu Koohnê Plongée este o atracție locală situată în Koné.",
+                  "category": "landmark",
+                  "coords": [
+                        164.842074,
+                        -21.055876
+                  ]
+            },
+            {
+                  "name": "Complexe culturel",
+                  "text": "Complexe culturel este un centru de arte aflat în orașul Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.863262,
+                        -21.056408
+                  ]
+            },
+            {
+                  "name": "Église de Koné",
+                  "text": "Église de Koné este un lăcaș de cult situat în Koné.",
+                  "category": "religious",
+                  "coords": [
+                        164.861331,
+                        -21.06243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre culturel Pomémie",
+                  "text": "Centre culturel Pomémie is an arts centre situated in Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.885275,
+                        -21.068592
+                  ]
+            },
+            {
+                  "name": "Tu Koohnê Plongée",
+                  "text": "Tu Koohnê Plongée is a local attraction located in Koné.",
+                  "category": "landmark",
+                  "coords": [
+                        164.842074,
+                        -21.055876
+                  ]
+            },
+            {
+                  "name": "Complexe culturel",
+                  "text": "Complexe culturel is an arts centre found in the city of Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.863262,
+                        -21.056408
+                  ]
+            },
+            {
+                  "name": "Église de Koné",
+                  "text": "Église de Koné is a place of worship situated in Koné.",
+                  "category": "religious",
+                  "coords": [
+                        164.861331,
+                        -21.06243
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "city",
     name: { de: "Koné", hu: "Koné", ro: "Koné", en: "Koné" },
@@ -228,7 +759,268 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-bourail-cities-v2.webp",
   },
   {
-    id: "newcaledonia-koumac-cities-v2",
+    id: "newcaledonia-koumac-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Strand in Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "Strand in Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "Natürliches Schwimmbecken in Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Attraktion am Yachthafen Pandop in Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "Aussichtspunkt in Koumac.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Lokale Attraktion in Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Kirche Sainte Jeanne d'Arc in Koumac.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Strand Koumacban.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "Strand Koumacban.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "Természetes úszómedence Koumacban.",
+                  "category": "recreational",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Látnivaló a Pandop kikötőnél, Koumacban.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "Kilátópont Koumacban.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Helyi látnivaló Koumacban.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Sainte Jeanne d'Arc templom Koumacban.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Plajă în Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "Plajă în Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "Piscină naturală în Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Atracție la marina Pandop în Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "Punct de belvedere în Koumac.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Atracție locală în Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Biserica Sainte Jeanne d'Arc în Koumac.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Beach in Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "Beach in Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "Natural swimming pool in Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Attraction at the Pandop marina in Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "Viewpoint in Koumac.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Local attraction in Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Sainte Jeanne d'Arc church in Koumac.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Koumac", hu: "Koumac", ro: "Koumac", en: "Koumac" },
@@ -273,7 +1065,88 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-koumac-cities-v2.webp",
   },
   {
-    id: "newcaledonia-poindimie-cities-v2",
+    id: "newcaledonia-poindimie-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Tiéti",
+                  "text": "Plage de Tiéti ist ein schöner Strand in Poindimié.",
+                  "category": "recreational",
+                  "coords": [
+                        165.320848,
+                        -20.927885
+                  ]
+            },
+            {
+                  "name": "Koyaboa",
+                  "text": "Koyaboa ist ein malerischer Aussichtspunkt in Poindimié.",
+                  "category": "natural",
+                  "coords": [
+                        165.342754,
+                        -20.944772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Tiéti",
+                  "text": "A Plage de Tiéti egy gyönyörű strand Poindimié városában.",
+                  "category": "recreational",
+                  "coords": [
+                        165.320848,
+                        -20.927885
+                  ]
+            },
+            {
+                  "name": "Koyaboa",
+                  "text": "A Koyaboa egy festői kilátó Poindimié városában.",
+                  "category": "natural",
+                  "coords": [
+                        165.342754,
+                        -20.944772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Tiéti",
+                  "text": "Plage de Tiéti este o plajă frumoasă situată în Poindimié.",
+                  "category": "recreational",
+                  "coords": [
+                        165.320848,
+                        -20.927885
+                  ]
+            },
+            {
+                  "name": "Koyaboa",
+                  "text": "Koyaboa este un punct de belvedere pitoresc situat în Poindimié.",
+                  "category": "natural",
+                  "coords": [
+                        165.342754,
+                        -20.944772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Tiéti",
+                  "text": "Plage de Tiéti is a beautiful beach located in Poindimié.",
+                  "category": "recreational",
+                  "coords": [
+                        165.320848,
+                        -20.927885
+                  ]
+            },
+            {
+                  "name": "Koyaboa",
+                  "text": "Koyaboa is a scenic viewpoint situated in Poindimié.",
+                  "category": "natural",
+                  "coords": [
+                        165.342754,
+                        -20.944772
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Poindimié", hu: "Poindimié", ro: "Poindimié", en: "Poindimié" },
@@ -318,7 +1191,124 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-poindimie-cities-v2.webp",
   },
   {
-    id: "newcaledonia-houailou-cities-v2",
+    id: "newcaledonia-houailou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de l'aérodrome - Nédiuoen",
+                  "text": "Ein Strand in der Nähe des Flugplatzes in Houaïlou.",
+                  "category": "recreational",
+                  "coords": [
+                        165.62066,
+                        -21.254503
+                  ]
+            },
+            {
+                  "name": "Letchis géant 1868",
+                  "text": "Eine bekannte Naturattraktion in Houaïlou.",
+                  "category": "landmark",
+                  "coords": [
+                        165.612691,
+                        -21.259986
+                  ]
+            },
+            {
+                  "name": "Ancien aérodrome de Houailou",
+                  "text": "Die Ruinen des ehemaligen Flugplatzes in Houaïlou.",
+                  "category": "historical",
+                  "coords": [
+                        165.617576,
+                        -21.256419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de l'aérodrome - Nédiuoen",
+                  "text": "Egy strand a repülőtér közelében Houaïlou városában.",
+                  "category": "recreational",
+                  "coords": [
+                        165.62066,
+                        -21.254503
+                  ]
+            },
+            {
+                  "name": "Letchis géant 1868",
+                  "text": "Egy híres természeti látványosság Houaïlou városában.",
+                  "category": "landmark",
+                  "coords": [
+                        165.612691,
+                        -21.259986
+                  ]
+            },
+            {
+                  "name": "Ancien aérodrome de Houailou",
+                  "text": "Az egykori repülőtér romjai Houaïlou városában.",
+                  "category": "historical",
+                  "coords": [
+                        165.617576,
+                        -21.256419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de l'aérodrome - Nédiuoen",
+                  "text": "O plajă situată lângă aerodromul din Houaïlou.",
+                  "category": "recreational",
+                  "coords": [
+                        165.62066,
+                        -21.254503
+                  ]
+            },
+            {
+                  "name": "Letchis géant 1868",
+                  "text": "O faimoasă atracție naturală în Houaïlou.",
+                  "category": "landmark",
+                  "coords": [
+                        165.612691,
+                        -21.259986
+                  ]
+            },
+            {
+                  "name": "Ancien aérodrome de Houailou",
+                  "text": "Ruinele fostului aerodrom situat în Houaïlou.",
+                  "category": "historical",
+                  "coords": [
+                        165.617576,
+                        -21.256419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de l'aérodrome - Nédiuoen",
+                  "text": "A beach located near the aerodrome in Houaïlou.",
+                  "category": "recreational",
+                  "coords": [
+                        165.62066,
+                        -21.254503
+                  ]
+            },
+            {
+                  "name": "Letchis géant 1868",
+                  "text": "A famous natural tree attraction in Houaïlou.",
+                  "category": "landmark",
+                  "coords": [
+                        165.612691,
+                        -21.259986
+                  ]
+            },
+            {
+                  "name": "Ancien aérodrome de Houailou",
+                  "text": "The ruins of the former aerodrome situated in Houaïlou.",
+                  "category": "historical",
+                  "coords": [
+                        165.617576,
+                        -21.256419
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Houaïlou", hu: "Houaïlou", ro: "Houaïlou", en: "Houaïlou" },
@@ -363,7 +1353,52 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-houailou-cities-v2.webp",
   },
   {
-    id: "newcaledonia-canala-cities-v2",
+    id: "newcaledonia-canala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancien Fort",
+                  "text": "Überreste eines alten Forts in Canala.",
+                  "category": "historical",
+                  "coords": [
+                        165.960937,
+                        -21.52111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancien Fort",
+                  "text": "Egy régi erőd maradványai Canalában.",
+                  "category": "historical",
+                  "coords": [
+                        165.960937,
+                        -21.52111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancien Fort",
+                  "text": "Rămășițele unui vechi fort în Canala.",
+                  "category": "historical",
+                  "coords": [
+                        165.960937,
+                        -21.52111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancien Fort",
+                  "text": "Ruins of an old fort in Canala.",
+                  "category": "historical",
+                  "coords": [
+                        165.960937,
+                        -21.52111
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Canala", hu: "Canala", ro: "Canala", en: "Canala" },
@@ -408,7 +1443,124 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-canala-cities-v2.webp",
   },
   {
-    id: "newcaledonia-thio-cities-v2",
+    id: "newcaledonia-thio-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pétroglyphes de Thio",
+                  "text": "Pétroglyphes de Thio ist eine archäologische Stätte in Thio.",
+                  "category": "historical",
+                  "coords": [
+                        166.204863,
+                        -21.634976
+                  ]
+            },
+            {
+                  "name": "Excursion Bota-méré (point de vue 360)",
+                  "text": "Excursion Bota-méré (point de vue 360) bietet einen Panoramablick in Thio.",
+                  "category": "natural",
+                  "coords": [
+                        166.232942,
+                        -21.607242
+                  ]
+            },
+            {
+                  "name": "Départ excursion",
+                  "text": "Départ excursion ist ein Ausgangspunkt für Touren in Thio.",
+                  "category": "landmark",
+                  "coords": [
+                        166.234112,
+                        -21.607626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pétroglyphes de Thio",
+                  "text": "A Pétroglyphes de Thio egy régészeti lelőhely Thio városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.204863,
+                        -21.634976
+                  ]
+            },
+            {
+                  "name": "Excursion Bota-méré (point de vue 360)",
+                  "text": "Az Excursion Bota-méré (point de vue 360) egy panorámás kilátó Thio városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.232942,
+                        -21.607242
+                  ]
+            },
+            {
+                  "name": "Départ excursion",
+                  "text": "A Départ excursion a túrák kiindulópontja Thio városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.234112,
+                        -21.607626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pétroglyphes de Thio",
+                  "text": "Pétroglyphes de Thio este un sit arheologic situat în Thio.",
+                  "category": "historical",
+                  "coords": [
+                        166.204863,
+                        -21.634976
+                  ]
+            },
+            {
+                  "name": "Excursion Bota-méré (point de vue 360)",
+                  "text": "Excursion Bota-méré (point de vue 360) oferă un punct de belvedere panoramic în Thio.",
+                  "category": "natural",
+                  "coords": [
+                        166.232942,
+                        -21.607242
+                  ]
+            },
+            {
+                  "name": "Départ excursion",
+                  "text": "Départ excursion este un punct de plecare pentru tururi în Thio.",
+                  "category": "landmark",
+                  "coords": [
+                        166.234112,
+                        -21.607626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pétroglyphes de Thio",
+                  "text": "Pétroglyphes de Thio is an archaeological site located in Thio.",
+                  "category": "historical",
+                  "coords": [
+                        166.204863,
+                        -21.634976
+                  ]
+            },
+            {
+                  "name": "Excursion Bota-méré (point de vue 360)",
+                  "text": "Excursion Bota-méré (point de vue 360) offers a panoramic viewpoint in Thio.",
+                  "category": "natural",
+                  "coords": [
+                        166.232942,
+                        -21.607242
+                  ]
+            },
+            {
+                  "name": "Départ excursion",
+                  "text": "Départ excursion is a starting point for tours in Thio.",
+                  "category": "landmark",
+                  "coords": [
+                        166.234112,
+                        -21.607626
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Thio", hu: "Thio", ro: "Thio", en: "Thio" },
@@ -453,7 +1605,160 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-thio-cities-v2.webp",
   },
   {
-    id: "newcaledonia-hienghene-cities-v2",
+    id: "newcaledonia-hienghene-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel de Hienghène",
+                  "text": "Ein Kulturzentrum und Museum in Hienghène.",
+                  "category": "museum",
+                  "coords": [
+                        164.945409,
+                        -20.692418
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Poule",
+                  "text": "Ein Aussichtspunkt mit Blick auf die berühmte Felsformation \"Poule\" in Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.954901,
+                        -20.684403
+                  ]
+            },
+            {
+                  "name": "Le Sphinx",
+                  "text": "Eine markante Felsformation und Attraktion in Hienghène.",
+                  "category": "landmark",
+                  "coords": [
+                        164.946344,
+                        -20.673892
+                  ]
+            },
+            {
+                  "name": "Point de vue baie de Hienghène",
+                  "text": "Ein malerischer Aussichtspunkt mit Blick auf die Bucht von Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.939104,
+                        -20.670239
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel de Hienghène",
+                  "text": "Egy kulturális központ és múzeum Hienghène városában.",
+                  "category": "museum",
+                  "coords": [
+                        164.945409,
+                        -20.692418
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Poule",
+                  "text": "Egy kilátó, ahonnan látható a híres \"Poule\" sziklaképződmény Hienghène-ben.",
+                  "category": "natural",
+                  "coords": [
+                        164.954901,
+                        -20.684403
+                  ]
+            },
+            {
+                  "name": "Le Sphinx",
+                  "text": "Egy jellegzetes sziklaalakzat és látványosság Hienghène városában.",
+                  "category": "landmark",
+                  "coords": [
+                        164.946344,
+                        -20.673892
+                  ]
+            },
+            {
+                  "name": "Point de vue baie de Hienghène",
+                  "text": "Egy festői kilátó, amely a Hienghène-i öbölre néz.",
+                  "category": "natural",
+                  "coords": [
+                        164.939104,
+                        -20.670239
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel de Hienghène",
+                  "text": "Un centru cultural și muzeu situat în Hienghène.",
+                  "category": "museum",
+                  "coords": [
+                        164.945409,
+                        -20.692418
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Poule",
+                  "text": "Un punct de belvedere care oferă priveliști asupra faimoasei formațiuni stâncoase \"Poule\" din Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.954901,
+                        -20.684403
+                  ]
+            },
+            {
+                  "name": "Le Sphinx",
+                  "text": "O formațiune stâncoasă distinctivă și o atracție în Hienghène.",
+                  "category": "landmark",
+                  "coords": [
+                        164.946344,
+                        -20.673892
+                  ]
+            },
+            {
+                  "name": "Point de vue baie de Hienghène",
+                  "text": "Un punct de belvedere pitoresc cu vedere la golful Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.939104,
+                        -20.670239
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel de Hienghène",
+                  "text": "A cultural center and museum located in Hienghène.",
+                  "category": "museum",
+                  "coords": [
+                        164.945409,
+                        -20.692418
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Poule",
+                  "text": "A viewpoint offering sights of the famous \"Poule\" rock formation in Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.954901,
+                        -20.684403
+                  ]
+            },
+            {
+                  "name": "Le Sphinx",
+                  "text": "A distinctive rock formation and attraction in Hienghène.",
+                  "category": "landmark",
+                  "coords": [
+                        164.946344,
+                        -20.673892
+                  ]
+            },
+            {
+                  "name": "Point de vue baie de Hienghène",
+                  "text": "A scenic viewpoint overlooking the bay of Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.939104,
+                        -20.670239
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Hienghène", hu: "Hienghène", ro: "Hienghène", en: "Hienghène" },
@@ -498,7 +1803,88 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-hienghene-cities-v2.webp",
   },
   {
-    id: "newcaledonia-la-foa-cities-v2",
+    id: "newcaledonia-la-foa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscine intercommunale",
+                  "text": "Öffentliches Schwimmbad in La Foa.",
+                  "category": "recreational",
+                  "coords": [
+                        165.827758,
+                        -21.704945
+                  ]
+            },
+            {
+                  "name": "Passerelle Marguerite",
+                  "text": "Aussichtspunkt an der Passerelle Marguerite in La Foa.",
+                  "category": "natural",
+                  "coords": [
+                        165.828832,
+                        -21.715047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscine intercommunale",
+                  "text": "Nyilvános uszoda La Foában.",
+                  "category": "recreational",
+                  "coords": [
+                        165.827758,
+                        -21.704945
+                  ]
+            },
+            {
+                  "name": "Passerelle Marguerite",
+                  "text": "Kilátópont a Passerelle Marguerite-nél La Foában.",
+                  "category": "natural",
+                  "coords": [
+                        165.828832,
+                        -21.715047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscine intercommunale",
+                  "text": "Piscină publică în La Foa.",
+                  "category": "recreational",
+                  "coords": [
+                        165.827758,
+                        -21.704945
+                  ]
+            },
+            {
+                  "name": "Passerelle Marguerite",
+                  "text": "Punct de belvedere la Passerelle Marguerite în La Foa.",
+                  "category": "natural",
+                  "coords": [
+                        165.828832,
+                        -21.715047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscine intercommunale",
+                  "text": "Public swimming pool in La Foa.",
+                  "category": "recreational",
+                  "coords": [
+                        165.827758,
+                        -21.704945
+                  ]
+            },
+            {
+                  "name": "Passerelle Marguerite",
+                  "text": "Viewpoint at the Passerelle Marguerite in La Foa.",
+                  "category": "natural",
+                  "coords": [
+                        165.828832,
+                        -21.715047
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "La Foa", hu: "La Foa", ro: "La Foa", en: "La Foa" },
@@ -723,7 +2109,52 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-puebo-cities-v2.webp",
   },
   {
-    id: "newcaledonia-touho-cities-v2",
+    id: "newcaledonia-touho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Touho",
+                  "text": "Ein schöner Strand in der Küstenstadt Touho.",
+                  "category": "recreational",
+                  "coords": [
+                        165.235794,
+                        -20.779167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Touho",
+                  "text": "Egy kellemes strand a tengerparti Touho városában.",
+                  "category": "recreational",
+                  "coords": [
+                        165.235794,
+                        -20.779167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Touho",
+                  "text": "O plajă plăcută situată în orașul de coastă Touho.",
+                  "category": "recreational",
+                  "coords": [
+                        165.235794,
+                        -20.779167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Touho",
+                  "text": "A pleasant beach located in the coastal city of Touho.",
+                  "category": "recreational",
+                  "coords": [
+                        165.235794,
+                        -20.779167
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Touho", hu: "Touho", ro: "Touho", en: "Touho" },
@@ -768,7 +2199,52 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-touho-cities-v2.webp",
   },
   {
-    id: "newcaledonia-ponerihouen-cities-v2",
+    id: "newcaledonia-ponerihouen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pont X",
+                  "text": "Historisches Denkmal, Pont X, in Ponérihouen.",
+                  "category": "historical",
+                  "coords": [
+                        165.392047,
+                        -21.068584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pont X",
+                  "text": "Történelmi emlékmű, a Pont X, Ponérihouenben.",
+                  "category": "historical",
+                  "coords": [
+                        165.392047,
+                        -21.068584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pont X",
+                  "text": "Monument istoric, Pont X, în Ponérihouen.",
+                  "category": "historical",
+                  "coords": [
+                        165.392047,
+                        -21.068584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pont X",
+                  "text": "Historic monument, Pont X, in Ponérihouen.",
+                  "category": "historical",
+                  "coords": [
+                        165.392047,
+                        -21.068584
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Ponérihouen", hu: "Ponérihouen", ro: "Ponérihouen", en: "Ponérihouen" },
@@ -948,7 +2424,124 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-boulouparis-cities-v2.webp",
   },
   {
-    id: "newcaledonia-yate-cities-v2",
+    id: "newcaledonia-yate-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
+                  "text": "Réserve Spéciale Botanique du Barrage de Yaté ist ein Naturschutzgebiet in Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.895365,
+                        -22.152152
+                  ]
+            },
+            {
+                  "name": "Point de Vue de Yaté",
+                  "text": "Point de Vue de Yaté dient als schöner Aussichtspunkt in Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.909339,
+                        -22.165883
+                  ]
+            },
+            {
+                  "name": "Vue sur la cascade",
+                  "text": "Vue sur la cascade bietet Ausblicke auf einen Wasserfall in Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.902031,
+                        -22.139906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
+                  "text": "A Réserve Spéciale Botanique du Barrage de Yaté egy természetvédelmi terület Yaté városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.895365,
+                        -22.152152
+                  ]
+            },
+            {
+                  "name": "Point de Vue de Yaté",
+                  "text": "A Point de Vue de Yaté egy gyönyörű kilátó Yaté városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.909339,
+                        -22.165883
+                  ]
+            },
+            {
+                  "name": "Vue sur la cascade",
+                  "text": "A Vue sur la cascade vízesésre nyíló kilátást kínál Yaté városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.902031,
+                        -22.139906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
+                  "text": "Réserve Spéciale Botanique du Barrage de Yaté este o rezervație naturală situată în Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.895365,
+                        -22.152152
+                  ]
+            },
+            {
+                  "name": "Point de Vue de Yaté",
+                  "text": "Point de Vue de Yaté servește ca un frumos punct de belvedere situat în Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.909339,
+                        -22.165883
+                  ]
+            },
+            {
+                  "name": "Vue sur la cascade",
+                  "text": "Vue sur la cascade oferă vederi către o cascadă în Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.902031,
+                        -22.139906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
+                  "text": "Réserve Spéciale Botanique du Barrage de Yaté is a nature reserve situated in Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.895365,
+                        -22.152152
+                  ]
+            },
+            {
+                  "name": "Point de Vue de Yaté",
+                  "text": "Point de Vue de Yaté serves as a beautiful viewpoint located in Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.909339,
+                        -22.165883
+                  ]
+            },
+            {
+                  "name": "Vue sur la cascade",
+                  "text": "Vue sur la cascade offers views of a waterfall in Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.902031,
+                        -22.139906
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Yaté", hu: "Yaté", ro: "Yaté", en: "Yaté" },
@@ -1038,7 +2631,52 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-sarramea-cities-v2.webp",
   },
   {
-    id: "newcaledonia-farino-cities-v2",
+    id: "newcaledonia-farino-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc des Grandes Fougères",
+                  "text": "Naturreservat in Farino, bekannt für seine vielfältige Farnvegetation.",
+                  "category": "natural",
+                  "coords": [
+                        165.751661,
+                        -21.607892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc des Grandes Fougères",
+                  "text": "Természetvédelmi terület Farinóban, amely változatos páfránynövényzetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        165.751661,
+                        -21.607892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc des Grandes Fougères",
+                  "text": "Rezervație naturală în Farino, cunoscută pentru vegetația sa variată de ferigi.",
+                  "category": "natural",
+                  "coords": [
+                        165.751661,
+                        -21.607892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc des Grandes Fougères",
+                  "text": "Nature reserve in Farino, known for its diverse fern vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        165.751661,
+                        -21.607892
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Farino", hu: "Farino", ro: "Farino", en: "Farino" },
@@ -1083,7 +2721,52 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-farino-cities-v2.webp",
   },
   {
-    id: "newcaledonia-moindou-cities-v2",
+    id: "newcaledonia-moindou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve d'Amieu",
+                  "text": "Réserve d'Amieu ist ein ruhiges Naturschutzgebiet in Moindou.",
+                  "category": "natural",
+                  "coords": [
+                        165.735644,
+                        -21.554534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve d'Amieu",
+                  "text": "A Réserve d'Amieu egy békés természetvédelmi terület Moindou városában.",
+                  "category": "natural",
+                  "coords": [
+                        165.735644,
+                        -21.554534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve d'Amieu",
+                  "text": "Réserve d'Amieu este o rezervație naturală liniștită situată în Moindou.",
+                  "category": "natural",
+                  "coords": [
+                        165.735644,
+                        -21.554534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve d'Amieu",
+                  "text": "Réserve d'Amieu is a serene nature reserve located in Moindou.",
+                  "category": "natural",
+                  "coords": [
+                        165.735644,
+                        -21.554534
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Moindou", hu: "Moindou", ro: "Moindou", en: "Moindou" },
@@ -1488,7 +3171,52 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-tadine-cities-v2.webp",
   },
   {
-    id: "newcaledonia-fayaoue-cities-v2",
+    id: "newcaledonia-fayaoue-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Canon",
+                  "text": "Historische Ruinen mit einer Kanone in Fayaoué.",
+                  "category": "historical",
+                  "coords": [
+                        166.533943,
+                        -20.652899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Canon",
+                  "text": "Történelmi romok egy ágyúval Fayaoué városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.533943,
+                        -20.652899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Canon",
+                  "text": "Ruine istorice cu un tun în Fayaoué.",
+                  "category": "historical",
+                  "coords": [
+                        166.533943,
+                        -20.652899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Canon",
+                  "text": "Historic ruins featuring a canon in Fayaoué.",
+                  "category": "historical",
+                  "coords": [
+                        166.533943,
+                        -20.652899
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Fayaoué", hu: "Fayaoué", ro: "Fayaoué", en: "Fayaoué" },
@@ -1533,7 +3261,88 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-fayaoue-cities-v2.webp",
   },
   {
-    id: "newcaledonia-vao-cities-v2",
+    id: "newcaledonia-vao-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statue de Saint Maurice",
+                  "text": "Statue von Saint Maurice in Vao.",
+                  "category": "landmark",
+                  "coords": [
+                        167.493892,
+                        -22.673574
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Markt in Vao.",
+                  "category": "landmark",
+                  "coords": [
+                        167.490074,
+                        -22.668992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statue de Saint Maurice",
+                  "text": "Saint Maurice szobra Vaóban.",
+                  "category": "landmark",
+                  "coords": [
+                        167.493892,
+                        -22.673574
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Piac Vaóban.",
+                  "category": "landmark",
+                  "coords": [
+                        167.490074,
+                        -22.668992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statue de Saint Maurice",
+                  "text": "Statuia Sfântului Maurice în Vao.",
+                  "category": "landmark",
+                  "coords": [
+                        167.493892,
+                        -22.673574
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Piață în Vao.",
+                  "category": "landmark",
+                  "coords": [
+                        167.490074,
+                        -22.668992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue de Saint Maurice",
+                  "text": "Statue of Saint Maurice in Vao.",
+                  "category": "landmark",
+                  "coords": [
+                        167.493892,
+                        -22.673574
+                  ]
+            },
+            {
+                  "name": "Marché",
+                  "text": "Market in Vao.",
+                  "category": "landmark",
+                  "coords": [
+                        167.490074,
+                        -22.668992
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Vao", hu: "Vao", ro: "Vao", en: "Vao" },
@@ -1668,7 +3477,412 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-plum-cities-v2.webp",
   },
   {
-    id: "newcaledonia-prony-cities-v2",
+    id: "newcaledonia-prony-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve de l'Aiguille de Prony",
+                  "text": "Naturschutzgebiet bei der Aiguille de Prony.",
+                  "category": "natural",
+                  "coords": [
+                        166.834933,
+                        -22.328869
+                  ]
+            },
+            {
+                  "name": "Aire Marine Protégée de Grand Port du 01/09 au 31/12",
+                  "text": "Meeresschutzgebiet am Grand Port (saisonal).",
+                  "category": "natural",
+                  "coords": [
+                        166.83129,
+                        -22.339666
+                  ]
+            },
+            {
+                  "name": "Ruine de la penitentiaire",
+                  "text": "Ruinen der ehemaligen Strafkolonie in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.83551,
+                        -22.302073
+                  ]
+            },
+            {
+                  "name": "Point de vue de la Baie de Prony",
+                  "text": "Aussichtspunkt über die Bucht von Prony.",
+                  "category": "natural",
+                  "coords": [
+                        166.814623,
+                        -22.321629
+                  ]
+            },
+            {
+                  "name": "Pénitencier de Prony",
+                  "text": "Überreste der alten Strafanstalt in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.824522,
+                        -22.320137
+                  ]
+            },
+            {
+                  "name": "Traineau pour le transport du bois",
+                  "text": "Historische Reste eines Holztransportschlittens in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.824805,
+                        -22.321083
+                  ]
+            },
+            {
+                  "name": "Poudrière de Prony",
+                  "text": "Ruinen der Pulvermühle in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.826204,
+                        -22.31945
+                  ]
+            },
+            {
+                  "name": "Cimetière des condamnés",
+                  "text": "Historischer Friedhof der Verurteilten in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.825897,
+                        -22.324112
+                  ]
+            },
+            {
+                  "name": "Ancienne tombe",
+                  "text": "Altes Grab in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.836711,
+                        -22.302441
+                  ]
+            },
+            {
+                  "name": "Ancienne source thermale du Carénage",
+                  "text": "Ruinen der ehemaligen Thermalquelle Carénage in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.840648,
+                        -22.304463
+                  ]
+            },
+            {
+                  "name": "Vestige installation chargement SOCAMIFER",
+                  "text": "Ruinen der SOCAMIFER-Verladeanlage in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.835101,
+                        -22.313736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve de l'Aiguille de Prony",
+                  "text": "Természetvédelmi terület a Prony-tűnél.",
+                  "category": "natural",
+                  "coords": [
+                        166.834933,
+                        -22.328869
+                  ]
+            },
+            {
+                  "name": "Aire Marine Protégée de Grand Port du 01/09 au 31/12",
+                  "text": "Tengeri védett terület a Grand Portnál (szezonális).",
+                  "category": "natural",
+                  "coords": [
+                        166.83129,
+                        -22.339666
+                  ]
+            },
+            {
+                  "name": "Ruine de la penitentiaire",
+                  "text": "Az egykori büntetőtelep romjai Pronyban.",
+                  "category": "historical",
+                  "coords": [
+                        166.83551,
+                        -22.302073
+                  ]
+            },
+            {
+                  "name": "Point de vue de la Baie de Prony",
+                  "text": "Kilátópont a Prony-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        166.814623,
+                        -22.321629
+                  ]
+            },
+            {
+                  "name": "Pénitencier de Prony",
+                  "text": "A régi büntetőintézet maradványai Pronyban.",
+                  "category": "historical",
+                  "coords": [
+                        166.824522,
+                        -22.320137
+                  ]
+            },
+            {
+                  "name": "Traineau pour le transport du bois",
+                  "text": "Egy faanyagszállító szán történelmi maradványai Pronyban.",
+                  "category": "historical",
+                  "coords": [
+                        166.824805,
+                        -22.321083
+                  ]
+            },
+            {
+                  "name": "Poudrière de Prony",
+                  "text": "Prony-i lőportorony romjai.",
+                  "category": "historical",
+                  "coords": [
+                        166.826204,
+                        -22.31945
+                  ]
+            },
+            {
+                  "name": "Cimetière des condamnés",
+                  "text": "Az elítéltek történelmi temetője Pronyban.",
+                  "category": "historical",
+                  "coords": [
+                        166.825897,
+                        -22.324112
+                  ]
+            },
+            {
+                  "name": "Ancienne tombe",
+                  "text": "Régi sír Pronyban.",
+                  "category": "historical",
+                  "coords": [
+                        166.836711,
+                        -22.302441
+                  ]
+            },
+            {
+                  "name": "Ancienne source thermale du Carénage",
+                  "text": "A Carénage egykori termálforrásának romjai Pronyban.",
+                  "category": "historical",
+                  "coords": [
+                        166.840648,
+                        -22.304463
+                  ]
+            },
+            {
+                  "name": "Vestige installation chargement SOCAMIFER",
+                  "text": "A SOCAMIFER rakodólétesítményének romjai Pronyban.",
+                  "category": "historical",
+                  "coords": [
+                        166.835101,
+                        -22.313736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve de l'Aiguille de Prony",
+                  "text": "Rezervație naturală lângă Aiguille de Prony.",
+                  "category": "natural",
+                  "coords": [
+                        166.834933,
+                        -22.328869
+                  ]
+            },
+            {
+                  "name": "Aire Marine Protégée de Grand Port du 01/09 au 31/12",
+                  "text": "Rezervație marină protejată la Grand Port (sezonier).",
+                  "category": "natural",
+                  "coords": [
+                        166.83129,
+                        -22.339666
+                  ]
+            },
+            {
+                  "name": "Ruine de la penitentiaire",
+                  "text": "Ruinele fostei colonii penale din Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.83551,
+                        -22.302073
+                  ]
+            },
+            {
+                  "name": "Point de vue de la Baie de Prony",
+                  "text": "Punct de belvedere asupra golfului Prony.",
+                  "category": "natural",
+                  "coords": [
+                        166.814623,
+                        -22.321629
+                  ]
+            },
+            {
+                  "name": "Pénitencier de Prony",
+                  "text": "Rămășițele vechii colonii penale în Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.824522,
+                        -22.320137
+                  ]
+            },
+            {
+                  "name": "Traineau pour le transport du bois",
+                  "text": "Rămășițele istorice ale unei sănii pentru transportul lemnului în Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.824805,
+                        -22.321083
+                  ]
+            },
+            {
+                  "name": "Poudrière de Prony",
+                  "text": "Ruinele depozitului de praf de pușcă din Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.826204,
+                        -22.31945
+                  ]
+            },
+            {
+                  "name": "Cimetière des condamnés",
+                  "text": "Cimitirul istoric al condamnaților din Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.825897,
+                        -22.324112
+                  ]
+            },
+            {
+                  "name": "Ancienne tombe",
+                  "text": "Mormânt vechi în Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.836711,
+                        -22.302441
+                  ]
+            },
+            {
+                  "name": "Ancienne source thermale du Carénage",
+                  "text": "Ruinele fostului izvor termal Carénage din Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.840648,
+                        -22.304463
+                  ]
+            },
+            {
+                  "name": "Vestige installation chargement SOCAMIFER",
+                  "text": "Ruinele instalației de încărcare SOCAMIFER din Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.835101,
+                        -22.313736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve de l'Aiguille de Prony",
+                  "text": "Nature reserve near the Aiguille de Prony.",
+                  "category": "natural",
+                  "coords": [
+                        166.834933,
+                        -22.328869
+                  ]
+            },
+            {
+                  "name": "Aire Marine Protégée de Grand Port du 01/09 au 31/12",
+                  "text": "Marine protected area at Grand Port (seasonal).",
+                  "category": "natural",
+                  "coords": [
+                        166.83129,
+                        -22.339666
+                  ]
+            },
+            {
+                  "name": "Ruine de la penitentiaire",
+                  "text": "Ruins of the former penal colony in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.83551,
+                        -22.302073
+                  ]
+            },
+            {
+                  "name": "Point de vue de la Baie de Prony",
+                  "text": "Viewpoint over the bay of Prony.",
+                  "category": "natural",
+                  "coords": [
+                        166.814623,
+                        -22.321629
+                  ]
+            },
+            {
+                  "name": "Pénitencier de Prony",
+                  "text": "Remains of the old penal colony in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.824522,
+                        -22.320137
+                  ]
+            },
+            {
+                  "name": "Traineau pour le transport du bois",
+                  "text": "Historic remains of a timber transport sledge in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.824805,
+                        -22.321083
+                  ]
+            },
+            {
+                  "name": "Poudrière de Prony",
+                  "text": "Ruins of the powder magazine in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.826204,
+                        -22.31945
+                  ]
+            },
+            {
+                  "name": "Cimetière des condamnés",
+                  "text": "Historic cemetery of the condemned in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.825897,
+                        -22.324112
+                  ]
+            },
+            {
+                  "name": "Ancienne tombe",
+                  "text": "Ancient tomb in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.836711,
+                        -22.302441
+                  ]
+            },
+            {
+                  "name": "Ancienne source thermale du Carénage",
+                  "text": "Ruins of the former Carénage thermal spring in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.840648,
+                        -22.304463
+                  ]
+            },
+            {
+                  "name": "Vestige installation chargement SOCAMIFER",
+                  "text": "Ruins of the SOCAMIFER loading facility in Prony.",
+                  "category": "historical",
+                  "coords": [
+                        166.835101,
+                        -22.313736
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Prony", hu: "Prony", ro: "Prony", en: "Prony" },
@@ -1803,7 +4017,88 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-chepenehe-cities-v2.webp",
   },
   {
-    id: "newcaledonia-mouli-cities-v2",
+    id: "newcaledonia-mouli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chefferie de Mouli",
+                  "text": "Traditionelle Häuptlingssitz in Mouli.",
+                  "category": "castle",
+                  "coords": [
+                        166.420769,
+                        -20.722315
+                  ]
+            },
+            {
+                  "name": "Plage de Mouli",
+                  "text": "Strand von Mouli.",
+                  "category": "recreational",
+                  "coords": [
+                        166.425722,
+                        -20.720163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chefferie de Mouli",
+                  "text": "Hagyományos főnöki székhely Mouliban.",
+                  "category": "castle",
+                  "coords": [
+                        166.420769,
+                        -20.722315
+                  ]
+            },
+            {
+                  "name": "Plage de Mouli",
+                  "text": "Mouli strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        166.425722,
+                        -20.720163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chefferie de Mouli",
+                  "text": "Sediul tradițional al șefului din Mouli.",
+                  "category": "castle",
+                  "coords": [
+                        166.420769,
+                        -20.722315
+                  ]
+            },
+            {
+                  "name": "Plage de Mouli",
+                  "text": "Plaja din Mouli.",
+                  "category": "recreational",
+                  "coords": [
+                        166.425722,
+                        -20.720163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chefferie de Mouli",
+                  "text": "Traditional chief's seat in Mouli.",
+                  "category": "castle",
+                  "coords": [
+                        166.420769,
+                        -20.722315
+                  ]
+            },
+            {
+                  "name": "Plage de Mouli",
+                  "text": "Beach in Mouli.",
+                  "category": "recreational",
+                  "coords": [
+                        166.425722,
+                        -20.720163
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Mouli", hu: "Mouli", ro: "Mouli", en: "Mouli" },
@@ -1983,7 +4278,1276 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-anse-vata-cities-v2.webp",
   },
   {
-    id: "newcaledonia-baie-des-citrons-cities-v2",
+    id: "newcaledonia-baie-des-citrons-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aquarium des Lagons",
+                  "text": "Das Aquarium des Lagons ist ein beliebtes Aquarium in Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.438142,
+                        -22.302545
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "Fédération de Œuvres Laiques FOL ist ein Theater in Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Das Théâtre de Poche ist ein gemütliches Theater in Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Baie de l'Anse Vata",
+                  "text": "Baie de l'Anse Vata ist ein bekannter Strand in der Nähe von Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442596,
+                        -22.303804
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Das Musée de la Ville ist ein lokales Stadtmuseum in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege ist ein Freizeitpark in Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Plage de la Baie des Citrons",
+                  "text": "Plage de la Baie des Citrons ist ein Strand in Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.437501,
+                        -22.29797
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Das Musée de la seconde guerre mondiale en Nouvelle-Calédonie ist ein Museum in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Aire Marine Protégée de l'Île aux Canards",
+                  "text": "Aire Marine Protégée de l'Île aux Canards ist ein Naturschutzgebiet in Baie des Citrons.",
+                  "category": "natural",
+                  "coords": [
+                        166.444688,
+                        -22.315818
+                  ]
+            },
+            {
+                  "name": "Plage de l'Aquarêve",
+                  "text": "Plage de l'Aquarêve ist ein Strand in Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.452634,
+                        -22.311334
+                  ]
+            },
+            {
+                  "name": "Plage du Château Royal",
+                  "text": "Plage du Château Royal ist ein Strand in Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.448227,
+                        -22.309797
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières ist ein Museum in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Maison Higginson ist ein Museum in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "Das Musée de l'Histoire Maritime ist ein Museum in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Ouen Toro",
+                  "text": "Ouen Toro ist ein Aussichtspunkt in Baie des Citrons.",
+                  "category": "natural",
+                  "coords": [
+                        166.454593,
+                        -22.307362
+                  ]
+            },
+            {
+                  "name": "Monument de la Promenade Pierre Vernier",
+                  "text": "Monument de la Promenade Pierre Vernier ist ein Denkmal in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.460874,
+                        -22.306459
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Die Croix de Lorraine ist ein Denkmal in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Ancre de Marine",
+                  "text": "Ancre de Marine ist ein Denkmal in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.444608,
+                        -22.286902
+                  ]
+            },
+            {
+                  "name": "Centre de Danse Jean-Yves Arroyo",
+                  "text": "Centre de Danse Jean-Yves Arroyo ist ein Kunstzentrum in Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44978,
+                        -22.2934
+                  ]
+            },
+            {
+                  "name": "Vestige de la mine de silice",
+                  "text": "Vestige de la mine de silice sind Ruinen in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.457355,
+                        -22.305514
+                  ]
+            },
+            {
+                  "name": "Terrain de Petanque",
+                  "text": "Petanque playground ist eine Sehenswürdigkeit in Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.447089,
+                        -22.304206
+                  ]
+            },
+            {
+                  "name": "Parcelle en cours de restauration",
+                  "text": "Parcelle en cours de restauration ist eine Sehenswürdigkeit in Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.452184,
+                        -22.307099
+                  ]
+            },
+            {
+                  "name": "Bloc de Nickel",
+                  "text": "Bloc de Nickel ist ein Denkmal in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.438839,
+                        -22.293667
+                  ]
+            },
+            {
+                  "name": "Monument du centenaire de la présence indonésienne",
+                  "text": "Monument du centenaire de la présence indonésienne ist ein Denkmal in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.440838,
+                        -22.289002
+                  ]
+            },
+            {
+                  "name": "Balise rouge",
+                  "text": "Balise rouge ist ein Denkmal in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.439021,
+                        -22.29009
+                  ]
+            },
+            {
+                  "name": "Arts Premiers Galerie",
+                  "text": "Arts Premiers Galerie ist eine Galerie in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.445215,
+                        -22.30144
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Stèle aux Disparus de la Monique ist ein Denkmal in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Enjoy Diving ist eine Sehenswürdigkeit in Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Odyssey Diving ist eine Sehenswürdigkeit in Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Le Rex ist ein Kunstzentrum in Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Monument aux Morts 14-18 de la Place Bir Hakeim ist ein Denkmal in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Mémoire des Gendarmes et Militaires ist ein Denkmal in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Die Église Saint-Jean-Baptiste ist eine Kultstätte in Baie des Citrons.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Die Cathédrale Saint-Joseph ist eine Kultstätte in Baie des Citrons.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église du Vœu",
+                  "text": "Die Église du Vœu ist eine Kultstätte in Baie des Citrons.",
+                  "category": "religious",
+                  "coords": [
+                        166.445932,
+                        -22.291107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aquarium des Lagons",
+                  "text": "Az Aquarium des Lagons egy népszerű akvárium Baie des Citrons területén.",
+                  "category": "recreational",
+                  "coords": [
+                        166.438142,
+                        -22.302545
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "A Fédération de Œuvres Laiques FOL egy színház Baie des Citrons területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "A Théâtre de Poche egy hangulatos színház Baie des Citrons területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Baie de l'Anse Vata",
+                  "text": "A Baie de l'Anse Vata egy jól ismert strand Baie des Citrons közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442596,
+                        -22.303804
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "A Musée de la Ville egy helyi városi múzeum Baie des Citrons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "A Manege egy vidámpark Baie des Citrons területén.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Plage de la Baie des Citrons",
+                  "text": "A Plage de la Baie des Citrons egy strand Baie des Citrons területén.",
+                  "category": "recreational",
+                  "coords": [
+                        166.437501,
+                        -22.29797
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "A Musée de la seconde guerre mondiale en Nouvelle-Calédonie egy múzeum Baie des Citrons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Aire Marine Protégée de l'Île aux Canards",
+                  "text": "Az Aire Marine Protégée de l'Île aux Canards egy természetvédelmi terület Baie des Citrons környékén.",
+                  "category": "natural",
+                  "coords": [
+                        166.444688,
+                        -22.315818
+                  ]
+            },
+            {
+                  "name": "Plage de l'Aquarêve",
+                  "text": "A Plage de l'Aquarêve egy strand Baie des Citrons területén.",
+                  "category": "recreational",
+                  "coords": [
+                        166.452634,
+                        -22.311334
+                  ]
+            },
+            {
+                  "name": "Plage du Château Royal",
+                  "text": "A Plage du Château Royal egy strand Baie des Citrons területén.",
+                  "category": "recreational",
+                  "coords": [
+                        166.448227,
+                        -22.309797
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "A Maison Célières egy múzeum Baie des Citrons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "A Maison Higginson egy múzeum Baie des Citrons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "A Musée de l'Histoire Maritime egy múzeum Baie des Citrons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Ouen Toro",
+                  "text": "A Ouen Toro egy kilátó Baie des Citrons területén.",
+                  "category": "natural",
+                  "coords": [
+                        166.454593,
+                        -22.307362
+                  ]
+            },
+            {
+                  "name": "Monument de la Promenade Pierre Vernier",
+                  "text": "A Monument de la Promenade Pierre Vernier egy emlékmű Baie des Citrons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.460874,
+                        -22.306459
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "A Croix de Lorraine egy emlékmű Baie des Citrons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Ancre de Marine",
+                  "text": "Az Ancre de Marine egy emlékmű Baie des Citrons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.444608,
+                        -22.286902
+                  ]
+            },
+            {
+                  "name": "Centre de Danse Jean-Yves Arroyo",
+                  "text": "A Centre de Danse Jean-Yves Arroyo egy művészeti központ Baie des Citrons területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44978,
+                        -22.2934
+                  ]
+            },
+            {
+                  "name": "Vestige de la mine de silice",
+                  "text": "A Vestige de la mine de silice egy romterület Baie des Citrons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.457355,
+                        -22.305514
+                  ]
+            },
+            {
+                  "name": "Terrain de Petanque",
+                  "text": "A Petanque playground egy látványosság Baie des Citrons területén.",
+                  "category": "landmark",
+                  "coords": [
+                        166.447089,
+                        -22.304206
+                  ]
+            },
+            {
+                  "name": "Parcelle en cours de restauration",
+                  "text": "A Parcelle en cours de restauration egy látványosság Baie des Citrons területén.",
+                  "category": "landmark",
+                  "coords": [
+                        166.452184,
+                        -22.307099
+                  ]
+            },
+            {
+                  "name": "Bloc de Nickel",
+                  "text": "A Bloc de Nickel egy emlékmű Baie des Citrons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.438839,
+                        -22.293667
+                  ]
+            },
+            {
+                  "name": "Monument du centenaire de la présence indonésienne",
+                  "text": "A Monument du centenaire de la présence indonésienne egy emlékmű Baie des Citrons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.440838,
+                        -22.289002
+                  ]
+            },
+            {
+                  "name": "Balise rouge",
+                  "text": "A Balise rouge egy emlékmű Baie des Citrons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.439021,
+                        -22.29009
+                  ]
+            },
+            {
+                  "name": "Arts Premiers Galerie",
+                  "text": "Az Arts Premiers Galerie egy galéria Baie des Citrons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.445215,
+                        -22.30144
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "A Stèle aux Disparus de la Monique egy emlékmű Baie des Citrons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Az Enjoy Diving egy látványosság Baie des Citrons területén.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Az Odyssey Diving egy látványosság Baie des Citrons területén.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "A Le Rex egy művészeti központ Baie des Citrons területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "A Monument aux Morts 14-18 de la Place Bir Hakeim egy emlékmű Baie des Citrons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "A Mémoire des Gendarmes et Militaires egy emlékmű Baie des Citrons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Az Église Saint-Jean-Baptiste egy istentiszteleti hely Baie des Citrons területén.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "A Cathédrale Saint-Joseph egy istentiszteleti hely Baie des Citrons területén.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église du Vœu",
+                  "text": "Az Église du Vœu egy istentiszteleti hely Baie des Citrons területén.",
+                  "category": "religious",
+                  "coords": [
+                        166.445932,
+                        -22.291107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aquarium des Lagons",
+                  "text": "Aquarium des Lagons este un acvariu popular situat în Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.438142,
+                        -22.302545
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "Fédération de Œuvres Laiques FOL este un teatru situat în Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche este un teatru confortabil situat în Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Baie de l'Anse Vata",
+                  "text": "Baie de l'Anse Vata este o plajă bine-cunoscută situată lângă Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442596,
+                        -22.303804
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Musée de la Ville este un muzeu local al orașului situat în Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege este un parc de distracții în Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Plage de la Baie des Citrons",
+                  "text": "Plage de la Baie des Citrons este o plajă în Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.437501,
+                        -22.29797
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie este un muzeu în Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Aire Marine Protégée de l'Île aux Canards",
+                  "text": "Aire Marine Protégée de l'Île aux Canards este o rezervație naturală în Baie des Citrons.",
+                  "category": "natural",
+                  "coords": [
+                        166.444688,
+                        -22.315818
+                  ]
+            },
+            {
+                  "name": "Plage de l'Aquarêve",
+                  "text": "Plage de l'Aquarêve este o plajă în Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.452634,
+                        -22.311334
+                  ]
+            },
+            {
+                  "name": "Plage du Château Royal",
+                  "text": "Plage du Château Royal este o plajă în Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.448227,
+                        -22.309797
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières este un muzeu în Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Maison Higginson este un muzeu în Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "Musée de l'Histoire Maritime este un muzeu în Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Ouen Toro",
+                  "text": "Ouen Toro este un punct de belvedere în Baie des Citrons.",
+                  "category": "natural",
+                  "coords": [
+                        166.454593,
+                        -22.307362
+                  ]
+            },
+            {
+                  "name": "Monument de la Promenade Pierre Vernier",
+                  "text": "Monument de la Promenade Pierre Vernier este un monument în Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.460874,
+                        -22.306459
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Croix de Lorraine este un monument în Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Ancre de Marine",
+                  "text": "Ancre de Marine este un monument în Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.444608,
+                        -22.286902
+                  ]
+            },
+            {
+                  "name": "Centre de Danse Jean-Yves Arroyo",
+                  "text": "Centre de Danse Jean-Yves Arroyo este un centru de arte în Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44978,
+                        -22.2934
+                  ]
+            },
+            {
+                  "name": "Vestige de la mine de silice",
+                  "text": "Vestige de la mine de silice sunt ruine în Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.457355,
+                        -22.305514
+                  ]
+            },
+            {
+                  "name": "Terrain de Petanque",
+                  "text": "Petanque playground este o atracție în Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.447089,
+                        -22.304206
+                  ]
+            },
+            {
+                  "name": "Parcelle en cours de restauration",
+                  "text": "Parcelle en cours de restauration este o atracție în Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.452184,
+                        -22.307099
+                  ]
+            },
+            {
+                  "name": "Bloc de Nickel",
+                  "text": "Bloc de Nickel este un monument în Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.438839,
+                        -22.293667
+                  ]
+            },
+            {
+                  "name": "Monument du centenaire de la présence indonésienne",
+                  "text": "Monument du centenaire de la présence indonésienne este un monument în Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.440838,
+                        -22.289002
+                  ]
+            },
+            {
+                  "name": "Balise rouge",
+                  "text": "Balise rouge este un monument în Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.439021,
+                        -22.29009
+                  ]
+            },
+            {
+                  "name": "Arts Premiers Galerie",
+                  "text": "Arts Premiers Galerie este o galerie în Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.445215,
+                        -22.30144
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Stèle aux Disparus de la Monique este un monument în Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Enjoy Diving este o atracție în Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Odyssey Diving este o atracție în Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Le Rex este un centru de arte în Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Monument aux Morts 14-18 de la Place Bir Hakeim este un monument în Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Mémoire des Gendarmes et Militaires este un monument în Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste este un lăcaș de cult în Baie des Citrons.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Cathédrale Saint-Joseph este un lăcaș de cult în Baie des Citrons.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église du Vœu",
+                  "text": "Église du Vœu este un lăcaș de cult în Baie des Citrons.",
+                  "category": "religious",
+                  "coords": [
+                        166.445932,
+                        -22.291107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aquarium des Lagons",
+                  "text": "Aquarium des Lagons is a popular aquarium situated in Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.438142,
+                        -22.302545
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "Fédération de Œuvres Laiques FOL is a theatre located in Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche is a cosy theatre situated in Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Baie de l'Anse Vata",
+                  "text": "Baie de l'Anse Vata is a well-known beach located near Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442596,
+                        -22.303804
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Musée de la Ville is a local city museum located in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege is a theme park in Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Plage de la Baie des Citrons",
+                  "text": "Plage de la Baie des Citrons is a beach in Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.437501,
+                        -22.29797
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie is a museum in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Aire Marine Protégée de l'Île aux Canards",
+                  "text": "Aire Marine Protégée de l'Île aux Canards is a nature reserve in Baie des Citrons.",
+                  "category": "natural",
+                  "coords": [
+                        166.444688,
+                        -22.315818
+                  ]
+            },
+            {
+                  "name": "Plage de l'Aquarêve",
+                  "text": "Plage de l'Aquarêve is a beach in Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.452634,
+                        -22.311334
+                  ]
+            },
+            {
+                  "name": "Plage du Château Royal",
+                  "text": "Plage du Château Royal is a beach in Baie des Citrons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.448227,
+                        -22.309797
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières is a museum in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Maison Higginson is a museum in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "Musée de l'Histoire Maritime is a museum in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Ouen Toro",
+                  "text": "Ouen Toro is a viewpoint in Baie des Citrons.",
+                  "category": "natural",
+                  "coords": [
+                        166.454593,
+                        -22.307362
+                  ]
+            },
+            {
+                  "name": "Monument de la Promenade Pierre Vernier",
+                  "text": "Monument de la Promenade Pierre Vernier is a monument in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.460874,
+                        -22.306459
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Croix de Lorraine is a monument in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Ancre de Marine",
+                  "text": "Ancre de Marine is a monument in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.444608,
+                        -22.286902
+                  ]
+            },
+            {
+                  "name": "Centre de Danse Jean-Yves Arroyo",
+                  "text": "Centre de Danse Jean-Yves Arroyo is an arts centre in Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44978,
+                        -22.2934
+                  ]
+            },
+            {
+                  "name": "Vestige de la mine de silice",
+                  "text": "Vestige de la mine de silice are ruins in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.457355,
+                        -22.305514
+                  ]
+            },
+            {
+                  "name": "Petanque playground",
+                  "text": "Petanque playground is an attraction in Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.447089,
+                        -22.304206
+                  ]
+            },
+            {
+                  "name": "Parcelle en cours de restauration",
+                  "text": "Parcelle en cours de restauration is an attraction in Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.452184,
+                        -22.307099
+                  ]
+            },
+            {
+                  "name": "Bloc de Nickel",
+                  "text": "Bloc de Nickel is a monument in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.438839,
+                        -22.293667
+                  ]
+            },
+            {
+                  "name": "Monument du centenaire de la présence indonésienne",
+                  "text": "Monument du centenaire de la présence indonésienne is a monument in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.440838,
+                        -22.289002
+                  ]
+            },
+            {
+                  "name": "Balise rouge",
+                  "text": "Balise rouge is a monument in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.439021,
+                        -22.29009
+                  ]
+            },
+            {
+                  "name": "Arts Premiers Galerie",
+                  "text": "Arts Premiers Galerie is a gallery in Baie des Citrons.",
+                  "category": "museum",
+                  "coords": [
+                        166.445215,
+                        -22.30144
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Stèle aux Disparus de la Monique is a monument in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Enjoy Diving is an attraction in Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Odyssey Diving is an attraction in Baie des Citrons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Le Rex is an arts centre in Baie des Citrons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Monument aux Morts 14-18 de la Place Bir Hakeim is a monument in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Mémoire des Gendarmes et Militaires is a monument in Baie des Citrons.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste is a place of worship in Baie des Citrons.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Cathédrale Saint-Joseph is a place of worship in Baie des Citrons.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église du Vœu",
+                  "text": "Église du Vœu is a place of worship in Baie des Citrons.",
+                  "category": "religious",
+                  "coords": [
+                        166.445932,
+                        -22.291107
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Baie des Citrons", hu: "Citrom-öböl", ro: "Baie des Citrons", en: "Lemon Bay" },
@@ -2073,7 +5637,736 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-ducos-cities-v2.webp",
   },
   {
-    id: "newcaledonia-magenta-cities-v2",
+    id: "newcaledonia-magenta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Ein bemerkenswerter Zoo- und Waldpark in Magenta.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Ein lokales Theater in Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Ein Natur- und Zoopark in Magenta.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Ein bemerkenswertes Kulturzentrum, das die Kanak-Kultur in Magenta feiert.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Ein lokaler Strand zur Erholung an der Küste in Magenta.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Ein lebendiger Theater- und Musikort in Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Ein auf Biodiversität ausgerichtetes Museum in Magenta.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Ein vietnamesisches Kunst- und Kulturzentrum in Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Ein historisches Denkmal mit den Ouémo-Kanonen in Magenta.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Ein lokaler Aussichtspunkt mit weitem Blick über Magenta.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Ein malerischer Aussichtspunkt am Montravel in Magenta.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Ein Flugclub und eine Attraktion in Magenta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Ein markanter Aussichtspunkt vom Mont Te in Magenta.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Eine traditionelle Kanak-Hütte als Attraktion in Magenta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Eine spezielle traditionelle Hüttenattraktion in Magenta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Das Centre Culturel Ko We Kara ist ein Kunstzentrum in Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ancien reservoir ist eine historische Ruine in Magenta.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Die Église Saint-Jean-Baptiste ist eine religiöse Stätte in Magenta.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Die Église Sainte-Anne ist eine religiöse Stätte in Magenta.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Die Église du Bon-Pasteur ist eine religiöse Stätte in Magenta.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Egy jelentős állat- és erdőpark Magenta városában.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Egy helyi színház Magenta városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Egy természetvédelmi és állatkert Magenta városában.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "A kanak kultúrát bemutató jelentős kulturális központ Magenta városában.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Egy helyi strand Magenta városában.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Egy nyüzsgő színházi és zenei helyszín Magenta városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "A biodiverzitásra összpontosító múzeum Magenta városában.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Egy vietnámi művészeti és kulturális központ Magenta városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "A Ouémo ágyúkat bemutató történelmi emlékmű Magenta városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Egy helyi kilátó, amely pazar kilátást nyújt Magenta városára.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Egy festői kilátó a Montravel felől Magenta városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Egy repülőklub és látványosság Magenta városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Egy kiemelkedő kilátó a Mont Te hegyen Magenta városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Egy hagyományos kanak kunyhó látványosság Magenta városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Egy speciális hagyományos kunyhó látványosság Magenta városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "A Centre Culturel Ko We Kara egy művészeti központ Magenta városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Az Ancien reservoir egy történelmi romterület Magenta városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Az Église Saint-Jean-Baptiste egy vallási helyszín Magenta városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Az Église Sainte-Anne egy vallási helyszín Magenta városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Az Église du Bon-Pasteur egy vallási helyszín Magenta városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Un parc zoologic și forestier notabil situat în Magenta.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Un teatru local situat în Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Un parc natural și zoologic aflat în Magenta.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Un centru cultural notabil care celebrează cultura Kanak în Magenta.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "O plajă locală care oferă relaxare pe coastă în Magenta.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Un teatru și centru muzical vibrant în Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Un muzeu axat pe biodiversitate situat în Magenta.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Un centru de artă și cultură vietnameză în Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Un monument istoric care prezintă tunurile Ouémo în Magenta.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Un punct de belvedere local care oferă priveliști panoramice asupra Magentei.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Un punct de belvedere pitoresc de pe Montravel din Magenta.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Un club de aviație și o atracție bazată în Magenta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Un punct de belvedere proeminent de pe Mont Te în Magenta.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "O colibă tradițională Kanak care servește ca atracție în Magenta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "O atracție sub formă de colibă tradițională situată în Magenta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Centre Culturel Ko We Kara este un centru de artă în Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ancien reservoir este un sit în ruină din Magenta.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste este un lăcaș de cult în Magenta.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne este un lăcaș de cult în Magenta.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Église du Bon-Pasteur este un lăcaș de cult în Magenta.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "A notable zoological and forest park situated in Magenta.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "A local theatre venue located in Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "A nature and zoological park found in Magenta.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Jean-Marie Tjibaou Cultural Centre",
+                  "text": "A notable cultural centre celebrating Kanak culture in Magenta.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Magenta Beach",
+                  "text": "A local beach offering coastal relaxation in Magenta.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "A vibrant theatre and music venue in Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "A museum focusing on biodiversity situated in Magenta.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "A Vietnamese arts and cultural centre in Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "A historical monument featuring the Ouémo cannons in Magenta.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "A local viewpoint offering sweeping views over Magenta.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "A scenic viewpoint from Montravel in Magenta.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "An aviation club and attraction based in Magenta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "A prominent viewpoint from Mont Te in Magenta.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "A traditional Kanak hut attraction in Magenta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "A specific traditional hut attraction found in Magenta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Centre Culturel Ko We Kara is an arts centre located in Magenta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ancien reservoir is a historic ruin located in Magenta.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste is a place of worship located in Magenta.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne is a place of worship located in Magenta.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Église du Bon-Pasteur is a place of worship located in Magenta.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Magenta", hu: "Magenta", ro: "Magenta", en: "Magenta" },
@@ -2118,7 +6411,376 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-magenta-cities-v2.webp",
   },
   {
-    id: "newcaledonia-riviere-salee-cities-v2",
+    id: "newcaledonia-riviere-salee-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Zoo und Wildpark Michel Corbasson in Rivière-Salée.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Wild- und Tierpark in Rivière-Salée.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Micro-Folie",
+                  "text": "Kulturelle Einrichtung Micro-Folie in Rivière-Salée.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Musikcafé und Theater Le Mouv' in Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Vietnamesisches Kulturzentrum in Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Rock'n'Roll-Tanzschule in Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Aussichtspunkt Montravel in Rivière-Salée.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Aussichtspunkt Mont Te in Rivière-Salée.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Kulturzentrum Ko We Kara in Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ruinen eines alten Reservoirs in Rivière-Salée.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Michel Corbasson Állatkert és Vadaspark Rivière-Salée-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Vadaspark és állatkert Rivière-Salée-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Micro-Folie",
+                  "text": "Micro-Folie kulturális központ Rivière-Salée-ben.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Le Mouv' zenés kávézó és színház Rivière-Salée-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Vietnami kulturális központ Rivière-Salée-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Rock'n'Roll tánciskola Rivière-Salée-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Montravel kilátó Rivière-Salée-ben.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Mont Te kilátó Rivière-Salée-ben.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Ko We Kara kulturális központ Rivière-Salée-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Régi víztározó romjai Rivière-Salée-ben.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Grădina zoologică și parcul forestier Michel Corbasson din Rivière-Salée.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Parc forestier și grădină zoologică în Rivière-Salée.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Micro-Folie",
+                  "text": "Centru cultural Micro-Folie în Rivière-Salée.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Café-teatru Le Mouv' în Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Centru cultural vietnamez în Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Școală de dans Rock'n'Roll în Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Punct de belvedere Montravel în Rivière-Salée.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Punct de belvedere Mont Te în Rivière-Salée.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Centru cultural Ko We Kara în Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ruinele unui vechi rezervor în Rivière-Salée.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Michel Corbasson Zoo and Forest Park in Rivière-Salée.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Forest park and zoo in Rivière-Salée.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Micro-Folie",
+                  "text": "Micro-Folie cultural venue in Rivière-Salée.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Music café and theatre Le Mouv' in Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Vietnamese cultural centre in Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Rock'n'Roll dance school in Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Montravel viewpoint in Rivière-Salée.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Mont Te viewpoint in Rivière-Salée.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Ko We Kara cultural centre in Rivière-Salée.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ruins of an old reservoir in Rivière-Salée.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Rivière-Salée", hu: "Rivière-Salée", ro: "Rivière-Salée", en: "Rivière-Salée" },
@@ -2163,7 +6825,1276 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-riviere-salee-cities-v2.webp",
   },
   {
-    id: "newcaledonia-vallee-des-colons-cities-v2",
+    id: "newcaledonia-vallee-des-colons-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Parc Zoologique et Forestier Michel Corbasson ist ein Zoo in Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "Fédération de Œuvres Laiques FOL ist ein Theater in Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 ist ein Theater in Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche ist ein Theater in Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Parc Forestier et Zooligique ist ein Zoo in Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Musée de la Ville ist ein Museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege ist ein Freizeitpark in Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Das Jean-Marie Tjibaou Cultural Centre ist ein Museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Magenta Beach ist ein Strand in Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Das Musée de la seconde guerre mondiale en Nouvelle-Calédonie ist ein Museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières ist ein Museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Maison Higginson ist ein Museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Maison de la Biodiversité ist ein Museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "Das Musée de l'Histoire Maritime ist ein Museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Amicale Vietnamienne ist ein Kunstzentrum in Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Das Croix de Lorraine ist ein bedeutendes Denkmal in Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Die Canons de Ouémo sind ein historisches Denkmal in Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta bietet einen malerischen Aussichtspunkt über die Umgebung in Vallée des Colons.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Point de vue Montravel ist ein malerischer Aussichtspunkt in Vallée des Colons.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Ancre de Marine",
+                  "text": "Ancre de Marine ist ein bemerkenswertes maritimes Denkmal in Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.444608,
+                        -22.286902
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Der Aeroclub Calédonien ist eine Luftfahrtattraktion in Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Mont Te bietet Besuchern einen atemberaubenden Aussichtspunkt über Vallée des Colons.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Diese Stele in Vallée des Colons ist ein Denkmal für die vermissten Passagiere des Schiffes Monique.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Enjoy Diving ist eine Attraktion in Vallée des Colons, die Taucherlebnisse anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Odyssey Diving ist eine spezielle Tauchattraktion in Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Das Case traditionnelle ist eine Attraktion, die traditionelle Architektur in Vallée des Colons zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi ist eine besondere kulturelle Attraktion in Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Le Rex ist ein bekanntes Kunst- und Kulturzentrum in Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Dieses Denkmal in Vallée des Colons ist den gefallenen Soldaten des Ersten Weltkriegs gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Mémoire des Gendarmes et Militaires ist ein Denkmal in Vallée des Colons, das das Gedenken an Militärangehörige ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Das Ancien reservoir zeigt die historischen Ruinen eines alten Wasserreservoirs in Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste ist ein bedeutendes Gotteshaus in Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Die Cathédrale Saint-Joseph ist eine bedeutende katholische Kathedrale und ein architektonisches Wahrzeichen in Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne ist ein einladendes Gotteshaus in der Stadt Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Église du Bon-Pasteur dient der Gemeinde als lokales Gotteshaus in Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "A Parc Zoologique et Forestier Michel Corbasson egy állatkert Vallée des Colons területén.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "A Fédération de Œuvres Laiques FOL egy színház Vallée des Colons területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "A Block 72 egy színház Vallée des Colons területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "A Théâtre de Poche egy színház Vallée des Colons területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "A Parc Forestier et Zooligique egy állatkert Vallée des Colons területén.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "A Musée de la Ville egy múzeum Vallée des Colons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "A Manege egy vidámpark Vallée des Colons területén.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "A Jean-Marie Tjibaou Cultural Centre egy múzeum Vallée des Colons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "A Magenta Beach egy strand Vallée des Colons területén.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "A Musée de la seconde guerre mondiale en Nouvelle-Calédonie egy múzeum Vallée des Colons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "A Maison Célières egy múzeum Vallée des Colons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "A Maison Higginson egy múzeum Vallée des Colons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "A Maison de la Biodiversité egy múzeum Vallée des Colons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "A Musée de l'Histoire Maritime egy múzeum Vallée des Colons területén.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Az Amicale Vietnamienne egy művészeti központ Vallée des Colons területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "A Croix de Lorraine egy jelentős emlékmű Vallée des Colons területén.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "A Canons de Ouémo egy történelmi emlékmű Vallée des Colons városrészben.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "A Magenta egy festői kilátópont Vallée des Colons területén.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "A Point de vue Montravel egy festői kilátó Vallée des Colons városrészben.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Ancre de Marine",
+                  "text": "Az Ancre de Marine egy figyelemre méltó tengerészeti emlékmű Vallée des Colons-ban.",
+                  "category": "historical",
+                  "coords": [
+                        166.444608,
+                        -22.286902
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Az Aeroclub Calédonien egy repülési látványosság Vallée des Colons területén.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "A Mont Te lenyűgöző kilátást nyújt a látogatóknak Vallée des Colons területére.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Ez a Vallée des Colons-i sztélé a Monique hajó eltűnt utasainak emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Az Enjoy Diving egy búvárkodási élményeket kínáló látványosság Vallée des Colons-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Az Odyssey Diving egy speciális búvárlátványosság Vallée des Colons területén.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "A Case traditionnelle egy hagyományos építészetet bemutató látványosság Vallée des Colons-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "A Case 10 vinimöi egy különleges kulturális látványosság Vallée des Colons városrészben.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "A Le Rex egy jól ismert művészeti és kulturális központ Vallée des Colons-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Ez a Vallée des Colons-i emlékmű az első világháború elesett katonáinak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "A Mémoire des Gendarmes et Militaires a katonai személyzet emlékét őrző emlékmű Vallée des Colons-ban.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Az Ancien reservoir egy régi víztározó történelmi romjait mutatja be Vallée des Colons-ban.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Az Église Saint-Jean-Baptiste egy kiemelkedő istentiszteleti hely Vallée des Colons területén.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "A Cathédrale Saint-Joseph egy jelentős katolikus katedrális és építészeti nevezetesség Vallée des Colons-ban.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Az Église Sainte-Anne egy hívogató istentiszteleti hely Vallée des Colons városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Az Église du Bon-Pasteur a közösséget szolgáló helyi istentiszteleti hely Vallée des Colons-ban.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Parc Zoologique et Forestier Michel Corbasson este o grădină zoologică în Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "Fédération de Œuvres Laiques FOL este un teatru în Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 este un teatru în Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche este un teatru în Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Parc Forestier et Zooligique este o grădină zoologică în Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Musée de la Ville este un muzeu în Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege este un parc de distracții în Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Jean-Marie Tjibaou Cultural Centre este un muzeu în Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Magenta Beach este o plajă în Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie este un muzeu în Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières este un muzeu în Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Maison Higginson este un muzeu în Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Maison de la Biodiversité este un muzeu în Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "Musée de l'Histoire Maritime este un muzeu în Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Amicale Vietnamienne este un centru de arte în Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Croix de Lorraine este un monument important situat în Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Canons de Ouémo este un monument istoric situat în Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta oferă un punct de belvedere pitoresc asupra zonei din Vallée des Colons.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Point de vue Montravel este un punct de observare pitoresc situat în Vallée des Colons.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Ancre de Marine",
+                  "text": "Ancre de Marine este un monument maritim notabil situat în Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.444608,
+                        -22.286902
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Aeroclub Calédonien este o atracție de aviație situată în Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Mont Te oferă vizitatorilor un punct de belvedere uimitor asupra Vallée des Colons.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Această stelă din Vallée des Colons este un monument dedicat pasagerilor dispăruți de pe nava Monique.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Enjoy Diving este o atracție din Vallée des Colons care oferă experiențe de scufundări.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Odyssey Diving este o atracție specializată de scufundări situată în Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Case traditionnelle este o atracție care prezintă arhitectura tradițională în Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi este o atracție culturală distinctă situată în Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Le Rex este un binecunoscut centru de arte și cultură situat în Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Acest monument din Vallée des Colons este dedicat soldaților căzuți în Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Mémoire des Gendarmes et Militaires este un monument din Vallée des Colons care onorează memoria personalului militar.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ancien reservoir prezintă ruinele istorice ale unui vechi rezervor de apă din Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste este un lăcaș de cult proeminent situat în Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Cathédrale Saint-Joseph este o catedrală catolică semnificativă și un punct de reper arhitectural din Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne este un lăcaș de cult primitor aflat în orașul Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Église du Bon-Pasteur servește comunității ca lăcaș de cult local în Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Parc Zoologique et Forestier Michel Corbasson is a zoo in Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "Fédération de Œuvres Laiques FOL is a theatre in Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 is a theatre in Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche is a theatre in Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Parc Forestier et Zooligique is a zoo in Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Musée de la Ville is a museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege is a theme park in Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Jean-Marie Tjibaou Cultural Centre",
+                  "text": "Jean-Marie Tjibaou Cultural Centre is a museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Magenta Beach",
+                  "text": "Magenta Beach is a beach in Vallée des Colons.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie is a museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières is a museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Maison Higginson is a museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Maison de la Biodiversité is a museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "Musée de l'Histoire Maritime is a museum in Vallée des Colons.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Amicale Vietnamienne is an arts centre in Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "The Croix de Lorraine is a significant monument located in Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "The Canons de Ouémo is a historical monument situated in Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta offers a scenic viewpoint over the area in Vallée des Colons.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Point de vue Montravel is a scenic observation point located in Vallée des Colons.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Ancre de Marine",
+                  "text": "Ancre de Marine is a notable maritime monument situated in Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.444608,
+                        -22.286902
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "The Aeroclub Calédonien is an aviation attraction located in Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Mont Te provides visitors with a stunning viewpoint over Vallée des Colons.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "This stele in Vallée des Colons is a monument dedicated to the missing passengers of the ship Monique.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Enjoy Diving is an attraction in Vallée des Colons that offers diving experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Odyssey Diving is a specialized diving attraction located in Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "The Case traditionnelle is an attraction showcasing traditional architecture in Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi is a distinctive cultural attraction situated in Vallée des Colons.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Le Rex is a well-known arts and cultural centre located in Vallée des Colons.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "This monument in Vallée des Colons is dedicated to the fallen soldiers of the First World War.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Mémoire des Gendarmes et Militaires is a monument in Vallée des Colons honoring the memory of military personnel.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "The Ancien reservoir features the historical ruins of an old water reservoir in Vallée des Colons.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste is a prominent place of worship located in Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Cathédrale Saint-Joseph is a significant Catholic cathedral and architectural landmark in Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne is an inviting place of worship found in the city of Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Église du Bon-Pasteur serves the community as a local place of worship in Vallée des Colons.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Vallée des Colons", hu: "Vallée des Colons", ro: "Vallée des Colons", en: "Vallée des Colons" },
@@ -2253,7 +8184,232 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-koutio-cities-v2.webp",
   },
   {
-    id: "newcaledonia-yahoue-cities-v2",
+    id: "newcaledonia-yahoue-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel du Mont Dore",
+                  "text": "Kulturzentrum Mont Dore in Yahoué.",
+                  "category": "cultural",
+                  "coords": [
+                        166.517556,
+                        -22.226096
+                  ]
+            },
+            {
+                  "name": "Micro-Folie",
+                  "text": "Kulturelle Einrichtung Micro-Folie in Yahoué.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Rock'n'Roll-Tanzschule in Yahoué.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "Überreste der alten Eisenbahnstrecke in Yahoué.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Sentier du Pic Malaoui via Yahoué",
+                  "text": "Wanderweg zum Pic Malaoui über Yahoué.",
+                  "category": "landmark",
+                  "coords": [
+                        166.498265,
+                        -22.199551
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Kirche La Conception in Yahoué.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel du Mont Dore",
+                  "text": "Mont Dore kulturális központ Yahoué-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        166.517556,
+                        -22.226096
+                  ]
+            },
+            {
+                  "name": "Micro-Folie",
+                  "text": "Micro-Folie kulturális központ Yahoué-ban.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Rock'n'Roll tánciskola Yahoué-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "A régi vasútvonal maradványai Yahoué-ban.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Sentier du Pic Malaoui via Yahoué",
+                  "text": "Túraútvonal a Pic Malaoui-hoz Yahoué-n keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        166.498265,
+                        -22.199551
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "La Conception templom Yahoué-ban.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel du Mont Dore",
+                  "text": "Centru cultural Mont Dore în Yahoué.",
+                  "category": "cultural",
+                  "coords": [
+                        166.517556,
+                        -22.226096
+                  ]
+            },
+            {
+                  "name": "Micro-Folie",
+                  "text": "Centru cultural Micro-Folie în Yahoué.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Școală de dans Rock'n'Roll în Yahoué.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "Rămășițele vechii căi ferate în Yahoué.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Sentier du Pic Malaoui via Yahoué",
+                  "text": "Traseu montan către Pic Malaoui prin Yahoué.",
+                  "category": "landmark",
+                  "coords": [
+                        166.498265,
+                        -22.199551
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Biserica La Conception din Yahoué.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel du Mont Dore",
+                  "text": "Mont Dore cultural centre in Yahoué.",
+                  "category": "cultural",
+                  "coords": [
+                        166.517556,
+                        -22.226096
+                  ]
+            },
+            {
+                  "name": "Micro-Folie",
+                  "text": "Micro-Folie cultural venue in Yahoué.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Rock'n'Roll dance school in Yahoué.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "Remains of the old railway in Yahoué.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Pic Malaoui track via Yahoué",
+                  "text": "Hiking trail to Pic Malaoui via Yahoué.",
+                  "category": "landmark",
+                  "coords": [
+                        166.498265,
+                        -22.199551
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "La Conception church in Yahoué.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Yahoué", hu: "Yahoué", ro: "Yahoué", en: "Yahoué" },
@@ -2298,7 +8454,88 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-yahoue-cities-v2.webp",
   },
   {
-    id: "newcaledonia-robinson-cities-v2",
+    id: "newcaledonia-robinson-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué ist ein malerischer Aussichtspunkt, der wunderschöne Perspektiven in Robinson bietet.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Mobula Diving",
+                  "text": "Mobula Diving ist eine beliebte Attraktion für Tauchbegeisterte in Robinson.",
+                  "category": "landmark",
+                  "coords": [
+                        166.524908,
+                        -22.233393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ilot Tué",
+                  "text": "Az Ilot Tué egy festői kilátó, amely gyönyörű perspektívákat kínál Robinson területén.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Mobula Diving",
+                  "text": "A Mobula Diving egy népszerű látványosság a búvárkodás szerelmeseinek Robinsonban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.524908,
+                        -22.233393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué este un punct de belvedere pitoresc care oferă perspective frumoase în Robinson.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Mobula Diving",
+                  "text": "Mobula Diving este o atracție populară pentru pasionații de scufundări, situată în Robinson.",
+                  "category": "landmark",
+                  "coords": [
+                        166.524908,
+                        -22.233393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué is a scenic viewpoint offering beautiful perspectives in Robinson.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Mobula Diving",
+                  "text": "Mobula Diving is a popular attraction for diving enthusiasts located in Robinson.",
+                  "category": "landmark",
+                  "coords": [
+                        166.524908,
+                        -22.233393
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Robinson", hu: "Robinson", ro: "Robinson", en: "Robinson" },
@@ -2343,7 +8580,52 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-robinson-cities-v2.webp",
   },
   {
-    id: "newcaledonia-boulari-cities-v2",
+    id: "newcaledonia-boulari-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué ist ein Aussichtspunkt in Boulari.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ilot Tué",
+                  "text": "Az Ilot Tué egy kilátó Boulari városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué este un punct de belvedere în Boulari.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué is a viewpoint located in Boulari.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Boulari", hu: "Boulari", ro: "Boulari", en: "Boulari" },
@@ -2478,7 +8760,268 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-tina-cities-v2.webp",
   },
   {
-    id: "newcaledonia-normandia-cities-v2",
+    id: "newcaledonia-normandia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Micro-Folie",
+                  "text": "Micro-Folie ist ein innovativer digitaler Museumsraum in Normandia.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Café Musique Le Mouv' ist ein lebendiges Theater und ein Musiklokal in Normandia.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Dieses Kunstzentrum in Normandia dient als engagierte Rock'n'Roll-Tanzschule.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "Vestiges du Chemin de Fer zeigt die historischen Ruinen einer alten Eisenbahnlinie in Normandia.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Croix Point de vue",
+                  "text": "Croix Point de vue ist ein Aussichtspunkt, der weite Ausblicke über Normandia bietet.",
+                  "category": "natural",
+                  "coords": [
+                        166.462736,
+                        -22.195166
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Das Centre Culturel Ko We Kara ist ein bedeutendes Kunst- und Kulturzentrum in Normandia.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456094,
+                        -22.235564
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Die Église de la Conception ist ein historisches Gotteshaus in Normandia.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Micro-Folie",
+                  "text": "A Micro-Folie egy innovatív digitális múzeum Normandia városában.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "A Café Musique Le Mouv' egy élénk színház és zenei helyszín Normandia területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Ez a normandiai művészeti központ dedikált rock'n'roll tánciskolaként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "A Vestiges du Chemin de Fer egy régi vasútvonal történelmi romjait mutatja be Normandiában.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Croix Point de vue",
+                  "text": "A Croix Point de vue egy kilátó, amely kiterjedt kilátást nyújt Normandiára.",
+                  "category": "natural",
+                  "coords": [
+                        166.462736,
+                        -22.195166
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "A Centre Culturel Ko We Kara egy kiemelkedő művészeti és kulturális központ Normandia városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456094,
+                        -22.235564
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Az Église de la Conception egy történelmi istentiszteleti hely Normandiában.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Micro-Folie",
+                  "text": "Micro-Folie este un spațiu muzeal digital inovator situat în Normandia.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Café Musique Le Mouv' este un teatru vibrant și un loc de întâlnire muzical situat în Normandia.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Acest centru de arte din Normandia servește ca o școală dedicată de dans rock'n'roll.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "Vestiges du Chemin de Fer prezintă ruinele istorice ale unei vechi linii de cale ferată din Normandia.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Croix Point de vue",
+                  "text": "Croix Point de vue este un punct de observare care oferă vederi extinse asupra Normandiei.",
+                  "category": "natural",
+                  "coords": [
+                        166.462736,
+                        -22.195166
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Centre Culturel Ko We Kara este un centru de arte și cultură proeminent situat în Normandia.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456094,
+                        -22.235564
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Église de la Conception este un lăcaș de cult istoric situat în Normandia.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Micro-Folie",
+                  "text": "Micro-Folie is an innovative digital museum space situated in Normandia.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Café Musique Le Mouv' is a vibrant theatre and musical venue located in Normandia.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "This arts centre in Normandia serves as a dedicated rock'n'roll dance school.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "Vestiges du Chemin de Fer features the historical ruins of an old railway line in Normandia.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Croix Point de vue",
+                  "text": "Croix Point de vue is an observation point that offers expansive views over Normandia.",
+                  "category": "natural",
+                  "coords": [
+                        166.462736,
+                        -22.195166
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Centre Culturel Ko We Kara is a prominent arts and cultural centre located in Normandia.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456094,
+                        -22.235564
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Église de la Conception is a historical place of worship located in Normandia.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Normandia", hu: "Normandia", ro: "Normandia", en: "Normandia" },
@@ -2568,7 +9111,52 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-port-boise-cities-v2.webp",
   },
   {
-    id: "newcaledonia-nessadiou-cities-v2",
+    id: "newcaledonia-nessadiou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cimetière Néo-Zélandais",
+                  "text": "Neuseeländischer Soldatenfriedhof in Nessadiou.",
+                  "category": "historical",
+                  "coords": [
+                        165.553744,
+                        -21.601277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cimetière Néo-Zélandais",
+                  "text": "Új-zélandi katonai temető Nessadiou-ban.",
+                  "category": "historical",
+                  "coords": [
+                        165.553744,
+                        -21.601277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cimetière Néo-Zélandais",
+                  "text": "Cimitirul militar neozeelandez din Nessadiou.",
+                  "category": "historical",
+                  "coords": [
+                        165.553744,
+                        -21.601277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cimetière Néo-Zélandais",
+                  "text": "New Zealand soldiers' cemetery in Nessadiou.",
+                  "category": "historical",
+                  "coords": [
+                        165.553744,
+                        -21.601277
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Nessadiou", hu: "Nessadiou", ro: "Nessadiou", en: "Nessadiou" },
@@ -2613,7 +9201,124 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-nessadiou-cities-v2.webp",
   },
   {
-    id: "newcaledonia-la-conception-cities-v2",
+    id: "newcaledonia-la-conception-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel du Mont Dore",
+                  "text": "Das Centre Culturel du Mont Dore ist ein bedeutendes Theater und ein Veranstaltungsort für darstellende Künste in La Conception.",
+                  "category": "cultural",
+                  "coords": [
+                        166.517556,
+                        -22.226096
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué bietet Besuchern in La Conception einen malerischen Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Mobula Diving",
+                  "text": "Mobula Diving ist eine lokale Attraktion, die Tauchausflüge in La Conception anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        166.524908,
+                        -22.233393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel du Mont Dore",
+                  "text": "A Centre Culturel du Mont Dore egy jelentős színház és előadóművészeti helyszín La Conception területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.517556,
+                        -22.226096
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Az Ilot Tué festői kilátópontot kínál a látogatóknak La Conception-ban.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Mobula Diving",
+                  "text": "A Mobula Diving egy helyi látványosság, amely búvártúrákat kínál La Conception területén.",
+                  "category": "landmark",
+                  "coords": [
+                        166.524908,
+                        -22.233393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel du Mont Dore",
+                  "text": "Centre Culturel du Mont Dore este un teatru semnificativ și un loc pentru artele spectacolului în La Conception.",
+                  "category": "cultural",
+                  "coords": [
+                        166.517556,
+                        -22.226096
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué oferă un punct de belvedere pitoresc pentru vizitatorii din La Conception.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Mobula Diving",
+                  "text": "Mobula Diving este o atracție locală care oferă excursii de scufundări în La Conception.",
+                  "category": "landmark",
+                  "coords": [
+                        166.524908,
+                        -22.233393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel du Mont Dore",
+                  "text": "Centre Culturel du Mont Dore is a significant theatre and performing arts venue in La Conception.",
+                  "category": "cultural",
+                  "coords": [
+                        166.517556,
+                        -22.226096
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué provides a picturesque viewpoint for visitors in La Conception.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Mobula Diving",
+                  "text": "Mobula Diving is a local attraction offering diving excursions in La Conception.",
+                  "category": "landmark",
+                  "coords": [
+                        166.524908,
+                        -22.233393
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "La Conception", hu: "La Conception", ro: "La Conception", en: "La Conception" },
@@ -2703,7 +9408,52 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-port-laguerre-cities-v2.webp",
   },
   {
-    id: "newcaledonia-gadji-cities-v2",
+    id: "newcaledonia-gadji-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Épave Melanesia",
+                  "text": "Schiffswrack Melanesia in Gadji.",
+                  "category": "landmark",
+                  "coords": [
+                        166.356205,
+                        -22.207445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Épave Melanesia",
+                  "text": "Melanesia hajóroncs Gadji-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.356205,
+                        -22.207445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Épave Melanesia",
+                  "text": "Epava navei Melanesia din Gadji.",
+                  "category": "landmark",
+                  "coords": [
+                        166.356205,
+                        -22.207445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wreek ship Melanesia",
+                  "text": "Melanesia ship wreck in Gadji.",
+                  "category": "landmark",
+                  "coords": [
+                        166.356205,
+                        -22.207445
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Gadji", hu: "Gadji", ro: "Gadji", en: "Gadji" },
@@ -2793,7 +9543,304 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-yahoue-bridge-cities-v2.webp",
   },
   {
-    id: "newcaledonia-tina-sur-mer-cities-v2",
+    id: "newcaledonia-tina-sur-mer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Das Kulturzentrum Jean-Marie Tjibaou ist ein berühmtes Museum in Tina-sur-Mer, das von Renzo Piano entworfen wurde, um die Kanak-Kultur zu würdigen.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Café Musique Le Mouv' ist ein beliebtes Theater und ein Ort für Livemusik in Tina-sur-Mer.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Amicale Vietnamienne ist ein kommunales Kunstzentrum in Tina-sur-Mer.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Diese Einrichtung in Tina-sur-Mer fungiert als lebhaftes Kunstzentrum für Rock'n'Roll-Tanz.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Der Aeroclub Calédonien ist eine Attraktion, die aeronautische Erlebnisse in Tina-sur-Mer anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Das Case traditionnelle ist eine kulturelle Attraktion, die lokale Baustile in Tina-sur-Mer zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi ist eine besondere lokale Attraktion in Tina-sur-Mer.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Die Église de la Conception ist eine Kultstätte in Tina-sur-Mer.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "A Jean-Marie Tjibaou Kulturális Központ egy híres múzeum Tina-sur-Mer-ben, amelyet Renzo Piano tervezett a kanak kultúra tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "A Café Musique Le Mouv' egy népszerű színház és élőzenei helyszín Tina-sur-Mer területén.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Az Amicale Vietnamienne egy közösségi művészeti központ Tina-sur-Mer-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Ez a Tina-sur-Mer-i létesítmény élénk rock'n'roll táncművészeti központként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Az Aeroclub Calédonien repülési élményeket kínáló látványosság Tina-sur-Mer-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "A Case traditionnelle egy helyi építészeti stílusokat bemutató kulturális látványosság Tina-sur-Mer-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "A Case 10 vinimöi egy különleges helyi látványosság Tina-sur-Mer területén.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Az Église de la Conception egy vallási épület Tina-sur-Mer városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Centrul Cultural Jean-Marie Tjibaou este un muzeu celebru din Tina-sur-Mer, proiectat de Renzo Piano pentru a onora cultura Kanak.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Café Musique Le Mouv' este un teatru popular și un loc pentru muzică live în Tina-sur-Mer.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Amicale Vietnamienne este un centru de arte comunitare situat în Tina-sur-Mer.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Această instituție din Tina-sur-Mer funcționează ca un centru animat de arte pentru dans rock'n'roll.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Aeroclub Calédonien este o atracție care oferă experiențe aeronautice în Tina-sur-Mer.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Case traditionnelle este o atracție culturală care prezintă stilurile locale de construcție din Tina-sur-Mer.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi este o atracție locală distinctă situată în Tina-sur-Mer.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Église de la Conception este un lăcaș de cult în Tina-sur-Mer.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jean-Marie Tjibaou Cultural Centre",
+                  "text": "The Jean-Marie Tjibaou Cultural Centre is a celebrated museum in Tina-sur-Mer designed by Renzo Piano to honor Kanak culture.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Café Musique Le Mouv' is a popular theatre and live music venue in Tina-sur-Mer.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Amicale Vietnamienne is a community arts centre located in Tina-sur-Mer.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "This establishment in Tina-sur-Mer functions as a lively rock'n'roll dance arts centre.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Aeroclub Calédonien is an attraction offering aeronautical experiences in Tina-sur-Mer.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "The Case traditionnelle is a cultural attraction showcasing local building styles in Tina-sur-Mer.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi is a distinctive local attraction situated in Tina-sur-Mer.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Église de la Conception is a place of worship in Tina-sur-Mer.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Tina-sur-Mer", hu: "Tina-sur-Mer", ro: "Tina-sur-Mer", en: "Tina-sur-Mer" },
@@ -2838,7 +9885,952 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-tina-sur-mer-cities-v2.webp",
   },
   {
-    id: "newcaledonia-vallee-du-tir-cities-v2",
+    id: "newcaledonia-vallee-du-tir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Der Parc Zoologique et Forestier Michel Corbasson ist ein zoologischer Park in Vallée du Tir.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "Fédération de Œuvres Laiques FOL ist ein Theater in Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 ist ein Theater in Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Das Théâtre de Poche ist ein Theater in Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Der Parc Forestier et Zooligique ist ein zoologischer Garten in Vallée du Tir.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Das Musée de la Ville ist ein städtisches Museum in Vallée du Tir.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege ist ein Freizeitpark in Vallée du Tir.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Das Musée de la seconde guerre mondiale en Nouvelle-Calédonie ist ein Museum in Vallée du Tir. Es widmet sich der Geschichte des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Die Maison Célières ist ein Museum in Vallée du Tir.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Die Maison Higginson ist ein Museum in Vallée du Tir.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "Das Musée de l'Histoire Maritime ist ein Museum in Vallée du Tir. Es präsentiert die maritime Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Die Croix de Lorraine ist ein Denkmal in Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta ist ein bekannter Aussichtspunkt in Vallée du Tir.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Point de vue Montravel ist ein Aussichtspunkt in Vallée du Tir.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Der Mont Te ist ein Aussichtspunkt in Vallée du Tir.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Die Stèle aux Disparus de la Monique ist ein historisches Denkmal in Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Enjoy Diving ist eine touristische Attraktion in Vallée du Tir.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Odyssey Diving ist eine touristische Attraktion in Vallée du Tir.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Le Rex ist ein Kunstzentrum in Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Das Centre Culturel Ko We Kara ist ein Kunstzentrum in Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Das Monument aux Morts 14-18 de la Place Bir Hakeim ist ein Denkmal in Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Mémoire des Gendarmes et Militaires ist ein Denkmal in Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ancien reservoir ist eine historische Ruine in Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Die Église Saint-Jean-Baptiste ist eine religiöse Stätte in Vallée du Tir.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Die Cathédrale Saint-Joseph ist eine religiöse Stätte in Vallée du Tir. Sie ist eine bedeutende katholische Kathedrale der Region.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Die Église du Bon-Pasteur ist eine religiöse Stätte in Vallée du Tir.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "A Parc Zoologique et Forestier Michel Corbasson egy állatkert Vallée du Tir városában.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "A Fédération de Œuvres Laiques FOL egy színház Vallée du Tir városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "A Block 72 egy színház Vallée du Tir városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "A Théâtre de Poche egy színház Vallée du Tir városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "A Parc Forestier et Zooligique egy állatkert Vallée du Tir városában.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "A Musée de la Ville egy városi múzeum Vallée du Tir városában.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "A Manege egy vidámpark Vallée du Tir városában.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "A Musée de la seconde guerre mondiale en Nouvelle-Calédonie egy múzeum Vallée du Tir városában. A múzeum a második világháború történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "A Maison Célières egy múzeum Vallée du Tir városában.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "A Maison Higginson egy múzeum Vallée du Tir városában.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "A Musée de l'Histoire Maritime egy múzeum Vallée du Tir városában. A múzeum a tengerészeti történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "A Croix de Lorraine egy emlékmű Vallée du Tir városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "A Magenta egy ismert kilátó Vallée du Tir városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "A Point de vue Montravel egy kilátó Vallée du Tir városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "A Mont Te egy kilátó Vallée du Tir városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "A Stèle aux Disparus de la Monique egy történelmi emlékmű Vallée du Tir városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Az Enjoy Diving egy turisztikai látványosság Vallée du Tir városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Az Odyssey Diving egy turisztikai látványosság Vallée du Tir városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "A Le Rex egy művészeti központ Vallée du Tir városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "A Centre Culturel Ko We Kara egy művészeti központ Vallée du Tir városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "A Monument aux Morts 14-18 de la Place Bir Hakeim egy emlékmű Vallée du Tir városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "A Mémoire des Gendarmes et Militaires egy emlékmű Vallée du Tir városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Az Ancien reservoir egy történelmi romterület Vallée du Tir városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Az Église Saint-Jean-Baptiste egy vallási helyszín Vallée du Tir városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "A Cathédrale Saint-Joseph egy vallási helyszín Vallée du Tir városában. Ez a régió egyik jelentős katolikus katedrálisa.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Az Église du Bon-Pasteur egy vallási helyszín Vallée du Tir városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Parc Zoologique et Forestier Michel Corbasson este un parc zoologic în Vallée du Tir.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "Fédération de Œuvres Laiques FOL este un teatru din Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 este un teatru din Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche este un teatru din Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Parc Forestier et Zooligique este un parc zoologic în Vallée du Tir.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Musée de la Ville este un muzeu urban în Vallée du Tir.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege este un parc tematic în Vallée du Tir.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie este un muzeu în Vallée du Tir. Este dedicat istoriei celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières este un muzeu în Vallée du Tir.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Maison Higginson este un muzeu în Vallée du Tir.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "Musée de l'Histoire Maritime este un muzeu în Vallée du Tir. Acesta prezintă istoria maritimă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Croix de Lorraine este un monument în Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta este un punct de belvedere în Vallée du Tir.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Point de vue Montravel este un punct de belvedere în Vallée du Tir.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Mont Te este un punct de belvedere în Vallée du Tir.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Stèle aux Disparus de la Monique este un monument în Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Enjoy Diving este o atracție turistică în Vallée du Tir.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Odyssey Diving este o atracție turistică în Vallée du Tir.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Le Rex este un centru de artă în Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Centre Culturel Ko We Kara este un centru de artă în Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Monument aux Morts 14-18 de la Place Bir Hakeim este un monument în Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Mémoire des Gendarmes et Militaires este un monument în Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ancien reservoir este un sit în ruină din Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste este un lăcaș de cult în Vallée du Tir.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Cathédrale Saint-Joseph este un lăcaș de cult în Vallée du Tir. Aceasta este o importantă catedrală catolică din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Église du Bon-Pasteur este un lăcaș de cult în Vallée du Tir.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Parc Zoologique et Forestier Michel Corbasson is a zoological park located in Vallée du Tir.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "Fédération de Œuvres Laiques FOL is a theatre located in Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 is a theatre located in Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche is a theatre located in Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Parc Forestier et Zooligique is a zoological park located in Vallée du Tir.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Musée de la Ville is a city museum located in Vallée du Tir.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege is a theme park located in Vallée du Tir.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie is a museum in Vallée du Tir. It is dedicated to the history of World War II.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières is a museum located in Vallée du Tir.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Maison Higginson is a museum located in Vallée du Tir.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Musée de l'Histoire Maritime",
+                  "text": "Musée de l'Histoire Maritime is a museum in Vallée du Tir. It showcases the region's maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        166.433986,
+                        -22.268134
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Croix de Lorraine is a monument located in Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta is a viewpoint located in Vallée du Tir.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Point de vue Montravel is a viewpoint located in Vallée du Tir.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Mont Te is a viewpoint located in Vallée du Tir.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Stèle aux Disparus de la Monique is a historic monument located in Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Enjoy Diving",
+                  "text": "Enjoy Diving is a tourist attraction located in Vallée du Tir.",
+                  "category": "landmark",
+                  "coords": [
+                        166.440612,
+                        -22.284079
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Odyssey Diving is a tourist attraction located in Vallée du Tir.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Le Rex is an arts centre located in Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Ko We Kara",
+                  "text": "Centre Culturel Ko We Kara is an arts centre located in Vallée du Tir.",
+                  "category": "cultural",
+                  "coords": [
+                        166.456155,
+                        -22.237302
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Monument aux Morts 14-18 de la Place Bir Hakeim is a monument located in Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Mémoire des Gendarmes et Militaires is a monument located in Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ancien reservoir is a historic ruin located in Vallée du Tir.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste is a place of worship located in Vallée du Tir.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Cathédrale Saint-Joseph is a place of worship in Vallée du Tir. It serves as an important Catholic cathedral for the region.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Église du Bon-Pasteur is a place of worship located in Vallée du Tir.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Vallée du Tir", hu: "Vallée du Tir", ro: "Vallée du Tir", en: "Vallée du Tir" },
@@ -2928,7 +10920,232 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-ouemo-cities-v2.webp",
   },
   {
-    id: "newcaledonia-normandie-cities-v2",
+    id: "newcaledonia-normandie-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Micro-Folie",
+                  "text": "Micro-Folie ist ein Museum in Normandie.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Café Musique Le Mouv' ist ein Theater in Normandie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Nouméa Rock'n'Roll École de Danse ist ein Kunstzentrum in Normandie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "Vestiges du Chemin de Fer sind historische Ruinen in Normandie.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Sentier du Pic Malaoui via Yahoué",
+                  "text": "Pic Malaoui track via Yahoué ist eine Attraktion in Normandie.",
+                  "category": "landmark",
+                  "coords": [
+                        166.498265,
+                        -22.199551
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Die Église de la Conception ist eine Kultstätte in Normandie.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Micro-Folie",
+                  "text": "A Micro-Folie egy múzeum Normandie városában.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "A Café Musique Le Mouv' egy színház Normandie városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "A Nouméa Rock'n'Roll École de Danse egy művészeti központ Normandie városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "A Vestiges du Chemin de Fer történelmi romok Normandie városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Sentier du Pic Malaoui via Yahoué",
+                  "text": "A Pic Malaoui track via Yahoué egy látványosság Normandie városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.498265,
+                        -22.199551
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Az Église de la Conception egy vallási épület Normandie városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Micro-Folie",
+                  "text": "Micro-Folie este un muzeu situat în Normandie.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Café Musique Le Mouv' este un teatru situat în Normandie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Nouméa Rock'n'Roll École de Danse este un centru de artă în Normandie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "Vestiges du Chemin de Fer sunt ruine situate în Normandie.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Sentier du Pic Malaoui via Yahoué",
+                  "text": "Pic Malaoui track via Yahoué este o atracție în Normandie.",
+                  "category": "landmark",
+                  "coords": [
+                        166.498265,
+                        -22.199551
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Église de la Conception este un lăcaș de cult în Normandie.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Micro-Folie",
+                  "text": "Micro-Folie is a museum located in Normandie.",
+                  "category": "museum",
+                  "coords": [
+                        166.473382,
+                        -22.217924
+                  ]
+            },
+            {
+                  "name": "Café Musique Le Mouv'",
+                  "text": "Café Musique Le Mouv' is a theatre located in Normandie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.466013,
+                        -22.234207
+                  ]
+            },
+            {
+                  "name": "Nouméa Rock'n'Roll École de Danse",
+                  "text": "Nouméa Rock'n'Roll École de Danse is an arts centre in Normandie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.479419,
+                        -22.225489
+                  ]
+            },
+            {
+                  "name": "Vestiges du Chemin de Fer",
+                  "text": "Vestiges du Chemin de Fer are historical ruins located in Normandie.",
+                  "category": "historical",
+                  "coords": [
+                        166.481909,
+                        -22.193535
+                  ]
+            },
+            {
+                  "name": "Pic Malaoui track via Yahoué",
+                  "text": "Pic Malaoui track via Yahoué is an attraction located in Normandie.",
+                  "category": "landmark",
+                  "coords": [
+                        166.498265,
+                        -22.199551
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Église de la Conception is a place of worship in Normandie.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Normandie", hu: "Normandie", ro: "Normandie", en: "Normandie" },
@@ -3018,7 +11235,268 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-port-laguerre-center-cities-v2.webp",
   },
   {
-    id: "newcaledonia-pont-des-francais-cities-v2",
+    id: "newcaledonia-pont-des-francais-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Kulturzentrum Jean-Marie Tjibaou in Pont-des-Français.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Vietnamesisches Kulturzentrum in Pont-des-Français.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Aussichtspunkt Ilot Tué in Pont-des-Français.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Fliegerclub Calédonien in Pont-des-Français.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Traditionelles Kanak-Haus in Pont-des-Français.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi, traditionelle Unterkunft in Pont-des-Français.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Kirche La Conception in Pont-des-Français.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Jean-Marie Tjibaou kulturális központ Pont-des-Français-ban.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Vietnami kulturális központ Pont-des-Français-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué kilátó Pont-des-Français-ban.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Calédonien repülőklub Pont-des-Français-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Hagyományos kanak ház Pont-des-Français-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi, hagyományos szállás Pont-des-Français-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "La Conception templom Pont-des-Français-ban.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Centru cultural Jean-Marie Tjibaou în Pont-des-Français.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Centru cultural vietnamez în Pont-des-Français.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Punct de belvedere Ilot Tué în Pont-des-Français.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Aeroclubul Calédonien în Pont-des-Français.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Casă tradițională kanak în Pont-des-Français.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi, locuință tradițională în Pont-des-Français.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "Biserica La Conception din Pont-des-Français.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jean-Marie Tjibaou Cultural Centre",
+                  "text": "Jean-Marie Tjibaou Cultural Centre in Pont-des-Français.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Vietnamese cultural centre in Pont-des-Français.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué viewpoint in Pont-des-Français.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Calédonien flying club in Pont-des-Français.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Traditional Kanak house in Pont-des-Français.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi, traditional dwelling in Pont-des-Français.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église de la Conception",
+                  "text": "La Conception church in Pont-des-Français.",
+                  "category": "religious",
+                  "coords": [
+                        166.499846,
+                        -22.225475
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Pont-des-Français", hu: "Pont-des-Français", ro: "Pont-des-Français", en: "Pont-des-Français" },
@@ -3063,7 +11541,592 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-pont-des-francais-cities-v2.webp",
   },
   {
-    id: "newcaledonia-sainte-marie-cities-v2",
+    id: "newcaledonia-sainte-marie-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Der Parc Zoologique et Forestier Michel Corbasson ist ein Zoo in Sainte-Marie.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 ist ein Theater in Sainte-Marie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche ist ein Theater in Sainte-Marie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Magenta Beach ist ein Strand in Sainte-Marie.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières ist ein Museum in Sainte-Marie.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Maison de la Biodiversité ist ein Museum in Sainte-Marie.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Monument de la Promenade Pierre Vernier",
+                  "text": "Das Monument de la Promenade Pierre Vernier ist ein Denkmal in Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.460874,
+                        -22.306459
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Croix de Lorraine ist ein Denkmal in Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Canons de Ouémo ist ein Denkmal in Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta ist ein Aussichtspunkt in Sainte-Marie.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Centre de Danse Jean-Yves Arroyo",
+                  "text": "Centre de Danse Jean-Yves Arroyo ist ein Kunstzentrum in Sainte-Marie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44978,
+                        -22.2934
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Aeroclub Calédonien ist eine Attraktion in Sainte-Marie.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi ist eine Attraktion in Sainte-Marie.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Monument aux Morts 14-18 de la Place Bir Hakeim ist ein Denkmal in Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Die Église Saint-Jean-Baptiste ist eine Kultstätte in Sainte-Marie.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Die Église Sainte-Anne ist eine Kultstätte in Sainte-Marie.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "A Parc Zoologique et Forestier Michel Corbasson egy állatkert Sainte-Marie városában.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "A Block 72 egy színház Sainte-Marie városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "A Théâtre de Poche egy színház Sainte-Marie városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "A Magenta Beach egy strand Sainte-Marie városában.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "A Maison Célières egy múzeum Sainte-Marie városában.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "A Maison de la Biodiversité egy múzeum Sainte-Marie városában.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Monument de la Promenade Pierre Vernier",
+                  "text": "A Monument de la Promenade Pierre Vernier egy emlékmű Sainte-Marie városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.460874,
+                        -22.306459
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "A Croix de Lorraine egy emlékmű Sainte-Marie városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "A Canons de Ouémo egy emlékmű Sainte-Marie városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "A Magenta egy kilátó Sainte-Marie városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Centre de Danse Jean-Yves Arroyo",
+                  "text": "A Centre de Danse Jean-Yves Arroyo egy művészeti központ Sainte-Marie városában.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44978,
+                        -22.2934
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Az Aeroclub Calédonien egy látványosság Sainte-Marie városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "A Case 10 vinimöi egy látványosság Sainte-Marie városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "A Monument aux Morts 14-18 de la Place Bir Hakeim egy emlékmű Sainte-Marie városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Az Église Saint-Jean-Baptiste egy vallási épület Sainte-Marie városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Az Église Sainte-Anne egy vallási épület Sainte-Marie városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Parc Zoologique et Forestier Michel Corbasson este o grădină zoologică în Sainte-Marie.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 este un teatru situat în Sainte-Marie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche este un teatru în Sainte-Marie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Magenta Beach este o plajă situată în Sainte-Marie.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières este un muzeu în Sainte-Marie.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Maison de la Biodiversité este un muzeu în Sainte-Marie.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Monument de la Promenade Pierre Vernier",
+                  "text": "Monument de la Promenade Pierre Vernier este un monument în Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.460874,
+                        -22.306459
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Croix de Lorraine este un monument situat în Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Canons de Ouémo este un monument în Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta este un punct de belvedere în Sainte-Marie.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Centre de Danse Jean-Yves Arroyo",
+                  "text": "Centre de Danse Jean-Yves Arroyo este un centru de artă în Sainte-Marie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44978,
+                        -22.2934
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Aeroclub Calédonien este o atracție în Sainte-Marie.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi este o atracție în Sainte-Marie.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Monument aux Morts 14-18 de la Place Bir Hakeim este un monument situat în Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste este un lăcaș de cult în Sainte-Marie.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne este un lăcaș de cult în Sainte-Marie.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Parc Zoologique et Forestier Michel Corbasson is a zoo located in Sainte-Marie.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 is a theatre located in Sainte-Marie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche is a theatre located in Sainte-Marie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Magenta Beach",
+                  "text": "Magenta Beach is a beach located in Sainte-Marie.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Maison Célières is a museum located in Sainte-Marie.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Maison de la Biodiversité is a museum located in Sainte-Marie.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Monument de la Promenade Pierre Vernier",
+                  "text": "Monument de la Promenade Pierre Vernier is a monument located in Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.460874,
+                        -22.306459
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Croix de Lorraine is a monument located in Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Canons de Ouémo is a monument located in Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta is a viewpoint located in Sainte-Marie.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Centre de Danse Jean-Yves Arroyo",
+                  "text": "Centre de Danse Jean-Yves Arroyo is an arts centre located in Sainte-Marie.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44978,
+                        -22.2934
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Aeroclub Calédonien is an attraction located in Sainte-Marie.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi is an attraction located in Sainte-Marie.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Monument aux Morts 14-18 de la Place Bir Hakeim is a monument located in Sainte-Marie.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Église Saint-Jean-Baptiste is a place of worship in Sainte-Marie.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne is a place of worship in Sainte-Marie.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Sainte-Marie", hu: "Sainte-Marie", ro: "Sainte-Marie", en: "Sainte-Marie" },
@@ -3108,7 +12171,376 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-sainte-marie-cities-v2.webp",
   },
   {
-    id: "newcaledonia-ouemo-pointe-cities-v2",
+    id: "newcaledonia-ouemo-pointe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Das Jean-Marie Tjibaou Cultural Centre ist ein Museum in Pointe d'Ouémo. Es wurde von dem renommierten Architekten Renzo Piano entworfen.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Magenta Beach ist ein beliebter Strand in Pointe d'Ouémo.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Die Maison de la Biodiversité ist ein Museum in Pointe d'Ouémo.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Die Canons de Ouémo sind ein Denkmal in Pointe d'Ouémo.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta ist ein Aussichtspunkt in Pointe d'Ouémo.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué ist ein Aussichtspunkt in Pointe d'Ouémo.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Der Aeroclub Calédonien ist eine Attraktion in Pointe d'Ouémo.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Die Case traditionnelle ist eine Sehenswürdigkeit in Pointe d'Ouémo.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Die Case 10 vinimöi ist eine Sehenswürdigkeit in Pointe d'Ouémo.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Die Église Sainte-Anne ist eine religiöse Stätte in Pointe d'Ouémo.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "A Jean-Marie Tjibaou Cultural Centre egy múzeum Pointe d'Ouémo városában. Az épületet a híres építész, Renzo Piano tervezte.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "A Magenta Beach egy népszerű strand Pointe d'Ouémo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "A Maison de la Biodiversité egy múzeum Pointe d'Ouémo városában.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "A Canons de Ouémo egy emlékmű Pointe d'Ouémo városában.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "A Magenta egy kilátó Pointe d'Ouémo városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Az Ilot Tué egy kilátó Pointe d'Ouémo városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Az Aeroclub Calédonien egy turisztikai látványosság Pointe d'Ouémo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "A Case traditionnelle egy látványosság Pointe d'Ouémo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "A Case 10 vinimöi egy látványosság Pointe d'Ouémo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Az Église Sainte-Anne egy vallási helyszín Pointe d'Ouémo városában.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Jean-Marie Tjibaou Cultural Centre este un muzeu în Pointe d'Ouémo. Acesta a fost proiectat de renumitul arhitect Renzo Piano.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Magenta Beach este o plajă din Pointe d'Ouémo.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Maison de la Biodiversité este un muzeu în Pointe d'Ouémo.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Canons de Ouémo este un monument în Pointe d'Ouémo.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta este un punct de belvedere în Pointe d'Ouémo.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué este un punct de belvedere în Pointe d'Ouémo.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Aeroclub Calédonien este o atracție turistică în Pointe d'Ouémo.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Case traditionnelle este o atracție turistică în Pointe d'Ouémo.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi este o atracție turistică în Pointe d'Ouémo.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne este un lăcaș de cult în Pointe d'Ouémo.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jean-Marie Tjibaou Cultural Centre",
+                  "text": "Jean-Marie Tjibaou Cultural Centre is a museum in Pointe d'Ouémo. It was famously designed by the architect Renzo Piano.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Magenta Beach",
+                  "text": "Magenta Beach is a local beach located in Pointe d'Ouémo.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Maison de la Biodiversité is a museum located in Pointe d'Ouémo.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Canons de Ouémo is a monument located in Pointe d'Ouémo.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Magenta is a viewpoint located in Pointe d'Ouémo.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Ilot Tué",
+                  "text": "Ilot Tué is a viewpoint located in Pointe d'Ouémo.",
+                  "category": "natural",
+                  "coords": [
+                        166.503859,
+                        -22.274156
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Aeroclub Calédonien is a tourist attraction located in Pointe d'Ouémo.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Case traditionnelle is an attraction located in Pointe d'Ouémo.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Case 10 vinimöi is an attraction located in Pointe d'Ouémo.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Église Sainte-Anne is a place of worship located in Pointe d'Ouémo.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Pointe d'Ouémo", hu: "Ouémo-fok", ro: "Pointe d'Ouémo", en: "Ouémo Point" },
@@ -3153,7 +12585,1168 @@ export const newcaledoniaCitiesV2: POI[] = [
     image: "/poi-images/newcaledonia-ouemo-pointe-cities-v2.webp",
   },
   {
-    id: "newcaledonia-vallee-des-colons-east-cities-v2",
+    id: "newcaledonia-vallee-des-colons-east-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Zoo und Wildpark Michel Corbasson bei Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "FOL Theater in Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Theater Block 72 in Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche in Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Wild- und Tierpark in Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Stadtmuseum in Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege Freizeitpark in Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Jean-Marie Tjibaou Kulturzentrum bei Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Magenta Strand in Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Museum des Zweiten Weltkriegs in Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Museum in Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Museum in Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Museum in Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Kunstzentrum in Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Denkmal in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Denkmal in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Aussichtspunkt in Vallée des Colons Est.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Aussichtspunkt in Vallée des Colons Est.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Attraktion in Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Aussichtspunkt in Vallée des Colons Est.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Denkmal in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Attraktion in Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Attraktion in Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Attraktion in Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Kunstzentrum in Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Denkmal in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Denkmal in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ruinen in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Gotteshaus in Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Gotteshaus in Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Gotteshaus in Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Gotteshaus in Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Michel Corbasson Állatkert és Vadaspark Vallée des Colons Est közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "FOL színház Vallée des Colons Est-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 színház Vallée des Colons Est-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche színház Vallée des Colons Est-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Vadaspark és állatkert Vallée des Colons Est-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Városi múzeum Vallée des Colons Est-ben.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege vidámpark Vallée des Colons Est-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Jean-Marie Tjibaou kulturális központ Vallée des Colons Est közelében.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Magenta strand Vallée des Colons Est-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "A második világháború múzeuma Vallée des Colons Est-ben.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Múzeum Vallée des Colons Est-ben.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Múzeum Vallée des Colons Est-ben.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Múzeum Vallée des Colons Est-ben.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Művészeti központ Vallée des Colons Est-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Emlékmű Vallée des Colons Est-ben.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Emlékmű Vallée des Colons Est-ben.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Kilátóhely Vallée des Colons Est-ben.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Kilátóhely Vallée des Colons Est-ben.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Látnivaló Vallée des Colons Est-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Kilátóhely Vallée des Colons Est-ben.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Emlékmű Vallée des Colons Est-ben.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Látnivaló Vallée des Colons Est-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Látnivaló Vallée des Colons Est-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Látnivaló Vallée des Colons Est-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Művészeti központ Vallée des Colons Est-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Emlékmű Vallée des Colons Est-ben.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Emlékmű Vallée des Colons Est-ben.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Romok Vallée des Colons Est-ben.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Templom Vallée des Colons Est-ben.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Templom Vallée des Colons Est-ben.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Templom Vallée des Colons Est-ben.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Templom Vallée des Colons Est-ben.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Grădina zoologică și parcul forestier Michel Corbasson lângă Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "Teatrul FOL în Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Teatrul Block 72 în Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Teatrul de buzunar (Théâtre de Poche) în Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Parc forestier și grădină zoologică în Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "Muzeul orașului în Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Parc de distracții Manege în Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Tjibaou",
+                  "text": "Centru cultural Jean-Marie Tjibaou lângă Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Plage de Magenta",
+                  "text": "Plaja Magenta în Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "Muzeul celui de-al Doilea Război Mondial în Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Muzeu în Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Muzeu în Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Muzeu în Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Centru de artă în Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Monument în Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Monument în Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Punct de observație în Vallée des Colons Est.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Punct de observație în Vallée des Colons Est.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Atracție în Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Punct de observație în Vallée des Colons Est.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Monument în Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Atracție în Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Atracție în Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Atracție în Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Centru de artă în Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Monument în Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Monument în Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ruine în Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Lăcaș de cult în Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Lăcaș de cult în Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Lăcaș de cult în Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Lăcaș de cult în Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc Zoologique et Forestier Michel Corbasson",
+                  "text": "Michel Corbasson Zoo and Forest Park near Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.45697,
+                        -22.258123
+                  ]
+            },
+            {
+                  "name": "Fédération de Œuvres Laiques FOL",
+                  "text": "FOL theatre in Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.445508,
+                        -22.272048
+                  ]
+            },
+            {
+                  "name": "Block 72",
+                  "text": "Block 72 theatre in Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.455057,
+                        -22.269563
+                  ]
+            },
+            {
+                  "name": "Théâtre de Poche",
+                  "text": "Théâtre de Poche in Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.44871,
+                        -22.277058
+                  ]
+            },
+            {
+                  "name": "Parc Forestier et Zooligique",
+                  "text": "Forest park and zoo in Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.457819,
+                        -22.256315
+                  ]
+            },
+            {
+                  "name": "Musée de la Ville",
+                  "text": "City museum in Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.442216,
+                        -22.270467
+                  ]
+            },
+            {
+                  "name": "Manege",
+                  "text": "Manege theme park in Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.442016,
+                        -22.277051
+                  ]
+            },
+            {
+                  "name": "Jean-Marie Tjibaou Cultural Centre",
+                  "text": "Jean-Marie Tjibaou Cultural Centre near Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.481842,
+                        -22.256307
+                  ]
+            },
+            {
+                  "name": "Magenta Beach",
+                  "text": "Magenta Beach in Vallée des Colons Est.",
+                  "category": "recreational",
+                  "coords": [
+                        166.472278,
+                        -22.266288
+                  ]
+            },
+            {
+                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
+                  "text": "World War II museum in Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.43939,
+                        -22.268318
+                  ]
+            },
+            {
+                  "name": "Maison Célières",
+                  "text": "Museum in Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.451262,
+                        -22.278097
+                  ]
+            },
+            {
+                  "name": "Maison Higginson",
+                  "text": "Museum in Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.44355,
+                        -22.269291
+                  ]
+            },
+            {
+                  "name": "Maison de la Biodiversité",
+                  "text": "Museum in Vallée des Colons Est.",
+                  "category": "museum",
+                  "coords": [
+                        166.468872,
+                        -22.278695
+                  ]
+            },
+            {
+                  "name": "Amicale Vietnamienne",
+                  "text": "Arts centre in Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.474296,
+                        -22.24748
+                  ]
+            },
+            {
+                  "name": "Croix de Lorraine",
+                  "text": "Monument in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.447037,
+                        -22.279601
+                  ]
+            },
+            {
+                  "name": "Canons de Ouémo",
+                  "text": "Monument in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.480239,
+                        -22.277106
+                  ]
+            },
+            {
+                  "name": "Magenta",
+                  "text": "Viewpoint in Vallée des Colons Est.",
+                  "category": "natural",
+                  "coords": [
+                        166.466763,
+                        -22.268201
+                  ]
+            },
+            {
+                  "name": "Point de vue Montravel",
+                  "text": "Viewpoint in Vallée des Colons Est.",
+                  "category": "natural",
+                  "coords": [
+                        166.453509,
+                        -22.256348
+                  ]
+            },
+            {
+                  "name": "Aeroclub Calédonien",
+                  "text": "Attraction in Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.474457,
+                        -22.259081
+                  ]
+            },
+            {
+                  "name": "Mont Te",
+                  "text": "Viewpoint in Vallée des Colons Est.",
+                  "category": "natural",
+                  "coords": [
+                        166.459627,
+                        -22.251908
+                  ]
+            },
+            {
+                  "name": "Stèle aux Disparus de la Monique",
+                  "text": "Monument in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.439781,
+                        -22.274922
+                  ]
+            },
+            {
+                  "name": "Odyssey Diving",
+                  "text": "Attraction in Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.441074,
+                        -22.276434
+                  ]
+            },
+            {
+                  "name": "Case traditionnelle",
+                  "text": "Attraction in Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.482807,
+                        -22.256321
+                  ]
+            },
+            {
+                  "name": "Case 10 vinimöi",
+                  "text": "Attraction in Vallée des Colons Est.",
+                  "category": "landmark",
+                  "coords": [
+                        166.481012,
+                        -22.257237
+                  ]
+            },
+            {
+                  "name": "Le Rex",
+                  "text": "Arts centre in Vallée des Colons Est.",
+                  "category": "cultural",
+                  "coords": [
+                        166.444464,
+                        -22.274017
+                  ]
+            },
+            {
+                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
+                  "text": "Monument in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.447899,
+                        -22.27413
+                  ]
+            },
+            {
+                  "name": "Mémoire des Gendarmes et Militaires",
+                  "text": "Monument in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.446951,
+                        -22.273696
+                  ]
+            },
+            {
+                  "name": "Ancien reservoir",
+                  "text": "Ruins in Vallée des Colons Est.",
+                  "category": "historical",
+                  "coords": [
+                        166.460273,
+                        -22.248022
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Place of worship in Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.452513,
+                        -22.271488
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Joseph",
+                  "text": "Place of worship in Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.444608,
+                        -22.272778
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Anne",
+                  "text": "Place of worship in Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.472492,
+                        -22.268703
+                  ]
+            },
+            {
+                  "name": "Église du Bon-Pasteur",
+                  "text": "Place of worship in Vallée des Colons Est.",
+                  "category": "religious",
+                  "coords": [
+                        166.446757,
+                        -22.261025
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "town",
     name: { de: "Vallée des Colons Est", hu: "Kelet-Vallée des Colons", ro: "Vallée des Colons Est", en: "East Vallée des Colons" },

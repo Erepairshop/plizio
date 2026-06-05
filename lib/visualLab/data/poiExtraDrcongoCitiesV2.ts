@@ -138,7 +138,88 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     
      image: "/poi-images/cd-matadi-cities-v2.webp"},
   {
-    id: "cd-boma-cities-v2",
+    id: "cd-boma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ehemalige Residenz des Generalgouverneurs",
+                  "text": "Die ehemalige Residenz des Generalgouverneurs ist ein Museum in Boma.",
+                  "category": "museum",
+                  "coords": [
+                        13.056713,
+                        -5.854733
+                  ]
+            },
+            {
+                  "name": "Premier Camp Militaire",
+                  "text": "Premier Camp Militaire ist ein historisches Denkmal in Boma.",
+                  "category": "historical",
+                  "coords": [
+                        13.051517,
+                        -5.85856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Résidence du Premier Gouverneur Général du Congo",
+                  "text": "A főkormányzó egykori rezidenciája múzeumként működik Boma városában.",
+                  "category": "museum",
+                  "coords": [
+                        13.056713,
+                        -5.854733
+                  ]
+            },
+            {
+                  "name": "Premier Camp Militaire",
+                  "text": "A Premier Camp Militaire egy történelmi emlékmű Boma városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.051517,
+                        -5.85856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Résidence du Premier Gouverneur Général du Congo",
+                  "text": "Fosta reședință a Guvernatorului General este un muzeu din Boma.",
+                  "category": "museum",
+                  "coords": [
+                        13.056713,
+                        -5.854733
+                  ]
+            },
+            {
+                  "name": "Premier Camp Militaire",
+                  "text": "Premier Camp Militaire este un monument istoric situat în Boma.",
+                  "category": "historical",
+                  "coords": [
+                        13.051517,
+                        -5.85856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Former residence of the Governor-General",
+                  "text": "The Former residence of the Governor-General is a museum in Boma.",
+                  "category": "museum",
+                  "coords": [
+                        13.056713,
+                        -5.854733
+                  ]
+            },
+            {
+                  "name": "Premier Camp Militaire",
+                  "text": "Premier Camp Militaire is a historic monument located in Boma.",
+                  "category": "historical",
+                  "coords": [
+                        13.051517,
+                        -5.85856
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CD-BC",
     coords: [13.05, -5.845],
@@ -240,7 +321,124 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     
   },
   {
-    id: "cd-mbanza-ngungu-cities-v2",
+    id: "cd-mbanza-ngungu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument maman mvati a mpatu",
+                  "text": "Das Monument maman mvati a mpatu ist ein Denkmal in Mbanza-Ngungu.",
+                  "category": "historical",
+                  "coords": [
+                        14.860047,
+                        -5.258085
+                  ]
+            },
+            {
+                  "name": "Prophète SIMON KIMBANGU",
+                  "text": "Prophète SIMON KIMBANGU ist ein Denkmal in Mbanza-Ngungu.",
+                  "category": "historical",
+                  "coords": [
+                        14.875111,
+                        -5.2428
+                  ]
+            },
+            {
+                  "name": "Salle Polyvalente",
+                  "text": "Die Salle Polyvalente ist ein Kulturzentrum in Mbanza-Ngungu.",
+                  "category": "cultural",
+                  "coords": [
+                        14.857887,
+                        -5.264404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument maman mvati a mpatu",
+                  "text": "A Monument maman mvati a mpatu egy emlékmű Mbanza-Ngungu városában.",
+                  "category": "historical",
+                  "coords": [
+                        14.860047,
+                        -5.258085
+                  ]
+            },
+            {
+                  "name": "Prophète SIMON KIMBANGU",
+                  "text": "A Prophète SIMON KIMBANGU egy emlékmű Mbanza-Ngungu városában.",
+                  "category": "historical",
+                  "coords": [
+                        14.875111,
+                        -5.2428
+                  ]
+            },
+            {
+                  "name": "Salle Polyvalente",
+                  "text": "A Salle Polyvalente egy művészeti központ Mbanza-Ngungu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.857887,
+                        -5.264404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument maman mvati a mpatu",
+                  "text": "Monument maman mvati a mpatu este un monument situat în Mbanza-Ngungu.",
+                  "category": "historical",
+                  "coords": [
+                        14.860047,
+                        -5.258085
+                  ]
+            },
+            {
+                  "name": "Prophète SIMON KIMBANGU",
+                  "text": "Prophète SIMON KIMBANGU este un monument situat în Mbanza-Ngungu.",
+                  "category": "historical",
+                  "coords": [
+                        14.875111,
+                        -5.2428
+                  ]
+            },
+            {
+                  "name": "Salle Polyvalente",
+                  "text": "Salle Polyvalente este un centru de arte situat în Mbanza-Ngungu.",
+                  "category": "cultural",
+                  "coords": [
+                        14.857887,
+                        -5.264404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument maman mvati a mpatu",
+                  "text": "The Monument maman mvati a mpatu is a monument located in Mbanza-Ngungu.",
+                  "category": "historical",
+                  "coords": [
+                        14.860047,
+                        -5.258085
+                  ]
+            },
+            {
+                  "name": "Prophète SIMON KIMBANGU",
+                  "text": "Prophète SIMON KIMBANGU is a monument located in Mbanza-Ngungu.",
+                  "category": "historical",
+                  "coords": [
+                        14.875111,
+                        -5.2428
+                  ]
+            },
+            {
+                  "name": "Salle Polyvalente",
+                  "text": "Salle Polyvalente is an arts centre located in Mbanza-Ngungu.",
+                  "category": "cultural",
+                  "coords": [
+                        14.857887,
+                        -5.264404
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CD-BC",
     coords: [14.8667, -5.25],
@@ -1209,7 +1407,304 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
   },
   {
-    id: "cd-butembo-cities-v2",
+    id: "cd-butembo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Nationale de BUTEMBO",
+                  "text": "Das Musée Nationale de BUTEMBO ist ein Museum in Butembo, das der nationalen Geschichte und Kultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        29.294283,
+                        0.110843
+                  ]
+            },
+            {
+                  "name": "Monument historique de Butembo",
+                  "text": "Das Monument historique de Butembo ist ein bedeutendes historisches Denkmal in Butembo.",
+                  "category": "historical",
+                  "coords": [
+                        29.292207,
+                        0.136595
+                  ]
+            },
+            {
+                  "name": "Galerie GTB",
+                  "text": "Die Galerie GTB ist eine Kunstgalerie in der Stadt Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.293239,
+                        0.136175
+                  ]
+            },
+            {
+                  "name": "Metronpez Fondationperuz",
+                  "text": "Metronpez Fondationperuz ist eine Kunstgalerie in Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.291207,
+                        0.13693
+                  ]
+            },
+            {
+                  "name": "Galerie jolie reve",
+                  "text": "Galerie jolie reve ist eine Kunstgalerie in Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.292267,
+                        0.137575
+                  ]
+            },
+            {
+                  "name": "Galerie Annuarite",
+                  "text": "Galerie Annuarite ist eine Kunstgalerie in Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.291284,
+                        0.134281
+                  ]
+            },
+            {
+                  "name": "Galerie Thengerwako",
+                  "text": "Galerie Thengerwako ist eine Kunstgalerie in Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.293882,
+                        0.140596
+                  ]
+            },
+            {
+                  "name": "Galerie Katembo Ngesera",
+                  "text": "Galerie Katembo Ngesera ist eine Kunstgalerie in Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.290177,
+                        0.136424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Nationale de BUTEMBO",
+                  "text": "A Musée Nationale de BUTEMBO egy nemzeti történelemnek és kultúrának szentelt múzeum Butembo városában.",
+                  "category": "museum",
+                  "coords": [
+                        29.294283,
+                        0.110843
+                  ]
+            },
+            {
+                  "name": "Monument historique de Butembo",
+                  "text": "A Monument historique de Butembo egy jelentős történelmi emlékmű Butembo városában.",
+                  "category": "historical",
+                  "coords": [
+                        29.292207,
+                        0.136595
+                  ]
+            },
+            {
+                  "name": "Galerie GTB",
+                  "text": "A Galerie GTB egy művészeti galéria Butembo városában.",
+                  "category": "museum",
+                  "coords": [
+                        29.293239,
+                        0.136175
+                  ]
+            },
+            {
+                  "name": "Metronpez Fondationperuz",
+                  "text": "A Metronpez Fondationperuz egy művészeti galéria Butembo városában.",
+                  "category": "museum",
+                  "coords": [
+                        29.291207,
+                        0.13693
+                  ]
+            },
+            {
+                  "name": "Galerie jolie reve",
+                  "text": "A Galerie jolie reve egy művészeti galéria Butembo városában.",
+                  "category": "museum",
+                  "coords": [
+                        29.292267,
+                        0.137575
+                  ]
+            },
+            {
+                  "name": "Galerie Annuarite",
+                  "text": "A Galerie Annuarite egy művészeti galéria Butembo városában.",
+                  "category": "museum",
+                  "coords": [
+                        29.291284,
+                        0.134281
+                  ]
+            },
+            {
+                  "name": "Galerie Thengerwako",
+                  "text": "A Galerie Thengerwako egy művészeti galéria Butembo városában.",
+                  "category": "museum",
+                  "coords": [
+                        29.293882,
+                        0.140596
+                  ]
+            },
+            {
+                  "name": "Galerie Katembo Ngesera",
+                  "text": "A Galerie Katembo Ngesera egy művészeti galéria Butembo városában.",
+                  "category": "museum",
+                  "coords": [
+                        29.290177,
+                        0.136424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Nationale de BUTEMBO",
+                  "text": "Musée Nationale de BUTEMBO este un muzeu din Butembo dedicat istoriei și culturii naționale.",
+                  "category": "museum",
+                  "coords": [
+                        29.294283,
+                        0.110843
+                  ]
+            },
+            {
+                  "name": "Monument historique de Butembo",
+                  "text": "Monument historique de Butembo este un monument istoric notabil situat în Butembo.",
+                  "category": "historical",
+                  "coords": [
+                        29.292207,
+                        0.136595
+                  ]
+            },
+            {
+                  "name": "Galerie GTB",
+                  "text": "Galerie GTB este o galerie de artă situată în orașul Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.293239,
+                        0.136175
+                  ]
+            },
+            {
+                  "name": "Metronpez Fondationperuz",
+                  "text": "Metronpez Fondationperuz este o galerie de artă situată în Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.291207,
+                        0.13693
+                  ]
+            },
+            {
+                  "name": "Galerie jolie reve",
+                  "text": "Galerie jolie reve este o galerie de artă situată în Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.292267,
+                        0.137575
+                  ]
+            },
+            {
+                  "name": "Galerie Annuarite",
+                  "text": "Galerie Annuarite este o galerie de artă situată în Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.291284,
+                        0.134281
+                  ]
+            },
+            {
+                  "name": "Galerie Thengerwako",
+                  "text": "Galerie Thengerwako este o galerie de artă situată în Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.293882,
+                        0.140596
+                  ]
+            },
+            {
+                  "name": "Galerie Katembo Ngesera",
+                  "text": "Galerie Katembo Ngesera este o galerie de artă situată în Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.290177,
+                        0.136424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Nationale de BUTEMBO",
+                  "text": "Musée Nationale de BUTEMBO is a museum in Butembo dedicated to national history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        29.294283,
+                        0.110843
+                  ]
+            },
+            {
+                  "name": "Monument historique de Butembo",
+                  "text": "Monument historique de Butembo is a notable historical monument located in Butembo.",
+                  "category": "historical",
+                  "coords": [
+                        29.292207,
+                        0.136595
+                  ]
+            },
+            {
+                  "name": "Galerie GTB",
+                  "text": "Galerie GTB is an art gallery situated in the city of Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.293239,
+                        0.136175
+                  ]
+            },
+            {
+                  "name": "Metronpez Fondationperuz",
+                  "text": "Metronpez Fondationperuz is an art gallery located in Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.291207,
+                        0.13693
+                  ]
+            },
+            {
+                  "name": "Galerie jolie reve",
+                  "text": "Galerie jolie reve is an art gallery located in Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.292267,
+                        0.137575
+                  ]
+            },
+            {
+                  "name": "Galerie Annuarite",
+                  "text": "Galerie Annuarite is an art gallery located in Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.291284,
+                        0.134281
+                  ]
+            },
+            {
+                  "name": "Galerie Thengerwako",
+                  "text": "Galerie Thengerwako is an art gallery located in Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.293882,
+                        0.140596
+                  ]
+            },
+            {
+                  "name": "Galerie Katembo Ngesera",
+                  "text": "Galerie Katembo Ngesera is an art gallery located in Butembo.",
+                  "category": "museum",
+                  "coords": [
+                        29.290177,
+                        0.136424
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CD-NK",
     coords: [29.2833, 0.1333],

@@ -3,7 +3,1384 @@ import { POI } from './poi';
 export const barbadosHistoryV2: POI[] = [
 
   {
-    id: "barbados-historic-bridgetown-history-v2",
+    id: "barbados-historic-bridgetown-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Needhams Point Lighthouse",
+                  "text": "Needham's Point Lighthouse ist ein historischer Leuchtturm in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.610929,
+                        13.078481
+                  ]
+            },
+            {
+                  "name": "St. Anne's Fort",
+                  "text": "Saint Ann's Fort ist eine militärische Befestigungsanlage in Historisches Bridgetown.",
+                  "category": "fortress",
+                  "coords": [
+                        -59.60658,
+                        13.078499
+                  ]
+            },
+            {
+                  "name": "Fort Charles",
+                  "text": "Fort Charles ist eine historische Verteidigungsanlage in Historisches Bridgetown.",
+                  "category": "fortress",
+                  "coords": [
+                        -59.612523,
+                        13.078651
+                  ]
+            },
+            {
+                  "name": "Barbados Museum",
+                  "text": "Das Barbados Museum zeigt Ausstellungen in Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.602121,
+                        13.083326
+                  ]
+            },
+            {
+                  "name": "Brandons Beach",
+                  "text": "Brandons Beach ist ein Erholungsgebiet an der Küste von Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.627275,
+                        13.11454
+                  ]
+            },
+            {
+                  "name": "Caribbean Wax Museum",
+                  "text": "Das Caribbean Wax Museum ist ein Wachsfigurenkabinett in Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.61499,
+                        13.097334
+                  ]
+            },
+            {
+                  "name": "Main Guard House and Clock Tower",
+                  "text": "Das Main Guard House and Clock Tower dient als Museum in Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.606926,
+                        13.08032
+                  ]
+            },
+            {
+                  "name": "Daphne Joseph Hackett Theatre",
+                  "text": "Das Daphne Joseph Hackett Theatre ist ein Veranstaltungsort für darstellende Künste in Historisches Bridgetown.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.609708,
+                        13.098684
+                  ]
+            },
+            {
+                  "name": "Pier Head Beach",
+                  "text": "Pier Head Beach ist ein entspannendes Reiseziel am Meer in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.616166,
+                        13.094797
+                  ]
+            },
+            {
+                  "name": "Bayshore Beach",
+                  "text": "Bayshore Beach ist ein beliebter Sandstrand in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.609527,
+                        13.088327
+                  ]
+            },
+            {
+                  "name": "Pebbles Beach",
+                  "text": "Pebbles Beach bietet malerische Ausblicke auf die Küste in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.610311,
+                        13.081177
+                  ]
+            },
+            {
+                  "name": "Drill Hall Beach",
+                  "text": "Drill Hall Beach ist ein bekannter lokaler Strand in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.608733,
+                        13.077648
+                  ]
+            },
+            {
+                  "name": "The Cricket Legends of Barbados Inc.",
+                  "text": "The Cricket Legends of Barbados Inc. ist ein Sportmuseum in Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.624325,
+                        13.104114
+                  ]
+            },
+            {
+                  "name": "Nidhe Israel Museum",
+                  "text": "Das Nidhe Israel Museum ist ein Museum in Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.614768,
+                        13.099173
+                  ]
+            },
+            {
+                  "name": "Rascals Water Park",
+                  "text": "Der Rascals Water Park ist ein Wasservergnügungszentrum in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.628782,
+                        13.115581
+                  ]
+            },
+            {
+                  "name": "Jackie Opel Amphitheatre (General Post Office)",
+                  "text": "Das Jackie Opel Amphitheatre fungiert als Theater in Historisches Bridgetown.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.620849,
+                        13.098229
+                  ]
+            },
+            {
+                  "name": "Carlisle Bay",
+                  "text": "Carlisle Bay ist eine malerische natürliche Bucht in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.615438,
+                        13.087425
+                  ]
+            },
+            {
+                  "name": "National Heroes Square",
+                  "text": "National Heroes Square ist ein zentraler öffentlicher Park in Historisches Bridgetown.",
+                  "category": "park",
+                  "coords": [
+                        -59.614001,
+                        13.096757
+                  ]
+            },
+            {
+                  "name": "Government House",
+                  "text": "Government House ist ein historisches Herrenhaus in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.599455,
+                        13.101205
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "Das War Memorial ist ein Gedenkbauwerk in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.610717,
+                        13.100174
+                  ]
+            },
+            {
+                  "name": "Rogers Scuba Shack",
+                  "text": "Rogers Scuba Shack ist eine Attraktion in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.609726,
+                        13.091098
+                  ]
+            },
+            {
+                  "name": "Atlantis Submarines Barbados Inc",
+                  "text": "Atlantis Submarines Barbados Inc fungiert als Attraktion in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.6254,
+                        13.10757
+                  ]
+            },
+            {
+                  "name": "Garfield Sobers Monument",
+                  "text": "Das Garfield Sobers Monument ist ein bemerkenswertes Denkmal in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.623514,
+                        13.105805
+                  ]
+            },
+            {
+                  "name": "Barbados Arts Council Art Gallery",
+                  "text": "Die Barbados Arts Council Art Gallery ist ein Kunstzentrum in Historisches Bridgetown.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.623162,
+                        13.098299
+                  ]
+            },
+            {
+                  "name": "Mighty Grynner Monument",
+                  "text": "Das Mighty Grynner Monument ist ein Denkmal in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.626916,
+                        13.116766
+                  ]
+            },
+            {
+                  "name": "Rihanna Drive Monument",
+                  "text": "Das Rihanna Drive Monument ist ein Denkmal in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.621956,
+                        13.108765
+                  ]
+            },
+            {
+                  "name": "Belfield Mansion",
+                  "text": "Die Belfield Mansion umfasst historische Ruinen in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.620058,
+                        13.1223
+                  ]
+            },
+            {
+                  "name": "Empire Theatre Ruins",
+                  "text": "Die Empire Theatre Ruins sind die Überreste eines Theaters in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.612682,
+                        13.094657
+                  ]
+            },
+            {
+                  "name": "Agapey Chocolate Factory",
+                  "text": "Die Agapey Chocolate Factory ist eine Sehenswürdigkeit in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.618202,
+                        13.096979
+                  ]
+            },
+            {
+                  "name": "Culloden Farm",
+                  "text": "Culloden Farm ist ein traditionelles Herrenhaus in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.603693,
+                        13.091171
+                  ]
+            },
+            {
+                  "name": "The 50th Anniversary of Independence National Monument",
+                  "text": "Das The 50th Anniversary of Independence National Monument ist ein Denkmal in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.60555,
+                        13.079893
+                  ]
+            },
+            {
+                  "name": "Clement Payne Monument",
+                  "text": "Das Clement Payne Monument ist ein Denkmal in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.611701,
+                        13.094761
+                  ]
+            },
+            {
+                  "name": "Mount Gay Distillery Visitor Center",
+                  "text": "Das Mount Gay Distillery Visitor Center ist eine Attraktion in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.626649,
+                        13.112215
+                  ]
+            },
+            {
+                  "name": "City Mosque",
+                  "text": "Die City Mosque, auch als Madina Mosque bekannt, ist ein bedeutendes islamisches Gotteshaus in Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.615964,
+                        13.101326
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of Saint Michael and All Angels",
+                  "text": "Die Cathedral Church of Saint Michael and All Angels ist ein Gotteshaus in Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.612358,
+                        13.09788
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of the Universe Catholic Church",
+                  "text": "Die Our Lady Queen of the Universe Catholic Church ist ein bedeutendes katholisches Gotteshaus in Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.617395,
+                        13.116136
+                  ]
+            },
+            {
+                  "name": "Jumma Masjid",
+                  "text": "Die Jumma Masjid ist ein bekanntes islamisches Gotteshaus in Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.622485,
+                        13.101968
+                  ]
+            },
+            {
+                  "name": "George Washington House",
+                  "text": "Das George Washington House ist ein historisches Gebäude in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.606739,
+                        13.08195
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Needhams Point Lighthouse",
+                  "text": "A Needham's Point Lighthouse egy történelmi világítótorony Historisches Bridgetownban.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.610929,
+                        13.078481
+                  ]
+            },
+            {
+                  "name": "St. Anne's Fort",
+                  "text": "A Saint Ann's Fort egy katonai erődítmény Historisches Bridgetownban.",
+                  "category": "fortress",
+                  "coords": [
+                        -59.60658,
+                        13.078499
+                  ]
+            },
+            {
+                  "name": "Fort Charles",
+                  "text": "A Fort Charles egy történelmi védelmi építmény Historisches Bridgetownban.",
+                  "category": "fortress",
+                  "coords": [
+                        -59.612523,
+                        13.078651
+                  ]
+            },
+            {
+                  "name": "Barbados Museum",
+                  "text": "A Barbados Museum kiállításokat mutat be Historisches Bridgetownban.",
+                  "category": "museum",
+                  "coords": [
+                        -59.602121,
+                        13.083326
+                  ]
+            },
+            {
+                  "name": "Brandons Beach",
+                  "text": "A Brandons Beach egy part menti rekreációs terület Historisches Bridgetownban.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.627275,
+                        13.11454
+                  ]
+            },
+            {
+                  "name": "Caribbean Wax Museum",
+                  "text": "A Caribbean Wax Museum egy viaszmúzeum Historisches Bridgetownban.",
+                  "category": "museum",
+                  "coords": [
+                        -59.61499,
+                        13.097334
+                  ]
+            },
+            {
+                  "name": "Main Guard House and Clock Tower",
+                  "text": "A Main Guard House and Clock Tower múzeumként működik Historisches Bridgetownban.",
+                  "category": "museum",
+                  "coords": [
+                        -59.606926,
+                        13.08032
+                  ]
+            },
+            {
+                  "name": "Daphne Joseph Hackett Theatre",
+                  "text": "A Daphne Joseph Hackett Theatre egy előadó-művészeti helyszín Historisches Bridgetownban.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.609708,
+                        13.098684
+                  ]
+            },
+            {
+                  "name": "Pier Head Beach",
+                  "text": "A Pier Head Beach egy tengerparti úti cél Historisches Bridgetownban.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.616166,
+                        13.094797
+                  ]
+            },
+            {
+                  "name": "Bayshore Beach",
+                  "text": "A Bayshore Beach egy népszerű homokos strand Historisches Bridgetownban.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.609527,
+                        13.088327
+                  ]
+            },
+            {
+                  "name": "Pebbles Beach",
+                  "text": "A Pebbles Beach festői tengerparti kilátást nyújt Historisches Bridgetownban.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.610311,
+                        13.081177
+                  ]
+            },
+            {
+                  "name": "Drill Hall Beach",
+                  "text": "A Drill Hall Beach egy ismert helyi strand Historisches Bridgetownban.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.608733,
+                        13.077648
+                  ]
+            },
+            {
+                  "name": "The Cricket Legends of Barbados Inc.",
+                  "text": "A The Cricket Legends of Barbados Inc. egy sportmúzeum Historisches Bridgetownban.",
+                  "category": "museum",
+                  "coords": [
+                        -59.624325,
+                        13.104114
+                  ]
+            },
+            {
+                  "name": "Nidhe Israel Museum",
+                  "text": "A Nidhe Israel Museum egy múzeum Historisches Bridgetownban.",
+                  "category": "museum",
+                  "coords": [
+                        -59.614768,
+                        13.099173
+                  ]
+            },
+            {
+                  "name": "Rascals Water Park",
+                  "text": "A Rascals Water Park egy vízi vidámpark Historisches Bridgetownban.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.628782,
+                        13.115581
+                  ]
+            },
+            {
+                  "name": "Jackie Opel Amphitheatre (General Post Office)",
+                  "text": "A Jackie Opel Amphitheatre színházként működik Historisches Bridgetownban.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.620849,
+                        13.098229
+                  ]
+            },
+            {
+                  "name": "Carlisle Bay",
+                  "text": "A Carlisle Bay egy festői természetes öböl Historisches Bridgetownban.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.615438,
+                        13.087425
+                  ]
+            },
+            {
+                  "name": "National Heroes Square",
+                  "text": "A National Heroes Square egy központi nyilvános park Historisches Bridgetownban.",
+                  "category": "park",
+                  "coords": [
+                        -59.614001,
+                        13.096757
+                  ]
+            },
+            {
+                  "name": "Government House",
+                  "text": "A Government House egy történelmi kúria Historisches Bridgetownban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.599455,
+                        13.101205
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "A War Memorial egy megemlékező emlékmű Historisches Bridgetownban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.610717,
+                        13.100174
+                  ]
+            },
+            {
+                  "name": "Rogers Scuba Shack",
+                  "text": "A Rogers Scuba Shack egy látványosság Historisches Bridgetownban.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.609726,
+                        13.091098
+                  ]
+            },
+            {
+                  "name": "Atlantis Submarines Barbados Inc",
+                  "text": "Az Atlantis Submarines Barbados Inc attrakcióként működik Historisches Bridgetownban.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.6254,
+                        13.10757
+                  ]
+            },
+            {
+                  "name": "Garfield Sobers Monument",
+                  "text": "A Garfield Sobers Monument egy figyelemre méltó emlékmű Historisches Bridgetownban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.623514,
+                        13.105805
+                  ]
+            },
+            {
+                  "name": "Barbados Arts Council Art Gallery",
+                  "text": "A Barbados Arts Council Art Gallery egy művészeti központ Historisches Bridgetown városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.623162,
+                        13.098299
+                  ]
+            },
+            {
+                  "name": "Mighty Grynner Monument",
+                  "text": "A Mighty Grynner Monument egy emlékmű Historisches Bridgetown városában.",
+                  "category": "historical",
+                  "coords": [
+                        -59.626916,
+                        13.116766
+                  ]
+            },
+            {
+                  "name": "Rihanna Drive Monument",
+                  "text": "A Rihanna Drive Monument egy emlékmű, amely Historisches Bridgetown városában található.",
+                  "category": "historical",
+                  "coords": [
+                        -59.621956,
+                        13.108765
+                  ]
+            },
+            {
+                  "name": "Belfield Mansion",
+                  "text": "A Belfield Mansion egy történelmi rom Historisches Bridgetown területén.",
+                  "category": "historical",
+                  "coords": [
+                        -59.620058,
+                        13.1223
+                  ]
+            },
+            {
+                  "name": "Empire Theatre Ruins",
+                  "text": "Az Empire Theatre Ruins egy egykori színház romjai Historisches Bridgetown városában.",
+                  "category": "historical",
+                  "coords": [
+                        -59.612682,
+                        13.094657
+                  ]
+            },
+            {
+                  "name": "Agapey Chocolate Factory",
+                  "text": "Az Agapey Chocolate Factory egy helyi látványosság Historisches Bridgetown városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.618202,
+                        13.096979
+                  ]
+            },
+            {
+                  "name": "Culloden Farm",
+                  "text": "A Culloden Farm egy hagyományos kúria Historisches Bridgetown területén.",
+                  "category": "historical",
+                  "coords": [
+                        -59.603693,
+                        13.091171
+                  ]
+            },
+            {
+                  "name": "The 50th Anniversary of Independence National Monument",
+                  "text": "A The 50th Anniversary of Independence National Monument egy emlékmű Historisches Bridgetown városában.",
+                  "category": "historical",
+                  "coords": [
+                        -59.60555,
+                        13.079893
+                  ]
+            },
+            {
+                  "name": "Clement Payne Monument",
+                  "text": "A Clement Payne Monument egy köztéri emlékmű Historisches Bridgetown területén.",
+                  "category": "historical",
+                  "coords": [
+                        -59.611701,
+                        13.094761
+                  ]
+            },
+            {
+                  "name": "Mount Gay Distillery Visitor Center",
+                  "text": "A Mount Gay Distillery Visitor Center egy turisztikai látványosság Historisches Bridgetown városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.626649,
+                        13.112215
+                  ]
+            },
+            {
+                  "name": "City Mosque",
+                  "text": "A City Mosque, más néven Madina mecset, egy jelentős iszlám istentiszteleti hely Historisches Bridgetown városában.",
+                  "category": "religious",
+                  "coords": [
+                        -59.615964,
+                        13.101326
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of Saint Michael and All Angels",
+                  "text": "A Cathedral Church of Saint Michael and All Angels egy istentiszteleti hely Historisches Bridgetown területén.",
+                  "category": "religious",
+                  "coords": [
+                        -59.612358,
+                        13.09788
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of the Universe Catholic Church",
+                  "text": "Az Our Lady Queen of the Universe Catholic Church egy jelentős katolikus istentiszteleti hely Historisches Bridgetown városában.",
+                  "category": "religious",
+                  "coords": [
+                        -59.617395,
+                        13.116136
+                  ]
+            },
+            {
+                  "name": "Jumma Masjid",
+                  "text": "A Jumma Masjid egy ismert iszlám istentiszteleti hely Historisches Bridgetown területén.",
+                  "category": "religious",
+                  "coords": [
+                        -59.622485,
+                        13.101968
+                  ]
+            },
+            {
+                  "name": "George Washington House",
+                  "text": "A George Washington House egy történelmi műemléképület Historisches Bridgetown városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.606739,
+                        13.08195
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Needhams Point Lighthouse",
+                  "text": "Needham's Point Lighthouse este un far istoric din Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.610929,
+                        13.078481
+                  ]
+            },
+            {
+                  "name": "St. Anne's Fort",
+                  "text": "Saint Ann's Fort este o fortificație militară situată în Historisches Bridgetown.",
+                  "category": "fortress",
+                  "coords": [
+                        -59.60658,
+                        13.078499
+                  ]
+            },
+            {
+                  "name": "Fort Charles",
+                  "text": "Fort Charles este o structură defensivă istorică situată în Historisches Bridgetown.",
+                  "category": "fortress",
+                  "coords": [
+                        -59.612523,
+                        13.078651
+                  ]
+            },
+            {
+                  "name": "Barbados Museum",
+                  "text": "Barbados Museum prezintă expoziții în Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.602121,
+                        13.083326
+                  ]
+            },
+            {
+                  "name": "Brandons Beach",
+                  "text": "Brandons Beach este o zonă de recreere de coastă în Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.627275,
+                        13.11454
+                  ]
+            },
+            {
+                  "name": "Caribbean Wax Museum",
+                  "text": "Caribbean Wax Museum este un muzeu de ceară în Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.61499,
+                        13.097334
+                  ]
+            },
+            {
+                  "name": "Main Guard House and Clock Tower",
+                  "text": "Main Guard House and Clock Tower servește ca muzeu în Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.606926,
+                        13.08032
+                  ]
+            },
+            {
+                  "name": "Daphne Joseph Hackett Theatre",
+                  "text": "Daphne Joseph Hackett Theatre este o locație pentru artele spectacolului în Historisches Bridgetown.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.609708,
+                        13.098684
+                  ]
+            },
+            {
+                  "name": "Pier Head Beach",
+                  "text": "Pier Head Beach este o destinație pe litoral în Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.616166,
+                        13.094797
+                  ]
+            },
+            {
+                  "name": "Bayshore Beach",
+                  "text": "Bayshore Beach este o plajă cu nisip populară situată în Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.609527,
+                        13.088327
+                  ]
+            },
+            {
+                  "name": "Pebbles Beach",
+                  "text": "Pebbles Beach oferă vederi pitorești de coastă în Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.610311,
+                        13.081177
+                  ]
+            },
+            {
+                  "name": "Drill Hall Beach",
+                  "text": "Drill Hall Beach este o plajă locală proeminentă în Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.608733,
+                        13.077648
+                  ]
+            },
+            {
+                  "name": "The Cricket Legends of Barbados Inc.",
+                  "text": "The Cricket Legends of Barbados Inc. este un muzeu al sportului în Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.624325,
+                        13.104114
+                  ]
+            },
+            {
+                  "name": "Nidhe Israel Museum",
+                  "text": "Nidhe Israel Museum este un muzeu din Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.614768,
+                        13.099173
+                  ]
+            },
+            {
+                  "name": "Rascals Water Park",
+                  "text": "Rascals Water Park este un centru de distracții acvatice în Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.628782,
+                        13.115581
+                  ]
+            },
+            {
+                  "name": "Jackie Opel Amphitheatre (General Post Office)",
+                  "text": "Jackie Opel Amphitheatre funcționează ca teatru în Historisches Bridgetown.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.620849,
+                        13.098229
+                  ]
+            },
+            {
+                  "name": "Carlisle Bay",
+                  "text": "Carlisle Bay este un golf natural pitoresc situat în Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.615438,
+                        13.087425
+                  ]
+            },
+            {
+                  "name": "National Heroes Square",
+                  "text": "National Heroes Square este un parc public central situat în Historisches Bridgetown.",
+                  "category": "park",
+                  "coords": [
+                        -59.614001,
+                        13.096757
+                  ]
+            },
+            {
+                  "name": "Government House",
+                  "text": "Government House este un conac istoric în Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.599455,
+                        13.101205
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "War Memorial este o structură comemorativă în Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.610717,
+                        13.100174
+                  ]
+            },
+            {
+                  "name": "Rogers Scuba Shack",
+                  "text": "Rogers Scuba Shack este o atracție în Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.609726,
+                        13.091098
+                  ]
+            },
+            {
+                  "name": "Atlantis Submarines Barbados Inc",
+                  "text": "Atlantis Submarines Barbados Inc funcționează ca atracție în Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.6254,
+                        13.10757
+                  ]
+            },
+            {
+                  "name": "Garfield Sobers Monument",
+                  "text": "Garfield Sobers Monument este un monument notabil situat în Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.623514,
+                        13.105805
+                  ]
+            },
+            {
+                  "name": "Barbados Arts Council Art Gallery",
+                  "text": "Barbados Arts Council Art Gallery este un centru de artă din Historisches Bridgetown.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.623162,
+                        13.098299
+                  ]
+            },
+            {
+                  "name": "Mighty Grynner Monument",
+                  "text": "Mighty Grynner Monument este un monument situat în Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.626916,
+                        13.116766
+                  ]
+            },
+            {
+                  "name": "Rihanna Drive Monument",
+                  "text": "Rihanna Drive Monument este un monument situat în Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.621956,
+                        13.108765
+                  ]
+            },
+            {
+                  "name": "Belfield Mansion",
+                  "text": "Belfield Mansion reprezintă niște ruine istorice din Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.620058,
+                        13.1223
+                  ]
+            },
+            {
+                  "name": "Empire Theatre Ruins",
+                  "text": "Empire Theatre Ruins sunt ruinele unui fost teatru situate în Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.612682,
+                        13.094657
+                  ]
+            },
+            {
+                  "name": "Agapey Chocolate Factory",
+                  "text": "Agapey Chocolate Factory este o atracție locală din Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.618202,
+                        13.096979
+                  ]
+            },
+            {
+                  "name": "Culloden Farm",
+                  "text": "Culloden Farm este un conac tradițional situat în Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.603693,
+                        13.091171
+                  ]
+            },
+            {
+                  "name": "The 50th Anniversary of Independence National Monument",
+                  "text": "The 50th Anniversary of Independence National Monument este un monument situat în Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.60555,
+                        13.079893
+                  ]
+            },
+            {
+                  "name": "Clement Payne Monument",
+                  "text": "Clement Payne Monument este un monument public situat în Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.611701,
+                        13.094761
+                  ]
+            },
+            {
+                  "name": "Mount Gay Distillery Visitor Center",
+                  "text": "Mount Gay Distillery Visitor Center este o atracție turistică din Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.626649,
+                        13.112215
+                  ]
+            },
+            {
+                  "name": "City Mosque",
+                  "text": "City Mosque, cunoscută și ca Moscheea Madina, este un important lăcaș de cult islamic din Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.615964,
+                        13.101326
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of Saint Michael and All Angels",
+                  "text": "Cathedral Church of Saint Michael and All Angels este un lăcaș de cult din Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.612358,
+                        13.09788
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of the Universe Catholic Church",
+                  "text": "Our Lady Queen of the Universe Catholic Church este un lăcaș de cult catolic notabil situat în Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.617395,
+                        13.116136
+                  ]
+            },
+            {
+                  "name": "Jumma Masjid",
+                  "text": "Jumma Masjid este un lăcaș de cult islamic recunoscut din Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.622485,
+                        13.101968
+                  ]
+            },
+            {
+                  "name": "George Washington House",
+                  "text": "George Washington House este o clădire de patrimoniu istoric din Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.606739,
+                        13.08195
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Needhams Point Lighthouse",
+                  "text": "Needham's Point Lighthouse is a historic lighthouse in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.610929,
+                        13.078481
+                  ]
+            },
+            {
+                  "name": "St. Anne's Fort",
+                  "text": "Saint Ann's Fort is a historic military fortification situated in Historisches Bridgetown.",
+                  "category": "fortress",
+                  "coords": [
+                        -59.60658,
+                        13.078499
+                  ]
+            },
+            {
+                  "name": "Fort Charles",
+                  "text": "Fort Charles is a historical defensive structure located in Historisches Bridgetown.",
+                  "category": "fortress",
+                  "coords": [
+                        -59.612523,
+                        13.078651
+                  ]
+            },
+            {
+                  "name": "Barbados Museum",
+                  "text": "The Barbados Museum showcases historical exhibits in Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.602121,
+                        13.083326
+                  ]
+            },
+            {
+                  "name": "Brandons Beach",
+                  "text": "Brandons Beach is a coastal recreational area in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.627275,
+                        13.11454
+                  ]
+            },
+            {
+                  "name": "Caribbean Wax Museum",
+                  "text": "The Caribbean Wax Museum features wax figures in Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.61499,
+                        13.097334
+                  ]
+            },
+            {
+                  "name": "Main Guard House and Clock Tower",
+                  "text": "The Main Guard House and Clock Tower serves as a museum in Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.606926,
+                        13.08032
+                  ]
+            },
+            {
+                  "name": "Daphne Joseph Hackett Theatre",
+                  "text": "The Daphne Joseph Hackett Theatre is a performing arts venue in Historisches Bridgetown.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.609708,
+                        13.098684
+                  ]
+            },
+            {
+                  "name": "Pier Head Beach",
+                  "text": "Pier Head Beach is a relaxing seaside destination in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.616166,
+                        13.094797
+                  ]
+            },
+            {
+                  "name": "Bayshore Beach",
+                  "text": "Bayshore Beach is a popular sandy beach located in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.609527,
+                        13.088327
+                  ]
+            },
+            {
+                  "name": "Pebbles Beach",
+                  "text": "Pebbles Beach offers scenic coastal views in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.610311,
+                        13.081177
+                  ]
+            },
+            {
+                  "name": "Drill Hall Beach",
+                  "text": "Drill Hall Beach is a prominent local beach in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.608733,
+                        13.077648
+                  ]
+            },
+            {
+                  "name": "The Cricket Legends of Barbados Inc.",
+                  "text": "The Cricket Legends of Barbados Inc. is a museum dedicated to the sport in Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.624325,
+                        13.104114
+                  ]
+            },
+            {
+                  "name": "Nidhe Israel Museum",
+                  "text": "Nidhe Israel Museum documents local heritage in Historisches Bridgetown.",
+                  "category": "museum",
+                  "coords": [
+                        -59.614768,
+                        13.099173
+                  ]
+            },
+            {
+                  "name": "Rascals Water Park",
+                  "text": "Rascals Water Park is an aquatic amusement center in Historisches Bridgetown.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.628782,
+                        13.115581
+                  ]
+            },
+            {
+                  "name": "Jackie Opel Amphitheatre (General Post Office)",
+                  "text": "The Jackie Opel Amphitheatre functions as a theatre space in Historisches Bridgetown.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.620849,
+                        13.098229
+                  ]
+            },
+            {
+                  "name": "Carlisle Bay",
+                  "text": "Carlisle Bay is a picturesque natural bay situated in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.615438,
+                        13.087425
+                  ]
+            },
+            {
+                  "name": "National Heroes Square",
+                  "text": "National Heroes Square is a central public park located in Historisches Bridgetown.",
+                  "category": "park",
+                  "coords": [
+                        -59.614001,
+                        13.096757
+                  ]
+            },
+            {
+                  "name": "Government House",
+                  "text": "Government House is a prominent historic manor in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.599455,
+                        13.101205
+                  ]
+            },
+            {
+                  "name": "War Memorial",
+                  "text": "The War Memorial is a commemorative structure in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.610717,
+                        13.100174
+                  ]
+            },
+            {
+                  "name": "Rogers Scuba Shack",
+                  "text": "Rogers Scuba Shack is a notable attraction for divers in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.609726,
+                        13.091098
+                  ]
+            },
+            {
+                  "name": "Atlantis Submarines Barbados Inc",
+                  "text": "Atlantis Submarines Barbados Inc operates as an attraction in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.6254,
+                        13.10757
+                  ]
+            },
+            {
+                  "name": "Garfield Sobers Monument",
+                  "text": "The Garfield Sobers Monument is a notable monumental landmark located in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.623514,
+                        13.105805
+                  ]
+            },
+            {
+                  "name": "Barbados Arts Council Art Gallery",
+                  "text": "Barbados Arts Council Art Gallery is an arts centre located in Historisches Bridgetown.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.623162,
+                        13.098299
+                  ]
+            },
+            {
+                  "name": "Mighty Grynner Monument",
+                  "text": "The Mighty Grynner Monument is a monument situated in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.626916,
+                        13.116766
+                  ]
+            },
+            {
+                  "name": "Rihanna Drive Monument",
+                  "text": "Rihanna Drive Monument is a notable monument located in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.621956,
+                        13.108765
+                  ]
+            },
+            {
+                  "name": "Belfield Mansion",
+                  "text": "Belfield Mansion features historic ruins located in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.620058,
+                        13.1223
+                  ]
+            },
+            {
+                  "name": "Empire Theatre Ruins",
+                  "text": "Empire Theatre Ruins are the remains of a former theatre located in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.612682,
+                        13.094657
+                  ]
+            },
+            {
+                  "name": "Agapey Chocolate Factory",
+                  "text": "Agapey Chocolate Factory is a popular attraction to visit in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.618202,
+                        13.096979
+                  ]
+            },
+            {
+                  "name": "Culloden Farm",
+                  "text": "Culloden Farm is a traditional manor located in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.603693,
+                        13.091171
+                  ]
+            },
+            {
+                  "name": "The 50th Anniversary of Independence National Monument",
+                  "text": "The 50th Anniversary of Independence National Monument is situated in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.60555,
+                        13.079893
+                  ]
+            },
+            {
+                  "name": "Clement Payne Monument",
+                  "text": "Clement Payne Monument is a public monument located in Historisches Bridgetown.",
+                  "category": "historical",
+                  "coords": [
+                        -59.611701,
+                        13.094761
+                  ]
+            },
+            {
+                  "name": "Mount Gay Distillery Visitor Center",
+                  "text": "The Mount Gay Distillery Visitor Center is a tourist attraction in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.626649,
+                        13.112215
+                  ]
+            },
+            {
+                  "name": "City Mosque",
+                  "text": "City Mosque, also known as the Madina Mosque, is a notable Islamic place of worship located in Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.615964,
+                        13.101326
+                  ]
+            },
+            {
+                  "name": "Cathedral Church of Saint Michael and All Angels",
+                  "text": "The Cathedral Church of Saint Michael and All Angels is a place of worship located in Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.612358,
+                        13.09788
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of the Universe Catholic Church",
+                  "text": "Our Lady Queen of the Universe Catholic Church is a notable Catholic place of worship situated in Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.617395,
+                        13.116136
+                  ]
+            },
+            {
+                  "name": "Jumma Masjid",
+                  "text": "Jumma Masjid is a well-known Islamic place of worship located in Historisches Bridgetown.",
+                  "category": "religious",
+                  "coords": [
+                        -59.622485,
+                        13.101968
+                  ]
+            },
+            {
+                  "name": "George Washington House",
+                  "text": "George Washington House is a historic heritage building preserved in Historisches Bridgetown.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.606739,
+                        13.08195
+                  ]
+            }
+      ]
+},
     parent: "BB",
     type: "capital",
     name: { de: "Historisches Bridgetown", hu: "Történelmi Bridgetown", ro: "Centrul Istoric Bridgetown", en: "Historic Bridgetown" },
@@ -1218,7 +2595,160 @@ export const barbadosHistoryV2: POI[] = [
     image: "/poi-images/barbados-military-cemetery-history-v2.webp",
   },
   {
-    id: "barbados-rock-hall-free-village-history-v2",
+    id: "barbados-rock-hall-free-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sir Frank Hutson Sugar Museum",
+                  "text": "Sir Frank Hutson Sugar Museum ist ein Museum in Freies Dorf Rock Hall.",
+                  "category": "museum",
+                  "coords": [
+                        -59.615472,
+                        13.191593
+                  ]
+            },
+            {
+                  "name": "Republic atm",
+                  "text": "Republic atm ist ein Aussichtspunkt in Freies Dorf Rock Hall.",
+                  "category": "natural",
+                  "coords": [
+                        -59.612904,
+                        13.171595
+                  ]
+            },
+            {
+                  "name": "Cockade House",
+                  "text": "Cockade House ist ein Herrenhaus in Freies Dorf Rock Hall.",
+                  "category": "historical",
+                  "coords": [
+                        -59.611788,
+                        13.172338
+                  ]
+            },
+            {
+                  "name": "Lancaster Great House",
+                  "text": "Lancaster Great House ist ein Herrenhaus in Freies Dorf Rock Hall.",
+                  "category": "historical",
+                  "coords": [
+                        -59.618389,
+                        13.203428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sir Frank Hutson Sugar Museum",
+                  "text": "A Sir Frank Hutson Sugar Museum egy múzeum Freies Dorf Rock Hall városában.",
+                  "category": "museum",
+                  "coords": [
+                        -59.615472,
+                        13.191593
+                  ]
+            },
+            {
+                  "name": "Republic atm",
+                  "text": "A Republic atm egy kilátópont Freies Dorf Rock Hall területén.",
+                  "category": "natural",
+                  "coords": [
+                        -59.612904,
+                        13.171595
+                  ]
+            },
+            {
+                  "name": "Cockade House",
+                  "text": "A Cockade House egy udvarház Freies Dorf Rock Hall területén.",
+                  "category": "historical",
+                  "coords": [
+                        -59.611788,
+                        13.172338
+                  ]
+            },
+            {
+                  "name": "Lancaster Great House",
+                  "text": "A Lancaster Great House egy udvarház Freies Dorf Rock Hall területén.",
+                  "category": "historical",
+                  "coords": [
+                        -59.618389,
+                        13.203428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sir Frank Hutson Sugar Museum",
+                  "text": "Sir Frank Hutson Sugar Museum este un muzeu în Freies Dorf Rock Hall.",
+                  "category": "museum",
+                  "coords": [
+                        -59.615472,
+                        13.191593
+                  ]
+            },
+            {
+                  "name": "Republic atm",
+                  "text": "Republic atm este un punct de belvedere în Freies Dorf Rock Hall.",
+                  "category": "natural",
+                  "coords": [
+                        -59.612904,
+                        13.171595
+                  ]
+            },
+            {
+                  "name": "Cockade House",
+                  "text": "Cockade House este un conac în Freies Dorf Rock Hall.",
+                  "category": "historical",
+                  "coords": [
+                        -59.611788,
+                        13.172338
+                  ]
+            },
+            {
+                  "name": "Lancaster Great House",
+                  "text": "Lancaster Great House este un conac în Freies Dorf Rock Hall.",
+                  "category": "historical",
+                  "coords": [
+                        -59.618389,
+                        13.203428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sir Frank Hutson Sugar Museum",
+                  "text": "Sir Frank Hutson Sugar Museum is a museum located in Freies Dorf Rock Hall.",
+                  "category": "museum",
+                  "coords": [
+                        -59.615472,
+                        13.191593
+                  ]
+            },
+            {
+                  "name": "Republic atm",
+                  "text": "Republic atm is a viewpoint located in Freies Dorf Rock Hall.",
+                  "category": "natural",
+                  "coords": [
+                        -59.612904,
+                        13.171595
+                  ]
+            },
+            {
+                  "name": "Cockade House",
+                  "text": "Cockade House is a manor located in Freies Dorf Rock Hall.",
+                  "category": "historical",
+                  "coords": [
+                        -59.611788,
+                        13.172338
+                  ]
+            },
+            {
+                  "name": "Lancaster Great House",
+                  "text": "Lancaster Great House is a manor located in Freies Dorf Rock Hall.",
+                  "category": "historical",
+                  "coords": [
+                        -59.618389,
+                        13.203428
+                  ]
+            }
+      ]
+},
     parent: "BB",
     type: "village",
     name: { de: "Freies Dorf Rock Hall", hu: "Rock Hall szabad falu", ro: "Satul liber Rock Hall", en: "Rock Hall Free Village" },

@@ -41,7 +41,52 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "teyateyaneng-cities-v2",
+    id: "teyateyaneng-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "manga site",
+                  "text": "Der Manga-Standort ist ein Aussichtspunkt in Teyateyaneng.",
+                  "category": "natural",
+                  "coords": [
+                        27.762996,
+                        -29.153033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "manga site",
+                  "text": "A Manga-helyszín egy kilátópont Teyateyanengben.",
+                  "category": "natural",
+                  "coords": [
+                        27.762996,
+                        -29.153033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "manga site",
+                  "text": "Locația Manga este un punct de belvedere în Teyateyaneng.",
+                  "category": "natural",
+                  "coords": [
+                        27.762996,
+                        -29.153033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "manga site",
+                  "text": "The Manga site is a viewpoint in Teyateyaneng.",
+                  "category": "natural",
+                  "coords": [
+                        27.762996,
+                        -29.153033
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-D",
     coords: [27.75, -29.15],
@@ -173,7 +218,52 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "mohales-hoek-cities-v2",
+    id: "mohales-hoek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mohale's Hoek LECSA Church",
+                  "text": "Die LECSA-Kirche ist ein bedeutendes Gotteshaus in Mohale's Hoek.",
+                  "category": "religious",
+                  "coords": [
+                        27.466339,
+                        -30.157406
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mohale's Hoek LECSA Church",
+                  "text": "A LECSA-templom egy jelentős imaház Mohale's Hoekban.",
+                  "category": "religious",
+                  "coords": [
+                        27.466339,
+                        -30.157406
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mohale's Hoek LECSA Church",
+                  "text": "Biserica LECSA este un lăcaș de cult important în Mohale's Hoek.",
+                  "category": "religious",
+                  "coords": [
+                        27.466339,
+                        -30.157406
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mohale's Hoek LECSA Church",
+                  "text": "The LECSA Church is an important place of worship in Mohale's Hoek.",
+                  "category": "religious",
+                  "coords": [
+                        27.466339,
+                        -30.157406
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-F",
     coords: [27.4667, -30.15],
@@ -525,7 +615,88 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "morija-cities-v2",
+    id: "morija-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morija Museum & Archives",
+                  "text": "Das Morija Museum & Archives ist eine bekannte kulturelle Einrichtung in Morija.",
+                  "category": "museum",
+                  "coords": [
+                        27.508848,
+                        -29.626312
+                  ]
+            },
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Die Dinosaur Footprints sind eine bedeutende archäologische Stätte in Morija.",
+                  "category": "historical",
+                  "coords": [
+                        27.513085,
+                        -29.638767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morija Museum & Archives",
+                  "text": "A Morija Museum & Archives egy jelentős kulturális intézmény Morija városában.",
+                  "category": "museum",
+                  "coords": [
+                        27.508848,
+                        -29.626312
+                  ]
+            },
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "A Dinosaur Footprints egy figyelemre méltó régészeti lelőhely Morijában.",
+                  "category": "historical",
+                  "coords": [
+                        27.513085,
+                        -29.638767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morija Museum & Archives",
+                  "text": "Morija Museum & Archives este o instituție culturală și un muzeu remarcabil în Morija.",
+                  "category": "museum",
+                  "coords": [
+                        27.508848,
+                        -29.626312
+                  ]
+            },
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "Dinosaur Footprints este un sit arheologic notabil în Morija.",
+                  "category": "historical",
+                  "coords": [
+                        27.513085,
+                        -29.638767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morija Museum & Archives",
+                  "text": "The Morija Museum & Archives is a prominent cultural institution and museum in Morija.",
+                  "category": "museum",
+                  "coords": [
+                        27.508848,
+                        -29.626312
+                  ]
+            },
+            {
+                  "name": "Dinosaur Footprints",
+                  "text": "The Dinosaur Footprints site is a notable archaeological area in Morija.",
+                  "category": "historical",
+                  "coords": [
+                        27.513085,
+                        -29.638767
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-A",
     coords: [27.5, -29.6333],
@@ -657,7 +828,52 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "matsieng-cities-v2",
+    id: "matsieng-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "King's Residence",
+                  "text": "Die King's Residence ist eine historische Burg in Matsieng.",
+                  "category": "castle",
+                  "coords": [
+                        27.565263,
+                        -29.61944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King's Residence",
+                  "text": "A King's Residence egy történelmi kastély Matsiengben.",
+                  "category": "castle",
+                  "coords": [
+                        27.565263,
+                        -29.61944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King's Residence",
+                  "text": "King's Residence este un castel istoric situat în Matsieng.",
+                  "category": "castle",
+                  "coords": [
+                        27.565263,
+                        -29.61944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King's Residence",
+                  "text": "The King's Residence is a historic castle located in Matsieng.",
+                  "category": "castle",
+                  "coords": [
+                        27.565263,
+                        -29.61944
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-A",
     coords: [27.5667, -29.6167],
@@ -745,7 +961,52 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "peka-cities-v2",
+    id: "peka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bismadal Game Reserve",
+                  "text": "Das Wildreservat Bismadal ist ein Naturschutzgebiet in Peka.",
+                  "category": "natural",
+                  "coords": [
+                        27.697409,
+                        -28.962375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bismadal Game Reserve",
+                  "text": "A Bismadal Vadrezervátum egy természetvédelmi terület Peka területén.",
+                  "category": "natural",
+                  "coords": [
+                        27.697409,
+                        -28.962375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bismadal Game Reserve",
+                  "text": "Rezervația de vânătoare Bismadal este o rezervație naturală din Peka.",
+                  "category": "natural",
+                  "coords": [
+                        27.697409,
+                        -28.962375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bismadal Game Reserve",
+                  "text": "Bismadal Game Reserve is a protected nature reserve situated in Peka.",
+                  "category": "natural",
+                  "coords": [
+                        27.697409,
+                        -28.962375
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-C",
     coords: [27.7167, -28.95],
@@ -1097,7 +1358,160 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "sehlabathebe-cities-v2",
+    id: "sehlabathebe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rock pools",
+                  "text": "Die Felsenpools in Sehlabathebe sind eine natürliche Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        29.11979,
+                        -29.868113
+                  ]
+            },
+            {
+                  "name": "Cattle post",
+                  "text": "Ein Viehposten in Sehlabathebe bietet Einblicke in die lokale Lebensweise.",
+                  "category": "landmark",
+                  "coords": [
+                        29.118887,
+                        -29.864016
+                  ]
+            },
+            {
+                  "name": "Rock arches",
+                  "text": "Die natürlichen Felsbögen sind eine Sehenswürdigkeit in Sehlabathebe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123746,
+                        -29.862457
+                  ]
+            },
+            {
+                  "name": "Three Bushmen viewpoint",
+                  "text": "Dieser Aussichtspunkt in Sehlabathebe bietet eine weite Sicht.",
+                  "category": "natural",
+                  "coords": [
+                        29.124542,
+                        -29.861263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rock pools",
+                  "text": "A Sehlabathebe-i sziklamedencék egy természeti látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        29.11979,
+                        -29.868113
+                  ]
+            },
+            {
+                  "name": "Cattle post",
+                  "text": "Egy Sehlabathebe-i állomás betekintést nyújt a helyi életmódba.",
+                  "category": "landmark",
+                  "coords": [
+                        29.118887,
+                        -29.864016
+                  ]
+            },
+            {
+                  "name": "Rock arches",
+                  "text": "A természetes sziklaívek egy látnivaló Sehlabathebe-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123746,
+                        -29.862457
+                  ]
+            },
+            {
+                  "name": "Three Bushmen viewpoint",
+                  "text": "Ez a Sehlabathebe-i kilátópont széles kilátást biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        29.124542,
+                        -29.861263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rock pools",
+                  "text": "Bazinele stâncoase din Sehlabathebe sunt o atracție naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        29.11979,
+                        -29.868113
+                  ]
+            },
+            {
+                  "name": "Cattle post",
+                  "text": "Un punct pentru vite din Sehlabathebe oferă o perspectivă asupra stilului de viață local.",
+                  "category": "landmark",
+                  "coords": [
+                        29.118887,
+                        -29.864016
+                  ]
+            },
+            {
+                  "name": "Rock arches",
+                  "text": "Arcurile stâncoase naturale sunt o atracție în Sehlabathebe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123746,
+                        -29.862457
+                  ]
+            },
+            {
+                  "name": "Three Bushmen viewpoint",
+                  "text": "Acest punct de belvedere din Sehlabathebe oferă o vedere largă.",
+                  "category": "natural",
+                  "coords": [
+                        29.124542,
+                        -29.861263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rock pools",
+                  "text": "The rock pools in Sehlabathebe are a natural attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        29.11979,
+                        -29.868113
+                  ]
+            },
+            {
+                  "name": "Cattle post",
+                  "text": "A cattle post in Sehlabathebe offers insights into the local lifestyle.",
+                  "category": "landmark",
+                  "coords": [
+                        29.118887,
+                        -29.864016
+                  ]
+            },
+            {
+                  "name": "Rock arches",
+                  "text": "The natural rock arches are an attraction in Sehlabathebe.",
+                  "category": "landmark",
+                  "coords": [
+                        29.123746,
+                        -29.862457
+                  ]
+            },
+            {
+                  "name": "Three Bushmen viewpoint",
+                  "text": "This viewpoint in Sehlabathebe offers a wide view.",
+                  "category": "natural",
+                  "coords": [
+                        29.124542,
+                        -29.861263
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-H",
     coords: [29.1, -29.8667],
@@ -1185,7 +1599,52 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "katse-cities-v2",
+    id: "katse-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "LHDA Information Center",
+                  "text": "Das LHDA Information Center ist ein Museum, das Einblicke in die nahegelegene Katse-Talsperre bietet.",
+                  "category": "museum",
+                  "coords": [
+                        28.506511,
+                        -29.34404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "LHDA Information Center",
+                  "text": "Az LHDA Information Center egy múzeum, amely a közeli Katse-gátat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.506511,
+                        -29.34404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "LHDA Information Center",
+                  "text": "LHDA Information Center este un muzeu care oferă informații despre barajul Katse din apropiere.",
+                  "category": "museum",
+                  "coords": [
+                        28.506511,
+                        -29.34404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "LHDA Information Center",
+                  "text": "The LHDA Information Center serves as a museum providing insights into the nearby Katse Dam.",
+                  "category": "museum",
+                  "coords": [
+                        28.506511,
+                        -29.34404
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-K",
     coords: [28.5, -29.3333],
@@ -1229,7 +1688,124 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "thaba-bosiu-cities-v2",
+    id: "thaba-bosiu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thaba Bosiu Amphitheater",
+                  "text": "Das Amphitheater von Thaba-Bosiu ist ein historischer Veranstaltungsort.",
+                  "category": "cultural",
+                  "coords": [
+                        27.661425,
+                        -29.345331
+                  ]
+            },
+            {
+                  "name": "Qiloane",
+                  "text": "Der Berg Qiloane ist ein markanter Gipfel in der Nähe von Thaba-Bosiu.",
+                  "category": "natural",
+                  "coords": [
+                        27.686176,
+                        -29.348195
+                  ]
+            },
+            {
+                  "name": "Thaba-Bosiu",
+                  "text": "Berg in Thaba-Bosiu.",
+                  "category": "natural",
+                  "coords": [
+                        27.671202,
+                        -29.354293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thaba Bosiu Amphitheater",
+                  "text": "A Thaba-Bosiu amfiteátrum egy történelmi helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        27.661425,
+                        -29.345331
+                  ]
+            },
+            {
+                  "name": "Qiloane",
+                  "text": "A Qiloane-hegy egy jellegzetes csúcs Thaba-Bosiu közelében.",
+                  "category": "natural",
+                  "coords": [
+                        27.686176,
+                        -29.348195
+                  ]
+            },
+            {
+                  "name": "Thaba-Bosiu",
+                  "text": "Hegy Thaba-Bosiu-ban.",
+                  "category": "natural",
+                  "coords": [
+                        27.671202,
+                        -29.354293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thaba Bosiu Amphitheater",
+                  "text": "Amfiteatrul din Thaba-Bosiu este un loc istoric.",
+                  "category": "cultural",
+                  "coords": [
+                        27.661425,
+                        -29.345331
+                  ]
+            },
+            {
+                  "name": "Qiloane",
+                  "text": "Muntele Qiloane este un vârf distinctiv în apropiere de Thaba-Bosiu.",
+                  "category": "natural",
+                  "coords": [
+                        27.686176,
+                        -29.348195
+                  ]
+            },
+            {
+                  "name": "Thaba-Bosiu",
+                  "text": "Vârf în Thaba-Bosiu.",
+                  "category": "natural",
+                  "coords": [
+                        27.671202,
+                        -29.354293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thaba Bosiu Amphitheater",
+                  "text": "The Thaba-Bosiu Amphitheater is a historic venue.",
+                  "category": "cultural",
+                  "coords": [
+                        27.661425,
+                        -29.345331
+                  ]
+            },
+            {
+                  "name": "Qiloane",
+                  "text": "Mount Qiloane is a distinctive peak near Thaba-Bosiu.",
+                  "category": "natural",
+                  "coords": [
+                        27.686176,
+                        -29.348195
+                  ]
+            },
+            {
+                  "name": "Thaba-Bosiu",
+                  "text": "Peak in Thaba-Bosiu.",
+                  "category": "natural",
+                  "coords": [
+                        27.671202,
+                        -29.354293
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-A",
     coords: [27.6667, -29.35],
@@ -1669,7 +2245,52 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "molimo-nthuse-cities-v2",
+    id: "molimo-nthuse-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nazareth",
+                  "text": "Nazareth ist ein Aussichtspunkt in Molimo Nthuse.",
+                  "category": "natural",
+                  "coords": [
+                        27.839264,
+                        -29.416227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nazareth",
+                  "text": "A Názáret egy kilátó Molimo Nthuse városában.",
+                  "category": "natural",
+                  "coords": [
+                        27.839264,
+                        -29.416227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nazareth",
+                  "text": "Nazaret este un punct de belvedere situat în Molimo Nthuse.",
+                  "category": "natural",
+                  "coords": [
+                        27.839264,
+                        -29.416227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nazareth",
+                  "text": "Nazareth is a viewpoint located in Molimo Nthuse.",
+                  "category": "natural",
+                  "coords": [
+                        27.839264,
+                        -29.416227
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-A",
     coords: [27.85, -29.4333],
@@ -1757,7 +2378,88 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "ha-kome-cities-v2",
+    id: "ha-kome-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ha Kome Cave Village",
+                  "text": "Höhlendorf in Ha Kome.",
+                  "category": "landmark",
+                  "coords": [
+                        27.870182,
+                        -29.247717
+                  ]
+            },
+            {
+                  "name": "Malimong Cave",
+                  "text": "Höhle in Ha Kome.",
+                  "category": "landmark",
+                  "coords": [
+                        27.90679,
+                        -29.217841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ha Kome Cave Village",
+                  "text": "Barlangfalu Ha Kome-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.870182,
+                        -29.247717
+                  ]
+            },
+            {
+                  "name": "Malimong Cave",
+                  "text": "Barlang Ha Kome-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.90679,
+                        -29.217841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ha Kome Cave Village",
+                  "text": "Sat de peșteri în Ha Kome.",
+                  "category": "landmark",
+                  "coords": [
+                        27.870182,
+                        -29.247717
+                  ]
+            },
+            {
+                  "name": "Malimong Cave",
+                  "text": "Peșteră în Ha Kome.",
+                  "category": "landmark",
+                  "coords": [
+                        27.90679,
+                        -29.217841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ha Kome Cave Village",
+                  "text": "Cave village in Ha Kome.",
+                  "category": "landmark",
+                  "coords": [
+                        27.870182,
+                        -29.247717
+                  ]
+            },
+            {
+                  "name": "Malimong Cave",
+                  "text": "Cave in Ha Kome.",
+                  "category": "landmark",
+                  "coords": [
+                        27.90679,
+                        -29.217841
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-D",
     coords: [27.8833, -29.2333],
@@ -2153,7 +2855,52 @@ export const poiExtraLesothoCitiesV2: POI[] = [
     },
   },
   {
-    id: "linakaneng-cities-v2",
+    id: "linakaneng-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ruins",
+                  "text": "Ruinen in Linakaneng.",
+                  "category": "historical",
+                  "coords": [
+                        28.927086,
+                        -29.366383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ruins",
+                  "text": "Romok Linakaneng-ben.",
+                  "category": "historical",
+                  "coords": [
+                        28.927086,
+                        -29.366383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ruins",
+                  "text": "Ruine în Linakaneng.",
+                  "category": "historical",
+                  "coords": [
+                        28.927086,
+                        -29.366383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ruins",
+                  "text": "Ruins in Linakaneng.",
+                  "category": "historical",
+                  "coords": [
+                        28.927086,
+                        -29.366383
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LS-J",
     coords: [28.95, -29.35],

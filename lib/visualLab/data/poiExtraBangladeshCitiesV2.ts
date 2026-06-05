@@ -364,7 +364,196 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "comilla-cities-v2",
+    id: "comilla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Victoria College theatre",
+                  "text": "Das Victoria College Theater ist eine kulturelle Stätte in Comilla.",
+                  "category": "cultural",
+                  "coords": [
+                        91.166638,
+                        23.457691
+                  ]
+            },
+            {
+                  "name": "Nursery",
+                  "text": "Dieses Naturschutzgebiet ist eine grüne Oase in Comilla.",
+                  "category": "natural",
+                  "coords": [
+                        91.174876,
+                        23.443686
+                  ]
+            },
+            {
+                  "name": "মাহিন",
+                  "text": "Mahin ist eine burgähnliche Anlage in Comilla.",
+                  "category": "castle",
+                  "coords": [
+                        91.172957,
+                        23.475776
+                  ]
+            },
+            {
+                  "name": "Comilla Central Shaheed Minar",
+                  "text": "Das zentrale Shaheed Minar ist ein wichtiges Denkmal in Comilla.",
+                  "category": "historical",
+                  "coords": [
+                        91.181422,
+                        23.461333
+                  ]
+            },
+            {
+                  "name": "গোলচত্বর",
+                  "text": "Dieser Platz ist ein markantes Denkmal in Comilla.",
+                  "category": "historical",
+                  "coords": [
+                        91.181015,
+                        23.463139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Victoria College theatre",
+                  "text": "A Victoria College színház egy kulturális helyszín Comillában.",
+                  "category": "cultural",
+                  "coords": [
+                        91.166638,
+                        23.457691
+                  ]
+            },
+            {
+                  "name": "Nursery",
+                  "text": "Ez a természetvédelmi terület egy zöld oázis Comillában.",
+                  "category": "natural",
+                  "coords": [
+                        91.174876,
+                        23.443686
+                  ]
+            },
+            {
+                  "name": "মাহিন",
+                  "text": "Mahin egy várkastély-szerű építmény Comillában.",
+                  "category": "castle",
+                  "coords": [
+                        91.172957,
+                        23.475776
+                  ]
+            },
+            {
+                  "name": "Comilla Central Shaheed Minar",
+                  "text": "A központi Shaheed Minar egy fontos emlékmű Comillában.",
+                  "category": "historical",
+                  "coords": [
+                        91.181422,
+                        23.461333
+                  ]
+            },
+            {
+                  "name": "গোলচত্বর",
+                  "text": "Ez a tér egy jelentős emlékmű Comillában.",
+                  "category": "historical",
+                  "coords": [
+                        91.181015,
+                        23.463139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Victoria College theatre",
+                  "text": "Teatrul Victoria College este un spațiu cultural în Comilla.",
+                  "category": "cultural",
+                  "coords": [
+                        91.166638,
+                        23.457691
+                  ]
+            },
+            {
+                  "name": "Nursery",
+                  "text": "Această rezervație naturală este o oază verde în Comilla.",
+                  "category": "natural",
+                  "coords": [
+                        91.174876,
+                        23.443686
+                  ]
+            },
+            {
+                  "name": "মাহিন",
+                  "text": "Mahin este o construcție de tip castel în Comilla.",
+                  "category": "castle",
+                  "coords": [
+                        91.172957,
+                        23.475776
+                  ]
+            },
+            {
+                  "name": "Comilla Central Shaheed Minar",
+                  "text": "Shaheed Minar central este un monument important în Comilla.",
+                  "category": "historical",
+                  "coords": [
+                        91.181422,
+                        23.461333
+                  ]
+            },
+            {
+                  "name": "গোলচত্বর",
+                  "text": "Această piață este un monument proeminent în Comilla.",
+                  "category": "historical",
+                  "coords": [
+                        91.181015,
+                        23.463139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Victoria College theatre",
+                  "text": "The Victoria College theatre is a cultural venue in Comilla.",
+                  "category": "cultural",
+                  "coords": [
+                        91.166638,
+                        23.457691
+                  ]
+            },
+            {
+                  "name": "Nursery",
+                  "text": "This nature reserve is a green oasis in Comilla.",
+                  "category": "natural",
+                  "coords": [
+                        91.174876,
+                        23.443686
+                  ]
+            },
+            {
+                  "name": "মাহিন",
+                  "text": "Mahin is a castle-like structure in Comilla.",
+                  "category": "castle",
+                  "coords": [
+                        91.172957,
+                        23.475776
+                  ]
+            },
+            {
+                  "name": "Comilla Central Shaheed Minar",
+                  "text": "The central Shaheed Minar is an important monument in Comilla.",
+                  "category": "historical",
+                  "coords": [
+                        91.181422,
+                        23.461333
+                  ]
+            },
+            {
+                  "name": "গোলচত্বর",
+                  "text": "This square is a prominent monument in Comilla.",
+                  "category": "historical",
+                  "coords": [
+                        91.181015,
+                        23.463139
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-B",
     coords: [91.1802, 23.4607],
@@ -415,7 +604,160 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "narayanganj-cities-v2",
+    id: "narayanganj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adventure Land Park",
+                  "text": "Der Adventure Land Park ist ein Freizeitpark in Narayanganj.",
+                  "category": "recreational",
+                  "coords": [
+                        90.475955,
+                        23.629452
+                  ]
+            },
+            {
+                  "name": "Hajiganj Fort",
+                  "text": "Das Hajiganj Fort ist eine historische Festungsanlage in Narayanganj.",
+                  "category": "fortress",
+                  "coords": [
+                        90.512844,
+                        23.633426
+                  ]
+            },
+            {
+                  "name": "ফিরে দেখা ৭১ স্তম্ভ",
+                  "text": "Das ফিরে দেখা ৭১ স্তম্ভ ist ein öffentliches Denkmal in Narayanganj.",
+                  "category": "historical",
+                  "coords": [
+                        90.50184,
+                        23.615677
+                  ]
+            },
+            {
+                  "name": "Bandar Central Shaheed Minar",
+                  "text": "Das Bandar Central Shaheed Minar ist ein markantes Denkmal in Narayanganj.",
+                  "category": "historical",
+                  "coords": [
+                        90.512828,
+                        23.614168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adventure Land Park",
+                  "text": "Az Adventure Land Park egy szórakoztató vidámpark Narayanganj városában.",
+                  "category": "recreational",
+                  "coords": [
+                        90.475955,
+                        23.629452
+                  ]
+            },
+            {
+                  "name": "Hajiganj Fort",
+                  "text": "A Hajiganj Erőd egy történelmi erődítmény Narayanganj városában.",
+                  "category": "fortress",
+                  "coords": [
+                        90.512844,
+                        23.633426
+                  ]
+            },
+            {
+                  "name": "ফিরে দেখা ৭১ স্তম্ভ",
+                  "text": "A ফিরে দেখা ৭১ স্তম্ভ egy köztéri emlékmű Narayanganj városában.",
+                  "category": "historical",
+                  "coords": [
+                        90.50184,
+                        23.615677
+                  ]
+            },
+            {
+                  "name": "Bandar Central Shaheed Minar",
+                  "text": "A Bandar Central Shaheed Minar egy jelentős emlékmű Narayanganj városában.",
+                  "category": "historical",
+                  "coords": [
+                        90.512828,
+                        23.614168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adventure Land Park",
+                  "text": "Adventure Land Park este un parc tematic de recreere din Narayanganj.",
+                  "category": "recreational",
+                  "coords": [
+                        90.475955,
+                        23.629452
+                  ]
+            },
+            {
+                  "name": "Hajiganj Fort",
+                  "text": "Fortul Hajiganj este o fortificație istorică situată în Narayanganj.",
+                  "category": "fortress",
+                  "coords": [
+                        90.512844,
+                        23.633426
+                  ]
+            },
+            {
+                  "name": "ফিরে দেখা ৭১ স্তম্ভ",
+                  "text": "ফিরে দেখা ৭১ স্তম্ভ este un monument public situat în Narayanganj.",
+                  "category": "historical",
+                  "coords": [
+                        90.50184,
+                        23.615677
+                  ]
+            },
+            {
+                  "name": "Bandar Central Shaheed Minar",
+                  "text": "Bandar Central Shaheed Minar este un monument notabil situat în Narayanganj.",
+                  "category": "historical",
+                  "coords": [
+                        90.512828,
+                        23.614168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adventure Land Park",
+                  "text": "Adventure Land Park is a theme park designed for recreation in Narayanganj.",
+                  "category": "recreational",
+                  "coords": [
+                        90.475955,
+                        23.629452
+                  ]
+            },
+            {
+                  "name": "Hajiganj Fort",
+                  "text": "The Hajiganj Fort is a historic fortification situated in Narayanganj.",
+                  "category": "fortress",
+                  "coords": [
+                        90.512844,
+                        23.633426
+                  ]
+            },
+            {
+                  "name": "ফিরে দেখা ৭১ স্তম্ভ",
+                  "text": "The ফিরে দেখা ৭১ স্তম্ভ is a public monument located in Narayanganj.",
+                  "category": "historical",
+                  "coords": [
+                        90.50184,
+                        23.615677
+                  ]
+            },
+            {
+                  "name": "Bandar Central Shaheed Minar",
+                  "text": "Bandar Central Shaheed Minar is a notable monument situated in Narayanganj.",
+                  "category": "historical",
+                  "coords": [
+                        90.512828,
+                        23.614168
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-C",
     coords: [90.5000, 23.6238],
@@ -466,7 +808,88 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "gazipur-cities-v2",
+    id: "gazipur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "BRRI Headquarter",
+                  "text": "Das BRRI Headquarter dient als Museum und lokaler Orientierungspunkt in Gazipur.",
+                  "category": "museum",
+                  "coords": [
+                        90.407251,
+                        23.991832
+                  ]
+            },
+            {
+                  "name": "Raj Shoshanshwari- Shiv Mondir",
+                  "text": "Raj Shoshanshwari- Shiv Mondir ist eine historische Kulturerbestätte in Gazipur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.430628,
+                        24.006929
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BRRI Headquarter",
+                  "text": "A BRRI Headquarter egy múzeum és helyi nevezetesség Gazipur városában.",
+                  "category": "museum",
+                  "coords": [
+                        90.407251,
+                        23.991832
+                  ]
+            },
+            {
+                  "name": "Raj Shoshanshwari- Shiv Mondir",
+                  "text": "A Raj Shoshanshwari- Shiv Mondir egy történelmi örökségvédelmi helyszín Gazipur városában.",
+                  "category": "landmark",
+                  "coords": [
+                        90.430628,
+                        24.006929
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BRRI Headquarter",
+                  "text": "BRRI Headquarter servește drept muzeu și punct de interes local în Gazipur.",
+                  "category": "museum",
+                  "coords": [
+                        90.407251,
+                        23.991832
+                  ]
+            },
+            {
+                  "name": "Raj Shoshanshwari- Shiv Mondir",
+                  "text": "Raj Shoshanshwari- Shiv Mondir este un sit de patrimoniu istoric situat în Gazipur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.430628,
+                        24.006929
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BRRI Headquarter",
+                  "text": "The BRRI Headquarter serves as a museum and local point of interest in Gazipur.",
+                  "category": "museum",
+                  "coords": [
+                        90.407251,
+                        23.991832
+                  ]
+            },
+            {
+                  "name": "Raj Shoshanshwari- Shiv Mondir",
+                  "text": "Raj Shoshanshwari- Shiv Mondir is a historical heritage site located in Gazipur.",
+                  "category": "landmark",
+                  "coords": [
+                        90.430628,
+                        24.006929
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-C",
     coords: [90.4125, 23.9999],
@@ -517,7 +940,88 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "bogra-cities-v2",
+    id: "bogra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bir Shrestho Chottor",
+                  "text": "Bir Shrestho Chottor ist ein bedeutendes Denkmal in Bogra.",
+                  "category": "historical",
+                  "coords": [
+                        89.372945,
+                        24.848074
+                  ]
+            },
+            {
+                  "name": "Azizul Haque College Shahid Minar",
+                  "text": "Das Shahid Minar des Azizul Haque College ist ein Denkmal in Bogra.",
+                  "category": "historical",
+                  "coords": [
+                        89.356608,
+                        24.844947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bir Shrestho Chottor",
+                  "text": "A Bir Shrestho Chottor egy jelentős emlékmű Bográban.",
+                  "category": "historical",
+                  "coords": [
+                        89.372945,
+                        24.848074
+                  ]
+            },
+            {
+                  "name": "Azizul Haque College Shahid Minar",
+                  "text": "Az Azizul Haque College Shahid Minarja egy emlékmű Bográban.",
+                  "category": "historical",
+                  "coords": [
+                        89.356608,
+                        24.844947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bir Shrestho Chottor",
+                  "text": "Bir Shrestho Chottor este un monument semnificativ în Bogra.",
+                  "category": "historical",
+                  "coords": [
+                        89.372945,
+                        24.848074
+                  ]
+            },
+            {
+                  "name": "Azizul Haque College Shahid Minar",
+                  "text": "Shahid Minar al Colegiului Azizul Haque este un monument în Bogra.",
+                  "category": "historical",
+                  "coords": [
+                        89.356608,
+                        24.844947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bir Shrestho Chottor",
+                  "text": "Bir Shrestho Chottor is a significant monument in Bogra.",
+                  "category": "historical",
+                  "coords": [
+                        89.372945,
+                        24.848074
+                  ]
+            },
+            {
+                  "name": "Azizul Haque College Shahid Minar",
+                  "text": "The Azizul Haque College Shahid Minar is a monument in Bogra.",
+                  "category": "historical",
+                  "coords": [
+                        89.356608,
+                        24.844947
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-E",
     coords: [89.3750, 24.8481],
@@ -568,7 +1072,124 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "kushtia-cities-v2",
+    id: "kushtia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kushtia Municipality Museum",
+                  "text": "Das Kushtia Municipality Museum ist eine lokale Einrichtung zur Bewahrung der Geschichte in Kushtia.",
+                  "category": "museum",
+                  "coords": [
+                        89.122328,
+                        23.911288
+                  ]
+            },
+            {
+                  "name": "Thakur Lodge",
+                  "text": "Die Thakur Lodge ist ein lokales Museum mit kulturellen Einblicken in Kushtia.",
+                  "category": "museum",
+                  "coords": [
+                        89.146212,
+                        23.901613
+                  ]
+            },
+            {
+                  "name": "Shahid Minar Kushtia",
+                  "text": "Das Shahid Minar Kushtia ist ein markantes Gedenkmonument in Kushtia.",
+                  "category": "historical",
+                  "coords": [
+                        89.118743,
+                        23.901863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kushtia Municipality Museum",
+                  "text": "A Kushtia Municipality Museum egy helyi történelmi intézmény Kushtia városában.",
+                  "category": "museum",
+                  "coords": [
+                        89.122328,
+                        23.911288
+                  ]
+            },
+            {
+                  "name": "Thakur Lodge",
+                  "text": "A Thakur Lodge egy helyi kulturális múzeum Kushtia városában.",
+                  "category": "museum",
+                  "coords": [
+                        89.146212,
+                        23.901613
+                  ]
+            },
+            {
+                  "name": "Shahid Minar Kushtia",
+                  "text": "A Shahid Minar Kushtia egy kiemelkedő emlékmű Kushtia városában.",
+                  "category": "historical",
+                  "coords": [
+                        89.118743,
+                        23.901863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kushtia Municipality Museum",
+                  "text": "Muzeul Municipalității Kushtia este o instituție locală ce conservă istoria în Kushtia.",
+                  "category": "museum",
+                  "coords": [
+                        89.122328,
+                        23.911288
+                  ]
+            },
+            {
+                  "name": "Thakur Lodge",
+                  "text": "Thakur Lodge este un muzeu local ce oferă perspective culturale în Kushtia.",
+                  "category": "museum",
+                  "coords": [
+                        89.146212,
+                        23.901613
+                  ]
+            },
+            {
+                  "name": "Shahid Minar Kushtia",
+                  "text": "Shahid Minar Kushtia este un monument memorial proeminent situat în Kushtia.",
+                  "category": "historical",
+                  "coords": [
+                        89.118743,
+                        23.901863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kushtia Municipality Museum",
+                  "text": "The Kushtia Municipality Museum is a local institution preserving history in Kushtia.",
+                  "category": "museum",
+                  "coords": [
+                        89.122328,
+                        23.911288
+                  ]
+            },
+            {
+                  "name": "Thakur Lodge",
+                  "text": "Thakur Lodge is a local museum providing cultural insights in Kushtia.",
+                  "category": "museum",
+                  "coords": [
+                        89.146212,
+                        23.901613
+                  ]
+            },
+            {
+                  "name": "Shahid Minar Kushtia",
+                  "text": "Shahid Minar Kushtia is a prominent memorial monument located in Kushtia.",
+                  "category": "historical",
+                  "coords": [
+                        89.118743,
+                        23.901863
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-D",
     coords: [89.1220, 23.9013],
@@ -619,7 +1240,124 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "jessore-cities-v2",
+    id: "jessore-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shisu park,Jessore",
+                  "text": "Der Shisu park,Jessore ist ein lokaler Freizeitpark in der Stadt Jessore.",
+                  "category": "recreational",
+                  "coords": [
+                        89.20046,
+                        23.170409
+                  ]
+            },
+            {
+                  "name": "District Art Academy",
+                  "text": "Die District Art Academy ist ein bedeutendes Kunstzentrum in Jessore.",
+                  "category": "cultural",
+                  "coords": [
+                        89.205326,
+                        23.164529
+                  ]
+            },
+            {
+                  "name": "July_Memorial",
+                  "text": "Das July_Memorial ist ein lokales Denkmal in der Stadt Jessore.",
+                  "category": "historical",
+                  "coords": [
+                        89.207448,
+                        23.167503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shisu park,Jessore",
+                  "text": "A Shisu park,Jessore egy helyi vidámpark Jessore városában.",
+                  "category": "recreational",
+                  "coords": [
+                        89.20046,
+                        23.170409
+                  ]
+            },
+            {
+                  "name": "District Art Academy",
+                  "text": "A District Art Academy egy jelentős művészeti központ Jessore városában.",
+                  "category": "cultural",
+                  "coords": [
+                        89.205326,
+                        23.164529
+                  ]
+            },
+            {
+                  "name": "July_Memorial",
+                  "text": "A July_Memorial egy helyi emlékmű Jessore városában.",
+                  "category": "historical",
+                  "coords": [
+                        89.207448,
+                        23.167503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shisu park,Jessore",
+                  "text": "Shisu park,Jessore este un parc tematic local situat în orașul Jessore.",
+                  "category": "recreational",
+                  "coords": [
+                        89.20046,
+                        23.170409
+                  ]
+            },
+            {
+                  "name": "District Art Academy",
+                  "text": "District Art Academy este un centru de arte proeminent situat în Jessore.",
+                  "category": "cultural",
+                  "coords": [
+                        89.205326,
+                        23.164529
+                  ]
+            },
+            {
+                  "name": "July_Memorial",
+                  "text": "July_Memorial este un monument local situat în orașul Jessore.",
+                  "category": "historical",
+                  "coords": [
+                        89.207448,
+                        23.167503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shisu park,Jessore",
+                  "text": "Shisu park,Jessore is a local theme park situated in the city of Jessore.",
+                  "category": "recreational",
+                  "coords": [
+                        89.20046,
+                        23.170409
+                  ]
+            },
+            {
+                  "name": "District Art Academy",
+                  "text": "The District Art Academy is a prominent arts centre located in Jessore.",
+                  "category": "cultural",
+                  "coords": [
+                        89.205326,
+                        23.164529
+                  ]
+            },
+            {
+                  "name": "July_Memorial",
+                  "text": "July_Memorial is a local monument situated in the city of Jessore.",
+                  "category": "historical",
+                  "coords": [
+                        89.207448,
+                        23.167503
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-D",
     coords: [89.2205, 23.1634],
@@ -670,7 +1408,268 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "coxs-bazar-cities-v2",
+    id: "coxs-bazar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cox's Bazar Lighthouse",
+                  "text": "Der Leuchtturm von Cox's Bazar bietet einen Blick über die Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        91.978306,
+                        21.431389
+                  ]
+            },
+            {
+                  "name": "গনপূর্ত পার্ক",
+                  "text": "Der PWD Park ist ein beliebter Erholungsort in Cox's Bazar.",
+                  "category": "recreational",
+                  "coords": [
+                        91.981899,
+                        21.421711
+                  ]
+            },
+            {
+                  "name": "Parjatan Swimming Pool",
+                  "text": "Das Parjatan-Schwimmbad ist ein Wasserpark in Cox's Bazar.",
+                  "category": "recreational",
+                  "coords": [
+                        91.97177,
+                        21.434928
+                  ]
+            },
+            {
+                  "name": "Sugondha Sea Beach",
+                  "text": "Sugondha Sea Beach ist ein bekannter Strand in Cox's Bazar.",
+                  "category": "recreational",
+                  "coords": [
+                        91.954771,
+                        21.450545
+                  ]
+            },
+            {
+                  "name": "হিমছড়ি জাতীয় উদ্যান",
+                  "text": "Der Himchari-Nationalpark ist ein geschütztes Naturgebiet bei Cox's Bazar.",
+                  "category": "natural",
+                  "coords": [
+                        92.044235,
+                        21.375515
+                  ]
+            },
+            {
+                  "name": "Cox Bazar Beach",
+                  "text": "Der Strand von Cox's Bazar ist eine der Hauptattraktionen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        91.970534,
+                        21.428067
+                  ]
+            },
+            {
+                  "name": "Cox's Bazar Cultural Center",
+                  "text": "Das Kulturzentrum von Cox's Bazar fördert lokale Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        91.976118,
+                        21.428579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cox's Bazar Lighthouse",
+                  "text": "A Cox's Bazar-i világítótorony kilátást nyújt a tengerpartra.",
+                  "category": "landmark",
+                  "coords": [
+                        91.978306,
+                        21.431389
+                  ]
+            },
+            {
+                  "name": "গনপূর্ত পার্ক",
+                  "text": "A PWD Park egy népszerű kikapcsolódási hely Cox's Bazarban.",
+                  "category": "recreational",
+                  "coords": [
+                        91.981899,
+                        21.421711
+                  ]
+            },
+            {
+                  "name": "Parjatan Swimming Pool",
+                  "text": "A Parjatan uszoda egy vízi élménypark Cox's Bazarban.",
+                  "category": "recreational",
+                  "coords": [
+                        91.97177,
+                        21.434928
+                  ]
+            },
+            {
+                  "name": "Sugondha Sea Beach",
+                  "text": "A Sugondha tengerpart egy ismert strand Cox's Bazarban.",
+                  "category": "recreational",
+                  "coords": [
+                        91.954771,
+                        21.450545
+                  ]
+            },
+            {
+                  "name": "হিমছড়ি জাতীয় উদ্যান",
+                  "text": "A Himchari Nemzeti Park egy védett természeti terület Cox's Bazar közelében.",
+                  "category": "natural",
+                  "coords": [
+                        92.044235,
+                        21.375515
+                  ]
+            },
+            {
+                  "name": "Cox Bazar Beach",
+                  "text": "Cox's Bazar tengerpartja a város egyik fő látnivalója.",
+                  "category": "landmark",
+                  "coords": [
+                        91.970534,
+                        21.428067
+                  ]
+            },
+            {
+                  "name": "Cox's Bazar Cultural Center",
+                  "text": "A Cox's Bazar-i Kulturális Központ támogatja a helyi művészeteket.",
+                  "category": "cultural",
+                  "coords": [
+                        91.976118,
+                        21.428579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cox's Bazar Lighthouse",
+                  "text": "Farul din Cox's Bazar oferă o vedere asupra coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        91.978306,
+                        21.431389
+                  ]
+            },
+            {
+                  "name": "গনপূর্ত পার্ক",
+                  "text": "Parcul PWD este un loc de recreere popular în Cox's Bazar.",
+                  "category": "recreational",
+                  "coords": [
+                        91.981899,
+                        21.421711
+                  ]
+            },
+            {
+                  "name": "Parjatan Swimming Pool",
+                  "text": "Piscina Parjatan este un parc acvatic în Cox's Bazar.",
+                  "category": "recreational",
+                  "coords": [
+                        91.97177,
+                        21.434928
+                  ]
+            },
+            {
+                  "name": "Sugondha Sea Beach",
+                  "text": "Plaja Sugondha este o plajă cunoscută în Cox's Bazar.",
+                  "category": "recreational",
+                  "coords": [
+                        91.954771,
+                        21.450545
+                  ]
+            },
+            {
+                  "name": "হিমছড়ি জাতীয় উদ্যান",
+                  "text": "Parcul Național Himchari este o zonă naturală protejată lângă Cox's Bazar.",
+                  "category": "natural",
+                  "coords": [
+                        92.044235,
+                        21.375515
+                  ]
+            },
+            {
+                  "name": "Cox Bazar Beach",
+                  "text": "Plaja din Cox's Bazar este una dintre principalele atracții ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        91.970534,
+                        21.428067
+                  ]
+            },
+            {
+                  "name": "Cox's Bazar Cultural Center",
+                  "text": "Centrul Cultural din Cox's Bazar promovează artele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        91.976118,
+                        21.428579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cox's Bazar Lighthouse",
+                  "text": "The Cox's Bazar Lighthouse offers a view over the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        91.978306,
+                        21.431389
+                  ]
+            },
+            {
+                  "name": "PWD Park",
+                  "text": "PWD Park is a popular recreational area in Cox's Bazar.",
+                  "category": "recreational",
+                  "coords": [
+                        91.981899,
+                        21.421711
+                  ]
+            },
+            {
+                  "name": "Parjatan Swimming Pool",
+                  "text": "The Parjatan Swimming Pool is a water park in Cox's Bazar.",
+                  "category": "recreational",
+                  "coords": [
+                        91.97177,
+                        21.434928
+                  ]
+            },
+            {
+                  "name": "Sugondha Sea Beach",
+                  "text": "Sugondha Sea Beach is a well-known beach in Cox's Bazar.",
+                  "category": "recreational",
+                  "coords": [
+                        91.954771,
+                        21.450545
+                  ]
+            },
+            {
+                  "name": "Himchari National Park",
+                  "text": "Himchari National Park is a protected nature area near Cox's Bazar.",
+                  "category": "natural",
+                  "coords": [
+                        92.044235,
+                        21.375515
+                  ]
+            },
+            {
+                  "name": "Cox Bazar Beach",
+                  "text": "Cox Bazar Beach is one of the city's main attractions.",
+                  "category": "landmark",
+                  "coords": [
+                        91.970534,
+                        21.428067
+                  ]
+            },
+            {
+                  "name": "Cox's Bazar Cultural Center",
+                  "text": "The Cox's Bazar Cultural Center promotes local arts.",
+                  "category": "cultural",
+                  "coords": [
+                        91.976118,
+                        21.428579
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-B",
     coords: [91.9772, 21.4272],
@@ -772,7 +1771,196 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "dinajpur-cities-v2",
+    id: "dinajpur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dinajpur Museum",
+                  "text": "Das Dinajpur Museum ist eine Einrichtung zur Bewahrung der lokalen Geschichte und Kultur in Dinajpur.",
+                  "category": "museum",
+                  "coords": [
+                        88.63563,
+                        25.628363
+                  ]
+            },
+            {
+                  "name": "Law College More",
+                  "text": "Diese lokale Attraktion und dieses Wahrzeichen befinden sich in Dinajpur.",
+                  "category": "landmark",
+                  "coords": [
+                        88.640669,
+                        25.628098
+                  ]
+            },
+            {
+                  "name": "মহারাজা মোড়",
+                  "text": "Dieses lokale Denkmal und dieser bemerkenswerte Knotenpunkt befinden sich in Dinajpur.",
+                  "category": "historical",
+                  "coords": [
+                        88.649177,
+                        25.632391
+                  ]
+            },
+            {
+                  "name": "Map of Southeast Asia",
+                  "text": "Map of Southeast Asia ist eine interessante lokale Attraktion in der Stadt Dinajpur.",
+                  "category": "landmark",
+                  "coords": [
+                        88.637441,
+                        25.624825
+                  ]
+            },
+            {
+                  "name": "Dinajpur Shahid Minar",
+                  "text": "Das Dinajpur Shahid Minar ist ein bedeutendes lokales Denkmal in Dinajpur.",
+                  "category": "historical",
+                  "coords": [
+                        88.634372,
+                        25.62271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dinajpur Museum",
+                  "text": "A Dinajpur Múzeum a helyi történelmet és kultúrát őrző intézmény Dinajpur városában.",
+                  "category": "museum",
+                  "coords": [
+                        88.63563,
+                        25.628363
+                  ]
+            },
+            {
+                  "name": "Law College More",
+                  "text": "Ez a helyi látványosság és nevezetesség Dinajpur városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        88.640669,
+                        25.628098
+                  ]
+            },
+            {
+                  "name": "মহারাজা মোড়",
+                  "text": "Ez a helyi emlékmű és jelentős útkereszteződés Dinajpur városában található.",
+                  "category": "historical",
+                  "coords": [
+                        88.649177,
+                        25.632391
+                  ]
+            },
+            {
+                  "name": "Map of Southeast Asia",
+                  "text": "A Map of Southeast Asia egy érdekes helyi látványosság Dinajpur városában.",
+                  "category": "landmark",
+                  "coords": [
+                        88.637441,
+                        25.624825
+                  ]
+            },
+            {
+                  "name": "Dinajpur Shahid Minar",
+                  "text": "A Dinajpur Shahid Minar egy jelentős helyi emlékmű Dinajpur városában.",
+                  "category": "historical",
+                  "coords": [
+                        88.634372,
+                        25.62271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dinajpur Museum",
+                  "text": "Muzeul Dinajpur este o instituție care conservă istoria și cultura locală în Dinajpur.",
+                  "category": "museum",
+                  "coords": [
+                        88.63563,
+                        25.628363
+                  ]
+            },
+            {
+                  "name": "Law College More",
+                  "text": "Această atracție și reper local se află în Dinajpur.",
+                  "category": "landmark",
+                  "coords": [
+                        88.640669,
+                        25.628098
+                  ]
+            },
+            {
+                  "name": "মহারাজা মোড়",
+                  "text": "Acest monument local și intersecție notabilă este situat în Dinajpur.",
+                  "category": "historical",
+                  "coords": [
+                        88.649177,
+                        25.632391
+                  ]
+            },
+            {
+                  "name": "Map of Southeast Asia",
+                  "text": "Map of Southeast Asia este o atracție locală interesantă aflată în orașul Dinajpur.",
+                  "category": "landmark",
+                  "coords": [
+                        88.637441,
+                        25.624825
+                  ]
+            },
+            {
+                  "name": "Dinajpur Shahid Minar",
+                  "text": "Dinajpur Shahid Minar este un monument local semnificativ situat în Dinajpur.",
+                  "category": "historical",
+                  "coords": [
+                        88.634372,
+                        25.62271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dinajpur Museum",
+                  "text": "Dinajpur Museum is an institution preserving local history and culture in Dinajpur.",
+                  "category": "museum",
+                  "coords": [
+                        88.63563,
+                        25.628363
+                  ]
+            },
+            {
+                  "name": "আইন কলেজ মোড়",
+                  "text": "This local attraction and landmark is located in Dinajpur.",
+                  "category": "landmark",
+                  "coords": [
+                        88.640669,
+                        25.628098
+                  ]
+            },
+            {
+                  "name": "মহারাজা মোড়",
+                  "text": "This local monument and notable intersection is situated in Dinajpur.",
+                  "category": "historical",
+                  "coords": [
+                        88.649177,
+                        25.632391
+                  ]
+            },
+            {
+                  "name": "Map of Southeast Asia",
+                  "text": "Map of Southeast Asia is an interesting local attraction found in the city of Dinajpur.",
+                  "category": "landmark",
+                  "coords": [
+                        88.637441,
+                        25.624825
+                  ]
+            },
+            {
+                  "name": "Dinajpur Shahid Minar",
+                  "text": "Dinajpur Shahid Minar is a significant local monument located in Dinajpur.",
+                  "category": "historical",
+                  "coords": [
+                        88.634372,
+                        25.62271
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-F",
     coords: [88.6258, 25.6217],
@@ -874,7 +2062,88 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "tangail-cities-v2",
+    id: "tangail-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shilpokola Academy",
+                  "text": "Die Shilpokola Academy ist ein Zentrum für Kunst und Kultur in Tangail.",
+                  "category": "cultural",
+                  "coords": [
+                        89.922944,
+                        24.263551
+                  ]
+            },
+            {
+                  "name": "Shahid Minar",
+                  "text": "Das Shahid Minar ist ein Gedenkmonument in der Stadt Tangail.",
+                  "category": "historical",
+                  "coords": [
+                        89.914375,
+                        24.250517
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shilpokola Academy",
+                  "text": "A Shilpokola Academy egy művészeti és kulturális központ Tangail városában.",
+                  "category": "cultural",
+                  "coords": [
+                        89.922944,
+                        24.263551
+                  ]
+            },
+            {
+                  "name": "Shahid Minar",
+                  "text": "A Shahid Minar egy emlékmű Tangail városában.",
+                  "category": "historical",
+                  "coords": [
+                        89.914375,
+                        24.250517
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shilpokola Academy",
+                  "text": "Academia Shilpokola este un centru pentru arte și cultură situat în Tangail.",
+                  "category": "cultural",
+                  "coords": [
+                        89.922944,
+                        24.263551
+                  ]
+            },
+            {
+                  "name": "Shahid Minar",
+                  "text": "Shahid Minar este un monument memorial situat în orașul Tangail.",
+                  "category": "historical",
+                  "coords": [
+                        89.914375,
+                        24.250517
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shilpokola Academy",
+                  "text": "The Shilpokola Academy is a center for arts and culture situated in Tangail.",
+                  "category": "cultural",
+                  "coords": [
+                        89.922944,
+                        24.263551
+                  ]
+            },
+            {
+                  "name": "Shahid Minar",
+                  "text": "The Shahid Minar is a memorial monument located in the city of Tangail.",
+                  "category": "historical",
+                  "coords": [
+                        89.914375,
+                        24.250517
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-C",
     coords: [89.9231, 24.2513],
@@ -925,7 +2194,88 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "sirajganj-cities-v2",
+    id: "sirajganj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "শহীদ মিনার",
+                  "text": "Das Shahid Minar ist ein bemerkenswertes öffentliches Denkmal in Sirajganj.",
+                  "category": "historical",
+                  "coords": [
+                        89.702363,
+                        24.452553
+                  ]
+            },
+            {
+                  "name": "Shaheed Minar",
+                  "text": "Das Shaheed Minar ist ein bedeutendes historisches Denkmal in Sirajganj.",
+                  "category": "historical",
+                  "coords": [
+                        89.708578,
+                        24.463226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "শহীদ মিনার",
+                  "text": "A Shahid Minar egy nevezetes nyilvános emlékmű Sirajganj városában.",
+                  "category": "historical",
+                  "coords": [
+                        89.702363,
+                        24.452553
+                  ]
+            },
+            {
+                  "name": "Shaheed Minar",
+                  "text": "A Shaheed Minar egy jelentős történelmi emlékmű Sirajganj városában.",
+                  "category": "historical",
+                  "coords": [
+                        89.708578,
+                        24.463226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "শহীদ মিনার",
+                  "text": "Shahid Minar este un monument public notabil situat în Sirajganj.",
+                  "category": "historical",
+                  "coords": [
+                        89.702363,
+                        24.452553
+                  ]
+            },
+            {
+                  "name": "Shaheed Minar",
+                  "text": "Shaheed Minar este un monument istoric semnificativ situat în Sirajganj.",
+                  "category": "historical",
+                  "coords": [
+                        89.708578,
+                        24.463226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shahid Minar",
+                  "text": "Shahid Minar is a notable public monument situated in Sirajganj.",
+                  "category": "historical",
+                  "coords": [
+                        89.702363,
+                        24.452553
+                  ]
+            },
+            {
+                  "name": "Shaheed Minar",
+                  "text": "Shaheed Minar is a significant historical monument located in Sirajganj.",
+                  "category": "historical",
+                  "coords": [
+                        89.708578,
+                        24.463226
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-E",
     coords: [89.7000, 24.4534],
@@ -976,7 +2326,88 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "feni-cities-v2",
+    id: "feni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "শহীদ মিনার",
+                  "text": "Das Shahid Minar ist ein Denkmal in Feni.",
+                  "category": "historical",
+                  "coords": [
+                        91.399299,
+                        23.010256
+                  ]
+            },
+            {
+                  "name": "Liberation War cemetary",
+                  "text": "Der Friedhof der Befreiungskrieger ist ein Denkmal in Feni.",
+                  "category": "historical",
+                  "coords": [
+                        91.40083,
+                        23.010645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "শহীদ মিনার",
+                  "text": "A Shahid Minar egy emlékmű Feniben.",
+                  "category": "historical",
+                  "coords": [
+                        91.399299,
+                        23.010256
+                  ]
+            },
+            {
+                  "name": "Liberation War cemetary",
+                  "text": "A felszabadító háború temetője egy emlékmű Feniben.",
+                  "category": "historical",
+                  "coords": [
+                        91.40083,
+                        23.010645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "শহীদ মিনার",
+                  "text": "Shahid Minar este un monument în Feni.",
+                  "category": "historical",
+                  "coords": [
+                        91.399299,
+                        23.010256
+                  ]
+            },
+            {
+                  "name": "Liberation War cemetary",
+                  "text": "Cimitirul războiului de eliberare este un monument în Feni.",
+                  "category": "historical",
+                  "coords": [
+                        91.40083,
+                        23.010645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shahid Minar",
+                  "text": "The Shahid Minar is a monument in Feni.",
+                  "category": "historical",
+                  "coords": [
+                        91.399299,
+                        23.010256
+                  ]
+            },
+            {
+                  "name": "Liberation War cemetary",
+                  "text": "The Liberation War cemetary is a monument in Feni.",
+                  "category": "historical",
+                  "coords": [
+                        91.40083,
+                        23.010645
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-B",
     coords: [91.4000, 23.0159],
@@ -1078,7 +2509,88 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "naogaon-cities-v2",
+    id: "naogaon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shreyan's House",
+                  "text": "Shreyan's House ist ein großes, schlossähnliches Wohngebäude in Naogaon.",
+                  "category": "castle",
+                  "coords": [
+                        88.947229,
+                        24.824313
+                  ]
+            },
+            {
+                  "name": "Central Shaheed Minar-কেন্দ্রিয় শহীদ মিনার",
+                  "text": "Dieses zentrale Gedenkmonument ist ein wichtiges kulturelles Wahrzeichen in Naogaon.",
+                  "category": "historical",
+                  "coords": [
+                        88.939934,
+                        24.813556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shreyan's House",
+                  "text": "A Shreyan's House egy nagy, kastélyszerű lakóépület Naogaon városában.",
+                  "category": "castle",
+                  "coords": [
+                        88.947229,
+                        24.824313
+                  ]
+            },
+            {
+                  "name": "Central Shaheed Minar-কেন্দ্রিয় শহীদ মিনার",
+                  "text": "Ez a központi emlékmű egy fontos kulturális nevezetesség Naogaon városában.",
+                  "category": "historical",
+                  "coords": [
+                        88.939934,
+                        24.813556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shreyan's House",
+                  "text": "Shreyan's House este o clădire rezidențială mare, asemănătoare unui castel, aflată în Naogaon.",
+                  "category": "castle",
+                  "coords": [
+                        88.947229,
+                        24.824313
+                  ]
+            },
+            {
+                  "name": "Central Shaheed Minar-কেন্দ্রিয় শহীদ মিনার",
+                  "text": "Acest monument comemorativ central este un reper cultural important în Naogaon.",
+                  "category": "historical",
+                  "coords": [
+                        88.939934,
+                        24.813556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shreyan's House",
+                  "text": "Shreyan's House is a large, castle-like residential building found in Naogaon.",
+                  "category": "castle",
+                  "coords": [
+                        88.947229,
+                        24.824313
+                  ]
+            },
+            {
+                  "name": "Central Shaheed Minar-কেন্দ্রিয় শহীদ মিনার",
+                  "text": "This central memorial monument is an important cultural landmark in Naogaon.",
+                  "category": "historical",
+                  "coords": [
+                        88.939934,
+                        24.813556
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-E",
     coords: [88.9400, 24.8100],
@@ -1180,7 +2692,52 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "faridpur-cities-v2",
+    id: "faridpur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ফরিদপুর জাদুঘর",
+                  "text": "Das Faridpur Museum ist eine lokale historische Einrichtung in Faridpur.",
+                  "category": "museum",
+                  "coords": [
+                        89.842378,
+                        23.605226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ফরিদপুর জাদুঘর",
+                  "text": "A Faridpur Múzeum egy helyi történelmi intézmény Faridpur városában.",
+                  "category": "museum",
+                  "coords": [
+                        89.842378,
+                        23.605226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ফরিদপুর জাদুঘর",
+                  "text": "Muzeul Faridpur este o instituție locală dedicată istoriei în Faridpur.",
+                  "category": "museum",
+                  "coords": [
+                        89.842378,
+                        23.605226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faridpur Museum",
+                  "text": "The Faridpur Museum is a local institution dedicated to history in Faridpur.",
+                  "category": "museum",
+                  "coords": [
+                        89.842378,
+                        23.605226
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-C",
     coords: [89.8400, 23.6000],
@@ -1231,7 +2788,52 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "saidpur-cities-v2",
+    id: "saidpur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saidpur Bypass mor",
+                  "text": "Das Saidpur Bypass mor ist ein markantes Denkmal an einer Kreuzung in Saidpur.",
+                  "category": "historical",
+                  "coords": [
+                        88.916129,
+                        25.780873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saidpur Bypass mor",
+                  "text": "A Saidpur Bypass mor egy tájékozódási pontként szolgáló emlékmű egy útkereszteződésnél Saidpur városában.",
+                  "category": "historical",
+                  "coords": [
+                        88.916129,
+                        25.780873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saidpur Bypass mor",
+                  "text": "Saidpur Bypass mor este un monument reper situat la o intersecție din Saidpur.",
+                  "category": "historical",
+                  "coords": [
+                        88.916129,
+                        25.780873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saidpur Bypass mor",
+                  "text": "Saidpur Bypass mor is a landmark monument located at an intersection in Saidpur.",
+                  "category": "historical",
+                  "coords": [
+                        88.916129,
+                        25.780873
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-F",
     coords: [88.8917, 25.7778],
@@ -1282,7 +2884,52 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "narsingdi-cities-v2",
+    id: "narsingdi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Narsingdi Govt. College Shadid Minar",
+                  "text": "Das Shahid Minar des Narsingdi Govt. College ist ein Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        90.723356,
+                        23.933496
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Narsingdi Govt. College Shadid Minar",
+                  "text": "A Narsingdi Govt. College Shahid Minarja egy emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        90.723356,
+                        23.933496
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Narsingdi Govt. College Shadid Minar",
+                  "text": "Shahid Minar al Colegiului Guvernamental Narsingdi este un monument.",
+                  "category": "historical",
+                  "coords": [
+                        90.723356,
+                        23.933496
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Narsingdi Govt. College Shadid Minar",
+                  "text": "The Narsingdi Govt. College Shahid Minar is a monument.",
+                  "category": "historical",
+                  "coords": [
+                        90.723356,
+                        23.933496
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-C",
     coords: [90.7333, 23.9167],
@@ -1333,7 +2980,88 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "chandpur-cities-v2",
+    id: "chandpur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "রক্তধারা",
+                  "text": "Roktodhara ist ein Denkmal in Chandpur, das an den Befreiungskrieg erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        90.640273,
+                        23.23087
+                  ]
+            },
+            {
+                  "name": "অঙ্গীকার",
+                  "text": "Ongikar ist ein öffentliches Denkmal in der Stadt Chandpur.",
+                  "category": "historical",
+                  "coords": [
+                        90.65846,
+                        23.22638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "রক্তধারা",
+                  "text": "A Roktodhara egy, a függetlenségi háborúnak emléket állító emlékmű Chandpur városában.",
+                  "category": "historical",
+                  "coords": [
+                        90.640273,
+                        23.23087
+                  ]
+            },
+            {
+                  "name": "অঙ্গীকার",
+                  "text": "Az Ongikar egy köztéri emlékmű Chandpur városában.",
+                  "category": "historical",
+                  "coords": [
+                        90.65846,
+                        23.22638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "রক্তধারা",
+                  "text": "Roktodhara este un monument de comemorare a Războiului de Eliberare situat în Chandpur.",
+                  "category": "historical",
+                  "coords": [
+                        90.640273,
+                        23.23087
+                  ]
+            },
+            {
+                  "name": "অঙ্গীকার",
+                  "text": "Ongikar este un monument public situat în orașul Chandpur.",
+                  "category": "historical",
+                  "coords": [
+                        90.65846,
+                        23.22638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roktodhara",
+                  "text": "Roktodhara is a monument commemorating the Liberation War located in Chandpur.",
+                  "category": "historical",
+                  "coords": [
+                        90.640273,
+                        23.23087
+                  ]
+            },
+            {
+                  "name": "Ongikar",
+                  "text": "Ongikar is a public monument situated in the city of Chandpur.",
+                  "category": "historical",
+                  "coords": [
+                        90.65846,
+                        23.22638
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-B",
     coords: [90.6500, 23.2333],
@@ -1384,7 +3112,88 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "bhola-cities-v2",
+    id: "bhola-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Central Shahid Minar",
+                  "text": "Das Central Shahid Minar ist ein bemerkenswertes Gedenkmonument in Bhola.",
+                  "category": "historical",
+                  "coords": [
+                        90.641988,
+                        22.689028
+                  ]
+            },
+            {
+                  "name": "Bhola Govt. High School Shaheed Minar",
+                  "text": "Dieses Gedenkmonument befindet sich auf dem Gelände der staatlichen Oberschule in Bhola.",
+                  "category": "historical",
+                  "coords": [
+                        90.643314,
+                        22.687789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Central Shahid Minar",
+                  "text": "A Central Shahid Minar egy nevezetes megemlékezési emlékmű Bhola városában.",
+                  "category": "historical",
+                  "coords": [
+                        90.641988,
+                        22.689028
+                  ]
+            },
+            {
+                  "name": "Bhola Govt. High School Shaheed Minar",
+                  "text": "Ez az emlékmű a bholai állami középiskola területén található.",
+                  "category": "historical",
+                  "coords": [
+                        90.643314,
+                        22.687789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Central Shahid Minar",
+                  "text": "Central Shahid Minar este un monument comemorativ notabil situat în Bhola.",
+                  "category": "historical",
+                  "coords": [
+                        90.641988,
+                        22.689028
+                  ]
+            },
+            {
+                  "name": "Bhola Govt. High School Shaheed Minar",
+                  "text": "Acest monument comemorativ este situat pe terenul liceului guvernamental din Bhola.",
+                  "category": "historical",
+                  "coords": [
+                        90.643314,
+                        22.687789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Central Shahid Minar",
+                  "text": "Central Shahid Minar is a notable commemorative monument situated in Bhola.",
+                  "category": "historical",
+                  "coords": [
+                        90.641988,
+                        22.689028
+                  ]
+            },
+            {
+                  "name": "Bhola Govt. High School Shaheed Minar",
+                  "text": "This memorial monument is located on the grounds of the government high school in Bhola.",
+                  "category": "historical",
+                  "coords": [
+                        90.643314,
+                        22.687789
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-A",
     coords: [90.6500, 22.6833],
@@ -1435,7 +3244,196 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
   },
   {
-    id: "jhenaidah-cities-v2",
+    id: "jhenaidah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miar Dalan Zamindar Bari",
+                  "text": "Miar Dalan Zamindar Bari ist ein historischer Burgkomplex in Jhenaidah.",
+                  "category": "castle",
+                  "coords": [
+                        89.185046,
+                        23.562169
+                  ]
+            },
+            {
+                  "name": "Jhenidah Somobai Somity",
+                  "text": "Das Jhenaidah Somobai Somity ist ein Museum in Jhenaidah.",
+                  "category": "museum",
+                  "coords": [
+                        89.173731,
+                        23.551099
+                  ]
+            },
+            {
+                  "name": "Sheikh Mujib Monument শেখ মুজিব মনুমেন্ট",
+                  "text": "Das Sheikh-Mujib-Denkmal ist eine Gedenkstätte in Jhenaidah.",
+                  "category": "historical",
+                  "coords": [
+                        89.165046,
+                        23.545483
+                  ]
+            },
+            {
+                  "name": "প্রেরণা ৭১",
+                  "text": "Prerona 71 ist ein Denkmal in Jhenaidah.",
+                  "category": "historical",
+                  "coords": [
+                        89.190526,
+                        23.542372
+                  ]
+            },
+            {
+                  "name": "Paira Chottor",
+                  "text": "Paira Chottor ist ein bekanntes Denkmal in Jhenaidah.",
+                  "category": "historical",
+                  "coords": [
+                        89.172609,
+                        23.54498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miar Dalan Zamindar Bari",
+                  "text": "A Miar Dalan Zamindar Bari egy történelmi várkastély Jhenaidahban.",
+                  "category": "castle",
+                  "coords": [
+                        89.185046,
+                        23.562169
+                  ]
+            },
+            {
+                  "name": "Jhenidah Somobai Somity",
+                  "text": "A Jhenaidah Somobai Somity egy múzeum Jhenaidahban.",
+                  "category": "museum",
+                  "coords": [
+                        89.173731,
+                        23.551099
+                  ]
+            },
+            {
+                  "name": "Sheikh Mujib Monument শেখ মুজিব মনুমেন্ট",
+                  "text": "A Sheikh-Mujib-emlékmű egy emlékhely Jhenaidahban.",
+                  "category": "historical",
+                  "coords": [
+                        89.165046,
+                        23.545483
+                  ]
+            },
+            {
+                  "name": "প্রেরণা ৭১",
+                  "text": "A Prerona 71 egy emlékmű Jhenaidahban.",
+                  "category": "historical",
+                  "coords": [
+                        89.190526,
+                        23.542372
+                  ]
+            },
+            {
+                  "name": "Paira Chottor",
+                  "text": "A Paira Chottor egy ismert emlékmű Jhenaidahban.",
+                  "category": "historical",
+                  "coords": [
+                        89.172609,
+                        23.54498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miar Dalan Zamindar Bari",
+                  "text": "Miar Dalan Zamindar Bari este un complex istoric de tip castel în Jhenaidah.",
+                  "category": "castle",
+                  "coords": [
+                        89.185046,
+                        23.562169
+                  ]
+            },
+            {
+                  "name": "Jhenidah Somobai Somity",
+                  "text": "Jhenaidah Somobai Somity este un muzeu în Jhenaidah.",
+                  "category": "museum",
+                  "coords": [
+                        89.173731,
+                        23.551099
+                  ]
+            },
+            {
+                  "name": "Sheikh Mujib Monument শেখ মুজিব মনুমেন্ট",
+                  "text": "Monumentul Sheikh Mujib este un loc comemorativ în Jhenaidah.",
+                  "category": "historical",
+                  "coords": [
+                        89.165046,
+                        23.545483
+                  ]
+            },
+            {
+                  "name": "প্রেরণা ৭১",
+                  "text": "Prerona 71 este un monument în Jhenaidah.",
+                  "category": "historical",
+                  "coords": [
+                        89.190526,
+                        23.542372
+                  ]
+            },
+            {
+                  "name": "Paira Chottor",
+                  "text": "Paira Chottor este un monument cunoscut în Jhenaidah.",
+                  "category": "historical",
+                  "coords": [
+                        89.172609,
+                        23.54498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miar Dalan Zamindar Bari",
+                  "text": "Miar Dalan Zamindar Bari is a historic castle complex in Jhenaidah.",
+                  "category": "castle",
+                  "coords": [
+                        89.185046,
+                        23.562169
+                  ]
+            },
+            {
+                  "name": "Jhenidah Somobai Somity",
+                  "text": "The Jhenaidah Somobai Somity is a museum in Jhenaidah.",
+                  "category": "museum",
+                  "coords": [
+                        89.173731,
+                        23.551099
+                  ]
+            },
+            {
+                  "name": "Sheikh Mujib Monument শেখ মুজিব মনুমেন্ট",
+                  "text": "The Sheikh Mujib Monument is a memorial in Jhenaidah.",
+                  "category": "historical",
+                  "coords": [
+                        89.165046,
+                        23.545483
+                  ]
+            },
+            {
+                  "name": "প্রেরণা ৭১",
+                  "text": "Prerona 71 is a monument in Jhenaidah.",
+                  "category": "historical",
+                  "coords": [
+                        89.190526,
+                        23.542372
+                  ]
+            },
+            {
+                  "name": "Paira Chottor",
+                  "text": "Paira Chottor is a well-known monument in Jhenaidah.",
+                  "category": "historical",
+                  "coords": [
+                        89.172609,
+                        23.54498
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BD-D",
     coords: [89.1833, 23.5500],

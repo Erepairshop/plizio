@@ -623,7 +623,340 @@ en: [
     },
   },
   {
-id: "balikpapan-cities-v2",
+id: "balikpapan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Kodam VI/MLW",
+                  "text": "Museum Kodam VI/MLW ist ein Museum in Balikpapan.",
+                  "category": "museum",
+                  "coords": [
+                        116.817854,
+                        -1.234051
+                  ]
+            },
+            {
+                  "name": "Antasari",
+                  "text": "Antasari ist ein Theater in Balikpapan.",
+                  "category": "cultural",
+                  "coords": [
+                        116.837837,
+                        -1.274427
+                  ]
+            },
+            {
+                  "name": "Pantai Kemala",
+                  "text": "Kemala Beach ist ein Strand in Balikpapan.",
+                  "category": "recreational",
+                  "coords": [
+                        116.817237,
+                        -1.280946
+                  ]
+            },
+            {
+                  "name": "Pantai Monpera",
+                  "text": "Pantai Monpera ist ein Strand in Balikpapan.",
+                  "category": "recreational",
+                  "coords": [
+                        116.821298,
+                        -1.280119
+                  ]
+            },
+            {
+                  "name": "Dahor Heritage Balikpapan",
+                  "text": "Dahor Heritage Balikpapan ist ein Museum in Balikpapan.",
+                  "category": "museum",
+                  "coords": [
+                        116.825931,
+                        -1.235516
+                  ]
+            },
+            {
+                  "name": "Monumen Perjuangan Rakyat Balikpapan",
+                  "text": "Monumen Perjuangan Rakyat Balikpapan ist ein Denkmal in Balikpapan.",
+                  "category": "historical",
+                  "coords": [
+                        116.822274,
+                        -1.279117
+                  ]
+            },
+            {
+                  "name": "Rumah Panggung",
+                  "text": "Rumah Panggung ist eine Touristenattraktion in Balikpapan.",
+                  "category": "landmark",
+                  "coords": [
+                        116.814843,
+                        -1.276586
+                  ]
+            },
+            {
+                  "name": "Tugu AMD",
+                  "text": "Tugu AMD ist ein Denkmal in Balikpapan.",
+                  "category": "historical",
+                  "coords": [
+                        116.835088,
+                        -1.262901
+                  ]
+            },
+            {
+                  "name": "Griya Mulya Kost",
+                  "text": "Griya Mulya Kost ist eine Touristenattraktion in Balikpapan.",
+                  "category": "landmark",
+                  "coords": [
+                        116.836508,
+                        -1.257308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Kodam VI/MLW",
+                  "text": "A(z) Museum Kodam VI/MLW egy múzeum Balikpapan városában.",
+                  "category": "museum",
+                  "coords": [
+                        116.817854,
+                        -1.234051
+                  ]
+            },
+            {
+                  "name": "Antasari",
+                  "text": "A(z) Antasari egy színház Balikpapan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        116.837837,
+                        -1.274427
+                  ]
+            },
+            {
+                  "name": "Pantai Kemala",
+                  "text": "A(z) Kemala Beach egy tengerpart Balikpapan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        116.817237,
+                        -1.280946
+                  ]
+            },
+            {
+                  "name": "Pantai Monpera",
+                  "text": "A(z) Pantai Monpera egy tengerpart Balikpapan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        116.821298,
+                        -1.280119
+                  ]
+            },
+            {
+                  "name": "Dahor Heritage Balikpapan",
+                  "text": "A(z) Dahor Heritage Balikpapan egy múzeum Balikpapan városában.",
+                  "category": "museum",
+                  "coords": [
+                        116.825931,
+                        -1.235516
+                  ]
+            },
+            {
+                  "name": "Monumen Perjuangan Rakyat Balikpapan",
+                  "text": "A(z) Monumen Perjuangan Rakyat Balikpapan egy emlékmű Balikpapan városában.",
+                  "category": "historical",
+                  "coords": [
+                        116.822274,
+                        -1.279117
+                  ]
+            },
+            {
+                  "name": "Rumah Panggung",
+                  "text": "A(z) Rumah Panggung egy turisztikai látványosság Balikpapan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        116.814843,
+                        -1.276586
+                  ]
+            },
+            {
+                  "name": "Tugu AMD",
+                  "text": "A(z) Tugu AMD egy emlékmű Balikpapan városában.",
+                  "category": "historical",
+                  "coords": [
+                        116.835088,
+                        -1.262901
+                  ]
+            },
+            {
+                  "name": "Griya Mulya Kost",
+                  "text": "A(z) Griya Mulya Kost egy turisztikai látványosság Balikpapan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        116.836508,
+                        -1.257308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Kodam VI/MLW",
+                  "text": "Museum Kodam VI/MLW este un muzeu situat în Balikpapan.",
+                  "category": "museum",
+                  "coords": [
+                        116.817854,
+                        -1.234051
+                  ]
+            },
+            {
+                  "name": "Antasari",
+                  "text": "Antasari este un teatru situat în Balikpapan.",
+                  "category": "cultural",
+                  "coords": [
+                        116.837837,
+                        -1.274427
+                  ]
+            },
+            {
+                  "name": "Pantai Kemala",
+                  "text": "Kemala Beach este o plajă situată în Balikpapan.",
+                  "category": "recreational",
+                  "coords": [
+                        116.817237,
+                        -1.280946
+                  ]
+            },
+            {
+                  "name": "Pantai Monpera",
+                  "text": "Pantai Monpera este o plajă situată în Balikpapan.",
+                  "category": "recreational",
+                  "coords": [
+                        116.821298,
+                        -1.280119
+                  ]
+            },
+            {
+                  "name": "Dahor Heritage Balikpapan",
+                  "text": "Dahor Heritage Balikpapan este un muzeu situat în Balikpapan.",
+                  "category": "museum",
+                  "coords": [
+                        116.825931,
+                        -1.235516
+                  ]
+            },
+            {
+                  "name": "Monumen Perjuangan Rakyat Balikpapan",
+                  "text": "Monumen Perjuangan Rakyat Balikpapan este un monument situat în Balikpapan.",
+                  "category": "historical",
+                  "coords": [
+                        116.822274,
+                        -1.279117
+                  ]
+            },
+            {
+                  "name": "Rumah Panggung",
+                  "text": "Rumah Panggung este o atracție turistică situată în Balikpapan.",
+                  "category": "landmark",
+                  "coords": [
+                        116.814843,
+                        -1.276586
+                  ]
+            },
+            {
+                  "name": "Tugu AMD",
+                  "text": "Tugu AMD este un monument situat în Balikpapan.",
+                  "category": "historical",
+                  "coords": [
+                        116.835088,
+                        -1.262901
+                  ]
+            },
+            {
+                  "name": "Griya Mulya Kost",
+                  "text": "Griya Mulya Kost este o atracție turistică situată în Balikpapan.",
+                  "category": "landmark",
+                  "coords": [
+                        116.836508,
+                        -1.257308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Kodam VI/MLW",
+                  "text": "Museum Kodam VI/MLW is a museum located in Balikpapan.",
+                  "category": "museum",
+                  "coords": [
+                        116.817854,
+                        -1.234051
+                  ]
+            },
+            {
+                  "name": "Antasari",
+                  "text": "Antasari is a theatre located in Balikpapan.",
+                  "category": "cultural",
+                  "coords": [
+                        116.837837,
+                        -1.274427
+                  ]
+            },
+            {
+                  "name": "Kemala Beach",
+                  "text": "Kemala Beach is a beach located in Balikpapan.",
+                  "category": "recreational",
+                  "coords": [
+                        116.817237,
+                        -1.280946
+                  ]
+            },
+            {
+                  "name": "Pantai Monpera",
+                  "text": "Pantai Monpera is a beach located in Balikpapan.",
+                  "category": "recreational",
+                  "coords": [
+                        116.821298,
+                        -1.280119
+                  ]
+            },
+            {
+                  "name": "Dahor Heritage Balikpapan",
+                  "text": "Dahor Heritage Balikpapan is a museum located in Balikpapan.",
+                  "category": "museum",
+                  "coords": [
+                        116.825931,
+                        -1.235516
+                  ]
+            },
+            {
+                  "name": "Monumen Perjuangan Rakyat Balikpapan",
+                  "text": "Monumen Perjuangan Rakyat Balikpapan is a monument located in Balikpapan.",
+                  "category": "historical",
+                  "coords": [
+                        116.822274,
+                        -1.279117
+                  ]
+            },
+            {
+                  "name": "Rumah Panggung",
+                  "text": "Rumah Panggung is a tourist attraction located in Balikpapan.",
+                  "category": "landmark",
+                  "coords": [
+                        116.814843,
+                        -1.276586
+                  ]
+            },
+            {
+                  "name": "Tugu AMD",
+                  "text": "Tugu AMD is a monument located in Balikpapan.",
+                  "category": "historical",
+                  "coords": [
+                        116.835088,
+                        -1.262901
+                  ]
+            },
+            {
+                  "name": "Griya Mulya Kost",
+                  "text": "Griya Mulya Kost is a tourist attraction located in Balikpapan.",
+                  "category": "landmark",
+                  "coords": [
+                        116.836508,
+                        -1.257308
+                  ]
+            }
+      ]
+},
 type: "city",
 parent: "ID-KI",
 coords: [116.828, -1.255],
@@ -815,7 +1148,1276 @@ en: [
     },
   },
   {
-id: "kuta-cities-v2",
+id: "kuta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bali Shell Museum",
+                  "text": "Das Bali Museum in Kuta zeigt kulturelle Exponate der indonesischen Insel.",
+                  "category": "museum",
+                  "coords": [
+                        115.186715,
+                        -8.714265
+                  ]
+            },
+            {
+                  "name": "Becak museum",
+                  "text": "Das Becak Museum in Kuta widmet sich der Geschichte traditioneller Fahrradtaxis.",
+                  "category": "museum",
+                  "coords": [
+                        115.183883,
+                        -8.709344
+                  ]
+            },
+            {
+                  "name": "Ekowisata mangrove",
+                  "text": "Der Ekowisata Mangrove in Kuta ist ein Natur-Themenpark.",
+                  "category": "recreational",
+                  "coords": [
+                        115.183277,
+                        -8.743891
+                  ]
+            },
+            {
+                  "name": "Trans Studio Bali",
+                  "text": "Trans Studio Bali in Kuta ist ein populärer Themenpark für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        115.184377,
+                        -8.702493
+                  ]
+            },
+            {
+                  "name": "Pantai Double Six",
+                  "text": "Pantai Double Six in Kuta ist ein bekannter Strand für Surfer und Sonnenanbeter.",
+                  "category": "recreational",
+                  "coords": [
+                        115.161886,
+                        -8.697376
+                  ]
+            },
+            {
+                  "name": "Legian Beach",
+                  "text": "Der Legian Beach in Kuta ist ein beliebter Küstenabschnitt auf Bali.",
+                  "category": "recreational",
+                  "coords": [
+                        115.164104,
+                        -8.703451
+                  ]
+            },
+            {
+                  "name": "Jerman Beach",
+                  "text": "Jerman Beach in Kuta ist ein ruhiger Strandabschnitt nahe dem Flughafen.",
+                  "category": "recreational",
+                  "coords": [
+                        115.162288,
+                        -8.736141
+                  ]
+            },
+            {
+                  "name": "Pantai Kuta",
+                  "text": "Der Kuta Beach ist der berühmteste Strandabschnitt auf Bali.",
+                  "category": "recreational",
+                  "coords": [
+                        115.167999,
+                        -8.717968
+                  ]
+            },
+            {
+                  "name": "Waterbom Bali",
+                  "text": "Waterbom Bali in Kuta ist ein großer und beliebter Wasserpark.",
+                  "category": "recreational",
+                  "coords": [
+                        115.170544,
+                        -8.728354
+                  ]
+            },
+            {
+                  "name": "DMZ Dream Museum Zone",
+                  "text": "Das DMZ Dream Museum Zone in Kuta ist ein interaktives Kunstmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        115.176729,
+                        -8.699502
+                  ]
+            },
+            {
+                  "name": "Bali Bombing-Denkmal",
+                  "text": "Das Bali Bombing Memorial in Kuta erinnert an die Opfer der Anschläge von 2002.",
+                  "category": "historical",
+                  "coords": [
+                        115.174489,
+                        -8.717319
+                  ]
+            },
+            {
+                  "name": "Tari Barong & Keris",
+                  "text": "Das Tari Barong & Keris Zentrum in Kuta bietet traditionelle balinesische Tanzvorführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192435,
+                        -8.718624
+                  ]
+            },
+            {
+                  "name": "Teluk Benoa",
+                  "text": "Die Bucht von Benoa in Kuta ist ein bedeutendes maritimes Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        115.203909,
+                        -8.756144
+                  ]
+            },
+            {
+                  "name": "I Gusti Ngurah Rai",
+                  "text": "Das Denkmal für I Gusti Ngurah Rai in Kuta ehrt einen balinesischen Nationalhelden.",
+                  "category": "historical",
+                  "coords": [
+                        115.167893,
+                        -8.741059
+                  ]
+            },
+            {
+                  "name": "Satrya Gatotkaca",
+                  "text": "Die Satrya Gatotkaca Statue in Kuta ist ein beeindruckendes Monument.",
+                  "category": "historical",
+                  "coords": [
+                        115.178838,
+                        -8.744376
+                  ]
+            },
+            {
+                  "name": "Waterbom",
+                  "text": "Waterbom in Kuta ist eine bekannte Attraktion für Wassersportfreunde.",
+                  "category": "landmark",
+                  "coords": [
+                        115.169628,
+                        -8.728473
+                  ]
+            },
+            {
+                  "name": "Taman Bakau",
+                  "text": "Taman Bakau in Kuta ist ein Schutzgebiet für Mangrovenwälder.",
+                  "category": "landmark",
+                  "coords": [
+                        115.19316,
+                        -8.726112
+                  ]
+            },
+            {
+                  "name": "Fun Surf School",
+                  "text": "Die Fun Surf School in Kuta bietet Kurse für Wellenreiter an.",
+                  "category": "landmark",
+                  "coords": [
+                        115.166707,
+                        -8.709576
+                  ]
+            },
+            {
+                  "name": "Pandora Escape Room",
+                  "text": "Pandora Escape Room in Kuta ist ein unterhaltsames Rätselspiel.",
+                  "category": "landmark",
+                  "coords": [
+                        115.178084,
+                        -8.706966
+                  ]
+            },
+            {
+                  "name": "Bali Ocean Surf",
+                  "text": "Bali Ocean Surf in Kuta ist eine Anlaufstelle für Surfer.",
+                  "category": "landmark",
+                  "coords": [
+                        115.162811,
+                        -8.699661
+                  ]
+            },
+            {
+                  "name": "Wave coworking",
+                  "text": "Wave Coworking in Kuta ist ein Arbeitsplatz für digitale Nomaden.",
+                  "category": "landmark",
+                  "coords": [
+                        115.179922,
+                        -8.710941
+                  ]
+            },
+            {
+                  "name": "surf rental",
+                  "text": "Verschiedene Surfverleih-Angebote finden sich direkt in Kuta.",
+                  "category": "landmark",
+                  "coords": [
+                        115.168148,
+                        -8.715503
+                  ]
+            },
+            {
+                  "name": "Monumen Jagarana",
+                  "text": "Das Monumen Jagarana in Kuta erinnert an historische Ereignisse.",
+                  "category": "historical",
+                  "coords": [
+                        115.178756,
+                        -8.724908
+                  ]
+            },
+            {
+                  "name": "Flowhouse Bali (Indoor Surfing)",
+                  "text": "Flowhouse Bali in Kuta bietet Indoor-Surfen als Attraktion an.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177034,
+                        -8.70495
+                  ]
+            },
+            {
+                  "name": "Clearice",
+                  "text": "Clearice in Kuta ist ein lokaler Anbieter für Freizeitaktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        115.186615,
+                        -8.716826
+                  ]
+            },
+            {
+                  "name": "Kuta Jin Legian",
+                  "text": "Kuta Jin Legian ist ein belebter Bereich in Kuta, beliebt bei Touristen.",
+                  "category": "landmark",
+                  "coords": [
+                        115.174256,
+                        -8.716277
+                  ]
+            },
+            {
+                  "name": "Big gallery Bali Arts & Goods",
+                  "text": "Die Big Gallery Bali Arts & Goods ist eine Galerie in Kuta.",
+                  "category": "museum",
+                  "coords": [
+                        115.167478,
+                        -8.736337
+                  ]
+            },
+            {
+                  "name": "Art Shop Wahyu",
+                  "text": "Das Art Shop Wahyu ist eine Galerie in Kuta.",
+                  "category": "museum",
+                  "coords": [
+                        115.17349,
+                        -8.724494
+                  ]
+            },
+            {
+                  "name": "Sunset Beach Bar Pantai Legian",
+                  "text": "Die Sunset Beach Bar Pantai Legian ist ein Strandresort in Kuta.",
+                  "category": "recreational",
+                  "coords": [
+                        115.163687,
+                        -8.700875
+                  ]
+            },
+            {
+                  "name": "Kuta Indonésie",
+                  "text": "Kuta Indonésie ist ein Denkmal in Kuta.",
+                  "category": "historical",
+                  "coords": [
+                        115.168917,
+                        -8.740725
+                  ]
+            },
+            {
+                  "name": "Galeri Zen1",
+                  "text": "Galeri Zen1 ist eine Galerie in Kuta.",
+                  "category": "museum",
+                  "coords": [
+                        115.180356,
+                        -8.738523
+                  ]
+            },
+            {
+                  "name": "Triratna Amreta Bhuwana",
+                  "text": "Triratna Amreta Bhuwana ist ein Denkmal in Kuta.",
+                  "category": "historical",
+                  "coords": [
+                        115.160366,
+                        -8.737447
+                  ]
+            },
+            {
+                  "name": "Darta gallery",
+                  "text": "Darta gallery ist eine Attraktion in Kuta.",
+                  "category": "landmark",
+                  "coords": [
+                        115.16903,
+                        -8.698006
+                  ]
+            },
+            {
+                  "name": "Graha Budaya Lotring",
+                  "text": "Graha Budaya Lotring ist ein Kunstzentrum in Kuta.",
+                  "category": "cultural",
+                  "coords": [
+                        115.178252,
+                        -8.725847
+                  ]
+            },
+            {
+                  "name": "Dharmayana Temple",
+                  "text": "Der Dharmayana Tempel ist ein Gebetsort in Kuta.",
+                  "category": "religious",
+                  "coords": [
+                        115.177828,
+                        -8.723949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bali Shell Museum",
+                  "text": "A kutai Bali Múzeum a sziget kulturális kiállítási tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        115.186715,
+                        -8.714265
+                  ]
+            },
+            {
+                  "name": "Becak museum",
+                  "text": "A kutai Becak Múzeum a hagyományos kerékpáros taxik történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        115.183883,
+                        -8.709344
+                  ]
+            },
+            {
+                  "name": "Ekowisata mangrove",
+                  "text": "A kutai Ekowisata Mangrove egy természetközeli tematikus park.",
+                  "category": "recreational",
+                  "coords": [
+                        115.183277,
+                        -8.743891
+                  ]
+            },
+            {
+                  "name": "Trans Studio Bali",
+                  "text": "A kutai Trans Studio Bali egy népszerű tematikus park családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        115.184377,
+                        -8.702493
+                  ]
+            },
+            {
+                  "name": "Pantai Double Six",
+                  "text": "A kutai Pantai Double Six egy ismert strand szörfösök és napozók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        115.161886,
+                        -8.697376
+                  ]
+            },
+            {
+                  "name": "Legian Beach",
+                  "text": "A kutai Legian Beach egy népszerű partszakasz Balin.",
+                  "category": "recreational",
+                  "coords": [
+                        115.164104,
+                        -8.703451
+                  ]
+            },
+            {
+                  "name": "Jerman Beach",
+                  "text": "A kutai Jerman Beach egy nyugodt partszakasz a repülőtér közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        115.162288,
+                        -8.736141
+                  ]
+            },
+            {
+                  "name": "Pantai Kuta",
+                  "text": "A Kuta Beach a leghíresebb partszakasz Balin.",
+                  "category": "recreational",
+                  "coords": [
+                        115.167999,
+                        -8.717968
+                  ]
+            },
+            {
+                  "name": "Waterbom Bali",
+                  "text": "A kutai Waterbom Bali egy nagy és népszerű vízipark.",
+                  "category": "recreational",
+                  "coords": [
+                        115.170544,
+                        -8.728354
+                  ]
+            },
+            {
+                  "name": "DMZ Dream Museum Zone",
+                  "text": "A kutai DMZ Dream Museum Zone egy interaktív művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        115.176729,
+                        -8.699502
+                  ]
+            },
+            {
+                  "name": "Tugu Peringatan Bom Bali",
+                  "text": "A kutai Bali Bombing Memorial a 2002-es támadások áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        115.174489,
+                        -8.717319
+                  ]
+            },
+            {
+                  "name": "Tari Barong & Keris",
+                  "text": "A kutai Tari Barong & Keris központ hagyományos balinéz táncelőadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192435,
+                        -8.718624
+                  ]
+            },
+            {
+                  "name": "Teluk Benoa",
+                  "text": "A kutai Benoa-öböl egy jelentős tengeri terület.",
+                  "category": "landmark",
+                  "coords": [
+                        115.203909,
+                        -8.756144
+                  ]
+            },
+            {
+                  "name": "I Gusti Ngurah Rai",
+                  "text": "Az I Gusti Ngurah Rai-emlékmű Kutában egy balinéz nemzeti hősnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        115.167893,
+                        -8.741059
+                  ]
+            },
+            {
+                  "name": "Satrya Gatotkaca",
+                  "text": "A kutai Satrya Gatotkaca-szobor egy lenyűgöző emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        115.178838,
+                        -8.744376
+                  ]
+            },
+            {
+                  "name": "Waterbom",
+                  "text": "A kutai Waterbom egy ismert látnivaló a vízi sportok szerelmeseinek.",
+                  "category": "landmark",
+                  "coords": [
+                        115.169628,
+                        -8.728473
+                  ]
+            },
+            {
+                  "name": "Taman Bakau",
+                  "text": "A kutai Taman Bakau egy mangroveerdő-védelmi terület.",
+                  "category": "landmark",
+                  "coords": [
+                        115.19316,
+                        -8.726112
+                  ]
+            },
+            {
+                  "name": "Fun Surf School",
+                  "text": "A kutai Fun Surf School szörftanfolyamokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        115.166707,
+                        -8.709576
+                  ]
+            },
+            {
+                  "name": "Pandora Escape Room",
+                  "text": "A kutai Pandora Escape Room egy szórakoztató rejtvényjáték.",
+                  "category": "landmark",
+                  "coords": [
+                        115.178084,
+                        -8.706966
+                  ]
+            },
+            {
+                  "name": "Bali Ocean Surf",
+                  "text": "A kutai Bali Ocean Surf egy szörfös találkozóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        115.162811,
+                        -8.699661
+                  ]
+            },
+            {
+                  "name": "Wave coworking",
+                  "text": "A kutai Wave Coworking egy munkahely digitális nomádok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        115.179922,
+                        -8.710941
+                  ]
+            },
+            {
+                  "name": "surf rental",
+                  "text": "Kutában számos szörfdeszka-kölcsönző található.",
+                  "category": "landmark",
+                  "coords": [
+                        115.168148,
+                        -8.715503
+                  ]
+            },
+            {
+                  "name": "Monumen Jagarana",
+                  "text": "A kutai Monumen Jagarana történelmi eseményeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        115.178756,
+                        -8.724908
+                  ]
+            },
+            {
+                  "name": "Flowhouse Bali (Indoor Surfing)",
+                  "text": "A kutai Flowhouse Bali beltéri szörfözést kínál látnivalóként.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177034,
+                        -8.70495
+                  ]
+            },
+            {
+                  "name": "Clearice",
+                  "text": "A kutai Clearice egy helyi szolgáltató szabadidős tevékenységekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        115.186615,
+                        -8.716826
+                  ]
+            },
+            {
+                  "name": "Kuta Jin Legian",
+                  "text": "A Kuta Jin Legian egy forgalmas terület Kutában, amelyet kedvelnek a turisták.",
+                  "category": "landmark",
+                  "coords": [
+                        115.174256,
+                        -8.716277
+                  ]
+            },
+            {
+                  "name": "Big gallery Bali Arts & Goods",
+                  "text": "A Big Gallery Bali Arts & Goods egy galéria Kutában.",
+                  "category": "museum",
+                  "coords": [
+                        115.167478,
+                        -8.736337
+                  ]
+            },
+            {
+                  "name": "Art Shop Wahyu",
+                  "text": "Az Art Shop Wahyu egy galéria Kutában.",
+                  "category": "museum",
+                  "coords": [
+                        115.17349,
+                        -8.724494
+                  ]
+            },
+            {
+                  "name": "Sunset Beach Bar Pantai Legian",
+                  "text": "A Sunset Beach Bar Pantai Legian egy tengerparti üdülőhely Kutában.",
+                  "category": "recreational",
+                  "coords": [
+                        115.163687,
+                        -8.700875
+                  ]
+            },
+            {
+                  "name": "Kuta Indonésie",
+                  "text": "A Kuta Indonésie egy emlékmű Kutában.",
+                  "category": "historical",
+                  "coords": [
+                        115.168917,
+                        -8.740725
+                  ]
+            },
+            {
+                  "name": "Galeri Zen1",
+                  "text": "A Galeri Zen1 egy galéria Kutában.",
+                  "category": "museum",
+                  "coords": [
+                        115.180356,
+                        -8.738523
+                  ]
+            },
+            {
+                  "name": "Triratna Amreta Bhuwana",
+                  "text": "A Triratna Amreta Bhuwana egy emlékmű Kutában.",
+                  "category": "historical",
+                  "coords": [
+                        115.160366,
+                        -8.737447
+                  ]
+            },
+            {
+                  "name": "Darta gallery",
+                  "text": "A Darta gallery egy látnivaló Kutában.",
+                  "category": "landmark",
+                  "coords": [
+                        115.16903,
+                        -8.698006
+                  ]
+            },
+            {
+                  "name": "Graha Budaya Lotring",
+                  "text": "A Graha Budaya Lotring egy művészeti központ Kutában.",
+                  "category": "cultural",
+                  "coords": [
+                        115.178252,
+                        -8.725847
+                  ]
+            },
+            {
+                  "name": "Dharmayana Temple",
+                  "text": "A Dharmayana templom egy imahely Kutában.",
+                  "category": "religious",
+                  "coords": [
+                        115.177828,
+                        -8.723949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bali Shell Museum",
+                  "text": "Muzeul Bali din Kuta prezintă exponate culturale ale insulei indoneziene.",
+                  "category": "museum",
+                  "coords": [
+                        115.186715,
+                        -8.714265
+                  ]
+            },
+            {
+                  "name": "Becak museum",
+                  "text": "Muzeul Becak din Kuta este dedicat istoriei taxiurilor tradiționale pe bicicletă.",
+                  "category": "museum",
+                  "coords": [
+                        115.183883,
+                        -8.709344
+                  ]
+            },
+            {
+                  "name": "Ekowisata mangrove",
+                  "text": "Ekowisata Mangrove din Kuta este un parc tematic natural.",
+                  "category": "recreational",
+                  "coords": [
+                        115.183277,
+                        -8.743891
+                  ]
+            },
+            {
+                  "name": "Trans Studio Bali",
+                  "text": "Trans Studio Bali din Kuta este un parc tematic popular pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        115.184377,
+                        -8.702493
+                  ]
+            },
+            {
+                  "name": "Pantai Double Six",
+                  "text": "Pantai Double Six din Kuta este o plajă cunoscută pentru surferi și iubitorii de soare.",
+                  "category": "recreational",
+                  "coords": [
+                        115.161886,
+                        -8.697376
+                  ]
+            },
+            {
+                  "name": "Legian Beach",
+                  "text": "Legian Beach din Kuta este o secțiune de coastă populară din Bali.",
+                  "category": "recreational",
+                  "coords": [
+                        115.164104,
+                        -8.703451
+                  ]
+            },
+            {
+                  "name": "Jerman Beach",
+                  "text": "Jerman Beach din Kuta este o secțiune liniștită de plajă în apropierea aeroportului.",
+                  "category": "recreational",
+                  "coords": [
+                        115.162288,
+                        -8.736141
+                  ]
+            },
+            {
+                  "name": "Pantai Kuta",
+                  "text": "Kuta Beach este cea mai faimoasă secțiune de plajă din Bali.",
+                  "category": "recreational",
+                  "coords": [
+                        115.167999,
+                        -8.717968
+                  ]
+            },
+            {
+                  "name": "Waterbom Bali",
+                  "text": "Waterbom Bali din Kuta este un parc acvatic mare și popular.",
+                  "category": "recreational",
+                  "coords": [
+                        115.170544,
+                        -8.728354
+                  ]
+            },
+            {
+                  "name": "DMZ Dream Museum Zone",
+                  "text": "DMZ Dream Museum Zone din Kuta este un muzeu de artă interactiv.",
+                  "category": "museum",
+                  "coords": [
+                        115.176729,
+                        -8.699502
+                  ]
+            },
+            {
+                  "name": "Tugu Peringatan Bom Bali",
+                  "text": "Bali Bombing Memorial din Kuta comemorează victimele atacurilor din 2002.",
+                  "category": "historical",
+                  "coords": [
+                        115.174489,
+                        -8.717319
+                  ]
+            },
+            {
+                  "name": "Tari Barong & Keris",
+                  "text": "Centrul Tari Barong & Keris din Kuta oferă spectacole de dans tradițional balinez.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192435,
+                        -8.718624
+                  ]
+            },
+            {
+                  "name": "Teluk Benoa",
+                  "text": "Golful Benoa din Kuta este o zonă maritimă importantă.",
+                  "category": "landmark",
+                  "coords": [
+                        115.203909,
+                        -8.756144
+                  ]
+            },
+            {
+                  "name": "I Gusti Ngurah Rai",
+                  "text": "Monumentul lui I Gusti Ngurah Rai din Kuta onorează un erou național balinez.",
+                  "category": "historical",
+                  "coords": [
+                        115.167893,
+                        -8.741059
+                  ]
+            },
+            {
+                  "name": "Satrya Gatotkaca",
+                  "text": "Statuia Satrya Gatotkaca din Kuta este un monument impresionant.",
+                  "category": "historical",
+                  "coords": [
+                        115.178838,
+                        -8.744376
+                  ]
+            },
+            {
+                  "name": "Waterbom",
+                  "text": "Waterbom din Kuta este o atracție cunoscută pentru pasionații de sporturi acvatice.",
+                  "category": "landmark",
+                  "coords": [
+                        115.169628,
+                        -8.728473
+                  ]
+            },
+            {
+                  "name": "Taman Bakau",
+                  "text": "Taman Bakau din Kuta este o zonă protejată pentru pădurile de mangrove.",
+                  "category": "landmark",
+                  "coords": [
+                        115.19316,
+                        -8.726112
+                  ]
+            },
+            {
+                  "name": "Fun Surf School",
+                  "text": "Fun Surf School din Kuta oferă cursuri pentru pasionații de surfing.",
+                  "category": "landmark",
+                  "coords": [
+                        115.166707,
+                        -8.709576
+                  ]
+            },
+            {
+                  "name": "Pandora Escape Room",
+                  "text": "Pandora Escape Room din Kuta este un joc distractiv de tip escape room.",
+                  "category": "landmark",
+                  "coords": [
+                        115.178084,
+                        -8.706966
+                  ]
+            },
+            {
+                  "name": "Bali Ocean Surf",
+                  "text": "Bali Ocean Surf din Kuta este un punct de reper pentru surferi.",
+                  "category": "landmark",
+                  "coords": [
+                        115.162811,
+                        -8.699661
+                  ]
+            },
+            {
+                  "name": "Wave coworking",
+                  "text": "Wave Coworking din Kuta este un spațiu de lucru pentru nomazii digitali.",
+                  "category": "landmark",
+                  "coords": [
+                        115.179922,
+                        -8.710941
+                  ]
+            },
+            {
+                  "name": "surf rental",
+                  "text": "Diverse opțiuni de închiriere pentru surfing pot fi găsite chiar în Kuta.",
+                  "category": "landmark",
+                  "coords": [
+                        115.168148,
+                        -8.715503
+                  ]
+            },
+            {
+                  "name": "Monumen Jagarana",
+                  "text": "Monumen Jagarana din Kuta comemorează evenimente istorice.",
+                  "category": "historical",
+                  "coords": [
+                        115.178756,
+                        -8.724908
+                  ]
+            },
+            {
+                  "name": "Flowhouse Bali (Indoor Surfing)",
+                  "text": "Flowhouse Bali din Kuta oferă surfing în interior ca atracție.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177034,
+                        -8.70495
+                  ]
+            },
+            {
+                  "name": "Clearice",
+                  "text": "Clearice din Kuta este un furnizor local de activități de agrement.",
+                  "category": "landmark",
+                  "coords": [
+                        115.186615,
+                        -8.716826
+                  ]
+            },
+            {
+                  "name": "Kuta Jin Legian",
+                  "text": "Kuta Jin Legian este o zonă animată în Kuta, populară printre turiști.",
+                  "category": "landmark",
+                  "coords": [
+                        115.174256,
+                        -8.716277
+                  ]
+            },
+            {
+                  "name": "Big gallery Bali Arts & Goods",
+                  "text": "Big Gallery Bali Arts & Goods este o galerie în Kuta.",
+                  "category": "museum",
+                  "coords": [
+                        115.167478,
+                        -8.736337
+                  ]
+            },
+            {
+                  "name": "Art Shop Wahyu",
+                  "text": "Art Shop Wahyu este o galerie în Kuta.",
+                  "category": "museum",
+                  "coords": [
+                        115.17349,
+                        -8.724494
+                  ]
+            },
+            {
+                  "name": "Sunset Beach Bar Pantai Legian",
+                  "text": "Sunset Beach Bar Pantai Legian este o stațiune pe plajă în Kuta.",
+                  "category": "recreational",
+                  "coords": [
+                        115.163687,
+                        -8.700875
+                  ]
+            },
+            {
+                  "name": "Kuta Indonésie",
+                  "text": "Kuta Indonésie este un monument în Kuta.",
+                  "category": "historical",
+                  "coords": [
+                        115.168917,
+                        -8.740725
+                  ]
+            },
+            {
+                  "name": "Galeri Zen1",
+                  "text": "Galeri Zen1 este o galerie în Kuta.",
+                  "category": "museum",
+                  "coords": [
+                        115.180356,
+                        -8.738523
+                  ]
+            },
+            {
+                  "name": "Triratna Amreta Bhuwana",
+                  "text": "Triratna Amreta Bhuwana este un monument în Kuta.",
+                  "category": "historical",
+                  "coords": [
+                        115.160366,
+                        -8.737447
+                  ]
+            },
+            {
+                  "name": "Darta gallery",
+                  "text": "Darta gallery este o atracție în Kuta.",
+                  "category": "landmark",
+                  "coords": [
+                        115.16903,
+                        -8.698006
+                  ]
+            },
+            {
+                  "name": "Graha Budaya Lotring",
+                  "text": "Graha Budaya Lotring este un centru de artă în Kuta.",
+                  "category": "cultural",
+                  "coords": [
+                        115.178252,
+                        -8.725847
+                  ]
+            },
+            {
+                  "name": "Dharmayana Temple",
+                  "text": "Templul Dharmayana este un lăcaș de cult în Kuta.",
+                  "category": "religious",
+                  "coords": [
+                        115.177828,
+                        -8.723949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bali Shell Museum",
+                  "text": "The Bali Museum in Kuta displays cultural exhibits of the Indonesian island.",
+                  "category": "museum",
+                  "coords": [
+                        115.186715,
+                        -8.714265
+                  ]
+            },
+            {
+                  "name": "Becak museum",
+                  "text": "The Becak Museum in Kuta is dedicated to the history of traditional bicycle taxis.",
+                  "category": "museum",
+                  "coords": [
+                        115.183883,
+                        -8.709344
+                  ]
+            },
+            {
+                  "name": "Ekowisata mangrove",
+                  "text": "The Ekowisata Mangrove in Kuta is a nature-themed park.",
+                  "category": "recreational",
+                  "coords": [
+                        115.183277,
+                        -8.743891
+                  ]
+            },
+            {
+                  "name": "Trans Studio Bali",
+                  "text": "Trans Studio Bali in Kuta is a popular theme park for families.",
+                  "category": "recreational",
+                  "coords": [
+                        115.184377,
+                        -8.702493
+                  ]
+            },
+            {
+                  "name": "Pantai Double Six",
+                  "text": "Pantai Double Six in Kuta is a well-known beach for surfers and sunbathers.",
+                  "category": "recreational",
+                  "coords": [
+                        115.161886,
+                        -8.697376
+                  ]
+            },
+            {
+                  "name": "Legian Beach",
+                  "text": "Legian Beach in Kuta is a popular stretch of coast in Bali.",
+                  "category": "recreational",
+                  "coords": [
+                        115.164104,
+                        -8.703451
+                  ]
+            },
+            {
+                  "name": "Jerman Beach",
+                  "text": "Jerman Beach in Kuta is a quiet stretch of beach near the airport.",
+                  "category": "recreational",
+                  "coords": [
+                        115.162288,
+                        -8.736141
+                  ]
+            },
+            {
+                  "name": "Kuta Beach",
+                  "text": "Kuta Beach is the most famous stretch of beach in Bali.",
+                  "category": "recreational",
+                  "coords": [
+                        115.167999,
+                        -8.717968
+                  ]
+            },
+            {
+                  "name": "Waterbom Bali",
+                  "text": "Waterbom Bali in Kuta is a large and popular water park.",
+                  "category": "recreational",
+                  "coords": [
+                        115.170544,
+                        -8.728354
+                  ]
+            },
+            {
+                  "name": "DMZ Dream Museum Zone",
+                  "text": "The DMZ Dream Museum Zone in Kuta is an interactive art museum.",
+                  "category": "museum",
+                  "coords": [
+                        115.176729,
+                        -8.699502
+                  ]
+            },
+            {
+                  "name": "Bali Bombing Memorial (Ground Zero Monument)",
+                  "text": "The Bali Bombing Memorial in Kuta commemorates the victims of the 2002 attacks.",
+                  "category": "historical",
+                  "coords": [
+                        115.174489,
+                        -8.717319
+                  ]
+            },
+            {
+                  "name": "Tari Barong & Keris",
+                  "text": "The Tari Barong & Keris center in Kuta offers traditional Balinese dance performances.",
+                  "category": "cultural",
+                  "coords": [
+                        115.192435,
+                        -8.718624
+                  ]
+            },
+            {
+                  "name": "Benoa Bay",
+                  "text": "Benoa Bay in Kuta is a significant maritime area.",
+                  "category": "landmark",
+                  "coords": [
+                        115.203909,
+                        -8.756144
+                  ]
+            },
+            {
+                  "name": "I Gusti Ngurah Rai",
+                  "text": "The I Gusti Ngurah Rai memorial in Kuta honors a Balinese national hero.",
+                  "category": "historical",
+                  "coords": [
+                        115.167893,
+                        -8.741059
+                  ]
+            },
+            {
+                  "name": "Satrya Gatotkaca",
+                  "text": "The Satrya Gatotkaca statue in Kuta is an impressive monument.",
+                  "category": "historical",
+                  "coords": [
+                        115.178838,
+                        -8.744376
+                  ]
+            },
+            {
+                  "name": "Waterbom",
+                  "text": "Waterbom in Kuta is a well-known attraction for water sports enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        115.169628,
+                        -8.728473
+                  ]
+            },
+            {
+                  "name": "Taman Bakau",
+                  "text": "Taman Bakau in Kuta is a protected area for mangrove forests.",
+                  "category": "landmark",
+                  "coords": [
+                        115.19316,
+                        -8.726112
+                  ]
+            },
+            {
+                  "name": "Fun Surf School",
+                  "text": "The Fun Surf School in Kuta offers courses for surfers.",
+                  "category": "landmark",
+                  "coords": [
+                        115.166707,
+                        -8.709576
+                  ]
+            },
+            {
+                  "name": "Pandora Escape Room",
+                  "text": "Pandora Escape Room in Kuta is a fun escape room game.",
+                  "category": "landmark",
+                  "coords": [
+                        115.178084,
+                        -8.706966
+                  ]
+            },
+            {
+                  "name": "Bali Ocean Surf",
+                  "text": "Bali Ocean Surf in Kuta is a spot for surfers.",
+                  "category": "landmark",
+                  "coords": [
+                        115.162811,
+                        -8.699661
+                  ]
+            },
+            {
+                  "name": "Wave coworking",
+                  "text": "Wave Coworking in Kuta is a workspace for digital nomads.",
+                  "category": "landmark",
+                  "coords": [
+                        115.179922,
+                        -8.710941
+                  ]
+            },
+            {
+                  "name": "surf rental",
+                  "text": "Various surf rental options can be found right in Kuta.",
+                  "category": "landmark",
+                  "coords": [
+                        115.168148,
+                        -8.715503
+                  ]
+            },
+            {
+                  "name": "Monumen Jagarana",
+                  "text": "The Monumen Jagarana in Kuta commemorates historic events.",
+                  "category": "historical",
+                  "coords": [
+                        115.178756,
+                        -8.724908
+                  ]
+            },
+            {
+                  "name": "Flowhouse Bali (Indoor Surfing)",
+                  "text": "Flowhouse Bali in Kuta offers indoor surfing as an attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        115.177034,
+                        -8.70495
+                  ]
+            },
+            {
+                  "name": "Clearice",
+                  "text": "Clearice in Kuta is a local provider of leisure activities.",
+                  "category": "landmark",
+                  "coords": [
+                        115.186615,
+                        -8.716826
+                  ]
+            },
+            {
+                  "name": "Kuta Jin Legian",
+                  "text": "Kuta Jin Legian is a bustling area in Kuta, popular with tourists.",
+                  "category": "landmark",
+                  "coords": [
+                        115.174256,
+                        -8.716277
+                  ]
+            },
+            {
+                  "name": "Big gallery Bali Arts & Goods",
+                  "text": "Big Gallery Bali Arts & Goods is a gallery in Kuta.",
+                  "category": "museum",
+                  "coords": [
+                        115.167478,
+                        -8.736337
+                  ]
+            },
+            {
+                  "name": "Art Shop Wahyu",
+                  "text": "Art Shop Wahyu is a gallery in Kuta.",
+                  "category": "museum",
+                  "coords": [
+                        115.17349,
+                        -8.724494
+                  ]
+            },
+            {
+                  "name": "Sunset Beach Bar Pantai Legian",
+                  "text": "Sunset Beach Bar Pantai Legian is a beach resort in Kuta.",
+                  "category": "recreational",
+                  "coords": [
+                        115.163687,
+                        -8.700875
+                  ]
+            },
+            {
+                  "name": "Kuta Indonésie",
+                  "text": "Kuta Indonésie is a monument in Kuta.",
+                  "category": "historical",
+                  "coords": [
+                        115.168917,
+                        -8.740725
+                  ]
+            },
+            {
+                  "name": "Galeri Zen1",
+                  "text": "Galeri Zen1 is a gallery in Kuta.",
+                  "category": "museum",
+                  "coords": [
+                        115.180356,
+                        -8.738523
+                  ]
+            },
+            {
+                  "name": "Triratna Amreta Bhuwana",
+                  "text": "Triratna Amreta Bhuwana is a monument in Kuta.",
+                  "category": "historical",
+                  "coords": [
+                        115.160366,
+                        -8.737447
+                  ]
+            },
+            {
+                  "name": "Darta gallery",
+                  "text": "Darta gallery is an attraction in Kuta.",
+                  "category": "landmark",
+                  "coords": [
+                        115.16903,
+                        -8.698006
+                  ]
+            },
+            {
+                  "name": "Graha Budaya Lotring",
+                  "text": "Graha Budaya Lotring is an arts centre in Kuta.",
+                  "category": "cultural",
+                  "coords": [
+                        115.178252,
+                        -8.725847
+                  ]
+            },
+            {
+                  "name": "Dharmayana Temple",
+                  "text": "Dharmayana Temple is a place of worship in Kuta.",
+                  "category": "religious",
+                  "coords": [
+                        115.177828,
+                        -8.723949
+                  ]
+            }
+      ]
+},
 type: "city",
 parent: "ID-BA",
 coords: [115.172, -8.7195],
@@ -1273,7 +2875,520 @@ en: [
     },
   },
   {
-id: "cirebon-cities-v2",
+id: "cirebon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum Gedung Pusaka Keraton Kanoman Cirebon",
+                  "text": "Das Kanoman Palace Heritage Building Museum stellt die historischen Artefakte von Cirebon aus.",
+                  "category": "museum",
+                  "coords": [
+                        108.568108,
+                        -6.722771
+                  ]
+            },
+            {
+                  "name": "Keraton Kasepuhan",
+                  "text": "Der Kasepuhan-Palast ist ein historischer und gut erhaltener Königspalast in Cirebon.",
+                  "category": "castle",
+                  "coords": [
+                        108.571971,
+                        -6.727595
+                  ]
+            },
+            {
+                  "name": "Museum Bahari Sarwajala",
+                  "text": "Das Museum Bahari Sarwajala ist ein Schifffahrtsmuseum in Cirebon.",
+                  "category": "museum",
+                  "coords": [
+                        108.575198,
+                        -6.717744
+                  ]
+            },
+            {
+                  "name": "Museum Topeng Cirebon",
+                  "text": "Das Museum Topeng Cirebon zeigt traditionelle Masken und das kulturelle Erbe von Cirebon.",
+                  "category": "museum",
+                  "coords": [
+                        108.557601,
+                        -6.70683
+                  ]
+            },
+            {
+                  "name": "Cirebon Waterland Ade Irma Suryani",
+                  "text": "Das Cirebon Waterland Ade Irma Suryani ist ein Freizeit-Wasserpark in Cirebon.",
+                  "category": "recreational",
+                  "coords": [
+                        108.574143,
+                        -6.71785
+                  ]
+            },
+            {
+                  "name": "Mercusuar Cirebon",
+                  "text": "Der Leuchtturm von Cirebon ist ein Küstennavigationssignal in Cirebon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.572108,
+                        -6.715298
+                  ]
+            },
+            {
+                  "name": "Monumen Lokomotif B 1304",
+                  "text": "Das Monumen Lokomotif B 1304 ist ein Denkmal, das eine historische Zuglokomotive in Cirebon bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        108.556988,
+                        -6.704755
+                  ]
+            },
+            {
+                  "name": "Tugu Kemerdekaan",
+                  "text": "Tugu Kemerdekaan ist ein Unabhängigkeitsdenkmal in Cirebon.",
+                  "category": "historical",
+                  "coords": [
+                        108.559888,
+                        -6.70994
+                  ]
+            },
+            {
+                  "name": "Taman Rusa",
+                  "text": "Taman Rusa ist eine lokale Sehenswürdigkeit in Cirebon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.553892,
+                        -6.698887
+                  ]
+            },
+            {
+                  "name": "Masjid Raya At-Taqwa",
+                  "text": "Masjid Raya At-Taqwa ist eine bedeutende Kultstätte in Cirebon.",
+                  "category": "religious",
+                  "coords": [
+                        108.558309,
+                        -6.709976
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Sang Cipta Rasa",
+                  "text": "Die Große Moschee von Cirebon ist eine historische Kultstätte, die lokal als Masjid Agung Sang Cipta Rasa bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        108.569999,
+                        -6.725551
+                  ]
+            },
+            {
+                  "name": "Gunungsari Trade Centre",
+                  "text": "Das Gunungsari Trade Centre ist ein bedeutender Marktplatz und Knotenpunkt des Handels in Cirebon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.550102,
+                        -6.713478
+                  ]
+            },
+            {
+                  "name": "Masjid Merah Panjunan",
+                  "text": "Die Rote Moschee von Panjunan ist eine historische Kultstätte in Cirebon, die für ihre markante Architektur aus roten Ziegeln bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        108.566073,
+                        -6.717472
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Santo Yusuf Cirebon",
+                  "text": "Die katholische St.-Josephs-Kirche ist eine historische Kultstätte in Cirebon.",
+                  "category": "religious",
+                  "coords": [
+                        108.571915,
+                        -6.721717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Gedung Pusaka Keraton Kanoman Cirebon",
+                  "text": "A Kanoman-palota örökségvédelmi épületmúzeuma Cirebon történelmi tárgyait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        108.568108,
+                        -6.722771
+                  ]
+            },
+            {
+                  "name": "Keraton Kasepuhan",
+                  "text": "A Kasepuhan-palota egy történelmi és jól karbantartott királyi palota Cirebonban.",
+                  "category": "castle",
+                  "coords": [
+                        108.571971,
+                        -6.727595
+                  ]
+            },
+            {
+                  "name": "Museum Bahari Sarwajala",
+                  "text": "A Museum Bahari Sarwajala egy tengerészeti múzeum Cirebonban.",
+                  "category": "museum",
+                  "coords": [
+                        108.575198,
+                        -6.717744
+                  ]
+            },
+            {
+                  "name": "Museum Topeng Cirebon",
+                  "text": "A Museum Topeng Cirebon hagyományos maszkokat és kulturális örökséget mutat be Cirebonban.",
+                  "category": "museum",
+                  "coords": [
+                        108.557601,
+                        -6.70683
+                  ]
+            },
+            {
+                  "name": "Cirebon Waterland Ade Irma Suryani",
+                  "text": "A Cirebon Waterland Ade Irma Suryani egy rekreációs vízi park Cirebonban.",
+                  "category": "recreational",
+                  "coords": [
+                        108.574143,
+                        -6.71785
+                  ]
+            },
+            {
+                  "name": "Mercusuar Cirebon",
+                  "text": "A Cireboni világítótorony egy parti navigációs jelzőfény Cirebonban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.572108,
+                        -6.715298
+                  ]
+            },
+            {
+                  "name": "Monumen Lokomotif B 1304",
+                  "text": "A Monumen Lokomotif B 1304 egy történelmi mozdony emlékműve Cirebonban.",
+                  "category": "historical",
+                  "coords": [
+                        108.556988,
+                        -6.704755
+                  ]
+            },
+            {
+                  "name": "Tugu Kemerdekaan",
+                  "text": "A Tugu Kemerdekaan a függetlenségnek emléket állító emlékmű Cirebonban.",
+                  "category": "historical",
+                  "coords": [
+                        108.559888,
+                        -6.70994
+                  ]
+            },
+            {
+                  "name": "Taman Rusa",
+                  "text": "A Taman Rusa egy helyi látványosság Cirebonban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.553892,
+                        -6.698887
+                  ]
+            },
+            {
+                  "name": "Masjid Raya At-Taqwa",
+                  "text": "A Masjid Raya At-Taqwa egy jelentős istentiszteleti hely Cirebonban.",
+                  "category": "religious",
+                  "coords": [
+                        108.558309,
+                        -6.709976
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Sang Cipta Rasa",
+                  "text": "A cireboni Nagy Mecset egy történelmi istentiszteleti hely, amelyet helyileg Masjid Agung Sang Cipta Rasa néven is ismernek.",
+                  "category": "religious",
+                  "coords": [
+                        108.569999,
+                        -6.725551
+                  ]
+            },
+            {
+                  "name": "Gunungsari Trade Centre",
+                  "text": "A Gunungsari Trade Centre egy jelentős piactér és kereskedelmi központ Cirebonban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.550102,
+                        -6.713478
+                  ]
+            },
+            {
+                  "name": "Masjid Merah Panjunan",
+                  "text": "A panjunani Vörös Mecset egy történelmi istentiszteleti hely Cirebonban, amely jellegzetes vöröstéglás építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        108.566073,
+                        -6.717472
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Santo Yusuf Cirebon",
+                  "text": "A Szent József Katolikus Templom egy történelmi istentiszteleti hely Cirebonban.",
+                  "category": "religious",
+                  "coords": [
+                        108.571915,
+                        -6.721717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Gedung Pusaka Keraton Kanoman Cirebon",
+                  "text": "Muzeul clădirii de patrimoniu a Palatului Kanoman expune artefactele istorice din Cirebon.",
+                  "category": "museum",
+                  "coords": [
+                        108.568108,
+                        -6.722771
+                  ]
+            },
+            {
+                  "name": "Keraton Kasepuhan",
+                  "text": "Palatul Kasepuhan este un palat regal istoric și bine conservat situat în Cirebon.",
+                  "category": "castle",
+                  "coords": [
+                        108.571971,
+                        -6.727595
+                  ]
+            },
+            {
+                  "name": "Museum Bahari Sarwajala",
+                  "text": "Muzeul Bahari Sarwajala este un muzeu maritim situat în Cirebon.",
+                  "category": "museum",
+                  "coords": [
+                        108.575198,
+                        -6.717744
+                  ]
+            },
+            {
+                  "name": "Museum Topeng Cirebon",
+                  "text": "Muzeul Topeng Cirebon prezintă măști tradiționale și moștenirea culturală din Cirebon.",
+                  "category": "museum",
+                  "coords": [
+                        108.557601,
+                        -6.70683
+                  ]
+            },
+            {
+                  "name": "Cirebon Waterland Ade Irma Suryani",
+                  "text": "Cirebon Waterland Ade Irma Suryani este un parc acvatic de recreere din Cirebon.",
+                  "category": "recreational",
+                  "coords": [
+                        108.574143,
+                        -6.71785
+                  ]
+            },
+            {
+                  "name": "Mercusuar Cirebon",
+                  "text": "Farul din Cirebon este un semnal de navigație de coastă situat în Cirebon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.572108,
+                        -6.715298
+                  ]
+            },
+            {
+                  "name": "Monumen Lokomotif B 1304",
+                  "text": "Monumen Lokomotif B 1304 este un monument care conservă o locomotivă de tren istorică din Cirebon.",
+                  "category": "historical",
+                  "coords": [
+                        108.556988,
+                        -6.704755
+                  ]
+            },
+            {
+                  "name": "Tugu Kemerdekaan",
+                  "text": "Tugu Kemerdekaan este un monument care comemorează independența situat în Cirebon.",
+                  "category": "historical",
+                  "coords": [
+                        108.559888,
+                        -6.70994
+                  ]
+            },
+            {
+                  "name": "Taman Rusa",
+                  "text": "Taman Rusa este o atracție locală situată în Cirebon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.553892,
+                        -6.698887
+                  ]
+            },
+            {
+                  "name": "Masjid Raya At-Taqwa",
+                  "text": "Masjid Raya At-Taqwa este un important lăcaș de cult situat în Cirebon.",
+                  "category": "religious",
+                  "coords": [
+                        108.558309,
+                        -6.709976
+                  ]
+            },
+            {
+                  "name": "Masjid Agung Sang Cipta Rasa",
+                  "text": "Marea Moschee din Cirebon este un lăcaș de cult istoric, cunoscut local sub numele de Masjid Agung Sang Cipta Rasa.",
+                  "category": "religious",
+                  "coords": [
+                        108.569999,
+                        -6.725551
+                  ]
+            },
+            {
+                  "name": "Gunungsari Trade Centre",
+                  "text": "Gunungsari Trade Centre este o piață și un centru comercial major în Cirebon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.550102,
+                        -6.713478
+                  ]
+            },
+            {
+                  "name": "Masjid Merah Panjunan",
+                  "text": "Moscheea Roșie din Panjunan este un lăcaș de cult istoric din Cirebon, remarcabilă pentru arhitectura sa distinctivă din cărămidă roșie.",
+                  "category": "religious",
+                  "coords": [
+                        108.566073,
+                        -6.717472
+                  ]
+            },
+            {
+                  "name": "Gereja Katolik Santo Yusuf Cirebon",
+                  "text": "Biserica Catolică Sfântul Iosif este un lăcaș de cult istoric situat în Cirebon.",
+                  "category": "religious",
+                  "coords": [
+                        108.571915,
+                        -6.721717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kanoman Palace Heritage Building Museum",
+                  "text": "Kanoman Palace Heritage Building Museum exhibits the historical artifacts of Cirebon.",
+                  "category": "museum",
+                  "coords": [
+                        108.568108,
+                        -6.722771
+                  ]
+            },
+            {
+                  "name": "Palace Kasepuhan",
+                  "text": "Palace Kasepuhan is a historic and well-preserved royal palace located in Cirebon.",
+                  "category": "castle",
+                  "coords": [
+                        108.571971,
+                        -6.727595
+                  ]
+            },
+            {
+                  "name": "Museum Bahari Sarwajala",
+                  "text": "Museum Bahari Sarwajala is a maritime museum situated in Cirebon.",
+                  "category": "museum",
+                  "coords": [
+                        108.575198,
+                        -6.717744
+                  ]
+            },
+            {
+                  "name": "Museum Topeng Cirebon",
+                  "text": "Museum Topeng Cirebon showcases traditional masks and cultural heritage in Cirebon.",
+                  "category": "museum",
+                  "coords": [
+                        108.557601,
+                        -6.70683
+                  ]
+            },
+            {
+                  "name": "Cirebon Waterland Ade Irma Suryani",
+                  "text": "Cirebon Waterland Ade Irma Suryani is a recreational water park in Cirebon.",
+                  "category": "recreational",
+                  "coords": [
+                        108.574143,
+                        -6.71785
+                  ]
+            },
+            {
+                  "name": "Cirebon Lighthouse",
+                  "text": "Cirebon Lighthouse is a coastal navigation beacon located in Cirebon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.572108,
+                        -6.715298
+                  ]
+            },
+            {
+                  "name": "Monumen Lokomotif B 1304",
+                  "text": "Monumen Lokomotif B 1304 is a monument preserving a historic train locomotive in Cirebon.",
+                  "category": "historical",
+                  "coords": [
+                        108.556988,
+                        -6.704755
+                  ]
+            },
+            {
+                  "name": "Tugu Kemerdekaan",
+                  "text": "Tugu Kemerdekaan is a monument commemorating independence located in Cirebon.",
+                  "category": "historical",
+                  "coords": [
+                        108.559888,
+                        -6.70994
+                  ]
+            },
+            {
+                  "name": "Taman Rusa",
+                  "text": "Taman Rusa is a local attraction situated in Cirebon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.553892,
+                        -6.698887
+                  ]
+            },
+            {
+                  "name": "Masjid Raya At-Taqwa",
+                  "text": "Masjid Raya At-Taqwa is a notable place of worship located in Cirebon.",
+                  "category": "religious",
+                  "coords": [
+                        108.558309,
+                        -6.709976
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Cirebon",
+                  "text": "The Great Mosque of Cirebon is a historic place of worship, well known locally as Masjid Agung Sang Cipta Rasa.",
+                  "category": "religious",
+                  "coords": [
+                        108.569999,
+                        -6.725551
+                  ]
+            },
+            {
+                  "name": "Gunungsari Trade Centre",
+                  "text": "Gunungsari Trade Centre is a major marketplace and commercial hub in Cirebon.",
+                  "category": "landmark",
+                  "coords": [
+                        108.550102,
+                        -6.713478
+                  ]
+            },
+            {
+                  "name": "Red Mosque of Panjunan",
+                  "text": "The Red Mosque of Panjunan is a historic place of worship in Cirebon, notable for its distinctive red brick architecture.",
+                  "category": "religious",
+                  "coords": [
+                        108.566073,
+                        -6.717472
+                  ]
+            },
+            {
+                  "name": "Saint Joseph Catholic Church",
+                  "text": "Saint Joseph Catholic Church is a historic Catholic place of worship situated in Cirebon.",
+                  "category": "religious",
+                  "coords": [
+                        108.571915,
+                        -6.721717
+                  ]
+            }
+      ]
+},
 type: "city",
 parent: "ID-JB",
 coords: [108.557, -6.706],

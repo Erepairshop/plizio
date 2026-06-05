@@ -41,7 +41,88 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kp-hamhung-cities-v2",
+    id: "kp-hamhung-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tower of Immortality",
+                  "text": "Denkmal in Hamhŭng.",
+                  "category": "historical",
+                  "coords": [
+                        127.513088,
+                        39.909027
+                  ]
+            },
+            {
+                  "name": "선화당",
+                  "text": "Attraktion in Hamhŭng.",
+                  "category": "landmark",
+                  "coords": [
+                        127.52388,
+                        39.914019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tower of Immortality",
+                  "text": "Emlékmű Hamhŭng-ban.",
+                  "category": "historical",
+                  "coords": [
+                        127.513088,
+                        39.909027
+                  ]
+            },
+            {
+                  "name": "선화당",
+                  "text": "Látnivaló Hamhŭng-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        127.52388,
+                        39.914019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tower of Immortality",
+                  "text": "Monument în Hamhŭng.",
+                  "category": "historical",
+                  "coords": [
+                        127.513088,
+                        39.909027
+                  ]
+            },
+            {
+                  "name": "선화당",
+                  "text": "Atracție în Hamhŭng.",
+                  "category": "landmark",
+                  "coords": [
+                        127.52388,
+                        39.914019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tower of Immortality",
+                  "text": "Monument in Hamhŭng.",
+                  "category": "historical",
+                  "coords": [
+                        127.513088,
+                        39.909027
+                  ]
+            },
+            {
+                  "name": "Sonhwa Hall",
+                  "text": "Attraction in Hamhŭng.",
+                  "category": "landmark",
+                  "coords": [
+                        127.52388,
+                        39.914019
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-08",
     coords: [127.5369, 39.9144],
@@ -85,7 +166,88 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     }
   },
   {
-    id: "kp-chongjin-cities-v2",
+    id: "kp-chongjin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "함경북도미술전람관",
+                  "text": "Das Fine Art Museum ist ein Museum in Chŏngjin.",
+                  "category": "museum",
+                  "coords": [
+                        129.797803,
+                        41.788257
+                  ]
+            },
+            {
+                  "name": "김일성 동상",
+                  "text": "Das Kim Il-Sung Monument ist ein Denkmal in Chŏngjin.",
+                  "category": "historical",
+                  "coords": [
+                        129.795091,
+                        41.788752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "함경북도미술전람관",
+                  "text": "A Fine Art Museum egy múzeum Chŏngjin városában.",
+                  "category": "museum",
+                  "coords": [
+                        129.797803,
+                        41.788257
+                  ]
+            },
+            {
+                  "name": "김일성 동상",
+                  "text": "A Kim Il-Sung Monument egy emlékmű Chŏngjin városában.",
+                  "category": "historical",
+                  "coords": [
+                        129.795091,
+                        41.788752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "함경북도미술전람관",
+                  "text": "Fine Art Museum este un muzeu situat în Chŏngjin.",
+                  "category": "museum",
+                  "coords": [
+                        129.797803,
+                        41.788257
+                  ]
+            },
+            {
+                  "name": "김일성 동상",
+                  "text": "Kim Il-Sung Monument este un monument în Chŏngjin.",
+                  "category": "historical",
+                  "coords": [
+                        129.795091,
+                        41.788752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fine Art Museum",
+                  "text": "Fine Art Museum is a museum located in Chŏngjin.",
+                  "category": "museum",
+                  "coords": [
+                        129.797803,
+                        41.788257
+                  ]
+            },
+            {
+                  "name": "Kim Il-Sung Monument",
+                  "text": "Kim Il-Sung Monument is a monument located in Chŏngjin.",
+                  "category": "historical",
+                  "coords": [
+                        129.795091,
+                        41.788752
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-09",
     coords: [129.7758, 41.7956],
@@ -305,7 +467,52 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     }
   },
   {
-    id: "kp-kaechon-cities-v2",
+    id: "kp-kaechon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "개천혁명사적지",
+                  "text": "Attraktion in Kaech'ŏn.",
+                  "category": "landmark",
+                  "coords": [
+                        125.89255,
+                        39.701442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "개천혁명사적지",
+                  "text": "Látnivaló Kaech'ŏn-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        125.89255,
+                        39.701442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "개천혁명사적지",
+                  "text": "Atracție în Kaech'ŏn.",
+                  "category": "landmark",
+                  "coords": [
+                        125.89255,
+                        39.701442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaechon Revolutionary Site",
+                  "text": "Attraction in Kaech'ŏn.",
+                  "category": "landmark",
+                  "coords": [
+                        125.89255,
+                        39.701442
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-02",
     coords: [125.8978, 39.6953],
@@ -349,7 +556,340 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kp-kaesong-cities-v2",
+    id: "kp-kaesong-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "고려박물관",
+                  "text": "Das Koryo Museum (Sungyangwan Academy) ist ein Museum in Kaesŏng.",
+                  "category": "museum",
+                  "coords": [
+                        126.570744,
+                        37.991184
+                  ]
+            },
+            {
+                  "name": "숭양서원",
+                  "text": "Sungyang Seowon ist eine archäologische Stätte in Kaesŏng. Es ist eine historische konfuzianische Akademie aus der Joseon-Dynastie.",
+                  "category": "historical",
+                  "coords": [
+                        126.560924,
+                        37.974968
+                  ]
+            },
+            {
+                  "name": "개성혁명역사박물관",
+                  "text": "Das Revolutionary Museum for the History of Kaesong ist ein Museum in Kaesŏng.",
+                  "category": "museum",
+                  "coords": [
+                        126.559262,
+                        37.975954
+                  ]
+            },
+            {
+                  "name": "만월대",
+                  "text": "Der Manwoldae Palace ist eine archäologische Stätte in Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.542601,
+                        37.985627
+                  ]
+            },
+            {
+                  "name": "첨성대",
+                  "text": "Kaesong Chomsongdae ist eine archäologische Stätte in Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.539708,
+                        37.986809
+                  ]
+            },
+            {
+                  "name": "선죽교와 표충사",
+                  "text": "Sonjuk Bridge and Phyochung Monuments ist eine archäologische Stätte in Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.565847,
+                        37.976956
+                  ]
+            },
+            {
+                  "name": "눌리문",
+                  "text": "눌리문 ist eine Burg in Kaesŏng.",
+                  "category": "castle",
+                  "coords": [
+                        126.535538,
+                        37.983989
+                  ]
+            },
+            {
+                  "name": "남산",
+                  "text": "Namsan Mountain ist ein Berggipfel in Kaesŏng.",
+                  "category": "natural",
+                  "coords": [
+                        126.55362,
+                        37.956007
+                  ]
+            },
+            {
+                  "name": "남대문",
+                  "text": "Namdaemun ist ein Denkmal in Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.55646,
+                        37.971914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "고려박물관",
+                  "text": "A Koryo Museum (Sungyangwan Academy) egy múzeum Kaesŏng városában.",
+                  "category": "museum",
+                  "coords": [
+                        126.570744,
+                        37.991184
+                  ]
+            },
+            {
+                  "name": "숭양서원",
+                  "text": "A Sungyang Seowon egy régészeti lelőhely Kaesŏng városában. Ez egy történelmi konfuciánus akadémia a Csoszon-dinasztia korából.",
+                  "category": "historical",
+                  "coords": [
+                        126.560924,
+                        37.974968
+                  ]
+            },
+            {
+                  "name": "개성혁명역사박물관",
+                  "text": "A Revolutionary Museum for the History of Kaesong egy múzeum Kaesŏng városában.",
+                  "category": "museum",
+                  "coords": [
+                        126.559262,
+                        37.975954
+                  ]
+            },
+            {
+                  "name": "만월대",
+                  "text": "A Manwoldae Palace egy régészeti lelőhely Kaesŏng városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.542601,
+                        37.985627
+                  ]
+            },
+            {
+                  "name": "첨성대",
+                  "text": "A Kaesong Chomsongdae egy régészeti lelőhely Kaesŏng városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.539708,
+                        37.986809
+                  ]
+            },
+            {
+                  "name": "선죽교와 표충사",
+                  "text": "A Sonjuk Bridge and Phyochung Monuments egy régészeti lelőhely Kaesŏng városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.565847,
+                        37.976956
+                  ]
+            },
+            {
+                  "name": "눌리문",
+                  "text": "A 눌리문 egy vár Kaesŏng városában.",
+                  "category": "castle",
+                  "coords": [
+                        126.535538,
+                        37.983989
+                  ]
+            },
+            {
+                  "name": "남산",
+                  "text": "A Namsan Mountain egy hegycsúcs Kaesŏng területén.",
+                  "category": "natural",
+                  "coords": [
+                        126.55362,
+                        37.956007
+                  ]
+            },
+            {
+                  "name": "남대문",
+                  "text": "A Namdaemun egy emlékmű Kaesŏng városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.55646,
+                        37.971914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "고려박물관",
+                  "text": "Koryo Museum (Sungyangwan Academy) este un muzeu în Kaesŏng.",
+                  "category": "museum",
+                  "coords": [
+                        126.570744,
+                        37.991184
+                  ]
+            },
+            {
+                  "name": "숭양서원",
+                  "text": "Sungyang Seowon este un sit arheologic în Kaesŏng. Este o academie istorică confucianistă care datează din timpul dinastiei Joseon.",
+                  "category": "historical",
+                  "coords": [
+                        126.560924,
+                        37.974968
+                  ]
+            },
+            {
+                  "name": "개성혁명역사박물관",
+                  "text": "Revolutionary Museum for the History of Kaesong este un muzeu în Kaesŏng.",
+                  "category": "museum",
+                  "coords": [
+                        126.559262,
+                        37.975954
+                  ]
+            },
+            {
+                  "name": "만월대",
+                  "text": "Manwoldae Palace este un sit arheologic situat în Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.542601,
+                        37.985627
+                  ]
+            },
+            {
+                  "name": "첨성대",
+                  "text": "Kaesong Chomsongdae este un sit arheologic situat în Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.539708,
+                        37.986809
+                  ]
+            },
+            {
+                  "name": "선죽교와 표충사",
+                  "text": "Sonjuk Bridge and Phyochung Monuments este un sit arheologic situat în Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.565847,
+                        37.976956
+                  ]
+            },
+            {
+                  "name": "눌리문",
+                  "text": "눌리문 este un castel situat în Kaesŏng.",
+                  "category": "castle",
+                  "coords": [
+                        126.535538,
+                        37.983989
+                  ]
+            },
+            {
+                  "name": "남산",
+                  "text": "Namsan Mountain este un vârf montan situat în Kaesŏng.",
+                  "category": "natural",
+                  "coords": [
+                        126.55362,
+                        37.956007
+                  ]
+            },
+            {
+                  "name": "남대문",
+                  "text": "Namdaemun este un monument situat în Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.55646,
+                        37.971914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koryo Museum (Sungyangwan Academy)",
+                  "text": "Koryo Museum (Sungyangwan Academy) is a museum located in Kaesŏng.",
+                  "category": "museum",
+                  "coords": [
+                        126.570744,
+                        37.991184
+                  ]
+            },
+            {
+                  "name": "Sungyang Seowon",
+                  "text": "Sungyang Seowon is an archaeological site in Kaesŏng. It is a historic Confucian academy dating back to the Joseon Dynasty.",
+                  "category": "historical",
+                  "coords": [
+                        126.560924,
+                        37.974968
+                  ]
+            },
+            {
+                  "name": "Revolutionary Museum for the History of Kaesong",
+                  "text": "Revolutionary Museum for the History of Kaesong is a museum located in Kaesŏng.",
+                  "category": "museum",
+                  "coords": [
+                        126.559262,
+                        37.975954
+                  ]
+            },
+            {
+                  "name": "Manwoldae Palace",
+                  "text": "Manwoldae Palace is an archaeological site located in Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.542601,
+                        37.985627
+                  ]
+            },
+            {
+                  "name": "Kaesong Chomsongdae",
+                  "text": "Kaesong Chomsongdae is an archaeological site located in Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.539708,
+                        37.986809
+                  ]
+            },
+            {
+                  "name": "Sonjuk Bridge and Phyochung Monuments",
+                  "text": "Sonjuk Bridge and Phyochung Monuments is an archaeological site located in Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.565847,
+                        37.976956
+                  ]
+            },
+            {
+                  "name": "눌리문",
+                  "text": "눌리문 is a castle located in Kaesŏng.",
+                  "category": "castle",
+                  "coords": [
+                        126.535538,
+                        37.983989
+                  ]
+            },
+            {
+                  "name": "Namsan Mountain",
+                  "text": "Namsan Mountain is a peak located in Kaesŏng.",
+                  "category": "natural",
+                  "coords": [
+                        126.55362,
+                        37.956007
+                  ]
+            },
+            {
+                  "name": "Namdaemun",
+                  "text": "Namdaemun is a monument located in Kaesŏng.",
+                  "category": "historical",
+                  "coords": [
+                        126.55646,
+                        37.971914
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-15",
     coords: [126.5544, 37.9708],
@@ -393,7 +933,52 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     }
   },
   {
-    id: "kp-sariwon-cities-v2",
+    id: "kp-sariwon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "사리원력사박물관",
+                  "text": "Das Sariwon History Museum ist ein Museum in Sariwŏn.",
+                  "category": "museum",
+                  "coords": [
+                        125.75114,
+                        38.503564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "사리원력사박물관",
+                  "text": "A Sariwon History Museum egy múzeum Sariwŏn városában.",
+                  "category": "museum",
+                  "coords": [
+                        125.75114,
+                        38.503564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "사리원력사박물관",
+                  "text": "Sariwon History Museum este un muzeu în Sariwŏn.",
+                  "category": "museum",
+                  "coords": [
+                        125.75114,
+                        38.503564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sariwon History Museum",
+                  "text": "Sariwon History Museum is a museum in Sariwŏn.",
+                  "category": "museum",
+                  "coords": [
+                        125.75114,
+                        38.503564
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-06",
     coords: [125.7536, 38.5081],
@@ -525,7 +1110,160 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     }
   },
   {
-    id: "kp-haeju-cities-v2",
+    id: "kp-haeju-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "태봉각",
+                  "text": "Taebonggak ist ein Schloss in Haeju.",
+                  "category": "castle",
+                  "coords": [
+                        125.702691,
+                        38.042295
+                  ]
+            },
+            {
+                  "name": "다라니석당",
+                  "text": "Daranisŏkdang ist ein Schloss in Haeju.",
+                  "category": "castle",
+                  "coords": [
+                        125.717222,
+                        38.039609
+                  ]
+            },
+            {
+                  "name": "황해남도혁명사적관",
+                  "text": "Das Hwanghaenamdo Revolutionary History Museum ist ein Museum in Haeju.",
+                  "category": "museum",
+                  "coords": [
+                        125.708867,
+                        38.043173
+                  ]
+            },
+            {
+                  "name": "해주동물원",
+                  "text": "Der Haeju Zoo ist ein zoologischer Garten in Haeju.",
+                  "category": "recreational",
+                  "coords": [
+                        125.701782,
+                        38.032596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "태봉각",
+                  "text": "A Taebonggak egy kastély Haeju városában.",
+                  "category": "castle",
+                  "coords": [
+                        125.702691,
+                        38.042295
+                  ]
+            },
+            {
+                  "name": "다라니석당",
+                  "text": "A Daranisŏkdang egy kastély Haeju városában.",
+                  "category": "castle",
+                  "coords": [
+                        125.717222,
+                        38.039609
+                  ]
+            },
+            {
+                  "name": "황해남도혁명사적관",
+                  "text": "A Hwanghaenamdo Revolutionary History Museum egy múzeum Haeju városában.",
+                  "category": "museum",
+                  "coords": [
+                        125.708867,
+                        38.043173
+                  ]
+            },
+            {
+                  "name": "해주동물원",
+                  "text": "A Haeju Zoo egy állatkert Haeju városában.",
+                  "category": "recreational",
+                  "coords": [
+                        125.701782,
+                        38.032596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "태봉각",
+                  "text": "Taebonggak este un castel în Haeju.",
+                  "category": "castle",
+                  "coords": [
+                        125.702691,
+                        38.042295
+                  ]
+            },
+            {
+                  "name": "다라니석당",
+                  "text": "Daranisŏkdang este un castel în Haeju.",
+                  "category": "castle",
+                  "coords": [
+                        125.717222,
+                        38.039609
+                  ]
+            },
+            {
+                  "name": "황해남도혁명사적관",
+                  "text": "Hwanghaenamdo Revolutionary History Museum este un muzeu în Haeju.",
+                  "category": "museum",
+                  "coords": [
+                        125.708867,
+                        38.043173
+                  ]
+            },
+            {
+                  "name": "해주동물원",
+                  "text": "Haeju Zoo este o grădină zoologică în Haeju.",
+                  "category": "recreational",
+                  "coords": [
+                        125.701782,
+                        38.032596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taebonggak",
+                  "text": "Taebonggak is a castle in Haeju.",
+                  "category": "castle",
+                  "coords": [
+                        125.702691,
+                        38.042295
+                  ]
+            },
+            {
+                  "name": "Daranisŏkdang",
+                  "text": "Daranisŏkdang is a castle in Haeju.",
+                  "category": "castle",
+                  "coords": [
+                        125.717222,
+                        38.039609
+                  ]
+            },
+            {
+                  "name": "Hwanghaenamdo Revolutionary History Museum",
+                  "text": "Hwanghaenamdo Revolutionary History Museum is a museum in Haeju.",
+                  "category": "museum",
+                  "coords": [
+                        125.708867,
+                        38.043173
+                  ]
+            },
+            {
+                  "name": "Haeju Zoo",
+                  "text": "Haeju Zoo is a zoo in Haeju.",
+                  "category": "recreational",
+                  "coords": [
+                        125.701782,
+                        38.032596
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-05",
     coords: [125.7144, 38.0308],
@@ -569,7 +1307,340 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     }
   },
   {
-    id: "kp-kanggye-cities-v2",
+    id: "kp-kanggye-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "자강도 김일성동지혁명사적관",
+                  "text": "Museum in Kanggye.",
+                  "category": "museum",
+                  "coords": [
+                        126.589709,
+                        40.972495
+                  ]
+            },
+            {
+                  "name": "강계아사",
+                  "text": "Archäologische Stätte in Kanggye.",
+                  "category": "historical",
+                  "coords": [
+                        126.595311,
+                        40.971791
+                  ]
+            },
+            {
+                  "name": "해방원 극장",
+                  "text": "Theater in Kanggye.",
+                  "category": "cultural",
+                  "coords": [
+                        126.602118,
+                        40.96115
+                  ]
+            },
+            {
+                  "name": "강계물놀이장",
+                  "text": "Wasserpark in Kanggye.",
+                  "category": "recreational",
+                  "coords": [
+                        126.595677,
+                        40.979435
+                  ]
+            },
+            {
+                  "name": "강계시극장",
+                  "text": "Theater in Kanggye.",
+                  "category": "cultural",
+                  "coords": [
+                        126.586105,
+                        40.967033
+                  ]
+            },
+            {
+                  "name": "강계동물원",
+                  "text": "Zoo in Kanggye.",
+                  "category": "recreational",
+                  "coords": [
+                        126.574067,
+                        40.964192
+                  ]
+            },
+            {
+                  "name": "연풍혁명사적지",
+                  "text": "Museum in Kanggye.",
+                  "category": "museum",
+                  "coords": [
+                        126.598377,
+                        40.978611
+                  ]
+            },
+            {
+                  "name": "김일성과 김정일의 동상",
+                  "text": "Denkmal in Kanggye.",
+                  "category": "historical",
+                  "coords": [
+                        126.59436,
+                        40.967162
+                  ]
+            },
+            {
+                  "name": "인풍루",
+                  "text": "Attraktion in Kanggye.",
+                  "category": "landmark",
+                  "coords": [
+                        126.587597,
+                        40.971292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "자강도 김일성동지혁명사적관",
+                  "text": "Múzeum Kanggye-ben.",
+                  "category": "museum",
+                  "coords": [
+                        126.589709,
+                        40.972495
+                  ]
+            },
+            {
+                  "name": "강계아사",
+                  "text": "Régészeti lelőhely Kanggye-ben.",
+                  "category": "historical",
+                  "coords": [
+                        126.595311,
+                        40.971791
+                  ]
+            },
+            {
+                  "name": "해방원 극장",
+                  "text": "Színház Kanggye-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        126.602118,
+                        40.96115
+                  ]
+            },
+            {
+                  "name": "강계물놀이장",
+                  "text": "Vízipark Kanggye-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        126.595677,
+                        40.979435
+                  ]
+            },
+            {
+                  "name": "강계시극장",
+                  "text": "Színház Kanggye-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        126.586105,
+                        40.967033
+                  ]
+            },
+            {
+                  "name": "강계동물원",
+                  "text": "Állatkert Kanggye-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        126.574067,
+                        40.964192
+                  ]
+            },
+            {
+                  "name": "연풍혁명사적지",
+                  "text": "Múzeum Kanggye-ben.",
+                  "category": "museum",
+                  "coords": [
+                        126.598377,
+                        40.978611
+                  ]
+            },
+            {
+                  "name": "김일성과 김정일의 동상",
+                  "text": "Emlékmű Kanggye-ben.",
+                  "category": "historical",
+                  "coords": [
+                        126.59436,
+                        40.967162
+                  ]
+            },
+            {
+                  "name": "인풍루",
+                  "text": "Látnivaló Kanggye-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        126.587597,
+                        40.971292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "자강도 김일성동지혁명사적관",
+                  "text": "Muzeu în Kanggye.",
+                  "category": "museum",
+                  "coords": [
+                        126.589709,
+                        40.972495
+                  ]
+            },
+            {
+                  "name": "강계아사",
+                  "text": "Sit arheologic în Kanggye.",
+                  "category": "historical",
+                  "coords": [
+                        126.595311,
+                        40.971791
+                  ]
+            },
+            {
+                  "name": "해방원 극장",
+                  "text": "Teatru în Kanggye.",
+                  "category": "cultural",
+                  "coords": [
+                        126.602118,
+                        40.96115
+                  ]
+            },
+            {
+                  "name": "강계물놀이장",
+                  "text": "Parc acvatic în Kanggye.",
+                  "category": "recreational",
+                  "coords": [
+                        126.595677,
+                        40.979435
+                  ]
+            },
+            {
+                  "name": "강계시극장",
+                  "text": "Teatru în Kanggye.",
+                  "category": "cultural",
+                  "coords": [
+                        126.586105,
+                        40.967033
+                  ]
+            },
+            {
+                  "name": "강계동물원",
+                  "text": "Grădină zoologică în Kanggye.",
+                  "category": "recreational",
+                  "coords": [
+                        126.574067,
+                        40.964192
+                  ]
+            },
+            {
+                  "name": "연풍혁명사적지",
+                  "text": "Muzeu în Kanggye.",
+                  "category": "museum",
+                  "coords": [
+                        126.598377,
+                        40.978611
+                  ]
+            },
+            {
+                  "name": "김일성과 김정일의 동상",
+                  "text": "Monument în Kanggye.",
+                  "category": "historical",
+                  "coords": [
+                        126.59436,
+                        40.967162
+                  ]
+            },
+            {
+                  "name": "인풍루",
+                  "text": "Atracție în Kanggye.",
+                  "category": "landmark",
+                  "coords": [
+                        126.587597,
+                        40.971292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jagang Kim Il-Sung Revolutionary Museum",
+                  "text": "Museum in Kanggye.",
+                  "category": "museum",
+                  "coords": [
+                        126.589709,
+                        40.972495
+                  ]
+            },
+            {
+                  "name": "Ganggye Asa",
+                  "text": "Archaeological site in Kanggye.",
+                  "category": "historical",
+                  "coords": [
+                        126.595311,
+                        40.971791
+                  ]
+            },
+            {
+                  "name": "Haebangwon Theatre",
+                  "text": "Theatre in Kanggye.",
+                  "category": "cultural",
+                  "coords": [
+                        126.602118,
+                        40.96115
+                  ]
+            },
+            {
+                  "name": "Kanggye Water Park",
+                  "text": "Water park in Kanggye.",
+                  "category": "recreational",
+                  "coords": [
+                        126.595677,
+                        40.979435
+                  ]
+            },
+            {
+                  "name": "Kanggye Theatre",
+                  "text": "Theatre in Kanggye.",
+                  "category": "cultural",
+                  "coords": [
+                        126.586105,
+                        40.967033
+                  ]
+            },
+            {
+                  "name": "Kanggye Zoo",
+                  "text": "Zoo in Kanggye.",
+                  "category": "recreational",
+                  "coords": [
+                        126.574067,
+                        40.964192
+                  ]
+            },
+            {
+                  "name": "Yonphung Revolutionary Site",
+                  "text": "Museum in Kanggye.",
+                  "category": "museum",
+                  "coords": [
+                        126.598377,
+                        40.978611
+                  ]
+            },
+            {
+                  "name": "Kim Il-Sung and Kim Jong-Il Monuments",
+                  "text": "Monument in Kanggye.",
+                  "category": "historical",
+                  "coords": [
+                        126.59436,
+                        40.967162
+                  ]
+            },
+            {
+                  "name": "인풍루",
+                  "text": "Attraction in Kanggye.",
+                  "category": "landmark",
+                  "coords": [
+                        126.587597,
+                        40.971292
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-04",
     coords: [126.5861, 40.9694],
@@ -657,7 +1728,52 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kp-tokchon-cities-v2",
+    id: "kp-tokchon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "덕천시극장",
+                  "text": "Das Tokchon City Theatre ist ein Theater in Tŏkch'ŏn.",
+                  "category": "cultural",
+                  "coords": [
+                        126.303223,
+                        39.762954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "덕천시극장",
+                  "text": "A Tokchon City Theatre egy színház Tŏkch'ŏn városában.",
+                  "category": "cultural",
+                  "coords": [
+                        126.303223,
+                        39.762954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "덕천시극장",
+                  "text": "Tokchon City Theatre este un teatru în Tŏkch'ŏn.",
+                  "category": "cultural",
+                  "coords": [
+                        126.303223,
+                        39.762954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tokchon City Theatre",
+                  "text": "Tokchon City Theatre is a theatre in Tŏkch'ŏn.",
+                  "category": "cultural",
+                  "coords": [
+                        126.303223,
+                        39.762954
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-02",
     coords: [126.2869, 39.7547],
@@ -745,7 +1861,52 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kp-rason-cities-v2",
+    id: "kp-rason-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "미술관",
+                  "text": "Art Gallery ist ein Museum in Rasŏn.",
+                  "category": "museum",
+                  "coords": [
+                        130.296132,
+                        42.250387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "미술관",
+                  "text": "Az Art Gallery egy múzeum Rasŏn városában.",
+                  "category": "museum",
+                  "coords": [
+                        130.296132,
+                        42.250387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "미술관",
+                  "text": "Art Gallery este un muzeu situat în Rasŏn.",
+                  "category": "museum",
+                  "coords": [
+                        130.296132,
+                        42.250387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art Gallery",
+                  "text": "Art Gallery is a museum located in Rasŏn.",
+                  "category": "museum",
+                  "coords": [
+                        130.296132,
+                        42.250387
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-13",
     coords: [130.2981, 42.2472],
@@ -1229,7 +2390,124 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     }
   },
   {
-    id: "kp-samjiyon-cities-v2",
+    id: "kp-samjiyon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "삼지연혁명사적관",
+                  "text": "Historisches Museum in Samjiyŏn.",
+                  "category": "museum",
+                  "coords": [
+                        128.341799,
+                        41.830715
+                  ]
+            },
+            {
+                  "name": "위대한 김일성동지 기념비",
+                  "text": "Denkmal in Samjiyŏn.",
+                  "category": "historical",
+                  "coords": [
+                        128.338167,
+                        41.830345
+                  ]
+            },
+            {
+                  "name": "베개봉밀영혁명사적지",
+                  "text": "Historische Stätte in Samjiyŏn.",
+                  "category": "landmark",
+                  "coords": [
+                        128.304899,
+                        41.81916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "삼지연혁명사적관",
+                  "text": "Történeti múzeum Samjiyŏnban.",
+                  "category": "museum",
+                  "coords": [
+                        128.341799,
+                        41.830715
+                  ]
+            },
+            {
+                  "name": "위대한 김일성동지 기념비",
+                  "text": "Emlékmű Samjiyŏnban.",
+                  "category": "historical",
+                  "coords": [
+                        128.338167,
+                        41.830345
+                  ]
+            },
+            {
+                  "name": "베개봉밀영혁명사적지",
+                  "text": "Történelmi emlékhely Samjiyŏnban.",
+                  "category": "landmark",
+                  "coords": [
+                        128.304899,
+                        41.81916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "삼지연혁명사적관",
+                  "text": "Muzeu istoric în Samjiyŏn.",
+                  "category": "museum",
+                  "coords": [
+                        128.341799,
+                        41.830715
+                  ]
+            },
+            {
+                  "name": "위대한 김일성동지 기념비",
+                  "text": "Monument în Samjiyŏn.",
+                  "category": "historical",
+                  "coords": [
+                        128.338167,
+                        41.830345
+                  ]
+            },
+            {
+                  "name": "베개봉밀영혁명사적지",
+                  "text": "Loc istoric în Samjiyŏn.",
+                  "category": "landmark",
+                  "coords": [
+                        128.304899,
+                        41.81916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samjiyon Revolutionary Historical Museum",
+                  "text": "Historical museum in Samjiyŏn.",
+                  "category": "museum",
+                  "coords": [
+                        128.341799,
+                        41.830715
+                  ]
+            },
+            {
+                  "name": "위대한 김일성동지 기념비",
+                  "text": "Monument in Samjiyŏn.",
+                  "category": "historical",
+                  "coords": [
+                        128.338167,
+                        41.830345
+                  ]
+            },
+            {
+                  "name": "Pillow Bong Secret Camp Revolutionary Historic Site",
+                  "text": "Historic site in Samjiyŏn.",
+                  "category": "landmark",
+                  "coords": [
+                        128.304899,
+                        41.81916
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KP-10",
     coords: [128.3200, 41.8317],

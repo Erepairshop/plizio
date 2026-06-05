@@ -60,7 +60,52 @@ export const poiExtraJordanCitiesV2: POI[] = [
       en: ["Area: The Greater Amman Municipality covers approximately 1,680 sq km.", "Population: Home to about 4.5 million people, nearly 40% of Jordan's population.", "Elevation: Ranges from 700 to 1,100 meters across its many hills (jabals).", "Historical Name: Philadelphia, named after Ptolemy II Philadelphus.", "Roman Theater: Still used today, it was built when the city was a Roman colony.", "Abdali Project: A massive 35-hectare urban redevelopment in the city center.", "Dead Sea Proximity: Located only 50 kilometers away from the world's lowest point.", "Water Management: The city is supplied by the Disi Water Conveyance Project."],
     }, image: "/poi-images/amman-cities-v2.webp"},
   {
-    id: "zarqa-cities-v2",
+    id: "zarqa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jneneh",
+                  "text": "Jneneh ist eine archäologische Stätte in der Stadt Zarqa.",
+                  "category": "historical",
+                  "coords": [
+                        36.067936,
+                        32.076472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jneneh",
+                  "text": "Jneneh egy régészeti lelőhely Zarqa városában.",
+                  "category": "historical",
+                  "coords": [
+                        36.067936,
+                        32.076472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jneneh",
+                  "text": "Jneneh este un sit arheologic aflat în orașul Zarqa.",
+                  "category": "historical",
+                  "coords": [
+                        36.067936,
+                        32.076472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jneneh",
+                  "text": "Jneneh is an archaeological site located in the city of Zarqa.",
+                  "category": "historical",
+                  "coords": [
+                        36.067936,
+                        32.076472
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-AZ",
     coords: [36.0961, 32.0645],
@@ -123,7 +168,304 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 1,4 million d'habitants, 2e ville de Jordanie", "25 kilomètres au nord-est d'Amman", "Fondée en 1902 par des réfugiés tchétchènes", "Quartier général de la Légion arabe sous le mandat britannique 1921-1946", "Plus grande raffinerie de pétrole de Jordanie, ouverte en 1961", "Capacité de raffinage d'environ 100 000 barils par jour", "Part importante de réfugiés palestiniens", "Le nom signifie 'la Bleue' en arabe"],
     }, image: "/poi-images/zarqa-cities-v2.webp"},
   {
-    id: "irbid-cities-v2",
+    id: "irbid-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مدرج الكندي",
+                  "text": "Das Al-Kindi-Theater ist eine kulturelle Einrichtung in Irbid.",
+                  "category": "cultural",
+                  "coords": [
+                        35.856525,
+                        32.538544
+                  ]
+            },
+            {
+                  "name": "متحف الحيوانات",
+                  "text": "Ein Tiermuseum in Irbid.",
+                  "category": "museum",
+                  "coords": [
+                        35.857628,
+                        32.537195
+                  ]
+            },
+            {
+                  "name": "Irbid Archaeological Museum",
+                  "text": "Das Archäologische Museum Irbid zeigt historische Funde der Region.",
+                  "category": "museum",
+                  "coords": [
+                        35.848022,
+                        32.557798
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Ein historisches Museum in Irbid.",
+                  "category": "museum",
+                  "coords": [
+                        35.853838,
+                        32.535708
+                  ]
+            },
+            {
+                  "name": "ابراهيم الشاعر",
+                  "text": "Ibrahim Al-Shaer ist eine bekannte Attraktion in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.868205,
+                        32.572234
+                  ]
+            },
+            {
+                  "name": "اشارة النسيم",
+                  "text": "Das Al-Naseem-Signal ist ein markanter Ort in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85248,
+                        32.531232
+                  ]
+            },
+            {
+                  "name": "اشارة الاسكان",
+                  "text": "Das Al-Iskan-Signal ist eine bekannte Stelle in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.8504,
+                        32.54394
+                  ]
+            },
+            {
+                  "name": "دوار الجامعة",
+                  "text": "Der Universitäts-Kreisverkehr ist ein markanter Punkt in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851165,
+                        32.541122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مدرج الكندي",
+                  "text": "Az Al-Kindi Színház egy kulturális intézmény Irbidben.",
+                  "category": "cultural",
+                  "coords": [
+                        35.856525,
+                        32.538544
+                  ]
+            },
+            {
+                  "name": "متحف الحيوانات",
+                  "text": "Állatmúzeum Irbidben.",
+                  "category": "museum",
+                  "coords": [
+                        35.857628,
+                        32.537195
+                  ]
+            },
+            {
+                  "name": "Irbid Archaeological Museum",
+                  "text": "Az Irbidi Régészeti Múzeum a régió történelmi leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.848022,
+                        32.557798
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Történeti múzeum Irbidben.",
+                  "category": "museum",
+                  "coords": [
+                        35.853838,
+                        32.535708
+                  ]
+            },
+            {
+                  "name": "ابراهيم الشاعر",
+                  "text": "Ibrahim Al-Shaer egy ismert látnivaló Irbidben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.868205,
+                        32.572234
+                  ]
+            },
+            {
+                  "name": "اشارة النسيم",
+                  "text": "Az Al-Naseem jelzés egy jellegzetes pont Irbidben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85248,
+                        32.531232
+                  ]
+            },
+            {
+                  "name": "اشارة الاسكان",
+                  "text": "Az Al-Iskan jelzés egy ismert hely Irbidben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.8504,
+                        32.54394
+                  ]
+            },
+            {
+                  "name": "دوار الجامعة",
+                  "text": "Az Egyetemi körforgalom egy jellegzetes pont Irbidben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851165,
+                        32.541122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مدرج الكندي",
+                  "text": "Teatrul Al-Kindi este o instituție culturală din Irbid.",
+                  "category": "cultural",
+                  "coords": [
+                        35.856525,
+                        32.538544
+                  ]
+            },
+            {
+                  "name": "متحف الحيوانات",
+                  "text": "Un muzeu de animale din Irbid.",
+                  "category": "museum",
+                  "coords": [
+                        35.857628,
+                        32.537195
+                  ]
+            },
+            {
+                  "name": "Irbid Archaeological Museum",
+                  "text": "Muzeul Arheologic din Irbid expune descoperiri istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        35.848022,
+                        32.557798
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Un muzeu istoric din Irbid.",
+                  "category": "museum",
+                  "coords": [
+                        35.853838,
+                        32.535708
+                  ]
+            },
+            {
+                  "name": "ابراهيم الشاعر",
+                  "text": "Ibrahim Al-Shaer este o atracție cunoscută din Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.868205,
+                        32.572234
+                  ]
+            },
+            {
+                  "name": "اشارة النسيم",
+                  "text": "Semnalul Al-Naseem este un punct proeminent în Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85248,
+                        32.531232
+                  ]
+            },
+            {
+                  "name": "اشارة الاسكان",
+                  "text": "Semnalul Al-Iskan este un punct cunoscut în Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.8504,
+                        32.54394
+                  ]
+            },
+            {
+                  "name": "دوار الجامعة",
+                  "text": "Sensul giratoriu al Universității este un punct de reper în Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851165,
+                        32.541122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "مدرج الكندي",
+                  "text": "The Al-Kindi Theatre is a cultural institution in Irbid.",
+                  "category": "cultural",
+                  "coords": [
+                        35.856525,
+                        32.538544
+                  ]
+            },
+            {
+                  "name": "متحف الحيوانات",
+                  "text": "An animal museum in Irbid.",
+                  "category": "museum",
+                  "coords": [
+                        35.857628,
+                        32.537195
+                  ]
+            },
+            {
+                  "name": "Irbid Archaeological Museum",
+                  "text": "The Irbid Archaeological Museum displays historical findings of the region.",
+                  "category": "museum",
+                  "coords": [
+                        35.848022,
+                        32.557798
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "A historical museum in Irbid.",
+                  "category": "museum",
+                  "coords": [
+                        35.853838,
+                        32.535708
+                  ]
+            },
+            {
+                  "name": "ابراهيم الشاعر",
+                  "text": "Ibrahim Al-Shaer is a known attraction in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.868205,
+                        32.572234
+                  ]
+            },
+            {
+                  "name": "اشارة النسيم",
+                  "text": "The Al-Naseem signal is a landmark in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.85248,
+                        32.531232
+                  ]
+            },
+            {
+                  "name": "اشارة الاسكان",
+                  "text": "The Al-Iskan signal is a known spot in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.8504,
+                        32.54394
+                  ]
+            },
+            {
+                  "name": "دوار الجامعة",
+                  "text": "The University roundabout is a landmark in Irbid.",
+                  "category": "landmark",
+                  "coords": [
+                        35.851165,
+                        32.541122
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-IR",
     coords: [35.8500, 32.5556],
@@ -186,7 +528,484 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 600 000 habitants, 3e plus grande ville de Jordanie", "85 kilomètres au nord d'Amman", "Nom antique Arbila ou Arabella dans la Décapole", "Peuplement depuis l'âge du bronze vers 3000 av. J.-C.", "Université de Yarmouk fondée en 1976 (40 000 étudiants)", "Université jordanienne des sciences et technologies depuis 1986", "Mandat britannique de 1921 à 1946", "Région importante pour la culture des olives et du blé"],
     }, image: "/poi-images/irbid-cities-v2.webp"},
   {
-    id: "aqaba-cities-v2",
+    id: "aqaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Festung Akaba",
+                  "text": "Aqaba Castle ist eine bekannte Burg in Akaba.",
+                  "category": "castle",
+                  "coords": [
+                        35.00204,
+                        29.521384
+                  ]
+            },
+            {
+                  "name": "آيلة",
+                  "text": "Ayla ist eine archäologische Stätte in Akaba.",
+                  "category": "historical",
+                  "coords": [
+                        34.999934,
+                        29.530594
+                  ]
+            },
+            {
+                  "name": "Frühchristliche Kirchenruinen",
+                  "text": "Die Aqaba Church ist eine historische archäologische Stätte in Akaba.",
+                  "category": "historical",
+                  "coords": [
+                        34.999075,
+                        29.533704
+                  ]
+            },
+            {
+                  "name": "الغندور",
+                  "text": "Alghandour ist ein Strand in Akaba.",
+                  "category": "recreational",
+                  "coords": [
+                        35.000824,
+                        29.525028
+                  ]
+            },
+            {
+                  "name": "B12",
+                  "text": "B12 ist ein Strand in Akaba.",
+                  "category": "recreational",
+                  "coords": [
+                        34.983333,
+                        29.552185
+                  ]
+            },
+            {
+                  "name": "Rosary Sister School",
+                  "text": "Rosary Sister School ist ein Theaterraum in Akaba.",
+                  "category": "cultural",
+                  "coords": [
+                        35.00018,
+                        29.543012
+                  ]
+            },
+            {
+                  "name": "Rose City Saraya Waterpark",
+                  "text": "Rose City Saraya Waterpark ist ein Wasserpark in Akaba.",
+                  "category": "recreational",
+                  "coords": [
+                        34.993029,
+                        29.541657
+                  ]
+            },
+            {
+                  "name": "Prince Haya Park",
+                  "text": "Prince Haya Park ist ein öffentlicher Park in Akaba.",
+                  "category": "park",
+                  "coords": [
+                        35.001599,
+                        29.534295
+                  ]
+            },
+            {
+                  "name": "Roof viewpoint",
+                  "text": "Der Roof viewpoint bietet einen Panoramablick in Akaba.",
+                  "category": "natural",
+                  "coords": [
+                        35.003267,
+                        29.530147
+                  ]
+            },
+            {
+                  "name": "Aqaba Trail",
+                  "text": "Aqaba Trail ist eine bemerkenswerte Touristenattraktion in Akaba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007174,
+                        29.533143
+                  ]
+            },
+            {
+                  "name": "فندق أحلى طلة",
+                  "text": "فندق أحلى طلة ist ein Aussichtspunkt in Akaba.",
+                  "category": "natural",
+                  "coords": [
+                        35.002786,
+                        29.52316
+                  ]
+            },
+            {
+                  "name": "فندق دويك 3",
+                  "text": "فندق دويك 3 dient als Aussichtspunkt in Akaba.",
+                  "category": "natural",
+                  "coords": [
+                        35.005219,
+                        29.531551
+                  ]
+            },
+            {
+                  "name": "Ayla Oasis",
+                  "text": "Ayla Oasis ist eine bekannte Touristenattraktion in Akaba.",
+                  "category": "landmark",
+                  "coords": [
+                        34.988716,
+                        29.553456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة العقبة",
+                  "text": "Az Aqaba Castle egy ismert vár Akaba városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.00204,
+                        29.521384
+                  ]
+            },
+            {
+                  "name": "آيلة",
+                  "text": "Ayla egy régészeti lelőhely Akaba városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.999934,
+                        29.530594
+                  ]
+            },
+            {
+                  "name": "Aqaba Church",
+                  "text": "Az Aqaba Church egy történelmi régészeti lelőhely Akaba városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.999075,
+                        29.533704
+                  ]
+            },
+            {
+                  "name": "الغندور",
+                  "text": "Az Alghandour egy strand Akabában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.000824,
+                        29.525028
+                  ]
+            },
+            {
+                  "name": "B12",
+                  "text": "A B12 egy strand Akabában.",
+                  "category": "recreational",
+                  "coords": [
+                        34.983333,
+                        29.552185
+                  ]
+            },
+            {
+                  "name": "Rosary Sister School",
+                  "text": "A Rosary Sister School egy színházi tér Akabában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.00018,
+                        29.543012
+                  ]
+            },
+            {
+                  "name": "Rose City Saraya Waterpark",
+                  "text": "A Rose City Saraya Waterpark egy vízipark Akabában.",
+                  "category": "recreational",
+                  "coords": [
+                        34.993029,
+                        29.541657
+                  ]
+            },
+            {
+                  "name": "Prince Haya Park",
+                  "text": "A Prince Haya Park egy nyilvános park Akabában.",
+                  "category": "park",
+                  "coords": [
+                        35.001599,
+                        29.534295
+                  ]
+            },
+            {
+                  "name": "Roof viewpoint",
+                  "text": "A Roof viewpoint panorámás kilátást nyújt Akabában.",
+                  "category": "natural",
+                  "coords": [
+                        35.003267,
+                        29.530147
+                  ]
+            },
+            {
+                  "name": "Aqaba Trail",
+                  "text": "Az Aqaba Trail egy figyelemre méltó turisztikai látványosság Akabában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007174,
+                        29.533143
+                  ]
+            },
+            {
+                  "name": "فندق أحلى طلة",
+                  "text": "A فندق أحلى طلة egy festői kilátó Akabában.",
+                  "category": "natural",
+                  "coords": [
+                        35.002786,
+                        29.52316
+                  ]
+            },
+            {
+                  "name": "فندق دويك 3",
+                  "text": "A فندق دويك 3 egy kilátó Akabában.",
+                  "category": "natural",
+                  "coords": [
+                        35.005219,
+                        29.531551
+                  ]
+            },
+            {
+                  "name": "Ayla Oasis",
+                  "text": "Az Ayla Oasis egy jól ismert turisztikai látványosság Akabában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.988716,
+                        29.553456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة العقبة",
+                  "text": "Aqaba Castle este un castel notabil în Akaba.",
+                  "category": "castle",
+                  "coords": [
+                        35.00204,
+                        29.521384
+                  ]
+            },
+            {
+                  "name": "آيلة",
+                  "text": "Ayla este un sit arheologic în Akaba.",
+                  "category": "historical",
+                  "coords": [
+                        34.999934,
+                        29.530594
+                  ]
+            },
+            {
+                  "name": "Aqaba Church",
+                  "text": "Aqaba Church este un sit arheologic istoric în Akaba.",
+                  "category": "historical",
+                  "coords": [
+                        34.999075,
+                        29.533704
+                  ]
+            },
+            {
+                  "name": "الغندور",
+                  "text": "Alghandour este o plajă situată în Akaba.",
+                  "category": "recreational",
+                  "coords": [
+                        35.000824,
+                        29.525028
+                  ]
+            },
+            {
+                  "name": "B12",
+                  "text": "B12 este o plajă situată în Akaba.",
+                  "category": "recreational",
+                  "coords": [
+                        34.983333,
+                        29.552185
+                  ]
+            },
+            {
+                  "name": "Rosary Sister School",
+                  "text": "Rosary Sister School este un teatru din Akaba.",
+                  "category": "cultural",
+                  "coords": [
+                        35.00018,
+                        29.543012
+                  ]
+            },
+            {
+                  "name": "Rose City Saraya Waterpark",
+                  "text": "Rose City Saraya Waterpark este un parc acvatic din Akaba.",
+                  "category": "recreational",
+                  "coords": [
+                        34.993029,
+                        29.541657
+                  ]
+            },
+            {
+                  "name": "Prince Haya Park",
+                  "text": "Prince Haya Park este un parc public situat în Akaba.",
+                  "category": "park",
+                  "coords": [
+                        35.001599,
+                        29.534295
+                  ]
+            },
+            {
+                  "name": "Roof viewpoint",
+                  "text": "Roof viewpoint oferă vedere panoramică în Akaba.",
+                  "category": "natural",
+                  "coords": [
+                        35.003267,
+                        29.530147
+                  ]
+            },
+            {
+                  "name": "Aqaba Trail",
+                  "text": "Aqaba Trail este o atracție turistică notabilă din Akaba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007174,
+                        29.533143
+                  ]
+            },
+            {
+                  "name": "فندق أحلى طلة",
+                  "text": "فندق أحلى طلة este un punct de belvedere în Akaba.",
+                  "category": "natural",
+                  "coords": [
+                        35.002786,
+                        29.52316
+                  ]
+            },
+            {
+                  "name": "فندق دويك 3",
+                  "text": "فندق دويك 3 servește drept punct de belvedere în Akaba.",
+                  "category": "natural",
+                  "coords": [
+                        35.005219,
+                        29.531551
+                  ]
+            },
+            {
+                  "name": "Ayla Oasis",
+                  "text": "Ayla Oasis este o atracție turistică binecunoscută din Akaba.",
+                  "category": "landmark",
+                  "coords": [
+                        34.988716,
+                        29.553456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aqaba Castle",
+                  "text": "Aqaba Castle is a notable castle in Akaba.",
+                  "category": "castle",
+                  "coords": [
+                        35.00204,
+                        29.521384
+                  ]
+            },
+            {
+                  "name": "Ayla",
+                  "text": "Ayla is an archaeological site in Akaba.",
+                  "category": "historical",
+                  "coords": [
+                        34.999934,
+                        29.530594
+                  ]
+            },
+            {
+                  "name": "Aqaba Church",
+                  "text": "The Aqaba Church is a historic archaeological site in Akaba.",
+                  "category": "historical",
+                  "coords": [
+                        34.999075,
+                        29.533704
+                  ]
+            },
+            {
+                  "name": "Alghandour",
+                  "text": "Alghandour is a beach located in Akaba.",
+                  "category": "recreational",
+                  "coords": [
+                        35.000824,
+                        29.525028
+                  ]
+            },
+            {
+                  "name": "B12",
+                  "text": "B12 is a beach located in Akaba.",
+                  "category": "recreational",
+                  "coords": [
+                        34.983333,
+                        29.552185
+                  ]
+            },
+            {
+                  "name": "Rosary Sister School",
+                  "text": "Rosary Sister School is a theatre space in Akaba.",
+                  "category": "cultural",
+                  "coords": [
+                        35.00018,
+                        29.543012
+                  ]
+            },
+            {
+                  "name": "Rose City Saraya Waterpark",
+                  "text": "Rose City Saraya Waterpark is an aquatic park located in Akaba.",
+                  "category": "recreational",
+                  "coords": [
+                        34.993029,
+                        29.541657
+                  ]
+            },
+            {
+                  "name": "Prince Haya Park",
+                  "text": "Prince Haya Park is a public park situated in Akaba.",
+                  "category": "park",
+                  "coords": [
+                        35.001599,
+                        29.534295
+                  ]
+            },
+            {
+                  "name": "Roof viewpoint",
+                  "text": "Roof viewpoint offers panoramic views in Akaba.",
+                  "category": "natural",
+                  "coords": [
+                        35.003267,
+                        29.530147
+                  ]
+            },
+            {
+                  "name": "Aqaba Trail",
+                  "text": "Aqaba Trail is a notable tourist attraction in Akaba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.007174,
+                        29.533143
+                  ]
+            },
+            {
+                  "name": "فندق أحلى طلة",
+                  "text": "فندق أحلى طلة is a scenic viewpoint in Akaba.",
+                  "category": "natural",
+                  "coords": [
+                        35.002786,
+                        29.52316
+                  ]
+            },
+            {
+                  "name": "فندق دويك 3",
+                  "text": "فندق دويك 3 serves as a scenic viewpoint in Akaba.",
+                  "category": "natural",
+                  "coords": [
+                        35.005219,
+                        29.531551
+                  ]
+            },
+            {
+                  "name": "Ayla Oasis",
+                  "text": "Ayla Oasis is a well-known tourist attraction in Akaba.",
+                  "category": "landmark",
+                  "coords": [
+                        34.988716,
+                        29.553456
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-AQ",
     coords: [35.0006, 29.5321],
@@ -249,7 +1068,52 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 150 000 habitants, seul port maritime de Jordanie", "330 kilomètres au sud d'Amman au bord de la mer Rouge", "Ancienne cité d'Aila sur la route de l'encens", "Forteresse mamelouke construite vers 1510-1517", "Conquête par les troupes arabes le 6 juillet 1917", "Mandat britannique de 1921 à 1946", "Zone économique spéciale ASEZA depuis 2001", "Destination de plongée prisée avec ses récifs coralliens"],
     }, image: "/poi-images/aqaba-cities-v2.webp"},
   {
-    id: "russeifa-cities-v2",
+    id: "russeifa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "أبو صياح",
+                  "text": "أبو صياح ist ein lokales Museum in der Stadt Russeifa.",
+                  "category": "museum",
+                  "coords": [
+                        36.052531,
+                        31.995854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "أبو صياح",
+                  "text": "Az أبو صياح egy helyi múzeum Russeifa városában.",
+                  "category": "museum",
+                  "coords": [
+                        36.052531,
+                        31.995854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "أبو صياح",
+                  "text": "أبو صياح este un muzeu local situat în orașul Russeifa.",
+                  "category": "museum",
+                  "coords": [
+                        36.052531,
+                        31.995854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "أبو صياح",
+                  "text": "أبو صياح is a local museum exhibiting collections in Russeifa.",
+                  "category": "museum",
+                  "coords": [
+                        36.052531,
+                        31.995854
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-AZ",
     coords: [36.0461, 32.0178],
@@ -375,7 +1239,52 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 70 000 habitants à 770 mètres d'altitude", "30 kilomètres au sud-ouest d'Amman", "Mention biblique sous le nom de Médeba (Nombres 21,30)", "Carte en mosaïque de la Terre sainte du VIe siècle", "157 noms de lieux sur la carte de l'église Saint-Georges", "Âge d'or byzantin du IVe au VIIe siècle", "Mont Nébo à seulement 9 kilomètres", "Mandat britannique de 1921 à 1946"],
     }, image: "/poi-images/madaba-cities-v2.webp"},
   {
-    id: "ar-ramtha-cities-v2",
+    id: "ar-ramtha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "فيلا الاستاذ ابراهيم الذيابات ابو علي",
+                  "text": "Ibrahim Aldiabat Abu Ali ist eine lokale Burg in Ar-Ramtha.",
+                  "category": "castle",
+                  "coords": [
+                        36.001343,
+                        32.534187
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "فيلا الاستاذ ابراهيم الذيابات ابو علي",
+                  "text": "Az Ibrahim Aldiabat Abu Ali egy vár Ar-Ramtha városában.",
+                  "category": "castle",
+                  "coords": [
+                        36.001343,
+                        32.534187
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "فيلا الاستاذ ابراهيم الذيابات ابو علي",
+                  "text": "Ibrahim Aldiabat Abu Ali este un castel local din Ar-Ramtha.",
+                  "category": "castle",
+                  "coords": [
+                        36.001343,
+                        32.534187
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ibrahim Aldiabat Abu Ali",
+                  "text": "Ibrahim Aldiabat Abu Ali is a local castle in Ar-Ramtha.",
+                  "category": "castle",
+                  "coords": [
+                        36.001343,
+                        32.534187
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-IR",
     coords: [36.0069, 32.5592],
@@ -564,7 +1473,268 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 50 000 habitants à 1 070 mètres d'altitude", "220 kilomètres au sud d'Amman", "Gare historique du Hedjaz depuis 1904", "Étape majeure sur la route du pèlerinage vers la Mecque", "Capitale éphémère du royaume du Hedjaz-Ma'an (1920-1925)", "Mandat britannique de 1921 à 1946", "Université Al-Hussein Bin Talal depuis 1999", "Pétra à seulement 35 kilomètres à l'ouest"],
     }, image: "/poi-images/maan-cities-v2.webp"},
     {
-    id: "karak-cities-v2",
+    id: "karak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Kerak",
+                  "text": "Karak Castle ist eine große Kreuzritterburg in Karak.",
+                  "category": "castle",
+                  "coords": [
+                        35.701669,
+                        31.180484
+                  ]
+            },
+            {
+                  "name": "Museum Al-Karak",
+                  "text": "Das Al-Karak Museum zeigt historische Artefakte in Karak.",
+                  "category": "museum",
+                  "coords": [
+                        35.701723,
+                        31.182161
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kinnar",
+                  "text": "Khirbat al Kinnar zeigt antike Ruinen in Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.727222,
+                        31.191111
+                  ]
+            },
+            {
+                  "name": "Zahrat al Mataris",
+                  "text": "Zahrat al Mataris besteht aus historischen Ruinen in Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.702778,
+                        31.174444
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qurein",
+                  "text": "Khirbat al Qurein umfasst historische Ruinen in Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.710278,
+                        31.17
+                  ]
+            },
+            {
+                  "name": "بانوراما قلعة الكرك",
+                  "text": "بانوراما قلعة الكرك bietet einen Panoramablick in Karak.",
+                  "category": "natural",
+                  "coords": [
+                        35.706071,
+                        31.180855
+                  ]
+            },
+            {
+                  "name": "وجهة نظر قلعة كرك",
+                  "text": "وجهة نظر قلعة كرك ist ein Aussichtspunkt in Karak.",
+                  "category": "natural",
+                  "coords": [
+                        35.705388,
+                        31.17978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة الكرك",
+                  "text": "A Karak Castle egy nagy keresztes vár Karakban.",
+                  "category": "castle",
+                  "coords": [
+                        35.701669,
+                        31.180484
+                  ]
+            },
+            {
+                  "name": "متحف الكرك",
+                  "text": "Az Al-Karak Museum történelmi tárgyakat mutat be Karakban.",
+                  "category": "museum",
+                  "coords": [
+                        35.701723,
+                        31.182161
+                  ]
+            },
+            {
+                  "name": "خربة الكنار",
+                  "text": "A Khirbat al Kinnar ősi romokat foglal magában Karakban.",
+                  "category": "historical",
+                  "coords": [
+                        35.727222,
+                        31.191111
+                  ]
+            },
+            {
+                  "name": "ظهرة المتاريس",
+                  "text": "A Zahrat al Mataris történelmi romokból áll Karakban.",
+                  "category": "historical",
+                  "coords": [
+                        35.702778,
+                        31.174444
+                  ]
+            },
+            {
+                  "name": "خربة القرين",
+                  "text": "A Khirbat al Qurein történelmi romokat rejt Karakban.",
+                  "category": "historical",
+                  "coords": [
+                        35.710278,
+                        31.17
+                  ]
+            },
+            {
+                  "name": "بانوراما قلعة الكرك",
+                  "text": "A بانوراما قلعة الكرك panorámás kilátást nyújt Karakban.",
+                  "category": "natural",
+                  "coords": [
+                        35.706071,
+                        31.180855
+                  ]
+            },
+            {
+                  "name": "وجهة نظر قلعة كرك",
+                  "text": "A وجهة نظر قلعة كرك egy festői kilátó Karakban.",
+                  "category": "natural",
+                  "coords": [
+                        35.705388,
+                        31.17978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة الكرك",
+                  "text": "Castelul Karak este un mare castel cruciat situat în Karak.",
+                  "category": "castle",
+                  "coords": [
+                        35.701669,
+                        31.180484
+                  ]
+            },
+            {
+                  "name": "متحف الكرك",
+                  "text": "Muzeul Al-Karak prezintă artefacte istorice în Karak.",
+                  "category": "museum",
+                  "coords": [
+                        35.701723,
+                        31.182161
+                  ]
+            },
+            {
+                  "name": "خربة الكنار",
+                  "text": "Khirbat al Kinnar prezintă ruine antice în Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.727222,
+                        31.191111
+                  ]
+            },
+            {
+                  "name": "ظهرة المتاريس",
+                  "text": "Zahrat al Mataris constă în ruine istorice situate în Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.702778,
+                        31.174444
+                  ]
+            },
+            {
+                  "name": "خربة القرين",
+                  "text": "Khirbat al Qurein prezintă ruine istorice situate în Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.710278,
+                        31.17
+                  ]
+            },
+            {
+                  "name": "بانوراما قلعة الكرك",
+                  "text": "بانوراما قلعة الكرك oferă o vedere panoramică în Karak.",
+                  "category": "natural",
+                  "coords": [
+                        35.706071,
+                        31.180855
+                  ]
+            },
+            {
+                  "name": "وجهة نظر قلعة كرك",
+                  "text": "وجهة نظر قلعة كرك este un punct de belvedere situat în Karak.",
+                  "category": "natural",
+                  "coords": [
+                        35.705388,
+                        31.17978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karak Castle",
+                  "text": "Karak Castle is a large Crusader castle located in Karak.",
+                  "category": "castle",
+                  "coords": [
+                        35.701669,
+                        31.180484
+                  ]
+            },
+            {
+                  "name": "Al-Karak Museum",
+                  "text": "Al-Karak Museum showcases historical artifacts in Karak.",
+                  "category": "museum",
+                  "coords": [
+                        35.701723,
+                        31.182161
+                  ]
+            },
+            {
+                  "name": "Khirbat al Kinnar",
+                  "text": "Khirbat al Kinnar features ancient ruins in Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.727222,
+                        31.191111
+                  ]
+            },
+            {
+                  "name": "Zahrat al Mataris",
+                  "text": "Zahrat al Mataris consists of historical ruins situated in Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.702778,
+                        31.174444
+                  ]
+            },
+            {
+                  "name": "Khirbat al Qurein",
+                  "text": "Khirbat al Qurein features historical ruins located in Karak.",
+                  "category": "historical",
+                  "coords": [
+                        35.710278,
+                        31.17
+                  ]
+            },
+            {
+                  "name": "بانوراما قلعة الكرك",
+                  "text": "بانوراما قلعة الكرك offers a panoramic view in Karak.",
+                  "category": "natural",
+                  "coords": [
+                        35.706071,
+                        31.180855
+                  ]
+            },
+            {
+                  "name": "وجهة نظر قلعة كرك",
+                  "text": "وجهة نظر قلعة كرك is a scenic viewpoint situated in Karak.",
+                  "category": "natural",
+                  "coords": [
+                        35.705388,
+                        31.17978
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-KA",
     coords: [35.7000, 31.1833],
@@ -753,7 +1923,232 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 15 000 habitants à 750 mètres d'altitude", "75 kilomètres au nord-ouest d'Amman", "Château Qalʿat ar-Rabad bâti en 1184 sous Izz ad-Din Usama", "Érigé comme avant-poste ayyoubide contre les Croisés", "Occupation mongole en 1260 sous Hülegü", "Dégâts dus aux séismes de 1837 et 1927", "Mandat britannique de 1921 à 1946", "Réserve forestière d'Ajloun depuis 1987, 13 km²"],
     }, image: "/poi-images/ajloun-cities-v2.webp"},
   {
-    id: "as-salt-cities-v2",
+    id: "as-salt-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abu Jaber Museum",
+                  "text": "Das Abu Jaber Museum ist ein historisches Museum in einem bekannten Kaufmannshaus in As-Salt.",
+                  "category": "museum",
+                  "coords": [
+                        35.726172,
+                        32.038645
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum Salt",
+                  "text": "Das Salt Archaeological Museum stellt antike regionale Artefakte in As-Salt aus.",
+                  "category": "museum",
+                  "coords": [
+                        35.729332,
+                        32.03828
+                  ]
+            },
+            {
+                  "name": "Old English Hospital Museum",
+                  "text": "Das Old English Hospital Museum ist ein spezialisiertes historisches Museum in As-Salt.",
+                  "category": "museum",
+                  "coords": [
+                        35.725718,
+                        32.039589
+                  ]
+            },
+            {
+                  "name": "Wadi Schuʿeib",
+                  "text": "Wadi Shuʿeib ist ein Tal und Gipfel in As-Salt, das mit dem Propheten Jethro verbunden ist.",
+                  "category": "natural",
+                  "coords": [
+                        35.730936,
+                        32.031388
+                  ]
+            },
+            {
+                  "name": "Al Buqat",
+                  "text": "Al Buqat ist eine Stätte mit antiken Ruinen in As-Salt.",
+                  "category": "historical",
+                  "coords": [
+                        35.731751,
+                        32.048782
+                  ]
+            },
+            {
+                  "name": "Salt Türk Şehitliği",
+                  "text": "Salt Türk Şehitliği ist ein Denkmal für türkische Soldaten in As-Salt.",
+                  "category": "historical",
+                  "coords": [
+                        35.7246,
+                        32.041154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abu Jaber Museum",
+                  "text": "Az Abu Jaber Museum egy történelmi múzeum egy nevezetes kalmárházban As-Salt városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.726172,
+                        32.038645
+                  ]
+            },
+            {
+                  "name": "Salt Archaeological Museum",
+                  "text": "A Salt Archaeological Museum ősi regionális leleteket állít ki As-Salt városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.729332,
+                        32.03828
+                  ]
+            },
+            {
+                  "name": "Old English Hospital Museum",
+                  "text": "Az Old English Hospital Museum egy speciális történelmi múzeum As-Salt városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.725718,
+                        32.039589
+                  ]
+            },
+            {
+                  "name": "وادي شعيب",
+                  "text": "A Wadi Shuʿeib egy völgy és hegycsúcs As-Salt városában, amely Jethro prófétához köthető.",
+                  "category": "natural",
+                  "coords": [
+                        35.730936,
+                        32.031388
+                  ]
+            },
+            {
+                  "name": "البقعات",
+                  "text": "Az Al Buqat egy ókori romterület As-Salt városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.731751,
+                        32.048782
+                  ]
+            },
+            {
+                  "name": "Salt Türk Şehitliği",
+                  "text": "A Salt Türk Şehitliği egy török katonáknak szentelt emlékmű As-Salt városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.7246,
+                        32.041154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abu Jaber Museum",
+                  "text": "Muzeul Abu Jaber este un muzeu istoric aflat într-o casă de negustori notabilă din As-Salt.",
+                  "category": "museum",
+                  "coords": [
+                        35.726172,
+                        32.038645
+                  ]
+            },
+            {
+                  "name": "Salt Archaeological Museum",
+                  "text": "Muzeul Arheologic Salt expune artefacte antice regionale în As-Salt.",
+                  "category": "museum",
+                  "coords": [
+                        35.729332,
+                        32.03828
+                  ]
+            },
+            {
+                  "name": "Old English Hospital Museum",
+                  "text": "Old English Hospital Museum este un muzeu istoric specializat din As-Salt.",
+                  "category": "museum",
+                  "coords": [
+                        35.725718,
+                        32.039589
+                  ]
+            },
+            {
+                  "name": "وادي شعيب",
+                  "text": "Wadi Shuʿeib este o zonă de vale și un vârf asociat cu profetul Jethro în As-Salt.",
+                  "category": "natural",
+                  "coords": [
+                        35.730936,
+                        32.031388
+                  ]
+            },
+            {
+                  "name": "البقعات",
+                  "text": "Al Buqat este un sit cu ruine antice situat în As-Salt.",
+                  "category": "historical",
+                  "coords": [
+                        35.731751,
+                        32.048782
+                  ]
+            },
+            {
+                  "name": "Salt Türk Şehitliği",
+                  "text": "Salt Türk Şehitliği este un monument dedicat soldaților turci în As-Salt.",
+                  "category": "historical",
+                  "coords": [
+                        35.7246,
+                        32.041154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abu Jaber Museum",
+                  "text": "Abu Jaber Museum is a historical museum set in a notable merchant house in As-Salt.",
+                  "category": "museum",
+                  "coords": [
+                        35.726172,
+                        32.038645
+                  ]
+            },
+            {
+                  "name": "Salt Archaeological Museum",
+                  "text": "Salt Archaeological Museum exhibits ancient regional artifacts in As-Salt.",
+                  "category": "museum",
+                  "coords": [
+                        35.729332,
+                        32.03828
+                  ]
+            },
+            {
+                  "name": "Old English Hospital Museum",
+                  "text": "Old English Hospital Museum is a specialized historical museum in As-Salt.",
+                  "category": "museum",
+                  "coords": [
+                        35.725718,
+                        32.039589
+                  ]
+            },
+            {
+                  "name": "Wadi Shuʿeib",
+                  "text": "Wadi Shuʿeib is a valley area and peak associated with the prophet Jethro in As-Salt.",
+                  "category": "natural",
+                  "coords": [
+                        35.730936,
+                        32.031388
+                  ]
+            },
+            {
+                  "name": "Al Buqat",
+                  "text": "Al Buqat is a site of ancient ruins situated in As-Salt.",
+                  "category": "historical",
+                  "coords": [
+                        35.731751,
+                        32.048782
+                  ]
+            },
+            {
+                  "name": "Salt Türk Şehitliği",
+                  "text": "Salt Türk Şehitliği is a monument dedicated to Turkish soldiers in As-Salt.",
+                  "category": "historical",
+                  "coords": [
+                        35.7246,
+                        32.041154
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-BA",
     coords: [35.7272, 32.0392],
@@ -816,7 +2211,124 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 90 000 habitants à 850 mètres d'altitude", "30 kilomètres au nord-ouest d'Amman", "Principal centre avant le choix d'Amman comme capitale en 1921", "Plus de 1 000 maisons historiques de style salti", "Musée Abu Jaber de 1892", "Environ 25 % de population chrétienne", "Mandat britannique de 1921 à 1946", "Patrimoine mondial de l'UNESCO depuis 2021"],
     }, image: "/poi-images/as-salt-cities-v2.webp"},
   {
-    id: "sahab-cities-v2",
+    id: "sahab-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Khushshafiyah",
+                  "text": "Al Khushshafiyah umfasst historische Ruinen in der Gegend von Sahab.",
+                  "category": "historical",
+                  "coords": [
+                        36.034722,
+                        31.865556
+                  ]
+            },
+            {
+                  "name": "مسجد المدينة الصناعية سحاب",
+                  "text": "مسجد المدينة الصناعية سحاب bietet einen landschaftlichen Aussichtspunkt in Sahab.",
+                  "category": "natural",
+                  "coords": [
+                        36.005781,
+                        31.850594
+                  ]
+            },
+            {
+                  "name": "سحاب بالاردن",
+                  "text": "سحاب بالاردن ist ein Aussichtspunkt in der Stadt Sahab.",
+                  "category": "natural",
+                  "coords": [
+                        36.003107,
+                        31.874456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الخشافية",
+                  "text": "Al Khushshafiyah ősi romokat foglal magába Sahab környékén.",
+                  "category": "historical",
+                  "coords": [
+                        36.034722,
+                        31.865556
+                  ]
+            },
+            {
+                  "name": "مسجد المدينة الصناعية سحاب",
+                  "text": "A مسجد المدينة الصناعية سحاب egy festői kilátóhely Sahab városában.",
+                  "category": "natural",
+                  "coords": [
+                        36.005781,
+                        31.850594
+                  ]
+            },
+            {
+                  "name": "سحاب بالاردن",
+                  "text": "A سحاب بالاردن egy kilátópont Sahab városában.",
+                  "category": "natural",
+                  "coords": [
+                        36.003107,
+                        31.874456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الخشافية",
+                  "text": "Al Khushshafiyah este un loc cu ruine istorice aflat în zona Sahab.",
+                  "category": "historical",
+                  "coords": [
+                        36.034722,
+                        31.865556
+                  ]
+            },
+            {
+                  "name": "مسجد المدينة الصناعية سحاب",
+                  "text": "مسجد المدينة الصناعية سحاب este un punct de belvedere panoramic în Sahab.",
+                  "category": "natural",
+                  "coords": [
+                        36.005781,
+                        31.850594
+                  ]
+            },
+            {
+                  "name": "سحاب بالاردن",
+                  "text": "سحاب بالاردن este un punct de belvedere situat în orașul Sahab.",
+                  "category": "natural",
+                  "coords": [
+                        36.003107,
+                        31.874456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Khushshafiyah",
+                  "text": "Al Khushshafiyah features ancient ruins located in the area of Sahab.",
+                  "category": "historical",
+                  "coords": [
+                        36.034722,
+                        31.865556
+                  ]
+            },
+            {
+                  "name": "مسجد المدينة الصناعية سحاب",
+                  "text": "مسجد المدينة الصناعية سحاب serves as a scenic viewpoint in the city of Sahab.",
+                  "category": "natural",
+                  "coords": [
+                        36.005781,
+                        31.850594
+                  ]
+            },
+            {
+                  "name": "سحاب بالاردن",
+                  "text": "سحاب بالاردن is a viewpoint offering panoramic perspectives in Sahab.",
+                  "category": "natural",
+                  "coords": [
+                        36.003107,
+                        31.874456
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-AM",
     coords: [36.0044, 31.8722],
@@ -1068,7 +2580,52 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 25 000 habitants, 360 mètres sous le niveau de la mer", "Identifiée à la ville biblique de Zoar (Genèse 19, 22-23)", "Établissement byzantin avec des églises à mosaïques", "Fouilles archéologiques depuis 1986", "Lowest Point Museum ouvert en 2012", "Arab Potash Company depuis 1956", "Environ 2,5 millions de tonnes de potasse par an", "Mandat britannique de 1921 à 1946"],
     }, image: "/poi-images/ghor-es-safi-cities-v2.webp"},
   {
-    id: "al-husn-cities-v2",
+    id: "al-husn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat Rakisa",
+                  "text": "Khirbat Rakisa sind antike Ruinen bei Al-Husn.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.483333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "خربة راكسة",
+                  "text": "Khirbat Rakisa ősi romok Al-Husn közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.483333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "خربة راكسة",
+                  "text": "Khirbat Rakisa sunt ruine antice lângă Al-Husn.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.483333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat Rakisa",
+                  "text": "Khirbat Rakisa are ancient ruins near Al-Husn.",
+                  "category": "historical",
+                  "coords": [
+                        35.866667,
+                        32.483333
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-IR",
     coords: [35.8833, 32.4833],
@@ -1195,7 +2752,52 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
   },
   {
-    id: "fuheis-cities-v2",
+    id: "fuheis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbat al Muqbilah",
+                  "text": "Khirbat al Muqbilah ist eine Ruinenstätte in der Stadt Fuheis.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.016667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "خربة المقبلة",
+                  "text": "Khirbat al Muqbilah egy ősi romterület Fuheis városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.016667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "خربة المقبلة",
+                  "text": "Khirbat al Muqbilah este un sit cu ruine situat în Fuheis.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.016667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbat al Muqbilah",
+                  "text": "Khirbat al Muqbilah is a site of ancient ruins located in Fuheis.",
+                  "category": "historical",
+                  "coords": [
+                        35.8,
+                        32.016667
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-BA",
     coords: [35.7725, 32.0064],
@@ -1447,7 +3049,52 @@ export const poiExtraJordanCitiesV2: POI[] = [
       fr: ["Environ 17 000 habitants à 525 mètres d'altitude", "25 kilomètres à l'ouest d'Irbid", "Le nom signifie Monastère d'Abi Saeed", "Passé monastique byzantin des Ve et VIe siècles", "Oliviers de plus de 1 000 ans d'âge", "Tell Abu al-Kharaz fouillé depuis 1989", "Découvertes remontant à l'âge du bronze ancien (3200 av. J.-C.)", "Mandat britannique de 1921 à 1946"],
     }, image: "/poi-images/deir-abi-saeed-cities-v2.webp"},
   {
-    id: "al-muwaqqar-cities-v2",
+    id: "al-muwaqqar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "دوار الصقر",
+                  "text": "Das Falken-Denkmal in Al-Muwaqqar.",
+                  "category": "historical",
+                  "coords": [
+                        36.106319,
+                        31.812081
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "دوار الصقر",
+                  "text": "A Sólyom-emlékmű Al-Muwaqqarban.",
+                  "category": "historical",
+                  "coords": [
+                        36.106319,
+                        31.812081
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "دوار الصقر",
+                  "text": "Monumentul Șoimului din Al-Muwaqqar.",
+                  "category": "historical",
+                  "coords": [
+                        36.106319,
+                        31.812081
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "دوار الصقر",
+                  "text": "The Falcon Monument in Al-Muwaqqar.",
+                  "category": "historical",
+                  "coords": [
+                        36.106319,
+                        31.812081
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-AM",
     coords: [36.1119, 31.8153],
@@ -1637,7 +3284,88 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
   },
   {
-    id: "busaira-cities-v2",
+    id: "busaira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "آثار بصيرا",
+                  "text": "Die Ruinen von Busayra sind eine archäologische Stätte in Busaira.",
+                  "category": "historical",
+                  "coords": [
+                        35.603013,
+                        30.747325
+                  ]
+            },
+            {
+                  "name": "Bozra",
+                  "text": "Bozra umfasst antike Ruinen in Busaira.",
+                  "category": "historical",
+                  "coords": [
+                        35.604196,
+                        30.745766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "آثار بصيرا",
+                  "text": "Busayra romjai egy régészeti lelőhely Busairában.",
+                  "category": "historical",
+                  "coords": [
+                        35.603013,
+                        30.747325
+                  ]
+            },
+            {
+                  "name": "Bozra",
+                  "text": "Bozra ősi romokat foglal magában Busairában.",
+                  "category": "historical",
+                  "coords": [
+                        35.604196,
+                        30.745766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "آثار بصيرا",
+                  "text": "Ruinele de la Busayra sunt un sit arheologic în Busaira.",
+                  "category": "historical",
+                  "coords": [
+                        35.603013,
+                        30.747325
+                  ]
+            },
+            {
+                  "name": "Bozra",
+                  "text": "Bozra cuprinde ruine antice în Busaira.",
+                  "category": "historical",
+                  "coords": [
+                        35.604196,
+                        30.745766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Busayra Ruins",
+                  "text": "The Busayra ruins are an archaeological site in Busaira.",
+                  "category": "historical",
+                  "coords": [
+                        35.603013,
+                        30.747325
+                  ]
+            },
+            {
+                  "name": "Bozra",
+                  "text": "Bozra comprises ancient ruins in Busaira.",
+                  "category": "historical",
+                  "coords": [
+                        35.604196,
+                        30.745766
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-AT",
     coords: [35.6014, 30.7381],
@@ -1765,7 +3493,196 @@ export const poiExtraJordanCitiesV2: POI[] = [
     },
   },
   {
-    id: "azraq-cities-v2",
+    id: "azraq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قصر الأزرق‎",
+                  "text": "Qasr Al-Azraq ist eine bedeutende große Festung und archäologische Stätte in Azraq, die für ihre schwarzen Basaltmauern bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        36.827256,
+                        31.880176
+                  ]
+            },
+            {
+                  "name": "Azraq Wetland Reserve",
+                  "text": "Die Azraq Wetland Reserve ist ein anerkanntes Naturschutzgebiet in Azraq, das zum Schutz einer Wüstenoase gegründet wurde.",
+                  "category": "natural",
+                  "coords": [
+                        36.860459,
+                        31.819416
+                  ]
+            },
+            {
+                  "name": "Qasr Ain-es-Sil",
+                  "text": "Qasr Ain-es-Sil ist eine historische Burganlage in Azraq.",
+                  "category": "castle",
+                  "coords": [
+                        36.845886,
+                        31.894215
+                  ]
+            },
+            {
+                  "name": "Azraq Old Town",
+                  "text": "Die Azraq Old Town besteht aus historischen Ruinen in der Umgebung von Azraq.",
+                  "category": "historical",
+                  "coords": [
+                        36.841786,
+                        31.879098
+                  ]
+            },
+            {
+                  "name": "Azraq oasis",
+                  "text": "Die Azraq-Oase ist eine lokale Touristenattraktion in Azraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.830016,
+                        31.878968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قصر الأزرق‎",
+                  "text": "A Qasr Al-Azraq egy nevezetes, fekete bazaltfalairól híres nagy erőd és régészeti lelőhely Azraqban.",
+                  "category": "historical",
+                  "coords": [
+                        36.827256,
+                        31.880176
+                  ]
+            },
+            {
+                  "name": "محمية الأزرق المائية",
+                  "text": "Az Azraq Wetland Reserve egy elismert természetvédelmi terület Azraqban, amelyet egy sivatagi oázis védelmére hoztak létre.",
+                  "category": "natural",
+                  "coords": [
+                        36.860459,
+                        31.819416
+                  ]
+            },
+            {
+                  "name": "Qasr Ain-es-Sil",
+                  "text": "A Qasr Ain-es-Sil egy történelmi kastélyépület Azraq városában.",
+                  "category": "castle",
+                  "coords": [
+                        36.845886,
+                        31.894215
+                  ]
+            },
+            {
+                  "name": "Azraq Old Town",
+                  "text": "Az Azraq Old Town történelmi romokat rejt Azraq területén.",
+                  "category": "historical",
+                  "coords": [
+                        36.841786,
+                        31.879098
+                  ]
+            },
+            {
+                  "name": "Azraq oasis",
+                  "text": "Az Azraq-oázis egy helyi turisztikai látványosság Azraq városában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.830016,
+                        31.878968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قصر الأزرق‎",
+                  "text": "Qasr Al-Azraq este o fortăreață notabilă și un sit arheologic în Azraq, renumit pentru zidurile sale din bazalt negru.",
+                  "category": "historical",
+                  "coords": [
+                        36.827256,
+                        31.880176
+                  ]
+            },
+            {
+                  "name": "محمية الأزرق المائية",
+                  "text": "Azraq Wetland Reserve este o rezervație naturală recunoscută din Azraq, creată pentru a proteja o oază din deșert.",
+                  "category": "natural",
+                  "coords": [
+                        36.860459,
+                        31.819416
+                  ]
+            },
+            {
+                  "name": "Qasr Ain-es-Sil",
+                  "text": "Qasr Ain-es-Sil este un castel istoric situat în orașul Azraq.",
+                  "category": "castle",
+                  "coords": [
+                        36.845886,
+                        31.894215
+                  ]
+            },
+            {
+                  "name": "Azraq Old Town",
+                  "text": "Azraq Old Town conține ruine istorice aflate în zona Azraq.",
+                  "category": "historical",
+                  "coords": [
+                        36.841786,
+                        31.879098
+                  ]
+            },
+            {
+                  "name": "Azraq oasis",
+                  "text": "Oaza Azraq este o atracție turistică locală situată în Azraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.830016,
+                        31.878968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr Al-Azraq",
+                  "text": "Qasr Al-Azraq is a notable large fortress and archaeological site in Azraq, famous for its black basalt walls.",
+                  "category": "historical",
+                  "coords": [
+                        36.827256,
+                        31.880176
+                  ]
+            },
+            {
+                  "name": "Azraq Wetland Reserve",
+                  "text": "Azraq Wetland Reserve is a recognized nature reserve in Azraq created to protect a precious desert oasis.",
+                  "category": "natural",
+                  "coords": [
+                        36.860459,
+                        31.819416
+                  ]
+            },
+            {
+                  "name": "Qasr Ain-es-Sil",
+                  "text": "Qasr Ain-es-Sil is a historic castle structure located in Azraq.",
+                  "category": "castle",
+                  "coords": [
+                        36.845886,
+                        31.894215
+                  ]
+            },
+            {
+                  "name": "Azraq Old Town",
+                  "text": "Azraq Old Town consists of historical ruins found in the area of Azraq.",
+                  "category": "historical",
+                  "coords": [
+                        36.841786,
+                        31.879098
+                  ]
+            },
+            {
+                  "name": "Azraq oasis",
+                  "text": "The Azraq oasis is a local tourist attraction situated in Azraq.",
+                  "category": "landmark",
+                  "coords": [
+                        36.830016,
+                        31.878968
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JO-AZ",
     coords: [36.8286, 31.8814],

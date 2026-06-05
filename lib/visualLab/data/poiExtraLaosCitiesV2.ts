@@ -115,7 +115,124 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Ancienne capitale royale au confluent de la Nam Khan et du Mékong.", "Classée au patrimoine mondial de l'UNESCO en 1995 pour sa préservation.", "Célèbre pour le mont Phousi, une colline de 100 mètres avec un temple au sommet.", "Les chutes de Kuang Si et leurs bassins turquoise se trouvent à proximité.", "Des centaines de moines participent à la quête matinale des aumônes.", "Abrite le musée du Palais Royal, construit en 1904."],
     }, image: "/poi-images/luang-prabang-cities-v2.webp"},
   {
-    id: "pakse-cities-v2",
+    id: "pakse-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Champasak Cultural Museum",
+                  "text": "Das Champasak Kulturmuseum befindet sich in Pakse.",
+                  "category": "museum",
+                  "coords": [
+                        105.797711,
+                        15.115274
+                  ]
+            },
+            {
+                  "name": "Sala Kham",
+                  "text": "Sala Kham bietet einen schönen Aussichtspunkt in Pakse.",
+                  "category": "natural",
+                  "coords": [
+                        105.796328,
+                        15.117536
+                  ]
+            },
+            {
+                  "name": "Pakse Landmark",
+                  "text": "Das Pakse-Wahrzeichen ist eine beliebte Sehenswürdigkeit in Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798378,
+                        15.121331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Champasak Cultural Museum",
+                  "text": "A Champasak Kulturális Múzeum Pakse városában található.",
+                  "category": "museum",
+                  "coords": [
+                        105.797711,
+                        15.115274
+                  ]
+            },
+            {
+                  "name": "Sala Kham",
+                  "text": "Sala Kham egy szép kilátópontot kínál Pakse-ban.",
+                  "category": "natural",
+                  "coords": [
+                        105.796328,
+                        15.117536
+                  ]
+            },
+            {
+                  "name": "Pakse Landmark",
+                  "text": "A Pakse-emlékmű egy népszerű látnivaló Pakse-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798378,
+                        15.121331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Champasak Cultural Museum",
+                  "text": "Muzeul Cultural Champasak este situat în Pakse.",
+                  "category": "museum",
+                  "coords": [
+                        105.797711,
+                        15.115274
+                  ]
+            },
+            {
+                  "name": "Sala Kham",
+                  "text": "Sala Kham oferă un punct de belvedere frumos în Pakse.",
+                  "category": "natural",
+                  "coords": [
+                        105.796328,
+                        15.117536
+                  ]
+            },
+            {
+                  "name": "Pakse Landmark",
+                  "text": "Reperele din Pakse reprezintă o atracție populară în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798378,
+                        15.121331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Champasak Cultural Museum",
+                  "text": "The Champasak Cultural Museum is located in Pakse.",
+                  "category": "museum",
+                  "coords": [
+                        105.797711,
+                        15.115274
+                  ]
+            },
+            {
+                  "name": "Sala Kham",
+                  "text": "Sala Kham offers a beautiful viewpoint in Pakse.",
+                  "category": "natural",
+                  "coords": [
+                        105.796328,
+                        15.117536
+                  ]
+            },
+            {
+                  "name": "Pakse Landmark",
+                  "text": "The Pakse Landmark is a popular attraction in Pakse.",
+                  "category": "landmark",
+                  "coords": [
+                        105.798378,
+                        15.121331
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-CH",
     coords: [105.7865, 15.1165],
@@ -202,7 +319,196 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Fondée en 1905 par les Français comme poste administratif sur le Mékong.", "Sert de porte d'entrée principale vers le fertile plateau des Bolovens.", "La ville est la capitale de la province de Champassak, dans le sud du Laos.", "À proximité se trouve l'ancien complexe de temples khmers Vat Phou.", "Dispose du gigantesque marché Dao Heuang, l'un des plus grands du pays.", "Le pont de Paksé sur le Mékong a été inauguré en l'an 2000."],
     }, image: "/poi-images/pakse-cities-v2.webp"},
   {
-    id: "savannakhet-cities-v2",
+    id: "savannakhet-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ຫໍພິພິທະພັນ ໄດໂນເສົາ",
+                  "text": "Das Dinosaur Museum ist ein Museum in der Stadt Savannakhet.",
+                  "category": "museum",
+                  "coords": [
+                        104.745433,
+                        16.56263
+                  ]
+            },
+            {
+                  "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
+                  "text": "Das Savannakhet Museum ist ein Museum in der Stadt Savannakhet.",
+                  "category": "museum",
+                  "coords": [
+                        104.746305,
+                        16.553972
+                  ]
+            },
+            {
+                  "name": "Memorial President Kaysone Phomvihan",
+                  "text": "Memorial President Kaysone Phomvihan ist eine Sehenswürdigkeit in der Stadt Savannakhet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.746757,
+                        16.561225
+                  ]
+            },
+            {
+                  "name": "Mekong Viewpoint",
+                  "text": "Mekong Viewpoint ist ein Aussichtspunkt in der Stadt Savannakhet.",
+                  "category": "natural",
+                  "coords": [
+                        104.745673,
+                        16.550904
+                  ]
+            },
+            {
+                  "name": "วัดศรีมงคลใต้",
+                  "text": "Wat Si Mongkhon Tai ist eine religiöse Stätte in der Stadt Savannakhet.",
+                  "category": "religious",
+                  "coords": [
+                        104.731059,
+                        16.543677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ຫໍພິພິທະພັນ ໄດໂນເສົາ",
+                  "text": "A Dinosaur Museum egy múzeum Savannakhet városában.",
+                  "category": "museum",
+                  "coords": [
+                        104.745433,
+                        16.56263
+                  ]
+            },
+            {
+                  "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
+                  "text": "A Savannakhet Museum egy múzeum Savannakhet városában.",
+                  "category": "museum",
+                  "coords": [
+                        104.746305,
+                        16.553972
+                  ]
+            },
+            {
+                  "name": "Memorial President Kaysone Phomvihan",
+                  "text": "A Memorial President Kaysone Phomvihan egy turisztikai látványosság Savannakhet városában.",
+                  "category": "landmark",
+                  "coords": [
+                        104.746757,
+                        16.561225
+                  ]
+            },
+            {
+                  "name": "Mekong Viewpoint",
+                  "text": "A Mekong Viewpoint egy kilátó Savannakhet városában.",
+                  "category": "natural",
+                  "coords": [
+                        104.745673,
+                        16.550904
+                  ]
+            },
+            {
+                  "name": "วัดศรีมงคลใต้",
+                  "text": "A Wat Si Mongkhon Tai egy istentiszteleti hely Savannakhet városában.",
+                  "category": "religious",
+                  "coords": [
+                        104.731059,
+                        16.543677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ຫໍພິພິທະພັນ ໄດໂນເສົາ",
+                  "text": "Dinosaur Museum este un muzeu din orașul Savannakhet.",
+                  "category": "museum",
+                  "coords": [
+                        104.745433,
+                        16.56263
+                  ]
+            },
+            {
+                  "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
+                  "text": "Savannakhet Museum este un muzeu din orașul Savannakhet.",
+                  "category": "museum",
+                  "coords": [
+                        104.746305,
+                        16.553972
+                  ]
+            },
+            {
+                  "name": "Memorial President Kaysone Phomvihan",
+                  "text": "Memorial President Kaysone Phomvihan este o atracție turistică în orașul Savannakhet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.746757,
+                        16.561225
+                  ]
+            },
+            {
+                  "name": "Mekong Viewpoint",
+                  "text": "Mekong Viewpoint este un punct de belvedere în orașul Savannakhet.",
+                  "category": "natural",
+                  "coords": [
+                        104.745673,
+                        16.550904
+                  ]
+            },
+            {
+                  "name": "วัดศรีมงคลใต้",
+                  "text": "Wat Si Mongkhon Tai este un lăcaș de cult din orașul Savannakhet.",
+                  "category": "religious",
+                  "coords": [
+                        104.731059,
+                        16.543677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dinosaur Museum",
+                  "text": "The Dinosaur Museum is a museum located in the city of Savannakhet.",
+                  "category": "museum",
+                  "coords": [
+                        104.745433,
+                        16.56263
+                  ]
+            },
+            {
+                  "name": "Savannakhet Museum",
+                  "text": "The Savannakhet Museum is a museum located in the city of Savannakhet.",
+                  "category": "museum",
+                  "coords": [
+                        104.746305,
+                        16.553972
+                  ]
+            },
+            {
+                  "name": "Memorial President Kaysone Phomvihan",
+                  "text": "Memorial President Kaysone Phomvihan is a tourist attraction located in the city of Savannakhet.",
+                  "category": "landmark",
+                  "coords": [
+                        104.746757,
+                        16.561225
+                  ]
+            },
+            {
+                  "name": "Mekong Viewpoint",
+                  "text": "Mekong Viewpoint is a viewpoint located in the city of Savannakhet.",
+                  "category": "natural",
+                  "coords": [
+                        104.745673,
+                        16.550904
+                  ]
+            },
+            {
+                  "name": "Wat Si Mongkhon Tai",
+                  "text": "Wat Si Mongkhon Tai is a place of worship located in the city of Savannakhet.",
+                  "category": "religious",
+                  "coords": [
+                        104.731059,
+                        16.543677
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-SV",
     coords: [104.7500, 16.5500],
@@ -261,7 +567,52 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Également connue sous le nom de Kaysone Phomvihane, c'est la deuxième ville du Laos.", "Le nom historique de la ville peut être traduit par 'Ville de l'Or'.", "Dispose d'un quartier historique bien conservé avec une architecture coloniale.", "Le deuxième pont de l'amitié thaï-lao la relie à la Thaïlande.", "Le stupa de That Inhang est un site sacré bouddhiste important.", "Le musée local des dinosaures expose des fossiles découverts dans la province."],
     }, image: "/poi-images/savannakhet-cities-v2.webp"},
   {
-    id: "thakhek-cities-v2",
+    id: "thakhek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ທັດສະນະ",
+                  "text": "Dieser Aussichtspunkt auf der Klippe bietet eine wunderschöne Perspektive auf Thakhek.",
+                  "category": "natural",
+                  "coords": [
+                        104.831905,
+                        17.411076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ທັດສະນະ",
+                  "text": "Ez a sziklán található kilátó gyönyörű rálátást biztosít Thakhek városára.",
+                  "category": "natural",
+                  "coords": [
+                        104.831905,
+                        17.411076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ທັດສະນະ",
+                  "text": "Acest punct de belvedere de pe stâncă oferă o perspectivă frumoasă asupra orașului Thakhek.",
+                  "category": "natural",
+                  "coords": [
+                        104.831905,
+                        17.411076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "A beautiful view of the city from the cliff",
+                  "text": "This viewpoint on the cliff provides a beautiful perspective of Thakhek.",
+                  "category": "natural",
+                  "coords": [
+                        104.831905,
+                        17.411076
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-KH",
     coords: [104.8333, 17.4000],
@@ -320,7 +671,196 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Située sur le Mékong, face à la ville thaïlandaise de Nakhon Phanom.", "Connue pour ses maisons coloniales restaurées autour de la vieille place.", "Point de départ prisé pour la Thakhek Loop, une route pour motards.", "La grotte de Kong Lor est une immense cavité karstique navigable.", "Les environs offrent des formations karstiques et des sommets spectaculaires.", "Fondée comme poste colonial, elle fut un centre commercial majeur."],
     }, image: "/poi-images/thakhek-cities-v2.webp"},
   {
-    id: "vang-vieng-cities-v2",
+    id: "vang-vieng-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pha Poak",
+                  "text": "Pha Poak ist ein bekannter Aussichtspunkt in Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.437774,
+                        18.930274
+                  ]
+            },
+            {
+                  "name": "Tham None Cave",
+                  "text": "Die Tham-None-Höhle ist eine interessante Sehenswürdigkeit in Vang Vieng.",
+                  "category": "landmark",
+                  "coords": [
+                        102.434147,
+                        18.947061
+                  ]
+            },
+            {
+                  "name": "Butterfly Viewpoint",
+                  "text": "Der Schmetterlings-Aussichtspunkt bietet einen Panoramablick in Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.426376,
+                        18.929058
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "Viewpoint 1 ist ein Aussichtspunkt in Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.423014,
+                        18.926779
+                  ]
+            },
+            {
+                  "name": "Free point of view",
+                  "text": "Dieser frei zugängliche Aussichtspunkt befindet sich in Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.445896,
+                        18.924434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pha Poak",
+                  "text": "Pha Poak egy ismert kilátópont Vang Viengben.",
+                  "category": "natural",
+                  "coords": [
+                        102.437774,
+                        18.930274
+                  ]
+            },
+            {
+                  "name": "Tham None Cave",
+                  "text": "A Tham None-barlang egy érdekes látnivaló Vang Viengben.",
+                  "category": "landmark",
+                  "coords": [
+                        102.434147,
+                        18.947061
+                  ]
+            },
+            {
+                  "name": "Butterfly Viewpoint",
+                  "text": "A Pillangó-kilátópont panorámás kilátást nyújt Vang Viengben.",
+                  "category": "natural",
+                  "coords": [
+                        102.426376,
+                        18.929058
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "A Viewpoint 1 egy kilátópont Vang Viengben.",
+                  "category": "natural",
+                  "coords": [
+                        102.423014,
+                        18.926779
+                  ]
+            },
+            {
+                  "name": "Free point of view",
+                  "text": "Ez a szabadon hozzáférhető kilátópont Vang Viengben található.",
+                  "category": "natural",
+                  "coords": [
+                        102.445896,
+                        18.924434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pha Poak",
+                  "text": "Pha Poak este un punct de belvedere cunoscut în Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.437774,
+                        18.930274
+                  ]
+            },
+            {
+                  "name": "Tham None Cave",
+                  "text": "Peștera Tham None este o atracție interesantă în Vang Vieng.",
+                  "category": "landmark",
+                  "coords": [
+                        102.434147,
+                        18.947061
+                  ]
+            },
+            {
+                  "name": "Butterfly Viewpoint",
+                  "text": "Punctul de belvedere al fluturilor oferă o vedere panoramică în Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.426376,
+                        18.929058
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "Viewpoint 1 este un punct de belvedere în Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.423014,
+                        18.926779
+                  ]
+            },
+            {
+                  "name": "Free point of view",
+                  "text": "Acest punct de belvedere cu acces liber se află în Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.445896,
+                        18.924434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pha Poak",
+                  "text": "Pha Poak is a well-known viewpoint in Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.437774,
+                        18.930274
+                  ]
+            },
+            {
+                  "name": "Tham None Cave",
+                  "text": "Tham None Cave is an interesting attraction in Vang Vieng.",
+                  "category": "landmark",
+                  "coords": [
+                        102.434147,
+                        18.947061
+                  ]
+            },
+            {
+                  "name": "Butterfly Viewpoint",
+                  "text": "The Butterfly Viewpoint offers panoramic views in Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.426376,
+                        18.929058
+                  ]
+            },
+            {
+                  "name": "Viewpoint 1",
+                  "text": "Viewpoint 1 is a viewpoint in Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.423014,
+                        18.926779
+                  ]
+            },
+            {
+                  "name": "Free point of view",
+                  "text": "This free viewpoint is located in Vang Vieng.",
+                  "category": "natural",
+                  "coords": [
+                        102.445896,
+                        18.924434
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-VI",
     coords: [102.4500, 18.9333],
@@ -379,7 +919,52 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Située au bord de la rivière Nam Song et entourée de karsts calcaires.", "Servait à l'origine d'étape entre Vientiane et Luang Prabang.", "La grotte Tham Phu Kham abrite un bouddha couché et un lagon bleu.", "Réputée pour le kayak, l'escalade et les vols en montgolfière.", "Passée de ville festive pour routards à destination d'écotourisme.", "Des fermes biologiques locales produisent du thé de mûre et du vin."],
     }, image: "/poi-images/vang-vieng-cities-v2.webp"},
   {
-    id: "phonsavan-cities-v2",
+    id: "phonsavan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mulberries organic silk farm",
+                  "text": "Mulberries organic silk farm ist eine Sehenswürdigkeit in der Stadt Phonsavan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.177105,
+                        19.466111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mulberries organic silk farm",
+                  "text": "A Mulberries organic silk farm egy turisztikai látványosság Phonsavan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.177105,
+                        19.466111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mulberries organic silk farm",
+                  "text": "Mulberries organic silk farm este o atracție turistică în orașul Phonsavan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.177105,
+                        19.466111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mulberries organic silk farm",
+                  "text": "Mulberries organic silk farm is a tourist attraction located in the city of Phonsavan.",
+                  "category": "landmark",
+                  "coords": [
+                        103.177105,
+                        19.466111
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-XI",
     coords: [103.1833, 19.4667],
@@ -466,7 +1051,88 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Capitale de la province de Xiangkhouang, construite à la fin des années 1970.", "Sert de porte d'entrée principale vers le paysage archéologique de la plaine des Jarres.", "La région a été lourdement bombardée pendant la guerre secrète.", "Connue pour son climat plus frais en raison de sa situation sur le plateau de Xiangkhouang.", "Les habitants utilisent la ferraille des restes de guerre pour des outils quotidiens.", "Dispose d'un paysage unique avec des forêts de pins, rares au Laos."],
     }, image: "/poi-images/phonsavan-cities-v2.webp"},
   {
-    id: "xam-neua-cities-v2",
+    id: "xam-neua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sam Nuea Theatre",
+                  "text": "Das Sam Nuea Theatre ist ein bekannter kultureller Veranstaltungsort für Theateraufführungen in Xam Neua.",
+                  "category": "cultural",
+                  "coords": [
+                        104.048545,
+                        20.413599
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "Dieser Schrein ist ein wichtiges lokales Denkmal in Xam Neua.",
+                  "category": "historical",
+                  "coords": [
+                        104.04693,
+                        20.418634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sam Nuea Theatre",
+                  "text": "A Sam Nuea Theatre egy jelentős kulturális helyszín a színházi előadások számára Xam Neua-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        104.048545,
+                        20.413599
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "Ez a szentély egy fontos helyi műemlék Xam Neua városában.",
+                  "category": "historical",
+                  "coords": [
+                        104.04693,
+                        20.418634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sam Nuea Theatre",
+                  "text": "Sam Nuea Theatre este o importantă locație culturală pentru spectacole teatrale din Xam Neua.",
+                  "category": "cultural",
+                  "coords": [
+                        104.048545,
+                        20.413599
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "Acest Altar este un important monument local situat în Xam Neua.",
+                  "category": "historical",
+                  "coords": [
+                        104.04693,
+                        20.418634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sam Nuea Theatre",
+                  "text": "Sam Nuea Theatre is a prominent cultural venue for theatrical performances in Xam Neua.",
+                  "category": "cultural",
+                  "coords": [
+                        104.048545,
+                        20.413599
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "This Shrine is an important local monument located in Xam Neua.",
+                  "category": "historical",
+                  "coords": [
+                        104.04693,
+                        20.418634
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-HO",
     coords: [104.0500, 20.4167],
@@ -612,7 +1278,160 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Le plus grand établissement du nord-ouest du Laos et capitale de la province.", "Un point de départ majeur pour les treks dans la zone protégée de Nam Ha.", "La population locale comprend de nombreuses minorités ethniques comme les Akha et Hmong.", "La ville a été déplacée sur un terrain plus élevé en 1973 après des inondations dévastatrices.", "Possède le stupa de Luang Namtha et le stupa doré offrant une vue panoramique.", "Connue pour ses saunas aux herbes traditionnels et son marché nocturne animé."],
     }, image: "/poi-images/luang-namtha-cities-v2.webp"},
   {
-    id: "huay-xai-cities-v2",
+    id: "huay-xai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Carnot",
+                  "text": "Fort Carnot ist eine Festungsanlage in der Stadt Huay Xai.",
+                  "category": "fortress",
+                  "coords": [
+                        100.415172,
+                        20.272074
+                  ]
+            },
+            {
+                  "name": "Kaysone Monument",
+                  "text": "Kaysone Monument ist ein Monument in der Stadt Huay Xai.",
+                  "category": "historical",
+                  "coords": [
+                        100.416099,
+                        20.26598
+                  ]
+            },
+            {
+                  "name": "Giant Catfish",
+                  "text": "Giant Catfish ist eine Sehenswürdigkeit in der Stadt Huay Xai.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413191,
+                        20.252389
+                  ]
+            },
+            {
+                  "name": "Outdoor market",
+                  "text": "Outdoor market ist eine Sehenswürdigkeit in der Stadt Huay Xai.",
+                  "category": "landmark",
+                  "coords": [
+                        100.408691,
+                        20.25332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Carnot",
+                  "text": "A Fort Carnot egy erőd Huay Xai városában.",
+                  "category": "fortress",
+                  "coords": [
+                        100.415172,
+                        20.272074
+                  ]
+            },
+            {
+                  "name": "Kaysone Monument",
+                  "text": "A Kaysone Monument egy emlékmű Huay Xai városában.",
+                  "category": "historical",
+                  "coords": [
+                        100.416099,
+                        20.26598
+                  ]
+            },
+            {
+                  "name": "Giant Catfish",
+                  "text": "A Giant Catfish egy turisztikai látványosság Huay Xai városában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413191,
+                        20.252389
+                  ]
+            },
+            {
+                  "name": "Outdoor market",
+                  "text": "Az Outdoor market egy turisztikai látványosság Huay Xai városában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.408691,
+                        20.25332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Carnot",
+                  "text": "Fort Carnot este un fort situat în orașul Huay Xai.",
+                  "category": "fortress",
+                  "coords": [
+                        100.415172,
+                        20.272074
+                  ]
+            },
+            {
+                  "name": "Kaysone Monument",
+                  "text": "Kaysone Monument este un monument din orașul Huay Xai.",
+                  "category": "historical",
+                  "coords": [
+                        100.416099,
+                        20.26598
+                  ]
+            },
+            {
+                  "name": "Giant Catfish",
+                  "text": "Giant Catfish este o atracție turistică în orașul Huay Xai.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413191,
+                        20.252389
+                  ]
+            },
+            {
+                  "name": "Outdoor market",
+                  "text": "Outdoor market este o atracție turistică în orașul Huay Xai.",
+                  "category": "landmark",
+                  "coords": [
+                        100.408691,
+                        20.25332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Carnot",
+                  "text": "Fort Carnot is a fort located in the city of Huay Xai.",
+                  "category": "fortress",
+                  "coords": [
+                        100.415172,
+                        20.272074
+                  ]
+            },
+            {
+                  "name": "Kaysone Monument",
+                  "text": "Kaysone Monument is a monument located in the city of Huay Xai.",
+                  "category": "historical",
+                  "coords": [
+                        100.416099,
+                        20.26598
+                  ]
+            },
+            {
+                  "name": "Giant Catfish",
+                  "text": "Giant Catfish is a tourist attraction located in the city of Huay Xai.",
+                  "category": "landmark",
+                  "coords": [
+                        100.413191,
+                        20.252389
+                  ]
+            },
+            {
+                  "name": "Outdoor market",
+                  "text": "Outdoor market is a tourist attraction located in the city of Huay Xai.",
+                  "category": "landmark",
+                  "coords": [
+                        100.408691,
+                        20.25332
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-BK",
     coords: [100.4167, 20.2667],
@@ -1543,7 +2362,160 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Une petite ville de la province de Vientiane sur la route entre Vang Vieng et Luang Prabang.", "Entourée de montagnes calcaires spectaculaires et de vallées profondes.", "Connue régionalement pour ses sources thermales naturelles juste aux portes de la ville.", "L'agriculture et le commerce de transit dominent l'économie locale.", "Possède un paysage rural pittoresque très attrayant pour les voyageurs.", "Une étape populaire pour les bus empruntant les cols de montagne sinueux."],
     }, image: "/poi-images/kasi-cities-v2.webp"},
   {
-    id: "champasak-cities-v2",
+    id: "champasak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre d'Ombres de Champasak",
+                  "text": "Das Schattentheater von Champasak ist eine kulturelle Attraktion.",
+                  "category": "cultural",
+                  "coords": [
+                        105.881961,
+                        14.90008
+                  ]
+            },
+            {
+                  "name": "ບ້ານ ວັດອາມາດ ເມືອງຈໍາປາສັກ",
+                  "text": "Dieses historische Gebäude in Champasak wird als Schloss klassifiziert.",
+                  "category": "castle",
+                  "coords": [
+                        105.879817,
+                        14.895592
+                  ]
+            },
+            {
+                  "name": "Unfinished Royal Palace",
+                  "text": "Der unvollendete Königspalast ist ein historisches Gebäude in Champasak.",
+                  "category": "castle",
+                  "coords": [
+                        105.878973,
+                        14.899325
+                  ]
+            },
+            {
+                  "name": "Boupha Garden Café",
+                  "text": "Das Boupha Garden Café ist ein beliebter Ort in Champasak.",
+                  "category": "landmark",
+                  "coords": [
+                        105.879733,
+                        14.897142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre d'Ombres de Champasak",
+                  "text": "A Champasak Árnyékszínház egy kulturális látnivaló.",
+                  "category": "cultural",
+                  "coords": [
+                        105.881961,
+                        14.90008
+                  ]
+            },
+            {
+                  "name": "ບ້ານ ວັດອາມາດ ເມືອງຈໍາປາສັກ",
+                  "text": "Ez a történelmi épület Champasakban kastélyként van besorolva.",
+                  "category": "castle",
+                  "coords": [
+                        105.879817,
+                        14.895592
+                  ]
+            },
+            {
+                  "name": "Unfinished Royal Palace",
+                  "text": "A befejezetlen Királyi Palota egy történelmi épület Champasakban.",
+                  "category": "castle",
+                  "coords": [
+                        105.878973,
+                        14.899325
+                  ]
+            },
+            {
+                  "name": "Boupha Garden Café",
+                  "text": "A Boupha Garden Café egy népszerű hely Champasakban.",
+                  "category": "landmark",
+                  "coords": [
+                        105.879733,
+                        14.897142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre d'Ombres de Champasak",
+                  "text": "Teatrul de umbre din Champasak este o atracție culturală.",
+                  "category": "cultural",
+                  "coords": [
+                        105.881961,
+                        14.90008
+                  ]
+            },
+            {
+                  "name": "ບ້ານ ວັດອາມາດ ເມືອງຈໍາປາສັກ",
+                  "text": "Această clădire istorică din Champasak este clasificată drept castel.",
+                  "category": "castle",
+                  "coords": [
+                        105.879817,
+                        14.895592
+                  ]
+            },
+            {
+                  "name": "Unfinished Royal Palace",
+                  "text": "Palatul Regal neterminat este o clădire istorică în Champasak.",
+                  "category": "castle",
+                  "coords": [
+                        105.878973,
+                        14.899325
+                  ]
+            },
+            {
+                  "name": "Boupha Garden Café",
+                  "text": "Boupha Garden Café este un loc popular în Champasak.",
+                  "category": "landmark",
+                  "coords": [
+                        105.879733,
+                        14.897142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Théâtre d'Ombres de Champasak",
+                  "text": "The Shadow Theatre of Champasak is a cultural attraction.",
+                  "category": "cultural",
+                  "coords": [
+                        105.881961,
+                        14.90008
+                  ]
+            },
+            {
+                  "name": "ບ້ານ ວັດອາມາດ ເມືອງຈໍາປາສັກ",
+                  "text": "This historic building in Champasak is classified as a castle.",
+                  "category": "castle",
+                  "coords": [
+                        105.879817,
+                        14.895592
+                  ]
+            },
+            {
+                  "name": "Unfinished Royal Palace",
+                  "text": "The Unfinished Royal Palace is a historic building in Champasak.",
+                  "category": "castle",
+                  "coords": [
+                        105.878973,
+                        14.899325
+                  ]
+            },
+            {
+                  "name": "Boupha Garden Café",
+                  "text": "Boupha Garden Café is a popular attraction in Champasak.",
+                  "category": "landmark",
+                  "coords": [
+                        105.879733,
+                        14.897142
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-CH",
     coords: [105.8667, 14.8833],
@@ -1951,7 +2923,52 @@ export const poiExtraLaosCitiesV2: POI[] = [
     }
   },
   {
-    id: "muang-khong-cities-v2",
+    id: "muang-khong-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Don Khong History Museum",
+                  "text": "Das Don Khong History Museum in Muang Khong bewahrt und präsentiert das historische Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        105.853996,
+                        14.115092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Don Khong History Museum",
+                  "text": "A Muang Khong-i Don Khong History Museum a régió történelmi örökségét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        105.853996,
+                        14.115092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Don Khong History Museum",
+                  "text": "Don Khong History Museum din Muang Khong păstrează și expune patrimoniul istoric al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        105.853996,
+                        14.115092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Don Khong History Museum",
+                  "text": "Don Khong History Museum in Muang Khong preserves and displays the historical heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        105.853996,
+                        14.115092
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-CH",
     coords: [105.8500, 14.1167],
@@ -2125,7 +3142,88 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Ville majeure de Savannakhet, proche de la frontière vietnamienne.", "Fortement bombardée en raison de sa position sur la piste Ho Chi Minh.", "Les environs furent le centre de l'intense bataille de Lam Son 719.", "La région est encore très touchée par les opérations de déminage.", "Abrite d'importantes mines commerciales d'or et de cuivre dans les collines.", "Les vestiges de guerre comme les cratères et la ferraille marquent le paysage."],
     }, image: "/poi-images/sepon-cities-v2.webp"},
   {
-    id: "muang-sing-cities-v2",
+    id: "muang-sing-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Picturesque Old Museum",
+                  "text": "Das Picturesque Old Museum ist ein Museum in der Stadt Muang Sing.",
+                  "category": "museum",
+                  "coords": [
+                        101.151299,
+                        21.190057
+                  ]
+            },
+            {
+                  "name": "Plaza",
+                  "text": "Plaza ist ein Monument in der Stadt Muang Sing.",
+                  "category": "historical",
+                  "coords": [
+                        101.148685,
+                        21.192241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Picturesque Old Museum",
+                  "text": "A Picturesque Old Museum egy múzeum Muang Sing városában.",
+                  "category": "museum",
+                  "coords": [
+                        101.151299,
+                        21.190057
+                  ]
+            },
+            {
+                  "name": "Plaza",
+                  "text": "A Plaza egy emlékmű Muang Sing városában.",
+                  "category": "historical",
+                  "coords": [
+                        101.148685,
+                        21.192241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Picturesque Old Museum",
+                  "text": "Picturesque Old Museum este un muzeu din orașul Muang Sing.",
+                  "category": "museum",
+                  "coords": [
+                        101.151299,
+                        21.190057
+                  ]
+            },
+            {
+                  "name": "Plaza",
+                  "text": "Plaza este un monument din orașul Muang Sing.",
+                  "category": "historical",
+                  "coords": [
+                        101.148685,
+                        21.192241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Picturesque Old Museum",
+                  "text": "The Picturesque Old Museum is a museum located in the city of Muang Sing.",
+                  "category": "museum",
+                  "coords": [
+                        101.151299,
+                        21.190057
+                  ]
+            },
+            {
+                  "name": "Plaza",
+                  "text": "Plaza is a monument located in the city of Muang Sing.",
+                  "category": "historical",
+                  "coords": [
+                        101.148685,
+                        21.192241
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-LM",
     coords: [101.1500, 21.1833],
@@ -2212,7 +3310,340 @@ export const poiExtraLaosCitiesV2: POI[] = [
       fr: ["Située dans la province de Luang Namtha près de la Chine, c'est un carrefour culturel.", "Fut historiquement la capitale d'une principauté indépendante Tai Lue.", "Connue pour son marché matinal ethnique extrêmement diversifié et coloré.", "Entourée de hautes montagnes et de plaines fertiles pour l'agriculture.", "Abrite le stupa That Xieng Tung, un important lieu de pèlerinage bouddhiste.", "A joué un rôle historique majeur dans le commerce de l'opium du Triangle d'Or."],
     }, image: "/poi-images/muang-sing-cities-v2.webp"},
   {
-    id: "nong-khiaw-cities-v2",
+    id: "nong-khiaw-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ban Manda",
+                  "text": "Ban Manda ist ein kulturelles Museum im Dorf Nong Khiaw.",
+                  "category": "museum",
+                  "coords": [
+                        102.633605,
+                        20.549371
+                  ]
+            },
+            {
+                  "name": "Endpoint: Hike to Nang None Mountain View",
+                  "text": "Endpoint: Hike to Nang None Mountain View ist ein lohnender Aussichtspunkt mit Blick über Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.599907,
+                        20.578854
+                  ]
+            },
+            {
+                  "name": "Nang None Aussicht 2",
+                  "text": "Der Sleeping Lady View Point 2 bietet malerische, erhöhte Ausblicke in Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.609176,
+                        20.57669
+                  ]
+            },
+            {
+                  "name": "Nang None Aussicht 1",
+                  "text": "Nang None Mountain View 1 ist ein natürlicher Aussichtspunkt in Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.608197,
+                        20.575523
+                  ]
+            },
+            {
+                  "name": "Pha Khao",
+                  "text": "Pha Khao ist ein malerischer Aussichtspunkt, der beeindruckende Landschaften in Nong Khiaw bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.6062,
+                        20.553352
+                  ]
+            },
+            {
+                  "name": "PhaMary",
+                  "text": "PhaMary ist ein bekannter Aussichtspunkt, der einen Panoramablick über Nong Khiaw bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.629696,
+                        20.565532
+                  ]
+            },
+            {
+                  "name": "Phra Noi Cave",
+                  "text": "Sami's Cave fungiert als faszinierender natürlicher Aussichtspunkt in Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.615177,
+                        20.56325
+                  ]
+            },
+            {
+                  "name": "Pha Mok",
+                  "text": "Pha Mok ist ein erhöhter Aussichtspunkt, der markante Ausblicke auf Nong Khiaw bietet.",
+                  "category": "natural",
+                  "coords": [
+                        102.608093,
+                        20.55063
+                  ]
+            },
+            {
+                  "name": "Phamery viewpoint hike start",
+                  "text": "Der Phamery viewpoint hike start markiert den Beginn eines beliebten Wanderweges in Nong Khiaw.",
+                  "category": "landmark",
+                  "coords": [
+                        102.628046,
+                        20.554932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ban Manda",
+                  "text": "A Ban Manda egy kulturális múzeum Nong Khiaw falujában.",
+                  "category": "museum",
+                  "coords": [
+                        102.633605,
+                        20.549371
+                  ]
+            },
+            {
+                  "name": "Endpoint: Hike to Nang None Mountain View",
+                  "text": "Az Endpoint: Hike to Nang None Mountain View egy hálás kilátó Nong Khiaw felett.",
+                  "category": "natural",
+                  "coords": [
+                        102.599907,
+                        20.578854
+                  ]
+            },
+            {
+                  "name": "ທິວທັດພູນາງໂນນ 2",
+                  "text": "A Sleeping Lady View Point 2 festői, magaslati kilátást nyújt Nong Khiaw-ban.",
+                  "category": "natural",
+                  "coords": [
+                        102.609176,
+                        20.57669
+                  ]
+            },
+            {
+                  "name": "ທິວທັດພູນາງໂນນ 1",
+                  "text": "A Nang None Mountain View 1 egy természetes megfigyelőpont Nong Khiaw városában.",
+                  "category": "natural",
+                  "coords": [
+                        102.608197,
+                        20.575523
+                  ]
+            },
+            {
+                  "name": "Pha Khao",
+                  "text": "A Pha Khao egy festői kilátó, amely lenyűgöző tájakat kínál Nong Khiaw-ban.",
+                  "category": "natural",
+                  "coords": [
+                        102.6062,
+                        20.553352
+                  ]
+            },
+            {
+                  "name": "PhaMary",
+                  "text": "A PhaMary egy figyelemre méltó kilátó, amely panorámás kilátást nyújt Nong Khiaw-ra.",
+                  "category": "natural",
+                  "coords": [
+                        102.629696,
+                        20.565532
+                  ]
+            },
+            {
+                  "name": "Phra Noi Cave",
+                  "text": "A Sami's Cave egy érdekes természetes kilátóként funkcionál Nong Khiaw-ban.",
+                  "category": "natural",
+                  "coords": [
+                        102.615177,
+                        20.56325
+                  ]
+            },
+            {
+                  "name": "Pha Mok",
+                  "text": "A Pha Mok egy magaslati kilátó, ahonnan lenyűgöző kilátás nyílik Nong Khiaw-ra.",
+                  "category": "natural",
+                  "coords": [
+                        102.608093,
+                        20.55063
+                  ]
+            },
+            {
+                  "name": "Phamery viewpoint hike start",
+                  "text": "A Phamery viewpoint hike start egy népszerű festői túraútvonal kezdetét jelöli Nong Khiaw-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.628046,
+                        20.554932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ban Manda",
+                  "text": "Ban Manda este un muzeu cultural situat în satul Nong Khiaw.",
+                  "category": "museum",
+                  "coords": [
+                        102.633605,
+                        20.549371
+                  ]
+            },
+            {
+                  "name": "Endpoint: Hike to Nang None Mountain View",
+                  "text": "Endpoint: Hike to Nang None Mountain View este un punct de belvedere impresionant care domină Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.599907,
+                        20.578854
+                  ]
+            },
+            {
+                  "name": "ທິວທັດພູນາງໂນນ 2",
+                  "text": "Sleeping Lady View Point 2 oferă priveliști pitorești la înălțime în Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.609176,
+                        20.57669
+                  ]
+            },
+            {
+                  "name": "ທິວທັດພູນາງໂນນ 1",
+                  "text": "Nang None Mountain View 1 este un punct de observare natural situat în Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.608197,
+                        20.575523
+                  ]
+            },
+            {
+                  "name": "Pha Khao",
+                  "text": "Pha Khao este un punct de belvedere pitoresc care oferă peisaje impresionante în Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.6062,
+                        20.553352
+                  ]
+            },
+            {
+                  "name": "PhaMary",
+                  "text": "PhaMary este un punct de belvedere notabil, oferind vederi panoramice asupra Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.629696,
+                        20.565532
+                  ]
+            },
+            {
+                  "name": "Phra Noi Cave",
+                  "text": "Sami's Cave funcționează ca un punct de belvedere natural intrigant în Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.615177,
+                        20.56325
+                  ]
+            },
+            {
+                  "name": "Pha Mok",
+                  "text": "Pha Mok este un punct de belvedere ridicat care oferă priveliști uimitoare spre Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.608093,
+                        20.55063
+                  ]
+            },
+            {
+                  "name": "Phamery viewpoint hike start",
+                  "text": "Phamery viewpoint hike start marchează începutul unui traseu pitoresc popular în Nong Khiaw.",
+                  "category": "landmark",
+                  "coords": [
+                        102.628046,
+                        20.554932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ban Manda",
+                  "text": "Ban Manda is a cultural museum situated in the village of Nong Khiaw.",
+                  "category": "museum",
+                  "coords": [
+                        102.633605,
+                        20.549371
+                  ]
+            },
+            {
+                  "name": "Endpoint: Hike to Nang None Mountain View",
+                  "text": "Endpoint: Hike to Nang None Mountain View is a rewarding viewpoint overlooking Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.599907,
+                        20.578854
+                  ]
+            },
+            {
+                  "name": "Sleeping Lady View Point 2",
+                  "text": "Sleeping Lady View Point 2 offers scenic elevated views in Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.609176,
+                        20.57669
+                  ]
+            },
+            {
+                  "name": "Nang None Mountain View 1",
+                  "text": "Nang None Mountain View 1 is a natural observation point situated in Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.608197,
+                        20.575523
+                  ]
+            },
+            {
+                  "name": "Pha Khao",
+                  "text": "Pha Khao is a scenic viewpoint offering impressive landscapes in Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.6062,
+                        20.553352
+                  ]
+            },
+            {
+                  "name": "PhaMary",
+                  "text": "PhaMary is a notable viewpoint providing panoramic vistas over Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.629696,
+                        20.565532
+                  ]
+            },
+            {
+                  "name": "Sami's Cave",
+                  "text": "Sami's Cave functions as an intriguing natural viewpoint in Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.615177,
+                        20.56325
+                  ]
+            },
+            {
+                  "name": "Pha Mok",
+                  "text": "Pha Mok is an elevated viewpoint that offers striking views of Nong Khiaw.",
+                  "category": "natural",
+                  "coords": [
+                        102.608093,
+                        20.55063
+                  ]
+            },
+            {
+                  "name": "Phamery viewpoint hike start",
+                  "text": "Phamery viewpoint hike start marks the beginning of a popular scenic trail in Nong Khiaw.",
+                  "category": "landmark",
+                  "coords": [
+                        102.628046,
+                        20.554932
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LA-LP",
     coords: [102.6167, 20.5667],

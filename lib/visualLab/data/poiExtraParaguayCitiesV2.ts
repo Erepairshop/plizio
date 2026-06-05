@@ -706,7 +706,124 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: ["Known as the 'University City' for hosting the National University of Asunción's main campus.", "A very busy commercial area and city market.", "Its Neo-Gothic cathedral is a major landmark.", "Once connected to Asunción by a railway line.", "Part of the Asunción metropolitan area.", "Founded in the year 1775."]
     }, image: "/poi-images/san-lorenzo-cities-v2.webp"},
   {
-    id: "luque-cities-v2",
+    id: "luque-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Warrior",
+                  "text": "Warrior ist ein Aussichtspunkt in Luque.",
+                  "category": "natural",
+                  "coords": [
+                        -57.489576,
+                        -25.25726
+                  ]
+            },
+            {
+                  "name": "Centro de Artes Cascanueces",
+                  "text": "Centro de Artes Cascanueces ist ein Kunstzentrum in Luque.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.493055,
+                        -25.266329
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen del Rosario",
+                  "text": "Santuario Virgen del Rosario ist eine bedeutende Kirche in Luque, die für ihre kulturelle und religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -57.491528,
+                        -25.266901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Warrior",
+                  "text": "A Warrior egy kilátópont Luque városában.",
+                  "category": "natural",
+                  "coords": [
+                        -57.489576,
+                        -25.25726
+                  ]
+            },
+            {
+                  "name": "Centro de Artes Cascanueces",
+                  "text": "A Centro de Artes Cascanueces egy művészeti központ Luque városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.493055,
+                        -25.266329
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen del Rosario",
+                  "text": "A Santuario Virgen del Rosario egy jelentős templom Luque városában, amely kulturális és vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -57.491528,
+                        -25.266901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Warrior",
+                  "text": "Warrior este un punct de belvedere situat în Luque.",
+                  "category": "natural",
+                  "coords": [
+                        -57.489576,
+                        -25.25726
+                  ]
+            },
+            {
+                  "name": "Centro de Artes Cascanueces",
+                  "text": "Centro de Artes Cascanueces este un centru de artă situat în Luque.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.493055,
+                        -25.266329
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen del Rosario",
+                  "text": "Santuario Virgen del Rosario este o biserică notabilă situată în Luque, recunoscută pentru importanța sa culturală și religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        -57.491528,
+                        -25.266901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Warrior",
+                  "text": "Warrior is a viewpoint located in Luque.",
+                  "category": "natural",
+                  "coords": [
+                        -57.489576,
+                        -25.25726
+                  ]
+            },
+            {
+                  "name": "Centro de Artes Cascanueces",
+                  "text": "Centro de Artes Cascanueces is an arts centre located in Luque.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.493055,
+                        -25.266329
+                  ]
+            },
+            {
+                  "name": "Santuario Virgen del Rosario",
+                  "text": "Santuario Virgen del Rosario is a notable church located in Luque, recognized for its cultural and religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        -57.491528,
+                        -25.266901
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-11",
     coords: [-57.4872, -25.2725],
@@ -792,7 +909,124 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       fr: ["Fondée en 1640 par des missionnaires franciscains.", "Connue pour l'église « La Candelaria », un joyau baroque.", "L'un des districts les plus densément peuplés du département Central.", "Le nom dérive du mot guaraní signifiant « herbe tranchante ».", "Producteur agricole majeur par le passé.", "Aujourd'hui principalement une ville-dortoir pour Asunción."],
     }, image: "/poi-images/capiata-cities-v2.webp"},
   {
-    id: "lambare-cities-v2",
+    id: "lambare-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paseo del Barro",
+                  "text": "Museum in Lambaré.",
+                  "category": "museum",
+                  "coords": [
+                        -57.612818,
+                        -25.331014
+                  ]
+            },
+            {
+                  "name": "cacique Lambare",
+                  "text": "Denkmal für Häuptling Lambaré.",
+                  "category": "historical",
+                  "coords": [
+                        -57.625348,
+                        -25.342197
+                  ]
+            },
+            {
+                  "name": "Iglesia San Nicolás y Santa Maria",
+                  "text": "Kirche in Lambaré.",
+                  "category": "religious",
+                  "coords": [
+                        -57.628463,
+                        -25.324127
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paseo del Barro",
+                  "text": "Múzeum Lambaréban.",
+                  "category": "museum",
+                  "coords": [
+                        -57.612818,
+                        -25.331014
+                  ]
+            },
+            {
+                  "name": "cacique Lambare",
+                  "text": "Emlékmű Lambaré törzsfőnök tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -57.625348,
+                        -25.342197
+                  ]
+            },
+            {
+                  "name": "Iglesia San Nicolás y Santa Maria",
+                  "text": "Templom Lambaréban.",
+                  "category": "religious",
+                  "coords": [
+                        -57.628463,
+                        -25.324127
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paseo del Barro",
+                  "text": "Muzeu în Lambaré.",
+                  "category": "museum",
+                  "coords": [
+                        -57.612818,
+                        -25.331014
+                  ]
+            },
+            {
+                  "name": "cacique Lambare",
+                  "text": "Monument în onoarea căpeteniei Lambaré.",
+                  "category": "historical",
+                  "coords": [
+                        -57.625348,
+                        -25.342197
+                  ]
+            },
+            {
+                  "name": "Iglesia San Nicolás y Santa Maria",
+                  "text": "Biserică în Lambaré.",
+                  "category": "religious",
+                  "coords": [
+                        -57.628463,
+                        -25.324127
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paseo del Barro",
+                  "text": "Museum in Lambaré.",
+                  "category": "museum",
+                  "coords": [
+                        -57.612818,
+                        -25.331014
+                  ]
+            },
+            {
+                  "name": "cacique Lambare",
+                  "text": "Monument honoring Chief Lambaré.",
+                  "category": "historical",
+                  "coords": [
+                        -57.625348,
+                        -25.342197
+                  ]
+            },
+            {
+                  "name": "Iglesia San Nicolás y Santa Maria",
+                  "text": "Church in Lambaré.",
+                  "category": "religious",
+                  "coords": [
+                        -57.628463,
+                        -25.324127
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-11",
     coords: [-57.6083, -25.3408],
@@ -927,7 +1161,52 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       fr: ["Fondée en 1785.", "Connue à l'origine sous le nom de « San José de los Campos Limpios ».", "Port important sur le fleuve Paraguay.", "L'économie comprend l'agriculture et la petite industrie.", "Réputée pour la fabrication de chapeaux de paille (sombrero piri).", "Proche de la rivière Salado, un affluent du Paraguay."],
     }, image: "/poi-images/limpio-cities-v2.webp"},
   {
-    id: "nemby-cities-v2",
+    id: "nemby-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Kulturhaus in Ñemby.",
+                  "category": "museum",
+                  "coords": [
+                        -57.546004,
+                        -25.39371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Kulturális központ Ñembyben.",
+                  "category": "museum",
+                  "coords": [
+                        -57.546004,
+                        -25.39371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Centru cultural în Ñemby.",
+                  "category": "museum",
+                  "coords": [
+                        -57.546004,
+                        -25.39371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Cultural center in Ñemby.",
+                  "category": "museum",
+                  "coords": [
+                        -57.546004,
+                        -25.39371
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-11",
     coords: [-57.5333, -25.3956],
@@ -1013,7 +1292,124 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       fr: ["Fondée en l'an 1728.", "Mondialement célèbre pour sa dentelle Ñandutí.", "Le festival annuel du Ñandutí attire de nombreux visiteurs.", "Abrite l'Hôpital national, un centre médical important.", "Le nom dérive de « Itá », pierre, et « guá », lieu.", "L'économie est fortement marquée par l'artisanat et le commerce."],
     }, image: "/poi-images/itaugua-cities-v2.webp"},
   {
-    id: "mariano-roque-alonso-cities-v2",
+    id: "mariano-roque-alonso-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Escenario de la Parroquia Sagrado Corazón de Jesús",
+                  "text": "Escenario de la Parroquia Sagrado Corazón de Jesús ist ein Theater in Mariano Roque Alonso.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.535124,
+                        -25.211931
+                  ]
+            },
+            {
+                  "name": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
+                  "text": "Asociación Rural del Paraguay - EXPO - Rodeo Central ist eine Sehenswürdigkeit in Mariano Roque Alonso.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.532174,
+                        -25.229683
+                  ]
+            },
+            {
+                  "name": "Eric Artes",
+                  "text": "Eric Artes ist ein Kunstzentrum in Mariano Roque Alonso.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.531772,
+                        -25.21214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Escenario de la Parroquia Sagrado Corazón de Jesús",
+                  "text": "Az Escenario de la Parroquia Sagrado Corazón de Jesús egy színház Mariano Roque Alonsóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.535124,
+                        -25.211931
+                  ]
+            },
+            {
+                  "name": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
+                  "text": "Az Asociación Rural del Paraguay - EXPO - Rodeo Central egy látványosság Mariano Roque Alonsóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.532174,
+                        -25.229683
+                  ]
+            },
+            {
+                  "name": "Eric Artes",
+                  "text": "Az Eric Artes egy művészeti központ Mariano Roque Alonsóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.531772,
+                        -25.21214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Escenario de la Parroquia Sagrado Corazón de Jesús",
+                  "text": "Escenario de la Parroquia Sagrado Corazón de Jesús este un teatru din Mariano Roque Alonso.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.535124,
+                        -25.211931
+                  ]
+            },
+            {
+                  "name": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
+                  "text": "Asociación Rural del Paraguay - EXPO - Rodeo Central este o atracție aflată în Mariano Roque Alonso.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.532174,
+                        -25.229683
+                  ]
+            },
+            {
+                  "name": "Eric Artes",
+                  "text": "Eric Artes este un centru de arte situat în Mariano Roque Alonso.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.531772,
+                        -25.21214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Escenario de la Parroquia Sagrado Corazón de Jesús",
+                  "text": "Escenario de la Parroquia Sagrado Corazón de Jesús is a theatre in Mariano Roque Alonso.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.535124,
+                        -25.211931
+                  ]
+            },
+            {
+                  "name": "Asociación Rural del Paraguay - EXPO - Rodeo Central",
+                  "text": "Asociación Rural del Paraguay - EXPO - Rodeo Central is an attraction found in Mariano Roque Alonso.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.532174,
+                        -25.229683
+                  ]
+            },
+            {
+                  "name": "Eric Artes",
+                  "text": "Eric Artes is an arts centre situated in Mariano Roque Alonso.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.531772,
+                        -25.21214
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-11",
     coords: [-57.5333, -25.2167],
@@ -1142,7 +1538,52 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       fr: ["Fondée par des descendants d'esclaves en 1860.", "Située sur la rive gauche du fleuve Paraguay.", "Réputée pour sa pêche et ses ports fluviaux.", "Site stratégique pour l'industrie frigorifique et de transformation de la viande.", "Le saint patron est Antoine de Padoue.", "Célèbre sa fête patronale le 13 juin."],
     }, image: "/poi-images/san-antonio-cities-v2.webp"},
   {
-    id: "ypane-cities-v2",
+    id: "ypane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Estatua Monumento de la Batalla de Ytororó",
+                  "text": "Die Estatua Monumento de la Batalla de Ytororó ist ein Denkmal in Ypané.",
+                  "category": "historical",
+                  "coords": [
+                        -57.534394,
+                        -25.444457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estatua Monumento de la Batalla de Ytororó",
+                  "text": "Az Estatua Monumento de la Batalla de Ytororó egy emlékmű Ypané városában.",
+                  "category": "historical",
+                  "coords": [
+                        -57.534394,
+                        -25.444457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estatua Monumento de la Batalla de Ytororó",
+                  "text": "Estatua Monumento de la Batalla de Ytororó este un monument situat în Ypané.",
+                  "category": "historical",
+                  "coords": [
+                        -57.534394,
+                        -25.444457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estatua Monumento de la Batalla de Ytororó",
+                  "text": "The Estatua Monumento de la Batalla de Ytororó is a monument located in Ypané.",
+                  "category": "historical",
+                  "coords": [
+                        -57.534394,
+                        -25.444457
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-11",
     coords: [-57.5333, -25.4500],
@@ -1277,7 +1718,52 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       fr: ["Fondée en l'an 1682.", "Connue pour son festival annuel de la canne à sucre.", "Producteur important de canne à sucre et de ses dérivés.", "Le nom honore un chef guarani.", "L'église de la Nativité de la Vierge Marie est un emblème local.", "La population est un mélange de descendants autochtones et espagnols."],
     }, image: "/poi-images/guarambare-cities-v2.webp"},
   {
-    id: "ypacarai-cities-v2",
+    id: "ypacarai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dilapidated railway",
+                  "text": "Die Dilapidated railway ist eine Sehenswürdigkeit in Ypacaraí.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.28755,
+                        -25.403292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dilapidated railway",
+                  "text": "A Dilapidated railway egy látványosság Ypacaraíban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.28755,
+                        -25.403292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dilapidated railway",
+                  "text": "Dilapidated railway este o atracție situată în Ypacaraí.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.28755,
+                        -25.403292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dilapidated railway",
+                  "text": "The Dilapidated railway is an attraction located in Ypacaraí.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.28755,
+                        -25.403292
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-11",
     coords: [-57.2833, -25.4000],
@@ -1320,7 +1806,232 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       fr: ["Fondée en 1864.", "Située sur les rives du célèbre lac Ypacaraí.", "Connue comme la 'Ville du folklore' et de la musique.", "Le festival annuel du lac attire des artistes de tout le pays.", "Gare historique servant aujourd'hui de centre culturel.", "L'église San Buenaventura est le monument religieux le plus important."],
     }, image: "/poi-images/ypacarai-cities-v2.webp"},
   {
-    id: "presidente-franco-cities-v2",
+    id: "presidente-franco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Auditorio Municipal Mauro Cespedes",
+                  "text": "Theater in Presidente Franco.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.614264,
+                        -25.525696
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Mangoré",
+                  "text": "Kulturzentrum in Presidente Franco.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.61647,
+                        -25.524303
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Monday",
+                  "text": "Naturschutzgebiet in Presidente Franco.",
+                  "category": "natural",
+                  "coords": [
+                        -54.632764,
+                        -25.56172
+                  ]
+            },
+            {
+                  "name": "Saltos del Monday",
+                  "text": "Beeindruckende Wasserfälle bei Presidente Franco.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.63237,
+                        -25.562752
+                  ]
+            },
+            {
+                  "name": "Las Maravillas",
+                  "text": "Strandresort in Presidente Franco.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.617497,
+                        -25.571
+                  ]
+            },
+            {
+                  "name": "Arts",
+                  "text": "Kunstgalerie in Presidente Franco.",
+                  "category": "museum",
+                  "coords": [
+                        -54.609232,
+                        -25.543369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Auditorio Municipal Mauro Cespedes",
+                  "text": "Színház Presidente Francóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.614264,
+                        -25.525696
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Mangoré",
+                  "text": "Kulturális központ Presidente Francóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.61647,
+                        -25.524303
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Monday",
+                  "text": "Természetvédelmi park Presidente Francóban.",
+                  "category": "natural",
+                  "coords": [
+                        -54.632764,
+                        -25.56172
+                  ]
+            },
+            {
+                  "name": "Saltos del Monday",
+                  "text": "Lenyűgöző vízesések Presidente Franco közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.63237,
+                        -25.562752
+                  ]
+            },
+            {
+                  "name": "Las Maravillas",
+                  "text": "Üdülőhely Presidente Francóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.617497,
+                        -25.571
+                  ]
+            },
+            {
+                  "name": "Arts",
+                  "text": "Művészeti galéria Presidente Francóban.",
+                  "category": "museum",
+                  "coords": [
+                        -54.609232,
+                        -25.543369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Auditorio Municipal Mauro Cespedes",
+                  "text": "Teatru în Presidente Franco.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.614264,
+                        -25.525696
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Mangoré",
+                  "text": "Centru cultural în Presidente Franco.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.61647,
+                        -25.524303
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Monday",
+                  "text": "Rezervație naturală în Presidente Franco.",
+                  "category": "natural",
+                  "coords": [
+                        -54.632764,
+                        -25.56172
+                  ]
+            },
+            {
+                  "name": "Saltos del Monday",
+                  "text": "Cascade impresionante lângă Presidente Franco.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.63237,
+                        -25.562752
+                  ]
+            },
+            {
+                  "name": "Las Maravillas",
+                  "text": "Stațiune pe plajă în Presidente Franco.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.617497,
+                        -25.571
+                  ]
+            },
+            {
+                  "name": "Arts",
+                  "text": "Galerie de artă în Presidente Franco.",
+                  "category": "museum",
+                  "coords": [
+                        -54.609232,
+                        -25.543369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Auditorio Municipal Mauro Cespedes",
+                  "text": "Theater in Presidente Franco.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.614264,
+                        -25.525696
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Mangoré",
+                  "text": "Cultural center in Presidente Franco.",
+                  "category": "cultural",
+                  "coords": [
+                        -54.61647,
+                        -25.524303
+                  ]
+            },
+            {
+                  "name": "Parque Municipal Monday",
+                  "text": "Nature reserve in Presidente Franco.",
+                  "category": "natural",
+                  "coords": [
+                        -54.632764,
+                        -25.56172
+                  ]
+            },
+            {
+                  "name": "Saltos del Monday",
+                  "text": "Impressive waterfalls near Presidente Franco.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.63237,
+                        -25.562752
+                  ]
+            },
+            {
+                  "name": "Las Maravillas",
+                  "text": "Beach resort in Presidente Franco.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.617497,
+                        -25.571
+                  ]
+            },
+            {
+                  "name": "Arts",
+                  "text": "Art gallery in Presidente Franco.",
+                  "category": "museum",
+                  "coords": [
+                        -54.609232,
+                        -25.543369
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-10",
     coords: [-54.6167, -25.5500],
@@ -1475,7 +2186,52 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       en: "Santa Rita, a city in the Alto Paraná Department of eastern Paraguay, lies about 60 kilometres south of Ciudad del Este along Route 6 and is regarded as one of the most prosperous agricultural centres in the country. It was founded in 1973 by Brazilian immigrants who, after the opening of the Friendship Bridge, came to Paraguay under a state-led colonisation policy to bring the fertile red soils of the Atlantic plateau under soybean cultivation. Within a few decades Santa Rita developed into the heart of Paraguayan soybean production. Today the town has around 60 000 inhabitants, most of whom speak Portuguese. Santa Rita is best known for the annual Expo Santa Rita, one of the largest agricultural fairs in South America, showcasing state-of-the-art machinery, seeds and livestock. The economy is based on soybeans, maize, wheat, cattle ranching, machinery trade and logistics. Notable sights include the modern Catholic parish church and the headquarters of major agricultural cooperatives."
     }, image: "/poi-images/santa-rita-cities-v2.webp"},
   {
-    id: "coronel-bogado-cities-v2",
+    id: "coronel-bogado-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Ka i Puente Ex Ferrocarril",
+                  "text": "Museum in Coronel Bogado.",
+                  "category": "museum",
+                  "coords": [
+                        -56.240309,
+                        -27.160374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Ka i Puente Ex Ferrocarril",
+                  "text": "Múzeum Coronel Bogadóban.",
+                  "category": "museum",
+                  "coords": [
+                        -56.240309,
+                        -27.160374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Ka i Puente Ex Ferrocarril",
+                  "text": "Muzeu în Coronel Bogado.",
+                  "category": "museum",
+                  "coords": [
+                        -56.240309,
+                        -27.160374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Ka i Puente Ex Ferrocarril",
+                  "text": "Museum in Coronel Bogado.",
+                  "category": "museum",
+                  "coords": [
+                        -56.240309,
+                        -27.160374
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-7",
     coords: [-56.2333, -27.1667],
@@ -1651,7 +2407,52 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     },
   },
   {
-    id: "curuguaty-cities-v2",
+    id: "curuguaty-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Curuguaty",
+                  "text": "Museo de Curuguaty ist ein Museum in Curuguaty.",
+                  "category": "museum",
+                  "coords": [
+                        -55.694584,
+                        -24.472089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Curuguaty",
+                  "text": "A Museo de Curuguaty egy múzeum Curuguaty városában.",
+                  "category": "museum",
+                  "coords": [
+                        -55.694584,
+                        -24.472089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Curuguaty",
+                  "text": "Museo de Curuguaty este un muzeu situat în Curuguaty.",
+                  "category": "museum",
+                  "coords": [
+                        -55.694584,
+                        -24.472089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Curuguaty",
+                  "text": "Museo de Curuguaty is a museum located in Curuguaty.",
+                  "category": "museum",
+                  "coords": [
+                        -55.694584,
+                        -24.472089
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-14",
     coords: [-55.7000, -24.4667],
@@ -1695,7 +2496,52 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     },
   },
   {
-    id: "eusebio-ayala-cities-v2",
+    id: "eusebio-ayala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento Batalla de Acosta Ñu",
+                  "text": "Das Monumento Batalla de Acosta Ñu ist ein historisches Denkmal in Eusebio Ayala.",
+                  "category": "historical",
+                  "coords": [
+                        -56.962883,
+                        -25.387031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento Batalla de Acosta Ñu",
+                  "text": "A Monumento Batalla de Acosta Ñu egy történelmi emlékmű Eusebio Ayalában.",
+                  "category": "historical",
+                  "coords": [
+                        -56.962883,
+                        -25.387031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento Batalla de Acosta Ñu",
+                  "text": "Monumento Batalla de Acosta Ñu este un monument istoric din Eusebio Ayala.",
+                  "category": "historical",
+                  "coords": [
+                        -56.962883,
+                        -25.387031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento Batalla de Acosta Ñu",
+                  "text": "The Monumento Batalla de Acosta Ñu is a historical monument in Eusebio Ayala.",
+                  "category": "historical",
+                  "coords": [
+                        -56.962883,
+                        -25.387031
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-3",
     coords: [-56.9667, -25.3833],
@@ -1739,7 +2585,88 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     },
   },
   {
-    id: "piribebuy-cities-v2",
+    id: "piribebuy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Histórico \"Comandante Pedro Pablo Caballero\"",
+                  "text": "Historisches Museum in Piribebuy.",
+                  "category": "museum",
+                  "coords": [
+                        -57.04422,
+                        -25.464622
+                  ]
+            },
+            {
+                  "name": "Paseo de la Memoria",
+                  "text": "Denkmal in Piribebuy.",
+                  "category": "historical",
+                  "coords": [
+                        -57.043843,
+                        -25.467725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Histórico \"Comandante Pedro Pablo Caballero\"",
+                  "text": "Történelmi múzeum Piribebuyban.",
+                  "category": "museum",
+                  "coords": [
+                        -57.04422,
+                        -25.464622
+                  ]
+            },
+            {
+                  "name": "Paseo de la Memoria",
+                  "text": "Emlékmű Piribebuyban.",
+                  "category": "historical",
+                  "coords": [
+                        -57.043843,
+                        -25.467725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Histórico \"Comandante Pedro Pablo Caballero\"",
+                  "text": "Muzeu istoric în Piribebuy.",
+                  "category": "museum",
+                  "coords": [
+                        -57.04422,
+                        -25.464622
+                  ]
+            },
+            {
+                  "name": "Paseo de la Memoria",
+                  "text": "Monument în Piribebuy.",
+                  "category": "historical",
+                  "coords": [
+                        -57.043843,
+                        -25.467725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Histórico \"Comandante Pedro Pablo Caballero\"",
+                  "text": "Historical museum in Piribebuy.",
+                  "category": "museum",
+                  "coords": [
+                        -57.04422,
+                        -25.464622
+                  ]
+            },
+            {
+                  "name": "Paseo de la Memoria",
+                  "text": "Monument in Piribebuy.",
+                  "category": "historical",
+                  "coords": [
+                        -57.043843,
+                        -25.467725
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-3",
     coords: [-57.0500, -25.4667],
@@ -1871,7 +2798,160 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-ignacio-guazu-cities-v2",
+    id: "san-ignacio-guazu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruinas Jesuíticas de San Ignacio Guazú",
+                  "text": "Archäologische Stätte der Jesuiten in San Ignacio Guazú.",
+                  "category": "historical",
+                  "coords": [
+                        -57.024018,
+                        -26.890248
+                  ]
+            },
+            {
+                  "name": "Teatro El Molino",
+                  "text": "Theater in San Ignacio Guazú.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.024602,
+                        -26.885961
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Guerra del Chaco 1932-1935",
+                  "text": "Geschichtsmuseum in San Ignacio Guazú.",
+                  "category": "museum",
+                  "coords": [
+                        -57.023205,
+                        -26.889154
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "Archäologische Stätte in San Ignacio Guazú.",
+                  "category": "historical",
+                  "coords": [
+                        -57.032921,
+                        -26.872711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruinas Jesuíticas de San Ignacio Guazú",
+                  "text": "Jezsuita régészeti lelőhely San Ignacio Guazúban.",
+                  "category": "historical",
+                  "coords": [
+                        -57.024018,
+                        -26.890248
+                  ]
+            },
+            {
+                  "name": "Teatro El Molino",
+                  "text": "Színház San Ignacio Guazúban.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.024602,
+                        -26.885961
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Guerra del Chaco 1932-1935",
+                  "text": "Történelmi múzeum San Ignacio Guazúban.",
+                  "category": "museum",
+                  "coords": [
+                        -57.023205,
+                        -26.889154
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "Régészeti lelőhely San Ignacio Guazúban.",
+                  "category": "historical",
+                  "coords": [
+                        -57.032921,
+                        -26.872711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruinas Jesuíticas de San Ignacio Guazú",
+                  "text": "Sit arheologic iezuit în San Ignacio Guazú.",
+                  "category": "historical",
+                  "coords": [
+                        -57.024018,
+                        -26.890248
+                  ]
+            },
+            {
+                  "name": "Teatro El Molino",
+                  "text": "Teatru în San Ignacio Guazú.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.024602,
+                        -26.885961
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Guerra del Chaco 1932-1935",
+                  "text": "Muzeu de istorie în San Ignacio Guazú.",
+                  "category": "museum",
+                  "coords": [
+                        -57.023205,
+                        -26.889154
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "Sit arheologic în San Ignacio Guazú.",
+                  "category": "historical",
+                  "coords": [
+                        -57.032921,
+                        -26.872711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruinas Jesuíticas de San Ignacio Guazú",
+                  "text": "Jesuit archaeological site in San Ignacio Guazú.",
+                  "category": "historical",
+                  "coords": [
+                        -57.024018,
+                        -26.890248
+                  ]
+            },
+            {
+                  "name": "Teatro El Molino",
+                  "text": "Theater in San Ignacio Guazú.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.024602,
+                        -26.885961
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Guerra del Chaco 1932-1935",
+                  "text": "Historical museum in San Ignacio Guazú.",
+                  "category": "museum",
+                  "coords": [
+                        -57.023205,
+                        -26.889154
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "Archaeological site in San Ignacio Guazú.",
+                  "category": "historical",
+                  "coords": [
+                        -57.032921,
+                        -26.872711
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-8",
     coords: [-57.0333, -26.8667],
@@ -1915,7 +2995,52 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     },
   },
   {
-    id: "loma-plata-cities-v2",
+    id: "loma-plata-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Menno Museum",
+                  "text": "Menno Museum ist ein Museum in Loma Plata.",
+                  "category": "museum",
+                  "coords": [
+                        -59.836727,
+                        -22.379863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Menno Museum",
+                  "text": "A Menno Museum egy múzeum Loma Plata városában.",
+                  "category": "museum",
+                  "coords": [
+                        -59.836727,
+                        -22.379863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Menno Museum",
+                  "text": "Menno Museum este un muzeu situat în Loma Plata.",
+                  "category": "museum",
+                  "coords": [
+                        -59.836727,
+                        -22.379863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Menno Museum",
+                  "text": "Menno Museum is a museum located in Loma Plata.",
+                  "category": "museum",
+                  "coords": [
+                        -59.836727,
+                        -22.379863
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-17",
     coords: [-59.8333, -22.3833],
@@ -2267,7 +3392,124 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     },
   },
   {
-    id: "hohenau-cities-v2",
+    id: "hohenau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
+                  "text": "Ökologischer Park in Hohenau.",
+                  "category": "museum",
+                  "coords": [
+                        -55.651435,
+                        -27.068073
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Edwin Krug",
+                  "text": "Kulturzentrum in Hohenau.",
+                  "category": "museum",
+                  "coords": [
+                        -55.652344,
+                        -27.08364
+                  ]
+            },
+            {
+                  "name": "Salón Padre Guillermo Hütte",
+                  "text": "Kunstzentrum in Hohenau.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.637723,
+                        -27.061932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
+                  "text": "Ökológiai park Hohenauban.",
+                  "category": "museum",
+                  "coords": [
+                        -55.651435,
+                        -27.068073
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Edwin Krug",
+                  "text": "Kulturális központ Hohenauban.",
+                  "category": "museum",
+                  "coords": [
+                        -55.652344,
+                        -27.08364
+                  ]
+            },
+            {
+                  "name": "Salón Padre Guillermo Hütte",
+                  "text": "Művészeti központ Hohenauban.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.637723,
+                        -27.061932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
+                  "text": "Parc ecologic în Hohenau.",
+                  "category": "museum",
+                  "coords": [
+                        -55.651435,
+                        -27.068073
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Edwin Krug",
+                  "text": "Centru cultural în Hohenau.",
+                  "category": "museum",
+                  "coords": [
+                        -55.652344,
+                        -27.08364
+                  ]
+            },
+            {
+                  "name": "Salón Padre Guillermo Hütte",
+                  "text": "Centru de artă în Hohenau.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.637723,
+                        -27.061932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
+                  "text": "Ecological park in Hohenau.",
+                  "category": "museum",
+                  "coords": [
+                        -55.651435,
+                        -27.068073
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Edwin Krug",
+                  "text": "Cultural center in Hohenau.",
+                  "category": "museum",
+                  "coords": [
+                        -55.652344,
+                        -27.08364
+                  ]
+            },
+            {
+                  "name": "Salón Padre Guillermo Hütte",
+                  "text": "Arts center in Hohenau.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.637723,
+                        -27.061932
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-7",
     coords: [-55.6500, -27.0833],
@@ -2443,7 +3685,52 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     },
   },
   {
-    id: "caaguazu-cities-v2",
+    id: "caaguazu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "UTIC Caaguazú",
+                  "text": "UTIC Caaguazú ist ein Museum in Caaguazú.",
+                  "category": "museum",
+                  "coords": [
+                        -56.005486,
+                        -25.460902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "UTIC Caaguazú",
+                  "text": "A UTIC Caaguazú egy múzeum Caaguazú városában.",
+                  "category": "museum",
+                  "coords": [
+                        -56.005486,
+                        -25.460902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "UTIC Caaguazú",
+                  "text": "UTIC Caaguazú este un muzeu situat în Caaguazú.",
+                  "category": "museum",
+                  "coords": [
+                        -56.005486,
+                        -25.460902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "UTIC Caaguazú",
+                  "text": "UTIC Caaguazú is a museum located in Caaguazú.",
+                  "category": "museum",
+                  "coords": [
+                        -56.005486,
+                        -25.460902
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-5",
     coords: [-56.0167, -25.4500],
@@ -2795,7 +4082,88 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     },
   },
   {
-    id: "vallemi-cities-v2",
+    id: "vallemi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Area Protegida - Caverna Kamba Hopo",
+                  "text": "Naturschutzgebiet in Vallemí.",
+                  "category": "natural",
+                  "coords": [
+                        -57.967052,
+                        -22.187775
+                  ]
+            },
+            {
+                  "name": "Casa lindoo",
+                  "text": "Denkmal in Vallemí.",
+                  "category": "historical",
+                  "coords": [
+                        -57.952729,
+                        -22.156889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Area Protegida - Caverna Kamba Hopo",
+                  "text": "Természetvédelmi terület Vallemíben.",
+                  "category": "natural",
+                  "coords": [
+                        -57.967052,
+                        -22.187775
+                  ]
+            },
+            {
+                  "name": "Casa lindoo",
+                  "text": "Emlékmű Vallemíben.",
+                  "category": "historical",
+                  "coords": [
+                        -57.952729,
+                        -22.156889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Area Protegida - Caverna Kamba Hopo",
+                  "text": "Rezervație naturală în Vallemí.",
+                  "category": "natural",
+                  "coords": [
+                        -57.967052,
+                        -22.187775
+                  ]
+            },
+            {
+                  "name": "Casa lindoo",
+                  "text": "Monument în Vallemí.",
+                  "category": "historical",
+                  "coords": [
+                        -57.952729,
+                        -22.156889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Area Protegida - Caverna Kamba Hopo",
+                  "text": "Nature reserve in Vallemí.",
+                  "category": "natural",
+                  "coords": [
+                        -57.967052,
+                        -22.187775
+                  ]
+            },
+            {
+                  "name": "Casa lindoo",
+                  "text": "Monument in Vallemí.",
+                  "category": "historical",
+                  "coords": [
+                        -57.952729,
+                        -22.156889
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-1",
     coords: [-57.9667, -22.1667],
@@ -2839,7 +4207,52 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     },
   },
   {
-    id: "bella-vista-norte-cities-v2",
+    id: "bella-vista-norte-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Bella Vista Norte",
+                  "text": "Mirador Bella Vista Norte ist ein Aussichtspunkt in Bella Vista Norte.",
+                  "category": "natural",
+                  "coords": [
+                        -56.519949,
+                        -22.11581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Bella Vista Norte",
+                  "text": "A Mirador Bella Vista Norte egy kilátópont Bella Vista Norte városában.",
+                  "category": "natural",
+                  "coords": [
+                        -56.519949,
+                        -22.11581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Bella Vista Norte",
+                  "text": "Mirador Bella Vista Norte este un punct de belvedere situat în Bella Vista Norte.",
+                  "category": "natural",
+                  "coords": [
+                        -56.519949,
+                        -22.11581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Bella Vista Norte",
+                  "text": "Mirador Bella Vista Norte is a viewpoint located in Bella Vista Norte.",
+                  "category": "natural",
+                  "coords": [
+                        -56.519949,
+                        -22.11581
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PY-13",
     coords: [-56.5167, -22.1333],

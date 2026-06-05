@@ -124,7 +124,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "cruzeiro-cities-v2",
+    id: "cruzeiro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "Die Kathedrale Unserer Lieben Frau der Gnade ist ein Gotteshaus in Cruzeiro.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "A Kegyelmes Szűzanya Katedrális egy imaház Cruzeiróban.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "Catedrala Maicii Domnului Harului este un lăcaș de cult în Cruzeiro.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Our Lady of Grace Cathedral",
+                  "text": "Our Lady of Grace Cathedral is a place of worship in Cruzeiro.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-01",
     coords: [6.71, 0.33],
@@ -252,7 +297,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "praia-melao-cities-v2",
+    id: "praia-melao-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Praia das Pombas ist ein schöner Strand in Praia Melão.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "A Praia das Pombas egy tengerparti szakasz Praia Melão területén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Praia das Pombas este o plajă situată în Praia Melão.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Praia das Pombas is a beach located in Praia Melão.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-01",
     coords: [6.75, 0.3],
@@ -316,7 +406,232 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "quinta-da-favorita-cities-v2",
+    id: "quinta-da-favorita-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Die Praia Lagarto ist ein schöner Strand in Quinta da Favorita.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "Die Praia P.M ist ein Strand in Quinta da Favorita.",
+                  "category": "recreational",
+                  "coords": [
+                        6.738947,
+                        0.34591
+                  ]
+            },
+            {
+                  "name": "Espaço Cacau",
+                  "text": "Der Espaço Cacau ist eine Kunstgalerie in Quinta da Favorita.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Gesunkenes Schiff",
+                  "text": "Dieses Schiffswrack ist eine Ruinenstätte in Quinta da Favorita.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            },
+            {
+                  "name": "Antigo Forte",
+                  "text": "Das Antigo Forte ist eine historische Ruine in Quinta da Favorita.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "Die Kathedrale Unserer Lieben Frau der Gnade ist ein Gotteshaus in Quinta da Favorita.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "A Praia Lagarto egy gyönyörű strand Quinta da Favoritában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "A Praia P.M egy strand Quinta da Favoritában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.738947,
+                        0.34591
+                  ]
+            },
+            {
+                  "name": "Espaço Cacau",
+                  "text": "Az Espaço Cacau egy művészeti galéria Quinta da Favoritában.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Navio Naufragado",
+                  "text": "Ez a hajóroncs egy romterület Quinta da Favoritában.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            },
+            {
+                  "name": "Antigo Forte",
+                  "text": "Az Antigo Forte egy történelmi rom Quinta da Favoritában.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "A Kegyelmes Szűzanya Katedrális egy imaház Quinta da Favoritában.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Praia Lagarto este o plajă frumoasă în Quinta da Favorita.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "Praia P.M este o plajă în Quinta da Favorita.",
+                  "category": "recreational",
+                  "coords": [
+                        6.738947,
+                        0.34591
+                  ]
+            },
+            {
+                  "name": "Espaço Cacau",
+                  "text": "Espaço Cacau este o galerie de artă în Quinta da Favorita.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Navio Naufragado",
+                  "text": "Această epavă este un sit în ruină în Quinta da Favorita.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            },
+            {
+                  "name": "Antigo Forte",
+                  "text": "Antigo Forte este o ruină istorică în Quinta da Favorita.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Nossa Senhora da Graça",
+                  "text": "Catedrala Maicii Domnului Harului este un lăcaș de cult în Quinta da Favorita.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Praia Lagarto is a beautiful beach in Quinta da Favorita.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            },
+            {
+                  "name": "Praia P.M",
+                  "text": "Praia P.M is a beach in Quinta da Favorita.",
+                  "category": "recreational",
+                  "coords": [
+                        6.738947,
+                        0.34591
+                  ]
+            },
+            {
+                  "name": "Espaço Cacau",
+                  "text": "Espaço Cacau is an art gallery in Quinta da Favorita.",
+                  "category": "museum",
+                  "coords": [
+                        6.737243,
+                        0.343727
+                  ]
+            },
+            {
+                  "name": "Shipwreck",
+                  "text": "This shipwreck is a ruin site in Quinta da Favorita.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            },
+            {
+                  "name": "Antigo Forte",
+                  "text": "Antigo Forte is a historic ruin in Quinta da Favorita.",
+                  "category": "historical",
+                  "coords": [
+                        6.74223,
+                        0.331788
+                  ]
+            },
+            {
+                  "name": "Our Lady of Grace Cathedral",
+                  "text": "Our Lady of Grace Cathedral is a place of worship in Quinta da Favorita.",
+                  "category": "religious",
+                  "coords": [
+                        6.732685,
+                        0.338362
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-01",
     coords: [6.72, 0.34],
@@ -681,7 +996,160 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       en: "Porto Alegre lies at the southernmost tip of the main island of São Tomé in the Caué district and forms the gateway to the tiny Ilhéu das Rolas island, only a few hundred meters offshore and cut precisely in two by the Equator. The small port settlement emerged in the 19th century as part of the vast roça plantations that produced cocoa, coffee and coconuts for export. Today, crumbling warehouses, a wooden jetty and colorful pirogues define the village, while the Piscina natural pools and endless black-sand beaches draw ecotourists. Porto Alegre is also an internationally important sea-turtle sanctuary: programs run by ATM (Associação Tatô) guard the nesting sites of leatherback, green and hawksbill turtles every season. The region is the terminus of the only southern coastal road and the gateway to the protected Obô National Park, with its pristine rainforests, waterfalls and endemic bird species, making it one of the island's most exciting nature destinations."
     }, image: "/poi-images/porto-alegre-cities-v2.webp"},
   {
-    id: "dona-augusta-cities-v2",
+    id: "dona-augusta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande ist ein Strand in Dona Augusta.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570921,
+                        0.08519
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "Praia Diogo Afonso ist ein Strand in Dona Augusta.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598518,
+                        0.081325
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "Praia Zongõnhim ist ein Strandabschnitt in Dona Augusta.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578645,
+                        0.086206
+                  ]
+            },
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "Pico do Cão Grande ist ein Aussichtspunkt in Dona Augusta.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Grande",
+                  "text": "A Praia Grande egy tengerpart Dona Augusta településen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570921,
+                        0.08519
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "A Praia Diogo Afonso egy strand Dona Augusta területén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598518,
+                        0.081325
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "A Praia Zongõnhim egy strand Dona Augusta régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578645,
+                        0.086206
+                  ]
+            },
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "A Pico do Cão Grande egy nevezetes kilátópont Dona Augusta területén.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande este o plajă din Dona Augusta.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570921,
+                        0.08519
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "Praia Diogo Afonso este o plajă în Dona Augusta.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598518,
+                        0.081325
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "Praia Zongõnhim este o plajă situată în Dona Augusta.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578645,
+                        0.086206
+                  ]
+            },
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "Pico do Cão Grande este un punct de belvedere în Dona Augusta.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande is a beach situated in Dona Augusta.",
+                  "category": "recreational",
+                  "coords": [
+                        6.570921,
+                        0.08519
+                  ]
+            },
+            {
+                  "name": "Praia Diogo Afonso",
+                  "text": "Praia Diogo Afonso is a beach located in Dona Augusta.",
+                  "category": "recreational",
+                  "coords": [
+                        6.598518,
+                        0.081325
+                  ]
+            },
+            {
+                  "name": "Praia Zongõnhim",
+                  "text": "Praia Zongõnhim is a beach in Dona Augusta.",
+                  "category": "recreational",
+                  "coords": [
+                        6.578645,
+                        0.086206
+                  ]
+            },
+            {
+                  "name": "Pico do Cão Grande",
+                  "text": "Pico do Cão Grande is a viewpoint in Dona Augusta.",
+                  "category": "natural",
+                  "coords": [
+                        6.580968,
+                        0.092864
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-03",
     coords: [6.59, 0.08],
@@ -937,7 +1405,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "diogo-vaz-cities-v2",
+    id: "diogo-vaz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Túnel",
+                  "text": "Der Túnel ist eine Attraktion in Diogo Vaz.",
+                  "category": "landmark",
+                  "coords": [
+                        6.489827,
+                        0.309008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Túnel",
+                  "text": "A Túnel egy látnivaló Diogo Vazban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.489827,
+                        0.309008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Túnel",
+                  "text": "Túnel este o atracție în Diogo Vaz.",
+                  "category": "landmark",
+                  "coords": [
+                        6.489827,
+                        0.309008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Túnel",
+                  "text": "Túnel is an attraction in Diogo Vaz.",
+                  "category": "landmark",
+                  "coords": [
+                        6.489827,
+                        0.309008
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-04",
     coords: [6.47, 0.31],
@@ -1001,7 +1514,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "henrique-cities-v2",
+    id: "henrique-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares ist eine Sehenswürdigkeit in Henrique.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "A Cascata Angolares egy látványosság Henrique városában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares este o atracție în Henrique.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares is an attraction located in Henrique.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-04",
     coords: [6.56, 0.3],
@@ -1257,7 +1815,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "santo-amaro-cities-v2",
+    id: "santo-amaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Praia Lagarto ist ein Strand in Santo Amaro.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "A Praia Lagarto egy tengerpart Santo Amaro településen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Praia Lagarto este o plajă din Santo Amaro.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Lagarto",
+                  "text": "Praia Lagarto is a beach located in Santo Amaro.",
+                  "category": "recreational",
+                  "coords": [
+                        6.714638,
+                        0.362456
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-05",
     coords: [6.69, 0.36],
@@ -1321,7 +1924,124 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "conde-cities-v2",
+    id: "conde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "Der Farol da Lagoa Azul ist ein Leuchtturm in Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            },
+            {
+                  "name": "Praia Guégué",
+                  "text": "Die Praia Guégué ist ein Strand in Conde.",
+                  "category": "recreational",
+                  "coords": [
+                        6.634879,
+                        0.406759
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Die Praia das Conchas ist ein Strand in Conde.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621376,
+                        0.406963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "A Farol da Lagoa Azul egy világítótorony Condében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            },
+            {
+                  "name": "Praia Guégué",
+                  "text": "A Praia Guégué egy strand Condében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.634879,
+                        0.406759
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "A Praia das Conchas egy strand Condében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621376,
+                        0.406963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "Farol da Lagoa Azul este un far în Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            },
+            {
+                  "name": "Praia Guégué",
+                  "text": "Praia Guégué este o plajă în Conde.",
+                  "category": "recreational",
+                  "coords": [
+                        6.634879,
+                        0.406759
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Praia das Conchas este o plajă în Conde.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621376,
+                        0.406963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da Lagoa Azul",
+                  "text": "Farol da Lagoa Azul is a lighthouse in Conde.",
+                  "category": "landmark",
+                  "coords": [
+                        6.6102,
+                        0.407526
+                  ]
+            },
+            {
+                  "name": "Praia Guégué",
+                  "text": "Praia Guégué is a beach in Conde.",
+                  "category": "recreational",
+                  "coords": [
+                        6.634879,
+                        0.406759
+                  ]
+            },
+            {
+                  "name": "Praia das Conchas",
+                  "text": "Praia das Conchas is a beach in Conde.",
+                  "category": "recreational",
+                  "coords": [
+                        6.621376,
+                        0.406963
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-05",
     coords: [6.63, 0.4],
@@ -1385,7 +2105,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "micolo-cities-v2",
+    id: "micolo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló ist ein Strand in Micolo.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Micoló",
+                  "text": "A Praia Micoló egy strand Micolo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló este o plajă în Micolo.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló is a beach located in Micolo.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-05",
     coords: [6.71, 0.41],
@@ -1449,7 +2214,88 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "fernao-dias-cities-v2",
+    id: "fernao-dias-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "Praia do Governadoro ist ein Strand in Fernão Dias.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665651,
+                        0.411243
+                  ]
+            },
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló ist ein Strand in Fernão Dias.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "A Praia do Governadoro egy tengerpart Fernão Dias területén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665651,
+                        0.411243
+                  ]
+            },
+            {
+                  "name": "Praia Micoló",
+                  "text": "A Praia Micoló egy strand Fernão Dias településen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "Praia do Governadoro este o plajă situată în Fernão Dias.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665651,
+                        0.411243
+                  ]
+            },
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló este o plajă din Fernão Dias.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "Praia do Governadoro is a beach in Fernão Dias.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665651,
+                        0.411243
+                  ]
+            },
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló is a beach situated in Fernão Dias.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-05",
     coords: [6.68, 0.41],
@@ -1513,7 +2359,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "agostinho-neto-cities-v2",
+    id: "agostinho-neto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "Die Roça Agostinho Neto bietet einen schönen Aussichtspunkt in Agostinho Neto.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "A Roça Agostinho Neto egy szép kilátópontot kínál Agostinho Netóban.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "Roça Agostinho Neto oferă un punct de belvedere frumos în Agostinho Neto.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "Roça Agostinho Neto offers a nice viewpoint in Agostinho Neto.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-05",
     coords: [6.64, 0.37],
@@ -1641,7 +2532,88 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "canavial-cities-v2",
+    id: "canavial-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "Praia do Governadoro ist ein Küstenabschnitt in Canavial.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665651,
+                        0.411243
+                  ]
+            },
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló ist ein Strand in Canavial.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "A Praia do Governadoro egy tengerpart Canavial területén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665651,
+                        0.411243
+                  ]
+            },
+            {
+                  "name": "Praia Micoló",
+                  "text": "A Praia Micoló egy strand Canavial településen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "Praia do Governadoro este o plajă în Canavial.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665651,
+                        0.411243
+                  ]
+            },
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló este o plajă din Canavial.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia do Governadoro",
+                  "text": "Praia do Governadoro is a beach located in Canavial.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665651,
+                        0.411243
+                  ]
+            },
+            {
+                  "name": "Praia Micoló",
+                  "text": "Praia Micoló is a beach situated in Canavial.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690614,
+                        0.39759
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-05",
     coords: [6.68, 0.39],
@@ -1705,7 +2677,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "blublu-cities-v2",
+    id: "blublu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "Die Roça Agostinho Neto bietet einen Aussichtspunkt in Blublu.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "A Roça Agostinho Neto egy kilátópontot kínál Blubluban.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "Roça Agostinho Neto oferă un punct de belvedere în Blublu.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roça Agostinho Neto ( Roça de Cinco mil)",
+                  "text": "Roça Agostinho Neto offers a viewpoint in Blublu.",
+                  "category": "natural",
+                  "coords": [
+                        6.644974,
+                        0.368656
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-05",
     coords: [6.65, 0.38],
@@ -1833,7 +2850,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "madalena-cities-v2",
+    id: "madalena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "Das Coffe Museum ist ein Museum zum Thema Kaffee in Madalena.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "A Coffe Museum egy múzeum Madalena városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "Coffe Museum este un muzeu din Madalena.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "The Coffe Museum is a museum located in Madalena.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-06",
     coords: [6.66, 0.3],
@@ -2089,7 +3151,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "santa-margarida-cities-v2",
+    id: "santa-margarida-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "Das Kaffeemuseum in Santa Margarida zeigt die lokale Geschichte des Kaffeeanbaus.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "A Santa Margarida-i Kávémúzeum a kávétermesztés helyi történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "Muzeul Cafelei din Santa Margarida prezintă istoria locală a cultivării cafelei.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "The Coffee Museum in Santa Margarida displays local coffee cultivation history.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-06",
     coords: [6.65, 0.28],
@@ -2217,7 +3324,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "batepa-cities-v2",
+    id: "batepa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "Das Coffe Museum ist ein Museum in Batepá.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "A Coffe Museum egy múzeum Batepá területén.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "Coffe Museum este un muzeu din Batepá.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "The Coffe Museum is a museum in Batepá.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-06",
     coords: [6.66, 0.29],
@@ -2281,7 +3433,88 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "monte-cafe-cities-v2",
+    id: "monte-cafe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "Das Kaffeemuseum in Monte Café bietet Einblicke in die Kaffeeproduktion.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Der Botanische Garten ist eine attraktive Anlage in Monte Café.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61216,
+                        0.289047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "A Monte Café-i Kávémúzeum betekintést nyújt a kávétermelésbe.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico",
+                  "text": "A Botanikus Kert egy vonzó terület Monte Caféban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61216,
+                        0.289047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "Muzeul Cafelei din Monte Café oferă perspective asupra producției de cafea.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico",
+                  "text": "Grădina Botanică este o facilitate atractivă în Monte Café.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61216,
+                        0.289047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coffe Museum",
+                  "text": "The Coffee Museum in Monte Café offers insights into coffee production.",
+                  "category": "museum",
+                  "coords": [
+                        6.640265,
+                        0.299754
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "The Botanical Garden is an attractive facility in Monte Café.",
+                  "category": "landmark",
+                  "coords": [
+                        6.61216,
+                        0.289047
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-06",
     coords: [6.63, 0.3],
@@ -2582,7 +3815,232 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "belo-monte-cities-v2",
+    id: "belo-monte-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Seabra",
+                  "text": "Praia Seabra ist ein Strand in Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426106,
+                        1.683721
+                  ]
+            },
+            {
+                  "name": "Praia Boi",
+                  "text": "Praia Boi ist ein Strand in Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.459731,
+                        1.680746
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "Praia Macaco ist ein Strand in Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453848,
+                        1.682025
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande ist ein Strand in Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.447971,
+                        1.669711
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "Praia Burra ist ein Strand in Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435473,
+                        1.685377
+                  ]
+            },
+            {
+                  "name": "Praia Banana",
+                  "text": "Praia Banana ist ein Aussichtspunkt in Belo Monte.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Seabra",
+                  "text": "A Praia Seabra egy strand Belo Monte városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426106,
+                        1.683721
+                  ]
+            },
+            {
+                  "name": "Praia Boi",
+                  "text": "A Praia Boi egy strand Belo Monte városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.459731,
+                        1.680746
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "A Praia Macaco egy strand Belo Monte városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453848,
+                        1.682025
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "A Praia Grande egy strand Belo Monte városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.447971,
+                        1.669711
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "A Praia Burra egy strand Belo Monte városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435473,
+                        1.685377
+                  ]
+            },
+            {
+                  "name": "Praia Banana",
+                  "text": "A Praia Banana egy kilátó Belo Monte városában.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Seabra",
+                  "text": "Praia Seabra este o plajă în Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426106,
+                        1.683721
+                  ]
+            },
+            {
+                  "name": "Praia Boi",
+                  "text": "Praia Boi este o plajă în Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.459731,
+                        1.680746
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "Praia Macaco este o plajă în Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453848,
+                        1.682025
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande este o plajă în Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.447971,
+                        1.669711
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "Praia Burra este o plajă în Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435473,
+                        1.685377
+                  ]
+            },
+            {
+                  "name": "Praia Banana",
+                  "text": "Praia Banana este un punct de belvedere în Belo Monte.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Seabra",
+                  "text": "Praia Seabra is a beach located in Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426106,
+                        1.683721
+                  ]
+            },
+            {
+                  "name": "Praia Boi",
+                  "text": "Praia Boi is a beach located in Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.459731,
+                        1.680746
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "Praia Macaco is a beach located in Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453848,
+                        1.682025
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande is a beach located in Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.447971,
+                        1.669711
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "Praia Burra is a beach located in Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435473,
+                        1.685377
+                  ]
+            },
+            {
+                  "name": "Praia Banana",
+                  "text": "Praia Banana is a viewpoint located in Belo Monte.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.44, 1.67],
@@ -2646,7 +4104,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "paciencia-cities-v2",
+    id: "paciencia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho ist ein Aussichtspunkt in Paciência.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "A Miradouro Terreiro Velho egy kilátópont Paciência településen.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho este un punct de belvedere situat în Paciência.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho is a viewpoint located in Paciência.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.42, 1.62],
@@ -2755,7 +4258,88 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       en: "Ponta do Sol marks the northwestern tip of Príncipe Island and feels, both geographically and atmospherically, like an „end of the world“. Steep volcanic cliffs plunge here into the Atlantic, and a historic lighthouse built in the early 20th century guides ships through the sometimes treacherous currents of the Gulf of Guinea. Because the point faces almost due west, it is one of the best places in the entire archipelago to watch the sunset over the open ocean — on clear days, the setting sun bathes the Atlantic in deep gold and red. The small scattered settlement at the foot of the lighthouse lives from deep-sea fishing, particularly tuna and wahoo, and from the gentle tourism increasingly discovering the region. Rare birds such as the São Tomé drongo and the Sandwich tern nest on the cliffs, and humpback whales pass offshore between July and October."
     }, image: "/poi-images/ponta-do-sol-cities-v2.webp"},
   {
-    id: "nova-estrela-cities-v2",
+    id: "nova-estrela-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Die Praia Abade ist ein Strand in Nova Estrela.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Der Miradouro Terreiro Velho ist ein Aussichtspunkt in Nova Estrela.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Abade",
+                  "text": "A Praia Abade egy strand Nova Estrelában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "A Miradouro Terreiro Velho egy kilátópont Nova Estrelában.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade este o plajă în Nova Estrela.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho este un punct de belvedere în Nova Estrela.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade is a beach in Nova Estrela.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho is a viewpoint in Nova Estrela.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.44, 1.61],
@@ -2947,7 +4531,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "esperanca-cities-v2",
+    id: "esperanca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Der Miradouro Terreiro Velho ist ein Aussichtspunkt in Esperança.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "A Miradouro Terreiro Velho egy kilátópont Esperançában.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho este un punct de belvedere în Esperança.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho is a viewpoint in Esperança.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.43, 1.6],
@@ -3075,7 +4704,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "maria-correia-cities-v2",
+    id: "maria-correia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel ist ein Aussichtspunkt in Maria Correia.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Az Oque Daniel egy kilátó Maria Correia területén.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel este un punct de belvedere în Maria Correia.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel is a viewpoint in Maria Correia.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.36, 1.65],
@@ -3203,7 +4877,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "henrique-lemba-cities-v2",
+    id: "henrique-lemba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares ist eine Sehenswürdigkeit in Henrique (Lembá).",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "A Cascata Angolares egy látványosság Henrique (Lembá) városában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares este o atracție în Henrique (Lembá).",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares is an attraction located in Henrique (Lembá).",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-04",
     coords: [6.57, 0.29],
@@ -3459,7 +5178,124 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "sandy-principe-cities-v2",
+    id: "sandy-principe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Praia Santa Rita ist ein Strand an der Sundy-Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita ist ein Badestrand an der Sundy-Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel ist ein Aussichtspunkt an der Sundy-Küste.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "A Praia Santa Rita egy strand Sundy partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "A Praia de Santa Rita egy tengerpart Sundy partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Az Oque Daniel egy kilátó Sundy partvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Praia Santa Rita este o plajă pe coasta Sundy.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita este o plajă pe coasta Sundy.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel este un punct de belvedere de pe coasta Sundy.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Praia Santa Rita is a beach along the Sundy coast.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita is a beach located on the Sundy coast.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel is a viewpoint situated along the Sundy coast.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.39, 1.67],
@@ -3523,7 +5359,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "paciencia-principe-interior-cities-v2",
+    id: "paciencia-principe-interior-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Der Miradouro Terreiro Velho ist ein Aussichtspunkt in Paciência.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "A Miradouro Terreiro Velho egy kilátópont Paciênciában.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho este un punct de belvedere în Paciência.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho is a viewpoint in Paciência.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.42, 1.63],
@@ -3587,7 +5468,88 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "ponta-do-sol-principe-north-cities-v2",
+    id: "ponta-do-sol-principe-north-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Praia Santa Rita ist ein Strand in Ponta do Sol (Norden).",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita ist ein Strand in Ponta do Sol (Norden).",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "A Praia Santa Rita egy strand Ponta do Sol (Norden) városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "A Praia de Santa Rita egy strand Ponta do Sol (Norden) városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Praia Santa Rita este o plajă în Ponta do Sol (Norden).",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita este o plajă în Ponta do Sol (Norden).",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Praia Santa Rita is a beach located in Ponta do Sol (Norden).",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita is a beach located in Ponta do Sol (Norden).",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.38, 1.69],
@@ -3907,7 +5869,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "abade-principe-north-cities-v2",
+    id: "abade-principe-north-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade ist ein Strand in Abade (Nord).",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Abade",
+                  "text": "A Praia Abade egy strand Abade északi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade este o plajă în Abade (Nord).",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade is a beach located in Abade (Nord).",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.45, 1.63],
@@ -4035,7 +6042,88 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "pantufo-agua-grande-coast-cities-v2",
+    id: "pantufo-agua-grande-coast-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Praia das Pombas ist ein Strand in Pantufo (Küste).",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            },
+            {
+                  "name": "Gesunkenes Schiff",
+                  "text": "Shipwreck sind Ruinen in Pantufo (Küste).",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "A Praia das Pombas egy strand Pantufo (Küste) városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            },
+            {
+                  "name": "Navio Naufragado",
+                  "text": "A Shipwreck egy rom Pantufo (Küste) városában.",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Praia das Pombas este o plajă în Pantufo (Küste).",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            },
+            {
+                  "name": "Navio Naufragado",
+                  "text": "Shipwreck reprezintă niște ruine în Pantufo (Küste).",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia das Pombas",
+                  "text": "Praia das Pombas is a beach located in Pantufo (Küste).",
+                  "category": "recreational",
+                  "coords": [
+                        6.750893,
+                        0.287407
+                  ]
+            },
+            {
+                  "name": "Shipwreck",
+                  "text": "Shipwreck is a ruined site located in Pantufo (Küste).",
+                  "category": "historical",
+                  "coords": [
+                        6.742856,
+                        0.328309
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-01",
     coords: [6.76, 0.31],
@@ -4099,7 +6187,52 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "henrique-lemba-plateau-cities-v2",
+    id: "henrique-lemba-plateau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares ist eine Attraktion in der Henrique-Hochebene.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "A Cascata Angolares egy látványosság Henrique fennsíkján.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares este o atracție situată pe podișul Henrique.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascata Angolares",
+                  "text": "Cascata Angolares is an attraction located in the Henrique plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        6.553862,
+                        0.297169
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-04",
     coords: [6.56, 0.31],
@@ -4291,7 +6424,232 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "belo-monte-principe-coast-cities-v2",
+    id: "belo-monte-principe-coast-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Seabra",
+                  "text": "Praia Seabra ist ein Strand an der Küste von Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426106,
+                        1.683721
+                  ]
+            },
+            {
+                  "name": "Praia Boi",
+                  "text": "Praia Boi ist ein Strand an der Belo Monte Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        7.459731,
+                        1.680746
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "Praia Macaco ist ein Strand an der Küste von Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453848,
+                        1.682025
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande ist ein Strand an der Belo Monte Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        7.447971,
+                        1.669711
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "Praia Burra ist ein Strand an der Küste von Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435473,
+                        1.685377
+                  ]
+            },
+            {
+                  "name": "Praia Banana",
+                  "text": "Praia Banana ist ein Aussichtspunkt an der Küste von Belo Monte.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Seabra",
+                  "text": "A Praia Seabra egy strand Belo Monte partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426106,
+                        1.683721
+                  ]
+            },
+            {
+                  "name": "Praia Boi",
+                  "text": "A Praia Boi egy strand Belo Monte partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.459731,
+                        1.680746
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "A Praia Macaco egy tengerpart Belo Monte partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453848,
+                        1.682025
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "A Praia Grande egy strand Belo Monte partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.447971,
+                        1.669711
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "A Praia Burra egy tengerpart Belo Monte partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435473,
+                        1.685377
+                  ]
+            },
+            {
+                  "name": "Praia Banana",
+                  "text": "A Praia Banana egy kilátópont Belo Monte partvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Seabra",
+                  "text": "Praia Seabra este o plajă pe coasta Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426106,
+                        1.683721
+                  ]
+            },
+            {
+                  "name": "Praia Boi",
+                  "text": "Praia Boi este o plajă de pe coasta Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.459731,
+                        1.680746
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "Praia Macaco este o plajă pe coasta Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453848,
+                        1.682025
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande este o plajă pe coasta Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.447971,
+                        1.669711
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "Praia Burra este o plajă de pe coasta Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435473,
+                        1.685377
+                  ]
+            },
+            {
+                  "name": "Praia Banana",
+                  "text": "Praia Banana este un punct de belvedere pe coasta Belo Monte.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Seabra",
+                  "text": "Praia Seabra is a beach on the coast of Belo Monte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.426106,
+                        1.683721
+                  ]
+            },
+            {
+                  "name": "Praia Boi",
+                  "text": "Praia Boi is a beach situated along the Belo Monte coast.",
+                  "category": "recreational",
+                  "coords": [
+                        7.459731,
+                        1.680746
+                  ]
+            },
+            {
+                  "name": "Praia Macaco",
+                  "text": "Praia Macaco is a beach located on the Belo Monte coast.",
+                  "category": "recreational",
+                  "coords": [
+                        7.453848,
+                        1.682025
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande is a beach situated on the Belo Monte coast.",
+                  "category": "recreational",
+                  "coords": [
+                        7.447971,
+                        1.669711
+                  ]
+            },
+            {
+                  "name": "Praia Burra",
+                  "text": "Praia Burra is a beach on the Belo Monte coast.",
+                  "category": "recreational",
+                  "coords": [
+                        7.435473,
+                        1.685377
+                  ]
+            },
+            {
+                  "name": "Praia Banana",
+                  "text": "Praia Banana is a viewpoint situated along the Belo Monte coast.",
+                  "category": "natural",
+                  "coords": [
+                        7.442897,
+                        1.689601
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.45, 1.67],
@@ -4355,7 +6713,124 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "sandy-principe-north-cities-v2",
+    id: "sandy-principe-north-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Die Praia Santa Rita ist ein Strand in Sundy.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Die Praia de Santa Rita ist ein Strand in Sundy.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel ist ein Aussichtspunkt in Sundy.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "A Praia Santa Rita egy strand Sundyban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "A Praia de Santa Rita egy strand Sundyban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel egy kilátópont Sundyban.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Praia Santa Rita este o plajă în Sundy.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita este o plajă în Sundy.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel este un punct de belvedere în Sundy.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Santa Rita",
+                  "text": "Praia Santa Rita is a beach in Sundy.",
+                  "category": "recreational",
+                  "coords": [
+                        7.400309,
+                        1.691993
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Rita",
+                  "text": "Praia de Santa Rita is a beach in Sundy.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405776,
+                        1.691625
+                  ]
+            },
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel is a viewpoint in Sundy.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.38, 1.68],
@@ -4419,7 +6894,88 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
     },
   },
   {
-    id: "paciencia-principe-coast-cities-v2",
+    id: "paciencia-principe-coast-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade ist ein Strand in Paciência (Küste).",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Der Miradouro Terreiro Velho ist ein Aussichtspunkt in Paciência (Küste).",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia Abade",
+                  "text": "A Praia Abade egy strand Paciência (Küste) városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "A Miradouro Terreiro Velho egy kilátó Paciência (Küste) városában.",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade este o plajă în Paciência (Küste).",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "Miradouro Terreiro Velho este un punct de belvedere în Paciência (Küste).",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia Abade",
+                  "text": "Praia Abade is a beach located in Paciência (Küste).",
+                  "category": "recreational",
+                  "coords": [
+                        7.455994,
+                        1.631382
+                  ]
+            },
+            {
+                  "name": "Miradouro Terreiro Velho",
+                  "text": "The Miradouro Terreiro Velho is a viewpoint located in Paciência (Küste).",
+                  "category": "natural",
+                  "coords": [
+                        7.427073,
+                        1.614192
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ST-P",
     coords: [7.43, 1.64],

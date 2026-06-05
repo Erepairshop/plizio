@@ -85,7 +85,448 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-fuvahmulah-cities-v2",
+    id: "mv-fuvahmulah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fua Mulaku Havitta",
+                  "text": "Fua Mulaku Havitta ist eine alte buddhistische Stupa-Ruine in Fuvahmulah.",
+                  "category": "historical",
+                  "coords": [
+                        73.419022,
+                        -0.281028
+                  ]
+            },
+            {
+                  "name": "Neregando reef",
+                  "text": "Das Neregando-Riff ist eine natürliche Unterwasserattraktion in der Nähe von Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.411257,
+                        -0.293336
+                  ]
+            },
+            {
+                  "name": "Seafan",
+                  "text": "Seafan ist eine Sehenswürdigkeit in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.436522,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Thundi",
+                  "text": "Thundi ist eine Attraktion in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4217,
+                        -0.280909
+                  ]
+            },
+            {
+                  "name": "Maa Neyru",
+                  "text": "Maa Neyru ist eine Sehenswürdigkeit in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4205,
+                        -0.300083
+                  ]
+            },
+            {
+                  "name": "Rasgefanno",
+                  "text": "Rasgefanno ist eine Attraktion in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428106,
+                        -0.291211
+                  ]
+            },
+            {
+                  "name": "Tiger sharks feeding point",
+                  "text": "Der Tiger sharks feeding point ist eine Attraktion in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.44126,
+                        -0.306573
+                  ]
+            },
+            {
+                  "name": "sunset viewpoint",
+                  "text": "Der Sunset Viewpoint bietet eine malerische Aussicht in Fuvahmulah.",
+                  "category": "natural",
+                  "coords": [
+                        73.417754,
+                        -0.294678
+                  ]
+            },
+            {
+                  "name": "Raskuri Restaurant",
+                  "text": "Das Raskuri Restaurant dient auch als Aussichtspunkt in Fuvahmulah.",
+                  "category": "natural",
+                  "coords": [
+                        73.42319,
+                        -0.298282
+                  ]
+            },
+            {
+                  "name": "The Spot by Ataraxis",
+                  "text": "The Spot by Ataraxis ist eine lokale Attraktion in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.414542,
+                        -0.281305
+                  ]
+            },
+            {
+                  "name": "Vasho Veyo",
+                  "text": "Vasho Veyo ist eine Attraktion in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.432503,
+                        -0.308415
+                  ]
+            },
+            {
+                  "name": "Tours Ease Maldives",
+                  "text": "Tours Ease Maldives ist eine Sehenswürdigkeit in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.427062,
+                        -0.293312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fua Mulaku Havitta",
+                  "text": "A Fua Mulaku Havitta egy ősi, romos buddhista sztúpa Fuvahmulah városában.",
+                  "category": "historical",
+                  "coords": [
+                        73.419022,
+                        -0.281028
+                  ]
+            },
+            {
+                  "name": "Neregando reef",
+                  "text": "A Neregando-zátony egy természetes víz alatti látványosság Fuvahmulah közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.411257,
+                        -0.293336
+                  ]
+            },
+            {
+                  "name": "Seafan",
+                  "text": "A Seafan egy látványosság Fuvahmulah városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.436522,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Thundi",
+                  "text": "A Thundi egy látnivaló Fuvahmulah területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4217,
+                        -0.280909
+                  ]
+            },
+            {
+                  "name": "Maa Neyru",
+                  "text": "A Maa Neyru egy attrakció Fuvahmulahban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4205,
+                        -0.300083
+                  ]
+            },
+            {
+                  "name": "Rasgefanno",
+                  "text": "A Rasgefanno egy látványosság Fuvahmulah városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428106,
+                        -0.291211
+                  ]
+            },
+            {
+                  "name": "Tiger sharks feeding point",
+                  "text": "A Tiger sharks feeding point egy látnivaló Fuvahmulahban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.44126,
+                        -0.306573
+                  ]
+            },
+            {
+                  "name": "sunset viewpoint",
+                  "text": "A naplemente kilátó festői panorámát nyújt Fuvahmulahban.",
+                  "category": "natural",
+                  "coords": [
+                        73.417754,
+                        -0.294678
+                  ]
+            },
+            {
+                  "name": "Raskuri Restaurant",
+                  "text": "A Raskuri étterem kilátóként is szolgál Fuvahmulahban.",
+                  "category": "natural",
+                  "coords": [
+                        73.42319,
+                        -0.298282
+                  ]
+            },
+            {
+                  "name": "The Spot by Ataraxis",
+                  "text": "A The Spot by Ataraxis egy helyi látványosság Fuvahmulah területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.414542,
+                        -0.281305
+                  ]
+            },
+            {
+                  "name": "Vasho Veyo",
+                  "text": "A Vasho Veyo egy attrakció Fuvahmulahban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.432503,
+                        -0.308415
+                  ]
+            },
+            {
+                  "name": "Tours Ease Maldives",
+                  "text": "A Tours Ease Maldives egy látványosság Fuvahmulah városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.427062,
+                        -0.293312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fua Mulaku Havitta",
+                  "text": "Fua Mulaku Havitta este o veche stupa budistă în ruine situată în Fuvahmulah.",
+                  "category": "historical",
+                  "coords": [
+                        73.419022,
+                        -0.281028
+                  ]
+            },
+            {
+                  "name": "Neregando reef",
+                  "text": "Reciful Neregando este o atracție subacvatică naturală situată în apropiere de Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.411257,
+                        -0.293336
+                  ]
+            },
+            {
+                  "name": "Seafan",
+                  "text": "Seafan este o atracție situată în Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.436522,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Thundi",
+                  "text": "Thundi este o atracție în Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4217,
+                        -0.280909
+                  ]
+            },
+            {
+                  "name": "Maa Neyru",
+                  "text": "Maa Neyru este o atracție situată în Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4205,
+                        -0.300083
+                  ]
+            },
+            {
+                  "name": "Rasgefanno",
+                  "text": "Rasgefanno este o atracție din Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428106,
+                        -0.291211
+                  ]
+            },
+            {
+                  "name": "Tiger sharks feeding point",
+                  "text": "Punctul de hrănire a rechinilor tigru este o atracție în Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.44126,
+                        -0.306573
+                  ]
+            },
+            {
+                  "name": "sunset viewpoint",
+                  "text": "Punctul de belvedere pentru apus oferă priveliști pitorești în Fuvahmulah.",
+                  "category": "natural",
+                  "coords": [
+                        73.417754,
+                        -0.294678
+                  ]
+            },
+            {
+                  "name": "Raskuri Restaurant",
+                  "text": "Restaurantul Raskuri servește și ca punct de belvedere în Fuvahmulah.",
+                  "category": "natural",
+                  "coords": [
+                        73.42319,
+                        -0.298282
+                  ]
+            },
+            {
+                  "name": "The Spot by Ataraxis",
+                  "text": "The Spot by Ataraxis este o atracție locală în Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.414542,
+                        -0.281305
+                  ]
+            },
+            {
+                  "name": "Vasho Veyo",
+                  "text": "Vasho Veyo este o atracție în Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.432503,
+                        -0.308415
+                  ]
+            },
+            {
+                  "name": "Tours Ease Maldives",
+                  "text": "Tours Ease Maldives este o atracție din Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.427062,
+                        -0.293312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fua Mulaku Havitta",
+                  "text": "Fua Mulaku Havitta is an ancient ruined Buddhist stupa located in Fuvahmulah.",
+                  "category": "historical",
+                  "coords": [
+                        73.419022,
+                        -0.281028
+                  ]
+            },
+            {
+                  "name": "Neregando reef",
+                  "text": "Neregando reef is a natural underwater attraction situated near Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.411257,
+                        -0.293336
+                  ]
+            },
+            {
+                  "name": "Seafan",
+                  "text": "Seafan is an attraction located in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.436522,
+                        -0.300132
+                  ]
+            },
+            {
+                  "name": "Thundi",
+                  "text": "Thundi is an attraction situated in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4217,
+                        -0.280909
+                  ]
+            },
+            {
+                  "name": "Maa Neyru",
+                  "text": "Maa Neyru is an attraction in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.4205,
+                        -0.300083
+                  ]
+            },
+            {
+                  "name": "Rasgefanno",
+                  "text": "Rasgefanno is an attraction located in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.428106,
+                        -0.291211
+                  ]
+            },
+            {
+                  "name": "Tiger sharks feeding point",
+                  "text": "The Tiger sharks feeding point is a notable attraction in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.44126,
+                        -0.306573
+                  ]
+            },
+            {
+                  "name": "sunset viewpoint",
+                  "text": "The sunset viewpoint offers scenic views in Fuvahmulah.",
+                  "category": "natural",
+                  "coords": [
+                        73.417754,
+                        -0.294678
+                  ]
+            },
+            {
+                  "name": "Raskuri Restaurant",
+                  "text": "Raskuri Restaurant also serves as a viewpoint in Fuvahmulah.",
+                  "category": "natural",
+                  "coords": [
+                        73.42319,
+                        -0.298282
+                  ]
+            },
+            {
+                  "name": "The Spot by Ataraxis",
+                  "text": "The Spot by Ataraxis is a local attraction in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.414542,
+                        -0.281305
+                  ]
+            },
+            {
+                  "name": "Vasho Veyo",
+                  "text": "Vasho Veyo is an attraction situated in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.432503,
+                        -0.308415
+                  ]
+            },
+            {
+                  "name": "Tours Ease Maldives",
+                  "text": "Tours Ease Maldives is an attraction located in Fuvahmulah.",
+                  "category": "landmark",
+                  "coords": [
+                        73.427062,
+                        -0.293312
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.4243, -0.2977],
@@ -129,7 +570,88 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-kulhudhuffushi-cities-v2",
+    id: "mv-kulhudhuffushi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "Der Artificial Beach ist ein künstlich angelegter Strandbereich in Kulhudhuffushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "Dhekunu kulhi ist ein geschütztes Naturreservat in Kulhudhuffushi.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "Az Artificial Beach egy mesterséges tengerparti terület Kulhudhuffushi szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "A Dhekunu kulhi egy védett természetvédelmi terület Kulhudhuffushi térségében.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "Artificial Beach este o zonă de coastă amenajată artificial în Kulhudhuffushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "Dhekunu kulhi este o rezervație naturală protejată din Kulhudhuffushi.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Artificial Beach",
+                  "text": "The Artificial Beach is a man-made coastal area in Kulhudhuffushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.069223,
+                        6.613305
+                  ]
+            },
+            {
+                  "name": "Dhekunu kulhi",
+                  "text": "Dhekunu kulhi is a protected nature reserve located in Kulhudhuffushi.",
+                  "category": "natural",
+                  "coords": [
+                        73.070217,
+                        6.614067
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.0700, 6.6225],
@@ -261,7 +783,52 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-hinnavaru-cities-v2",
+    id: "mv-hinnavaru-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kudadoo Private Island",
+                  "text": "Kudadoo Private Island ist ein exklusives Strandresort nahe Hinnavaru.",
+                  "category": "recreational",
+                  "coords": [
+                        73.43341,
+                        5.502906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kudadoo Private Island",
+                  "text": "A Kudadoo Private Island egy exkluzív tengerparti üdülőhely Hinnavaru közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        73.43341,
+                        5.502906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kudadoo Private Island",
+                  "text": "Kudadoo Private Island este o stațiune balneară exclusivistă situată lângă Hinnavaru.",
+                  "category": "recreational",
+                  "coords": [
+                        73.43341,
+                        5.502906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kudadoo Private Island",
+                  "text": "Kudadoo Private Island is an exclusive beach resort situated near Hinnavaru.",
+                  "category": "recreational",
+                  "coords": [
+                        73.43341,
+                        5.502906
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.4116, 5.4925],
@@ -349,7 +916,124 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-eydhafushi-cities-v2",
+    id: "mv-eydhafushi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "Polla Aquarium ist ein Aquarium in Eydhafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Dolphin Beach ist ein Strand in Eydhafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083317,
+                        5.109316
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Turtle Beach ist ein Strand in Eydhafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072545,
+                        5.1161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "A Polla Akvárium egy akvárium Eydhafushi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "A Dolphin Beach egy tengerpart Eydhafushi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083317,
+                        5.109316
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "A Turtle Beach egy strand Eydhafushi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072545,
+                        5.1161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "Polla Aquarium este un acvariu situat în Eydhafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Dolphin Beach este o plajă din Eydhafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083317,
+                        5.109316
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Turtle Beach este o plajă situată în Eydhafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072545,
+                        5.1161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polla Aquarium",
+                  "text": "Polla Aquarium is an aquarium situated in Eydhafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.071295,
+                        5.101841
+                  ]
+            },
+            {
+                  "name": "Dolphin Beach",
+                  "text": "Dolphin Beach is a coastal area in Eydhafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083317,
+                        5.109316
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Turtle Beach is a beach located in Eydhafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.072545,
+                        5.1161
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.0694, 5.1039],
@@ -613,7 +1297,52 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-fonadhoo-cities-v2",
+    id: "mv-fonadhoo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsunami Binaa",
+                  "text": "Tsunami Binaa ist ein Denkmal in Fonadhoo.",
+                  "category": "historical",
+                  "coords": [
+                        73.501408,
+                        1.835209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsunami Binaa",
+                  "text": "A Tsunami Binaa egy emlékmű Fonadhoo városában.",
+                  "category": "historical",
+                  "coords": [
+                        73.501408,
+                        1.835209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsunami Binaa",
+                  "text": "Tsunami Binaa este un monument din Fonadhoo.",
+                  "category": "historical",
+                  "coords": [
+                        73.501408,
+                        1.835209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsunami Binaa",
+                  "text": "Tsunami Binaa is a monument located in Fonadhoo.",
+                  "category": "historical",
+                  "coords": [
+                        73.501408,
+                        1.835209
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.5022, 1.8339],
@@ -833,7 +1562,160 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-rasdhoo-cities-v2",
+    id: "mv-rasdhoo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "Der Banyan Tree Trail ist eine Naturattraktion auf Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "Das Kuramathi Hausriff ist eine beliebte Attraktion auf Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "Rasdhoo Madivaru Corner ist eine beliebte Attraktion auf Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach ist ein beliebter Strand auf Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992116,
+                        4.260936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "A Banyan Tree Trail egy természeti látnivaló Rasdhooban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "A Kuramathi házizátony egy népszerű látnivaló Rasdhooban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "A Rasdhoo Madivaru Corner egy népszerű látnivaló Rasdhooban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A Bikini Beach egy népszerű strand Rasdhooban.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992116,
+                        4.260936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "Banyan Tree Trail este o atracție naturală din Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "Reciful de casă Kuramathi este o atracție populară din Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "Rasdhoo Madivaru Corner este o atracție populară din Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach este o plajă populară din Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992116,
+                        4.260936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banyan Tree Trail",
+                  "text": "The Banyan Tree Trail is a nature attraction in Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.983683,
+                        4.259424
+                  ]
+            },
+            {
+                  "name": "Kuramathi house reef",
+                  "text": "The Kuramathi house reef is a popular attraction in Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.968215,
+                        4.259491
+                  ]
+            },
+            {
+                  "name": "Rasdhoo Madivaru Corner",
+                  "text": "Rasdhoo Madivaru Corner is a popular attraction in Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.999492,
+                        4.264251
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach is a popular beach in Rasdhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        72.992116,
+                        4.260936
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [72.9917, 4.2628],
@@ -877,7 +1759,88 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-felidhoo-cities-v2",
+    id: "mv-felidhoo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bikini beach",
+                  "text": "Bikini Beach ist ein Strand in Felidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.5351,
+                        3.485803
+                  ]
+            },
+            {
+                  "name": "Oshi Beach",
+                  "text": "Oshi Beach ist eine Küstenattraktion in Felidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.548808,
+                        3.471125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bikini beach",
+                  "text": "A Bikini strand egy fürdőhely Felidhoo területén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.5351,
+                        3.485803
+                  ]
+            },
+            {
+                  "name": "Oshi Beach",
+                  "text": "Az Oshi Beach egy parti látványosság Felidhoo területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.548808,
+                        3.471125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bikini beach",
+                  "text": "Bikini beach este o plajă în Felidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.5351,
+                        3.485803
+                  ]
+            },
+            {
+                  "name": "Oshi Beach",
+                  "text": "Oshi Beach este o atracție de coastă în Felidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.548808,
+                        3.471125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bikini beach",
+                  "text": "Bikini beach is a public beach in Felidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.5351,
+                        3.485803
+                  ]
+            },
+            {
+                  "name": "Oshi Beach",
+                  "text": "Oshi Beach is a coastal attraction in Felidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.548808,
+                        3.471125
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.5469, 3.4722],
@@ -1009,7 +1972,232 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-maafushi-cities-v2",
+    id: "mv-maafushi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Public beach",
+                  "text": "Der Public Beach ist ein öffentlicher Strand in Maafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493282,
+                        3.94495
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach ist ein bekannter Strand in Maafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491333,
+                        3.945464
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "Water Sports Beach ist ein Strand in Maafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490057,
+                        3.944429
+                  ]
+            },
+            {
+                  "name": "Maafushi Thila",
+                  "text": "Maafushi Thila ist eine Sehenswürdigkeit in Maafushi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "Coral Snorkling ist eine Wasserattraktion in Maafushi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933072
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank Lunch ist ein Erlebnis und eine Attraktion in Maafushi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Public beach",
+                  "text": "A Public beach egy nyilvános strand Maafushiban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493282,
+                        3.94495
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A Bikini Beach egy népszerű strand Maafushiban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491333,
+                        3.945464
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "A Water Sports Beach egy strand Maafushi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490057,
+                        3.944429
+                  ]
+            },
+            {
+                  "name": "Maafushi Thila",
+                  "text": "A Maafushi Thila egy látnivaló Maafushiban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "A Coral snorkling egy vízi látványosság Maafushi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933072
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "A Sandbank lunch egy turisztikai élmény Maafushiban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Public beach",
+                  "text": "Plaja publică este o zonă de plajă în Maafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493282,
+                        3.94495
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach este o plajă populară din Maafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491333,
+                        3.945464
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "Water Sports Beach este o plajă în Maafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490057,
+                        3.944429
+                  ]
+            },
+            {
+                  "name": "Maafushi Thila",
+                  "text": "Maafushi Thila este o atracție din Maafushi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "Snorkeling-ul printre corali este o atracție acvatică în Maafushi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933072
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Prânzul pe bancul de nisip este o atracție turistică în Maafushi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Public beach",
+                  "text": "Public beach is a designated beach area in Maafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.493282,
+                        3.94495
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach is a popular beach destination in Maafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.491333,
+                        3.945464
+                  ]
+            },
+            {
+                  "name": "Water Sports Beach",
+                  "text": "Water Sports Beach is a beach in Maafushi.",
+                  "category": "recreational",
+                  "coords": [
+                        73.490057,
+                        3.944429
+                  ]
+            },
+            {
+                  "name": "Maafushi Thila",
+                  "text": "Maafushi Thila is an attraction located in Maafushi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.493256,
+                        3.958439
+                  ]
+            },
+            {
+                  "name": "Coral snorkling",
+                  "text": "Coral snorkling is a water-based attraction in Maafushi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.472967,
+                        3.933072
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch is an experience and attraction in Maafushi.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.4897, 3.9397],
@@ -1053,7 +2241,52 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-thulusdhoo-cities-v2",
+    id: "mv-thulusdhoo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dream beach",
+                  "text": "Dream beach ist ein malerischer Sandstrand auf Thulusdhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.643638,
+                        4.374152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dream beach",
+                  "text": "A Dream beach egy festői homokos part Thulusdhoo szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        73.643638,
+                        4.374152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dream beach",
+                  "text": "Dream beach este un țărm cu nisip pitoresc situat în Thulusdhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.643638,
+                        4.374152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dream beach",
+                  "text": "Dream beach is a picturesque sandy shoreline located on Thulusdhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.643638,
+                        4.374152
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.6514, 4.3739],
@@ -1097,7 +2330,736 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
     },
   },
   {
-    id: "mv-guraidhoo-cities-v2",
+    id: "mv-guraidhoo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sihkko Beach",
+                  "text": "Sihkko Beach ist ein schöner Strand auf Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469074,
+                        3.900413
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "Chow Beach ist ein Strand auf Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465893,
+                        3.901139
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "Der Strand von Guraidhoo ist ein beliebter Küstenabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470404,
+                        3.90213
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach ist ein beliebter Strand auf Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470118,
+                        3.897307
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "Naanu Beach ist ein Strand auf Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468763,
+                        3.903558
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach ist ein Strand auf Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473134,
+                        3.901342
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "West Beach ist ein Strand auf Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472203,
+                        3.90366
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "Kandoma Corner ist eine beliebte Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "Guradoo Kuda Kandu ist eine Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "Kandoma Beru ist eine Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "Guradoo South",
+                  "text": "Guradoo South ist eine Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "Guradoo North ist eine Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "Biyadoo Kuda Giri ist eine Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "Banner Reef ist eine Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Emmadi Giri (Manta Point) ist eine bekannte Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "Guradoo South Outside ist eine Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "Cocoa Tila ist eine Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Cocoa Corner",
+                  "text": "Cocoa Corner ist eine Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "Der Guraidhoo Kanal ist eine Attraktion bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896088
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch ist ein beliebtes Erlebnis bei Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sihkko Beach",
+                  "text": "A Sihkko Beach egy szép strand Guraidhooban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469074,
+                        3.900413
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "A Chow Beach egy strand Guraidhooban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465893,
+                        3.901139
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "A Guraidhoo strand egy népszerű tengerparti szakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470404,
+                        3.90213
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A Bikini Beach egy népszerű strand Guraidhooban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470118,
+                        3.897307
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "A Naanu Beach egy strand Guraidhooban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468763,
+                        3.903558
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "A South Beach egy strand Guraidhooban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473134,
+                        3.901342
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "A West Beach egy strand Guraidhooban.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472203,
+                        3.90366
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "A Kandoma Corner egy népszerű látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "A Guradoo Kuda Kandu egy látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "A Kandoma Beru egy látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "Guradoo South",
+                  "text": "A Guradoo South egy látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "A Guradoo North egy látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "A Biyadoo Kuda Giri egy látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "A Banner Reef egy látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Az Emmadi Giri (Manta Point) egy ismert látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "A Guradoo South Outside egy látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "A Cocoa Tila egy látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Cocoa Corner",
+                  "text": "A Cocoa Corner egy látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "A Guraidhoo-csatorna egy látnivaló Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896088
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "A Sandbank lunch egy népszerű élmény Guraidhoo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sihkko Beach",
+                  "text": "Sihkko Beach este o plajă frumoasă din Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469074,
+                        3.900413
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "Chow Beach este o plajă din Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465893,
+                        3.901139
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "Plaja din Guraidhoo este o zonă de coastă populară.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470404,
+                        3.90213
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach este o plajă populară din Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470118,
+                        3.897307
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "Naanu Beach este o plajă din Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468763,
+                        3.903558
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach este o plajă din Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473134,
+                        3.901342
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "West Beach este o plajă din Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472203,
+                        3.90366
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "Kandoma Corner este o atracție populară lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "Guradoo Kuda Kandu este o atracție lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "Kandoma Beru este o atracție lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "Guradoo South",
+                  "text": "Guradoo South este o atracție lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "Guradoo North este o atracție lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "Biyadoo Kuda Giri este o atracție lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "Banner Reef este o atracție lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Emmadi Giri (Manta Point) este o atracție cunoscută lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "Guradoo South Outside este o atracție lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "Cocoa Tila este o atracție lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Cocoa Corner",
+                  "text": "Cocoa Corner este o atracție lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "Canalul Guraidhoo este o atracție lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896088
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch este o experiență populară lângă Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sihkko Beach",
+                  "text": "Sihkko Beach is a beautiful beach in Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.469074,
+                        3.900413
+                  ]
+            },
+            {
+                  "name": "Chow Beach",
+                  "text": "Chow Beach is a beach in Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.465893,
+                        3.901139
+                  ]
+            },
+            {
+                  "name": "K.Guraidhoo beach",
+                  "text": "Guraidhoo beach is a popular coastal area.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470404,
+                        3.90213
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Bikini Beach is a popular beach in Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.470118,
+                        3.897307
+                  ]
+            },
+            {
+                  "name": "Naanu Beach",
+                  "text": "Naanu Beach is a beach in Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.468763,
+                        3.903558
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "South Beach is a beach in Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.473134,
+                        3.901342
+                  ]
+            },
+            {
+                  "name": "West Beach",
+                  "text": "West Beach is a beach in Guraidhoo.",
+                  "category": "recreational",
+                  "coords": [
+                        73.472203,
+                        3.90366
+                  ]
+            },
+            {
+                  "name": "Kandoma Corner",
+                  "text": "Kandoma Corner is a popular attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.476225,
+                        3.904682
+                  ]
+            },
+            {
+                  "name": "Guradoo Kuda Kandu",
+                  "text": "Guradoo Kuda Kandu is an attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.469403,
+                        3.894661
+                  ]
+            },
+            {
+                  "name": "Kandoma Beru",
+                  "text": "Kandoma Beru is an attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.473792,
+                        3.899039
+                  ]
+            },
+            {
+                  "name": "Guradoo South",
+                  "text": "Guradoo South is an attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467287,
+                        3.889913
+                  ]
+            },
+            {
+                  "name": "Guradoo North",
+                  "text": "Guradoo North is an attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.468134,
+                        3.891865
+                  ]
+            },
+            {
+                  "name": "Biyadoo Kuda Giri",
+                  "text": "Biyadoo Kuda Giri is an attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.448786,
+                        3.906479
+                  ]
+            },
+            {
+                  "name": "Banner Reef",
+                  "text": "Banner Reef is an attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.46935,
+                        3.893078
+                  ]
+            },
+            {
+                  "name": "Emmadi Giri (Manta Point)",
+                  "text": "Emmadi Giri (Manta Point) is a known attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.456299,
+                        3.895817
+                  ]
+            },
+            {
+                  "name": "Guradoo South Outside",
+                  "text": "Guradoo South Outside is an attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.467558,
+                        3.879147
+                  ]
+            },
+            {
+                  "name": "Cocoa Tila",
+                  "text": "Cocoa Tila is an attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.478393,
+                        3.906159
+                  ]
+            },
+            {
+                  "name": "Cocoa Corner",
+                  "text": "Cocoa Corner is an attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.481063,
+                        3.909867
+                  ]
+            },
+            {
+                  "name": "Guraidhoo Channel",
+                  "text": "The Guraidhoo Channel is an attraction near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.463521,
+                        3.896088
+                  ]
+            },
+            {
+                  "name": "Sandbank lunch",
+                  "text": "Sandbank lunch is a popular experience near Guraidhoo.",
+                  "category": "landmark",
+                  "coords": [
+                        73.477286,
+                        3.921223
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MV",
     coords: [73.4678, 3.9003],

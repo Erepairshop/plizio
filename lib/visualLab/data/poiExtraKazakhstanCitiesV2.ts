@@ -41,7 +41,160 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "almaty-cities-v2",
+    id: "almaty-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Н. Сац атындағы балалар мен жасөспірімдерге арналған театр",
+                  "text": "Das Natalya-Sats-Theater ist ein bekanntes Theater für Kinder und Jugendliche in Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.867841,
+                        43.221631
+                  ]
+            },
+            {
+                  "name": "Шаровед Антошка",
+                  "text": "Sharoved Antoshka ist ein Themenpark in Almaty.",
+                  "category": "recreational",
+                  "coords": [
+                        76.838317,
+                        43.221401
+                  ]
+            },
+            {
+                  "name": "3 Арка",
+                  "text": "Der 3-Bogen-Bogen ist ein Monument in Almaty.",
+                  "category": "historical",
+                  "coords": [
+                        76.87702,
+                        43.205649
+                  ]
+            },
+            {
+                  "name": "Храм Христа Спасителя",
+                  "text": "Die Christi-Himmelfahrts-Kathedrale ist ein bedeutendes Gotteshaus in Almaty.",
+                  "category": "religious",
+                  "coords": [
+                        76.832029,
+                        43.245328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Н. Сац атындағы балалар мен жасөспірімдерге арналған театр",
+                  "text": "A Natalja Szác Színház egy neves gyermek- és ifjúsági színház Almatiban.",
+                  "category": "cultural",
+                  "coords": [
+                        76.867841,
+                        43.221631
+                  ]
+            },
+            {
+                  "name": "Шаровед Антошка",
+                  "text": "A Sharoved Antoshka egy élménypark Almatiban.",
+                  "category": "recreational",
+                  "coords": [
+                        76.838317,
+                        43.221401
+                  ]
+            },
+            {
+                  "name": "3 Арка",
+                  "text": "A 3-Ív egy emlékmű Almatiban.",
+                  "category": "historical",
+                  "coords": [
+                        76.87702,
+                        43.205649
+                  ]
+            },
+            {
+                  "name": "Храм Христа Спасителя",
+                  "text": "A Krisztus Mennybemenetele székesegyház egy fontos imaház Almatiban.",
+                  "category": "religious",
+                  "coords": [
+                        76.832029,
+                        43.245328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Н. Сац атындағы балалар мен жасөспірімдерге арналған театр",
+                  "text": "Teatrul Natalya Sats este un teatru renumit pentru copii și tineri din Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.867841,
+                        43.221631
+                  ]
+            },
+            {
+                  "name": "Шаровед Антошка",
+                  "text": "Sharoved Antoshka este un parc tematic din Almaty.",
+                  "category": "recreational",
+                  "coords": [
+                        76.838317,
+                        43.221401
+                  ]
+            },
+            {
+                  "name": "3 Арка",
+                  "text": "Arcul 3 este un monument din Almaty.",
+                  "category": "historical",
+                  "coords": [
+                        76.87702,
+                        43.205649
+                  ]
+            },
+            {
+                  "name": "Храм Христа Спасителя",
+                  "text": "Catedrala Înălțarea Domnului este un lăcaș de cult important din Almaty.",
+                  "category": "religious",
+                  "coords": [
+                        76.832029,
+                        43.245328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Н. Сац атындағы балалар мен жасөспірімдерге арналған театр",
+                  "text": "The Natalya Sats Theatre is a renowned theatre for children and youth in Almaty.",
+                  "category": "cultural",
+                  "coords": [
+                        76.867841,
+                        43.221631
+                  ]
+            },
+            {
+                  "name": "Шаровед Антошка",
+                  "text": "Sharoved Antoshka is a theme park in Almaty.",
+                  "category": "recreational",
+                  "coords": [
+                        76.838317,
+                        43.221401
+                  ]
+            },
+            {
+                  "name": "3 Арка",
+                  "text": "The 3 Arch is a monument in Almaty.",
+                  "category": "historical",
+                  "coords": [
+                        76.87702,
+                        43.205649
+                  ]
+            },
+            {
+                  "name": "Храм Христа Спасителя",
+                  "text": "The Cathedral of Christ the Savior is a major place of worship in Almaty.",
+                  "category": "religious",
+                  "coords": [
+                        76.832029,
+                        43.245328
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-75",
     coords: [76.8512, 43.2220],
@@ -85,7 +238,592 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "shymkent-cities-v2",
+    id: "shymkent-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Шымкент қамалы",
+                  "text": "Hilfort of Shymkent ist eine antike archäologische Stätte in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.594772,
+                        42.306504
+                  ]
+            },
+            {
+                  "name": "детский развлекательный центр Avatariya",
+                  "text": "детский развлекательный центр Avatariya ist ein Themenpark für Kinder in Schymkent.",
+                  "category": "recreational",
+                  "coords": [
+                        69.573787,
+                        42.32755
+                  ]
+            },
+            {
+                  "name": "Место для купания",
+                  "text": "Die Swimming area dient als lokales Strandziel in Schymkent.",
+                  "category": "recreational",
+                  "coords": [
+                        69.60535,
+                        42.305803
+                  ]
+            },
+            {
+                  "name": "Дом дружбы народов",
+                  "text": "Дом дружбы народов ist ein kultureller Veranstaltungsort in Schymkent.",
+                  "category": "cultural",
+                  "coords": [
+                        69.590276,
+                        42.317513
+                  ]
+            },
+            {
+                  "name": "Музей жертв политических репрессий",
+                  "text": "Музей жертв политических репрессий ist ein Museum für die Opfer politischer Unterdrückung in Schymkent.",
+                  "category": "museum",
+                  "coords": [
+                        69.592544,
+                        42.328871
+                  ]
+            },
+            {
+                  "name": "Филармония",
+                  "text": "Филармония ist ein bekanntes Theater und Konzerthaus in Schymkent.",
+                  "category": "cultural",
+                  "coords": [
+                        69.600771,
+                        42.312523
+                  ]
+            },
+            {
+                  "name": "Областной театр оперы и балета",
+                  "text": "Областной театр оперы и балета ist das regionale Opern- und Balletttheater in Schymkent.",
+                  "category": "cultural",
+                  "coords": [
+                        69.572679,
+                        42.319659
+                  ]
+            },
+            {
+                  "name": "Бейбітшілік сквері",
+                  "text": "Бейбітшілік сквері ist ein Erholungspark in Schymkent.",
+                  "category": "recreational",
+                  "coords": [
+                        69.582899,
+                        42.320108
+                  ]
+            },
+            {
+                  "name": "Мунайтпасов Хаджимукан",
+                  "text": "Мунайтпасов Хаджимукан ist ein Denkmal für den legendären Ringer Kazhymukan Munaitpasov in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.593562,
+                        42.333134
+                  ]
+            },
+            {
+                  "name": "Тәуелсіздік монументі",
+                  "text": "Das Independence Monument ist ein Obelisk, der die Unabhängigkeit Kasachstans in Schymkent symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        69.600249,
+                        42.309543
+                  ]
+            },
+            {
+                  "name": "Қошқар-Ата",
+                  "text": "Қошқар-Ата ist ein öffentlicher Park in Schymkent.",
+                  "category": "park",
+                  "coords": [
+                        69.606745,
+                        42.304733
+                  ]
+            },
+            {
+                  "name": "Алия Молдагулова",
+                  "text": "Алия Молдагулова ist ein Denkmal für eine bekannte historische Persönlichkeit in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.57622,
+                        42.303728
+                  ]
+            },
+            {
+                  "name": "Обелиск Ветеранам ВОВ",
+                  "text": "Обелиск Ветеранам ВОВ ist ein Denkmal zu Ehren der Veteranen des Zweiten Weltkriegs in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.591622,
+                        42.329243
+                  ]
+            },
+            {
+                  "name": "Университет «Мирас»",
+                  "text": "Университет «Мирас» ist eine Sehenswürdigkeit in Schymkent.",
+                  "category": "landmark",
+                  "coords": [
+                        69.564539,
+                        42.313804
+                  ]
+            },
+            {
+                  "name": "Мавзолей Кошкар-Ата",
+                  "text": "Мавзолей Кошкар-Ата ist ein bemerkenswertes Denkmal in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.601728,
+                        42.307519
+                  ]
+            },
+            {
+                  "name": "Авиаторам-участникам Великой Отечественной войны",
+                  "text": "Авиаторам-участникам Великой Отечественной войны zeigt ein Flugzeug zu Ehren der Flieger des Zweiten Weltkriegs in Schymkent.",
+                  "category": "landmark",
+                  "coords": [
+                        69.5874,
+                        42.330234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Шымкент қамалы",
+                  "text": "A Hilfort of Shymkent egy ősi régészeti lelőhely Shymkentben.",
+                  "category": "historical",
+                  "coords": [
+                        69.594772,
+                        42.306504
+                  ]
+            },
+            {
+                  "name": "детский развлекательный центр Avatariya",
+                  "text": "A детский развлекательный центр Avatariya egy gyermek vidámpark Shymkentben.",
+                  "category": "recreational",
+                  "coords": [
+                        69.573787,
+                        42.32755
+                  ]
+            },
+            {
+                  "name": "Место для купания",
+                  "text": "A Swimming area egy helyi strand Shymkentben.",
+                  "category": "recreational",
+                  "coords": [
+                        69.60535,
+                        42.305803
+                  ]
+            },
+            {
+                  "name": "Дом дружбы народов",
+                  "text": "A Дом дружбы народов egy kulturális színház Shymkentben.",
+                  "category": "cultural",
+                  "coords": [
+                        69.590276,
+                        42.317513
+                  ]
+            },
+            {
+                  "name": "Музей жертв политических репрессий",
+                  "text": "A Музей жертв политических репрессий a politikai elnyomás áldozatainak szentelt múzeum Shymkentben.",
+                  "category": "museum",
+                  "coords": [
+                        69.592544,
+                        42.328871
+                  ]
+            },
+            {
+                  "name": "Филармония",
+                  "text": "A Филармония egy kiemelkedő színház- és koncertterem Shymkentben.",
+                  "category": "cultural",
+                  "coords": [
+                        69.600771,
+                        42.312523
+                  ]
+            },
+            {
+                  "name": "Областной театр оперы и балета",
+                  "text": "A Областной театр оперы и балета Shymkent regionális opera- és balettszínháza.",
+                  "category": "cultural",
+                  "coords": [
+                        69.572679,
+                        42.319659
+                  ]
+            },
+            {
+                  "name": "Бейбітшілік сквері",
+                  "text": "A Бейбітшілік сквері egy rekreációs vidámpark Shymkentben.",
+                  "category": "recreational",
+                  "coords": [
+                        69.582899,
+                        42.320108
+                  ]
+            },
+            {
+                  "name": "Мунайтпасов Хаджимукан",
+                  "text": "A Мунайтпасов Хаджимукан egy emlékmű Shymkentben, amelyet a legendás birkózó, Kazhymukan Munaitpasov tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        69.593562,
+                        42.333134
+                  ]
+            },
+            {
+                  "name": "Тәуелсіздік монументі",
+                  "text": "Az Independence Monument Kazahsztán függetlenségét szimbolizáló obeliszk Shymkentben.",
+                  "category": "historical",
+                  "coords": [
+                        69.600249,
+                        42.309543
+                  ]
+            },
+            {
+                  "name": "Қошқар-Ата",
+                  "text": "A Қошқар-Ата egy nyilvános park Shymkentben.",
+                  "category": "park",
+                  "coords": [
+                        69.606745,
+                        42.304733
+                  ]
+            },
+            {
+                  "name": "Алия Молдагулова",
+                  "text": "Az Алия Молдагулова egy neves történelmi személyiségnek szentelt emlékmű Shymkentben.",
+                  "category": "historical",
+                  "coords": [
+                        69.57622,
+                        42.303728
+                  ]
+            },
+            {
+                  "name": "Обелиск Ветеранам ВОВ",
+                  "text": "Az Обелиск Ветеранам ВОВ a második világháborús veteránok előtt tisztelgő emlékmű Shymkentben.",
+                  "category": "historical",
+                  "coords": [
+                        69.591622,
+                        42.329243
+                  ]
+            },
+            {
+                  "name": "Университет «Мирас»",
+                  "text": "Az Университет «Мирас» egy érdekes hely Shymkentben.",
+                  "category": "landmark",
+                  "coords": [
+                        69.564539,
+                        42.313804
+                  ]
+            },
+            {
+                  "name": "Мавзолей Кошкар-Ата",
+                  "text": "A Мавзолей Кошкар-Ата egy jelentős emlékmű Shymkentben.",
+                  "category": "historical",
+                  "coords": [
+                        69.601728,
+                        42.307519
+                  ]
+            },
+            {
+                  "name": "Авиаторам-участникам Великой Отечественной войны",
+                  "text": "Az Авиаторам-участникам Великой Отечественной войны a második világháborús repülők előtt tisztelgő repülőgépes kiállítás Shymkentben.",
+                  "category": "landmark",
+                  "coords": [
+                        69.5874,
+                        42.330234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Шымкент қамалы",
+                  "text": "Hilfort of Shymkent este un sit arheologic antic situat în Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.594772,
+                        42.306504
+                  ]
+            },
+            {
+                  "name": "детский развлекательный центр Avatariya",
+                  "text": "детский развлекательный центр Avatariya este un parc tematic pentru copii situat în Schymkent.",
+                  "category": "recreational",
+                  "coords": [
+                        69.573787,
+                        42.32755
+                  ]
+            },
+            {
+                  "name": "Место для купания",
+                  "text": "Swimming area servește drept destinație de plajă locală în Schymkent.",
+                  "category": "recreational",
+                  "coords": [
+                        69.60535,
+                        42.305803
+                  ]
+            },
+            {
+                  "name": "Дом дружбы народов",
+                  "text": "Дом дружбы народов este un teatru cultural situat în Schymkent.",
+                  "category": "cultural",
+                  "coords": [
+                        69.590276,
+                        42.317513
+                  ]
+            },
+            {
+                  "name": "Музей жертв политических репрессий",
+                  "text": "Музей жертв политических репрессий este un muzeu dedicat victimelor represiunii politice din Schymkent.",
+                  "category": "museum",
+                  "coords": [
+                        69.592544,
+                        42.328871
+                  ]
+            },
+            {
+                  "name": "Филармония",
+                  "text": "Филармония este un teatru și o sală de concerte proeminentă din Schymkent.",
+                  "category": "cultural",
+                  "coords": [
+                        69.600771,
+                        42.312523
+                  ]
+            },
+            {
+                  "name": "Областной театр оперы и балета",
+                  "text": "Областной театр оперы и балета este teatrul regional de operă și balet din Schymkent.",
+                  "category": "cultural",
+                  "coords": [
+                        69.572679,
+                        42.319659
+                  ]
+            },
+            {
+                  "name": "Бейбітшілік сквері",
+                  "text": "Бейбітшілік сквері este un parc tematic de agrement situat în Schymkent.",
+                  "category": "recreational",
+                  "coords": [
+                        69.582899,
+                        42.320108
+                  ]
+            },
+            {
+                  "name": "Мунайтпасов Хаджимукан",
+                  "text": "Мунайтпасов Хаджимукан este un monument dedicat legendarului luptător Kazhymukan Munaitpasov în Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.593562,
+                        42.333134
+                  ]
+            },
+            {
+                  "name": "Тәуелсіздік монументі",
+                  "text": "Monumentul Independenței este un obelisc care simbolizează independența Kazahstanului în Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.600249,
+                        42.309543
+                  ]
+            },
+            {
+                  "name": "Қошқар-Ата",
+                  "text": "Қошқар-Ата este un parc public situat în Schymkent.",
+                  "category": "park",
+                  "coords": [
+                        69.606745,
+                        42.304733
+                  ]
+            },
+            {
+                  "name": "Алия Молдагулова",
+                  "text": "Алия Молдагулова este un monument dedicat renumitei figuri istorice în Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.57622,
+                        42.303728
+                  ]
+            },
+            {
+                  "name": "Обелиск Ветеранам ВОВ",
+                  "text": "Обелиск Ветеранам ВОВ este un monument care onorează veteranii celui de-al Doilea Război Mondial în Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.591622,
+                        42.329243
+                  ]
+            },
+            {
+                  "name": "Университет «Мирас»",
+                  "text": "Университет «Мирас» servește drept punct de atracție situat în Schymkent.",
+                  "category": "landmark",
+                  "coords": [
+                        69.564539,
+                        42.313804
+                  ]
+            },
+            {
+                  "name": "Мавзолей Кошкар-Ата",
+                  "text": "Мавзолей Кошкар-Ата este o structură memorială notabilă din Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.601728,
+                        42.307519
+                  ]
+            },
+            {
+                  "name": "Авиаторам-участникам Великой Отечественной войны",
+                  "text": "Авиаторам-участникам Великой Отечественной войны prezintă un avion în onoarea aviatorilor din al Doilea Război Mondial în Schymkent.",
+                  "category": "landmark",
+                  "coords": [
+                        69.5874,
+                        42.330234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hilfort of Shymkent",
+                  "text": "Hilfort of Shymkent is an ancient archaeological site situated in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.594772,
+                        42.306504
+                  ]
+            },
+            {
+                  "name": "детский развлекательный центр Avatariya",
+                  "text": "детский развлекательный центр Avatariya is a children's theme park located in Schymkent.",
+                  "category": "recreational",
+                  "coords": [
+                        69.573787,
+                        42.32755
+                  ]
+            },
+            {
+                  "name": "Swimming area",
+                  "text": "Swimming area serves as a local beach destination in Schymkent.",
+                  "category": "recreational",
+                  "coords": [
+                        69.60535,
+                        42.305803
+                  ]
+            },
+            {
+                  "name": "Дом дружбы народов",
+                  "text": "Дом дружбы народов is a cultural theatre venue located in Schymkent.",
+                  "category": "cultural",
+                  "coords": [
+                        69.590276,
+                        42.317513
+                  ]
+            },
+            {
+                  "name": "Музей жертв политических репрессий",
+                  "text": "Музей жертв политических репрессий is a museum dedicated to the victims of political repression in Schymkent.",
+                  "category": "museum",
+                  "coords": [
+                        69.592544,
+                        42.328871
+                  ]
+            },
+            {
+                  "name": "Филармония",
+                  "text": "Филармония is a prominent theatre and concert hall in Schymkent.",
+                  "category": "cultural",
+                  "coords": [
+                        69.600771,
+                        42.312523
+                  ]
+            },
+            {
+                  "name": "Областной театр оперы и балета",
+                  "text": "Областной театр оперы и балета is the regional opera and ballet theatre in Schymkent.",
+                  "category": "cultural",
+                  "coords": [
+                        69.572679,
+                        42.319659
+                  ]
+            },
+            {
+                  "name": "Бейбітшілік сквері",
+                  "text": "Бейбітшілік сквері is a recreational theme park located in Schymkent.",
+                  "category": "recreational",
+                  "coords": [
+                        69.582899,
+                        42.320108
+                  ]
+            },
+            {
+                  "name": "Мунайтпасов Хаджимукан",
+                  "text": "Мунайтпасов Хаджимукан is a monument dedicated to the legendary wrestler Kazhymukan Munaitpasov in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.593562,
+                        42.333134
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Independence Monument is an obelisk symbolizing the independence of Kazakhstan in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.600249,
+                        42.309543
+                  ]
+            },
+            {
+                  "name": "Қошқар-Ата",
+                  "text": "Қошқар-Ата is a public park located in Schymkent.",
+                  "category": "park",
+                  "coords": [
+                        69.606745,
+                        42.304733
+                  ]
+            },
+            {
+                  "name": "Алия Молдагулова",
+                  "text": "Алия Молдагулова is a monument dedicated to the renowned historical figure in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.57622,
+                        42.303728
+                  ]
+            },
+            {
+                  "name": "Обелиск Ветеранам ВОВ",
+                  "text": "Обелиск Ветеранам ВОВ is a monument honoring WWII veterans in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.591622,
+                        42.329243
+                  ]
+            },
+            {
+                  "name": "Университет «Мирас»",
+                  "text": "Университет «Мирас» serves as a point of interest located in Schymkent.",
+                  "category": "landmark",
+                  "coords": [
+                        69.564539,
+                        42.313804
+                  ]
+            },
+            {
+                  "name": "Мавзолей Кошкар-Ата",
+                  "text": "Мавзолей Кошкар-Ата is a notable memorial structure in Schymkent.",
+                  "category": "historical",
+                  "coords": [
+                        69.601728,
+                        42.307519
+                  ]
+            },
+            {
+                  "name": "Авиаторам-участникам Великой Отечественной войны",
+                  "text": "Авиаторам-участникам Великой Отечественной войны features an aircraft display honoring WWII aviators in Schymkent.",
+                  "category": "landmark",
+                  "coords": [
+                        69.5874,
+                        42.330234
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-79",
     coords: [69.5983, 42.3155],
@@ -129,7 +867,736 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "karaganda-cities-v2",
+    id: "karaganda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Шалқыма",
+                  "text": "Шалқыма ist ein Theater für verschiedene Aufführungen in der Stadt Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.081857,
+                        49.815246
+                  ]
+            },
+            {
+                  "name": "Цирк",
+                  "text": "Der Karaganda-Zirkus ist ein bekannter Unterhaltungsort und ein markantes Zirkusgebäude in Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.084266,
+                        49.799781
+                  ]
+            },
+            {
+                  "name": "Мир фантазий РЦ",
+                  "text": "Мир фантазий РЦ ist ein Vergnügungs- und Themenpark in der Stadt Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083647,
+                        49.803131
+                  ]
+            },
+            {
+                  "name": "Буратино детский театр кукол",
+                  "text": "Буратино детский театр кукол ist ein Kinderpuppentheater in Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.086423,
+                        49.810563
+                  ]
+            },
+            {
+                  "name": "Областной краеведческий музей",
+                  "text": "Das Karaganda Oblast Museum ist eine Einrichtung, die die regionale Geschichte und Kultur in Qaraghandy zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        73.090721,
+                        49.810676
+                  ]
+            },
+            {
+                  "name": "Бегемот",
+                  "text": "Бегемот ist ein Themenpark mit Unterhaltungsmöglichkeiten in der Stadt Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.100333,
+                        49.810887
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "Дельфин ist ein Wasserpark mit Wasserattraktionen in Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.101839,
+                        49.815992
+                  ]
+            },
+            {
+                  "name": "Управление культуры Карагандинской области",
+                  "text": "Управление культуры Карагандинской области ist ein Kulturverwaltungszentrum und Veranstaltungsort in Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.083893,
+                        49.809753
+                  ]
+            },
+            {
+                  "name": "Акваленд",
+                  "text": "Акваленд ist ein lokaler Wasserpark in der Stadt Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.127166,
+                        49.778679
+                  ]
+            },
+            {
+                  "name": "Театр им.Станиславского",
+                  "text": "Театр им.Станиславского ist ein Theater für dramatische Künste in der Stadt Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.093735,
+                        49.814173
+                  ]
+            },
+            {
+                  "name": "Казахский театр имени С. Сейфуллина",
+                  "text": "Казахский театр имени С. Сейфуллина ist ein kasachischsprachiges Dramatheater in Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.07986,
+                        49.81128
+                  ]
+            },
+            {
+                  "name": "ЭкоМузей",
+                  "text": "Das Ecological Museum ist ein spezialisiertes Museum in Qaraghandy, das sich der Umwelt widmet.",
+                  "category": "museum",
+                  "coords": [
+                        73.084985,
+                        49.805977
+                  ]
+            },
+            {
+                  "name": "Кеншілер даңқы монументі",
+                  "text": "Das Denkmal „Ruhm der Bergarbeiter“ ist ein bekanntes Symbol in Qaraghandy, das das Erbe des Kohlebergbaus der Stadt ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        73.082661,
+                        49.809029
+                  ]
+            },
+            {
+                  "name": "Мәңгілік алау",
+                  "text": "Die Ewige Flamme in Qaraghandy ist eine bekannte Gedenkstätte, die zu Ehren gefallener Soldaten dauerhaft brennt.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095176,
+                        49.810333
+                  ]
+            },
+            {
+                  "name": "Памятник Абаю Кунанбаеву",
+                  "text": "Das Denkmal für Abai Qunanbaiuly ist eine Statue in Qaraghandy, die dem berühmten kasachischen Dichter gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        73.08329,
+                        49.815635
+                  ]
+            },
+            {
+                  "name": "Monument to Yuri Gagarin",
+                  "text": "Das Juri-Gagarin-Denkmal ist eine Skulptur in Qaraghandy zu Ehren des ersten Kosmonauten.",
+                  "category": "historical",
+                  "coords": [
+                        73.084905,
+                        49.816116
+                  ]
+            },
+            {
+                  "name": "Колесо Обозрения",
+                  "text": "Колесо Обозрения ist ein Riesenrad, das einen Ausblick über die Stadt Qaraghandy bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078541,
+                        49.807276
+                  ]
+            },
+            {
+                  "name": "жеңіс стелласы",
+                  "text": "жеңіс стелласы ist eine Siegesstele und ein öffentliches Denkmal in Qaraghandy.",
+                  "category": "historical",
+                  "coords": [
+                        73.139285,
+                        49.78586
+                  ]
+            },
+            {
+                  "name": "«Шахтёр» футбол клубының саяжолы",
+                  "text": "Die Avenue of the Football Club „Shakhter“ ist eine monumentale Allee in Qaraghandy, die der lokalen Sportmannschaft gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        73.081153,
+                        49.805596
+                  ]
+            },
+            {
+                  "name": "Kathedrale Unserer Lieben Frau von Fatima Mutter aller Nationen",
+                  "text": "Die Kathedrale Unserer Lieben Frau von Fatima ist eine markante neugotische katholische Kathedrale in Qaraghandy.",
+                  "category": "religious",
+                  "coords": [
+                        73.134843,
+                        49.781207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Шалқыма",
+                  "text": "A Шалқыма egy színház, amely különféle előadásoknak ad otthont Qaraghandy városában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.081857,
+                        49.815246
+                  ]
+            },
+            {
+                  "name": "Цирк",
+                  "text": "A Karagandai Cirkusz egy kiemelkedő szórakoztató központ és ismert cirkuszépület Qaraghandy városában.",
+                  "category": "recreational",
+                  "coords": [
+                        73.084266,
+                        49.799781
+                  ]
+            },
+            {
+                  "name": "Мир фантазий РЦ",
+                  "text": "A Мир фантазий РЦ egy vidámpark és témapark Qaraghandy városában.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083647,
+                        49.803131
+                  ]
+            },
+            {
+                  "name": "Буратино детский театр кукол",
+                  "text": "A Буратино детский театр кукол egy gyermek bábszínház Qaraghandy városában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.086423,
+                        49.810563
+                  ]
+            },
+            {
+                  "name": "Областной краеведческий музей",
+                  "text": "A Karaganda Oblast Museum egy helyi történelmet és kultúrát bemutató múzeum Qaraghandy városában.",
+                  "category": "museum",
+                  "coords": [
+                        73.090721,
+                        49.810676
+                  ]
+            },
+            {
+                  "name": "Бегемот",
+                  "text": "A Бегемот egy szórakozási lehetőségeket kínáló témapark Qaraghandy városában.",
+                  "category": "recreational",
+                  "coords": [
+                        73.100333,
+                        49.810887
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "A Дельфин egy vízipark, amely vízi látványosságokat kínál Qaraghandy városában.",
+                  "category": "recreational",
+                  "coords": [
+                        73.101839,
+                        49.815992
+                  ]
+            },
+            {
+                  "name": "Управление культуры Карагандинской области",
+                  "text": "A Управление культуры Карагандинской области egy kulturális központ és színházi helyszín Qaraghandy városában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.083893,
+                        49.809753
+                  ]
+            },
+            {
+                  "name": "Акваленд",
+                  "text": "Az Акваленд egy helyi vízipark Qaraghandy városában.",
+                  "category": "recreational",
+                  "coords": [
+                        73.127166,
+                        49.778679
+                  ]
+            },
+            {
+                  "name": "Театр им.Станиславского",
+                  "text": "A Театр им.Станиславского egy drámai művészeteket bemutató színház Qaraghandy városában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.093735,
+                        49.814173
+                  ]
+            },
+            {
+                  "name": "Казахский театр имени С. Сейфуллина",
+                  "text": "A Казахский театр имени С. Сейфуллина egy kazah nyelvű drámai színház Qaraghandy városában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.07986,
+                        49.81128
+                  ]
+            },
+            {
+                  "name": "ЭкоМузей",
+                  "text": "Az Ecological Museum egy környezetvédelemmel foglalkozó múzeum Qaraghandy városában.",
+                  "category": "museum",
+                  "coords": [
+                        73.084985,
+                        49.805977
+                  ]
+            },
+            {
+                  "name": "Кеншілер даңқы монументі",
+                  "text": "A „Bányászok Dicsősége” emlékmű Qaraghandy híres szimbóluma, amely a város szénbányászati öröksége előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        73.082661,
+                        49.809029
+                  ]
+            },
+            {
+                  "name": "Мәңгілік алау",
+                  "text": "A qaraghandyi Örökláng egy ismert emlékmű, amely az elesett katonák tiszteletére ég.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095176,
+                        49.810333
+                  ]
+            },
+            {
+                  "name": "Памятник Абаю Кунанбаеву",
+                  "text": "Az Abai Qunanbaiuly-emlékmű a híres kazah költőnek állít emléket Qaraghandy városában.",
+                  "category": "historical",
+                  "coords": [
+                        73.08329,
+                        49.815635
+                  ]
+            },
+            {
+                  "name": "Monument to Yuri Gagarin",
+                  "text": "A Jurij Gagarin-emlékmű az úttörő űrhajósnak állít emléket Qaraghandy városában.",
+                  "category": "historical",
+                  "coords": [
+                        73.084905,
+                        49.816116
+                  ]
+            },
+            {
+                  "name": "Колесо Обозрения",
+                  "text": "A Колесо Обозрения egy óriáskerék, amely magaslati kilátást nyújt Qaraghandy városára.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078541,
+                        49.807276
+                  ]
+            },
+            {
+                  "name": "жеңіс стелласы",
+                  "text": "A жеңіс стелласы egy győzelmi sztélé és köztéri emlékmű Qaraghandy városában.",
+                  "category": "historical",
+                  "coords": [
+                        73.139285,
+                        49.78586
+                  ]
+            },
+            {
+                  "name": "«Шахтёр» футбол клубының саяжолы",
+                  "text": "Az Avenue of the Football Club „Shakhter” a helyi sportcsapatnak szentelt monumentális sétány Qaraghandy városában.",
+                  "category": "historical",
+                  "coords": [
+                        73.081153,
+                        49.805596
+                  ]
+            },
+            {
+                  "name": "Римско-католический Приход Марии Фатимской Матери Всех Народов",
+                  "text": "A Fatimai Szűzanya-katedrális egy kiemelkedő neogótikus katolikus székesegyház Qaraghandy városában.",
+                  "category": "religious",
+                  "coords": [
+                        73.134843,
+                        49.781207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Шалқыма",
+                  "text": "Шалқыма este un teatru care găzduiește diverse spectacole în orașul Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.081857,
+                        49.815246
+                  ]
+            },
+            {
+                  "name": "Цирк",
+                  "text": "Circul din Karaganda este un important loc de divertisment și o clădire notabilă în orașul Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.084266,
+                        49.799781
+                  ]
+            },
+            {
+                  "name": "Мир фантазий РЦ",
+                  "text": "Мир фантазий РЦ este un parc tematic situat în orașul Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083647,
+                        49.803131
+                  ]
+            },
+            {
+                  "name": "Буратино детский театр кукол",
+                  "text": "Буратино детский театр кукол este un teatru de păpuși pentru copii situat în Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.086423,
+                        49.810563
+                  ]
+            },
+            {
+                  "name": "Областной краеведческий музей",
+                  "text": "Muzeul Regiunii Karaganda prezintă istoria și cultura regională în orașul Qaraghandy.",
+                  "category": "museum",
+                  "coords": [
+                        73.090721,
+                        49.810676
+                  ]
+            },
+            {
+                  "name": "Бегемот",
+                  "text": "Бегемот este un parc tematic cu facilități de divertisment în orașul Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.100333,
+                        49.810887
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "Дельфин este un parc acvatic cu atracții de apă în orașul Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.101839,
+                        49.815992
+                  ]
+            },
+            {
+                  "name": "Управление культуры Карагандинской области",
+                  "text": "Управление культуры Карагандинской области este un centru de administrare culturală și teatru în Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.083893,
+                        49.809753
+                  ]
+            },
+            {
+                  "name": "Акваленд",
+                  "text": "Акваленд este un parc acvatic local situat în orașul Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.127166,
+                        49.778679
+                  ]
+            },
+            {
+                  "name": "Театр им.Станиславского",
+                  "text": "Театр им.Станиславского este un teatru care prezintă arte dramatice în Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.093735,
+                        49.814173
+                  ]
+            },
+            {
+                  "name": "Казахский театр имени С. Сейфуллина",
+                  "text": "Казахский театр имени С. Сейфуллина este un teatru dramatic în limba kazahă situat în Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.07986,
+                        49.81128
+                  ]
+            },
+            {
+                  "name": "ЭкоМузей",
+                  "text": "Ecological Museum este un muzeu specializat din Qaraghandy dedicat mediului.",
+                  "category": "museum",
+                  "coords": [
+                        73.084985,
+                        49.805977
+                  ]
+            },
+            {
+                  "name": "Кеншілер даңқы монументі",
+                  "text": "Monumentul „Gloria Minerilor” este un simbol faimos din Qaraghandy care onorează patrimoniul minier al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        73.082661,
+                        49.809029
+                  ]
+            },
+            {
+                  "name": "Мәңгілік алау",
+                  "text": "Flacăra Eternă din Qaraghandy este un memorial notabil care arde continuu în onoarea soldaților căzuți.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095176,
+                        49.810333
+                  ]
+            },
+            {
+                  "name": "Памятник Абаю Кунанбаеву",
+                  "text": "Monumentul lui Abai Qunanbaiuly este o statuie din Qaraghandy dedicată celebrului poet kazah.",
+                  "category": "historical",
+                  "coords": [
+                        73.08329,
+                        49.815635
+                  ]
+            },
+            {
+                  "name": "Monument to Yuri Gagarin",
+                  "text": "Monumentul lui Iuri Gagarin este o sculptură memorială din Qaraghandy dedicată primului cosmonaut.",
+                  "category": "historical",
+                  "coords": [
+                        73.084905,
+                        49.816116
+                  ]
+            },
+            {
+                  "name": "Колесо Обозрения",
+                  "text": "Колесо Обозрения este o roată panoramică ce oferă priveliști aeriene asupra orașului Qaraghandy.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078541,
+                        49.807276
+                  ]
+            },
+            {
+                  "name": "жеңіс стелласы",
+                  "text": "жеңіс стелласы este o stelă a victoriei ridicată ca monument public în Qaraghandy.",
+                  "category": "historical",
+                  "coords": [
+                        73.139285,
+                        49.78586
+                  ]
+            },
+            {
+                  "name": "«Шахтёр» футбол клубының саяжолы",
+                  "text": "Avenue of the Football Club „Shakhter” este o alee monumentală din Qaraghandy dedicată echipei sportive locale.",
+                  "category": "historical",
+                  "coords": [
+                        73.081153,
+                        49.805596
+                  ]
+            },
+            {
+                  "name": "Римско-католический Приход Марии Фатимской Матери Всех Народов",
+                  "text": "Catedrala Maicii Domnului de la Fatima este o proeminentă catedrală catolică neogotică situată în Qaraghandy.",
+                  "category": "religious",
+                  "coords": [
+                        73.134843,
+                        49.781207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Шалқыма",
+                  "text": "Шалқыма is a theatre hosting various performances in the city of Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.081857,
+                        49.815246
+                  ]
+            },
+            {
+                  "name": "Цирк",
+                  "text": "The Karaganda Circus is a prominent entertainment venue and iconic circus building in Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.084266,
+                        49.799781
+                  ]
+            },
+            {
+                  "name": "Мир фантазий РЦ",
+                  "text": "Мир фантазий РЦ is an amusement and theme park located in Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.083647,
+                        49.803131
+                  ]
+            },
+            {
+                  "name": "Буратино детский театр кукол",
+                  "text": "Буратино детский театр кукол is a children's puppet theatre located in Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.086423,
+                        49.810563
+                  ]
+            },
+            {
+                  "name": "Karaganda Oblast Museum",
+                  "text": "The Karaganda Oblast Museum is an institution showcasing regional history and culture in Qaraghandy.",
+                  "category": "museum",
+                  "coords": [
+                        73.090721,
+                        49.810676
+                  ]
+            },
+            {
+                  "name": "Бегемот",
+                  "text": "Бегемот is a theme park offering entertainment facilities in Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.100333,
+                        49.810887
+                  ]
+            },
+            {
+                  "name": "Дельфин",
+                  "text": "Дельфин is a water park featuring aquatic attractions in Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.101839,
+                        49.815992
+                  ]
+            },
+            {
+                  "name": "Управление культуры Карагандинской области",
+                  "text": "Управление культуры Карагандинской области is a cultural administration center and theatrical venue in Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.083893,
+                        49.809753
+                  ]
+            },
+            {
+                  "name": "Акваленд",
+                  "text": "Акваленд is a local water park located in the city of Qaraghandy.",
+                  "category": "recreational",
+                  "coords": [
+                        73.127166,
+                        49.778679
+                  ]
+            },
+            {
+                  "name": "Театр им.Станиславского",
+                  "text": "Театр им.Станиславского is a distinguished theatre performing dramatic arts in Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.093735,
+                        49.814173
+                  ]
+            },
+            {
+                  "name": "Казахский театр имени С. Сейфуллина",
+                  "text": "Казахский театр имени С. Сейфуллина is a Kazakh language drama theatre located in Qaraghandy.",
+                  "category": "cultural",
+                  "coords": [
+                        73.07986,
+                        49.81128
+                  ]
+            },
+            {
+                  "name": "Ecological Museum",
+                  "text": "The Ecological Museum is a specialized museum in Qaraghandy dedicated to environmental history and preservation.",
+                  "category": "museum",
+                  "coords": [
+                        73.084985,
+                        49.805977
+                  ]
+            },
+            {
+                  "name": "\"Miners' Glory\" Monument",
+                  "text": "The \"Miners' Glory\" Monument is a famous symbol in Qaraghandy honoring the city's coal mining heritage.",
+                  "category": "historical",
+                  "coords": [
+                        73.082661,
+                        49.809029
+                  ]
+            },
+            {
+                  "name": "Eternal flame",
+                  "text": "The Eternal Flame in Qaraghandy is a notable memorial continuously burning to honor fallen soldiers.",
+                  "category": "landmark",
+                  "coords": [
+                        73.095176,
+                        49.810333
+                  ]
+            },
+            {
+                  "name": "Monument to Abai Qunanbaiuly",
+                  "text": "The Monument to Abai Qunanbaiuly is a statue dedicated to the famous Kazakh poet and philosopher in Qaraghandy.",
+                  "category": "historical",
+                  "coords": [
+                        73.08329,
+                        49.815635
+                  ]
+            },
+            {
+                  "name": "Monument to Yuri Gagarin",
+                  "text": "The Monument to Yuri Gagarin is a memorial sculpture honoring the pioneering cosmonaut in Qaraghandy.",
+                  "category": "historical",
+                  "coords": [
+                        73.084905,
+                        49.816116
+                  ]
+            },
+            {
+                  "name": "Колесо Обозрения",
+                  "text": "Колесо Обозрения is a Ferris wheel providing aerial views of Qaraghandy.",
+                  "category": "landmark",
+                  "coords": [
+                        73.078541,
+                        49.807276
+                  ]
+            },
+            {
+                  "name": "жеңіс стелласы",
+                  "text": "жеңіс стелласы is a victory stele erected as a public monument in Qaraghandy.",
+                  "category": "historical",
+                  "coords": [
+                        73.139285,
+                        49.78586
+                  ]
+            },
+            {
+                  "name": "Avenue of the Football Club \"Shakhter\"",
+                  "text": "The Avenue of the Football Club \"Shakhter\" is a monumental walkway dedicated to the local sports team in Qaraghandy.",
+                  "category": "historical",
+                  "coords": [
+                        73.081153,
+                        49.805596
+                  ]
+            },
+            {
+                  "name": "Cathedral of Our Lady of Fatima",
+                  "text": "The Cathedral of Our Lady of Fatima is a prominent neo-Gothic Catholic cathedral located in Qaraghandy.",
+                  "category": "religious",
+                  "coords": [
+                        73.134843,
+                        49.781207
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-35",
     coords: [73.1111, 49.8018],
@@ -173,7 +1640,772 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "aktobe-cities-v2",
+    id: "aktobe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Өнер музейі",
+                  "text": "Ein Kunstmuseum in Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.171246,
+                        50.287586
+                  ]
+            },
+            {
+                  "name": "Әлия музейі",
+                  "text": "Das Aliya-Museum ist ein Museum in Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.158085,
+                        50.288621
+                  ]
+            },
+            {
+                  "name": "Руханият",
+                  "text": "Rukhaniyat ist ein Museum in Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.188901,
+                        50.281828
+                  ]
+            },
+            {
+                  "name": "Happylon",
+                  "text": "Happylon ist ein Themenpark in Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.193521,
+                        50.289456
+                  ]
+            },
+            {
+                  "name": "Этноаул",
+                  "text": "Etnoaul ist ein ethnografisches Museum in Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.189399,
+                        50.297318
+                  ]
+            },
+            {
+                  "name": "Медуза парк",
+                  "text": "Medusa Park ist ein Wasserpark in Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.192828,
+                        50.296198
+                  ]
+            },
+            {
+                  "name": "Капитан Бриг",
+                  "text": "Kapitan Brig ist ein Themenpark in Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.187741,
+                        50.285287
+                  ]
+            },
+            {
+                  "name": "Әскери техникалар мұражайы",
+                  "text": "Ein Museum für Militärtechnik in Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.148254,
+                        50.284308
+                  ]
+            },
+            {
+                  "name": "Yurta парк",
+                  "text": "Yurta Park ist ein Themenpark in Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.190883,
+                        50.296924
+                  ]
+            },
+            {
+                  "name": "Ақтөбе облыстық тарихи-өлкетану мұражайы",
+                  "text": "Das Historische Regionalmuseum von Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.139982,
+                        50.276785
+                  ]
+            },
+            {
+                  "name": "Tree of Life",
+                  "text": "Tree of Life ist ein Wasserpark in Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.190253,
+                        50.285323
+                  ]
+            },
+            {
+                  "name": "Өнер орталығы",
+                  "text": "Ein Kunstzentrum in Aqtöbe.",
+                  "category": "cultural",
+                  "coords": [
+                        57.182997,
+                        50.284038
+                  ]
+            },
+            {
+                  "name": "Қазақстан Республикасының Тұңғыш Президенті атындағы саябақ",
+                  "text": "Der Park des ersten Präsidenten von Kasachstan ist eine große Parkanlage in Aqtöbe.",
+                  "category": "park",
+                  "coords": [
+                        57.186587,
+                        50.287662
+                  ]
+            },
+            {
+                  "name": "Бірлік және Келісім сулы-жасыл бульвары",
+                  "text": "Der Boulevard der Einheit und Eintracht ist eine Grünanlage in Aqtöbe.",
+                  "category": "park",
+                  "coords": [
+                        57.19167,
+                        50.284299
+                  ]
+            },
+            {
+                  "name": "Қан мен тер",
+                  "text": "Denkmal in Aqtöbe.",
+                  "category": "historical",
+                  "coords": [
+                        57.161131,
+                        50.302354
+                  ]
+            },
+            {
+                  "name": "Музыкалық субұрқақ",
+                  "text": "Attraktion in Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.188673,
+                        50.286635
+                  ]
+            },
+            {
+                  "name": "Арка",
+                  "text": "Attraktion in Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.190596,
+                        50.283583
+                  ]
+            },
+            {
+                  "name": "МиГ-21",
+                  "text": "Historisches Flugzeug in Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.149212,
+                        50.284886
+                  ]
+            },
+            {
+                  "name": "Як-50",
+                  "text": "Historisches Flugzeug in Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.150755,
+                        50.286441
+                  ]
+            },
+            {
+                  "name": "Нұрдәулет",
+                  "text": "Moschee in Aqtöbe.",
+                  "category": "religious",
+                  "coords": [
+                        57.155602,
+                        50.296111
+                  ]
+            },
+            {
+                  "name": "Қасиетті Николай кафедралды соборы",
+                  "text": "Kathedrale in Aqtöbe.",
+                  "category": "religious",
+                  "coords": [
+                        57.192287,
+                        50.287013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Өнер музейі",
+                  "text": "Művészeti múzeum Aqtöbében.",
+                  "category": "museum",
+                  "coords": [
+                        57.171246,
+                        50.287586
+                  ]
+            },
+            {
+                  "name": "Әлия музейі",
+                  "text": "Az Aliya Múzeum egy múzeum Aqtöbében.",
+                  "category": "museum",
+                  "coords": [
+                        57.158085,
+                        50.288621
+                  ]
+            },
+            {
+                  "name": "Руханият",
+                  "text": "A Rukhaniyat egy múzeum Aqtöbében.",
+                  "category": "museum",
+                  "coords": [
+                        57.188901,
+                        50.281828
+                  ]
+            },
+            {
+                  "name": "Happylon",
+                  "text": "A Happylon egy élménypark Aqtöbében.",
+                  "category": "recreational",
+                  "coords": [
+                        57.193521,
+                        50.289456
+                  ]
+            },
+            {
+                  "name": "Этноаул",
+                  "text": "Az Etnoaul egy néprajzi múzeum Aqtöbében.",
+                  "category": "museum",
+                  "coords": [
+                        57.189399,
+                        50.297318
+                  ]
+            },
+            {
+                  "name": "Медуза парк",
+                  "text": "A Medusa Park egy vízi vidámpark Aqtöbében.",
+                  "category": "recreational",
+                  "coords": [
+                        57.192828,
+                        50.296198
+                  ]
+            },
+            {
+                  "name": "Капитан Бриг",
+                  "text": "A Kapitan Brig egy élménypark Aqtöbében.",
+                  "category": "recreational",
+                  "coords": [
+                        57.187741,
+                        50.285287
+                  ]
+            },
+            {
+                  "name": "Әскери техникалар мұражайы",
+                  "text": "Hadtörténeti múzeum Aqtöbében.",
+                  "category": "museum",
+                  "coords": [
+                        57.148254,
+                        50.284308
+                  ]
+            },
+            {
+                  "name": "Yurta парк",
+                  "text": "A Yurta Park egy élménypark Aqtöbében.",
+                  "category": "recreational",
+                  "coords": [
+                        57.190883,
+                        50.296924
+                  ]
+            },
+            {
+                  "name": "Ақтөбе облыстық тарихи-өлкетану мұражайы",
+                  "text": "Az Aqtöbei Regionális Történeti Múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        57.139982,
+                        50.276785
+                  ]
+            },
+            {
+                  "name": "Tree of Life",
+                  "text": "A Tree of Life egy vízi vidámpark Aqtöbében.",
+                  "category": "recreational",
+                  "coords": [
+                        57.190253,
+                        50.285323
+                  ]
+            },
+            {
+                  "name": "Өнер орталығы",
+                  "text": "Művészeti központ Aqtöbében.",
+                  "category": "cultural",
+                  "coords": [
+                        57.182997,
+                        50.284038
+                  ]
+            },
+            {
+                  "name": "Қазақстан Республикасының Тұңғыш Президенті атындағы саябақ",
+                  "text": "A Kazahsztán Első Elnökének parkja egy nagy park Aqtöbében.",
+                  "category": "park",
+                  "coords": [
+                        57.186587,
+                        50.287662
+                  ]
+            },
+            {
+                  "name": "Бірлік және Келісім сулы-жасыл бульвары",
+                  "text": "Az Egység és Egyetértés sétány egy zöldövezet Aqtöbében.",
+                  "category": "park",
+                  "coords": [
+                        57.19167,
+                        50.284299
+                  ]
+            },
+            {
+                  "name": "Қан мен тер",
+                  "text": "Emlékmű Aqtöbe városában.",
+                  "category": "historical",
+                  "coords": [
+                        57.161131,
+                        50.302354
+                  ]
+            },
+            {
+                  "name": "Музыкалық субұрқақ",
+                  "text": "Látványosság Aqtöbében.",
+                  "category": "landmark",
+                  "coords": [
+                        57.188673,
+                        50.286635
+                  ]
+            },
+            {
+                  "name": "Арка",
+                  "text": "Látványosság Aqtöbében.",
+                  "category": "landmark",
+                  "coords": [
+                        57.190596,
+                        50.283583
+                  ]
+            },
+            {
+                  "name": "МиГ-21",
+                  "text": "Történelmi repülőgép Aqtöbében.",
+                  "category": "landmark",
+                  "coords": [
+                        57.149212,
+                        50.284886
+                  ]
+            },
+            {
+                  "name": "Як-50",
+                  "text": "Történelmi repülőgép Aqtöbében.",
+                  "category": "landmark",
+                  "coords": [
+                        57.150755,
+                        50.286441
+                  ]
+            },
+            {
+                  "name": "Нұрдәулет",
+                  "text": "Mecset Aqtöbében.",
+                  "category": "religious",
+                  "coords": [
+                        57.155602,
+                        50.296111
+                  ]
+            },
+            {
+                  "name": "Қасиетті Николай кафедралды соборы",
+                  "text": "Székesegyház Aqtöbében.",
+                  "category": "religious",
+                  "coords": [
+                        57.192287,
+                        50.287013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Өнер музейі",
+                  "text": "Un muzeu de artă din Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.171246,
+                        50.287586
+                  ]
+            },
+            {
+                  "name": "Әлия музейі",
+                  "text": "Muzeul Aliya este un muzeu din Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.158085,
+                        50.288621
+                  ]
+            },
+            {
+                  "name": "Руханият",
+                  "text": "Rukhaniyat este un muzeu din Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.188901,
+                        50.281828
+                  ]
+            },
+            {
+                  "name": "Happylon",
+                  "text": "Happylon este un parc tematic din Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.193521,
+                        50.289456
+                  ]
+            },
+            {
+                  "name": "Этноаул",
+                  "text": "Etnoaul este un muzeu etnografic din Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.189399,
+                        50.297318
+                  ]
+            },
+            {
+                  "name": "Медуза парк",
+                  "text": "Medusa Park este un parc acvatic din Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.192828,
+                        50.296198
+                  ]
+            },
+            {
+                  "name": "Капитан Бриг",
+                  "text": "Kapitan Brig este un parc tematic din Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.187741,
+                        50.285287
+                  ]
+            },
+            {
+                  "name": "Әскери техникалар мұражайы",
+                  "text": "Un muzeu de tehnică militară din Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.148254,
+                        50.284308
+                  ]
+            },
+            {
+                  "name": "Yurta парк",
+                  "text": "Yurta Park este un parc tematic din Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.190883,
+                        50.296924
+                  ]
+            },
+            {
+                  "name": "Ақтөбе облыстық тарихи-өлкетану мұражайы",
+                  "text": "Muzeul Regional de Istorie din Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.139982,
+                        50.276785
+                  ]
+            },
+            {
+                  "name": "Tree of Life",
+                  "text": "Tree of Life este un parc acvatic din Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.190253,
+                        50.285323
+                  ]
+            },
+            {
+                  "name": "Өнер орталығы",
+                  "text": "Un centru de artă din Aqtöbe.",
+                  "category": "cultural",
+                  "coords": [
+                        57.182997,
+                        50.284038
+                  ]
+            },
+            {
+                  "name": "Қазақстан Республикасының Тұңғыш Президенті атындағы саябақ",
+                  "text": "Parcul Primului Președinte al Kazahstanului este o zonă verde mare din Aqtöbe.",
+                  "category": "park",
+                  "coords": [
+                        57.186587,
+                        50.287662
+                  ]
+            },
+            {
+                  "name": "Бірлік және Келісім сулы-жасыл бульвары",
+                  "text": "Bulevardul Unității și Concordiei este o zonă verde în Aqtöbe.",
+                  "category": "park",
+                  "coords": [
+                        57.19167,
+                        50.284299
+                  ]
+            },
+            {
+                  "name": "Қан мен тер",
+                  "text": "Monument în Aqtöbe.",
+                  "category": "historical",
+                  "coords": [
+                        57.161131,
+                        50.302354
+                  ]
+            },
+            {
+                  "name": "Музыкалық субұрқақ",
+                  "text": "Atracție în Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.188673,
+                        50.286635
+                  ]
+            },
+            {
+                  "name": "Арка",
+                  "text": "Atracție în Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.190596,
+                        50.283583
+                  ]
+            },
+            {
+                  "name": "МиГ-21",
+                  "text": "Aeronavă istorică în Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.149212,
+                        50.284886
+                  ]
+            },
+            {
+                  "name": "Як-50",
+                  "text": "Aeronavă istorică în Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.150755,
+                        50.286441
+                  ]
+            },
+            {
+                  "name": "Нұрдәулет",
+                  "text": "Moschee în Aqtöbe.",
+                  "category": "religious",
+                  "coords": [
+                        57.155602,
+                        50.296111
+                  ]
+            },
+            {
+                  "name": "Қасиетті Николай кафедралды соборы",
+                  "text": "Catedrală în Aqtöbe.",
+                  "category": "religious",
+                  "coords": [
+                        57.192287,
+                        50.287013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Өнер музейі",
+                  "text": "An art museum in Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.171246,
+                        50.287586
+                  ]
+            },
+            {
+                  "name": "Әлия музейі",
+                  "text": "The Aliya Museum is a museum in Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.158085,
+                        50.288621
+                  ]
+            },
+            {
+                  "name": "Руханият",
+                  "text": "Rukhaniyat is a museum in Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.188901,
+                        50.281828
+                  ]
+            },
+            {
+                  "name": "Happylon",
+                  "text": "Happylon is a theme park in Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.193521,
+                        50.289456
+                  ]
+            },
+            {
+                  "name": "Этноаул",
+                  "text": "Etnoaul is an ethnographic museum in Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.189399,
+                        50.297318
+                  ]
+            },
+            {
+                  "name": "Медуза парк",
+                  "text": "Medusa Park is a water park in Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.192828,
+                        50.296198
+                  ]
+            },
+            {
+                  "name": "Капитан Бриг",
+                  "text": "Kapitan Brig is a theme park in Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.187741,
+                        50.285287
+                  ]
+            },
+            {
+                  "name": "Әскери техникалар мұражайы",
+                  "text": "A museum of military equipment in Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.148254,
+                        50.284308
+                  ]
+            },
+            {
+                  "name": "Yurta парк",
+                  "text": "Yurta Park is a theme park in Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.190883,
+                        50.296924
+                  ]
+            },
+            {
+                  "name": "Ақтөбе облыстық тарихи-өлкетану мұражайы",
+                  "text": "The Regional Historical Museum of Aqtöbe.",
+                  "category": "museum",
+                  "coords": [
+                        57.139982,
+                        50.276785
+                  ]
+            },
+            {
+                  "name": "Tree of Life",
+                  "text": "Tree of Life is a water park in Aqtöbe.",
+                  "category": "recreational",
+                  "coords": [
+                        57.190253,
+                        50.285323
+                  ]
+            },
+            {
+                  "name": "Өнер орталығы",
+                  "text": "An arts centre in Aqtöbe.",
+                  "category": "cultural",
+                  "coords": [
+                        57.182997,
+                        50.284038
+                  ]
+            },
+            {
+                  "name": "Қазақстан Республикасының Тұңғыш Президенті атындағы саябақ",
+                  "text": "The First President of Kazakhstan Park is a large park in Aqtöbe.",
+                  "category": "park",
+                  "coords": [
+                        57.186587,
+                        50.287662
+                  ]
+            },
+            {
+                  "name": "Бірлік және Келісім сулы-жасыл бульвары",
+                  "text": "The Boulevard of Unity and Concord is a green space in Aqtöbe.",
+                  "category": "park",
+                  "coords": [
+                        57.19167,
+                        50.284299
+                  ]
+            },
+            {
+                  "name": "Қан мен тер",
+                  "text": "Monument in Aqtöbe.",
+                  "category": "historical",
+                  "coords": [
+                        57.161131,
+                        50.302354
+                  ]
+            },
+            {
+                  "name": "Музыкалық субұрқақ",
+                  "text": "Attraction in Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.188673,
+                        50.286635
+                  ]
+            },
+            {
+                  "name": "Арка",
+                  "text": "Attraction in Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.190596,
+                        50.283583
+                  ]
+            },
+            {
+                  "name": "Mikoyan-Gurevich MiG-21",
+                  "text": "Historic aircraft in Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.149212,
+                        50.284886
+                  ]
+            },
+            {
+                  "name": "Yakovlev Yak-50",
+                  "text": "Historic aircraft in Aqtöbe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.150755,
+                        50.286441
+                  ]
+            },
+            {
+                  "name": "Nurdaulet",
+                  "text": "Mosque in Aqtöbe.",
+                  "category": "religious",
+                  "coords": [
+                        57.155602,
+                        50.296111
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas Cathedral",
+                  "text": "Cathedral in Aqtöbe.",
+                  "category": "religious",
+                  "coords": [
+                        57.192287,
+                        50.287013
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-15",
     coords: [57.1669, 50.2839],
@@ -217,7 +2449,448 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "taraz-cities-v2",
+    id: "taraz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Кастеев",
+                  "text": "Кастеев ist ein Museum für Kunst und Geschichte in Tarasan.",
+                  "category": "museum",
+                  "coords": [
+                        71.363411,
+                        42.902608
+                  ]
+            },
+            {
+                  "name": "Дом-музей К. И. Скрябина",
+                  "text": "Дом-музей К. И. Скрябина ist ein Hausmuseum, das K. I. Skrjabin in Tarasan gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        71.386693,
+                        42.907135
+                  ]
+            },
+            {
+                  "name": "Вотервиль",
+                  "text": "Вотервиль ist ein Wasserpark in Tarasan.",
+                  "category": "recreational",
+                  "coords": [
+                        71.359688,
+                        42.880402
+                  ]
+            },
+            {
+                  "name": "Баласағұн",
+                  "text": "Баласағұн ist ein Theater für kulturelle Aufführungen in Tarasan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.351191,
+                        42.900034
+                  ]
+            },
+            {
+                  "name": "Тараз қаласы әкімдігінің кәсіпкерлік, өнеркәсіп және туризм бөлімі",
+                  "text": "Тараз қаласы әкімдігінің кәсіпкерлік, өнеркәсіп және туризм бөлімі fungiert als institutionelles Museum in Tarasan.",
+                  "category": "museum",
+                  "coords": [
+                        71.376067,
+                        42.900798
+                  ]
+            },
+            {
+                  "name": "Драма театры",
+                  "text": "Das Drama theater ist ein lokaler Veranstaltungsort für darstellende Künste in Tarasan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.379745,
+                        42.901492
+                  ]
+            },
+            {
+                  "name": "сцена",
+                  "text": "сцена ist eine Theaterbühne für Aufführungen in Tarasan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.341977,
+                        42.900263
+                  ]
+            },
+            {
+                  "name": "Көне Тараз",
+                  "text": "Ancient Settlement Taraz ist eine bedeutende historische Attraktion in Tarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.395255,
+                        42.897524
+                  ]
+            },
+            {
+                  "name": "Көне Тараз қалашығы",
+                  "text": "Көне Тараз қалашығы ist eine Attraktion, die die Geschichte der antiken Stadt in Tarasan zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        71.395313,
+                        42.896584
+                  ]
+            },
+            {
+                  "name": "I love Taraz",
+                  "text": "I love Taraz ist ein beliebtes Wahrzeichen und Fotomotiv in Tarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.339893,
+                        42.901372
+                  ]
+            },
+            {
+                  "name": "Часовая башня",
+                  "text": "Часовая башня ist ein markanter Uhrturm in Tarasan.",
+                  "category": "historical",
+                  "coords": [
+                        71.392691,
+                        42.899651
+                  ]
+            },
+            {
+                  "name": "Собор Успения Божией Матери",
+                  "text": "Die Mariä-Entschlafens-Kathedrale ist ein bedeutendes Gotteshaus in Tarasan. Sie dient als wichtiges religiöses Zentrum der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        71.357992,
+                        42.900144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Кастеев",
+                  "text": "A Кастеев egy művészeti és történelmi múzeum Tarasanban.",
+                  "category": "museum",
+                  "coords": [
+                        71.363411,
+                        42.902608
+                  ]
+            },
+            {
+                  "name": "Дом-музей К. И. Скрябина",
+                  "text": "A Дом-музей К. И. Скрябина egy K. I. Szkrjabinnek szentelt emlékház Tarasanban.",
+                  "category": "museum",
+                  "coords": [
+                        71.386693,
+                        42.907135
+                  ]
+            },
+            {
+                  "name": "Вотервиль",
+                  "text": "A Вотервиль egy vízipark Tarasanban.",
+                  "category": "recreational",
+                  "coords": [
+                        71.359688,
+                        42.880402
+                  ]
+            },
+            {
+                  "name": "Баласағұн",
+                  "text": "A Баласағұн egy kulturális előadásoknak otthont adó színház Tarasanban.",
+                  "category": "cultural",
+                  "coords": [
+                        71.351191,
+                        42.900034
+                  ]
+            },
+            {
+                  "name": "Тараз қаласы әкімдігінің кәсіпкерлік, өнеркәсіп және туризм бөлімі",
+                  "text": "A Тараз қаласы әкімдігінің кәсіпкерлік, өнеркәсіп және туризм бөлімі intézményi múzeumként működik Tarasanban.",
+                  "category": "museum",
+                  "coords": [
+                        71.376067,
+                        42.900798
+                  ]
+            },
+            {
+                  "name": "Драма театры",
+                  "text": "A Drama theater egy helyi előadóművészeti helyszín Tarasanban.",
+                  "category": "cultural",
+                  "coords": [
+                        71.379745,
+                        42.901492
+                  ]
+            },
+            {
+                  "name": "сцена",
+                  "text": "A сцена egy színházi színpad Tarasanban.",
+                  "category": "cultural",
+                  "coords": [
+                        71.341977,
+                        42.900263
+                  ]
+            },
+            {
+                  "name": "Көне Тараз",
+                  "text": "Az Ancient Settlement Taraz egy jelentős történelmi látványosság Tarasanban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.395255,
+                        42.897524
+                  ]
+            },
+            {
+                  "name": "Көне Тараз қалашығы",
+                  "text": "A Көне Тараз қалашығы az ősi város történelmét bemutató látványosság Tarasanban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.395313,
+                        42.896584
+                  ]
+            },
+            {
+                  "name": "I love Taraz",
+                  "text": "Az I love Taraz egy népszerű nevezetesség és fotóhely Tarasanban.",
+                  "category": "landmark",
+                  "coords": [
+                        71.339893,
+                        42.901372
+                  ]
+            },
+            {
+                  "name": "Часовая башня",
+                  "text": "A Часовая башня egy kiemelkedő óratorony emlékmű Tarasanban.",
+                  "category": "historical",
+                  "coords": [
+                        71.392691,
+                        42.899651
+                  ]
+            },
+            {
+                  "name": "Собор Успения Божией Матери",
+                  "text": "Az Istenanya elszenderedése székesegyház egy jelentős istentiszteleti hely Tarasanban. A város fontos vallási központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        71.357992,
+                        42.900144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Кастеев",
+                  "text": "Кастеев este un muzeu care prezintă artă și istorie în Tarasan.",
+                  "category": "museum",
+                  "coords": [
+                        71.363411,
+                        42.902608
+                  ]
+            },
+            {
+                  "name": "Дом-музей К. И. Скрябина",
+                  "text": "Дом-музей К. И. Скрябина este o casă memorială dedicată lui K. I. Skryabin în Tarasan.",
+                  "category": "museum",
+                  "coords": [
+                        71.386693,
+                        42.907135
+                  ]
+            },
+            {
+                  "name": "Вотервиль",
+                  "text": "Вотервиль este un parc acvatic situat în Tarasan.",
+                  "category": "recreational",
+                  "coords": [
+                        71.359688,
+                        42.880402
+                  ]
+            },
+            {
+                  "name": "Баласағұн",
+                  "text": "Баласағұн este un teatru care oferă spectacole culturale în Tarasan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.351191,
+                        42.900034
+                  ]
+            },
+            {
+                  "name": "Тараз қаласы әкімдігінің кәсіпкерлік, өнеркәсіп және туризм бөлімі",
+                  "text": "Тараз қаласы әкімдігінің кәсіпкерлік, өнеркәсіп және туризм бөлімі funcționează ca muzeu instituțional în Tarasan.",
+                  "category": "museum",
+                  "coords": [
+                        71.376067,
+                        42.900798
+                  ]
+            },
+            {
+                  "name": "Драма театры",
+                  "text": "Drama theater este un loc local pentru artele spectacolului în Tarasan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.379745,
+                        42.901492
+                  ]
+            },
+            {
+                  "name": "сцена",
+                  "text": "сцена este o scenă de teatru pentru spectacole în Tarasan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.341977,
+                        42.900263
+                  ]
+            },
+            {
+                  "name": "Көне Тараз",
+                  "text": "Ancient Settlement Taraz este o atracție istorică semnificativă din Tarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.395255,
+                        42.897524
+                  ]
+            },
+            {
+                  "name": "Көне Тараз қалашығы",
+                  "text": "Көне Тараз қалашығы este o atracție care prezintă istoria orașului antic din Tarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.395313,
+                        42.896584
+                  ]
+            },
+            {
+                  "name": "I love Taraz",
+                  "text": "I love Taraz este un reper popular și un loc pentru fotografii în Tarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.339893,
+                        42.901372
+                  ]
+            },
+            {
+                  "name": "Часовая башня",
+                  "text": "Часовая башня este un monument proeminent cu turn cu ceas situat în Tarasan.",
+                  "category": "historical",
+                  "coords": [
+                        71.392691,
+                        42.899651
+                  ]
+            },
+            {
+                  "name": "Собор Успения Божией Матери",
+                  "text": "Catedrala Adormirea Maicii Domnului este un lăcaș de cult notabil situat în Tarasan. Aceasta servește drept un important centru religios al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        71.357992,
+                        42.900144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Кастеев",
+                  "text": "Кастеев is a museum showcasing art and history in Tarasan.",
+                  "category": "museum",
+                  "coords": [
+                        71.363411,
+                        42.902608
+                  ]
+            },
+            {
+                  "name": "Дом-музей К. И. Скрябина",
+                  "text": "Дом-музей К. И. Скрябина is a house museum dedicated to K. I. Skryabin in Tarasan.",
+                  "category": "museum",
+                  "coords": [
+                        71.386693,
+                        42.907135
+                  ]
+            },
+            {
+                  "name": "Вотервиль",
+                  "text": "Вотервиль is an aquatic park located in Tarasan.",
+                  "category": "recreational",
+                  "coords": [
+                        71.359688,
+                        42.880402
+                  ]
+            },
+            {
+                  "name": "Баласағұн",
+                  "text": "Баласағұн is a theatre venue providing cultural performances in Tarasan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.351191,
+                        42.900034
+                  ]
+            },
+            {
+                  "name": "Тараз қаласы әкімдігінің кәсіпкерлік, өнеркәсіп және туризм бөлімі",
+                  "text": "Тараз қаласы әкімдігінің кәсіпкерлік, өнеркәсіп және туризм бөлімі functions as an institutional museum in Tarasan.",
+                  "category": "museum",
+                  "coords": [
+                        71.376067,
+                        42.900798
+                  ]
+            },
+            {
+                  "name": "Drama theater",
+                  "text": "Drama theater is a local venue for performing arts in Tarasan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.379745,
+                        42.901492
+                  ]
+            },
+            {
+                  "name": "сцена",
+                  "text": "сцена is a theatrical stage for performances in Tarasan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.341977,
+                        42.900263
+                  ]
+            },
+            {
+                  "name": "Ancient Settlement Taraz",
+                  "text": "Ancient Settlement Taraz is a significant historical attraction in Tarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.395255,
+                        42.897524
+                  ]
+            },
+            {
+                  "name": "Көне Тараз қалашығы",
+                  "text": "Көне Тараз қалашығы is an attraction showcasing the ancient city's history in Tarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.395313,
+                        42.896584
+                  ]
+            },
+            {
+                  "name": "I love Taraz",
+                  "text": "I love Taraz is a popular landmark and photo spot in Tarasan.",
+                  "category": "landmark",
+                  "coords": [
+                        71.339893,
+                        42.901372
+                  ]
+            },
+            {
+                  "name": "Часовая башня",
+                  "text": "Часовая башня is a prominent clock tower monument located in Tarasan.",
+                  "category": "historical",
+                  "coords": [
+                        71.392691,
+                        42.899651
+                  ]
+            },
+            {
+                  "name": "Собор Успения Божией Матери",
+                  "text": "The Cathedral of the Dormition of the Mother of God is a notable place of worship located in Tarasan. It serves as an important religious center in the city.",
+                  "category": "religious",
+                  "coords": [
+                        71.357992,
+                        42.900144
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-31",
     coords: [71.3667, 42.9000],
@@ -261,7 +2934,520 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "pavlodar-cities-v2",
+    id: "pavlodar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Шафердің музей-үйі",
+                  "text": "Шафердің музей-үйі ist ein Hausmuseum zur Bewahrung der lokalen Geschichte in Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.948156,
+                        52.295561
+                  ]
+            },
+            {
+                  "name": "Павлодарский областной театр драмы имени А. П. Чехова",
+                  "text": "Das regionale Dramatheater A.P. Tschechow ist eine bekannte Theatereinrichtung in Pawlodar.",
+                  "category": "cultural",
+                  "coords": [
+                        76.938769,
+                        52.276736
+                  ]
+            },
+            {
+                  "name": "Павлодарский областной художественный музей",
+                  "text": "Павлодарский областной художественный музей ist ein regionales Kunstmuseum mit verschiedenen Sammlungen in Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.939121,
+                        52.296718
+                  ]
+            },
+            {
+                  "name": "Центральный пляж",
+                  "text": "Центральный пляж ist ein zentraler Sandstrand, der Erholungsmöglichkeiten in Pawlodar bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        76.935331,
+                        52.286601
+                  ]
+            },
+            {
+                  "name": "Иса Байзақов атындағы Павлодар облыстық филармониясы",
+                  "text": "Иса Байзақов атындағы Павлодар облыстық филармониясы ist ein regionales philharmonisches Theater in Pawlodar.",
+                  "category": "cultural",
+                  "coords": [
+                        76.967419,
+                        52.29739
+                  ]
+            },
+            {
+                  "name": "Г. Н. Потанин ат. Павлодар Облыстық Тарихи-Өлкетану Мұражайы",
+                  "text": "Г. Н. Потанин ат. Павлодар Облыстық Тарихи-Өлкетану Мұражайы ist ein Regionalmuseum für Geschichte und Heimatkunde in Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.939936,
+                        52.277496
+                  ]
+            },
+            {
+                  "name": "Музей воинской славы",
+                  "text": "Музей воинской славы ist ein Museum für militärischen Ruhm in der Stadt Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.948346,
+                        52.300148
+                  ]
+            },
+            {
+                  "name": "Бұқар жырау атындағы әдебиет және өнер музейі",
+                  "text": "Бұқар жырау атындағы әдебиет және өнер музейі ist ein Literatur- und Kunstmuseum in Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.943723,
+                        52.282631
+                  ]
+            },
+            {
+                  "name": "Шанырак",
+                  "text": "Шанырак ist ein Kultur- und Theatersaal in der Stadt Pawlodar.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945479,
+                        52.297125
+                  ]
+            },
+            {
+                  "name": "Ertis",
+                  "text": "Ertis ist ein interaktives Museum in Pawlodar, das dem Erbe der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        76.935737,
+                        52.279077
+                  ]
+            },
+            {
+                  "name": "Ашаршылык курбандарына тагзым",
+                  "text": "Ашаршылык курбандарына тагзым ist ein Denkmal in Pawlodar zur Erinnerung an die Opfer der Hungersnot.",
+                  "category": "historical",
+                  "coords": [
+                        76.925119,
+                        52.307309
+                  ]
+            },
+            {
+                  "name": "Благовещенск Шіркеуі",
+                  "text": "Die Verkündigungskathedrale ist eine markante russisch-orthodoxe Kirche in Pawlodar.",
+                  "category": "religious",
+                  "coords": [
+                        76.928347,
+                        52.295848
+                  ]
+            },
+            {
+                  "name": "Мәшһүр Жүсіп мешіті",
+                  "text": "Die Maschchur-Schüssip-Moschee ist eine große moderne Moschee und ein architektonisches Wahrzeichen in Pawlodar.",
+                  "category": "religious",
+                  "coords": [
+                        76.962463,
+                        52.286468
+                  ]
+            },
+            {
+                  "name": "Ақ мешіт",
+                  "text": "Ақ мешіт ist eine bedeutende Moschee in der Stadt Pawlodar.",
+                  "category": "religious",
+                  "coords": [
+                        76.943281,
+                        52.277417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Шафердің музей-үйі",
+                  "text": "A Шафердің музей-үйі egy emlékház és múzeum Pawlodar városában.",
+                  "category": "museum",
+                  "coords": [
+                        76.948156,
+                        52.295561
+                  ]
+            },
+            {
+                  "name": "Павлодарский областной театр драмы имени А. П. Чехова",
+                  "text": "Az A. P. Csehov nevét viselő Pavlodari Regionális Drámai Színház egy ismert színházi intézmény Pawlodar városában.",
+                  "category": "cultural",
+                  "coords": [
+                        76.938769,
+                        52.276736
+                  ]
+            },
+            {
+                  "name": "Павлодарский областной художественный музей",
+                  "text": "A Павлодарский областной художественный музей egy regionális művészeti múzeum Pawlodar városában.",
+                  "category": "museum",
+                  "coords": [
+                        76.939121,
+                        52.296718
+                  ]
+            },
+            {
+                  "name": "Центральный пляж",
+                  "text": "A Центральный пляж egy központi homokos strand Pawlodar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        76.935331,
+                        52.286601
+                  ]
+            },
+            {
+                  "name": "Иса Байзақов атындағы Павлодар облыстық филармониясы",
+                  "text": "Az Иса Байзақов атындағы Павлодар облыстық филармониясы egy helyi filharmóniai színház Pawlodar városában.",
+                  "category": "cultural",
+                  "coords": [
+                        76.967419,
+                        52.29739
+                  ]
+            },
+            {
+                  "name": "Г. Н. Потанин ат. Павлодар Облыстық Тарихи-Өлкетану Мұражайы",
+                  "text": "A Г. Н. Потанин ат. Павлодар Облыстық Тарихи-Өлкетану Мұражайы egy regionális történelmi és helytörténeti múzeum Pawlodar városában.",
+                  "category": "museum",
+                  "coords": [
+                        76.939936,
+                        52.277496
+                  ]
+            },
+            {
+                  "name": "Музей воинской славы",
+                  "text": "A Музей воинской славы egy katonai dicsőség múzeum Pawlodar városában.",
+                  "category": "museum",
+                  "coords": [
+                        76.948346,
+                        52.300148
+                  ]
+            },
+            {
+                  "name": "Бұқар жырау атындағы әдебиет және өнер музейі",
+                  "text": "A Бұқар жырау атындағы әдебиет және өнер музейі egy irodalommal és művészettel foglalkozó múzeum Pawlodar városában.",
+                  "category": "museum",
+                  "coords": [
+                        76.943723,
+                        52.282631
+                  ]
+            },
+            {
+                  "name": "Шанырак",
+                  "text": "A Шанырак egy kulturális színházi létesítmény Pawlodar városában.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945479,
+                        52.297125
+                  ]
+            },
+            {
+                  "name": "Ertis",
+                  "text": "Az Ertis egy interaktív múzeum, amely a régió örökségét mutatja be Pawlodar városában.",
+                  "category": "museum",
+                  "coords": [
+                        76.935737,
+                        52.279077
+                  ]
+            },
+            {
+                  "name": "Ашаршылык курбандарына тагзым",
+                  "text": "Az Ашаршылык курбандарына тагзым egy emlékmű Pawlodar városában az éhínség áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        76.925119,
+                        52.307309
+                  ]
+            },
+            {
+                  "name": "Благовещенск Шіркеуі",
+                  "text": "Az Angyali Üdvözlet-székesegyház egy jelentős orosz ortodox templom Pawlodar városában.",
+                  "category": "religious",
+                  "coords": [
+                        76.928347,
+                        52.295848
+                  ]
+            },
+            {
+                  "name": "Мәшһүр Жүсіп мешіті",
+                  "text": "A Mashkhur Jusup-mecset egy kiemelkedő modern mecset és építészeti látványosság Pawlodar városában.",
+                  "category": "religious",
+                  "coords": [
+                        76.962463,
+                        52.286468
+                  ]
+            },
+            {
+                  "name": "Ақ мешіт",
+                  "text": "Az Ақ мешіт egy jelentős mecset Pawlodar városában.",
+                  "category": "religious",
+                  "coords": [
+                        76.943281,
+                        52.277417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Шафердің музей-үйі",
+                  "text": "Шафердің музей-үйі este o casă memorială ce conservă istoria locală în Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.948156,
+                        52.295561
+                  ]
+            },
+            {
+                  "name": "Павлодарский областной театр драмы имени А. П. Чехова",
+                  "text": "Teatrul Regional de Dramă A.P. Cehov din Pavlodar este o instituție teatrală notabilă din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        76.938769,
+                        52.276736
+                  ]
+            },
+            {
+                  "name": "Павлодарский областной художественный музей",
+                  "text": "Павлодарский областной художественный музей este un muzeu regional de artă din Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.939121,
+                        52.296718
+                  ]
+            },
+            {
+                  "name": "Центральный пляж",
+                  "text": "Центральный пляж este o plajă centrală de nisip pentru recreere în orașul Pawlodar.",
+                  "category": "recreational",
+                  "coords": [
+                        76.935331,
+                        52.286601
+                  ]
+            },
+            {
+                  "name": "Иса Байзақов атындағы Павлодар облыстық филармониясы",
+                  "text": "Иса Байзақов атындағы Павлодар облыстық филармониясы este un teatru filarmonic regional situat în Pawlodar.",
+                  "category": "cultural",
+                  "coords": [
+                        76.967419,
+                        52.29739
+                  ]
+            },
+            {
+                  "name": "Г. Н. Потанин ат. Павлодар Облыстық Тарихи-Өлкетану Мұражайы",
+                  "text": "Г. Н. Потанин ат. Павлодар Облыстық Тарихи-Өлкетану Мұражайы este un muzeu regional de istorie și cunoaștere locală în Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.939936,
+                        52.277496
+                  ]
+            },
+            {
+                  "name": "Музей воинской славы",
+                  "text": "Музей воинской славы este un muzeu al gloriei militare din orașul Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.948346,
+                        52.300148
+                  ]
+            },
+            {
+                  "name": "Бұқар жырау атындағы әдебиет және өнер музейі",
+                  "text": "Бұқар жырау атындағы әдебиет және өнер музейі este un muzeu dedicat literaturii și artei în Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.943723,
+                        52.282631
+                  ]
+            },
+            {
+                  "name": "Шанырак",
+                  "text": "Шанырак este un centru cultural și de teatru situat în orașul Pawlodar.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945479,
+                        52.297125
+                  ]
+            },
+            {
+                  "name": "Ertis",
+                  "text": "Ertis este un muzeu interactiv din Pawlodar dedicat patrimoniului regional.",
+                  "category": "museum",
+                  "coords": [
+                        76.935737,
+                        52.279077
+                  ]
+            },
+            {
+                  "name": "Ашаршылык курбандарына тагзым",
+                  "text": "Ашаршылык курбандарына тагзым este un monument din Pawlodar dedicat victimelor foametei.",
+                  "category": "historical",
+                  "coords": [
+                        76.925119,
+                        52.307309
+                  ]
+            },
+            {
+                  "name": "Благовещенск Шіркеуі",
+                  "text": "Catedrala Bunei Vestiri este o biserică ortodoxă rusă notabilă situată în Pawlodar.",
+                  "category": "religious",
+                  "coords": [
+                        76.928347,
+                        52.295848
+                  ]
+            },
+            {
+                  "name": "Мәшһүр Жүсіп мешіті",
+                  "text": "Moscheea Mashkhur Jusup este o proeminentă moschee modernă și un reper arhitectural în Pawlodar.",
+                  "category": "religious",
+                  "coords": [
+                        76.962463,
+                        52.286468
+                  ]
+            },
+            {
+                  "name": "Ақ мешіт",
+                  "text": "Ақ мешіт este o moschee importantă pentru comunitatea islamică din Pawlodar.",
+                  "category": "religious",
+                  "coords": [
+                        76.943281,
+                        52.277417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Шафердің музей-үйі",
+                  "text": "Шафердің музей-үйі is a house museum preserving local history in Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.948156,
+                        52.295561
+                  ]
+            },
+            {
+                  "name": "Павлодарский областной театр драмы имени А. П. Чехова",
+                  "text": "The Pavlodar Regional Drama Theater named after A.P. Chekhov is a notable theatrical venue established in Pawlodar.",
+                  "category": "cultural",
+                  "coords": [
+                        76.938769,
+                        52.276736
+                  ]
+            },
+            {
+                  "name": "Павлодарский областной художественный музей",
+                  "text": "Павлодарский областной художественный музей is a regional art museum exhibiting various collections in Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.939121,
+                        52.296718
+                  ]
+            },
+            {
+                  "name": "Центральный пляж",
+                  "text": "Центральный пляж is a central sandy beach offering recreation along the river in Pawlodar.",
+                  "category": "recreational",
+                  "coords": [
+                        76.935331,
+                        52.286601
+                  ]
+            },
+            {
+                  "name": "Иса Байзақов атындағы Павлодар облыстық филармониясы",
+                  "text": "Иса Байзақов атындағы Павлодар облыстық филармониясы is a regional philharmonic theatre in Pawlodar.",
+                  "category": "cultural",
+                  "coords": [
+                        76.967419,
+                        52.29739
+                  ]
+            },
+            {
+                  "name": "Г. Н. Потанин ат. Павлодар Облыстық Тарихи-Өлкетану Мұражайы",
+                  "text": "Г. Н. Потанин ат. Павлодар Облыстық Тарихи-Өлкетану Мұражайы is a regional historical and local lore museum in Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.939936,
+                        52.277496
+                  ]
+            },
+            {
+                  "name": "Музей воинской славы",
+                  "text": "Музей воинской славы is a military glory museum dedicated to armed forces history in Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.948346,
+                        52.300148
+                  ]
+            },
+            {
+                  "name": "Бұқар жырау атындағы әдебиет және өнер музейі",
+                  "text": "Бұқар жырау атындағы әдебиет және өнер музейі is a museum focusing on literature and art in Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.943723,
+                        52.282631
+                  ]
+            },
+            {
+                  "name": "Шанырак",
+                  "text": "Шанырак is a cultural theatre venue situated in the city of Pawlodar.",
+                  "category": "cultural",
+                  "coords": [
+                        76.945479,
+                        52.297125
+                  ]
+            },
+            {
+                  "name": "Ertis",
+                  "text": "Ertis is an interactive museum dedicated to the region's heritage in Pawlodar.",
+                  "category": "museum",
+                  "coords": [
+                        76.935737,
+                        52.279077
+                  ]
+            },
+            {
+                  "name": "Ашаршылык курбандарына тагзым",
+                  "text": "Ашаршылык курбандарына тагзым is a monument in Pawlodar honoring the victims of the famine.",
+                  "category": "historical",
+                  "coords": [
+                        76.925119,
+                        52.307309
+                  ]
+            },
+            {
+                  "name": "Благовещенск Шіркеуі",
+                  "text": "The Annunciation Cathedral is a notable Russian Orthodox church situated in Pawlodar.",
+                  "category": "religious",
+                  "coords": [
+                        76.928347,
+                        52.295848
+                  ]
+            },
+            {
+                  "name": "Mashkhur Jusup Mosque",
+                  "text": "The Mashkhur Jusup Mosque is a prominent modern mosque and iconic architectural landmark in Pawlodar.",
+                  "category": "religious",
+                  "coords": [
+                        76.962463,
+                        52.286468
+                  ]
+            },
+            {
+                  "name": "Ақ мешіт",
+                  "text": "Ақ мешіт is a significant mosque serving the Islamic community in Pawlodar.",
+                  "category": "religious",
+                  "coords": [
+                        76.943281,
+                        52.277417
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-55",
     coords: [76.9565, 52.3000],
@@ -393,7 +3579,448 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "atyrau-cities-v2",
+    id: "atyrau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Махамбет Өтемісұлы атындағы Атырау облыстық академиялық драма театры",
+                  "text": "Das Regionale Akademische Dramatheater Atyrau ist eine bedeutende kulturelle Einrichtung in Atyrau.",
+                  "category": "cultural",
+                  "coords": [
+                        51.933042,
+                        47.105076
+                  ]
+            },
+            {
+                  "name": "Филармония им. Н. Жантурина",
+                  "text": "Die Philharmonie N. Zhanturin ist ein bekannter Veranstaltungsort für musikalische Aufführungen in Atyrau.",
+                  "category": "cultural",
+                  "coords": [
+                        51.926632,
+                        47.097563
+                  ]
+            },
+            {
+                  "name": "музей имени Ш.Сариева",
+                  "text": "музей имени Ш.Сариева ist ein Kunstmuseum für lokale Ausstellungen in Atyrau.",
+                  "category": "museum",
+                  "coords": [
+                        51.922745,
+                        47.106618
+                  ]
+            },
+            {
+                  "name": "Керемет",
+                  "text": "Керемет ist ein Vergnügungs- und Themenpark in der Stadt Atyrau.",
+                  "category": "recreational",
+                  "coords": [
+                        51.888408,
+                        47.094267
+                  ]
+            },
+            {
+                  "name": "Памятник Курмангазы",
+                  "text": "Памятник Курмангазы ist ein Denkmal in Atyrau zu Ehren des berühmten kasachischen Komponisten Kurmangazy.",
+                  "category": "historical",
+                  "coords": [
+                        51.923546,
+                        47.095516
+                  ]
+            },
+            {
+                  "name": "Станок качалка СК-5",
+                  "text": "Станок качалка СК-5 ist ein erhaltener Tiefpumpenantrieb und eine historische Industrieattraktion in Atyrau.",
+                  "category": "landmark",
+                  "coords": [
+                        51.914337,
+                        47.104998
+                  ]
+            },
+            {
+                  "name": "Степная трава кумаршык",
+                  "text": "Степная трава кумаршык ist ein Denkmal in Atyrau.",
+                  "category": "historical",
+                  "coords": [
+                        51.897928,
+                        47.106015
+                  ]
+            },
+            {
+                  "name": "Исатая и Махамбета",
+                  "text": "Исатая и Махамбета ist ein Denkmal in Atyrau.",
+                  "category": "historical",
+                  "coords": [
+                        51.903274,
+                        47.107531
+                  ]
+            },
+            {
+                  "name": "Воинам великой отечественной войны",
+                  "text": "Воинам великой отечественной войны ist ein Denkmal in Atyrau.",
+                  "category": "historical",
+                  "coords": [
+                        51.888293,
+                        47.091986
+                  ]
+            },
+            {
+                  "name": "Малибу",
+                  "text": "Малибу ist ein Strandresort in Atyrau.",
+                  "category": "recreational",
+                  "coords": [
+                        51.902111,
+                        47.099801
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Городской пляж ist ein Strandresort in Atyrau.",
+                  "category": "recreational",
+                  "coords": [
+                        51.919441,
+                        47.108799
+                  ]
+            },
+            {
+                  "name": "Kolonnade flagpole",
+                  "text": "Kolonnade flagpole ist eine Sehenswürdigkeit in Atyrau.",
+                  "category": "landmark",
+                  "coords": [
+                        51.920952,
+                        47.106094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Махамбет Өтемісұлы атындағы Атырау облыстық академиялық драма театры",
+                  "text": "A Mahambet Utemiszuli nevét viselő Atiraui Regionális Akadémiai Drámai Színház jelentős kulturális intézmény Atirauban.",
+                  "category": "cultural",
+                  "coords": [
+                        51.933042,
+                        47.105076
+                  ]
+            },
+            {
+                  "name": "Филармония им. Н. Жантурина",
+                  "text": "Az N. Zsanturin nevét viselő Filharmónia kiemelkedő zenei előadások és koncertek helyszíne Atirau városában.",
+                  "category": "cultural",
+                  "coords": [
+                        51.926632,
+                        47.097563
+                  ]
+            },
+            {
+                  "name": "музей имени Ш.Сариева",
+                  "text": "A музей имени Ш.Сариева egy helyi kulturális kiállításoknak szentelt művészeti múzeum Atirau városában.",
+                  "category": "museum",
+                  "coords": [
+                        51.922745,
+                        47.106618
+                  ]
+            },
+            {
+                  "name": "Керемет",
+                  "text": "A Керемет egy vidámpark és témapark Atirau városában.",
+                  "category": "recreational",
+                  "coords": [
+                        51.888408,
+                        47.094267
+                  ]
+            },
+            {
+                  "name": "Памятник Курмангазы",
+                  "text": "A Памятник Курмангазы a híres kazah zeneszerzőnek, Kurmangazinak állít emléket Atirau városában.",
+                  "category": "historical",
+                  "coords": [
+                        51.923546,
+                        47.095516
+                  ]
+            },
+            {
+                  "name": "Станок качалка СК-5",
+                  "text": "A Станок качалка СК-5 egy megőrzött olajkút-szivattyú, amely történelmi ipari látványosságként szolgál Atirau városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.914337,
+                        47.104998
+                  ]
+            },
+            {
+                  "name": "Степная трава кумаршык",
+                  "text": "A Степная трава кумаршык egy emlékmű Atyrauban.",
+                  "category": "historical",
+                  "coords": [
+                        51.897928,
+                        47.106015
+                  ]
+            },
+            {
+                  "name": "Исатая и Махамбета",
+                  "text": "A Исатая и Махамбета egy emlékmű Atyrauban.",
+                  "category": "historical",
+                  "coords": [
+                        51.903274,
+                        47.107531
+                  ]
+            },
+            {
+                  "name": "Воинам великой отечественной войны",
+                  "text": "A Воинам великой отечественной войны egy emlékmű Atyrauban.",
+                  "category": "historical",
+                  "coords": [
+                        51.888293,
+                        47.091986
+                  ]
+            },
+            {
+                  "name": "Малибу",
+                  "text": "A Малибу egy tengerparti üdülőhely Atyrauban.",
+                  "category": "recreational",
+                  "coords": [
+                        51.902111,
+                        47.099801
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "A Городской пляж egy tengerparti üdülőhely Atyrauban.",
+                  "category": "recreational",
+                  "coords": [
+                        51.919441,
+                        47.108799
+                  ]
+            },
+            {
+                  "name": "Kolonnade flagpole",
+                  "text": "A Kolonnade flagpole egy látványosság Atyrauban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.920952,
+                        47.106094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Махамбет Өтемісұлы атындағы Атырау облыстық академиялық драма театры",
+                  "text": "Teatrul Academic Regional de Dramă din Atyrau este o instituție culturală majoră a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        51.933042,
+                        47.105076
+                  ]
+            },
+            {
+                  "name": "Филармония им. Н. Жантурина",
+                  "text": "Filarmonica N. Zhanturin este un loc proeminent pentru spectacole muzicale și concerte în Atyrau.",
+                  "category": "cultural",
+                  "coords": [
+                        51.926632,
+                        47.097563
+                  ]
+            },
+            {
+                  "name": "музей имени Ш.Сариева",
+                  "text": "музей имени Ш.Сариева este un muzeu de artă dedicat expozițiilor culturale locale din Atyrau.",
+                  "category": "museum",
+                  "coords": [
+                        51.922745,
+                        47.106618
+                  ]
+            },
+            {
+                  "name": "Керемет",
+                  "text": "Керемет este un parc de distracții și tematic situat în orașul Atyrau.",
+                  "category": "recreational",
+                  "coords": [
+                        51.888408,
+                        47.094267
+                  ]
+            },
+            {
+                  "name": "Памятник Курмангазы",
+                  "text": "Памятник Курмангазы este un monument ridicat în Atyrau pentru a onora faimosul compozitor kazah Kurmangazy.",
+                  "category": "historical",
+                  "coords": [
+                        51.923546,
+                        47.095516
+                  ]
+            },
+            {
+                  "name": "Станок качалка СК-5",
+                  "text": "Станок качалка СК-5 este o pompă de extracție a petrolului conservată, reprezentând o atracție industrială istorică în Atyrau.",
+                  "category": "landmark",
+                  "coords": [
+                        51.914337,
+                        47.104998
+                  ]
+            },
+            {
+                  "name": "Степная трава кумаршык",
+                  "text": "Степная трава кумаршык este un monument în Atyrau.",
+                  "category": "historical",
+                  "coords": [
+                        51.897928,
+                        47.106015
+                  ]
+            },
+            {
+                  "name": "Исатая и Махамбета",
+                  "text": "Исатая и Махамбета este un monument în Atyrau.",
+                  "category": "historical",
+                  "coords": [
+                        51.903274,
+                        47.107531
+                  ]
+            },
+            {
+                  "name": "Воинам великой отечественной войны",
+                  "text": "Воинам великой отечественной войны este un monument în Atyrau.",
+                  "category": "historical",
+                  "coords": [
+                        51.888293,
+                        47.091986
+                  ]
+            },
+            {
+                  "name": "Малибу",
+                  "text": "Малибу este o stațiune balneară în Atyrau.",
+                  "category": "recreational",
+                  "coords": [
+                        51.902111,
+                        47.099801
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Городской пляж este o stațiune balneară în Atyrau.",
+                  "category": "recreational",
+                  "coords": [
+                        51.919441,
+                        47.108799
+                  ]
+            },
+            {
+                  "name": "Kolonnade flagpole",
+                  "text": "Kolonnade flagpole este o atracție în Atyrau.",
+                  "category": "landmark",
+                  "coords": [
+                        51.920952,
+                        47.106094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atyrau Regional Academic Drama Theater named after Makhambet Utemisuly",
+                  "text": "The Atyrau Regional Academic Drama Theater is a major cultural institution in Atyrau named after Makhambet Utemisuly.",
+                  "category": "cultural",
+                  "coords": [
+                        51.933042,
+                        47.105076
+                  ]
+            },
+            {
+                  "name": "Филармония им. Н. Жантурина",
+                  "text": "The Philharmonic named after N. Zhanturin is a prominent venue for musical performances and concerts in Atyrau.",
+                  "category": "cultural",
+                  "coords": [
+                        51.926632,
+                        47.097563
+                  ]
+            },
+            {
+                  "name": "музей имени Ш.Сариева",
+                  "text": "музей имени Ш.Сариева is an art museum dedicated to local cultural exhibitions in Atyrau.",
+                  "category": "museum",
+                  "coords": [
+                        51.922745,
+                        47.106618
+                  ]
+            },
+            {
+                  "name": "Керемет",
+                  "text": "Керемет is an amusement and theme park situated in the city of Atyrau.",
+                  "category": "recreational",
+                  "coords": [
+                        51.888408,
+                        47.094267
+                  ]
+            },
+            {
+                  "name": "Памятник Курмангазы",
+                  "text": "Памятник Курмангазы is a monument erected in Atyrau to honor the famed Kazakh composer Kurmangazy.",
+                  "category": "historical",
+                  "coords": [
+                        51.923546,
+                        47.095516
+                  ]
+            },
+            {
+                  "name": "Станок качалка СК-5",
+                  "text": "Станок качалка СК-5 is a preserved pumpjack serving as a historical industrial attraction in Atyrau.",
+                  "category": "landmark",
+                  "coords": [
+                        51.914337,
+                        47.104998
+                  ]
+            },
+            {
+                  "name": "Степная трава кумаршык",
+                  "text": "Степная трава кумаршык is a monument located in Atyrau.",
+                  "category": "historical",
+                  "coords": [
+                        51.897928,
+                        47.106015
+                  ]
+            },
+            {
+                  "name": "Исатая и Махамбета",
+                  "text": "Исатая и Махамбета is a monument situated in Atyrau.",
+                  "category": "historical",
+                  "coords": [
+                        51.903274,
+                        47.107531
+                  ]
+            },
+            {
+                  "name": "Воинам великой отечественной войны",
+                  "text": "Воинам великой отечественной войны is a monument found in Atyrau.",
+                  "category": "historical",
+                  "coords": [
+                        51.888293,
+                        47.091986
+                  ]
+            },
+            {
+                  "name": "Малибу",
+                  "text": "Малибу is a beach resort located in Atyrau.",
+                  "category": "recreational",
+                  "coords": [
+                        51.902111,
+                        47.099801
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Городской пляж is a beach resort situated in Atyrau.",
+                  "category": "recreational",
+                  "coords": [
+                        51.919441,
+                        47.108799
+                  ]
+            },
+            {
+                  "name": "Kolonnade flagpole",
+                  "text": "Kolonnade flagpole is an attraction found in Atyrau.",
+                  "category": "landmark",
+                  "coords": [
+                        51.920952,
+                        47.106094
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-23",
     coords: [51.9238, 47.0945],
@@ -525,7 +4152,340 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "oral-cities-v2",
+    id: "oral-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Галактика",
+                  "text": "Галактика ist ein Freizeitpark in Oral.",
+                  "category": "recreational",
+                  "coords": [
+                        51.382409,
+                        51.218012
+                  ]
+            },
+            {
+                  "name": "Музей Маншук Маметовой",
+                  "text": "Музей Маншук Маметовой ist ein Museum in Oral.",
+                  "category": "museum",
+                  "coords": [
+                        51.371791,
+                        51.207614
+                  ]
+            },
+            {
+                  "name": "Парк аттракционов \"Джуманджи\"",
+                  "text": "Парк аттракционов \"Джуманджи\" ist ein Freizeitpark in Oral.",
+                  "category": "recreational",
+                  "coords": [
+                        51.347684,
+                        51.213789
+                  ]
+            },
+            {
+                  "name": "Funky Town",
+                  "text": "Funky Town ist ein Freizeitpark in Oral.",
+                  "category": "recreational",
+                  "coords": [
+                        51.38847,
+                        51.220478
+                  ]
+            },
+            {
+                  "name": "Құтқарушы Иса храмы",
+                  "text": "Christ the Savior Church ist eine Sehenswürdigkeit in Oral.",
+                  "category": "landmark",
+                  "coords": [
+                        51.368466,
+                        51.211052
+                  ]
+            },
+            {
+                  "name": "Мустахим Иксанов",
+                  "text": "Мустахим Иксанов ist ein Denkmal in Oral.",
+                  "category": "historical",
+                  "coords": [
+                        51.38674,
+                        51.21881
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Колесо обозрения ist eine Sehenswürdigkeit in Oral.",
+                  "category": "landmark",
+                  "coords": [
+                        51.344605,
+                        51.215617
+                  ]
+            },
+            {
+                  "name": "Выставочный зал",
+                  "text": "Выставочный зал ist ein Kunstzentrum in Oral.",
+                  "category": "cultural",
+                  "coords": [
+                        51.367397,
+                        51.212874
+                  ]
+            },
+            {
+                  "name": "Спасо-Преображенский приход",
+                  "text": "Спасо-Преображенский приход ist eine Kultstätte in Oral.",
+                  "category": "religious",
+                  "coords": [
+                        51.355466,
+                        51.220948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Галактика",
+                  "text": "A Галактика egy vidámpark Oral városában.",
+                  "category": "recreational",
+                  "coords": [
+                        51.382409,
+                        51.218012
+                  ]
+            },
+            {
+                  "name": "Музей Маншук Маметовой",
+                  "text": "A Музей Маншук Маметовой egy múzeum Oral városában.",
+                  "category": "museum",
+                  "coords": [
+                        51.371791,
+                        51.207614
+                  ]
+            },
+            {
+                  "name": "Парк аттракционов \"Джуманджи\"",
+                  "text": "A Парк аттракционов \"Джуманджи\" egy vidámpark Oral városában.",
+                  "category": "recreational",
+                  "coords": [
+                        51.347684,
+                        51.213789
+                  ]
+            },
+            {
+                  "name": "Funky Town",
+                  "text": "A Funky Town egy vidámpark Oral városában.",
+                  "category": "recreational",
+                  "coords": [
+                        51.38847,
+                        51.220478
+                  ]
+            },
+            {
+                  "name": "Құтқарушы Иса храмы",
+                  "text": "A Christ the Savior Church egy látványosság Oral városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.368466,
+                        51.211052
+                  ]
+            },
+            {
+                  "name": "Мустахим Иксанов",
+                  "text": "A Мустахим Иксанов egy emlékmű Oral városában.",
+                  "category": "historical",
+                  "coords": [
+                        51.38674,
+                        51.21881
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "A Колесо обозрения egy látványosság Oral városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.344605,
+                        51.215617
+                  ]
+            },
+            {
+                  "name": "Выставочный зал",
+                  "text": "A Выставочный зал egy művészeti központ Oral városában.",
+                  "category": "cultural",
+                  "coords": [
+                        51.367397,
+                        51.212874
+                  ]
+            },
+            {
+                  "name": "Спасо-Преображенский приход",
+                  "text": "A Спасо-Преображенский приход egy istentiszteleti hely Oral városában.",
+                  "category": "religious",
+                  "coords": [
+                        51.355466,
+                        51.220948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Галактика",
+                  "text": "Галактика este un parc de distracții în Oral.",
+                  "category": "recreational",
+                  "coords": [
+                        51.382409,
+                        51.218012
+                  ]
+            },
+            {
+                  "name": "Музей Маншук Маметовой",
+                  "text": "Музей Маншук Маметовой este un muzeu în Oral.",
+                  "category": "museum",
+                  "coords": [
+                        51.371791,
+                        51.207614
+                  ]
+            },
+            {
+                  "name": "Парк аттракционов \"Джуманджи\"",
+                  "text": "Парк аттракционов \"Джуманджи\" este un parc de distracții în Oral.",
+                  "category": "recreational",
+                  "coords": [
+                        51.347684,
+                        51.213789
+                  ]
+            },
+            {
+                  "name": "Funky Town",
+                  "text": "Funky Town este un parc de distracții în Oral.",
+                  "category": "recreational",
+                  "coords": [
+                        51.38847,
+                        51.220478
+                  ]
+            },
+            {
+                  "name": "Құтқарушы Иса храмы",
+                  "text": "Christ the Savior Church este o atracție în Oral.",
+                  "category": "landmark",
+                  "coords": [
+                        51.368466,
+                        51.211052
+                  ]
+            },
+            {
+                  "name": "Мустахим Иксанов",
+                  "text": "Мустахим Иксанов este un monument în Oral.",
+                  "category": "historical",
+                  "coords": [
+                        51.38674,
+                        51.21881
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Колесо обозрения este o atracție în Oral.",
+                  "category": "landmark",
+                  "coords": [
+                        51.344605,
+                        51.215617
+                  ]
+            },
+            {
+                  "name": "Выставочный зал",
+                  "text": "Выставочный зал este un centru de artă în Oral.",
+                  "category": "cultural",
+                  "coords": [
+                        51.367397,
+                        51.212874
+                  ]
+            },
+            {
+                  "name": "Спасо-Преображенский приход",
+                  "text": "Спасо-Преображенский приход este un lăcaș de cult în Oral.",
+                  "category": "religious",
+                  "coords": [
+                        51.355466,
+                        51.220948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Галактика",
+                  "text": "Галактика is a theme park located in Oral.",
+                  "category": "recreational",
+                  "coords": [
+                        51.382409,
+                        51.218012
+                  ]
+            },
+            {
+                  "name": "Музей Маншук Маметовой",
+                  "text": "Музей Маншук Маметовой is a museum situated in Oral.",
+                  "category": "museum",
+                  "coords": [
+                        51.371791,
+                        51.207614
+                  ]
+            },
+            {
+                  "name": "Парк аттракционов \"Джуманджи\"",
+                  "text": "Парк аттракционов \"Джуманджи\" is a theme park found in Oral.",
+                  "category": "recreational",
+                  "coords": [
+                        51.347684,
+                        51.213789
+                  ]
+            },
+            {
+                  "name": "Funky Town",
+                  "text": "Funky Town is a theme park located in Oral.",
+                  "category": "recreational",
+                  "coords": [
+                        51.38847,
+                        51.220478
+                  ]
+            },
+            {
+                  "name": "Christ the Savior Church",
+                  "text": "Christ the Savior Church is an attraction located in Oral.",
+                  "category": "landmark",
+                  "coords": [
+                        51.368466,
+                        51.211052
+                  ]
+            },
+            {
+                  "name": "Мустахим Иксанов",
+                  "text": "Мустахим Иксанов is a monument situated in Oral.",
+                  "category": "historical",
+                  "coords": [
+                        51.38674,
+                        51.21881
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Колесо обозрения is an attraction found in Oral.",
+                  "category": "landmark",
+                  "coords": [
+                        51.344605,
+                        51.215617
+                  ]
+            },
+            {
+                  "name": "Выставочный зал",
+                  "text": "Выставочный зал is an arts centre located in Oral.",
+                  "category": "cultural",
+                  "coords": [
+                        51.367397,
+                        51.212874
+                  ]
+            },
+            {
+                  "name": "Спасо-Преображенский приход",
+                  "text": "Спасо-Преображенский приход is a place of worship located in Oral.",
+                  "category": "religious",
+                  "coords": [
+                        51.355466,
+                        51.220948
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-27",
     coords: [51.3619, 51.2333],
@@ -569,7 +4529,520 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "petropavl-cities-v2",
+    id: "petropavl-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Погодин атындағы облыстық орыс драма театры",
+                  "text": "Theater in Petropawl.",
+                  "category": "cultural",
+                  "coords": [
+                        69.123145,
+                        54.873309
+                  ]
+            },
+            {
+                  "name": "Областной кукольный театр",
+                  "text": "Puppentheater in Petropawl.",
+                  "category": "cultural",
+                  "coords": [
+                        69.144428,
+                        54.861582
+                  ]
+            },
+            {
+                  "name": "Областной краеведческий музей",
+                  "text": "Heimatmuseum in Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.136653,
+                        54.86513
+                  ]
+            },
+            {
+                  "name": "Областной музей изобразительных искусств",
+                  "text": "Kunstmuseum in Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.148195,
+                        54.866801
+                  ]
+            },
+            {
+                  "name": "\"Абылай Хан Резиденциясы\" Мұражай Кешені",
+                  "text": "Museum in Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.117641,
+                        54.874019
+                  ]
+            },
+            {
+                  "name": "Нептун",
+                  "text": "Wasserpark in Petropawl.",
+                  "category": "recreational",
+                  "coords": [
+                        69.16816,
+                        54.864975
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Strand in Petropawl.",
+                  "category": "recreational",
+                  "coords": [
+                        69.091628,
+                        54.884485
+                  ]
+            },
+            {
+                  "name": "Государственный казахский музыкально-драматический театр им. С. Муканова",
+                  "text": "Theater in Petropawl.",
+                  "category": "cultural",
+                  "coords": [
+                        69.120656,
+                        54.85829
+                  ]
+            },
+            {
+                  "name": "Мәңгілік алау",
+                  "text": "Attraktion in Petropawl.",
+                  "category": "landmark",
+                  "coords": [
+                        69.125311,
+                        54.873512
+                  ]
+            },
+            {
+                  "name": "Парк Победы",
+                  "text": "Denkmal in Petropawl.",
+                  "category": "historical",
+                  "coords": [
+                        69.133544,
+                        54.895734
+                  ]
+            },
+            {
+                  "name": "Абай и Пушкин",
+                  "text": "Denkmal in Petropawl.",
+                  "category": "historical",
+                  "coords": [
+                        69.140662,
+                        54.862152
+                  ]
+            },
+            {
+                  "name": "Art galereya Botai",
+                  "text": "Galerie in Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.132229,
+                        54.868007
+                  ]
+            },
+            {
+                  "name": "стелла Памяти героям Великой Отечественной войны",
+                  "text": "Denkmal in Petropawl.",
+                  "category": "historical",
+                  "coords": [
+                        69.139582,
+                        54.861063
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Riesenrad in Petropawl.",
+                  "category": "landmark",
+                  "coords": [
+                        69.138206,
+                        54.860691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Погодин атындағы облыстық орыс драма театры",
+                  "text": "Színház Petropawlban.",
+                  "category": "cultural",
+                  "coords": [
+                        69.123145,
+                        54.873309
+                  ]
+            },
+            {
+                  "name": "Областной кукольный театр",
+                  "text": "Bábszínház Petropawlban.",
+                  "category": "cultural",
+                  "coords": [
+                        69.144428,
+                        54.861582
+                  ]
+            },
+            {
+                  "name": "Областной краеведческий музей",
+                  "text": "Helytörténeti múzeum Petropawlban.",
+                  "category": "museum",
+                  "coords": [
+                        69.136653,
+                        54.86513
+                  ]
+            },
+            {
+                  "name": "Областной музей изобразительных искусств",
+                  "text": "Művészeti múzeum Petropawlban.",
+                  "category": "museum",
+                  "coords": [
+                        69.148195,
+                        54.866801
+                  ]
+            },
+            {
+                  "name": "\"Абылай Хан Резиденциясы\" Мұражай Кешені",
+                  "text": "Múzeum Petropawlban.",
+                  "category": "museum",
+                  "coords": [
+                        69.117641,
+                        54.874019
+                  ]
+            },
+            {
+                  "name": "Нептун",
+                  "text": "Vízi park Petropawlban.",
+                  "category": "recreational",
+                  "coords": [
+                        69.16816,
+                        54.864975
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Strand Petropawlban.",
+                  "category": "recreational",
+                  "coords": [
+                        69.091628,
+                        54.884485
+                  ]
+            },
+            {
+                  "name": "Государственный казахский музыкально-драматический театр им. С. Муканова",
+                  "text": "Színház Petropawlban.",
+                  "category": "cultural",
+                  "coords": [
+                        69.120656,
+                        54.85829
+                  ]
+            },
+            {
+                  "name": "Мәңгілік алау",
+                  "text": "Látványosság Petropawlban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.125311,
+                        54.873512
+                  ]
+            },
+            {
+                  "name": "Парк Победы",
+                  "text": "Emlékmű Petropawlban.",
+                  "category": "historical",
+                  "coords": [
+                        69.133544,
+                        54.895734
+                  ]
+            },
+            {
+                  "name": "Абай и Пушкин",
+                  "text": "Emlékmű Petropawlban.",
+                  "category": "historical",
+                  "coords": [
+                        69.140662,
+                        54.862152
+                  ]
+            },
+            {
+                  "name": "Art galereya Botai",
+                  "text": "Galéria Petropawlban.",
+                  "category": "museum",
+                  "coords": [
+                        69.132229,
+                        54.868007
+                  ]
+            },
+            {
+                  "name": "стелла Памяти героям Великой Отечественной войны",
+                  "text": "Emlékmű Petropawlban.",
+                  "category": "historical",
+                  "coords": [
+                        69.139582,
+                        54.861063
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Óriáskerék Petropawlban.",
+                  "category": "landmark",
+                  "coords": [
+                        69.138206,
+                        54.860691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Погодин атындағы облыстық орыс драма театры",
+                  "text": "Teatru în Petropawl.",
+                  "category": "cultural",
+                  "coords": [
+                        69.123145,
+                        54.873309
+                  ]
+            },
+            {
+                  "name": "Областной кукольный театр",
+                  "text": "Teatru de păpuși în Petropawl.",
+                  "category": "cultural",
+                  "coords": [
+                        69.144428,
+                        54.861582
+                  ]
+            },
+            {
+                  "name": "Областной краеведческий музей",
+                  "text": "Muzeu de istorie locală în Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.136653,
+                        54.86513
+                  ]
+            },
+            {
+                  "name": "Областной музей изобразительных искусств",
+                  "text": "Muzeu de artă în Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.148195,
+                        54.866801
+                  ]
+            },
+            {
+                  "name": "\"Абылай Хан Резиденциясы\" Мұражай Кешені",
+                  "text": "Muzeu în Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.117641,
+                        54.874019
+                  ]
+            },
+            {
+                  "name": "Нептун",
+                  "text": "Parc acvatic în Petropawl.",
+                  "category": "recreational",
+                  "coords": [
+                        69.16816,
+                        54.864975
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Plajă în Petropawl.",
+                  "category": "recreational",
+                  "coords": [
+                        69.091628,
+                        54.884485
+                  ]
+            },
+            {
+                  "name": "Государственный казахский музыкально-драматический театр им. С. Муканова",
+                  "text": "Teatru în Petropawl.",
+                  "category": "cultural",
+                  "coords": [
+                        69.120656,
+                        54.85829
+                  ]
+            },
+            {
+                  "name": "Мәңгілік алау",
+                  "text": "Atracție în Petropawl.",
+                  "category": "landmark",
+                  "coords": [
+                        69.125311,
+                        54.873512
+                  ]
+            },
+            {
+                  "name": "Парк Победы",
+                  "text": "Monument în Petropawl.",
+                  "category": "historical",
+                  "coords": [
+                        69.133544,
+                        54.895734
+                  ]
+            },
+            {
+                  "name": "Абай и Пушкин",
+                  "text": "Monument în Petropawl.",
+                  "category": "historical",
+                  "coords": [
+                        69.140662,
+                        54.862152
+                  ]
+            },
+            {
+                  "name": "Art galereya Botai",
+                  "text": "Galerie în Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.132229,
+                        54.868007
+                  ]
+            },
+            {
+                  "name": "стелла Памяти героям Великой Отечественной войны",
+                  "text": "Monument în Petropawl.",
+                  "category": "historical",
+                  "coords": [
+                        69.139582,
+                        54.861063
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Roată panoramică în Petropawl.",
+                  "category": "landmark",
+                  "coords": [
+                        69.138206,
+                        54.860691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Regional Russian Drama Theater named after Pogodin",
+                  "text": "Theatre in Petropawl.",
+                  "category": "cultural",
+                  "coords": [
+                        69.123145,
+                        54.873309
+                  ]
+            },
+            {
+                  "name": "Областной кукольный театр",
+                  "text": "Puppet theatre in Petropawl.",
+                  "category": "cultural",
+                  "coords": [
+                        69.144428,
+                        54.861582
+                  ]
+            },
+            {
+                  "name": "Областной краеведческий музей",
+                  "text": "Local history museum in Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.136653,
+                        54.86513
+                  ]
+            },
+            {
+                  "name": "Областной музей изобразительных искусств",
+                  "text": "Art museum in Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.148195,
+                        54.866801
+                  ]
+            },
+            {
+                  "name": "\"Абылай Хан Резиденциясы\" Мұражай Кешені",
+                  "text": "Museum in Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.117641,
+                        54.874019
+                  ]
+            },
+            {
+                  "name": "Нептун",
+                  "text": "Water park in Petropawl.",
+                  "category": "recreational",
+                  "coords": [
+                        69.16816,
+                        54.864975
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Beach in Petropawl.",
+                  "category": "recreational",
+                  "coords": [
+                        69.091628,
+                        54.884485
+                  ]
+            },
+            {
+                  "name": "Государственный казахский музыкально-драматический театр им. С. Муканова",
+                  "text": "Theatre in Petropawl.",
+                  "category": "cultural",
+                  "coords": [
+                        69.120656,
+                        54.85829
+                  ]
+            },
+            {
+                  "name": "Eternal flame",
+                  "text": "Attraction in Petropawl.",
+                  "category": "landmark",
+                  "coords": [
+                        69.125311,
+                        54.873512
+                  ]
+            },
+            {
+                  "name": "Парк Победы",
+                  "text": "Monument in Petropawl.",
+                  "category": "historical",
+                  "coords": [
+                        69.133544,
+                        54.895734
+                  ]
+            },
+            {
+                  "name": "Абай и Пушкин",
+                  "text": "Monument in Petropawl.",
+                  "category": "historical",
+                  "coords": [
+                        69.140662,
+                        54.862152
+                  ]
+            },
+            {
+                  "name": "Art galereya Botai",
+                  "text": "Gallery in Petropawl.",
+                  "category": "museum",
+                  "coords": [
+                        69.132229,
+                        54.868007
+                  ]
+            },
+            {
+                  "name": "стелла Памяти героям Великой Отечественной войны",
+                  "text": "Monument in Petropawl.",
+                  "category": "historical",
+                  "coords": [
+                        69.139582,
+                        54.861063
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Ferris wheel in Petropawl.",
+                  "category": "landmark",
+                  "coords": [
+                        69.138206,
+                        54.860691
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-59",
     coords: [69.1291, 54.8754],
@@ -613,7 +5086,376 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "aktau-cities-v2",
+    id: "aktau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "RC Melovoy",
+                  "text": "RC Melovoy ist ein Leuchtturm in der Stadt Aqtau. Er dient als Navigationshilfe an der Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        51.164658,
+                        43.62919
+                  ]
+            },
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "Das Historische und Heimatmuseum ist ein Museum in Aqtau. Es zeigt regionale Geschichte und kulturelle Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        51.154307,
+                        43.64929
+                  ]
+            },
+            {
+                  "name": "Музыкально-драматический театр им.Нурмухана Жантурина",
+                  "text": "Das Nurmuchan-Schanturin-Musik- und Dramatheater ist ein Kulturort in Aqtau. Es beherbergt verschiedene Aufführungen der darstellenden Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158116,
+                        43.647731
+                  ]
+            },
+            {
+                  "name": "Ақтау қаласындағы Оскинбаев атындағы филармония",
+                  "text": "Die Konzerthalle der Oblast-Philharmonie ist ein Theater in Aqtau. Sie ist ein bekannter Ort für Musikaufführungen in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        51.157749,
+                        43.636489
+                  ]
+            },
+            {
+                  "name": "Маңғыстау Тәжірибелік Ботаника Бағы",
+                  "text": "Der Experimentelle Botanische Garten Mangystau ist ein bekannter Garten in Aqtau. Er zeigt eine vielfältige Sammlung der regionalen Flora.",
+                  "category": "park",
+                  "coords": [
+                        51.161135,
+                        43.651138
+                  ]
+            },
+            {
+                  "name": "Ынтымак",
+                  "text": "Yntymak ist ein Denkmal in der Stadt Aqtau. Es steht als öffentliches Wahrzeichen im Stadtbild.",
+                  "category": "historical",
+                  "coords": [
+                        51.149761,
+                        43.654379
+                  ]
+            },
+            {
+                  "name": "Обелиск пограничникам Казахстана",
+                  "text": "Der Obelisk für die Grenzschützer Kasachstans ist ein Denkmal in Aqtau. Er erinnert an den Dienst des nationalen Grenzschutzes.",
+                  "category": "historical",
+                  "coords": [
+                        51.172308,
+                        43.63448
+                  ]
+            },
+            {
+                  "name": "'I LOVE AKTAU'",
+                  "text": "Der Schriftzug „I LOVE AKTAU“ ist ein modernes Denkmal in Aqtau. Es ist ein beliebter Ort für Besucher und Einheimische, um Fotos zu machen.",
+                  "category": "historical",
+                  "coords": [
+                        51.14649,
+                        43.645907
+                  ]
+            },
+            {
+                  "name": "Скальная тропа",
+                  "text": "Skalnaja Tropa ist eine landschaftliche Attraktion in Aqtau. Sie bietet Besuchern einen Wanderweg mit schöner Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        51.166525,
+                        43.626124
+                  ]
+            },
+            {
+                  "name": "Флагшток",
+                  "text": "Der Fahnenmast ist eine markante Attraktion in der Stadt Aqtau. Er dient als visuelles Wahrzeichen der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        51.147972,
+                        43.656153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "RC Melovoy",
+                  "text": "Az RC Melovoy egy világítótorony Aqtau városában. Navigációs segédeszközként áll a parton.",
+                  "category": "landmark",
+                  "coords": [
+                        51.164658,
+                        43.62919
+                  ]
+            },
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "A Történeti és Helytörténeti Múzeum Aqtau városában található. A régió történelmét és kulturális tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        51.154307,
+                        43.64929
+                  ]
+            },
+            {
+                  "name": "Музыкально-драматический театр им.Нурмухана Жантурина",
+                  "text": "A Nurmuhan Zsanturin Zenei és Drámai Színház egy kulturális intézmény Aqtau-ban. Különböző előadó-művészeti produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158116,
+                        43.647731
+                  ]
+            },
+            {
+                  "name": "Ақтау қаласындағы Оскинбаев атындағы филармония",
+                  "text": "Az Területi Filharmónia Koncertterme egy színház Aqtau városában. A város kiemelkedő helyszíne zenei előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        51.157749,
+                        43.636489
+                  ]
+            },
+            {
+                  "name": "Маңғыстау Тәжірибелік Ботаника Бағы",
+                  "text": "A Mangisztau Kísérleti Botanikus Kert egy jelentős kert Aqtau-ban. A regionális növényvilág változatos gyűjteményét mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        51.161135,
+                        43.651138
+                  ]
+            },
+            {
+                  "name": "Ынтымак",
+                  "text": "A Yntymak egy emlékmű Aqtau városában. Nyilvános tájékozódási pontként szolgál a városképben.",
+                  "category": "historical",
+                  "coords": [
+                        51.149761,
+                        43.654379
+                  ]
+            },
+            {
+                  "name": "Обелиск пограничникам Казахстана",
+                  "text": "A Kazahsztáni Határőrök Obeliszkje egy emlékmű Aqtau-ban. A nemzet határőrizeti személyzetének szolgálatának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        51.172308,
+                        43.63448
+                  ]
+            },
+            {
+                  "name": "'I LOVE AKTAU'",
+                  "text": "Az 'I LOVE AKTAU' felirat egy modern emlékmű Aqtau városában. Népszerű hely a látogatók és a helyiek számára fényképezkedéshez.",
+                  "category": "historical",
+                  "coords": [
+                        51.14649,
+                        43.645907
+                  ]
+            },
+            {
+                  "name": "Скальная тропа",
+                  "text": "A Szkalnaja Tropa egy festői látványosság Aqtau-ban. Gyönyörű kilátást nyújtó sétányt kínál a látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        51.166525,
+                        43.626124
+                  ]
+            },
+            {
+                  "name": "Флагшток",
+                  "text": "A Zászlórúd egy kiemelkedő látványosság Aqtau városában. Vizuális tájékozódási pontként szolgál a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        51.147972,
+                        43.656153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "RC Melovoy",
+                  "text": "RC Melovoy este un far situat în orașul Aqtau. Acesta servește drept reper de navigație pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.164658,
+                        43.62919
+                  ]
+            },
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "Muzeul de Istorie și Etnografie este un muzeu situat în Aqtau. Acesta expune istoria regională și artefacte culturale.",
+                  "category": "museum",
+                  "coords": [
+                        51.154307,
+                        43.64929
+                  ]
+            },
+            {
+                  "name": "Музыкально-драматический театр им.Нурмухана Жантурина",
+                  "text": "Teatrul de Muzică și Dramă Nurmukhan Zhanturin este un spațiu cultural situat în Aqtau. Acesta găzduiește diverse producții de arte ale spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158116,
+                        43.647731
+                  ]
+            },
+            {
+                  "name": "Ақтау қаласындағы Оскинбаев атындағы филармония",
+                  "text": "Sala de Concerte a Filarmonicii Regionale este un teatru situat în Aqtau. Este o locație proeminentă pentru spectacole muzicale din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        51.157749,
+                        43.636489
+                  ]
+            },
+            {
+                  "name": "Маңғыстау Тәжірибелік Ботаника Бағы",
+                  "text": "Grădina Botanică Experimentală Mangystau este o grădină notabilă situată în Aqtau. Aceasta prezintă o colecție diversă de floră regională.",
+                  "category": "park",
+                  "coords": [
+                        51.161135,
+                        43.651138
+                  ]
+            },
+            {
+                  "name": "Ынтымак",
+                  "text": "Yntymak este un monument situat în orașul Aqtau. Acesta reprezintă un punct de reper public în peisajul urban.",
+                  "category": "historical",
+                  "coords": [
+                        51.149761,
+                        43.654379
+                  ]
+            },
+            {
+                  "name": "Обелиск пограничникам Казахстана",
+                  "text": "Obeliscul Grănicerilor din Kazahstan este un monument situat în Aqtau. Acesta comemorează serviciul personalului de control la frontieră al națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        51.172308,
+                        43.63448
+                  ]
+            },
+            {
+                  "name": "'I LOVE AKTAU'",
+                  "text": "Semnul „I LOVE AKTAU” este un monument modern situat în Aqtau. Este un loc popular pentru vizitatori și localnici pentru a face fotografii.",
+                  "category": "historical",
+                  "coords": [
+                        51.14649,
+                        43.645907
+                  ]
+            },
+            {
+                  "name": "Скальная тропа",
+                  "text": "Skalnaya Tropa este o atracție pitorească situată în Aqtau. Aceasta oferă vizitatorilor o alee de promenadă cu vederi frumoase.",
+                  "category": "landmark",
+                  "coords": [
+                        51.166525,
+                        43.626124
+                  ]
+            },
+            {
+                  "name": "Флагшток",
+                  "text": "Catargul este o atracție proeminentă situată în orașul Aqtau. Acesta servește drept reper vizual în zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        51.147972,
+                        43.656153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "RC Melovoy",
+                  "text": "RC Melovoy is a lighthouse located in the city of Aqtau. It stands as a navigational aid on the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        51.164658,
+                        43.62919
+                  ]
+            },
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "The Museum of History and Local Lore is a museum situated in Aqtau. It showcases regional history and cultural artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        51.154307,
+                        43.64929
+                  ]
+            },
+            {
+                  "name": "Музыкально-драматический театр им.Нурмухана Жантурина",
+                  "text": "The Nurmukhan Zhanturin Music and Drama Theatre is a cultural venue located in Aqtau. It hosts various performing arts productions.",
+                  "category": "cultural",
+                  "coords": [
+                        51.158116,
+                        43.647731
+                  ]
+            },
+            {
+                  "name": "Oblast Philharmonic Concert Hall",
+                  "text": "The Oblast Philharmonic Concert Hall is a theatre situated in Aqtau. It is a prominent location for musical performances in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        51.157749,
+                        43.636489
+                  ]
+            },
+            {
+                  "name": "Маңғыстау Тәжірибелік Ботаника Бағы",
+                  "text": "The Mangystau Experimental Botanical Garden is a notable garden located in Aqtau. It features a diverse collection of regional flora.",
+                  "category": "park",
+                  "coords": [
+                        51.161135,
+                        43.651138
+                  ]
+            },
+            {
+                  "name": "Ынтымак",
+                  "text": "Yntymak is a monument located in the city of Aqtau. It stands as a public landmark in the urban landscape.",
+                  "category": "historical",
+                  "coords": [
+                        51.149761,
+                        43.654379
+                  ]
+            },
+            {
+                  "name": "Обелиск пограничникам Казахстана",
+                  "text": "The Obelisk to the Border Guards of Kazakhstan is a monument situated in Aqtau. It commemorates the service of the nation's border control personnel.",
+                  "category": "historical",
+                  "coords": [
+                        51.172308,
+                        43.63448
+                  ]
+            },
+            {
+                  "name": "'I LOVE AKTAU'",
+                  "text": "The 'I LOVE AKTAU' sign is a modern monument located in Aqtau. It is a popular spot for visitors and locals to take photographs.",
+                  "category": "historical",
+                  "coords": [
+                        51.14649,
+                        43.645907
+                  ]
+            },
+            {
+                  "name": "Скальная тропа",
+                  "text": "Skalnaya Tropa is a scenic attraction situated in Aqtau. It offers visitors a walking path with beautiful views.",
+                  "category": "landmark",
+                  "coords": [
+                        51.166525,
+                        43.626124
+                  ]
+            },
+            {
+                  "name": "Флагшток",
+                  "text": "The Flagpole is a prominent attraction located in the city of Aqtau. It serves as a visual landmark in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        51.147972,
+                        43.656153
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-47",
     coords: [51.1600, 43.6500],
@@ -657,7 +5499,160 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "temirtau-cities-v2",
+    id: "temirtau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Городской краеведческий музей",
+                  "text": "Городской краеведческий музей ist ein Museum in Temirtau.",
+                  "category": "museum",
+                  "coords": [
+                        72.964271,
+                        50.053583
+                  ]
+            },
+            {
+                  "name": "Городской дворец культуры",
+                  "text": "Городской дворец культуры ist ein Theater in Temirtau.",
+                  "category": "cultural",
+                  "coords": [
+                        72.972409,
+                        50.066868
+                  ]
+            },
+            {
+                  "name": "Историко-культурный центр первого Президента РК",
+                  "text": "Историко-культурный центр первого Президента РК ist ein Museum in Temirtau.",
+                  "category": "museum",
+                  "coords": [
+                        72.970682,
+                        50.066242
+                  ]
+            },
+            {
+                  "name": "Неизвестный солдат",
+                  "text": "Неизвестный солдат ist ein Denkmal in Temirtau.",
+                  "category": "historical",
+                  "coords": [
+                        72.952466,
+                        50.061288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Городской краеведческий музей",
+                  "text": "A Городской краеведческий музей egy múzeum Temirtauban.",
+                  "category": "museum",
+                  "coords": [
+                        72.964271,
+                        50.053583
+                  ]
+            },
+            {
+                  "name": "Городской дворец культуры",
+                  "text": "A Городской дворец культуры egy színház Temirtauban.",
+                  "category": "cultural",
+                  "coords": [
+                        72.972409,
+                        50.066868
+                  ]
+            },
+            {
+                  "name": "Историко-культурный центр первого Президента РК",
+                  "text": "A Историко-культурный центр первого Президента РК egy múzeum Temirtauban.",
+                  "category": "museum",
+                  "coords": [
+                        72.970682,
+                        50.066242
+                  ]
+            },
+            {
+                  "name": "Неизвестный солдат",
+                  "text": "A Неизвестный солдат egy emlékmű Temirtauban.",
+                  "category": "historical",
+                  "coords": [
+                        72.952466,
+                        50.061288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Городской краеведческий музей",
+                  "text": "Городской краеведческий музей este un muzeu în Temirtau.",
+                  "category": "museum",
+                  "coords": [
+                        72.964271,
+                        50.053583
+                  ]
+            },
+            {
+                  "name": "Городской дворец культуры",
+                  "text": "Городской дворец культуры este un teatru în Temirtau.",
+                  "category": "cultural",
+                  "coords": [
+                        72.972409,
+                        50.066868
+                  ]
+            },
+            {
+                  "name": "Историко-культурный центр первого Президента РК",
+                  "text": "Историко-культурный центр первого Президента РК este un muzeu în Temirtau.",
+                  "category": "museum",
+                  "coords": [
+                        72.970682,
+                        50.066242
+                  ]
+            },
+            {
+                  "name": "Неизвестный солдат",
+                  "text": "Неизвестный солдат este un monument în Temirtau.",
+                  "category": "historical",
+                  "coords": [
+                        72.952466,
+                        50.061288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Городской краеведческий музей",
+                  "text": "Городской краеведческий музей is a museum situated in Temirtau.",
+                  "category": "museum",
+                  "coords": [
+                        72.964271,
+                        50.053583
+                  ]
+            },
+            {
+                  "name": "Городской дворец культуры",
+                  "text": "Городской дворец культуры is a theatre found in Temirtau.",
+                  "category": "cultural",
+                  "coords": [
+                        72.972409,
+                        50.066868
+                  ]
+            },
+            {
+                  "name": "Историко-культурный центр первого Президента РК",
+                  "text": "Историко-культурный центр первого Президента РК is a museum situated in Temirtau.",
+                  "category": "museum",
+                  "coords": [
+                        72.970682,
+                        50.066242
+                  ]
+            },
+            {
+                  "name": "Неизвестный солдат",
+                  "text": "Неизвестный солдат is a monument found in Temirtau.",
+                  "category": "historical",
+                  "coords": [
+                        72.952466,
+                        50.061288
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-35",
     coords: [72.9667, 50.0667],
@@ -701,7 +5696,808 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "turkistan-cities-v2",
+    id: "turkistan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "«Әзірет Сұлтан» Ұлттық тарихи-мәдени музей-қорығы",
+                  "text": "Archäologische Stätte in Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.268723,
+                        43.294619
+                  ]
+            },
+            {
+                  "name": "Этнографиялық Мұражай",
+                  "text": "Ethnographisches Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.271326,
+                        43.298444
+                  ]
+            },
+            {
+                  "name": "Шығыс Моншасы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.272153,
+                        43.296241
+                  ]
+            },
+            {
+                  "name": "Тұңғыш Президент Мұражайы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.275594,
+                        43.29951
+                  ]
+            },
+            {
+                  "name": "Гол+Пас БК",
+                  "text": "Freizeitpark in Turkestan.",
+                  "category": "recreational",
+                  "coords": [
+                        68.293856,
+                        43.28964
+                  ]
+            },
+            {
+                  "name": "Назир Торекулулы музей",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.276146,
+                        43.30148
+                  ]
+            },
+            {
+                  "name": "Музей туркологии им. Б.Кенжебайулы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.293118,
+                        43.291588
+                  ]
+            },
+            {
+                  "name": "Ұлы Дала Елі Мұражайы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.275795,
+                        43.296129
+                  ]
+            },
+            {
+                  "name": "Мәдениет сарайы",
+                  "text": "Theater in Turkestan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.299523,
+                        43.289908
+                  ]
+            },
+            {
+                  "name": "Түркістан Мұражайы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.27389,
+                        43.299026
+                  ]
+            },
+            {
+                  "name": "Түркістан музыкалық драма театры",
+                  "text": "Theater in Turkestan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.278694,
+                        43.297332
+                  ]
+            },
+            {
+                  "name": "\"Әзірет Сұлтан\" Ұлттық Тарихи-Мәдени Мұражай Қорығы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.274485,
+                        43.295316
+                  ]
+            },
+            {
+                  "name": "Қожа Ахмет Ясауи мұражайы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.275591,
+                        43.294441
+                  ]
+            },
+            {
+                  "name": "Алтын Самұрық театры",
+                  "text": "Theater in Turkestan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.278617,
+                        43.294013
+                  ]
+            },
+            {
+                  "name": "Әзрет-Сұлтан Мұражайы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.262172,
+                        43.296565
+                  ]
+            },
+            {
+                  "name": "Түркістан көне қалашығы Кіреберісі",
+                  "text": "Denkmal in Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.269129,
+                        43.30055
+                  ]
+            },
+            {
+                  "name": "Түйе керуені",
+                  "text": "Attraktion in Turkestan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.270402,
+                        43.296668
+                  ]
+            },
+            {
+                  "name": "Сәулет ескерткіші",
+                  "text": "Architekturdenkmal in Turkestan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.268894,
+                        43.297545
+                  ]
+            },
+            {
+                  "name": "Көлтөбе көне қалашығы",
+                  "text": "Antike Siedlung Költöbe bei Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.271084,
+                        43.29336
+                  ]
+            },
+            {
+                  "name": "Тақия кіребересі",
+                  "text": "Denkmal in Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.266048,
+                        43.292879
+                  ]
+            },
+            {
+                  "name": "Шілдехана",
+                  "text": "Denkmal in Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.27031,
+                        43.297903
+                  ]
+            },
+            {
+                  "name": "Хан Ордасы",
+                  "text": "Attraktion in Turkestan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266005,
+                        43.297647
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "«Әзірет Сұлтан» Ұлттық тарихи-мәдени музей-қорығы",
+                  "text": "Régészeti lelőhely Turkestanban.",
+                  "category": "historical",
+                  "coords": [
+                        68.268723,
+                        43.294619
+                  ]
+            },
+            {
+                  "name": "Этнографиялық Мұражай",
+                  "text": "Néprajzi múzeum Turkestanban.",
+                  "category": "museum",
+                  "coords": [
+                        68.271326,
+                        43.298444
+                  ]
+            },
+            {
+                  "name": "Шығыс Моншасы",
+                  "text": "Múzeum Turkestanban.",
+                  "category": "museum",
+                  "coords": [
+                        68.272153,
+                        43.296241
+                  ]
+            },
+            {
+                  "name": "Тұңғыш Президент Мұражайы",
+                  "text": "Múzeum Turkestanban.",
+                  "category": "museum",
+                  "coords": [
+                        68.275594,
+                        43.29951
+                  ]
+            },
+            {
+                  "name": "Гол+Пас БК",
+                  "text": "Vidámpark Turkestanban.",
+                  "category": "recreational",
+                  "coords": [
+                        68.293856,
+                        43.28964
+                  ]
+            },
+            {
+                  "name": "Назир Торекулулы музей",
+                  "text": "Múzeum Turkestanban.",
+                  "category": "museum",
+                  "coords": [
+                        68.276146,
+                        43.30148
+                  ]
+            },
+            {
+                  "name": "Музей туркологии им. Б.Кенжебайулы",
+                  "text": "Múzeum Turkestanban.",
+                  "category": "museum",
+                  "coords": [
+                        68.293118,
+                        43.291588
+                  ]
+            },
+            {
+                  "name": "Ұлы Дала Елі Мұражайы",
+                  "text": "Múzeum Turkestanban.",
+                  "category": "museum",
+                  "coords": [
+                        68.275795,
+                        43.296129
+                  ]
+            },
+            {
+                  "name": "Мәдениет сарайы",
+                  "text": "Színház Turkestanban.",
+                  "category": "cultural",
+                  "coords": [
+                        68.299523,
+                        43.289908
+                  ]
+            },
+            {
+                  "name": "Түркістан Мұражайы",
+                  "text": "Múzeum Turkestanban.",
+                  "category": "museum",
+                  "coords": [
+                        68.27389,
+                        43.299026
+                  ]
+            },
+            {
+                  "name": "Түркістан музыкалық драма театры",
+                  "text": "Színház Turkestanban.",
+                  "category": "cultural",
+                  "coords": [
+                        68.278694,
+                        43.297332
+                  ]
+            },
+            {
+                  "name": "\"Әзірет Сұлтан\" Ұлттық Тарихи-Мәдени Мұражай Қорығы",
+                  "text": "Múzeum Turkestanban.",
+                  "category": "museum",
+                  "coords": [
+                        68.274485,
+                        43.295316
+                  ]
+            },
+            {
+                  "name": "Қожа Ахмет Ясауи мұражайы",
+                  "text": "Múzeum Turkestanban.",
+                  "category": "museum",
+                  "coords": [
+                        68.275591,
+                        43.294441
+                  ]
+            },
+            {
+                  "name": "Алтын Самұрық театры",
+                  "text": "Színház Turkestanban.",
+                  "category": "cultural",
+                  "coords": [
+                        68.278617,
+                        43.294013
+                  ]
+            },
+            {
+                  "name": "Әзрет-Сұлтан Мұражайы",
+                  "text": "Múzeum Turkestanban.",
+                  "category": "museum",
+                  "coords": [
+                        68.262172,
+                        43.296565
+                  ]
+            },
+            {
+                  "name": "Түркістан көне қалашығы Кіреберісі",
+                  "text": "Emlékmű Turkestanban.",
+                  "category": "historical",
+                  "coords": [
+                        68.269129,
+                        43.30055
+                  ]
+            },
+            {
+                  "name": "Түйе керуені",
+                  "text": "Látványosság Turkestanban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.270402,
+                        43.296668
+                  ]
+            },
+            {
+                  "name": "Сәулет ескерткіші",
+                  "text": "Építészeti emlékmű Turkesztánban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.268894,
+                        43.297545
+                  ]
+            },
+            {
+                  "name": "Көлтөбе көне қалашығы",
+                  "text": "Költöbe ősi települése Turkesztán közelében.",
+                  "category": "historical",
+                  "coords": [
+                        68.271084,
+                        43.29336
+                  ]
+            },
+            {
+                  "name": "Тақия кіребересі",
+                  "text": "Műemlék Turkesztánban.",
+                  "category": "historical",
+                  "coords": [
+                        68.266048,
+                        43.292879
+                  ]
+            },
+            {
+                  "name": "Шілдехана",
+                  "text": "Műemlék Turkesztánban.",
+                  "category": "historical",
+                  "coords": [
+                        68.27031,
+                        43.297903
+                  ]
+            },
+            {
+                  "name": "Хан Ордасы",
+                  "text": "Látnivaló Turkesztánban.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266005,
+                        43.297647
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "«Әзірет Сұлтан» Ұлттық тарихи-мәдени музей-қорығы",
+                  "text": "Situl arheologic în Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.268723,
+                        43.294619
+                  ]
+            },
+            {
+                  "name": "Этнографиялық Мұражай",
+                  "text": "Muzeu etnografic în Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.271326,
+                        43.298444
+                  ]
+            },
+            {
+                  "name": "Шығыс Моншасы",
+                  "text": "Muzeu în Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.272153,
+                        43.296241
+                  ]
+            },
+            {
+                  "name": "Тұңғыш Президент Мұражайы",
+                  "text": "Muzeu în Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.275594,
+                        43.29951
+                  ]
+            },
+            {
+                  "name": "Гол+Пас БК",
+                  "text": "Parc de distracții în Turkestan.",
+                  "category": "recreational",
+                  "coords": [
+                        68.293856,
+                        43.28964
+                  ]
+            },
+            {
+                  "name": "Назир Торекулулы музей",
+                  "text": "Muzeu în Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.276146,
+                        43.30148
+                  ]
+            },
+            {
+                  "name": "Музей туркологии им. Б.Кенжебайулы",
+                  "text": "Muzeu în Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.293118,
+                        43.291588
+                  ]
+            },
+            {
+                  "name": "Ұлы Дала Елі Мұражайы",
+                  "text": "Muzeu în Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.275795,
+                        43.296129
+                  ]
+            },
+            {
+                  "name": "Мәдениет сарайы",
+                  "text": "Teatru în Turkestan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.299523,
+                        43.289908
+                  ]
+            },
+            {
+                  "name": "Түркістан Мұражайы",
+                  "text": "Muzeu în Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.27389,
+                        43.299026
+                  ]
+            },
+            {
+                  "name": "Түркістан музыкалық драма театры",
+                  "text": "Teatru în Turkestan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.278694,
+                        43.297332
+                  ]
+            },
+            {
+                  "name": "\"Әзірет Сұлтан\" Ұлттық Тарихи-Мәдени Мұражай Қорығы",
+                  "text": "Muzeu în Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.274485,
+                        43.295316
+                  ]
+            },
+            {
+                  "name": "Қожа Ахмет Ясауи мұражайы",
+                  "text": "Muzeu în Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.275591,
+                        43.294441
+                  ]
+            },
+            {
+                  "name": "Алтын Самұрық театры",
+                  "text": "Teatru în Turkestan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.278617,
+                        43.294013
+                  ]
+            },
+            {
+                  "name": "Әзрет-Сұлтан Мұражайы",
+                  "text": "Muzeu în Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.262172,
+                        43.296565
+                  ]
+            },
+            {
+                  "name": "Түркістан көне қалашығы Кіреберісі",
+                  "text": "Monument în Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.269129,
+                        43.30055
+                  ]
+            },
+            {
+                  "name": "Түйе керуені",
+                  "text": "Atracție în Turkestan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.270402,
+                        43.296668
+                  ]
+            },
+            {
+                  "name": "Сәулет ескерткіші",
+                  "text": "Monument de arhitectură în Turkestan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.268894,
+                        43.297545
+                  ]
+            },
+            {
+                  "name": "Көлтөбе көне қалашығы",
+                  "text": "Așezarea antică Költöbe lângă Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.271084,
+                        43.29336
+                  ]
+            },
+            {
+                  "name": "Тақия кіребересі",
+                  "text": "Monument în Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.266048,
+                        43.292879
+                  ]
+            },
+            {
+                  "name": "Шілдехана",
+                  "text": "Monument în Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.27031,
+                        43.297903
+                  ]
+            },
+            {
+                  "name": "Хан Ордасы",
+                  "text": "Atracție în Turkestan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266005,
+                        43.297647
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "«Әзірет Сұлтан» Ұлттық тарихи-мәдени музей-қорығы",
+                  "text": "Archaeological site in Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.268723,
+                        43.294619
+                  ]
+            },
+            {
+                  "name": "Этнографиялық Мұражай",
+                  "text": "Ethnographic museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.271326,
+                        43.298444
+                  ]
+            },
+            {
+                  "name": "Шығыс Моншасы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.272153,
+                        43.296241
+                  ]
+            },
+            {
+                  "name": "Тұңғыш Президент Мұражайы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.275594,
+                        43.29951
+                  ]
+            },
+            {
+                  "name": "Гол+Пас БК",
+                  "text": "Theme park in Turkestan.",
+                  "category": "recreational",
+                  "coords": [
+                        68.293856,
+                        43.28964
+                  ]
+            },
+            {
+                  "name": "Назир Торекулулы музей",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.276146,
+                        43.30148
+                  ]
+            },
+            {
+                  "name": "Музей туркологии им. Б.Кенжебайулы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.293118,
+                        43.291588
+                  ]
+            },
+            {
+                  "name": "Great Steppe Country Center",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.275795,
+                        43.296129
+                  ]
+            },
+            {
+                  "name": "Мәдениет сарайы",
+                  "text": "Theatre in Turkestan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.299523,
+                        43.289908
+                  ]
+            },
+            {
+                  "name": "Түркістан Мұражайы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.27389,
+                        43.299026
+                  ]
+            },
+            {
+                  "name": "The Turkestan Music and Drama Theater",
+                  "text": "Theatre in Turkestan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.278694,
+                        43.297332
+                  ]
+            },
+            {
+                  "name": "\"Әзірет Сұлтан\" Ұлттық Тарихи-Мәдени Мұражай Қорығы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.274485,
+                        43.295316
+                  ]
+            },
+            {
+                  "name": "Қожа Ахмет Ясауи мұражайы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.275591,
+                        43.294441
+                  ]
+            },
+            {
+                  "name": "Алтын Самұрық театры",
+                  "text": "Theatre in Turkestan.",
+                  "category": "cultural",
+                  "coords": [
+                        68.278617,
+                        43.294013
+                  ]
+            },
+            {
+                  "name": "Әзрет-Сұлтан Мұражайы",
+                  "text": "Museum in Turkestan.",
+                  "category": "museum",
+                  "coords": [
+                        68.262172,
+                        43.296565
+                  ]
+            },
+            {
+                  "name": "Түркістан көне қалашығы Кіреберісі",
+                  "text": "Monument in Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.269129,
+                        43.30055
+                  ]
+            },
+            {
+                  "name": "Түйе керуені",
+                  "text": "Attraction in Turkestan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.270402,
+                        43.296668
+                  ]
+            },
+            {
+                  "name": "Сәулет ескерткіші",
+                  "text": "Architectural monument in Turkestan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.268894,
+                        43.297545
+                  ]
+            },
+            {
+                  "name": "Көлтөбе көне қалашығы",
+                  "text": "Ancient settlement of Költöbe near Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.271084,
+                        43.29336
+                  ]
+            },
+            {
+                  "name": "Тақия кіребересі",
+                  "text": "Monument in Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.266048,
+                        43.292879
+                  ]
+            },
+            {
+                  "name": "Шілдехана",
+                  "text": "Monument in Turkestan.",
+                  "category": "historical",
+                  "coords": [
+                        68.27031,
+                        43.297903
+                  ]
+            },
+            {
+                  "name": "Хан Ордасы",
+                  "text": "Attraction in Turkestan.",
+                  "category": "landmark",
+                  "coords": [
+                        68.266005,
+                        43.297647
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-61",
     coords: [68.2707, 43.2973],
@@ -833,7 +6629,232 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "ekibastuz-cities-v2",
+    id: "ekibastuz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "Historisches und heimatkundliches Museum in Ekibastus.",
+                  "category": "museum",
+                  "coords": [
+                        75.317677,
+                        51.734069
+                  ]
+            },
+            {
+                  "name": "ГЦК \"Онер\"",
+                  "text": "Theater in Ekibastus.",
+                  "category": "cultural",
+                  "coords": [
+                        75.293721,
+                        51.722429
+                  ]
+            },
+            {
+                  "name": "Памятник жертвам политических репрессий",
+                  "text": "Denkmal für die Opfer politischer Repressionen in Ekibastus.",
+                  "category": "historical",
+                  "coords": [
+                        75.324449,
+                        51.71944
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Riesenrad in Ekibastus.",
+                  "category": "landmark",
+                  "coords": [
+                        75.321774,
+                        51.721041
+                  ]
+            },
+            {
+                  "name": "Мешіті",
+                  "text": "Moschee in Ekibastus.",
+                  "category": "religious",
+                  "coords": [
+                        75.309316,
+                        51.713117
+                  ]
+            },
+            {
+                  "name": "Серафимо-Иверский собор",
+                  "text": "Serafimo-Iverski-Kathedrale in Ekibastus.",
+                  "category": "religious",
+                  "coords": [
+                        75.290494,
+                        51.723851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "Helytörténeti múzeum Ekibastusban.",
+                  "category": "museum",
+                  "coords": [
+                        75.317677,
+                        51.734069
+                  ]
+            },
+            {
+                  "name": "ГЦК \"Онер\"",
+                  "text": "Színház Ekibastusban.",
+                  "category": "cultural",
+                  "coords": [
+                        75.293721,
+                        51.722429
+                  ]
+            },
+            {
+                  "name": "Памятник жертвам политических репрессий",
+                  "text": "Emlékmű a politikai elnyomás áldozatainak Ekibastusban.",
+                  "category": "historical",
+                  "coords": [
+                        75.324449,
+                        51.71944
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Óriáskerék Ekibastusban.",
+                  "category": "landmark",
+                  "coords": [
+                        75.321774,
+                        51.721041
+                  ]
+            },
+            {
+                  "name": "Мешіті",
+                  "text": "Mecset Ekibastusban.",
+                  "category": "religious",
+                  "coords": [
+                        75.309316,
+                        51.713117
+                  ]
+            },
+            {
+                  "name": "Серафимо-Иверский собор",
+                  "text": "Szeráf-Iveron székesegyház Ekibastusban.",
+                  "category": "religious",
+                  "coords": [
+                        75.290494,
+                        51.723851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "Muzeu de istorie locală în Ekibastus.",
+                  "category": "museum",
+                  "coords": [
+                        75.317677,
+                        51.734069
+                  ]
+            },
+            {
+                  "name": "ГЦК \"Онер\"",
+                  "text": "Teatru în Ekibastus.",
+                  "category": "cultural",
+                  "coords": [
+                        75.293721,
+                        51.722429
+                  ]
+            },
+            {
+                  "name": "Памятник жертвам политических репрессий",
+                  "text": "Monument dedicat victimelor represiunilor politice în Ekibastus.",
+                  "category": "historical",
+                  "coords": [
+                        75.324449,
+                        51.71944
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Roată panoramică în Ekibastus.",
+                  "category": "landmark",
+                  "coords": [
+                        75.321774,
+                        51.721041
+                  ]
+            },
+            {
+                  "name": "Мешіті",
+                  "text": "Moschee în Ekibastus.",
+                  "category": "religious",
+                  "coords": [
+                        75.309316,
+                        51.713117
+                  ]
+            },
+            {
+                  "name": "Серафимо-Иверский собор",
+                  "text": "Catedrala Serafimo-Iverski din Ekibastus.",
+                  "category": "religious",
+                  "coords": [
+                        75.290494,
+                        51.723851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "Local history museum in Ekibastus.",
+                  "category": "museum",
+                  "coords": [
+                        75.317677,
+                        51.734069
+                  ]
+            },
+            {
+                  "name": "ГЦК \"Онер\"",
+                  "text": "Theatre in Ekibastus.",
+                  "category": "cultural",
+                  "coords": [
+                        75.293721,
+                        51.722429
+                  ]
+            },
+            {
+                  "name": "Памятник жертвам политических репрессий",
+                  "text": "Monument to victims of political repression in Ekibastus.",
+                  "category": "historical",
+                  "coords": [
+                        75.324449,
+                        51.71944
+                  ]
+            },
+            {
+                  "name": "Колесо обозрения",
+                  "text": "Ferris wheel in Ekibastus.",
+                  "category": "landmark",
+                  "coords": [
+                        75.321774,
+                        51.721041
+                  ]
+            },
+            {
+                  "name": "Мешіті",
+                  "text": "Mosque in Ekibastus.",
+                  "category": "religious",
+                  "coords": [
+                        75.309316,
+                        51.713117
+                  ]
+            },
+            {
+                  "name": "Серафимо-Иверский собор",
+                  "text": "Serafimo-Iverski Cathedral in Ekibastus.",
+                  "category": "religious",
+                  "coords": [
+                        75.290494,
+                        51.723851
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-55",
     coords: [75.3266, 51.7289],
@@ -1009,7 +7030,412 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "balkhash-cities-v2",
+    id: "balkhash-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музей",
+                  "text": "Dieses örtliche Museum ist eine kulturelle Einrichtung in Balchasch. Es bietet Ausstellungen zur Geschichte und zum Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        74.97665,
+                        46.847248
+                  ]
+            },
+            {
+                  "name": "Аттракционы",
+                  "text": "Der Attraktionsbereich ist ein Freizeitpark in Balchasch. Er bietet Fahrgeschäfte und Unterhaltung für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        74.978074,
+                        46.833987
+                  ]
+            },
+            {
+                  "name": "Пляж Героев",
+                  "text": "Der Strand der Helden ist ein öffentlicher Strand in der Stadt Balchasch. Er ist ein Ort der Entspannung und für Wasseraktivitäten am See.",
+                  "category": "recreational",
+                  "coords": [
+                        74.981349,
+                        46.83295
+                  ]
+            },
+            {
+                  "name": "Чёртово Место",
+                  "text": "Tschertowo Mesto ist ein Strandabschnitt in Balchasch. Er bietet Besuchern die Möglichkeit, das natürliche Ufer zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        74.975835,
+                        46.832276
+                  ]
+            },
+            {
+                  "name": "Строителям Балхаша",
+                  "text": "Das Denkmal für die Erbauer von Balchasch ist ein bedeutendes Monument in Balchasch. Es ehrt die Menschen, die die Stadt errichtet haben.",
+                  "category": "historical",
+                  "coords": [
+                        74.974237,
+                        46.833471
+                  ]
+            },
+            {
+                  "name": "Қараменді Би ескерткіші",
+                  "text": "Das Karamendi-Bi-Denkmal befindet sich in der Stadt Balchasch. Es erinnert an eine bedeutende historische Persönlichkeit der Region.",
+                  "category": "historical",
+                  "coords": [
+                        74.981793,
+                        46.843278
+                  ]
+            },
+            {
+                  "name": "Ағыбай батыр ескерткіші",
+                  "text": "Das Agybay-Batyr-Denkmal ist eine öffentliche Statue in Balchasch. Es ist einem berühmten kasachischen Helden gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        74.977374,
+                        46.843121
+                  ]
+            },
+            {
+                  "name": "Сағат",
+                  "text": "Sagat ist eine Attraktion in der Stadt Balchasch. Sie fungiert als lokaler Anziehungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        74.982431,
+                        46.845415
+                  ]
+            },
+            {
+                  "name": "Парадокс",
+                  "text": "Paradox ist ein interessant benanntes Denkmal in Balchasch. Es ist Teil der Skulpturensammlung im Freien der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        74.978011,
+                        46.838608
+                  ]
+            },
+            {
+                  "name": "Танк",
+                  "text": "Das Panzerdenkmal ist ein historisches Wahrzeichen in Balchasch. Es zeigt ein erhaltenes Militärfahrzeug, das dort ausgestellt ist.",
+                  "category": "historical",
+                  "coords": [
+                        74.982909,
+                        46.834378
+                  ]
+            },
+            {
+                  "name": "Chechengora",
+                  "text": "Chechengora ist ein landschaftlich reizvoller Aussichtspunkt in Balchasch. Er bietet Besuchern einen Panoramablick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        74.966956,
+                        46.82954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей",
+                  "text": "Ez a helyi múzeum egy kulturális intézmény Balhas városában. A környék történelméhez és örökségéhez kapcsolódó kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        74.97665,
+                        46.847248
+                  ]
+            },
+            {
+                  "name": "Аттракционы",
+                  "text": "A Látványosságok területe egy vidámpark Balhasban. Szórakoztató túrákat és kikapcsolódást nyújt a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        74.978074,
+                        46.833987
+                  ]
+            },
+            {
+                  "name": "Пляж Героев",
+                  "text": "A Hősök strandja egy nyilvános strand Balhas városában. A tóparti pihenés és vízi tevékenységek helyszíne.",
+                  "category": "recreational",
+                  "coords": [
+                        74.981349,
+                        46.83295
+                  ]
+            },
+            {
+                  "name": "Чёртово Место",
+                  "text": "A Csertovo Meszto egy partszakasz Balhasban. Lehetőséget biztosít a látogatóknak a természetes partvonal élvezetére.",
+                  "category": "recreational",
+                  "coords": [
+                        74.975835,
+                        46.832276
+                  ]
+            },
+            {
+                  "name": "Строителям Балхаша",
+                  "text": "A Balhas Építőinek Emlékműve egy jelentős emlékmű Balhasban. Tisztteleg a város építői előtt.",
+                  "category": "historical",
+                  "coords": [
+                        74.974237,
+                        46.833471
+                  ]
+            },
+            {
+                  "name": "Қараменді Би ескерткіші",
+                  "text": "A Karamendi Bi emlékmű Balhas városában található. A régió egy jelentős történelmi személyiségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        74.981793,
+                        46.843278
+                  ]
+            },
+            {
+                  "name": "Ағыбай батыр ескерткіші",
+                  "text": "Az Agibaj Batir emlékmű egy köztéri szobor Balhasban. Egy híres kazah hősnek van szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        74.977374,
+                        46.843121
+                  ]
+            },
+            {
+                  "name": "Сағат",
+                  "text": "A Szagat egy látványosság Balhas városában. Helyi érdekességként funkcionál.",
+                  "category": "landmark",
+                  "coords": [
+                        74.982431,
+                        46.845415
+                  ]
+            },
+            {
+                  "name": "Парадокс",
+                  "text": "A Paradox egy érdekes nevű emlékmű Balhasban. A város szabadtéri szoborgyűjteményének részét képezi.",
+                  "category": "historical",
+                  "coords": [
+                        74.978011,
+                        46.838608
+                  ]
+            },
+            {
+                  "name": "Танк",
+                  "text": "A Tank emlékmű egy történelmi nevezetesség Balhasban. Egy megőrzött katonai járművet mutat be a kiállításon.",
+                  "category": "historical",
+                  "coords": [
+                        74.982909,
+                        46.834378
+                  ]
+            },
+            {
+                  "name": "Chechengora",
+                  "text": "A Chechengora egy festői kilátó Balhasban. Panorámás kilátást nyújt a látogatóknak a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        74.966956,
+                        46.82954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей",
+                  "text": "Acest muzeu local este o instituție culturală situată în Balchasch. Acesta oferă expoziții legate de istoria și patrimoniul zonei.",
+                  "category": "museum",
+                  "coords": [
+                        74.97665,
+                        46.847248
+                  ]
+            },
+            {
+                  "name": "Аттракционы",
+                  "text": "Zona de Atracții este un parc tematic situat în Balchasch. Aceasta oferă plimbări de agrement și divertisment pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        74.978074,
+                        46.833987
+                  ]
+            },
+            {
+                  "name": "Пляж Героев",
+                  "text": "Plaja Eroilor este o plajă publică situată în orașul Balchasch. Este un loc pentru relaxare și activități acvatice pe malul lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        74.981349,
+                        46.83295
+                  ]
+            },
+            {
+                  "name": "Чёртово Место",
+                  "text": "Chertovo Mesto este o zonă de plajă situată în Balchasch. Aceasta oferă un loc vizitatorilor pentru a se bucura de țărmul natural.",
+                  "category": "recreational",
+                  "coords": [
+                        74.975835,
+                        46.832276
+                  ]
+            },
+            {
+                  "name": "Строителям Балхаша",
+                  "text": "Monumentul Constructorilor din Balchasch este un monument semnificativ în Balchasch. Acesta onorează persoanele care au construit orașul.",
+                  "category": "historical",
+                  "coords": [
+                        74.974237,
+                        46.833471
+                  ]
+            },
+            {
+                  "name": "Қараменді Би ескерткіші",
+                  "text": "Monumentul Karamendi Bi este situat în orașul Balchasch. Acesta comemorează o personalitate istorică notabilă a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        74.981793,
+                        46.843278
+                  ]
+            },
+            {
+                  "name": "Ағыбай батыр ескерткіші",
+                  "text": "Monumentul Agybay Batyr este o statuie publică situată în Balchasch. Este dedicată unui renumit erou kazah.",
+                  "category": "historical",
+                  "coords": [
+                        74.977374,
+                        46.843121
+                  ]
+            },
+            {
+                  "name": "Сағат",
+                  "text": "Sagat este o atracție care se găsește în orașul Balchasch. Aceasta funcționează ca un punct de interes local.",
+                  "category": "landmark",
+                  "coords": [
+                        74.982431,
+                        46.845415
+                  ]
+            },
+            {
+                  "name": "Парадокс",
+                  "text": "Paradox este un monument cu o denumire interesantă situat în Balchasch. Face parte din colecția de sculpturi în aer liber a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        74.978011,
+                        46.838608
+                  ]
+            },
+            {
+                  "name": "Танк",
+                  "text": "Monumentul Tancului este un reper istoric situat în Balchasch. Acesta prezintă un vehicul militar conservat expus.",
+                  "category": "historical",
+                  "coords": [
+                        74.982909,
+                        46.834378
+                  ]
+            },
+            {
+                  "name": "Chechengora",
+                  "text": "Chechengora este un punct de belvedere pitoresc situat în Balchasch. Oferă vizitatorilor priveliști panoramice ale zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        74.966956,
+                        46.82954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Музей",
+                  "text": "This local museum is a cultural institution situated in Balchasch. It offers exhibits related to the area's history and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        74.97665,
+                        46.847248
+                  ]
+            },
+            {
+                  "name": "Аттракционы",
+                  "text": "The Attractions area is a theme park located in Balchasch. It provides amusement rides and entertainment for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        74.978074,
+                        46.833987
+                  ]
+            },
+            {
+                  "name": "Пляж Героев",
+                  "text": "Heroes' Beach is a public beach situated in the city of Balchasch. It is a place for relaxation and water activities by the lake.",
+                  "category": "recreational",
+                  "coords": [
+                        74.981349,
+                        46.83295
+                  ]
+            },
+            {
+                  "name": "Чёртово Место",
+                  "text": "Chertovo Mesto is a beach area located in Balchasch. It provides a spot for visitors to enjoy the natural shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        74.975835,
+                        46.832276
+                  ]
+            },
+            {
+                  "name": "Строителям Балхаша",
+                  "text": "The Monument to the Builders of Balkhash is a significant monument in Balchasch. It honors the people who constructed the city.",
+                  "category": "historical",
+                  "coords": [
+                        74.974237,
+                        46.833471
+                  ]
+            },
+            {
+                  "name": "Қараменді Би ескерткіші",
+                  "text": "The Karamendi Bi Monument is located in the city of Balchasch. It commemorates a notable historical figure of the region.",
+                  "category": "historical",
+                  "coords": [
+                        74.981793,
+                        46.843278
+                  ]
+            },
+            {
+                  "name": "Ағыбай батыр ескерткіші",
+                  "text": "The Agybay Batyr Monument is a public statue situated in Balchasch. It is dedicated to a renowned Kazakh hero.",
+                  "category": "historical",
+                  "coords": [
+                        74.977374,
+                        46.843121
+                  ]
+            },
+            {
+                  "name": "Сағат",
+                  "text": "Sagat is an attraction found in the city of Balchasch. It functions as a local point of interest.",
+                  "category": "landmark",
+                  "coords": [
+                        74.982431,
+                        46.845415
+                  ]
+            },
+            {
+                  "name": "Парадокс",
+                  "text": "Paradox is an interestingly named monument located in Balchasch. It forms part of the city's outdoor sculptural collection.",
+                  "category": "historical",
+                  "coords": [
+                        74.978011,
+                        46.838608
+                  ]
+            },
+            {
+                  "name": "Танк",
+                  "text": "The Tank Monument is a historical landmark situated in Balchasch. It features a preserved military vehicle on display.",
+                  "category": "historical",
+                  "coords": [
+                        74.982909,
+                        46.834378
+                  ]
+            },
+            {
+                  "name": "Chechengora",
+                  "text": "Chechengora is a scenic viewpoint situated in Balchasch. It offers visitors panoramic vistas of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        74.966956,
+                        46.82954
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-35",
     coords: [74.9833, 46.8333],
@@ -1053,7 +7479,52 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "satpayev-cities-v2",
+    id: "satpayev-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Парк Независимости",
+                  "text": "Парк Независимости ist ein Freizeitpark in Sätbajew.",
+                  "category": "recreational",
+                  "coords": [
+                        67.534998,
+                        47.909935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Парк Независимости",
+                  "text": "A Парк Независимости egy vidámpark Sätbajewben.",
+                  "category": "recreational",
+                  "coords": [
+                        67.534998,
+                        47.909935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Парк Независимости",
+                  "text": "Парк Независимости este un parc de distracții în Sätbajew.",
+                  "category": "recreational",
+                  "coords": [
+                        67.534998,
+                        47.909935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Парк Независимости",
+                  "text": "Парк Независимости is a theme park situated in Sätbajew.",
+                  "category": "recreational",
+                  "coords": [
+                        67.534998,
+                        47.909935
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-62",
     coords: [67.5333, 47.9000],
@@ -1097,7 +7568,52 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "kaskelen-cities-v2",
+    id: "kaskelen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Краеведческий",
+                  "text": "Heimatkundliches Museum in Qaskelen.",
+                  "category": "museum",
+                  "coords": [
+                        76.619166,
+                        43.200924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Краеведческий",
+                  "text": "Helytörténeti múzeum Qaskelenben.",
+                  "category": "museum",
+                  "coords": [
+                        76.619166,
+                        43.200924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Краеведческий",
+                  "text": "Muzeu de istorie locală în Qaskelen.",
+                  "category": "museum",
+                  "coords": [
+                        76.619166,
+                        43.200924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Краеведческий",
+                  "text": "Local history museum in Qaskelen.",
+                  "category": "museum",
+                  "coords": [
+                        76.619166,
+                        43.200924
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-19",
     coords: [76.6214, 43.2000],
@@ -1141,7 +7657,124 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "ridder-cities-v2",
+    id: "ridder-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Риддерский краеведческий музей",
+                  "text": "Das Regionale Heimatmuseum befindet sich in Ridder. Es zeigt Sammlungen, die das Erbe der Region detailliert darstellen.",
+                  "category": "museum",
+                  "coords": [
+                        83.507927,
+                        50.339445
+                  ]
+            },
+            {
+                  "name": "Бәйтерек",
+                  "text": "Bajterek ist eine lokale Attraktion in der Stadt Ridder. Sie ist ein architektonischer Anziehungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        83.48627,
+                        50.336016
+                  ]
+            },
+            {
+                  "name": "Памятник Кирову",
+                  "text": "Das Kirow-Denkmal ist eine historische Statue in Ridder. Es ist dem sowjetischen Führer Sergei Kirow gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        83.512052,
+                        50.343539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Риддерский краеведческий музей",
+                  "text": "A Regionális Történeti Múzeum Ridderben található. Olyan gyűjteményeket mutat be, amelyek a helyi terület örökségét részletezik.",
+                  "category": "museum",
+                  "coords": [
+                        83.507927,
+                        50.339445
+                  ]
+            },
+            {
+                  "name": "Бәйтерек",
+                  "text": "A Bajterek egy helyi látványosság Ridder városában. Építészeti érdekességként áll.",
+                  "category": "landmark",
+                  "coords": [
+                        83.48627,
+                        50.336016
+                  ]
+            },
+            {
+                  "name": "Памятник Кирову",
+                  "text": "A Kirov-emlékmű egy történelmi szobor Ridderben. Szergej Kirov szovjet vezetőnek van szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        83.512052,
+                        50.343539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Риддерский краеведческий музей",
+                  "text": "Muzeul de Istorie Regională este situat în Ridder. Acesta expune colecții care detaliază moștenirea zonei locale.",
+                  "category": "museum",
+                  "coords": [
+                        83.507927,
+                        50.339445
+                  ]
+            },
+            {
+                  "name": "Бәйтерек",
+                  "text": "Bayterek este o atracție locală care se găsește în orașul Ridder. Aceasta se prezintă ca un punct de interes arhitectural.",
+                  "category": "landmark",
+                  "coords": [
+                        83.48627,
+                        50.336016
+                  ]
+            },
+            {
+                  "name": "Памятник Кирову",
+                  "text": "Monumentul lui Kirov este o statuie istorică situată în Ridder. Acesta este dedicat liderului sovietic Serghei Kirov.",
+                  "category": "historical",
+                  "coords": [
+                        83.512052,
+                        50.343539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Regional history museum",
+                  "text": "The Regional History Museum is located in Ridder. It displays collections that detail the heritage of the local area.",
+                  "category": "museum",
+                  "coords": [
+                        83.507927,
+                        50.339445
+                  ]
+            },
+            {
+                  "name": "Бәйтерек",
+                  "text": "Bayterek is a local attraction found in the city of Ridder. It stands as an architectural point of interest.",
+                  "category": "landmark",
+                  "coords": [
+                        83.48627,
+                        50.336016
+                  ]
+            },
+            {
+                  "name": "Памятник Кирову",
+                  "text": "The Monument to Kirov is a historical statue situated in Ridder. It is dedicated to the Soviet leader Sergey Kirov.",
+                  "category": "historical",
+                  "coords": [
+                        83.512052,
+                        50.343539
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-63",
     coords: [83.5114, 50.3547],
@@ -1185,7 +7818,52 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "stepnogorsk-cities-v2",
+    id: "stepnogorsk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "Историко-краеведческий музей ist ein Museum in Stepnogorsk.",
+                  "category": "museum",
+                  "coords": [
+                        71.881344,
+                        52.347454
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "A Историко-краеведческий музей egy múzeum Stepnogorskban.",
+                  "category": "museum",
+                  "coords": [
+                        71.881344,
+                        52.347454
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "Историко-краеведческий музей este un muzeu în Stepnogorsk.",
+                  "category": "museum",
+                  "coords": [
+                        71.881344,
+                        52.347454
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "Историко-краеведческий музей is a museum located in Stepnogorsk.",
+                  "category": "museum",
+                  "coords": [
+                        71.881344,
+                        52.347454
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-11",
     coords: [71.8833, 52.3500],
@@ -1229,7 +7907,376 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "aksu-cities-v2",
+    id: "aksu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Жертвам политических репрессий",
+                  "text": "Denkmal für Opfer politischer Repressionen in Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.931075,
+                        52.034123
+                  ]
+            },
+            {
+                  "name": "Сатпаев К.И.",
+                  "text": "Denkmal für K. I. Satpajew in Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.934887,
+                        52.035014
+                  ]
+            },
+            {
+                  "name": "Мячик",
+                  "text": "Attraktion in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.93568,
+                        52.046253
+                  ]
+            },
+            {
+                  "name": "Два лебедя",
+                  "text": "Skulptur 'Zwei Schwäne' in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.931901,
+                        52.04458
+                  ]
+            },
+            {
+                  "name": "Чайка",
+                  "text": "Skulptur 'Möwe' in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.937448,
+                        52.047001
+                  ]
+            },
+            {
+                  "name": "Царёв С.И",
+                  "text": "Denkmal für S. I. Zarjow in Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.929604,
+                        52.044336
+                  ]
+            },
+            {
+                  "name": "Медведи",
+                  "text": "Skulptur 'Bären' in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.925549,
+                        52.040803
+                  ]
+            },
+            {
+                  "name": "Ослик",
+                  "text": "Skulptur 'Esel' in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.922526,
+                        52.039206
+                  ]
+            },
+            {
+                  "name": "Олень",
+                  "text": "Skulptur 'Hirsch' in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.921312,
+                        52.038155
+                  ]
+            },
+            {
+                  "name": "Донентаев С.",
+                  "text": "Denkmal für S. Donentajew in Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.920104,
+                        52.038245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Жертвам политических репрессий",
+                  "text": "Emlékmű a politikai elnyomás áldozatainak Aqsuban.",
+                  "category": "historical",
+                  "coords": [
+                        76.931075,
+                        52.034123
+                  ]
+            },
+            {
+                  "name": "Сатпаев К.И.",
+                  "text": "Satpajev emlékműve Aqsuban.",
+                  "category": "historical",
+                  "coords": [
+                        76.934887,
+                        52.035014
+                  ]
+            },
+            {
+                  "name": "Мячик",
+                  "text": "Látnivaló Aqsuban.",
+                  "category": "landmark",
+                  "coords": [
+                        76.93568,
+                        52.046253
+                  ]
+            },
+            {
+                  "name": "Два лебедя",
+                  "text": "'Két hattyú' látnivaló Aqsuban.",
+                  "category": "landmark",
+                  "coords": [
+                        76.931901,
+                        52.04458
+                  ]
+            },
+            {
+                  "name": "Чайка",
+                  "text": "'Sirály' látnivaló Aqsuban.",
+                  "category": "landmark",
+                  "coords": [
+                        76.937448,
+                        52.047001
+                  ]
+            },
+            {
+                  "name": "Царёв С.И",
+                  "text": "Zarjow emlékműve Aqsuban.",
+                  "category": "historical",
+                  "coords": [
+                        76.929604,
+                        52.044336
+                  ]
+            },
+            {
+                  "name": "Медведи",
+                  "text": "'Medvék' látnivaló Aqsuban.",
+                  "category": "landmark",
+                  "coords": [
+                        76.925549,
+                        52.040803
+                  ]
+            },
+            {
+                  "name": "Ослик",
+                  "text": "'Szamár' látnivaló Aqsuban.",
+                  "category": "landmark",
+                  "coords": [
+                        76.922526,
+                        52.039206
+                  ]
+            },
+            {
+                  "name": "Олень",
+                  "text": "'Szarvas' látnivaló Aqsuban.",
+                  "category": "landmark",
+                  "coords": [
+                        76.921312,
+                        52.038155
+                  ]
+            },
+            {
+                  "name": "Донентаев С.",
+                  "text": "Donentajev emlékműve Aqsuban.",
+                  "category": "historical",
+                  "coords": [
+                        76.920104,
+                        52.038245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Жертвам политических репрессий",
+                  "text": "Monument dedicat victimelor represiunilor politice în Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.931075,
+                        52.034123
+                  ]
+            },
+            {
+                  "name": "Сатпаев К.И.",
+                  "text": "Monument dedicat lui K. I. Satpajev în Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.934887,
+                        52.035014
+                  ]
+            },
+            {
+                  "name": "Мячик",
+                  "text": "Atracție în Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.93568,
+                        52.046253
+                  ]
+            },
+            {
+                  "name": "Два лебедя",
+                  "text": "Atracția 'Doi lebede' în Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.931901,
+                        52.04458
+                  ]
+            },
+            {
+                  "name": "Чайка",
+                  "text": "Atracția 'Pescăruș' în Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.937448,
+                        52.047001
+                  ]
+            },
+            {
+                  "name": "Царёв С.И",
+                  "text": "Monument dedicat lui S. I. Zarjow în Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.929604,
+                        52.044336
+                  ]
+            },
+            {
+                  "name": "Медведи",
+                  "text": "Atracția 'Urși' în Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.925549,
+                        52.040803
+                  ]
+            },
+            {
+                  "name": "Ослик",
+                  "text": "Atracția 'Măgăruș' în Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.922526,
+                        52.039206
+                  ]
+            },
+            {
+                  "name": "Олень",
+                  "text": "Atracția 'Cerb' în Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.921312,
+                        52.038155
+                  ]
+            },
+            {
+                  "name": "Донентаев С.",
+                  "text": "Monument dedicat lui S. Donentajew în Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.920104,
+                        52.038245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Жертвам политических репрессий",
+                  "text": "Monument to victims of political repression in Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.931075,
+                        52.034123
+                  ]
+            },
+            {
+                  "name": "Сатпаев К.И.",
+                  "text": "Monument to K. I. Satpajev in Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.934887,
+                        52.035014
+                  ]
+            },
+            {
+                  "name": "Мячик",
+                  "text": "Attraction in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.93568,
+                        52.046253
+                  ]
+            },
+            {
+                  "name": "Два лебедя",
+                  "text": "'Two swans' attraction in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.931901,
+                        52.04458
+                  ]
+            },
+            {
+                  "name": "Чайка",
+                  "text": "'Seagull' attraction in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.937448,
+                        52.047001
+                  ]
+            },
+            {
+                  "name": "Царёв С.И",
+                  "text": "Monument to S. I. Zarjow in Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.929604,
+                        52.044336
+                  ]
+            },
+            {
+                  "name": "Медведи",
+                  "text": "'Bears' attraction in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.925549,
+                        52.040803
+                  ]
+            },
+            {
+                  "name": "Ослик",
+                  "text": "'Donkey' attraction in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.922526,
+                        52.039206
+                  ]
+            },
+            {
+                  "name": "Олень",
+                  "text": "'Deer' attraction in Aqsu.",
+                  "category": "landmark",
+                  "coords": [
+                        76.921312,
+                        52.038155
+                  ]
+            },
+            {
+                  "name": "Донентаев С.",
+                  "text": "Monument to S. Donentajew in Aqsu.",
+                  "category": "historical",
+                  "coords": [
+                        76.920104,
+                        52.038245
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-55",
     coords: [76.9333, 52.0333],
@@ -1273,7 +8320,52 @@ export const poiExtraKazakhstanCitiesV2: POI[] = [
     },
   },
   {
-    id: "konayev-cities-v2",
+    id: "konayev-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Винтаж",
+                  "text": "Vintazh ist ein Museum in der Stadt Qonajew. Es zeigt Ausstellungen, die sich auf Vintage-Gegenstände und historische Artefakte konzentrieren.",
+                  "category": "museum",
+                  "coords": [
+                        77.062772,
+                        43.882228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Винтаж",
+                  "text": "A Vintazs egy múzeum Qonajew városában. Régi tárgyakra és történelmi műtárgyakra összpontosító kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        77.062772,
+                        43.882228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Винтаж",
+                  "text": "Vintazh este un muzeu situat în orașul Qonajew. Acesta prezintă expoziții axate pe articole de epocă și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        77.062772,
+                        43.882228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Винтаж",
+                  "text": "Vintazh is a museum located in the city of Qonajew. It features exhibits focused on vintage items and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        77.062772,
+                        43.882228
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KZ-19",
     coords: [77.0667, 43.8833],

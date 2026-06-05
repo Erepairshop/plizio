@@ -516,7 +516,268 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       en: ["Ratnapura is located at the foot of the 2,243-meter-high Adam's Peak.", "The city's gem industry is estimated to be over 2,500 years old.", "The 'Blue Belle of Asia', a 400-carat sapphire, was discovered here.", "Ratnapura receives some of the highest rainfall in Sri Lanka.", "The city serves as the capital of the Sabaragamuwa Province.", "Paddy fields are often used for gem mining during the off-season.", "The National Museum of Ratnapura is housed in an old colonial bungalow.", "Local mining techniques use 'Illama' (gem-bearing gravel) extraction."],
     }, image: "/poi-images/ratnapura-cities-v2.webp"},
   {
-    id: "dehiwala-mount-lavinia-cities-v2",
+    id: "dehiwala-mount-lavinia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Zoological Gardens",
+                  "text": "Einer der ältesten zoologischen Gärten Asiens mit einer großen Vielfalt an Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        79.874152,
+                        6.857163
+                  ]
+            },
+            {
+                  "name": "National Puppet Museum",
+                  "text": "Ein Museum, das der traditionellen Kunst des Puppenspiels in Sri Lanka gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        79.866485,
+                        6.861408
+                  ]
+            },
+            {
+                  "name": "Dehiwala Beach",
+                  "text": "Ein beliebter Sandstrand an der Küste von Dehiwala.",
+                  "category": "recreational",
+                  "coords": [
+                        79.859617,
+                        6.860702
+                  ]
+            },
+            {
+                  "name": "Sri Lanka Air Force Museum",
+                  "text": "Das offizielle Museum der srilankischen Luftwaffe mit historischen Flugzeugen.",
+                  "category": "museum",
+                  "coords": [
+                        79.891653,
+                        6.824577
+                  ]
+            },
+            {
+                  "name": "Flamingos",
+                  "text": "Ein Naturschutzgebiet, das für seine Flamingos und die lokale Vogelwelt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        79.87274,
+                        6.856666
+                  ]
+            },
+            {
+                  "name": "Attidiya Bird Sanctuary",
+                  "text": "Ein Feuchtgebietsreservat, das Lebensraum für zahlreiche Zug- und einheimische Vögel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        79.885745,
+                        6.843863
+                  ]
+            },
+            {
+                  "name": "Weras Ganga Park",
+                  "text": "Ein moderner Stadtpark mit Spazierwegen und Blick auf den Fluss Weras Ganga.",
+                  "category": "park",
+                  "coords": [
+                        79.894152,
+                        6.841527
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Zoological Gardens",
+                  "text": "Ázsia egyik legrégebbi állatkertje, amely számos állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        79.874152,
+                        6.857163
+                  ]
+            },
+            {
+                  "name": "National Puppet Museum",
+                  "text": "A hagyományos srí lankai bábjáték művészetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        79.866485,
+                        6.861408
+                  ]
+            },
+            {
+                  "name": "Dehiwala Beach",
+                  "text": "Népszerű homokos tengerpart Dehiwala partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        79.859617,
+                        6.860702
+                  ]
+            },
+            {
+                  "name": "Sri Lanka Air Force Museum",
+                  "text": "A Srí Lanka-i Légierő hivatalos múzeuma történelmi repülőgépekkel.",
+                  "category": "museum",
+                  "coords": [
+                        79.891653,
+                        6.824577
+                  ]
+            },
+            {
+                  "name": "Flamingos",
+                  "text": "Természetvédelmi terület, amely flamingóiról és a helyi madárvilágról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        79.87274,
+                        6.856666
+                  ]
+            },
+            {
+                  "name": "Attidiya Bird Sanctuary",
+                  "text": "Vizes élőhely, amely számos költöző és helyi madárfajnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        79.885745,
+                        6.843863
+                  ]
+            },
+            {
+                  "name": "Weras Ganga Park",
+                  "text": "Modern városi park sétányokkal és kilátással a Weras Ganga folyóra.",
+                  "category": "park",
+                  "coords": [
+                        79.894152,
+                        6.841527
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Zoological Gardens",
+                  "text": "Una dintre cele mai vechi grădini zoologice din Asia, cu o mare varietate de specii.",
+                  "category": "recreational",
+                  "coords": [
+                        79.874152,
+                        6.857163
+                  ]
+            },
+            {
+                  "name": "National Puppet Museum",
+                  "text": "Un muzeu dedicat artei tradiționale a marionetelor din Sri Lanka.",
+                  "category": "museum",
+                  "coords": [
+                        79.866485,
+                        6.861408
+                  ]
+            },
+            {
+                  "name": "Dehiwala Beach",
+                  "text": "O zonă de plajă populară pe coasta din Dehiwala.",
+                  "category": "recreational",
+                  "coords": [
+                        79.859617,
+                        6.860702
+                  ]
+            },
+            {
+                  "name": "Sri Lanka Air Force Museum",
+                  "text": "Muzeul oficial al Forțelor Aeriene din Sri Lanka, care expune aeronave istorice.",
+                  "category": "museum",
+                  "coords": [
+                        79.891653,
+                        6.824577
+                  ]
+            },
+            {
+                  "name": "Flamingos",
+                  "text": "O rezervație naturală cunoscută pentru flamingii și viața sa aviară locală.",
+                  "category": "natural",
+                  "coords": [
+                        79.87274,
+                        6.856666
+                  ]
+            },
+            {
+                  "name": "Attidiya Bird Sanctuary",
+                  "text": "Un sanctuar în zonă umedă care oferă habitat pentru numeroase păsări migratoare și locale.",
+                  "category": "natural",
+                  "coords": [
+                        79.885745,
+                        6.843863
+                  ]
+            },
+            {
+                  "name": "Weras Ganga Park",
+                  "text": "Un parc urban modern cu alei și vedere la râul Weras Ganga.",
+                  "category": "park",
+                  "coords": [
+                        79.894152,
+                        6.841527
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Zoological Gardens",
+                  "text": "One of the oldest zoological gardens in Asia, home to a wide variety of animals.",
+                  "category": "recreational",
+                  "coords": [
+                        79.874152,
+                        6.857163
+                  ]
+            },
+            {
+                  "name": "National Puppet Museum",
+                  "text": "A museum dedicated to the traditional art of puppetry in Sri Lanka.",
+                  "category": "museum",
+                  "coords": [
+                        79.866485,
+                        6.861408
+                  ]
+            },
+            {
+                  "name": "Dehiwala Beach",
+                  "text": "A popular sandy beach area on the coast of Dehiwala.",
+                  "category": "recreational",
+                  "coords": [
+                        79.859617,
+                        6.860702
+                  ]
+            },
+            {
+                  "name": "Sri Lanka Air Force Museum",
+                  "text": "The official museum of the Sri Lanka Air Force, displaying historical aircraft.",
+                  "category": "museum",
+                  "coords": [
+                        79.891653,
+                        6.824577
+                  ]
+            },
+            {
+                  "name": "Flamingos",
+                  "text": "A nature reserve known for its flamingos and local birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        79.87274,
+                        6.856666
+                  ]
+            },
+            {
+                  "name": "Attidiya Bird Sanctuary",
+                  "text": "A wetland sanctuary providing a habitat for numerous migratory and local birds.",
+                  "category": "natural",
+                  "coords": [
+                        79.885745,
+                        6.843863
+                  ]
+            },
+            {
+                  "name": "Weras Ganga Park",
+                  "text": "A modern urban park featuring walking paths and views of the Weras Ganga river.",
+                  "category": "park",
+                  "coords": [
+                        79.894152,
+                        6.841527
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LK-1",
     coords: [79.8712, 6.8415],
@@ -705,7 +966,160 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       fr: ["Capitale officielle depuis 1982", "Environ 107 000 habitants", "Capitale du royaume de Kotte 1412-1597", "Destruction en 1597 par les Portugais", "Période coloniale britannique 1815-1948", "Ouverture du Parlement le 29 avril 1982", "Architecte Kenzo Tange", "Parlement situé sur le lac Diyawanna"],
     }, image: "/poi-images/sri-jayawardenepura-kotte-cities-v2.webp"},
   {
-    id: "negombo-cities-v2",
+    id: "negombo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Negombo Dutch Fort",
+                  "text": "Eine historische Festung aus der niederländischen Kolonialzeit in Negombo.",
+                  "category": "historical",
+                  "coords": [
+                        79.831288,
+                        7.208698
+                  ]
+            },
+            {
+                  "name": "Negombo Beach Park",
+                  "text": "Ein malerischer Strandpark mit Freizeitaktivitäten an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        79.839947,
+                        7.234976
+                  ]
+            },
+            {
+                  "name": "St. Sebastian Church",
+                  "text": "Eine markante Kirche im gotischen Stil, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        79.839194,
+                        7.218358
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church, Grand Street",
+                  "text": "Eine große historische katholische Kirche mit beeindruckenden Deckenmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        79.837348,
+                        7.210191
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Negombo Dutch Fort",
+                  "text": "A holland gyarmati időszakban épült történelmi erőd Negombóban.",
+                  "category": "historical",
+                  "coords": [
+                        79.831288,
+                        7.208698
+                  ]
+            },
+            {
+                  "name": "Negombo Beach Park",
+                  "text": "Festői tengerparti park szabadidős tevékenységekkel a parton.",
+                  "category": "recreational",
+                  "coords": [
+                        79.839947,
+                        7.234976
+                  ]
+            },
+            {
+                  "name": "St. Sebastian Church",
+                  "text": "Kiemelkedő gótikus stílusú templom, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        79.839194,
+                        7.218358
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church, Grand Street",
+                  "text": "Nagy múltú katolikus templom lenyűgöző mennyezeti festményekkel.",
+                  "category": "religious",
+                  "coords": [
+                        79.837348,
+                        7.210191
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Negombo Dutch Fort",
+                  "text": "O fortăreață istorică din perioada colonială olandeză în Negombo.",
+                  "category": "historical",
+                  "coords": [
+                        79.831288,
+                        7.208698
+                  ]
+            },
+            {
+                  "name": "Negombo Beach Park",
+                  "text": "Un parc pitoresc pe plajă care oferă activități de agrement pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        79.839947,
+                        7.234976
+                  ]
+            },
+            {
+                  "name": "St. Sebastian Church",
+                  "text": "O biserică proeminentă în stil gotic, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        79.839194,
+                        7.218358
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church, Grand Street",
+                  "text": "O biserică catolică mare și istorică, cu picturi murale impresionante.",
+                  "category": "religious",
+                  "coords": [
+                        79.837348,
+                        7.210191
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Negombo Dutch Fort",
+                  "text": "A historical fort built during the Dutch colonial period in Negombo.",
+                  "category": "historical",
+                  "coords": [
+                        79.831288,
+                        7.208698
+                  ]
+            },
+            {
+                  "name": "Negombo Beach Park",
+                  "text": "A scenic beach park offering leisure activities by the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        79.839947,
+                        7.234976
+                  ]
+            },
+            {
+                  "name": "St. Sebastian Church",
+                  "text": "A prominent Gothic-style church, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        79.839194,
+                        7.218358
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church, Grand Street",
+                  "text": "A large and historic Catholic church featuring impressive ceiling paintings.",
+                  "category": "religious",
+                  "coords": [
+                        79.837348,
+                        7.210191
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LK-1",
     coords: [79.8358, 7.2081],
@@ -768,7 +1182,196 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       fr: ["Environ 142 000 habitants", "37 kilomètres au nord de Colombo", "Portugais depuis 1505, Hollandais depuis 1644", "Canal de Hamilton, long de 14 kilomètres depuis 1672", "Période coloniale britannique 1815-1948", "Environ 65 pour cent catholiques, 'Petite Rome'", "Tsunami du 26 décembre 2004 avec 350 victimes", "Attentats de Pâques du 21 avril 2019 avec 113 victimes"],
     }, image: "/poi-images/negombo-cities-v2.webp"},
   {
-    id: "batticaloa-cities-v2",
+    id: "batticaloa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Batticaloa Fort",
+                  "text": "Das Batticaloa Fort ist eine historische Festung in der Stadt Batticaloa.",
+                  "category": "fortress",
+                  "coords": [
+                        81.701995,
+                        7.711801
+                  ]
+            },
+            {
+                  "name": "Natural History and Science Museum",
+                  "text": "Das Natural History and Science Museum ist ein Museum in der Stadt Batticaloa.",
+                  "category": "museum",
+                  "coords": [
+                        81.69994,
+                        7.713207
+                  ]
+            },
+            {
+                  "name": "Gayathree cultural centre",
+                  "text": "Das Gayathree cultural centre ist ein Kunstzentrum in der Stadt Batticaloa.",
+                  "category": "cultural",
+                  "coords": [
+                        81.710742,
+                        7.717224
+                  ]
+            },
+            {
+                  "name": "புனித மரியன்னை பேராலயம்",
+                  "text": "Die St. Mary's Cathedral ist eine Sehenswürdigkeit in der Stadt Batticaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        81.696032,
+                        7.712446
+                  ]
+            },
+            {
+                  "name": "Kallady Bridge",
+                  "text": "Die Kallady Bridge ist eine bemerkenswerte Brücke in der Stadt Batticaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        81.707281,
+                        7.719245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Batticaloa Fort",
+                  "text": "A Batticaloa Fort egy történelmi erőd Batticaloa városában.",
+                  "category": "fortress",
+                  "coords": [
+                        81.701995,
+                        7.711801
+                  ]
+            },
+            {
+                  "name": "Natural History and Science Museum",
+                  "text": "A Natural History and Science Museum egy múzeum Batticaloa városában.",
+                  "category": "museum",
+                  "coords": [
+                        81.69994,
+                        7.713207
+                  ]
+            },
+            {
+                  "name": "Gayathree cultural centre",
+                  "text": "A Gayathree cultural centre egy művészeti központ Batticaloa városában.",
+                  "category": "cultural",
+                  "coords": [
+                        81.710742,
+                        7.717224
+                  ]
+            },
+            {
+                  "name": "புனித மரியன்னை பேராலயம்",
+                  "text": "A St. Mary's Cathedral egy látványosság Batticaloa városában.",
+                  "category": "landmark",
+                  "coords": [
+                        81.696032,
+                        7.712446
+                  ]
+            },
+            {
+                  "name": "Kallady Bridge",
+                  "text": "A Kallady Bridge egy nevezetes híd Batticaloa városában.",
+                  "category": "landmark",
+                  "coords": [
+                        81.707281,
+                        7.719245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Batticaloa Fort",
+                  "text": "Batticaloa Fort este o fortăreață istorică în orașul Batticaloa.",
+                  "category": "fortress",
+                  "coords": [
+                        81.701995,
+                        7.711801
+                  ]
+            },
+            {
+                  "name": "Natural History and Science Museum",
+                  "text": "Natural History and Science Museum este un muzeu în orașul Batticaloa.",
+                  "category": "museum",
+                  "coords": [
+                        81.69994,
+                        7.713207
+                  ]
+            },
+            {
+                  "name": "Gayathree cultural centre",
+                  "text": "Gayathree cultural centre este un centru de arte în orașul Batticaloa.",
+                  "category": "cultural",
+                  "coords": [
+                        81.710742,
+                        7.717224
+                  ]
+            },
+            {
+                  "name": "புனித மரியன்னை பேராலயம்",
+                  "text": "St. Mary's Cathedral este o atracție turistică în orașul Batticaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        81.696032,
+                        7.712446
+                  ]
+            },
+            {
+                  "name": "Kallady Bridge",
+                  "text": "Kallady Bridge este un pod remarcabil în orașul Batticaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        81.707281,
+                        7.719245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Batticaloa Fort",
+                  "text": "The Batticaloa Fort is a historical fort located in the city of Batticaloa.",
+                  "category": "fortress",
+                  "coords": [
+                        81.701995,
+                        7.711801
+                  ]
+            },
+            {
+                  "name": "Natural History and Science Museum",
+                  "text": "The Natural History and Science Museum is a museum located in the city of Batticaloa.",
+                  "category": "museum",
+                  "coords": [
+                        81.69994,
+                        7.713207
+                  ]
+            },
+            {
+                  "name": "Gayathree cultural centre",
+                  "text": "The Gayathree cultural centre is an arts centre located in the city of Batticaloa.",
+                  "category": "cultural",
+                  "coords": [
+                        81.710742,
+                        7.717224
+                  ]
+            },
+            {
+                  "name": "St. Mary's Cathedral",
+                  "text": "St. Mary's Cathedral is a tourist attraction located in the city of Batticaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        81.696032,
+                        7.712446
+                  ]
+            },
+            {
+                  "name": "Kallady Bridge",
+                  "text": "The Kallady Bridge is a notable bridge located in the city of Batticaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        81.707281,
+                        7.719245
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LK-5",
     coords: [81.6924, 7.7102],
@@ -894,7 +1497,160 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       fr: ["Env. 65 000 hab., 28 km au nord-est de Colombo", "Premier hévéa en Asie en 1876", "Jardins Botaniques de Henarathgoda", "Période coloniale britannique 1815-1948", "Chemin de fer de Colombo à Kandy depuis 1865", "District indépendant depuis 1978", "Autoroute E03 comme liaison", "Fondations de l'industrie asiatique du caoutchouc"],
     }, image: "/poi-images/gampaha-cities-v2.webp"},
   {
-    id: "matara-cities-v2",
+    id: "matara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Polhena Beach",
+                  "text": "Ein beliebter Strand in Matara, bekannt für sein ruhiges, durch ein Riff geschütztes Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        80.525886,
+                        5.936188
+                  ]
+            },
+            {
+                  "name": "Old Dutch Market",
+                  "text": "Ein Gebäude aus der Kolonialzeit, das einst als zentraler Marktplatz diente.",
+                  "category": "historical",
+                  "coords": [
+                        80.535265,
+                        5.947841
+                  ]
+            },
+            {
+                  "name": "Big Standing Buddha",
+                  "text": "Eine große Statue des stehenden Buddhas, ein Wahrzeichen in Matara.",
+                  "category": "historical",
+                  "coords": [
+                        80.571859,
+                        5.941113
+                  ]
+            },
+            {
+                  "name": "The Shrine of Our Lady of Matara",
+                  "text": "Ein historisches katholisches Heiligtum mit einer verehrten Statue der Jungfrau Maria.",
+                  "category": "religious",
+                  "coords": [
+                        80.551908,
+                        5.943294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Polhena Beach",
+                  "text": "Matara népszerű strandja, amely zátony által védett, nyugodt vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        80.525886,
+                        5.936188
+                  ]
+            },
+            {
+                  "name": "Old Dutch Market",
+                  "text": "Gyarmati korszakból származó épület, amely egykor központi piacként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        80.535265,
+                        5.947841
+                  ]
+            },
+            {
+                  "name": "Big Standing Buddha",
+                  "text": "A hatalmas álló Buddha-szobor, Matara egyik nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        80.571859,
+                        5.941113
+                  ]
+            },
+            {
+                  "name": "The Shrine of Our Lady of Matara",
+                  "text": "Történelmi katolikus kegyhely Szűz Mária tisztelt szobrával.",
+                  "category": "religious",
+                  "coords": [
+                        80.551908,
+                        5.943294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Polhena Beach",
+                  "text": "O plajă populară în Matara, cunoscută pentru apele sale calme protejate de un recif.",
+                  "category": "recreational",
+                  "coords": [
+                        80.525886,
+                        5.936188
+                  ]
+            },
+            {
+                  "name": "Old Dutch Market",
+                  "text": "O clădire din epoca colonială care a servit odată ca piață centrală.",
+                  "category": "historical",
+                  "coords": [
+                        80.535265,
+                        5.947841
+                  ]
+            },
+            {
+                  "name": "Big Standing Buddha",
+                  "text": "O statuie mare a lui Buddha în picioare, un reper important în Matara.",
+                  "category": "historical",
+                  "coords": [
+                        80.571859,
+                        5.941113
+                  ]
+            },
+            {
+                  "name": "The Shrine of Our Lady of Matara",
+                  "text": "Un sanctuar catolic istoric cu o statuie venerată a Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        80.551908,
+                        5.943294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Polhena Beach",
+                  "text": "A popular beach in Matara known for its calm waters protected by a reef.",
+                  "category": "recreational",
+                  "coords": [
+                        80.525886,
+                        5.936188
+                  ]
+            },
+            {
+                  "name": "Old Dutch Market",
+                  "text": "A colonial-era building that once served as a central marketplace.",
+                  "category": "historical",
+                  "coords": [
+                        80.535265,
+                        5.947841
+                  ]
+            },
+            {
+                  "name": "Big Standing Buddha",
+                  "text": "A large statue of the standing Buddha, a landmark in Matara.",
+                  "category": "historical",
+                  "coords": [
+                        80.571859,
+                        5.941113
+                  ]
+            },
+            {
+                  "name": "The Shrine of Our Lady of Matara",
+                  "text": "A historic Catholic shrine housing a revered statue of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        80.551908,
+                        5.943294
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LK-3",
     coords: [80.5483, 5.9483],
@@ -957,7 +1713,160 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       fr: ["Environ 76 000 habitants sur la côte sud", "Néerlandais depuis 1656", "Star Fort de 1763 en forme d'hexagone", "Période coloniale britannique 1815-1948", "Liaison ferroviaire depuis 1895", "Tsunami du 26 décembre 2004 avec plus de 2 000 victimes", "Southern Expressway E01 depuis 2014", "Dondra Head comme point le plus méridional avec phare de 1890"],
     }, image: "/poi-images/matara-cities-v2.webp"},
   {
-    id: "nuwara-eliya-cities-v2",
+    id: "nuwara-eliya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Victoria Museum",
+                  "text": "Das Victoria Museum ist ein Museum in der Stadt Nuwara Eliya.",
+                  "category": "museum",
+                  "coords": [
+                        80.768913,
+                        6.967328
+                  ]
+            },
+            {
+                  "name": "Lake Gregory Park",
+                  "text": "Der Lake Gregory Park ist ein Freizeitpark in der Stadt Nuwara Eliya.",
+                  "category": "recreational",
+                  "coords": [
+                        80.77237,
+                        6.962313
+                  ]
+            },
+            {
+                  "name": "Single Tree",
+                  "text": "Single Tree, auch als One Tree Hill bekannt, ist ein Berggipfel in der Stadt Nuwara Eliya.",
+                  "category": "natural",
+                  "coords": [
+                        80.762138,
+                        6.956921
+                  ]
+            },
+            {
+                  "name": "Tea plantations view",
+                  "text": "Der Tea plantations view ist ein Aussichtspunkt in der Stadt Nuwara Eliya.",
+                  "category": "natural",
+                  "coords": [
+                        80.76709,
+                        6.956334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Victoria Museum",
+                  "text": "A Victoria Museum egy múzeum Nuwara Eliya városában.",
+                  "category": "museum",
+                  "coords": [
+                        80.768913,
+                        6.967328
+                  ]
+            },
+            {
+                  "name": "Lake Gregory Park",
+                  "text": "A Lake Gregory Park egy vidámpark Nuwara Eliya városában.",
+                  "category": "recreational",
+                  "coords": [
+                        80.77237,
+                        6.962313
+                  ]
+            },
+            {
+                  "name": "Single Tree",
+                  "text": "A Single Tree, más néven One Tree Hill, egy hegycsúcs Nuwara Eliya városában.",
+                  "category": "natural",
+                  "coords": [
+                        80.762138,
+                        6.956921
+                  ]
+            },
+            {
+                  "name": "Tea plantations view",
+                  "text": "A Tea plantations view egy kilátó Nuwara Eliya városában.",
+                  "category": "natural",
+                  "coords": [
+                        80.76709,
+                        6.956334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Victoria Museum",
+                  "text": "Victoria Museum este un muzeu în orașul Nuwara Eliya.",
+                  "category": "museum",
+                  "coords": [
+                        80.768913,
+                        6.967328
+                  ]
+            },
+            {
+                  "name": "Lake Gregory Park",
+                  "text": "Lake Gregory Park este un parc tematic în orașul Nuwara Eliya.",
+                  "category": "recreational",
+                  "coords": [
+                        80.77237,
+                        6.962313
+                  ]
+            },
+            {
+                  "name": "Single Tree",
+                  "text": "Single Tree, cunoscut și ca One Tree Hill, este un vârf de munte în orașul Nuwara Eliya.",
+                  "category": "natural",
+                  "coords": [
+                        80.762138,
+                        6.956921
+                  ]
+            },
+            {
+                  "name": "Tea plantations view",
+                  "text": "Tea plantations view este un punct de belvedere în orașul Nuwara Eliya.",
+                  "category": "natural",
+                  "coords": [
+                        80.76709,
+                        6.956334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Victoria Museum",
+                  "text": "The Victoria Museum is a museum located in the city of Nuwara Eliya.",
+                  "category": "museum",
+                  "coords": [
+                        80.768913,
+                        6.967328
+                  ]
+            },
+            {
+                  "name": "Lake Gregory Park",
+                  "text": "Lake Gregory Park is a theme park located in the city of Nuwara Eliya.",
+                  "category": "recreational",
+                  "coords": [
+                        80.77237,
+                        6.962313
+                  ]
+            },
+            {
+                  "name": "Single Tree",
+                  "text": "Single Tree, also known as One Tree Hill, is a mountain peak located in the city of Nuwara Eliya.",
+                  "category": "natural",
+                  "coords": [
+                        80.762138,
+                        6.956921
+                  ]
+            },
+            {
+                  "name": "Tea plantations view",
+                  "text": "The Tea plantations view is a viewpoint located in the city of Nuwara Eliya.",
+                  "category": "natural",
+                  "coords": [
+                        80.76709,
+                        6.956334
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LK-2",
     coords: [80.7829, 6.9497],
@@ -1020,7 +1929,124 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       fr: ["Altitude 1 868 mètres, ville la plus haute du Sri Lanka", "Environ 28 000 habitants", "Fondée en 1846 par Sir Samuel Baker", "Période coloniale britannique 1815-1948", "'Petite Angleterre' pour ses villas Tudor", "Club de golf de 1889", "Thé de Ceylan d'altitude depuis 1867 par James Taylor", "Lac Gregory créé en 1873"],
     }, image: "/poi-images/nuwara-eliya-cities-v2.webp"},
   {
-    id: "kalutara-cities-v2",
+    id: "kalutara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Richmond Castle",
+                  "text": "Richmond Castle ist ein edwardianisches Herrenhaus, das Anfang des 20. Jahrhunderts in Kalutara erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        79.975121,
+                        6.601691
+                  ]
+            },
+            {
+                  "name": "Calido beach Kalutara",
+                  "text": "Der Calido Beach ist ein Küstenziel in Kalutara.",
+                  "category": "recreational",
+                  "coords": [
+                        79.954514,
+                        6.589576
+                  ]
+            },
+            {
+                  "name": "Kalutara Bodhiya",
+                  "text": "Kalutara Bodhiya ist ein heiliger Stupa und ein religiöses Wahrzeichen in Kalutara.",
+                  "category": "landmark",
+                  "coords": [
+                        79.960082,
+                        6.58699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Richmond Castle",
+                  "text": "A Richmond Castle egy Edward-korabeli kastély, amely az 1900-as évek elején épült Kalutarában.",
+                  "category": "castle",
+                  "coords": [
+                        79.975121,
+                        6.601691
+                  ]
+            },
+            {
+                  "name": "Calido beach Kalutara",
+                  "text": "A Calido beach egy tengerparti úti cél Kalutara városában.",
+                  "category": "recreational",
+                  "coords": [
+                        79.954514,
+                        6.589576
+                  ]
+            },
+            {
+                  "name": "Kalutara Bodhiya",
+                  "text": "A Kalutara Bodhiya egy szent sztúpa és vallási nevezetesség Kalutarában.",
+                  "category": "landmark",
+                  "coords": [
+                        79.960082,
+                        6.58699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Richmond Castle",
+                  "text": "Richmond Castle este un conac edwardian construit în Kalutara la începutul anilor 1900.",
+                  "category": "castle",
+                  "coords": [
+                        79.975121,
+                        6.601691
+                  ]
+            },
+            {
+                  "name": "Calido beach Kalutara",
+                  "text": "Plaja Calido este o destinație de coastă situată în Kalutara.",
+                  "category": "recreational",
+                  "coords": [
+                        79.954514,
+                        6.589576
+                  ]
+            },
+            {
+                  "name": "Kalutara Bodhiya",
+                  "text": "Kalutara Bodhiya este o stupă sacră și un punct de reper religios în Kalutara.",
+                  "category": "landmark",
+                  "coords": [
+                        79.960082,
+                        6.58699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Richmond Castle",
+                  "text": "Richmond Castle is an Edwardian mansion built in Kalutara in the early 1900s.",
+                  "category": "castle",
+                  "coords": [
+                        79.975121,
+                        6.601691
+                  ]
+            },
+            {
+                  "name": "Calido beach Kalutara",
+                  "text": "Calido beach is a coastal destination situated in Kalutara.",
+                  "category": "recreational",
+                  "coords": [
+                        79.954514,
+                        6.589576
+                  ]
+            },
+            {
+                  "name": "Kalutara Bodhiya",
+                  "text": "Kalutara Bodhiya is a sacred stupa and religious landmark in Kalutara.",
+                  "category": "landmark",
+                  "coords": [
+                        79.960082,
+                        6.58699
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LK-1",
     coords: [79.9607, 6.5854],
@@ -1146,7 +2172,448 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       fr: ["Environ 45 000 habitants sur la côte ouest", "Installation musulmane depuis le VIIIe siècle", "Portugais depuis 1505, Hollandais depuis 1658", "Période coloniale britannique 1815-1948", "Les marais salants fournissent la majeure partie du sel de table", "75 000 déplacés musulmans accueillis en 1990", "Guerre civile 1983-2009", "Parc national de Wilpattu à 30 kilomètres de distance"],
     }, image: "/poi-images/puttalam-cities-v2.webp"},
   {
-    id: "polonnaruwa-cities-v2",
+    id: "polonnaruwa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Das Archaeological Museum ist ein Museum in der Stadt Polonnaruwa.",
+                  "category": "museum",
+                  "coords": [
+                        80.998976,
+                        7.941801
+                  ]
+            },
+            {
+                  "name": "Alahana Pirivena",
+                  "text": "Alahana Pirivena ist eine archäologische Stätte in der Stadt Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.00351,
+                        7.961946
+                  ]
+            },
+            {
+                  "name": "Pabalu Vehera",
+                  "text": "Pabalu Vehera ist eine archäologische Stätte in der Stadt Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.004272,
+                        7.949484
+                  ]
+            },
+            {
+                  "name": "Polonnaruwa Quadrangle",
+                  "text": "Das Polonnaruwa Quadrangle ist eine archäologische Stätte in der Stadt Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.001397,
+                        7.947476
+                  ]
+            },
+            {
+                  "name": "Rankoth Viharaya",
+                  "text": "Rankoth Viharaya ist eine bekannte antike Stupa und ein Denkmal in der Stadt Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.003399,
+                        7.958176
+                  ]
+            },
+            {
+                  "name": "Royal Palace",
+                  "text": "Der Royal Palace ist eine historische Ruine in der Stadt Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        80.997926,
+                        7.943478
+                  ]
+            },
+            {
+                  "name": "Ancient Northern Entrance",
+                  "text": "Das Ancient Northern Entrance ist eine historische Ruine in der Stadt Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.003313,
+                        7.952151
+                  ]
+            },
+            {
+                  "name": "Kumara Pokuna",
+                  "text": "Kumara Pokuna ist eine Touristenattraktion in der Stadt Polonnaruwa.",
+                  "category": "landmark",
+                  "coords": [
+                        81.002422,
+                        7.942186
+                  ]
+            },
+            {
+                  "name": "Siva Devalaya",
+                  "text": "Siva Devalaya ist eine Ruine in der Stadt Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.006684,
+                        7.951015
+                  ]
+            },
+            {
+                  "name": "Menik Vehera",
+                  "text": "Menik Vehera ist eine antike Ruine in der Stadt Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.002332,
+                        7.953044
+                  ]
+            },
+            {
+                  "name": "Monastic Hospital",
+                  "text": "Das Monastic Hospital ist eine faszinierende Ruine in der Stadt Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.003041,
+                        7.959804
+                  ]
+            },
+            {
+                  "name": "Royal Palace of King Parakramabahu",
+                  "text": "Der Royal Palace of King Parakramabahu ist eine bedeutende Ruine in der Stadt Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.000636,
+                        7.942364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Az Archaeological Museum egy múzeum Polonnaruwa városában.",
+                  "category": "museum",
+                  "coords": [
+                        80.998976,
+                        7.941801
+                  ]
+            },
+            {
+                  "name": "Alahana Pirivena",
+                  "text": "Az Alahana Pirivena egy régészeti lelőhely Polonnaruwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        81.00351,
+                        7.961946
+                  ]
+            },
+            {
+                  "name": "Pabalu Vehera",
+                  "text": "A Pabalu Vehera egy régészeti lelőhely Polonnaruwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        81.004272,
+                        7.949484
+                  ]
+            },
+            {
+                  "name": "Polonnaruwa Quadrangle",
+                  "text": "A Polonnaruwa Quadrangle egy régészeti lelőhely Polonnaruwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        81.001397,
+                        7.947476
+                  ]
+            },
+            {
+                  "name": "Rankoth Viharaya",
+                  "text": "A Rankoth Viharaya egy jól ismert ókori sztúpa és emlékmű Polonnaruwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        81.003399,
+                        7.958176
+                  ]
+            },
+            {
+                  "name": "Royal Palace",
+                  "text": "A Royal Palace egy történelmi rom Polonnaruwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        80.997926,
+                        7.943478
+                  ]
+            },
+            {
+                  "name": "Ancient Northern Entrance",
+                  "text": "Az Ancient Northern Entrance egy történelmi rom Polonnaruwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        81.003313,
+                        7.952151
+                  ]
+            },
+            {
+                  "name": "Kumara Pokuna",
+                  "text": "A Kumara Pokuna egy turisztikai látványosság Polonnaruwa városában.",
+                  "category": "landmark",
+                  "coords": [
+                        81.002422,
+                        7.942186
+                  ]
+            },
+            {
+                  "name": "Siva Devalaya",
+                  "text": "A Siva Devalaya egy rom Polonnaruwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        81.006684,
+                        7.951015
+                  ]
+            },
+            {
+                  "name": "Menik Vehera",
+                  "text": "A Menik Vehera egy ókori rom Polonnaruwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        81.002332,
+                        7.953044
+                  ]
+            },
+            {
+                  "name": "Monastic Hospital",
+                  "text": "A Monastic Hospital egy lenyűgöző rom Polonnaruwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        81.003041,
+                        7.959804
+                  ]
+            },
+            {
+                  "name": "Royal Palace of King Parakramabahu",
+                  "text": "A Royal Palace of King Parakramabahu egy jelentős rom Polonnaruwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        81.000636,
+                        7.942364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Archaeological Museum este un muzeu în orașul Polonnaruwa.",
+                  "category": "museum",
+                  "coords": [
+                        80.998976,
+                        7.941801
+                  ]
+            },
+            {
+                  "name": "Alahana Pirivena",
+                  "text": "Alahana Pirivena este un sit arheologic în orașul Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.00351,
+                        7.961946
+                  ]
+            },
+            {
+                  "name": "Pabalu Vehera",
+                  "text": "Pabalu Vehera este un sit arheologic în orașul Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.004272,
+                        7.949484
+                  ]
+            },
+            {
+                  "name": "Polonnaruwa Quadrangle",
+                  "text": "Polonnaruwa Quadrangle este un sit arheologic în orașul Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.001397,
+                        7.947476
+                  ]
+            },
+            {
+                  "name": "Rankoth Viharaya",
+                  "text": "Rankoth Viharaya este o stupă antică și un monument în orașul Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.003399,
+                        7.958176
+                  ]
+            },
+            {
+                  "name": "Royal Palace",
+                  "text": "Royal Palace este o ruină istorică în orașul Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        80.997926,
+                        7.943478
+                  ]
+            },
+            {
+                  "name": "Ancient Northern Entrance",
+                  "text": "Ancient Northern Entrance este o ruină istorică în orașul Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.003313,
+                        7.952151
+                  ]
+            },
+            {
+                  "name": "Kumara Pokuna",
+                  "text": "Kumara Pokuna este o atracție turistică în orașul Polonnaruwa.",
+                  "category": "landmark",
+                  "coords": [
+                        81.002422,
+                        7.942186
+                  ]
+            },
+            {
+                  "name": "Siva Devalaya",
+                  "text": "Siva Devalaya este o ruină în orașul Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.006684,
+                        7.951015
+                  ]
+            },
+            {
+                  "name": "Menik Vehera",
+                  "text": "Menik Vehera este o ruină antică în orașul Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.002332,
+                        7.953044
+                  ]
+            },
+            {
+                  "name": "Monastic Hospital",
+                  "text": "Monastic Hospital este o ruină fascinantă în orașul Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.003041,
+                        7.959804
+                  ]
+            },
+            {
+                  "name": "Royal Palace of King Parakramabahu",
+                  "text": "Royal Palace of King Parakramabahu este o ruină importantă în orașul Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.000636,
+                        7.942364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum",
+                  "text": "The Archaeological Museum is a museum located in the city of Polonnaruwa.",
+                  "category": "museum",
+                  "coords": [
+                        80.998976,
+                        7.941801
+                  ]
+            },
+            {
+                  "name": "Alahana Pirivena",
+                  "text": "Alahana Pirivena is an archaeological site located in the city of Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.00351,
+                        7.961946
+                  ]
+            },
+            {
+                  "name": "Pabalu Vehera",
+                  "text": "Pabalu Vehera is an archaeological site located in the city of Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.004272,
+                        7.949484
+                  ]
+            },
+            {
+                  "name": "Polonnaruwa Quadrangle",
+                  "text": "The Polonnaruwa Quadrangle is an archaeological site located in the city of Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.001397,
+                        7.947476
+                  ]
+            },
+            {
+                  "name": "Rankoth Viharaya",
+                  "text": "Rankoth Viharaya is a prominent ancient stupa and monument located in the city of Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.003399,
+                        7.958176
+                  ]
+            },
+            {
+                  "name": "Royal Palace",
+                  "text": "The Royal Palace is a historic ruin located in the city of Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        80.997926,
+                        7.943478
+                  ]
+            },
+            {
+                  "name": "Ancient Northern Entrance",
+                  "text": "The Ancient Northern Entrance is a historic ruin located in the city of Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.003313,
+                        7.952151
+                  ]
+            },
+            {
+                  "name": "Kumara Pokuna",
+                  "text": "Kumara Pokuna is a tourist attraction located in the city of Polonnaruwa.",
+                  "category": "landmark",
+                  "coords": [
+                        81.002422,
+                        7.942186
+                  ]
+            },
+            {
+                  "name": "Siva Devalaya",
+                  "text": "Siva Devalaya is a ruin located in the city of Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.006684,
+                        7.951015
+                  ]
+            },
+            {
+                  "name": "Menik Vehera",
+                  "text": "Menik Vehera is an ancient ruin located in the city of Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.002332,
+                        7.953044
+                  ]
+            },
+            {
+                  "name": "Monastic Hospital",
+                  "text": "The Monastic Hospital is a fascinating ruin located in the city of Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.003041,
+                        7.959804
+                  ]
+            },
+            {
+                  "name": "Royal Palace of King Parakramabahu",
+                  "text": "The Royal Palace of King Parakramabahu is a significant ruin located in the city of Polonnaruwa.",
+                  "category": "historical",
+                  "coords": [
+                        81.000636,
+                        7.942364
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LK-7",
     coords: [81.0000, 7.9333],
@@ -1272,7 +2739,88 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       fr: ["Altitude 360 mètres, environ 41 000 habitants", "Rébellion de Matale de 1848 sous Puran Appu", "Période coloniale britannique 1815-1948", "Centre pour la cannelle, la cardamome et la noix de muscade", "Aluvihara avec les premiers textes pali depuis 29 av. J.-C.", "Temple Sri Muthumariamman de 1928", "Temple avec plus de 1 000 sculptures", "26 kilomètres au nord de Kandy"],
     }, image: "/poi-images/matale-cities-v2.webp"},
   {
-    id: "vavuniya-cities-v2",
+    id: "vavuniya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vavuniya water park",
+                  "text": "Eine Freizeiteinrichtung in Vavuniya mit verschiedenen Wasserbecken und Rutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        80.502876,
+                        8.755565
+                  ]
+            },
+            {
+                  "name": "Kavisanan complex ",
+                  "text": "Ein Aussichtspunkt in Vavuniya mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        80.484102,
+                        8.763202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vavuniya water park",
+                  "text": "Szabadidős létesítmény Vavuniyában medencékkel és csúszdákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        80.502876,
+                        8.755565
+                  ]
+            },
+            {
+                  "name": "Kavisanan complex ",
+                  "text": "Kilátóhely Vavuniyában, ahonnan kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        80.484102,
+                        8.763202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vavuniya water park",
+                  "text": "O unitate de recreere din Vavuniya cu bazine și tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        80.502876,
+                        8.755565
+                  ]
+            },
+            {
+                  "name": "Kavisanan complex ",
+                  "text": "Un punct de belvedere în Vavuniya cu vederi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        80.484102,
+                        8.763202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vavuniya water park",
+                  "text": "A recreational facility in Vavuniya featuring water pools and slides.",
+                  "category": "recreational",
+                  "coords": [
+                        80.502876,
+                        8.755565
+                  ]
+            },
+            {
+                  "name": "Kavisanan complex ",
+                  "text": "A viewpoint in Vavuniya offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        80.484102,
+                        8.763202
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LK-4",
     coords: [80.4971, 8.7514],
@@ -1776,7 +3324,88 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       fr: ["Environ 17 000 habitants, à 124 mètres d'altitude", "78 kilomètres à l'est de Colombo", "Période coloniale britannique 1815-1948", "Siège administratif depuis 1845", "Cachette de Saradiel à Utuwankanda 1864-1870", "Saradiel abattu le 7 mai 1864", "Orphelinat d'éléphants de Pinnawala depuis 1975", "Environ 90 éléphants à Pinnawala"],
     }, image: "/poi-images/kegalle-cities-v2.webp"},
   {
-    id: "moneragala-cities-v2",
+    id: "moneragala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Green Park",
+                  "text": "Der Green Park ist ein Freizeitpark in Moneragala.",
+                  "category": "recreational",
+                  "coords": [
+                        81.333311,
+                        6.85894
+                  ]
+            },
+            {
+                  "name": "Pradeshiya Sabha Children Park",
+                  "text": "Dies ist ein für Kinder konzipierter Freizeitpark in Moneragala.",
+                  "category": "recreational",
+                  "coords": [
+                        81.348241,
+                        6.869058
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Green Park",
+                  "text": "A Green Park egy szabadidős vidámpark Moneragala városában.",
+                  "category": "recreational",
+                  "coords": [
+                        81.333311,
+                        6.85894
+                  ]
+            },
+            {
+                  "name": "Pradeshiya Sabha Children Park",
+                  "text": "Ez egy gyermekek számára kialakított vidámpark Moneragala városában.",
+                  "category": "recreational",
+                  "coords": [
+                        81.348241,
+                        6.869058
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Green Park",
+                  "text": "Green Park este un parc de distracții și recreere situat în Moneragala.",
+                  "category": "recreational",
+                  "coords": [
+                        81.333311,
+                        6.85894
+                  ]
+            },
+            {
+                  "name": "Pradeshiya Sabha Children Park",
+                  "text": "Acesta este un parc de distracții destinat copiilor, situat în Moneragala.",
+                  "category": "recreational",
+                  "coords": [
+                        81.348241,
+                        6.869058
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Green Park",
+                  "text": "Green Park is a recreational theme park located in Moneragala.",
+                  "category": "recreational",
+                  "coords": [
+                        81.333311,
+                        6.85894
+                  ]
+            },
+            {
+                  "name": "Pradeshiya Sabha Children Park",
+                  "text": "This is a theme park designed for children, situated in Moneragala.",
+                  "category": "recreational",
+                  "coords": [
+                        81.348241,
+                        6.869058
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LK-8",
     coords: [81.3487, 6.8728],

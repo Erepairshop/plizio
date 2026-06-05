@@ -52,7 +52,664 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       en: ["Beirut hosted the first ever Arab-owned airline, Middle East Airlines (MEA), founded in 1945.", "The city's Roman Bathers remain a well-preserved archaeological site in the downtown area.", "The Beirut International Marathon is one of the largest annual sporting events in the region.", "The Grand Serail was originally built as an Ottoman military barracks in 1853.", "Beirut's Martyrs' Square features a famous bronze monument riddled with bullet holes from the war.", "The city's altitude ranges from sea level to about 100 meters on its hills.", "Beirut was a major center for silk production and export in the 19th century.", "The ABC Mall in Achrafieh is one of the oldest and most popular shopping centers in Lebanon."],
     }, image: "/poi-images/beirut-cities-v2.webp"},
   {
-    id: "tripoli-cities-v2",
+    id: "tripoli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة طرابلس",
+                  "text": "Qala'at Tarablus ist eine historische Zitadelle in der Stadt Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.844477,
+                        34.433372
+                  ]
+            },
+            {
+                  "name": "Löwenturm",
+                  "text": "Lion Tower ist ein Schloss in der Stadt Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.830624,
+                        34.449886
+                  ]
+            },
+            {
+                  "name": "مركز الصفدي الثقافي",
+                  "text": "Safadi Cultural Centre ist ein Theater in der Stadt Tripoli.",
+                  "category": "cultural",
+                  "coords": [
+                        35.827428,
+                        34.432221
+                  ]
+            },
+            {
+                  "name": "نقابة المهندسين",
+                  "text": "Syndicate of Engineers ist ein Theater in der Stadt Tripoli.",
+                  "category": "cultural",
+                  "coords": [
+                        35.82517,
+                        34.430299
+                  ]
+            },
+            {
+                  "name": "Dado land",
+                  "text": "Dado land ist ein Freizeitpark in der Stadt Tripoli.",
+                  "category": "recreational",
+                  "coords": [
+                        35.807821,
+                        34.448241
+                  ]
+            },
+            {
+                  "name": "Nawfal Palace",
+                  "text": "Nawfal Palace ist ein Schloss in der Stadt Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.83746,
+                        34.437087
+                  ]
+            },
+            {
+                  "name": "قصر",
+                  "text": "قصر ist ein Schloss in der Stadt Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.820566,
+                        34.426225
+                  ]
+            },
+            {
+                  "name": "Sultan Abdulhamid Clocktower",
+                  "text": "Sultan Abdulhamid Clocktower ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.838456,
+                        34.436918
+                  ]
+            },
+            {
+                  "name": "مسجد الوديع",
+                  "text": "مسجد الوديع ist ein Monument in der Stadt Tripoli.",
+                  "category": "historical",
+                  "coords": [
+                        35.850557,
+                        34.429868
+                  ]
+            },
+            {
+                  "name": "Hammam Ezzeldine",
+                  "text": "Hammam Ezzeldine ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845186,
+                        34.435653
+                  ]
+            },
+            {
+                  "name": "Rachid Karami International Fair (RKIF)",
+                  "text": "Rachid Karami International Fair (RKIF) ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825991,
+                        34.437673
+                  ]
+            },
+            {
+                  "name": "Al Saboun Caravanserai",
+                  "text": "Al Saboun Caravanserai ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.843609,
+                        34.43563
+                  ]
+            },
+            {
+                  "name": "Open Air Auditorium",
+                  "text": "Open Air Auditorium ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.824024,
+                        34.439573
+                  ]
+            },
+            {
+                  "name": "Concert Hall",
+                  "text": "Concert Hall ist eine Sehenswürdigkeit in der Stadt Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825751,
+                        34.438712
+                  ]
+            },
+            {
+                  "name": "مسجد البرطاسي",
+                  "text": "Die Bertasi Mosque ist eine bedeutende religiöse Stätte in der Stadt Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.846237,
+                        34.435649
+                  ]
+            },
+            {
+                  "name": "مسجد التوبة",
+                  "text": "Die Al-Tawbat-Moschee ist ein bekanntes Gotteshaus in Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.846081,
+                        34.437867
+                  ]
+            },
+            {
+                  "name": "جامع الحميدي",
+                  "text": "Die Al-Hamidi-Moschee ist ein lokales Gotteshaus in Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.844142,
+                        34.438329
+                  ]
+            },
+            {
+                  "name": "المسجد المعلق",
+                  "text": "Die Mu'allaq-Moschee ist ein Gotteshaus in Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.841886,
+                        34.432329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة طرابلس",
+                  "text": "A Qala'at Tarablus egy történelmi fellegvár Tripoli városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.844477,
+                        34.433372
+                  ]
+            },
+            {
+                  "name": "برج السبع",
+                  "text": "A Lion Tower egy kastély Tripoli városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.830624,
+                        34.449886
+                  ]
+            },
+            {
+                  "name": "مركز الصفدي الثقافي",
+                  "text": "A Safadi Cultural Centre egy színház Tripoli városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.827428,
+                        34.432221
+                  ]
+            },
+            {
+                  "name": "نقابة المهندسين",
+                  "text": "A Syndicate of Engineers egy színház Tripoli városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.82517,
+                        34.430299
+                  ]
+            },
+            {
+                  "name": "Dado land",
+                  "text": "A Dado land egy vidámpark Tripoli városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.807821,
+                        34.448241
+                  ]
+            },
+            {
+                  "name": "Nawfal Palace",
+                  "text": "A Nawfal Palace egy kastély Tripoli városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.83746,
+                        34.437087
+                  ]
+            },
+            {
+                  "name": "قصر",
+                  "text": "A قصر egy kastély Tripoli városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.820566,
+                        34.426225
+                  ]
+            },
+            {
+                  "name": "Sultan Abdulhamid Clocktower",
+                  "text": "A Sultan Abdulhamid Clocktower egy turisztikai látványosság Tripoli városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.838456,
+                        34.436918
+                  ]
+            },
+            {
+                  "name": "مسجد الوديع",
+                  "text": "A مسجد الوديع egy emlékmű Tripoli városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.850557,
+                        34.429868
+                  ]
+            },
+            {
+                  "name": "Hammam Ezzeldine",
+                  "text": "A Hammam Ezzeldine egy turisztikai látványosság Tripoli városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845186,
+                        34.435653
+                  ]
+            },
+            {
+                  "name": "Rachid Karami International Fair (RKIF)",
+                  "text": "A Rachid Karami International Fair (RKIF) egy turisztikai látványosság Tripoli városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825991,
+                        34.437673
+                  ]
+            },
+            {
+                  "name": "Al Saboun Caravanserai",
+                  "text": "Az Al Saboun Caravanserai egy turisztikai látványosság Tripoli városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.843609,
+                        34.43563
+                  ]
+            },
+            {
+                  "name": "Open Air Auditorium",
+                  "text": "Az Open Air Auditorium egy turisztikai látványosság Tripoli városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.824024,
+                        34.439573
+                  ]
+            },
+            {
+                  "name": "Concert Hall",
+                  "text": "A Concert Hall egy turisztikai látványosság Tripoli városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825751,
+                        34.438712
+                  ]
+            },
+            {
+                  "name": "مسجد البرطاسي",
+                  "text": "A Bertasi Mosque egy jelentős istentiszteleti hely Tripoli városában.",
+                  "category": "religious",
+                  "coords": [
+                        35.846237,
+                        34.435649
+                  ]
+            },
+            {
+                  "name": "مسجد التوبة",
+                  "text": "Az Al-Tawbat-mecset egy ismert istentiszteleti hely Tripoli városában.",
+                  "category": "religious",
+                  "coords": [
+                        35.846081,
+                        34.437867
+                  ]
+            },
+            {
+                  "name": "جامع الحميدي",
+                  "text": "Az Al-Hamidi mecset egy helyi istentiszteleti hely Tripoli városában.",
+                  "category": "religious",
+                  "coords": [
+                        35.844142,
+                        34.438329
+                  ]
+            },
+            {
+                  "name": "المسجد المعلق",
+                  "text": "A Mu'allaq mecset egy istentiszteleti hely Tripoli városában.",
+                  "category": "religious",
+                  "coords": [
+                        35.841886,
+                        34.432329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة طرابلس",
+                  "text": "Qala'at Tarablus este o cetate istorică din orașul Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.844477,
+                        34.433372
+                  ]
+            },
+            {
+                  "name": "برج السبع",
+                  "text": "Lion Tower este un castel din orașul Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.830624,
+                        34.449886
+                  ]
+            },
+            {
+                  "name": "مركز الصفدي الثقافي",
+                  "text": "Safadi Cultural Centre este un teatru din orașul Tripoli.",
+                  "category": "cultural",
+                  "coords": [
+                        35.827428,
+                        34.432221
+                  ]
+            },
+            {
+                  "name": "نقابة المهندسين",
+                  "text": "Syndicate of Engineers este un teatru din orașul Tripoli.",
+                  "category": "cultural",
+                  "coords": [
+                        35.82517,
+                        34.430299
+                  ]
+            },
+            {
+                  "name": "Dado land",
+                  "text": "Dado land este un parc de distracții din orașul Tripoli.",
+                  "category": "recreational",
+                  "coords": [
+                        35.807821,
+                        34.448241
+                  ]
+            },
+            {
+                  "name": "Nawfal Palace",
+                  "text": "Nawfal Palace este un castel din orașul Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.83746,
+                        34.437087
+                  ]
+            },
+            {
+                  "name": "قصر",
+                  "text": "قصر este un castel din orașul Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.820566,
+                        34.426225
+                  ]
+            },
+            {
+                  "name": "Sultan Abdulhamid Clocktower",
+                  "text": "Sultan Abdulhamid Clocktower este o atracție turistică în orașul Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.838456,
+                        34.436918
+                  ]
+            },
+            {
+                  "name": "مسجد الوديع",
+                  "text": "مسجد الوديع este un monument din orașul Tripoli.",
+                  "category": "historical",
+                  "coords": [
+                        35.850557,
+                        34.429868
+                  ]
+            },
+            {
+                  "name": "Hammam Ezzeldine",
+                  "text": "Hammam Ezzeldine este o atracție turistică în orașul Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845186,
+                        34.435653
+                  ]
+            },
+            {
+                  "name": "Rachid Karami International Fair (RKIF)",
+                  "text": "Rachid Karami International Fair (RKIF) este o atracție turistică în orașul Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825991,
+                        34.437673
+                  ]
+            },
+            {
+                  "name": "Al Saboun Caravanserai",
+                  "text": "Al Saboun Caravanserai este o atracție turistică în orașul Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.843609,
+                        34.43563
+                  ]
+            },
+            {
+                  "name": "Open Air Auditorium",
+                  "text": "Open Air Auditorium este o atracție turistică în orașul Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.824024,
+                        34.439573
+                  ]
+            },
+            {
+                  "name": "Concert Hall",
+                  "text": "Concert Hall este o atracție turistică în orașul Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825751,
+                        34.438712
+                  ]
+            },
+            {
+                  "name": "مسجد البرطاسي",
+                  "text": "Bertasi Mosque este un lăcaș de cult important din orașul Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.846237,
+                        34.435649
+                  ]
+            },
+            {
+                  "name": "مسجد التوبة",
+                  "text": "Moscheea Al-Tawbat este un lăcaș de cult recunoscut din Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.846081,
+                        34.437867
+                  ]
+            },
+            {
+                  "name": "جامع الحميدي",
+                  "text": "Moscheea Al-Hamidi este un lăcaș de cult local din Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.844142,
+                        34.438329
+                  ]
+            },
+            {
+                  "name": "المسجد المعلق",
+                  "text": "Moscheea Mu'allaq este un lăcaș de cult situat în Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.841886,
+                        34.432329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qala'at Tarablus",
+                  "text": "Qala'at Tarablus is a historic citadel located in the city of Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.844477,
+                        34.433372
+                  ]
+            },
+            {
+                  "name": "Lion Tower",
+                  "text": "Lion Tower is a castle located in the city of Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.830624,
+                        34.449886
+                  ]
+            },
+            {
+                  "name": "Safadi Cultural Centre",
+                  "text": "Safadi Cultural Centre is a theatre located in the city of Tripoli.",
+                  "category": "cultural",
+                  "coords": [
+                        35.827428,
+                        34.432221
+                  ]
+            },
+            {
+                  "name": "Syndicate of Engineers",
+                  "text": "Syndicate of Engineers is a theatre located in the city of Tripoli.",
+                  "category": "cultural",
+                  "coords": [
+                        35.82517,
+                        34.430299
+                  ]
+            },
+            {
+                  "name": "Dado land",
+                  "text": "Dado land is a theme park located in the city of Tripoli.",
+                  "category": "recreational",
+                  "coords": [
+                        35.807821,
+                        34.448241
+                  ]
+            },
+            {
+                  "name": "Nawfal Palace",
+                  "text": "Nawfal Palace is a castle located in the city of Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.83746,
+                        34.437087
+                  ]
+            },
+            {
+                  "name": "قصر",
+                  "text": "قصر is a castle located in the city of Tripoli.",
+                  "category": "castle",
+                  "coords": [
+                        35.820566,
+                        34.426225
+                  ]
+            },
+            {
+                  "name": "Sultan Abdulhamid Clocktower",
+                  "text": "Sultan Abdulhamid Clocktower is a tourist attraction located in the city of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.838456,
+                        34.436918
+                  ]
+            },
+            {
+                  "name": "مسجد الوديع",
+                  "text": "مسجد الوديع is a monument located in the city of Tripoli.",
+                  "category": "historical",
+                  "coords": [
+                        35.850557,
+                        34.429868
+                  ]
+            },
+            {
+                  "name": "Hammam Ezzeldine",
+                  "text": "Hammam Ezzeldine is a tourist attraction located in the city of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.845186,
+                        34.435653
+                  ]
+            },
+            {
+                  "name": "Rachid Karami International Fair (RKIF)",
+                  "text": "Rachid Karami International Fair (RKIF) is a tourist attraction located in the city of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825991,
+                        34.437673
+                  ]
+            },
+            {
+                  "name": "Al Saboun Caravanserai",
+                  "text": "Al Saboun Caravanserai is a tourist attraction located in the city of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.843609,
+                        34.43563
+                  ]
+            },
+            {
+                  "name": "Open Air Auditorium",
+                  "text": "The Open Air Auditorium is a tourist attraction located in the city of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.824024,
+                        34.439573
+                  ]
+            },
+            {
+                  "name": "Concert Hall",
+                  "text": "Concert Hall is a tourist attraction located in the city of Tripoli.",
+                  "category": "landmark",
+                  "coords": [
+                        35.825751,
+                        34.438712
+                  ]
+            },
+            {
+                  "name": "Bertasi Mosque",
+                  "text": "The Bertasi Mosque is a notable place of worship located in the city of Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.846237,
+                        34.435649
+                  ]
+            },
+            {
+                  "name": "Al-Tawbat Mosque",
+                  "text": "The Al-Tawbat Mosque is a notable place of worship located in Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.846081,
+                        34.437867
+                  ]
+            },
+            {
+                  "name": "Al-Hamidi Mosque",
+                  "text": "Al-Hamidi Mosque is a local place of worship situated in Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.844142,
+                        34.438329
+                  ]
+            },
+            {
+                  "name": "Mu'allaq Mosque",
+                  "text": "Mu'allaq Mosque is a place of worship located in Tripoli.",
+                  "category": "religious",
+                  "coords": [
+                        35.841886,
+                        34.432329
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-AS",
     coords: [35.8362, 34.4367],
@@ -272,7 +929,628 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 37 kilomètres au nord de Beyrouth", "Occupation depuis le VIIe millénaire av. J.-C.", "Berceau de l'alphabet phénicien au XIe siècle av. J.-C.", "Plus important marché de papyrus au IIIe millénaire av. J.-C.", "Château des Croisés édifié à partir de 1104", "Patrimoine mondial de l'UNESCO depuis 1984", "Tombes royales avec le célèbre sarcophage d'Ahiram", "Sept couches de civilisations successives explorées"],
     }, image: "/poi-images/byblos-cities-v2.webp"},
   {
-    id: "jounieh-cities-v2",
+    id: "jounieh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Théâtre George V",
+                  "text": "Das Georges 5 theater ist ein aktiver Aufführungsraum für Theater in Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "MBC ist ein regionaler Veranstaltungsort für Theater in der Stadt Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Das Archäologische Museum in Jounieh stellt verschiedene lokale historische und antike Artefakte aus.",
+                  "category": "museum",
+                  "coords": [
+                        35.61929,
+                        33.981808
+                  ]
+            },
+            {
+                  "name": "متحف الاستقلال",
+                  "text": "Das Museum of Independence in Jounieh widmet sich der Ausstellung des historischen Erbes der Region.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "رمال",
+                  "text": "Rimal ist ein beliebtes Strandresort an der Küste von Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600566,
+                        33.961446
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Dream Park ist ein unterhaltsamer lokaler Themenpark mit Fahrgeschäften und Attraktionen in Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609305,
+                        33.956643
+                  ]
+            },
+            {
+                  "name": "المدرج الروماني",
+                  "text": "Das römische Amphitheater in Jounieh ist ein historisches Bauwerk, das verschiedene Theaterveranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624482,
+                        33.968008
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "Mocean ist ein einladendes Strandresort in der Küstenstadt Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "Koa ist ein angenehmes Strandresort, das Freizeit an der Küste in Jounieh bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "Liban habitat ist als ein bemerkenswertes lokales Denkmal in Jounieh anerkannt.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "سوق الذوق",
+                  "text": "Der Souk du Zouk ist ein traditioneller Markt und eine beliebte Attraktion in Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "شارع جميلة لتنزه في كسليك",
+                  "text": "Die alte Straße von Jounieh in der Nähe der Corniche ist eine charmante historische Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        35.630221,
+                        33.983162
+                  ]
+            },
+            {
+                  "name": "جولة بحرية",
+                  "text": "جولة بحرية bezieht sich auf eine beliebte Bootstour-Attraktion in Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625937,
+                        33.983648
+                  ]
+            },
+            {
+                  "name": "شاطئ رملي عام جونية",
+                  "text": "Der öffentliche Sandstrand in Jounieh dient als malerischer Küstenaussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990319
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "Solemar ist ein angesehenes Strandresort an den Ufern von Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611761,
+                        33.978814
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "Das Samaya Beach Resort ist ein entspannendes Urlaubsziel in Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977219
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "Die als large home bezeichnete Stätte ist ein markantes Herrenhaus in Jounieh.",
+                  "category": "historical",
+                  "coords": [
+                        35.641055,
+                        33.985542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Théâtre George V",
+                  "text": "A Georges 5 theater egy aktív színházi előadótér Jounieh városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "Az MBC egy regionális színházi helyszín Jounieh városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "A jounieh-i Régészeti Múzeum különféle helyi történelmi és ókori leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        35.61929,
+                        33.981808
+                  ]
+            },
+            {
+                  "name": "متحف الاستقلال",
+                  "text": "A jounieh-i Függetlenségi Múzeum a régió történelmi örökségének bemutatására szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "رمال",
+                  "text": "A Rimal egy népszerű tengerparti üdülőhely Jounieh partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600566,
+                        33.961446
+                  ]
+            },
+            {
+                  "name": "دريم بارك",
+                  "text": "A Dream Park egy szórakoztató helyi vidámpark, amely játékokat és látványosságokat kínál Jounieh-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609305,
+                        33.956643
+                  ]
+            },
+            {
+                  "name": "المدرج الروماني",
+                  "text": "A jounieh-i római amfiteátrum egy történelmi építmény, amely különféle színházi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624482,
+                        33.968008
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "A Mocean egy hívogató tengerparti üdülőhely Jounieh tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "A Koa egy kellemes tengerparti üdülőhely, amely part menti kikapcsolódást nyújt Jounieh-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "A Liban habitat egy elismert helyi műemlék Jounieh városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "سوق الذوق",
+                  "text": "A Souk du Zouk egy hagyományos piac és népszerű látványosság Jounieh-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "شارع جميلة لتنزه في كسليك",
+                  "text": "A jounieh-i óvárosi utca a sétány közelében egy bájos történelmi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        35.630221,
+                        33.983162
+                  ]
+            },
+            {
+                  "name": "جولة بحرية",
+                  "text": "A جولة بحرية egy népszerű tengeri túra látványosság Jounieh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625937,
+                        33.983648
+                  ]
+            },
+            {
+                  "name": "شاطئ رملي عام جونية",
+                  "text": "A jounieh-i nyilvános homokos strand egy festői part menti kilátóként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990319
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "A Solemar egy kiemelkedő tengerparti üdülőhely Jounieh partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611761,
+                        33.978814
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "A Samaya Beach Resort egy pihentető nyaralóhely Jounieh városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977219
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "A large home néven megjelölt helyszín egy jellegzetes udvarház Jounieh-ban.",
+                  "category": "historical",
+                  "coords": [
+                        35.641055,
+                        33.985542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Théâtre George V",
+                  "text": "Georges 5 theater este un spațiu activ pentru spectacole teatrale în Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "MBC este o locație teatrală regională situată în orașul Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "Muzeul Arheologic din Jounieh expune diverse artefacte locale istorice și antice.",
+                  "category": "museum",
+                  "coords": [
+                        35.61929,
+                        33.981808
+                  ]
+            },
+            {
+                  "name": "متحف الاستقلال",
+                  "text": "Museum of Independence din Jounieh este dedicat expunerii patrimoniului istoric al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "رمال",
+                  "text": "Rimal este o destinație populară de plajă de-a lungul coastei din Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600566,
+                        33.961446
+                  ]
+            },
+            {
+                  "name": "دريم بارك",
+                  "text": "Dream Park este un parc tematic local distractiv, care oferă atracții de agrement în Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609305,
+                        33.956643
+                  ]
+            },
+            {
+                  "name": "المدرج الروماني",
+                  "text": "Amfiteatrul Roman din Jounieh este o structură istorică ce găzduiește diverse evenimente teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624482,
+                        33.968008
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "Mocean este un complex turistic pe plajă atrăgător, situat în orașul de coastă Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "Koa este un complex turistic plăcut pe plajă, oferind recreere pe coastă în Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "Liban habitat este recunoscut ca un monument local notabil situat în Jounieh.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "سوق الذوق",
+                  "text": "Souk du Zouk este o piață tradițională și o atracție populară în Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "شارع جميلة لتنزه في كسليك",
+                  "text": "Strada veche din Jounieh de lângă cornișă este o atracție istorică fermecătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        35.630221,
+                        33.983162
+                  ]
+            },
+            {
+                  "name": "جولة بحرية",
+                  "text": "جولة بحرية se referă la o populară atracție de tururi maritime disponibilă în Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625937,
+                        33.983648
+                  ]
+            },
+            {
+                  "name": "شاطئ رملي عام جونية",
+                  "text": "Plaja publică de nisip din Jounieh servește ca un punct de belvedere costier pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990319
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "Solemar este o stațiune de plajă distinsă, stabilită de-a lungul țărmurilor din Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611761,
+                        33.978814
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "Samaya Beach Resort este o destinație de vacanță relaxantă situată în Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977219
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "Locul desemnat drept large home este un conac distinctiv în Jounieh.",
+                  "category": "historical",
+                  "coords": [
+                        35.641055,
+                        33.985542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Georges 5 theater",
+                  "text": "Georges 5 theater is an active theatrical performance space in Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.609717,
+                        33.965875
+                  ]
+            },
+            {
+                  "name": "MBC",
+                  "text": "MBC is a regional theatre venue situated in the city of Jounieh.",
+                  "category": "cultural",
+                  "coords": [
+                        35.612865,
+                        33.957934
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "The Archaeological Museum in Jounieh exhibits various local historical and ancient artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        35.61929,
+                        33.981808
+                  ]
+            },
+            {
+                  "name": "Museum of Independence",
+                  "text": "The Museum of Independence in Jounieh is dedicated to displaying the region's historical heritage.",
+                  "category": "museum",
+                  "coords": [
+                        35.643815,
+                        33.988145
+                  ]
+            },
+            {
+                  "name": "Rimal",
+                  "text": "Rimal is a popular beach resort destination along the coast of Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.600566,
+                        33.961446
+                  ]
+            },
+            {
+                  "name": "Dream Park",
+                  "text": "Dream Park is an entertaining local theme park offering rides and attractions in Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609305,
+                        33.956643
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre",
+                  "text": "The Roman Amphitheatre in Jounieh is a historic structure that hosts various theatrical events.",
+                  "category": "cultural",
+                  "coords": [
+                        35.624482,
+                        33.968008
+                  ]
+            },
+            {
+                  "name": "Mocean",
+                  "text": "Mocean is an inviting beach resort located in the coastal city of Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610528,
+                        33.976308
+                  ]
+            },
+            {
+                  "name": "Koa",
+                  "text": "Koa is a pleasant beach resort providing coastal leisure in Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.609674,
+                        33.975259
+                  ]
+            },
+            {
+                  "name": "Liban habitat",
+                  "text": "Liban habitat is recognized as a notable local monument situated in Jounieh.",
+                  "category": "historical",
+                  "coords": [
+                        35.630391,
+                        33.963873
+                  ]
+            },
+            {
+                  "name": "Souk du Zouk",
+                  "text": "Souk du Zouk is a traditional market and a popular attraction in Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625863,
+                        33.968297
+                  ]
+            },
+            {
+                  "name": "Jounieh old street near corniche",
+                  "text": "The Jounieh old street near the corniche is a charming historical attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        35.630221,
+                        33.983162
+                  ]
+            },
+            {
+                  "name": "جولة بحرية",
+                  "text": "جولة بحرية refers to a popular marine tour attraction available in Jounieh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.625937,
+                        33.983648
+                  ]
+            },
+            {
+                  "name": "Public sand beach Jounieh",
+                  "text": "The Public sand beach in Jounieh serves as a scenic coastal viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        35.637686,
+                        33.990319
+                  ]
+            },
+            {
+                  "name": "Solemar",
+                  "text": "Solemar is a distinguished beach resort established along the shores of Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.611761,
+                        33.978814
+                  ]
+            },
+            {
+                  "name": "Samaya Beach Resort",
+                  "text": "Samaya Beach Resort is a relaxing holiday destination located in Jounieh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.610255,
+                        33.977219
+                  ]
+            },
+            {
+                  "name": "large home",
+                  "text": "The site designated as a large home is a distinctive manor in Jounieh.",
+                  "category": "historical",
+                  "coords": [
+                        35.641055,
+                        33.985542
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-JL",
     coords: [35.6186, 33.9814],
@@ -327,7 +1605,412 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 100 000 habitants, 16 km au nord de Beyrouth", "Ancien établissement phénicien de Porphyréon", "Téléférique en service depuis 1965", "Statue de Notre-Dame du Liban datant de 1908", "Centre économique pendant la guerre civile (1975-1990)", "Casino du Liban ouvert depuis 1959", "Baie en croissant avec 600 mètres de dénivelé", "Développement du port sous le mandat français"],
     }, image: "/poi-images/jounieh-cities-v2.webp"},
   {
-    id: "baalbek-cities-v2",
+    id: "baalbek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qubbat as Sa`ādīn",
+                  "text": "Qubbat as Sa`adin ist ein historisches Schloss in Baalbek.",
+                  "category": "castle",
+                  "coords": [
+                        36.202993,
+                        34.011013
+                  ]
+            },
+            {
+                  "name": "Steinbruch von Baalbek",
+                  "text": "Dieser Steinbruch in Baalbek ist eine bedeutende archäologische Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        36.198844,
+                        33.998791
+                  ]
+            },
+            {
+                  "name": "Stein der schwangeren Frau",
+                  "text": "Der Stein der schwangeren Frau ist ein gigantischer antiker Monolith in Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.200121,
+                        33.999167
+                  ]
+            },
+            {
+                  "name": "Bacchustempel",
+                  "text": "Der Bacchus-Tempel in Baalbek gilt als einer der besterhaltenen römischen Tempel.",
+                  "category": "historical",
+                  "coords": [
+                        36.203976,
+                        34.006106
+                  ]
+            },
+            {
+                  "name": "Balbeek alter Bahnhof",
+                  "text": "Der alte Bahnhof von Baalbek ist ein historisches Relikt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19502,
+                        34.002622
+                  ]
+            },
+            {
+                  "name": "مرقد السيدة خولة بنت الإمام الحسين",
+                  "text": "Das Grabmal der Sayyida Khawla ist ein bedeutendes religiöses Monument in Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.20176,
+                        34.001832
+                  ]
+            },
+            {
+                  "name": "Flour Caves",
+                  "text": "Die Mehlhöhlen sind eine natürliche Sehenswürdigkeit in der Nähe von Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.209246,
+                        34.01401
+                  ]
+            },
+            {
+                  "name": "Great Court",
+                  "text": "Der Große Hof ist ein zentraler Teil der beeindruckenden Tempelanlage von Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.204414,
+                        34.007058
+                  ]
+            },
+            {
+                  "name": "Propyläen",
+                  "text": "Die Propyläen bildeten einst den prachtvollen Eingang zur Tempelanlage von Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.20559,
+                        34.007306
+                  ]
+            },
+            {
+                  "name": "Venustempel",
+                  "text": "Der Venus-Tempel ist eine antike Ruinenstätte in Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.206193,
+                        34.006048
+                  ]
+            },
+            {
+                  "name": "Lion Temple's",
+                  "text": "Der Löwentempel ist ein antikes Bauwerk in Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.202954,
+                        34.006593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قبلة السعادين",
+                  "text": "A Qubbat as Sa`adin egy történelmi kastély Baalbekben.",
+                  "category": "castle",
+                  "coords": [
+                        36.202993,
+                        34.011013
+                  ]
+            },
+            {
+                  "name": "محجر بعلبك",
+                  "text": "Ez a kőbánya Baalbekben egy jelentős régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        36.198844,
+                        33.998791
+                  ]
+            },
+            {
+                  "name": "حجر الحبلى",
+                  "text": "A terhes nő köve egy óriási ókori monolit Baalbekben.",
+                  "category": "historical",
+                  "coords": [
+                        36.200121,
+                        33.999167
+                  ]
+            },
+            {
+                  "name": "معبد باخوس",
+                  "text": "A Baalbeki Bacchus-templom az egyik legjobban megőrzött római templomnak számít.",
+                  "category": "historical",
+                  "coords": [
+                        36.203976,
+                        34.006106
+                  ]
+            },
+            {
+                  "name": "Baalbek old train station",
+                  "text": "A régi baalbeki vasútállomás egy történelmi emlék.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19502,
+                        34.002622
+                  ]
+            },
+            {
+                  "name": "مرقد السيدة خولة بنت الإمام الحسين",
+                  "text": "Sayyida Khawla sírhelye egy jelentős vallási emlékmű Baalbekben.",
+                  "category": "historical",
+                  "coords": [
+                        36.20176,
+                        34.001832
+                  ]
+            },
+            {
+                  "name": "Flour Caves",
+                  "text": "A Liszt-barlangok egy természeti látnivaló Baalbek közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        36.209246,
+                        34.01401
+                  ]
+            },
+            {
+                  "name": "غران باتيو",
+                  "text": "A Nagy Udvar a baalbeki lenyűgöző templomegyüttes központi része.",
+                  "category": "historical",
+                  "coords": [
+                        36.204414,
+                        34.007058
+                  ]
+            },
+            {
+                  "name": "Propylaea",
+                  "text": "A Propülaia egykor a baalbeki templomegyüttes pazar bejárata volt.",
+                  "category": "historical",
+                  "coords": [
+                        36.20559,
+                        34.007306
+                  ]
+            },
+            {
+                  "name": "معبد فينوس",
+                  "text": "A Vénusz-templom egy ókori romterület Baalbekben.",
+                  "category": "historical",
+                  "coords": [
+                        36.206193,
+                        34.006048
+                  ]
+            },
+            {
+                  "name": "Lion Temple's",
+                  "text": "Az Oroszlán-templom egy ókori építmény Baalbekben.",
+                  "category": "landmark",
+                  "coords": [
+                        36.202954,
+                        34.006593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قبلة السعادين",
+                  "text": "Qubbat as Sa`adin este un castel istoric în Baalbek.",
+                  "category": "castle",
+                  "coords": [
+                        36.202993,
+                        34.011013
+                  ]
+            },
+            {
+                  "name": "محجر بعلبك",
+                  "text": "Această carieră din Baalbek este un sit arheologic important.",
+                  "category": "historical",
+                  "coords": [
+                        36.198844,
+                        33.998791
+                  ]
+            },
+            {
+                  "name": "حجر الحبلى",
+                  "text": "Piatra Femeii Însărcinate este un monolit antic gigantic în Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.200121,
+                        33.999167
+                  ]
+            },
+            {
+                  "name": "معبد باخوس",
+                  "text": "Templul lui Bacchus din Baalbek este considerat unul dintre cele mai bine conservate temple romane.",
+                  "category": "historical",
+                  "coords": [
+                        36.203976,
+                        34.006106
+                  ]
+            },
+            {
+                  "name": "Baalbek old train station",
+                  "text": "Vechea gară din Baalbek este o relicvă istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19502,
+                        34.002622
+                  ]
+            },
+            {
+                  "name": "مرقد السيدة خولة بنت الإمام الحسين",
+                  "text": "Mormântul lui Sayyida Khawla este un monument religios important în Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.20176,
+                        34.001832
+                  ]
+            },
+            {
+                  "name": "Flour Caves",
+                  "text": "Peșterile de făină sunt o atracție naturală lângă Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.209246,
+                        34.01401
+                  ]
+            },
+            {
+                  "name": "غران باتيو",
+                  "text": "Marea Curte este o parte centrală a impresionantului complex de temple din Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.204414,
+                        34.007058
+                  ]
+            },
+            {
+                  "name": "Propylaea",
+                  "text": "Propileele formau odinioară intrarea somptuoasă în complexul de temple din Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.20559,
+                        34.007306
+                  ]
+            },
+            {
+                  "name": "معبد فينوس",
+                  "text": "Templul lui Venus este un sit de ruine antice în Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.206193,
+                        34.006048
+                  ]
+            },
+            {
+                  "name": "Lion Temple's",
+                  "text": "Templul Leului este o structură antică în Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.202954,
+                        34.006593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qubbat as Sa`adin",
+                  "text": "Qubbat as Sa`adin is a historic castle in Baalbek.",
+                  "category": "castle",
+                  "coords": [
+                        36.202993,
+                        34.011013
+                  ]
+            },
+            {
+                  "name": "Baalbeck Quarry",
+                  "text": "This quarry in Baalbek is a significant archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        36.198844,
+                        33.998791
+                  ]
+            },
+            {
+                  "name": "Stone of the Pregnant Woman",
+                  "text": "The Stone of the Pregnant Woman is a gigantic ancient monolith in Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.200121,
+                        33.999167
+                  ]
+            },
+            {
+                  "name": "Temple of Bacchus",
+                  "text": "The Temple of Bacchus in Baalbek is considered one of the best-preserved Roman temples.",
+                  "category": "historical",
+                  "coords": [
+                        36.203976,
+                        34.006106
+                  ]
+            },
+            {
+                  "name": "Baalbek old train station",
+                  "text": "The old train station of Baalbek is a historic relic.",
+                  "category": "landmark",
+                  "coords": [
+                        36.19502,
+                        34.002622
+                  ]
+            },
+            {
+                  "name": "مرقد السيدة خولة بنت الإمام الحسين",
+                  "text": "The shrine of Sayyida Khawla is a significant religious monument in Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.20176,
+                        34.001832
+                  ]
+            },
+            {
+                  "name": "Flour Caves",
+                  "text": "The Flour Caves are a natural attraction near Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.209246,
+                        34.01401
+                  ]
+            },
+            {
+                  "name": "Great Court",
+                  "text": "The Great Court is a central part of the impressive temple complex of Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.204414,
+                        34.007058
+                  ]
+            },
+            {
+                  "name": "Propylaea",
+                  "text": "The Propylaea once formed the magnificent entrance to the temple complex of Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.20559,
+                        34.007306
+                  ]
+            },
+            {
+                  "name": "Temple of Venus",
+                  "text": "The Temple of Venus is an ancient ruin site in Baalbek.",
+                  "category": "historical",
+                  "coords": [
+                        36.206193,
+                        34.006048
+                  ]
+            },
+            {
+                  "name": "Lion Temple",
+                  "text": "The Lion Temple is an ancient structure in Baalbek.",
+                  "category": "landmark",
+                  "coords": [
+                        36.202954,
+                        34.006593
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-BH",
     coords: [36.2044, 34.0058],
@@ -437,7 +2120,88 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 130 000 habitants, plus grande ville chrétienne du Liban", "Capitale du gouvernorat de la Bekaa à 1 050 mètres d'altitude", "Fondation au XVIIIe siècle par des chrétiens melkites", "Destruction lors des combats druzo-maronites de 1860", "Mandat français entre 1920 et 1943", "Fête du vin organisée chaque année depuis 1957", "Cœur de la viticulture libanaise avec les vins de la Bekaa", "Restaurants bordant la rivière Berdawni"],
     }, image: "/poi-images/zahle-cities-v2.webp"},
   {
-    id: "nabatieh-cities-v2",
+    id: "nabatieh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "كراج بيروت - نبطية",
+                  "text": "كراج بيروت - نبطية ist ein anerkanntes lokales Denkmal in Nabatäa.",
+                  "category": "historical",
+                  "coords": [
+                        35.484413,
+                        33.378937
+                  ]
+            },
+            {
+                  "name": "كفرجوز",
+                  "text": "كفرجوز ist ein bemerkenswertes historisches Denkmal in Nabatäa.",
+                  "category": "historical",
+                  "coords": [
+                        35.479706,
+                        33.395811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "كراج بيروت - نبطية",
+                  "text": "A كراج بيروت - نبطية egy elismert helyi műemlék Nabatije városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.484413,
+                        33.378937
+                  ]
+            },
+            {
+                  "name": "كفرجوز",
+                  "text": "A كفرجوز egy figyelemre méltó történelmi műemlék Nabatije-ben.",
+                  "category": "historical",
+                  "coords": [
+                        35.479706,
+                        33.395811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "كراج بيروت - نبطية",
+                  "text": "كراج بيروت - نبطية este un monument local recunoscut, aflat în Nabatäa.",
+                  "category": "historical",
+                  "coords": [
+                        35.484413,
+                        33.378937
+                  ]
+            },
+            {
+                  "name": "كفرجوز",
+                  "text": "كفرجوز se distinge ca un monument istoric remarcabil în Nabatäa.",
+                  "category": "historical",
+                  "coords": [
+                        35.479706,
+                        33.395811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "كراج بيروت - نبطية",
+                  "text": "كراج بيروت - نبطية is a recognized local monument found in Nabatäa.",
+                  "category": "historical",
+                  "coords": [
+                        35.484413,
+                        33.378937
+                  ]
+            },
+            {
+                  "name": "كفرجوز",
+                  "text": "كفرجوز stands as a noteworthy historical monument in Nabatäa.",
+                  "category": "historical",
+                  "coords": [
+                        35.479706,
+                        33.395811
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-NA",
     coords: [35.4833, 33.3789],
@@ -492,7 +2256,160 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 100 000 habitants à 400 mètres d'altitude", "Capitale du gouvernorat de Nabatieh", "Marché du lundi existant depuis l'époque ottomane", "Mandat français entre 1920 et 1943", "Ville front pendant l'occupation israélienne (1982-2000)", "Célèbres processions chiites de l'Achoura à chaque Muharram", "Forteresse de Beaufort (XIIe siècle) à proximité", "Principal centre chiite du Sud-Liban"],
     }, image: "/poi-images/nabatieh-cities-v2.webp"},
   {
-    id: "aley-cities-v2",
+    id: "aley-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Seidenmuseum",
+                  "text": "Das Seidenmuseum in Aley bietet Einblicke in die traditionelle Handwerkskunst.",
+                  "category": "museum",
+                  "coords": [
+                        35.572282,
+                        33.817898
+                  ]
+            },
+            {
+                  "name": "مدينة ملاهي عاليه",
+                  "text": "Der Luna Park ist ein Vergnügungspark in Aley.",
+                  "category": "recreational",
+                  "coords": [
+                        35.60252,
+                        33.806221
+                  ]
+            },
+            {
+                  "name": "بلاكين عاليه",
+                  "text": "Der Balkon von Aley ist ein bekannter Aussichtspunkt über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        35.603576,
+                        33.808119
+                  ]
+            },
+            {
+                  "name": "راس الجبل عاليه",
+                  "text": "Ras al-Jabal ist eine beliebte Sehenswürdigkeit in Aley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.598383,
+                        33.798644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف الحرير",
+                  "text": "Az aleyi Selyemmúzeum betekintést nyújt a hagyományos kézművességbe.",
+                  "category": "museum",
+                  "coords": [
+                        35.572282,
+                        33.817898
+                  ]
+            },
+            {
+                  "name": "مدينة ملاهي عاليه",
+                  "text": "A Luna Park egy vidámpark Aleyban.",
+                  "category": "recreational",
+                  "coords": [
+                        35.60252,
+                        33.806221
+                  ]
+            },
+            {
+                  "name": "بلاكين عاليه",
+                  "text": "Aley erkélye egy jól ismert kilátópont a város felett.",
+                  "category": "natural",
+                  "coords": [
+                        35.603576,
+                        33.808119
+                  ]
+            },
+            {
+                  "name": "راس الجبل عاليه",
+                  "text": "Ras al-Jabal egy népszerű látnivaló Aleyban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.598383,
+                        33.798644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف الحرير",
+                  "text": "Muzeul Mătăsii din Aley oferă perspective asupra meșteșugurilor tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        35.572282,
+                        33.817898
+                  ]
+            },
+            {
+                  "name": "مدينة ملاهي عاليه",
+                  "text": "Luna Park este un parc tematic în Aley.",
+                  "category": "recreational",
+                  "coords": [
+                        35.60252,
+                        33.806221
+                  ]
+            },
+            {
+                  "name": "بلاكين عاليه",
+                  "text": "Balconul din Aley este un punct de belvedere cunoscut asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        35.603576,
+                        33.808119
+                  ]
+            },
+            {
+                  "name": "راس الجبل عاليه",
+                  "text": "Ras al-Jabal este o atracție populară în Aley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.598383,
+                        33.798644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silk Museum",
+                  "text": "The Silk Museum in Aley offers insights into traditional craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        35.572282,
+                        33.817898
+                  ]
+            },
+            {
+                  "name": "Aley luna park",
+                  "text": "Luna Park is a theme park in Aley.",
+                  "category": "recreational",
+                  "coords": [
+                        35.60252,
+                        33.806221
+                  ]
+            },
+            {
+                  "name": "Balcony of Aley",
+                  "text": "The Balcony of Aley is a well-known viewpoint overlooking the city.",
+                  "category": "natural",
+                  "coords": [
+                        35.603576,
+                        33.808119
+                  ]
+            },
+            {
+                  "name": "راس الجبل عاليه",
+                  "text": "Ras al-Jabal is a popular attraction in Aley.",
+                  "category": "landmark",
+                  "coords": [
+                        35.598383,
+                        33.798644
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-JL",
     coords: [35.6011, 33.8078],
@@ -547,7 +2464,268 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 130 000 habitants à 800 mètres d'altitude", "17 kilomètres au sud-est de Beyrouth", "Résidence d'été de familles riches depuis le XIXe siècle", "Ligne de chemin de fer Beyrouth-Damas depuis 1895", "Mandat français de 1920 à 1943", "Guerre de la Montagne entre Druzes et Chrétiens de 1983 à 1984", "Majorité druze avec une population mixte", "Surnom : Mariée des stations estivales"],
     }, image: "/poi-images/aley-cities-v2.webp"},
   {
-    id: "bcharre-cities-v2",
+    id: "bcharre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gibran Museum",
+                  "text": "Das Gibran-Museum ist ein bemerkenswertes Museum in Bscharre, das dem Schriftsteller Khalil Gibran gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        36.019121,
+                        34.24986
+                  ]
+            },
+            {
+                  "name": "مغارة قاديشا",
+                  "text": "Die Qadisha-Grotte ist ein Höhleneingang in Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.036412,
+                        34.243928
+                  ]
+            },
+            {
+                  "name": "watermill",
+                  "text": "Die Wassermühle ist eine Ruinenstätte in der Stadt Bscharre.",
+                  "category": "historical",
+                  "coords": [
+                        35.98717,
+                        34.25199
+                  ]
+            },
+            {
+                  "name": "La Jetée",
+                  "text": "La Jetée ist ein Aussichtspunkt, der malerische Ausblicke in Bscharre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        36.037166,
+                        34.242526
+                  ]
+            },
+            {
+                  "name": "Viewpoint to waterfall across the valley",
+                  "text": "Der Aussichtspunkt auf den Wasserfall auf der anderen Talseite ist ein malerischer Beobachtungsposten in Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.003574,
+                        34.245586
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Mar Elisha and waterfall",
+                  "text": "Der Aussichtspunkt auf Mar Elisha und den Wasserfall ist eine Beobachtungsplattform in Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.001921,
+                        34.245989
+                  ]
+            },
+            {
+                  "name": "St. Elisha Kloster",
+                  "text": "Das Kloster Saint Elisha ist ein bekanntes Gotteshaus im Kadisha-Tal in Bscharre.",
+                  "category": "religious",
+                  "coords": [
+                        36.001298,
+                        34.248376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gibran Museum",
+                  "text": "A Gibran Múzeum egy nevezetes múzeum Bscharre városában, amelyet Kahlil Gibran írónak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        36.019121,
+                        34.24986
+                  ]
+            },
+            {
+                  "name": "مغارة قاديشا",
+                  "text": "A Qadisha-barlang egy barlangbejárat Bscharre területén.",
+                  "category": "natural",
+                  "coords": [
+                        36.036412,
+                        34.243928
+                  ]
+            },
+            {
+                  "name": "watermill",
+                  "text": "A vízimalom egy romokat bemutató helyszín Bscharre városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.98717,
+                        34.25199
+                  ]
+            },
+            {
+                  "name": "La Jetée",
+                  "text": "A La Jetée egy festői kilátást nyújtó kilátó Bscharre városában.",
+                  "category": "natural",
+                  "coords": [
+                        36.037166,
+                        34.242526
+                  ]
+            },
+            {
+                  "name": "Viewpoint to waterfall across the valley",
+                  "text": "A völgy túloldalán lévő vízesésre néző kilátó egy festői megfigyelőpont Bscharre városában.",
+                  "category": "natural",
+                  "coords": [
+                        36.003574,
+                        34.245586
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Mar Elisha and waterfall",
+                  "text": "A Mar Elisha és a vízesés felé néző kilátó egy megfigyelőhely Bscharre városában.",
+                  "category": "natural",
+                  "coords": [
+                        36.001921,
+                        34.245989
+                  ]
+            },
+            {
+                  "name": "دير مار ليشع",
+                  "text": "A Szent Elizeus kolostor egy ismert istentiszteleti hely a Kadisa-völgyben, Bscharre területén.",
+                  "category": "religious",
+                  "coords": [
+                        36.001298,
+                        34.248376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gibran Museum",
+                  "text": "Muzeul Gibran este un muzeu remarcabil din Bscharre, dedicat scriitorului Kahlil Gibran.",
+                  "category": "museum",
+                  "coords": [
+                        36.019121,
+                        34.24986
+                  ]
+            },
+            {
+                  "name": "مغارة قاديشا",
+                  "text": "Grota Qadisha este o intrare de peșteră situată în Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.036412,
+                        34.243928
+                  ]
+            },
+            {
+                  "name": "watermill",
+                  "text": "Moara de apă este un sit cu ruine în orașul Bscharre.",
+                  "category": "historical",
+                  "coords": [
+                        35.98717,
+                        34.25199
+                  ]
+            },
+            {
+                  "name": "La Jetée",
+                  "text": "La Jetée este un punct de belvedere cu vederi pitorești în Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.037166,
+                        34.242526
+                  ]
+            },
+            {
+                  "name": "Viewpoint to waterfall across the valley",
+                  "text": "Punctul de belvedere către cascada de peste vale este un loc de observație pitoresc din Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.003574,
+                        34.245586
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Mar Elisha and waterfall",
+                  "text": "Punctul de belvedere către Mar Elisha și cascadă este o platformă de observație în Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.001921,
+                        34.245989
+                  ]
+            },
+            {
+                  "name": "دير مار ليشع",
+                  "text": "Mănăstirea Sfântul Elisei este un lăcaș de cult recunoscut din valea Kadisha, Bscharre.",
+                  "category": "religious",
+                  "coords": [
+                        36.001298,
+                        34.248376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gibran Museum",
+                  "text": "Gibran Museum is a notable museum located in Bscharre dedicated to the writer Kahlil Gibran.",
+                  "category": "museum",
+                  "coords": [
+                        36.019121,
+                        34.24986
+                  ]
+            },
+            {
+                  "name": "Qadisha Grotto",
+                  "text": "Qadisha Grotto is a cave entrance located in Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.036412,
+                        34.243928
+                  ]
+            },
+            {
+                  "name": "watermill",
+                  "text": "The watermill is a site featuring ruins in the town of Bscharre.",
+                  "category": "historical",
+                  "coords": [
+                        35.98717,
+                        34.25199
+                  ]
+            },
+            {
+                  "name": "La Jetée",
+                  "text": "La Jetée is a scenic viewpoint situated in Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.037166,
+                        34.242526
+                  ]
+            },
+            {
+                  "name": "Viewpoint to waterfall across the valley",
+                  "text": "Viewpoint to waterfall across the valley is a scenic observation point in Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.003574,
+                        34.245586
+                  ]
+            },
+            {
+                  "name": "Viewpoint to Mar Elisha and waterfall",
+                  "text": "Viewpoint to Mar Elisha and waterfall is an observation area situated in Bscharre.",
+                  "category": "natural",
+                  "coords": [
+                        36.001921,
+                        34.245989
+                  ]
+            },
+            {
+                  "name": "Saint Elisha Monastery",
+                  "text": "Saint Elisha Monastery is a notable place of worship located in the Kadisha Valley in Bscharre.",
+                  "category": "religious",
+                  "coords": [
+                        36.001298,
+                        34.248376
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-AS",
     coords: [36.0125, 34.2514],
@@ -603,7 +2781,268 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     }
   },
   {
-    id: "batroun-cities-v2",
+    id: "batroun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "شاطئ فدعوس",
+                  "text": "Fadous Beach ist ein malerischer Küstenabschnitt, der Entspannung in Batrun bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.655561,
+                        34.228592
+                  ]
+            },
+            {
+                  "name": "Abandoned Aquarium of Batroun",
+                  "text": "Das Abandoned aquarium of Batroun ist eine faszinierende historische Sehenswürdigkeit nahe der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        35.657661,
+                        34.250099
+                  ]
+            },
+            {
+                  "name": "Beth oromoye",
+                  "text": "Beth oromoye ist ein Museum zur Erhaltung des kulturellen Erbes in Batrun.",
+                  "category": "museum",
+                  "coords": [
+                        35.661795,
+                        34.234819
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "Barracuda ist ein lebhaftes Strandresort, das Freizeitaktivitäten am Meer in Batrun bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.246109
+                  ]
+            },
+            {
+                  "name": "Phoenician Wall",
+                  "text": "Die Phönizische Mauer in Batrun ist ein altes Seebauwerk, das ursprünglich von den Phöniziern zum Schutz vor Flutwellen errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Sierra Beachfront Resort",
+                  "text": "Das Sierra Beachfront Resort ist ein Strandresort in Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656346,
+                        34.233832
+                  ]
+            },
+            {
+                  "name": "Soult Beach",
+                  "text": "Soult Beach ist ein Strandresort in Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.241507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "شاطئ فدعوس",
+                  "text": "A Fadous Beach egy festői partszakasz, amely kikapcsolódást nyújt Batrunban.",
+                  "category": "recreational",
+                  "coords": [
+                        35.655561,
+                        34.228592
+                  ]
+            },
+            {
+                  "name": "Abandoned Aquarium of Batroun",
+                  "text": "A batruni elhagyatott akvárium egy érdekes történelmi látványosság a part közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        35.657661,
+                        34.250099
+                  ]
+            },
+            {
+                  "name": "Beth oromoye",
+                  "text": "A Beth oromoye egy kulturális örökséget megőrző múzeum Batrunban.",
+                  "category": "museum",
+                  "coords": [
+                        35.661795,
+                        34.234819
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "A Barracuda egy nyüzsgő tengerparti üdülőhely, amely tengerparti kikapcsolódást kínál Batrunban.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.246109
+                  ]
+            },
+            {
+                  "name": "Phoenician Wall",
+                  "text": "A batruni föníciai fal egy ősi tengeri gát, amelyet eredetileg a föníciaiak építettek a hullámok elleni védelemként.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Sierra Beachfront Resort",
+                  "text": "A Sierra Beachfront Resort egy tengerparti üdülőhely Batrunban.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656346,
+                        34.233832
+                  ]
+            },
+            {
+                  "name": "Soult Beach",
+                  "text": "A Soult Beach egy tengerparti üdülőközpont Batrun városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.241507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "شاطئ فدعوس",
+                  "text": "Fadous Beach este o porțiune pitorească de coastă ce oferă relaxare în Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.655561,
+                        34.228592
+                  ]
+            },
+            {
+                  "name": "Abandoned Aquarium of Batroun",
+                  "text": "Acvariul abandonat din Batroun este o atracție istorică intrigantă lângă coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        35.657661,
+                        34.250099
+                  ]
+            },
+            {
+                  "name": "Beth oromoye",
+                  "text": "Beth oromoye este un muzeu dedicat conservării patrimoniului cultural în Batrun.",
+                  "category": "museum",
+                  "coords": [
+                        35.661795,
+                        34.234819
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "Barracuda este un complex turistic pe plajă vibrant care oferă activități de agrement la malul mării în Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.246109
+                  ]
+            },
+            {
+                  "name": "Phoenician Wall",
+                  "text": "Zidul Fenician din Batrun este un vechi dig marin construit inițial de fenicieni pentru a proteja împotriva valurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Sierra Beachfront Resort",
+                  "text": "Sierra Beachfront Resort este o stațiune pe plajă situată în Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656346,
+                        34.233832
+                  ]
+            },
+            {
+                  "name": "Soult Beach",
+                  "text": "Soult Beach este o stațiune de vacanță pe plajă din Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.241507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fadous Beach",
+                  "text": "Fadous Beach is a scenic stretch of coastline offering relaxation in Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.655561,
+                        34.228592
+                  ]
+            },
+            {
+                  "name": "Abandoned aquarium of Batroun",
+                  "text": "The Abandoned aquarium of Batroun is an intriguing historical sight near the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        35.657661,
+                        34.250099
+                  ]
+            },
+            {
+                  "name": "Beth oromoye",
+                  "text": "Beth oromoye is a dedicated museum preserving cultural heritage in Batrun.",
+                  "category": "museum",
+                  "coords": [
+                        35.661795,
+                        34.234819
+                  ]
+            },
+            {
+                  "name": "Barracuda",
+                  "text": "Barracuda is a vibrant beach resort destination offering seaside leisure in Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.246109
+                  ]
+            },
+            {
+                  "name": "Phoenician Wall",
+                  "text": "The Phoenician Wall in Batrun is an ancient sea wall originally built by the Phoenicians to protect from tidal waves.",
+                  "category": "landmark",
+                  "coords": [
+                        35.655507,
+                        34.255077
+                  ]
+            },
+            {
+                  "name": "Sierra Beachfront Resort",
+                  "text": "Sierra Beachfront Resort is a beach resort located in Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.656346,
+                        34.233832
+                  ]
+            },
+            {
+                  "name": "Soult Beach",
+                  "text": "Soult Beach is a beach resort situated in Batrun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.660626,
+                        34.241507
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-AS",
     coords: [35.6581, 34.2553],
@@ -768,7 +3207,88 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 12 000 habitants à 350 mètres d'altitude", "Capitale du district d'El Koura", "Nom tiré de l'araméen Emun (ferme)", "Église Saint-Phocas du XIe siècle", "Anciennes habitations troglodytiques romaines dans les falaises", "Centre grec-orthodoxe important", "Mandat français de 1920 à 1943", "Région célèbre pour sa production d'huile d'olive"],
     }, image: "/poi-images/amioun-cities-v2.webp"},
   {
-    id: "jezzine-cities-v2",
+    id: "jezzine-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "حي العيسى",
+                  "text": "Issa's view ist ein malerischer Aussichtspunkt in der Stadt Jezzine.",
+                  "category": "natural",
+                  "coords": [
+                        35.55468,
+                        33.539221
+                  ]
+            },
+            {
+                  "name": "شلالات جزين",
+                  "text": "Dieser Ort ist eine lokale Sehenswürdigkeit in Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.581536,
+                        33.545442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "حي العيسى",
+                  "text": "Az Issa's view egy festői kilátó Jezzine városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.55468,
+                        33.539221
+                  ]
+            },
+            {
+                  "name": "شلالات جزين",
+                  "text": "Ez a hely egy helyi látványosság Jezzine városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.581536,
+                        33.545442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "حي العيسى",
+                  "text": "Issa's view este un punct de observație pitoresc în orașul Jezzine.",
+                  "category": "natural",
+                  "coords": [
+                        35.55468,
+                        33.539221
+                  ]
+            },
+            {
+                  "name": "شلالات جزين",
+                  "text": "Acest loc este o atracție locală situată în Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.581536,
+                        33.545442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Issa's view",
+                  "text": "Issa's view is a scenic viewpoint in the city of Jezzine.",
+                  "category": "natural",
+                  "coords": [
+                        35.55468,
+                        33.539221
+                  ]
+            },
+            {
+                  "name": "شلالات جزين",
+                  "text": "This site is a local attraction situated in Jezzine.",
+                  "category": "landmark",
+                  "coords": [
+                        35.581536,
+                        33.545442
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-JA",
     coords: [35.5808, 33.5414],
@@ -878,7 +3398,88 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 30 000 habitants à 700 mètres d'altitude", "À l'extrême nord de la plaine de la Bekaa", "Source de l'Oronte à proximité", "Pyramide d'Hermel datant du Ier ou IIe siècle av. J.-C.", "Pyramide de 27 mètres de haut avec reliefs de chasse", "Population à majorité chiite", "Point de départ prisé pour le rafting", "Mandat français de 1920 à 1943"],
     }, image: "/poi-images/hermel-cities-v2.webp"},
   {
-    id: "bhamdoun-cities-v2",
+    id: "bhamdoun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saufar Castle",
+                  "text": "Das Saufar Castle ist ein Schloss in der Stadt Bhamdoun.",
+                  "category": "castle",
+                  "coords": [
+                        35.68372,
+                        33.797948
+                  ]
+            },
+            {
+                  "name": "ruins of a grape press",
+                  "text": "Dies sind die Ruinen einer Traubenpresse in Bhamdoun.",
+                  "category": "historical",
+                  "coords": [
+                        35.654659,
+                        33.794367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saufar Castle",
+                  "text": "A Saufar-kastély egy kastély Bhamdoun városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.68372,
+                        33.797948
+                  ]
+            },
+            {
+                  "name": "ruins of a grape press",
+                  "text": "Ezek egy szőlőprés romjai Bhamdoun területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.654659,
+                        33.794367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saufar Castle",
+                  "text": "Castelul Saufar este un castel situat în orașul Bhamdoun.",
+                  "category": "castle",
+                  "coords": [
+                        35.68372,
+                        33.797948
+                  ]
+            },
+            {
+                  "name": "ruins of a grape press",
+                  "text": "Acestea sunt ruinele unui teasc de struguri găsit în Bhamdoun.",
+                  "category": "historical",
+                  "coords": [
+                        35.654659,
+                        33.794367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saufar Castle",
+                  "text": "Saufar Castle is a historic castle located in the town of Bhamdoun.",
+                  "category": "castle",
+                  "coords": [
+                        35.68372,
+                        33.797948
+                  ]
+            },
+            {
+                  "name": "ruins of a grape press",
+                  "text": "These are the ruins of a grape press situated in Bhamdoun.",
+                  "category": "historical",
+                  "coords": [
+                        35.654659,
+                        33.794367
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-JL",
     coords: [35.6608, 33.8058],
@@ -988,7 +3589,52 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 23 000 habitants, capitale du gouvernorat du Akkar", "À 110 kilomètres de Beyrouth, 28 kilomètres de Tripoli", "Gouvernorat du Akkar détaché du Nord en 2003", "Majorité sunnite avec des minorités chrétiennes et alaouites", "Culture du tabac depuis le mandat français (1920-1943)", "Accueil de réfugiés syriens depuis 2011", "L'une des régions les plus pauvres du Liban", "Les oliveraies marquent le paysage"],
     }, image: "/poi-images/halba-cities-v2.webp"},
   {
-    id: "rashaya-cities-v2",
+    id: "rashaya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rashaya Palace",
+                  "text": "Der Rashaya-Palast ist ein historisches Schloss in Rachaya.",
+                  "category": "castle",
+                  "coords": [
+                        35.841494,
+                        33.499734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rashaya Palace",
+                  "text": "A Rashaya-palota egy történelmi kastély Rachayában.",
+                  "category": "castle",
+                  "coords": [
+                        35.841494,
+                        33.499734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rashaya Palace",
+                  "text": "Palatul Rashaya este un castel istoric în Rachaya.",
+                  "category": "castle",
+                  "coords": [
+                        35.841494,
+                        33.499734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rashaya Palace",
+                  "text": "Rashaya Palace is a historic castle in Rachaya.",
+                  "category": "castle",
+                  "coords": [
+                        35.841494,
+                        33.499734
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-BI",
     coords: [35.8394, 33.5008],
@@ -1043,7 +3689,124 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 8 000 habitants à 1 250 mètres d'altitude", "Sur le versant ouest du mont Hermon", "Citadelle servant de prison sous le mandat français", "Emprisonnement des politiciens le 11 novembre 1943", "Libération le 22 novembre 1943, jour de l'indépendance", "Berceau de l'indépendance du Liban", "Architecture en grès rouge", "Population mixte druze et chrétienne"],
     }, image: "/poi-images/rashaya-cities-v2.webp"},
   {
-    id: "hasbaya-cities-v2",
+    id: "hasbaya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tall Zaghla",
+                  "text": "Tall Zaghla ist ein Berggipfel in Hasbaya.",
+                  "category": "natural",
+                  "coords": [
+                        35.699791,
+                        33.403562
+                  ]
+            },
+            {
+                  "name": "kalaa al shahabeya",
+                  "text": "Kalaa Al Shahabeya ist eine lokale Sehenswürdigkeit in Hasbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.686375,
+                        33.39822
+                  ]
+            },
+            {
+                  "name": "عين القبو",
+                  "text": "عين القبو ist eine natürliche Quelle in Hasbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691733,
+                        33.395574
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "تل زغلة",
+                  "text": "A Tall Zaghla egy hegycsúcs Hasbaya területén.",
+                  "category": "natural",
+                  "coords": [
+                        35.699791,
+                        33.403562
+                  ]
+            },
+            {
+                  "name": "kalaa al shahabeya",
+                  "text": "A Kalaa Al Shahabeya egy helyi látványosság Hasbaya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.686375,
+                        33.39822
+                  ]
+            },
+            {
+                  "name": "عين القبو",
+                  "text": "Az عين القبو egy természetes forrás Hasbaya területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691733,
+                        33.395574
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "تل زغلة",
+                  "text": "Tall Zaghla este un vârf de munte situat în Hasbaya.",
+                  "category": "natural",
+                  "coords": [
+                        35.699791,
+                        33.403562
+                  ]
+            },
+            {
+                  "name": "kalaa al shahabeya",
+                  "text": "Kalaa Al Shahabeya este o atracție locală din Hasbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.686375,
+                        33.39822
+                  ]
+            },
+            {
+                  "name": "عين القبو",
+                  "text": "عين القبو este un izvor natural situat în Hasbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691733,
+                        33.395574
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tall Zaghla",
+                  "text": "Tall Zaghla is a mountain peak located in Hasbaya.",
+                  "category": "natural",
+                  "coords": [
+                        35.699791,
+                        33.403562
+                  ]
+            },
+            {
+                  "name": "Kalaa Al Shahabeya",
+                  "text": "Kalaa Al Shahabeya is a local tourist attraction situated in Hasbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.686375,
+                        33.39822
+                  ]
+            },
+            {
+                  "name": "عين القبو",
+                  "text": "عين القبو is a natural water spring located in Hasbaya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691733,
+                        33.395574
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-NA",
     coords: [35.6831, 33.3981],
@@ -1153,7 +3916,52 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 5 000 habitants à 920 mètres d'altitude", "60 kilomètres à l'est de Beyrouth", "Ligne Beyrouth-Damas depuis 1895", "Ligne Tripoli-Alep depuis 1906", "Production propre de locomotives dans les années 1940", "Plus de 1 000 cheminots à l'époque faste", "Base militaire française datant du mandat (1920-1943)", "Trafic ferroviaire interrompu depuis la guerre civile"],
     }, image: "/poi-images/rayak-cities-v2.webp"},
   {
-    id: "chtaura-cities-v2",
+    id: "chtaura-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "chateau chahine",
+                  "text": "Chateau Chahine ist ein Anwesen und Schloss in Chtaura.",
+                  "category": "castle",
+                  "coords": [
+                        35.850327,
+                        33.815882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "chateau chahine",
+                  "text": "A Chateau Chahine egy birtok és kastély Chtaurában.",
+                  "category": "castle",
+                  "coords": [
+                        35.850327,
+                        33.815882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "chateau chahine",
+                  "text": "Chateau Chahine este un domeniu și castel în Chtaura.",
+                  "category": "castle",
+                  "coords": [
+                        35.850327,
+                        33.815882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "chateau chahine",
+                  "text": "Chateau Chahine is an estate and castle in Chtaura.",
+                  "category": "castle",
+                  "coords": [
+                        35.850327,
+                        33.815882
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-BI",
     coords: [35.8456, 33.8167],
@@ -1208,7 +4016,268 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 12 000 habitants à 1 000 mètres d'altitude", "À 45 kilomètres à l'est de Beyrouth", "Route Beyrouth-Damas depuis le mandat français (1920-1943)", "Site de caravansérails depuis l'époque ottomane", "Marque de produits laitiers Massabki depuis 1850", "Célèbre pour son yaourt, son labneh et son halloumi", "Carrefour stratégique vers la frontière syrienne", "L'industrie de la restauration comme moteur économique"],
     }, image: "/poi-images/chtaura-cities-v2.webp"},
   {
-    id: "anjar-cities-v2",
+    id: "anjar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "anjar preserve",
+                  "text": "Das Anjar Preserve ist ein Naturschutzgebiet in Anjar.",
+                  "category": "natural",
+                  "coords": [
+                        35.949519,
+                        33.750799
+                  ]
+            },
+            {
+                  "name": "متحف ومنزل بغس سنابيان",
+                  "text": "Das Boghos Snabian House Museum ist ein lokales Museum in Anjar.",
+                  "category": "museum",
+                  "coords": [
+                        35.930886,
+                        33.729033
+                  ]
+            },
+            {
+                  "name": "Anjar",
+                  "text": "Anjar ist eine bemerkenswerte historische Stadt und Attraktion im Libanon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933522,
+                        33.732317
+                  ]
+            },
+            {
+                  "name": "بيت عبد الرحمن",
+                  "text": "بيت عبد الرحمن ist eine lokale Attraktion in Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.918508,
+                        33.709174
+                  ]
+            },
+            {
+                  "name": "Thermal Baths",
+                  "text": "Die Thermalbäder sind antike Ruinen in Anjar.",
+                  "category": "historical",
+                  "coords": [
+                        35.934501,
+                        33.733753
+                  ]
+            },
+            {
+                  "name": "Omayyad City",
+                  "text": "Die Omayyad City ist eine wichtige historische Attraktion in Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933464,
+                        33.733329
+                  ]
+            },
+            {
+                  "name": "Monument Musa Dagh",
+                  "text": "Das Musa Dagh Denkmal ist ein Gedenkstein in Anjar.",
+                  "category": "historical",
+                  "coords": [
+                        35.932467,
+                        33.724382
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "anjar preserve",
+                  "text": "Az Anjar rezervátum egy természetvédelmi terület Anjar városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.949519,
+                        33.750799
+                  ]
+            },
+            {
+                  "name": "متحف ومنزل بغس سنابيان",
+                  "text": "A Boghos Snabian Házmúzeum egy helyi múzeum Anjar városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.930886,
+                        33.729033
+                  ]
+            },
+            {
+                  "name": "Anjar",
+                  "text": "Anjar egy nevezetes történelmi város és látványosság Libanonban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933522,
+                        33.732317
+                  ]
+            },
+            {
+                  "name": "بيت عبد الرحمن",
+                  "text": "A بيت عبد الرحمن egy helyi látványosság Anjar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.918508,
+                        33.709174
+                  ]
+            },
+            {
+                  "name": "Thermal Baths",
+                  "text": "A termálfürdők ősi romok Anjar városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.934501,
+                        33.733753
+                  ]
+            },
+            {
+                  "name": "Omayyad City",
+                  "text": "Az Omajjád város egy fontos történelmi látványosság Anjar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933464,
+                        33.733329
+                  ]
+            },
+            {
+                  "name": "Monument Musa Dagh",
+                  "text": "A Musa Dagh emlékmű egy emlékmű Anjar városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.932467,
+                        33.724382
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "anjar preserve",
+                  "text": "Rezervația Anjar este o rezervație naturală situată în Anjar.",
+                  "category": "natural",
+                  "coords": [
+                        35.949519,
+                        33.750799
+                  ]
+            },
+            {
+                  "name": "متحف ومنزل بغس سنابيان",
+                  "text": "Casa Muzeu Boghos Snabian este un muzeu local din Anjar.",
+                  "category": "museum",
+                  "coords": [
+                        35.930886,
+                        33.729033
+                  ]
+            },
+            {
+                  "name": "Anjar",
+                  "text": "Anjar este un oraș istoric și o atracție remarcabilă din Liban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933522,
+                        33.732317
+                  ]
+            },
+            {
+                  "name": "بيت عبد الرحمن",
+                  "text": "بيت عبد الرحمن este o atracție locală situată în Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.918508,
+                        33.709174
+                  ]
+            },
+            {
+                  "name": "Thermal Baths",
+                  "text": "Băile termale sunt ruine antice găsite în Anjar.",
+                  "category": "historical",
+                  "coords": [
+                        35.934501,
+                        33.733753
+                  ]
+            },
+            {
+                  "name": "Omayyad City",
+                  "text": "Orașul Omayyad este o importantă atracție istorică din Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933464,
+                        33.733329
+                  ]
+            },
+            {
+                  "name": "Monument Musa Dagh",
+                  "text": "Monumentul Musa Dagh este un monument comemorativ situat în Anjar.",
+                  "category": "historical",
+                  "coords": [
+                        35.932467,
+                        33.724382
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "anjar preserve",
+                  "text": "The Anjar preserve is a nature reserve located in Anjar.",
+                  "category": "natural",
+                  "coords": [
+                        35.949519,
+                        33.750799
+                  ]
+            },
+            {
+                  "name": "Boghos Snabian House Museum",
+                  "text": "Boghos Snabian House Museum is a local museum situated in Anjar.",
+                  "category": "museum",
+                  "coords": [
+                        35.930886,
+                        33.729033
+                  ]
+            },
+            {
+                  "name": "Anjar",
+                  "text": "Anjar is a notable historic town and attraction located in Lebanon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933522,
+                        33.732317
+                  ]
+            },
+            {
+                  "name": "بيت عبد الرحمن",
+                  "text": "بيت عبد الرحمن is a local tourist attraction situated in Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.918508,
+                        33.709174
+                  ]
+            },
+            {
+                  "name": "Thermal Baths",
+                  "text": "The Thermal Baths are ancient ruins found in Anjar.",
+                  "category": "historical",
+                  "coords": [
+                        35.934501,
+                        33.733753
+                  ]
+            },
+            {
+                  "name": "Omayyad City",
+                  "text": "Omayyad City is an important historical attraction located in Anjar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.933464,
+                        33.733329
+                  ]
+            },
+            {
+                  "name": "Musa Dagh Monument",
+                  "text": "Musa Dagh Monument is a memorial monument located in Anjar.",
+                  "category": "historical",
+                  "coords": [
+                        35.932467,
+                        33.724382
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-BI",
     coords: [35.9325, 33.7297],
@@ -1373,7 +4442,160 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 12 000 habitants à 800 mètres d'altitude", "À 17 kilomètres au nord-est de Beyrouth", "Brummana High School fondée par les Quakers en 1873", "L'une des plus anciennes écoles privées du Moyen-Orient", "Lieu de villégiature depuis la fin du XIXe siècle", "Mandat français de 1920 à 1943", "Des forêts de pins entourent la localité", "Hôtels de luxe et pubs le long de la rue principale"],
     }, image: "/poi-images/broummana-cities-v2.webp"},
   {
-    id: "ehden-cities-v2",
+    id: "ehden-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Horch Ehden Nature Reserve",
+                  "text": "Das Naturschutzgebiet Horch Ehden ist ein geschütztes Naturgebiet in Ehden.",
+                  "category": "natural",
+                  "coords": [
+                        35.992369,
+                        34.307382
+                  ]
+            },
+            {
+                  "name": "Antoniuskloster Quzhaya",
+                  "text": "Das Kloster St. Antonius von Qozhaya ist eine herausragende historische Attraktion in Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946819,
+                        34.282918
+                  ]
+            },
+            {
+                  "name": "جثمان يوسف بيك كرم",
+                  "text": "جثمان يوسف بيك كرم ist eine Gedenkstätte in Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.966999,
+                        34.289964
+                  ]
+            },
+            {
+                  "name": "Mar Bichay Hermitage",
+                  "text": "Die Eremitage Mar Bichay ist ein lokaler Schrein in Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.945425,
+                        34.283695
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Horch Ehden Nature Reserve",
+                  "text": "A Horch Ehden Természetvédelmi Terület egy védett természeti terület Ehden városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.992369,
+                        34.307382
+                  ]
+            },
+            {
+                  "name": "دير مار أنطونيوس قزحيا",
+                  "text": "A Qozhayai Szent Antal-kolostor egy kiemelkedő történelmi látványosság Ehden városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946819,
+                        34.282918
+                  ]
+            },
+            {
+                  "name": "جثمان يوسف بيك كرم",
+                  "text": "A جثمان يوسف بيك كرم egy emlékmű és látványosság Ehden városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.966999,
+                        34.289964
+                  ]
+            },
+            {
+                  "name": "Mar Bichay Hermitage",
+                  "text": "A Mar Bichay remetelak egy helyi szentély Ehden városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.945425,
+                        34.283695
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Horch Ehden Nature Reserve",
+                  "text": "Rezervația Naturală Horch Ehden este o arie naturală protejată din Ehden.",
+                  "category": "natural",
+                  "coords": [
+                        35.992369,
+                        34.307382
+                  ]
+            },
+            {
+                  "name": "دير مار أنطونيوس قزحيا",
+                  "text": "Mănăstirea Sfântul Anton din Qozhaya este o atracție istorică proeminentă din Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946819,
+                        34.282918
+                  ]
+            },
+            {
+                  "name": "جثمان يوسف بيك كرم",
+                  "text": "جثمان يوسف بيك كرم este o atracție memorială situată în Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.966999,
+                        34.289964
+                  ]
+            },
+            {
+                  "name": "Mar Bichay Hermitage",
+                  "text": "Schitul Mar Bichay este un altar local din Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.945425,
+                        34.283695
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horch Ehden Nature Reserve",
+                  "text": "Horch Ehden Nature Reserve is a protected natural area situated in Ehden.",
+                  "category": "natural",
+                  "coords": [
+                        35.992369,
+                        34.307382
+                  ]
+            },
+            {
+                  "name": "Monastery of St Anthony of Qozhaya",
+                  "text": "The Monastery of St Anthony of Qozhaya is a prominent historical attraction in Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.946819,
+                        34.282918
+                  ]
+            },
+            {
+                  "name": "جثمان يوسف بيك كرم",
+                  "text": "جثمان يوسف بيك كرم is a memorial tourist attraction located in Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.966999,
+                        34.289964
+                  ]
+            },
+            {
+                  "name": "Mar Bichay Hermitage",
+                  "text": "Mar Bichay Hermitage is a local shrine situated in Ehden.",
+                  "category": "landmark",
+                  "coords": [
+                        35.945425,
+                        34.283695
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-AS",
     coords: [35.9753, 34.2831],
@@ -1428,7 +4650,88 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["25 000 habitants en été, moins de 1 000 en hiver", "Située à 1 450 mètres d'altitude dans les montagnes du Nord", "Mouvement migratoire saisonnier avec Zgharta", "Établissement chrétien depuis le VIIe siècle", "Église Mar Mama datant du VIIIe siècle", "Réserve naturelle de Horsh Ehden depuis 1992", "1 740 hectares abritant 1 058 espèces", "Massacre d'Ehden visant la famille Frangié en 1978"],
     }, image: "/poi-images/ehden-cities-v2.webp"},
   {
-    id: "qobayat-cities-v2",
+    id: "qobayat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف الحيوانات والفراشات",
+                  "text": "Diese Einrichtung dient als Museum in Kobayat.",
+                  "category": "museum",
+                  "coords": [
+                        36.27927,
+                        34.566719
+                  ]
+            },
+            {
+                  "name": "Helsben Valley",
+                  "text": "Das Helsben Valley ist eine natürliche Attraktion in Kobayat.",
+                  "category": "landmark",
+                  "coords": [
+                        36.282161,
+                        34.560456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف الحيوانات والفراشات",
+                  "text": "Ez a létesítmény múzeumként működik Kobayat városában.",
+                  "category": "museum",
+                  "coords": [
+                        36.27927,
+                        34.566719
+                  ]
+            },
+            {
+                  "name": "Helsben Valley",
+                  "text": "A Helsben Valley egy természeti látványosság Kobayatban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.282161,
+                        34.560456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف الحيوانات والفراشات",
+                  "text": "Această facilitate servește ca muzeu în Kobayat.",
+                  "category": "museum",
+                  "coords": [
+                        36.27927,
+                        34.566719
+                  ]
+            },
+            {
+                  "name": "Helsben Valley",
+                  "text": "Helsben Valley este o atracție naturală situată în Kobayat.",
+                  "category": "landmark",
+                  "coords": [
+                        36.282161,
+                        34.560456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "متحف الحيوانات والفراشات",
+                  "text": "This facility serves as a museum located in Kobayat.",
+                  "category": "museum",
+                  "coords": [
+                        36.27927,
+                        34.566719
+                  ]
+            },
+            {
+                  "name": "Helsben Valley",
+                  "text": "Helsben Valley is a natural attraction located in Kobayat.",
+                  "category": "landmark",
+                  "coords": [
+                        36.282161,
+                        34.560456
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-AK",
     coords: [36.2758, 34.5681],
@@ -1483,7 +4786,88 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 11 000 habitants à 700 mètres d'altitude", "Dans la région du Akkar, près de la frontière syrienne", "Majorité maronite", "Musée de la soie installé dans une ancienne usine du XIXe", "Mandat français entre 1920 et 1943", "Point de départ du Lebanon Mountain Trail depuis 2007", "Sentier de grande randonnée long de 470 km", "Forte diaspora en Australie"],
     }, image: "/poi-images/qobayat-cities-v2.webp"},
   {
-    id: "bint-jbeil-cities-v2",
+    id: "bint-jbeil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "منزل عيناتا بيت خنافر",
+                  "text": "Dieses historische Haus in Bint Dschubail ist eine lokale Sehenswürdigkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        35.440425,
+                        33.127004
+                  ]
+            },
+            {
+                  "name": "Ruins of Bint Jbeil",
+                  "text": "Die Ruinen von Bint Dschubail sind ein Zeugnis der Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        35.434853,
+                        33.119424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "منزل عيناتا بيت خنافر",
+                  "text": "Ez a történelmi ház Bint Dschubailban egy helyi látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        35.440425,
+                        33.127004
+                  ]
+            },
+            {
+                  "name": "Ruins of Bint Jbeil",
+                  "text": "Bint Dschubail romjai a történelem tanúi.",
+                  "category": "historical",
+                  "coords": [
+                        35.434853,
+                        33.119424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "منزل عيناتا بيت خنافر",
+                  "text": "Această casă istorică din Bint Dschubail este o atracție locală.",
+                  "category": "landmark",
+                  "coords": [
+                        35.440425,
+                        33.127004
+                  ]
+            },
+            {
+                  "name": "Ruins of Bint Jbeil",
+                  "text": "Ruinele din Bint Dschubail sunt o mărturie a istoriei.",
+                  "category": "historical",
+                  "coords": [
+                        35.434853,
+                        33.119424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "منزل عيناتا بيت خنافر",
+                  "text": "This historic house in Bint Jbeil is a local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        35.440425,
+                        33.127004
+                  ]
+            },
+            {
+                  "name": "Ruins of Bint Jbeil",
+                  "text": "The ruins of Bint Jbeil are a testimony to history.",
+                  "category": "historical",
+                  "coords": [
+                        35.434853,
+                        33.119424
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-NA",
     coords: [35.4372, 33.1231],
@@ -1538,7 +4922,52 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 25 000 habitants à 750 mètres d'altitude", "120 kilomètres au sud de Beyrouth", "À quelques kilomètres de la frontière israélienne", "Majorité chiite, chef-lieu du district", "Occupation israélienne de 1978 à 2000", "Guerre de l'été 2006 causant de lourdes destructions", "Le marché du jeudi est l'un des plus grands du Sud", "Mandat français de 1920 à 1943"],
     }, image: "/poi-images/bint-jbeil-cities-v2.webp"},
   {
-    id: "marjayoun-cities-v2",
+    id: "marjayoun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tell Dibbine",
+                  "text": "Tell Dibbine ist eine antike archäologische Stätte in Mardschajun.",
+                  "category": "historical",
+                  "coords": [
+                        35.590101,
+                        33.345378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tell Dibbine",
+                  "text": "A Tell Dibbine egy ősi régészeti lelőhely Mardschajun városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.590101,
+                        33.345378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tell Dibbine",
+                  "text": "Tell Dibbine este un sit arheologic antic situat în Mardschajun.",
+                  "category": "historical",
+                  "coords": [
+                        35.590101,
+                        33.345378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tell Dibbine",
+                  "text": "Tell Dibbine is an ancient archaeological site located in Mardschajun.",
+                  "category": "historical",
+                  "coords": [
+                        35.590101,
+                        33.345378
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-NA",
     coords: [35.5908, 33.3619],
@@ -1593,7 +5022,52 @@ export const poiExtraLebanonCitiesV2: POI[] = [
       fr: ["Environ 7 000 habitants à 750 mètres d'altitude", "Au pied du mont Hermon", "Majorité grecque-orthodoxe", "Mandat français de 1920 à 1943", "QG de l'Armée du Liban Sud entre 1978 et 2000", "Retrait israélien en l'an 2000", "Célèbre pour son huile d'olive et son vin"],
     }, image: "/poi-images/marjayoun-cities-v2.webp"},
   {
-    id: "chekka-cities-v2",
+    id: "chekka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palmera Beach Resort",
+                  "text": "Das Palmera Beach Resort ist ein Badeort in Chekka.",
+                  "category": "recreational",
+                  "coords": [
+                        35.721089,
+                        34.315802
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palmera Beach Resort",
+                  "text": "A Palmera Beach Resort egy tengerparti üdülőhely Chekkában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.721089,
+                        34.315802
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palmera Beach Resort",
+                  "text": "Palmera Beach Resort este o destinație de vacanță pe litoral în Chekka.",
+                  "category": "recreational",
+                  "coords": [
+                        35.721089,
+                        34.315802
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palmera Beach Resort",
+                  "text": "Palmera Beach Resort is a seaside resort destination in Chekka.",
+                  "category": "recreational",
+                  "coords": [
+                        35.721089,
+                        34.315802
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LB-AS",
     coords: [35.7333, 34.3311],

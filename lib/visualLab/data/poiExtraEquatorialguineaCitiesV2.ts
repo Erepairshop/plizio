@@ -401,7 +401,52 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       fr: ["Célèbre pour son pont sur le fleuve Benito.", "Une destination prisée pour les fruits de mer frais."],
     }, image: "/poi-images/mbini-cities-v2.webp"},
   {
-    id: "aconibe-cities-v2",
+    id: "aconibe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Patio PD Teodoro Nvé Aconibe",
+                  "text": "Patio PD Teodoro Nvé Aconibe ist ein lokales Denkmal in Akonibe.",
+                  "category": "historical",
+                  "coords": [
+                        10.949757,
+                        1.299499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Patio PD Teodoro Nvé Aconibe",
+                  "text": "A Patio PD Teodoro Nvé Aconibe egy helyi emlékmű Akonibe városában.",
+                  "category": "historical",
+                  "coords": [
+                        10.949757,
+                        1.299499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Patio PD Teodoro Nvé Aconibe",
+                  "text": "Patio PD Teodoro Nvé Aconibe este un monument local situat în Akonibe.",
+                  "category": "historical",
+                  "coords": [
+                        10.949757,
+                        1.299499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Patio PD Teodoro Nvé Aconibe",
+                  "text": "Patio PD Teodoro Nvé Aconibe is a local monument situated in Akonibe.",
+                  "category": "historical",
+                  "coords": [
+                        10.949757,
+                        1.299499
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GQ-WN",
     coords: [10.9333, 1.3],
@@ -630,7 +675,88 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     }
   },
   {
-    id: "riaba-cities-v2",
+    id: "riaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Riaba Beach",
+                  "text": "Riaba Beach ist ein Erholungsgebiet an der Küste in der Stadt Riaba.",
+                  "category": "recreational",
+                  "coords": [
+                        8.764862,
+                        3.39111
+                  ]
+            },
+            {
+                  "name": "Faro de Riaba",
+                  "text": "Faro de Riaba ist ein Leuchtturm in der Stadt Riaba.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765453,
+                        3.392747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riaba Beach",
+                  "text": "A Riaba Beach egy tengerparti rekreációs terület Riaba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.764862,
+                        3.39111
+                  ]
+            },
+            {
+                  "name": "Faro de Riaba",
+                  "text": "A Faro de Riaba egy világítótorony Riaba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765453,
+                        3.392747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riaba Beach",
+                  "text": "Riaba Beach este o zonă de recreere de coastă situată în orașul Riaba.",
+                  "category": "recreational",
+                  "coords": [
+                        8.764862,
+                        3.39111
+                  ]
+            },
+            {
+                  "name": "Faro de Riaba",
+                  "text": "Faro de Riaba este un far situat în orașul Riaba.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765453,
+                        3.392747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Riaba Beach",
+                  "text": "Riaba Beach is a coastal recreational area located in the city of Riaba.",
+                  "category": "recreational",
+                  "coords": [
+                        8.764862,
+                        3.39111
+                  ]
+            },
+            {
+                  "name": "Faro de Riaba",
+                  "text": "Faro de Riaba is a lighthouse situated in the city of Riaba.",
+                  "category": "landmark",
+                  "coords": [
+                        8.765453,
+                        3.392747
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GQ-BS",
     coords: [8.7619, 3.3811],
@@ -1086,7 +1212,124 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       fr: ["Connue pour ses plages de sable blanc.", "Historiquement important en tant qu'ancien poste de traite."],
     }, image: "/poi-images/corisco-cities-v2.webp"},
   {
-    id: "moca-cities-v2",
+    id: "moca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palacio Presidencial",
+                  "text": "Palacio Presidencial ist ein bemerkenswertes schlossähnliches Gebäude in der Stadt Moca.",
+                  "category": "castle",
+                  "coords": [
+                        8.665149,
+                        3.344664
+                  ]
+            },
+            {
+                  "name": "Centro de Vida Salvaje BBPP de Moka",
+                  "text": "Das Wildlife Centre BBPP of Moka ist ein Museum in der Stadt Moca.",
+                  "category": "museum",
+                  "coords": [
+                        8.662154,
+                        3.361244
+                  ]
+            },
+            {
+                  "name": "Vista de Moka",
+                  "text": "Vista de Moka ist ein Aussichtspunkt mit Panoramablick in Moca.",
+                  "category": "natural",
+                  "coords": [
+                        8.663728,
+                        3.364905
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palacio Presidencial",
+                  "text": "A Palacio Presidencial egy jelentős kastély jellegű épület Moca városában.",
+                  "category": "castle",
+                  "coords": [
+                        8.665149,
+                        3.344664
+                  ]
+            },
+            {
+                  "name": "Centro de Vida Salvaje BBPP de Moka",
+                  "text": "A Wildlife Centre BBPP of Moka egy múzeum, amely Moca városában található.",
+                  "category": "museum",
+                  "coords": [
+                        8.662154,
+                        3.361244
+                  ]
+            },
+            {
+                  "name": "Vista de Moka",
+                  "text": "A Vista de Moka egy festői kilátó Moca városában.",
+                  "category": "natural",
+                  "coords": [
+                        8.663728,
+                        3.364905
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palacio Presidencial",
+                  "text": "Palacio Presidencial este o clădire notabilă sub formă de castel, situată în orașul Moca.",
+                  "category": "castle",
+                  "coords": [
+                        8.665149,
+                        3.344664
+                  ]
+            },
+            {
+                  "name": "Centro de Vida Salvaje BBPP de Moka",
+                  "text": "Wildlife Centre BBPP of Moka este un muzeu situat în orașul Moca.",
+                  "category": "museum",
+                  "coords": [
+                        8.662154,
+                        3.361244
+                  ]
+            },
+            {
+                  "name": "Vista de Moka",
+                  "text": "Vista de Moka este un punct de belvedere pitoresc situat în Moca.",
+                  "category": "natural",
+                  "coords": [
+                        8.663728,
+                        3.364905
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palacio Presidencial",
+                  "text": "Palacio Presidencial is a notable castle structure located in the city of Moca.",
+                  "category": "castle",
+                  "coords": [
+                        8.665149,
+                        3.344664
+                  ]
+            },
+            {
+                  "name": "Wildlife Centre BBPP of Moka",
+                  "text": "The Wildlife Centre BBPP of Moka is a museum located in the city of Moca.",
+                  "category": "museum",
+                  "coords": [
+                        8.662154,
+                        3.361244
+                  ]
+            },
+            {
+                  "name": "Vista de Moka",
+                  "text": "Vista de Moka is a scenic viewpoint offering panoramic views in Moca.",
+                  "category": "natural",
+                  "coords": [
+                        8.663728,
+                        3.364905
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GQ-BS",
     coords: [8.6667, 3.35],
@@ -1796,7 +2039,52 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     },
   },
   {
-    id: "bilelipa-cities-v2",
+    id: "bilelipa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Catedrál de Santa Isabel",
+                  "text": "Die Catedrál de Santa Isabel ist eine markante neugotische römisch-katholische Kathedrale und Attraktion in Bilelipa.",
+                  "category": "landmark",
+                  "coords": [
+                        8.782879,
+                        3.756948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Catedrál de Santa Isabel",
+                  "text": "A Catedrál de Santa Isabel egy kiemelkedő neogótikus római katolikus katedrális és látványosság Bilelipában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.782879,
+                        3.756948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrál de Santa Isabel",
+                  "text": "Catedrala Santa Isabel este o proeminentă catedrală romano-catolică neogotică și o atracție în Bilelipa.",
+                  "category": "landmark",
+                  "coords": [
+                        8.782879,
+                        3.756948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Catedrál de Santa Isabel",
+                  "text": "The Catedrál de Santa Isabel is a prominent Neo-Gothic Roman Catholic cathedral acting as an attraction in Bilelipa.",
+                  "category": "landmark",
+                  "coords": [
+                        8.782879,
+                        3.756948
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GQ-BN",
     coords: [8.8, 3.75],

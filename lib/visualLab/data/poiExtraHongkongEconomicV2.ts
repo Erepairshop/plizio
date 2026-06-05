@@ -678,7 +678,1996 @@ export const hongkongEconomicV2: POI[] = [
     image: "/poi-images/hongkong-tsim-sha-tsui-commercial-economic-v2.webp",
   },
   {
-    id: "hongkong-causeway-bay-economic-v2",
+    id: "hongkong-causeway-bay-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "茶具文物館 Flagstaff House Museum of Tea Ware",
+                  "text": "Das Flagstaff House Museum of Tea Ware in Causeway Bay zeigt eine umfangreiche Sammlung chinesischer Teekeramik.",
+                  "category": "museum",
+                  "coords": [
+                        114.162498,
+                        22.278286
+                  ]
+            },
+            {
+                  "name": "香港科學館 Hong Kong Science Museum",
+                  "text": "Das Hong Kong Science Museum ist ein interaktives Wissenschaftsmuseum in Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.177597,
+                        22.300994
+                  ]
+            },
+            {
+                  "name": "警隊博物館 Police Museum",
+                  "text": "Das Hong Kong Police Museum in Causeway Bay dokumentiert die Geschichte der lokalen Polizei.",
+                  "category": "museum",
+                  "coords": [
+                        114.169297,
+                        22.267663
+                  ]
+            },
+            {
+                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "text": "Das Hong Kong Museum of History in Causeway Bay präsentiert die wechselvolle Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        114.17744,
+                        22.30193
+                  ]
+            },
+            {
+                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "text": "Das Hong Kong Heritage Discovery Centre ist ein Museum für lokale Geschichte in Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.169843,
+                        22.299323
+                  ]
+            },
+            {
+                  "name": "香港視覺藝術中心 Hong Kong Visual Arts Centre",
+                  "text": "Das Hong Kong Visual Arts Centre ist ein Kunstmuseum in Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.159372,
+                        22.27669
+                  ]
+            },
+            {
+                  "name": "展城館 City Gallery",
+                  "text": "Die City Gallery in Causeway Bay ist ein Museum zur Stadtplanung.",
+                  "category": "museum",
+                  "coords": [
+                        114.162189,
+                        22.282573
+                  ]
+            },
+            {
+                  "name": "衞生教育展覽及資料中心 Health Education Exhibition and Resource Centre",
+                  "text": "Das Health Education Exhibition and Resource Centre ist ein Museum in Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.171463,
+                        22.298404
+                  ]
+            },
+            {
+                  "name": "香港太空館 Hong Kong Space Museum",
+                  "text": "Das Hong Kong Space Museum ist ein Planetarium und Weltraummuseum in Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.17187,
+                        22.294217
+                  ]
+            },
+            {
+                  "name": "前水警總部 Former Marine Police Headquarters Compound",
+                  "text": "Das ehemalige Hauptquartier der Marinepolizei in Causeway Bay ist ein historisches Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        114.169959,
+                        22.295645
+                  ]
+            },
+            {
+                  "name": "律政中心 Justice Place",
+                  "text": "Justice Place ist ein historisches Regierungsgebäude in Causeway Bay.",
+                  "category": "historical",
+                  "coords": [
+                        114.158637,
+                        22.279132
+                  ]
+            },
+            {
+                  "name": "新光戲院大劇場 Sunbeam Theatre",
+                  "text": "Das Sunbeam Theatre ist ein bekanntes Theater in Causeway Bay.",
+                  "category": "cultural",
+                  "coords": [
+                        114.199979,
+                        22.29142
+                  ]
+            },
+            {
+                  "name": "Hong Kong Cultural Centre",
+                  "text": "Das Hong Kong Cultural Centre ist ein bedeutendes Kunstzentrum in Causeway Bay.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170213,
+                        22.293724
+                  ]
+            },
+            {
+                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "text": "Das Hong Kong Arts Centre ist ein Zentrum für zeitgenössische Kunst in Causeway Bay.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170814,
+                        22.280177
+                  ]
+            },
+            {
+                  "name": "中華基督教會公理堂 CCC China Congregational Church",
+                  "text": "Die China Congregational Church ist eine historische Kirche in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.186143,
+                        22.278101
+                  ]
+            },
+            {
+                  "name": "聖約翰座堂 St. John's Cathedral",
+                  "text": "Die St. John's Cathedral in Causeway Bay ist die älteste anglikanische Kirche Hongkongs.",
+                  "category": "religious",
+                  "coords": [
+                        114.15966,
+                        22.278767
+                  ]
+            },
+            {
+                  "name": "東蓮覺苑 Tung Lin Kok Yuen",
+                  "text": "Tung Lin Kok Yuen ist ein buddhistischer Tempel in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.185609,
+                        22.266893
+                  ]
+            },
+            {
+                  "name": "紅磡聖母堂 St. Mary's Church Hung Hom",
+                  "text": "Die St. Mary's Church in Causeway Bay ist eine religiöse Stätte.",
+                  "category": "religious",
+                  "coords": [
+                        114.188233,
+                        22.307449
+                  ]
+            },
+            {
+                  "name": "銅鑼灣天后古廟 Causeway Bay Tin Hau Temple",
+                  "text": "Der Tin Hau Tempel in Causeway Bay ist eine traditionelle religiöse Stätte.",
+                  "category": "religious",
+                  "coords": [
+                        114.192716,
+                        22.282229
+                  ]
+            },
+            {
+                  "name": "香港聖公會 Hong Kong Sheng Kung Hui",
+                  "text": "Die Hong Kong Sheng Kung Hui ist die anglikanische Kirchengemeinde in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.155743,
+                        22.279743
+                  ]
+            },
+            {
+                  "name": "愛群清真寺暨林士德伊斯蘭中心 Masjid Ammar and Osman Ramju Sadick Islamic Centre",
+                  "text": "Das Masjid Ammar und Osman Ramju Sadick Islamic Centre ist eine Moschee in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.178838,
+                        22.277426
+                  ]
+            },
+            {
+                  "name": "蓮花宮 Lin Fa Temple",
+                  "text": "Der Lin Fa Tempel ist ein historischer Tempel in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.192914,
+                        22.279456
+                  ]
+            },
+            {
+                  "name": "灣仔北帝廟 Pak Tai Temple, Wan Chai",
+                  "text": "Der Pak Tai Tempel in Wan Chai ist eine religiöse Stätte in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.173819,
+                        22.272929
+                  ]
+            },
+            {
+                  "name": "幻彩詠香江 Symphony of Lights",
+                  "text": "Die Symphony of Lights ist eine bekannte Lichtshow in Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.167647,
+                        22.290617
+                  ]
+            },
+            {
+                  "name": "諾士佛臺 Knutsford Terrace",
+                  "text": "Knutsford Terrace ist eine belebte Straße in Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173088,
+                        22.301011
+                  ]
+            },
+            {
+                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "text": "Das Hong Kong Observation Wheel bietet einen Blick über Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.161772,
+                        22.285332
+                  ]
+            },
+            {
+                  "name": "怡和午砲 Noonday Gun",
+                  "text": "Die Noonday Gun in Causeway Bay wird traditionell täglich um 12 Uhr abgefeuert.",
+                  "category": "landmark",
+                  "coords": [
+                        114.183816,
+                        22.282598
+                  ]
+            },
+            {
+                  "name": "灣仔街市 Wanchai Market",
+                  "text": "Der Wanchai Market ist ein traditioneller Markt in Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173676,
+                        22.275059
+                  ]
+            },
+            {
+                  "name": "渣甸山 Jardine's Lookout",
+                  "text": "Jardine's Lookout ist ein beliebter Aussichtspunkt in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.198333,
+                        22.266356
+                  ]
+            },
+            {
+                  "name": "聶高信山 Mount Nicholson",
+                  "text": "Mount Nicholson ist ein bekannter Berg in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.185698,
+                        22.25961
+                  ]
+            },
+            {
+                  "name": "紅香爐峰 Hung Heung Lo Fung",
+                  "text": "Hung Heung Lo Fung ist ein Berg in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.196988,
+                        22.282249
+                  ]
+            },
+            {
+                  "name": "金馬倫山 Mount Cameron",
+                  "text": "Mount Cameron ist ein Berg in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.17511,
+                        22.262407
+                  ]
+            },
+            {
+                  "name": "寶馬山 Braemar Hill",
+                  "text": "Braemar Hill ist ein bekannter Hügel in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.206442,
+                        22.286418
+                  ]
+            },
+            {
+                  "name": "小馬山 Siu Ma Shan",
+                  "text": "Siu Ma Shan ist ein Berg in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.207584,
+                        22.270515
+                  ]
+            },
+            {
+                  "name": "訊號山 Signal Hill",
+                  "text": "Signal Hill ist ein Hügel in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.174922,
+                        22.296249
+                  ]
+            },
+            {
+                  "name": "歌賦山 Mount Gough",
+                  "text": "Mount Gough ist ein Berg in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.159655,
+                        22.268636
+                  ]
+            },
+            {
+                  "name": "九龍公園 Kowloon Park",
+                  "text": "Der Kowloon Park ist eine große Grünanlage in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.17012,
+                        22.300588
+                  ]
+            },
+            {
+                  "name": "夏慤花園 Harcourt Garden",
+                  "text": "Der Harcourt Garden ist ein Garten in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.166964,
+                        22.278845
+                  ]
+            },
+            {
+                  "name": "市政局百周年紀念花園 Centenary Garden",
+                  "text": "Der Centenary Garden ist ein Garten in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.17725,
+                        22.299133
+                  ]
+            },
+            {
+                  "name": "香港公園 Hong Kong Park",
+                  "text": "Der Hong Kong Park ist ein zentraler Park in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.161492,
+                        22.277426
+                  ]
+            },
+            {
+                  "name": "和黃公園 Hutchison Park",
+                  "text": "Der Hutchison Park ist eine Grünanlage in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.190879,
+                        22.307709
+                  ]
+            },
+            {
+                  "name": "添馬公園 Tamar Park",
+                  "text": "Der Tamar Park ist ein Park in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.165642,
+                        22.281055
+                  ]
+            },
+            {
+                  "name": "遮打花園 Chater Garden",
+                  "text": "Der Chater Garden ist ein bekannter Garten in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.161277,
+                        22.280538
+                  ]
+            },
+            {
+                  "name": "博覽海濱花園 Expo Promenade",
+                  "text": "Die Expo Promenade ist eine Parkanlage in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.17286,
+                        22.284399
+                  ]
+            },
+            {
+                  "name": "香港禮賓府 Government House",
+                  "text": "Das Government House in Causeway Bay ist die offizielle Residenz.",
+                  "category": "landmark",
+                  "coords": [
+                        114.157332,
+                        22.278625
+                  ]
+            },
+            {
+                  "name": "中西區海濱長廊－中環段 Central and Western District Promenade – Central Section",
+                  "text": "Die Central and Western District Promenade in Causeway Bay ist ein öffentlicher Park am Wasser.",
+                  "category": "park",
+                  "coords": [
+                        114.165258,
+                        22.283604
+                  ]
+            },
+            {
+                  "name": "香港賽馬博物館 The Hong Kong Racing Museum",
+                  "text": "Das Hong Kong Racing Museum in Causeway Bay zeigt die Geschichte des Pferderennsports.",
+                  "category": "museum",
+                  "coords": [
+                        114.179941,
+                        22.274191
+                  ]
+            },
+            {
+                  "name": "循道衛理聯合教會北角堂 Chinese Methodist Church (North Point)",
+                  "text": "Die Chinese Methodist Church ist ein religiöses Gebäude in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.207038,
+                        22.290747
+                  ]
+            },
+            {
+                  "name": "聖若瑟堂 St. Joseph's Church",
+                  "text": "St. Joseph's Church ist eine Kirche in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.157903,
+                        22.277303
+                  ]
+            },
+            {
+                  "name": "基督科學教會香港第一分會 First Church of Christ Scientist",
+                  "text": "Die First Church of Christ Scientist ist ein religiöser Ort in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.157733,
+                        22.275334
+                  ]
+            },
+            {
+                  "name": "基督君王小堂 Christ the King Chapel",
+                  "text": "Christ the King Chapel ist eine Kapelle in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.187644,
+                        22.277877
+                  ]
+            },
+            {
+                  "name": "聖瑪加利大堂 St. Margaret's Church",
+                  "text": "St. Margaret's Church ist eine Kirche in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.184444,
+                        22.274087
+                  ]
+            },
+            {
+                  "name": "天主教聖猶達聖堂 St. Jude's Catholic Church",
+                  "text": "St. Jude's Catholic Church ist eine katholische Kirche in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.197838,
+                        22.289303
+                  ]
+            },
+            {
+                  "name": "花園道 Garden Road",
+                  "text": "Garden Road ist eine bekannte Attraktion in Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.158957,
+                        22.277598
+                  ]
+            },
+            {
+                  "name": "港灣道花園 Harbour Road Garden",
+                  "text": "Der Harbour Road Garden ist eine grüne Oase in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.175473,
+                        22.280412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "茶具文物館 Flagstaff House Museum of Tea Ware",
+                  "text": "A Causeway Bay-i Flagstaff House Teakerámia Múzeum kiterjedt kínai teakerámia-gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        114.162498,
+                        22.278286
+                  ]
+            },
+            {
+                  "name": "香港科學館 Hong Kong Science Museum",
+                  "text": "A Hongkongi Tudományos Múzeum egy interaktív tudományos múzeum Causeway Bay-ben.",
+                  "category": "museum",
+                  "coords": [
+                        114.177597,
+                        22.300994
+                  ]
+            },
+            {
+                  "name": "警隊博物館 Police Museum",
+                  "text": "A Causeway Bay-i Hongkongi Rendőrségi Múzeum a helyi rendőrség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        114.169297,
+                        22.267663
+                  ]
+            },
+            {
+                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "text": "A Hongkongi Történeti Múzeum Causeway Bay-ben a régió mozgalmas történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        114.17744,
+                        22.30193
+                  ]
+            },
+            {
+                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "text": "A Hongkongi Örökségkutató Központ egy helytörténeti múzeum Causeway Bay-ben.",
+                  "category": "museum",
+                  "coords": [
+                        114.169843,
+                        22.299323
+                  ]
+            },
+            {
+                  "name": "香港視覺藝術中心 Hong Kong Visual Arts Centre",
+                  "text": "A Hongkongi Vizuális Művészeti Központ egy művészeti múzeum Causeway Bay-ben.",
+                  "category": "museum",
+                  "coords": [
+                        114.159372,
+                        22.27669
+                  ]
+            },
+            {
+                  "name": "展城館 City Gallery",
+                  "text": "A City Gallery Causeway Bay-ben a várostervezéssel foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        114.162189,
+                        22.282573
+                  ]
+            },
+            {
+                  "name": "衞生教育展覽及資料中心 Health Education Exhibition and Resource Centre",
+                  "text": "A Egészségnevelési Kiállítás és Erőforrás Központ egy múzeum Causeway Bay-ben.",
+                  "category": "museum",
+                  "coords": [
+                        114.171463,
+                        22.298404
+                  ]
+            },
+            {
+                  "name": "香港太空館 Hong Kong Space Museum",
+                  "text": "A Hongkongi Űrmúzeum egy planetárium és űrmúzeum Causeway Bay-ben.",
+                  "category": "museum",
+                  "coords": [
+                        114.17187,
+                        22.294217
+                  ]
+            },
+            {
+                  "name": "前水警總部 Former Marine Police Headquarters Compound",
+                  "text": "A volt tengeri rendőrségi főkapitányság Causeway Bay-ben egy történelmi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        114.169959,
+                        22.295645
+                  ]
+            },
+            {
+                  "name": "律政中心 Justice Place",
+                  "text": "A Justice Place egy történelmi kormányzati épület Causeway Bay-ben.",
+                  "category": "historical",
+                  "coords": [
+                        114.158637,
+                        22.279132
+                  ]
+            },
+            {
+                  "name": "新光戲院大劇場 Sunbeam Theatre",
+                  "text": "A Sunbeam Színház egy jól ismert színház Causeway Bay-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        114.199979,
+                        22.29142
+                  ]
+            },
+            {
+                  "name": "香港文化中心 Hong Kong Cultural Centre",
+                  "text": "A Hongkongi Kulturális Központ egy jelentős művészeti központ Causeway Bay-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170213,
+                        22.293724
+                  ]
+            },
+            {
+                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "text": "A Hongkongi Művészeti Központ a kortárs művészet központja Causeway Bay-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170814,
+                        22.280177
+                  ]
+            },
+            {
+                  "name": "中華基督教會公理堂 CCC China Congregational Church",
+                  "text": "A Kínai Gyülekezeti Egyház egy történelmi templom Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.186143,
+                        22.278101
+                  ]
+            },
+            {
+                  "name": "聖約翰座堂 St. John's Cathedral",
+                  "text": "A Causeway Bay-i Szent János-katedrális Hongkong legrégebbi anglikán temploma.",
+                  "category": "religious",
+                  "coords": [
+                        114.15966,
+                        22.278767
+                  ]
+            },
+            {
+                  "name": "東蓮覺苑 Tung Lin Kok Yuen",
+                  "text": "A Tung Lin Kok Yuen egy buddhista templom Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.185609,
+                        22.266893
+                  ]
+            },
+            {
+                  "name": "紅磡聖母堂 St. Mary's Church Hung Hom",
+                  "text": "A Szent Mária-templom Causeway Bay-ben egy istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        114.188233,
+                        22.307449
+                  ]
+            },
+            {
+                  "name": "銅鑼灣天后古廟 Causeway Bay Tin Hau Temple",
+                  "text": "A Causeway Bay-i Tin Hau-templom egy hagyományos istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        114.192716,
+                        22.282229
+                  ]
+            },
+            {
+                  "name": "香港聖公會 Hong Kong Sheng Kung Hui",
+                  "text": "A Hongkongi Sheng Kung Hui az anglikán egyházközösség Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.155743,
+                        22.279743
+                  ]
+            },
+            {
+                  "name": "愛群清真寺暨林士德伊斯蘭中心 Masjid Ammar and Osman Ramju Sadick Islamic Centre",
+                  "text": "A Masjid Ammar és Osman Ramju Sadick Iszlám Központ egy mecset Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.178838,
+                        22.277426
+                  ]
+            },
+            {
+                  "name": "蓮花宮 Lin Fa Temple",
+                  "text": "A Lin Fa-templom egy történelmi templom Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.192914,
+                        22.279456
+                  ]
+            },
+            {
+                  "name": "灣仔北帝廟 Pak Tai Temple, Wan Chai",
+                  "text": "A Wan Chai-i Pak Tai-templom egy istentiszteleti hely Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.173819,
+                        22.272929
+                  ]
+            },
+            {
+                  "name": "幻彩詠香江 Symphony of Lights",
+                  "text": "A Symphony of Lights egy jól ismert fénybemutató Causeway Bay-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.167647,
+                        22.290617
+                  ]
+            },
+            {
+                  "name": "諾士佛臺 Knutsford Terrace",
+                  "text": "A Knutsford Terrace egy nyüzsgő utca Causeway Bay-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173088,
+                        22.301011
+                  ]
+            },
+            {
+                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "text": "A Hongkongi Óriáskerék kilátást nyújt Causeway Bay-re.",
+                  "category": "landmark",
+                  "coords": [
+                        114.161772,
+                        22.285332
+                  ]
+            },
+            {
+                  "name": "怡和午砲 Noonday Gun",
+                  "text": "A Causeway Bay-i Noonday Gun-t hagyományosan minden nap délben sütik el.",
+                  "category": "landmark",
+                  "coords": [
+                        114.183816,
+                        22.282598
+                  ]
+            },
+            {
+                  "name": "灣仔街市 Wanchai Market",
+                  "text": "A Wanchai piac egy hagyományos piac Causeway Bay-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173676,
+                        22.275059
+                  ]
+            },
+            {
+                  "name": "渣甸山 Jardine's Lookout",
+                  "text": "A Jardine's Lookout egy népszerű kilátópont Causeway Bay-ben.",
+                  "category": "natural",
+                  "coords": [
+                        114.198333,
+                        22.266356
+                  ]
+            },
+            {
+                  "name": "聶高信山 Mount Nicholson",
+                  "text": "A Mount Nicholson egy jól ismert hegy Causeway Bay-ben.",
+                  "category": "natural",
+                  "coords": [
+                        114.185698,
+                        22.25961
+                  ]
+            },
+            {
+                  "name": "紅香爐峰 Hung Heung Lo Fung",
+                  "text": "A Hung Heung Lo Fung egy hegy Causeway Bay-ben.",
+                  "category": "natural",
+                  "coords": [
+                        114.196988,
+                        22.282249
+                  ]
+            },
+            {
+                  "name": "金馬倫山 Mount Cameron",
+                  "text": "A Mount Cameron egy hegy Causeway Bay-ben.",
+                  "category": "natural",
+                  "coords": [
+                        114.17511,
+                        22.262407
+                  ]
+            },
+            {
+                  "name": "寶馬山 Braemar Hill",
+                  "text": "A Braemar Hill egy jól ismert domb Causeway Bay-ben.",
+                  "category": "natural",
+                  "coords": [
+                        114.206442,
+                        22.286418
+                  ]
+            },
+            {
+                  "name": "小馬山 Siu Ma Shan",
+                  "text": "A Siu Ma Shan egy hegy Causeway Bay-ben.",
+                  "category": "natural",
+                  "coords": [
+                        114.207584,
+                        22.270515
+                  ]
+            },
+            {
+                  "name": "訊號山 Signal Hill",
+                  "text": "A Signal Hill egy domb Causeway Bay-ben.",
+                  "category": "natural",
+                  "coords": [
+                        114.174922,
+                        22.296249
+                  ]
+            },
+            {
+                  "name": "歌賦山 Mount Gough",
+                  "text": "A Mount Gough egy hegy Causeway Bay-ben.",
+                  "category": "natural",
+                  "coords": [
+                        114.159655,
+                        22.268636
+                  ]
+            },
+            {
+                  "name": "九龍公園 Kowloon Park",
+                  "text": "A Kowloon Park egy nagy zöldterület Causeway Bay-ben.",
+                  "category": "park",
+                  "coords": [
+                        114.17012,
+                        22.300588
+                  ]
+            },
+            {
+                  "name": "夏慤花園 Harcourt Garden",
+                  "text": "A Harcourt kert egy kert Causeway Bay-ben.",
+                  "category": "park",
+                  "coords": [
+                        114.166964,
+                        22.278845
+                  ]
+            },
+            {
+                  "name": "市政局百周年紀念花園 Centenary Garden",
+                  "text": "A Centenary kert egy kert Causeway Bay-ben.",
+                  "category": "park",
+                  "coords": [
+                        114.17725,
+                        22.299133
+                  ]
+            },
+            {
+                  "name": "香港公園 Hong Kong Park",
+                  "text": "A Hongkongi Park egy központi park Causeway Bay-ben.",
+                  "category": "park",
+                  "coords": [
+                        114.161492,
+                        22.277426
+                  ]
+            },
+            {
+                  "name": "和黃公園 Hutchison Park",
+                  "text": "A Hutchison Park egy zöldterület Causeway Bay-ben.",
+                  "category": "park",
+                  "coords": [
+                        114.190879,
+                        22.307709
+                  ]
+            },
+            {
+                  "name": "添馬公園 Tamar Park",
+                  "text": "A Tamar Park egy park Causeway Bay-ben.",
+                  "category": "park",
+                  "coords": [
+                        114.165642,
+                        22.281055
+                  ]
+            },
+            {
+                  "name": "遮打花園 Chater Garden",
+                  "text": "A Chater Garden egy jól ismert kert Causeway Bay-ben.",
+                  "category": "park",
+                  "coords": [
+                        114.161277,
+                        22.280538
+                  ]
+            },
+            {
+                  "name": "博覽海濱花園 Expo Promenade",
+                  "text": "Az Expo Promenade egy park Causeway Bay-ben.",
+                  "category": "park",
+                  "coords": [
+                        114.17286,
+                        22.284399
+                  ]
+            },
+            {
+                  "name": "香港禮賓府 Government House",
+                  "text": "A Government House Causeway Bay-ben a hivatalos rezidencia.",
+                  "category": "landmark",
+                  "coords": [
+                        114.157332,
+                        22.278625
+                  ]
+            },
+            {
+                  "name": "中西區海濱長廊－中環段 Central and Western District Promenade – Central Section",
+                  "text": "A Causeway Bay-i Central and Western District Promenade egy nyilvános vízparti park.",
+                  "category": "park",
+                  "coords": [
+                        114.165258,
+                        22.283604
+                  ]
+            },
+            {
+                  "name": "香港賽馬博物館 The Hong Kong Racing Museum",
+                  "text": "A Causeway Bay-i Hong Kong Racing Museum a lóversenyzés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        114.179941,
+                        22.274191
+                  ]
+            },
+            {
+                  "name": "循道衛理聯合教會北角堂 Chinese Methodist Church (North Point)",
+                  "text": "A Chinese Methodist Church egy vallási épület Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.207038,
+                        22.290747
+                  ]
+            },
+            {
+                  "name": "聖若瑟堂 St. Joseph's Church",
+                  "text": "A St. Joseph's Church egy templom Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.157903,
+                        22.277303
+                  ]
+            },
+            {
+                  "name": "基督科學教會香港第一分會 First Church of Christ Scientist",
+                  "text": "A First Church of Christ Scientist egy vallási helyszín Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.157733,
+                        22.275334
+                  ]
+            },
+            {
+                  "name": "基督君王小堂 Christ the King Chapel",
+                  "text": "A Christ the King Chapel egy kápolna Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.187644,
+                        22.277877
+                  ]
+            },
+            {
+                  "name": "聖瑪加利大堂 St. Margaret's Church",
+                  "text": "A St. Margaret's Church egy templom Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.184444,
+                        22.274087
+                  ]
+            },
+            {
+                  "name": "天主教聖猶達聖堂 St. Jude's Catholic Church",
+                  "text": "A St. Jude's Catholic Church egy katolikus templom Causeway Bay-ben.",
+                  "category": "religious",
+                  "coords": [
+                        114.197838,
+                        22.289303
+                  ]
+            },
+            {
+                  "name": "花園道 Garden Road",
+                  "text": "A Garden Road egy ismert látnivaló Causeway Bay-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        114.158957,
+                        22.277598
+                  ]
+            },
+            {
+                  "name": "港灣道花園 Harbour Road Garden",
+                  "text": "A Harbour Road Garden egy zöld oázis Causeway Bay-ben.",
+                  "category": "park",
+                  "coords": [
+                        114.175473,
+                        22.280412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "茶具文物館 Flagstaff House Museum of Tea Ware",
+                  "text": "Muzeul de Ceramică pentru Ceai Flagstaff House din Causeway Bay găzduiește o vastă colecție de ceramică chinezească.",
+                  "category": "museum",
+                  "coords": [
+                        114.162498,
+                        22.278286
+                  ]
+            },
+            {
+                  "name": "香港科學館 Hong Kong Science Museum",
+                  "text": "Muzeul de Știință din Hong Kong este un muzeu științific interactiv în Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.177597,
+                        22.300994
+                  ]
+            },
+            {
+                  "name": "警隊博物館 Police Museum",
+                  "text": "Muzeul Poliției din Hong Kong din Causeway Bay documentează istoria poliției locale.",
+                  "category": "museum",
+                  "coords": [
+                        114.169297,
+                        22.267663
+                  ]
+            },
+            {
+                  "name": "香港歷史博物館 Hong Kong Museum of History",
+                  "text": "Muzeul de Istorie din Hong Kong din Causeway Bay prezintă istoria variată a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        114.17744,
+                        22.30193
+                  ]
+            },
+            {
+                  "name": "香港文物探知館 Hong Kong Heritage Discovery Centre",
+                  "text": "Centrul de Descoperire a Patrimoniului din Hong Kong este un muzeu de istorie locală în Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.169843,
+                        22.299323
+                  ]
+            },
+            {
+                  "name": "香港視覺藝術中心 Hong Kong Visual Arts Centre",
+                  "text": "Centrul de Arte Vizuale din Hong Kong este un muzeu de artă în Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.159372,
+                        22.27669
+                  ]
+            },
+            {
+                  "name": "展城館 City Gallery",
+                  "text": "City Gallery din Causeway Bay este un muzeu dedicat planificării urbane.",
+                  "category": "museum",
+                  "coords": [
+                        114.162189,
+                        22.282573
+                  ]
+            },
+            {
+                  "name": "衞生教育展覽及資料中心 Health Education Exhibition and Resource Centre",
+                  "text": "Centrul de Expoziții și Resurse pentru Educația Sănătății este un muzeu în Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.171463,
+                        22.298404
+                  ]
+            },
+            {
+                  "name": "香港太空館 Hong Kong Space Museum",
+                  "text": "Muzeul Spațial din Hong Kong este un planetariu și muzeu spațial în Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.17187,
+                        22.294217
+                  ]
+            },
+            {
+                  "name": "前水警總部 Former Marine Police Headquarters Compound",
+                  "text": "Fostul sediu al poliției maritime din Causeway Bay este un monument istoric.",
+                  "category": "historical",
+                  "coords": [
+                        114.169959,
+                        22.295645
+                  ]
+            },
+            {
+                  "name": "律政中心 Justice Place",
+                  "text": "Justice Place este o clădire guvernamentală istorică în Causeway Bay.",
+                  "category": "historical",
+                  "coords": [
+                        114.158637,
+                        22.279132
+                  ]
+            },
+            {
+                  "name": "新光戲院大劇場 Sunbeam Theatre",
+                  "text": "Sunbeam Theatre este un teatru bine cunoscut în Causeway Bay.",
+                  "category": "cultural",
+                  "coords": [
+                        114.199979,
+                        22.29142
+                  ]
+            },
+            {
+                  "name": "香港文化中心 Hong Kong Cultural Centre",
+                  "text": "Centrul Cultural din Hong Kong este un centru artistic important în Causeway Bay.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170213,
+                        22.293724
+                  ]
+            },
+            {
+                  "name": "香港藝術中心 Hong Kong Arts Centre",
+                  "text": "Centrul de Arte din Hong Kong este un centru de artă contemporană în Causeway Bay.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170814,
+                        22.280177
+                  ]
+            },
+            {
+                  "name": "中華基督教會公理堂 CCC China Congregational Church",
+                  "text": "Biserica Congregațională Chineză este o biserică istorică în Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.186143,
+                        22.278101
+                  ]
+            },
+            {
+                  "name": "聖約翰座堂 St. John's Cathedral",
+                  "text": "Catedrala Sf. Ioan din Causeway Bay este cea mai veche biserică anglicană din Hong Kong.",
+                  "category": "religious",
+                  "coords": [
+                        114.15966,
+                        22.278767
+                  ]
+            },
+            {
+                  "name": "東蓮覺苑 Tung Lin Kok Yuen",
+                  "text": "Tung Lin Kok Yuen este un templu budist în Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.185609,
+                        22.266893
+                  ]
+            },
+            {
+                  "name": "紅磡聖母堂 St. Mary's Church Hung Hom",
+                  "text": "Biserica Sf. Maria din Causeway Bay este un lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        114.188233,
+                        22.307449
+                  ]
+            },
+            {
+                  "name": "銅鑼灣天后古廟 Causeway Bay Tin Hau Temple",
+                  "text": "Templul Tin Hau din Causeway Bay este un lăcaș de cult tradițional.",
+                  "category": "religious",
+                  "coords": [
+                        114.192716,
+                        22.282229
+                  ]
+            },
+            {
+                  "name": "香港聖公會 Hong Kong Sheng Kung Hui",
+                  "text": "Hong Kong Sheng Kung Hui este comunitatea bisericească anglicană din Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.155743,
+                        22.279743
+                  ]
+            },
+            {
+                  "name": "愛群清真寺暨林士德伊斯蘭中心 Masjid Ammar and Osman Ramju Sadick Islamic Centre",
+                  "text": "Masjid Ammar și Centrul Islamic Osman Ramju Sadick este o moschee în Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.178838,
+                        22.277426
+                  ]
+            },
+            {
+                  "name": "蓮花宮 Lin Fa Temple",
+                  "text": "Templul Lin Fa este un templu istoric în Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.192914,
+                        22.279456
+                  ]
+            },
+            {
+                  "name": "灣仔北帝廟 Pak Tai Temple, Wan Chai",
+                  "text": "Templul Pak Tai din Wan Chai este un lăcaș de cult în Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.173819,
+                        22.272929
+                  ]
+            },
+            {
+                  "name": "幻彩詠香江 Symphony of Lights",
+                  "text": "Symphony of Lights este un spectacol de lumini cunoscut în Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.167647,
+                        22.290617
+                  ]
+            },
+            {
+                  "name": "諾士佛臺 Knutsford Terrace",
+                  "text": "Knutsford Terrace este o stradă animată în Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173088,
+                        22.301011
+                  ]
+            },
+            {
+                  "name": "香港摩天輪 The Hong Kong Observation Wheel",
+                  "text": "Roata Panoramica din Hong Kong oferă o vedere asupra Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.161772,
+                        22.285332
+                  ]
+            },
+            {
+                  "name": "怡和午砲 Noonday Gun",
+                  "text": "Noonday Gun din Causeway Bay este trasă tradițional în fiecare zi la ora 12.",
+                  "category": "landmark",
+                  "coords": [
+                        114.183816,
+                        22.282598
+                  ]
+            },
+            {
+                  "name": "灣仔街市 Wanchai Market",
+                  "text": "Wanchai Market este o piață tradițională în Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173676,
+                        22.275059
+                  ]
+            },
+            {
+                  "name": "渣甸山 Jardine's Lookout",
+                  "text": "Jardine's Lookout este un punct de belvedere popular în Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.198333,
+                        22.266356
+                  ]
+            },
+            {
+                  "name": "聶高信山 Mount Nicholson",
+                  "text": "Mount Nicholson este un munte cunoscut în Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.185698,
+                        22.25961
+                  ]
+            },
+            {
+                  "name": "紅香爐峰 Hung Heung Lo Fung",
+                  "text": "Hung Heung Lo Fung este un munte în Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.196988,
+                        22.282249
+                  ]
+            },
+            {
+                  "name": "金馬倫山 Mount Cameron",
+                  "text": "Mount Cameron este un munte în Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.17511,
+                        22.262407
+                  ]
+            },
+            {
+                  "name": "寶馬山 Braemar Hill",
+                  "text": "Braemar Hill este un deal cunoscut în Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.206442,
+                        22.286418
+                  ]
+            },
+            {
+                  "name": "小馬山 Siu Ma Shan",
+                  "text": "Siu Ma Shan este un munte în Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.207584,
+                        22.270515
+                  ]
+            },
+            {
+                  "name": "訊號山 Signal Hill",
+                  "text": "Signal Hill este un deal în Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.174922,
+                        22.296249
+                  ]
+            },
+            {
+                  "name": "歌賦山 Mount Gough",
+                  "text": "Mount Gough este un munte în Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.159655,
+                        22.268636
+                  ]
+            },
+            {
+                  "name": "九龍公園 Kowloon Park",
+                  "text": "Kowloon Park este un spațiu verde mare în Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.17012,
+                        22.300588
+                  ]
+            },
+            {
+                  "name": "夏慤花園 Harcourt Garden",
+                  "text": "Harcourt Garden este o grădină în Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.166964,
+                        22.278845
+                  ]
+            },
+            {
+                  "name": "市政局百周年紀念花園 Centenary Garden",
+                  "text": "Centenary Garden este o grădină în Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.17725,
+                        22.299133
+                  ]
+            },
+            {
+                  "name": "香港公園 Hong Kong Park",
+                  "text": "Hong Kong Park este un parc central în Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.161492,
+                        22.277426
+                  ]
+            },
+            {
+                  "name": "和黃公園 Hutchison Park",
+                  "text": "Hutchison Park este un spațiu verde în Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.190879,
+                        22.307709
+                  ]
+            },
+            {
+                  "name": "添馬公園 Tamar Park",
+                  "text": "Tamar Park este un parc în Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.165642,
+                        22.281055
+                  ]
+            },
+            {
+                  "name": "遮打花園 Chater Garden",
+                  "text": "Chater Garden este o grădină cunoscută în Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.161277,
+                        22.280538
+                  ]
+            },
+            {
+                  "name": "博覽海濱花園 Expo Promenade",
+                  "text": "Expo Promenade este un parc în Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.17286,
+                        22.284399
+                  ]
+            },
+            {
+                  "name": "香港禮賓府 Government House",
+                  "text": "Government House din Causeway Bay este reședința oficială.",
+                  "category": "landmark",
+                  "coords": [
+                        114.157332,
+                        22.278625
+                  ]
+            },
+            {
+                  "name": "中西區海濱長廊－中環段 Central and Western District Promenade – Central Section",
+                  "text": "Central and Western District Promenade din Causeway Bay este un parc public pe malul apei.",
+                  "category": "park",
+                  "coords": [
+                        114.165258,
+                        22.283604
+                  ]
+            },
+            {
+                  "name": "香港賽馬博物館 The Hong Kong Racing Museum",
+                  "text": "Muzeul de Cursuri de Cai din Hong Kong din Causeway Bay prezintă istoria curselor de cai.",
+                  "category": "museum",
+                  "coords": [
+                        114.179941,
+                        22.274191
+                  ]
+            },
+            {
+                  "name": "循道衛理聯合教會北角堂 Chinese Methodist Church (North Point)",
+                  "text": "Biserica Metodistă Chineză este o clădire religioasă din Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.207038,
+                        22.290747
+                  ]
+            },
+            {
+                  "name": "聖若瑟堂 St. Joseph's Church",
+                  "text": "Biserica Sf. Iosif este o biserică din Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.157903,
+                        22.277303
+                  ]
+            },
+            {
+                  "name": "基督科學教會香港第一分會 First Church of Christ Scientist",
+                  "text": "Prima Biserică a lui Hristos Scientist este un lăcaș de cult din Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.157733,
+                        22.275334
+                  ]
+            },
+            {
+                  "name": "基督君王小堂 Christ the King Chapel",
+                  "text": "Capela Hristos Rege este o capelă din Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.187644,
+                        22.277877
+                  ]
+            },
+            {
+                  "name": "聖瑪加利大堂 St. Margaret's Church",
+                  "text": "Biserica Sf. Margareta este o biserică din Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.184444,
+                        22.274087
+                  ]
+            },
+            {
+                  "name": "天主教聖猶達聖堂 St. Jude's Catholic Church",
+                  "text": "Biserica Catolică Sf. Iuda este o biserică catolică din Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.197838,
+                        22.289303
+                  ]
+            },
+            {
+                  "name": "花園道 Garden Road",
+                  "text": "Garden Road este o atracție cunoscută din Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.158957,
+                        22.277598
+                  ]
+            },
+            {
+                  "name": "港灣道花園 Harbour Road Garden",
+                  "text": "Grădina Harbour Road este o oază verde din Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.175473,
+                        22.280412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flagstaff House Museum of Tea Ware",
+                  "text": "The Flagstaff House Museum of Tea Ware in Causeway Bay houses an extensive collection of Chinese tea ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        114.162498,
+                        22.278286
+                  ]
+            },
+            {
+                  "name": "Hong Kong Science Museum",
+                  "text": "The Hong Kong Science Museum is an interactive science museum in Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.177597,
+                        22.300994
+                  ]
+            },
+            {
+                  "name": "Police Museum",
+                  "text": "The Hong Kong Police Museum in Causeway Bay documents the history of the local police.",
+                  "category": "museum",
+                  "coords": [
+                        114.169297,
+                        22.267663
+                  ]
+            },
+            {
+                  "name": "Hong Kong Museum of History",
+                  "text": "The Hong Kong Museum of History in Causeway Bay showcases the varied history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        114.17744,
+                        22.30193
+                  ]
+            },
+            {
+                  "name": "Hong Kong Heritage Discovery Centre",
+                  "text": "The Hong Kong Heritage Discovery Centre is a local history museum in Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.169843,
+                        22.299323
+                  ]
+            },
+            {
+                  "name": "Hong Kong Visual Arts Centre",
+                  "text": "The Hong Kong Visual Arts Centre is an art museum in Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.159372,
+                        22.27669
+                  ]
+            },
+            {
+                  "name": "City Gallery",
+                  "text": "The City Gallery in Causeway Bay is a museum dedicated to urban planning.",
+                  "category": "museum",
+                  "coords": [
+                        114.162189,
+                        22.282573
+                  ]
+            },
+            {
+                  "name": "Health Education Exhibition and Resource Centre",
+                  "text": "The Health Education Exhibition and Resource Centre is a museum in Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.171463,
+                        22.298404
+                  ]
+            },
+            {
+                  "name": "Hong Kong Space Museum",
+                  "text": "The Hong Kong Space Museum is a planetarium and space museum in Causeway Bay.",
+                  "category": "museum",
+                  "coords": [
+                        114.17187,
+                        22.294217
+                  ]
+            },
+            {
+                  "name": "Former Marine Police Headquarters Compound",
+                  "text": "The former Marine Police Headquarters in Causeway Bay is a historic monument.",
+                  "category": "historical",
+                  "coords": [
+                        114.169959,
+                        22.295645
+                  ]
+            },
+            {
+                  "name": "Justice Place",
+                  "text": "Justice Place is a historic government building in Causeway Bay.",
+                  "category": "historical",
+                  "coords": [
+                        114.158637,
+                        22.279132
+                  ]
+            },
+            {
+                  "name": "Sunbeam Theatre",
+                  "text": "Sunbeam Theatre is a well-known theatre in Causeway Bay.",
+                  "category": "cultural",
+                  "coords": [
+                        114.199979,
+                        22.29142
+                  ]
+            },
+            {
+                  "name": "Hong Kong Cultural Centre",
+                  "text": "The Hong Kong Cultural Centre is a major arts centre in Causeway Bay.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170213,
+                        22.293724
+                  ]
+            },
+            {
+                  "name": "Hong Kong Arts Centre",
+                  "text": "The Hong Kong Arts Centre is a centre for contemporary art in Causeway Bay.",
+                  "category": "cultural",
+                  "coords": [
+                        114.170814,
+                        22.280177
+                  ]
+            },
+            {
+                  "name": "CCC China Congregational Church",
+                  "text": "The China Congregational Church is a historic church in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.186143,
+                        22.278101
+                  ]
+            },
+            {
+                  "name": "St. John's Cathedral",
+                  "text": "St. John's Cathedral in Causeway Bay is the oldest Anglican church in Hong Kong.",
+                  "category": "religious",
+                  "coords": [
+                        114.15966,
+                        22.278767
+                  ]
+            },
+            {
+                  "name": "Tung Lin Kok Yuen",
+                  "text": "Tung Lin Kok Yuen is a Buddhist temple in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.185609,
+                        22.266893
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church Hung Hom",
+                  "text": "St. Mary's Church in Causeway Bay is a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        114.188233,
+                        22.307449
+                  ]
+            },
+            {
+                  "name": "Causeway Bay Tin Hau Temple",
+                  "text": "The Tin Hau Temple in Causeway Bay is a traditional place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        114.192716,
+                        22.282229
+                  ]
+            },
+            {
+                  "name": "Hong Kong Sheng Kung Hui",
+                  "text": "The Hong Kong Sheng Kung Hui is the Anglican church community in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.155743,
+                        22.279743
+                  ]
+            },
+            {
+                  "name": "Masjid Ammar and Osman Ramju Sadick Islamic Centre",
+                  "text": "Masjid Ammar and Osman Ramju Sadick Islamic Centre is a mosque in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.178838,
+                        22.277426
+                  ]
+            },
+            {
+                  "name": "Lin Fa Temple",
+                  "text": "Lin Fa Temple is a historic temple in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.192914,
+                        22.279456
+                  ]
+            },
+            {
+                  "name": "Pak Tai Temple, Wan Chai",
+                  "text": "The Pak Tai Temple in Wan Chai is a place of worship in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.173819,
+                        22.272929
+                  ]
+            },
+            {
+                  "name": "Symphony of Lights",
+                  "text": "The Symphony of Lights is a well-known light show in Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.167647,
+                        22.290617
+                  ]
+            },
+            {
+                  "name": "Knutsford Terrace",
+                  "text": "Knutsford Terrace is a lively street in Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173088,
+                        22.301011
+                  ]
+            },
+            {
+                  "name": "The Hong Kong Observation Wheel",
+                  "text": "The Hong Kong Observation Wheel offers a view over Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.161772,
+                        22.285332
+                  ]
+            },
+            {
+                  "name": "Noonday Gun",
+                  "text": "The Noonday Gun in Causeway Bay is traditionally fired daily at noon.",
+                  "category": "landmark",
+                  "coords": [
+                        114.183816,
+                        22.282598
+                  ]
+            },
+            {
+                  "name": "Wanchai Market",
+                  "text": "Wanchai Market is a traditional market in Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.173676,
+                        22.275059
+                  ]
+            },
+            {
+                  "name": "Jardine's Lookout",
+                  "text": "Jardine's Lookout is a popular viewpoint in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.198333,
+                        22.266356
+                  ]
+            },
+            {
+                  "name": "Mount Nicholson",
+                  "text": "Mount Nicholson is a well-known mountain in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.185698,
+                        22.25961
+                  ]
+            },
+            {
+                  "name": "Hung Heung Lo Fung",
+                  "text": "Hung Heung Lo Fung is a mountain in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.196988,
+                        22.282249
+                  ]
+            },
+            {
+                  "name": "Mount Cameron",
+                  "text": "Mount Cameron is a mountain in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.17511,
+                        22.262407
+                  ]
+            },
+            {
+                  "name": "Braemar Hill",
+                  "text": "Braemar Hill is a well-known hill in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.206442,
+                        22.286418
+                  ]
+            },
+            {
+                  "name": "Siu Ma Shan",
+                  "text": "Siu Ma Shan is a mountain in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.207584,
+                        22.270515
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "Signal Hill is a hill in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.174922,
+                        22.296249
+                  ]
+            },
+            {
+                  "name": "Mount Gough",
+                  "text": "Mount Gough is a mountain in Causeway Bay.",
+                  "category": "natural",
+                  "coords": [
+                        114.159655,
+                        22.268636
+                  ]
+            },
+            {
+                  "name": "Kowloon Park",
+                  "text": "Kowloon Park is a large green space in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.17012,
+                        22.300588
+                  ]
+            },
+            {
+                  "name": "Harcourt Garden",
+                  "text": "Harcourt Garden is a garden in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.166964,
+                        22.278845
+                  ]
+            },
+            {
+                  "name": "Centenary Garden",
+                  "text": "Centenary Garden is a garden in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.17725,
+                        22.299133
+                  ]
+            },
+            {
+                  "name": "Hong Kong Park",
+                  "text": "Hong Kong Park is a central park in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.161492,
+                        22.277426
+                  ]
+            },
+            {
+                  "name": "Hutchison Park",
+                  "text": "Hutchison Park is a green space in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.190879,
+                        22.307709
+                  ]
+            },
+            {
+                  "name": "Tamar Park",
+                  "text": "Tamar Park is a park in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.165642,
+                        22.281055
+                  ]
+            },
+            {
+                  "name": "Chater Garden",
+                  "text": "Chater Garden is a well-known garden in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.161277,
+                        22.280538
+                  ]
+            },
+            {
+                  "name": "Expo Promenade",
+                  "text": "Expo Promenade is a park in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.17286,
+                        22.284399
+                  ]
+            },
+            {
+                  "name": "Government House",
+                  "text": "Government House in Causeway Bay is the official residence.",
+                  "category": "landmark",
+                  "coords": [
+                        114.157332,
+                        22.278625
+                  ]
+            },
+            {
+                  "name": "Central and Western District Promenade – Central Section",
+                  "text": "The Central and Western District Promenade in Causeway Bay is a public waterfront park.",
+                  "category": "park",
+                  "coords": [
+                        114.165258,
+                        22.283604
+                  ]
+            },
+            {
+                  "name": "The Hong Kong Racing Museum",
+                  "text": "The Hong Kong Racing Museum in Causeway Bay showcases the history of horse racing.",
+                  "category": "museum",
+                  "coords": [
+                        114.179941,
+                        22.274191
+                  ]
+            },
+            {
+                  "name": "Chinese Methodist Church (North Point)",
+                  "text": "The Chinese Methodist Church is a place of worship in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.207038,
+                        22.290747
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Church",
+                  "text": "St. Joseph's Church is a place of worship in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.157903,
+                        22.277303
+                  ]
+            },
+            {
+                  "name": "First Church of Christ Scientist",
+                  "text": "The First Church of Christ Scientist is a place of worship in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.157733,
+                        22.275334
+                  ]
+            },
+            {
+                  "name": "Christ the King Chapel",
+                  "text": "Christ the King Chapel is a place of worship in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.187644,
+                        22.277877
+                  ]
+            },
+            {
+                  "name": "St. Margaret's Church",
+                  "text": "St. Margaret's Church is a place of worship in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.184444,
+                        22.274087
+                  ]
+            },
+            {
+                  "name": "St. Jude's Catholic Church",
+                  "text": "St. Jude's Catholic Church is a place of worship in Causeway Bay.",
+                  "category": "religious",
+                  "coords": [
+                        114.197838,
+                        22.289303
+                  ]
+            },
+            {
+                  "name": "Garden Road",
+                  "text": "Garden Road is a well-known attraction in Causeway Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        114.158957,
+                        22.277598
+                  ]
+            },
+            {
+                  "name": "Harbour Road Garden",
+                  "text": "Harbour Road Garden is a green oasis in Causeway Bay.",
+                  "category": "park",
+                  "coords": [
+                        114.175473,
+                        22.280412
+                  ]
+            }
+      ]
+},
     parent: "HK",
     type: "city",
     name: { de: "Causeway Bay", hu: "Causeway Bay", ro: "Causeway Bay", en: "Causeway Bay" },

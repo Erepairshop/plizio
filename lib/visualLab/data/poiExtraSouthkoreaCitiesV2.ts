@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraSouthkoreaCitiesV2: POI[] = [
   {
-    id: "hwaseong-city-cities-v2",
+    id: "hwaseong-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "고초봉",
+                  "text": "Der Gocho-bong ist ein Gipfel in Hwaseong.",
+                  "category": "natural",
+                  "coords": [
+                        126.810995,
+                        37.19668
+                  ]
+            },
+            {
+                  "name": "누림아트홀",
+                  "text": "Die Nurim Art Hall ist ein Kunstzentrum in Hwaseong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.828569,
+                        37.198873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "고초봉",
+                  "text": "A Gocho-bong egy hegycsúcs Hwaseong területén.",
+                  "category": "natural",
+                  "coords": [
+                        126.810995,
+                        37.19668
+                  ]
+            },
+            {
+                  "name": "누림아트홀",
+                  "text": "A Nurim Art Hall egy művészeti központ Hwaseong városában.",
+                  "category": "cultural",
+                  "coords": [
+                        126.828569,
+                        37.198873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "고초봉",
+                  "text": "Gocho-bong este un vârf muntos în Hwaseong.",
+                  "category": "natural",
+                  "coords": [
+                        126.810995,
+                        37.19668
+                  ]
+            },
+            {
+                  "name": "누림아트홀",
+                  "text": "Nurim Art Hall este un centru de arte din Hwaseong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.828569,
+                        37.198873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "고초봉",
+                  "text": "Gocho-bong is a peak situated in Hwaseong.",
+                  "category": "natural",
+                  "coords": [
+                        126.810995,
+                        37.19668
+                  ]
+            },
+            {
+                  "name": "누림아트홀",
+                  "text": "Nurim Art Hall is an arts centre in Hwaseong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.828569,
+                        37.198873
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-41",
     coords: [126.8310, 37.1990],
@@ -51,7 +132,52 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "namyangju-city-cities-v2",
+    id: "namyangju-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "다산홀",
+                  "text": "다산홀 ist ein Theater in Namyangju.",
+                  "category": "cultural",
+                  "coords": [
+                        127.216061,
+                        37.635587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "다산홀",
+                  "text": "A 다산홀 egy színház Namjangdzsu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.216061,
+                        37.635587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "다산홀",
+                  "text": "다산홀 este un teatru situat în Namyangju.",
+                  "category": "cultural",
+                  "coords": [
+                        127.216061,
+                        37.635587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "다산홀",
+                  "text": "다산홀 is a theatre situated in Namyangju.",
+                  "category": "cultural",
+                  "coords": [
+                        127.216061,
+                        37.635587
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-41",
     coords: [127.2160, 37.6360],
@@ -147,7 +273,664 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gwangmyeong-city-cities-v2",
+    id: "gwangmyeong-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "평강성서유물박물관",
+                  "text": "Die Abraham Park Kenneth Vine Collection ist ein Museum in Gwangmyeong.",
+                  "category": "museum",
+                  "coords": [
+                        126.84495,
+                        37.492115
+                  ]
+            },
+            {
+                  "name": "레미어린이극장",
+                  "text": "Das Remi Children's Theater ist ein Theater in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.895674,
+                        37.47062
+                  ]
+            },
+            {
+                  "name": "문화정원 아트홀",
+                  "text": "Die Culture Garden Art Hall ist ein Theater in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.895927,
+                        37.471857
+                  ]
+            },
+            {
+                  "name": "금천뮤지컬센터",
+                  "text": "Das Geumcheon Musical Center ist ein Theater in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.894382,
+                        37.468508
+                  ]
+            },
+            {
+                  "name": "꿈나무극장",
+                  "text": "Das Dream Tree Theater ist ein Theater in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.88655,
+                        37.489717
+                  ]
+            },
+            {
+                  "name": "예술나무Theater",
+                  "text": "Das Art Tree Theater ist ein Theater in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.884002,
+                        37.499803
+                  ]
+            },
+            {
+                  "name": "가리봉비디오",
+                  "text": "Garibong Video ist ein Theater in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.890569,
+                        37.480195
+                  ]
+            },
+            {
+                  "name": "오류아트홀",
+                  "text": "Die Oryu Art Hall ist ein Theater in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.847793,
+                        37.495896
+                  ]
+            },
+            {
+                  "name": "광명안양천 어린이물놀이장",
+                  "text": "Der Gwangmyeong Anyangcheon Children's Water Park ist ein Wasserpark in Gwangmyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        126.869649,
+                        37.493317
+                  ]
+            },
+            {
+                  "name": "개웅산",
+                  "text": "Der Gaeungsan ist ein Gipfel in Gwangmyeong.",
+                  "category": "natural",
+                  "coords": [
+                        126.844655,
+                        37.486593
+                  ]
+            },
+            {
+                  "name": "한국SGI광명문화회관",
+                  "text": "Das Korea SGI Gwangmyeong Cultural Center ist ein Kunstzentrum in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.862324,
+                        37.482214
+                  ]
+            },
+            {
+                  "name": "아트빌라",
+                  "text": "Die Art Villa ist ein Denkmal in Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.843514,
+                        37.492188
+                  ]
+            },
+            {
+                  "name": "KCYCLE 조형물",
+                  "text": "Die KCYCLE Sculpture ist ein Denkmal in Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.845596,
+                        37.465757
+                  ]
+            },
+            {
+                  "name": "스피돔 조형물",
+                  "text": "Die Spedom Sculpture ist ein Denkmal in Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.846932,
+                        37.46851
+                  ]
+            },
+            {
+                  "name": "현충탑",
+                  "text": "Der Memorial Tower ist ein Denkmal in Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.864938,
+                        37.483944
+                  ]
+            },
+            {
+                  "name": "광명시민회관",
+                  "text": "Das Gwangmyeong Civic Center ist ein Kunstzentrum in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.863806,
+                        37.477104
+                  ]
+            },
+            {
+                  "name": "PostBoxGasan",
+                  "text": "PostBoxGasan ist ein Denkmal in Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.888548,
+                        37.472006
+                  ]
+            },
+            {
+                  "name": "광명업사이클아트센터",
+                  "text": "Das Gwangmyeong Upcycle Art Center ist ein Kunstzentrum in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.870364,
+                        37.463716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "평강성서유물박물관",
+                  "text": "A The Abraham Park Kenneth Vine Collection egy múzeum Gwangmyeong területén.",
+                  "category": "museum",
+                  "coords": [
+                        126.84495,
+                        37.492115
+                  ]
+            },
+            {
+                  "name": "레미어린이극장",
+                  "text": "A Remi Children's Theater egy színház Gwangmyeong városában.",
+                  "category": "cultural",
+                  "coords": [
+                        126.895674,
+                        37.47062
+                  ]
+            },
+            {
+                  "name": "문화정원 아트홀",
+                  "text": "A Culture Garden Art Hall egy színház Gwangmyeong területén.",
+                  "category": "cultural",
+                  "coords": [
+                        126.895927,
+                        37.471857
+                  ]
+            },
+            {
+                  "name": "금천뮤지컬센터",
+                  "text": "A Geumcheon Musical Center egy színház Gwangmyeong városában.",
+                  "category": "cultural",
+                  "coords": [
+                        126.894382,
+                        37.468508
+                  ]
+            },
+            {
+                  "name": "꿈나무극장",
+                  "text": "A Dream Tree Theater egy színház Gwangmyeong területén.",
+                  "category": "cultural",
+                  "coords": [
+                        126.88655,
+                        37.489717
+                  ]
+            },
+            {
+                  "name": "예술나무Theater",
+                  "text": "Az Art Tree Theater egy színház Gwangmyeong városában.",
+                  "category": "cultural",
+                  "coords": [
+                        126.884002,
+                        37.499803
+                  ]
+            },
+            {
+                  "name": "가리봉비디오",
+                  "text": "A Garibong Video egy színház Gwangmyeong területén.",
+                  "category": "cultural",
+                  "coords": [
+                        126.890569,
+                        37.480195
+                  ]
+            },
+            {
+                  "name": "오류아트홀",
+                  "text": "Az Oryu Art Hall egy színház Gwangmyeong területén.",
+                  "category": "cultural",
+                  "coords": [
+                        126.847793,
+                        37.495896
+                  ]
+            },
+            {
+                  "name": "광명안양천 어린이물놀이장",
+                  "text": "A Gwangmyeong Anyangcheon Children's Water Park egy vízi park Gwangmyeong városában.",
+                  "category": "recreational",
+                  "coords": [
+                        126.869649,
+                        37.493317
+                  ]
+            },
+            {
+                  "name": "개웅산",
+                  "text": "A Gaeungsan egy hegycsúcs Gwangmyeong területén.",
+                  "category": "natural",
+                  "coords": [
+                        126.844655,
+                        37.486593
+                  ]
+            },
+            {
+                  "name": "한국SGI광명문화회관",
+                  "text": "A Korea SGI Gwangmyeong Cultural Center egy művészeti központ Gwangmyeong városában.",
+                  "category": "cultural",
+                  "coords": [
+                        126.862324,
+                        37.482214
+                  ]
+            },
+            {
+                  "name": "아트빌라",
+                  "text": "Az Art Villa egy emlékmű Gwangmyeong területén.",
+                  "category": "historical",
+                  "coords": [
+                        126.843514,
+                        37.492188
+                  ]
+            },
+            {
+                  "name": "KCYCLE 조형물",
+                  "text": "A KCYCLE Sculpture egy emlékmű Gwangmyeong városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.845596,
+                        37.465757
+                  ]
+            },
+            {
+                  "name": "스피돔 조형물",
+                  "text": "A Spedom Sculpture egy emlékmű Gwangmyeong területén.",
+                  "category": "historical",
+                  "coords": [
+                        126.846932,
+                        37.46851
+                  ]
+            },
+            {
+                  "name": "현충탑",
+                  "text": "A Memorial Tower egy emlékmű Gwangmyeong városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.864938,
+                        37.483944
+                  ]
+            },
+            {
+                  "name": "광명시민회관",
+                  "text": "A Gwangmyeong Civic Center egy művészeti központ Gwangmyeong területén.",
+                  "category": "cultural",
+                  "coords": [
+                        126.863806,
+                        37.477104
+                  ]
+            },
+            {
+                  "name": "PostBoxGasan",
+                  "text": "A PostBoxGasan egy emlékmű Gwangmyeong városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.888548,
+                        37.472006
+                  ]
+            },
+            {
+                  "name": "광명업사이클아트센터",
+                  "text": "A Gwangmyeong Upcycle Art Center egy művészeti központ Gwangmyeong területén.",
+                  "category": "cultural",
+                  "coords": [
+                        126.870364,
+                        37.463716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "평강성서유물박물관",
+                  "text": "The Abraham Park Kenneth Vine Collection este un muzeu din Gwangmyeong.",
+                  "category": "museum",
+                  "coords": [
+                        126.84495,
+                        37.492115
+                  ]
+            },
+            {
+                  "name": "레미어린이극장",
+                  "text": "Remi Children's Theater este un teatru în Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.895674,
+                        37.47062
+                  ]
+            },
+            {
+                  "name": "문화정원 아트홀",
+                  "text": "Culture Garden Art Hall este un teatru din Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.895927,
+                        37.471857
+                  ]
+            },
+            {
+                  "name": "금천뮤지컬센터",
+                  "text": "Geumcheon Musical Center este un teatru în Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.894382,
+                        37.468508
+                  ]
+            },
+            {
+                  "name": "꿈나무극장",
+                  "text": "Dream Tree Theater este un teatru din Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.88655,
+                        37.489717
+                  ]
+            },
+            {
+                  "name": "예술나무Theater",
+                  "text": "Art Tree Theater este un teatru în Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.884002,
+                        37.499803
+                  ]
+            },
+            {
+                  "name": "가리봉비디오",
+                  "text": "Garibong Video este un teatru din Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.890569,
+                        37.480195
+                  ]
+            },
+            {
+                  "name": "오류아트홀",
+                  "text": "Oryu Art Hall este un teatru din Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.847793,
+                        37.495896
+                  ]
+            },
+            {
+                  "name": "광명안양천 어린이물놀이장",
+                  "text": "Gwangmyeong Anyangcheon Children's Water Park este un parc acvatic în Gwangmyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        126.869649,
+                        37.493317
+                  ]
+            },
+            {
+                  "name": "개웅산",
+                  "text": "Gaeungsan este un vârf muntos din Gwangmyeong.",
+                  "category": "natural",
+                  "coords": [
+                        126.844655,
+                        37.486593
+                  ]
+            },
+            {
+                  "name": "한국SGI광명문화회관",
+                  "text": "Korea SGI Gwangmyeong Cultural Center este un centru de arte în Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.862324,
+                        37.482214
+                  ]
+            },
+            {
+                  "name": "아트빌라",
+                  "text": "Art Villa este un monument din Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.843514,
+                        37.492188
+                  ]
+            },
+            {
+                  "name": "KCYCLE 조형물",
+                  "text": "KCYCLE Sculpture este un monument în Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.845596,
+                        37.465757
+                  ]
+            },
+            {
+                  "name": "스피돔 조형물",
+                  "text": "Spedom Sculpture este un monument din Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.846932,
+                        37.46851
+                  ]
+            },
+            {
+                  "name": "현충탑",
+                  "text": "Memorial Tower este un monument în Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.864938,
+                        37.483944
+                  ]
+            },
+            {
+                  "name": "광명시민회관",
+                  "text": "Gwangmyeong Civic Center este un centru de arte din Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.863806,
+                        37.477104
+                  ]
+            },
+            {
+                  "name": "PostBoxGasan",
+                  "text": "PostBoxGasan este un monument în Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.888548,
+                        37.472006
+                  ]
+            },
+            {
+                  "name": "광명업사이클아트센터",
+                  "text": "Gwangmyeong Upcycle Art Center este un centru de arte din Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.870364,
+                        37.463716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Abraham Park Kenneth Vine Collection",
+                  "text": "The Abraham Park Kenneth Vine Collection is a museum in Gwangmyeong.",
+                  "category": "museum",
+                  "coords": [
+                        126.84495,
+                        37.492115
+                  ]
+            },
+            {
+                  "name": "레미어린이극장",
+                  "text": "Remi Children's Theater is a theatre in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.895674,
+                        37.47062
+                  ]
+            },
+            {
+                  "name": "문화정원 아트홀",
+                  "text": "Culture Garden Art Hall is a theatre in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.895927,
+                        37.471857
+                  ]
+            },
+            {
+                  "name": "금천뮤지컬센터",
+                  "text": "Geumcheon Musical Center is a theatre in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.894382,
+                        37.468508
+                  ]
+            },
+            {
+                  "name": "꿈나무극장",
+                  "text": "Dream Tree Theater is a theatre in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.88655,
+                        37.489717
+                  ]
+            },
+            {
+                  "name": "예술나무Theater",
+                  "text": "Art Tree Theater is a theatre in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.884002,
+                        37.499803
+                  ]
+            },
+            {
+                  "name": "가리봉비디오",
+                  "text": "Garibong Video is a theatre in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.890569,
+                        37.480195
+                  ]
+            },
+            {
+                  "name": "오류아트홀",
+                  "text": "Oryu Art Hall is a theatre in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.847793,
+                        37.495896
+                  ]
+            },
+            {
+                  "name": "광명안양천 어린이물놀이장",
+                  "text": "Gwangmyeong Anyangcheon Children's Water Park is a water park in Gwangmyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        126.869649,
+                        37.493317
+                  ]
+            },
+            {
+                  "name": "개웅산",
+                  "text": "Gaeungsan is a peak in Gwangmyeong.",
+                  "category": "natural",
+                  "coords": [
+                        126.844655,
+                        37.486593
+                  ]
+            },
+            {
+                  "name": "Korea SGI Gwangmyeong Cultural Center",
+                  "text": "Korea SGI Gwangmyeong Cultural Center is an arts centre in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.862324,
+                        37.482214
+                  ]
+            },
+            {
+                  "name": "아트빌라",
+                  "text": "Art Villa is a monument in Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.843514,
+                        37.492188
+                  ]
+            },
+            {
+                  "name": "KCYCLE 조형물",
+                  "text": "KCYCLE Sculpture is a monument in Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.845596,
+                        37.465757
+                  ]
+            },
+            {
+                  "name": "스피돔 조형물",
+                  "text": "Spedom Sculpture is a monument in Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.846932,
+                        37.46851
+                  ]
+            },
+            {
+                  "name": "현충탑",
+                  "text": "Memorial Tower is a monument in Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.864938,
+                        37.483944
+                  ]
+            },
+            {
+                  "name": "광명시민회관",
+                  "text": "Gwangmyeong Civic Center is an arts centre in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.863806,
+                        37.477104
+                  ]
+            },
+            {
+                  "name": "PostBoxGasan",
+                  "text": "PostBoxGasan is a monument in Gwangmyeong.",
+                  "category": "historical",
+                  "coords": [
+                        126.888548,
+                        37.472006
+                  ]
+            },
+            {
+                  "name": "광명업사이클아트센터",
+                  "text": "Gwangmyeong Upcycle Art Center is an arts centre in Gwangmyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        126.870364,
+                        37.463716
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-41",
     coords: [126.8640, 37.4780],
@@ -195,7 +978,232 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "mokpo-city-cities-v2",
+    id: "mokpo-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "기쁨씽크공장전시관",
+                  "text": "Die Gibbeumssingkeugongjang Exhibition Hall ist ein Museum in Mokpo.",
+                  "category": "museum",
+                  "coords": [
+                        126.376749,
+                        34.807924
+                  ]
+            },
+            {
+                  "name": "예술극장 창고",
+                  "text": "Das Art Theater Warehouse ist ein Theater in Mokpo.",
+                  "category": "cultural",
+                  "coords": [
+                        126.38502,
+                        34.794168
+                  ]
+            },
+            {
+                  "name": "양을산",
+                  "text": "Yangeulsan ist ein Berggipfel in Mokpo.",
+                  "category": "natural",
+                  "coords": [
+                        126.407618,
+                        34.811589
+                  ]
+            },
+            {
+                  "name": "해맑은목포",
+                  "text": "해맑은목포 ist ein Denkmal in der Stadt Mokpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.416747,
+                        34.813181
+                  ]
+            },
+            {
+                  "name": "목포해상케이블카",
+                  "text": "Das Mokpo Marine Cable Car ist eine Touristenattraktion in Mokpo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.369709,
+                        34.799152
+                  ]
+            },
+            {
+                  "name": "목포 천주교성지",
+                  "text": "목포 천주교성지 ist eine Attraktion in Mokpo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.38542,
+                        34.799939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "기쁨씽크공장전시관",
+                  "text": "A Gibbeumssingkeugongjang Exhibition Hall egy múzeum Mokpo városában.",
+                  "category": "museum",
+                  "coords": [
+                        126.376749,
+                        34.807924
+                  ]
+            },
+            {
+                  "name": "예술극장 창고",
+                  "text": "Az Art Theater Warehouse egy színház Mokpo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        126.38502,
+                        34.794168
+                  ]
+            },
+            {
+                  "name": "양을산",
+                  "text": "A Jangeulszan egy hegycsúcs Mokpo városában.",
+                  "category": "natural",
+                  "coords": [
+                        126.407618,
+                        34.811589
+                  ]
+            },
+            {
+                  "name": "해맑은목포",
+                  "text": "A 해맑은목포 egy emlékmű Mokpo városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.416747,
+                        34.813181
+                  ]
+            },
+            {
+                  "name": "목포해상케이블카",
+                  "text": "A Mokpo Marine Cable Car egy turisztikai látványosság Mokpo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        126.369709,
+                        34.799152
+                  ]
+            },
+            {
+                  "name": "목포 천주교성지",
+                  "text": "A 목포 천주교성지 egy látványosság Mokpo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        126.38542,
+                        34.799939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "기쁨씽크공장전시관",
+                  "text": "Gibbeumssingkeugongjang Exhibition Hall este un muzeu din Mokpo.",
+                  "category": "museum",
+                  "coords": [
+                        126.376749,
+                        34.807924
+                  ]
+            },
+            {
+                  "name": "예술극장 창고",
+                  "text": "Art Theater Warehouse este un teatru în Mokpo.",
+                  "category": "cultural",
+                  "coords": [
+                        126.38502,
+                        34.794168
+                  ]
+            },
+            {
+                  "name": "양을산",
+                  "text": "Yangeulsan este un vârf montan situat în Mokpo.",
+                  "category": "natural",
+                  "coords": [
+                        126.407618,
+                        34.811589
+                  ]
+            },
+            {
+                  "name": "해맑은목포",
+                  "text": "해맑은목포 este un monument situat în orașul Mokpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.416747,
+                        34.813181
+                  ]
+            },
+            {
+                  "name": "목포해상케이블카",
+                  "text": "Mokpo Marine Cable Car este o atracție turistică în Mokpo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.369709,
+                        34.799152
+                  ]
+            },
+            {
+                  "name": "목포 천주교성지",
+                  "text": "목포 천주교성지 este o atracție situată în Mokpo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.38542,
+                        34.799939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gibbeumssingkeugongjang Exhibition Hall",
+                  "text": "The Gibbeumssingkeugongjang Exhibition Hall is a museum in Mokpo.",
+                  "category": "museum",
+                  "coords": [
+                        126.376749,
+                        34.807924
+                  ]
+            },
+            {
+                  "name": "Art Theater Warehouse",
+                  "text": "The Art Theater Warehouse is a performance venue in Mokpo.",
+                  "category": "cultural",
+                  "coords": [
+                        126.38502,
+                        34.794168
+                  ]
+            },
+            {
+                  "name": "Yangeulsan",
+                  "text": "Yangeulsan is a mountain peak located in Mokpo.",
+                  "category": "natural",
+                  "coords": [
+                        126.407618,
+                        34.811589
+                  ]
+            },
+            {
+                  "name": "해맑은목포",
+                  "text": "해맑은목포 is a monument situated in the city of Mokpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.416747,
+                        34.813181
+                  ]
+            },
+            {
+                  "name": "Mokpo Marine Cable Car",
+                  "text": "The Mokpo Marine Cable Car is a major tourist attraction in Mokpo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.369709,
+                        34.799152
+                  ]
+            },
+            {
+                  "name": "목포 천주교성지",
+                  "text": "목포 천주교성지 is an attraction located in Mokpo.",
+                  "category": "landmark",
+                  "coords": [
+                        126.38542,
+                        34.799939
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-46",
     coords: [126.3910, 34.8160],
@@ -243,7 +1251,700 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "yeosu-city-cities-v2",
+    id: "yeosu-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "석창성지",
+                  "text": "The Site of an Ancient Seokchang Castle umfasst historische Burgruinen in Yeosu.",
+                  "category": "castle",
+                  "coords": [
+                        127.660655,
+                        34.783148
+                  ]
+            },
+            {
+                  "name": "7080라이브콘서트",
+                  "text": "7080라이브콘서트 ist ein lokales Theater und Veranstaltungsort in Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.667125,
+                        34.759056
+                  ]
+            },
+            {
+                  "name": "파도소리 소극장",
+                  "text": "파도소리 소극장 ist ein Theater in der Stadt Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.667101,
+                        34.762909
+                  ]
+            },
+            {
+                  "name": "버니아쿠아",
+                  "text": "버니아쿠아 ist ein Aquarium in Yeosu, das Meereslebewesen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        127.646117,
+                        34.760689
+                  ]
+            },
+            {
+                  "name": "예울마루",
+                  "text": "예울마루 ist ein Theater in der Stadt Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.664951,
+                        34.750446
+                  ]
+            },
+            {
+                  "name": "다이노밸리",
+                  "text": "다이노밸리 ist ein Themenpark in Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.640183,
+                        34.748808
+                  ]
+            },
+            {
+                  "name": "웅천친수공원해수욕장",
+                  "text": "웅천친수공원해수욕장 ist ein Strandbereich für Erholung in Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.667569,
+                        34.74707
+                  ]
+            },
+            {
+                  "name": "유월드루지테마파크",
+                  "text": "유월드루지테마파크 ist ein lokaler Themenpark in Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.64133,
+                        34.747888
+                  ]
+            },
+            {
+                  "name": "선소",
+                  "text": "Seonso ist eine archäologische Stätte in Yeosu.",
+                  "category": "historical",
+                  "coords": [
+                        127.662863,
+                        34.755046
+                  ]
+            },
+            {
+                  "name": "거북선공원",
+                  "text": "Der Geobukseon Park ist ein öffentlicher Park in Yeosu.",
+                  "category": "park",
+                  "coords": [
+                        127.666757,
+                        34.761202
+                  ]
+            },
+            {
+                  "name": "안산근린공원",
+                  "text": "Der Ansan Neighborhood Park bietet eine grüne Erholungsfläche in Yeosu.",
+                  "category": "park",
+                  "coords": [
+                        127.658431,
+                        34.759282
+                  ]
+            },
+            {
+                  "name": "이순신공원",
+                  "text": "Der Yi Sun-sin Park ist eine nach dem berühmten Admiral benannte Grünanlage in Yeosu.",
+                  "category": "park",
+                  "coords": [
+                        127.679861,
+                        34.744604
+                  ]
+            },
+            {
+                  "name": "갤러리 빛과소금",
+                  "text": "갤러리 빛과소금 ist eine Kunstgalerie in der Stadt Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.680156,
+                        34.748278
+                  ]
+            },
+            {
+                  "name": "갤러리노마드",
+                  "text": "갤러리노마드 ist eine lokale Galerie, die Kunstwerke in Yeosu ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        127.67525,
+                        34.762906
+                  ]
+            },
+            {
+                  "name": "선갤러리",
+                  "text": "선갤러리 ist eine Kunstgalerie in Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.672894,
+                        34.762092
+                  ]
+            },
+            {
+                  "name": "여수미술관",
+                  "text": "여수미술관 ist eine Galerie für bildende Künste in Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.660132,
+                        34.761292
+                  ]
+            },
+            {
+                  "name": "여수문화홀",
+                  "text": "Die Yeosu Culture Hall ist ein Zentrum für Kunst und kulturelle Veranstaltungen in Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.663346,
+                        34.759888
+                  ]
+            },
+            {
+                  "name": "생활문화센터",
+                  "text": "생활문화센터 ist ein Kunstzentrum, das der lokalen Gemeinschaft in Yeosu dient.",
+                  "category": "cultural",
+                  "coords": [
+                        127.664635,
+                        34.76364
+                  ]
+            },
+            {
+                  "name": "장도전시관",
+                  "text": "장도전시관 ist eine Kunstgalerie in Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.663858,
+                        34.741956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "석창성지",
+                  "text": "A The Site of an Ancient Seokchang Castle egy történelmi várrom Yeosu városában.",
+                  "category": "castle",
+                  "coords": [
+                        127.660655,
+                        34.783148
+                  ]
+            },
+            {
+                  "name": "7080라이브콘서트",
+                  "text": "A 7080라이브콘서트 egy helyi színház és előadóterem Yeosu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.667125,
+                        34.759056
+                  ]
+            },
+            {
+                  "name": "파도소리 소극장",
+                  "text": "A 파도소리 소극장 egy színház Yeosu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.667101,
+                        34.762909
+                  ]
+            },
+            {
+                  "name": "버니아쿠아",
+                  "text": "A 버니아쿠아 egy akvárium, amely vízi élővilágot mutat be Yeosu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        127.646117,
+                        34.760689
+                  ]
+            },
+            {
+                  "name": "예울마루",
+                  "text": "A 예울마루 egy színház Yeosu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.664951,
+                        34.750446
+                  ]
+            },
+            {
+                  "name": "다이노밸리",
+                  "text": "A 다이노밸리 egy vidámpark Yeosu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        127.640183,
+                        34.748808
+                  ]
+            },
+            {
+                  "name": "웅천친수공원해수욕장",
+                  "text": "A 웅천친수공원해수욕장 egy strand és rekreációs terület Yeosu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        127.667569,
+                        34.74707
+                  ]
+            },
+            {
+                  "name": "유월드루지테마파크",
+                  "text": "A 유월드루지테마파크 egy helyi vidámpark Yeosu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        127.64133,
+                        34.747888
+                  ]
+            },
+            {
+                  "name": "선소",
+                  "text": "A Seonso egy régészeti lelőhely Yeosu városában.",
+                  "category": "historical",
+                  "coords": [
+                        127.662863,
+                        34.755046
+                  ]
+            },
+            {
+                  "name": "거북선공원",
+                  "text": "A Geobukseon Park egy nyilvános park Yeosu városában.",
+                  "category": "park",
+                  "coords": [
+                        127.666757,
+                        34.761202
+                  ]
+            },
+            {
+                  "name": "안산근린공원",
+                  "text": "Az Ansan Neighborhood Park egy zöld rekreációs terület Yeosu városában.",
+                  "category": "park",
+                  "coords": [
+                        127.658431,
+                        34.759282
+                  ]
+            },
+            {
+                  "name": "이순신공원",
+                  "text": "A Yi Sun-sin Park egy híres tengernagyról elnevezett zöldterület Yeosu városában.",
+                  "category": "park",
+                  "coords": [
+                        127.679861,
+                        34.744604
+                  ]
+            },
+            {
+                  "name": "갤러리 빛과소금",
+                  "text": "A 갤러리 빛과소금 egy művészeti galéria Yeosu városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.680156,
+                        34.748278
+                  ]
+            },
+            {
+                  "name": "갤러리노마드",
+                  "text": "A 갤러리노마드 egy helyi galéria, amely műalkotásokat állít ki Yeosu városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.67525,
+                        34.762906
+                  ]
+            },
+            {
+                  "name": "선갤러리",
+                  "text": "A 선갤러리 egy művészeti galéria Yeosu városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.672894,
+                        34.762092
+                  ]
+            },
+            {
+                  "name": "여수미술관",
+                  "text": "A 여수미술관 egy vizuális művészeteket bemutató galéria Yeosu városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.660132,
+                        34.761292
+                  ]
+            },
+            {
+                  "name": "여수문화홀",
+                  "text": "A Yeosu Culture Hall egy művészeti és kulturális rendezvényközpont Yeosu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.663346,
+                        34.759888
+                  ]
+            },
+            {
+                  "name": "생활문화센터",
+                  "text": "A 생활문화센터 egy a helyi közösséget szolgáló művészeti központ Yeosu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.664635,
+                        34.76364
+                  ]
+            },
+            {
+                  "name": "장도전시관",
+                  "text": "A 장도전시관 egy művészeti galéria Yeosu városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.663858,
+                        34.741956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "석창성지",
+                  "text": "The Site of an Ancient Seokchang Castle prezintă ruinele unui castel istoric din Yeosu.",
+                  "category": "castle",
+                  "coords": [
+                        127.660655,
+                        34.783148
+                  ]
+            },
+            {
+                  "name": "7080라이브콘서트",
+                  "text": "7080라이브콘서트 este un teatru și un loc de spectacole din Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.667125,
+                        34.759056
+                  ]
+            },
+            {
+                  "name": "파도소리 소극장",
+                  "text": "파도소리 소극장 este un teatru situat în orașul Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.667101,
+                        34.762909
+                  ]
+            },
+            {
+                  "name": "버니아쿠아",
+                  "text": "버니아쿠아 este un acvariu care prezintă viața acvatică în Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.646117,
+                        34.760689
+                  ]
+            },
+            {
+                  "name": "예울마루",
+                  "text": "예울마루 este un teatru situat în orașul Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.664951,
+                        34.750446
+                  ]
+            },
+            {
+                  "name": "다이노밸리",
+                  "text": "다이노밸리 este un parc tematic situat în Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.640183,
+                        34.748808
+                  ]
+            },
+            {
+                  "name": "웅천친수공원해수욕장",
+                  "text": "웅천친수공원해수욕장 este o zonă de plajă potrivită pentru recreere în Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.667569,
+                        34.74707
+                  ]
+            },
+            {
+                  "name": "유월드루지테마파크",
+                  "text": "유월드루지테마파크 este un parc tematic local situat în Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.64133,
+                        34.747888
+                  ]
+            },
+            {
+                  "name": "선소",
+                  "text": "Seonso este un sit arheologic din Yeosu.",
+                  "category": "historical",
+                  "coords": [
+                        127.662863,
+                        34.755046
+                  ]
+            },
+            {
+                  "name": "거북선공원",
+                  "text": "Geobukseon Park este un parc public situat în Yeosu.",
+                  "category": "park",
+                  "coords": [
+                        127.666757,
+                        34.761202
+                  ]
+            },
+            {
+                  "name": "안산근린공원",
+                  "text": "Ansan Neighborhood Park oferă un spațiu verde de recreere în Yeosu.",
+                  "category": "park",
+                  "coords": [
+                        127.658431,
+                        34.759282
+                  ]
+            },
+            {
+                  "name": "이순신공원",
+                  "text": "Parcul Yi Sun-sin este un spațiu verde numit după celebrul amiral, situat în Yeosu.",
+                  "category": "park",
+                  "coords": [
+                        127.679861,
+                        34.744604
+                  ]
+            },
+            {
+                  "name": "갤러리 빛과소금",
+                  "text": "갤러리 빛과소금 este o galerie de artă situată în orașul Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.680156,
+                        34.748278
+                  ]
+            },
+            {
+                  "name": "갤러리노마드",
+                  "text": "갤러리노마드 este o galerie locală care expune opere de artă în Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.67525,
+                        34.762906
+                  ]
+            },
+            {
+                  "name": "선갤러리",
+                  "text": "선갤러리 este o galerie de artă situată în Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.672894,
+                        34.762092
+                  ]
+            },
+            {
+                  "name": "여수미술관",
+                  "text": "여수미술관 este o galerie care expune arte vizuale în Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.660132,
+                        34.761292
+                  ]
+            },
+            {
+                  "name": "여수문화홀",
+                  "text": "Yeosu Culture Hall este un centru pentru arte și evenimente culturale din Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.663346,
+                        34.759888
+                  ]
+            },
+            {
+                  "name": "생활문화센터",
+                  "text": "생활문화센터 este un centru de arte care deservește comunitatea locală din Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.664635,
+                        34.76364
+                  ]
+            },
+            {
+                  "name": "장도전시관",
+                  "text": "장도전시관 este o galerie de artă situată în Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.663858,
+                        34.741956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Site of an Ancient Seokchang Castle",
+                  "text": "The Site of an Ancient Seokchang Castle features historic castle ruins located in Yeosu.",
+                  "category": "castle",
+                  "coords": [
+                        127.660655,
+                        34.783148
+                  ]
+            },
+            {
+                  "name": "7080라이브콘서트",
+                  "text": "7080라이브콘서트 is a local theatre and performance venue in Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.667125,
+                        34.759056
+                  ]
+            },
+            {
+                  "name": "파도소리 소극장",
+                  "text": "파도소리 소극장 is a theatre located in the city of Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.667101,
+                        34.762909
+                  ]
+            },
+            {
+                  "name": "버니아쿠아",
+                  "text": "버니아쿠아 is an aquarium showcasing aquatic life in Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.646117,
+                        34.760689
+                  ]
+            },
+            {
+                  "name": "예울마루",
+                  "text": "예울마루 is a theatre located in the city of Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.664951,
+                        34.750446
+                  ]
+            },
+            {
+                  "name": "다이노밸리",
+                  "text": "다이노밸리 is a theme park attraction located in Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.640183,
+                        34.748808
+                  ]
+            },
+            {
+                  "name": "웅천친수공원해수욕장",
+                  "text": "웅천친수공원해수욕장 is a beach area suitable for recreation in Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.667569,
+                        34.74707
+                  ]
+            },
+            {
+                  "name": "유월드루지테마파크",
+                  "text": "유월드루지테마파크 is a local theme park situated in Yeosu.",
+                  "category": "recreational",
+                  "coords": [
+                        127.64133,
+                        34.747888
+                  ]
+            },
+            {
+                  "name": "Seonso",
+                  "text": "Seonso is an archaeological site preserving historical remnants in Yeosu.",
+                  "category": "historical",
+                  "coords": [
+                        127.662863,
+                        34.755046
+                  ]
+            },
+            {
+                  "name": "Geobukseon Park",
+                  "text": "Geobukseon Park is a public park area located in Yeosu.",
+                  "category": "park",
+                  "coords": [
+                        127.666757,
+                        34.761202
+                  ]
+            },
+            {
+                  "name": "Ansan Neighborhood Park",
+                  "text": "Ansan Neighborhood Park provides a green recreational space in Yeosu.",
+                  "category": "park",
+                  "coords": [
+                        127.658431,
+                        34.759282
+                  ]
+            },
+            {
+                  "name": "Yi Sun-sin Park",
+                  "text": "Yi Sun-sin Park is a green space named after the famous admiral, located in Yeosu.",
+                  "category": "park",
+                  "coords": [
+                        127.679861,
+                        34.744604
+                  ]
+            },
+            {
+                  "name": "갤러리 빛과소금",
+                  "text": "갤러리 빛과소금 is an art gallery situated in the city of Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.680156,
+                        34.748278
+                  ]
+            },
+            {
+                  "name": "갤러리노마드",
+                  "text": "갤러리노마드 is a local gallery space exhibiting artwork in Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.67525,
+                        34.762906
+                  ]
+            },
+            {
+                  "name": "선갤러리",
+                  "text": "선갤러리 is an art gallery located in Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.672894,
+                        34.762092
+                  ]
+            },
+            {
+                  "name": "여수미술관",
+                  "text": "여수미술관 is a gallery exhibiting visual arts in Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.660132,
+                        34.761292
+                  ]
+            },
+            {
+                  "name": "Yeosu Culture Hall",
+                  "text": "Yeosu Culture Hall is a center for arts and cultural events in Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.663346,
+                        34.759888
+                  ]
+            },
+            {
+                  "name": "생활문화센터",
+                  "text": "생활문화센터 is an arts centre serving the local community in Yeosu.",
+                  "category": "cultural",
+                  "coords": [
+                        127.664635,
+                        34.76364
+                  ]
+            },
+            {
+                  "name": "장도전시관",
+                  "text": "장도전시관 is an art gallery located in Yeosu.",
+                  "category": "museum",
+                  "coords": [
+                        127.663858,
+                        34.741956
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-46",
     coords: [127.6600, 34.7600],
@@ -291,7 +1992,592 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "suncheon-city-cities-v2",
+    id: "suncheon-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "용당대주피오레",
+                  "text": "Yongdang Daeju Fiore ist ein Schloss in Suncheon.",
+                  "category": "castle",
+                  "coords": [
+                        127.494678,
+                        34.969968
+                  ]
+            },
+            {
+                  "name": "양자콤퓨타하우스",
+                  "text": "Das Quantum Computer House ist ein Schloss in Suncheon.",
+                  "category": "castle",
+                  "coords": [
+                        127.478359,
+                        34.952378
+                  ]
+            },
+            {
+                  "name": "순천대학교 박물관",
+                  "text": "Das Suncheon National University Museum ist ein Museum in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.482933,
+                        34.969335
+                  ]
+            },
+            {
+                  "name": "순천기독교역사박물관",
+                  "text": "Das Suncheon Christian History Museum ist ein Museum in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.480187,
+                        34.960426
+                  ]
+            },
+            {
+                  "name": "선비문화체험관",
+                  "text": "Das Seonbi Culture Experience Center ist ein Museum in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.480232,
+                        34.954882
+                  ]
+            },
+            {
+                  "name": "유럽도자기박물관Cafe&Restaurant",
+                  "text": "Das European Porcelain Museum Cafe & Restaurant ist ein Museum in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.481557,
+                        34.954515
+                  ]
+            },
+            {
+                  "name": "더코이",
+                  "text": "The Koi ist ein Zoo in Suncheon.",
+                  "category": "recreational",
+                  "coords": [
+                        127.482834,
+                        34.976641
+                  ]
+            },
+            {
+                  "name": "컨벤션관",
+                  "text": "Die Convention Hall ist ein Museum in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.48412,
+                        34.966376
+                  ]
+            },
+            {
+                  "name": "순천만국가정원역사관",
+                  "text": "Ein Museum, das der Geschichte des Staatlichen Gartens der Suncheon-Bucht gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        127.49631,
+                        34.928919
+                  ]
+            },
+            {
+                  "name": "장천노랑극장",
+                  "text": "Ein lokales Theater für Aufführungen in Suncheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.490094,
+                        34.947342
+                  ]
+            },
+            {
+                  "name": "순천만국가정원",
+                  "text": "Ein weitläufiger ökologischer Garten und Naturschutzgebiet in Suncheon.",
+                  "category": "park",
+                  "coords": [
+                        127.509099,
+                        34.926645
+                  ]
+            },
+            {
+                  "name": "팔마비",
+                  "text": "Ein historisches Denkmal in der Stadt Suncheon.",
+                  "category": "historical",
+                  "coords": [
+                        127.494397,
+                        34.953513
+                  ]
+            },
+            {
+                  "name": "순천시문화예술회관",
+                  "text": "Ein Zentrum für Kultur und Kunst mit Galerieräumen in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.485289,
+                        34.970687
+                  ]
+            },
+            {
+                  "name": "서광온천",
+                  "text": "Eine öffentliche Thermalquelle und Saunaanlage in Suncheon.",
+                  "category": "landmark",
+                  "coords": [
+                        127.484446,
+                        34.946945
+                  ]
+            },
+            {
+                  "name": "유일온천",
+                  "text": "Eine lokale Einrichtung mit heißen Quellen und Sauna in Suncheon.",
+                  "category": "landmark",
+                  "coords": [
+                        127.490788,
+                        34.940412
+                  ]
+            },
+            {
+                  "name": "태양온천",
+                  "text": "Eine öffentliche Sauna und ein Thermalbad in Suncheon.",
+                  "category": "landmark",
+                  "coords": [
+                        127.4875,
+                        34.958198
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "용당대주피오레",
+                  "text": "A Yongdang Daeju Fiore egy kastély Suncheon városában.",
+                  "category": "castle",
+                  "coords": [
+                        127.494678,
+                        34.969968
+                  ]
+            },
+            {
+                  "name": "양자콤퓨타하우스",
+                  "text": "A Quantum Computer House egy kastély Suncheon területén.",
+                  "category": "castle",
+                  "coords": [
+                        127.478359,
+                        34.952378
+                  ]
+            },
+            {
+                  "name": "순천대학교 박물관",
+                  "text": "A Suncheon National University Museum egy múzeum Suncheon városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.482933,
+                        34.969335
+                  ]
+            },
+            {
+                  "name": "순천기독교역사박물관",
+                  "text": "A Suncheon Christian History Museum egy múzeum Suncheon városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.480187,
+                        34.960426
+                  ]
+            },
+            {
+                  "name": "선비문화체험관",
+                  "text": "A Seonbi Culture Experience Center egy múzeum Suncheon városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.480232,
+                        34.954882
+                  ]
+            },
+            {
+                  "name": "유럽도자기박물관Cafe&Restaurant",
+                  "text": "Az European Porcelain Museum Cafe & Restaurant egy múzeum Suncheon területén.",
+                  "category": "museum",
+                  "coords": [
+                        127.481557,
+                        34.954515
+                  ]
+            },
+            {
+                  "name": "더코이",
+                  "text": "A The Koi egy állatkert Suncheon városában.",
+                  "category": "recreational",
+                  "coords": [
+                        127.482834,
+                        34.976641
+                  ]
+            },
+            {
+                  "name": "컨벤션관",
+                  "text": "A Convention Hall egy múzeum Suncheon városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.48412,
+                        34.966376
+                  ]
+            },
+            {
+                  "name": "순천만국가정원역사관",
+                  "text": "A Szuncshon-öböli Nemzeti Kert történelmének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        127.49631,
+                        34.928919
+                  ]
+            },
+            {
+                  "name": "장천노랑극장",
+                  "text": "Helyi színház előadások számára Szuncshonban.",
+                  "category": "cultural",
+                  "coords": [
+                        127.490094,
+                        34.947342
+                  ]
+            },
+            {
+                  "name": "순천만국가정원",
+                  "text": "Hatalmas ökológiai kert és természetvédelmi terület Szuncshonban.",
+                  "category": "park",
+                  "coords": [
+                        127.509099,
+                        34.926645
+                  ]
+            },
+            {
+                  "name": "팔마비",
+                  "text": "Történelmi emlékmű Szuncshon városában.",
+                  "category": "historical",
+                  "coords": [
+                        127.494397,
+                        34.953513
+                  ]
+            },
+            {
+                  "name": "순천시문화예술회관",
+                  "text": "Kulturális és művészeti központ galériákkal Szuncshonban.",
+                  "category": "museum",
+                  "coords": [
+                        127.485289,
+                        34.970687
+                  ]
+            },
+            {
+                  "name": "서광온천",
+                  "text": "Nyilvános termálfürdő és szauna Szuncshonban.",
+                  "category": "landmark",
+                  "coords": [
+                        127.484446,
+                        34.946945
+                  ]
+            },
+            {
+                  "name": "유일온천",
+                  "text": "Helyi termálfürdő és szauna Szuncshonban.",
+                  "category": "landmark",
+                  "coords": [
+                        127.490788,
+                        34.940412
+                  ]
+            },
+            {
+                  "name": "태양온천",
+                  "text": "Nyilvános szauna és termálfürdő Szuncshonban.",
+                  "category": "landmark",
+                  "coords": [
+                        127.4875,
+                        34.958198
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "용당대주피오레",
+                  "text": "Yongdang Daeju Fiore este un castel în Suncheon.",
+                  "category": "castle",
+                  "coords": [
+                        127.494678,
+                        34.969968
+                  ]
+            },
+            {
+                  "name": "양자콤퓨타하우스",
+                  "text": "Quantum Computer House este un castel din Suncheon.",
+                  "category": "castle",
+                  "coords": [
+                        127.478359,
+                        34.952378
+                  ]
+            },
+            {
+                  "name": "순천대학교 박물관",
+                  "text": "Suncheon National University Museum este un muzeu în Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.482933,
+                        34.969335
+                  ]
+            },
+            {
+                  "name": "순천기독교역사박물관",
+                  "text": "Suncheon Christian History Museum este un muzeu în Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.480187,
+                        34.960426
+                  ]
+            },
+            {
+                  "name": "선비문화체험관",
+                  "text": "Seonbi Culture Experience Center este un muzeu în Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.480232,
+                        34.954882
+                  ]
+            },
+            {
+                  "name": "유럽도자기박물관Cafe&Restaurant",
+                  "text": "European Porcelain Museum Cafe & Restaurant este un muzeu din Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.481557,
+                        34.954515
+                  ]
+            },
+            {
+                  "name": "더코이",
+                  "text": "The Koi este o grădină zoologică în Suncheon.",
+                  "category": "recreational",
+                  "coords": [
+                        127.482834,
+                        34.976641
+                  ]
+            },
+            {
+                  "name": "컨벤션관",
+                  "text": "Convention Hall este un muzeu în Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.48412,
+                        34.966376
+                  ]
+            },
+            {
+                  "name": "순천만국가정원역사관",
+                  "text": "Un muzeu dedicat istoriei Grădinii Naționale din Golful Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.49631,
+                        34.928919
+                  ]
+            },
+            {
+                  "name": "장천노랑극장",
+                  "text": "Un teatru local pentru spectacole în Suncheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.490094,
+                        34.947342
+                  ]
+            },
+            {
+                  "name": "순천만국가정원",
+                  "text": "O grădină ecologică vastă și zonă de conservare în Suncheon.",
+                  "category": "park",
+                  "coords": [
+                        127.509099,
+                        34.926645
+                  ]
+            },
+            {
+                  "name": "팔마비",
+                  "text": "Un monument istoric în orașul Suncheon.",
+                  "category": "historical",
+                  "coords": [
+                        127.494397,
+                        34.953513
+                  ]
+            },
+            {
+                  "name": "순천시문화예술회관",
+                  "text": "Un centru de cultură și artă cu spații de galerie în Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.485289,
+                        34.970687
+                  ]
+            },
+            {
+                  "name": "서광온천",
+                  "text": "O instalație publică de izvoare termale și saună în Suncheon.",
+                  "category": "landmark",
+                  "coords": [
+                        127.484446,
+                        34.946945
+                  ]
+            },
+            {
+                  "name": "유일온천",
+                  "text": "O unitate locală cu izvoare termale și saună în Suncheon.",
+                  "category": "landmark",
+                  "coords": [
+                        127.490788,
+                        34.940412
+                  ]
+            },
+            {
+                  "name": "태양온천",
+                  "text": "O saună publică și baie termală în Suncheon.",
+                  "category": "landmark",
+                  "coords": [
+                        127.4875,
+                        34.958198
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "용당대주피오레",
+                  "text": "Yongdang Daeju Fiore is a castle in Suncheon.",
+                  "category": "castle",
+                  "coords": [
+                        127.494678,
+                        34.969968
+                  ]
+            },
+            {
+                  "name": "양자콤퓨타하우스",
+                  "text": "Quantum Computer House is a castle in Suncheon.",
+                  "category": "castle",
+                  "coords": [
+                        127.478359,
+                        34.952378
+                  ]
+            },
+            {
+                  "name": "순천대학교 박물관",
+                  "text": "Suncheon National University Museum is a museum in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.482933,
+                        34.969335
+                  ]
+            },
+            {
+                  "name": "순천기독교역사박물관",
+                  "text": "Suncheon Christian History Museum is a museum in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.480187,
+                        34.960426
+                  ]
+            },
+            {
+                  "name": "선비문화체험관",
+                  "text": "Seonbi Culture Experience Center is a museum in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.480232,
+                        34.954882
+                  ]
+            },
+            {
+                  "name": "유럽도자기박물관Cafe&Restaurant",
+                  "text": "European Porcelain Museum Cafe & Restaurant is a museum in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.481557,
+                        34.954515
+                  ]
+            },
+            {
+                  "name": "더코이",
+                  "text": "The Koi is a zoo in Suncheon.",
+                  "category": "recreational",
+                  "coords": [
+                        127.482834,
+                        34.976641
+                  ]
+            },
+            {
+                  "name": "컨벤션관",
+                  "text": "Convention Hall is a museum in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.48412,
+                        34.966376
+                  ]
+            },
+            {
+                  "name": "순천만국가정원역사관",
+                  "text": "A museum dedicated to the history of the Suncheon Bay National Garden.",
+                  "category": "museum",
+                  "coords": [
+                        127.49631,
+                        34.928919
+                  ]
+            },
+            {
+                  "name": "장천노랑극장",
+                  "text": "A local theater for performances in Suncheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.490094,
+                        34.947342
+                  ]
+            },
+            {
+                  "name": "Suncheon Bay National Garden",
+                  "text": "A vast ecological garden and conservation area in Suncheon.",
+                  "category": "park",
+                  "coords": [
+                        127.509099,
+                        34.926645
+                  ]
+            },
+            {
+                  "name": "팔마비",
+                  "text": "A historical monument in the city of Suncheon.",
+                  "category": "historical",
+                  "coords": [
+                        127.494397,
+                        34.953513
+                  ]
+            },
+            {
+                  "name": "순천시문화예술회관",
+                  "text": "A center for culture and arts featuring gallery spaces in Suncheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.485289,
+                        34.970687
+                  ]
+            },
+            {
+                  "name": "Seogwang Hot Spring",
+                  "text": "A public hot spring and sauna facility in Suncheon.",
+                  "category": "landmark",
+                  "coords": [
+                        127.484446,
+                        34.946945
+                  ]
+            },
+            {
+                  "name": "Yuil Hot Spring",
+                  "text": "A local hot spring and sauna facility in Suncheon.",
+                  "category": "landmark",
+                  "coords": [
+                        127.490788,
+                        34.940412
+                  ]
+            },
+            {
+                  "name": "Taeyang Hot Spring",
+                  "text": "A public sauna and hot spring bath in Suncheon.",
+                  "category": "landmark",
+                  "coords": [
+                        127.4875,
+                        34.958198
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-46",
     coords: [127.4870, 34.9500],
@@ -387,7 +2673,232 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "geoje-city-cities-v2",
+    id: "geoje-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "거제랜드",
+                  "text": "거제랜드 ist ein Vergnügungs- und Themenpark in Geoje.",
+                  "category": "recreational",
+                  "coords": [
+                        128.624018,
+                        34.876123
+                  ]
+            },
+            {
+                  "name": "리프페럿",
+                  "text": "리프페럿 ist ein Zoo in der Stadt Geoje.",
+                  "category": "recreational",
+                  "coords": [
+                        128.609479,
+                        34.890668
+                  ]
+            },
+            {
+                  "name": "계룡산",
+                  "text": "Gyeryongsan ist ein Berggipfel in Geoje.",
+                  "category": "natural",
+                  "coords": [
+                        128.60759,
+                        34.871094
+                  ]
+            },
+            {
+                  "name": "고현성",
+                  "text": "고현성 ist eine historische Attraktion in Geoje.",
+                  "category": "landmark",
+                  "coords": [
+                        128.620578,
+                        34.881847
+                  ]
+            },
+            {
+                  "name": "데크전망대",
+                  "text": "데크전망대 ist ein Aussichtspunkt in Geoje, der malerische Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        128.616386,
+                        34.864475
+                  ]
+            },
+            {
+                  "name": "전망대",
+                  "text": "전망대 ist ein Aussichtspunkt in der Stadt Geoje.",
+                  "category": "natural",
+                  "coords": [
+                        128.61334,
+                        34.866418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "거제랜드",
+                  "text": "A 거제랜드 egy szórakoztató és vidámpark Geoje városában.",
+                  "category": "recreational",
+                  "coords": [
+                        128.624018,
+                        34.876123
+                  ]
+            },
+            {
+                  "name": "리프페럿",
+                  "text": "A 리프페럿 egy állatkert Geoje városában.",
+                  "category": "recreational",
+                  "coords": [
+                        128.609479,
+                        34.890668
+                  ]
+            },
+            {
+                  "name": "계룡산",
+                  "text": "A Gyeryongsan egy hegycsúcs Geoje városában.",
+                  "category": "natural",
+                  "coords": [
+                        128.60759,
+                        34.871094
+                  ]
+            },
+            {
+                  "name": "고현성",
+                  "text": "A 고현성 egy történelmi látványosság Geoje városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.620578,
+                        34.881847
+                  ]
+            },
+            {
+                  "name": "데크전망대",
+                  "text": "A 데크전망대 egy kilátó, amely festői panorámát nyújt Geoje városában.",
+                  "category": "natural",
+                  "coords": [
+                        128.616386,
+                        34.864475
+                  ]
+            },
+            {
+                  "name": "전망대",
+                  "text": "A 전망대 egy kilátó Geoje városában.",
+                  "category": "natural",
+                  "coords": [
+                        128.61334,
+                        34.866418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "거제랜드",
+                  "text": "거제랜드 este un parc tematic și de distracții situat în Geoje.",
+                  "category": "recreational",
+                  "coords": [
+                        128.624018,
+                        34.876123
+                  ]
+            },
+            {
+                  "name": "리프페럿",
+                  "text": "리프페럿 este o grădină zoologică situată în orașul Geoje.",
+                  "category": "recreational",
+                  "coords": [
+                        128.609479,
+                        34.890668
+                  ]
+            },
+            {
+                  "name": "계룡산",
+                  "text": "Gyeryongsan este un vârf de munte situat în Geoje.",
+                  "category": "natural",
+                  "coords": [
+                        128.60759,
+                        34.871094
+                  ]
+            },
+            {
+                  "name": "고현성",
+                  "text": "고현성 este o atracție istorică situată în Geoje.",
+                  "category": "landmark",
+                  "coords": [
+                        128.620578,
+                        34.881847
+                  ]
+            },
+            {
+                  "name": "데크전망대",
+                  "text": "데크전망대 este un punct de belvedere care oferă priveliști pitorești în Geoje.",
+                  "category": "natural",
+                  "coords": [
+                        128.616386,
+                        34.864475
+                  ]
+            },
+            {
+                  "name": "전망대",
+                  "text": "전망대 este un punct de belvedere situat în orașul Geoje.",
+                  "category": "natural",
+                  "coords": [
+                        128.61334,
+                        34.866418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "거제랜드",
+                  "text": "거제랜드 is an amusement and theme park located in Geoje.",
+                  "category": "recreational",
+                  "coords": [
+                        128.624018,
+                        34.876123
+                  ]
+            },
+            {
+                  "name": "리프페럿",
+                  "text": "리프페럿 is a zoo located in the city of Geoje.",
+                  "category": "recreational",
+                  "coords": [
+                        128.609479,
+                        34.890668
+                  ]
+            },
+            {
+                  "name": "Gyeryongsan (Mountain)",
+                  "text": "Gyeryongsan is a mountain peak located in Geoje.",
+                  "category": "natural",
+                  "coords": [
+                        128.60759,
+                        34.871094
+                  ]
+            },
+            {
+                  "name": "고현성",
+                  "text": "고현성 is a historical attraction situated in Geoje.",
+                  "category": "landmark",
+                  "coords": [
+                        128.620578,
+                        34.881847
+                  ]
+            },
+            {
+                  "name": "데크전망대",
+                  "text": "데크전망대 is a viewpoint offering scenic vistas in Geoje.",
+                  "category": "natural",
+                  "coords": [
+                        128.616386,
+                        34.864475
+                  ]
+            },
+            {
+                  "name": "전망대",
+                  "text": "전망대 is a viewpoint located in the city of Geoje.",
+                  "category": "natural",
+                  "coords": [
+                        128.61334,
+                        34.866418
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-48",
     coords: [128.6210, 34.8830],
@@ -435,7 +2946,232 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gimpo-city-cities-v2",
+    id: "gimpo-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "검단선사박물관",
+                  "text": "Ein Museum in Gimpo, das sich auf prähistorische Funde konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        126.69869,
+                        37.594433
+                  ]
+            },
+            {
+                  "name": "김포향교",
+                  "text": "Eine historische konfuzianische Schule in der Stadt Gimpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.709834,
+                        37.624646
+                  ]
+            },
+            {
+                  "name": "김포장릉",
+                  "text": "Eine königliche Grabstätte aus der Joseon-Dynastie in Gimpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.711149,
+                        37.612947
+                  ]
+            },
+            {
+                  "name": "장릉산",
+                  "text": "Ein Berggipfel mit Aussichtspunkten in Gimpo.",
+                  "category": "natural",
+                  "coords": [
+                        126.709252,
+                        37.616164
+                  ]
+            },
+            {
+                  "name": "기념비",
+                  "text": "Ein lokales Gedenkmonument in Gimpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.70464,
+                        37.634312
+                  ]
+            },
+            {
+                  "name": "김포아트홀",
+                  "text": "Ein Zentrum für Kunst und kulturelle Veranstaltungen in Gimpo.",
+                  "category": "cultural",
+                  "coords": [
+                        126.720141,
+                        37.618922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "검단선사박물관",
+                  "text": "Múzeum Kimpóban, amely a prahistorikus leletekre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        126.69869,
+                        37.594433
+                  ]
+            },
+            {
+                  "name": "김포향교",
+                  "text": "Történelmi konfuciánus iskola Kimpo városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.709834,
+                        37.624646
+                  ]
+            },
+            {
+                  "name": "김포장릉",
+                  "text": "Csoszon-kori királyi sírhely Kimpóban.",
+                  "category": "historical",
+                  "coords": [
+                        126.711149,
+                        37.612947
+                  ]
+            },
+            {
+                  "name": "장릉산",
+                  "text": "Hegycsúcs kilátópontokkal Kimpóban.",
+                  "category": "natural",
+                  "coords": [
+                        126.709252,
+                        37.616164
+                  ]
+            },
+            {
+                  "name": "기념비",
+                  "text": "Helyi emlékoszlop Kimpóban.",
+                  "category": "historical",
+                  "coords": [
+                        126.70464,
+                        37.634312
+                  ]
+            },
+            {
+                  "name": "김포아트홀",
+                  "text": "Művészeti és kulturális rendezvényközpont Kimpóban.",
+                  "category": "cultural",
+                  "coords": [
+                        126.720141,
+                        37.618922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "검단선사박물관",
+                  "text": "Un muzeu în Gimpo care se concentrează pe vestigiile preistorice.",
+                  "category": "museum",
+                  "coords": [
+                        126.69869,
+                        37.594433
+                  ]
+            },
+            {
+                  "name": "김포향교",
+                  "text": "O școală confuciană istorică în orașul Gimpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.709834,
+                        37.624646
+                  ]
+            },
+            {
+                  "name": "김포장릉",
+                  "text": "Un sit funerar regal din dinastia Joseon în Gimpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.711149,
+                        37.612947
+                  ]
+            },
+            {
+                  "name": "장릉산",
+                  "text": "Un vârf de munte cu puncte de belvedere în Gimpo.",
+                  "category": "natural",
+                  "coords": [
+                        126.709252,
+                        37.616164
+                  ]
+            },
+            {
+                  "name": "기념비",
+                  "text": "Un monument comemorativ local în Gimpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.70464,
+                        37.634312
+                  ]
+            },
+            {
+                  "name": "김포아트홀",
+                  "text": "Un centru pentru artă și evenimente culturale în Gimpo.",
+                  "category": "cultural",
+                  "coords": [
+                        126.720141,
+                        37.618922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Geomdanseonsa Museum",
+                  "text": "A museum in Gimpo focusing on prehistoric remains.",
+                  "category": "museum",
+                  "coords": [
+                        126.69869,
+                        37.594433
+                  ]
+            },
+            {
+                  "name": "김포향교",
+                  "text": "A historical Confucian school in the city of Gimpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.709834,
+                        37.624646
+                  ]
+            },
+            {
+                  "name": "김포장릉",
+                  "text": "A royal tomb site from the Joseon Dynasty in Gimpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.711149,
+                        37.612947
+                  ]
+            },
+            {
+                  "name": "Jangneungsan (Mt.)",
+                  "text": "A mountain peak with viewpoints in Gimpo.",
+                  "category": "natural",
+                  "coords": [
+                        126.709252,
+                        37.616164
+                  ]
+            },
+            {
+                  "name": "기념비",
+                  "text": "A local memorial monument in Gimpo.",
+                  "category": "historical",
+                  "coords": [
+                        126.70464,
+                        37.634312
+                  ]
+            },
+            {
+                  "name": "Gimpo Art Hall",
+                  "text": "A center for arts and cultural events in Gimpo.",
+                  "category": "cultural",
+                  "coords": [
+                        126.720141,
+                        37.618922
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-41",
     coords: [126.7150, 37.6150],
@@ -483,7 +3219,556 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "andong-city-cities-v2",
+    id: "andong-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "법흥사지 7층전탑",
+                  "text": "Die siebenstöckige Ziegelpagode an der Stätte des Beopheungsa-Tempels in Andong ist die größte und älteste erhaltene Ziegelpagode in Südkorea.",
+                  "category": "historical",
+                  "coords": [
+                        128.74636,
+                        36.56598
+                  ]
+            },
+            {
+                  "name": "마부민속촌",
+                  "text": "Mabu Folk Village ist ein Themenpark in Andong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.718059,
+                        36.5761
+                  ]
+            },
+            {
+                  "name": "안동전통문화콘텐츠박물관",
+                  "text": "Das Andong Traditional Cultural Contents Museum ist ein Kulturmuseum in Andong.",
+                  "category": "museum",
+                  "coords": [
+                        128.734234,
+                        36.566005
+                  ]
+            },
+            {
+                  "name": "안동소주전통음식박물관",
+                  "text": "Das Soju Museum in Andong ist ein Museum in Andong.",
+                  "category": "museum",
+                  "coords": [
+                        128.708845,
+                        36.54975
+                  ]
+            },
+            {
+                  "name": "안동안기동삼층석탑",
+                  "text": "안동안기동삼층석탑 ist eine archäologische Stätte in Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.717881,
+                        36.572014
+                  ]
+            },
+            {
+                  "name": "안동 운흥동 오층전탑",
+                  "text": "안동 운흥동 오층전탑 ist eine historische archäologische Stätte in Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.731461,
+                        36.562542
+                  ]
+            },
+            {
+                  "name": "태사묘",
+                  "text": "Taesa Tomb ist eine archäologische Stätte in Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.731822,
+                        36.567045
+                  ]
+            },
+            {
+                  "name": "안동문화예술의 전당",
+                  "text": "안동문화예술의 전당 ist ein Theater in Andong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.725357,
+                        36.559453
+                  ]
+            },
+            {
+                  "name": "임청각",
+                  "text": "Imcheonggak House ist eine historische archäologische Stätte in Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.744878,
+                        36.565276
+                  ]
+            },
+            {
+                  "name": "안동탈춤공연장",
+                  "text": "안동탈춤공연장 ist ein Veranstaltungsort in Andong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.732754,
+                        36.560375
+                  ]
+            },
+            {
+                  "name": "고려화랑",
+                  "text": "Die Goryeo Gallery ist ein Kunstzentrum in Andong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.729057,
+                        36.566857
+                  ]
+            },
+            {
+                  "name": "평화동 삼층석탑",
+                  "text": "평화동 삼층석탑 ist eine historische Attraktion in Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.716843,
+                        36.567866
+                  ]
+            },
+            {
+                  "name": "귀래정",
+                  "text": "귀래정 ist eine landschaftlich reizvolle Attraktion in Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.73725,
+                        36.553827
+                  ]
+            },
+            {
+                  "name": "Sinse-dong Mural Village",
+                  "text": "Das Sinse-dong Mural Village ist eine Touristenattraktion in Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.737762,
+                        36.566655
+                  ]
+            },
+            {
+                  "name": "Andong Train",
+                  "text": "Der Andong Train ist eine lokale Attraktion in Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.756524,
+                        36.576063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "법흥사지 7층전탑",
+                  "text": "Az andongi Beopheungsa templom romjainál álló hétemeletes téglapagoda Dél-Korea legnagyobb és legrégebbi fennmaradt téglapagodája.",
+                  "category": "historical",
+                  "coords": [
+                        128.74636,
+                        36.56598
+                  ]
+            },
+            {
+                  "name": "마부민속촌",
+                  "text": "A Mabu Folk Village egy vidámpark Andong városában.",
+                  "category": "recreational",
+                  "coords": [
+                        128.718059,
+                        36.5761
+                  ]
+            },
+            {
+                  "name": "안동전통문화콘텐츠박물관",
+                  "text": "Az Andong Traditional Cultural Contents Museum egy kulturális múzeum Andong városában.",
+                  "category": "museum",
+                  "coords": [
+                        128.734234,
+                        36.566005
+                  ]
+            },
+            {
+                  "name": "안동소주전통음식박물관",
+                  "text": "A Soju Museum egy múzeum Andong városában.",
+                  "category": "museum",
+                  "coords": [
+                        128.708845,
+                        36.54975
+                  ]
+            },
+            {
+                  "name": "안동안기동삼층석탑",
+                  "text": "A 안동안기동삼층석탑 egy régészeti lelőhely Andong városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.717881,
+                        36.572014
+                  ]
+            },
+            {
+                  "name": "안동 운흥동 오층전탑",
+                  "text": "A 안동 운흥동 오층전탑 egy történelmi régészeti lelőhely Andong városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.731461,
+                        36.562542
+                  ]
+            },
+            {
+                  "name": "태사묘",
+                  "text": "A Taesa Tomb egy régészeti lelőhely Andong városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.731822,
+                        36.567045
+                  ]
+            },
+            {
+                  "name": "안동문화예술의 전당",
+                  "text": "A 안동문화예술의 전당 egy színház Andong városában.",
+                  "category": "cultural",
+                  "coords": [
+                        128.725357,
+                        36.559453
+                  ]
+            },
+            {
+                  "name": "임청각",
+                  "text": "Az Imcheonggak House egy történelmi régészeti lelőhely Andong városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.744878,
+                        36.565276
+                  ]
+            },
+            {
+                  "name": "안동탈춤공연장",
+                  "text": "A 안동탈춤공연장 egy előadóterem Andong városában.",
+                  "category": "cultural",
+                  "coords": [
+                        128.732754,
+                        36.560375
+                  ]
+            },
+            {
+                  "name": "고려화랑",
+                  "text": "A Goryeo Gallery egy művészeti központ Andong városában.",
+                  "category": "cultural",
+                  "coords": [
+                        128.729057,
+                        36.566857
+                  ]
+            },
+            {
+                  "name": "평화동 삼층석탑",
+                  "text": "A 평화동 삼층석탑 egy történelmi látványosság Andong városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.716843,
+                        36.567866
+                  ]
+            },
+            {
+                  "name": "귀래정",
+                  "text": "A 귀래정 egy festői látványosság Andong városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.73725,
+                        36.553827
+                  ]
+            },
+            {
+                  "name": "Sinse-dong Mural Village",
+                  "text": "A Sinse-dong Mural Village egy turisztikai látványosság Andong városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.737762,
+                        36.566655
+                  ]
+            },
+            {
+                  "name": "Andong Train",
+                  "text": "Az Andong Train egy helyi látványosság Andong városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.756524,
+                        36.576063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "법흥사지 7층전탑",
+                  "text": "Pagoda de cărămidă cu șapte etaje din situl templului Beopheungsa din Andong este cea mai mare și mai veche pagodă de cărămidă supraviețuitoare din Coreea de Sud.",
+                  "category": "historical",
+                  "coords": [
+                        128.74636,
+                        36.56598
+                  ]
+            },
+            {
+                  "name": "마부민속촌",
+                  "text": "Mabu Folk Village este un parc tematic situat în Andong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.718059,
+                        36.5761
+                  ]
+            },
+            {
+                  "name": "안동전통문화콘텐츠박물관",
+                  "text": "Andong Traditional Cultural Contents Museum este un muzeu cultural în Andong.",
+                  "category": "museum",
+                  "coords": [
+                        128.734234,
+                        36.566005
+                  ]
+            },
+            {
+                  "name": "안동소주전통음식박물관",
+                  "text": "Soju Museum este un muzeu situat în Andong.",
+                  "category": "museum",
+                  "coords": [
+                        128.708845,
+                        36.54975
+                  ]
+            },
+            {
+                  "name": "안동안기동삼층석탑",
+                  "text": "안동안기동삼층석탑 este un sit arheologic situat în Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.717881,
+                        36.572014
+                  ]
+            },
+            {
+                  "name": "안동 운흥동 오층전탑",
+                  "text": "안동 운흥동 오층전탑 este un sit arheologic istoric din Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.731461,
+                        36.562542
+                  ]
+            },
+            {
+                  "name": "태사묘",
+                  "text": "Taesa Tomb este un sit arheologic situat în Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.731822,
+                        36.567045
+                  ]
+            },
+            {
+                  "name": "안동문화예술의 전당",
+                  "text": "안동문화예술의 전당 este un teatru în Andong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.725357,
+                        36.559453
+                  ]
+            },
+            {
+                  "name": "임청각",
+                  "text": "Imcheonggak House este un sit arheologic istoric din Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.744878,
+                        36.565276
+                  ]
+            },
+            {
+                  "name": "안동탈춤공연장",
+                  "text": "안동탈춤공연장 este un teatru în Andong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.732754,
+                        36.560375
+                  ]
+            },
+            {
+                  "name": "고려화랑",
+                  "text": "Goryeo Gallery este un centru de arte situat în Andong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.729057,
+                        36.566857
+                  ]
+            },
+            {
+                  "name": "평화동 삼층석탑",
+                  "text": "평화동 삼층석탑 este o atracție istorică situată în Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.716843,
+                        36.567866
+                  ]
+            },
+            {
+                  "name": "귀래정",
+                  "text": "귀래정 este o atracție pitorească din Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.73725,
+                        36.553827
+                  ]
+            },
+            {
+                  "name": "Sinse-dong Mural Village",
+                  "text": "Sinse-dong Mural Village este o atracție turistică în Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.737762,
+                        36.566655
+                  ]
+            },
+            {
+                  "name": "Andong Train",
+                  "text": "Andong Train este o atracție locală din Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.756524,
+                        36.576063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "even-story Brick Pagoda at Beopheungsa Temple Site",
+                  "text": "The Seven-story Brick Pagoda at Beopheungsa Temple Site in Andong is the largest and oldest surviving brick pagoda in South Korea.",
+                  "category": "historical",
+                  "coords": [
+                        128.74636,
+                        36.56598
+                  ]
+            },
+            {
+                  "name": "Mabu Folk Village",
+                  "text": "Mabu Folk Village is a theme park located in Andong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.718059,
+                        36.5761
+                  ]
+            },
+            {
+                  "name": "Andong Traditional Cultural Contents Museum",
+                  "text": "The Andong Traditional Cultural Contents Museum is a cultural museum in Andong.",
+                  "category": "museum",
+                  "coords": [
+                        128.734234,
+                        36.566005
+                  ]
+            },
+            {
+                  "name": "Soju Museum",
+                  "text": "The Soju Museum is a museum located in Andong.",
+                  "category": "museum",
+                  "coords": [
+                        128.708845,
+                        36.54975
+                  ]
+            },
+            {
+                  "name": "안동안기동삼층석탑",
+                  "text": "안동안기동삼층석탑 is an archaeological site located in Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.717881,
+                        36.572014
+                  ]
+            },
+            {
+                  "name": "안동 운흥동 오층전탑",
+                  "text": "안동 운흥동 오층전탑 is a historic archaeological site in Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.731461,
+                        36.562542
+                  ]
+            },
+            {
+                  "name": "Taesa Tomb",
+                  "text": "Taesa Tomb is an archaeological site located in Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.731822,
+                        36.567045
+                  ]
+            },
+            {
+                  "name": "안동문화예술의 전당",
+                  "text": "안동문화예술의 전당 is a theatre venue in Andong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.725357,
+                        36.559453
+                  ]
+            },
+            {
+                  "name": "Imcheonggak House",
+                  "text": "Imcheonggak House is a historical archaeological site in Andong.",
+                  "category": "historical",
+                  "coords": [
+                        128.744878,
+                        36.565276
+                  ]
+            },
+            {
+                  "name": "안동탈춤공연장",
+                  "text": "안동탈춤공연장 is a performance venue in Andong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.732754,
+                        36.560375
+                  ]
+            },
+            {
+                  "name": "Goryeo Gallery",
+                  "text": "Goryeo Gallery is an arts centre situated in Andong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.729057,
+                        36.566857
+                  ]
+            },
+            {
+                  "name": "평화동 삼층석탑",
+                  "text": "평화동 삼층석탑 is a historic attraction located in Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.716843,
+                        36.567866
+                  ]
+            },
+            {
+                  "name": "귀래정",
+                  "text": "귀래정 is a scenic attraction situated in Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.73725,
+                        36.553827
+                  ]
+            },
+            {
+                  "name": "Sinse-dong Mural Village",
+                  "text": "Sinse-dong Mural Village is a tourist attraction in Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.737762,
+                        36.566655
+                  ]
+            },
+            {
+                  "name": "Andong Train",
+                  "text": "The Andong Train is a local attraction in Andong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.756524,
+                        36.576063
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-47",
     coords: [128.7290, 36.5650],
@@ -579,7 +3864,412 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "icheon-city-cities-v2",
+    id: "icheon-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "이천향교",
+                  "text": "Eine traditionelle konfuzianische Schule und historische Stätte in Icheon.",
+                  "category": "historical",
+                  "coords": [
+                        127.437451,
+                        37.28577
+                  ]
+            },
+            {
+                  "name": "이천 설봉산성",
+                  "text": "Die Ruinen einer historischen Bergfestung in Icheon.",
+                  "category": "castle",
+                  "coords": [
+                        127.420215,
+                        37.286388
+                  ]
+            },
+            {
+                  "name": "맥주박물관",
+                  "text": "Ein Museum in Icheon, das sich der Geschichte des Bieres widmet.",
+                  "category": "museum",
+                  "coords": [
+                        127.470503,
+                        37.265158
+                  ]
+            },
+            {
+                  "name": "이천시립박물관",
+                  "text": "Ein Stadtmuseum, das die Geschichte und Kultur von Icheon zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        127.427268,
+                        37.274892
+                  ]
+            },
+            {
+                  "name": "미란다 스파 플러스",
+                  "text": "Ein Wasserpark und Wellnessbereich in Icheon.",
+                  "category": "recreational",
+                  "coords": [
+                        127.451148,
+                        37.276215
+                  ]
+            },
+            {
+                  "name": "설봉산",
+                  "text": "Ein bekannter Berg in Icheon mit verschiedenen Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        127.413021,
+                        37.280889
+                  ]
+            },
+            {
+                  "name": "이천시립월전미술관",
+                  "text": "Ein städtisches Kunstmuseum für moderne und traditionelle Kunst in Icheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.42368,
+                        37.279618
+                  ]
+            },
+            {
+                  "name": "설봉산 삼형제바위",
+                  "text": "Ein Aussichtspunkt am Berg Seolbongsan in Icheon.",
+                  "category": "natural",
+                  "coords": [
+                        127.416419,
+                        37.280727
+                  ]
+            },
+            {
+                  "name": "이천아트홀",
+                  "text": "Ein Veranstaltungsort für Kunst und darstellende Künste in Icheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.434205,
+                        37.271586
+                  ]
+            },
+            {
+                  "name": "풀잎문화센터",
+                  "text": "Ein Kulturzentrum für lokale künstlerische Aktivitäten in Icheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.454746,
+                        37.281105
+                  ]
+            },
+            {
+                  "name": "이천서희청소년문화센터",
+                  "text": "Ein Kulturzentrum für Jugendliche in der Stadt Icheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.451737,
+                        37.280428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "이천향교",
+                  "text": "Hagyományos konfuciánus iskola és történelmi helyszín Icshonban.",
+                  "category": "historical",
+                  "coords": [
+                        127.437451,
+                        37.28577
+                  ]
+            },
+            {
+                  "name": "이천 설봉산성",
+                  "text": "Egy történelmi hegyi erőd romjai Icshonban.",
+                  "category": "castle",
+                  "coords": [
+                        127.420215,
+                        37.286388
+                  ]
+            },
+            {
+                  "name": "맥주박물관",
+                  "text": "A sör történetének szentelt múzeum Icshonban.",
+                  "category": "museum",
+                  "coords": [
+                        127.470503,
+                        37.265158
+                  ]
+            },
+            {
+                  "name": "이천시립박물관",
+                  "text": "Városi múzeum, amely Icshon történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        127.427268,
+                        37.274892
+                  ]
+            },
+            {
+                  "name": "미란다 스파 플러스",
+                  "text": "Vízipark és wellness központ Icshonban.",
+                  "category": "recreational",
+                  "coords": [
+                        127.451148,
+                        37.276215
+                  ]
+            },
+            {
+                  "name": "설봉산",
+                  "text": "Icshon ismert hegye különböző túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        127.413021,
+                        37.280889
+                  ]
+            },
+            {
+                  "name": "이천시립월전미술관",
+                  "text": "Városi művészeti múzeum Icshonban, modern és hagyományos alkotásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        127.42368,
+                        37.279618
+                  ]
+            },
+            {
+                  "name": "설봉산 삼형제바위",
+                  "text": "Kilátópont az Icshon-i Szeolbongszan-hegyen.",
+                  "category": "natural",
+                  "coords": [
+                        127.416419,
+                        37.280727
+                  ]
+            },
+            {
+                  "name": "이천아트홀",
+                  "text": "Művészeti és előadóművészeti központ Icshonban.",
+                  "category": "cultural",
+                  "coords": [
+                        127.434205,
+                        37.271586
+                  ]
+            },
+            {
+                  "name": "풀잎문화센터",
+                  "text": "Helyi művészeti tevékenységek kulturális központja Icshonban.",
+                  "category": "cultural",
+                  "coords": [
+                        127.454746,
+                        37.281105
+                  ]
+            },
+            {
+                  "name": "이천서희청소년문화센터",
+                  "text": "Ifjúsági kulturális központ Icshon városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.451737,
+                        37.280428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "이천향교",
+                  "text": "O școală confuciană tradițională și sit istoric în Icheon.",
+                  "category": "historical",
+                  "coords": [
+                        127.437451,
+                        37.28577
+                  ]
+            },
+            {
+                  "name": "이천 설봉산성",
+                  "text": "Ruinele unei cetăți montane istorice în Icheon.",
+                  "category": "castle",
+                  "coords": [
+                        127.420215,
+                        37.286388
+                  ]
+            },
+            {
+                  "name": "맥주박물관",
+                  "text": "Un muzeu în Icheon dedicat istoriei berii.",
+                  "category": "museum",
+                  "coords": [
+                        127.470503,
+                        37.265158
+                  ]
+            },
+            {
+                  "name": "이천시립박물관",
+                  "text": "Un muzeu municipal care prezintă istoria și cultura din Icheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.427268,
+                        37.274892
+                  ]
+            },
+            {
+                  "name": "미란다 스파 플러스",
+                  "text": "Un parc acvatic și zonă de wellness în Icheon.",
+                  "category": "recreational",
+                  "coords": [
+                        127.451148,
+                        37.276215
+                  ]
+            },
+            {
+                  "name": "설봉산",
+                  "text": "Un munte cunoscut în Icheon cu diverse trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        127.413021,
+                        37.280889
+                  ]
+            },
+            {
+                  "name": "이천시립월전미술관",
+                  "text": "Un muzeu municipal de artă din Icheon, cu lucrări moderne și tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        127.42368,
+                        37.279618
+                  ]
+            },
+            {
+                  "name": "설봉산 삼형제바위",
+                  "text": "Un punct de belvedere pe muntele Seolbongsan din Icheon.",
+                  "category": "natural",
+                  "coords": [
+                        127.416419,
+                        37.280727
+                  ]
+            },
+            {
+                  "name": "이천아트홀",
+                  "text": "O locație pentru artă și spectacole în Icheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.434205,
+                        37.271586
+                  ]
+            },
+            {
+                  "name": "풀잎문화센터",
+                  "text": "Un centru cultural pentru activități artistice locale în Icheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.454746,
+                        37.281105
+                  ]
+            },
+            {
+                  "name": "이천서희청소년문화센터",
+                  "text": "Un centru cultural pentru tineret în orașul Icheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.451737,
+                        37.280428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "이천향교",
+                  "text": "A traditional Confucian school and historical site in Icheon.",
+                  "category": "historical",
+                  "coords": [
+                        127.437451,
+                        37.28577
+                  ]
+            },
+            {
+                  "name": "Fortress Seolbongsanseong",
+                  "text": "The ruins of a historical mountain fortress in Icheon.",
+                  "category": "castle",
+                  "coords": [
+                        127.420215,
+                        37.286388
+                  ]
+            },
+            {
+                  "name": "맥주박물관",
+                  "text": "A museum in Icheon dedicated to the history of beer.",
+                  "category": "museum",
+                  "coords": [
+                        127.470503,
+                        37.265158
+                  ]
+            },
+            {
+                  "name": "Icheon City Museum",
+                  "text": "A city museum showcasing the history and culture of Icheon.",
+                  "category": "museum",
+                  "coords": [
+                        127.427268,
+                        37.274892
+                  ]
+            },
+            {
+                  "name": "Miranda Spa Plus",
+                  "text": "A water park and spa area in Icheon.",
+                  "category": "recreational",
+                  "coords": [
+                        127.451148,
+                        37.276215
+                  ]
+            },
+            {
+                  "name": "Seolbongsan Mountain",
+                  "text": "A prominent mountain in Icheon with various hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        127.413021,
+                        37.280889
+                  ]
+            },
+            {
+                  "name": "Icheonsiripwoljeon Art Museum",
+                  "text": "A municipal art museum in Icheon featuring modern and traditional works.",
+                  "category": "cultural",
+                  "coords": [
+                        127.42368,
+                        37.279618
+                  ]
+            },
+            {
+                  "name": "Seolbongsan Samhyeongjebawi",
+                  "text": "A scenic viewpoint on Seolbongsan Mountain in Icheon.",
+                  "category": "natural",
+                  "coords": [
+                        127.416419,
+                        37.280727
+                  ]
+            },
+            {
+                  "name": "Icheon Art Hall",
+                  "text": "A venue for arts and performing arts in Icheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.434205,
+                        37.271586
+                  ]
+            },
+            {
+                  "name": "풀잎문화센터",
+                  "text": "A cultural center for local artistic activities in Icheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.454746,
+                        37.281105
+                  ]
+            },
+            {
+                  "name": "이천서희청소년문화센터",
+                  "text": "A cultural center for youth in the city of Icheon.",
+                  "category": "cultural",
+                  "coords": [
+                        127.451737,
+                        37.280428
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-41",
     coords: [127.4410, 37.2780],
@@ -627,7 +4317,412 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "guri-city-cities-v2",
+    id: "guri-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "가운동 지석묘",
+                  "text": "가운동 지석묘 in Guri ist eine Dolmenstätte, die die bronzezeitliche Grabkultur der Region repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        127.175681,
+                        37.597557
+                  ]
+            },
+            {
+                  "name": "13도창의군탑",
+                  "text": "13도창의군탑 ist eine archäologische Stätte in Guri.",
+                  "category": "historical",
+                  "coords": [
+                        127.111735,
+                        37.599172
+                  ]
+            },
+            {
+                  "name": "동구릉역사문화관",
+                  "text": "동구릉역사문화관 ist ein Museum in Guri.",
+                  "category": "museum",
+                  "coords": [
+                        127.136267,
+                        37.616918
+                  ]
+            },
+            {
+                  "name": "프리미어 뽀로로테마파크 다산",
+                  "text": "Der Pororo Premier Theme Park Dasan ist ein Themenpark in Guri.",
+                  "category": "recreational",
+                  "coords": [
+                        127.171771,
+                        37.595141
+                  ]
+            },
+            {
+                  "name": "돌덧널 무덤",
+                  "text": "돌덧널 무덤 ist eine archäologische Stätte in Guri.",
+                  "category": "historical",
+                  "coords": [
+                        127.176865,
+                        37.596901
+                  ]
+            },
+            {
+                  "name": "다산아트홀",
+                  "text": "다산아트홀 ist ein Theater in Guri.",
+                  "category": "cultural",
+                  "coords": [
+                        127.155571,
+                        37.613911
+                  ]
+            },
+            {
+                  "name": "미당화랑",
+                  "text": "Die Midang Gallery ist ein Kunstzentrum in Guri.",
+                  "category": "cultural",
+                  "coords": [
+                        127.130497,
+                        37.597078
+                  ]
+            },
+            {
+                  "name": "구리 동구릉",
+                  "text": "Die East Nine Royal Tombs, Guri, sind eine historische Attraktion in Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.131921,
+                        37.618957
+                  ]
+            },
+            {
+                  "name": "경기옛길평해길1코스스탬프(망우고개)",
+                  "text": "경기옛길평해길1코스스탬프(망우고개) ist eine Attraktion in Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.116867,
+                        37.600932
+                  ]
+            },
+            {
+                  "name": "고덕토평대교",
+                  "text": "Die Godeok-Topyeong-Brücke ist eine Brücke über den Han-Fluss in Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.14757,
+                        37.572284
+                  ]
+            },
+            {
+                  "name": "보원탄산온천",
+                  "text": "Bowon Lime Hot Spring ist eine Saunaanlage in Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.139925,
+                        37.597561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "가운동 지석묘",
+                  "text": "A Guri városában található 가운동 지석묘 egy dolmen lelőhely, amely a régió bronzkori temetkezési kultúráját képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        127.175681,
+                        37.597557
+                  ]
+            },
+            {
+                  "name": "13도창의군탑",
+                  "text": "A 13도창의군탑 egy régészeti lelőhely Guri városában.",
+                  "category": "historical",
+                  "coords": [
+                        127.111735,
+                        37.599172
+                  ]
+            },
+            {
+                  "name": "동구릉역사문화관",
+                  "text": "A 동구릉역사문화관 egy múzeum Guri városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.136267,
+                        37.616918
+                  ]
+            },
+            {
+                  "name": "프리미어 뽀로로테마파크 다산",
+                  "text": "A Pororo Premier Theme Park Dasan egy vidámpark Guri városában.",
+                  "category": "recreational",
+                  "coords": [
+                        127.171771,
+                        37.595141
+                  ]
+            },
+            {
+                  "name": "돌덧널 무덤",
+                  "text": "A 돌덧널 무덤 egy régészeti lelőhely Guri városában.",
+                  "category": "historical",
+                  "coords": [
+                        127.176865,
+                        37.596901
+                  ]
+            },
+            {
+                  "name": "다산아트홀",
+                  "text": "A 다산아트홀 egy színház Guri városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.155571,
+                        37.613911
+                  ]
+            },
+            {
+                  "name": "미당화랑",
+                  "text": "A Midang Gallery egy művészeti központ Guri városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.130497,
+                        37.597078
+                  ]
+            },
+            {
+                  "name": "구리 동구릉",
+                  "text": "A guri East Nine Royal Tombs egy történelmi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        127.131921,
+                        37.618957
+                  ]
+            },
+            {
+                  "name": "경기옛길평해길1코스스탬프(망우고개)",
+                  "text": "A 경기옛길평해길1코스스탬프(망우고개) egy látványosság Guri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        127.116867,
+                        37.600932
+                  ]
+            },
+            {
+                  "name": "고덕토평대교",
+                  "text": "A Godeok-Topyeong híd a Han folyót íveli át Guri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        127.14757,
+                        37.572284
+                  ]
+            },
+            {
+                  "name": "보원탄산온천",
+                  "text": "A Bowon Lime Hot Spring egy szauna Guri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        127.139925,
+                        37.597561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "가운동 지석묘",
+                  "text": "가운동 지석묘 din Guri este un sit cu dolmene reprezentând cultura funerară din Epoca Bronzului a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        127.175681,
+                        37.597557
+                  ]
+            },
+            {
+                  "name": "13도창의군탑",
+                  "text": "13도창의군탑 este un sit arheologic situat în Guri.",
+                  "category": "historical",
+                  "coords": [
+                        127.111735,
+                        37.599172
+                  ]
+            },
+            {
+                  "name": "동구릉역사문화관",
+                  "text": "동구릉역사문화관 este un muzeu din Guri.",
+                  "category": "museum",
+                  "coords": [
+                        127.136267,
+                        37.616918
+                  ]
+            },
+            {
+                  "name": "프리미어 뽀로로테마파크 다산",
+                  "text": "Pororo Premier Theme Park Dasan este un parc tematic în Guri.",
+                  "category": "recreational",
+                  "coords": [
+                        127.171771,
+                        37.595141
+                  ]
+            },
+            {
+                  "name": "돌덧널 무덤",
+                  "text": "돌덧널 무덤 este un sit arheologic descoperit în Guri.",
+                  "category": "historical",
+                  "coords": [
+                        127.176865,
+                        37.596901
+                  ]
+            },
+            {
+                  "name": "다산아트홀",
+                  "text": "다산아트홀 este un teatru situat în Guri.",
+                  "category": "cultural",
+                  "coords": [
+                        127.155571,
+                        37.613911
+                  ]
+            },
+            {
+                  "name": "미당화랑",
+                  "text": "Midang Gallery este un centru de arte situat în Guri.",
+                  "category": "cultural",
+                  "coords": [
+                        127.130497,
+                        37.597078
+                  ]
+            },
+            {
+                  "name": "구리 동구릉",
+                  "text": "East Nine Royal Tombs, Guri, este o atracție istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        127.131921,
+                        37.618957
+                  ]
+            },
+            {
+                  "name": "경기옛길평해길1코스스탬프(망우고개)",
+                  "text": "경기옛길평해길1코스스탬프(망우고개) este o atracție din Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.116867,
+                        37.600932
+                  ]
+            },
+            {
+                  "name": "고덕토평대교",
+                  "text": "Podul Godeok-Topyeong este un pod care traversează râul Han în Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.14757,
+                        37.572284
+                  ]
+            },
+            {
+                  "name": "보원탄산온천",
+                  "text": "Bowon Lime Hot Spring este o saună situată în Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.139925,
+                        37.597561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "가운동 지석묘",
+                  "text": "가운동 지석묘 in Guri is a dolmen site representing the Bronze Age burial culture of the region.",
+                  "category": "historical",
+                  "coords": [
+                        127.175681,
+                        37.597557
+                  ]
+            },
+            {
+                  "name": "13도창의군탑",
+                  "text": "13도창의군탑 is an archaeological site located in Guri.",
+                  "category": "historical",
+                  "coords": [
+                        127.111735,
+                        37.599172
+                  ]
+            },
+            {
+                  "name": "동구릉역사문화관",
+                  "text": "동구릉역사문화관 is a museum in Guri.",
+                  "category": "museum",
+                  "coords": [
+                        127.136267,
+                        37.616918
+                  ]
+            },
+            {
+                  "name": "Pororo Premier Theme Park Dasan",
+                  "text": "Pororo Premier Theme Park Dasan is a theme park in Guri.",
+                  "category": "recreational",
+                  "coords": [
+                        127.171771,
+                        37.595141
+                  ]
+            },
+            {
+                  "name": "돌덧널 무덤",
+                  "text": "돌덧널 무덤 is an archaeological site found in Guri.",
+                  "category": "historical",
+                  "coords": [
+                        127.176865,
+                        37.596901
+                  ]
+            },
+            {
+                  "name": "다산아트홀",
+                  "text": "다산아트홀 is a theatre venue located in Guri.",
+                  "category": "cultural",
+                  "coords": [
+                        127.155571,
+                        37.613911
+                  ]
+            },
+            {
+                  "name": "Midang Gallery",
+                  "text": "Midang Gallery is an arts centre situated in Guri.",
+                  "category": "cultural",
+                  "coords": [
+                        127.130497,
+                        37.597078
+                  ]
+            },
+            {
+                  "name": "East Nine Royal Tombs, Guri",
+                  "text": "The East Nine Royal Tombs, Guri, is an attraction located in Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.131921,
+                        37.618957
+                  ]
+            },
+            {
+                  "name": "경기옛길평해길1코스스탬프(망우고개)",
+                  "text": "경기옛길평해길1코스스탬프(망우고개) is an attraction in Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.116867,
+                        37.600932
+                  ]
+            },
+            {
+                  "name": "Godeok-Topyeong Bridge",
+                  "text": "Godeok-Topyeong Bridge is a bridge spanning the Han River in Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.14757,
+                        37.572284
+                  ]
+            },
+            {
+                  "name": "Bowon Lime Hot Spring",
+                  "text": "Bowon Lime Hot Spring is a sauna facility located in Guri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.139925,
+                        37.597561
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-41",
     coords: [127.1440, 37.6040],
@@ -675,7 +4770,628 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "sokcho-city-cities-v2",
+    id: "sokcho-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "속초 조양동 유적",
+                  "text": "Diese Stätte in Joyang-dong, Sokcho, bewahrt historische archäologische Funde.",
+                  "category": "historical",
+                  "coords": [
+                        128.590792,
+                        38.188231
+                  ]
+            },
+            {
+                  "name": "속초해수욕장",
+                  "text": "Sokcho Beach ist ein beliebtes Küstenziel zum Schwimmen und für Erholung in Sokcho.",
+                  "category": "recreational",
+                  "coords": [
+                        128.606142,
+                        38.188032
+                  ]
+            },
+            {
+                  "name": "버섯박물관",
+                  "text": "Das Beoseos Museum ist ein Museum in der Stadt Sokcho.",
+                  "category": "museum",
+                  "coords": [
+                        128.596012,
+                        38.213249
+                  ]
+            },
+            {
+                  "name": "속초불교전시관",
+                  "text": "Die Sokcho Buddhism Exhibition Hall ist ein Museum für buddhistische Kultur in Sokcho.",
+                  "category": "museum",
+                  "coords": [
+                        128.588316,
+                        38.20635
+                  ]
+            },
+            {
+                  "name": "속초등대",
+                  "text": "Das Sokcho Lighthouse Observatory ist ein funktionaler Leuchtturm und Aussichtspunkt in Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.600263,
+                        38.2137
+                  ]
+            },
+            {
+                  "name": "조도등대",
+                  "text": "조도등대 ist ein maritimer Leuchtturm in der Stadt Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.613301,
+                        38.198215
+                  ]
+            },
+            {
+                  "name": "청호해수욕장",
+                  "text": "청호해수욕장 ist ein Sandstrand in Sokcho.",
+                  "category": "recreational",
+                  "coords": [
+                        128.595199,
+                        38.20394
+                  ]
+            },
+            {
+                  "name": "피노디아",
+                  "text": "Pinodia ist ein Museum in der Stadt Sokcho.",
+                  "category": "museum",
+                  "coords": [
+                        128.58254,
+                        38.190853
+                  ]
+            },
+            {
+                  "name": "석봉도자기미술관",
+                  "text": "Das Seokbong Ceramic Art Museum ist ein Kunstzentrum für Keramik in Sokcho.",
+                  "category": "cultural",
+                  "coords": [
+                        128.582596,
+                        38.197882
+                  ]
+            },
+            {
+                  "name": "이조화랑",
+                  "text": "Die Ijo Gallery ist ein Kunstzentrum in der Stadt Sokcho.",
+                  "category": "cultural",
+                  "coords": [
+                        128.578856,
+                        38.200044
+                  ]
+            },
+            {
+                  "name": "중앙시장입구삼거리",
+                  "text": "Jung-ang Market Crossroad ist ein bemerkenswerter Aussichtspunkt in der belebten Stadt Sokcho.",
+                  "category": "natural",
+                  "coords": [
+                        128.591596,
+                        38.204234
+                  ]
+            },
+            {
+                  "name": "갯배선착장",
+                  "text": "갯배선착장 ist eine beliebte Touristenattraktion in Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.592208,
+                        38.202881
+                  ]
+            },
+            {
+                  "name": "가을동화  드라마촬영지",
+                  "text": "가을동화  드라마촬영지 ist eine malerische Attraktion und ein bekannter Drehort in Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.594441,
+                        38.202627
+                  ]
+            },
+            {
+                  "name": "영랑호CC",
+                  "text": "영랑호CC ist ein Aussichtspunkt, der malerische Landschaften in Sokcho bietet.",
+                  "category": "natural",
+                  "coords": [
+                        128.579791,
+                        38.211554
+                  ]
+            },
+            {
+                  "name": "청초정 정자",
+                  "text": "Der Cheongchojeong Pavilion ist eine traditionelle Attraktion in Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.583837,
+                        38.196905
+                  ]
+            },
+            {
+                  "name": "대공연장",
+                  "text": "Die Main Hall ist ein Kunstzentrum in der Stadt Sokcho.",
+                  "category": "cultural",
+                  "coords": [
+                        128.588529,
+                        38.212617
+                  ]
+            },
+            {
+                  "name": "열린수목원",
+                  "text": "Das Yeollin Arboretum ist ein angenehmer Picknickplatz in der Stadt Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.573961,
+                        38.190373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "속초 조양동 유적",
+                  "text": "Ez a lelőhely Joyang-dongban, Sokcho városában őriz történelmi régészeti leleteket.",
+                  "category": "historical",
+                  "coords": [
+                        128.590792,
+                        38.188231
+                  ]
+            },
+            {
+                  "name": "속초해수욕장",
+                  "text": "A Sokcho Beach egy népszerű tengerparti úti cél fürdőzésre és kikapcsolódásra Sokcho városában.",
+                  "category": "recreational",
+                  "coords": [
+                        128.606142,
+                        38.188032
+                  ]
+            },
+            {
+                  "name": "버섯박물관",
+                  "text": "A Beoseos Museum egy múzeum Sokcho városában.",
+                  "category": "museum",
+                  "coords": [
+                        128.596012,
+                        38.213249
+                  ]
+            },
+            {
+                  "name": "속초불교전시관",
+                  "text": "A Sokcho Buddhism Exhibition Hall egy buddhista kultúrát bemutató múzeum Sokcho városában.",
+                  "category": "museum",
+                  "coords": [
+                        128.588316,
+                        38.20635
+                  ]
+            },
+            {
+                  "name": "속초등대",
+                  "text": "A Sokcho Lighthouse Observatory egy működő világítótorony és kilátó Sokcho városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.600263,
+                        38.2137
+                  ]
+            },
+            {
+                  "name": "조도등대",
+                  "text": "A 조도등대 egy tengerészeti világítótorony Sokcho városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.613301,
+                        38.198215
+                  ]
+            },
+            {
+                  "name": "청호해수욕장",
+                  "text": "A 청호해수욕장 egy homokos strand Sokcho városában.",
+                  "category": "recreational",
+                  "coords": [
+                        128.595199,
+                        38.20394
+                  ]
+            },
+            {
+                  "name": "피노디아",
+                  "text": "A Pinodia egy múzeum Sokcho városában.",
+                  "category": "museum",
+                  "coords": [
+                        128.58254,
+                        38.190853
+                  ]
+            },
+            {
+                  "name": "석봉도자기미술관",
+                  "text": "A Seokbong Ceramic Art Museum egy kerámiának szentelt művészeti központ Sokcho városában.",
+                  "category": "cultural",
+                  "coords": [
+                        128.582596,
+                        38.197882
+                  ]
+            },
+            {
+                  "name": "이조화랑",
+                  "text": "Az Ijo Gallery egy művészeti központ Sokcho városában.",
+                  "category": "cultural",
+                  "coords": [
+                        128.578856,
+                        38.200044
+                  ]
+            },
+            {
+                  "name": "중앙시장입구삼거리",
+                  "text": "A Jung-ang Market Crossroad egy nevezetes kilátópont Sokcho nyüzsgő városában.",
+                  "category": "natural",
+                  "coords": [
+                        128.591596,
+                        38.204234
+                  ]
+            },
+            {
+                  "name": "갯배선착장",
+                  "text": "A 갯배선착장 egy népszerű turisztikai látványosság Sokcho városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.592208,
+                        38.202881
+                  ]
+            },
+            {
+                  "name": "가을동화  드라마촬영지",
+                  "text": "A 가을동화  드라마촬영지 egy festői látványosság és egy ismert forgatási helyszín Sokcho városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.594441,
+                        38.202627
+                  ]
+            },
+            {
+                  "name": "영랑호CC",
+                  "text": "A 영랑호CC egy kilátó, amely festői tájat kínál Sokcho városában.",
+                  "category": "natural",
+                  "coords": [
+                        128.579791,
+                        38.211554
+                  ]
+            },
+            {
+                  "name": "청초정 정자",
+                  "text": "A Cheongchojeong Pavilion egy hagyományos építészeti látványosság Sokcho városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.583837,
+                        38.196905
+                  ]
+            },
+            {
+                  "name": "대공연장",
+                  "text": "A Main Hall egy művészeti központ Sokcho városában.",
+                  "category": "cultural",
+                  "coords": [
+                        128.588529,
+                        38.212617
+                  ]
+            },
+            {
+                  "name": "열린수목원",
+                  "text": "A Yeollin Arboretum egy kellemes piknikezőhely Sokcho városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.573961,
+                        38.190373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "속초 조양동 유적",
+                  "text": "Acest sit din Joyang-dong, Sokcho păstrează descoperiri arheologice istorice.",
+                  "category": "historical",
+                  "coords": [
+                        128.590792,
+                        38.188231
+                  ]
+            },
+            {
+                  "name": "속초해수욕장",
+                  "text": "Sokcho Beach este o destinație de coastă populară pentru înot și recreere în Sokcho.",
+                  "category": "recreational",
+                  "coords": [
+                        128.606142,
+                        38.188032
+                  ]
+            },
+            {
+                  "name": "버섯박물관",
+                  "text": "Beoseos Museum este un muzeu situat în orașul Sokcho.",
+                  "category": "museum",
+                  "coords": [
+                        128.596012,
+                        38.213249
+                  ]
+            },
+            {
+                  "name": "속초불교전시관",
+                  "text": "Sokcho Buddhism Exhibition Hall este un muzeu dedicat culturii budiste din Sokcho.",
+                  "category": "museum",
+                  "coords": [
+                        128.588316,
+                        38.20635
+                  ]
+            },
+            {
+                  "name": "속초등대",
+                  "text": "Sokcho Lighthouse Observatory este un far funcțional și un punct de belvedere în Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.600263,
+                        38.2137
+                  ]
+            },
+            {
+                  "name": "조도등대",
+                  "text": "조도등대 este un far maritim situat în orașul Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.613301,
+                        38.198215
+                  ]
+            },
+            {
+                  "name": "청호해수욕장",
+                  "text": "청호해수욕장 este o zonă de plajă cu nisip din Sokcho.",
+                  "category": "recreational",
+                  "coords": [
+                        128.595199,
+                        38.20394
+                  ]
+            },
+            {
+                  "name": "피노디아",
+                  "text": "Pinodia este un muzeu situat în orașul Sokcho.",
+                  "category": "museum",
+                  "coords": [
+                        128.58254,
+                        38.190853
+                  ]
+            },
+            {
+                  "name": "석봉도자기미술관",
+                  "text": "Seokbong Ceramic Art Museum este un centru de arte dedicat ceramicii din Sokcho.",
+                  "category": "cultural",
+                  "coords": [
+                        128.582596,
+                        38.197882
+                  ]
+            },
+            {
+                  "name": "이조화랑",
+                  "text": "Ijo Gallery este un centru de arte situat în orașul Sokcho.",
+                  "category": "cultural",
+                  "coords": [
+                        128.578856,
+                        38.200044
+                  ]
+            },
+            {
+                  "name": "중앙시장입구삼거리",
+                  "text": "Jung-ang Market Crossroad este un punct de belvedere notabil din aglomeratul oraș Sokcho.",
+                  "category": "natural",
+                  "coords": [
+                        128.591596,
+                        38.204234
+                  ]
+            },
+            {
+                  "name": "갯배선착장",
+                  "text": "갯배선착장 este o atracție turistică populară situată în Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.592208,
+                        38.202881
+                  ]
+            },
+            {
+                  "name": "가을동화  드라마촬영지",
+                  "text": "가을동화  드라마촬영지 este o atracție pitorească cunoscută ca loc de filmare în Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.594441,
+                        38.202627
+                  ]
+            },
+            {
+                  "name": "영랑호CC",
+                  "text": "영랑호CC este un punct de belvedere care oferă peisaje pitorești în Sokcho.",
+                  "category": "natural",
+                  "coords": [
+                        128.579791,
+                        38.211554
+                  ]
+            },
+            {
+                  "name": "청초정 정자",
+                  "text": "Cheongchojeong Pavilion este o atracție structurală tradițională situată în Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.583837,
+                        38.196905
+                  ]
+            },
+            {
+                  "name": "대공연장",
+                  "text": "Main Hall este un centru de arte situat în orașul Sokcho.",
+                  "category": "cultural",
+                  "coords": [
+                        128.588529,
+                        38.212617
+                  ]
+            },
+            {
+                  "name": "열린수목원",
+                  "text": "Yeollin Arboretum este un loc de picnic plăcut situat în orașul Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.573961,
+                        38.190373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Site in Joyang-dong, Sokcho",
+                  "text": "This site in Joyang-dong, Sokcho preserves historical archaeological findings.",
+                  "category": "historical",
+                  "coords": [
+                        128.590792,
+                        38.188231
+                  ]
+            },
+            {
+                  "name": "Sokcho Beach",
+                  "text": "Sokcho Beach is a popular coastal destination for swimming and recreation in Sokcho.",
+                  "category": "recreational",
+                  "coords": [
+                        128.606142,
+                        38.188032
+                  ]
+            },
+            {
+                  "name": "Beoseos Museum",
+                  "text": "Beoseos Museum is a museum situated in the city of Sokcho.",
+                  "category": "museum",
+                  "coords": [
+                        128.596012,
+                        38.213249
+                  ]
+            },
+            {
+                  "name": "Sokcho Buddhism Exhibition Hall",
+                  "text": "Sokcho Buddhism Exhibition Hall is a museum dedicated to Buddhist culture in Sokcho.",
+                  "category": "museum",
+                  "coords": [
+                        128.588316,
+                        38.20635
+                  ]
+            },
+            {
+                  "name": "Sokcho Lighthouse Observatory",
+                  "text": "Sokcho Lighthouse Observatory is a functional lighthouse and viewpoint in Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.600263,
+                        38.2137
+                  ]
+            },
+            {
+                  "name": "조도등대",
+                  "text": "조도등대 is a maritime lighthouse located in the city of Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.613301,
+                        38.198215
+                  ]
+            },
+            {
+                  "name": "청호해수욕장",
+                  "text": "청호해수욕장 is a sandy beach area located in Sokcho.",
+                  "category": "recreational",
+                  "coords": [
+                        128.595199,
+                        38.20394
+                  ]
+            },
+            {
+                  "name": "Pinodia",
+                  "text": "Pinodia is a museum situated in the city of Sokcho.",
+                  "category": "museum",
+                  "coords": [
+                        128.58254,
+                        38.190853
+                  ]
+            },
+            {
+                  "name": "Seokbong Ceramic Art Museum",
+                  "text": "Seokbong Ceramic Art Museum is an arts centre dedicated to ceramics in Sokcho.",
+                  "category": "cultural",
+                  "coords": [
+                        128.582596,
+                        38.197882
+                  ]
+            },
+            {
+                  "name": "Ijo Gallery",
+                  "text": "Ijo Gallery is an arts centre situated in the city of Sokcho.",
+                  "category": "cultural",
+                  "coords": [
+                        128.578856,
+                        38.200044
+                  ]
+            },
+            {
+                  "name": "Jung-ang Market Crossroad",
+                  "text": "Jung-ang Market Crossroad is a notable viewpoint in the bustling city of Sokcho.",
+                  "category": "natural",
+                  "coords": [
+                        128.591596,
+                        38.204234
+                  ]
+            },
+            {
+                  "name": "갯배선착장",
+                  "text": "갯배선착장 is a popular tourist attraction located in Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.592208,
+                        38.202881
+                  ]
+            },
+            {
+                  "name": "가을동화  드라마촬영지",
+                  "text": "가을동화  드라마촬영지 is a scenic attraction known for being a filming location in Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.594441,
+                        38.202627
+                  ]
+            },
+            {
+                  "name": "영랑호CC",
+                  "text": "영랑호CC is a viewpoint offering scenic scenery in Sokcho.",
+                  "category": "natural",
+                  "coords": [
+                        128.579791,
+                        38.211554
+                  ]
+            },
+            {
+                  "name": "Cheongchojeong Pavilion",
+                  "text": "Cheongchojeong Pavilion is a traditional structural attraction located in Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.583837,
+                        38.196905
+                  ]
+            },
+            {
+                  "name": "Main Hall",
+                  "text": "The Main Hall is an arts centre situated in the city of Sokcho.",
+                  "category": "cultural",
+                  "coords": [
+                        128.588529,
+                        38.212617
+                  ]
+            },
+            {
+                  "name": "Yeollin Arboretum",
+                  "text": "Yeollin Arboretum is a pleasant picnic site found in the city of Sokcho.",
+                  "category": "landmark",
+                  "coords": [
+                        128.573961,
+                        38.190373
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-42",
     coords: [128.5910, 38.2080],
@@ -723,7 +5439,160 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gimcheon-city-cities-v2",
+    id: "gimcheon-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "청악화랑",
+                  "text": "Ein Kunstzentrum und eine Galerie in Gimcheon.",
+                  "category": "cultural",
+                  "coords": [
+                        128.12252,
+                        36.119741
+                  ]
+            },
+            {
+                  "name": "김천문화예술회관",
+                  "text": "Ein Zentrum für Kultur und darstellende Künste in Gimcheon.",
+                  "category": "cultural",
+                  "coords": [
+                        128.088667,
+                        36.138096
+                  ]
+            },
+            {
+                  "name": "김천문화회관",
+                  "text": "Ein kulturelles Zentrum zur Förderung der Künste in Gimcheon.",
+                  "category": "cultural",
+                  "coords": [
+                        128.116729,
+                        36.11743
+                  ]
+            },
+            {
+                  "name": "김천시립미술관",
+                  "text": "Die städtische Kunstgalerie von Gimcheon.",
+                  "category": "museum",
+                  "coords": [
+                        128.119421,
+                        36.116819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "청악화랑",
+                  "text": "Művészeti központ és galéria Kimcshonban.",
+                  "category": "cultural",
+                  "coords": [
+                        128.12252,
+                        36.119741
+                  ]
+            },
+            {
+                  "name": "김천문화예술회관",
+                  "text": "Kulturális és előadóművészeti központ Kimcshonban.",
+                  "category": "cultural",
+                  "coords": [
+                        128.088667,
+                        36.138096
+                  ]
+            },
+            {
+                  "name": "김천문화회관",
+                  "text": "Kulturális központ a művészetek népszerűsítésére Kimcshonban.",
+                  "category": "cultural",
+                  "coords": [
+                        128.116729,
+                        36.11743
+                  ]
+            },
+            {
+                  "name": "김천시립미술관",
+                  "text": "Kimcshon városi művészeti galériája.",
+                  "category": "museum",
+                  "coords": [
+                        128.119421,
+                        36.116819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "청악화랑",
+                  "text": "Un centru de artă și o galerie în Gimcheon.",
+                  "category": "cultural",
+                  "coords": [
+                        128.12252,
+                        36.119741
+                  ]
+            },
+            {
+                  "name": "김천문화예술회관",
+                  "text": "Un centru pentru cultură și spectacole în Gimcheon.",
+                  "category": "cultural",
+                  "coords": [
+                        128.088667,
+                        36.138096
+                  ]
+            },
+            {
+                  "name": "김천문화회관",
+                  "text": "Un centru cultural pentru promovarea artelor în Gimcheon.",
+                  "category": "cultural",
+                  "coords": [
+                        128.116729,
+                        36.11743
+                  ]
+            },
+            {
+                  "name": "김천시립미술관",
+                  "text": "Galeria municipală de artă din Gimcheon.",
+                  "category": "museum",
+                  "coords": [
+                        128.119421,
+                        36.116819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cheongak Gallery",
+                  "text": "An arts center and gallery in Gimcheon.",
+                  "category": "cultural",
+                  "coords": [
+                        128.12252,
+                        36.119741
+                  ]
+            },
+            {
+                  "name": "Gimcheon Culture & Arts Center",
+                  "text": "A center for culture and performing arts in Gimcheon.",
+                  "category": "cultural",
+                  "coords": [
+                        128.088667,
+                        36.138096
+                  ]
+            },
+            {
+                  "name": "Gimcheon Cultural Center",
+                  "text": "A cultural center for the promotion of arts in Gimcheon.",
+                  "category": "cultural",
+                  "coords": [
+                        128.116729,
+                        36.11743
+                  ]
+            },
+            {
+                  "name": "김천시립미술관",
+                  "text": "The municipal art gallery of Gimcheon.",
+                  "category": "museum",
+                  "coords": [
+                        128.119421,
+                        36.116819
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-47",
     coords: [128.1130, 36.1390],
@@ -771,7 +5640,304 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "chungju-city-cities-v2",
+    id: "chungju-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "국립충주기상과학관",
+                  "text": "국립충주기상과학관 in Chungju ist ein nationales Wissenschaftsmuseum, das sich der Meteorologie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        127.948782,
+                        36.985639
+                  ]
+            },
+            {
+                  "name": "불교전시관",
+                  "text": "Die Buddhism Exhibition Hall ist ein Museum in Chungju.",
+                  "category": "museum",
+                  "coords": [
+                        127.930652,
+                        36.974936
+                  ]
+            },
+            {
+                  "name": "세계무술박물관",
+                  "text": "Das World Martial Arts Museum ist ein Museum in Chungju.",
+                  "category": "museum",
+                  "coords": [
+                        127.907735,
+                        36.988468
+                  ]
+            },
+            {
+                  "name": "우륵당",
+                  "text": "Uruk-dang ist ein Theater in Chungju.",
+                  "category": "cultural",
+                  "coords": [
+                        127.925788,
+                        36.963672
+                  ]
+            },
+            {
+                  "name": "충주라바랜드",
+                  "text": "충주라바랜드 ist ein Themenpark in Chungju.",
+                  "category": "recreational",
+                  "coords": [
+                        127.907778,
+                        36.989679
+                  ]
+            },
+            {
+                  "name": "탄금대공원",
+                  "text": "Der Tangeumdae-Park in Chungju ist ein historischer Park, der als Ort der Schlacht von Chungju während des Imjin-Krieges bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        127.899005,
+                        36.987999
+                  ]
+            },
+            {
+                  "name": "젊음의 거리",
+                  "text": "젊음의 거리 ist eine Attraktion in Chungju.",
+                  "category": "landmark",
+                  "coords": [
+                        127.931108,
+                        36.970669
+                  ]
+            },
+            {
+                  "name": "충주문화회관",
+                  "text": "Das Chungju Cultural Center ist ein Kunstzentrum in Chungju.",
+                  "category": "cultural",
+                  "coords": [
+                        127.93722,
+                        36.97059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "국립충주기상과학관",
+                  "text": "A cshungdzsui 국립충주기상과학관 egy meteorológiának szentelt nemzeti tudományos múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        127.948782,
+                        36.985639
+                  ]
+            },
+            {
+                  "name": "불교전시관",
+                  "text": "A Buddhism Exhibition Hall egy múzeum Cshungdzsu városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.930652,
+                        36.974936
+                  ]
+            },
+            {
+                  "name": "세계무술박물관",
+                  "text": "A World Martial Arts Museum egy múzeum Cshungdzsu városában.",
+                  "category": "museum",
+                  "coords": [
+                        127.907735,
+                        36.988468
+                  ]
+            },
+            {
+                  "name": "우륵당",
+                  "text": "Az Uruk-dang egy színház Cshungdzsu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.925788,
+                        36.963672
+                  ]
+            },
+            {
+                  "name": "충주라바랜드",
+                  "text": "A 충주라바랜드 egy vidámpark Cshungdzsu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        127.907778,
+                        36.989679
+                  ]
+            },
+            {
+                  "name": "탄금대공원",
+                  "text": "A cshungdzsui Tangeumdae Park egy történelmi park, amely az imdzsin-háború alatti cshungdzsui csata helyszíneként ismert.",
+                  "category": "park",
+                  "coords": [
+                        127.899005,
+                        36.987999
+                  ]
+            },
+            {
+                  "name": "젊음의 거리",
+                  "text": "A 젊음의 거리 egy látványosság Cshungdzsu városában.",
+                  "category": "landmark",
+                  "coords": [
+                        127.931108,
+                        36.970669
+                  ]
+            },
+            {
+                  "name": "충주문화회관",
+                  "text": "A Chungju Cultural Center egy művészeti központ Cshungdzsu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.93722,
+                        36.97059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "국립충주기상과학관",
+                  "text": "국립충주기상과학관 din Chungju este un muzeu național de știință dedicat meteorologiei.",
+                  "category": "museum",
+                  "coords": [
+                        127.948782,
+                        36.985639
+                  ]
+            },
+            {
+                  "name": "불교전시관",
+                  "text": "Buddhism Exhibition Hall este un muzeu situat în Chungju.",
+                  "category": "museum",
+                  "coords": [
+                        127.930652,
+                        36.974936
+                  ]
+            },
+            {
+                  "name": "세계무술박물관",
+                  "text": "World Martial Arts Museum este un muzeu situat în Chungju.",
+                  "category": "museum",
+                  "coords": [
+                        127.907735,
+                        36.988468
+                  ]
+            },
+            {
+                  "name": "우륵당",
+                  "text": "Uruk-dang este un teatru din Chungju.",
+                  "category": "cultural",
+                  "coords": [
+                        127.925788,
+                        36.963672
+                  ]
+            },
+            {
+                  "name": "충주라바랜드",
+                  "text": "충주라바랜드 este un parc tematic în Chungju.",
+                  "category": "recreational",
+                  "coords": [
+                        127.907778,
+                        36.989679
+                  ]
+            },
+            {
+                  "name": "탄금대공원",
+                  "text": "Parcul Tangeumdae din Chungju este un parc istoric cunoscut drept locul Bătăliei de la Chungju din timpul Războiului Imjin.",
+                  "category": "park",
+                  "coords": [
+                        127.899005,
+                        36.987999
+                  ]
+            },
+            {
+                  "name": "젊음의 거리",
+                  "text": "젊음의 거리 este o atracție din Chungju.",
+                  "category": "landmark",
+                  "coords": [
+                        127.931108,
+                        36.970669
+                  ]
+            },
+            {
+                  "name": "충주문화회관",
+                  "text": "Chungju Cultural Center este un centru de arte situat în Chungju.",
+                  "category": "cultural",
+                  "coords": [
+                        127.93722,
+                        36.97059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "국립충주기상과학관",
+                  "text": "국립충주기상과학관 in Chungju is a national science museum dedicated to meteorology.",
+                  "category": "museum",
+                  "coords": [
+                        127.948782,
+                        36.985639
+                  ]
+            },
+            {
+                  "name": "Buddhism Exhibition Hall",
+                  "text": "The Buddhism Exhibition Hall is a museum located in Chungju.",
+                  "category": "museum",
+                  "coords": [
+                        127.930652,
+                        36.974936
+                  ]
+            },
+            {
+                  "name": "World Martial Arts Museum",
+                  "text": "The World Martial Arts Museum is a museum located in Chungju.",
+                  "category": "museum",
+                  "coords": [
+                        127.907735,
+                        36.988468
+                  ]
+            },
+            {
+                  "name": "Uruk-dang",
+                  "text": "Uruk-dang is a theatre space in Chungju.",
+                  "category": "cultural",
+                  "coords": [
+                        127.925788,
+                        36.963672
+                  ]
+            },
+            {
+                  "name": "충주라바랜드",
+                  "text": "충주라바랜드 is a theme park in Chungju.",
+                  "category": "recreational",
+                  "coords": [
+                        127.907778,
+                        36.989679
+                  ]
+            },
+            {
+                  "name": "Tangeumdae Park",
+                  "text": "Tangeumdae Park in Chungju is a historical park known as the site of the Battle of Chungju during the Imjin War.",
+                  "category": "park",
+                  "coords": [
+                        127.899005,
+                        36.987999
+                  ]
+            },
+            {
+                  "name": "젊음의 거리",
+                  "text": "젊음의 거리 is an attraction in Chungju.",
+                  "category": "landmark",
+                  "coords": [
+                        127.931108,
+                        36.970669
+                  ]
+            },
+            {
+                  "name": "Chungju Cultural Center",
+                  "text": "The Chungju Cultural Center is an arts centre located in Chungju.",
+                  "category": "cultural",
+                  "coords": [
+                        127.93722,
+                        36.97059
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-43",
     coords: [127.9320, 36.9740],
@@ -915,7 +6081,160 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "dangjin-city-cities-v2",
+    id: "dangjin-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "당진향교",
+                  "text": "당진향교 in Dangjin ist eine historische öffentliche Bildungseinrichtung aus der Joseon-Dynastie.",
+                  "category": "historical",
+                  "coords": [
+                        126.633643,
+                        36.892678
+                  ]
+            },
+            {
+                  "name": "당진수석전시관",
+                  "text": "Die Dangjinsuseok Exhibition Hall ist ein Museum in Dangjin.",
+                  "category": "museum",
+                  "coords": [
+                        126.623765,
+                        36.888258
+                  ]
+            },
+            {
+                  "name": "당진읍성 남벽",
+                  "text": "당진읍성 남벽 ist eine archäologische Stätte in Dangjin.",
+                  "category": "historical",
+                  "coords": [
+                        126.628291,
+                        36.89335
+                  ]
+            },
+            {
+                  "name": "당진 문예의전당",
+                  "text": "Das Dangjin Culture & Art Center ist ein Kunstzentrum in Dangjin.",
+                  "category": "cultural",
+                  "coords": [
+                        126.637898,
+                        36.89023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "당진향교",
+                  "text": "A dangjini 당진향교 egy történelmi állami oktatási intézmény a Csoszon-dinasztia idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        126.633643,
+                        36.892678
+                  ]
+            },
+            {
+                  "name": "당진수석전시관",
+                  "text": "A Dangjinsuseok Exhibition Hall egy múzeum Dangjin városában.",
+                  "category": "museum",
+                  "coords": [
+                        126.623765,
+                        36.888258
+                  ]
+            },
+            {
+                  "name": "당진읍성 남벽",
+                  "text": "A 당진읍성 남벽 egy régészeti lelőhely Dangjin városában.",
+                  "category": "historical",
+                  "coords": [
+                        126.628291,
+                        36.89335
+                  ]
+            },
+            {
+                  "name": "당진 문예의전당",
+                  "text": "A Dangjin Culture & Art Center egy művészeti központ Dangjin városában.",
+                  "category": "cultural",
+                  "coords": [
+                        126.637898,
+                        36.89023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "당진향교",
+                  "text": "당진향교 din Dangjin este o instituție publică de învățământ istorică înființată în timpul dinastiei Joseon.",
+                  "category": "historical",
+                  "coords": [
+                        126.633643,
+                        36.892678
+                  ]
+            },
+            {
+                  "name": "당진수석전시관",
+                  "text": "Dangjinsuseok Exhibition Hall este un muzeu situat în Dangjin.",
+                  "category": "museum",
+                  "coords": [
+                        126.623765,
+                        36.888258
+                  ]
+            },
+            {
+                  "name": "당진읍성 남벽",
+                  "text": "당진읍성 남벽 este un sit arheologic în Dangjin.",
+                  "category": "historical",
+                  "coords": [
+                        126.628291,
+                        36.89335
+                  ]
+            },
+            {
+                  "name": "당진 문예의전당",
+                  "text": "Dangjin Culture & Art Center este un centru de arte situat în Dangjin.",
+                  "category": "cultural",
+                  "coords": [
+                        126.637898,
+                        36.89023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "당진향교",
+                  "text": "당진향교 in Dangjin is a historical public educational institution established during the Joseon Dynasty.",
+                  "category": "historical",
+                  "coords": [
+                        126.633643,
+                        36.892678
+                  ]
+            },
+            {
+                  "name": "Dangjinsuseok Exhibition Hall",
+                  "text": "The Dangjinsuseok Exhibition Hall is a museum located in Dangjin.",
+                  "category": "museum",
+                  "coords": [
+                        126.623765,
+                        36.888258
+                  ]
+            },
+            {
+                  "name": "당진읍성 남벽",
+                  "text": "당진읍성 남벽 is an archaeological site in Dangjin.",
+                  "category": "historical",
+                  "coords": [
+                        126.628291,
+                        36.89335
+                  ]
+            },
+            {
+                  "name": "Dangjin Culture & Art Center",
+                  "text": "The Dangjin Culture & Art Center is an arts centre situated in Dangjin.",
+                  "category": "cultural",
+                  "coords": [
+                        126.637898,
+                        36.89023
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-44",
     coords: [126.6260, 36.8920],
@@ -1011,7 +6330,448 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "naju-city-cities-v2",
+    id: "naju-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "민속촌",
+                  "text": "Ein Themenpark in Naju, der ein traditionelles koreanisches Dorf zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        126.715271,
+                        35.029008
+                  ]
+            },
+            {
+                  "name": "농자재전시관",
+                  "text": "Eine Ausstellungshalle und ein Museum in Naju.",
+                  "category": "museum",
+                  "coords": [
+                        126.711034,
+                        35.006345
+                  ]
+            },
+            {
+                  "name": "금성관",
+                  "text": "Ein historisches Gästehaus der Regierung in Naju.",
+                  "category": "historical",
+                  "coords": [
+                        126.716675,
+                        35.03298
+                  ]
+            },
+            {
+                  "name": "나주읍성 서문",
+                  "text": "Das Westtor der historischen Stadtfestung von Naju.",
+                  "category": "castle",
+                  "coords": [
+                        126.712632,
+                        35.032875
+                  ]
+            },
+            {
+                  "name": "남고문",
+                  "text": "Ein historisches Tor und archäologische Stätte in Naju.",
+                  "category": "historical",
+                  "coords": [
+                        126.720373,
+                        35.029469
+                  ]
+            },
+            {
+                  "name": "나주향교",
+                  "text": "Eine gut erhaltene traditionelle konfuzianische Schule in Naju.",
+                  "category": "landmark",
+                  "coords": [
+                        126.711281,
+                        35.033419
+                  ]
+            },
+            {
+                  "name": "나주학생독립운동기념관",
+                  "text": "Eine Gedenkhalle für die studentische Unabhängigkeitsbewegung in Naju.",
+                  "category": "historical",
+                  "coords": [
+                        126.726223,
+                        35.027636
+                  ]
+            },
+            {
+                  "name": "나주문화예술회관",
+                  "text": "Ein Zentrum für Kultur und Kunst in der Stadt Naju.",
+                  "category": "cultural",
+                  "coords": [
+                        126.71251,
+                        35.022318
+                  ]
+            },
+            {
+                  "name": "나주시목문화관",
+                  "text": "Ein lokales Kulturzentrum in Naju.",
+                  "category": "cultural",
+                  "coords": [
+                        126.715693,
+                        35.03234
+                  ]
+            },
+            {
+                  "name": "나주시 향토문화회관",
+                  "text": "Ein Zentrum für die Förderung der lokalen Kultur in Naju.",
+                  "category": "cultural",
+                  "coords": [
+                        126.711432,
+                        35.014595
+                  ]
+            },
+            {
+                  "name": "나주온천",
+                  "text": "Eine öffentliche Thermalquelle und Sauna in Naju.",
+                  "category": "landmark",
+                  "coords": [
+                        126.719469,
+                        35.032496
+                  ]
+            },
+            {
+                  "name": "궁전온천",
+                  "text": "Eine lokale Einrichtung mit Sauna und Thermalbädern in Naju.",
+                  "category": "landmark",
+                  "coords": [
+                        126.71995,
+                        35.030455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "민속촌",
+                  "text": "Naju-i vidámpark, amely egy hagyományos koreai falut mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        126.715271,
+                        35.029008
+                  ]
+            },
+            {
+                  "name": "농자재전시관",
+                  "text": "Kiállítóterem és múzeum Nadzuban.",
+                  "category": "museum",
+                  "coords": [
+                        126.711034,
+                        35.006345
+                  ]
+            },
+            {
+                  "name": "금성관",
+                  "text": "Történelmi kormányzati vendégház Nadzuban.",
+                  "category": "historical",
+                  "coords": [
+                        126.716675,
+                        35.03298
+                  ]
+            },
+            {
+                  "name": "나주읍성 서문",
+                  "text": "A történelmi Nadzu városfal nyugati kapuja.",
+                  "category": "castle",
+                  "coords": [
+                        126.712632,
+                        35.032875
+                  ]
+            },
+            {
+                  "name": "남고문",
+                  "text": "Történelmi kapu és régészeti helyszín Nadzuban.",
+                  "category": "historical",
+                  "coords": [
+                        126.720373,
+                        35.029469
+                  ]
+            },
+            {
+                  "name": "나주향교",
+                  "text": "Jól megőrzött hagyományos konfuciánus iskola Nadzuban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.711281,
+                        35.033419
+                  ]
+            },
+            {
+                  "name": "나주학생독립운동기념관",
+                  "text": "Emlékcsarnok a diákok függetlenségi mozgalmának Nadzuban.",
+                  "category": "historical",
+                  "coords": [
+                        126.726223,
+                        35.027636
+                  ]
+            },
+            {
+                  "name": "나주문화예술회관",
+                  "text": "Kulturális és művészeti központ Nadzu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        126.71251,
+                        35.022318
+                  ]
+            },
+            {
+                  "name": "나주시목문화관",
+                  "text": "Helyi kulturális központ Nadzuban.",
+                  "category": "cultural",
+                  "coords": [
+                        126.715693,
+                        35.03234
+                  ]
+            },
+            {
+                  "name": "나주시 향토문화회관",
+                  "text": "Helyi kultúrát népszerűsítő központ Nadzuban.",
+                  "category": "cultural",
+                  "coords": [
+                        126.711432,
+                        35.014595
+                  ]
+            },
+            {
+                  "name": "나주온천",
+                  "text": "Nyilvános termálfürdő és szauna Nadzuban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.719469,
+                        35.032496
+                  ]
+            },
+            {
+                  "name": "궁전온천",
+                  "text": "Helyi szauna és termálfürdő Nadzuban.",
+                  "category": "landmark",
+                  "coords": [
+                        126.71995,
+                        35.030455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "민속촌",
+                  "text": "Un parc tematic din Naju care prezintă un sat tradițional coreean.",
+                  "category": "recreational",
+                  "coords": [
+                        126.715271,
+                        35.029008
+                  ]
+            },
+            {
+                  "name": "농자재전시관",
+                  "text": "O sală de expoziții și un muzeu în Naju.",
+                  "category": "museum",
+                  "coords": [
+                        126.711034,
+                        35.006345
+                  ]
+            },
+            {
+                  "name": "금성관",
+                  "text": "O casă de oaspeți guvernamentală istorică în Naju.",
+                  "category": "historical",
+                  "coords": [
+                        126.716675,
+                        35.03298
+                  ]
+            },
+            {
+                  "name": "나주읍성 서문",
+                  "text": "Poarta de vest a cetății istorice a orașului Naju.",
+                  "category": "castle",
+                  "coords": [
+                        126.712632,
+                        35.032875
+                  ]
+            },
+            {
+                  "name": "남고문",
+                  "text": "O poartă istorică și sit arheologic în Naju.",
+                  "category": "historical",
+                  "coords": [
+                        126.720373,
+                        35.029469
+                  ]
+            },
+            {
+                  "name": "나주향교",
+                  "text": "O școală confuciană tradițională bine conservată în Naju.",
+                  "category": "landmark",
+                  "coords": [
+                        126.711281,
+                        35.033419
+                  ]
+            },
+            {
+                  "name": "나주학생독립운동기념관",
+                  "text": "O sală memorială pentru mișcarea de independență a studenților în Naju.",
+                  "category": "historical",
+                  "coords": [
+                        126.726223,
+                        35.027636
+                  ]
+            },
+            {
+                  "name": "나주문화예술회관",
+                  "text": "Un centru pentru cultură și artă în orașul Naju.",
+                  "category": "cultural",
+                  "coords": [
+                        126.71251,
+                        35.022318
+                  ]
+            },
+            {
+                  "name": "나주시목문화관",
+                  "text": "Un centru cultural local în Naju.",
+                  "category": "cultural",
+                  "coords": [
+                        126.715693,
+                        35.03234
+                  ]
+            },
+            {
+                  "name": "나주시 향토문화회관",
+                  "text": "Un centru pentru promovarea culturii locale în Naju.",
+                  "category": "cultural",
+                  "coords": [
+                        126.711432,
+                        35.014595
+                  ]
+            },
+            {
+                  "name": "나주온천",
+                  "text": "O sursă de apă termală și saună publică în Naju.",
+                  "category": "landmark",
+                  "coords": [
+                        126.719469,
+                        35.032496
+                  ]
+            },
+            {
+                  "name": "궁전온천",
+                  "text": "O unitate locală cu saună și băi termale în Naju.",
+                  "category": "landmark",
+                  "coords": [
+                        126.71995,
+                        35.030455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Folk Village",
+                  "text": "A theme park in Naju showcasing a traditional Korean folk village.",
+                  "category": "recreational",
+                  "coords": [
+                        126.715271,
+                        35.029008
+                  ]
+            },
+            {
+                  "name": "Nongjajae Exhibition Hall",
+                  "text": "An exhibition hall and museum in Naju.",
+                  "category": "museum",
+                  "coords": [
+                        126.711034,
+                        35.006345
+                  ]
+            },
+            {
+                  "name": "금성관",
+                  "text": "A historical government guesthouse in Naju.",
+                  "category": "historical",
+                  "coords": [
+                        126.716675,
+                        35.03298
+                  ]
+            },
+            {
+                  "name": "나주읍성 서문",
+                  "text": "The west gate of the historical Naju city fortress.",
+                  "category": "castle",
+                  "coords": [
+                        126.712632,
+                        35.032875
+                  ]
+            },
+            {
+                  "name": "남고문",
+                  "text": "A historical gate and archaeological site in Naju.",
+                  "category": "historical",
+                  "coords": [
+                        126.720373,
+                        35.029469
+                  ]
+            },
+            {
+                  "name": "나주향교",
+                  "text": "A well-preserved traditional Confucian school in Naju.",
+                  "category": "landmark",
+                  "coords": [
+                        126.711281,
+                        35.033419
+                  ]
+            },
+            {
+                  "name": "Naju Student Dongnipundong Memorial Hall",
+                  "text": "A memorial hall for the student independence movement in Naju.",
+                  "category": "historical",
+                  "coords": [
+                        126.726223,
+                        35.027636
+                  ]
+            },
+            {
+                  "name": "Naju Culture & Arts Center",
+                  "text": "A center for culture and arts in the city of Naju.",
+                  "category": "cultural",
+                  "coords": [
+                        126.71251,
+                        35.022318
+                  ]
+            },
+            {
+                  "name": "나주시목문화관",
+                  "text": "A local cultural center in Naju.",
+                  "category": "cultural",
+                  "coords": [
+                        126.715693,
+                        35.03234
+                  ]
+            },
+            {
+                  "name": "Najusi Local Cultural Center",
+                  "text": "A center for the promotion of local culture in Naju.",
+                  "category": "cultural",
+                  "coords": [
+                        126.711432,
+                        35.014595
+                  ]
+            },
+            {
+                  "name": "Naju Hot Spring",
+                  "text": "A public hot spring and sauna in Naju.",
+                  "category": "landmark",
+                  "coords": [
+                        126.719469,
+                        35.032496
+                  ]
+            },
+            {
+                  "name": "Gungjeon Hot Spring",
+                  "text": "A local sauna and hot spring facility in Naju.",
+                  "category": "landmark",
+                  "coords": [
+                        126.71995,
+                        35.030455
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-46",
     coords: [126.7120, 35.0250],
@@ -1059,7 +6819,160 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gwangyang-city-cities-v2",
+    id: "gwangyang-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "가야산",
+                  "text": "Gayasan Mt. ist ein Berggipfel in der Stadt Gwangyang.",
+                  "category": "natural",
+                  "coords": [
+                        127.698421,
+                        34.963977
+                  ]
+            },
+            {
+                  "name": "마동근린 체육공원",
+                  "text": "마동근린 체육공원 ist ein Park in der Stadt Gwangyang.",
+                  "category": "park",
+                  "coords": [
+                        127.693448,
+                        34.95195
+                  ]
+            },
+            {
+                  "name": "광양만전망대쉼터",
+                  "text": "광양만전망대쉼터 ist ein Aussichtspunkt in der Stadt Gwangyang.",
+                  "category": "natural",
+                  "coords": [
+                        127.696771,
+                        34.957805
+                  ]
+            },
+            {
+                  "name": "광양시청소년문화센터",
+                  "text": "Das Gwangyang Young Culture Center ist ein Kunstzentrum in der Stadt Gwangyang.",
+                  "category": "cultural",
+                  "coords": [
+                        127.690877,
+                        34.937298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "가야산",
+                  "text": "A Gayasan Mt. egy hegycsúcs Gwangyang városában.",
+                  "category": "natural",
+                  "coords": [
+                        127.698421,
+                        34.963977
+                  ]
+            },
+            {
+                  "name": "마동근린 체육공원",
+                  "text": "A 마동근린 체육공원 egy park Gwangyang városában.",
+                  "category": "park",
+                  "coords": [
+                        127.693448,
+                        34.95195
+                  ]
+            },
+            {
+                  "name": "광양만전망대쉼터",
+                  "text": "A 광양만전망대쉼터 egy kilátó Gwangyang városában.",
+                  "category": "natural",
+                  "coords": [
+                        127.696771,
+                        34.957805
+                  ]
+            },
+            {
+                  "name": "광양시청소년문화센터",
+                  "text": "A Gwangyang Young Culture Center egy művészeti központ Gwangyang városában.",
+                  "category": "cultural",
+                  "coords": [
+                        127.690877,
+                        34.937298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "가야산",
+                  "text": "Gayasan Mt. este un vârf de munte în orașul Gwangyang.",
+                  "category": "natural",
+                  "coords": [
+                        127.698421,
+                        34.963977
+                  ]
+            },
+            {
+                  "name": "마동근린 체육공원",
+                  "text": "마동근린 체육공원 este un parc în orașul Gwangyang.",
+                  "category": "park",
+                  "coords": [
+                        127.693448,
+                        34.95195
+                  ]
+            },
+            {
+                  "name": "광양만전망대쉼터",
+                  "text": "광양만전망대쉼터 este un punct de belvedere în orașul Gwangyang.",
+                  "category": "natural",
+                  "coords": [
+                        127.696771,
+                        34.957805
+                  ]
+            },
+            {
+                  "name": "광양시청소년문화센터",
+                  "text": "Gwangyang Young Culture Center este un centru de arte în orașul Gwangyang.",
+                  "category": "cultural",
+                  "coords": [
+                        127.690877,
+                        34.937298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gayasan Mt.",
+                  "text": "Gayasan Mt. is a mountain peak located in the city of Gwangyang.",
+                  "category": "natural",
+                  "coords": [
+                        127.698421,
+                        34.963977
+                  ]
+            },
+            {
+                  "name": "마동근린 체육공원",
+                  "text": "마동근린 체육공원 is a park located in the city of Gwangyang.",
+                  "category": "park",
+                  "coords": [
+                        127.693448,
+                        34.95195
+                  ]
+            },
+            {
+                  "name": "광양만전망대쉼터",
+                  "text": "광양만전망대쉼터 is a viewpoint located in the city of Gwangyang.",
+                  "category": "natural",
+                  "coords": [
+                        127.696771,
+                        34.957805
+                  ]
+            },
+            {
+                  "name": "Gwangyang Young Culture Center",
+                  "text": "The Gwangyang Young Culture Center is an arts centre located in the city of Gwangyang.",
+                  "category": "cultural",
+                  "coords": [
+                        127.690877,
+                        34.937298
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-46",
     coords: [127.6940, 34.9390],
@@ -1107,7 +7020,124 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "mungyeong-city-cities-v2",
+    id: "mungyeong-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "무림민속전시관",
+                  "text": "Die Murim Fork Exhibition Hall ist ein spezialisiertes Museum in Mungyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.21042,
+                        36.604284
+                  ]
+            },
+            {
+                  "name": "테마파크",
+                  "text": "Dieser Ort ist ein lokaler Freizeitpark in Mungyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.201969,
+                        36.599478
+                  ]
+            },
+            {
+                  "name": "명예역장 강아지집",
+                  "text": "Dies ist ein einzigartiges lokales Denkmal in der Stadt Mungyeong.",
+                  "category": "historical",
+                  "coords": [
+                        128.203467,
+                        36.595362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "무림민속전시관",
+                  "text": "A Murim Fork Exhibition Hall egy tematikus múzeum Mungyeong városában.",
+                  "category": "museum",
+                  "coords": [
+                        128.21042,
+                        36.604284
+                  ]
+            },
+            {
+                  "name": "테마파크",
+                  "text": "Ez a helyszín egy helyi vidámpark Mungyeong városában.",
+                  "category": "recreational",
+                  "coords": [
+                        128.201969,
+                        36.599478
+                  ]
+            },
+            {
+                  "name": "명예역장 강아지집",
+                  "text": "Ez egy egyedi helyi emlékmű Mungyeong városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.203467,
+                        36.595362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "무림민속전시관",
+                  "text": "Murim Fork Exhibition Hall este un muzeu specializat situat în Mungyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.21042,
+                        36.604284
+                  ]
+            },
+            {
+                  "name": "테마파크",
+                  "text": "Acest loc este un parc de distracții local situat în Mungyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.201969,
+                        36.599478
+                  ]
+            },
+            {
+                  "name": "명예역장 강아지집",
+                  "text": "Acesta este un monument local inedit situat în orașul Mungyeong.",
+                  "category": "historical",
+                  "coords": [
+                        128.203467,
+                        36.595362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Murim Fork Exhibition Hall",
+                  "text": "Murim Fork Exhibition Hall is a specialized museum located in Mungyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.21042,
+                        36.604284
+                  ]
+            },
+            {
+                  "name": "테마파크",
+                  "text": "This site is a local theme park situated in Mungyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.201969,
+                        36.599478
+                  ]
+            },
+            {
+                  "name": "명예역장 강아지집",
+                  "text": "This is a unique local monument located in the city of Mungyeong.",
+                  "category": "historical",
+                  "coords": [
+                        128.203467,
+                        36.595362
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-47",
     coords: [128.2000, 36.5920],
@@ -1155,7 +7185,448 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "hanam-city-cities-v2",
+    id: "hanam-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "선성군묘역",
+                  "text": "Die historische Grabstätte des Prinzen Seonseong in Hanam.",
+                  "category": "historical",
+                  "coords": [
+                        127.195804,
+                        37.537597
+                  ]
+            },
+            {
+                  "name": "하남역사박물관",
+                  "text": "Ein Museum, das die Geschichte der Stadt Hanam dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        127.206633,
+                        37.544752
+                  ]
+            },
+            {
+                  "name": "아쿠아필드",
+                  "text": "Ein moderner Wasserpark und Wellnesskomplex in Hanam.",
+                  "category": "recreational",
+                  "coords": [
+                        127.224243,
+                        37.54589
+                  ]
+            },
+            {
+                  "name": "유니온파크 물놀이터",
+                  "text": "Ein Wasserpark im Union Park in Hanam.",
+                  "category": "recreational",
+                  "coords": [
+                        127.219207,
+                        37.546486
+                  ]
+            },
+            {
+                  "name": "주렁주렁 하남점",
+                  "text": "Ein Indoor-Streichelzoo und Tierpark in Hanam.",
+                  "category": "recreational",
+                  "coords": [
+                        127.223567,
+                        37.543578
+                  ]
+            },
+            {
+                  "name": "원형보전지",
+                  "text": "Ein geschütztes Naturreservat in der Region Hanam.",
+                  "category": "natural",
+                  "coords": [
+                        127.215343,
+                        37.55647
+                  ]
+            },
+            {
+                  "name": "하남이성산성",
+                  "text": "Eine historische Bergfestung in der Stadt Hanam.",
+                  "category": "landmark",
+                  "coords": [
+                        127.183832,
+                        37.527265
+                  ]
+            },
+            {
+                  "name": "은방울공원",
+                  "text": "Ein lokaler öffentlicher Park in Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.224618,
+                        37.539848
+                  ]
+            },
+            {
+                  "name": "꿈나라공원",
+                  "text": "Ein öffentlicher Erholungspark in Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.221579,
+                        37.537576
+                  ]
+            },
+            {
+                  "name": "새나라공원",
+                  "text": "Ein städtischer Park für Freizeitaktivitäten in Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.223279,
+                        37.542313
+                  ]
+            },
+            {
+                  "name": "덕풍공원",
+                  "text": "Ein lokaler Park für die Bewohner von Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.197474,
+                        37.536434
+                  ]
+            },
+            {
+                  "name": "저높은곳을향하여",
+                  "text": "Ein symbolisches Denkmal in der Stadt Hanam.",
+                  "category": "historical",
+                  "coords": [
+                        127.202237,
+                        37.550084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "선성군묘역",
+                  "text": "Szeonszeong herceg történelmi sírhelye Hanamban.",
+                  "category": "historical",
+                  "coords": [
+                        127.195804,
+                        37.537597
+                  ]
+            },
+            {
+                  "name": "하남역사박물관",
+                  "text": "Hanam város történelmét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        127.206633,
+                        37.544752
+                  ]
+            },
+            {
+                  "name": "아쿠아필드",
+                  "text": "Modern vízipark és wellness komplexum Hanamban.",
+                  "category": "recreational",
+                  "coords": [
+                        127.224243,
+                        37.54589
+                  ]
+            },
+            {
+                  "name": "유니온파크 물놀이터",
+                  "text": "Vízipark az Union Park területén Hanamban.",
+                  "category": "recreational",
+                  "coords": [
+                        127.219207,
+                        37.546486
+                  ]
+            },
+            {
+                  "name": "주렁주렁 하남점",
+                  "text": "Fedett állatsimogató és állatpark Hanamban.",
+                  "category": "recreational",
+                  "coords": [
+                        127.223567,
+                        37.543578
+                  ]
+            },
+            {
+                  "name": "원형보전지",
+                  "text": "Védett természetvédelmi terület Hanam régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        127.215343,
+                        37.55647
+                  ]
+            },
+            {
+                  "name": "하남이성산성",
+                  "text": "Történelmi hegyi erőd Hanam városában.",
+                  "category": "landmark",
+                  "coords": [
+                        127.183832,
+                        37.527265
+                  ]
+            },
+            {
+                  "name": "은방울공원",
+                  "text": "Helyi közpark Hanamban.",
+                  "category": "park",
+                  "coords": [
+                        127.224618,
+                        37.539848
+                  ]
+            },
+            {
+                  "name": "꿈나라공원",
+                  "text": "Nyilvános pihenőpark Hanamban.",
+                  "category": "park",
+                  "coords": [
+                        127.221579,
+                        37.537576
+                  ]
+            },
+            {
+                  "name": "새나라공원",
+                  "text": "Városi park szabadidős tevékenységekhez Hanamban.",
+                  "category": "park",
+                  "coords": [
+                        127.223279,
+                        37.542313
+                  ]
+            },
+            {
+                  "name": "덕풍공원",
+                  "text": "Helyi park Hanam lakói számára.",
+                  "category": "park",
+                  "coords": [
+                        127.197474,
+                        37.536434
+                  ]
+            },
+            {
+                  "name": "저높은곳을향하여",
+                  "text": "Egy szimbolikus emlékmű Hanam városában.",
+                  "category": "historical",
+                  "coords": [
+                        127.202237,
+                        37.550084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "선성군묘역",
+                  "text": "Situl funerar istoric al prințului Seonseong în Hanam.",
+                  "category": "historical",
+                  "coords": [
+                        127.195804,
+                        37.537597
+                  ]
+            },
+            {
+                  "name": "하남역사박물관",
+                  "text": "Un muzeu care documentează istoria orașului Hanam.",
+                  "category": "museum",
+                  "coords": [
+                        127.206633,
+                        37.544752
+                  ]
+            },
+            {
+                  "name": "아쿠아필드",
+                  "text": "Un parc acvatic modern și complex de wellness în Hanam.",
+                  "category": "recreational",
+                  "coords": [
+                        127.224243,
+                        37.54589
+                  ]
+            },
+            {
+                  "name": "유니온파크 물놀이터",
+                  "text": "Un parc acvatic situat în Union Park din Hanam.",
+                  "category": "recreational",
+                  "coords": [
+                        127.219207,
+                        37.546486
+                  ]
+            },
+            {
+                  "name": "주렁주렁 하남점",
+                  "text": "O grădină zoologică interioară și parc cu animale în Hanam.",
+                  "category": "recreational",
+                  "coords": [
+                        127.223567,
+                        37.543578
+                  ]
+            },
+            {
+                  "name": "원형보전지",
+                  "text": "O rezervație naturală protejată în regiunea Hanam.",
+                  "category": "natural",
+                  "coords": [
+                        127.215343,
+                        37.55647
+                  ]
+            },
+            {
+                  "name": "하남이성산성",
+                  "text": "O cetate montană istorică în orașul Hanam.",
+                  "category": "landmark",
+                  "coords": [
+                        127.183832,
+                        37.527265
+                  ]
+            },
+            {
+                  "name": "은방울공원",
+                  "text": "Un parc public local în Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.224618,
+                        37.539848
+                  ]
+            },
+            {
+                  "name": "꿈나라공원",
+                  "text": "Un parc public de recreere în Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.221579,
+                        37.537576
+                  ]
+            },
+            {
+                  "name": "새나라공원",
+                  "text": "Un parc urban pentru activități de recreere în Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.223279,
+                        37.542313
+                  ]
+            },
+            {
+                  "name": "덕풍공원",
+                  "text": "Un parc local pentru locuitorii din Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.197474,
+                        37.536434
+                  ]
+            },
+            {
+                  "name": "저높은곳을향하여",
+                  "text": "Un monument simbolic situat în orașul Hanam.",
+                  "category": "historical",
+                  "coords": [
+                        127.202237,
+                        37.550084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "선성군묘역",
+                  "text": "The historical tomb site of Prince Seonseong in Hanam.",
+                  "category": "historical",
+                  "coords": [
+                        127.195804,
+                        37.537597
+                  ]
+            },
+            {
+                  "name": "Hanam History Museum",
+                  "text": "A museum documenting the history of Hanam city.",
+                  "category": "museum",
+                  "coords": [
+                        127.206633,
+                        37.544752
+                  ]
+            },
+            {
+                  "name": "아쿠아필드",
+                  "text": "A modern water park and spa complex in Hanam.",
+                  "category": "recreational",
+                  "coords": [
+                        127.224243,
+                        37.54589
+                  ]
+            },
+            {
+                  "name": "Union Park Water Park",
+                  "text": "A water park located within Union Park in Hanam.",
+                  "category": "recreational",
+                  "coords": [
+                        127.219207,
+                        37.546486
+                  ]
+            },
+            {
+                  "name": "주렁주렁 하남점",
+                  "text": "An indoor petting zoo and animal park in Hanam.",
+                  "category": "recreational",
+                  "coords": [
+                        127.223567,
+                        37.543578
+                  ]
+            },
+            {
+                  "name": "원형보전지",
+                  "text": "A protected nature reserve area in the Hanam region.",
+                  "category": "natural",
+                  "coords": [
+                        127.215343,
+                        37.55647
+                  ]
+            },
+            {
+                  "name": "Iseongsanseong Fortress, Hanam",
+                  "text": "A historical mountain fortress in Hanam city.",
+                  "category": "landmark",
+                  "coords": [
+                        127.183832,
+                        37.527265
+                  ]
+            },
+            {
+                  "name": "EunBangUl Park",
+                  "text": "A local public park in Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.224618,
+                        37.539848
+                  ]
+            },
+            {
+                  "name": "꿈나라공원",
+                  "text": "A public recreational park in Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.221579,
+                        37.537576
+                  ]
+            },
+            {
+                  "name": "새나라공원",
+                  "text": "An urban park for leisure activities in Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.223279,
+                        37.542313
+                  ]
+            },
+            {
+                  "name": "Deokpung Park",
+                  "text": "A local park for the residents of Hanam.",
+                  "category": "park",
+                  "coords": [
+                        127.197474,
+                        37.536434
+                  ]
+            },
+            {
+                  "name": "저높은곳을향하여",
+                  "text": "A symbolic monument located in the city of Hanam.",
+                  "category": "historical",
+                  "coords": [
+                        127.202237,
+                        37.550084
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-41",
     coords: [127.2000, 37.5330],
@@ -1251,7 +7722,592 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tongyeong-city-cities-v2",
+    id: "tongyeong-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "통영시 향토역사관",
+                  "text": "Das Tongyeongsi Local History Museum bewahrt das regionale Erbe von Tongyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.423302,
+                        34.846205
+                  ]
+            },
+            {
+                  "name": "통영불교전시관",
+                  "text": "Dies ist ein Museum für buddhistische Kultur in Tongyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.427106,
+                        34.846395
+                  ]
+            },
+            {
+                  "name": "전혁림미술관",
+                  "text": "Die Jeon Hyeok Lim Art Gallery ist ein Kunstmuseum in der Stadt Tongyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.415516,
+                        34.827055
+                  ]
+            },
+            {
+                  "name": "스카이라인루지 통영",
+                  "text": "Dieser Ort ist ein Outdoor-Freizeitpark und Freizeitziel in Tongyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.424808,
+                        34.82352
+                  ]
+            },
+            {
+                  "name": "디피랑",
+                  "text": "Dies ist ein moderner Freizeitpark in der Stadt Tongyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.428753,
+                        34.841228
+                  ]
+            },
+            {
+                  "name": "문화동배수시설",
+                  "text": "Dies ist eine archäologische Stätte im Zusammenhang mit historischer Infrastruktur in Tongyeong.",
+                  "category": "historical",
+                  "coords": [
+                        128.420772,
+                        34.845608
+                  ]
+            },
+            {
+                  "name": "통영시민문화회관",
+                  "text": "Dieses lokale Theater und Kulturzentrum befindet sich in Tongyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.42843,
+                        34.842147
+                  ]
+            },
+            {
+                  "name": "Tongyeong Concert Hall",
+                  "text": "Die Tongyeong Concert Hall ist ein Veranstaltungsort für musikalische Darbietungen in Tongyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.440042,
+                        34.826048
+                  ]
+            },
+            {
+                  "name": "통영삼도수군통제영",
+                  "text": "Diese Stätte ist eine historische Marinefestung in Tongyeong.",
+                  "category": "fortress",
+                  "coords": [
+                        128.423015,
+                        34.848219
+                  ]
+            },
+            {
+                  "name": "동방화랑",
+                  "text": "Die Dongbang Gallery ist ein Kunstzentrum in der Stadt Tongyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.422783,
+                        34.84366
+                  ]
+            },
+            {
+                  "name": "충렬사",
+                  "text": "Diese historische Attraktion befindet sich in der Stadt Tongyeong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.417506,
+                        34.846947
+                  ]
+            },
+            {
+                  "name": "서피랑",
+                  "text": "Diese beliebte lokale Attraktion befindet sich in Tongyeong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.420897,
+                        34.844569
+                  ]
+            },
+            {
+                  "name": "パフォーマー 歌",
+                  "text": "Diese einzigartige Performance-Attraktion befindet sich in der Stadt Tongyeong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.423979,
+                        34.844526
+                  ]
+            },
+            {
+                  "name": "새뫼넘어끝",
+                  "text": "Dies ist ein malerischer Aussichtspunkt, der einen Panoramablick in Tongyeong bietet.",
+                  "category": "natural",
+                  "coords": [
+                        128.45365,
+                        34.8651
+                  ]
+            },
+            {
+                  "name": "통일전망대",
+                  "text": "Dieser landschaftlich reizvolle Aussichtspunkt befindet sich in der Stadt Tongyeong.",
+                  "category": "natural",
+                  "coords": [
+                        128.4404,
+                        34.844778
+                  ]
+            },
+            {
+                  "name": "윤이상기념관",
+                  "text": "Dieses Denkmal feiert die lokale Geschichte in der Stadt Tongyeong.",
+                  "category": "historical",
+                  "coords": [
+                        128.413731,
+                        34.838512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "통영시 향토역사관",
+                  "text": "A Tongyeongsi Local History Museum Tongyeong regionális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        128.423302,
+                        34.846205
+                  ]
+            },
+            {
+                  "name": "통영불교전시관",
+                  "text": "Ez egy a buddhista kultúrának szentelt múzeum Tongyeong városában.",
+                  "category": "museum",
+                  "coords": [
+                        128.427106,
+                        34.846395
+                  ]
+            },
+            {
+                  "name": "전혁림미술관",
+                  "text": "A Jeon Hyeok Lim Art Gallery egy művészeti múzeum Tongyeong városában.",
+                  "category": "museum",
+                  "coords": [
+                        128.415516,
+                        34.827055
+                  ]
+            },
+            {
+                  "name": "스카이라인루지 통영",
+                  "text": "Ez a hely egy szabadtéri vidámpark és szabadidős úti cél Tongyeongban.",
+                  "category": "recreational",
+                  "coords": [
+                        128.424808,
+                        34.82352
+                  ]
+            },
+            {
+                  "name": "디피랑",
+                  "text": "Ez egy modern vidámpark Tongyeong városában.",
+                  "category": "recreational",
+                  "coords": [
+                        128.428753,
+                        34.841228
+                  ]
+            },
+            {
+                  "name": "문화동배수시설",
+                  "text": "Ez egy történelmi infrastruktúrával kapcsolatos régészeti lelőhely Tongyeongban.",
+                  "category": "historical",
+                  "coords": [
+                        128.420772,
+                        34.845608
+                  ]
+            },
+            {
+                  "name": "통영시민문화회관",
+                  "text": "Ez a helyi színház és kulturális központ Tongyeong városában található.",
+                  "category": "cultural",
+                  "coords": [
+                        128.42843,
+                        34.842147
+                  ]
+            },
+            {
+                  "name": "Tongyeong Concert Hall",
+                  "text": "A Tongyeong Concert Hall egy zenei előadásoknak otthont adó létesítmény Tongyeongban.",
+                  "category": "cultural",
+                  "coords": [
+                        128.440042,
+                        34.826048
+                  ]
+            },
+            {
+                  "name": "통영삼도수군통제영",
+                  "text": "Ez a helyszín egy történelmi haditengerészeti erőd Tongyeong városában.",
+                  "category": "fortress",
+                  "coords": [
+                        128.423015,
+                        34.848219
+                  ]
+            },
+            {
+                  "name": "동방화랑",
+                  "text": "A Dongbang Gallery egy művészeti központ Tongyeong városában.",
+                  "category": "cultural",
+                  "coords": [
+                        128.422783,
+                        34.84366
+                  ]
+            },
+            {
+                  "name": "충렬사",
+                  "text": "Ez a történelmi látványosság Tongyeong városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        128.417506,
+                        34.846947
+                  ]
+            },
+            {
+                  "name": "서피랑",
+                  "text": "Ez a népszerű helyi látványosság Tongyeong városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        128.420897,
+                        34.844569
+                  ]
+            },
+            {
+                  "name": "パフォーマー 歌",
+                  "text": "Ez az egyedi előadóművészeti látványosság Tongyeong városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        128.423979,
+                        34.844526
+                  ]
+            },
+            {
+                  "name": "새뫼넘어끝",
+                  "text": "Ez egy festői kilátó, amely panorámás látványt nyújt Tongyeongban.",
+                  "category": "natural",
+                  "coords": [
+                        128.45365,
+                        34.8651
+                  ]
+            },
+            {
+                  "name": "통일전망대",
+                  "text": "Ez a festői kilátó Tongyeong városában található.",
+                  "category": "natural",
+                  "coords": [
+                        128.4404,
+                        34.844778
+                  ]
+            },
+            {
+                  "name": "윤이상기념관",
+                  "text": "Ez az emlékmű a helyi történelmet ünnepli Tongyeong városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.413731,
+                        34.838512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "통영시 향토역사관",
+                  "text": "Muzeul de Istorie Locală Tongyeongsi păstrează patrimoniul regional din Tongyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.423302,
+                        34.846205
+                  ]
+            },
+            {
+                  "name": "통영불교전시관",
+                  "text": "Acesta este un muzeu dedicat culturii budiste, situat în Tongyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.427106,
+                        34.846395
+                  ]
+            },
+            {
+                  "name": "전혁림미술관",
+                  "text": "Galeria de Artă Jeon Hyeok Lim este un muzeu de artă situat în orașul Tongyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.415516,
+                        34.827055
+                  ]
+            },
+            {
+                  "name": "스카이라인루지 통영",
+                  "text": "Acest loc este un parc tematic în aer liber și o destinație de agrement din Tongyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.424808,
+                        34.82352
+                  ]
+            },
+            {
+                  "name": "디피랑",
+                  "text": "Acesta este un parc de distracții modern situat în orașul Tongyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.428753,
+                        34.841228
+                  ]
+            },
+            {
+                  "name": "문화동배수시설",
+                  "text": "Acesta este un sit arheologic legat de infrastructura istorică din Tongyeong.",
+                  "category": "historical",
+                  "coords": [
+                        128.420772,
+                        34.845608
+                  ]
+            },
+            {
+                  "name": "통영시민문화회관",
+                  "text": "Acest teatru și centru cultural local este situat în Tongyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.42843,
+                        34.842147
+                  ]
+            },
+            {
+                  "name": "Tongyeong Concert Hall",
+                  "text": "Tongyeong Concert Hall este un loc dedicat spectacolelor muzicale din Tongyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.440042,
+                        34.826048
+                  ]
+            },
+            {
+                  "name": "통영삼도수군통제영",
+                  "text": "Acest sit este o fortăreață navală istorică situată în Tongyeong.",
+                  "category": "fortress",
+                  "coords": [
+                        128.423015,
+                        34.848219
+                  ]
+            },
+            {
+                  "name": "동방화랑",
+                  "text": "Dongbang Gallery este un centru de arte situat în orașul Tongyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.422783,
+                        34.84366
+                  ]
+            },
+            {
+                  "name": "충렬사",
+                  "text": "Această atracție istorică este situată în orașul Tongyeong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.417506,
+                        34.846947
+                  ]
+            },
+            {
+                  "name": "서피랑",
+                  "text": "Această atracție locală populară este situată în Tongyeong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.420897,
+                        34.844569
+                  ]
+            },
+            {
+                  "name": "パフォーマー 歌",
+                  "text": "Această atracție unică de performanță se găsește în orașul Tongyeong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.423979,
+                        34.844526
+                  ]
+            },
+            {
+                  "name": "새뫼넘어끝",
+                  "text": "Acesta este un punct de belvedere pitoresc care oferă priveliști panoramice în Tongyeong.",
+                  "category": "natural",
+                  "coords": [
+                        128.45365,
+                        34.8651
+                  ]
+            },
+            {
+                  "name": "통일전망대",
+                  "text": "Acest punct de observație pitoresc este situat în orașul Tongyeong.",
+                  "category": "natural",
+                  "coords": [
+                        128.4404,
+                        34.844778
+                  ]
+            },
+            {
+                  "name": "윤이상기념관",
+                  "text": "Acest monument comemorativ celebrează istoria locală din orașul Tongyeong.",
+                  "category": "historical",
+                  "coords": [
+                        128.413731,
+                        34.838512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tongyeongsi Local History Museum",
+                  "text": "The Tongyeongsi Local History Museum preserves the regional heritage of Tongyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.423302,
+                        34.846205
+                  ]
+            },
+            {
+                  "name": "Tongyeong Buddhism Exhibition Hall",
+                  "text": "This is a museum dedicated to Buddhist culture, located in Tongyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.427106,
+                        34.846395
+                  ]
+            },
+            {
+                  "name": "Jeon Hyeok Lim Art Gallery",
+                  "text": "The Jeon Hyeok Lim Art Gallery is an art museum situated in the city of Tongyeong.",
+                  "category": "museum",
+                  "coords": [
+                        128.415516,
+                        34.827055
+                  ]
+            },
+            {
+                  "name": "스카이라인루지 통영",
+                  "text": "This site is an outdoor theme park and leisure destination in Tongyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.424808,
+                        34.82352
+                  ]
+            },
+            {
+                  "name": "디피랑",
+                  "text": "This is a modern theme park located in the city of Tongyeong.",
+                  "category": "recreational",
+                  "coords": [
+                        128.428753,
+                        34.841228
+                  ]
+            },
+            {
+                  "name": "문화동배수시설",
+                  "text": "This is an archaeological site relating to historical infrastructure in Tongyeong.",
+                  "category": "historical",
+                  "coords": [
+                        128.420772,
+                        34.845608
+                  ]
+            },
+            {
+                  "name": "통영시민문화회관",
+                  "text": "This local theatre and cultural center is situated in Tongyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.42843,
+                        34.842147
+                  ]
+            },
+            {
+                  "name": "Tongyeong Concert Hall",
+                  "text": "The Tongyeong Concert Hall is a dedicated venue for musical performances in Tongyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.440042,
+                        34.826048
+                  ]
+            },
+            {
+                  "name": "통영삼도수군통제영",
+                  "text": "This site is a historical naval fortress located in Tongyeong.",
+                  "category": "fortress",
+                  "coords": [
+                        128.423015,
+                        34.848219
+                  ]
+            },
+            {
+                  "name": "Dongbang Gallery",
+                  "text": "Dongbang Gallery is a center for the arts located in the city of Tongyeong.",
+                  "category": "cultural",
+                  "coords": [
+                        128.422783,
+                        34.84366
+                  ]
+            },
+            {
+                  "name": "충렬사",
+                  "text": "This historic attraction is situated in the city of Tongyeong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.417506,
+                        34.846947
+                  ]
+            },
+            {
+                  "name": "서피랑",
+                  "text": "This popular local attraction is located in Tongyeong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.420897,
+                        34.844569
+                  ]
+            },
+            {
+                  "name": "パフォーマー 歌",
+                  "text": "This unique performance attraction is found in the city of Tongyeong.",
+                  "category": "landmark",
+                  "coords": [
+                        128.423979,
+                        34.844526
+                  ]
+            },
+            {
+                  "name": "새뫼넘어끝",
+                  "text": "This is a scenic viewpoint offering panoramic sights in Tongyeong.",
+                  "category": "natural",
+                  "coords": [
+                        128.45365,
+                        34.8651
+                  ]
+            },
+            {
+                  "name": "통일전망대",
+                  "text": "This scenic observatory viewpoint is situated in the city of Tongyeong.",
+                  "category": "natural",
+                  "coords": [
+                        128.4404,
+                        34.844778
+                  ]
+            },
+            {
+                  "name": "윤이상기념관",
+                  "text": "This memorial monument celebrates local history in the city of Tongyeong.",
+                  "category": "historical",
+                  "coords": [
+                        128.413731,
+                        34.838512
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-48",
     coords: [128.4340, 34.8450],
@@ -1347,7 +8403,520 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "miryang-city-cities-v2",
+    id: "miryang-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "영남루",
+                  "text": "영남루 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.7551,
+                        35.491574
+                  ]
+            },
+            {
+                  "name": "밀양관아",
+                  "text": "밀양관아 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.754088,
+                        35.494242
+                  ]
+            },
+            {
+                  "name": "밀성박씨대종회",
+                  "text": "밀성박씨대종회 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.7556,
+                        35.494756
+                  ]
+            },
+            {
+                  "name": "김종직생가",
+                  "text": "김종직생가 ist ein historisches Schloss in der Stadt Miryang.",
+                  "category": "castle",
+                  "coords": [
+                        128.718846,
+                        35.48394
+                  ]
+            },
+            {
+                  "name": "봉수대",
+                  "text": "봉수대 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.769006,
+                        35.503799
+                  ]
+            },
+            {
+                  "name": "성황사유지",
+                  "text": "성황사유지 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.77114,
+                        35.50283
+                  ]
+            },
+            {
+                  "name": "밀양시립박물관",
+                  "text": "Das Miryang Municipal Museum ist ein Museum in der Stadt Miryang.",
+                  "category": "museum",
+                  "coords": [
+                        128.759197,
+                        35.50319
+                  ]
+            },
+            {
+                  "name": "밀양향교",
+                  "text": "밀양향교 ist eine archäologische Stätte in der Stadt Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.754583,
+                        35.506538
+                  ]
+            },
+            {
+                  "name": "동방화랑",
+                  "text": "Die Dongbang Gallery ist ein Kunstzentrum in der Stadt Miryang.",
+                  "category": "cultural",
+                  "coords": [
+                        128.754355,
+                        35.480572
+                  ]
+            },
+            {
+                  "name": "서갤러리",
+                  "text": "Die Seo Gallery ist ein Kunstzentrum in der Stadt Miryang.",
+                  "category": "cultural",
+                  "coords": [
+                        128.774541,
+                        35.489269
+                  ]
+            },
+            {
+                  "name": "용평동 회화나무",
+                  "text": "용평동 회화나무 ist ein Aussichtspunkt in der Stadt Miryang.",
+                  "category": "natural",
+                  "coords": [
+                        128.773318,
+                        35.488698
+                  ]
+            },
+            {
+                  "name": "달팽이전망대",
+                  "text": "달팽이전망대 ist ein Aussichtspunkt in der Stadt Miryang.",
+                  "category": "natural",
+                  "coords": [
+                        128.773452,
+                        35.478931
+                  ]
+            },
+            {
+                  "name": "대공연장",
+                  "text": "대공연장 ist ein Kunstzentrum in der Stadt Miryang.",
+                  "category": "cultural",
+                  "coords": [
+                        128.758398,
+                        35.504394
+                  ]
+            },
+            {
+                  "name": "(주)수목원 (Arboretum)",
+                  "text": "Das Arboretum ist ein beliebter Picknickplatz in der Stadt Miryang.",
+                  "category": "landmark",
+                  "coords": [
+                        128.744047,
+                        35.496917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "영남루",
+                  "text": "A 영남루 egy régészeti lelőhely Miryang városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.7551,
+                        35.491574
+                  ]
+            },
+            {
+                  "name": "밀양관아",
+                  "text": "A 밀양관아 egy régészeti lelőhely Miryang városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.754088,
+                        35.494242
+                  ]
+            },
+            {
+                  "name": "밀성박씨대종회",
+                  "text": "A 밀성박씨대종회 egy régészeti lelőhely Miryang városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.7556,
+                        35.494756
+                  ]
+            },
+            {
+                  "name": "김종직생가",
+                  "text": "A 김종직생가 egy történelmi kastély Miryang városában.",
+                  "category": "castle",
+                  "coords": [
+                        128.718846,
+                        35.48394
+                  ]
+            },
+            {
+                  "name": "봉수대",
+                  "text": "A 봉수대 egy régészeti lelőhely Miryang városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.769006,
+                        35.503799
+                  ]
+            },
+            {
+                  "name": "성황사유지",
+                  "text": "A 성황사유지 egy régészeti lelőhely Miryang városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.77114,
+                        35.50283
+                  ]
+            },
+            {
+                  "name": "밀양시립박물관",
+                  "text": "A Miryang Municipal Museum egy múzeum Miryang városában.",
+                  "category": "museum",
+                  "coords": [
+                        128.759197,
+                        35.50319
+                  ]
+            },
+            {
+                  "name": "밀양향교",
+                  "text": "A 밀양향교 egy régészeti lelőhely Miryang városában.",
+                  "category": "historical",
+                  "coords": [
+                        128.754583,
+                        35.506538
+                  ]
+            },
+            {
+                  "name": "동방화랑",
+                  "text": "A Dongbang Gallery egy művészeti központ Miryang városában.",
+                  "category": "cultural",
+                  "coords": [
+                        128.754355,
+                        35.480572
+                  ]
+            },
+            {
+                  "name": "서갤러리",
+                  "text": "A Seo Gallery egy művészeti központ Miryang városában.",
+                  "category": "cultural",
+                  "coords": [
+                        128.774541,
+                        35.489269
+                  ]
+            },
+            {
+                  "name": "용평동 회화나무",
+                  "text": "A 용평동 회화나무 egy kilátó Miryang városában.",
+                  "category": "natural",
+                  "coords": [
+                        128.773318,
+                        35.488698
+                  ]
+            },
+            {
+                  "name": "달팽이전망대",
+                  "text": "A 달팽이전망대 egy kilátó Miryang városában.",
+                  "category": "natural",
+                  "coords": [
+                        128.773452,
+                        35.478931
+                  ]
+            },
+            {
+                  "name": "대공연장",
+                  "text": "A 대공연장 egy művészeti központ Miryang városában.",
+                  "category": "cultural",
+                  "coords": [
+                        128.758398,
+                        35.504394
+                  ]
+            },
+            {
+                  "name": "(주)수목원 (Arboretum)",
+                  "text": "Az Arboretum egy népszerű piknikezőhely Miryang városában.",
+                  "category": "landmark",
+                  "coords": [
+                        128.744047,
+                        35.496917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "영남루",
+                  "text": "영남루 este un sit arheologic în orașul Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.7551,
+                        35.491574
+                  ]
+            },
+            {
+                  "name": "밀양관아",
+                  "text": "밀양관아 este un sit arheologic în orașul Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.754088,
+                        35.494242
+                  ]
+            },
+            {
+                  "name": "밀성박씨대종회",
+                  "text": "밀성박씨대종회 este un sit arheologic în orașul Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.7556,
+                        35.494756
+                  ]
+            },
+            {
+                  "name": "김종직생가",
+                  "text": "김종직생가 este un castel istoric în orașul Miryang.",
+                  "category": "castle",
+                  "coords": [
+                        128.718846,
+                        35.48394
+                  ]
+            },
+            {
+                  "name": "봉수대",
+                  "text": "봉수대 este un sit arheologic în orașul Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.769006,
+                        35.503799
+                  ]
+            },
+            {
+                  "name": "성황사유지",
+                  "text": "성황사유지 este un sit arheologic în orașul Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.77114,
+                        35.50283
+                  ]
+            },
+            {
+                  "name": "밀양시립박물관",
+                  "text": "Miryang Municipal Museum este un muzeu în orașul Miryang.",
+                  "category": "museum",
+                  "coords": [
+                        128.759197,
+                        35.50319
+                  ]
+            },
+            {
+                  "name": "밀양향교",
+                  "text": "밀양향교 este un sit arheologic în orașul Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.754583,
+                        35.506538
+                  ]
+            },
+            {
+                  "name": "동방화랑",
+                  "text": "Dongbang Gallery este un centru de arte în orașul Miryang.",
+                  "category": "cultural",
+                  "coords": [
+                        128.754355,
+                        35.480572
+                  ]
+            },
+            {
+                  "name": "서갤러리",
+                  "text": "Seo Gallery este un centru de arte în orașul Miryang.",
+                  "category": "cultural",
+                  "coords": [
+                        128.774541,
+                        35.489269
+                  ]
+            },
+            {
+                  "name": "용평동 회화나무",
+                  "text": "용평동 회화나무 este un punct de belvedere în orașul Miryang.",
+                  "category": "natural",
+                  "coords": [
+                        128.773318,
+                        35.488698
+                  ]
+            },
+            {
+                  "name": "달팽이전망대",
+                  "text": "달팽이전망대 este un punct de belvedere în orașul Miryang.",
+                  "category": "natural",
+                  "coords": [
+                        128.773452,
+                        35.478931
+                  ]
+            },
+            {
+                  "name": "대공연장",
+                  "text": "대공연장 este un centru de arte în orașul Miryang.",
+                  "category": "cultural",
+                  "coords": [
+                        128.758398,
+                        35.504394
+                  ]
+            },
+            {
+                  "name": "(주)수목원 (Arboretum)",
+                  "text": "Arboretum este un loc de picnic în orașul Miryang.",
+                  "category": "landmark",
+                  "coords": [
+                        128.744047,
+                        35.496917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "영남루",
+                  "text": "영남루 is an archaeological site located in the city of Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.7551,
+                        35.491574
+                  ]
+            },
+            {
+                  "name": "밀양관아",
+                  "text": "밀양관아 is an archaeological site located in the city of Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.754088,
+                        35.494242
+                  ]
+            },
+            {
+                  "name": "밀성박씨대종회",
+                  "text": "밀성박씨대종회 is an archaeological site located in the city of Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.7556,
+                        35.494756
+                  ]
+            },
+            {
+                  "name": "김종직생가",
+                  "text": "김종직생가 is a historical castle located in the city of Miryang.",
+                  "category": "castle",
+                  "coords": [
+                        128.718846,
+                        35.48394
+                  ]
+            },
+            {
+                  "name": "봉수대",
+                  "text": "봉수대 is an archaeological site located in the city of Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.769006,
+                        35.503799
+                  ]
+            },
+            {
+                  "name": "성황사유지",
+                  "text": "성황사유지 is an archaeological site located in the city of Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.77114,
+                        35.50283
+                  ]
+            },
+            {
+                  "name": "Miryang Municipal Museum",
+                  "text": "The Miryang Municipal Museum is a museum located in the city of Miryang.",
+                  "category": "museum",
+                  "coords": [
+                        128.759197,
+                        35.50319
+                  ]
+            },
+            {
+                  "name": "밀양향교",
+                  "text": "밀양향교 is an archaeological site located in the city of Miryang.",
+                  "category": "historical",
+                  "coords": [
+                        128.754583,
+                        35.506538
+                  ]
+            },
+            {
+                  "name": "Dongbang Gallery",
+                  "text": "The Dongbang Gallery is an arts centre located in the city of Miryang.",
+                  "category": "cultural",
+                  "coords": [
+                        128.754355,
+                        35.480572
+                  ]
+            },
+            {
+                  "name": "Seo Gallery",
+                  "text": "The Seo Gallery is an arts centre located in the city of Miryang.",
+                  "category": "cultural",
+                  "coords": [
+                        128.774541,
+                        35.489269
+                  ]
+            },
+            {
+                  "name": "용평동 회화나무",
+                  "text": "용평동 회화나무 is a viewpoint located in the city of Miryang.",
+                  "category": "natural",
+                  "coords": [
+                        128.773318,
+                        35.488698
+                  ]
+            },
+            {
+                  "name": "달팽이전망대",
+                  "text": "달팽이전망대 is a viewpoint located in the city of Miryang.",
+                  "category": "natural",
+                  "coords": [
+                        128.773452,
+                        35.478931
+                  ]
+            },
+            {
+                  "name": "대공연장",
+                  "text": "대공연장 is an arts centre located in the city of Miryang.",
+                  "category": "cultural",
+                  "coords": [
+                        128.758398,
+                        35.504394
+                  ]
+            },
+            {
+                  "name": "Arboretum",
+                  "text": "The Arboretum is a picnic site located in the city of Miryang.",
+                  "category": "landmark",
+                  "coords": [
+                        128.744047,
+                        35.496917
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KR-48",
     coords: [128.7450, 35.4920],

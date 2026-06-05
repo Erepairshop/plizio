@@ -859,7 +859,52 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "nasir-cities-v2",
+    id: "nasir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wadh Nyachar/Wadh Wäär Joguol",
+                  "text": "Dieser Ort ist ein öffentlicher Strand in Nasir.",
+                  "category": "recreational",
+                  "coords": [
+                        33.075328,
+                        8.614369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wadh Nyachar/Wadh Wäär Joguol",
+                  "text": "Ez a hely egy nyilvános strand Nasir városában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.075328,
+                        8.614369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wadh Nyachar/Wadh Wäär Joguol",
+                  "text": "Acest loc este o plajă publică situată în Nasir.",
+                  "category": "recreational",
+                  "coords": [
+                        33.075328,
+                        8.614369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wadh Nyachar/Wadh Wäär Joguol",
+                  "text": "This site is a public beach located in Nasir.",
+                  "category": "recreational",
+                  "coords": [
+                        33.075328,
+                        8.614369
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SS-NU",
     coords: [33.056, 8.599],
@@ -955,7 +1000,52 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "magwi-cities-v2",
+    id: "magwi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fr. Leopoldo Anywar Museum",
+                  "text": "Das Fr. Leopoldo Anywar Museum ist ein Museum in der Stadt Magwi.",
+                  "category": "museum",
+                  "coords": [
+                        32.300487,
+                        4.125778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fr. Leopoldo Anywar Museum",
+                  "text": "A Fr. Leopoldo Anywar Museum egy múzeum Magwi városában.",
+                  "category": "museum",
+                  "coords": [
+                        32.300487,
+                        4.125778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fr. Leopoldo Anywar Museum",
+                  "text": "Fr. Leopoldo Anywar Museum este un muzeu în orașul Magwi.",
+                  "category": "museum",
+                  "coords": [
+                        32.300487,
+                        4.125778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fr. Leopoldo Anywar Museum",
+                  "text": "The Fr. Leopoldo Anywar Museum is a museum located in the city of Magwi.",
+                  "category": "museum",
+                  "coords": [
+                        32.300487,
+                        4.125778
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SS-EE",
     coords: [32.301, 4.137],
@@ -2143,7 +2233,52 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "fangak-cities-v2",
+    id: "fangak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "plane",
+                  "text": "Überreste eines historischen Flugzeugs in der Gegend von Fangak.",
+                  "category": "historical",
+                  "coords": [
+                        30.879859,
+                        9.079483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "plane",
+                  "text": "Egy történelmi repülőgép maradványai Fangak környékén.",
+                  "category": "historical",
+                  "coords": [
+                        30.879859,
+                        9.079483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "plane",
+                  "text": "Rămășițele unui avion istoric situate în zona Fangak.",
+                  "category": "historical",
+                  "coords": [
+                        30.879859,
+                        9.079483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "plane",
+                  "text": "Historical plane remains located in the Fangak area.",
+                  "category": "historical",
+                  "coords": [
+                        30.879859,
+                        9.079483
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SS-JO",
     coords: [30.881, 9.071],

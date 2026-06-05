@@ -93,7 +93,232 @@ export const barbadosEconomicV2: POI[] = [
     image: "/poi-images/barbados-grantley-adams-airport-economic-v2.webp",
   },
   {
-    id: "barbados-warrens-business-district-economic-v2",
+    id: "barbados-warrens-business-district-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Richard Stoute Amphitheatre",
+                  "text": "Theater in Warrens.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.603221,
+                        13.126506
+                  ]
+            },
+            {
+                  "name": "Tyrol Cot (Home of Grantley Adams)",
+                  "text": "Touristenattraktion in Warrens.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.607209,
+                        13.125193
+                  ]
+            },
+            {
+                  "name": "Welches Great House",
+                  "text": "Herrenhaus in Warrens.",
+                  "category": "historical",
+                  "coords": [
+                        -59.614306,
+                        13.154051
+                  ]
+            },
+            {
+                  "name": "Cane Garden Plantation",
+                  "text": "Alte Windmühle in Warrens.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.593178,
+                        13.153122
+                  ]
+            },
+            {
+                  "name": "Canewood Plantation",
+                  "text": "Alte Windmühle in Warrens.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.593552,
+                        13.147119
+                  ]
+            },
+            {
+                  "name": "Sharon Moravian Church",
+                  "text": "Herrnhuter Kirche in Warrens.",
+                  "category": "religious",
+                  "coords": [
+                        -59.60046,
+                        13.151793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Richard Stoute Amphitheatre",
+                  "text": "Színház Warrensben.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.603221,
+                        13.126506
+                  ]
+            },
+            {
+                  "name": "Tyrol Cot (Home of Grantley Adams)",
+                  "text": "Turistalátványosság Warrensben.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.607209,
+                        13.125193
+                  ]
+            },
+            {
+                  "name": "Welches Great House",
+                  "text": "Udvarház Warrensben.",
+                  "category": "historical",
+                  "coords": [
+                        -59.614306,
+                        13.154051
+                  ]
+            },
+            {
+                  "name": "Cane Garden Plantation",
+                  "text": "Régi szélmalom Warrensben.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.593178,
+                        13.153122
+                  ]
+            },
+            {
+                  "name": "Canewood Plantation",
+                  "text": "Régi szélmalom Warrensben.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.593552,
+                        13.147119
+                  ]
+            },
+            {
+                  "name": "Sharon Moravian Church",
+                  "text": "Herrnhuti templom Warrensben.",
+                  "category": "religious",
+                  "coords": [
+                        -59.60046,
+                        13.151793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Richard Stoute Amphitheatre",
+                  "text": "Teatru în Warrens.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.603221,
+                        13.126506
+                  ]
+            },
+            {
+                  "name": "Tyrol Cot (Home of Grantley Adams)",
+                  "text": "Atracție turistică în Warrens.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.607209,
+                        13.125193
+                  ]
+            },
+            {
+                  "name": "Welches Great House",
+                  "text": "Conac în Warrens.",
+                  "category": "historical",
+                  "coords": [
+                        -59.614306,
+                        13.154051
+                  ]
+            },
+            {
+                  "name": "Cane Garden Plantation",
+                  "text": "Moară de vânt veche în Warrens.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.593178,
+                        13.153122
+                  ]
+            },
+            {
+                  "name": "Canewood Plantation",
+                  "text": "Moară de vânt veche în Warrens.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.593552,
+                        13.147119
+                  ]
+            },
+            {
+                  "name": "Sharon Moravian Church",
+                  "text": "Biserică moravă în Warrens.",
+                  "category": "religious",
+                  "coords": [
+                        -59.60046,
+                        13.151793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Richard Stoute Amphitheatre",
+                  "text": "Theatre in Warrens.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.603221,
+                        13.126506
+                  ]
+            },
+            {
+                  "name": "Tyrol Cot (Home of Grantley Adams)",
+                  "text": "Tourist attraction in Warrens.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.607209,
+                        13.125193
+                  ]
+            },
+            {
+                  "name": "Welches Great House",
+                  "text": "Manor in Warrens.",
+                  "category": "historical",
+                  "coords": [
+                        -59.614306,
+                        13.154051
+                  ]
+            },
+            {
+                  "name": "Cane Garden Plantation",
+                  "text": "Old windmill in Warrens.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.593178,
+                        13.153122
+                  ]
+            },
+            {
+                  "name": "Canewood Plantation",
+                  "text": "Old windmill in Warrens.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.593552,
+                        13.147119
+                  ]
+            },
+            {
+                  "name": "Sharon Moravian Church",
+                  "text": "Moravian church in Warrens.",
+                  "category": "religious",
+                  "coords": [
+                        -59.60046,
+                        13.151793
+                  ]
+            }
+      ]
+},
     parent: "BB",
     type: "city",
     name: { de: "Warrens Geschäftsviertel", hu: "Warrens üzleti negyed", ro: "Districtul de Afaceri Warrens", en: "Warrens Business District" },

@@ -3,7 +3,628 @@ import { POI } from './poi';
 export const mauritiusCitiesV2: POI[] = [
 
   {
-    id: "mauritius-port-louis-cities-v2",
+    id: "mauritius-port-louis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blue Penny Museum",
+                  "text": "Das Blue Penny Museum in Port Louis ist berühmt für die Ausstellung seltener Briefmarken, darunter die Blaue Mauritius.",
+                  "category": "museum",
+                  "coords": [
+                        57.497501,
+                        -20.160906
+                  ]
+            },
+            {
+                  "name": "Théatre de Port Louis",
+                  "text": "Das Théatre de Port Louis ist ein lokales Theater in Port Louis.",
+                  "category": "cultural",
+                  "coords": [
+                        57.504378,
+                        -20.163582
+                  ]
+            },
+            {
+                  "name": "Fort Adelaide",
+                  "text": "Fort Adelaide, oft auch als Zitadelle bezeichnet, ist eine historische Burg über der Stadt Port Louis.",
+                  "category": "castle",
+                  "coords": [
+                        57.510253,
+                        -20.163729
+                  ]
+            },
+            {
+                  "name": "Postal Museum",
+                  "text": "Das Postal Museum in Port Louis zeigt die umfangreiche Geschichte des mauritischen Postwesens.",
+                  "category": "museum",
+                  "coords": [
+                        57.501651,
+                        -20.159934
+                  ]
+            },
+            {
+                  "name": "Aapravasi Ghat",
+                  "text": "Das Aapravasi Ghat ist ein Museum in Port Louis.",
+                  "category": "museum",
+                  "coords": [
+                        57.503002,
+                        -20.158495
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Odysseo ist ein öffentliches Aquarium in Port Louis.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Priest's Peak",
+                  "text": "Priest's Peak ist ein markanter Berggipfel in der Nähe von Port Louis.",
+                  "category": "natural",
+                  "coords": [
+                        57.524975,
+                        -20.163853
+                  ]
+            },
+            {
+                  "name": "Malartic Tomb",
+                  "text": "Das Malartic Tomb ist ein Denkmal in Port Louis.",
+                  "category": "historical",
+                  "coords": [
+                        57.511523,
+                        -20.170626
+                  ]
+            },
+            {
+                  "name": "Signal Mountain",
+                  "text": "Signal Mountain ist ein malerischer Aussichtspunkt über Port Louis.",
+                  "category": "natural",
+                  "coords": [
+                        57.492247,
+                        -20.174257
+                  ]
+            },
+            {
+                  "name": "Léoville L'Homme",
+                  "text": "Léoville L'Homme ist eine lokale Sehenswürdigkeit in Port Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502202,
+                        -20.163946
+                  ]
+            },
+            {
+                  "name": "TOMBEAU MALARTIC",
+                  "text": "Das TOMBEAU MALARTIC ist ein historisches Denkmal in Port Louis.",
+                  "category": "historical",
+                  "coords": [
+                        57.51009,
+                        -20.169277
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "Das Rivulet Terre Rouge Bird Sanctuary ist eine Naturattraktion in Port Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "Der Central Market ist eine belebte lokale Sehenswürdigkeit in Port Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502696,
+                        -20.160588
+                  ]
+            },
+            {
+                  "name": "Centre d'Arts Caudan",
+                  "text": "Das Centre d'Arts Caudan ist ein Kunstzentrum in Port Louis.",
+                  "category": "cultural",
+                  "coords": [
+                        57.498197,
+                        -20.161979
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "Der Chinatown Arch ist ein kulturelles Denkmal in Port Louis.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "St Louis Cathedral",
+                  "text": "Die St Louis Cathedral ist ein bedeutendes katholisches Gotteshaus in Port Louis.",
+                  "category": "religious",
+                  "coords": [
+                        57.506462,
+                        -20.164535
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "Die Jummah Mosque ist ein hoch angesehenes islamisches Gotteshaus in Port Louis.",
+                  "category": "religious",
+                  "coords": [
+                        57.505068,
+                        -20.159666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blue Penny Museum",
+                  "text": "A Port Louis-i Blue Penny Museum a ritka bélyegeiről, köztük a híres Kék Mauritius-ról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        57.497501,
+                        -20.160906
+                  ]
+            },
+            {
+                  "name": "Théatre de Port Louis",
+                  "text": "A Théatre de Port Louis egy helyi színház Port Louis városában.",
+                  "category": "cultural",
+                  "coords": [
+                        57.504378,
+                        -20.163582
+                  ]
+            },
+            {
+                  "name": "Fort Adelaide",
+                  "text": "A Fort Adelaide, amelyet Citadellaként is emlegetnek, egy történelmi erődítmény Port Louis felett.",
+                  "category": "castle",
+                  "coords": [
+                        57.510253,
+                        -20.163729
+                  ]
+            },
+            {
+                  "name": "Postal Museum",
+                  "text": "A Port Louis-i Postal Museum a mauritiusi postaszolgálat kiterjedt történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        57.501651,
+                        -20.159934
+                  ]
+            },
+            {
+                  "name": "Aapravasi Ghat",
+                  "text": "Az Aapravasi Ghat egy múzeum Port Louis városában.",
+                  "category": "museum",
+                  "coords": [
+                        57.503002,
+                        -20.158495
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Az Odysseo egy nyilvános akvárium Port Louis városában.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Priest's Peak",
+                  "text": "A Priest's Peak egy kiemelkedő hegycsúcs Port Louis közelében.",
+                  "category": "natural",
+                  "coords": [
+                        57.524975,
+                        -20.163853
+                  ]
+            },
+            {
+                  "name": "Malartic Tomb",
+                  "text": "A Malartic Tomb egy emlékmű Port Louis városában.",
+                  "category": "historical",
+                  "coords": [
+                        57.511523,
+                        -20.170626
+                  ]
+            },
+            {
+                  "name": "Signal Mountain",
+                  "text": "A Signal Mountain egy festői kilátó, amely Port Louis városára néz.",
+                  "category": "natural",
+                  "coords": [
+                        57.492247,
+                        -20.174257
+                  ]
+            },
+            {
+                  "name": "Léoville L'Homme",
+                  "text": "A Léoville L'Homme egy helyi látványosság Port Louis városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502202,
+                        -20.163946
+                  ]
+            },
+            {
+                  "name": "TOMBEAU MALARTIC",
+                  "text": "A TOMBEAU MALARTIC egy történelmi emlékmű Port Louis városában.",
+                  "category": "historical",
+                  "coords": [
+                        57.51009,
+                        -20.169277
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "A Rivulet Terre Rouge Bird Sanctuary egy természeti látványosság Port Louis városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "A Central Market egy nyüzsgő helyi látványosság Port Louis városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502696,
+                        -20.160588
+                  ]
+            },
+            {
+                  "name": "Centre d'Arts Caudan",
+                  "text": "A Centre d'Arts Caudan egy művészeti központ Port Louis városában.",
+                  "category": "cultural",
+                  "coords": [
+                        57.498197,
+                        -20.161979
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "A Chinatown Arch egy kulturális emlékmű Port Louis városában.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "St Louis Cathedral",
+                  "text": "A St Louis Cathedral egy jelentős katolikus istentiszteleti hely Port Louis városában.",
+                  "category": "religious",
+                  "coords": [
+                        57.506462,
+                        -20.164535
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "A Jummah Mosque egy nagyra becsült iszlám istentiszteleti hely Port Louis városában.",
+                  "category": "religious",
+                  "coords": [
+                        57.505068,
+                        -20.159666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blue Penny Museum",
+                  "text": "Blue Penny Museum din Port Louis este renumit pentru expunerea unor timbre rare, inclusiv celebrul Blue Penny.",
+                  "category": "museum",
+                  "coords": [
+                        57.497501,
+                        -20.160906
+                  ]
+            },
+            {
+                  "name": "Théatre de Port Louis",
+                  "text": "Théatre de Port Louis este un teatru local situat în Port Louis.",
+                  "category": "cultural",
+                  "coords": [
+                        57.504378,
+                        -20.163582
+                  ]
+            },
+            {
+                  "name": "Fort Adelaide",
+                  "text": "Fort Adelaide, denumit și Citadela, este un castel istoric situat pe un deal cu vedere la Port Louis.",
+                  "category": "castle",
+                  "coords": [
+                        57.510253,
+                        -20.163729
+                  ]
+            },
+            {
+                  "name": "Postal Museum",
+                  "text": "Postal Museum din Port Louis prezintă istoria vastă a serviciului poștal mauritian.",
+                  "category": "museum",
+                  "coords": [
+                        57.501651,
+                        -20.159934
+                  ]
+            },
+            {
+                  "name": "Aapravasi Ghat",
+                  "text": "Aapravasi Ghat este un muzeu situat în Port Louis.",
+                  "category": "museum",
+                  "coords": [
+                        57.503002,
+                        -20.158495
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Odysseo este un acvariu public situat în Port Louis.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Priest's Peak",
+                  "text": "Priest's Peak este un vârf montan proeminent situat lângă Port Louis.",
+                  "category": "natural",
+                  "coords": [
+                        57.524975,
+                        -20.163853
+                  ]
+            },
+            {
+                  "name": "Malartic Tomb",
+                  "text": "Malartic Tomb este un monument aflat în Port Louis.",
+                  "category": "historical",
+                  "coords": [
+                        57.511523,
+                        -20.170626
+                  ]
+            },
+            {
+                  "name": "Signal Mountain",
+                  "text": "Signal Mountain este un punct de belvedere panoramic care oferă priveliști asupra orașului Port Louis.",
+                  "category": "natural",
+                  "coords": [
+                        57.492247,
+                        -20.174257
+                  ]
+            },
+            {
+                  "name": "Léoville L'Homme",
+                  "text": "Léoville L'Homme este o atracție locală situată în Port Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502202,
+                        -20.163946
+                  ]
+            },
+            {
+                  "name": "TOMBEAU MALARTIC",
+                  "text": "TOMBEAU MALARTIC este un monument istoric situat în Port Louis.",
+                  "category": "historical",
+                  "coords": [
+                        57.51009,
+                        -20.169277
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "Rivulet Terre Rouge Bird Sanctuary este o atracție axată pe natură din Port Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "Central Market este o atracție locală animată situată în Port Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502696,
+                        -20.160588
+                  ]
+            },
+            {
+                  "name": "Centre d'Arts Caudan",
+                  "text": "Centre d'Arts Caudan este un centru de arte din Port Louis.",
+                  "category": "cultural",
+                  "coords": [
+                        57.498197,
+                        -20.161979
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "Chinatown Arch este un monument cultural situat în Port Louis.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "St Louis Cathedral",
+                  "text": "St Louis Cathedral este un important lăcaș de cult catolic situat în Port Louis.",
+                  "category": "religious",
+                  "coords": [
+                        57.506462,
+                        -20.164535
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "Jummah Mosque este un lăcaș de cult islamic foarte apreciat situat în Port Louis.",
+                  "category": "religious",
+                  "coords": [
+                        57.505068,
+                        -20.159666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blue Penny Museum",
+                  "text": "The Blue Penny Museum in Port Louis is renowned for housing rare stamps, including the famous Blue Penny.",
+                  "category": "museum",
+                  "coords": [
+                        57.497501,
+                        -20.160906
+                  ]
+            },
+            {
+                  "name": "Théatre de Port Louis",
+                  "text": "Théatre de Port Louis is a local theatre venue situated in Port Louis.",
+                  "category": "cultural",
+                  "coords": [
+                        57.504378,
+                        -20.163582
+                  ]
+            },
+            {
+                  "name": "Fort Adelaide",
+                  "text": "Fort Adelaide, often referred to as the Citadel, is a historic hilltop castle overlooking Port Louis.",
+                  "category": "castle",
+                  "coords": [
+                        57.510253,
+                        -20.163729
+                  ]
+            },
+            {
+                  "name": "Postal Museum",
+                  "text": "The Postal Museum in Port Louis showcases the extensive history of the Mauritian postal service.",
+                  "category": "museum",
+                  "coords": [
+                        57.501651,
+                        -20.159934
+                  ]
+            },
+            {
+                  "name": "Aapravasi Ghat",
+                  "text": "Aapravasi Ghat is a museum situated in Port Louis.",
+                  "category": "museum",
+                  "coords": [
+                        57.503002,
+                        -20.158495
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Odysseo is a public aquarium located in Port Louis.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Priest's Peak",
+                  "text": "Priest's Peak is a prominent geographical peak located near Port Louis.",
+                  "category": "natural",
+                  "coords": [
+                        57.524975,
+                        -20.163853
+                  ]
+            },
+            {
+                  "name": "Malartic Tomb",
+                  "text": "The Malartic Tomb is a monument found in Port Louis.",
+                  "category": "historical",
+                  "coords": [
+                        57.511523,
+                        -20.170626
+                  ]
+            },
+            {
+                  "name": "Signal Mountain",
+                  "text": "Signal Mountain is a scenic viewpoint offering vistas over Port Louis.",
+                  "category": "natural",
+                  "coords": [
+                        57.492247,
+                        -20.174257
+                  ]
+            },
+            {
+                  "name": "Léoville L'Homme",
+                  "text": "Léoville L'Homme is a local attraction located in Port Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502202,
+                        -20.163946
+                  ]
+            },
+            {
+                  "name": "TOMBEAU MALARTIC",
+                  "text": "TOMBEAU MALARTIC is a historical monument located in Port Louis.",
+                  "category": "historical",
+                  "coords": [
+                        57.51009,
+                        -20.169277
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "Rivulet Terre Rouge Bird Sanctuary is a nature-focused attraction in Port Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "Central Market is a bustling local attraction situated in Port Louis.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502696,
+                        -20.160588
+                  ]
+            },
+            {
+                  "name": "Centre d'Arts Caudan",
+                  "text": "Centre d'Arts Caudan is an arts centre located in Port Louis.",
+                  "category": "cultural",
+                  "coords": [
+                        57.498197,
+                        -20.161979
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "The Chinatown Arch is a cultural monument located in Port Louis.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "St Louis Cathedral",
+                  "text": "St Louis Cathedral is a prominent Catholic place of worship located in Port Louis.",
+                  "category": "religious",
+                  "coords": [
+                        57.506462,
+                        -20.164535
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "Jummah Mosque is a highly regarded Islamic place of worship situated in Port Louis.",
+                  "category": "religious",
+                  "coords": [
+                        57.505068,
+                        -20.159666
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "capital",
     name: { de: "Port Louis", hu: "Port Louis", ro: "Port Louis", en: "Port Louis" },
@@ -93,7 +714,268 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-beau-bassin-cities-v2.webp",
   },
   {
-    id: "mauritius-rose-hill-cities-v2",
+    id: "mauritius-rose-hill-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aquarium Centre",
+                  "text": "Aquarium in Rose Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        57.480761,
+                        -20.263589
+                  ]
+            },
+            {
+                  "name": "Théâtre du Plaza",
+                  "text": "Plaza-Theater in Rose Hill.",
+                  "category": "cultural",
+                  "coords": [
+                        57.471455,
+                        -20.239848
+                  ]
+            },
+            {
+                  "name": "Starfish",
+                  "text": "Starfish-Aquarium in Rose Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        57.453609,
+                        -20.240775
+                  ]
+            },
+            {
+                  "name": "ND de Lourdes - Saint Ignace",
+                  "text": "Denkmal ND de Lourdes - Saint Ignace in Rose Hill.",
+                  "category": "historical",
+                  "coords": [
+                        57.474624,
+                        -20.24155
+                  ]
+            },
+            {
+                  "name": "Cavalo - Rotary",
+                  "text": "Cavalo-Rotary-Denkmal in Rose Hill.",
+                  "category": "historical",
+                  "coords": [
+                        57.455121,
+                        -20.236398
+                  ]
+            },
+            {
+                  "name": "Institut francais",
+                  "text": "Institut Français in Rose Hill.",
+                  "category": "cultural",
+                  "coords": [
+                        57.478296,
+                        -20.242748
+                  ]
+            },
+            {
+                  "name": "Cascadelle viewpoint",
+                  "text": "Aussichtspunkt Cascadelle in Rose Hill.",
+                  "category": "natural",
+                  "coords": [
+                        57.476641,
+                        -20.221716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aquarium Centre",
+                  "text": "Akvárium Rose Hillben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.480761,
+                        -20.263589
+                  ]
+            },
+            {
+                  "name": "Théâtre du Plaza",
+                  "text": "Plaza színház Rose Hillben.",
+                  "category": "cultural",
+                  "coords": [
+                        57.471455,
+                        -20.239848
+                  ]
+            },
+            {
+                  "name": "Starfish",
+                  "text": "Starfish akvárium Rose Hillben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.453609,
+                        -20.240775
+                  ]
+            },
+            {
+                  "name": "ND de Lourdes - Saint Ignace",
+                  "text": "ND de Lourdes - Saint Ignace emlékmű Rose Hillben.",
+                  "category": "historical",
+                  "coords": [
+                        57.474624,
+                        -20.24155
+                  ]
+            },
+            {
+                  "name": "Cavalo - Rotary",
+                  "text": "Cavalo - Rotary emlékmű Rose Hillben.",
+                  "category": "historical",
+                  "coords": [
+                        57.455121,
+                        -20.236398
+                  ]
+            },
+            {
+                  "name": "Institut francais",
+                  "text": "Institut Français Rose Hillben.",
+                  "category": "cultural",
+                  "coords": [
+                        57.478296,
+                        -20.242748
+                  ]
+            },
+            {
+                  "name": "Cascadelle viewpoint",
+                  "text": "Cascadelle kilátó Rose Hillben.",
+                  "category": "natural",
+                  "coords": [
+                        57.476641,
+                        -20.221716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aquarium Centre",
+                  "text": "Acvariu în Rose Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        57.480761,
+                        -20.263589
+                  ]
+            },
+            {
+                  "name": "Théâtre du Plaza",
+                  "text": "Teatrul Plaza din Rose Hill.",
+                  "category": "cultural",
+                  "coords": [
+                        57.471455,
+                        -20.239848
+                  ]
+            },
+            {
+                  "name": "Starfish",
+                  "text": "Acvariul Starfish din Rose Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        57.453609,
+                        -20.240775
+                  ]
+            },
+            {
+                  "name": "ND de Lourdes - Saint Ignace",
+                  "text": "Monumentul ND de Lourdes - Saint Ignace din Rose Hill.",
+                  "category": "historical",
+                  "coords": [
+                        57.474624,
+                        -20.24155
+                  ]
+            },
+            {
+                  "name": "Cavalo - Rotary",
+                  "text": "Monumentul Cavalo - Rotary din Rose Hill.",
+                  "category": "historical",
+                  "coords": [
+                        57.455121,
+                        -20.236398
+                  ]
+            },
+            {
+                  "name": "Institut francais",
+                  "text": "Institutul Francez din Rose Hill.",
+                  "category": "cultural",
+                  "coords": [
+                        57.478296,
+                        -20.242748
+                  ]
+            },
+            {
+                  "name": "Cascadelle viewpoint",
+                  "text": "Punct de observație Cascadelle din Rose Hill.",
+                  "category": "natural",
+                  "coords": [
+                        57.476641,
+                        -20.221716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aquarium Centre",
+                  "text": "Aquarium in Rose Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        57.480761,
+                        -20.263589
+                  ]
+            },
+            {
+                  "name": "Théâtre du Plaza",
+                  "text": "Plaza theatre in Rose Hill.",
+                  "category": "cultural",
+                  "coords": [
+                        57.471455,
+                        -20.239848
+                  ]
+            },
+            {
+                  "name": "Starfish",
+                  "text": "Starfish aquarium in Rose Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        57.453609,
+                        -20.240775
+                  ]
+            },
+            {
+                  "name": "ND de Lourdes - Saint Ignace",
+                  "text": "ND de Lourdes - Saint Ignace monument in Rose Hill.",
+                  "category": "historical",
+                  "coords": [
+                        57.474624,
+                        -20.24155
+                  ]
+            },
+            {
+                  "name": "Cavalo - Rotary",
+                  "text": "Cavalo - Rotary monument in Rose Hill.",
+                  "category": "historical",
+                  "coords": [
+                        57.455121,
+                        -20.236398
+                  ]
+            },
+            {
+                  "name": "Institut francais",
+                  "text": "Institut Français in Rose Hill.",
+                  "category": "cultural",
+                  "coords": [
+                        57.478296,
+                        -20.242748
+                  ]
+            },
+            {
+                  "name": "Cascadelle viewpoint",
+                  "text": "Cascadelle viewpoint in Rose Hill.",
+                  "category": "natural",
+                  "coords": [
+                        57.476641,
+                        -20.221716
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "town",
     name: { de: "Rose Hill", hu: "Rose Hill", ro: "Rose Hill", en: "Rose Hill" },
@@ -138,7 +1020,304 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-rose-hill-cities-v2.webp",
   },
   {
-    id: "mauritius-vacoas-cities-v2",
+    id: "mauritius-vacoas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "J&J Auditorium",
+                  "text": "Das J&J Auditorium ist ein Theater in Vacoas.",
+                  "category": "cultural",
+                  "coords": [
+                        57.491283,
+                        -20.27855
+                  ]
+            },
+            {
+                  "name": "Serge Constantin Theatre",
+                  "text": "Das Serge Constantin Theatre ist ein Theater in Vacoas.",
+                  "category": "cultural",
+                  "coords": [
+                        57.495148,
+                        -20.294622
+                  ]
+            },
+            {
+                  "name": "Farqhuar House",
+                  "text": "Das Farqhuar House ist ein historisches Schloss in Vacoas.",
+                  "category": "castle",
+                  "coords": [
+                        57.495066,
+                        -20.290289
+                  ]
+            },
+            {
+                  "name": "Masonic Lodge",
+                  "text": "Die Masonic Lodge ist ein Museum in Vacoas.",
+                  "category": "museum",
+                  "coords": [
+                        57.498883,
+                        -20.283276
+                  ]
+            },
+            {
+                  "name": "Candos Hill",
+                  "text": "Der Candos Hill ist ein markanter Gipfel in Vacoas.",
+                  "category": "natural",
+                  "coords": [
+                        57.482576,
+                        -20.276191
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Centre for Indian Culture",
+                  "text": "Das Indira Gandhi Centre for Indian Culture ist eine kulturelle Attraktion in Vacoas.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497077,
+                        -20.283384
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "Clarisse House ist ein historisches Herrenhaus in Vacoas.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "Triangle of Peace",
+                  "text": "Das Triangle of Peace ist ein Denkmal in Vacoas.",
+                  "category": "historical",
+                  "coords": [
+                        57.502043,
+                        -20.291265
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "J&J Auditorium",
+                  "text": "A J&J Auditorium egy színház Vacoas városában.",
+                  "category": "cultural",
+                  "coords": [
+                        57.491283,
+                        -20.27855
+                  ]
+            },
+            {
+                  "name": "Serge Constantin Theatre",
+                  "text": "A Serge Constantin Theatre egy színház Vacoas területén.",
+                  "category": "cultural",
+                  "coords": [
+                        57.495148,
+                        -20.294622
+                  ]
+            },
+            {
+                  "name": "Farqhuar House",
+                  "text": "A Farqhuar House egy történelmi kastély Vacoas városában.",
+                  "category": "castle",
+                  "coords": [
+                        57.495066,
+                        -20.290289
+                  ]
+            },
+            {
+                  "name": "Masonic Lodge",
+                  "text": "A Masonic Lodge egy múzeum Vacoas területén.",
+                  "category": "museum",
+                  "coords": [
+                        57.498883,
+                        -20.283276
+                  ]
+            },
+            {
+                  "name": "Candos Hill",
+                  "text": "A Candos Hill egy kiemelkedő hegycsúcs Vacoas városában.",
+                  "category": "natural",
+                  "coords": [
+                        57.482576,
+                        -20.276191
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Centre for Indian Culture",
+                  "text": "Az Indira Gandhi Centre for Indian Culture egy kulturális látványosság Vacoasban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497077,
+                        -20.283384
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "A Clarisse house egy udvarház Vacoas területén.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "Triangle of Peace",
+                  "text": "A Triangle of Peace egy emlékmű Vacoas városában.",
+                  "category": "historical",
+                  "coords": [
+                        57.502043,
+                        -20.291265
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "J&J Auditorium",
+                  "text": "J&J Auditorium este un teatru situat în Vacoas.",
+                  "category": "cultural",
+                  "coords": [
+                        57.491283,
+                        -20.27855
+                  ]
+            },
+            {
+                  "name": "Serge Constantin Theatre",
+                  "text": "Teatrul Serge Constantin este o sală de spectacole din Vacoas.",
+                  "category": "cultural",
+                  "coords": [
+                        57.495148,
+                        -20.294622
+                  ]
+            },
+            {
+                  "name": "Farqhuar House",
+                  "text": "Casa Farqhuar este un castel istoric din Vacoas.",
+                  "category": "castle",
+                  "coords": [
+                        57.495066,
+                        -20.290289
+                  ]
+            },
+            {
+                  "name": "Masonic Lodge",
+                  "text": "Loja Masonică funcționează ca un muzeu în Vacoas.",
+                  "category": "museum",
+                  "coords": [
+                        57.498883,
+                        -20.283276
+                  ]
+            },
+            {
+                  "name": "Candos Hill",
+                  "text": "Dealul Candos este un vârf proeminent situat în Vacoas.",
+                  "category": "natural",
+                  "coords": [
+                        57.482576,
+                        -20.276191
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Centre for Indian Culture",
+                  "text": "Centrul Indira Gandhi pentru Cultura Indiană este o atracție din Vacoas.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497077,
+                        -20.283384
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "Casa Clarisse este un conac istoric situat în Vacoas.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "Triangle of Peace",
+                  "text": "Triangle of Peace este un monument din Vacoas.",
+                  "category": "historical",
+                  "coords": [
+                        57.502043,
+                        -20.291265
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "J&J Auditorium",
+                  "text": "J&J Auditorium is a theatre venue in Vacoas.",
+                  "category": "cultural",
+                  "coords": [
+                        57.491283,
+                        -20.27855
+                  ]
+            },
+            {
+                  "name": "Serge Constantin Theatre",
+                  "text": "Serge Constantin Theatre is a performing arts venue located in Vacoas.",
+                  "category": "cultural",
+                  "coords": [
+                        57.495148,
+                        -20.294622
+                  ]
+            },
+            {
+                  "name": "Farqhuar House",
+                  "text": "Farqhuar House is a historic castle located in Vacoas.",
+                  "category": "castle",
+                  "coords": [
+                        57.495066,
+                        -20.290289
+                  ]
+            },
+            {
+                  "name": "Masonic Lodge",
+                  "text": "The Masonic Lodge is a museum situated in Vacoas.",
+                  "category": "museum",
+                  "coords": [
+                        57.498883,
+                        -20.283276
+                  ]
+            },
+            {
+                  "name": "Candos Hill",
+                  "text": "Candos Hill is a prominent peak located in Vacoas.",
+                  "category": "natural",
+                  "coords": [
+                        57.482576,
+                        -20.276191
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Centre for Indian Culture",
+                  "text": "The Indira Gandhi Centre for Indian Culture is a major cultural attraction in Vacoas.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497077,
+                        -20.283384
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "Clarisse house is a historic manor situated in Vacoas.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "Triangle of Peace",
+                  "text": "Triangle of Peace is a monument located in Vacoas.",
+                  "category": "historical",
+                  "coords": [
+                        57.502043,
+                        -20.291265
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "town",
     name: { de: "Vacoas", hu: "Vacoas", ro: "Vacoas", en: "Vacoas" },
@@ -183,7 +1362,232 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-vacoas-cities-v2.webp",
   },
   {
-    id: "mauritius-curepipe-cities-v2",
+    id: "mauritius-curepipe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Domaine Des Aubineaux - Tea Museum",
+                  "text": "Die Domaine Des Aubineaux ist ein Teemuseum in der Stadt Curepipe.",
+                  "category": "museum",
+                  "coords": [
+                        57.532074,
+                        -20.32788
+                  ]
+            },
+            {
+                  "name": "Jardin botanique de Curepipe",
+                  "text": "Die Curepipe Botanic Gardens sind ein historischer öffentlicher Park in Curepipe, der für seine Sammlung einheimischer mauritischer Pflanzenarten bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        57.513023,
+                        -20.325118
+                  ]
+            },
+            {
+                  "name": "bobato Factory Shop",
+                  "text": "Der bobato Factory Shop ist eine lokale Sehenswürdigkeit und Attraktion in Curepipe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.516409,
+                        -20.319684
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "Clarisse House ist ein traditionelles Herrenhaus in Curepipe.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "The Millenium Tower",
+                  "text": "Der Millenium Tower ist ein Baudenkmal in der Stadt Curepipe.",
+                  "category": "historical",
+                  "coords": [
+                        57.535583,
+                        -20.302919
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Église Sainte-Thérèse ist ein Ort der Anbetung für die religiöse Gemeinde in Curepipe.",
+                  "category": "religious",
+                  "coords": [
+                        57.52453,
+                        -20.31959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Domaine Des Aubineaux - Tea Museum",
+                  "text": "A Domaine Des Aubineaux egy teamúzeum Curepipe városában.",
+                  "category": "museum",
+                  "coords": [
+                        57.532074,
+                        -20.32788
+                  ]
+            },
+            {
+                  "name": "Jardin botanique de Curepipe",
+                  "text": "A Curepipe Botanic Gardens egy történelmi közpark Curepipe városában, amely őshonos mauritiusi növényfajok gyűjteményéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        57.513023,
+                        -20.325118
+                  ]
+            },
+            {
+                  "name": "bobato Factory Shop",
+                  "text": "A bobato Factory Shop egy helyi nevezetesség és látványosság Curepipe városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.516409,
+                        -20.319684
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "A Clarisse house egy hagyományos udvarház Curepipe városában.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "The Millenium Tower",
+                  "text": "A Millenium Tower egy építészeti emlékmű Curepipe városában.",
+                  "category": "historical",
+                  "coords": [
+                        57.535583,
+                        -20.302919
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Az Église Sainte-Thérèse egy istentiszteleti hely Curepipe vallási közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        57.52453,
+                        -20.31959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Domaine Des Aubineaux - Tea Museum",
+                  "text": "Domaine Des Aubineaux este un muzeu al ceaiului situat în orașul Curepipe.",
+                  "category": "museum",
+                  "coords": [
+                        57.532074,
+                        -20.32788
+                  ]
+            },
+            {
+                  "name": "Jardin botanique de Curepipe",
+                  "text": "Curepipe Botanic Gardens este un parc public istoric din Curepipe, cunoscut pentru colecția sa de specii de plante native din Mauritius.",
+                  "category": "park",
+                  "coords": [
+                        57.513023,
+                        -20.325118
+                  ]
+            },
+            {
+                  "name": "bobato Factory Shop",
+                  "text": "Bobato Factory Shop este un punct de interes local și o atracție în Curepipe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.516409,
+                        -20.319684
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "Clarisse house este un conac tradițional situat în Curepipe.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "The Millenium Tower",
+                  "text": "The Millenium Tower este un monument structural situat în orașul Curepipe.",
+                  "category": "historical",
+                  "coords": [
+                        57.535583,
+                        -20.302919
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Église Sainte-Thérèse este un lăcaș de cult care deservește comunitatea religioasă din Curepipe.",
+                  "category": "religious",
+                  "coords": [
+                        57.52453,
+                        -20.31959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Domaine Des Aubineaux - Tea Museum",
+                  "text": "Domaine Des Aubineaux is a tea museum situated in the town of Curepipe.",
+                  "category": "museum",
+                  "coords": [
+                        57.532074,
+                        -20.32788
+                  ]
+            },
+            {
+                  "name": "Curepipe Botanic Gardens",
+                  "text": "Curepipe Botanic Gardens is a historic public park in Curepipe known for its collection of native Mauritian plant species.",
+                  "category": "park",
+                  "coords": [
+                        57.513023,
+                        -20.325118
+                  ]
+            },
+            {
+                  "name": "bobato Factory Shop",
+                  "text": "The bobato Factory Shop is a local point of interest and attraction in Curepipe.",
+                  "category": "landmark",
+                  "coords": [
+                        57.516409,
+                        -20.319684
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "Clarisse house is a traditional manor building situated in Curepipe.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "The Millenium Tower",
+                  "text": "The Millenium Tower is a structural monument located in the city of Curepipe.",
+                  "category": "historical",
+                  "coords": [
+                        57.535583,
+                        -20.302919
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Thérèse",
+                  "text": "Église Sainte-Thérèse is a place of worship serving the religious community in Curepipe.",
+                  "category": "religious",
+                  "coords": [
+                        57.52453,
+                        -20.31959
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "town",
     name: { de: "Curepipe", hu: "Curepipe", ro: "Curepipe", en: "Curepipe" },
@@ -228,7 +1632,232 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-curepipe-cities-v2.webp",
   },
   {
-    id: "mauritius-triolet-town-cities-v2",
+    id: "mauritius-triolet-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "Blue Safari U-Boot-Attraktion in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Öffentlicher Strand in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "Öffentlicher Strand Trou aux Biches in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "Öffentlicher Strand Piments in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "Zweiter öffentlicher Strand Pointe aux Piments in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "Trou aux Biches Resort & Spa in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "Blue Safari tengeralattjáró-látnivaló Trioletben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Nyilvános strand Trioletben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "Trou aux Biches nyilvános strand Trioletben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "Piments nyilvános strand Trioletben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "Pointe aux Piments második nyilvános strandja Trioletben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "Trou aux Biches Resort & Spa Trioletben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "Atracția submarin Blue Safari din Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Plajă publică în Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "Plaja publică Trou aux Biches din Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "Plaja publică Piments din Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "A doua plajă publică Pointe aux Piments din Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "Trou aux Biches Resort & Spa din Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "Blue Safari submarine attraction in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public beach in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "Trou aux Biches public beach in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "Piments public beach in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "Second Pointe aux Piments public beach in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "Trou aux Biches Resort & Spa in Triolet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Triolet", hu: "Triolet", ro: "Triolet", en: "Triolet" },
@@ -273,7 +1902,88 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-triolet-town-cities-v2.webp",
   },
   {
-    id: "mauritius-goodlands-town-cities-v2",
+    id: "mauritius-goodlands-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Demeure Saint Antoine",
+                  "text": "La Demeure Saint Antoine ist ein Museum in Goodlands.",
+                  "category": "museum",
+                  "coords": [
+                        57.658144,
+                        -20.042097
+                  ]
+            },
+            {
+                  "name": "Historic Marine Shipmodels",
+                  "text": "Historic Marine Shipmodels ist eine Attraktion in Goodlands.",
+                  "category": "landmark",
+                  "coords": [
+                        57.655988,
+                        -20.040118
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Demeure Saint Antoine",
+                  "text": "A La Demeure Saint Antoine egy múzeum Goodlands területén.",
+                  "category": "museum",
+                  "coords": [
+                        57.658144,
+                        -20.042097
+                  ]
+            },
+            {
+                  "name": "Historic Marine Shipmodels",
+                  "text": "A Historic Marine Shipmodels egy látnivaló Goodlands városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.655988,
+                        -20.040118
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Demeure Saint Antoine",
+                  "text": "La Demeure Saint Antoine este un muzeu din Goodlands.",
+                  "category": "museum",
+                  "coords": [
+                        57.658144,
+                        -20.042097
+                  ]
+            },
+            {
+                  "name": "Historic Marine Shipmodels",
+                  "text": "Historic Marine Shipmodels este o atracție din Goodlands.",
+                  "category": "landmark",
+                  "coords": [
+                        57.655988,
+                        -20.040118
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Demeure Saint Antoine",
+                  "text": "La Demeure Saint Antoine is a museum located in Goodlands.",
+                  "category": "museum",
+                  "coords": [
+                        57.658144,
+                        -20.042097
+                  ]
+            },
+            {
+                  "name": "Historic Marine Shipmodels",
+                  "text": "Historic Marine Shipmodels is an attraction in Goodlands.",
+                  "category": "landmark",
+                  "coords": [
+                        57.655988,
+                        -20.040118
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Goodlands", hu: "Goodlands", ro: "Goodlands", en: "Goodlands" },
@@ -453,7 +2163,160 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-mahebourg-cities-v2.webp",
   },
   {
-    id: "mauritius-saint-pierre-cities-v2",
+    id: "mauritius-saint-pierre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pieter Both",
+                  "text": "Pieter Both ist ein markanter Berggipfel in Saint Pierre und der zweithöchste Berg auf Mauritius.",
+                  "category": "natural",
+                  "coords": [
+                        57.556115,
+                        -20.191316
+                  ]
+            },
+            {
+                  "name": "Creve Coeur",
+                  "text": "Creve Coeur ist ein natürlicher Berggipfel, der sich über Saint Pierre erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        57.551237,
+                        -20.19436
+                  ]
+            },
+            {
+                  "name": "Grand Peak",
+                  "text": "Grand Peak ist ein erhöhter Berggipfel in der Region Saint Pierre.",
+                  "category": "natural",
+                  "coords": [
+                        57.549054,
+                        -20.195621
+                  ]
+            },
+            {
+                  "name": "Northern Viewpoint",
+                  "text": "Northern Viewpoint ist ein malerischer Aussichtspunkt mit Blick auf die Landschaft von Saint Pierre.",
+                  "category": "natural",
+                  "coords": [
+                        57.560494,
+                        -20.196348
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pieter Both",
+                  "text": "A Pieter Both egy kiemelkedő hegycsúcs Saint Pierre-ben, és Mauritius második legmagasabb hegye.",
+                  "category": "natural",
+                  "coords": [
+                        57.556115,
+                        -20.191316
+                  ]
+            },
+            {
+                  "name": "Creve Coeur",
+                  "text": "A Creve Coeur egy természetes hegycsúcs, amely Saint Pierre fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        57.551237,
+                        -20.19436
+                  ]
+            },
+            {
+                  "name": "Grand Peak",
+                  "text": "A Grand Peak egy magaslati hegycsúcs Saint Pierre régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        57.549054,
+                        -20.195621
+                  ]
+            },
+            {
+                  "name": "Northern Viewpoint",
+                  "text": "A Northern Viewpoint egy festői kilátó, ahonnan Saint Pierre tájára nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        57.560494,
+                        -20.196348
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pieter Both",
+                  "text": "Pieter Both este un vârf montan proeminent din Saint Pierre și al doilea munte ca înălțime din Mauritius.",
+                  "category": "natural",
+                  "coords": [
+                        57.556115,
+                        -20.191316
+                  ]
+            },
+            {
+                  "name": "Creve Coeur",
+                  "text": "Creve Coeur este un vârf montan natural care se înalță deasupra orașului Saint Pierre.",
+                  "category": "natural",
+                  "coords": [
+                        57.551237,
+                        -20.19436
+                  ]
+            },
+            {
+                  "name": "Grand Peak",
+                  "text": "Grand Peak este un vârf montan elevat situat în regiunea Saint Pierre.",
+                  "category": "natural",
+                  "coords": [
+                        57.549054,
+                        -20.195621
+                  ]
+            },
+            {
+                  "name": "Northern Viewpoint",
+                  "text": "Northern Viewpoint este un punct de observație pitoresc cu vedere la peisajul din Saint Pierre.",
+                  "category": "natural",
+                  "coords": [
+                        57.560494,
+                        -20.196348
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pieter Both",
+                  "text": "Pieter Both is a prominent mountain peak in Saint Pierre and the second-highest mountain in Mauritius.",
+                  "category": "natural",
+                  "coords": [
+                        57.556115,
+                        -20.191316
+                  ]
+            },
+            {
+                  "name": "Creve Coeur",
+                  "text": "Creve Coeur is a natural mountain peak rising above Saint Pierre.",
+                  "category": "natural",
+                  "coords": [
+                        57.551237,
+                        -20.19436
+                  ]
+            },
+            {
+                  "name": "Grand Peak",
+                  "text": "Grand Peak is an elevated mountain peak located in the region of Saint Pierre.",
+                  "category": "natural",
+                  "coords": [
+                        57.549054,
+                        -20.195621
+                  ]
+            },
+            {
+                  "name": "Northern Viewpoint",
+                  "text": "Northern Viewpoint is a scenic observation point overlooking the landscape of Saint Pierre.",
+                  "category": "natural",
+                  "coords": [
+                        57.560494,
+                        -20.196348
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Saint Pierre", hu: "Saint Pierre", ro: "Saint Pierre", en: "Saint Pierre" },
@@ -498,7 +2361,232 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-saint-pierre-cities-v2.webp",
   },
   {
-    id: "mauritius-le-hochet-cities-v2",
+    id: "mauritius-le-hochet-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Goulet Beach",
+                  "text": "La Goulet Strand in Le Hochet.",
+                  "category": "recreational",
+                  "coords": [
+                        57.51749,
+                        -20.105389
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "Vogelschutzgebiet Rivulet Terre Rouge in Le Hochet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Öffentlicher Strand in Le Hochet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497195,
+                        -20.123259
+                  ]
+            },
+            {
+                  "name": "Eden Garden Culture and Entertainment Square",
+                  "text": "Eden Garden Kultur- und Unterhaltungsplatz in Le Hochet.",
+                  "category": "cultural",
+                  "coords": [
+                        57.514115,
+                        -20.108871
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "Chinatown-Bogen in Le Hochet.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "Fort Albert",
+                  "text": "Ruinen von Fort Albert in Le Hochet.",
+                  "category": "historical",
+                  "coords": [
+                        57.497613,
+                        -20.12713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Goulet Beach",
+                  "text": "La Goulet strand Le Hochetben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.51749,
+                        -20.105389
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "Rivulet Terre Rouge madárvédelmi terület Le Hochetben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Nyilvános strand Le Hochetben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497195,
+                        -20.123259
+                  ]
+            },
+            {
+                  "name": "Eden Garden Culture and Entertainment Square",
+                  "text": "Eden Garden kulturális és szórakoztató központ Le Hochetben.",
+                  "category": "cultural",
+                  "coords": [
+                        57.514115,
+                        -20.108871
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "Kínai negyed kapuja Le Hochetben.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "Fort Albert",
+                  "text": "Fort Albert romjai Le Hochetben.",
+                  "category": "historical",
+                  "coords": [
+                        57.497613,
+                        -20.12713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Goulet Beach",
+                  "text": "Plaja La Goulet din Le Hochet.",
+                  "category": "recreational",
+                  "coords": [
+                        57.51749,
+                        -20.105389
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "Rezervația de păsări Rivulet Terre Rouge din Le Hochet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Plajă publică în Le Hochet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497195,
+                        -20.123259
+                  ]
+            },
+            {
+                  "name": "Eden Garden Culture and Entertainment Square",
+                  "text": "Centru cultural și de divertisment Eden Garden din Le Hochet.",
+                  "category": "cultural",
+                  "coords": [
+                        57.514115,
+                        -20.108871
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "Arcul din Cartierul Chinezesc în Le Hochet.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "Fort Albert",
+                  "text": "Ruinele fortului Albert din Le Hochet.",
+                  "category": "historical",
+                  "coords": [
+                        57.497613,
+                        -20.12713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Goulet Beach",
+                  "text": "La Goulet beach in Le Hochet.",
+                  "category": "recreational",
+                  "coords": [
+                        57.51749,
+                        -20.105389
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "Rivulet Terre Rouge bird sanctuary in Le Hochet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public beach in Le Hochet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497195,
+                        -20.123259
+                  ]
+            },
+            {
+                  "name": "Eden Garden Culture and Entertainment Square",
+                  "text": "Eden Garden culture and entertainment square in Le Hochet.",
+                  "category": "cultural",
+                  "coords": [
+                        57.514115,
+                        -20.108871
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "Chinatown arch in Le Hochet.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "Fort Albert",
+                  "text": "Ruins of Fort Albert in Le Hochet.",
+                  "category": "historical",
+                  "coords": [
+                        57.497613,
+                        -20.12713
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Le Hochet", hu: "Le Hochet", ro: "Le Hochet", en: "Le Hochet" },
@@ -633,7 +2721,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-bambous-cities-v2.webp",
   },
   {
-    id: "mauritius-rose-belle-cities-v2",
+    id: "mauritius-rose-belle-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Vernon",
+                  "text": "Mount Vernon Gipfel in Rose Belle.",
+                  "category": "natural",
+                  "coords": [
+                        57.623121,
+                        -20.387578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Vernon",
+                  "text": "Mount Vernon csúcs Rose Belle-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.623121,
+                        -20.387578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Vernon",
+                  "text": "Vârful Mount Vernon din Rose Belle.",
+                  "category": "natural",
+                  "coords": [
+                        57.623121,
+                        -20.387578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Vernon",
+                  "text": "Mount Vernon peak in Rose Belle.",
+                  "category": "natural",
+                  "coords": [
+                        57.623121,
+                        -20.387578
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Rose Belle", hu: "Rose Belle", ro: "Rose Belle", en: "Rose Belle" },
@@ -678,7 +2811,124 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-rose-belle-cities-v2.webp",
   },
   {
-    id: "mauritius-chemin-grenier-cities-v2",
+    id: "mauritius-chemin-grenier-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "St Felix Public Beach",
+                  "text": "Der St Felix Public Beach ist ein Strand in Chemin Grenier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.464577,
+                        -20.509708
+                  ]
+            },
+            {
+                  "name": "Baie du Jacotet",
+                  "text": "Die Baie du Jacotet ist ein malerischer Strand in Chemin Grenier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.446009,
+                        -20.501296
+                  ]
+            },
+            {
+                  "name": "Ilot aux Sancho",
+                  "text": "Ilot aux Sancho dient als Küstenaussichtspunkt in Chemin Grenier.",
+                  "category": "natural",
+                  "coords": [
+                        57.448468,
+                        -20.503938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St Felix Public Beach",
+                  "text": "A St Felix Public Beach egy tengerpart Chemin Grenier területén.",
+                  "category": "recreational",
+                  "coords": [
+                        57.464577,
+                        -20.509708
+                  ]
+            },
+            {
+                  "name": "Baie du Jacotet",
+                  "text": "A Baie du Jacotet egy festői strand Chemin Grenier városában.",
+                  "category": "recreational",
+                  "coords": [
+                        57.446009,
+                        -20.501296
+                  ]
+            },
+            {
+                  "name": "Ilot aux Sancho",
+                  "text": "Az Ilot aux Sancho egy tengerparti kilátó Chemin Grenier területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.448468,
+                        -20.503938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St Felix Public Beach",
+                  "text": "Plaja publică St Felix este situată în Chemin Grenier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.464577,
+                        -20.509708
+                  ]
+            },
+            {
+                  "name": "Baie du Jacotet",
+                  "text": "Baie du Jacotet este o plajă pitorească din Chemin Grenier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.446009,
+                        -20.501296
+                  ]
+            },
+            {
+                  "name": "Ilot aux Sancho",
+                  "text": "Ilot aux Sancho servește ca punct de belvedere pe coastă în Chemin Grenier.",
+                  "category": "natural",
+                  "coords": [
+                        57.448468,
+                        -20.503938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St Felix Public Beach",
+                  "text": "St Felix Public Beach is a beach situated in Chemin Grenier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.464577,
+                        -20.509708
+                  ]
+            },
+            {
+                  "name": "Baie du Jacotet",
+                  "text": "Baie du Jacotet is a scenic beach in Chemin Grenier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.446009,
+                        -20.501296
+                  ]
+            },
+            {
+                  "name": "Ilot aux Sancho",
+                  "text": "Ilot aux Sancho serves as a coastal viewpoint in Chemin Grenier.",
+                  "category": "natural",
+                  "coords": [
+                        57.448468,
+                        -20.503938
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Chemin Grenier", hu: "Chemin Grenier", ro: "Chemin Grenier", en: "Chemin Grenier" },
@@ -723,7 +2973,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-chemin-grenier-cities-v2.webp",
   },
   {
-    id: "mauritius-riviere-du-rempart-cities-v2",
+    id: "mauritius-riviere-du-rempart-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral ist eine Fallschirmsprung-Attraktion, die Flugerlebnisse in Rivière du Rempart anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "A Skydive Austral egy ejtőernyős látványosság, amely légi élményeket kínál Rivière du Rempart területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral este o atracție de parașutism care oferă experiențe aeriene în Rivière du Rempart.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral is a skydiving attraction offering aerial experiences in Rivière du Rempart.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Rivière du Rempart", hu: "Rivière du Rempart", ro: "Rivière du Rempart", en: "Rivière du Rempart" },
@@ -768,7 +3063,340 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-riviere-du-rempart-cities-v2.webp",
   },
   {
-    id: "mauritius-grand-baie-cities-v2",
+    id: "mauritius-grand-baie-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "Mont Choisy Strand in Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "La Cuvette Public Beach",
+                  "text": "Öffentlicher Strand La Cuvette in Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.578063,
+                        -20.007103
+                  ]
+            },
+            {
+                  "name": "Plage de Mont Choisy",
+                  "text": "Plage de Mont Choisy Strand in Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.554171,
+                        -20.006894
+                  ]
+            },
+            {
+                  "name": "La Plage Des Canisses",
+                  "text": "La Plage Des Canisses Strand in Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579425,
+                        -20.015488
+                  ]
+            },
+            {
+                  "name": "LUX* Grand Baie Resort & Residences",
+                  "text": "LUX* Grand Baie Resort & Residences in Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.583355,
+                        -20.000213
+                  ]
+            },
+            {
+                  "name": "Pointe Egilise",
+                  "text": "Pointe Egilise Attraktion in Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583732,
+                        -19.994747
+                  ]
+            },
+            {
+                  "name": "Mont Choisy Public Beach",
+                  "text": "Öffentlicher Strand Mont Choisy in Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.556447,
+                        -20.014407
+                  ]
+            },
+            {
+                  "name": "Grand Baie Public Beach",
+                  "text": "Öffentlicher Strand Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583745,
+                        -20.011055
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "Öffentlicher Strand Pereybere in Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "Mont Choisy strand Grand Baie-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "La Cuvette Public Beach",
+                  "text": "La Cuvette nyilvános strand Grand Baie-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.578063,
+                        -20.007103
+                  ]
+            },
+            {
+                  "name": "Plage de Mont Choisy",
+                  "text": "Plage de Mont Choisy strand Grand Baie-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.554171,
+                        -20.006894
+                  ]
+            },
+            {
+                  "name": "La Plage Des Canisses",
+                  "text": "La Plage Des Canisses strand Grand Baie-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579425,
+                        -20.015488
+                  ]
+            },
+            {
+                  "name": "LUX* Grand Baie Resort & Residences",
+                  "text": "LUX* Grand Baie Resort & Residences Grand Baie-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.583355,
+                        -20.000213
+                  ]
+            },
+            {
+                  "name": "Pointe Egilise",
+                  "text": "Pointe Egilise látnivaló Grand Baie-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583732,
+                        -19.994747
+                  ]
+            },
+            {
+                  "name": "Mont Choisy Public Beach",
+                  "text": "Mont Choisy nyilvános strand Grand Baie-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.556447,
+                        -20.014407
+                  ]
+            },
+            {
+                  "name": "Grand Baie Public Beach",
+                  "text": "Grand Baie nyilvános strandja.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583745,
+                        -20.011055
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "Pereybere nyilvános strand Grand Baie-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "Plaja Mont Choisy din Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "La Cuvette Public Beach",
+                  "text": "Plaja publică La Cuvette din Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.578063,
+                        -20.007103
+                  ]
+            },
+            {
+                  "name": "Plage de Mont Choisy",
+                  "text": "Plaja Plage de Mont Choisy din Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.554171,
+                        -20.006894
+                  ]
+            },
+            {
+                  "name": "La Plage Des Canisses",
+                  "text": "Plaja La Plage Des Canisses din Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579425,
+                        -20.015488
+                  ]
+            },
+            {
+                  "name": "LUX* Grand Baie Resort & Residences",
+                  "text": "LUX* Grand Baie Resort & Residences din Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.583355,
+                        -20.000213
+                  ]
+            },
+            {
+                  "name": "Pointe Egilise",
+                  "text": "Atracția Pointe Egilise din Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583732,
+                        -19.994747
+                  ]
+            },
+            {
+                  "name": "Mont Choisy Public Beach",
+                  "text": "Plaja publică Mont Choisy din Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.556447,
+                        -20.014407
+                  ]
+            },
+            {
+                  "name": "Grand Baie Public Beach",
+                  "text": "Plaja publică din Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583745,
+                        -20.011055
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "Plaja publică Pereybere din Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "Mont Choisy beach in Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "La Cuvette Public Beach",
+                  "text": "La Cuvette public beach in Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.578063,
+                        -20.007103
+                  ]
+            },
+            {
+                  "name": "Plage de Mont Choisy",
+                  "text": "Plage de Mont Choisy beach in Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.554171,
+                        -20.006894
+                  ]
+            },
+            {
+                  "name": "La Plage Des Canisses",
+                  "text": "La Plage Des Canisses beach in Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579425,
+                        -20.015488
+                  ]
+            },
+            {
+                  "name": "LUX* Grand Baie Resort & Residences",
+                  "text": "LUX* Grand Baie Resort & Residences in Grand Baie.",
+                  "category": "recreational",
+                  "coords": [
+                        57.583355,
+                        -20.000213
+                  ]
+            },
+            {
+                  "name": "Pointe Egilise",
+                  "text": "Pointe Egilise attraction in Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583732,
+                        -19.994747
+                  ]
+            },
+            {
+                  "name": "Mont Choisy Public Beach",
+                  "text": "Mont Choisy public beach in Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.556447,
+                        -20.014407
+                  ]
+            },
+            {
+                  "name": "Grand Baie Public Beach",
+                  "text": "Grand Baie public beach.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583745,
+                        -20.011055
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "Pereybere public beach in Grand Baie.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "town",
     name: { de: "Grand Baie", hu: "Grand Baie", ro: "Grand Baie", en: "Grand Baie" },
@@ -858,7 +3486,412 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-plaine-magnien-cities-v2.webp",
   },
   {
-    id: "mauritius-pailles-cities-v2",
+    id: "mauritius-pailles-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blue Penny Museum",
+                  "text": "Das Blue Penny Museum in Pailles ist ein Geschichts- und Kunstmuseum, das für die Ausstellung der seltenen Blue-Penny-Briefmarke von 1847 bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        57.497501,
+                        -20.160906
+                  ]
+            },
+            {
+                  "name": "Photo Museum",
+                  "text": "Das Photo Museum ist eine lokale Einrichtung in Pailles, die sich der Ausstellung von Fotografien widmet.",
+                  "category": "museum",
+                  "coords": [
+                        57.5035,
+                        -20.164218
+                  ]
+            },
+            {
+                  "name": "La Tour Koenig Windmill",
+                  "text": "La Tour Koenig Windmill ist ein schlossähnliches historisches Bauwerk in Pailles.",
+                  "category": "castle",
+                  "coords": [
+                        57.470341,
+                        -20.176483
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Odysseo ist ein öffentliches Aquarium mit Ausstellungen von Meereslebewesen in Pailles.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Signal Mountain",
+                  "text": "Signal Mountain ist ein erhöhter Aussichtspunkt mit weitem Blick über Pailles.",
+                  "category": "natural",
+                  "coords": [
+                        57.492247,
+                        -20.174257
+                  ]
+            },
+            {
+                  "name": "Léoville L'Homme",
+                  "text": "Léoville L'Homme ist eine anerkannte Touristenattraktion in der Stadt Pailles.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502202,
+                        -20.163946
+                  ]
+            },
+            {
+                  "name": "Train Ride Domaine les Pailles",
+                  "text": "Der Train Ride Domaine les Pailles ist eine beliebte Eisenbahnattraktion in Pailles.",
+                  "category": "landmark",
+                  "coords": [
+                        57.488268,
+                        -20.193816
+                  ]
+            },
+            {
+                  "name": "Ruine H...borstal",
+                  "text": "Ruine H...borstal stellt die historischen Ruinen eines ehemaligen Bauwerks in Pailles dar.",
+                  "category": "historical",
+                  "coords": [
+                        57.470786,
+                        -20.177644
+                  ]
+            },
+            {
+                  "name": "Domaine Les Pailles",
+                  "text": "Domaine Les Pailles ist eine vielseitige Touristenattraktion und Erholungsstätte in Pailles.",
+                  "category": "landmark",
+                  "coords": [
+                        57.490968,
+                        -20.194234
+                  ]
+            },
+            {
+                  "name": "Centre d'Arts Caudan",
+                  "text": "Das Centre d'Arts Caudan ist ein bedeutendes Kunstzentrum für die kreative Gemeinschaft in Pailles.",
+                  "category": "cultural",
+                  "coords": [
+                        57.498197,
+                        -20.161979
+                  ]
+            },
+            {
+                  "name": "Camp Chapelon",
+                  "text": "Camp Chapelon ist eine historische Stätte mit alten Ruinen in der Nähe von Pailles.",
+                  "category": "historical",
+                  "coords": [
+                        57.47439,
+                        -20.174668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blue Penny Museum",
+                  "text": "A pailles-i Blue Penny Museum történelmi és művészeti múzeum, amely a ritka 1847-es Blue Penny bélyeg kiállításáról híres.",
+                  "category": "museum",
+                  "coords": [
+                        57.497501,
+                        -20.160906
+                  ]
+            },
+            {
+                  "name": "Photo Museum",
+                  "text": "A Photo Museum egy helyi intézmény Pailles-ben, amelyet a fotográfia kiállításának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        57.5035,
+                        -20.164218
+                  ]
+            },
+            {
+                  "name": "La Tour Koenig Windmill",
+                  "text": "A La Tour Koenig Windmill egy kastélyszerű történelmi építmény Pailles városában.",
+                  "category": "castle",
+                  "coords": [
+                        57.470341,
+                        -20.176483
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Az Odysseo egy nyilvános akvárium tengeri élővilág-kiállításokkal Pailles-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Signal Mountain",
+                  "text": "A Signal Mountain egy magaslati kilátó, amely kiterjedt kilátást nyújt Pailles-ből.",
+                  "category": "natural",
+                  "coords": [
+                        57.492247,
+                        -20.174257
+                  ]
+            },
+            {
+                  "name": "Léoville L'Homme",
+                  "text": "A Léoville L'Homme egy elismert turisztikai látványosság Pailles városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502202,
+                        -20.163946
+                  ]
+            },
+            {
+                  "name": "Train Ride Domaine les Pailles",
+                  "text": "A Train Ride Domaine les Pailles egy népszerű vasúti látványosság Pailles-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.488268,
+                        -20.193816
+                  ]
+            },
+            {
+                  "name": "Ruine H...borstal",
+                  "text": "A Ruine H...borstal egy egykori építmény történelmi romjait képviseli Pailles-ben.",
+                  "category": "historical",
+                  "coords": [
+                        57.470786,
+                        -20.177644
+                  ]
+            },
+            {
+                  "name": "Domaine Les Pailles",
+                  "text": "A Domaine Les Pailles egy sokoldalú turisztikai látványosság és rekreációs helyszín Pailles-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.490968,
+                        -20.194234
+                  ]
+            },
+            {
+                  "name": "Centre d'Arts Caudan",
+                  "text": "A Centre d'Arts Caudan egy kiemelkedő művészeti központ, amely Pailles kreatív közösségét szolgálja.",
+                  "category": "cultural",
+                  "coords": [
+                        57.498197,
+                        -20.161979
+                  ]
+            },
+            {
+                  "name": "Camp Chapelon",
+                  "text": "A Camp Chapelon egy történelmi helyszín ősi romokkal Pailles közelében.",
+                  "category": "historical",
+                  "coords": [
+                        57.47439,
+                        -20.174668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blue Penny Museum",
+                  "text": "Blue Penny Museum din Pailles este un muzeu de istorie și artă renumit pentru expunerea rarei mărci poștale Blue Penny din 1847.",
+                  "category": "museum",
+                  "coords": [
+                        57.497501,
+                        -20.160906
+                  ]
+            },
+            {
+                  "name": "Photo Museum",
+                  "text": "Photo Museum este o instituție locală din Pailles dedicată expoziției de fotografie.",
+                  "category": "museum",
+                  "coords": [
+                        57.5035,
+                        -20.164218
+                  ]
+            },
+            {
+                  "name": "La Tour Koenig Windmill",
+                  "text": "La Tour Koenig Windmill este o structură istorică asemănătoare unui castel, situată în Pailles.",
+                  "category": "castle",
+                  "coords": [
+                        57.470341,
+                        -20.176483
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Odysseo este un acvariu public care prezintă expoziții de viață marină în Pailles.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Signal Mountain",
+                  "text": "Signal Mountain este un punct de belvedere înalt care oferă priveliști extinse din Pailles.",
+                  "category": "natural",
+                  "coords": [
+                        57.492247,
+                        -20.174257
+                  ]
+            },
+            {
+                  "name": "Léoville L'Homme",
+                  "text": "Léoville L'Homme este o atracție turistică recunoscută situată în orașul Pailles.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502202,
+                        -20.163946
+                  ]
+            },
+            {
+                  "name": "Train Ride Domaine les Pailles",
+                  "text": "Train Ride Domaine les Pailles este o atracție feroviară populară în Pailles.",
+                  "category": "landmark",
+                  "coords": [
+                        57.488268,
+                        -20.193816
+                  ]
+            },
+            {
+                  "name": "Ruine H...borstal",
+                  "text": "Ruine H...borstal reprezintă ruinele istorice ale unei foste structuri situate în Pailles.",
+                  "category": "historical",
+                  "coords": [
+                        57.470786,
+                        -20.177644
+                  ]
+            },
+            {
+                  "name": "Domaine Les Pailles",
+                  "text": "Domaine Les Pailles este o atracție turistică versatilă și un loc de recreere în Pailles.",
+                  "category": "landmark",
+                  "coords": [
+                        57.490968,
+                        -20.194234
+                  ]
+            },
+            {
+                  "name": "Centre d'Arts Caudan",
+                  "text": "Centre d'Arts Caudan este un centru de arte proeminent care deservește comunitatea creativă din Pailles.",
+                  "category": "cultural",
+                  "coords": [
+                        57.498197,
+                        -20.161979
+                  ]
+            },
+            {
+                  "name": "Camp Chapelon",
+                  "text": "Camp Chapelon este un sit istoric cu ruine vechi în vecinătatea orașului Pailles.",
+                  "category": "historical",
+                  "coords": [
+                        57.47439,
+                        -20.174668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blue Penny Museum",
+                  "text": "The Blue Penny Museum in Pailles is a history and art museum renowned for exhibiting the rare 1847 Blue Penny stamp.",
+                  "category": "museum",
+                  "coords": [
+                        57.497501,
+                        -20.160906
+                  ]
+            },
+            {
+                  "name": "Photo Museum",
+                  "text": "The Photo Museum is a local institution in Pailles dedicated to the exhibition of photography.",
+                  "category": "museum",
+                  "coords": [
+                        57.5035,
+                        -20.164218
+                  ]
+            },
+            {
+                  "name": "La Tour Koenig Windmill",
+                  "text": "La Tour Koenig Windmill is a castle-like historic structure situated in Pailles.",
+                  "category": "castle",
+                  "coords": [
+                        57.470341,
+                        -20.176483
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Odysseo is a public aquarium featuring marine life exhibits in Pailles.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Signal Mountain",
+                  "text": "Signal Mountain is an elevated viewpoint offering expansive views from Pailles.",
+                  "category": "natural",
+                  "coords": [
+                        57.492247,
+                        -20.174257
+                  ]
+            },
+            {
+                  "name": "Léoville L'Homme",
+                  "text": "Léoville L'Homme is a recognized tourist attraction situated in the city of Pailles.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502202,
+                        -20.163946
+                  ]
+            },
+            {
+                  "name": "Train Ride Domaine les Pailles",
+                  "text": "The Train Ride Domaine les Pailles is a popular scenic railway attraction in Pailles.",
+                  "category": "landmark",
+                  "coords": [
+                        57.488268,
+                        -20.193816
+                  ]
+            },
+            {
+                  "name": "Ruine H...borstal",
+                  "text": "Ruine H...borstal represents the historical ruins of a former structure located in Pailles.",
+                  "category": "historical",
+                  "coords": [
+                        57.470786,
+                        -20.177644
+                  ]
+            },
+            {
+                  "name": "Domaine Les Pailles",
+                  "text": "Domaine Les Pailles is a versatile tourist attraction and recreational site in Pailles.",
+                  "category": "landmark",
+                  "coords": [
+                        57.490968,
+                        -20.194234
+                  ]
+            },
+            {
+                  "name": "Centre d'Arts Caudan",
+                  "text": "Centre d'Arts Caudan is a prominent arts centre serving the creative community in Pailles.",
+                  "category": "cultural",
+                  "coords": [
+                        57.498197,
+                        -20.161979
+                  ]
+            },
+            {
+                  "name": "Camp Chapelon",
+                  "text": "Camp Chapelon is a historical site featuring ancient ruins in the vicinity of Pailles.",
+                  "category": "historical",
+                  "coords": [
+                        57.47439,
+                        -20.174668
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Pailles", hu: "Pailles", ro: "Pailles", en: "Pailles" },
@@ -903,7 +3936,124 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-pailles-cities-v2.webp",
   },
   {
-    id: "mauritius-surinam-cities-v2",
+    id: "mauritius-surinam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Point aux Roches",
+                  "text": "Strand Point aux Roches in Surinam.",
+                  "category": "recreational",
+                  "coords": [
+                        57.475967,
+                        -20.516806
+                  ]
+            },
+            {
+                  "name": "Rochester Falls",
+                  "text": "Rochester Falls sind bekannte Wasserfälle in Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        57.516959,
+                        -20.502582
+                  ]
+            },
+            {
+                  "name": "Riambel Public Beach",
+                  "text": "Öffentlicher Strand Riambel in Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        57.509455,
+                        -20.521852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Point aux Roches",
+                  "text": "Point aux Roches strand Surinamban.",
+                  "category": "recreational",
+                  "coords": [
+                        57.475967,
+                        -20.516806
+                  ]
+            },
+            {
+                  "name": "Rochester Falls",
+                  "text": "A Rochester-vízesés népszerű vízesés Surinamban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.516959,
+                        -20.502582
+                  ]
+            },
+            {
+                  "name": "Riambel Public Beach",
+                  "text": "Riambel nyilvános strand Surinamban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.509455,
+                        -20.521852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Point aux Roches",
+                  "text": "Plaja Point aux Roches din Surinam.",
+                  "category": "recreational",
+                  "coords": [
+                        57.475967,
+                        -20.516806
+                  ]
+            },
+            {
+                  "name": "Rochester Falls",
+                  "text": "Cascadele Rochester sunt cascade cunoscute în Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        57.516959,
+                        -20.502582
+                  ]
+            },
+            {
+                  "name": "Riambel Public Beach",
+                  "text": "Plaja publică Riambel din Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        57.509455,
+                        -20.521852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Point aux Roches",
+                  "text": "Point aux Roches beach in Surinam.",
+                  "category": "recreational",
+                  "coords": [
+                        57.475967,
+                        -20.516806
+                  ]
+            },
+            {
+                  "name": "Rochester Falls",
+                  "text": "Rochester Falls are well-known waterfalls in Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        57.516959,
+                        -20.502582
+                  ]
+            },
+            {
+                  "name": "Riambel Public Beach",
+                  "text": "Riambel public beach in Surinam.",
+                  "category": "landmark",
+                  "coords": [
+                        57.509455,
+                        -20.521852
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Surinam", hu: "Surinam", ro: "Surinam", en: "Surinam" },
@@ -1038,7 +4188,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-new-grove-cities-v2.webp",
   },
   {
-    id: "mauritius-riviere-des-anguilles-cities-v2",
+    id: "mauritius-riviere-des-anguilles-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Vanille Nature Park",
+                  "text": "Naturpark La Vanille in Rivière des Anguilles.",
+                  "category": "natural",
+                  "coords": [
+                        57.563365,
+                        -20.500768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Vanille Nature Park",
+                  "text": "La Vanille természetvédelmi park Rivière des Anguilles-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.563365,
+                        -20.500768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Vanille Nature Park",
+                  "text": "Parcul natural La Vanille din Rivière des Anguilles.",
+                  "category": "natural",
+                  "coords": [
+                        57.563365,
+                        -20.500768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Vanille Nature Park",
+                  "text": "La Vanille nature park in Rivière des Anguilles.",
+                  "category": "natural",
+                  "coords": [
+                        57.563365,
+                        -20.500768
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Rivière des Anguilles", hu: "Rivière des Anguilles", ro: "Rivière des Anguilles", en: "Rivière des Anguilles" },
@@ -1083,7 +4278,88 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-riviere-des-anguilles-cities-v2.webp",
   },
   {
-    id: "mauritius-terre-rouge-town-cities-v2",
+    id: "mauritius-terre-rouge-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Goulet Beach",
+                  "text": "La Goulet Beach ist ein öffentlicher Strand in Terre Rouge.",
+                  "category": "recreational",
+                  "coords": [
+                        57.51749,
+                        -20.105389
+                  ]
+            },
+            {
+                  "name": "Eden Garden Culture and Entertainment Square",
+                  "text": "Der Eden Garden Culture and Entertainment Square ist ein Kunstzentrum in Terre Rouge.",
+                  "category": "cultural",
+                  "coords": [
+                        57.514115,
+                        -20.108871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Goulet Beach",
+                  "text": "A La Goulet Beach egy nyilvános strand Terre Rouge területén.",
+                  "category": "recreational",
+                  "coords": [
+                        57.51749,
+                        -20.105389
+                  ]
+            },
+            {
+                  "name": "Eden Garden Culture and Entertainment Square",
+                  "text": "Az Eden Garden Culture and Entertainment Square egy kulturális központ Terre Rouge városában.",
+                  "category": "cultural",
+                  "coords": [
+                        57.514115,
+                        -20.108871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Goulet Beach",
+                  "text": "Plaja La Goulet este o plajă publică din Terre Rouge.",
+                  "category": "recreational",
+                  "coords": [
+                        57.51749,
+                        -20.105389
+                  ]
+            },
+            {
+                  "name": "Eden Garden Culture and Entertainment Square",
+                  "text": "Eden Garden Culture and Entertainment Square este un centru de arte din Terre Rouge.",
+                  "category": "cultural",
+                  "coords": [
+                        57.514115,
+                        -20.108871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Goulet Beach",
+                  "text": "La Goulet Beach is a public beach located in Terre Rouge.",
+                  "category": "recreational",
+                  "coords": [
+                        57.51749,
+                        -20.105389
+                  ]
+            },
+            {
+                  "name": "Eden Garden Culture and Entertainment Square",
+                  "text": "Eden Garden Culture and Entertainment Square is an arts centre in Terre Rouge.",
+                  "category": "cultural",
+                  "coords": [
+                        57.514115,
+                        -20.108871
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Terre Rouge", hu: "Terre Rouge", ro: "Terre Rouge", en: "Terre Rouge" },
@@ -1173,7 +4449,268 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-petit-raffray-cities-v2.webp",
   },
   {
-    id: "mauritius-pamplemousses-village-cities-v2",
+    id: "mauritius-pamplemousses-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "L'Aventure du Sucre",
+                  "text": "L'Aventure du Sucre ist ein Museum in Pamplemousses über die Zuckerrohrgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        57.57418,
+                        -20.097686
+                  ]
+            },
+            {
+                  "name": "Deer Pen",
+                  "text": "Hirschgehege in Pamplemousses.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579241,
+                        -20.105078
+                  ]
+            },
+            {
+                  "name": "Sir Seewoosagur Ramgoolam Botanical Garden",
+                  "text": "Der botanische Garten Sir Seewoosagur Ramgoolam in Pamplemousses ist weltbekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        57.580414,
+                        -20.106873
+                  ]
+            },
+            {
+                  "name": "Old Sugar Mill Model",
+                  "text": "Modell einer alten Zuckermühle in Pamplemousses.",
+                  "category": "landmark",
+                  "coords": [
+                        57.581288,
+                        -20.105209
+                  ]
+            },
+            {
+                  "name": "Bust Of Bernadin De Saint Puerre",
+                  "text": "Büste von Bernadin de Saint-Pierre in Pamplemousses.",
+                  "category": "historical",
+                  "coords": [
+                        57.579042,
+                        -20.106501
+                  ]
+            },
+            {
+                  "name": "Chateau Mon Plaisir",
+                  "text": "Chateau Mon Plaisir in Pamplemousses.",
+                  "category": "landmark",
+                  "coords": [
+                        57.582294,
+                        -20.105694
+                  ]
+            },
+            {
+                  "name": "St Francois D'Assise",
+                  "text": "Die Kirche Saint-François-d'Assise in Pamplemousses.",
+                  "category": "religious",
+                  "coords": [
+                        57.576831,
+                        -20.107626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "L'Aventure du Sucre",
+                  "text": "A L'Aventure du Sucre egy múzeum Pamplemousses-ban a cukornád történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        57.57418,
+                        -20.097686
+                  ]
+            },
+            {
+                  "name": "Deer Pen",
+                  "text": "Szarvasrezervátum Pamplemousses-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579241,
+                        -20.105078
+                  ]
+            },
+            {
+                  "name": "Sir Seewoosagur Ramgoolam Botanical Garden",
+                  "text": "A Sir Seewoosagur Ramgoolam botanikus kert Pamplemousses-ban világhírű.",
+                  "category": "landmark",
+                  "coords": [
+                        57.580414,
+                        -20.106873
+                  ]
+            },
+            {
+                  "name": "Old Sugar Mill Model",
+                  "text": "Régi cukorgyári modell Pamplemousses-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.581288,
+                        -20.105209
+                  ]
+            },
+            {
+                  "name": "Bust Of Bernadin De Saint Puerre",
+                  "text": "Bernadin de Saint-Pierre mellszobra Pamplemousses-ban.",
+                  "category": "historical",
+                  "coords": [
+                        57.579042,
+                        -20.106501
+                  ]
+            },
+            {
+                  "name": "Chateau Mon Plaisir",
+                  "text": "Chateau Mon Plaisir Pamplemousses-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.582294,
+                        -20.105694
+                  ]
+            },
+            {
+                  "name": "St Francois D'Assise",
+                  "text": "A Saint-François-d'Assise templom Pamplemousses-ban.",
+                  "category": "religious",
+                  "coords": [
+                        57.576831,
+                        -20.107626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "L'Aventure du Sucre",
+                  "text": "L'Aventure du Sucre este un muzeu în Pamplemousses despre istoria trestiei de zahăr.",
+                  "category": "museum",
+                  "coords": [
+                        57.57418,
+                        -20.097686
+                  ]
+            },
+            {
+                  "name": "Deer Pen",
+                  "text": "Rezervație de căprioare în Pamplemousses.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579241,
+                        -20.105078
+                  ]
+            },
+            {
+                  "name": "Sir Seewoosagur Ramgoolam Botanical Garden",
+                  "text": "Grădina botanică Sir Seewoosagur Ramgoolam din Pamplemousses este renumită în lume.",
+                  "category": "landmark",
+                  "coords": [
+                        57.580414,
+                        -20.106873
+                  ]
+            },
+            {
+                  "name": "Old Sugar Mill Model",
+                  "text": "Model de moară de zahăr veche în Pamplemousses.",
+                  "category": "landmark",
+                  "coords": [
+                        57.581288,
+                        -20.105209
+                  ]
+            },
+            {
+                  "name": "Bust Of Bernadin De Saint Puerre",
+                  "text": "Bustul lui Bernadin de Saint-Pierre în Pamplemousses.",
+                  "category": "historical",
+                  "coords": [
+                        57.579042,
+                        -20.106501
+                  ]
+            },
+            {
+                  "name": "Chateau Mon Plaisir",
+                  "text": "Chateau Mon Plaisir în Pamplemousses.",
+                  "category": "landmark",
+                  "coords": [
+                        57.582294,
+                        -20.105694
+                  ]
+            },
+            {
+                  "name": "St Francois D'Assise",
+                  "text": "Biserica Saint-François-d'Assise din Pamplemousses.",
+                  "category": "religious",
+                  "coords": [
+                        57.576831,
+                        -20.107626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "L'Aventure du Sucre",
+                  "text": "L'Aventure du Sucre is a museum in Pamplemousses about sugarcane history.",
+                  "category": "museum",
+                  "coords": [
+                        57.57418,
+                        -20.097686
+                  ]
+            },
+            {
+                  "name": "Deer Pen",
+                  "text": "Deer pen in Pamplemousses.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579241,
+                        -20.105078
+                  ]
+            },
+            {
+                  "name": "Sir Seewoosagur Ramgoolam Botanical Garden",
+                  "text": "The Sir Seewoosagur Ramgoolam botanical garden in Pamplemousses is world-famous.",
+                  "category": "landmark",
+                  "coords": [
+                        57.580414,
+                        -20.106873
+                  ]
+            },
+            {
+                  "name": "Old Sugar Mill Model",
+                  "text": "Old sugar mill model in Pamplemousses.",
+                  "category": "landmark",
+                  "coords": [
+                        57.581288,
+                        -20.105209
+                  ]
+            },
+            {
+                  "name": "Bust Of Bernadin De Saint Puerre",
+                  "text": "Bust of Bernadin de Saint-Pierre in Pamplemousses.",
+                  "category": "historical",
+                  "coords": [
+                        57.579042,
+                        -20.106501
+                  ]
+            },
+            {
+                  "name": "Chateau Mon Plaisir",
+                  "text": "Chateau Mon Plaisir in Pamplemousses.",
+                  "category": "landmark",
+                  "coords": [
+                        57.582294,
+                        -20.105694
+                  ]
+            },
+            {
+                  "name": "St Francois D'Assise",
+                  "text": "The Saint-François-d'Assise church in Pamplemousses.",
+                  "category": "religious",
+                  "coords": [
+                        57.576831,
+                        -20.107626
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Pamplemousses", hu: "Pamplemousses", ro: "Pamplemousses", en: "Pamplemousses" },
@@ -1263,7 +4800,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-montagne-blanche-cities-v2.webp",
   },
   {
-    id: "mauritius-grand-bois-cities-v2",
+    id: "mauritius-grand-bois-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bois Chéri Tea Museum",
+                  "text": "Das Bois Chéri Tea Museum ist ein interaktives Museum, das sich der Teeindustrie in Grand Bois widmet.",
+                  "category": "museum",
+                  "coords": [
+                        57.525893,
+                        -20.426392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bois Chéri Tea Museum",
+                  "text": "A Bois Chéri Tea Museum a teaiparnak szentelt interaktív múzeum Grand Bois-ban.",
+                  "category": "museum",
+                  "coords": [
+                        57.525893,
+                        -20.426392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bois Chéri Tea Museum",
+                  "text": "Bois Chéri Tea Museum este un muzeu interactiv dedicat industriei ceaiului în Grand Bois.",
+                  "category": "museum",
+                  "coords": [
+                        57.525893,
+                        -20.426392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bois Chéri Tea Museum",
+                  "text": "Bois Chéri Tea Museum is an interactive museum dedicated to the tea industry in Grand Bois.",
+                  "category": "museum",
+                  "coords": [
+                        57.525893,
+                        -20.426392
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Grand Bois", hu: "Grand Bois", ro: "Grand Bois", en: "Grand Bois" },
@@ -1308,7 +4890,340 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-grand-bois-cities-v2.webp",
   },
   {
-    id: "mauritius-riche-terre-village-cities-v2",
+    id: "mauritius-riche-terre-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Postal Museum",
+                  "text": "Das Postmuseum in Riche Terre ist das Mauritiische Postmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        57.501651,
+                        -20.159934
+                  ]
+            },
+            {
+                  "name": "Aapravasi Ghat",
+                  "text": "Aapravasi Ghat Museum in Riche Terre.",
+                  "category": "museum",
+                  "coords": [
+                        57.503002,
+                        -20.158495
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Odysseo in Riche Terre ist ein modernes Aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "Das Rivulet Terre Rouge Bird Sanctuary ist ein Schutzgebiet in Riche Terre.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Ein öffentlicher Strand in Riche Terre.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497195,
+                        -20.123259
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "Der Zentralmarkt ist ein belebter Ort in Riche Terre.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502696,
+                        -20.160588
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "Das Chinatown-Tor ist ein bekanntes Denkmal in Riche Terre.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "Fort Albert",
+                  "text": "Die Ruinen von Fort Albert liegen in Riche Terre.",
+                  "category": "historical",
+                  "coords": [
+                        57.497613,
+                        -20.12713
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "Die Jummah-Moschee in Riche Terre ist ein bedeutendes religiöses Bauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        57.505068,
+                        -20.159666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Postal Museum",
+                  "text": "A Riche Terre-i postamúzeum a Mauritiusi Postamúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        57.501651,
+                        -20.159934
+                  ]
+            },
+            {
+                  "name": "Aapravasi Ghat",
+                  "text": "Aapravasi Ghat múzeum Riche Terre-ben.",
+                  "category": "museum",
+                  "coords": [
+                        57.503002,
+                        -20.158495
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Az Odysseo egy modern akvárium Riche Terre-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "A Rivulet Terre Rouge Bird Sanctuary egy természetvédelmi terület Riche Terre-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Nyilvános strand Riche Terre-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497195,
+                        -20.123259
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "A központi piac egy nyüzsgő hely Riche Terre-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502696,
+                        -20.160588
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "A Chinatown-kapu egy ismert emlékmű Riche Terre-ben.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "Fort Albert",
+                  "text": "Fort Albert romjai Riche Terre-ben találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        57.497613,
+                        -20.12713
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "A Riche Terre-i Jummah mecset egy jelentős vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        57.505068,
+                        -20.159666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Postal Museum",
+                  "text": "Muzeul poștal din Riche Terre este Muzeul Poștal din Mauritius.",
+                  "category": "museum",
+                  "coords": [
+                        57.501651,
+                        -20.159934
+                  ]
+            },
+            {
+                  "name": "Aapravasi Ghat",
+                  "text": "Muzeul Aapravasi Ghat din Riche Terre.",
+                  "category": "museum",
+                  "coords": [
+                        57.503002,
+                        -20.158495
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Odysseo din Riche Terre este un acvariu modern.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "Rivulet Terre Rouge Bird Sanctuary este o rezervație naturală din Riche Terre.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "O plajă publică din Riche Terre.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497195,
+                        -20.123259
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "Piața Centrală este un loc animat din Riche Terre.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502696,
+                        -20.160588
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "Poarta Chinatown este un monument cunoscut din Riche Terre.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "Fort Albert",
+                  "text": "Ruinele Fortului Albert se află în Riche Terre.",
+                  "category": "historical",
+                  "coords": [
+                        57.497613,
+                        -20.12713
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "Moscheea Jummah din Riche Terre este un important lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        57.505068,
+                        -20.159666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Postal Museum",
+                  "text": "The postal museum in Riche Terre is the Mauritius Postal Museum.",
+                  "category": "museum",
+                  "coords": [
+                        57.501651,
+                        -20.159934
+                  ]
+            },
+            {
+                  "name": "Aapravasi Ghat",
+                  "text": "Aapravasi Ghat museum in Riche Terre.",
+                  "category": "museum",
+                  "coords": [
+                        57.503002,
+                        -20.158495
+                  ]
+            },
+            {
+                  "name": "Odysseo",
+                  "text": "Odysseo in Riche Terre is a modern aquarium.",
+                  "category": "recreational",
+                  "coords": [
+                        57.494953,
+                        -20.159095
+                  ]
+            },
+            {
+                  "name": "Rivulet Terre Rouge Bird Sanctuary",
+                  "text": "Rivulet Terre Rouge Bird Sanctuary is a nature reserve in Riche Terre.",
+                  "category": "landmark",
+                  "coords": [
+                        57.503712,
+                        -20.142496
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "A public beach in Riche Terre.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497195,
+                        -20.123259
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "The central market is a bustling spot in Riche Terre.",
+                  "category": "landmark",
+                  "coords": [
+                        57.502696,
+                        -20.160588
+                  ]
+            },
+            {
+                  "name": "Chinatown Arch",
+                  "text": "The Chinatown Arch is a notable monument in Riche Terre.",
+                  "category": "historical",
+                  "coords": [
+                        57.507216,
+                        -20.158035
+                  ]
+            },
+            {
+                  "name": "Fort Albert",
+                  "text": "The ruins of Fort Albert are located in Riche Terre.",
+                  "category": "historical",
+                  "coords": [
+                        57.497613,
+                        -20.12713
+                  ]
+            },
+            {
+                  "name": "Jummah Mosque",
+                  "text": "The Jummah Mosque in Riche Terre is a significant place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        57.505068,
+                        -20.159666
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Riche Terre", hu: "Riche Terre", ro: "Riche Terre", en: "Riche Terre" },
@@ -1398,7 +5313,304 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-quartier-militaire-cities-v2.webp",
   },
   {
-    id: "mauritius-cap-malheureux-cities-v2",
+    id: "mauritius-cap-malheureux-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "Public Beach 10.1.2023 ist ein öffentlich zugänglicher Strandbereich in Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "Union Triget",
+                  "text": "Union Triget ist ein malerischer Strand für Besucher in Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632447,
+                        -19.992012
+                  ]
+            },
+            {
+                  "name": "Anse La Raie Beach",
+                  "text": "Anse La Raie Beach ist ein friedlicher Küstenabschnitt in Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632844,
+                        -19.989644
+                  ]
+            },
+            {
+                  "name": "Bell",
+                  "text": "Bell ist ein lokales Wahrzeichen und eine Attraktion in der Gegend von Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.622188,
+                        -19.986611
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "Bain Boeuf Public Beach ist eine beliebte Küstenattraktion in Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Kap Malheureux",
+                  "text": "Kap Malheureux ist ein markanter Ort und eine Touristenattraktion in der gleichnamigen Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        57.620657,
+                        -19.984901
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "Pereybere Public Beach ist eine bekannte Küstenattraktion zur Erholung in Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Dieser Public Beach ist eine entspannte Attraktion am Meer in Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.638195,
+                        -19.996149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "A Public Beach 10.1.2023 egy tengerparti strandterület Cap Malheureux-ben, amely a nyilvánosság számára hozzáférhető.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "Union Triget",
+                  "text": "A Union Triget egy festői strand és úti cél a Cap Malheureux-be látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632447,
+                        -19.992012
+                  ]
+            },
+            {
+                  "name": "Anse La Raie Beach",
+                  "text": "Az Anse La Raie Beach egy békés partszakasz Cap Malheureux városában.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632844,
+                        -19.989644
+                  ]
+            },
+            {
+                  "name": "Bell",
+                  "text": "A Bell egy helyi nevezetesség és látványosság Cap Malheureux területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.622188,
+                        -19.986611
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "A Bain Boeuf Public Beach egy népszerű tengerparti látványosság Cap Malheureux-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Kap Malheureux",
+                  "text": "A Kap Malheureux egy kiemelkedő nevezetesség és turisztikai látványosság az azonos nevű városban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.620657,
+                        -19.984901
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "A Pereybere Public Beach egy jól ismert tengerparti látványosság kikapcsolódáshoz Cap Malheureux-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Ez a Public Beach egy nyugodt tengerparti látványosság Cap Malheureux-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.638195,
+                        -19.996149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "Public Beach 10.1.2023 este o zonă de plajă de coastă accesibilă publicului în Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "Union Triget",
+                  "text": "Union Triget este o destinație de plajă pitorească pentru vizitatorii din Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632447,
+                        -19.992012
+                  ]
+            },
+            {
+                  "name": "Anse La Raie Beach",
+                  "text": "Anse La Raie Beach este o porțiune pașnică de coastă situată în Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632844,
+                        -19.989644
+                  ]
+            },
+            {
+                  "name": "Bell",
+                  "text": "Bell este un punct de reper local și o atracție situată în zona Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.622188,
+                        -19.986611
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "Bain Boeuf Public Beach este o atracție populară de coastă situată în Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Kap Malheureux",
+                  "text": "Kap Malheureux este un punct de interes proeminent și o atracție turistică în orașul cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        57.620657,
+                        -19.984901
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "Pereybere Public Beach este o atracție de pe litoral bine cunoscută pentru recreere în Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Această plajă publică este o atracție relaxantă pe litoral situată în Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.638195,
+                        -19.996149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "Public Beach 10.1.2023 is a coastal beach area accessible to the public in Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "Union Triget",
+                  "text": "Union Triget is a scenic beach destination for visitors in Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632447,
+                        -19.992012
+                  ]
+            },
+            {
+                  "name": "Anse La Raie Beach",
+                  "text": "Anse La Raie Beach is a peaceful stretch of shoreline located in Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632844,
+                        -19.989644
+                  ]
+            },
+            {
+                  "name": "Bell",
+                  "text": "Bell is a local landmark and attraction situated in the area of Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.622188,
+                        -19.986611
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "Bain Boeuf Public Beach is a popular coastal attraction situated in Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Kap Malheureux",
+                  "text": "Kap Malheureux is a prominent point of interest and tourist attraction in the city of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        57.620657,
+                        -19.984901
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "Pereybere Public Beach is a well-known seaside attraction for recreation in Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "This Public Beach is a relaxed seaside attraction located in Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.638195,
+                        -19.996149
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Cap Malheureux", hu: "Cap Malheureux", ro: "Cap Malheureux", en: "Cap Malheureux" },
@@ -1443,7 +5655,196 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-cap-malheureux-cities-v2.webp",
   },
   {
-    id: "mauritius-flic-en-flac-village-cities-v2",
+    id: "mauritius-flic-en-flac-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Flic en Flac",
+                  "text": "Flic en Flac ist ein beliebter Strandort.",
+                  "category": "recreational",
+                  "coords": [
+                        57.366856,
+                        -20.284071
+                  ]
+            },
+            {
+                  "name": "Wolmar Beach",
+                  "text": "Der Wolmar Beach ist ein schöner Strand in Flic en Flac.",
+                  "category": "recreational",
+                  "coords": [
+                        57.368959,
+                        -20.312068
+                  ]
+            },
+            {
+                  "name": "Bolom Ng Art Gallery",
+                  "text": "Die Bolom Ng Art Gallery ist eine Galerie in Flic en Flac.",
+                  "category": "museum",
+                  "coords": [
+                        57.369301,
+                        -20.277505
+                  ]
+            },
+            {
+                  "name": "Flic en Flac Public Beach",
+                  "text": "Der öffentliche Strand von Flic en Flac ist ein beliebtes Ausflugsziel.",
+                  "category": "landmark",
+                  "coords": [
+                        57.364639,
+                        -20.281073
+                  ]
+            },
+            {
+                  "name": "Wolmar Public Beach",
+                  "text": "Der öffentliche Strand Wolmar ist ein beliebtes Ziel in Flic en Flac.",
+                  "category": "landmark",
+                  "coords": [
+                        57.365719,
+                        -20.307022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Flic en Flac",
+                  "text": "Flic en Flac egy népszerű tengerparti üdülőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        57.366856,
+                        -20.284071
+                  ]
+            },
+            {
+                  "name": "Wolmar Beach",
+                  "text": "A Wolmar Beach egy szép strand Flic en Flac-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        57.368959,
+                        -20.312068
+                  ]
+            },
+            {
+                  "name": "Bolom Ng Art Gallery",
+                  "text": "A Bolom Ng Art Gallery egy galéria Flic en Flac-ban.",
+                  "category": "museum",
+                  "coords": [
+                        57.369301,
+                        -20.277505
+                  ]
+            },
+            {
+                  "name": "Flic en Flac Public Beach",
+                  "text": "A Flic en Flac nyilvános strand egy népszerű úti cél.",
+                  "category": "landmark",
+                  "coords": [
+                        57.364639,
+                        -20.281073
+                  ]
+            },
+            {
+                  "name": "Wolmar Public Beach",
+                  "text": "A Wolmar nyilvános strand egy népszerű hely Flic en Flac-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.365719,
+                        -20.307022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Flic en Flac",
+                  "text": "Flic en Flac este o stațiune de plajă populară.",
+                  "category": "recreational",
+                  "coords": [
+                        57.366856,
+                        -20.284071
+                  ]
+            },
+            {
+                  "name": "Wolmar Beach",
+                  "text": "Wolmar Beach este o plajă frumoasă din Flic en Flac.",
+                  "category": "recreational",
+                  "coords": [
+                        57.368959,
+                        -20.312068
+                  ]
+            },
+            {
+                  "name": "Bolom Ng Art Gallery",
+                  "text": "Bolom Ng Art Gallery este o galerie din Flic en Flac.",
+                  "category": "museum",
+                  "coords": [
+                        57.369301,
+                        -20.277505
+                  ]
+            },
+            {
+                  "name": "Flic en Flac Public Beach",
+                  "text": "Plaja publică Flic en Flac este o destinație populară.",
+                  "category": "landmark",
+                  "coords": [
+                        57.364639,
+                        -20.281073
+                  ]
+            },
+            {
+                  "name": "Wolmar Public Beach",
+                  "text": "Plaja publică Wolmar este un loc popular din Flic en Flac.",
+                  "category": "landmark",
+                  "coords": [
+                        57.365719,
+                        -20.307022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flic en Flac",
+                  "text": "Flic en Flac is a popular beach destination.",
+                  "category": "recreational",
+                  "coords": [
+                        57.366856,
+                        -20.284071
+                  ]
+            },
+            {
+                  "name": "Wolmar Beach",
+                  "text": "Wolmar Beach is a scenic beach in Flic en Flac.",
+                  "category": "recreational",
+                  "coords": [
+                        57.368959,
+                        -20.312068
+                  ]
+            },
+            {
+                  "name": "Bolom Ng Art Gallery",
+                  "text": "Bolom Ng Art Gallery is a gallery in Flic en Flac.",
+                  "category": "museum",
+                  "coords": [
+                        57.369301,
+                        -20.277505
+                  ]
+            },
+            {
+                  "name": "Flic en Flac Public Beach",
+                  "text": "Flic en Flac Public Beach is a popular destination.",
+                  "category": "landmark",
+                  "coords": [
+                        57.364639,
+                        -20.281073
+                  ]
+            },
+            {
+                  "name": "Wolmar Public Beach",
+                  "text": "Wolmar Public Beach is a popular spot in Flic en Flac.",
+                  "category": "landmark",
+                  "coords": [
+                        57.365719,
+                        -20.307022
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Flic en Flac", hu: "Flic en Flac", ro: "Flic en Flac", en: "Flic en Flac" },
@@ -1578,7 +5979,268 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-tamarin-cities-v2.webp",
   },
   {
-    id: "mauritius-pointe-aux-piments-cities-v2",
+    id: "mauritius-pointe-aux-piments-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pte aux Piments Public Beach",
+                  "text": "Der Balaclava Public Beach ist ein Strand in Pointe aux Piments.",
+                  "category": "recreational",
+                  "coords": [
+                        57.511523,
+                        -20.079848
+                  ]
+            },
+            {
+                  "name": "Pte. aux Piments Beach",
+                  "text": "Der Strand von Pointe aux Piments ist ein malerischer Ort.",
+                  "category": "recreational",
+                  "coords": [
+                        57.514228,
+                        -20.072581
+                  ]
+            },
+            {
+                  "name": "Réserve Marine de Balaclava",
+                  "text": "Die Réserve Marine de Balaclava ist ein Naturschutzgebiet in Pointe aux Piments.",
+                  "category": "natural",
+                  "coords": [
+                        57.511575,
+                        -20.083408
+                  ]
+            },
+            {
+                  "name": "Ruins of Balaclava",
+                  "text": "Die Ruinen von Balaclava sind ein historischer Ort in Pointe aux Piments.",
+                  "category": "historical",
+                  "coords": [
+                        57.521057,
+                        -20.084799
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "Ein öffentlicher Strandbereich in Pointe aux Piments.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach",
+                  "text": "Ein beliebter öffentlicher Strand in Pointe aux Piments.",
+                  "category": "landmark",
+                  "coords": [
+                        57.518941,
+                        -20.064979
+                  ]
+            },
+            {
+                  "name": "Historical Ruins of Balaclava",
+                  "text": "Historische Ruinen in Pointe aux Piments.",
+                  "category": "historical",
+                  "coords": [
+                        57.520674,
+                        -20.085802
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pte aux Piments Public Beach",
+                  "text": "A Balaclava nyilvános strand egy strand Pointe aux Piments-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.511523,
+                        -20.079848
+                  ]
+            },
+            {
+                  "name": "Pte. aux Piments Beach",
+                  "text": "Pointe aux Piments strandja egy festői hely.",
+                  "category": "recreational",
+                  "coords": [
+                        57.514228,
+                        -20.072581
+                  ]
+            },
+            {
+                  "name": "Réserve Marine de Balaclava",
+                  "text": "A Réserve Marine de Balaclava egy természetvédelmi terület Pointe aux Piments-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.511575,
+                        -20.083408
+                  ]
+            },
+            {
+                  "name": "Ruins of Balaclava",
+                  "text": "Balaclava romjai egy történelmi helyszín Pointe aux Piments-ben.",
+                  "category": "historical",
+                  "coords": [
+                        57.521057,
+                        -20.084799
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "Nyilvános strandterület Pointe aux Piments-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach",
+                  "text": "Népszerű nyilvános strand Pointe aux Piments-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.518941,
+                        -20.064979
+                  ]
+            },
+            {
+                  "name": "Historical Ruins of Balaclava",
+                  "text": "Történelmi romok Pointe aux Piments-ben.",
+                  "category": "historical",
+                  "coords": [
+                        57.520674,
+                        -20.085802
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pte aux Piments Public Beach",
+                  "text": "Plaja publică Balaclava este o plajă din Pointe aux Piments.",
+                  "category": "recreational",
+                  "coords": [
+                        57.511523,
+                        -20.079848
+                  ]
+            },
+            {
+                  "name": "Pte. aux Piments Beach",
+                  "text": "Plaja din Pointe aux Piments este un loc pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        57.514228,
+                        -20.072581
+                  ]
+            },
+            {
+                  "name": "Réserve Marine de Balaclava",
+                  "text": "Réserve Marine de Balaclava este o rezervație naturală din Pointe aux Piments.",
+                  "category": "natural",
+                  "coords": [
+                        57.511575,
+                        -20.083408
+                  ]
+            },
+            {
+                  "name": "Ruins of Balaclava",
+                  "text": "Ruinele din Balaclava sunt un sit istoric din Pointe aux Piments.",
+                  "category": "historical",
+                  "coords": [
+                        57.521057,
+                        -20.084799
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "O zonă de plajă publică din Pointe aux Piments.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach",
+                  "text": "O plajă publică populară din Pointe aux Piments.",
+                  "category": "landmark",
+                  "coords": [
+                        57.518941,
+                        -20.064979
+                  ]
+            },
+            {
+                  "name": "Historical Ruins of Balaclava",
+                  "text": "Ruine istorice din Pointe aux Piments.",
+                  "category": "historical",
+                  "coords": [
+                        57.520674,
+                        -20.085802
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balaclava Public Beach",
+                  "text": "Balaclava Public Beach is a beach in Pointe aux Piments.",
+                  "category": "recreational",
+                  "coords": [
+                        57.511523,
+                        -20.079848
+                  ]
+            },
+            {
+                  "name": "Pte. aux Piments Beach",
+                  "text": "Pointe aux Piments Beach is a scenic spot.",
+                  "category": "recreational",
+                  "coords": [
+                        57.514228,
+                        -20.072581
+                  ]
+            },
+            {
+                  "name": "Réserve Marine de Balaclava",
+                  "text": "Réserve Marine de Balaclava is a nature reserve in Pointe aux Piments.",
+                  "category": "natural",
+                  "coords": [
+                        57.511575,
+                        -20.083408
+                  ]
+            },
+            {
+                  "name": "Ruins of Balaclava",
+                  "text": "The ruins of Balaclava are a historical site in Pointe aux Piments.",
+                  "category": "historical",
+                  "coords": [
+                        57.521057,
+                        -20.084799
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "A public beach area in Pointe aux Piments.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach",
+                  "text": "A popular public beach in Pointe aux Piments.",
+                  "category": "landmark",
+                  "coords": [
+                        57.518941,
+                        -20.064979
+                  ]
+            },
+            {
+                  "name": "Historical Ruins of Balaclava",
+                  "text": "Historical ruins in Pointe aux Piments.",
+                  "category": "historical",
+                  "coords": [
+                        57.520674,
+                        -20.085802
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Pointe aux Piments", hu: "Pointe aux Piments", ro: "Pointe aux Piments", en: "Pointe aux Piments" },
@@ -1623,7 +6285,124 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-pointe-aux-piments-cities-v2.webp",
   },
   {
-    id: "mauritius-trou-deau-douce-cities-v2",
+    id: "mauritius-trou-deau-douce-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laplaz Mao",
+                  "text": "Laplaz Mao ist ein Strand in Trou d'Eau Douce.",
+                  "category": "recreational",
+                  "coords": [
+                        57.78776,
+                        -20.239945
+                  ]
+            },
+            {
+                  "name": "Public Beach, Palmar, Flacq",
+                  "text": "Der Public Beach, Palmar, Flacq ist eine beliebte Küstenattraktion in Trou d'Eau Douce.",
+                  "category": "landmark",
+                  "coords": [
+                        57.800937,
+                        -20.221179
+                  ]
+            },
+            {
+                  "name": "Out of the Blue",
+                  "text": "Out of the Blue ist eine Attraktion in Trou d'Eau Douce.",
+                  "category": "landmark",
+                  "coords": [
+                        57.804045,
+                        -20.234359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laplaz Mao",
+                  "text": "A Laplaz Mao egy strand Trou d'Eau Douce területén.",
+                  "category": "recreational",
+                  "coords": [
+                        57.78776,
+                        -20.239945
+                  ]
+            },
+            {
+                  "name": "Public Beach, Palmar, Flacq",
+                  "text": "A Public Beach, Palmar, Flacq egy népszerű tengerparti látványosság Trou d'Eau Douce városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.800937,
+                        -20.221179
+                  ]
+            },
+            {
+                  "name": "Out of the Blue",
+                  "text": "Az Out of the Blue egy látnivaló Trou d'Eau Douce területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.804045,
+                        -20.234359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laplaz Mao",
+                  "text": "Laplaz Mao este o plajă situată în Trou d'Eau Douce.",
+                  "category": "recreational",
+                  "coords": [
+                        57.78776,
+                        -20.239945
+                  ]
+            },
+            {
+                  "name": "Public Beach, Palmar, Flacq",
+                  "text": "Plaja publică Palmar, Flacq este o atracție de coastă în Trou d'Eau Douce.",
+                  "category": "landmark",
+                  "coords": [
+                        57.800937,
+                        -20.221179
+                  ]
+            },
+            {
+                  "name": "Out of the Blue",
+                  "text": "Out of the Blue este o atracție situată în Trou d'Eau Douce.",
+                  "category": "landmark",
+                  "coords": [
+                        57.804045,
+                        -20.234359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laplaz Mao",
+                  "text": "Laplaz Mao is a beach situated in Trou d'Eau Douce.",
+                  "category": "recreational",
+                  "coords": [
+                        57.78776,
+                        -20.239945
+                  ]
+            },
+            {
+                  "name": "Public Beach, Palmar, Flacq",
+                  "text": "Public Beach, Palmar, Flacq is a popular coastal attraction in Trou d'Eau Douce.",
+                  "category": "landmark",
+                  "coords": [
+                        57.800937,
+                        -20.221179
+                  ]
+            },
+            {
+                  "name": "Out of the Blue",
+                  "text": "Out of the Blue is an attraction located in Trou d'Eau Douce.",
+                  "category": "landmark",
+                  "coords": [
+                        57.804045,
+                        -20.234359
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Trou d'Eau Douce", hu: "Trou d'Eau Douce", ro: "Trou d'Eau Douce", en: "Trou d'Eau Douce" },
@@ -1713,7 +6492,232 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-poste-de-flacq-cities-v2.webp",
   },
   {
-    id: "mauritius-bassin-village-cities-v2",
+    id: "mauritius-bassin-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Milestones Motor Museum",
+                  "text": "Das Milestones Motor Museum in Bassin ist ein Museum für historische Fahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        57.421817,
+                        -20.28261
+                  ]
+            },
+            {
+                  "name": "Corps de Garde",
+                  "text": "Der Berg Corps de Garde ist ein markanter Gipfel in Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.452265,
+                        -20.259758
+                  ]
+            },
+            {
+                  "name": "Mont Saint Pierre",
+                  "text": "Mount Saint Pierre ist ein Gipfel in Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.43236,
+                        -20.267048
+                  ]
+            },
+            {
+                  "name": "Viewpoint on Saddle",
+                  "text": "Ein Aussichtspunkt auf dem Saddle in Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.447155,
+                        -20.309354
+                  ]
+            },
+            {
+                  "name": "Corps de Garde southern viewpoint",
+                  "text": "Der südliche Aussichtspunkt des Corps de Garde in Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.456549,
+                        -20.265665
+                  ]
+            },
+            {
+                  "name": "Mount St. Pierre Viewpoint",
+                  "text": "Ein Aussichtspunkt am Mount St. Pierre in Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.433472,
+                        -20.267079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Milestones Motor Museum",
+                  "text": "A Bassin-i Milestones Motor Museum egy veteránjármű-múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        57.421817,
+                        -20.28261
+                  ]
+            },
+            {
+                  "name": "Corps de Garde",
+                  "text": "A Corps de Garde hegy egy kiemelkedő csúcs Bassin-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.452265,
+                        -20.259758
+                  ]
+            },
+            {
+                  "name": "Mont Saint Pierre",
+                  "text": "A Mount Saint Pierre egy hegycsúcs Bassin-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.43236,
+                        -20.267048
+                  ]
+            },
+            {
+                  "name": "Viewpoint on Saddle",
+                  "text": "Kilátópont a Saddle-en, Bassin-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.447155,
+                        -20.309354
+                  ]
+            },
+            {
+                  "name": "Corps de Garde southern viewpoint",
+                  "text": "A Corps de Garde déli kilátópontja Bassin-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.456549,
+                        -20.265665
+                  ]
+            },
+            {
+                  "name": "Mount St. Pierre Viewpoint",
+                  "text": "Kilátópont a Mount St. Pierre-en, Bassin-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.433472,
+                        -20.267079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Milestones Motor Museum",
+                  "text": "Milestones Motor Museum din Bassin este un muzeu de vehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        57.421817,
+                        -20.28261
+                  ]
+            },
+            {
+                  "name": "Corps de Garde",
+                  "text": "Muntele Corps de Garde este un vârf proeminent din Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.452265,
+                        -20.259758
+                  ]
+            },
+            {
+                  "name": "Mont Saint Pierre",
+                  "text": "Mount Saint Pierre este un vârf din Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.43236,
+                        -20.267048
+                  ]
+            },
+            {
+                  "name": "Viewpoint on Saddle",
+                  "text": "Un punct de belvedere pe Saddle în Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.447155,
+                        -20.309354
+                  ]
+            },
+            {
+                  "name": "Corps de Garde southern viewpoint",
+                  "text": "Punctul de belvedere sudic al Corps de Garde în Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.456549,
+                        -20.265665
+                  ]
+            },
+            {
+                  "name": "Mount St. Pierre Viewpoint",
+                  "text": "Un punct de belvedere la Mount St. Pierre în Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.433472,
+                        -20.267079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Milestones Motor Museum",
+                  "text": "Milestones Motor Museum in Bassin is a museum of historic vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        57.421817,
+                        -20.28261
+                  ]
+            },
+            {
+                  "name": "Corps de Garde",
+                  "text": "Mount Corps de Garde is a prominent peak in Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.452265,
+                        -20.259758
+                  ]
+            },
+            {
+                  "name": "Mount Saint Pierre",
+                  "text": "Mount Saint Pierre is a peak in Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.43236,
+                        -20.267048
+                  ]
+            },
+            {
+                  "name": "Viewpoint on Saddle",
+                  "text": "A viewpoint on the Saddle in Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.447155,
+                        -20.309354
+                  ]
+            },
+            {
+                  "name": "Corps de Garde southern viewpoint",
+                  "text": "The southern viewpoint of Corps de Garde in Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.456549,
+                        -20.265665
+                  ]
+            },
+            {
+                  "name": "Mount St. Pierre Viewpoint",
+                  "text": "A viewpoint at Mount St. Pierre in Bassin.",
+                  "category": "natural",
+                  "coords": [
+                        57.433472,
+                        -20.267079
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Bassin", hu: "Bassin", ro: "Bassin", en: "Bassin" },
@@ -1848,7 +6852,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-midlands-cities-v2.webp",
   },
   {
-    id: "mauritius-dubreuil-cities-v2",
+    id: "mauritius-dubreuil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piton du Milieu",
+                  "text": "Der Piton du Milieu ist ein markanter Berg in Dubreuil.",
+                  "category": "natural",
+                  "coords": [
+                        57.591014,
+                        -20.289461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piton du Milieu",
+                  "text": "A Piton du Milieu egy kiemelkedő hegy Dubreuil-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.591014,
+                        -20.289461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piton du Milieu",
+                  "text": "Piton du Milieu este un munte proeminent din Dubreuil.",
+                  "category": "natural",
+                  "coords": [
+                        57.591014,
+                        -20.289461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piton du Milieu Mountain",
+                  "text": "Piton du Milieu is a prominent mountain in Dubreuil.",
+                  "category": "natural",
+                  "coords": [
+                        57.591014,
+                        -20.289461
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Dubreuil", hu: "Dubreuil", ro: "Dubreuil", en: "Dubreuil" },
@@ -1983,7 +7032,124 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-ecroignard-cities-v2.webp",
   },
   {
-    id: "mauritius-camp-ithier-cities-v2",
+    id: "mauritius-camp-ithier-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Waterpark",
+                  "text": "Ein Wasserpark in Camp Ithier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.768545,
+                        -20.18549
+                  ]
+            },
+            {
+                  "name": "Belle Mare Public Beach",
+                  "text": "Der öffentliche Strand Belle Mare ist ein beliebtes Ziel in Camp Ithier.",
+                  "category": "landmark",
+                  "coords": [
+                        57.775207,
+                        -20.191117
+                  ]
+            },
+            {
+                  "name": "Ruins of Sugar Mill - Belle Mare",
+                  "text": "Die Ruinen der Zuckermühle in Belle Mare liegen in Camp Ithier.",
+                  "category": "historical",
+                  "coords": [
+                        57.770683,
+                        -20.196089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Waterpark",
+                  "text": "Vízi vidámpark Camp Ithier-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.768545,
+                        -20.18549
+                  ]
+            },
+            {
+                  "name": "Belle Mare Public Beach",
+                  "text": "A Belle Mare nyilvános strand egy népszerű úti cél Camp Ithier-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.775207,
+                        -20.191117
+                  ]
+            },
+            {
+                  "name": "Ruins of Sugar Mill - Belle Mare",
+                  "text": "A Belle Mare-i cukorgyár romjai Camp Ithier-ben találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        57.770683,
+                        -20.196089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Waterpark",
+                  "text": "Un parc acvatic din Camp Ithier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.768545,
+                        -20.18549
+                  ]
+            },
+            {
+                  "name": "Belle Mare Public Beach",
+                  "text": "Plaja publică Belle Mare este o destinație populară din Camp Ithier.",
+                  "category": "landmark",
+                  "coords": [
+                        57.775207,
+                        -20.191117
+                  ]
+            },
+            {
+                  "name": "Ruins of Sugar Mill - Belle Mare",
+                  "text": "Ruinele fabricii de zahăr din Belle Mare se află în Camp Ithier.",
+                  "category": "historical",
+                  "coords": [
+                        57.770683,
+                        -20.196089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Waterpark",
+                  "text": "A waterpark in Camp Ithier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.768545,
+                        -20.18549
+                  ]
+            },
+            {
+                  "name": "Belle Mare Public Beach",
+                  "text": "Belle Mare Public Beach is a popular spot in Camp Ithier.",
+                  "category": "landmark",
+                  "coords": [
+                        57.775207,
+                        -20.191117
+                  ]
+            },
+            {
+                  "name": "Ruins of Sugar Mill - Belle Mare",
+                  "text": "The ruins of the sugar mill in Belle Mare are in Camp Ithier.",
+                  "category": "historical",
+                  "coords": [
+                        57.770683,
+                        -20.196089
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Camp Ithier", hu: "Camp Ithier", ro: "Camp Ithier", en: "Camp Ithier" },
@@ -2028,7 +7194,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-camp-ithier-cities-v2.webp",
   },
   {
-    id: "mauritius-bon-accueil-cities-v2",
+    id: "mauritius-bon-accueil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral ist eine Fallschirmspringer-Attraktion in Bon Accueil.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "A Skydive Austral egy ejtőernyős látványosság Bon Accueil városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral este o atracție pentru parașutism situată în Bon Accueil.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral is a skydiving attraction situated in Bon Accueil.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Bon Accueil", hu: "Bon Accueil", ro: "Bon Accueil", en: "Bon Accueil" },
@@ -2073,7 +7284,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-bon-accueil-cities-v2.webp",
   },
   {
-    id: "mauritius-laventure-cities-v2",
+    id: "mauritius-laventure-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral ist eine Fallschirmsprung-Attraktion, die aufregende Erlebnisse in Laventure bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "A Skydive Austral egy ejtőernyős látványosság, amely izgalmas élményeket kínál Laventure-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral este o atracție de parașutism care oferă experiențe captivante în Laventure.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral is a skydiving attraction offering exciting experiences in Laventure.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Laventure", hu: "Laventure", ro: "Laventure", en: "Laventure" },
@@ -2163,7 +7419,88 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-brisee-verdiere-cities-v2.webp",
   },
   {
-    id: "mauritius-chamouny-cities-v2",
+    id: "mauritius-chamouny-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piton Savanne",
+                  "text": "Piton Savanne ist ein Berggipfel in Chamouny.",
+                  "category": "natural",
+                  "coords": [
+                        57.49793,
+                        -20.451083
+                  ]
+            },
+            {
+                  "name": "La Vallée des Couleurs Nature Park",
+                  "text": "Der Naturpark La Vallee des Couleurs ist eine natürliche Attraktion in Chamouny.",
+                  "category": "landmark",
+                  "coords": [
+                        57.484989,
+                        -20.457495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piton Savanne",
+                  "text": "A Piton Savanne egy hegycsúcs Chamouny területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.49793,
+                        -20.451083
+                  ]
+            },
+            {
+                  "name": "La Vallée des Couleurs Nature Park",
+                  "text": "A La Vallee des Couleurs Nature Park egy természeti látványosság Chamouny városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.484989,
+                        -20.457495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piton Savanne",
+                  "text": "Piton Savanne este un vârf de munte situat în Chamouny.",
+                  "category": "natural",
+                  "coords": [
+                        57.49793,
+                        -20.451083
+                  ]
+            },
+            {
+                  "name": "La Vallée des Couleurs Nature Park",
+                  "text": "Parcul Natural La Vallee des Couleurs este o atracție naturală în Chamouny.",
+                  "category": "landmark",
+                  "coords": [
+                        57.484989,
+                        -20.457495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piton Savanne",
+                  "text": "Piton Savanne is a mountain peak located in Chamouny.",
+                  "category": "natural",
+                  "coords": [
+                        57.49793,
+                        -20.451083
+                  ]
+            },
+            {
+                  "name": "La Vallee des Couleurs Nature Park",
+                  "text": "La Vallee des Couleurs Nature Park is a natural attraction in Chamouny.",
+                  "category": "landmark",
+                  "coords": [
+                        57.484989,
+                        -20.457495
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Chamouny", hu: "Chamouny", ro: "Chamouny", en: "Chamouny" },
@@ -2208,7 +7545,88 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-chamouny-cities-v2.webp",
   },
   {
-    id: "mauritius-baie-du-cap-cities-v2",
+    id: "mauritius-baie-du-cap-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maconde",
+                  "text": "Maconde ist ein markanter Aussichtspunkt, der malerische Ausblicke entlang der Küste von Baie du Cap bietet.",
+                  "category": "natural",
+                  "coords": [
+                        57.371038,
+                        -20.491036
+                  ]
+            },
+            {
+                  "name": "Captain Matthew Flinders Monument",
+                  "text": "Das Captain Matthew Flinders Monument ist ein historisches Denkmal in Baie du Cap.",
+                  "category": "historical",
+                  "coords": [
+                        57.365309,
+                        -20.488589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maconde",
+                  "text": "A Maconde egy kiemelkedő kilátó, amely festői panorámát nyújt a Baie du Cap partján.",
+                  "category": "natural",
+                  "coords": [
+                        57.371038,
+                        -20.491036
+                  ]
+            },
+            {
+                  "name": "Captain Matthew Flinders Monument",
+                  "text": "A Captain Matthew Flinders Monument egy történelmi emlékmű Baie du Cap-ban.",
+                  "category": "historical",
+                  "coords": [
+                        57.365309,
+                        -20.488589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maconde",
+                  "text": "Maconde este un punct de belvedere proeminent care oferă priveliști pitorești de-a lungul coastei din Baie du Cap.",
+                  "category": "natural",
+                  "coords": [
+                        57.371038,
+                        -20.491036
+                  ]
+            },
+            {
+                  "name": "Captain Matthew Flinders Monument",
+                  "text": "Monumentul Captain Matthew Flinders este un memorial istoric situat în Baie du Cap.",
+                  "category": "historical",
+                  "coords": [
+                        57.365309,
+                        -20.488589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maconde",
+                  "text": "Maconde is a prominent viewpoint providing scenic vistas along the coast of Baie du Cap.",
+                  "category": "natural",
+                  "coords": [
+                        57.371038,
+                        -20.491036
+                  ]
+            },
+            {
+                  "name": "Captain Matthew Flinders Monument",
+                  "text": "The Captain Matthew Flinders Monument is a historical memorial situated in Baie du Cap.",
+                  "category": "historical",
+                  "coords": [
+                        57.365309,
+                        -20.488589
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Baie du Cap", hu: "Baie du Cap", ro: "Baie du Cap", en: "Baie du Cap" },
@@ -2253,7 +7671,304 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-baie-du-cap-cities-v2.webp",
   },
   {
-    id: "mauritius-le-morne-village-cities-v2",
+    id: "mauritius-le-morne-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Morne Cemetery",
+                  "text": "Der Le Morne Friedhof ist eine archäologische Stätte in Le Morne Village.",
+                  "category": "historical",
+                  "coords": [
+                        57.339078,
+                        -20.460036
+                  ]
+            },
+            {
+                  "name": "Kitesurf Area Le Morne",
+                  "text": "Ein beliebter Strand für Kitesurfen in Le Morne Village.",
+                  "category": "recreational",
+                  "coords": [
+                        57.317981,
+                        -20.464352
+                  ]
+            },
+            {
+                  "name": "Le Morne",
+                  "text": "Le Morne ist ein wunderschöner Strand in Le Morne Village.",
+                  "category": "recreational",
+                  "coords": [
+                        57.312768,
+                        -20.455692
+                  ]
+            },
+            {
+                  "name": "Le Morne Brabant",
+                  "text": "Der Le Morne Brabant ist ein markanter Berg in Le Morne Village.",
+                  "category": "natural",
+                  "coords": [
+                        57.321302,
+                        -20.454075
+                  ]
+            },
+            {
+                  "name": "Piton du Fouge",
+                  "text": "Der Piton du Fouge ist ein Berg in Le Morne Village.",
+                  "category": "natural",
+                  "coords": [
+                        57.359078,
+                        -20.452417
+                  ]
+            },
+            {
+                  "name": "Le Morne Cross",
+                  "text": "Das Le Morne Kreuz ist ein Denkmal in Le Morne Village.",
+                  "category": "historical",
+                  "coords": [
+                        57.324954,
+                        -20.454245
+                  ]
+            },
+            {
+                  "name": "North Viewpoint",
+                  "text": "Ein Aussichtspunkt mit Blick nach Norden in Le Morne Village.",
+                  "category": "natural",
+                  "coords": [
+                        57.330072,
+                        -20.45193
+                  ]
+            },
+            {
+                  "name": "Monument de la route des esclaves",
+                  "text": "Das Slave Route Monument erinnert an die Geschichte von Le Morne Village.",
+                  "category": "landmark",
+                  "coords": [
+                        57.314412,
+                        -20.452324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Morne Cemetery",
+                  "text": "A Le Morne temető egy régészeti lelőhely Le Morne Village-ben.",
+                  "category": "historical",
+                  "coords": [
+                        57.339078,
+                        -20.460036
+                  ]
+            },
+            {
+                  "name": "Kitesurf Area Le Morne",
+                  "text": "Népszerű kitesurf strand Le Morne Village-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.317981,
+                        -20.464352
+                  ]
+            },
+            {
+                  "name": "Le Morne",
+                  "text": "Le Morne egy gyönyörű strand Le Morne Village-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.312768,
+                        -20.455692
+                  ]
+            },
+            {
+                  "name": "Le Morne Brabant",
+                  "text": "A Le Morne Brabant egy látványos hegy Le Morne Village-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.321302,
+                        -20.454075
+                  ]
+            },
+            {
+                  "name": "Piton du Fouge",
+                  "text": "A Piton du Fouge egy hegy Le Morne Village-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.359078,
+                        -20.452417
+                  ]
+            },
+            {
+                  "name": "Le Morne Cross",
+                  "text": "A Le Morne kereszt egy emlékmű Le Morne Village-ben.",
+                  "category": "historical",
+                  "coords": [
+                        57.324954,
+                        -20.454245
+                  ]
+            },
+            {
+                  "name": "North Viewpoint",
+                  "text": "Kilátópont észak felé Le Morne Village-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.330072,
+                        -20.45193
+                  ]
+            },
+            {
+                  "name": "Monument de la route des esclaves",
+                  "text": "A Slave Route Monument a Le Morne Village-i történelmet idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        57.314412,
+                        -20.452324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Morne Cemetery",
+                  "text": "Cimitirul Le Morne este un sit arheologic din Le Morne Village.",
+                  "category": "historical",
+                  "coords": [
+                        57.339078,
+                        -20.460036
+                  ]
+            },
+            {
+                  "name": "Kitesurf Area Le Morne",
+                  "text": "O plajă populară pentru kitesurfing din Le Morne Village.",
+                  "category": "recreational",
+                  "coords": [
+                        57.317981,
+                        -20.464352
+                  ]
+            },
+            {
+                  "name": "Le Morne",
+                  "text": "Le Morne este o plajă superbă din Le Morne Village.",
+                  "category": "recreational",
+                  "coords": [
+                        57.312768,
+                        -20.455692
+                  ]
+            },
+            {
+                  "name": "Le Morne Brabant",
+                  "text": "Le Morne Brabant este un munte spectaculos din Le Morne Village.",
+                  "category": "natural",
+                  "coords": [
+                        57.321302,
+                        -20.454075
+                  ]
+            },
+            {
+                  "name": "Piton du Fouge",
+                  "text": "Piton du Fouge este un munte din Le Morne Village.",
+                  "category": "natural",
+                  "coords": [
+                        57.359078,
+                        -20.452417
+                  ]
+            },
+            {
+                  "name": "Le Morne Cross",
+                  "text": "Crucea Le Morne este un monument din Le Morne Village.",
+                  "category": "historical",
+                  "coords": [
+                        57.324954,
+                        -20.454245
+                  ]
+            },
+            {
+                  "name": "North Viewpoint",
+                  "text": "Un punct de belvedere spre nord în Le Morne Village.",
+                  "category": "natural",
+                  "coords": [
+                        57.330072,
+                        -20.45193
+                  ]
+            },
+            {
+                  "name": "Monument de la route des esclaves",
+                  "text": "Monumentul Slave Route amintește de istoria din Le Morne Village.",
+                  "category": "landmark",
+                  "coords": [
+                        57.314412,
+                        -20.452324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Morne Cemetery",
+                  "text": "Le Morne Cemetery is an archaeological site in Le Morne Village.",
+                  "category": "historical",
+                  "coords": [
+                        57.339078,
+                        -20.460036
+                  ]
+            },
+            {
+                  "name": "Kitesurf Area Le Morne",
+                  "text": "A popular beach for kitesurfing in Le Morne Village.",
+                  "category": "recreational",
+                  "coords": [
+                        57.317981,
+                        -20.464352
+                  ]
+            },
+            {
+                  "name": "Le Morne",
+                  "text": "Le Morne is a beautiful beach in Le Morne Village.",
+                  "category": "recreational",
+                  "coords": [
+                        57.312768,
+                        -20.455692
+                  ]
+            },
+            {
+                  "name": "Le Morne Brabant",
+                  "text": "Le Morne Brabant is a prominent mountain in Le Morne Village.",
+                  "category": "natural",
+                  "coords": [
+                        57.321302,
+                        -20.454075
+                  ]
+            },
+            {
+                  "name": "Piton du Fouge",
+                  "text": "Piton du Fouge is a mountain in Le Morne Village.",
+                  "category": "natural",
+                  "coords": [
+                        57.359078,
+                        -20.452417
+                  ]
+            },
+            {
+                  "name": "Le Morne Cross",
+                  "text": "The Le Morne Cross is a monument in Le Morne Village.",
+                  "category": "historical",
+                  "coords": [
+                        57.324954,
+                        -20.454245
+                  ]
+            },
+            {
+                  "name": "North Viewpoint",
+                  "text": "A viewpoint facing north in Le Morne Village.",
+                  "category": "natural",
+                  "coords": [
+                        57.330072,
+                        -20.45193
+                  ]
+            },
+            {
+                  "name": "Slave Route Monument",
+                  "text": "The Slave Route Monument commemorates the history of Le Morne Village.",
+                  "category": "landmark",
+                  "coords": [
+                        57.314412,
+                        -20.452324
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Le Morne Village", hu: "Le Morne Village", ro: "Le Morne Village", en: "Le Morne Village" },
@@ -2298,7 +8013,124 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-le-morne-village-cities-v2.webp",
   },
   {
-    id: "mauritius-la-gaulette-cities-v2",
+    id: "mauritius-la-gaulette-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crystal Coral rock",
+                  "text": "Crystal Coral rock ist eine lokale Sehenswürdigkeit in La Gaulette.",
+                  "category": "landmark",
+                  "coords": [
+                        57.337577,
+                        -20.414301
+                  ]
+            },
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "Der Case Noyale Viewpoint bietet malerische Ausblicke über La Gaulette.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            },
+            {
+                  "name": "Sublim Point",
+                  "text": "Der Sublim Point ist ein Aussichtspunkt mit weiten Panoramen in La Gaulette.",
+                  "category": "natural",
+                  "coords": [
+                        57.374228,
+                        -20.430399
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crystal Coral rock",
+                  "text": "A Crystal Coral rock egy helyi látványosság La Gaulette városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.337577,
+                        -20.414301
+                  ]
+            },
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "A Case Noyale Viewpoint festői kilátást nyújt La Gaulette területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            },
+            {
+                  "name": "Sublim Point",
+                  "text": "A Sublim Point egy széles panorámát nyújtó kilátó La Gaulette-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.374228,
+                        -20.430399
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crystal Coral rock",
+                  "text": "Crystal Coral rock este o atracție locală în La Gaulette.",
+                  "category": "landmark",
+                  "coords": [
+                        57.337577,
+                        -20.414301
+                  ]
+            },
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "Case Noyale Viewpoint oferă vederi pitorești în La Gaulette.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            },
+            {
+                  "name": "Sublim Point",
+                  "text": "Sublim Point este un punct de belvedere cu panorame ample în La Gaulette.",
+                  "category": "natural",
+                  "coords": [
+                        57.374228,
+                        -20.430399
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crystal Coral rock",
+                  "text": "Crystal Coral rock is a local attraction located in La Gaulette.",
+                  "category": "landmark",
+                  "coords": [
+                        57.337577,
+                        -20.414301
+                  ]
+            },
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "Case Noyale Viewpoint offers scenic views over the area of La Gaulette.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            },
+            {
+                  "name": "Sublim Point",
+                  "text": "Sublim Point is a viewpoint providing sweeping panoramas in La Gaulette.",
+                  "category": "natural",
+                  "coords": [
+                        57.374228,
+                        -20.430399
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "La Gaulette", hu: "La Gaulette", ro: "La Gaulette", en: "La Gaulette" },
@@ -2343,7 +8175,88 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-la-gaulette-cities-v2.webp",
   },
   {
-    id: "mauritius-case-noyale-cities-v2",
+    id: "mauritius-case-noyale-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crystal Coral rock",
+                  "text": "Crystal Coral rock ist eine natürliche geologische Attraktion in Case Noyale.",
+                  "category": "landmark",
+                  "coords": [
+                        57.337577,
+                        -20.414301
+                  ]
+            },
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "Der Case Noyale Viewpoint ist eine Aussichtsplattform mit weitem Blick in die Natur von Case Noyale.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crystal Coral rock",
+                  "text": "A Crystal Coral rock egy természetes geológiai látványosság Case Noyale-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.337577,
+                        -20.414301
+                  ]
+            },
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "A Case Noyale Viewpoint egy kilátóterasz, amely kiterjedt természeti kilátást nyújt Case Noyale-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crystal Coral rock",
+                  "text": "Crystal Coral rock este o atracție geologică naturală situată în Case Noyale.",
+                  "category": "landmark",
+                  "coords": [
+                        57.337577,
+                        -20.414301
+                  ]
+            },
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "Case Noyale Viewpoint este o punte de observație care oferă priveliști naturale extinse în Case Noyale.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crystal Coral rock",
+                  "text": "Crystal Coral rock is a natural geological attraction situated in Case Noyale.",
+                  "category": "landmark",
+                  "coords": [
+                        57.337577,
+                        -20.414301
+                  ]
+            },
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "Case Noyale Viewpoint is an observation deck offering expansive natural views in Case Noyale.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Case Noyale", hu: "Case Noyale", ro: "Case Noyale", en: "Case Noyale" },
@@ -2388,7 +8301,196 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-case-noyale-cities-v2.webp",
   },
   {
-    id: "mauritius-grande-riviere-noire-cities-v2",
+    id: "mauritius-grande-riviere-noire-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Preneuse Beach",
+                  "text": "Der Strand La Preneuse ist ein malerischer Ort in Grande Rivière Noire.",
+                  "category": "recreational",
+                  "coords": [
+                        57.360826,
+                        -20.353665
+                  ]
+            },
+            {
+                  "name": "La batterie de l'harmonie",
+                  "text": "Die Batterie de l'harmonie ist ein historisches Fort in Grande Rivière Noire.",
+                  "category": "fortress",
+                  "coords": [
+                        57.360753,
+                        -20.372288
+                  ]
+            },
+            {
+                  "name": "Tourelle du Tamarin",
+                  "text": "Die Tourelle du Tamarin ist ein Berg in Grande Rivière Noire.",
+                  "category": "natural",
+                  "coords": [
+                        57.376145,
+                        -20.347772
+                  ]
+            },
+            {
+                  "name": "Wallart printing and framing",
+                  "text": "Eine Galerie für Drucke und Rahmen in Grande Rivière Noire.",
+                  "category": "museum",
+                  "coords": [
+                        57.366178,
+                        -20.355167
+                  ]
+            },
+            {
+                  "name": "La Tour Martello",
+                  "text": "La Tour Martello ist ein historischer Martello-Turm in Grande Rivière Noire.",
+                  "category": "landmark",
+                  "coords": [
+                        57.361834,
+                        -20.354656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Preneuse Beach",
+                  "text": "A La Preneuse strand egy festői hely Grande Rivière Noire-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        57.360826,
+                        -20.353665
+                  ]
+            },
+            {
+                  "name": "La batterie de l'harmonie",
+                  "text": "A Batterie de l'harmonie egy történelmi erőd Grande Rivière Noire-ban.",
+                  "category": "fortress",
+                  "coords": [
+                        57.360753,
+                        -20.372288
+                  ]
+            },
+            {
+                  "name": "Tourelle du Tamarin",
+                  "text": "A Tourelle du Tamarin egy hegy Grande Rivière Noire-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.376145,
+                        -20.347772
+                  ]
+            },
+            {
+                  "name": "Wallart printing and framing",
+                  "text": "Nyomat- és keretező galéria Grande Rivière Noire-ban.",
+                  "category": "museum",
+                  "coords": [
+                        57.366178,
+                        -20.355167
+                  ]
+            },
+            {
+                  "name": "La Tour Martello",
+                  "text": "La Tour Martello egy történelmi Martello-torony Grande Rivière Noire-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.361834,
+                        -20.354656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Preneuse Beach",
+                  "text": "Plaja La Preneuse este un loc pitoresc din Grande Rivière Noire.",
+                  "category": "recreational",
+                  "coords": [
+                        57.360826,
+                        -20.353665
+                  ]
+            },
+            {
+                  "name": "La batterie de l'harmonie",
+                  "text": "Batterie de l'harmonie este un fort istoric din Grande Rivière Noire.",
+                  "category": "fortress",
+                  "coords": [
+                        57.360753,
+                        -20.372288
+                  ]
+            },
+            {
+                  "name": "Tourelle du Tamarin",
+                  "text": "Tourelle du Tamarin este un munte din Grande Rivière Noire.",
+                  "category": "natural",
+                  "coords": [
+                        57.376145,
+                        -20.347772
+                  ]
+            },
+            {
+                  "name": "Wallart printing and framing",
+                  "text": "O galerie de printuri și rame din Grande Rivière Noire.",
+                  "category": "museum",
+                  "coords": [
+                        57.366178,
+                        -20.355167
+                  ]
+            },
+            {
+                  "name": "La Tour Martello",
+                  "text": "La Tour Martello este un turn Martello istoric din Grande Rivière Noire.",
+                  "category": "landmark",
+                  "coords": [
+                        57.361834,
+                        -20.354656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Preneuse Beach",
+                  "text": "La Preneuse Beach is a scenic spot in Grande Rivière Noire.",
+                  "category": "recreational",
+                  "coords": [
+                        57.360826,
+                        -20.353665
+                  ]
+            },
+            {
+                  "name": "La batterie de l'harmonie",
+                  "text": "The Batterie de l'harmonie is a historical fort in Grande Rivière Noire.",
+                  "category": "fortress",
+                  "coords": [
+                        57.360753,
+                        -20.372288
+                  ]
+            },
+            {
+                  "name": "Tourelle du Tamarin",
+                  "text": "Tourelle du Tamarin is a mountain in Grande Rivière Noire.",
+                  "category": "natural",
+                  "coords": [
+                        57.376145,
+                        -20.347772
+                  ]
+            },
+            {
+                  "name": "Wallart printing and framing",
+                  "text": "A print and framing gallery in Grande Rivière Noire.",
+                  "category": "museum",
+                  "coords": [
+                        57.366178,
+                        -20.355167
+                  ]
+            },
+            {
+                  "name": "La Tour Martello",
+                  "text": "La Tour Martello is a historical Martello tower in Grande Rivière Noire.",
+                  "category": "landmark",
+                  "coords": [
+                        57.361834,
+                        -20.354656
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Grande Rivière Noire", hu: "Grande Rivière Noire", ro: "Grande Rivière Noire", en: "Grande Rivière Noire" },
@@ -2433,7 +8535,268 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-grande-riviere-noire-cities-v2.webp",
   },
   {
-    id: "mauritius-petite-riviere-cities-v2",
+    id: "mauritius-petite-riviere-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Tour Koenig Windmill",
+                  "text": "Die La Tour Koenig Windmill ist ein historisches Burggebäude in Petite Rivière.",
+                  "category": "castle",
+                  "coords": [
+                        57.470341,
+                        -20.176483
+                  ]
+            },
+            {
+                  "name": "Public Beach Pointe aux Sables",
+                  "text": "Der Public Beach Pointe aux Sables ist ein Erholungsgebiet an der Küste in Petite Rivière.",
+                  "category": "recreational",
+                  "coords": [
+                        57.437717,
+                        -20.173975
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Der Public Beach ist ein Erholungsort an der Küste in Petite Rivière.",
+                  "category": "recreational",
+                  "coords": [
+                        57.458273,
+                        -20.166463
+                  ]
+            },
+            {
+                  "name": "Four A Chaux De Petit Verger",
+                  "text": "Das Four A Chaux De Petit Verger ist ein Museum mit kulturellen Ausstellungen in Petite Rivière.",
+                  "category": "museum",
+                  "coords": [
+                        57.433912,
+                        -20.175176
+                  ]
+            },
+            {
+                  "name": "Montagne Jacquot",
+                  "text": "Der Mount Jacquot ist ein malerischer Aussichtspunkt in Petite Rivière.",
+                  "category": "natural",
+                  "coords": [
+                        57.426484,
+                        -20.179206
+                  ]
+            },
+            {
+                  "name": "Ruine H...borstal",
+                  "text": "Die Ruine H...borstal zeigt historische Ruinen in Petite Rivière.",
+                  "category": "historical",
+                  "coords": [
+                        57.470786,
+                        -20.177644
+                  ]
+            },
+            {
+                  "name": "Camp Chapelon",
+                  "text": "Camp Chapelon ist eine Stätte mit historischen Ruinen in Petite Rivière.",
+                  "category": "historical",
+                  "coords": [
+                        57.47439,
+                        -20.174668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Tour Koenig Windmill",
+                  "text": "A La Tour Koenig Windmill egy történelmi kastélyépület Petite Rivière-ben.",
+                  "category": "castle",
+                  "coords": [
+                        57.470341,
+                        -20.176483
+                  ]
+            },
+            {
+                  "name": "Public Beach Pointe aux Sables",
+                  "text": "A Public Beach Pointe aux Sables egy partmenti pihenőhely Petite Rivière-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.437717,
+                        -20.173975
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "A Public Beach egy partmenti pihenőhely Petite Rivière-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.458273,
+                        -20.166463
+                  ]
+            },
+            {
+                  "name": "Four A Chaux De Petit Verger",
+                  "text": "A Four A Chaux De Petit Verger egy kulturális kiállításokat kínáló múzeum Petite Rivière-ben.",
+                  "category": "museum",
+                  "coords": [
+                        57.433912,
+                        -20.175176
+                  ]
+            },
+            {
+                  "name": "Montagne Jacquot",
+                  "text": "A Mount Jacquot egy festői kilátó Petite Rivière-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.426484,
+                        -20.179206
+                  ]
+            },
+            {
+                  "name": "Ruine H...borstal",
+                  "text": "A Ruine H...borstal történelmi romokat mutat be Petite Rivière-ben.",
+                  "category": "historical",
+                  "coords": [
+                        57.470786,
+                        -20.177644
+                  ]
+            },
+            {
+                  "name": "Camp Chapelon",
+                  "text": "A Camp Chapelon egy történelmi romokat tartalmazó helyszín Petite Rivière-ben.",
+                  "category": "historical",
+                  "coords": [
+                        57.47439,
+                        -20.174668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Tour Koenig Windmill",
+                  "text": "La Tour Koenig Windmill este o structură de castel istoric situată în Petite Rivière.",
+                  "category": "castle",
+                  "coords": [
+                        57.470341,
+                        -20.176483
+                  ]
+            },
+            {
+                  "name": "Public Beach Pointe aux Sables",
+                  "text": "Public Beach Pointe aux Sables este o zonă de relaxare pe coastă situată în Petite Rivière.",
+                  "category": "recreational",
+                  "coords": [
+                        57.437717,
+                        -20.173975
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public Beach este un loc de recreere pe coastă în Petite Rivière.",
+                  "category": "recreational",
+                  "coords": [
+                        57.458273,
+                        -20.166463
+                  ]
+            },
+            {
+                  "name": "Four A Chaux De Petit Verger",
+                  "text": "Four A Chaux De Petit Verger este un muzeu care oferă expoziții culturale în Petite Rivière.",
+                  "category": "museum",
+                  "coords": [
+                        57.433912,
+                        -20.175176
+                  ]
+            },
+            {
+                  "name": "Montagne Jacquot",
+                  "text": "Mount Jacquot este un punct de belvedere pitoresc situat în Petite Rivière.",
+                  "category": "natural",
+                  "coords": [
+                        57.426484,
+                        -20.179206
+                  ]
+            },
+            {
+                  "name": "Ruine H...borstal",
+                  "text": "Ruine H...borstal prezintă ruine istorice situate în Petite Rivière.",
+                  "category": "historical",
+                  "coords": [
+                        57.470786,
+                        -20.177644
+                  ]
+            },
+            {
+                  "name": "Camp Chapelon",
+                  "text": "Camp Chapelon este un sit care conține ruine istorice în Petite Rivière.",
+                  "category": "historical",
+                  "coords": [
+                        57.47439,
+                        -20.174668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Tour Koenig Windmill",
+                  "text": "La Tour Koenig Windmill is a historical castle structure located in Petite Rivière.",
+                  "category": "castle",
+                  "coords": [
+                        57.470341,
+                        -20.176483
+                  ]
+            },
+            {
+                  "name": "Public Beach Pointe aux Sables",
+                  "text": "Public Beach Pointe aux Sables is a coastal relaxation area situated in Petite Rivière.",
+                  "category": "recreational",
+                  "coords": [
+                        57.437717,
+                        -20.173975
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public Beach is a coastal recreation spot located in Petite Rivière.",
+                  "category": "recreational",
+                  "coords": [
+                        57.458273,
+                        -20.166463
+                  ]
+            },
+            {
+                  "name": "Four A Chaux De Petit Verger",
+                  "text": "Four A Chaux De Petit Verger is a museum offering cultural exhibits in Petite Rivière.",
+                  "category": "museum",
+                  "coords": [
+                        57.433912,
+                        -20.175176
+                  ]
+            },
+            {
+                  "name": "Mount Jacquot",
+                  "text": "Mount Jacquot is a scenic viewpoint situated in Petite Rivière.",
+                  "category": "natural",
+                  "coords": [
+                        57.426484,
+                        -20.179206
+                  ]
+            },
+            {
+                  "name": "Ruine H...borstal",
+                  "text": "Ruine H...borstal features historical ruins located in Petite Rivière.",
+                  "category": "historical",
+                  "coords": [
+                        57.470786,
+                        -20.177644
+                  ]
+            },
+            {
+                  "name": "Camp Chapelon",
+                  "text": "Camp Chapelon is a site containing historical ruins in Petite Rivière.",
+                  "category": "historical",
+                  "coords": [
+                        57.47439,
+                        -20.174668
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Petite Rivière", hu: "Petite Rivière", ro: "Petite Rivière", en: "Petite Rivière" },
@@ -2478,7 +8841,196 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-petite-riviere-cities-v2.webp",
   },
   {
-    id: "mauritius-grand-gaube-cities-v2",
+    id: "mauritius-grand-gaube-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "St Francois Debarcadere Fish Landing Station",
+                  "text": "Die St Francois Debarcadere Fish Landing Station ist ein Strandbereich in Grand Gaube, der sich auf Fischereiaktivitäten konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        57.642705,
+                        -20.000498
+                  ]
+            },
+            {
+                  "name": "Melville Public Beach",
+                  "text": "Melville Public Beach ist ein entspannender Küstenbereich, der Besuchern in Grand Gaube zugänglich ist.",
+                  "category": "recreational",
+                  "coords": [
+                        57.682207,
+                        -20.015407
+                  ]
+            },
+            {
+                  "name": "Grand Gaube Public Beach",
+                  "text": "Grand Gaube Public Beach ist eine beliebte Sandattraktion für Einheimische und Touristen in Grand Gaube.",
+                  "category": "landmark",
+                  "coords": [
+                        57.665331,
+                        -20.005842
+                  ]
+            },
+            {
+                  "name": "Grand Gaube Public Beach II",
+                  "text": "Grand Gaube Public Beach II bietet eine weitere Attraktion am Wasser zur Erholung in Grand Gaube.",
+                  "category": "landmark",
+                  "coords": [
+                        57.671414,
+                        -20.008207
+                  ]
+            },
+            {
+                  "name": "Pointe Oscorne",
+                  "text": "Pointe Oscorne ist ein bemerkenswerter geografischer Punkt und eine Attraktion in Grand Gaube.",
+                  "category": "landmark",
+                  "coords": [
+                        57.682946,
+                        -20.00947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St Francois Debarcadere Fish Landing Station",
+                  "text": "A St Francois Debarcadere Fish Landing Station egy halászati tevékenységekre összpontosító tengerparti terület Grand Gaube-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        57.642705,
+                        -20.000498
+                  ]
+            },
+            {
+                  "name": "Melville Public Beach",
+                  "text": "A Melville Public Beach egy pihentető tengerparti terület, amely nyitva áll a látogatók előtt Grand Gaube-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        57.682207,
+                        -20.015407
+                  ]
+            },
+            {
+                  "name": "Grand Gaube Public Beach",
+                  "text": "A Grand Gaube Public Beach egy népszerű homokos látványosság a helyiek és a turisták számára Grand Gaube-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.665331,
+                        -20.005842
+                  ]
+            },
+            {
+                  "name": "Grand Gaube Public Beach II",
+                  "text": "A Grand Gaube Public Beach II egy további vízparti látványosságot kínál kikapcsolódáshoz Grand Gaube-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.671414,
+                        -20.008207
+                  ]
+            },
+            {
+                  "name": "Pointe Oscorne",
+                  "text": "A Pointe Oscorne egy figyelemre méltó földrajzi pont és látványosság Grand Gaube-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.682946,
+                        -20.00947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St Francois Debarcadere Fish Landing Station",
+                  "text": "St Francois Debarcadere Fish Landing Station este o zonă de plajă de coastă din Grand Gaube axată pe activități de pescuit.",
+                  "category": "recreational",
+                  "coords": [
+                        57.642705,
+                        -20.000498
+                  ]
+            },
+            {
+                  "name": "Melville Public Beach",
+                  "text": "Melville Public Beach este o zonă de coastă relaxantă accesibilă vizitatorilor în Grand Gaube.",
+                  "category": "recreational",
+                  "coords": [
+                        57.682207,
+                        -20.015407
+                  ]
+            },
+            {
+                  "name": "Grand Gaube Public Beach",
+                  "text": "Grand Gaube Public Beach este o atracție de nisip populară pentru localnici și turiști în Grand Gaube.",
+                  "category": "landmark",
+                  "coords": [
+                        57.665331,
+                        -20.005842
+                  ]
+            },
+            {
+                  "name": "Grand Gaube Public Beach II",
+                  "text": "Grand Gaube Public Beach II oferă o atracție suplimentară pe malul apei pentru recreere în Grand Gaube.",
+                  "category": "landmark",
+                  "coords": [
+                        57.671414,
+                        -20.008207
+                  ]
+            },
+            {
+                  "name": "Pointe Oscorne",
+                  "text": "Pointe Oscorne este un punct geografic notabil și o atracție de vizitat în Grand Gaube.",
+                  "category": "landmark",
+                  "coords": [
+                        57.682946,
+                        -20.00947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St Francois Debarcadere Fish Landing Station",
+                  "text": "St Francois Debarcadere Fish Landing Station is a coastal beach area in Grand Gaube focused on fishing activities.",
+                  "category": "recreational",
+                  "coords": [
+                        57.642705,
+                        -20.000498
+                  ]
+            },
+            {
+                  "name": "Melville Public Beach",
+                  "text": "Melville Public Beach is a relaxing coastal area accessible to visitors in Grand Gaube.",
+                  "category": "recreational",
+                  "coords": [
+                        57.682207,
+                        -20.015407
+                  ]
+            },
+            {
+                  "name": "Grand Gaube Public Beach",
+                  "text": "Grand Gaube Public Beach is a popular sandy attraction for locals and tourists in Grand Gaube.",
+                  "category": "landmark",
+                  "coords": [
+                        57.665331,
+                        -20.005842
+                  ]
+            },
+            {
+                  "name": "Grand Gaube Public Beach II",
+                  "text": "Grand Gaube Public Beach II provides an additional waterfront attraction for recreation in Grand Gaube.",
+                  "category": "landmark",
+                  "coords": [
+                        57.671414,
+                        -20.008207
+                  ]
+            },
+            {
+                  "name": "Pointe Oscorne",
+                  "text": "Pointe Oscorne is a notable geographic point and attraction to visit in Grand Gaube.",
+                  "category": "landmark",
+                  "coords": [
+                        57.682946,
+                        -20.00947
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Grand Gaube", hu: "Grand Gaube", ro: "Grand Gaube", en: "Grand Gaube" },
@@ -2613,7 +9165,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-poudre-dor-cities-v2.webp",
   },
   {
-    id: "mauritius-plaine-des-papayes-cities-v2",
+    id: "mauritius-plaine-des-papayes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Butte aux Papayes",
+                  "text": "Butte Aux Papayes ist ein Gipfel in Plaine des Papayes.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Butte aux Papayes",
+                  "text": "A Butte Aux Papayes egy csúcs Plaine des Papayes területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Butte aux Papayes",
+                  "text": "Butte Aux Papayes este un vârf situat în Plaine des Papayes.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Butte Aux Papayes",
+                  "text": "Butte Aux Papayes is a peak located in Plaine des Papayes.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Plaine des Papayes", hu: "Plaine des Papayes", ro: "Plaine des Papayes", en: "Plaine des Papayes" },
@@ -2658,7 +9255,160 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-plaine-des-papayes-cities-v2.webp",
   },
   {
-    id: "mauritius-mapou-cities-v2",
+    id: "mauritius-mapou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château de Labourdonnais",
+                  "text": "Das Château de Labourdonnais ist ein Museum in Mapou.",
+                  "category": "museum",
+                  "coords": [
+                        57.617545,
+                        -20.071733
+                  ]
+            },
+            {
+                  "name": "Forbach Hill",
+                  "text": "Der Forbach Hill ist ein Hügel in Mapou.",
+                  "category": "natural",
+                  "coords": [
+                        57.622282,
+                        -20.049854
+                  ]
+            },
+            {
+                  "name": "Butte aux Papayes",
+                  "text": "Die Butte Aux Papayes ist ein Gipfel in Mapou.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            },
+            {
+                  "name": "Gallery 72 Mauritius",
+                  "text": "Die Gallery 72 Mauritius ist eine Galerie in Mapou.",
+                  "category": "museum",
+                  "coords": [
+                        57.615537,
+                        -20.071125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Labourdonnais",
+                  "text": "A Château de Labourdonnais egy múzeum Mapou-ban.",
+                  "category": "museum",
+                  "coords": [
+                        57.617545,
+                        -20.071733
+                  ]
+            },
+            {
+                  "name": "Forbach Hill",
+                  "text": "A Forbach Hill egy domb Mapou-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.622282,
+                        -20.049854
+                  ]
+            },
+            {
+                  "name": "Butte aux Papayes",
+                  "text": "A Butte Aux Papayes egy hegycsúcs Mapou-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            },
+            {
+                  "name": "Gallery 72 Mauritius",
+                  "text": "A Gallery 72 Mauritius egy galéria Mapou-ban.",
+                  "category": "museum",
+                  "coords": [
+                        57.615537,
+                        -20.071125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Labourdonnais",
+                  "text": "Château de Labourdonnais este un muzeu din Mapou.",
+                  "category": "museum",
+                  "coords": [
+                        57.617545,
+                        -20.071733
+                  ]
+            },
+            {
+                  "name": "Forbach Hill",
+                  "text": "Forbach Hill este un deal din Mapou.",
+                  "category": "natural",
+                  "coords": [
+                        57.622282,
+                        -20.049854
+                  ]
+            },
+            {
+                  "name": "Butte aux Papayes",
+                  "text": "Butte Aux Papayes este un vârf din Mapou.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            },
+            {
+                  "name": "Gallery 72 Mauritius",
+                  "text": "Gallery 72 Mauritius este o galerie din Mapou.",
+                  "category": "museum",
+                  "coords": [
+                        57.615537,
+                        -20.071125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Labourdonnais",
+                  "text": "Château de Labourdonnais is a museum in Mapou.",
+                  "category": "museum",
+                  "coords": [
+                        57.617545,
+                        -20.071733
+                  ]
+            },
+            {
+                  "name": "Forbach Hill",
+                  "text": "Forbach Hill is a hill in Mapou.",
+                  "category": "natural",
+                  "coords": [
+                        57.622282,
+                        -20.049854
+                  ]
+            },
+            {
+                  "name": "Butte Aux Papayes",
+                  "text": "Butte Aux Papayes is a peak in Mapou.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            },
+            {
+                  "name": "Gallery 72 Mauritius",
+                  "text": "Gallery 72 Mauritius is a gallery in Mapou.",
+                  "category": "museum",
+                  "coords": [
+                        57.615537,
+                        -20.071125
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Mapou", hu: "Mapou", ro: "Mapou", en: "Mapou" },
@@ -2703,7 +9453,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-mapou-cities-v2.webp",
   },
   {
-    id: "mauritius-fond-du-sac-cities-v2",
+    id: "mauritius-fond-du-sac-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Butte aux Papayes",
+                  "text": "Der Butte Aux Papayes ist ein natürlicher Gipfel in Fond du Sac.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Butte aux Papayes",
+                  "text": "A Butte Aux Papayes egy természetes hegycsúcs Fond du Sac-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Butte aux Papayes",
+                  "text": "Butte Aux Papayes este un vârf natural situat în Fond du Sac.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Butte Aux Papayes",
+                  "text": "Butte Aux Papayes is a natural peak located in Fond du Sac.",
+                  "category": "natural",
+                  "coords": [
+                        57.606457,
+                        -20.062973
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Fond du Sac", hu: "Fond du Sac", ro: "Fond du Sac", en: "Fond du Sac" },
@@ -2748,7 +9543,340 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-fond-du-sac-cities-v2.webp",
   },
   {
-    id: "mauritius-mont-choisy-cities-v2",
+    id: "mauritius-mont-choisy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "Mont Choisy Beach ist ein Strand in Mont Choisy.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "Plage de Mont Choisy",
+                  "text": "Plage de Mont Choisy ist ein Strand in Mont Choisy.",
+                  "category": "recreational",
+                  "coords": [
+                        57.554171,
+                        -20.006894
+                  ]
+            },
+            {
+                  "name": "La Plage Des Canisses",
+                  "text": "La Plage Des Canisses ist ein Strand in Mont Choisy.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579425,
+                        -20.015488
+                  ]
+            },
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "Blue Safari Submarine ist eine Sehenswürdigkeit in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Mont Choisy Public Beach",
+                  "text": "Mont Choisy Public Beach ist eine Sehenswürdigkeit in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.556447,
+                        -20.014407
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public Beach ist eine Sehenswürdigkeit in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "Trou aux Biches Public Beach ist eine Sehenswürdigkeit in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "Piments Public Beach ist eine Sehenswürdigkeit in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "Trou aux Biches Resort & Spa ist ein Hotel in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "A Mont Choisy Beach egy strand Mont Choisy területén.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "Plage de Mont Choisy",
+                  "text": "A Plage de Mont Choisy egy strand Mont Choisy területén.",
+                  "category": "recreational",
+                  "coords": [
+                        57.554171,
+                        -20.006894
+                  ]
+            },
+            {
+                  "name": "La Plage Des Canisses",
+                  "text": "A La Plage Des Canisses egy strand Mont Choisy területén.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579425,
+                        -20.015488
+                  ]
+            },
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "A Blue Safari Submarine egy látványosság Mont Choisy területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Mont Choisy Public Beach",
+                  "text": "A Mont Choisy Public Beach egy látványosság Mont Choisy területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.556447,
+                        -20.014407
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "A Public Beach egy látványosság Mont Choisy területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "A Trou aux Biches Public Beach egy látványosság Mont Choisy területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "A Piments Public Beach egy látványosság Mont Choisy területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "A Trou aux Biches Resort & Spa egy szálloda Mont Choisy területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "Mont Choisy Beach este o plajă situată în Mont Choisy.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "Plage de Mont Choisy",
+                  "text": "Plage de Mont Choisy este o plajă situată în Mont Choisy.",
+                  "category": "recreational",
+                  "coords": [
+                        57.554171,
+                        -20.006894
+                  ]
+            },
+            {
+                  "name": "La Plage Des Canisses",
+                  "text": "La Plage Des Canisses este o plajă situată în Mont Choisy.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579425,
+                        -20.015488
+                  ]
+            },
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "Blue Safari Submarine este o atracție situată în Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Mont Choisy Public Beach",
+                  "text": "Mont Choisy Public Beach este o atracție situată în Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.556447,
+                        -20.014407
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public Beach este o atracție situată în Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "Trou aux Biches Public Beach este o atracție situată în Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "Piments Public Beach este o atracție situată în Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "Trou aux Biches Resort & Spa este un hotel situat în Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "Mont Choisy Beach is a beach located in Mont Choisy.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "Plage de Mont Choisy",
+                  "text": "Plage de Mont Choisy is a beach located in Mont Choisy.",
+                  "category": "recreational",
+                  "coords": [
+                        57.554171,
+                        -20.006894
+                  ]
+            },
+            {
+                  "name": "La Plage Des Canisses",
+                  "text": "La Plage Des Canisses is a beach located in Mont Choisy.",
+                  "category": "recreational",
+                  "coords": [
+                        57.579425,
+                        -20.015488
+                  ]
+            },
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "Blue Safari Submarine is an attraction located in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Mont Choisy Public Beach",
+                  "text": "Mont Choisy Public Beach is an attraction located in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.556447,
+                        -20.014407
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public Beach is an attraction located in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "Trou aux Biches Public Beach is an attraction located in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "Piments Public Beach is an attraction located in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "Trou aux Biches Resort & Spa is a hotel located in Mont Choisy.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Mont Choisy", hu: "Mont Choisy", ro: "Mont Choisy", en: "Mont Choisy" },
@@ -2793,7 +9921,268 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-mont-choisy-cities-v2.webp",
   },
   {
-    id: "mauritius-trou-aux-biches-cities-v2",
+    id: "mauritius-trou-aux-biches-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "Der Mont Choisy Beach in Trou aux Biches ist ein beliebter Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "Das Blue Safari Submarine in Trou aux Biches bietet Unterwasser-Attraktionen.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Der Public Beach in Trou aux Biches ist eine öffentliche Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "Der Trou aux Biches Public Beach ist ein gut besuchter Strandbereich.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "Der Piments Public Beach in Trou aux Biches ist ein schöner Strand.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "Pointe aux Piments Public Beach 2 ist ein öffentlicher Strand in Trou aux Biches.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "Das Trou aux Biches Resort & Spa ist eine bekannte Hotelanlage.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "A Trou aux Biches-ben található Mont Choisy Beach egy népszerű strand.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "A Trou aux Biches-ben található Blue Safari Submarine víz alatti látnivalókat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "A Trou aux Biches-ben található Public Beach egy nyilvános látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "A Trou aux Biches Public Beach egy látogatott strandszakasz.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "A Trou aux Biches-ben található Piments Public Beach egy szép strand.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "A Pointe aux Piments Public Beach 2 egy nyilvános strand Trou aux Biches-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "A Trou aux Biches Resort & Spa egy jól ismert szálláshely.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "Plaja Mont Choisy Beach din Trou aux Biches este o plajă populară.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "Blue Safari Submarine din Trou aux Biches oferă atracții subacvatice.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public Beach din Trou aux Biches este o atracție publică.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "Trou aux Biches Public Beach este o zonă de plajă frecventată.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "Piments Public Beach din Trou aux Biches este o plajă frumoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "Pointe aux Piments Public Beach 2 este o plajă publică în Trou aux Biches.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "Trou aux Biches Resort & Spa este un complex hotelier cunoscut.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Choisy Beach",
+                  "text": "Mont Choisy Beach in Trou aux Biches is a popular beach.",
+                  "category": "recreational",
+                  "coords": [
+                        57.555977,
+                        -20.016024
+                  ]
+            },
+            {
+                  "name": "Blue Safari Submarine",
+                  "text": "Blue Safari Submarine in Trou aux Biches offers underwater attractions.",
+                  "category": "landmark",
+                  "coords": [
+                        57.550378,
+                        -20.02561
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "The Public Beach in Trou aux Biches is a public attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        57.54862,
+                        -20.026042
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Public Beach",
+                  "text": "Trou aux Biches Public Beach is a popular beach area.",
+                  "category": "landmark",
+                  "coords": [
+                        57.544187,
+                        -20.034802
+                  ]
+            },
+            {
+                  "name": "Piments Public Beach",
+                  "text": "Piments Public Beach in Trou aux Biches is a beautiful beach.",
+                  "category": "landmark",
+                  "coords": [
+                        57.540971,
+                        -20.041216
+                  ]
+            },
+            {
+                  "name": "Pointe aux Piments Public Beach 2",
+                  "text": "Pointe aux Piments Public Beach 2 is a public beach in Trou aux Biches.",
+                  "category": "landmark",
+                  "coords": [
+                        57.5227,
+                        -20.050408
+                  ]
+            },
+            {
+                  "name": "Trou aux Biches Resort & Spa",
+                  "text": "Trou aux Biches Resort & Spa is a well-known hotel.",
+                  "category": "landmark",
+                  "coords": [
+                        57.546779,
+                        -20.031356
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Trou aux Biches", hu: "Trou aux Biches", ro: "Trou aux Biches", en: "Trou aux Biches" },
@@ -2838,7 +10227,232 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-trou-aux-biches-cities-v2.webp",
   },
   {
-    id: "mauritius-pereybere-cities-v2",
+    id: "mauritius-pereybere-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "Der Public Beach 10.1.2023 ist ein Küstenziel in Pereybere.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "La Cuvette Public Beach",
+                  "text": "Der La Cuvette Public Beach bietet Entspannung am Meer in Pereybere.",
+                  "category": "recreational",
+                  "coords": [
+                        57.578063,
+                        -20.007103
+                  ]
+            },
+            {
+                  "name": "LUX* Grand Baie Resort & Residences",
+                  "text": "Das LUX* Grand Baie Resort & Residences ist ein Strandresort in Pereybere.",
+                  "category": "recreational",
+                  "coords": [
+                        57.583355,
+                        -20.000213
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "Der Bain Boeuf Public Beach ist eine Küstenattraktion in Pereybere.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Pointe Egilise",
+                  "text": "Pointe Egilise ist eine lokale Attraktion in Pereybere.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583732,
+                        -19.994747
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "Der Pereybere Public Beach ist eine beliebte Attraktion am Meer in Pereybere.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "A Public Beach 10.1.2023 egy tengerparti úti cél Pereybere-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "La Cuvette Public Beach",
+                  "text": "A La Cuvette Public Beach tengerparti pihenést kínál Pereybere-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.578063,
+                        -20.007103
+                  ]
+            },
+            {
+                  "name": "LUX* Grand Baie Resort & Residences",
+                  "text": "A LUX* Grand Baie Resort & Residences egy tengerparti üdülőhely Pereybere-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.583355,
+                        -20.000213
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "A Bain Boeuf Public Beach egy tengerparti látványosság Pereybere-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Pointe Egilise",
+                  "text": "A Pointe Egilise egy helyi látványosság Pereybere-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583732,
+                        -19.994747
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "A Pereybere Public Beach egy népszerű tengerparti látványosság Pereybere-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "Public Beach 10.1.2023 este o destinație de coastă în Pereybere.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "La Cuvette Public Beach",
+                  "text": "La Cuvette Public Beach oferă relaxare la malul mării în Pereybere.",
+                  "category": "recreational",
+                  "coords": [
+                        57.578063,
+                        -20.007103
+                  ]
+            },
+            {
+                  "name": "LUX* Grand Baie Resort & Residences",
+                  "text": "LUX* Grand Baie Resort & Residences este o stațiune pe plajă în Pereybere.",
+                  "category": "recreational",
+                  "coords": [
+                        57.583355,
+                        -20.000213
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "Bain Boeuf Public Beach este o atracție de coastă situată în Pereybere.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Pointe Egilise",
+                  "text": "Pointe Egilise este o atracție locală situată în Pereybere.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583732,
+                        -19.994747
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "Pereybere Public Beach este o atracție de coastă populară în Pereybere.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "Public Beach 10.1.2023 is a coastal destination situated in Pereybere.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "La Cuvette Public Beach",
+                  "text": "La Cuvette Public Beach offers seaside relaxation and recreation in Pereybere.",
+                  "category": "recreational",
+                  "coords": [
+                        57.578063,
+                        -20.007103
+                  ]
+            },
+            {
+                  "name": "LUX* Grand Baie Resort & Residences",
+                  "text": "LUX* Grand Baie Resort & Residences is a beach resort offering coastal accommodation in Pereybere.",
+                  "category": "recreational",
+                  "coords": [
+                        57.583355,
+                        -20.000213
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "Bain Boeuf Public Beach is a coastal attraction located in Pereybere.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Pointe Egilise",
+                  "text": "Pointe Egilise is a local point of interest situated in Pereybere.",
+                  "category": "landmark",
+                  "coords": [
+                        57.583732,
+                        -19.994747
+                  ]
+            },
+            {
+                  "name": "Pereybere Public Beach",
+                  "text": "Pereybere Public Beach is a popular coastal attraction situated in Pereybere.",
+                  "category": "landmark",
+                  "coords": [
+                        57.59076,
+                        -19.993754
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Pereybere", hu: "Pereybere", ro: "Pereybere", en: "Pereybere" },
@@ -2883,7 +10497,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-pereybere-cities-v2.webp",
   },
   {
-    id: "mauritius-madrague-cities-v2",
+    id: "mauritius-madrague-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "Case Noyale Viewpoint ist ein Aussichtspunkt in Madrague.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "A Case Noyale Viewpoint egy kilátó Madrague városában.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "Case Noyale Viewpoint este un punct de belvedere situat în Madrague.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Case Noyale Viewpoint",
+                  "text": "Case Noyale Viewpoint is a viewpoint located in Madrague.",
+                  "category": "natural",
+                  "coords": [
+                        57.368405,
+                        -20.405246
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Madrague", hu: "Madrague", ro: "Madrague", en: "Madrague" },
@@ -2973,7 +10632,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-la-flora-cities-v2.webp",
   },
   {
-    id: "mauritius-bois-cheri-village-cities-v2",
+    id: "mauritius-bois-cheri-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Perruche",
+                  "text": "Der Mont Perruche ist ein markanter Gipfel in der Gegend von Bois Chéri.",
+                  "category": "natural",
+                  "coords": [
+                        57.51714,
+                        -20.387243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Perruche",
+                  "text": "A Mont Perruche egy kiemelkedő hegycsúcs Bois Chéri területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.51714,
+                        -20.387243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Perruche",
+                  "text": "Mont Perruche este un vârf proeminent situat în zona Bois Chéri.",
+                  "category": "natural",
+                  "coords": [
+                        57.51714,
+                        -20.387243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Perruche",
+                  "text": "Mont Perruche is a prominent peak situated in the area of Bois Chéri.",
+                  "category": "natural",
+                  "coords": [
+                        57.51714,
+                        -20.387243
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Bois Chéri", hu: "Bois Chéri", ro: "Bois Chéri", en: "Bois Chéri" },
@@ -3063,7 +10767,304 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-britannia-cities-v2.webp",
   },
   {
-    id: "mauritius-bois-des-amourettes-cities-v2",
+    id: "mauritius-bois-des-amourettes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Vallée de ferney",
+                  "text": "Die Vallée de Ferney in Bois des Amourettes ist ein bedeutendes Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        57.70484,
+                        -20.364848
+                  ]
+            },
+            {
+                  "name": "Frederik Hendrik Museum",
+                  "text": "Das Frederik Hendrik Museum in Bois des Amourettes ist ein bekanntes Museum.",
+                  "category": "museum",
+                  "coords": [
+                        57.722064,
+                        -20.374962
+                  ]
+            },
+            {
+                  "name": "Vieux Grand Port public beach",
+                  "text": "Vieux Grand Port public beach ist ein Strand in Bois des Amourettes.",
+                  "category": "recreational",
+                  "coords": [
+                        57.71894,
+                        -20.377207
+                  ]
+            },
+            {
+                  "name": "Lion Mountain",
+                  "text": "Der markante Lion Mountain in Bois des Amourettes ist ein bekannter Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        57.725279,
+                        -20.361151
+                  ]
+            },
+            {
+                  "name": "Monument to the Dutch first landing",
+                  "text": "Das Monument to the Dutch first landing in Bois des Amourettes ist ein historisches Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        57.70243,
+                        -20.368789
+                  ]
+            },
+            {
+                  "name": "Eastern Viewpoint",
+                  "text": "Der Eastern Viewpoint in Bois des Amourettes bietet einen schönen Ausblick.",
+                  "category": "natural",
+                  "coords": [
+                        57.73005,
+                        -20.365566
+                  ]
+            },
+            {
+                  "name": "South-Eastern Viewpoint",
+                  "text": "Der South-Eastern Viewpoint in Bois des Amourettes ist ein Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        57.722894,
+                        -20.366045
+                  ]
+            },
+            {
+                  "name": "Monument to the Introduction of Sugarcane in Mauritius",
+                  "text": "Das Monument of introduction of Sugarcane to Mauritius in Bois des Amourettes erinnert an die Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        57.706626,
+                        -20.36488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Vallée de ferney",
+                  "text": "A Bois des Amourettes-ben található Vallée de Ferney jelentős természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        57.70484,
+                        -20.364848
+                  ]
+            },
+            {
+                  "name": "Frederik Hendrik Museum",
+                  "text": "A Bois des Amourettes-ben található Frederik Hendrik Múzeum egy ismert múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        57.722064,
+                        -20.374962
+                  ]
+            },
+            {
+                  "name": "Vieux Grand Port public beach",
+                  "text": "A Vieux Grand Port public beach egy strand Bois des Amourettes-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.71894,
+                        -20.377207
+                  ]
+            },
+            {
+                  "name": "Lion Mountain",
+                  "text": "A Bois des Amourettes-ben található jellegzetes Lion Mountain egy ismert hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        57.725279,
+                        -20.361151
+                  ]
+            },
+            {
+                  "name": "Monument to the Dutch first landing",
+                  "text": "A Bois des Amourettes-ben található Monument to the Dutch first landing egy történelmi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        57.70243,
+                        -20.368789
+                  ]
+            },
+            {
+                  "name": "Eastern Viewpoint",
+                  "text": "A Bois des Amourettes-ben található Eastern Viewpoint szép kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        57.73005,
+                        -20.365566
+                  ]
+            },
+            {
+                  "name": "South-Eastern Viewpoint",
+                  "text": "A Bois des Amourettes-ben található South-Eastern Viewpoint egy kilátóhely.",
+                  "category": "natural",
+                  "coords": [
+                        57.722894,
+                        -20.366045
+                  ]
+            },
+            {
+                  "name": "Monument to the Introduction of Sugarcane in Mauritius",
+                  "text": "A Bois des Amourettes-ben található Monument of introduction of Sugarcane to Mauritius a történelemre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        57.706626,
+                        -20.36488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Vallée de ferney",
+                  "text": "Vallée de Ferney din Bois des Amourettes este o rezervație naturală importantă.",
+                  "category": "natural",
+                  "coords": [
+                        57.70484,
+                        -20.364848
+                  ]
+            },
+            {
+                  "name": "Frederik Hendrik Museum",
+                  "text": "Muzeul Frederik Hendrik din Bois des Amourettes este un muzeu cunoscut.",
+                  "category": "museum",
+                  "coords": [
+                        57.722064,
+                        -20.374962
+                  ]
+            },
+            {
+                  "name": "Vieux Grand Port public beach",
+                  "text": "Vieux Grand Port public beach este o plajă în Bois des Amourettes.",
+                  "category": "recreational",
+                  "coords": [
+                        57.71894,
+                        -20.377207
+                  ]
+            },
+            {
+                  "name": "Lion Mountain",
+                  "text": "Muntele distinctiv Lion Mountain din Bois des Amourettes este un vârf montan cunoscut.",
+                  "category": "natural",
+                  "coords": [
+                        57.725279,
+                        -20.361151
+                  ]
+            },
+            {
+                  "name": "Monument to the Dutch first landing",
+                  "text": "Monumentul pentru prima debarcare olandeză din Bois des Amourettes este un monument istoric.",
+                  "category": "historical",
+                  "coords": [
+                        57.70243,
+                        -20.368789
+                  ]
+            },
+            {
+                  "name": "Eastern Viewpoint",
+                  "text": "Eastern Viewpoint din Bois des Amourettes oferă o priveliște frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        57.73005,
+                        -20.365566
+                  ]
+            },
+            {
+                  "name": "South-Eastern Viewpoint",
+                  "text": "South-Eastern Viewpoint din Bois des Amourettes este un punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        57.722894,
+                        -20.366045
+                  ]
+            },
+            {
+                  "name": "Monument to the Introduction of Sugarcane in Mauritius",
+                  "text": "Monumentul introducerii trestiei de zahăr în Mauritius din Bois des Amourettes amintește de istorie.",
+                  "category": "historical",
+                  "coords": [
+                        57.706626,
+                        -20.36488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vallée de Ferney",
+                  "text": "Vallée de Ferney in Bois des Amourettes is an important nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        57.70484,
+                        -20.364848
+                  ]
+            },
+            {
+                  "name": "Frederik Hendrik Museum",
+                  "text": "Frederik Hendrik Museum in Bois des Amourettes is a well-known museum.",
+                  "category": "museum",
+                  "coords": [
+                        57.722064,
+                        -20.374962
+                  ]
+            },
+            {
+                  "name": "Vieux Grand Port public beach",
+                  "text": "Vieux Grand Port public beach is a beach in Bois des Amourettes.",
+                  "category": "recreational",
+                  "coords": [
+                        57.71894,
+                        -20.377207
+                  ]
+            },
+            {
+                  "name": "Lion Mountain",
+                  "text": "The distinctive Lion Mountain in Bois des Amourettes is a well-known peak.",
+                  "category": "natural",
+                  "coords": [
+                        57.725279,
+                        -20.361151
+                  ]
+            },
+            {
+                  "name": "Monument to the Dutch first landing",
+                  "text": "The Monument to the Dutch first landing in Bois des Amourettes is a historic monument.",
+                  "category": "historical",
+                  "coords": [
+                        57.70243,
+                        -20.368789
+                  ]
+            },
+            {
+                  "name": "Eastern Viewpoint",
+                  "text": "The Eastern Viewpoint in Bois des Amourettes offers a beautiful view.",
+                  "category": "natural",
+                  "coords": [
+                        57.73005,
+                        -20.365566
+                  ]
+            },
+            {
+                  "name": "South-Eastern Viewpoint",
+                  "text": "The South-Eastern Viewpoint in Bois des Amourettes is a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        57.722894,
+                        -20.366045
+                  ]
+            },
+            {
+                  "name": "Monument of intoduction of Sugarcane to Mauritius",
+                  "text": "The Monument of introduction of Sugarcane to Mauritius in Bois des Amourettes commemorates history.",
+                  "category": "historical",
+                  "coords": [
+                        57.706626,
+                        -20.36488
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Bois des Amourettes", hu: "Bois des Amourettes", ro: "Bois des Amourettes", en: "Bois des Amourettes" },
@@ -3108,7 +11109,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-bois-des-amourettes-cities-v2.webp",
   },
   {
-    id: "mauritius-plaines-des-roches-cities-v2",
+    id: "mauritius-plaines-des-roches-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral ist eine abenteuerliche Attraktion in Plaines des Roches.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "A Skydive Austral egy kalandos látványosság Plaines des Roches-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral este o atracție aventuroasă situată în Plaines des Roches.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skydive Austral",
+                  "text": "Skydive Austral is an adventurous attraction located in Plaines des Roches.",
+                  "category": "landmark",
+                  "coords": [
+                        57.684104,
+                        -20.124181
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Plaines des Roches", hu: "Plaines des Roches", ro: "Plaines des Roches", en: "Plaines des Roches" },
@@ -3198,7 +11244,268 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-medine-camp-de-masque-cities-v2.webp",
   },
   {
-    id: "mauritius-creve-coeur-cities-v2",
+    id: "mauritius-creve-coeur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Pouce",
+                  "text": "Der markante Le Pouce in Crève Coeur ist einer der bekanntesten Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        57.528817,
+                        -20.198113
+                  ]
+            },
+            {
+                  "name": "Pieter Both",
+                  "text": "Der Pieter Both in Crève Coeur ist ein sehr bekannter und markanter Berggipfel.",
+                  "category": "natural",
+                  "coords": [
+                        57.556115,
+                        -20.191316
+                  ]
+            },
+            {
+                  "name": "Creve Coeur",
+                  "text": "Creve Coeur ist ein Berggipfel in Crève Coeur.",
+                  "category": "natural",
+                  "coords": [
+                        57.551237,
+                        -20.19436
+                  ]
+            },
+            {
+                  "name": "Grand Peak",
+                  "text": "Der Grand Peak ist ein Berggipfel in Crève Coeur.",
+                  "category": "natural",
+                  "coords": [
+                        57.549054,
+                        -20.195621
+                  ]
+            },
+            {
+                  "name": "Priest's Peak",
+                  "text": "Der Priest's Peak ist ein Berggipfel in Crève Coeur.",
+                  "category": "natural",
+                  "coords": [
+                        57.524975,
+                        -20.163853
+                  ]
+            },
+            {
+                  "name": "Malartic Tomb",
+                  "text": "Das Malartic Tomb in Crève Coeur ist ein historisches Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        57.511523,
+                        -20.170626
+                  ]
+            },
+            {
+                  "name": "TOMBEAU MALARTIC",
+                  "text": "TOMBEAU MALARTIC ist ein bekanntes Denkmal in Crève Coeur.",
+                  "category": "historical",
+                  "coords": [
+                        57.51009,
+                        -20.169277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Pouce",
+                  "text": "A Crève Coeur-ban található jellegzetes Le Pouce az egyik legismertebb hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        57.528817,
+                        -20.198113
+                  ]
+            },
+            {
+                  "name": "Pieter Both",
+                  "text": "A Crève Coeur-ban található Pieter Both egy nagyon ismert és jellegzetes hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        57.556115,
+                        -20.191316
+                  ]
+            },
+            {
+                  "name": "Creve Coeur",
+                  "text": "A Creve Coeur egy hegycsúcs Crève Coeur-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.551237,
+                        -20.19436
+                  ]
+            },
+            {
+                  "name": "Grand Peak",
+                  "text": "A Grand Peak egy hegycsúcs Crève Coeur-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.549054,
+                        -20.195621
+                  ]
+            },
+            {
+                  "name": "Priest's Peak",
+                  "text": "A Priest's Peak egy hegycsúcs Crève Coeur-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.524975,
+                        -20.163853
+                  ]
+            },
+            {
+                  "name": "Malartic Tomb",
+                  "text": "A Crève Coeur-ban található Malartic Tomb egy történelmi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        57.511523,
+                        -20.170626
+                  ]
+            },
+            {
+                  "name": "TOMBEAU MALARTIC",
+                  "text": "A TOMBEAU MALARTIC egy ismert emlékmű Crève Coeur-ban.",
+                  "category": "historical",
+                  "coords": [
+                        57.51009,
+                        -20.169277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Pouce",
+                  "text": "Distinctivul Le Pouce din Crève Coeur este unul dintre cele mai cunoscute vârfuri montane.",
+                  "category": "natural",
+                  "coords": [
+                        57.528817,
+                        -20.198113
+                  ]
+            },
+            {
+                  "name": "Pieter Both",
+                  "text": "Pieter Both din Crève Coeur este un vârf montan foarte cunoscut și distinctiv.",
+                  "category": "natural",
+                  "coords": [
+                        57.556115,
+                        -20.191316
+                  ]
+            },
+            {
+                  "name": "Creve Coeur",
+                  "text": "Creve Coeur este un vârf montan în Crève Coeur.",
+                  "category": "natural",
+                  "coords": [
+                        57.551237,
+                        -20.19436
+                  ]
+            },
+            {
+                  "name": "Grand Peak",
+                  "text": "Grand Peak este un vârf montan în Crève Coeur.",
+                  "category": "natural",
+                  "coords": [
+                        57.549054,
+                        -20.195621
+                  ]
+            },
+            {
+                  "name": "Priest's Peak",
+                  "text": "Priest's Peak este un vârf montan în Crève Coeur.",
+                  "category": "natural",
+                  "coords": [
+                        57.524975,
+                        -20.163853
+                  ]
+            },
+            {
+                  "name": "Malartic Tomb",
+                  "text": "Malartic Tomb din Crève Coeur este un monument istoric.",
+                  "category": "historical",
+                  "coords": [
+                        57.511523,
+                        -20.170626
+                  ]
+            },
+            {
+                  "name": "TOMBEAU MALARTIC",
+                  "text": "TOMBEAU MALARTIC este un monument cunoscut în Crève Coeur.",
+                  "category": "historical",
+                  "coords": [
+                        57.51009,
+                        -20.169277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Pouce",
+                  "text": "The distinctive Le Pouce in Crève Coeur is one of the most well-known peaks.",
+                  "category": "natural",
+                  "coords": [
+                        57.528817,
+                        -20.198113
+                  ]
+            },
+            {
+                  "name": "Pieter Both",
+                  "text": "Pieter Both in Crève Coeur is a very well-known and distinctive peak.",
+                  "category": "natural",
+                  "coords": [
+                        57.556115,
+                        -20.191316
+                  ]
+            },
+            {
+                  "name": "Creve Coeur",
+                  "text": "Creve Coeur is a peak in Crève Coeur.",
+                  "category": "natural",
+                  "coords": [
+                        57.551237,
+                        -20.19436
+                  ]
+            },
+            {
+                  "name": "Grand Peak",
+                  "text": "Grand Peak is a peak in Crève Coeur.",
+                  "category": "natural",
+                  "coords": [
+                        57.549054,
+                        -20.195621
+                  ]
+            },
+            {
+                  "name": "Priest's Peak",
+                  "text": "Priest's Peak is a peak in Crève Coeur.",
+                  "category": "natural",
+                  "coords": [
+                        57.524975,
+                        -20.163853
+                  ]
+            },
+            {
+                  "name": "Malartic Tomb",
+                  "text": "The Malartic Tomb in Crève Coeur is a historic monument.",
+                  "category": "historical",
+                  "coords": [
+                        57.511523,
+                        -20.170626
+                  ]
+            },
+            {
+                  "name": "TOMBEAU MALARTIC",
+                  "text": "TOMBEAU MALARTIC is a well-known monument in Crève Coeur.",
+                  "category": "historical",
+                  "coords": [
+                        57.51009,
+                        -20.169277
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Crève Coeur", hu: "Crève Coeur", ro: "Crève Coeur", en: "Crève Coeur" },
@@ -3378,7 +11685,124 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-melrose-cities-v2.webp",
   },
   {
-    id: "mauritius-cluny-cities-v2",
+    id: "mauritius-cluny-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Val Reserve",
+                  "text": "Das Le Val Reserve ist ein Naturschutzgebiet in Cluny.",
+                  "category": "natural",
+                  "coords": [
+                        57.630725,
+                        -20.364228
+                  ]
+            },
+            {
+                  "name": "Mont Vernon",
+                  "text": "Der Mount Vernon ist ein natürlicher Gipfel in Cluny.",
+                  "category": "natural",
+                  "coords": [
+                        57.623121,
+                        -20.387578
+                  ]
+            },
+            {
+                  "name": "Osterlog Valley",
+                  "text": "Das Osterlog Valley ist eine malerische Naturattraktion in Cluny.",
+                  "category": "landmark",
+                  "coords": [
+                        57.616321,
+                        -20.34824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Val Reserve",
+                  "text": "A Le Val Reserve egy természetvédelmi terület Cluny-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.630725,
+                        -20.364228
+                  ]
+            },
+            {
+                  "name": "Mont Vernon",
+                  "text": "A Mount Vernon egy természetes hegycsúcs Cluny-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.623121,
+                        -20.387578
+                  ]
+            },
+            {
+                  "name": "Osterlog Valley",
+                  "text": "Az Osterlog Valley egy festői természeti látványosság Cluny-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.616321,
+                        -20.34824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Val Reserve",
+                  "text": "Le Val Reserve este o rezervație naturală în Cluny.",
+                  "category": "natural",
+                  "coords": [
+                        57.630725,
+                        -20.364228
+                  ]
+            },
+            {
+                  "name": "Mont Vernon",
+                  "text": "Mount Vernon este un vârf natural situat în Cluny.",
+                  "category": "natural",
+                  "coords": [
+                        57.623121,
+                        -20.387578
+                  ]
+            },
+            {
+                  "name": "Osterlog Valley",
+                  "text": "Osterlog Valley este o atracție naturală pitorească situată în Cluny.",
+                  "category": "landmark",
+                  "coords": [
+                        57.616321,
+                        -20.34824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Val Reserve",
+                  "text": "Le Val Reserve is a natural reserve protecting local ecosystems in Cluny.",
+                  "category": "natural",
+                  "coords": [
+                        57.630725,
+                        -20.364228
+                  ]
+            },
+            {
+                  "name": "Mount Vernon",
+                  "text": "Mount Vernon is a natural peak located in Cluny.",
+                  "category": "natural",
+                  "coords": [
+                        57.623121,
+                        -20.387578
+                  ]
+            },
+            {
+                  "name": "Osterlog Valley",
+                  "text": "Osterlog Valley is a scenic natural attraction situated in Cluny.",
+                  "category": "landmark",
+                  "coords": [
+                        57.616321,
+                        -20.34824
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Cluny", hu: "Cluny", ro: "Cluny", en: "Cluny" },
@@ -3423,7 +11847,88 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-cluny-cities-v2.webp",
   },
   {
-    id: "mauritius-bananes-cities-v2",
+    id: "mauritius-bananes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Lagrave",
+                  "text": "Mount Lagrave ist ein Gipfel in Bananes.",
+                  "category": "natural",
+                  "coords": [
+                        57.601883,
+                        -20.334767
+                  ]
+            },
+            {
+                  "name": "Mont d’Hauvillard",
+                  "text": "Mount D'Hauvillard ist ein Gipfel in Bananes.",
+                  "category": "natural",
+                  "coords": [
+                        57.558639,
+                        -20.322062
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Lagrave",
+                  "text": "A Mount Lagrave egy csúcs Bananes területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.601883,
+                        -20.334767
+                  ]
+            },
+            {
+                  "name": "Mont d’Hauvillard",
+                  "text": "A Mount D'Hauvillard egy csúcs Bananes területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.558639,
+                        -20.322062
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Lagrave",
+                  "text": "Mount Lagrave este un vârf situat în Bananes.",
+                  "category": "natural",
+                  "coords": [
+                        57.601883,
+                        -20.334767
+                  ]
+            },
+            {
+                  "name": "Mont d’Hauvillard",
+                  "text": "Mount D'Hauvillard este un vârf situat în Bananes.",
+                  "category": "natural",
+                  "coords": [
+                        57.558639,
+                        -20.322062
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Lagrave",
+                  "text": "Mount Lagrave is a peak located in Bananes.",
+                  "category": "natural",
+                  "coords": [
+                        57.601883,
+                        -20.334767
+                  ]
+            },
+            {
+                  "name": "Mount D'Hauvillard",
+                  "text": "Mount D'Hauvillard is a peak located in Bananes.",
+                  "category": "natural",
+                  "coords": [
+                        57.558639,
+                        -20.322062
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Bananes", hu: "Bananes", ro: "Bananes", en: "Bananes" },
@@ -3468,7 +11973,52 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-bananes-cities-v2.webp",
   },
   {
-    id: "mauritius-le-val-cities-v2",
+    id: "mauritius-le-val-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Le Val Reserve",
+                  "text": "Das Le Val Reserve ist ein Naturschutzgebiet in Le Val.",
+                  "category": "natural",
+                  "coords": [
+                        57.630725,
+                        -20.364228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Le Val Reserve",
+                  "text": "A Le Val Reserve egy természetvédelmi terület Le Val-ban.",
+                  "category": "natural",
+                  "coords": [
+                        57.630725,
+                        -20.364228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Le Val Reserve",
+                  "text": "Le Val Reserve este o rezervație naturală în Le Val.",
+                  "category": "natural",
+                  "coords": [
+                        57.630725,
+                        -20.364228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Le Val Reserve",
+                  "text": "Le Val Reserve is a nature reserve in Le Val.",
+                  "category": "natural",
+                  "coords": [
+                        57.630725,
+                        -20.364228
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Le Val", hu: "Le Val", ro: "Le Val", en: "Le Val" },
@@ -3557,7 +12107,160 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-clémencia-cities-v2.webp",
   },
   {
-    id: "mauritius-olivier-cities-v2",
+    id: "mauritius-olivier-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Île aux Aigrettes",
+                  "text": "Die Île aux Aigrettes ist ein Naturschutzgebiet in Olivier, das für seine endemische Flora und Fauna bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        57.733201,
+                        -20.420197
+                  ]
+            },
+            {
+                  "name": "Vieux Grand Port public beach",
+                  "text": "Der öffentliche Strand von Vieux Grand Port bietet Erholung an der Küste in Olivier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.71894,
+                        -20.377207
+                  ]
+            },
+            {
+                  "name": "Waterfront Mahebourg",
+                  "text": "Die Waterfront Mahebourg ist ein malerischer Aussichtspunkt am Wasser in Olivier.",
+                  "category": "natural",
+                  "coords": [
+                        57.709614,
+                        -20.404859
+                  ]
+            },
+            {
+                  "name": "Ile aux Aigrettes - Booking",
+                  "text": "Dieser Ort dient als Attraktion und Buchungsstelle in Olivier.",
+                  "category": "landmark",
+                  "coords": [
+                        57.723436,
+                        -20.424959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Île aux Aigrettes",
+                  "text": "Az Île aux Aigrettes egy természetvédelmi terület Olivier-ben, amely endemikus növény- és állatvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        57.733201,
+                        -20.420197
+                  ]
+            },
+            {
+                  "name": "Vieux Grand Port public beach",
+                  "text": "A Vieux Grand Port nyilvános strand parti pihenést kínál Olivier-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        57.71894,
+                        -20.377207
+                  ]
+            },
+            {
+                  "name": "Waterfront Mahebourg",
+                  "text": "A Waterfront Mahebourg egy festői vízparti kilátó Olivier-ben.",
+                  "category": "natural",
+                  "coords": [
+                        57.709614,
+                        -20.404859
+                  ]
+            },
+            {
+                  "name": "Ile aux Aigrettes - Booking",
+                  "text": "Ez a hely turisztikai látványosságként és foglalási pontként szolgál Olivier-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        57.723436,
+                        -20.424959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Île aux Aigrettes",
+                  "text": "Île aux Aigrettes este o rezervație naturală în Olivier, recunoscută pentru flora și fauna sa endemică.",
+                  "category": "natural",
+                  "coords": [
+                        57.733201,
+                        -20.420197
+                  ]
+            },
+            {
+                  "name": "Vieux Grand Port public beach",
+                  "text": "Plaja publică Vieux Grand Port oferă relaxare pe coastă în Olivier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.71894,
+                        -20.377207
+                  ]
+            },
+            {
+                  "name": "Waterfront Mahebourg",
+                  "text": "Waterfront Mahebourg este un punct de belvedere pitoresc de-a lungul apei în Olivier.",
+                  "category": "natural",
+                  "coords": [
+                        57.709614,
+                        -20.404859
+                  ]
+            },
+            {
+                  "name": "Ile aux Aigrettes - Booking",
+                  "text": "Această locație servește drept atracție și punct de rezervare în Olivier.",
+                  "category": "landmark",
+                  "coords": [
+                        57.723436,
+                        -20.424959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Île aux Aigrettes",
+                  "text": "Île aux Aigrettes is a nature reserve in Olivier, renowned for protecting endemic wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        57.733201,
+                        -20.420197
+                  ]
+            },
+            {
+                  "name": "Vieux Grand Port public beach",
+                  "text": "Vieux Grand Port public beach provides a place for coastal relaxation in Olivier.",
+                  "category": "recreational",
+                  "coords": [
+                        57.71894,
+                        -20.377207
+                  ]
+            },
+            {
+                  "name": "Waterfront Mahebourg",
+                  "text": "Waterfront Mahebourg is a scenic viewpoint along the water in Olivier.",
+                  "category": "natural",
+                  "coords": [
+                        57.709614,
+                        -20.404859
+                  ]
+            },
+            {
+                  "name": "Ile aux Aigrettes - Booking",
+                  "text": "Ile aux Aigrettes - Booking serves as a local attraction and ticket point in Olivier.",
+                  "category": "landmark",
+                  "coords": [
+                        57.723436,
+                        -20.424959
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Olivier", hu: "Olivier", ro: "Olivier", en: "Olivier" },
@@ -3602,7 +12305,340 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-olivier-cities-v2.webp",
   },
   {
-    id: "mauritius-vacoas-phoenix-cities-v2",
+    id: "mauritius-vacoas-phoenix-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "J&J Auditorium",
+                  "text": "J&J Auditorium ist ein Theater in Vacoas-Phoenix.",
+                  "category": "cultural",
+                  "coords": [
+                        57.491283,
+                        -20.27855
+                  ]
+            },
+            {
+                  "name": "Serge Constantin Theatre",
+                  "text": "Serge Constantin Theatre ist ein Theater in Vacoas-Phoenix.",
+                  "category": "cultural",
+                  "coords": [
+                        57.495148,
+                        -20.294622
+                  ]
+            },
+            {
+                  "name": "Farqhuar House",
+                  "text": "Farqhuar House ist ein Schloss in Vacoas-Phoenix.",
+                  "category": "castle",
+                  "coords": [
+                        57.495066,
+                        -20.290289
+                  ]
+            },
+            {
+                  "name": "Masonic Lodge",
+                  "text": "Masonic Lodge ist ein Museum in Vacoas-Phoenix.",
+                  "category": "museum",
+                  "coords": [
+                        57.498883,
+                        -20.283276
+                  ]
+            },
+            {
+                  "name": "Candos Hill",
+                  "text": "Candos Hill ist ein Gipfel in Vacoas-Phoenix.",
+                  "category": "natural",
+                  "coords": [
+                        57.482576,
+                        -20.276191
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Centre for Indian Culture",
+                  "text": "Indira Gandhi Centre for Indian Culture ist eine Sehenswürdigkeit in Vacoas-Phoenix.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497077,
+                        -20.283384
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "Clarisse house ist ein Herrenhaus in Vacoas-Phoenix.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "Triangle of Peace",
+                  "text": "Triangle of Peace ist ein Denkmal in Vacoas-Phoenix.",
+                  "category": "historical",
+                  "coords": [
+                        57.502043,
+                        -20.291265
+                  ]
+            },
+            {
+                  "name": "ruin",
+                  "text": "ruin ist eine Ruine in Vacoas-Phoenix.",
+                  "category": "historical",
+                  "coords": [
+                        57.497447,
+                        -20.276261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "J&J Auditorium",
+                  "text": "A J&J Auditorium egy színház Vacoas-Phoenix városában.",
+                  "category": "cultural",
+                  "coords": [
+                        57.491283,
+                        -20.27855
+                  ]
+            },
+            {
+                  "name": "Serge Constantin Theatre",
+                  "text": "A Serge Constantin Theatre egy színház Vacoas-Phoenix városában.",
+                  "category": "cultural",
+                  "coords": [
+                        57.495148,
+                        -20.294622
+                  ]
+            },
+            {
+                  "name": "Farqhuar House",
+                  "text": "A Farqhuar House egy kastély Vacoas-Phoenix városában.",
+                  "category": "castle",
+                  "coords": [
+                        57.495066,
+                        -20.290289
+                  ]
+            },
+            {
+                  "name": "Masonic Lodge",
+                  "text": "A Masonic Lodge egy múzeum Vacoas-Phoenix városában.",
+                  "category": "museum",
+                  "coords": [
+                        57.498883,
+                        -20.283276
+                  ]
+            },
+            {
+                  "name": "Candos Hill",
+                  "text": "A Candos Hill egy csúcs Vacoas-Phoenix városában.",
+                  "category": "natural",
+                  "coords": [
+                        57.482576,
+                        -20.276191
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Centre for Indian Culture",
+                  "text": "Az Indira Gandhi Centre for Indian Culture egy látványosság Vacoas-Phoenix városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497077,
+                        -20.283384
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "A Clarisse house egy udvarház Vacoas-Phoenix városában.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "Triangle of Peace",
+                  "text": "A Triangle of Peace egy emlékmű Vacoas-Phoenix városában.",
+                  "category": "historical",
+                  "coords": [
+                        57.502043,
+                        -20.291265
+                  ]
+            },
+            {
+                  "name": "ruin",
+                  "text": "A ruin egy romterület Vacoas-Phoenix városában.",
+                  "category": "historical",
+                  "coords": [
+                        57.497447,
+                        -20.276261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "J&J Auditorium",
+                  "text": "J&J Auditorium este un teatru situat în Vacoas-Phoenix.",
+                  "category": "cultural",
+                  "coords": [
+                        57.491283,
+                        -20.27855
+                  ]
+            },
+            {
+                  "name": "Serge Constantin Theatre",
+                  "text": "Serge Constantin Theatre este un teatru situat în Vacoas-Phoenix.",
+                  "category": "cultural",
+                  "coords": [
+                        57.495148,
+                        -20.294622
+                  ]
+            },
+            {
+                  "name": "Farqhuar House",
+                  "text": "Farqhuar House este un castel situat în Vacoas-Phoenix.",
+                  "category": "castle",
+                  "coords": [
+                        57.495066,
+                        -20.290289
+                  ]
+            },
+            {
+                  "name": "Masonic Lodge",
+                  "text": "Masonic Lodge este un muzeu situat în Vacoas-Phoenix.",
+                  "category": "museum",
+                  "coords": [
+                        57.498883,
+                        -20.283276
+                  ]
+            },
+            {
+                  "name": "Candos Hill",
+                  "text": "Candos Hill este un vârf situat în Vacoas-Phoenix.",
+                  "category": "natural",
+                  "coords": [
+                        57.482576,
+                        -20.276191
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Centre for Indian Culture",
+                  "text": "Indira Gandhi Centre for Indian Culture este o atracție situată în Vacoas-Phoenix.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497077,
+                        -20.283384
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "Clarisse house este un conac situat în Vacoas-Phoenix.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "Triangle of Peace",
+                  "text": "Triangle of Peace este un monument situat în Vacoas-Phoenix.",
+                  "category": "historical",
+                  "coords": [
+                        57.502043,
+                        -20.291265
+                  ]
+            },
+            {
+                  "name": "ruin",
+                  "text": "ruin sunt ruine situate în Vacoas-Phoenix.",
+                  "category": "historical",
+                  "coords": [
+                        57.497447,
+                        -20.276261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "J&J Auditorium",
+                  "text": "J&J Auditorium is a theatre located in Vacoas-Phoenix.",
+                  "category": "cultural",
+                  "coords": [
+                        57.491283,
+                        -20.27855
+                  ]
+            },
+            {
+                  "name": "Serge Constantin Theatre",
+                  "text": "Serge Constantin Theatre is a theatre located in Vacoas-Phoenix.",
+                  "category": "cultural",
+                  "coords": [
+                        57.495148,
+                        -20.294622
+                  ]
+            },
+            {
+                  "name": "Farqhuar House",
+                  "text": "Farqhuar House is a castle located in Vacoas-Phoenix.",
+                  "category": "castle",
+                  "coords": [
+                        57.495066,
+                        -20.290289
+                  ]
+            },
+            {
+                  "name": "Masonic Lodge",
+                  "text": "Masonic Lodge is a museum located in Vacoas-Phoenix.",
+                  "category": "museum",
+                  "coords": [
+                        57.498883,
+                        -20.283276
+                  ]
+            },
+            {
+                  "name": "Candos Hill",
+                  "text": "Candos Hill is a peak located in Vacoas-Phoenix.",
+                  "category": "natural",
+                  "coords": [
+                        57.482576,
+                        -20.276191
+                  ]
+            },
+            {
+                  "name": "Indira Gandhi Centre for Indian Culture",
+                  "text": "Indira Gandhi Centre for Indian Culture is an attraction located in Vacoas-Phoenix.",
+                  "category": "landmark",
+                  "coords": [
+                        57.497077,
+                        -20.283384
+                  ]
+            },
+            {
+                  "name": "Clarisse house",
+                  "text": "Clarisse house is a manor located in Vacoas-Phoenix.",
+                  "category": "historical",
+                  "coords": [
+                        57.503034,
+                        -20.294908
+                  ]
+            },
+            {
+                  "name": "Triangle of Peace",
+                  "text": "Triangle of Peace is a monument located in Vacoas-Phoenix.",
+                  "category": "historical",
+                  "coords": [
+                        57.502043,
+                        -20.291265
+                  ]
+            },
+            {
+                  "name": "ruin",
+                  "text": "ruin is a site of ruins located in Vacoas-Phoenix.",
+                  "category": "historical",
+                  "coords": [
+                        57.497447,
+                        -20.276261
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "city",
     name: { de: "Vacoas-Phoenix", hu: "Vacoas-Phoenix", ro: "Vacoas-Phoenix", en: "Vacoas-Phoenix" },

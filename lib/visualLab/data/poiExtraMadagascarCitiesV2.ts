@@ -32,7 +32,52 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       en: ["Antananarivo was founded in 1610 on the site of a captured village.", "The city is divided into three levels: the Upper, Middle, and Lower City.", "It is located approximately 1,280 meters (4,200 ft) above sea level.", "The Rova of Antananarivo stands at the city's highest point.", "Rice paddies are located within the city limits in the floodplains.", "The city's population density is one of the highest in Africa.", "French was the official language of administration until 1960.", "Ivato International Airport is located 16 km from the city center."],
     }, image: "/poi-images/antananarivo-cities-v2.webp"},
   {
-    id: "toamasina-cities-v2",
+    id: "toamasina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Canada",
+                  "text": "Das Centre Culturel Canada ist ein Kunst- und Kulturzentrum in Toamasina.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410109,
+                        -18.163743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Canada",
+                  "text": "A Centre Culturel Canada egy művészeti és kulturális központ Toamasina városában.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410109,
+                        -18.163743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Canada",
+                  "text": "Centre Culturel Canada este un centru de artă și cultură din Toamasina.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410109,
+                        -18.163743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Canada",
+                  "text": "Centre Culturel Canada is an arts and cultural centre in Toamasina.",
+                  "category": "cultural",
+                  "coords": [
+                        49.410109,
+                        -18.163743
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-A",
     coords: [49.4023, -18.1492],
@@ -67,7 +112,88 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       fr: ["Port principal de Madagascar.", "Souvent touchée par des cyclones.", "Principal centre d'exportation de la vanille.", "Climat tropical humide.", "Nœud commercial important.", "Fondée sous le nom de Tamatave."],
     }, image: "/poi-images/toamasina-cities-v2.webp"},
   {
-    id: "antsirabe-cities-v2",
+    id: "antsirabe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de la propriété intellectuelle",
+                  "text": "Das Musée de la propriété intellectuelle ist ein lokales Museum in Antsirabe.",
+                  "category": "museum",
+                  "coords": [
+                        47.043145,
+                        -19.87282
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Salette",
+                  "text": "Die Cathédrale Notre-Dame-de-la-Salette ist eine markante katholische Kathedrale in Antsirabe.",
+                  "category": "religious",
+                  "coords": [
+                        47.034977,
+                        -19.870621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de la propriété intellectuelle",
+                  "text": "A Musée de la propriété intellectuelle egy helyi múzeum Antsirabe városában.",
+                  "category": "museum",
+                  "coords": [
+                        47.043145,
+                        -19.87282
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Salette",
+                  "text": "A Cathédrale Notre-Dame-de-la-Salette egy kiemelkedő katolikus katedrális Antsirabe városában.",
+                  "category": "religious",
+                  "coords": [
+                        47.034977,
+                        -19.870621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de la propriété intellectuelle",
+                  "text": "Musée de la propriété intellectuelle este un muzeu local situat în Antsirabe.",
+                  "category": "museum",
+                  "coords": [
+                        47.043145,
+                        -19.87282
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Salette",
+                  "text": "Cathédrale Notre-Dame-de-la-Salette este o importantă catedrală catolică situată în Antsirabe.",
+                  "category": "religious",
+                  "coords": [
+                        47.034977,
+                        -19.870621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de la propriété intellectuelle",
+                  "text": "Musée de la propriété intellectuelle is a local museum situated in Antsirabe.",
+                  "category": "museum",
+                  "coords": [
+                        47.043145,
+                        -19.87282
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Salette",
+                  "text": "Cathédrale Notre-Dame-de-la-Salette is a prominent Catholic cathedral located in Antsirabe.",
+                  "category": "religious",
+                  "coords": [
+                        47.034977,
+                        -19.870621
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-T",
     coords: [47.0333, -19.8659],
@@ -105,7 +231,124 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "fianarantsoa-cities-v2",
+    id: "fianarantsoa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Diocèse Fianarantsoa",
+                  "text": "Museum in Fianarantsoa.",
+                  "category": "museum",
+                  "coords": [
+                        47.076232,
+                        -21.458374
+                  ]
+            },
+            {
+                  "name": "Centre Notre Dame de Lourdes",
+                  "text": "Aquarium in Fianarantsoa.",
+                  "category": "recreational",
+                  "coords": [
+                        47.10935,
+                        -21.465582
+                  ]
+            },
+            {
+                  "name": "Fania",
+                  "text": "Museum in Fianarantsoa.",
+                  "category": "museum",
+                  "coords": [
+                        47.088297,
+                        -21.451532
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Diocèse Fianarantsoa",
+                  "text": "Múzeum Fianarantsoában.",
+                  "category": "museum",
+                  "coords": [
+                        47.076232,
+                        -21.458374
+                  ]
+            },
+            {
+                  "name": "Centre Notre Dame de Lourdes",
+                  "text": "Akvárium Fianarantsoában.",
+                  "category": "recreational",
+                  "coords": [
+                        47.10935,
+                        -21.465582
+                  ]
+            },
+            {
+                  "name": "Fania",
+                  "text": "Múzeum Fianarantsoában.",
+                  "category": "museum",
+                  "coords": [
+                        47.088297,
+                        -21.451532
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Diocèse Fianarantsoa",
+                  "text": "Muzeu în Fianarantsoa.",
+                  "category": "museum",
+                  "coords": [
+                        47.076232,
+                        -21.458374
+                  ]
+            },
+            {
+                  "name": "Centre Notre Dame de Lourdes",
+                  "text": "Acvariu în Fianarantsoa.",
+                  "category": "recreational",
+                  "coords": [
+                        47.10935,
+                        -21.465582
+                  ]
+            },
+            {
+                  "name": "Fania",
+                  "text": "Muzeu în Fianarantsoa.",
+                  "category": "museum",
+                  "coords": [
+                        47.088297,
+                        -21.451532
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Diocèse Fianarantsoa",
+                  "text": "Museum in Fianarantsoa.",
+                  "category": "museum",
+                  "coords": [
+                        47.076232,
+                        -21.458374
+                  ]
+            },
+            {
+                  "name": "Centre Notre Dame de Lourdes",
+                  "text": "Aquarium in Fianarantsoa.",
+                  "category": "recreational",
+                  "coords": [
+                        47.10935,
+                        -21.465582
+                  ]
+            },
+            {
+                  "name": "Fania",
+                  "text": "Museum in Fianarantsoa.",
+                  "category": "museum",
+                  "coords": [
+                        47.088297,
+                        -21.451532
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-F",
     coords: [47.0857, -21.4527],
@@ -447,7 +690,52 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "mananara-avaratra-cities-v2",
+    id: "mananara-avaratra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Broken lighthouse",
+                  "text": "Leuchtturm in Mananara Avaratra.",
+                  "category": "landmark",
+                  "coords": [
+                        49.752742,
+                        -16.160078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Broken lighthouse",
+                  "text": "Világítótorony Mananara Avaratrában.",
+                  "category": "landmark",
+                  "coords": [
+                        49.752742,
+                        -16.160078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Broken lighthouse",
+                  "text": "Far în Mananara Avaratra.",
+                  "category": "landmark",
+                  "coords": [
+                        49.752742,
+                        -16.160078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Broken lighthouse",
+                  "text": "Lighthouse in Mananara Avaratra.",
+                  "category": "landmark",
+                  "coords": [
+                        49.752742,
+                        -16.160078
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-A",
     coords: [49.7667, -16.1667],
@@ -713,7 +1001,52 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "morondava-cities-v2",
+    id: "morondava-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thanksgiving Beach",
+                  "text": "Thanksgiving Beach ist ein Küstenerholungsgebiet in Morondava.",
+                  "category": "recreational",
+                  "coords": [
+                        44.272013,
+                        -20.293726
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thanksgiving Beach",
+                  "text": "A Thanksgiving Beach egy tengerparti pihenőhely Morondava városában.",
+                  "category": "recreational",
+                  "coords": [
+                        44.272013,
+                        -20.293726
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thanksgiving Beach",
+                  "text": "Thanksgiving Beach este o zonă de coastă recreativă situată în Morondava.",
+                  "category": "recreational",
+                  "coords": [
+                        44.272013,
+                        -20.293726
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thanksgiving Beach",
+                  "text": "Thanksgiving Beach is a coastal recreational area located in Morondava.",
+                  "category": "recreational",
+                  "coords": [
+                        44.272013,
+                        -20.293726
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-U",
     coords: [44.2833, -20.2833],
@@ -827,7 +1160,52 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "vohipeno-cities-v2",
+    id: "vohipeno-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vatomasy Malaza",
+                  "text": "Vatomasy Malaza ist eine Museumseinrichtung in Vohipeno.",
+                  "category": "museum",
+                  "coords": [
+                        47.841323,
+                        -22.357021
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vatomasy Malaza",
+                  "text": "A Vatomasy Malaza egy múzeumi létesítmény Vohipeno városában.",
+                  "category": "museum",
+                  "coords": [
+                        47.841323,
+                        -22.357021
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vatomasy Malaza",
+                  "text": "Vatomasy Malaza este o facilitate muzeală situată în Vohipeno.",
+                  "category": "museum",
+                  "coords": [
+                        47.841323,
+                        -22.357021
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vatomasy Malaza",
+                  "text": "Vatomasy Malaza is a museum facility located in Vohipeno.",
+                  "category": "museum",
+                  "coords": [
+                        47.841323,
+                        -22.357021
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-F",
     coords: [47.8333, -22.35],
@@ -941,7 +1319,52 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "sambava-cities-v2",
+    id: "sambava-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "HOUSE",
+                  "text": "HOUSE ist eine Burganlage in Sambava.",
+                  "category": "castle",
+                  "coords": [
+                        50.164901,
+                        -14.264933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HOUSE",
+                  "text": "A HOUSE egy kastélyépület Sambava városában.",
+                  "category": "castle",
+                  "coords": [
+                        50.164901,
+                        -14.264933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HOUSE",
+                  "text": "HOUSE este o structură tip castel situată în Sambava.",
+                  "category": "castle",
+                  "coords": [
+                        50.164901,
+                        -14.264933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HOUSE",
+                  "text": "HOUSE is a castle structure situated in Sambava.",
+                  "category": "castle",
+                  "coords": [
+                        50.164901,
+                        -14.264933
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-D",
     coords: [50.1667, -14.2667],
@@ -1017,7 +1440,52 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "farafangana-cities-v2",
+    id: "farafangana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coco beach farafangana",
+                  "text": "Strand in Farafangana.",
+                  "category": "recreational",
+                  "coords": [
+                        47.834548,
+                        -22.841566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coco beach farafangana",
+                  "text": "Strand Farafanganában.",
+                  "category": "recreational",
+                  "coords": [
+                        47.834548,
+                        -22.841566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coco beach farafangana",
+                  "text": "Plajă în Farafangana.",
+                  "category": "recreational",
+                  "coords": [
+                        47.834548,
+                        -22.841566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coco beach farafangana",
+                  "text": "Beach in Farafangana.",
+                  "category": "recreational",
+                  "coords": [
+                        47.834548,
+                        -22.841566
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-F",
     coords: [47.8333, -22.8167],
@@ -1055,7 +1523,52 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "maroantsetra-cities-v2",
+    id: "maroantsetra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Das Old Lighthouse besteht aus historischen Ruinen in Maroantsetra.",
+                  "category": "historical",
+                  "coords": [
+                        49.737436,
+                        -15.440573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Az Old Lighthouse egy történelmi romterület Maroantsetra városában.",
+                  "category": "historical",
+                  "coords": [
+                        49.737436,
+                        -15.440573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Lighthouse",
+                  "text": "Old Lighthouse constă în ruine istorice situate în Maroantsetra.",
+                  "category": "historical",
+                  "coords": [
+                        49.737436,
+                        -15.440573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Lighthouse",
+                  "text": "The Old Lighthouse consists of historic ruins located in Maroantsetra.",
+                  "category": "historical",
+                  "coords": [
+                        49.737436,
+                        -15.440573
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-A",
     coords: [49.7333, -15.4333],
@@ -1131,7 +1644,88 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "ambalavao-cities-v2",
+    id: "ambalavao-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fabrication de papier Antaimoro",
+                  "text": "Sehenswürdigkeit in Ambalavao.",
+                  "category": "landmark",
+                  "coords": [
+                        46.941737,
+                        -21.830264
+                  ]
+            },
+            {
+                  "name": "Tsenan'Omby",
+                  "text": "Sehenswürdigkeit in Ambalavao.",
+                  "category": "landmark",
+                  "coords": [
+                        46.926511,
+                        -21.83712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fabrication de papier Antaimoro",
+                  "text": "Látnivaló Ambalavaóban.",
+                  "category": "landmark",
+                  "coords": [
+                        46.941737,
+                        -21.830264
+                  ]
+            },
+            {
+                  "name": "Tsenan'Omby",
+                  "text": "Látnivaló Ambalavaóban.",
+                  "category": "landmark",
+                  "coords": [
+                        46.926511,
+                        -21.83712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fabrication de papier Antaimoro",
+                  "text": "Atracție în Ambalavao.",
+                  "category": "landmark",
+                  "coords": [
+                        46.941737,
+                        -21.830264
+                  ]
+            },
+            {
+                  "name": "Tsenan'Omby",
+                  "text": "Atracție în Ambalavao.",
+                  "category": "landmark",
+                  "coords": [
+                        46.926511,
+                        -21.83712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Antaimoro Paper Manufactory",
+                  "text": "Attraction in Ambalavao.",
+                  "category": "landmark",
+                  "coords": [
+                        46.941737,
+                        -21.830264
+                  ]
+            },
+            {
+                  "name": "Tsenan'Omby",
+                  "text": "Attraction in Ambalavao.",
+                  "category": "landmark",
+                  "coords": [
+                        46.926511,
+                        -21.83712
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-F",
     coords: [46.9333, -21.8333],
@@ -1435,7 +2029,88 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "tsiroanomandidy-cities-v2",
+    id: "tsiroanomandidy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bika",
+                  "text": "Bika ist ein lokales Theater in Tsiroanomandidy.",
+                  "category": "cultural",
+                  "coords": [
+                        46.042757,
+                        -18.760259
+                  ]
+            },
+            {
+                  "name": "Bel Air",
+                  "text": "Bel Air dient als Kunstzentrum in der Stadt Tsiroanomandidy.",
+                  "category": "cultural",
+                  "coords": [
+                        46.03795,
+                        -18.768133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bika",
+                  "text": "A Bika egy helyi színház Tsiroanomandidy városában.",
+                  "category": "cultural",
+                  "coords": [
+                        46.042757,
+                        -18.760259
+                  ]
+            },
+            {
+                  "name": "Bel Air",
+                  "text": "A Bel Air művészeti központként működik Tsiroanomandidy városában.",
+                  "category": "cultural",
+                  "coords": [
+                        46.03795,
+                        -18.768133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bika",
+                  "text": "Bika este un teatru local din Tsiroanomandidy.",
+                  "category": "cultural",
+                  "coords": [
+                        46.042757,
+                        -18.760259
+                  ]
+            },
+            {
+                  "name": "Bel Air",
+                  "text": "Bel Air funcționează ca un centru de arte în orașul Tsiroanomandidy.",
+                  "category": "cultural",
+                  "coords": [
+                        46.03795,
+                        -18.768133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bika",
+                  "text": "Bika is a local theatre venue located in Tsiroanomandidy.",
+                  "category": "cultural",
+                  "coords": [
+                        46.042757,
+                        -18.760259
+                  ]
+            },
+            {
+                  "name": "Bel Air",
+                  "text": "Bel Air serves as an arts centre in the city of Tsiroanomandidy.",
+                  "category": "cultural",
+                  "coords": [
+                        46.03795,
+                        -18.768133
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-T",
     coords: [46.0333, -18.7667],
@@ -1777,7 +2452,268 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "hell-ville-cities-v2",
+    id: "hell-ville-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée océanographique",
+                  "text": "Das Musée océanographique ist ein ozeanografisches Museum in Hell-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        48.291104,
+                        -13.406994
+                  ]
+            },
+            {
+                  "name": "LemuriaLand",
+                  "text": "LemuriaLand ist ein zoologischer Park in Hell-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        48.282518,
+                        -13.393118
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré Sakalava",
+                  "text": "L'arbre sacré Sakalava ist eine bedeutende kulturelle Attraktion in Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253078,
+                        -13.413464
+                  ]
+            },
+            {
+                  "name": "Nosy Easy Rent",
+                  "text": "Nosy Easy Rent ist ein Servicepunkt und eine Attraktion in Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.265689,
+                        -13.396359
+                  ]
+            },
+            {
+                  "name": "Location Bienvenu",
+                  "text": "Location Bienvenu ist eine lokale Attraktion in der Stadt Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274526,
+                        -13.404493
+                  ]
+            },
+            {
+                  "name": "Vieux Port Disco",
+                  "text": "Vieux Port Disco ist eine beliebte Unterhaltungsattraktion in Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.27796,
+                        -13.405548
+                  ]
+            },
+            {
+                  "name": "Arbre Sacré",
+                  "text": "Arbre Sacré ist eine verehrte natürliche Attraktion in Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253354,
+                        -13.411757
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée océanographique",
+                  "text": "A Musée océanographique egy oceanográfiai múzeum Hell-Ville városában.",
+                  "category": "museum",
+                  "coords": [
+                        48.291104,
+                        -13.406994
+                  ]
+            },
+            {
+                  "name": "LemuriaLand",
+                  "text": "A LemuriaLand egy állatkert Hell-Ville városában.",
+                  "category": "recreational",
+                  "coords": [
+                        48.282518,
+                        -13.393118
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré Sakalava",
+                  "text": "A L'arbre sacré Sakalava egy jelentős kulturális látványosság Hell-Ville városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253078,
+                        -13.413464
+                  ]
+            },
+            {
+                  "name": "Nosy Easy Rent",
+                  "text": "A Nosy Easy Rent egy szolgáltató pont és látványosság Hell-Ville városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.265689,
+                        -13.396359
+                  ]
+            },
+            {
+                  "name": "Location Bienvenu",
+                  "text": "A Location Bienvenu egy helyi látványosság Hell-Ville városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274526,
+                        -13.404493
+                  ]
+            },
+            {
+                  "name": "Vieux Port Disco",
+                  "text": "A Vieux Port Disco egy népszerű szórakozóhely és látványosság Hell-Ville városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.27796,
+                        -13.405548
+                  ]
+            },
+            {
+                  "name": "Arbre Sacré",
+                  "text": "Az Arbre Sacré egy tisztelt természeti látványosság Hell-Ville városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253354,
+                        -13.411757
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée océanographique",
+                  "text": "Musée océanographique este un muzeu oceanografic situat în Hell-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        48.291104,
+                        -13.406994
+                  ]
+            },
+            {
+                  "name": "LemuriaLand",
+                  "text": "LemuriaLand este un parc zoologic localizat în Hell-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        48.282518,
+                        -13.393118
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré Sakalava",
+                  "text": "L'arbre sacré Sakalava este o atracție culturală semnificativă aflată în Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253078,
+                        -13.413464
+                  ]
+            },
+            {
+                  "name": "Nosy Easy Rent",
+                  "text": "Nosy Easy Rent este un punct de atracție și servicii din Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.265689,
+                        -13.396359
+                  ]
+            },
+            {
+                  "name": "Location Bienvenu",
+                  "text": "Location Bienvenu este o atracție locală din orașul Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274526,
+                        -13.404493
+                  ]
+            },
+            {
+                  "name": "Vieux Port Disco",
+                  "text": "Vieux Port Disco este o atracție de divertisment populară în Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.27796,
+                        -13.405548
+                  ]
+            },
+            {
+                  "name": "Arbre Sacré",
+                  "text": "Arbre Sacré este o atracție naturală venerată situată în Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253354,
+                        -13.411757
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée océanographique",
+                  "text": "Musée océanographique is an oceanographic museum situated in Hell-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        48.291104,
+                        -13.406994
+                  ]
+            },
+            {
+                  "name": "LemuriaLand",
+                  "text": "LemuriaLand is a zoological park located in Hell-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        48.282518,
+                        -13.393118
+                  ]
+            },
+            {
+                  "name": "L'arbre sacré Sakalava",
+                  "text": "L'arbre sacré Sakalava is a significant cultural attraction found in Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253078,
+                        -13.413464
+                  ]
+            },
+            {
+                  "name": "Nosy Easy Rent",
+                  "text": "Nosy Easy Rent is a service point and attraction situated in Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.265689,
+                        -13.396359
+                  ]
+            },
+            {
+                  "name": "Location Bienvenu",
+                  "text": "Location Bienvenu is a local attraction located in the city of Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.274526,
+                        -13.404493
+                  ]
+            },
+            {
+                  "name": "Vieux Port Disco",
+                  "text": "Vieux Port Disco is a popular entertainment attraction in Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.27796,
+                        -13.405548
+                  ]
+            },
+            {
+                  "name": "Arbre Sacré",
+                  "text": "Arbre Sacré is a revered natural attraction located in Hell-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        48.253354,
+                        -13.411757
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-D",
     coords: [48.2667, -13.4],
@@ -2081,7 +3017,52 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     
   },
   {
-    id: "befandriana-avaratra-cities-v2",
+    id: "befandriana-avaratra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord",
+                  "text": "Das Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord ist ein Kunstzentrum in Befandriana-Avaratra.",
+                  "category": "cultural",
+                  "coords": [
+                        48.542284,
+                        -15.254963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord",
+                  "text": "A Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord egy művészeti központ Befandriana-Avaratra városában.",
+                  "category": "cultural",
+                  "coords": [
+                        48.542284,
+                        -15.254963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord",
+                  "text": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord este un centru de artă în Befandriana-Avaratra.",
+                  "category": "cultural",
+                  "coords": [
+                        48.542284,
+                        -15.254963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord",
+                  "text": "Centre de Lecture, d'Informatique et de la Culture de Befandriana-Nord is an arts centre in Befandriana-Avaratra.",
+                  "category": "cultural",
+                  "coords": [
+                        48.542284,
+                        -15.254963
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MG-M",
     coords: [48.5333, -15.2667],

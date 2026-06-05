@@ -1308,7 +1308,88 @@ export const palestineLandmarksV2: POI[] = [
     image: "/poi-images/palestine-khan-yunis-castle-landmarks-v2.webp",
   },
   {
-    id: "palestine-kur-throne-village-landmarks-v2",
+    id: "palestine-kur-throne-village-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kur",
+                  "text": "Kur ist eine archäologische Stätte in Kur Thron-Dorf.",
+                  "category": "historical",
+                  "coords": [
+                        35.097382,
+                        32.235808
+                  ]
+            },
+            {
+                  "name": "שייח' חבן (כור)",
+                  "text": "Seikh Hoban (Kur) ist ein Naturschutzgebiet in Kur Thron-Dorf.",
+                  "category": "natural",
+                  "coords": [
+                        35.101124,
+                        32.229257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kur",
+                  "text": "Kur egy régészeti lelőhely Kur Thron-Dorf területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.097382,
+                        32.235808
+                  ]
+            },
+            {
+                  "name": "שייח' חבן (כור)",
+                  "text": "A Seikh Hoban (Kur) egy természetvédelmi terület Kur Thron-Dorfban.",
+                  "category": "natural",
+                  "coords": [
+                        35.101124,
+                        32.229257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kur",
+                  "text": "Kur este un sit arheologic situat în Kur Thron-Dorf.",
+                  "category": "historical",
+                  "coords": [
+                        35.097382,
+                        32.235808
+                  ]
+            },
+            {
+                  "name": "שייח' חבן (כור)",
+                  "text": "Seikh Hoban (Kur) este o rezervație naturală situată în Kur Thron-Dorf.",
+                  "category": "natural",
+                  "coords": [
+                        35.101124,
+                        32.229257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kur",
+                  "text": "Kur is an archaeological site located in Kur Thron-Dorf.",
+                  "category": "historical",
+                  "coords": [
+                        35.097382,
+                        32.235808
+                  ]
+            },
+            {
+                  "name": "Seikh Hoban (Kur)",
+                  "text": "Seikh Hoban (Kur) is a nature reserve situated in Kur Thron-Dorf.",
+                  "category": "natural",
+                  "coords": [
+                        35.101124,
+                        32.229257
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "village",
     name: { de: "Kur Thron-Dorf", hu: "Kur trónfalu", ro: "Satul Kur", en: "Kur Throne Village" },
@@ -1893,7 +1974,124 @@ export const palestineLandmarksV2: POI[] = [
     image: "/poi-images/palestine-arraba-throne-village-landmarks-v2.webp",
   },
   {
-    id: "palestine-jaba-throne-village-landmarks-v2",
+    id: "palestine-jaba-throne-village-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "منزل عبد الرزاق شحاده",
+                  "text": "منزل عبد الرزاق شحاده ist ein Aussichtspunkt in Jaba Thron-Dorf.",
+                  "category": "natural",
+                  "coords": [
+                        35.205587,
+                        32.32112
+                  ]
+            },
+            {
+                  "name": "الفاخوري لتجليس السيارات",
+                  "text": "الفاخوري لتجليس السيارات ist eine Sehenswürdigkeit in Jaba Thron-Dorf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205118,
+                        32.334941
+                  ]
+            },
+            {
+                  "name": "שייח אבו יזיד",
+                  "text": "שייח אבו יזיד ist eine Ruine in Jaba Thron-Dorf.",
+                  "category": "historical",
+                  "coords": [
+                        35.219227,
+                        32.304394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "منزل عبد الرزاق شحاده",
+                  "text": "A(z) منزل عبد الرزاق شحاده egy kilátópont Jaba Thron-Dorf városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.205587,
+                        32.32112
+                  ]
+            },
+            {
+                  "name": "الفاخوري لتجليس السيارات",
+                  "text": "A(z) الفاخوري لتجليس السيارات egy látványosság Jaba Thron-Dorf városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205118,
+                        32.334941
+                  ]
+            },
+            {
+                  "name": "שייח אבו יזיד",
+                  "text": "A(z) שייח אבו יזיד egy rom Jaba Thron-Dorf városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.219227,
+                        32.304394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "منزل عبد الرزاق شحاده",
+                  "text": "منزل عبد الرزاق شحاده este un punct de belvedere situat în Jaba Thron-Dorf.",
+                  "category": "natural",
+                  "coords": [
+                        35.205587,
+                        32.32112
+                  ]
+            },
+            {
+                  "name": "الفاخوري لتجليس السيارات",
+                  "text": "الفاخوري لتجليس السيارات este o atracție turistică situată în Jaba Thron-Dorf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205118,
+                        32.334941
+                  ]
+            },
+            {
+                  "name": "שייח אבו יזיד",
+                  "text": "שייח אבו יזיד este o ruină situată în Jaba Thron-Dorf.",
+                  "category": "historical",
+                  "coords": [
+                        35.219227,
+                        32.304394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "منزل عبد الرزاق شحاده",
+                  "text": "منزل عبد الرزاق شحاده is a viewpoint located in Jaba Thron-Dorf.",
+                  "category": "natural",
+                  "coords": [
+                        35.205587,
+                        32.32112
+                  ]
+            },
+            {
+                  "name": "الفاخوري لتجليس السيارات",
+                  "text": "الفاخوري لتجليس السيارات is a tourist attraction located in Jaba Thron-Dorf.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205118,
+                        32.334941
+                  ]
+            },
+            {
+                  "name": "שייח אבו יזיד",
+                  "text": "שייח אבו יזיד is a ruined site located in Jaba Thron-Dorf.",
+                  "category": "historical",
+                  "coords": [
+                        35.219227,
+                        32.304394
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "village",
     name: { de: "Jaba Thron-Dorf", hu: "Dzseba trónfalu", ro: "Satul Jaba", en: "Jaba' Throne Village" },

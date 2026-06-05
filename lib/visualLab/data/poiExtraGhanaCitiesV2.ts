@@ -113,7 +113,196 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "takoradi-cities-v2",
+    id: "takoradi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Last Hour Beach",
+                  "text": "Last Hour Beach in Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753524,
+                        4.878414
+                  ]
+            },
+            {
+                  "name": "Allan Beach",
+                  "text": "Allan Beach Resort in Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Denkmal des Rotary Clubs von Sekondi-Takoradi.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Attraktion mit billigen Zigaretten in Takoradi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "Africa Beach Resort in Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766376,
+                        4.875967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Last Hour Beach",
+                  "text": "Last Hour strand, Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753524,
+                        4.878414
+                  ]
+            },
+            {
+                  "name": "Allan Beach",
+                  "text": "Allan Beach üdülőhely, Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "A Sekondi-Takoradi Rotary Klub emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Olcsó cigaretták látványossága Takoradiban.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "Africa Beach üdülőhely, Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766376,
+                        4.875967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Last Hour Beach",
+                  "text": "Plaja Last Hour din Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753524,
+                        4.878414
+                  ]
+            },
+            {
+                  "name": "Allan Beach",
+                  "text": "Stațiunea Allan Beach din Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Monumentul Clubului Rotary din Sekondi-Takoradi.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Atracție cu țigări ieftine în Takoradi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "Stațiunea Africa Beach din Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766376,
+                        4.875967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Last Hour Beach",
+                  "text": "Last Hour Beach in Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.753524,
+                        4.878414
+                  ]
+            },
+            {
+                  "name": "Allan Beach",
+                  "text": "Allan Beach resort in Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.751492,
+                        4.878978
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Rotary Club of Sekondi-Takoradi monument.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Attraction with cheap cigarettes in Takoradi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            },
+            {
+                  "name": "Africa Beach",
+                  "text": "Africa Beach resort in Takoradi.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.766376,
+                        4.875967
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-WP",
     coords: [-1.7554, 4.8845],
@@ -221,7 +410,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "teshie-cities-v2",
+    id: "teshie-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Augustaborg",
+                  "text": "Fort Augustaborg in Teshie.",
+                  "category": "fortress",
+                  "coords": [
+                        -0.10143,
+                        5.576812
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Drums N Barrels Resort in Teshie.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Augustaborg",
+                  "text": "Augustaborg erőd, Tesie.",
+                  "category": "fortress",
+                  "coords": [
+                        -0.10143,
+                        5.576812
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Drums N Barrels üdülőhely, Tesie.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Augustaborg",
+                  "text": "Fortul Augustaborg din Teshie.",
+                  "category": "fortress",
+                  "coords": [
+                        -0.10143,
+                        5.576812
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Stațiunea Drums N Barrels din Teshie.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Augustaborg",
+                  "text": "Fort Augustaborg in Teshie.",
+                  "category": "fortress",
+                  "coords": [
+                        -0.10143,
+                        5.576812
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Drums N Barrels resort in Teshie.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AA",
     coords: [-0.0931, 5.5836],
@@ -257,7 +527,196 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "cape-coast-cities-v2",
+    id: "cape-coast-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cape Coast Castle",
+                  "text": "Cape Coast Castle ist ein Schloss in Cape Coast.",
+                  "category": "castle",
+                  "coords": [
+                        -1.240974,
+                        5.103687
+                  ]
+            },
+            {
+                  "name": "Fort William Lighthouse",
+                  "text": "Das Fort William Lighthouse ist eine Burg in Cape Coast. Es ist ein historischer Leuchtturm auf einem Hügel.",
+                  "category": "castle",
+                  "coords": [
+                        -1.244273,
+                        5.107985
+                  ]
+            },
+            {
+                  "name": "Fort Victoria",
+                  "text": "Fort Victoria ist ein Schloss in Cape Coast.",
+                  "category": "castle",
+                  "coords": [
+                        -1.249154,
+                        5.106795
+                  ]
+            },
+            {
+                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
+                  "text": "Asasse Pa Resort - Resort, Restaurant & Spa ist ein Strandresort in Cape Coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.254584,
+                        5.102367
+                  ]
+            },
+            {
+                  "name": "Crab",
+                  "text": "Crab ist ein Denkmal in Cape Coast.",
+                  "category": "historical",
+                  "coords": [
+                        -1.24236,
+                        5.109099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cape Coast Castle",
+                  "text": "A Cape Coast Castle egy kastély Cape Coast városában.",
+                  "category": "castle",
+                  "coords": [
+                        -1.240974,
+                        5.103687
+                  ]
+            },
+            {
+                  "name": "Fort William Lighthouse",
+                  "text": "A Fort William Lighthouse egy vár Cape Coast városában. Ez egy történelmi világítótorony egy dombon.",
+                  "category": "castle",
+                  "coords": [
+                        -1.244273,
+                        5.107985
+                  ]
+            },
+            {
+                  "name": "Fort Victoria",
+                  "text": "A Fort Victoria egy kastély Cape Coast városában.",
+                  "category": "castle",
+                  "coords": [
+                        -1.249154,
+                        5.106795
+                  ]
+            },
+            {
+                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
+                  "text": "Az Asasse Pa Resort - Resort, Restaurant & Spa egy tengerparti üdülőhely Cape Coast városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.254584,
+                        5.102367
+                  ]
+            },
+            {
+                  "name": "Crab",
+                  "text": "A Crab egy műemlék Cape Coast városában.",
+                  "category": "historical",
+                  "coords": [
+                        -1.24236,
+                        5.109099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cape Coast Castle",
+                  "text": "Cape Coast Castle este un castel situat în Cape Coast.",
+                  "category": "castle",
+                  "coords": [
+                        -1.240974,
+                        5.103687
+                  ]
+            },
+            {
+                  "name": "Fort William Lighthouse",
+                  "text": "Fort William Lighthouse este un castel situat în Cape Coast. Este un far istoric construit pe un deal.",
+                  "category": "castle",
+                  "coords": [
+                        -1.244273,
+                        5.107985
+                  ]
+            },
+            {
+                  "name": "Fort Victoria",
+                  "text": "Fort Victoria este un castel situat în Cape Coast.",
+                  "category": "castle",
+                  "coords": [
+                        -1.249154,
+                        5.106795
+                  ]
+            },
+            {
+                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
+                  "text": "Asasse Pa Resort - Resort, Restaurant & Spa este o stațiune pe plajă situată în Cape Coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.254584,
+                        5.102367
+                  ]
+            },
+            {
+                  "name": "Crab",
+                  "text": "Crab este un monument situat în Cape Coast.",
+                  "category": "historical",
+                  "coords": [
+                        -1.24236,
+                        5.109099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cape Coast Castle",
+                  "text": "Cape Coast Castle is a castle located in Cape Coast.",
+                  "category": "castle",
+                  "coords": [
+                        -1.240974,
+                        5.103687
+                  ]
+            },
+            {
+                  "name": "Fort William Lighthouse",
+                  "text": "Fort William Lighthouse is a castle located in Cape Coast. It is a historic lighthouse built on a hill.",
+                  "category": "castle",
+                  "coords": [
+                        -1.244273,
+                        5.107985
+                  ]
+            },
+            {
+                  "name": "Fort Victoria",
+                  "text": "Fort Victoria is a castle located in Cape Coast.",
+                  "category": "castle",
+                  "coords": [
+                        -1.249154,
+                        5.106795
+                  ]
+            },
+            {
+                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
+                  "text": "Asasse Pa Resort - Resort, Restaurant & Spa is a beach resort located in Cape Coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.254584,
+                        5.102367
+                  ]
+            },
+            {
+                  "name": "Crab",
+                  "text": "Crab is a monument located in Cape Coast.",
+                  "category": "historical",
+                  "coords": [
+                        -1.24236,
+                        5.109099
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-CP",
     coords: [-1.2466, 5.1053],
@@ -293,7 +752,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "sekondi-cities-v2",
+    id: "sekondi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Orange",
+                  "text": "Fort Orange ist ein Leuchtturm in Sekondi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.707371,
+                        4.935588
+                  ]
+            },
+            {
+                  "name": "Enam Ase",
+                  "text": "Enam Ase ist ein Denkmal in Sekondi.",
+                  "category": "historical",
+                  "coords": [
+                        -1.709899,
+                        4.934163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Orange",
+                  "text": "A Fort Orange egy világítótorony Sekondi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.707371,
+                        4.935588
+                  ]
+            },
+            {
+                  "name": "Enam Ase",
+                  "text": "Az Enam Ase egy emlékmű Sekondi városában.",
+                  "category": "historical",
+                  "coords": [
+                        -1.709899,
+                        4.934163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Orange",
+                  "text": "Fort Orange este un far în Sekondi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.707371,
+                        4.935588
+                  ]
+            },
+            {
+                  "name": "Enam Ase",
+                  "text": "Enam Ase este un monument în Sekondi.",
+                  "category": "historical",
+                  "coords": [
+                        -1.709899,
+                        4.934163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Orange",
+                  "text": "Fort Orange is a lighthouse in Sekondi.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.707371,
+                        4.935588
+                  ]
+            },
+            {
+                  "name": "Enam Ase",
+                  "text": "Enam Ase is a monument in Sekondi.",
+                  "category": "historical",
+                  "coords": [
+                        -1.709899,
+                        4.934163
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-WP",
     coords: [-1.7058, 4.9404],
@@ -365,7 +905,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "madina-cities-v2",
+    id: "madina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chief Washington",
+                  "text": "Chief Washington ist ein Schloss in Madina.",
+                  "category": "castle",
+                  "coords": [
+                        -0.186795,
+                        5.675878
+                  ]
+            },
+            {
+                  "name": "Museum of Archaelogy",
+                  "text": "Das Museum of Archaelogy ist ein Museum in Madina.",
+                  "category": "museum",
+                  "coords": [
+                        -0.181082,
+                        5.651968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chief Washington",
+                  "text": "A Chief Washington egy kastély Madina városában.",
+                  "category": "castle",
+                  "coords": [
+                        -0.186795,
+                        5.675878
+                  ]
+            },
+            {
+                  "name": "Museum of Archaelogy",
+                  "text": "A Museum of Archaelogy egy múzeum Madina városában.",
+                  "category": "museum",
+                  "coords": [
+                        -0.181082,
+                        5.651968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chief Washington",
+                  "text": "Chief Washington este un castel situat în Madina.",
+                  "category": "castle",
+                  "coords": [
+                        -0.186795,
+                        5.675878
+                  ]
+            },
+            {
+                  "name": "Museum of Archaelogy",
+                  "text": "Museum of Archaelogy este un muzeu situat în Madina.",
+                  "category": "museum",
+                  "coords": [
+                        -0.181082,
+                        5.651968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chief Washington",
+                  "text": "Chief Washington is a castle located in Madina.",
+                  "category": "castle",
+                  "coords": [
+                        -0.186795,
+                        5.675878
+                  ]
+            },
+            {
+                  "name": "Museum of Archaelogy",
+                  "text": "Museum of Archaelogy is a museum located in Madina.",
+                  "category": "museum",
+                  "coords": [
+                        -0.181082,
+                        5.651968
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AA",
     coords: [-0.1667, 5.6667],
@@ -401,7 +1022,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "koforidua-cities-v2",
+    id: "koforidua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Department of Parks and Gardens",
+                  "text": "Department of Parks and Gardens ist ein Freizeitpark in Koforidua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.269198,
+                        6.090625
+                  ]
+            },
+            {
+                  "name": "Centre For National Culture",
+                  "text": "Centre For National Culture ist ein Theater in Koforidua.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.251276,
+                        6.079237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Department of Parks and Gardens",
+                  "text": "A Department of Parks and Gardens egy vidámpark Koforidua városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.269198,
+                        6.090625
+                  ]
+            },
+            {
+                  "name": "Centre For National Culture",
+                  "text": "A Centre For National Culture egy színház Koforidua városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.251276,
+                        6.079237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Department of Parks and Gardens",
+                  "text": "Department of Parks and Gardens este un parc tematic în Koforidua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.269198,
+                        6.090625
+                  ]
+            },
+            {
+                  "name": "Centre For National Culture",
+                  "text": "Centre For National Culture este un teatru în Koforidua.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.251276,
+                        6.079237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Department of Parks and Gardens",
+                  "text": "Department of Parks and Gardens is a theme park in Koforidua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.269198,
+                        6.090625
+                  ]
+            },
+            {
+                  "name": "Centre For National Culture",
+                  "text": "Centre For National Culture is a theatre in Koforidua.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.251276,
+                        6.079237
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-EP",
     coords: [-0.2591, 6.0945],
@@ -437,7 +1139,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "wa-cities-v2",
+    id: "wa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dondoli Historic Mosque",
+                  "text": "Ruinen der historischen Dondoli-Moschee in Wa.",
+                  "category": "historical",
+                  "coords": [
+                        -2.495795,
+                        10.068727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dondoli Historic Mosque",
+                  "text": "A történelmi Dondoli-mecset romjai Wában.",
+                  "category": "historical",
+                  "coords": [
+                        -2.495795,
+                        10.068727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dondoli Historic Mosque",
+                  "text": "Ruinele istoricei moschei Dondoli din Wa.",
+                  "category": "historical",
+                  "coords": [
+                        -2.495795,
+                        10.068727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dondoli Historic Mosque",
+                  "text": "Ruins of the historic Dondoli Mosque in Wa.",
+                  "category": "historical",
+                  "coords": [
+                        -2.495795,
+                        10.068727
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-UW",
     coords: [-2.5099, 10.0601],
@@ -509,7 +1256,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "nungua-cities-v2",
+    id: "nungua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nighty Beach",
+                  "text": "Nighty Beach ist ein Strand in Nungua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056665,
+                        5.607437
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Drums N Barrels Resort ist ein Strandresort in Nungua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nighty Beach",
+                  "text": "A Nighty Beach egy strand Nungua városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056665,
+                        5.607437
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "A Drums N Barrels Resort egy tengerparti üdülőhely Nungua városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nighty Beach",
+                  "text": "Nighty Beach este o plajă în Nungua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056665,
+                        5.607437
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Drums N Barrels Resort este o stațiune balneară în Nungua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nighty Beach",
+                  "text": "Nighty Beach is a beach in Nungua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.056665,
+                        5.607437
+                  ]
+            },
+            {
+                  "name": "Drums N Barrels Resort",
+                  "text": "Drums N Barrels Resort is a beach resort in Nungua.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.089152,
+                        5.585328
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AA",
     coords: [-0.0689, 5.6028],
@@ -545,7 +1373,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tema-new-town-cities-v2",
+    id: "tema-new-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Valco Employees Recreation Area (VERA)",
+                  "text": "Valco Employees Recreation Area (VERA) in Tema New Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.005595,
+                        5.656316
+                  ]
+            },
+            {
+                  "name": "Greenwich Meridian Monument at Presbitarian Church",
+                  "text": "Greenwich-Meridian-Denkmal an der Presbyterianischen Kirche in Tema New Town.",
+                  "category": "landmark",
+                  "coords": [
+                        0.000891,
+                        5.642876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valco Employees Recreation Area (VERA)",
+                  "text": "Valco alkalmazottak rekreációs területe (VERA), Tema New Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.005595,
+                        5.656316
+                  ]
+            },
+            {
+                  "name": "Greenwich Meridian Monument at Presbitarian Church",
+                  "text": "Greenwichi délkör-emlékmű a presbiteriánus templomnál, Tema New Town.",
+                  "category": "landmark",
+                  "coords": [
+                        0.000891,
+                        5.642876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valco Employees Recreation Area (VERA)",
+                  "text": "Zona de recreere pentru angajații Valco (VERA) din Tema New Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.005595,
+                        5.656316
+                  ]
+            },
+            {
+                  "name": "Greenwich Meridian Monument at Presbitarian Church",
+                  "text": "Monumentul Meridianului Greenwich la Biserica Prezbiteriană din Tema New Town.",
+                  "category": "landmark",
+                  "coords": [
+                        0.000891,
+                        5.642876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valco Employees Recreation Area (VERA)",
+                  "text": "Valco Employees Recreation Area (VERA) in Tema New Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.005595,
+                        5.656316
+                  ]
+            },
+            {
+                  "name": "Greenwich Meridian Monument at Presbitarian Church",
+                  "text": "Greenwich Meridian monument at the Presbyterian Church in Tema New Town.",
+                  "category": "landmark",
+                  "coords": [
+                        0.000891,
+                        5.642876
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AA",
     coords: [-0.0152, 5.6559],
@@ -725,7 +1634,124 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "bolgatanga-cities-v2",
+    id: "bolgatanga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Upper East Regional Museum",
+                  "text": "Das Upper East Regional Museum ist ein Museum in der Stadt Bolgatanga.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856017,
+                        10.794314
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Das Art Center ist ein Kunstzentrum in Bolgatanga.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.854217,
+                        10.795094
+                  ]
+            },
+            {
+                  "name": "Shiloh Temple - Christ Frontiers Mission International",
+                  "text": "Shiloh Temple - Christ Frontiers Mission International ist eine Kultstätte in Bolgatanga.",
+                  "category": "religious",
+                  "coords": [
+                        -0.86971,
+                        10.776622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Upper East Regional Museum",
+                  "text": "Az Upper East Regional Museum egy múzeum Bolgatanga városában.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856017,
+                        10.794314
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Az Art Center egy művészeti központ Bolgatangában.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.854217,
+                        10.795094
+                  ]
+            },
+            {
+                  "name": "Shiloh Temple - Christ Frontiers Mission International",
+                  "text": "A Shiloh Temple - Christ Frontiers Mission International egy istentiszteleti hely Bolgatangában.",
+                  "category": "religious",
+                  "coords": [
+                        -0.86971,
+                        10.776622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Upper East Regional Museum",
+                  "text": "Upper East Regional Museum este un muzeu situat în orașul Bolgatanga.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856017,
+                        10.794314
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Art Center este un centru de artă situat în Bolgatanga.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.854217,
+                        10.795094
+                  ]
+            },
+            {
+                  "name": "Shiloh Temple - Christ Frontiers Mission International",
+                  "text": "Shiloh Temple - Christ Frontiers Mission International este un lăcaș de cult din Bolgatanga.",
+                  "category": "religious",
+                  "coords": [
+                        -0.86971,
+                        10.776622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Upper East Regional Museum",
+                  "text": "The Upper East Regional Museum is a museum situated in the city of Bolgatanga.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856017,
+                        10.794314
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "The Art Center is a facility dedicated to the arts located in Bolgatanga.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.854217,
+                        10.795094
+                  ]
+            },
+            {
+                  "name": "Shiloh Temple - Christ Frontiers Mission International",
+                  "text": "Shiloh Temple - Christ Frontiers Mission International is a place of worship in Bolgatanga.",
+                  "category": "religious",
+                  "coords": [
+                        -0.86971,
+                        10.776622
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-UE",
     coords: [-0.8514, 10.7856],
@@ -761,7 +1787,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "lashibi-cities-v2",
+    id: "lashibi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aquarium Marshall",
+                  "text": "Aquarium Marshall in Lashibi.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.059189,
+                        5.645528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aquarium Marshall",
+                  "text": "Aquarium Marshall, Lasibi.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.059189,
+                        5.645528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aquarium Marshall",
+                  "text": "Acvariul Marshall din Lashibi.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.059189,
+                        5.645528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aquarium Marshall",
+                  "text": "Aquarium Marshall in Lashibi.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.059189,
+                        5.645528
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AA",
     coords: [-0.05, 5.6667],
@@ -797,7 +1868,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "taifa-cities-v2",
+    id: "taifa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Accra Brewery Limited",
+                  "text": "Accra Brewery Limited ist eine Sehenswürdigkeit in Taifa. Es ist eine bekannte Brauerei in Ghana.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235134,
+                        5.632775
+                  ]
+            },
+            {
+                  "name": "Guinness Ghana Brewery",
+                  "text": "Die Guinness Ghana Brewery ist eine Sehenswürdigkeit in Taifa. Es ist ein führendes Getränkeunternehmen in Ghana.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235782,
+                        5.631866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Accra Brewery Limited",
+                  "text": "Az Accra Brewery Limited egy látványosság Taifa városában. Ez egy jól ismert sörfőzde Ghánában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235134,
+                        5.632775
+                  ]
+            },
+            {
+                  "name": "Guinness Ghana Brewery",
+                  "text": "A Guinness Ghana Brewery egy látványosság Taifa városában. Ez egy vezető italgyártó vállalat Ghánában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235782,
+                        5.631866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Accra Brewery Limited",
+                  "text": "Accra Brewery Limited este o atracție situată în Taifa. Este o fabrică de bere binecunoscută din Ghana.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235134,
+                        5.632775
+                  ]
+            },
+            {
+                  "name": "Guinness Ghana Brewery",
+                  "text": "Guinness Ghana Brewery este o atracție situată în Taifa. Este o companie de frunte în domeniul băuturilor din Ghana.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235782,
+                        5.631866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Accra Brewery Limited",
+                  "text": "Accra Brewery Limited is an attraction located in Taifa. It is a well-known brewery in Ghana.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235134,
+                        5.632775
+                  ]
+            },
+            {
+                  "name": "Guinness Ghana Brewery",
+                  "text": "Guinness Ghana Brewery is an attraction located in Taifa. It is a leading beverage business in Ghana.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.235782,
+                        5.631866
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AA",
     coords: [-0.25, 5.65],
@@ -833,7 +1985,160 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gbawe-cities-v2",
+    id: "gbawe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gbalɔ Gnɔ Bilɔ Mantse We",
+                  "text": "Gbawe Castle ist eine Burg in der Gegend von Gbawe.",
+                  "category": "castle",
+                  "coords": [
+                        -0.309229,
+                        5.577354
+                  ]
+            },
+            {
+                  "name": "Prepaid Electricity",
+                  "text": "Prepaid Electricity ist eine lokale Sehenswürdigkeit in Gbawe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.306179,
+                        5.575896
+                  ]
+            },
+            {
+                  "name": "PrepaidElectric",
+                  "text": "PrepaidElectric ist eine Attraktion in der Stadt Gbawe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.306148,
+                        5.568131
+                  ]
+            },
+            {
+                  "name": "PrepaidElectricTopBaseTaxiRank",
+                  "text": "PrepaidElectricTopBaseTaxiRank ist eine Sehenswürdigkeit in Gbawe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.308879,
+                        5.566642
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gbalɔ Gnɔ Bilɔ Mantse We",
+                  "text": "A Gbawe Castle egy kastély Gbawe területén.",
+                  "category": "castle",
+                  "coords": [
+                        -0.309229,
+                        5.577354
+                  ]
+            },
+            {
+                  "name": "Prepaid Electricity",
+                  "text": "A Prepaid Electricity egy helyi látványosság Gbawe városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.306179,
+                        5.575896
+                  ]
+            },
+            {
+                  "name": "PrepaidElectric",
+                  "text": "A PrepaidElectric egy látványosság Gbawe városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.306148,
+                        5.568131
+                  ]
+            },
+            {
+                  "name": "PrepaidElectricTopBaseTaxiRank",
+                  "text": "A PrepaidElectricTopBaseTaxiRank egy látványosság Gbawe területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.308879,
+                        5.566642
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gbalɔ Gnɔ Bilɔ Mantse We",
+                  "text": "Gbawe Castle este un castel situat în zona Gbawe.",
+                  "category": "castle",
+                  "coords": [
+                        -0.309229,
+                        5.577354
+                  ]
+            },
+            {
+                  "name": "Prepaid Electricity",
+                  "text": "Prepaid Electricity este o atracție locală situată în Gbawe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.306179,
+                        5.575896
+                  ]
+            },
+            {
+                  "name": "PrepaidElectric",
+                  "text": "PrepaidElectric este o atracție din orașul Gbawe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.306148,
+                        5.568131
+                  ]
+            },
+            {
+                  "name": "PrepaidElectricTopBaseTaxiRank",
+                  "text": "PrepaidElectricTopBaseTaxiRank este o atracție situată în Gbawe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.308879,
+                        5.566642
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gbawe Castle",
+                  "text": "Gbawe Castle is a castle located in the area of Gbawe.",
+                  "category": "castle",
+                  "coords": [
+                        -0.309229,
+                        5.577354
+                  ]
+            },
+            {
+                  "name": "Prepaid Electricity",
+                  "text": "Prepaid Electricity is a local attraction situated in Gbawe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.306179,
+                        5.575896
+                  ]
+            },
+            {
+                  "name": "PrepaidElectric",
+                  "text": "PrepaidElectric is an attraction found in the city of Gbawe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.306148,
+                        5.568131
+                  ]
+            },
+            {
+                  "name": "PrepaidElectricTopBaseTaxiRank",
+                  "text": "PrepaidElectricTopBaseTaxiRank is an attraction situated in Gbawe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.308879,
+                        5.566642
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AA",
     coords: [-0.313, 5.5786],
@@ -977,7 +2282,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tafo-cities-v2",
+    id: "tafo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Statue of Otumfuo Opoku Ware II",
+                  "text": "Denkmal für Otumfuo Opoku Ware II in Tafo.",
+                  "category": "historical",
+                  "coords": [
+                        -1.627865,
+                        6.711232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statue of Otumfuo Opoku Ware II",
+                  "text": "Otumfuo Opoku Ware II emlékműve Tafóban.",
+                  "category": "historical",
+                  "coords": [
+                        -1.627865,
+                        6.711232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statue of Otumfuo Opoku Ware II",
+                  "text": "Monumentul lui Otumfuo Opoku Ware II în Tafo.",
+                  "category": "historical",
+                  "coords": [
+                        -1.627865,
+                        6.711232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statue of Otumfuo Opoku Ware II",
+                  "text": "Statue of Otumfuo Opoku Ware II in Tafo.",
+                  "category": "historical",
+                  "coords": [
+                        -1.627865,
+                        6.711232
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-AH",
     coords: [-1.6167, 6.7333],
@@ -1049,7 +2399,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tarkwa-cities-v2",
+    id: "tarkwa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wassa Fiase Traditional Council",
+                  "text": "Das Wassa Fiase Traditional Council ist ein schlossartiges Gebäude in Tarkwa.",
+                  "category": "castle",
+                  "coords": [
+                        -1.98921,
+                        5.29744
+                  ]
+            },
+            {
+                  "name": "TNA Park",
+                  "text": "Der TNA Park ist ein vielseitig genutzter Park und ein Stadion in Tarkwa.",
+                  "category": "park",
+                  "coords": [
+                        -1.992364,
+                        5.300967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wassa Fiase Traditional Council",
+                  "text": "A Wassa Fiase Traditional Council egy kastélyépület Tarkwában.",
+                  "category": "castle",
+                  "coords": [
+                        -1.98921,
+                        5.29744
+                  ]
+            },
+            {
+                  "name": "TNA Park",
+                  "text": "A TNA Park egy többfunkciós park és stadion Tarkwában.",
+                  "category": "park",
+                  "coords": [
+                        -1.992364,
+                        5.300967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wassa Fiase Traditional Council",
+                  "text": "Wassa Fiase Traditional Council este un castel situat în Tarkwa.",
+                  "category": "castle",
+                  "coords": [
+                        -1.98921,
+                        5.29744
+                  ]
+            },
+            {
+                  "name": "TNA Park",
+                  "text": "TNA Park este un parc și un stadion cu utilizare multiplă din Tarkwa.",
+                  "category": "park",
+                  "coords": [
+                        -1.992364,
+                        5.300967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wassa Fiase Traditional Council",
+                  "text": "The Wassa Fiase Traditional Council is a castle structure located in Tarkwa.",
+                  "category": "castle",
+                  "coords": [
+                        -1.98921,
+                        5.29744
+                  ]
+            },
+            {
+                  "name": "TNA Park",
+                  "text": "TNA Park is a multi-use park and stadium located in Tarkwa.",
+                  "category": "park",
+                  "coords": [
+                        -1.992364,
+                        5.300967
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-WP",
     coords: [-1.9833, 5.3],
@@ -1193,7 +2624,88 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "winneba-cities-v2",
+    id: "winneba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sir Charles Tourist Centre",
+                  "text": "Sir Charles Tourist Centre in Winneba.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.625807,
+                        5.331389
+                  ]
+            },
+            {
+                  "name": "Jah Mighty Beach Resort",
+                  "text": "Jah Mighty Beach Resort in Winneba.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.628169,
+                        5.330661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sir Charles Tourist Centre",
+                  "text": "Sir Charles turisztikai központ, Winneba.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.625807,
+                        5.331389
+                  ]
+            },
+            {
+                  "name": "Jah Mighty Beach Resort",
+                  "text": "Jah Mighty Beach üdülőhely, Winneba.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.628169,
+                        5.330661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sir Charles Tourist Centre",
+                  "text": "Centrul turistic Sir Charles din Winneba.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.625807,
+                        5.331389
+                  ]
+            },
+            {
+                  "name": "Jah Mighty Beach Resort",
+                  "text": "Stațiunea Jah Mighty Beach din Winneba.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.628169,
+                        5.330661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sir Charles Tourist Centre",
+                  "text": "Sir Charles Tourist Centre in Winneba.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.625807,
+                        5.331389
+                  ]
+            },
+            {
+                  "name": "Jah Mighty Beach Resort",
+                  "text": "Jah Mighty Beach resort in Winneba.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.628169,
+                        5.330661
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-CP",
     coords: [-0.6231, 5.3511],
@@ -1373,7 +2885,124 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "effiakuma-cities-v2",
+    id: "effiakuma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hazard Monument",
+                  "text": "Das Hazard Monument ist ein Denkmal in Effiakuma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.742768,
+                        4.920127
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Der Rotary Club of Sekondi-Takoradi ist ein Denkmal in Effiakuma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Cheep cigarettes ist ein lokaler Anziehungspunkt in Effiakuma.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hazard Monument",
+                  "text": "A Hazard Monument egy emlékmű Effiakumában.",
+                  "category": "historical",
+                  "coords": [
+                        -1.742768,
+                        4.920127
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "A Rotary Club of Sekondi-Takoradi egy emlékmű Effiakumában.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "A Cheep cigarettes egy helyi érdekeltségű pont Effiakumában.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hazard Monument",
+                  "text": "Hazard Monument este un monument situat în Effiakuma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.742768,
+                        4.920127
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "Rotary Club of Sekondi-Takoradi este un monument situat în Effiakuma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Cheep cigarettes este un punct de atracție local situat în Effiakuma.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hazard Monument",
+                  "text": "The Hazard Monument is a memorial monument located in Effiakuma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.742768,
+                        4.920127
+                  ]
+            },
+            {
+                  "name": "Rotary Club of Sekondi-Takoradi",
+                  "text": "The Rotary Club of Sekondi-Takoradi is a monument situated in Effiakuma.",
+                  "category": "historical",
+                  "coords": [
+                        -1.753293,
+                        4.909261
+                  ]
+            },
+            {
+                  "name": "Cheep cigarettes",
+                  "text": "Cheep cigarettes is a local point of interest located in Effiakuma.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.765365,
+                        4.901318
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-WP",
     coords: [-1.7667, 4.9167],
@@ -1733,7 +3362,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "apam-cities-v2",
+    id: "apam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Patience",
+                  "text": "Fort Patience in Apam.",
+                  "category": "castle",
+                  "coords": [
+                        -0.728116,
+                        5.286162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Patience",
+                  "text": "Patience erőd, Apam.",
+                  "category": "castle",
+                  "coords": [
+                        -0.728116,
+                        5.286162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Patience",
+                  "text": "Fortul Patience din Apam.",
+                  "category": "castle",
+                  "coords": [
+                        -0.728116,
+                        5.286162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Patience",
+                  "text": "Fort Patience in Apam.",
+                  "category": "castle",
+                  "coords": [
+                        -0.728116,
+                        5.286162
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-CP",
     coords: [-0.7333, 5.2833],
@@ -1877,7 +3551,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "foso-cities-v2",
+    id: "foso-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veromays",
+                  "text": "Veromays ist ein Schloss in Foso.",
+                  "category": "castle",
+                  "coords": [
+                        -1.277926,
+                        5.696584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veromays",
+                  "text": "A Veromays egy kastély Foso városában.",
+                  "category": "castle",
+                  "coords": [
+                        -1.277926,
+                        5.696584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veromays",
+                  "text": "Veromays este un castel situat în Foso.",
+                  "category": "castle",
+                  "coords": [
+                        -1.277926,
+                        5.696584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veromays",
+                  "text": "Veromays is a castle located in Foso.",
+                  "category": "castle",
+                  "coords": [
+                        -1.277926,
+                        5.696584
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-CP",
     coords: [-1.2833, 5.7],
@@ -2129,7 +3848,52 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     },
   },
   {
-    id: "anloga-cities-v2",
+    id: "anloga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pachimo Spot Welding and Soldering",
+                  "text": "Pachimo Spot Welding and Soldering ist ein Kunstzentrum in Anloga.",
+                  "category": "cultural",
+                  "coords": [
+                        0.891973,
+                        5.792801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pachimo Spot Welding and Soldering",
+                  "text": "A Pachimo Spot Welding and Soldering egy művészeti központ Anlogában.",
+                  "category": "cultural",
+                  "coords": [
+                        0.891973,
+                        5.792801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pachimo Spot Welding and Soldering",
+                  "text": "Pachimo Spot Welding and Soldering este un centru de artă din Anloga.",
+                  "category": "cultural",
+                  "coords": [
+                        0.891973,
+                        5.792801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pachimo Spot Welding and Soldering",
+                  "text": "Pachimo Spot Welding and Soldering is an arts centre found in Anloga.",
+                  "category": "cultural",
+                  "coords": [
+                        0.891973,
+                        5.792801
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GH-TV",
     coords: [0.9, 5.7833],

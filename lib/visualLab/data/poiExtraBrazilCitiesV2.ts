@@ -436,7 +436,160 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["São Luís is located between the São Marcos and São José bays.", "The city was named after King Louis IX of France (Saint Louis).", "It features the largest collection of colonial buildings in the Brazilian Northeast.", "The average annual temperature in São Luís is approximately 26°C.", "The Port of Itaqui handles over 100 million tons of cargo annually.", "São Luís is the birthplace of the famous Brazilian writer Aluísio Azevedo.", "The city's historical center was inscribed as a World Heritage site in 1997.", "The local Bumba-Meu-Boi groups often practice throughout the year for the June festivals."],
     }, image: "/poi-images/sao-luis-cities-v2.webp"},
   {
-    id: "sao-goncalo-cities-v2",
+    id: "sao-goncalo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "Praia das Pedrinhas ist ein malerischer Strand in São Gonçalo.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.072203,
+                        -22.810314
+                  ]
+            },
+            {
+                  "name": "Teatro George Savalla Gomes",
+                  "text": "Das Teatro George Savalla Gomes ist ein Theater für darstellende Künste in São Gonçalo.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.049353,
+                        -22.825397
+                  ]
+            },
+            {
+                  "name": "GRES Unidos do Porto da Pedra",
+                  "text": "GRES Unidos do Porto da Pedra ist eine berühmte Sambaschule und Sehenswürdigkeit in São Gonçalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.062688,
+                        -22.824019
+                  ]
+            },
+            {
+                  "name": "casa das artes",
+                  "text": "Casa das Artes ist eine Kunstgalerie mit verschiedenen Ausstellungen in São Gonçalo.",
+                  "category": "museum",
+                  "coords": [
+                        -43.05395,
+                        -22.828107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "A Praia das Pedrinhas egy kellemes strand São Gonçalo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.072203,
+                        -22.810314
+                  ]
+            },
+            {
+                  "name": "Teatro George Savalla Gomes",
+                  "text": "A Teatro George Savalla Gomes egy előadóművészeti színház São Gonçalóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.049353,
+                        -22.825397
+                  ]
+            },
+            {
+                  "name": "GRES Unidos do Porto da Pedra",
+                  "text": "A GRES Unidos do Porto da Pedra egy híres szambaiskola és látványosság São Gonçalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.062688,
+                        -22.824019
+                  ]
+            },
+            {
+                  "name": "casa das artes",
+                  "text": "A Casa das Artes egy művészeti galéria, amely különféle kiállításokat kínál São Gonçalóban.",
+                  "category": "museum",
+                  "coords": [
+                        -43.05395,
+                        -22.828107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "Praia das Pedrinhas este o plajă plăcută în São Gonçalo.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.072203,
+                        -22.810314
+                  ]
+            },
+            {
+                  "name": "Teatro George Savalla Gomes",
+                  "text": "Teatro George Savalla Gomes este un teatru de arte spectacolului în São Gonçalo.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.049353,
+                        -22.825397
+                  ]
+            },
+            {
+                  "name": "GRES Unidos do Porto da Pedra",
+                  "text": "GRES Unidos do Porto da Pedra este o renumită școală de samba și atracție din São Gonçalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.062688,
+                        -22.824019
+                  ]
+            },
+            {
+                  "name": "casa das artes",
+                  "text": "Casa das Artes este o galerie de artă cu diverse expoziții în São Gonçalo.",
+                  "category": "museum",
+                  "coords": [
+                        -43.05395,
+                        -22.828107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia das Pedrinhas",
+                  "text": "Praia das Pedrinhas is a pleasant beach destination in São Gonçalo.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.072203,
+                        -22.810314
+                  ]
+            },
+            {
+                  "name": "Teatro George Savalla Gomes",
+                  "text": "Teatro George Savalla Gomes is a performing arts theatre in São Gonçalo.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.049353,
+                        -22.825397
+                  ]
+            },
+            {
+                  "name": "GRES Unidos do Porto da Pedra",
+                  "text": "GRES Unidos do Porto da Pedra is a renowned samba school and attraction in São Gonçalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.062688,
+                        -22.824019
+                  ]
+            },
+            {
+                  "name": "casa das artes",
+                  "text": "Casa das Artes is an art gallery featuring various exhibits in São Gonçalo.",
+                  "category": "museum",
+                  "coords": [
+                        -43.05395,
+                        -22.828107
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-RJ",
     coords: [-43.0631, -22.8269],
@@ -500,7 +653,196 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["Maceió officially became the capital of Alagoas in December 1839.", "The city covers a total land area of approximately 511 square kilometers.", "The metropolitan area is home to more than 1 million residents.", "Jaraguá district was the primary sugar export hub during the colonial era.", "Maceió features some of Brazil's largest urban coral reef formations.", "The city is located at an average elevation of only 7 meters above sea level.", "Tourism and chemical processing are the city's primary economic drivers.", "Maceió is known for having the highest concentration of artisans in the state."],
     }, image: "/poi-images/maceio-cities-v2.webp"},
   {
-    id: "duque-de-caxias-cities-v2",
+    id: "duque-de-caxias-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Ciência e Vida;Drogaria Pacheco",
+                  "text": "Das Museu Ciência e Vida in Duque de Caxias ist ein Museum für Wissenschaft.",
+                  "category": "museum",
+                  "coords": [
+                        -43.306732,
+                        -22.790359
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Raul Cortez",
+                  "text": "Das Teatro Municipal Raul Cortez ist ein Theater in Duque de Caxias.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.310363,
+                        -22.788115
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Grande Rio",
+                  "text": "Acadêmicos do Grande Rio ist eine berühmte Samba-Schule in Duque de Caxias.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.310266,
+                        -22.79197
+                  ]
+            },
+            {
+                  "name": "GRES Acadêmicos de Vigário Geral",
+                  "text": "Acadêmicos de Vigário Geral ist eine Samba-Schule in Duque de Caxias.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.306838,
+                        -22.806861
+                  ]
+            },
+            {
+                  "name": "Lira de Ouro - Ponto de Cultura / Sociedade Musical e Artística",
+                  "text": "Lira de Ouro ist ein kulturelles Zentrum in Duque de Caxias.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.31337,
+                        -22.785755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Ciência e Vida;Drogaria Pacheco",
+                  "text": "A Duque de Caxiasban található Museu Ciência e Vida egy tudományos múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -43.306732,
+                        -22.790359
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Raul Cortez",
+                  "text": "A Teatro Municipal Raul Cortez egy színház Duque de Caxiasban.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.310363,
+                        -22.788115
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Grande Rio",
+                  "text": "Az Acadêmicos do Grande Rio egy híres szambaiskola Duque de Caxiasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.310266,
+                        -22.79197
+                  ]
+            },
+            {
+                  "name": "GRES Acadêmicos de Vigário Geral",
+                  "text": "Az Acadêmicos de Vigário Geral egy szambaiskola Duque de Caxiasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.306838,
+                        -22.806861
+                  ]
+            },
+            {
+                  "name": "Lira de Ouro - Ponto de Cultura / Sociedade Musical e Artística",
+                  "text": "A Lira de Ouro egy kulturális központ Duque de Caxiasban.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.31337,
+                        -22.785755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Ciência e Vida;Drogaria Pacheco",
+                  "text": "Museu Ciência e Vida din Duque de Caxias este un muzeu de știință.",
+                  "category": "museum",
+                  "coords": [
+                        -43.306732,
+                        -22.790359
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Raul Cortez",
+                  "text": "Teatro Municipal Raul Cortez este un teatru din Duque de Caxias.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.310363,
+                        -22.788115
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Grande Rio",
+                  "text": "Acadêmicos do Grande Rio este o celebră școală de samba din Duque de Caxias.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.310266,
+                        -22.79197
+                  ]
+            },
+            {
+                  "name": "GRES Acadêmicos de Vigário Geral",
+                  "text": "Acadêmicos de Vigário Geral este o școală de samba din Duque de Caxias.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.306838,
+                        -22.806861
+                  ]
+            },
+            {
+                  "name": "Lira de Ouro - Ponto de Cultura / Sociedade Musical e Artística",
+                  "text": "Lira de Ouro este un centru cultural din Duque de Caxias.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.31337,
+                        -22.785755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Ciência e Vida;Drogaria Pacheco",
+                  "text": "The Museu Ciência e Vida in Duque de Caxias is a science museum.",
+                  "category": "museum",
+                  "coords": [
+                        -43.306732,
+                        -22.790359
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Raul Cortez",
+                  "text": "The Teatro Municipal Raul Cortez is a theatre in Duque de Caxias.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.310363,
+                        -22.788115
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Grande Rio",
+                  "text": "Acadêmicos do Grande Rio is a famous samba school in Duque de Caxias.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.310266,
+                        -22.79197
+                  ]
+            },
+            {
+                  "name": "GRES Acadêmicos de Vigário Geral",
+                  "text": "Acadêmicos de Vigário Geral is a samba school in Duque de Caxias.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.306838,
+                        -22.806861
+                  ]
+            },
+            {
+                  "name": "Lira de Ouro - Ponto de Cultura / Sociedade Musical e Artística",
+                  "text": "Lira de Ouro is a cultural center in Duque de Caxias.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.31337,
+                        -22.785755
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-RJ",
     coords: [-43.3117, -22.7856],
@@ -610,7 +952,556 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["Teresina was founded in 1852 and named after Empress Teresa Cristina.", "It is the first planned city in the history of Brazil.", "The city is located approximately 343 kilometers from the Atlantic coast.", "It ranks as one of the hottest cities in Brazil, often reaching 40°C.", "The confluence of the Parnaíba and Poti rivers is a protected environmental park.", "The city's GDP is the largest in the state of Piauí.", "Teresina's airport (THE) connects the interior to Brazil's major hubs.", "The Saint Benedict Church (São Benedito) took 12 years to be completed (1874-1886)."],
     }, image: "/poi-images/teresina-cities-v2.webp"},
   {
-    id: "sao-bernardo-do-campo-cities-v2",
+    id: "sao-bernardo-do-campo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cidade da Criança",
+                  "text": "Cidade da Criança ist ein bekannter Freizeitpark in São Bernardo do Campo.",
+                  "category": "recreational",
+                  "coords": [
+                        -46.556158,
+                        -23.687787
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Cacilda Becker",
+                  "text": "Teatro Municipal Cacilda Becker ist ein Theater in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.552127,
+                        -23.695616
+                  ]
+            },
+            {
+                  "name": "Parque Central",
+                  "text": "Parque Central ist ein Theater in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.528875,
+                        -23.675699
+                  ]
+            },
+            {
+                  "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
+                  "text": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC ist ein Museum in São Bernardo do Campo.",
+                  "category": "museum",
+                  "coords": [
+                        -46.55636,
+                        -23.716293
+                  ]
+            },
+            {
+                  "name": "Sabina Escola Parque do Conhecimento",
+                  "text": "Sabina Escola Parque do Conhecimento ist ein Kunstzentrum und Wissenschaftspark in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.531295,
+                        -23.679141
+                  ]
+            },
+            {
+                  "name": "Pinacoteca de São Bernardo do Campo",
+                  "text": "Pinacoteca de São Bernardo do Campo ist eine öffentliche Kunstgalerie in São Bernardo do Campo.",
+                  "category": "museum",
+                  "coords": [
+                        -46.555205,
+                        -23.687452
+                  ]
+            },
+            {
+                  "name": "Cruzeiro do Baeta",
+                  "text": "Cruzeiro do Baeta ist ein Denkmal in São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.538531,
+                        -23.700339
+                  ]
+            },
+            {
+                  "name": "Carroça de Aço",
+                  "text": "Carroça de Aço ist ein Denkmal in São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.532998,
+                        -23.710392
+                  ]
+            },
+            {
+                  "name": "Antiga Casa da Baronesa",
+                  "text": "Antiga Casa da Baronesa ist eine Ruine in São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.535155,
+                        -23.695346
+                  ]
+            },
+            {
+                  "name": "Batalha da Matrix",
+                  "text": "Batalha da Matrix ist ein Kunstzentrum in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550652,
+                        -23.70806
+                  ]
+            },
+            {
+                  "name": "Fábrica de Cultura Bruno Covas",
+                  "text": "Fábrica de Cultura Bruno Covas ist ein Kunstzentrum in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550311,
+                        -23.697804
+                  ]
+            },
+            {
+                  "name": "Igreja Santa Filomena",
+                  "text": "Igreja Santa Filomena ist eine Sehenswürdigkeit in São Bernardo do Campo.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.55123,
+                        -23.703597
+                  ]
+            },
+            {
+                  "name": "Câmara de Cultura Antonino Assumpção",
+                  "text": "Câmara de Cultura Antonino Assumpção ist ein Kunstzentrum in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550563,
+                        -23.709798
+                  ]
+            },
+            {
+                  "name": "Fratemidade Cristã",
+                  "text": "Fratemidade Cristã ist ein Denkmal in São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.553201,
+                        -23.694202
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alexandre de Azevedo Marques Miguel",
+                  "text": "Centro Cultural Alexandre de Azevedo Marques Miguel ist ein Kunstzentrum in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.544616,
+                        -23.68893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cidade da Criança",
+                  "text": "A Cidade da Criança egy nevezetes vidámpark São Bernardo do Campo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -46.556158,
+                        -23.687787
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Cacilda Becker",
+                  "text": "A Teatro Municipal Cacilda Becker egy színház São Bernardo do Campo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.552127,
+                        -23.695616
+                  ]
+            },
+            {
+                  "name": "Parque Central",
+                  "text": "A Parque Central egy színház São Bernardo do Campo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.528875,
+                        -23.675699
+                  ]
+            },
+            {
+                  "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
+                  "text": "Az ANVFEB Associação Nacional dos Veteranos da FEB - SBC egy múzeum São Bernardo do Campo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -46.55636,
+                        -23.716293
+                  ]
+            },
+            {
+                  "name": "Sabina Escola Parque do Conhecimento",
+                  "text": "A Sabina Escola Parque do Conhecimento egy művészeti központ és tudománypark São Bernardo do Campo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.531295,
+                        -23.679141
+                  ]
+            },
+            {
+                  "name": "Pinacoteca de São Bernardo do Campo",
+                  "text": "A Pinacoteca de São Bernardo do Campo egy nyilvános művészeti galéria São Bernardo do Campo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -46.555205,
+                        -23.687452
+                  ]
+            },
+            {
+                  "name": "Cruzeiro do Baeta",
+                  "text": "A Cruzeiro do Baeta egy emlékmű São Bernardo do Campo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.538531,
+                        -23.700339
+                  ]
+            },
+            {
+                  "name": "Carroça de Aço",
+                  "text": "A Carroça de Aço egy emlékmű São Bernardo do Campo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.532998,
+                        -23.710392
+                  ]
+            },
+            {
+                  "name": "Antiga Casa da Baronesa",
+                  "text": "Az Antiga Casa da Baronesa egy rom São Bernardo do Campo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.535155,
+                        -23.695346
+                  ]
+            },
+            {
+                  "name": "Batalha da Matrix",
+                  "text": "A Batalha da Matrix egy művészeti központ São Bernardo do Campo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550652,
+                        -23.70806
+                  ]
+            },
+            {
+                  "name": "Fábrica de Cultura Bruno Covas",
+                  "text": "A Fábrica de Cultura Bruno Covas egy művészeti központ São Bernardo do Campo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550311,
+                        -23.697804
+                  ]
+            },
+            {
+                  "name": "Igreja Santa Filomena",
+                  "text": "Az Igreja Santa Filomena egy látványosság São Bernardo do Campo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.55123,
+                        -23.703597
+                  ]
+            },
+            {
+                  "name": "Câmara de Cultura Antonino Assumpção",
+                  "text": "A Câmara de Cultura Antonino Assumpção egy művészeti központ São Bernardo do Campo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550563,
+                        -23.709798
+                  ]
+            },
+            {
+                  "name": "Fratemidade Cristã",
+                  "text": "A Fratemidade Cristã egy emlékmű São Bernardo do Campo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.553201,
+                        -23.694202
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alexandre de Azevedo Marques Miguel",
+                  "text": "A Centro Cultural Alexandre de Azevedo Marques Miguel egy művészeti központ São Bernardo do Campo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.544616,
+                        -23.68893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cidade da Criança",
+                  "text": "Cidade da Criança este un parc tematic notabil în São Bernardo do Campo.",
+                  "category": "recreational",
+                  "coords": [
+                        -46.556158,
+                        -23.687787
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Cacilda Becker",
+                  "text": "Teatro Municipal Cacilda Becker este un teatru în São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.552127,
+                        -23.695616
+                  ]
+            },
+            {
+                  "name": "Parque Central",
+                  "text": "Parque Central este un teatru în São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.528875,
+                        -23.675699
+                  ]
+            },
+            {
+                  "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
+                  "text": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC este un muzeu în São Bernardo do Campo.",
+                  "category": "museum",
+                  "coords": [
+                        -46.55636,
+                        -23.716293
+                  ]
+            },
+            {
+                  "name": "Sabina Escola Parque do Conhecimento",
+                  "text": "Sabina Escola Parque do Conhecimento este un centru de arte și parc științific în São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.531295,
+                        -23.679141
+                  ]
+            },
+            {
+                  "name": "Pinacoteca de São Bernardo do Campo",
+                  "text": "Pinacoteca de São Bernardo do Campo este o galerie de artă publică în São Bernardo do Campo.",
+                  "category": "museum",
+                  "coords": [
+                        -46.555205,
+                        -23.687452
+                  ]
+            },
+            {
+                  "name": "Cruzeiro do Baeta",
+                  "text": "Cruzeiro do Baeta este un monument în São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.538531,
+                        -23.700339
+                  ]
+            },
+            {
+                  "name": "Carroça de Aço",
+                  "text": "Carroça de Aço este un monument în São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.532998,
+                        -23.710392
+                  ]
+            },
+            {
+                  "name": "Antiga Casa da Baronesa",
+                  "text": "Antiga Casa da Baronesa este o ruină în São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.535155,
+                        -23.695346
+                  ]
+            },
+            {
+                  "name": "Batalha da Matrix",
+                  "text": "Batalha da Matrix este un centru de arte în São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550652,
+                        -23.70806
+                  ]
+            },
+            {
+                  "name": "Fábrica de Cultura Bruno Covas",
+                  "text": "Fábrica de Cultura Bruno Covas este un centru de arte în São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550311,
+                        -23.697804
+                  ]
+            },
+            {
+                  "name": "Igreja Santa Filomena",
+                  "text": "Igreja Santa Filomena este o atracție în São Bernardo do Campo.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.55123,
+                        -23.703597
+                  ]
+            },
+            {
+                  "name": "Câmara de Cultura Antonino Assumpção",
+                  "text": "Câmara de Cultura Antonino Assumpção este un centru de arte în São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550563,
+                        -23.709798
+                  ]
+            },
+            {
+                  "name": "Fratemidade Cristã",
+                  "text": "Fratemidade Cristã este un monument în São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.553201,
+                        -23.694202
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alexandre de Azevedo Marques Miguel",
+                  "text": "Centro Cultural Alexandre de Azevedo Marques Miguel este un centru de arte în São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.544616,
+                        -23.68893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cidade da Criança",
+                  "text": "Cidade da Criança is a notable theme park located in São Bernardo do Campo.",
+                  "category": "recreational",
+                  "coords": [
+                        -46.556158,
+                        -23.687787
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Cacilda Becker",
+                  "text": "Teatro Municipal Cacilda Becker is a theatre located in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.552127,
+                        -23.695616
+                  ]
+            },
+            {
+                  "name": "Parque Central",
+                  "text": "Parque Central is a theatre located in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.528875,
+                        -23.675699
+                  ]
+            },
+            {
+                  "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
+                  "text": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC is a museum located in São Bernardo do Campo.",
+                  "category": "museum",
+                  "coords": [
+                        -46.55636,
+                        -23.716293
+                  ]
+            },
+            {
+                  "name": "Sabina Escola Parque do Conhecimento",
+                  "text": "Sabina Escola Parque do Conhecimento is an arts centre and science park located in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.531295,
+                        -23.679141
+                  ]
+            },
+            {
+                  "name": "Pinacoteca de São Bernardo do Campo",
+                  "text": "Pinacoteca de São Bernardo do Campo is a public art gallery located in São Bernardo do Campo.",
+                  "category": "museum",
+                  "coords": [
+                        -46.555205,
+                        -23.687452
+                  ]
+            },
+            {
+                  "name": "Cruzeiro do Baeta",
+                  "text": "Cruzeiro do Baeta is a monument located in São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.538531,
+                        -23.700339
+                  ]
+            },
+            {
+                  "name": "Carroça de Aço",
+                  "text": "Carroça de Aço is a monument located in São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.532998,
+                        -23.710392
+                  ]
+            },
+            {
+                  "name": "Antiga Casa da Baronesa",
+                  "text": "Antiga Casa da Baronesa is a ruin located in São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.535155,
+                        -23.695346
+                  ]
+            },
+            {
+                  "name": "Batalha da Matrix",
+                  "text": "Batalha da Matrix is an arts centre located in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550652,
+                        -23.70806
+                  ]
+            },
+            {
+                  "name": "Fábrica de Cultura Bruno Covas",
+                  "text": "Fábrica de Cultura Bruno Covas is an arts centre located in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550311,
+                        -23.697804
+                  ]
+            },
+            {
+                  "name": "Igreja Santa Filomena",
+                  "text": "Igreja Santa Filomena is an attraction located in São Bernardo do Campo.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.55123,
+                        -23.703597
+                  ]
+            },
+            {
+                  "name": "Câmara de Cultura Antonino Assumpção",
+                  "text": "Câmara de Cultura Antonino Assumpção is an arts centre located in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.550563,
+                        -23.709798
+                  ]
+            },
+            {
+                  "name": "Fratemidade Cristã",
+                  "text": "Fratemidade Cristã is a monument located in São Bernardo do Campo.",
+                  "category": "historical",
+                  "coords": [
+                        -46.553201,
+                        -23.694202
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alexandre de Azevedo Marques Miguel",
+                  "text": "Centro Cultural Alexandre de Azevedo Marques Miguel is an arts centre located in São Bernardo do Campo.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.544616,
+                        -23.68893
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-SP",
     coords: [-46.55, -23.6939],
@@ -645,7 +1536,196 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Une ville industrialisée dans la zone métropolitaine de São Paulo, berceau de l'industrie automobile.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/sao-bernardo-do-campo-cities-v2.webp"},
   {
-    id: "nova-iguacu-cities-v2",
+    id: "nova-iguacu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Sylvio Monteiro",
+                  "text": "Das Teatro Sylvio Monteiro ist ein Kulturtheater in Nova Iguaçu.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.450154,
+                        -22.761396
+                  ]
+            },
+            {
+                  "name": "Pedreira São José",
+                  "text": "Pedreira São José ist ein ehemaliger Steinbruch und eine Attraktion in Nova Iguaçu.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.45911,
+                        -22.780067
+                  ]
+            },
+            {
+                  "name": "Ponta do Cruzeiro",
+                  "text": "Ponta do Cruzeiro ist ein Aussichtspunkt mit weitem Blick über Nova Iguaçu.",
+                  "category": "natural",
+                  "coords": [
+                        -43.4592,
+                        -22.768349
+                  ]
+            },
+            {
+                  "name": "MIrante Vigné",
+                  "text": "Mirante Vigné ist ein malerischer Aussichtspunkt in Nova Iguaçu.",
+                  "category": "natural",
+                  "coords": [
+                        -43.466911,
+                        -22.77136
+                  ]
+            },
+            {
+                  "name": "CIAM -Centro de Integração das Artes Múltiplas",
+                  "text": "CIAM ist ein integriertes Kunstzentrum in Nova Iguaçu.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.471342,
+                        -22.752175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Sylvio Monteiro",
+                  "text": "A Teatro Sylvio Monteiro egy kulturális színház Nova Iguaçu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.450154,
+                        -22.761396
+                  ]
+            },
+            {
+                  "name": "Pedreira São José",
+                  "text": "A Pedreira São José egy egykori kőbánya és látványosság Nova Iguaçuban.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.45911,
+                        -22.780067
+                  ]
+            },
+            {
+                  "name": "Ponta do Cruzeiro",
+                  "text": "A Ponta do Cruzeiro egy kilátó, ahonnan kiterjedt kilátás nyílik Nova Iguaçura.",
+                  "category": "natural",
+                  "coords": [
+                        -43.4592,
+                        -22.768349
+                  ]
+            },
+            {
+                  "name": "MIrante Vigné",
+                  "text": "A Mirante Vigné egy festői kilátó Nova Iguaçu városában.",
+                  "category": "natural",
+                  "coords": [
+                        -43.466911,
+                        -22.77136
+                  ]
+            },
+            {
+                  "name": "CIAM -Centro de Integração das Artes Múltiplas",
+                  "text": "A CIAM egy integrált művészeti központ Nova Iguaçu városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.471342,
+                        -22.752175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Sylvio Monteiro",
+                  "text": "Teatro Sylvio Monteiro este un teatru cultural situat în Nova Iguaçu.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.450154,
+                        -22.761396
+                  ]
+            },
+            {
+                  "name": "Pedreira São José",
+                  "text": "Pedreira São José este o fostă carieră de piatră și o atracție în Nova Iguaçu.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.45911,
+                        -22.780067
+                  ]
+            },
+            {
+                  "name": "Ponta do Cruzeiro",
+                  "text": "Ponta do Cruzeiro este un punct de belvedere care oferă priveliști extinse asupra orașului Nova Iguaçu.",
+                  "category": "natural",
+                  "coords": [
+                        -43.4592,
+                        -22.768349
+                  ]
+            },
+            {
+                  "name": "MIrante Vigné",
+                  "text": "Mirante Vigné este un punct de observare pitoresc situat în Nova Iguaçu.",
+                  "category": "natural",
+                  "coords": [
+                        -43.466911,
+                        -22.77136
+                  ]
+            },
+            {
+                  "name": "CIAM -Centro de Integração das Artes Múltiplas",
+                  "text": "CIAM este un centru de arte integrat situat în Nova Iguaçu.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.471342,
+                        -22.752175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Sylvio Monteiro",
+                  "text": "Teatro Sylvio Monteiro is a cultural theatre located in Nova Iguaçu.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.450154,
+                        -22.761396
+                  ]
+            },
+            {
+                  "name": "Pedreira São José",
+                  "text": "Pedreira São José is a former quarry site and attraction in Nova Iguaçu.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.45911,
+                        -22.780067
+                  ]
+            },
+            {
+                  "name": "Ponta do Cruzeiro",
+                  "text": "Ponta do Cruzeiro is a viewpoint offering expansive sights over Nova Iguaçu.",
+                  "category": "natural",
+                  "coords": [
+                        -43.4592,
+                        -22.768349
+                  ]
+            },
+            {
+                  "name": "MIrante Vigné",
+                  "text": "Mirante Vigné is a scenic viewpoint situated in Nova Iguaçu.",
+                  "category": "natural",
+                  "coords": [
+                        -43.466911,
+                        -22.77136
+                  ]
+            },
+            {
+                  "name": "CIAM -Centro de Integração das Artes Múltiplas",
+                  "text": "CIAM is an integrated arts centre located in Nova Iguaçu.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.471342,
+                        -22.752175
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-RJ",
     coords: [-43.4503, -22.7561],
@@ -709,7 +1789,376 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["João Pessoa is the second greenest city in the world, according to a UN study in 1992.", "The sun rises in João Pessoa at approximately 5:00 AM year-round.", "The city's historic center is a National Historic and Artistic Heritage site since 2007.", "The 'Bolero de Ravel' at Jacaré Beach has been performed over 10,000 times consecutively.", "The city produces some of the world's finest naturally colored organic cotton.", "The San Francisco Cultural Center houses one of the best-preserved Baroque cloisters in Brazil.", "João Pessoa has the lowest cost of living among the Northeastern state capitals.", "The city's coastline is famous for natural pools formed by coral reefs during low tide."],
     }, image: "/poi-images/joao-pessoa-cities-v2.webp"},
   {
-    id: "sao-jose-dos-campos-cities-v2",
+    id: "sao-jose-dos-campos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro de Documentação Musical de São José dos Campos",
+                  "text": "Das Musikdokumentationszentrum in São José dos Campos bewahrt musikalische Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -45.895955,
+                        -23.198197
+                  ]
+            },
+            {
+                  "name": "Teatro do SESI",
+                  "text": "Das Teatro do SESI ist ein Theater in São José dos Campos.",
+                  "category": "cultural",
+                  "coords": [
+                        -45.884935,
+                        -23.248849
+                  ]
+            },
+            {
+                  "name": "Foguete Sonda",
+                  "text": "Die Foguete Sonda ist eine historische Rakete in São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.891608,
+                        -23.199496
+                  ]
+            },
+            {
+                  "name": "Parque Vicentina Aranha",
+                  "text": "Der Parque Vicentina Aranha ist eine bekannte Sehenswürdigkeit in São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.897041,
+                        -23.19825
+                  ]
+            },
+            {
+                  "name": "Memorial Aeroespacial Brasileiro",
+                  "text": "Das Memorial Aeroespacial Brasileiro in São José dos Campos ist ein Luftfahrtmuseum.",
+                  "category": "park",
+                  "coords": [
+                        -45.860026,
+                        -23.222464
+                  ]
+            },
+            {
+                  "name": "Estátua do Marechal-do-Ar Casimiro Montenegro Filho",
+                  "text": "Das Denkmal für Casimiro Montenegro Filho ehrt einen bedeutenden Luftwaffenoffizier in São José dos Campos.",
+                  "category": "historical",
+                  "coords": [
+                        -45.882518,
+                        -23.206023
+                  ]
+            },
+            {
+                  "name": "Jardim Japonês",
+                  "text": "Der Japanische Garten ist eine attraktive Anlage in São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.890635,
+                        -23.199442
+                  ]
+            },
+            {
+                  "name": "Bel France",
+                  "text": "Bel France ist eine Sehenswürdigkeit in São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.888481,
+                        -23.206261
+                  ]
+            },
+            {
+                  "name": "Ponte Estaiada - Arco da Inovação",
+                  "text": "Die Brücke Arco da Inovação ist ein modernes Wahrzeichen in São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.906123,
+                        -23.205312
+                  ]
+            },
+            {
+                  "name": "Catedral de São Dimas",
+                  "text": "Die Kathedrale von São Dimas ist ein wichtiges Gotteshaus in São José dos Campos.",
+                  "category": "religious",
+                  "coords": [
+                        -45.888168,
+                        -23.198557
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro de Documentação Musical de São José dos Campos",
+                  "text": "A São José dos Campos-i zenei dokumentációs központ a zenetörténetet őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -45.895955,
+                        -23.198197
+                  ]
+            },
+            {
+                  "name": "Teatro do SESI",
+                  "text": "A Teatro do SESI egy színház São José dos Camposban.",
+                  "category": "cultural",
+                  "coords": [
+                        -45.884935,
+                        -23.248849
+                  ]
+            },
+            {
+                  "name": "Foguete Sonda",
+                  "text": "A Foguete Sonda egy történelmi rakéta São José dos Camposban.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.891608,
+                        -23.199496
+                  ]
+            },
+            {
+                  "name": "Parque Vicentina Aranha",
+                  "text": "A Parque Vicentina Aranha egy ismert látnivaló São José dos Camposban.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.897041,
+                        -23.19825
+                  ]
+            },
+            {
+                  "name": "Memorial Aeroespacial Brasileiro",
+                  "text": "A São José dos Campos-i Memorial Aeroespacial Brasileiro egy repülési múzeum.",
+                  "category": "park",
+                  "coords": [
+                        -45.860026,
+                        -23.222464
+                  ]
+            },
+            {
+                  "name": "Estátua do Marechal-do-Ar Casimiro Montenegro Filho",
+                  "text": "A Casimiro Montenegro Filho-emlékmű egy jelentős légierő-tisztnek állít emléket São José dos Camposban.",
+                  "category": "historical",
+                  "coords": [
+                        -45.882518,
+                        -23.206023
+                  ]
+            },
+            {
+                  "name": "Jardim Japonês",
+                  "text": "A Japánkert egy vonzó létesítmény São José dos Camposban.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.890635,
+                        -23.199442
+                  ]
+            },
+            {
+                  "name": "Bel France",
+                  "text": "Bel France egy látnivaló São José dos Camposban.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.888481,
+                        -23.206261
+                  ]
+            },
+            {
+                  "name": "Ponte Estaiada - Arco da Inovação",
+                  "text": "Az Arco da Inovação híd egy modern nevezetesség São José dos Camposban.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.906123,
+                        -23.205312
+                  ]
+            },
+            {
+                  "name": "Catedral de São Dimas",
+                  "text": "A São Dimas-székesegyház egy fontos templom São José dos Camposban.",
+                  "category": "religious",
+                  "coords": [
+                        -45.888168,
+                        -23.198557
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro de Documentação Musical de São José dos Campos",
+                  "text": "Centrul de documentare muzicală din São José dos Campos păstrează istoria muzicală.",
+                  "category": "museum",
+                  "coords": [
+                        -45.895955,
+                        -23.198197
+                  ]
+            },
+            {
+                  "name": "Teatro do SESI",
+                  "text": "Teatro do SESI este un teatru din São José dos Campos.",
+                  "category": "cultural",
+                  "coords": [
+                        -45.884935,
+                        -23.248849
+                  ]
+            },
+            {
+                  "name": "Foguete Sonda",
+                  "text": "Foguete Sonda este o rachetă istorică din São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.891608,
+                        -23.199496
+                  ]
+            },
+            {
+                  "name": "Parque Vicentina Aranha",
+                  "text": "Parque Vicentina Aranha este o atracție cunoscută din São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.897041,
+                        -23.19825
+                  ]
+            },
+            {
+                  "name": "Memorial Aeroespacial Brasileiro",
+                  "text": "Memorial Aeroespacial Brasileiro din São José dos Campos este un muzeu al aviației.",
+                  "category": "park",
+                  "coords": [
+                        -45.860026,
+                        -23.222464
+                  ]
+            },
+            {
+                  "name": "Estátua do Marechal-do-Ar Casimiro Montenegro Filho",
+                  "text": "Monumentul lui Casimiro Montenegro Filho onorează un ofițer important al forțelor aeriene în São José dos Campos.",
+                  "category": "historical",
+                  "coords": [
+                        -45.882518,
+                        -23.206023
+                  ]
+            },
+            {
+                  "name": "Jardim Japonês",
+                  "text": "Grădina Japoneză este o amenajare atractivă din São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.890635,
+                        -23.199442
+                  ]
+            },
+            {
+                  "name": "Bel France",
+                  "text": "Bel France este o atracție din São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.888481,
+                        -23.206261
+                  ]
+            },
+            {
+                  "name": "Ponte Estaiada - Arco da Inovação",
+                  "text": "Podul Arco da Inovação este un reper modern din São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.906123,
+                        -23.205312
+                  ]
+            },
+            {
+                  "name": "Catedral de São Dimas",
+                  "text": "Catedrala São Dimas este un lăcaș de cult important din São José dos Campos.",
+                  "category": "religious",
+                  "coords": [
+                        -45.888168,
+                        -23.198557
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro de Documentação Musical de São José dos Campos",
+                  "text": "The music documentation center in São José dos Campos preserves musical history.",
+                  "category": "museum",
+                  "coords": [
+                        -45.895955,
+                        -23.198197
+                  ]
+            },
+            {
+                  "name": "Teatro do SESI",
+                  "text": "The Teatro do SESI is a theatre in São José dos Campos.",
+                  "category": "cultural",
+                  "coords": [
+                        -45.884935,
+                        -23.248849
+                  ]
+            },
+            {
+                  "name": "Foguete Sonda",
+                  "text": "The Foguete Sonda is a historic rocket in São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.891608,
+                        -23.199496
+                  ]
+            },
+            {
+                  "name": "Parque Vicentina Aranha",
+                  "text": "The Parque Vicentina Aranha is a well-known attraction in São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.897041,
+                        -23.19825
+                  ]
+            },
+            {
+                  "name": "Memorial Aeroespacial Brasileiro",
+                  "text": "The Memorial Aeroespacial Brasileiro in São José dos Campos is an aviation museum.",
+                  "category": "park",
+                  "coords": [
+                        -45.860026,
+                        -23.222464
+                  ]
+            },
+            {
+                  "name": "Estátua do Marechal-do-Ar Casimiro Montenegro Filho",
+                  "text": "The monument to Casimiro Montenegro Filho honors a significant air force officer in São José dos Campos.",
+                  "category": "historical",
+                  "coords": [
+                        -45.882518,
+                        -23.206023
+                  ]
+            },
+            {
+                  "name": "Jardim Japonês",
+                  "text": "The Japanese Garden is an attractive facility in São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.890635,
+                        -23.199442
+                  ]
+            },
+            {
+                  "name": "Bel France",
+                  "text": "Bel France is an attraction in São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.888481,
+                        -23.206261
+                  ]
+            },
+            {
+                  "name": "Ponte Estaiada - Arco da Inovação",
+                  "text": "The Arco da Inovação bridge is a modern landmark in São José dos Campos.",
+                  "category": "landmark",
+                  "coords": [
+                        -45.906123,
+                        -23.205312
+                  ]
+            },
+            {
+                  "name": "Catedral de São Dimas",
+                  "text": "The Cathedral of São Dimas is an important place of worship in São José dos Campos.",
+                  "category": "religious",
+                  "coords": [
+                        -45.888168,
+                        -23.198557
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-SP",
     coords: [-45.8869, -23.2237],
@@ -744,7 +2193,772 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Le cœur technologique du Brésil, connu surtout pour son industrie aérospatiale.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/sao-jose-dos-campos-cities-v2.webp"},
   {
-    id: "santo-andre-cities-v2",
+    id: "santo-andre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Municipal Maestro Flavio Florence",
+                  "text": "Teatro Municipal Maestro Flavio Florence ist ein Theater in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.532288,
+                        -23.656538
+                  ]
+            },
+            {
+                  "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
+                  "text": "Museu de Santo André Doutor Octaviano Armando Gaiarsa ist ein bedeutendes Geschichtsmuseum in Santo André.",
+                  "category": "museum",
+                  "coords": [
+                        -46.523965,
+                        -23.662751
+                  ]
+            },
+            {
+                  "name": "Palco da Sede da Banda Lira",
+                  "text": "Palco da Sede da Banda Lira ist ein Theater in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.521562,
+                        -23.668211
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Professor Doutor Milton Borrelli",
+                  "text": "Anfiteatro Professor Doutor Milton Borrelli ist ein Theater in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.555108,
+                        -23.661151
+                  ]
+            },
+            {
+                  "name": "Museu Militar dos Expedicionários do ABCDMRR",
+                  "text": "Museu Militar dos Expedicionários do ABCDMRR ist ein Museum in Santo André.",
+                  "category": "museum",
+                  "coords": [
+                        -46.546092,
+                        -23.660309
+                  ]
+            },
+            {
+                  "name": "Parque Central",
+                  "text": "Parque Central ist ein Theater in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.528875,
+                        -23.675699
+                  ]
+            },
+            {
+                  "name": "Concha Acústica de Santo André",
+                  "text": "Concha Acústica de Santo André ist ein Theater in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.526298,
+                        -23.657481
+                  ]
+            },
+            {
+                  "name": "Casa do Olhar Luiz Sacilotto",
+                  "text": "Visual Arts Center ist ein Kunstzentrum in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.525395,
+                        -23.657448
+                  ]
+            },
+            {
+                  "name": "Sabina Escola Parque do Conhecimento",
+                  "text": "Sabina Escola Parque do Conhecimento ist ein bedeutendes Kunstzentrum und Wissenschaftsmuseum in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.531295,
+                        -23.679141
+                  ]
+            },
+            {
+                  "name": "Parque Celso Daniel",
+                  "text": "Parque Celso Daniel ist eine beliebte städtische Sehenswürdigkeit in Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.535928,
+                        -23.647426
+                  ]
+            },
+            {
+                  "name": "Parque Escola",
+                  "text": "Parque Escola ist eine Sehenswürdigkeit in Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.551211,
+                        -23.664696
+                  ]
+            },
+            {
+                  "name": "Casa Amarela do Centro Universitário Fundação Santo André",
+                  "text": "Casa Amarela do Centro Universitário Fundação Santo André ist ein Herrenhaus in Santo André.",
+                  "category": "historical",
+                  "coords": [
+                        -46.553582,
+                        -23.660666
+                  ]
+            },
+            {
+                  "name": "Mansão Tognato",
+                  "text": "Mansão Tognato ist ein Herrenhaus in Santo André.",
+                  "category": "historical",
+                  "coords": [
+                        -46.538871,
+                        -23.644848
+                  ]
+            },
+            {
+                  "name": "J.E.P. Bombas",
+                  "text": "J.E.P. Bombas ist ein Aussichtspunkt in Santo André.",
+                  "category": "natural",
+                  "coords": [
+                        -46.521023,
+                        -23.647617
+                  ]
+            },
+            {
+                  "name": "Escola Livre de Cinema e Vídeo de Santo André",
+                  "text": "Escola Livre de Cinema e Vídeo de Santo André ist ein Kunstzentrum in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.530378,
+                        -23.630368
+                  ]
+            },
+            {
+                  "name": "Graxa Pura",
+                  "text": "Graxa Pura ist ein Kunstzentrum in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.530378,
+                        -23.64017
+                  ]
+            },
+            {
+                  "name": "Escola Nacional de Teatro",
+                  "text": "Escola Nacional de Teatro ist ein Kunstzentrum in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.520259,
+                        -23.665462
+                  ]
+            },
+            {
+                  "name": "Parque Antônio Pezzollo - Chácara Pignatari",
+                  "text": "Parque Antônio Pezzollo - Chácara Pignatari ist eine Sehenswürdigkeit in Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.530959,
+                        -23.629185
+                  ]
+            },
+            {
+                  "name": "Sociedade Cultural Ítalo-Brasileira de Santo André",
+                  "text": "Sociedade Cultural Ítalo-Brasileira de Santo André ist ein Kunstzentrum in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.53703,
+                        -23.668871
+                  ]
+            },
+            {
+                  "name": "Seicho-no-Ie Brasil",
+                  "text": "Seicho-no-Ie Brasil ist eine Kultstätte der gleichnamigen neuen religiösen Bewegung aus Japan in Santo André.",
+                  "category": "religious",
+                  "coords": [
+                        -46.517737,
+                        -23.666058
+                  ]
+            },
+            {
+                  "name": "SESC Santo André",
+                  "text": "SESC Santo André ist ein Sportzentrum in Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.547599,
+                        -23.653983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Municipal Maestro Flavio Florence",
+                  "text": "A Teatro Municipal Maestro Flavio Florence egy színház Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.532288,
+                        -23.656538
+                  ]
+            },
+            {
+                  "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
+                  "text": "A Museu de Santo André Doutor Octaviano Armando Gaiarsa egy nevezetes történelmi múzeum Santo André városában.",
+                  "category": "museum",
+                  "coords": [
+                        -46.523965,
+                        -23.662751
+                  ]
+            },
+            {
+                  "name": "Palco da Sede da Banda Lira",
+                  "text": "A Palco da Sede da Banda Lira egy színház Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.521562,
+                        -23.668211
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Professor Doutor Milton Borrelli",
+                  "text": "Az Anfiteatro Professor Doutor Milton Borrelli egy színház Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.555108,
+                        -23.661151
+                  ]
+            },
+            {
+                  "name": "Museu Militar dos Expedicionários do ABCDMRR",
+                  "text": "A Museu Militar dos Expedicionários do ABCDMRR egy múzeum Santo André városában.",
+                  "category": "museum",
+                  "coords": [
+                        -46.546092,
+                        -23.660309
+                  ]
+            },
+            {
+                  "name": "Parque Central",
+                  "text": "A Parque Central egy színház Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.528875,
+                        -23.675699
+                  ]
+            },
+            {
+                  "name": "Concha Acústica de Santo André",
+                  "text": "A Concha Acústica de Santo André egy színház Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.526298,
+                        -23.657481
+                  ]
+            },
+            {
+                  "name": "Casa do Olhar Luiz Sacilotto",
+                  "text": "A Visual Arts Center egy művészeti központ Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.525395,
+                        -23.657448
+                  ]
+            },
+            {
+                  "name": "Sabina Escola Parque do Conhecimento",
+                  "text": "A Sabina Escola Parque do Conhecimento egy nevezetes művészeti központ és tudományos múzeum Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.531295,
+                        -23.679141
+                  ]
+            },
+            {
+                  "name": "Parque Celso Daniel",
+                  "text": "A Parque Celso Daniel egy népszerű városi látványosság Santo André városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.535928,
+                        -23.647426
+                  ]
+            },
+            {
+                  "name": "Parque Escola",
+                  "text": "A Parque Escola egy látványosság Santo André városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.551211,
+                        -23.664696
+                  ]
+            },
+            {
+                  "name": "Casa Amarela do Centro Universitário Fundação Santo André",
+                  "text": "A Casa Amarela do Centro Universitário Fundação Santo André egy udvarház Santo André városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.553582,
+                        -23.660666
+                  ]
+            },
+            {
+                  "name": "Mansão Tognato",
+                  "text": "A Mansão Tognato egy udvarház Santo André városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.538871,
+                        -23.644848
+                  ]
+            },
+            {
+                  "name": "J.E.P. Bombas",
+                  "text": "A J.E.P. Bombas egy kilátó Santo André városában.",
+                  "category": "natural",
+                  "coords": [
+                        -46.521023,
+                        -23.647617
+                  ]
+            },
+            {
+                  "name": "Escola Livre de Cinema e Vídeo de Santo André",
+                  "text": "Az Escola Livre de Cinema e Vídeo de Santo André egy művészeti központ Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.530378,
+                        -23.630368
+                  ]
+            },
+            {
+                  "name": "Graxa Pura",
+                  "text": "A Graxa Pura egy művészeti központ Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.530378,
+                        -23.64017
+                  ]
+            },
+            {
+                  "name": "Escola Nacional de Teatro",
+                  "text": "Az Escola Nacional de Teatro egy művészeti központ Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.520259,
+                        -23.665462
+                  ]
+            },
+            {
+                  "name": "Parque Antônio Pezzollo - Chácara Pignatari",
+                  "text": "A Parque Antônio Pezzollo - Chácara Pignatari egy látványosság Santo André városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.530959,
+                        -23.629185
+                  ]
+            },
+            {
+                  "name": "Sociedade Cultural Ítalo-Brasileira de Santo André",
+                  "text": "A Sociedade Cultural Ítalo-Brasileira de Santo André egy művészeti központ Santo André városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.53703,
+                        -23.668871
+                  ]
+            },
+            {
+                  "name": "Seicho-no-Ie Brasil",
+                  "text": "A Seicho-no-Ie Brasil az azonos nevű japán újvallási mozgalom istentiszteleti helye Santo André városában.",
+                  "category": "religious",
+                  "coords": [
+                        -46.517737,
+                        -23.666058
+                  ]
+            },
+            {
+                  "name": "SESC Santo André",
+                  "text": "A SESC Santo André egy sportközpont Santo André városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.547599,
+                        -23.653983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Municipal Maestro Flavio Florence",
+                  "text": "Teatro Municipal Maestro Flavio Florence este un teatru în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.532288,
+                        -23.656538
+                  ]
+            },
+            {
+                  "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
+                  "text": "Museu de Santo André Doutor Octaviano Armando Gaiarsa este un muzeu de istorie notabil în Santo André.",
+                  "category": "museum",
+                  "coords": [
+                        -46.523965,
+                        -23.662751
+                  ]
+            },
+            {
+                  "name": "Palco da Sede da Banda Lira",
+                  "text": "Palco da Sede da Banda Lira este un teatru în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.521562,
+                        -23.668211
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Professor Doutor Milton Borrelli",
+                  "text": "Anfiteatro Professor Doutor Milton Borrelli este un teatru în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.555108,
+                        -23.661151
+                  ]
+            },
+            {
+                  "name": "Museu Militar dos Expedicionários do ABCDMRR",
+                  "text": "Museu Militar dos Expedicionários do ABCDMRR este un muzeu în Santo André.",
+                  "category": "museum",
+                  "coords": [
+                        -46.546092,
+                        -23.660309
+                  ]
+            },
+            {
+                  "name": "Parque Central",
+                  "text": "Parque Central este un teatru în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.528875,
+                        -23.675699
+                  ]
+            },
+            {
+                  "name": "Concha Acústica de Santo André",
+                  "text": "Concha Acústica de Santo André este un teatru în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.526298,
+                        -23.657481
+                  ]
+            },
+            {
+                  "name": "Casa do Olhar Luiz Sacilotto",
+                  "text": "Visual Arts Center este un centru de arte în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.525395,
+                        -23.657448
+                  ]
+            },
+            {
+                  "name": "Sabina Escola Parque do Conhecimento",
+                  "text": "Sabina Escola Parque do Conhecimento este un centru de arte și muzeu de știință notabil în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.531295,
+                        -23.679141
+                  ]
+            },
+            {
+                  "name": "Parque Celso Daniel",
+                  "text": "Parque Celso Daniel este o atracție urbană populară în Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.535928,
+                        -23.647426
+                  ]
+            },
+            {
+                  "name": "Parque Escola",
+                  "text": "Parque Escola este o atracție în Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.551211,
+                        -23.664696
+                  ]
+            },
+            {
+                  "name": "Casa Amarela do Centro Universitário Fundação Santo André",
+                  "text": "Casa Amarela do Centro Universitário Fundação Santo André este un conac în Santo André.",
+                  "category": "historical",
+                  "coords": [
+                        -46.553582,
+                        -23.660666
+                  ]
+            },
+            {
+                  "name": "Mansão Tognato",
+                  "text": "Mansão Tognato este un conac în Santo André.",
+                  "category": "historical",
+                  "coords": [
+                        -46.538871,
+                        -23.644848
+                  ]
+            },
+            {
+                  "name": "J.E.P. Bombas",
+                  "text": "J.E.P. Bombas este un punct de belvedere în Santo André.",
+                  "category": "natural",
+                  "coords": [
+                        -46.521023,
+                        -23.647617
+                  ]
+            },
+            {
+                  "name": "Escola Livre de Cinema e Vídeo de Santo André",
+                  "text": "Escola Livre de Cinema e Vídeo de Santo André este un centru de arte în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.530378,
+                        -23.630368
+                  ]
+            },
+            {
+                  "name": "Graxa Pura",
+                  "text": "Graxa Pura este un centru de arte în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.530378,
+                        -23.64017
+                  ]
+            },
+            {
+                  "name": "Escola Nacional de Teatro",
+                  "text": "Escola Nacional de Teatro este un centru de arte în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.520259,
+                        -23.665462
+                  ]
+            },
+            {
+                  "name": "Parque Antônio Pezzollo - Chácara Pignatari",
+                  "text": "Parque Antônio Pezzollo - Chácara Pignatari este o atracție în Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.530959,
+                        -23.629185
+                  ]
+            },
+            {
+                  "name": "Sociedade Cultural Ítalo-Brasileira de Santo André",
+                  "text": "Sociedade Cultural Ítalo-Brasileira de Santo André este un centru de arte în Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.53703,
+                        -23.668871
+                  ]
+            },
+            {
+                  "name": "Seicho-no-Ie Brasil",
+                  "text": "Seicho-no-Ie Brasil este un lăcaș de cult al noii mișcări religioase japoneze cu același nume din Santo André.",
+                  "category": "religious",
+                  "coords": [
+                        -46.517737,
+                        -23.666058
+                  ]
+            },
+            {
+                  "name": "SESC Santo André",
+                  "text": "SESC Santo André este un centru sportiv din Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.547599,
+                        -23.653983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Municipal Maestro Flavio Florence",
+                  "text": "Teatro Municipal Maestro Flavio Florence is a theatre located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.532288,
+                        -23.656538
+                  ]
+            },
+            {
+                  "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
+                  "text": "Museu de Santo André Doutor Octaviano Armando Gaiarsa is a notable history museum located in Santo André.",
+                  "category": "museum",
+                  "coords": [
+                        -46.523965,
+                        -23.662751
+                  ]
+            },
+            {
+                  "name": "Palco da Sede da Banda Lira",
+                  "text": "Palco da Sede da Banda Lira is a theatre located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.521562,
+                        -23.668211
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Professor Doutor Milton Borrelli",
+                  "text": "Anfiteatro Professor Doutor Milton Borrelli is a theatre located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.555108,
+                        -23.661151
+                  ]
+            },
+            {
+                  "name": "Museu Militar dos Expedicionários do ABCDMRR",
+                  "text": "Museu Militar dos Expedicionários do ABCDMRR is a museum located in Santo André.",
+                  "category": "museum",
+                  "coords": [
+                        -46.546092,
+                        -23.660309
+                  ]
+            },
+            {
+                  "name": "Parque Central",
+                  "text": "Parque Central is a theatre located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.528875,
+                        -23.675699
+                  ]
+            },
+            {
+                  "name": "Concha Acústica de Santo André",
+                  "text": "Concha Acústica de Santo André is a theatre located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.526298,
+                        -23.657481
+                  ]
+            },
+            {
+                  "name": "Visual Arts Center",
+                  "text": "Visual Arts Center is an arts centre located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.525395,
+                        -23.657448
+                  ]
+            },
+            {
+                  "name": "Sabina Escola Parque do Conhecimento",
+                  "text": "Sabina Escola Parque do Conhecimento is a notable arts centre and science museum located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.531295,
+                        -23.679141
+                  ]
+            },
+            {
+                  "name": "Parque Celso Daniel",
+                  "text": "Parque Celso Daniel is a popular urban attraction located in Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.535928,
+                        -23.647426
+                  ]
+            },
+            {
+                  "name": "Parque Escola",
+                  "text": "Parque Escola is an attraction located in Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.551211,
+                        -23.664696
+                  ]
+            },
+            {
+                  "name": "Casa Amarela do Centro Universitário Fundação Santo André",
+                  "text": "Casa Amarela do Centro Universitário Fundação Santo André is a manor located in Santo André.",
+                  "category": "historical",
+                  "coords": [
+                        -46.553582,
+                        -23.660666
+                  ]
+            },
+            {
+                  "name": "Mansão Tognato",
+                  "text": "Mansão Tognato is a manor located in Santo André.",
+                  "category": "historical",
+                  "coords": [
+                        -46.538871,
+                        -23.644848
+                  ]
+            },
+            {
+                  "name": "J.E.P. Bombas",
+                  "text": "J.E.P. Bombas is a viewpoint located in Santo André.",
+                  "category": "natural",
+                  "coords": [
+                        -46.521023,
+                        -23.647617
+                  ]
+            },
+            {
+                  "name": "Escola Livre de Cinema e Vídeo de Santo André",
+                  "text": "Escola Livre de Cinema e Vídeo de Santo André is an arts centre located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.530378,
+                        -23.630368
+                  ]
+            },
+            {
+                  "name": "Graxa Pura",
+                  "text": "Graxa Pura is an arts centre located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.530378,
+                        -23.64017
+                  ]
+            },
+            {
+                  "name": "Escola Nacional de Teatro",
+                  "text": "Escola Nacional de Teatro is an arts centre located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.520259,
+                        -23.665462
+                  ]
+            },
+            {
+                  "name": "Parque Antônio Pezzollo - Chácara Pignatari",
+                  "text": "Parque Antônio Pezzollo - Chácara Pignatari is an attraction located in Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.530959,
+                        -23.629185
+                  ]
+            },
+            {
+                  "name": "Sociedade Cultural Ítalo-Brasileira de Santo André",
+                  "text": "Sociedade Cultural Ítalo-Brasileira de Santo André is an arts centre located in Santo André.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.53703,
+                        -23.668871
+                  ]
+            },
+            {
+                  "name": "Seicho-no-Ie Brasil",
+                  "text": "Seicho-no-Ie Brasil is a place of worship for the Japanese new religious movement of the same name in Santo André.",
+                  "category": "religious",
+                  "coords": [
+                        -46.517737,
+                        -23.666058
+                  ]
+            },
+            {
+                  "name": "SESC Santo André",
+                  "text": "SESC Santo André is a sports centre located in Santo André.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.547599,
+                        -23.653983
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-SP",
     coords: [-46.5383, -23.6553],
@@ -779,7 +2993,412 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Une ville industrielle importante dans la zone métropolitaine de São Paulo, faisant partie de la région ABC.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/santo-andre-cities-v2.webp"},
   {
-    id: "ribeirao-preto-cities-v2",
+    id: "ribeirao-preto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theatro Pedro II",
+                  "text": "Das Theatro Pedro II ist ein historisches Opernhaus und Theater in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.80984,
+                        -21.174335
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Ribeirão Preto",
+                  "text": "Das Teatro Municipal de Ribeirão Preto ist das städtische Haupttheater von Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.799282,
+                        -21.17209
+                  ]
+            },
+            {
+                  "name": "Teatro de Arena Doutor Jaime Zeiger",
+                  "text": "Das Teatro de Arena Doutor Jaime Zeiger ist ein Freilufttheater in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.799102,
+                        -21.17307
+                  ]
+            },
+            {
+                  "name": "Teatro Auxiliadora",
+                  "text": "Das Teatro Auxiliadora ist ein überdachter Theaterraum in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.805531,
+                        -21.175989
+                  ]
+            },
+            {
+                  "name": "Teatro Minaz",
+                  "text": "Das Teatro Minaz ist ein lokales Theater in Ribeirão Preto, das verschiedene Aufführungen veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.79868,
+                        -21.180222
+                  ]
+            },
+            {
+                  "name": "MARP",
+                  "text": "MARP ist ein anerkanntes Kunstmuseum in Ribeirão Preto.",
+                  "category": "museum",
+                  "coords": [
+                        -47.806812,
+                        -21.176179
+                  ]
+            },
+            {
+                  "name": "museu da segunda guerra mundial",
+                  "text": "Das Museum des Zweiten Weltkriegs ist eine historische Einrichtung in Ribeirão Preto.",
+                  "category": "museum",
+                  "coords": [
+                        -47.803071,
+                        -21.173211
+                  ]
+            },
+            {
+                  "name": "Grande abre",
+                  "text": "Grande abre ist eine lokale Touristenattraktion in Ribeirão Preto.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.813015,
+                        -21.17163
+                  ]
+            },
+            {
+                  "name": "Obelisco ao Centenário da Independência",
+                  "text": "Der Obelisk zur Hundertjahrfeier der Unabhängigkeit ist ein markantes Denkmal in Ribeirão Preto.",
+                  "category": "historical",
+                  "coords": [
+                        -47.807147,
+                        -21.188104
+                  ]
+            },
+            {
+                  "name": "CINE BELAS ARTES",
+                  "text": "Das CINE BELAS ARTES fungiert als Kunstzentrum und Kino in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.819684,
+                        -21.171269
+                  ]
+            },
+            {
+                  "name": "Cerâmica São Luiz",
+                  "text": "Cerâmica São Luiz ist ein anerkanntes Kunst- und Keramikzentrum in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.816271,
+                        -21.165139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theatro Pedro II",
+                  "text": "A Theatro Pedro II egy történelmi operaház és színház Ribeirão Pretóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.80984,
+                        -21.174335
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Ribeirão Preto",
+                  "text": "A Teatro Municipal de Ribeirão Preto a város fő színháza Ribeirão Pretóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.799282,
+                        -21.17209
+                  ]
+            },
+            {
+                  "name": "Teatro de Arena Doutor Jaime Zeiger",
+                  "text": "A Teatro de Arena Doutor Jaime Zeiger egy szabadtéri arénaszínház Ribeirão Pretóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.799102,
+                        -21.17307
+                  ]
+            },
+            {
+                  "name": "Teatro Auxiliadora",
+                  "text": "A Teatro Auxiliadora egy beltéri színház Ribeirão Pretóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.805531,
+                        -21.175989
+                  ]
+            },
+            {
+                  "name": "Teatro Minaz",
+                  "text": "A Teatro Minaz egy helyi színház Ribeirão Pretóban, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.79868,
+                        -21.180222
+                  ]
+            },
+            {
+                  "name": "MARP",
+                  "text": "A MARP egy elismert művészeti múzeum Ribeirão Pretóban.",
+                  "category": "museum",
+                  "coords": [
+                        -47.806812,
+                        -21.176179
+                  ]
+            },
+            {
+                  "name": "museu da segunda guerra mundial",
+                  "text": "A második világháborús múzeum egy történelmi intézmény Ribeirão Pretóban.",
+                  "category": "museum",
+                  "coords": [
+                        -47.803071,
+                        -21.173211
+                  ]
+            },
+            {
+                  "name": "Grande abre",
+                  "text": "A Grande abre egy helyi turisztikai látványosság Ribeirão Pretóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.813015,
+                        -21.17163
+                  ]
+            },
+            {
+                  "name": "Obelisco ao Centenário da Independência",
+                  "text": "A Függetlenség Centenáriumának Obeliszkje egy kiemelkedő emlékmű Ribeirão Pretóban.",
+                  "category": "historical",
+                  "coords": [
+                        -47.807147,
+                        -21.188104
+                  ]
+            },
+            {
+                  "name": "CINE BELAS ARTES",
+                  "text": "A CINE BELAS ARTES művészeti központként és moziként működik Ribeirão Pretóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.819684,
+                        -21.171269
+                  ]
+            },
+            {
+                  "name": "Cerâmica São Luiz",
+                  "text": "A Cerâmica São Luiz egy elismert művészeti és kerámiaközpont Ribeirão Pretóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.816271,
+                        -21.165139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theatro Pedro II",
+                  "text": "Theatro Pedro II este o casă istorică de operă și un teatru în Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.80984,
+                        -21.174335
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Ribeirão Preto",
+                  "text": "Teatro Municipal de Ribeirão Preto este teatrul municipal principal din Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.799282,
+                        -21.17209
+                  ]
+            },
+            {
+                  "name": "Teatro de Arena Doutor Jaime Zeiger",
+                  "text": "Teatro de Arena Doutor Jaime Zeiger este un teatru de tip arenă în aer liber din Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.799102,
+                        -21.17307
+                  ]
+            },
+            {
+                  "name": "Teatro Auxiliadora",
+                  "text": "Teatro Auxiliadora este un spațiu teatral acoperit situat în Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.805531,
+                        -21.175989
+                  ]
+            },
+            {
+                  "name": "Teatro Minaz",
+                  "text": "Teatro Minaz este un teatru local care găzduiește diverse spectacole în Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.79868,
+                        -21.180222
+                  ]
+            },
+            {
+                  "name": "MARP",
+                  "text": "MARP este un muzeu de artă recunoscut situat în Ribeirão Preto.",
+                  "category": "museum",
+                  "coords": [
+                        -47.806812,
+                        -21.176179
+                  ]
+            },
+            {
+                  "name": "museu da segunda guerra mundial",
+                  "text": "Muzeul celui de-Al Doilea Război Mondial este o instituție istorică situată în Ribeirão Preto.",
+                  "category": "museum",
+                  "coords": [
+                        -47.803071,
+                        -21.173211
+                  ]
+            },
+            {
+                  "name": "Grande abre",
+                  "text": "Grande abre este o atracție turistică locală din Ribeirão Preto.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.813015,
+                        -21.17163
+                  ]
+            },
+            {
+                  "name": "Obelisco ao Centenário da Independência",
+                  "text": "Obeliscul Centenarului Independenței este un monument proeminent în Ribeirão Preto.",
+                  "category": "historical",
+                  "coords": [
+                        -47.807147,
+                        -21.188104
+                  ]
+            },
+            {
+                  "name": "CINE BELAS ARTES",
+                  "text": "CINE BELAS ARTES funcționează ca centru de arte și cinematograf în Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.819684,
+                        -21.171269
+                  ]
+            },
+            {
+                  "name": "Cerâmica São Luiz",
+                  "text": "Cerâmica São Luiz este un recunoscut centru de arte și ceramică situat în Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.816271,
+                        -21.165139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatro Pedro II",
+                  "text": "Theatro Pedro II is a historic opera house and theatre in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.80984,
+                        -21.174335
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Ribeirão Preto",
+                  "text": "Teatro Municipal de Ribeirão Preto is the main municipal theatre of Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.799282,
+                        -21.17209
+                  ]
+            },
+            {
+                  "name": "Teatro de Arena Doutor Jaime Zeiger",
+                  "text": "Teatro de Arena Doutor Jaime Zeiger is an open-air arena theatre in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.799102,
+                        -21.17307
+                  ]
+            },
+            {
+                  "name": "Teatro Auxiliadora",
+                  "text": "Teatro Auxiliadora is an indoor theatre space situated in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.805531,
+                        -21.175989
+                  ]
+            },
+            {
+                  "name": "Teatro Minaz",
+                  "text": "Teatro Minaz is a local theatre hosting various performances in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.79868,
+                        -21.180222
+                  ]
+            },
+            {
+                  "name": "MARP",
+                  "text": "MARP is a recognized art museum situated in Ribeirão Preto.",
+                  "category": "museum",
+                  "coords": [
+                        -47.806812,
+                        -21.176179
+                  ]
+            },
+            {
+                  "name": "museu da segunda guerra mundial",
+                  "text": "The World War II museum is a historical institution situated in Ribeirão Preto.",
+                  "category": "museum",
+                  "coords": [
+                        -47.803071,
+                        -21.173211
+                  ]
+            },
+            {
+                  "name": "Grande abre",
+                  "text": "Grande abre is a local tourist attraction found in Ribeirão Preto.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.813015,
+                        -21.17163
+                  ]
+            },
+            {
+                  "name": "Obelisco ao Centenário da Independência",
+                  "text": "The Obelisk to the Centenary of Independence is a prominent monument in Ribeirão Preto.",
+                  "category": "historical",
+                  "coords": [
+                        -47.807147,
+                        -21.188104
+                  ]
+            },
+            {
+                  "name": "CINE BELAS ARTES",
+                  "text": "CINE BELAS ARTES operates as an arts centre and cinema in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.819684,
+                        -21.171269
+                  ]
+            },
+            {
+                  "name": "Cerâmica São Luiz",
+                  "text": "Cerâmica São Luiz is a recognized arts and ceramics centre located in Ribeirão Preto.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.816271,
+                        -21.165139
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-SP",
     coords: [-47.8103, -21.1704],
@@ -814,7 +3433,196 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Un centre prospère d'agriculture et de commerce à l'intérieur de l'État de São Paulo, historiquement enrichi par le café.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ribeirao-preto-cities-v2.webp"},
   {
-    id: "jaboatao-dos-guararapes-cities-v2",
+    id: "jaboatao-dos-guararapes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Ecológica de Manassu",
+                  "text": "Die Reserva Ecológica de Manassu in Jaboatão dos Guararapes ist ein Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -35.01908,
+                        -8.07678
+                  ]
+            },
+            {
+                  "name": "Instituto Istórico",
+                  "text": "Das historische Institut in Jaboatão dos Guararapes ist ein Museum für lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -35.014949,
+                        -8.112673
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Samuel Campelo",
+                  "text": "Das Cine Teatro Samuel Campelo ist ein kultureller Veranstaltungsort in Jaboatão dos Guararapes.",
+                  "category": "cultural",
+                  "coords": [
+                        -35.018344,
+                        -8.112114
+                  ]
+            },
+            {
+                  "name": "Santa",
+                  "text": "Die Santa-Statue ist ein Denkmal in Jaboatão dos Guararapes.",
+                  "category": "historical",
+                  "coords": [
+                        -34.992568,
+                        -8.104471
+                  ]
+            },
+            {
+                  "name": "Ruínas da Antiga estação de trem de Jaboatão",
+                  "text": "Die Ruinen der alten Bahnstation in Jaboatão sind ein historischer Ort.",
+                  "category": "historical",
+                  "coords": [
+                        -35.014907,
+                        -8.111335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Ecológica de Manassu",
+                  "text": "A Jaboatão dos Guararapes-i Reserva Ecológica de Manassu egy természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -35.01908,
+                        -8.07678
+                  ]
+            },
+            {
+                  "name": "Instituto Istórico",
+                  "text": "A Jaboatão dos Guararapes-i Történeti Intézet egy helytörténeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -35.014949,
+                        -8.112673
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Samuel Campelo",
+                  "text": "A Cine Teatro Samuel Campelo egy kulturális helyszín Jaboatão dos Guararapesban.",
+                  "category": "cultural",
+                  "coords": [
+                        -35.018344,
+                        -8.112114
+                  ]
+            },
+            {
+                  "name": "Santa",
+                  "text": "A Santa-szobor egy emlékmű Jaboatão dos Guararapesban.",
+                  "category": "historical",
+                  "coords": [
+                        -34.992568,
+                        -8.104471
+                  ]
+            },
+            {
+                  "name": "Ruínas da Antiga estação de trem de Jaboatão",
+                  "text": "A Jaboatão-i régi vasútállomás romjai egy történelmi helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        -35.014907,
+                        -8.111335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Ecológica de Manassu",
+                  "text": "Reserva Ecológica de Manassu din Jaboatão dos Guararapes este o rezervație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -35.01908,
+                        -8.07678
+                  ]
+            },
+            {
+                  "name": "Instituto Istórico",
+                  "text": "Institutul istoric din Jaboatão dos Guararapes este un muzeu de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        -35.014949,
+                        -8.112673
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Samuel Campelo",
+                  "text": "Cine Teatro Samuel Campelo este un spațiu cultural din Jaboatão dos Guararapes.",
+                  "category": "cultural",
+                  "coords": [
+                        -35.018344,
+                        -8.112114
+                  ]
+            },
+            {
+                  "name": "Santa",
+                  "text": "Statuia Santa este un monument din Jaboatão dos Guararapes.",
+                  "category": "historical",
+                  "coords": [
+                        -34.992568,
+                        -8.104471
+                  ]
+            },
+            {
+                  "name": "Ruínas da Antiga estação de trem de Jaboatão",
+                  "text": "Ruinele vechii gări din Jaboatão sunt un sit istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -35.014907,
+                        -8.111335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Ecológica de Manassu",
+                  "text": "The Reserva Ecológica de Manassu in Jaboatão dos Guararapes is a nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -35.01908,
+                        -8.07678
+                  ]
+            },
+            {
+                  "name": "Instituto Istórico",
+                  "text": "The historical institute in Jaboatão dos Guararapes is a local history museum.",
+                  "category": "museum",
+                  "coords": [
+                        -35.014949,
+                        -8.112673
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Samuel Campelo",
+                  "text": "The Cine Teatro Samuel Campelo is a cultural venue in Jaboatão dos Guararapes.",
+                  "category": "cultural",
+                  "coords": [
+                        -35.018344,
+                        -8.112114
+                  ]
+            },
+            {
+                  "name": "Santa",
+                  "text": "The Santa statue is a monument in Jaboatão dos Guararapes.",
+                  "category": "historical",
+                  "coords": [
+                        -34.992568,
+                        -8.104471
+                  ]
+            },
+            {
+                  "name": "Ruínas da Antiga estação de trem de Jaboatão",
+                  "text": "The ruins of the old railway station in Jaboatão are a historic site.",
+                  "category": "historical",
+                  "coords": [
+                        -35.014907,
+                        -8.111335
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-PE",
     coords: [-35.0153, -8.1128],
@@ -849,7 +3657,412 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["La deuxième plus grande ville du Pernambouc, profondément liée à l'histoire coloniale précoce et aux célèbres batailles contre les Hollandais.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/jaboatao-dos-guararapes-cities-v2.webp"},
   {
-    id: "osasco-cities-v2",
+    id: "osasco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Minha casa",
+                  "text": "Minha casa ist eine Burg in Osasco.",
+                  "category": "castle",
+                  "coords": [
+                        -46.785008,
+                        -23.513093
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Gloria Giglio",
+                  "text": "Teatro Municipal Gloria Giglio ist ein Theater in Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.768936,
+                        -23.540944
+                  ]
+            },
+            {
+                  "name": "Marco Monumental",
+                  "text": "Marco Monumental ist ein Denkmal in Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.770813,
+                        -23.520545
+                  ]
+            },
+            {
+                  "name": "Totem Inauguração Praça Ivano Ferrari",
+                  "text": "Totem Inauguração Praça Ivano Ferrari ist ein Denkmal in Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.778653,
+                        -23.542121
+                  ]
+            },
+            {
+                  "name": "Arco de Santo Antônio",
+                  "text": "Arco de Santo Antônio ist ein Denkmal in Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.781309,
+                        -23.537354
+                  ]
+            },
+            {
+                  "name": "Conservatório Villa Lobos",
+                  "text": "Conservatório Villa Lobos ist ein Kunstzentrum in Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.791804,
+                        -23.538132
+                  ]
+            },
+            {
+                  "name": "Bombeiro",
+                  "text": "Bombeiro ist ein Denkmal in Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.788345,
+                        -23.53905
+                  ]
+            },
+            {
+                  "name": "Arco de Osasco",
+                  "text": "Arco de Osasco ist ein Denkmal in Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.772635,
+                        -23.539812
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural Grande Otelo",
+                  "text": "Espaço Cultural Grande Otelo ist ein Kunstzentrum in Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.772887,
+                        -23.54277
+                  ]
+            },
+            {
+                  "name": "Oficina de Saberes",
+                  "text": "Oficina de Saberes ist ein Kunstzentrum in Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.785509,
+                        -23.544505
+                  ]
+            },
+            {
+                  "name": "Mercado Central  de Osasco Walter Edson de Abreu",
+                  "text": "Mercado Central de Osasco Walter Edson de Abreu ist ein städtischer Marktplatz in Osasco.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.778927,
+                        -23.527662
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Minha casa",
+                  "text": "A Minha casa egy kastély Osasco városában.",
+                  "category": "castle",
+                  "coords": [
+                        -46.785008,
+                        -23.513093
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Gloria Giglio",
+                  "text": "A Teatro Municipal Gloria Giglio egy színház Osasco városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.768936,
+                        -23.540944
+                  ]
+            },
+            {
+                  "name": "Marco Monumental",
+                  "text": "A Marco Monumental egy emlékmű Osasco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.770813,
+                        -23.520545
+                  ]
+            },
+            {
+                  "name": "Totem Inauguração Praça Ivano Ferrari",
+                  "text": "A Totem Inauguração Praça Ivano Ferrari egy emlékmű Osasco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.778653,
+                        -23.542121
+                  ]
+            },
+            {
+                  "name": "Arco de Santo Antônio",
+                  "text": "Az Arco de Santo Antônio egy emlékmű Osasco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.781309,
+                        -23.537354
+                  ]
+            },
+            {
+                  "name": "Conservatório Villa Lobos",
+                  "text": "A Conservatório Villa Lobos egy művészeti központ Osasco városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.791804,
+                        -23.538132
+                  ]
+            },
+            {
+                  "name": "Bombeiro",
+                  "text": "A Bombeiro egy emlékmű Osasco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.788345,
+                        -23.53905
+                  ]
+            },
+            {
+                  "name": "Arco de Osasco",
+                  "text": "Az Arco de Osasco egy emlékmű Osasco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.772635,
+                        -23.539812
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural Grande Otelo",
+                  "text": "Az Espaço Cultural Grande Otelo egy művészeti központ Osasco városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.772887,
+                        -23.54277
+                  ]
+            },
+            {
+                  "name": "Oficina de Saberes",
+                  "text": "Az Oficina de Saberes egy művészeti központ Osasco városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.785509,
+                        -23.544505
+                  ]
+            },
+            {
+                  "name": "Mercado Central  de Osasco Walter Edson de Abreu",
+                  "text": "A Mercado Central de Osasco Walter Edson de Abreu egy városi piac Osasco városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.778927,
+                        -23.527662
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Minha casa",
+                  "text": "Minha casa este un castel situat în Osasco.",
+                  "category": "castle",
+                  "coords": [
+                        -46.785008,
+                        -23.513093
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Gloria Giglio",
+                  "text": "Teatro Municipal Gloria Giglio este un teatru situat în Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.768936,
+                        -23.540944
+                  ]
+            },
+            {
+                  "name": "Marco Monumental",
+                  "text": "Marco Monumental este un monument situat în Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.770813,
+                        -23.520545
+                  ]
+            },
+            {
+                  "name": "Totem Inauguração Praça Ivano Ferrari",
+                  "text": "Totem Inauguração Praça Ivano Ferrari este un monument situat în Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.778653,
+                        -23.542121
+                  ]
+            },
+            {
+                  "name": "Arco de Santo Antônio",
+                  "text": "Arco de Santo Antônio este un monument situat în Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.781309,
+                        -23.537354
+                  ]
+            },
+            {
+                  "name": "Conservatório Villa Lobos",
+                  "text": "Conservatório Villa Lobos este un centru de arte situat în Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.791804,
+                        -23.538132
+                  ]
+            },
+            {
+                  "name": "Bombeiro",
+                  "text": "Bombeiro este un monument situat în Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.788345,
+                        -23.53905
+                  ]
+            },
+            {
+                  "name": "Arco de Osasco",
+                  "text": "Arco de Osasco este un monument situat în Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.772635,
+                        -23.539812
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural Grande Otelo",
+                  "text": "Espaço Cultural Grande Otelo este un centru de arte situat în Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.772887,
+                        -23.54277
+                  ]
+            },
+            {
+                  "name": "Oficina de Saberes",
+                  "text": "Oficina de Saberes este un centru de arte situat în Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.785509,
+                        -23.544505
+                  ]
+            },
+            {
+                  "name": "Mercado Central  de Osasco Walter Edson de Abreu",
+                  "text": "Mercado Central de Osasco Walter Edson de Abreu este o piață municipală situată în Osasco.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.778927,
+                        -23.527662
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Minha casa",
+                  "text": "Minha casa is a castle located in Osasco.",
+                  "category": "castle",
+                  "coords": [
+                        -46.785008,
+                        -23.513093
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Gloria Giglio",
+                  "text": "Teatro Municipal Gloria Giglio is a theatre located in Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.768936,
+                        -23.540944
+                  ]
+            },
+            {
+                  "name": "Marco Monumental",
+                  "text": "Marco Monumental is a monument located in Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.770813,
+                        -23.520545
+                  ]
+            },
+            {
+                  "name": "Totem Inauguração Praça Ivano Ferrari",
+                  "text": "Totem Inauguração Praça Ivano Ferrari is a monument located in Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.778653,
+                        -23.542121
+                  ]
+            },
+            {
+                  "name": "Arco de Santo Antônio",
+                  "text": "Arco de Santo Antônio is a monument located in Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.781309,
+                        -23.537354
+                  ]
+            },
+            {
+                  "name": "Conservatório Villa Lobos",
+                  "text": "Conservatório Villa Lobos is an arts centre located in Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.791804,
+                        -23.538132
+                  ]
+            },
+            {
+                  "name": "Bombeiro",
+                  "text": "Bombeiro is a monument located in Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.788345,
+                        -23.53905
+                  ]
+            },
+            {
+                  "name": "Arco de Osasco",
+                  "text": "Arco de Osasco is a monument located in Osasco.",
+                  "category": "historical",
+                  "coords": [
+                        -46.772635,
+                        -23.539812
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural Grande Otelo",
+                  "text": "Espaço Cultural Grande Otelo is an arts centre located in Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.772887,
+                        -23.54277
+                  ]
+            },
+            {
+                  "name": "Oficina de Saberes",
+                  "text": "Oficina de Saberes is an arts centre located in Osasco.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.785509,
+                        -23.544505
+                  ]
+            },
+            {
+                  "name": "Mercado Central  de Osasco Walter Edson de Abreu",
+                  "text": "Mercado Central de Osasco Walter Edson de Abreu is a municipal marketplace located in Osasco.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.778927,
+                        -23.527662
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-SP",
     coords: [-46.7922, -23.5325],
@@ -884,7 +4097,592 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Une ville en plein essor économique située à côté de São Paulo, passée d'un centre industriel à une plaque tournante de services.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/osasco-cities-v2.webp"},
   {
-    id: "uberlandia-cities-v2",
+    id: "uberlandia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Municipal de Uberlândia",
+                  "text": "Das städtische Museum von Uberlândia bewahrt und stellt das historische Erbe der Stadt aus.",
+                  "category": "museum",
+                  "coords": [
+                        -48.281614,
+                        -18.923289
+                  ]
+            },
+            {
+                  "name": "Ágora Pública da Praça Olivia Calábria",
+                  "text": "Die Ágora Pública da Praça Olivia Calábria fungiert als Freilufttheater in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.290716,
+                        -18.928734
+                  ]
+            },
+            {
+                  "name": "Museu Dica - Laboratório de Projetos",
+                  "text": "Das Museu Dica - Laboratório de Projetos ist ein spezialisiertes Museum und Projektlabor in Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.254921,
+                        -18.918317
+                  ]
+            },
+            {
+                  "name": "Museu Mineral Da UFU",
+                  "text": "Das Mineralienmuseum der UFU zeigt eine umfangreiche Sammlung geologischer Proben in Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.26004,
+                        -18.919986
+                  ]
+            },
+            {
+                  "name": "Prainha do Praia Clube",
+                  "text": "Prainha do Praia Clube ist ein lokaler Strand in der Stadt Uberlândia.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.292675,
+                        -18.934173
+                  ]
+            },
+            {
+                  "name": "Teatro Público da Praça",
+                  "text": "Das Teatro Público da Praça ist ein Theater, das der Kulturszene von Uberlândia dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.284983,
+                        -18.923714
+                  ]
+            },
+            {
+                  "name": "Palco da Sérgio Pacheco",
+                  "text": "Palco da Sérgio Pacheco ist ein Veranstaltungsort für Theater in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.276334,
+                        -18.911898
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Uberlândia",
+                  "text": "Der Mercado Municipal de Uberlândia ist ein historischer öffentlicher Markt, der für seine regionalen Produkte bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.281884,
+                        -18.918361
+                  ]
+            },
+            {
+                  "name": "Memorial à Zumbi dos Palmares",
+                  "text": "Das Memorial à Zumbi dos Palmares ist ein öffentliches Denkmal in Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.279156,
+                        -18.923419
+                  ]
+            },
+            {
+                  "name": "Galeria Online de Artes - GOnA",
+                  "text": "Die Galeria Online de Artes - GOnA ist eine Galerie für bildende Kunst in Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.258505,
+                        -18.917789
+                  ]
+            },
+            {
+                  "name": "Monumento Nossa Senhora Do Carmo",
+                  "text": "Das Monumento Nossa Senhora Do Carmo ist ein Denkmal in Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.275458,
+                        -18.934239
+                  ]
+            },
+            {
+                  "name": "Conservatório",
+                  "text": "Das Conservatório ist ein Kunstzentrum in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.263669,
+                        -18.899746
+                  ]
+            },
+            {
+                  "name": "Trupe de Truões",
+                  "text": "Trupe de Truões ist ein Zentrum für darstellende Künste in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.25148,
+                        -18.919434
+                  ]
+            },
+            {
+                  "name": "Hospital Orthomed Center",
+                  "text": "Das Hospital Orthomed Center ist eine lokale Attraktion in Uberlândia.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.286967,
+                        -18.930679
+                  ]
+            },
+            {
+                  "name": "Prefeitura de Uberlândia",
+                  "text": "Die Prefeitura de Uberlândia ist das Rathaus und der Verwaltungssitz der Gemeinde Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.256326,
+                        -18.911984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista Do Sétimo Dia",
+                  "text": "Die Igreja Adventista Do Sétimo Dia ist ein lokales Gotteshaus in Uberlândia.",
+                  "category": "religious",
+                  "coords": [
+                        -48.279547,
+                        -18.915167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Municipal de Uberlândia",
+                  "text": "Az Uberlândia Városi Múzeum a város történelmi örökségét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -48.281614,
+                        -18.923289
+                  ]
+            },
+            {
+                  "name": "Ágora Pública da Praça Olivia Calábria",
+                  "text": "A Praça Olivia Calábria közösségi tere szabadtéri színházként működik Uberlândiában.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.290716,
+                        -18.928734
+                  ]
+            },
+            {
+                  "name": "Museu Dica - Laboratório de Projetos",
+                  "text": "A Museu Dica egy specializált múzeum és projektlaboratórium Uberlândiában.",
+                  "category": "museum",
+                  "coords": [
+                        -48.254921,
+                        -18.918317
+                  ]
+            },
+            {
+                  "name": "Museu Mineral Da UFU",
+                  "text": "Az UFU Ásványmúzeuma hatalmas geológiai gyűjteményt mutat be Uberlândiában.",
+                  "category": "museum",
+                  "coords": [
+                        -48.26004,
+                        -18.919986
+                  ]
+            },
+            {
+                  "name": "Prainha do Praia Clube",
+                  "text": "A Prainha do Praia Clube egy helyi strand Uberlândia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.292675,
+                        -18.934173
+                  ]
+            },
+            {
+                  "name": "Teatro Público da Praça",
+                  "text": "A Teatro Público da Praça egy színház, amely Uberlândia kulturális életét szolgálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.284983,
+                        -18.923714
+                  ]
+            },
+            {
+                  "name": "Palco da Sérgio Pacheco",
+                  "text": "A Palco da Sérgio Pacheco egy színházi játszóhely Uberlândia városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.276334,
+                        -18.911898
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Uberlândia",
+                  "text": "A Mercado Municipal de Uberlândia egy történelmi nyilvános piac, amely regionális termékeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.281884,
+                        -18.918361
+                  ]
+            },
+            {
+                  "name": "Memorial à Zumbi dos Palmares",
+                  "text": "A Memorial à Zumbi dos Palmares egy köztéri emlékmű Uberlândia városában.",
+                  "category": "historical",
+                  "coords": [
+                        -48.279156,
+                        -18.923419
+                  ]
+            },
+            {
+                  "name": "Galeria Online de Artes - GOnA",
+                  "text": "A Galeria Online de Artes - GOnA egy vizuális művészeteket bemutató galéria Uberlândia városában.",
+                  "category": "museum",
+                  "coords": [
+                        -48.258505,
+                        -18.917789
+                  ]
+            },
+            {
+                  "name": "Monumento Nossa Senhora Do Carmo",
+                  "text": "A Monumento Nossa Senhora Do Carmo egy emlékmű Uberlândia városában.",
+                  "category": "historical",
+                  "coords": [
+                        -48.275458,
+                        -18.934239
+                  ]
+            },
+            {
+                  "name": "Conservatório",
+                  "text": "A Conservatório egy művészeti központ Uberlândia városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.263669,
+                        -18.899746
+                  ]
+            },
+            {
+                  "name": "Trupe de Truões",
+                  "text": "A Trupe de Truões egy művészeti központ Uberlândia városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.25148,
+                        -18.919434
+                  ]
+            },
+            {
+                  "name": "Hospital Orthomed Center",
+                  "text": "A Hospital Orthomed Center egy helyi érdekeltségű pont Uberlândia városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.286967,
+                        -18.930679
+                  ]
+            },
+            {
+                  "name": "Prefeitura de Uberlândia",
+                  "text": "A Prefeitura de Uberlândia a város polgármesteri hivatala és közigazgatási központja.",
+                  "category": "historical",
+                  "coords": [
+                        -48.256326,
+                        -18.911984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista Do Sétimo Dia",
+                  "text": "Az Igreja Adventista Do Sétimo Dia egy helyi istentiszteleti hely Uberlândia városában.",
+                  "category": "religious",
+                  "coords": [
+                        -48.279547,
+                        -18.915167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Municipal de Uberlândia",
+                  "text": "Muzeul Municipal din Uberlândia păstrează și expune patrimoniul istoric al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -48.281614,
+                        -18.923289
+                  ]
+            },
+            {
+                  "name": "Ágora Pública da Praça Olivia Calábria",
+                  "text": "Ágora Pública da Praça Olivia Calábria funcționează ca un spațiu de teatru în aer liber în Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.290716,
+                        -18.928734
+                  ]
+            },
+            {
+                  "name": "Museu Dica - Laboratório de Projetos",
+                  "text": "Museu Dica - Laboratório de Projetos este un muzeu specializat și laborator de proiecte în Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.254921,
+                        -18.918317
+                  ]
+            },
+            {
+                  "name": "Museu Mineral Da UFU",
+                  "text": "Muzeul de Minerale al UFU expune o vastă colecție de specimene geologice în Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.26004,
+                        -18.919986
+                  ]
+            },
+            {
+                  "name": "Prainha do Praia Clube",
+                  "text": "Prainha do Praia Clube este o plajă locală situată în orașul Uberlândia.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.292675,
+                        -18.934173
+                  ]
+            },
+            {
+                  "name": "Teatro Público da Praça",
+                  "text": "Teatro Público da Praça este un teatru care deservește scena culturală din Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.284983,
+                        -18.923714
+                  ]
+            },
+            {
+                  "name": "Palco da Sérgio Pacheco",
+                  "text": "Palco da Sérgio Pacheco este un spațiu teatral situat în Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.276334,
+                        -18.911898
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Uberlândia",
+                  "text": "Mercado Municipal de Uberlândia este o piață publică istorică cunoscută pentru produsele sale regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.281884,
+                        -18.918361
+                  ]
+            },
+            {
+                  "name": "Memorial à Zumbi dos Palmares",
+                  "text": "Memorial à Zumbi dos Palmares este un monument public situat în Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.279156,
+                        -18.923419
+                  ]
+            },
+            {
+                  "name": "Galeria Online de Artes - GOnA",
+                  "text": "Galeria Online de Artes - GOnA este o galerie de arte vizuale situată în Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.258505,
+                        -18.917789
+                  ]
+            },
+            {
+                  "name": "Monumento Nossa Senhora Do Carmo",
+                  "text": "Monumento Nossa Senhora Do Carmo este un monument situat în Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.275458,
+                        -18.934239
+                  ]
+            },
+            {
+                  "name": "Conservatório",
+                  "text": "Conservatório este un centru de artă din Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.263669,
+                        -18.899746
+                  ]
+            },
+            {
+                  "name": "Trupe de Truões",
+                  "text": "Trupe de Truões este un centru de artă situat în Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.25148,
+                        -18.919434
+                  ]
+            },
+            {
+                  "name": "Hospital Orthomed Center",
+                  "text": "Hospital Orthomed Center este o atracție locală situată în Uberlândia.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.286967,
+                        -18.930679
+                  ]
+            },
+            {
+                  "name": "Prefeitura de Uberlândia",
+                  "text": "Prefeitura de Uberlândia este primăria și sediul administrativ al municipalității Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.256326,
+                        -18.911984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista Do Sétimo Dia",
+                  "text": "Igreja Adventista Do Sétimo Dia este un lăcaș de cult local situat în Uberlândia.",
+                  "category": "religious",
+                  "coords": [
+                        -48.279547,
+                        -18.915167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Municipal de Uberlândia",
+                  "text": "The Municipal Museum of Uberlândia preserves and exhibits the historical heritage of the city.",
+                  "category": "museum",
+                  "coords": [
+                        -48.281614,
+                        -18.923289
+                  ]
+            },
+            {
+                  "name": "Ágora Pública da Praça Olivia Calábria",
+                  "text": "The Ágora Pública da Praça Olivia Calábria functions as an open-air theatre space in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.290716,
+                        -18.928734
+                  ]
+            },
+            {
+                  "name": "Museu Dica - Laboratório de Projetos",
+                  "text": "Museu Dica - Laboratório de Projetos is a specialized museum and project laboratory in Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.254921,
+                        -18.918317
+                  ]
+            },
+            {
+                  "name": "Museu Mineral Da UFU",
+                  "text": "The Mineral Museum of the UFU displays a vast collection of geological specimens in Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.26004,
+                        -18.919986
+                  ]
+            },
+            {
+                  "name": "Prainha do Praia Clube",
+                  "text": "Prainha do Praia Clube is a local beach located in the city of Uberlândia.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.292675,
+                        -18.934173
+                  ]
+            },
+            {
+                  "name": "Teatro Público da Praça",
+                  "text": "Teatro Público da Praça is a theatre serving the cultural scene of Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.284983,
+                        -18.923714
+                  ]
+            },
+            {
+                  "name": "Palco da Sérgio Pacheco",
+                  "text": "Palco da Sérgio Pacheco is a theatre venue located in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.276334,
+                        -18.911898
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Uberlândia",
+                  "text": "Mercado Municipal de Uberlândia is a historic public market known for its regional products.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.281884,
+                        -18.918361
+                  ]
+            },
+            {
+                  "name": "Memorial à Zumbi dos Palmares",
+                  "text": "Memorial à Zumbi dos Palmares is a public monument situated in Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.279156,
+                        -18.923419
+                  ]
+            },
+            {
+                  "name": "Galeria Online de Artes - GOnA",
+                  "text": "Galeria Online de Artes - GOnA is a gallery presenting visual arts in Uberlândia.",
+                  "category": "museum",
+                  "coords": [
+                        -48.258505,
+                        -18.917789
+                  ]
+            },
+            {
+                  "name": "Monumento Nossa Senhora Do Carmo",
+                  "text": "Monumento Nossa Senhora Do Carmo is a monument located in Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.275458,
+                        -18.934239
+                  ]
+            },
+            {
+                  "name": "Conservatório",
+                  "text": "Conservatório is an arts centre situated in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.263669,
+                        -18.899746
+                  ]
+            },
+            {
+                  "name": "Trupe de Truões",
+                  "text": "Trupe de Truões is an arts centre located in Uberlândia.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.25148,
+                        -18.919434
+                  ]
+            },
+            {
+                  "name": "Hospital Orthomed Center",
+                  "text": "Hospital Orthomed Center is a local attraction situated in Uberlândia.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.286967,
+                        -18.930679
+                  ]
+            },
+            {
+                  "name": "Prefeitura de Uberlândia",
+                  "text": "Prefeitura de Uberlândia is the town hall and administrative headquarters for the municipality of Uberlândia.",
+                  "category": "historical",
+                  "coords": [
+                        -48.256326,
+                        -18.911984
+                  ]
+            },
+            {
+                  "name": "Igreja Adventista Do Sétimo Dia",
+                  "text": "Igreja Adventista Do Sétimo Dia is a local place of worship located in Uberlândia.",
+                  "category": "religious",
+                  "coords": [
+                        -48.279547,
+                        -18.915167
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-MG",
     coords: [-48.2772, -18.9186],
@@ -919,7 +4717,592 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["La ville la plus importante du Triângulo Mineiro, réputée pour sa puissance dans l'agro-industrie et la logistique.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/uberlandia-cities-v2.webp"},
   {
-    id: "sorocaba-cities-v2",
+    id: "sorocaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Zoológico Municipal Quinzinho de Barros",
+                  "text": "Der städtische Zoo Quinzinho de Barros in Sorocaba beherbergt eine große Vielfalt an Tieren.",
+                  "category": "recreational",
+                  "coords": [
+                        -47.437093,
+                        -23.505403
+                  ]
+            },
+            {
+                  "name": "Museu Histórico Sorocabano",
+                  "text": "Das Historische Museum von Sorocaba bewahrt das Erbe der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -47.437648,
+                        -23.506792
+                  ]
+            },
+            {
+                  "name": "Museu Ferroviário de Sorocaba",
+                  "text": "Das Eisenbahnmuseum in Sorocaba dokumentiert die Geschichte des Zugverkehrs.",
+                  "category": "museum",
+                  "coords": [
+                        -47.454471,
+                        -23.496959
+                  ]
+            },
+            {
+                  "name": "Monumento ao Centenário da Igreja Presbiteriana",
+                  "text": "Das Denkmal zum 100-jährigen Jubiläum der Presbyterianischen Kirche befindet sich in Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.460939,
+                        -23.50315
+                  ]
+            },
+            {
+                  "name": "\"Sorocaba é do Senhor Jesus Cristo\"",
+                  "text": "Das Denkmal „Sorocaba gehört dem Herrn Jesus Christus“ ist ein religiöses Wahrzeichen in Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.439593,
+                        -23.480789
+                  ]
+            },
+            {
+                  "name": "Mini Cristo Redentor",
+                  "text": "Der Mini-Christus-Erlöser ist eine bekannte Statue in Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.443104,
+                        -23.482859
+                  ]
+            },
+            {
+                  "name": "Monumento ao Tropeiro",
+                  "text": "Das Tropeiro-Denkmal erinnert an die Geschichte der Viehtreiber in Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.44371,
+                        -23.498848
+                  ]
+            },
+            {
+                  "name": "Aranha do Vergueiro",
+                  "text": "Die Aranha do Vergueiro ist eine markante Attraktion in Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.459516,
+                        -23.509588
+                  ]
+            },
+            {
+                  "name": "Usina Cultural Ettore Marangoni",
+                  "text": "Die Usina Cultural Ettore Marangoni ist ein Zentrum für Kultur in Sorocaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.450015,
+                        -23.496388
+                  ]
+            },
+            {
+                  "name": "Nippon Soracaba",
+                  "text": "Nippon Soracaba ist ein kulturelles Zentrum in Sorocaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.464809,
+                        -23.496762
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana de Sorocaba",
+                  "text": "Die Kathedrale von Sorocaba ist eine bedeutende Kirche in Sorocaba.",
+                  "category": "religious",
+                  "coords": [
+                        -47.458563,
+                        -23.500334
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Sorocaba",
+                  "text": "Der städtische Markt von Sorocaba ist ein historisches Gebäude.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.460358,
+                        -23.498324
+                  ]
+            },
+            {
+                  "name": "Praça Benedito Paes de Almeida",
+                  "text": "Die Praça Benedito Paes de Almeida ist ein öffentlicher Platz in Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.459216,
+                        -23.486628
+                  ]
+            },
+            {
+                  "name": "Praça Sha'ar Haneguev",
+                  "text": "Die Praça Sha'ar Haneguev ist ein Freizeitareal in Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.466191,
+                        -23.512811
+                  ]
+            },
+            {
+                  "name": "Praça Jorge Luís Prestes Del Cístia",
+                  "text": "Ein Platz in Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.479897,
+                        -23.506586
+                  ]
+            },
+            {
+                  "name": "Praça Winston Churchill",
+                  "text": "Ein Platz in Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.467056,
+                        -23.494984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Zoológico Municipal Quinzinho de Barros",
+                  "text": "A sorocabai Quinzinho de Barros városi állatkert állatok nagy választékának ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        -47.437093,
+                        -23.505403
+                  ]
+            },
+            {
+                  "name": "Museu Histórico Sorocabano",
+                  "text": "A Sorocabai Történeti Múzeum a város örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -47.437648,
+                        -23.506792
+                  ]
+            },
+            {
+                  "name": "Museu Ferroviário de Sorocaba",
+                  "text": "A sorocabai Vasúti Múzeum a vonatközlekedés történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -47.454471,
+                        -23.496959
+                  ]
+            },
+            {
+                  "name": "Monumento ao Centenário da Igreja Presbiteriana",
+                  "text": "A Presbiteriánus Egyház fennállásának 100. évfordulójára állított emlékmű Sorocabában található.",
+                  "category": "historical",
+                  "coords": [
+                        -47.460939,
+                        -23.50315
+                  ]
+            },
+            {
+                  "name": "\"Sorocaba é do Senhor Jesus Cristo\"",
+                  "text": "A „Sorocaba az Úr Jézus Krisztusé” emlékmű egy vallási nevezetesség Sorocabában.",
+                  "category": "historical",
+                  "coords": [
+                        -47.439593,
+                        -23.480789
+                  ]
+            },
+            {
+                  "name": "Mini Cristo Redentor",
+                  "text": "A Mini Krisztus Megváltó egy ismert szobor Sorocabában.",
+                  "category": "historical",
+                  "coords": [
+                        -47.443104,
+                        -23.482859
+                  ]
+            },
+            {
+                  "name": "Monumento ao Tropeiro",
+                  "text": "A Tropeiro-emlékmű a marhahajcsárok történetére emlékeztet Sorocabában.",
+                  "category": "historical",
+                  "coords": [
+                        -47.44371,
+                        -23.498848
+                  ]
+            },
+            {
+                  "name": "Aranha do Vergueiro",
+                  "text": "Az Aranha do Vergueiro egy jellegzetes látnivaló Sorocabában.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.459516,
+                        -23.509588
+                  ]
+            },
+            {
+                  "name": "Usina Cultural Ettore Marangoni",
+                  "text": "Az Usina Cultural Ettore Marangoni egy kulturális központ Sorocabában.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.450015,
+                        -23.496388
+                  ]
+            },
+            {
+                  "name": "Nippon Soracaba",
+                  "text": "A Nippon Soracaba egy kulturális központ Sorocabában.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.464809,
+                        -23.496762
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana de Sorocaba",
+                  "text": "A Sorocabai székesegyház egy jelentős templom Sorocabában.",
+                  "category": "religious",
+                  "coords": [
+                        -47.458563,
+                        -23.500334
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Sorocaba",
+                  "text": "A Sorocabai Városi Piac egy történelmi épület.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.460358,
+                        -23.498324
+                  ]
+            },
+            {
+                  "name": "Praça Benedito Paes de Almeida",
+                  "text": "A Praça Benedito Paes de Almeida egy közterület Sorocabában.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.459216,
+                        -23.486628
+                  ]
+            },
+            {
+                  "name": "Praça Sha'ar Haneguev",
+                  "text": "A Praça Sha'ar Haneguev egy rekreációs terület Sorocabában.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.466191,
+                        -23.512811
+                  ]
+            },
+            {
+                  "name": "Praça Jorge Luís Prestes Del Cístia",
+                  "text": "Tér Sorocabában.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.479897,
+                        -23.506586
+                  ]
+            },
+            {
+                  "name": "Praça Winston Churchill",
+                  "text": "Tér Sorocabában.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.467056,
+                        -23.494984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Zoológico Municipal Quinzinho de Barros",
+                  "text": "Grădina zoologică municipală Quinzinho de Barros din Sorocaba găzduiește o mare varietate de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        -47.437093,
+                        -23.505403
+                  ]
+            },
+            {
+                  "name": "Museu Histórico Sorocabano",
+                  "text": "Muzeul de Istorie din Sorocaba păstrează patrimoniul orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -47.437648,
+                        -23.506792
+                  ]
+            },
+            {
+                  "name": "Museu Ferroviário de Sorocaba",
+                  "text": "Muzeul feroviar din Sorocaba documentează istoria transportului feroviar.",
+                  "category": "museum",
+                  "coords": [
+                        -47.454471,
+                        -23.496959
+                  ]
+            },
+            {
+                  "name": "Monumento ao Centenário da Igreja Presbiteriana",
+                  "text": "Monumentul centenarului Bisericii Prezbiteriene se află în Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.460939,
+                        -23.50315
+                  ]
+            },
+            {
+                  "name": "\"Sorocaba é do Senhor Jesus Cristo\"",
+                  "text": "Monumentul „Sorocaba îi aparține Domnului Isus Hristos” este un reper religios din Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.439593,
+                        -23.480789
+                  ]
+            },
+            {
+                  "name": "Mini Cristo Redentor",
+                  "text": "Mini Hristos Mântuitorul este o statuie cunoscută din Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.443104,
+                        -23.482859
+                  ]
+            },
+            {
+                  "name": "Monumento ao Tropeiro",
+                  "text": "Monumentul Tropeiro comemorează istoria crescătorilor de vite în Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.44371,
+                        -23.498848
+                  ]
+            },
+            {
+                  "name": "Aranha do Vergueiro",
+                  "text": "Aranha do Vergueiro este o atracție distinctivă din Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.459516,
+                        -23.509588
+                  ]
+            },
+            {
+                  "name": "Usina Cultural Ettore Marangoni",
+                  "text": "Usina Cultural Ettore Marangoni este un centru cultural din Sorocaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.450015,
+                        -23.496388
+                  ]
+            },
+            {
+                  "name": "Nippon Soracaba",
+                  "text": "Nippon Soracaba este un centru cultural din Sorocaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.464809,
+                        -23.496762
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana de Sorocaba",
+                  "text": "Catedrala din Sorocaba este o biserică importantă din Sorocaba.",
+                  "category": "religious",
+                  "coords": [
+                        -47.458563,
+                        -23.500334
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Sorocaba",
+                  "text": "Piața Municipală din Sorocaba este o clădire istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.460358,
+                        -23.498324
+                  ]
+            },
+            {
+                  "name": "Praça Benedito Paes de Almeida",
+                  "text": "Praça Benedito Paes de Almeida este o piață publică din Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.459216,
+                        -23.486628
+                  ]
+            },
+            {
+                  "name": "Praça Sha'ar Haneguev",
+                  "text": "Praça Sha'ar Haneguev este o zonă de recreere din Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.466191,
+                        -23.512811
+                  ]
+            },
+            {
+                  "name": "Praça Jorge Luís Prestes Del Cístia",
+                  "text": "O piață în Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.479897,
+                        -23.506586
+                  ]
+            },
+            {
+                  "name": "Praça Winston Churchill",
+                  "text": "O piață în Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.467056,
+                        -23.494984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Municipal Zoological Park Quinzinho de Barros",
+                  "text": "The municipal Quinzinho de Barros Zoo in Sorocaba houses a large variety of animals.",
+                  "category": "recreational",
+                  "coords": [
+                        -47.437093,
+                        -23.505403
+                  ]
+            },
+            {
+                  "name": "Museu Histórico Sorocabano",
+                  "text": "The Historical Museum of Sorocaba preserves the city's heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -47.437648,
+                        -23.506792
+                  ]
+            },
+            {
+                  "name": "Museu Ferroviário de Sorocaba",
+                  "text": "The Railway Museum in Sorocaba documents the history of rail transport.",
+                  "category": "museum",
+                  "coords": [
+                        -47.454471,
+                        -23.496959
+                  ]
+            },
+            {
+                  "name": "Monumento ao Centenário da Igreja Presbiteriana",
+                  "text": "The monument for the 100th anniversary of the Presbyterian Church is located in Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.460939,
+                        -23.50315
+                  ]
+            },
+            {
+                  "name": "\"Sorocaba é do Senhor Jesus Cristo\"",
+                  "text": "The monument 'Sorocaba belongs to the Lord Jesus Christ' is a religious landmark in Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.439593,
+                        -23.480789
+                  ]
+            },
+            {
+                  "name": "Mini Cristo Redentor",
+                  "text": "The Mini Christ the Redeemer is a well-known statue in Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.443104,
+                        -23.482859
+                  ]
+            },
+            {
+                  "name": "Monumento ao Tropeiro",
+                  "text": "The Tropeiro monument commemorates the history of cattle drovers in Sorocaba.",
+                  "category": "historical",
+                  "coords": [
+                        -47.44371,
+                        -23.498848
+                  ]
+            },
+            {
+                  "name": "Aranha do Vergueiro",
+                  "text": "The Aranha do Vergueiro is a distinctive attraction in Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.459516,
+                        -23.509588
+                  ]
+            },
+            {
+                  "name": "Usina Cultural Ettore Marangoni",
+                  "text": "The Usina Cultural Ettore Marangoni is a center for culture in Sorocaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.450015,
+                        -23.496388
+                  ]
+            },
+            {
+                  "name": "Nippon Soracaba",
+                  "text": "Nippon Soracaba is a cultural center in Sorocaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -47.464809,
+                        -23.496762
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana de Sorocaba",
+                  "text": "The Cathedral of Sorocaba is a significant church in Sorocaba.",
+                  "category": "religious",
+                  "coords": [
+                        -47.458563,
+                        -23.500334
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Sorocaba",
+                  "text": "The Municipal Market of Sorocaba is a historic building.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.460358,
+                        -23.498324
+                  ]
+            },
+            {
+                  "name": "Praça Benedito Paes de Almeida",
+                  "text": "The Praça Benedito Paes de Almeida is a public square in Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.459216,
+                        -23.486628
+                  ]
+            },
+            {
+                  "name": "Praça Sha'ar Haneguev",
+                  "text": "The Praça Sha'ar Haneguev is a recreational area in Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.466191,
+                        -23.512811
+                  ]
+            },
+            {
+                  "name": "Praça Jorge Luís Prestes Del Cístia",
+                  "text": "A square in Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.479897,
+                        -23.506586
+                  ]
+            },
+            {
+                  "name": "Praça Winston Churchill",
+                  "text": "A square in Sorocaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -47.467056,
+                        -23.494984
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-SP",
     coords: [-47.4581, -23.5017],
@@ -954,7 +5337,160 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Une ville industrielle historique de l'intérieur de l'État de São Paulo, appréciée pour sa qualité de vie élevée et sa modernité.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/sorocaba-cities-v2.webp"},
   {
-    id: "contagem-cities-v2",
+    id: "contagem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Estação Bernardo Monteiro",
+                  "text": "Estação Bernardo Monteiro ist ein Museum in Contagem.",
+                  "category": "museum",
+                  "coords": [
+                        -44.080179,
+                        -19.933211
+                  ]
+            },
+            {
+                  "name": "Teatro da Casa Azul",
+                  "text": "Teatro da Casa Azul ist ein Theater in Contagem.",
+                  "category": "cultural",
+                  "coords": [
+                        -44.0832,
+                        -19.91489
+                  ]
+            },
+            {
+                  "name": "Clube Arvoredo",
+                  "text": "Clube Arvoredo ist ein Wasserpark in Contagem.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.085175,
+                        -19.926841
+                  ]
+            },
+            {
+                  "name": "Campestre Yucca Clube",
+                  "text": "Campestre Yucca Clube ist ein Wasserpark in Contagem.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.082254,
+                        -19.919296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estação Bernardo Monteiro",
+                  "text": "Az Estação Bernardo Monteiro egy múzeum Contagem városában.",
+                  "category": "museum",
+                  "coords": [
+                        -44.080179,
+                        -19.933211
+                  ]
+            },
+            {
+                  "name": "Teatro da Casa Azul",
+                  "text": "A Teatro da Casa Azul egy színház Contagem városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -44.0832,
+                        -19.91489
+                  ]
+            },
+            {
+                  "name": "Clube Arvoredo",
+                  "text": "A Clube Arvoredo egy vízi vidámpark Contagem városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.085175,
+                        -19.926841
+                  ]
+            },
+            {
+                  "name": "Campestre Yucca Clube",
+                  "text": "A Campestre Yucca Clube egy vízi vidámpark Contagem városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.082254,
+                        -19.919296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estação Bernardo Monteiro",
+                  "text": "Estação Bernardo Monteiro este un muzeu situat în Contagem.",
+                  "category": "museum",
+                  "coords": [
+                        -44.080179,
+                        -19.933211
+                  ]
+            },
+            {
+                  "name": "Teatro da Casa Azul",
+                  "text": "Teatro da Casa Azul este un teatru situat în Contagem.",
+                  "category": "cultural",
+                  "coords": [
+                        -44.0832,
+                        -19.91489
+                  ]
+            },
+            {
+                  "name": "Clube Arvoredo",
+                  "text": "Clube Arvoredo este un parc acvatic situat în Contagem.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.085175,
+                        -19.926841
+                  ]
+            },
+            {
+                  "name": "Campestre Yucca Clube",
+                  "text": "Campestre Yucca Clube este un parc acvatic situat în Contagem.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.082254,
+                        -19.919296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estação Bernardo Monteiro",
+                  "text": "Estação Bernardo Monteiro is a museum located in Contagem.",
+                  "category": "museum",
+                  "coords": [
+                        -44.080179,
+                        -19.933211
+                  ]
+            },
+            {
+                  "name": "Teatro da Casa Azul",
+                  "text": "Teatro da Casa Azul is a theatre located in Contagem.",
+                  "category": "cultural",
+                  "coords": [
+                        -44.0832,
+                        -19.91489
+                  ]
+            },
+            {
+                  "name": "Clube Arvoredo",
+                  "text": "Clube Arvoredo is a water park located in Contagem.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.085175,
+                        -19.926841
+                  ]
+            },
+            {
+                  "name": "Campestre Yucca Clube",
+                  "text": "Campestre Yucca Clube is a water park located in Contagem.",
+                  "category": "recreational",
+                  "coords": [
+                        -44.082254,
+                        -19.919296
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-MG",
     coords: [-44.0817, -19.9328],
@@ -1006,7 +5542,448 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["Aracaju was the first state capital in Brazil to be planned from scratch in 1855.", "The city's name is derived from the Tupi words for 'macaw' and 'cashew tree'.", "The Orla de Atalaia features a dedicated karting track and multiple sports courts.", "Aracaju is a key base for Petrobras operations in the Sergipe-Alagoas basin.", "The city is home to the unique Museum of People from Sergipe (Museu da Gente Sergipana).", "Aracaju is considered the 'Health Capital' of Brazil due to its high density of doctors.", "The Atalaia beach is famous for its calm waters and expansive sandbanks.", "The city hosts the 'Pré-Caju', one of the largest out-of-season carnivals in Brazil."],
     }, image: "/poi-images/aracaju-cities-v2.webp"},
   {
-    id: "feira-de-santana-cities-v2",
+    id: "feira-de-santana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Margarida Ribeiro",
+                  "text": "Das Teatro Margarida Ribeiro ist ein Theater in Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.947089,
+                        -12.258472
+                  ]
+            },
+            {
+                  "name": "Teatro do CDL",
+                  "text": "Das Teatro do CDL ist ein lokaler Veranstaltungsort für Theateraufführungen in der Stadt Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.967929,
+                        -12.257839
+                  ]
+            },
+            {
+                  "name": "Teatro Maestro Miro",
+                  "text": "Das Teatro Maestro Miro ist ein kultureller Theaterraum in Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.970646,
+                        -12.265358
+                  ]
+            },
+            {
+                  "name": "Arquivo Público Municipal",
+                  "text": "Das Arquivo Público Municipal ist ein Museum und Archiv in Feira de Santana.",
+                  "category": "museum",
+                  "coords": [
+                        -38.965558,
+                        -12.254445
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea Raimundo de Oliveira",
+                  "text": "Das Museu de Arte Contemporânea Raimundo de Oliveira ist ein Museum für zeitgenössische Kunst in Feira de Santana.",
+                  "category": "museum",
+                  "coords": [
+                        -38.961507,
+                        -12.250716
+                  ]
+            },
+            {
+                  "name": "Monumento ao Caminhoneiro",
+                  "text": "Das Monumento ao Caminhoneiro ist ein Denkmal in Feira de Santana.",
+                  "category": "historical",
+                  "coords": [
+                        -38.964313,
+                        -12.259753
+                  ]
+            },
+            {
+                  "name": "Monumento a Maria Quitéria",
+                  "text": "Das Monumento a Maria Quitéria ist ein öffentliches Denkmal in Feira de Santana.",
+                  "category": "historical",
+                  "coords": [
+                        -38.954655,
+                        -12.255577
+                  ]
+            },
+            {
+                  "name": "Monumento ao Tropeiro",
+                  "text": "Das Monumento ao Tropeiro ist ein Denkmal in Feira de Santana.",
+                  "category": "historical",
+                  "coords": [
+                        -38.969679,
+                        -12.253084
+                  ]
+            },
+            {
+                  "name": "Centro Cultural e Restaurante Sesc",
+                  "text": "Das Centro Cultural e Restaurante Sesc dient als Kunstzentrum in Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.970626,
+                        -12.258655
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Amélio Amorim",
+                  "text": "Das Centro de Cultura Amélio Amorim ist ein Kultur- und Kunstzentrum in Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.945072,
+                        -12.264484
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana de Sant'Ana",
+                  "text": "Die Catedral Metropolitana de Sant'Ana ist die wichtigste katholische Kathedrale in Feira de Santana.",
+                  "category": "religious",
+                  "coords": [
+                        -38.96836,
+                        -12.259372
+                  ]
+            },
+            {
+                  "name": "Prefeitura Municipal de Feira de Santana",
+                  "text": "Die Prefeitura Municipal de Feira de Santana dient als Rathaus der Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        -38.965118,
+                        -12.255528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Margarida Ribeiro",
+                  "text": "A Teatro Margarida Ribeiro egy színház Feira de Santana városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.947089,
+                        -12.258472
+                  ]
+            },
+            {
+                  "name": "Teatro do CDL",
+                  "text": "A Teatro do CDL egy helyi színház Feira de Santana városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.967929,
+                        -12.257839
+                  ]
+            },
+            {
+                  "name": "Teatro Maestro Miro",
+                  "text": "A Teatro Maestro Miro egy színházi tér Feira de Santana városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.970646,
+                        -12.265358
+                  ]
+            },
+            {
+                  "name": "Arquivo Público Municipal",
+                  "text": "Az Arquivo Público Municipal egy múzeumként és levéltárként működő intézmény Feira de Santana városában.",
+                  "category": "museum",
+                  "coords": [
+                        -38.965558,
+                        -12.254445
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea Raimundo de Oliveira",
+                  "text": "A Museu de Arte Contemporânea Raimundo de Oliveira egy kortárs művészeti múzeum Feira de Santana városában.",
+                  "category": "museum",
+                  "coords": [
+                        -38.961507,
+                        -12.250716
+                  ]
+            },
+            {
+                  "name": "Monumento ao Caminhoneiro",
+                  "text": "A Monumento ao Caminhoneiro egy emlékmű Feira de Santana városában.",
+                  "category": "historical",
+                  "coords": [
+                        -38.964313,
+                        -12.259753
+                  ]
+            },
+            {
+                  "name": "Monumento a Maria Quitéria",
+                  "text": "A Monumento a Maria Quitéria egy köztéri emlékmű Feira de Santana városában.",
+                  "category": "historical",
+                  "coords": [
+                        -38.954655,
+                        -12.255577
+                  ]
+            },
+            {
+                  "name": "Monumento ao Tropeiro",
+                  "text": "A Monumento ao Tropeiro egy emlékmű Feira de Santana városában.",
+                  "category": "historical",
+                  "coords": [
+                        -38.969679,
+                        -12.253084
+                  ]
+            },
+            {
+                  "name": "Centro Cultural e Restaurante Sesc",
+                  "text": "A Centro Cultural e Restaurante Sesc művészeti központként szolgál Feira de Santana városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.970626,
+                        -12.258655
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Amélio Amorim",
+                  "text": "A Centro de Cultura Amélio Amorim egy művészeti központ Feira de Santana városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.945072,
+                        -12.264484
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana de Sant'Ana",
+                  "text": "A Catedral Metropolitana de Sant'Ana a legfőbb katolikus katedrális Feira de Santana városában.",
+                  "category": "religious",
+                  "coords": [
+                        -38.96836,
+                        -12.259372
+                  ]
+            },
+            {
+                  "name": "Prefeitura Municipal de Feira de Santana",
+                  "text": "A Prefeitura Municipal de Feira de Santana az önkormányzat városházájaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -38.965118,
+                        -12.255528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Margarida Ribeiro",
+                  "text": "Teatro Margarida Ribeiro este un teatru situat în Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.947089,
+                        -12.258472
+                  ]
+            },
+            {
+                  "name": "Teatro do CDL",
+                  "text": "Teatro do CDL este un teatru local situat în orașul Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.967929,
+                        -12.257839
+                  ]
+            },
+            {
+                  "name": "Teatro Maestro Miro",
+                  "text": "Teatro Maestro Miro este un spațiu teatral situat în Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.970646,
+                        -12.265358
+                  ]
+            },
+            {
+                  "name": "Arquivo Público Municipal",
+                  "text": "Arquivo Público Municipal este un muzeu și arhivă publică în Feira de Santana.",
+                  "category": "museum",
+                  "coords": [
+                        -38.965558,
+                        -12.254445
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea Raimundo de Oliveira",
+                  "text": "Museu de Arte Contemporânea Raimundo de Oliveira este un muzeu de artă contemporană situat în Feira de Santana.",
+                  "category": "museum",
+                  "coords": [
+                        -38.961507,
+                        -12.250716
+                  ]
+            },
+            {
+                  "name": "Monumento ao Caminhoneiro",
+                  "text": "Monumento ao Caminhoneiro este un monument situat în Feira de Santana.",
+                  "category": "historical",
+                  "coords": [
+                        -38.964313,
+                        -12.259753
+                  ]
+            },
+            {
+                  "name": "Monumento a Maria Quitéria",
+                  "text": "Monumento a Maria Quitéria este un monument public situat în Feira de Santana.",
+                  "category": "historical",
+                  "coords": [
+                        -38.954655,
+                        -12.255577
+                  ]
+            },
+            {
+                  "name": "Monumento ao Tropeiro",
+                  "text": "Monumento ao Tropeiro este un monument situat în Feira de Santana.",
+                  "category": "historical",
+                  "coords": [
+                        -38.969679,
+                        -12.253084
+                  ]
+            },
+            {
+                  "name": "Centro Cultural e Restaurante Sesc",
+                  "text": "Centro Cultural e Restaurante Sesc funcționează ca un centru de artă în Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.970626,
+                        -12.258655
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Amélio Amorim",
+                  "text": "Centro de Cultura Amélio Amorim este un centru de artă situat în Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.945072,
+                        -12.264484
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana de Sant'Ana",
+                  "text": "Catedral Metropolitana de Sant'Ana este principala catedrală catolică din Feira de Santana.",
+                  "category": "religious",
+                  "coords": [
+                        -38.96836,
+                        -12.259372
+                  ]
+            },
+            {
+                  "name": "Prefeitura Municipal de Feira de Santana",
+                  "text": "Prefeitura Municipal de Feira de Santana servește ca primărie a municipalității.",
+                  "category": "historical",
+                  "coords": [
+                        -38.965118,
+                        -12.255528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Margarida Ribeiro",
+                  "text": "Teatro Margarida Ribeiro is a theatre located in Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.947089,
+                        -12.258472
+                  ]
+            },
+            {
+                  "name": "Teatro do CDL",
+                  "text": "Teatro do CDL is a local theatre venue situated in the city of Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.967929,
+                        -12.257839
+                  ]
+            },
+            {
+                  "name": "Teatro Maestro Miro",
+                  "text": "Teatro Maestro Miro is a cultural theatre space located in Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.970646,
+                        -12.265358
+                  ]
+            },
+            {
+                  "name": "Arquivo Público Municipal",
+                  "text": "Arquivo Público Municipal is a museum and public archive in Feira de Santana.",
+                  "category": "museum",
+                  "coords": [
+                        -38.965558,
+                        -12.254445
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea Raimundo de Oliveira",
+                  "text": "Museu de Arte Contemporânea Raimundo de Oliveira is a contemporary art museum in Feira de Santana.",
+                  "category": "museum",
+                  "coords": [
+                        -38.961507,
+                        -12.250716
+                  ]
+            },
+            {
+                  "name": "Monumento ao Caminhoneiro",
+                  "text": "Monumento ao Caminhoneiro is a monument located in Feira de Santana.",
+                  "category": "historical",
+                  "coords": [
+                        -38.964313,
+                        -12.259753
+                  ]
+            },
+            {
+                  "name": "Monumento a Maria Quitéria",
+                  "text": "Monumento a Maria Quitéria is a public monument located in Feira de Santana.",
+                  "category": "historical",
+                  "coords": [
+                        -38.954655,
+                        -12.255577
+                  ]
+            },
+            {
+                  "name": "Monumento ao Tropeiro",
+                  "text": "Monumento ao Tropeiro is a monument located in Feira de Santana.",
+                  "category": "historical",
+                  "coords": [
+                        -38.969679,
+                        -12.253084
+                  ]
+            },
+            {
+                  "name": "Centro Cultural e Restaurante Sesc",
+                  "text": "Centro Cultural e Restaurante Sesc serves as an arts centre in Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.970626,
+                        -12.258655
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Amélio Amorim",
+                  "text": "Centro de Cultura Amélio Amorim is an arts centre located in Feira de Santana.",
+                  "category": "cultural",
+                  "coords": [
+                        -38.945072,
+                        -12.264484
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana de Sant'Ana",
+                  "text": "Catedral Metropolitana de Sant'Ana is the main Catholic cathedral in Feira de Santana.",
+                  "category": "religious",
+                  "coords": [
+                        -38.96836,
+                        -12.259372
+                  ]
+            },
+            {
+                  "name": "Prefeitura Municipal de Feira de Santana",
+                  "text": "Prefeitura Municipal de Feira de Santana serves as the town hall for the municipality.",
+                  "category": "historical",
+                  "coords": [
+                        -38.965118,
+                        -12.255528
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-BA",
     coords: [-38.9669, -12.2667],
@@ -1058,7 +6035,736 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["Cuiabá was founded in 1719 by the bandeirante Pascoal Moreira Cabral.", "The city's landmark Obelisk marks the exact center of the South American continent.", "Cuiabá is one of the few cities in the world located at the meeting of three major biomes.", "The heat in Cuiabá is often trapped by the surrounding hills, increasing humidity.", "The city was a major base for the Rondon Commission's telegraph line project.", "Cuiabá's airport is named after Marechal Rondon, a famous Brazilian explorer.", "The 'Cuiabano' accent is one of the most distinct and recognizable in Brazil.", "The city is a major producer of artisanal sweets made from tropical fruits."],
     }, image: "/poi-images/cuiaba-cities-v2.webp"},
   {
-    id: "joinville-cities-v2",
+    id: "joinville-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu da Bicicleta de Joinville",
+                  "text": "Museum in Joinville, das der Geschichte des Fahrrads gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -48.845464,
+                        -26.322134
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Imigração e Colonização",
+                  "text": "Nationalmuseum in Joinville zur Einwanderungsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -48.843211,
+                        -26.303609
+                  ]
+            },
+            {
+                  "name": "Museu Fritz Alt",
+                  "text": "Museum im ehemaligen Wohnhaus des Bildhauers Fritz Alt in Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.834053,
+                        -26.308796
+                  ]
+            },
+            {
+                  "name": "Museu Arqueológico de Sambaqui de Joinville",
+                  "text": "Archäologisches Museum in Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.842911,
+                        -26.296488
+                  ]
+            },
+            {
+                  "name": "Teatro Juarez Machado",
+                  "text": "Theater in Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.843762,
+                        -26.292872
+                  ]
+            },
+            {
+                  "name": "Teatro do SESC",
+                  "text": "Theater des SESC in Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.843715,
+                        -26.288144
+                  ]
+            },
+            {
+                  "name": "Sambaqui",
+                  "text": "Archäologische Stätte in Joinville.",
+                  "category": "historical",
+                  "coords": [
+                        -48.827765,
+                        -26.314872
+                  ]
+            },
+            {
+                  "name": "Teatro da AJOTE",
+                  "text": "Theater in Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.855729,
+                        -26.298981
+                  ]
+            },
+            {
+                  "name": "Parque Zoobotânico de Joinville",
+                  "text": "Zoo in Joinville.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.835214,
+                        -26.294673
+                  ]
+            },
+            {
+                  "name": "Complexo Estação da Memória",
+                  "text": "Kulturelle Attraktion in Joinville.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.848791,
+                        -26.321973
+                  ]
+            },
+            {
+                  "name": "Mirante Higino Aguiar",
+                  "text": "Aussichtspunkt in Joinville.",
+                  "category": "natural",
+                  "coords": [
+                        -48.827012,
+                        -26.29207
+                  ]
+            },
+            {
+                  "name": "Monumento à Barca",
+                  "text": "Denkmal in Joinville.",
+                  "category": "historical",
+                  "coords": [
+                        -48.841425,
+                        -26.301626
+                  ]
+            },
+            {
+                  "name": "Janela para a Cidade",
+                  "text": "Aussichtspunkt in Joinville.",
+                  "category": "natural",
+                  "coords": [
+                        -48.828309,
+                        -26.291537
+                  ]
+            },
+            {
+                  "name": "Fundadores de Joinville",
+                  "text": "Denkmal für die Gründer von Joinville.",
+                  "category": "historical",
+                  "coords": [
+                        -48.843928,
+                        -26.301215
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Victor Kursancew",
+                  "text": "Kunstgalerie in Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.841667,
+                        -26.295508
+                  ]
+            },
+            {
+                  "name": "Museu de Arte de Joinville",
+                  "text": "Kunstmuseum in Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.855863,
+                        -26.297939
+                  ]
+            },
+            {
+                  "name": "Cemitério dos Imigrantes",
+                  "text": "Historischer Friedhof in Joinville.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.851883,
+                        -26.298805
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura e Serviços Anita Garibaldi",
+                  "text": "Kultur- und Servicezentrum in Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.846178,
+                        -26.3168
+                  ]
+            },
+            {
+                  "name": "Instituto Juarez Machado",
+                  "text": "Kunstinstitut und Galerie in Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.853533,
+                        -26.296434
+                  ]
+            },
+            {
+                  "name": "Praça Alameda Brüstlein",
+                  "text": "Öffentlicher Platz in Joinville.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.844668,
+                        -26.303511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu da Bicicleta de Joinville",
+                  "text": "Múzeum Joinville-ben, amely a kerékpározás történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -48.845464,
+                        -26.322134
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Imigração e Colonização",
+                  "text": "Nemzeti múzeum Joinville-ben a bevándorlás történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        -48.843211,
+                        -26.303609
+                  ]
+            },
+            {
+                  "name": "Museu Fritz Alt",
+                  "text": "Múzeum Fritz Alt szobrászművész egykori otthonában, Joinville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -48.834053,
+                        -26.308796
+                  ]
+            },
+            {
+                  "name": "Museu Arqueológico de Sambaqui de Joinville",
+                  "text": "Régészeti múzeum Joinville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -48.842911,
+                        -26.296488
+                  ]
+            },
+            {
+                  "name": "Teatro Juarez Machado",
+                  "text": "Színház Joinville-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.843762,
+                        -26.292872
+                  ]
+            },
+            {
+                  "name": "Teatro do SESC",
+                  "text": "A SESC színháza Joinville-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.843715,
+                        -26.288144
+                  ]
+            },
+            {
+                  "name": "Sambaqui",
+                  "text": "Régészeti lelőhely Joinville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -48.827765,
+                        -26.314872
+                  ]
+            },
+            {
+                  "name": "Teatro da AJOTE",
+                  "text": "Színház Joinville-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.855729,
+                        -26.298981
+                  ]
+            },
+            {
+                  "name": "Parque Zoobotânico de Joinville",
+                  "text": "Állatkert Joinville-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.835214,
+                        -26.294673
+                  ]
+            },
+            {
+                  "name": "Complexo Estação da Memória",
+                  "text": "Kulturális látnivaló Joinville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.848791,
+                        -26.321973
+                  ]
+            },
+            {
+                  "name": "Mirante Higino Aguiar",
+                  "text": "Kilátó Joinville-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -48.827012,
+                        -26.29207
+                  ]
+            },
+            {
+                  "name": "Monumento à Barca",
+                  "text": "Emlékmű Joinville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -48.841425,
+                        -26.301626
+                  ]
+            },
+            {
+                  "name": "Janela para a Cidade",
+                  "text": "Kilátó Joinville-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -48.828309,
+                        -26.291537
+                  ]
+            },
+            {
+                  "name": "Fundadores de Joinville",
+                  "text": "Emlékmű Joinville alapítóinak.",
+                  "category": "historical",
+                  "coords": [
+                        -48.843928,
+                        -26.301215
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Victor Kursancew",
+                  "text": "Művészeti galéria Joinville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -48.841667,
+                        -26.295508
+                  ]
+            },
+            {
+                  "name": "Museu de Arte de Joinville",
+                  "text": "Művészeti múzeum Joinville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -48.855863,
+                        -26.297939
+                  ]
+            },
+            {
+                  "name": "Cemitério dos Imigrantes",
+                  "text": "Történelmi temető Joinville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.851883,
+                        -26.298805
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura e Serviços Anita Garibaldi",
+                  "text": "Kulturális és szolgáltató központ Joinville-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.846178,
+                        -26.3168
+                  ]
+            },
+            {
+                  "name": "Instituto Juarez Machado",
+                  "text": "Művészeti intézet és galéria Joinville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -48.853533,
+                        -26.296434
+                  ]
+            },
+            {
+                  "name": "Praça Alameda Brüstlein",
+                  "text": "Közterület Joinville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.844668,
+                        -26.303511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu da Bicicleta de Joinville",
+                  "text": "Muzeu în Joinville dedicat istoriei bicicletei.",
+                  "category": "museum",
+                  "coords": [
+                        -48.845464,
+                        -26.322134
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Imigração e Colonização",
+                  "text": "Muzeu național în Joinville despre istoria imigrației.",
+                  "category": "museum",
+                  "coords": [
+                        -48.843211,
+                        -26.303609
+                  ]
+            },
+            {
+                  "name": "Museu Fritz Alt",
+                  "text": "Muzeu în fosta locuință a sculptorului Fritz Alt din Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.834053,
+                        -26.308796
+                  ]
+            },
+            {
+                  "name": "Museu Arqueológico de Sambaqui de Joinville",
+                  "text": "Muzeu arheologic în Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.842911,
+                        -26.296488
+                  ]
+            },
+            {
+                  "name": "Teatro Juarez Machado",
+                  "text": "Teatru în Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.843762,
+                        -26.292872
+                  ]
+            },
+            {
+                  "name": "Teatro do SESC",
+                  "text": "Teatrul SESC din Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.843715,
+                        -26.288144
+                  ]
+            },
+            {
+                  "name": "Sambaqui",
+                  "text": "Situl arheologic din Joinville.",
+                  "category": "historical",
+                  "coords": [
+                        -48.827765,
+                        -26.314872
+                  ]
+            },
+            {
+                  "name": "Teatro da AJOTE",
+                  "text": "Teatru în Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.855729,
+                        -26.298981
+                  ]
+            },
+            {
+                  "name": "Parque Zoobotânico de Joinville",
+                  "text": "Grădină zoologică în Joinville.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.835214,
+                        -26.294673
+                  ]
+            },
+            {
+                  "name": "Complexo Estação da Memória",
+                  "text": "Atracție culturală în Joinville.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.848791,
+                        -26.321973
+                  ]
+            },
+            {
+                  "name": "Mirante Higino Aguiar",
+                  "text": "Punct de belvedere în Joinville.",
+                  "category": "natural",
+                  "coords": [
+                        -48.827012,
+                        -26.29207
+                  ]
+            },
+            {
+                  "name": "Monumento à Barca",
+                  "text": "Monument în Joinville.",
+                  "category": "historical",
+                  "coords": [
+                        -48.841425,
+                        -26.301626
+                  ]
+            },
+            {
+                  "name": "Janela para a Cidade",
+                  "text": "Punct de belvedere în Joinville.",
+                  "category": "natural",
+                  "coords": [
+                        -48.828309,
+                        -26.291537
+                  ]
+            },
+            {
+                  "name": "Fundadores de Joinville",
+                  "text": "Monument în cinstea fondatorilor orașului Joinville.",
+                  "category": "historical",
+                  "coords": [
+                        -48.843928,
+                        -26.301215
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Victor Kursancew",
+                  "text": "Galerie de artă în Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.841667,
+                        -26.295508
+                  ]
+            },
+            {
+                  "name": "Museu de Arte de Joinville",
+                  "text": "Muzeu de artă în Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.855863,
+                        -26.297939
+                  ]
+            },
+            {
+                  "name": "Cemitério dos Imigrantes",
+                  "text": "Cimitir istoric în Joinville.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.851883,
+                        -26.298805
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura e Serviços Anita Garibaldi",
+                  "text": "Centru cultural și de servicii în Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.846178,
+                        -26.3168
+                  ]
+            },
+            {
+                  "name": "Instituto Juarez Machado",
+                  "text": "Institut de artă și galerie în Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.853533,
+                        -26.296434
+                  ]
+            },
+            {
+                  "name": "Praça Alameda Brüstlein",
+                  "text": "Piață publică în Joinville.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.844668,
+                        -26.303511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu da Bicicleta de Joinville",
+                  "text": "Museum in Joinville dedicated to bicycle history.",
+                  "category": "museum",
+                  "coords": [
+                        -48.845464,
+                        -26.322134
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Imigração e Colonização",
+                  "text": "National museum in Joinville regarding immigration history.",
+                  "category": "museum",
+                  "coords": [
+                        -48.843211,
+                        -26.303609
+                  ]
+            },
+            {
+                  "name": "Museu Fritz Alt",
+                  "text": "Museum in the former residence of sculptor Fritz Alt in Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.834053,
+                        -26.308796
+                  ]
+            },
+            {
+                  "name": "Museu Arqueológico de Sambaqui de Joinville",
+                  "text": "Archaeological museum in Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.842911,
+                        -26.296488
+                  ]
+            },
+            {
+                  "name": "Teatro Juarez Machado",
+                  "text": "Theatre in Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.843762,
+                        -26.292872
+                  ]
+            },
+            {
+                  "name": "Teatro do SESC",
+                  "text": "SESC Theatre in Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.843715,
+                        -26.288144
+                  ]
+            },
+            {
+                  "name": "Sambaqui",
+                  "text": "Archaeological site in Joinville.",
+                  "category": "historical",
+                  "coords": [
+                        -48.827765,
+                        -26.314872
+                  ]
+            },
+            {
+                  "name": "Teatro da AJOTE",
+                  "text": "Theatre in Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.855729,
+                        -26.298981
+                  ]
+            },
+            {
+                  "name": "Parque Zoobotânico de Joinville",
+                  "text": "Zoo in Joinville.",
+                  "category": "recreational",
+                  "coords": [
+                        -48.835214,
+                        -26.294673
+                  ]
+            },
+            {
+                  "name": "Complexo Estação da Memória",
+                  "text": "Cultural attraction in Joinville.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.848791,
+                        -26.321973
+                  ]
+            },
+            {
+                  "name": "Mirante Higino Aguiar",
+                  "text": "Viewpoint in Joinville.",
+                  "category": "natural",
+                  "coords": [
+                        -48.827012,
+                        -26.29207
+                  ]
+            },
+            {
+                  "name": "Monumento à Barca",
+                  "text": "Monument in Joinville.",
+                  "category": "historical",
+                  "coords": [
+                        -48.841425,
+                        -26.301626
+                  ]
+            },
+            {
+                  "name": "Janela para a Cidade",
+                  "text": "Viewpoint in Joinville.",
+                  "category": "natural",
+                  "coords": [
+                        -48.828309,
+                        -26.291537
+                  ]
+            },
+            {
+                  "name": "Fundadores de Joinville",
+                  "text": "Monument to the founders of Joinville.",
+                  "category": "historical",
+                  "coords": [
+                        -48.843928,
+                        -26.301215
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Victor Kursancew",
+                  "text": "Art gallery in Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.841667,
+                        -26.295508
+                  ]
+            },
+            {
+                  "name": "Museu de Arte de Joinville",
+                  "text": "Art museum in Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.855863,
+                        -26.297939
+                  ]
+            },
+            {
+                  "name": "Cemitério dos Imigrantes",
+                  "text": "Historic cemetery in Joinville.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.851883,
+                        -26.298805
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura e Serviços Anita Garibaldi",
+                  "text": "Cultural and service centre in Joinville.",
+                  "category": "cultural",
+                  "coords": [
+                        -48.846178,
+                        -26.3168
+                  ]
+            },
+            {
+                  "name": "Instituto Juarez Machado",
+                  "text": "Art institute and gallery in Joinville.",
+                  "category": "museum",
+                  "coords": [
+                        -48.853533,
+                        -26.296434
+                  ]
+            },
+            {
+                  "name": "Praça Alameda Brüstlein",
+                  "text": "Public square in Joinville.",
+                  "category": "landmark",
+                  "coords": [
+                        -48.844668,
+                        -26.303511
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-SC",
     coords: [-48.8461, -26.3045],
@@ -1093,7 +6799,88 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["La plus grande ville de Santa Catarina, connue pour sa forte tradition industrielle allemande et européenne.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/joinville-cities-v2.webp"},
   {
-    id: "aparecida-de-goiania-cities-v2",
+    id: "aparecida-de-goiania-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anfiteatro de Aparecida de Goiânia",
+                  "text": "Anfiteatro de Aparecida de Goiânia ist ein Theater in Aparecida de Goiânia.",
+                  "category": "cultural",
+                  "coords": [
+                        -49.256238,
+                        -16.820781
+                  ]
+            },
+            {
+                  "name": "Secretaria Executiva de Cultura",
+                  "text": "Secretaria Executiva de Cultura ist ein Kunstzentrum in Aparecida de Goiânia.",
+                  "category": "cultural",
+                  "coords": [
+                        -49.255617,
+                        -16.81971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anfiteatro de Aparecida de Goiânia",
+                  "text": "Az Anfiteatro de Aparecida de Goiânia egy színház Aparecida de Goiânia városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -49.256238,
+                        -16.820781
+                  ]
+            },
+            {
+                  "name": "Secretaria Executiva de Cultura",
+                  "text": "A Secretaria Executiva de Cultura egy művészeti központ Aparecida de Goiânia városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -49.255617,
+                        -16.81971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anfiteatro de Aparecida de Goiânia",
+                  "text": "Anfiteatro de Aparecida de Goiânia este un teatru situat în Aparecida de Goiânia.",
+                  "category": "cultural",
+                  "coords": [
+                        -49.256238,
+                        -16.820781
+                  ]
+            },
+            {
+                  "name": "Secretaria Executiva de Cultura",
+                  "text": "Secretaria Executiva de Cultura este un centru de arte situat în Aparecida de Goiânia.",
+                  "category": "cultural",
+                  "coords": [
+                        -49.255617,
+                        -16.81971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anfiteatro de Aparecida de Goiânia",
+                  "text": "Anfiteatro de Aparecida de Goiânia is a theatre located in Aparecida de Goiânia.",
+                  "category": "cultural",
+                  "coords": [
+                        -49.256238,
+                        -16.820781
+                  ]
+            },
+            {
+                  "name": "Secretaria Executiva de Cultura",
+                  "text": "Secretaria Executiva de Cultura is an arts centre located in Aparecida de Goiânia.",
+                  "category": "cultural",
+                  "coords": [
+                        -49.255617,
+                        -16.81971
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-GO",
     coords: [-49.2458, -16.825],
@@ -1119,7 +6906,592 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["The second largest city in Goiás, bordering the capital Goiânia and experiencing dynamic economic growth.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
     }, image: "/poi-images/aparecida-de-goiania-cities-v2.webp"},
   {
-    id: "londrina-cities-v2",
+    id: "londrina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Histórico de Londrina Padre Carlos Weiss",
+                  "text": "Das Museu Histórico de Londrina Padre Carlos Weiss bewahrt die reiche Geschichte der frühen Besiedlung von Londrina.",
+                  "category": "museum",
+                  "coords": [
+                        -51.159581,
+                        -23.308259
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Moderna de Londrina",
+                  "text": "Das Museu de Arte Moderna de Londrina ist ein Museum für moderne Kunst in Londrina.",
+                  "category": "museum",
+                  "coords": [
+                        -51.159274,
+                        -23.309622
+                  ]
+            },
+            {
+                  "name": "Teatro Marista",
+                  "text": "Das Teatro Marista ist ein lokales Theater in Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180768,
+                        -23.30262
+                  ]
+            },
+            {
+                  "name": "Teatro Colégio Londrinense",
+                  "text": "Das Teatro Colégio Londrinense ist ein Theatersaal in Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.170954,
+                        -23.31667
+                  ]
+            },
+            {
+                  "name": "Museu do Café",
+                  "text": "Das Museum of Coffee ist ein Museum in Londrina.",
+                  "category": "museum",
+                  "coords": [
+                        -51.153367,
+                        -23.309602
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Reverendo Jonas Dias Martins",
+                  "text": "Das Anfiteatro Reverendo Jonas Dias Martins ist ein Theaterraum in Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.163496,
+                        -23.32272
+                  ]
+            },
+            {
+                  "name": "Casal de Corujas-Buraqueiras",
+                  "text": "Casal de Corujas-Buraqueiras ist eine lokale Attraktion in Londrina, die einheimische Kanincheneulen zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.151039,
+                        -23.334965
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Universitário Ouro Verde",
+                  "text": "Das Cine Teatro Universitário Ouro Verde ist ein traditionelles Kino und Theater in Londrina.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.15816,
+                        -23.310563
+                  ]
+            },
+            {
+                  "name": "O Passageiro",
+                  "text": "O Passageiro ist ein öffentliches Denkmal in der Stadt Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.150075,
+                        -23.311933
+                  ]
+            },
+            {
+                  "name": "Praça Rotary",
+                  "text": "Die Praça Rotary ist ein lokales Denkmal in Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.177616,
+                        -23.314708
+                  ]
+            },
+            {
+                  "name": "Relógio de Sol",
+                  "text": "Relógio de Sol ist ein Denkmal in Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.150551,
+                        -23.310706
+                  ]
+            },
+            {
+                  "name": "Monumento Bíblico",
+                  "text": "Das Monumento Bíblico ist ein Denkmal in Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.157929,
+                        -23.330965
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural Clave do Sol",
+                  "text": "Das Espaço Cultural Clave do Sol ist ein Kunstzentrum in Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.183547,
+                        -23.296248
+                  ]
+            },
+            {
+                  "name": "Santuário Mariano de Schoenstatt",
+                  "text": "Das Santuário Mariano de Schoenstatt ist eine lokale Attraktion in Londrina.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.159755,
+                        -23.315284
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura UEL",
+                  "text": "Die Casa da Cultura UEL ist ein Kunstzentrum in Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.163046,
+                        -23.312675
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana",
+                  "text": "Die Sacred Heart of Jesus Cathedral dient als wichtige Kultstätte in Londrina.",
+                  "category": "religious",
+                  "coords": [
+                        -51.159554,
+                        -23.312092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Histórico de Londrina Padre Carlos Weiss",
+                  "text": "A Museu Histórico de Londrina Padre Carlos Weiss Londrina gazdag történelmét és korai letelepedését őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -51.159581,
+                        -23.308259
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Moderna de Londrina",
+                  "text": "A Museu de Arte Moderna de Londrina egy modern művészeti múzeum Londrina városában.",
+                  "category": "museum",
+                  "coords": [
+                        -51.159274,
+                        -23.309622
+                  ]
+            },
+            {
+                  "name": "Teatro Marista",
+                  "text": "A Teatro Marista egy helyi színház Londrina városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180768,
+                        -23.30262
+                  ]
+            },
+            {
+                  "name": "Teatro Colégio Londrinense",
+                  "text": "A Teatro Colégio Londrinense egy színházi tér Londrina városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.170954,
+                        -23.31667
+                  ]
+            },
+            {
+                  "name": "Museu do Café",
+                  "text": "A Museum of Coffee egy múzeum Londrina városában.",
+                  "category": "museum",
+                  "coords": [
+                        -51.153367,
+                        -23.309602
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Reverendo Jonas Dias Martins",
+                  "text": "Az Anfiteatro Reverendo Jonas Dias Martins egy színházi tér Londrina városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.163496,
+                        -23.32272
+                  ]
+            },
+            {
+                  "name": "Casal de Corujas-Buraqueiras",
+                  "text": "A Casal de Corujas-Buraqueiras egy helyi látványosság Londrinában, ahol őshonos üregi baglyok láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.151039,
+                        -23.334965
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Universitário Ouro Verde",
+                  "text": "A Cine Teatro Universitário Ouro Verde egy hagyományos mozi és színház Londrina városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.15816,
+                        -23.310563
+                  ]
+            },
+            {
+                  "name": "O Passageiro",
+                  "text": "Az O Passageiro egy köztéri emlékmű Londrina városában.",
+                  "category": "historical",
+                  "coords": [
+                        -51.150075,
+                        -23.311933
+                  ]
+            },
+            {
+                  "name": "Praça Rotary",
+                  "text": "A Praça Rotary egy helyi emlékmű Londrina városában.",
+                  "category": "historical",
+                  "coords": [
+                        -51.177616,
+                        -23.314708
+                  ]
+            },
+            {
+                  "name": "Relógio de Sol",
+                  "text": "A Relógio de Sol egy emlékmű Londrina városában.",
+                  "category": "historical",
+                  "coords": [
+                        -51.150551,
+                        -23.310706
+                  ]
+            },
+            {
+                  "name": "Monumento Bíblico",
+                  "text": "A Monumento Bíblico egy emlékmű Londrina városában.",
+                  "category": "historical",
+                  "coords": [
+                        -51.157929,
+                        -23.330965
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural Clave do Sol",
+                  "text": "Az Espaço Cultural Clave do Sol egy művészeti központ Londrina városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.183547,
+                        -23.296248
+                  ]
+            },
+            {
+                  "name": "Santuário Mariano de Schoenstatt",
+                  "text": "A Santuário Mariano de Schoenstatt egy helyi látványosság Londrina városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.159755,
+                        -23.315284
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura UEL",
+                  "text": "A Casa da Cultura UEL egy művészeti központ Londrina városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.163046,
+                        -23.312675
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana",
+                  "text": "A Sacred Heart of Jesus Cathedral a város jelentős istentiszteleti helye Londrinában.",
+                  "category": "religious",
+                  "coords": [
+                        -51.159554,
+                        -23.312092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Histórico de Londrina Padre Carlos Weiss",
+                  "text": "Museu Histórico de Londrina Padre Carlos Weiss păstrează bogata istorie a așezărilor timpurii din Londrina.",
+                  "category": "museum",
+                  "coords": [
+                        -51.159581,
+                        -23.308259
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Moderna de Londrina",
+                  "text": "Museu de Arte Moderna de Londrina este un muzeu de artă modernă situat în Londrina.",
+                  "category": "museum",
+                  "coords": [
+                        -51.159274,
+                        -23.309622
+                  ]
+            },
+            {
+                  "name": "Teatro Marista",
+                  "text": "Teatro Marista este un teatru local situat în Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180768,
+                        -23.30262
+                  ]
+            },
+            {
+                  "name": "Teatro Colégio Londrinense",
+                  "text": "Teatro Colégio Londrinense este o sală de teatru din Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.170954,
+                        -23.31667
+                  ]
+            },
+            {
+                  "name": "Museu do Café",
+                  "text": "Museum of Coffee este un muzeu din Londrina.",
+                  "category": "museum",
+                  "coords": [
+                        -51.153367,
+                        -23.309602
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Reverendo Jonas Dias Martins",
+                  "text": "Anfiteatro Reverendo Jonas Dias Martins este un spațiu teatral situat în Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.163496,
+                        -23.32272
+                  ]
+            },
+            {
+                  "name": "Casal de Corujas-Buraqueiras",
+                  "text": "Casal de Corujas-Buraqueiras este o atracție locală din Londrina cu bufnițe de vizuină native.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.151039,
+                        -23.334965
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Universitário Ouro Verde",
+                  "text": "Cine Teatro Universitário Ouro Verde este un cinematograf și teatru tradițional din Londrina.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.15816,
+                        -23.310563
+                  ]
+            },
+            {
+                  "name": "O Passageiro",
+                  "text": "O Passageiro este un monument public situat în orașul Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.150075,
+                        -23.311933
+                  ]
+            },
+            {
+                  "name": "Praça Rotary",
+                  "text": "Praça Rotary este un monument local situat în Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.177616,
+                        -23.314708
+                  ]
+            },
+            {
+                  "name": "Relógio de Sol",
+                  "text": "Relógio de Sol este un monument situat în Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.150551,
+                        -23.310706
+                  ]
+            },
+            {
+                  "name": "Monumento Bíblico",
+                  "text": "Monumento Bíblico este un monument situat în Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.157929,
+                        -23.330965
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural Clave do Sol",
+                  "text": "Espaço Cultural Clave do Sol este un centru de artă situat în Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.183547,
+                        -23.296248
+                  ]
+            },
+            {
+                  "name": "Santuário Mariano de Schoenstatt",
+                  "text": "Santuário Mariano de Schoenstatt este o atracție locală situată în Londrina.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.159755,
+                        -23.315284
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura UEL",
+                  "text": "Casa da Cultura UEL este un centru de artă din Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.163046,
+                        -23.312675
+                  ]
+            },
+            {
+                  "name": "Catedral Metropolitana",
+                  "text": "Sacred Heart of Jesus Cathedral servește ca lăcaș de cult important în Londrina.",
+                  "category": "religious",
+                  "coords": [
+                        -51.159554,
+                        -23.312092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Histórico de Londrina Padre Carlos Weiss",
+                  "text": "Museu Histórico de Londrina Padre Carlos Weiss preserves the rich history and early settlement of Londrina.",
+                  "category": "museum",
+                  "coords": [
+                        -51.159581,
+                        -23.308259
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Moderna de Londrina",
+                  "text": "Museu de Arte Moderna de Londrina is a modern art museum located in Londrina.",
+                  "category": "museum",
+                  "coords": [
+                        -51.159274,
+                        -23.309622
+                  ]
+            },
+            {
+                  "name": "Teatro Marista",
+                  "text": "Teatro Marista is a local theatre located in Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180768,
+                        -23.30262
+                  ]
+            },
+            {
+                  "name": "Teatro Colégio Londrinense",
+                  "text": "Teatro Colégio Londrinense is a theatre venue situated in Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.170954,
+                        -23.31667
+                  ]
+            },
+            {
+                  "name": "Museum of Coffee",
+                  "text": "Museum of Coffee is a museum situated in Londrina.",
+                  "category": "museum",
+                  "coords": [
+                        -51.153367,
+                        -23.309602
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Reverendo Jonas Dias Martins",
+                  "text": "Anfiteatro Reverendo Jonas Dias Martins is a theatre space situated in Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.163496,
+                        -23.32272
+                  ]
+            },
+            {
+                  "name": "Casal de Corujas-Buraqueiras",
+                  "text": "Casal de Corujas-Buraqueiras is a local attraction in Londrina featuring native burrowing owls.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.151039,
+                        -23.334965
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Universitário Ouro Verde",
+                  "text": "Cine Teatro Universitário Ouro Verde is a traditional cinema and theatre located in Londrina.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.15816,
+                        -23.310563
+                  ]
+            },
+            {
+                  "name": "O Passageiro",
+                  "text": "O Passageiro is a public monument situated in the city of Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.150075,
+                        -23.311933
+                  ]
+            },
+            {
+                  "name": "Praça Rotary",
+                  "text": "Praça Rotary is a local monument situated in Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.177616,
+                        -23.314708
+                  ]
+            },
+            {
+                  "name": "Relógio de Sol",
+                  "text": "Relógio de Sol is a monument located in Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.150551,
+                        -23.310706
+                  ]
+            },
+            {
+                  "name": "Monumento Bíblico",
+                  "text": "Monumento Bíblico is a monument located in Londrina.",
+                  "category": "historical",
+                  "coords": [
+                        -51.157929,
+                        -23.330965
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural Clave do Sol",
+                  "text": "Espaço Cultural Clave do Sol is an arts centre located in Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.183547,
+                        -23.296248
+                  ]
+            },
+            {
+                  "name": "Santuário Mariano de Schoenstatt",
+                  "text": "Santuário Mariano de Schoenstatt is a local attraction located in Londrina.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.159755,
+                        -23.315284
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura UEL",
+                  "text": "Casa da Cultura UEL is an arts centre situated in Londrina.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.163046,
+                        -23.312675
+                  ]
+            },
+            {
+                  "name": "Sacred Heart of Jesus Cathedral",
+                  "text": "Sacred Heart of Jesus Cathedral serves as an important place of worship in Londrina.",
+                  "category": "religious",
+                  "coords": [
+                        -51.159554,
+                        -23.312092
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-PR",
     coords: [-51.1628, -23.3103],
@@ -1154,7 +7526,628 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Une ville universitaire florissante du nord du Paraná, conçue à l'origine par des investisseurs britanniques pour la culture du café.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/londrina-cities-v2.webp"},
   {
-    id: "juiz-de-fora-cities-v2",
+    id: "juiz-de-fora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Ferroviário",
+                  "text": "Eisenbahnmuseum in Juiz de Fora.",
+                  "category": "museum",
+                  "coords": [
+                        -43.343788,
+                        -21.758883
+                  ]
+            },
+            {
+                  "name": "Museu Mariano Procópio",
+                  "text": "Museum in Juiz de Fora, bekannt für seine historischen Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        -43.360055,
+                        -21.746146
+                  ]
+            },
+            {
+                  "name": "Forum da Cultura",
+                  "text": "Theater und kulturelles Forum in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.351162,
+                        -21.763413
+                  ]
+            },
+            {
+                  "name": "Teatro Solar",
+                  "text": "Theater in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.354055,
+                        -21.7726
+                  ]
+            },
+            {
+                  "name": "Cine-Theatro Central",
+                  "text": "Historisches Theater in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.347892,
+                        -21.761578
+                  ]
+            },
+            {
+                  "name": "MAMM Museu de Arte Murilo Mendes",
+                  "text": "Kunstmuseum in Juiz de Fora.",
+                  "category": "museum",
+                  "coords": [
+                        -43.352213,
+                        -21.756135
+                  ]
+            },
+            {
+                  "name": "Museu do Crédito Real De Minas Gerais",
+                  "text": "Museum zur Geschichte des Finanzwesens in Juiz de Fora.",
+                  "category": "museum",
+                  "coords": [
+                        -43.346422,
+                        -21.760417
+                  ]
+            },
+            {
+                  "name": "Parque Halfeld",
+                  "text": "Park im Zentrum von Juiz de Fora.",
+                  "category": "park",
+                  "coords": [
+                        -43.350514,
+                        -21.76109
+                  ]
+            },
+            {
+                  "name": "Mirante do Morro do Cristo",
+                  "text": "Aussichtspunkt in Juiz de Fora.",
+                  "category": "natural",
+                  "coords": [
+                        -43.3573,
+                        -21.763717
+                  ]
+            },
+            {
+                  "name": "Mirante de São Bernardo",
+                  "text": "Aussichtspunkt in Juiz de Fora.",
+                  "category": "natural",
+                  "coords": [
+                        -43.339834,
+                        -21.758686
+                  ]
+            },
+            {
+                  "name": "IAD",
+                  "text": "Kulturzentrum in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.37441,
+                        -21.778885
+                  ]
+            },
+            {
+                  "name": "Centenário dos Batistas Mineiros 1889-1989",
+                  "text": "Denkmal in Juiz de Fora.",
+                  "category": "historical",
+                  "coords": [
+                        -43.350904,
+                        -21.7531
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Bernardo Mascarenhas",
+                  "text": "Kulturzentrum in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.344664,
+                        -21.761284
+                  ]
+            },
+            {
+                  "name": "Monumento Tancredo Neves",
+                  "text": "Denkmal für Tancredo Neves in Juiz de Fora.",
+                  "category": "historical",
+                  "coords": [
+                        -43.344424,
+                        -21.757859
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Dnar Rocha",
+                  "text": "Kulturzentrum in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.360832,
+                        -21.747843
+                  ]
+            },
+            {
+                  "name": "Monumento à Imigração Alemã",
+                  "text": "Denkmal zur deutschen Einwanderung in Juiz de Fora.",
+                  "category": "historical",
+                  "coords": [
+                        -43.373774,
+                        -21.754503
+                  ]
+            },
+            {
+                  "name": "Igreja Catedral de Juiz de Fora",
+                  "text": "Kathedrale in Juiz de Fora.",
+                  "category": "religious",
+                  "coords": [
+                        -43.350116,
+                        -21.764027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Ferroviário",
+                  "text": "Vasúti múzeum Juiz de Forában.",
+                  "category": "museum",
+                  "coords": [
+                        -43.343788,
+                        -21.758883
+                  ]
+            },
+            {
+                  "name": "Museu Mariano Procópio",
+                  "text": "Múzeum Juiz de Forában, amely történelmi gyűjteményeiről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        -43.360055,
+                        -21.746146
+                  ]
+            },
+            {
+                  "name": "Forum da Cultura",
+                  "text": "Színház és kulturális fórum Juiz de Forában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.351162,
+                        -21.763413
+                  ]
+            },
+            {
+                  "name": "Teatro Solar",
+                  "text": "Színház Juiz de Forában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.354055,
+                        -21.7726
+                  ]
+            },
+            {
+                  "name": "Cine-Theatro Central",
+                  "text": "Történelmi színház Juiz de Forában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.347892,
+                        -21.761578
+                  ]
+            },
+            {
+                  "name": "MAMM Museu de Arte Murilo Mendes",
+                  "text": "Művészeti múzeum Juiz de Forában.",
+                  "category": "museum",
+                  "coords": [
+                        -43.352213,
+                        -21.756135
+                  ]
+            },
+            {
+                  "name": "Museu do Crédito Real De Minas Gerais",
+                  "text": "A pénzügytörténettel foglalkozó múzeum Juiz de Forában.",
+                  "category": "museum",
+                  "coords": [
+                        -43.346422,
+                        -21.760417
+                  ]
+            },
+            {
+                  "name": "Parque Halfeld",
+                  "text": "Park Juiz de Fora központjában.",
+                  "category": "park",
+                  "coords": [
+                        -43.350514,
+                        -21.76109
+                  ]
+            },
+            {
+                  "name": "Mirante do Morro do Cristo",
+                  "text": "Kilátó Juiz de Forában.",
+                  "category": "natural",
+                  "coords": [
+                        -43.3573,
+                        -21.763717
+                  ]
+            },
+            {
+                  "name": "Mirante de São Bernardo",
+                  "text": "Kilátó Juiz de Forában.",
+                  "category": "natural",
+                  "coords": [
+                        -43.339834,
+                        -21.758686
+                  ]
+            },
+            {
+                  "name": "IAD",
+                  "text": "Kulturális központ Juiz de Forában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.37441,
+                        -21.778885
+                  ]
+            },
+            {
+                  "name": "Centenário dos Batistas Mineiros 1889-1989",
+                  "text": "Emlékmű Juiz de Forában.",
+                  "category": "historical",
+                  "coords": [
+                        -43.350904,
+                        -21.7531
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Bernardo Mascarenhas",
+                  "text": "Kulturális központ Juiz de Forában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.344664,
+                        -21.761284
+                  ]
+            },
+            {
+                  "name": "Monumento Tancredo Neves",
+                  "text": "Tancredo Neves emlékműve Juiz de Forában.",
+                  "category": "historical",
+                  "coords": [
+                        -43.344424,
+                        -21.757859
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Dnar Rocha",
+                  "text": "Kulturális központ Juiz de Forában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.360832,
+                        -21.747843
+                  ]
+            },
+            {
+                  "name": "Monumento à Imigração Alemã",
+                  "text": "A német bevándorlás emlékműve Juiz de Forában.",
+                  "category": "historical",
+                  "coords": [
+                        -43.373774,
+                        -21.754503
+                  ]
+            },
+            {
+                  "name": "Igreja Catedral de Juiz de Fora",
+                  "text": "Katedrális Juiz de Forában.",
+                  "category": "religious",
+                  "coords": [
+                        -43.350116,
+                        -21.764027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Ferroviário",
+                  "text": "Muzeu feroviar în Juiz de Fora.",
+                  "category": "museum",
+                  "coords": [
+                        -43.343788,
+                        -21.758883
+                  ]
+            },
+            {
+                  "name": "Museu Mariano Procópio",
+                  "text": "Muzeu în Juiz de Fora, cunoscut pentru colecțiile sale istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -43.360055,
+                        -21.746146
+                  ]
+            },
+            {
+                  "name": "Forum da Cultura",
+                  "text": "Teatru și forum cultural în Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.351162,
+                        -21.763413
+                  ]
+            },
+            {
+                  "name": "Teatro Solar",
+                  "text": "Teatru în Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.354055,
+                        -21.7726
+                  ]
+            },
+            {
+                  "name": "Cine-Theatro Central",
+                  "text": "Teatru istoric în Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.347892,
+                        -21.761578
+                  ]
+            },
+            {
+                  "name": "MAMM Museu de Arte Murilo Mendes",
+                  "text": "Muzeu de artă în Juiz de Fora.",
+                  "category": "museum",
+                  "coords": [
+                        -43.352213,
+                        -21.756135
+                  ]
+            },
+            {
+                  "name": "Museu do Crédito Real De Minas Gerais",
+                  "text": "Muzeu dedicat istoriei finanțelor în Juiz de Fora.",
+                  "category": "museum",
+                  "coords": [
+                        -43.346422,
+                        -21.760417
+                  ]
+            },
+            {
+                  "name": "Parque Halfeld",
+                  "text": "Parc în centrul orașului Juiz de Fora.",
+                  "category": "park",
+                  "coords": [
+                        -43.350514,
+                        -21.76109
+                  ]
+            },
+            {
+                  "name": "Mirante do Morro do Cristo",
+                  "text": "Punct de belvedere în Juiz de Fora.",
+                  "category": "natural",
+                  "coords": [
+                        -43.3573,
+                        -21.763717
+                  ]
+            },
+            {
+                  "name": "Mirante de São Bernardo",
+                  "text": "Punct de belvedere în Juiz de Fora.",
+                  "category": "natural",
+                  "coords": [
+                        -43.339834,
+                        -21.758686
+                  ]
+            },
+            {
+                  "name": "IAD",
+                  "text": "Centru cultural în Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.37441,
+                        -21.778885
+                  ]
+            },
+            {
+                  "name": "Centenário dos Batistas Mineiros 1889-1989",
+                  "text": "Monument în Juiz de Fora.",
+                  "category": "historical",
+                  "coords": [
+                        -43.350904,
+                        -21.7531
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Bernardo Mascarenhas",
+                  "text": "Centru cultural în Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.344664,
+                        -21.761284
+                  ]
+            },
+            {
+                  "name": "Monumento Tancredo Neves",
+                  "text": "Monument dedicat lui Tancredo Neves în Juiz de Fora.",
+                  "category": "historical",
+                  "coords": [
+                        -43.344424,
+                        -21.757859
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Dnar Rocha",
+                  "text": "Centru cultural în Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.360832,
+                        -21.747843
+                  ]
+            },
+            {
+                  "name": "Monumento à Imigração Alemã",
+                  "text": "Monument dedicat imigrației germane în Juiz de Fora.",
+                  "category": "historical",
+                  "coords": [
+                        -43.373774,
+                        -21.754503
+                  ]
+            },
+            {
+                  "name": "Igreja Catedral de Juiz de Fora",
+                  "text": "Catedrală în Juiz de Fora.",
+                  "category": "religious",
+                  "coords": [
+                        -43.350116,
+                        -21.764027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Railway Museum",
+                  "text": "Railway museum in Juiz de Fora.",
+                  "category": "museum",
+                  "coords": [
+                        -43.343788,
+                        -21.758883
+                  ]
+            },
+            {
+                  "name": "Mariano Procópio Museum",
+                  "text": "Museum in Juiz de Fora, known for its historical collections.",
+                  "category": "museum",
+                  "coords": [
+                        -43.360055,
+                        -21.746146
+                  ]
+            },
+            {
+                  "name": "Forum da Cultura",
+                  "text": "Theatre and cultural forum in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.351162,
+                        -21.763413
+                  ]
+            },
+            {
+                  "name": "Teatro Solar",
+                  "text": "Theatre in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.354055,
+                        -21.7726
+                  ]
+            },
+            {
+                  "name": "Cine-Theatro Central",
+                  "text": "Historic theatre in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.347892,
+                        -21.761578
+                  ]
+            },
+            {
+                  "name": "MAMM Museu de Arte Murilo Mendes",
+                  "text": "Art museum in Juiz de Fora.",
+                  "category": "museum",
+                  "coords": [
+                        -43.352213,
+                        -21.756135
+                  ]
+            },
+            {
+                  "name": "Museu do Crédito Real De Minas Gerais",
+                  "text": "Museum dedicated to the history of finance in Juiz de Fora.",
+                  "category": "museum",
+                  "coords": [
+                        -43.346422,
+                        -21.760417
+                  ]
+            },
+            {
+                  "name": "Parque Halfeld",
+                  "text": "Park in the centre of Juiz de Fora.",
+                  "category": "park",
+                  "coords": [
+                        -43.350514,
+                        -21.76109
+                  ]
+            },
+            {
+                  "name": "Mirante do Morro do Cristo",
+                  "text": "Viewpoint in Juiz de Fora.",
+                  "category": "natural",
+                  "coords": [
+                        -43.3573,
+                        -21.763717
+                  ]
+            },
+            {
+                  "name": "Mirante de São Bernardo",
+                  "text": "Viewpoint in Juiz de Fora.",
+                  "category": "natural",
+                  "coords": [
+                        -43.339834,
+                        -21.758686
+                  ]
+            },
+            {
+                  "name": "IAD",
+                  "text": "Arts centre in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.37441,
+                        -21.778885
+                  ]
+            },
+            {
+                  "name": "Centenário dos Batistas Mineiros 1889-1989",
+                  "text": "Monument in Juiz de Fora.",
+                  "category": "historical",
+                  "coords": [
+                        -43.350904,
+                        -21.7531
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Bernardo Mascarenhas",
+                  "text": "Arts centre in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.344664,
+                        -21.761284
+                  ]
+            },
+            {
+                  "name": "Monumento Tancredo Neves",
+                  "text": "Monument to Tancredo Neves in Juiz de Fora.",
+                  "category": "historical",
+                  "coords": [
+                        -43.344424,
+                        -21.757859
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Dnar Rocha",
+                  "text": "Arts centre in Juiz de Fora.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.360832,
+                        -21.747843
+                  ]
+            },
+            {
+                  "name": "Monumento à Imigração Alemã",
+                  "text": "Monument dedicated to German immigration in Juiz de Fora.",
+                  "category": "historical",
+                  "coords": [
+                        -43.373774,
+                        -21.754503
+                  ]
+            },
+            {
+                  "name": "Igreja Catedral de Juiz de Fora",
+                  "text": "Cathedral in Juiz de Fora.",
+                  "category": "religious",
+                  "coords": [
+                        -43.350116,
+                        -21.764027
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-MG",
     coords: [-43.3506, -21.7664],
@@ -1279,7 +8272,1132 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["La ville la plus peuplée de l'État d'Espírito Santo, avec des plages importantes et une industrie forte.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/serra-cities-v2.webp"},
   {
-    id: "caxias-do-sul-cities-v2",
+    id: "caxias-do-sul-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arquivo Histórico Municipal João Spadari Adami",
+                  "text": "Historisches Archiv und Museum in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.164603,
+                        -29.167722
+                  ]
+            },
+            {
+                  "name": "Memorial Zambelli",
+                  "text": "Museum in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.198795,
+                        -29.148761
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Stadttheater in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180254,
+                        -29.168462
+                  ]
+            },
+            {
+                  "name": "Casa Amarela",
+                  "text": "Museum in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.152547,
+                        -29.161899
+                  ]
+            },
+            {
+                  "name": "Teatro Murialdo",
+                  "text": "Theater in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.1793,
+                        -29.162587
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Caxias do Sul",
+                  "text": "Städtisches Museum in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.181251,
+                        -29.166469
+                  ]
+            },
+            {
+                  "name": "Museu dos Ex-combatentes da FEB",
+                  "text": "Museum zur Geschichte der Veteranen in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.181731,
+                        -29.163436
+                  ]
+            },
+            {
+                  "name": "Museu da Casa de Pedra",
+                  "text": "Museum in einem historischen Steinhaus in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.200237,
+                        -29.15403
+                  ]
+            },
+            {
+                  "name": "Museu de Ciências Naturais - UCS",
+                  "text": "Naturkundemuseum in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.152816,
+                        -29.163514
+                  ]
+            },
+            {
+                  "name": "CTG Paixão Côrtes",
+                  "text": "Traditionelles Kulturzentrum in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.168379,
+                        -29.146742
+                  ]
+            },
+            {
+                  "name": "CTG Rincão da Lealdade",
+                  "text": "Kulturzentrum für gaúcho-Traditionen in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.156364,
+                        -29.161941
+                  ]
+            },
+            {
+                  "name": "CTG Sinuelo",
+                  "text": "Kulturzentrum zur Pflege gaúcho-Traditionen in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.169773,
+                        -29.173578
+                  ]
+            },
+            {
+                  "name": "CTG Campo dos Bugres",
+                  "text": "Kulturzentrum für regionale Traditionen in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.154061,
+                        -29.162273
+                  ]
+            },
+            {
+                  "name": "Tem Gente Teatrando - Espaço Cultural",
+                  "text": "Theatralischer Kulturraum in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.187721,
+                        -29.173451
+                  ]
+            },
+            {
+                  "name": "Monumento a Itália",
+                  "text": "Italien-Denkmal in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.188367,
+                        -29.168136
+                  ]
+            },
+            {
+                  "name": "Busto de Abramo Eberle",
+                  "text": "Büste von Abramo Eberle in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.159082,
+                        -29.1674
+                  ]
+            },
+            {
+                  "name": "Ogum",
+                  "text": "Monkument für Ogum in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.203236,
+                        -29.183426
+                  ]
+            },
+            {
+                  "name": "Rotary Club International",
+                  "text": "Denkmal für den Rotary Club in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.204268,
+                        -29.170517
+                  ]
+            },
+            {
+                  "name": "CTG Rodeio Minuano",
+                  "text": "Kulturzentrum für regionale Traditionen in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.167211,
+                        -29.155279
+                  ]
+            },
+            {
+                  "name": "Monumento a Dante Alighieri",
+                  "text": "Denkmal für Dante Alighieri in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.179047,
+                        -29.168258
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Beltrão de Queiroz",
+                  "text": "Kulturzentrum Beltrão de Queiroz in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.19458,
+                        -29.165858
+                  ]
+            },
+            {
+                  "name": "Florenza Motel (Demolido)",
+                  "text": "Ruinen des ehemaligen Florenza Motels in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.184206,
+                        -29.158799
+                  ]
+            },
+            {
+                  "name": "Cápsula do Tempo",
+                  "text": "Zeitkapsel in Caxias do Sul.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.177604,
+                        -29.172457
+                  ]
+            },
+            {
+                  "name": "Monumento 150 anos de Imigração Italiana [em construção]",
+                  "text": "Denkmal zum 150. Jahrestag der italienischen Einwanderung in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.185139,
+                        -29.171096
+                  ]
+            },
+            {
+                  "name": "Letreiro da Festa da Uva",
+                  "text": "Wahrzeichen der Festa da Uva in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.197623,
+                        -29.148178
+                  ]
+            },
+            {
+                  "name": "Monumento ao Imigrante",
+                  "text": "Denkmal zu Ehren der Einwanderer in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.15815,
+                        -29.167407
+                  ]
+            },
+            {
+                  "name": "Centro Municipal de Cultura Henrique Ordovás Filho",
+                  "text": "Städtisches Kulturzentrum in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180199,
+                        -29.176274
+                  ]
+            },
+            {
+                  "name": "Galpão Crioulo - UCS",
+                  "text": "Kulturraum an der Universität (UCS) in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.148636,
+                        -29.164813
+                  ]
+            },
+            {
+                  "name": "Centro de Tradições Gaúchas Heróis Farroupilhas",
+                  "text": "Kulturzentrum für gaúcho-Traditionen in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.196119,
+                        -29.184372
+                  ]
+            },
+            {
+                  "name": "Capela do Santo Sepulcro",
+                  "text": "Kapelle des Heiligen Grabes in Caxias do Sul.",
+                  "category": "religious",
+                  "coords": [
+                        -51.168239,
+                        -29.167777
+                  ]
+            },
+            {
+                  "name": "Igreja São Pelegrino",
+                  "text": "Kirche São Pelegrino in Caxias do Sul, bekannt für ihre Kunstwerke.",
+                  "category": "religious",
+                  "coords": [
+                        -51.189594,
+                        -29.169128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arquivo Histórico Municipal João Spadari Adami",
+                  "text": "Történelmi levéltár és múzeum Caxias do Sulban.",
+                  "category": "museum",
+                  "coords": [
+                        -51.164603,
+                        -29.167722
+                  ]
+            },
+            {
+                  "name": "Memorial Zambelli",
+                  "text": "Múzeum Caxias do Sulban.",
+                  "category": "museum",
+                  "coords": [
+                        -51.198795,
+                        -29.148761
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Városi színház Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180254,
+                        -29.168462
+                  ]
+            },
+            {
+                  "name": "Casa Amarela",
+                  "text": "Múzeum Caxias do Sulban.",
+                  "category": "museum",
+                  "coords": [
+                        -51.152547,
+                        -29.161899
+                  ]
+            },
+            {
+                  "name": "Teatro Murialdo",
+                  "text": "Színház Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.1793,
+                        -29.162587
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Caxias do Sul",
+                  "text": "Városi múzeum Caxias do Sulban.",
+                  "category": "museum",
+                  "coords": [
+                        -51.181251,
+                        -29.166469
+                  ]
+            },
+            {
+                  "name": "Museu dos Ex-combatentes da FEB",
+                  "text": "A veteránok történetével foglalkozó múzeum Caxias do Sulban.",
+                  "category": "museum",
+                  "coords": [
+                        -51.181731,
+                        -29.163436
+                  ]
+            },
+            {
+                  "name": "Museu da Casa de Pedra",
+                  "text": "Múzeum egy történelmi kőházban Caxias do Sulban.",
+                  "category": "museum",
+                  "coords": [
+                        -51.200237,
+                        -29.15403
+                  ]
+            },
+            {
+                  "name": "Museu de Ciências Naturais - UCS",
+                  "text": "Természettudományi múzeum Caxias do Sulban.",
+                  "category": "museum",
+                  "coords": [
+                        -51.152816,
+                        -29.163514
+                  ]
+            },
+            {
+                  "name": "CTG Paixão Côrtes",
+                  "text": "Hagyományőrző kulturális központ Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.168379,
+                        -29.146742
+                  ]
+            },
+            {
+                  "name": "CTG Rincão da Lealdade",
+                  "text": "Gaúcho kulturális központ Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.156364,
+                        -29.161941
+                  ]
+            },
+            {
+                  "name": "CTG Sinuelo",
+                  "text": "Gaúcho hagyományokat ápoló központ Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.169773,
+                        -29.173578
+                  ]
+            },
+            {
+                  "name": "CTG Campo dos Bugres",
+                  "text": "Regionális hagyományokat bemutató központ Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.154061,
+                        -29.162273
+                  ]
+            },
+            {
+                  "name": "Tem Gente Teatrando - Espaço Cultural",
+                  "text": "Színházi kulturális tér Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.187721,
+                        -29.173451
+                  ]
+            },
+            {
+                  "name": "Monumento a Itália",
+                  "text": "Olaszország-emlékmű Caxias do Sulban.",
+                  "category": "historical",
+                  "coords": [
+                        -51.188367,
+                        -29.168136
+                  ]
+            },
+            {
+                  "name": "Busto de Abramo Eberle",
+                  "text": "Abramo Eberle mellszobra Caxias do Sulban.",
+                  "category": "historical",
+                  "coords": [
+                        -51.159082,
+                        -29.1674
+                  ]
+            },
+            {
+                  "name": "Ogum",
+                  "text": "Ogum-szobor Caxias do Sulban.",
+                  "category": "historical",
+                  "coords": [
+                        -51.203236,
+                        -29.183426
+                  ]
+            },
+            {
+                  "name": "Rotary Club International",
+                  "text": "Rotary Club-emlékmű Caxias do Sulban.",
+                  "category": "historical",
+                  "coords": [
+                        -51.204268,
+                        -29.170517
+                  ]
+            },
+            {
+                  "name": "CTG Rodeio Minuano",
+                  "text": "Regionális hagyományokat ápoló központ Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.167211,
+                        -29.155279
+                  ]
+            },
+            {
+                  "name": "Monumento a Dante Alighieri",
+                  "text": "Dante Alighieri-emlékmű Caxias do Sulban.",
+                  "category": "historical",
+                  "coords": [
+                        -51.179047,
+                        -29.168258
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Beltrão de Queiroz",
+                  "text": "Beltrão de Queiroz kulturális központ Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.19458,
+                        -29.165858
+                  ]
+            },
+            {
+                  "name": "Florenza Motel (Demolido)",
+                  "text": "Az egykori Florenza Motel romjai Caxias do Sulban.",
+                  "category": "historical",
+                  "coords": [
+                        -51.184206,
+                        -29.158799
+                  ]
+            },
+            {
+                  "name": "Cápsula do Tempo",
+                  "text": "Időkapszula Caxias do Sulban.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.177604,
+                        -29.172457
+                  ]
+            },
+            {
+                  "name": "Monumento 150 anos de Imigração Italiana [em construção]",
+                  "text": "Az olasz bevándorlás 150. évfordulójának emlékműve Caxias do Sulban.",
+                  "category": "historical",
+                  "coords": [
+                        -51.185139,
+                        -29.171096
+                  ]
+            },
+            {
+                  "name": "Letreiro da Festa da Uva",
+                  "text": "A Festa da Uva jelképe Caxias do Sulban.",
+                  "category": "historical",
+                  "coords": [
+                        -51.197623,
+                        -29.148178
+                  ]
+            },
+            {
+                  "name": "Monumento ao Imigrante",
+                  "text": "A bevándorlók tiszteletére állított emlékmű Caxias do Sulban.",
+                  "category": "historical",
+                  "coords": [
+                        -51.15815,
+                        -29.167407
+                  ]
+            },
+            {
+                  "name": "Centro Municipal de Cultura Henrique Ordovás Filho",
+                  "text": "Városi kulturális központ Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180199,
+                        -29.176274
+                  ]
+            },
+            {
+                  "name": "Galpão Crioulo - UCS",
+                  "text": "Kulturális tér az egyetemen (UCS) Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.148636,
+                        -29.164813
+                  ]
+            },
+            {
+                  "name": "Centro de Tradições Gaúchas Heróis Farroupilhas",
+                  "text": "Gaúcho kulturális központ Caxias do Sulban.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.196119,
+                        -29.184372
+                  ]
+            },
+            {
+                  "name": "Capela do Santo Sepulcro",
+                  "text": "Szent Sír-kápolna Caxias do Sulban.",
+                  "category": "religious",
+                  "coords": [
+                        -51.168239,
+                        -29.167777
+                  ]
+            },
+            {
+                  "name": "Igreja São Pelegrino",
+                  "text": "São Pelegrino-templom Caxias do Sulban, műalkotásairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -51.189594,
+                        -29.169128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arquivo Histórico Municipal João Spadari Adami",
+                  "text": "Arhivă istorică și muzeu în Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.164603,
+                        -29.167722
+                  ]
+            },
+            {
+                  "name": "Memorial Zambelli",
+                  "text": "Muzeu în Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.198795,
+                        -29.148761
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatrul municipal din Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180254,
+                        -29.168462
+                  ]
+            },
+            {
+                  "name": "Casa Amarela",
+                  "text": "Muzeu în Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.152547,
+                        -29.161899
+                  ]
+            },
+            {
+                  "name": "Teatro Murialdo",
+                  "text": "Teatru în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.1793,
+                        -29.162587
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Caxias do Sul",
+                  "text": "Muzeu municipal în Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.181251,
+                        -29.166469
+                  ]
+            },
+            {
+                  "name": "Museu dos Ex-combatentes da FEB",
+                  "text": "Muzeu dedicat istoriei veteranilor în Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.181731,
+                        -29.163436
+                  ]
+            },
+            {
+                  "name": "Museu da Casa de Pedra",
+                  "text": "Muzeu într-o casă istorică din piatră în Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.200237,
+                        -29.15403
+                  ]
+            },
+            {
+                  "name": "Museu de Ciências Naturais - UCS",
+                  "text": "Muzeu de științe naturale în Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.152816,
+                        -29.163514
+                  ]
+            },
+            {
+                  "name": "CTG Paixão Côrtes",
+                  "text": "Centru cultural tradițional în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.168379,
+                        -29.146742
+                  ]
+            },
+            {
+                  "name": "CTG Rincão da Lealdade",
+                  "text": "Centru cultural pentru tradițiile gaúcho în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.156364,
+                        -29.161941
+                  ]
+            },
+            {
+                  "name": "CTG Sinuelo",
+                  "text": "Centru cultural pentru păstrarea tradițiilor gaúcho în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.169773,
+                        -29.173578
+                  ]
+            },
+            {
+                  "name": "CTG Campo dos Bugres",
+                  "text": "Centru cultural pentru tradițiile regionale în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.154061,
+                        -29.162273
+                  ]
+            },
+            {
+                  "name": "Tem Gente Teatrando - Espaço Cultural",
+                  "text": "Spațiu cultural teatral în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.187721,
+                        -29.173451
+                  ]
+            },
+            {
+                  "name": "Monumento a Itália",
+                  "text": "Monument dedicat Italiei în Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.188367,
+                        -29.168136
+                  ]
+            },
+            {
+                  "name": "Busto de Abramo Eberle",
+                  "text": "Bustul lui Abramo Eberle în Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.159082,
+                        -29.1674
+                  ]
+            },
+            {
+                  "name": "Ogum",
+                  "text": "Monument dedicat lui Ogum în Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.203236,
+                        -29.183426
+                  ]
+            },
+            {
+                  "name": "Rotary Club International",
+                  "text": "Monument dedicat Rotary Club în Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.204268,
+                        -29.170517
+                  ]
+            },
+            {
+                  "name": "CTG Rodeio Minuano",
+                  "text": "Centru cultural pentru tradițiile locale în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.167211,
+                        -29.155279
+                  ]
+            },
+            {
+                  "name": "Monumento a Dante Alighieri",
+                  "text": "Monument dedicat lui Dante Alighieri în Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.179047,
+                        -29.168258
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Beltrão de Queiroz",
+                  "text": "Centru cultural Beltrão de Queiroz în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.19458,
+                        -29.165858
+                  ]
+            },
+            {
+                  "name": "Florenza Motel (Demolido)",
+                  "text": "Ruinele fostului motel Florenza în Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.184206,
+                        -29.158799
+                  ]
+            },
+            {
+                  "name": "Cápsula do Tempo",
+                  "text": "Capsulă a timpului în Caxias do Sul.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.177604,
+                        -29.172457
+                  ]
+            },
+            {
+                  "name": "Monumento 150 anos de Imigração Italiana [em construção]",
+                  "text": "Monument dedicat a 150-a aniversare a imigrației italiene în Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.185139,
+                        -29.171096
+                  ]
+            },
+            {
+                  "name": "Letreiro da Festa da Uva",
+                  "text": "Simbolul festivalului Festa da Uva în Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.197623,
+                        -29.148178
+                  ]
+            },
+            {
+                  "name": "Monumento ao Imigrante",
+                  "text": "Monument în onoarea imigranților în Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.15815,
+                        -29.167407
+                  ]
+            },
+            {
+                  "name": "Centro Municipal de Cultura Henrique Ordovás Filho",
+                  "text": "Centru municipal de cultură în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180199,
+                        -29.176274
+                  ]
+            },
+            {
+                  "name": "Galpão Crioulo - UCS",
+                  "text": "Spațiu cultural în cadrul universității (UCS) în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.148636,
+                        -29.164813
+                  ]
+            },
+            {
+                  "name": "Centro de Tradições Gaúchas Heróis Farroupilhas",
+                  "text": "Centru cultural dedicat tradițiilor gaúcho în Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.196119,
+                        -29.184372
+                  ]
+            },
+            {
+                  "name": "Capela do Santo Sepulcro",
+                  "text": "Capela Sfântului Mormânt în Caxias do Sul.",
+                  "category": "religious",
+                  "coords": [
+                        -51.168239,
+                        -29.167777
+                  ]
+            },
+            {
+                  "name": "Igreja São Pelegrino",
+                  "text": "Biserica São Pelegrino în Caxias do Sul, cunoscută pentru operele sale de artă.",
+                  "category": "religious",
+                  "coords": [
+                        -51.189594,
+                        -29.169128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arquivo Histórico Municipal João Spadari Adami",
+                  "text": "Historical archive and museum in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.164603,
+                        -29.167722
+                  ]
+            },
+            {
+                  "name": "Memorial Zambelli",
+                  "text": "Museum in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.198795,
+                        -29.148761
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Municipal theatre in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180254,
+                        -29.168462
+                  ]
+            },
+            {
+                  "name": "Casa Amarela",
+                  "text": "Museum in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.152547,
+                        -29.161899
+                  ]
+            },
+            {
+                  "name": "Teatro Murialdo",
+                  "text": "Theatre in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.1793,
+                        -29.162587
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Caxias do Sul",
+                  "text": "Municipal museum in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.181251,
+                        -29.166469
+                  ]
+            },
+            {
+                  "name": "Museu dos Ex-combatentes da FEB",
+                  "text": "Museum dedicated to veteran history in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.181731,
+                        -29.163436
+                  ]
+            },
+            {
+                  "name": "Museu da Casa de Pedra",
+                  "text": "Museum in a historic stone house in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.200237,
+                        -29.15403
+                  ]
+            },
+            {
+                  "name": "Museu de Ciências Naturais - UCS",
+                  "text": "Natural history museum in Caxias do Sul.",
+                  "category": "museum",
+                  "coords": [
+                        -51.152816,
+                        -29.163514
+                  ]
+            },
+            {
+                  "name": "CTG Paixão Côrtes",
+                  "text": "Traditional cultural centre in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.168379,
+                        -29.146742
+                  ]
+            },
+            {
+                  "name": "CTG Rincão da Lealdade",
+                  "text": "Gaúcho cultural centre in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.156364,
+                        -29.161941
+                  ]
+            },
+            {
+                  "name": "CTG Sinuelo",
+                  "text": "Centre for preserving gaúcho traditions in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.169773,
+                        -29.173578
+                  ]
+            },
+            {
+                  "name": "CTG Campo dos Bugres",
+                  "text": "Regional culture centre in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.154061,
+                        -29.162273
+                  ]
+            },
+            {
+                  "name": "Tem Gente Teatrando - Espaço Cultural",
+                  "text": "Theatrical cultural space in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.187721,
+                        -29.173451
+                  ]
+            },
+            {
+                  "name": "Monumento a Itália",
+                  "text": "Monument dedicated to Italy in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.188367,
+                        -29.168136
+                  ]
+            },
+            {
+                  "name": "Busto de Abramo Eberle",
+                  "text": "Bust of Abramo Eberle in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.159082,
+                        -29.1674
+                  ]
+            },
+            {
+                  "name": "Ogum",
+                  "text": "Monument dedicated to Ogum in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.203236,
+                        -29.183426
+                  ]
+            },
+            {
+                  "name": "Rotary Club International",
+                  "text": "Monument dedicated to the Rotary Club in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.204268,
+                        -29.170517
+                  ]
+            },
+            {
+                  "name": "CTG Rodeio Minuano",
+                  "text": "Centre for local traditions in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.167211,
+                        -29.155279
+                  ]
+            },
+            {
+                  "name": "Monumento a Dante Alighieri",
+                  "text": "Monument dedicated to Dante Alighieri in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.179047,
+                        -29.168258
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Beltrão de Queiroz",
+                  "text": "Beltrão de Queiroz cultural centre in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.19458,
+                        -29.165858
+                  ]
+            },
+            {
+                  "name": "Florenza Motel (Demolido)",
+                  "text": "Ruins of the former Florenza Motel in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.184206,
+                        -29.158799
+                  ]
+            },
+            {
+                  "name": "Cápsula do Tempo",
+                  "text": "Time capsule in Caxias do Sul.",
+                  "category": "landmark",
+                  "coords": [
+                        -51.177604,
+                        -29.172457
+                  ]
+            },
+            {
+                  "name": "Monumento 150 anos de Imigração Italiana [em construção]",
+                  "text": "Monument dedicated to the 150th anniversary of Italian immigration in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.185139,
+                        -29.171096
+                  ]
+            },
+            {
+                  "name": "Letreiro da Festa da Uva",
+                  "text": "Landmark of the Festa da Uva in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.197623,
+                        -29.148178
+                  ]
+            },
+            {
+                  "name": "Monumento ao Imigrante",
+                  "text": "Monument in honor of immigrants in Caxias do Sul.",
+                  "category": "historical",
+                  "coords": [
+                        -51.15815,
+                        -29.167407
+                  ]
+            },
+            {
+                  "name": "Centro Municipal de Cultura Henrique Ordovás Filho",
+                  "text": "Municipal cultural centre in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.180199,
+                        -29.176274
+                  ]
+            },
+            {
+                  "name": "Galpão Crioulo - UCS",
+                  "text": "Cultural space at the university (UCS) in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.148636,
+                        -29.164813
+                  ]
+            },
+            {
+                  "name": "Centro de Tradições Gaúchas Heróis Farroupilhas",
+                  "text": "Cultural centre dedicated to gaúcho traditions in Caxias do Sul.",
+                  "category": "cultural",
+                  "coords": [
+                        -51.196119,
+                        -29.184372
+                  ]
+            },
+            {
+                  "name": "Capela do Santo Sepulcro",
+                  "text": "Chapel of the Holy Sepulchre in Caxias do Sul.",
+                  "category": "religious",
+                  "coords": [
+                        -51.168239,
+                        -29.167777
+                  ]
+            },
+            {
+                  "name": "Igreja São Pelegrino",
+                  "text": "São Pelegrino church in Caxias do Sul, known for its artworks.",
+                  "category": "religious",
+                  "coords": [
+                        -51.189594,
+                        -29.169128
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-RS",
     coords: [-51.1794, -29.1681],
@@ -1305,7 +9423,1096 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["A thriving industrial city in the mountainous region (Serra Gaúcha), deeply rooted in the history of Italian immigration.", "Located within the Federative Republic of Brazil.", "Plays a role in the local identity of the region."],
     }, image: "/poi-images/caxias-do-sul-cities-v2.webp"},
   {
-    id: "niteroi-cities-v2",
+    id: "niteroi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "Das Museu do Ingá ist ein Museum für Geschichte und Kunst in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea",
+                  "text": "Das Niterói Contemporary Art Museum ist ein von Oscar Niemeyer entworfenes Kunstmuseum in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Teatro MPB-4",
+                  "text": "Teatro MPB-4 ist ein Theater in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12567,
+                        -22.896631
+                  ]
+            },
+            {
+                  "name": "Museu Janete Costa de Arte Popular",
+                  "text": "Museu Janete Costa de Arte Popular ist ein Museum in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.127849,
+                        -22.903577
+                  ]
+            },
+            {
+                  "name": "Teatro Abel",
+                  "text": "Teatro Abel ist ein Theater in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.109296,
+                        -22.899734
+                  ]
+            },
+            {
+                  "name": "Memorial Ponte Rio-Niterói",
+                  "text": "Memorial Ponte Rio-Niterói ist ein Museum in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.114495,
+                        -22.877714
+                  ]
+            },
+            {
+                  "name": "Museu Antônio Parreiras",
+                  "text": "Museu Antônio Parreiras ist ein Museum in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.126026,
+                        -22.901757
+                  ]
+            },
+            {
+                  "name": "Praia de Icaraí",
+                  "text": "Praia de Icaraí ist ein Strand in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.113861,
+                        -22.908884
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Viagem",
+                  "text": "Praia da Boa Viagem ist ein Strand in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.128253,
+                        -22.908578
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "Centro Cultural Pascoal Carlos Magno ist ein Museum in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Theatro Municipal de Niterói",
+                  "text": "Theatro Municipal de Niterói ist ein Theater in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.123264,
+                        -22.895846
+                  ]
+            },
+            {
+                  "name": "Praia do Gragoatá",
+                  "text": "Praia do Gragoatá ist ein Strand in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.136171,
+                        -22.902154
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande ist ein Strand in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.124877,
+                        -22.894909
+                  ]
+            },
+            {
+                  "name": "Teatro Popular de Niterói",
+                  "text": "Teatro Popular de Niterói ist ein Theater in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12833,
+                        -22.889979
+                  ]
+            },
+            {
+                  "name": "Teatro Eduardo Kraichete",
+                  "text": "Teatro Eduardo Kraichete ist ein Theater in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.108598,
+                        -22.901033
+                  ]
+            },
+            {
+                  "name": "Praia das Flechas",
+                  "text": "Praia das Flechas ist ein Strand in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.122699,
+                        -22.905447
+                  ]
+            },
+            {
+                  "name": "Morro da Armação",
+                  "text": "Morro da Armação ist ein Berggipfel in Niterói.",
+                  "category": "natural",
+                  "coords": [
+                        -43.128957,
+                        -22.880564
+                  ]
+            },
+            {
+                  "name": "Praça General Gomes Carneiro",
+                  "text": "Die Praça General Gomes Carneiro ist ein öffentlicher Park in Niterói.",
+                  "category": "park",
+                  "coords": [
+                        -43.121838,
+                        -22.895905
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "G.R.E.S. Acadêmicos do Cubango ist eine Sambaschule und Attraktion in Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095533,
+                        -22.889761
+                  ]
+            },
+            {
+                  "name": "Busto de Dom Pedro II",
+                  "text": "Busto de Dom Pedro II ist ein Denkmal in Niterói.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130513,
+                        -22.899529
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural dos Correios (ECC)",
+                  "text": "Espaço Cultural dos Correios (ECC) ist ein Kunstzentrum in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12363,
+                        -22.894852
+                  ]
+            },
+            {
+                  "name": "Ponto de Encontro do passeio da Ilha da Boa Viagem",
+                  "text": "Ponto de Encontro do passeio da Ilha da Boa Viagem ist eine Touristenattraktion in Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.13084,
+                        -22.908387
+                  ]
+            },
+            {
+                  "name": "Triunfo da República",
+                  "text": "Triunfo da República ist ein Denkmal in Niterói.",
+                  "category": "historical",
+                  "coords": [
+                        -43.117056,
+                        -22.893978
+                  ]
+            },
+            {
+                  "name": "Fundação Oscar Niemeyer",
+                  "text": "Fundação Oscar Niemeyer ist ein Kunstzentrum in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.128343,
+                        -22.888593
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Abrigo de Bondes",
+                  "text": "Centro Cultural Abrigo de Bondes ist ein Kunstzentrum in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.114633,
+                        -22.889802
+                  ]
+            },
+            {
+                  "name": "Centro de Artes da UFF",
+                  "text": "Centro de Artes da UFF ist ein Kunstzentrum in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.116596,
+                        -22.903193
+                  ]
+            },
+            {
+                  "name": "Centro Petrobras de Cinema",
+                  "text": "Centro Petrobras de Cinema ist ein Kunstzentrum in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.130761,
+                        -22.898144
+                  ]
+            },
+            {
+                  "name": "Catedral São João Batista",
+                  "text": "Die Catedral São João Batista ist die katholische Kathedrale von Niterói.",
+                  "category": "religious",
+                  "coords": [
+                        -43.12039,
+                        -22.891507
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Salle",
+                  "text": "Centro Cultural La Salle ist ein Sportzentrum in Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.109073,
+                        -22.89875
+                  ]
+            },
+            {
+                  "name": "Casa de Oliveira Vianna",
+                  "text": "Casa de Oliveira Vianna ist ein Haus in Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.108807,
+                        -22.880243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "A Museu do Ingá egy történelmi és művészeti múzeum Niterói városában.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea",
+                  "text": "A Niterói Contemporary Art Museum egy Oscar Niemeyer által tervezett művészeti múzeum Niterói városában.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Teatro MPB-4",
+                  "text": "A Teatro MPB-4 egy színház Niterói városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12567,
+                        -22.896631
+                  ]
+            },
+            {
+                  "name": "Museu Janete Costa de Arte Popular",
+                  "text": "A Museu Janete Costa de Arte Popular egy múzeum Niterói városában.",
+                  "category": "museum",
+                  "coords": [
+                        -43.127849,
+                        -22.903577
+                  ]
+            },
+            {
+                  "name": "Teatro Abel",
+                  "text": "A Teatro Abel egy színház Niterói városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.109296,
+                        -22.899734
+                  ]
+            },
+            {
+                  "name": "Memorial Ponte Rio-Niterói",
+                  "text": "A Memorial Ponte Rio-Niterói egy múzeum Niterói városában.",
+                  "category": "museum",
+                  "coords": [
+                        -43.114495,
+                        -22.877714
+                  ]
+            },
+            {
+                  "name": "Museu Antônio Parreiras",
+                  "text": "A Museu Antônio Parreiras egy múzeum Niterói városában.",
+                  "category": "museum",
+                  "coords": [
+                        -43.126026,
+                        -22.901757
+                  ]
+            },
+            {
+                  "name": "Praia de Icaraí",
+                  "text": "A Praia de Icaraí egy strand Niterói városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.113861,
+                        -22.908884
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Viagem",
+                  "text": "A Praia da Boa Viagem egy strand Niterói városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.128253,
+                        -22.908578
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "A Centro Cultural Pascoal Carlos Magno egy múzeum Niterói városában.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Theatro Municipal de Niterói",
+                  "text": "A Theatro Municipal de Niterói egy színház Niterói városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.123264,
+                        -22.895846
+                  ]
+            },
+            {
+                  "name": "Praia do Gragoatá",
+                  "text": "A Praia do Gragoatá egy strand Niterói városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.136171,
+                        -22.902154
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "A Praia Grande egy strand Niterói városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.124877,
+                        -22.894909
+                  ]
+            },
+            {
+                  "name": "Teatro Popular de Niterói",
+                  "text": "A Teatro Popular de Niterói egy színház Niterói városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12833,
+                        -22.889979
+                  ]
+            },
+            {
+                  "name": "Teatro Eduardo Kraichete",
+                  "text": "A Teatro Eduardo Kraichete egy színház Niterói városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.108598,
+                        -22.901033
+                  ]
+            },
+            {
+                  "name": "Praia das Flechas",
+                  "text": "A Praia das Flechas egy strand Niterói városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.122699,
+                        -22.905447
+                  ]
+            },
+            {
+                  "name": "Morro da Armação",
+                  "text": "A Morro da Armação egy hegycsúcs Niterói városában.",
+                  "category": "natural",
+                  "coords": [
+                        -43.128957,
+                        -22.880564
+                  ]
+            },
+            {
+                  "name": "Praça General Gomes Carneiro",
+                  "text": "A Praça General Gomes Carneiro egy nyilvános park Niterói városában.",
+                  "category": "park",
+                  "coords": [
+                        -43.121838,
+                        -22.895905
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "A G.R.E.S. Acadêmicos do Cubango egy szambaiskola és turisztikai látványosság Niterói városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095533,
+                        -22.889761
+                  ]
+            },
+            {
+                  "name": "Busto de Dom Pedro II",
+                  "text": "A Busto de Dom Pedro II egy emlékmű Niterói városában.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130513,
+                        -22.899529
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural dos Correios (ECC)",
+                  "text": "Az Espaço Cultural dos Correios (ECC) egy művészeti központ Niterói városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12363,
+                        -22.894852
+                  ]
+            },
+            {
+                  "name": "Ponto de Encontro do passeio da Ilha da Boa Viagem",
+                  "text": "A Ponto de Encontro do passeio da Ilha da Boa Viagem egy turisztikai látványosság Niterói városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.13084,
+                        -22.908387
+                  ]
+            },
+            {
+                  "name": "Triunfo da República",
+                  "text": "A Triunfo da República egy emlékmű Niterói városában.",
+                  "category": "historical",
+                  "coords": [
+                        -43.117056,
+                        -22.893978
+                  ]
+            },
+            {
+                  "name": "Fundação Oscar Niemeyer",
+                  "text": "A Fundação Oscar Niemeyer egy művészeti központ Niterói városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.128343,
+                        -22.888593
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Abrigo de Bondes",
+                  "text": "A Centro Cultural Abrigo de Bondes egy művészeti központ Niterói városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.114633,
+                        -22.889802
+                  ]
+            },
+            {
+                  "name": "Centro de Artes da UFF",
+                  "text": "A Centro de Artes da UFF egy művészeti központ Niterói városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.116596,
+                        -22.903193
+                  ]
+            },
+            {
+                  "name": "Centro Petrobras de Cinema",
+                  "text": "A Centro Petrobras de Cinema egy művészeti központ Niterói városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.130761,
+                        -22.898144
+                  ]
+            },
+            {
+                  "name": "Catedral São João Batista",
+                  "text": "A Catedral São João Batista Niterói városának katolikus katedrálisa.",
+                  "category": "religious",
+                  "coords": [
+                        -43.12039,
+                        -22.891507
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Salle",
+                  "text": "A Centro Cultural La Salle egy sportközpont Niterói városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.109073,
+                        -22.89875
+                  ]
+            },
+            {
+                  "name": "Casa de Oliveira Vianna",
+                  "text": "A Casa de Oliveira Vianna egy ház Niterói városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.108807,
+                        -22.880243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "Museu do Ingá este un muzeu de istorie și artă situat în Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea",
+                  "text": "Niterói Contemporary Art Museum este un muzeu de artă proiectat de Oscar Niemeyer în Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Teatro MPB-4",
+                  "text": "Teatro MPB-4 este un teatru situat în Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12567,
+                        -22.896631
+                  ]
+            },
+            {
+                  "name": "Museu Janete Costa de Arte Popular",
+                  "text": "Museu Janete Costa de Arte Popular este un muzeu situat în Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.127849,
+                        -22.903577
+                  ]
+            },
+            {
+                  "name": "Teatro Abel",
+                  "text": "Teatro Abel este un teatru situat în Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.109296,
+                        -22.899734
+                  ]
+            },
+            {
+                  "name": "Memorial Ponte Rio-Niterói",
+                  "text": "Memorial Ponte Rio-Niterói este un muzeu situat în Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.114495,
+                        -22.877714
+                  ]
+            },
+            {
+                  "name": "Museu Antônio Parreiras",
+                  "text": "Museu Antônio Parreiras este un muzeu situat în Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.126026,
+                        -22.901757
+                  ]
+            },
+            {
+                  "name": "Praia de Icaraí",
+                  "text": "Praia de Icaraí este o plajă situată în Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.113861,
+                        -22.908884
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Viagem",
+                  "text": "Praia da Boa Viagem este o plajă situată în Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.128253,
+                        -22.908578
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "Centro Cultural Pascoal Carlos Magno este un muzeu situat în Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Theatro Municipal de Niterói",
+                  "text": "Theatro Municipal de Niterói este un teatru situat în Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.123264,
+                        -22.895846
+                  ]
+            },
+            {
+                  "name": "Praia do Gragoatá",
+                  "text": "Praia do Gragoatá este o plajă situată în Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.136171,
+                        -22.902154
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande este o plajă situată în Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.124877,
+                        -22.894909
+                  ]
+            },
+            {
+                  "name": "Teatro Popular de Niterói",
+                  "text": "Teatro Popular de Niterói este un teatru situat în Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12833,
+                        -22.889979
+                  ]
+            },
+            {
+                  "name": "Teatro Eduardo Kraichete",
+                  "text": "Teatro Eduardo Kraichete este un teatru situat în Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.108598,
+                        -22.901033
+                  ]
+            },
+            {
+                  "name": "Praia das Flechas",
+                  "text": "Praia das Flechas este o plajă situată în Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.122699,
+                        -22.905447
+                  ]
+            },
+            {
+                  "name": "Morro da Armação",
+                  "text": "Morro da Armação este un vârf montan situat în Niterói.",
+                  "category": "natural",
+                  "coords": [
+                        -43.128957,
+                        -22.880564
+                  ]
+            },
+            {
+                  "name": "Praça General Gomes Carneiro",
+                  "text": "Praça General Gomes Carneiro este un parc public situat în Niterói.",
+                  "category": "park",
+                  "coords": [
+                        -43.121838,
+                        -22.895905
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "G.R.E.S. Acadêmicos do Cubango este o școală de samba și atracție turistică în Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095533,
+                        -22.889761
+                  ]
+            },
+            {
+                  "name": "Busto de Dom Pedro II",
+                  "text": "Busto de Dom Pedro II este un monument situat în Niterói.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130513,
+                        -22.899529
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural dos Correios (ECC)",
+                  "text": "Espaço Cultural dos Correios (ECC) este un centru de arte situat în Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12363,
+                        -22.894852
+                  ]
+            },
+            {
+                  "name": "Ponto de Encontro do passeio da Ilha da Boa Viagem",
+                  "text": "Ponto de Encontro do passeio da Ilha da Boa Viagem este o atracție turistică situată în Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.13084,
+                        -22.908387
+                  ]
+            },
+            {
+                  "name": "Triunfo da República",
+                  "text": "Triunfo da República este un monument situat în Niterói.",
+                  "category": "historical",
+                  "coords": [
+                        -43.117056,
+                        -22.893978
+                  ]
+            },
+            {
+                  "name": "Fundação Oscar Niemeyer",
+                  "text": "Fundação Oscar Niemeyer este un centru de arte situat în Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.128343,
+                        -22.888593
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Abrigo de Bondes",
+                  "text": "Centro Cultural Abrigo de Bondes este un centru de arte situat în Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.114633,
+                        -22.889802
+                  ]
+            },
+            {
+                  "name": "Centro de Artes da UFF",
+                  "text": "Centro de Artes da UFF este un centru de arte situat în Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.116596,
+                        -22.903193
+                  ]
+            },
+            {
+                  "name": "Centro Petrobras de Cinema",
+                  "text": "Centro Petrobras de Cinema este un centru de arte situat în Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.130761,
+                        -22.898144
+                  ]
+            },
+            {
+                  "name": "Catedral São João Batista",
+                  "text": "Catedral São João Batista este catedrala catolică din Niterói.",
+                  "category": "religious",
+                  "coords": [
+                        -43.12039,
+                        -22.891507
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Salle",
+                  "text": "Centro Cultural La Salle este un centru sportiv din Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.109073,
+                        -22.89875
+                  ]
+            },
+            {
+                  "name": "Casa de Oliveira Vianna",
+                  "text": "Casa de Oliveira Vianna este o casă situată în Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.108807,
+                        -22.880243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu do Ingá",
+                  "text": "The Museu do Ingá is a history and arts museum located in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125394,
+                        -22.903601
+                  ]
+            },
+            {
+                  "name": "Niterói Contemporary Art Museum",
+                  "text": "The Niterói Contemporary Art Museum is an art museum designed by Oscar Niemeyer in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.125869,
+                        -22.907933
+                  ]
+            },
+            {
+                  "name": "Teatro MPB-4",
+                  "text": "Teatro MPB-4 is a theatre located in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12567,
+                        -22.896631
+                  ]
+            },
+            {
+                  "name": "Museu Janete Costa de Arte Popular",
+                  "text": "Museu Janete Costa de Arte Popular is a museum located in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.127849,
+                        -22.903577
+                  ]
+            },
+            {
+                  "name": "Teatro Abel",
+                  "text": "Teatro Abel is a theatre located in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.109296,
+                        -22.899734
+                  ]
+            },
+            {
+                  "name": "Memorial Ponte Rio-Niterói",
+                  "text": "Memorial Ponte Rio-Niterói is a museum located in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.114495,
+                        -22.877714
+                  ]
+            },
+            {
+                  "name": "Museu Antônio Parreiras",
+                  "text": "Museu Antônio Parreiras is a museum located in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.126026,
+                        -22.901757
+                  ]
+            },
+            {
+                  "name": "Praia de Icaraí",
+                  "text": "Praia de Icaraí is a beach located in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.113861,
+                        -22.908884
+                  ]
+            },
+            {
+                  "name": "Praia da Boa Viagem",
+                  "text": "Praia da Boa Viagem is a beach located in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.128253,
+                        -22.908578
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Pascoal Carlos Magno",
+                  "text": "Centro Cultural Pascoal Carlos Magno is a museum located in Niterói.",
+                  "category": "museum",
+                  "coords": [
+                        -43.107435,
+                        -22.902954
+                  ]
+            },
+            {
+                  "name": "Theatro Municipal de Niterói",
+                  "text": "Theatro Municipal de Niterói is a theatre located in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.123264,
+                        -22.895846
+                  ]
+            },
+            {
+                  "name": "Praia do Gragoatá",
+                  "text": "Praia do Gragoatá is a beach located in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.136171,
+                        -22.902154
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande is a beach located in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.124877,
+                        -22.894909
+                  ]
+            },
+            {
+                  "name": "Teatro Popular de Niterói",
+                  "text": "Teatro Popular de Niterói is a theatre located in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12833,
+                        -22.889979
+                  ]
+            },
+            {
+                  "name": "Teatro Eduardo Kraichete",
+                  "text": "Teatro Eduardo Kraichete is a theatre located in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.108598,
+                        -22.901033
+                  ]
+            },
+            {
+                  "name": "Praia das Flechas",
+                  "text": "Praia das Flechas is a beach located in Niterói.",
+                  "category": "recreational",
+                  "coords": [
+                        -43.122699,
+                        -22.905447
+                  ]
+            },
+            {
+                  "name": "Morro da Armação",
+                  "text": "Morro da Armação is a peak situated in Niterói.",
+                  "category": "natural",
+                  "coords": [
+                        -43.128957,
+                        -22.880564
+                  ]
+            },
+            {
+                  "name": "Praça General Gomes Carneiro",
+                  "text": "Praça General Gomes Carneiro is a public park located in Niterói.",
+                  "category": "park",
+                  "coords": [
+                        -43.121838,
+                        -22.895905
+                  ]
+            },
+            {
+                  "name": "G.R.E.S. Acadêmicos do Cubango",
+                  "text": "G.R.E.S. Acadêmicos do Cubango is a samba school and tourist attraction located in Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.095533,
+                        -22.889761
+                  ]
+            },
+            {
+                  "name": "Busto de Dom Pedro II",
+                  "text": "Busto de Dom Pedro II is a monument located in Niterói.",
+                  "category": "historical",
+                  "coords": [
+                        -43.130513,
+                        -22.899529
+                  ]
+            },
+            {
+                  "name": "Espaço Cultural dos Correios (ECC)",
+                  "text": "Espaço Cultural dos Correios (ECC) is an arts centre located in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.12363,
+                        -22.894852
+                  ]
+            },
+            {
+                  "name": "Ponto de Encontro do passeio da Ilha da Boa Viagem",
+                  "text": "Ponto de Encontro do passeio da Ilha da Boa Viagem is a tourist attraction located in Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.13084,
+                        -22.908387
+                  ]
+            },
+            {
+                  "name": "Triunfo da República",
+                  "text": "Triunfo da República is a monument located in Niterói.",
+                  "category": "historical",
+                  "coords": [
+                        -43.117056,
+                        -22.893978
+                  ]
+            },
+            {
+                  "name": "Fundação Oscar Niemeyer",
+                  "text": "Fundação Oscar Niemeyer is an arts centre located in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.128343,
+                        -22.888593
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Abrigo de Bondes",
+                  "text": "Centro Cultural Abrigo de Bondes is an arts centre located in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.114633,
+                        -22.889802
+                  ]
+            },
+            {
+                  "name": "Centro de Artes da UFF",
+                  "text": "Centro de Artes da UFF is an arts centre located in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.116596,
+                        -22.903193
+                  ]
+            },
+            {
+                  "name": "Centro Petrobras de Cinema",
+                  "text": "Centro Petrobras de Cinema is an arts centre located in Niterói.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.130761,
+                        -22.898144
+                  ]
+            },
+            {
+                  "name": "Catedral São João Batista",
+                  "text": "Catedral São João Batista is the Catholic cathedral of Niterói.",
+                  "category": "religious",
+                  "coords": [
+                        -43.12039,
+                        -22.891507
+                  ]
+            },
+            {
+                  "name": "Centro Cultural La Salle",
+                  "text": "Centro Cultural La Salle is a sports centre located in Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.109073,
+                        -22.89875
+                  ]
+            },
+            {
+                  "name": "Casa de Oliveira Vianna",
+                  "text": "Casa de Oliveira Vianna is a house located in Niterói.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.108807,
+                        -22.880243
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-RJ",
     coords: [-43.1228, -22.8833],
@@ -1369,7 +10576,88 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       en: ["Macapá is the only city in the world where you can watch a soccer match with the pitch split between hemispheres.", "The Fortress of São José de Macapá was never used in an actual battle.", "The city's name comes from the Tupi word 'macapaba', meaning 'place of many bacaba' (a palm fruit).", "Macapá experiences an average annual rainfall of 2,500 mm.", "The solar equinox in March and September is the city's biggest astronomical event.", "The journey by boat from Belém to Macapá takes approximately 24 hours.", "Macapá serves as the main logistical point for the manganese mines of the Serra do Navio.", "The city's International Airport (Alberto Alcolumbre) connects it to major Brazilian hubs."],
     }, image: "/poi-images/macapa-cities-v2.webp"},
   {
-    id: "belford-roxo-cities-v2",
+    id: "belford-roxo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "GRES Unidos da Ponte",
+                  "text": "GRES Unidos da Ponte ist eine berühmte Sambaschule und kulturelle Attraktion in Belford Roxo.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.385976,
+                        -22.780316
+                  ]
+            },
+            {
+                  "name": "Bica da Mulata",
+                  "text": "Bica da Mulata ist ein lokales Denkmal in der Stadt Belford Roxo.",
+                  "category": "historical",
+                  "coords": [
+                        -43.395554,
+                        -22.76548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "GRES Unidos da Ponte",
+                  "text": "A GRES Unidos da Ponte egy híres szambaiskola és kulturális látványosság Belford Roxo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.385976,
+                        -22.780316
+                  ]
+            },
+            {
+                  "name": "Bica da Mulata",
+                  "text": "A Bica da Mulata egy helyi emlékmű Belford Roxo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -43.395554,
+                        -22.76548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "GRES Unidos da Ponte",
+                  "text": "GRES Unidos da Ponte este o faimoasă școală de samba și o atracție culturală în Belford Roxo.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.385976,
+                        -22.780316
+                  ]
+            },
+            {
+                  "name": "Bica da Mulata",
+                  "text": "Bica da Mulata este un monument local situat în orașul Belford Roxo.",
+                  "category": "historical",
+                  "coords": [
+                        -43.395554,
+                        -22.76548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "GRES Unidos da Ponte",
+                  "text": "GRES Unidos da Ponte is a famous samba school and cultural attraction based in Belford Roxo.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.385976,
+                        -22.780316
+                  ]
+            },
+            {
+                  "name": "Bica da Mulata",
+                  "text": "Bica da Mulata is a local monument located in the city of Belford Roxo.",
+                  "category": "historical",
+                  "coords": [
+                        -43.395554,
+                        -22.76548
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-RJ",
     coords: [-43.3997, -22.7642],
@@ -1520,7 +10808,304 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Un centre industriel majeur dans la métropole de São Paulo, connu pour la pétrochimie.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/maua-cities-v2.webp"},
   {
-    id: "sao-joao-de-meriti-cities-v2",
+    id: "sao-joao-de-meriti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morro do Miguel",
+                  "text": "Berg in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.378314,
+                        -22.828185
+                  ]
+            },
+            {
+                  "name": "Pedra Rasa",
+                  "text": "Bergspitze in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.374936,
+                        -22.828016
+                  ]
+            },
+            {
+                  "name": "Morro do Botafogo",
+                  "text": "Hügel in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.375242,
+                        -22.821896
+                  ]
+            },
+            {
+                  "name": "Morro da Lagartixa",
+                  "text": "Hügel in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.364922,
+                        -22.824911
+                  ]
+            },
+            {
+                  "name": "Morro da Conceição",
+                  "text": "Hügel in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.354111,
+                        -22.816665
+                  ]
+            },
+            {
+                  "name": "Morro da Pavuna",
+                  "text": "Hügel in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.358044,
+                        -22.821925
+                  ]
+            },
+            {
+                  "name": "Arena Carioca Jovelina Pérola Negra",
+                  "text": "Kultur- und Veranstaltungszentrum in São João de Meriti.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.358366,
+                        -22.807613
+                  ]
+            },
+            {
+                  "name": "Mirante Cristo do Gogó",
+                  "text": "Aussichtspunkt in São João de Meriti.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.379371,
+                        -22.828975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morro do Miguel",
+                  "text": "Hegy São João de Meritiben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.378314,
+                        -22.828185
+                  ]
+            },
+            {
+                  "name": "Pedra Rasa",
+                  "text": "Hegycsúcs São João de Meritiben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.374936,
+                        -22.828016
+                  ]
+            },
+            {
+                  "name": "Morro do Botafogo",
+                  "text": "Domb São João de Meritiben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.375242,
+                        -22.821896
+                  ]
+            },
+            {
+                  "name": "Morro da Lagartixa",
+                  "text": "Domb São João de Meritiben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.364922,
+                        -22.824911
+                  ]
+            },
+            {
+                  "name": "Morro da Conceição",
+                  "text": "Domb São João de Meritiben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.354111,
+                        -22.816665
+                  ]
+            },
+            {
+                  "name": "Morro da Pavuna",
+                  "text": "Domb São João de Meritiben.",
+                  "category": "natural",
+                  "coords": [
+                        -43.358044,
+                        -22.821925
+                  ]
+            },
+            {
+                  "name": "Arena Carioca Jovelina Pérola Negra",
+                  "text": "Kulturális és rendezvényközpont São João de Meritiben.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.358366,
+                        -22.807613
+                  ]
+            },
+            {
+                  "name": "Mirante Cristo do Gogó",
+                  "text": "Kilátó São João de Meritiben.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.379371,
+                        -22.828975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morro do Miguel",
+                  "text": "Munte în São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.378314,
+                        -22.828185
+                  ]
+            },
+            {
+                  "name": "Pedra Rasa",
+                  "text": "Vârf montan în São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.374936,
+                        -22.828016
+                  ]
+            },
+            {
+                  "name": "Morro do Botafogo",
+                  "text": "Deal în São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.375242,
+                        -22.821896
+                  ]
+            },
+            {
+                  "name": "Morro da Lagartixa",
+                  "text": "Deal în São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.364922,
+                        -22.824911
+                  ]
+            },
+            {
+                  "name": "Morro da Conceição",
+                  "text": "Deal în São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.354111,
+                        -22.816665
+                  ]
+            },
+            {
+                  "name": "Morro da Pavuna",
+                  "text": "Deal în São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.358044,
+                        -22.821925
+                  ]
+            },
+            {
+                  "name": "Arena Carioca Jovelina Pérola Negra",
+                  "text": "Centru cultural și de evenimente în São João de Meriti.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.358366,
+                        -22.807613
+                  ]
+            },
+            {
+                  "name": "Mirante Cristo do Gogó",
+                  "text": "Punct de observație în São João de Meriti.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.379371,
+                        -22.828975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morro do Miguel",
+                  "text": "Mountain in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.378314,
+                        -22.828185
+                  ]
+            },
+            {
+                  "name": "Pedra Rasa",
+                  "text": "Mountain peak in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.374936,
+                        -22.828016
+                  ]
+            },
+            {
+                  "name": "Morro do Botafogo",
+                  "text": "Hill in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.375242,
+                        -22.821896
+                  ]
+            },
+            {
+                  "name": "Morro da Lagartixa",
+                  "text": "Hill in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.364922,
+                        -22.824911
+                  ]
+            },
+            {
+                  "name": "Morro da Conceição",
+                  "text": "Hill in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.354111,
+                        -22.816665
+                  ]
+            },
+            {
+                  "name": "Morro da Pavuna",
+                  "text": "Hill in São João de Meriti.",
+                  "category": "natural",
+                  "coords": [
+                        -43.358044,
+                        -22.821925
+                  ]
+            },
+            {
+                  "name": "Arena Carioca Jovelina Pérola Negra",
+                  "text": "Cultural and event centre in São João de Meriti.",
+                  "category": "cultural",
+                  "coords": [
+                        -43.358366,
+                        -22.807613
+                  ]
+            },
+            {
+                  "name": "Mirante Cristo do Gogó",
+                  "text": "Viewpoint in São João de Meriti.",
+                  "category": "landmark",
+                  "coords": [
+                        -43.379371,
+                        -22.828975
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-RJ",
     coords: [-43.37, -22.8039],
@@ -1590,7 +11175,376 @@ export const poiExtraBrazilCitiesV2: POI[] = [
       fr: ["Un centre important pour l'éducation, la santé et l'économie dans le nord-ouest de l'État de São Paulo.", "Située sur le territoire de la République fédérative du Brésil.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/sao-jose-do-rio-preto-cities-v2.webp"},
   {
-    id: "mogi-das-cruzes-cities-v2",
+    id: "mogi-das-cruzes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro de Cultura e Memória Expedicionários Mogianos",
+                  "text": "Das Centro de Cultura e Memória Expedicionários Mogianos ist ein Museum in Mogi das Cruzes.",
+                  "category": "museum",
+                  "coords": [
+                        -46.190514,
+                        -23.52198
+                  ]
+            },
+            {
+                  "name": "Auditório",
+                  "text": "Das Auditório ist ein lokales Theater in Mogi das Cruzes.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.184958,
+                        -23.509291
+                  ]
+            },
+            {
+                  "name": "Theatro Vasquez",
+                  "text": "Das Theatro Vasquez ist ein Theater in der Stadt Mogi das Cruzes.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.189221,
+                        -23.522639
+                  ]
+            },
+            {
+                  "name": "Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo",
+                  "text": "Das Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo ist ein Kloster in Mogi das Cruzes.",
+                  "category": "religious",
+                  "coords": [
+                        -46.18811,
+                        -23.522973
+                  ]
+            },
+            {
+                  "name": "Parque Centenário da Imigração Japonesa",
+                  "text": "Der Parque Centenário da Imigração Japonesa ist ein Park in Mogi das Cruzes, der die japanische Einwanderung ehrt.",
+                  "category": "park",
+                  "coords": [
+                        -46.171409,
+                        -23.510776
+                  ]
+            },
+            {
+                  "name": "Basquete Mogi",
+                  "text": "Basquete Mogi ist ein Denkmal in Mogi das Cruzes.",
+                  "category": "historical",
+                  "coords": [
+                        -46.180769,
+                        -23.516929
+                  ]
+            },
+            {
+                  "name": "Bandeirante",
+                  "text": "Bandeirante ist ein Denkmal in Mogi das Cruzes.",
+                  "category": "historical",
+                  "coords": [
+                        -46.206303,
+                        -23.509858
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Mogi das Cruzes",
+                  "text": "Das Centro Cultural de Mogi das Cruzes ist ein Kunstzentrum in Mogi das Cruzes.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.191852,
+                        -23.52292
+                  ]
+            },
+            {
+                  "name": "Monumento ao Imigrante Japonês",
+                  "text": "Das Monumento ao Imigrante Japonês ist ein Denkmal in Mogi das Cruzes.",
+                  "category": "historical",
+                  "coords": [
+                        -46.203467,
+                        -23.525827
+                  ]
+            },
+            {
+                  "name": "Arquivo Histórico Historiador Isaac Grinberg",
+                  "text": "Das Arquivo Histórico Historiador Isaac Grinberg ist eine Sehenswürdigkeit in Mogi das Cruzes.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.18873,
+                        -23.521734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro de Cultura e Memória Expedicionários Mogianos",
+                  "text": "A Centro de Cultura e Memória Expedicionários Mogianos egy múzeum Mogi das Cruzes városában.",
+                  "category": "museum",
+                  "coords": [
+                        -46.190514,
+                        -23.52198
+                  ]
+            },
+            {
+                  "name": "Auditório",
+                  "text": "Az Auditório egy helyi színház Mogi das Cruzes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.184958,
+                        -23.509291
+                  ]
+            },
+            {
+                  "name": "Theatro Vasquez",
+                  "text": "A Theatro Vasquez egy színház Mogi das Cruzes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.189221,
+                        -23.522639
+                  ]
+            },
+            {
+                  "name": "Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo",
+                  "text": "Az Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo egy kolostor Mogi das Cruzes városában.",
+                  "category": "religious",
+                  "coords": [
+                        -46.18811,
+                        -23.522973
+                  ]
+            },
+            {
+                  "name": "Parque Centenário da Imigração Japonesa",
+                  "text": "A Parque Centenário da Imigração Japonesa egy park Mogi das Cruzesben, amely a japán bevándorlóknak állít emléket.",
+                  "category": "park",
+                  "coords": [
+                        -46.171409,
+                        -23.510776
+                  ]
+            },
+            {
+                  "name": "Basquete Mogi",
+                  "text": "A Basquete Mogi egy emlékmű Mogi das Cruzes városában.",
+                  "category": "historical",
+                  "coords": [
+                        -46.180769,
+                        -23.516929
+                  ]
+            },
+            {
+                  "name": "Bandeirante",
+                  "text": "A Bandeirante egy emlékmű Mogi das Cruzesben.",
+                  "category": "historical",
+                  "coords": [
+                        -46.206303,
+                        -23.509858
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Mogi das Cruzes",
+                  "text": "A Centro Cultural de Mogi das Cruzes egy művészeti központ Mogi das Cruzes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.191852,
+                        -23.52292
+                  ]
+            },
+            {
+                  "name": "Monumento ao Imigrante Japonês",
+                  "text": "A Monumento ao Imigrante Japonês egy emlékmű Mogi das Cruzes településen.",
+                  "category": "historical",
+                  "coords": [
+                        -46.203467,
+                        -23.525827
+                  ]
+            },
+            {
+                  "name": "Arquivo Histórico Historiador Isaac Grinberg",
+                  "text": "Az Arquivo Histórico Historiador Isaac Grinberg egy látványosság Mogi das Cruzes városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.18873,
+                        -23.521734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro de Cultura e Memória Expedicionários Mogianos",
+                  "text": "Centro de Cultura e Memória Expedicionários Mogianos este un muzeu din Mogi das Cruzes.",
+                  "category": "museum",
+                  "coords": [
+                        -46.190514,
+                        -23.52198
+                  ]
+            },
+            {
+                  "name": "Auditório",
+                  "text": "Auditório este un teatru local situat în Mogi das Cruzes.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.184958,
+                        -23.509291
+                  ]
+            },
+            {
+                  "name": "Theatro Vasquez",
+                  "text": "Theatro Vasquez este un teatru din orașul Mogi das Cruzes.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.189221,
+                        -23.522639
+                  ]
+            },
+            {
+                  "name": "Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo",
+                  "text": "Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo este o mănăstire situată în Mogi das Cruzes.",
+                  "category": "religious",
+                  "coords": [
+                        -46.18811,
+                        -23.522973
+                  ]
+            },
+            {
+                  "name": "Parque Centenário da Imigração Japonesa",
+                  "text": "Parque Centenário da Imigração Japonesa este un parc din Mogi das Cruzes dedicat istoriei imigrației japoneze.",
+                  "category": "park",
+                  "coords": [
+                        -46.171409,
+                        -23.510776
+                  ]
+            },
+            {
+                  "name": "Basquete Mogi",
+                  "text": "Basquete Mogi este un monument situat în Mogi das Cruzes.",
+                  "category": "historical",
+                  "coords": [
+                        -46.180769,
+                        -23.516929
+                  ]
+            },
+            {
+                  "name": "Bandeirante",
+                  "text": "Bandeirante este un monument aflat în Mogi das Cruzes.",
+                  "category": "historical",
+                  "coords": [
+                        -46.206303,
+                        -23.509858
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Mogi das Cruzes",
+                  "text": "Centro Cultural de Mogi das Cruzes este un centru de arte situat în Mogi das Cruzes.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.191852,
+                        -23.52292
+                  ]
+            },
+            {
+                  "name": "Monumento ao Imigrante Japonês",
+                  "text": "Monumento ao Imigrante Japonês este un monument aflat în Mogi das Cruzes.",
+                  "category": "historical",
+                  "coords": [
+                        -46.203467,
+                        -23.525827
+                  ]
+            },
+            {
+                  "name": "Arquivo Histórico Historiador Isaac Grinberg",
+                  "text": "Arquivo Histórico Historiador Isaac Grinberg este o atracție turistică situată în Mogi das Cruzes.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.18873,
+                        -23.521734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro de Cultura e Memória Expedicionários Mogianos",
+                  "text": "Centro de Cultura e Memória Expedicionários Mogianos is a museum located in Mogi das Cruzes.",
+                  "category": "museum",
+                  "coords": [
+                        -46.190514,
+                        -23.52198
+                  ]
+            },
+            {
+                  "name": "Auditório",
+                  "text": "Auditório is a local theatre situated in Mogi das Cruzes.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.184958,
+                        -23.509291
+                  ]
+            },
+            {
+                  "name": "Theatro Vasquez",
+                  "text": "Theatro Vasquez is a theatre located in the city of Mogi das Cruzes.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.189221,
+                        -23.522639
+                  ]
+            },
+            {
+                  "name": "Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo",
+                  "text": "The Ordem da Bem-Aventurada Virgem Maria do Monte Carmelo is a monastery located in Mogi das Cruzes.",
+                  "category": "religious",
+                  "coords": [
+                        -46.18811,
+                        -23.522973
+                  ]
+            },
+            {
+                  "name": "Parque Centenário da Imigração Japonesa",
+                  "text": "Parque Centenário da Imigração Japonesa is a large park in Mogi das Cruzes that honors the history of Japanese immigration to Brazil.",
+                  "category": "park",
+                  "coords": [
+                        -46.171409,
+                        -23.510776
+                  ]
+            },
+            {
+                  "name": "Basquete Mogi",
+                  "text": "Basquete Mogi is a monument located in Mogi das Cruzes.",
+                  "category": "historical",
+                  "coords": [
+                        -46.180769,
+                        -23.516929
+                  ]
+            },
+            {
+                  "name": "Bandeirante",
+                  "text": "Bandeirante is a monument situated in Mogi das Cruzes.",
+                  "category": "historical",
+                  "coords": [
+                        -46.206303,
+                        -23.509858
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Mogi das Cruzes",
+                  "text": "Centro Cultural de Mogi das Cruzes is an arts centre located in Mogi das Cruzes.",
+                  "category": "cultural",
+                  "coords": [
+                        -46.191852,
+                        -23.52292
+                  ]
+            },
+            {
+                  "name": "Monumento ao Imigrante Japonês",
+                  "text": "Monumento ao Imigrante Japonês is a monument located in Mogi das Cruzes.",
+                  "category": "historical",
+                  "coords": [
+                        -46.203467,
+                        -23.525827
+                  ]
+            },
+            {
+                  "name": "Arquivo Histórico Historiador Isaac Grinberg",
+                  "text": "Arquivo Histórico Historiador Isaac Grinberg is a tourist attraction located in Mogi das Cruzes.",
+                  "category": "landmark",
+                  "coords": [
+                        -46.18873,
+                        -23.521734
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BR-SP",
     coords: [-46.1856, -23.5236],

@@ -225,7 +225,52 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       en: ["Pathein is located approximately 118 miles west of Yangon.", "The city's name is believed to be derived from 'Pathi', the Burmese word for Muslim.", "Shwemokhtaw Pagoda consists of three layers of stupas built inside each other.", "Pathein umbrellas are traditionally painted with floral or landscape motifs.", "The city serves as the primary supply center for the Ayeyarwady Delta.", "Pathein was a strategic military post for the British during colonial rule.", "The local economy relies heavily on emerald-green rice paddy cultivation.", "It is the main transit point for buses to Ngwesaung Beach."],
     }, image: "/poi-images/pathein-cities-v2.webp"},
   {
-    id: "monywa-cities-v2",
+    id: "monywa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Independence Monument လွတ်လပ်ရေးကျောက်တိုင်",
+                  "text": "Das Independence Monument လွတ်လပ်ရေးကျောက်တိုင် ist ein Denkmal in Monywa.",
+                  "category": "historical",
+                  "coords": [
+                        95.124061,
+                        22.130947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Independence Monument လွတ်လပ်ရေးကျောက်တိုင်",
+                  "text": "Az Independence Monument လွတ်လပ်ရေးကျောက်တိုင် egy emlékmű Monywa városában.",
+                  "category": "historical",
+                  "coords": [
+                        95.124061,
+                        22.130947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Independence Monument လွတ်လပ်ရေးကျောက်တိုင်",
+                  "text": "Independence Monument လွတ်လပ်ရေးကျောက်တိုင် este un monument din Monywa.",
+                  "category": "historical",
+                  "coords": [
+                        95.124061,
+                        22.130947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Independence Monument လွတ်လပ်ရေးကျောက်တိုင်",
+                  "text": "The Independence Monument လွတ်လပ်ရေးကျောက်တိုင် is a monument located in Monywa.",
+                  "category": "historical",
+                  "coords": [
+                        95.124061,
+                        22.130947
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MM-01",
     coords: [95.1333, 22.1167],
@@ -289,7 +334,232 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       en: ["Sittwe's elevation is only about 5 meters above sea level.", "The city was a major base for the Royal Air Force during WWII.", "The Shwezedi Pagoda was a center for anti-colonial political meetings.", "Sittwe's fish market exports products to neighboring Bangladesh.", "The 'Point' area is known for its sea-front parks and restaurants.", "Sittwe is the westernmost major city in Myanmar.", "Local transport consists largely of cycle rickshaws and motorbikes.", "The city's name refers to a historical battle with the Burmese army."],
     }, image: "/poi-images/sittwe-cities-v2.webp"},
   {
-    id: "meiktila-cities-v2",
+    id: "meiktila-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ဝမ်းတော်ပြည့် ဓာတ်တော်တိုက်",
+                  "text": "Ein Museum in Meiktila mit religiösen Reliquien.",
+                  "category": "museum",
+                  "coords": [
+                        95.877874,
+                        20.897138
+                  ]
+            },
+            {
+                  "name": "Sasana Beikman;ဗိမာန်",
+                  "text": "Ein bedeutendes Denkmal in Meiktila.",
+                  "category": "historical",
+                  "coords": [
+                        95.859844,
+                        20.876224
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Das Unabhängigkeitsdenkmal erinnert an die Freiheit in Meiktila.",
+                  "category": "historical",
+                  "coords": [
+                        95.858313,
+                        20.874857
+                  ]
+            },
+            {
+                  "name": "pagoda",
+                  "text": "Eine buddhistische Stupa in Meiktila.",
+                  "category": "landmark",
+                  "coords": [
+                        95.852438,
+                        20.878156
+                  ]
+            },
+            {
+                  "name": "ဘုရား",
+                  "text": "Ein religiöser Stupa-Bau in Meiktila.",
+                  "category": "landmark",
+                  "coords": [
+                        95.872014,
+                        20.892953
+                  ]
+            },
+            {
+                  "name": "တဝဂူဘုရား",
+                  "text": "Ein heiliger Stupa-Ort in Meiktila.",
+                  "category": "landmark",
+                  "coords": [
+                        95.856586,
+                        20.895717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ဝမ်းတော်ပြည့် ဓာတ်တော်တိုက်",
+                  "text": "Múzeum Meiktilában, vallási ereklyékkel.",
+                  "category": "museum",
+                  "coords": [
+                        95.877874,
+                        20.897138
+                  ]
+            },
+            {
+                  "name": "Sasana Beikman;ဗိမာန်",
+                  "text": "Jelentős emlékmű Meiktilában.",
+                  "category": "historical",
+                  "coords": [
+                        95.859844,
+                        20.876224
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "A függetlenségi emlékmű Meiktilában a szabadságra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        95.858313,
+                        20.874857
+                  ]
+            },
+            {
+                  "name": "pagoda",
+                  "text": "Buddhista sztúpa Meiktilában.",
+                  "category": "landmark",
+                  "coords": [
+                        95.852438,
+                        20.878156
+                  ]
+            },
+            {
+                  "name": "ဘုရား",
+                  "text": "Vallási sztúpa építmény Meiktilában.",
+                  "category": "landmark",
+                  "coords": [
+                        95.872014,
+                        20.892953
+                  ]
+            },
+            {
+                  "name": "တဝဂူဘုရား",
+                  "text": "Szent sztúpa helyszín Meiktilában.",
+                  "category": "landmark",
+                  "coords": [
+                        95.856586,
+                        20.895717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ဝမ်းတော်ပြည့် ဓာတ်တော်တိုက်",
+                  "text": "Un muzeu din Meiktila cu relicve religioase.",
+                  "category": "museum",
+                  "coords": [
+                        95.877874,
+                        20.897138
+                  ]
+            },
+            {
+                  "name": "Sasana Beikman;ဗိမာန်",
+                  "text": "Un monument important din Meiktila.",
+                  "category": "historical",
+                  "coords": [
+                        95.859844,
+                        20.876224
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Monumentul Independenței din Meiktila amintește de libertate.",
+                  "category": "historical",
+                  "coords": [
+                        95.858313,
+                        20.874857
+                  ]
+            },
+            {
+                  "name": "pagoda",
+                  "text": "O stupă budistă în Meiktila.",
+                  "category": "landmark",
+                  "coords": [
+                        95.852438,
+                        20.878156
+                  ]
+            },
+            {
+                  "name": "ဘုရား",
+                  "text": "O construcție religioasă de tip stupă în Meiktila.",
+                  "category": "landmark",
+                  "coords": [
+                        95.872014,
+                        20.892953
+                  ]
+            },
+            {
+                  "name": "တဝဂူဘုရား",
+                  "text": "Un loc sacru de tip stupă în Meiktila.",
+                  "category": "landmark",
+                  "coords": [
+                        95.856586,
+                        20.895717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wann Daw Pyae Buddha and Arahats' Relics Museum",
+                  "text": "A museum in Meiktila with religious relics.",
+                  "category": "museum",
+                  "coords": [
+                        95.877874,
+                        20.897138
+                  ]
+            },
+            {
+                  "name": "Sasana Beikman;Bi Marn",
+                  "text": "A significant monument in Meiktila.",
+                  "category": "historical",
+                  "coords": [
+                        95.859844,
+                        20.876224
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "The Independence Monument commemorates freedom in Meiktila.",
+                  "category": "historical",
+                  "coords": [
+                        95.858313,
+                        20.874857
+                  ]
+            },
+            {
+                  "name": "pagoda",
+                  "text": "A Buddhist stupa in Meiktila.",
+                  "category": "landmark",
+                  "coords": [
+                        95.852438,
+                        20.878156
+                  ]
+            },
+            {
+                  "name": "ဘုရား",
+                  "text": "A religious stupa structure in Meiktila.",
+                  "category": "landmark",
+                  "coords": [
+                        95.872014,
+                        20.892953
+                  ]
+            },
+            {
+                  "name": "တဝဂူဘုရား",
+                  "text": "A sacred stupa site in Meiktila.",
+                  "category": "landmark",
+                  "coords": [
+                        95.856586,
+                        20.895717
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MM-04",
     coords: [95.8667, 20.8833],
@@ -417,7 +687,88 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       en: ["Dawei is the largest city in the Tanintharyi Region.", "Located 614 km south of Yangon by road.", "The city's dialect retains the 'r' sound, which has become 'y' in standard Burmese.", "Dawei SEZ is a joint project between Myanmar and Thailand.", "The region is a major hub for cashew nut and betel nut processing.", "The Payagyi Pagoda complex includes a museum with ancient Mon artifacts.", "Dawei experienced significant growth during the mining boom of the 1910s.", "Surrounded by the Tenasserim Range, a mountainous border with Thailand."],
     }, image: "/poi-images/dawei-cities-v2.webp"},
   {
-    id: "pyay-cities-v2",
+    id: "pyay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Night Market",
+                  "text": "Der Night Market ist eine Sehenswürdigkeit in Pyay.",
+                  "category": "landmark",
+                  "coords": [
+                        95.215069,
+                        18.820025
+                  ]
+            },
+            {
+                  "name": "Kanar Viewpoint",
+                  "text": "Kanar Viewpoint ist ein Aussichtspunkt in Pyay.",
+                  "category": "natural",
+                  "coords": [
+                        95.215673,
+                        18.810441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Night Market",
+                  "text": "A Night Market egy látványosság Pyay városában.",
+                  "category": "landmark",
+                  "coords": [
+                        95.215069,
+                        18.820025
+                  ]
+            },
+            {
+                  "name": "Kanar Viewpoint",
+                  "text": "A Kanar Viewpoint egy kilátóhely Pyay városában.",
+                  "category": "natural",
+                  "coords": [
+                        95.215673,
+                        18.810441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Night Market",
+                  "text": "Night Market este o atracție în Pyay.",
+                  "category": "landmark",
+                  "coords": [
+                        95.215069,
+                        18.820025
+                  ]
+            },
+            {
+                  "name": "Kanar Viewpoint",
+                  "text": "Kanar Viewpoint este un punct de belvedere situat în Pyay.",
+                  "category": "natural",
+                  "coords": [
+                        95.215673,
+                        18.810441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Night Market",
+                  "text": "The Night Market is an attraction situated in Pyay.",
+                  "category": "landmark",
+                  "coords": [
+                        95.215069,
+                        18.820025
+                  ]
+            },
+            {
+                  "name": "Kanar Viewpoint",
+                  "text": "Kanar Viewpoint is a scenic viewpoint located in Pyay.",
+                  "category": "natural",
+                  "coords": [
+                        95.215673,
+                        18.810441
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MM-02",
     coords: [95.2167, 18.8167],
@@ -444,7 +795,52 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     descriptionAdvanced: { de: "Pyay (früher Prome) liegt am Irrawaddy-Fluss, 286 Kilometer nordwestlich von Yangon, und hat rund 135.000 Einwohner. Die Stadt ist berühmt für die nahegelegenen Ruinen von Sri Ksetra, der Hauptstadt der Pyu-Stadtstaaten vom 5. bis 9. Jahrhundert und seit 2014 UNESCO-Weltkulturerbe. Die Pyu gelten als früheste buddhistische Kultur Myanmars; ihre 13 Kilometer lange Stadtmauer ist eine der größten erhaltenen vormodernen Stadtanlagen Südostasiens. Während Britisch-Birma (1886-1948) wurde Pyay zum wichtigen Flusshandels-Knotenpunkt zwischen Niederbirma und Oberbirma ausgebaut. Die Shwesandaw-Pagode (46 m) gilt als eine der heiligsten Pagoden Myanmars. Im Zweiten Weltkrieg wurde die Stadt 1942 schwer beschädigt.", hu: "Pjé (korábban Prome) az Irrawaddy folyó partján fekszik, Jangontól 286 kilométerre északnyugatra, mintegy 135 ezer lakossal. A város a közeli Sri Kszetra romjairól híres, amely az 5-9. század között a pju városállamok fovárosa volt és 2014 óta UNESCO világörökség. A pjuk Mianmar legkorábbi buddhista kultúrájának tartják oket; a 13 kilométer hosszú városfaluk Délkelet-Ázsia legnagyobb fennmaradt kora középkori városfala. A Brit Burma idején (1886-1948) Pjét fontos folyami kereskedelmi csomóponttá fejlesztették Alsó- és Felso-Burma között. A 46 méter magas Svesandav pagoda Mianmar egyik legszentebb buddhista zarándokhelye. A második világháborúban a várost 1942-ben súlyosan megrongálták. Ma is jelentos folyami kiköto és piacközpont, a Bagan elotti délkeleti csomópont.", ro: "Pyay (cunoscut anterior ca Prome) este situat pe râul Irrawaddy, la 286 de kilometri nord-vest de Yangon, cu aproximativ 135.000 de locuitori. Orașul este faimos pentru ruinele apropiate de Sri Ksetra, capitala statelor-cetate Pyu între secolele V-IX și sit UNESCO din 2014. Pyu sunt considerați cea mai veche cultură budistă a Myanmarului; zidul lor de cetate de 13 kilometri este unul dintre cele mai mari ziduri urbane premoderne păstrate din Asia de Sud-Est. În timpul Birmaniei Britanice (1886-1948), Pyay a fost dezvoltat ca un important nod fluvial între Birmania de Jos și de Sus. Pagoda Shwesandaw, înaltă de 46 de metri, este una dintre cele mai sacre pagode din Myanmar. În al Doilea Război Mondial, orașul a fost grav avariat în 1942. Astăzi rămâne un port fluvial activ și piață regională.", en: "Pyay (formerly Prome) sits on the Irrawaddy River 286 kilometres northwest of Yangon, with around 135,000 inhabitants. The town is famous for the nearby ruins of Sri Ksetra, capital of the Pyu city-states from the 5th to the 9th century and a UNESCO World Heritage Site since 2014. The Pyu are considered Myanmar's earliest Buddhist culture; their 13-kilometre city wall is one of the largest surviving pre-modern urban enclosures in Southeast Asia. During British Burma (1886-1948) Pyay was developed into a key river-trade hub between Lower and Upper Burma. The 46-metre Shwesandaw Pagoda is one of Myanmar's holiest Buddhist pilgrimage sites. In World War II the town was heavily damaged in 1942. Today Pyay remains a busy river port and regional market town." , es: "Pyay (antiguamente Prome) se encuentra a orillas del río Irawadi, 286 kilómetros al noroeste de Yangon, y cuenta con unos 135.000 habitantes. La ciudad es famosa por las cercanas ruinas de Sri Ksetra, capital de las ciudades-estado Pyu entre los siglos V y IX y Patrimonio de la Humanidad por la UNESCO desde 2014. Los Pyu son considerados la cultura budista más temprana de Myanmar; su muralla de 13 kilómetros es uno de los recintos urbanos premodernos más grandes de el sudeste asiático. Durante la Birmania Británica (1886-1948), Pyay se convirtió en un importante nudo comercial fluvial entre la Alta y la Baja Birmania. La pagoda Shwesandaw (46 m) es una de las más sagradas de Myanmar. La ciudad resultó gravemente dañada en 1942 durante la Segunda Guerra Mundial.", pt: "Pyay (antigamente Prome) situa-se no rio Irrawaddy, 286 quilómetros a noroeste de Yangon, e tem cerca de 135.000 habitantes. A cidade é famosa pelas ruínas próximas de Sri Ksetra, capital das cidades-estado Pyu do século V ao IX e Património Mundial da UNESCO desde 2014. Os Pyu são considerados a cultura budista mais antiga de Myanmar; a sua muralha de 13 quilómetros é um dos maiores complexos urbanos pré-modernos do sudeste asiático. Durante a Birmânia Britânica (1886-1948), Pyay tornou-se um importante nó de comércio fluvial entre a Baixa e a Alta Birmânia. O pagode Shwesandaw (46 m) é considerado um dos pagodes mais sagrados de Myanmar. Na Segunda Guerra Mundial, a cidade foi gravemente danificada em 1942.", fr: "Pyay (anciennement Prome) se trouve sur le fleuve Irrawaddy, à 286 kilomètres au nord-ouest de Yangon, et compte environ 135 000 habitants. La ville est réputée pour les ruines voisines de Sri Ksetra, la capitale des cités-États Pyu du Ve au IXe siècle, classée au patrimoine mondial de l'UNESCO depuis 2014. Les Pyu sont considérés comme la plus ancienne culture bouddhiste du Myanmar ; leur enceinte urbaine de 13 kilomètres est l'une des plus vastes structures urbaines prémodernes d'Asie du Sud-Est. Pendant la Birmanie britannique (1886-1948), Pyay fut transformée en un important carrefour commercial fluvial entre la Basse et la Haute-Birmanie. La pagode Shwesandaw (46 m) est l'une des pagodes les plus sacrées du Myanmar. En 1942, au cours de la Seconde Guerre mondiale, la ville fut lourdement endommagée."},
     factsAdvanced: { de: ["Bevölkerung ca. 135.000", "286 km nordwestlich von Yangon", "Sri Ksetra UNESCO seit 2014", "Pyu-Hauptstadt 5.-9. Jh.", "13 km lange Pyu-Stadtmauer erhalten", "Britisch-Birma 1886-1948", "Shwesandaw-Pagode (46 m)", "Schwer beschädigt 1942"] , es: ["Población aprox. 135.000", "286 km al noroeste de Yangon", "Sri Ksetra UNESCO desde 2014", "Capital Pyu siglos V-IX", "Muralla Pyu de 13 km conservada", "Birmania Británica 1886-1948", "Pagoda Shwesandaw (46 m)", "Gravemente dañada en 1942"], pt: ["População aprox. 135.000", "286 km a noroeste de Yangon", "Sri Ksetra UNESCO desde 2014", "Capital Pyu sécs. V-IX", "Muralha da cidade Pyu de 13 km conservada", "Birmânia Británica 1886-1948", "Pagode Shwesandaw (46 m)", "Gravemente danificada em 1942"], fr: ["Population env. 135 000", "286 km au nord-ouest de Yangon", "Sri Ksetra UNESCO depuis 2014", "Capitale Pyu du Ve au IXe s.", "Enceinte Pyu de 13 km conservée", "Birmanie britannique 1886-1948", "Pagode Shwesandaw (46 m)", "Lourdement endommagée en 1942"]}, image: "/poi-images/pyay-cities-v2.webp"},
   {
-    id: "hinthada-cities-v2",
+    id: "hinthada-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "လွတ်လပ်ရေးကျောက်တိုင်",
+                  "text": "Ein Denkmal in Hinthada, das an die Unabhängigkeit erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        95.458418,
+                        17.652097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "လွတ်လပ်ရေးကျောက်တိုင်",
+                  "text": "A Hinthadában található emlékmű a függetlenségre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        95.458418,
+                        17.652097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "လွတ်လပ်ရေးကျောက်တိုင်",
+                  "text": "Monumentul din Hinthada comemorează independența.",
+                  "category": "historical",
+                  "coords": [
+                        95.458418,
+                        17.652097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "လွတ်လပ်ရေးကျောက်တိုင်",
+                  "text": "A monument in Hinthada commemorating independence.",
+                  "category": "historical",
+                  "coords": [
+                        95.458418,
+                        17.652097
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MM-07",
     coords: [95.4500, 17.6500],
@@ -545,7 +941,1384 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       en: ["Administrative capital of the Magway Region.", "Known as the 'Oil Pot of Myanmar' for its edible oil production.", "Home to the famous riverside Mya Tha Lun Pagoda.", "Located on the eastern bank of the Irrawaddy River.", "The Magway Bridge is a major engineering feat in the region.", "Houses a prominent University of Medicine and Magway University.", "Situated in the central dry zone with a tropical savanna climate.", "Major trading center for sesame, groundnuts, and pulses."],
     }, image: "/poi-images/magway-cities-v2.webp"},
   {
-    id: "nyaung-u-cities-v2",
+    id: "nyaung-u-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Su-la-ma-ni Pahto",
+                  "text": "Der Sulamani-Tempel ist ein historischer Ruinentempel in Nyaung U, der für sein Ziegelmauerwerk und Fresken bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        94.881328,
+                        21.164913
+                  ]
+            },
+            {
+                  "name": "Hti Lo Mi Lo / Htilominlo Temple ထီးလိုမင်းလိုဘုရား",
+                  "text": "Der Htilominlo-Tempel ist ein buddhistischer Tempel in Nyaung U, der für seine kunstvollen Stuckarbeiten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        94.879302,
+                        21.178574
+                  ]
+            },
+            {
+                  "name": "ရွှေစည်းခုံဘုရား",
+                  "text": "Die Shwezigon-Pagode ist eine berühmte Sehenswürdigkeit in Nyaung U, in der Reliquien von Buddha aufbewahrt werden sollen.",
+                  "category": "landmark",
+                  "coords": [
+                        94.893887,
+                        21.195318
+                  ]
+            },
+            {
+                  "name": "Thanaka Museum",
+                  "text": "Das Thanaka Museum ist ein lokales Museum in Nyaung U.",
+                  "category": "museum",
+                  "coords": [
+                        94.89907,
+                        21.194527
+                  ]
+            },
+            {
+                  "name": "Oak Kyaung Gyi",
+                  "text": "Oak Kyaung Gyi ist eine archäologische Stätte in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.877534,
+                        21.176057
+                  ]
+            },
+            {
+                  "name": "ရှေးစေတီ",
+                  "text": "Dies ist eine archäologische Stätte in Nyaung U, die alte Stupa-Überreste bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        94.899736,
+                        21.17822
+                  ]
+            },
+            {
+                  "name": "Paya-nga-zu Group",
+                  "text": "Paya nga zu ist eine von einem Erdbeben betroffene, geneigte Stupa-Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.875297,
+                        21.177595
+                  ]
+            },
+            {
+                  "name": "Pathothamaya",
+                  "text": "Pathothamaya ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.89913,
+                        21.157273
+                  ]
+            },
+            {
+                  "name": "Satu Mukha",
+                  "text": "Satu Mukha besteht aus historischen Ruinen in der Stadt Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.874486,
+                        21.180938
+                  ]
+            },
+            {
+                  "name": "Sulegone Group",
+                  "text": "Die Soo-lay-gon-Gruppe umfasst historische Tempelruinen in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.892184,
+                        21.17934
+                  ]
+            },
+            {
+                  "name": "U Yen Gin Temple",
+                  "text": "Der U Yen Gin-Tempel ist eine Ruinenstätte in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.878337,
+                        21.182267
+                  ]
+            },
+            {
+                  "name": "175(A)",
+                  "text": "Diese Stätte ist ein Denkmal in Trümmern in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.878409,
+                        21.170522
+                  ]
+            },
+            {
+                  "name": "1800-B",
+                  "text": "1800-B bezieht sich auf eine spezifische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.879486,
+                        21.174382
+                  ]
+            },
+            {
+                  "name": "1803-A",
+                  "text": "1803-A ist eine antike Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.879376,
+                        21.175715
+                  ]
+            },
+            {
+                  "name": "Gubyauk Gyi (Wetkyi-in)",
+                  "text": "Gubyauk Gyi in Wetkyi-in ist eine historische Tempelruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.893667,
+                        21.18578
+                  ]
+            },
+            {
+                  "name": "Paung Le Hpaya",
+                  "text": "Paung Le Hpaya ist eine historische Ruinenstätte in der Stadt Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.893008,
+                        21.18971
+                  ]
+            },
+            {
+                  "name": "Shin Bo Me OK Kyaung",
+                  "text": "Shin Bo Me OK Kyaung ist ein architektonisches Bauwerk in Trümmern in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.890516,
+                        21.183102
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရား",
+                  "text": "Diese Stätte enthält Ruinen einer alten Pagode in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.899664,
+                        21.174112
+                  ]
+            },
+            {
+                  "name": "မောင်ရုံးဂူ ရှေးဟောင်းဘုရားအမှတ် (၆၀၀)",
+                  "text": "Diese Stätte weist die Ruinen einer antiken Pagode mit der Nummer 600 in Nyaung U auf.",
+                  "category": "historical",
+                  "coords": [
+                        94.905176,
+                        21.171339
+                  ]
+            },
+            {
+                  "name": "သံဗုဒ္ဓေဘုရား ဘုရားအမှတ် ၆၄၇",
+                  "text": "Diese alte Pagodenruine, bekannt als Sambuddhe und nummeriert mit 647, befindet sich in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.902067,
+                        21.169978
+                  ]
+            },
+            {
+                  "name": "Winido Temple (No.659) ဝိနည်းဓိုရ်ဘုရား",
+                  "text": "Der Winido-Tempel mit der Nummer 659 ist eine historische Ruinenstätte in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.903662,
+                        21.169535
+                  ]
+            },
+            {
+                  "name": "Iza Gawna Pagoda အဇ္ဇဂေါဏ ဘုရား",
+                  "text": "Iza Gawna Pagoda အဇ္ဇဂေါဏ ဘုရား ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.905873,
+                        21.170227
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (၅၇၈)",
+                  "text": "ရှေးဟောင်းဘုရားအမှတ် (၅၇၈) ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.9046,
+                        21.165885
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (၅၃၃)",
+                  "text": "ရှေးဟောင်းဘုရားအမှတ် (၅၃၃) ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.90361,
+                        21.164376
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (697)",
+                  "text": "ရှေးဟောင်းဘုရားအမှတ် (697) ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.895362,
+                        21.162645
+                  ]
+            },
+            {
+                  "name": "Bulethi Pagoda",
+                  "text": "Buledi (closed 13.6.2023) ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.881886,
+                        21.173852
+                  ]
+            },
+            {
+                  "name": "Pagan Myaw  Phaya",
+                  "text": "Pagan Myaw  Phaya ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.876256,
+                        21.172063
+                  ]
+            },
+            {
+                  "name": "Narathihapatae (Tayok Pyay)",
+                  "text": "Narathihapatae (Tayok Pyay) ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.900845,
+                        21.162712
+                  ]
+            },
+            {
+                  "name": "Tha Beik Hmauk Hpaya",
+                  "text": "Tha Beik Hmauk Hpaya ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.883541,
+                        21.16587
+                  ]
+            },
+            {
+                  "name": "Laymyethna group",
+                  "text": "Laymyethna - the white temple ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.901943,
+                        21.160464
+                  ]
+            },
+            {
+                  "name": "Thaddhamman Yanthi (585)",
+                  "text": "Thaddhamman Yanthi (585) ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.906398,
+                        21.166062
+                  ]
+            },
+            {
+                  "name": "Thambula Temple",
+                  "text": "Thambula Temple ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.904117,
+                        21.162947
+                  ]
+            },
+            {
+                  "name": "Nwar Pya Gu temple",
+                  "text": "Thahtaygu Temple ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.896457,
+                        21.197203
+                  ]
+            },
+            {
+                  "name": "U Yan We Hpawa",
+                  "text": "U Yan We Hpawa ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.895456,
+                        21.196643
+                  ]
+            },
+            {
+                  "name": "Paya Thon Zu",
+                  "text": "Paya Thon Zu ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.903379,
+                        21.162007
+                  ]
+            },
+            {
+                  "name": "588-A",
+                  "text": "588-A ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.904579,
+                        21.168937
+                  ]
+            },
+            {
+                  "name": "Gubyauk Nge (Wetkyi-in)",
+                  "text": "Gubyauk nge 11 century (the guardian can open the door) ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.891036,
+                        21.184947
+                  ]
+            },
+            {
+                  "name": "Hpaya Ni",
+                  "text": "Roof closed on may 2019 ist eine historische Ruine in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.88273,
+                        21.187433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Su-la-ma-ni Pahto",
+                  "text": "A Sulamani-templom egy történelmi templomrom Nyaung U-ban, amely finom téglamunkájáról és freskóiról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        94.881328,
+                        21.164913
+                  ]
+            },
+            {
+                  "name": "Hti Lo Mi Lo / Htilominlo Temple ထီးလိုမင်းလိုဘုရား",
+                  "text": "A Htilominlo-templom egy jelentős buddhista látványosság Nyaung U-ban, amely kidolgozott stukkóiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        94.879302,
+                        21.178574
+                  ]
+            },
+            {
+                  "name": "ရွှေစည်းခုံဘုရား",
+                  "text": "A Shwezigon-pagoda egy híres látványosság Nyaung U-ban, ahol a hagyomány szerint Buddha ereklyéit őrzik.",
+                  "category": "landmark",
+                  "coords": [
+                        94.893887,
+                        21.195318
+                  ]
+            },
+            {
+                  "name": "Thanaka Museum",
+                  "text": "A Thanaka Múzeum egy helyi múzeum Nyaung U városában.",
+                  "category": "museum",
+                  "coords": [
+                        94.89907,
+                        21.194527
+                  ]
+            },
+            {
+                  "name": "Oak Kyaung Gyi",
+                  "text": "Az Oak Kyaung Gyi egy régészeti lelőhely Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.877534,
+                        21.176057
+                  ]
+            },
+            {
+                  "name": "ရှေးစေတီ",
+                  "text": "Ez egy régészeti lelőhely Nyaung U-ban, amely ősi sztúpa maradványokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        94.899736,
+                        21.17822
+                  ]
+            },
+            {
+                  "name": "Paya-nga-zu Group",
+                  "text": "A Paya nga zu egy földrengés miatt megdőlt sztúparom Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.875297,
+                        21.177595
+                  ]
+            },
+            {
+                  "name": "Pathothamaya",
+                  "text": "Pathothamaya egy történelmi romépület Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.89913,
+                        21.157273
+                  ]
+            },
+            {
+                  "name": "Satu Mukha",
+                  "text": "A Satu Mukha történelmi romokból áll Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.874486,
+                        21.180938
+                  ]
+            },
+            {
+                  "name": "Sulegone Group",
+                  "text": "A Soo-lay-gon csoport történelmi templomromokat foglal magában Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.892184,
+                        21.17934
+                  ]
+            },
+            {
+                  "name": "U Yen Gin Temple",
+                  "text": "Az U Yen Gin-templom egy romterület Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.878337,
+                        21.182267
+                  ]
+            },
+            {
+                  "name": "175(A)",
+                  "text": "Ez a hely egy műemlékrom Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.878409,
+                        21.170522
+                  ]
+            },
+            {
+                  "name": "1800-B",
+                  "text": "Az 1800-B egy specifikus romépületet jelöl Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.879486,
+                        21.174382
+                  ]
+            },
+            {
+                  "name": "1803-A",
+                  "text": "Az 1803-A egy ősi romépület Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.879376,
+                        21.175715
+                  ]
+            },
+            {
+                  "name": "Gubyauk Gyi (Wetkyi-in)",
+                  "text": "A Wetkyi-inben található Gubyauk Gyi egy történelmi templomrom Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.893667,
+                        21.18578
+                  ]
+            },
+            {
+                  "name": "Paung Le Hpaya",
+                  "text": "A Paung Le Hpaya egy történelmi romterület Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.893008,
+                        21.18971
+                  ]
+            },
+            {
+                  "name": "Shin Bo Me OK Kyaung",
+                  "text": "A Shin Bo Me OK Kyaung egy romos építészeti építmény Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.890516,
+                        21.183102
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရား",
+                  "text": "Ez a hely egy ősi pagoda romjait tartalmazza Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.899664,
+                        21.174112
+                  ]
+            },
+            {
+                  "name": "မောင်ရုံးဂူ ရှေးဟောင်းဘုရားအမှတ် (၆၀၀)",
+                  "text": "Ez a terület a 600-as számú ősi pagoda romjait rejti Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.905176,
+                        21.171339
+                  ]
+            },
+            {
+                  "name": "သံဗုဒ္ဓေဘုရား ဘုရားအမှတ် ၆၄၇",
+                  "text": "Ez a Sambuddhe néven ismert, 647-es számú ősi pagodarom Nyaung U-ban található.",
+                  "category": "historical",
+                  "coords": [
+                        94.902067,
+                        21.169978
+                  ]
+            },
+            {
+                  "name": "Winido Temple (No.659) ဝိနည်းဓိုရ်ဘုရား",
+                  "text": "A 659-es számmal jelölt Winido-templom egy történelmi romterület Nyaung U-ban.",
+                  "category": "historical",
+                  "coords": [
+                        94.903662,
+                        21.169535
+                  ]
+            },
+            {
+                  "name": "Iza Gawna Pagoda အဇ္ဇဂေါဏ ဘုရား",
+                  "text": "A(z) Iza Gawna Pagoda အဇ္ဇဂေါဏ ဘုရား egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.905873,
+                        21.170227
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (၅၇၈)",
+                  "text": "A(z) ရှေးဟောင်းဘုရားအမှတ် (၅၇၈) egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.9046,
+                        21.165885
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (၅၃၃)",
+                  "text": "A(z) ရှေးဟောင်းဘုရားအမှတ် (၅၃၃) egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.90361,
+                        21.164376
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (697)",
+                  "text": "A(z) ရှေးဟောင်းဘုရားအမှတ် (697) egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.895362,
+                        21.162645
+                  ]
+            },
+            {
+                  "name": "Bulethi Pagoda",
+                  "text": "A(z) Buledi (closed 13.6.2023) egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.881886,
+                        21.173852
+                  ]
+            },
+            {
+                  "name": "Pagan Myaw  Phaya",
+                  "text": "A(z) Pagan Myaw  Phaya egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.876256,
+                        21.172063
+                  ]
+            },
+            {
+                  "name": "Narathihapatae (Tayok Pyay)",
+                  "text": "A(z) Narathihapatae (Tayok Pyay) egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.900845,
+                        21.162712
+                  ]
+            },
+            {
+                  "name": "Tha Beik Hmauk Hpaya",
+                  "text": "A(z) Tha Beik Hmauk Hpaya egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.883541,
+                        21.16587
+                  ]
+            },
+            {
+                  "name": "Laymyethna group",
+                  "text": "A(z) Laymyethna - the white temple egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.901943,
+                        21.160464
+                  ]
+            },
+            {
+                  "name": "Thaddhamman Yanthi (585)",
+                  "text": "A(z) Thaddhamman Yanthi (585) egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.906398,
+                        21.166062
+                  ]
+            },
+            {
+                  "name": "Thambula Temple",
+                  "text": "A(z) Thambula Temple egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.904117,
+                        21.162947
+                  ]
+            },
+            {
+                  "name": "Nwar Pya Gu temple",
+                  "text": "A(z) Thahtaygu Temple egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.896457,
+                        21.197203
+                  ]
+            },
+            {
+                  "name": "U Yan We Hpawa",
+                  "text": "A(z) U Yan We Hpawa egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.895456,
+                        21.196643
+                  ]
+            },
+            {
+                  "name": "Paya Thon Zu",
+                  "text": "A(z) Paya Thon Zu egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.903379,
+                        21.162007
+                  ]
+            },
+            {
+                  "name": "588-A",
+                  "text": "A(z) 588-A egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.904579,
+                        21.168937
+                  ]
+            },
+            {
+                  "name": "Gubyauk Nge (Wetkyi-in)",
+                  "text": "A(z) Gubyauk nge 11 century (the guardian can open the door) egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.891036,
+                        21.184947
+                  ]
+            },
+            {
+                  "name": "Hpaya Ni",
+                  "text": "A(z) Roof closed on may 2019 egy történelmi rom Nyaung U városában.",
+                  "category": "historical",
+                  "coords": [
+                        94.88273,
+                        21.187433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Su-la-ma-ni Pahto",
+                  "text": "Templul Sulamani este un templu istoric în ruină din Nyaung U, cunoscut pentru cărămidăria sa fină și fresce.",
+                  "category": "historical",
+                  "coords": [
+                        94.881328,
+                        21.164913
+                  ]
+            },
+            {
+                  "name": "Hti Lo Mi Lo / Htilominlo Temple ထီးလိုမင်းလိုဘုရား",
+                  "text": "Templul Htilominlo este o importantă atracție budistă din Nyaung U, recunoscut pentru mulajele sale elaborate din ipsos.",
+                  "category": "landmark",
+                  "coords": [
+                        94.879302,
+                        21.178574
+                  ]
+            },
+            {
+                  "name": "ရွှေစည်းခုံဘုရား",
+                  "text": "Pagoda Shwezigon este o atracție renumită din Nyaung U, unde se crede că sunt adăpostite oasele și un dinte al lui Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        94.893887,
+                        21.195318
+                  ]
+            },
+            {
+                  "name": "Thanaka Museum",
+                  "text": "Muzeul Thanaka este un muzeu local situat în Nyaung U.",
+                  "category": "museum",
+                  "coords": [
+                        94.89907,
+                        21.194527
+                  ]
+            },
+            {
+                  "name": "Oak Kyaung Gyi",
+                  "text": "Oak Kyaung Gyi este un sit arheologic situat în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.877534,
+                        21.176057
+                  ]
+            },
+            {
+                  "name": "ရှေးစေတီ",
+                  "text": "Acesta este un sit arheologic care conservă rămășițele unei stupa antice în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.899736,
+                        21.17822
+                  ]
+            },
+            {
+                  "name": "Paya-nga-zu Group",
+                  "text": "Paya nga zu este o stupa înclinată în ruină din Nyaung U, afectată de un cutremur.",
+                  "category": "historical",
+                  "coords": [
+                        94.875297,
+                        21.177595
+                  ]
+            },
+            {
+                  "name": "Pathothamaya",
+                  "text": "Pathothamaya este o structură istorică în ruină situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.89913,
+                        21.157273
+                  ]
+            },
+            {
+                  "name": "Satu Mukha",
+                  "text": "Satu Mukha constă în ruine istorice situate în orașul Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.874486,
+                        21.180938
+                  ]
+            },
+            {
+                  "name": "Sulegone Group",
+                  "text": "Grupul Soo-lay-gon prezintă temple istorice în ruină din Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.892184,
+                        21.17934
+                  ]
+            },
+            {
+                  "name": "U Yen Gin Temple",
+                  "text": "Templul U Yen Gin este un sit în ruină situat în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.878337,
+                        21.182267
+                  ]
+            },
+            {
+                  "name": "175(A)",
+                  "text": "Acest loc este un monument în ruină situat în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.878409,
+                        21.170522
+                  ]
+            },
+            {
+                  "name": "1800-B",
+                  "text": "1800-B se referă la o structură în ruină specifică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.879486,
+                        21.174382
+                  ]
+            },
+            {
+                  "name": "1803-A",
+                  "text": "1803-A este o structură antică în ruină din Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.879376,
+                        21.175715
+                  ]
+            },
+            {
+                  "name": "Gubyauk Gyi (Wetkyi-in)",
+                  "text": "Gubyauk Gyi din Wetkyi-in este un templu istoric în ruină situat în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.893667,
+                        21.18578
+                  ]
+            },
+            {
+                  "name": "Paung Le Hpaya",
+                  "text": "Paung Le Hpaya este un sit istoric în ruină situat în orașul Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.893008,
+                        21.18971
+                  ]
+            },
+            {
+                  "name": "Shin Bo Me OK Kyaung",
+                  "text": "Shin Bo Me OK Kyaung este o structură arhitecturală în ruină situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.890516,
+                        21.183102
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရား",
+                  "text": "Acest sit conține ruinele unei pagode antice situate în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.899664,
+                        21.174112
+                  ]
+            },
+            {
+                  "name": "မောင်ရုံးဂူ ရှေးဟောင်းဘုရားအမှတ် (၆၀၀)",
+                  "text": "Acest sit prezintă ruinele unei pagode antice desemnate cu numărul 600 în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.905176,
+                        21.171339
+                  ]
+            },
+            {
+                  "name": "သံဗုဒ္ဓေဘုရား ဘုရားအမှတ် ၆၄၇",
+                  "text": "Această veche pagodă în ruină, cunoscută sub numele de Sambuddhe și numerotată 647, este situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.902067,
+                        21.169978
+                  ]
+            },
+            {
+                  "name": "Winido Temple (No.659) ဝိနည်းဓိုရ်ဘုရား",
+                  "text": "Templul Winido, desemnat cu numărul 659, este un sit istoric în ruină din Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.903662,
+                        21.169535
+                  ]
+            },
+            {
+                  "name": "Iza Gawna Pagoda အဇ္ဇဂေါဏ ဘုရား",
+                  "text": "Iza Gawna Pagoda အဇ္ဇဂေါဏ ဘုရား este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.905873,
+                        21.170227
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (၅၇၈)",
+                  "text": "ရှေးဟောင်းဘုရားအမှတ် (၅၇၈) este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.9046,
+                        21.165885
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (၅၃၃)",
+                  "text": "ရှေးဟောင်းဘုရားအမှတ် (၅၃၃) este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.90361,
+                        21.164376
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (697)",
+                  "text": "ရှေးဟောင်းဘုရားအမှတ် (697) este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.895362,
+                        21.162645
+                  ]
+            },
+            {
+                  "name": "Bulethi Pagoda",
+                  "text": "Buledi (closed 13.6.2023) este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.881886,
+                        21.173852
+                  ]
+            },
+            {
+                  "name": "Pagan Myaw  Phaya",
+                  "text": "Pagan Myaw  Phaya este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.876256,
+                        21.172063
+                  ]
+            },
+            {
+                  "name": "Narathihapatae (Tayok Pyay)",
+                  "text": "Narathihapatae (Tayok Pyay) este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.900845,
+                        21.162712
+                  ]
+            },
+            {
+                  "name": "Tha Beik Hmauk Hpaya",
+                  "text": "Tha Beik Hmauk Hpaya este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.883541,
+                        21.16587
+                  ]
+            },
+            {
+                  "name": "Laymyethna group",
+                  "text": "Laymyethna - the white temple este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.901943,
+                        21.160464
+                  ]
+            },
+            {
+                  "name": "Thaddhamman Yanthi (585)",
+                  "text": "Thaddhamman Yanthi (585) este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.906398,
+                        21.166062
+                  ]
+            },
+            {
+                  "name": "Thambula Temple",
+                  "text": "Thambula Temple este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.904117,
+                        21.162947
+                  ]
+            },
+            {
+                  "name": "Nwar Pya Gu temple",
+                  "text": "Thahtaygu Temple este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.896457,
+                        21.197203
+                  ]
+            },
+            {
+                  "name": "U Yan We Hpawa",
+                  "text": "U Yan We Hpawa este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.895456,
+                        21.196643
+                  ]
+            },
+            {
+                  "name": "Paya Thon Zu",
+                  "text": "Paya Thon Zu este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.903379,
+                        21.162007
+                  ]
+            },
+            {
+                  "name": "588-A",
+                  "text": "588-A este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.904579,
+                        21.168937
+                  ]
+            },
+            {
+                  "name": "Gubyauk Nge (Wetkyi-in)",
+                  "text": "Gubyauk nge 11 century (the guardian can open the door) este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.891036,
+                        21.184947
+                  ]
+            },
+            {
+                  "name": "Hpaya Ni",
+                  "text": "Roof closed on may 2019 este o ruină istorică situată în Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.88273,
+                        21.187433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sulamani Temple",
+                  "text": "Sulamani Temple is a historic ruined temple in Nyaung U, known for its fine brickwork and frescoes.",
+                  "category": "historical",
+                  "coords": [
+                        94.881328,
+                        21.164913
+                  ]
+            },
+            {
+                  "name": "Htilominio Temple",
+                  "text": "Htilominlo Temple is a major Buddhist temple attraction in Nyaung U, recognized for its elaborate plaster moldings.",
+                  "category": "landmark",
+                  "coords": [
+                        94.879302,
+                        21.178574
+                  ]
+            },
+            {
+                  "name": "Shwezigon Pagoda",
+                  "text": "Shwezigon Pagoda is a renowned attraction in Nyaung U, believed to enshrine a bone and tooth of Gautama Buddha.",
+                  "category": "landmark",
+                  "coords": [
+                        94.893887,
+                        21.195318
+                  ]
+            },
+            {
+                  "name": "Thanaka Museum",
+                  "text": "Thanaka Museum is a local museum located in Nyaung U.",
+                  "category": "museum",
+                  "coords": [
+                        94.89907,
+                        21.194527
+                  ]
+            },
+            {
+                  "name": "Oak Kyaung Gyi",
+                  "text": "Oak Kyaung Gyi is an archaeological site located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.877534,
+                        21.176057
+                  ]
+            },
+            {
+                  "name": "ရှေးစေတီ",
+                  "text": "This is an archaeological site preserving ancient stupa remains in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.899736,
+                        21.17822
+                  ]
+            },
+            {
+                  "name": "Paya nga zu - the leaning stupa, from earthquake",
+                  "text": "Paya nga zu is a ruined leaning stupa in Nyaung U affected by an earthquake.",
+                  "category": "historical",
+                  "coords": [
+                        94.875297,
+                        21.177595
+                  ]
+            },
+            {
+                  "name": "Pathothamaya",
+                  "text": "Pathothamaya is a historical ruined structure located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.89913,
+                        21.157273
+                  ]
+            },
+            {
+                  "name": "Satu Mukha",
+                  "text": "Satu Mukha consists of historic ruins situated in the city of Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.874486,
+                        21.180938
+                  ]
+            },
+            {
+                  "name": "Soo-lay-gon Group Sunset temples (first little pagoda on the left has 4 Buddhas with paint around). good for balloon viewing",
+                  "text": "The Soo-lay-gon Group features historic ruined temples in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.892184,
+                        21.17934
+                  ]
+            },
+            {
+                  "name": "U Yen Gin Temple",
+                  "text": "U Yen Gin Temple is a ruined site situated in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.878337,
+                        21.182267
+                  ]
+            },
+            {
+                  "name": "175(A)",
+                  "text": "This site is a ruined monument located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.878409,
+                        21.170522
+                  ]
+            },
+            {
+                  "name": "1800-B",
+                  "text": "1800-B refers to a specific ruined structure located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.879486,
+                        21.174382
+                  ]
+            },
+            {
+                  "name": "1803-A",
+                  "text": "1803-A is an ancient ruined structure in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.879376,
+                        21.175715
+                  ]
+            },
+            {
+                  "name": "Gubyauk Gyi (Wetkyi-in)",
+                  "text": "Gubyauk Gyi in Wetkyi-in is a historic ruined temple situated in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.893667,
+                        21.18578
+                  ]
+            },
+            {
+                  "name": "Paung Le Hpaya",
+                  "text": "Paung Le Hpaya is a historic ruined site located in the city of Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.893008,
+                        21.18971
+                  ]
+            },
+            {
+                  "name": "Shin Bo Me OK Kyaung",
+                  "text": "Shin Bo Me OK Kyaung is a ruined architectural structure situated in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.890516,
+                        21.183102
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရား",
+                  "text": "This site contains ruins of an ancient pagoda located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.899664,
+                        21.174112
+                  ]
+            },
+            {
+                  "name": "မောင်ရုံးဂူ ရှေးဟောင်းဘုရားအမှတ် (၆၀၀)",
+                  "text": "This site features the ruins of an ancient pagoda designated as number 600 in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.905176,
+                        21.171339
+                  ]
+            },
+            {
+                  "name": "သံဗုဒ္ဓေဘုရား ဘုရားအမှတ် ၆၄၇",
+                  "text": "This ruined ancient pagoda, known as Sambuddhe and numbered 647, is located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.902067,
+                        21.169978
+                  ]
+            },
+            {
+                  "name": "Winido Temple (No.659) ဝိနည်းဓိုရ်ဘုရား",
+                  "text": "Winido Temple, designated as number 659, is a historic ruined site in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.903662,
+                        21.169535
+                  ]
+            },
+            {
+                  "name": "Iza Gawna Pagoda အဇ္ဇဂေါဏ ဘုရား",
+                  "text": "Iza Gawna Pagoda အဇ္ဇဂေါဏ ဘုရား is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.905873,
+                        21.170227
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (၅၇၈)",
+                  "text": "ရှေးဟောင်းဘုရားအမှတ် (၅၇၈) is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.9046,
+                        21.165885
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (၅၃၃)",
+                  "text": "ရှေးဟောင်းဘုရားအမှတ် (၅၃၃) is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.90361,
+                        21.164376
+                  ]
+            },
+            {
+                  "name": "ရှေးဟောင်းဘုရားအမှတ် (697)",
+                  "text": "ရှေးဟောင်းဘုရားအမှတ် (697) is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.895362,
+                        21.162645
+                  ]
+            },
+            {
+                  "name": "Buledi (closed 13.6.2023)",
+                  "text": "Buledi (closed 13.6.2023) is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.881886,
+                        21.173852
+                  ]
+            },
+            {
+                  "name": "Pagan Myaw  Phaya",
+                  "text": "Pagan Myaw  Phaya is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.876256,
+                        21.172063
+                  ]
+            },
+            {
+                  "name": "Narathihapatae (Tayok Pyay)",
+                  "text": "Narathihapatae (Tayok Pyay) is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.900845,
+                        21.162712
+                  ]
+            },
+            {
+                  "name": "Tha Beik Hmauk Hpaya",
+                  "text": "Tha Beik Hmauk Hpaya is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.883541,
+                        21.16587
+                  ]
+            },
+            {
+                  "name": "Laymyethna - the white temple",
+                  "text": "Laymyethna - the white temple is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.901943,
+                        21.160464
+                  ]
+            },
+            {
+                  "name": "Thaddhamman Yanthi (585)",
+                  "text": "Thaddhamman Yanthi (585) is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.906398,
+                        21.166062
+                  ]
+            },
+            {
+                  "name": "Thambula Temple",
+                  "text": "Thambula Temple is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.904117,
+                        21.162947
+                  ]
+            },
+            {
+                  "name": "Thahtaygu Temple",
+                  "text": "Thahtaygu Temple is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.896457,
+                        21.197203
+                  ]
+            },
+            {
+                  "name": "U Yan We Hpawa",
+                  "text": "U Yan We Hpawa is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.895456,
+                        21.196643
+                  ]
+            },
+            {
+                  "name": "Paya Thon Zu",
+                  "text": "Paya Thon Zu is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.903379,
+                        21.162007
+                  ]
+            },
+            {
+                  "name": "588-A",
+                  "text": "588-A is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.904579,
+                        21.168937
+                  ]
+            },
+            {
+                  "name": "Gubyauk nge 11 century (the guardian can open the door)",
+                  "text": "Gubyauk nge 11 century (the guardian can open the door) is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.891036,
+                        21.184947
+                  ]
+            },
+            {
+                  "name": "Roof closed on may 2019",
+                  "text": "Roof closed on may 2019 is a historical ruin located in Nyaung U.",
+                  "category": "historical",
+                  "coords": [
+                        94.88273,
+                        21.187433
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MM-04",
     coords: [94.9000, 21.1833],
@@ -572,7 +2345,484 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     descriptionAdvanced: { de: "Nyaung U liegt am östlichen Irrawaddy-Ufer in der Mandalay-Region und ist mit rund 48.000 Einwohnern die Eingangsstadt zum Tempelfeld von Bagan. Bagan war von 1044 bis 1297 Hauptstadt des ersten birmanischen Großreiches unter König Anawrahta und seinen Nachfolgern. In dieser Blütezeit (9.-13. Jahrhundert) entstanden auf 104 km² über 10.000 buddhistische Tempel, Pagoden und Klöster, von denen heute noch rund 3.822 erhalten sind - die größte Konzentration buddhistischer Bauwerke der Welt. Bagan wurde 2019 UNESCO-Weltkulturerbe. Die Mongolen unter Kublai Khan zerstörten 1287 die Hauptstadt. Während Britisch-Birma (1886-1948) wurde Nyaung U zum Eisenbahnknotenpunkt. Im August 2016 beschädigte ein Erdbeben (M6,8) zahlreiche Tempel; im März 2025 erschütterte ein weiteres schweres Beben die Region.", hu: "Nyaung-U az Irrawaddy keleti partján fekszik a Mandalay régióban, és körülbelül 48 ezer lakosával Bagán templomvidékének kapuvárosa. Bagán 1044-tol 1297-ig az elso burmai birodalom fovárosa volt Anavrahta király és utódai uralma alatt. A virágkorban (9-13. század) több mint 10 ezer buddhista templom, pagoda és kolostor épült 104 négyzetkilométeres területen, amelyekbol ma még mintegy 3822 maradt fenn - ez a buddhista épületek legnagyobb koncentrációja a világon. Bagán 2019-ben került fel az UNESCO világörökségi listájára. A mongolok Kublaj kán vezetésével 1287-ben lerombolták a fovárost. A Brit Burma idején (1886-1948) Nyaung-U vasúti csomóponttá vált. 2016 augusztusában 6,8-es magnitúdójú földrengés rongálta meg a templomokat, 2025 márciusában újabb komoly földrengés sújtotta a régiót.", ro: "Nyaung-U se află pe malul estic al Irrawaddyului, în regiunea Mandalay, și este, cu aproximativ 48.000 de locuitori, orașul-poartă spre câmpul de temple de la Bagan. Bagan a fost capitala primului mare imperiu birmanez între 1044 și 1297, sub regele Anawrahta și succesorii săi. În perioada de înflorire (secolele IX-XIII), pe o suprafață de 104 km² au fost construite peste 10.000 de temple, pagode și mănăstiri budiste, dintre care circa 3.822 mai există astăzi - cea mai mare concentrare de monumente budiste din lume. Bagan a intrat pe lista UNESCO în 2019. Mongolii lui Kublai Khan au distrus capitala în 1287. În timpul Birmaniei Britanice (1886-1948), Nyaung-U a devenit nod feroviar. În august 2016, un cutremur de magnitudine 6,8 a avariat numeroase temple; un alt cutremur major a lovit regiunea în martie 2025.", en: "Nyaung-U lies on the eastern bank of the Irrawaddy in the Mandalay Region and, with around 48,000 inhabitants, is the gateway town to the temple field of Bagan. Bagan was the capital of the first great Burmese empire from 1044 to 1297 under King Anawrahta and his successors. During its golden age (9th-13th centuries), more than 10,000 Buddhist temples, pagodas and monasteries were built across an area of 104 square kilometres, of which about 3,822 survive - the largest concentration of Buddhist monuments in the world. Bagan was inscribed as a UNESCO World Heritage Site in 2019. The Mongols under Kublai Khan destroyed the capital in 1287. During British Burma (1886-1948) Nyaung-U developed as a railway junction. In August 2016 a magnitude 6.8 earthquake damaged numerous temples, and another major quake struck the region in March 2025." , es: "Nyaung U se encuentra en la orilla oriental del Irawadi, en la región de Mandalay, y con unos 48.000 habitantes es la ciudad de entrada a la zona arqueológica de Bagan. Bagan fue la capital del primer gran imperio birmano bajo el rey Anawrahta y sus sucesores entre 1044 y 1297. En este periodo de esplendor (siglos IX-XIII) se construyeron más de 10.000 templos, pagodas y monasterios budistas en 104 km², de los cuales hoy se conservan unos 3.822, la mayor concentración de edificios religiosos budistas del mundo. Bagan fue declarada Patrimonio de la Humanidad por la UNESCO en 2019. Los mongoles bajo Kublai Khan destruyeron la capital en 1287. Durante la Birmania Británica (1886-1948), Nyaung U se convirtió en un nudo ferroviario. En agosto de 2016, un terremoto (M6,8) dañó numerosos templos; en marzo de 2025, otro fuerte sismo sacudió la región.", pt: "Nyaung U situa-se na margem leste do Irrawaddy, na região de Mandalay, e com cerca de 48.000 habitantes é a porta de entrada para o campo de templos de Bagan. Bagan foi a capital do primeiro grande império birmanês sob o rei Anawrahta e os seus sucessores, de 1044 a 1297. Neste período áureo (séculos IX a XIII), foram construídos mais de 10.000 templos budistas, pagodes e mosteiros em 104 km², dos quais cerca de 3.822 ainda se conservam - a maior concentração de estruturas religiosas budistas do mundo. Bagan tornou-se Património Mundial da UNESCO em 2019. Os mongóis sob Kublai Khan destruíram a capital em 1287. Durante a Birmânia Britânica (1886-1948), Nyaung U tornou-se um nó ferroviário. Em agosto de 2016, um terramoto (M6,8) danificou numerosos templos; em março de 2025, outro forte sismo abalou a região.", fr: "Nyaung U se trouve sur la rive est de l'Irrawaddy dans la région de Mandalay et constitue, avec environ 48 000 habitants, la porte d'entrée du site des temples de Bagan. Bagan fut la capitale du premier grand empire birman sous le roi Anawrahta et ses successeurs de 1044 à 1297. Durant cette période faste (IXe-XIIIe siècles), plus de 10 000 temples bouddhistes, pagodes et monastères furent édifiés sur 104 km², dont environ 3 822 subsistent aujourd'hui - la plus grande concentration d'édifices religieux bouddhistes au monde. Bagan a été classé au patrimoine mondial de l'UNESCO en 2019. Les Mongols dirigés par Kublai Khan détruisirent la capitale en 1287. Pendant la Birmanie britannique (1886-1948), Nyaung U devint un nœud ferroviaire. En août 2016, un tremblement de terre (M6,8) endommagea de nombreux temples ; en mars 2025, un autre séisme puissant a secoué la région."},
     factsAdvanced: { de: ["Bevölkerung ca. 48.000", "Tor zum Tempelfeld Bagan", "Bagan-Reich 1044-1297", "9.-13. Jh.: 10.000+ Tempel erbaut", "Heute 3.822 Tempel erhalten", "Bagan UNESCO seit 2019", "Mongoleneroberung 1287 (Kublai Khan)", "Erdbeben August 2016 (M6,8) und März 2025"] , es: ["Población aprox. 48.000", "Puerta a los templos de Bagan", "Imperio de Bagan 1044-1297", "Siglos IX-XIII: más de 10.000 templos construidos", "Hoy se conservan 3.822 templos", "Bagan UNESCO desde 2019", "Conquista mongola 1287 (Kublai Khan)", "Terremotos en agosto de 2016 (M6,8) y marzo de 2025"], pt: ["População aprox. 48.000", "Porta de entrada para Bagan", "Império de Bagan 1044-1297", "Sécs. IX-XIII: 10.000+ templos construídos", "Hoje restam 3.822 templos", "Bagan UNESCO desde 2019", "Conquista mongol em 1287 (Kublai Khan)", "Terramotos em agosto de 2016 (M6,8) e março de 2025"], fr: ["Population env. 48 000", "Porte vers le site des temples de Bagan", "Empire de Bagan 1044-1297", "IXe-XIIIe s. : plus de 10 000 temples érigés", "Aujourd'hui 3 822 temples conservés", "Bagan UNESCO depuis 2019", "Conquête mongole en 1287 (Kublai Khan)", "Séismes en août 2016 (M6,8) et mars 2025"]}, image: "/poi-images/nyaung-u-cities-v2.webp"},
   {
-    id: "pyin-oo-lwin-cities-v2",
+    id: "pyin-oo-lwin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Candacraig",
+                  "text": "Candacraig ist eine archäologische Stätte in Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.478222,
+                        22.017934
+                  ]
+            },
+            {
+                  "name": "မြိုင်ဟေမာန်",
+                  "text": "မြိုင်ဟေမာန် ist eine archäologische Stätte in Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.476909,
+                        22.017988
+                  ]
+            },
+            {
+                  "name": "ထင်းရူးမြိုင်",
+                  "text": "ထင်းရူးမြိုင် ist eine archäologische Stätte in Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.475265,
+                        22.016237
+                  ]
+            },
+            {
+                  "name": "ကိုလိုနီခေတ်အိမ်",
+                  "text": "ကိုလိုနီခေတ်အိမ် ist eine archäologische Stätte in Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.4778,
+                        22.019347
+                  ]
+            },
+            {
+                  "name": "Colonial House",
+                  "text": "Das Colonial House ist eine Sehenswürdigkeit in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.471623,
+                        22.024458
+                  ]
+            },
+            {
+                  "name": "လွတ်လပ်ရေး ကျောက်တိုင်",
+                  "text": "Das Independence Monument ist ein Denkmal in Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.47425,
+                        22.031061
+                  ]
+            },
+            {
+                  "name": "ဖလံ​ေတာင္​",
+                  "text": "ဖလံ​ေတာင္​ ist ein Aussichtspunkt in Pyin U Lwin.",
+                  "category": "natural",
+                  "coords": [
+                        96.445669,
+                        22.019014
+                  ]
+            },
+            {
+                  "name": "ငါးပါးသီလသက္သက္လြတ္ဘုရားေက်ာင္း",
+                  "text": "Chan Tak ist eine lokale Sehenswürdigkeit in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.477974,
+                        22.021808
+                  ]
+            },
+            {
+                  "name": "နာရီစင်",
+                  "text": "Der Purcell Tower ist eine Sehenswürdigkeit in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.464098,
+                        22.026731
+                  ]
+            },
+            {
+                  "name": "labyrinth",
+                  "text": "Dieses Labyrinth ist eine Sehenswürdigkeit in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.461263,
+                        22.027549
+                  ]
+            },
+            {
+                  "name": "Governor's Palace",
+                  "text": "Der Governor's Palace ist eine Sehenswürdigkeit in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.457231,
+                        22.01895
+                  ]
+            },
+            {
+                  "name": "Hotel Pan Thitsar",
+                  "text": "Das Hotel Pan Thitsar ist ein Hotel in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.46651,
+                        22.033608
+                  ]
+            },
+            {
+                  "name": "တော်ဝင်စံပယ်",
+                  "text": "Das Royal Jasmine Hotel ist ein Hotel in der Stadt Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.475943,
+                        22.030509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Candacraig",
+                  "text": "A Candacraig egy régészeti lelőhely Pyin U Lwin területén.",
+                  "category": "historical",
+                  "coords": [
+                        96.478222,
+                        22.017934
+                  ]
+            },
+            {
+                  "name": "မြိုင်ဟေမာန်",
+                  "text": "A မြိုင်ဟေမာန် egy régészeti lelőhely Pyin U Lwin városában.",
+                  "category": "historical",
+                  "coords": [
+                        96.476909,
+                        22.017988
+                  ]
+            },
+            {
+                  "name": "ထင်းရူးမြိုင်",
+                  "text": "A ထင်းရူးမြိုင် egy régészeti lelőhely Pyin U Lwin területén.",
+                  "category": "historical",
+                  "coords": [
+                        96.475265,
+                        22.016237
+                  ]
+            },
+            {
+                  "name": "ကိုလိုနီခေတ်အိမ်",
+                  "text": "A ကိုလိုနီခေတ်အိမ် egy régészeti lelőhely Pyin U Lwin városában.",
+                  "category": "historical",
+                  "coords": [
+                        96.4778,
+                        22.019347
+                  ]
+            },
+            {
+                  "name": "Colonial House",
+                  "text": "A Colonial House egy látványosság Pyin U Lwin városában.",
+                  "category": "landmark",
+                  "coords": [
+                        96.471623,
+                        22.024458
+                  ]
+            },
+            {
+                  "name": "လွတ်လပ်ရေး ကျောက်တိုင်",
+                  "text": "Az Independence Monument egy emlékmű Pyin U Lwin városában.",
+                  "category": "historical",
+                  "coords": [
+                        96.47425,
+                        22.031061
+                  ]
+            },
+            {
+                  "name": "ဖလံ​ေတာင္​",
+                  "text": "A ဖလံ​ေတာင္​ egy kilátó Pyin U Lwin területén.",
+                  "category": "natural",
+                  "coords": [
+                        96.445669,
+                        22.019014
+                  ]
+            },
+            {
+                  "name": "ငါးပါးသီလသက္သက္လြတ္ဘုရားေက်ာင္း",
+                  "text": "A Chan Tak egy helyi látványosság Pyin U Lwin városában.",
+                  "category": "landmark",
+                  "coords": [
+                        96.477974,
+                        22.021808
+                  ]
+            },
+            {
+                  "name": "နာရီစင်",
+                  "text": "A Purcell Tower egy látványosság Pyin U Lwin városában.",
+                  "category": "landmark",
+                  "coords": [
+                        96.464098,
+                        22.026731
+                  ]
+            },
+            {
+                  "name": "labyrinth",
+                  "text": "Ez a labirintus egy látványosság Pyin U Lwin területén.",
+                  "category": "landmark",
+                  "coords": [
+                        96.461263,
+                        22.027549
+                  ]
+            },
+            {
+                  "name": "Governor's Palace",
+                  "text": "A Governor's Palace egy látványosság Pyin U Lwin városában.",
+                  "category": "landmark",
+                  "coords": [
+                        96.457231,
+                        22.01895
+                  ]
+            },
+            {
+                  "name": "Hotel Pan Thitsar",
+                  "text": "A Hotel Pan Thitsar egy szálloda Pyin U Lwin városában.",
+                  "category": "landmark",
+                  "coords": [
+                        96.46651,
+                        22.033608
+                  ]
+            },
+            {
+                  "name": "တော်ဝင်စံပယ်",
+                  "text": "A Royal Jasmine Hotel egy szálloda Pyin U Lwin területén.",
+                  "category": "landmark",
+                  "coords": [
+                        96.475943,
+                        22.030509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Candacraig",
+                  "text": "Candacraig este un sit arheologic din Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.478222,
+                        22.017934
+                  ]
+            },
+            {
+                  "name": "မြိုင်ဟေမာန်",
+                  "text": "မြိုင်ဟေမာန် este un sit arheologic situat în Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.476909,
+                        22.017988
+                  ]
+            },
+            {
+                  "name": "ထင်းရူးမြိုင်",
+                  "text": "ထင်းရူးမြိုင် este un sit arheologic în Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.475265,
+                        22.016237
+                  ]
+            },
+            {
+                  "name": "ကိုလိုနီခေတ်အိမ်",
+                  "text": "ကိုလိုနီခေတ်အိမ် este un sit arheologic din Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.4778,
+                        22.019347
+                  ]
+            },
+            {
+                  "name": "Colonial House",
+                  "text": "Colonial House este o atracție turistică în Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.471623,
+                        22.024458
+                  ]
+            },
+            {
+                  "name": "လွတ်လပ်ရေး ကျောက်တိုင်",
+                  "text": "Independence Monument este un monument în Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.47425,
+                        22.031061
+                  ]
+            },
+            {
+                  "name": "ဖလံ​ေတာင္​",
+                  "text": "ဖလံ​ေတာင္​ este un punct de belvedere în Pyin U Lwin.",
+                  "category": "natural",
+                  "coords": [
+                        96.445669,
+                        22.019014
+                  ]
+            },
+            {
+                  "name": "ငါးပါးသီလသက္သက္လြတ္ဘုရားေက်ာင္း",
+                  "text": "Chan Tak este o atracție din orașul Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.477974,
+                        22.021808
+                  ]
+            },
+            {
+                  "name": "နာရီစင်",
+                  "text": "Purcell Tower este o atracție în Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.464098,
+                        22.026731
+                  ]
+            },
+            {
+                  "name": "labyrinth",
+                  "text": "Acest labirint este o atracție în Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.461263,
+                        22.027549
+                  ]
+            },
+            {
+                  "name": "Governor's Palace",
+                  "text": "Governor's Palace este o atracție în Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.457231,
+                        22.01895
+                  ]
+            },
+            {
+                  "name": "Hotel Pan Thitsar",
+                  "text": "Hotel Pan Thitsar este un hotel situat în Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.46651,
+                        22.033608
+                  ]
+            },
+            {
+                  "name": "တော်ဝင်စံပယ်",
+                  "text": "Royal Jasmine Hotel este un hotel din Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.475943,
+                        22.030509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Candacraig",
+                  "text": "Candacraig is an archaeological site situated in Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.478222,
+                        22.017934
+                  ]
+            },
+            {
+                  "name": "မြိုင်ဟေမာန်",
+                  "text": "မြိုင်ဟေမာန် is an archaeological site located in Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.476909,
+                        22.017988
+                  ]
+            },
+            {
+                  "name": "ထင်းရူးမြိုင်",
+                  "text": "ထင်းရူးမြိုင် is an archaeological site in Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.475265,
+                        22.016237
+                  ]
+            },
+            {
+                  "name": "ကိုလိုနီခေတ်အိမ်",
+                  "text": "ကိုလိုနီခေတ်အိမ် is an archaeological site located in Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.4778,
+                        22.019347
+                  ]
+            },
+            {
+                  "name": "Colonial House",
+                  "text": "The Colonial House is an attraction situated in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.471623,
+                        22.024458
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "The Independence Monument is a monument located in Pyin U Lwin.",
+                  "category": "historical",
+                  "coords": [
+                        96.47425,
+                        22.031061
+                  ]
+            },
+            {
+                  "name": "ဖလံ​ေတာင္​",
+                  "text": "ဖလံ​ေတာင္​ is a viewpoint situated in Pyin U Lwin.",
+                  "category": "natural",
+                  "coords": [
+                        96.445669,
+                        22.019014
+                  ]
+            },
+            {
+                  "name": "Chan Tak",
+                  "text": "Chan Tak is a local attraction located in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.477974,
+                        22.021808
+                  ]
+            },
+            {
+                  "name": "Purcell Tower",
+                  "text": "The Purcell Tower is an attraction in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.464098,
+                        22.026731
+                  ]
+            },
+            {
+                  "name": "labyrinth",
+                  "text": "This labyrinth is an attraction situated in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.461263,
+                        22.027549
+                  ]
+            },
+            {
+                  "name": "Governor's Palace",
+                  "text": "The Governor's Palace is an attraction located in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.457231,
+                        22.01895
+                  ]
+            },
+            {
+                  "name": "Hotel Pan Thitsar",
+                  "text": "Hotel Pan Thitsar is a hotel providing accommodation in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.46651,
+                        22.033608
+                  ]
+            },
+            {
+                  "name": "Royal Jasmine Hotel",
+                  "text": "Royal Jasmine Hotel is a hotel located in Pyin U Lwin.",
+                  "category": "landmark",
+                  "coords": [
+                        96.475943,
+                        22.030509
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MM-04",
     coords: [96.4667, 22.0333],
@@ -754,7 +3004,52 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       en: ["Capital of Kachin State and the northernmost railhead in Myanmar.", "Located on the Irrawaddy River, 40 km below the Myitsone confluence.", "Global hub for the jadeite trade, sourced from Hpakant mines.", "Site of a major Allied-Japanese battle during World War II.", "Known for its distinct Christian heritage within a Buddhist nation.", "Home to the iconic Manau Park and its colorful ceremonial poles.", "Strategically located on the historical Stilwell (Ledo) Road.", "The climate is significantly cooler than central Myanmar plains."],
     }, image: "/poi-images/myitkyina-cities-v2.webp"},
   {
-    id: "taungoo-cities-v2",
+    id: "taungoo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "中国远征军纪念馆",
+                  "text": "Ein Museum in Taungoo zur Geschichte der chinesischen Expeditionsarmee.",
+                  "category": "museum",
+                  "coords": [
+                        96.436483,
+                        18.938352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "中国远征军纪念馆",
+                  "text": "Múzeum Taungooban a kínai expedíciós hadsereg történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        96.436483,
+                        18.938352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "中国远征军纪念馆",
+                  "text": "Un muzeu din Taungoo despre istoria armatei expediționare chineze.",
+                  "category": "museum",
+                  "coords": [
+                        96.436483,
+                        18.938352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "中国远征军纪念馆",
+                  "text": "A museum in Taungoo about the history of the Chinese Expeditionary Army.",
+                  "category": "museum",
+                  "coords": [
+                        96.436483,
+                        18.938352
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MM-02",
     coords: [96.4333, 18.9333],
@@ -855,7 +3150,52 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       en: ["Loikaw is the administrative center of the Karenni people.", "The Lawpita power plant was the first major hydro project in Burma.", "The city is surrounded by several 'split' mountains similar to Taung Kwe.", "Pilu River flows through the city and is used for irrigation.", "Loikaw is 430 km from Yangon by road via Taungoo.", "The Kayan people in the region maintain a traditional matriarchal society.", "Marble from Loikaw is used for Buddha statues throughout the country.", "The city hosts the annual Kayah State Day on January 15th."],
     }, image: "/poi-images/loikaw-cities-v2.webp"},
   {
-    id: "thandwe-cities-v2",
+    id: "thandwe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thandwe City Hall",
+                  "text": "Die Thandwe City Hall ist ein schlossartiges Gebäude in Thandwe.",
+                  "category": "castle",
+                  "coords": [
+                        94.366965,
+                        18.470449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thandwe City Hall",
+                  "text": "A Thandwe City Hall egy kastélyhoz hasonló épület Thandwe városában.",
+                  "category": "castle",
+                  "coords": [
+                        94.366965,
+                        18.470449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thandwe City Hall",
+                  "text": "Thandwe City Hall este o clădire cu aspect de castel situată în Thandwe.",
+                  "category": "castle",
+                  "coords": [
+                        94.366965,
+                        18.470449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thandwe City Hall",
+                  "text": "Thandwe City Hall is a castle-like building located in Thandwe.",
+                  "category": "castle",
+                  "coords": [
+                        94.366965,
+                        18.470449
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MM-16",
     coords: [94.3833, 18.4667],
@@ -882,7 +3222,124 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     descriptionAdvanced: { de: "Thandwe (früher Sandoway) liegt an der Westküste Myanmars im Rakhine-Staat, 408 Kilometer nordwestlich von Yangon, und hat rund 60.000 Einwohner. Die Stadt ist eine der ältesten der Region - laut Überlieferung wurde sie im 6. Jahrhundert gegründet und war eine der vier alten Königsstädte von Arakan. Mit dem Ersten Anglo-Birmanischen Krieg (1824-1826) und dem Vertrag von Yandabo fiel die Region an Großbritannien (Britisch-Birma 1886-1948). Berühmt ist Thandwe als Tor zum Ngapali-Strand, dem exklusivsten Strandresort Myanmars mit feinem weißen Sand und kristallklarem Wasser. Der Name Ngapali soll an Neapel erinnern - italienische Kolonialbeamte gaben ihn vermutlich. Der Flughafen Thandwe verbindet die Region mit Yangon. Die Wirtschaft basiert auf Tourismus (vor 2020), Fischerei und Reisanbau.", hu: "Thandwe (korábban Sandoway) Mianmar nyugati partján, a Rakhine államban fekszik, Jangontól 408 kilométerre északnyugatra, mintegy 60 ezer lakossal. A város a régió legrégebbi települései közé tartozik - a hagyomány szerint a 6. században alapították, és Arakán négy ókori királyi városának egyike volt. Az elso angol-burmai háború (1824-1826) és a yandabói béke után a régió Nagy-Britanniához került (Brit Burma 1886-1948). Thandwe a híres Ngapali-strand kapujaként híres, amely Mianmar legexkluzívabb tengerparti üdülohelye finom fehér homokjával és kristálytiszta vizével. A Ngapali név állítólag Nápolyra utal - olasz gyarmati tisztviselok adták. A thandwei repülotér összeköti a régiót Jangonnal. A gazdaság a turizmuson (2020 elott), a halászaton és a rizstermesztésen alapul. A közelben több ókori sztúpa található.", ro: "Thandwe (cunoscut anterior ca Sandoway) se află pe coasta vestică a Myanmarului, în statul Rakhine, la 408 de kilometri nord-vest de Yangon, cu aproximativ 60.000 de locuitori. Orașul este unul dintre cele mai vechi din regiune - conform tradiției, a fost fondat în secolul al VI-lea și a fost una dintre cele patru orașe regale antice ale Arakanului. După primul război anglo-birmanez (1824-1826) și Tratatul de la Yandabo, regiunea a trecut la Marea Britanie (Birmania Britanică 1886-1948). Thandwe este renumit drept poarta către plaja Ngapali, cea mai exclusivistă stațiune balneară din Myanmar, cu nisip alb fin și ape cristaline. Numele Ngapali ar fi o referire la Napoli - dat, se zice, de funcționari coloniali italieni. Aeroportul Thandwe leagă regiunea de Yangon. Economia se bazează pe turism (înainte de 2020), pescuit și cultivarea orezului.", en: "Thandwe (formerly Sandoway) lies on Myanmar's western coast in Rakhine State, 408 kilometres northwest of Yangon, with around 60,000 inhabitants. The town is one of the oldest in the region - tradition holds that it was founded in the 6th century and was one of the four ancient royal cities of Arakan. After the First Anglo-Burmese War (1824-1826) and the Treaty of Yandabo, the region passed to Britain (British Burma 1886-1948). Thandwe is famous as the gateway to Ngapali Beach, Myanmar's most exclusive seaside resort, with fine white sand and crystal-clear water. The name Ngapali is said to recall Naples - reportedly given by Italian colonial officials. Thandwe Airport links the region with Yangon. The local economy rests on tourism (before 2020), fishing and rice farming." , es: "Thandwe (antes Sandoway) se encuentra en la costa occidental de Myanmar, en el estado de Rakhine, a 408 kilómetros al noroeste de Yangon, y tiene unos 60.000 habitantes. La ciudad es una de las más antiguas de la región; según la tradición, fue fundada en el siglo VI y fue una de las cuatro antiguas ciudades reales de Arakan. Con la Primera Guerra Anglo-Birmana (1824-1826) y el Tratado de Yandabo, la región pasó a manos de Gran Bretaña (Birmania británica 1886-1948). Thandwe es famosa por ser la puerta de entrada a la playa de Ngapali, el complejo playero más exclusivo de Myanmar, con arena blanca y fina y aguas cristalinas. Se dice que el nombre Ngapali recuerda a Nápoles; probablemente fue acuñado por funcionarios coloniales italianos. El aeropuerto de Thandwe conecta la región con Yangon. La economía se basa en el turismo (antes de 2020), la pesca y el cultivo de arroz.", pt: "Thandwe (anteriormente Sandoway) localiza-se na costa oeste de Myanmar, no estado de Rakhine, 408 quilômetros a noroeste de Yangon, e conta com cerca de 60.000 habitantes. A cidade é uma das mais antigas da região - segundo a tradição, foi fundada no século VI e foi uma das quatro antigas cidades reais de Arakan. Com a Primeira Guerra Anglo-Birmanesa (1824-1826) e o Tratado de Yandabo, a região passou para a Grã-Bretanha (Birmânia Britânica 1886-1948). Thandwe é famosa como a porta de entrada para a praia de Ngapali, o resort de praia mais exclusivo de Myanmar, com areia branca fina e águas cristalinas. Diz-se que o nome Ngapali recorda Nápoles - funcionários coloniais italianos provavelmente o batizaram. O aeroporto de Thandwe liga a região a Yangon. A economia baseia-se no turismo (antes de 2020), na pesca e no cultivo de arroz.", fr: "Thandwe (anciennement Sandoway) est située sur la côte ouest du Myanmar, dans l'État de Rakhine, à 408 kilomètres au nord-ouest de Yangon, et compte environ 60 000 habitants. La ville est l'une des plus anciennes de la région - selon la tradition, elle a été fondée au VIe siècle et était l'une des quatre anciennes cités royales d'Arakan. Avec la première guerre anglo-birmane (1824-1826) et le traité de Yandabo, la région tomba aux mains de la Grande-Bretagne (Birmanie britannique 1886-1948). Thandwe est célèbre pour être la porte d'entrée de la plage de Ngapali, la station balnéaire la plus exclusive du Myanmar, avec son sable blanc et fin et ses eaux cristallines. Le nom Ngapali rappellerait Naples - ce sont probablement des fonctionnaires coloniaux italiens qui l'ont baptisée ainsi. L'aéroport de Thandwe relie la région à Yangon. L'économie repose sur le tourisme (avant 2020), la pêche et la riziculture."},
     factsAdvanced: { de: ["Bevölkerung ca. 60.000", "408 km nordwestlich von Yangon", "Eine der vier alten Königsstädte Arakans", "Gegründet im 6. Jh. laut Überlieferung", "Britisch durch Vertrag von Yandabo 1826", "Britisch-Birma 1886-1948", "Tor zum Ngapali-Strand", "Name 'Ngapali' soll an Neapel erinnern"] , es: ["Población aprox. 60.000", "408 km al noroeste de Yangon", "Una de las cuatro antiguas ciudades reales de Arakan", "Fundada en el siglo VI según la tradición", "Británica por el Tratado de Yandabo en 1826", "Birmania británica 1886-1948", "Puerta de entrada a la playa de Ngapali", "Se dice que el nombre 'Ngapali' recuerda a Nápoles"], pt: ["População aprox. 60.000", "408 km a noroeste de Yangon", "Uma das quatro antigas cidades reais de Arakan", "Fundada no século VI segundo a tradição", "Tornou-se britânica pelo Tratado de Yandabo em 1826", "Birmânia Britânica 1886-1948", "Porta de entrada para a praia de Ngapali", "Diz-se que o nome 'Ngapali' lembra Nápoles"], fr: ["Population env. 60 000", "408 km au nord-ouest de Yangon", "L'une des quatre anciennes cités royales d'Arakan", "Fondée au VIe siècle selon la tradition", "Britannique par le traité de Yandabo en 1826", "Birmanie britannique 1886-1948", "Porte d'entrée de la plage de Ngapali", "Le nom 'Ngapali' rappellerait Naples"]}, image: "/poi-images/thandwe-cities-v2.webp"},
   {
-    id: "kengtung-cities-v2",
+    id: "kengtung-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "မႆႉမၢၵ်ႇယၢင်း",
+                  "text": "Der Dipterocarpaceae Tree ist eine natürliche Sehenswürdigkeit in Kengtung.",
+                  "category": "landmark",
+                  "coords": [
+                        99.605239,
+                        21.281366
+                  ]
+            },
+            {
+                  "name": "Yat Taw Mu",
+                  "text": "Der Standing Buddha ist ein Denkmal in Kengtung.",
+                  "category": "historical",
+                  "coords": [
+                        99.596871,
+                        21.287527
+                  ]
+            },
+            {
+                  "name": "ၽၵ်းတူပႃလႅင်",
+                  "text": "Das Par Daeng Gate ist eine historische Sehenswürdigkeit in Kengtung.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607333,
+                        21.289434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "မႆႉမၢၵ်ႇယၢင်း",
+                  "text": "A Dipterocarpaceae Tree egy természeti látványosság Kengtung városában.",
+                  "category": "landmark",
+                  "coords": [
+                        99.605239,
+                        21.281366
+                  ]
+            },
+            {
+                  "name": "Yat Taw Mu",
+                  "text": "A Standing Buddha egy emlékmű Kengtung városában.",
+                  "category": "historical",
+                  "coords": [
+                        99.596871,
+                        21.287527
+                  ]
+            },
+            {
+                  "name": "ၽၵ်းတူပႃလႅင်",
+                  "text": "A Par Daeng Gate egy látványosság Kengtung városában.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607333,
+                        21.289434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "မႆႉမၢၵ်ႇယၢင်း",
+                  "text": "Dipterocarpaceae Tree este o atracție naturală în Kengtung.",
+                  "category": "landmark",
+                  "coords": [
+                        99.605239,
+                        21.281366
+                  ]
+            },
+            {
+                  "name": "Yat Taw Mu",
+                  "text": "Standing Buddha este un monument din Kengtung.",
+                  "category": "historical",
+                  "coords": [
+                        99.596871,
+                        21.287527
+                  ]
+            },
+            {
+                  "name": "ၽၵ်းတူပႃလႅင်",
+                  "text": "Par Daeng Gate este o atracție din Kengtung.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607333,
+                        21.289434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dipterocarpaceae Tree",
+                  "text": "The Dipterocarpaceae Tree is a natural attraction found in Kengtung.",
+                  "category": "landmark",
+                  "coords": [
+                        99.605239,
+                        21.281366
+                  ]
+            },
+            {
+                  "name": "Standing Buddha",
+                  "text": "The Standing Buddha is a monument located in Kengtung.",
+                  "category": "historical",
+                  "coords": [
+                        99.596871,
+                        21.287527
+                  ]
+            },
+            {
+                  "name": "Par Daeng Gate",
+                  "text": "Par Daeng Gate is an attraction situated in Kengtung.",
+                  "category": "landmark",
+                  "coords": [
+                        99.607333,
+                        21.289434
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MM-17",
     coords: [99.6000, 21.2833],
@@ -936,7 +3393,52 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     descriptionAdvanced: { de: "Muse liegt im nördlichen Shan-Staat direkt an der chinesischen Grenze gegenüber der Stadt Ruili (Yunnan), 760 Kilometer nordöstlich von Yangon, und hat rund 134.000 Einwohner. Die Stadt ist mit Abstand der wichtigste Landgrenzübergang Myanmars - über 70% des offiziellen Handels mit China laufen hier durch, mit einem Volumen von über 4 Milliarden US-Dollar jährlich. Während Britisch-Birma (1886-1948) war Muse ein unbedeutender Grenzposten; erst nach der Öffnung Chinas 1988 und dem birmanisch-chinesischen Grenzhandelsabkommen wuchs die Stadt explosiv. Exportiert werden vor allem Jade, Holz, Reis, Bohnen, Mais und Wassermelonen, importiert Maschinen, Elektronik und Konsumgüter. Muse ist auch Zentrum des illegalen Handels mit Holz, Wildtieren und Drogen aus dem Goldenen Dreieck. Die Region ist seit Jahren umkämpftes Gebiet der TNLA und des chinesischen MNDAA-Bündnisses.", hu: "Musze az északi Shan államban fekszik közvetlenül a kínai határnál, Ruili városával (Yunnan tartomány) szemben, Jangontól 760 kilométerre északkeletre, mintegy 134 ezer lakossal. A város messze a legfontosabb szárazföldi határátkelo Mianmarban - Mianmar Kínával folytatott hivatalos kereskedelmének több mint 70%-a itt halad át, évi 4 milliárd dollárnál nagyobb forgalommal. A Brit Burma idején (1886-1948) Musze jelentéktelen határorség volt; a város csak Kína 1988-as megnyitása és a burmai-kínai határkereskedelmi megállapodás után növekedett robbanásszeruen. Foleg jádét, fát, rizst, babot, kukoricát és görögdinnyét exportálnak, gépeket, elektronikát és fogyasztási cikkeket importálnak. Musze az illegális fa-, vadállat- és kábítószer-kereskedelem központja is az Aranyháromszögbol. A térség évek óta a TNLA és a kínai MNDAA-szövetség küzdo területe.", ro: "Muse se află în nordul statului Shan, chiar la granița cu China, vizavi de orașul Ruili (Yunnan), la 760 de kilometri nord-est de Yangon, cu aproximativ 134.000 de locuitori. Orașul este de departe cel mai important punct de trecere terestră din Myanmar - peste 70% din comerțul oficial al Myanmarului cu China trece pe aici, cu un volum de peste 4 miliarde de dolari anual. În timpul Birmaniei Britanice (1886-1948), Muse era un post de frontieră lipsit de importanță; orașul a explodat doar după deschiderea Chinei în 1988 și acordul de comerț la frontieră birmano-chinez. Se exportă în special jad, lemn, orez, fasole, porumb și pepeni, și se importă mașini, electronice și bunuri de consum. Muse este și centru al comerțului ilegal cu lemn, animale sălbatice și droguri din Triunghiul de Aur. Regiunea este teatru de luptă al TNLA și alianței MNDAA chineze.", en: "Muse lies in northern Shan State right on the Chinese border, opposite the town of Ruili in Yunnan, 760 kilometres northeast of Yangon, with around 134,000 inhabitants. The town is by far the most important land border crossing in Myanmar - more than 70% of Myanmar's official trade with China passes through here, with an annual volume of over four billion US dollars. During British Burma (1886-1948) Muse was an insignificant border post; the town only boomed after China's opening in 1988 and the Burma-China border trade agreement. Major exports include jade, timber, rice, beans, maize and watermelons, while machinery, electronics and consumer goods flow in. Muse is also a centre for illegal trade in timber, wildlife and drugs from the Golden Triangle. The region has been heavily contested for years by the TNLA and the Chinese-aligned MNDAA alliance." , es: "Muse se encuentra en el norte del estado Shan, justo en la frontera con China frente a la ciudad de Ruili (Yunnan), a 760 kilómetros al noreste de Yangon, y tiene unos 134.000 habitantes. Es, con diferencia, el paso fronterizo terrestre más importante de Myanmar: más del 70% del comercio oficial con China pasa por aquí, con un volumen anual superior a los 4.000 millones de dólares. Durante la Birmania Británica (1886-1948), Muse era un puesto fronterizo insignificante; solo tras la apertura de China en 1988 creció de forma explosiva. Se exportan principalmente jade, madera, arroz y frutas, mientras que se importan maquinaria y electrónica. Muse es también centro del comercio ilegal de madera, fauna salvaje y drogas del Triángulo de Oro. La región ha sido territorio en disputa entre la TNLA y la alianza MNDAA durante años.", pt: "Muse situa-se no norte do estado de Shan, diretamente na fronteira chinesa oposta à cidade de Ruili (Yunnan), 760 quilómetros a nordeste de Yangon, com cerca de 134.000 habitantes. É, de longe, o posto fronteiriço terrestre mais importante de Myanmar - mais de 70% do comércio oficial com a China passa por aqui, com um volume superior a 4 mil milhões de dólares anuais. Durante a Birmânia Britânica (1886-1948), Muse era um posto fronteiriço insignificante; só após a abertura da China em 1988 a cidade cresceu de forma explosiva. Exportam-se principalmente jade, madeira, arroz e frutas, importando-se máquinas e eletrónicos. Muse é também centro de comércio ilegal de madeira e drogas do Triângulo Dourado. A região é, há anos, uma zona disputada pela TNLA e pela aliança chinesa MNDAA.", fr: "Muse est située au nord de l'État Shan, directement à la frontière chinoise face à la ville de Ruili (Yunnan), à 760 kilomètres au nord-est de Yangon, et compte environ 134 000 habitants. C'est de loin le poste frontière terrestre le plus important du Myanmar : plus de 70 % du commerce officiel avec la Chine y transite, représentant un volume annuel de plus de 4 milliards de dollars. Sous la Birmanie britannique (1886-1948), Muse n'était qu'un modeste poste-frontière ; son essor a été fulgurant après l'ouverture de la Chine en 1988. On y exporte principalement du jade, du bois, du riz et des fruits, tandis qu'on y importe des machines et de l'électronique. Muse est également un centre de trafics illégaux (bois, faune, drogues du Triangle d'Or). La région est disputée depuis des années par le TNLA et l'alliance chinoise MNDAA."},
     factsAdvanced: { de: ["Bevölkerung ca. 134.000", "760 km nordöstlich von Yangon", "Wichtigster Landgrenzübergang nach China", "Über 70% des offiziellen Chinahandels", "Handelsvolumen über 4 Mrd. USD jährlich", "Britisch-Birma 1886-1948", "Boom seit Grenzöffnung 1988", "Gegenüber Ruili (Yunnan)"] , es: ["Población aprox. 134.000", "760 km al noreste de Yangon", "Paso fronterizo terrestre más importante hacia China", "Más del 70% del comercio oficial con China", "Volumen comercial de más de 4.000 millones USD anuales", "Birmania Británica 1886-1948", "Auge desde la apertura de fronteras en 1988", "Frente a Ruili (Yunnan)"], pt: ["População aprox. 134.000", "760 km a nordeste de Yangon", "Posto fronteiriço terrestre mais importante para a China", "Mais de 70% do comércio oficial com a China", "Volume comercial superior a 4 mil milhões de USD anuais", "Birmânia Britânica 1886-1948", "Crescimento desde a abertura da fronteira em 1988", "Oposta a Ruili (Yunnan)"], fr: ["Population env. 134 000", "760 km au nord-est de Yangon", "Principal poste frontière terrestre avec la Chine", "Plus de 70 % du commerce officiel sino-birman", "Volume d'échanges de plus de 4 milliards USD par an", "Birmanie britannique 1886-1948", "Boom économique depuis l'ouverture en 1988", "Face à Ruili (Yunnan)"]}, image: "/poi-images/muse-cities-v2.webp"},
   {
-    id: "kyaukpyu-cities-v2",
+    id: "kyaukpyu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "SERI Beach Resort Hotel",
+                  "text": "Das SERI Beach Resort Hotel ist ein Strandresort, das Unterkünfte in Kyaukpyu bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        93.53312,
+                        19.434134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SERI Beach Resort Hotel",
+                  "text": "A SERI Beach Resort Hotel egy tengerparti üdülőhely, amely szállást kínál Kyaukpyu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        93.53312,
+                        19.434134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SERI Beach Resort Hotel",
+                  "text": "SERI Beach Resort Hotel este o stațiune balneară care oferă cazare în Kyaukpyu.",
+                  "category": "recreational",
+                  "coords": [
+                        93.53312,
+                        19.434134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SERI Beach Resort Hotel",
+                  "text": "SERI Beach Resort Hotel is a beach resort offering accommodation in Kyaukpyu.",
+                  "category": "recreational",
+                  "coords": [
+                        93.53312,
+                        19.434134
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MM-16",
     coords: [93.5333, 19.4333],

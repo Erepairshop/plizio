@@ -3,7 +3,484 @@ import type { POI } from "./poi";
 
 export const poiExtraIvorycoastCitiesV2: POI[] = [
   {
-    id: "abidjan-cities-v2",
+    id: "abidjan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais de la Culture d'Abidjan",
+                  "text": "Das Palais de la Culture d'Abidjan ist ein bekanntes Theater in Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.011919,
+                        5.312263
+                  ]
+            },
+            {
+                  "name": "Yelam's",
+                  "text": "Yelam's ist ein Theater in Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.007737,
+                        5.304811
+                  ]
+            },
+            {
+                  "name": "Orcaland",
+                  "text": "Orcaland ist ein Freizeitpark in Abidjan.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.984315,
+                        5.298253
+                  ]
+            },
+            {
+                  "name": "Piscine d’État de Treichville",
+                  "text": "Die Piscine d’État de Treichville ist ein Wasserpark in Abidjan.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.001042,
+                        5.308238
+                  ]
+            },
+            {
+                  "name": "Ambassade de France",
+                  "text": "Embassy of France ist ein Garten in Abidjan.",
+                  "category": "park",
+                  "coords": [
+                        -4.017045,
+                        5.326112
+                  ]
+            },
+            {
+                  "name": "Institut français",
+                  "text": "Das Institut français ist ein Kunstzentrum in Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.008475,
+                        5.334117
+                  ]
+            },
+            {
+                  "name": "Place de la République",
+                  "text": "Place de la République ist eine Sehenswürdigkeit in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.019533,
+                        5.316651
+                  ]
+            },
+            {
+                  "name": "Galerie Nour-Al Hayat",
+                  "text": "Die Galerie Nour-Al Hayat ist ein Kunstzentrum in Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.018173,
+                        5.323314
+                  ]
+            },
+            {
+                  "name": "Marché D'Art",
+                  "text": "Marché D'Art ist ein Kunstzentrum in Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.988511,
+                        5.295883
+                  ]
+            },
+            {
+                  "name": "Mairie de Treichville",
+                  "text": "Mairie de Treichville ist das Rathaus in Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -4.012889,
+                        5.310213
+                  ]
+            },
+            {
+                  "name": "Pont Félix-Houphouët-Boigny",
+                  "text": "Pont Félix-Houphouët-Boigny ist eine Brücke in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01931,
+                        5.312062
+                  ]
+            },
+            {
+                  "name": "Pont Général-de-Gaulle",
+                  "text": "Pont Général-de-Gaulle ist eine Brücke in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.0101,
+                        5.315783
+                  ]
+            },
+            {
+                  "name": "Hôtel Ivoire",
+                  "text": "Das Hôtel Ivoire ist ein Hotel in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.004412,
+                        5.32606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais de la Culture d'Abidjan",
+                  "text": "A Palais de la Culture d'Abidjan egy ismert színház Abidjan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.011919,
+                        5.312263
+                  ]
+            },
+            {
+                  "name": "Yelam's",
+                  "text": "A Yelam's egy színház Abidjan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.007737,
+                        5.304811
+                  ]
+            },
+            {
+                  "name": "Orcaland",
+                  "text": "Az Orcaland egy vidámpark Abidjan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.984315,
+                        5.298253
+                  ]
+            },
+            {
+                  "name": "Piscine d’État de Treichville",
+                  "text": "A Piscine d’État de Treichville egy aquapark Abidjan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.001042,
+                        5.308238
+                  ]
+            },
+            {
+                  "name": "Ambassade de France",
+                  "text": "Az Embassy of France egy kert Abidjan városában.",
+                  "category": "park",
+                  "coords": [
+                        -4.017045,
+                        5.326112
+                  ]
+            },
+            {
+                  "name": "Institut français",
+                  "text": "Az Institut français egy művészeti központ Abidjan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.008475,
+                        5.334117
+                  ]
+            },
+            {
+                  "name": "Place de la République",
+                  "text": "A Place de la République egy látványosság Abidjan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.019533,
+                        5.316651
+                  ]
+            },
+            {
+                  "name": "Galerie Nour-Al Hayat",
+                  "text": "A Galerie Nour-Al Hayat egy művészeti központ Abidjan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.018173,
+                        5.323314
+                  ]
+            },
+            {
+                  "name": "Marché D'Art",
+                  "text": "A Marché D'Art egy művészeti központ Abidjan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.988511,
+                        5.295883
+                  ]
+            },
+            {
+                  "name": "Mairie de Treichville",
+                  "text": "A Mairie de Treichville egy városháza Abidjan városában.",
+                  "category": "historical",
+                  "coords": [
+                        -4.012889,
+                        5.310213
+                  ]
+            },
+            {
+                  "name": "Pont Félix-Houphouët-Boigny",
+                  "text": "A Pont Félix-Houphouët-Boigny egy híd Abidjan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01931,
+                        5.312062
+                  ]
+            },
+            {
+                  "name": "Pont Général-de-Gaulle",
+                  "text": "A Pont Général-de-Gaulle egy híd Abidjan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.0101,
+                        5.315783
+                  ]
+            },
+            {
+                  "name": "Hôtel Ivoire",
+                  "text": "A Hôtel Ivoire egy szálloda Abidjan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.004412,
+                        5.32606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais de la Culture d'Abidjan",
+                  "text": "Palais de la Culture d'Abidjan este un teatru notabil în Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.011919,
+                        5.312263
+                  ]
+            },
+            {
+                  "name": "Yelam's",
+                  "text": "Yelam's este un teatru în Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.007737,
+                        5.304811
+                  ]
+            },
+            {
+                  "name": "Orcaland",
+                  "text": "Orcaland este un parc tematic în Abidjan.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.984315,
+                        5.298253
+                  ]
+            },
+            {
+                  "name": "Piscine d’État de Treichville",
+                  "text": "Piscine d’État de Treichville este un parc acvatic în Abidjan.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.001042,
+                        5.308238
+                  ]
+            },
+            {
+                  "name": "Ambassade de France",
+                  "text": "Embassy of France este o grădină în Abidjan.",
+                  "category": "park",
+                  "coords": [
+                        -4.017045,
+                        5.326112
+                  ]
+            },
+            {
+                  "name": "Institut français",
+                  "text": "Institut français este un centru de artă în Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.008475,
+                        5.334117
+                  ]
+            },
+            {
+                  "name": "Place de la République",
+                  "text": "Place de la République este o atracție în Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.019533,
+                        5.316651
+                  ]
+            },
+            {
+                  "name": "Galerie Nour-Al Hayat",
+                  "text": "Galerie Nour-Al Hayat este un centru de artă în Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.018173,
+                        5.323314
+                  ]
+            },
+            {
+                  "name": "Marché D'Art",
+                  "text": "Marché D'Art este un centru de artă în Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.988511,
+                        5.295883
+                  ]
+            },
+            {
+                  "name": "Mairie de Treichville",
+                  "text": "Mairie de Treichville este o primărie în Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -4.012889,
+                        5.310213
+                  ]
+            },
+            {
+                  "name": "Pont Félix-Houphouët-Boigny",
+                  "text": "Pont Félix-Houphouët-Boigny este un pod în Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01931,
+                        5.312062
+                  ]
+            },
+            {
+                  "name": "Pont Général-de-Gaulle",
+                  "text": "Pont Général-de-Gaulle este un pod în Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.0101,
+                        5.315783
+                  ]
+            },
+            {
+                  "name": "Hôtel Ivoire",
+                  "text": "Hôtel Ivoire este un hotel în Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.004412,
+                        5.32606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais de la Culture d'Abidjan",
+                  "text": "The Palais de la Culture d'Abidjan is a notable theatre in Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.011919,
+                        5.312263
+                  ]
+            },
+            {
+                  "name": "Yelam's",
+                  "text": "Yelam's is a theatre in Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.007737,
+                        5.304811
+                  ]
+            },
+            {
+                  "name": "Orcaland",
+                  "text": "Orcaland is a theme park in Abidjan.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.984315,
+                        5.298253
+                  ]
+            },
+            {
+                  "name": "Piscine d’État de Treichville",
+                  "text": "The Piscine d’État de Treichville is a water park in Abidjan.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.001042,
+                        5.308238
+                  ]
+            },
+            {
+                  "name": "Embassy of France",
+                  "text": "Embassy of France is a garden in Abidjan.",
+                  "category": "park",
+                  "coords": [
+                        -4.017045,
+                        5.326112
+                  ]
+            },
+            {
+                  "name": "Institut français",
+                  "text": "The Institut français is an arts centre in Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.008475,
+                        5.334117
+                  ]
+            },
+            {
+                  "name": "Place de la République",
+                  "text": "Place de la République is an attraction in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.019533,
+                        5.316651
+                  ]
+            },
+            {
+                  "name": "Galerie Nour-Al Hayat",
+                  "text": "The Galerie Nour-Al Hayat is an arts centre in Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.018173,
+                        5.323314
+                  ]
+            },
+            {
+                  "name": "Marché D'Art",
+                  "text": "Marché D'Art is an arts centre in Abidjan.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.988511,
+                        5.295883
+                  ]
+            },
+            {
+                  "name": "Mairie de Treichville",
+                  "text": "Mairie de Treichville is a town hall in Abidjan.",
+                  "category": "historical",
+                  "coords": [
+                        -4.012889,
+                        5.310213
+                  ]
+            },
+            {
+                  "name": "Pont Félix-Houphouët-Boigny",
+                  "text": "Pont Félix-Houphouët-Boigny is a bridge in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.01931,
+                        5.312062
+                  ]
+            },
+            {
+                  "name": "Pont Général-de-Gaulle",
+                  "text": "Pont Général-de-Gaulle is a bridge in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.0101,
+                        5.315783
+                  ]
+            },
+            {
+                  "name": "Hôtel Ivoire",
+                  "text": "The Hôtel Ivoire is a hotel in Abidjan.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.004412,
+                        5.32606
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-AB",
     coords: [-4.0083, 5.3096],
@@ -91,7 +568,196 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       en: ["Yamoussoukro is the seat of the Ivorian government and parliament.", "The Basilica of Our Lady of Peace cost an estimated $300 million to build.", "The city's coordinates are 6°49′N 5°17′W.", "Yamoussoukro is home to one of the largest polytechnic institutes in Africa.", "The city’s crocodile pond contains over 40 crocodiles.", "The Presidential Palace is the largest private residence of its kind in the country.", "The city was a minor trading post until the mid-20th century.", "Yamoussoukro hosts the annual Houphouët-Boigny Peace Prize ceremony."],
     }, image: "/poi-images/yamoussoukro-cities-v2.webp"},
   {
-    id: "bouak-cities-v2",
+    id: "bouak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hôtel Harmattan (ruines)",
+                  "text": "Die Ruinen des Hôtel Harmattan sind ein architektonisches Relikt in der Stadt Bouaké.",
+                  "category": "historical",
+                  "coords": [
+                        -5.026691,
+                        7.685818
+                  ]
+            },
+            {
+                  "name": "Monument du Gbèkè",
+                  "text": "Das Monument du Gbèkè ist ein lokales Denkmal in Bouaké.",
+                  "category": "historical",
+                  "coords": [
+                        -5.031677,
+                        7.683459
+                  ]
+            },
+            {
+                  "name": "Monument Eléphant",
+                  "text": "Das Monument Eléphant ist ein öffentliches Denkmal in der Stadt Bouaké.",
+                  "category": "historical",
+                  "coords": [
+                        -5.022929,
+                        7.688529
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
+                  "text": "Das Centre Artisanal Lamine Fadiga pour les Handicapés ist ein Kunst- und Handwerkszentrum in Bouaké.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.02674,
+                        7.679324
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Thérèse de l'Enfant Jésus",
+                  "text": "Die Cathédrale Sainte-Thérèse de l'Enfant Jésus ist eine bedeutende römisch-katholische Kathedrale in Bouaké.",
+                  "category": "religious",
+                  "coords": [
+                        -5.028603,
+                        7.68811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hôtel Harmattan (ruines)",
+                  "text": "A Hôtel Harmattan romjai építészeti emlékként maradtak fenn Bouaké városában.",
+                  "category": "historical",
+                  "coords": [
+                        -5.026691,
+                        7.685818
+                  ]
+            },
+            {
+                  "name": "Monument du Gbèkè",
+                  "text": "A Monument du Gbèkè egy helyi emlékmű Bouaké városában.",
+                  "category": "historical",
+                  "coords": [
+                        -5.031677,
+                        7.683459
+                  ]
+            },
+            {
+                  "name": "Monument Eléphant",
+                  "text": "A Monument Eléphant egy köztéri emlékmű Bouaké városában.",
+                  "category": "historical",
+                  "coords": [
+                        -5.022929,
+                        7.688529
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
+                  "text": "A Centre Artisanal Lamine Fadiga pour les Handicapés egy művészeti központ Bouakéban.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.02674,
+                        7.679324
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Thérèse de l'Enfant Jésus",
+                  "text": "A Cathédrale Sainte-Thérèse de l'Enfant Jésus egy jelentős római katolikus katedrális és imahely Bouaké városában.",
+                  "category": "religious",
+                  "coords": [
+                        -5.028603,
+                        7.68811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hôtel Harmattan (ruines)",
+                  "text": "Ruinele Hôtel Harmattan rămân o relicvă arhitecturală în orașul Bouaké.",
+                  "category": "historical",
+                  "coords": [
+                        -5.026691,
+                        7.685818
+                  ]
+            },
+            {
+                  "name": "Monument du Gbèkè",
+                  "text": "Monument du Gbèkè este un monument local situat în Bouaké.",
+                  "category": "historical",
+                  "coords": [
+                        -5.031677,
+                        7.683459
+                  ]
+            },
+            {
+                  "name": "Monument Eléphant",
+                  "text": "Monument Eléphant este un monument public situat în orașul Bouaké.",
+                  "category": "historical",
+                  "coords": [
+                        -5.022929,
+                        7.688529
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
+                  "text": "Centre Artisanal Lamine Fadiga pour les Handicapés este un centru de arte din Bouaké.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.02674,
+                        7.679324
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Thérèse de l'Enfant Jésus",
+                  "text": "Cathédrale Sainte-Thérèse de l'Enfant Jésus este o catedrală romano-catolică notabilă și un important lăcaș de cult în Bouaké.",
+                  "category": "religious",
+                  "coords": [
+                        -5.028603,
+                        7.68811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hôtel Harmattan (ruines)",
+                  "text": "The ruins of Hôtel Harmattan remain as an architectural relic in the city of Bouaké.",
+                  "category": "historical",
+                  "coords": [
+                        -5.026691,
+                        7.685818
+                  ]
+            },
+            {
+                  "name": "Monument du Gbèkè",
+                  "text": "The Monument du Gbèkè is a notable local monument situated in Bouaké.",
+                  "category": "historical",
+                  "coords": [
+                        -5.031677,
+                        7.683459
+                  ]
+            },
+            {
+                  "name": "Monument Eléphant",
+                  "text": "The Monument Eléphant is a distinctive public monument located in the city of Bouaké.",
+                  "category": "historical",
+                  "coords": [
+                        -5.022929,
+                        7.688529
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal Lamine Fadiga pour les Handicapés",
+                  "text": "The Centre Artisanal Lamine Fadiga pour les Handicapés is an arts and crafts center in Bouaké.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.02674,
+                        7.679324
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte-Thérèse de l'Enfant Jésus",
+                  "text": "The Cathédrale Sainte-Thérèse de l'Enfant Jésus is a notable Roman Catholic cathedral serving as a significant place of worship in Bouaké.",
+                  "category": "religious",
+                  "coords": [
+                        -5.028603,
+                        7.68811
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-VB",
     coords: [-5.0271, 7.6938],
@@ -139,7 +805,196 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "daloa-cities-v2",
+    id: "daloa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place de la solidarité",
+                  "text": "Place de la Solidarité ist ein Denkmal in Daloa.",
+                  "category": "historical",
+                  "coords": [
+                        -6.449218,
+                        6.879817
+                  ]
+            },
+            {
+                  "name": "Centre Culturel municipal",
+                  "text": "Das Kulturzentrum der Stadt Daloa.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.449193,
+                        6.890875
+                  ]
+            },
+            {
+                  "name": "Grande mosquée",
+                  "text": "Die Große Moschee ist ein zentrales Gotteshaus in Daloa.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44947,
+                        6.876552
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "Die Christkönig-Kathedrale ist ein bedeutendes religiöses Bauwerk in Daloa.",
+                  "category": "religious",
+                  "coords": [
+                        -6.447987,
+                        6.883218
+                  ]
+            },
+            {
+                  "name": "Mairie de Daloa",
+                  "text": "Das Rathaus von Daloa ist ein Verwaltungsgebäude der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -6.45148,
+                        6.885967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place de la solidarité",
+                  "text": "A Place de la Solidarité egy emlékmű Daloában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.449218,
+                        6.879817
+                  ]
+            },
+            {
+                  "name": "Centre Culturel municipal",
+                  "text": "Daloa város kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.449193,
+                        6.890875
+                  ]
+            },
+            {
+                  "name": "Grande mosquée",
+                  "text": "A Nagy Mecset egy központi imaház Daloában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44947,
+                        6.876552
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "A Krisztus Király-székesegyház egy jelentős vallási épület Daloában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.447987,
+                        6.883218
+                  ]
+            },
+            {
+                  "name": "Mairie de Daloa",
+                  "text": "Daloa városháza a város közigazgatási épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -6.45148,
+                        6.885967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place de la solidarité",
+                  "text": "Place de la Solidarité este un monument din Daloa.",
+                  "category": "historical",
+                  "coords": [
+                        -6.449218,
+                        6.879817
+                  ]
+            },
+            {
+                  "name": "Centre Culturel municipal",
+                  "text": "Centrul cultural al orașului Daloa.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.449193,
+                        6.890875
+                  ]
+            },
+            {
+                  "name": "Grande mosquée",
+                  "text": "Marea Moschee este un lăcaș de cult central din Daloa.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44947,
+                        6.876552
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "Catedrala Hristos Regele este un edificiu religios important din Daloa.",
+                  "category": "religious",
+                  "coords": [
+                        -6.447987,
+                        6.883218
+                  ]
+            },
+            {
+                  "name": "Mairie de Daloa",
+                  "text": "Primăria orașului Daloa este clădirea administrativă locală.",
+                  "category": "historical",
+                  "coords": [
+                        -6.45148,
+                        6.885967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place de la solidarité",
+                  "text": "Place de la Solidarité is a monument in Daloa.",
+                  "category": "historical",
+                  "coords": [
+                        -6.449218,
+                        6.879817
+                  ]
+            },
+            {
+                  "name": "Centre Culturel municipal",
+                  "text": "The municipal cultural centre of Daloa.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.449193,
+                        6.890875
+                  ]
+            },
+            {
+                  "name": "Grande mosquée",
+                  "text": "The Great Mosque is a central place of worship in Daloa.",
+                  "category": "religious",
+                  "coords": [
+                        -6.44947,
+                        6.876552
+                  ]
+            },
+            {
+                  "name": "Cathédrale du Christ-Roi",
+                  "text": "The Christ the King Cathedral is a significant religious building in Daloa.",
+                  "category": "religious",
+                  "coords": [
+                        -6.447987,
+                        6.883218
+                  ]
+            },
+            {
+                  "name": "Mairie de Daloa",
+                  "text": "The Daloa Town Hall is the municipal administrative building.",
+                  "category": "historical",
+                  "coords": [
+                        -6.45148,
+                        6.885967
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-SM",
     coords: [-6.4431, 6.8774],
@@ -235,7 +1090,88 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "korhogo-cities-v2",
+    id: "korhogo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Korhogo",
+                  "text": "Der Mont Korhogo ist ein markanter Berggipfel, der sich über die Stadt Korhogo erhebt.",
+                  "category": "natural",
+                  "coords": [
+                        -5.651081,
+                        9.452309
+                  ]
+            },
+            {
+                  "name": "Centre artistique de Korhogo",
+                  "text": "Das Centre artistique de Korhogo ist ein lokales Kunstzentrum in der Stadt Korhogo.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.634901,
+                        9.449997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Korhogo",
+                  "text": "A Mont Korhogo egy kiemelkedő hegycsúcs, amely Korhogo városa fölé magasodik.",
+                  "category": "natural",
+                  "coords": [
+                        -5.651081,
+                        9.452309
+                  ]
+            },
+            {
+                  "name": "Centre artistique de Korhogo",
+                  "text": "A Centre artistique de Korhogo egy helyi művészeti központ Korhogo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.634901,
+                        9.449997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Korhogo",
+                  "text": "Mont Korhogo este un vârf montan proeminent care se înalță deasupra orașului Korhogo.",
+                  "category": "natural",
+                  "coords": [
+                        -5.651081,
+                        9.452309
+                  ]
+            },
+            {
+                  "name": "Centre artistique de Korhogo",
+                  "text": "Centre artistique de Korhogo este un centru de arte local situat în orașul Korhogo.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.634901,
+                        9.449997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Korhogo",
+                  "text": "Mont Korhogo is a prominent mountain peak towering over the city of Korhogo.",
+                  "category": "natural",
+                  "coords": [
+                        -5.651081,
+                        9.452309
+                  ]
+            },
+            {
+                  "name": "Centre artistique de Korhogo",
+                  "text": "The Centre artistique de Korhogo is a local arts centre promoting creativity in Korhogo.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.634901,
+                        9.449997
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-SV",
     coords: [-5.6267, 9.458],
@@ -379,7 +1315,88 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "gagnoa-cities-v2",
+    id: "gagnoa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Les moulins blanc",
+                  "text": "Les moulins blanc ist eine traditionelle Windmühle in der Stadt Gagnoa.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.954235,
+                        6.124189
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte Anne",
+                  "text": "Die Cathédrale Sainte Anne ist eine religiöse Gebetsstätte in der Stadt Gagnoa.",
+                  "category": "religious",
+                  "coords": [
+                        -5.942972,
+                        6.124894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Les moulins blanc",
+                  "text": "A Les moulins blanc egy hagyományos szélmalom Gagnoa városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.954235,
+                        6.124189
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte Anne",
+                  "text": "A Cathédrale Sainte Anne egy vallási jelentőségű imahely Gagnoa városában.",
+                  "category": "religious",
+                  "coords": [
+                        -5.942972,
+                        6.124894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Les moulins blanc",
+                  "text": "Les moulins blanc este o moară de vânt tradițională situată în orașul Gagnoa.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.954235,
+                        6.124189
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte Anne",
+                  "text": "Cathédrale Sainte Anne este un lăcaș de cult situat în orașul Gagnoa.",
+                  "category": "religious",
+                  "coords": [
+                        -5.942972,
+                        6.124894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Les moulins blanc",
+                  "text": "Les moulins blanc is a traditional windmill located in the city of Gagnoa.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.954235,
+                        6.124189
+                  ]
+            },
+            {
+                  "name": "Cathédrale Sainte Anne",
+                  "text": "Cathédrale Sainte Anne is a place of worship situated in Gagnoa.",
+                  "category": "religious",
+                  "coords": [
+                        -5.942972,
+                        6.124894
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-GO",
     coords: [-5.9389, 6.1319],
@@ -427,7 +1444,88 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "abengourou-cities-v2",
+    id: "abengourou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Conservatoire National des Arts et Métiers",
+                  "text": "Ein Museum für Kunst und Handwerk in Abengourou.",
+                  "category": "museum",
+                  "coords": [
+                        -3.499894,
+                        6.738223
+                  ]
+            },
+            {
+                  "name": "Musée Bieth",
+                  "text": "Das Bieth-Museum ist eine kulturelle Einrichtung in Abengourou.",
+                  "category": "museum",
+                  "coords": [
+                        -3.498906,
+                        6.738104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Conservatoire National des Arts et Métiers",
+                  "text": "Művészeti és iparművészeti múzeum Abengourouban.",
+                  "category": "museum",
+                  "coords": [
+                        -3.499894,
+                        6.738223
+                  ]
+            },
+            {
+                  "name": "Musée Bieth",
+                  "text": "A Bieth Múzeum egy kulturális intézmény Abengourouban.",
+                  "category": "museum",
+                  "coords": [
+                        -3.498906,
+                        6.738104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conservatoire National des Arts et Métiers",
+                  "text": "Un muzeu de artă și meserii din Abengourou.",
+                  "category": "museum",
+                  "coords": [
+                        -3.499894,
+                        6.738223
+                  ]
+            },
+            {
+                  "name": "Musée Bieth",
+                  "text": "Muzeul Bieth este o instituție culturală din Abengourou.",
+                  "category": "museum",
+                  "coords": [
+                        -3.498906,
+                        6.738104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Conservatoire National des Arts et Métiers",
+                  "text": "A museum of arts and crafts in Abengourou.",
+                  "category": "museum",
+                  "coords": [
+                        -3.499894,
+                        6.738223
+                  ]
+            },
+            {
+                  "name": "Musée Bieth",
+                  "text": "The Bieth Museum is a cultural institution in Abengourou.",
+                  "category": "museum",
+                  "coords": [
+                        -3.498906,
+                        6.738104
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-CQ",
     coords: [-3.4965, 6.7297],
@@ -619,7 +1717,88 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "dabou-cities-v2",
+    id: "dabou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "Fort Faidherbe ist eine historische Festung in Dabou.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.386437,
+                        5.317572
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Dabou",
+                  "text": "Das Centre Culturel de Dabou ist ein Kunstzentrum in Dabou.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.376009,
+                        5.319449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "A Fort Faidherbe egy történelmi erőd Dabou városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.386437,
+                        5.317572
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Dabou",
+                  "text": "A Centre Culturel de Dabou egy művészeti központ Dabou városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.376009,
+                        5.319449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "Fort Faidherbe este o fortăreață istorică în Dabou.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.386437,
+                        5.317572
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Dabou",
+                  "text": "Centre Culturel de Dabou este un centru de artă în Dabou.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.376009,
+                        5.319449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Faidherbe",
+                  "text": "Fort Faidherbe is a historic fort in Dabou.",
+                  "category": "fortress",
+                  "coords": [
+                        -4.386437,
+                        5.317572
+                  ]
+            },
+            {
+                  "name": "Centre Culturel de Dabou",
+                  "text": "The Centre Culturel de Dabou is an arts centre in Dabou.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.376009,
+                        5.319449
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-LG",
     coords: [-4.3768, 5.3256],
@@ -715,7 +1894,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "ferkess-dougou-cities-v2",
+    id: "ferkess-dougou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "BAR (le monde arabe)",
+                  "text": "BAR ist eine lokale Attraktion in Ferkessédougou.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.207471,
+                        9.591027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BAR (le monde arabe)",
+                  "text": "A BAR egy helyi látnivaló Ferkessédougouban.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.207471,
+                        9.591027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BAR (le monde arabe)",
+                  "text": "BAR este o atracție locală din Ferkessédougou.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.207471,
+                        9.591027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BAR (arabe world)",
+                  "text": "BAR is a local attraction in Ferkessédougou.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.207471,
+                        9.591027
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-SV",
     coords: [-5.1979, 9.5938],
@@ -955,7 +2179,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "odienn-cities-v2",
+    id: "odienn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Saint-Augustin d'Odienné",
+                  "text": "Die Cathédrale Saint-Augustin d'Odienné ist eine bedeutende katholische Kathedrale in der Stadt Odienné.",
+                  "category": "religious",
+                  "coords": [
+                        -7.561322,
+                        9.498921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Saint-Augustin d'Odienné",
+                  "text": "A Cathédrale Saint-Augustin d'Odienné egy kiemelkedő katolikus katedrális Odienné városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.561322,
+                        9.498921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Saint-Augustin d'Odienné",
+                  "text": "Cathédrale Saint-Augustin d'Odienné este o importantă catedrală catolică din Odienné.",
+                  "category": "religious",
+                  "coords": [
+                        -7.561322,
+                        9.498921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Saint-Augustin d'Odienné",
+                  "text": "The Cathédrale Saint-Augustin d'Odienné is a prominent Catholic cathedral in Odienné.",
+                  "category": "religious",
+                  "coords": [
+                        -7.561322,
+                        9.498921
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-DE",
     coords: [-7.5692, 9.5051],
@@ -1003,7 +2272,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "katiola-cities-v2",
+    id: "katiola-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
+                  "text": "Die Kathedrale Sainte-Jeanne-d'Arc ist ein markantes Gotteshaus in Katiola.",
+                  "category": "religious",
+                  "coords": [
+                        -5.092263,
+                        8.140762
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
+                  "text": "A Sainte-Jeanne-d'Arc székesegyház egy jelentős imaház Katiolában.",
+                  "category": "religious",
+                  "coords": [
+                        -5.092263,
+                        8.140762
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
+                  "text": "Catedrala Sainte-Jeanne-d'Arc este un lăcaș de cult proeminent din Katiola.",
+                  "category": "religious",
+                  "coords": [
+                        -5.092263,
+                        8.140762
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
+                  "text": "The Sainte-Jeanne-d'Arc Cathedral is a prominent place of worship in Katiola.",
+                  "category": "religious",
+                  "coords": [
+                        -5.092263,
+                        8.140762
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-VB",
     coords: [-5.1009, 8.1373],
@@ -1147,7 +2461,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "bingerville-cities-v2",
+    id: "bingerville-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve naturelle de Dahlia Fleur",
+                  "text": "Ein Naturschutzgebiet in Bingerville.",
+                  "category": "natural",
+                  "coords": [
+                        -3.914385,
+                        5.353666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve naturelle de Dahlia Fleur",
+                  "text": "Természetvédelmi terület Bingerville-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -3.914385,
+                        5.353666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve naturelle de Dahlia Fleur",
+                  "text": "O rezervație naturală din Bingerville.",
+                  "category": "natural",
+                  "coords": [
+                        -3.914385,
+                        5.353666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve naturelle de Dahlia Fleur",
+                  "text": "A nature reserve in Bingerville.",
+                  "category": "natural",
+                  "coords": [
+                        -3.914385,
+                        5.353666
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-AB",
     coords: [-3.886, 5.3558],
@@ -1195,7 +2554,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "danan-cities-v2",
+    id: "danan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ROND POINT DE DE MAIRIE DE DANANÉ",
+                  "text": "ROND POINT DE DE MAIRIE DE DANANÉ ist ein Denkmal in Danané.",
+                  "category": "historical",
+                  "coords": [
+                        -8.150247,
+                        7.268555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ROND POINT DE DE MAIRIE DE DANANÉ",
+                  "text": "A ROND POINT DE DE MAIRIE DE DANANÉ egy emlékmű Danané városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.150247,
+                        7.268555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ROND POINT DE DE MAIRIE DE DANANÉ",
+                  "text": "ROND POINT DE DE MAIRIE DE DANANÉ este un monument în Danané.",
+                  "category": "historical",
+                  "coords": [
+                        -8.150247,
+                        7.268555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ROND POINT DE DE MAIRIE DE DANANÉ",
+                  "text": "ROND POINT DE DE MAIRIE DE DANANÉ is a monument in Danané.",
+                  "category": "historical",
+                  "coords": [
+                        -8.150247,
+                        7.268555
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-MT",
     coords: [-8.1565, 7.2596],
@@ -1291,7 +2695,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "oum-cities-v2",
+    id: "oum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Oumé",
+                  "text": "Das Kulturzentrum in Oumé.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.416061,
+                        6.380034
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Oumé",
+                  "text": "Kulturális központ Ouméban.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.416061,
+                        6.380034
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Oumé",
+                  "text": "Centrul cultural din Oumé.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.416061,
+                        6.380034
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Oumé",
+                  "text": "The cultural centre in Oumé.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.416061,
+                        6.380034
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-GO",
     coords: [-5.4172, 6.3831],
@@ -1387,7 +2836,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "tengr-la-cities-v2",
+    id: "tengr-la-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mosquée de Tengréla",
+                  "text": "Die Mosquée de Tengréla ist eine Moschee für die lokale Gemeinschaft in der Stadt Tengréla.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.41011,
+                        10.490339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mosquée de Tengréla",
+                  "text": "A Mosquée de Tengréla egy mecset Tengréla városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.41011,
+                        10.490339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mosquée de Tengréla",
+                  "text": "Mosquée de Tengréla este o moschee situată în orașul Tengréla.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.41011,
+                        10.490339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mosquée de Tengréla",
+                  "text": "The Mosquée de Tengréla is a mosque serving the local Islamic community in Tengréla.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.41011,
+                        10.490339
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-SV",
     coords: [-6.4069, 10.4878],
@@ -1915,7 +3409,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "mankono-cities-v2",
+    id: "mankono-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boulevard Alassane Ouattara",
+                  "text": "Boulevard Alassane Ouattara ist ein Denkmal in Mankono.",
+                  "category": "historical",
+                  "coords": [
+                        -6.193567,
+                        8.06988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boulevard Alassane Ouattara",
+                  "text": "A Boulevard Alassane Ouattara egy emlékmű Mankono városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.193567,
+                        8.06988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boulevard Alassane Ouattara",
+                  "text": "Boulevard Alassane Ouattara este un monument în Mankono.",
+                  "category": "historical",
+                  "coords": [
+                        -6.193567,
+                        8.06988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boulevard Alassane Ouattara",
+                  "text": "Boulevard Alassane Ouattara is a monument in Mankono.",
+                  "category": "historical",
+                  "coords": [
+                        -6.193567,
+                        8.06988
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-WR",
     coords: [-6.1897, 8.0583],
@@ -2347,7 +3886,52 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
   },
   {
-    id: "agnibil-krou-cities-v2",
+    id: "agnibil-krou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel d'Agnibilékrou",
+                  "text": "Das Centre Culturel d'Agnibilékrou ist ein Kunstzentrum in Agnibilékrou.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.201511,
+                        7.130789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel d'Agnibilékrou",
+                  "text": "A Centre Culturel d'Agnibilékrou egy művészeti központ Agnibilékrou városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.201511,
+                        7.130789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel d'Agnibilékrou",
+                  "text": "Centre Culturel d'Agnibilékrou este un centru de artă în Agnibilékrou.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.201511,
+                        7.130789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel d'Agnibilékrou",
+                  "text": "The Centre Culturel d'Agnibilékrou is an arts centre in Agnibilékrou.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.201511,
+                        7.130789
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CI-CQ",
     coords: [-3.2046, 7.1311],

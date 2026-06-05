@@ -58,7 +58,340 @@ export const poiExtraKenyaCitiesV2: POI[] = [
     
      image: "/poi-images/nairobi-cities-v2.webp"},
   {
-    id: "mombasa-cities-v2",
+    id: "mombasa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Jesus",
+                  "text": "Fort Jesus ist eine portugiesische Festung aus dem Jahr 1591 in Mombasa.",
+                  "category": "castle",
+                  "coords": [
+                        39.679717,
+                        -4.062648
+                  ]
+            },
+            {
+                  "name": "Little Theatre Club",
+                  "text": "Little Theatre Club ist ein Theater in Mombasa.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664816,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "Mavi mavi beach ist ein Strand in Mombasa.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "English Point Beach ist ein Strand in Mombasa.",
+                  "category": "recreational",
+                  "coords": [
+                        39.68372,
+                        -4.057383
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "Kengeleni Bell ist ein Denkmal in Mombasa.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            },
+            {
+                  "name": "Leven House",
+                  "text": "Leven House ist eine Sehenswürdigkeit in Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "Africa Hotel ist eine Sehenswürdigkeit in Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Market ist eine Sehenswürdigkeit in Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "Die Makupa Causeway Bridge ist eine Brücke, die Mombasa Island mit dem Festland verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651584,
+                        -4.033729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Jesus",
+                  "text": "A Fort Jesus egy 1591-ben épült portugál erőd Mombasában.",
+                  "category": "castle",
+                  "coords": [
+                        39.679717,
+                        -4.062648
+                  ]
+            },
+            {
+                  "name": "Little Theatre Club",
+                  "text": "A Little Theatre Club egy színház Mombasában.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664816,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "A Mavi mavi beach egy strand Mombasában.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "A English Point Beach egy strand Mombasában.",
+                  "category": "recreational",
+                  "coords": [
+                        39.68372,
+                        -4.057383
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "A Kengeleni Bell egy emlékmű Mombasában.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            },
+            {
+                  "name": "Leven House",
+                  "text": "A Leven House egy látványosság Mombasában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "A Africa Hotel egy látványosság Mombasában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "A Market egy látványosság Mombasában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "A Makupa Causeway Bridge egy híd, amely a Mombasa-szigetet köti össze a szárazfölddel.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651584,
+                        -4.033729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Jesus",
+                  "text": "Fort Jesus este un fort portughez construit în 1591, situat în Mombasa.",
+                  "category": "castle",
+                  "coords": [
+                        39.679717,
+                        -4.062648
+                  ]
+            },
+            {
+                  "name": "Little Theatre Club",
+                  "text": "Little Theatre Club este un teatru în Mombasa.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664816,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "Mavi mavi beach este o plajă în Mombasa.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "English Point Beach este o plajă în Mombasa.",
+                  "category": "recreational",
+                  "coords": [
+                        39.68372,
+                        -4.057383
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "Kengeleni Bell este un monument în Mombasa.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            },
+            {
+                  "name": "Leven House",
+                  "text": "Leven House este o atracție în Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "Africa Hotel este o atracție în Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Market este o atracție în Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "Makupa Causeway Bridge este un pod care leagă Insula Mombasa de continent.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651584,
+                        -4.033729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Jesus",
+                  "text": "Fort Jesus is a Portuguese fort built in 1591, located in Mombasa.",
+                  "category": "castle",
+                  "coords": [
+                        39.679717,
+                        -4.062648
+                  ]
+            },
+            {
+                  "name": "Little Theatre Club",
+                  "text": "Little Theatre Club is a theatre situated in Mombasa.",
+                  "category": "cultural",
+                  "coords": [
+                        39.664816,
+                        -4.067039
+                  ]
+            },
+            {
+                  "name": "Mavi mavi beach",
+                  "text": "Mavi mavi beach is a beach found in Mombasa.",
+                  "category": "recreational",
+                  "coords": [
+                        39.671946,
+                        -4.027581
+                  ]
+            },
+            {
+                  "name": "English Point Beach",
+                  "text": "English Point Beach is a beach situated in Mombasa.",
+                  "category": "recreational",
+                  "coords": [
+                        39.68372,
+                        -4.057383
+                  ]
+            },
+            {
+                  "name": "Kengeleni Bell",
+                  "text": "Kengeleni Bell is a monument found in Mombasa.",
+                  "category": "historical",
+                  "coords": [
+                        39.680535,
+                        -4.039324
+                  ]
+            },
+            {
+                  "name": "Leven House",
+                  "text": "Leven House is an attraction found in Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.678208,
+                        -4.058366
+                  ]
+            },
+            {
+                  "name": "Africa Hotel",
+                  "text": "Africa Hotel is an attraction located in Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.679573,
+                        -4.060656
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Market is an attraction found in Mombasa.",
+                  "category": "landmark",
+                  "coords": [
+                        39.667875,
+                        -4.043611
+                  ]
+            },
+            {
+                  "name": "Makupa Causeway Bridge",
+                  "text": "Makupa Causeway Bridge is a bridge linking Mombasa Island to the mainland.",
+                  "category": "landmark",
+                  "coords": [
+                        39.651584,
+                        -4.033729
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-01",
     coords: [39.6682, -4.0435],
@@ -119,7 +452,88 @@ export const poiExtraKenyaCitiesV2: POI[] = [
     
      image: "/poi-images/mombasa-cities-v2.webp"},
   {
-    id: "kisumu-cities-v2",
+    id: "kisumu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kisumu National Museum",
+                  "text": "Nationalmuseum in Kisumu.",
+                  "category": "museum",
+                  "coords": [
+                        34.76271,
+                        -0.107372
+                  ]
+            },
+            {
+                  "name": "Sundowner Tower",
+                  "text": "Aussichtspunkt in Kisumu.",
+                  "category": "natural",
+                  "coords": [
+                        34.744881,
+                        -0.111275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kisumu National Museum",
+                  "text": "Nemzeti Múzeum Kisumuban.",
+                  "category": "museum",
+                  "coords": [
+                        34.76271,
+                        -0.107372
+                  ]
+            },
+            {
+                  "name": "Sundowner Tower",
+                  "text": "Kilátó Kisumuban.",
+                  "category": "natural",
+                  "coords": [
+                        34.744881,
+                        -0.111275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kisumu National Museum",
+                  "text": "Muzeul Național din Kisumu.",
+                  "category": "museum",
+                  "coords": [
+                        34.76271,
+                        -0.107372
+                  ]
+            },
+            {
+                  "name": "Sundowner Tower",
+                  "text": "Punct de observație în Kisumu.",
+                  "category": "natural",
+                  "coords": [
+                        34.744881,
+                        -0.111275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kisumu National Museum",
+                  "text": "National museum in Kisumu.",
+                  "category": "museum",
+                  "coords": [
+                        34.76271,
+                        -0.107372
+                  ]
+            },
+            {
+                  "name": "Sundowner Tower",
+                  "text": "Viewpoint in Kisumu.",
+                  "category": "natural",
+                  "coords": [
+                        34.744881,
+                        -0.111275
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-42",
     coords: [34.7617, -0.0917],
@@ -359,7 +773,160 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Connue pour ses immenses plantations d'ananas.", "Abrite les chutes de Chania et de Thika."],
     }, image: "/poi-images/thika-cities-v2.webp"},
   {
-    id: "malindi-cities-v2",
+    id: "malindi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "House of Columns",
+                  "text": "Das Haus der Säulen ist ein bemerkenswertes Museum in Malindi. Es wird als Teil des Malindi-Museums betrieben und zeigt lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        40.124828,
+                        -3.217858
+                  ]
+            },
+            {
+                  "name": "Malindi Museum",
+                  "text": "Das Malindi-Museum ist eine wichtige kulturelle Einrichtung in Malindi. Es bietet Ausstellungen zur Geschichte und Kultur der Küstenregion Kenias.",
+                  "category": "museum",
+                  "coords": [
+                        40.121588,
+                        -3.215993
+                  ]
+            },
+            {
+                  "name": "Padro de Gama",
+                  "text": "Padro de Gama ist eine archäologische Stätte in der Stadt Malindi. Sie enthält historische Überreste der frühen portugiesischen Präsenz.",
+                  "category": "historical",
+                  "coords": [
+                        40.129868,
+                        -3.223665
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "Die portugiesische Kapelle ist ein historisches Denkmal in Malindi. Sie ist ein architektonisches Überbleibsel aus der Zeit der europäischen Entdeckungen.",
+                  "category": "historical",
+                  "coords": [
+                        40.126424,
+                        -3.222381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "House of Columns",
+                  "text": "Az Oszlopok Háza egy jelentős múzeum Malindiben. A Malindi Múzeum részeként működik, és a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        40.124828,
+                        -3.217858
+                  ]
+            },
+            {
+                  "name": "Malindi Museum",
+                  "text": "A Malindi Múzeum egy fontos kulturális intézmény Malindiben. Kenya partvidéki régiójának történelmét és kultúráját bemutató kiállításokkal rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        40.121588,
+                        -3.215993
+                  ]
+            },
+            {
+                  "name": "Padro de Gama",
+                  "text": "A Padro de Gama egy régészeti lelőhely Malindi városában. A korai portugál jelenlét történelmi maradványait tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        40.129868,
+                        -3.223665
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "A Portugál Kápolna egy történelmi emlékmű Malindiben. Az európai felfedezések korából származó építészeti maradvány.",
+                  "category": "historical",
+                  "coords": [
+                        40.126424,
+                        -3.222381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "House of Columns",
+                  "text": "Casa Coloanelor este un muzeu notabil situat în Malindi. Funcționează ca parte a Muzeului Malindi, expunând istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        40.124828,
+                        -3.217858
+                  ]
+            },
+            {
+                  "name": "Malindi Museum",
+                  "text": "Muzeul Malindi este o instituție culturală importantă situată în Malindi. Acesta prezintă expoziții despre istoria și cultura regiunii de coastă a Kenyei.",
+                  "category": "museum",
+                  "coords": [
+                        40.121588,
+                        -3.215993
+                  ]
+            },
+            {
+                  "name": "Padro de Gama",
+                  "text": "Padro de Gama este un sit arheologic situat în orașul Malindi. Acesta conține rămășițe istorice ale prezenței portugheze timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        40.129868,
+                        -3.223665
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "Capela Portugheză este un monument istoric situat în Malindi. Este o rămășiță arhitecturală din epoca explorărilor europene.",
+                  "category": "historical",
+                  "coords": [
+                        40.126424,
+                        -3.222381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of Columns",
+                  "text": "The House of Columns is a notable museum situated in Malindi. It operates as part of the Malindi Museum, showcasing local history.",
+                  "category": "museum",
+                  "coords": [
+                        40.124828,
+                        -3.217858
+                  ]
+            },
+            {
+                  "name": "Malindi Museum",
+                  "text": "The Malindi Museum is an important cultural institution located in Malindi. It features exhibits on the history and culture of Kenya's coastal region.",
+                  "category": "museum",
+                  "coords": [
+                        40.121588,
+                        -3.215993
+                  ]
+            },
+            {
+                  "name": "Padro de Gama",
+                  "text": "Padro de Gama is an archaeological site situated in the town of Malindi. It contains historical remnants of early Portuguese presence.",
+                  "category": "historical",
+                  "coords": [
+                        40.129868,
+                        -3.223665
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "The Portuguese Chapel is a historical monument situated in Malindi. It is an architectural remnant from the era of European exploration.",
+                  "category": "historical",
+                  "coords": [
+                        40.126424,
+                        -3.222381
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-03",
     coords: [40.1166, -3.2166],
@@ -419,7 +986,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Vasco de Gama a visité la ville en 1498.", "Une destination de voyage populaire pour les touristes italiens."],
     }, image: "/poi-images/malindi-cities-v2.webp"},
   {
-    id: "kitale-cities-v2",
+    id: "kitale-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kitale Museum",
+                  "text": "Kitale Museum ist ein Museum in Kitale.",
+                  "category": "museum",
+                  "coords": [
+                        35.005296,
+                        1.013507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kitale Museum",
+                  "text": "A Kitale Museum egy múzeum Kitale városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.005296,
+                        1.013507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kitale Museum",
+                  "text": "Kitale Museum este un muzeu în Kitale.",
+                  "category": "museum",
+                  "coords": [
+                        35.005296,
+                        1.013507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kitale Museum",
+                  "text": "Kitale Museum is a museum located in Kitale.",
+                  "category": "museum",
+                  "coords": [
+                        35.005296,
+                        1.013507
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-26",
     coords: [35.0062, 1.0157],
@@ -719,7 +1331,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Fut la première capitale du protectorat britannique d'Afrique de l'Est.", "Célèbre pour ses œuvres d'art en bois magnifiquement sculptées."],
     }, image: "/poi-images/machakos-cities-v2.webp"},
   {
-    id: "meru-cities-v2",
+    id: "meru-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Meru Museum",
+                  "text": "Das Meru-Museum ist ein kultureller Aufbewahrungsort in Meru. Es stellt Artefakte aus, die sich auf die Geschichte und Traditionen der einheimischen Bevölkerung beziehen.",
+                  "category": "museum",
+                  "coords": [
+                        37.650736,
+                        0.047623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Meru Museum",
+                  "text": "A Meru Múzeum egy kulturális adattár Meruban. A helyi emberek történelmével és hagyományaival kapcsolatos tárgyakat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        37.650736,
+                        0.047623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Meru Museum",
+                  "text": "Muzeul Meru este un depozit cultural situat în Meru. Acesta expune artefacte legate de istoria și tradițiile populației locale.",
+                  "category": "museum",
+                  "coords": [
+                        37.650736,
+                        0.047623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Meru Museum",
+                  "text": "The Meru Museum is a cultural repository located in Meru. It exhibits artifacts related to the history and traditions of the local people.",
+                  "category": "museum",
+                  "coords": [
+                        37.650736,
+                        0.047623
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-12",
     coords: [37.6496, 0.0463],
@@ -899,7 +1556,88 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["L'économie locale repose largement sur la culture de la canne à sucre.", "Un carrefour important sur la route vers l'Ouganda."],
     }, image: "/poi-images/bungoma-cities-v2.webp"},
   {
-    id: "naivasha-cities-v2",
+    id: "naivasha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Canyon human made",
+                  "text": "Der von Menschen geschaffene Canyon ist ein interessanter Aussichtspunkt in Naivasha. Er bietet einzigartige, durch menschliche Aktivitäten geformte Anblicke.",
+                  "category": "natural",
+                  "coords": [
+                        36.454086,
+                        -0.700204
+                  ]
+            },
+            {
+                  "name": "Zebra and giraffe free safari",
+                  "text": "Die Zebra and Giraffe Free Safari ist ein Aussichtspunkt auf die Tierwelt in Naivasha. Es ist ein großartiger Ort, um Tiere in ihrem natürlichen Lebensraum zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        36.434579,
+                        -0.736009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Canyon human made",
+                  "text": "Az Ember alkotta kanyon egy érdekes kilátó Naivashában. Az emberi tevékenység által formált egyedi látványt kínál.",
+                  "category": "natural",
+                  "coords": [
+                        36.454086,
+                        -0.700204
+                  ]
+            },
+            {
+                  "name": "Zebra and giraffe free safari",
+                  "text": "A Zebra és zsiráf szabad szafari egy vadvilági kilátó Naivashában. Nagyszerű hely az állatok természetes élőhelyükön történő megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        36.434579,
+                        -0.736009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Canyon human made",
+                  "text": "Canionul creat de om este un punct de belvedere interesant situat în Naivasha. Oferă priveliști unice modelate de activitatea umană.",
+                  "category": "natural",
+                  "coords": [
+                        36.454086,
+                        -0.700204
+                  ]
+            },
+            {
+                  "name": "Zebra and giraffe free safari",
+                  "text": "Safariul liber cu zebre și girafe este un punct de belvedere a faunei sălbatice situat în Naivasha. Este un loc excelent pentru a observa animalele în habitatul lor natural.",
+                  "category": "natural",
+                  "coords": [
+                        36.434579,
+                        -0.736009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Canyon human made",
+                  "text": "The Human-made Canyon is an interesting viewpoint situated in Naivasha. It offers unique sights shaped by human activity.",
+                  "category": "natural",
+                  "coords": [
+                        36.454086,
+                        -0.700204
+                  ]
+            },
+            {
+                  "name": "Zebra and giraffe free safari",
+                  "text": "The Zebra and Giraffe Free Safari is a wildlife viewpoint located in Naivasha. It is a great spot for observing animals in their natural habitat.",
+                  "category": "natural",
+                  "coords": [
+                        36.434579,
+                        -0.736009
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-32",
     coords: [36.4357, -0.7167],
@@ -1019,7 +1757,160 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["La région produit certaines des meilleures variétés de thé au monde.", "Bénéficie d'un climat de haute altitude très frais et humide."],
     }, image: "/poi-images/kericho-cities-v2.webp"},
   {
-    id: "lamu-cities-v2",
+    id: "lamu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lamu Museum",
+                  "text": "Museum in Lamu.",
+                  "category": "museum",
+                  "coords": [
+                        40.902355,
+                        -2.267421
+                  ]
+            },
+            {
+                  "name": "Lamu Fort",
+                  "text": "Historisches Fort in Lamu.",
+                  "category": "castle",
+                  "coords": [
+                        40.902122,
+                        -2.269371
+                  ]
+            },
+            {
+                  "name": "Maharia gallery",
+                  "text": "Kunstzentrum in Lamu.",
+                  "category": "cultural",
+                  "coords": [
+                        40.914743,
+                        -2.293644
+                  ]
+            },
+            {
+                  "name": "Riyadha mosque",
+                  "text": "Moschee in Lamu.",
+                  "category": "religious",
+                  "coords": [
+                        40.901159,
+                        -2.271046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lamu Museum",
+                  "text": "Múzeum Lamuban.",
+                  "category": "museum",
+                  "coords": [
+                        40.902355,
+                        -2.267421
+                  ]
+            },
+            {
+                  "name": "Lamu Fort",
+                  "text": "Történelmi erőd Lamuban.",
+                  "category": "castle",
+                  "coords": [
+                        40.902122,
+                        -2.269371
+                  ]
+            },
+            {
+                  "name": "Maharia gallery",
+                  "text": "Művészeti központ Lamuban.",
+                  "category": "cultural",
+                  "coords": [
+                        40.914743,
+                        -2.293644
+                  ]
+            },
+            {
+                  "name": "Riyadha mosque",
+                  "text": "Mecset Lamuban.",
+                  "category": "religious",
+                  "coords": [
+                        40.901159,
+                        -2.271046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lamu Museum",
+                  "text": "Muzeu în Lamu.",
+                  "category": "museum",
+                  "coords": [
+                        40.902355,
+                        -2.267421
+                  ]
+            },
+            {
+                  "name": "Lamu Fort",
+                  "text": "Fortăreață istorică în Lamu.",
+                  "category": "castle",
+                  "coords": [
+                        40.902122,
+                        -2.269371
+                  ]
+            },
+            {
+                  "name": "Maharia gallery",
+                  "text": "Centru de artă în Lamu.",
+                  "category": "cultural",
+                  "coords": [
+                        40.914743,
+                        -2.293644
+                  ]
+            },
+            {
+                  "name": "Riyadha mosque",
+                  "text": "Moschee în Lamu.",
+                  "category": "religious",
+                  "coords": [
+                        40.901159,
+                        -2.271046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lamu Museum",
+                  "text": "Museum in Lamu.",
+                  "category": "museum",
+                  "coords": [
+                        40.902355,
+                        -2.267421
+                  ]
+            },
+            {
+                  "name": "Lamu Fort",
+                  "text": "Historic fort in Lamu.",
+                  "category": "castle",
+                  "coords": [
+                        40.902122,
+                        -2.269371
+                  ]
+            },
+            {
+                  "name": "Maharia gallery",
+                  "text": "Arts centre in Lamu.",
+                  "category": "cultural",
+                  "coords": [
+                        40.914743,
+                        -2.293644
+                  ]
+            },
+            {
+                  "name": "Riyadha mosque",
+                  "text": "Mosque in Lamu.",
+                  "category": "religious",
+                  "coords": [
+                        40.901159,
+                        -2.271046
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-05",
     coords: [40.902, -2.2717],
@@ -1320,7 +2211,88 @@ export const poiExtraKenyaCitiesV2: POI[] = [
     }
   },
   {
-    id: "wajir-cities-v2",
+    id: "wajir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shuman place",
+                  "text": "Shuman place ist eine Sehenswürdigkeit in Wajir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.074336,
+                        1.742556
+                  ]
+            },
+            {
+                  "name": "Amira garden",
+                  "text": "Amira garden ist eine Sehenswürdigkeit in Wajir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.051271,
+                        1.725115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shuman place",
+                  "text": "A Shuman place egy látványosság Wajir városában.",
+                  "category": "landmark",
+                  "coords": [
+                        40.074336,
+                        1.742556
+                  ]
+            },
+            {
+                  "name": "Amira garden",
+                  "text": "A Amira garden egy látványosság Wajir városában.",
+                  "category": "landmark",
+                  "coords": [
+                        40.051271,
+                        1.725115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shuman place",
+                  "text": "Shuman place este o atracție în Wajir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.074336,
+                        1.742556
+                  ]
+            },
+            {
+                  "name": "Amira garden",
+                  "text": "Amira garden este o atracție în Wajir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.051271,
+                        1.725115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shuman place",
+                  "text": "Shuman place is an attraction situated in Wajir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.074336,
+                        1.742556
+                  ]
+            },
+            {
+                  "name": "Amira garden",
+                  "text": "Amira garden is an attraction found in Wajir.",
+                  "category": "landmark",
+                  "coords": [
+                        40.051271,
+                        1.725115
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-08",
     coords: [40.0573, 1.7471],
@@ -1560,7 +2532,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Sert de point de contrôle majeur pour les routes de camions transafricaines.", "Le commerce et l'industrie y sont florissants grâce à sa situation géographique."],
     }, image: "/poi-images/busia-cities-v2.webp"},
   {
-    id: "voi-cities-v2",
+    id: "voi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teri B Proposed Community Conservancy",
+                  "text": "Naturschutzgebiet in Voi.",
+                  "category": "natural",
+                  "coords": [
+                        38.512597,
+                        -3.487414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teri B Proposed Community Conservancy",
+                  "text": "Természetvédelmi terület Voi-ban.",
+                  "category": "natural",
+                  "coords": [
+                        38.512597,
+                        -3.487414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teri B Proposed Community Conservancy",
+                  "text": "Rezervație naturală în Voi.",
+                  "category": "natural",
+                  "coords": [
+                        38.512597,
+                        -3.487414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teri B Proposed Community Conservancy",
+                  "text": "Nature reserve in Voi.",
+                  "category": "natural",
+                  "coords": [
+                        38.512597,
+                        -3.487414
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-06",
     coords: [38.563, -3.3957],
@@ -1680,7 +2697,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Entourée de vastes plantations de café.", "Dispose d'un secteur immobilier et industriel en pleine croissance."],
     }, image: "/poi-images/ruiru-cities-v2.webp"},
   {
-    id: "kilifi-cities-v2",
+    id: "kilifi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mnarani National Monument & Snake Park",
+                  "text": "Mnarani National Monument & Snake Park ist eine Sehenswürdigkeit in Kilifi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.843973,
+                        -3.639972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mnarani National Monument & Snake Park",
+                  "text": "A Mnarani National Monument & Snake Park egy látványosság Kilifiben.",
+                  "category": "landmark",
+                  "coords": [
+                        39.843973,
+                        -3.639972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mnarani National Monument & Snake Park",
+                  "text": "Mnarani National Monument & Snake Park este o atracție în Kilifi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.843973,
+                        -3.639972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mnarani National Monument & Snake Park",
+                  "text": "Mnarani National Monument & Snake Park is an attraction located in Kilifi.",
+                  "category": "landmark",
+                  "coords": [
+                        39.843973,
+                        -3.639972
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-03",
     coords: [39.85, -3.6333],
@@ -1740,7 +2802,88 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Siège de l'Université de Pwani.", "Abrite les ruines antiques de Mnarani."],
     }, image: "/poi-images/kilifi-cities-v2.webp"},
   {
-    id: "mumias-cities-v2",
+    id: "mumias-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mumias Cultural Center",
+                  "text": "Museum in Mumias.",
+                  "category": "museum",
+                  "coords": [
+                        34.494328,
+                        0.338345
+                  ]
+            },
+            {
+                  "name": "Mumias Arts",
+                  "text": "Kunstzentrum in Mumias.",
+                  "category": "cultural",
+                  "coords": [
+                        34.490207,
+                        0.344676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mumias Cultural Center",
+                  "text": "Múzeum Mumiasban.",
+                  "category": "museum",
+                  "coords": [
+                        34.494328,
+                        0.338345
+                  ]
+            },
+            {
+                  "name": "Mumias Arts",
+                  "text": "Művészeti központ Mumiasban.",
+                  "category": "cultural",
+                  "coords": [
+                        34.490207,
+                        0.344676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mumias Cultural Center",
+                  "text": "Muzeu în Mumias.",
+                  "category": "museum",
+                  "coords": [
+                        34.494328,
+                        0.338345
+                  ]
+            },
+            {
+                  "name": "Mumias Arts",
+                  "text": "Centru de artă în Mumias.",
+                  "category": "cultural",
+                  "coords": [
+                        34.490207,
+                        0.344676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mumias Cultural Center",
+                  "text": "Museum in Mumias.",
+                  "category": "museum",
+                  "coords": [
+                        34.494328,
+                        0.338345
+                  ]
+            },
+            {
+                  "name": "Mumias Arts",
+                  "text": "Arts centre in Mumias.",
+                  "category": "cultural",
+                  "coords": [
+                        34.490207,
+                        0.344676
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-37",
     coords: [34.4855, 0.3392],
@@ -1800,7 +2943,88 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Fut autrefois le centre de l'industrie sucrière kényane.", "Nommée d'après Nabongo Mumia, un puissant roi local."],
     }, image: "/poi-images/mumias-cities-v2.webp"},
   {
-    id: "kapenguria-cities-v2",
+    id: "kapenguria-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mtelo Restaurant and Cottages",
+                  "text": "Mtelo Restaurant and Cottages ist eine lokale Attraktion in Kapenguria. Es bietet seinen Besuchern Gastfreundschaft und malerische Aussichten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.117577,
+                        1.238807
+                  ]
+            },
+            {
+                  "name": "Kapenguria Museum",
+                  "text": "Das Kapenguria-Museum ist eine bedeutende kulturelle Attraktion in Kapenguria. Es bewahrt die lokale Geschichte, einschließlich der Ereignisse des Unabhängigkeitskampfes.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121147,
+                        1.239518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mtelo Restaurant and Cottages",
+                  "text": "A Mtelo Restaurant and Cottages egy helyi látványosság Kapenguriában. Vendégszeretetet és festői kilátást nyújt látogatóinak.",
+                  "category": "landmark",
+                  "coords": [
+                        35.117577,
+                        1.238807
+                  ]
+            },
+            {
+                  "name": "Kapenguria Museum",
+                  "text": "A Kapenguria Múzeum egy jelentős kulturális látványosság Kapenguriában. Megőrzi a helyi történelmet, beleértve a függetlenségi küzdelem eseményeit.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121147,
+                        1.239518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mtelo Restaurant and Cottages",
+                  "text": "Mtelo Restaurant and Cottages este o atracție locală în Kapenguria. Aceasta oferă ospitalitate și vederi pitorești pentru vizitatorii săi.",
+                  "category": "landmark",
+                  "coords": [
+                        35.117577,
+                        1.238807
+                  ]
+            },
+            {
+                  "name": "Kapenguria Museum",
+                  "text": "Muzeul Kapenguria este o atracție culturală semnificativă în Kapenguria. Acesta conservă istoria locală, inclusiv evenimentele luptei pentru independență.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121147,
+                        1.239518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mtelo Restaurant and Cottages",
+                  "text": "Mtelo Restaurant and Cottages is a local attraction in Kapenguria. It provides hospitality and scenic views for its visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        35.117577,
+                        1.238807
+                  ]
+            },
+            {
+                  "name": "Kapenguria Museum",
+                  "text": "The Kapenguria Museum is a significant cultural attraction in Kapenguria. It preserves the local history, including events of the struggle for independence.",
+                  "category": "landmark",
+                  "coords": [
+                        35.121147,
+                        1.239518
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-24",
     coords: [35.1166, 1.2333],
@@ -1921,7 +3145,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Sert de base principale pour les alpinistes du mont Kenya.", "Abrite un important centre d'entraînement de l'armée britannique."],
     }, image: "/poi-images/nanyuki-cities-v2.webp"},
   {
-    id: "kikuyu-cities-v2",
+    id: "kikuyu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "School Hall",
+                  "text": "Theater in Kikuyu.",
+                  "category": "cultural",
+                  "coords": [
+                        36.665384,
+                        -1.26114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "School Hall",
+                  "text": "Színház Kikuyuban.",
+                  "category": "cultural",
+                  "coords": [
+                        36.665384,
+                        -1.26114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "School Hall",
+                  "text": "Teatru în Kikuyu.",
+                  "category": "cultural",
+                  "coords": [
+                        36.665384,
+                        -1.26114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "School Hall",
+                  "text": "Theatre in Kikuyu.",
+                  "category": "cultural",
+                  "coords": [
+                        36.665384,
+                        -1.26114
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-22",
     coords: [36.6575, -1.247],
@@ -2402,7 +3671,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Entourée de champs de café d'un vert profond.", "La capitale du comté de Kiambu."],
     }, image: "/poi-images/kiambu-cities-v2.webp"},
   {
-    id: "mandera-cities-v2",
+    id: "mandera-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Central Plaza Arc",
+                  "text": "Central Plaza Arc ist ein Denkmal in Mandera.",
+                  "category": "historical",
+                  "coords": [
+                        41.87397,
+                        3.928825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Central Plaza Arc",
+                  "text": "A Central Plaza Arc egy emlékmű Manderában.",
+                  "category": "historical",
+                  "coords": [
+                        41.87397,
+                        3.928825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Central Plaza Arc",
+                  "text": "Central Plaza Arc este un monument în Mandera.",
+                  "category": "historical",
+                  "coords": [
+                        41.87397,
+                        3.928825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Central Plaza Arc",
+                  "text": "Central Plaza Arc is a monument situated in Mandera.",
+                  "category": "historical",
+                  "coords": [
+                        41.87397,
+                        3.928825
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-09",
     coords: [41.8614, 3.9372],
@@ -2462,7 +3776,196 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Située dans un climat désertique rude et sec.", "L'élevage pastoral est le principal mode de subsistance."],
     }, image: "/poi-images/mandera-cities-v2.webp"},
   {
-    id: "marsabit-cities-v2",
+    id: "marsabit-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Songa Community Conservancy",
+                  "text": "Naturschutzgebiet in Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        37.941257,
+                        2.259934
+                  ]
+            },
+            {
+                  "name": "Jaldesa Community Conservancy",
+                  "text": "Naturschutzgebiet in Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        38.063889,
+                        2.361148
+                  ]
+            },
+            {
+                  "name": "Marsabit Cultural Museum",
+                  "text": "Kulturmuseum in Marsabit.",
+                  "category": "museum",
+                  "coords": [
+                        37.984518,
+                        2.321777
+                  ]
+            },
+            {
+                  "name": "Marsabit National Park",
+                  "text": "Nationalpark in Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        37.961451,
+                        2.260884
+                  ]
+            },
+            {
+                  "name": "Mount Marsabit",
+                  "text": "Vulkangipfel in Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        37.959607,
+                        2.317267
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Songa Community Conservancy",
+                  "text": "Természetvédelmi terület Marsabitban.",
+                  "category": "natural",
+                  "coords": [
+                        37.941257,
+                        2.259934
+                  ]
+            },
+            {
+                  "name": "Jaldesa Community Conservancy",
+                  "text": "Természetvédelmi terület Marsabitban.",
+                  "category": "natural",
+                  "coords": [
+                        38.063889,
+                        2.361148
+                  ]
+            },
+            {
+                  "name": "Marsabit Cultural Museum",
+                  "text": "Kulturális múzeum Marsabitban.",
+                  "category": "museum",
+                  "coords": [
+                        37.984518,
+                        2.321777
+                  ]
+            },
+            {
+                  "name": "Marsabit National Park",
+                  "text": "Nemzeti park Marsabitban.",
+                  "category": "natural",
+                  "coords": [
+                        37.961451,
+                        2.260884
+                  ]
+            },
+            {
+                  "name": "Mount Marsabit",
+                  "text": "Vulkáni csúcs Marsabitban.",
+                  "category": "natural",
+                  "coords": [
+                        37.959607,
+                        2.317267
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Songa Community Conservancy",
+                  "text": "Rezervație naturală în Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        37.941257,
+                        2.259934
+                  ]
+            },
+            {
+                  "name": "Jaldesa Community Conservancy",
+                  "text": "Rezervație naturală în Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        38.063889,
+                        2.361148
+                  ]
+            },
+            {
+                  "name": "Marsabit Cultural Museum",
+                  "text": "Muzeu cultural în Marsabit.",
+                  "category": "museum",
+                  "coords": [
+                        37.984518,
+                        2.321777
+                  ]
+            },
+            {
+                  "name": "Marsabit National Park",
+                  "text": "Parc național în Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        37.961451,
+                        2.260884
+                  ]
+            },
+            {
+                  "name": "Mount Marsabit",
+                  "text": "Vârf vulcanic în Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        37.959607,
+                        2.317267
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Songa Community Conservancy",
+                  "text": "Nature reserve in Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        37.941257,
+                        2.259934
+                  ]
+            },
+            {
+                  "name": "Jaldesa Community Conservancy",
+                  "text": "Nature reserve in Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        38.063889,
+                        2.361148
+                  ]
+            },
+            {
+                  "name": "Marsabit Cultural Museum",
+                  "text": "Cultural museum in Marsabit.",
+                  "category": "museum",
+                  "coords": [
+                        37.984518,
+                        2.321777
+                  ]
+            },
+            {
+                  "name": "Marsabit National Park",
+                  "text": "National park in Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        37.961451,
+                        2.260884
+                  ]
+            },
+            {
+                  "name": "Mount Marsabit",
+                  "text": "Volcanic peak in Marsabit.",
+                  "category": "natural",
+                  "coords": [
+                        37.959607,
+                        2.317267
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-10",
     coords: [37.9782, 2.3312],
@@ -2702,7 +4205,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Un important producteur de café dans la région.", "Possède une économie locale forte, portée par le commerce."],
     }, image: "/poi-images/kangundo-cities-v2.webp"},
   {
-    id: "gilgil-cities-v2",
+    id: "gilgil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marula Estate Conservancy",
+                  "text": "Das Marula Estate Conservancy ist ein Naturschutzgebiet in Gilgil. Es trägt zum Erhalt der natürlichen Landschaft und der heimischen Tierwelt bei.",
+                  "category": "natural",
+                  "coords": [
+                        36.360487,
+                        -0.615483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marula Estate Conservancy",
+                  "text": "A Marula Estate Conservancy egy védett természetvédelmi terület Gilgilben. Segít megőrizni a természeti tájat és az őshonos vadvilágot.",
+                  "category": "natural",
+                  "coords": [
+                        36.360487,
+                        -0.615483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marula Estate Conservancy",
+                  "text": "Marula Estate Conservancy este o rezervație naturală protejată situată în Gilgil. Aceasta ajută la conservarea peisajului natural și a faunei native.",
+                  "category": "natural",
+                  "coords": [
+                        36.360487,
+                        -0.615483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marula Estate Conservancy",
+                  "text": "The Marula Estate Conservancy is a protected nature reserve located in Gilgil. It helps preserve the natural landscape and native wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        36.360487,
+                        -0.615483
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-32",
     coords: [36.3268, -0.4951],
@@ -2943,7 +4491,52 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       fr: ["Célèbre pour sa production de moutons et d'agneaux de haute qualité (Agneau de Molo).", "La production de bois est un secteur économique local important."],
     }, image: "/poi-images/molo-cities-v2.webp"},
   {
-    id: "ngong-cities-v2",
+    id: "ngong-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ngong Hill Forest Recreational Park",
+                  "text": "Ngong Hill Forest Recreational Park ist ein Naturschutzgebiet in Ngong.",
+                  "category": "natural",
+                  "coords": [
+                        36.641971,
+                        -1.374306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ngong Hill Forest Recreational Park",
+                  "text": "A Ngong Hill Forest Recreational Park egy természetvédelmi terület Ngongban.",
+                  "category": "natural",
+                  "coords": [
+                        36.641971,
+                        -1.374306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ngong Hill Forest Recreational Park",
+                  "text": "Ngong Hill Forest Recreational Park este o rezervație naturală în Ngong.",
+                  "category": "natural",
+                  "coords": [
+                        36.641971,
+                        -1.374306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ngong Hill Forest Recreational Park",
+                  "text": "Ngong Hill Forest Recreational Park is a nature reserve found in Ngong.",
+                  "category": "natural",
+                  "coords": [
+                        36.641971,
+                        -1.374306
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KE-34",
     coords: [36.6566, -1.3621],

@@ -496,7 +496,124 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     }
   },
   {
-    id: "alaili-dadda-cities-v2",
+    id: "alaili-dadda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "‘Amayle",
+                  "text": "‘Amayle ist ein natürlicher Berggipfel in Alaili Dadda.",
+                  "category": "natural",
+                  "coords": [
+                        43.015676,
+                        12.449786
+                  ]
+            },
+            {
+                  "name": "Okli ‘Ale",
+                  "text": "Okli ‘Ale ist ein Berggipfel, der sich in der Gegend von Alaili Dadda befindet.",
+                  "category": "natural",
+                  "coords": [
+                        43.017631,
+                        12.399756
+                  ]
+            },
+            {
+                  "name": "Bâhi",
+                  "text": "Bâhi ist ein markanter Berggipfel in Alaili Dadda.",
+                  "category": "natural",
+                  "coords": [
+                        43.033333,
+                        12.416667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "‘Amayle",
+                  "text": "Az ‘Amayle egy természetes hegycsúcs Alaili Dadda területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.015676,
+                        12.449786
+                  ]
+            },
+            {
+                  "name": "Okli ‘Ale",
+                  "text": "Az Okli ‘Ale egy hegycsúcs Alaili Dadda térségében.",
+                  "category": "natural",
+                  "coords": [
+                        43.017631,
+                        12.399756
+                  ]
+            },
+            {
+                  "name": "Bâhi",
+                  "text": "A Bâhi egy kiemelkedő hegycsúcs Alaili Dadda területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.033333,
+                        12.416667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "‘Amayle",
+                  "text": "‘Amayle este un vârf muntos natural situat în Alaili Dadda.",
+                  "category": "natural",
+                  "coords": [
+                        43.015676,
+                        12.449786
+                  ]
+            },
+            {
+                  "name": "Okli ‘Ale",
+                  "text": "Okli ‘Ale este un vârf montan aflat în regiunea Alaili Dadda.",
+                  "category": "natural",
+                  "coords": [
+                        43.017631,
+                        12.399756
+                  ]
+            },
+            {
+                  "name": "Bâhi",
+                  "text": "Bâhi este un vârf muntos proeminent din Alaili Dadda.",
+                  "category": "natural",
+                  "coords": [
+                        43.033333,
+                        12.416667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "‘Amayle",
+                  "text": "‘Amayle is a natural mountain peak located in Alaili Dadda.",
+                  "category": "natural",
+                  "coords": [
+                        43.015676,
+                        12.449786
+                  ]
+            },
+            {
+                  "name": "Okli ‘Ale",
+                  "text": "Okli ‘Ale is a mountain peak situated in the area of Alaili Dadda.",
+                  "category": "natural",
+                  "coords": [
+                        43.017631,
+                        12.399756
+                  ]
+            },
+            {
+                  "name": "Bâhi",
+                  "text": "Bâhi is a prominent mountain peak in Alaili Dadda.",
+                  "category": "natural",
+                  "coords": [
+                        43.033333,
+                        12.416667
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-OB",
     coords: [43.018, 12.423],
@@ -592,7 +709,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Lieu historique pendant la guerre civile", "Célèbre pour ses peintures rupestres à proximité", "Nœud important pour les sentiers de montagne locaux"],
     }, image: "/poi-images/balho-cities-v2.webp"},
   {
-    id: "khor-angar-cities-v2",
+    id: "khor-angar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boûri San",
+                  "text": "Boûri San ist ein Berggipfel in Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.3293,
+                        12.364328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boûri San",
+                  "text": "A Boûri San egy hegycsúcs Khor Angar területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.3293,
+                        12.364328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boûri San",
+                  "text": "Boûri San este un vârf montan situat în Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.3293,
+                        12.364328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boûri San",
+                  "text": "Boûri San is a mountain peak located in Khor Angar.",
+                  "category": "natural",
+                  "coords": [
+                        43.3293,
+                        12.364328
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-OB",
     coords: [43.345, 12.378],
@@ -640,7 +802,88 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Paradis pour les ornithologues", "À proximité du détroit stratégique de Bab-el-Mandeb", "Prisé pour la pêche sportive"],
     }, image: "/poi-images/khor-angar-cities-v2.webp"},
   {
-    id: "randa-cities-v2",
+    id: "randa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ḏertim",
+                  "text": "Ḏertim ist ein natürlicher Berggipfel in der Nähe von Randa.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.853056
+                  ]
+            },
+            {
+                  "name": "‘Ado Dâba",
+                  "text": "‘Ado Dâba ist ein Berggipfel in der Region von Randa.",
+                  "category": "natural",
+                  "coords": [
+                        42.633611,
+                        11.858333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ḏertim",
+                  "text": "A Ḏertim egy természetes hegycsúcs Randa közelében.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.853056
+                  ]
+            },
+            {
+                  "name": "‘Ado Dâba",
+                  "text": "Az ‘Ado Dâba egy hegycsúcs Randa térségében.",
+                  "category": "natural",
+                  "coords": [
+                        42.633611,
+                        11.858333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ḏertim",
+                  "text": "Ḏertim este un vârf muntos natural situat în apropiere de Randa.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.853056
+                  ]
+            },
+            {
+                  "name": "‘Ado Dâba",
+                  "text": "‘Ado Dâba este un vârf montan din regiunea Randa.",
+                  "category": "natural",
+                  "coords": [
+                        42.633611,
+                        11.858333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ḏertim",
+                  "text": "Ḏertim is a natural mountain peak located near Randa.",
+                  "category": "natural",
+                  "coords": [
+                        42.648333,
+                        11.853056
+                  ]
+            },
+            {
+                  "name": "‘Ado Dâba",
+                  "text": "‘Ado Dâba is a mountain peak situated in the region of Randa.",
+                  "category": "natural",
+                  "coords": [
+                        42.633611,
+                        11.858333
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-TA",
     coords: [42.658, 11.852],
@@ -688,7 +931,124 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Porte d'entrée du parc national de la Forêt du Day", "Culture de fruits et légumes en terrasses", "L'altitude assure des températures fraîches"],
     }, image: "/poi-images/randa-cities-v2.webp"},
   {
-    id: "assamo-cities-v2",
+    id: "assamo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Assamo",
+                  "text": "Fort Assamo ist eine Festung in Assamo.",
+                  "category": "fortress",
+                  "coords": [
+                        42.83925,
+                        10.985424
+                  ]
+            },
+            {
+                  "name": "Golẖol",
+                  "text": "Golẖol ist ein Gipfel in Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.831944,
+                        11.013611
+                  ]
+            },
+            {
+                  "name": "Lammoûdley",
+                  "text": "Lammoûdley ist ein Gipfel in Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.033333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Assamo",
+                  "text": "A(z) Fort Assamo egy erőd Assamo településen.",
+                  "category": "fortress",
+                  "coords": [
+                        42.83925,
+                        10.985424
+                  ]
+            },
+            {
+                  "name": "Golẖol",
+                  "text": "A(z) Golẖol egy hegycsúcs Assamo településen.",
+                  "category": "natural",
+                  "coords": [
+                        42.831944,
+                        11.013611
+                  ]
+            },
+            {
+                  "name": "Lammoûdley",
+                  "text": "A(z) Lammoûdley egy hegycsúcs Assamo településen.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.033333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Assamo",
+                  "text": "Fort Assamo este un fort în Assamo.",
+                  "category": "fortress",
+                  "coords": [
+                        42.83925,
+                        10.985424
+                  ]
+            },
+            {
+                  "name": "Golẖol",
+                  "text": "Golẖol este un vârf în Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.831944,
+                        11.013611
+                  ]
+            },
+            {
+                  "name": "Lammoûdley",
+                  "text": "Lammoûdley este un vârf în Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.033333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Assamo",
+                  "text": "Fort Assamo is a fort located in Assamo.",
+                  "category": "fortress",
+                  "coords": [
+                        42.83925,
+                        10.985424
+                  ]
+            },
+            {
+                  "name": "Golẖol",
+                  "text": "Golẖol is a peak located in Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.831944,
+                        11.013611
+                  ]
+            },
+            {
+                  "name": "Lammoûdley",
+                  "text": "Lammoûdley is a peak located in Assamo.",
+                  "category": "natural",
+                  "coords": [
+                        42.85,
+                        11.033333
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AS",
     coords: [42.835, 11.012],
@@ -736,7 +1096,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Centre pour le commerce frontalier local", "Habitat de nombreuses gazelles et antilopes", "Structures d'habitation traditionnelles"],
     }, image: "/poi-images/assamo-cities-v2.webp"},
   {
-    id: "goubetto-cities-v2",
+    id: "goubetto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nidiq",
+                  "text": "Nidiq ist ein natürlicher Gipfel in Goubetto.",
+                  "category": "natural",
+                  "coords": [
+                        43.026111,
+                        11.416667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nidiq",
+                  "text": "A Nidiq egy természetes hegycsúcs Goubetto területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.026111,
+                        11.416667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nidiq",
+                  "text": "Nidiq este un vârf natural situat în Goubetto.",
+                  "category": "natural",
+                  "coords": [
+                        43.026111,
+                        11.416667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nidiq",
+                  "text": "Nidiq is a natural peak situated in Goubetto.",
+                  "category": "natural",
+                  "coords": [
+                        43.026111,
+                        11.416667
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AS",
     coords: [43.005, 11.418],
@@ -784,7 +1189,304 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Site de carrières importantes", "Fournisseur majeur de matériaux de construction pour la capitale", "Offre de larges vues sur le désert"],
     }, image: "/poi-images/goubetto-cities-v2.webp"},
   {
-    id: "chebelle-cities-v2",
+    id: "chebelle-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koulamâlé",
+                  "text": "Koulamâlé ist ein Berggipfel, der in Chebelle liegt.",
+                  "category": "natural",
+                  "coords": [
+                        42.965278,
+                        11.468611
+                  ]
+            },
+            {
+                  "name": "Boullé",
+                  "text": "Boullé ist ein natürlicher Berggipfel in Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.45
+                  ]
+            },
+            {
+                  "name": "Téouaïle",
+                  "text": "Téouaïle ist ein markanter Berggipfel in Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.466667
+                  ]
+            },
+            {
+                  "name": "Gaski",
+                  "text": "Gaski ist ein Berggipfel in der Landschaft von Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        43.0,
+                        11.45
+                  ]
+            },
+            {
+                  "name": "Gâchan",
+                  "text": "Gâchan ist ein natürlicher Berggipfel in Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.980278,
+                        11.437222
+                  ]
+            },
+            {
+                  "name": "Ḏaoual",
+                  "text": "Ḏaoual ist ein Berggipfel in der Umgebung von Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.979722,
+                        11.480278
+                  ]
+            },
+            {
+                  "name": "Ḏaoualé",
+                  "text": "Ḏaoualé ist ein Berggipfel in der Gegend von Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        43.006667,
+                        11.463611
+                  ]
+            },
+            {
+                  "name": "Ibrîn",
+                  "text": "Ibrîn ist ein markanter Berggipfel in Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.988611,
+                        11.445278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koulamâlé",
+                  "text": "A Koulamâlé egy hegycsúcs, amely Chebelle területén található.",
+                  "category": "natural",
+                  "coords": [
+                        42.965278,
+                        11.468611
+                  ]
+            },
+            {
+                  "name": "Boullé",
+                  "text": "A Boullé egy természetes hegycsúcs Chebelle területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.45
+                  ]
+            },
+            {
+                  "name": "Téouaïle",
+                  "text": "A Téouaïle egy kiemelkedő hegycsúcs Chebelle területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.466667
+                  ]
+            },
+            {
+                  "name": "Gaski",
+                  "text": "A Gaski egy hegycsúcs Chebelle vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        43.0,
+                        11.45
+                  ]
+            },
+            {
+                  "name": "Gâchan",
+                  "text": "A Gâchan egy természetes hegycsúcs Chebelle területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.980278,
+                        11.437222
+                  ]
+            },
+            {
+                  "name": "Ḏaoual",
+                  "text": "A Ḏaoual egy hegycsúcs Chebelle környékén.",
+                  "category": "natural",
+                  "coords": [
+                        42.979722,
+                        11.480278
+                  ]
+            },
+            {
+                  "name": "Ḏaoualé",
+                  "text": "A Ḏaoualé egy hegycsúcs Chebelle térségében.",
+                  "category": "natural",
+                  "coords": [
+                        43.006667,
+                        11.463611
+                  ]
+            },
+            {
+                  "name": "Ibrîn",
+                  "text": "Az Ibrîn egy kiemelkedő hegycsúcs Chebelle területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.988611,
+                        11.445278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koulamâlé",
+                  "text": "Koulamâlé este un vârf muntos situat în Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.965278,
+                        11.468611
+                  ]
+            },
+            {
+                  "name": "Boullé",
+                  "text": "Boullé este un vârf montan natural din Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.45
+                  ]
+            },
+            {
+                  "name": "Téouaïle",
+                  "text": "Téouaïle este un vârf muntos proeminent din Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.466667
+                  ]
+            },
+            {
+                  "name": "Gaski",
+                  "text": "Gaski este un vârf montan din peisajul orașului Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        43.0,
+                        11.45
+                  ]
+            },
+            {
+                  "name": "Gâchan",
+                  "text": "Gâchan este un vârf muntos natural aflat în Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.980278,
+                        11.437222
+                  ]
+            },
+            {
+                  "name": "Ḏaoual",
+                  "text": "Ḏaoual este un vârf montan din împrejurimile orașului Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.979722,
+                        11.480278
+                  ]
+            },
+            {
+                  "name": "Ḏaoualé",
+                  "text": "Ḏaoualé este un vârf montan din regiunea Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        43.006667,
+                        11.463611
+                  ]
+            },
+            {
+                  "name": "Ibrîn",
+                  "text": "Ibrîn este un vârf muntos proeminent din Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.988611,
+                        11.445278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koulamâlé",
+                  "text": "Koulamâlé is a mountain peak located in Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.965278,
+                        11.468611
+                  ]
+            },
+            {
+                  "name": "Boullé",
+                  "text": "Boullé is a natural mountain peak in Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.45
+                  ]
+            },
+            {
+                  "name": "Téouaïle",
+                  "text": "Téouaïle is a prominent mountain peak in Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.966667,
+                        11.466667
+                  ]
+            },
+            {
+                  "name": "Gaski",
+                  "text": "Gaski is a mountain peak situated in the landscape of Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        43.0,
+                        11.45
+                  ]
+            },
+            {
+                  "name": "Gâchan",
+                  "text": "Gâchan is a natural mountain peak located in Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.980278,
+                        11.437222
+                  ]
+            },
+            {
+                  "name": "Ḏaoual",
+                  "text": "Ḏaoual is a mountain peak situated in the vicinity of Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.979722,
+                        11.480278
+                  ]
+            },
+            {
+                  "name": "Ḏaoualé",
+                  "text": "Ḏaoualé is a mountain peak located in the area of Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        43.006667,
+                        11.463611
+                  ]
+            },
+            {
+                  "name": "Ibrîn",
+                  "text": "Ibrîn is a prominent mountain peak in Chebelle.",
+                  "category": "natural",
+                  "coords": [
+                        42.988611,
+                        11.445278
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AR",
     coords: [42.985, 11.458],
@@ -832,7 +1534,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Proche du bassin du Grand Bara", "Centre pour l'élevage de volailles", "Situé sur la route vers le sud"],
     }, image: "/poi-images/chebelle-cities-v2.webp"},
   {
-    id: "sankal-cities-v2",
+    id: "sankal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lebi Yar",
+                  "text": "Lebi Yar ist ein Gipfel in Sankal.",
+                  "category": "natural",
+                  "coords": [
+                        42.329565,
+                        10.993851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lebi Yar",
+                  "text": "A(z) Lebi Yar egy hegycsúcs Sankal településen.",
+                  "category": "natural",
+                  "coords": [
+                        42.329565,
+                        10.993851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lebi Yar",
+                  "text": "Lebi Yar este un vârf în Sankal.",
+                  "category": "natural",
+                  "coords": [
+                        42.329565,
+                        10.993851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lebi Yar",
+                  "text": "Lebi Yar is a peak located in Sankal.",
+                  "category": "natural",
+                  "coords": [
+                        42.329565,
+                        10.993851
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-DI",
     coords: [42.345, 10.985],
@@ -880,7 +1627,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Puits d'eau vital pour les troupeaux", "Au milieu d'une savane plane", "Borde des zones naturelles vierges"],
     }, image: "/poi-images/sankal-cities-v2.webp"},
   {
-    id: "bondara-cities-v2",
+    id: "bondara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sidiẖa Kôma",
+                  "text": "Sidiẖa Kôma ist ein Gipfel in der Region Bondara.",
+                  "category": "natural",
+                  "coords": [
+                        42.157778,
+                        11.216944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sidiẖa Kôma",
+                  "text": "A Sidiẖa Kôma egy hegycsúcs Bondara régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        42.157778,
+                        11.216944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sidiẖa Kôma",
+                  "text": "Sidiẖa Kôma este un vârf montan situat în regiunea Bondara.",
+                  "category": "natural",
+                  "coords": [
+                        42.157778,
+                        11.216944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sidiẖa Kôma",
+                  "text": "Sidiẖa Kôma is a peak located in the region of Bondara.",
+                  "category": "natural",
+                  "coords": [
+                        42.157778,
+                        11.216944
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-DI",
     coords: [42.155, 11.235],
@@ -1024,7 +1816,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Centre de nouveaux projets résidentiels", "Bonne desserte par les transports vers le centre-ville", "Développement d'infrastructures modernes"],
     }, image: "/poi-images/daoudaouya-cities-v2.webp"},
   {
-    id: "doumera-cities-v2",
+    id: "doumera-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gabla",
+                  "text": "Gabla ist ein Berggipfel in Doumera.",
+                  "category": "natural",
+                  "coords": [
+                        43.134631,
+                        12.711255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gabla",
+                  "text": "A Gabla egy hegycsúcs Doumera területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.134631,
+                        12.711255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gabla",
+                  "text": "Gabla este un vârf de munte situat în Doumera.",
+                  "category": "natural",
+                  "coords": [
+                        43.134631,
+                        12.711255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gabla",
+                  "text": "Gabla is a mountain peak found in Doumera.",
+                  "category": "natural",
+                  "coords": [
+                        43.134631,
+                        12.711255
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-OB",
     coords: [43.148, 12.712],
@@ -1120,7 +1957,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Lieu prisé des plongeurs", "Riche en vie marine", "Les méthodes de pêche traditionnelles sont pratiquées"],
     }, image: "/poi-images/godoria-cities-v2.webp"},
   {
-    id: "kouta-bouyya-cities-v2",
+    id: "kouta-bouyya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ali Kôma",
+                  "text": "Ali Koma ist ein Gipfel in Kouta Bouyya.",
+                  "category": "natural",
+                  "coords": [
+                        42.453889,
+                        11.833056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ali Kôma",
+                  "text": "A(z) Ali Koma egy hegycsúcs Kouta Bouyya településen.",
+                  "category": "natural",
+                  "coords": [
+                        42.453889,
+                        11.833056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ali Kôma",
+                  "text": "Ali Koma este un vârf în Kouta Bouyya.",
+                  "category": "natural",
+                  "coords": [
+                        42.453889,
+                        11.833056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ali Koma",
+                  "text": "Ali Koma is a peak located in Kouta Bouyya.",
+                  "category": "natural",
+                  "coords": [
+                        42.453889,
+                        11.833056
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-TA",
     coords: [42.455, 11.825],
@@ -1217,7 +2099,124 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     }
   },
   {
-    id: "sagallou-cities-v2",
+    id: "sagallou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hankatta",
+                  "text": "Hankatta ist ein Berggipfel, der in Sagallou liegt.",
+                  "category": "natural",
+                  "coords": [
+                        42.729167,
+                        11.711667
+                  ]
+            },
+            {
+                  "name": "Garrôni ‘Ale",
+                  "text": "Garrôni ‘Ale ist ein natürlicher Berggipfel in Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.701111,
+                        11.696944
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "‘Asa Kôma ist ein Berggipfel in der Landschaft von Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.709722,
+                        11.685278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hankatta",
+                  "text": "A Hankatta egy hegycsúcs, amely Sagallou területén található.",
+                  "category": "natural",
+                  "coords": [
+                        42.729167,
+                        11.711667
+                  ]
+            },
+            {
+                  "name": "Garrôni ‘Ale",
+                  "text": "A Garrôni ‘Ale egy természetes hegycsúcs Sagallou területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.701111,
+                        11.696944
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "Az ‘Asa Kôma egy hegycsúcs Sagallou vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        42.709722,
+                        11.685278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hankatta",
+                  "text": "Hankatta este un vârf muntos situat în Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.729167,
+                        11.711667
+                  ]
+            },
+            {
+                  "name": "Garrôni ‘Ale",
+                  "text": "Garrôni ‘Ale este un vârf montan natural din Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.701111,
+                        11.696944
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "‘Asa Kôma este un vârf montan din peisajul din Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.709722,
+                        11.685278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hankatta",
+                  "text": "Hankatta is a mountain peak located in Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.729167,
+                        11.711667
+                  ]
+            },
+            {
+                  "name": "Garrôni ‘Ale",
+                  "text": "Garrôni ‘Ale is a natural mountain peak in Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.701111,
+                        11.696944
+                  ]
+            },
+            {
+                  "name": "‘Asa Kôma",
+                  "text": "‘Asa Kôma is a mountain peak situated in the landscape of Sagallou.",
+                  "category": "natural",
+                  "coords": [
+                        42.709722,
+                        11.685278
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-TA",
     coords: [42.725, 11.685],
@@ -1314,7 +2313,52 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Porte d'entrée vers le bassin de Goba'ad", "Lieu de rencontre important pour les bergers", "Réputé pour son hospitalité"],
     }, image: "/poi-images/as-eyla-cities-v2.webp"},
   {
-    id: "beyadde-cities-v2",
+    id: "beyadde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ḏaba‘as",
+                  "text": "Ḏaba‘as ist ein Berggipfel in Beyadde.",
+                  "category": "natural",
+                  "coords": [
+                        42.866667,
+                        11.116667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ḏaba‘as",
+                  "text": "A Ḏaba‘as egy hegycsúcs Beyadde területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.866667,
+                        11.116667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ḏaba‘as",
+                  "text": "Ḏaba‘as este un vârf montan situat în Beyadde.",
+                  "category": "natural",
+                  "coords": [
+                        42.866667,
+                        11.116667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ḏaba‘as",
+                  "text": "Ḏaba‘as is a mountain peak located in Beyadde.",
+                  "category": "natural",
+                  "coords": [
+                        42.866667,
+                        11.116667
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AS",
     coords: [42.855, 11.125],
@@ -1604,7 +2648,124 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     }
   },
   {
-    id: "hanle-cities-v2",
+    id: "hanle-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boûdo Guêra",
+                  "text": "Boûdo Guêra ist ein Berggipfel in Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.06,
+                        11.641667
+                  ]
+            },
+            {
+                  "name": "Ourwali",
+                  "text": "Ourwali ist ein natürlicher Gipfel in Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.066389,
+                        11.642778
+                  ]
+            },
+            {
+                  "name": "H̱âẖayle",
+                  "text": "H̱âẖayle ist ein Gipfel in der Gegend von Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.036944,
+                        11.628333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boûdo Guêra",
+                  "text": "A Boûdo Guêra egy hegycsúcs Hanle területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.06,
+                        11.641667
+                  ]
+            },
+            {
+                  "name": "Ourwali",
+                  "text": "Az Ourwali egy természetes hegycsúcs Hanle területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.066389,
+                        11.642778
+                  ]
+            },
+            {
+                  "name": "H̱âẖayle",
+                  "text": "A H̱âẖayle egy hegycsúcs Hanle környékén.",
+                  "category": "natural",
+                  "coords": [
+                        42.036944,
+                        11.628333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boûdo Guêra",
+                  "text": "Boûdo Guêra este un vârf montan situat în Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.06,
+                        11.641667
+                  ]
+            },
+            {
+                  "name": "Ourwali",
+                  "text": "Ourwali este un vârf natural situat în Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.066389,
+                        11.642778
+                  ]
+            },
+            {
+                  "name": "H̱âẖayle",
+                  "text": "H̱âẖayle este un vârf situat în zona Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.036944,
+                        11.628333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boûdo Guêra",
+                  "text": "Boûdo Guêra is a mountain peak situated in Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.06,
+                        11.641667
+                  ]
+            },
+            {
+                  "name": "Ourwali",
+                  "text": "Ourwali is a natural peak located in Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.066389,
+                        11.642778
+                  ]
+            },
+            {
+                  "name": "H̱âẖayle",
+                  "text": "H̱âẖayle is a peak positioned in the area of Hanle.",
+                  "category": "natural",
+                  "coords": [
+                        42.036944,
+                        11.628333
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-DI",
     coords: [42.055, 11.625],
@@ -1748,7 +2909,88 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Petit établissement", "Environnement aride", "Carrefour régional"],
     }, image: "/poi-images/medeho-cities-v2.webp"},
   {
-    id: "petit-bara-cities-v2",
+    id: "petit-bara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ali Addé",
+                  "text": "Ali Addé ist ein Berggipfel in Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.928682,
+                        11.279601
+                  ]
+            },
+            {
+                  "name": "Ḏiyya‘",
+                  "text": "Ḏiyya‘ ist ein markanter Gipfel in Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.9475,
+                        11.265833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ali Addé",
+                  "text": "Az Ali Addé egy hegycsúcs Petit Bara területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.928682,
+                        11.279601
+                  ]
+            },
+            {
+                  "name": "Ḏiyya‘",
+                  "text": "A Ḏiyya‘ egy kiemelkedő hegycsúcs Petit Bara területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.9475,
+                        11.265833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ali Addé",
+                  "text": "Ali Addé este un vârf montan situat în Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.928682,
+                        11.279601
+                  ]
+            },
+            {
+                  "name": "Ḏiyya‘",
+                  "text": "Ḏiyya‘ este un vârf proeminent situat în Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.9475,
+                        11.265833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ali Addé",
+                  "text": "Ali Addé is a mountain peak located in Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.928682,
+                        11.279601
+                  ]
+            },
+            {
+                  "name": "Ḏiyya‘",
+                  "text": "Ḏiyya‘ is a prominent peak situated in Petit Bara.",
+                  "category": "natural",
+                  "coords": [
+                        42.9475,
+                        11.265833
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AS",
     coords: [42.925, 11.255],
@@ -1845,7 +3087,376 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     }
   },
   {
-    id: "we-a-cities-v2",
+    id: "we-a-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalâloho",
+                  "text": "Kalâloho ist ein Gipfel in We`a.",
+                  "category": "natural",
+                  "coords": [
+                        42.848056,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "‘Ali Faḏên",
+                  "text": "‘Ali Faḏên ist ein Gipfel in We`a.",
+                  "category": "natural",
+                  "coords": [
+                        42.844167,
+                        11.490556
+                  ]
+            },
+            {
+                  "name": "Gaourir",
+                  "text": "Gaourir ist ein Gipfel in We`a.",
+                  "category": "natural",
+                  "coords": [
+                        42.821667,
+                        11.483056
+                  ]
+            },
+            {
+                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
+                  "text": "Drago de la 13è Demi-Brigade de la Légion Étrangère ist eine Touristenattraktion in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.823348,
+                        11.494665
+                  ]
+            },
+            {
+                  "name": "Nostra",
+                  "text": "Nostra ist eine Touristenattraktion in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.822124,
+                        11.495607
+                  ]
+            },
+            {
+                  "name": "UNITE MIDNIMO",
+                  "text": "UNITE MIDNIMO ist eine Touristenattraktion in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.826968,
+                        11.480733
+                  ]
+            },
+            {
+                  "name": "letters",
+                  "text": "letters ist eine Touristenattraktion in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.828923,
+                        11.48269
+                  ]
+            },
+            {
+                  "name": "star",
+                  "text": "star ist eine Touristenattraktion in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825806,
+                        11.484721
+                  ]
+            },
+            {
+                  "name": "LEGIO",
+                  "text": "LEGIO ist eine Touristenattraktion in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825691,
+                        11.492395
+                  ]
+            },
+            {
+                  "name": "FAD",
+                  "text": "FAD ist eine Touristenattraktion in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.824921,
+                        11.488282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalâloho",
+                  "text": "A(z) Kalâloho egy hegycsúcs We`a településen.",
+                  "category": "natural",
+                  "coords": [
+                        42.848056,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "‘Ali Faḏên",
+                  "text": "A(z) ‘Ali Faḏên egy hegycsúcs We`a településen.",
+                  "category": "natural",
+                  "coords": [
+                        42.844167,
+                        11.490556
+                  ]
+            },
+            {
+                  "name": "Gaourir",
+                  "text": "A(z) Gaourir egy hegycsúcs We`a településen.",
+                  "category": "natural",
+                  "coords": [
+                        42.821667,
+                        11.483056
+                  ]
+            },
+            {
+                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
+                  "text": "A(z) Drago de la 13è Demi-Brigade de la Légion Étrangère egy turisztikai látványosság We`a településen.",
+                  "category": "landmark",
+                  "coords": [
+                        42.823348,
+                        11.494665
+                  ]
+            },
+            {
+                  "name": "Nostra",
+                  "text": "A(z) Nostra egy turisztikai látványosság We`a településen.",
+                  "category": "landmark",
+                  "coords": [
+                        42.822124,
+                        11.495607
+                  ]
+            },
+            {
+                  "name": "UNITE MIDNIMO",
+                  "text": "A(z) UNITE MIDNIMO egy turisztikai látványosság We`a településen.",
+                  "category": "landmark",
+                  "coords": [
+                        42.826968,
+                        11.480733
+                  ]
+            },
+            {
+                  "name": "letters",
+                  "text": "A(z) letters egy turisztikai látványosság We`a településen.",
+                  "category": "landmark",
+                  "coords": [
+                        42.828923,
+                        11.48269
+                  ]
+            },
+            {
+                  "name": "star",
+                  "text": "A(z) star egy turisztikai látványosság We`a településen.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825806,
+                        11.484721
+                  ]
+            },
+            {
+                  "name": "LEGIO",
+                  "text": "A(z) LEGIO egy turisztikai látványosság We`a településen.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825691,
+                        11.492395
+                  ]
+            },
+            {
+                  "name": "FAD",
+                  "text": "A(z) FAD egy turisztikai látványosság We`a településen.",
+                  "category": "landmark",
+                  "coords": [
+                        42.824921,
+                        11.488282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalâloho",
+                  "text": "Kalâloho este un vârf în We`a.",
+                  "category": "natural",
+                  "coords": [
+                        42.848056,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "‘Ali Faḏên",
+                  "text": "‘Ali Faḏên este un vârf în We`a.",
+                  "category": "natural",
+                  "coords": [
+                        42.844167,
+                        11.490556
+                  ]
+            },
+            {
+                  "name": "Gaourir",
+                  "text": "Gaourir este un vârf în We`a.",
+                  "category": "natural",
+                  "coords": [
+                        42.821667,
+                        11.483056
+                  ]
+            },
+            {
+                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
+                  "text": "Drago de la 13è Demi-Brigade de la Légion Étrangère este o atracție turistică în We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.823348,
+                        11.494665
+                  ]
+            },
+            {
+                  "name": "Nostra",
+                  "text": "Nostra este o atracție turistică în We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.822124,
+                        11.495607
+                  ]
+            },
+            {
+                  "name": "UNITE MIDNIMO",
+                  "text": "UNITE MIDNIMO este o atracție turistică în We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.826968,
+                        11.480733
+                  ]
+            },
+            {
+                  "name": "letters",
+                  "text": "letters este o atracție turistică în We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.828923,
+                        11.48269
+                  ]
+            },
+            {
+                  "name": "star",
+                  "text": "star este o atracție turistică în We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825806,
+                        11.484721
+                  ]
+            },
+            {
+                  "name": "LEGIO",
+                  "text": "LEGIO este o atracție turistică în We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825691,
+                        11.492395
+                  ]
+            },
+            {
+                  "name": "FAD",
+                  "text": "FAD este o atracție turistică în We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.824921,
+                        11.488282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalâloho",
+                  "text": "Kalâloho is a peak located in We`a.",
+                  "category": "natural",
+                  "coords": [
+                        42.848056,
+                        11.476111
+                  ]
+            },
+            {
+                  "name": "‘Ali Faḏên",
+                  "text": "‘Ali Faḏên is a peak located in We`a.",
+                  "category": "natural",
+                  "coords": [
+                        42.844167,
+                        11.490556
+                  ]
+            },
+            {
+                  "name": "Gaourir",
+                  "text": "Gaourir is a peak located in We`a.",
+                  "category": "natural",
+                  "coords": [
+                        42.821667,
+                        11.483056
+                  ]
+            },
+            {
+                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
+                  "text": "Drago de la 13è Demi-Brigade de la Légion Étrangère is a tourist attraction located in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.823348,
+                        11.494665
+                  ]
+            },
+            {
+                  "name": "Nostra",
+                  "text": "Nostra is a tourist attraction located in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.822124,
+                        11.495607
+                  ]
+            },
+            {
+                  "name": "UNITE MIDNIMO",
+                  "text": "UNITE MIDNIMO is a tourist attraction located in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.826968,
+                        11.480733
+                  ]
+            },
+            {
+                  "name": "letters",
+                  "text": "letters is a tourist attraction located in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.828923,
+                        11.48269
+                  ]
+            },
+            {
+                  "name": "star",
+                  "text": "star is a tourist attraction located in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825806,
+                        11.484721
+                  ]
+            },
+            {
+                  "name": "LEGIO",
+                  "text": "LEGIO is a tourist attraction located in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.825691,
+                        11.492395
+                  ]
+            },
+            {
+                  "name": "FAD",
+                  "text": "FAD is a tourist attraction located in We`a.",
+                  "category": "landmark",
+                  "coords": [
+                        42.824921,
+                        11.488282
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AR",
     coords: [42.845, 11.485],
@@ -2278,7 +3889,124 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Élevage traditionnel", "Terrain désertique aride", "Lieu de rencontre important pour les échanges régionaux"],
     }, image: "/poi-images/galileh-cities-v2.webp"},
   {
-    id: "negad-cities-v2",
+    id: "negad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "العمليات الجوية",
+                  "text": "Air Ops ist eine lokale Attraktion in der Stadt Negad.",
+                  "category": "landmark",
+                  "coords": [
+                        43.148235,
+                        11.543866
+                  ]
+            },
+            {
+                  "name": "Air Djibouti",
+                  "text": "Air Djibouti ist ein Denkmal in Negad.",
+                  "category": "historical",
+                  "coords": [
+                        43.146374,
+                        11.558739
+                  ]
+            },
+            {
+                  "name": "Beechcraft Model 18",
+                  "text": "Die Beechcraft Model 18 ist ein Denkmal in Negad.",
+                  "category": "historical",
+                  "coords": [
+                        43.149993,
+                        11.552931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "العمليات الجوية",
+                  "text": "Az Air Ops egy helyi látványosság Negad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.148235,
+                        11.543866
+                  ]
+            },
+            {
+                  "name": "Air Djibouti",
+                  "text": "Az Air Djibouti egy műemlék Negadban.",
+                  "category": "historical",
+                  "coords": [
+                        43.146374,
+                        11.558739
+                  ]
+            },
+            {
+                  "name": "Beechcraft Model 18",
+                  "text": "A Beechcraft Model 18 egy emlékmű Negad városában.",
+                  "category": "historical",
+                  "coords": [
+                        43.149993,
+                        11.552931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "العمليات الجوية",
+                  "text": "Air Ops este o atracție locală situată în orașul Negad.",
+                  "category": "landmark",
+                  "coords": [
+                        43.148235,
+                        11.543866
+                  ]
+            },
+            {
+                  "name": "Air Djibouti",
+                  "text": "Air Djibouti este un monument situat în Negad.",
+                  "category": "historical",
+                  "coords": [
+                        43.146374,
+                        11.558739
+                  ]
+            },
+            {
+                  "name": "Beechcraft Model 18",
+                  "text": "Beechcraft Model 18 este un monument situat în Negad.",
+                  "category": "historical",
+                  "coords": [
+                        43.149993,
+                        11.552931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Air Ops",
+                  "text": "Air Ops is a local attraction situated in the city of Negad.",
+                  "category": "landmark",
+                  "coords": [
+                        43.148235,
+                        11.543866
+                  ]
+            },
+            {
+                  "name": "Air Djibouti",
+                  "text": "Air Djibouti is a monument located in Negad.",
+                  "category": "historical",
+                  "coords": [
+                        43.146374,
+                        11.558739
+                  ]
+            },
+            {
+                  "name": "Beechcraft Model 18",
+                  "text": "Beechcraft Model 18 is an aviation-themed monument located in Negad.",
+                  "category": "historical",
+                  "coords": [
+                        43.149993,
+                        11.552931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AR",
     coords: [43.145, 11.535],
@@ -2326,7 +4054,124 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       fr: ["Siège de la gare de marchandises principale", "Centre pour le transport routier (poids lourds)", "À proximité de la zone franche"],
     }, image: "/poi-images/negad-cities-v2.webp"},
   {
-    id: "chabelley-cities-v2",
+    id: "chabelley-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goumbourta Déïdéï",
+                  "text": "Goumbourta Déïdéï ist ein Gipfel in Chabelley.",
+                  "category": "natural",
+                  "coords": [
+                        43.081389,
+                        11.403333
+                  ]
+            },
+            {
+                  "name": "Hadle-Médou",
+                  "text": "Hadle-Médou ist ein Berggipfel in Chabelley.",
+                  "category": "natural",
+                  "coords": [
+                        43.083333,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Qorroto ‘As Madou",
+                  "text": "Qorroto ‘As Madou ist ein natürlicher Gipfel in Chabelley.",
+                  "category": "natural",
+                  "coords": [
+                        43.082222,
+                        11.436944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goumbourta Déïdéï",
+                  "text": "A Goumbourta Déïdéï egy hegycsúcs Chabelley területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.081389,
+                        11.403333
+                  ]
+            },
+            {
+                  "name": "Hadle-Médou",
+                  "text": "A Hadle-Médou egy hegycsúcs Chabelley területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.083333,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Qorroto ‘As Madou",
+                  "text": "A Qorroto ‘As Madou egy természetes hegycsúcs Chabelley területén.",
+                  "category": "natural",
+                  "coords": [
+                        43.082222,
+                        11.436944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goumbourta Déïdéï",
+                  "text": "Goumbourta Déïdéï este un vârf montan situat în Chabelley.",
+                  "category": "natural",
+                  "coords": [
+                        43.081389,
+                        11.403333
+                  ]
+            },
+            {
+                  "name": "Hadle-Médou",
+                  "text": "Hadle-Médou este un vârf montan situat în Chabelley.",
+                  "category": "natural",
+                  "coords": [
+                        43.083333,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Qorroto ‘As Madou",
+                  "text": "Qorroto ‘As Madou este un vârf natural situat în Chabelley.",
+                  "category": "natural",
+                  "coords": [
+                        43.082222,
+                        11.436944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goumbourta Déïdéï",
+                  "text": "Goumbourta Déïdéï is a peak found in Chabelley.",
+                  "category": "natural",
+                  "coords": [
+                        43.081389,
+                        11.403333
+                  ]
+            },
+            {
+                  "name": "Hadle-Médou",
+                  "text": "Hadle-Médou is a mountain peak located in Chabelley.",
+                  "category": "natural",
+                  "coords": [
+                        43.083333,
+                        11.433333
+                  ]
+            },
+            {
+                  "name": "Qorroto ‘As Madou",
+                  "text": "Qorroto ‘As Madou is a natural peak situated in Chabelley.",
+                  "category": "natural",
+                  "coords": [
+                        43.082222,
+                        11.436944
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DJ-AR",
     coords: [43.085, 11.425],

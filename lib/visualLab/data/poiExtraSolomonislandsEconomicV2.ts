@@ -273,7 +273,52 @@ export const solomonislandsEconomicV2: POI[] = [
     image: "/poi-images/solomonislands-ringgi-timber-economic-v2.webp",
   },
   {
-    id: "solomonislands-auki-market-economic-v2",
+    id: "solomonislands-auki-market-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reba Cabe",
+                  "text": "Reba Cabe ist eine Attraktion am Marktplatz von Auki.",
+                  "category": "landmark",
+                  "coords": [
+                        160.705998,
+                        -8.750995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reba Cabe",
+                  "text": "A Reba Cabe egy látványosság a Marktplatz von Auki területén.",
+                  "category": "landmark",
+                  "coords": [
+                        160.705998,
+                        -8.750995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reba Cabe",
+                  "text": "Reba Cabe este o atracție turistică situată în Marktplatz von Auki.",
+                  "category": "landmark",
+                  "coords": [
+                        160.705998,
+                        -8.750995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reba Cabe",
+                  "text": "Reba Cabe is an attraction located in Marktplatz von Auki.",
+                  "category": "landmark",
+                  "coords": [
+                        160.705998,
+                        -8.750995
+                  ]
+            }
+      ]
+},
     parent: "SB",
     type: "town",
     name: { de: "Marktplatz von Auki", hu: "Auki piaci központ", ro: "Piața din Auki", en: "Auki Market Center" },
@@ -498,7 +543,52 @@ export const solomonislandsEconomicV2: POI[] = [
     image: "/poi-images/solomonislands-kirakira-trade-economic-v2.webp",
   },
   {
-    id: "solomonislands-lata-export-economic-v2",
+    id: "solomonislands-lata-export-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Graciosa Bay (Nabakaenga)",
+                  "text": "Graciosa Bay (Nabakaenga) ist eine Bucht in Exportpunkt Lata.",
+                  "category": "landmark",
+                  "coords": [
+                        165.815258,
+                        -10.736741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Graciosa Bay (Nabakaenga)",
+                  "text": "A Graciosa Bay (Nabakaenga) egy öböl Exportpunkt Lata területén.",
+                  "category": "landmark",
+                  "coords": [
+                        165.815258,
+                        -10.736741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Graciosa Bay (Nabakaenga)",
+                  "text": "Graciosa Bay (Nabakaenga) este un golf situat în Exportpunkt Lata.",
+                  "category": "landmark",
+                  "coords": [
+                        165.815258,
+                        -10.736741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Graciosa Bay (Nabakaenga)",
+                  "text": "Graciosa Bay (Nabakaenga) is a bay located in Exportpunkt Lata.",
+                  "category": "landmark",
+                  "coords": [
+                        165.815258,
+                        -10.736741
+                  ]
+            }
+      ]
+},
     parent: "SB",
     type: "town",
     name: { de: "Exportpunkt Lata", hu: "Lata exportpont", ro: "Punctul de export Lata", en: "Lata Export Point" },

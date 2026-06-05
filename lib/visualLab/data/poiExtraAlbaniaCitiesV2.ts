@@ -95,7 +95,196 @@ imageHint: "Kamëz city center and boulevard",
     },
     image: "/poi-images/albania-kamez-cities-v2.webp",
 },  {
-    id: "albania-lushnje-cities-v2",
+    id: "albania-lushnje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shtepia e Kongresit të Lushnjës",
+                  "text": "Ein Museum in Lushnjë, das an den Kongress von Lushnjë von 1920 erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        19.70806,
+                        40.941468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "Ein Museum in Lushnjë.",
+                  "category": "museum",
+                  "coords": [
+                        19.706615,
+                        40.941302
+                  ]
+            },
+            {
+                  "name": "Kinoteatri \"Vace Zela\"",
+                  "text": "Ein Theater in Lushnjë.",
+                  "category": "cultural",
+                  "coords": [
+                        19.705791,
+                        40.943469
+                  ]
+            },
+            {
+                  "name": "Statuja e Lirise \"Toka Jone\"",
+                  "text": "Ein Denkmal in Lushnjë.",
+                  "category": "historical",
+                  "coords": [
+                        19.706107,
+                        40.942284
+                  ]
+            },
+            {
+                  "name": "Ura Ne Prroin e Lungës",
+                  "text": "Eine Brücke in Lushnjë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.717176,
+                        40.922137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shtepia e Kongresit të Lushnjës",
+                  "text": "Múzeum Lushnjë városában, amely az 1920-as Lushnjë-i Kongresszusnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        19.70806,
+                        40.941468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "Múzeum Lushnjë városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.706615,
+                        40.941302
+                  ]
+            },
+            {
+                  "name": "Kinoteatri \"Vace Zela\"",
+                  "text": "Színház Lushnjë városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.705791,
+                        40.943469
+                  ]
+            },
+            {
+                  "name": "Statuja e Lirise \"Toka Jone\"",
+                  "text": "Emlékmű Lushnjë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.706107,
+                        40.942284
+                  ]
+            },
+            {
+                  "name": "Ura Ne Prroin e Lungës",
+                  "text": "Híd Lushnjë városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.717176,
+                        40.922137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shtepia e Kongresit të Lushnjës",
+                  "text": "Un muzeu în Lushnjë, care comemorează Congresul de la Lushnjë din 1920.",
+                  "category": "museum",
+                  "coords": [
+                        19.70806,
+                        40.941468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "Un muzeu în Lushnjë.",
+                  "category": "museum",
+                  "coords": [
+                        19.706615,
+                        40.941302
+                  ]
+            },
+            {
+                  "name": "Kinoteatri \"Vace Zela\"",
+                  "text": "Un teatru în Lushnjë.",
+                  "category": "cultural",
+                  "coords": [
+                        19.705791,
+                        40.943469
+                  ]
+            },
+            {
+                  "name": "Statuja e Lirise \"Toka Jone\"",
+                  "text": "Un monument în Lushnjë.",
+                  "category": "historical",
+                  "coords": [
+                        19.706107,
+                        40.942284
+                  ]
+            },
+            {
+                  "name": "Ura Ne Prroin e Lungës",
+                  "text": "Un pod în Lushnjë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.717176,
+                        40.922137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shtepia e Kongresit të Lushnjës",
+                  "text": "A museum in Lushnjë, commemorating the 1920 Congress of Lushnjë.",
+                  "category": "museum",
+                  "coords": [
+                        19.70806,
+                        40.941468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "A museum in Lushnjë.",
+                  "category": "museum",
+                  "coords": [
+                        19.706615,
+                        40.941302
+                  ]
+            },
+            {
+                  "name": "Theatre \"Vace Zela\"",
+                  "text": "A theatre in Lushnjë.",
+                  "category": "cultural",
+                  "coords": [
+                        19.705791,
+                        40.943469
+                  ]
+            },
+            {
+                  "name": "Statuja e Lirise \"Toka Jone\"",
+                  "text": "A monument in Lushnjë.",
+                  "category": "historical",
+                  "coords": [
+                        19.706107,
+                        40.942284
+                  ]
+            },
+            {
+                  "name": "Ura Ne Prroin e Lungës",
+                  "text": "A bridge in Lushnjë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.717176,
+                        40.922137
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Lushnjë", hu: "Lushnjë", ro: "Lushnjë", en: "Lushnjë"},
@@ -141,7 +330,196 @@ imageHint: "Lushnjë city center and memorial",
     },
     image: "/poi-images/albania-lushnje-cities-v2.webp",
 },  {
-    id: "albania-pogradec-cities-v2",
+    id: "albania-pogradec-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Pogradecit",
+                  "text": "Die Burg Pogradec ist eine archäologische Stätte und Burgruine über der Stadt Pogradec.",
+                  "category": "historical",
+                  "coords": [
+                        20.646132,
+                        40.908181
+                  ]
+            },
+            {
+                  "name": "Muzeu i Pogradecit",
+                  "text": "Das Museum von Pogradec ist eine kulturelle Einrichtung in der Stadt Pogradec.",
+                  "category": "museum",
+                  "coords": [
+                        20.660477,
+                        40.900658
+                  ]
+            },
+            {
+                  "name": "Teatri i Kukullave \"Pirro Xëci\"",
+                  "text": "Das Teatri i Kukullave „Pirro Xëci“ ist ein Theater in Pogradec.",
+                  "category": "cultural",
+                  "coords": [
+                        20.662162,
+                        40.901289
+                  ]
+            },
+            {
+                  "name": "Muzeu i Dëshmorëve",
+                  "text": "Das Muzeu i Dëshmorëve ist ein Museum in der Stadt Pogradec.",
+                  "category": "museum",
+                  "coords": [
+                        20.665496,
+                        40.897772
+                  ]
+            },
+            {
+                  "name": "Odeon Square",
+                  "text": "Der Odeon Square ist ein Freilufttheaterraum in Pogradec.",
+                  "category": "cultural",
+                  "coords": [
+                        20.65729,
+                        40.903473
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Pogradecit",
+                  "text": "A pogradeci vár egy régészeti lelőhely és romos erőd Pogradec városa felett.",
+                  "category": "historical",
+                  "coords": [
+                        20.646132,
+                        40.908181
+                  ]
+            },
+            {
+                  "name": "Muzeu i Pogradecit",
+                  "text": "A Pogradec Múzeum egy kulturális intézmény Pogradec városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.660477,
+                        40.900658
+                  ]
+            },
+            {
+                  "name": "Teatri i Kukullave \"Pirro Xëci\"",
+                  "text": "A Teatri i Kukullave „Pirro Xëci” egy színház Pogradec városában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.662162,
+                        40.901289
+                  ]
+            },
+            {
+                  "name": "Muzeu i Dëshmorëve",
+                  "text": "A Muzeu i Dëshmorëve egy múzeum Pogradec városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.665496,
+                        40.897772
+                  ]
+            },
+            {
+                  "name": "Odeon Square",
+                  "text": "Az Odeon Square egy szabadtéri színházi tér Pogradec városában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.65729,
+                        40.903473
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Pogradecit",
+                  "text": "Castelul Pogradec este un sit arheologic și o fortăreață ruinată din orașul Pogradec.",
+                  "category": "historical",
+                  "coords": [
+                        20.646132,
+                        40.908181
+                  ]
+            },
+            {
+                  "name": "Muzeu i Pogradecit",
+                  "text": "Muzeul Pogradec este o instituție culturală situată în orașul Pogradec.",
+                  "category": "museum",
+                  "coords": [
+                        20.660477,
+                        40.900658
+                  ]
+            },
+            {
+                  "name": "Teatri i Kukullave \"Pirro Xëci\"",
+                  "text": "Teatri i Kukullave „Pirro Xëci” este un teatru situat în Pogradec.",
+                  "category": "cultural",
+                  "coords": [
+                        20.662162,
+                        40.901289
+                  ]
+            },
+            {
+                  "name": "Muzeu i Dëshmorëve",
+                  "text": "Muzeu i Dëshmorëve este un muzeu localizat în orașul Pogradec.",
+                  "category": "museum",
+                  "coords": [
+                        20.665496,
+                        40.897772
+                  ]
+            },
+            {
+                  "name": "Odeon Square",
+                  "text": "Odeon Square este un spațiu teatral în aer liber din Pogradec.",
+                  "category": "cultural",
+                  "coords": [
+                        20.65729,
+                        40.903473
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pogradec Castle",
+                  "text": "Pogradec Castle is an archaeological site and ruined fortress overlooking the city of Pogradec.",
+                  "category": "historical",
+                  "coords": [
+                        20.646132,
+                        40.908181
+                  ]
+            },
+            {
+                  "name": "Pogradec Museum",
+                  "text": "The Pogradec Museum is a cultural institution situated in the city of Pogradec.",
+                  "category": "museum",
+                  "coords": [
+                        20.660477,
+                        40.900658
+                  ]
+            },
+            {
+                  "name": "Teatri i Kukullave \"Pirro Xëci\"",
+                  "text": "Teatri i Kukullave \"Pirro Xëci\" is a theatre located in Pogradec.",
+                  "category": "cultural",
+                  "coords": [
+                        20.662162,
+                        40.901289
+                  ]
+            },
+            {
+                  "name": "Muzeu i Dëshmorëve",
+                  "text": "Muzeu i Dëshmorëve is a museum located in the city of Pogradec.",
+                  "category": "museum",
+                  "coords": [
+                        20.665496,
+                        40.897772
+                  ]
+            },
+            {
+                  "name": "Odeon Square",
+                  "text": "Odeon Square is an open-air theatre space in Pogradec.",
+                  "category": "cultural",
+                  "coords": [
+                        20.65729,
+                        40.903473
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Pogradec", hu: "Pogradec", ro: "Pogradec", en: "Pogradec"},
@@ -187,7 +565,304 @@ imageHint: "Pogradec lakeside promenade at sunset",
     },
     image: "/poi-images/albania-pogradec-cities-v2.webp",
 },  {
-    id: "albania-kavaje-cities-v2",
+    id: "albania-kavaje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "Kalaja e Zigxhafajt ist eine antike archäologische Stätte in Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Das Ethnographische Museum zeigt das regionale Erbe und die traditionelle Kultur in Kavajë.",
+                  "category": "museum",
+                  "coords": [
+                        19.555658,
+                        41.180369
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Das Lapidar ist eine markante monumentale Struktur in der Stadt Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.571349,
+                        41.195199
+                  ]
+            },
+            {
+                  "name": "Smoke Stack Minaret",
+                  "text": "Das Smoke Stack Minaret ist eine bemerkenswerte visuelle Attraktion in Kavajë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.560022,
+                        41.179623
+                  ]
+            },
+            {
+                  "name": "Indrit Caro",
+                  "text": "Indrit Caro ist ein Gedenkmonument in der Stadt Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.561487,
+                        41.184055
+                  ]
+            },
+            {
+                  "name": "Aleksander Moisiu",
+                  "text": "Dieses Denkmal ehrt Aleksander Moisiu und ist eine Sehenswürdigkeit in Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.560259,
+                        41.185231
+                  ]
+            },
+            {
+                  "name": "Sahati Clock Tower",
+                  "text": "Der Sahati Clock Tower ist ein markantes historisches Denkmal in Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.562603,
+                        41.183862
+                  ]
+            },
+            {
+                  "name": "Banesa e Bajram Xhanit",
+                  "text": "Banesa e Bajram Xhanit ist ein denkmalgeschütztes Gebäude in Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.565425,
+                        41.183453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "A Kalaja e Zigxhafajt egy ősi régészeti lelőhely Kavajë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Az Néprajzi Múzeum Kavajë regionális örökségét és hagyományos kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.555658,
+                        41.180369
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "A Lapidar egy jellegzetes monumentális építmény Kavajë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.571349,
+                        41.195199
+                  ]
+            },
+            {
+                  "name": "Smoke Stack Minaret",
+                  "text": "A Smoke Stack Minaret egy figyelemre méltó vizuális látványosság Kavajë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.560022,
+                        41.179623
+                  ]
+            },
+            {
+                  "name": "Indrit Caro",
+                  "text": "Az Indrit Caro egy emlékmű Kavajë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.561487,
+                        41.184055
+                  ]
+            },
+            {
+                  "name": "Aleksander Moisiu",
+                  "text": "Ez a műemlék Aleksander Moisiu előtt tiszteleg, és egy érdekes pont Kavajë-ban.",
+                  "category": "historical",
+                  "coords": [
+                        19.560259,
+                        41.185231
+                  ]
+            },
+            {
+                  "name": "Sahati Clock Tower",
+                  "text": "A Sahati Óratorony egy kiemelkedő történelmi emlékmű Kavajë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.562603,
+                        41.183862
+                  ]
+            },
+            {
+                  "name": "Banesa e Bajram Xhanit",
+                  "text": "A Banesa e Bajram Xhanit mint műemlék áll Kavajë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.565425,
+                        41.183453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "Kalaja e Zigxhafajt este un sit arheologic antic situat în Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Muzeul Etnografic expune moștenirea regională și cultura tradițională în Kavajë.",
+                  "category": "museum",
+                  "coords": [
+                        19.555658,
+                        41.180369
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar este o structură monumentală distinctivă situată în orașul Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.571349,
+                        41.195199
+                  ]
+            },
+            {
+                  "name": "Smoke Stack Minaret",
+                  "text": "Smoke Stack Minaret este o atracție vizuală notabilă situată în Kavajë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.560022,
+                        41.179623
+                  ]
+            },
+            {
+                  "name": "Indrit Caro",
+                  "text": "Indrit Caro este un monument comemorativ aflat în orașul Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.561487,
+                        41.184055
+                  ]
+            },
+            {
+                  "name": "Aleksander Moisiu",
+                  "text": "Acest monument îl onorează pe Aleksander Moisiu și este un punct de interes în Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.560259,
+                        41.185231
+                  ]
+            },
+            {
+                  "name": "Sahati Clock Tower",
+                  "text": "Sahati Clock Tower este un monument istoric proeminent în Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.562603,
+                        41.183862
+                  ]
+            },
+            {
+                  "name": "Banesa e Bajram Xhanit",
+                  "text": "Banesa e Bajram Xhanit stă ca un monument de patrimoniu în Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.565425,
+                        41.183453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "Kalaja e Zigxhafajt is an ancient archaeological site located in Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "The Ethnographic Museum displays regional heritage and traditional culture in Kavajë.",
+                  "category": "museum",
+                  "coords": [
+                        19.555658,
+                        41.180369
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar is a distinctive monumental structure situated in the city of Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.571349,
+                        41.195199
+                  ]
+            },
+            {
+                  "name": "Smoke Stack Minaret",
+                  "text": "The Smoke Stack Minaret is a notable visual attraction located in Kavajë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.560022,
+                        41.179623
+                  ]
+            },
+            {
+                  "name": "Indrit Caro",
+                  "text": "Indrit Caro is a commemorative monument found within the city of Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.561487,
+                        41.184055
+                  ]
+            },
+            {
+                  "name": "Aleksander Moisiu",
+                  "text": "This monument honors Aleksander Moisiu and is a point of interest in Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.560259,
+                        41.185231
+                  ]
+            },
+            {
+                  "name": "Sahati Clock Tower",
+                  "text": "The Sahati Clock Tower is a prominent historical monument in Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.562603,
+                        41.183862
+                  ]
+            },
+            {
+                  "name": "Banesa e Bajram Xhanit",
+                  "text": "Banesa e Bajram Xhanit stands as a heritage monument within Kavajë.",
+                  "category": "historical",
+                  "coords": [
+                        19.565425,
+                        41.183453
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Kavajë", hu: "Kavajë", ro: "Kavajë", en: "Kavajë"},
@@ -233,7 +908,160 @@ imageHint: "Kavajë clock tower and mosque",
     },
     image: "/poi-images/albania-kavaje-cities-v2.webp",
 },  {
-    id: "albania-lac-cities-v2",
+    id: "albania-lac-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Sebastes (Lac)",
+                  "text": "Eine Burg in Laç.",
+                  "category": "castle",
+                  "coords": [
+                        19.727466,
+                        41.628451
+                  ]
+            },
+            {
+                  "name": "Kryqi i Lacit",
+                  "text": "Eine archäologische Stätte in Laç.",
+                  "category": "historical",
+                  "coords": [
+                        19.733818,
+                        41.629424
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Kok Malçi\"",
+                  "text": "Ein Theater in Laç.",
+                  "category": "cultural",
+                  "coords": [
+                        19.712889,
+                        41.635921
+                  ]
+            },
+            {
+                  "name": "Ish Arqipeshkvia e Durresit",
+                  "text": "Eine Sehenswürdigkeit in Laç.",
+                  "category": "landmark",
+                  "coords": [
+                        19.737445,
+                        41.652939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Sebastes (Lac)",
+                  "text": "Vár Laç városában.",
+                  "category": "castle",
+                  "coords": [
+                        19.727466,
+                        41.628451
+                  ]
+            },
+            {
+                  "name": "Kryqi i Lacit",
+                  "text": "Régészeti lelőhely Laç városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.733818,
+                        41.629424
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Kok Malçi\"",
+                  "text": "Színház Laç városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.712889,
+                        41.635921
+                  ]
+            },
+            {
+                  "name": "Ish Arqipeshkvia e Durresit",
+                  "text": "Látnivaló Laç városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.737445,
+                        41.652939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Sebastes (Lac)",
+                  "text": "Un castel în Laç.",
+                  "category": "castle",
+                  "coords": [
+                        19.727466,
+                        41.628451
+                  ]
+            },
+            {
+                  "name": "Kryqi i Lacit",
+                  "text": "Un sit arheologic în Laç.",
+                  "category": "historical",
+                  "coords": [
+                        19.733818,
+                        41.629424
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Kok Malçi\"",
+                  "text": "Un teatru în Laç.",
+                  "category": "cultural",
+                  "coords": [
+                        19.712889,
+                        41.635921
+                  ]
+            },
+            {
+                  "name": "Ish Arqipeshkvia e Durresit",
+                  "text": "O atracție în Laç.",
+                  "category": "landmark",
+                  "coords": [
+                        19.737445,
+                        41.652939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Sebastes (Lac)",
+                  "text": "A castle in Laç.",
+                  "category": "castle",
+                  "coords": [
+                        19.727466,
+                        41.628451
+                  ]
+            },
+            {
+                  "name": "Kryqi i Lacit",
+                  "text": "An archaeological site in Laç.",
+                  "category": "historical",
+                  "coords": [
+                        19.733818,
+                        41.629424
+                  ]
+            },
+            {
+                  "name": "Palace of Culture",
+                  "text": "A theatre in Laç.",
+                  "category": "cultural",
+                  "coords": [
+                        19.712889,
+                        41.635921
+                  ]
+            },
+            {
+                  "name": "Ish Arqipeshkvia e Durresit",
+                  "text": "An attraction in Laç.",
+                  "category": "landmark",
+                  "coords": [
+                        19.737445,
+                        41.652939
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Laç", hu: "Laç", ro: "Laç", en: "Laç"},
@@ -325,7 +1153,268 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
     },
     image: "/poi-images/albania-lezhe-cities-v2.webp",
 },  {
-    id: "albania-kruje-cities-v2",
+    id: "albania-kruje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeu Kombëtar Etnografik",
+                  "text": "Das Nationale Ethnographische Museum zeigt das traditionelle Leben und die regionale Kultur in Krujë.",
+                  "category": "museum",
+                  "coords": [
+                        19.793723,
+                        41.506696
+                  ]
+            },
+            {
+                  "name": "Kalaja e Irmajt",
+                  "text": "Kalaja e Irmajt ist eine historische Burgbefestigung in Krujë.",
+                  "category": "castle",
+                  "coords": [
+                        19.779151,
+                        41.52795
+                  ]
+            },
+            {
+                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
+                  "text": "Das geschützte Landschaftsgebiet Kraste-Verjon ist ein Naturschutzgebiet mit malerischer Umgebung nahe Krujë.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            },
+            {
+                  "name": "Shpella e Sari Salltikut",
+                  "text": "Die Höhle von Sari Salltiku ist eine lokale Attraktion mit einzigartiger natürlicher Topographie in Krujë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.802136,
+                        41.517444
+                  ]
+            },
+            {
+                  "name": "View Point over City",
+                  "text": "Dieser malerische Aussichtspunkt bietet einen Panoramablick über die Stadt Krujë.",
+                  "category": "natural",
+                  "coords": [
+                        19.799703,
+                        41.518065
+                  ]
+            },
+            {
+                  "name": "Stonebridge",
+                  "text": "Stonebridge ist eine interessante architektonische Attraktion und ein lokales Wahrzeichen in Krujë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.792681,
+                        41.506202
+                  ]
+            },
+            {
+                  "name": "Xhamia e Pazarit",
+                  "text": "Die Basar-Moschee ist ein bemerkenswertes historisches Gotteshaus in Krujë.",
+                  "category": "religious",
+                  "coords": [
+                        19.794561,
+                        41.509665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeu Kombëtar Etnografik",
+                  "text": "A Nemzeti Néprajzi Múzeum a hagyományos életet és a regionális kultúrát mutatja be Krujë-ban.",
+                  "category": "museum",
+                  "coords": [
+                        19.793723,
+                        41.506696
+                  ]
+            },
+            {
+                  "name": "Kalaja e Irmajt",
+                  "text": "A Kalaja e Irmajt egy történelmi erődítmény Krujë városában.",
+                  "category": "castle",
+                  "coords": [
+                        19.779151,
+                        41.52795
+                  ]
+            },
+            {
+                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
+                  "text": "A Kraste-Verjon Védett Tájvédelmi Körzet egy festői környezetet kínáló természetvédelmi terület Krujë közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            },
+            {
+                  "name": "Shpella e Sari Salltikut",
+                  "text": "A Sari Salltiku barlangja egy egyedülálló természeti adottságokkal rendelkező helyi látványosság Krujë városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.802136,
+                        41.517444
+                  ]
+            },
+            {
+                  "name": "View Point over City",
+                  "text": "Ez a festői kilátó panorámás kilátást nyújt Krujë városára.",
+                  "category": "natural",
+                  "coords": [
+                        19.799703,
+                        41.518065
+                  ]
+            },
+            {
+                  "name": "Stonebridge",
+                  "text": "A Stonebridge egy érdekes építészeti látványosság és helyi tájékozódási pont Krujë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.792681,
+                        41.506202
+                  ]
+            },
+            {
+                  "name": "Xhamia e Pazarit",
+                  "text": "A Bazár mecset egy figyelemre méltó történelmi istentiszteleti hely Krujë-ban.",
+                  "category": "religious",
+                  "coords": [
+                        19.794561,
+                        41.509665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeu Kombëtar Etnografik",
+                  "text": "Muzeul Etnografic Național prezintă viața tradițională și cultura regională în Krujë.",
+                  "category": "museum",
+                  "coords": [
+                        19.793723,
+                        41.506696
+                  ]
+            },
+            {
+                  "name": "Kalaja e Irmajt",
+                  "text": "Kalaja e Irmajt este o fortificație tip castel istoric situată în Krujë.",
+                  "category": "castle",
+                  "coords": [
+                        19.779151,
+                        41.52795
+                  ]
+            },
+            {
+                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
+                  "text": "Peisajul Protejat Kraste-Verjon este o rezervație naturală care oferă medii pitorești lângă Krujë.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            },
+            {
+                  "name": "Shpella e Sari Salltikut",
+                  "text": "Peștera lui Sari Salltiku este o atracție locală cu o topografie naturală unică în Krujë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.802136,
+                        41.517444
+                  ]
+            },
+            {
+                  "name": "View Point over City",
+                  "text": "Acest punct de belvedere pitoresc oferă priveliști panoramice asupra orașului Krujë.",
+                  "category": "natural",
+                  "coords": [
+                        19.799703,
+                        41.518065
+                  ]
+            },
+            {
+                  "name": "Stonebridge",
+                  "text": "Stonebridge este o atracție arhitecturală interesantă care servește ca reper local în Krujë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.792681,
+                        41.506202
+                  ]
+            },
+            {
+                  "name": "Xhamia e Pazarit",
+                  "text": "Moscheea Bazarului este un lăcaș de cult istoric notabil situat în Krujë.",
+                  "category": "religious",
+                  "coords": [
+                        19.794561,
+                        41.509665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Ethnographic Museum",
+                  "text": "The National Ethnographic Museum showcases traditional life and regional culture in Krujë.",
+                  "category": "museum",
+                  "coords": [
+                        19.793723,
+                        41.506696
+                  ]
+            },
+            {
+                  "name": "Kalaja e Irmajt",
+                  "text": "Kalaja e Irmajt is a historic castle fortification located in Krujë.",
+                  "category": "castle",
+                  "coords": [
+                        19.779151,
+                        41.52795
+                  ]
+            },
+            {
+                  "name": "Kraste-Verjon Protected Landscape",
+                  "text": "Kraste-Verjon Protected Landscape is a designated nature reserve offering scenic environments near Krujë.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            },
+            {
+                  "name": "Sari Salltiku's Cave",
+                  "text": "Sari Salltiku's Cave is a local attraction featuring unique natural topography in Krujë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.802136,
+                        41.517444
+                  ]
+            },
+            {
+                  "name": "View Point over City",
+                  "text": "This scenic viewpoint offers panoramic vistas over the city of Krujë.",
+                  "category": "natural",
+                  "coords": [
+                        19.799703,
+                        41.518065
+                  ]
+            },
+            {
+                  "name": "Stonebridge",
+                  "text": "Stonebridge is an interesting architectural attraction serving as a local landmark in Krujë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.792681,
+                        41.506202
+                  ]
+            },
+            {
+                  "name": "Bazaar Mosque",
+                  "text": "The Bazaar Mosque is a notable historic place of worship situated in Krujë.",
+                  "category": "religious",
+                  "coords": [
+                        19.794561,
+                        41.509665
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Krujë", hu: "Krujë", ro: "Krujë", en: "Krujë"},
@@ -418,7 +1507,88 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-kucove-cities-v2",
+    id: "albania-kucove-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oil Pump Valley",
+                  "text": "Oil Pump Valley ist eine Touristenattraktion in Kuçovë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.918052,
+                        40.826027
+                  ]
+            },
+            {
+                  "name": "Hl. Nikolaus",
+                  "text": "Kisha e Shën Kollit ist eine lokale Kultstätte in Kuçovë.",
+                  "category": "religious",
+                  "coords": [
+                        19.912853,
+                        40.788085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oil Pump Valley",
+                  "text": "Az Oil Pump Valley egy turisztikai látványosság Kuçovë területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.918052,
+                        40.826027
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Kollit",
+                  "text": "A Kisha e Shën Kollit egy helyi istentiszteleti hely Kuçovë városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.912853,
+                        40.788085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oil Pump Valley",
+                  "text": "Oil Pump Valley este o atracție turistică situată în Kuçovë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.918052,
+                        40.826027
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Kollit",
+                  "text": "Kisha e Shën Kollit este un lăcaș de cult localizat în Kuçovë.",
+                  "category": "religious",
+                  "coords": [
+                        19.912853,
+                        40.788085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oil Pump Valley",
+                  "text": "Oil Pump Valley is a tourist attraction located in Kuçovë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.918052,
+                        40.826027
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Kollit",
+                  "text": "Kisha e Shën Kollit is a local place of worship situated in Kuçovë.",
+                  "category": "religious",
+                  "coords": [
+                        19.912853,
+                        40.788085
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Kuçovë", hu: "Kuçovë", ro: "Kuçovë", en: "Kuçovë"},
@@ -512,7 +1682,88 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-peshkopi-cities-v2",
+    id: "albania-peshkopi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gradishta e Peshkopisë",
+                  "text": "Eine archäologische Stätte in Peshkopi.",
+                  "category": "historical",
+                  "coords": [
+                        20.449193,
+                        41.683367
+                  ]
+            },
+            {
+                  "name": "Muzeu i Dibrës",
+                  "text": "Ein Museum in Peshkopi.",
+                  "category": "museum",
+                  "coords": [
+                        20.428933,
+                        41.685663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradishta e Peshkopisë",
+                  "text": "Régészeti lelőhely Peshkopi városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.449193,
+                        41.683367
+                  ]
+            },
+            {
+                  "name": "Muzeu i Dibrës",
+                  "text": "Múzeum Peshkopi városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.428933,
+                        41.685663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradishta e Peshkopisë",
+                  "text": "Un sit arheologic în Peshkopi.",
+                  "category": "historical",
+                  "coords": [
+                        20.449193,
+                        41.683367
+                  ]
+            },
+            {
+                  "name": "Muzeu i Dibrës",
+                  "text": "Un muzeu în Peshkopi.",
+                  "category": "museum",
+                  "coords": [
+                        20.428933,
+                        41.685663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradishta e Peshkopisë",
+                  "text": "An archaeological site in Peshkopi.",
+                  "category": "historical",
+                  "coords": [
+                        20.449193,
+                        41.683367
+                  ]
+            },
+            {
+                  "name": "Dibra Museum",
+                  "text": "A museum in Peshkopi.",
+                  "category": "museum",
+                  "coords": [
+                        20.428933,
+                        41.685663
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Peshkopi", hu: "Peshkopi", ro: "Peshkopi", en: "Peshkopi"},
@@ -559,7 +1810,160 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-burrel-cities-v2",
+    id: "albania-burrel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pallati i Kulturës,Burrel",
+                  "text": "Der Pallati i Kulturës in Burrel dient als Theater und kultureller Veranstaltungsort der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        20.015902,
+                        41.612106
+                  ]
+            },
+            {
+                  "name": "ish-Teatri i kukullave",
+                  "text": "Das ish-Teatri i kukullave ist ein ehemaliges Theatergebäude in Burrel.",
+                  "category": "cultural",
+                  "coords": [
+                        20.01688,
+                        41.609746
+                  ]
+            },
+            {
+                  "name": "King Zog",
+                  "text": "Dieses Denkmal in Burrel ist König Zog I., dem ehemaligen Monarchen von Albanien, gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        20.012548,
+                        41.610582
+                  ]
+            },
+            {
+                  "name": "Skanderbeg",
+                  "text": "Das Skanderbeg-Denkmal ist eine Hommage an den albanischen Nationalhelden in Burrel.",
+                  "category": "historical",
+                  "coords": [
+                        20.013679,
+                        41.610801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pallati i Kulturës,Burrel",
+                  "text": "A burreli Pallati i Kulturës színházként és kulturális helyszínként szolgál a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        20.015902,
+                        41.612106
+                  ]
+            },
+            {
+                  "name": "ish-Teatri i kukullave",
+                  "text": "Az ish-Teatri i kukullave egy egykori színházépület Burrel városában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.01688,
+                        41.609746
+                  ]
+            },
+            {
+                  "name": "King Zog",
+                  "text": "Ez a burreli emlékmű I. Zogu albán királynak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        20.012548,
+                        41.610582
+                  ]
+            },
+            {
+                  "name": "Skanderbeg",
+                  "text": "A Szkander bég emlékmű az albán nemzeti hős előtt tiszteleg Burrel városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.013679,
+                        41.610801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pallati i Kulturës,Burrel",
+                  "text": "Pallati i Kulturës din Burrel servește ca teatru și spațiu cultural pentru oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        20.015902,
+                        41.612106
+                  ]
+            },
+            {
+                  "name": "ish-Teatri i kukullave",
+                  "text": "ish-Teatri i kukullave este o fostă clădire de teatru situată în Burrel.",
+                  "category": "cultural",
+                  "coords": [
+                        20.01688,
+                        41.609746
+                  ]
+            },
+            {
+                  "name": "King Zog",
+                  "text": "Acest monument din Burrel este dedicat Regelui Zog I, fostul monarh al Albaniei.",
+                  "category": "historical",
+                  "coords": [
+                        20.012548,
+                        41.610582
+                  ]
+            },
+            {
+                  "name": "Skanderbeg",
+                  "text": "Monumentul Skanderbeg este un omagiu adus eroului național albanez, situat în Burrel.",
+                  "category": "historical",
+                  "coords": [
+                        20.013679,
+                        41.610801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pallati i Kulturës,Burrel",
+                  "text": "Pallati i Kulturës in Burrel serves as a theatre and cultural venue for the city.",
+                  "category": "cultural",
+                  "coords": [
+                        20.015902,
+                        41.612106
+                  ]
+            },
+            {
+                  "name": "ish-Teatri i kukullave",
+                  "text": "ish-Teatri i kukullave is a former theatre building located in Burrel.",
+                  "category": "cultural",
+                  "coords": [
+                        20.01688,
+                        41.609746
+                  ]
+            },
+            {
+                  "name": "King Zog",
+                  "text": "This monument in Burrel is dedicated to King Zog I, the former monarch of Albania.",
+                  "category": "historical",
+                  "coords": [
+                        20.012548,
+                        41.610582
+                  ]
+            },
+            {
+                  "name": "Skanderbeg",
+                  "text": "The Skanderbeg monument is a tribute to the Albanian national hero, located in Burrel.",
+                  "category": "historical",
+                  "coords": [
+                        20.013679,
+                        41.610801
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Burrel", hu: "Burrel", ro: "Burrel", en: "Burrel"},
@@ -755,6 +2159,33 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.22931,
                         40.488607
                   ]
+            },
+            {
+                  "name": "Kalaja e Skraparit",
+                  "text": "Die Burg Skrapar ist eine historische Burg in der Nähe der Stadt Çorovodë.",
+                  "category": "castle",
+                  "coords": [
+                        20.207101,
+                        40.496468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "Das Muzeu Historik ist ein Museum, das die lokale Geschichte in Çorovodë zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.225908,
+                        40.502654
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar ist ein Denkmal in der Stadt Çorovodë.",
+                  "category": "historical",
+                  "coords": [
+                        20.208815,
+                        40.526809
+                  ]
             }
       ],
       "hu": [
@@ -810,6 +2241,33 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.22931,
                         40.488607
+                  ]
+            },
+            {
+                  "name": "Kalaja e Skraparit",
+                  "text": "A Skrapar vár egy történelmi erődítmény Çorovodë városa közelében.",
+                  "category": "castle",
+                  "coords": [
+                        20.207101,
+                        40.496468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "A Muzeu Historik egy helytörténeti múzeum Çorovodë városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.225908,
+                        40.502654
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "A Lapidar egy emlékmű Çorovodë városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.208815,
+                        40.526809
                   ]
             }
       ],
@@ -867,6 +2325,33 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.22931,
                         40.488607
                   ]
+            },
+            {
+                  "name": "Kalaja e Skraparit",
+                  "text": "Castelul Skrapar este o fortăreață istorică situată în apropiere de orașul Çorovodë.",
+                  "category": "castle",
+                  "coords": [
+                        20.207101,
+                        40.496468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "Muzeu Historik este un muzeu care prezintă istoria locală din Çorovodë.",
+                  "category": "museum",
+                  "coords": [
+                        20.225908,
+                        40.502654
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar este un monument situat în orașul Çorovodë.",
+                  "category": "historical",
+                  "coords": [
+                        20.208815,
+                        40.526809
+                  ]
             }
       ],
       "en": [
@@ -923,6 +2408,33 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.22931,
                         40.488607
                   ]
+            },
+            {
+                  "name": "Skrapar Castle",
+                  "text": "Skrapar Castle is a historic castle situated near the town of Çorovodë.",
+                  "category": "castle",
+                  "coords": [
+                        20.207101,
+                        40.496468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "Muzeu Historik is a museum showcasing local history in Çorovodë.",
+                  "category": "museum",
+                  "coords": [
+                        20.225908,
+                        40.502654
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar is a monumental structure located in the city of Çorovodë.",
+                  "category": "historical",
+                  "coords": [
+                        20.208815,
+                        40.526809
+                  ]
             }
       ]
 },
@@ -972,7 +2484,52 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-librazhd-cities-v2",
+    id: "albania-librazhd-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Kuturman\"",
+                  "text": "Das verwaltete Naturschutzgebiet Kuturman schützt die lokale Biodiversität und die Ökosysteme in Librazhd.",
+                  "category": "natural",
+                  "coords": [
+                        20.256185,
+                        41.213561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Kuturman\"",
+                  "text": "A Kuturman Kezelt Természetvédelmi Terület a helyi biológiai sokféleséget és ökoszisztémákat védi Librazhd-ban.",
+                  "category": "natural",
+                  "coords": [
+                        20.256185,
+                        41.213561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Kuturman\"",
+                  "text": "Rezervația Naturală Administrată Kuturman protejează biodiversitatea și ecosistemele locale din Librazhd.",
+                  "category": "natural",
+                  "coords": [
+                        20.256185,
+                        41.213561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Kuturman\"",
+                  "text": "The Kuturman Managed Nature Reserve protects local biodiversity and ecosystems in Librazhd.",
+                  "category": "natural",
+                  "coords": [
+                        20.256185,
+                        41.213561
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Librazhd", hu: "Librazhd", ro: "Librazhd", en: "Librazhd"},
@@ -1066,7 +2623,88 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-gramsh-cities-v2",
+    id: "albania-gramsh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ura e Çoniksave",
+                  "text": "Ura e Çoniksave ist ein malerischer Aussichtspunkt in Gramsh.",
+                  "category": "natural",
+                  "coords": [
+                        20.184269,
+                        40.867413
+                  ]
+            },
+            {
+                  "name": "Klubi Bashkimi 29 Korrik 1909",
+                  "text": "Klubi Bashkimi 29 Korrik 1909 ist ein historisches Denkmal in Gramsh.",
+                  "category": "historical",
+                  "coords": [
+                        20.183533,
+                        40.869076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ura e Çoniksave",
+                  "text": "Az Ura e Çoniksave egy festői kilátópont Gramsh városában.",
+                  "category": "natural",
+                  "coords": [
+                        20.184269,
+                        40.867413
+                  ]
+            },
+            {
+                  "name": "Klubi Bashkimi 29 Korrik 1909",
+                  "text": "A Klubi Bashkimi 29 Korrik 1909 egy történelmi emlékmű Gramsh városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.183533,
+                        40.869076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ura e Çoniksave",
+                  "text": "Ura e Çoniksave este un punct de belvedere pitoresc situat în Gramsh.",
+                  "category": "natural",
+                  "coords": [
+                        20.184269,
+                        40.867413
+                  ]
+            },
+            {
+                  "name": "Klubi Bashkimi 29 Korrik 1909",
+                  "text": "Klubi Bashkimi 29 Korrik 1909 este un monument istoric situat în Gramsh.",
+                  "category": "historical",
+                  "coords": [
+                        20.183533,
+                        40.869076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ura e Çoniksave",
+                  "text": "Ura e Çoniksave is a scenic viewpoint situated in Gramsh.",
+                  "category": "natural",
+                  "coords": [
+                        20.184269,
+                        40.867413
+                  ]
+            },
+            {
+                  "name": "Klubi Bashkimi 29 Korrik 1909",
+                  "text": "Klubi Bashkimi 29 Korrik 1909 is a historical monument located in Gramsh.",
+                  "category": "historical",
+                  "coords": [
+                        20.183533,
+                        40.869076
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Gramsh", hu: "Gramsh", ro: "Gramsh", en: "Gramsh"},
@@ -1113,7 +2751,232 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-permet-cities-v2",
+    id: "albania-permet-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ish Muzeu i Përmetit",
+                  "text": "Das Ish Muzeu i Përmetit ist ein Museum, das die regionale Geschichte von Përmet dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.353165,
+                        40.231531
+                  ]
+            },
+            {
+                  "name": "Kongresi i Përmetit",
+                  "text": "Das Kongresi i Përmetit ist ein Museum zur Bewahrung historischer Ereignisse im Zusammenhang mit der Stadt Përmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.358313,
+                        40.229747
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Kollit",
+                  "text": "Kisha e Shën Kollit ist eine Sehenswürdigkeit und kulturelle Attraktion in der Stadt Përmet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.351574,
+                        40.230829
+                  ]
+            },
+            {
+                  "name": "Lapidari",
+                  "text": "Das Lapidari ist ein bemerkenswertes Gedenkmonument in Përmet.",
+                  "category": "historical",
+                  "coords": [
+                        20.355289,
+                        40.23483
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "Monument Kulture ist ein Denkmal in Përmet.",
+                  "category": "historical",
+                  "coords": [
+                        20.35741,
+                        40.219778
+                  ]
+            },
+            {
+                  "name": "Guri i Qytetit",
+                  "text": "City's Stone ist ein Aussichtspunkt in Përmet.",
+                  "category": "natural",
+                  "coords": [
+                        20.351892,
+                        40.236442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ish Muzeu i Përmetit",
+                  "text": "Az Ish Muzeu i Përmetit a regionális történelmet bemutató múzeumként működik Përmet városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.353165,
+                        40.231531
+                  ]
+            },
+            {
+                  "name": "Kongresi i Përmetit",
+                  "text": "A Kongresi i Përmetit egy múzeum, amely a Përmet városához kapcsolódó történelmi események megőrzésének szentel.",
+                  "category": "museum",
+                  "coords": [
+                        20.358313,
+                        40.229747
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Kollit",
+                  "text": "A Kisha e Shën Kollit egy érdekes pont és kulturális látványosság Përmet városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.351574,
+                        40.230829
+                  ]
+            },
+            {
+                  "name": "Lapidari",
+                  "text": "A Lapidari egy figyelemre méltó emlékmű Përmet városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.355289,
+                        40.23483
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "A Monument Kulture egy műemlék Përmet városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.35741,
+                        40.219778
+                  ]
+            },
+            {
+                  "name": "Guri i Qytetit",
+                  "text": "A City's Stone egy kilátó Përmet városában.",
+                  "category": "natural",
+                  "coords": [
+                        20.351892,
+                        40.236442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ish Muzeu i Përmetit",
+                  "text": "Ish Muzeu i Përmetit funcționează ca un muzeu care prezintă istoria regională din Përmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.353165,
+                        40.231531
+                  ]
+            },
+            {
+                  "name": "Kongresi i Përmetit",
+                  "text": "Kongresi i Përmetit este un muzeu dedicat conservării evenimentelor istorice asociate orașului Përmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.358313,
+                        40.229747
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Kollit",
+                  "text": "Kisha e Shën Kollit este un punct de interes și o atracție culturală în orașul Përmet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.351574,
+                        40.230829
+                  ]
+            },
+            {
+                  "name": "Lapidari",
+                  "text": "Lapidari este un monument comemorativ notabil din Përmet.",
+                  "category": "historical",
+                  "coords": [
+                        20.355289,
+                        40.23483
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "Monument Kulture este un monument situat în Përmet.",
+                  "category": "historical",
+                  "coords": [
+                        20.35741,
+                        40.219778
+                  ]
+            },
+            {
+                  "name": "Guri i Qytetit",
+                  "text": "City's Stone este un punct de belvedere situat în Përmet.",
+                  "category": "natural",
+                  "coords": [
+                        20.351892,
+                        40.236442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ish Muzeu i Përmetit",
+                  "text": "Ish Muzeu i Përmetit operates as a museum chronicling regional history in Përmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.353165,
+                        40.231531
+                  ]
+            },
+            {
+                  "name": "Kongresi i Përmetit",
+                  "text": "Kongresi i Përmetit is a museum dedicated to preserving historical events associated with the city of Përmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.358313,
+                        40.229747
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Kollit",
+                  "text": "Kisha e Shën Kollit is a point of interest and cultural attraction in the city of Përmet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.351574,
+                        40.230829
+                  ]
+            },
+            {
+                  "name": "Lapidari",
+                  "text": "Lapidari stands as a notable commemorative monument in Përmet.",
+                  "category": "historical",
+                  "coords": [
+                        20.355289,
+                        40.23483
+                  ]
+            },
+            {
+                  "name": "Monument Kulture",
+                  "text": "Monument Kulture is a monument located in Përmet.",
+                  "category": "historical",
+                  "coords": [
+                        20.35741,
+                        40.219778
+                  ]
+            },
+            {
+                  "name": "City's Stone",
+                  "text": "City's Stone is a viewpoint located in Përmet.",
+                  "category": "natural",
+                  "coords": [
+                        20.351892,
+                        40.236442
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Përmet", hu: "Përmet", ro: "Përmet", en: "Përmet"},
@@ -1160,7 +3023,88 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-ballsh-cities-v2",
+    id: "albania-ballsh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bazilika e Ballsh-it",
+                  "text": "Eine archäologische Stätte in Ballsh.",
+                  "category": "historical",
+                  "coords": [
+                        19.737537,
+                        40.601002
+                  ]
+            },
+            {
+                  "name": "Rrapi i Ballsh-it",
+                  "text": "Ein Denkmal in Ballsh.",
+                  "category": "historical",
+                  "coords": [
+                        19.735473,
+                        40.600115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bazilika e Ballsh-it",
+                  "text": "Régészeti lelőhely Ballsh városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.737537,
+                        40.601002
+                  ]
+            },
+            {
+                  "name": "Rrapi i Ballsh-it",
+                  "text": "Emlékmű Ballsh városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.735473,
+                        40.600115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bazilika e Ballsh-it",
+                  "text": "Un sit arheologic în Ballsh.",
+                  "category": "historical",
+                  "coords": [
+                        19.737537,
+                        40.601002
+                  ]
+            },
+            {
+                  "name": "Rrapi i Ballsh-it",
+                  "text": "Un monument în Ballsh.",
+                  "category": "historical",
+                  "coords": [
+                        19.735473,
+                        40.600115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bazilika e Ballsh-it",
+                  "text": "An archaeological site in Ballsh.",
+                  "category": "historical",
+                  "coords": [
+                        19.737537,
+                        40.601002
+                  ]
+            },
+            {
+                  "name": "Rrapi i Ballsh-it",
+                  "text": "A monument in Ballsh.",
+                  "category": "historical",
+                  "coords": [
+                        19.735473,
+                        40.600115
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Ballsh", hu: "Ballsh", ro: "Ballsh", en: "Ballsh"},
@@ -1207,7 +3151,88 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-fushe-kruje-cities-v2",
+    id: "albania-fushe-kruje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park Lojrash",
+                  "text": "Park Lojrash ist ein Freizeit-Themenpark in Fushë-Krujë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724194,
+                        41.48352
+                  ]
+            },
+            {
+                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
+                  "text": "Das Landschaftsschutzgebiet Kraste-Verjon ist ein bemerkenswertes Naturschutzgebiet in der Nähe von Fushë-Krujë.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park Lojrash",
+                  "text": "A Park Lojrash egy vidámpark Fushë-Krujë városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724194,
+                        41.48352
+                  ]
+            },
+            {
+                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
+                  "text": "A Kraste-Verjon Védett Tájegység egy jelentős természetvédelmi terület Fushë-Krujë közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park Lojrash",
+                  "text": "Park Lojrash este un parc tematic de distracții situat în Fushë-Krujë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724194,
+                        41.48352
+                  ]
+            },
+            {
+                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
+                  "text": "Peisajul Protejat Kraste-Verjon este o rezervație naturală importantă în apropiere de Fushë-Krujë.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park Lojrash",
+                  "text": "Park Lojrash is an amusement theme park located in Fushë-Krujë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724194,
+                        41.48352
+                  ]
+            },
+            {
+                  "name": "Kraste-Verjon Protected Landscape",
+                  "text": "The Kraste-Verjon Protected Landscape is a notable nature reserve near Fushë-Krujë.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "town",
     name: { de: "Fushë-Krujë", hu: "Fushë-Krujë", ro: "Fushë-Krujë", en: "Fushë-Krujë"},
@@ -1348,7 +3373,52 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-koplik-cities-v2",
+    id: "albania-koplik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bunker",
+                  "text": "Dieser Bunker dient als historisches Denkmal in der Stadt Koplik.",
+                  "category": "historical",
+                  "coords": [
+                        19.445336,
+                        42.221954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bunker",
+                  "text": "Ez a bunker történelmi emlékműként szolgál Koplik városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.445336,
+                        42.221954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bunker",
+                  "text": "Acest buncăr servește drept monument istoric în orașul Koplik.",
+                  "category": "historical",
+                  "coords": [
+                        19.445336,
+                        42.221954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bunker",
+                  "text": "This Bunker serves as a historical monument in the town of Koplik.",
+                  "category": "historical",
+                  "coords": [
+                        19.445336,
+                        42.221954
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Koplik", hu: "Koplik", ro: "Koplik", en: "Koplik"},
@@ -1394,7 +3464,52 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-memaliaj-cities-v2",
+    id: "albania-memaliaj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kinoteatri",
+                  "text": "Kinoteatri ist ein Theater in Memaliaj.",
+                  "category": "cultural",
+                  "coords": [
+                        19.983948,
+                        40.350788
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kinoteatri",
+                  "text": "A Kinoteatri egy színház Memaliaj városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.983948,
+                        40.350788
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kinoteatri",
+                  "text": "Kinoteatri este un teatru situat în Memaliaj.",
+                  "category": "cultural",
+                  "coords": [
+                        19.983948,
+                        40.350788
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kinoteatri",
+                  "text": "Kinoteatri is a theatre located in Memaliaj.",
+                  "category": "cultural",
+                  "coords": [
+                        19.983948,
+                        40.350788
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Memaliaj", hu: "Memaliaj", ro: "Memaliaj", en: "Memaliaj"},
@@ -1441,7 +3556,196 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-erseke-cities-v2",
+    id: "albania-erseke-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Bejkovës",
+                  "text": "Eine Burg in Ersekë.",
+                  "category": "castle",
+                  "coords": [
+                        20.664769,
+                        40.353761
+                  ]
+            },
+            {
+                  "name": "Kalaja e Gradecit në Bejkovë",
+                  "text": "Eine archäologische Stätte in Ersekë.",
+                  "category": "historical",
+                  "coords": [
+                        20.663622,
+                        40.35488
+                  ]
+            },
+            {
+                  "name": "Tumat e Ersekës",
+                  "text": "Eine archäologische Stätte in Ersekë.",
+                  "category": "historical",
+                  "coords": [
+                        20.655167,
+                        40.346183
+                  ]
+            },
+            {
+                  "name": "Muzeu Ersekë",
+                  "text": "Ein Museum in Ersekë.",
+                  "category": "museum",
+                  "coords": [
+                        20.68136,
+                        40.338476
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Ein Denkmal in Ersekë.",
+                  "category": "historical",
+                  "coords": [
+                        20.680337,
+                        40.338796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Bejkovës",
+                  "text": "Vár Ersekë városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.664769,
+                        40.353761
+                  ]
+            },
+            {
+                  "name": "Kalaja e Gradecit në Bejkovë",
+                  "text": "Régészeti lelőhely Ersekë városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.663622,
+                        40.35488
+                  ]
+            },
+            {
+                  "name": "Tumat e Ersekës",
+                  "text": "Régészeti lelőhely Ersekë városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.655167,
+                        40.346183
+                  ]
+            },
+            {
+                  "name": "Muzeu Ersekë",
+                  "text": "Múzeum Ersekë városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.68136,
+                        40.338476
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Emlékmű Ersekë városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.680337,
+                        40.338796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Bejkovës",
+                  "text": "Un castel în Ersekë.",
+                  "category": "castle",
+                  "coords": [
+                        20.664769,
+                        40.353761
+                  ]
+            },
+            {
+                  "name": "Kalaja e Gradecit në Bejkovë",
+                  "text": "Un sit arheologic în Ersekë.",
+                  "category": "historical",
+                  "coords": [
+                        20.663622,
+                        40.35488
+                  ]
+            },
+            {
+                  "name": "Tumat e Ersekës",
+                  "text": "Un sit arheologic în Ersekë.",
+                  "category": "historical",
+                  "coords": [
+                        20.655167,
+                        40.346183
+                  ]
+            },
+            {
+                  "name": "Muzeu Ersekë",
+                  "text": "Un muzeu în Ersekë.",
+                  "category": "museum",
+                  "coords": [
+                        20.68136,
+                        40.338476
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Un monument în Ersekë.",
+                  "category": "historical",
+                  "coords": [
+                        20.680337,
+                        40.338796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Bejkovës",
+                  "text": "A castle in Ersekë.",
+                  "category": "castle",
+                  "coords": [
+                        20.664769,
+                        40.353761
+                  ]
+            },
+            {
+                  "name": "Kalaja e Gradecit në Bejkovë",
+                  "text": "An archaeological site in Ersekë.",
+                  "category": "historical",
+                  "coords": [
+                        20.663622,
+                        40.35488
+                  ]
+            },
+            {
+                  "name": "Tumat e Ersekës",
+                  "text": "An archaeological site in Ersekë.",
+                  "category": "historical",
+                  "coords": [
+                        20.655167,
+                        40.346183
+                  ]
+            },
+            {
+                  "name": "Muzeu Ersekë",
+                  "text": "A museum in Ersekë.",
+                  "category": "museum",
+                  "coords": [
+                        20.68136,
+                        40.338476
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "A monument in Ersekë.",
+                  "category": "historical",
+                  "coords": [
+                        20.680337,
+                        40.338796
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Ersekë", hu: "Ersekë", ro: "Ersekë", en: "Ersekë"},
@@ -1488,7 +3792,88 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-bajram-curri-cities-v2",
+    id: "albania-bajram-curri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeu Historik,Bajram Curri",
+                  "text": "Das Muzeu Historik in Bajram Curri ist ein Museum, das der Geschichte der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.072827,
+                        42.357191
+                  ]
+            },
+            {
+                  "name": "Sheshi Azem Hajdari",
+                  "text": "Sheshi Azem Hajdari ist ein öffentlicher Park in Bajram Curri.",
+                  "category": "park",
+                  "coords": [
+                        20.074491,
+                        42.357152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeu Historik,Bajram Curri",
+                  "text": "A Bajram Curri-i Muzeu Historik a régió történelmének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.072827,
+                        42.357191
+                  ]
+            },
+            {
+                  "name": "Sheshi Azem Hajdari",
+                  "text": "A Sheshi Azem Hajdari egy közpark Bajram Curri városában.",
+                  "category": "park",
+                  "coords": [
+                        20.074491,
+                        42.357152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeu Historik,Bajram Curri",
+                  "text": "Muzeu Historik din Bajram Curri este un muzeu dedicat istoriei regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        20.072827,
+                        42.357191
+                  ]
+            },
+            {
+                  "name": "Sheshi Azem Hajdari",
+                  "text": "Sheshi Azem Hajdari este un parc public situat în Bajram Curri.",
+                  "category": "park",
+                  "coords": [
+                        20.074491,
+                        42.357152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeu Historik,Bajram Curri",
+                  "text": "Muzeu Historik in Bajram Curri is a museum dedicated to the region's history.",
+                  "category": "museum",
+                  "coords": [
+                        20.072827,
+                        42.357191
+                  ]
+            },
+            {
+                  "name": "Sheshi Azem Hajdari",
+                  "text": "Sheshi Azem Hajdari is a public park area located in Bajram Curri.",
+                  "category": "park",
+                  "coords": [
+                        20.074491,
+                        42.357152
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Bajram Curri", hu: "Bajram Curri", ro: "Bajram Curri", en: "Bajram Curri"},
@@ -1535,7 +3920,52 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-selenice-cities-v2",
+    id: "albania-selenice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qyteza e Armenit",
+                  "text": "Qyteza e Armenit ist eine archäologische Stätte in Selenicë.",
+                  "category": "historical",
+                  "coords": [
+                        19.607582,
+                        40.540323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qyteza e Armenit",
+                  "text": "A Qyteza e Armenit egy régészeti lelőhely Selenicë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.607582,
+                        40.540323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qyteza e Armenit",
+                  "text": "Qyteza e Armenit este un sit arheologic situat în Selenicë.",
+                  "category": "historical",
+                  "coords": [
+                        19.607582,
+                        40.540323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qyteza e Armenit",
+                  "text": "Qyteza e Armenit is an archaeological site located in Selenicë.",
+                  "category": "historical",
+                  "coords": [
+                        19.607582,
+                        40.540323
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Selenicë", hu: "Selenicë", ro: "Selenicë", en: "Selenicë"},
@@ -1676,7 +4106,88 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-peqin-cities-v2",
+    id: "albania-peqin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Peqinit",
+                  "text": "Kalaja e Peqinit ist eine Burg in Peqin.",
+                  "category": "castle",
+                  "coords": [
+                        19.749763,
+                        41.044846
+                  ]
+            },
+            {
+                  "name": "Sahati i Peqinit",
+                  "text": "Peqin Clock Tower ist ein Denkmal in Peqin.",
+                  "category": "historical",
+                  "coords": [
+                        19.750576,
+                        41.045916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Peqinit",
+                  "text": "A Kalaja e Peqinit egy vár Peqin városában.",
+                  "category": "castle",
+                  "coords": [
+                        19.749763,
+                        41.044846
+                  ]
+            },
+            {
+                  "name": "Sahati i Peqinit",
+                  "text": "A Peqin Clock Tower egy műemlék Peqin városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.750576,
+                        41.045916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Peqinit",
+                  "text": "Kalaja e Peqinit este un castel situat în Peqin.",
+                  "category": "castle",
+                  "coords": [
+                        19.749763,
+                        41.044846
+                  ]
+            },
+            {
+                  "name": "Sahati i Peqinit",
+                  "text": "Peqin Clock Tower este un monument situat în Peqin.",
+                  "category": "historical",
+                  "coords": [
+                        19.750576,
+                        41.045916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Peqinit",
+                  "text": "Kalaja e Peqinit is a castle located in Peqin.",
+                  "category": "castle",
+                  "coords": [
+                        19.749763,
+                        41.044846
+                  ]
+            },
+            {
+                  "name": "Peqin Clock Tower",
+                  "text": "Peqin Clock Tower is a monument located in Peqin.",
+                  "category": "historical",
+                  "coords": [
+                        19.750576,
+                        41.045916
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Peqin", hu: "Peqin", ro: "Peqin", en: "Peqin"},
@@ -1770,7 +4281,124 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-libohove-cities-v2",
+    id: "albania-libohove-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Libohovës",
+                  "text": "Die Burg Libohovë ist eine Festung in der Stadt Libohovë mit einem weiten Blick auf das Tal.",
+                  "category": "castle",
+                  "coords": [
+                        20.265529,
+                        40.031418
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja zeigt historische Ruinen, die in Libohovë erhalten sind.",
+                  "category": "historical",
+                  "coords": [
+                        20.266857,
+                        40.051008
+                  ]
+            },
+            {
+                  "name": "Libohovë Clock Tower",
+                  "text": "Der Uhrturm von Libohovë ist ein markantes Denkmal in der Stadt Libohovë.",
+                  "category": "historical",
+                  "coords": [
+                        20.268697,
+                        40.032782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Libohovës",
+                  "text": "A Libohovë vár egy erődítmény Libohovë városában, ahonnan kilátás nyílik a völgyre.",
+                  "category": "castle",
+                  "coords": [
+                        20.265529,
+                        40.031418
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "A Rrënoja történelmi romokat őriz Libohovë városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.266857,
+                        40.051008
+                  ]
+            },
+            {
+                  "name": "Libohovë Clock Tower",
+                  "text": "A Libohovë óratorony egy kiemelkedő emlékmű Libohovë városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.268697,
+                        40.032782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Libohovës",
+                  "text": "Castelul Libohovë este o fortăreață din orașul Libohovë, cu o vedere panoramică asupra văii.",
+                  "category": "castle",
+                  "coords": [
+                        20.265529,
+                        40.031418
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja prezintă ruine istorice conservate în Libohovë.",
+                  "category": "historical",
+                  "coords": [
+                        20.266857,
+                        40.051008
+                  ]
+            },
+            {
+                  "name": "Libohovë Clock Tower",
+                  "text": "Turnul cu ceas din Libohovë este un monument proeminent din orașul Libohovë.",
+                  "category": "historical",
+                  "coords": [
+                        20.268697,
+                        40.032782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Libohovë Castle",
+                  "text": "Libohovë Castle is an imposing fortress in the city of Libohovë with a commanding view of the valley.",
+                  "category": "castle",
+                  "coords": [
+                        20.265529,
+                        40.031418
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja features historical ruins preserved in Libohovë.",
+                  "category": "historical",
+                  "coords": [
+                        20.266857,
+                        40.051008
+                  ]
+            },
+            {
+                  "name": "Libohovë Clock Tower",
+                  "text": "The Libohovë Clock Tower is a prominent historical monument in the city of Libohovë.",
+                  "category": "historical",
+                  "coords": [
+                        20.268697,
+                        40.032782
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Libohovë", hu: "Libohovë", ro: "Libohovë", en: "Libohovë"},
@@ -1928,6 +4556,60 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.75185,
                         40.085674
                   ]
+            },
+            {
+                  "name": "Kështjella e Himarës",
+                  "text": "Eine historische Burg in Himarë mit Blick auf das Ionische Meer.",
+                  "category": "castle",
+                  "coords": [
+                        19.731672,
+                        40.117779
+                  ]
+            },
+            {
+                  "name": "Plazhi i Livadhit",
+                  "text": "Ein Strand in Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724829,
+                        40.106854
+                  ]
+            },
+            {
+                  "name": "Plazhi i Akuariumit",
+                  "text": "Ein Strand in Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.712141,
+                        40.112925
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Mërisë së Athalit",
+                  "text": "Eine historische Kirche in Himarë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.77169,
+                        40.115423
+                  ]
+            },
+            {
+                  "name": "Shpella e Spilesë",
+                  "text": "Eine Sehenswürdigkeit in Himarë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.747163,
+                        40.100724
+                  ]
+            },
+            {
+                  "name": "Kisha e të gjithë Shenjtorëve",
+                  "text": "Eine historische Kirche in Himarë.",
+                  "category": "religious",
+                  "coords": [
+                        19.733959,
+                        40.117451
+                  ]
             }
       ],
       "hu": [
@@ -1992,6 +4674,60 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.75185,
                         40.085674
+                  ]
+            },
+            {
+                  "name": "Kështjella e Himarës",
+                  "text": "Történelmi vár Himarë városában, kilátással a Jón-tengerre.",
+                  "category": "castle",
+                  "coords": [
+                        19.731672,
+                        40.117779
+                  ]
+            },
+            {
+                  "name": "Plazhi i Livadhit",
+                  "text": "Strand Himarë városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724829,
+                        40.106854
+                  ]
+            },
+            {
+                  "name": "Plazhi i Akuariumit",
+                  "text": "Strand Himarë városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.712141,
+                        40.112925
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Mërisë së Athalit",
+                  "text": "Történelmi templom Himarë városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.77169,
+                        40.115423
+                  ]
+            },
+            {
+                  "name": "Shpella e Spilesë",
+                  "text": "Látnivaló Himarë városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.747163,
+                        40.100724
+                  ]
+            },
+            {
+                  "name": "Kisha e të gjithë Shenjtorëve",
+                  "text": "Történelmi templom Himarë városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.733959,
+                        40.117451
                   ]
             }
       ],
@@ -2058,6 +4794,60 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.75185,
                         40.085674
                   ]
+            },
+            {
+                  "name": "Kështjella e Himarës",
+                  "text": "Un castel istoric în Himarë, cu vedere la Marea Ionică.",
+                  "category": "castle",
+                  "coords": [
+                        19.731672,
+                        40.117779
+                  ]
+            },
+            {
+                  "name": "Plazhi i Livadhit",
+                  "text": "O plajă în Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724829,
+                        40.106854
+                  ]
+            },
+            {
+                  "name": "Plazhi i Akuariumit",
+                  "text": "O plajă în Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.712141,
+                        40.112925
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Mërisë së Athalit",
+                  "text": "O biserică istorică în Himarë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.77169,
+                        40.115423
+                  ]
+            },
+            {
+                  "name": "Shpella e Spilesë",
+                  "text": "O atracție în Himarë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.747163,
+                        40.100724
+                  ]
+            },
+            {
+                  "name": "Kisha e të gjithë Shenjtorëve",
+                  "text": "O biserică istorică în Himarë.",
+                  "category": "religious",
+                  "coords": [
+                        19.733959,
+                        40.117451
+                  ]
             }
       ],
       "en": [
@@ -2123,6 +4913,60 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.75185,
                         40.085674
                   ]
+            },
+            {
+                  "name": "Himarë Castle",
+                  "text": "A historic castle in Himarë, overlooking the Ionian Sea.",
+                  "category": "castle",
+                  "coords": [
+                        19.731672,
+                        40.117779
+                  ]
+            },
+            {
+                  "name": "Plazhi i Livadhit",
+                  "text": "A beach in Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724829,
+                        40.106854
+                  ]
+            },
+            {
+                  "name": "Aquarium Beach",
+                  "text": "A beach in Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.712141,
+                        40.112925
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Mërisë së Athalit",
+                  "text": "A historic church in Himarë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.77169,
+                        40.115423
+                  ]
+            },
+            {
+                  "name": "Cyclop’s Cave",
+                  "text": "An attraction in Himarë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.747163,
+                        40.100724
+                  ]
+            },
+            {
+                  "name": "Church of all Saints",
+                  "text": "A historic church in Himarë.",
+                  "category": "religious",
+                  "coords": [
+                        19.733959,
+                        40.117451
+                  ]
             }
       ]
 },
@@ -2172,7 +5016,160 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-delvine-cities-v2",
+    id: "albania-delvine-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Delvinës",
+                  "text": "Die Burg Delvinë ist eine historische Festung in der Stadt Delvinë.",
+                  "category": "castle",
+                  "coords": [
+                        20.090841,
+                        39.946797
+                  ]
+            },
+            {
+                  "name": "SHPELLA ME PIKTURA",
+                  "text": "Shpella me Piktura ist ein bedeutendes Kulturdenkmal mit alten Höhlenmalereien in der Nähe von Delvinë.",
+                  "category": "historical",
+                  "coords": [
+                        20.11038,
+                        39.925962
+                  ]
+            },
+            {
+                  "name": "Xhamia e Gjin Aleksit",
+                  "text": "Die Gjin-Aleksi-Moschee ist ein ausgewiesenes Kulturdenkmal in der Gegend von Delvinë.",
+                  "category": "historical",
+                  "coords": [
+                        20.076327,
+                        39.951827
+                  ]
+            },
+            {
+                  "name": "KOMPLEKS URBANISTIK ISLAMIK",
+                  "text": "Der Kompleks Urbanistik Islamik ist ein islamisches Architekturdenkmal in Delvinë.",
+                  "category": "historical",
+                  "coords": [
+                        20.091443,
+                        39.944864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Delvinës",
+                  "text": "A delvinëi vár egy történelmi erődítmény Delvinë városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.090841,
+                        39.946797
+                  ]
+            },
+            {
+                  "name": "SHPELLA ME PIKTURA",
+                  "text": "A Shpella me Piktura egy jelentős kulturális műemlék, amely ősi barlangrajzokat rejt Delvinë közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.11038,
+                        39.925962
+                  ]
+            },
+            {
+                  "name": "Xhamia e Gjin Aleksit",
+                  "text": "A Gjin Aleksi-mecset egy kijelölt kulturális műemlék Delvinë térségében.",
+                  "category": "historical",
+                  "coords": [
+                        20.076327,
+                        39.951827
+                  ]
+            },
+            {
+                  "name": "KOMPLEKS URBANISTIK ISLAMIK",
+                  "text": "A Kompleks Urbanistik Islamik egy iszlám építészeti műemlék Delvinë városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.091443,
+                        39.944864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Delvinës",
+                  "text": "Castelul Delvinë este o fortăreață istorică din orașul Delvinë.",
+                  "category": "castle",
+                  "coords": [
+                        20.090841,
+                        39.946797
+                  ]
+            },
+            {
+                  "name": "SHPELLA ME PIKTURA",
+                  "text": "Shpella me Piktura este un monument cultural semnificativ, cu picturi rupestre antice, în apropiere de Delvinë.",
+                  "category": "historical",
+                  "coords": [
+                        20.11038,
+                        39.925962
+                  ]
+            },
+            {
+                  "name": "Xhamia e Gjin Aleksit",
+                  "text": "Moscheea Gjin Aleksi este un monument cultural desemnat, situat în zona Delvinë.",
+                  "category": "historical",
+                  "coords": [
+                        20.076327,
+                        39.951827
+                  ]
+            },
+            {
+                  "name": "KOMPLEKS URBANISTIK ISLAMIK",
+                  "text": "Kompleks Urbanistik Islamik este un monument arhitectural islamic situat în Delvinë.",
+                  "category": "historical",
+                  "coords": [
+                        20.091443,
+                        39.944864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Delvinë Castle",
+                  "text": "Delvinë Castle is a historic fortress protecting the town of Delvinë.",
+                  "category": "castle",
+                  "coords": [
+                        20.090841,
+                        39.946797
+                  ]
+            },
+            {
+                  "name": "SHPELLA ME PIKTURA",
+                  "text": "Shpella me Piktura is a significant cultural monument featuring ancient cave paintings near Delvinë.",
+                  "category": "historical",
+                  "coords": [
+                        20.11038,
+                        39.925962
+                  ]
+            },
+            {
+                  "name": "Xhamia e Gjin Aleksit",
+                  "text": "The Gjin Aleksi Mosque is a designated cultural monument located in the Delvinë area.",
+                  "category": "historical",
+                  "coords": [
+                        20.076327,
+                        39.951827
+                  ]
+            },
+            {
+                  "name": "KOMPLEKS URBANISTIK ISLAMIK",
+                  "text": "The Kompleks Urbanistik Islamik is an Islamic architectural monument situated in Delvinë.",
+                  "category": "historical",
+                  "coords": [
+                        20.091443,
+                        39.944864
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Delvinë", hu: "Delvinë", ro: "Delvinë", en: "Delvinë"},
@@ -2229,6 +5226,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.485262,
                         40.349717
                   ]
+            },
+            {
+                  "name": "National Archeological Park of Orikum",
+                  "text": "National Archeological Park of Orikum ist ein Museum in Orikum.",
+                  "category": "museum",
+                  "coords": [
+                        19.450592,
+                        40.325081
+                  ]
+            },
+            {
+                  "name": "Tuma ne bregun e kishes ne fshatin Tragjas",
+                  "text": "Tuma ne bregun e kishes ne fshatin Tragjas ist eine archäologische Stätte in Orikum.",
+                  "category": "historical",
+                  "coords": [
+                        19.505718,
+                        40.332302
+                  ]
             }
       ],
       "hu": [
@@ -2239,6 +5254,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.485262,
                         40.349717
+                  ]
+            },
+            {
+                  "name": "National Archeological Park of Orikum",
+                  "text": "A National Archeological Park of Orikum egy múzeum Orikum városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.450592,
+                        40.325081
+                  ]
+            },
+            {
+                  "name": "Tuma ne bregun e kishes ne fshatin Tragjas",
+                  "text": "A Tuma ne bregun e kishes ne fshatin Tragjas egy régészeti lelőhely Orikum városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.505718,
+                        40.332302
                   ]
             }
       ],
@@ -2251,6 +5284,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.485262,
                         40.349717
                   ]
+            },
+            {
+                  "name": "National Archeological Park of Orikum",
+                  "text": "National Archeological Park of Orikum este un muzeu situat în Orikum.",
+                  "category": "museum",
+                  "coords": [
+                        19.450592,
+                        40.325081
+                  ]
+            },
+            {
+                  "name": "Tuma ne bregun e kishes ne fshatin Tragjas",
+                  "text": "Tuma ne bregun e kishes ne fshatin Tragjas este un sit arheologic situat în Orikum.",
+                  "category": "historical",
+                  "coords": [
+                        19.505718,
+                        40.332302
+                  ]
             }
       ],
       "en": [
@@ -2261,6 +5312,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.485262,
                         40.349717
+                  ]
+            },
+            {
+                  "name": "National Archeological Park of Orikum",
+                  "text": "National Archeological Park of Orikum is a museum located in Orikum.",
+                  "category": "museum",
+                  "coords": [
+                        19.450592,
+                        40.325081
+                  ]
+            },
+            {
+                  "name": "Tuma ne bregun e kishes ne fshatin Tragjas",
+                  "text": "Tuma ne bregun e kishes ne fshatin Tragjas is an archaeological site located in Orikum.",
+                  "category": "historical",
+                  "coords": [
+                        19.505718,
+                        40.332302
                   ]
             }
       ]
@@ -2311,7 +5380,124 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-polican-cities-v2",
+    id: "albania-polican-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja ne Bregun e Koronit",
+                  "text": "Eine archäologische Stätte in Poliçan.",
+                  "category": "historical",
+                  "coords": [
+                        20.120344,
+                        40.60877
+                  ]
+            },
+            {
+                  "name": "Parku Kombëtar Mali i Tomorrit",
+                  "text": "Ein Nationalpark in der Nähe von Poliçan, bekannt für den Berg Tomorr.",
+                  "category": "natural",
+                  "coords": [
+                        20.179313,
+                        40.661794
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Ein Denkmal in Poliçan.",
+                  "category": "historical",
+                  "coords": [
+                        20.124972,
+                        40.613479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja ne Bregun e Koronit",
+                  "text": "Régészeti lelőhely Poliçan városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.120344,
+                        40.60877
+                  ]
+            },
+            {
+                  "name": "Parku Kombëtar Mali i Tomorrit",
+                  "text": "Nemzeti park Poliçan közelében, amely a Tomorr-hegyről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.179313,
+                        40.661794
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Emlékmű Poliçan városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.124972,
+                        40.613479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja ne Bregun e Koronit",
+                  "text": "Un sit arheologic în Poliçan.",
+                  "category": "historical",
+                  "coords": [
+                        20.120344,
+                        40.60877
+                  ]
+            },
+            {
+                  "name": "Parku Kombëtar Mali i Tomorrit",
+                  "text": "Un parc național în apropiere de Poliçan, cunoscut pentru Muntele Tomorr.",
+                  "category": "natural",
+                  "coords": [
+                        20.179313,
+                        40.661794
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Un monument în Poliçan.",
+                  "category": "historical",
+                  "coords": [
+                        20.124972,
+                        40.613479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja ne Bregun e Koronit",
+                  "text": "An archaeological site in Poliçan.",
+                  "category": "historical",
+                  "coords": [
+                        20.120344,
+                        40.60877
+                  ]
+            },
+            {
+                  "name": "Tomorr Mountain National Park",
+                  "text": "A national park near Poliçan, known for Mount Tomorr.",
+                  "category": "natural",
+                  "coords": [
+                        20.179313,
+                        40.661794
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "A monument in Poliçan.",
+                  "category": "historical",
+                  "coords": [
+                        20.124972,
+                        40.613479
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Poliçan", hu: "Poliçan", ro: "Poliçan", en: "Poliçan"},
@@ -2405,7 +5591,160 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-rubik-cities-v2",
+    id: "albania-rubik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kulla e Rubikut",
+                  "text": "Kulla e Rubikut ist ein Museum in der Stadt Rubik.",
+                  "category": "museum",
+                  "coords": [
+                        19.784732,
+                        41.784187
+                  ]
+            },
+            {
+                  "name": "Guva me Piktograme",
+                  "text": "Guva me Piktograme ist eine archäologische Stätte mit alten Piktogrammen in Rubik.",
+                  "category": "historical",
+                  "coords": [
+                        19.771142,
+                        41.764121
+                  ]
+            },
+            {
+                  "name": "Kalaja Antike e Rubikut",
+                  "text": "Kalaja Antike e Rubikut ist eine alte Burg in der Stadt Rubik.",
+                  "category": "castle",
+                  "coords": [
+                        19.77272,
+                        41.763337
+                  ]
+            },
+            {
+                  "name": "Kisha e Manastirit te Rubikut",
+                  "text": "Die Klosterkirche von Rubik ist eine historische Ruine in der Stadt Rubik.",
+                  "category": "religious",
+                  "coords": [
+                        19.780796,
+                        41.764952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kulla e Rubikut",
+                  "text": "A Kulla e Rubikut egy múzeum Rubik városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.784732,
+                        41.784187
+                  ]
+            },
+            {
+                  "name": "Guva me Piktograme",
+                  "text": "A Guva me Piktograme egy régészeti lelőhely ősi piktogramokkal Rubik területén.",
+                  "category": "historical",
+                  "coords": [
+                        19.771142,
+                        41.764121
+                  ]
+            },
+            {
+                  "name": "Kalaja Antike e Rubikut",
+                  "text": "A Kalaja Antike e Rubikut egy ősi vár Rubik városában.",
+                  "category": "castle",
+                  "coords": [
+                        19.77272,
+                        41.763337
+                  ]
+            },
+            {
+                  "name": "Kisha e Manastirit te Rubikut",
+                  "text": "A rubiki kolostortemplom egy történelmi rom Rubik városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.780796,
+                        41.764952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kulla e Rubikut",
+                  "text": "Kulla e Rubikut este un muzeu situat în orașul Rubik.",
+                  "category": "museum",
+                  "coords": [
+                        19.784732,
+                        41.784187
+                  ]
+            },
+            {
+                  "name": "Guva me Piktograme",
+                  "text": "Guva me Piktograme este un sit arheologic cu pictograme antice în Rubik.",
+                  "category": "historical",
+                  "coords": [
+                        19.771142,
+                        41.764121
+                  ]
+            },
+            {
+                  "name": "Kalaja Antike e Rubikut",
+                  "text": "Kalaja Antike e Rubikut este un castel antic situat în orașul Rubik.",
+                  "category": "castle",
+                  "coords": [
+                        19.77272,
+                        41.763337
+                  ]
+            },
+            {
+                  "name": "Kisha e Manastirit te Rubikut",
+                  "text": "Biserica Mănăstirii Rubik este un lăcaș de cult istoric ruinat în orașul Rubik.",
+                  "category": "religious",
+                  "coords": [
+                        19.780796,
+                        41.764952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kulla e Rubikut",
+                  "text": "Kulla e Rubikut is a museum located in the city of Rubik.",
+                  "category": "museum",
+                  "coords": [
+                        19.784732,
+                        41.784187
+                  ]
+            },
+            {
+                  "name": "Guva me Piktograme",
+                  "text": "Guva me Piktograme is an archaeological site featuring ancient pictograms in Rubik.",
+                  "category": "historical",
+                  "coords": [
+                        19.771142,
+                        41.764121
+                  ]
+            },
+            {
+                  "name": "Kalaja Antike e Rubikut",
+                  "text": "Kalaja Antike e Rubikut is an ancient castle situated in the city of Rubik.",
+                  "category": "castle",
+                  "coords": [
+                        19.77272,
+                        41.763337
+                  ]
+            },
+            {
+                  "name": "Kisha e Manastirit te Rubikut",
+                  "text": "The Rubik Monastery Church is a historic ruined place of worship located in the town of Rubik.",
+                  "category": "religious",
+                  "coords": [
+                        19.780796,
+                        41.764952
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "town",
     name: { de: "Rubik", hu: "Rubik", ro: "Rubik", en: "Rubik"},
@@ -2452,7 +5791,160 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-kelcyre-cities-v2",
+    id: "albania-kelcyre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Këlcyrës",
+                  "text": "Kelcyre Castle ist eine bekannte Burg in Këlcyrë.",
+                  "category": "castle",
+                  "coords": [
+                        20.177093,
+                        40.308471
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja sind Ruinen in Këlcyrë.",
+                  "category": "historical",
+                  "coords": [
+                        20.182021,
+                        40.308572
+                  ]
+            },
+            {
+                  "name": "Uij i Zi",
+                  "text": "Blue Eye ist eine Sehenswürdigkeit in Këlcyrë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.182779,
+                        40.30553
+                  ]
+            },
+            {
+                  "name": "Sarajet",
+                  "text": "Sarajet sind Ruinen in Këlcyrë.",
+                  "category": "historical",
+                  "coords": [
+                        20.183536,
+                        40.308612
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Këlcyrës",
+                  "text": "A Kelcyre Castle egy nevezetes vár Këlcyrë városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.177093,
+                        40.308471
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "A Rrënoja nevű romok Këlcyrë városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        20.182021,
+                        40.308572
+                  ]
+            },
+            {
+                  "name": "Uij i Zi",
+                  "text": "A Blue Eye egy látványosság Këlcyrë városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.182779,
+                        40.30553
+                  ]
+            },
+            {
+                  "name": "Sarajet",
+                  "text": "A Sarajet nevű romok Këlcyrë városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        20.183536,
+                        40.308612
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Këlcyrës",
+                  "text": "Kelcyre Castle este un castel notabil situat în Këlcyrë.",
+                  "category": "castle",
+                  "coords": [
+                        20.177093,
+                        40.308471
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja sunt ruine situate în Këlcyrë.",
+                  "category": "historical",
+                  "coords": [
+                        20.182021,
+                        40.308572
+                  ]
+            },
+            {
+                  "name": "Uij i Zi",
+                  "text": "Blue Eye este o atracție situată în Këlcyrë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.182779,
+                        40.30553
+                  ]
+            },
+            {
+                  "name": "Sarajet",
+                  "text": "Sarajet sunt ruine situate în Këlcyrë.",
+                  "category": "historical",
+                  "coords": [
+                        20.183536,
+                        40.308612
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kelcyre Castle",
+                  "text": "Kelcyre Castle is a notable castle located in Këlcyrë.",
+                  "category": "castle",
+                  "coords": [
+                        20.177093,
+                        40.308471
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja are ruins located in Këlcyrë.",
+                  "category": "historical",
+                  "coords": [
+                        20.182021,
+                        40.308572
+                  ]
+            },
+            {
+                  "name": "Blue Eye",
+                  "text": "Blue Eye is an attraction located in Këlcyrë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.182779,
+                        40.30553
+                  ]
+            },
+            {
+                  "name": "Sarajet",
+                  "text": "Sarajet are ruins located in Këlcyrë.",
+                  "category": "historical",
+                  "coords": [
+                        20.183536,
+                        40.308612
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "town",
     name: { de: "Këlcyrë", hu: "Këlcyrë", ro: "Këlcyrë", en: "Këlcyrë"},
@@ -2546,7 +6038,52 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-prrenjas-cities-v2",
+    id: "albania-prrenjas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ish-Miniera e Hekur-Nikelit, Prrenjas",
+                  "text": "Die ehemalige Eisen-Nickel-Mine von Prrenjas gilt als Industriedenkmal der Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        20.540767,
+                        41.066918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ish-Miniera e Hekur-Nikelit, Prrenjas",
+                  "text": "A prrenjasi egykori vas- és nikkelbánya a terület ipari műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        20.540767,
+                        41.066918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ish-Miniera e Hekur-Nikelit, Prrenjas",
+                  "text": "Fosta mină de fier-nichel din Prrenjas este un monument industrial din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        20.540767,
+                        41.066918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ex-Iron-Nickel Mine of Prrenjas",
+                  "text": "The ex-Iron-Nickel Mine of Prrenjas stands as an industrial monument in the area.",
+                  "category": "historical",
+                  "coords": [
+                        20.540767,
+                        41.066918
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Prrenjas", hu: "Prrenjas", ro: "Prrenjas", en: "Prrenjas"},
@@ -2734,7 +6271,124 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-divjake-cities-v2",
+    id: "albania-divjake-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koleksioni Natyror i Altinit",
+                  "text": "Koleksioni Natyror i Altinit ist ein Museum in Divjakë.",
+                  "category": "museum",
+                  "coords": [
+                        19.531482,
+                        40.99289
+                  ]
+            },
+            {
+                  "name": "Basilica of Saint Michael",
+                  "text": "Basilica of Saint Michael ist eine archäologische Stätte in Divjakë.",
+                  "category": "historical",
+                  "coords": [
+                        19.511999,
+                        40.999976
+                  ]
+            },
+            {
+                  "name": "Lagoon Boat Trips",
+                  "text": "Lagoon Boat Trips ist eine Sehenswürdigkeit in Divjakë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.496446,
+                        40.98983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koleksioni Natyror i Altinit",
+                  "text": "A Koleksioni Natyror i Altinit egy múzeum Divjakë városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.531482,
+                        40.99289
+                  ]
+            },
+            {
+                  "name": "Basilica of Saint Michael",
+                  "text": "A Basilica of Saint Michael egy régészeti lelőhely Divjakë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.511999,
+                        40.999976
+                  ]
+            },
+            {
+                  "name": "Lagoon Boat Trips",
+                  "text": "A Lagoon Boat Trips egy látványosság Divjakë városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.496446,
+                        40.98983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koleksioni Natyror i Altinit",
+                  "text": "Koleksioni Natyror i Altinit este un muzeu situat în Divjakë.",
+                  "category": "museum",
+                  "coords": [
+                        19.531482,
+                        40.99289
+                  ]
+            },
+            {
+                  "name": "Basilica of Saint Michael",
+                  "text": "Basilica of Saint Michael este un sit arheologic situat în Divjakë.",
+                  "category": "historical",
+                  "coords": [
+                        19.511999,
+                        40.999976
+                  ]
+            },
+            {
+                  "name": "Lagoon Boat Trips",
+                  "text": "Lagoon Boat Trips este o atracție situată în Divjakë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.496446,
+                        40.98983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koleksioni Natyror i Altinit",
+                  "text": "Koleksioni Natyror i Altinit is a museum located in Divjakë.",
+                  "category": "museum",
+                  "coords": [
+                        19.531482,
+                        40.99289
+                  ]
+            },
+            {
+                  "name": "Basilica of Saint Michael",
+                  "text": "Basilica of Saint Michael is an archaeological site located in Divjakë.",
+                  "category": "historical",
+                  "coords": [
+                        19.511999,
+                        40.999976
+                  ]
+            },
+            {
+                  "name": "Lagoon Boat Trips",
+                  "text": "Lagoon Boat Trips is an attraction located in Divjakë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.496446,
+                        40.98983
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "town",
     name: { de: "Divjakë", hu: "Divjakë", ro: "Divjakë", en: "Divjakë"},
@@ -2828,7 +6482,160 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-konispol-cities-v2",
+    id: "albania-konispol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vendbanimi Rrënojë i Qafës së Stismave",
+                  "text": "Vendbanimi Rrënojë i Qafës së Stismave ist eine archäologische Stätte mit antiken Ruinen in Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.162202,
+                        39.677078
+                  ]
+            },
+            {
+                  "name": "Arkoudi",
+                  "text": "Arkoudi ist ein Berggipfel in der Nähe von Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.153852,
+                        39.647561
+                  ]
+            },
+            {
+                  "name": "Lykogianni",
+                  "text": "Lykogianni ist ein markanter natürlicher Gipfel in der Region Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.205568,
+                        39.645886
+                  ]
+            },
+            {
+                  "name": "Altes Sagiada",
+                  "text": "Old Sagiada enthält historische Ruinen in der Nähe der Stadt Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.201731,
+                        39.637312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vendbanimi Rrënojë i Qafës së Stismave",
+                  "text": "A Vendbanimi Rrënojë i Qafës së Stismave egy régészeti lelőhely ősi romokkal Konispol területén.",
+                  "category": "historical",
+                  "coords": [
+                        20.162202,
+                        39.677078
+                  ]
+            },
+            {
+                  "name": "Αρκούδι",
+                  "text": "Az Arkoudi egy hegycsúcs Konispol közelében.",
+                  "category": "natural",
+                  "coords": [
+                        20.153852,
+                        39.647561
+                  ]
+            },
+            {
+                  "name": "Λυκόγιαννη",
+                  "text": "A Lykogianni egy figyelemre méltó természetes hegycsúcs Konispol régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        20.205568,
+                        39.645886
+                  ]
+            },
+            {
+                  "name": "Παλιά Σαγιάδα",
+                  "text": "Az Old Sagiada történelmi romokat rejt Konispol városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.201731,
+                        39.637312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vendbanimi Rrënojë i Qafës së Stismave",
+                  "text": "Vendbanimi Rrënojë i Qafës së Stismave este un sit arheologic cu ruine antice în Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.162202,
+                        39.677078
+                  ]
+            },
+            {
+                  "name": "Αρκούδι",
+                  "text": "Arkoudi este un vârf montan situat în apropiere de Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.153852,
+                        39.647561
+                  ]
+            },
+            {
+                  "name": "Λυκόγιαννη",
+                  "text": "Lykogianni este un vârf natural notabil situat în regiunea Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.205568,
+                        39.645886
+                  ]
+            },
+            {
+                  "name": "Παλιά Σαγιάδα",
+                  "text": "Old Sagiada conține ruine istorice accesibile în apropierea orașului Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.201731,
+                        39.637312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vendbanimi Rrënojë i Qafës së Stismave",
+                  "text": "Vendbanimi Rrënojë i Qafës së Stismave is an archaeological site revealing ancient ruins in Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.162202,
+                        39.677078
+                  ]
+            },
+            {
+                  "name": "Arkoudi",
+                  "text": "Arkoudi is a mountain peak situated near Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.153852,
+                        39.647561
+                  ]
+            },
+            {
+                  "name": "Lykogianni",
+                  "text": "Lykogianni is a notable natural peak located in the region of Konispol.",
+                  "category": "natural",
+                  "coords": [
+                        20.205568,
+                        39.645886
+                  ]
+            },
+            {
+                  "name": "Old Sagiada",
+                  "text": "Old Sagiada contains historic ruins accessible near the city of Konispol.",
+                  "category": "historical",
+                  "coords": [
+                        20.201731,
+                        39.637312
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "town",
     name: { de: "Konispol", hu: "Konispol", ro: "Konispol", en: "Konispol"},
@@ -3325,7 +7132,268 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-voskopoje-cities-v2.webp",
   },
   {
-    id: "albania-paskuqan-cities-v2",
+    id: "albania-paskuqan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeu i Forcave të Armatosura",
+                  "text": "Das Museum der albanischen Streitkräfte in Paskuqan präsentiert militärhistorische Ausstellungsstücke.",
+                  "category": "museum",
+                  "coords": [
+                        19.838272,
+                        41.341699
+                  ]
+            },
+            {
+                  "name": "Teatro Zonja e Bytinës",
+                  "text": "Ein lokales Theater in der Stadt Paskuqan.",
+                  "category": "cultural",
+                  "coords": [
+                        19.849349,
+                        41.34615
+                  ]
+            },
+            {
+                  "name": "Teatri i Hapur i Parkut",
+                  "text": "Das Freilichttheater im Park von Paskuqan bietet kulturelle Aufführungen unter freiem Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        19.794087,
+                        41.364189
+                  ]
+            },
+            {
+                  "name": "Tirana Teater",
+                  "text": "Ein Theater in Paskuqan, das Aufführungen für die lokale Gemeinschaft anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        19.847039,
+                        41.346293
+                  ]
+            },
+            {
+                  "name": "Pishina",
+                  "text": "Ein Wasserpark für Freizeit und Erholung in Paskuqan.",
+                  "category": "recreational",
+                  "coords": [
+                        19.831532,
+                        41.351063
+                  ]
+            },
+            {
+                  "name": "Hafiz Ibrahim Dalliu",
+                  "text": "Eine Sehenswürdigkeit in Paskuqan, benannt nach Hafiz Ibrahim Dalliu.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82603,
+                        41.338368
+                  ]
+            },
+            {
+                  "name": "Alter Panzer",
+                  "text": "Ein historischer alter Panzer als Ausstellungsstück in Paskuqan.",
+                  "category": "landmark",
+                  "coords": [
+                        19.814993,
+                        41.339492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeu i Forcave të Armatosura",
+                  "text": "Az albán fegyveres erők múzeuma Paskuqanban katonai történelmi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.838272,
+                        41.341699
+                  ]
+            },
+            {
+                  "name": "Teatro Zonja e Bytinës",
+                  "text": "Egy helyi színház Paskuqan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.849349,
+                        41.34615
+                  ]
+            },
+            {
+                  "name": "Teatri i Hapur i Parkut",
+                  "text": "A paskuqani park szabadtéri színháza nyitott ég alatti kulturális előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        19.794087,
+                        41.364189
+                  ]
+            },
+            {
+                  "name": "Tirana Teater",
+                  "text": "Egy színház Paskuqanban, amely előadásokat kínál a helyi közösségnek.",
+                  "category": "cultural",
+                  "coords": [
+                        19.847039,
+                        41.346293
+                  ]
+            },
+            {
+                  "name": "Pishina",
+                  "text": "Egy vízi park kikapcsolódásra és pihenésre Paskuqanban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.831532,
+                        41.351063
+                  ]
+            },
+            {
+                  "name": "Hafiz Ibrahim Dalliu",
+                  "text": "Látnivaló Paskuqanban, amelyet Hafiz Ibrahim Dalliu-ról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82603,
+                        41.338368
+                  ]
+            },
+            {
+                  "name": "Alter Panzer",
+                  "text": "Egy történelmi régi tank kiállítási tárgyként Paskuqanban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.814993,
+                        41.339492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeu i Forcave të Armatosura",
+                  "text": "Muzeul Forțelor Armate Albaneze din Paskuqan prezintă exponate de istorie militară.",
+                  "category": "museum",
+                  "coords": [
+                        19.838272,
+                        41.341699
+                  ]
+            },
+            {
+                  "name": "Teatro Zonja e Bytinës",
+                  "text": "Un teatru local în orașul Paskuqan.",
+                  "category": "cultural",
+                  "coords": [
+                        19.849349,
+                        41.34615
+                  ]
+            },
+            {
+                  "name": "Teatri i Hapur i Parkut",
+                  "text": "Teatrul în aer liber din parcul Paskuqan oferă spectacole culturale sub cerul liber.",
+                  "category": "cultural",
+                  "coords": [
+                        19.794087,
+                        41.364189
+                  ]
+            },
+            {
+                  "name": "Tirana Teater",
+                  "text": "Un teatru în Paskuqan, care oferă spectacole pentru comunitatea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        19.847039,
+                        41.346293
+                  ]
+            },
+            {
+                  "name": "Pishina",
+                  "text": "Un parc acvatic pentru agrement și relaxare în Paskuqan.",
+                  "category": "recreational",
+                  "coords": [
+                        19.831532,
+                        41.351063
+                  ]
+            },
+            {
+                  "name": "Hafiz Ibrahim Dalliu",
+                  "text": "O atracție în Paskuqan, numită după Hafiz Ibrahim Dalliu.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82603,
+                        41.338368
+                  ]
+            },
+            {
+                  "name": "Alter Panzer",
+                  "text": "Un tanc vechi istoric ca exponat în Paskuqan.",
+                  "category": "landmark",
+                  "coords": [
+                        19.814993,
+                        41.339492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Armed Forces Museum",
+                  "text": "The Museum of the Albanian Armed Forces in Paskuqan displays military historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        19.838272,
+                        41.341699
+                  ]
+            },
+            {
+                  "name": "Teatro Zonja e Bytinës",
+                  "text": "A local theatre in the city of Paskuqan.",
+                  "category": "cultural",
+                  "coords": [
+                        19.849349,
+                        41.34615
+                  ]
+            },
+            {
+                  "name": "Park's Open-Air Theatre",
+                  "text": "The open-air theatre in Paskuqan's park offers cultural performances under the open sky.",
+                  "category": "cultural",
+                  "coords": [
+                        19.794087,
+                        41.364189
+                  ]
+            },
+            {
+                  "name": "Tirana Teater",
+                  "text": "A theatre in Paskuqan offering performances for the local community.",
+                  "category": "cultural",
+                  "coords": [
+                        19.847039,
+                        41.346293
+                  ]
+            },
+            {
+                  "name": "Pishina",
+                  "text": "A water park for leisure and relaxation in Paskuqan.",
+                  "category": "recreational",
+                  "coords": [
+                        19.831532,
+                        41.351063
+                  ]
+            },
+            {
+                  "name": "Hafiz Ibrahim Dalliu",
+                  "text": "An attraction in Paskuqan named after Hafiz Ibrahim Dalliu.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82603,
+                        41.338368
+                  ]
+            },
+            {
+                  "name": "Old tank",
+                  "text": "A historic old tank as an exhibit in Paskuqan.",
+                  "category": "landmark",
+                  "coords": [
+                        19.814993,
+                        41.339492
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Paskuqan", hu: "Paskuqan", ro: "Paskuqan", en: "Paskuqan" },
@@ -3991,7 +8059,124 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-tropoje-cities-v2.webp",
   },
   {
-    id: "albania-maqellare-cities-v2",
+    id: "albania-maqellare-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Grazhdanit",
+                  "text": "Grazhdan Fortress ist eine archäologische Stätte in Maqellarë.",
+                  "category": "historical",
+                  "coords": [
+                        20.466122,
+                        41.605905
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Sotirit - Sveti Spas",
+                  "text": "Kisha e Shën Sotirit - Sveti Spas ist eine anerkannte Kultstätte in Maqellarë.",
+                  "category": "religious",
+                  "coords": [
+                        20.517259,
+                        41.582293
+                  ]
+            },
+            {
+                  "name": "Xhamia e Allajbegise",
+                  "text": "Xhamia e Allajbegise ist eine historische Kultstätte in Maqellarë.",
+                  "category": "religious",
+                  "coords": [
+                        20.465772,
+                        41.578262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Grazhdanit",
+                  "text": "A Grazhdan Fortress egy régészeti lelőhely Maqellarë városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.466122,
+                        41.605905
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Sotirit - Sveti Spas",
+                  "text": "A Kisha e Shën Sotirit - Sveti Spas egy elismert imahely Maqellarë városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.517259,
+                        41.582293
+                  ]
+            },
+            {
+                  "name": "Xhamia e Allajbegise",
+                  "text": "A Xhamia e Allajbegise egy történelmi imahely Maqellarë városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.465772,
+                        41.578262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Grazhdanit",
+                  "text": "Grazhdan Fortress este un sit arheologic situat în Maqellarë.",
+                  "category": "historical",
+                  "coords": [
+                        20.466122,
+                        41.605905
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Sotirit - Sveti Spas",
+                  "text": "Kisha e Shën Sotirit - Sveti Spas este un lăcaș de cult recunoscut situat în Maqellarë.",
+                  "category": "religious",
+                  "coords": [
+                        20.517259,
+                        41.582293
+                  ]
+            },
+            {
+                  "name": "Xhamia e Allajbegise",
+                  "text": "Xhamia e Allajbegise este un lăcaș de cult istoric situat în Maqellarë.",
+                  "category": "religious",
+                  "coords": [
+                        20.465772,
+                        41.578262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grazhdan Fortress",
+                  "text": "Grazhdan Fortress is an archaeological site located in Maqellarë.",
+                  "category": "historical",
+                  "coords": [
+                        20.466122,
+                        41.605905
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Sotirit - Sveti Spas",
+                  "text": "Kisha e Shën Sotirit - Sveti Spas is a recognised place of worship located in Maqellarë.",
+                  "category": "religious",
+                  "coords": [
+                        20.517259,
+                        41.582293
+                  ]
+            },
+            {
+                  "name": "Xhamia e Allajbegise",
+                  "text": "Xhamia e Allajbegise is a historic place of worship located in Maqellarë.",
+                  "category": "religious",
+                  "coords": [
+                        20.465772,
+                        41.578262
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Maqellarë", hu: "Maqellarë", ro: "Maqellarë", en: "Maqellarë" },
@@ -4036,7 +8221,160 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-maqellare-cities-v2.webp",
   },
   {
-    id: "albania-vau-i-dejes-cities-v2",
+    id: "albania-vau-i-dejes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Vaut të Dejës",
+                  "text": "Die Burg von Vau i Dejës ist eine historische Festungsruine über dem Ort.",
+                  "category": "castle",
+                  "coords": [
+                        19.623862,
+                        42.013168
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Markut",
+                  "text": "Eine religiöse Sehenswürdigkeit in der Umgebung von Vau i Dejës.",
+                  "category": "landmark",
+                  "coords": [
+                        19.625438,
+                        42.013337
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Mërisë",
+                  "text": "Eine historische St.-Marien-Kirche in Vau i Dejës.",
+                  "category": "religious",
+                  "coords": [
+                        19.621141,
+                        42.010889
+                  ]
+            },
+            {
+                  "name": "Katedralja e Nënë Terezja",
+                  "text": "Die Mutter-Teresa-Kathedrale in Vau i Dejës ist ein bedeutendes religiöses Gebäude.",
+                  "category": "religious",
+                  "coords": [
+                        19.640642,
+                        42.00739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Vaut të Dejës",
+                  "text": "A Vau i Dejës-i vár egy történelmi erődítményrom a város felett.",
+                  "category": "castle",
+                  "coords": [
+                        19.623862,
+                        42.013168
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Markut",
+                  "text": "Vallási látnivaló Vau i Dejës környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.625438,
+                        42.013337
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Mërisë",
+                  "text": "Egy történelmi Szent Mária-templom Vau i Dejës-ben.",
+                  "category": "religious",
+                  "coords": [
+                        19.621141,
+                        42.010889
+                  ]
+            },
+            {
+                  "name": "Katedralja e Nënë Terezja",
+                  "text": "A Vau i Dejës-i Teréz Anya-katedrális jelentős vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        19.640642,
+                        42.00739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Vaut të Dejës",
+                  "text": "Castelul Vau i Dejës este o ruină istorică a unei fortărețe deasupra orașului.",
+                  "category": "castle",
+                  "coords": [
+                        19.623862,
+                        42.013168
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Markut",
+                  "text": "O atracție religioasă în împrejurimile orașului Vau i Dejës.",
+                  "category": "landmark",
+                  "coords": [
+                        19.625438,
+                        42.013337
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Mërisë",
+                  "text": "O istorică Biserică Sfânta Maria în Vau i Dejës.",
+                  "category": "religious",
+                  "coords": [
+                        19.621141,
+                        42.010889
+                  ]
+            },
+            {
+                  "name": "Katedralja e Nënë Terezja",
+                  "text": "Catedrala Maica Tereza din Vau i Dejës este o clădire religioasă importantă.",
+                  "category": "religious",
+                  "coords": [
+                        19.640642,
+                        42.00739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vau i Dejës Castle",
+                  "text": "Vau i Dejës Castle is a historic fortress ruin above the town.",
+                  "category": "castle",
+                  "coords": [
+                        19.623862,
+                        42.013168
+                  ]
+            },
+            {
+                  "name": "Church of St. Mark",
+                  "text": "A religious attraction in the surroundings of Vau i Dejës.",
+                  "category": "landmark",
+                  "coords": [
+                        19.625438,
+                        42.013337
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "A historic St. Mary's Church in Vau i Dejës.",
+                  "category": "religious",
+                  "coords": [
+                        19.621141,
+                        42.010889
+                  ]
+            },
+            {
+                  "name": "Mother Teresa Cathedral",
+                  "text": "The Mother Teresa Cathedral in Vau i Dejës is a significant religious building.",
+                  "category": "religious",
+                  "coords": [
+                        19.640642,
+                        42.00739
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Vau i Dejës", hu: "Vau i Dejës", ro: "Vau i Dejës", en: "Vau i Dejës" },
@@ -4081,7 +8419,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-vau-i-dejes-cities-v2.webp",
   },
   {
-    id: "albania-fushe-arrez-cities-v2",
+    id: "albania-fushe-arrez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Micojt",
+                  "text": "Kalaja e Micojt ist eine archäologische Stätte in Fushë-Arrëz.",
+                  "category": "historical",
+                  "coords": [
+                        20.006628,
+                        42.086574
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Micojt",
+                  "text": "A Kalaja e Micojt egy régészeti lelőhely Fushë-Arrëz területén.",
+                  "category": "historical",
+                  "coords": [
+                        20.006628,
+                        42.086574
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Micojt",
+                  "text": "Kalaja e Micojt este un sit arheologic situat în Fushë-Arrëz.",
+                  "category": "historical",
+                  "coords": [
+                        20.006628,
+                        42.086574
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Micojt",
+                  "text": "Kalaja e Micojt is an archaeological site located in Fushë-Arrëz.",
+                  "category": "historical",
+                  "coords": [
+                        20.006628,
+                        42.086574
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Fushë-Arrëz", hu: "Fushë-Arrëz", ro: "Fushë-Arrëz", en: "Fushë-Arrëz" },
@@ -4126,7 +8509,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-fushe-arrez-cities-v2.webp",
   },
   {
-    id: "albania-klos-cities-v2",
+    id: "albania-klos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar ist ein Denkmal in Klos.",
+                  "category": "historical",
+                  "coords": [
+                        20.093897,
+                        41.494959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lapidar",
+                  "text": "A Lapidar egy műemlék Klos városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.093897,
+                        41.494959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar este un monument situat în Klos.",
+                  "category": "historical",
+                  "coords": [
+                        20.093897,
+                        41.494959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar is a monument located in Klos.",
+                  "category": "historical",
+                  "coords": [
+                        20.093897,
+                        41.494959
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Klos", hu: "Klos", ro: "Klos", en: "Klos" },
@@ -4261,7 +8689,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-milot-cities-v2.webp",
   },
   {
-    id: "albania-novosele-cities-v2",
+    id: "albania-novosele-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Geschützte Landschaft Pishë Poro – Nartë",
+                  "text": "Pishë Poro - Nartë Protected Landscape ist ein bekanntes Naturschutzgebiet in Novoselë.",
+                  "category": "natural",
+                  "coords": [
+                        19.413395,
+                        40.575303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peisazh i Mbrojtur Pishë Poro - Nartë",
+                  "text": "A Pishë Poro - Nartë Protected Landscape egy nevezetes természetvédelmi terület Novoselë városában.",
+                  "category": "natural",
+                  "coords": [
+                        19.413395,
+                        40.575303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peisaj protejat Pishë Poro - Nartë",
+                  "text": "Pishë Poro - Nartë Protected Landscape este o rezervație naturală notabilă situată în Novoselë.",
+                  "category": "natural",
+                  "coords": [
+                        19.413395,
+                        40.575303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pishë Poro - Nartë Protected Landscape",
+                  "text": "Pishë Poro - Nartë Protected Landscape is a notable nature reserve located in Novoselë.",
+                  "category": "natural",
+                  "coords": [
+                        19.413395,
+                        40.575303
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Novoselë", hu: "Novoselë", ro: "Novoselë", en: "Novoselë" },
@@ -4351,7 +8824,124 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-levan-cities-v2.webp",
   },
   {
-    id: "albania-cakran-cities-v2",
+    id: "albania-cakran-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gurëzeza",
+                  "text": "Gurëzeza ist eine archäologische Stätte, die die Überreste einer alten illyrischen Siedlung in Cakran bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        19.629301,
+                        40.61963
+                  ]
+            },
+            {
+                  "name": "Kalaja e Gurzezës",
+                  "text": "Kalaja e Gurzezës ist eine alte Festung und archäologische Stätte in Cakran.",
+                  "category": "historical",
+                  "coords": [
+                        19.635021,
+                        40.608234
+                  ]
+            },
+            {
+                  "name": "Vendbanimi Prehistorik Cakran",
+                  "text": "Die prähistorische Siedlung Cakran ist eine archäologische Stätte in Cakran.",
+                  "category": "historical",
+                  "coords": [
+                        19.633759,
+                        40.609922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gurëzeza",
+                  "text": "A Gurëzeza egy régészeti lelőhely, amely egy ősi illír település maradványait őrzi Cakranban.",
+                  "category": "historical",
+                  "coords": [
+                        19.629301,
+                        40.61963
+                  ]
+            },
+            {
+                  "name": "Kalaja e Gurzezës",
+                  "text": "A Kalaja e Gurzezës egy ősi erőd és régészeti lelőhely Cakran területén.",
+                  "category": "historical",
+                  "coords": [
+                        19.635021,
+                        40.608234
+                  ]
+            },
+            {
+                  "name": "Vendbanimi Prehistorik Cakran",
+                  "text": "A Cakran őskori település egy régészeti lelőhely Cakranban.",
+                  "category": "historical",
+                  "coords": [
+                        19.633759,
+                        40.609922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gurëzeza",
+                  "text": "Gurëzeza este un sit arheologic care păstrează rămășițele unei vechi așezări ilire în Cakran.",
+                  "category": "historical",
+                  "coords": [
+                        19.629301,
+                        40.61963
+                  ]
+            },
+            {
+                  "name": "Kalaja e Gurzezës",
+                  "text": "Kalaja e Gurzezës este o veche fortăreață și sit arheologic situat în Cakran.",
+                  "category": "historical",
+                  "coords": [
+                        19.635021,
+                        40.608234
+                  ]
+            },
+            {
+                  "name": "Vendbanimi Prehistorik Cakran",
+                  "text": "Așezarea preistorică Cakran este un sit arheologic situat în Cakran.",
+                  "category": "historical",
+                  "coords": [
+                        19.633759,
+                        40.609922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gurëzeza",
+                  "text": "Gurëzeza is an archaeological site preserving the remains of an ancient Illyrian settlement in Cakran.",
+                  "category": "historical",
+                  "coords": [
+                        19.629301,
+                        40.61963
+                  ]
+            },
+            {
+                  "name": "Kalaja e Gurzezës",
+                  "text": "Kalaja e Gurzezës is an ancient fortress and archaeological site situated in Cakran.",
+                  "category": "historical",
+                  "coords": [
+                        19.635021,
+                        40.608234
+                  ]
+            },
+            {
+                  "name": "Cakran Prehistoric Settlement",
+                  "text": "The Cakran Prehistoric Settlement is an archaeological site located in Cakran.",
+                  "category": "historical",
+                  "coords": [
+                        19.633759,
+                        40.609922
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Cakran", hu: "Cakran", ro: "Cakran", en: "Cakran" },
@@ -4396,7 +8986,160 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-cakran-cities-v2.webp",
   },
   {
-    id: "albania-libonik-cities-v2",
+    id: "albania-libonik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vendbanimi Prehistorik ne Maliq",
+                  "text": "Prehistoric Settlement Maliq ist eine archäologische Stätte in Libonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.711072,
+                        40.711421
+                  ]
+            },
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
+                  "text": "Rezervati Natyror i Menaxhuar \"Krastafillak\" ist ein Naturschutzgebiet in Libonik.",
+                  "category": "natural",
+                  "coords": [
+                        20.693417,
+                        40.694936
+                  ]
+            },
+            {
+                  "name": "Pylli i përzjerë i Maliqit",
+                  "text": "Pylli i përzjerë i Maliqit ist ein Naturschutzgebiet in Libonik.",
+                  "category": "natural",
+                  "coords": [
+                        20.731499,
+                        40.72433
+                  ]
+            },
+            {
+                  "name": "Teatri \"Dhimitër Orgocka\"",
+                  "text": "Teatri \"Dhimitër Orgocka\" ist ein Theater in Libonik.",
+                  "category": "cultural",
+                  "coords": [
+                        20.700151,
+                        40.70866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vendbanimi Prehistorik ne Maliq",
+                  "text": "A Prehistoric Settlement Maliq egy régészeti lelőhely Libonik városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.711072,
+                        40.711421
+                  ]
+            },
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
+                  "text": "A Rezervati Natyror i Menaxhuar \"Krastafillak\" egy természetvédelmi terület Libonik városában.",
+                  "category": "natural",
+                  "coords": [
+                        20.693417,
+                        40.694936
+                  ]
+            },
+            {
+                  "name": "Pylli i përzjerë i Maliqit",
+                  "text": "A Pylli i përzjerë i Maliqit egy természetvédelmi terület Libonik városában.",
+                  "category": "natural",
+                  "coords": [
+                        20.731499,
+                        40.72433
+                  ]
+            },
+            {
+                  "name": "Teatri \"Dhimitër Orgocka\"",
+                  "text": "A Teatri \"Dhimitër Orgocka\" egy színház Libonik városában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.700151,
+                        40.70866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vendbanimi Prehistorik ne Maliq",
+                  "text": "Prehistoric Settlement Maliq este un sit arheologic situat în Libonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.711072,
+                        40.711421
+                  ]
+            },
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
+                  "text": "Rezervati Natyror i Menaxhuar \"Krastafillak\" este o rezervație naturală situată în Libonik.",
+                  "category": "natural",
+                  "coords": [
+                        20.693417,
+                        40.694936
+                  ]
+            },
+            {
+                  "name": "Pylli i përzjerë i Maliqit",
+                  "text": "Pylli i përzjerë i Maliqit este o rezervație naturală situată în Libonik.",
+                  "category": "natural",
+                  "coords": [
+                        20.731499,
+                        40.72433
+                  ]
+            },
+            {
+                  "name": "Teatri \"Dhimitër Orgocka\"",
+                  "text": "Teatri \"Dhimitër Orgocka\" este un teatru situat în Libonik.",
+                  "category": "cultural",
+                  "coords": [
+                        20.700151,
+                        40.70866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prehistoric Settlement Maliq",
+                  "text": "Prehistoric Settlement Maliq is an archaeological site located in Libonik.",
+                  "category": "historical",
+                  "coords": [
+                        20.711072,
+                        40.711421
+                  ]
+            },
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
+                  "text": "Rezervati Natyror i Menaxhuar \"Krastafillak\" is a nature reserve located in Libonik.",
+                  "category": "natural",
+                  "coords": [
+                        20.693417,
+                        40.694936
+                  ]
+            },
+            {
+                  "name": "Pylli i përzjerë i Maliqit",
+                  "text": "Pylli i përzjerë i Maliqit is a nature reserve located in Libonik.",
+                  "category": "natural",
+                  "coords": [
+                        20.731499,
+                        40.72433
+                  ]
+            },
+            {
+                  "name": "Teatri \"Dhimitër Orgocka\"",
+                  "text": "Teatri \"Dhimitër Orgocka\" is a theatre located in Libonik.",
+                  "category": "cultural",
+                  "coords": [
+                        20.700151,
+                        40.70866
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Libonik", hu: "Libonik", ro: "Libonik", en: "Libonik" },
@@ -4576,7 +9319,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-zerqan-cities-v2.webp",
   },
   {
-    id: "albania-shishtavec-cities-v2",
+    id: "albania-shishtavec-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Murgë",
+                  "text": "Der Berg Murgë bietet bei Shishtavec eine beeindruckende Gipfelkulisse.",
+                  "category": "natural",
+                  "coords": [
+                        20.618289,
+                        41.937813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Murgë",
+                  "text": "A Murgë hegy Shishtavec közelében lenyűgöző csúcsélményt nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        20.618289,
+                        41.937813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Murgë",
+                  "text": "Muntele Murgë oferă o priveliște impresionantă a vârfului lângă Shishtavec.",
+                  "category": "natural",
+                  "coords": [
+                        20.618289,
+                        41.937813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Murgë",
+                  "text": "The Murgë mountain offers an impressive peak scenery near Shishtavec.",
+                  "category": "natural",
+                  "coords": [
+                        20.618289,
+                        41.937813
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Shishtavec", hu: "Shishtavec", ro: "Shishtavec", en: "Shishtavec" },
@@ -4666,7 +9454,124 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-bushat-cities-v2.webp",
   },
   {
-    id: "albania-postribe-cities-v2",
+    id: "albania-postribe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortifikimi i Kratulit",
+                  "text": "Kratul Fortification ist eine anerkannte archäologische Stätte in Postribë.",
+                  "category": "historical",
+                  "coords": [
+                        19.574067,
+                        42.122434
+                  ]
+            },
+            {
+                  "name": "Tumat e Shtojit",
+                  "text": "Tumat e Shtojit ist eine archäologische Stätte in Postribë.",
+                  "category": "historical",
+                  "coords": [
+                        19.567933,
+                        42.114788
+                  ]
+            },
+            {
+                  "name": "Ura e Mesit",
+                  "text": "Ura e Mesit ist eine Sehenswürdigkeit in Postribë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.575268,
+                        42.114505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortifikimi i Kratulit",
+                  "text": "A Kratul Fortification egy elismert régészeti lelőhely Postribë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.574067,
+                        42.122434
+                  ]
+            },
+            {
+                  "name": "Tumat e Shtojit",
+                  "text": "A Tumat e Shtojit egy régészeti lelőhely Postribë városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.567933,
+                        42.114788
+                  ]
+            },
+            {
+                  "name": "Ura e Mesit",
+                  "text": "Az Ura e Mesit egy látványosság Postribë városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.575268,
+                        42.114505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortifikimi i Kratulit",
+                  "text": "Kratul Fortification este un sit arheologic recunoscut situat în Postribë.",
+                  "category": "historical",
+                  "coords": [
+                        19.574067,
+                        42.122434
+                  ]
+            },
+            {
+                  "name": "Tumat e Shtojit",
+                  "text": "Tumat e Shtojit este un sit arheologic situat în Postribë.",
+                  "category": "historical",
+                  "coords": [
+                        19.567933,
+                        42.114788
+                  ]
+            },
+            {
+                  "name": "Ura e Mesit",
+                  "text": "Ura e Mesit este o atracție situată în Postribë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.575268,
+                        42.114505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kratul Fortification",
+                  "text": "Kratul Fortification is a recognized archaeological site located in Postribë.",
+                  "category": "historical",
+                  "coords": [
+                        19.574067,
+                        42.122434
+                  ]
+            },
+            {
+                  "name": "Tumat e Shtojit",
+                  "text": "Tumat e Shtojit is an archaeological site located in Postribë.",
+                  "category": "historical",
+                  "coords": [
+                        19.567933,
+                        42.114788
+                  ]
+            },
+            {
+                  "name": "Ura e Mesit",
+                  "text": "Ura e Mesit is an attraction located in Postribë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.575268,
+                        42.114505
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Postribë", hu: "Postribë", ro: "Postribë", en: "Postribë" },
@@ -4999,7 +9904,160 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-tale-cities-v2.webp",
   },
   {
-    id: "albania-bradashesh-cities-v2",
+    id: "albania-bradashesh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ad Quintum",
+                  "text": "Ad Quintum ist eine antike archäologische Stätte in Bradashesh.",
+                  "category": "historical",
+                  "coords": [
+                        20.015323,
+                        41.094179
+                  ]
+            },
+            {
+                  "name": "Basilica of Tepe",
+                  "text": "Basilica of Tepe ist eine archäologische Stätte in Bradashesh.",
+                  "category": "historical",
+                  "coords": [
+                        20.071801,
+                        41.11424
+                  ]
+            },
+            {
+                  "name": "Kalaja Shkembi i Skenderbeut",
+                  "text": "Kalaja Shkembi i Skenderbeut ist eine archäologische Stätte in Bradashesh.",
+                  "category": "historical",
+                  "coords": [
+                        20.006483,
+                        41.104617
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Gjon Vladimirit",
+                  "text": "St. Jovan Vladimir's Church ist eine bekannte Kultstätte in Bradashesh.",
+                  "category": "religious",
+                  "coords": [
+                        20.02274,
+                        41.11837
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ad Quintum",
+                  "text": "Az Ad Quintum egy ókori régészeti lelőhely Bradashesh városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.015323,
+                        41.094179
+                  ]
+            },
+            {
+                  "name": "Basilica of Tepe",
+                  "text": "A Basilica of Tepe egy régészeti lelőhely Bradashesh városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.071801,
+                        41.11424
+                  ]
+            },
+            {
+                  "name": "Kalaja Shkembi i Skenderbeut",
+                  "text": "A Kalaja Shkembi i Skenderbeut egy régészeti lelőhely Bradashesh városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.006483,
+                        41.104617
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Gjon Vladimirit",
+                  "text": "A St. Jovan Vladimir's Church egy jól ismert imahely Bradashesh városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.02274,
+                        41.11837
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ad Quintum",
+                  "text": "Ad Quintum este un sit arheologic antic situat în Bradashesh.",
+                  "category": "historical",
+                  "coords": [
+                        20.015323,
+                        41.094179
+                  ]
+            },
+            {
+                  "name": "Basilica of Tepe",
+                  "text": "Basilica of Tepe este un sit arheologic situat în Bradashesh.",
+                  "category": "historical",
+                  "coords": [
+                        20.071801,
+                        41.11424
+                  ]
+            },
+            {
+                  "name": "Kalaja Shkembi i Skenderbeut",
+                  "text": "Kalaja Shkembi i Skenderbeut este un sit arheologic situat în Bradashesh.",
+                  "category": "historical",
+                  "coords": [
+                        20.006483,
+                        41.104617
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Gjon Vladimirit",
+                  "text": "St. Jovan Vladimir's Church este un lăcaș de cult binecunoscut situat în Bradashesh.",
+                  "category": "religious",
+                  "coords": [
+                        20.02274,
+                        41.11837
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ad Quintum",
+                  "text": "Ad Quintum is an ancient archaeological site located in Bradashesh.",
+                  "category": "historical",
+                  "coords": [
+                        20.015323,
+                        41.094179
+                  ]
+            },
+            {
+                  "name": "Basilica of Tepe",
+                  "text": "Basilica of Tepe is an archaeological site located in Bradashesh.",
+                  "category": "historical",
+                  "coords": [
+                        20.071801,
+                        41.11424
+                  ]
+            },
+            {
+                  "name": "Kalaja Shkembi i Skenderbeut",
+                  "text": "Kalaja Shkembi i Skenderbeut is an archaeological site located in Bradashesh.",
+                  "category": "historical",
+                  "coords": [
+                        20.006483,
+                        41.104617
+                  ]
+            },
+            {
+                  "name": "St. Jovan Vladimir's Church",
+                  "text": "St. Jovan Vladimir's Church is a well-known place of worship located in Bradashesh.",
+                  "category": "religious",
+                  "coords": [
+                        20.02274,
+                        41.11837
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Bradashesh", hu: "Bradashesh", ro: "Bradashesh", en: "Bradashesh" },
@@ -5044,7 +10102,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-bradashesh-cities-v2.webp",
   },
   {
-    id: "albania-labinot-fushe-cities-v2",
+    id: "albania-labinot-fushe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Menglit",
+                  "text": "Die archäologische Stätte Kalaja e Menglit liegt in der Nähe von Labinot-Fushë.",
+                  "category": "historical",
+                  "coords": [
+                        20.126459,
+                        41.129616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Menglit",
+                  "text": "A Kalaja e Menglit régészeti lelőhely Labinot-Fushë közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        20.126459,
+                        41.129616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Menglit",
+                  "text": "Situl arheologic Kalaja e Menglit se află în apropiere de Labinot-Fushë.",
+                  "category": "historical",
+                  "coords": [
+                        20.126459,
+                        41.129616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Menglit",
+                  "text": "The archaeological site Kalaja e Menglit is located near Labinot-Fushë.",
+                  "category": "historical",
+                  "coords": [
+                        20.126459,
+                        41.129616
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Labinot-Fushë", hu: "Labinot-Fushë", ro: "Labinot-Fushë", en: "Labinot-Fushë" },
@@ -5179,7 +10282,196 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-bubullime-cities-v2.webp",
   },
   {
-    id: "albania-karbunare-cities-v2",
+    id: "albania-karbunare-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shtepia e Kongresit të Lushnjës",
+                  "text": "Das Kongresshaus von Lushnjë in Karbunarë erinnert an ein wichtiges politisches Ereignis der albanischen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        19.70806,
+                        40.941468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "Das Historische Museum in Karbunarë bewahrt Zeugnisse der lokalen Vergangenheit.",
+                  "category": "museum",
+                  "coords": [
+                        19.706615,
+                        40.941302
+                  ]
+            },
+            {
+                  "name": "Kinoteatri \"Vace Zela\"",
+                  "text": "Ein Theater in Karbunarë, das nach der berühmten Sängerin Vaçe Zela benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        19.705791,
+                        40.943469
+                  ]
+            },
+            {
+                  "name": "Statuja e Lirise \"Toka Jone\"",
+                  "text": "Ein Freiheitsdenkmal in Karbunarë mit dem Namen „Unser Land“.",
+                  "category": "historical",
+                  "coords": [
+                        19.706107,
+                        40.942284
+                  ]
+            },
+            {
+                  "name": "Ura Ne Prroin e Lungës",
+                  "text": "Eine Brücke über den Lunga-Bach in Karbunarë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.717176,
+                        40.922137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shtepia e Kongresit të Lushnjës",
+                  "text": "A Karbunarë-ban található Lushnjë-i Kongresszusi Ház az albán történelem egy fontos politikai eseményére emlékeztet.",
+                  "category": "museum",
+                  "coords": [
+                        19.70806,
+                        40.941468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "A Karbunarë-i Történeti Múzeum a helyi múlt emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        19.706615,
+                        40.941302
+                  ]
+            },
+            {
+                  "name": "Kinoteatri \"Vace Zela\"",
+                  "text": "Egy színház Karbunarë-ban, amelyet a híres énekesnőről, Vaçe Zela-ról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        19.705791,
+                        40.943469
+                  ]
+            },
+            {
+                  "name": "Statuja e Lirise \"Toka Jone\"",
+                  "text": "Szabadság-emlékmű Karbunarë-ban „Földünk” néven.",
+                  "category": "historical",
+                  "coords": [
+                        19.706107,
+                        40.942284
+                  ]
+            },
+            {
+                  "name": "Ura Ne Prroin e Lungës",
+                  "text": "Híd a Lunga-patak felett Karbunarë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.717176,
+                        40.922137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shtepia e Kongresit të Lushnjës",
+                  "text": "Casa Congresului din Lushnjë în Karbunarë amintește de un eveniment politic important din istoria Albaniei.",
+                  "category": "museum",
+                  "coords": [
+                        19.70806,
+                        40.941468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "Muzeul Istoric din Karbunarë păstrează dovezi ale trecutului local.",
+                  "category": "museum",
+                  "coords": [
+                        19.706615,
+                        40.941302
+                  ]
+            },
+            {
+                  "name": "Kinoteatri \"Vace Zela\"",
+                  "text": "Un teatru în Karbunarë, numit după celebra cântăreață Vaçe Zela.",
+                  "category": "cultural",
+                  "coords": [
+                        19.705791,
+                        40.943469
+                  ]
+            },
+            {
+                  "name": "Statuja e Lirise \"Toka Jone\"",
+                  "text": "Un monument al libertății în Karbunarë numit „Pământul nostru”.",
+                  "category": "historical",
+                  "coords": [
+                        19.706107,
+                        40.942284
+                  ]
+            },
+            {
+                  "name": "Ura Ne Prroin e Lungës",
+                  "text": "Un pod peste pârâul Lunga în Karbunarë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.717176,
+                        40.922137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shtepia e Kongresit të Lushnjës",
+                  "text": "The Congress House of Lushnjë in Karbunarë commemorates an important political event in Albanian history.",
+                  "category": "museum",
+                  "coords": [
+                        19.70806,
+                        40.941468
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik",
+                  "text": "The Historical Museum in Karbunarë preserves testimonies of the local past.",
+                  "category": "museum",
+                  "coords": [
+                        19.706615,
+                        40.941302
+                  ]
+            },
+            {
+                  "name": "Theatre \"Vace Zela\"",
+                  "text": "A theatre in Karbunarë named after the famous singer Vaçe Zela.",
+                  "category": "cultural",
+                  "coords": [
+                        19.705791,
+                        40.943469
+                  ]
+            },
+            {
+                  "name": "Statuja e Lirise \"Toka Jone\"",
+                  "text": "A freedom monument in Karbunarë named \"Our Land\".",
+                  "category": "historical",
+                  "coords": [
+                        19.706107,
+                        40.942284
+                  ]
+            },
+            {
+                  "name": "Ura Ne Prroin e Lungës",
+                  "text": "A bridge over the Lunga creek in Karbunarë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.717176,
+                        40.922137
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Karbunarë", hu: "Karbunarë", ro: "Karbunarë", en: "Karbunarë" },
@@ -5314,7 +10606,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-grabian-cities-v2.webp",
   },
   {
-    id: "albania-zharrez-cities-v2",
+    id: "albania-zharrez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Albanian Oil Industry",
+                  "text": "Ein Ort in Zharrëz, der die Geschichte der albanischen Ölindustrie beleuchtet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.652783,
+                        40.738208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albanian Oil Industry",
+                  "text": "Egy hely Zharrëz-ban, amely megvilágítja az albán olajipar történetét.",
+                  "category": "landmark",
+                  "coords": [
+                        19.652783,
+                        40.738208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albanian Oil Industry",
+                  "text": "Un loc în Zharrëz care ilustrează istoria industriei petroliere albaneze.",
+                  "category": "landmark",
+                  "coords": [
+                        19.652783,
+                        40.738208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albanian Oil Industry",
+                  "text": "A place in Zharrëz that highlights the history of the Albanian oil industry.",
+                  "category": "landmark",
+                  "coords": [
+                        19.652783,
+                        40.738208
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Zharrëz", hu: "Zharrëz", ro: "Zharrëz", en: "Zharrëz" },
@@ -5522,6 +10859,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.936813,
                         39.933845
                   ]
+            },
+            {
+                  "name": "Ura Jesir (Tatzat)",
+                  "text": "Ura Jesir ist ein historisches Brückendenkmal im Gebiet Tatzat von Lukovë.",
+                  "category": "historical",
+                  "coords": [
+                        19.938591,
+                        40.02779
+                  ]
+            },
+            {
+                  "name": "Ura e Gurit (Tatzat)",
+                  "text": "Ura e Gurit ist ein kulturhistorisches Steinbrücken-Denkmal im Dorf Tatzat bei Lukovë.",
+                  "category": "historical",
+                  "coords": [
+                        19.935833,
+                        40.02986
+                  ]
             }
       ],
       "hu": [
@@ -5550,6 +10905,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.936813,
                         39.933845
+                  ]
+            },
+            {
+                  "name": "Ura Jesir (Tatzat)",
+                  "text": "Az Ura Jesir egy történelmi híd műemlék Lukovë Tatzat nevű részén.",
+                  "category": "historical",
+                  "coords": [
+                        19.938591,
+                        40.02779
+                  ]
+            },
+            {
+                  "name": "Ura e Gurit (Tatzat)",
+                  "text": "Az Ura e Gurit egy történelmi kőhíd műemlék Lukovë Tatzat nevű falvában.",
+                  "category": "historical",
+                  "coords": [
+                        19.935833,
+                        40.02986
                   ]
             }
       ],
@@ -5580,6 +10953,24 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.936813,
                         39.933845
                   ]
+            },
+            {
+                  "name": "Ura Jesir (Tatzat)",
+                  "text": "Ura Jesir este un monument istoric reprezentând un pod în zona Tatzat din Lukovë.",
+                  "category": "historical",
+                  "coords": [
+                        19.938591,
+                        40.02779
+                  ]
+            },
+            {
+                  "name": "Ura e Gurit (Tatzat)",
+                  "text": "Ura e Gurit este un monument istoric reprezentând un pod de piatră în satul Tatzat din Lukovë.",
+                  "category": "historical",
+                  "coords": [
+                        19.935833,
+                        40.02986
+                  ]
             }
       ],
       "en": [
@@ -5608,6 +10999,24 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.936813,
                         39.933845
+                  ]
+            },
+            {
+                  "name": "Ura Jesir (Tatzat)",
+                  "text": "Ura Jesir is a historic bridge monument located in the Tatzat area of Lukovë.",
+                  "category": "historical",
+                  "coords": [
+                        19.938591,
+                        40.02779
+                  ]
+            },
+            {
+                  "name": "Ura e Gurit (Tatzat)",
+                  "text": "Ura e Gurit is a historic stone bridge monument preserved in the Tatzat village of Lukovë.",
+                  "category": "historical",
+                  "coords": [
+                        19.935833,
+                        40.02986
                   ]
             }
       ]
@@ -5926,7 +11335,124 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-katund-i-ri-cities-v2.webp",
   },
   {
-    id: "albania-xarre-cities-v2",
+    id: "albania-xarre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja Trekëndore",
+                  "text": "Die Venezianische Dreiecksburg ist eine historische Befestigungsanlage in Xarrë, die für ihre einzigartige dreieckige Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        20.020023,
+                        39.742509
+                  ]
+            },
+            {
+                  "name": "Nationalpark Butrint",
+                  "text": "Der Butrint-Nationalpark ist ein bedeutendes Naturschutzgebiet und eine archäologische Stätte in Xarrë.",
+                  "category": "natural",
+                  "coords": [
+                        20.030932,
+                        39.757601
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja besteht aus historischen Ruinen in Xarrë, die darauf warten, erkundet zu werden.",
+                  "category": "historical",
+                  "coords": [
+                        19.992141,
+                        39.714552
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja Trekëndore",
+                  "text": "A velencei háromszögletű vár egy történelmi erődítmény Xarrëban, amely az egyedi háromszög alakú építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        20.020023,
+                        39.742509
+                  ]
+            },
+            {
+                  "name": "Parku Kombëtar i Butrintit",
+                  "text": "A Butrint Nemzeti Park egy jelentős természetvédelmi terület és régészeti lelőhely Xarrëban.",
+                  "category": "natural",
+                  "coords": [
+                        20.030932,
+                        39.757601
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "A Rrënoja történelmi romokat foglal magába Xarrë területén.",
+                  "category": "historical",
+                  "coords": [
+                        19.992141,
+                        39.714552
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja Trekëndore",
+                  "text": "Castelul Triangular Venețian este o fortificație istorică din Xarrë, cunoscut pentru arhitectura sa unică triunghiulară.",
+                  "category": "castle",
+                  "coords": [
+                        20.020023,
+                        39.742509
+                  ]
+            },
+            {
+                  "name": "Parku Kombëtar i Butrintit",
+                  "text": "Parcul Național Butrint este o rezervație naturală și un sit arheologic important din Xarrë.",
+                  "category": "natural",
+                  "coords": [
+                        20.030932,
+                        39.757601
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja constă din ruine istorice ce pot fi explorate în Xarrë.",
+                  "category": "historical",
+                  "coords": [
+                        19.992141,
+                        39.714552
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Venetian Triangular Castle",
+                  "text": "The Venetian Triangular Castle is a historic fortification in Xarrë, known for its unique triangular architecture.",
+                  "category": "castle",
+                  "coords": [
+                        20.020023,
+                        39.742509
+                  ]
+            },
+            {
+                  "name": "Butrint National Park",
+                  "text": "Butrint National Park is a significant nature reserve and archaeological site located in Xarrë.",
+                  "category": "natural",
+                  "coords": [
+                        20.030932,
+                        39.757601
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja consists of historic ruins located in Xarrë.",
+                  "category": "historical",
+                  "coords": [
+                        19.992141,
+                        39.714552
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Xarrë", hu: "Xarrë", ro: "Xarrë", en: "Xarrë" },
@@ -6241,7 +11767,88 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-kashar-cities-v2.webp",
   },
   {
-    id: "albania-balldren-cities-v2",
+    id: "albania-balldren-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Kunë-Vain-Tale\"",
+                  "text": "Der Naturpark Kunë-Vain-Tale ist ein verwaltetes Naturschutzgebiet in Balldren und als erstes Schutzgebiet Albaniens anerkannt.",
+                  "category": "natural",
+                  "coords": [
+                        19.598235,
+                        41.728877
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja repräsentiert antike Ruinen in der Stadt Balldren.",
+                  "category": "historical",
+                  "coords": [
+                        19.620895,
+                        41.800654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Kunë-Vain-Tale\"",
+                  "text": "A Kunë-Vain-Tale Natúrpark egy kezelt természetvédelmi terület Balldrenben, amely Albánia első védett területeként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.598235,
+                        41.728877
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "A Rrënoja ókori romokat jelöl Balldren városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.620895,
+                        41.800654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Kunë-Vain-Tale\"",
+                  "text": "Parcul Natural Kunë-Vain-Tale este o rezervație naturală administrată din Balldren, recunoscută ca prima arie protejată din Albania.",
+                  "category": "natural",
+                  "coords": [
+                        19.598235,
+                        41.728877
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja reprezintă ruine antice găsite în orașul Balldren.",
+                  "category": "historical",
+                  "coords": [
+                        19.620895,
+                        41.800654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rezervati Natyror i Menaxhuar \"Kunë-Vain-Tale\"",
+                  "text": "The Kunë-Vain-Tale Nature Park is a managed nature reserve in Balldren, recognized as the first protected area in Albania.",
+                  "category": "natural",
+                  "coords": [
+                        19.598235,
+                        41.728877
+                  ]
+            },
+            {
+                  "name": "Rrënoja",
+                  "text": "Rrënoja represents ancient ruins found in the city of Balldren.",
+                  "category": "historical",
+                  "coords": [
+                        19.620895,
+                        41.800654
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Balldren", hu: "Balldren", ro: "Balldren", en: "Balldren" },
@@ -6286,7 +11893,268 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-balldren-cities-v2.webp",
   },
   {
-    id: "albania-shkret-cities-v2",
+    id: "albania-shkret-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeu Kombëtar Etnografik",
+                  "text": "National Ethnographic Museum ist ein bekanntes Museum in Shkret.",
+                  "category": "museum",
+                  "coords": [
+                        19.793723,
+                        41.506696
+                  ]
+            },
+            {
+                  "name": "Kalaja e Irmajt",
+                  "text": "Kalaja e Irmajt ist eine Burg in Shkret.",
+                  "category": "castle",
+                  "coords": [
+                        19.779151,
+                        41.52795
+                  ]
+            },
+            {
+                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
+                  "text": "Kraste-Verjon Protected Landscape ist ein Naturschutzgebiet in Shkret.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            },
+            {
+                  "name": "Shpella e Sari Salltikut",
+                  "text": "Sari Salltiku's Cave ist eine Sehenswürdigkeit in Shkret.",
+                  "category": "landmark",
+                  "coords": [
+                        19.802136,
+                        41.517444
+                  ]
+            },
+            {
+                  "name": "View Point over City",
+                  "text": "View Point over City ist ein Aussichtspunkt in Shkret.",
+                  "category": "natural",
+                  "coords": [
+                        19.799703,
+                        41.518065
+                  ]
+            },
+            {
+                  "name": "Stonebridge",
+                  "text": "Stonebridge ist eine Sehenswürdigkeit in Shkret.",
+                  "category": "landmark",
+                  "coords": [
+                        19.792681,
+                        41.506202
+                  ]
+            },
+            {
+                  "name": "Xhamia e Pazarit",
+                  "text": "Bazaar Mosque ist eine anerkannte historische Kultstätte in Shkret.",
+                  "category": "religious",
+                  "coords": [
+                        19.794561,
+                        41.509665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeu Kombëtar Etnografik",
+                  "text": "A National Ethnographic Museum egy nevezetes múzeum Shkret városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.793723,
+                        41.506696
+                  ]
+            },
+            {
+                  "name": "Kalaja e Irmajt",
+                  "text": "A Kalaja e Irmajt egy vár Shkret városában.",
+                  "category": "castle",
+                  "coords": [
+                        19.779151,
+                        41.52795
+                  ]
+            },
+            {
+                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
+                  "text": "A Kraste-Verjon Protected Landscape egy természetvédelmi terület Shkret városában.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            },
+            {
+                  "name": "Shpella e Sari Salltikut",
+                  "text": "A Sari Salltiku's Cave egy látványosság Shkret városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.802136,
+                        41.517444
+                  ]
+            },
+            {
+                  "name": "View Point over City",
+                  "text": "A View Point over City egy kilátó Shkret városában.",
+                  "category": "natural",
+                  "coords": [
+                        19.799703,
+                        41.518065
+                  ]
+            },
+            {
+                  "name": "Stonebridge",
+                  "text": "A Stonebridge egy látványosság Shkret városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.792681,
+                        41.506202
+                  ]
+            },
+            {
+                  "name": "Xhamia e Pazarit",
+                  "text": "A Bazaar Mosque egy elismert történelmi imahely Shkret városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.794561,
+                        41.509665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeu Kombëtar Etnografik",
+                  "text": "National Ethnographic Museum este un muzeu notabil situat în Shkret.",
+                  "category": "museum",
+                  "coords": [
+                        19.793723,
+                        41.506696
+                  ]
+            },
+            {
+                  "name": "Kalaja e Irmajt",
+                  "text": "Kalaja e Irmajt este un castel situat în Shkret.",
+                  "category": "castle",
+                  "coords": [
+                        19.779151,
+                        41.52795
+                  ]
+            },
+            {
+                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
+                  "text": "Kraste-Verjon Protected Landscape este o rezervație naturală situată în Shkret.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            },
+            {
+                  "name": "Shpella e Sari Salltikut",
+                  "text": "Sari Salltiku's Cave este o atracție situată în Shkret.",
+                  "category": "landmark",
+                  "coords": [
+                        19.802136,
+                        41.517444
+                  ]
+            },
+            {
+                  "name": "View Point over City",
+                  "text": "View Point over City este un punct de belvedere situat în Shkret.",
+                  "category": "natural",
+                  "coords": [
+                        19.799703,
+                        41.518065
+                  ]
+            },
+            {
+                  "name": "Stonebridge",
+                  "text": "Stonebridge este o atracție situată în Shkret.",
+                  "category": "landmark",
+                  "coords": [
+                        19.792681,
+                        41.506202
+                  ]
+            },
+            {
+                  "name": "Xhamia e Pazarit",
+                  "text": "Bazaar Mosque este un lăcaș de cult istoric recunoscut situat în Shkret.",
+                  "category": "religious",
+                  "coords": [
+                        19.794561,
+                        41.509665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Ethnographic Museum",
+                  "text": "National Ethnographic Museum is a notable museum located in Shkret.",
+                  "category": "museum",
+                  "coords": [
+                        19.793723,
+                        41.506696
+                  ]
+            },
+            {
+                  "name": "Kalaja e Irmajt",
+                  "text": "Kalaja e Irmajt is a castle located in Shkret.",
+                  "category": "castle",
+                  "coords": [
+                        19.779151,
+                        41.52795
+                  ]
+            },
+            {
+                  "name": "Kraste-Verjon Protected Landscape",
+                  "text": "Kraste-Verjon Protected Landscape is a nature reserve located in Shkret.",
+                  "category": "natural",
+                  "coords": [
+                        19.776742,
+                        41.484583
+                  ]
+            },
+            {
+                  "name": "Sari Salltiku's Cave",
+                  "text": "Sari Salltiku's Cave is an attraction located in Shkret.",
+                  "category": "landmark",
+                  "coords": [
+                        19.802136,
+                        41.517444
+                  ]
+            },
+            {
+                  "name": "View Point over City",
+                  "text": "View Point over City is a viewpoint located in Shkret.",
+                  "category": "natural",
+                  "coords": [
+                        19.799703,
+                        41.518065
+                  ]
+            },
+            {
+                  "name": "Stonebridge",
+                  "text": "Stonebridge is an attraction located in Shkret.",
+                  "category": "landmark",
+                  "coords": [
+                        19.792681,
+                        41.506202
+                  ]
+            },
+            {
+                  "name": "Bazaar Mosque",
+                  "text": "Bazaar Mosque is a recognized historical place of worship located in Shkret.",
+                  "category": "religious",
+                  "coords": [
+                        19.794561,
+                        41.509665
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Shkret", hu: "Shkret", ro: "Shkret", en: "Shkret" },
@@ -6331,7 +12199,88 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-shkret-cities-v2.webp",
   },
   {
-    id: "albania-farke-cities-v2",
+    id: "albania-farke-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mutter Albanien",
+                  "text": "Das Mutter-Albanien-Denkmal in Farkë ist ein berühmtes Symbol des nationalen Gedenkens.",
+                  "category": "historical",
+                  "coords": [
+                        19.840069,
+                        41.30854
+                  ]
+            },
+            {
+                  "name": "Kanioni i Shumokut",
+                  "text": "Der Shumoku-Canyon bietet eine beeindruckende Naturlandschaft nahe Farkë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.892126,
+                        41.311265
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nëna Shqipëri",
+                  "text": "A Farkë-i Anya-Albánia emlékmű a nemzeti megemlékezés híres szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        19.840069,
+                        41.30854
+                  ]
+            },
+            {
+                  "name": "Kanioni i Shumokut",
+                  "text": "A Shumoku-kanyon lenyűgöző természeti tájat kínál Farkë közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.892126,
+                        41.311265
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nëna Shqipëri",
+                  "text": "Monumentul Mama Albania din Farkë este un simbol celebru al comemorării naționale.",
+                  "category": "historical",
+                  "coords": [
+                        19.840069,
+                        41.30854
+                  ]
+            },
+            {
+                  "name": "Kanioni i Shumokut",
+                  "text": "Canionul Shumoku oferă un peisaj natural impresionant lângă Farkë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.892126,
+                        41.311265
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mother Albania",
+                  "text": "The Mother Albania monument in Farkë is a famous symbol of national commemoration.",
+                  "category": "historical",
+                  "coords": [
+                        19.840069,
+                        41.30854
+                  ]
+            },
+            {
+                  "name": "Shumoku Canyon",
+                  "text": "The Shumoku Canyon offers an impressive natural landscape near Farkë.",
+                  "category": "landmark",
+                  "coords": [
+                        19.892126,
+                        41.311265
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Farkë", hu: "Farkë", ro: "Farkë", en: "Farkë" },
@@ -6601,7 +12550,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-zall-herr-cities-v2.webp",
   },
   {
-    id: "albania-berxulle-cities-v2",
+    id: "albania-berxulle-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maja e Kodres se Berxullit",
+                  "text": "Ein Aussichtspunkt auf dem Hügel Maja e Kodrës së Bërzhullit in Bërxullë.",
+                  "category": "natural",
+                  "coords": [
+                        19.692,
+                        41.384449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maja e Kodres se Berxullit",
+                  "text": "Kilátópont a Bërxullë-ban található Maja e Kodrës së Bërzhullit dombon.",
+                  "category": "natural",
+                  "coords": [
+                        19.692,
+                        41.384449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maja e Kodres se Berxullit",
+                  "text": "Un punct de belvedere pe dealul Maja e Kodrës së Bërzhullit în Bërxullë.",
+                  "category": "natural",
+                  "coords": [
+                        19.692,
+                        41.384449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maja e Kodres se Berxullit",
+                  "text": "A viewpoint on the hill Maja e Kodrës së Bërzhullit in Bërxullë.",
+                  "category": "natural",
+                  "coords": [
+                        19.692,
+                        41.384449
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Bërxullë", hu: "Bërxullë", ro: "Bërxullë", en: "Bërxullë" },

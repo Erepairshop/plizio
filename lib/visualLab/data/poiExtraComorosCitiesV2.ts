@@ -173,7 +173,160 @@ export const poiExtraComorosCitiesV2: POI[] = [
       fr: ["Ancienne capitale d'Anjouan", "Célèbre pour ses portes en bois sculpté", "Important marché aux épices"],
     }, image: "/poi-images/domoni-cities-v2.webp"},
   {
-    id: "mitsamiouli-cities-v2",
+    id: "mitsamiouli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Mitsamiouli شاطئ ميتساميولي",
+                  "text": "Ein Strand in Mitsamiouli.",
+                  "category": "recreational",
+                  "coords": [
+                        43.290995,
+                        -11.389343
+                  ]
+            },
+            {
+                  "name": "Marché de Mitsamiouli",
+                  "text": "Ein Markt in Mitsamiouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292281,
+                        -11.388246
+                  ]
+            },
+            {
+                  "name": "Grand Baobab",
+                  "text": "Ein großer Baobab-Baum in Mitsamiouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.307338,
+                        -11.385162
+                  ]
+            },
+            {
+                  "name": "Trou du prophète",
+                  "text": "Eine natürliche Attraktion in Mitsamiouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.314887,
+                        -11.379587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Mitsamiouli شاطئ ميتساميولي",
+                  "text": "Strand Mitsamiouliban.",
+                  "category": "recreational",
+                  "coords": [
+                        43.290995,
+                        -11.389343
+                  ]
+            },
+            {
+                  "name": "Marché de Mitsamiouli",
+                  "text": "Piac Mitsamiouliban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292281,
+                        -11.388246
+                  ]
+            },
+            {
+                  "name": "Grand Baobab",
+                  "text": "Nagy majomkenyérfa Mitsamiouliban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.307338,
+                        -11.385162
+                  ]
+            },
+            {
+                  "name": "Trou du prophète",
+                  "text": "Természeti látnivaló Mitsamiouliban.",
+                  "category": "landmark",
+                  "coords": [
+                        43.314887,
+                        -11.379587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Mitsamiouli شاطئ ميتساميولي",
+                  "text": "O plajă în Mitsamiouli.",
+                  "category": "recreational",
+                  "coords": [
+                        43.290995,
+                        -11.389343
+                  ]
+            },
+            {
+                  "name": "Marché de Mitsamiouli",
+                  "text": "O piață în Mitsamiouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292281,
+                        -11.388246
+                  ]
+            },
+            {
+                  "name": "Grand Baobab",
+                  "text": "Un baobab mare în Mitsamiouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.307338,
+                        -11.385162
+                  ]
+            },
+            {
+                  "name": "Trou du prophète",
+                  "text": "O atracție naturală în Mitsamiouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.314887,
+                        -11.379587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Mitsamiouli شاطئ ميتساميولي",
+                  "text": "A beach in Mitsamiouli.",
+                  "category": "recreational",
+                  "coords": [
+                        43.290995,
+                        -11.389343
+                  ]
+            },
+            {
+                  "name": "Marché de Mitsamiouli",
+                  "text": "A market in Mitsamiouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.292281,
+                        -11.388246
+                  ]
+            },
+            {
+                  "name": "Grand Baobab",
+                  "text": "A large baobab tree in Mitsamiouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.307338,
+                        -11.385162
+                  ]
+            },
+            {
+                  "name": "Trou du prophète",
+                  "text": "A natural attraction in Mitsamiouli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.314887,
+                        -11.379587
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-G",
     coords: [43.2925, -11.3853],
@@ -268,7 +421,52 @@ export const poiExtraComorosCitiesV2: POI[] = [
     }
   },
   {
-    id: "mbeni-cities-v2",
+    id: "mbeni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drachenfelspanorama",
+                  "text": "Panorama du Rocher du Dragon ist ein Aussichtspunkt in Mbéni.",
+                  "category": "natural",
+                  "coords": [
+                        43.400802,
+                        -11.39927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panorama du Rocher du Dragon",
+                  "text": "A(z) Panorama du Rocher du Dragon egy kilátó Mbéni városában.",
+                  "category": "natural",
+                  "coords": [
+                        43.400802,
+                        -11.39927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panorama du Rocher du Dragon",
+                  "text": "Panorama du Rocher du Dragon este un punct de belvedere situat în Mbéni.",
+                  "category": "natural",
+                  "coords": [
+                        43.400802,
+                        -11.39927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panorama du Rocher du Dragon",
+                  "text": "Panorama du Rocher du Dragon is a viewpoint located in Mbéni.",
+                  "category": "natural",
+                  "coords": [
+                        43.400802,
+                        -11.39927
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-G",
     coords: [43.3775, -11.4114],
@@ -544,7 +742,52 @@ export const poiExtraComorosCitiesV2: POI[] = [
       fr: ["Village des hauts plateaux d'Anjouan", "Climat plus doux", "Sentiers de randonnée et agriculture"],
     }, image: "/poi-images/tsembehou-cities-v2.webp"},
   {
-    id: "itsandra-cities-v2",
+    id: "itsandra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage d'Itsandra شاطئ إتساندرا",
+                  "text": "Plage d'Itsandra شاطئ إتساندرا ist ein Strand in Itsandra.",
+                  "category": "recreational",
+                  "coords": [
+                        43.265897,
+                        -11.673586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage d'Itsandra شاطئ إتساندرا",
+                  "text": "A(z) Plage d'Itsandra شاطئ إتساندرا egy strand Itsandra városában.",
+                  "category": "recreational",
+                  "coords": [
+                        43.265897,
+                        -11.673586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage d'Itsandra شاطئ إتساندرا",
+                  "text": "Plage d'Itsandra شاطئ إتساندرا este o plajă situată în Itsandra.",
+                  "category": "recreational",
+                  "coords": [
+                        43.265897,
+                        -11.673586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage d'Itsandra شاطئ إتساندرا",
+                  "text": "Plage d'Itsandra شاطئ إتساندرا is a beach located in Itsandra.",
+                  "category": "recreational",
+                  "coords": [
+                        43.265897,
+                        -11.673586
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-G",
     coords: [43.2536, -11.6669],
@@ -803,7 +1046,88 @@ export const poiExtraComorosCitiesV2: POI[] = [
     }
   },
   {
-    id: "mirontsi-cities-v2",
+    id: "mirontsi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marahaba Sambi مرحبا سامبي",
+                  "text": "Marahaba Sambi مرحبا سامبي ist ein Aussichtspunkt in Mirontsi.",
+                  "category": "natural",
+                  "coords": [
+                        44.394526,
+                        -12.170152
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "Citadel ist eine Sehenswürdigkeit in Mirontsi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397251,
+                        -12.167076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marahaba Sambi مرحبا سامبي",
+                  "text": "A(z) Marahaba Sambi مرحبا سامبي egy kilátó Mirontsi városában.",
+                  "category": "natural",
+                  "coords": [
+                        44.394526,
+                        -12.170152
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "A(z) Citadel egy látványosság Mirontsi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397251,
+                        -12.167076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marahaba Sambi مرحبا سامبي",
+                  "text": "Marahaba Sambi مرحبا سامبي este un punct de belvedere situat în Mirontsi.",
+                  "category": "natural",
+                  "coords": [
+                        44.394526,
+                        -12.170152
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "Citadel este o atracție situată în Mirontsi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397251,
+                        -12.167076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marahaba Sambi مرحبا سامبي",
+                  "text": "Marahaba Sambi مرحبا سامبي is a viewpoint located in Mirontsi.",
+                  "category": "natural",
+                  "coords": [
+                        44.394526,
+                        -12.170152
+                  ]
+            },
+            {
+                  "name": "Citadel",
+                  "text": "Citadel is an attraction located in Mirontsi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.397251,
+                        -12.167076
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-A",
     coords: [44.4167, -12.1625],
@@ -1054,7 +1378,124 @@ export const poiExtraComorosCitiesV2: POI[] = [
     }
   },
   {
-    id: "mbatse-cities-v2",
+    id: "mbatse-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sambadjou",
+                  "text": "Sambadjou ist ein Strand in Mbatsé.",
+                  "category": "recreational",
+                  "coords": [
+                        43.667894,
+                        -12.348102
+                  ]
+            },
+            {
+                  "name": "cascade",
+                  "text": "cascade ist eine Sehenswürdigkeit in Mbatsé.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674195,
+                        -12.358587
+                  ]
+            },
+            {
+                  "name": "Maison Livingstone",
+                  "text": "Maison Livingstone ist eine Sehenswürdigkeit in Mbatsé.",
+                  "category": "landmark",
+                  "coords": [
+                        43.661429,
+                        -12.328051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sambadjou",
+                  "text": "A(z) Sambadjou egy strand Mbatsé városában.",
+                  "category": "recreational",
+                  "coords": [
+                        43.667894,
+                        -12.348102
+                  ]
+            },
+            {
+                  "name": "cascade",
+                  "text": "A(z) cascade egy látványosság Mbatsé városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674195,
+                        -12.358587
+                  ]
+            },
+            {
+                  "name": "Maison Livingstone",
+                  "text": "A(z) Maison Livingstone egy látványosság Mbatsé városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.661429,
+                        -12.328051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sambadjou",
+                  "text": "Sambadjou este o plajă situată în Mbatsé.",
+                  "category": "recreational",
+                  "coords": [
+                        43.667894,
+                        -12.348102
+                  ]
+            },
+            {
+                  "name": "cascade",
+                  "text": "cascade este o atracție situată în Mbatsé.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674195,
+                        -12.358587
+                  ]
+            },
+            {
+                  "name": "Maison Livingstone",
+                  "text": "Maison Livingstone este o atracție situată în Mbatsé.",
+                  "category": "landmark",
+                  "coords": [
+                        43.661429,
+                        -12.328051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sambadjou",
+                  "text": "Sambadjou is a beach located in Mbatsé.",
+                  "category": "recreational",
+                  "coords": [
+                        43.667894,
+                        -12.348102
+                  ]
+            },
+            {
+                  "name": "cascade",
+                  "text": "cascade is an attraction located in Mbatsé.",
+                  "category": "landmark",
+                  "coords": [
+                        43.674195,
+                        -12.358587
+                  ]
+            },
+            {
+                  "name": "Maison Livingstone",
+                  "text": "Maison Livingstone is an attraction located in Mbatsé.",
+                  "category": "landmark",
+                  "coords": [
+                        43.661429,
+                        -12.328051
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-M",
     coords: [43.6831, -12.3331],
@@ -1481,7 +1922,304 @@ export const poiExtraComorosCitiesV2: POI[] = [
     },
   },
   {
-    id: "mvouni-cities-v2",
+    id: "mvouni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée des Comores متحف جزر القمر",
+                  "text": "Ein Museum in der Nähe von Mvouni.",
+                  "category": "museum",
+                  "coords": [
+                        43.255628,
+                        -11.703178
+                  ]
+            },
+            {
+                  "name": "Vieille ville de Moroni",
+                  "text": "Die historische Altstadt nahe Mvouni.",
+                  "category": "landmark",
+                  "coords": [
+                        43.252802,
+                        -11.704011
+                  ]
+            },
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "Startpunkt des Weges zum Karthala bei Mvouni.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "Ein Kulturzentrum in Mvouni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            },
+            {
+                  "name": "Bangwé Stileza",
+                  "text": "Ein Kulturzentrum in Mvouni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265762,
+                        -11.735436
+                  ]
+            },
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "Ein Kulturzentrum in Mvouni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26537,
+                        -11.733242
+                  ]
+            },
+            {
+                  "name": "Place de l'indépendance ساحة الاستقلال",
+                  "text": "Ein Denkmal auf dem Unabhängigkeitsplatz in Mvouni.",
+                  "category": "historical",
+                  "coords": [
+                        43.252687,
+                        -11.701458
+                  ]
+            },
+            {
+                  "name": "Ancienne Mosquée du Vendredi مسجد الجمعة القديم",
+                  "text": "Eine alte Freitagsmoschee in Mvouni.",
+                  "category": "religious",
+                  "coords": [
+                        43.251572,
+                        -11.703731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Comores متحف جزر القمر",
+                  "text": "Múzeum Mvouni közelében.",
+                  "category": "museum",
+                  "coords": [
+                        43.255628,
+                        -11.703178
+                  ]
+            },
+            {
+                  "name": "Vieille ville de Moroni",
+                  "text": "Történelmi óváros Mvouni közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.252802,
+                        -11.704011
+                  ]
+            },
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "A Karthalára vezető út kiindulópontja Mvouninál.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "Kulturális központ Mvouniban.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            },
+            {
+                  "name": "Bangwé Stileza",
+                  "text": "Kulturális központ Mvouniban.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265762,
+                        -11.735436
+                  ]
+            },
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "Kulturális központ Mvouniban.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26537,
+                        -11.733242
+                  ]
+            },
+            {
+                  "name": "Place de l'indépendance ساحة الاستقلال",
+                  "text": "Emlékmű Mvouni függetlenségi terén.",
+                  "category": "historical",
+                  "coords": [
+                        43.252687,
+                        -11.701458
+                  ]
+            },
+            {
+                  "name": "Ancienne Mosquée du Vendredi مسجد الجمعة القديم",
+                  "text": "Régi pénteki mecset Mvouniban.",
+                  "category": "religious",
+                  "coords": [
+                        43.251572,
+                        -11.703731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Comores متحف جزر القمر",
+                  "text": "Un muzeu în apropiere de Mvouni.",
+                  "category": "museum",
+                  "coords": [
+                        43.255628,
+                        -11.703178
+                  ]
+            },
+            {
+                  "name": "Vieille ville de Moroni",
+                  "text": "Centrul istoric vechi de lângă Mvouni.",
+                  "category": "landmark",
+                  "coords": [
+                        43.252802,
+                        -11.704011
+                  ]
+            },
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "Punctul de plecare al drumului către Karthala de lângă Mvouni.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "Un centru cultural în Mvouni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            },
+            {
+                  "name": "Bangwé Stileza",
+                  "text": "Un centru cultural în Mvouni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265762,
+                        -11.735436
+                  ]
+            },
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "Un centru cultural în Mvouni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26537,
+                        -11.733242
+                  ]
+            },
+            {
+                  "name": "Place de l'indépendance ساحة الاستقلال",
+                  "text": "Un monument în Piața Independenței din Mvouni.",
+                  "category": "historical",
+                  "coords": [
+                        43.252687,
+                        -11.701458
+                  ]
+            },
+            {
+                  "name": "Ancienne Mosquée du Vendredi مسجد الجمعة القديم",
+                  "text": "O veche moschee de vineri în Mvouni.",
+                  "category": "religious",
+                  "coords": [
+                        43.251572,
+                        -11.703731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des Comores متحف جزر القمر",
+                  "text": "A museum near Mvouni.",
+                  "category": "museum",
+                  "coords": [
+                        43.255628,
+                        -11.703178
+                  ]
+            },
+            {
+                  "name": "Vieille ville de Moroni",
+                  "text": "The historic old town near Mvouni.",
+                  "category": "landmark",
+                  "coords": [
+                        43.252802,
+                        -11.704011
+                  ]
+            },
+            {
+                  "name": "Starting Point Road to Karthala (380 m)",
+                  "text": "Starting point of the road to Karthala near Mvouni.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "A cultural centre in Mvouni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            },
+            {
+                  "name": "Bangwé Stileza",
+                  "text": "A cultural centre in Mvouni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265762,
+                        -11.735436
+                  ]
+            },
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "A cultural centre in Mvouni.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26537,
+                        -11.733242
+                  ]
+            },
+            {
+                  "name": "Place de l'indépendance ساحة الاستقلال",
+                  "text": "A monument in the Independence Square of Mvouni.",
+                  "category": "historical",
+                  "coords": [
+                        43.252687,
+                        -11.701458
+                  ]
+            },
+            {
+                  "name": "Ancienne Mosquée du Vendredi مسجد الجمعة القديم",
+                  "text": "An old Friday mosque in Mvouni.",
+                  "category": "religious",
+                  "coords": [
+                        43.251572,
+                        -11.703731
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-G",
     coords: [43.275, -11.7167],
@@ -1525,7 +2263,160 @@ export const poiExtraComorosCitiesV2: POI[] = [
     },
   },
   {
-    id: "selea-cities-v2",
+    id: "selea-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "Dieser Ort in Selea markiert den Startpunkt der Attraktion für den Weg zum Karthala.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "Das Centre Barakat ist ein Kunstzentrum in der Stadt Selea.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            },
+            {
+                  "name": "Bangwé Stileza",
+                  "text": "Bangwé Stileza dient als lokales Kunstzentrum für die Gemeinde Selea.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265762,
+                        -11.735436
+                  ]
+            },
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "Das in Selea gelegene Bangwé Boustoine fungiert als Kunstzentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26537,
+                        -11.733242
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "Ez a hely Seleában a Karthala felé vezető út kiindulópontját jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "A Centre Barakat egy művészeti központ Selea városában.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            },
+            {
+                  "name": "Bangwé Stileza",
+                  "text": "A Bangwé Stileza egy helyi művészeti központ Selea közössége számára.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265762,
+                        -11.735436
+                  ]
+            },
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "A Seleában található Bangwé Boustoine művészeti központként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26537,
+                        -11.733242
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "Această locație din Selea marchează punctul de atracție de pornire pentru drumul către Karthala.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "Centre Barakat este un centru de arte din orașul Selea.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            },
+            {
+                  "name": "Bangwé Stileza",
+                  "text": "Bangwé Stileza servește ca un centru de arte local pentru comunitatea din Selea.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265762,
+                        -11.735436
+                  ]
+            },
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "Situat în Selea, Bangwé Boustoine funcționează ca un centru pentru arte.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26537,
+                        -11.733242
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Starting Point Road to Karthala (380 m)",
+                  "text": "This location in Selea marks the starting attraction point for the road to Karthala.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            },
+            {
+                  "name": "Centre Barakat",
+                  "text": "Centre Barakat is a designated arts centre in the city of Selea.",
+                  "category": "cultural",
+                  "coords": [
+                        43.269507,
+                        -11.733606
+                  ]
+            },
+            {
+                  "name": "Bangwé Stileza",
+                  "text": "Bangwé Stileza serves as a local arts centre for the community of Selea.",
+                  "category": "cultural",
+                  "coords": [
+                        43.265762,
+                        -11.735436
+                  ]
+            },
+            {
+                  "name": "Bangwé Boustoine",
+                  "text": "Located in Selea, Bangwé Boustoine operates as a centre for the arts.",
+                  "category": "cultural",
+                  "coords": [
+                        43.26537,
+                        -11.733242
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-G",
     coords: [43.2833, -11.75],
@@ -1613,7 +2504,52 @@ export const poiExtraComorosCitiesV2: POI[] = [
     },
   },
   {
-    id: "vouvouni-cities-v2",
+    id: "vouvouni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "Startpunkt des Weges zum Karthala bei Vouvouni.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "A Karthalára vezető út kiindulópontja Vouvouninál.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Route du point de départ vers Karthala (380 m)",
+                  "text": "Punctul de plecare al drumului către Karthala de lângă Vouvouni.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Starting Point Road to Karthala (380 m)",
+                  "text": "Starting point of the road to Karthala near Vouvouni.",
+                  "category": "landmark",
+                  "coords": [
+                        43.275659,
+                        -11.724271
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-G",
     coords: [43.3, -11.7333],
@@ -1921,7 +2857,52 @@ export const poiExtraComorosCitiesV2: POI[] = [
     },
   },
   {
-    id: "moidzaza-cities-v2",
+    id: "moidzaza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baobab",
+                  "text": "Der Baobab ist eine Naturattraktion in der Stadt Moidzaza.",
+                  "category": "landmark",
+                  "coords": [
+                        43.434127,
+                        -11.718391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baobab",
+                  "text": "A Baobab egy természeti látványosság Moidzaza városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.434127,
+                        -11.718391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baobab",
+                  "text": "Baobabul este o atracție naturală care se găsește în orașul Moidzaza.",
+                  "category": "landmark",
+                  "coords": [
+                        43.434127,
+                        -11.718391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baobab",
+                  "text": "The Baobab is a natural attraction found in the city of Moidzaza.",
+                  "category": "landmark",
+                  "coords": [
+                        43.434127,
+                        -11.718391
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KM-G",
     coords: [43.45, -11.7],

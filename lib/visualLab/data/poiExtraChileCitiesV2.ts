@@ -43,7 +43,340 @@ export const poiExtraChileCitiesV2: POI[] = [
     },
      image: "/poi-images/santiago-cities-v2.webp"},
   {
-    id: "puente-alto-cities-v2",
+    id: "puente-alto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Theater in Puente Alto.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "Museum in Puente Alto.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Gipfel in Puente Alto.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "Park in Puente Alto.",
+                  "category": "park",
+                  "coords": [
+                        -70.576374,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Denkmal in Puente Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Salas de Degustación y Catas",
+                  "text": "Verkostungsbereich in Puente Alto.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.57514,
+                        -33.632565
+                  ]
+            },
+            {
+                  "name": "Monumento Castellón",
+                  "text": "Ruinen des Monumento Castellón in Puente Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.575853,
+                        -33.598475
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "Herrenhaus in Puente Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574548,
+                        -33.63425
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Kunstzentrum in Puente Alto.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548904,
+                        -33.611051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Színház Puente Altóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "Múzeum Puente Altóban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Hegycsúcs Puente Altóban.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "Park Puente Altóban.",
+                  "category": "park",
+                  "coords": [
+                        -70.576374,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Emlékmű Puente Altóban.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Salas de Degustación y Catas",
+                  "text": "Kóstolóhely Puente Altóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.57514,
+                        -33.632565
+                  ]
+            },
+            {
+                  "name": "Monumento Castellón",
+                  "text": "A Monumento Castellón romjai Puente Altóban.",
+                  "category": "historical",
+                  "coords": [
+                        -70.575853,
+                        -33.598475
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "Kúria Puente Altóban.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574548,
+                        -33.63425
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Művészeti központ Puente Altóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548904,
+                        -33.611051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Teatru în Puente Alto.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "Muzeu în Puente Alto.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Vârf în Puente Alto.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "Parc în Puente Alto.",
+                  "category": "park",
+                  "coords": [
+                        -70.576374,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Monument în Puente Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Salas de Degustación y Catas",
+                  "text": "Loc de degustare în Puente Alto.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.57514,
+                        -33.632565
+                  ]
+            },
+            {
+                  "name": "Monumento Castellón",
+                  "text": "Ruinele Monumento Castellón în Puente Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.575853,
+                        -33.598475
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "Conac în Puente Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574548,
+                        -33.63425
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Centru cultural în Puente Alto.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548904,
+                        -33.611051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Palermo",
+                  "text": "Theatre in Puente Alto.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.576205,
+                        -33.610228
+                  ]
+            },
+            {
+                  "name": "Bodega Casillero del Diablo",
+                  "text": "Museum in Puente Alto.",
+                  "category": "museum",
+                  "coords": [
+                        -70.576147,
+                        -33.634687
+                  ]
+            },
+            {
+                  "name": "Cerro Las Cabras",
+                  "text": "Peak in Puente Alto.",
+                  "category": "natural",
+                  "coords": [
+                        -70.603039,
+                        -33.625145
+                  ]
+            },
+            {
+                  "name": "Plaza Elvira Matte",
+                  "text": "Park in Puente Alto.",
+                  "category": "park",
+                  "coords": [
+                        -70.576374,
+                        -33.585878
+                  ]
+            },
+            {
+                  "name": "Entrada Ex Regimiento",
+                  "text": "Monument in Puente Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574141,
+                        -33.612472
+                  ]
+            },
+            {
+                  "name": "Salas de Degustación y Catas",
+                  "text": "Tasting area in Puente Alto.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.57514,
+                        -33.632565
+                  ]
+            },
+            {
+                  "name": "Monumento Castellón",
+                  "text": "Ruins of Monumento Castellón in Puente Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.575853,
+                        -33.598475
+                  ]
+            },
+            {
+                  "name": "Casa Don Melchor",
+                  "text": "Manor in Puente Alto.",
+                  "category": "historical",
+                  "coords": [
+                        -70.574548,
+                        -33.63425
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Puente Alto",
+                  "text": "Arts centre in Puente Alto.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.548904,
+                        -33.611051
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CL-RM",
     coords: [-70.5753, -33.6117],
@@ -86,7 +419,268 @@ export const poiExtraChileCitiesV2: POI[] = [
     },
      image: "/poi-images/puente-alto-cities-v2.webp"},
   {
-    id: "maipu-cities-v2",
+    id: "maipu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Carmen",
+                  "text": "Museo del Carmen ist ein bemerkenswertes Museum in Maipú. Es bewahrt historische Sammlungen zur Geschichte Chiles und der Schlacht von Maipú.",
+                  "category": "museum",
+                  "coords": [
+                        -70.766225,
+                        -33.510568
+                  ]
+            },
+            {
+                  "name": "Museo del Agua SMAPA",
+                  "text": "Museo del Agua SMAPA ist ein Museum in der Stadt Maipú.",
+                  "category": "museum",
+                  "coords": [
+                        -70.74748,
+                        -33.508434
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Maipú",
+                  "text": "Teatro Municipal de Maipú ist ein Theater in der Stadt Maipú.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.756815,
+                        -33.508764
+                  ]
+            },
+            {
+                  "name": "Quinta Las Rosas de Maipú",
+                  "text": "Quinta Las Rosas de Maipú ist ein Denkmal in der Stadt Maipú.",
+                  "category": "historical",
+                  "coords": [
+                        -70.757977,
+                        -33.493295
+                  ]
+            },
+            {
+                  "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
+                  "text": "Casa Taller Museo Sonoro Organológico (MUSO) ist ein Kunstzentrum in der Stadt Maipú.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.779343,
+                        -33.513122
+                  ]
+            },
+            {
+                  "name": "Excapilla de La Victoria",
+                  "text": "Excapilla de La Victoria ist eine historische Ruine in der Stadt Maipú.",
+                  "category": "historical",
+                  "coords": [
+                        -70.764019,
+                        -33.510742
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Parroquia Nuestra Señora del Carmen ist eine bedeutende Kultstätte in Maipú. Die Pfarrei ist historisch mit der alten Siegeskapelle in der Region verbunden.",
+                  "category": "religious",
+                  "coords": [
+                        -70.758493,
+                        -33.511524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Carmen",
+                  "text": "A Museo del Carmen egy jelentős múzeum Maipúban. Chile történelmével és a maipúi csatával kapcsolatos történelmi gyűjteményeket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -70.766225,
+                        -33.510568
+                  ]
+            },
+            {
+                  "name": "Museo del Agua SMAPA",
+                  "text": "A Museo del Agua SMAPA egy múzeum Maipú városában.",
+                  "category": "museum",
+                  "coords": [
+                        -70.74748,
+                        -33.508434
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Maipú",
+                  "text": "A Teatro Municipal de Maipú egy színház Maipú városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.756815,
+                        -33.508764
+                  ]
+            },
+            {
+                  "name": "Quinta Las Rosas de Maipú",
+                  "text": "A Quinta Las Rosas de Maipú egy emlékmű Maipú városában.",
+                  "category": "historical",
+                  "coords": [
+                        -70.757977,
+                        -33.493295
+                  ]
+            },
+            {
+                  "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
+                  "text": "A Casa Taller Museo Sonoro Organológico (MUSO) egy művészeti központ Maipú városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.779343,
+                        -33.513122
+                  ]
+            },
+            {
+                  "name": "Excapilla de La Victoria",
+                  "text": "Az Excapilla de La Victoria egy történelmi rom Maipú városában.",
+                  "category": "historical",
+                  "coords": [
+                        -70.764019,
+                        -33.510742
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "A Parroquia Nuestra Señora del Carmen egy jelentős istentiszteleti hely Maipúban. A plébánia történelmileg a régió egykori Győzelem Kápolnájához kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        -70.758493,
+                        -33.511524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Carmen",
+                  "text": "Museo del Carmen este un muzeu notabil situat în Maipú. Păstrează colecții istorice legate de istoria statului Chile și de Bătălia de la Maipú.",
+                  "category": "museum",
+                  "coords": [
+                        -70.766225,
+                        -33.510568
+                  ]
+            },
+            {
+                  "name": "Museo del Agua SMAPA",
+                  "text": "Museo del Agua SMAPA este un muzeu situat în orașul Maipú.",
+                  "category": "museum",
+                  "coords": [
+                        -70.74748,
+                        -33.508434
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Maipú",
+                  "text": "Teatro Municipal de Maipú este un teatru situat în orașul Maipú.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.756815,
+                        -33.508764
+                  ]
+            },
+            {
+                  "name": "Quinta Las Rosas de Maipú",
+                  "text": "Quinta Las Rosas de Maipú este un monument situat în orașul Maipú.",
+                  "category": "historical",
+                  "coords": [
+                        -70.757977,
+                        -33.493295
+                  ]
+            },
+            {
+                  "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
+                  "text": "Casa Taller Museo Sonoro Organológico (MUSO) este un centru de arte situat în orașul Maipú.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.779343,
+                        -33.513122
+                  ]
+            },
+            {
+                  "name": "Excapilla de La Victoria",
+                  "text": "Excapilla de La Victoria este o ruină istorică situată în orașul Maipú.",
+                  "category": "historical",
+                  "coords": [
+                        -70.764019,
+                        -33.510742
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Parroquia Nuestra Señora del Carmen este un lăcaș de cult notabil situat în Maipú. Parohia este legată istoric de fosta Capelă a Victoriei din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -70.758493,
+                        -33.511524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Carmen",
+                  "text": "Museo del Carmen is a notable museum located in Maipú. It preserves historical collections related to the history of Chile and the Battle of Maipú.",
+                  "category": "museum",
+                  "coords": [
+                        -70.766225,
+                        -33.510568
+                  ]
+            },
+            {
+                  "name": "Museo del Agua SMAPA",
+                  "text": "Museo del Agua SMAPA is a museum located in the city of Maipú.",
+                  "category": "museum",
+                  "coords": [
+                        -70.74748,
+                        -33.508434
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Maipú",
+                  "text": "Teatro Municipal de Maipú is a theatre located in the city of Maipú.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.756815,
+                        -33.508764
+                  ]
+            },
+            {
+                  "name": "Quinta Las Rosas de Maipú",
+                  "text": "Quinta Las Rosas de Maipú is a monument located in the city of Maipú.",
+                  "category": "historical",
+                  "coords": [
+                        -70.757977,
+                        -33.493295
+                  ]
+            },
+            {
+                  "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
+                  "text": "Casa Taller Museo Sonoro Organológico (MUSO) is an arts centre located in the city of Maipú.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.779343,
+                        -33.513122
+                  ]
+            },
+            {
+                  "name": "Excapilla de La Victoria",
+                  "text": "Excapilla de La Victoria is a historical ruin located in the city of Maipú.",
+                  "category": "historical",
+                  "coords": [
+                        -70.764019,
+                        -33.510742
+                  ]
+            },
+            {
+                  "name": "Parroquia Nuestra Señora del Carmen",
+                  "text": "Parroquia Nuestra Señora del Carmen is a notable place of worship located in Maipú. The parish is historically linked to the ancient Chapel of Victory in the region.",
+                  "category": "religious",
+                  "coords": [
+                        -70.758493,
+                        -33.511524
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CL-RM",
     coords: [-70.7578, -33.5100],
@@ -129,7 +723,268 @@ export const poiExtraChileCitiesV2: POI[] = [
     },
      image: "/poi-images/maipu-cities-v2.webp"},
   {
-    id: "la-florida-cities-v2",
+    id: "la-florida-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Santa Rosa",
+                  "text": "Cerro Santa Rosa ist ein markanter Berggipfel in La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530297,
+                        -33.545
+                  ]
+            },
+            {
+                  "name": "Casa de Los Niños",
+                  "text": "Casa de Los Niños ist eine interessante Attraktion in La Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.528143,
+                        -33.534365
+                  ]
+            },
+            {
+                  "name": "Mirador Falla de Ramón",
+                  "text": "Mirador Falla de Ramón ist ein malerischer Aussichtspunkt in La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.520721,
+                        -33.542082
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Santa Rosa",
+                  "text": "Mirador Cerro Santa Rosa bietet eine Panoramaaussicht in La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.535583,
+                        -33.539893
+                  ]
+            },
+            {
+                  "name": "Mirador de La Cruz",
+                  "text": "Mirador de La Cruz ist ein schöner Aussichtspunkt über La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.517083,
+                        -33.532792
+                  ]
+            },
+            {
+                  "name": "Mirador de La Casita",
+                  "text": "Mirador de La Casita ist ein beliebter Aussichtspunkt in La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.509162,
+                        -33.528345
+                  ]
+            },
+            {
+                  "name": "Mirador Sendero de Chile",
+                  "text": "Mirador Sendero de Chile bietet eine schöne Aussicht in La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.5127,
+                        -33.533396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Santa Rosa",
+                  "text": "A Cerro Santa Rosa egy kiemelkedő hegycsúcs La Floridában.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530297,
+                        -33.545
+                  ]
+            },
+            {
+                  "name": "Casa de Los Niños",
+                  "text": "A Casa de Los Niños egy érdekes látványosság La Floridában.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.528143,
+                        -33.534365
+                  ]
+            },
+            {
+                  "name": "Mirador Falla de Ramón",
+                  "text": "A Mirador Falla de Ramón egy festői kilátó La Floridában.",
+                  "category": "natural",
+                  "coords": [
+                        -70.520721,
+                        -33.542082
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Santa Rosa",
+                  "text": "A Mirador Cerro Santa Rosa panorámás kilátást nyújt La Floridában.",
+                  "category": "natural",
+                  "coords": [
+                        -70.535583,
+                        -33.539893
+                  ]
+            },
+            {
+                  "name": "Mirador de La Cruz",
+                  "text": "A Mirador de La Cruz egy gyönyörű kilátó La Floridában.",
+                  "category": "natural",
+                  "coords": [
+                        -70.517083,
+                        -33.532792
+                  ]
+            },
+            {
+                  "name": "Mirador de La Casita",
+                  "text": "A Mirador de La Casita egy népszerű megfigyelőpont La Floridában.",
+                  "category": "natural",
+                  "coords": [
+                        -70.509162,
+                        -33.528345
+                  ]
+            },
+            {
+                  "name": "Mirador Sendero de Chile",
+                  "text": "A Mirador Sendero de Chile festői kilátást kínál La Floridában.",
+                  "category": "natural",
+                  "coords": [
+                        -70.5127,
+                        -33.533396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Santa Rosa",
+                  "text": "Cerro Santa Rosa este un vârf de munte proeminent situat în La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530297,
+                        -33.545
+                  ]
+            },
+            {
+                  "name": "Casa de Los Niños",
+                  "text": "Casa de Los Niños este o atracție interesantă din La Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.528143,
+                        -33.534365
+                  ]
+            },
+            {
+                  "name": "Mirador Falla de Ramón",
+                  "text": "Mirador Falla de Ramón este un punct de belvedere pitoresc situat în La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.520721,
+                        -33.542082
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Santa Rosa",
+                  "text": "Mirador Cerro Santa Rosa oferă vederi panoramice în La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.535583,
+                        -33.539893
+                  ]
+            },
+            {
+                  "name": "Mirador de La Cruz",
+                  "text": "Mirador de La Cruz este un punct de belvedere frumos cu vedere spre La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.517083,
+                        -33.532792
+                  ]
+            },
+            {
+                  "name": "Mirador de La Casita",
+                  "text": "Mirador de La Casita este un punct de observație popular din La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.509162,
+                        -33.528345
+                  ]
+            },
+            {
+                  "name": "Mirador Sendero de Chile",
+                  "text": "Mirador Sendero de Chile oferă priveliști pitorești în La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.5127,
+                        -33.533396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Santa Rosa",
+                  "text": "Cerro Santa Rosa is a prominent mountain peak located in La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.530297,
+                        -33.545
+                  ]
+            },
+            {
+                  "name": "Casa de Los Niños",
+                  "text": "Casa de Los Niños is an interesting attraction located in La Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.528143,
+                        -33.534365
+                  ]
+            },
+            {
+                  "name": "Mirador Falla de Ramón",
+                  "text": "Mirador Falla de Ramón is a scenic viewpoint situated in La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.520721,
+                        -33.542082
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Santa Rosa",
+                  "text": "Mirador Cerro Santa Rosa offers panoramic views in La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.535583,
+                        -33.539893
+                  ]
+            },
+            {
+                  "name": "Mirador de La Cruz",
+                  "text": "Mirador de La Cruz is a beautiful viewpoint overlooking La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.517083,
+                        -33.532792
+                  ]
+            },
+            {
+                  "name": "Mirador de La Casita",
+                  "text": "Mirador de La Casita is a popular observation point in La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.509162,
+                        -33.528345
+                  ]
+            },
+            {
+                  "name": "Mirador Sendero de Chile",
+                  "text": "Mirador Sendero de Chile offers scenic vistas located in La Florida.",
+                  "category": "natural",
+                  "coords": [
+                        -70.5127,
+                        -33.533396
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CL-RM",
     coords: [-70.5258, -33.5256],

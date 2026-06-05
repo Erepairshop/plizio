@@ -65,7 +65,160 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       en: ["Manama was first mentioned in Islamic chronicles in the year 1345.", "The city’s financial sector contributes over 17% to Bahrain's total GDP.", "Manama is home to the Bahrain International Investment Park (BIIP).", "The Al Fateh Grand Mosque's dome is made entirely of fiberglass and weighs 60 tons.", "Manama was occupied by the Portuguese for a short period in the 16th century.", "The city features the 'Avenue of Palms', a historic road lined with indigenous date palms.", "Reef Island is an artificial island covering 579,000 square meters off the coast of Manama.", "The Bahrain National Theatre in Manama is the third largest theatre in the Arab world."],
     }, image: "/poi-images/manama-cities-v2.webp"},
   {
-    id: "riffa-cities-v2",
+    id: "riffa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rifa Fort",
+                  "text": "Das Rifa Fort ist eine historische Festung in der bahrainischen Stadt Riffa.",
+                  "category": "fortress",
+                  "coords": [
+                        50.56295,
+                        26.117821
+                  ]
+            },
+            {
+                  "name": "المتحف العسكري",
+                  "text": "Das Military Museum ist ein Museum in Riffa.",
+                  "category": "museum",
+                  "coords": [
+                        50.562923,
+                        26.12001
+                  ]
+            },
+            {
+                  "name": "تجربة",
+                  "text": "تجربة ist ein Aussichtspunkt in Riffa.",
+                  "category": "natural",
+                  "coords": [
+                        50.535595,
+                        26.121739
+                  ]
+            },
+            {
+                  "name": "YQ Art Center",
+                  "text": "Das YQ Art Center ist ein Kunstzentrum in Riffa.",
+                  "category": "cultural",
+                  "coords": [
+                        50.56374,
+                        26.136601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rifa Fort",
+                  "text": "A Rifa Fort egy történelmi erőd a bahreini Riffa városában.",
+                  "category": "fortress",
+                  "coords": [
+                        50.56295,
+                        26.117821
+                  ]
+            },
+            {
+                  "name": "المتحف العسكري",
+                  "text": "A Military Museum egy múzeum Riffában.",
+                  "category": "museum",
+                  "coords": [
+                        50.562923,
+                        26.12001
+                  ]
+            },
+            {
+                  "name": "تجربة",
+                  "text": "A تجربة egy kilátó Riffában.",
+                  "category": "natural",
+                  "coords": [
+                        50.535595,
+                        26.121739
+                  ]
+            },
+            {
+                  "name": "YQ Art Center",
+                  "text": "Az YQ Art Center egy művészeti központ Riffában.",
+                  "category": "cultural",
+                  "coords": [
+                        50.56374,
+                        26.136601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rifa Fort",
+                  "text": "Fortul Rifa este o fortăreață istorică din orașul Riffa.",
+                  "category": "fortress",
+                  "coords": [
+                        50.56295,
+                        26.117821
+                  ]
+            },
+            {
+                  "name": "المتحف العسكري",
+                  "text": "Military Museum este un muzeu în Riffa.",
+                  "category": "museum",
+                  "coords": [
+                        50.562923,
+                        26.12001
+                  ]
+            },
+            {
+                  "name": "تجربة",
+                  "text": "تجربة este un punct de belvedere în Riffa.",
+                  "category": "natural",
+                  "coords": [
+                        50.535595,
+                        26.121739
+                  ]
+            },
+            {
+                  "name": "YQ Art Center",
+                  "text": "YQ Art Center este un centru de artă în Riffa.",
+                  "category": "cultural",
+                  "coords": [
+                        50.56374,
+                        26.136601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rifa Fort",
+                  "text": "Riffa Fort is a historic fort located in the city of Riffa.",
+                  "category": "fortress",
+                  "coords": [
+                        50.56295,
+                        26.117821
+                  ]
+            },
+            {
+                  "name": "Military Museum",
+                  "text": "The Military Museum is a museum in Riffa.",
+                  "category": "museum",
+                  "coords": [
+                        50.562923,
+                        26.12001
+                  ]
+            },
+            {
+                  "name": "تجربة",
+                  "text": "تجربة is a viewpoint in Riffa.",
+                  "category": "natural",
+                  "coords": [
+                        50.535595,
+                        26.121739
+                  ]
+            },
+            {
+                  "name": "YQ Art Center",
+                  "text": "The YQ Art Center is an arts centre in Riffa.",
+                  "category": "cultural",
+                  "coords": [
+                        50.56374,
+                        26.136601
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-14",
     coords: [50.555, 26.13],
@@ -211,7 +364,304 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/muharraq-cities-v2.webp"},
   {
-    id: "hamad-town-cities-v2",
+    id: "hamad-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "نواف",
+                  "text": "Das Nawaf-Museum in Hamad Town präsentiert lokale Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "Das Grabhügelfeld von Madinat Hamad 1 ist eine bedeutende archäologische Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "Die A'ali-Grabhügel sind eine bekannte archäologische Stätte in der Nähe von Hamad Town.",
+                  "category": "historical",
+                  "coords": [
+                        50.510566,
+                        26.148186
+                  ]
+            },
+            {
+                  "name": "تجربة",
+                  "text": "Dieser Aussichtspunkt in Hamad Town bietet einen Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        50.535595,
+                        26.121739
+                  ]
+            },
+            {
+                  "name": "Bait Ishaq بيت إسحاق",
+                  "text": "Bait Ishaq in Hamad Town ist ein interessanter kultureller Anziehungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "Dakar 6 دوار ٦",
+                  "text": "Der Kreisverkehr 6 ist eine lokale Sehenswürdigkeit in Hamad Town.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502912,
+                        26.12012
+                  ]
+            },
+            {
+                  "name": "دوار 14",
+                  "text": "Der Kreisverkehr 14 ist eine lokale Sehenswürdigkeit in Hamad Town.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            },
+            {
+                  "name": "سوق الفخار",
+                  "text": "Der Töpfermarkt ist ein beliebter Aussichtspunkt in Hamad Town.",
+                  "category": "natural",
+                  "coords": [
+                        50.508569,
+                        26.140513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "نواف",
+                  "text": "A Hamad Town-i Nawaf Múzeum helyi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "A Madinat Hamad 1-es sírdombmező jelentős régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "Az A'ali sírdombok egy ismert régészeti lelőhely Hamad Town közelében.",
+                  "category": "historical",
+                  "coords": [
+                        50.510566,
+                        26.148186
+                  ]
+            },
+            {
+                  "name": "تجربة",
+                  "text": "Ez a Hamad Town-i kilátópont rálátást biztosít a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        50.535595,
+                        26.121739
+                  ]
+            },
+            {
+                  "name": "Bait Ishaq بيت إسحاق",
+                  "text": "A Hamad Town-i Bait Ishaq egy érdekes kulturális látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "Dakar 6 دوار ٦",
+                  "text": "A 6-os körforgalom egy helyi látnivaló Hamad Townban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502912,
+                        26.12012
+                  ]
+            },
+            {
+                  "name": "دوار 14",
+                  "text": "A 14-es körforgalom egy helyi látnivaló Hamad Townban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            },
+            {
+                  "name": "سوق الفخار",
+                  "text": "A fazekaspiac egy népszerű kilátópont Hamad Townban.",
+                  "category": "natural",
+                  "coords": [
+                        50.508569,
+                        26.140513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "نواف",
+                  "text": "Muzeul Nawaf din Hamad Town prezintă expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "Câmpul tumular din Madinat Hamad 1 este un sit arheologic important.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "Tumulii A'ali sunt un sit arheologic cunoscut în apropiere de Hamad Town.",
+                  "category": "historical",
+                  "coords": [
+                        50.510566,
+                        26.148186
+                  ]
+            },
+            {
+                  "name": "تجربة",
+                  "text": "Acest punct de belvedere din Hamad Town oferă o vedere asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        50.535595,
+                        26.121739
+                  ]
+            },
+            {
+                  "name": "Bait Ishaq بيت إسحاق",
+                  "text": "Bait Ishaq din Hamad Town este un punct de atracție cultural interesant.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "Dakar 6 دوار ٦",
+                  "text": "Sensul giratoriu 6 este o atracție locală în Hamad Town.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502912,
+                        26.12012
+                  ]
+            },
+            {
+                  "name": "دوار 14",
+                  "text": "Sensul giratoriu 14 este o atracție locală în Hamad Town.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            },
+            {
+                  "name": "سوق الفخار",
+                  "text": "Piața de olărit este un punct de belvedere popular în Hamad Town.",
+                  "category": "natural",
+                  "coords": [
+                        50.508569,
+                        26.140513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "nawaf",
+                  "text": "The Nawaf Museum in Hamad Town presents local exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "The Madinat Hamad 1 burial mound field is a significant archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "The A'ali burial mounds are a well-known archaeological site near Hamad Town.",
+                  "category": "historical",
+                  "coords": [
+                        50.510566,
+                        26.148186
+                  ]
+            },
+            {
+                  "name": "تجربة",
+                  "text": "This viewpoint in Hamad Town offers a view of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        50.535595,
+                        26.121739
+                  ]
+            },
+            {
+                  "name": "Bait Ishaq بيت إسحاق",
+                  "text": "Bait Ishaq in Hamad Town is an interesting cultural attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "Roundabout 6",
+                  "text": "Roundabout 6 is a local attraction in Hamad Town.",
+                  "category": "landmark",
+                  "coords": [
+                        50.502912,
+                        26.12012
+                  ]
+            },
+            {
+                  "name": "Roundabout 14",
+                  "text": "Roundabout 14 is a local attraction in Hamad Town.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            },
+            {
+                  "name": "سوق الفخار",
+                  "text": "The pottery market is a popular viewpoint in Hamad Town.",
+                  "category": "natural",
+                  "coords": [
+                        50.508569,
+                        26.140513
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-17",
     coords: [50.5069, 26.1152],
@@ -284,7 +734,268 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/hamad-town-cities-v2.webp"},
   {
-    id: "a-ali-cities-v2",
+    id: "a-ali-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "Das Madinat Hamad 1 Burial Mound Field ist eine archäologische Stätte in der Stadt A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "Royal Mound 15",
+                  "text": "Der Royal Mound 15 ist eine archäologische Stätte in A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.514691,
+                        26.156499
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "Die A'ali Burial Mounds sind eine archäologische Stätte in A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.510566,
+                        26.148186
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "Der Royal Mound 2 ist eine archäologische Stätte in A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.514909,
+                        26.159904
+                  ]
+            },
+            {
+                  "name": "سوق الفخار",
+                  "text": "سوق الفخار ist ein Aussichtspunkt in A'ali.",
+                  "category": "natural",
+                  "coords": [
+                        50.508569,
+                        26.140513
+                  ]
+            },
+            {
+                  "name": "منزل زين العابدين-  عالي",
+                  "text": "منزل زين العابدين- عالي ist ein Aussichtspunkt in A'ali.",
+                  "category": "natural",
+                  "coords": [
+                        50.532506,
+                        26.148586
+                  ]
+            },
+            {
+                  "name": "Burial mound",
+                  "text": "Der Burial mound ist eine lokale Sehenswürdigkeit in A'ali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "A Madinat Hamad 1 Burial Mound Field egy régészeti lelőhely A'ali városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "Royal Mound 15",
+                  "text": "A Royal Mound 15 egy régészeti lelőhely A'aliban.",
+                  "category": "historical",
+                  "coords": [
+                        50.514691,
+                        26.156499
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "Az A'ali Burial Mounds egy régészeti lelőhely A'aliban.",
+                  "category": "historical",
+                  "coords": [
+                        50.510566,
+                        26.148186
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "A Royal Mound 2 egy régészeti lelőhely A'aliban.",
+                  "category": "historical",
+                  "coords": [
+                        50.514909,
+                        26.159904
+                  ]
+            },
+            {
+                  "name": "سوق الفخار",
+                  "text": "A سوق الفخار egy kilátó A'aliban.",
+                  "category": "natural",
+                  "coords": [
+                        50.508569,
+                        26.140513
+                  ]
+            },
+            {
+                  "name": "منزل زين العابدين-  عالي",
+                  "text": "A منزل زين العابدين- عالي egy kilátó A'aliban.",
+                  "category": "natural",
+                  "coords": [
+                        50.532506,
+                        26.148586
+                  ]
+            },
+            {
+                  "name": "Burial mound",
+                  "text": "A Burial mound egy helyi látványosság A'aliban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "Madinat Hamad 1 Burial Mound Field este un sit arheologic din orașul A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "Royal Mound 15",
+                  "text": "Royal Mound 15 este un sit arheologic în A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.514691,
+                        26.156499
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "A'ali Burial Mounds reprezintă un sit arheologic în A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.510566,
+                        26.148186
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "Royal Mound 2 este un sit arheologic în A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.514909,
+                        26.159904
+                  ]
+            },
+            {
+                  "name": "سوق الفخار",
+                  "text": "سوق الفخار este un punct de belvedere în A'ali.",
+                  "category": "natural",
+                  "coords": [
+                        50.508569,
+                        26.140513
+                  ]
+            },
+            {
+                  "name": "منزل زين العابدين-  عالي",
+                  "text": "منزل زين العابدين- عالي este un punct de belvedere în A'ali.",
+                  "category": "natural",
+                  "coords": [
+                        50.532506,
+                        26.148586
+                  ]
+            },
+            {
+                  "name": "Burial mound",
+                  "text": "Burial mound este o atracție locală din A'ali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madinat Hamad 1 Burial Mound Field",
+                  "text": "Madinat Hamad 1 Burial Mound Field is an archaeological site in the city of A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.503221,
+                        26.140318
+                  ]
+            },
+            {
+                  "name": "Royal Mound 15",
+                  "text": "Royal Mound 15 is an archaeological site in A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.514691,
+                        26.156499
+                  ]
+            },
+            {
+                  "name": "A'ali Burial Mounds",
+                  "text": "The A'ali Burial Mounds are an archaeological site in A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.510566,
+                        26.148186
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "Royal Mound 2 is an archaeological site in A'ali.",
+                  "category": "historical",
+                  "coords": [
+                        50.514909,
+                        26.159904
+                  ]
+            },
+            {
+                  "name": "سوق الفخار",
+                  "text": "سوق الفخار is a viewpoint in A'ali.",
+                  "category": "natural",
+                  "coords": [
+                        50.508569,
+                        26.140513
+                  ]
+            },
+            {
+                  "name": "منزل زين العابدين-  عالي",
+                  "text": "منزل زين العابدين- عالي is a viewpoint in A'ali.",
+                  "category": "natural",
+                  "coords": [
+                        50.532506,
+                        26.148586
+                  ]
+            },
+            {
+                  "name": "Burial mound",
+                  "text": "The Burial mound is a local attraction in A'ali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-17",
     coords: [50.5261, 26.1522],
@@ -425,7 +1136,52 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/isa-town-cities-v2.webp"},
   {
-    id: "sitra-cities-v2",
+    id: "sitra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "خليج توبلي",
+                  "text": "Die Tubli-Bucht ist ein bedeutendes Feuchtgebiet bei Sitra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.591653,
+                        26.167225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "خليج توبلي",
+                  "text": "A Tubli-öböl egy jelentős vizes élőhely Sitra közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        50.591653,
+                        26.167225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "خليج توبلي",
+                  "text": "Golful Tubli este o zonă umedă importantă lângă Sitra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.591653,
+                        26.167225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tubli Bay",
+                  "text": "Tubli Bay is a significant wetland area near Sitra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.591653,
+                        26.167225
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-13",
     coords: [50.6205, 26.1611],
@@ -493,7 +1249,196 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/sitra-cities-v2.webp"},
   {
-    id: "budaiya-cities-v2",
+    id: "budaiya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diraz Temple",
+                  "text": "Der Diraz Temple ist eine archäologische Stätte in der bahrainischen Stadt Budaiya.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor ist eine archäologische Stätte in Budaiya.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "بيت سيد رضى ist ein Leuchtturm in Budaiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            },
+            {
+                  "name": "ساحل البديع",
+                  "text": "ساحل البديع ist eine Sehenswürdigkeit in Budaiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.446364,
+                        26.205956
+                  ]
+            },
+            {
+                  "name": "لاقونا",
+                  "text": "لاقونا ist ein Aussichtspunkt in Budaiya.",
+                  "category": "natural",
+                  "coords": [
+                        50.449438,
+                        26.203747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diraz Temple",
+                  "text": "A Diraz Temple egy régészeti lelőhely a bahreini Budaiya városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Az Ain Umm Sujoor egy régészeti lelőhely Budaiyában.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "A بيت سيد رضى egy világítótorony Budaiyában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            },
+            {
+                  "name": "ساحل البديع",
+                  "text": "A ساحل البديع egy látványosság Budaiyában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.446364,
+                        26.205956
+                  ]
+            },
+            {
+                  "name": "لاقونا",
+                  "text": "A لاقونا egy kilátó Budaiyában.",
+                  "category": "natural",
+                  "coords": [
+                        50.449438,
+                        26.203747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diraz Temple",
+                  "text": "Templul Diraz este un sit arheologic situat în orașul Budaiya.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor este un sit arheologic din Budaiya.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "بيت سيد رضى este un far situat în Budaiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            },
+            {
+                  "name": "ساحل البديع",
+                  "text": "ساحل البديع este o atracție turistică în Budaiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.446364,
+                        26.205956
+                  ]
+            },
+            {
+                  "name": "لاقونا",
+                  "text": "لاقونا este un punct de belvedere în Budaiya.",
+                  "category": "natural",
+                  "coords": [
+                        50.449438,
+                        26.203747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diraz Temple",
+                  "text": "The Diraz Temple is an archaeological site located in the city of Budaiya.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor is an archaeological site in Budaiya.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "بيت سيد رضى is a lighthouse located in Budaiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            },
+            {
+                  "name": "ساحل البديع",
+                  "text": "ساحل البديع is a tourist attraction in Budaiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.446364,
+                        26.205956
+                  ]
+            },
+            {
+                  "name": "لاقونا",
+                  "text": "لاقونا is a viewpoint in Budaiya.",
+                  "category": "natural",
+                  "coords": [
+                        50.449438,
+                        26.203747
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-17",
     coords: [50.4552, 26.2144],
@@ -566,7 +1511,484 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/budaiya-cities-v2.webp"},
   {
-    id: "jidhafs-cities-v2",
+    id: "jidhafs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة البحرين",
+                  "text": "Qal'at al-Bahrain ist eine weltweit anerkannte archäologische Stätte in der Nähe von Jidhafs.",
+                  "category": "historical",
+                  "coords": [
+                        50.520901,
+                        26.232948
+                  ]
+            },
+            {
+                  "name": "Adhari Park",
+                  "text": "Der Adhari Park ist ein bekannter Freizeitpark in Jidhafs.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Magic Island",
+                  "text": "Magic Island ist ein Freizeitpark in Jidhafs.",
+                  "category": "recreational",
+                  "coords": [
+                        50.538314,
+                        26.232143
+                  ]
+            },
+            {
+                  "name": "Ritz-Carlton Beach",
+                  "text": "Ritz-Carlton Beach ist ein Strandabschnitt in Jidhafs.",
+                  "category": "recreational",
+                  "coords": [
+                        50.539795,
+                        26.245581
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "Das Khamis Mosque Visitor Centre ist ein Museum in Jidhafs.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Der Adhari Theme Park ist eine Attraktion in der Stadt Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "سوق جدحفص الشعبي",
+                  "text": "سوق جدحفص الشعبي ist eine Attraktion in Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.53956,
+                        26.2198
+                  ]
+            },
+            {
+                  "name": "Wahooo Water park",
+                  "text": "Wahooo Water park ist eine Wasserattraktion in Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.551959,
+                        26.234257
+                  ]
+            },
+            {
+                  "name": "Avanti",
+                  "text": "Avanti ist eine Sehenswürdigkeit in Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537348,
+                        26.239884
+                  ]
+            },
+            {
+                  "name": "Harris",
+                  "text": "Harris ist eine lokale Attraktion in der Stadt Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.524217,
+                        26.220634
+                  ]
+            },
+            {
+                  "name": "Water Garden",
+                  "text": "Der Water Garden ist eine landschaftliche Attraktion in Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.554514,
+                        26.242197
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "Jallawi Gallery جلاوي جالري ist eine Kunstgalerie in der Stadt Jidhafs.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            },
+            {
+                  "name": "مسجد الخميس",
+                  "text": "Die Khamis Mosque ist eine historische Kultstätte in Jidhafs.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة البحرين",
+                  "text": "A Qal'at al-Bahrain egy globálisan elismert régészeti lelőhely Jidhafs közelében.",
+                  "category": "historical",
+                  "coords": [
+                        50.520901,
+                        26.232948
+                  ]
+            },
+            {
+                  "name": "Adhari Park",
+                  "text": "Az Adhari Park egy jól ismert vidámpark Jidhafs városában.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Magic Island",
+                  "text": "A Magic Island egy vidámpark Jidhafs városában.",
+                  "category": "recreational",
+                  "coords": [
+                        50.538314,
+                        26.232143
+                  ]
+            },
+            {
+                  "name": "Ritz-Carlton Beach",
+                  "text": "A Ritz-Carlton Beach egy tengerparti szakasz Jidhafs területén.",
+                  "category": "recreational",
+                  "coords": [
+                        50.539795,
+                        26.245581
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "A Khamis Mosque Visitor Centre egy múzeum Jidhafs városában.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Az Adhari Theme Park egy látványosság Jidhafs városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "سوق جدحفص الشعبي",
+                  "text": "A سوق جدحفص الشعبي egy piaci látványosság Jidhafs területén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.53956,
+                        26.2198
+                  ]
+            },
+            {
+                  "name": "Wahooo Water park",
+                  "text": "A Wahooo Water park egy vízi látványosság Jidhafs városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.551959,
+                        26.234257
+                  ]
+            },
+            {
+                  "name": "Avanti",
+                  "text": "Az Avanti egy turisztikai látványosság Jidhafs városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537348,
+                        26.239884
+                  ]
+            },
+            {
+                  "name": "Harris",
+                  "text": "A Harris egy helyi látványosság Jidhafs területén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.524217,
+                        26.220634
+                  ]
+            },
+            {
+                  "name": "Water Garden",
+                  "text": "A Water Garden egy festői látványosság Jidhafs területén.",
+                  "category": "landmark",
+                  "coords": [
+                        50.554514,
+                        26.242197
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "A Jallawi Gallery جلاوي جالري egy művészeti galéria Jidhafs városában.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            },
+            {
+                  "name": "مسجد الخميس",
+                  "text": "A Khamis Mosque egy történelmi istentiszteleti hely Jidhafs városában.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة البحرين",
+                  "text": "Qal'at al-Bahrain este un sit arheologic recunoscut la nivel mondial situat lângă Jidhafs.",
+                  "category": "historical",
+                  "coords": [
+                        50.520901,
+                        26.232948
+                  ]
+            },
+            {
+                  "name": "Adhari Park",
+                  "text": "Adhari Park este un parc tematic binecunoscut situat în Jidhafs.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Magic Island",
+                  "text": "Magic Island este un parc tematic situat în Jidhafs.",
+                  "category": "recreational",
+                  "coords": [
+                        50.538314,
+                        26.232143
+                  ]
+            },
+            {
+                  "name": "Ritz-Carlton Beach",
+                  "text": "Ritz-Carlton Beach este o plajă situată în Jidhafs.",
+                  "category": "recreational",
+                  "coords": [
+                        50.539795,
+                        26.245581
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "Khamis Mosque Visitor Centre este un muzeu aflat în Jidhafs.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Adhari Theme Park este o atracție din orașul Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "سوق جدحفص الشعبي",
+                  "text": "سوق جدحفص الشعبي este o atracție situată în Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.53956,
+                        26.2198
+                  ]
+            },
+            {
+                  "name": "Wahooo Water park",
+                  "text": "Wahooo Water park este o atracție acvatică situată în Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.551959,
+                        26.234257
+                  ]
+            },
+            {
+                  "name": "Avanti",
+                  "text": "Avanti este o atracție aflată în Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537348,
+                        26.239884
+                  ]
+            },
+            {
+                  "name": "Harris",
+                  "text": "Harris este o atracție locală situată în orașul Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.524217,
+                        26.220634
+                  ]
+            },
+            {
+                  "name": "Water Garden",
+                  "text": "Water Garden este o atracție aflată în Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.554514,
+                        26.242197
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "Jallawi Gallery جلاوي جالري este o galerie de artă situată în orașul Jidhafs.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            },
+            {
+                  "name": "مسجد الخميس",
+                  "text": "Khamis Mosque este un lăcaș de cult istoric din Jidhafs.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qal'at al-Bahrain",
+                  "text": "Qal'at al-Bahrain is a globally recognized archaeological site located near Jidhafs.",
+                  "category": "historical",
+                  "coords": [
+                        50.520901,
+                        26.232948
+                  ]
+            },
+            {
+                  "name": "Adhari Park",
+                  "text": "Adhari Park is a well-known theme park situated in Jidhafs.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Magic Island",
+                  "text": "Magic Island is a theme park located in Jidhafs.",
+                  "category": "recreational",
+                  "coords": [
+                        50.538314,
+                        26.232143
+                  ]
+            },
+            {
+                  "name": "Ritz-Carlton Beach",
+                  "text": "Ritz-Carlton Beach is a beach area located in Jidhafs.",
+                  "category": "recreational",
+                  "coords": [
+                        50.539795,
+                        26.245581
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "The Khamis Mosque Visitor Centre is a museum situated in Jidhafs.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Adhari Theme Park is an attraction located in the city of Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "سوق جدحفص الشعبي",
+                  "text": "سوق جدحفص الشعبي is a market attraction situated in Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.53956,
+                        26.2198
+                  ]
+            },
+            {
+                  "name": "Wahooo Water park",
+                  "text": "Wahooo Water park is an aquatic attraction located in Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.551959,
+                        26.234257
+                  ]
+            },
+            {
+                  "name": "Avanti",
+                  "text": "Avanti is a point of interest and attraction located in Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.537348,
+                        26.239884
+                  ]
+            },
+            {
+                  "name": "Harris",
+                  "text": "Harris is a local attraction found in the city of Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.524217,
+                        26.220634
+                  ]
+            },
+            {
+                  "name": "Water Garden",
+                  "text": "The Water Garden is a scenic attraction situated in Jidhafs.",
+                  "category": "landmark",
+                  "coords": [
+                        50.554514,
+                        26.242197
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "Jallawi Gallery جلاوي جالري is an art gallery located in the city of Jidhafs.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque",
+                  "text": "The Khamis Mosque is a prominent and historic place of worship located in Jidhafs.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-13",
     coords: [50.5477, 26.2188],
@@ -639,7 +2061,196 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/jidhafs-cities-v2.webp"},
   {
-    id: "al-malkiya-cities-v2",
+    id: "al-malkiya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ساحل كرزكان",
+                  "text": "Karzakkan Beach ist ein ruhiger Strandabschnitt in Al Malkiya.",
+                  "category": "recreational",
+                  "coords": [
+                        50.469717,
+                        26.106507
+                  ]
+            },
+            {
+                  "name": "نواف",
+                  "text": "Das Nawaf ist ein kulturelles Museum in Al Malkiya.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 3 Burial Mound Field (Dar Kulayb)",
+                  "text": "Das Hügelgräberfeld Madinat Hamad 3 ist eine archäologische Stätte bei Al Malkiya.",
+                  "category": "historical",
+                  "coords": [
+                        50.5052,
+                        26.075268
+                  ]
+            },
+            {
+                  "name": "Bait Ishaq بيت إسحاق",
+                  "text": "Bait Ishaq ist eine lokale Sehenswürdigkeit in Al Malkiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "دوار 14",
+                  "text": "Der Kreisverkehr 14 ist eine lokale Sehenswürdigkeit in Al Malkiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ساحل كرزكان",
+                  "text": "A Karzakkan Beach egy csendes partszakasz Al Malkiyában.",
+                  "category": "recreational",
+                  "coords": [
+                        50.469717,
+                        26.106507
+                  ]
+            },
+            {
+                  "name": "نواف",
+                  "text": "A Nawaf egy kulturális múzeum Al Malkiyában.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 3 Burial Mound Field (Dar Kulayb)",
+                  "text": "A Madinat Hamad 3 halomsírmező egy régészeti lelőhely Al Malkiya közelében.",
+                  "category": "historical",
+                  "coords": [
+                        50.5052,
+                        26.075268
+                  ]
+            },
+            {
+                  "name": "Bait Ishaq بيت إسحاق",
+                  "text": "Bait Ishaq egy helyi látnivaló Al Malkiyában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "دوار 14",
+                  "text": "A 14-es körforgalom egy helyi látnivaló Al Malkiyában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ساحل كرزكان",
+                  "text": "Plaja Karzakkan este o zonă de coastă liniștită în Al Malkiya.",
+                  "category": "recreational",
+                  "coords": [
+                        50.469717,
+                        26.106507
+                  ]
+            },
+            {
+                  "name": "نواف",
+                  "text": "Nawaf este un muzeu cultural în Al Malkiya.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 3 Burial Mound Field (Dar Kulayb)",
+                  "text": "Câmpul tumular Madinat Hamad 3 este un sit arheologic lângă Al Malkiya.",
+                  "category": "historical",
+                  "coords": [
+                        50.5052,
+                        26.075268
+                  ]
+            },
+            {
+                  "name": "Bait Ishaq بيت إسحاق",
+                  "text": "Bait Ishaq este o atracție locală în Al Malkiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "دوار 14",
+                  "text": "Sensul giratoriu 14 este o atracție locală în Al Malkiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karzakkan Beach",
+                  "text": "Karzakkan Beach is a quiet stretch of coastline in Al Malkiya.",
+                  "category": "recreational",
+                  "coords": [
+                        50.469717,
+                        26.106507
+                  ]
+            },
+            {
+                  "name": "nawaf",
+                  "text": "Nawaf is a cultural museum in Al Malkiya.",
+                  "category": "museum",
+                  "coords": [
+                        50.50136,
+                        26.10667
+                  ]
+            },
+            {
+                  "name": "Madinat Hamad 3 Burial Mound Field (Dar Kulayb)",
+                  "text": "The Madinat Hamad 3 burial mound field is an archaeological site near Al Malkiya.",
+                  "category": "historical",
+                  "coords": [
+                        50.5052,
+                        26.075268
+                  ]
+            },
+            {
+                  "name": "Bait Ishaq بيت إسحاق",
+                  "text": "Bait Ishaq is a local attraction in Al Malkiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.499688,
+                        26.100507
+                  ]
+            },
+            {
+                  "name": "Roundabout 14",
+                  "text": "Roundabout 14 is a local attraction in Al Malkiya.",
+                  "category": "landmark",
+                  "coords": [
+                        50.505482,
+                        26.096969
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-17",
     coords: [50.4816, 26.0963],
@@ -922,7 +2533,232 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/sanabis-cities-v2.webp"},
   {
-    id: "tubli-cities-v2",
+    id: "tubli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adhari Park",
+                  "text": "Der Adhari Park ist ein Freizeitpark in der Stadt Tubli.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "Das Khamis Mosque Visitor Centre ist ein Museum in Tubli.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Der Adhari Theme Park ist eine Touristenattraktion in Tubli.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "ڤيب البحرين",
+                  "text": "Bahrain Vape ist eine lokale Sehenswürdigkeit in Tubli.",
+                  "category": "landmark",
+                  "coords": [
+                        50.56872,
+                        26.167256
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "Die Jallawi Gallery جلاوي جالري ist eine Kunstgalerie in Tubli.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            },
+            {
+                  "name": "مسجد الخميس",
+                  "text": "Die Khamis Mosque ist eine historische Moschee in Tubli.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adhari Park",
+                  "text": "Az Adhari Park egy vidámpark Tubli városában.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "A Khamis Mosque Visitor Centre egy múzeum Tubliban.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Az Adhari Theme Park egy turisztikai látványosság Tubliban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "ڤيب البحرين",
+                  "text": "A Bahrain Vape egy helyi látványosság Tubliban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.56872,
+                        26.167256
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "A Jallawi Gallery جلاوي جالري egy művészeti galéria Tubliban.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            },
+            {
+                  "name": "مسجد الخميس",
+                  "text": "A Khamis Mosque egy történelmi mecset Tubliban.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adhari Park",
+                  "text": "Adhari Park este un parc tematic situat în orașul Tubli.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "Khamis Mosque Visitor Centre este un muzeu din Tubli.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Adhari Theme Park este o atracție turistică din Tubli.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "ڤيب البحرين",
+                  "text": "Bahrain Vape este o atracție locală din Tubli.",
+                  "category": "landmark",
+                  "coords": [
+                        50.56872,
+                        26.167256
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "Jallawi Gallery جلاوي جالري este o galerie de artă din Tubli.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            },
+            {
+                  "name": "مسجد الخميس",
+                  "text": "Khamis Mosque este o moschee istorică din Tubli.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adhari Park",
+                  "text": "The Adhari Park is a theme park located in the city of Tubli.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque Visitor Centre",
+                  "text": "The Khamis Mosque Visitor Centre is a museum in Tubli.",
+                  "category": "museum",
+                  "coords": [
+                        50.549245,
+                        26.208324
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "The Adhari Theme Park is a tourist attraction in Tubli.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "Bahrain Vape",
+                  "text": "Bahrain Vape is a local attraction in Tubli.",
+                  "category": "landmark",
+                  "coords": [
+                        50.56872,
+                        26.167256
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "The Jallawi Gallery جلاوي جالري is an art gallery in Tubli.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            },
+            {
+                  "name": "Khamis Mosque",
+                  "text": "The Khamis Mosque is a historic mosque in Tubli.",
+                  "category": "religious",
+                  "coords": [
+                        50.54832,
+                        26.20817
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-13",
     coords: [50.5555, 26.1883],
@@ -985,7 +2821,124 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/tubli-cities-v2.webp"},
   {
-    id: "saar-cities-v2",
+    id: "saar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saar Archeological Site",
+                  "text": "Die Saar Archeological Site ist eine historische Stätte in Saar.",
+                  "category": "historical",
+                  "coords": [
+                        50.481888,
+                        26.181022
+                  ]
+            },
+            {
+                  "name": "Saar Burial Field",
+                  "text": "Die Saar Burial Mounds bilden eine archäologische Stätte in Saar.",
+                  "category": "historical",
+                  "coords": [
+                        50.478461,
+                        26.175784
+                  ]
+            },
+            {
+                  "name": "Dilmun Temple",
+                  "text": "Der Dilmun Temple ist eine antike archäologische Stätte in Saar.",
+                  "category": "historical",
+                  "coords": [
+                        50.489713,
+                        26.183633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saar Archeological Site",
+                  "text": "A Saar Archeological Site egy régészeti lelőhely Saar területén.",
+                  "category": "historical",
+                  "coords": [
+                        50.481888,
+                        26.181022
+                  ]
+            },
+            {
+                  "name": "Saar Burial Field",
+                  "text": "A Saar Burial Mounds egy régészeti lelőhely Saar városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.478461,
+                        26.175784
+                  ]
+            },
+            {
+                  "name": "Dilmun Temple",
+                  "text": "A Dilmun Temple egy ősi régészeti lelőhely Saar területén.",
+                  "category": "historical",
+                  "coords": [
+                        50.489713,
+                        26.183633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saar Archeological Site",
+                  "text": "Saar Archeological Site este un sit istoric situat în Saar.",
+                  "category": "historical",
+                  "coords": [
+                        50.481888,
+                        26.181022
+                  ]
+            },
+            {
+                  "name": "Saar Burial Field",
+                  "text": "Saar Burial Mounds reprezintă un sit arheologic situat în Saar.",
+                  "category": "historical",
+                  "coords": [
+                        50.478461,
+                        26.175784
+                  ]
+            },
+            {
+                  "name": "Dilmun Temple",
+                  "text": "Dilmun Temple este un vechi sit arheologic aflat în Saar.",
+                  "category": "historical",
+                  "coords": [
+                        50.489713,
+                        26.183633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saar Archeological Site",
+                  "text": "The Saar Archeological Site is an ancient historical site located in Saar.",
+                  "category": "historical",
+                  "coords": [
+                        50.481888,
+                        26.181022
+                  ]
+            },
+            {
+                  "name": "Saar Burial Mounds",
+                  "text": "The Saar Burial Mounds form an archaeological site situated in Saar.",
+                  "category": "historical",
+                  "coords": [
+                        50.478461,
+                        26.175784
+                  ]
+            },
+            {
+                  "name": "Dilmun Temple",
+                  "text": "The Dilmun Temple is an ancient archaeological site located in Saar.",
+                  "category": "historical",
+                  "coords": [
+                        50.489713,
+                        26.183633
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-17",
     coords: [50.4852, 26.183],
@@ -1058,7 +3011,160 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/saar-cities-v2.webp"},
   {
-    id: "al-dair-cities-v2",
+    id: "al-dair-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مأتم الإمام علي",
+                  "text": "Das Matam Imam Ali ist ein Museum in Al Dair.",
+                  "category": "museum",
+                  "coords": [
+                        50.626652,
+                        26.286225
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "Das Rashid Al-Oraifi Museum zeigt lokale Geschichte in Al Dair.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "Die Hend Gallery ist ein Ausstellungsort für Kunst in Al Dair.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "Dieses Gebiet ist eine bekannte Attraktion in Al Dair.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مأتم الإمام علي",
+                  "text": "A Matam Imam Ali egy múzeum Al Dairban.",
+                  "category": "museum",
+                  "coords": [
+                        50.626652,
+                        26.286225
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "A Rashid Al-Oraifi Múzeum helyi történelmet mutat be Al Dairban.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "A Hend Galéria egy művészeti kiállítóhely Al Dairban.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "Ez a terület egy ismert látnivaló Al Dairban.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مأتم الإمام علي",
+                  "text": "Matam Imam Ali este un muzeu în Al Dair.",
+                  "category": "museum",
+                  "coords": [
+                        50.626652,
+                        26.286225
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "Muzeul Rashid Al-Oraifi prezintă istoria locală în Al Dair.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "Galeria Hend este un spațiu expozițional de artă în Al Dair.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "Această zonă este o atracție cunoscută în Al Dair.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "مأتم الإمام علي",
+                  "text": "Matam Imam Ali is a museum in Al Dair.",
+                  "category": "museum",
+                  "coords": [
+                        50.626652,
+                        26.286225
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "The Rashid Al-Oraifi Museum showcases local history in Al Dair.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "The Hend Gallery is an art exhibition space in Al Dair.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "This area is a well-known attraction in Al Dair.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-15",
     coords: [50.6225, 26.2844],
@@ -1131,7 +3237,520 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/al-dair-cities-v2.webp"},
   {
-    id: "busaiteen-cities-v2",
+    id: "busaiteen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف البحرين الوطني",
+                  "text": "Das Bahrain National Museum ist ein bedeutendes Museum in der Stadt Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.597778,
+                        26.240669
+                  ]
+            },
+            {
+                  "name": "Arad Fort",
+                  "text": "Das Arad Fort ist eine historische Festung in Busaiteen.",
+                  "category": "castle",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "مسرح البحرين الوطني",
+                  "text": "Das Bahrain National Theatre ist ein Theater in Busaiteen.",
+                  "category": "cultural",
+                  "coords": [
+                        50.598686,
+                        26.24261
+                  ]
+            },
+            {
+                  "name": "Abdulla Al Zayed House for Bahrain Press Heritage",
+                  "text": "Das Abdulla Al Zayed House for Bahrain Press Heritage ist ein Museum in Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.610713,
+                        26.253898
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "Das Rashid Al-Oraifi Museum ist ein lokales Museum in Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "قلعه بوماهر",
+                  "text": "Das Bu Maher Fort ist eine historische Burg in der Stadt Busaiteen.",
+                  "category": "castle",
+                  "coords": [
+                        50.613534,
+                        26.241344
+                  ]
+            },
+            {
+                  "name": "Sail Monument",
+                  "text": "Das Sail Monument ist ein öffentliches Denkmal in Busaiteen.",
+                  "category": "historical",
+                  "coords": [
+                        50.593722,
+                        26.241102
+                  ]
+            },
+            {
+                  "name": "A Rahman Yusuf Bin Jalal House",
+                  "text": "Das A Rahman Yusuf Bin Jalal House ist eine lokale Sehenswürdigkeit in Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.611788,
+                        26.25412
+                  ]
+            },
+            {
+                  "name": "Busaad Art Gallery",
+                  "text": "Die Busaad Art Gallery ist ein Kunstzentrum in Busaiteen.",
+                  "category": "cultural",
+                  "coords": [
+                        50.613385,
+                        26.255062
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "Die Hend Gallery ist eine Kunstgalerie in der Stadt Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "منته و محمية عراد ist eine lokale Touristenattraktion in Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            },
+            {
+                  "name": "سوق المحرق",
+                  "text": "سوق المحرق ist eine traditionelle lokale Sehenswürdigkeit in Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607986,
+                        26.250509
+                  ]
+            },
+            {
+                  "name": "View on Dou ships",
+                  "text": "Der View on Dou ships ist ein malerischer Aussichtspunkt in Busaiteen.",
+                  "category": "natural",
+                  "coords": [
+                        50.620574,
+                        26.248693
+                  ]
+            },
+            {
+                  "name": "Shaik Isa Bin Ali House",
+                  "text": "Das Shaik Isa Bin Ali House ist eine historische Sehenswürdigkeit in Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.612881,
+                        26.253829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف البحرين الوطني",
+                  "text": "A Bahrain National Museum egy jelentős múzeum Busaiteen városában.",
+                  "category": "museum",
+                  "coords": [
+                        50.597778,
+                        26.240669
+                  ]
+            },
+            {
+                  "name": "Arad Fort",
+                  "text": "Az Arad Fort egy történelmi erőd Busaiteenben.",
+                  "category": "castle",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "مسرح البحرين الوطني",
+                  "text": "A Bahrain National Theatre egy színház Busaiteenben.",
+                  "category": "cultural",
+                  "coords": [
+                        50.598686,
+                        26.24261
+                  ]
+            },
+            {
+                  "name": "Abdulla Al Zayed House for Bahrain Press Heritage",
+                  "text": "Az Abdulla Al Zayed House for Bahrain Press Heritage egy múzeum Busaiteenben.",
+                  "category": "museum",
+                  "coords": [
+                        50.610713,
+                        26.253898
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "A Rashid Al-Oraifi Múzeum egy helyi múzeum Busaiteen városában.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "قلعه بوماهر",
+                  "text": "A Bu Maher Erőd egy történelmi kastély Busaiteen városában.",
+                  "category": "castle",
+                  "coords": [
+                        50.613534,
+                        26.241344
+                  ]
+            },
+            {
+                  "name": "Sail Monument",
+                  "text": "A Sail Monument egy köztéri emlékmű Busaiteen városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.593722,
+                        26.241102
+                  ]
+            },
+            {
+                  "name": "A Rahman Yusuf Bin Jalal House",
+                  "text": "Az A Rahman Yusuf Bin Jalal House egy helyi látványosság Busaiteen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.611788,
+                        26.25412
+                  ]
+            },
+            {
+                  "name": "Busaad Art Gallery",
+                  "text": "A Busaad Art Gallery egy művészeti központ Busaiteen városában.",
+                  "category": "cultural",
+                  "coords": [
+                        50.613385,
+                        26.255062
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "A Hend Gallery egy művészeti galéria Busaiteen városában.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "A منته و محمية عراد egy helyi turisztikai látványosság Busaiteen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            },
+            {
+                  "name": "سوق المحرق",
+                  "text": "A سوق المحرق egy hagyományos helyi látványosság Busaiteen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607986,
+                        26.250509
+                  ]
+            },
+            {
+                  "name": "View on Dou ships",
+                  "text": "A View on Dou ships egy festői kilátó Busaiteen városában.",
+                  "category": "natural",
+                  "coords": [
+                        50.620574,
+                        26.248693
+                  ]
+            },
+            {
+                  "name": "Shaik Isa Bin Ali House",
+                  "text": "A Shaik Isa Bin Ali House egy történelmi látványosság Busaiteen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.612881,
+                        26.253829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف البحرين الوطني",
+                  "text": "Muzeul Național al Bahrainului este un muzeu important din orașul Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.597778,
+                        26.240669
+                  ]
+            },
+            {
+                  "name": "Arad Fort",
+                  "text": "Fortul Arad este o fortăreață istorică din Busaiteen.",
+                  "category": "castle",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "مسرح البحرين الوطني",
+                  "text": "Bahrain National Theatre este un teatru din Busaiteen.",
+                  "category": "cultural",
+                  "coords": [
+                        50.598686,
+                        26.24261
+                  ]
+            },
+            {
+                  "name": "Abdulla Al Zayed House for Bahrain Press Heritage",
+                  "text": "Abdulla Al Zayed House for Bahrain Press Heritage este un muzeu din Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.610713,
+                        26.253898
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "Muzeul Rashid Al-Oraifi este un muzeu local situat în Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "قلعه بوماهر",
+                  "text": "Fortul Bu Maher este un castel istoric situat în orașul Busaiteen.",
+                  "category": "castle",
+                  "coords": [
+                        50.613534,
+                        26.241344
+                  ]
+            },
+            {
+                  "name": "Sail Monument",
+                  "text": "Sail Monument este un monument public situat în Busaiteen.",
+                  "category": "historical",
+                  "coords": [
+                        50.593722,
+                        26.241102
+                  ]
+            },
+            {
+                  "name": "A Rahman Yusuf Bin Jalal House",
+                  "text": "A Rahman Yusuf Bin Jalal House este o atracție locală situată în Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.611788,
+                        26.25412
+                  ]
+            },
+            {
+                  "name": "Busaad Art Gallery",
+                  "text": "Busaad Art Gallery este un centru de artă aflat în Busaiteen.",
+                  "category": "cultural",
+                  "coords": [
+                        50.613385,
+                        26.255062
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "Hend Gallery este o galerie de artă situată în orașul Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "منته و محمية عراد este o atracție turistică locală situată în Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            },
+            {
+                  "name": "سوق المحرق",
+                  "text": "سوق المحرق este o atracție tradițională locală situată în Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607986,
+                        26.250509
+                  ]
+            },
+            {
+                  "name": "View on Dou ships",
+                  "text": "View on Dou ships este un punct de belvedere pitoresc aflat în Busaiteen.",
+                  "category": "natural",
+                  "coords": [
+                        50.620574,
+                        26.248693
+                  ]
+            },
+            {
+                  "name": "Shaik Isa Bin Ali House",
+                  "text": "Casa Shaik Isa Bin Ali este o atracție istorică situată în Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.612881,
+                        26.253829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bahrain National Museum",
+                  "text": "The Bahrain National Museum is a notable museum located in the city of Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.597778,
+                        26.240669
+                  ]
+            },
+            {
+                  "name": "Arad Fort",
+                  "text": "The Arad Fort is a historic castle in Busaiteen.",
+                  "category": "castle",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "Bahrain National Theatre",
+                  "text": "The Bahrain National Theatre is a theatre in Busaiteen.",
+                  "category": "cultural",
+                  "coords": [
+                        50.598686,
+                        26.24261
+                  ]
+            },
+            {
+                  "name": "Abdulla Al Zayed House for Bahrain Press Heritage",
+                  "text": "The Abdulla Al Zayed House for Bahrain Press Heritage is a museum in Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.610713,
+                        26.253898
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "The Rashid Al-Oraifi Museum is a local museum situated in Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "Bu Maher Fort",
+                  "text": "Bu Maher Fort is a historic castle located in the city of Busaiteen.",
+                  "category": "castle",
+                  "coords": [
+                        50.613534,
+                        26.241344
+                  ]
+            },
+            {
+                  "name": "Sail Monument",
+                  "text": "The Sail Monument is a public monument located in Busaiteen.",
+                  "category": "historical",
+                  "coords": [
+                        50.593722,
+                        26.241102
+                  ]
+            },
+            {
+                  "name": "A Rahman Yusuf Bin Jalal House",
+                  "text": "A Rahman Yusuf Bin Jalal House is a local attraction situated in Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.611788,
+                        26.25412
+                  ]
+            },
+            {
+                  "name": "Busaad Art Gallery",
+                  "text": "The Busaad Art Gallery is an arts centre found in Busaiteen.",
+                  "category": "cultural",
+                  "coords": [
+                        50.613385,
+                        26.255062
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "Hend Gallery is an art gallery situated in the city of Busaiteen.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "منته و محمية عراد is a local tourist attraction located in Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            },
+            {
+                  "name": "سوق المحرق",
+                  "text": "سوق المحرق is a traditional local attraction situated in Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.607986,
+                        26.250509
+                  ]
+            },
+            {
+                  "name": "View on Dou ships",
+                  "text": "The View on Dou ships is a scenic viewpoint found in Busaiteen.",
+                  "category": "natural",
+                  "coords": [
+                        50.620574,
+                        26.248693
+                  ]
+            },
+            {
+                  "name": "Shaik Isa Bin Ali House",
+                  "text": "The Shaik Isa Bin Ali House is a historic attraction located in Busaiteen.",
+                  "category": "landmark",
+                  "coords": [
+                        50.612881,
+                        26.253829
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-15",
     coords: [50.6033, 26.2655],
@@ -1342,7 +3961,88 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/zallaq-cities-v2.webp"},
   {
-    id: "awali-cities-v2",
+    id: "awali-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "صرح الميثاق الوطني",
+                  "text": "Das Bahrain National Charter Monument ist ein markantes Bauwerk in Awali.",
+                  "category": "historical",
+                  "coords": [
+                        50.526663,
+                        26.071263
+                  ]
+            },
+            {
+                  "name": "كاتدرائية سيدة العرب",
+                  "text": "Die Cathedral of Our Lady of Arabia ist ein bedeutendes katholisches Gotteshaus in Awali.",
+                  "category": "religious",
+                  "coords": [
+                        50.54533,
+                        26.078919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "صرح الميثاق الوطني",
+                  "text": "A Bahrain National Charter Monument egy kiemelkedő emlékmű Awali városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.526663,
+                        26.071263
+                  ]
+            },
+            {
+                  "name": "كاتدرائية سيدة العرب",
+                  "text": "A Cathedral of Our Lady of Arabia egy jelentős katolikus imahely Awali városában.",
+                  "category": "religious",
+                  "coords": [
+                        50.54533,
+                        26.078919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "صرح الميثاق الوطني",
+                  "text": "Monumentul Cartei Naționale a Bahrainului este o structură proeminentă situată în Awali.",
+                  "category": "historical",
+                  "coords": [
+                        50.526663,
+                        26.071263
+                  ]
+            },
+            {
+                  "name": "كاتدرائية سيدة العرب",
+                  "text": "Catedrala Our Lady of Arabia este un important lăcaș de cult catolic situat în Awali.",
+                  "category": "religious",
+                  "coords": [
+                        50.54533,
+                        26.078919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bahrain National Charter Monument",
+                  "text": "The Bahrain National Charter Monument is a prominent structure located in Awali.",
+                  "category": "historical",
+                  "coords": [
+                        50.526663,
+                        26.071263
+                  ]
+            },
+            {
+                  "name": "The Cathedral of Our Lady of Arabia",
+                  "text": "The Cathedral of Our Lady of Arabia is a major Catholic place of worship located in Awali.",
+                  "category": "religious",
+                  "coords": [
+                        50.54533,
+                        26.078919
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-14",
     coords: [50.5513, 26.0847],
@@ -1557,7 +4257,160 @@ export const poiExtraBahrainCitiesV2: POI[] = [
     }
   },
   {
-    id: "barbar-cities-v2",
+    id: "barbar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barbar-Tempel",
+                  "text": "Der Barbar-Tempel ist eine bedeutende archäologische Stätte aus der Dilmun-Zeit in Barbar.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Diraz Temple",
+                  "text": "Der Diraz-Tempel ist eine historische archäologische Stätte in der Stadt Barbar.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor ist eine antike archäologische Stätte mit einer historischen Quelle in Barbar.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "بيت سيد رضى ist ein Leuchtturm in der Stadt Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barbar Temple",
+                  "text": "A Barbar-templom egy jelentős Dilmun-kori régészeti lelőhely Barbar városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Diraz Temple",
+                  "text": "A Diraz-templom egy történelmi régészeti lelőhely Barbar városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Az Ain Umm Sujoor egy ősi régészeti lelőhely egy történelmi forrással Barbar városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "A بيت سيد رضى egy világítótorony Barbar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barbar Temple",
+                  "text": "Templul Barbar este un sit arheologic notabil din era Dilmun, situat în Barbar.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Diraz Temple",
+                  "text": "Templul Diraz este un sit arheologic istoric situat în orașul Barbar.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor este un sit arheologic antic ce include un izvor istoric, situat în Barbar.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "بيت سيد رضى este un far situat în orașul Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barbar Temple",
+                  "text": "The Barbar Temple is a notable Dilmun-era archaeological site located in Barbar.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Diraz Temple",
+                  "text": "The Diraz Temple is a historic archaeological site located in the city of Barbar.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor is an ancient archaeological site featuring a historical spring in Barbar.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "بيت سيد رضى is a lighthouse structure situated in the city of Barbar.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-17",
     coords: [50.4869, 26.2208],
@@ -1625,7 +4478,232 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/barbar-cities-v2.webp"},
   {
-    id: "bani-jamra-cities-v2",
+    id: "bani-jamra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barbar-Tempel",
+                  "text": "Der Barbar Temple ist eine bekannte archäologische Stätte in Bani Jamra.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Diraz Temple",
+                  "text": "Der Diraz Temple ist eine anerkannte antike archäologische Stätte in Bani Jamra.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor ist eine archäologische Stätte in Bani Jamra, die für ihre antiken Wasserquellen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "Dieser lokale Leuchtturm befindet sich in der Stadt Bani Jamra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            },
+            {
+                  "name": "ساحل البديع",
+                  "text": "Diese lokale Attraktion befindet sich in der Stadt Bani Jamra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.446364,
+                        26.205956
+                  ]
+            },
+            {
+                  "name": "لاقونا",
+                  "text": "Dieser malerische Aussichtspunkt befindet sich in der Stadt Bani Jamra.",
+                  "category": "natural",
+                  "coords": [
+                        50.449438,
+                        26.203747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barbar Temple",
+                  "text": "A Barbar Temple egy hírneves régészeti lelőhely Bani Jamra területén.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Diraz Temple",
+                  "text": "A Diraz Temple egy elismert ősi régészeti lelőhely Bani Jamra városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Az Ain Umm Sujoor egy régészeti lelőhely Bani Jamra városában, amely ősi vízforrásairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "Ez a helyi világítótorony Bani Jamra városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            },
+            {
+                  "name": "ساحل البديع",
+                  "text": "Ez a helyi látványosság Bani Jamra városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        50.446364,
+                        26.205956
+                  ]
+            },
+            {
+                  "name": "لاقونا",
+                  "text": "Ez a festői kilátó Bani Jamra városában található.",
+                  "category": "natural",
+                  "coords": [
+                        50.449438,
+                        26.203747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barbar Temple",
+                  "text": "Barbar Temple este un renumit sit arheologic situat în Bani Jamra.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Diraz Temple",
+                  "text": "Diraz Temple este un sit arheologic recunoscut aflat în Bani Jamra.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor este un sit arheologic din Bani Jamra, cunoscut pentru izvoarele sale antice de apă.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "Acest far local se află în orașul Bani Jamra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            },
+            {
+                  "name": "ساحل البديع",
+                  "text": "Această atracție locală este situată în orașul Bani Jamra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.446364,
+                        26.205956
+                  ]
+            },
+            {
+                  "name": "لاقونا",
+                  "text": "Acest punct de belvedere pitoresc este situat în orașul Bani Jamra.",
+                  "category": "natural",
+                  "coords": [
+                        50.449438,
+                        26.203747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barbar Temple",
+                  "text": "The Barbar Temple is a renowned archaeological site located in Bani Jamra.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Diraz Temple",
+                  "text": "The Diraz Temple is a recognized ancient archaeological site situated in Bani Jamra.",
+                  "category": "historical",
+                  "coords": [
+                        50.474599,
+                        26.217007
+                  ]
+            },
+            {
+                  "name": "Ain Umm Sujoor",
+                  "text": "Ain Umm Sujoor is an archaeological site located in Bani Jamra, known for its ancient water springs.",
+                  "category": "historical",
+                  "coords": [
+                        50.470413,
+                        26.221922
+                  ]
+            },
+            {
+                  "name": "بيت سيد رضى",
+                  "text": "This local lighthouse attraction is located in the city of Bani Jamra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.464075,
+                        26.208008
+                  ]
+            },
+            {
+                  "name": "ساحل البديع",
+                  "text": "This local attraction is situated in the city of Bani Jamra.",
+                  "category": "landmark",
+                  "coords": [
+                        50.446364,
+                        26.205956
+                  ]
+            },
+            {
+                  "name": "لاقونا",
+                  "text": "This scenic viewpoint is located in the city of Bani Jamra.",
+                  "category": "natural",
+                  "coords": [
+                        50.449438,
+                        26.203747
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-17",
     coords: [50.463, 26.2133],
@@ -1693,7 +4771,196 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/bani-jamra-cities-v2.webp"},
   {
-    id: "karrana-cities-v2",
+    id: "karrana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort von Bahrain",
+                  "text": "Das Bahrain Fort ist eine historische Festung bei Karrana.",
+                  "category": "castle",
+                  "coords": [
+                        50.52021,
+                        26.233336
+                  ]
+            },
+            {
+                  "name": "Barbar-Tempel",
+                  "text": "Der Barbar-Tempel ist eine antike archäologische Stätte bei Karrana.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain Fort",
+                  "text": "Das Qal'at al-Bahrain Fort Museum bewahrt Funde in Karrana auf.",
+                  "category": "museum",
+                  "coords": [
+                        50.522581,
+                        26.235156
+                  ]
+            },
+            {
+                  "name": "Harris",
+                  "text": "Harris ist eine lokale Attraktion in Karrana.",
+                  "category": "landmark",
+                  "coords": [
+                        50.524217,
+                        26.220634
+                  ]
+            },
+            {
+                  "name": "المقشع",
+                  "text": "Almaqsha ist ein interessanter Ort in Karrana.",
+                  "category": "landmark",
+                  "coords": [
+                        50.517235,
+                        26.221615
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bahrain Fort",
+                  "text": "A Bahrein erőd egy történelmi erődítmény Karrana közelében.",
+                  "category": "castle",
+                  "coords": [
+                        50.52021,
+                        26.233336
+                  ]
+            },
+            {
+                  "name": "Barbar Temple",
+                  "text": "A Barbar-templom egy ősi régészeti lelőhely Karrana közelében.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain Fort",
+                  "text": "A Qal'at al-Bahrain Erőd Múzeum leleteket őriz Karranában.",
+                  "category": "museum",
+                  "coords": [
+                        50.522581,
+                        26.235156
+                  ]
+            },
+            {
+                  "name": "Harris",
+                  "text": "Harris egy helyi látnivaló Karranában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.524217,
+                        26.220634
+                  ]
+            },
+            {
+                  "name": "المقشع",
+                  "text": "Almaqsha egy érdekes hely Karranában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.517235,
+                        26.221615
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bahrain Fort",
+                  "text": "Fortăreața Bahrain este o cetate istorică lângă Karrana.",
+                  "category": "castle",
+                  "coords": [
+                        50.52021,
+                        26.233336
+                  ]
+            },
+            {
+                  "name": "Barbar Temple",
+                  "text": "Templul Barbar este un sit arheologic antic lângă Karrana.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain Fort",
+                  "text": "Muzeul Fortăreței Qal'at al-Bahrain păstrează descoperiri arheologice în Karrana.",
+                  "category": "museum",
+                  "coords": [
+                        50.522581,
+                        26.235156
+                  ]
+            },
+            {
+                  "name": "Harris",
+                  "text": "Harris este o atracție locală în Karrana.",
+                  "category": "landmark",
+                  "coords": [
+                        50.524217,
+                        26.220634
+                  ]
+            },
+            {
+                  "name": "المقشع",
+                  "text": "Almaqsha este un loc interesant în Karrana.",
+                  "category": "landmark",
+                  "coords": [
+                        50.517235,
+                        26.221615
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bahrain Fort",
+                  "text": "The Bahrain Fort is a historic fortress near Karrana.",
+                  "category": "castle",
+                  "coords": [
+                        50.52021,
+                        26.233336
+                  ]
+            },
+            {
+                  "name": "Barbar Temple",
+                  "text": "The Barbar Temple is an ancient archaeological site near Karrana.",
+                  "category": "historical",
+                  "coords": [
+                        50.48416,
+                        26.226161
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Bahrain Fort",
+                  "text": "The Qal'at al-Bahrain Fort Museum preserves findings in Karrana.",
+                  "category": "museum",
+                  "coords": [
+                        50.522581,
+                        26.235156
+                  ]
+            },
+            {
+                  "name": "Harris",
+                  "text": "Harris is a local attraction in Karrana.",
+                  "category": "landmark",
+                  "coords": [
+                        50.524217,
+                        26.220634
+                  ]
+            },
+            {
+                  "name": "Almaqsha",
+                  "text": "Almaqsha is an interesting location in Karrana.",
+                  "category": "landmark",
+                  "coords": [
+                        50.517235,
+                        26.221615
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-17",
     coords: [50.505, 26.2325],
@@ -1756,7 +5023,160 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/karrana-cities-v2.webp"},
   {
-    id: "salmabad-cities-v2",
+    id: "salmabad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adhari Park",
+                  "text": "Der Adhari Park ist ein bekannter Vergnügungspark in Salmabad.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "Royal Mound 2 ist eine archäologische Stätte in Salmabad.",
+                  "category": "historical",
+                  "coords": [
+                        50.514909,
+                        26.159904
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Der Adhari Theme Park ist eine beliebte lokale Attraktion in Salmabad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "Burial mound",
+                  "text": "Dieser Grabhügel ist eine historische Sehenswürdigkeit in Salmabad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adhari Park",
+                  "text": "Az Adhari Park egy jól ismert vidámpark Salmabad városában.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "A Royal Mound 2 egy régészeti lelőhely Salmabad városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.514909,
+                        26.159904
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Az Adhari Theme Park egy népszerű helyi látványosság Salmabad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "Burial mound",
+                  "text": "Ez a sírhalom egy történelmi látványosság Salmabad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adhari Park",
+                  "text": "Adhari Park este un cunoscut parc de distracții tematic situat în Salmabad.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "Royal Mound 2 este un sit arheologic situat în Salmabad.",
+                  "category": "historical",
+                  "coords": [
+                        50.514909,
+                        26.159904
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "Parcul tematic Adhari este o atracție locală populară situată în Salmabad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "Burial mound",
+                  "text": "Acest tumul funerar este o atracție istorică aflată în Salmabad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adhari Park",
+                  "text": "Adhari Park is a well-known amusement theme park located in Salmabad.",
+                  "category": "recreational",
+                  "coords": [
+                        50.545829,
+                        26.198446
+                  ]
+            },
+            {
+                  "name": "Royal Mound 2",
+                  "text": "Royal Mound 2 is an archaeological site located in Salmabad.",
+                  "category": "historical",
+                  "coords": [
+                        50.514909,
+                        26.159904
+                  ]
+            },
+            {
+                  "name": "Adhari Theme Park",
+                  "text": "The Adhari Theme Park is a popular local attraction located in Salmabad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.544343,
+                        26.197661
+                  ]
+            },
+            {
+                  "name": "Burial mound",
+                  "text": "This Burial mound is a historical attraction found in Salmabad.",
+                  "category": "landmark",
+                  "coords": [
+                        50.515008,
+                        26.157578
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-17",
     coords: [50.5252, 26.1822],
@@ -1887,7 +5307,340 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/karbabad-cities-v2.webp"},
   {
-    id: "nabih-saleh-cities-v2",
+    id: "nabih-saleh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alter Palast",
+                  "text": "Das Alte Schloss ist eine historische Festung in Nabih Saleh.",
+                  "category": "castle",
+                  "coords": [
+                        50.587444,
+                        26.22196
+                  ]
+            },
+            {
+                  "name": "مسجد أحمد الفاتح",
+                  "text": "Die Al-Fateh-Moschee ist eine monumentale Sehenswürdigkeit in Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.598332,
+                        26.218965
+                  ]
+            },
+            {
+                  "name": "قصر القضيبية",
+                  "text": "Der Gudaibiya-Palast ist ein prächtiges Gebäude in Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.592693,
+                        26.218556
+                  ]
+            },
+            {
+                  "name": "مطعم السي سيد",
+                  "text": "Das Restaurant Al-Sayed ist eine bekannte Attraktion in Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5873,
+                        26.214719
+                  ]
+            },
+            {
+                  "name": "Bashar Gallery",
+                  "text": "Die Bashar Gallery zeigt zeitgenössische Kunst in Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.592549,
+                        26.206788
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "Die Golden Gallery ist eine Kunstgalerie in Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.596734,
+                        26.201778
+                  ]
+            },
+            {
+                  "name": "PCC",
+                  "text": "Das PCC ist ein lokaler Anlaufpunkt in Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584933,
+                        26.206328
+                  ]
+            },
+            {
+                  "name": "Arabesque Art Gallery",
+                  "text": "Die Arabesque Art Gallery präsentiert Kunst in Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.592147,
+                        26.203958
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "Die Jallawi Gallery ist ein Kunstort in Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "القصر القديم",
+                  "text": "Az Öreg Palota egy történelmi erődítmény Nabih Salehben.",
+                  "category": "castle",
+                  "coords": [
+                        50.587444,
+                        26.22196
+                  ]
+            },
+            {
+                  "name": "مسجد أحمد الفاتح",
+                  "text": "Az Al-Fateh nagymecset egy monumentális látnivaló Nabih Salehben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.598332,
+                        26.218965
+                  ]
+            },
+            {
+                  "name": "قصر القضيبية",
+                  "text": "A Gudaibiya Palota egy impozáns épület Nabih Salehben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.592693,
+                        26.218556
+                  ]
+            },
+            {
+                  "name": "مطعم السي سيد",
+                  "text": "Az Al-Sayed étterem egy népszerű látnivaló Nabih Salehben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5873,
+                        26.214719
+                  ]
+            },
+            {
+                  "name": "Bashar Gallery",
+                  "text": "A Bashar Galéria kortárs művészetet mutat be Nabih Salehben.",
+                  "category": "museum",
+                  "coords": [
+                        50.592549,
+                        26.206788
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "A Golden Galéria egy művészeti kiállítóhely Nabih Salehben.",
+                  "category": "museum",
+                  "coords": [
+                        50.596734,
+                        26.201778
+                  ]
+            },
+            {
+                  "name": "PCC",
+                  "text": "A PCC egy helyi központ Nabih Salehben.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584933,
+                        26.206328
+                  ]
+            },
+            {
+                  "name": "Arabesque Art Gallery",
+                  "text": "Az Arabesque Art Galéria művészetet mutat be Nabih Salehben.",
+                  "category": "museum",
+                  "coords": [
+                        50.592147,
+                        26.203958
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "A Jallawi Galéria egy művészeti helyszín Nabih Salehben.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "القصر القديم",
+                  "text": "Vechiul Palat este o fortăreață istorică în Nabih Saleh.",
+                  "category": "castle",
+                  "coords": [
+                        50.587444,
+                        26.22196
+                  ]
+            },
+            {
+                  "name": "مسجد أحمد الفاتح",
+                  "text": "Marea Moschee Al-Fateh este o atracție monumentală în Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.598332,
+                        26.218965
+                  ]
+            },
+            {
+                  "name": "قصر القضيبية",
+                  "text": "Palatul Gudaibiya este o clădire impunătoare în Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.592693,
+                        26.218556
+                  ]
+            },
+            {
+                  "name": "مطعم السي سيد",
+                  "text": "Restaurantul Al-Sayed este o atracție populară în Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5873,
+                        26.214719
+                  ]
+            },
+            {
+                  "name": "Bashar Gallery",
+                  "text": "Galeria Bashar expune artă contemporană în Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.592549,
+                        26.206788
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "Galeria Golden este un spațiu expozițional de artă în Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.596734,
+                        26.201778
+                  ]
+            },
+            {
+                  "name": "PCC",
+                  "text": "PCC este un punct de interes local în Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584933,
+                        26.206328
+                  ]
+            },
+            {
+                  "name": "Arabesque Art Gallery",
+                  "text": "Galeria de Artă Arabesque prezintă artă în Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.592147,
+                        26.203958
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "Galeria Jallawi este un spațiu artistic în Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Palace",
+                  "text": "The Old Palace is a historic fortress in Nabih Saleh.",
+                  "category": "castle",
+                  "coords": [
+                        50.587444,
+                        26.22196
+                  ]
+            },
+            {
+                  "name": "Al Fateh Grand Mosque",
+                  "text": "The Al Fateh Grand Mosque is a monumental attraction in Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.598332,
+                        26.218965
+                  ]
+            },
+            {
+                  "name": "Gudaibiya Palace",
+                  "text": "The Gudaibiya Palace is an imposing building in Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.592693,
+                        26.218556
+                  ]
+            },
+            {
+                  "name": "مطعم السي سيد",
+                  "text": "The Al-Sayed restaurant is a popular attraction in Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.5873,
+                        26.214719
+                  ]
+            },
+            {
+                  "name": "Bashar Gallery",
+                  "text": "The Bashar Gallery displays contemporary art in Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.592549,
+                        26.206788
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "The Golden Gallery is an art exhibition space in Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.596734,
+                        26.201778
+                  ]
+            },
+            {
+                  "name": "PCC",
+                  "text": "The PCC is a local landmark in Nabih Saleh.",
+                  "category": "landmark",
+                  "coords": [
+                        50.584933,
+                        26.206328
+                  ]
+            },
+            {
+                  "name": "Arabesque Art Gallery",
+                  "text": "The Arabesque Art Gallery showcases art in Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.592147,
+                        26.203958
+                  ]
+            },
+            {
+                  "name": "Jallawi Gallery جلاوي جالري",
+                  "text": "The Jallawi Gallery is an art venue in Nabih Saleh.",
+                  "category": "museum",
+                  "coords": [
+                        50.564516,
+                        26.209415
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-13",
     coords: [50.5805, 26.1969],
@@ -2023,7 +5776,232 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       fr: [],
     }, image: "/poi-images/arad-cities-v2.webp"},
   {
-    id: "galali-cities-v2",
+    id: "galali-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arad Fort",
+                  "text": "Das Arad Fort ist eine historische islamische Festung in der Nähe von Galali.",
+                  "category": "castle",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "مأتم الإمام علي",
+                  "text": "Dieses Museum und diese Kulturstätte befinden sich in der Stadt Galali.",
+                  "category": "museum",
+                  "coords": [
+                        50.626652,
+                        26.286225
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "Das Rashid Al-Oraifi Museum ist ein lokales Museum in Galali.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "Die Hend Gallery ist eine Kunstgalerie in der Stadt Galali.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "Diese lokale Attraktion und das Naturschutzgebiet befinden sich in Galali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            },
+            {
+                  "name": "The Grove Beach",
+                  "text": "The Grove Beach ist ein Strandresort, das Küstenerholung in Galali bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        50.670005,
+                        26.277667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arad Fort",
+                  "text": "Az Arad erőd egy történelmi iszlám erődítmény Galali közelében.",
+                  "category": "castle",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "مأتم الإمام علي",
+                  "text": "Ez a múzeum és kulturális helyszín Galali városában található.",
+                  "category": "museum",
+                  "coords": [
+                        50.626652,
+                        26.286225
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "A Rashid Al-Oraifi Múzeum egy helyi múzeum Galali városában.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "A Hend Gallery egy művészeti galéria Galali városában.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "Ez a helyi látványosság és természetvédelmi terület Galali városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            },
+            {
+                  "name": "The Grove Beach",
+                  "text": "A The Grove Beach egy tengerparti üdülőhely, amely kikapcsolódást kínál Galali városában.",
+                  "category": "recreational",
+                  "coords": [
+                        50.670005,
+                        26.277667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arad Fort",
+                  "text": "Fortul Arad este o fortăreață islamică istorică situată în apropiere de Galali.",
+                  "category": "castle",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "مأتم الإمام علي",
+                  "text": "Acest muzeu și sit cultural se află în orașul Galali.",
+                  "category": "museum",
+                  "coords": [
+                        50.626652,
+                        26.286225
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "Muzeul Rashid Al-Oraifi este un muzeu local situat în Galali.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "Hend Gallery este o galerie de artă situată în orașul Galali.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "Această atracție locală și rezervație se află în orașul Galali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            },
+            {
+                  "name": "The Grove Beach",
+                  "text": "The Grove Beach este o stațiune balneară care oferă relaxare pe coastă în Galali.",
+                  "category": "recreational",
+                  "coords": [
+                        50.670005,
+                        26.277667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arad Fort",
+                  "text": "Arad Fort is a historic Islamic fort located near Galali.",
+                  "category": "castle",
+                  "coords": [
+                        50.627167,
+                        26.25248
+                  ]
+            },
+            {
+                  "name": "مأتم الإمام علي",
+                  "text": "This museum and cultural site is located in the city of Galali.",
+                  "category": "museum",
+                  "coords": [
+                        50.626652,
+                        26.286225
+                  ]
+            },
+            {
+                  "name": "Rashid Al-Oraifi Museum",
+                  "text": "The Rashid Al-Oraifi Museum is a local museum situated in Galali.",
+                  "category": "museum",
+                  "coords": [
+                        50.617909,
+                        26.264169
+                  ]
+            },
+            {
+                  "name": "Hend Gallery",
+                  "text": "Hend Gallery is an art gallery located in the city of Galali.",
+                  "category": "museum",
+                  "coords": [
+                        50.619478,
+                        26.26044
+                  ]
+            },
+            {
+                  "name": "منته و محمية عراد",
+                  "text": "This local attraction and protected area is situated in Galali.",
+                  "category": "landmark",
+                  "coords": [
+                        50.622973,
+                        26.262212
+                  ]
+            },
+            {
+                  "name": "The Grove Beach",
+                  "text": "The Grove Beach is a beach resort offering coastal relaxation in Galali.",
+                  "category": "recreational",
+                  "coords": [
+                        50.670005,
+                        26.277667
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BH-15",
     coords: [50.6416, 26.2755],

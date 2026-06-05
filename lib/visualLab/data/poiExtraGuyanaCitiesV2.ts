@@ -752,7 +752,88 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Enmore est située à environ 18 kilomètres au sud-est de Georgetown.", "La population s'élève à environ 3 200 habitants (état 2020).", "La sucrerie a été fermée en 2017.", "La superficie du village est d'environ 4,2 kilomètres carrés.", "L'altitude moyenne est de 1 mètre au-dessus du niveau de la mer.", "L'Enmore Sugar Estate a été fondée en 1864."],
     },
   }, {
-    id: "lusignan-cities-v2",
+    id: "lusignan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linden drive",
+                  "text": "Linden drive ist eine bekannte Sehenswürdigkeit in Lusignan.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "Golden Heart Care Centre ist ein Zentrum in Lusignan.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linden drive",
+                  "text": "A Linden drive egy ismert látnivaló Lusignanban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "A Golden Heart Care Centre egy központ Lusignanban.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linden drive",
+                  "text": "Linden drive este o atracție cunoscută din Lusignan.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "Golden Heart Care Centre este un centru din Lusignan.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linden drive",
+                  "text": "Linden drive is a well-known attraction in Lusignan.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "Golden Heart Care Centre is a centre in Lusignan.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-DE",
     coords: [-57.9833, 6.7833],
@@ -799,7 +880,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Lusignan est situé à environ 20 kilomètres de Georgetown.", "La population est d'environ 2 800 habitants (en 2020).", "L'usine sucrière a été fermée en 2018.", "La superficie du village est d'environ 3,8 kilomètres carrés.", "L'altitude moyenne est de 1 mètre au-dessus du niveau de la mer.", "La localité a été nommée d'après la famille noble française de Lusignan."],
     },
   }, {
-    id: "buxton-cities-v2",
+    id: "buxton-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linden drive",
+                  "text": "Linden drive ist eine Sehenswürdigkeit in Buxton.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linden drive",
+                  "text": "A Linden drive egy látványosság Buxton városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linden drive",
+                  "text": "Linden drive este o atracție din Buxton.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linden drive",
+                  "text": "Linden drive is an attraction found in Buxton.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-DE",
     coords: [-57.986, 6.7924],
@@ -940,7 +1066,232 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Paradise se situe à environ 14 kilomètres de Georgetown.", "La population s'élève à environ 2 200 habitants (chiffres 2020).", "La superficie du village est d'environ 3,1 kilomètres carrés.", "L'altitude moyenne est de 1 mètre au-dessus du niveau de la mer.", "L'agriculture comprend plus de 500 hectares de rizières.", "La localité dispose d'une école primaire d'environ 300 élèves."],
     },
   }, {
-    id: "haslington-cities-v2",
+    id: "haslington-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nootenzuil (Belfield) Sluice",
+                  "text": "Nootenzuil (Belfield) Sluice bietet einen Aussichtspunkt in Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.961752,
+                        6.750276
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Start ist ein Aussichtspunkt in Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.968687,
+                        6.751762
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "End ist ein Aussichtspunkt in Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.960562,
+                        6.739354
+                  ]
+            },
+            {
+                  "name": "Start new",
+                  "text": "Start new ist ein Aussichtspunkt in Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.959835,
+                        6.742337
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "End 2 dient als Aussichtspunkt in Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.969611,
+                        6.752492
+                  ]
+            },
+            {
+                  "name": "Eric",
+                  "text": "Eric ist ein Aussichtspunkt in der Stadt Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.943767,
+                        6.725544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nootenzuil (Belfield) Sluice",
+                  "text": "A Nootenzuil (Belfield) Sluice egy kilátópont Haslington városában.",
+                  "category": "natural",
+                  "coords": [
+                        -57.961752,
+                        6.750276
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "A Start egy kilátópont Haslingtonban.",
+                  "category": "natural",
+                  "coords": [
+                        -57.968687,
+                        6.751762
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "Az End egy kilátópont Haslington területén.",
+                  "category": "natural",
+                  "coords": [
+                        -57.960562,
+                        6.739354
+                  ]
+            },
+            {
+                  "name": "Start new",
+                  "text": "A Start new egy kilátópont Haslingtonban.",
+                  "category": "natural",
+                  "coords": [
+                        -57.959835,
+                        6.742337
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "Az End 2 egy kilátópont Haslington városában.",
+                  "category": "natural",
+                  "coords": [
+                        -57.969611,
+                        6.752492
+                  ]
+            },
+            {
+                  "name": "Eric",
+                  "text": "Az Eric egy kilátópont Haslington városában.",
+                  "category": "natural",
+                  "coords": [
+                        -57.943767,
+                        6.725544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nootenzuil (Belfield) Sluice",
+                  "text": "Nootenzuil (Belfield) Sluice oferă un punct de belvedere în Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.961752,
+                        6.750276
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Start este un punct de belvedere situat în Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.968687,
+                        6.751762
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "End este un punct de belvedere din Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.960562,
+                        6.739354
+                  ]
+            },
+            {
+                  "name": "Start new",
+                  "text": "Start new este un punct de belvedere în Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.959835,
+                        6.742337
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "End 2 servește drept punct de belvedere în Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.969611,
+                        6.752492
+                  ]
+            },
+            {
+                  "name": "Eric",
+                  "text": "Eric este un punct de belvedere situat în orașul Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.943767,
+                        6.725544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nootenzuil (Belfield) Sluice",
+                  "text": "Nootenzuil (Belfield) Sluice offers a viewpoint in Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.961752,
+                        6.750276
+                  ]
+            },
+            {
+                  "name": "Start",
+                  "text": "Start is a viewpoint situated in Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.968687,
+                        6.751762
+                  ]
+            },
+            {
+                  "name": "End",
+                  "text": "End is a viewpoint located in Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.960562,
+                        6.739354
+                  ]
+            },
+            {
+                  "name": "Start new",
+                  "text": "Start new is a scenic viewpoint in Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.959835,
+                        6.742337
+                  ]
+            },
+            {
+                  "name": "End 2",
+                  "text": "End 2 serves as a viewpoint in Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.969611,
+                        6.752492
+                  ]
+            },
+            {
+                  "name": "Eric",
+                  "text": "Eric is a viewpoint situated in the city of Haslington.",
+                  "category": "natural",
+                  "coords": [
+                        -57.943767,
+                        6.725544
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-DE",
     coords: [-57.95, 6.75],
@@ -1034,7 +1385,124 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Lieu de naissance du musicien Eddy Grant (connu pour 'Electric Avenue').", "Située dans la zone administrative de Demerara-Mahaica (Région 4).", "Ancienne gare importante du chemin de fer côtier guyanais.", "Le marché local est un centre important pour le commerce de produits frais.", "Achetée par d'anciens travailleurs après l'émancipation des esclaves.", "Se trouve à environ 6 miles (10 km) du centre-ville de Georgetown."],
     },
   }, {
-    id: "triumph-cities-v2",
+    id: "triumph-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Navo",
+                  "text": "Navo ist ein markantes Denkmal in der Stadt Triumph.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            },
+            {
+                  "name": "Linden drive",
+                  "text": "Linden drive ist eine beliebte Sehenswürdigkeit in Triumph.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "Golden Heart Care Centre ist ein Zentrum in Triumph.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Navo",
+                  "text": "A Navo egy feltűnő emlékmű Triumph városában.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            },
+            {
+                  "name": "Linden drive",
+                  "text": "A Linden drive egy népszerű látnivaló Triumphban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "A Golden Heart Care Centre egy központ Triumphban.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Navo",
+                  "text": "Navo este un monument distinctiv din orașul Triumph.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            },
+            {
+                  "name": "Linden drive",
+                  "text": "Linden drive este o atracție populară din Triumph.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "Golden Heart Care Centre este un centru din Triumph.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Navo",
+                  "text": "Navo is a distinctive monument in the city of Triumph.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            },
+            {
+                  "name": "Linden drive",
+                  "text": "Linden drive is a popular attraction in Triumph.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.005943,
+                        6.776297
+                  ]
+            },
+            {
+                  "name": "Golden Heart Day and Night Care Centre",
+                  "text": "Golden Heart Care Centre is a centre in Triumph.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.999148,
+                        6.763985
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-DE",
     coords: [-58.0, 6.7833],
@@ -1128,7 +1596,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Situé dans la région de Demerara-Mahaica (Région 4).", "Se trouve sur l'axe principal East Coast Highway.", "Faisait autrefois partie de la grande ceinture de canne à sucre du Guyana.", "Dispose d'un centre communautaire important pour les activités sociales.", "La localité est caractérisée par un tracé de rues à angle droit.", "Jouxte directement le village de Vryheid's Lust."],
     },
   }, {
-    id: "beterverwagting-cities-v2",
+    id: "beterverwagting-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Navo",
+                  "text": "Navo ist ein Denkmal in Beterverwagting.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Navo",
+                  "text": "A Navo egy emlékmű Beterverwagtingban.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Navo",
+                  "text": "Navo este un monument situat în Beterverwagting.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Navo",
+                  "text": "Navo is a monument located in Beterverwagting.",
+                  "category": "historical",
+                  "coords": [
+                        -58.017528,
+                        6.786932
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-DE",
     coords: [-58.0333, 6.7833],
@@ -1222,7 +1735,124 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Blairmont est situé à environ 85 kilomètres de Georgetown.", "La population est d'environ 3 100 habitants (en 2020).", "La sucrerie a été fermée en 2017.", "La superficie du village est d'environ 5,5 kilomètres carrés.", "L'altitude moyenne est de 2 mètres au-dessus du niveau de la mer.", "La rivière Berbice mesure environ 200 mètres de large à cet endroit."],
     },
   }, {
-    id: "rosignol-cities-v2",
+    id: "rosignol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort St. Andries",
+                  "text": "Fort St. Andries ist eine Ruinenstätte in Rosignol.",
+                  "category": "historical",
+                  "coords": [
+                        -57.512386,
+                        6.25873
+                  ]
+            },
+            {
+                  "name": "The Six Cannons Military monument",
+                  "text": "Das The Six Cannons Military monument ist ein Denkmal in Rosignol.",
+                  "category": "historical",
+                  "coords": [
+                        -57.519143,
+                        6.252259
+                  ]
+            },
+            {
+                  "name": "Berbice Bridge",
+                  "text": "Berbice Bridge ist eine Brücke in Rosignol.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.528003,
+                        6.281063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort St. Andries",
+                  "text": "A Fort St. Andries egy romterület Rosignol városában.",
+                  "category": "historical",
+                  "coords": [
+                        -57.512386,
+                        6.25873
+                  ]
+            },
+            {
+                  "name": "The Six Cannons Military monument",
+                  "text": "A The Six Cannons Military monument egy emlékmű Rosignolban.",
+                  "category": "historical",
+                  "coords": [
+                        -57.519143,
+                        6.252259
+                  ]
+            },
+            {
+                  "name": "Berbice Bridge",
+                  "text": "A Berbice Bridge egy híd Rosignol városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.528003,
+                        6.281063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort St. Andries",
+                  "text": "Fort St. Andries este un sit cu ruine situat în Rosignol.",
+                  "category": "historical",
+                  "coords": [
+                        -57.512386,
+                        6.25873
+                  ]
+            },
+            {
+                  "name": "The Six Cannons Military monument",
+                  "text": "The Six Cannons Military monument este un monument situat în Rosignol.",
+                  "category": "historical",
+                  "coords": [
+                        -57.519143,
+                        6.252259
+                  ]
+            },
+            {
+                  "name": "Berbice Bridge",
+                  "text": "Berbice Bridge este un pod situat în Rosignol.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.528003,
+                        6.281063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort St. Andries",
+                  "text": "Fort St. Andries is a site of ruins located in Rosignol.",
+                  "category": "historical",
+                  "coords": [
+                        -57.512386,
+                        6.25873
+                  ]
+            },
+            {
+                  "name": "The Six Cannons Military monument",
+                  "text": "The Six Cannons Military monument is a monument located in Rosignol.",
+                  "category": "historical",
+                  "coords": [
+                        -57.519143,
+                        6.252259
+                  ]
+            },
+            {
+                  "name": "Berbice Bridge",
+                  "text": "Berbice Bridge is a bridge situated in Rosignol.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.528003,
+                        6.281063
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-MA",
     coords: [-57.5367, 6.2694],
@@ -2961,7 +3591,160 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Site d'une importante centrale hydroélectrique sur la rivière Chiung", "Situé dans la région 8 (Potaro-Siparuni)", "Dispose d'une école secondaire moderne pour l'arrière-pays", "Peuplé principalement par le peuple Patamona", "Situé près de la frontière avec le Brésil", "Centre important pour l'éducation et l'énergie dans les hautes terres"],
     },
   }, {
-    id: "annai-cities-v2",
+    id: "annai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Ridge",
+                  "text": "The Ridge bietet einen schönen Aussichtspunkt in Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.133404,
+                        3.974878
+                  ]
+            },
+            {
+                  "name": "Rupertee spring creek",
+                  "text": "Rupertee spring creek ist ein naturnaher Aussichtspunkt in Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.126586,
+                        3.975345
+                  ]
+            },
+            {
+                  "name": "Itch pond annai",
+                  "text": "Itch pond annai ist ein friedlicher Aussichtspunkt in Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.129652,
+                        3.947037
+                  ]
+            },
+            {
+                  "name": "Rupertee well Pond",
+                  "text": "Rupertee well Pond ist ein natürlicher Aussichtspunkt in Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.122741,
+                        3.96744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Ridge",
+                  "text": "A The Ridge egy szép kilátópont Annai városában.",
+                  "category": "natural",
+                  "coords": [
+                        -59.133404,
+                        3.974878
+                  ]
+            },
+            {
+                  "name": "Rupertee spring creek",
+                  "text": "A Rupertee spring creek egy természetközeli kilátópont Annai-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -59.126586,
+                        3.975345
+                  ]
+            },
+            {
+                  "name": "Itch pond annai",
+                  "text": "Az Itch pond annai egy békés kilátópont Annai-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -59.129652,
+                        3.947037
+                  ]
+            },
+            {
+                  "name": "Rupertee well Pond",
+                  "text": "A Rupertee well Pond egy természeti kilátópont Annai-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -59.122741,
+                        3.96744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Ridge",
+                  "text": "The Ridge oferă un punct de observație frumos în Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.133404,
+                        3.974878
+                  ]
+            },
+            {
+                  "name": "Rupertee spring creek",
+                  "text": "Rupertee spring creek este un punct de observație natural din Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.126586,
+                        3.975345
+                  ]
+            },
+            {
+                  "name": "Itch pond annai",
+                  "text": "Itch pond annai este un punct de observație liniștit din Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.129652,
+                        3.947037
+                  ]
+            },
+            {
+                  "name": "Rupertee well Pond",
+                  "text": "Rupertee well Pond este un punct de observație natural din Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.122741,
+                        3.96744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Ridge",
+                  "text": "The Ridge offers a beautiful viewpoint in Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.133404,
+                        3.974878
+                  ]
+            },
+            {
+                  "name": "Rupertee spring creek",
+                  "text": "Rupertee spring creek is a scenic viewpoint in Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.126586,
+                        3.975345
+                  ]
+            },
+            {
+                  "name": "Itch pond annai",
+                  "text": "Itch pond annai is a peaceful viewpoint in Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.129652,
+                        3.947037
+                  ]
+            },
+            {
+                  "name": "Rupertee well Pond",
+                  "text": "Rupertee well Pond is a natural viewpoint in Annai.",
+                  "category": "natural",
+                  "coords": [
+                        -59.122741,
+                        3.96744
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-UT",
     coords: [-59.1333, 3.95],
@@ -3008,7 +3791,52 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       fr: ["Considérée comme la porte d'entrée de la région du Rupununi", "Située dans la Région 9 (Upper Takutu-Upper Essequibo)", "Centre pour le peuple indigène Macushi", "Abrite le Bina Hill Institute pour les connaissances traditionnelles", "Situation directe sur la route Georgetown-Lethem", "Site réputé pour l'écotourisme avec le Rock View Lodge"],
     },
   }, {
-    id: "surama-cities-v2",
+    id: "surama-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Turtle Savannah",
+                  "text": "Turtle Savannah ist ein Aussichtspunkt in Surama.",
+                  "category": "natural",
+                  "coords": [
+                        -59.060309,
+                        4.145063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Turtle Savannah",
+                  "text": "A Turtle Savannah egy kilátópont Surama területén.",
+                  "category": "natural",
+                  "coords": [
+                        -59.060309,
+                        4.145063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turtle Savannah",
+                  "text": "Turtle Savannah este un punct de belvedere aflat în Surama.",
+                  "category": "natural",
+                  "coords": [
+                        -59.060309,
+                        4.145063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Turtle Savannah",
+                  "text": "Turtle Savannah is a viewpoint found in Surama.",
+                  "category": "natural",
+                  "coords": [
+                        -59.060309,
+                        4.145063
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GY-UT",
     coords: [-59.05, 4.1333],

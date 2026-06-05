@@ -621,7 +621,520 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "putrajaya-cities-v2",
+    id: "putrajaya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercu Tanda Putrajaya",
+                  "text": "Denkmal in Putrajaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.697586,
+                        2.940833
+                  ]
+            },
+            {
+                  "name": "Taman Botani Putrajaya",
+                  "text": "Botanischer Garten in Putrajaya.",
+                  "category": "park",
+                  "coords": [
+                        101.696775,
+                        2.946429
+                  ]
+            },
+            {
+                  "name": "Anti Corruption Excelence Award Status",
+                  "text": "Denkmal in Putrajaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.692223,
+                        2.935888
+                  ]
+            },
+            {
+                  "name": "MALAYSIA MADANI sign",
+                  "text": "Sehenswürdigkeit in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.691305,
+                        2.935664
+                  ]
+            },
+            {
+                  "name": "Astaka Morocco",
+                  "text": "Sehenswürdigkeit in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.69311,
+                        2.943006
+                  ]
+            },
+            {
+                  "name": "Masjid Tuanku Mizan Zainal Abidin",
+                  "text": "Moschee in Putrajaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.68125,
+                        2.919219
+                  ]
+            },
+            {
+                  "name": "Perbadanan Putrajaya",
+                  "text": "Rathaus in Putrajaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.684012,
+                        2.918017
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Wawasan",
+                  "text": "Brücke in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.683887,
+                        2.92818
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Perdana",
+                  "text": "Brücke in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.68974,
+                        2.941523
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Setia",
+                  "text": "Brücke in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.688319,
+                        2.910174
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Bakti",
+                  "text": "Brücke in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.698131,
+                        2.932977
+                  ]
+            },
+            {
+                  "name": "Jambatan Putra",
+                  "text": "Brücke in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.690301,
+                        2.932736
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Saujana",
+                  "text": "Brücke in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.676366,
+                        2.913554
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Bestari",
+                  "text": "Brücke in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.698394,
+                        2.925168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercu Tanda Putrajaya",
+                  "text": "Emlékmű Putrajayában.",
+                  "category": "historical",
+                  "coords": [
+                        101.697586,
+                        2.940833
+                  ]
+            },
+            {
+                  "name": "Taman Botani Putrajaya",
+                  "text": "Botanikus kert Putrajayában.",
+                  "category": "park",
+                  "coords": [
+                        101.696775,
+                        2.946429
+                  ]
+            },
+            {
+                  "name": "Anti Corruption Excelence Award Status",
+                  "text": "Emlékmű Putrajayában.",
+                  "category": "historical",
+                  "coords": [
+                        101.692223,
+                        2.935888
+                  ]
+            },
+            {
+                  "name": "MALAYSIA MADANI sign",
+                  "text": "Látnivaló Putrajayában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.691305,
+                        2.935664
+                  ]
+            },
+            {
+                  "name": "Astaka Morocco",
+                  "text": "Látnivaló Putrajayában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.69311,
+                        2.943006
+                  ]
+            },
+            {
+                  "name": "Masjid Tuanku Mizan Zainal Abidin",
+                  "text": "Mecset Putrajayában.",
+                  "category": "religious",
+                  "coords": [
+                        101.68125,
+                        2.919219
+                  ]
+            },
+            {
+                  "name": "Perbadanan Putrajaya",
+                  "text": "Városháza Putrajayában.",
+                  "category": "historical",
+                  "coords": [
+                        101.684012,
+                        2.918017
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Wawasan",
+                  "text": "Híd Putrajayában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.683887,
+                        2.92818
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Perdana",
+                  "text": "Híd Putrajayában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.68974,
+                        2.941523
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Setia",
+                  "text": "Híd Putrajayában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.688319,
+                        2.910174
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Bakti",
+                  "text": "Híd Putrajayában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.698131,
+                        2.932977
+                  ]
+            },
+            {
+                  "name": "Jambatan Putra",
+                  "text": "Híd Putrajayában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.690301,
+                        2.932736
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Saujana",
+                  "text": "Híd Putrajayában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.676366,
+                        2.913554
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Bestari",
+                  "text": "Híd Putrajayában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.698394,
+                        2.925168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercu Tanda Putrajaya",
+                  "text": "Monument în Putrajaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.697586,
+                        2.940833
+                  ]
+            },
+            {
+                  "name": "Taman Botani Putrajaya",
+                  "text": "Grădină botanică în Putrajaya.",
+                  "category": "park",
+                  "coords": [
+                        101.696775,
+                        2.946429
+                  ]
+            },
+            {
+                  "name": "Anti Corruption Excelence Award Status",
+                  "text": "Monument în Putrajaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.692223,
+                        2.935888
+                  ]
+            },
+            {
+                  "name": "MALAYSIA MADANI sign",
+                  "text": "Atracție în Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.691305,
+                        2.935664
+                  ]
+            },
+            {
+                  "name": "Astaka Morocco",
+                  "text": "Atracție în Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.69311,
+                        2.943006
+                  ]
+            },
+            {
+                  "name": "Masjid Tuanku Mizan Zainal Abidin",
+                  "text": "Moschee în Putrajaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.68125,
+                        2.919219
+                  ]
+            },
+            {
+                  "name": "Perbadanan Putrajaya",
+                  "text": "Primărie în Putrajaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.684012,
+                        2.918017
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Wawasan",
+                  "text": "Pod în Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.683887,
+                        2.92818
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Perdana",
+                  "text": "Pod în Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.68974,
+                        2.941523
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Setia",
+                  "text": "Pod în Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.688319,
+                        2.910174
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Bakti",
+                  "text": "Pod în Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.698131,
+                        2.932977
+                  ]
+            },
+            {
+                  "name": "Jambatan Putra",
+                  "text": "Pod în Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.690301,
+                        2.932736
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Saujana",
+                  "text": "Pod în Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.676366,
+                        2.913554
+                  ]
+            },
+            {
+                  "name": "Jambatan Seri Bestari",
+                  "text": "Pod în Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.698394,
+                        2.925168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Putrajaya Landmark",
+                  "text": "Monument in Putrajaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.697586,
+                        2.940833
+                  ]
+            },
+            {
+                  "name": "Putrajaya Botanical Garden",
+                  "text": "Botanical garden in Putrajaya.",
+                  "category": "park",
+                  "coords": [
+                        101.696775,
+                        2.946429
+                  ]
+            },
+            {
+                  "name": "Anti Corruption Excelence Award Status",
+                  "text": "Monument in Putrajaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.692223,
+                        2.935888
+                  ]
+            },
+            {
+                  "name": "MALAYSIA MADANI sign",
+                  "text": "Attraction in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.691305,
+                        2.935664
+                  ]
+            },
+            {
+                  "name": "Moroccan Pavilion Putrajaya",
+                  "text": "Attraction in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.69311,
+                        2.943006
+                  ]
+            },
+            {
+                  "name": "Tuanku Mizan Zainal Abidin Mosque",
+                  "text": "Mosque in Putrajaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.68125,
+                        2.919219
+                  ]
+            },
+            {
+                  "name": "Putrajaya Corporation",
+                  "text": "Town hall in Putrajaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.684012,
+                        2.918017
+                  ]
+            },
+            {
+                  "name": "Seri Wawasan Bridge",
+                  "text": "Bridge in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.683887,
+                        2.92818
+                  ]
+            },
+            {
+                  "name": "Seri Perdana Bridge",
+                  "text": "Bridge in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.68974,
+                        2.941523
+                  ]
+            },
+            {
+                  "name": "Seri Setia Bridge",
+                  "text": "Bridge in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.688319,
+                        2.910174
+                  ]
+            },
+            {
+                  "name": "Seri Bakti Bridge",
+                  "text": "Bridge in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.698131,
+                        2.932977
+                  ]
+            },
+            {
+                  "name": "Putra Bridge",
+                  "text": "Bridge in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.690301,
+                        2.932736
+                  ]
+            },
+            {
+                  "name": "Seri Saujana Bridge",
+                  "text": "Bridge in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.676366,
+                        2.913554
+                  ]
+            },
+            {
+                  "name": "Seri Bestari Bridge",
+                  "text": "Bridge in Putrajaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.698394,
+                        2.925168
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-16",
     coords: [101.696, 2.926],
@@ -669,7 +1182,304 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "subang-jaya-cities-v2",
+    id: "subang-jaya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stage",
+                  "text": "Stage ist ein Theater in Subang Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.592063,
+                        3.045247
+                  ]
+            },
+            {
+                  "name": "Bolder Ventures",
+                  "text": "Bolder Ventures Climbing Gym ist eine lokale Attraktion in Subang Jaya, die Kletteraktivitäten anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        101.604843,
+                        3.04515
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Falah",
+                  "text": "Die Al-Falah-Moschee ist ein bekanntes Gotteshaus in Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.587557,
+                        3.045172
+                  ]
+            },
+            {
+                  "name": "Majlis Bandaraya Subang Jaya",
+                  "text": "Der Stadtrat von Subang Jaya dient als Sitz der lokalen Regierung in Subang Jaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.582391,
+                        3.051531
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mukminun",
+                  "text": "Masjid Al-Mukminun ist eine lokale Moschee und ein Gotteshaus in Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.585504,
+                        3.060022
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nur",
+                  "text": "Masjid An-Nur ist ein Gotteshaus in Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.576575,
+                        3.057311
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "Masjid Nurul Iman ist ein Gotteshaus in Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.5889,
+                        3.014706
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Mahabbah",
+                  "text": "Masjid Baitul Mahabbah ist eine Moschee, die als Gotteshaus in Subang Jaya dient.",
+                  "category": "religious",
+                  "coords": [
+                        101.568626,
+                        3.020791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stage",
+                  "text": "A Stage egy színház Subang Jaya városában.",
+                  "category": "cultural",
+                  "coords": [
+                        101.592063,
+                        3.045247
+                  ]
+            },
+            {
+                  "name": "Bolder Ventures",
+                  "text": "A Bolder Ventures Climbing Gym egy mászási lehetőségeket kínáló helyi látványosság Subang Jaya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.604843,
+                        3.04515
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Falah",
+                  "text": "Az Al-Falah mecset egy ismert istentiszteleti hely Subang Jaya városában.",
+                  "category": "religious",
+                  "coords": [
+                        101.587557,
+                        3.045172
+                  ]
+            },
+            {
+                  "name": "Majlis Bandaraya Subang Jaya",
+                  "text": "A Subang Jaya Városi Tanács a helyi önkormányzat központjaként működik Subang Jaya városában.",
+                  "category": "historical",
+                  "coords": [
+                        101.582391,
+                        3.051531
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mukminun",
+                  "text": "A Masjid Al-Mukminun egy helyi mecset és istentiszteleti hely Subang Jaya városában.",
+                  "category": "religious",
+                  "coords": [
+                        101.585504,
+                        3.060022
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nur",
+                  "text": "A Masjid An-Nur egy istentiszteleti hely Subang Jaya városában.",
+                  "category": "religious",
+                  "coords": [
+                        101.576575,
+                        3.057311
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "A Masjid Nurul Iman egy istentiszteleti hely Subang Jaya városában.",
+                  "category": "religious",
+                  "coords": [
+                        101.5889,
+                        3.014706
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Mahabbah",
+                  "text": "A Masjid Baitul Mahabbah egy mecsetként szolgáló istentiszteleti hely Subang Jaya városában.",
+                  "category": "religious",
+                  "coords": [
+                        101.568626,
+                        3.020791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stage",
+                  "text": "Stage este un teatru situat în Subang Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.592063,
+                        3.045247
+                  ]
+            },
+            {
+                  "name": "Bolder Ventures",
+                  "text": "Bolder Ventures Climbing Gym este o atracție locală din Subang Jaya care oferă activități de escaladă.",
+                  "category": "landmark",
+                  "coords": [
+                        101.604843,
+                        3.04515
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Falah",
+                  "text": "Moscheea Al-Falah este un lăcaș de cult notabil din Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.587557,
+                        3.045172
+                  ]
+            },
+            {
+                  "name": "Majlis Bandaraya Subang Jaya",
+                  "text": "Consiliul Local Subang Jaya servește drept sediu al administrației locale din Subang Jaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.582391,
+                        3.051531
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mukminun",
+                  "text": "Masjid Al-Mukminun este o moschee locală și un lăcaș de cult în Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.585504,
+                        3.060022
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nur",
+                  "text": "Masjid An-Nur este un lăcaș de cult situat în Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.576575,
+                        3.057311
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "Masjid Nurul Iman este un lăcaș de cult situat în Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.5889,
+                        3.014706
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Mahabbah",
+                  "text": "Masjid Baitul Mahabbah este o moschee ce servește ca lăcaș de cult în Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.568626,
+                        3.020791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stage",
+                  "text": "Stage is a theatre venue located in Subang Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.592063,
+                        3.045247
+                  ]
+            },
+            {
+                  "name": "Bolder Ventures Climbing Gym",
+                  "text": "Bolder Ventures Climbing Gym is a local attraction offering climbing activities in Subang Jaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.604843,
+                        3.04515
+                  ]
+            },
+            {
+                  "name": "Al-Falah Mosque",
+                  "text": "Al-Falah Mosque is a notable place of worship located in Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.587557,
+                        3.045172
+                  ]
+            },
+            {
+                  "name": "Subang Jaya City Council",
+                  "text": "The Subang Jaya City Council serves as the local government headquarters in Subang Jaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.582391,
+                        3.051531
+                  ]
+            },
+            {
+                  "name": "Masjid Al-Mukminun",
+                  "text": "Masjid Al-Mukminun is a local mosque and place of worship in Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.585504,
+                        3.060022
+                  ]
+            },
+            {
+                  "name": "Masjid An-Nur",
+                  "text": "Masjid An-Nur is a place of worship situated in Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.576575,
+                        3.057311
+                  ]
+            },
+            {
+                  "name": "Masjid Nurul Iman",
+                  "text": "Masjid Nurul Iman is a place of worship located in Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.5889,
+                        3.014706
+                  ]
+            },
+            {
+                  "name": "Masjid Baitul Mahabbah",
+                  "text": "Masjid Baitul Mahabbah is a mosque serving as a place of worship in Subang Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.568626,
+                        3.020791
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-10",
     coords: [101.58, 3.04],
@@ -717,7 +1527,304 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "klang-cities-v2",
+    id: "klang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galeri Diraja Sultan Abdul Aziz",
+                  "text": "Die Sultan Abdul Aziz Royal Gallery in Klang zeigt die reiche königliche Geschichte des Sultanats Selangor.",
+                  "category": "museum",
+                  "coords": [
+                        101.449241,
+                        3.041272
+                  ]
+            },
+            {
+                  "name": "Kota Raja Mahadi",
+                  "text": "Kota Raja Mahadi ist eine historische Attraktion in der Stadt Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445083,
+                        3.04505
+                  ]
+            },
+            {
+                  "name": "Taman Pengkalan Hampar",
+                  "text": "Taman Pengkalan Hampar ist ein Erholungsort im Freien in Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447939,
+                        3.045993
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "Little India in Klang ist ein lebendiges kulturelles Viertel und eine Touristenattraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447003,
+                        3.040365
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Church",
+                  "text": "Die Our Lady of Lourdes Church ist eine historische katholische Kirche in Klang, bekannt für ihre gotische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        101.444332,
+                        3.037442
+                  ]
+            },
+            {
+                  "name": "Jambatan Ketiga Klang",
+                  "text": "Die Klang Third Bridge, offiziell Raja Muda Nala Bridge genannt, überspannt den Klang River.",
+                  "category": "landmark",
+                  "coords": [
+                        101.426774,
+                        3.051622
+                  ]
+            },
+            {
+                  "name": "Jambatan Kota",
+                  "text": "Die Kota Bridge in Klang ist eine markante Doppelstockbrücke über den Klang River.",
+                  "category": "landmark",
+                  "coords": [
+                        101.449784,
+                        3.046914
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Klang",
+                  "text": "Gurdwara Sahib Klang ist ein bedeutendes Sikh-Gotteshaus für die Gemeinde in Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.444614,
+                        3.041073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galeri Diraja Sultan Abdul Aziz",
+                  "text": "A klangi Sultan Abdul Aziz Royal Gallery a Selangor Szultanátus gazdag királyi történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        101.449241,
+                        3.041272
+                  ]
+            },
+            {
+                  "name": "Kota Raja Mahadi",
+                  "text": "A Kota Raja Mahadi egy történelmi látványosság Klang városában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445083,
+                        3.04505
+                  ]
+            },
+            {
+                  "name": "Taman Pengkalan Hampar",
+                  "text": "A Taman Pengkalan Hampar egy szabadtéri rekreációs látványosság Klang városában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447939,
+                        3.045993
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "A klangi Little India egy élénk kulturális negyed és turisztikai látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447003,
+                        3.040365
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Church",
+                  "text": "Az Our Lady of Lourdes Church egy gótikus stílusú történelmi katolikus templom Klang városában.",
+                  "category": "religious",
+                  "coords": [
+                        101.444332,
+                        3.037442
+                  ]
+            },
+            {
+                  "name": "Jambatan Ketiga Klang",
+                  "text": "A hivatalosan Raja Muda Nala hídnak nevezett Klang Third Bridge a Klang folyót íveli át.",
+                  "category": "landmark",
+                  "coords": [
+                        101.426774,
+                        3.051622
+                  ]
+            },
+            {
+                  "name": "Jambatan Kota",
+                  "text": "A klangi Kota Bridge egy jellegzetes kétszintes híd a Klang folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        101.449784,
+                        3.046914
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Klang",
+                  "text": "A Gurdwara Sahib Klang egy jelentős szikh istentiszteleti hely Klang közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        101.444614,
+                        3.041073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galeri Diraja Sultan Abdul Aziz",
+                  "text": "Sultan Abdul Aziz Royal Gallery din Klang prezintă istoria regală a Sultanatului Selangor.",
+                  "category": "museum",
+                  "coords": [
+                        101.449241,
+                        3.041272
+                  ]
+            },
+            {
+                  "name": "Kota Raja Mahadi",
+                  "text": "Kota Raja Mahadi este o atracție istorică situată în orașul Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445083,
+                        3.04505
+                  ]
+            },
+            {
+                  "name": "Taman Pengkalan Hampar",
+                  "text": "Taman Pengkalan Hampar este o atracție de recreere în aer liber din Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447939,
+                        3.045993
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "Little India din Klang este o enclavă culturală vibrantă și o atracție turistică.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447003,
+                        3.040365
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Church",
+                  "text": "Our Lady of Lourdes Church este o biserică catolică istorică din Klang, cunoscută pentru arhitectura sa în stil gotic.",
+                  "category": "religious",
+                  "coords": [
+                        101.444332,
+                        3.037442
+                  ]
+            },
+            {
+                  "name": "Jambatan Ketiga Klang",
+                  "text": "Klang Third Bridge, numit oficial Podul Raja Muda Nala, traversează râul Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.426774,
+                        3.051622
+                  ]
+            },
+            {
+                  "name": "Jambatan Kota",
+                  "text": "Kota Bridge din Klang este un pod cu două punți construit peste râul Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.449784,
+                        3.046914
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Klang",
+                  "text": "Gurdwara Sahib Klang este un important lăcaș de cult sikh pentru comunitatea din Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.444614,
+                        3.041073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sultan Abdul Aziz Royal Gallery",
+                  "text": "The Sultan Abdul Aziz Royal Gallery in Klang showcases the rich royal history of the Selangor Sultanate.",
+                  "category": "museum",
+                  "coords": [
+                        101.449241,
+                        3.041272
+                  ]
+            },
+            {
+                  "name": "Kota Raja Mahadi",
+                  "text": "Kota Raja Mahadi is a historical attraction situated in the city of Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.445083,
+                        3.04505
+                  ]
+            },
+            {
+                  "name": "Taman Pengkalan Hampar",
+                  "text": "Taman Pengkalan Hampar is an outdoor recreational attraction located in Klang.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447939,
+                        3.045993
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "Little India in Klang is a vibrant cultural enclave and tourist attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        101.447003,
+                        3.040365
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Church",
+                  "text": "Our Lady of Lourdes Church is a historic Catholic church in Klang noted for its Gothic-style architecture.",
+                  "category": "religious",
+                  "coords": [
+                        101.444332,
+                        3.037442
+                  ]
+            },
+            {
+                  "name": "Klang Third Bridge",
+                  "text": "The Klang Third Bridge, officially named Raja Muda Nala Bridge, spans the Klang River.",
+                  "category": "landmark",
+                  "coords": [
+                        101.426774,
+                        3.051622
+                  ]
+            },
+            {
+                  "name": "Kota Bridge",
+                  "text": "Kota Bridge in Klang is a distinctive double-deck bridge built across the Klang River.",
+                  "category": "landmark",
+                  "coords": [
+                        101.449784,
+                        3.046914
+                  ]
+            },
+            {
+                  "name": "Gurdwara Sahib Klang",
+                  "text": "Gurdwara Sahib Klang is a major Sikh place of worship serving the community in Klang.",
+                  "category": "religious",
+                  "coords": [
+                        101.444614,
+                        3.041073
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-10",
     coords: [101.4456, 3.0333],
@@ -765,7 +1872,556 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "petaling-jaya-cities-v2",
+    id: "petaling-jaya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzium Petaling Jaya",
+                  "text": "Museum in Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.65036,
+                        3.105325
+                  ]
+            },
+            {
+                  "name": "Muzium Seni Asia",
+                  "text": "Kunstmuseum in Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.653175,
+                        3.118197
+                  ]
+            },
+            {
+                  "name": "Rimba Ilmu",
+                  "text": "Naturschutzgebiet in Petaling Jaya.",
+                  "category": "natural",
+                  "coords": [
+                        101.657077,
+                        3.129959
+                  ]
+            },
+            {
+                  "name": "PJ Live Arts",
+                  "text": "Theater in Petaling Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.635177,
+                        3.117851
+                  ]
+            },
+            {
+                  "name": "Muzium Geologi",
+                  "text": "Museum in Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.652409,
+                        3.122288
+                  ]
+            },
+            {
+                  "name": "Gazebo Kompleks Perdanasiswa",
+                  "text": "Theater in Petaling Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.65586,
+                        3.120812
+                  ]
+            },
+            {
+                  "name": "J14 - Muzium Zoologi Institut Sains Biologi",
+                  "text": "Museum in Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.6547,
+                        3.123768
+                  ]
+            },
+            {
+                  "name": "Bukit Gasing - Puchong view",
+                  "text": "Aussichtspunkt in Petaling Jaya.",
+                  "category": "natural",
+                  "coords": [
+                        101.658021,
+                        3.091451
+                  ]
+            },
+            {
+                  "name": "Bukit Gasing - KL view",
+                  "text": "Aussichtspunkt in Petaling Jaya.",
+                  "category": "natural",
+                  "coords": [
+                        101.659691,
+                        3.091703
+                  ]
+            },
+            {
+                  "name": "Purple Houz",
+                  "text": "Purple Houz ist ein Kunstzentrum in Petaling Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.65355,
+                        3.101836
+                  ]
+            },
+            {
+                  "name": "Universiti Malaya Art Gallery",
+                  "text": "Die Universiti Malaya Art Gallery ist eine Galerie in Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.654351,
+                        3.120331
+                  ]
+            },
+            {
+                  "name": "Rumah Pokok Samali",
+                  "text": "Samali Treehouse ist eine Attraktion in Petaling Jaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.655532,
+                        3.119637
+                  ]
+            },
+            {
+                  "name": "Menara MBPJ",
+                  "text": "Menara MBPJ ist ein historisches Rathaus in Petaling Jaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.645021,
+                        3.099204
+                  ]
+            },
+            {
+                  "name": "Masjid Tun Abdul Aziz",
+                  "text": "Die Tun Abdul Aziz Moschee ist ein bedeutendes Gotteshaus in Petaling Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.634067,
+                        3.112324
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sultan Abdul Aziz",
+                  "text": "Die Masjid Jamek Sultan Abdul Aziz ist ein traditionelles Gotteshaus in Petaling Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.650516,
+                        3.090745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzium Petaling Jaya",
+                  "text": "Múzeum Petaling Jayában.",
+                  "category": "museum",
+                  "coords": [
+                        101.65036,
+                        3.105325
+                  ]
+            },
+            {
+                  "name": "Muzium Seni Asia",
+                  "text": "Művészeti múzeum Petaling Jayában.",
+                  "category": "museum",
+                  "coords": [
+                        101.653175,
+                        3.118197
+                  ]
+            },
+            {
+                  "name": "Rimba Ilmu",
+                  "text": "Természetvédelmi terület Petaling Jayában.",
+                  "category": "natural",
+                  "coords": [
+                        101.657077,
+                        3.129959
+                  ]
+            },
+            {
+                  "name": "PJ Live Arts",
+                  "text": "Színház Petaling Jayában.",
+                  "category": "cultural",
+                  "coords": [
+                        101.635177,
+                        3.117851
+                  ]
+            },
+            {
+                  "name": "Muzium Geologi",
+                  "text": "Múzeum Petaling Jayában.",
+                  "category": "museum",
+                  "coords": [
+                        101.652409,
+                        3.122288
+                  ]
+            },
+            {
+                  "name": "Gazebo Kompleks Perdanasiswa",
+                  "text": "Színház Petaling Jayában.",
+                  "category": "cultural",
+                  "coords": [
+                        101.65586,
+                        3.120812
+                  ]
+            },
+            {
+                  "name": "J14 - Muzium Zoologi Institut Sains Biologi",
+                  "text": "Múzeum Petaling Jayában.",
+                  "category": "museum",
+                  "coords": [
+                        101.6547,
+                        3.123768
+                  ]
+            },
+            {
+                  "name": "Bukit Gasing - Puchong view",
+                  "text": "Kilátópont Petaling Jayában.",
+                  "category": "natural",
+                  "coords": [
+                        101.658021,
+                        3.091451
+                  ]
+            },
+            {
+                  "name": "Bukit Gasing - KL view",
+                  "text": "Kilátópont Petaling Jayában.",
+                  "category": "natural",
+                  "coords": [
+                        101.659691,
+                        3.091703
+                  ]
+            },
+            {
+                  "name": "Purple Houz",
+                  "text": "A Purple Houz egy művészeti központ Petaling Jayában.",
+                  "category": "cultural",
+                  "coords": [
+                        101.65355,
+                        3.101836
+                  ]
+            },
+            {
+                  "name": "Universiti Malaya Art Gallery",
+                  "text": "Az Universiti Malaya Art Gallery egy galéria Petaling Jayában.",
+                  "category": "museum",
+                  "coords": [
+                        101.654351,
+                        3.120331
+                  ]
+            },
+            {
+                  "name": "Rumah Pokok Samali",
+                  "text": "A Samali Treehouse egy látnivaló Petaling Jayában.",
+                  "category": "landmark",
+                  "coords": [
+                        101.655532,
+                        3.119637
+                  ]
+            },
+            {
+                  "name": "Menara MBPJ",
+                  "text": "A Menara MBPJ egy történelmi városháza Petaling Jayában.",
+                  "category": "historical",
+                  "coords": [
+                        101.645021,
+                        3.099204
+                  ]
+            },
+            {
+                  "name": "Masjid Tun Abdul Aziz",
+                  "text": "A Tun Abdul Aziz-mecset egy jelentős imaház Petaling Jayában.",
+                  "category": "religious",
+                  "coords": [
+                        101.634067,
+                        3.112324
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sultan Abdul Aziz",
+                  "text": "A Masjid Jamek Sultan Abdul Aziz egy hagyományos imaház Petaling Jayában.",
+                  "category": "religious",
+                  "coords": [
+                        101.650516,
+                        3.090745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzium Petaling Jaya",
+                  "text": "Muzeu în Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.65036,
+                        3.105325
+                  ]
+            },
+            {
+                  "name": "Muzium Seni Asia",
+                  "text": "Muzeu de artă în Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.653175,
+                        3.118197
+                  ]
+            },
+            {
+                  "name": "Rimba Ilmu",
+                  "text": "Rezervație naturală în Petaling Jaya.",
+                  "category": "natural",
+                  "coords": [
+                        101.657077,
+                        3.129959
+                  ]
+            },
+            {
+                  "name": "PJ Live Arts",
+                  "text": "Teatru în Petaling Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.635177,
+                        3.117851
+                  ]
+            },
+            {
+                  "name": "Muzium Geologi",
+                  "text": "Muzeu în Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.652409,
+                        3.122288
+                  ]
+            },
+            {
+                  "name": "Gazebo Kompleks Perdanasiswa",
+                  "text": "Teatru în Petaling Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.65586,
+                        3.120812
+                  ]
+            },
+            {
+                  "name": "J14 - Muzium Zoologi Institut Sains Biologi",
+                  "text": "Muzeu în Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.6547,
+                        3.123768
+                  ]
+            },
+            {
+                  "name": "Bukit Gasing - Puchong view",
+                  "text": "Punct de observație în Petaling Jaya.",
+                  "category": "natural",
+                  "coords": [
+                        101.658021,
+                        3.091451
+                  ]
+            },
+            {
+                  "name": "Bukit Gasing - KL view",
+                  "text": "Punct de observație în Petaling Jaya.",
+                  "category": "natural",
+                  "coords": [
+                        101.659691,
+                        3.091703
+                  ]
+            },
+            {
+                  "name": "Purple Houz",
+                  "text": "Purple Houz este un centru de artă din Petaling Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.65355,
+                        3.101836
+                  ]
+            },
+            {
+                  "name": "Universiti Malaya Art Gallery",
+                  "text": "Universiti Malaya Art Gallery este o galerie din Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.654351,
+                        3.120331
+                  ]
+            },
+            {
+                  "name": "Rumah Pokok Samali",
+                  "text": "Samali Treehouse este o atracție din Petaling Jaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.655532,
+                        3.119637
+                  ]
+            },
+            {
+                  "name": "Menara MBPJ",
+                  "text": "Menara MBPJ este o primărie istorică din Petaling Jaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.645021,
+                        3.099204
+                  ]
+            },
+            {
+                  "name": "Masjid Tun Abdul Aziz",
+                  "text": "Moscheea Tun Abdul Aziz este un lăcaș de cult important din Petaling Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.634067,
+                        3.112324
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sultan Abdul Aziz",
+                  "text": "Masjid Jamek Sultan Abdul Aziz este un lăcaș de cult tradițional din Petaling Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.650516,
+                        3.090745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petaling Jaya Museum",
+                  "text": "Museum in Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.65036,
+                        3.105325
+                  ]
+            },
+            {
+                  "name": "Museum of Asian Art",
+                  "text": "Art museum in Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.653175,
+                        3.118197
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "Nature reserve in Petaling Jaya.",
+                  "category": "natural",
+                  "coords": [
+                        101.657077,
+                        3.129959
+                  ]
+            },
+            {
+                  "name": "PJ Live Arts",
+                  "text": "Theatre in Petaling Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.635177,
+                        3.117851
+                  ]
+            },
+            {
+                  "name": "Geology Museum",
+                  "text": "Museum in Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.652409,
+                        3.122288
+                  ]
+            },
+            {
+                  "name": "Gazebo Kompleks Perdanasiswa",
+                  "text": "Theatre in Petaling Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.65586,
+                        3.120812
+                  ]
+            },
+            {
+                  "name": "J14 - Zoology Museum",
+                  "text": "Museum in Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.6547,
+                        3.123768
+                  ]
+            },
+            {
+                  "name": "Bukit Gasing - Puchong view",
+                  "text": "Viewpoint in Petaling Jaya.",
+                  "category": "natural",
+                  "coords": [
+                        101.658021,
+                        3.091451
+                  ]
+            },
+            {
+                  "name": "Bukit Gasing - KL view",
+                  "text": "Viewpoint in Petaling Jaya.",
+                  "category": "natural",
+                  "coords": [
+                        101.659691,
+                        3.091703
+                  ]
+            },
+            {
+                  "name": "Purple Houz",
+                  "text": "Purple Houz is an arts centre in Petaling Jaya.",
+                  "category": "cultural",
+                  "coords": [
+                        101.65355,
+                        3.101836
+                  ]
+            },
+            {
+                  "name": "Universiti Malaya Art Gallery",
+                  "text": "The Universiti Malaya Art Gallery is a gallery in Petaling Jaya.",
+                  "category": "museum",
+                  "coords": [
+                        101.654351,
+                        3.120331
+                  ]
+            },
+            {
+                  "name": "Samali Treehouse",
+                  "text": "Samali Treehouse is an attraction in Petaling Jaya.",
+                  "category": "landmark",
+                  "coords": [
+                        101.655532,
+                        3.119637
+                  ]
+            },
+            {
+                  "name": "Menara MBPJ",
+                  "text": "Menara MBPJ is a historic town hall in Petaling Jaya.",
+                  "category": "historical",
+                  "coords": [
+                        101.645021,
+                        3.099204
+                  ]
+            },
+            {
+                  "name": "Tun Abdul Aziz Mosque",
+                  "text": "The Tun Abdul Aziz Mosque is a prominent place of worship in Petaling Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.634067,
+                        3.112324
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sultan Abdul Aziz",
+                  "text": "The Masjid Jamek Sultan Abdul Aziz is a traditional place of worship in Petaling Jaya.",
+                  "category": "religious",
+                  "coords": [
+                        101.650516,
+                        3.090745
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-10",
     coords: [101.6424, 3.1073],
@@ -813,7 +2469,628 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "miri-cities-v2",
+    id: "miri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miri Petroleum Science Museum",
+                  "text": "Das Miri Petroleum Science Museum in Miri zeichnet die technologische Entwicklung der Ölindustrie in Malaysia nach.",
+                  "category": "museum",
+                  "coords": [
+                        113.994952,
+                        4.389365
+                  ]
+            },
+            {
+                  "name": "Pantai Pulau Melayu",
+                  "text": "Pantai Pulau Melayu ist ein Strand in Miri.",
+                  "category": "recreational",
+                  "coords": [
+                        113.992739,
+                        4.430736
+                  ]
+            },
+            {
+                  "name": "The Amphitheater",
+                  "text": "The Amphitheater ist ein lokales Theater und ein Veranstaltungsort in Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        113.993632,
+                        4.402719
+                  ]
+            },
+            {
+                  "name": "Marina Beach",
+                  "text": "Marina Beach ist ein Strand in Miri.",
+                  "category": "recreational",
+                  "coords": [
+                        113.9771,
+                        4.392422
+                  ]
+            },
+            {
+                  "name": "Brighton Cove",
+                  "text": "Brighton Cove ist ein malerischer Strand in der Stadt Miri.",
+                  "category": "recreational",
+                  "coords": [
+                        113.97265,
+                        4.379509
+                  ]
+            },
+            {
+                  "name": "Canada Hill hiking trails",
+                  "text": "Die Wanderwege auf dem Canada Hill bieten eine Naturattraktion in Miri.",
+                  "category": "landmark",
+                  "coords": [
+                        113.995034,
+                        4.386101
+                  ]
+            },
+            {
+                  "name": "1945 World War 2 Miri Victims Memorial",
+                  "text": "Dieses Denkmal in Miri ist den Opfern des Zweiten Weltkriegs aus dem Jahr 1945 gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        113.985141,
+                        4.385233
+                  ]
+            },
+            {
+                  "name": "Urban Craft",
+                  "text": "Urban Craft ist ein Kunstzentrum in Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        113.98442,
+                        4.393383
+                  ]
+            },
+            {
+                  "name": "My Art Studio",
+                  "text": "My Art Studio ist ein spezielles Kunstzentrum in Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        114.010924,
+                        4.415623
+                  ]
+            },
+            {
+                  "name": "Century ART Gallery",
+                  "text": "Die Century ART Gallery ist ein Kunstzentrum in Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        114.00722,
+                        4.416538
+                  ]
+            },
+            {
+                  "name": "Alter /  Space Gallery & Studio",
+                  "text": "Alter / Space Gallery & Studio ist eine Galerie in Miri.",
+                  "category": "museum",
+                  "coords": [
+                        113.976358,
+                        4.378705
+                  ]
+            },
+            {
+                  "name": "Batu Asas Pusat Sivik Miri",
+                  "text": "Batu Asas Pusat Sivik Miri ist ein Denkmal in Miri.",
+                  "category": "historical",
+                  "coords": [
+                        113.994125,
+                        4.401205
+                  ]
+            },
+            {
+                  "name": "Chinese Heritage Hundred Surnames Monument",
+                  "text": "Das Chinese Heritage Hundred Surnames Monument ist ein kulturelles Denkmal in Miri.",
+                  "category": "historical",
+                  "coords": [
+                        113.994559,
+                        4.402862
+                  ]
+            },
+            {
+                  "name": "The Art School",
+                  "text": "The Art School ist ein Kunstzentrum in Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        114.000832,
+                        4.418016
+                  ]
+            },
+            {
+                  "name": "Miri City Hall Level 10 Rooftop",
+                  "text": "Das Dach im 10. Stock des Rathauses von Miri bietet einen Aussichtspunkt über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        113.973709,
+                        4.388057
+                  ]
+            },
+            {
+                  "name": "Miri Unity Tower",
+                  "text": "Der Miri Unity Tower ist ein lokales Denkmal in Miri.",
+                  "category": "historical",
+                  "coords": [
+                        113.993201,
+                        4.404861
+                  ]
+            },
+            {
+                  "name": "Tokong Tua Pek Kong, Miri",
+                  "text": "Der Tua Pek Kong Tempel ist ein bekannter chinesischer Tempel und ein Gotteshaus in Miri.",
+                  "category": "religious",
+                  "coords": [
+                        113.985323,
+                        4.391683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miri Petroleum Science Museum",
+                  "text": "A Miri Kőolaj-tudományi Múzeum Malajzia olajiparának történetét és technológiai fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        113.994952,
+                        4.389365
+                  ]
+            },
+            {
+                  "name": "Pantai Pulau Melayu",
+                  "text": "A Pantai Pulau Melayu egy tengerpart Miri városában.",
+                  "category": "recreational",
+                  "coords": [
+                        113.992739,
+                        4.430736
+                  ]
+            },
+            {
+                  "name": "The Amphitheater",
+                  "text": "A The Amphitheater egy helyi színház és előadóhely Miri városában.",
+                  "category": "cultural",
+                  "coords": [
+                        113.993632,
+                        4.402719
+                  ]
+            },
+            {
+                  "name": "Marina Beach",
+                  "text": "A Marina Beach egy tengerpart Miri városában.",
+                  "category": "recreational",
+                  "coords": [
+                        113.9771,
+                        4.392422
+                  ]
+            },
+            {
+                  "name": "Brighton Cove",
+                  "text": "A Brighton Cove egy festői tengerpart Miri városában.",
+                  "category": "recreational",
+                  "coords": [
+                        113.97265,
+                        4.379509
+                  ]
+            },
+            {
+                  "name": "Canada Hill hiking trails",
+                  "text": "A Canada Hill túraútvonalak egy természeti látványosságot kínálnak Miri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        113.995034,
+                        4.386101
+                  ]
+            },
+            {
+                  "name": "1945 World War 2 Miri Victims Memorial",
+                  "text": "Ez a Miri-i emlékmű a második világháború 1945-ös áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        113.985141,
+                        4.385233
+                  ]
+            },
+            {
+                  "name": "Urban Craft",
+                  "text": "Az Urban Craft egy művészeti központ Miri városában.",
+                  "category": "cultural",
+                  "coords": [
+                        113.98442,
+                        4.393383
+                  ]
+            },
+            {
+                  "name": "My Art Studio",
+                  "text": "A My Art Studio egy dedikált művészeti központ Miri városában.",
+                  "category": "cultural",
+                  "coords": [
+                        114.010924,
+                        4.415623
+                  ]
+            },
+            {
+                  "name": "Century ART Gallery",
+                  "text": "A Century ART Gallery egy művészeti központ Miri városában.",
+                  "category": "cultural",
+                  "coords": [
+                        114.00722,
+                        4.416538
+                  ]
+            },
+            {
+                  "name": "Alter /  Space Gallery & Studio",
+                  "text": "Az Alter / Space Gallery & Studio egy galéria Miri városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.976358,
+                        4.378705
+                  ]
+            },
+            {
+                  "name": "Batu Asas Pusat Sivik Miri",
+                  "text": "A Batu Asas Pusat Sivik Miri egy emlékmű Miri városában.",
+                  "category": "historical",
+                  "coords": [
+                        113.994125,
+                        4.401205
+                  ]
+            },
+            {
+                  "name": "Chinese Heritage Hundred Surnames Monument",
+                  "text": "A Chinese Heritage Hundred Surnames Monument egy kulturális emlékmű Miri városában.",
+                  "category": "historical",
+                  "coords": [
+                        113.994559,
+                        4.402862
+                  ]
+            },
+            {
+                  "name": "The Art School",
+                  "text": "A The Art School egy művészeti központ Miri városában.",
+                  "category": "cultural",
+                  "coords": [
+                        114.000832,
+                        4.418016
+                  ]
+            },
+            {
+                  "name": "Miri City Hall Level 10 Rooftop",
+                  "text": "A Miri Városháza 10. emeleti tetőterasza kilátópontot nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        113.973709,
+                        4.388057
+                  ]
+            },
+            {
+                  "name": "Miri Unity Tower",
+                  "text": "A Miri Unity Tower egy helyi emlékmű Miri városában.",
+                  "category": "historical",
+                  "coords": [
+                        113.993201,
+                        4.404861
+                  ]
+            },
+            {
+                  "name": "Tokong Tua Pek Kong, Miri",
+                  "text": "A Tua Pek Kong templom egy hagyományos kínai templom és istentiszteleti hely Miri városában.",
+                  "category": "religious",
+                  "coords": [
+                        113.985323,
+                        4.391683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miri Petroleum Science Museum",
+                  "text": "Muzeul de Știință a Petrolului din Miri prezintă istoria și dezvoltarea tehnologică a industriei petroliere din Malaezia.",
+                  "category": "museum",
+                  "coords": [
+                        113.994952,
+                        4.389365
+                  ]
+            },
+            {
+                  "name": "Pantai Pulau Melayu",
+                  "text": "Pantai Pulau Melayu este o destinație de plajă situată în Miri.",
+                  "category": "recreational",
+                  "coords": [
+                        113.992739,
+                        4.430736
+                  ]
+            },
+            {
+                  "name": "The Amphitheater",
+                  "text": "The Amphitheater este un teatru și un spațiu de spectacole local din Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        113.993632,
+                        4.402719
+                  ]
+            },
+            {
+                  "name": "Marina Beach",
+                  "text": "Marina Beach este o plajă situată în Miri.",
+                  "category": "recreational",
+                  "coords": [
+                        113.9771,
+                        4.392422
+                  ]
+            },
+            {
+                  "name": "Brighton Cove",
+                  "text": "Brighton Cove este o plajă pitorească situată în orașul Miri.",
+                  "category": "recreational",
+                  "coords": [
+                        113.97265,
+                        4.379509
+                  ]
+            },
+            {
+                  "name": "Canada Hill hiking trails",
+                  "text": "Traseele de drumeție Canada Hill oferă o atracție în natură în Miri.",
+                  "category": "landmark",
+                  "coords": [
+                        113.995034,
+                        4.386101
+                  ]
+            },
+            {
+                  "name": "1945 World War 2 Miri Victims Memorial",
+                  "text": "Acest monument din Miri este dedicat victimelor celui de-al Doilea Război Mondial din anul 1945.",
+                  "category": "historical",
+                  "coords": [
+                        113.985141,
+                        4.385233
+                  ]
+            },
+            {
+                  "name": "Urban Craft",
+                  "text": "Urban Craft este un centru de arte din Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        113.98442,
+                        4.393383
+                  ]
+            },
+            {
+                  "name": "My Art Studio",
+                  "text": "My Art Studio este un centru de arte dedicat, situat în Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        114.010924,
+                        4.415623
+                  ]
+            },
+            {
+                  "name": "Century ART Gallery",
+                  "text": "Century ART Gallery este un centru de arte în Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        114.00722,
+                        4.416538
+                  ]
+            },
+            {
+                  "name": "Alter /  Space Gallery & Studio",
+                  "text": "Alter / Space Gallery & Studio este o galerie situată în Miri.",
+                  "category": "museum",
+                  "coords": [
+                        113.976358,
+                        4.378705
+                  ]
+            },
+            {
+                  "name": "Batu Asas Pusat Sivik Miri",
+                  "text": "Batu Asas Pusat Sivik Miri este un monument de fundație din Miri.",
+                  "category": "historical",
+                  "coords": [
+                        113.994125,
+                        4.401205
+                  ]
+            },
+            {
+                  "name": "Chinese Heritage Hundred Surnames Monument",
+                  "text": "Monumentul Chinese Heritage Hundred Surnames este un monument din Miri.",
+                  "category": "historical",
+                  "coords": [
+                        113.994559,
+                        4.402862
+                  ]
+            },
+            {
+                  "name": "The Art School",
+                  "text": "The Art School este un centru de arte situat în Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        114.000832,
+                        4.418016
+                  ]
+            },
+            {
+                  "name": "Miri City Hall Level 10 Rooftop",
+                  "text": "Acoperișul de la nivelul 10 al Primăriei din Miri oferă un punct de belvedere asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        113.973709,
+                        4.388057
+                  ]
+            },
+            {
+                  "name": "Miri Unity Tower",
+                  "text": "Miri Unity Tower este un monument local situat în Miri.",
+                  "category": "historical",
+                  "coords": [
+                        113.993201,
+                        4.404861
+                  ]
+            },
+            {
+                  "name": "Tokong Tua Pek Kong, Miri",
+                  "text": "Templul Tua Pek Kong este un lăcaș de cult și un templu chinezesc consacrat din Miri.",
+                  "category": "religious",
+                  "coords": [
+                        113.985323,
+                        4.391683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miri Petroleum Science Museum",
+                  "text": "The Miri Petroleum Science Museum traces the history and technological development of the oil industry in Malaysia.",
+                  "category": "museum",
+                  "coords": [
+                        113.994952,
+                        4.389365
+                  ]
+            },
+            {
+                  "name": "Pantai Pulau Melayu",
+                  "text": "Pantai Pulau Melayu is a beach destination located in Miri.",
+                  "category": "recreational",
+                  "coords": [
+                        113.992739,
+                        4.430736
+                  ]
+            },
+            {
+                  "name": "The Amphitheater",
+                  "text": "The Amphitheater is a local theatre and performance venue in Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        113.993632,
+                        4.402719
+                  ]
+            },
+            {
+                  "name": "Marina Beach",
+                  "text": "Marina Beach is a coastal recreational area situated in Miri.",
+                  "category": "recreational",
+                  "coords": [
+                        113.9771,
+                        4.392422
+                  ]
+            },
+            {
+                  "name": "Brighton Cove",
+                  "text": "Brighton Cove is a scenic beach located in the city of Miri.",
+                  "category": "recreational",
+                  "coords": [
+                        113.97265,
+                        4.379509
+                  ]
+            },
+            {
+                  "name": "Canada Hill hiking trails",
+                  "text": "The Canada Hill hiking trails offer a nature attraction for outdoor enthusiasts in Miri.",
+                  "category": "landmark",
+                  "coords": [
+                        113.995034,
+                        4.386101
+                  ]
+            },
+            {
+                  "name": "1945 World War 2 Miri Victims Memorial",
+                  "text": "This monument in Miri is dedicated to the victims of World War II from 1945.",
+                  "category": "historical",
+                  "coords": [
+                        113.985141,
+                        4.385233
+                  ]
+            },
+            {
+                  "name": "Urban Craft",
+                  "text": "Urban Craft is an arts centre in Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        113.98442,
+                        4.393383
+                  ]
+            },
+            {
+                  "name": "My Art Studio",
+                  "text": "My Art Studio is a dedicated arts centre located in Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        114.010924,
+                        4.415623
+                  ]
+            },
+            {
+                  "name": "Century ART Gallery",
+                  "text": "Century ART Gallery is a space dedicated to the arts in Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        114.00722,
+                        4.416538
+                  ]
+            },
+            {
+                  "name": "Alter /  Space Gallery & Studio",
+                  "text": "Alter / Space Gallery & Studio is an exhibition gallery located in Miri.",
+                  "category": "museum",
+                  "coords": [
+                        113.976358,
+                        4.378705
+                  ]
+            },
+            {
+                  "name": "Batu Asas Pusat Sivik Miri",
+                  "text": "Batu Asas Pusat Sivik Miri is a foundational monument marking the civic centre in Miri.",
+                  "category": "historical",
+                  "coords": [
+                        113.994125,
+                        4.401205
+                  ]
+            },
+            {
+                  "name": "Chinese Heritage Hundred Surnames Monument",
+                  "text": "The Chinese Heritage Hundred Surnames Monument is a cultural monument in Miri.",
+                  "category": "historical",
+                  "coords": [
+                        113.994559,
+                        4.402862
+                  ]
+            },
+            {
+                  "name": "The Art School",
+                  "text": "The Art School is a dedicated arts centre located in Miri.",
+                  "category": "cultural",
+                  "coords": [
+                        114.000832,
+                        4.418016
+                  ]
+            },
+            {
+                  "name": "Miri City Hall Level 10 Rooftop",
+                  "text": "The Miri City Hall Level 10 Rooftop offers a panoramic viewpoint over the city of Miri.",
+                  "category": "natural",
+                  "coords": [
+                        113.973709,
+                        4.388057
+                  ]
+            },
+            {
+                  "name": "Miri Unity Tower",
+                  "text": "Miri Unity Tower is a local monument situated in Miri.",
+                  "category": "historical",
+                  "coords": [
+                        113.993201,
+                        4.404861
+                  ]
+            },
+            {
+                  "name": "Tua Pek Kong Temple, Miri",
+                  "text": "The Tua Pek Kong Temple is an established Chinese temple and place of worship in Miri.",
+                  "category": "religious",
+                  "coords": [
+                        113.985323,
+                        4.391683
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-13",
     coords: [113.9933, 4.3978],
@@ -909,7 +3186,376 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "sandakan-cities-v2",
+    id: "sandakan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rumah Agnes Keith",
+                  "text": "Das Agnes Keith House ist ein historisches Museum in Sandakan.",
+                  "category": "museum",
+                  "coords": [
+                        118.115545,
+                        5.843051
+                  ]
+            },
+            {
+                  "name": "Chartered Company Monument",
+                  "text": "Das Chartered Company Monument ist ein Denkmal in Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.116125,
+                        5.840571
+                  ]
+            },
+            {
+                  "name": "Rotary Observation Pavilion",
+                  "text": "Der Rotary Observation Pavilion ist ein Aussichtspunkt in Sandakan.",
+                  "category": "natural",
+                  "coords": [
+                        118.116427,
+                        5.841888
+                  ]
+            },
+            {
+                  "name": "Jeti Ke Taman Pulau Penyu",
+                  "text": "Der Jetty To Turtle Islands Park ist eine beliebte Attraktion in Sandakan.",
+                  "category": "landmark",
+                  "coords": [
+                        118.125872,
+                        5.842348
+                  ]
+            },
+            {
+                  "name": "Monumen Sabah Seratus Tahun",
+                  "text": "Das Monumen Sabah Seratus Tahun ist ein Denkmal in Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.114255,
+                        5.840142
+                  ]
+            },
+            {
+                  "name": "I Love Sandakan",
+                  "text": "I Love Sandakan ist eine moderne Attraktion in Sandakan.",
+                  "category": "landmark",
+                  "coords": [
+                        118.119324,
+                        5.838441
+                  ]
+            },
+            {
+                  "name": "Remains of Old Staircase",
+                  "text": "Die Überreste der alten Treppe sind eine Ruine in Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.110332,
+                        5.844285
+                  ]
+            },
+            {
+                  "name": "Boy Scouts Centenary",
+                  "text": "Das Boy Scouts Centenary ist ein Denkmal in Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.112609,
+                        5.84058
+                  ]
+            },
+            {
+                  "name": "Tam Kung Temple",
+                  "text": "Der Tam Kung Tempel ist ein bedeutendes Gotteshaus in Sandakan.",
+                  "category": "religious",
+                  "coords": [
+                        118.11185,
+                        5.858202
+                  ]
+            },
+            {
+                  "name": "St. Mary's Cathedral",
+                  "text": "Die St. Mary's Cathedral ist ein wichtiges Gotteshaus in Sandakan.",
+                  "category": "religious",
+                  "coords": [
+                        118.111494,
+                        5.839931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rumah Agnes Keith",
+                  "text": "Az Agnes Keith House egy történelmi múzeum Sandakanban.",
+                  "category": "museum",
+                  "coords": [
+                        118.115545,
+                        5.843051
+                  ]
+            },
+            {
+                  "name": "Chartered Company Monument",
+                  "text": "A Chartered Company Monument egy emlékmű Sandakanban.",
+                  "category": "historical",
+                  "coords": [
+                        118.116125,
+                        5.840571
+                  ]
+            },
+            {
+                  "name": "Rotary Observation Pavilion",
+                  "text": "A Rotary Observation Pavilion egy kilátóhely Sandakanban.",
+                  "category": "natural",
+                  "coords": [
+                        118.116427,
+                        5.841888
+                  ]
+            },
+            {
+                  "name": "Jeti Ke Taman Pulau Penyu",
+                  "text": "A Jetty To Turtle Islands Park egy népszerű látnivaló Sandakanban.",
+                  "category": "landmark",
+                  "coords": [
+                        118.125872,
+                        5.842348
+                  ]
+            },
+            {
+                  "name": "Monumen Sabah Seratus Tahun",
+                  "text": "A Monumen Sabah Seratus Tahun egy emlékmű Sandakanban.",
+                  "category": "historical",
+                  "coords": [
+                        118.114255,
+                        5.840142
+                  ]
+            },
+            {
+                  "name": "I Love Sandakan",
+                  "text": "Az I Love Sandakan egy modern látnivaló Sandakanban.",
+                  "category": "landmark",
+                  "coords": [
+                        118.119324,
+                        5.838441
+                  ]
+            },
+            {
+                  "name": "Remains of Old Staircase",
+                  "text": "A régi lépcsősor maradványai egy rom Sandakanban.",
+                  "category": "historical",
+                  "coords": [
+                        118.110332,
+                        5.844285
+                  ]
+            },
+            {
+                  "name": "Boy Scouts Centenary",
+                  "text": "A Boy Scouts Centenary egy emlékmű Sandakanban.",
+                  "category": "historical",
+                  "coords": [
+                        118.112609,
+                        5.84058
+                  ]
+            },
+            {
+                  "name": "Tam Kung Temple",
+                  "text": "A Tam Kung-templom egy jelentős imaház Sandakanban.",
+                  "category": "religious",
+                  "coords": [
+                        118.11185,
+                        5.858202
+                  ]
+            },
+            {
+                  "name": "St. Mary's Cathedral",
+                  "text": "A St. Mary's Cathedral egy fontos imaház Sandakanban.",
+                  "category": "religious",
+                  "coords": [
+                        118.111494,
+                        5.839931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rumah Agnes Keith",
+                  "text": "Agnes Keith House este un muzeu istoric din Sandakan.",
+                  "category": "museum",
+                  "coords": [
+                        118.115545,
+                        5.843051
+                  ]
+            },
+            {
+                  "name": "Chartered Company Monument",
+                  "text": "Chartered Company Monument este un monument din Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.116125,
+                        5.840571
+                  ]
+            },
+            {
+                  "name": "Rotary Observation Pavilion",
+                  "text": "Rotary Observation Pavilion este un punct de observare din Sandakan.",
+                  "category": "natural",
+                  "coords": [
+                        118.116427,
+                        5.841888
+                  ]
+            },
+            {
+                  "name": "Jeti Ke Taman Pulau Penyu",
+                  "text": "Jetty To Turtle Islands Park este o atracție populară din Sandakan.",
+                  "category": "landmark",
+                  "coords": [
+                        118.125872,
+                        5.842348
+                  ]
+            },
+            {
+                  "name": "Monumen Sabah Seratus Tahun",
+                  "text": "Monumen Sabah Seratus Tahun este un monument din Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.114255,
+                        5.840142
+                  ]
+            },
+            {
+                  "name": "I Love Sandakan",
+                  "text": "I Love Sandakan este o atracție modernă din Sandakan.",
+                  "category": "landmark",
+                  "coords": [
+                        118.119324,
+                        5.838441
+                  ]
+            },
+            {
+                  "name": "Remains of Old Staircase",
+                  "text": "Rămășițele vechii scări sunt o ruină din Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.110332,
+                        5.844285
+                  ]
+            },
+            {
+                  "name": "Boy Scouts Centenary",
+                  "text": "Boy Scouts Centenary este un monument din Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.112609,
+                        5.84058
+                  ]
+            },
+            {
+                  "name": "Tam Kung Temple",
+                  "text": "Templul Tam Kung este un lăcaș de cult important din Sandakan.",
+                  "category": "religious",
+                  "coords": [
+                        118.11185,
+                        5.858202
+                  ]
+            },
+            {
+                  "name": "St. Mary's Cathedral",
+                  "text": "St. Mary's Cathedral este un lăcaș de cult important din Sandakan.",
+                  "category": "religious",
+                  "coords": [
+                        118.111494,
+                        5.839931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agnes Keith House",
+                  "text": "The Agnes Keith House is a historic museum in Sandakan.",
+                  "category": "museum",
+                  "coords": [
+                        118.115545,
+                        5.843051
+                  ]
+            },
+            {
+                  "name": "Chartered Company Monument",
+                  "text": "The Chartered Company Monument is a monument in Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.116125,
+                        5.840571
+                  ]
+            },
+            {
+                  "name": "Rotary Observation Pavilion",
+                  "text": "The Rotary Observation Pavilion is a viewpoint in Sandakan.",
+                  "category": "natural",
+                  "coords": [
+                        118.116427,
+                        5.841888
+                  ]
+            },
+            {
+                  "name": "Jetty To Turtle Islands Park",
+                  "text": "The Jetty To Turtle Islands Park is a popular attraction in Sandakan.",
+                  "category": "landmark",
+                  "coords": [
+                        118.125872,
+                        5.842348
+                  ]
+            },
+            {
+                  "name": "Monumen Sabah Seratus Tahun",
+                  "text": "The Monumen Sabah Seratus Tahun is a monument in Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.114255,
+                        5.840142
+                  ]
+            },
+            {
+                  "name": "I Love Sandakan",
+                  "text": "I Love Sandakan is a modern attraction in Sandakan.",
+                  "category": "landmark",
+                  "coords": [
+                        118.119324,
+                        5.838441
+                  ]
+            },
+            {
+                  "name": "Remains of Old Staircase",
+                  "text": "The remains of the old staircase are a ruin in Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.110332,
+                        5.844285
+                  ]
+            },
+            {
+                  "name": "Boy Scouts Centenary",
+                  "text": "The Boy Scouts Centenary is a monument in Sandakan.",
+                  "category": "historical",
+                  "coords": [
+                        118.112609,
+                        5.84058
+                  ]
+            },
+            {
+                  "name": "Tam Kung Temple",
+                  "text": "The Tam Kung Temple is a significant place of worship in Sandakan.",
+                  "category": "religious",
+                  "coords": [
+                        118.11185,
+                        5.858202
+                  ]
+            },
+            {
+                  "name": "St. Mary's Cathedral",
+                  "text": "The St. Mary's Cathedral is an important place of worship in Sandakan.",
+                  "category": "religious",
+                  "coords": [
+                        118.111494,
+                        5.839931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-12",
     coords: [118.117, 5.8388],
@@ -957,7 +3603,232 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tawau-cities-v2",
+    id: "tawau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzium Tawau",
+                  "text": "Muzium Tawau ist ein Museum zur Bewahrung der lokalen Geschichte in Tawau.",
+                  "category": "museum",
+                  "coords": [
+                        117.884075,
+                        4.255584
+                  ]
+            },
+            {
+                  "name": "Tawau Bell Tower",
+                  "text": "Der Glockenturm von Tawau ist ein markantes historisches Denkmal in Tawau.",
+                  "category": "historical",
+                  "coords": [
+                        117.881646,
+                        4.245043
+                  ]
+            },
+            {
+                  "name": "Twin Town Memorial Tawau",
+                  "text": "Das Twin Town Memorial Tawau ist ein öffentliches Denkmal in Tawau.",
+                  "category": "historical",
+                  "coords": [
+                        117.890881,
+                        4.244667
+                  ]
+            },
+            {
+                  "name": "Tugu PKMT",
+                  "text": "Tugu PKMT ist ein Denkmal in der Stadt Tawau.",
+                  "category": "historical",
+                  "coords": [
+                        117.892602,
+                        4.244628
+                  ]
+            },
+            {
+                  "name": "Old Tawau Airport",
+                  "text": "Der alte Flughafen von Tawau beherbergt die historischen Ruinen der ehemaligen Luftfahrtanlage der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        117.885018,
+                        4.262993
+                  ]
+            },
+            {
+                  "name": "Fo Guang Shan Temple",
+                  "text": "Der Fo Guang Shan Tempel ist ein bedeutendes buddhistisches Gotteshaus in Tawau.",
+                  "category": "religious",
+                  "coords": [
+                        117.892045,
+                        4.249695
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzium Tawau",
+                  "text": "A Muzium Tawau a helyi történelem megőrzésének szentelt múzeum Tawau városában.",
+                  "category": "museum",
+                  "coords": [
+                        117.884075,
+                        4.255584
+                  ]
+            },
+            {
+                  "name": "Tawau Bell Tower",
+                  "text": "A Tawau-i Harangtorony egy kiemelkedő történelmi emlékmű Tawau városában.",
+                  "category": "historical",
+                  "coords": [
+                        117.881646,
+                        4.245043
+                  ]
+            },
+            {
+                  "name": "Twin Town Memorial Tawau",
+                  "text": "A Twin Town Memorial Tawau egy köztéri emlékmű Tawau városában.",
+                  "category": "historical",
+                  "coords": [
+                        117.890881,
+                        4.244667
+                  ]
+            },
+            {
+                  "name": "Tugu PKMT",
+                  "text": "A Tugu PKMT egy emlékmű Tawau városában.",
+                  "category": "historical",
+                  "coords": [
+                        117.892602,
+                        4.244628
+                  ]
+            },
+            {
+                  "name": "Old Tawau Airport",
+                  "text": "A régi Tawau-i repülőtér a város egykori légiközlekedési létesítményének történelmi romjait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        117.885018,
+                        4.262993
+                  ]
+            },
+            {
+                  "name": "Fo Guang Shan Temple",
+                  "text": "A Fo Guang Shan templom egy jelentős buddhista istentiszteleti hely Tawau városában.",
+                  "category": "religious",
+                  "coords": [
+                        117.892045,
+                        4.249695
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzium Tawau",
+                  "text": "Muzium Tawau este un muzeu dedicat conservării istoriei locale în Tawau.",
+                  "category": "museum",
+                  "coords": [
+                        117.884075,
+                        4.255584
+                  ]
+            },
+            {
+                  "name": "Tawau Bell Tower",
+                  "text": "Turnul cu Ceas din Tawau este un monument istoric proeminent situat în Tawau.",
+                  "category": "historical",
+                  "coords": [
+                        117.881646,
+                        4.245043
+                  ]
+            },
+            {
+                  "name": "Twin Town Memorial Tawau",
+                  "text": "Twin Town Memorial Tawau este un monument public situat în Tawau.",
+                  "category": "historical",
+                  "coords": [
+                        117.890881,
+                        4.244667
+                  ]
+            },
+            {
+                  "name": "Tugu PKMT",
+                  "text": "Tugu PKMT este un monument comemorativ situat în orașul Tawau.",
+                  "category": "historical",
+                  "coords": [
+                        117.892602,
+                        4.244628
+                  ]
+            },
+            {
+                  "name": "Old Tawau Airport",
+                  "text": "Vechiul aeroport din Tawau cuprinde ruinele istorice ale fostei facilități de aviație a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        117.885018,
+                        4.262993
+                  ]
+            },
+            {
+                  "name": "Fo Guang Shan Temple",
+                  "text": "Templul Fo Guang Shan este un lăcaș de cult budist important situat în Tawau.",
+                  "category": "religious",
+                  "coords": [
+                        117.892045,
+                        4.249695
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzium Tawau",
+                  "text": "Muzium Tawau is a museum dedicated to preserving local history in Tawau.",
+                  "category": "museum",
+                  "coords": [
+                        117.884075,
+                        4.255584
+                  ]
+            },
+            {
+                  "name": "Tawau Bell Tower",
+                  "text": "The Tawau Bell Tower is a prominent historical monument located in Tawau.",
+                  "category": "historical",
+                  "coords": [
+                        117.881646,
+                        4.245043
+                  ]
+            },
+            {
+                  "name": "Twin Town Memorial Tawau",
+                  "text": "The Twin Town Memorial Tawau is a public monument situated in Tawau.",
+                  "category": "historical",
+                  "coords": [
+                        117.890881,
+                        4.244667
+                  ]
+            },
+            {
+                  "name": "Tugu PKMT",
+                  "text": "Tugu PKMT is a memorial monument located in the city of Tawau.",
+                  "category": "historical",
+                  "coords": [
+                        117.892602,
+                        4.244628
+                  ]
+            },
+            {
+                  "name": "Old Tawau Airport",
+                  "text": "The Old Tawau Airport features the historical ruins of the city's former aviation facility.",
+                  "category": "historical",
+                  "coords": [
+                        117.885018,
+                        4.262993
+                  ]
+            },
+            {
+                  "name": "Fo Guang Shan Temple",
+                  "text": "Fo Guang Shan Temple is a prominent Buddhist place of worship situated in Tawau.",
+                  "category": "religious",
+                  "coords": [
+                        117.892045,
+                        4.249695
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-12",
     coords: [117.886, 4.2486],
@@ -1005,7 +3876,124 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "bintulu-cities-v2",
+    id: "bintulu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Council of State",
+                  "text": "Das Monument Council of State ist ein Denkmal in Bintulu.",
+                  "category": "historical",
+                  "coords": [
+                        113.038783,
+                        3.173071
+                  ]
+            },
+            {
+                  "name": "Sculpture",
+                  "text": "Die Sculpture ist eine lokale künstlerische Attraktion in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.040457,
+                        3.182156
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Bintulu",
+                  "text": "Der Bintulu Night Market ist eine lebhafte Abendattraktion zum Einkaufen und Essen in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.044294,
+                        3.171202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Council of State",
+                  "text": "A Monument Council of State egy emlékmű Bintulu városában.",
+                  "category": "historical",
+                  "coords": [
+                        113.038783,
+                        3.173071
+                  ]
+            },
+            {
+                  "name": "Sculpture",
+                  "text": "A Sculpture egy helyi művészeti látványosság Bintulu városában.",
+                  "category": "landmark",
+                  "coords": [
+                        113.040457,
+                        3.182156
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Bintulu",
+                  "text": "A Bintulu Night Market egy nyüzsgő esti bevásárló- és gasztronómiai látványosság Bintulu városában.",
+                  "category": "landmark",
+                  "coords": [
+                        113.044294,
+                        3.171202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Council of State",
+                  "text": "Monument Council of State este o structură comemorativă situată în Bintulu.",
+                  "category": "historical",
+                  "coords": [
+                        113.038783,
+                        3.173071
+                  ]
+            },
+            {
+                  "name": "Sculpture",
+                  "text": "Sculpture este o atracție artistică locală expusă în Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.040457,
+                        3.182156
+                  ]
+            },
+            {
+                  "name": "Pasar Malam Bintulu",
+                  "text": "Bintulu Night Market este o atracție de seară animată pentru cumpărături și mâncare în Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.044294,
+                        3.171202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Council of State",
+                  "text": "The Monument Council of State is a commemorative structure located in Bintulu.",
+                  "category": "historical",
+                  "coords": [
+                        113.038783,
+                        3.173071
+                  ]
+            },
+            {
+                  "name": "Sculpture",
+                  "text": "The Sculpture is a local artistic attraction displayed in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.040457,
+                        3.182156
+                  ]
+            },
+            {
+                  "name": "Bintulu Night Market",
+                  "text": "The Bintulu Night Market is a bustling evening attraction for shopping and food in Bintulu.",
+                  "category": "landmark",
+                  "coords": [
+                        113.044294,
+                        3.171202
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-13",
     coords: [113.042, 3.1697],
@@ -1053,7 +4041,412 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "muar-cities-v2",
+    id: "muar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rumah Persinggahan Sultan",
+                  "text": "Rumah Persinggahan Sultan ist eine historische Schlossanlage in Muar.",
+                  "category": "castle",
+                  "coords": [
+                        102.560491,
+                        2.046116
+                  ]
+            },
+            {
+                  "name": "Laman Maharani",
+                  "text": "Der Maharani Park ist eine beliebte Parkanlage in Muar.",
+                  "category": "park",
+                  "coords": [
+                        102.567834,
+                        2.049028
+                  ]
+            },
+            {
+                  "name": "Old Dutch House",
+                  "text": "Das Old Dutch House ist ein historisches Denkmal in Muar.",
+                  "category": "historical",
+                  "coords": [
+                        102.564171,
+                        2.042962
+                  ]
+            },
+            {
+                  "name": "crown of johor",
+                  "text": "Die Krone von Johor ist eine bekannte Attraktion in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566726,
+                        2.043264
+                  ]
+            },
+            {
+                  "name": "Sunset View",
+                  "text": "Sunset View ist ein beliebter Ort zur Sonnenbeobachtung in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.550458,
+                        2.046485
+                  ]
+            },
+            {
+                  "name": "Chiang Chuan association Muar",
+                  "text": "Chiang Chuan association Muar ist ein historisches Herrenhaus in Muar.",
+                  "category": "historical",
+                  "coords": [
+                        102.568265,
+                        2.046331
+                  ]
+            },
+            {
+                  "name": "Royal Customs and Excise Building",
+                  "text": "Das Royal Customs and Excise Building ist eine historische Attraktion in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566071,
+                        2.047585
+                  ]
+            },
+            {
+                  "name": "Incredible murals",
+                  "text": "Die Wandmalereien sind eine beeindruckende Attraktion in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.567156,
+                        2.047645
+                  ]
+            },
+            {
+                  "name": "Rumah Lama Alsaeed",
+                  "text": "Rumah Lama Alsaeed ist eine historische Attraktion in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.574878,
+                        2.059999
+                  ]
+            },
+            {
+                  "name": "Jambatan Sultan Ismail",
+                  "text": "Die Sultan Ismail Brücke ist eine wichtige Brücke in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.567185,
+                        2.050805
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sultan Ibrahim",
+                  "text": "Die Masjid Jamek Sultan Ibrahim ist ein prachtvolles Gotteshaus in Muar.",
+                  "category": "religious",
+                  "coords": [
+                        102.558622,
+                        2.046356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rumah Persinggahan Sultan",
+                  "text": "A Rumah Persinggahan Sultan egy történelmi kastély Muarban.",
+                  "category": "castle",
+                  "coords": [
+                        102.560491,
+                        2.046116
+                  ]
+            },
+            {
+                  "name": "Laman Maharani",
+                  "text": "A Maharani Park egy népszerű park Muarban.",
+                  "category": "park",
+                  "coords": [
+                        102.567834,
+                        2.049028
+                  ]
+            },
+            {
+                  "name": "Old Dutch House",
+                  "text": "Az Old Dutch House egy történelmi emlékmű Muarban.",
+                  "category": "historical",
+                  "coords": [
+                        102.564171,
+                        2.042962
+                  ]
+            },
+            {
+                  "name": "crown of johor",
+                  "text": "A johori korona egy ismert látnivaló Muarban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566726,
+                        2.043264
+                  ]
+            },
+            {
+                  "name": "Sunset View",
+                  "text": "A Sunset View egy népszerű naplemente-nézőhely Muarban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.550458,
+                        2.046485
+                  ]
+            },
+            {
+                  "name": "Chiang Chuan association Muar",
+                  "text": "A Chiang Chuan association Muar egy történelmi kúria Muarban.",
+                  "category": "historical",
+                  "coords": [
+                        102.568265,
+                        2.046331
+                  ]
+            },
+            {
+                  "name": "Royal Customs and Excise Building",
+                  "text": "A Royal Customs and Excise Building egy történelmi látnivaló Muarban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566071,
+                        2.047585
+                  ]
+            },
+            {
+                  "name": "Incredible murals",
+                  "text": "A falfestmények egy lenyűgöző látnivaló Muarban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.567156,
+                        2.047645
+                  ]
+            },
+            {
+                  "name": "Rumah Lama Alsaeed",
+                  "text": "A Rumah Lama Alsaeed egy történelmi látnivaló Muarban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.574878,
+                        2.059999
+                  ]
+            },
+            {
+                  "name": "Jambatan Sultan Ismail",
+                  "text": "A Sultan Ismail-híd egy fontos híd Muarban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.567185,
+                        2.050805
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sultan Ibrahim",
+                  "text": "A Masjid Jamek Sultan Ibrahim egy pompás imaház Muarban.",
+                  "category": "religious",
+                  "coords": [
+                        102.558622,
+                        2.046356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rumah Persinggahan Sultan",
+                  "text": "Rumah Persinggahan Sultan este un castel istoric din Muar.",
+                  "category": "castle",
+                  "coords": [
+                        102.560491,
+                        2.046116
+                  ]
+            },
+            {
+                  "name": "Laman Maharani",
+                  "text": "Maharani Park este un parc popular din Muar.",
+                  "category": "park",
+                  "coords": [
+                        102.567834,
+                        2.049028
+                  ]
+            },
+            {
+                  "name": "Old Dutch House",
+                  "text": "Old Dutch House este un monument istoric din Muar.",
+                  "category": "historical",
+                  "coords": [
+                        102.564171,
+                        2.042962
+                  ]
+            },
+            {
+                  "name": "crown of johor",
+                  "text": "Coroana din Johor este o atracție cunoscută din Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566726,
+                        2.043264
+                  ]
+            },
+            {
+                  "name": "Sunset View",
+                  "text": "Sunset View este un loc popular pentru observarea apusului în Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.550458,
+                        2.046485
+                  ]
+            },
+            {
+                  "name": "Chiang Chuan association Muar",
+                  "text": "Chiang Chuan association Muar este un conac istoric din Muar.",
+                  "category": "historical",
+                  "coords": [
+                        102.568265,
+                        2.046331
+                  ]
+            },
+            {
+                  "name": "Royal Customs and Excise Building",
+                  "text": "Royal Customs and Excise Building este o atracție istorică din Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566071,
+                        2.047585
+                  ]
+            },
+            {
+                  "name": "Incredible murals",
+                  "text": "Picturile murale sunt o atracție impresionantă în Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.567156,
+                        2.047645
+                  ]
+            },
+            {
+                  "name": "Rumah Lama Alsaeed",
+                  "text": "Rumah Lama Alsaeed este o atracție istorică din Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.574878,
+                        2.059999
+                  ]
+            },
+            {
+                  "name": "Jambatan Sultan Ismail",
+                  "text": "Podul Sultan Ismail este un pod important din Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.567185,
+                        2.050805
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sultan Ibrahim",
+                  "text": "Masjid Jamek Sultan Ibrahim este un lăcaș de cult somptuos din Muar.",
+                  "category": "religious",
+                  "coords": [
+                        102.558622,
+                        2.046356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rumah Persinggahan Sultan",
+                  "text": "Rumah Persinggahan Sultan is a historic castle in Muar.",
+                  "category": "castle",
+                  "coords": [
+                        102.560491,
+                        2.046116
+                  ]
+            },
+            {
+                  "name": "Maharani Park",
+                  "text": "Maharani Park is a popular park in Muar.",
+                  "category": "park",
+                  "coords": [
+                        102.567834,
+                        2.049028
+                  ]
+            },
+            {
+                  "name": "Old Dutch House",
+                  "text": "The Old Dutch House is a historic monument in Muar.",
+                  "category": "historical",
+                  "coords": [
+                        102.564171,
+                        2.042962
+                  ]
+            },
+            {
+                  "name": "crown of johor",
+                  "text": "The crown of johor is a known attraction in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566726,
+                        2.043264
+                  ]
+            },
+            {
+                  "name": "Sunset View",
+                  "text": "Sunset View is a popular spot for viewing the sunset in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.550458,
+                        2.046485
+                  ]
+            },
+            {
+                  "name": "Chiang Chuan association Muar",
+                  "text": "Chiang Chuan association Muar is a historic manor in Muar.",
+                  "category": "historical",
+                  "coords": [
+                        102.568265,
+                        2.046331
+                  ]
+            },
+            {
+                  "name": "Royal Customs and Excise Building",
+                  "text": "The Royal Customs and Excise Building is a historic attraction in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.566071,
+                        2.047585
+                  ]
+            },
+            {
+                  "name": "Incredible murals",
+                  "text": "The murals are an impressive attraction in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.567156,
+                        2.047645
+                  ]
+            },
+            {
+                  "name": "Rumah Lama Alsaeed",
+                  "text": "Rumah Lama Alsaeed is a historic attraction in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.574878,
+                        2.059999
+                  ]
+            },
+            {
+                  "name": "Sultan Ismail Bridge",
+                  "text": "The Sultan Ismail Bridge is a significant bridge in Muar.",
+                  "category": "landmark",
+                  "coords": [
+                        102.567185,
+                        2.050805
+                  ]
+            },
+            {
+                  "name": "Masjid Jamek Sultan Ibrahim",
+                  "text": "The Masjid Jamek Sultan Ibrahim is a magnificent place of worship in Muar.",
+                  "category": "religious",
+                  "coords": [
+                        102.558622,
+                        2.046356
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-01",
     coords: [102.5693, 2.0463],
@@ -1101,7 +4494,88 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "sungai-petani-cities-v2",
+    id: "sungai-petani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taman Kucing",
+                  "text": "Taman Kucing ist ein lokaler Tierpark und Zoo in Sungai Petani.",
+                  "category": "recreational",
+                  "coords": [
+                        100.463507,
+                        5.648022
+                  ]
+            },
+            {
+                  "name": "Majlis Perbandaran Sungai Petani (MPSPK)",
+                  "text": "Der Stadtrat von Sungai Petani fungiert als primäre lokale Regierungsbehörde der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        100.486665,
+                        5.643952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taman Kucing",
+                  "text": "A Taman Kucing egy helyi állatpark és állatkert Sungai Petani városában.",
+                  "category": "recreational",
+                  "coords": [
+                        100.463507,
+                        5.648022
+                  ]
+            },
+            {
+                  "name": "Majlis Perbandaran Sungai Petani (MPSPK)",
+                  "text": "A Sungai Petani Városi Tanács a város elsődleges helyi önkormányzati testületeként működik.",
+                  "category": "historical",
+                  "coords": [
+                        100.486665,
+                        5.643952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taman Kucing",
+                  "text": "Taman Kucing este un parc de animale și o grădină zoologică situată în Sungai Petani.",
+                  "category": "recreational",
+                  "coords": [
+                        100.463507,
+                        5.648022
+                  ]
+            },
+            {
+                  "name": "Majlis Perbandaran Sungai Petani (MPSPK)",
+                  "text": "Consiliul Municipal Sungai Petani funcționează ca principal organism al administrației locale pentru oraș.",
+                  "category": "historical",
+                  "coords": [
+                        100.486665,
+                        5.643952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taman Kucing",
+                  "text": "Taman Kucing is a local animal park and zoo situated in Sungai Petani.",
+                  "category": "recreational",
+                  "coords": [
+                        100.463507,
+                        5.648022
+                  ]
+            },
+            {
+                  "name": "Sungai Petani Municipal Council",
+                  "text": "The Sungai Petani Municipal Council operates as the primary local government body for the town.",
+                  "category": "historical",
+                  "coords": [
+                        100.486665,
+                        5.643952
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-02",
     coords: [100.4883, 5.6433],
@@ -1287,7 +4761,520 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "taiping-cities-v2",
+    id: "taiping-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taiping Zoo & Night Safari",
+                  "text": "Taiping Zoo & Night Safari ist ein zoologischer Garten in Taiping, der Tag- und Nachtbeobachtungen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        100.750458,
+                        4.853866
+                  ]
+            },
+            {
+                  "name": "Muzium Perak",
+                  "text": "Das Muzium Perak ist ein Museum in Taiping, das regionale Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        100.745322,
+                        4.860467
+                  ]
+            },
+            {
+                  "name": "Taiping Municipal Gallery",
+                  "text": "Die Taiping Municipal Gallery dient als Museum für Kunst in Taiping.",
+                  "category": "museum",
+                  "coords": [
+                        100.741203,
+                        4.854823
+                  ]
+            },
+            {
+                  "name": "Old House Museum",
+                  "text": "Das Old House Museum ist ein historisches Museum in Taiping.",
+                  "category": "museum",
+                  "coords": [
+                        100.739405,
+                        4.85197
+                  ]
+            },
+            {
+                  "name": "local market",
+                  "text": "Dieser lokale Markt in Taiping ist eine authentische Attraktion für Einkäufe.",
+                  "category": "landmark",
+                  "coords": [
+                        100.74152,
+                        4.84933
+                  ]
+            },
+            {
+                  "name": "Antong Malaysia's Most Historical Coffee Mill",
+                  "text": "Antong Malaysia's Most Historical Coffee Mill ist eine Attraktion in Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.732845,
+                        4.855046
+                  ]
+            },
+            {
+                  "name": "Night Hawker food court",
+                  "text": "Der Night Hawker Food Court ist eine beliebte kulinarische Attraktion in Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.743073,
+                        4.852692
+                  ]
+            },
+            {
+                  "name": "Cross Street Bazar night market",
+                  "text": "Der Nachtmarkt Cross Street Bazar ist eine lebhafte Attraktion in Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.743127,
+                        4.854001
+                  ]
+            },
+            {
+                  "name": "5D art museum",
+                  "text": "Das 5D-Kunstmuseum ist eine interaktive Attraktion in Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.744725,
+                        4.85042
+                  ]
+            },
+            {
+                  "name": "Fresh Market (vegetables, meat)",
+                  "text": "Dieser Fresh Market in Taiping ist auf Gemüse und Fleisch spezialisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.74065,
+                        4.850501
+                  ]
+            },
+            {
+                  "name": "Galeri Seni N&G Cawangan Taiping",
+                  "text": "Die N&G Art Gallery Taiping Branch dient als Kunstgalerie in der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        100.738677,
+                        4.84844
+                  ]
+            },
+            {
+                  "name": "One Art Gallery",
+                  "text": "Die One Art Gallery ist eine lokale Galerie für bildende Kunst in Taiping.",
+                  "category": "museum",
+                  "coords": [
+                        100.731352,
+                        4.865554
+                  ]
+            },
+            {
+                  "name": "Boat House",
+                  "text": "Das Boat House ist eine Attraktion am Wasser in Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.746941,
+                        4.850379
+                  ]
+            },
+            {
+                  "name": "Gereja All Saints Taiping",
+                  "text": "Die All Saints' Church in Taiping ist ein historisches Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        100.744231,
+                        4.858228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taiping Zoo & Night Safari",
+                  "text": "A Taiping Zoo & Night Safari egy állatkert Taiping városában, amely nappali és éjszakai állatnézést is kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        100.750458,
+                        4.853866
+                  ]
+            },
+            {
+                  "name": "Muzium Perak",
+                  "text": "A Muzium Perak egy múzeum Taiping városában, amely a regionális történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        100.745322,
+                        4.860467
+                  ]
+            },
+            {
+                  "name": "Taiping Municipal Gallery",
+                  "text": "A Taiping Municipal Gallery egy múzeum Taiping városában.",
+                  "category": "museum",
+                  "coords": [
+                        100.741203,
+                        4.854823
+                  ]
+            },
+            {
+                  "name": "Old House Museum",
+                  "text": "Az Old House Museum egy történelmi múzeum Taiping városában.",
+                  "category": "museum",
+                  "coords": [
+                        100.739405,
+                        4.85197
+                  ]
+            },
+            {
+                  "name": "local market",
+                  "text": "Ez a helyi piac Taiping városában egy látványosság a kereskedelem megismerésére.",
+                  "category": "landmark",
+                  "coords": [
+                        100.74152,
+                        4.84933
+                  ]
+            },
+            {
+                  "name": "Antong Malaysia's Most Historical Coffee Mill",
+                  "text": "Az Antong Malaysia legfontosabb történelmi kávémalma egy turisztikai látványosság Taiping városában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.732845,
+                        4.855046
+                  ]
+            },
+            {
+                  "name": "Night Hawker food court",
+                  "text": "A Night Hawker ételudvar egy népszerű kulináris látványosság Taiping városában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.743073,
+                        4.852692
+                  ]
+            },
+            {
+                  "name": "Cross Street Bazar night market",
+                  "text": "A Cross Street Bazar éjszakai piac egy nyüzsgő látványosság Taiping városában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.743127,
+                        4.854001
+                  ]
+            },
+            {
+                  "name": "5D art museum",
+                  "text": "Az 5D művészeti múzeum egy interaktív látványosság Taiping városában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.744725,
+                        4.85042
+                  ]
+            },
+            {
+                  "name": "Fresh Market (vegetables, meat)",
+                  "text": "Ez a Taiping-i Friss Piac zöldségekre és húsokra specializálódott.",
+                  "category": "landmark",
+                  "coords": [
+                        100.74065,
+                        4.850501
+                  ]
+            },
+            {
+                  "name": "Galeri Seni N&G Cawangan Taiping",
+                  "text": "Az N&G Art Gallery Taiping Branch egy művészeti galéria a városban.",
+                  "category": "museum",
+                  "coords": [
+                        100.738677,
+                        4.84844
+                  ]
+            },
+            {
+                  "name": "One Art Gallery",
+                  "text": "A One Art Gallery egy vizuális művészeteknek otthont adó helyi galéria Taiping városában.",
+                  "category": "museum",
+                  "coords": [
+                        100.731352,
+                        4.865554
+                  ]
+            },
+            {
+                  "name": "Boat House",
+                  "text": "A Boat House egy vízparti látványosság Taiping városában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.746941,
+                        4.850379
+                  ]
+            },
+            {
+                  "name": "Gereja All Saints Taiping",
+                  "text": "A Taiping-i Mindenszentek temploma egy történelmi istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        100.744231,
+                        4.858228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taiping Zoo & Night Safari",
+                  "text": "Taiping Zoo & Night Safari este un parc zoologic major din Taiping.",
+                  "category": "recreational",
+                  "coords": [
+                        100.750458,
+                        4.853866
+                  ]
+            },
+            {
+                  "name": "Muzium Perak",
+                  "text": "Muzium Perak este un muzeu din Taiping care prezintă istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        100.745322,
+                        4.860467
+                  ]
+            },
+            {
+                  "name": "Taiping Municipal Gallery",
+                  "text": "Galeria Municipală Taiping servește ca un muzeu în Taiping.",
+                  "category": "museum",
+                  "coords": [
+                        100.741203,
+                        4.854823
+                  ]
+            },
+            {
+                  "name": "Old House Museum",
+                  "text": "Muzeul Old House este un muzeu din Taiping dedicat conservării istorice.",
+                  "category": "museum",
+                  "coords": [
+                        100.739405,
+                        4.85197
+                  ]
+            },
+            {
+                  "name": "local market",
+                  "text": "Această piață locală din Taiping oferă o atracție pentru a experimenta comerțul regional.",
+                  "category": "landmark",
+                  "coords": [
+                        100.74152,
+                        4.84933
+                  ]
+            },
+            {
+                  "name": "Antong Malaysia's Most Historical Coffee Mill",
+                  "text": "Antong, cea mai istorică moară de cafea din Malaezia, este o atracție din Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.732845,
+                        4.855046
+                  ]
+            },
+            {
+                  "name": "Night Hawker food court",
+                  "text": "Zona de restaurante Night Hawker este o atracție culinară populară în Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.743073,
+                        4.852692
+                  ]
+            },
+            {
+                  "name": "Cross Street Bazar night market",
+                  "text": "Piața de noapte Cross Street Bazar este o atracție plină de viață în Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.743127,
+                        4.854001
+                  ]
+            },
+            {
+                  "name": "5D art museum",
+                  "text": "Muzeul de artă 5D este o atracție interactivă situată în Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.744725,
+                        4.85042
+                  ]
+            },
+            {
+                  "name": "Fresh Market (vegetables, meat)",
+                  "text": "Această piață de produse proaspete din Taiping este specializată în legume și carne.",
+                  "category": "landmark",
+                  "coords": [
+                        100.74065,
+                        4.850501
+                  ]
+            },
+            {
+                  "name": "Galeri Seni N&G Cawangan Taiping",
+                  "text": "Filiala N&G Art Gallery din Taiping servește ca spațiu de expoziție de artă.",
+                  "category": "museum",
+                  "coords": [
+                        100.738677,
+                        4.84844
+                  ]
+            },
+            {
+                  "name": "One Art Gallery",
+                  "text": "One Art Gallery este un spațiu local pentru arte vizuale, situat în Taiping.",
+                  "category": "museum",
+                  "coords": [
+                        100.731352,
+                        4.865554
+                  ]
+            },
+            {
+                  "name": "Boat House",
+                  "text": "Boat House este o atracție situată pe malul apei în Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.746941,
+                        4.850379
+                  ]
+            },
+            {
+                  "name": "Gereja All Saints Taiping",
+                  "text": "Biserica Tuturor Sfinților din Taiping este un lăcaș de cult istoric.",
+                  "category": "religious",
+                  "coords": [
+                        100.744231,
+                        4.858228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taiping Zoo & Night Safari",
+                  "text": "Taiping Zoo & Night Safari is a major zoological park in Taiping that offers both daytime and nocturnal animal viewings.",
+                  "category": "recreational",
+                  "coords": [
+                        100.750458,
+                        4.853866
+                  ]
+            },
+            {
+                  "name": "Muzium Perak",
+                  "text": "Muzium Perak is a museum located in Taiping showcasing regional history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        100.745322,
+                        4.860467
+                  ]
+            },
+            {
+                  "name": "Taiping Municipal Gallery",
+                  "text": "The Taiping Municipal Gallery serves as a museum exhibiting art and local heritage in Taiping.",
+                  "category": "museum",
+                  "coords": [
+                        100.741203,
+                        4.854823
+                  ]
+            },
+            {
+                  "name": "Old House Museum",
+                  "text": "The Old House Museum is a cultural institution in Taiping dedicated to historical preservation.",
+                  "category": "museum",
+                  "coords": [
+                        100.739405,
+                        4.85197
+                  ]
+            },
+            {
+                  "name": "local market",
+                  "text": "This local market in Taiping offers an authentic attraction for experiencing regional commerce.",
+                  "category": "landmark",
+                  "coords": [
+                        100.74152,
+                        4.84933
+                  ]
+            },
+            {
+                  "name": "Antong Malaysia's Most Historical Coffee Mill",
+                  "text": "Antong Malaysia's Most Historical Coffee Mill is a notable tourist attraction in Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.732845,
+                        4.855046
+                  ]
+            },
+            {
+                  "name": "Night Hawker food court",
+                  "text": "The Night Hawker food court is a popular culinary attraction offering various local dishes in Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.743073,
+                        4.852692
+                  ]
+            },
+            {
+                  "name": "Cross Street Bazar night market",
+                  "text": "The Cross Street Bazar night market is a bustling attraction for evening shopping and dining in Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.743127,
+                        4.854001
+                  ]
+            },
+            {
+                  "name": "5D art museum",
+                  "text": "The 5D art museum is a modern interactive attraction located in Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.744725,
+                        4.85042
+                  ]
+            },
+            {
+                  "name": "Fresh Market (vegetables, meat)",
+                  "text": "This Fresh Market in Taiping is a local attraction specializing in vegetables and meat.",
+                  "category": "landmark",
+                  "coords": [
+                        100.74065,
+                        4.850501
+                  ]
+            },
+            {
+                  "name": "N&G Art Gallery Taiping Branch",
+                  "text": "The N&G Art Gallery Taiping Branch serves as an art exhibition space in the city.",
+                  "category": "museum",
+                  "coords": [
+                        100.738677,
+                        4.84844
+                  ]
+            },
+            {
+                  "name": "One Art Gallery",
+                  "text": "One Art Gallery is a local venue for visual arts located in Taiping.",
+                  "category": "museum",
+                  "coords": [
+                        100.731352,
+                        4.865554
+                  ]
+            },
+            {
+                  "name": "Boat House",
+                  "text": "The Boat House is a waterside attraction located in Taiping.",
+                  "category": "landmark",
+                  "coords": [
+                        100.746941,
+                        4.850379
+                  ]
+            },
+            {
+                  "name": "All Saints' Church, Taiping",
+                  "text": "All Saints' Church in Taiping is a historic place of worship recognized for its colonial-era architecture.",
+                  "category": "religious",
+                  "coords": [
+                        100.744231,
+                        4.858228
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MY-08",
     coords: [100.74, 4.85],

@@ -2928,7 +2928,232 @@ export const samoaHistoryV2: POI[] = [
     image: "/poi-images/samoa-salelologa-market-history-v2.webp",
   },
   {
-    id: "samoa-tufutafoe-historical-village-history-v2",
+    id: "samoa-tufutafoe-historical-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faleālupo Beach",
+                  "text": "Faleālupo Beach ist ein Strand im Historischen Dorf Tufutafoe.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.787927,
+                        -13.499202
+                  ]
+            },
+            {
+                  "name": "Seeti Beach",
+                  "text": "Seeti Beach ist ein Strandabschnitt im Historischen Dorf Tufutafoe.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.790004,
+                        -13.501768
+                  ]
+            },
+            {
+                  "name": "Moso Footprint",
+                  "text": "Moso Footprint ist eine Sehenswürdigkeit im Historischen Dorf Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.766906,
+                        -13.501527
+                  ]
+            },
+            {
+                  "name": "House of Rock",
+                  "text": "House of Rock ist eine Attraktion im Historischen Dorf Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.785785,
+                        -13.496955
+                  ]
+            },
+            {
+                  "name": "Ancient Star Mound",
+                  "text": "Ancient Star Mound ist eine historische Sehenswürdigkeit im Historischen Dorf Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.801625,
+                        -13.515625
+                  ]
+            },
+            {
+                  "name": "Falealupo Catholic Church Ruins",
+                  "text": "Die Falealupo Catholic Church Ruins sind Ruinen im Historischen Dorf Tufutafoe.",
+                  "category": "historical",
+                  "coords": [
+                        -172.784001,
+                        -13.49376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faleālupo Beach",
+                  "text": "A Faleālupo Beach egy strand Tufutafoe történelmi falujában.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.787927,
+                        -13.499202
+                  ]
+            },
+            {
+                  "name": "Seeti Beach",
+                  "text": "A Seeti Beach egy strand Tufutafoe történelmi falujában.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.790004,
+                        -13.501768
+                  ]
+            },
+            {
+                  "name": "Moso Footprint",
+                  "text": "A Moso Footprint egy látványosság Tufutafoe történelmi falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.766906,
+                        -13.501527
+                  ]
+            },
+            {
+                  "name": "House of Rock",
+                  "text": "A House of Rock egy helyi látványosság Tufutafoe történelmi falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.785785,
+                        -13.496955
+                  ]
+            },
+            {
+                  "name": "Ancient Star Mound",
+                  "text": "Az Ancient Star Mound egy látványosság Tufutafoe falujában.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.801625,
+                        -13.515625
+                  ]
+            },
+            {
+                  "name": "Falealupo Catholic Church Ruins",
+                  "text": "A Falealupo Catholic Church Ruins templomrom Tufutafoe történelmi falujában található.",
+                  "category": "historical",
+                  "coords": [
+                        -172.784001,
+                        -13.49376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faleālupo Beach",
+                  "text": "Faleālupo Beach este o plajă situată în satul istoric Tufutafoe.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.787927,
+                        -13.499202
+                  ]
+            },
+            {
+                  "name": "Seeti Beach",
+                  "text": "Seeti Beach este o plajă în satul istoric Tufutafoe.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.790004,
+                        -13.501768
+                  ]
+            },
+            {
+                  "name": "Moso Footprint",
+                  "text": "Moso Footprint este o atracție situată în satul istoric Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.766906,
+                        -13.501527
+                  ]
+            },
+            {
+                  "name": "House of Rock",
+                  "text": "House of Rock este o atracție în satul istoric Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.785785,
+                        -13.496955
+                  ]
+            },
+            {
+                  "name": "Ancient Star Mound",
+                  "text": "Ancient Star Mound este o atracție în satul istoric Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.801625,
+                        -13.515625
+                  ]
+            },
+            {
+                  "name": "Falealupo Catholic Church Ruins",
+                  "text": "Falealupo Catholic Church Ruins reprezintă ruinele unei biserici din satul istoric Tufutafoe.",
+                  "category": "historical",
+                  "coords": [
+                        -172.784001,
+                        -13.49376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faleālupo Beach",
+                  "text": "Faleālupo Beach is a beach located in the historic village of Tufutafoe.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.787927,
+                        -13.499202
+                  ]
+            },
+            {
+                  "name": "Seeti Beach",
+                  "text": "Seeti Beach is a beach located in the historic village of Tufutafoe.",
+                  "category": "recreational",
+                  "coords": [
+                        -172.790004,
+                        -13.501768
+                  ]
+            },
+            {
+                  "name": "Moso Footprint",
+                  "text": "Moso Footprint is an attraction found in the historic village of Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.766906,
+                        -13.501527
+                  ]
+            },
+            {
+                  "name": "House of Rock",
+                  "text": "House of Rock is an attraction located in the historic village of Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.785785,
+                        -13.496955
+                  ]
+            },
+            {
+                  "name": "Ancient Star Mound",
+                  "text": "Ancient Star Mound is an attraction in the historic village of Tufutafoe.",
+                  "category": "landmark",
+                  "coords": [
+                        -172.801625,
+                        -13.515625
+                  ]
+            },
+            {
+                  "name": "Falealupo Catholic Church Ruins",
+                  "text": "The Falealupo Catholic Church Ruins are historical ruins located in the historic village of Tufutafoe.",
+                  "category": "historical",
+                  "coords": [
+                        -172.784001,
+                        -13.49376
+                  ]
+            }
+      ]
+},
     parent: "WS",
     type: "village",
     name: { de: "Historisches Dorf Tufutafoe", hu: "Tufutafoe történelmi falu", ro: "Satul istoric Tufutafoe", en: "Tufutafoe Historical Village" },

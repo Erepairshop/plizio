@@ -3,7 +3,520 @@ import { POI } from './poi';
 export const palauCitiesV2: POI[] = [
 
   {
-    id: "palau-koror-cities-v2",
+    id: "palau-koror-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Belau National Museum",
+                  "text": "Belau National Museum ist ein Museum in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.476344,
+                        7.336578
+                  ]
+            },
+            {
+                  "name": "Etpison Museum",
+                  "text": "Etpison Museum ist ein Museum in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.483163,
+                        7.345284
+                  ]
+            },
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Palau International Coral Reef Centre ist ein Aquarium in Koror.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Ngerunguikl",
+                  "text": "Ngerunguikl ist ein Berggipfel in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.498354,
+                        7.33885
+                  ]
+            },
+            {
+                  "name": "Tibedul",
+                  "text": "Tibedul ist ein Berggipfel in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Tuker",
+                  "text": "Tuker ist ein Berggipfel in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.490894,
+                        7.344742
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Asahi Baseball Field ist ein Park in Koror.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Belau Art Gallery ist eine Galerie in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Swimming pool ruins sind Ruinen in Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "Mother and Child Stone ist eine Sehenswürdigkeit in Koror.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "PillBox ist eine Ruine in Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "Ngarachamayong Cultural Center ist ein Kunstzentrum in Koror.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            },
+            {
+                  "name": "Nan'yō Shinto Shrine",
+                  "text": "Nan'yō Shinto Shrine ist eine Kultstätte in Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.496873,
+                        7.339665
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Sacred Heart Church ist eine Kultstätte in Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.484952,
+                        7.345218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Belau National Museum",
+                  "text": "A Belau National Museum egy múzeum Koror városában.",
+                  "category": "museum",
+                  "coords": [
+                        134.476344,
+                        7.336578
+                  ]
+            },
+            {
+                  "name": "Etpison Museum",
+                  "text": "Az Etpison Museum egy múzeum Koror városában.",
+                  "category": "museum",
+                  "coords": [
+                        134.483163,
+                        7.345284
+                  ]
+            },
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "A Palau International Coral Reef Centre egy akvárium Koror városában.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Ngerunguikl",
+                  "text": "A Ngerunguikl egy hegycsúcs Koror területén.",
+                  "category": "natural",
+                  "coords": [
+                        134.498354,
+                        7.33885
+                  ]
+            },
+            {
+                  "name": "Tibedul",
+                  "text": "A Tibedul egy hegycsúcs Koror területén.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Tuker",
+                  "text": "A Tuker egy hegycsúcs Koror területén.",
+                  "category": "natural",
+                  "coords": [
+                        134.490894,
+                        7.344742
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Az Asahi Baseball Field egy park Koror városában.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "A Belau Art Gallery egy galéria Koror városában.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "A Swimming pool ruins romok Koror városában.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "A Mother and Child Stone egy látványosság Koror városában.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "A PillBox egy rom Koror városában.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "A Ngarachamayong Cultural Center egy művészeti központ Koror városában.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            },
+            {
+                  "name": "Nan'yō Shinto Shrine",
+                  "text": "A Nan'yō Shinto Shrine egy istentiszteleti hely Koror városában.",
+                  "category": "religious",
+                  "coords": [
+                        134.496873,
+                        7.339665
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "A Sacred Heart Church egy istentiszteleti hely Koror városában.",
+                  "category": "religious",
+                  "coords": [
+                        134.484952,
+                        7.345218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Belau National Museum",
+                  "text": "Belau National Museum este un muzeu situat în Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.476344,
+                        7.336578
+                  ]
+            },
+            {
+                  "name": "Etpison Museum",
+                  "text": "Etpison Museum este un muzeu situat în Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.483163,
+                        7.345284
+                  ]
+            },
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Palau International Coral Reef Centre este un acvariu situat în Koror.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Ngerunguikl",
+                  "text": "Ngerunguikl este un vârf montan situat în Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.498354,
+                        7.33885
+                  ]
+            },
+            {
+                  "name": "Tibedul",
+                  "text": "Tibedul este un vârf montan situat în Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Tuker",
+                  "text": "Tuker este un vârf montan situat în Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.490894,
+                        7.344742
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Asahi Baseball Field este un parc situat în Koror.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Belau Art Gallery este o galerie situată în Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Swimming pool ruins sunt ruine situate în Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "Mother and Child Stone este o atracție situată în Koror.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "PillBox este o ruină situată în Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "Ngarachamayong Cultural Center este un centru de arte situat în Koror.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            },
+            {
+                  "name": "Nan'yō Shinto Shrine",
+                  "text": "Nan'yō Shinto Shrine este un lăcaș de cult situat în Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.496873,
+                        7.339665
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Sacred Heart Church este un lăcaș de cult situat în Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.484952,
+                        7.345218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Belau National Museum",
+                  "text": "Belau National Museum is a museum located in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.476344,
+                        7.336578
+                  ]
+            },
+            {
+                  "name": "Etpison Museum",
+                  "text": "Etpison Museum is a museum located in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.483163,
+                        7.345284
+                  ]
+            },
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Palau International Coral Reef Centre is an aquarium located in Koror.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Ngerunguikl",
+                  "text": "Ngerunguikl is a peak located in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.498354,
+                        7.33885
+                  ]
+            },
+            {
+                  "name": "Tibedul",
+                  "text": "Tibedul is a peak located in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Tuker",
+                  "text": "Tuker is a peak located in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.490894,
+                        7.344742
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Asahi Baseball Field is a park located in Koror.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Belau Art Gallery is a gallery located in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Swimming pool ruins are ruins located in Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "Mother and Child Stone is an attraction located in Koror.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "PillBox is a ruin located in Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "Ngarachamayong Cultural Center is an arts centre located in Koror.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            },
+            {
+                  "name": "Nan'yō Shinto Shrine",
+                  "text": "Nan'yō Shinto Shrine is a place of worship located in Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.496873,
+                        7.339665
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Sacred Heart Church is a place of worship located in Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.484952,
+                        7.345218
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "city",
     name: { de: "Koror", hu: "Koror", ro: "Koror", en: "Koror" },
@@ -48,7 +561,124 @@ export const palauCitiesV2: POI[] = [
     image: "/poi-images/palau-koror-cities-v2.webp",
   },
   {
-    id: "palau-ngerulmud-cities-v2",
+    id: "palau-ngerulmud-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tochobei",
+                  "text": "Tochobei ist ein Berggipfel in der Nähe von Ngerulmud.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "Meteu 'L Klechem ist ein historisch bedeutsames Denkmal in Ngerulmud.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "Melekeok Bai ist eine traditionelle Sehenswürdigkeit in Ngerulmud.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tochobei",
+                  "text": "A Tochobei egy hegycsúcs Ngerulmud közelében.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "A Meteu 'L Klechem egy történelmi jelentőségű emlékmű Ngerulmud városában.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "A Melekeok Bai egy hagyományos látványosság Ngerulmud városában.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tochobei",
+                  "text": "Tochobei este un vârf montan situat în apropiere de Ngerulmud.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "Meteu 'L Klechem este un monument de importanță istorică din Ngerulmud.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "Melekeok Bai este o atracție tradițională situată în Ngerulmud.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tochobei",
+                  "text": "Tochobei is a geographical peak located near Ngerulmud.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "Meteu 'L Klechem is a historically significant monument located in Ngerulmud.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "Melekeok Bai is a traditional attraction situated in Ngerulmud.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "capital",
     name: { de: "Ngerulmud", hu: "Ngerulmud", ro: "Ngerulmud", en: "Ngerulmud" },
@@ -93,7 +723,196 @@ export const palauCitiesV2: POI[] = [
     image: "/poi-images/palau-ngerulmud-cities-v2.webp",
   },
   {
-    id: "palau-airai-cities-v2",
+    id: "palau-airai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tibedul",
+                  "text": "Tibedul ist ein Berggipfel in der Stadt Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Mount Tsunsu",
+                  "text": "Der Mount Tsunsu ist ein Berggipfel in Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.518112,
+                        7.36972
+                  ]
+            },
+            {
+                  "name": "Tunt",
+                  "text": "Tunt ist ein markanter Gipfel in der Stadt Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.524975,
+                        7.380113
+                  ]
+            },
+            {
+                  "name": "Natinal",
+                  "text": "Natinal ist ein Aussichtspunkt in der Stadt Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.522953,
+                        7.365125
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "Der Mother and Child Stone ist eine lokale Attraktion in Airai.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tibedul",
+                  "text": "A Tibedul egy hegycsúcs Airai városában.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Mount Tsunsu",
+                  "text": "A Tsunsu-hegy egy hegycsúcs Airai területén.",
+                  "category": "natural",
+                  "coords": [
+                        134.518112,
+                        7.36972
+                  ]
+            },
+            {
+                  "name": "Tunt",
+                  "text": "A Tunt egy kiemelkedő hegycsúcs Airai városában.",
+                  "category": "natural",
+                  "coords": [
+                        134.524975,
+                        7.380113
+                  ]
+            },
+            {
+                  "name": "Natinal",
+                  "text": "A Natinal egy kilátó Airai városában.",
+                  "category": "natural",
+                  "coords": [
+                        134.522953,
+                        7.365125
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "A Mother and Child Stone egy helyi látványosság Airai-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tibedul",
+                  "text": "Tibedul este un vârf montan situat în orașul Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Mount Tsunsu",
+                  "text": "Muntele Tsunsu este un vârf montan situat în Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.518112,
+                        7.36972
+                  ]
+            },
+            {
+                  "name": "Tunt",
+                  "text": "Tunt este un vârf proeminent situat în orașul Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.524975,
+                        7.380113
+                  ]
+            },
+            {
+                  "name": "Natinal",
+                  "text": "Natinal este un punct de belvedere situat în orașul Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.522953,
+                        7.365125
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "Mother and Child Stone este o atracție locală din Airai.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tibedul",
+                  "text": "Tibedul is a mountain peak located in the city of Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Mount Tsunsu",
+                  "text": "Mount Tsunsu is a mountain peak located in Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.518112,
+                        7.36972
+                  ]
+            },
+            {
+                  "name": "Tunt",
+                  "text": "Tunt is a prominent peak situated in the city of Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.524975,
+                        7.380113
+                  ]
+            },
+            {
+                  "name": "Natinal",
+                  "text": "Natinal is a viewpoint located in the city of Airai.",
+                  "category": "natural",
+                  "coords": [
+                        134.522953,
+                        7.365125
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "Mother and Child Stone is a local attraction found in Airai.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "town",
     name: { de: "Airai", hu: "Airai", ro: "Airai", en: "Airai" },
@@ -138,7 +957,376 @@ export const palauCitiesV2: POI[] = [
     image: "/poi-images/palau-airai-cities-v2.webp",
   },
   {
-    id: "palau-meyuns-cities-v2",
+    id: "palau-meyuns-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Aquarium in Meyuns.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Rois Ketund",
+                  "text": "Berggipfel in Meyuns.",
+                  "category": "natural",
+                  "coords": [
+                        134.452889,
+                        7.35302
+                  ]
+            },
+            {
+                  "name": "Roisemelachel",
+                  "text": "Berggipfel in Meyuns.",
+                  "category": "natural",
+                  "coords": [
+                        134.451204,
+                        7.330917
+                  ]
+            },
+            {
+                  "name": "Roiskebesang",
+                  "text": "Berggipfel in Meyuns.",
+                  "category": "natural",
+                  "coords": [
+                        134.448842,
+                        7.348903
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Park in Meyuns.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Palau Mariculture Demonstration Center",
+                  "text": "Attraktion in Meyuns.",
+                  "category": "landmark",
+                  "coords": [
+                        134.450484,
+                        7.328475
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Galerie in Meyuns.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Ruinen in Meyuns.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "Ruinen in Meyuns.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "Kulturzentrum in Meyuns.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Akvárium Meyunsban.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Rois Ketund",
+                  "text": "Hegycsúcs Meyunsban.",
+                  "category": "natural",
+                  "coords": [
+                        134.452889,
+                        7.35302
+                  ]
+            },
+            {
+                  "name": "Roisemelachel",
+                  "text": "Hegycsúcs Meyunsban.",
+                  "category": "natural",
+                  "coords": [
+                        134.451204,
+                        7.330917
+                  ]
+            },
+            {
+                  "name": "Roiskebesang",
+                  "text": "Hegycsúcs Meyunsban.",
+                  "category": "natural",
+                  "coords": [
+                        134.448842,
+                        7.348903
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Park Meyunsban.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Palau Mariculture Demonstration Center",
+                  "text": "Látnivaló Meyunsban.",
+                  "category": "landmark",
+                  "coords": [
+                        134.450484,
+                        7.328475
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Galéria Meyunsban.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Romok Meyunsban.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "Romok Meyunsban.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "Kulturális központ Meyunsban.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Acvariu în Meyuns.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Rois Ketund",
+                  "text": "Vârf montan în Meyuns.",
+                  "category": "natural",
+                  "coords": [
+                        134.452889,
+                        7.35302
+                  ]
+            },
+            {
+                  "name": "Roisemelachel",
+                  "text": "Vârf montan în Meyuns.",
+                  "category": "natural",
+                  "coords": [
+                        134.451204,
+                        7.330917
+                  ]
+            },
+            {
+                  "name": "Roiskebesang",
+                  "text": "Vârf montan în Meyuns.",
+                  "category": "natural",
+                  "coords": [
+                        134.448842,
+                        7.348903
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Parc în Meyuns.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Palau Mariculture Demonstration Center",
+                  "text": "Atracție în Meyuns.",
+                  "category": "landmark",
+                  "coords": [
+                        134.450484,
+                        7.328475
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Galerie în Meyuns.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Ruine în Meyuns.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "Ruine în Meyuns.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "Centru cultural în Meyuns.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Aquarium in Meyuns.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Rois Ketund",
+                  "text": "Mountain peak in Meyuns.",
+                  "category": "natural",
+                  "coords": [
+                        134.452889,
+                        7.35302
+                  ]
+            },
+            {
+                  "name": "Roisemelachel",
+                  "text": "Mountain peak in Meyuns.",
+                  "category": "natural",
+                  "coords": [
+                        134.451204,
+                        7.330917
+                  ]
+            },
+            {
+                  "name": "Roiskebesang",
+                  "text": "Mountain peak in Meyuns.",
+                  "category": "natural",
+                  "coords": [
+                        134.448842,
+                        7.348903
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Park in Meyuns.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Palau Mariculture Demonstration Center",
+                  "text": "Attraction in Meyuns.",
+                  "category": "landmark",
+                  "coords": [
+                        134.450484,
+                        7.328475
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Gallery in Meyuns.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Ruins in Meyuns.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "Ruins in Meyuns.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "Cultural center in Meyuns.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "village",
     name: { de: "Meyuns", hu: "Meyuns", ro: "Meyuns", en: "Meyuns" },
@@ -183,7 +1371,124 @@ export const palauCitiesV2: POI[] = [
     image: "/poi-images/palau-meyuns-cities-v2.webp",
   },
   {
-    id: "palau-melekeok-cities-v2",
+    id: "palau-melekeok-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tochobei",
+                  "text": "Tochobei ist ein Berggipfel in Melekeok.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "Meteu 'L Klechem ist ein bekanntes Steindenkmal in Melekeok.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "Melekeok Bai ist eine Sehenswürdigkeit in Melekeok.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tochobei",
+                  "text": "A Tochobei egy hegycsúcs Melekeok területén.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "A Meteu 'L Klechem egy híres kőemlékmű Melekeok városában.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "A Melekeok Bai egy látványosság Melekeok városában.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tochobei",
+                  "text": "Tochobei este un vârf montan situat în Melekeok.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "Meteu 'L Klechem este un monument de piatră notabil situat în Melekeok.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "Melekeok Bai este o atracție situată în Melekeok.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tochobei",
+                  "text": "Tochobei is a peak located in Melekeok.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "Meteu 'L Klechem is a notable stone monument located in Melekeok.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "Melekeok Bai is an attraction located in Melekeok.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "village",
     name: { de: "Melekeok", hu: "Melekeok", ro: "Melekeok", en: "Melekeok" },
@@ -228,7 +1533,232 @@ export const palauCitiesV2: POI[] = [
     image: "/poi-images/palau-melekeok-cities-v2.webp",
   },
   {
-    id: "palau-kloulklubed-cities-v2",
+    id: "palau-kloulklubed-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elechol Ra Imelechol",
+                  "text": "Elechol Ra Imelechol ist ein Strand in der Stadt Kloulklubed.",
+                  "category": "recreational",
+                  "coords": [
+                        134.266147,
+                        7.038944
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Ngetechirur",
+                  "text": "Elechol Ra Ngetechirur ist ein Strand in Kloulklubed.",
+                  "category": "recreational",
+                  "coords": [
+                        134.255915,
+                        7.043674
+                  ]
+            },
+            {
+                  "name": "Visitor Center",
+                  "text": "Das Visitor Center ist ein Museum in Kloulklubed.",
+                  "category": "museum",
+                  "coords": [
+                        134.266605,
+                        7.048818
+                  ]
+            },
+            {
+                  "name": "Roischemiangel",
+                  "text": "Roischemiangel ist ein Berggipfel in der Stadt Kloulklubed.",
+                  "category": "natural",
+                  "coords": [
+                        134.261883,
+                        7.037525
+                  ]
+            },
+            {
+                  "name": "1000 Man Cave",
+                  "text": "Die 1000 Man Cave ist eine bemerkenswerte Attraktion in der Stadt Kloulklubed.",
+                  "category": "landmark",
+                  "coords": [
+                        134.264983,
+                        7.046986
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Ruin",
+                  "text": "Die Japanese WWII Ruin ist eine historische Attraktion in Kloulklubed.",
+                  "category": "landmark",
+                  "coords": [
+                        134.255557,
+                        7.041834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elechol Ra Imelechol",
+                  "text": "Az Elechol Ra Imelechol egy tengerpart Kloulklubed városában.",
+                  "category": "recreational",
+                  "coords": [
+                        134.266147,
+                        7.038944
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Ngetechirur",
+                  "text": "Az Elechol Ra Ngetechirur egy tengerpart Kloulklubed városában.",
+                  "category": "recreational",
+                  "coords": [
+                        134.255915,
+                        7.043674
+                  ]
+            },
+            {
+                  "name": "Visitor Center",
+                  "text": "A Visitor Center egy múzeum Kloulklubed városában.",
+                  "category": "museum",
+                  "coords": [
+                        134.266605,
+                        7.048818
+                  ]
+            },
+            {
+                  "name": "Roischemiangel",
+                  "text": "A Roischemiangel egy hegycsúcs Kloulklubed városában.",
+                  "category": "natural",
+                  "coords": [
+                        134.261883,
+                        7.037525
+                  ]
+            },
+            {
+                  "name": "1000 Man Cave",
+                  "text": "Az 1000 Man Cave egy nevezetes látványosság Kloulklubed városában.",
+                  "category": "landmark",
+                  "coords": [
+                        134.264983,
+                        7.046986
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Ruin",
+                  "text": "A Japanese WWII Ruin egy történelmi látványosság Kloulklubed városában.",
+                  "category": "landmark",
+                  "coords": [
+                        134.255557,
+                        7.041834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elechol Ra Imelechol",
+                  "text": "Elechol Ra Imelechol este o plajă situată în orașul Kloulklubed.",
+                  "category": "recreational",
+                  "coords": [
+                        134.266147,
+                        7.038944
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Ngetechirur",
+                  "text": "Elechol Ra Ngetechirur este o plajă situată în Kloulklubed.",
+                  "category": "recreational",
+                  "coords": [
+                        134.255915,
+                        7.043674
+                  ]
+            },
+            {
+                  "name": "Visitor Center",
+                  "text": "Visitor Center este un muzeu din orașul Kloulklubed.",
+                  "category": "museum",
+                  "coords": [
+                        134.266605,
+                        7.048818
+                  ]
+            },
+            {
+                  "name": "Roischemiangel",
+                  "text": "Roischemiangel este un vârf montan situat în orașul Kloulklubed.",
+                  "category": "natural",
+                  "coords": [
+                        134.261883,
+                        7.037525
+                  ]
+            },
+            {
+                  "name": "1000 Man Cave",
+                  "text": "1000 Man Cave este o atracție notabilă din orașul Kloulklubed.",
+                  "category": "landmark",
+                  "coords": [
+                        134.264983,
+                        7.046986
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Ruin",
+                  "text": "Japanese WWII Ruin este o atracție istorică situată în Kloulklubed.",
+                  "category": "landmark",
+                  "coords": [
+                        134.255557,
+                        7.041834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elechol Ra Imelechol",
+                  "text": "Elechol Ra Imelechol is a beach situated in the city of Kloulklubed.",
+                  "category": "recreational",
+                  "coords": [
+                        134.266147,
+                        7.038944
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Ngetechirur",
+                  "text": "Elechol Ra Ngetechirur is a beach located in Kloulklubed.",
+                  "category": "recreational",
+                  "coords": [
+                        134.255915,
+                        7.043674
+                  ]
+            },
+            {
+                  "name": "Visitor Center",
+                  "text": "The Visitor Center is a museum located in Kloulklubed.",
+                  "category": "museum",
+                  "coords": [
+                        134.266605,
+                        7.048818
+                  ]
+            },
+            {
+                  "name": "Roischemiangel",
+                  "text": "Roischemiangel is a mountain peak located in the city of Kloulklubed.",
+                  "category": "natural",
+                  "coords": [
+                        134.261883,
+                        7.037525
+                  ]
+            },
+            {
+                  "name": "1000 Man Cave",
+                  "text": "1000 Man Cave is a notable attraction found in the city of Kloulklubed.",
+                  "category": "landmark",
+                  "coords": [
+                        134.264983,
+                        7.046986
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Ruin",
+                  "text": "The Japanese WWII Ruin is a historical attraction located in Kloulklubed.",
+                  "category": "landmark",
+                  "coords": [
+                        134.255557,
+                        7.041834
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "village",
     name: { de: "Kloulklubed", hu: "Kloulklubed", ro: "Kloulklubed", en: "Kloulklubed" },
@@ -273,7 +1803,160 @@ export const palauCitiesV2: POI[] = [
     image: "/poi-images/palau-kloulklubed-cities-v2.webp",
   },
   {
-    id: "palau-angaur-cities-v2",
+    id: "palau-angaur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elechol Ra Ngmersau",
+                  "text": "Strand in Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.136588,
+                        6.922006
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Uchul A Kerekar",
+                  "text": "Strand in Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.145232,
+                        6.919203
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Nguruhei",
+                  "text": "Strand in Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.127315,
+                        6.915175
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Ngeriois",
+                  "text": "Strand in Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.150033,
+                        6.905005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elechol Ra Ngmersau",
+                  "text": "Strand Angaurban.",
+                  "category": "recreational",
+                  "coords": [
+                        134.136588,
+                        6.922006
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Uchul A Kerekar",
+                  "text": "Strand Angaurban.",
+                  "category": "recreational",
+                  "coords": [
+                        134.145232,
+                        6.919203
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Nguruhei",
+                  "text": "Strand Angaurban.",
+                  "category": "recreational",
+                  "coords": [
+                        134.127315,
+                        6.915175
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Ngeriois",
+                  "text": "Strand Angaurban.",
+                  "category": "recreational",
+                  "coords": [
+                        134.150033,
+                        6.905005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elechol Ra Ngmersau",
+                  "text": "Plajă în Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.136588,
+                        6.922006
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Uchul A Kerekar",
+                  "text": "Plajă în Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.145232,
+                        6.919203
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Nguruhei",
+                  "text": "Plajă în Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.127315,
+                        6.915175
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Ngeriois",
+                  "text": "Plajă în Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.150033,
+                        6.905005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elechol Ra Ngmersau",
+                  "text": "Beach in Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.136588,
+                        6.922006
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Uchul A Kerekar",
+                  "text": "Beach in Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.145232,
+                        6.919203
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Nguruhei",
+                  "text": "Beach in Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.127315,
+                        6.915175
+                  ]
+            },
+            {
+                  "name": "Elechol Ra Ngeriois",
+                  "text": "Beach in Angaur.",
+                  "category": "recreational",
+                  "coords": [
+                        134.150033,
+                        6.905005
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "village",
     name: { de: "Angaur", hu: "Angaur", ro: "Angaur", en: "Angaur" },
@@ -363,7 +2046,160 @@ export const palauCitiesV2: POI[] = [
     image: "/poi-images/palau-kayangel-cities-v2.webp",
   },
   {
-    id: "palau-ngardmau-cities-v2",
+    id: "palau-ngardmau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Telong",
+                  "text": "Telong ist ein Berggipfel in der Stadt Ngardmau.",
+                  "category": "natural",
+                  "coords": [
+                        134.568634,
+                        7.608867
+                  ]
+            },
+            {
+                  "name": "Stone Platform",
+                  "text": "Die Stone Platform ist eine Stätte mit alten Ruinen in Ngardmau.",
+                  "category": "historical",
+                  "coords": [
+                        134.575399,
+                        7.61033
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Building",
+                  "text": "Das Japanese WWII Building ist eine historische Ruine in der Stadt Ngardmau.",
+                  "category": "historical",
+                  "coords": [
+                        134.561431,
+                        7.609311
+                  ]
+            },
+            {
+                  "name": "Bauxite Mining Cable Winch",
+                  "text": "Die Bauxite Mining Cable Winch ist eine Attraktion in Ngardmau.",
+                  "category": "landmark",
+                  "coords": [
+                        134.580724,
+                        7.601666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Telong",
+                  "text": "A Telong egy hegycsúcs Ngardmau városában.",
+                  "category": "natural",
+                  "coords": [
+                        134.568634,
+                        7.608867
+                  ]
+            },
+            {
+                  "name": "Stone Platform",
+                  "text": "A Stone Platform egy romterület Ngardmau városában.",
+                  "category": "historical",
+                  "coords": [
+                        134.575399,
+                        7.61033
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Building",
+                  "text": "A Japanese WWII Building egy történelmi rom Ngardmau városában.",
+                  "category": "historical",
+                  "coords": [
+                        134.561431,
+                        7.609311
+                  ]
+            },
+            {
+                  "name": "Bauxite Mining Cable Winch",
+                  "text": "A Bauxite Mining Cable Winch egy látványosság Ngardmau városában.",
+                  "category": "landmark",
+                  "coords": [
+                        134.580724,
+                        7.601666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Telong",
+                  "text": "Telong este un vârf montan situat în orașul Ngardmau.",
+                  "category": "natural",
+                  "coords": [
+                        134.568634,
+                        7.608867
+                  ]
+            },
+            {
+                  "name": "Stone Platform",
+                  "text": "Stone Platform este un sit cu ruine situat în Ngardmau.",
+                  "category": "historical",
+                  "coords": [
+                        134.575399,
+                        7.61033
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Building",
+                  "text": "Japanese WWII Building este o ruină istorică aflată în orașul Ngardmau.",
+                  "category": "historical",
+                  "coords": [
+                        134.561431,
+                        7.609311
+                  ]
+            },
+            {
+                  "name": "Bauxite Mining Cable Winch",
+                  "text": "Bauxite Mining Cable Winch este o atracție din Ngardmau.",
+                  "category": "landmark",
+                  "coords": [
+                        134.580724,
+                        7.601666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Telong",
+                  "text": "Telong is a mountain peak situated in the city of Ngardmau.",
+                  "category": "natural",
+                  "coords": [
+                        134.568634,
+                        7.608867
+                  ]
+            },
+            {
+                  "name": "Stone Platform",
+                  "text": "The Stone Platform is a site of ancient ruins located in Ngardmau.",
+                  "category": "historical",
+                  "coords": [
+                        134.575399,
+                        7.61033
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Building",
+                  "text": "The Japanese WWII Building is a historical ruin found in the city of Ngardmau.",
+                  "category": "historical",
+                  "coords": [
+                        134.561431,
+                        7.609311
+                  ]
+            },
+            {
+                  "name": "Bauxite Mining Cable Winch",
+                  "text": "The Bauxite Mining Cable Winch is an attraction in Ngardmau.",
+                  "category": "landmark",
+                  "coords": [
+                        134.580724,
+                        7.601666
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "village",
     name: { de: "Ngardmau", hu: "Ngardmau", ro: "Ngardmau", en: "Ngardmau" },
@@ -498,7 +2334,88 @@ export const palauCitiesV2: POI[] = [
     image: "/poi-images/palau-mengellang-cities-v2.webp",
   },
   {
-    id: "palau-ngchesar-cities-v2",
+    id: "palau-ngchesar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bisbusech war canoe",
+                  "text": "Das Bisbusech war canoe ist eine kulturelle Attraktion in der Stadt Ngchesar.",
+                  "category": "landmark",
+                  "coords": [
+                        134.611119,
+                        7.470682
+                  ]
+            },
+            {
+                  "name": "Shimizu River",
+                  "text": "Der Shimizu River ist eine Naturattraktion in der Stadt Ngchesar.",
+                  "category": "landmark",
+                  "coords": [
+                        134.591528,
+                        7.439925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bisbusech war canoe",
+                  "text": "A Bisbusech war canoe egy kulturális látványosság Ngchesar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        134.611119,
+                        7.470682
+                  ]
+            },
+            {
+                  "name": "Shimizu River",
+                  "text": "A Shimizu River egy természeti látványosság Ngchesar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        134.591528,
+                        7.439925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bisbusech war canoe",
+                  "text": "Bisbusech war canoe este o atracție culturală situată în orașul Ngchesar.",
+                  "category": "landmark",
+                  "coords": [
+                        134.611119,
+                        7.470682
+                  ]
+            },
+            {
+                  "name": "Shimizu River",
+                  "text": "Shimizu River este o atracție naturală situată în orașul Ngchesar.",
+                  "category": "landmark",
+                  "coords": [
+                        134.591528,
+                        7.439925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bisbusech war canoe",
+                  "text": "Bisbusech war canoe is a cultural attraction located in the city of Ngchesar.",
+                  "category": "landmark",
+                  "coords": [
+                        134.611119,
+                        7.470682
+                  ]
+            },
+            {
+                  "name": "Shimizu River",
+                  "text": "Shimizu River is a natural attraction located in the city of Ngchesar.",
+                  "category": "landmark",
+                  "coords": [
+                        134.591528,
+                        7.439925
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "village",
     name: { de: "Ngchesar", hu: "Ngchesar", ro: "Ngchesar", en: "Ngchesar" },

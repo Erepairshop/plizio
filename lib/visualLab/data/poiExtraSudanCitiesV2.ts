@@ -119,7 +119,664 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "khartoum-bahri-cities-v2",
+    id: "khartoum-bahri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Military Museum",
+                  "text": "Das Military Museum ist ein Museum mit militärischen Ausstellungen in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.542868,
+                        15.619707
+                  ]
+            },
+            {
+                  "name": "حديقة اركويت - بحري",
+                  "text": "حديقة اركويت - بحري ist ein lokaler Wasserpark in Khartum Bahri.",
+                  "category": "recreational",
+                  "coords": [
+                        32.542061,
+                        15.621688
+                  ]
+            },
+            {
+                  "name": "Palace Museum",
+                  "text": "Das Palace Museum ist ein Ausstellungszentrum in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.528694,
+                        15.607966
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "Das Ethnological Museum ist ein Museum in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.534253,
+                        15.607988
+                  ]
+            },
+            {
+                  "name": "حديقة عبود",
+                  "text": "Der Aboud Theme Park bietet Vergnügungsattraktionen in Khartum Bahri.",
+                  "category": "recreational",
+                  "coords": [
+                        32.540607,
+                        15.626326
+                  ]
+            },
+            {
+                  "name": "متحف التاريخ الطبيعي",
+                  "text": "Das Natural History Museum ist eine naturkundliche Einrichtung in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.539803,
+                        15.608855
+                  ]
+            },
+            {
+                  "name": "مسجد النيه",
+                  "text": "مسجد النيه dient als malerischer Aussichtspunkt in Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.538463,
+                        15.651593
+                  ]
+            },
+            {
+                  "name": "كلية اللاهوت الإنجيلية",
+                  "text": "كلية اللاهوت الإنجيلية ist ein lokaler Aussichtspunkt in Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.531028,
+                        15.621899
+                  ]
+            },
+            {
+                  "name": "كبري المك نمر",
+                  "text": "كبري المك نمر ist eine bekannte Touristenattraktion in Khartum Bahri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.532999,
+                        15.612326
+                  ]
+            },
+            {
+                  "name": "كبري النيل الأزرق",
+                  "text": "كبري النيل الأزرق ist eine markante lokale Attraktion in Khartum Bahri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.543775,
+                        15.616787
+                  ]
+            },
+            {
+                  "name": "مبنى الأمم المتحدة الانمائي",
+                  "text": "Das Gelände des United Nations Development Programme (UNDP) fungiert als Denkmal in Khartum Bahri.",
+                  "category": "historical",
+                  "coords": [
+                        32.536439,
+                        15.60902
+                  ]
+            },
+            {
+                  "name": "home",
+                  "text": "Home ist als lokaler Aussichtspunkt in Khartum Bahri ausgewiesen.",
+                  "category": "natural",
+                  "coords": [
+                        32.556762,
+                        15.621035
+                  ]
+            },
+            {
+                  "name": "رمال الأسد",
+                  "text": "رمال الأسد ist ein Beobachtungspunkt in Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.510264,
+                        15.621254
+                  ]
+            },
+            {
+                  "name": "معرض ارت طتش",
+                  "text": "معرض ارت طتش ist eine Kunstgalerie in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.535938,
+                        15.632812
+                  ]
+            },
+            {
+                  "name": "بلاك كرافتر",
+                  "text": "Blackcraft ist eine unabhängige Galerie in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.530064,
+                        15.64084
+                  ]
+            },
+            {
+                  "name": "أتنيه",
+                  "text": "Atanye ist eine Galerie für bildende Kunst in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.528784,
+                        15.605977
+                  ]
+            },
+            {
+                  "name": "Khaish Art Studio",
+                  "text": "Khaish Art Studio ist eine kreative Galerie in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.534573,
+                        15.610632
+                  ]
+            },
+            {
+                  "name": "كبري شمبات",
+                  "text": "كبري شمبات ist eine Brücke in Khartum Bahri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.507085,
+                        15.64396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Military Museum",
+                  "text": "A Military Museum egy katonai kiállításokat bemutató múzeum Khartum Bahriban.",
+                  "category": "museum",
+                  "coords": [
+                        32.542868,
+                        15.619707
+                  ]
+            },
+            {
+                  "name": "حديقة اركويت - بحري",
+                  "text": "A حديقة اركويت - بحري egy helyi aquapark Khartum Bahriban.",
+                  "category": "recreational",
+                  "coords": [
+                        32.542061,
+                        15.621688
+                  ]
+            },
+            {
+                  "name": "Palace Museum",
+                  "text": "A Palace Museum egy kiállítóhely Khartum Bahriban.",
+                  "category": "museum",
+                  "coords": [
+                        32.528694,
+                        15.607966
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "Az Ethnological Museum egy múzeum Khartum Bahriban.",
+                  "category": "museum",
+                  "coords": [
+                        32.534253,
+                        15.607988
+                  ]
+            },
+            {
+                  "name": "حديقة عبود",
+                  "text": "Az Aboud Theme Park különféle szórakoztató attrakciókat kínál Khartum Bahriban.",
+                  "category": "recreational",
+                  "coords": [
+                        32.540607,
+                        15.626326
+                  ]
+            },
+            {
+                  "name": "متحف التاريخ الطبيعي",
+                  "text": "A Natural History Museum egy természettudományi intézmény Khartum Bahriban.",
+                  "category": "museum",
+                  "coords": [
+                        32.539803,
+                        15.608855
+                  ]
+            },
+            {
+                  "name": "مسجد النيه",
+                  "text": "A مسجد النيه egy festői kilátópont Khartum Bahriban.",
+                  "category": "natural",
+                  "coords": [
+                        32.538463,
+                        15.651593
+                  ]
+            },
+            {
+                  "name": "كلية اللاهوت الإنجيلية",
+                  "text": "A كلية اللاهوت الإنجيلية egy helyi kilátó Khartum Bahriban.",
+                  "category": "natural",
+                  "coords": [
+                        32.531028,
+                        15.621899
+                  ]
+            },
+            {
+                  "name": "كبري المك نمر",
+                  "text": "A كبري المك نمر egy ismert turisztikai látványosság Khartum Bahriban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.532999,
+                        15.612326
+                  ]
+            },
+            {
+                  "name": "كبري النيل الأزرق",
+                  "text": "A كبري النيل الأزرق egy kiemelkedő helyi látványosság Khartum Bahriban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.543775,
+                        15.616787
+                  ]
+            },
+            {
+                  "name": "مبنى الأمم المتحدة الانمائي",
+                  "text": "Az United Nations Development Programme (UNDP) területe emlékműként szolgál Khartum Bahriban.",
+                  "category": "historical",
+                  "coords": [
+                        32.536439,
+                        15.60902
+                  ]
+            },
+            {
+                  "name": "home",
+                  "text": "A Home egy helyi kilátópontként van megjelölve Khartum Bahriban.",
+                  "category": "natural",
+                  "coords": [
+                        32.556762,
+                        15.621035
+                  ]
+            },
+            {
+                  "name": "رمال الأسد",
+                  "text": "A رمال الأسد egy megfigyelőpont Khartum Bahriban.",
+                  "category": "natural",
+                  "coords": [
+                        32.510264,
+                        15.621254
+                  ]
+            },
+            {
+                  "name": "معرض ارت طتش",
+                  "text": "A معرض ارت طتش egy művészeti galéria Khartum Bahriban.",
+                  "category": "museum",
+                  "coords": [
+                        32.535938,
+                        15.632812
+                  ]
+            },
+            {
+                  "name": "بلاك كرافتر",
+                  "text": "A Blackcraft egy független galéria Khartum Bahriban.",
+                  "category": "museum",
+                  "coords": [
+                        32.530064,
+                        15.64084
+                  ]
+            },
+            {
+                  "name": "أتنيه",
+                  "text": "Az Atanye egy vizuális művészeti galéria Khartum Bahriban.",
+                  "category": "museum",
+                  "coords": [
+                        32.528784,
+                        15.605977
+                  ]
+            },
+            {
+                  "name": "Khaish Art Studio",
+                  "text": "A Khaish Art Studio egy kreatív galéria Khartum Bahriban.",
+                  "category": "museum",
+                  "coords": [
+                        32.534573,
+                        15.610632
+                  ]
+            },
+            {
+                  "name": "كبري شمبات",
+                  "text": "A كبري شمبات egy híd Khartum Bahriban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.507085,
+                        15.64396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Military Museum",
+                  "text": "Military Museum este un muzeu cu expoziții militare în Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.542868,
+                        15.619707
+                  ]
+            },
+            {
+                  "name": "حديقة اركويت - بحري",
+                  "text": "حديقة اركويت - بحري este un parc acvatic local în Khartum Bahri.",
+                  "category": "recreational",
+                  "coords": [
+                        32.542061,
+                        15.621688
+                  ]
+            },
+            {
+                  "name": "Palace Museum",
+                  "text": "Palace Museum este un centru expozițional situat în Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.528694,
+                        15.607966
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "Ethnological Museum este un muzeu din Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.534253,
+                        15.607988
+                  ]
+            },
+            {
+                  "name": "حديقة عبود",
+                  "text": "Aboud Theme Park oferă atracții de agrement în Khartum Bahri.",
+                  "category": "recreational",
+                  "coords": [
+                        32.540607,
+                        15.626326
+                  ]
+            },
+            {
+                  "name": "متحف التاريخ الطبيعي",
+                  "text": "Natural History Museum este o instituție de științe naturale în Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.539803,
+                        15.608855
+                  ]
+            },
+            {
+                  "name": "مسجد النيه",
+                  "text": "مسجد النيه servește ca un punct de belvedere pitoresc în Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.538463,
+                        15.651593
+                  ]
+            },
+            {
+                  "name": "كلية اللاهوت الإنجيلية",
+                  "text": "كلية اللاهوت الإنجيلية este un punct de belvedere local în Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.531028,
+                        15.621899
+                  ]
+            },
+            {
+                  "name": "كبري المك نمر",
+                  "text": "كبري المك نمر este o atracție turistică cunoscută în Khartum Bahri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.532999,
+                        15.612326
+                  ]
+            },
+            {
+                  "name": "كبري النيل الأزرق",
+                  "text": "كبري النيل الأزرق este o atracție locală proeminentă în Khartum Bahri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.543775,
+                        15.616787
+                  ]
+            },
+            {
+                  "name": "مبنى الأمم المتحدة الانمائي",
+                  "text": "Locația United Nations Development Programme (UNDP) funcționează ca un monument în Khartum Bahri.",
+                  "category": "historical",
+                  "coords": [
+                        32.536439,
+                        15.60902
+                  ]
+            },
+            {
+                  "name": "home",
+                  "text": "Home este desemnat ca un punct de belvedere local în Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.556762,
+                        15.621035
+                  ]
+            },
+            {
+                  "name": "رمال الأسد",
+                  "text": "رمال الأسد este un punct de observare în Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.510264,
+                        15.621254
+                  ]
+            },
+            {
+                  "name": "معرض ارت طتش",
+                  "text": "معرض ارت طتش este o galerie de artă în Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.535938,
+                        15.632812
+                  ]
+            },
+            {
+                  "name": "بلاك كرافتر",
+                  "text": "Blackcraft este o galerie independentă situată în Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.530064,
+                        15.64084
+                  ]
+            },
+            {
+                  "name": "أتنيه",
+                  "text": "Atanye este o galerie de arte vizuale în Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.528784,
+                        15.605977
+                  ]
+            },
+            {
+                  "name": "Khaish Art Studio",
+                  "text": "Khaish Art Studio este o galerie creativă în Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.534573,
+                        15.610632
+                  ]
+            },
+            {
+                  "name": "كبري شمبات",
+                  "text": "كبري شمبات este un pod situat în Khartum Bahri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.507085,
+                        15.64396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Military Museum",
+                  "text": "The Military Museum is an institution exhibiting military artifacts in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.542868,
+                        15.619707
+                  ]
+            },
+            {
+                  "name": "حديقة اركويت - بحري",
+                  "text": "حديقة اركويت - بحري is a local water park in Khartum Bahri.",
+                  "category": "recreational",
+                  "coords": [
+                        32.542061,
+                        15.621688
+                  ]
+            },
+            {
+                  "name": "Palace Museum",
+                  "text": "The Palace Museum is an exhibition center situated in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.528694,
+                        15.607966
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum",
+                  "text": "The Ethnological Museum is a dedicated museum facility in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.534253,
+                        15.607988
+                  ]
+            },
+            {
+                  "name": "Aboud Theme Park",
+                  "text": "Aboud Theme Park provides amusement and recreational activities in Khartum Bahri.",
+                  "category": "recreational",
+                  "coords": [
+                        32.540607,
+                        15.626326
+                  ]
+            },
+            {
+                  "name": "Natural History Museum",
+                  "text": "The Natural History Museum is an educational institution located in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.539803,
+                        15.608855
+                  ]
+            },
+            {
+                  "name": "مسجد النيه",
+                  "text": "مسجد النيه serves as a scenic viewpoint in Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.538463,
+                        15.651593
+                  ]
+            },
+            {
+                  "name": "كلية اللاهوت الإنجيلية",
+                  "text": "كلية اللاهوت الإنجيلية is a localized observation viewpoint in Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.531028,
+                        15.621899
+                  ]
+            },
+            {
+                  "name": "كبري المك نمر",
+                  "text": "كبري المك نمر is a notable tourist attraction in Khartum Bahri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.532999,
+                        15.612326
+                  ]
+            },
+            {
+                  "name": "كبري النيل الأزرق",
+                  "text": "كبري النيل الأزرق is a prominent local attraction in Khartum Bahri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.543775,
+                        15.616787
+                  ]
+            },
+            {
+                  "name": "United Nations Development Programme (UNDP)",
+                  "text": "The United Nations Development Programme (UNDP) site acts as a monumental landmark in Khartum Bahri.",
+                  "category": "historical",
+                  "coords": [
+                        32.536439,
+                        15.60902
+                  ]
+            },
+            {
+                  "name": "home",
+                  "text": "Home is designated as a local viewpoint in Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.556762,
+                        15.621035
+                  ]
+            },
+            {
+                  "name": "رمال الأسد",
+                  "text": "رمال الأسد is an observational viewpoint situated in Khartum Bahri.",
+                  "category": "natural",
+                  "coords": [
+                        32.510264,
+                        15.621254
+                  ]
+            },
+            {
+                  "name": "معرض ارت طتش",
+                  "text": "معرض ارت طتش is an art gallery space in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.535938,
+                        15.632812
+                  ]
+            },
+            {
+                  "name": "Blackcraft",
+                  "text": "Blackcraft is an independent gallery located in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.530064,
+                        15.64084
+                  ]
+            },
+            {
+                  "name": "Atanye",
+                  "text": "Atanye is a visual arts gallery in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.528784,
+                        15.605977
+                  ]
+            },
+            {
+                  "name": "Khaish Art Studio",
+                  "text": "Khaish Art Studio is a creative gallery in Khartum Bahri.",
+                  "category": "museum",
+                  "coords": [
+                        32.534573,
+                        15.610632
+                  ]
+            },
+            {
+                  "name": "كبري شمبات",
+                  "text": "كبري شمبات is a structural bridge located in Khartum Bahri.",
+                  "category": "landmark",
+                  "coords": [
+                        32.507085,
+                        15.64396
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SD-KH",
     coords: [32.5342, 15.6322],
@@ -1157,7 +1814,52 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "kosti-cities-v2",
+    id: "kosti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "الراوات",
+                  "text": "Ein Aussichtspunkt in Kosti mit Blick auf die Stadt oder den Nil.",
+                  "category": "natural",
+                  "coords": [
+                        32.657565,
+                        13.143726
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الراوات",
+                  "text": "Kilátóhely Kostiban, ahonnan kilátás nyílik a városra vagy a Nílusra.",
+                  "category": "natural",
+                  "coords": [
+                        32.657565,
+                        13.143726
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الراوات",
+                  "text": "Un punct de belvedere în Kosti cu vederi asupra orașului sau a Nilului.",
+                  "category": "natural",
+                  "coords": [
+                        32.657565,
+                        13.143726
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "الراوات",
+                  "text": "A viewpoint in Kosti offering views over the city or the Nile.",
+                  "category": "natural",
+                  "coords": [
+                        32.657565,
+                        13.143726
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SD-WN",
     coords: [32.6636, 13.1629],
@@ -1757,7 +2459,88 @@ export const poiExtraSudanCitiesV2: POI[] = [
     },
   },
   {
-    id: "al-hasaheisa-cities-v2",
+    id: "al-hasaheisa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "الحصاحيصا",
+                  "text": "الحصاحيصا ist eine bemerkenswerte Attraktion in der Stadt Al-Hasaheisa.",
+                  "category": "landmark",
+                  "coords": [
+                        33.302222,
+                        14.737965
+                  ]
+            },
+            {
+                  "name": "Roufa'a Bridge",
+                  "text": "Die Roufa'a Bridge dient als architektonische Attraktion in Al-Hasaheisa.",
+                  "category": "landmark",
+                  "coords": [
+                        33.308616,
+                        14.746757
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الحصاحيصا",
+                  "text": "A الحصاحيصا egy figyelemre méltó látványosság Al-Hasaheisa városában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.302222,
+                        14.737965
+                  ]
+            },
+            {
+                  "name": "Roufa'a Bridge",
+                  "text": "A Roufa'a Bridge egy építészeti látványosság Al-Hasaheisa városában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.308616,
+                        14.746757
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الحصاحيصا",
+                  "text": "الحصاحيصا este o atracție demnă de remarcat în orașul Al-Hasaheisa.",
+                  "category": "landmark",
+                  "coords": [
+                        33.302222,
+                        14.737965
+                  ]
+            },
+            {
+                  "name": "Roufa'a Bridge",
+                  "text": "Roufa'a Bridge servește ca atracție arhitecturală în Al-Hasaheisa.",
+                  "category": "landmark",
+                  "coords": [
+                        33.308616,
+                        14.746757
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "الحصاحيصا",
+                  "text": "الحصاحيصا is a noteworthy attraction in the city of Al-Hasaheisa.",
+                  "category": "landmark",
+                  "coords": [
+                        33.302222,
+                        14.737965
+                  ]
+            },
+            {
+                  "name": "Roufa'a Bridge",
+                  "text": "Roufa'a Bridge serves as an architectural attraction in Al-Hasaheisa.",
+                  "category": "landmark",
+                  "coords": [
+                        33.308616,
+                        14.746757
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SD-GZ",
     coords: [33.2981, 14.7336],

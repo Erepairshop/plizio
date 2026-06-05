@@ -45,7 +45,916 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       en: ["Puebla was founded in 1531 as a strategic town between Mexico City and Veracruz.", "The city's historic center was designated a UNESCO World Heritage site in 1987.", "The Estrella de Puebla is one of the largest portable observation wheels in the world.", "General Ignacio Zaragoza led the Mexican army to victory here in 1862.", "Puebla's Talavera pottery received a protected status of origin in 1995.", "The city is famous for its culinary invention, the chocolate-based Mole Poblano.", "Puebla Cathedral features some of the tallest bell towers in Latin America.", "The International Museum of the Baroque was designed by architect Toyo Ito."],
     }, image: "/poi-images/puebla-cities-v2.webp"},
   {
-    id: "tijuana-cities-v2",
+    id: "tijuana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Cubo",
+                  "text": "Das El Cubo in Tijuana ist ein bekanntes und architektonisch interessantes Kunstmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.023286,
+                        32.529471
+                  ]
+            },
+            {
+                  "name": "Audiorama",
+                  "text": "Das Audiorama in Tijuana ist ein Veranstaltungsort für Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.02229,
+                        32.530541
+                  ]
+            },
+            {
+                  "name": "Teatro de Las Californias",
+                  "text": "Das Teatro de Las Californias in Tijuana ist ein bekanntes Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.02359,
+                        32.530605
+                  ]
+            },
+            {
+                  "name": "MULLME Museo de La Lucha Libre Mexicana",
+                  "text": "Das MULLME Museum in Tijuana ist dem mexikanischen Lucha Libre gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -117.036781,
+                        32.52966
+                  ]
+            },
+            {
+                  "name": "Teatro Libre",
+                  "text": "Das Teatro Libre in Tijuana ist ein Theater für verschiedene Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.037036,
+                        32.527394
+                  ]
+            },
+            {
+                  "name": "Museo 1889",
+                  "text": "Das Museo 1889 in Tijuana ist ein sehenswertes Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.036705,
+                        32.535056
+                  ]
+            },
+            {
+                  "name": "BlackBox",
+                  "text": "Das BlackBox in Tijuana ist ein bekannter Veranstaltungsort für Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.036743,
+                        32.530735
+                  ]
+            },
+            {
+                  "name": "El Foro - Antiguo Palacio jai-Alai",
+                  "text": "El Foro - Antiguo Palacio jai-Alai in Tijuana ist ein historisches Theatergebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.035642,
+                        32.528717
+                  ]
+            },
+            {
+                  "name": "Teatro IMSS Tijuana",
+                  "text": "Das Teatro IMSS in Tijuana ist ein bekanntes Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.009491,
+                        32.51478
+                  ]
+            },
+            {
+                  "name": "Museo de Cera",
+                  "text": "Das Museo de Cera in Tijuana ist ein beliebtes Wachsfigurenkabinett.",
+                  "category": "museum",
+                  "coords": [
+                        -117.03577,
+                        32.53661
+                  ]
+            },
+            {
+                  "name": "Museo de Tijuana",
+                  "text": "Das Museo de Tijuana ist ein Museum in Tijuana.",
+                  "category": "museum",
+                  "coords": [
+                        -117.038886,
+                        32.534964
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Tijuana",
+                  "text": "Die Casa de la Cultura de Tijuana ist ein wichtiges Kulturzentrum und Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.052108,
+                        32.531844
+                  ]
+            },
+            {
+                  "name": "Teatro de la ciudad",
+                  "text": "Das Teatro de la ciudad in Tijuana ist ein bekanntes Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.037755,
+                        32.531024
+                  ]
+            },
+            {
+                  "name": "Torre Agua Caliente",
+                  "text": "Die Torre Agua Caliente in Tijuana ist ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.032971,
+                        32.522508
+                  ]
+            },
+            {
+                  "name": "Cine Bujazan",
+                  "text": "Das Cine Bujazan in Tijuana ist ein ehemaliges Theatergebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.038413,
+                        32.529882
+                  ]
+            },
+            {
+                  "name": "Monumento Cuauhtemoc",
+                  "text": "Das Monumento Cuauhtemoc in Tijuana ist ein historisches Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        -117.017667,
+                        32.52471
+                  ]
+            },
+            {
+                  "name": "Abraham Lincoln Monument",
+                  "text": "Das Abraham Lincoln Monument in Tijuana ist ein bekanntes Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        -117.013914,
+                        32.522601
+                  ]
+            },
+            {
+                  "name": "General Ignacio Zaragoza",
+                  "text": "Das Monument für General Ignacio Zaragoza in Tijuana ist ein historisches Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        -117.010327,
+                        32.520494
+                  ]
+            },
+            {
+                  "name": "Tijuana Arch",
+                  "text": "Der Tijuana Arch ist ein bekanntes Wahrzeichen und Denkmal in Tijuana.",
+                  "category": "historical",
+                  "coords": [
+                        -117.037119,
+                        32.536451
+                  ]
+            },
+            {
+                  "name": "Monumento Club Rotario",
+                  "text": "Das Monumento Club Rotario in Tijuana ist ein Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        -117.022648,
+                        32.521279
+                  ]
+            },
+            {
+                  "name": "Dr. Gustavo Aubanel Vallejo",
+                  "text": "Das Monument für Dr. Gustavo Aubanel Vallejo in Tijuana ist ein Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        -117.032709,
+                        32.521459
+                  ]
+            },
+            {
+                  "name": "Mirador Rampa Batiz",
+                  "text": "Der Mirador Rampa Batiz in Tijuana bietet einen Ausblick über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -117.050563,
+                        32.531596
+                  ]
+            },
+            {
+                  "name": "Mirador Altamira",
+                  "text": "Der Mirador Altamira in Tijuana ist ein beliebter Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        -117.051763,
+                        32.532811
+                  ]
+            },
+            {
+                  "name": "Mirador a La Cacho",
+                  "text": "Der Mirador a La Cacho in Tijuana bietet einen schönen Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        -117.029949,
+                        32.518464
+                  ]
+            },
+            {
+                  "name": "Derrumbe Lomas de Monterrey",
+                  "text": "Derrumbe Lomas de Monterrey in Tijuana ist eine historische Ruinenstätte.",
+                  "category": "historical",
+                  "coords": [
+                        -117.024399,
+                        32.506969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Cubo",
+                  "text": "A tijuana-i El Cubo egy ismert és építészetileg érdekes művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.023286,
+                        32.529471
+                  ]
+            },
+            {
+                  "name": "Audiorama",
+                  "text": "A tijuana-i Audiorama előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.02229,
+                        32.530541
+                  ]
+            },
+            {
+                  "name": "Teatro de Las Californias",
+                  "text": "A tijuana-i Teatro de Las Californias egy ismert színház.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.02359,
+                        32.530605
+                  ]
+            },
+            {
+                  "name": "MULLME Museo de La Lucha Libre Mexicana",
+                  "text": "A tijuana-i MULLME Múzeum a mexikói Lucha Libre-nek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -117.036781,
+                        32.52966
+                  ]
+            },
+            {
+                  "name": "Teatro Libre",
+                  "text": "A tijuana-i Teatro Libre egy színház különféle előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.037036,
+                        32.527394
+                  ]
+            },
+            {
+                  "name": "Museo 1889",
+                  "text": "A tijuana-i Museo 1889 egy megtekintésre érdemes múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.036705,
+                        32.535056
+                  ]
+            },
+            {
+                  "name": "BlackBox",
+                  "text": "A tijuana-i BlackBox egy ismert előadóhely.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.036743,
+                        32.530735
+                  ]
+            },
+            {
+                  "name": "El Foro - Antiguo Palacio jai-Alai",
+                  "text": "A tijuana-i El Foro - Antiguo Palacio jai-Alai egy történelmi színházépület.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.035642,
+                        32.528717
+                  ]
+            },
+            {
+                  "name": "Teatro IMSS Tijuana",
+                  "text": "A tijuana-i Teatro IMSS egy ismert színház.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.009491,
+                        32.51478
+                  ]
+            },
+            {
+                  "name": "Museo de Cera",
+                  "text": "A tijuana-i Museo de Cera egy népszerű viaszmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.03577,
+                        32.53661
+                  ]
+            },
+            {
+                  "name": "Museo de Tijuana",
+                  "text": "A Museo de Tijuana egy múzeum Tijuana városában.",
+                  "category": "museum",
+                  "coords": [
+                        -117.038886,
+                        32.534964
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Tijuana",
+                  "text": "A Casa de la Cultura de Tijuana egy fontos kulturális központ és múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.052108,
+                        32.531844
+                  ]
+            },
+            {
+                  "name": "Teatro de la ciudad",
+                  "text": "A tijuana-i Teatro de la ciudad egy ismert színház.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.037755,
+                        32.531024
+                  ]
+            },
+            {
+                  "name": "Torre Agua Caliente",
+                  "text": "A tijuana-i Torre Agua Caliente egy múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.032971,
+                        32.522508
+                  ]
+            },
+            {
+                  "name": "Cine Bujazan",
+                  "text": "A tijuana-i Cine Bujazan egykori színházépület.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.038413,
+                        32.529882
+                  ]
+            },
+            {
+                  "name": "Monumento Cuauhtemoc",
+                  "text": "A tijuana-i Monumento Cuauhtemoc egy történelmi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -117.017667,
+                        32.52471
+                  ]
+            },
+            {
+                  "name": "Abraham Lincoln Monument",
+                  "text": "A tijuana-i Abraham Lincoln Monument egy ismert emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -117.013914,
+                        32.522601
+                  ]
+            },
+            {
+                  "name": "General Ignacio Zaragoza",
+                  "text": "A tijuana-i Ignacio Zaragoza tábornoknak szentelt emlékmű egy történelmi látnivaló.",
+                  "category": "historical",
+                  "coords": [
+                        -117.010327,
+                        32.520494
+                  ]
+            },
+            {
+                  "name": "Tijuana Arch",
+                  "text": "A tijuana-i boltív egy ismert jelkép és emlékmű a városban.",
+                  "category": "historical",
+                  "coords": [
+                        -117.037119,
+                        32.536451
+                  ]
+            },
+            {
+                  "name": "Monumento Club Rotario",
+                  "text": "A tijuana-i Monumento Club Rotario egy emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -117.022648,
+                        32.521279
+                  ]
+            },
+            {
+                  "name": "Dr. Gustavo Aubanel Vallejo",
+                  "text": "A tijuana-i Dr. Gustavo Aubanel Vallejo-nak állított emlékmű egy látnivaló.",
+                  "category": "historical",
+                  "coords": [
+                        -117.032709,
+                        32.521459
+                  ]
+            },
+            {
+                  "name": "Mirador Rampa Batiz",
+                  "text": "A tijuana-i Mirador Rampa Batiz kilátást nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -117.050563,
+                        32.531596
+                  ]
+            },
+            {
+                  "name": "Mirador Altamira",
+                  "text": "A tijuana-i Mirador Altamira egy népszerű kilátóhely.",
+                  "category": "natural",
+                  "coords": [
+                        -117.051763,
+                        32.532811
+                  ]
+            },
+            {
+                  "name": "Mirador a La Cacho",
+                  "text": "A tijuana-i Mirador a La Cacho egy szép kilátóhely.",
+                  "category": "natural",
+                  "coords": [
+                        -117.029949,
+                        32.518464
+                  ]
+            },
+            {
+                  "name": "Derrumbe Lomas de Monterrey",
+                  "text": "A tijuana-i Derrumbe Lomas de Monterrey egy történelmi romterület.",
+                  "category": "historical",
+                  "coords": [
+                        -117.024399,
+                        32.506969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Cubo",
+                  "text": "El Cubo din Tijuana este un muzeu de artă cunoscut și interesant din punct de vedere arhitectural.",
+                  "category": "museum",
+                  "coords": [
+                        -117.023286,
+                        32.529471
+                  ]
+            },
+            {
+                  "name": "Audiorama",
+                  "text": "Audiorama din Tijuana este o locație pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.02229,
+                        32.530541
+                  ]
+            },
+            {
+                  "name": "Teatro de Las Californias",
+                  "text": "Teatro de Las Californias din Tijuana este un teatru cunoscut.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.02359,
+                        32.530605
+                  ]
+            },
+            {
+                  "name": "MULLME Museo de La Lucha Libre Mexicana",
+                  "text": "Muzeul MULLME din Tijuana este dedicat Lucha Libre-ului mexican.",
+                  "category": "museum",
+                  "coords": [
+                        -117.036781,
+                        32.52966
+                  ]
+            },
+            {
+                  "name": "Teatro Libre",
+                  "text": "Teatro Libre din Tijuana este un teatru pentru diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.037036,
+                        32.527394
+                  ]
+            },
+            {
+                  "name": "Museo 1889",
+                  "text": "Museo 1889 din Tijuana este un muzeu demn de vizitat.",
+                  "category": "museum",
+                  "coords": [
+                        -117.036705,
+                        32.535056
+                  ]
+            },
+            {
+                  "name": "BlackBox",
+                  "text": "BlackBox din Tijuana este o locație cunoscută pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.036743,
+                        32.530735
+                  ]
+            },
+            {
+                  "name": "El Foro - Antiguo Palacio jai-Alai",
+                  "text": "El Foro - Antiguo Palacio jai-Alai din Tijuana este o clădire istorică de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.035642,
+                        32.528717
+                  ]
+            },
+            {
+                  "name": "Teatro IMSS Tijuana",
+                  "text": "Teatro IMSS din Tijuana este un teatru cunoscut.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.009491,
+                        32.51478
+                  ]
+            },
+            {
+                  "name": "Museo de Cera",
+                  "text": "Museo de Cera din Tijuana este un muzeu de ceară popular.",
+                  "category": "museum",
+                  "coords": [
+                        -117.03577,
+                        32.53661
+                  ]
+            },
+            {
+                  "name": "Museo de Tijuana",
+                  "text": "Museo de Tijuana este un muzeu în Tijuana.",
+                  "category": "museum",
+                  "coords": [
+                        -117.038886,
+                        32.534964
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Tijuana",
+                  "text": "Casa de la Cultura de Tijuana este un centru cultural și muzeu important.",
+                  "category": "museum",
+                  "coords": [
+                        -117.052108,
+                        32.531844
+                  ]
+            },
+            {
+                  "name": "Teatro de la ciudad",
+                  "text": "Teatro de la ciudad din Tijuana este un teatru cunoscut.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.037755,
+                        32.531024
+                  ]
+            },
+            {
+                  "name": "Torre Agua Caliente",
+                  "text": "Torre Agua Caliente din Tijuana este un muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -117.032971,
+                        32.522508
+                  ]
+            },
+            {
+                  "name": "Cine Bujazan",
+                  "text": "Cine Bujazan din Tijuana este o fostă clădire de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.038413,
+                        32.529882
+                  ]
+            },
+            {
+                  "name": "Monumento Cuauhtemoc",
+                  "text": "Monumento Cuauhtemoc din Tijuana este un monument istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -117.017667,
+                        32.52471
+                  ]
+            },
+            {
+                  "name": "Abraham Lincoln Monument",
+                  "text": "Abraham Lincoln Monument din Tijuana este un monument cunoscut.",
+                  "category": "historical",
+                  "coords": [
+                        -117.013914,
+                        32.522601
+                  ]
+            },
+            {
+                  "name": "General Ignacio Zaragoza",
+                  "text": "Monumentul generalului Ignacio Zaragoza din Tijuana este un obiectiv istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -117.010327,
+                        32.520494
+                  ]
+            },
+            {
+                  "name": "Tijuana Arch",
+                  "text": "Arcul din Tijuana este un simbol și monument cunoscut în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -117.037119,
+                        32.536451
+                  ]
+            },
+            {
+                  "name": "Monumento Club Rotario",
+                  "text": "Monumento Club Rotario din Tijuana este un monument.",
+                  "category": "historical",
+                  "coords": [
+                        -117.022648,
+                        32.521279
+                  ]
+            },
+            {
+                  "name": "Dr. Gustavo Aubanel Vallejo",
+                  "text": "Monumentul dedicat lui Dr. Gustavo Aubanel Vallejo din Tijuana este un obiectiv.",
+                  "category": "historical",
+                  "coords": [
+                        -117.032709,
+                        32.521459
+                  ]
+            },
+            {
+                  "name": "Mirador Rampa Batiz",
+                  "text": "Mirador Rampa Batiz din Tijuana oferă o vedere asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -117.050563,
+                        32.531596
+                  ]
+            },
+            {
+                  "name": "Mirador Altamira",
+                  "text": "Mirador Altamira din Tijuana este un punct de belvedere popular.",
+                  "category": "natural",
+                  "coords": [
+                        -117.051763,
+                        32.532811
+                  ]
+            },
+            {
+                  "name": "Mirador a La Cacho",
+                  "text": "Mirador a La Cacho din Tijuana oferă un punct de belvedere frumos.",
+                  "category": "natural",
+                  "coords": [
+                        -117.029949,
+                        32.518464
+                  ]
+            },
+            {
+                  "name": "Derrumbe Lomas de Monterrey",
+                  "text": "Derrumbe Lomas de Monterrey din Tijuana este un sit istoric de ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -117.024399,
+                        32.506969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Cubo",
+                  "text": "El Cubo in Tijuana is a well-known and architecturally interesting art museum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.023286,
+                        32.529471
+                  ]
+            },
+            {
+                  "name": "Audiorama",
+                  "text": "The Audiorama in Tijuana is a venue for performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.02229,
+                        32.530541
+                  ]
+            },
+            {
+                  "name": "Teatro de Las Californias",
+                  "text": "Teatro de Las Californias in Tijuana is a well-known theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.02359,
+                        32.530605
+                  ]
+            },
+            {
+                  "name": "MULLME Museum of Mexican Lucha Libre Wrestling",
+                  "text": "The MULLME Museum in Tijuana is dedicated to Mexican Lucha Libre.",
+                  "category": "museum",
+                  "coords": [
+                        -117.036781,
+                        32.52966
+                  ]
+            },
+            {
+                  "name": "Teatro Libre",
+                  "text": "Teatro Libre in Tijuana is a theatre for various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.037036,
+                        32.527394
+                  ]
+            },
+            {
+                  "name": "Museo 1889",
+                  "text": "Museo 1889 in Tijuana is a museum worth visiting.",
+                  "category": "museum",
+                  "coords": [
+                        -117.036705,
+                        32.535056
+                  ]
+            },
+            {
+                  "name": "BlackBox",
+                  "text": "BlackBox in Tijuana is a well-known performance venue.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.036743,
+                        32.530735
+                  ]
+            },
+            {
+                  "name": "El Foro - Antiguo Palacio jai-Alai",
+                  "text": "El Foro - Antiguo Palacio jai-Alai in Tijuana is a historic theatre building.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.035642,
+                        32.528717
+                  ]
+            },
+            {
+                  "name": "Teatro IMSS Tijuana",
+                  "text": "Teatro IMSS in Tijuana is a well-known theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.009491,
+                        32.51478
+                  ]
+            },
+            {
+                  "name": "Museo de Cera",
+                  "text": "Museo de Cera in Tijuana is a popular wax museum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.03577,
+                        32.53661
+                  ]
+            },
+            {
+                  "name": "Museo de Tijuana",
+                  "text": "Museo de Tijuana is a museum in Tijuana.",
+                  "category": "museum",
+                  "coords": [
+                        -117.038886,
+                        32.534964
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Tijuana",
+                  "text": "Casa de la Cultura de Tijuana is an important cultural center and museum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.052108,
+                        32.531844
+                  ]
+            },
+            {
+                  "name": "Teatro de la ciudad",
+                  "text": "Teatro de la ciudad in Tijuana is a well-known theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.037755,
+                        32.531024
+                  ]
+            },
+            {
+                  "name": "Torre Agua Caliente",
+                  "text": "Torre Agua Caliente in Tijuana is a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.032971,
+                        32.522508
+                  ]
+            },
+            {
+                  "name": "Cine Bujazan",
+                  "text": "Cine Bujazan in Tijuana is a former theatre building.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.038413,
+                        32.529882
+                  ]
+            },
+            {
+                  "name": "Monumento Cuauhtemoc",
+                  "text": "Monumento Cuauhtemoc in Tijuana is a historic monument.",
+                  "category": "historical",
+                  "coords": [
+                        -117.017667,
+                        32.52471
+                  ]
+            },
+            {
+                  "name": "Abraham Lincoln Monument",
+                  "text": "Abraham Lincoln Monument in Tijuana is a well-known monument.",
+                  "category": "historical",
+                  "coords": [
+                        -117.013914,
+                        32.522601
+                  ]
+            },
+            {
+                  "name": "General Ignacio Zaragoza",
+                  "text": "The monument to General Ignacio Zaragoza in Tijuana is a historic landmark.",
+                  "category": "historical",
+                  "coords": [
+                        -117.010327,
+                        32.520494
+                  ]
+            },
+            {
+                  "name": "Tijuana Arch",
+                  "text": "The Tijuana Arch is a well-known landmark and monument in the city.",
+                  "category": "historical",
+                  "coords": [
+                        -117.037119,
+                        32.536451
+                  ]
+            },
+            {
+                  "name": "Monumento Club Rotario",
+                  "text": "Monumento Club Rotario in Tijuana is a monument.",
+                  "category": "historical",
+                  "coords": [
+                        -117.022648,
+                        32.521279
+                  ]
+            },
+            {
+                  "name": "Dr. Gustavo Aubanel Vallejo",
+                  "text": "The monument to Dr. Gustavo Aubanel Vallejo in Tijuana is a landmark.",
+                  "category": "historical",
+                  "coords": [
+                        -117.032709,
+                        32.521459
+                  ]
+            },
+            {
+                  "name": "Mirador Rampa Batiz",
+                  "text": "Mirador Rampa Batiz in Tijuana offers a view over the city.",
+                  "category": "natural",
+                  "coords": [
+                        -117.050563,
+                        32.531596
+                  ]
+            },
+            {
+                  "name": "Mirador Altamira",
+                  "text": "Mirador Altamira in Tijuana is a popular viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        -117.051763,
+                        32.532811
+                  ]
+            },
+            {
+                  "name": "Mirador a La Cacho",
+                  "text": "Mirador a La Cacho in Tijuana offers a beautiful viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        -117.029949,
+                        32.518464
+                  ]
+            },
+            {
+                  "name": "Derrumbe Lomas de Monterrey",
+                  "text": "Derrumbe Lomas de Monterrey in Tijuana is a historic ruin site.",
+                  "category": "historical",
+                  "coords": [
+                        -117.024399,
+                        32.506969
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-BCN",
     coords: [-117.0382, 32.5149],
@@ -72,7 +981,772 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Tijuana possède le poste frontière le plus fréquenté au monde.", "La célèbre salade César a été inventée à Tijuana.", "Le centre culturel CECUT est l'un des musées les plus importants du nord du Mexique."],
     }, image: "/poi-images/tijuana-cities-v2.webp"},
   {
-    id: "ciudad-juarez-cities-v2",
+    id: "ciudad-juarez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Paso Museum of Art",
+                  "text": "Das El Paso Museum of Art ist ein bedeutendes Kunstmuseum in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.49034,
+                        31.758577
+                  ]
+            },
+            {
+                  "name": "El Paso Museum of History",
+                  "text": "Das El Paso Museum of History ist ein historisches Museum in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.491575,
+                        31.760197
+                  ]
+            },
+            {
+                  "name": "El Paso Holocaust Museum",
+                  "text": "Das El Paso Holocaust Museum ist eine Gedenkstätte und ein Museum in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.491964,
+                        31.762325
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Ciudad Juárez",
+                  "text": "Das Museo de Arte de Ciudad Juárez ist ein lokales Kunstmuseum in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.454381,
+                        31.741197
+                  ]
+            },
+            {
+                  "name": "Centro Municipal de las Artes",
+                  "text": "Das Centro Municipal de las Artes ist ein Kulturmuseum in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.487962,
+                        31.73865
+                  ]
+            },
+            {
+                  "name": "Museo Germán Valdéz Tin Tan",
+                  "text": "Das Museo Germán Valdéz Tin Tan ist ein lokales Museum in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.485958,
+                        31.74299
+                  ]
+            },
+            {
+                  "name": "Salón de la fama del deportista juarense",
+                  "text": "Der Salón de la fama del deportista juarense ist ein Museum, das lokalen Sportlern in Ciudad Juárez gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -106.469655,
+                        31.752017
+                  ]
+            },
+            {
+                  "name": "Ferrocarril Central 1884",
+                  "text": "Ferrocarril Central 1884 ist ein Museum in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.483099,
+                        31.737593
+                  ]
+            },
+            {
+                  "name": "Teatro Del Pueblo",
+                  "text": "Das Teatro Del Pueblo ist ein lokales Theater in Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.461602,
+                        31.735623
+                  ]
+            },
+            {
+                  "name": "Auditorio Cívico Municipal Lic. Benito Juárez",
+                  "text": "Das Auditorio Cívico Municipal Lic. Benito Juárez ist ein städtisches Theater in Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.46005,
+                        31.735068
+                  ]
+            },
+            {
+                  "name": "Abraham Chavez Theatre",
+                  "text": "Das Abraham Chavez Theatre ist ein Theatergebäude in Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.490771,
+                        31.757529
+                  ]
+            },
+            {
+                  "name": "Monumento a Benito Juárez",
+                  "text": "Das Monumento a Benito Juárez ist ein bedeutendes Denkmal in Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.479045,
+                        31.735409
+                  ]
+            },
+            {
+                  "name": "Parque Público Federal El Chamizal",
+                  "text": "Der Parque Público Federal El Chamizal ist ein Stadtpark in Ciudad Juárez, der an die Beilegung eines Grenzstreits erinnert.",
+                  "category": "park",
+                  "coords": [
+                        -106.457962,
+                        31.756542
+                  ]
+            },
+            {
+                  "name": "General Vicente Guerrero",
+                  "text": "General Vicente Guerrero ist ein historisches Denkmal in Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.482585,
+                        31.736436
+                  ]
+            },
+            {
+                  "name": "Feminicidios",
+                  "text": "Feminicidios ist ein Denkmal in Ciudad Juárez zum Gedenken an die Opfer von Femiziden.",
+                  "category": "historical",
+                  "coords": [
+                        -106.487253,
+                        31.748139
+                  ]
+            },
+            {
+                  "name": "El Bombero",
+                  "text": "El Bombero ist ein lokales Denkmal in Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.472452,
+                        31.749125
+                  ]
+            },
+            {
+                  "name": "San Luis Contemporáneo",
+                  "text": "San Luis Contemporáneo ist ein modernes Kunstzentrum in Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.484537,
+                        31.739075
+                  ]
+            },
+            {
+                  "name": "Xolombia",
+                  "text": "Xolombia ist ein Kunstzentrum in Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.469488,
+                        31.736557
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Das Monumento a la Madre ist ein Denkmal zu Ehren der Mütter in Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.460853,
+                        31.736624
+                  ]
+            },
+            {
+                  "name": "Edificio de los Sueños",
+                  "text": "Das Edificio de los Sueños ist eine lokale Galerie in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.480705,
+                        31.737903
+                  ]
+            },
+            {
+                  "name": "Good Neighbor International Bridge",
+                  "text": "Die Good Neighbor International Bridge ist eine internationale Brücke in Ciudad Juárez.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.482778,
+                        31.74849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Paso Museum of Art",
+                  "text": "Az El Paso Museum of Art egy jelentős művészeti múzeum Ciudad Juárez-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -106.49034,
+                        31.758577
+                  ]
+            },
+            {
+                  "name": "El Paso Museum of History",
+                  "text": "Az El Paso Museum of History egy történelmi múzeum Ciudad Juárez-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -106.491575,
+                        31.760197
+                  ]
+            },
+            {
+                  "name": "El Paso Holocaust Museum",
+                  "text": "Az El Paso Holocaust Museum egy emlékhely és múzeum Ciudad Juárez-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -106.491964,
+                        31.762325
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Ciudad Juárez",
+                  "text": "A Museo de Arte de Ciudad Juárez egy helyi művészeti múzeum Ciudad Juárez-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -106.454381,
+                        31.741197
+                  ]
+            },
+            {
+                  "name": "Centro Municipal de las Artes",
+                  "text": "A Centro Municipal de las Artes egy kulturális múzeum Ciudad Juárez-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -106.487962,
+                        31.73865
+                  ]
+            },
+            {
+                  "name": "Museo Germán Valdéz Tin Tan",
+                  "text": "A Museo Germán Valdéz Tin Tan egy helyi múzeum Ciudad Juárez-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -106.485958,
+                        31.74299
+                  ]
+            },
+            {
+                  "name": "Salón de la fama del deportista juarense",
+                  "text": "A Salón de la fama del deportista juarense egy helyi sportolóknak szentelt múzeum Ciudad Juárez-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -106.469655,
+                        31.752017
+                  ]
+            },
+            {
+                  "name": "Ferrocarril Central 1884",
+                  "text": "A Ferrocarril Central 1884 egy múzeum Ciudad Juárez-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -106.483099,
+                        31.737593
+                  ]
+            },
+            {
+                  "name": "Teatro Del Pueblo",
+                  "text": "A Teatro Del Pueblo egy helyi színház Ciudad Juárez-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.461602,
+                        31.735623
+                  ]
+            },
+            {
+                  "name": "Auditorio Cívico Municipal Lic. Benito Juárez",
+                  "text": "Az Auditorio Cívico Municipal Lic. Benito Juárez egy városi színház Ciudad Juárez-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.46005,
+                        31.735068
+                  ]
+            },
+            {
+                  "name": "Abraham Chavez Theatre",
+                  "text": "Az Abraham Chavez Theatre egy színházépület Ciudad Juárez-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.490771,
+                        31.757529
+                  ]
+            },
+            {
+                  "name": "Monumento a Benito Juárez",
+                  "text": "A Monumento a Benito Juárez egy jelentős emlékmű Ciudad Juárez-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -106.479045,
+                        31.735409
+                  ]
+            },
+            {
+                  "name": "Parque Público Federal El Chamizal",
+                  "text": "A Parque Público Federal El Chamizal egy városi park Ciudad Juárez-ben, amely egy határvita rendezésének állít emléket.",
+                  "category": "park",
+                  "coords": [
+                        -106.457962,
+                        31.756542
+                  ]
+            },
+            {
+                  "name": "General Vicente Guerrero",
+                  "text": "A General Vicente Guerrero egy történelmi emlékmű Ciudad Juárez-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -106.482585,
+                        31.736436
+                  ]
+            },
+            {
+                  "name": "Feminicidios",
+                  "text": "A Feminicidios egy emlékmű Ciudad Juárez-ben, amely a nőgyilkosságok áldozataira emlékezik.",
+                  "category": "historical",
+                  "coords": [
+                        -106.487253,
+                        31.748139
+                  ]
+            },
+            {
+                  "name": "El Bombero",
+                  "text": "Az El Bombero egy helyi emlékmű Ciudad Juárez-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -106.472452,
+                        31.749125
+                  ]
+            },
+            {
+                  "name": "San Luis Contemporáneo",
+                  "text": "A San Luis Contemporáneo egy modern művészeti központ Ciudad Juárez-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.484537,
+                        31.739075
+                  ]
+            },
+            {
+                  "name": "Xolombia",
+                  "text": "A Xolombia egy művészeti központ Ciudad Juárez-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.469488,
+                        31.736557
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "A Monumento a la Madre az anyák előtt tisztelgő emlékmű Ciudad Juárez-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -106.460853,
+                        31.736624
+                  ]
+            },
+            {
+                  "name": "Edificio de los Sueños",
+                  "text": "Az Edificio de los Sueños egy helyi galéria Ciudad Juárez-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -106.480705,
+                        31.737903
+                  ]
+            },
+            {
+                  "name": "Good Neighbor International Bridge",
+                  "text": "A Good Neighbor International Bridge egy nemzetközi híd Ciudad Juárez-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.482778,
+                        31.74849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Paso Museum of Art",
+                  "text": "El Paso Museum of Art este un muzeu de artă important situat în Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.49034,
+                        31.758577
+                  ]
+            },
+            {
+                  "name": "El Paso Museum of History",
+                  "text": "El Paso Museum of History este un muzeu istoric în Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.491575,
+                        31.760197
+                  ]
+            },
+            {
+                  "name": "El Paso Holocaust Museum",
+                  "text": "El Paso Holocaust Museum este un memorial și muzeu în Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.491964,
+                        31.762325
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Ciudad Juárez",
+                  "text": "Museo de Arte de Ciudad Juárez este un muzeu de artă local în Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.454381,
+                        31.741197
+                  ]
+            },
+            {
+                  "name": "Centro Municipal de las Artes",
+                  "text": "Centro Municipal de las Artes este un muzeu cultural în Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.487962,
+                        31.73865
+                  ]
+            },
+            {
+                  "name": "Museo Germán Valdéz Tin Tan",
+                  "text": "Museo Germán Valdéz Tin Tan este un muzeu local situat în Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.485958,
+                        31.74299
+                  ]
+            },
+            {
+                  "name": "Salón de la fama del deportista juarense",
+                  "text": "Salón de la fama del deportista juarense este un muzeu dedicat sportivilor locali din Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.469655,
+                        31.752017
+                  ]
+            },
+            {
+                  "name": "Ferrocarril Central 1884",
+                  "text": "Ferrocarril Central 1884 este un muzeu în Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.483099,
+                        31.737593
+                  ]
+            },
+            {
+                  "name": "Teatro Del Pueblo",
+                  "text": "Teatro Del Pueblo este un teatru local în Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.461602,
+                        31.735623
+                  ]
+            },
+            {
+                  "name": "Auditorio Cívico Municipal Lic. Benito Juárez",
+                  "text": "Auditorio Cívico Municipal Lic. Benito Juárez este un teatru civic în Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.46005,
+                        31.735068
+                  ]
+            },
+            {
+                  "name": "Abraham Chavez Theatre",
+                  "text": "Abraham Chavez Theatre este un teatru situat în Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.490771,
+                        31.757529
+                  ]
+            },
+            {
+                  "name": "Monumento a Benito Juárez",
+                  "text": "Monumento a Benito Juárez este un monument semnificativ situat în Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.479045,
+                        31.735409
+                  ]
+            },
+            {
+                  "name": "Parque Público Federal El Chamizal",
+                  "text": "Parque Público Federal El Chamizal este un parc urban din Ciudad Juárez, legat istoric de soluționarea unei dispute de frontieră.",
+                  "category": "park",
+                  "coords": [
+                        -106.457962,
+                        31.756542
+                  ]
+            },
+            {
+                  "name": "General Vicente Guerrero",
+                  "text": "General Vicente Guerrero este un monument istoric în Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.482585,
+                        31.736436
+                  ]
+            },
+            {
+                  "name": "Feminicidios",
+                  "text": "Feminicidios este un monument din Ciudad Juárez care comemorează victimele feminicidului.",
+                  "category": "historical",
+                  "coords": [
+                        -106.487253,
+                        31.748139
+                  ]
+            },
+            {
+                  "name": "El Bombero",
+                  "text": "El Bombero este un monument local situat în Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.472452,
+                        31.749125
+                  ]
+            },
+            {
+                  "name": "San Luis Contemporáneo",
+                  "text": "San Luis Contemporáneo este un centru de arte modern în Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.484537,
+                        31.739075
+                  ]
+            },
+            {
+                  "name": "Xolombia",
+                  "text": "Xolombia este un centru de arte în Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.469488,
+                        31.736557
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre este un monument dedicat mamelor în Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.460853,
+                        31.736624
+                  ]
+            },
+            {
+                  "name": "Edificio de los Sueños",
+                  "text": "Edificio de los Sueños este o galerie locală în Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.480705,
+                        31.737903
+                  ]
+            },
+            {
+                  "name": "Good Neighbor International Bridge",
+                  "text": "Good Neighbor International Bridge este un pod internațional situat în Ciudad Juárez.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.482778,
+                        31.74849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Paso Museum of Art",
+                  "text": "El Paso Museum of Art is a prominent art museum located in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.49034,
+                        31.758577
+                  ]
+            },
+            {
+                  "name": "El Paso Museum of History",
+                  "text": "El Paso Museum of History is a historical museum situated in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.491575,
+                        31.760197
+                  ]
+            },
+            {
+                  "name": "El Paso Holocaust Museum",
+                  "text": "El Paso Holocaust Museum is a memorial and museum located in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.491964,
+                        31.762325
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Ciudad Juárez",
+                  "text": "Museo de Arte de Ciudad Juárez is a local art museum located in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.454381,
+                        31.741197
+                  ]
+            },
+            {
+                  "name": "Centro Municipal de las Artes",
+                  "text": "Centro Municipal de las Artes is a cultural museum located in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.487962,
+                        31.73865
+                  ]
+            },
+            {
+                  "name": "Museo Germán Valdéz Tin Tan",
+                  "text": "Museo Germán Valdéz Tin Tan is a local museum situated in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.485958,
+                        31.74299
+                  ]
+            },
+            {
+                  "name": "Salón de la fama del deportista juarense",
+                  "text": "Salón de la fama del deportista juarense is a museum dedicated to local athletes in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.469655,
+                        31.752017
+                  ]
+            },
+            {
+                  "name": "Ferrocarril Central 1884",
+                  "text": "Ferrocarril Central 1884 is a museum located in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.483099,
+                        31.737593
+                  ]
+            },
+            {
+                  "name": "Teatro Del Pueblo",
+                  "text": "Teatro Del Pueblo is a local theatre operating in Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.461602,
+                        31.735623
+                  ]
+            },
+            {
+                  "name": "Auditorio Cívico Municipal Lic. Benito Juárez",
+                  "text": "Auditorio Cívico Municipal Lic. Benito Juárez is a civic theatre venue in Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.46005,
+                        31.735068
+                  ]
+            },
+            {
+                  "name": "Abraham Chavez Theatre",
+                  "text": "Abraham Chavez Theatre is a theatre facility located in Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.490771,
+                        31.757529
+                  ]
+            },
+            {
+                  "name": "Monumento a Benito Juárez",
+                  "text": "Monumento a Benito Juárez is a significant commemorative monument in Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.479045,
+                        31.735409
+                  ]
+            },
+            {
+                  "name": "Parque Público Federal El Chamizal",
+                  "text": "Parque Público Federal El Chamizal is an urban park in Ciudad Juárez associated with a historic border dispute settlement.",
+                  "category": "park",
+                  "coords": [
+                        -106.457962,
+                        31.756542
+                  ]
+            },
+            {
+                  "name": "General Vicente Guerrero",
+                  "text": "General Vicente Guerrero is a historical monument situated in Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.482585,
+                        31.736436
+                  ]
+            },
+            {
+                  "name": "Feminicidios",
+                  "text": "Feminicidios is a monument in Ciudad Juárez commemorating the victims of feminicide.",
+                  "category": "historical",
+                  "coords": [
+                        -106.487253,
+                        31.748139
+                  ]
+            },
+            {
+                  "name": "El Bombero",
+                  "text": "El Bombero is a local commemorative monument in Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.472452,
+                        31.749125
+                  ]
+            },
+            {
+                  "name": "San Luis Contemporáneo",
+                  "text": "San Luis Contemporáneo is a modern arts centre located in Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.484537,
+                        31.739075
+                  ]
+            },
+            {
+                  "name": "Xolombia",
+                  "text": "Xolombia is an arts centre located in Ciudad Juárez.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.469488,
+                        31.736557
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre is a monument honoring mothers situated in Ciudad Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -106.460853,
+                        31.736624
+                  ]
+            },
+            {
+                  "name": "Edificio de los Sueños",
+                  "text": "Edificio de los Sueños is a local gallery located in Ciudad Juárez.",
+                  "category": "museum",
+                  "coords": [
+                        -106.480705,
+                        31.737903
+                  ]
+            },
+            {
+                  "name": "Good Neighbor International Bridge",
+                  "text": "Good Neighbor International Bridge is an international bridge structure in Ciudad Juárez.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.482778,
+                        31.74849
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-CHH",
     coords: [-106.4850, 31.7393],
@@ -99,7 +1773,412 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Ciudad Juárez a joué un rôle clé pendant la Révolution mexicaine.", "Les dunes de Samalayuca au sud de la ville offrent des paysages désertiques spectaculaires.", "Les ponts sur le Rio Grande relient directement la ville aux États-Unis."],
     }, image: "/poi-images/ciudad-juarez-cities-v2.webp"},
   {
-    id: "leon-cities-v2",
+    id: "leon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Manuel Doblado",
+                  "text": "Teatro Manuel Doblado ist ein Theater in León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.680026,
+                        21.122907
+                  ]
+            },
+            {
+                  "name": "Teatro María Greever",
+                  "text": "Teatro María Greever ist ein Theater in León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.682815,
+                        21.123904
+                  ]
+            },
+            {
+                  "name": "Museo de las Identidades Leonesas",
+                  "text": "Museo de las Identidades Leonesas ist ein Museum in León.",
+                  "category": "museum",
+                  "coords": [
+                        -101.6847,
+                        21.121627
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "Museo de Arte Sacro ist ein Museum in León.",
+                  "category": "museum",
+                  "coords": [
+                        -101.681766,
+                        21.124591
+                  ]
+            },
+            {
+                  "name": "Lago chapalita",
+                  "text": "Lago chapalita ist ein Wasserpark in León.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.698722,
+                        21.125463
+                  ]
+            },
+            {
+                  "name": "Auditorio Mateo Herrera",
+                  "text": "Auditorio Mateo Herrera ist ein Theater in León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.660024,
+                        21.117071
+                  ]
+            },
+            {
+                  "name": "Teatro del Bicentenario",
+                  "text": "Teatro del Bicentenario ist ein Theater in León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.660609,
+                        21.114026
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad",
+                  "text": "Museo de la Ciudad ist ein Museum in León.",
+                  "category": "museum",
+                  "coords": [
+                        -101.679124,
+                        21.123061
+                  ]
+            },
+            {
+                  "name": "Area de Juegos Feria de León",
+                  "text": "Area de Juegos Feria de León ist ein Freizeitpark in León.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.658475,
+                        21.113822
+                  ]
+            },
+            {
+                  "name": "Concha Acustica del Parque Hidalgo",
+                  "text": "Concha Acustica del Parque Hidalgo ist ein Kunstzentrum in León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.690108,
+                        21.132173
+                  ]
+            },
+            {
+                  "name": "Forum Cultural Guanajuato",
+                  "text": "Forum Cultural Guanajuato ist eine Sehenswürdigkeit in León.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.660598,
+                        21.115936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Manuel Doblado",
+                  "text": "A Teatro Manuel Doblado egy színház León városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.680026,
+                        21.122907
+                  ]
+            },
+            {
+                  "name": "Teatro María Greever",
+                  "text": "A Teatro María Greever egy színház León városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.682815,
+                        21.123904
+                  ]
+            },
+            {
+                  "name": "Museo de las Identidades Leonesas",
+                  "text": "A Museo de las Identidades Leonesas egy múzeum León városában.",
+                  "category": "museum",
+                  "coords": [
+                        -101.6847,
+                        21.121627
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "A Museo de Arte Sacro egy múzeum León városában.",
+                  "category": "museum",
+                  "coords": [
+                        -101.681766,
+                        21.124591
+                  ]
+            },
+            {
+                  "name": "Lago chapalita",
+                  "text": "A Lago chapalita egy vízipark León városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.698722,
+                        21.125463
+                  ]
+            },
+            {
+                  "name": "Auditorio Mateo Herrera",
+                  "text": "Az Auditorio Mateo Herrera egy színház León városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.660024,
+                        21.117071
+                  ]
+            },
+            {
+                  "name": "Teatro del Bicentenario",
+                  "text": "A Teatro del Bicentenario egy színház León városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.660609,
+                        21.114026
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad",
+                  "text": "A Museo de la Ciudad egy múzeum León városában.",
+                  "category": "museum",
+                  "coords": [
+                        -101.679124,
+                        21.123061
+                  ]
+            },
+            {
+                  "name": "Area de Juegos Feria de León",
+                  "text": "Az Area de Juegos Feria de León egy vidámpark León városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.658475,
+                        21.113822
+                  ]
+            },
+            {
+                  "name": "Concha Acustica del Parque Hidalgo",
+                  "text": "A Concha Acustica del Parque Hidalgo egy művészeti központ León városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.690108,
+                        21.132173
+                  ]
+            },
+            {
+                  "name": "Forum Cultural Guanajuato",
+                  "text": "A Forum Cultural Guanajuato egy látványosság León városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.660598,
+                        21.115936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Manuel Doblado",
+                  "text": "Teatro Manuel Doblado este un teatru situat în León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.680026,
+                        21.122907
+                  ]
+            },
+            {
+                  "name": "Teatro María Greever",
+                  "text": "Teatro María Greever este un teatru situat în León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.682815,
+                        21.123904
+                  ]
+            },
+            {
+                  "name": "Museo de las Identidades Leonesas",
+                  "text": "Museo de las Identidades Leonesas este un muzeu situat în León.",
+                  "category": "museum",
+                  "coords": [
+                        -101.6847,
+                        21.121627
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "Museo de Arte Sacro este un muzeu situat în León.",
+                  "category": "museum",
+                  "coords": [
+                        -101.681766,
+                        21.124591
+                  ]
+            },
+            {
+                  "name": "Lago chapalita",
+                  "text": "Lago chapalita este un parc acvatic situat în León.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.698722,
+                        21.125463
+                  ]
+            },
+            {
+                  "name": "Auditorio Mateo Herrera",
+                  "text": "Auditorio Mateo Herrera este un teatru situat în León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.660024,
+                        21.117071
+                  ]
+            },
+            {
+                  "name": "Teatro del Bicentenario",
+                  "text": "Teatro del Bicentenario este un teatru situat în León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.660609,
+                        21.114026
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad",
+                  "text": "Museo de la Ciudad este un muzeu situat în León.",
+                  "category": "museum",
+                  "coords": [
+                        -101.679124,
+                        21.123061
+                  ]
+            },
+            {
+                  "name": "Area de Juegos Feria de León",
+                  "text": "Area de Juegos Feria de León este un parc tematic situat în León.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.658475,
+                        21.113822
+                  ]
+            },
+            {
+                  "name": "Concha Acustica del Parque Hidalgo",
+                  "text": "Concha Acustica del Parque Hidalgo este un centru de arte situat în León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.690108,
+                        21.132173
+                  ]
+            },
+            {
+                  "name": "Forum Cultural Guanajuato",
+                  "text": "Forum Cultural Guanajuato este o atracție situată în León.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.660598,
+                        21.115936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Manuel Doblado",
+                  "text": "Teatro Manuel Doblado is a theatre located in León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.680026,
+                        21.122907
+                  ]
+            },
+            {
+                  "name": "Teatro María Greever",
+                  "text": "Teatro María Greever is a theatre located in León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.682815,
+                        21.123904
+                  ]
+            },
+            {
+                  "name": "Museo de las Identidades Leonesas",
+                  "text": "Museo de las Identidades Leonesas is a museum located in León.",
+                  "category": "museum",
+                  "coords": [
+                        -101.6847,
+                        21.121627
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro",
+                  "text": "Museo de Arte Sacro is a museum located in León.",
+                  "category": "museum",
+                  "coords": [
+                        -101.681766,
+                        21.124591
+                  ]
+            },
+            {
+                  "name": "Lago chapalita",
+                  "text": "Lago chapalita is a water park located in León.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.698722,
+                        21.125463
+                  ]
+            },
+            {
+                  "name": "Auditorio Mateo Herrera",
+                  "text": "Auditorio Mateo Herrera is a theatre located in León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.660024,
+                        21.117071
+                  ]
+            },
+            {
+                  "name": "Teatro del Bicentenario",
+                  "text": "Teatro del Bicentenario is a theatre located in León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.660609,
+                        21.114026
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad",
+                  "text": "Museo de la Ciudad is a museum located in León.",
+                  "category": "museum",
+                  "coords": [
+                        -101.679124,
+                        21.123061
+                  ]
+            },
+            {
+                  "name": "Area de Juegos Feria de León",
+                  "text": "Area de Juegos Feria de León is a theme park located in León.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.658475,
+                        21.113822
+                  ]
+            },
+            {
+                  "name": "Concha Acustica del Parque Hidalgo",
+                  "text": "Concha Acustica del Parque Hidalgo is an arts centre located in León.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.690108,
+                        21.132173
+                  ]
+            },
+            {
+                  "name": "Forum Cultural Guanajuato",
+                  "text": "Forum Cultural Guanajuato is an attraction located in León.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.660598,
+                        21.115936
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-GUA",
     coords: [-101.6853, 21.1250],
@@ -126,7 +2205,1348 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["León est célèbre pour sa vaste production d'articles de cuir et de chaussures.", "Le Festival Internacional del Globo de León est l'un des plus grands festivals de montgolfières au monde.", "Le Templo Expiatorio a mis près de 100 ans avant d'être achevé."],
     }, image: "/poi-images/leon-cities-v2.webp"},
   {
-    id: "zapopan-cities-v2",
+    id: "zapopan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Auditorio Telmex",
+                  "text": "Das Auditorio Telmex in Zapopan ist ein bedeutender Veranstaltungsort.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381296,
+                        20.733298
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Zapopan",
+                  "text": "Das Museo de Arte de Zapopan ist ein bedeutendes Kunstmuseum in der Stadt Zapopan. Es zeigt wechselnde zeitgenössische Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -103.389812,
+                        20.720388
+                  ]
+            },
+            {
+                  "name": "El Grillo",
+                  "text": "El Grillo ist eine archäologische Stätte in Zapopan. Sie bietet Einblicke in die vorspanische Geschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -103.369594,
+                        20.73354
+                  ]
+            },
+            {
+                  "name": "Calle 2",
+                  "text": "Calle 2 ist ein Theater in Zapopan. Es ist ein Veranstaltungsort für verschiedene kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.376515,
+                        20.734986
+                  ]
+            },
+            {
+                  "name": "Parque Avila Camacho",
+                  "text": "Der Parque Avila Camacho ist ein Themenpark in Zapopan. Er bietet Unterhaltungsmöglichkeiten für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.373752,
+                        20.712155
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico Huichol Wixárika",
+                  "text": "Das Museo Etnografico Huichol Wixárika in Zapopan widmet sich der Kultur des Huichol-Volkes. Es bewahrt deren traditionelles Kunsthandwerk.",
+                  "category": "museum",
+                  "coords": [
+                        -103.392053,
+                        20.721709
+                  ]
+            },
+            {
+                  "name": "Zoologico Villa Fantasía",
+                  "text": "Der Zoologico Villa Fantasía ist ein Zoo in Zapopan. Er bietet eine Heimat für verschiedene Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.384404,
+                        20.722674
+                  ]
+            },
+            {
+                  "name": "Auditorio Central",
+                  "text": "Das Auditorio Central ist ein Theater in Zapopan. Es dient als Veranstaltungsort für kulturelle Events.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.380751,
+                        20.741605
+                  ]
+            },
+            {
+                  "name": "Ágora Jenkins",
+                  "text": "Ágora Jenkins ist ein Theater in Zapopan. Es ist ein Ort für öffentliche Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381026,
+                        20.737253
+                  ]
+            },
+            {
+                  "name": "Sala 2",
+                  "text": "Sala 2 ist ein Theater in Zapopan. Es wird für verschiedene künstlerische Darbietungen genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.382035,
+                        20.736454
+                  ]
+            },
+            {
+                  "name": "Teatro Estudio Cavaret",
+                  "text": "Das Teatro Estudio Cavaret ist ein Theater in Zapopan. Es ist bekannt für seine vielfältigen Bühnenprogramme.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.378299,
+                        20.736808
+                  ]
+            },
+            {
+                  "name": "Foro Cometa",
+                  "text": "Foro Cometa ist ein Theater in Zapopan. Es ist ein Ort für kulturelle Zusammenkünfte und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.384169,
+                        20.727636
+                  ]
+            },
+            {
+                  "name": "Condición Suspendida",
+                  "text": "Condición Suspendida ist ein Denkmal in Zapopan. Es ist ein markantes öffentliches Kunstwerk.",
+                  "category": "historical",
+                  "coords": [
+                        -103.387371,
+                        20.720036
+                  ]
+            },
+            {
+                  "name": "Plaza de las Américas (Juan Pablo II)",
+                  "text": "Die Plaza de las Américas (Juan Pablo II) ist ein Park in Zapopan. Ein beliebter Ort für Erholung.",
+                  "category": "park",
+                  "coords": [
+                        -103.391049,
+                        20.72108
+                  ]
+            },
+            {
+                  "name": "Conejo",
+                  "text": "Conejo ist ein Denkmal in Zapopan. Es stellt eine künstlerische Interpretation eines Kaninchens dar.",
+                  "category": "historical",
+                  "coords": [
+                        -103.383744,
+                        20.702292
+                  ]
+            },
+            {
+                  "name": "Paloma",
+                  "text": "Paloma ist ein Denkmal in Zapopan. Es ist eine Skulptur, die an eine Taube erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -103.388711,
+                        20.697743
+                  ]
+            },
+            {
+                  "name": "Chihuahua",
+                  "text": "Chihuahua ist ein Denkmal in Zapopan. Es ist eine Skulptur, die einem Chihuahua gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -103.389945,
+                        20.695941
+                  ]
+            },
+            {
+                  "name": "Basset hound",
+                  "text": "Basset hound ist ein Denkmal in Zapopan. Diese Skulptur zeigt einen Basset Hound.",
+                  "category": "historical",
+                  "coords": [
+                        -103.390857,
+                        20.695397
+                  ]
+            },
+            {
+                  "name": "Barco",
+                  "text": "Barco ist ein Denkmal in Zapopan. Es ist ein künstlerisches Objekt in Bootsform.",
+                  "category": "historical",
+                  "coords": [
+                        -103.394882,
+                        20.694087
+                  ]
+            },
+            {
+                  "name": "Monumento del Maíz",
+                  "text": "Das Monumento del Maíz ist ein Denkmal in Zapopan. Es würdigt die Bedeutung des Maises für die Region.",
+                  "category": "historical",
+                  "coords": [
+                        -103.383162,
+                        20.732803
+                  ]
+            },
+            {
+                  "name": "Letras Zapopan",
+                  "text": "Letras Zapopan ist eine beliebte Attraktion. Die großen Buchstaben dienen als Fotomotiv in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.389871,
+                        20.721317
+                  ]
+            },
+            {
+                  "name": "Mirador Del Bosque Pedagógico del Agua (Colomos III)",
+                  "text": "Der Mirador Del Bosque Pedagógico del Agua (Colomos III) bietet einen Panoramablick über das Waldgebiet in Zapopan.",
+                  "category": "natural",
+                  "coords": [
+                        -103.408616,
+                        20.71961
+                  ]
+            },
+            {
+                  "name": "Cañada De La Tortuga",
+                  "text": "Cañada De La Tortuga ist ein Aussichtspunkt in Zapopan. Er bietet einen schönen Blick in die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -103.410459,
+                        20.722207
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Susurros",
+                  "text": "Der Mirador De Los Susurros ist ein Aussichtspunkt in Zapopan. Er ist ein ruhiger Ort zum Verweilen.",
+                  "category": "natural",
+                  "coords": [
+                        -103.409789,
+                        20.71972
+                  ]
+            },
+            {
+                  "name": "Mirador De Las Tempranillas",
+                  "text": "Der Mirador De Las Tempranillas ist ein Aussichtspunkt in Zapopan. Er bietet Ausblicke auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -103.410759,
+                        20.71885
+                  ]
+            },
+            {
+                  "name": "Mirador Del Taray",
+                  "text": "Der Mirador Del Taray ist ein Aussichtspunkt in Zapopan. Er bietet einen hervorragenden Blick auf das lokale Terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -103.40865,
+                        20.71827
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Ahuehuetes",
+                  "text": "Der Mirador De Los Ahuehuetes ist ein Aussichtspunkt in Zapopan. Benannt nach den dortigen Ahuehuete-Bäumen.",
+                  "category": "natural",
+                  "coords": [
+                        -103.411752,
+                        20.720187
+                  ]
+            },
+            {
+                  "name": "Monumento Al Escuadrón 201",
+                  "text": "Das Monumento Al Escuadrón 201 ist ein Denkmal in Zapopan. Es erinnert an die historische mexikanische Fliegerstaffel.",
+                  "category": "historical",
+                  "coords": [
+                        -103.39,
+                        20.729231
+                  ]
+            },
+            {
+                  "name": "Acueducto Gabriel Castaños",
+                  "text": "Der Acueducto Gabriel Castaños ist ein historischer Aussichtspunkt in Zapopan. Er zeugt von der alten Wasserinfrastruktur.",
+                  "category": "natural",
+                  "coords": [
+                        -103.392925,
+                        20.695103
+                  ]
+            },
+            {
+                  "name": "Mirador JBBPDA 2",
+                  "text": "Der Mirador JBBPDA 2 ist ein Aussichtspunkt in Zapopan. Er gehört zum Netz der JBBPDA-Beobachtungspunkte.",
+                  "category": "natural",
+                  "coords": [
+                        -103.414319,
+                        20.717125
+                  ]
+            },
+            {
+                  "name": "Mirador Del Riachuelo A",
+                  "text": "Der Mirador Del Riachuelo A ist ein Aussichtspunkt in Zapopan. Er liegt an einem kleinen Bach.",
+                  "category": "natural",
+                  "coords": [
+                        -103.40112,
+                        20.70943
+                  ]
+            },
+            {
+                  "name": "La Roca Fotogénica A",
+                  "text": "La Roca Fotogénica A ist ein Aussichtspunkt in Zapopan. Eine markante Felsformation, ideal für Fotos.",
+                  "category": "natural",
+                  "coords": [
+                        -103.396861,
+                        20.708989
+                  ]
+            },
+            {
+                  "name": "Letras ZPN",
+                  "text": "Letras ZPN ist eine Attraktion in Zapopan. Die abgekürzten Buchstaben bieten ein beliebtes Fotomotiv.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.407005,
+                        20.710008
+                  ]
+            },
+            {
+                  "name": "Mirador Del El Pinar",
+                  "text": "Der Mirador Del El Pinar ist ein Aussichtspunkt in Zapopan. Er überblickt das Piniengebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -103.399935,
+                        20.711109
+                  ]
+            },
+            {
+                  "name": "Monumento Aguas de Guadalajara 1903",
+                  "text": "Das Monumento Aguas de Guadalajara 1903 ist ein historischer Aussichtspunkt in Zapopan. Er erinnert an die Wassergeschichte.",
+                  "category": "natural",
+                  "coords": [
+                        -103.397826,
+                        20.708241
+                  ]
+            },
+            {
+                  "name": "Galerías De Agua",
+                  "text": "Galerías De Agua ist ein Aussichtspunkt in Zapopan. Er bietet Einblick in die historischen Wassergalerien.",
+                  "category": "natural",
+                  "coords": [
+                        -103.392471,
+                        20.70568
+                  ]
+            },
+            {
+                  "name": "San Pedro Apostol",
+                  "text": "San Pedro Apostol ist ein religiöser Ort in Zapopan. Eine bedeutende Kirche für die lokale Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -103.390808,
+                        20.722009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Auditorio Telmex",
+                  "text": "A zapopani Auditorio Telmex egy jelentős előadóhely.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381296,
+                        20.733298
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Zapopan",
+                  "text": "A Museo de Arte de Zapopan egy neves művészeti múzeum Zapopanban. Kortárs kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -103.389812,
+                        20.720388
+                  ]
+            },
+            {
+                  "name": "El Grillo",
+                  "text": "Az El Grillo egy régészeti lelőhely Zapopanban. Bepillantást nyújt a régió spanyolok előtti történelmébe.",
+                  "category": "historical",
+                  "coords": [
+                        -103.369594,
+                        20.73354
+                  ]
+            },
+            {
+                  "name": "Calle 2",
+                  "text": "A Calle 2 egy színház Zapopanban. Különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.376515,
+                        20.734986
+                  ]
+            },
+            {
+                  "name": "Parque Avila Camacho",
+                  "text": "A Parque Avila Camacho egy tematikus park Zapopanban. Szórakozási lehetőségeket kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.373752,
+                        20.712155
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico Huichol Wixárika",
+                  "text": "A zapopani Museo Etnografico Huichol Wixárika a huichol nép kultúrájával foglalkozik. Megőrzi hagyományos kézműves alkotásaikat.",
+                  "category": "museum",
+                  "coords": [
+                        -103.392053,
+                        20.721709
+                  ]
+            },
+            {
+                  "name": "Zoologico Villa Fantasía",
+                  "text": "A Zoologico Villa Fantasía egy állatkert Zapopanban. Különböző állatfajoknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.384404,
+                        20.722674
+                  ]
+            },
+            {
+                  "name": "Auditorio Central",
+                  "text": "Az Auditorio Central egy színház Zapopanban. Kulturális rendezvények színhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.380751,
+                        20.741605
+                  ]
+            },
+            {
+                  "name": "Ágora Jenkins",
+                  "text": "Az Ágora Jenkins egy színház Zapopanban. Nyilvános előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381026,
+                        20.737253
+                  ]
+            },
+            {
+                  "name": "Sala 2",
+                  "text": "A Sala 2 egy színház Zapopanban. Különféle művészi előadásokhoz használják.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.382035,
+                        20.736454
+                  ]
+            },
+            {
+                  "name": "Teatro Estudio Cavaret",
+                  "text": "A Teatro Estudio Cavaret egy színház Zapopanban. Változatos színpadi programjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.378299,
+                        20.736808
+                  ]
+            },
+            {
+                  "name": "Foro Cometa",
+                  "text": "A Foro Cometa egy színház Zapopanban. Kulturális összejövetelek és előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.384169,
+                        20.727636
+                  ]
+            },
+            {
+                  "name": "Condición Suspendida",
+                  "text": "A Condición Suspendida egy emlékmű Zapopanban. Jellegzetes köztéri műalkotás.",
+                  "category": "historical",
+                  "coords": [
+                        -103.387371,
+                        20.720036
+                  ]
+            },
+            {
+                  "name": "Plaza de las Américas (Juan Pablo II)",
+                  "text": "A Plaza de las Américas (Juan Pablo II) egy park Zapopanban. Népszerű pihenőhely.",
+                  "category": "park",
+                  "coords": [
+                        -103.391049,
+                        20.72108
+                  ]
+            },
+            {
+                  "name": "Conejo",
+                  "text": "A Conejo egy emlékmű Zapopanban. Egy nyúl művészi interpretációja.",
+                  "category": "historical",
+                  "coords": [
+                        -103.383744,
+                        20.702292
+                  ]
+            },
+            {
+                  "name": "Paloma",
+                  "text": "A Paloma egy emlékmű Zapopanban. Egy galambot ábrázoló szobor.",
+                  "category": "historical",
+                  "coords": [
+                        -103.388711,
+                        20.697743
+                  ]
+            },
+            {
+                  "name": "Chihuahua",
+                  "text": "A Chihuahua egy emlékmű Zapopanban. Egy csivavának szentelt szobor.",
+                  "category": "historical",
+                  "coords": [
+                        -103.389945,
+                        20.695941
+                  ]
+            },
+            {
+                  "name": "Basset hound",
+                  "text": "A Basset hound egy emlékmű Zapopanban. Ez a szobor egy basset hound kutyát ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        -103.390857,
+                        20.695397
+                  ]
+            },
+            {
+                  "name": "Barco",
+                  "text": "A Barco egy emlékmű Zapopanban. Egy hajó alakú művészi tárgy.",
+                  "category": "historical",
+                  "coords": [
+                        -103.394882,
+                        20.694087
+                  ]
+            },
+            {
+                  "name": "Monumento del Maíz",
+                  "text": "A Monumento del Maíz egy emlékmű Zapopanban. A kukorica régiónkban betöltött szerepét méltatja.",
+                  "category": "historical",
+                  "coords": [
+                        -103.383162,
+                        20.732803
+                  ]
+            },
+            {
+                  "name": "Letras Zapopan",
+                  "text": "A Letras Zapopan egy népszerű látványosság. A nagy betűk fotózási pontként szolgálnak a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.389871,
+                        20.721317
+                  ]
+            },
+            {
+                  "name": "Mirador Del Bosque Pedagógico del Agua (Colomos III)",
+                  "text": "A Mirador Del Bosque Pedagógico del Agua (Colomos III) panorámás kilátást nyújt a zapopani erdőre.",
+                  "category": "natural",
+                  "coords": [
+                        -103.408616,
+                        20.71961
+                  ]
+            },
+            {
+                  "name": "Cañada De La Tortuga",
+                  "text": "A Cañada De La Tortuga egy kilátópont Zapopanban. Szép kilátást nyújt a természetre.",
+                  "category": "natural",
+                  "coords": [
+                        -103.410459,
+                        20.722207
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Susurros",
+                  "text": "A Mirador De Los Susurros egy kilátópont Zapopanban. Nyugodt hely a pihenésre.",
+                  "category": "natural",
+                  "coords": [
+                        -103.409789,
+                        20.71972
+                  ]
+            },
+            {
+                  "name": "Mirador De Las Tempranillas",
+                  "text": "A Mirador De Las Tempranillas egy kilátópont Zapopanban. Kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -103.410759,
+                        20.71885
+                  ]
+            },
+            {
+                  "name": "Mirador Del Taray",
+                  "text": "A Mirador Del Taray egy kilátópont Zapopanban. Kiváló kilátást nyújt a helyi terepre.",
+                  "category": "natural",
+                  "coords": [
+                        -103.40865,
+                        20.71827
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Ahuehuetes",
+                  "text": "A Mirador De Los Ahuehuetes egy kilátópont Zapopanban. Az ottani Ahuehuete-fákról kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -103.411752,
+                        20.720187
+                  ]
+            },
+            {
+                  "name": "Monumento Al Escuadrón 201",
+                  "text": "A Monumento Al Escuadrón 201 egy emlékmű Zapopanban. A történelmi mexikói repülőszázadnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -103.39,
+                        20.729231
+                  ]
+            },
+            {
+                  "name": "Acueducto Gabriel Castaños",
+                  "text": "Az Acueducto Gabriel Castaños egy történelmi kilátópont Zapopanban. A régi vízi infrastruktúrát mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        -103.392925,
+                        20.695103
+                  ]
+            },
+            {
+                  "name": "Mirador JBBPDA 2",
+                  "text": "A Mirador JBBPDA 2 egy kilátópont Zapopanban. A JBBPDA megfigyelőpontok hálózatának része.",
+                  "category": "natural",
+                  "coords": [
+                        -103.414319,
+                        20.717125
+                  ]
+            },
+            {
+                  "name": "Mirador Del Riachuelo A",
+                  "text": "A Mirador Del Riachuelo A egy kilátópont Zapopanban. Egy kis patak mellett található.",
+                  "category": "natural",
+                  "coords": [
+                        -103.40112,
+                        20.70943
+                  ]
+            },
+            {
+                  "name": "La Roca Fotogénica A",
+                  "text": "A La Roca Fotogénica A egy kilátópont Zapopanban. Jellegzetes sziklaképződmény, ideális fotózáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -103.396861,
+                        20.708989
+                  ]
+            },
+            {
+                  "name": "Letras ZPN",
+                  "text": "A Letras ZPN egy látványosság Zapopanban. A rövidített betűk népszerű fotózási pontot jelentenek.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.407005,
+                        20.710008
+                  ]
+            },
+            {
+                  "name": "Mirador Del El Pinar",
+                  "text": "A Mirador Del El Pinar egy kilátópont Zapopanban. A fenyvesre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -103.399935,
+                        20.711109
+                  ]
+            },
+            {
+                  "name": "Monumento Aguas de Guadalajara 1903",
+                  "text": "A Monumento Aguas de Guadalajara 1903 egy történelmi kilátópont Zapopanban. A víz történetére emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -103.397826,
+                        20.708241
+                  ]
+            },
+            {
+                  "name": "Galerías De Agua",
+                  "text": "A Galerías De Agua egy kilátópont Zapopanban. Bepillantást nyújt a történelmi vízi galériákba.",
+                  "category": "natural",
+                  "coords": [
+                        -103.392471,
+                        20.70568
+                  ]
+            },
+            {
+                  "name": "San Pedro Apostol",
+                  "text": "A San Pedro Apostol egy vallási helyszín Zapopanban. Fontos templom a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -103.390808,
+                        20.722009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Auditorio Telmex",
+                  "text": "Auditorio Telmex din Zapopan este o locație importantă pentru evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381296,
+                        20.733298
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Zapopan",
+                  "text": "Museo de Arte de Zapopan este un muzeu de artă important din Zapopan. Găzduiește expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        -103.389812,
+                        20.720388
+                  ]
+            },
+            {
+                  "name": "El Grillo",
+                  "text": "El Grillo este un sit arheologic situat în Zapopan. Oferă o privire asupra istoriei prehispanice a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -103.369594,
+                        20.73354
+                  ]
+            },
+            {
+                  "name": "Calle 2",
+                  "text": "Calle 2 este un teatru din Zapopan. Este o locație pentru diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.376515,
+                        20.734986
+                  ]
+            },
+            {
+                  "name": "Parque Avila Camacho",
+                  "text": "Parque Avila Camacho este un parc tematic în Zapopan. Oferă facilități de divertisment pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.373752,
+                        20.712155
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico Huichol Wixárika",
+                  "text": "Muzeul Etnografic Huichol Wixárika din Zapopan este dedicat culturii poporului Huichol. Acesta conservă meșteșugurile lor tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        -103.392053,
+                        20.721709
+                  ]
+            },
+            {
+                  "name": "Zoologico Villa Fantasía",
+                  "text": "Zoologico Villa Fantasía este o grădină zoologică în Zapopan. Găzduiește diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.384404,
+                        20.722674
+                  ]
+            },
+            {
+                  "name": "Auditorio Central",
+                  "text": "Auditorio Central este un teatru din Zapopan. Acesta servește ca locație pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.380751,
+                        20.741605
+                  ]
+            },
+            {
+                  "name": "Ágora Jenkins",
+                  "text": "Ágora Jenkins este un teatru din Zapopan. Este un loc destinat spectacolelor publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381026,
+                        20.737253
+                  ]
+            },
+            {
+                  "name": "Sala 2",
+                  "text": "Sala 2 este un teatru din Zapopan. Este utilizată pentru diverse reprezentații artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.382035,
+                        20.736454
+                  ]
+            },
+            {
+                  "name": "Teatro Estudio Cavaret",
+                  "text": "Teatro Estudio Cavaret este un teatru din Zapopan. Este cunoscut pentru programele sale scenice diverse.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.378299,
+                        20.736808
+                  ]
+            },
+            {
+                  "name": "Foro Cometa",
+                  "text": "Foro Cometa este un teatru din Zapopan. Este un loc pentru întâlniri culturale și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.384169,
+                        20.727636
+                  ]
+            },
+            {
+                  "name": "Condición Suspendida",
+                  "text": "Condición Suspendida este un monument în Zapopan. Este o operă de artă publică remarcabilă.",
+                  "category": "historical",
+                  "coords": [
+                        -103.387371,
+                        20.720036
+                  ]
+            },
+            {
+                  "name": "Plaza de las Américas (Juan Pablo II)",
+                  "text": "Plaza de las Américas (Juan Pablo II) este un parc în Zapopan. Un loc popular pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        -103.391049,
+                        20.72108
+                  ]
+            },
+            {
+                  "name": "Conejo",
+                  "text": "Conejo este un monument în Zapopan. Reprezintă o interpretare artistică a unui iepure.",
+                  "category": "historical",
+                  "coords": [
+                        -103.383744,
+                        20.702292
+                  ]
+            },
+            {
+                  "name": "Paloma",
+                  "text": "Paloma este un monument în Zapopan. Este o sculptură care amintește de un porumbel.",
+                  "category": "historical",
+                  "coords": [
+                        -103.388711,
+                        20.697743
+                  ]
+            },
+            {
+                  "name": "Chihuahua",
+                  "text": "Chihuahua este un monument în Zapopan. Este o sculptură dedicată unui chihuahua.",
+                  "category": "historical",
+                  "coords": [
+                        -103.389945,
+                        20.695941
+                  ]
+            },
+            {
+                  "name": "Basset hound",
+                  "text": "Basset hound este un monument în Zapopan. Această sculptură înfățișează un basset hound.",
+                  "category": "historical",
+                  "coords": [
+                        -103.390857,
+                        20.695397
+                  ]
+            },
+            {
+                  "name": "Barco",
+                  "text": "Barco este un monument în Zapopan. Este un obiect artistic în formă de barcă.",
+                  "category": "historical",
+                  "coords": [
+                        -103.394882,
+                        20.694087
+                  ]
+            },
+            {
+                  "name": "Monumento del Maíz",
+                  "text": "Monumento del Maíz este un monument în Zapopan. Acesta onorează importanța porumbului pentru regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -103.383162,
+                        20.732803
+                  ]
+            },
+            {
+                  "name": "Letras Zapopan",
+                  "text": "Letras Zapopan este o atracție populară. Literele mari servesc drept punct foto în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.389871,
+                        20.721317
+                  ]
+            },
+            {
+                  "name": "Mirador Del Bosque Pedagógico del Agua (Colomos III)",
+                  "text": "Mirador Del Bosque Pedagógico del Agua (Colomos III) oferă o vedere panoramică asupra zonei împădurite din Zapopan.",
+                  "category": "natural",
+                  "coords": [
+                        -103.408616,
+                        20.71961
+                  ]
+            },
+            {
+                  "name": "Cañada De La Tortuga",
+                  "text": "Cañada De La Tortuga este un punct de observare în Zapopan. Oferă o vedere frumoasă asupra naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -103.410459,
+                        20.722207
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Susurros",
+                  "text": "Mirador De Los Susurros este un punct de observare în Zapopan. Este un loc liniștit pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -103.409789,
+                        20.71972
+                  ]
+            },
+            {
+                  "name": "Mirador De Las Tempranillas",
+                  "text": "Mirador De Las Tempranillas este un punct de observare în Zapopan. Oferă priveliști asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -103.410759,
+                        20.71885
+                  ]
+            },
+            {
+                  "name": "Mirador Del Taray",
+                  "text": "Mirador Del Taray este un punct de observare în Zapopan. Oferă o vedere excelentă asupra terenului local.",
+                  "category": "natural",
+                  "coords": [
+                        -103.40865,
+                        20.71827
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Ahuehuetes",
+                  "text": "Mirador De Los Ahuehuetes este un punct de observare în Zapopan. Numit după copacii Ahuehuete de acolo.",
+                  "category": "natural",
+                  "coords": [
+                        -103.411752,
+                        20.720187
+                  ]
+            },
+            {
+                  "name": "Monumento Al Escuadrón 201",
+                  "text": "Monumento Al Escuadrón 201 este un monument în Zapopan. Comemorează istorica escadrilă aeriană mexicană.",
+                  "category": "historical",
+                  "coords": [
+                        -103.39,
+                        20.729231
+                  ]
+            },
+            {
+                  "name": "Acueducto Gabriel Castaños",
+                  "text": "Acueducto Gabriel Castaños este un punct de observare istoric din Zapopan. Acesta mărturisește vechea infrastructură de apă.",
+                  "category": "natural",
+                  "coords": [
+                        -103.392925,
+                        20.695103
+                  ]
+            },
+            {
+                  "name": "Mirador JBBPDA 2",
+                  "text": "Mirador JBBPDA 2 este un punct de observare în Zapopan. Face parte din rețeaua de puncte de observare JBBPDA.",
+                  "category": "natural",
+                  "coords": [
+                        -103.414319,
+                        20.717125
+                  ]
+            },
+            {
+                  "name": "Mirador Del Riachuelo A",
+                  "text": "Mirador Del Riachuelo A este un punct de observare în Zapopan. Este situat lângă un pârâu mic.",
+                  "category": "natural",
+                  "coords": [
+                        -103.40112,
+                        20.70943
+                  ]
+            },
+            {
+                  "name": "La Roca Fotogénica A",
+                  "text": "La Roca Fotogénica A este un punct de observare în Zapopan. O formațiune stâncoasă distinctivă, ideală pentru fotografii.",
+                  "category": "natural",
+                  "coords": [
+                        -103.396861,
+                        20.708989
+                  ]
+            },
+            {
+                  "name": "Letras ZPN",
+                  "text": "Letras ZPN este o atracție în Zapopan. Literele abreviate oferă un motiv foto popular.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.407005,
+                        20.710008
+                  ]
+            },
+            {
+                  "name": "Mirador Del El Pinar",
+                  "text": "Mirador Del El Pinar este un punct de observare în Zapopan. Oferă vedere asupra zonei cu pini.",
+                  "category": "natural",
+                  "coords": [
+                        -103.399935,
+                        20.711109
+                  ]
+            },
+            {
+                  "name": "Monumento Aguas de Guadalajara 1903",
+                  "text": "Monumento Aguas de Guadalajara 1903 este un punct de observare istoric din Zapopan. Comemorează istoria apei.",
+                  "category": "natural",
+                  "coords": [
+                        -103.397826,
+                        20.708241
+                  ]
+            },
+            {
+                  "name": "Galerías De Agua",
+                  "text": "Galerías De Agua este un punct de observare în Zapopan. Oferă o privire asupra galeriilor istorice de apă.",
+                  "category": "natural",
+                  "coords": [
+                        -103.392471,
+                        20.70568
+                  ]
+            },
+            {
+                  "name": "San Pedro Apostol",
+                  "text": "San Pedro Apostol este un loc religios din Zapopan. O biserică importantă pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -103.390808,
+                        20.722009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Auditorio Telmex",
+                  "text": "Auditorio Telmex in Zapopan is an important venue for events.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381296,
+                        20.733298
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Zapopan",
+                  "text": "Museo de Arte de Zapopan is a prominent art museum in Zapopan. It features contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -103.389812,
+                        20.720388
+                  ]
+            },
+            {
+                  "name": "El Grillo",
+                  "text": "El Grillo is an archaeological site in Zapopan. It offers insights into the pre-Hispanic history of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -103.369594,
+                        20.73354
+                  ]
+            },
+            {
+                  "name": "Calle 2",
+                  "text": "Calle 2 is a theatre in Zapopan. It is a venue for various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.376515,
+                        20.734986
+                  ]
+            },
+            {
+                  "name": "Parque Avila Camacho",
+                  "text": "Parque Avila Camacho is a theme park in Zapopan. It offers entertainment options for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.373752,
+                        20.712155
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico Huichol Wixárika",
+                  "text": "The Museo Etnografico Huichol Wixárika in Zapopan is dedicated to the culture of the Huichol people. It preserves their traditional crafts.",
+                  "category": "museum",
+                  "coords": [
+                        -103.392053,
+                        20.721709
+                  ]
+            },
+            {
+                  "name": "Zoologico Villa Fantasía",
+                  "text": "Zoologico Villa Fantasía is a zoo in Zapopan. It provides a home to various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.384404,
+                        20.722674
+                  ]
+            },
+            {
+                  "name": "Auditorio Central",
+                  "text": "Auditorio Central is a theatre in Zapopan. It serves as a venue for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.380751,
+                        20.741605
+                  ]
+            },
+            {
+                  "name": "Ágora Jenkins",
+                  "text": "Ágora Jenkins is a theatre in Zapopan. It is a venue for public performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381026,
+                        20.737253
+                  ]
+            },
+            {
+                  "name": "Sala 2",
+                  "text": "Sala 2 is a theatre in Zapopan. It is used for various artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.382035,
+                        20.736454
+                  ]
+            },
+            {
+                  "name": "Teatro Estudio Cavaret",
+                  "text": "Teatro Estudio Cavaret is a theatre in Zapopan. It is known for its diverse stage programs.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.378299,
+                        20.736808
+                  ]
+            },
+            {
+                  "name": "Foro Cometa",
+                  "text": "Foro Cometa is a theatre in Zapopan. It is a venue for cultural gatherings and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.384169,
+                        20.727636
+                  ]
+            },
+            {
+                  "name": "Condición Suspendida",
+                  "text": "Condición Suspendida is a monument in Zapopan. It is a distinctive piece of public art.",
+                  "category": "historical",
+                  "coords": [
+                        -103.387371,
+                        20.720036
+                  ]
+            },
+            {
+                  "name": "Plaza de las Américas (Juan Pablo II)",
+                  "text": "Plaza de las Américas (Juan Pablo II) is a park in Zapopan. A popular place for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        -103.391049,
+                        20.72108
+                  ]
+            },
+            {
+                  "name": "Conejo",
+                  "text": "Conejo is a monument in Zapopan. It represents an artistic interpretation of a rabbit.",
+                  "category": "historical",
+                  "coords": [
+                        -103.383744,
+                        20.702292
+                  ]
+            },
+            {
+                  "name": "Paloma",
+                  "text": "Paloma is a monument in Zapopan. It is a sculpture reminiscent of a dove.",
+                  "category": "historical",
+                  "coords": [
+                        -103.388711,
+                        20.697743
+                  ]
+            },
+            {
+                  "name": "Chihuahua",
+                  "text": "Chihuahua is a monument in Zapopan. It is a sculpture dedicated to a chihuahua.",
+                  "category": "historical",
+                  "coords": [
+                        -103.389945,
+                        20.695941
+                  ]
+            },
+            {
+                  "name": "Basset hound",
+                  "text": "Basset hound is a monument in Zapopan. This sculpture depicts a basset hound.",
+                  "category": "historical",
+                  "coords": [
+                        -103.390857,
+                        20.695397
+                  ]
+            },
+            {
+                  "name": "Barco",
+                  "text": "Barco is a monument in Zapopan. It is an artistic object in the shape of a boat.",
+                  "category": "historical",
+                  "coords": [
+                        -103.394882,
+                        20.694087
+                  ]
+            },
+            {
+                  "name": "Monumento del Maíz",
+                  "text": "Monumento del Maíz is a monument in Zapopan. It honors the importance of corn to the region.",
+                  "category": "historical",
+                  "coords": [
+                        -103.383162,
+                        20.732803
+                  ]
+            },
+            {
+                  "name": "Letras Zapopan",
+                  "text": "Letras Zapopan is a popular attraction. The large letters serve as a photo opportunity in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.389871,
+                        20.721317
+                  ]
+            },
+            {
+                  "name": "Mirador Del Bosque Pedagógico del Agua (Colomos III)",
+                  "text": "Mirador Del Bosque Pedagógico del Agua (Colomos III) offers a panoramic view over the forest area in Zapopan.",
+                  "category": "natural",
+                  "coords": [
+                        -103.408616,
+                        20.71961
+                  ]
+            },
+            {
+                  "name": "Cañada De La Tortuga",
+                  "text": "Cañada De La Tortuga is a viewpoint in Zapopan. It offers a beautiful view of nature.",
+                  "category": "natural",
+                  "coords": [
+                        -103.410459,
+                        20.722207
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Susurros",
+                  "text": "Mirador De Los Susurros is a viewpoint in Zapopan. It is a quiet place to relax.",
+                  "category": "natural",
+                  "coords": [
+                        -103.409789,
+                        20.71972
+                  ]
+            },
+            {
+                  "name": "Mirador De Las Tempranillas",
+                  "text": "Mirador De Las Tempranillas is a viewpoint in Zapopan. It offers views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -103.410759,
+                        20.71885
+                  ]
+            },
+            {
+                  "name": "Mirador Del Taray",
+                  "text": "Mirador Del Taray is a viewpoint in Zapopan. It offers an excellent view of the local terrain.",
+                  "category": "natural",
+                  "coords": [
+                        -103.40865,
+                        20.71827
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Ahuehuetes",
+                  "text": "Mirador De Los Ahuehuetes is a viewpoint in Zapopan. Named after the Ahuehuete trees there.",
+                  "category": "natural",
+                  "coords": [
+                        -103.411752,
+                        20.720187
+                  ]
+            },
+            {
+                  "name": "Monumento Al Escuadrón 201",
+                  "text": "Monumento Al Escuadrón 201 is a monument in Zapopan. It commemorates the historic Mexican air squadron.",
+                  "category": "historical",
+                  "coords": [
+                        -103.39,
+                        20.729231
+                  ]
+            },
+            {
+                  "name": "Acueducto Gabriel Castaños",
+                  "text": "Acueducto Gabriel Castaños is a historical viewpoint in Zapopan. It testifies to the old water infrastructure.",
+                  "category": "natural",
+                  "coords": [
+                        -103.392925,
+                        20.695103
+                  ]
+            },
+            {
+                  "name": "Mirador JBBPDA 2",
+                  "text": "Mirador JBBPDA 2 is a viewpoint in Zapopan. It is part of the network of JBBPDA observation points.",
+                  "category": "natural",
+                  "coords": [
+                        -103.414319,
+                        20.717125
+                  ]
+            },
+            {
+                  "name": "Mirador Del Riachuelo A",
+                  "text": "Mirador Del Riachuelo A is a viewpoint in Zapopan. It is located near a small stream.",
+                  "category": "natural",
+                  "coords": [
+                        -103.40112,
+                        20.70943
+                  ]
+            },
+            {
+                  "name": "La Roca Fotogénica A",
+                  "text": "La Roca Fotogénica A is a viewpoint in Zapopan. A distinctive rock formation, ideal for photos.",
+                  "category": "natural",
+                  "coords": [
+                        -103.396861,
+                        20.708989
+                  ]
+            },
+            {
+                  "name": "Letras ZPN",
+                  "text": "Letras ZPN is an attraction in Zapopan. The abbreviated letters offer a popular photo motif.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.407005,
+                        20.710008
+                  ]
+            },
+            {
+                  "name": "Mirador Del El Pinar",
+                  "text": "Mirador Del El Pinar is a viewpoint in Zapopan. It overlooks the pine area.",
+                  "category": "natural",
+                  "coords": [
+                        -103.399935,
+                        20.711109
+                  ]
+            },
+            {
+                  "name": "Monumento Aguas de Guadalajara 1903",
+                  "text": "Monumento Aguas de Guadalajara 1903 is a historical viewpoint in Zapopan. It commemorates the history of water.",
+                  "category": "natural",
+                  "coords": [
+                        -103.397826,
+                        20.708241
+                  ]
+            },
+            {
+                  "name": "Galerías De Agua",
+                  "text": "Galerías De Agua is a viewpoint in Zapopan. It offers an insight into the historical water galleries.",
+                  "category": "natural",
+                  "coords": [
+                        -103.392471,
+                        20.70568
+                  ]
+            },
+            {
+                  "name": "San Pedro Apostol",
+                  "text": "San Pedro Apostol is a place of worship in Zapopan. An important church for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -103.390808,
+                        20.722009
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-JAL",
     coords: [-103.3918, 20.7202],
@@ -153,7 +3573,304 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["La Romería de Zapopan attire chaque année plus d'un million de pèlerins.", "Zapopan est connue comme le centre religieux le plus important de l'ouest du Mexique.", "La ville abrite plusieurs universités et instituts de recherche renommés."],
     }, image: "/poi-images/zapopan-cities-v2.webp"},
   {
-    id: "nezahualcoyotl-cities-v2",
+    id: "nezahualcoyotl-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque del pueblo",
+                  "text": "Der Parque del pueblo ist ein Zoo und öffentlicher Park in Nezahualcóyotl.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.004753,
+                        19.394449
+                  ]
+            },
+            {
+                  "name": "Balneario Elba",
+                  "text": "Das Balneario Elba ist ein Wasserpark mit Freizeitangeboten in Nezahualcóyotl.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.02517,
+                        19.378208
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "Sor Juana Ines de la Cruz ist ein historisches Denkmal in Nezahualcóyotl.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014713,
+                        19.405658
+                  ]
+            },
+            {
+                  "name": "EL PULPO ACUATICO",
+                  "text": "EL PULPO ACUATICO ist eine Wasserattraktion in Nezahualcóyotl.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.034013,
+                        19.402114
+                  ]
+            },
+            {
+                  "name": "Irving Alvarez",
+                  "text": "Irving Alvarez ist ein lokales Denkmal in Nezahualcóyotl.",
+                  "category": "historical",
+                  "coords": [
+                        -99.020972,
+                        19.387432
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"El Castillito\"",
+                  "text": "Das Centro Cultural \"El Castillito\" ist ein Kunstzentrum in der Stadt Nezahualcóyotl.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.009774,
+                        19.403373
+                  ]
+            },
+            {
+                  "name": "Marbet",
+                  "text": "Marbet ist ein Kunstzentrum in Nezahualcóyotl.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016664,
+                        19.413906
+                  ]
+            },
+            {
+                  "name": "Auditorio la Salle",
+                  "text": "Das Auditorio la Salle dient als Kunstzentrum in Nezahualcóyotl.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016317,
+                        19.422449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque del pueblo",
+                  "text": "A Parque del pueblo egy állatkert és nyilvános park Nezahualcóyotl városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.004753,
+                        19.394449
+                  ]
+            },
+            {
+                  "name": "Balneario Elba",
+                  "text": "A Balneario Elba egy rekreációs létesítményeket kínáló vízi park Nezahualcóyotl-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.02517,
+                        19.378208
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "A Sor Juana Ines de la Cruz egy történelmi emlékmű Nezahualcóyotl-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014713,
+                        19.405658
+                  ]
+            },
+            {
+                  "name": "EL PULPO ACUATICO",
+                  "text": "Az EL PULPO ACUATICO egy vízi látványosság Nezahualcóyotl-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.034013,
+                        19.402114
+                  ]
+            },
+            {
+                  "name": "Irving Alvarez",
+                  "text": "Az Irving Alvarez egy helyi emlékmű Nezahualcóyotl városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.020972,
+                        19.387432
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"El Castillito\"",
+                  "text": "A Centro Cultural \"El Castillito\" egy művészeti központ Nezahualcóyotl városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.009774,
+                        19.403373
+                  ]
+            },
+            {
+                  "name": "Marbet",
+                  "text": "A Marbet egy művészeti központ Nezahualcóyotlban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016664,
+                        19.413906
+                  ]
+            },
+            {
+                  "name": "Auditorio la Salle",
+                  "text": "Az Auditorio la Salle művészeti központként működik Nezahualcóyotl városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016317,
+                        19.422449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque del pueblo",
+                  "text": "Parque del pueblo este o grădină zoologică și un parc public în Nezahualcóyotl.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.004753,
+                        19.394449
+                  ]
+            },
+            {
+                  "name": "Balneario Elba",
+                  "text": "Balneario Elba este un parc acvatic care oferă facilități de recreere în Nezahualcóyotl.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.02517,
+                        19.378208
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "Sor Juana Ines de la Cruz este un monument istoric situat în Nezahualcóyotl.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014713,
+                        19.405658
+                  ]
+            },
+            {
+                  "name": "EL PULPO ACUATICO",
+                  "text": "EL PULPO ACUATICO este o atracție acvatică situată în Nezahualcóyotl.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.034013,
+                        19.402114
+                  ]
+            },
+            {
+                  "name": "Irving Alvarez",
+                  "text": "Irving Alvarez este un monument local în Nezahualcóyotl.",
+                  "category": "historical",
+                  "coords": [
+                        -99.020972,
+                        19.387432
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"El Castillito\"",
+                  "text": "Centro Cultural \"El Castillito\" este un centru de arte situat în orașul Nezahualcóyotl.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.009774,
+                        19.403373
+                  ]
+            },
+            {
+                  "name": "Marbet",
+                  "text": "Marbet este un centru de arte situat în Nezahualcóyotl.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016664,
+                        19.413906
+                  ]
+            },
+            {
+                  "name": "Auditorio la Salle",
+                  "text": "Auditorio la Salle este un centru de arte în Nezahualcóyotl.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016317,
+                        19.422449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque del pueblo",
+                  "text": "Parque del pueblo is a zoo and public park situated in Nezahualcóyotl.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.004753,
+                        19.394449
+                  ]
+            },
+            {
+                  "name": "Balneario Elba",
+                  "text": "Balneario Elba is a water park offering recreational facilities in Nezahualcóyotl.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.02517,
+                        19.378208
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "Sor Juana Ines de la Cruz is a historical monument located in Nezahualcóyotl.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014713,
+                        19.405658
+                  ]
+            },
+            {
+                  "name": "EL PULPO ACUATICO",
+                  "text": "EL PULPO ACUATICO is an aquatic attraction situated in Nezahualcóyotl.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.034013,
+                        19.402114
+                  ]
+            },
+            {
+                  "name": "Irving Alvarez",
+                  "text": "Irving Alvarez is a local monument situated in Nezahualcóyotl.",
+                  "category": "historical",
+                  "coords": [
+                        -99.020972,
+                        19.387432
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"El Castillito\"",
+                  "text": "Centro Cultural \"El Castillito\" is an arts centre located in the city of Nezahualcóyotl.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.009774,
+                        19.403373
+                  ]
+            },
+            {
+                  "name": "Marbet",
+                  "text": "Marbet is an arts centre situated in Nezahualcóyotl.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016664,
+                        19.413906
+                  ]
+            },
+            {
+                  "name": "Auditorio la Salle",
+                  "text": "Auditorio la Salle serves as an arts centre in Nezahualcóyotl.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016317,
+                        19.422449
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-MEX",
     coords: [-99.0181, 19.4031],
@@ -201,7 +3918,232 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       en: ["Mérida was founded in 1542 on the site of the Mayan city of Ichkanzihóo.", "The city serves as the capital of the state of Yucatán in southeastern Mexico.", "Mérida is consistently ranked as the safest city in Mexico and the second safest in North America.", "The San Ildefonso Cathedral was completed in 1598, using stones from Mayan temples.", "The henequen boom in the late 1800s funded the city's grandest architectural projects.", "Mérida is located 22 miles (35 km) from the port of Progreso on the Gulf of Mexico.", "The city's nickname 'La Ciudad Blanca' refers to the prevalence of white limestone architecture.", "Mérida's 'Bici-Ruta' event closes major streets on Sundays for thousands of cyclists."],
     }, image: "/poi-images/merida-cities-v2.webp"},
   {
-    id: "cancun-cities-v2",
+    id: "cancun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Lima Museo Parque",
+                  "text": "Casa Lima Museo Parque ist ein Museum in Cancún.",
+                  "category": "museum",
+                  "coords": [
+                        -86.836964,
+                        21.142204
+                  ]
+            },
+            {
+                  "name": "Teatro 8 de octubre",
+                  "text": "Teatro 8 de octubre ist ein Theater in Cancún.",
+                  "category": "cultural",
+                  "coords": [
+                        -86.827093,
+                        21.169586
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Kabah",
+                  "text": "Parque Ecológico Kabah ist ein Naturschutzgebiet in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.839095,
+                        21.144669
+                  ]
+            },
+            {
+                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
+                  "text": "Caracoles y Estrellas de Mar (El Ceviche) ist eine Sehenswürdigkeit in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.825296,
+                        21.156963
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre ist ein Denkmal in Cancún.",
+                  "category": "historical",
+                  "coords": [
+                        -86.829074,
+                        21.158166
+                  ]
+            },
+            {
+                  "name": "clips",
+                  "text": "clips ist eine Sehenswürdigkeit in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.832153,
+                        21.162086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Lima Museo Parque",
+                  "text": "A Casa Lima Museo Parque egy múzeum Cancún városában.",
+                  "category": "museum",
+                  "coords": [
+                        -86.836964,
+                        21.142204
+                  ]
+            },
+            {
+                  "name": "Teatro 8 de octubre",
+                  "text": "A Teatro 8 de octubre egy színház Cancún városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -86.827093,
+                        21.169586
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Kabah",
+                  "text": "A Parque Ecológico Kabah egy természetvédelmi terület Cancún városában.",
+                  "category": "natural",
+                  "coords": [
+                        -86.839095,
+                        21.144669
+                  ]
+            },
+            {
+                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
+                  "text": "A Caracoles y Estrellas de Mar (El Ceviche) egy látványosság Cancún városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.825296,
+                        21.156963
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "A Monumento a la Madre egy emlékmű Cancún városában.",
+                  "category": "historical",
+                  "coords": [
+                        -86.829074,
+                        21.158166
+                  ]
+            },
+            {
+                  "name": "clips",
+                  "text": "A clips egy látványosság Cancún városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.832153,
+                        21.162086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Lima Museo Parque",
+                  "text": "Casa Lima Museo Parque este un muzeu situat în Cancún.",
+                  "category": "museum",
+                  "coords": [
+                        -86.836964,
+                        21.142204
+                  ]
+            },
+            {
+                  "name": "Teatro 8 de octubre",
+                  "text": "Teatro 8 de octubre este un teatru situat în Cancún.",
+                  "category": "cultural",
+                  "coords": [
+                        -86.827093,
+                        21.169586
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Kabah",
+                  "text": "Parque Ecológico Kabah este o rezervație naturală situată în Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.839095,
+                        21.144669
+                  ]
+            },
+            {
+                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
+                  "text": "Caracoles y Estrellas de Mar (El Ceviche) este o atracție situată în Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.825296,
+                        21.156963
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre este un monument situat în Cancún.",
+                  "category": "historical",
+                  "coords": [
+                        -86.829074,
+                        21.158166
+                  ]
+            },
+            {
+                  "name": "clips",
+                  "text": "clips este o atracție situată în Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.832153,
+                        21.162086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Lima Museo Parque",
+                  "text": "Casa Lima Museo Parque is a museum located in Cancún.",
+                  "category": "museum",
+                  "coords": [
+                        -86.836964,
+                        21.142204
+                  ]
+            },
+            {
+                  "name": "Teatro 8 de octubre",
+                  "text": "Teatro 8 de octubre is a theatre located in Cancún.",
+                  "category": "cultural",
+                  "coords": [
+                        -86.827093,
+                        21.169586
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Kabah",
+                  "text": "Parque Ecológico Kabah is a nature reserve located in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.839095,
+                        21.144669
+                  ]
+            },
+            {
+                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
+                  "text": "Caracoles y Estrellas de Mar (El Ceviche) is an attraction located in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.825296,
+                        21.156963
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre is a monument located in Cancún.",
+                  "category": "historical",
+                  "coords": [
+                        -86.829074,
+                        21.158166
+                  ]
+            },
+            {
+                  "name": "clips",
+                  "text": "clips is an attraction located in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.832153,
+                        21.162086
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-ROO",
     coords: [-86.8515, 21.1619],
@@ -354,7 +4296,556 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       en: ["Culiacán was officially founded on September 29, 1531, by Nuño de Guzmán.", "The city is a top global exporter of winter vegetables, particularly tomatoes.", "Culiacán’s Botanical Garden is ranked among the best in the world for tropical species.", "The Tomateros de Culiacán baseball team has won multiple Caribbean Series titles.", "The city sits at the merging point of the Humaya and Tamazula rivers.", "Federal de Bachigualato International Airport is the main air hub for the state.", "The Sinaloa Science Center features the fifth-largest meteorite ever found on Earth.", "The MASIN museum is housed in a neoclassical building dating back to the 1830s."],
     }, image: "/poi-images/culiacan-cities-v2.webp"},
   {
-    id: "acapulco-cities-v2",
+    id: "acapulco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Histórico de Acapulco Fuerte de San Diego",
+                  "text": "Das Museo Histórico de Acapulco Fuerte de San Diego ist ein bedeutendes Museum in Acapulco. Es befindet sich in einer historischen Festung.",
+                  "category": "museum",
+                  "coords": [
+                        -99.902381,
+                        16.85015
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Das Teatro ist ein Veranstaltungsort für Aufführungen in Acapulco. Es dient der lokalen Kulturpflege.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.908892,
+                        16.848693
+                  ]
+            },
+            {
+                  "name": "Playa Tamarindos",
+                  "text": "Playa Tamarindos ist ein bekannter Strand in Acapulco. Er bietet Erholung und einen schönen Blick auf die Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.894709,
+                        16.855614
+                  ]
+            },
+            {
+                  "name": "Playa Las Hamacas",
+                  "text": "Playa Las Hamacas ist ein Strand in Acapulco. Ein entspannter Ort für Besucher am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.899191,
+                        16.853203
+                  ]
+            },
+            {
+                  "name": "Playa Icacos",
+                  "text": "Playa Icacos ist ein beliebter Strand in Acapulco. Bekannt für seine Weitläufigkeit und Wassersportmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.857635,
+                        16.845225
+                  ]
+            },
+            {
+                  "name": "Playa Tlacopanocha",
+                  "text": "Playa Tlacopanocha ist ein Strand in Acapulco. Er zeichnet sich durch ruhiges Wasser aus.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.907688,
+                        16.845175
+                  ]
+            },
+            {
+                  "name": "Playa Hornos",
+                  "text": "Playa Hornos ist ein Strand in Acapulco. Er bietet einen klassischen Zugang zur Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.889989,
+                        16.857274
+                  ]
+            },
+            {
+                  "name": "Playa Papagayo",
+                  "text": "Playa Papagayo ist ein belebter Strand in Acapulco. Ein Zentrum für touristische Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.880485,
+                        16.858874
+                  ]
+            },
+            {
+                  "name": "Playa El Morro",
+                  "text": "Playa El Morro ist ein Strand in Acapulco. Ein beliebter Treffpunkt für Sonnenanbeter.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.873276,
+                        16.857964
+                  ]
+            },
+            {
+                  "name": "Playa Condesa",
+                  "text": "Playa Condesa ist ein bekannter Strand in Acapulco. Bekannt für sein lebhaftes Nachtleben und die Strandclubs.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.868746,
+                        16.856672
+                  ]
+            },
+            {
+                  "name": "Museo de las 7 regiones",
+                  "text": "Das Museo de las 7 regiones in Acapulco zeigt die kulturelle Vielfalt der Region. Es präsentiert lokale Traditionen und Handwerk.",
+                  "category": "museum",
+                  "coords": [
+                        -99.903922,
+                        16.849847
+                  ]
+            },
+            {
+                  "name": "Playa La Aguada",
+                  "text": "Playa La Aguada ist ein beliebter Strand in Acapulco.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.901042,
+                        16.839433
+                  ]
+            },
+            {
+                  "name": "Mirador de la Bahía",
+                  "text": "Der Mirador de la Bahía bietet einen Ausblick über Acapulco.",
+                  "category": "natural",
+                  "coords": [
+                        -99.897847,
+                        16.854412
+                  ]
+            },
+            {
+                  "name": "zona arquelogica de Palma Sola",
+                  "text": "Die archäologische Zone Palma Sola zeigt historische Stätten in Acapulco.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.90125,
+                        16.886304
+                  ]
+            },
+            {
+                  "name": "Monumento José María Morelos y Pavón",
+                  "text": "Das Monumento José María Morelos y Pavón ist ein Denkmal in Acapulco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.901086,
+                        16.851899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Histórico de Acapulco Fuerte de San Diego",
+                  "text": "A Museo Histórico de Acapulco Fuerte de San Diego egy jelentős múzeum Acapulcóban. Egy történelmi erődben található.",
+                  "category": "museum",
+                  "coords": [
+                        -99.902381,
+                        16.85015
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "A Teatro egy előadóhely Acapulcóban. A helyi kultúra ápolását szolgálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.908892,
+                        16.848693
+                  ]
+            },
+            {
+                  "name": "Playa Tamarindos",
+                  "text": "A Playa Tamarindos egy jól ismert strand Acapulcóban. Pihenést és szép kilátást nyújt az öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.894709,
+                        16.855614
+                  ]
+            },
+            {
+                  "name": "Playa Las Hamacas",
+                  "text": "A Playa Las Hamacas egy strand Acapulcóban. Nyugodt hely a tengerparti látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.899191,
+                        16.853203
+                  ]
+            },
+            {
+                  "name": "Playa Icacos",
+                  "text": "A Playa Icacos egy népszerű strand Acapulcóban. Hosszúságáról és vízi sportolási lehetőségeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.857635,
+                        16.845225
+                  ]
+            },
+            {
+                  "name": "Playa Tlacopanocha",
+                  "text": "A Playa Tlacopanocha egy strand Acapulcóban. Nyugodt vizéről nevezetes.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.907688,
+                        16.845175
+                  ]
+            },
+            {
+                  "name": "Playa Hornos",
+                  "text": "A Playa Hornos egy strand Acapulcóban. Klasszikus bejutást biztosít az öbölhöz.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.889989,
+                        16.857274
+                  ]
+            },
+            {
+                  "name": "Playa Papagayo",
+                  "text": "A Playa Papagayo egy nyüzsgő strand Acapulcóban. A turisztikai tevékenységek központja.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.880485,
+                        16.858874
+                  ]
+            },
+            {
+                  "name": "Playa El Morro",
+                  "text": "A Playa El Morro egy strand Acapulcóban. A napimádók népszerű találkozóhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.873276,
+                        16.857964
+                  ]
+            },
+            {
+                  "name": "Playa Condesa",
+                  "text": "A Playa Condesa egy neves strand Acapulcóban. Élénk éjszakai életéről és strandklubjairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.868746,
+                        16.856672
+                  ]
+            },
+            {
+                  "name": "Museo de las 7 regiones",
+                  "text": "Az acapulcói Museo de las 7 regiones a régió kulturális sokszínűségét mutatja be. Helyi hagyományokat és kézművességet állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -99.903922,
+                        16.849847
+                  ]
+            },
+            {
+                  "name": "Playa La Aguada",
+                  "text": "A Playa La Aguada egy népszerű strand Acapulcóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.901042,
+                        16.839433
+                  ]
+            },
+            {
+                  "name": "Mirador de la Bahía",
+                  "text": "A Mirador de la Bahía kilátást nyújt Acapulcóra.",
+                  "category": "natural",
+                  "coords": [
+                        -99.897847,
+                        16.854412
+                  ]
+            },
+            {
+                  "name": "zona arquelogica de Palma Sola",
+                  "text": "A Palma Sola régészeti zóna történelmi helyszíneket mutat be Acapulcóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.90125,
+                        16.886304
+                  ]
+            },
+            {
+                  "name": "Monumento José María Morelos y Pavón",
+                  "text": "A Monumento José María Morelos y Pavón egy emlékmű Acapulcóban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.901086,
+                        16.851899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Histórico de Acapulco Fuerte de San Diego",
+                  "text": "Museo Histórico de Acapulco Fuerte de San Diego este un muzeu important din Acapulco. Este situat într-o fortăreață istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -99.902381,
+                        16.85015
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Teatro este o locație pentru spectacole în Acapulco. Servește la cultivarea culturii locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.908892,
+                        16.848693
+                  ]
+            },
+            {
+                  "name": "Playa Tamarindos",
+                  "text": "Playa Tamarindos este o plajă cunoscută în Acapulco. Oferă relaxare și o vedere frumoasă asupra golfului.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.894709,
+                        16.855614
+                  ]
+            },
+            {
+                  "name": "Playa Las Hamacas",
+                  "text": "Playa Las Hamacas este o plajă în Acapulco. Un loc relaxant pentru vizitatorii de la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.899191,
+                        16.853203
+                  ]
+            },
+            {
+                  "name": "Playa Icacos",
+                  "text": "Playa Icacos este o plajă populară în Acapulco. Cunoscută pentru întinderea sa și oportunitățile de sporturi acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.857635,
+                        16.845225
+                  ]
+            },
+            {
+                  "name": "Playa Tlacopanocha",
+                  "text": "Playa Tlacopanocha este o plajă în Acapulco. Se remarcă prin apele sale calme.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.907688,
+                        16.845175
+                  ]
+            },
+            {
+                  "name": "Playa Hornos",
+                  "text": "Playa Hornos este o plajă în Acapulco. Oferă un acces clasic la golf.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.889989,
+                        16.857274
+                  ]
+            },
+            {
+                  "name": "Playa Papagayo",
+                  "text": "Playa Papagayo este o plajă animată în Acapulco. Un centru pentru activități turistice.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.880485,
+                        16.858874
+                  ]
+            },
+            {
+                  "name": "Playa El Morro",
+                  "text": "Playa El Morro este o plajă în Acapulco. Un punct de întâlnire popular pentru iubitorii de soare.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.873276,
+                        16.857964
+                  ]
+            },
+            {
+                  "name": "Playa Condesa",
+                  "text": "Playa Condesa este o plajă cunoscută în Acapulco. Cunoscută pentru viața de noapte animată și cluburile de pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.868746,
+                        16.856672
+                  ]
+            },
+            {
+                  "name": "Museo de las 7 regiones",
+                  "text": "Museo de las 7 regiones din Acapulco prezintă diversitatea culturală a regiunii. Exponatele includ tradiții și meșteșuguri locale.",
+                  "category": "museum",
+                  "coords": [
+                        -99.903922,
+                        16.849847
+                  ]
+            },
+            {
+                  "name": "Playa La Aguada",
+                  "text": "Playa La Aguada este o plajă populară în Acapulco.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.901042,
+                        16.839433
+                  ]
+            },
+            {
+                  "name": "Mirador de la Bahía",
+                  "text": "Mirador de la Bahía oferă o priveliște asupra orașului Acapulco.",
+                  "category": "natural",
+                  "coords": [
+                        -99.897847,
+                        16.854412
+                  ]
+            },
+            {
+                  "name": "zona arquelogica de Palma Sola",
+                  "text": "Zona arheologică Palma Sola prezintă situri istorice în Acapulco.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.90125,
+                        16.886304
+                  ]
+            },
+            {
+                  "name": "Monumento José María Morelos y Pavón",
+                  "text": "Monumento José María Morelos y Pavón este un monument în Acapulco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.901086,
+                        16.851899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Histórico de Acapulco Fuerte de San Diego",
+                  "text": "The Museo Histórico de Acapulco Fuerte de San Diego is a significant museum in Acapulco. It is located in a historical fortress.",
+                  "category": "museum",
+                  "coords": [
+                        -99.902381,
+                        16.85015
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "The Teatro is a performance venue in Acapulco. It serves the cultivation of local culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.908892,
+                        16.848693
+                  ]
+            },
+            {
+                  "name": "Playa Tamarindos",
+                  "text": "Playa Tamarindos is a well-known beach in Acapulco. It offers relaxation and a beautiful view of the bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.894709,
+                        16.855614
+                  ]
+            },
+            {
+                  "name": "Playa Las Hamacas",
+                  "text": "Playa Las Hamacas is a beach in Acapulco. A relaxing place for seaside visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.899191,
+                        16.853203
+                  ]
+            },
+            {
+                  "name": "Playa Icacos",
+                  "text": "Playa Icacos is a popular beach in Acapulco. Known for its expanse and water sports opportunities.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.857635,
+                        16.845225
+                  ]
+            },
+            {
+                  "name": "Playa Tlacopanocha",
+                  "text": "Playa Tlacopanocha is a beach in Acapulco. It is characterized by calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.907688,
+                        16.845175
+                  ]
+            },
+            {
+                  "name": "Playa Hornos",
+                  "text": "Playa Hornos is a beach in Acapulco. It provides classic access to the bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.889989,
+                        16.857274
+                  ]
+            },
+            {
+                  "name": "Playa Papagayo",
+                  "text": "Playa Papagayo is a bustling beach in Acapulco. A hub for tourist activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.880485,
+                        16.858874
+                  ]
+            },
+            {
+                  "name": "Playa El Morro",
+                  "text": "Playa El Morro is a beach in Acapulco. A popular meeting place for sunbathers.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.873276,
+                        16.857964
+                  ]
+            },
+            {
+                  "name": "Playa Condesa",
+                  "text": "Playa Condesa is a famous beach in Acapulco. Known for its vibrant nightlife and beach clubs.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.868746,
+                        16.856672
+                  ]
+            },
+            {
+                  "name": "Museo de las 7 regiones",
+                  "text": "The Museo de las 7 regiones in Acapulco showcases the cultural diversity of the region. It features local traditions and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        -99.903922,
+                        16.849847
+                  ]
+            },
+            {
+                  "name": "Playa La Aguada",
+                  "text": "Playa La Aguada is a popular beach in Acapulco.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.901042,
+                        16.839433
+                  ]
+            },
+            {
+                  "name": "Mirador de la Bahía",
+                  "text": "Mirador de la Bahía offers a view over Acapulco.",
+                  "category": "natural",
+                  "coords": [
+                        -99.897847,
+                        16.854412
+                  ]
+            },
+            {
+                  "name": "zona arquelogica de Palma Sola",
+                  "text": "The Palma Sola archaeological zone features historical sites in Acapulco.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.90125,
+                        16.886304
+                  ]
+            },
+            {
+                  "name": "Monumento José María Morelos y Pavón",
+                  "text": "The Monumento José María Morelos y Pavón is a monument in Acapulco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.901086,
+                        16.851899
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-GRO",
     coords: [-99.8901, 16.8634],
@@ -381,7 +4872,520 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Les plongeurs de La Quebrada sautent de plus de 30 mètres de hauteur.", "Acapulco était un port important pour les galions de Manille au XVIe siècle.", "La ville était le lieu de villégiature préféré de nombreuses stars du cinéma américain dans les années 1950."],
     }, image: "/poi-images/acapulco-cities-v2.webp"},
   {
-    id: "tlalnepantla-de-baz-cities-v2",
+    id: "tlalnepantla-de-baz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pirámide de Tenayuca",
+                  "text": "Die Pirámide de Tenayuca ist eine archäologische Stätte in Tlalnepantla de Baz, die als präkolumbianische mesoamerikanische Siedlung im Tal von Mexiko bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -99.168535,
+                        19.532097
+                  ]
+            },
+            {
+                  "name": "Tenayuca II",
+                  "text": "Tenayuca II ist eine archäologische Stätte in Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.169192,
+                        19.534962
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
+                  "text": "Die Zona Arqueológica Santa Cecilia Acatitlan ist eine archäologische Stätte in Tlalnepantla de Baz, die für ihre rekonstruierte aztekische Pyramide bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -99.173452,
+                        19.552515
+                  ]
+            },
+            {
+                  "name": "Teatro Algarabia",
+                  "text": "Das Teatro Algarabia ist ein Theater in Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.194711,
+                        19.536846
+                  ]
+            },
+            {
+                  "name": "Acuario Valle Dorado",
+                  "text": "Das Acuario Valle Dorado ist ein lokales Aquarium in Tlalnepantla de Baz.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.214614,
+                        19.550236
+                  ]
+            },
+            {
+                  "name": "Teatro Eugenia Leon",
+                  "text": "Das Teatro Eugenia Leon ist ein Theater in Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19301,
+                        19.536555
+                  ]
+            },
+            {
+                  "name": "Teatro Centenario",
+                  "text": "Das Teatro Centenario ist ein Theater in Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.204339,
+                        19.538679
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "Sor Juana Ines de la Cruz ist ein öffentliches Denkmal in Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.211968,
+                        19.540228
+                  ]
+            },
+            {
+                  "name": "obelisco",
+                  "text": "Der Obelisco ist ein Denkmal in Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.21321,
+                        19.540635
+                  ]
+            },
+            {
+                  "name": "Parque viveros",
+                  "text": "Der Parque viveros ist eine Touristenattraktion in Tlalnepantla de Baz.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.219368,
+                        19.530665
+                  ]
+            },
+            {
+                  "name": "Fuente de los Bastones",
+                  "text": "Die Fuente de los Bastones ist ein lokales Denkmal in Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.219313,
+                        19.528496
+                  ]
+            },
+            {
+                  "name": "Centro de la cultura y las artes José Emilio Pacheco",
+                  "text": "Das Centro de la cultura y las artes José Emilio Pacheco ist ein Kunstzentrum in Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.195708,
+                        19.536442
+                  ]
+            },
+            {
+                  "name": "Letrero Las Arboledas",
+                  "text": "Letrero Las Arboledas ist eine Attraktion in Tlalnepantla de Baz.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.208789,
+                        19.552341
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Guillermo Padilla Díaz de León",
+                  "text": "Die Casa de Cultura Guillermo Padilla Díaz de León ist ein Kunstzentrum in Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.173787,
+                        19.550963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pirámide de Tenayuca",
+                  "text": "A Pirámide de Tenayuca egy régészeti lelőhely Tlalnepantla de Baz-ban, amely a Mexikói-völgy egyik prekolumbiánus mezoamerikai települése.",
+                  "category": "historical",
+                  "coords": [
+                        -99.168535,
+                        19.532097
+                  ]
+            },
+            {
+                  "name": "Tenayuca II",
+                  "text": "A Tenayuca II egy régészeti lelőhely Tlalnepantla de Baz városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.169192,
+                        19.534962
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
+                  "text": "A Zona Arqueológica Santa Cecilia Acatitlan egy régészeti lelőhely Tlalnepantla de Baz-ban, amely rekonstruált azték piramisáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -99.173452,
+                        19.552515
+                  ]
+            },
+            {
+                  "name": "Teatro Algarabia",
+                  "text": "A Teatro Algarabia egy színház Tlalnepantla de Baz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.194711,
+                        19.536846
+                  ]
+            },
+            {
+                  "name": "Acuario Valle Dorado",
+                  "text": "Az Acuario Valle Dorado egy helyi akvárium Tlalnepantla de Baz-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.214614,
+                        19.550236
+                  ]
+            },
+            {
+                  "name": "Teatro Eugenia Leon",
+                  "text": "A Teatro Eugenia Leon egy színházépület Tlalnepantla de Baz-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19301,
+                        19.536555
+                  ]
+            },
+            {
+                  "name": "Teatro Centenario",
+                  "text": "A Teatro Centenario egy színház Tlalnepantla de Baz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.204339,
+                        19.538679
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "A Sor Juana Ines de la Cruz egy köztéri emlékmű Tlalnepantla de Baz-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.211968,
+                        19.540228
+                  ]
+            },
+            {
+                  "name": "obelisco",
+                  "text": "Az obelisco egy emlékmű Tlalnepantla de Baz városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.21321,
+                        19.540635
+                  ]
+            },
+            {
+                  "name": "Parque viveros",
+                  "text": "A Parque viveros egy turisztikai látványosság Tlalnepantla de Baz-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.219368,
+                        19.530665
+                  ]
+            },
+            {
+                  "name": "Fuente de los Bastones",
+                  "text": "A Fuente de los Bastones egy helyi emlékmű Tlalnepantla de Baz városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.219313,
+                        19.528496
+                  ]
+            },
+            {
+                  "name": "Centro de la cultura y las artes José Emilio Pacheco",
+                  "text": "A Centro de la cultura y las artes José Emilio Pacheco egy művészeti központ Tlalnepantla de Baz-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.195708,
+                        19.536442
+                  ]
+            },
+            {
+                  "name": "Letrero Las Arboledas",
+                  "text": "A Letrero Las Arboledas egy látványosság Tlalnepantla de Baz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.208789,
+                        19.552341
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Guillermo Padilla Díaz de León",
+                  "text": "A Casa de Cultura Guillermo Padilla Díaz de León egy művészeti központ Tlalnepantla de Baz-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.173787,
+                        19.550963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pirámide de Tenayuca",
+                  "text": "Pirámide de Tenayuca este un sit arheologic din Tlalnepantla de Baz, cunoscut ca o așezare mezoamericană precolumbiană din Valea Mexicului.",
+                  "category": "historical",
+                  "coords": [
+                        -99.168535,
+                        19.532097
+                  ]
+            },
+            {
+                  "name": "Tenayuca II",
+                  "text": "Tenayuca II este un sit arheologic situat în Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.169192,
+                        19.534962
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
+                  "text": "Zona Arqueológica Santa Cecilia Acatitlan este un sit arheologic din Tlalnepantla de Baz, cunoscut pentru piramida sa aztecă reconstruită.",
+                  "category": "historical",
+                  "coords": [
+                        -99.173452,
+                        19.552515
+                  ]
+            },
+            {
+                  "name": "Teatro Algarabia",
+                  "text": "Teatro Algarabia este un teatru situat în Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.194711,
+                        19.536846
+                  ]
+            },
+            {
+                  "name": "Acuario Valle Dorado",
+                  "text": "Acuario Valle Dorado este un acvariu local din Tlalnepantla de Baz.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.214614,
+                        19.550236
+                  ]
+            },
+            {
+                  "name": "Teatro Eugenia Leon",
+                  "text": "Teatro Eugenia Leon este un teatru situat în Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19301,
+                        19.536555
+                  ]
+            },
+            {
+                  "name": "Teatro Centenario",
+                  "text": "Teatro Centenario este un teatru din Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.204339,
+                        19.538679
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "Sor Juana Ines de la Cruz este un monument public situat în Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.211968,
+                        19.540228
+                  ]
+            },
+            {
+                  "name": "obelisco",
+                  "text": "Obelisco este un monument situat în Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.21321,
+                        19.540635
+                  ]
+            },
+            {
+                  "name": "Parque viveros",
+                  "text": "Parque viveros este o atracție turistică situată în Tlalnepantla de Baz.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.219368,
+                        19.530665
+                  ]
+            },
+            {
+                  "name": "Fuente de los Bastones",
+                  "text": "Fuente de los Bastones este un monument local din Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.219313,
+                        19.528496
+                  ]
+            },
+            {
+                  "name": "Centro de la cultura y las artes José Emilio Pacheco",
+                  "text": "Centro de la cultura y las artes José Emilio Pacheco funcționează ca un centru de arte în Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.195708,
+                        19.536442
+                  ]
+            },
+            {
+                  "name": "Letrero Las Arboledas",
+                  "text": "Letrero Las Arboledas este o atracție din Tlalnepantla de Baz.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.208789,
+                        19.552341
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Guillermo Padilla Díaz de León",
+                  "text": "Casa de Cultura Guillermo Padilla Díaz de León este un centru de arte situat în Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.173787,
+                        19.550963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pirámide de Tenayuca",
+                  "text": "Pirámide de Tenayuca is an archaeological site in Tlalnepantla de Baz, known as a pre-Columbian Mesoamerican settlement in the Valley of Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -99.168535,
+                        19.532097
+                  ]
+            },
+            {
+                  "name": "Tenayuca II",
+                  "text": "Tenayuca II is an archaeological site located in Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.169192,
+                        19.534962
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
+                  "text": "Zona Arqueológica Santa Cecilia Acatitlan is an archaeological site in Tlalnepantla de Baz known for its reconstructed Aztec pyramid.",
+                  "category": "historical",
+                  "coords": [
+                        -99.173452,
+                        19.552515
+                  ]
+            },
+            {
+                  "name": "Teatro Algarabia",
+                  "text": "Teatro Algarabia is a theatre located in Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.194711,
+                        19.536846
+                  ]
+            },
+            {
+                  "name": "Acuario Valle Dorado",
+                  "text": "Acuario Valle Dorado is a local aquarium in Tlalnepantla de Baz.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.214614,
+                        19.550236
+                  ]
+            },
+            {
+                  "name": "Teatro Eugenia Leon",
+                  "text": "Teatro Eugenia Leon is a theatre venue situated in Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19301,
+                        19.536555
+                  ]
+            },
+            {
+                  "name": "Teatro Centenario",
+                  "text": "Teatro Centenario is a performing arts theatre located in Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.204339,
+                        19.538679
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "Sor Juana Ines de la Cruz is a public monument located in Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.211968,
+                        19.540228
+                  ]
+            },
+            {
+                  "name": "obelisco",
+                  "text": "The obelisco is a monument structure situated in Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.21321,
+                        19.540635
+                  ]
+            },
+            {
+                  "name": "Parque viveros",
+                  "text": "Parque viveros is a tourist attraction found in Tlalnepantla de Baz.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.219368,
+                        19.530665
+                  ]
+            },
+            {
+                  "name": "Fuente de los Bastones",
+                  "text": "Fuente de los Bastones is a local monument in Tlalnepantla de Baz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.219313,
+                        19.528496
+                  ]
+            },
+            {
+                  "name": "Centro de la cultura y las artes José Emilio Pacheco",
+                  "text": "Centro de la cultura y las artes José Emilio Pacheco operates as an arts centre in Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.195708,
+                        19.536442
+                  ]
+            },
+            {
+                  "name": "Letrero Las Arboledas",
+                  "text": "Letrero Las Arboledas is an attraction found in Tlalnepantla de Baz.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.208789,
+                        19.552341
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Guillermo Padilla Díaz de León",
+                  "text": "Casa de Cultura Guillermo Padilla Díaz de León is an arts centre situated in Tlalnepantla de Baz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.173787,
+                        19.550963
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-MEX",
     coords: [-99.1953, 19.5367],
@@ -435,7 +5439,160 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["La ville possède une longue tradition d'extraction et de travail de la pierre volcanique.", "La sculpture Guerrero Chimalli mesure plus de 60 mètres de haut.", "Le carnaval local est l'un des plus riches en traditions de l'État du Mexique."],
     }, image: "/poi-images/chimalhuacan-cities-v2.webp"},
   {
-    id: "reynosa-cities-v2",
+    id: "reynosa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Old Hidalgo Pumphouse",
+                  "text": "Das Old Hidalgo Pumphouse ist ein Museum in Reynosa.",
+                  "category": "museum",
+                  "coords": [
+                        -98.261886,
+                        26.096836
+                  ]
+            },
+            {
+                  "name": "Lower Rio Grande Valley National Wildlife Refuge",
+                  "text": "Das Lower Rio Grande Valley National Wildlife Refuge ist ein Naturschutzgebiet bei Reynosa.",
+                  "category": "natural",
+                  "coords": [
+                        -98.284414,
+                        26.123745
+                  ]
+            },
+            {
+                  "name": "El Águila",
+                  "text": "El Águila ist ein Denkmal in Reynosa.",
+                  "category": "historical",
+                  "coords": [
+                        -98.272039,
+                        26.092252
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Die Casa de la Cultura ist ein Kulturzentrum in Reynosa.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.276523,
+                        26.093328
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Hidalgo Pumphouse",
+                  "text": "Az Old Hidalgo Pumphouse egy múzeum Reynosa városában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.261886,
+                        26.096836
+                  ]
+            },
+            {
+                  "name": "Lower Rio Grande Valley National Wildlife Refuge",
+                  "text": "A Lower Rio Grande Valley Nemzeti Vadvédelmi Terület egy természetvédelmi terület Reynosa közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -98.284414,
+                        26.123745
+                  ]
+            },
+            {
+                  "name": "El Águila",
+                  "text": "Az El Águila egy emlékmű Reynosában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.272039,
+                        26.092252
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A Casa de la Cultura egy kulturális központ Reynosában.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.276523,
+                        26.093328
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Hidalgo Pumphouse",
+                  "text": "Old Hidalgo Pumphouse este un muzeu în Reynosa.",
+                  "category": "museum",
+                  "coords": [
+                        -98.261886,
+                        26.096836
+                  ]
+            },
+            {
+                  "name": "Lower Rio Grande Valley National Wildlife Refuge",
+                  "text": "Lower Rio Grande Valley National Wildlife Refuge este o rezervație naturală lângă Reynosa.",
+                  "category": "natural",
+                  "coords": [
+                        -98.284414,
+                        26.123745
+                  ]
+            },
+            {
+                  "name": "El Águila",
+                  "text": "El Águila este un monument în Reynosa.",
+                  "category": "historical",
+                  "coords": [
+                        -98.272039,
+                        26.092252
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura este un centru cultural în Reynosa.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.276523,
+                        26.093328
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Hidalgo Pumphouse",
+                  "text": "The Old Hidalgo Pumphouse is a museum in Reynosa.",
+                  "category": "museum",
+                  "coords": [
+                        -98.261886,
+                        26.096836
+                  ]
+            },
+            {
+                  "name": "Lower Rio Grande Valley National Wildlife Refuge",
+                  "text": "The Lower Rio Grande Valley National Wildlife Refuge is a nature reserve near Reynosa.",
+                  "category": "natural",
+                  "coords": [
+                        -98.284414,
+                        26.123745
+                  ]
+            },
+            {
+                  "name": "El Águila",
+                  "text": "El Águila is a monument in Reynosa.",
+                  "category": "historical",
+                  "coords": [
+                        -98.272039,
+                        26.092252
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "The Casa de la Cultura is an arts centre in Reynosa.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.276523,
+                        26.093328
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-TAM",
     coords: [-98.2736, 26.0917],
@@ -462,7 +5619,124 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Reynosa est la ville la plus peuplée de l'État de Tamaulipas.", "L'économie de la ville repose largement sur l'industrie des maquiladoras.", "La ville est une plaque tournante majeure pour le commerce international entre le Mexique et les États-Unis."],
     }, image: "/poi-images/reynosa-cities-v2.webp"},
   {
-    id: "torreon-cities-v2",
+    id: "torreon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Auditorio Bosque Urbano",
+                  "text": "Das Auditorio Bosque Urbano ist ein Theater in der Stadt Torreón.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.390522,
+                        25.552868
+                  ]
+            },
+            {
+                  "name": "Museo Regional de La Laguna",
+                  "text": "Das Museo Regional de La Laguna ist ein Museum in Torreón.",
+                  "category": "museum",
+                  "coords": [
+                        -103.432671,
+                        25.539003
+                  ]
+            },
+            {
+                  "name": "Galería del deporte lagunero",
+                  "text": "Die Galería del deporte lagunero ist eine lokale Galerie in Torreón.",
+                  "category": "museum",
+                  "coords": [
+                        -103.411741,
+                        25.534463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Auditorio Bosque Urbano",
+                  "text": "Az Auditorio Bosque Urbano egy színház Torreón városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.390522,
+                        25.552868
+                  ]
+            },
+            {
+                  "name": "Museo Regional de La Laguna",
+                  "text": "A Museo Regional de La Laguna egy múzeum Torreónban.",
+                  "category": "museum",
+                  "coords": [
+                        -103.432671,
+                        25.539003
+                  ]
+            },
+            {
+                  "name": "Galería del deporte lagunero",
+                  "text": "A Galería del deporte lagunero egy helyi galéria Torreón városában.",
+                  "category": "museum",
+                  "coords": [
+                        -103.411741,
+                        25.534463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Auditorio Bosque Urbano",
+                  "text": "Auditorio Bosque Urbano este un teatru situat în orașul Torreón.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.390522,
+                        25.552868
+                  ]
+            },
+            {
+                  "name": "Museo Regional de La Laguna",
+                  "text": "Museo Regional de La Laguna este un muzeu situat în Torreón.",
+                  "category": "museum",
+                  "coords": [
+                        -103.432671,
+                        25.539003
+                  ]
+            },
+            {
+                  "name": "Galería del deporte lagunero",
+                  "text": "Galería del deporte lagunero este o galerie locală din Torreón.",
+                  "category": "museum",
+                  "coords": [
+                        -103.411741,
+                        25.534463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Auditorio Bosque Urbano",
+                  "text": "Auditorio Bosque Urbano is a theatre venue located in the city of Torreón.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.390522,
+                        25.552868
+                  ]
+            },
+            {
+                  "name": "Museo Regional de La Laguna",
+                  "text": "Museo Regional de La Laguna is a museum situated in Torreón.",
+                  "category": "museum",
+                  "coords": [
+                        -103.432671,
+                        25.539003
+                  ]
+            },
+            {
+                  "name": "Galería del deporte lagunero",
+                  "text": "Galería del deporte lagunero is a local gallery located in Torreón.",
+                  "category": "museum",
+                  "coords": [
+                        -103.411741,
+                        25.534463
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-COA",
     coords: [-103.4068, 25.5428],
@@ -510,7 +5784,808 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       en: ["Morelia was originally named Valladolid after the city in Spain.", "The city center's pink limestone architecture is unique in Mexico.", "Morelia's Cathedral houses a massive pipe organ with 4,600 pipes.", "The city was the site of a major conspiracy against Spanish rule in 1809.", "The Morelia Aqueduct was built between 1728 and 1785.", "Morelia is located approximately 185 miles (300 km) west of Mexico City.", "The University of San Nicolás de Hidalgo was founded in 1540 in Pátzcuaro and moved to Morelia.", "The city is a UNESCO World Heritage site since December 13, 1991."],
     }, image: "/poi-images/morelia-cities-v2.webp"},
   {
-    id: "veracruz-city-cities-v2",
+    id: "veracruz-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de Agustín Lara",
+                  "text": "Casa de Agustín Lara ist ein Museum in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.116841,
+                        19.169307
+                  ]
+            },
+            {
+                  "name": "Acuario Tecnomarine",
+                  "text": "Acuario Tecnomarine ist ein Aquarium in Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.125451,
+                        19.175349
+                  ]
+            },
+            {
+                  "name": "Teatro Tamsa",
+                  "text": "Teatro Tamsa ist ein Theater in Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.122965,
+                        19.150386
+                  ]
+            },
+            {
+                  "name": "acuario happy fish",
+                  "text": "acuario happy fish ist ein Aquarium in Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.132999,
+                        19.192515
+                  ]
+            },
+            {
+                  "name": "Replica gate with giant",
+                  "text": "Replica gate with giant ist ein Schloss in Veracruz.",
+                  "category": "castle",
+                  "coords": [
+                        -96.133982,
+                        19.167454
+                  ]
+            },
+            {
+                  "name": "Ripley's Believe it or not",
+                  "text": "Ripley's Believe it or not ist ein Museum in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.122306,
+                        19.187878
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico Miguel Ángel de Quevedo",
+                  "text": "Parque Zoológico Miguel Ángel de Quevedo ist ein Zoo in Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.13731,
+                        19.173481
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "Museo Histórico Naval ist ein Museum in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.135077,
+                        19.199229
+                  ]
+            },
+            {
+                  "name": "Playa Regatas",
+                  "text": "Playa Regatas ist ein Strand in Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.125047,
+                        19.194418
+                  ]
+            },
+            {
+                  "name": "Antiguo Hospital Militar San Carlos",
+                  "text": "Antiguo Hospital Militar San Carlos ist ein Museum in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.140058,
+                        19.19699
+                  ]
+            },
+            {
+                  "name": "Teatro de la Reforma IVEC",
+                  "text": "Teatro de la Reforma IVEC ist ein Theater in Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.136646,
+                        19.195448
+                  ]
+            },
+            {
+                  "name": "Fototeca de Veracruz",
+                  "text": "Fototeca de Veracruz ist ein Museum in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.137524,
+                        19.200257
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad",
+                  "text": "Museo de la Ciudad ist ein Museum in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.135813,
+                        19.197905
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Archipiélago de Lagunas Interdunarias",
+                  "text": "Área Natural Protegida Archipiélago de Lagunas Interdunarias ist ein Naturschutzgebiet in Veracruz.",
+                  "category": "natural",
+                  "coords": [
+                        -96.137562,
+                        19.161479
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Tembladeras-Laguna Olmeca",
+                  "text": "Reserva Ecológica Tembladeras-Laguna Olmeca ist ein Naturschutzgebiet in Veracruz.",
+                  "category": "natural",
+                  "coords": [
+                        -96.150686,
+                        19.147084
+                  ]
+            },
+            {
+                  "name": "Unidad deportiva Salvador campa",
+                  "text": "Die Unidad deportiva Salvador campa ist eine Attraktion in der Stadt Veracruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.147583,
+                        19.184247
+                  ]
+            },
+            {
+                  "name": "Parque Nucleo Deportivo",
+                  "text": "Der Parque Nucleo Deportivo ist eine Attraktion in Veracruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.156318,
+                        19.18308
+                  ]
+            },
+            {
+                  "name": "Columna de la libertad",
+                  "text": "Die Columna de la libertad ist ein Denkmal in Veracruz.",
+                  "category": "historical",
+                  "coords": [
+                        -96.134266,
+                        19.196271
+                  ]
+            },
+            {
+                  "name": "Venta de tiquetes",
+                  "text": "Venta de tiquetes ist eine Attraktion in Veracruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.12357,
+                        19.18637
+                  ]
+            },
+            {
+                  "name": "Auditorio Campo Redondo",
+                  "text": "Das Auditorio Campo Redondo ist ein Kunstzentrum in Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.134572,
+                        19.19803
+                  ]
+            },
+            {
+                  "name": "Tranvía del Recuerdo",
+                  "text": "Der Tranvía del Recuerdo ist ein Denkmal in der Stadt Veracruz.",
+                  "category": "historical",
+                  "coords": [
+                        -96.135251,
+                        19.195667
+                  ]
+            },
+            {
+                  "name": "El CaSon",
+                  "text": "El CaSon ist ein Kunstzentrum in Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.130858,
+                        19.19217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de Agustín Lara",
+                  "text": "A Casa de Agustín Lara egy múzeum Veracruz városában.",
+                  "category": "museum",
+                  "coords": [
+                        -96.116841,
+                        19.169307
+                  ]
+            },
+            {
+                  "name": "Acuario Tecnomarine",
+                  "text": "Az Acuario Tecnomarine egy akvárium Veracruz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.125451,
+                        19.175349
+                  ]
+            },
+            {
+                  "name": "Teatro Tamsa",
+                  "text": "A Teatro Tamsa egy színház Veracruz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.122965,
+                        19.150386
+                  ]
+            },
+            {
+                  "name": "acuario happy fish",
+                  "text": "Az acuario happy fish egy akvárium Veracruz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.132999,
+                        19.192515
+                  ]
+            },
+            {
+                  "name": "Replica gate with giant",
+                  "text": "A Replica gate with giant egy kastély Veracruz városában.",
+                  "category": "castle",
+                  "coords": [
+                        -96.133982,
+                        19.167454
+                  ]
+            },
+            {
+                  "name": "Ripley's Believe it or not",
+                  "text": "A Ripley's Believe it or not egy múzeum Veracruz városában.",
+                  "category": "museum",
+                  "coords": [
+                        -96.122306,
+                        19.187878
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico Miguel Ángel de Quevedo",
+                  "text": "A Parque Zoológico Miguel Ángel de Quevedo egy állatkert Veracruz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.13731,
+                        19.173481
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "A Museo Histórico Naval egy múzeum Veracruz városában.",
+                  "category": "museum",
+                  "coords": [
+                        -96.135077,
+                        19.199229
+                  ]
+            },
+            {
+                  "name": "Playa Regatas",
+                  "text": "A Playa Regatas egy strand Veracruz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.125047,
+                        19.194418
+                  ]
+            },
+            {
+                  "name": "Antiguo Hospital Militar San Carlos",
+                  "text": "Az Antiguo Hospital Militar San Carlos egy múzeum Veracruz városában.",
+                  "category": "museum",
+                  "coords": [
+                        -96.140058,
+                        19.19699
+                  ]
+            },
+            {
+                  "name": "Teatro de la Reforma IVEC",
+                  "text": "A Teatro de la Reforma IVEC egy színház Veracruz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.136646,
+                        19.195448
+                  ]
+            },
+            {
+                  "name": "Fototeca de Veracruz",
+                  "text": "A Fototeca de Veracruz egy múzeum Veracruz városában.",
+                  "category": "museum",
+                  "coords": [
+                        -96.137524,
+                        19.200257
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad",
+                  "text": "A Museo de la Ciudad egy múzeum Veracruz városában.",
+                  "category": "museum",
+                  "coords": [
+                        -96.135813,
+                        19.197905
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Archipiélago de Lagunas Interdunarias",
+                  "text": "Az Área Natural Protegida Archipiélago de Lagunas Interdunarias egy természetvédelmi terület Veracruz városában.",
+                  "category": "natural",
+                  "coords": [
+                        -96.137562,
+                        19.161479
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Tembladeras-Laguna Olmeca",
+                  "text": "A Reserva Ecológica Tembladeras-Laguna Olmeca egy természetvédelmi terület Veracruz városában.",
+                  "category": "natural",
+                  "coords": [
+                        -96.150686,
+                        19.147084
+                  ]
+            },
+            {
+                  "name": "Unidad deportiva Salvador campa",
+                  "text": "Az Unidad deportiva Salvador campa egy látványosság Veracruz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.147583,
+                        19.184247
+                  ]
+            },
+            {
+                  "name": "Parque Nucleo Deportivo",
+                  "text": "A Parque Nucleo Deportivo egy látványosság Veracruzban.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.156318,
+                        19.18308
+                  ]
+            },
+            {
+                  "name": "Columna de la libertad",
+                  "text": "A Columna de la libertad egy emlékmű Veracruzban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.134266,
+                        19.196271
+                  ]
+            },
+            {
+                  "name": "Venta de tiquetes",
+                  "text": "A Venta de tiquetes egy látványosság Veracruzban.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.12357,
+                        19.18637
+                  ]
+            },
+            {
+                  "name": "Auditorio Campo Redondo",
+                  "text": "Az Auditorio Campo Redondo egy művészeti központ Veracruzban.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.134572,
+                        19.19803
+                  ]
+            },
+            {
+                  "name": "Tranvía del Recuerdo",
+                  "text": "A Tranvía del Recuerdo egy emlékmű Veracruz városában.",
+                  "category": "historical",
+                  "coords": [
+                        -96.135251,
+                        19.195667
+                  ]
+            },
+            {
+                  "name": "El CaSon",
+                  "text": "Az El CaSon egy művészeti központ Veracruzban.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.130858,
+                        19.19217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de Agustín Lara",
+                  "text": "Casa de Agustín Lara este un muzeu situat în Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.116841,
+                        19.169307
+                  ]
+            },
+            {
+                  "name": "Acuario Tecnomarine",
+                  "text": "Acuario Tecnomarine este un acvariu situat în Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.125451,
+                        19.175349
+                  ]
+            },
+            {
+                  "name": "Teatro Tamsa",
+                  "text": "Teatro Tamsa este un teatru situat în Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.122965,
+                        19.150386
+                  ]
+            },
+            {
+                  "name": "acuario happy fish",
+                  "text": "acuario happy fish este un acvariu situat în Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.132999,
+                        19.192515
+                  ]
+            },
+            {
+                  "name": "Replica gate with giant",
+                  "text": "Replica gate with giant este un castel situat în Veracruz.",
+                  "category": "castle",
+                  "coords": [
+                        -96.133982,
+                        19.167454
+                  ]
+            },
+            {
+                  "name": "Ripley's Believe it or not",
+                  "text": "Ripley's Believe it or not este un muzeu situat în Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.122306,
+                        19.187878
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico Miguel Ángel de Quevedo",
+                  "text": "Parque Zoológico Miguel Ángel de Quevedo este o grădină zoologică situată în Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.13731,
+                        19.173481
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "Museo Histórico Naval este un muzeu situat în Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.135077,
+                        19.199229
+                  ]
+            },
+            {
+                  "name": "Playa Regatas",
+                  "text": "Playa Regatas este o plajă situată în Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.125047,
+                        19.194418
+                  ]
+            },
+            {
+                  "name": "Antiguo Hospital Militar San Carlos",
+                  "text": "Antiguo Hospital Militar San Carlos este un muzeu situat în Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.140058,
+                        19.19699
+                  ]
+            },
+            {
+                  "name": "Teatro de la Reforma IVEC",
+                  "text": "Teatro de la Reforma IVEC este un teatru situat în Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.136646,
+                        19.195448
+                  ]
+            },
+            {
+                  "name": "Fototeca de Veracruz",
+                  "text": "Fototeca de Veracruz este un muzeu situat în Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.137524,
+                        19.200257
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad",
+                  "text": "Museo de la Ciudad este un muzeu situat în Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.135813,
+                        19.197905
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Archipiélago de Lagunas Interdunarias",
+                  "text": "Área Natural Protegida Archipiélago de Lagunas Interdunarias este o rezervație naturală situată în Veracruz.",
+                  "category": "natural",
+                  "coords": [
+                        -96.137562,
+                        19.161479
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Tembladeras-Laguna Olmeca",
+                  "text": "Reserva Ecológica Tembladeras-Laguna Olmeca este o rezervație naturală situată în Veracruz.",
+                  "category": "natural",
+                  "coords": [
+                        -96.150686,
+                        19.147084
+                  ]
+            },
+            {
+                  "name": "Unidad deportiva Salvador campa",
+                  "text": "Unidad deportiva Salvador campa este o atracție situată în orașul Veracruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.147583,
+                        19.184247
+                  ]
+            },
+            {
+                  "name": "Parque Nucleo Deportivo",
+                  "text": "Parque Nucleo Deportivo este o atracție din Veracruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.156318,
+                        19.18308
+                  ]
+            },
+            {
+                  "name": "Columna de la libertad",
+                  "text": "Columna de la libertad este un monument din Veracruz.",
+                  "category": "historical",
+                  "coords": [
+                        -96.134266,
+                        19.196271
+                  ]
+            },
+            {
+                  "name": "Venta de tiquetes",
+                  "text": "Venta de tiquetes este o atracție în Veracruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.12357,
+                        19.18637
+                  ]
+            },
+            {
+                  "name": "Auditorio Campo Redondo",
+                  "text": "Auditorio Campo Redondo este un centru de arte din Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.134572,
+                        19.19803
+                  ]
+            },
+            {
+                  "name": "Tranvía del Recuerdo",
+                  "text": "Tranvía del Recuerdo este un monument situat în orașul Veracruz.",
+                  "category": "historical",
+                  "coords": [
+                        -96.135251,
+                        19.195667
+                  ]
+            },
+            {
+                  "name": "El CaSon",
+                  "text": "El CaSon este un centru de arte situat în Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.130858,
+                        19.19217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de Agustín Lara",
+                  "text": "Casa de Agustín Lara is a museum located in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.116841,
+                        19.169307
+                  ]
+            },
+            {
+                  "name": "Acuario Tecnomarine",
+                  "text": "Acuario Tecnomarine is an aquarium located in Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.125451,
+                        19.175349
+                  ]
+            },
+            {
+                  "name": "Teatro Tamsa",
+                  "text": "Teatro Tamsa is a theatre located in Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.122965,
+                        19.150386
+                  ]
+            },
+            {
+                  "name": "acuario happy fish",
+                  "text": "acuario happy fish is an aquarium located in Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.132999,
+                        19.192515
+                  ]
+            },
+            {
+                  "name": "Replica gate with giant",
+                  "text": "Replica gate with giant is a castle located in Veracruz.",
+                  "category": "castle",
+                  "coords": [
+                        -96.133982,
+                        19.167454
+                  ]
+            },
+            {
+                  "name": "Ripley's Believe it or not",
+                  "text": "Ripley's Believe it or not is a museum located in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.122306,
+                        19.187878
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico Miguel Ángel de Quevedo",
+                  "text": "Parque Zoológico Miguel Ángel de Quevedo is a zoo located in Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.13731,
+                        19.173481
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "Museo Histórico Naval is a museum located in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.135077,
+                        19.199229
+                  ]
+            },
+            {
+                  "name": "Playa Regatas",
+                  "text": "Playa Regatas is a beach located in Veracruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.125047,
+                        19.194418
+                  ]
+            },
+            {
+                  "name": "Antiguo Hospital Militar San Carlos",
+                  "text": "Antiguo Hospital Militar San Carlos is a museum located in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.140058,
+                        19.19699
+                  ]
+            },
+            {
+                  "name": "Teatro de la Reforma IVEC",
+                  "text": "Teatro de la Reforma IVEC is a theatre located in Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.136646,
+                        19.195448
+                  ]
+            },
+            {
+                  "name": "Fototeca de Veracruz",
+                  "text": "Fototeca de Veracruz is a museum located in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.137524,
+                        19.200257
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad",
+                  "text": "Museo de la Ciudad is a museum located in Veracruz.",
+                  "category": "museum",
+                  "coords": [
+                        -96.135813,
+                        19.197905
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Archipiélago de Lagunas Interdunarias",
+                  "text": "Área Natural Protegida Archipiélago de Lagunas Interdunarias is a nature reserve located in Veracruz.",
+                  "category": "natural",
+                  "coords": [
+                        -96.137562,
+                        19.161479
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Tembladeras-Laguna Olmeca",
+                  "text": "Reserva Ecológica Tembladeras-Laguna Olmeca is a nature reserve located in Veracruz.",
+                  "category": "natural",
+                  "coords": [
+                        -96.150686,
+                        19.147084
+                  ]
+            },
+            {
+                  "name": "Unidad deportiva Salvador campa",
+                  "text": "The Unidad deportiva Salvador campa is an attraction located in the city of Veracruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.147583,
+                        19.184247
+                  ]
+            },
+            {
+                  "name": "Parque Nucleo Deportivo",
+                  "text": "The Parque Nucleo Deportivo is an attraction situated in Veracruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.156318,
+                        19.18308
+                  ]
+            },
+            {
+                  "name": "Columna de la libertad",
+                  "text": "The Columna de la libertad is a monument located in Veracruz.",
+                  "category": "historical",
+                  "coords": [
+                        -96.134266,
+                        19.196271
+                  ]
+            },
+            {
+                  "name": "Venta de tiquetes",
+                  "text": "Venta de tiquetes is an attraction situated in Veracruz.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.12357,
+                        19.18637
+                  ]
+            },
+            {
+                  "name": "Auditorio Campo Redondo",
+                  "text": "Auditorio Campo Redondo is an arts centre found in Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.134572,
+                        19.19803
+                  ]
+            },
+            {
+                  "name": "Tranvía del Recuerdo",
+                  "text": "Tranvía del Recuerdo is a monument located in the city of Veracruz.",
+                  "category": "historical",
+                  "coords": [
+                        -96.135251,
+                        19.195667
+                  ]
+            },
+            {
+                  "name": "El CaSon",
+                  "text": "El CaSon is an arts centre situated in Veracruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.130858,
+                        19.19217
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-VER",
     coords: [-96.1342, 19.1738],
@@ -579,7 +6654,988 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       en: ["Xalapa sits at 1,420 meters (4,659 feet) above sea level in the Sierra Madre slopes.", "The city's Anthropology Museum houses the second-largest pre-Hispanic collection in Mexico.", "Jalapeño peppers are named after the city of Xalapa (formerly spelled Jalapa).", "The Xalapa Symphony Orchestra is considered one of the best in Latin America.", "The city is known as the 'Athens of Veracruz' due to its high concentration of universities.", "Xalapa was an important stop on the colonial road between Veracruz and Mexico City.", "The Macuiltépetl Ecological Park is located at the highest point of the city.", "Xalapa is a major center for coffee production and the coffee trade in Mexico."],
     }, image: "/poi-images/xalapa-cities-v2.webp"},
   {
-    id: "mazatlan-cities-v2",
+    id: "mazatlan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Que viva Sinaloa",
+                  "text": "Museo Que viva Sinaloa ist ein Museum in Mazatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -106.42332,
+                        23.197248
+                  ]
+            },
+            {
+                  "name": "Museo El Rincón de Pedro Infante",
+                  "text": "Museo El Rincón de Pedro Infante ist ein Museum in Mazatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -106.416856,
+                        23.200001
+                  ]
+            },
+            {
+                  "name": "CICMA Centro de Innovación Cultural Mazatlán",
+                  "text": "CICMA ist ein Kultur- und Innovationszentrum in Mazatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -106.424121,
+                        23.198388
+                  ]
+            },
+            {
+                  "name": "Teatro Antonio Haas",
+                  "text": "Das Teatro Antonio Haas ist ein Theater in Mazatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.420999,
+                        23.211743
+                  ]
+            },
+            {
+                  "name": "Teatro Ángela Peralta",
+                  "text": "Das Teatro Ángela Peralta ist ein historisches Theater in Mazatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.422339,
+                        23.198043
+                  ]
+            },
+            {
+                  "name": "Playa Pinitos",
+                  "text": "Playa Pinitos ist ein Strand in Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.427594,
+                        23.20831
+                  ]
+            },
+            {
+                  "name": "Playa Olas Altas",
+                  "text": "Playa Olas Altas ist ein bekannter Strand in Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.427268,
+                        23.196836
+                  ]
+            },
+            {
+                  "name": "Playa Norte",
+                  "text": "Playa Norte ist ein Strand in Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.433402,
+                        23.224629
+                  ]
+            },
+            {
+                  "name": "Playa Sábalo",
+                  "text": "Playa Sábalo ist ein Strand in Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.457135,
+                        23.252285
+                  ]
+            },
+            {
+                  "name": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                  "text": "Das Gran Acuario ist ein bedeutendes Aquarium in Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.428133,
+                        23.230228
+                  ]
+            },
+            {
+                  "name": "La Cueva del Diablo",
+                  "text": "La Cueva del Diablo ist eine bekannte Attraktion in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.429755,
+                        23.200436
+                  ]
+            },
+            {
+                  "name": "Acuario Mazatlán",
+                  "text": "Das Acuario Mazatlán ist eine beliebte touristische Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.427701,
+                        23.228591
+                  ]
+            },
+            {
+                  "name": "Condominios Miramar (El Chapo)",
+                  "text": "Condominios Miramar ist eine lokale Attraktion in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.42767,
+                        23.226733
+                  ]
+            },
+            {
+                  "name": "Monumento a la Pulmonia",
+                  "text": "Das Monumento a la Pulmonia erinnert an das berühmte Fahrzeug in Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.422567,
+                        23.218708
+                  ]
+            },
+            {
+                  "name": "Malecon",
+                  "text": "Der Malecon ist eine berühmte Aussichtspromenade in Mazatlán.",
+                  "category": "natural",
+                  "coords": [
+                        -106.421407,
+                        23.215449
+                  ]
+            },
+            {
+                  "name": "Monuments A La Continuidad de La...",
+                  "text": "Dieses Denkmal ist eine touristische Sehenswürdigkeit in Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.429843,
+                        23.204769
+                  ]
+            },
+            {
+                  "name": "Playa Norte (white sandy beach & sunset spot)",
+                  "text": "Playa Norte ist ein beliebter Strand und Aussichtspunkt in Mazatlán.",
+                  "category": "natural",
+                  "coords": [
+                        -106.423498,
+                        23.208507
+                  ]
+            },
+            {
+                  "name": "Letras de Mazatlán",
+                  "text": "Die Letras de Mazatlán sind ein beliebtes Fotomotiv.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.445219,
+                        23.238094
+                  ]
+            },
+            {
+                  "name": "Casas de colores",
+                  "text": "Die Casas de colores sind eine bunte Attraktion in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.4253,
+                        23.199459
+                  ]
+            },
+            {
+                  "name": "Arcos Olas Altas",
+                  "text": "Die Arcos Olas Altas sind eine bekannte Attraktion in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.428045,
+                        23.198962
+                  ]
+            },
+            {
+                  "name": "Monumento a la Vida",
+                  "text": "Das Monumento a la Vida ist eine Attraktion in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.430113,
+                        23.202667
+                  ]
+            },
+            {
+                  "name": "Fuerte 31 de Marzo",
+                  "text": "Das Fuerte 31 de Marzo ist eine historische Attraktion in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.428517,
+                        23.208023
+                  ]
+            },
+            {
+                  "name": "Monumento al Venado",
+                  "text": "Das Monumento al Venado ist ein Denkmal in Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.426606,
+                        23.230265
+                  ]
+            },
+            {
+                  "name": "Monumento Centenario Cervecería del Pacífico",
+                  "text": "Das Monumento Centenario Cervecería del Pacífico ist ein Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        -106.42471,
+                        23.222538
+                  ]
+            },
+            {
+                  "name": "Glorieta Sanchez Taboada",
+                  "text": "Die Glorieta Sanchez Taboada ist eine Attraktion in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.430255,
+                        23.201633
+                  ]
+            },
+            {
+                  "name": "Monumento al hombre universal",
+                  "text": "Das Monumento al hombre universal ist ein Denkmal in Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.430995,
+                        23.239189
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "Das Monumento a Hidalgo ist ein Denkmal in Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.405327,
+                        23.228967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Que viva Sinaloa",
+                  "text": "A Museo Que viva Sinaloa egy múzeum Mazatlánban.",
+                  "category": "museum",
+                  "coords": [
+                        -106.42332,
+                        23.197248
+                  ]
+            },
+            {
+                  "name": "Museo El Rincón de Pedro Infante",
+                  "text": "A Museo El Rincón de Pedro Infante egy múzeum Mazatlánban.",
+                  "category": "museum",
+                  "coords": [
+                        -106.416856,
+                        23.200001
+                  ]
+            },
+            {
+                  "name": "CICMA Centro de Innovación Cultural Mazatlán",
+                  "text": "A CICMA egy kulturális és innovációs központ Mazatlánban.",
+                  "category": "museum",
+                  "coords": [
+                        -106.424121,
+                        23.198388
+                  ]
+            },
+            {
+                  "name": "Teatro Antonio Haas",
+                  "text": "A Teatro Antonio Haas egy színház Mazatlánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.420999,
+                        23.211743
+                  ]
+            },
+            {
+                  "name": "Teatro Ángela Peralta",
+                  "text": "A Teatro Ángela Peralta egy történelmi színház Mazatlánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.422339,
+                        23.198043
+                  ]
+            },
+            {
+                  "name": "Playa Pinitos",
+                  "text": "A Playa Pinitos egy strand Mazatlánban.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.427594,
+                        23.20831
+                  ]
+            },
+            {
+                  "name": "Playa Olas Altas",
+                  "text": "A Playa Olas Altas egy ismert strand Mazatlánban.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.427268,
+                        23.196836
+                  ]
+            },
+            {
+                  "name": "Playa Norte",
+                  "text": "A Playa Norte egy strand Mazatlánban.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.433402,
+                        23.224629
+                  ]
+            },
+            {
+                  "name": "Playa Sábalo",
+                  "text": "A Playa Sábalo egy strand Mazatlánban.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.457135,
+                        23.252285
+                  ]
+            },
+            {
+                  "name": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                  "text": "A Gran Acuario egy jelentős akvárium Mazatlánban.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.428133,
+                        23.230228
+                  ]
+            },
+            {
+                  "name": "La Cueva del Diablo",
+                  "text": "A La Cueva del Diablo egy ismert látnivaló Mazatlánban.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.429755,
+                        23.200436
+                  ]
+            },
+            {
+                  "name": "Acuario Mazatlán",
+                  "text": "Az Acuario Mazatlán egy népszerű turisztikai látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.427701,
+                        23.228591
+                  ]
+            },
+            {
+                  "name": "Condominios Miramar (El Chapo)",
+                  "text": "A Condominios Miramar egy helyi látnivaló Mazatlánban.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.42767,
+                        23.226733
+                  ]
+            },
+            {
+                  "name": "Monumento a la Pulmonia",
+                  "text": "A Monumento a la Pulmonia a Mazatlánban híres jármű előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -106.422567,
+                        23.218708
+                  ]
+            },
+            {
+                  "name": "Malecon",
+                  "text": "A Malecon egy híres sétány Mazatlánban.",
+                  "category": "natural",
+                  "coords": [
+                        -106.421407,
+                        23.215449
+                  ]
+            },
+            {
+                  "name": "Monuments A La Continuidad de La...",
+                  "text": "Ez az emlékmű egy turisztikai látnivaló Mazatlánban.",
+                  "category": "historical",
+                  "coords": [
+                        -106.429843,
+                        23.204769
+                  ]
+            },
+            {
+                  "name": "Playa Norte (white sandy beach & sunset spot)",
+                  "text": "A Playa Norte egy népszerű strand és kilátópont Mazatlánban.",
+                  "category": "natural",
+                  "coords": [
+                        -106.423498,
+                        23.208507
+                  ]
+            },
+            {
+                  "name": "Letras de Mazatlán",
+                  "text": "A Letras de Mazatlán egy népszerű fotózási helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.445219,
+                        23.238094
+                  ]
+            },
+            {
+                  "name": "Casas de colores",
+                  "text": "A Casas de colores egy színes látnivaló Mazatlánban.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.4253,
+                        23.199459
+                  ]
+            },
+            {
+                  "name": "Arcos Olas Altas",
+                  "text": "Az Arcos Olas Altas egy ismert látnivaló Mazatlánban.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.428045,
+                        23.198962
+                  ]
+            },
+            {
+                  "name": "Monumento a la Vida",
+                  "text": "A Monumento a la Vida egy látnivaló Mazatlánban.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.430113,
+                        23.202667
+                  ]
+            },
+            {
+                  "name": "Fuerte 31 de Marzo",
+                  "text": "A Fuerte 31 de Marzo egy történelmi látnivaló Mazatlánban.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.428517,
+                        23.208023
+                  ]
+            },
+            {
+                  "name": "Monumento al Venado",
+                  "text": "A Monumento al Venado egy emlékmű Mazatlánban.",
+                  "category": "historical",
+                  "coords": [
+                        -106.426606,
+                        23.230265
+                  ]
+            },
+            {
+                  "name": "Monumento Centenario Cervecería del Pacífico",
+                  "text": "A Monumento Centenario Cervecería del Pacífico egy emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -106.42471,
+                        23.222538
+                  ]
+            },
+            {
+                  "name": "Glorieta Sanchez Taboada",
+                  "text": "A Glorieta Sanchez Taboada egy látnivaló Mazatlánban.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.430255,
+                        23.201633
+                  ]
+            },
+            {
+                  "name": "Monumento al hombre universal",
+                  "text": "A Monumento al hombre universal egy emlékmű Mazatlánban.",
+                  "category": "historical",
+                  "coords": [
+                        -106.430995,
+                        23.239189
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "A Monumento a Hidalgo egy emlékmű Mazatlánban.",
+                  "category": "historical",
+                  "coords": [
+                        -106.405327,
+                        23.228967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Que viva Sinaloa",
+                  "text": "Museo Que viva Sinaloa este un muzeu în Mazatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -106.42332,
+                        23.197248
+                  ]
+            },
+            {
+                  "name": "Museo El Rincón de Pedro Infante",
+                  "text": "Museo El Rincón de Pedro Infante este un muzeu în Mazatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -106.416856,
+                        23.200001
+                  ]
+            },
+            {
+                  "name": "CICMA Centro de Innovación Cultural Mazatlán",
+                  "text": "CICMA este un centru cultural și de inovare în Mazatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -106.424121,
+                        23.198388
+                  ]
+            },
+            {
+                  "name": "Teatro Antonio Haas",
+                  "text": "Teatro Antonio Haas este un teatru în Mazatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.420999,
+                        23.211743
+                  ]
+            },
+            {
+                  "name": "Teatro Ángela Peralta",
+                  "text": "Teatro Ángela Peralta este un teatru istoric în Mazatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.422339,
+                        23.198043
+                  ]
+            },
+            {
+                  "name": "Playa Pinitos",
+                  "text": "Playa Pinitos este o plajă în Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.427594,
+                        23.20831
+                  ]
+            },
+            {
+                  "name": "Playa Olas Altas",
+                  "text": "Playa Olas Altas este o plajă cunoscută în Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.427268,
+                        23.196836
+                  ]
+            },
+            {
+                  "name": "Playa Norte",
+                  "text": "Playa Norte este o plajă în Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.433402,
+                        23.224629
+                  ]
+            },
+            {
+                  "name": "Playa Sábalo",
+                  "text": "Playa Sábalo este o plajă în Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.457135,
+                        23.252285
+                  ]
+            },
+            {
+                  "name": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                  "text": "Gran Acuario este un acvariu important în Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.428133,
+                        23.230228
+                  ]
+            },
+            {
+                  "name": "La Cueva del Diablo",
+                  "text": "La Cueva del Diablo este o atracție cunoscută în Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.429755,
+                        23.200436
+                  ]
+            },
+            {
+                  "name": "Acuario Mazatlán",
+                  "text": "Acuario Mazatlán este o atracție turistică populară.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.427701,
+                        23.228591
+                  ]
+            },
+            {
+                  "name": "Condominios Miramar (El Chapo)",
+                  "text": "Condominios Miramar este o atracție locală în Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.42767,
+                        23.226733
+                  ]
+            },
+            {
+                  "name": "Monumento a la Pulmonia",
+                  "text": "Monumento a la Pulmonia onorează vehiculul celebru din Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.422567,
+                        23.218708
+                  ]
+            },
+            {
+                  "name": "Malecon",
+                  "text": "Malecon este o faleză celebră în Mazatlán.",
+                  "category": "natural",
+                  "coords": [
+                        -106.421407,
+                        23.215449
+                  ]
+            },
+            {
+                  "name": "Monuments A La Continuidad de La...",
+                  "text": "Acest monument este o atracție turistică în Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.429843,
+                        23.204769
+                  ]
+            },
+            {
+                  "name": "Playa Norte (white sandy beach & sunset spot)",
+                  "text": "Playa Norte este o plajă și un punct de observație popular în Mazatlán.",
+                  "category": "natural",
+                  "coords": [
+                        -106.423498,
+                        23.208507
+                  ]
+            },
+            {
+                  "name": "Letras de Mazatlán",
+                  "text": "Letras de Mazatlán este un loc popular pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.445219,
+                        23.238094
+                  ]
+            },
+            {
+                  "name": "Casas de colores",
+                  "text": "Casas de colores este o atracție colorată în Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.4253,
+                        23.199459
+                  ]
+            },
+            {
+                  "name": "Arcos Olas Altas",
+                  "text": "Arcos Olas Altas este o atracție cunoscută în Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.428045,
+                        23.198962
+                  ]
+            },
+            {
+                  "name": "Monumento a la Vida",
+                  "text": "Monumento a la Vida este o atracție în Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.430113,
+                        23.202667
+                  ]
+            },
+            {
+                  "name": "Fuerte 31 de Marzo",
+                  "text": "Fuerte 31 de Marzo este o atracție istorică în Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.428517,
+                        23.208023
+                  ]
+            },
+            {
+                  "name": "Monumento al Venado",
+                  "text": "Monumento al Venado este un monument în Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.426606,
+                        23.230265
+                  ]
+            },
+            {
+                  "name": "Monumento Centenario Cervecería del Pacífico",
+                  "text": "Monumento Centenario Cervecería del Pacífico este un monument.",
+                  "category": "historical",
+                  "coords": [
+                        -106.42471,
+                        23.222538
+                  ]
+            },
+            {
+                  "name": "Glorieta Sanchez Taboada",
+                  "text": "Glorieta Sanchez Taboada este o atracție în Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.430255,
+                        23.201633
+                  ]
+            },
+            {
+                  "name": "Monumento al hombre universal",
+                  "text": "Monumento al hombre universal este un monument în Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.430995,
+                        23.239189
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "Monumento a Hidalgo este un monument în Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.405327,
+                        23.228967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Que viva Sinaloa",
+                  "text": "Museo Que viva Sinaloa is a museum in Mazatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -106.42332,
+                        23.197248
+                  ]
+            },
+            {
+                  "name": "Museo El Rincón de Pedro Infante",
+                  "text": "Museo El Rincón de Pedro Infante is a museum in Mazatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -106.416856,
+                        23.200001
+                  ]
+            },
+            {
+                  "name": "CICMA Centro de Innovación Cultural Mazatlán",
+                  "text": "CICMA is a cultural and innovation centre in Mazatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -106.424121,
+                        23.198388
+                  ]
+            },
+            {
+                  "name": "Teatro Antonio Haas",
+                  "text": "The Teatro Antonio Haas is a theatre in Mazatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.420999,
+                        23.211743
+                  ]
+            },
+            {
+                  "name": "Teatro Ángela Peralta",
+                  "text": "The Teatro Ángela Peralta is a historic theatre in Mazatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -106.422339,
+                        23.198043
+                  ]
+            },
+            {
+                  "name": "Playa Pinitos",
+                  "text": "Playa Pinitos is a beach in Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.427594,
+                        23.20831
+                  ]
+            },
+            {
+                  "name": "Playa Olas Altas",
+                  "text": "Playa Olas Altas is a well-known beach in Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.427268,
+                        23.196836
+                  ]
+            },
+            {
+                  "name": "Playa Norte",
+                  "text": "Playa Norte is a beach in Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.433402,
+                        23.224629
+                  ]
+            },
+            {
+                  "name": "Playa Sábalo",
+                  "text": "Playa Sábalo is a beach in Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.457135,
+                        23.252285
+                  ]
+            },
+            {
+                  "name": "Gran Acuario de Mazatlán \"Mar de Cortés\"",
+                  "text": "The Gran Acuario is a significant aquarium in Mazatlán.",
+                  "category": "recreational",
+                  "coords": [
+                        -106.428133,
+                        23.230228
+                  ]
+            },
+            {
+                  "name": "La Cueva del Diablo",
+                  "text": "La Cueva del Diablo is a well-known attraction in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.429755,
+                        23.200436
+                  ]
+            },
+            {
+                  "name": "Acuario Mazatlán",
+                  "text": "The Acuario Mazatlán is a popular tourist attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.427701,
+                        23.228591
+                  ]
+            },
+            {
+                  "name": "Condominios Miramar (El Chapo)",
+                  "text": "Condominios Miramar is a local attraction in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.42767,
+                        23.226733
+                  ]
+            },
+            {
+                  "name": "Monumento a la Pulmonia",
+                  "text": "The Monumento a la Pulmonia honours the famous vehicle in Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.422567,
+                        23.218708
+                  ]
+            },
+            {
+                  "name": "Malecon",
+                  "text": "The Malecon is a famous seaside promenade in Mazatlán.",
+                  "category": "natural",
+                  "coords": [
+                        -106.421407,
+                        23.215449
+                  ]
+            },
+            {
+                  "name": "Monuments A La Continuidad de La...",
+                  "text": "This monument is a tourist attraction in Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.429843,
+                        23.204769
+                  ]
+            },
+            {
+                  "name": "Playa Norte (white sandy beach & sunset spot)",
+                  "text": "Playa Norte is a popular beach and viewpoint in Mazatlán.",
+                  "category": "natural",
+                  "coords": [
+                        -106.423498,
+                        23.208507
+                  ]
+            },
+            {
+                  "name": "Letras de Mazatlán",
+                  "text": "The Letras de Mazatlán are a popular photo opportunity.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.445219,
+                        23.238094
+                  ]
+            },
+            {
+                  "name": "Casas de colores",
+                  "text": "The Casas de colores are a colourful attraction in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.4253,
+                        23.199459
+                  ]
+            },
+            {
+                  "name": "Arcos Olas Altas",
+                  "text": "The Arcos Olas Altas are a well-known attraction in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.428045,
+                        23.198962
+                  ]
+            },
+            {
+                  "name": "Monumento a la Vida",
+                  "text": "The Monumento a la Vida is an attraction in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.430113,
+                        23.202667
+                  ]
+            },
+            {
+                  "name": "Fuerte 31 de Marzo",
+                  "text": "The Fuerte 31 de Marzo is a historic attraction in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.428517,
+                        23.208023
+                  ]
+            },
+            {
+                  "name": "Monumento al Venado",
+                  "text": "The Monumento al Venado is a monument in Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.426606,
+                        23.230265
+                  ]
+            },
+            {
+                  "name": "Monumento Centenario Cervecería del Pacífico",
+                  "text": "The Monumento Centenario Cervecería del Pacífico is a monument.",
+                  "category": "historical",
+                  "coords": [
+                        -106.42471,
+                        23.222538
+                  ]
+            },
+            {
+                  "name": "Glorieta Sanchez Taboada",
+                  "text": "The Glorieta Sanchez Taboada is an attraction in Mazatlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -106.430255,
+                        23.201633
+                  ]
+            },
+            {
+                  "name": "Monumento al hombre universal",
+                  "text": "The Monumento al hombre universal is a monument in Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.430995,
+                        23.239189
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "The Monumento a Hidalgo is a monument in Mazatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -106.405327,
+                        23.228967
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-SIN",
     coords: [-106.4244, 23.2238],
@@ -648,7 +7704,232 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       en: ["Tuxtla Gutiérrez is located at an altitude of 522 meters in the Grijalva River valley.", "The city's Zoomat zoo is famous for housing only animals native to Chiapas.", "Sumidero Canyon, located just outside the city, is a national park since 1980.", "The Parque de la Marimba features live music every single evening of the year.", "Tuxtla is the administrative center for the state's vast coffee and hydroelectric sectors.", "The Christ of Copoya stands 62 meters tall, overlooking the entire valley.", "The city's name reflects its Zoque roots combined with the surname of Joaquín Miguel Gutiérrez.", "The Regional Museum of Chiapas houses one of the most important Mayan collections."],
     }, image: "/poi-images/tuxtla-gutierrez-cities-v2.webp"},
   {
-    id: "irapuato-cities-v2",
+    id: "irapuato-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoológico de Irapuato \"ZOOIRA\"",
+                  "text": "Der Zoológico de Irapuato \"ZOOIRA\" ist ein öffentlicher Zoo in Irapuato.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.329695,
+                        20.652833
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Das Museo Municipal ist ein Museum in Irapuato.",
+                  "category": "museum",
+                  "coords": [
+                        -101.350066,
+                        20.674253
+                  ]
+            },
+            {
+                  "name": "Teatro de la Ciudad",
+                  "text": "Das Teatro de la Ciudad ist ein Theater in der Stadt Irapuato.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.34568,
+                        20.672501
+                  ]
+            },
+            {
+                  "name": "Camión de Bomberos",
+                  "text": "Der Camión de Bomberos ist eine lokale Touristenattraktion in Irapuato.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.355742,
+                        20.675203
+                  ]
+            },
+            {
+                  "name": "Obelisco Irapuato",
+                  "text": "Der Obelisco Irapuato ist ein Denkmal in der Stadt Irapuato.",
+                  "category": "historical",
+                  "coords": [
+                        -101.357932,
+                        20.684935
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Soledad",
+                  "text": "Nuestra Señora de la Soledad ist eine Kultstätte in Irapuato und bekannt als die katholische Hauptkathedrale der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -101.346704,
+                        20.674857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoológico de Irapuato \"ZOOIRA\"",
+                  "text": "A Zoológico de Irapuato \"ZOOIRA\" egy nyilvános állatkert Irapuato városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.329695,
+                        20.652833
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "A Museo Municipal egy helyi múzeum Irapuato városában.",
+                  "category": "museum",
+                  "coords": [
+                        -101.350066,
+                        20.674253
+                  ]
+            },
+            {
+                  "name": "Teatro de la Ciudad",
+                  "text": "A Teatro de la Ciudad egy színház Irapuato városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.34568,
+                        20.672501
+                  ]
+            },
+            {
+                  "name": "Camión de Bomberos",
+                  "text": "A Camión de Bomberos egy helyi turisztikai látványosság Irapuato városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.355742,
+                        20.675203
+                  ]
+            },
+            {
+                  "name": "Obelisco Irapuato",
+                  "text": "Az Obelisco Irapuato egy emlékmű Irapuato városában.",
+                  "category": "historical",
+                  "coords": [
+                        -101.357932,
+                        20.684935
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Soledad",
+                  "text": "A Nuestra Señora de la Soledad egy istentiszteleti hely Irapuatóban, amely a város fő katolikus katedrálisaként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -101.346704,
+                        20.674857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoológico de Irapuato \"ZOOIRA\"",
+                  "text": "Zoológico de Irapuato \"ZOOIRA\" este o grădină zoologică publică situată în Irapuato.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.329695,
+                        20.652833
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Museo Municipal este un muzeu situat în Irapuato.",
+                  "category": "museum",
+                  "coords": [
+                        -101.350066,
+                        20.674253
+                  ]
+            },
+            {
+                  "name": "Teatro de la Ciudad",
+                  "text": "Teatro de la Ciudad este un teatru din orașul Irapuato.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.34568,
+                        20.672501
+                  ]
+            },
+            {
+                  "name": "Camión de Bomberos",
+                  "text": "Camión de Bomberos este o atracție turistică locală din Irapuato.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.355742,
+                        20.675203
+                  ]
+            },
+            {
+                  "name": "Obelisco Irapuato",
+                  "text": "Obelisco Irapuato este un monument aflat în orașul Irapuato.",
+                  "category": "historical",
+                  "coords": [
+                        -101.357932,
+                        20.684935
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Soledad",
+                  "text": "Nuestra Señora de la Soledad este un lăcaș de cult în Irapuato, cunoscut drept principala catedrală catolică a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -101.346704,
+                        20.674857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoológico de Irapuato \"ZOOIRA\"",
+                  "text": "Zoológico de Irapuato \"ZOOIRA\" is a public zoo located in Irapuato.",
+                  "category": "recreational",
+                  "coords": [
+                        -101.329695,
+                        20.652833
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Museo Municipal is a museum in Irapuato.",
+                  "category": "museum",
+                  "coords": [
+                        -101.350066,
+                        20.674253
+                  ]
+            },
+            {
+                  "name": "Teatro de la Ciudad",
+                  "text": "Teatro de la Ciudad is a theatre venue in the city of Irapuato.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.34568,
+                        20.672501
+                  ]
+            },
+            {
+                  "name": "Camión de Bomberos",
+                  "text": "Camión de Bomberos serves as a local tourist attraction in Irapuato.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.355742,
+                        20.675203
+                  ]
+            },
+            {
+                  "name": "Obelisco Irapuato",
+                  "text": "Obelisco Irapuato is a monument standing in the city of Irapuato.",
+                  "category": "historical",
+                  "coords": [
+                        -101.357932,
+                        20.684935
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora de la Soledad",
+                  "text": "Nuestra Señora de la Soledad is a place of worship in Irapuato, known as the city's main Catholic cathedral.",
+                  "category": "religious",
+                  "coords": [
+                        -101.346704,
+                        20.674857
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-GUA",
     coords: [-101.3470, 20.6720],
@@ -717,7 +7998,304 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       en: ["Durango was founded in 1563 and is named after the Basque town of Durango.", "The city’s historic center was declared a UNESCO World Heritage site in 2010.", "Durango sits at an elevation of 6,200 feet (1,890 meters) above sea level.", "More than 150 feature films, mostly Westerns, have been shot in Durango since 1954.", "Cerro del Mercado is a major source of iron ore, active since the colonial era.", "The city is the birthplace of legendary actress Dolores del Río.", "Durango’s Cathedral features a unique collection of colonial-era sacred art.", "The city is a key stop on the historic 'Silver Route' from Mexico City to Santa Fe."],
     }, image: "/poi-images/durango-city-cities-v2.webp"},
   {
-    id: "matamoros-cities-v2",
+    id: "matamoros-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Casamata",
+                  "text": "Das Museo Casamata ist ein Museum in Matamoros, das sich in einer historischen Festungsanlage aus dem 19. Jahrhundert befindet.",
+                  "category": "museum",
+                  "coords": [
+                        -97.497303,
+                        25.877833
+                  ]
+            },
+            {
+                  "name": "Teatro de la Reforma",
+                  "text": "Das Teatro de la Reforma ist ein Theater in der Stadt Matamoros.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.504585,
+                        25.881204
+                  ]
+            },
+            {
+                  "name": "Museo del ferrocarril",
+                  "text": "Das Museo del ferrocarril ist ein Museum in Matamoros.",
+                  "category": "museum",
+                  "coords": [
+                        -97.508798,
+                        25.885885
+                  ]
+            },
+            {
+                  "name": "El Pilar Central",
+                  "text": "El Pilar Central ist ein Denkmal in Matamoros.",
+                  "category": "historical",
+                  "coords": [
+                        -97.513642,
+                        25.873301
+                  ]
+            },
+            {
+                  "name": "C. Benito Juarez",
+                  "text": "C. Benito Juarez ist ein Denkmal in der Stadt Matamoros.",
+                  "category": "historical",
+                  "coords": [
+                        -97.503478,
+                        25.859902
+                  ]
+            },
+            {
+                  "name": "Museo IRBAM",
+                  "text": "Das Museo IRBAM ist eine Galerie in Matamoros.",
+                  "category": "museum",
+                  "coords": [
+                        -97.507421,
+                        25.885529
+                  ]
+            },
+            {
+                  "name": "Galería Gallardo",
+                  "text": "Die Galería Gallardo ist eine Galerie in Matamoros.",
+                  "category": "museum",
+                  "coords": [
+                        -97.50281,
+                        25.881931
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Brownsville-Matamoros",
+                  "text": "Die Puente Internacional Brownsville-Matamoros ist eine Brücke in Matamoros.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.5048,
+                        25.89193
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Casamata",
+                  "text": "A Museo Casamata egy múzeum Matamorosban, amely egy 19. századi történelmi erődben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -97.497303,
+                        25.877833
+                  ]
+            },
+            {
+                  "name": "Teatro de la Reforma",
+                  "text": "A Teatro de la Reforma egy színház Matamoros városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.504585,
+                        25.881204
+                  ]
+            },
+            {
+                  "name": "Museo del ferrocarril",
+                  "text": "A Museo del ferrocarril egy múzeum Matamorosban.",
+                  "category": "museum",
+                  "coords": [
+                        -97.508798,
+                        25.885885
+                  ]
+            },
+            {
+                  "name": "El Pilar Central",
+                  "text": "Az El Pilar Central egy emlékmű Matamorosban.",
+                  "category": "historical",
+                  "coords": [
+                        -97.513642,
+                        25.873301
+                  ]
+            },
+            {
+                  "name": "C. Benito Juarez",
+                  "text": "A C. Benito Juarez egy emlékmű Matamoros városában.",
+                  "category": "historical",
+                  "coords": [
+                        -97.503478,
+                        25.859902
+                  ]
+            },
+            {
+                  "name": "Museo IRBAM",
+                  "text": "A Museo IRBAM egy galéria Matamorosban.",
+                  "category": "museum",
+                  "coords": [
+                        -97.507421,
+                        25.885529
+                  ]
+            },
+            {
+                  "name": "Galería Gallardo",
+                  "text": "A Galería Gallardo egy galéria Matamorosban.",
+                  "category": "museum",
+                  "coords": [
+                        -97.50281,
+                        25.881931
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Brownsville-Matamoros",
+                  "text": "A Puente Internacional Brownsville-Matamoros egy híd Matamorosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.5048,
+                        25.89193
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Casamata",
+                  "text": "Museo Casamata este un muzeu din Matamoros, găzduit într-un fort istoric din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -97.497303,
+                        25.877833
+                  ]
+            },
+            {
+                  "name": "Teatro de la Reforma",
+                  "text": "Teatro de la Reforma este un teatru situat în orașul Matamoros.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.504585,
+                        25.881204
+                  ]
+            },
+            {
+                  "name": "Museo del ferrocarril",
+                  "text": "Museo del ferrocarril este un muzeu din Matamoros.",
+                  "category": "museum",
+                  "coords": [
+                        -97.508798,
+                        25.885885
+                  ]
+            },
+            {
+                  "name": "El Pilar Central",
+                  "text": "El Pilar Central este un monument situat în Matamoros.",
+                  "category": "historical",
+                  "coords": [
+                        -97.513642,
+                        25.873301
+                  ]
+            },
+            {
+                  "name": "C. Benito Juarez",
+                  "text": "C. Benito Juarez este un monument aflat în orașul Matamoros.",
+                  "category": "historical",
+                  "coords": [
+                        -97.503478,
+                        25.859902
+                  ]
+            },
+            {
+                  "name": "Museo IRBAM",
+                  "text": "Museo IRBAM este o galerie de artă din Matamoros.",
+                  "category": "museum",
+                  "coords": [
+                        -97.507421,
+                        25.885529
+                  ]
+            },
+            {
+                  "name": "Galería Gallardo",
+                  "text": "Galería Gallardo este o galerie situată în Matamoros.",
+                  "category": "museum",
+                  "coords": [
+                        -97.50281,
+                        25.881931
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Brownsville-Matamoros",
+                  "text": "Puente Internacional Brownsville-Matamoros este un pod din Matamoros.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.5048,
+                        25.89193
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Casamata",
+                  "text": "Museo Casamata is a museum in Matamoros housed in a historical 19th-century fort.",
+                  "category": "museum",
+                  "coords": [
+                        -97.497303,
+                        25.877833
+                  ]
+            },
+            {
+                  "name": "Teatro de la Reforma",
+                  "text": "Teatro de la Reforma is a theatre located in the city of Matamoros.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.504585,
+                        25.881204
+                  ]
+            },
+            {
+                  "name": "Museo del ferrocarril",
+                  "text": "Museo del ferrocarril is a museum dedicated to railways in Matamoros.",
+                  "category": "museum",
+                  "coords": [
+                        -97.508798,
+                        25.885885
+                  ]
+            },
+            {
+                  "name": "El Pilar Central",
+                  "text": "El Pilar Central is a monument located in Matamoros.",
+                  "category": "historical",
+                  "coords": [
+                        -97.513642,
+                        25.873301
+                  ]
+            },
+            {
+                  "name": "C. Benito Juarez",
+                  "text": "C. Benito Juarez is a monument located in the city of Matamoros.",
+                  "category": "historical",
+                  "coords": [
+                        -97.503478,
+                        25.859902
+                  ]
+            },
+            {
+                  "name": "Museo IRBAM",
+                  "text": "Museo IRBAM is a gallery located in Matamoros.",
+                  "category": "museum",
+                  "coords": [
+                        -97.507421,
+                        25.885529
+                  ]
+            },
+            {
+                  "name": "Galería Gallardo",
+                  "text": "Galería Gallardo is a gallery situated in Matamoros.",
+                  "category": "museum",
+                  "coords": [
+                        -97.50281,
+                        25.881931
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Brownsville-Matamoros",
+                  "text": "The Puente Internacional Brownsville-Matamoros is a bridge located in Matamoros.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.5048,
+                        25.89193
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-TAM",
     coords: [-97.5028, 25.8675],
@@ -765,7 +8343,448 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       en: ["Cuernavaca sits at an elevation of 4,950 feet (1,510 meters) above sea level.", "The Palace of Cortés is the oldest conserved colonial-era civil structure in the Americas.", "The city’s cathedral was originally a Franciscan monastery founded in 1525.", "Cuernavaca hosts a major campus of the National Autonomous University of Mexico (UNAM).", "The Borda Garden features a diverse collection of exotic plants and 18th-century fountains.", "The city is a major hub for the Mexican pharmaceutical and automotive component industries.", "Teopanzolco Archaeological Zone features temples dedicated to Tlaloc and Huitzilopochtli.", "Cuernavaca is often called the 'Land of the Tlahuicas' after its original inhabitants."],
     }, image: "/poi-images/cuernavaca-cities-v2.webp"},
   {
-    id: "celaya-cities-v2",
+    id: "celaya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Imaginate la Bola",
+                  "text": "Das Museo Imaginate la Bola ist ein Museum in Celaya.",
+                  "category": "museum",
+                  "coords": [
+                        -100.829585,
+                        20.537175
+                  ]
+            },
+            {
+                  "name": "Mumeia",
+                  "text": "Mumeia ist ein Museum in Celaya.",
+                  "category": "museum",
+                  "coords": [
+                        -100.81949,
+                        20.534114
+                  ]
+            },
+            {
+                  "name": "Teatro Nieto Piña",
+                  "text": "Das Teatro Nieto Piña ist ein Theater in Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.783882,
+                        20.518437
+                  ]
+            },
+            {
+                  "name": "Museo de Celaya Historia Regional",
+                  "text": "Das Regionalmuseum in Celaya zeigt lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -100.812671,
+                        20.521683
+                  ]
+            },
+            {
+                  "name": "Auditorio Tresguerras",
+                  "text": "Das Auditorio Tresguerras ist ein Theater in Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.828752,
+                        20.536251
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Octavio Ocampo",
+                  "text": "Das Museo de Arte Octavio Ocampo ist ein Kunstmuseum in Celaya.",
+                  "category": "museum",
+                  "coords": [
+                        -100.813433,
+                        20.523321
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Die monumentale Flagge ist ein Wahrzeichen in Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.82559,
+                        20.534998
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "Das Monumento a Hidalgo ist ein Denkmal in Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.812216,
+                        20.52284
+                  ]
+            },
+            {
+                  "name": "Francisco Villa",
+                  "text": "Das Francisco Villa Denkmal erinnert an den historischen Anführer in Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.839305,
+                        20.519336
+                  ]
+            },
+            {
+                  "name": "Monumento Benito Juarez",
+                  "text": "Das Monumento Benito Juarez ist ein Denkmal in Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.789376,
+                        20.517554
+                  ]
+            },
+            {
+                  "name": "Casa de la cultura de Celaya",
+                  "text": "Kulturzentrum in Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.813218,
+                        20.520547
+                  ]
+            },
+            {
+                  "name": "Centro para las Artes",
+                  "text": "Zentrum für Kunst in Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.811649,
+                        20.541071
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Imaginate la Bola",
+                  "text": "A Museo Imaginate la Bola egy múzeum Celayában.",
+                  "category": "museum",
+                  "coords": [
+                        -100.829585,
+                        20.537175
+                  ]
+            },
+            {
+                  "name": "Mumeia",
+                  "text": "A Mumeia egy múzeum Celayában.",
+                  "category": "museum",
+                  "coords": [
+                        -100.81949,
+                        20.534114
+                  ]
+            },
+            {
+                  "name": "Teatro Nieto Piña",
+                  "text": "A Teatro Nieto Piña egy színház Celayában.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.783882,
+                        20.518437
+                  ]
+            },
+            {
+                  "name": "Museo de Celaya Historia Regional",
+                  "text": "A Celaya Regionális Múzeum a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -100.812671,
+                        20.521683
+                  ]
+            },
+            {
+                  "name": "Auditorio Tresguerras",
+                  "text": "Az Auditorio Tresguerras egy színház Celayában.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.828752,
+                        20.536251
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Octavio Ocampo",
+                  "text": "A Museo de Arte Octavio Ocampo egy művészeti múzeum Celayában.",
+                  "category": "museum",
+                  "coords": [
+                        -100.813433,
+                        20.523321
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "A monumentális zászló egy mérföldkő Celayában.",
+                  "category": "historical",
+                  "coords": [
+                        -100.82559,
+                        20.534998
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "A Monumento a Hidalgo egy emlékmű Celayában.",
+                  "category": "historical",
+                  "coords": [
+                        -100.812216,
+                        20.52284
+                  ]
+            },
+            {
+                  "name": "Francisco Villa",
+                  "text": "A Francisco Villa emlékmű a történelmi vezetőre emlékezik Celayában.",
+                  "category": "historical",
+                  "coords": [
+                        -100.839305,
+                        20.519336
+                  ]
+            },
+            {
+                  "name": "Monumento Benito Juarez",
+                  "text": "A Monumento Benito Juarez egy emlékmű Celayában.",
+                  "category": "historical",
+                  "coords": [
+                        -100.789376,
+                        20.517554
+                  ]
+            },
+            {
+                  "name": "Casa de la cultura de Celaya",
+                  "text": "Kulturális központ Celayában.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.813218,
+                        20.520547
+                  ]
+            },
+            {
+                  "name": "Centro para las Artes",
+                  "text": "Művészeti központ Celayában.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.811649,
+                        20.541071
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Imaginate la Bola",
+                  "text": "Museo Imaginate la Bola este un muzeu în Celaya.",
+                  "category": "museum",
+                  "coords": [
+                        -100.829585,
+                        20.537175
+                  ]
+            },
+            {
+                  "name": "Mumeia",
+                  "text": "Mumeia este un muzeu în Celaya.",
+                  "category": "museum",
+                  "coords": [
+                        -100.81949,
+                        20.534114
+                  ]
+            },
+            {
+                  "name": "Teatro Nieto Piña",
+                  "text": "Teatro Nieto Piña este un teatru în Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.783882,
+                        20.518437
+                  ]
+            },
+            {
+                  "name": "Museo de Celaya Historia Regional",
+                  "text": "Muzeul Regional din Celaya prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -100.812671,
+                        20.521683
+                  ]
+            },
+            {
+                  "name": "Auditorio Tresguerras",
+                  "text": "Auditorio Tresguerras este un teatru în Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.828752,
+                        20.536251
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Octavio Ocampo",
+                  "text": "Museo de Arte Octavio Ocampo este un muzeu de artă în Celaya.",
+                  "category": "museum",
+                  "coords": [
+                        -100.813433,
+                        20.523321
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Steagul monumental este un punct de reper în Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.82559,
+                        20.534998
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "Monumento a Hidalgo este un monument în Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.812216,
+                        20.52284
+                  ]
+            },
+            {
+                  "name": "Francisco Villa",
+                  "text": "Monumentul Francisco Villa comemorează liderul istoric în Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.839305,
+                        20.519336
+                  ]
+            },
+            {
+                  "name": "Monumento Benito Juarez",
+                  "text": "Monumento Benito Juarez este un monument în Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.789376,
+                        20.517554
+                  ]
+            },
+            {
+                  "name": "Casa de la cultura de Celaya",
+                  "text": "Centru cultural în Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.813218,
+                        20.520547
+                  ]
+            },
+            {
+                  "name": "Centro para las Artes",
+                  "text": "Centru de artă în Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.811649,
+                        20.541071
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Imaginate la Bola",
+                  "text": "The Museo Imaginate la Bola is a museum in Celaya.",
+                  "category": "museum",
+                  "coords": [
+                        -100.829585,
+                        20.537175
+                  ]
+            },
+            {
+                  "name": "Mumeia",
+                  "text": "Mumeia is a museum in Celaya.",
+                  "category": "museum",
+                  "coords": [
+                        -100.81949,
+                        20.534114
+                  ]
+            },
+            {
+                  "name": "Teatro Nieto Piña",
+                  "text": "The Teatro Nieto Piña is a theatre in Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.783882,
+                        20.518437
+                  ]
+            },
+            {
+                  "name": "Museo de Celaya Historia Regional",
+                  "text": "The Regional Museum in Celaya showcases local history.",
+                  "category": "museum",
+                  "coords": [
+                        -100.812671,
+                        20.521683
+                  ]
+            },
+            {
+                  "name": "Auditorio Tresguerras",
+                  "text": "The Auditorio Tresguerras is a theatre in Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.828752,
+                        20.536251
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Octavio Ocampo",
+                  "text": "The Museo de Arte Octavio Ocampo is an art museum in Celaya.",
+                  "category": "museum",
+                  "coords": [
+                        -100.813433,
+                        20.523321
+                  ]
+            },
+            {
+                  "name": "Monumental Flag",
+                  "text": "The monumental flag is a landmark in Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.82559,
+                        20.534998
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "The Monumento a Hidalgo is a monument in Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.812216,
+                        20.52284
+                  ]
+            },
+            {
+                  "name": "Francisco Villa",
+                  "text": "The Francisco Villa monument commemorates the historical leader in Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.839305,
+                        20.519336
+                  ]
+            },
+            {
+                  "name": "Monumento Benito Juarez",
+                  "text": "The Monumento Benito Juarez is a monument in Celaya.",
+                  "category": "historical",
+                  "coords": [
+                        -100.789376,
+                        20.517554
+                  ]
+            },
+            {
+                  "name": "Casa de la cultura de Celaya",
+                  "text": "Arts centre in Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.813218,
+                        20.520547
+                  ]
+            },
+            {
+                  "name": "Centro para las Artes",
+                  "text": "Arts centre in Celaya.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.811649,
+                        20.541071
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-GUA",
     coords: [-100.8122, 20.5213],
@@ -1002,7 +9021,484 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       en: ["Guanajuato was founded in 1548 and sits at an altitude of 6,600 feet.", "The city’s tunnel system is unique globally for hosting regular urban traffic.", "The Valenciana Mine was the richest silver mine in the Spanish Empire.", "The International Cervantino Festival is the most important cultural event in Mexico.", "The Mummy Museum attracts over 600,000 visitors per year.", "Alhóndiga de Granaditas was a massive grain warehouse before becoming a fortress.", "The city's name comes from 'Quanaxhuato,' meaning 'Place of Frogs' in Purépecha.", "Teatro Juárez features 8 bronze statues of the Greek muses on its rooftop."],
     }, image: "/poi-images/guanajuato-city-cities-v2.webp"},
   {
-    id: "playa-del-carmen-cities-v2",
+    id: "playa-del-carmen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Frida Kahlo",
+                  "text": "Frida Kahlo ist ein Museum in Playa del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -87.072757,
+                        20.625921
+                  ]
+            },
+            {
+                  "name": "El Acuario de Playa",
+                  "text": "Aquarium Beach ist ein Museum in Playa del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -87.071468,
+                        20.628367
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad Solidaridad",
+                  "text": "Das Teatro De La Ciudad Solidaridad ist ein Theater in Playa del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.082889,
+                        20.652626
+                  ]
+            },
+            {
+                  "name": "Playalingua",
+                  "text": "Playalingua ist ein Kunstzentrum in der Stadt Playa del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.069882,
+                        20.630889
+                  ]
+            },
+            {
+                  "name": "3D Museum",
+                  "text": "Das 3D Museum ist eine Attraktion in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.073352,
+                        20.626961
+                  ]
+            },
+            {
+                  "name": "Alamo Sakahua",
+                  "text": "Der Baum mit 18 Metern Durchmesser ist ein Naturdenkmal in Playa del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -87.064815,
+                        20.634554
+                  ]
+            },
+            {
+                  "name": "parque fundadores",
+                  "text": "Der Settlers Park ist eine lokale Attraktion in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.074981,
+                        20.622004
+                  ]
+            },
+            {
+                  "name": "Playa mamitas",
+                  "text": "Playa Mamitas ist eine Attraktion in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.064977,
+                        20.63074
+                  ]
+            },
+            {
+                  "name": "La Casa De Las Hamacas",
+                  "text": "La Casa De Las Hamacas ist eine Attraktion in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.068071,
+                        20.641773
+                  ]
+            },
+            {
+                  "name": "Skydive Playa",
+                  "text": "Skydive Playa ist eine Attraktion in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.077871,
+                        20.62201
+                  ]
+            },
+            {
+                  "name": "Dog rescue center volunteering",
+                  "text": "Das Freiwilligenzentrum für die Hunderettung ist eine Attraktion in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.105852,
+                        20.633978
+                  ]
+            },
+            {
+                  "name": "Residencia Art Project",
+                  "text": "Das Residencia Art Project ist eine Kunstgalerie in Playa del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -87.06589,
+                        20.635217
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Die Casa de la Cultura dient als Kunstzentrum in Playa del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.083506,
+                        20.651326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Frida Kahlo",
+                  "text": "A Frida Kahlo egy múzeum Playa del Carmen városában.",
+                  "category": "museum",
+                  "coords": [
+                        -87.072757,
+                        20.625921
+                  ]
+            },
+            {
+                  "name": "El Acuario de Playa",
+                  "text": "Az Aquarium Beach egy múzeumként működő látványosság Playa del Carmenben.",
+                  "category": "museum",
+                  "coords": [
+                        -87.071468,
+                        20.628367
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad Solidaridad",
+                  "text": "A Teatro De La Ciudad Solidaridad egy színház Playa del Carmen városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.082889,
+                        20.652626
+                  ]
+            },
+            {
+                  "name": "Playalingua",
+                  "text": "A Playalingua egy művészeti központ Playa del Carmen városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.069882,
+                        20.630889
+                  ]
+            },
+            {
+                  "name": "3D Museum",
+                  "text": "A 3D Museum egy látványosság Playa del Carmenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.073352,
+                        20.626961
+                  ]
+            },
+            {
+                  "name": "Alamo Sakahua",
+                  "text": "A 18 méter átmérőjű fa egy emlékmű Playa del Carmen városában.",
+                  "category": "historical",
+                  "coords": [
+                        -87.064815,
+                        20.634554
+                  ]
+            },
+            {
+                  "name": "parque fundadores",
+                  "text": "A Settlers park egy helyi látványosság Playa del Carmenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.074981,
+                        20.622004
+                  ]
+            },
+            {
+                  "name": "Playa mamitas",
+                  "text": "A Playa mamitas egy látványosság Playa del Carmen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.064977,
+                        20.63074
+                  ]
+            },
+            {
+                  "name": "La Casa De Las Hamacas",
+                  "text": "A La Casa De Las Hamacas egy látványosság Playa del Carmen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.068071,
+                        20.641773
+                  ]
+            },
+            {
+                  "name": "Skydive Playa",
+                  "text": "A Skydive Playa egy látványosság Playa del Carmenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.077871,
+                        20.62201
+                  ]
+            },
+            {
+                  "name": "Dog rescue center volunteering",
+                  "text": "A kutyamentő központ önkéntes programja egy látványosság Playa del Carmenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.105852,
+                        20.633978
+                  ]
+            },
+            {
+                  "name": "Residencia Art Project",
+                  "text": "A Residencia Art Project egy művészeti galéria Playa del Carmen városában.",
+                  "category": "museum",
+                  "coords": [
+                        -87.06589,
+                        20.635217
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A Casa de la Cultura művészeti központként működik Playa del Carmenben.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.083506,
+                        20.651326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Frida Kahlo",
+                  "text": "Frida Kahlo este un muzeu situat în Playa del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -87.072757,
+                        20.625921
+                  ]
+            },
+            {
+                  "name": "El Acuario de Playa",
+                  "text": "Aquarium Beach funcționează ca un muzeu în Playa del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -87.071468,
+                        20.628367
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad Solidaridad",
+                  "text": "Teatro De La Ciudad Solidaridad este un teatru situat în Playa del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.082889,
+                        20.652626
+                  ]
+            },
+            {
+                  "name": "Playalingua",
+                  "text": "Playalingua este un centru de arte situat în orașul Playa del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.069882,
+                        20.630889
+                  ]
+            },
+            {
+                  "name": "3D Museum",
+                  "text": "3D Museum este o atracție din Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.073352,
+                        20.626961
+                  ]
+            },
+            {
+                  "name": "Alamo Sakahua",
+                  "text": "Copacul cu diametrul de 18 m este un monument situat în Playa del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -87.064815,
+                        20.634554
+                  ]
+            },
+            {
+                  "name": "parque fundadores",
+                  "text": "Settlers park este o atracție locală situată în Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.074981,
+                        20.622004
+                  ]
+            },
+            {
+                  "name": "Playa mamitas",
+                  "text": "Playa mamitas este o atracție din Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.064977,
+                        20.63074
+                  ]
+            },
+            {
+                  "name": "La Casa De Las Hamacas",
+                  "text": "La Casa De Las Hamacas este o atracție situată în Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.068071,
+                        20.641773
+                  ]
+            },
+            {
+                  "name": "Skydive Playa",
+                  "text": "Skydive Playa este o atracție situată în Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.077871,
+                        20.62201
+                  ]
+            },
+            {
+                  "name": "Dog rescue center volunteering",
+                  "text": "Centrul de voluntariat pentru salvarea câinilor este o atracție din Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.105852,
+                        20.633978
+                  ]
+            },
+            {
+                  "name": "Residencia Art Project",
+                  "text": "Residencia Art Project este o galerie de artă situată în Playa del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -87.06589,
+                        20.635217
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura funcționează ca un centru de arte în Playa del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.083506,
+                        20.651326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Frida Kahlo",
+                  "text": "Frida Kahlo is a museum located in Playa del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -87.072757,
+                        20.625921
+                  ]
+            },
+            {
+                  "name": "Aquarium Beach",
+                  "text": "Aquarium Beach serves as a museum attraction in Playa del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -87.071468,
+                        20.628367
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad Solidaridad",
+                  "text": "Teatro De La Ciudad Solidaridad is a theatre situated in Playa del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.082889,
+                        20.652626
+                  ]
+            },
+            {
+                  "name": "Playalingua",
+                  "text": "Playalingua is an arts centre located in the city of Playa del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.069882,
+                        20.630889
+                  ]
+            },
+            {
+                  "name": "3D Museum",
+                  "text": "The 3D Museum is a visual attraction found in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.073352,
+                        20.626961
+                  ]
+            },
+            {
+                  "name": "tree of 18m diameter",
+                  "text": "The tree of 18m diameter is a monument located in Playa del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -87.064815,
+                        20.634554
+                  ]
+            },
+            {
+                  "name": "settlers park",
+                  "text": "Settlers park is a local attraction situated in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.074981,
+                        20.622004
+                  ]
+            },
+            {
+                  "name": "Playa mamitas",
+                  "text": "Playa mamitas is an attraction in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.064977,
+                        20.63074
+                  ]
+            },
+            {
+                  "name": "La Casa De Las Hamacas",
+                  "text": "La Casa De Las Hamacas is an attraction located in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.068071,
+                        20.641773
+                  ]
+            },
+            {
+                  "name": "Skydive Playa",
+                  "text": "Skydive Playa is an attraction situated in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.077871,
+                        20.62201
+                  ]
+            },
+            {
+                  "name": "Dog rescue center volunteering",
+                  "text": "The dog rescue center volunteering site is an attraction in Playa del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.105852,
+                        20.633978
+                  ]
+            },
+            {
+                  "name": "Residencia Art Project",
+                  "text": "Residencia Art Project is an art gallery based in Playa del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -87.06589,
+                        20.635217
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura serves as an arts centre in Playa del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.083506,
+                        20.651326
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-ROO",
     coords: [-87.0811, 20.6274],
@@ -1029,7 +9525,232 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["La célèbre Quinta Avenida est l'une des plus longues zones piétonnes continues du Mexique.", "Playa del Carmen est le principal point de départ des ferries pour l'île de Cozumel.", "La ville est passée en quelques décennies d'un petit village à une métropole vibrante."],
     }, image: "/poi-images/playa-del-carmen-cities-v2.webp"},
   {
-    id: "puerto-vallarta-cities-v2",
+    id: "puerto-vallarta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Estatal Estero el Salado",
+                  "text": "Der Parque Estatal Estero el Salado ist ein Naturschutzgebiet in Puerto Vallarta.",
+                  "category": "natural",
+                  "coords": [
+                        -105.237928,
+                        20.670067
+                  ]
+            },
+            {
+                  "name": "Playa de Oro",
+                  "text": "Playa de Oro ist ein Strand in Puerto Vallarta.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.243098,
+                        20.6479
+                  ]
+            },
+            {
+                  "name": "Playa Los Tules",
+                  "text": "Playa Los Tules ist ein Strand in Puerto Vallarta.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.239513,
+                        20.642119
+                  ]
+            },
+            {
+                  "name": "Playa Las Glorias",
+                  "text": "Playa Las Glorias ist ein Strand in der Stadt Puerto Vallarta.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.233164,
+                        20.632303
+                  ]
+            },
+            {
+                  "name": "Administración Del Sistema Portuario Nacional Marina",
+                  "text": "Die Administración Del Sistema Portuario Nacional Marina ist eine Attraktion in Puerto Vallarta.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.243253,
+                        20.653575
+                  ]
+            },
+            {
+                  "name": "Puerto Cruzero",
+                  "text": "Der Cruise Port ist eine Attraktion in Puerto Vallarta.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.241058,
+                        20.654291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Estatal Estero el Salado",
+                  "text": "A Parque Estatal Estero el Salado egy természetvédelmi terület Puerto Vallartában.",
+                  "category": "natural",
+                  "coords": [
+                        -105.237928,
+                        20.670067
+                  ]
+            },
+            {
+                  "name": "Playa de Oro",
+                  "text": "A Playa de Oro egy strand Puerto Vallartában.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.243098,
+                        20.6479
+                  ]
+            },
+            {
+                  "name": "Playa Los Tules",
+                  "text": "A Playa Los Tules egy strand Puerto Vallartában.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.239513,
+                        20.642119
+                  ]
+            },
+            {
+                  "name": "Playa Las Glorias",
+                  "text": "A Playa Las Glorias egy strand Puerto Vallarta városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.233164,
+                        20.632303
+                  ]
+            },
+            {
+                  "name": "Administración Del Sistema Portuario Nacional Marina",
+                  "text": "Az Administración Del Sistema Portuario Nacional Marina egy látványosság Puerto Vallartában.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.243253,
+                        20.653575
+                  ]
+            },
+            {
+                  "name": "Puerto Cruzero",
+                  "text": "A Cruise Port egy látványosság Puerto Vallartában.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.241058,
+                        20.654291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Estatal Estero el Salado",
+                  "text": "Parque Estatal Estero el Salado este o rezervație naturală în Puerto Vallarta.",
+                  "category": "natural",
+                  "coords": [
+                        -105.237928,
+                        20.670067
+                  ]
+            },
+            {
+                  "name": "Playa de Oro",
+                  "text": "Playa de Oro este o plajă situată în Puerto Vallarta.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.243098,
+                        20.6479
+                  ]
+            },
+            {
+                  "name": "Playa Los Tules",
+                  "text": "Playa Los Tules este o plajă din Puerto Vallarta.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.239513,
+                        20.642119
+                  ]
+            },
+            {
+                  "name": "Playa Las Glorias",
+                  "text": "Playa Las Glorias este o plajă în orașul Puerto Vallarta.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.233164,
+                        20.632303
+                  ]
+            },
+            {
+                  "name": "Administración Del Sistema Portuario Nacional Marina",
+                  "text": "Administración Del Sistema Portuario Nacional Marina este o atracție în Puerto Vallarta.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.243253,
+                        20.653575
+                  ]
+            },
+            {
+                  "name": "Puerto Cruzero",
+                  "text": "Cruise Port este o atracție situată în Puerto Vallarta.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.241058,
+                        20.654291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Estatal Estero el Salado",
+                  "text": "Parque Estatal Estero el Salado is a nature reserve situated in Puerto Vallarta.",
+                  "category": "natural",
+                  "coords": [
+                        -105.237928,
+                        20.670067
+                  ]
+            },
+            {
+                  "name": "Playa de Oro",
+                  "text": "Playa de Oro is a beach located in Puerto Vallarta.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.243098,
+                        20.6479
+                  ]
+            },
+            {
+                  "name": "Playa Los Tules",
+                  "text": "Playa Los Tules is a beach situated in Puerto Vallarta.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.239513,
+                        20.642119
+                  ]
+            },
+            {
+                  "name": "Playa Las Glorias",
+                  "text": "Playa Las Glorias is a beach located in the city of Puerto Vallarta.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.233164,
+                        20.632303
+                  ]
+            },
+            {
+                  "name": "Administración Del Sistema Portuario Nacional Marina",
+                  "text": "The Administración Del Sistema Portuario Nacional Marina is an attraction in Puerto Vallarta.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.243253,
+                        20.653575
+                  ]
+            },
+            {
+                  "name": "Cruise Port",
+                  "text": "The Cruise Port is an attraction located in Puerto Vallarta.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.241058,
+                        20.654291
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-JAL",
     coords: [-105.2173, 20.6534],
@@ -1056,7 +9777,268 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Puerto Vallarta a acquis une renommée internationale grâce au film « La Nuit de l'iguane » dans les années 1960.", "La Bahía de Banderas est l'une des baies les plus vastes et les plus profondes au monde.", "La couronne de l'église Notre-Dame de Guadalupe est l'emblème de la ville."],
     }, image: "/poi-images/puerto-vallarta-cities-v2.webp"},
   {
-    id: "tula-de-allende-cities-v2",
+    id: "tula-de-allende-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tula",
+                  "text": "Bedeutende archäologische Stätte in Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.334321,
+                        20.067333
+                  ]
+            },
+            {
+                  "name": "Coatepantli",
+                  "text": "Archäologische Stätte in Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.34036,
+                        20.064414
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Tula",
+                  "text": "Naturschutzgebiet in Tula de Allende.",
+                  "category": "natural",
+                  "coords": [
+                        -99.338212,
+                        20.067952
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Theater in Tula de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.342512,
+                        20.056116
+                  ]
+            },
+            {
+                  "name": "Tula Chico",
+                  "text": "Archäologische Stätte in Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.345894,
+                        20.062242
+                  ]
+            },
+            {
+                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
+                  "text": "Museum in Tula de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -99.341801,
+                        20.061981
+                  ]
+            },
+            {
+                  "name": "capilla abierta",
+                  "text": "Ruinen in Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.338579,
+                        20.061492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tula",
+                  "text": "Jelentős régészeti lelőhely Tula de Allendében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.334321,
+                        20.067333
+                  ]
+            },
+            {
+                  "name": "Coatepantli",
+                  "text": "Régészeti lelőhely Tula de Allendében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.34036,
+                        20.064414
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Tula",
+                  "text": "Természetvédelmi terület Tula de Allendében.",
+                  "category": "natural",
+                  "coords": [
+                        -99.338212,
+                        20.067952
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Színház Tula de Allendében.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.342512,
+                        20.056116
+                  ]
+            },
+            {
+                  "name": "Tula Chico",
+                  "text": "Régészeti lelőhely Tula de Allendében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.345894,
+                        20.062242
+                  ]
+            },
+            {
+                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
+                  "text": "Múzeum Tula de Allendében.",
+                  "category": "museum",
+                  "coords": [
+                        -99.341801,
+                        20.061981
+                  ]
+            },
+            {
+                  "name": "capilla abierta",
+                  "text": "Romok Tula de Allendében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.338579,
+                        20.061492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tula",
+                  "text": "Sit arheologic important în Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.334321,
+                        20.067333
+                  ]
+            },
+            {
+                  "name": "Coatepantli",
+                  "text": "Sit arheologic în Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.34036,
+                        20.064414
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Tula",
+                  "text": "Rezervație naturală în Tula de Allende.",
+                  "category": "natural",
+                  "coords": [
+                        -99.338212,
+                        20.067952
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Teatru în Tula de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.342512,
+                        20.056116
+                  ]
+            },
+            {
+                  "name": "Tula Chico",
+                  "text": "Sit arheologic în Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.345894,
+                        20.062242
+                  ]
+            },
+            {
+                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
+                  "text": "Muzeu în Tula de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -99.341801,
+                        20.061981
+                  ]
+            },
+            {
+                  "name": "capilla abierta",
+                  "text": "Ruine în Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.338579,
+                        20.061492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tula",
+                  "text": "Major archaeological site in Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.334321,
+                        20.067333
+                  ]
+            },
+            {
+                  "name": "Coatepantli",
+                  "text": "Archaeological site in Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.34036,
+                        20.064414
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Tula",
+                  "text": "Nature reserve in Tula de Allende.",
+                  "category": "natural",
+                  "coords": [
+                        -99.338212,
+                        20.067952
+                  ]
+            },
+            {
+                  "name": "Teatro al Aire Libre",
+                  "text": "Theatre in Tula de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.342512,
+                        20.056116
+                  ]
+            },
+            {
+                  "name": "Tula Chico",
+                  "text": "Archaeological site in Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.345894,
+                        20.062242
+                  ]
+            },
+            {
+                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
+                  "text": "Museum in Tula de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -99.341801,
+                        20.061981
+                  ]
+            },
+            {
+                  "name": "capilla abierta",
+                  "text": "Ruins in Tula de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -99.338579,
+                        20.061492
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-HID",
     coords: [-99.3411, 20.0575],
@@ -1083,7 +10065,448 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Tula était le centre le plus important des hauts plateaux centraux du Mexique après la chute de Teotihuacán.", "Les célèbres géants de pierre 'Atlantes' soutenaient à l'origine le toit d'un temple.", "Selon la légende, Tula était la demeure du dieu serpent à plumes Quetzalcóatl."],
     }, image: "/poi-images/tula-de-allende-cities-v2.webp"},
   {
-    id: "uruapan-cities-v2",
+    id: "uruapan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Huátapera",
+                  "text": "La Huátapera ist ein Museum in der Stadt Uruapan.",
+                  "category": "museum",
+                  "coords": [
+                        -102.062108,
+                        19.421055
+                  ]
+            },
+            {
+                  "name": "Casa mas chiquita del mundo",
+                  "text": "Das kleinste Haus der Welt ist ein Museum in Uruapan.",
+                  "category": "museum",
+                  "coords": [
+                        -102.066048,
+                        19.425471
+                  ]
+            },
+            {
+                  "name": "Foro Cultural La Morada",
+                  "text": "Das Foro Cultural La Morada ist ein Theater in Uruapan.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.06654,
+                        19.423036
+                  ]
+            },
+            {
+                  "name": "Centro de Espectáculos 'La Macarena'",
+                  "text": "Das Centro de Espectáculos 'La Macarena' ist ein Theater in Uruapan.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.042797,
+                        19.416148
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Barranca del Cupatitzio",
+                  "text": "Der Parque Nacional Barranca del Cupatitzio ist ein Naturschutzgebiet in Uruapan.",
+                  "category": "natural",
+                  "coords": [
+                        -102.103618,
+                        19.429357
+                  ]
+            },
+            {
+                  "name": "Gral. Lázaro Cárdenas",
+                  "text": "Gral. Lázaro Cárdenas ist ein öffentliches Denkmal in der Stadt Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.050652,
+                        19.417989
+                  ]
+            },
+            {
+                  "name": "Pérgola Municipal",
+                  "text": "Die Pérgola Municipal ist ein Denkmal in Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.063304,
+                        19.421018
+                  ]
+            },
+            {
+                  "name": "Monumento a La Bandera",
+                  "text": "Das Monumento a La Bandera ist ein Denkmal in Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.06391,
+                        19.42228
+                  ]
+            },
+            {
+                  "name": "Mural de los Orígenes de Uruapan",
+                  "text": "Das Mural de los Orígenes de Uruapan ist ein Denkmal in Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.074792,
+                        19.433321
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Ochoa",
+                  "text": "Das Monumento al Padre Ochoa ist ein Denkmal in Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.066383,
+                        19.405226
+                  ]
+            },
+            {
+                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
+                  "text": "Taller Escuela de Artes Plásticas y Artesanías MAPECO ist ein Kunstzentrum in Uruapan.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.046943,
+                        19.408917
+                  ]
+            },
+            {
+                  "name": "Mansión del Cupatitzio",
+                  "text": "Mansión del Cupatitzio ist ein Hotel in Uruapan.",
+                  "category": "landmark",
+                  "coords": [
+                        -102.074191,
+                        19.429717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Huátapera",
+                  "text": "A La Huátapera egy múzeum Uruapan városában.",
+                  "category": "museum",
+                  "coords": [
+                        -102.062108,
+                        19.421055
+                  ]
+            },
+            {
+                  "name": "Casa mas chiquita del mundo",
+                  "text": "A világ legkisebb háza egy múzeum Uruapanban.",
+                  "category": "museum",
+                  "coords": [
+                        -102.066048,
+                        19.425471
+                  ]
+            },
+            {
+                  "name": "Foro Cultural La Morada",
+                  "text": "A Foro Cultural La Morada egy színház Uruapan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.06654,
+                        19.423036
+                  ]
+            },
+            {
+                  "name": "Centro de Espectáculos 'La Macarena'",
+                  "text": "A Centro de Espectáculos 'La Macarena' színházként működik Uruapanban.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.042797,
+                        19.416148
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Barranca del Cupatitzio",
+                  "text": "A Parque Nacional Barranca del Cupatitzio egy természetvédelmi terület Uruapanban.",
+                  "category": "natural",
+                  "coords": [
+                        -102.103618,
+                        19.429357
+                  ]
+            },
+            {
+                  "name": "Gral. Lázaro Cárdenas",
+                  "text": "A Gral. Lázaro Cárdenas egy köztéri emlékmű Uruapan városában.",
+                  "category": "historical",
+                  "coords": [
+                        -102.050652,
+                        19.417989
+                  ]
+            },
+            {
+                  "name": "Pérgola Municipal",
+                  "text": "A Pérgola Municipal egy emlékmű Uruapanban.",
+                  "category": "historical",
+                  "coords": [
+                        -102.063304,
+                        19.421018
+                  ]
+            },
+            {
+                  "name": "Monumento a La Bandera",
+                  "text": "A Monumento a La Bandera egy emlékmű Uruapan városában.",
+                  "category": "historical",
+                  "coords": [
+                        -102.06391,
+                        19.42228
+                  ]
+            },
+            {
+                  "name": "Mural de los Orígenes de Uruapan",
+                  "text": "A Mural de los Orígenes de Uruapan egy emlékmű Uruapanban.",
+                  "category": "historical",
+                  "coords": [
+                        -102.074792,
+                        19.433321
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Ochoa",
+                  "text": "A Monumento al Padre Ochoa egy köztéri emlékmű Uruapan városában.",
+                  "category": "historical",
+                  "coords": [
+                        -102.066383,
+                        19.405226
+                  ]
+            },
+            {
+                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
+                  "text": "A Taller Escuela de Artes Plásticas y Artesanías MAPECO egy művészeti központ Uruapanban.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.046943,
+                        19.408917
+                  ]
+            },
+            {
+                  "name": "Mansión del Cupatitzio",
+                  "text": "A Mansión del Cupatitzio egy szálloda Uruapan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -102.074191,
+                        19.429717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Huátapera",
+                  "text": "La Huátapera este un muzeu situat în orașul Uruapan.",
+                  "category": "museum",
+                  "coords": [
+                        -102.062108,
+                        19.421055
+                  ]
+            },
+            {
+                  "name": "Casa mas chiquita del mundo",
+                  "text": "Cea mai mică casă din lume este un muzeu situat în Uruapan.",
+                  "category": "museum",
+                  "coords": [
+                        -102.066048,
+                        19.425471
+                  ]
+            },
+            {
+                  "name": "Foro Cultural La Morada",
+                  "text": "Foro Cultural La Morada este un teatru local situat în Uruapan.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.06654,
+                        19.423036
+                  ]
+            },
+            {
+                  "name": "Centro de Espectáculos 'La Macarena'",
+                  "text": "Centro de Espectáculos 'La Macarena' funcționează ca un teatru în Uruapan.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.042797,
+                        19.416148
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Barranca del Cupatitzio",
+                  "text": "Parque Nacional Barranca del Cupatitzio este o rezervație naturală situată în Uruapan.",
+                  "category": "natural",
+                  "coords": [
+                        -102.103618,
+                        19.429357
+                  ]
+            },
+            {
+                  "name": "Gral. Lázaro Cárdenas",
+                  "text": "Gral. Lázaro Cárdenas este un monument public situat în orașul Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.050652,
+                        19.417989
+                  ]
+            },
+            {
+                  "name": "Pérgola Municipal",
+                  "text": "Pérgola Municipal este un monument din Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.063304,
+                        19.421018
+                  ]
+            },
+            {
+                  "name": "Monumento a La Bandera",
+                  "text": "Monumento a La Bandera este un monument situat în Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.06391,
+                        19.42228
+                  ]
+            },
+            {
+                  "name": "Mural de los Orígenes de Uruapan",
+                  "text": "Mural de los Orígenes de Uruapan este un monument în Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.074792,
+                        19.433321
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Ochoa",
+                  "text": "Monumento al Padre Ochoa este un monument public situat în Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.066383,
+                        19.405226
+                  ]
+            },
+            {
+                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
+                  "text": "Taller Escuela de Artes Plásticas y Artesanías MAPECO este un centru de arte situat în Uruapan.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.046943,
+                        19.408917
+                  ]
+            },
+            {
+                  "name": "Mansión del Cupatitzio",
+                  "text": "Mansión del Cupatitzio este un hotel în Uruapan.",
+                  "category": "landmark",
+                  "coords": [
+                        -102.074191,
+                        19.429717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Huátapera",
+                  "text": "La Huátapera is a museum located in the city of Uruapan.",
+                  "category": "museum",
+                  "coords": [
+                        -102.062108,
+                        19.421055
+                  ]
+            },
+            {
+                  "name": "Smaller house in the world",
+                  "text": "The smaller house in the world is a museum situated in Uruapan.",
+                  "category": "museum",
+                  "coords": [
+                        -102.066048,
+                        19.425471
+                  ]
+            },
+            {
+                  "name": "Foro Cultural La Morada",
+                  "text": "Foro Cultural La Morada is a local theatre located in Uruapan.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.06654,
+                        19.423036
+                  ]
+            },
+            {
+                  "name": "Centro de Espectáculos 'La Macarena'",
+                  "text": "Centro de Espectáculos 'La Macarena' operates as a theatre in Uruapan.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.042797,
+                        19.416148
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Barranca del Cupatitzio",
+                  "text": "Parque Nacional Barranca del Cupatitzio is a nature reserve situated in Uruapan.",
+                  "category": "natural",
+                  "coords": [
+                        -102.103618,
+                        19.429357
+                  ]
+            },
+            {
+                  "name": "Gral. Lázaro Cárdenas",
+                  "text": "Gral. Lázaro Cárdenas is a public monument located in the city of Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.050652,
+                        19.417989
+                  ]
+            },
+            {
+                  "name": "Pérgola Municipal",
+                  "text": "Pérgola Municipal is a monument found in Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.063304,
+                        19.421018
+                  ]
+            },
+            {
+                  "name": "Monumento a La Bandera",
+                  "text": "Monumento a La Bandera is a monument situated in Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.06391,
+                        19.42228
+                  ]
+            },
+            {
+                  "name": "Mural de los Orígenes de Uruapan",
+                  "text": "Mural de los Orígenes de Uruapan is a monument in Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.074792,
+                        19.433321
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Ochoa",
+                  "text": "Monumento al Padre Ochoa is a public monument located in Uruapan.",
+                  "category": "historical",
+                  "coords": [
+                        -102.066383,
+                        19.405226
+                  ]
+            },
+            {
+                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
+                  "text": "Taller Escuela de Artes Plásticas y Artesanías MAPECO is an arts centre situated in Uruapan.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.046943,
+                        19.408917
+                  ]
+            },
+            {
+                  "name": "Mansión del Cupatitzio",
+                  "text": "Mansión del Cupatitzio is a hotel offering accommodation in Uruapan.",
+                  "category": "landmark",
+                  "coords": [
+                        -102.074191,
+                        19.429717
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-MIC",
     coords: [-102.0628, 19.4206],
@@ -1110,7 +10533,628 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Uruapan est le centre absolu de la production florissante d'avocats au Mexique.", "Le parc national Cupatitzio est situé en plein centre urbain et abrite des cascades tropicales.", "Le Parícutin, le plus jeune volcan du monde, se trouve à proximité."],
     }, image: "/poi-images/uruapan-cities-v2.webp"},
   {
-    id: "gomez-palacio-cities-v2",
+    id: "gomez-palacio-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Acertijo Museo Interactivo Laguna Durango",
+                  "text": "Das El Acertijo Museo Interactivo Laguna Durango ist ein Museum in Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.494227,
+                        25.573814
+                  ]
+            },
+            {
+                  "name": "Recinto de la Revolución",
+                  "text": "Das Recinto de la Revolución ist ein Museum in Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.496945,
+                        25.561584
+                  ]
+            },
+            {
+                  "name": "Teatro Dolores del Río",
+                  "text": "Das Teatro Dolores del Río ist ein Theater in Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.500652,
+                        25.551193
+                  ]
+            },
+            {
+                  "name": "Antigua Jabonera",
+                  "text": "Die Antigua Jabonera ist ein Museum in der Stadt Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.495483,
+                        25.574294
+                  ]
+            },
+            {
+                  "name": "Centro de Artes \"Casa Faya\"",
+                  "text": "Das Centro de Artes „Casa Faya“ ist ein Museum in Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.497791,
+                        25.566073
+                  ]
+            },
+            {
+                  "name": "Xiximes, A. C.",
+                  "text": "Xiximes, A. C. ist ein Museum in Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.498208,
+                        25.569879
+                  ]
+            },
+            {
+                  "name": "Foro ‘Güicho’ Cisneros",
+                  "text": "Das Foro ‚Güicho‘ Cisneros ist ein Theater in Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.492217,
+                        25.565371
+                  ]
+            },
+            {
+                  "name": "Torre Eiffel",
+                  "text": "Der Torre Eiffel ist ein Denkmal in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.479045,
+                        25.549856
+                  ]
+            },
+            {
+                  "name": "Quiosco de la Plaza",
+                  "text": "Der Quiosco de la Plaza ist ein Aussichtspunkt in Gómez Palacio.",
+                  "category": "natural",
+                  "coords": [
+                        -103.499754,
+                        25.56811
+                  ]
+            },
+            {
+                  "name": "Quiosco del Parque",
+                  "text": "Der Quiosco del Parque ist ein Aussichtspunkt in Gómez Palacio.",
+                  "category": "natural",
+                  "coords": [
+                        -103.503316,
+                        25.563871
+                  ]
+            },
+            {
+                  "name": "Gral. Guadalupe Victoria",
+                  "text": "Gral. Guadalupe Victoria ist ein Denkmal in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.489643,
+                        25.55257
+                  ]
+            },
+            {
+                  "name": "Gral. J. Agustín Castro",
+                  "text": "Gral. J. Agustín Castro ist ein Denkmal in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.503825,
+                        25.564973
+                  ]
+            },
+            {
+                  "name": "Placa Bicentenario de la Independencia",
+                  "text": "Placa Bicentenario de la Independencia ist ein Denkmal in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.496655,
+                        25.570104
+                  ]
+            },
+            {
+                  "name": "Al Maestro",
+                  "text": "Al Maestro ist ein Denkmal in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.493443,
+                        25.55522
+                  ]
+            },
+            {
+                  "name": "Arcos de Trincheras",
+                  "text": "Arcos de Trincheras ist ein Denkmal in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.502887,
+                        25.570527
+                  ]
+            },
+            {
+                  "name": "Centro de Convenciones Francisco Zarco",
+                  "text": "Das Centro de Convenciones Francisco Zarco ist ein Kunstzentrum in Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.476923,
+                        25.549542
+                  ]
+            },
+            {
+                  "name": "lienzo charro",
+                  "text": "Der lienzo charro ist ein Kunstzentrum in Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.481148,
+                        25.552533
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Acertijo Museo Interactivo Laguna Durango",
+                  "text": "Az El Acertijo Museo Interactivo Laguna Durango egy múzeum Gómez Palacióban.",
+                  "category": "museum",
+                  "coords": [
+                        -103.494227,
+                        25.573814
+                  ]
+            },
+            {
+                  "name": "Recinto de la Revolución",
+                  "text": "A Recinto de la Revolución egy múzeum Gómez Palacióban.",
+                  "category": "museum",
+                  "coords": [
+                        -103.496945,
+                        25.561584
+                  ]
+            },
+            {
+                  "name": "Teatro Dolores del Río",
+                  "text": "A Teatro Dolores del Río egy színház Gómez Palacióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.500652,
+                        25.551193
+                  ]
+            },
+            {
+                  "name": "Antigua Jabonera",
+                  "text": "Az Antigua Jabonera egy múzeum Gómez Palacio városában.",
+                  "category": "museum",
+                  "coords": [
+                        -103.495483,
+                        25.574294
+                  ]
+            },
+            {
+                  "name": "Centro de Artes \"Casa Faya\"",
+                  "text": "A Centro de Artes \"Casa Faya\" egy múzeum Gómez Palacióban.",
+                  "category": "museum",
+                  "coords": [
+                        -103.497791,
+                        25.566073
+                  ]
+            },
+            {
+                  "name": "Xiximes, A. C.",
+                  "text": "A Xiximes, A. C. egy múzeum Gómez Palacióban.",
+                  "category": "museum",
+                  "coords": [
+                        -103.498208,
+                        25.569879
+                  ]
+            },
+            {
+                  "name": "Foro ‘Güicho’ Cisneros",
+                  "text": "A Foro ‘Güicho’ Cisneros egy színház Gómez Palacióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.492217,
+                        25.565371
+                  ]
+            },
+            {
+                  "name": "Torre Eiffel",
+                  "text": "A Torre Eiffel egy emlékmű Gómez Palacióban.",
+                  "category": "historical",
+                  "coords": [
+                        -103.479045,
+                        25.549856
+                  ]
+            },
+            {
+                  "name": "Quiosco de la Plaza",
+                  "text": "A Quiosco de la Plaza egy kilátó Gómez Palacióban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.499754,
+                        25.56811
+                  ]
+            },
+            {
+                  "name": "Quiosco del Parque",
+                  "text": "A Quiosco del Parque egy kilátó Gómez Palacióban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.503316,
+                        25.563871
+                  ]
+            },
+            {
+                  "name": "Gral. Guadalupe Victoria",
+                  "text": "A Gral. Guadalupe Victoria egy emlékmű Gómez Palacióban.",
+                  "category": "historical",
+                  "coords": [
+                        -103.489643,
+                        25.55257
+                  ]
+            },
+            {
+                  "name": "Gral. J. Agustín Castro",
+                  "text": "A Gral. J. Agustín Castro egy emlékmű Gómez Palacióban.",
+                  "category": "historical",
+                  "coords": [
+                        -103.503825,
+                        25.564973
+                  ]
+            },
+            {
+                  "name": "Placa Bicentenario de la Independencia",
+                  "text": "A Placa Bicentenario de la Independencia egy emlékmű Gómez Palacióban.",
+                  "category": "historical",
+                  "coords": [
+                        -103.496655,
+                        25.570104
+                  ]
+            },
+            {
+                  "name": "Al Maestro",
+                  "text": "Az Al Maestro egy emlékmű Gómez Palacióban.",
+                  "category": "historical",
+                  "coords": [
+                        -103.493443,
+                        25.55522
+                  ]
+            },
+            {
+                  "name": "Arcos de Trincheras",
+                  "text": "Az Arcos de Trincheras egy emlékmű Gómez Palacióban.",
+                  "category": "historical",
+                  "coords": [
+                        -103.502887,
+                        25.570527
+                  ]
+            },
+            {
+                  "name": "Centro de Convenciones Francisco Zarco",
+                  "text": "A Centro de Convenciones Francisco Zarco egy művészeti központ Gómez Palacióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.476923,
+                        25.549542
+                  ]
+            },
+            {
+                  "name": "lienzo charro",
+                  "text": "A lienzo charro egy művészeti központ Gómez Palacióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.481148,
+                        25.552533
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Acertijo Museo Interactivo Laguna Durango",
+                  "text": "El Acertijo Museo Interactivo Laguna Durango este un muzeu din Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.494227,
+                        25.573814
+                  ]
+            },
+            {
+                  "name": "Recinto de la Revolución",
+                  "text": "Recinto de la Revolución este un muzeu situat în Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.496945,
+                        25.561584
+                  ]
+            },
+            {
+                  "name": "Teatro Dolores del Río",
+                  "text": "Teatro Dolores del Río este un teatru din Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.500652,
+                        25.551193
+                  ]
+            },
+            {
+                  "name": "Antigua Jabonera",
+                  "text": "Antigua Jabonera este un muzeu în orașul Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.495483,
+                        25.574294
+                  ]
+            },
+            {
+                  "name": "Centro de Artes \"Casa Faya\"",
+                  "text": "Centro de Artes \"Casa Faya\" este un muzeu situat în Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.497791,
+                        25.566073
+                  ]
+            },
+            {
+                  "name": "Xiximes, A. C.",
+                  "text": "Xiximes, A. C. este un muzeu din Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.498208,
+                        25.569879
+                  ]
+            },
+            {
+                  "name": "Foro ‘Güicho’ Cisneros",
+                  "text": "Foro ‘Güicho’ Cisneros este un teatru situat în Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.492217,
+                        25.565371
+                  ]
+            },
+            {
+                  "name": "Torre Eiffel",
+                  "text": "Torre Eiffel este un monument din Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.479045,
+                        25.549856
+                  ]
+            },
+            {
+                  "name": "Quiosco de la Plaza",
+                  "text": "Quiosco de la Plaza este un punct de belvedere din Gómez Palacio.",
+                  "category": "natural",
+                  "coords": [
+                        -103.499754,
+                        25.56811
+                  ]
+            },
+            {
+                  "name": "Quiosco del Parque",
+                  "text": "Quiosco del Parque este un punct de belvedere situat în Gómez Palacio.",
+                  "category": "natural",
+                  "coords": [
+                        -103.503316,
+                        25.563871
+                  ]
+            },
+            {
+                  "name": "Gral. Guadalupe Victoria",
+                  "text": "Gral. Guadalupe Victoria este un monument din Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.489643,
+                        25.55257
+                  ]
+            },
+            {
+                  "name": "Gral. J. Agustín Castro",
+                  "text": "Gral. J. Agustín Castro este un monument în Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.503825,
+                        25.564973
+                  ]
+            },
+            {
+                  "name": "Placa Bicentenario de la Independencia",
+                  "text": "Placa Bicentenario de la Independencia este un monument în Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.496655,
+                        25.570104
+                  ]
+            },
+            {
+                  "name": "Al Maestro",
+                  "text": "Al Maestro este un monument situat în Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.493443,
+                        25.55522
+                  ]
+            },
+            {
+                  "name": "Arcos de Trincheras",
+                  "text": "Arcos de Trincheras este un monument din Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.502887,
+                        25.570527
+                  ]
+            },
+            {
+                  "name": "Centro de Convenciones Francisco Zarco",
+                  "text": "Centro de Convenciones Francisco Zarco este un centru de arte situat în Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.476923,
+                        25.549542
+                  ]
+            },
+            {
+                  "name": "lienzo charro",
+                  "text": "Lienzo charro este un centru de arte din Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.481148,
+                        25.552533
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Acertijo Museo Interactivo Laguna Durango",
+                  "text": "El Acertijo Museo Interactivo Laguna Durango is a museum in Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.494227,
+                        25.573814
+                  ]
+            },
+            {
+                  "name": "Recinto de la Revolución",
+                  "text": "Recinto de la Revolución is a museum located in Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.496945,
+                        25.561584
+                  ]
+            },
+            {
+                  "name": "Teatro Dolores del Río",
+                  "text": "Teatro Dolores del Río is a theatre situated in Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.500652,
+                        25.551193
+                  ]
+            },
+            {
+                  "name": "Antigua Jabonera",
+                  "text": "Antigua Jabonera is a museum situated in the city of Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.495483,
+                        25.574294
+                  ]
+            },
+            {
+                  "name": "Centro de Artes \"Casa Faya\"",
+                  "text": "Centro de Artes \"Casa Faya\" is a museum located in Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.497791,
+                        25.566073
+                  ]
+            },
+            {
+                  "name": "Xiximes, A. C.",
+                  "text": "Xiximes, A. C. is a museum found in Gómez Palacio.",
+                  "category": "museum",
+                  "coords": [
+                        -103.498208,
+                        25.569879
+                  ]
+            },
+            {
+                  "name": "Foro ‘Güicho’ Cisneros",
+                  "text": "Foro ‘Güicho’ Cisneros is a theatre located in Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.492217,
+                        25.565371
+                  ]
+            },
+            {
+                  "name": "Torre Eiffel",
+                  "text": "Torre Eiffel is a monument situated in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.479045,
+                        25.549856
+                  ]
+            },
+            {
+                  "name": "Quiosco de la Plaza",
+                  "text": "Quiosco de la Plaza is a viewpoint located in Gómez Palacio.",
+                  "category": "natural",
+                  "coords": [
+                        -103.499754,
+                        25.56811
+                  ]
+            },
+            {
+                  "name": "Quiosco del Parque",
+                  "text": "Quiosco del Parque is a viewpoint situated in Gómez Palacio.",
+                  "category": "natural",
+                  "coords": [
+                        -103.503316,
+                        25.563871
+                  ]
+            },
+            {
+                  "name": "Gral. Guadalupe Victoria",
+                  "text": "Gral. Guadalupe Victoria is a monument found in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.489643,
+                        25.55257
+                  ]
+            },
+            {
+                  "name": "Gral. J. Agustín Castro",
+                  "text": "Gral. J. Agustín Castro is a monument in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.503825,
+                        25.564973
+                  ]
+            },
+            {
+                  "name": "Placa Bicentenario de la Independencia",
+                  "text": "Placa Bicentenario de la Independencia is a monument located in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.496655,
+                        25.570104
+                  ]
+            },
+            {
+                  "name": "Al Maestro",
+                  "text": "Al Maestro is a monument situated in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.493443,
+                        25.55522
+                  ]
+            },
+            {
+                  "name": "Arcos de Trincheras",
+                  "text": "Arcos de Trincheras is a monument located in Gómez Palacio.",
+                  "category": "historical",
+                  "coords": [
+                        -103.502887,
+                        25.570527
+                  ]
+            },
+            {
+                  "name": "Centro de Convenciones Francisco Zarco",
+                  "text": "Centro de Convenciones Francisco Zarco is an arts centre located in Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.476923,
+                        25.549542
+                  ]
+            },
+            {
+                  "name": "lienzo charro",
+                  "text": "The lienzo charro is an arts centre found in Gómez Palacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.481148,
+                        25.552533
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-DUR",
     coords: [-103.4988, 25.5681],
@@ -1137,7 +11181,340 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["La ville appartient à la région métropolitaine de La Laguna, l'une des régions économiques les plus importantes du nord du Mexique.", "Gómez Palacio abrite certaines des plus grandes installations de production de lait et de viande du pays.", "La région désertique est rendue exploitable pour l'agriculture grâce à l'un des systèmes d'irrigation les plus importants du Mexique."],
     }, image: "/poi-images/gomez-palacio-cities-v2.webp"},
   {
-    id: "los-mochis-cities-v2",
+    id: "los-mochis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de La Cultura Conrado Espinoza",
+                  "text": "Museum in Los Mochis.",
+                  "category": "museum",
+                  "coords": [
+                        -108.972525,
+                        25.804469
+                  ]
+            },
+            {
+                  "name": "Trapiche Museo Interactivo",
+                  "text": "Interaktives Museum in Los Mochis.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999103,
+                        25.788559
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora del Rosario",
+                  "text": "Kirchenbau in Los Mochis.",
+                  "category": "castle",
+                  "coords": [
+                        -108.994859,
+                        25.7683
+                  ]
+            },
+            {
+                  "name": "Museo Del Valle del Fuerte",
+                  "text": "Museum in Los Mochis.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999586,
+                        25.790206
+                  ]
+            },
+            {
+                  "name": "Teatro Ingenio",
+                  "text": "Theater in Los Mochis.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.00036,
+                        25.788608
+                  ]
+            },
+            {
+                  "name": "La Pergola",
+                  "text": "Aussichtspunkt in Los Mochis.",
+                  "category": "natural",
+                  "coords": [
+                        -108.972815,
+                        25.805474
+                  ]
+            },
+            {
+                  "name": "Entrada",
+                  "text": "Attraktion in Los Mochis.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.001833,
+                        25.788583
+                  ]
+            },
+            {
+                  "name": "Ruinas de la Casa Grande",
+                  "text": "Ruinen in Los Mochis.",
+                  "category": "historical",
+                  "coords": [
+                        -109.003358,
+                        25.789639
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
+                  "text": "Botanischer Garten in Los Mochis.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.00481,
+                        25.789164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de La Cultura Conrado Espinoza",
+                  "text": "Múzeum Los Mochisban.",
+                  "category": "museum",
+                  "coords": [
+                        -108.972525,
+                        25.804469
+                  ]
+            },
+            {
+                  "name": "Trapiche Museo Interactivo",
+                  "text": "Interaktív múzeum Los Mochisban.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999103,
+                        25.788559
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora del Rosario",
+                  "text": "Templom Los Mochisban.",
+                  "category": "castle",
+                  "coords": [
+                        -108.994859,
+                        25.7683
+                  ]
+            },
+            {
+                  "name": "Museo Del Valle del Fuerte",
+                  "text": "Múzeum Los Mochisban.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999586,
+                        25.790206
+                  ]
+            },
+            {
+                  "name": "Teatro Ingenio",
+                  "text": "Színház Los Mochisban.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.00036,
+                        25.788608
+                  ]
+            },
+            {
+                  "name": "La Pergola",
+                  "text": "Kilátópont Los Mochisban.",
+                  "category": "natural",
+                  "coords": [
+                        -108.972815,
+                        25.805474
+                  ]
+            },
+            {
+                  "name": "Entrada",
+                  "text": "Látnivaló Los Mochisban.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.001833,
+                        25.788583
+                  ]
+            },
+            {
+                  "name": "Ruinas de la Casa Grande",
+                  "text": "Romok Los Mochisban.",
+                  "category": "historical",
+                  "coords": [
+                        -109.003358,
+                        25.789639
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
+                  "text": "Botanikus kert Los Mochisban.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.00481,
+                        25.789164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de La Cultura Conrado Espinoza",
+                  "text": "Muzeu în Los Mochis.",
+                  "category": "museum",
+                  "coords": [
+                        -108.972525,
+                        25.804469
+                  ]
+            },
+            {
+                  "name": "Trapiche Museo Interactivo",
+                  "text": "Muzeu interactiv în Los Mochis.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999103,
+                        25.788559
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora del Rosario",
+                  "text": "Biserică în Los Mochis.",
+                  "category": "castle",
+                  "coords": [
+                        -108.994859,
+                        25.7683
+                  ]
+            },
+            {
+                  "name": "Museo Del Valle del Fuerte",
+                  "text": "Muzeu în Los Mochis.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999586,
+                        25.790206
+                  ]
+            },
+            {
+                  "name": "Teatro Ingenio",
+                  "text": "Teatru în Los Mochis.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.00036,
+                        25.788608
+                  ]
+            },
+            {
+                  "name": "La Pergola",
+                  "text": "Punct de belvedere în Los Mochis.",
+                  "category": "natural",
+                  "coords": [
+                        -108.972815,
+                        25.805474
+                  ]
+            },
+            {
+                  "name": "Entrada",
+                  "text": "Atracție în Los Mochis.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.001833,
+                        25.788583
+                  ]
+            },
+            {
+                  "name": "Ruinas de la Casa Grande",
+                  "text": "Ruine în Los Mochis.",
+                  "category": "historical",
+                  "coords": [
+                        -109.003358,
+                        25.789639
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
+                  "text": "Grădină botanică în Los Mochis.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.00481,
+                        25.789164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de La Cultura Conrado Espinoza",
+                  "text": "Museum in Los Mochis.",
+                  "category": "museum",
+                  "coords": [
+                        -108.972525,
+                        25.804469
+                  ]
+            },
+            {
+                  "name": "Trapiche Museo Interactivo",
+                  "text": "Interactive museum in Los Mochis.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999103,
+                        25.788559
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora del Rosario",
+                  "text": "Church building in Los Mochis.",
+                  "category": "castle",
+                  "coords": [
+                        -108.994859,
+                        25.7683
+                  ]
+            },
+            {
+                  "name": "Museo Del Valle del Fuerte",
+                  "text": "Museum in Los Mochis.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999586,
+                        25.790206
+                  ]
+            },
+            {
+                  "name": "Teatro Ingenio",
+                  "text": "Theatre in Los Mochis.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.00036,
+                        25.788608
+                  ]
+            },
+            {
+                  "name": "La Pergola",
+                  "text": "Viewpoint in Los Mochis.",
+                  "category": "natural",
+                  "coords": [
+                        -108.972815,
+                        25.805474
+                  ]
+            },
+            {
+                  "name": "Entrada",
+                  "text": "Attraction in Los Mochis.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.001833,
+                        25.788583
+                  ]
+            },
+            {
+                  "name": "Ruinas de la Casa Grande",
+                  "text": "Ruins in Los Mochis.",
+                  "category": "historical",
+                  "coords": [
+                        -109.003358,
+                        25.789639
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
+                  "text": "Botanical garden in Los Mochis.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.00481,
+                        25.789164
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-SIN",
     coords: [-108.9946, 25.7928],
@@ -1191,7 +11568,952 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Principal centre de production de café de la région du Soconusco.", "Elle possède une importante communauté chinoise qui a fortement influencé la cuisine locale.", "Située au pied de l'impressionnant volcan Tacaná."],
     }, image: "/poi-images/tapachula-cities-v2.webp"},
   {
-    id: "nuevo-laredo-cities-v2",
+    id: "nuevo-laredo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort McIntosh",
+                  "text": "Fort McIntosh ist ein Fort in Nuevo Laredo.",
+                  "category": "fortress",
+                  "coords": [
+                        -99.521676,
+                        27.507033
+                  ]
+            },
+            {
+                  "name": "Republic of the Rio Grande Museum",
+                  "text": "Das Republic of the Rio Grande Museum ist ein Museum in Nuevo Laredo, das die Geschichte der kurzlebigen Republic of the Rio Grande beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        -99.505956,
+                        27.502014
+                  ]
+            },
+            {
+                  "name": "Lamar Bruni Vergara Environmental Science Center",
+                  "text": "Das Lamar Bruni Vergara Environmental Science Center ist ein Zoo auf dem Campus des Laredo College in Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.523529,
+                        27.509014
+                  ]
+            },
+            {
+                  "name": "Alberca Ilusion Acuatica",
+                  "text": "Alberca Ilusion Acuatica ist ein Freizeitpark in Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.490026,
+                        27.490751
+                  ]
+            },
+            {
+                  "name": "Laredo Theater Guild",
+                  "text": "Die Laredo Theater Guild ist ein Theater in Nuevo Laredo.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.518312,
+                        27.505951
+                  ]
+            },
+            {
+                  "name": "Imaginarium of South Texas",
+                  "text": "Das Imaginarium of South Texas ist ein Museum in Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.519726,
+                        27.50863
+                  ]
+            },
+            {
+                  "name": "Expomex",
+                  "text": "Expomex ist ein Freizeitpark in Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.484738,
+                        27.481945
+                  ]
+            },
+            {
+                  "name": "Zoológico y Acuario de Nuevo Laredo",
+                  "text": "Der Zoológico y Acuario de Nuevo Laredo ist ein Zoo in Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.482903,
+                        27.478523
+                  ]
+            },
+            {
+                  "name": "Villa Antigua Border Heritage Museum",
+                  "text": "Das Villa Antigua Border Heritage Museum ist ein Museum in Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.504167,
+                        27.502338
+                  ]
+            },
+            {
+                  "name": "Las Palmas Bird Sanctuary",
+                  "text": "Das Las Palmas Bird Sanctuary ist ein Naturschutzgebiet in Nuevo Laredo.",
+                  "category": "natural",
+                  "coords": [
+                        -99.498309,
+                        27.499825
+                  ]
+            },
+            {
+                  "name": "Riverbend Nature Preserve",
+                  "text": "Das Riverbend Nature Preserve ist ein Naturschutzgebiet in Nuevo Laredo.",
+                  "category": "natural",
+                  "coords": [
+                        -99.522247,
+                        27.499946
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad",
+                  "text": "Teatro De La Ciudad ist ein lokales Theater in Nuevo Laredo.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.487412,
+                        27.481919
+                  ]
+            },
+            {
+                  "name": "Monumento a Fundadores",
+                  "text": "Monumento a Fundadores ist ein Denkmal in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.507363,
+                        27.486288
+                  ]
+            },
+            {
+                  "name": "Texas Sesquicentennial 1836 - 1986",
+                  "text": "Das Texas Sesquicentennial 1836 - 1986 ist ein Gedenkmonument in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.503148,
+                        27.508063
+                  ]
+            },
+            {
+                  "name": "American Legion 50th Anniversary Flame",
+                  "text": "Die American Legion 50th Anniversary Flame ist ein Denkmal in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.508956,
+                        27.506275
+                  ]
+            },
+            {
+                  "name": "Veterans Eternal Flame",
+                  "text": "Die Veterans Eternal Flame ist ein Gedenkmonument in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.521981,
+                        27.504973
+                  ]
+            },
+            {
+                  "name": "Los Olvidados Art Gallery",
+                  "text": "Die Los Olvidados Art Gallery ist eine Kunstgalerie in Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.506484,
+                        27.503033
+                  ]
+            },
+            {
+                  "name": "Laredo Center For the Arts",
+                  "text": "Das Laredo Center For the Arts ist eine Kunstgalerie in Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.506134,
+                        27.504611
+                  ]
+            },
+            {
+                  "name": "Casa Daphne",
+                  "text": "Casa Daphne ist eine Galerie in der Stadt Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.510159,
+                        27.509067
+                  ]
+            },
+            {
+                  "name": "Cristobal Colon",
+                  "text": "Cristobal Colon ist ein Denkmal in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.502866,
+                        27.466466
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Das Monumento a la Madre ist ein Gedenkmonument in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.510047,
+                        27.466721
+                  ]
+            },
+            {
+                  "name": "Monumento Benemérito Benito Juárez",
+                  "text": "Das Monumento Benemérito Benito Juárez ist ein historisches Denkmal in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.507755,
+                        27.470236
+                  ]
+            },
+            {
+                  "name": "El Portal",
+                  "text": "El Portal ist eine Touristenattraktion in Nuevo Laredo.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.509488,
+                        27.501178
+                  ]
+            },
+            {
+                  "name": "Juárez–Lincoln International Bridge / Puente Internacional Juárez-Lincoln",
+                  "text": "Die Juárez–Lincoln International Bridge ist eine Brücke in Nuevo Laredo, die die Vereinigten Staaten und Mexiko über den Rio Grande verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.502705,
+                        27.50019
+                  ]
+            },
+            {
+                  "name": "Puente Internacional del Ferrocarril Mexicano de Texas",
+                  "text": "Die Texas Mexican Railway International Bridge ist eine Brücke in Nuevo Laredo.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.516243,
+                        27.49769
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Puerta de las Américas",
+                  "text": "Die Gateway to the Americas International Bridge ist eine internationale Brücke in Nuevo Laredo, die dem Fahrzeug- und Fußgängerverkehr dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.507498,
+                        27.499956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort McIntosh",
+                  "text": "A Fort McIntosh egy erőd Nuevo Laredóban.",
+                  "category": "fortress",
+                  "coords": [
+                        -99.521676,
+                        27.507033
+                  ]
+            },
+            {
+                  "name": "Republic of the Rio Grande Museum",
+                  "text": "A Nuevo Laredóban található Republic of the Rio Grande Museum bemutatja a rövid életű Republic of the Rio Grande történetét.",
+                  "category": "museum",
+                  "coords": [
+                        -99.505956,
+                        27.502014
+                  ]
+            },
+            {
+                  "name": "Lamar Bruni Vergara Environmental Science Center",
+                  "text": "A Lamar Bruni Vergara Environmental Science Center egy állatkert Nuevo Laredóban, a Laredo College kampuszán.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.523529,
+                        27.509014
+                  ]
+            },
+            {
+                  "name": "Alberca Ilusion Acuatica",
+                  "text": "Az Alberca Ilusion Acuatica egy vidámpark Nuevo Laredóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.490026,
+                        27.490751
+                  ]
+            },
+            {
+                  "name": "Laredo Theater Guild",
+                  "text": "A Laredo Theater Guild egy színház Nuevo Laredóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.518312,
+                        27.505951
+                  ]
+            },
+            {
+                  "name": "Imaginarium of South Texas",
+                  "text": "Az Imaginarium of South Texas egy múzeum Nuevo Laredóban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.519726,
+                        27.50863
+                  ]
+            },
+            {
+                  "name": "Expomex",
+                  "text": "Az Expomex egy vidámpark Nuevo Laredóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.484738,
+                        27.481945
+                  ]
+            },
+            {
+                  "name": "Zoológico y Acuario de Nuevo Laredo",
+                  "text": "A Zoológico y Acuario de Nuevo Laredo egy állatkert Nuevo Laredóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.482903,
+                        27.478523
+                  ]
+            },
+            {
+                  "name": "Villa Antigua Border Heritage Museum",
+                  "text": "A Villa Antigua Border Heritage Museum egy múzeum Nuevo Laredo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -99.504167,
+                        27.502338
+                  ]
+            },
+            {
+                  "name": "Las Palmas Bird Sanctuary",
+                  "text": "A Las Palmas Bird Sanctuary egy természetvédelmi terület Nuevo Laredo városában.",
+                  "category": "natural",
+                  "coords": [
+                        -99.498309,
+                        27.499825
+                  ]
+            },
+            {
+                  "name": "Riverbend Nature Preserve",
+                  "text": "A Riverbend Nature Preserve egy természetvédelmi terület Nuevo Laredo városában.",
+                  "category": "natural",
+                  "coords": [
+                        -99.522247,
+                        27.499946
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad",
+                  "text": "A Teatro De La Ciudad egy helyi színház Nuevo Laredo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.487412,
+                        27.481919
+                  ]
+            },
+            {
+                  "name": "Monumento a Fundadores",
+                  "text": "A Monumento a Fundadores egy emlékmű Nuevo Laredo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.507363,
+                        27.486288
+                  ]
+            },
+            {
+                  "name": "Texas Sesquicentennial 1836 - 1986",
+                  "text": "A Texas Sesquicentennial 1836 - 1986 egy emlékmű Nuevo Laredo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.503148,
+                        27.508063
+                  ]
+            },
+            {
+                  "name": "American Legion 50th Anniversary Flame",
+                  "text": "Az American Legion 50th Anniversary Flame egy emlékmű Nuevo Laredo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.508956,
+                        27.506275
+                  ]
+            },
+            {
+                  "name": "Veterans Eternal Flame",
+                  "text": "A Veterans Eternal Flame egy emlékmű Nuevo Laredo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.521981,
+                        27.504973
+                  ]
+            },
+            {
+                  "name": "Los Olvidados Art Gallery",
+                  "text": "A Los Olvidados Art Gallery egy művészeti galéria Nuevo Laredo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -99.506484,
+                        27.503033
+                  ]
+            },
+            {
+                  "name": "Laredo Center For the Arts",
+                  "text": "A Laredo Center For the Arts egy művészeti galéria Nuevo Laredo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -99.506134,
+                        27.504611
+                  ]
+            },
+            {
+                  "name": "Casa Daphne",
+                  "text": "A Casa Daphne egy galéria Nuevo Laredo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -99.510159,
+                        27.509067
+                  ]
+            },
+            {
+                  "name": "Cristobal Colon",
+                  "text": "A Cristobal Colon egy emlékmű Nuevo Laredo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.502866,
+                        27.466466
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "A Monumento a la Madre egy emlékmű Nuevo Laredo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.510047,
+                        27.466721
+                  ]
+            },
+            {
+                  "name": "Monumento Benemérito Benito Juárez",
+                  "text": "A Monumento Benemérito Benito Juárez egy történelmi emlékmű Nuevo Laredo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.507755,
+                        27.470236
+                  ]
+            },
+            {
+                  "name": "El Portal",
+                  "text": "Az El Portal egy turisztikai látványosság Nuevo Laredo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.509488,
+                        27.501178
+                  ]
+            },
+            {
+                  "name": "Juárez–Lincoln International Bridge / Puente Internacional Juárez-Lincoln",
+                  "text": "A Juárez–Lincoln International Bridge egy híd Nuevo Laredo városában, amely az Egyesült Államokat és Mexikót köti össze a Rio Grande felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.502705,
+                        27.50019
+                  ]
+            },
+            {
+                  "name": "Puente Internacional del Ferrocarril Mexicano de Texas",
+                  "text": "A Texas Mexican Railway International Bridge egy híd Nuevo Laredo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.516243,
+                        27.49769
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Puerta de las Américas",
+                  "text": "A Gateway to the Americas International Bridge egy nemzetközi híd Nuevo Laredo városában, amely jármű- és gyalogosforgalmat is bonyolít.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.507498,
+                        27.499956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort McIntosh",
+                  "text": "Fort McIntosh este un fort situat în Nuevo Laredo.",
+                  "category": "fortress",
+                  "coords": [
+                        -99.521676,
+                        27.507033
+                  ]
+            },
+            {
+                  "name": "Republic of the Rio Grande Museum",
+                  "text": "Republic of the Rio Grande Museum este un muzeu din Nuevo Laredo care evidențiază istoria efemerei Republic of the Rio Grande.",
+                  "category": "museum",
+                  "coords": [
+                        -99.505956,
+                        27.502014
+                  ]
+            },
+            {
+                  "name": "Lamar Bruni Vergara Environmental Science Center",
+                  "text": "Lamar Bruni Vergara Environmental Science Center este o grădină zoologică situată în campusul Laredo College din Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.523529,
+                        27.509014
+                  ]
+            },
+            {
+                  "name": "Alberca Ilusion Acuatica",
+                  "text": "Alberca Ilusion Acuatica este un parc tematic în Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.490026,
+                        27.490751
+                  ]
+            },
+            {
+                  "name": "Laredo Theater Guild",
+                  "text": "Laredo Theater Guild este un teatru din Nuevo Laredo.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.518312,
+                        27.505951
+                  ]
+            },
+            {
+                  "name": "Imaginarium of South Texas",
+                  "text": "Imaginarium of South Texas este un muzeu situat în Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.519726,
+                        27.50863
+                  ]
+            },
+            {
+                  "name": "Expomex",
+                  "text": "Expomex este un parc tematic din Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.484738,
+                        27.481945
+                  ]
+            },
+            {
+                  "name": "Zoológico y Acuario de Nuevo Laredo",
+                  "text": "Zoológico y Acuario de Nuevo Laredo este o grădină zoologică din Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.482903,
+                        27.478523
+                  ]
+            },
+            {
+                  "name": "Villa Antigua Border Heritage Museum",
+                  "text": "Villa Antigua Border Heritage Museum este un muzeu situat în Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.504167,
+                        27.502338
+                  ]
+            },
+            {
+                  "name": "Las Palmas Bird Sanctuary",
+                  "text": "Las Palmas Bird Sanctuary este o rezervație naturală situată în Nuevo Laredo.",
+                  "category": "natural",
+                  "coords": [
+                        -99.498309,
+                        27.499825
+                  ]
+            },
+            {
+                  "name": "Riverbend Nature Preserve",
+                  "text": "Riverbend Nature Preserve este o rezervație naturală situată în Nuevo Laredo.",
+                  "category": "natural",
+                  "coords": [
+                        -99.522247,
+                        27.499946
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad",
+                  "text": "Teatro De La Ciudad este un teatru local situat în Nuevo Laredo.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.487412,
+                        27.481919
+                  ]
+            },
+            {
+                  "name": "Monumento a Fundadores",
+                  "text": "Monumento a Fundadores este un monument memorial situat în Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.507363,
+                        27.486288
+                  ]
+            },
+            {
+                  "name": "Texas Sesquicentennial 1836 - 1986",
+                  "text": "Texas Sesquicentennial 1836 - 1986 este un monument comemorativ situat în Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.503148,
+                        27.508063
+                  ]
+            },
+            {
+                  "name": "American Legion 50th Anniversary Flame",
+                  "text": "American Legion 50th Anniversary Flame este un monument situat în Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.508956,
+                        27.506275
+                  ]
+            },
+            {
+                  "name": "Veterans Eternal Flame",
+                  "text": "Veterans Eternal Flame este un monument memorial situat în Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.521981,
+                        27.504973
+                  ]
+            },
+            {
+                  "name": "Los Olvidados Art Gallery",
+                  "text": "Los Olvidados Art Gallery este o galerie de artă situată în Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.506484,
+                        27.503033
+                  ]
+            },
+            {
+                  "name": "Laredo Center For the Arts",
+                  "text": "Laredo Center For the Arts este o galerie de artă situată în Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.506134,
+                        27.504611
+                  ]
+            },
+            {
+                  "name": "Casa Daphne",
+                  "text": "Casa Daphne este o galerie situată în orașul Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.510159,
+                        27.509067
+                  ]
+            },
+            {
+                  "name": "Cristobal Colon",
+                  "text": "Cristobal Colon este un monument situat în Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.502866,
+                        27.466466
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre este un monument comemorativ în Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.510047,
+                        27.466721
+                  ]
+            },
+            {
+                  "name": "Monumento Benemérito Benito Juárez",
+                  "text": "Monumento Benemérito Benito Juárez este un monument istoric situat în Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.507755,
+                        27.470236
+                  ]
+            },
+            {
+                  "name": "El Portal",
+                  "text": "El Portal este o atracție turistică situată în Nuevo Laredo.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.509488,
+                        27.501178
+                  ]
+            },
+            {
+                  "name": "Juárez–Lincoln International Bridge / Puente Internacional Juárez-Lincoln",
+                  "text": "Juárez–Lincoln International Bridge este un pod în Nuevo Laredo care leagă Statele Unite și Mexicul peste Rio Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.502705,
+                        27.50019
+                  ]
+            },
+            {
+                  "name": "Puente Internacional del Ferrocarril Mexicano de Texas",
+                  "text": "Texas Mexican Railway International Bridge este un pod situat în Nuevo Laredo.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.516243,
+                        27.49769
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Puerta de las Américas",
+                  "text": "Gateway to the Americas International Bridge este un pod internațional din Nuevo Laredo, care deservește traficul auto și pietonal.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.507498,
+                        27.499956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort McIntosh",
+                  "text": "Fort McIntosh is a fort located in Nuevo Laredo.",
+                  "category": "fortress",
+                  "coords": [
+                        -99.521676,
+                        27.507033
+                  ]
+            },
+            {
+                  "name": "Republic of the Rio Grande Museum",
+                  "text": "Republic of the Rio Grande Museum is a museum located in Nuevo Laredo that highlights the history of the short-lived Republic of the Rio Grande.",
+                  "category": "museum",
+                  "coords": [
+                        -99.505956,
+                        27.502014
+                  ]
+            },
+            {
+                  "name": "Lamar Bruni Vergara Environmental Science Center",
+                  "text": "Lamar Bruni Vergara Environmental Science Center is a zoo located in Nuevo Laredo on the campus of Laredo College.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.523529,
+                        27.509014
+                  ]
+            },
+            {
+                  "name": "Alberca Ilusion Acuatica",
+                  "text": "Alberca Ilusion Acuatica is a theme park located in Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.490026,
+                        27.490751
+                  ]
+            },
+            {
+                  "name": "Laredo Theater Guild",
+                  "text": "Laredo Theater Guild is a theatre located in Nuevo Laredo.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.518312,
+                        27.505951
+                  ]
+            },
+            {
+                  "name": "Imaginarium of South Texas",
+                  "text": "Imaginarium of South Texas is a museum found in Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.519726,
+                        27.50863
+                  ]
+            },
+            {
+                  "name": "Expomex",
+                  "text": "Expomex is a theme park located in Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.484738,
+                        27.481945
+                  ]
+            },
+            {
+                  "name": "Zoológico y Acuario de Nuevo Laredo",
+                  "text": "Zoológico y Acuario de Nuevo Laredo is a zoo situated in Nuevo Laredo.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.482903,
+                        27.478523
+                  ]
+            },
+            {
+                  "name": "Villa Antigua Border Heritage Museum",
+                  "text": "The Villa Antigua Border Heritage Museum is a museum located in Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.504167,
+                        27.502338
+                  ]
+            },
+            {
+                  "name": "Las Palmas Bird Sanctuary",
+                  "text": "The Las Palmas Bird Sanctuary is a nature reserve located in Nuevo Laredo.",
+                  "category": "natural",
+                  "coords": [
+                        -99.498309,
+                        27.499825
+                  ]
+            },
+            {
+                  "name": "Riverbend Nature Preserve",
+                  "text": "The Riverbend Nature Preserve is a nature reserve situated in Nuevo Laredo.",
+                  "category": "natural",
+                  "coords": [
+                        -99.522247,
+                        27.499946
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad",
+                  "text": "Teatro De La Ciudad is a local theatre situated in Nuevo Laredo.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.487412,
+                        27.481919
+                  ]
+            },
+            {
+                  "name": "Monumento a Fundadores",
+                  "text": "Monumento a Fundadores is a memorial monument located in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.507363,
+                        27.486288
+                  ]
+            },
+            {
+                  "name": "Texas Sesquicentennial 1836 - 1986",
+                  "text": "The Texas Sesquicentennial 1836 - 1986 is a commemorative monument located in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.503148,
+                        27.508063
+                  ]
+            },
+            {
+                  "name": "American Legion 50th Anniversary Flame",
+                  "text": "The American Legion 50th Anniversary Flame is a monument situated in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.508956,
+                        27.506275
+                  ]
+            },
+            {
+                  "name": "Veterans Eternal Flame",
+                  "text": "The Veterans Eternal Flame is a memorial monument located in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.521981,
+                        27.504973
+                  ]
+            },
+            {
+                  "name": "Los Olvidados Art Gallery",
+                  "text": "Los Olvidados Art Gallery is an art gallery situated in Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.506484,
+                        27.503033
+                  ]
+            },
+            {
+                  "name": "Laredo Center For the Arts",
+                  "text": "The Laredo Center For the Arts is an art gallery located in Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.506134,
+                        27.504611
+                  ]
+            },
+            {
+                  "name": "Casa Daphne",
+                  "text": "Casa Daphne is a gallery located in the city of Nuevo Laredo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.510159,
+                        27.509067
+                  ]
+            },
+            {
+                  "name": "Cristobal Colon",
+                  "text": "The Cristobal Colon is a monument located in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.502866,
+                        27.466466
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre is a commemorative monument in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.510047,
+                        27.466721
+                  ]
+            },
+            {
+                  "name": "Monumento Benemérito Benito Juárez",
+                  "text": "The Monumento Benemérito Benito Juárez is a historical monument situated in Nuevo Laredo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.507755,
+                        27.470236
+                  ]
+            },
+            {
+                  "name": "El Portal",
+                  "text": "El Portal is a tourist attraction located in Nuevo Laredo.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.509488,
+                        27.501178
+                  ]
+            },
+            {
+                  "name": "Juárez–Lincoln International Bridge",
+                  "text": "The Juárez–Lincoln International Bridge is a bridge in Nuevo Laredo connecting the United States and Mexico across the Rio Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.502705,
+                        27.50019
+                  ]
+            },
+            {
+                  "name": "Texas Mexican Railway International Bridge",
+                  "text": "The Texas Mexican Railway International Bridge is a bridge structure situated in Nuevo Laredo.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.516243,
+                        27.49769
+                  ]
+            },
+            {
+                  "name": "Gateway to the Americas International Bridge",
+                  "text": "The Gateway to the Americas International Bridge is an international bridge in Nuevo Laredo serving vehicular and pedestrian traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.507498,
+                        27.499956
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-TAM",
     coords: [-99.5078, 27.4865],
@@ -1218,7 +12540,1024 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["L'un des ports intérieurs les plus importants pour le commerce entre les États-Unis et le Mexique.", "Fondée en 1848 après que le traité de Guadalupe Hidalgo a établi le Rio Grande comme frontière.", "Connue pour sa gastronomie animée, en particulier ses excellentes viandes grillées."],
     }, image: "/poi-images/nuevo-laredo-cities-v2.webp"},
   {
-    id: "san-cristobal-de-las-casas-cities-v2",
+    id: "san-cristobal-de-las-casas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Ambar de Chiapas",
+                  "text": "Bernsteinmuseum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.642162,
+                        16.735843
+                  ]
+            },
+            {
+                  "name": "Teatro Hermanos Dominguez",
+                  "text": "Theater in San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.651862,
+                        16.732946
+                  ]
+            },
+            {
+                  "name": "Na Bolom",
+                  "text": "Museum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.629943,
+                        16.741687
+                  ]
+            },
+            {
+                  "name": "Museo de la Medicina Maya",
+                  "text": "Museum für Maya-Medizin in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.638689,
+                        16.750033
+                  ]
+            },
+            {
+                  "name": "Sala De Bellas Artes",
+                  "text": "Theater in San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.638044,
+                        16.734091
+                  ]
+            },
+            {
+                  "name": "Museo textiles de mundo maya",
+                  "text": "Museum für Maya-Textilien in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.637475,
+                        16.741677
+                  ]
+            },
+            {
+                  "name": "Museo Sergio Castro",
+                  "text": "Museum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.641545,
+                        16.736987
+                  ]
+            },
+            {
+                  "name": "Cafemuseo cafe",
+                  "text": "Kaffeemuseum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.636008,
+                        16.738259
+                  ]
+            },
+            {
+                  "name": "Museo Mesoamericano del Jade",
+                  "text": "Jademuseum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.635049,
+                        16.741284
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Moxviquil",
+                  "text": "Naturschutzgebiet in San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.636559,
+                        16.759
+                  ]
+            },
+            {
+                  "name": "Teatro Zebadúa (Teatro Las Casas)",
+                  "text": "Theater in San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.638324,
+                        16.738557
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Humedales de Montaña María Eugenia",
+                  "text": "Naturschutzgebiet in San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.623258,
+                        16.70997
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+                  "text": "Naturschutzgebiet in San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.644464,
+                        16.721763
+                  ]
+            },
+            {
+                  "name": "Monumento al Dr. Manuel Velasco Suárez",
+                  "text": "Denkmal in San Cristóbal de las Casas.",
+                  "category": "historical",
+                  "coords": [
+                        -92.637912,
+                        16.737058
+                  ]
+            },
+            {
+                  "name": "Beau Dégât [bo.de.ga]",
+                  "text": "Kunstgalerie in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.638064,
+                        16.735685
+                  ]
+            },
+            {
+                  "name": "Enzué",
+                  "text": "Galerie in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.63534,
+                        16.740181
+                  ]
+            },
+            {
+                  "name": "La Tozi Galeria Hotel",
+                  "text": "Galerie in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.633815,
+                        16.737547
+                  ]
+            },
+            {
+                  "name": "Galería MUY",
+                  "text": "Galerie in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.628689,
+                        16.738589
+                  ]
+            },
+            {
+                  "name": "Steps (non-profit with workshops)",
+                  "text": "Attraktion in San Cristóbal de las Casas.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.632649,
+                        16.737972
+                  ]
+            },
+            {
+                  "name": "Etéreo Taller",
+                  "text": "Galerie in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.644574,
+                        16.736811
+                  ]
+            },
+            {
+                  "name": "STEPS nonprofit",
+                  "text": "Attraktion in San Cristóbal de las Casas.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.634017,
+                        16.739538
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Attraktion in San Cristóbal de las Casas.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.643686,
+                        16.733542
+                  ]
+            },
+            {
+                  "name": "Cononial",
+                  "text": "Ein Aussichtspunkt in San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.650624,
+                        16.755073
+                  ]
+            },
+            {
+                  "name": "Acceso al Parque Natural El Encuentro",
+                  "text": "Eine Sehenswürdigkeit beim Parque Natural El Encuentro.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.614867,
+                        16.733715
+                  ]
+            },
+            {
+                  "name": "Espacio Taxcalate",
+                  "text": "Eine Galerie in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.632947,
+                        16.740289
+                  ]
+            },
+            {
+                  "name": "Galería Studio Cerrillo",
+                  "text": "Eine Galerie in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.633969,
+                        16.742174
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "Eine Sehenswürdigkeit mit Street Art.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.636054,
+                        16.742106
+                  ]
+            },
+            {
+                  "name": "CasaLab",
+                  "text": "Ein Kunstzentrum in San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.634147,
+                        16.732161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Ambar de Chiapas",
+                  "text": "Borostyánmúzeum San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.642162,
+                        16.735843
+                  ]
+            },
+            {
+                  "name": "Teatro Hermanos Dominguez",
+                  "text": "Színház San Cristóbal de las Casasban.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.651862,
+                        16.732946
+                  ]
+            },
+            {
+                  "name": "Na Bolom",
+                  "text": "Múzeum San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.629943,
+                        16.741687
+                  ]
+            },
+            {
+                  "name": "Museo de la Medicina Maya",
+                  "text": "Maja orvoslástani múzeum San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.638689,
+                        16.750033
+                  ]
+            },
+            {
+                  "name": "Sala De Bellas Artes",
+                  "text": "Színház San Cristóbal de las Casasban.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.638044,
+                        16.734091
+                  ]
+            },
+            {
+                  "name": "Museo textiles de mundo maya",
+                  "text": "Maja textil múzeum San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.637475,
+                        16.741677
+                  ]
+            },
+            {
+                  "name": "Museo Sergio Castro",
+                  "text": "Múzeum San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.641545,
+                        16.736987
+                  ]
+            },
+            {
+                  "name": "Cafemuseo cafe",
+                  "text": "Kávémúzeum San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.636008,
+                        16.738259
+                  ]
+            },
+            {
+                  "name": "Museo Mesoamericano del Jade",
+                  "text": "Jádemúzeum San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.635049,
+                        16.741284
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Moxviquil",
+                  "text": "Természetvédelmi terület San Cristóbal de las Casasban.",
+                  "category": "natural",
+                  "coords": [
+                        -92.636559,
+                        16.759
+                  ]
+            },
+            {
+                  "name": "Teatro Zebadúa (Teatro Las Casas)",
+                  "text": "Színház San Cristóbal de las Casasban.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.638324,
+                        16.738557
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Humedales de Montaña María Eugenia",
+                  "text": "Természetvédelmi terület San Cristóbal de las Casasban.",
+                  "category": "natural",
+                  "coords": [
+                        -92.623258,
+                        16.70997
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+                  "text": "Természetvédelmi terület San Cristóbal de las Casasban.",
+                  "category": "natural",
+                  "coords": [
+                        -92.644464,
+                        16.721763
+                  ]
+            },
+            {
+                  "name": "Monumento al Dr. Manuel Velasco Suárez",
+                  "text": "Emlékmű San Cristóbal de las Casasban.",
+                  "category": "historical",
+                  "coords": [
+                        -92.637912,
+                        16.737058
+                  ]
+            },
+            {
+                  "name": "Beau Dégât [bo.de.ga]",
+                  "text": "Művészeti galéria San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.638064,
+                        16.735685
+                  ]
+            },
+            {
+                  "name": "Enzué",
+                  "text": "Galéria San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.63534,
+                        16.740181
+                  ]
+            },
+            {
+                  "name": "La Tozi Galeria Hotel",
+                  "text": "Galéria San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.633815,
+                        16.737547
+                  ]
+            },
+            {
+                  "name": "Galería MUY",
+                  "text": "Galéria San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.628689,
+                        16.738589
+                  ]
+            },
+            {
+                  "name": "Steps (non-profit with workshops)",
+                  "text": "Látnivaló San Cristóbal de las Casasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.632649,
+                        16.737972
+                  ]
+            },
+            {
+                  "name": "Etéreo Taller",
+                  "text": "Galéria San Cristóbal de las Casasban.",
+                  "category": "museum",
+                  "coords": [
+                        -92.644574,
+                        16.736811
+                  ]
+            },
+            {
+                  "name": "STEPS nonprofit",
+                  "text": "Látnivaló San Cristóbal de las Casasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.634017,
+                        16.739538
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Látnivaló San Cristóbal de las Casasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.643686,
+                        16.733542
+                  ]
+            },
+            {
+                  "name": "Cononial",
+                  "text": "Kilátópont San Cristóbal de las Casas városában.",
+                  "category": "natural",
+                  "coords": [
+                        -92.650624,
+                        16.755073
+                  ]
+            },
+            {
+                  "name": "Acceso al Parque Natural El Encuentro",
+                  "text": "Látnivaló a Parque Natural El Encuentro parknál.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.614867,
+                        16.733715
+                  ]
+            },
+            {
+                  "name": "Espacio Taxcalate",
+                  "text": "Galéria San Cristóbal de las Casas városában.",
+                  "category": "museum",
+                  "coords": [
+                        -92.632947,
+                        16.740289
+                  ]
+            },
+            {
+                  "name": "Galería Studio Cerrillo",
+                  "text": "Galéria San Cristóbal de las Casas városában.",
+                  "category": "museum",
+                  "coords": [
+                        -92.633969,
+                        16.742174
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "Látnivaló utcai művészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.636054,
+                        16.742106
+                  ]
+            },
+            {
+                  "name": "CasaLab",
+                  "text": "Művészeti központ San Cristóbal de las Casas városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.634147,
+                        16.732161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Ambar de Chiapas",
+                  "text": "Muzeul ambrei în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.642162,
+                        16.735843
+                  ]
+            },
+            {
+                  "name": "Teatro Hermanos Dominguez",
+                  "text": "Teatru în San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.651862,
+                        16.732946
+                  ]
+            },
+            {
+                  "name": "Na Bolom",
+                  "text": "Muzeu în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.629943,
+                        16.741687
+                  ]
+            },
+            {
+                  "name": "Museo de la Medicina Maya",
+                  "text": "Muzeul medicinei maya în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.638689,
+                        16.750033
+                  ]
+            },
+            {
+                  "name": "Sala De Bellas Artes",
+                  "text": "Teatru în San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.638044,
+                        16.734091
+                  ]
+            },
+            {
+                  "name": "Museo textiles de mundo maya",
+                  "text": "Muzeu de textile maya în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.637475,
+                        16.741677
+                  ]
+            },
+            {
+                  "name": "Museo Sergio Castro",
+                  "text": "Muzeu în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.641545,
+                        16.736987
+                  ]
+            },
+            {
+                  "name": "Cafemuseo cafe",
+                  "text": "Muzeul cafelei în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.636008,
+                        16.738259
+                  ]
+            },
+            {
+                  "name": "Museo Mesoamericano del Jade",
+                  "text": "Muzeul jadului în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.635049,
+                        16.741284
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Moxviquil",
+                  "text": "Rezervație naturală în San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.636559,
+                        16.759
+                  ]
+            },
+            {
+                  "name": "Teatro Zebadúa (Teatro Las Casas)",
+                  "text": "Teatru în San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.638324,
+                        16.738557
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Humedales de Montaña María Eugenia",
+                  "text": "Rezervație naturală în San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.623258,
+                        16.70997
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+                  "text": "Rezervație naturală în San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.644464,
+                        16.721763
+                  ]
+            },
+            {
+                  "name": "Monumento al Dr. Manuel Velasco Suárez",
+                  "text": "Monument în San Cristóbal de las Casas.",
+                  "category": "historical",
+                  "coords": [
+                        -92.637912,
+                        16.737058
+                  ]
+            },
+            {
+                  "name": "Beau Dégât [bo.de.ga]",
+                  "text": "Galerie de artă în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.638064,
+                        16.735685
+                  ]
+            },
+            {
+                  "name": "Enzué",
+                  "text": "Galerie în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.63534,
+                        16.740181
+                  ]
+            },
+            {
+                  "name": "La Tozi Galeria Hotel",
+                  "text": "Galerie în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.633815,
+                        16.737547
+                  ]
+            },
+            {
+                  "name": "Galería MUY",
+                  "text": "Galerie în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.628689,
+                        16.738589
+                  ]
+            },
+            {
+                  "name": "Steps (non-profit with workshops)",
+                  "text": "Atracție în San Cristóbal de las Casas.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.632649,
+                        16.737972
+                  ]
+            },
+            {
+                  "name": "Etéreo Taller",
+                  "text": "Galerie în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.644574,
+                        16.736811
+                  ]
+            },
+            {
+                  "name": "STEPS nonprofit",
+                  "text": "Atracție în San Cristóbal de las Casas.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.634017,
+                        16.739538
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Atracție în San Cristóbal de las Casas.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.643686,
+                        16.733542
+                  ]
+            },
+            {
+                  "name": "Cononial",
+                  "text": "Un punct de belvedere în San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.650624,
+                        16.755073
+                  ]
+            },
+            {
+                  "name": "Acceso al Parque Natural El Encuentro",
+                  "text": "O atracție lângă Parque Natural El Encuentro.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.614867,
+                        16.733715
+                  ]
+            },
+            {
+                  "name": "Espacio Taxcalate",
+                  "text": "O galerie în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.632947,
+                        16.740289
+                  ]
+            },
+            {
+                  "name": "Galería Studio Cerrillo",
+                  "text": "O galerie în San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.633969,
+                        16.742174
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "O atracție cu artă stradală.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.636054,
+                        16.742106
+                  ]
+            },
+            {
+                  "name": "CasaLab",
+                  "text": "Un centru de artă în San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.634147,
+                        16.732161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Amber",
+                  "text": "Amber museum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.642162,
+                        16.735843
+                  ]
+            },
+            {
+                  "name": "Teatro Hermanos Dominguez",
+                  "text": "Theatre in San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.651862,
+                        16.732946
+                  ]
+            },
+            {
+                  "name": "Na Bolom",
+                  "text": "Museum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.629943,
+                        16.741687
+                  ]
+            },
+            {
+                  "name": "Museo de la Medicina Maya",
+                  "text": "Museum of Maya medicine in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.638689,
+                        16.750033
+                  ]
+            },
+            {
+                  "name": "Sala De Bellas Artes",
+                  "text": "Theatre in San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.638044,
+                        16.734091
+                  ]
+            },
+            {
+                  "name": "Museo textiles de mundo maya",
+                  "text": "Maya textile museum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.637475,
+                        16.741677
+                  ]
+            },
+            {
+                  "name": "Museo Sergio Castro",
+                  "text": "Museum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.641545,
+                        16.736987
+                  ]
+            },
+            {
+                  "name": "Cafemuseo cafe",
+                  "text": "Coffee museum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.636008,
+                        16.738259
+                  ]
+            },
+            {
+                  "name": "Museo Mesoamericano del Jade",
+                  "text": "Jade museum in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.635049,
+                        16.741284
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Moxviquil",
+                  "text": "Nature reserve in San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.636559,
+                        16.759
+                  ]
+            },
+            {
+                  "name": "Teatro Zebadúa (Teatro Las Casas)",
+                  "text": "Theatre in San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.638324,
+                        16.738557
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Humedales de Montaña María Eugenia",
+                  "text": "Nature reserve in San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.623258,
+                        16.70997
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Humedales de Montaña La Kisst",
+                  "text": "Nature reserve in San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.644464,
+                        16.721763
+                  ]
+            },
+            {
+                  "name": "Monumento al Dr. Manuel Velasco Suárez",
+                  "text": "Monument in San Cristóbal de las Casas.",
+                  "category": "historical",
+                  "coords": [
+                        -92.637912,
+                        16.737058
+                  ]
+            },
+            {
+                  "name": "Beau Dégât [bo.de.ga]",
+                  "text": "Art gallery in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.638064,
+                        16.735685
+                  ]
+            },
+            {
+                  "name": "Enzue",
+                  "text": "Gallery in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.63534,
+                        16.740181
+                  ]
+            },
+            {
+                  "name": "La Tozi Galeria Hotel",
+                  "text": "Gallery in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.633815,
+                        16.737547
+                  ]
+            },
+            {
+                  "name": "Galeria MUY",
+                  "text": "Gallery in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.628689,
+                        16.738589
+                  ]
+            },
+            {
+                  "name": "Steps (non-profit with workshops)",
+                  "text": "Attraction in San Cristóbal de las Casas.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.632649,
+                        16.737972
+                  ]
+            },
+            {
+                  "name": "Etéreo Taller",
+                  "text": "Gallery in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.644574,
+                        16.736811
+                  ]
+            },
+            {
+                  "name": "STEPS nonprofit",
+                  "text": "Attraction in San Cristóbal de las Casas.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.634017,
+                        16.739538
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Attraction in San Cristóbal de las Casas.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.643686,
+                        16.733542
+                  ]
+            },
+            {
+                  "name": "Cononial",
+                  "text": "A viewpoint in San Cristóbal de las Casas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.650624,
+                        16.755073
+                  ]
+            },
+            {
+                  "name": "Acceso al Parque Natural El Encuentro",
+                  "text": "An attraction at Parque Natural El Encuentro.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.614867,
+                        16.733715
+                  ]
+            },
+            {
+                  "name": "Espacio Taxcalate",
+                  "text": "A gallery in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.632947,
+                        16.740289
+                  ]
+            },
+            {
+                  "name": "Galería Studio Cerrillo",
+                  "text": "A gallery in San Cristóbal de las Casas.",
+                  "category": "museum",
+                  "coords": [
+                        -92.633969,
+                        16.742174
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "An attraction with street art.",
+                  "category": "landmark",
+                  "coords": [
+                        -92.636054,
+                        16.742106
+                  ]
+            },
+            {
+                  "name": "CasaLab",
+                  "text": "An arts centre in San Cristóbal de las Casas.",
+                  "category": "cultural",
+                  "coords": [
+                        -92.634147,
+                        16.732161
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-CHP",
     coords: [-92.6376, 16.7370],
@@ -1245,7 +13584,268 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Fait partie des « Pueblos Mágicos » du Mexique en raison de son charme unique.", "La célèbre cathédrale de la place principale est un chef-d'œuvre de l'architecture baroque.", "Centre du commerce de l'ambre, avec un musée dédié à cette résine fossile."],
     }, image: "/poi-images/san-cristobal-de-las-casas-cities-v2.webp"},
   {
-    id: "coatzacoalcos-cities-v2",
+    id: "coatzacoalcos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Arqueología Olmeca",
+                  "text": "Das Museo de Arqueología Olmeca ist ein Museum in Coatzacoalcos.",
+                  "category": "museum",
+                  "coords": [
+                        -94.437899,
+                        18.153485
+                  ]
+            },
+            {
+                  "name": "Faro de Coatzacoalcos",
+                  "text": "Faro de Coatzacoalcos ist ein Leuchtturm in der Stadt Coatzacoalcos.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.415679,
+                        18.166081
+                  ]
+            },
+            {
+                  "name": "Playa Coatza",
+                  "text": "Playa Coatza ist ein Strand in der Stadt Coatzacoalcos.",
+                  "category": "recreational",
+                  "coords": [
+                        -94.456631,
+                        18.153654
+                  ]
+            },
+            {
+                  "name": "Benito Juárez",
+                  "text": "Benito Juárez ist ein Denkmal in der Stadt Coatzacoalcos.",
+                  "category": "historical",
+                  "coords": [
+                        -94.453559,
+                        18.151376
+                  ]
+            },
+            {
+                  "name": "Plaza de la PAX",
+                  "text": "Plaza de la PAX ist ein Denkmal in der Stadt Coatzacoalcos.",
+                  "category": "historical",
+                  "coords": [
+                        -94.426564,
+                        18.155364
+                  ]
+            },
+            {
+                  "name": "Monumento A La Armada De Mexico",
+                  "text": "Monumento A La Armada De Mexico ist eine Sehenswürdigkeit in der Stadt Coatzacoalcos.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.444572,
+                        18.152501
+                  ]
+            },
+            {
+                  "name": "Reloj de la Ford",
+                  "text": "Reloj de la Ford ist eine Sehenswürdigkeit in der Stadt Coatzacoalcos.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.43516,
+                        18.132655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Arqueología Olmeca",
+                  "text": "A Museo de Arqueología Olmeca egy múzeum Coatzacoalcos városában.",
+                  "category": "museum",
+                  "coords": [
+                        -94.437899,
+                        18.153485
+                  ]
+            },
+            {
+                  "name": "Faro de Coatzacoalcos",
+                  "text": "A Faro de Coatzacoalcos egy világítótorony Coatzacoalcos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.415679,
+                        18.166081
+                  ]
+            },
+            {
+                  "name": "Playa Coatza",
+                  "text": "A Playa Coatza egy strand Coatzacoalcos városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -94.456631,
+                        18.153654
+                  ]
+            },
+            {
+                  "name": "Benito Juárez",
+                  "text": "A Benito Juárez egy emlékmű Coatzacoalcos városában.",
+                  "category": "historical",
+                  "coords": [
+                        -94.453559,
+                        18.151376
+                  ]
+            },
+            {
+                  "name": "Plaza de la PAX",
+                  "text": "A Plaza de la PAX egy emlékmű Coatzacoalcos városában.",
+                  "category": "historical",
+                  "coords": [
+                        -94.426564,
+                        18.155364
+                  ]
+            },
+            {
+                  "name": "Monumento A La Armada De Mexico",
+                  "text": "A Monumento A La Armada De Mexico egy turisztikai látványosság Coatzacoalcos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.444572,
+                        18.152501
+                  ]
+            },
+            {
+                  "name": "Reloj de la Ford",
+                  "text": "A Reloj de la Ford egy turisztikai látványosság Coatzacoalcos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.43516,
+                        18.132655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Arqueología Olmeca",
+                  "text": "Museo de Arqueología Olmeca este un muzeu situat în Coatzacoalcos.",
+                  "category": "museum",
+                  "coords": [
+                        -94.437899,
+                        18.153485
+                  ]
+            },
+            {
+                  "name": "Faro de Coatzacoalcos",
+                  "text": "Faro de Coatzacoalcos este un far situat în orașul Coatzacoalcos.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.415679,
+                        18.166081
+                  ]
+            },
+            {
+                  "name": "Playa Coatza",
+                  "text": "Playa Coatza este o plajă situată în orașul Coatzacoalcos.",
+                  "category": "recreational",
+                  "coords": [
+                        -94.456631,
+                        18.153654
+                  ]
+            },
+            {
+                  "name": "Benito Juárez",
+                  "text": "Benito Juárez este un monument situat în orașul Coatzacoalcos.",
+                  "category": "historical",
+                  "coords": [
+                        -94.453559,
+                        18.151376
+                  ]
+            },
+            {
+                  "name": "Plaza de la PAX",
+                  "text": "Plaza de la PAX este un monument situat în orașul Coatzacoalcos.",
+                  "category": "historical",
+                  "coords": [
+                        -94.426564,
+                        18.155364
+                  ]
+            },
+            {
+                  "name": "Monumento A La Armada De Mexico",
+                  "text": "Monumento A La Armada De Mexico este o atracție turistică situată în orașul Coatzacoalcos.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.444572,
+                        18.152501
+                  ]
+            },
+            {
+                  "name": "Reloj de la Ford",
+                  "text": "Reloj de la Ford este o atracție turistică situată în orașul Coatzacoalcos.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.43516,
+                        18.132655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Arqueología Olmeca",
+                  "text": "Museo de Arqueología Olmeca is an archaeological museum located in Coatzacoalcos.",
+                  "category": "museum",
+                  "coords": [
+                        -94.437899,
+                        18.153485
+                  ]
+            },
+            {
+                  "name": "Faro de Coatzacoalcos",
+                  "text": "Faro de Coatzacoalcos is a lighthouse located in the city of Coatzacoalcos.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.415679,
+                        18.166081
+                  ]
+            },
+            {
+                  "name": "Playa Coatza",
+                  "text": "Playa Coatza is a beach located in the city of Coatzacoalcos.",
+                  "category": "recreational",
+                  "coords": [
+                        -94.456631,
+                        18.153654
+                  ]
+            },
+            {
+                  "name": "Benito Juárez",
+                  "text": "Benito Juárez is a monument located in the city of Coatzacoalcos.",
+                  "category": "historical",
+                  "coords": [
+                        -94.453559,
+                        18.151376
+                  ]
+            },
+            {
+                  "name": "Plaza de la PAX",
+                  "text": "Plaza de la PAX is a monument located in the city of Coatzacoalcos.",
+                  "category": "historical",
+                  "coords": [
+                        -94.426564,
+                        18.155364
+                  ]
+            },
+            {
+                  "name": "Monumento A La Armada De Mexico",
+                  "text": "Monumento A La Armada De Mexico is a tourist attraction located in the city of Coatzacoalcos.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.444572,
+                        18.152501
+                  ]
+            },
+            {
+                  "name": "Reloj de la Ford",
+                  "text": "Reloj de la Ford is a tourist attraction located in the city of Coatzacoalcos.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.43516,
+                        18.132655
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-VER",
     coords: [-94.4333, 18.1500],
@@ -1272,7 +13872,484 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Port maritime important pour l'exportation de pétrole et de produits pétrochimiques.", "Le nom signifie en langue nahuatl 'lieu où se cache le serpent'.", "Autrefois un centre important de l'ancienne civilisation olmèque."],
     }, image: "/poi-images/coatzacoalcos-cities-v2.webp"},
   {
-    id: "ciudad-obregon-cities-v2",
+    id: "ciudad-obregon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Ostimuri",
+                  "text": "Parque Ostimuri ist ein Themenpark in Ciudad Obregón.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.966289,
+                        27.493129
+                  ]
+            },
+            {
+                  "name": "Teatro Dr. Óscar Russo Vogel",
+                  "text": "Teatro Dr. Óscar Russo Vogel ist ein Theater in Ciudad Obregón.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.93219,
+                        27.482171
+                  ]
+            },
+            {
+                  "name": "Ostimuri",
+                  "text": "Ostimuri ist ein Themenpark in der Stadt Ciudad Obregón.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.966966,
+                        27.494132
+                  ]
+            },
+            {
+                  "name": "Benito Juarez",
+                  "text": "Benito Juarez ist ein Denkmal in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.931179,
+                        27.482021
+                  ]
+            },
+            {
+                  "name": "Monumento Juan Maldonado Tetabiate",
+                  "text": "Das Monumento Juan Maldonado Tetabiate ist ein Denkmal in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.929977,
+                        27.482668
+                  ]
+            },
+            {
+                  "name": "Los Pioneros",
+                  "text": "Los Pioneros ist ein Denkmal in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.938526,
+                        27.503097
+                  ]
+            },
+            {
+                  "name": "Jose Maria Morelos y Pavon",
+                  "text": "Das Denkmal Jose Maria Morelos y Pavon befindet sich in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.938356,
+                        27.501766
+                  ]
+            },
+            {
+                  "name": "Manuel Clouthier",
+                  "text": "Manuel Clouthier ist ein Denkmal in der Stadt Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.945777,
+                        27.47175
+                  ]
+            },
+            {
+                  "name": "Jesús García",
+                  "text": "Jesús García ist ein Gedenkmonument in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.927756,
+                        27.492085
+                  ]
+            },
+            {
+                  "name": "Torre de Paris",
+                  "text": "Torre de Paris ist ein Denkmal in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.963085,
+                        27.47743
+                  ]
+            },
+            {
+                  "name": "Vecinos",
+                  "text": "Vecinos ist ein historisches Herrenhaus in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.949732,
+                        27.483556
+                  ]
+            },
+            {
+                  "name": "Amelia",
+                  "text": "Amelia ist ein bemerkenswertes Herrenhaus in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.950017,
+                        27.48476
+                  ]
+            },
+            {
+                  "name": "Monumento Gral. Lázaro Cárdenas",
+                  "text": "Das Monumento Gral. Lázaro Cárdenas ist ein Denkmal in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.936359,
+                        27.48988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Ostimuri",
+                  "text": "A Parque Ostimuri egy vidámpark Ciudad Obregón városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.966289,
+                        27.493129
+                  ]
+            },
+            {
+                  "name": "Teatro Dr. Óscar Russo Vogel",
+                  "text": "A Teatro Dr. Óscar Russo Vogel egy színház Ciudad Obregón városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.93219,
+                        27.482171
+                  ]
+            },
+            {
+                  "name": "Ostimuri",
+                  "text": "Az Ostimuri egy vidámpark Ciudad Obregón városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.966966,
+                        27.494132
+                  ]
+            },
+            {
+                  "name": "Benito Juarez",
+                  "text": "A Benito Juarez egy emlékmű Ciudad Obregón városában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.931179,
+                        27.482021
+                  ]
+            },
+            {
+                  "name": "Monumento Juan Maldonado Tetabiate",
+                  "text": "A Monumento Juan Maldonado Tetabiate egy emlékmű Ciudad Obregón városában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.929977,
+                        27.482668
+                  ]
+            },
+            {
+                  "name": "Los Pioneros",
+                  "text": "A Los Pioneros egy emlékmű Ciudad Obregón városában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.938526,
+                        27.503097
+                  ]
+            },
+            {
+                  "name": "Jose Maria Morelos y Pavon",
+                  "text": "A Jose Maria Morelos y Pavon emlékmű Ciudad Obregón városában található.",
+                  "category": "historical",
+                  "coords": [
+                        -109.938356,
+                        27.501766
+                  ]
+            },
+            {
+                  "name": "Manuel Clouthier",
+                  "text": "A Manuel Clouthier egy emlékmű Ciudad Obregón városában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.945777,
+                        27.47175
+                  ]
+            },
+            {
+                  "name": "Jesús García",
+                  "text": "A Jesús García egy emlékmű Ciudad Obregón városában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.927756,
+                        27.492085
+                  ]
+            },
+            {
+                  "name": "Torre de Paris",
+                  "text": "A Torre de Paris egy emlékmű Ciudad Obregón városában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.963085,
+                        27.47743
+                  ]
+            },
+            {
+                  "name": "Vecinos",
+                  "text": "A Vecinos egy történelmi udvarház Ciudad Obregón városában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.949732,
+                        27.483556
+                  ]
+            },
+            {
+                  "name": "Amelia",
+                  "text": "Az Amelia egy nevezetes kúria Ciudad Obregón városában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.950017,
+                        27.48476
+                  ]
+            },
+            {
+                  "name": "Monumento Gral. Lázaro Cárdenas",
+                  "text": "A Monumento Gral. Lázaro Cárdenas egy emlékmű Ciudad Obregón városában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.936359,
+                        27.48988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Ostimuri",
+                  "text": "Parque Ostimuri este un parc tematic situat în Ciudad Obregón.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.966289,
+                        27.493129
+                  ]
+            },
+            {
+                  "name": "Teatro Dr. Óscar Russo Vogel",
+                  "text": "Teatro Dr. Óscar Russo Vogel este un teatru situat în Ciudad Obregón.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.93219,
+                        27.482171
+                  ]
+            },
+            {
+                  "name": "Ostimuri",
+                  "text": "Ostimuri este un parc tematic situat în orașul Ciudad Obregón.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.966966,
+                        27.494132
+                  ]
+            },
+            {
+                  "name": "Benito Juarez",
+                  "text": "Benito Juarez este un monument situat în Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.931179,
+                        27.482021
+                  ]
+            },
+            {
+                  "name": "Monumento Juan Maldonado Tetabiate",
+                  "text": "Monumento Juan Maldonado Tetabiate este un monument memorial din Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.929977,
+                        27.482668
+                  ]
+            },
+            {
+                  "name": "Los Pioneros",
+                  "text": "Los Pioneros este un monument situat în Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.938526,
+                        27.503097
+                  ]
+            },
+            {
+                  "name": "Jose Maria Morelos y Pavon",
+                  "text": "Monumentul Jose Maria Morelos y Pavon este situat în Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.938356,
+                        27.501766
+                  ]
+            },
+            {
+                  "name": "Manuel Clouthier",
+                  "text": "Manuel Clouthier este un monument situat în orașul Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.945777,
+                        27.47175
+                  ]
+            },
+            {
+                  "name": "Jesús García",
+                  "text": "Jesús García este un monument memorial situat în Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.927756,
+                        27.492085
+                  ]
+            },
+            {
+                  "name": "Torre de Paris",
+                  "text": "Torre de Paris este un monument situat în Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.963085,
+                        27.47743
+                  ]
+            },
+            {
+                  "name": "Vecinos",
+                  "text": "Vecinos este un conac istoric situat în Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.949732,
+                        27.483556
+                  ]
+            },
+            {
+                  "name": "Amelia",
+                  "text": "Amelia este un conac notabil situat în Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.950017,
+                        27.48476
+                  ]
+            },
+            {
+                  "name": "Monumento Gral. Lázaro Cárdenas",
+                  "text": "Monumento Gral. Lázaro Cárdenas este un monument situat în Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.936359,
+                        27.48988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Ostimuri",
+                  "text": "Parque Ostimuri is a theme park located in Ciudad Obregón.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.966289,
+                        27.493129
+                  ]
+            },
+            {
+                  "name": "Teatro Dr. Óscar Russo Vogel",
+                  "text": "Teatro Dr. Óscar Russo Vogel is a theatre situated in Ciudad Obregón.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.93219,
+                        27.482171
+                  ]
+            },
+            {
+                  "name": "Ostimuri",
+                  "text": "Ostimuri is a theme park situated in the city of Ciudad Obregón.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.966966,
+                        27.494132
+                  ]
+            },
+            {
+                  "name": "Benito Juarez",
+                  "text": "Benito Juarez is a monument located in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.931179,
+                        27.482021
+                  ]
+            },
+            {
+                  "name": "Monumento Juan Maldonado Tetabiate",
+                  "text": "The Monumento Juan Maldonado Tetabiate is a memorial monument in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.929977,
+                        27.482668
+                  ]
+            },
+            {
+                  "name": "Los Pioneros",
+                  "text": "Los Pioneros is a monument situated in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.938526,
+                        27.503097
+                  ]
+            },
+            {
+                  "name": "Jose Maria Morelos y Pavon",
+                  "text": "The Jose Maria Morelos y Pavon monument is located in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.938356,
+                        27.501766
+                  ]
+            },
+            {
+                  "name": "Manuel Clouthier",
+                  "text": "Manuel Clouthier is a monument situated in the city of Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.945777,
+                        27.47175
+                  ]
+            },
+            {
+                  "name": "Jesús García",
+                  "text": "Jesús García is a memorial monument located in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.927756,
+                        27.492085
+                  ]
+            },
+            {
+                  "name": "Torre de Paris",
+                  "text": "Torre de Paris is a monument structure situated in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.963085,
+                        27.47743
+                  ]
+            },
+            {
+                  "name": "Vecinos",
+                  "text": "Vecinos is a historic manor located in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.949732,
+                        27.483556
+                  ]
+            },
+            {
+                  "name": "Amelia",
+                  "text": "Amelia is a notable manor located in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.950017,
+                        27.48476
+                  ]
+            },
+            {
+                  "name": "Monumento Gral. Lázaro Cárdenas",
+                  "text": "The Monumento Gral. Lázaro Cárdenas is a monument situated in Ciudad Obregón.",
+                  "category": "historical",
+                  "coords": [
+                        -109.936359,
+                        27.48988
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-SON",
     coords: [-109.9403, 27.4942],
@@ -1299,7 +14376,448 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Nommée en l'honneur du président mexicain Álvaro Obregón.", "Site majeur de la 'Révolution verte' mondiale grâce au Dr Norman Borlaug.", "La vallée du Yaqui produit une grande partie du blé mexicain."],
     }, image: "/poi-images/ciudad-obregon-cities-v2.webp"},
   {
-    id: "ensenada-cities-v2",
+    id: "ensenada-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archivo Histórico de la Ciudad",
+                  "text": "Ein Museum zur Geschichte der Stadt in Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.626725,
+                        31.865714
+                  ]
+            },
+            {
+                  "name": "Museo de Historia de Ensenada",
+                  "text": "Ein Geschichtsmuseum in Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.619778,
+                        31.858593
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Regional de Ensenada",
+                  "text": "Ein regionales Geschichtsmuseum in Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.628128,
+                        31.863372
+                  ]
+            },
+            {
+                  "name": "Teatro Riviera",
+                  "text": "Ein Theater in Ensenada.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.618139,
+                        31.858206
+                  ]
+            },
+            {
+                  "name": "Concha Marina",
+                  "text": "Ein Theater in Ensenada.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.624503,
+                        31.859464
+                  ]
+            },
+            {
+                  "name": "Caracol Museo de Ciencias",
+                  "text": "Ein Wissenschaftsmuseum in Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.620383,
+                        31.857188
+                  ]
+            },
+            {
+                  "name": "Centro Social Civico y Cultural Riviera",
+                  "text": "Eine Sehenswürdigkeit in Ensenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.619442,
+                        31.85985
+                  ]
+            },
+            {
+                  "name": "Epocas",
+                  "text": "Eine Sehenswürdigkeit in Ensenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.610111,
+                        31.854689
+                  ]
+            },
+            {
+                  "name": "Porterias",
+                  "text": "Eine Sehenswürdigkeit in Ensenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.570441,
+                        31.868624
+                  ]
+            },
+            {
+                  "name": "Hidalgo",
+                  "text": "Ein Denkmal für Hidalgo in Ensenada.",
+                  "category": "historical",
+                  "coords": [
+                        -116.624871,
+                        31.860525
+                  ]
+            },
+            {
+                  "name": "CEARTE",
+                  "text": "Ein Kunstzentrum in Ensenada.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.617576,
+                        31.856912
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Ein Muttertagsdenkmal in Ensenada.",
+                  "category": "historical",
+                  "coords": [
+                        -116.62675,
+                        31.86898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archivo Histórico de la Ciudad",
+                  "text": "Várostörténeti múzeum Ensenada városában.",
+                  "category": "museum",
+                  "coords": [
+                        -116.626725,
+                        31.865714
+                  ]
+            },
+            {
+                  "name": "Museo de Historia de Ensenada",
+                  "text": "Történeti múzeum Ensenada városában.",
+                  "category": "museum",
+                  "coords": [
+                        -116.619778,
+                        31.858593
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Regional de Ensenada",
+                  "text": "Regionális történeti múzeum Ensenada városában.",
+                  "category": "museum",
+                  "coords": [
+                        -116.628128,
+                        31.863372
+                  ]
+            },
+            {
+                  "name": "Teatro Riviera",
+                  "text": "Színház Ensenada városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.618139,
+                        31.858206
+                  ]
+            },
+            {
+                  "name": "Concha Marina",
+                  "text": "Színház Ensenada városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.624503,
+                        31.859464
+                  ]
+            },
+            {
+                  "name": "Caracol Museo de Ciencias",
+                  "text": "Tudományos múzeum Ensenada városában.",
+                  "category": "museum",
+                  "coords": [
+                        -116.620383,
+                        31.857188
+                  ]
+            },
+            {
+                  "name": "Centro Social Civico y Cultural Riviera",
+                  "text": "Látnivaló Ensenada városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.619442,
+                        31.85985
+                  ]
+            },
+            {
+                  "name": "Epocas",
+                  "text": "Látnivaló Ensenada városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.610111,
+                        31.854689
+                  ]
+            },
+            {
+                  "name": "Porterias",
+                  "text": "Látnivaló Ensenada városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.570441,
+                        31.868624
+                  ]
+            },
+            {
+                  "name": "Hidalgo",
+                  "text": "Hidalgo emlékműve Ensenadában.",
+                  "category": "historical",
+                  "coords": [
+                        -116.624871,
+                        31.860525
+                  ]
+            },
+            {
+                  "name": "CEARTE",
+                  "text": "Művészeti központ Ensenada városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.617576,
+                        31.856912
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Anyák napi emlékmű Ensenadában.",
+                  "category": "historical",
+                  "coords": [
+                        -116.62675,
+                        31.86898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archivo Histórico de la Ciudad",
+                  "text": "Un muzeu de istorie locală în Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.626725,
+                        31.865714
+                  ]
+            },
+            {
+                  "name": "Museo de Historia de Ensenada",
+                  "text": "Un muzeu de istorie în Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.619778,
+                        31.858593
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Regional de Ensenada",
+                  "text": "Un muzeu de istorie regională în Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.628128,
+                        31.863372
+                  ]
+            },
+            {
+                  "name": "Teatro Riviera",
+                  "text": "Un teatru în Ensenada.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.618139,
+                        31.858206
+                  ]
+            },
+            {
+                  "name": "Concha Marina",
+                  "text": "Un teatru în Ensenada.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.624503,
+                        31.859464
+                  ]
+            },
+            {
+                  "name": "Caracol Museo de Ciencias",
+                  "text": "Un muzeu de știință în Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.620383,
+                        31.857188
+                  ]
+            },
+            {
+                  "name": "Centro Social Civico y Cultural Riviera",
+                  "text": "O atracție în Ensenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.619442,
+                        31.85985
+                  ]
+            },
+            {
+                  "name": "Epocas",
+                  "text": "O atracție în Ensenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.610111,
+                        31.854689
+                  ]
+            },
+            {
+                  "name": "Porterias",
+                  "text": "O atracție în Ensenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.570441,
+                        31.868624
+                  ]
+            },
+            {
+                  "name": "Hidalgo",
+                  "text": "Un monument dedicat lui Hidalgo în Ensenada.",
+                  "category": "historical",
+                  "coords": [
+                        -116.624871,
+                        31.860525
+                  ]
+            },
+            {
+                  "name": "CEARTE",
+                  "text": "Un centru de artă în Ensenada.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.617576,
+                        31.856912
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Un monument al mamei în Ensenada.",
+                  "category": "historical",
+                  "coords": [
+                        -116.62675,
+                        31.86898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Historical Archives of the City",
+                  "text": "A city history museum in Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.626725,
+                        31.865714
+                  ]
+            },
+            {
+                  "name": "Museo de Historia de Ensenada",
+                  "text": "A history museum in Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.619778,
+                        31.858593
+                  ]
+            },
+            {
+                  "name": "Museum of Regional History of Ensenada",
+                  "text": "A regional history museum in Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.628128,
+                        31.863372
+                  ]
+            },
+            {
+                  "name": "Teatro Riviera",
+                  "text": "A theatre in Ensenada.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.618139,
+                        31.858206
+                  ]
+            },
+            {
+                  "name": "Concha Marina",
+                  "text": "A theatre in Ensenada.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.624503,
+                        31.859464
+                  ]
+            },
+            {
+                  "name": "Caracol Science Museum",
+                  "text": "A science museum in Ensenada.",
+                  "category": "museum",
+                  "coords": [
+                        -116.620383,
+                        31.857188
+                  ]
+            },
+            {
+                  "name": "Centro Social Civico y Cultural Riviera",
+                  "text": "An attraction in Ensenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.619442,
+                        31.85985
+                  ]
+            },
+            {
+                  "name": "Epocas",
+                  "text": "An attraction in Ensenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.610111,
+                        31.854689
+                  ]
+            },
+            {
+                  "name": "Porterias",
+                  "text": "An attraction in Ensenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.570441,
+                        31.868624
+                  ]
+            },
+            {
+                  "name": "Hidalgo",
+                  "text": "A monument to Hidalgo in Ensenada.",
+                  "category": "historical",
+                  "coords": [
+                        -116.624871,
+                        31.860525
+                  ]
+            },
+            {
+                  "name": "CEARTE",
+                  "text": "An arts centre in Ensenada.",
+                  "category": "cultural",
+                  "coords": [
+                        -116.617576,
+                        31.856912
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "A monument to the mother in Ensenada.",
+                  "category": "historical",
+                  "coords": [
+                        -116.62675,
+                        31.86898
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-BCN",
     coords: [-116.5964, 31.8664],
@@ -1353,7 +14871,412 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["S'est développée rapidement au XXe siècle grâce à la découverte d'immenses gisements de pétrole.", "Située à quelques kilomètres seulement du site d'El Tajín, inscrit au patrimoine mondial de l'UNESCO.", "Réputée pour la tradition des « Voladores », qui exécutent des danses aériennes spectaculaires."],
     }, image: "/poi-images/poza-rica-cities-v2.webp"},
   {
-    id: "los-cabos-cities-v2",
+    id: "los-cabos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Historia Natural de Cabo San Lucas",
+                  "text": "Das Museum of Natural History in Cabo San Lucas ist eine Einrichtung in Los Cabos, die sich der Naturgeschichte der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -109.91468,
+                        22.882915
+                  ]
+            },
+            {
+                  "name": "El Arch of Cabo San Lucas",
+                  "text": "El Arch of Cabo San Lucas ist eine markante natürliche Felsformation und Attraktion an der Südspitze von Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.894563,
+                        22.876024
+                  ]
+            },
+            {
+                  "name": "#CABO",
+                  "text": "Das #CABO sign ist eine beliebte Touristenattraktion und ein Fotomotiv in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.909374,
+                        22.886497
+                  ]
+            },
+            {
+                  "name": "Monumento a la madre",
+                  "text": "Monumento a la madre ist ein Gedenkmonument in Los Cabos.",
+                  "category": "historical",
+                  "coords": [
+                        -109.919624,
+                        22.896204
+                  ]
+            },
+            {
+                  "name": "Cabo Adventures",
+                  "text": "Cabo Adventures ist eine lokale Touristenattraktion in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.908354,
+                        22.879406
+                  ]
+            },
+            {
+                  "name": "Cabo Dolphins",
+                  "text": "Cabo Dolphins ist eine Attraktion in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.910709,
+                        22.878699
+                  ]
+            },
+            {
+                  "name": "Solmar Resorts",
+                  "text": "Solmar Resorts ist ein Strandresort, das Unterkünfte in Los Cabos bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.904923,
+                        22.876429
+                  ]
+            },
+            {
+                  "name": "Casa Dorada Los Cabos Resort & Spa",
+                  "text": "Casa Dorada Los Cabos Resort & Spa ist ein Hotel in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.904918,
+                        22.888005
+                  ]
+            },
+            {
+                  "name": "Meliá Cabo San Lucas",
+                  "text": "Meliá Cabo San Lucas ist ein Hotel in der Stadt Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.903988,
+                        22.888925
+                  ]
+            },
+            {
+                  "name": "Terrasol Beach Resort",
+                  "text": "Terrasol Beach Resort ist ein Hotel, das Unterkünfte in Los Cabos bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.906729,
+                        22.876078
+                  ]
+            },
+            {
+                  "name": "Marina Fiesta Resort & Spa",
+                  "text": "Marina Fiesta Resort & Spa ist ein Hotel in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.908274,
+                        22.885405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Historia Natural de Cabo San Lucas",
+                  "text": "A Museum of Natural History in Cabo San Lucas egy Los Cabos-i intézmény, amely a régió természettörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -109.91468,
+                        22.882915
+                  ]
+            },
+            {
+                  "name": "El Arch of Cabo San Lucas",
+                  "text": "Az El Arch of Cabo San Lucas egy jellegzetes természetes sziklaalakzat és látványosság Los Cabos déli csücskén.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.894563,
+                        22.876024
+                  ]
+            },
+            {
+                  "name": "#CABO",
+                  "text": "A #CABO sign egy népszerű turisztikai látványosság és fotóhelyszín Los Cabos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.909374,
+                        22.886497
+                  ]
+            },
+            {
+                  "name": "Monumento a la madre",
+                  "text": "A Monumento a la madre egy emlékmű Los Cabos városában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.919624,
+                        22.896204
+                  ]
+            },
+            {
+                  "name": "Cabo Adventures",
+                  "text": "A Cabo Adventures egy helyi turisztikai látványosság Los Cabos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.908354,
+                        22.879406
+                  ]
+            },
+            {
+                  "name": "Cabo Dolphins",
+                  "text": "A Cabo Dolphins egy állatokkal kapcsolatos látványosság Los Cabos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.910709,
+                        22.878699
+                  ]
+            },
+            {
+                  "name": "Solmar Resorts",
+                  "text": "A Solmar Resorts egy tengerparti üdülőhely, amely szállást kínál Los Cabos városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.904923,
+                        22.876429
+                  ]
+            },
+            {
+                  "name": "Casa Dorada Los Cabos Resort & Spa",
+                  "text": "A Casa Dorada Los Cabos Resort & Spa egy szálloda Los Cabos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.904918,
+                        22.888005
+                  ]
+            },
+            {
+                  "name": "Meliá Cabo San Lucas",
+                  "text": "A Meliá Cabo San Lucas egy szálloda Los Cabos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.903988,
+                        22.888925
+                  ]
+            },
+            {
+                  "name": "Terrasol Beach Resort",
+                  "text": "A Terrasol Beach Resort egy szálloda, amely szállást kínál Los Cabos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.906729,
+                        22.876078
+                  ]
+            },
+            {
+                  "name": "Marina Fiesta Resort & Spa",
+                  "text": "A Marina Fiesta Resort & Spa egy szálloda Los Cabos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.908274,
+                        22.885405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Historia Natural de Cabo San Lucas",
+                  "text": "Museum of Natural History in Cabo San Lucas este o instituție din Los Cabos dedicată istoriei naturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -109.91468,
+                        22.882915
+                  ]
+            },
+            {
+                  "name": "El Arch of Cabo San Lucas",
+                  "text": "El Arch of Cabo San Lucas este o formațiune stâncoasă naturală distinctivă și o atracție situată la extremitatea sudică din Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.894563,
+                        22.876024
+                  ]
+            },
+            {
+                  "name": "#CABO",
+                  "text": "Semnul #CABO este o atracție turistică populară și un loc de fotografiere situat în Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.909374,
+                        22.886497
+                  ]
+            },
+            {
+                  "name": "Monumento a la madre",
+                  "text": "Monumento a la madre este un monument comemorativ situat în Los Cabos.",
+                  "category": "historical",
+                  "coords": [
+                        -109.919624,
+                        22.896204
+                  ]
+            },
+            {
+                  "name": "Cabo Adventures",
+                  "text": "Cabo Adventures este o atracție turistică locală situată în Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.908354,
+                        22.879406
+                  ]
+            },
+            {
+                  "name": "Cabo Dolphins",
+                  "text": "Cabo Dolphins este o atracție cu animale situată în Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.910709,
+                        22.878699
+                  ]
+            },
+            {
+                  "name": "Solmar Resorts",
+                  "text": "Solmar Resorts este o stațiune balneară care oferă cazare în Los Cabos.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.904923,
+                        22.876429
+                  ]
+            },
+            {
+                  "name": "Casa Dorada Los Cabos Resort & Spa",
+                  "text": "Casa Dorada Los Cabos Resort & Spa este un hotel situat în Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.904918,
+                        22.888005
+                  ]
+            },
+            {
+                  "name": "Meliá Cabo San Lucas",
+                  "text": "Meliá Cabo San Lucas este un hotel situat în orașul Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.903988,
+                        22.888925
+                  ]
+            },
+            {
+                  "name": "Terrasol Beach Resort",
+                  "text": "Terrasol Beach Resort este un hotel care oferă cazare în Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.906729,
+                        22.876078
+                  ]
+            },
+            {
+                  "name": "Marina Fiesta Resort & Spa",
+                  "text": "Marina Fiesta Resort & Spa este un hotel situat în Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.908274,
+                        22.885405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Natural History in Cabo San Lucas",
+                  "text": "The Museum of Natural History in Cabo San Lucas is an institution in Los Cabos dedicated to the region's natural history.",
+                  "category": "museum",
+                  "coords": [
+                        -109.91468,
+                        22.882915
+                  ]
+            },
+            {
+                  "name": "El Arch of Cabo San Lucas",
+                  "text": "El Arch of Cabo San Lucas is a distinctive natural rock formation and attraction at the southern tip of Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.894563,
+                        22.876024
+                  ]
+            },
+            {
+                  "name": "#CABO sign",
+                  "text": "The #CABO sign is a popular tourist attraction and photo spot situated in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.909374,
+                        22.886497
+                  ]
+            },
+            {
+                  "name": "Monumento a la madre",
+                  "text": "Monumento a la madre is a commemorative monument located in Los Cabos.",
+                  "category": "historical",
+                  "coords": [
+                        -109.919624,
+                        22.896204
+                  ]
+            },
+            {
+                  "name": "Cabo Adventures",
+                  "text": "Cabo Adventures is a local tourist attraction located in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.908354,
+                        22.879406
+                  ]
+            },
+            {
+                  "name": "Cabo Dolphins",
+                  "text": "Cabo Dolphins is an animal-focused attraction situated in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.910709,
+                        22.878699
+                  ]
+            },
+            {
+                  "name": "Solmar Resorts",
+                  "text": "Solmar Resorts is a beach resort offering accommodations in Los Cabos.",
+                  "category": "recreational",
+                  "coords": [
+                        -109.904923,
+                        22.876429
+                  ]
+            },
+            {
+                  "name": "Casa Dorada Los Cabos Resort & Spa",
+                  "text": "Casa Dorada Los Cabos Resort & Spa is a hotel located in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.904918,
+                        22.888005
+                  ]
+            },
+            {
+                  "name": "Meliá Cabo San Lucas",
+                  "text": "Meliá Cabo San Lucas is a hotel situated in the city of Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.903988,
+                        22.888925
+                  ]
+            },
+            {
+                  "name": "Terrasol Beach Resort",
+                  "text": "Terrasol Beach Resort is a hotel offering lodging in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.906729,
+                        22.876078
+                  ]
+            },
+            {
+                  "name": "Marina Fiesta Resort & Spa",
+                  "text": "Marina Fiesta Resort & Spa is a hotel accommodation located in Los Cabos.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.908274,
+                        22.885405
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-BCS",
     coords: [-109.9167, 22.8905],
@@ -1380,7 +15303,268 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["La mer de Cortez a été décrite par Jacques Cousteau comme 'l'aquarium du monde'.", "El Arco marque le point de rencontre exact entre l'océan Pacifique et le golfe de Californie.", "Une destination mondiale de premier plan pour la pêche sportive, en particulier le marlin."],
     }, image: "/poi-images/los-cabos-cities-v2.webp"},
   {
-    id: "cuautla-cities-v2",
+    id: "cuautla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "BALNEARIO AGUA HEDIONDA",
+                  "text": "Ein bekannter Thermal-Wasserpark in Cuautla.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.930083,
+                        18.815649
+                  ]
+            },
+            {
+                  "name": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                  "text": "Ein Museum in Cuautla, das dem historischen Erbe gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -98.955432,
+                        18.812023
+                  ]
+            },
+            {
+                  "name": "AGUA LINDA",
+                  "text": "Ein Wasserpark in Cuautla.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.949707,
+                        18.807089
+                  ]
+            },
+            {
+                  "name": "Museo vivencia ferrocarril 279",
+                  "text": "Ein Museum über die Eisenbahngeschichte in Cuautla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.954205,
+                        18.816943
+                  ]
+            },
+            {
+                  "name": "Monumento a la Bandera",
+                  "text": "Ein Denkmal für die Flagge in Cuautla.",
+                  "category": "historical",
+                  "coords": [
+                        -98.952914,
+                        18.81896
+                  ]
+            },
+            {
+                  "name": "Balneario Los limones",
+                  "text": "Ein Strandbad in Cuautla.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.9485,
+                        18.814232
+                  ]
+            },
+            {
+                  "name": "Ex Hacienda Coauixtla",
+                  "text": "Historische Ruinen einer Hacienda in Cuautla.",
+                  "category": "historical",
+                  "coords": [
+                        -98.966015,
+                        18.792484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BALNEARIO AGUA HEDIONDA",
+                  "text": "Ismert termál-élményfürdő Cuautla városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.930083,
+                        18.815649
+                  ]
+            },
+            {
+                  "name": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                  "text": "Cuautla városi múzeum, amely a történelmi örökségnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -98.955432,
+                        18.812023
+                  ]
+            },
+            {
+                  "name": "AGUA LINDA",
+                  "text": "Élményfürdő Cuautla városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.949707,
+                        18.807089
+                  ]
+            },
+            {
+                  "name": "Museo vivencia ferrocarril 279",
+                  "text": "Vasúttörténeti múzeum Cuautla városában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.954205,
+                        18.816943
+                  ]
+            },
+            {
+                  "name": "Monumento a la Bandera",
+                  "text": "Zászlóemlékmű Cuautla városában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.952914,
+                        18.81896
+                  ]
+            },
+            {
+                  "name": "Balneario Los limones",
+                  "text": "Strandfürdő Cuautla városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.9485,
+                        18.814232
+                  ]
+            },
+            {
+                  "name": "Ex Hacienda Coauixtla",
+                  "text": "Egy hacienda történelmi romjai Cuautla közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -98.966015,
+                        18.792484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BALNEARIO AGUA HEDIONDA",
+                  "text": "Un parc acvatic termal cunoscut în Cuautla.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.930083,
+                        18.815649
+                  ]
+            },
+            {
+                  "name": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                  "text": "Un muzeu în Cuautla dedicat moștenirii istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -98.955432,
+                        18.812023
+                  ]
+            },
+            {
+                  "name": "AGUA LINDA",
+                  "text": "Un parc acvatic în Cuautla.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.949707,
+                        18.807089
+                  ]
+            },
+            {
+                  "name": "Museo vivencia ferrocarril 279",
+                  "text": "Un muzeu despre istoria căilor ferate în Cuautla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.954205,
+                        18.816943
+                  ]
+            },
+            {
+                  "name": "Monumento a la Bandera",
+                  "text": "Un monument al steagului în Cuautla.",
+                  "category": "historical",
+                  "coords": [
+                        -98.952914,
+                        18.81896
+                  ]
+            },
+            {
+                  "name": "Balneario Los limones",
+                  "text": "O stațiune de plajă în Cuautla.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.9485,
+                        18.814232
+                  ]
+            },
+            {
+                  "name": "Ex Hacienda Coauixtla",
+                  "text": "Ruinele istorice ale unei haciende în Cuautla.",
+                  "category": "historical",
+                  "coords": [
+                        -98.966015,
+                        18.792484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BALNEARIO AGUA HEDIONDA",
+                  "text": "A well-known thermal water park in Cuautla.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.930083,
+                        18.815649
+                  ]
+            },
+            {
+                  "name": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+                  "text": "A museum in Cuautla dedicated to historical heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -98.955432,
+                        18.812023
+                  ]
+            },
+            {
+                  "name": "AGUA LINDA",
+                  "text": "A water park in Cuautla.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.949707,
+                        18.807089
+                  ]
+            },
+            {
+                  "name": "Museo vivencia ferrocarril 279",
+                  "text": "A museum about railway history in Cuautla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.954205,
+                        18.816943
+                  ]
+            },
+            {
+                  "name": "Monumento a la Bandera",
+                  "text": "A monument to the flag in Cuautla.",
+                  "category": "historical",
+                  "coords": [
+                        -98.952914,
+                        18.81896
+                  ]
+            },
+            {
+                  "name": "Balneario Los limones",
+                  "text": "A beach resort in Cuautla.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.9485,
+                        18.814232
+                  ]
+            },
+            {
+                  "name": "Ex Hacienda Coauixtla",
+                  "text": "Historical ruins of a hacienda in Cuautla.",
+                  "category": "historical",
+                  "coords": [
+                        -98.966015,
+                        18.792484
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-MOR",
     coords: [-98.9567, 18.8094],
@@ -1434,7 +15618,160 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["C'était un centre important de la civilisation Chalca à l'époque précolombienne.", "Située au pied des célèbres volcans Popocatépetl et Iztaccíhuatl.", "L'historique monastère franciscain du XVIe siècle fait partie des principales attractions."],
     }, image: "/poi-images/chalco-cities-v2.webp"},
   {
-    id: "apizaco-cities-v2",
+    id: "apizaco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de Piedra",
+                  "text": "Casa de Piedra ist ein lokales Museum in Apizaco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.135928,
+                        19.418281
+                  ]
+            },
+            {
+                  "name": "La Cienega",
+                  "text": "La Cienega ist ein Naturschutzgebiet in Apizaco.",
+                  "category": "natural",
+                  "coords": [
+                        -98.127405,
+                        19.411996
+                  ]
+            },
+            {
+                  "name": "Centro de las Artes Tlaxcala",
+                  "text": "Das Centro de las Artes Tlaxcala ist ein Kunstzentrum in Apizaco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.116428,
+                        19.423605
+                  ]
+            },
+            {
+                  "name": "Basílica de Nuestra Señora de la Misericordia",
+                  "text": "Die Basílica de Nuestra Señora de la Misericordia ist eine katholische Basilica minor und eine Kultstätte in Apizaco.",
+                  "category": "religious",
+                  "coords": [
+                        -98.140957,
+                        19.415964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de Piedra",
+                  "text": "A Casa de Piedra egy helyi múzeum Apizaco városában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.135928,
+                        19.418281
+                  ]
+            },
+            {
+                  "name": "La Cienega",
+                  "text": "A La Cienega egy természetvédelmi terület Apizaco városában.",
+                  "category": "natural",
+                  "coords": [
+                        -98.127405,
+                        19.411996
+                  ]
+            },
+            {
+                  "name": "Centro de las Artes Tlaxcala",
+                  "text": "A Centro de las Artes Tlaxcala egy művészeti központ Apizaco városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.116428,
+                        19.423605
+                  ]
+            },
+            {
+                  "name": "Basílica de Nuestra Señora de la Misericordia",
+                  "text": "A Basílica de Nuestra Señora de la Misericordia egy katolikus kisbazilika és istentiszteleti hely Apizaco városában.",
+                  "category": "religious",
+                  "coords": [
+                        -98.140957,
+                        19.415964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de Piedra",
+                  "text": "Casa de Piedra este un muzeu local situat în Apizaco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.135928,
+                        19.418281
+                  ]
+            },
+            {
+                  "name": "La Cienega",
+                  "text": "La Cienega este o rezervație naturală situată în Apizaco.",
+                  "category": "natural",
+                  "coords": [
+                        -98.127405,
+                        19.411996
+                  ]
+            },
+            {
+                  "name": "Centro de las Artes Tlaxcala",
+                  "text": "Centro de las Artes Tlaxcala este un centru de artă situat în Apizaco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.116428,
+                        19.423605
+                  ]
+            },
+            {
+                  "name": "Basílica de Nuestra Señora de la Misericordia",
+                  "text": "Basílica de Nuestra Señora de la Misericordia este o basilică minoră catolică și un lăcaș de cult din Apizaco.",
+                  "category": "religious",
+                  "coords": [
+                        -98.140957,
+                        19.415964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de Piedra",
+                  "text": "Casa de Piedra is a local museum situated in Apizaco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.135928,
+                        19.418281
+                  ]
+            },
+            {
+                  "name": "La Cienega",
+                  "text": "La Cienega is a nature reserve located in Apizaco.",
+                  "category": "natural",
+                  "coords": [
+                        -98.127405,
+                        19.411996
+                  ]
+            },
+            {
+                  "name": "Centro de las Artes Tlaxcala",
+                  "text": "The Centro de las Artes Tlaxcala is an arts centre situated in Apizaco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.116428,
+                        19.423605
+                  ]
+            },
+            {
+                  "name": "Basílica de Nuestra Señora de la Misericordia",
+                  "text": "The Basílica de Nuestra Señora de la Misericordia is a Catholic minor basilica and a place of worship in Apizaco.",
+                  "category": "religious",
+                  "coords": [
+                        -98.140957,
+                        19.415964
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-TLA",
     coords: [-98.1408, 19.4142],
@@ -1461,7 +15798,268 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Fondée en 1866 en tant que nœud ferroviaire.", "La Basílica de la Virgen de la Misericordia est connue pour son architecture gothique remarquable.", "Célèbre pour ses sculptures sur bois filigranées et son artisanat traditionnel, souvent connu sous le nom de 'Bastoneros'."],
     }, image: "/poi-images/apizaco-cities-v2.webp"},
   {
-    id: "nogales-cities-v2",
+    id: "nogales-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Primeria Alta History Museum",
+                  "text": "Ein Geschichtsmuseum in Nogales.",
+                  "category": "museum",
+                  "coords": [
+                        -110.940816,
+                        31.33496
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Nogales",
+                  "text": "Ein Kunstmuseum in Nogales.",
+                  "category": "museum",
+                  "coords": [
+                        -110.944426,
+                        31.330525
+                  ]
+            },
+            {
+                  "name": "Padre Kino Statue",
+                  "text": "Ein Denkmal für Padre Kino in Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.92823,
+                        31.350527
+                  ]
+            },
+            {
+                  "name": "Santa Cruz County Honor Roll",
+                  "text": "Ein Denkmal in Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.931226,
+                        31.345929
+                  ]
+            },
+            {
+                  "name": "Nogalitos",
+                  "text": "Ein Denkmal in Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.926069,
+                        31.349315
+                  ]
+            },
+            {
+                  "name": "Monumento a la Ignoracia (MonoBichi)",
+                  "text": "Ein Denkmal in Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.941743,
+                        31.306494
+                  ]
+            },
+            {
+                  "name": "Infoculta",
+                  "text": "Ein Kunstzentrum in Nogales.",
+                  "category": "cultural",
+                  "coords": [
+                        -110.94045,
+                        31.307175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Primeria Alta History Museum",
+                  "text": "Történeti múzeum Nogales városában.",
+                  "category": "museum",
+                  "coords": [
+                        -110.940816,
+                        31.33496
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Nogales",
+                  "text": "Művészeti múzeum Nogales városában.",
+                  "category": "museum",
+                  "coords": [
+                        -110.944426,
+                        31.330525
+                  ]
+            },
+            {
+                  "name": "Padre Kino Statue",
+                  "text": "Padre Kino emlékműve Nogalesben.",
+                  "category": "historical",
+                  "coords": [
+                        -110.92823,
+                        31.350527
+                  ]
+            },
+            {
+                  "name": "Santa Cruz County Honor Roll",
+                  "text": "Emlékmű Nogalesben.",
+                  "category": "historical",
+                  "coords": [
+                        -110.931226,
+                        31.345929
+                  ]
+            },
+            {
+                  "name": "Nogalitos",
+                  "text": "Emlékmű Nogalesben.",
+                  "category": "historical",
+                  "coords": [
+                        -110.926069,
+                        31.349315
+                  ]
+            },
+            {
+                  "name": "Monumento a la Ignoracia (MonoBichi)",
+                  "text": "Emlékmű Nogalesben.",
+                  "category": "historical",
+                  "coords": [
+                        -110.941743,
+                        31.306494
+                  ]
+            },
+            {
+                  "name": "Infoculta",
+                  "text": "Művészeti központ Nogalesben.",
+                  "category": "cultural",
+                  "coords": [
+                        -110.94045,
+                        31.307175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Primeria Alta History Museum",
+                  "text": "Un muzeu de istorie în Nogales.",
+                  "category": "museum",
+                  "coords": [
+                        -110.940816,
+                        31.33496
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Nogales",
+                  "text": "Un muzeu de artă în Nogales.",
+                  "category": "museum",
+                  "coords": [
+                        -110.944426,
+                        31.330525
+                  ]
+            },
+            {
+                  "name": "Padre Kino Statue",
+                  "text": "Un monument al lui Padre Kino în Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.92823,
+                        31.350527
+                  ]
+            },
+            {
+                  "name": "Santa Cruz County Honor Roll",
+                  "text": "Un monument în Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.931226,
+                        31.345929
+                  ]
+            },
+            {
+                  "name": "Nogalitos",
+                  "text": "Un monument în Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.926069,
+                        31.349315
+                  ]
+            },
+            {
+                  "name": "Monumento a la Ignoracia (MonoBichi)",
+                  "text": "Un monument în Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.941743,
+                        31.306494
+                  ]
+            },
+            {
+                  "name": "Infoculta",
+                  "text": "Un centru de artă în Nogales.",
+                  "category": "cultural",
+                  "coords": [
+                        -110.94045,
+                        31.307175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Primeria Alta History Museum",
+                  "text": "A history museum in Nogales.",
+                  "category": "museum",
+                  "coords": [
+                        -110.940816,
+                        31.33496
+                  ]
+            },
+            {
+                  "name": "Nogales Museum of Art",
+                  "text": "An art museum in Nogales.",
+                  "category": "museum",
+                  "coords": [
+                        -110.944426,
+                        31.330525
+                  ]
+            },
+            {
+                  "name": "Padre Kino Statue",
+                  "text": "A monument to Padre Kino in Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.92823,
+                        31.350527
+                  ]
+            },
+            {
+                  "name": "Santa Cruz County Honor Roll",
+                  "text": "A monument in Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.931226,
+                        31.345929
+                  ]
+            },
+            {
+                  "name": "Nogalitos",
+                  "text": "A monument in Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.926069,
+                        31.349315
+                  ]
+            },
+            {
+                  "name": "Monumento a la Ignoracia (MonoBichi)",
+                  "text": "A monument in Nogales.",
+                  "category": "historical",
+                  "coords": [
+                        -110.941743,
+                        31.306494
+                  ]
+            },
+            {
+                  "name": "Infoculta",
+                  "text": "An arts centre in Nogales.",
+                  "category": "cultural",
+                  "coords": [
+                        -110.94045,
+                        31.307175
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-SON",
     coords: [-110.9453, 31.3283],
@@ -1488,7 +16086,556 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Partage une frontière directe et des relations économiques profondes avec Nogales, en Arizona.", "A obtenu le titre de « Heroica » en raison de sa défense contre les troupes américaines en 1918.", "Important site de production pour les entreprises internationales d'électronique et d'automobile."],
     }, image: "/poi-images/nogales-cities-v2.webp"},
   {
-    id: "tezcoco-cities-v2",
+    id: "tezcoco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Nacional de agricultura",
+                  "text": "Museo Nacional de agricultura ist ein Museum in der Stadt Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.888951,
+                        19.492311
+                  ]
+            },
+            {
+                  "name": "Templo Mayor de Texcoco",
+                  "text": "Templo Mayor de Texcoco ist eine archäologische Stätte in der Stadt Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.881447,
+                        19.510851
+                  ]
+            },
+            {
+                  "name": "Embarcadero de Texcoco",
+                  "text": "Embarcadero de Texcoco ist eine archäologische Stätte in der Stadt Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.90561,
+                        19.511837
+                  ]
+            },
+            {
+                  "name": "La Casa del Constituyente",
+                  "text": "La Casa del Constituyente ist ein Museum in der Stadt Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.879792,
+                        19.513735
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Tierra",
+                  "text": "Museo Casa de la Tierra ist ein Museum in der Stadt Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.878505,
+                        19.512454
+                  ]
+            },
+            {
+                  "name": "Plaza de toros Silverio Perez",
+                  "text": "Plaza de toros Silverio Perez ist ein Theater oder Veranstaltungsort in der Stadt Texcoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.890186,
+                        19.534392
+                  ]
+            },
+            {
+                  "name": "Auditorio Álvaro Carrillo",
+                  "text": "Auditorio Álvaro Carrillo ist ein Theater oder Veranstaltungsort in der Stadt Texcoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.889829,
+                        19.490552
+                  ]
+            },
+            {
+                  "name": "Partenon",
+                  "text": "Partenon ist ein Museum in der Stadt Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.890925,
+                        19.491613
+                  ]
+            },
+            {
+                  "name": "Auditorio Emiliano Zapata",
+                  "text": "Auditorio Emiliano Zapata ist ein Theater oder Veranstaltungsort in der Stadt Texcoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.885437,
+                        19.490708
+                  ]
+            },
+            {
+                  "name": "Zona arquelogica de Zillan",
+                  "text": "Zona arquelogica de Zillan ist eine archäologische Stätte in der Stadt Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.870503,
+                        19.513724
+                  ]
+            },
+            {
+                  "name": "Monumento a Juárez",
+                  "text": "Monumento a Juárez ist ein Denkmal in der Stadt Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.88035,
+                        19.509639
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Hidalgo",
+                  "text": "Monumento a Miguel Hidalgo ist ein Denkmal in der Stadt Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.880606,
+                        19.50617
+                  ]
+            },
+            {
+                  "name": "El Sembrador",
+                  "text": "El Sembrador ist ein Denkmal in der Stadt Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.88712,
+                        19.494738
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Los Melones",
+                  "text": "Zona Arqueológica de Los Melones ist eine historische Ruine in der Stadt Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.881784,
+                        19.509396
+                  ]
+            },
+            {
+                  "name": "Patio de Honor",
+                  "text": "Patio de Honor ist ein Denkmal in der Stadt Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.891096,
+                        19.492568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Nacional de agricultura",
+                  "text": "A Museo Nacional de agricultura egy múzeum Texcoco városában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.888951,
+                        19.492311
+                  ]
+            },
+            {
+                  "name": "Templo Mayor de Texcoco",
+                  "text": "A Templo Mayor de Texcoco egy régészeti lelőhely Texcoco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.881447,
+                        19.510851
+                  ]
+            },
+            {
+                  "name": "Embarcadero de Texcoco",
+                  "text": "A Embarcadero de Texcoco egy régészeti lelőhely Texcoco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.90561,
+                        19.511837
+                  ]
+            },
+            {
+                  "name": "La Casa del Constituyente",
+                  "text": "A La Casa del Constituyente egy múzeum Texcoco városában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.879792,
+                        19.513735
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Tierra",
+                  "text": "A Museo Casa de la Tierra egy múzeum Texcoco városában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.878505,
+                        19.512454
+                  ]
+            },
+            {
+                  "name": "Plaza de toros Silverio Perez",
+                  "text": "A Plaza de toros Silverio Perez egy színház vagy rendezvényhelyszín Texcoco városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.890186,
+                        19.534392
+                  ]
+            },
+            {
+                  "name": "Auditorio Álvaro Carrillo",
+                  "text": "A Auditorio Álvaro Carrillo egy színház vagy rendezvényhelyszín Texcoco városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.889829,
+                        19.490552
+                  ]
+            },
+            {
+                  "name": "Partenon",
+                  "text": "A Partenon egy múzeum Texcoco városában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.890925,
+                        19.491613
+                  ]
+            },
+            {
+                  "name": "Auditorio Emiliano Zapata",
+                  "text": "A Auditorio Emiliano Zapata egy színház vagy rendezvényhelyszín Texcoco városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.885437,
+                        19.490708
+                  ]
+            },
+            {
+                  "name": "Zona arquelogica de Zillan",
+                  "text": "A Zona arquelogica de Zillan egy régészeti lelőhely Texcoco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.870503,
+                        19.513724
+                  ]
+            },
+            {
+                  "name": "Monumento a Juárez",
+                  "text": "A Monumento a Juárez egy emlékmű Texcoco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.88035,
+                        19.509639
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Hidalgo",
+                  "text": "A Monumento a Miguel Hidalgo egy emlékmű Texcoco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.880606,
+                        19.50617
+                  ]
+            },
+            {
+                  "name": "El Sembrador",
+                  "text": "Az El Sembrador egy emlékmű Texcoco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.88712,
+                        19.494738
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Los Melones",
+                  "text": "A Zona Arqueológica de Los Melones egy történelmi romterület Texcoco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.881784,
+                        19.509396
+                  ]
+            },
+            {
+                  "name": "Patio de Honor",
+                  "text": "A Patio de Honor egy emlékmű Texcoco városában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.891096,
+                        19.492568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Nacional de agricultura",
+                  "text": "Museo Nacional de agricultura este un muzeu situat în orașul Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.888951,
+                        19.492311
+                  ]
+            },
+            {
+                  "name": "Templo Mayor de Texcoco",
+                  "text": "Templo Mayor de Texcoco este un sit arheologic situat în orașul Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.881447,
+                        19.510851
+                  ]
+            },
+            {
+                  "name": "Embarcadero de Texcoco",
+                  "text": "Embarcadero de Texcoco este un sit arheologic situat în orașul Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.90561,
+                        19.511837
+                  ]
+            },
+            {
+                  "name": "La Casa del Constituyente",
+                  "text": "La Casa del Constituyente este un muzeu situat în orașul Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.879792,
+                        19.513735
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Tierra",
+                  "text": "Museo Casa de la Tierra este un muzeu situat în orașul Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.878505,
+                        19.512454
+                  ]
+            },
+            {
+                  "name": "Plaza de toros Silverio Perez",
+                  "text": "Plaza de toros Silverio Perez este un teatru sau un loc de desfășurare situat în orașul Texcoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.890186,
+                        19.534392
+                  ]
+            },
+            {
+                  "name": "Auditorio Álvaro Carrillo",
+                  "text": "Auditorio Álvaro Carrillo este un teatru sau un loc de desfășurare situat în orașul Texcoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.889829,
+                        19.490552
+                  ]
+            },
+            {
+                  "name": "Partenon",
+                  "text": "Partenon este un muzeu situat în orașul Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.890925,
+                        19.491613
+                  ]
+            },
+            {
+                  "name": "Auditorio Emiliano Zapata",
+                  "text": "Auditorio Emiliano Zapata este un teatru sau un loc de desfășurare situat în orașul Texcoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.885437,
+                        19.490708
+                  ]
+            },
+            {
+                  "name": "Zona arquelogica de Zillan",
+                  "text": "Zona arquelogica de Zillan este un sit arheologic situat în orașul Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.870503,
+                        19.513724
+                  ]
+            },
+            {
+                  "name": "Monumento a Juárez",
+                  "text": "Monumento a Juárez este un monument situat în orașul Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.88035,
+                        19.509639
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Hidalgo",
+                  "text": "Monumento a Miguel Hidalgo este un monument situat în orașul Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.880606,
+                        19.50617
+                  ]
+            },
+            {
+                  "name": "El Sembrador",
+                  "text": "El Sembrador este un monument situat în orașul Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.88712,
+                        19.494738
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Los Melones",
+                  "text": "Zona Arqueológica de Los Melones este o ruină istorică situată în orașul Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.881784,
+                        19.509396
+                  ]
+            },
+            {
+                  "name": "Patio de Honor",
+                  "text": "Patio de Honor este un monument situat în orașul Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.891096,
+                        19.492568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Nacional de agricultura",
+                  "text": "Museo Nacional de agricultura is a museum located in the city of Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.888951,
+                        19.492311
+                  ]
+            },
+            {
+                  "name": "Templo Mayor de Texcoco",
+                  "text": "Templo Mayor de Texcoco is an archaeological site located in the city of Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.881447,
+                        19.510851
+                  ]
+            },
+            {
+                  "name": "Embarcadero de Texcoco",
+                  "text": "Embarcadero de Texcoco is an archaeological site located in the city of Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.90561,
+                        19.511837
+                  ]
+            },
+            {
+                  "name": "La Casa del Constituyente",
+                  "text": "La Casa del Constituyente is a museum located in the city of Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.879792,
+                        19.513735
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Tierra",
+                  "text": "Museo Casa de la Tierra is a museum located in the city of Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.878505,
+                        19.512454
+                  ]
+            },
+            {
+                  "name": "Plaza de toros Silverio Perez",
+                  "text": "Plaza de toros Silverio Perez is a theatre or event venue located in the city of Texcoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.890186,
+                        19.534392
+                  ]
+            },
+            {
+                  "name": "Auditorio Álvaro Carrillo",
+                  "text": "Auditorio Álvaro Carrillo is a theatre or event venue located in the city of Texcoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.889829,
+                        19.490552
+                  ]
+            },
+            {
+                  "name": "Partenon",
+                  "text": "Partenon is a museum located in the city of Texcoco.",
+                  "category": "museum",
+                  "coords": [
+                        -98.890925,
+                        19.491613
+                  ]
+            },
+            {
+                  "name": "Auditorio Emiliano Zapata",
+                  "text": "Auditorio Emiliano Zapata is a theatre or event venue located in the city of Texcoco.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.885437,
+                        19.490708
+                  ]
+            },
+            {
+                  "name": "Zona arquelogica de Zillan",
+                  "text": "Zona arquelogica de Zillan is an archaeological site located in the city of Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.870503,
+                        19.513724
+                  ]
+            },
+            {
+                  "name": "Monumento a Juárez",
+                  "text": "Monumento a Juárez is a monument located in the city of Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.88035,
+                        19.509639
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Hidalgo",
+                  "text": "Monumento a Miguel Hidalgo is a monument located in the city of Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.880606,
+                        19.50617
+                  ]
+            },
+            {
+                  "name": "El Sembrador",
+                  "text": "El Sembrador is a monument located in the city of Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.88712,
+                        19.494738
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Los Melones",
+                  "text": "Zona Arqueológica de Los Melones is a historic ruin site located in the city of Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.881784,
+                        19.509396
+                  ]
+            },
+            {
+                  "name": "Patio de Honor",
+                  "text": "Patio de Honor is a monument located in the city of Texcoco.",
+                  "category": "historical",
+                  "coords": [
+                        -98.891096,
+                        19.492568
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-MEX",
     coords: [-98.8833, 19.5167],
@@ -1563,7 +16710,232 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       en: ["Processes more than 3 million containers (TEUs) annually at its port.", "The 'Sailfish' sculpture in the main square is 25 meters tall.", "Manzanillo Bay and Santiago Bay together offer 15+ beaches.", "The port was founded in 1522 by Spanish explorers.", "Average annual temperature is a tropical 26 degrees Celsius.", "Home to the Isla Navidad golf course, rated one of the best in Mexico.", "Deep-sea fishing here can yield sailfish weighing over 45 kilograms.", "The city is only a 1.5-hour drive from the state capital, Colima."]
     }, image: "/poi-images/manzanillo-cities-v2.webp"},
   {
-    id: "cordoba-ver-cities-v2",
+    id: "cordoba-ver-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Café",
+                  "text": "Ein Kaffeemuseum in Córdoba.",
+                  "category": "museum",
+                  "coords": [
+                        -96.935123,
+                        18.893514
+                  ]
+            },
+            {
+                  "name": "Pedro Díaz",
+                  "text": "Ein Theater in Córdoba.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.935324,
+                        18.894754
+                  ]
+            },
+            {
+                  "name": "Auditorio Manuel Suárez",
+                  "text": "Ein Theater in Córdoba.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.949569,
+                        18.898852
+                  ]
+            },
+            {
+                  "name": "Albercas Las Obleas",
+                  "text": "Ein Wasserpark in Córdoba.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.942577,
+                        18.918091
+                  ]
+            },
+            {
+                  "name": "Alberca Atlántida",
+                  "text": "Ein Strandbad in Córdoba.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.954008,
+                        18.906697
+                  ]
+            },
+            {
+                  "name": "Catedral de la Inmaculada Concepción",
+                  "text": "Die bedeutende Kathedrale von Córdoba.",
+                  "category": "religious",
+                  "coords": [
+                        -96.934072,
+                        18.89333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Café",
+                  "text": "Kávémúzeum Córdoba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -96.935123,
+                        18.893514
+                  ]
+            },
+            {
+                  "name": "Pedro Díaz",
+                  "text": "Színház Córdoba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.935324,
+                        18.894754
+                  ]
+            },
+            {
+                  "name": "Auditorio Manuel Suárez",
+                  "text": "Színház Córdoba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.949569,
+                        18.898852
+                  ]
+            },
+            {
+                  "name": "Albercas Las Obleas",
+                  "text": "Élményfürdő Córdoba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.942577,
+                        18.918091
+                  ]
+            },
+            {
+                  "name": "Alberca Atlántida",
+                  "text": "Strandfürdő Córdoba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.954008,
+                        18.906697
+                  ]
+            },
+            {
+                  "name": "Catedral de la Inmaculada Concepción",
+                  "text": "Córdoba jelentős katedrálisa.",
+                  "category": "religious",
+                  "coords": [
+                        -96.934072,
+                        18.89333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Café",
+                  "text": "Un muzeu al cafelei în Córdoba.",
+                  "category": "museum",
+                  "coords": [
+                        -96.935123,
+                        18.893514
+                  ]
+            },
+            {
+                  "name": "Pedro Díaz",
+                  "text": "Un teatru în Córdoba.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.935324,
+                        18.894754
+                  ]
+            },
+            {
+                  "name": "Auditorio Manuel Suárez",
+                  "text": "Un teatru în Córdoba.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.949569,
+                        18.898852
+                  ]
+            },
+            {
+                  "name": "Albercas Las Obleas",
+                  "text": "Un parc acvatic în Córdoba.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.942577,
+                        18.918091
+                  ]
+            },
+            {
+                  "name": "Alberca Atlántida",
+                  "text": "O stațiune de plajă în Córdoba.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.954008,
+                        18.906697
+                  ]
+            },
+            {
+                  "name": "Catedral de la Inmaculada Concepción",
+                  "text": "Catedrala importantă din Córdoba.",
+                  "category": "religious",
+                  "coords": [
+                        -96.934072,
+                        18.89333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Café",
+                  "text": "A coffee museum in Córdoba.",
+                  "category": "museum",
+                  "coords": [
+                        -96.935123,
+                        18.893514
+                  ]
+            },
+            {
+                  "name": "Pedro Díaz",
+                  "text": "A theatre in Córdoba.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.935324,
+                        18.894754
+                  ]
+            },
+            {
+                  "name": "Auditorio Manuel Suárez",
+                  "text": "A theatre in Córdoba.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.949569,
+                        18.898852
+                  ]
+            },
+            {
+                  "name": "Albercas Las Obleas",
+                  "text": "A water park in Córdoba.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.942577,
+                        18.918091
+                  ]
+            },
+            {
+                  "name": "Alberca Atlántida",
+                  "text": "A beach resort in Córdoba.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.954008,
+                        18.906697
+                  ]
+            },
+            {
+                  "name": "Catedral de la Inmaculada Concepción",
+                  "text": "The significant cathedral of Córdoba.",
+                  "category": "religious",
+                  "coords": [
+                        -96.934072,
+                        18.89333
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-VER",
     coords: [-96.9350, 18.8939],
@@ -1590,7 +16962,376 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["C'est ici qu'ont été signés en 1821 les traités reconnaissant l'indépendance du Mexique vis-à-vis de l'Espagne.", "Entourée de certaines des meilleures régions productrices de café du Mexique.", "Fondée en 1618 par 30 familles, elle est aussi appelée la 'Ville des trente chevaliers'."],
     }, image: "/poi-images/cordoba-ver-cities-v2.webp"},
   {
-    id: "ciudad-del-carmen-cities-v2",
+    id: "ciudad-del-carmen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoologico",
+                  "text": "Zoologico ist ein Zoo oder Tierpark in der Stadt Ciudad del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.838901,
+                        18.65883
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "Museo ist ein Museum in der Stadt Ciudad del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -91.839066,
+                        18.642552
+                  ]
+            },
+            {
+                  "name": "Centro cultural de la UNACAR",
+                  "text": "Centro cultural de la UNACAR ist ein Theater oder Veranstaltungsort in der Stadt Ciudad del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.834604,
+                        18.638586
+                  ]
+            },
+            {
+                  "name": "Muelle Laguna Azul",
+                  "text": "Muelle Laguna Azul ist ein Zoo oder Tierpark in der Stadt Ciudad del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.840676,
+                        18.658074
+                  ]
+            },
+            {
+                  "name": "Glorieta Luis Donaldo Colosio",
+                  "text": "Glorieta Luis Donaldo Colosio ist ein Denkmal in der Stadt Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.824882,
+                        18.63147
+                  ]
+            },
+            {
+                  "name": "Monumentos Los Marinos",
+                  "text": "Monumentos Los Marinos ist ein Denkmal in der Stadt Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.832553,
+                        18.661239
+                  ]
+            },
+            {
+                  "name": "Glorieta el Canon",
+                  "text": "Glorieta el Canon ist ein Denkmal in der Stadt Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.831095,
+                        18.658515
+                  ]
+            },
+            {
+                  "name": "Playa Manigua",
+                  "text": "Playa Manigua ist eine Sehenswürdigkeit in der Stadt Ciudad del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.819653,
+                        18.629029
+                  ]
+            },
+            {
+                  "name": "El Barquito",
+                  "text": "El Barquito ist ein Denkmal in der Stadt Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.834269,
+                        18.634366
+                  ]
+            },
+            {
+                  "name": "Letras CARMEN",
+                  "text": "Letras CARMEN ist eine Sehenswürdigkeit in der Stadt Ciudad del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.837077,
+                        18.637198
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoologico",
+                  "text": "A Zoologico egy állatkert vagy vadaspark Ciudad del Carmen városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.838901,
+                        18.65883
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "A Museo egy múzeum Ciudad del Carmen városában.",
+                  "category": "museum",
+                  "coords": [
+                        -91.839066,
+                        18.642552
+                  ]
+            },
+            {
+                  "name": "Centro cultural de la UNACAR",
+                  "text": "A Centro cultural de la UNACAR egy színház vagy rendezvényhelyszín Ciudad del Carmen városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.834604,
+                        18.638586
+                  ]
+            },
+            {
+                  "name": "Muelle Laguna Azul",
+                  "text": "A Muelle Laguna Azul egy állatkert vagy vadaspark Ciudad del Carmen városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.840676,
+                        18.658074
+                  ]
+            },
+            {
+                  "name": "Glorieta Luis Donaldo Colosio",
+                  "text": "A Glorieta Luis Donaldo Colosio egy emlékmű Ciudad del Carmen városában.",
+                  "category": "historical",
+                  "coords": [
+                        -91.824882,
+                        18.63147
+                  ]
+            },
+            {
+                  "name": "Monumentos Los Marinos",
+                  "text": "A Monumentos Los Marinos egy emlékmű Ciudad del Carmen városában.",
+                  "category": "historical",
+                  "coords": [
+                        -91.832553,
+                        18.661239
+                  ]
+            },
+            {
+                  "name": "Glorieta el Canon",
+                  "text": "A Glorieta el Canon egy emlékmű Ciudad del Carmen városában.",
+                  "category": "historical",
+                  "coords": [
+                        -91.831095,
+                        18.658515
+                  ]
+            },
+            {
+                  "name": "Playa Manigua",
+                  "text": "A Playa Manigua egy turisztikai látványosság Ciudad del Carmen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.819653,
+                        18.629029
+                  ]
+            },
+            {
+                  "name": "El Barquito",
+                  "text": "Az El Barquito egy emlékmű Ciudad del Carmen városában.",
+                  "category": "historical",
+                  "coords": [
+                        -91.834269,
+                        18.634366
+                  ]
+            },
+            {
+                  "name": "Letras CARMEN",
+                  "text": "A Letras CARMEN egy turisztikai látványosság Ciudad del Carmen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.837077,
+                        18.637198
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoologico",
+                  "text": "Zoologico este o grădină zoologică sau un parc de animale situat în orașul Ciudad del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.838901,
+                        18.65883
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "Museo este un muzeu situat în orașul Ciudad del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -91.839066,
+                        18.642552
+                  ]
+            },
+            {
+                  "name": "Centro cultural de la UNACAR",
+                  "text": "Centro cultural de la UNACAR este un teatru sau un loc de desfășurare situat în orașul Ciudad del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.834604,
+                        18.638586
+                  ]
+            },
+            {
+                  "name": "Muelle Laguna Azul",
+                  "text": "Muelle Laguna Azul este o grădină zoologică sau un parc de animale situat în orașul Ciudad del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.840676,
+                        18.658074
+                  ]
+            },
+            {
+                  "name": "Glorieta Luis Donaldo Colosio",
+                  "text": "Glorieta Luis Donaldo Colosio este un monument situat în orașul Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.824882,
+                        18.63147
+                  ]
+            },
+            {
+                  "name": "Monumentos Los Marinos",
+                  "text": "Monumentos Los Marinos este un monument situat în orașul Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.832553,
+                        18.661239
+                  ]
+            },
+            {
+                  "name": "Glorieta el Canon",
+                  "text": "Glorieta el Canon este un monument situat în orașul Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.831095,
+                        18.658515
+                  ]
+            },
+            {
+                  "name": "Playa Manigua",
+                  "text": "Playa Manigua este o atracție turistică situată în orașul Ciudad del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.819653,
+                        18.629029
+                  ]
+            },
+            {
+                  "name": "El Barquito",
+                  "text": "El Barquito este un monument situat în orașul Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.834269,
+                        18.634366
+                  ]
+            },
+            {
+                  "name": "Letras CARMEN",
+                  "text": "Letras CARMEN este o atracție turistică situată în orașul Ciudad del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.837077,
+                        18.637198
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoologico",
+                  "text": "Zoologico is a zoo or animal park located in the city of Ciudad del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.838901,
+                        18.65883
+                  ]
+            },
+            {
+                  "name": "Museo",
+                  "text": "Museo is a museum located in the city of Ciudad del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -91.839066,
+                        18.642552
+                  ]
+            },
+            {
+                  "name": "Centro cultural de la UNACAR",
+                  "text": "Centro cultural de la UNACAR is a theatre or event venue located in the city of Ciudad del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.834604,
+                        18.638586
+                  ]
+            },
+            {
+                  "name": "Muelle Laguna Azul",
+                  "text": "Muelle Laguna Azul is a zoo or animal park located in the city of Ciudad del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.840676,
+                        18.658074
+                  ]
+            },
+            {
+                  "name": "Glorieta Luis Donaldo Colosio",
+                  "text": "Glorieta Luis Donaldo Colosio is a monument located in the city of Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.824882,
+                        18.63147
+                  ]
+            },
+            {
+                  "name": "Monumentos Los Marinos",
+                  "text": "Monumentos Los Marinos is a monument located in the city of Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.832553,
+                        18.661239
+                  ]
+            },
+            {
+                  "name": "Glorieta el Canon",
+                  "text": "Glorieta el Canon is a monument located in the city of Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.831095,
+                        18.658515
+                  ]
+            },
+            {
+                  "name": "Playa Manigua",
+                  "text": "Playa Manigua is a tourist attraction located in the city of Ciudad del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.819653,
+                        18.629029
+                  ]
+            },
+            {
+                  "name": "El Barquito",
+                  "text": "El Barquito is a monument located in the city of Ciudad del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -91.834269,
+                        18.634366
+                  ]
+            },
+            {
+                  "name": "Letras CARMEN",
+                  "text": "Letras CARMEN is a tourist attraction located in the city of Ciudad del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.837077,
+                        18.637198
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-CAM",
     coords: [-91.8317, 18.6369],
@@ -1617,7 +17358,808 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Centre de l'industrie pétrolière offshore du Mexique grâce au complexe voisin de Cantarell.", "La lagune de Términos est un écosystème protégé majeur, regorgeant d'animaux sauvages.", "Historiquement, l'île a servi de base aux pirates aux XVIIe et XVIIIe siècles."],
     }, image: "/poi-images/ciudad-del-carmen-cities-v2.webp"},
   {
-    id: "san-miguel-de-allende-cities-v2",
+    id: "san-miguel-de-allende-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Casa de Allende",
+                  "text": "Das Museo Casa de Allende ist ein Museum in San Miguel de Allende, das im ehemaligen Haus von Ignacio Allende untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744236,
+                        20.913827
+                  ]
+            },
+            {
+                  "name": "Museo de sitio",
+                  "text": "Museo de sitio ist ein lokales Museum in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.738883,
+                        20.920954
+                  ]
+            },
+            {
+                  "name": "Museo la Esquina",
+                  "text": "Museo la Esquina ist ein Museum in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.740138,
+                        20.914695
+                  ]
+            },
+            {
+                  "name": "Teatro Sana Ana",
+                  "text": "Teatro Sana Ana ist ein Theater in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.74313,
+                        20.916752
+                  ]
+            },
+            {
+                  "name": "casa cuesta mascaras",
+                  "text": "Casa cuesta mascaras ist ein Museum in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.738183,
+                        20.916893
+                  ]
+            },
+            {
+                  "name": "Teatro Angela Peralta",
+                  "text": "Das Teatro Angela Peralta ist ein örtliches Theater in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.745125,
+                        20.915358
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "Foro ist ein Theater in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.735178,
+                        20.916576
+                  ]
+            },
+            {
+                  "name": "Foro San Miguel",
+                  "text": "Foro San Miguel ist ein Theaterraum in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.715002,
+                        20.909649
+                  ]
+            },
+            {
+                  "name": "漂亮的转角",
+                  "text": "Beautiful Street Corner ist eine Touristenattraktion in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.743838,
+                        20.912708
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "La Aurora ist eine Kunstgalerie in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.74039,
+                        20.923241
+                  ]
+            },
+            {
+                  "name": "Antiguo Acueducto",
+                  "text": "Antiguo Acueducto ist ein historisches Denkmal in San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.73745,
+                        20.922888
+                  ]
+            },
+            {
+                  "name": "Charco del Ingenio",
+                  "text": "Charco del Ingenio ist eine lokale Attraktion in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.727746,
+                        20.918477
+                  ]
+            },
+            {
+                  "name": "Ted Davis Galeria",
+                  "text": "Ted Davis Galeria ist eine Kunstgalerie in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746441,
+                        20.911281
+                  ]
+            },
+            {
+                  "name": "Conservatorio de Plantas Mexicanas",
+                  "text": "Das Conservatorio de Plantas Mexicanas ist eine botanische Attraktion in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.723695,
+                        20.917614
+                  ]
+            },
+            {
+                  "name": "Sienna Galeria",
+                  "text": "Sienna Galeria ist eine Kunstgalerie in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746487,
+                        20.913938
+                  ]
+            },
+            {
+                  "name": "Galeria Ascender",
+                  "text": "Die Galeria Ascender ist eine Galerie in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744243,
+                        20.919042
+                  ]
+            },
+            {
+                  "name": "Juan Zaragoza Gallery",
+                  "text": "Die Juan Zaragoza Gallery ist ein Kunstraum in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742198,
+                        20.921467
+                  ]
+            },
+            {
+                  "name": "Capella",
+                  "text": "Capella ist ein Monumentalbauwerk in San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.736086,
+                        20.915643
+                  ]
+            },
+            {
+                  "name": "Arco de San Miguel",
+                  "text": "Arco de San Miguel ist eine Sehenswürdigkeit in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.73603,
+                        20.913631
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Mirador ist ein malerischer Aussichtspunkt in San Miguel de Allende.",
+                  "category": "natural",
+                  "coords": [
+                        -100.73802,
+                        20.907818
+                  ]
+            },
+            {
+                  "name": "Danyel Joy Art",
+                  "text": "Danyel Joy Art ist eine Kunstgalerie in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.748161,
+                        20.90678
+                  ]
+            },
+            {
+                  "name": "Bag Colorin",
+                  "text": "Bag Colorin ist eine Galerie in der Stadt San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742366,
+                        20.918079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Casa de Allende",
+                  "text": "A Museo Casa de Allende egy múzeum San Miguel de Allende városában, amely Ignacio Allende egykori otthonában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744236,
+                        20.913827
+                  ]
+            },
+            {
+                  "name": "Museo de sitio",
+                  "text": "A Museo de sitio egy helyi múzeum San Miguel de Allende városában.",
+                  "category": "museum",
+                  "coords": [
+                        -100.738883,
+                        20.920954
+                  ]
+            },
+            {
+                  "name": "Museo la Esquina",
+                  "text": "A Museo la Esquina egy múzeum San Miguel de Allende városában.",
+                  "category": "museum",
+                  "coords": [
+                        -100.740138,
+                        20.914695
+                  ]
+            },
+            {
+                  "name": "Teatro Sana Ana",
+                  "text": "A Teatro Sana Ana egy színház San Miguel de Allende városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.74313,
+                        20.916752
+                  ]
+            },
+            {
+                  "name": "casa cuesta mascaras",
+                  "text": "A casa cuesta mascaras egy múzeum San Miguel de Allende városában.",
+                  "category": "museum",
+                  "coords": [
+                        -100.738183,
+                        20.916893
+                  ]
+            },
+            {
+                  "name": "Teatro Angela Peralta",
+                  "text": "A Teatro Angela Peralta egy helyi színház San Miguel de Allende-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.745125,
+                        20.915358
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "A Foro egy színház San Miguel de Allende városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.735178,
+                        20.916576
+                  ]
+            },
+            {
+                  "name": "Foro San Miguel",
+                  "text": "A Foro San Miguel egy színházi tér San Miguel de Allende városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.715002,
+                        20.909649
+                  ]
+            },
+            {
+                  "name": "漂亮的转角",
+                  "text": "A Beautiful Street Corner egy turisztikai látványosság San Miguel de Allende-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.743838,
+                        20.912708
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "A La Aurora egy művészeti galéria San Miguel de Allende városában.",
+                  "category": "museum",
+                  "coords": [
+                        -100.74039,
+                        20.923241
+                  ]
+            },
+            {
+                  "name": "Antiguo Acueducto",
+                  "text": "Az Antiguo Acueducto egy történelmi emlékmű San Miguel de Allende-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -100.73745,
+                        20.922888
+                  ]
+            },
+            {
+                  "name": "Charco del Ingenio",
+                  "text": "A Charco del Ingenio egy helyi látványosság San Miguel de Allende városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.727746,
+                        20.918477
+                  ]
+            },
+            {
+                  "name": "Ted Davis Galeria",
+                  "text": "A Ted Davis Galeria egy művészeti galéria San Miguel de Allende-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746441,
+                        20.911281
+                  ]
+            },
+            {
+                  "name": "Conservatorio de Plantas Mexicanas",
+                  "text": "A Conservatorio de Plantas Mexicanas egy botanikai látványosság San Miguel de Allende városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.723695,
+                        20.917614
+                  ]
+            },
+            {
+                  "name": "Sienna Galeria",
+                  "text": "A Sienna Galeria egy művészeti galéria San Miguel de Allende városában.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746487,
+                        20.913938
+                  ]
+            },
+            {
+                  "name": "Galeria Ascender",
+                  "text": "A Galeria Ascender egy galéria San Miguel de Allende-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744243,
+                        20.919042
+                  ]
+            },
+            {
+                  "name": "Juan Zaragoza Gallery",
+                  "text": "A Juan Zaragoza Gallery egy művészeti tér San Miguel de Allende városában.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742198,
+                        20.921467
+                  ]
+            },
+            {
+                  "name": "Capella",
+                  "text": "A Capella egy műemlék építmény San Miguel de Allende-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -100.736086,
+                        20.915643
+                  ]
+            },
+            {
+                  "name": "Arco de San Miguel",
+                  "text": "Az Arco de San Miguel egy látványosság San Miguel de Allende városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.73603,
+                        20.913631
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A Mirador egy festői kilátó San Miguel de Allende-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -100.73802,
+                        20.907818
+                  ]
+            },
+            {
+                  "name": "Danyel Joy Art",
+                  "text": "A Danyel Joy Art egy művészeti galéria San Miguel de Allende-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -100.748161,
+                        20.90678
+                  ]
+            },
+            {
+                  "name": "Bag Colorin",
+                  "text": "A Bag Colorin egy galéria San Miguel de Allende városában.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742366,
+                        20.918079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Casa de Allende",
+                  "text": "Museo Casa de Allende este un muzeu din San Miguel de Allende, găzduit în fosta casă a lui Ignacio Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744236,
+                        20.913827
+                  ]
+            },
+            {
+                  "name": "Museo de sitio",
+                  "text": "Museo de sitio este un muzeu local situat în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.738883,
+                        20.920954
+                  ]
+            },
+            {
+                  "name": "Museo la Esquina",
+                  "text": "Museo la Esquina este un muzeu situat în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.740138,
+                        20.914695
+                  ]
+            },
+            {
+                  "name": "Teatro Sana Ana",
+                  "text": "Teatro Sana Ana este un teatru situat în San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.74313,
+                        20.916752
+                  ]
+            },
+            {
+                  "name": "casa cuesta mascaras",
+                  "text": "Casa cuesta mascaras este un muzeu situat în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.738183,
+                        20.916893
+                  ]
+            },
+            {
+                  "name": "Teatro Angela Peralta",
+                  "text": "Teatro Angela Peralta este un teatru local din San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.745125,
+                        20.915358
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "Foro este un teatru situat în San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.735178,
+                        20.916576
+                  ]
+            },
+            {
+                  "name": "Foro San Miguel",
+                  "text": "Foro San Miguel este un spațiu teatral din San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.715002,
+                        20.909649
+                  ]
+            },
+            {
+                  "name": "漂亮的转角",
+                  "text": "Beautiful Street Corner este o atracție turistică din San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.743838,
+                        20.912708
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "La Aurora este o galerie de artă situată în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.74039,
+                        20.923241
+                  ]
+            },
+            {
+                  "name": "Antiguo Acueducto",
+                  "text": "Antiguo Acueducto este un monument istoric din San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.73745,
+                        20.922888
+                  ]
+            },
+            {
+                  "name": "Charco del Ingenio",
+                  "text": "Charco del Ingenio este o atracție locală situată în San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.727746,
+                        20.918477
+                  ]
+            },
+            {
+                  "name": "Ted Davis Galeria",
+                  "text": "Ted Davis Galeria este o galerie de artă în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746441,
+                        20.911281
+                  ]
+            },
+            {
+                  "name": "Conservatorio de Plantas Mexicanas",
+                  "text": "Conservatorio de Plantas Mexicanas este o atracție botanică din San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.723695,
+                        20.917614
+                  ]
+            },
+            {
+                  "name": "Sienna Galeria",
+                  "text": "Sienna Galeria este o galerie de artă situată în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746487,
+                        20.913938
+                  ]
+            },
+            {
+                  "name": "Galeria Ascender",
+                  "text": "Galeria Ascender este o galerie aflată în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744243,
+                        20.919042
+                  ]
+            },
+            {
+                  "name": "Juan Zaragoza Gallery",
+                  "text": "Juan Zaragoza Gallery este un spațiu de artă situat în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742198,
+                        20.921467
+                  ]
+            },
+            {
+                  "name": "Capella",
+                  "text": "Capella este o structură monumentală situată în San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.736086,
+                        20.915643
+                  ]
+            },
+            {
+                  "name": "Arco de San Miguel",
+                  "text": "Arco de San Miguel este o atracție de vizitat în San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.73603,
+                        20.913631
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Mirador este un punct de belvedere panoramic în San Miguel de Allende.",
+                  "category": "natural",
+                  "coords": [
+                        -100.73802,
+                        20.907818
+                  ]
+            },
+            {
+                  "name": "Danyel Joy Art",
+                  "text": "Danyel Joy Art este o galerie de artă în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.748161,
+                        20.90678
+                  ]
+            },
+            {
+                  "name": "Bag Colorin",
+                  "text": "Bag Colorin este o galerie situată în orașul San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742366,
+                        20.918079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Casa de Allende",
+                  "text": "The Museo Casa de Allende is a museum in San Miguel de Allende, housed in the former home of Ignacio Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744236,
+                        20.913827
+                  ]
+            },
+            {
+                  "name": "Museo de sitio",
+                  "text": "Museo de sitio is a local museum located in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.738883,
+                        20.920954
+                  ]
+            },
+            {
+                  "name": "Museo la Esquina",
+                  "text": "Museo la Esquina is a museum located in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.740138,
+                        20.914695
+                  ]
+            },
+            {
+                  "name": "Teatro Sana Ana",
+                  "text": "Teatro Sana Ana is a theatre located in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.74313,
+                        20.916752
+                  ]
+            },
+            {
+                  "name": "casa cuesta mascaras",
+                  "text": "Casa cuesta mascaras is a museum located in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.738183,
+                        20.916893
+                  ]
+            },
+            {
+                  "name": "Teatro Angela Peralta",
+                  "text": "Teatro Angela Peralta is a local theatre in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.745125,
+                        20.915358
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "Foro is a theatre located in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.735178,
+                        20.916576
+                  ]
+            },
+            {
+                  "name": "Foro San Miguel",
+                  "text": "Foro San Miguel is a theatre space in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.715002,
+                        20.909649
+                  ]
+            },
+            {
+                  "name": "Beautiful Street Corner",
+                  "text": "Beautiful Street Corner is a tourist attraction in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.743838,
+                        20.912708
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "La Aurora is an art gallery located in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.74039,
+                        20.923241
+                  ]
+            },
+            {
+                  "name": "Antiguo Acueducto",
+                  "text": "Antiguo Acueducto is a historical monument in San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.73745,
+                        20.922888
+                  ]
+            },
+            {
+                  "name": "Charco del Ingenio",
+                  "text": "Charco del Ingenio is a local attraction situated in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.727746,
+                        20.918477
+                  ]
+            },
+            {
+                  "name": "Ted Davis Galeria",
+                  "text": "Ted Davis Galeria is an art gallery in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746441,
+                        20.911281
+                  ]
+            },
+            {
+                  "name": "Conservatorio de Plantas Mexicanas",
+                  "text": "The Conservatorio de Plantas Mexicanas is a botanical attraction in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.723695,
+                        20.917614
+                  ]
+            },
+            {
+                  "name": "Sienna Galeria",
+                  "text": "Sienna Galeria is an art gallery located in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746487,
+                        20.913938
+                  ]
+            },
+            {
+                  "name": "Galeria Ascender",
+                  "text": "Galeria Ascender is a gallery found in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744243,
+                        20.919042
+                  ]
+            },
+            {
+                  "name": "Juan Zaragoza Gallery",
+                  "text": "Juan Zaragoza Gallery is an art space located in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742198,
+                        20.921467
+                  ]
+            },
+            {
+                  "name": "Capella",
+                  "text": "Capella is a monumental structure located in San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.736086,
+                        20.915643
+                  ]
+            },
+            {
+                  "name": "Arco de San Miguel",
+                  "text": "Arco de San Miguel is an attraction to visit in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.73603,
+                        20.913631
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Mirador is a scenic viewpoint in San Miguel de Allende.",
+                  "category": "natural",
+                  "coords": [
+                        -100.73802,
+                        20.907818
+                  ]
+            },
+            {
+                  "name": "Danyel Joy Art",
+                  "text": "Danyel Joy Art is an art gallery in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.748161,
+                        20.90678
+                  ]
+            },
+            {
+                  "name": "Bag Colorin",
+                  "text": "Bag Colorin is a gallery located in the city of San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742366,
+                        20.918079
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-GUA",
     coords: [-100.7436, 20.9142],
@@ -1644,7 +18186,196 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Elle fait partie du patrimoine mondial de l'UNESCO et est régulièrement élue parmi les villes les plus agréables à vivre au monde.", "La célèbre Parroquia a été conçue par un tailleur de pierre indigène s'inspirant de cartes postales européennes.", "Elle joue un rôle central dans l'histoire de l'indépendance mexicaine et porte le nom d'Ignacio Allende."],
     }, image: "/poi-images/san-miguel-de-allende-cities-v2.webp"},
   {
-    id: "taxco-cities-v2",
+    id: "taxco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de arte virreinal",
+                  "text": "Ein Museum für Vizekönig-Kunst in Taxco.",
+                  "category": "museum",
+                  "coords": [
+                        -99.604229,
+                        18.556848
+                  ]
+            },
+            {
+                  "name": "Casa Borda",
+                  "text": "Ein Kunstzentrum in Taxco.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.605201,
+                        18.556834
+                  ]
+            },
+            {
+                  "name": "Cristo Taxqueña",
+                  "text": "Eine monumentale Christusstatue in Taxco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.609676,
+                        18.560731
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein Aussichtspunkt in Taxco.",
+                  "category": "natural",
+                  "coords": [
+                        -99.585259,
+                        18.566055
+                  ]
+            },
+            {
+                  "name": "Monumento al Minero",
+                  "text": "Ein Denkmal für die Bergleute in Taxco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.601406,
+                        18.560766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de arte virreinal",
+                  "text": "Alkirályi művészeti múzeum Taxcóban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.604229,
+                        18.556848
+                  ]
+            },
+            {
+                  "name": "Casa Borda",
+                  "text": "Művészeti központ Taxcóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.605201,
+                        18.556834
+                  ]
+            },
+            {
+                  "name": "Cristo Taxqueña",
+                  "text": "Monumentális Krisztus-szobor Taxcóban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.609676,
+                        18.560731
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Kilátópont Taxcóban.",
+                  "category": "natural",
+                  "coords": [
+                        -99.585259,
+                        18.566055
+                  ]
+            },
+            {
+                  "name": "Monumento al Minero",
+                  "text": "Bányászok emlékműve Taxcóban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.601406,
+                        18.560766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de arte virreinal",
+                  "text": "Un muzeu de artă viceregală în Taxco.",
+                  "category": "museum",
+                  "coords": [
+                        -99.604229,
+                        18.556848
+                  ]
+            },
+            {
+                  "name": "Casa Borda",
+                  "text": "Un centru de artă în Taxco.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.605201,
+                        18.556834
+                  ]
+            },
+            {
+                  "name": "Cristo Taxqueña",
+                  "text": "O statuie monumentală a lui Hristos în Taxco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.609676,
+                        18.560731
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere în Taxco.",
+                  "category": "natural",
+                  "coords": [
+                        -99.585259,
+                        18.566055
+                  ]
+            },
+            {
+                  "name": "Monumento al Minero",
+                  "text": "Un monument al minerilor în Taxco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.601406,
+                        18.560766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de arte virreinal",
+                  "text": "A museum of viceregal art in Taxco.",
+                  "category": "museum",
+                  "coords": [
+                        -99.604229,
+                        18.556848
+                  ]
+            },
+            {
+                  "name": "Casa Borda",
+                  "text": "An arts centre in Taxco.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.605201,
+                        18.556834
+                  ]
+            },
+            {
+                  "name": "Cristo Taxqueña",
+                  "text": "A monumental statue of Christ in Taxco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.609676,
+                        18.560731
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A viewpoint in Taxco.",
+                  "category": "natural",
+                  "coords": [
+                        -99.585259,
+                        18.566055
+                  ]
+            },
+            {
+                  "name": "Monumento al Minero",
+                  "text": "A monument to the miners in Taxco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.601406,
+                        18.560766
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-GRO",
     coords: [-99.6050, 18.5564],
@@ -1671,7 +18402,1096 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Le centre de l'orfèvrerie d'argent mexicaine depuis le XVIe siècle.", "L'église Santa Prisca a été construite dans les années 1750 et est considérée comme un chef-d'œuvre baroque.", "En raison des ruelles raides et étroites, les VW Coccinelle blanches sont toujours le modèle de taxi préféré ici."],
     }, image: "/poi-images/taxco-cities-v2.webp"},
   {
-    id: "orizaba-cities-v2",
+    id: "orizaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palacio de Hierro",
+                  "text": "Palacio de Hierro ist ein markantes Gebäude in der Stadt Orizaba. Es ist bekannt dafür, dass es vom Ingenieur Gustave Eiffel entworfen wurde.",
+                  "category": "castle",
+                  "coords": [
+                        -97.105951,
+                        18.849744
+                  ]
+            },
+            {
+                  "name": "Piedra De Xipe",
+                  "text": "Piedra De Xipe ist eine archäologische Stätte in der Stadt Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.08379,
+                        18.852451
+                  ]
+            },
+            {
+                  "name": "Museo Memoria Histórica de Orizaba",
+                  "text": "Museo Memoria Histórica de Orizaba ist ein Museum in der Stadt Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.101167,
+                        18.847805
+                  ]
+            },
+            {
+                  "name": "Salón de la Fama",
+                  "text": "Salón de la Fama ist ein Museum in der Stadt Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.107616,
+                        18.847084
+                  ]
+            },
+            {
+                  "name": "Plaza de Toros \"La Concordia\"",
+                  "text": "Plaza de Toros \"La Concordia\" ist ein Theater oder Veranstaltungsort in der Stadt Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.087329,
+                        18.854854
+                  ]
+            },
+            {
+                  "name": "Polifórum Mier y Pesado",
+                  "text": "Polifórum Mier y Pesado ist ein Museum in der Stadt Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.089172,
+                        18.848324
+                  ]
+            },
+            {
+                  "name": "Teatro Ignacio de la Llave",
+                  "text": "Teatro Ignacio de la Llave ist ein Theater oder Veranstaltungsort in der Stadt Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.10471,
+                        18.848376
+                  ]
+            },
+            {
+                  "name": "Auditorio Metropolitano",
+                  "text": "Auditorio Metropolitano ist ein Theater oder Veranstaltungsort in der Stadt Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.111305,
+                        18.841633
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+                  "text": "Casa de Cultura del Instituto Tecnológico de Orizaba ist ein Theater oder Veranstaltungsort in der Stadt Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.100582,
+                        18.848755
+                  ]
+            },
+            {
+                  "name": "Museo de la Hotelería Mexicana",
+                  "text": "Museo de la Hotelería Mexicana ist ein Museum in der Stadt Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.098654,
+                        18.847743
+                  ]
+            },
+            {
+                  "name": "Casa Vegas",
+                  "text": "Casa Vegas ist ein Theater oder Veranstaltungsort in der Stadt Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.085674,
+                        18.857452
+                  ]
+            },
+            {
+                  "name": "Reserva Animal Leones",
+                  "text": "Reserva Animal Leones ist ein Zoo oder Tierpark in der Stadt Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.109987,
+                        18.850555
+                  ]
+            },
+            {
+                  "name": "Moons (pass del Rio y reserva animal)",
+                  "text": "Monkeys (pass del Rio y reserva animal) ist ein Zoo oder Tierpark in der Stadt Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.107594,
+                        18.846042
+                  ]
+            },
+            {
+                  "name": "Reserva Animal Jaguares",
+                  "text": "Leopard (pass del Rio y reserva animal) ist ein Tierpark in Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.110497,
+                        18.852558
+                  ]
+            },
+            {
+                  "name": "Tobogán de la Montaña",
+                  "text": "Tobogán de la Montaña ist ein Freizeitpark in Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.084223,
+                        18.859223
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Metlac Río Blanco",
+                  "text": "Reserva Ecológica Metlac Río Blanco ist ein Naturschutzgebiet in Orizaba.",
+                  "category": "natural",
+                  "coords": [
+                        -96.977688,
+                        18.84614
+                  ]
+            },
+            {
+                  "name": "Arcos de Orizaba",
+                  "text": "Arcos de Orizaba ist ein Denkmal in Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.116225,
+                        18.839376
+                  ]
+            },
+            {
+                  "name": "(pass del Rio y reserva animal)",
+                  "text": "Camel (pass del Rio y reserva animal) ist eine Sehenswürdigkeit in Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.114596,
+                        18.859014
+                  ]
+            },
+            {
+                  "name": "Mirador del Expo Parque",
+                  "text": "Mirador del Expo Parque ist ein Aussichtspunkt in Orizaba.",
+                  "category": "natural",
+                  "coords": [
+                        -97.087906,
+                        18.857507
+                  ]
+            },
+            {
+                  "name": "Renacimiento",
+                  "text": "Renacimiento ist ein Denkmal in Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.107703,
+                        18.863154
+                  ]
+            },
+            {
+                  "name": "La Ixhuateca",
+                  "text": "La Ixhuateca ist ein Denkmal in Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.113733,
+                        18.869211
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Mirador ist ein Aussichtspunkt in Orizaba.",
+                  "category": "natural",
+                  "coords": [
+                        -97.114652,
+                        18.845087
+                  ]
+            },
+            {
+                  "name": "Tirolesa",
+                  "text": "Zipline ist eine Sehenswürdigkeit in Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.116854,
+                        18.845977
+                  ]
+            },
+            {
+                  "name": "Canopy",
+                  "text": "Canopy ist eine Sehenswürdigkeit in Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.111923,
+                        18.845803
+                  ]
+            },
+            {
+                  "name": "Chiringuitos",
+                  "text": "Chiringuitos ist eine Sehenswürdigkeit in Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.110357,
+                        18.846088
+                  ]
+            },
+            {
+                  "name": "Paseo del Río",
+                  "text": "Paseo del Río ist eine Sehenswürdigkeit in Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.102763,
+                        18.843492
+                  ]
+            },
+            {
+                  "name": "Instituto Regional de Bellas Artes de Orizaba",
+                  "text": "Instituto Regional de Bellas Artes de Orizaba ist ein Kunstzentrum in Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.109059,
+                        18.846471
+                  ]
+            },
+            {
+                  "name": "Auditorio IVC",
+                  "text": "Auditorio IVC ist ein Kunstzentrum in Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.090045,
+                        18.850091
+                  ]
+            },
+            {
+                  "name": "Boeing 727-200 \"El Cuatro Vientos\"",
+                  "text": "Boeing 727-200 \"El Cuatro Vientos\" ist eine Galerie in Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.113271,
+                        18.867572
+                  ]
+            },
+            {
+                  "name": "Foro Niebla",
+                  "text": "Foro Niebla ist eine Galerie in Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.099065,
+                        18.843829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palacio de Hierro",
+                  "text": "A Palacio de Hierro egy figyelemre méltó épület Orizaba városában. Úgy ismert, mint amelyet Gustave Eiffel mérnök tervezett.",
+                  "category": "castle",
+                  "coords": [
+                        -97.105951,
+                        18.849744
+                  ]
+            },
+            {
+                  "name": "Piedra De Xipe",
+                  "text": "A Piedra De Xipe egy régészeti lelőhely Orizaba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -97.08379,
+                        18.852451
+                  ]
+            },
+            {
+                  "name": "Museo Memoria Histórica de Orizaba",
+                  "text": "A Museo Memoria Histórica de Orizaba egy múzeum Orizaba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -97.101167,
+                        18.847805
+                  ]
+            },
+            {
+                  "name": "Salón de la Fama",
+                  "text": "A Salón de la Fama egy múzeum Orizaba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -97.107616,
+                        18.847084
+                  ]
+            },
+            {
+                  "name": "Plaza de Toros \"La Concordia\"",
+                  "text": "A Plaza de Toros \"La Concordia\" egy színház vagy rendezvényhelyszín Orizaba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.087329,
+                        18.854854
+                  ]
+            },
+            {
+                  "name": "Polifórum Mier y Pesado",
+                  "text": "A Polifórum Mier y Pesado egy múzeum Orizaba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -97.089172,
+                        18.848324
+                  ]
+            },
+            {
+                  "name": "Teatro Ignacio de la Llave",
+                  "text": "A Teatro Ignacio de la Llave egy színház vagy rendezvényhelyszín Orizaba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.10471,
+                        18.848376
+                  ]
+            },
+            {
+                  "name": "Auditorio Metropolitano",
+                  "text": "A Auditorio Metropolitano egy színház vagy rendezvényhelyszín Orizaba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.111305,
+                        18.841633
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+                  "text": "A Casa de Cultura del Instituto Tecnológico de Orizaba egy színház vagy rendezvényhelyszín Orizaba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.100582,
+                        18.848755
+                  ]
+            },
+            {
+                  "name": "Museo de la Hotelería Mexicana",
+                  "text": "A Museo de la Hotelería Mexicana egy múzeum Orizaba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -97.098654,
+                        18.847743
+                  ]
+            },
+            {
+                  "name": "Casa Vegas",
+                  "text": "A Casa Vegas egy színház vagy rendezvényhelyszín Orizaba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.085674,
+                        18.857452
+                  ]
+            },
+            {
+                  "name": "Reserva Animal Leones",
+                  "text": "A Reserva Animal Leones egy állatkert vagy vadaspark Orizaba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.109987,
+                        18.850555
+                  ]
+            },
+            {
+                  "name": "Moons (pass del Rio y reserva animal)",
+                  "text": "A Monkeys (pass del Rio y reserva animal) egy állatkert vagy vadaspark Orizaba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.107594,
+                        18.846042
+                  ]
+            },
+            {
+                  "name": "Reserva Animal Jaguares",
+                  "text": "A(z) Leopard (pass del Rio y reserva animal) egy állatkert Orizaba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.110497,
+                        18.852558
+                  ]
+            },
+            {
+                  "name": "Tobogán de la Montaña",
+                  "text": "A(z) Tobogán de la Montaña egy vidámpark Orizaba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.084223,
+                        18.859223
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Metlac Río Blanco",
+                  "text": "A(z) Reserva Ecológica Metlac Río Blanco egy természetvédelmi terület Orizaba városában.",
+                  "category": "natural",
+                  "coords": [
+                        -96.977688,
+                        18.84614
+                  ]
+            },
+            {
+                  "name": "Arcos de Orizaba",
+                  "text": "A(z) Arcos de Orizaba egy emlékmű Orizaba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -97.116225,
+                        18.839376
+                  ]
+            },
+            {
+                  "name": "(pass del Rio y reserva animal)",
+                  "text": "A(z) Camel (pass del Rio y reserva animal) egy látványosság Orizaba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.114596,
+                        18.859014
+                  ]
+            },
+            {
+                  "name": "Mirador del Expo Parque",
+                  "text": "A(z) Mirador del Expo Parque egy kilátó Orizaba városában.",
+                  "category": "natural",
+                  "coords": [
+                        -97.087906,
+                        18.857507
+                  ]
+            },
+            {
+                  "name": "Renacimiento",
+                  "text": "A(z) Renacimiento egy emlékmű Orizaba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -97.107703,
+                        18.863154
+                  ]
+            },
+            {
+                  "name": "La Ixhuateca",
+                  "text": "A(z) La Ixhuateca egy emlékmű Orizaba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -97.113733,
+                        18.869211
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A(z) Mirador egy kilátó Orizaba városában.",
+                  "category": "natural",
+                  "coords": [
+                        -97.114652,
+                        18.845087
+                  ]
+            },
+            {
+                  "name": "Tirolesa",
+                  "text": "A(z) Zipline egy látványosság Orizaba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.116854,
+                        18.845977
+                  ]
+            },
+            {
+                  "name": "Canopy",
+                  "text": "A(z) Canopy egy látványosság Orizaba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.111923,
+                        18.845803
+                  ]
+            },
+            {
+                  "name": "Chiringuitos",
+                  "text": "A(z) Chiringuitos egy látványosság Orizaba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.110357,
+                        18.846088
+                  ]
+            },
+            {
+                  "name": "Paseo del Río",
+                  "text": "A(z) Paseo del Río egy látványosság Orizaba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.102763,
+                        18.843492
+                  ]
+            },
+            {
+                  "name": "Instituto Regional de Bellas Artes de Orizaba",
+                  "text": "A(z) Instituto Regional de Bellas Artes de Orizaba egy művészeti központ Orizaba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.109059,
+                        18.846471
+                  ]
+            },
+            {
+                  "name": "Auditorio IVC",
+                  "text": "A(z) Auditorio IVC egy művészeti központ Orizaba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.090045,
+                        18.850091
+                  ]
+            },
+            {
+                  "name": "Boeing 727-200 \"El Cuatro Vientos\"",
+                  "text": "A(z) Boeing 727-200 \"El Cuatro Vientos\" egy galéria Orizaba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -97.113271,
+                        18.867572
+                  ]
+            },
+            {
+                  "name": "Foro Niebla",
+                  "text": "A(z) Foro Niebla egy galéria Orizaba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -97.099065,
+                        18.843829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palacio de Hierro",
+                  "text": "Palacio de Hierro este o clădire notabilă în orașul Orizaba. Este cunoscută pentru faptul că a fost proiectată de inginerul Gustave Eiffel.",
+                  "category": "castle",
+                  "coords": [
+                        -97.105951,
+                        18.849744
+                  ]
+            },
+            {
+                  "name": "Piedra De Xipe",
+                  "text": "Piedra De Xipe este un sit arheologic situat în orașul Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.08379,
+                        18.852451
+                  ]
+            },
+            {
+                  "name": "Museo Memoria Histórica de Orizaba",
+                  "text": "Museo Memoria Histórica de Orizaba este un muzeu situat în orașul Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.101167,
+                        18.847805
+                  ]
+            },
+            {
+                  "name": "Salón de la Fama",
+                  "text": "Salón de la Fama este un muzeu situat în orașul Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.107616,
+                        18.847084
+                  ]
+            },
+            {
+                  "name": "Plaza de Toros \"La Concordia\"",
+                  "text": "Plaza de Toros \"La Concordia\" este un teatru sau un loc de desfășurare situat în orașul Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.087329,
+                        18.854854
+                  ]
+            },
+            {
+                  "name": "Polifórum Mier y Pesado",
+                  "text": "Polifórum Mier y Pesado este un muzeu situat în orașul Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.089172,
+                        18.848324
+                  ]
+            },
+            {
+                  "name": "Teatro Ignacio de la Llave",
+                  "text": "Teatro Ignacio de la Llave este un teatru sau un loc de desfășurare situat în orașul Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.10471,
+                        18.848376
+                  ]
+            },
+            {
+                  "name": "Auditorio Metropolitano",
+                  "text": "Auditorio Metropolitano este un teatru sau un loc de desfășurare situat în orașul Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.111305,
+                        18.841633
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+                  "text": "Casa de Cultura del Instituto Tecnológico de Orizaba este un teatru sau un loc de desfășurare situat în orașul Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.100582,
+                        18.848755
+                  ]
+            },
+            {
+                  "name": "Museo de la Hotelería Mexicana",
+                  "text": "Museo de la Hotelería Mexicana este un muzeu situat în orașul Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.098654,
+                        18.847743
+                  ]
+            },
+            {
+                  "name": "Casa Vegas",
+                  "text": "Casa Vegas este un teatru sau un loc de desfășurare situat în orașul Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.085674,
+                        18.857452
+                  ]
+            },
+            {
+                  "name": "Reserva Animal Leones",
+                  "text": "Reserva Animal Leones este o grădină zoologică sau un parc de animale situat în orașul Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.109987,
+                        18.850555
+                  ]
+            },
+            {
+                  "name": "Moons (pass del Rio y reserva animal)",
+                  "text": "Monkeys (pass del Rio y reserva animal) este o grădină zoologică sau un parc de animale situat în orașul Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.107594,
+                        18.846042
+                  ]
+            },
+            {
+                  "name": "Reserva Animal Jaguares",
+                  "text": "Leopard (pass del Rio y reserva animal) este o grădină zoologică în Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.110497,
+                        18.852558
+                  ]
+            },
+            {
+                  "name": "Tobogán de la Montaña",
+                  "text": "Tobogán de la Montaña este un parc de distracții în Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.084223,
+                        18.859223
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Metlac Río Blanco",
+                  "text": "Reserva Ecológica Metlac Río Blanco este o rezervație naturală în Orizaba.",
+                  "category": "natural",
+                  "coords": [
+                        -96.977688,
+                        18.84614
+                  ]
+            },
+            {
+                  "name": "Arcos de Orizaba",
+                  "text": "Arcos de Orizaba este un monument în Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.116225,
+                        18.839376
+                  ]
+            },
+            {
+                  "name": "(pass del Rio y reserva animal)",
+                  "text": "Camel (pass del Rio y reserva animal) este o atracție turistică în Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.114596,
+                        18.859014
+                  ]
+            },
+            {
+                  "name": "Mirador del Expo Parque",
+                  "text": "Mirador del Expo Parque este un punct de belvedere în Orizaba.",
+                  "category": "natural",
+                  "coords": [
+                        -97.087906,
+                        18.857507
+                  ]
+            },
+            {
+                  "name": "Renacimiento",
+                  "text": "Renacimiento este un monument în Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.107703,
+                        18.863154
+                  ]
+            },
+            {
+                  "name": "La Ixhuateca",
+                  "text": "La Ixhuateca este un monument în Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.113733,
+                        18.869211
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Mirador este un punct de belvedere în Orizaba.",
+                  "category": "natural",
+                  "coords": [
+                        -97.114652,
+                        18.845087
+                  ]
+            },
+            {
+                  "name": "Tirolesa",
+                  "text": "Zipline este o atracție turistică în Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.116854,
+                        18.845977
+                  ]
+            },
+            {
+                  "name": "Canopy",
+                  "text": "Canopy este o atracție turistică în Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.111923,
+                        18.845803
+                  ]
+            },
+            {
+                  "name": "Chiringuitos",
+                  "text": "Chiringuitos este o atracție turistică în Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.110357,
+                        18.846088
+                  ]
+            },
+            {
+                  "name": "Paseo del Río",
+                  "text": "Paseo del Río este o atracție turistică în Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.102763,
+                        18.843492
+                  ]
+            },
+            {
+                  "name": "Instituto Regional de Bellas Artes de Orizaba",
+                  "text": "Instituto Regional de Bellas Artes de Orizaba este un centru de arte în Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.109059,
+                        18.846471
+                  ]
+            },
+            {
+                  "name": "Auditorio IVC",
+                  "text": "Auditorio IVC este un centru de arte în Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.090045,
+                        18.850091
+                  ]
+            },
+            {
+                  "name": "Boeing 727-200 \"El Cuatro Vientos\"",
+                  "text": "Boeing 727-200 \"El Cuatro Vientos\" este o galerie în Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.113271,
+                        18.867572
+                  ]
+            },
+            {
+                  "name": "Foro Niebla",
+                  "text": "Foro Niebla este o galerie în Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.099065,
+                        18.843829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palacio de Hierro",
+                  "text": "Palacio de Hierro is a notable building located in the city of Orizaba. It is famous for being designed by the engineer Gustave Eiffel.",
+                  "category": "castle",
+                  "coords": [
+                        -97.105951,
+                        18.849744
+                  ]
+            },
+            {
+                  "name": "Piedra De Xipe",
+                  "text": "Piedra De Xipe is an archaeological site located in the city of Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.08379,
+                        18.852451
+                  ]
+            },
+            {
+                  "name": "Museo Memoria Histórica de Orizaba",
+                  "text": "Museo Memoria Histórica de Orizaba is a museum located in the city of Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.101167,
+                        18.847805
+                  ]
+            },
+            {
+                  "name": "Salón de la Fama",
+                  "text": "Salón de la Fama is a museum located in the city of Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.107616,
+                        18.847084
+                  ]
+            },
+            {
+                  "name": "Plaza de Toros \"La Concordia\"",
+                  "text": "Plaza de Toros \"La Concordia\" is a theatre or event venue located in the city of Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.087329,
+                        18.854854
+                  ]
+            },
+            {
+                  "name": "Polifórum Mier y Pesado",
+                  "text": "Polifórum Mier y Pesado is a museum located in the city of Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.089172,
+                        18.848324
+                  ]
+            },
+            {
+                  "name": "Teatro Ignacio de la Llave",
+                  "text": "Teatro Ignacio de la Llave is a theatre or event venue located in the city of Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.10471,
+                        18.848376
+                  ]
+            },
+            {
+                  "name": "Auditorio Metropolitano",
+                  "text": "Auditorio Metropolitano is a theatre or event venue located in the city of Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.111305,
+                        18.841633
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura del Instituto Tecnológico de Orizaba",
+                  "text": "Casa de Cultura del Instituto Tecnológico de Orizaba is a theatre or event venue located in the city of Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.100582,
+                        18.848755
+                  ]
+            },
+            {
+                  "name": "Museo de la Hotelería Mexicana",
+                  "text": "Museo de la Hotelería Mexicana is a museum located in the city of Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.098654,
+                        18.847743
+                  ]
+            },
+            {
+                  "name": "Casa Vegas",
+                  "text": "Casa Vegas is a theatre or event venue located in the city of Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.085674,
+                        18.857452
+                  ]
+            },
+            {
+                  "name": "Reserva Animal Leones",
+                  "text": "Reserva Animal Leones is a zoo or animal park located in the city of Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.109987,
+                        18.850555
+                  ]
+            },
+            {
+                  "name": "Monkeys (pass del Rio y reserva animal)",
+                  "text": "Monkeys (pass del Rio y reserva animal) is a zoo or animal park located in the city of Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.107594,
+                        18.846042
+                  ]
+            },
+            {
+                  "name": "Leopard (pass del Rio y reserva animal)",
+                  "text": "Leopard (pass del Rio y reserva animal) is a zoo located in Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.110497,
+                        18.852558
+                  ]
+            },
+            {
+                  "name": "Tobogán de la Montaña",
+                  "text": "Tobogán de la Montaña is a theme park located in Orizaba.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.084223,
+                        18.859223
+                  ]
+            },
+            {
+                  "name": "Reserva Ecológica Metlac Río Blanco",
+                  "text": "Reserva Ecológica Metlac Río Blanco is a nature reserve located in Orizaba.",
+                  "category": "natural",
+                  "coords": [
+                        -96.977688,
+                        18.84614
+                  ]
+            },
+            {
+                  "name": "Arcos de Orizaba",
+                  "text": "Arcos de Orizaba is a monument located in Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.116225,
+                        18.839376
+                  ]
+            },
+            {
+                  "name": "Camel (pass del Rio y reserva animal)",
+                  "text": "Camel (pass del Rio y reserva animal) is a tourist attraction located in Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.114596,
+                        18.859014
+                  ]
+            },
+            {
+                  "name": "Mirador del Expo Parque",
+                  "text": "Mirador del Expo Parque is a viewpoint located in Orizaba.",
+                  "category": "natural",
+                  "coords": [
+                        -97.087906,
+                        18.857507
+                  ]
+            },
+            {
+                  "name": "Renacimiento",
+                  "text": "Renacimiento is a monument located in Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.107703,
+                        18.863154
+                  ]
+            },
+            {
+                  "name": "La Ixhuateca",
+                  "text": "La Ixhuateca is a monument located in Orizaba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.113733,
+                        18.869211
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Mirador is a viewpoint located in Orizaba.",
+                  "category": "natural",
+                  "coords": [
+                        -97.114652,
+                        18.845087
+                  ]
+            },
+            {
+                  "name": "Zipline",
+                  "text": "Zipline is a tourist attraction located in Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.116854,
+                        18.845977
+                  ]
+            },
+            {
+                  "name": "Canopy",
+                  "text": "Canopy is a tourist attraction located in Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.111923,
+                        18.845803
+                  ]
+            },
+            {
+                  "name": "Chiringuitos",
+                  "text": "Chiringuitos is a tourist attraction located in Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.110357,
+                        18.846088
+                  ]
+            },
+            {
+                  "name": "Paseo del Río",
+                  "text": "Paseo del Río is a tourist attraction located in Orizaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.102763,
+                        18.843492
+                  ]
+            },
+            {
+                  "name": "Instituto Regional de Bellas Artes de Orizaba",
+                  "text": "Instituto Regional de Bellas Artes de Orizaba is an arts centre located in Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.109059,
+                        18.846471
+                  ]
+            },
+            {
+                  "name": "Auditorio IVC",
+                  "text": "Auditorio IVC is an arts centre located in Orizaba.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.090045,
+                        18.850091
+                  ]
+            },
+            {
+                  "name": "Boeing 727-200 \"El Cuatro Vientos\"",
+                  "text": "Boeing 727-200 \"El Cuatro Vientos\" is a gallery located in Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.113271,
+                        18.867572
+                  ]
+            },
+            {
+                  "name": "Foro Niebla",
+                  "text": "Foro Niebla is a gallery located in Orizaba.",
+                  "category": "museum",
+                  "coords": [
+                        -97.099065,
+                        18.843829
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-VER",
     coords: [-97.1008, 18.8483],
@@ -1698,7 +19518,52 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Abrite le « Palais de Fer », une structure métallique conçue par l'architecte Gustave Eiffel.", "Le Pico de Orizaba tout proche est, avec plus de 5 600 mètres, le plus haut sommet du Mexique.", "A été récompensée comme l'une des villes les plus sûres et les plus propres du Mexique."],
     }, image: "/poi-images/orizaba-cities-v2.webp"},
   {
-    id: "salamanca-gua-cities-v2",
+    id: "salamanca-gua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galería Bicentenario",
+                  "text": "Die Galería Bicentenario ist ein Museum in der Stadt Salamanca.",
+                  "category": "museum",
+                  "coords": [
+                        -101.197071,
+                        20.568665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galería Bicentenario",
+                  "text": "A Galería Bicentenario egy múzeum Salamanca városában.",
+                  "category": "museum",
+                  "coords": [
+                        -101.197071,
+                        20.568665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galería Bicentenario",
+                  "text": "Galería Bicentenario este un muzeu situat în orașul Salamanca.",
+                  "category": "museum",
+                  "coords": [
+                        -101.197071,
+                        20.568665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galería Bicentenario",
+                  "text": "Galería Bicentenario is a museum located in the city of Salamanca.",
+                  "category": "museum",
+                  "coords": [
+                        -101.197071,
+                        20.568665
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-GUA",
     coords: [-101.1969, 20.5708],
@@ -1725,7 +19590,304 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Abrite l'une des plus grandes raffineries de pétrole du Mexique.", "L'ancien couvent de San Agustín est mondialement connu pour ses retables dorés richement décorés.", "A été officiellement fondée en 1603 par le vice-roi Monterrey."],
     }, image: "/poi-images/salamanca-gua-cities-v2.webp"},
   {
-    id: "patzcuaro-cities-v2",
+    id: "patzcuaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de las Artes e Industrias Populares",
+                  "text": "Das Museum für Kunst und Volksindustrie in Pátzcuaro stellt lokales Kulturgut aus.",
+                  "category": "museum",
+                  "coords": [
+                        -101.606954,
+                        19.51369
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Ruta Don Vasco",
+                  "text": "Das Interpretationszentrum der Don Vasco Route ist ein Museum in Pátzcuaro.",
+                  "category": "museum",
+                  "coords": [
+                        -101.615643,
+                        19.536345
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Cerro del Estribo Grande",
+                  "text": "Das Naturschutzgebiet Cerro del Estribo Grande bietet Naturerlebnisse bei Pátzcuaro.",
+                  "category": "natural",
+                  "coords": [
+                        -101.642028,
+                        19.512086
+                  ]
+            },
+            {
+                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                  "text": "Das Umweltschutzgebiet am Cerro Colorado ist ein Naturreservat in Pátzcuaro.",
+                  "category": "natural",
+                  "coords": [
+                        -101.608761,
+                        19.537812
+                  ]
+            },
+            {
+                  "name": "Teatro Emperador Caltzontzin",
+                  "text": "Das Teatro Emperador Caltzontzin ist ein historisches Theater in Pátzcuaro.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.608573,
+                        19.516866
+                  ]
+            },
+            {
+                  "name": "Monumento a Vasco de Quiroga",
+                  "text": "Das Denkmal für Vasco de Quiroga befindet sich in Pátzcuaro.",
+                  "category": "historical",
+                  "coords": [
+                        -101.60917,
+                        19.513494
+                  ]
+            },
+            {
+                  "name": "salon Robal",
+                  "text": "Das Salon Robal ist eine Attraktion in Pátzcuaro.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.604346,
+                        19.522178
+                  ]
+            },
+            {
+                  "name": "Basilica de Nuestra Señora de la Salud",
+                  "text": "Die Basilika Nuestra Señora de la Salud ist eine bedeutende Kirche in Pátzcuaro.",
+                  "category": "religious",
+                  "coords": [
+                        -101.605993,
+                        19.515043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de las Artes e Industrias Populares",
+                  "text": "A Pátzcuaróban található népművészeti múzeum helyi értékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -101.606954,
+                        19.51369
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Ruta Don Vasco",
+                  "text": "A Don Vasco útvonal interpretációs központja egy múzeum Pátzcuaróban.",
+                  "category": "museum",
+                  "coords": [
+                        -101.615643,
+                        19.536345
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Cerro del Estribo Grande",
+                  "text": "A Cerro del Estribo Grande természetvédelmi terület Pátzcuaro mellett található.",
+                  "category": "natural",
+                  "coords": [
+                        -101.642028,
+                        19.512086
+                  ]
+            },
+            {
+                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                  "text": "A Cerro Colorado környezetvédelmi terület Pátzcuaro egy természetvédelmi övezete.",
+                  "category": "natural",
+                  "coords": [
+                        -101.608761,
+                        19.537812
+                  ]
+            },
+            {
+                  "name": "Teatro Emperador Caltzontzin",
+                  "text": "A Teatro Emperador Caltzontzin egy színház Pátzcuaróban.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.608573,
+                        19.516866
+                  ]
+            },
+            {
+                  "name": "Monumento a Vasco de Quiroga",
+                  "text": "A Vasco de Quiroga-emlékmű Pátzcuaro városában található.",
+                  "category": "historical",
+                  "coords": [
+                        -101.60917,
+                        19.513494
+                  ]
+            },
+            {
+                  "name": "salon Robal",
+                  "text": "A Salon Robal egy látnivaló Pátzcuaróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.604346,
+                        19.522178
+                  ]
+            },
+            {
+                  "name": "Basilica de Nuestra Señora de la Salud",
+                  "text": "A Nuestra Señora de la Salud bazilika Pátzcuaro fontos temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -101.605993,
+                        19.515043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de las Artes e Industrias Populares",
+                  "text": "Muzeul de Artă și Industrie Populară din Pátzcuaro expune patrimoniul local.",
+                  "category": "museum",
+                  "coords": [
+                        -101.606954,
+                        19.51369
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Ruta Don Vasco",
+                  "text": "Centrul de Interpretare a Rutei Don Vasco este un muzeu în Pátzcuaro.",
+                  "category": "museum",
+                  "coords": [
+                        -101.615643,
+                        19.536345
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Cerro del Estribo Grande",
+                  "text": "Rezervația naturală Cerro del Estribo Grande oferă experiențe în natură lângă Pátzcuaro.",
+                  "category": "natural",
+                  "coords": [
+                        -101.642028,
+                        19.512086
+                  ]
+            },
+            {
+                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                  "text": "Zona de protecție a mediului Cerro Colorado este o rezervație naturală în Pátzcuaro.",
+                  "category": "natural",
+                  "coords": [
+                        -101.608761,
+                        19.537812
+                  ]
+            },
+            {
+                  "name": "Teatro Emperador Caltzontzin",
+                  "text": "Teatro Emperador Caltzontzin este un teatru în Pátzcuaro.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.608573,
+                        19.516866
+                  ]
+            },
+            {
+                  "name": "Monumento a Vasco de Quiroga",
+                  "text": "Monumentul lui Vasco de Quiroga se află în Pátzcuaro.",
+                  "category": "historical",
+                  "coords": [
+                        -101.60917,
+                        19.513494
+                  ]
+            },
+            {
+                  "name": "salon Robal",
+                  "text": "Salon Robal este o atracție în Pátzcuaro.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.604346,
+                        19.522178
+                  ]
+            },
+            {
+                  "name": "Basilica de Nuestra Señora de la Salud",
+                  "text": "Bazilica Nuestra Señora de la Salud este o biserică importantă în Pátzcuaro.",
+                  "category": "religious",
+                  "coords": [
+                        -101.605993,
+                        19.515043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de las Artes e Industrias Populares",
+                  "text": "The Museum of Arts and Popular Industries in Pátzcuaro displays local cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -101.606954,
+                        19.51369
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Ruta Don Vasco",
+                  "text": "The Don Vasco Route interpretation center is a museum in Pátzcuaro.",
+                  "category": "museum",
+                  "coords": [
+                        -101.615643,
+                        19.536345
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Cerro del Estribo Grande",
+                  "text": "The Cerro del Estribo Grande nature reserve offers nature experiences near Pátzcuaro.",
+                  "category": "natural",
+                  "coords": [
+                        -101.642028,
+                        19.512086
+                  ]
+            },
+            {
+                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                  "text": "The Cerro Colorado environmental protection zone is a nature reserve in Pátzcuaro.",
+                  "category": "natural",
+                  "coords": [
+                        -101.608761,
+                        19.537812
+                  ]
+            },
+            {
+                  "name": "Teatro Emperador Caltzontzin",
+                  "text": "The Teatro Emperador Caltzontzin is a theatre in Pátzcuaro.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.608573,
+                        19.516866
+                  ]
+            },
+            {
+                  "name": "Monumento a Vasco de Quiroga",
+                  "text": "The monument to Vasco de Quiroga is located in Pátzcuaro.",
+                  "category": "historical",
+                  "coords": [
+                        -101.60917,
+                        19.513494
+                  ]
+            },
+            {
+                  "name": "salon Robal",
+                  "text": "The Salon Robal is an attraction in Pátzcuaro.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.604346,
+                        19.522178
+                  ]
+            },
+            {
+                  "name": "Basilica de Nuestra Señora de la Salud",
+                  "text": "The Basilica Nuestra Señora de la Salud is an important church in Pátzcuaro.",
+                  "category": "religious",
+                  "coords": [
+                        -101.605993,
+                        19.515043
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-MIC",
     coords: [-101.6094, 19.5133],
@@ -1779,7 +19941,340 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["La Grande Pyramide (Tlachihualtepetl) est la plus grande pyramide au monde en volume.", "Considérée comme la plus ancienne ville habitée de façon continue sur le continent américain.", "L'église jaune caractéristique Nuestra Señora de los Remedios s'élève au-dessus de l'ancienne pyramide."],
     }, image: "/poi-images/cholula-cities-v2.webp"},
   {
-    id: "san-juan-del-rio-cities-v2",
+    id: "san-juan-del-rio-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panteón/Museo de la Santa Veracruz",
+                  "text": "Das Panteón/Museo de la Santa Veracruz ist ein Museum in San Juan del Río.",
+                  "category": "museum",
+                  "coords": [
+                        -99.996384,
+                        20.38323
+                  ]
+            },
+            {
+                  "name": "Foro al Aire Libre",
+                  "text": "Foro al Aire Libre ist ein Freilufttheater in San Juan del Río.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.991469,
+                        20.407562
+                  ]
+            },
+            {
+                  "name": "Pirámide del Cerrito",
+                  "text": "Pirámide del Cerrito ist eine archäologische Stätte in San Juan del Río.",
+                  "category": "historical",
+                  "coords": [
+                        -100.004556,
+                        20.375663
+                  ]
+            },
+            {
+                  "name": "Puente de la Historia",
+                  "text": "Die Puente de la Historia ist ein historisches Steinbrücken-Denkmal in San Juan del Río. Sie ist für ihre Bedeutung in der historischen Infrastruktur der Region bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        -100.010108,
+                        20.384563
+                  ]
+            },
+            {
+                  "name": "Columna de la independencia",
+                  "text": "Die Columna de la independencia ist ein bedeutendes Denkmal in San Juan del Río. Es wurde zur Erinnerung an die Unabhängigkeit Mexikos errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        -99.99638,
+                        20.388848
+                  ]
+            },
+            {
+                  "name": "Centro Historico y Cultural",
+                  "text": "Das Centro Historico y Cultural ist eine Attraktion in San Juan del Río.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.996,
+                        20.387335
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Mirador ist ein Aussichtspunkt in San Juan del Río.",
+                  "category": "natural",
+                  "coords": [
+                        -99.997191,
+                        20.380908
+                  ]
+            },
+            {
+                  "name": "Antigüo pozo de Nuestra Señora de Guadalupe",
+                  "text": "Antigüo pozo de Nuestra Señora de Guadalupe ist eine lokale Attraktion in San Juan del Río.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.998819,
+                        20.383888
+                  ]
+            },
+            {
+                  "name": "Hombre a caballo",
+                  "text": "Hombre a caballo ist ein Reiterdenkmal in San Juan del Río.",
+                  "category": "historical",
+                  "coords": [
+                        -99.993192,
+                        20.384132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panteón/Museo de la Santa Veracruz",
+                  "text": "A Panteón/Museo de la Santa Veracruz egy múzeum San Juan del Río városában.",
+                  "category": "museum",
+                  "coords": [
+                        -99.996384,
+                        20.38323
+                  ]
+            },
+            {
+                  "name": "Foro al Aire Libre",
+                  "text": "A Foro al Aire Libre egy szabadtéri színház San Juan del Río városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.991469,
+                        20.407562
+                  ]
+            },
+            {
+                  "name": "Pirámide del Cerrito",
+                  "text": "A Pirámide del Cerrito egy régészeti lelőhely San Juan del Río-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -100.004556,
+                        20.375663
+                  ]
+            },
+            {
+                  "name": "Puente de la Historia",
+                  "text": "A Puente de la Historia egy történelmi kőhíd műemlék San Juan del Río-ban. A régió történelmi infrastruktúrájában betöltött jelentős szerepéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -100.010108,
+                        20.384563
+                  ]
+            },
+            {
+                  "name": "Columna de la independencia",
+                  "text": "A Columna de la independencia egy jelentős emlékmű San Juan del Río-ban. Mexikó függetlenségének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -99.99638,
+                        20.388848
+                  ]
+            },
+            {
+                  "name": "Centro Historico y Cultural",
+                  "text": "A Centro Historico y Cultural egy látványosság San Juan del Río városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.996,
+                        20.387335
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A Mirador egy kilátó San Juan del Río-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -99.997191,
+                        20.380908
+                  ]
+            },
+            {
+                  "name": "Antigüo pozo de Nuestra Señora de Guadalupe",
+                  "text": "Az Antigüo pozo de Nuestra Señora de Guadalupe egy helyi látványosság San Juan del Río-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.998819,
+                        20.383888
+                  ]
+            },
+            {
+                  "name": "Hombre a caballo",
+                  "text": "A Hombre a caballo egy lovas emlékmű San Juan del Río-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.993192,
+                        20.384132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panteón/Museo de la Santa Veracruz",
+                  "text": "Panteón/Museo de la Santa Veracruz este un muzeu situat în San Juan del Río.",
+                  "category": "museum",
+                  "coords": [
+                        -99.996384,
+                        20.38323
+                  ]
+            },
+            {
+                  "name": "Foro al Aire Libre",
+                  "text": "Foro al Aire Libre este un teatru în aer liber din San Juan del Río.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.991469,
+                        20.407562
+                  ]
+            },
+            {
+                  "name": "Pirámide del Cerrito",
+                  "text": "Pirámide del Cerrito este un sit arheologic situat în San Juan del Río.",
+                  "category": "historical",
+                  "coords": [
+                        -100.004556,
+                        20.375663
+                  ]
+            },
+            {
+                  "name": "Puente de la Historia",
+                  "text": "Puente de la Historia este un monument istoric reprezentând un pod de piatră în San Juan del Río. Este recunoscut pentru rolul său semnificativ în infrastructura istorică a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -100.010108,
+                        20.384563
+                  ]
+            },
+            {
+                  "name": "Columna de la independencia",
+                  "text": "Columna de la independencia este un monument notabil din San Juan del Río. A fost ridicat pentru a comemora independența Mexicului.",
+                  "category": "historical",
+                  "coords": [
+                        -99.99638,
+                        20.388848
+                  ]
+            },
+            {
+                  "name": "Centro Historico y Cultural",
+                  "text": "Centro Historico y Cultural este o atracție situată în San Juan del Río.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.996,
+                        20.387335
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Mirador este un punct de belvedere situat în San Juan del Río.",
+                  "category": "natural",
+                  "coords": [
+                        -99.997191,
+                        20.380908
+                  ]
+            },
+            {
+                  "name": "Antigüo pozo de Nuestra Señora de Guadalupe",
+                  "text": "Antigüo pozo de Nuestra Señora de Guadalupe este o atracție locală din San Juan del Río.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.998819,
+                        20.383888
+                  ]
+            },
+            {
+                  "name": "Hombre a caballo",
+                  "text": "Hombre a caballo este un monument ecvestru situat în San Juan del Río.",
+                  "category": "historical",
+                  "coords": [
+                        -99.993192,
+                        20.384132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panteón/Museo de la Santa Veracruz",
+                  "text": "Panteón/Museo de la Santa Veracruz is a museum situated in San Juan del Río.",
+                  "category": "museum",
+                  "coords": [
+                        -99.996384,
+                        20.38323
+                  ]
+            },
+            {
+                  "name": "Foro al Aire Libre",
+                  "text": "Foro al Aire Libre is an open-air theatre in San Juan del Río.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.991469,
+                        20.407562
+                  ]
+            },
+            {
+                  "name": "Pirámide del Cerrito",
+                  "text": "Pirámide del Cerrito is an archaeological site located in San Juan del Río.",
+                  "category": "historical",
+                  "coords": [
+                        -100.004556,
+                        20.375663
+                  ]
+            },
+            {
+                  "name": "Puente de la Historia",
+                  "text": "Puente de la Historia is a historic stone bridge monument in San Juan del Río. It is recognized for its significant role in the region's historical infrastructure.",
+                  "category": "historical",
+                  "coords": [
+                        -100.010108,
+                        20.384563
+                  ]
+            },
+            {
+                  "name": "Columna de la independencia",
+                  "text": "Columna de la independencia is a notable monument in San Juan del Río. It was erected to commemorate the independence of Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -99.99638,
+                        20.388848
+                  ]
+            },
+            {
+                  "name": "Centro Historico y Cultural",
+                  "text": "Centro Historico y Cultural is an attraction located in San Juan del Río.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.996,
+                        20.387335
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Mirador is a scenic viewpoint situated in San Juan del Río.",
+                  "category": "natural",
+                  "coords": [
+                        -99.997191,
+                        20.380908
+                  ]
+            },
+            {
+                  "name": "Antigüo pozo de Nuestra Señora de Guadalupe",
+                  "text": "Antigüo pozo de Nuestra Señora de Guadalupe is a local attraction in San Juan del Río.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.998819,
+                        20.383888
+                  ]
+            },
+            {
+                  "name": "Hombre a caballo",
+                  "text": "Hombre a caballo is an equestrian monument located in San Juan del Río.",
+                  "category": "historical",
+                  "coords": [
+                        -99.993192,
+                        20.384132
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-QUE",
     coords: [-99.9936, 20.3872],
@@ -1806,7 +20301,124 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Était un point de passage crucial sur le « Camino Real de Tierra Adentro », la route historique de l'argent.", "Réputée pour sa culture de raisins d'excellence et sa production florissante de fromage.", "Le « Puente de la Historia » est un pont de pierre emblématique construit au XVIIIe siècle."],
     }, image: "/poi-images/san-juan-del-rio-cities-v2.webp"},
   {
-    id: "iguala-cities-v2",
+    id: "iguala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cici de Iguala",
+                  "text": "Cici de Iguala ist ein Wasserpark in Iguala.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.526942,
+                        18.340411
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Die Monumentalfahne in Iguala ist ein Wahrzeichen Mexikos.",
+                  "category": "historical",
+                  "coords": [
+                        -99.532605,
+                        18.328958
+                  ]
+            },
+            {
+                  "name": "Monumento Patria Trigarante",
+                  "text": "Das Monument Patria Trigarante erinnert an die mexikanische Unabhängigkeit in Iguala.",
+                  "category": "historical",
+                  "coords": [
+                        -99.530272,
+                        18.342308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cici de Iguala",
+                  "text": "A Cici de Iguala egy vízi park Iguala városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.526942,
+                        18.340411
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Az igualai monumentális zászló Mexikó egyik nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        -99.532605,
+                        18.328958
+                  ]
+            },
+            {
+                  "name": "Monumento Patria Trigarante",
+                  "text": "A Patria Trigarante-emlékmű a mexikói függetlenségnek állít emléket Iguala városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.530272,
+                        18.342308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cici de Iguala",
+                  "text": "Cici de Iguala este un parc acvatic în Iguala.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.526942,
+                        18.340411
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Drapelul monumental din Iguala este un punct de reper în Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -99.532605,
+                        18.328958
+                  ]
+            },
+            {
+                  "name": "Monumento Patria Trigarante",
+                  "text": "Monumentul Patria Trigarante comemorează independența Mexicului în Iguala.",
+                  "category": "historical",
+                  "coords": [
+                        -99.530272,
+                        18.342308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cici de Iguala",
+                  "text": "Cici de Iguala is a water park in Iguala.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.526942,
+                        18.340411
+                  ]
+            },
+            {
+                  "name": "Monumental Flag",
+                  "text": "The monumental flag in Iguala is a landmark of Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -99.532605,
+                        18.328958
+                  ]
+            },
+            {
+                  "name": "Monumento Patria Trigarante",
+                  "text": "The Patria Trigarante monument commemorates Mexican independence in Iguala.",
+                  "category": "historical",
+                  "coords": [
+                        -99.530272,
+                        18.342308
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-GRO",
     coords: [-99.5394, 18.3444],
@@ -1833,7 +20445,376 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Lieu de naissance officiel du drapeau national mexicain moderne en 1821.", "Berceau de l'historique 'Plan de Iguala', qui assura l'indépendance du Mexique.", "Un centre local important pour le commerce et le travail de l'or."],
     }, image: "/poi-images/iguala-cities-v2.webp"},
   {
-    id: "ciudad-valles-cities-v2",
+    id: "ciudad-valles-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Tamuantzán",
+                  "text": "Museo Tamuantzán ist ein Museum in Ciudad Valles.",
+                  "category": "museum",
+                  "coords": [
+                        -98.997327,
+                        21.966459
+                  ]
+            },
+            {
+                  "name": "Teatro del Pueblo",
+                  "text": "Teatro del Pueblo ist ein Theater in Ciudad Valles.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.026044,
+                        21.991684
+                  ]
+            },
+            {
+                  "name": "Museo Regional Huasteco Joaquín Meade",
+                  "text": "Museo Regional Huasteco Joaquín Meade ist ein Museum in Ciudad Valles.",
+                  "category": "museum",
+                  "coords": [
+                        -99.009722,
+                        21.981256
+                  ]
+            },
+            {
+                  "name": "Aviario Municipal",
+                  "text": "Aviario Municipal ist ein Tierpark in Ciudad Valles.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.028166,
+                        21.995479
+                  ]
+            },
+            {
+                  "name": "Monumento a Zapata",
+                  "text": "Monumento a Zapata ist ein Denkmal in Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -98.996387,
+                        21.96657
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Hidalgo y Costilla",
+                  "text": "Monumento a Miguel Hidalgo y Costilla ist ein Denkmal in Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -99.005847,
+                        21.981765
+                  ]
+            },
+            {
+                  "name": "Monumento a Juárez",
+                  "text": "Monumento a Juárez ist ein Denkmal in Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -99.018826,
+                        21.986368
+                  ]
+            },
+            {
+                  "name": "El Quijote",
+                  "text": "El Quijote ist ein Denkmal in Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -99.02508,
+                        21.990305
+                  ]
+            },
+            {
+                  "name": "Camion de Bomberos \"Platon Mendez\"",
+                  "text": "Camion de Bomberos \"Platon Mendez\" ist eine Sehenswürdigkeit in Ciudad Valles.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.019076,
+                        21.976581
+                  ]
+            },
+            {
+                  "name": "Dinosaurios Tantocob",
+                  "text": "Dinosaurios Tantocob ist eine Sehenswürdigkeit in Ciudad Valles.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.020152,
+                        21.974631
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Tamuantzán",
+                  "text": "A(z) Museo Tamuantzán egy múzeum Ciudad Valles városában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.997327,
+                        21.966459
+                  ]
+            },
+            {
+                  "name": "Teatro del Pueblo",
+                  "text": "A(z) Teatro del Pueblo egy színház Ciudad Valles városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.026044,
+                        21.991684
+                  ]
+            },
+            {
+                  "name": "Museo Regional Huasteco Joaquín Meade",
+                  "text": "A(z) Museo Regional Huasteco Joaquín Meade egy múzeum Ciudad Valles városában.",
+                  "category": "museum",
+                  "coords": [
+                        -99.009722,
+                        21.981256
+                  ]
+            },
+            {
+                  "name": "Aviario Municipal",
+                  "text": "A(z) Aviario Municipal egy állatkert Ciudad Valles városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.028166,
+                        21.995479
+                  ]
+            },
+            {
+                  "name": "Monumento a Zapata",
+                  "text": "A(z) Monumento a Zapata egy emlékmű Ciudad Valles városában.",
+                  "category": "historical",
+                  "coords": [
+                        -98.996387,
+                        21.96657
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Hidalgo y Costilla",
+                  "text": "A(z) Monumento a Miguel Hidalgo y Costilla egy emlékmű Ciudad Valles városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.005847,
+                        21.981765
+                  ]
+            },
+            {
+                  "name": "Monumento a Juárez",
+                  "text": "A(z) Monumento a Juárez egy emlékmű Ciudad Valles városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.018826,
+                        21.986368
+                  ]
+            },
+            {
+                  "name": "El Quijote",
+                  "text": "A(z) El Quijote egy emlékmű Ciudad Valles városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.02508,
+                        21.990305
+                  ]
+            },
+            {
+                  "name": "Camion de Bomberos \"Platon Mendez\"",
+                  "text": "A(z) Camion de Bomberos \"Platon Mendez\" egy látványosság Ciudad Valles városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.019076,
+                        21.976581
+                  ]
+            },
+            {
+                  "name": "Dinosaurios Tantocob",
+                  "text": "A(z) Dinosaurios Tantocob egy látványosság Ciudad Valles városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.020152,
+                        21.974631
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Tamuantzán",
+                  "text": "Museo Tamuantzán este un muzeu în Ciudad Valles.",
+                  "category": "museum",
+                  "coords": [
+                        -98.997327,
+                        21.966459
+                  ]
+            },
+            {
+                  "name": "Teatro del Pueblo",
+                  "text": "Teatro del Pueblo este un teatru în Ciudad Valles.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.026044,
+                        21.991684
+                  ]
+            },
+            {
+                  "name": "Museo Regional Huasteco Joaquín Meade",
+                  "text": "Museo Regional Huasteco Joaquín Meade este un muzeu în Ciudad Valles.",
+                  "category": "museum",
+                  "coords": [
+                        -99.009722,
+                        21.981256
+                  ]
+            },
+            {
+                  "name": "Aviario Municipal",
+                  "text": "Aviario Municipal este o grădină zoologică în Ciudad Valles.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.028166,
+                        21.995479
+                  ]
+            },
+            {
+                  "name": "Monumento a Zapata",
+                  "text": "Monumento a Zapata este un monument în Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -98.996387,
+                        21.96657
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Hidalgo y Costilla",
+                  "text": "Monumento a Miguel Hidalgo y Costilla este un monument în Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -99.005847,
+                        21.981765
+                  ]
+            },
+            {
+                  "name": "Monumento a Juárez",
+                  "text": "Monumento a Juárez este un monument în Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -99.018826,
+                        21.986368
+                  ]
+            },
+            {
+                  "name": "El Quijote",
+                  "text": "El Quijote este un monument în Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -99.02508,
+                        21.990305
+                  ]
+            },
+            {
+                  "name": "Camion de Bomberos \"Platon Mendez\"",
+                  "text": "Camion de Bomberos \"Platon Mendez\" este o atracție turistică în Ciudad Valles.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.019076,
+                        21.976581
+                  ]
+            },
+            {
+                  "name": "Dinosaurios Tantocob",
+                  "text": "Dinosaurios Tantocob este o atracție turistică în Ciudad Valles.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.020152,
+                        21.974631
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Tamuantzán",
+                  "text": "Museo Tamuantzán is a museum located in Ciudad Valles.",
+                  "category": "museum",
+                  "coords": [
+                        -98.997327,
+                        21.966459
+                  ]
+            },
+            {
+                  "name": "Teatro del Pueblo",
+                  "text": "Teatro del Pueblo is a theatre located in Ciudad Valles.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.026044,
+                        21.991684
+                  ]
+            },
+            {
+                  "name": "Museo Regional Huasteco Joaquín Meade",
+                  "text": "Museo Regional Huasteco Joaquín Meade is a museum located in Ciudad Valles.",
+                  "category": "museum",
+                  "coords": [
+                        -99.009722,
+                        21.981256
+                  ]
+            },
+            {
+                  "name": "Aviario Municipal",
+                  "text": "Aviario Municipal is a zoo located in Ciudad Valles.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.028166,
+                        21.995479
+                  ]
+            },
+            {
+                  "name": "Monumento a Zapata",
+                  "text": "Monumento a Zapata is a monument located in Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -98.996387,
+                        21.96657
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Hidalgo y Costilla",
+                  "text": "Monumento a Miguel Hidalgo y Costilla is a monument located in Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -99.005847,
+                        21.981765
+                  ]
+            },
+            {
+                  "name": "Monumento a Juárez",
+                  "text": "Monumento a Juárez is a monument located in Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -99.018826,
+                        21.986368
+                  ]
+            },
+            {
+                  "name": "El Quijote",
+                  "text": "El Quijote is a monument located in Ciudad Valles.",
+                  "category": "historical",
+                  "coords": [
+                        -99.02508,
+                        21.990305
+                  ]
+            },
+            {
+                  "name": "Camion de Bomberos \"Platon Mendez\"",
+                  "text": "Camion de Bomberos \"Platon Mendez\" is a tourist attraction located in Ciudad Valles.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.019076,
+                        21.976581
+                  ]
+            },
+            {
+                  "name": "Dinosaurios Tantocob",
+                  "text": "Dinosaurios Tantocob is a tourist attraction located in Ciudad Valles.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.020152,
+                        21.974631
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-SLP",
     coords: [-99.0153, 21.9822],
@@ -1860,7 +20841,268 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["Le centre touristique et économique de la région de la Huasteca Potosina.", "Un point de départ idéal pour des excursions spectaculaires vers les cascades de Tamul et Micos.", "Célèbre pour le plat 'Zacahuil', un tamal géant cuit dans un four de terre."],
     }, image: "/poi-images/ciudad-valles-cities-v2.webp"},
   {
-    id: "zamora-de-hidalgo-cities-v2",
+    id: "zamora-de-hidalgo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Acuario Bajo El Mar",
+                  "text": "Acuario Bajo El Mar ist ein Aquarium in Zamora de Hidalgo.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.283325,
+                        19.987751
+                  ]
+            },
+            {
+                  "name": "Teatro Obrero",
+                  "text": "Das Teatro Obrero ist ein Theater in Zamora de Hidalgo.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.282425,
+                        19.982652
+                  ]
+            },
+            {
+                  "name": "Teatro Don Bosco",
+                  "text": "Das Teatro Don Bosco ist ein lokales Theater in Zamora de Hidalgo.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.289279,
+                        19.986673
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad de Zamora",
+                  "text": "Das Museo de la Ciudad de Zamora ist ein Stadtmuseum in Zamora de Hidalgo.",
+                  "category": "museum",
+                  "coords": [
+                        -102.284846,
+                        19.995059
+                  ]
+            },
+            {
+                  "name": "Jardín de la Comunicación",
+                  "text": "Jardín de la Comunicación ist ein Denkmal in Zamora de Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -102.288075,
+                        19.979522
+                  ]
+            },
+            {
+                  "name": "Rotonda de los Hombres Ilustres",
+                  "text": "Die Rotonda de los Hombres Ilustres ist ein bedeutendes Denkmal in Zamora de Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -102.29161,
+                        19.977297
+                  ]
+            },
+            {
+                  "name": "Puente Calzada Zamora- Jacona",
+                  "text": "Puente Calzada Zamora- Jacona ist eine monumentale Brücke in Zamora de Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -102.292555,
+                        19.976037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Acuario Bajo El Mar",
+                  "text": "Az Acuario Bajo El Mar egy akvárium Zamora de Hidalgo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.283325,
+                        19.987751
+                  ]
+            },
+            {
+                  "name": "Teatro Obrero",
+                  "text": "A Teatro Obrero egy színház Zamora de Hidalgo-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.282425,
+                        19.982652
+                  ]
+            },
+            {
+                  "name": "Teatro Don Bosco",
+                  "text": "A Teatro Don Bosco egy helyi színház Zamora de Hidalgo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.289279,
+                        19.986673
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad de Zamora",
+                  "text": "A Museo de la Ciudad de Zamora egy városi múzeum Zamora de Hidalgo-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -102.284846,
+                        19.995059
+                  ]
+            },
+            {
+                  "name": "Jardín de la Comunicación",
+                  "text": "A Jardín de la Comunicación egy emlékmű Zamora de Hidalgo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -102.288075,
+                        19.979522
+                  ]
+            },
+            {
+                  "name": "Rotonda de los Hombres Ilustres",
+                  "text": "A Rotonda de los Hombres Ilustres egy emlékmű Zamora de Hidalgo-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -102.29161,
+                        19.977297
+                  ]
+            },
+            {
+                  "name": "Puente Calzada Zamora- Jacona",
+                  "text": "A Puente Calzada Zamora- Jacona egy híd és műemlék Zamora de Hidalgo-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -102.292555,
+                        19.976037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Acuario Bajo El Mar",
+                  "text": "Acuario Bajo El Mar este un acvariu situat în Zamora de Hidalgo.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.283325,
+                        19.987751
+                  ]
+            },
+            {
+                  "name": "Teatro Obrero",
+                  "text": "Teatro Obrero este un teatru situat în Zamora de Hidalgo.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.282425,
+                        19.982652
+                  ]
+            },
+            {
+                  "name": "Teatro Don Bosco",
+                  "text": "Teatro Don Bosco este un teatru local din Zamora de Hidalgo.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.289279,
+                        19.986673
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad de Zamora",
+                  "text": "Museo de la Ciudad de Zamora este un muzeu municipal situat în Zamora de Hidalgo.",
+                  "category": "museum",
+                  "coords": [
+                        -102.284846,
+                        19.995059
+                  ]
+            },
+            {
+                  "name": "Jardín de la Comunicación",
+                  "text": "Jardín de la Comunicación este un monument din Zamora de Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -102.288075,
+                        19.979522
+                  ]
+            },
+            {
+                  "name": "Rotonda de los Hombres Ilustres",
+                  "text": "Rotonda de los Hombres Ilustres este un monument important din Zamora de Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -102.29161,
+                        19.977297
+                  ]
+            },
+            {
+                  "name": "Puente Calzada Zamora- Jacona",
+                  "text": "Puente Calzada Zamora- Jacona este un pod monumental din Zamora de Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -102.292555,
+                        19.976037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Acuario Bajo El Mar",
+                  "text": "Acuario Bajo El Mar is an aquarium located in Zamora de Hidalgo.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.283325,
+                        19.987751
+                  ]
+            },
+            {
+                  "name": "Teatro Obrero",
+                  "text": "Teatro Obrero is a theatre situated in Zamora de Hidalgo.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.282425,
+                        19.982652
+                  ]
+            },
+            {
+                  "name": "Teatro Don Bosco",
+                  "text": "Teatro Don Bosco is a local theatre in Zamora de Hidalgo.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.289279,
+                        19.986673
+                  ]
+            },
+            {
+                  "name": "Museo de la Ciudad de Zamora",
+                  "text": "Museo de la Ciudad de Zamora is a city museum located in Zamora de Hidalgo.",
+                  "category": "museum",
+                  "coords": [
+                        -102.284846,
+                        19.995059
+                  ]
+            },
+            {
+                  "name": "Jardín de la Comunicación",
+                  "text": "Jardín de la Comunicación is a monument in Zamora de Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -102.288075,
+                        19.979522
+                  ]
+            },
+            {
+                  "name": "Rotonda de los Hombres Ilustres",
+                  "text": "Rotonda de los Hombres Ilustres is a prominent monument in Zamora de Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -102.29161,
+                        19.977297
+                  ]
+            },
+            {
+                  "name": "Puente Calzada Zamora- Jacona",
+                  "text": "Puente Calzada Zamora- Jacona is a monumental bridge in Zamora de Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -102.292555,
+                        19.976037
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-MIC",
     coords: [-102.2850, 19.9842],
@@ -1887,7 +21129,304 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       fr: ["La cathédrale néogothique est considérée comme l'une des plus grandes églises au monde et possède les plus hautes tours du Mexique.", "L'une des régions les plus importantes au monde pour la production et l'exportation de fraises.", "La ville fut officiellement fondée par les Espagnols en 1574 et possède une forte empreinte catholique."],
     }, image: "/poi-images/zamora-de-hidalgo-cities-v2.webp"},
   {
-    id: "tulum-cities-v2",
+    id: "tulum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dzonot Wayak Cenote",
+                  "text": "Der Dzonot Wayak Cenote ist ein Wasserpark in der Nähe von Tulum.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.465362,
+                        20.21156
+                  ]
+            },
+            {
+                  "name": "Cenote Calavera",
+                  "text": "Der Temple of Doom ist ein Höhleneingang bei Tulum.",
+                  "category": "natural",
+                  "coords": [
+                        -87.457272,
+                        20.229175
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pensamiento",
+                  "text": "Die Pyramide des positiven Denkens ist eine Attraktion in Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.460954,
+                        20.197711
+                  ]
+            },
+            {
+                  "name": "Diving Cenotes dive center",
+                  "text": "Das Diving Cenotes Zentrum bietet Tauchgänge in Tulum an.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.467347,
+                        20.210526
+                  ]
+            },
+            {
+                  "name": "Carlos",
+                  "text": "Carlos ist eine bekannte Attraktion in Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.456612,
+                        20.208651
+                  ]
+            },
+            {
+                  "name": "No es un camino para ir a Tulum",
+                  "text": "No way ist eine ungewöhnliche Attraktion in Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.462519,
+                        20.222484
+                  ]
+            },
+            {
+                  "name": "Cenote Aldea Zama",
+                  "text": "Der Cenote Aldea Zama ist eine natürliche Attraktion in Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.459147,
+                        20.202838
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Das Haus der Kultur ist ein Kunstzentrum in Tulum.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.462498,
+                        20.208254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dzonot Wayak Cenote",
+                  "text": "A Dzonot Wayak Cenote egy vízi park Tulum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.465362,
+                        20.21156
+                  ]
+            },
+            {
+                  "name": "Cenote Calavera",
+                  "text": "A Temple of Doom egy barlangbejárat Tulum közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -87.457272,
+                        20.229175
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pensamiento",
+                  "text": "A Pyramide of positive thinking egy látnivaló Tulumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.460954,
+                        20.197711
+                  ]
+            },
+            {
+                  "name": "Diving Cenotes dive center",
+                  "text": "A Diving Cenotes központ búvárkodási lehetőséget kínál Tulumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.467347,
+                        20.210526
+                  ]
+            },
+            {
+                  "name": "Carlos",
+                  "text": "Carlos egy látnivaló Tulumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.456612,
+                        20.208651
+                  ]
+            },
+            {
+                  "name": "No es un camino para ir a Tulum",
+                  "text": "A No way egy különleges látnivaló Tulumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.462519,
+                        20.222484
+                  ]
+            },
+            {
+                  "name": "Cenote Aldea Zama",
+                  "text": "A Cenote Aldea Zama egy természeti látnivaló Tulumban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.459147,
+                        20.202838
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A Casa de la Cultura egy művészeti központ Tulumban.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.462498,
+                        20.208254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dzonot Wayak Cenote",
+                  "text": "Dzonot Wayak Cenote este un parc acvatic lângă Tulum.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.465362,
+                        20.21156
+                  ]
+            },
+            {
+                  "name": "Cenote Calavera",
+                  "text": "Temple of Doom este o intrare în peșteră lângă Tulum.",
+                  "category": "natural",
+                  "coords": [
+                        -87.457272,
+                        20.229175
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pensamiento",
+                  "text": "Pyramid of positive thinking este o atracție în Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.460954,
+                        20.197711
+                  ]
+            },
+            {
+                  "name": "Diving Cenotes dive center",
+                  "text": "Centrul Diving Cenotes oferă oportunități de scufundări în Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.467347,
+                        20.210526
+                  ]
+            },
+            {
+                  "name": "Carlos",
+                  "text": "Carlos este o atracție în Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.456612,
+                        20.208651
+                  ]
+            },
+            {
+                  "name": "No es un camino para ir a Tulum",
+                  "text": "No way este o atracție neobișnuită în Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.462519,
+                        20.222484
+                  ]
+            },
+            {
+                  "name": "Cenote Aldea Zama",
+                  "text": "Cenote Aldea Zama este o atracție naturală în Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.459147,
+                        20.202838
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura este un centru cultural în Tulum.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.462498,
+                        20.208254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dzonot Wayak Cenote",
+                  "text": "The Dzonot Wayak Cenote is a water park near Tulum.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.465362,
+                        20.21156
+                  ]
+            },
+            {
+                  "name": "Temple of Doom",
+                  "text": "The Temple of Doom is a cave entrance near Tulum.",
+                  "category": "natural",
+                  "coords": [
+                        -87.457272,
+                        20.229175
+                  ]
+            },
+            {
+                  "name": "Pyramid of positive thinking",
+                  "text": "The Pyramid of positive thinking is an attraction in Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.460954,
+                        20.197711
+                  ]
+            },
+            {
+                  "name": "Diving Cenotes dive center",
+                  "text": "The Diving Cenotes center offers diving opportunities in Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.467347,
+                        20.210526
+                  ]
+            },
+            {
+                  "name": "Carlos",
+                  "text": "Carlos is an attraction in Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.456612,
+                        20.208651
+                  ]
+            },
+            {
+                  "name": "No way",
+                  "text": "No way is an unusual attraction in Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.462519,
+                        20.222484
+                  ]
+            },
+            {
+                  "name": "Cenote Aldea Zama",
+                  "text": "The Cenote Aldea Zama is a natural attraction in Tulum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.459147,
+                        20.202838
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "The House of Culture is an arts centre in Tulum.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.462498,
+                        20.208254
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MX-ROO",
     coords: [-87.4654, 20.2114],

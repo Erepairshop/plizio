@@ -165,7 +165,88 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
       en: ["Bahir Dar is located on the southern tip of Lake Tana, Ethiopia's largest lake.", "The city won the UNESCO Cities for Peace Prize in 2002.", "The Blue Nile Falls, located 30km away, are the second largest in Africa.", "Lake Tana contains 37 islands, many of which house ancient monasteries.", "The city sits at an elevation of 1,800 meters (5,905 feet).", "It is a key industrial hub, particularly known for its textile factories.", "Bahir Dar University is a leading institution for water resources research.", "The city's climate is tropical, with a distinct rainy season from June to September."],
     }, image: "/poi-images/bahir-dar-cities-v2.webp"},
   {
-    id: "dessie-cities-v2",
+    id: "dessie-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "የንጉስ ሚካኤል ቤተ መንግስት አይጠየፍ አዳራሽ",
+                  "text": "Der Palast von König Mikael ist eine historische Burganlage in Dessie.",
+                  "category": "castle",
+                  "coords": [
+                        39.639094,
+                        11.110614
+                  ]
+            },
+            {
+                  "name": "ኡስማን",
+                  "text": "Usman ist ein lokaler Anziehungspunkt in Dessie.",
+                  "category": "landmark",
+                  "coords": [
+                        39.631445,
+                        11.147786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "የንጉስ ሚካኤል ቤተ መንግስት አይጠየፍ አዳራሽ",
+                  "text": "Mikael király palotája egy történelmi várépület Dessie városában.",
+                  "category": "castle",
+                  "coords": [
+                        39.639094,
+                        11.110614
+                  ]
+            },
+            {
+                  "name": "ኡስማን",
+                  "text": "Az Usman egy helyi látványosság Dessie városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.631445,
+                        11.147786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "የንጉስ ሚካኤል ቤተ መንግስት አይጠየፍ አዳራሽ",
+                  "text": "Palatul Regelui Mikael este o structură de castel istorică situată în Dessie.",
+                  "category": "castle",
+                  "coords": [
+                        39.639094,
+                        11.110614
+                  ]
+            },
+            {
+                  "name": "ኡስማን",
+                  "text": "Usman este un punct de atracție local situat în Dessie.",
+                  "category": "landmark",
+                  "coords": [
+                        39.631445,
+                        11.147786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "የንጉስ ሚካኤል ቤተ መንግስት አይጠየፍ አዳራሽ",
+                  "text": "King Mikael's Palace is a historic castle structure situated in Dessie.",
+                  "category": "castle",
+                  "coords": [
+                        39.639094,
+                        11.110614
+                  ]
+            },
+            {
+                  "name": "ኡስማን",
+                  "text": "Usman is a local point of attraction located in Dessie.",
+                  "category": "landmark",
+                  "coords": [
+                        39.631445,
+                        11.147786
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-AM",
     coords: [39.6333, 11.1333],
@@ -333,7 +414,88 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "shashamane-cities-v2",
+    id: "shashamane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Black Lion Museum",
+                  "text": "Das Black Lion Museum ist eine kulturelle Einrichtung in Shashamane.",
+                  "category": "museum",
+                  "coords": [
+                        38.618021,
+                        7.211347
+                  ]
+            },
+            {
+                  "name": "Banana Art Gallery",
+                  "text": "Die Banana Art Gallery ist ein Kunstzentrum, das lokale Werke in Shashamane ausstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        38.615041,
+                        7.214972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Black Lion Museum",
+                  "text": "A Fekete Oroszlán Múzeum egy kulturális intézmény Shashamane városában.",
+                  "category": "museum",
+                  "coords": [
+                        38.618021,
+                        7.211347
+                  ]
+            },
+            {
+                  "name": "Banana Art Gallery",
+                  "text": "A Banana Art Gallery egy helyi alkotásokat bemutató művészeti központ Shashamane-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        38.615041,
+                        7.214972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Black Lion Museum",
+                  "text": "Muzeul Leul Negru este o instituție culturală situată în Shashamane.",
+                  "category": "museum",
+                  "coords": [
+                        38.618021,
+                        7.211347
+                  ]
+            },
+            {
+                  "name": "Banana Art Gallery",
+                  "text": "Banana Art Gallery este un centru de artă care expune lucrări locale în Shashamane.",
+                  "category": "cultural",
+                  "coords": [
+                        38.615041,
+                        7.214972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Black Lion Museum",
+                  "text": "The Black Lion Museum is a cultural institution located in Shashamane.",
+                  "category": "museum",
+                  "coords": [
+                        38.618021,
+                        7.211347
+                  ]
+            },
+            {
+                  "name": "Banana Art Gallery",
+                  "text": "The Banana Art Gallery is an arts centre showcasing local works in Shashamane.",
+                  "category": "cultural",
+                  "coords": [
+                        38.615041,
+                        7.214972
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-OR",
     coords: [38.6, 7.2],
@@ -429,7 +591,88 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "arba-minch-cities-v2",
+    id: "arba-minch-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paradise Lodge Pool",
+                  "text": "Der Paradise Lodge Pool ist eine Attraktion in der Stadt Arba Minch.",
+                  "category": "landmark",
+                  "coords": [
+                        37.554296,
+                        6.008482
+                  ]
+            },
+            {
+                  "name": "Restaurant",
+                  "text": "Dies ist eine gastronomische Attraktion in der Stadt Arba Minch.",
+                  "category": "landmark",
+                  "coords": [
+                        37.555274,
+                        6.008847
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paradise Lodge Pool",
+                  "text": "A Paradise Lodge Pool egy látványosság Arba Minch városában.",
+                  "category": "landmark",
+                  "coords": [
+                        37.554296,
+                        6.008482
+                  ]
+            },
+            {
+                  "name": "Restaurant",
+                  "text": "Ez egy éttermi látványosság Arba Minch városában.",
+                  "category": "landmark",
+                  "coords": [
+                        37.555274,
+                        6.008847
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paradise Lodge Pool",
+                  "text": "Paradise Lodge Pool este o atracție situată în orașul Arba Minch.",
+                  "category": "landmark",
+                  "coords": [
+                        37.554296,
+                        6.008482
+                  ]
+            },
+            {
+                  "name": "Restaurant",
+                  "text": "Aceasta este o atracție culinară situată în orașul Arba Minch.",
+                  "category": "landmark",
+                  "coords": [
+                        37.555274,
+                        6.008847
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paradise Lodge Pool",
+                  "text": "Paradise Lodge Pool is an attraction located in the city of Arba Minch.",
+                  "category": "landmark",
+                  "coords": [
+                        37.554296,
+                        6.008482
+                  ]
+            },
+            {
+                  "name": "Restaurant",
+                  "text": "This is a dining attraction located in the city of Arba Minch.",
+                  "category": "landmark",
+                  "coords": [
+                        37.555274,
+                        6.008847
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-SN",
     coords: [37.55, 6.0333],
@@ -465,7 +708,808 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "hosaena-cities-v2",
+    id: "hosaena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ቍርኣን ከነዚያ",
+                  "text": "Hossa'ina ist ein Denkmal in der Stadt Hosaena.",
+                  "category": "historical",
+                  "coords": [
+                        37.854724,
+                        7.54772
+                  ]
+            },
+            {
+                  "name": "Gofer Meda",
+                  "text": "ጎፈር ሜዳ (Gofer Meda) ist eine lokale Attraktion in der Stadt Hosaena.",
+                  "category": "landmark",
+                  "coords": [
+                        37.860553,
+                        7.560521
+                  ]
+            },
+            {
+                  "name": "St. Arsema Church",
+                  "text": "ቅድስት አርሴማ (St. Arsema) ist eine Attraktion und ein Wahrzeichen in Hosaena.",
+                  "category": "landmark",
+                  "coords": [
+                        37.841112,
+                        7.525068
+                  ]
+            },
+            {
+                  "name": "ኮለ በዛብህ ጴጥሮስ",
+                  "text": "Col Bezabih Petros ist ein lokales Denkmal in Hosaena.",
+                  "category": "historical",
+                  "coords": [
+                        37.852501,
+                        7.550132
+                  ]
+            },
+            {
+                  "name": "መሳለሚያ ሰፈር",
+                  "text": "Mesalemiya ist ein Aussichtspunkt, der Blicke über Hosaena bietet.",
+                  "category": "natural",
+                  "coords": [
+                        37.853565,
+                        7.553724
+                  ]
+            },
+            {
+                  "name": "ዘበኛ ሠፈር",
+                  "text": "Zebegna ist ein ausgewiesener Aussichtspunkt in der Stadt Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.854515,
+                        7.540496
+                  ]
+            },
+            {
+                  "name": "ሉሲድ ሠፈር",
+                  "text": "Lucid ist ein Aussichtspunkt in Hosaena, der Blicke auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        37.86355,
+                        7.541502
+                  ]
+            },
+            {
+                  "name": "18 Mazoria",
+                  "text": "18 ማዞሪያ (18 Mazoriya) ist ein lokaler Aussichtspunkt in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.85799,
+                        7.534659
+                  ]
+            },
+            {
+                  "name": "ተይዋን",
+                  "text": "Taiwan ist ein Aussichtspunkt in der Stadt Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.852925,
+                        7.545998
+                  ]
+            },
+            {
+                  "name": "ኮንተም መነሓሪያ",
+                  "text": "Kontom Menaharia ist ein landschaftlich reizvoller Aussichtspunkt in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.852956,
+                        7.555981
+                  ]
+            },
+            {
+                  "name": "ጎፈር ሜዳ",
+                  "text": "Gofer Meda ist ein lokaler Aussichtspunkt in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.859488,
+                        7.564335
+                  ]
+            },
+            {
+                  "name": "ውሃልማት",
+                  "text": "ውሃልማት (Wuhalemat) ist ein Aussichtspunkt in der Stadt Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.864046,
+                        7.556401
+                  ]
+            },
+            {
+                  "name": "ማብራት ሀይል",
+                  "text": "ማብራት ሀይል (Mebrat Hail) ist ein ausgewiesener Aussichtspunkt in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.862297,
+                        7.556044
+                  ]
+            },
+            {
+                  "name": "ናራሞ",
+                  "text": "Naramo ist ein landschaftlicher Aussichtspunkt in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.863853,
+                        7.571787
+                  ]
+            },
+            {
+                  "name": "ዋንዛ ሰፈር",
+                  "text": "Wanza ist ein Aussichtspunkt in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.850833,
+                        7.559096
+                  ]
+            },
+            {
+                  "name": "ጎንቦራ ሰፈር",
+                  "text": "Gonbora ist ein lokaler Aussichtspunkt in der Stadt Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.853031,
+                        7.561666
+                  ]
+            },
+            {
+                  "name": "ጉድጓዴ ሠፈር",
+                  "text": "Gudguade ist ein malerischer Aussichtspunkt in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.848838,
+                        7.561817
+                  ]
+            },
+            {
+                  "name": "አራዳ ሠፈር",
+                  "text": "Arada ist ein Aussichtspunkt in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.853849,
+                        7.539429
+                  ]
+            },
+            {
+                  "name": "አበራ ወንዝ ሠፈር",
+                  "text": "Abera Wonz ist ein Aussichtspunkt in der Stadt Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.865067,
+                        7.550512
+                  ]
+            },
+            {
+                  "name": "ኬንቴሪ ሰፈር",
+                  "text": "Kentetia ist ein ausgewiesener Aussichtspunkt in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.852971,
+                        7.552669
+                  ]
+            },
+            {
+                  "name": "ቄራ",
+                  "text": "Kera ist ein lokaler Aussichtspunkt in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.86075,
+                        7.5351
+                  ]
+            },
+            {
+                  "name": "Projected site 0+200",
+                  "text": "Projected site 0+200 ist ein Attraktionsgelände in Hosaena.",
+                  "category": "landmark",
+                  "coords": [
+                        37.864201,
+                        7.566216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ቍርኣን ከነዚያ",
+                  "text": "A Hossa'ina egy emlékmű Hosaena városában.",
+                  "category": "historical",
+                  "coords": [
+                        37.854724,
+                        7.54772
+                  ]
+            },
+            {
+                  "name": "Gofer Meda",
+                  "text": "A ጎፈር ሜዳ (Gofer Meda) egy helyi látványosság Hosaena városában.",
+                  "category": "landmark",
+                  "coords": [
+                        37.860553,
+                        7.560521
+                  ]
+            },
+            {
+                  "name": "St. Arsema Church",
+                  "text": "A ቅድስት አርሴማ (Szent Arsema) egy látványosság Hosaena városában.",
+                  "category": "landmark",
+                  "coords": [
+                        37.841112,
+                        7.525068
+                  ]
+            },
+            {
+                  "name": "ኮለ በዛብህ ጴጥሮስ",
+                  "text": "A Col Bezabih Petros egy helyi emlékmű Hosaena városában.",
+                  "category": "historical",
+                  "coords": [
+                        37.852501,
+                        7.550132
+                  ]
+            },
+            {
+                  "name": "መሳለሚያ ሰፈር",
+                  "text": "A Mesalemiya egy kilátó Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.853565,
+                        7.553724
+                  ]
+            },
+            {
+                  "name": "ዘበኛ ሠፈር",
+                  "text": "A Zebegna egy kijelölt kilátópont Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.854515,
+                        7.540496
+                  ]
+            },
+            {
+                  "name": "ሉሲድ ሠፈር",
+                  "text": "A Lucid egy kilátó Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.86355,
+                        7.541502
+                  ]
+            },
+            {
+                  "name": "18 Mazoria",
+                  "text": "A 18 ማዞሪያ (18 Mazoriya) egy helyi kilátó Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.85799,
+                        7.534659
+                  ]
+            },
+            {
+                  "name": "ተይዋን",
+                  "text": "A Taiwan egy kilátópont Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.852925,
+                        7.545998
+                  ]
+            },
+            {
+                  "name": "ኮንተም መነሓሪያ",
+                  "text": "A Kontom Menaharia egy festői kilátó Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.852956,
+                        7.555981
+                  ]
+            },
+            {
+                  "name": "ጎፈር ሜዳ",
+                  "text": "A Gofer Meda egy helyi kilátó Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.859488,
+                        7.564335
+                  ]
+            },
+            {
+                  "name": "ውሃልማት",
+                  "text": "A ውሃልማት (Wuhalemat) egy kilátópont Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.864046,
+                        7.556401
+                  ]
+            },
+            {
+                  "name": "ማብራት ሀይል",
+                  "text": "A ማብራት ሀይል (Mebrat Hail) egy kijelölt kilátó Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.862297,
+                        7.556044
+                  ]
+            },
+            {
+                  "name": "ናራሞ",
+                  "text": "A Naramo egy festői megfigyelőpont Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.863853,
+                        7.571787
+                  ]
+            },
+            {
+                  "name": "ዋንዛ ሰፈር",
+                  "text": "A Wanza egy kilátó Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.850833,
+                        7.559096
+                  ]
+            },
+            {
+                  "name": "ጎንቦራ ሰፈር",
+                  "text": "A Gonbora egy helyi kilátópont Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.853031,
+                        7.561666
+                  ]
+            },
+            {
+                  "name": "ጉድጓዴ ሠፈር",
+                  "text": "A Gudguade egy festői kilátó Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.848838,
+                        7.561817
+                  ]
+            },
+            {
+                  "name": "አራዳ ሠፈር",
+                  "text": "Az Arada egy megfigyelőpontot kínáló kilátó Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.853849,
+                        7.539429
+                  ]
+            },
+            {
+                  "name": "አበራ ወንዝ ሠፈር",
+                  "text": "Az Abera Wonz egy kilátóhely Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.865067,
+                        7.550512
+                  ]
+            },
+            {
+                  "name": "ኬንቴሪ ሰፈር",
+                  "text": "A Kentetia egy kijelölt kilátó Hosaena területén.",
+                  "category": "natural",
+                  "coords": [
+                        37.852971,
+                        7.552669
+                  ]
+            },
+            {
+                  "name": "ቄራ",
+                  "text": "A Kera egy helyi kilátó Hosaena városában.",
+                  "category": "natural",
+                  "coords": [
+                        37.86075,
+                        7.5351
+                  ]
+            },
+            {
+                  "name": "Projected site 0+200",
+                  "text": "A Projected site 0+200 egy látványossági terület Hosaena városában.",
+                  "category": "landmark",
+                  "coords": [
+                        37.864201,
+                        7.566216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ቍርኣን ከነዚያ",
+                  "text": "Hossa'ina este un monument situat în orașul Hosaena.",
+                  "category": "historical",
+                  "coords": [
+                        37.854724,
+                        7.54772
+                  ]
+            },
+            {
+                  "name": "Gofer Meda",
+                  "text": "ጎፈር ሜዳ (Gofer Meda) este o atracție locală situată în orașul Hosaena.",
+                  "category": "landmark",
+                  "coords": [
+                        37.860553,
+                        7.560521
+                  ]
+            },
+            {
+                  "name": "St. Arsema Church",
+                  "text": "ቅድስት አርሴማ (Sfânta Arsema) este o atracție situată în Hosaena.",
+                  "category": "landmark",
+                  "coords": [
+                        37.841112,
+                        7.525068
+                  ]
+            },
+            {
+                  "name": "ኮለ በዛብህ ጴጥሮስ",
+                  "text": "Col Bezabih Petros este un monument local situat în Hosaena.",
+                  "category": "historical",
+                  "coords": [
+                        37.852501,
+                        7.550132
+                  ]
+            },
+            {
+                  "name": "መሳለሚያ ሰፈር",
+                  "text": "Mesalemiya este un punct de belvedere situat în orașul Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.853565,
+                        7.553724
+                  ]
+            },
+            {
+                  "name": "ዘበኛ ሠፈር",
+                  "text": "Zebegna este un punct de belvedere desemnat în orașul Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.854515,
+                        7.540496
+                  ]
+            },
+            {
+                  "name": "ሉሲድ ሠፈር",
+                  "text": "Lucid este un punct de belvedere situat în Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.86355,
+                        7.541502
+                  ]
+            },
+            {
+                  "name": "18 Mazoria",
+                  "text": "18 ማዞሪያ (18 Mazoriya) este un punct de belvedere local situat în Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.85799,
+                        7.534659
+                  ]
+            },
+            {
+                  "name": "ተይዋን",
+                  "text": "Taiwan este un punct de belvedere situat în orașul Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.852925,
+                        7.545998
+                  ]
+            },
+            {
+                  "name": "ኮንተም መነሓሪያ",
+                  "text": "Kontom Menaharia este un punct de belvedere pitoresc situat în Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.852956,
+                        7.555981
+                  ]
+            },
+            {
+                  "name": "ጎፈር ሜዳ",
+                  "text": "Gofer Meda este un punct de belvedere local situat în Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.859488,
+                        7.564335
+                  ]
+            },
+            {
+                  "name": "ውሃልማት",
+                  "text": "ውሃልማት (Wuhalemat) este un punct de belvedere situat în orașul Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.864046,
+                        7.556401
+                  ]
+            },
+            {
+                  "name": "ማብራት ሀይል",
+                  "text": "ማብራት ሀይል (Mebrat Hail) este un punct de belvedere desemnat în Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.862297,
+                        7.556044
+                  ]
+            },
+            {
+                  "name": "ናራሞ",
+                  "text": "Naramo este un punct de observație pitoresc situat în Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.863853,
+                        7.571787
+                  ]
+            },
+            {
+                  "name": "ዋንዛ ሰፈር",
+                  "text": "Wanza este un punct de belvedere situat în Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.850833,
+                        7.559096
+                  ]
+            },
+            {
+                  "name": "ጎንቦራ ሰፈር",
+                  "text": "Gonbora este un punct de belvedere local situat în orașul Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.853031,
+                        7.561666
+                  ]
+            },
+            {
+                  "name": "ጉድጓዴ ሠፈር",
+                  "text": "Gudguade este un punct de belvedere pitoresc situat în Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.848838,
+                        7.561817
+                  ]
+            },
+            {
+                  "name": "አራዳ ሠፈር",
+                  "text": "Arada este un punct de belvedere în Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.853849,
+                        7.539429
+                  ]
+            },
+            {
+                  "name": "አበራ ወንዝ ሠፈር",
+                  "text": "Abera Wonz este o zonă de belvedere situată în orașul Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.865067,
+                        7.550512
+                  ]
+            },
+            {
+                  "name": "ኬንቴሪ ሰፈር",
+                  "text": "Kentetia este un punct de belvedere situat în Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.852971,
+                        7.552669
+                  ]
+            },
+            {
+                  "name": "ቄራ",
+                  "text": "Kera este un punct de belvedere local din Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.86075,
+                        7.5351
+                  ]
+            },
+            {
+                  "name": "Projected site 0+200",
+                  "text": "Projected site 0+200 este o zonă de atracție situată în Hosaena.",
+                  "category": "landmark",
+                  "coords": [
+                        37.864201,
+                        7.566216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hossa'ina",
+                  "text": "Hossa'ina is a monument marking a point of interest in the city of Hosaena.",
+                  "category": "historical",
+                  "coords": [
+                        37.854724,
+                        7.54772
+                  ]
+            },
+            {
+                  "name": "ጎፈር ሜዳ",
+                  "text": "ጎፈር ሜዳ (Gofer Meda) is a local attraction situated in the city of Hosaena.",
+                  "category": "landmark",
+                  "coords": [
+                        37.860553,
+                        7.560521
+                  ]
+            },
+            {
+                  "name": "ቅድስት አርሴማ",
+                  "text": "ቅድስት አርሴማ (St. Arsema) is an attraction and prominent landmark in Hosaena.",
+                  "category": "landmark",
+                  "coords": [
+                        37.841112,
+                        7.525068
+                  ]
+            },
+            {
+                  "name": "Col Bezabih Petros",
+                  "text": "Col Bezabih Petros is a local monument found in Hosaena.",
+                  "category": "historical",
+                  "coords": [
+                        37.852501,
+                        7.550132
+                  ]
+            },
+            {
+                  "name": "Mesalemiya",
+                  "text": "Mesalemiya is a scenic viewpoint offering views across Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.853565,
+                        7.553724
+                  ]
+            },
+            {
+                  "name": "Zebegna",
+                  "text": "Zebegna is a designated viewpoint located in the city of Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.854515,
+                        7.540496
+                  ]
+            },
+            {
+                  "name": "Lucid",
+                  "text": "Lucid is a viewpoint situated in Hosaena, providing views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        37.86355,
+                        7.541502
+                  ]
+            },
+            {
+                  "name": "18 ማዞሪያ",
+                  "text": "18 ማዞሪያ (18 Mazoriya) is a local viewpoint found in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.85799,
+                        7.534659
+                  ]
+            },
+            {
+                  "name": "Taiwan",
+                  "text": "Taiwan is a designated viewpoint located in the city of Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.852925,
+                        7.545998
+                  ]
+            },
+            {
+                  "name": "Kontom Menaharia",
+                  "text": "Kontom Menaharia is a scenic viewpoint positioned in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.852956,
+                        7.555981
+                  ]
+            },
+            {
+                  "name": "Gofer Meda",
+                  "text": "Gofer Meda is a local viewpoint providing observation spots in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.859488,
+                        7.564335
+                  ]
+            },
+            {
+                  "name": "ውሃልማት",
+                  "text": "ውሃልማት (Wuhalemat) is a viewpoint situated in the city of Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.864046,
+                        7.556401
+                  ]
+            },
+            {
+                  "name": "ማብራት ሀይል",
+                  "text": "ማብራት ሀይል (Mebrat Hail) is a designated viewpoint found in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.862297,
+                        7.556044
+                  ]
+            },
+            {
+                  "name": "Naramo",
+                  "text": "Naramo is a scenic observation viewpoint located in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.863853,
+                        7.571787
+                  ]
+            },
+            {
+                  "name": "Wanza",
+                  "text": "Wanza is a viewpoint located in Hosaena, offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        37.850833,
+                        7.559096
+                  ]
+            },
+            {
+                  "name": "Gonbora",
+                  "text": "Gonbora is a local viewpoint set within the city of Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.853031,
+                        7.561666
+                  ]
+            },
+            {
+                  "name": "Gudguade",
+                  "text": "Gudguade is a scenic viewpoint situated in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.848838,
+                        7.561817
+                  ]
+            },
+            {
+                  "name": "Arada",
+                  "text": "Arada is a viewpoint offering vantage observation spots in Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.853849,
+                        7.539429
+                  ]
+            },
+            {
+                  "name": "Abera Wonz",
+                  "text": "Abera Wonz is a viewpoint area located in the city of Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.865067,
+                        7.550512
+                  ]
+            },
+            {
+                  "name": "Kentetia",
+                  "text": "Kentetia is a designated viewpoint situated within Hosaena.",
+                  "category": "natural",
+                  "coords": [
+                        37.852971,
+                        7.552669
+                  ]
+            },
+            {
+                  "name": "Kera",
+                  "text": "Kera is a local viewpoint in Hosaena providing scenic area views.",
+                  "category": "natural",
+                  "coords": [
+                        37.86075,
+                        7.5351
+                  ]
+            },
+            {
+                  "name": "Projected site 0+200",
+                  "text": "Projected site 0+200 is an attraction site located in Hosaena.",
+                  "category": "landmark",
+                  "coords": [
+                        37.864201,
+                        7.566216
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-SN",
     coords: [37.85, 7.55],
@@ -537,7 +1581,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "nekemte-cities-v2",
+    id: "nekemte-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "wollega Museum",
+                  "text": "Das Wollega Museum ist eine kulturelle Einrichtung in der Stadt Nekemte.",
+                  "category": "museum",
+                  "coords": [
+                        36.546887,
+                        9.090695
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "wollega Museum",
+                  "text": "A Wollega Múzeum egy kulturális intézmény Nekemte városában.",
+                  "category": "museum",
+                  "coords": [
+                        36.546887,
+                        9.090695
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "wollega Museum",
+                  "text": "Muzeul Wollega este o instituție culturală situată în orașul Nekemte.",
+                  "category": "museum",
+                  "coords": [
+                        36.546887,
+                        9.090695
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "wollega Museum",
+                  "text": "Wollega Museum is a cultural institution situated in the city of Nekemte.",
+                  "category": "museum",
+                  "coords": [
+                        36.546887,
+                        9.090695
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-OR",
     coords: [36.55, 9.0833],
@@ -609,7 +1698,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kombolcha-cities-v2",
+    id: "kombolcha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shibiin area",
+                  "text": "Das Shibiin-Gebiet dient als malerischer Aussichtspunkt in Kombolcha.",
+                  "category": "natural",
+                  "coords": [
+                        39.75095,
+                        11.082463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shibiin area",
+                  "text": "A Shibiin terület egy festői kilátóhely Kombolcha városában.",
+                  "category": "natural",
+                  "coords": [
+                        39.75095,
+                        11.082463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shibiin area",
+                  "text": "Zona Shibiin servește drept punct de belvedere pitoresc în Kombolcha.",
+                  "category": "natural",
+                  "coords": [
+                        39.75095,
+                        11.082463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shibiin area",
+                  "text": "The Shibiin area serves as a scenic viewpoint in Kombolcha.",
+                  "category": "natural",
+                  "coords": [
+                        39.75095,
+                        11.082463
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-AM",
     coords: [39.7333, 11.0833],
@@ -645,7 +1779,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "debre-birhan-cities-v2",
+    id: "debre-birhan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ደ/ብርሀን ኢድ አደባባይ",
+                  "text": "Die Debrebirhan Eid Street ist eine lokale Attraktion in Debre Birhan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52685,
+                        9.672599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ደ/ብርሀን ኢድ አደባባይ",
+                  "text": "A Debrebirhan Eid Street egy helyi látványosság Debre Birhan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52685,
+                        9.672599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ደ/ብርሀን ኢድ አደባባይ",
+                  "text": "Debrebirhan Eid Street este o atracție locală situată în Debre Birhan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52685,
+                        9.672599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Debrebirhan Eid Street",
+                  "text": "Debrebirhan Eid Street is a local attraction located in Debre Birhan.",
+                  "category": "landmark",
+                  "coords": [
+                        39.52685,
+                        9.672599
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-AM",
     coords: [39.5333, 9.6833],
@@ -825,7 +2004,88 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "adigrat-cities-v2",
+    id: "adigrat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hahu hitel 250",
+                  "text": "Das Hahu Hotel ist eine bekannte Attraktion im Gastgewerbe von Adigrat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.462553,
+                        14.278243
+                  ]
+            },
+            {
+                  "name": "ኒው ሚሌኒየም ፓርክ New Millennium Park",
+                  "text": "Der New Millennium Park ist eine öffentliche Freizeitattraktion in Adigrat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.472656,
+                        14.279746
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hahu hitel 250",
+                  "text": "A Hahu Hotel egy kiemelkedő vendéglátóipari látványosság Adigratban.",
+                  "category": "landmark",
+                  "coords": [
+                        39.462553,
+                        14.278243
+                  ]
+            },
+            {
+                  "name": "ኒው ሚሌኒየም ፓርክ New Millennium Park",
+                  "text": "A New Millennium Park egy nyilvános rekreációs látványosság Adigrat városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.472656,
+                        14.279746
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hahu hitel 250",
+                  "text": "Hotelul Hahu este o atracție proeminentă din domeniul ospitalității situată în Adigrat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.462553,
+                        14.278243
+                  ]
+            },
+            {
+                  "name": "ኒው ሚሌኒየም ፓርክ New Millennium Park",
+                  "text": "Parcul New Millennium este o atracție recreativă publică situată în Adigrat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.472656,
+                        14.279746
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hahu Hotel",
+                  "text": "Hahu Hotel is a prominent hospitality attraction situated in Adigrat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.462553,
+                        14.278243
+                  ]
+            },
+            {
+                  "name": "ኒው ሚሌኒየም ፓርክ New Millennium Park",
+                  "text": "New Millennium Park is a public recreational attraction located in Adigrat.",
+                  "category": "landmark",
+                  "coords": [
+                        39.472656,
+                        14.279746
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-TI",
     coords: [39.4667, 14.2667],
@@ -969,7 +2229,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "shire-cities-v2",
+    id: "shire-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ሓየሎም ኣደባባይ",
+                  "text": "Hayelom Adebabay ist ein Denkmal in der Stadt Shire.",
+                  "category": "historical",
+                  "coords": [
+                        38.283575,
+                        14.101515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ሓየሎም ኣደባባይ",
+                  "text": "A Hayelom Adebabay egy emlékmű Shire városában.",
+                  "category": "historical",
+                  "coords": [
+                        38.283575,
+                        14.101515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ሓየሎም ኣደባባይ",
+                  "text": "Hayelom Adebabay este un monument situat în orașul Shire.",
+                  "category": "historical",
+                  "coords": [
+                        38.283575,
+                        14.101515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hayelom Adebabay",
+                  "text": "Hayelom Adebabay is a monument situated in the city of Shire.",
+                  "category": "historical",
+                  "coords": [
+                        38.283575,
+                        14.101515
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-TI",
     coords: [38.2833, 14.1],
@@ -1377,7 +2682,52 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "ziway-cities-v2",
+    id: "ziway-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "프리프트 레스토랑",
+                  "text": "Dieses Restaurant ist eine kulinarische Attraktion in der Stadt Batu.",
+                  "category": "landmark",
+                  "coords": [
+                        38.714436,
+                        7.9215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "프리프트 레스토랑",
+                  "text": "Ez az étterem egy gasztronómiai látványosság Batu városában.",
+                  "category": "landmark",
+                  "coords": [
+                        38.714436,
+                        7.9215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "프리프트 레스토랑",
+                  "text": "Acest restaurant este o atracție culinară situată în orașul Batu.",
+                  "category": "landmark",
+                  "coords": [
+                        38.714436,
+                        7.9215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "프리프트 레스토랑",
+                  "text": "This restaurant is a dining attraction located in the city of Batu.",
+                  "category": "landmark",
+                  "coords": [
+                        38.714436,
+                        7.9215
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-OR",
     coords: [38.7167, 7.9333],
@@ -1773,7 +3123,124 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gode-cities-v2",
+    id: "gode-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zonal Administrator House ",
+                  "text": "Das Zonal Administrator House ist ein bemerkenswertes schlossähnliches Gebäude in Gode.",
+                  "category": "castle",
+                  "coords": [
+                        43.551626,
+                        5.947405
+                  ]
+            },
+            {
+                  "name": "waterhole",
+                  "text": "Das Wasserloch ist eine Naturattraktion in der Gegend von Gode.",
+                  "category": "landmark",
+                  "coords": [
+                        43.540322,
+                        5.94364
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "Die Brücke ist eine lokale Sehenswürdigkeit in Gode.",
+                  "category": "landmark",
+                  "coords": [
+                        43.550908,
+                        5.924039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zonal Administrator House ",
+                  "text": "A Zonal Administrator House egy jelentős kastély jellegű épület Gode városában.",
+                  "category": "castle",
+                  "coords": [
+                        43.551626,
+                        5.947405
+                  ]
+            },
+            {
+                  "name": "waterhole",
+                  "text": "A vizes élőhely (waterhole) egy látványosság Gode térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.540322,
+                        5.94364
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "A híd egy helyi látványosság Gode városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.550908,
+                        5.924039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zonal Administrator House ",
+                  "text": "Zonal Administrator House este o clădire notabilă în stil de castel situată în Gode.",
+                  "category": "castle",
+                  "coords": [
+                        43.551626,
+                        5.947405
+                  ]
+            },
+            {
+                  "name": "waterhole",
+                  "text": "Ochiul de apă (waterhole) este o atracție situată în zona Gode.",
+                  "category": "landmark",
+                  "coords": [
+                        43.540322,
+                        5.94364
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "Podul este o atracție locală situată în Gode.",
+                  "category": "landmark",
+                  "coords": [
+                        43.550908,
+                        5.924039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zonal Administrator House ",
+                  "text": "The Zonal Administrator House is a notable castle-style building located in Gode.",
+                  "category": "castle",
+                  "coords": [
+                        43.551626,
+                        5.947405
+                  ]
+            },
+            {
+                  "name": "waterhole",
+                  "text": "The waterhole is an attraction situated in the area of Gode.",
+                  "category": "landmark",
+                  "coords": [
+                        43.540322,
+                        5.94364
+                  ]
+            },
+            {
+                  "name": "Bridge",
+                  "text": "The Bridge is a local infrastructural attraction found in Gode.",
+                  "category": "landmark",
+                  "coords": [
+                        43.550908,
+                        5.924039
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-SO",
     coords: [43.55, 5.95],
@@ -1881,7 +3348,88 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "warder-cities-v2",
+    id: "warder-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Talaalaha",
+                  "text": "Talaalaha ist eine Touristenattraktion in der Stadt Warder.",
+                  "category": "landmark",
+                  "coords": [
+                        45.34181,
+                        6.973948
+                  ]
+            },
+            {
+                  "name": "Qudhacle ",
+                  "text": "Qudhacle ist eine Sehenswürdigkeit in Warder.",
+                  "category": "landmark",
+                  "coords": [
+                        45.337609,
+                        6.970309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Talaalaha",
+                  "text": "A Talaalaha egy turisztikai látványosság Warder városában.",
+                  "category": "landmark",
+                  "coords": [
+                        45.34181,
+                        6.973948
+                  ]
+            },
+            {
+                  "name": "Qudhacle ",
+                  "text": "A Qudhacle egy látványosság Warder városában.",
+                  "category": "landmark",
+                  "coords": [
+                        45.337609,
+                        6.970309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Talaalaha",
+                  "text": "Talaalaha este o atracție turistică situată în orașul Warder.",
+                  "category": "landmark",
+                  "coords": [
+                        45.34181,
+                        6.973948
+                  ]
+            },
+            {
+                  "name": "Qudhacle ",
+                  "text": "Qudhacle este o atracție situată în Warder.",
+                  "category": "landmark",
+                  "coords": [
+                        45.337609,
+                        6.970309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Talaalaha",
+                  "text": "Talaalaha is a tourist attraction located in the city of Warder.",
+                  "category": "landmark",
+                  "coords": [
+                        45.34181,
+                        6.973948
+                  ]
+            },
+            {
+                  "name": "Qudhacle ",
+                  "text": "Qudhacle is a point of interest and attraction situated in Warder.",
+                  "category": "landmark",
+                  "coords": [
+                        45.337609,
+                        6.970309
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ET-SO",
     coords: [45.3333, 6.9667],

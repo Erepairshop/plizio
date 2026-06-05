@@ -88,7 +88,1672 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["La Plata was founded on November 19, 1882, by Governor Dardo Rocha.", "The city was the first in Latin America to have electric street lighting.", "The Neo-Gothic Cathedral of La Plata is made of over 5 million bricks.", "The city layout was inspired by the works of Jules Verne and rationalist ideals.", "La Plata Museum is ranked among the top natural history museums in the world.", "The city was renamed 'Ciudad Eva Perón' from 1952 to 1955.", "There are public parks at the intersection of every major diagonal avenue.", "The Curutchet House, designed by Le Corbusier, is a UNESCO World Heritage site."],
     }, image: "/poi-images/ar-b-la-plata-cities-v2.webp"},
   {
-    id: "ar-b-mar-del-plata-cities-v2",
+    id: "ar-b-mar-del-plata-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Municipal de Arte Juan Carlos Castagnino",
+                  "text": "Das Museo Municipal de Arte Juan Carlos Castagnino ist ein Kunstmuseum in Mar del Plata, das in der historischen Villa Ortiz Basualdo untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -57.535764,
+                        -38.010419
+                  ]
+            },
+            {
+                  "name": "Museo Casa sobre el Arroyo",
+                  "text": "Das Museo Casa sobre el Arroyo ist ein bekanntes Museum in Mar del Plata, das ursprünglich als Brückenhaus über einem Bachlauf entworfen wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -57.573714,
+                        -38.008731
+                  ]
+            },
+            {
+                  "name": "Catedral de los Santos Pedro y Cecilia",
+                  "text": "Die Catedral de los Santos Pedro y Cecilia ist die wichtigste katholische Kathedrale in der Stadt Mar del Plata.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548977,
+                        -37.999002
+                  ]
+            },
+            {
+                  "name": "Playa Bristol",
+                  "text": "Playa Bristol ist einer der bekanntesten und beliebtesten öffentlichen Strände in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.540088,
+                        -38.004168
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorium",
+                  "text": "Das Teatro Auditorium ist ein Theater in der Stadt Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.541859,
+                        -38.004733
+                  ]
+            },
+            {
+                  "name": "Archivo Museo Histórico Municipal 'Don Roberto T. Barili'",
+                  "text": "Das Archivo Museo Histórico Municipal 'Don Roberto T. Barili' ist ein Museum in Mar del Plata.",
+                  "category": "museum",
+                  "coords": [
+                        -57.55251,
+                        -38.020761
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Ciencias Naturales 'Lorenzo Scaglia'",
+                  "text": "Das Museo Municipal de Ciencias Naturales 'Lorenzo Scaglia' ist ein Museum in Mar del Plata.",
+                  "category": "museum",
+                  "coords": [
+                        -57.546453,
+                        -37.990927
+                  ]
+            },
+            {
+                  "name": "San Martín",
+                  "text": "San Martín ist ein Denkmal in der Stadt Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.548265,
+                        -37.997639
+                  ]
+            },
+            {
+                  "name": "Naturdenkmal - Historischer Baum: riesiger Ombubaum (Phylotacca dioica) <Zweihäusige Kermesbeere>",
+                  "text": "Natural Monument - Historical tree: giant elephant tree (Phytolacca dioica) ist ein Naturdenkmal in Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.580501,
+                        -38.009316
+                  ]
+            },
+            {
+                  "name": "Almafuerte",
+                  "text": "Almafuerte ist ein Denkmal in der Stadt Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.579146,
+                        -38.009116
+                  ]
+            },
+            {
+                  "name": "General José de San Martín",
+                  "text": "General José de San Martín ist ein Denkmal in Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.529137,
+                        -38.023897
+                  ]
+            },
+            {
+                  "name": "Monumento a Colón",
+                  "text": "Das Monumento a Colón ist ein Denkmal in der Stadt Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.543445,
+                        -38.005686
+                  ]
+            },
+            {
+                  "name": "Chalet Soulignac",
+                  "text": "Das Chalet Soulignac ist ein Herrenhaus in der Stadt Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.531543,
+                        -38.025423
+                  ]
+            },
+            {
+                  "name": "Villa Surula",
+                  "text": "Die Villa Surula ist ein Herrenhaus in Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.528094,
+                        -38.02201
+                  ]
+            },
+            {
+                  "name": "Teatro El Galpón de las Artes",
+                  "text": "Das Teatro El Galpón de las Artes ist ein Theater in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.561997,
+                        -38.003739
+                  ]
+            },
+            {
+                  "name": "Teatro Colon",
+                  "text": "Das Teatro Colon ist ein Theater in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.549768,
+                        -37.997594
+                  ]
+            },
+            {
+                  "name": "Vorterix",
+                  "text": "Vorterix ist ein Theater in der Stadt Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.555217,
+                        -37.999995
+                  ]
+            },
+            {
+                  "name": "Teatro Enrique Carreras",
+                  "text": "Das Teatro Enrique Carreras ist ein Theater in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.543723,
+                        -38.002686
+                  ]
+            },
+            {
+                  "name": "Teatro Neptuno",
+                  "text": "Das Teatro Neptuno ist ein Theater in der Stadt Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.545377,
+                        -38.000811
+                  ]
+            },
+            {
+                  "name": "Mar de Fondo",
+                  "text": "Mar de Fondo ist ein Theater in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.548967,
+                        -37.995866
+                  ]
+            },
+            {
+                  "name": "Centro Cultural del Mar",
+                  "text": "Das Centro Cultural del Mar ist ein Theater in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.542607,
+                        -38.000255
+                  ]
+            },
+            {
+                  "name": "Teatro Mar Del Plata",
+                  "text": "Das Teatro Mar Del Plata ist ein Theater in der Stadt Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.54365,
+                        -37.999768
+                  ]
+            },
+            {
+                  "name": "Escenario Violeta Parra",
+                  "text": "Das Escenario Violeta Parra ist ein Theater in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.543716,
+                        -38.018738
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Osvaldo Soriano",
+                  "text": "Das Centro Cultural Osvaldo Soriano ist ein Kunstzentrum in der Stadt Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.550982,
+                        -37.995289
+                  ]
+            },
+            {
+                  "name": "Plaza del Milenio",
+                  "text": "Die Plaza del Milenio ist eine Attraktion in der Stadt Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543113,
+                        -38.004187
+                  ]
+            },
+            {
+                  "name": "Locomotora Antigua",
+                  "text": "Locomotora Antigua ist eine Attraktion in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.565546,
+                        -37.988425
+                  ]
+            },
+            {
+                  "name": "Casita de Navidad",
+                  "text": "Casita de Navidad ist eine Attraktion in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.569398,
+                        -38.00107
+                  ]
+            },
+            {
+                  "name": "Molinos de viento",
+                  "text": "Molinos de viento ist eine Windmühle in der Stadt Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.54075,
+                        -37.997277
+                  ]
+            },
+            {
+                  "name": "Antigua Estación Mar del Plata Sud",
+                  "text": "Antigua Estación Mar del Plata Sud ist eine Attraktion in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543779,
+                        -38.011786
+                  ]
+            },
+            {
+                  "name": "El Bidetazo",
+                  "text": "El Bidetazo ist eine Attraktion in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.531641,
+                        -38.010634
+                  ]
+            },
+            {
+                  "name": "Explanada Antiguo Club Mar Del Plata",
+                  "text": "Explanada Antiguo Club Mar Del Plata ist eine Attraktion in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541615,
+                        -38.000448
+                  ]
+            },
+            {
+                  "name": "Escalera Imperial",
+                  "text": "Escalera Imperial ist eine Attraktion in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.534862,
+                        -38.008258
+                  ]
+            },
+            {
+                  "name": "Instituto Saturnino Enrique Unzué",
+                  "text": "Instituto Saturnino Enrique Unzué ist eine Attraktion in der Stadt Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.545258,
+                        -37.981779
+                  ]
+            },
+            {
+                  "name": "Torreón del Monje",
+                  "text": "Torreón del Monje ist eine Attraktion in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.533328,
+                        -38.00801
+                  ]
+            },
+            {
+                  "name": "Terrace Palace",
+                  "text": "Terrace Palace ist eine Attraktion in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.533541,
+                        -38.027286
+                  ]
+            },
+            {
+                  "name": "Playa Varese",
+                  "text": "Playa Varese ist ein Strand in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.529401,
+                        -38.016081
+                  ]
+            },
+            {
+                  "name": "Playa Accesible Paula Gasco Owens",
+                  "text": "Playa Accesible Paula Gasco Owens ist ein Strand in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.543803,
+                        -37.983487
+                  ]
+            },
+            {
+                  "name": "Playa Cabo Corrientes",
+                  "text": "Playa Cabo Corrientes ist ein Strand in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.526325,
+                        -38.016324
+                  ]
+            },
+            {
+                  "name": "Playa Popular",
+                  "text": "Playa Popular ist ein Strand in der Stadt Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.540299,
+                        -38.000662
+                  ]
+            },
+            {
+                  "name": "Playa Las Toscas",
+                  "text": "Playa Las Toscas ist ein Strand in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.536356,
+                        -38.006782
+                  ]
+            },
+            {
+                  "name": "Playa La Perla",
+                  "text": "Playa La Perla ist ein Strand in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.54263,
+                        -37.983141
+                  ]
+            },
+            {
+                  "name": "Paseo Hermitage",
+                  "text": "Paseo Hermitage ist ein Strandresort in der Stadt Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.536397,
+                        -38.007962
+                  ]
+            },
+            {
+                  "name": "Costa Galana Beach Life",
+                  "text": "Costa Galana Beach Life ist ein Strandresort in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.531612,
+                        -38.028307
+                  ]
+            },
+            {
+                  "name": "Biología",
+                  "text": "Biología ist ein Strandresort in der Stadt Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.53062,
+                        -38.026725
+                  ]
+            },
+            {
+                  "name": "Balneario Saint Michel",
+                  "text": "Das Balneario Saint Michel ist ein Strandresort in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.54421,
+                        -37.992542
+                  ]
+            },
+            {
+                  "name": "Balneario Paseo Hermitage",
+                  "text": "Das Balneario Paseo Hermitage ist ein Strandresort in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.538617,
+                        -38.006592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Municipal de Arte Juan Carlos Castagnino",
+                  "text": "A Museo Municipal de Arte Juan Carlos Castagnino egy művészeti múzeum Mar del Platában, amely a történelmi Villa Ortiz Basualdo épületében található.",
+                  "category": "museum",
+                  "coords": [
+                        -57.535764,
+                        -38.010419
+                  ]
+            },
+            {
+                  "name": "Museo Casa sobre el Arroyo",
+                  "text": "A Museo Casa sobre el Arroyo egy neves múzeum Mar del Platában, amelyet eredetileg egy patak feletti hídházként terveztek.",
+                  "category": "museum",
+                  "coords": [
+                        -57.573714,
+                        -38.008731
+                  ]
+            },
+            {
+                  "name": "Catedral de los Santos Pedro y Cecilia",
+                  "text": "A Catedral de los Santos Pedro y Cecilia a fő katolikus katedrális Mar del Plata városában.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548977,
+                        -37.999002
+                  ]
+            },
+            {
+                  "name": "Playa Bristol",
+                  "text": "A Playa Bristol Mar del Plata egyik leghíresebb és legnépszerűbb nyilvános strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.540088,
+                        -38.004168
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorium",
+                  "text": "A Teatro Auditorium egy színház Mar del Plata városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.541859,
+                        -38.004733
+                  ]
+            },
+            {
+                  "name": "Archivo Museo Histórico Municipal 'Don Roberto T. Barili'",
+                  "text": "Az Archivo Museo Histórico Municipal 'Don Roberto T. Barili' egy múzeum Mar del Platában.",
+                  "category": "museum",
+                  "coords": [
+                        -57.55251,
+                        -38.020761
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Ciencias Naturales 'Lorenzo Scaglia'",
+                  "text": "A Museo Municipal de Ciencias Naturales 'Lorenzo Scaglia' egy múzeum Mar del Platában.",
+                  "category": "museum",
+                  "coords": [
+                        -57.546453,
+                        -37.990927
+                  ]
+            },
+            {
+                  "name": "San Martín",
+                  "text": "A San Martín egy emlékmű Mar del Plata városában.",
+                  "category": "historical",
+                  "coords": [
+                        -57.548265,
+                        -37.997639
+                  ]
+            },
+            {
+                  "name": "Monumento natural - Árbol histórico: ombú (Phylotacca dioica) gigante",
+                  "text": "A Natural Monument - Historical tree: giant elephant tree (Phytolacca dioica) egy emlékmű Mar del Platában.",
+                  "category": "historical",
+                  "coords": [
+                        -57.580501,
+                        -38.009316
+                  ]
+            },
+            {
+                  "name": "Almafuerte",
+                  "text": "Az Almafuerte egy emlékmű Mar del Plata városában.",
+                  "category": "historical",
+                  "coords": [
+                        -57.579146,
+                        -38.009116
+                  ]
+            },
+            {
+                  "name": "General José de San Martín",
+                  "text": "A General José de San Martín egy emlékmű Mar del Platában.",
+                  "category": "historical",
+                  "coords": [
+                        -57.529137,
+                        -38.023897
+                  ]
+            },
+            {
+                  "name": "Monumento a Colón",
+                  "text": "A Monumento a Colón egy emlékmű Mar del Plata városában.",
+                  "category": "historical",
+                  "coords": [
+                        -57.543445,
+                        -38.005686
+                  ]
+            },
+            {
+                  "name": "Chalet Soulignac",
+                  "text": "A Chalet Soulignac egy udvarház Mar del Plata városában.",
+                  "category": "historical",
+                  "coords": [
+                        -57.531543,
+                        -38.025423
+                  ]
+            },
+            {
+                  "name": "Villa Surula",
+                  "text": "A Villa Surula egy kúria Mar del Platában.",
+                  "category": "historical",
+                  "coords": [
+                        -57.528094,
+                        -38.02201
+                  ]
+            },
+            {
+                  "name": "Teatro El Galpón de las Artes",
+                  "text": "A Teatro El Galpón de las Artes egy színház Mar del Platában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.561997,
+                        -38.003739
+                  ]
+            },
+            {
+                  "name": "Teatro Colon",
+                  "text": "A Teatro Colon egy színház Mar del Platában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.549768,
+                        -37.997594
+                  ]
+            },
+            {
+                  "name": "Vorterix",
+                  "text": "A Vorterix egy színház Mar del Plata városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.555217,
+                        -37.999995
+                  ]
+            },
+            {
+                  "name": "Teatro Enrique Carreras",
+                  "text": "A Teatro Enrique Carreras egy színház Mar del Platában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.543723,
+                        -38.002686
+                  ]
+            },
+            {
+                  "name": "Teatro Neptuno",
+                  "text": "A Teatro Neptuno egy színház Mar del Plata városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.545377,
+                        -38.000811
+                  ]
+            },
+            {
+                  "name": "Mar de Fondo",
+                  "text": "A Mar de Fondo egy színház Mar del Platában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.548967,
+                        -37.995866
+                  ]
+            },
+            {
+                  "name": "Centro Cultural del Mar",
+                  "text": "A Centro Cultural del Mar egy színház Mar del Platában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.542607,
+                        -38.000255
+                  ]
+            },
+            {
+                  "name": "Teatro Mar Del Plata",
+                  "text": "A Teatro Mar Del Plata egy színház Mar del Plata városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.54365,
+                        -37.999768
+                  ]
+            },
+            {
+                  "name": "Escenario Violeta Parra",
+                  "text": "Az Escenario Violeta Parra egy színház Mar del Platában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.543716,
+                        -38.018738
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Osvaldo Soriano",
+                  "text": "A Centro Cultural Osvaldo Soriano egy művészeti központ Mar del Plata városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.550982,
+                        -37.995289
+                  ]
+            },
+            {
+                  "name": "Plaza del Milenio",
+                  "text": "A Plaza del Milenio egy látványosság Mar del Plata városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543113,
+                        -38.004187
+                  ]
+            },
+            {
+                  "name": "Locomotora Antigua",
+                  "text": "A Locomotora Antigua egy látványosság Mar del Platában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.565546,
+                        -37.988425
+                  ]
+            },
+            {
+                  "name": "Casita de Navidad",
+                  "text": "A Casita de Navidad egy látványosság Mar del Platában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.569398,
+                        -38.00107
+                  ]
+            },
+            {
+                  "name": "Molinos de viento",
+                  "text": "A Molinos de viento egy szélmalom Mar del Plata városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.54075,
+                        -37.997277
+                  ]
+            },
+            {
+                  "name": "Antigua Estación Mar del Plata Sud",
+                  "text": "Az Antigua Estación Mar del Plata Sud egy látványosság Mar del Platában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543779,
+                        -38.011786
+                  ]
+            },
+            {
+                  "name": "El Bidetazo",
+                  "text": "Az El Bidetazo egy látványosság Mar del Platában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.531641,
+                        -38.010634
+                  ]
+            },
+            {
+                  "name": "Explanada Antiguo Club Mar Del Plata",
+                  "text": "Az Explanada Antiguo Club Mar Del Plata egy látványosság Mar del Platában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541615,
+                        -38.000448
+                  ]
+            },
+            {
+                  "name": "Escalera Imperial",
+                  "text": "Az Escalera Imperial egy látványosság Mar del Platában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.534862,
+                        -38.008258
+                  ]
+            },
+            {
+                  "name": "Instituto Saturnino Enrique Unzué",
+                  "text": "Az Instituto Saturnino Enrique Unzué egy látványosság Mar del Plata városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.545258,
+                        -37.981779
+                  ]
+            },
+            {
+                  "name": "Torreón del Monje",
+                  "text": "A Torreón del Monje egy látványosság Mar del Platában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.533328,
+                        -38.00801
+                  ]
+            },
+            {
+                  "name": "Terrace Palace",
+                  "text": "A Terrace Palace egy látványosság Mar del Platában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.533541,
+                        -38.027286
+                  ]
+            },
+            {
+                  "name": "Playa Varese",
+                  "text": "A Playa Varese egy strand Mar del Platában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.529401,
+                        -38.016081
+                  ]
+            },
+            {
+                  "name": "Playa Accesible Paula Gasco Owens",
+                  "text": "A Playa Accesible Paula Gasco Owens egy strand Mar del Platában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.543803,
+                        -37.983487
+                  ]
+            },
+            {
+                  "name": "Playa Cabo Corrientes",
+                  "text": "A Playa Cabo Corrientes egy strand Mar del Platában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.526325,
+                        -38.016324
+                  ]
+            },
+            {
+                  "name": "Playa Popular",
+                  "text": "A Playa Popular egy strand Mar del Plata városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.540299,
+                        -38.000662
+                  ]
+            },
+            {
+                  "name": "Playa Las Toscas",
+                  "text": "A Playa Las Toscas egy strand Mar del Platában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.536356,
+                        -38.006782
+                  ]
+            },
+            {
+                  "name": "Playa La Perla",
+                  "text": "A Playa La Perla egy strand Mar del Platában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.54263,
+                        -37.983141
+                  ]
+            },
+            {
+                  "name": "Paseo Hermitage",
+                  "text": "A Paseo Hermitage egy tengerparti üdülőhely Mar del Plata városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.536397,
+                        -38.007962
+                  ]
+            },
+            {
+                  "name": "Costa Galana Beach Life",
+                  "text": "A Costa Galana Beach Life egy tengerparti üdülőhely Mar del Platában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.531612,
+                        -38.028307
+                  ]
+            },
+            {
+                  "name": "Biología",
+                  "text": "A Biología egy tengerparti üdülőhely Mar del Plata városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.53062,
+                        -38.026725
+                  ]
+            },
+            {
+                  "name": "Balneario Saint Michel",
+                  "text": "A Balneario Saint Michel egy tengerparti üdülőhely Mar del Platában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.54421,
+                        -37.992542
+                  ]
+            },
+            {
+                  "name": "Balneario Paseo Hermitage",
+                  "text": "A Balneario Paseo Hermitage egy tengerparti üdülőhely Mar del Platában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.538617,
+                        -38.006592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Municipal de Arte Juan Carlos Castagnino",
+                  "text": "Museo Municipal de Arte Juan Carlos Castagnino este un muzeu de artă din Mar del Plata, situat în istorica Villa Ortiz Basualdo.",
+                  "category": "museum",
+                  "coords": [
+                        -57.535764,
+                        -38.010419
+                  ]
+            },
+            {
+                  "name": "Museo Casa sobre el Arroyo",
+                  "text": "Museo Casa sobre el Arroyo este un muzeu notabil din Mar del Plata, proiectat inițial ca o casă-pod peste un pârâu.",
+                  "category": "museum",
+                  "coords": [
+                        -57.573714,
+                        -38.008731
+                  ]
+            },
+            {
+                  "name": "Catedral de los Santos Pedro y Cecilia",
+                  "text": "Catedral de los Santos Pedro y Cecilia este principala catedrală catolică din orașul Mar del Plata.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548977,
+                        -37.999002
+                  ]
+            },
+            {
+                  "name": "Playa Bristol",
+                  "text": "Playa Bristol este una dintre cele mai faimoase și populare plaje publice din Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.540088,
+                        -38.004168
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorium",
+                  "text": "Teatro Auditorium este un teatru situat în orașul Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.541859,
+                        -38.004733
+                  ]
+            },
+            {
+                  "name": "Archivo Museo Histórico Municipal 'Don Roberto T. Barili'",
+                  "text": "Archivo Museo Histórico Municipal 'Don Roberto T. Barili' este un muzeu situat în Mar del Plata.",
+                  "category": "museum",
+                  "coords": [
+                        -57.55251,
+                        -38.020761
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Ciencias Naturales 'Lorenzo Scaglia'",
+                  "text": "Museo Municipal de Ciencias Naturales 'Lorenzo Scaglia' este un muzeu situat în Mar del Plata.",
+                  "category": "museum",
+                  "coords": [
+                        -57.546453,
+                        -37.990927
+                  ]
+            },
+            {
+                  "name": "San Martín",
+                  "text": "San Martín este un monument situat în orașul Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.548265,
+                        -37.997639
+                  ]
+            },
+            {
+                  "name": "Monumento natural - Árbol histórico: ombú (Phylotacca dioica) gigante",
+                  "text": "Natural Monument - Historical tree: giant elephant tree (Phytolacca dioica) este un monument situat în Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.580501,
+                        -38.009316
+                  ]
+            },
+            {
+                  "name": "Almafuerte",
+                  "text": "Almafuerte este un monument situat în orașul Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.579146,
+                        -38.009116
+                  ]
+            },
+            {
+                  "name": "General José de San Martín",
+                  "text": "General José de San Martín este un monument situat în Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.529137,
+                        -38.023897
+                  ]
+            },
+            {
+                  "name": "Monumento a Colón",
+                  "text": "Monumento a Colón este un monument situat în orașul Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.543445,
+                        -38.005686
+                  ]
+            },
+            {
+                  "name": "Chalet Soulignac",
+                  "text": "Chalet Soulignac este un conac situat în orașul Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.531543,
+                        -38.025423
+                  ]
+            },
+            {
+                  "name": "Villa Surula",
+                  "text": "Villa Surula este un conac situat în Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.528094,
+                        -38.02201
+                  ]
+            },
+            {
+                  "name": "Teatro El Galpón de las Artes",
+                  "text": "Teatro El Galpón de las Artes este un teatru în Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.561997,
+                        -38.003739
+                  ]
+            },
+            {
+                  "name": "Teatro Colon",
+                  "text": "Teatro Colon este un teatru situat în Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.549768,
+                        -37.997594
+                  ]
+            },
+            {
+                  "name": "Vorterix",
+                  "text": "Vorterix este un teatru situat în orașul Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.555217,
+                        -37.999995
+                  ]
+            },
+            {
+                  "name": "Teatro Enrique Carreras",
+                  "text": "Teatro Enrique Carreras este un teatru situat în Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.543723,
+                        -38.002686
+                  ]
+            },
+            {
+                  "name": "Teatro Neptuno",
+                  "text": "Teatro Neptuno este un teatru aflat în orașul Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.545377,
+                        -38.000811
+                  ]
+            },
+            {
+                  "name": "Mar de Fondo",
+                  "text": "Mar de Fondo este un teatru situat în Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.548967,
+                        -37.995866
+                  ]
+            },
+            {
+                  "name": "Centro Cultural del Mar",
+                  "text": "Centro Cultural del Mar este un teatru situat în Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.542607,
+                        -38.000255
+                  ]
+            },
+            {
+                  "name": "Teatro Mar Del Plata",
+                  "text": "Teatro Mar Del Plata este un teatru în orașul Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.54365,
+                        -37.999768
+                  ]
+            },
+            {
+                  "name": "Escenario Violeta Parra",
+                  "text": "Escenario Violeta Parra este un teatru în Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.543716,
+                        -38.018738
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Osvaldo Soriano",
+                  "text": "Centro Cultural Osvaldo Soriano este un centru de arte situat în orașul Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.550982,
+                        -37.995289
+                  ]
+            },
+            {
+                  "name": "Plaza del Milenio",
+                  "text": "Plaza del Milenio este o atracție în orașul Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543113,
+                        -38.004187
+                  ]
+            },
+            {
+                  "name": "Locomotora Antigua",
+                  "text": "Locomotora Antigua este o atracție în Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.565546,
+                        -37.988425
+                  ]
+            },
+            {
+                  "name": "Casita de Navidad",
+                  "text": "Casita de Navidad este o atracție situată în Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.569398,
+                        -38.00107
+                  ]
+            },
+            {
+                  "name": "Molinos de viento",
+                  "text": "Molinos de viento este o moară de vânt situată în orașul Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.54075,
+                        -37.997277
+                  ]
+            },
+            {
+                  "name": "Antigua Estación Mar del Plata Sud",
+                  "text": "Antigua Estación Mar del Plata Sud este o atracție în Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543779,
+                        -38.011786
+                  ]
+            },
+            {
+                  "name": "El Bidetazo",
+                  "text": "El Bidetazo este o atracție situată în Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.531641,
+                        -38.010634
+                  ]
+            },
+            {
+                  "name": "Explanada Antiguo Club Mar Del Plata",
+                  "text": "Explanada Antiguo Club Mar Del Plata este o atracție în Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541615,
+                        -38.000448
+                  ]
+            },
+            {
+                  "name": "Escalera Imperial",
+                  "text": "Escalera Imperial este o atracție situată în Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.534862,
+                        -38.008258
+                  ]
+            },
+            {
+                  "name": "Instituto Saturnino Enrique Unzué",
+                  "text": "Instituto Saturnino Enrique Unzué este o atracție în orașul Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.545258,
+                        -37.981779
+                  ]
+            },
+            {
+                  "name": "Torreón del Monje",
+                  "text": "Torreón del Monje este o atracție situată în Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.533328,
+                        -38.00801
+                  ]
+            },
+            {
+                  "name": "Terrace Palace",
+                  "text": "Terrace Palace este o atracție situată în Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.533541,
+                        -38.027286
+                  ]
+            },
+            {
+                  "name": "Playa Varese",
+                  "text": "Playa Varese este o plajă situată în Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.529401,
+                        -38.016081
+                  ]
+            },
+            {
+                  "name": "Playa Accesible Paula Gasco Owens",
+                  "text": "Playa Accesible Paula Gasco Owens este o plajă situată în Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.543803,
+                        -37.983487
+                  ]
+            },
+            {
+                  "name": "Playa Cabo Corrientes",
+                  "text": "Playa Cabo Corrientes este o plajă în Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.526325,
+                        -38.016324
+                  ]
+            },
+            {
+                  "name": "Playa Popular",
+                  "text": "Playa Popular este o plajă în orașul Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.540299,
+                        -38.000662
+                  ]
+            },
+            {
+                  "name": "Playa Las Toscas",
+                  "text": "Playa Las Toscas este o plajă situată în Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.536356,
+                        -38.006782
+                  ]
+            },
+            {
+                  "name": "Playa La Perla",
+                  "text": "Playa La Perla este o plajă în Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.54263,
+                        -37.983141
+                  ]
+            },
+            {
+                  "name": "Paseo Hermitage",
+                  "text": "Paseo Hermitage este o stațiune balneară în orașul Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.536397,
+                        -38.007962
+                  ]
+            },
+            {
+                  "name": "Costa Galana Beach Life",
+                  "text": "Costa Galana Beach Life este o stațiune balneară în Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.531612,
+                        -38.028307
+                  ]
+            },
+            {
+                  "name": "Biología",
+                  "text": "Biología este o stațiune balneară situată în orașul Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.53062,
+                        -38.026725
+                  ]
+            },
+            {
+                  "name": "Balneario Saint Michel",
+                  "text": "Balneario Saint Michel este o stațiune balneară în Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.54421,
+                        -37.992542
+                  ]
+            },
+            {
+                  "name": "Balneario Paseo Hermitage",
+                  "text": "Balneario Paseo Hermitage este o stațiune balneară situată în Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.538617,
+                        -38.006592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Municipal de Arte Juan Carlos Castagnino",
+                  "text": "The Museo Municipal de Arte Juan Carlos Castagnino is an art museum in Mar del Plata located in the historic Villa Ortiz Basualdo.",
+                  "category": "museum",
+                  "coords": [
+                        -57.535764,
+                        -38.010419
+                  ]
+            },
+            {
+                  "name": "Museo Casa sobre el Arroyo",
+                  "text": "The Museo Casa sobre el Arroyo is a notable museum in Mar del Plata, originally designed as a bridge house over a stream.",
+                  "category": "museum",
+                  "coords": [
+                        -57.573714,
+                        -38.008731
+                  ]
+            },
+            {
+                  "name": "Catedral de los Santos Pedro y Cecilia",
+                  "text": "The Catedral de los Santos Pedro y Cecilia is the main Catholic cathedral in the city of Mar del Plata.",
+                  "category": "religious",
+                  "coords": [
+                        -57.548977,
+                        -37.999002
+                  ]
+            },
+            {
+                  "name": "Playa Bristol",
+                  "text": "Playa Bristol is one of the most famous and popular public beaches in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.540088,
+                        -38.004168
+                  ]
+            },
+            {
+                  "name": "Teatro Auditorium",
+                  "text": "Teatro Auditorium is a theatre located in the city of Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.541859,
+                        -38.004733
+                  ]
+            },
+            {
+                  "name": "Archivo Museo Histórico Municipal 'Don Roberto T. Barili'",
+                  "text": "Archivo Museo Histórico Municipal 'Don Roberto T. Barili' is a museum situated in Mar del Plata.",
+                  "category": "museum",
+                  "coords": [
+                        -57.55251,
+                        -38.020761
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Ciencias Naturales 'Lorenzo Scaglia'",
+                  "text": "Museo Municipal de Ciencias Naturales 'Lorenzo Scaglia' is a museum located in Mar del Plata.",
+                  "category": "museum",
+                  "coords": [
+                        -57.546453,
+                        -37.990927
+                  ]
+            },
+            {
+                  "name": "San Martín",
+                  "text": "San Martín is a monument located in the city of Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.548265,
+                        -37.997639
+                  ]
+            },
+            {
+                  "name": "Natural Monument - Historical tree: giant elephant tree (Phytolacca dioica)",
+                  "text": "Natural Monument - Historical tree: giant elephant tree (Phytolacca dioica) is a monument situated in Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.580501,
+                        -38.009316
+                  ]
+            },
+            {
+                  "name": "Almafuerte",
+                  "text": "Almafuerte is a monument located in the city of Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.579146,
+                        -38.009116
+                  ]
+            },
+            {
+                  "name": "General José de San Martín",
+                  "text": "General José de San Martín is a monument situated in Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.529137,
+                        -38.023897
+                  ]
+            },
+            {
+                  "name": "Monumento a Colón",
+                  "text": "Monumento a Colón is a monument located in the city of Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.543445,
+                        -38.005686
+                  ]
+            },
+            {
+                  "name": "Chalet Soulignac",
+                  "text": "Chalet Soulignac is a manor situated in the city of Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.531543,
+                        -38.025423
+                  ]
+            },
+            {
+                  "name": "Villa Surula",
+                  "text": "Villa Surula is a manor located in Mar del Plata.",
+                  "category": "historical",
+                  "coords": [
+                        -57.528094,
+                        -38.02201
+                  ]
+            },
+            {
+                  "name": "Teatro El Galpón de las Artes",
+                  "text": "Teatro El Galpón de las Artes is a theatre in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.561997,
+                        -38.003739
+                  ]
+            },
+            {
+                  "name": "Teatro Colon",
+                  "text": "Teatro Colon is a theatre located in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.549768,
+                        -37.997594
+                  ]
+            },
+            {
+                  "name": "Vorterix",
+                  "text": "Vorterix is a theatre located in the city of Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.555217,
+                        -37.999995
+                  ]
+            },
+            {
+                  "name": "Teatro Enrique Carreras",
+                  "text": "Teatro Enrique Carreras is a theatre situated in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.543723,
+                        -38.002686
+                  ]
+            },
+            {
+                  "name": "Teatro Neptuno",
+                  "text": "Teatro Neptuno is a theatre found in the city of Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.545377,
+                        -38.000811
+                  ]
+            },
+            {
+                  "name": "Mar de Fondo",
+                  "text": "Mar de Fondo is a theatre situated in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.548967,
+                        -37.995866
+                  ]
+            },
+            {
+                  "name": "Centro Cultural del Mar",
+                  "text": "Centro Cultural del Mar is a theatre located in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.542607,
+                        -38.000255
+                  ]
+            },
+            {
+                  "name": "Teatro Mar Del Plata",
+                  "text": "Teatro Mar Del Plata is a theatre in the city of Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.54365,
+                        -37.999768
+                  ]
+            },
+            {
+                  "name": "Escenario Violeta Parra",
+                  "text": "Escenario Violeta Parra is a theatre in Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.543716,
+                        -38.018738
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Osvaldo Soriano",
+                  "text": "Centro Cultural Osvaldo Soriano is an arts centre located in the city of Mar del Plata.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.550982,
+                        -37.995289
+                  ]
+            },
+            {
+                  "name": "Plaza del Milenio",
+                  "text": "Plaza del Milenio is an attraction in the city of Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543113,
+                        -38.004187
+                  ]
+            },
+            {
+                  "name": "Locomotora Antigua",
+                  "text": "Locomotora Antigua is an attraction in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.565546,
+                        -37.988425
+                  ]
+            },
+            {
+                  "name": "Casita de Navidad",
+                  "text": "Casita de Navidad is an attraction situated in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.569398,
+                        -38.00107
+                  ]
+            },
+            {
+                  "name": "Molinos de viento",
+                  "text": "Molinos de viento is a windmill located in the city of Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.54075,
+                        -37.997277
+                  ]
+            },
+            {
+                  "name": "Antigua Estación Mar del Plata Sud",
+                  "text": "Antigua Estación Mar del Plata Sud is an attraction in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.543779,
+                        -38.011786
+                  ]
+            },
+            {
+                  "name": "El Bidetazo",
+                  "text": "El Bidetazo is an attraction located in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.531641,
+                        -38.010634
+                  ]
+            },
+            {
+                  "name": "Explanada Antiguo Club Mar Del Plata",
+                  "text": "Explanada Antiguo Club Mar Del Plata is an attraction in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.541615,
+                        -38.000448
+                  ]
+            },
+            {
+                  "name": "Escalera Imperial",
+                  "text": "Escalera Imperial is an attraction situated in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.534862,
+                        -38.008258
+                  ]
+            },
+            {
+                  "name": "Instituto Saturnino Enrique Unzué",
+                  "text": "Instituto Saturnino Enrique Unzué is an attraction in the city of Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.545258,
+                        -37.981779
+                  ]
+            },
+            {
+                  "name": "Torreón del Monje",
+                  "text": "Torreón del Monje is an attraction located in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.533328,
+                        -38.00801
+                  ]
+            },
+            {
+                  "name": "Terrace Palace",
+                  "text": "Terrace Palace is an attraction situated in Mar del Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.533541,
+                        -38.027286
+                  ]
+            },
+            {
+                  "name": "Playa Varese",
+                  "text": "Playa Varese is a beach situated in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.529401,
+                        -38.016081
+                  ]
+            },
+            {
+                  "name": "Playa Accesible Paula Gasco Owens",
+                  "text": "Playa Accesible Paula Gasco Owens is a beach located in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.543803,
+                        -37.983487
+                  ]
+            },
+            {
+                  "name": "Playa Cabo Corrientes",
+                  "text": "Playa Cabo Corrientes is a beach in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.526325,
+                        -38.016324
+                  ]
+            },
+            {
+                  "name": "Playa Popular",
+                  "text": "Playa Popular is a beach in the city of Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.540299,
+                        -38.000662
+                  ]
+            },
+            {
+                  "name": "Playa Las Toscas",
+                  "text": "Playa Las Toscas is a beach located in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.536356,
+                        -38.006782
+                  ]
+            },
+            {
+                  "name": "Playa La Perla",
+                  "text": "Playa La Perla is a beach in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.54263,
+                        -37.983141
+                  ]
+            },
+            {
+                  "name": "Paseo Hermitage",
+                  "text": "Paseo Hermitage is a beach resort in the city of Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.536397,
+                        -38.007962
+                  ]
+            },
+            {
+                  "name": "Costa Galana Beach Life",
+                  "text": "Costa Galana Beach Life is a beach resort in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.531612,
+                        -38.028307
+                  ]
+            },
+            {
+                  "name": "Biología",
+                  "text": "Biología is a beach resort located in the city of Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.53062,
+                        -38.026725
+                  ]
+            },
+            {
+                  "name": "Balneario Saint Michel",
+                  "text": "Balneario Saint Michel is a beach resort in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.54421,
+                        -37.992542
+                  ]
+            },
+            {
+                  "name": "Balneario Paseo Hermitage",
+                  "text": "Balneario Paseo Hermitage is a beach resort located in Mar del Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.538617,
+                        -38.006592
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "Argentina's premier seaside resort on the Atlantic coast, known for its beautiful beaches, vibrant nightlife, and grand casino.",
       de: "Das wichtigste Seebad Argentiniens an der Atlantikküste ist ein Zentrum des Tourismus und der Fischerei.",
@@ -135,7 +1800,664 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée en 1874, compte aujourd'hui environ 650 000 habitants.", "Le Casino Central en granit rouge est l'un des plus grands au monde.", "Le port de pêche est célèbre pour ses otaries.", "Festival international du film de catégorie A chaque année depuis 1954.", "Les plages s'étendent sur plus de 47 kilomètres.", "Population estivale dépassant les 2 millions de touristes.", "Plus important port de pêche d'Argentine.", "Surnommée « La Feliz » (la Joyeuse)."],
     }, image: "/poi-images/ar-b-mar-del-plata-cities-v2.webp"},
   {
-    id: "ar-b-bahia-blanca-cities-v2",
+    id: "ar-b-bahia-blanca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Das Teatro Municipal in Bahía Blanca ist ein architektonisch bedeutendes Theaterhaus.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.259787,
+                        -38.715053
+                  ]
+            },
+            {
+                  "name": "Museo de Bellas Artes y Arte Contemporáneo",
+                  "text": "Das Museum für zeitgenössische Kunst in Bahía Blanca beherbergt wichtige Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        -62.262282,
+                        -38.712983
+                  ]
+            },
+            {
+                  "name": "Museo y Parque Estereoscópico El Histórico",
+                  "text": "Ein Museum und Park in Bahía Blanca, der sich der historischen Darstellung widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -62.273777,
+                        -38.724707
+                  ]
+            },
+            {
+                  "name": "Museo y Archivo Histórico Municipal",
+                  "text": "Das städtische historische Museum und Archiv in Bahía Blanca bewahrt die lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -62.259017,
+                        -38.729064
+                  ]
+            },
+            {
+                  "name": "Teatro El Tablado",
+                  "text": "Ein beliebtes Theater in Bahía Blanca für vielfältige Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.261725,
+                        -38.722424
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini Paradiso",
+                  "text": "Das Teatro Rossini Paradiso ist eine kulturelle Einrichtung in Bahía Blanca.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.265785,
+                        -38.713942
+                  ]
+            },
+            {
+                  "name": "Teatro Don Bosco",
+                  "text": "Ein Theater in Bahía Blanca, das regelmäßig Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.271015,
+                        -38.718279
+                  ]
+            },
+            {
+                  "name": "Casa Museo Ezequiel Martínez Estrada",
+                  "text": "Das Hausmuseum Ezequiel Martínez Estrada in Bahía Blanca würdigt das Leben des Schriftstellers.",
+                  "category": "museum",
+                  "coords": [
+                        -62.267432,
+                        -38.705891
+                  ]
+            },
+            {
+                  "name": "Parque de Mayo",
+                  "text": "Der Parque de Mayo ist die größte Grünanlage in Bahía Blanca.",
+                  "category": "park",
+                  "coords": [
+                        -62.269658,
+                        -38.696188
+                  ]
+            },
+            {
+                  "name": "Cañón Vuelta de Obligado",
+                  "text": "Ein Denkmal in Bahía Blanca zur Erinnerung an geschichtliche Ereignisse.",
+                  "category": "historical",
+                  "coords": [
+                        -62.286104,
+                        -38.700933
+                  ]
+            },
+            {
+                  "name": "Escuela de Artes Visuales",
+                  "text": "Die Schule für bildende Künste in Bahía Blanca fördert künstlerische Talente.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.264061,
+                        -38.712121
+                  ]
+            },
+            {
+                  "name": "Monumento a León de Iraeta",
+                  "text": "Ein Denkmal zu Ehren von León de Iraeta in Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.257137,
+                        -38.702077
+                  ]
+            },
+            {
+                  "name": "Colectividad Israelita",
+                  "text": "Ein Denkmal der israelitischen Gemeinschaft in Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.26499,
+                        -38.717166
+                  ]
+            },
+            {
+                  "name": "Motor Colectivo",
+                  "text": "Das Motor Colectivo ist ein Zentrum für Kunst und Kultur in Bahía Blanca.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.255791,
+                        -38.728928
+                  ]
+            },
+            {
+                  "name": "Arcada Parque De Mayo",
+                  "text": "Ein Denkmal im Parque De Mayo in Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.271026,
+                        -38.701027
+                  ]
+            },
+            {
+                  "name": "Municipalidad de Bahía Blanca",
+                  "text": "Das Rathaus der Stadt Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.263902,
+                        -38.718442
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora de la Merced",
+                  "text": "Die Kathedrale von Bahía Blanca ist eine bedeutende Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        -62.266278,
+                        -38.716278
+                  ]
+            },
+            {
+                  "name": "Parroquia del Corazón de María",
+                  "text": "Eine Kirche in Bahía Blanca.",
+                  "category": "religious",
+                  "coords": [
+                        -62.272479,
+                        -38.710482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "A bahía blancai Teatro Municipal egy építészetileg jelentős színházépület.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.259787,
+                        -38.715053
+                  ]
+            },
+            {
+                  "name": "Museo de Bellas Artes y Arte Contemporáneo",
+                  "text": "A bahía blancai kortárs művészeti múzeum fontos gyűjteményeket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -62.262282,
+                        -38.712983
+                  ]
+            },
+            {
+                  "name": "Museo y Parque Estereoscópico El Histórico",
+                  "text": "Múzeum és park Bahía Blancában, amelyet a történelmi bemutatásnak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -62.273777,
+                        -38.724707
+                  ]
+            },
+            {
+                  "name": "Museo y Archivo Histórico Municipal",
+                  "text": "A bahía blancai városi történeti múzeum és levéltár őrzi a helyi történelmet.",
+                  "category": "museum",
+                  "coords": [
+                        -62.259017,
+                        -38.729064
+                  ]
+            },
+            {
+                  "name": "Teatro El Tablado",
+                  "text": "Népszerű színház Bahía Blancában változatos előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.261725,
+                        -38.722424
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini Paradiso",
+                  "text": "A Teatro Rossini Paradiso egy kulturális intézmény Bahía Blancában.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.265785,
+                        -38.713942
+                  ]
+            },
+            {
+                  "name": "Teatro Don Bosco",
+                  "text": "Színház Bahía Blancában, amely rendszeresen ad otthont rendezvényeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.271015,
+                        -38.718279
+                  ]
+            },
+            {
+                  "name": "Casa Museo Ezequiel Martínez Estrada",
+                  "text": "Az Ezequiel Martínez Estrada Házmúzeum Bahía Blancában az író életét méltatja.",
+                  "category": "museum",
+                  "coords": [
+                        -62.267432,
+                        -38.705891
+                  ]
+            },
+            {
+                  "name": "Parque de Mayo",
+                  "text": "A Parque de Mayo a legnagyobb zöldterület Bahía Blancában.",
+                  "category": "park",
+                  "coords": [
+                        -62.269658,
+                        -38.696188
+                  ]
+            },
+            {
+                  "name": "Cañón Vuelta de Obligado",
+                  "text": "Emlékmű Bahía Blancában történelmi események emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -62.286104,
+                        -38.700933
+                  ]
+            },
+            {
+                  "name": "Escuela de Artes Visuales",
+                  "text": "A bahía blancai képzőművészeti iskola támogatja a művészi tehetségeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.264061,
+                        -38.712121
+                  ]
+            },
+            {
+                  "name": "Monumento a León de Iraeta",
+                  "text": "Emlékmű León de Iraeta tiszteletére Bahía Blancában.",
+                  "category": "historical",
+                  "coords": [
+                        -62.257137,
+                        -38.702077
+                  ]
+            },
+            {
+                  "name": "Colectividad Israelita",
+                  "text": "Az izraelita közösség emlékműve Bahía Blancában.",
+                  "category": "historical",
+                  "coords": [
+                        -62.26499,
+                        -38.717166
+                  ]
+            },
+            {
+                  "name": "Motor Colectivo",
+                  "text": "A Motor Colectivo művészeti és kulturális központ Bahía Blancában.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.255791,
+                        -38.728928
+                  ]
+            },
+            {
+                  "name": "Arcada Parque De Mayo",
+                  "text": "Emlékmű a bahía blancai Parque De Mayóban.",
+                  "category": "historical",
+                  "coords": [
+                        -62.271026,
+                        -38.701027
+                  ]
+            },
+            {
+                  "name": "Municipalidad de Bahía Blanca",
+                  "text": "Bahía Blanca városának városházája.",
+                  "category": "historical",
+                  "coords": [
+                        -62.263902,
+                        -38.718442
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora de la Merced",
+                  "text": "Bahía Blanca katedrálisa egy jelentős templom.",
+                  "category": "religious",
+                  "coords": [
+                        -62.266278,
+                        -38.716278
+                  ]
+            },
+            {
+                  "name": "Parroquia del Corazón de María",
+                  "text": "Templom Bahía Blancában.",
+                  "category": "religious",
+                  "coords": [
+                        -62.272479,
+                        -38.710482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatro Municipal din Bahía Blanca este o clădire de teatru arhitectural semnificativă.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.259787,
+                        -38.715053
+                  ]
+            },
+            {
+                  "name": "Museo de Bellas Artes y Arte Contemporáneo",
+                  "text": "Muzeul de artă contemporană din Bahía Blanca găzduiește colecții importante.",
+                  "category": "museum",
+                  "coords": [
+                        -62.262282,
+                        -38.712983
+                  ]
+            },
+            {
+                  "name": "Museo y Parque Estereoscópico El Histórico",
+                  "text": "Un muzeu și parc în Bahía Blanca dedicat prezentării istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -62.273777,
+                        -38.724707
+                  ]
+            },
+            {
+                  "name": "Museo y Archivo Histórico Municipal",
+                  "text": "Muzeul și arhiva istorică municipală din Bahía Blanca păstrează istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -62.259017,
+                        -38.729064
+                  ]
+            },
+            {
+                  "name": "Teatro El Tablado",
+                  "text": "Un teatru popular în Bahía Blanca pentru diverse reprezentații.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.261725,
+                        -38.722424
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini Paradiso",
+                  "text": "Teatro Rossini Paradiso este o instituție culturală în Bahía Blanca.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.265785,
+                        -38.713942
+                  ]
+            },
+            {
+                  "name": "Teatro Don Bosco",
+                  "text": "Un teatru în Bahía Blanca care găzduiește regulat evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.271015,
+                        -38.718279
+                  ]
+            },
+            {
+                  "name": "Casa Museo Ezequiel Martínez Estrada",
+                  "text": "Casa-muzeu Ezequiel Martínez Estrada din Bahía Blanca onorează viața scriitorului.",
+                  "category": "museum",
+                  "coords": [
+                        -62.267432,
+                        -38.705891
+                  ]
+            },
+            {
+                  "name": "Parque de Mayo",
+                  "text": "Parque de Mayo este cea mai mare zonă verde din Bahía Blanca.",
+                  "category": "park",
+                  "coords": [
+                        -62.269658,
+                        -38.696188
+                  ]
+            },
+            {
+                  "name": "Cañón Vuelta de Obligado",
+                  "text": "Un monument în Bahía Blanca pentru a comemora evenimente istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -62.286104,
+                        -38.700933
+                  ]
+            },
+            {
+                  "name": "Escuela de Artes Visuales",
+                  "text": "Școala de arte vizuale din Bahía Blanca promovează talentele artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.264061,
+                        -38.712121
+                  ]
+            },
+            {
+                  "name": "Monumento a León de Iraeta",
+                  "text": "Un monument în cinstea lui León de Iraeta în Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.257137,
+                        -38.702077
+                  ]
+            },
+            {
+                  "name": "Colectividad Israelita",
+                  "text": "Un monument al comunității israelite în Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.26499,
+                        -38.717166
+                  ]
+            },
+            {
+                  "name": "Motor Colectivo",
+                  "text": "Motor Colectivo este un centru de artă și cultură în Bahía Blanca.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.255791,
+                        -38.728928
+                  ]
+            },
+            {
+                  "name": "Arcada Parque De Mayo",
+                  "text": "Un monument în Parque De Mayo din Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.271026,
+                        -38.701027
+                  ]
+            },
+            {
+                  "name": "Municipalidad de Bahía Blanca",
+                  "text": "Primăria orașului Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.263902,
+                        -38.718442
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora de la Merced",
+                  "text": "Catedrala din Bahía Blanca este o biserică importantă.",
+                  "category": "religious",
+                  "coords": [
+                        -62.266278,
+                        -38.716278
+                  ]
+            },
+            {
+                  "name": "Parroquia del Corazón de María",
+                  "text": "O biserică în Bahía Blanca.",
+                  "category": "religious",
+                  "coords": [
+                        -62.272479,
+                        -38.710482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "The Teatro Municipal in Bahía Blanca is an architecturally significant theatre building.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.259787,
+                        -38.715053
+                  ]
+            },
+            {
+                  "name": "Museo de Bellas Artes y Arte Contemporáneo",
+                  "text": "The contemporary art museum in Bahía Blanca houses important collections.",
+                  "category": "museum",
+                  "coords": [
+                        -62.262282,
+                        -38.712983
+                  ]
+            },
+            {
+                  "name": "Museo y Parque Estereoscópico El Histórico",
+                  "text": "A museum and park in Bahía Blanca dedicated to historical presentation.",
+                  "category": "museum",
+                  "coords": [
+                        -62.273777,
+                        -38.724707
+                  ]
+            },
+            {
+                  "name": "Museo y Archivo Histórico Municipal",
+                  "text": "The municipal historical museum and archive in Bahía Blanca preserves local history.",
+                  "category": "museum",
+                  "coords": [
+                        -62.259017,
+                        -38.729064
+                  ]
+            },
+            {
+                  "name": "Teatro El Tablado",
+                  "text": "A popular theatre in Bahía Blanca for diverse performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.261725,
+                        -38.722424
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini Paradiso",
+                  "text": "The Teatro Rossini Paradiso is a cultural institution in Bahía Blanca.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.265785,
+                        -38.713942
+                  ]
+            },
+            {
+                  "name": "Teatro Don Bosco",
+                  "text": "A theatre in Bahía Blanca that regularly hosts events.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.271015,
+                        -38.718279
+                  ]
+            },
+            {
+                  "name": "Casa Museo Ezequiel Martínez Estrada",
+                  "text": "The Ezequiel Martínez Estrada house museum in Bahía Blanca honors the writer's life.",
+                  "category": "museum",
+                  "coords": [
+                        -62.267432,
+                        -38.705891
+                  ]
+            },
+            {
+                  "name": "Parque de Mayo",
+                  "text": "Parque de Mayo is the largest green space in Bahía Blanca.",
+                  "category": "park",
+                  "coords": [
+                        -62.269658,
+                        -38.696188
+                  ]
+            },
+            {
+                  "name": "Cañón Vuelta de Obligado",
+                  "text": "A monument in Bahía Blanca commemorating historical events.",
+                  "category": "historical",
+                  "coords": [
+                        -62.286104,
+                        -38.700933
+                  ]
+            },
+            {
+                  "name": "Escuela de Artes Visuales",
+                  "text": "The school of visual arts in Bahía Blanca promotes artistic talents.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.264061,
+                        -38.712121
+                  ]
+            },
+            {
+                  "name": "Monumento a León de Iraeta",
+                  "text": "A monument in honor of León de Iraeta in Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.257137,
+                        -38.702077
+                  ]
+            },
+            {
+                  "name": "Colectividad Israelita",
+                  "text": "A monument of the Israelite community in Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.26499,
+                        -38.717166
+                  ]
+            },
+            {
+                  "name": "Motor Colectivo",
+                  "text": "The Motor Colectivo is a center for art and culture in Bahía Blanca.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.255791,
+                        -38.728928
+                  ]
+            },
+            {
+                  "name": "Arcada Parque De Mayo",
+                  "text": "A monument in Parque De Mayo in Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.271026,
+                        -38.701027
+                  ]
+            },
+            {
+                  "name": "Municipalidad de Bahía Blanca",
+                  "text": "The town hall of Bahía Blanca.",
+                  "category": "historical",
+                  "coords": [
+                        -62.263902,
+                        -38.718442
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora de la Merced",
+                  "text": "The Cathedral of Bahía Blanca is a significant church.",
+                  "category": "religious",
+                  "coords": [
+                        -62.266278,
+                        -38.716278
+                  ]
+            },
+            {
+                  "name": "Parroquia del Corazón de María",
+                  "text": "A church in Bahía Blanca.",
+                  "category": "religious",
+                  "coords": [
+                        -62.272479,
+                        -38.710482
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "An important port city and industrial hub in the south of Buenos Aires Province, acting as a gateway to the Patagonian region.",
       de: "Die Hafenstadt im Süden der Provinz Buenos Aires ist ein bedeutendes Tor zum Atlantik und Industriezentrum.",
@@ -182,7 +2504,1132 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée en 1828 comme Fortaleza Protectora Argentina.", "Environ 305 000 habitants, plus grande ville du sud de la province de Buenos Aires.", "Le port Ingeniero White est le principal point d'exportation de céréales.", "Base navale la plus importante après Puerto Belgrano.", "Pôle pétrochimique majeur du pays.", "Théâtre municipal datant de 1913.", "Université nationale du Sud fondée en 1956.", "Porte d'entrée vers le sud patagonien de l'Argentine."],
     }, image: "/poi-images/ar-b-bahia-blanca-cities-v2.webp"},
   {
-    id: "ar-b-tandil-cities-v2",
+    id: "ar-b-tandil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "\"El Club del Teatro\"",
+                  "text": "„El Club del Teatro“ ist ein Theatersaal für darstellende Kunst in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.138587,
+                        -37.328242
+                  ]
+            },
+            {
+                  "name": "Teatro del Fuerte",
+                  "text": "Das Teatro del Fuerte ist ein etabliertes Theater in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136229,
+                        -37.33007
+                  ]
+            },
+            {
+                  "name": "Cervantes, Club De teatro",
+                  "text": "Cervantes, Club De teatro ist ein eigener Veranstaltungsort für darstellende Kunst in der Stadt Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136285,
+                        -37.32691
+                  ]
+            },
+            {
+                  "name": "Museo del Fuerte Indepencia",
+                  "text": "Das Museo del Fuerte Indepencia ist ein Museum, das die lokale Geschichte in Tandil bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -59.130872,
+                        -37.320539
+                  ]
+            },
+            {
+                  "name": "Peña el Cielito (teatro)",
+                  "text": "Peña el Cielito ist ein lokales Theater in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135906,
+                        -37.333096
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Bellas Artes",
+                  "text": "Das Museo Municipal de Bellas Artes ist ein Museum für Schöne Künste, das Ausstellungen in Tandil präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -59.137305,
+                        -37.330361
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Das Museo de Ciencias Naturales ist ein Museum in Tandil, das sich auf naturwissenschaftliche Exponate konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -59.140922,
+                        -37.325055
+                  ]
+            },
+            {
+                  "name": "Parque Tematico",
+                  "text": "Der Parque Tematico ist ein Themenpark in Tandil.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.137141,
+                        -37.335377
+                  ]
+            },
+            {
+                  "name": "Teatro de la Confraternidad Ferroviaria",
+                  "text": "Das Teatro de la Confraternidad Ferroviaria ist ein historisches Theater in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.134553,
+                        -37.314299
+                  ]
+            },
+            {
+                  "name": "Museo Vehiculos de Epoca",
+                  "text": "Das Museo Vehiculos de Epoca ist ein Museum, das eine Sammlung von Oldtimern in Tandil zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -59.129194,
+                        -37.331036
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y la Cultura del Bicentenario",
+                  "text": "Die Casa de la Historia y la Cultura del Bicentenario ist ein Museum, das sich der Geschichte und Kultur in Tandil widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -59.107239,
+                        -37.306591
+                  ]
+            },
+            {
+                  "name": "Castillo Morisco",
+                  "text": "Das Castillo Morisco ist ein bemerkenswertes Schlossgebäude im maurischen Stil in Tandil.",
+                  "category": "castle",
+                  "coords": [
+                        -59.137759,
+                        -37.340284
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Das Anfiteatro ist ein Open-Air-Theater in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.148406,
+                        -37.298451
+                  ]
+            },
+            {
+                  "name": "Cruz Monte Calvario (12)",
+                  "text": "Cruz Monte Calvario (12) ist ein religiöses Denkmal in der Stadt Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.154949,
+                        -37.328835
+                  ]
+            },
+            {
+                  "name": "Monumento al Libertador José de San Martín",
+                  "text": "Das Monumento al Libertador José de San Martín ist ein Denkmal in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.121114,
+                        -37.332625
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Fugl",
+                  "text": "Das Monumento a Juan Fugl ist ein Denkmal zu Ehren von Juan Fugl in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132405,
+                        -37.342557
+                  ]
+            },
+            {
+                  "name": "Monumento a El Fundidor",
+                  "text": "Das Monumento a El Fundidor ist ein Denkmal für die Gießereiarbeiter in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127128,
+                        -37.342952
+                  ]
+            },
+            {
+                  "name": "Monumento al Comerciante de Tandil",
+                  "text": "Das Monumento al Comerciante de Tandil ist ein Denkmal, das Kaufleute in Tandil ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -59.130049,
+                        -37.341914
+                  ]
+            },
+            {
+                  "name": "Avión Mirage",
+                  "text": "Das Avión Mirage ist ein monumentales Flugzeugexponat in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.158349,
+                        -37.311608
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Das Monumento a la Madre ist ein öffentliches Denkmal, das der Mutter gewidmet ist, in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132067,
+                        -37.336701
+                  ]
+            },
+            {
+                  "name": "Denominación de Origen Tandil",
+                  "text": "Denominación de Origen Tandil ist ein Gedenkdenkmal in der Stadt Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.116732,
+                        -37.313648
+                  ]
+            },
+            {
+                  "name": "Monumento Santiago Selvetti",
+                  "text": "Das Monumento Santiago Selvetti ist ein Denkmal in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.144988,
+                        -37.313194
+                  ]
+            },
+            {
+                  "name": "Monumento a Facundo Cabral",
+                  "text": "Das Monumento a Facundo Cabral ist ein Denkmal in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.10487,
+                        -37.32297
+                  ]
+            },
+            {
+                  "name": "Monumento a Manuel Belgrano",
+                  "text": "Das Monumento a Manuel Belgrano ist ein Denkmal zu Ehren von Manuel Belgrano in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127921,
+                        -37.326525
+                  ]
+            },
+            {
+                  "name": "Monumento al Gaucho",
+                  "text": "Das Monumento al Gaucho ist ein Denkmal zur Feier der Gauchos in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.118561,
+                        -37.315264
+                  ]
+            },
+            {
+                  "name": "Fuente de los Vascos",
+                  "text": "Fuente de los Vascos ist ein Brunnen-Denkmal in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.138338,
+                        -37.342966
+                  ]
+            },
+            {
+                  "name": "molino lamula",
+                  "text": "Molino lamula ist eine Attraktion in Tandil.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.135224,
+                        -37.313291
+                  ]
+            },
+            {
+                  "name": "Plaza de los Vientos",
+                  "text": "Die Plaza de los Vientos zeichnet sich durch eine Windmühle in Tandil aus.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.113433,
+                        -37.335422
+                  ]
+            },
+            {
+                  "name": "Incubadora de Arte",
+                  "text": "Die Incubadora de Arte ist ein Kunstzentrum zur Förderung der Kreativität in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135934,
+                        -37.310579
+                  ]
+            },
+            {
+                  "name": "Portada del Parque Independencia",
+                  "text": "Die Portada del Parque Independencia ist ein Denkmal in der Stadt Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.13782,
+                        -37.33866
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Gemma",
+                  "text": "Die Capilla Santa Gemma ist ein bekanntes Gotteshaus und Wahrzeichen in Tandil.",
+                  "category": "religious",
+                  "coords": [
+                        -59.152644,
+                        -37.328994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "\"El Club del Teatro\"",
+                  "text": "Az „El Club del Teatro” egy színházi előadóterem Tandilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.138587,
+                        -37.328242
+                  ]
+            },
+            {
+                  "name": "Teatro del Fuerte",
+                  "text": "A Teatro del Fuerte egy elismert színház Tandilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136229,
+                        -37.33007
+                  ]
+            },
+            {
+                  "name": "Cervantes, Club De teatro",
+                  "text": "A Cervantes, Club De teatro egy dedikált előadóművészeti helyszín Tandil városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136285,
+                        -37.32691
+                  ]
+            },
+            {
+                  "name": "Museo del Fuerte Indepencia",
+                  "text": "A Museo del Fuerte Indepencia egy helyi történelmet őrző múzeum Tandilban.",
+                  "category": "museum",
+                  "coords": [
+                        -59.130872,
+                        -37.320539
+                  ]
+            },
+            {
+                  "name": "Peña el Cielito (teatro)",
+                  "text": "A Peña el Cielito egy helyi színház Tandilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135906,
+                        -37.333096
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Bellas Artes",
+                  "text": "A Museo Municipal de Bellas Artes egy szépművészeti múzeum, amely kiállításokat mutat be Tandilban.",
+                  "category": "museum",
+                  "coords": [
+                        -59.137305,
+                        -37.330361
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "A Museo de Ciencias Naturales egy természettudományi kiállításokra fókuszáló múzeum Tandilban.",
+                  "category": "museum",
+                  "coords": [
+                        -59.140922,
+                        -37.325055
+                  ]
+            },
+            {
+                  "name": "Parque Tematico",
+                  "text": "A Parque Tematico egy vidámpark Tandilban.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.137141,
+                        -37.335377
+                  ]
+            },
+            {
+                  "name": "Teatro de la Confraternidad Ferroviaria",
+                  "text": "A Teatro de la Confraternidad Ferroviaria egy történelmi színház Tandilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.134553,
+                        -37.314299
+                  ]
+            },
+            {
+                  "name": "Museo Vehiculos de Epoca",
+                  "text": "A Museo Vehiculos de Epoca egy veterán járműveket bemutató múzeum Tandilban.",
+                  "category": "museum",
+                  "coords": [
+                        -59.129194,
+                        -37.331036
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y la Cultura del Bicentenario",
+                  "text": "A Casa de la Historia y la Cultura del Bicentenario egy történelemnek és kultúrának szentelt múzeum Tandilban.",
+                  "category": "museum",
+                  "coords": [
+                        -59.107239,
+                        -37.306591
+                  ]
+            },
+            {
+                  "name": "Castillo Morisco",
+                  "text": "A Castillo Morisco egy figyelemre méltó mór stílusú kastélyépület Tandilban.",
+                  "category": "castle",
+                  "coords": [
+                        -59.137759,
+                        -37.340284
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Az Anfiteatro egy szabadtéri színház Tandilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.148406,
+                        -37.298451
+                  ]
+            },
+            {
+                  "name": "Cruz Monte Calvario (12)",
+                  "text": "A Cruz Monte Calvario (12) egy vallási emlékmű Tandil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -59.154949,
+                        -37.328835
+                  ]
+            },
+            {
+                  "name": "Monumento al Libertador José de San Martín",
+                  "text": "A Monumento al Libertador José de San Martín egy emlékmű Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.121114,
+                        -37.332625
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Fugl",
+                  "text": "A Monumento a Juan Fugl egy Juan Fugl emléke előtt tisztelgő emlékmű Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132405,
+                        -37.342557
+                  ]
+            },
+            {
+                  "name": "Monumento a El Fundidor",
+                  "text": "A Monumento a El Fundidor az öntödei munkások emlékműve Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127128,
+                        -37.342952
+                  ]
+            },
+            {
+                  "name": "Monumento al Comerciante de Tandil",
+                  "text": "A Monumento al Comerciante de Tandil a kereskedők emlékműve Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.130049,
+                        -37.341914
+                  ]
+            },
+            {
+                  "name": "Avión Mirage",
+                  "text": "Az Avión Mirage egy monumentális repülőgép-kiállítás Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.158349,
+                        -37.311608
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "A Monumento a la Madre egy az édesanyáknak szentelt emlékmű Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132067,
+                        -37.336701
+                  ]
+            },
+            {
+                  "name": "Denominación de Origen Tandil",
+                  "text": "A Denominación de Origen Tandil egy emlékmű Tandil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -59.116732,
+                        -37.313648
+                  ]
+            },
+            {
+                  "name": "Monumento Santiago Selvetti",
+                  "text": "A Monumento Santiago Selvetti egy emlékmű Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.144988,
+                        -37.313194
+                  ]
+            },
+            {
+                  "name": "Monumento a Facundo Cabral",
+                  "text": "A Monumento a Facundo Cabral egy emlékmű Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.10487,
+                        -37.32297
+                  ]
+            },
+            {
+                  "name": "Monumento a Manuel Belgrano",
+                  "text": "A Monumento a Manuel Belgrano egy Manuel Belgranónak szentelt emlékmű Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127921,
+                        -37.326525
+                  ]
+            },
+            {
+                  "name": "Monumento al Gaucho",
+                  "text": "A Monumento al Gaucho egy gauchókat ünneplő emlékmű Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.118561,
+                        -37.315264
+                  ]
+            },
+            {
+                  "name": "Fuente de los Vascos",
+                  "text": "A Fuente de los Vascos egy szökőkút-emlékmű Tandilban.",
+                  "category": "historical",
+                  "coords": [
+                        -59.138338,
+                        -37.342966
+                  ]
+            },
+            {
+                  "name": "molino lamula",
+                  "text": "A Molino lamula egy látványosság Tandilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.135224,
+                        -37.313291
+                  ]
+            },
+            {
+                  "name": "Plaza de los Vientos",
+                  "text": "A Plaza de los Vientos egy szélmalom helyszíne Tandilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.113433,
+                        -37.335422
+                  ]
+            },
+            {
+                  "name": "Incubadora de Arte",
+                  "text": "Az Incubadora de Arte egy művészeti központ Tandilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135934,
+                        -37.310579
+                  ]
+            },
+            {
+                  "name": "Portada del Parque Independencia",
+                  "text": "A Portada del Parque Independencia egy emlékmű Tandil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -59.13782,
+                        -37.33866
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Gemma",
+                  "text": "A Capilla Santa Gemma egy istentiszteleti hely és nevezetesség Tandilban.",
+                  "category": "religious",
+                  "coords": [
+                        -59.152644,
+                        -37.328994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "\"El Club del Teatro\"",
+                  "text": "„El Club del Teatro” este o sală de teatru pentru artele spectacolului din Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.138587,
+                        -37.328242
+                  ]
+            },
+            {
+                  "name": "Teatro del Fuerte",
+                  "text": "Teatro del Fuerte este un teatru recunoscut din Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136229,
+                        -37.33007
+                  ]
+            },
+            {
+                  "name": "Cervantes, Club De teatro",
+                  "text": "Cervantes, Club De teatro este un loc dedicat artelor spectacolului din orașul Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136285,
+                        -37.32691
+                  ]
+            },
+            {
+                  "name": "Museo del Fuerte Indepencia",
+                  "text": "Museo del Fuerte Indepencia este un muzeu care păstrează istoria locală în Tandil.",
+                  "category": "museum",
+                  "coords": [
+                        -59.130872,
+                        -37.320539
+                  ]
+            },
+            {
+                  "name": "Peña el Cielito (teatro)",
+                  "text": "Peña el Cielito este un teatru local situat în Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135906,
+                        -37.333096
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Bellas Artes",
+                  "text": "Museo Municipal de Bellas Artes este un muzeu de arte frumoase care prezintă expoziții în Tandil.",
+                  "category": "museum",
+                  "coords": [
+                        -59.137305,
+                        -37.330361
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Museo de Ciencias Naturales este un muzeu din Tandil axat pe exponate de științe naturale.",
+                  "category": "museum",
+                  "coords": [
+                        -59.140922,
+                        -37.325055
+                  ]
+            },
+            {
+                  "name": "Parque Tematico",
+                  "text": "Parque Tematico este un parc tematic din Tandil.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.137141,
+                        -37.335377
+                  ]
+            },
+            {
+                  "name": "Teatro de la Confraternidad Ferroviaria",
+                  "text": "Teatro de la Confraternidad Ferroviaria este un teatru istoric din Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.134553,
+                        -37.314299
+                  ]
+            },
+            {
+                  "name": "Museo Vehiculos de Epoca",
+                  "text": "Museo Vehiculos de Epoca este un muzeu care prezintă o colecție de vehicule de epocă în Tandil.",
+                  "category": "museum",
+                  "coords": [
+                        -59.129194,
+                        -37.331036
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y la Cultura del Bicentenario",
+                  "text": "Casa de la Historia y la Cultura del Bicentenario este un muzeu dedicat istoriei și culturii în Tandil.",
+                  "category": "museum",
+                  "coords": [
+                        -59.107239,
+                        -37.306591
+                  ]
+            },
+            {
+                  "name": "Castillo Morisco",
+                  "text": "Castillo Morisco este o clădire notabilă în formă de castel în stil maur din Tandil.",
+                  "category": "castle",
+                  "coords": [
+                        -59.137759,
+                        -37.340284
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Anfiteatro este un teatru în aer liber din Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.148406,
+                        -37.298451
+                  ]
+            },
+            {
+                  "name": "Cruz Monte Calvario (12)",
+                  "text": "Cruz Monte Calvario (12) este un monument religios în orașul Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.154949,
+                        -37.328835
+                  ]
+            },
+            {
+                  "name": "Monumento al Libertador José de San Martín",
+                  "text": "Monumento al Libertador José de San Martín este un monument în Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.121114,
+                        -37.332625
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Fugl",
+                  "text": "Monumento a Juan Fugl este un monument dedicat onorării lui Juan Fugl în Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132405,
+                        -37.342557
+                  ]
+            },
+            {
+                  "name": "Monumento a El Fundidor",
+                  "text": "Monumento a El Fundidor este un monument dedicat turnătorilor din Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127128,
+                        -37.342952
+                  ]
+            },
+            {
+                  "name": "Monumento al Comerciante de Tandil",
+                  "text": "Monumento al Comerciante de Tandil este un monument ce onorează comercianții din Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.130049,
+                        -37.341914
+                  ]
+            },
+            {
+                  "name": "Avión Mirage",
+                  "text": "Avión Mirage este un monument aeronautic cu un avion în Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.158349,
+                        -37.311608
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre este un monument public dedicat mamei în Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132067,
+                        -37.336701
+                  ]
+            },
+            {
+                  "name": "Denominación de Origen Tandil",
+                  "text": "Denominación de Origen Tandil este un monument comemorativ în orașul Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.116732,
+                        -37.313648
+                  ]
+            },
+            {
+                  "name": "Monumento Santiago Selvetti",
+                  "text": "Monumento Santiago Selvetti este un monument în Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.144988,
+                        -37.313194
+                  ]
+            },
+            {
+                  "name": "Monumento a Facundo Cabral",
+                  "text": "Monumento a Facundo Cabral este un monument în Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.10487,
+                        -37.32297
+                  ]
+            },
+            {
+                  "name": "Monumento a Manuel Belgrano",
+                  "text": "Monumento a Manuel Belgrano este un monument ce îl onorează pe Manuel Belgrano în Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127921,
+                        -37.326525
+                  ]
+            },
+            {
+                  "name": "Monumento al Gaucho",
+                  "text": "Monumento al Gaucho este un monument dedicat gaucho-ului în Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.118561,
+                        -37.315264
+                  ]
+            },
+            {
+                  "name": "Fuente de los Vascos",
+                  "text": "Fuente de los Vascos este un monument fântână din Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.138338,
+                        -37.342966
+                  ]
+            },
+            {
+                  "name": "molino lamula",
+                  "text": "Molino lamula este o atracție situată în Tandil.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.135224,
+                        -37.313291
+                  ]
+            },
+            {
+                  "name": "Plaza de los Vientos",
+                  "text": "Plaza de los Vientos este un spațiu cu o moară de vânt în Tandil.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.113433,
+                        -37.335422
+                  ]
+            },
+            {
+                  "name": "Incubadora de Arte",
+                  "text": "Incubadora de Arte este un centru de arte situat în Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135934,
+                        -37.310579
+                  ]
+            },
+            {
+                  "name": "Portada del Parque Independencia",
+                  "text": "Portada del Parque Independencia este un monument situat în orașul Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.13782,
+                        -37.33866
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Gemma",
+                  "text": "Capilla Santa Gemma este un lăcaș de cult și un punct de reper notabil din Tandil.",
+                  "category": "religious",
+                  "coords": [
+                        -59.152644,
+                        -37.328994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"El Club del Teatro\"",
+                  "text": "“El Club del Teatro” is a performing arts theatre venue in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.138587,
+                        -37.328242
+                  ]
+            },
+            {
+                  "name": "Teatro del Fuerte",
+                  "text": "Teatro del Fuerte is an established theatre hosting cultural performances in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136229,
+                        -37.33007
+                  ]
+            },
+            {
+                  "name": "Cervantes, Club De teatro",
+                  "text": "Cervantes, Club De teatro is a dedicated performance art venue in the city of Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.136285,
+                        -37.32691
+                  ]
+            },
+            {
+                  "name": "Museo del Fuerte Indepencia",
+                  "text": "Museo del Fuerte Indepencia is a museum preserving local history in Tandil.",
+                  "category": "museum",
+                  "coords": [
+                        -59.130872,
+                        -37.320539
+                  ]
+            },
+            {
+                  "name": "Peña el Cielito (teatro)",
+                  "text": "Peña el Cielito is a local theatre located in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135906,
+                        -37.333096
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Bellas Artes",
+                  "text": "The Museo Municipal de Bellas Artes is a fine arts museum exhibiting collections in Tandil.",
+                  "category": "museum",
+                  "coords": [
+                        -59.137305,
+                        -37.330361
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Museo de Ciencias Naturales is a museum in Tandil focused on natural science exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -59.140922,
+                        -37.325055
+                  ]
+            },
+            {
+                  "name": "Parque Tematico",
+                  "text": "Parque Tematico is an engaging theme park offering amusement in Tandil.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.137141,
+                        -37.335377
+                  ]
+            },
+            {
+                  "name": "Teatro de la Confraternidad Ferroviaria",
+                  "text": "Teatro de la Confraternidad Ferroviaria is a historic theatre situated in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.134553,
+                        -37.314299
+                  ]
+            },
+            {
+                  "name": "Museo Vehiculos de Epoca",
+                  "text": "Museo Vehiculos de Epoca is a museum showcasing a collection of vintage vehicles in Tandil.",
+                  "category": "museum",
+                  "coords": [
+                        -59.129194,
+                        -37.331036
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia y la Cultura del Bicentenario",
+                  "text": "The Casa de la Historia y la Cultura del Bicentenario is a museum celebrating history and culture in Tandil.",
+                  "category": "museum",
+                  "coords": [
+                        -59.107239,
+                        -37.306591
+                  ]
+            },
+            {
+                  "name": "Castillo Morisco",
+                  "text": "Castillo Morisco is a notable castle structure reflecting Moorish style in Tandil.",
+                  "category": "castle",
+                  "coords": [
+                        -59.137759,
+                        -37.340284
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "The Anfiteatro is an open-air amphitheater operating in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.148406,
+                        -37.298451
+                  ]
+            },
+            {
+                  "name": "Cruz Monte Calvario (12)",
+                  "text": "Cruz Monte Calvario (12) is a religious monument found in the city of Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.154949,
+                        -37.328835
+                  ]
+            },
+            {
+                  "name": "Monumento al Libertador José de San Martín",
+                  "text": "Monumento al Libertador José de San Martín is a dedicated monument in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.121114,
+                        -37.332625
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Fugl",
+                  "text": "Monumento a Juan Fugl is a commemorative structure honoring Juan Fugl in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132405,
+                        -37.342557
+                  ]
+            },
+            {
+                  "name": "Monumento a El Fundidor",
+                  "text": "Monumento a El Fundidor is a distinct monument dedicated to metal founders in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127128,
+                        -37.342952
+                  ]
+            },
+            {
+                  "name": "Monumento al Comerciante de Tandil",
+                  "text": "Monumento al Comerciante de Tandil is a tribute monument dedicated to merchants in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.130049,
+                        -37.341914
+                  ]
+            },
+            {
+                  "name": "Avión Mirage",
+                  "text": "The Avión Mirage is an aircraft monument displayed in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.158349,
+                        -37.311608
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre is a public monument dedicated to mothers in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.132067,
+                        -37.336701
+                  ]
+            },
+            {
+                  "name": "Denominación de Origen Tandil",
+                  "text": "Denominación de Origen Tandil is a commemorative monument situated in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.116732,
+                        -37.313648
+                  ]
+            },
+            {
+                  "name": "Monumento Santiago Selvetti",
+                  "text": "Monumento Santiago Selvetti is a local monument in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.144988,
+                        -37.313194
+                  ]
+            },
+            {
+                  "name": "Monumento a Facundo Cabral",
+                  "text": "Monumento a Facundo Cabral is a memorial monument located in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.10487,
+                        -37.32297
+                  ]
+            },
+            {
+                  "name": "Monumento a Manuel Belgrano",
+                  "text": "Monumento a Manuel Belgrano is a prominent statue monument honoring Manuel Belgrano in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.127921,
+                        -37.326525
+                  ]
+            },
+            {
+                  "name": "Monumento al Gaucho",
+                  "text": "Monumento al Gaucho is a monument celebrating the cultural icon of the gaucho in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.118561,
+                        -37.315264
+                  ]
+            },
+            {
+                  "name": "Fuente de los Vascos",
+                  "text": "Fuente de los Vascos is a monumental fountain honoring local heritage in Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.138338,
+                        -37.342966
+                  ]
+            },
+            {
+                  "name": "molino lamula",
+                  "text": "Molino lamula is a local attraction located in Tandil.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.135224,
+                        -37.313291
+                  ]
+            },
+            {
+                  "name": "Plaza de los Vientos",
+                  "text": "Plaza de los Vientos is a site featuring a windmill structure in Tandil.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.113433,
+                        -37.335422
+                  ]
+            },
+            {
+                  "name": "Incubadora de Arte",
+                  "text": "Incubadora de Arte is a dynamic arts center operating in Tandil.",
+                  "category": "cultural",
+                  "coords": [
+                        -59.135934,
+                        -37.310579
+                  ]
+            },
+            {
+                  "name": "Portada del Parque Independencia",
+                  "text": "The Portada del Parque Independencia is a monument located in the city of Tandil.",
+                  "category": "historical",
+                  "coords": [
+                        -59.13782,
+                        -37.33866
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Gemma",
+                  "text": "Capilla Santa Gemma is a notable place of worship and landmark situated in Tandil.",
+                  "category": "religious",
+                  "coords": [
+                        -59.152644,
+                        -37.328994
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A charming city located in the ancient Tandilia hills, famous for its scenic landscapes and the historic 'moving stone'.",
       de: "Diese Stadt im Landesinneren ist berühmt für ihre umliegenden Hügelketten und handwerkliche Lebensmittelproduktion.",
@@ -229,7 +3676,304 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée le 4 avril 1823 par Martín Rodríguez.", "Environ 145 000 habitants, située dans les Sierras de Tandil.", "Célèbre pour sa production traditionnelle de charcuterie et de fromage.", "Pèlerinage au Calvario pendant la Semaine sainte.", "La « Piedra Movediza » est tombée en 1912, réplique en 2007.", "Plus vieilles montagnes d'Argentine, vieilles de plus de 2 milliards d'années.", "Universidad Nacional del Centro fondée en 1974.", "Importantes communautés d'immigrants italiens et basques."],
     }, image: "/poi-images/ar-b-tandil-cities-v2.webp"},
   {
-    id: "ar-b-quilmes-cities-v2",
+    id: "ar-b-quilmes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Transporte Carlos Hillner Decoud",
+                  "text": "Das Museo del Transporte Carlos Hillner Decoud ist ein historisches Museum in Quilmes.",
+                  "category": "museum",
+                  "coords": [
+                        -58.272699,
+                        -34.750213
+                  ]
+            },
+            {
+                  "name": "Espacio Artístico Epifanía",
+                  "text": "Espacio Artístico Epifanía ist ein Theater in Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.251573,
+                        -34.726104
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Das Teatro Municipal ist ein städtisches Theater in Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.253236,
+                        -34.722595
+                  ]
+            },
+            {
+                  "name": "Doña Rosa",
+                  "text": "Doña Rosa ist ein Theater in Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.257881,
+                        -34.718236
+                  ]
+            },
+            {
+                  "name": "Artenpie",
+                  "text": "Artenpie ist ein Theater in der Stadt Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.271038,
+                        -34.716544
+                  ]
+            },
+            {
+                  "name": "Teatro Cervantes",
+                  "text": "Das Teatro Cervantes ist ein Theater in Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.258538,
+                        -34.723051
+                  ]
+            },
+            {
+                  "name": "Parque General José de San Martín",
+                  "text": "Der Parque General José de San Martín ist ein öffentlicher Park im Zentrum von Quilmes.",
+                  "category": "park",
+                  "coords": [
+                        -58.254351,
+                        -34.720019
+                  ]
+            },
+            {
+                  "name": "Catedral de la Inmaculada Concepción",
+                  "text": "Die Catedral de la Inmaculada Concepción ist eine katholische Kirche und der Sitz der Diözese von Quilmes.",
+                  "category": "religious",
+                  "coords": [
+                        -58.254101,
+                        -34.720948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Transporte Carlos Hillner Decoud",
+                  "text": "A Museo del Transporte Carlos Hillner Decoud egy közlekedési múzeum Quilmes városában.",
+                  "category": "museum",
+                  "coords": [
+                        -58.272699,
+                        -34.750213
+                  ]
+            },
+            {
+                  "name": "Espacio Artístico Epifanía",
+                  "text": "A Espacio Artístico Epifanía egy színház Quilmes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.251573,
+                        -34.726104
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "A Teatro Municipal egy színház Quilmes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.253236,
+                        -34.722595
+                  ]
+            },
+            {
+                  "name": "Doña Rosa",
+                  "text": "A Doña Rosa egy színház Quilmes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.257881,
+                        -34.718236
+                  ]
+            },
+            {
+                  "name": "Artenpie",
+                  "text": "Az Artenpie egy színház Quilmes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.271038,
+                        -34.716544
+                  ]
+            },
+            {
+                  "name": "Teatro Cervantes",
+                  "text": "A Teatro Cervantes egy színház Quilmes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.258538,
+                        -34.723051
+                  ]
+            },
+            {
+                  "name": "Parque General José de San Martín",
+                  "text": "A Parque General José de San Martín egy nyilvános park Quilmes városában.",
+                  "category": "park",
+                  "coords": [
+                        -58.254351,
+                        -34.720019
+                  ]
+            },
+            {
+                  "name": "Catedral de la Inmaculada Concepción",
+                  "text": "A Catedral de la Inmaculada Concepción egy katolikus templom és a Quilmes-i egyházmegye központja.",
+                  "category": "religious",
+                  "coords": [
+                        -58.254101,
+                        -34.720948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Transporte Carlos Hillner Decoud",
+                  "text": "Museo del Transporte Carlos Hillner Decoud este un muzeu istoric din Quilmes.",
+                  "category": "museum",
+                  "coords": [
+                        -58.272699,
+                        -34.750213
+                  ]
+            },
+            {
+                  "name": "Espacio Artístico Epifanía",
+                  "text": "Espacio Artístico Epifanía este un teatru din Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.251573,
+                        -34.726104
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatro Municipal este un teatru municipal din Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.253236,
+                        -34.722595
+                  ]
+            },
+            {
+                  "name": "Doña Rosa",
+                  "text": "Doña Rosa este un teatru din Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.257881,
+                        -34.718236
+                  ]
+            },
+            {
+                  "name": "Artenpie",
+                  "text": "Artenpie este un teatru din orașul Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.271038,
+                        -34.716544
+                  ]
+            },
+            {
+                  "name": "Teatro Cervantes",
+                  "text": "Teatro Cervantes este un teatru situat în Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.258538,
+                        -34.723051
+                  ]
+            },
+            {
+                  "name": "Parque General José de San Martín",
+                  "text": "Parque General José de San Martín este un parc public din Quilmes.",
+                  "category": "park",
+                  "coords": [
+                        -58.254351,
+                        -34.720019
+                  ]
+            },
+            {
+                  "name": "Catedral de la Inmaculada Concepción",
+                  "text": "Catedral de la Inmaculada Concepción este o biserică catolică și sediul Diecezei de Quilmes.",
+                  "category": "religious",
+                  "coords": [
+                        -58.254101,
+                        -34.720948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Transporte Carlos Hillner Decoud",
+                  "text": "The Museo del Transporte Carlos Hillner Decoud is a historical transport museum located in Quilmes.",
+                  "category": "museum",
+                  "coords": [
+                        -58.272699,
+                        -34.750213
+                  ]
+            },
+            {
+                  "name": "Espacio Artístico Epifanía",
+                  "text": "Espacio Artístico Epifanía is a theatre located in Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.251573,
+                        -34.726104
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatro Municipal is a municipal theatre located in Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.253236,
+                        -34.722595
+                  ]
+            },
+            {
+                  "name": "Doña Rosa",
+                  "text": "Doña Rosa is a theatre located in Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.257881,
+                        -34.718236
+                  ]
+            },
+            {
+                  "name": "Artenpie",
+                  "text": "Artenpie is a theatre located in the city of Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.271038,
+                        -34.716544
+                  ]
+            },
+            {
+                  "name": "Teatro Cervantes",
+                  "text": "Teatro Cervantes is a theatre located in Quilmes.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.258538,
+                        -34.723051
+                  ]
+            },
+            {
+                  "name": "Parque General José de San Martín",
+                  "text": "Parque General José de San Martín is a public park located in the city of Quilmes.",
+                  "category": "park",
+                  "coords": [
+                        -58.254351,
+                        -34.720019
+                  ]
+            },
+            {
+                  "name": "Catedral de la Inmaculada Concepción",
+                  "text": "Catedral de la Inmaculada Concepción is a Catholic church and the seat of the Diocese of Quilmes.",
+                  "category": "religious",
+                  "coords": [
+                        -58.254101,
+                        -34.720948
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historic industrial city located within the Greater Buenos Aires metropolitan area.",
       de: "Ein bedeutendes Industrie- und Wohnzentrum im Ballungsraum Gran Buenos Aires mit langer Brautradition.",
@@ -279,7 +4023,448 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée en 1666 comme réduction pour la population indigène Quilmes.", "Environ 580 000 habitants aujourd'hui.", "Cervecería Quilmes fondée en 1888 par Otto Bemberg.", "Quilmes Atlético Club, l'un des plus anciens clubs de football (1887).", "Importante communauté d'immigrants italiens.", "Stations balnéaires sur le Río de la Plata autrefois très prisées.", "Universidad Nacional de Quilmes fondée en 1989.", "Centre industriel majeur au sud du Grand Buenos Aires."],
     }, image: "/poi-images/ar-b-quilmes-cities-v2.webp"},
   {
-    id: "ar-b-lomas-de-zamora-cities-v2",
+    id: "ar-b-lomas-de-zamora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Americanista",
+                  "text": "Ein Museum in Lomas de Zamora.",
+                  "category": "museum",
+                  "coords": [
+                        -58.403537,
+                        -34.757172
+                  ]
+            },
+            {
+                  "name": "Teatro Coliseo",
+                  "text": "Ein Theater in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.399877,
+                        -34.76132
+                  ]
+            },
+            {
+                  "name": "Teatro Nueva Roma",
+                  "text": "Ein Theater in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.403296,
+                        -34.780637
+                  ]
+            },
+            {
+                  "name": "Teatro Otromundo, sala Roberto Uriona",
+                  "text": "Ein Theater in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.391267,
+                        -34.778227
+                  ]
+            },
+            {
+                  "name": "Museo Malvinas Siempre Argentinas",
+                  "text": "Ein Museum in Lomas de Zamora.",
+                  "category": "museum",
+                  "coords": [
+                        -58.423493,
+                        -34.780875
+                  ]
+            },
+            {
+                  "name": "Teatro Maipu",
+                  "text": "Ein Theater in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.390507,
+                        -34.743321
+                  ]
+            },
+            {
+                  "name": "Teatro Ensamble",
+                  "text": "Ein Theater in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.399807,
+                        -34.751366
+                  ]
+            },
+            {
+                  "name": "Monumento al General José de San Martín",
+                  "text": "Ein Denkmal für General José de San Martín in Lomas de Zamora.",
+                  "category": "historical",
+                  "coords": [
+                        -58.402627,
+                        -34.757097
+                  ]
+            },
+            {
+                  "name": "Monumento al Comandante Tomás Espora",
+                  "text": "Ein Denkmal für Kommandant Tomás Espora in Lomas de Zamora.",
+                  "category": "historical",
+                  "coords": [
+                        -58.397157,
+                        -34.775583
+                  ]
+            },
+            {
+                  "name": "Cultura del Sur",
+                  "text": "Ein Kulturzentrum in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.397441,
+                        -34.774106
+                  ]
+            },
+            {
+                  "name": "Banfield Village (Casa de Sandro)",
+                  "text": "Ein interessanter Ort in Lomas de Zamora, bekannt als das Haus von Sandro.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.398273,
+                        -34.743448
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora de la Paz",
+                  "text": "Die Kathedrale von Lomas de Zamora ist eine prachtvolle Basilika.",
+                  "category": "religious",
+                  "coords": [
+                        -58.402556,
+                        -34.758273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Americanista",
+                  "text": "Múzeum Lomas de Zamorában.",
+                  "category": "museum",
+                  "coords": [
+                        -58.403537,
+                        -34.757172
+                  ]
+            },
+            {
+                  "name": "Teatro Coliseo",
+                  "text": "Színház Lomas de Zamorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.399877,
+                        -34.76132
+                  ]
+            },
+            {
+                  "name": "Teatro Nueva Roma",
+                  "text": "Színház Lomas de Zamorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.403296,
+                        -34.780637
+                  ]
+            },
+            {
+                  "name": "Teatro Otromundo, sala Roberto Uriona",
+                  "text": "Színház Lomas de Zamorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.391267,
+                        -34.778227
+                  ]
+            },
+            {
+                  "name": "Museo Malvinas Siempre Argentinas",
+                  "text": "Múzeum Lomas de Zamorában.",
+                  "category": "museum",
+                  "coords": [
+                        -58.423493,
+                        -34.780875
+                  ]
+            },
+            {
+                  "name": "Teatro Maipu",
+                  "text": "Színház Lomas de Zamorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.390507,
+                        -34.743321
+                  ]
+            },
+            {
+                  "name": "Teatro Ensamble",
+                  "text": "Színház Lomas de Zamorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.399807,
+                        -34.751366
+                  ]
+            },
+            {
+                  "name": "Monumento al General José de San Martín",
+                  "text": "José de San Martín tábornok emlékműve Lomas de Zamorában.",
+                  "category": "historical",
+                  "coords": [
+                        -58.402627,
+                        -34.757097
+                  ]
+            },
+            {
+                  "name": "Monumento al Comandante Tomás Espora",
+                  "text": "Tomás Espora parancsnok emlékműve Lomas de Zamorában.",
+                  "category": "historical",
+                  "coords": [
+                        -58.397157,
+                        -34.775583
+                  ]
+            },
+            {
+                  "name": "Cultura del Sur",
+                  "text": "Kulturális központ Lomas de Zamorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.397441,
+                        -34.774106
+                  ]
+            },
+            {
+                  "name": "Banfield Village (Casa de Sandro)",
+                  "text": "Érdekes látnivaló Lomas de Zamorában, Sandro háza.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.398273,
+                        -34.743448
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora de la Paz",
+                  "text": "Lomas de Zamora katedrálisa egy csodálatos bazilika.",
+                  "category": "religious",
+                  "coords": [
+                        -58.402556,
+                        -34.758273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Americanista",
+                  "text": "Un muzeu în Lomas de Zamora.",
+                  "category": "museum",
+                  "coords": [
+                        -58.403537,
+                        -34.757172
+                  ]
+            },
+            {
+                  "name": "Teatro Coliseo",
+                  "text": "Un teatru în Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.399877,
+                        -34.76132
+                  ]
+            },
+            {
+                  "name": "Teatro Nueva Roma",
+                  "text": "Un teatru în Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.403296,
+                        -34.780637
+                  ]
+            },
+            {
+                  "name": "Teatro Otromundo, sala Roberto Uriona",
+                  "text": "Un teatru în Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.391267,
+                        -34.778227
+                  ]
+            },
+            {
+                  "name": "Museo Malvinas Siempre Argentinas",
+                  "text": "Un muzeu în Lomas de Zamora.",
+                  "category": "museum",
+                  "coords": [
+                        -58.423493,
+                        -34.780875
+                  ]
+            },
+            {
+                  "name": "Teatro Maipu",
+                  "text": "Un teatru în Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.390507,
+                        -34.743321
+                  ]
+            },
+            {
+                  "name": "Teatro Ensamble",
+                  "text": "Un teatru în Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.399807,
+                        -34.751366
+                  ]
+            },
+            {
+                  "name": "Monumento al General José de San Martín",
+                  "text": "Un monument dedicat generalului José de San Martín în Lomas de Zamora.",
+                  "category": "historical",
+                  "coords": [
+                        -58.402627,
+                        -34.757097
+                  ]
+            },
+            {
+                  "name": "Monumento al Comandante Tomás Espora",
+                  "text": "Un monument dedicat comandantului Tomás Espora în Lomas de Zamora.",
+                  "category": "historical",
+                  "coords": [
+                        -58.397157,
+                        -34.775583
+                  ]
+            },
+            {
+                  "name": "Cultura del Sur",
+                  "text": "Un centru cultural în Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.397441,
+                        -34.774106
+                  ]
+            },
+            {
+                  "name": "Banfield Village (Casa de Sandro)",
+                  "text": "O atracție în Lomas de Zamora, cunoscută drept casa lui Sandro.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.398273,
+                        -34.743448
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora de la Paz",
+                  "text": "Catedrala din Lomas de Zamora este o bazilică magnifică.",
+                  "category": "religious",
+                  "coords": [
+                        -58.402556,
+                        -34.758273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Americanista",
+                  "text": "A museum in Lomas de Zamora.",
+                  "category": "museum",
+                  "coords": [
+                        -58.403537,
+                        -34.757172
+                  ]
+            },
+            {
+                  "name": "Teatro Coliseo",
+                  "text": "A theatre in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.399877,
+                        -34.76132
+                  ]
+            },
+            {
+                  "name": "Teatro Nueva Roma",
+                  "text": "A theatre in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.403296,
+                        -34.780637
+                  ]
+            },
+            {
+                  "name": "Teatro Otromundo, sala Roberto Uriona",
+                  "text": "A theatre in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.391267,
+                        -34.778227
+                  ]
+            },
+            {
+                  "name": "Museo Malvinas Siempre Argentinas",
+                  "text": "A museum in Lomas de Zamora.",
+                  "category": "museum",
+                  "coords": [
+                        -58.423493,
+                        -34.780875
+                  ]
+            },
+            {
+                  "name": "Teatro Maipu",
+                  "text": "A theatre in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.390507,
+                        -34.743321
+                  ]
+            },
+            {
+                  "name": "Teatro Ensamble",
+                  "text": "A theatre in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.399807,
+                        -34.751366
+                  ]
+            },
+            {
+                  "name": "Monumento al General José de San Martín",
+                  "text": "A monument to General José de San Martín in Lomas de Zamora.",
+                  "category": "historical",
+                  "coords": [
+                        -58.402627,
+                        -34.757097
+                  ]
+            },
+            {
+                  "name": "Monumento al Comandante Tomás Espora",
+                  "text": "A monument to Commander Tomás Espora in Lomas de Zamora.",
+                  "category": "historical",
+                  "coords": [
+                        -58.397157,
+                        -34.775583
+                  ]
+            },
+            {
+                  "name": "Cultura del Sur",
+                  "text": "An arts centre in Lomas de Zamora.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.397441,
+                        -34.774106
+                  ]
+            },
+            {
+                  "name": "Banfield Village (Casa de Sandro)",
+                  "text": "An attraction in Lomas de Zamora, known as Sandro's house.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.398273,
+                        -34.743448
+                  ]
+            },
+            {
+                  "name": "Cathedral Basilica of Our Lady of Peace",
+                  "text": "The Cathedral of Lomas de Zamora is a magnificent basilica.",
+                  "category": "religious",
+                  "coords": [
+                        -58.402556,
+                        -34.758273
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A large residential and commercial city within the Greater Buenos Aires metropolitan area, featuring historic architecture and parks.",
       de: "Ein dicht besiedeltes Wohn- und Handelszentrum südlich der Hauptstadt Buenos Aires.",
@@ -376,7 +4561,340 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Première chapelle en 1730, élevée au rang de ville en 1854.", "Environ 290 000 habitants, l'une des communes les plus riches.", "Cathédrale néogothique de la fin du XIXe siècle.", "La Quinta de Pueyrredón est Monument historique national.", "Forte influence des immigrants britanniques au XIXe siècle.", "Hippodrome de San Isidro et ses courses hippiques traditionnelles.", "Jockey Club et CASI, clubs sportifs de tradition.", "Lieu de naissance du général de la libération Juan Martín de Pueyrredón."],
     }, image: "/poi-images/ar-b-san-isidro-cities-v2.webp"},
   {
-    id: "ar-b-san-nicolas-de-los-arroyos-cities-v2",
+    id: "ar-b-san-nicolas-de-los-arroyos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playadita Club Regatas",
+                  "text": "Playadita Club Regatas ist ein Strand in San Nicolás de los Arroyos.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.213949,
+                        -33.326713
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Costanero San Nicolás",
+                  "text": "Das Anfiteatro Costanero San Nicolás ist ein Amphitheater in San Nicolás de los Arroyos.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.223148,
+                        -33.320761
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Anfiteatro ist ein Freilufttheater in San Nicolás de los Arroyos.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.208749,
+                        -33.330309
+                  ]
+            },
+            {
+                  "name": "Museo de Malvinas",
+                  "text": "Das Museo de Malvinas ist ein Museum in San Nicolás de los Arroyos.",
+                  "category": "museum",
+                  "coords": [
+                        -60.199777,
+                        -33.349639
+                  ]
+            },
+            {
+                  "name": "El Arenal",
+                  "text": "El Arenal ist ein Strand in der Stadt San Nicolás de los Arroyos.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.189,
+                        -33.320721
+                  ]
+            },
+            {
+                  "name": "Casa Barco \"Irupé\"",
+                  "text": "Casa Barco \"Irupé\" ist eine lokale Sehenswürdigkeit in San Nicolás de los Arroyos.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.221925,
+                        -33.323939
+                  ]
+            },
+            {
+                  "name": "Monumento al Coronel de Marina Juan Bautista Azopardo",
+                  "text": "Das Monumento al Coronel de Marina Juan Bautista Azopardo ist ein Denkmal in San Nicolás de los Arroyos.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.212818,
+                        -33.328329
+                  ]
+            },
+            {
+                  "name": "Centro Tradicionalista José Hernández",
+                  "text": "Das Centro Tradicionalista José Hernández ist ein Kunst- und Kulturzentrum in San Nicolás de los Arroyos.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.219389,
+                        -33.327124
+                  ]
+            },
+            {
+                  "name": "Virgen del Rosario de San Nicolás",
+                  "text": "Die Virgen del Rosario de San Nicolás ist ein bedeutendes katholisches Heiligtum in San Nicolás de los Arroyos.",
+                  "category": "religious",
+                  "coords": [
+                        -60.22385,
+                        -33.322544
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playadita Club Regatas",
+                  "text": "A Playadita Club Regatas egy strand San Nicolás de los Arroyos városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.213949,
+                        -33.326713
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Costanero San Nicolás",
+                  "text": "Az Anfiteatro Costanero San Nicolás egy amfiteátrum San Nicolás de los Arroyos városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.223148,
+                        -33.320761
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Az Anfiteatro egy szabadtéri színház San Nicolás de los Arroyos városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.208749,
+                        -33.330309
+                  ]
+            },
+            {
+                  "name": "Museo de Malvinas",
+                  "text": "A Museo de Malvinas egy múzeum San Nicolás de los Arroyos városában.",
+                  "category": "museum",
+                  "coords": [
+                        -60.199777,
+                        -33.349639
+                  ]
+            },
+            {
+                  "name": "El Arenal",
+                  "text": "Az El Arenal egy strand San Nicolás de los Arroyos városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.189,
+                        -33.320721
+                  ]
+            },
+            {
+                  "name": "Casa Barco \"Irupé\"",
+                  "text": "A Casa Barco \"Irupé\" egy turisztikai látványosság San Nicolás de los Arroyos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.221925,
+                        -33.323939
+                  ]
+            },
+            {
+                  "name": "Monumento al Coronel de Marina Juan Bautista Azopardo",
+                  "text": "A Monumento al Coronel de Marina Juan Bautista Azopardo egy emlékmű San Nicolás de los Arroyos városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.212818,
+                        -33.328329
+                  ]
+            },
+            {
+                  "name": "Centro Tradicionalista José Hernández",
+                  "text": "A Centro Tradicionalista José Hernández egy művészeti központ San Nicolás de los Arroyos városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.219389,
+                        -33.327124
+                  ]
+            },
+            {
+                  "name": "Virgen del Rosario de San Nicolás",
+                  "text": "A Virgen del Rosario de San Nicolás egy jelentős katolikus szentély San Nicolás de los Arroyos városában.",
+                  "category": "religious",
+                  "coords": [
+                        -60.22385,
+                        -33.322544
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playadita Club Regatas",
+                  "text": "Playadita Club Regatas este o plajă din San Nicolás de los Arroyos.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.213949,
+                        -33.326713
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Costanero San Nicolás",
+                  "text": "Anfiteatro Costanero San Nicolás este un amfiteatru situat în San Nicolás de los Arroyos.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.223148,
+                        -33.320761
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Anfiteatro este un teatru în aer liber din San Nicolás de los Arroyos.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.208749,
+                        -33.330309
+                  ]
+            },
+            {
+                  "name": "Museo de Malvinas",
+                  "text": "Museo de Malvinas este un muzeu din San Nicolás de los Arroyos.",
+                  "category": "museum",
+                  "coords": [
+                        -60.199777,
+                        -33.349639
+                  ]
+            },
+            {
+                  "name": "El Arenal",
+                  "text": "El Arenal este o plajă din San Nicolás de los Arroyos.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.189,
+                        -33.320721
+                  ]
+            },
+            {
+                  "name": "Casa Barco \"Irupé\"",
+                  "text": "Casa Barco \"Irupé\" este o atracție turistică în San Nicolás de los Arroyos.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.221925,
+                        -33.323939
+                  ]
+            },
+            {
+                  "name": "Monumento al Coronel de Marina Juan Bautista Azopardo",
+                  "text": "Monumento al Coronel de Marina Juan Bautista Azopardo este un monument din San Nicolás de los Arroyos.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.212818,
+                        -33.328329
+                  ]
+            },
+            {
+                  "name": "Centro Tradicionalista José Hernández",
+                  "text": "Centro Tradicionalista José Hernández este un centru de artă din San Nicolás de los Arroyos.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.219389,
+                        -33.327124
+                  ]
+            },
+            {
+                  "name": "Virgen del Rosario de San Nicolás",
+                  "text": "Virgen del Rosario de San Nicolás este un important sanctuar catolic din San Nicolás de los Arroyos.",
+                  "category": "religious",
+                  "coords": [
+                        -60.22385,
+                        -33.322544
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playadita Club Regatas",
+                  "text": "Playadita Club Regatas is a beach located in San Nicolás de los Arroyos.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.213949,
+                        -33.326713
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Costanero San Nicolás",
+                  "text": "Anfiteatro Costanero San Nicolás is an amphitheatre located in San Nicolás de los Arroyos.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.223148,
+                        -33.320761
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Anfiteatro is an open-air theatre in San Nicolás de los Arroyos.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.208749,
+                        -33.330309
+                  ]
+            },
+            {
+                  "name": "Museo de Malvinas",
+                  "text": "Museo de Malvinas is a museum located in San Nicolás de los Arroyos.",
+                  "category": "museum",
+                  "coords": [
+                        -60.199777,
+                        -33.349639
+                  ]
+            },
+            {
+                  "name": "El Arenal",
+                  "text": "El Arenal is a beach in the city of San Nicolás de los Arroyos.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.189,
+                        -33.320721
+                  ]
+            },
+            {
+                  "name": "Casa Barco \"Irupé\"",
+                  "text": "Casa Barco \"Irupé\" is a local attraction located in San Nicolás de los Arroyos.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.221925,
+                        -33.323939
+                  ]
+            },
+            {
+                  "name": "Monumento al Coronel de Marina Juan Bautista Azopardo",
+                  "text": "Monumento al Coronel de Marina Juan Bautista Azopardo is a monument located in San Nicolás de los Arroyos.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.212818,
+                        -33.328329
+                  ]
+            },
+            {
+                  "name": "Centro Tradicionalista José Hernández",
+                  "text": "Centro Tradicionalista José Hernández is an arts centre in San Nicolás de los Arroyos.",
+                  "category": "cultural",
+                  "coords": [
+                        -60.219389,
+                        -33.327124
+                  ]
+            },
+            {
+                  "name": "Virgen del Rosario de San Nicolás",
+                  "text": "Virgen del Rosario de San Nicolás is a major Catholic sanctuary located in San Nicolás de los Arroyos.",
+                  "category": "religious",
+                  "coords": [
+                        -60.22385,
+                        -33.322544
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "Located on the banks of the Paraná River, this city is a major industrial center and a significant religious pilgrimage site.",
       de: "Eine wichtige Industriestadt am Ufer des Paraná-Flusses, bekannt für ihre Stahlproduktion und religiöse Bedeutung.",
@@ -423,7 +4941,88 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée le 14 avril 1748 par Rafael de Aguiar.", "Environ 145 000 habitants.", "Signature de l'Acuerdo de San Nicolás le 31 mai 1852.", "Importante aciérie Ternium-Siderar.", "Lieu de pèlerinage de la Vierge María del Rosario.", "Centrale nucléaire Atucha I située à proximité.", "Importante communauté d'immigrants italiens.", "Position stratégique sur le fleuve Paraná."],
     }, image: "/poi-images/ar-b-san-nicolas-de-los-arroyos-cities-v2.webp"},
   {
-    id: "ar-b-lanus-cities-v2",
+    id: "ar-b-lanus-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ferroclub de Remedios de Escalada",
+                  "text": "Ein Eisenbahnmuseum in Lanús.",
+                  "category": "museum",
+                  "coords": [
+                        -58.390565,
+                        -34.730254
+                  ]
+            },
+            {
+                  "name": "Centro Comercial e Industrial de Lanús",
+                  "text": "Ein Veranstaltungsort in Lanús.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.386176,
+                        -34.710914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ferroclub de Remedios de Escalada",
+                  "text": "Vasúti múzeum Lanúsban.",
+                  "category": "museum",
+                  "coords": [
+                        -58.390565,
+                        -34.730254
+                  ]
+            },
+            {
+                  "name": "Centro Comercial e Industrial de Lanús",
+                  "text": "Rendezvényhelyszín Lanúsban.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.386176,
+                        -34.710914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ferroclub de Remedios de Escalada",
+                  "text": "Un muzeu feroviar în Lanús.",
+                  "category": "museum",
+                  "coords": [
+                        -58.390565,
+                        -34.730254
+                  ]
+            },
+            {
+                  "name": "Centro Comercial e Industrial de Lanús",
+                  "text": "Un spațiu pentru evenimente în Lanús.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.386176,
+                        -34.710914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ferroclub de Remedios de Escalada",
+                  "text": "A railway museum in Lanús.",
+                  "category": "museum",
+                  "coords": [
+                        -58.390565,
+                        -34.730254
+                  ]
+            },
+            {
+                  "name": "Centro Comercial e Industrial de Lanús",
+                  "text": "An arts venue in Lanús.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.386176,
+                        -34.710914
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A bustling industrial and residential city in Greater Buenos Aires, known for its strong community identity and sports passion.",
       de: "Ein dynamisches Industrie- und Wohngebiet im Süden des Großraums Buenos Aires.",
@@ -511,7 +5110,88 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Founded: July 5, 1683, by Governor Fernando de Mendoza y Mate de Luna.", "Name origin: 'Catamarca' comes from Quechua, meaning 'fortress on the slope'.", "Economic pillar: The region accounts for a significant portion of Argentina's olive exports.", "Landmark: The Plaza 25 de Mayo is considered one of the most beautiful squares in Argentina.", "Tourism: Gateway to the 'Ruta de los Seis Miles', a path connecting high Andean peaks.", "Demographics: Largest city in the province, concentrating over 50% of its population.", "Textiles: The city's Poncho festival is the largest winter craft fair in the country.", "University: UNCA (1972) is a leader in archaeological studies of the Pre-Columbian era."],
     }, image: "/poi-images/ar-k-catamarca-cities-v2.webp"},
   {
-    id: "ar-k-belen-cities-v2",
+    id: "ar-k-belen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cubo Blanco Móvil",
+                  "text": "Cubo Blanco Móvil ist ein Museum in der Stadt Belén.",
+                  "category": "museum",
+                  "coords": [
+                        -67.026988,
+                        -27.653118
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Virgen ist ein malerischer Aussichtspunkt in der Stadt Belén.",
+                  "category": "natural",
+                  "coords": [
+                        -67.036115,
+                        -27.647107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cubo Blanco Móvil",
+                  "text": "A Cubo Blanco Móvil egy múzeum Belén városában.",
+                  "category": "museum",
+                  "coords": [
+                        -67.026988,
+                        -27.653118
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "A Virgen egy festői kilátó Belén városában.",
+                  "category": "natural",
+                  "coords": [
+                        -67.036115,
+                        -27.647107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cubo Blanco Móvil",
+                  "text": "Cubo Blanco Móvil este un muzeu situat în orașul Belén.",
+                  "category": "museum",
+                  "coords": [
+                        -67.026988,
+                        -27.653118
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Virgen este un punct de belvedere pitoresc situat în orașul Belén.",
+                  "category": "natural",
+                  "coords": [
+                        -67.036115,
+                        -27.647107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cubo Blanco Móvil",
+                  "text": "Cubo Blanco Móvil is a museum located in the city of Belén.",
+                  "category": "museum",
+                  "coords": [
+                        -67.026988,
+                        -27.653118
+                  ]
+            },
+            {
+                  "name": "Virgen",
+                  "text": "Virgen is a scenic viewpoint situated in the city of Belén.",
+                  "category": "natural",
+                  "coords": [
+                        -67.036115,
+                        -27.647107
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "Known as the 'Cradle of the Poncho', Belén is a historic town in Catamarca surrounded by rugged mountain scenery.",
       de: "Eine historische Stadt in der Provinz Catamarca, die als Wiege des Ponchos gilt.",
@@ -646,7 +5326,52 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Officially founded on February 2, 1878, by immigrants from Friuli.", "Home to more than 630 sculptures displayed throughout the city.", "Located at a low elevation of just 20 meters above sea level.", "The metropolitan population is approximately 385,000 people.", "Host of the world-renowned International Sculpture Biennial since 1988.", "The climate is humid subtropical with an average annual temp of 21°C.", "Major educational center as the seat of the UNNE University.", "Strategically located near the General Belgrano Bridge to Corrientes."],
     }, image: "/poi-images/ar-h-resistencia-cities-v2.webp"},
   {
-    id: "ar-h-presidencia-roque-saenz-pena-cities-v2",
+    id: "ar-h-presidencia-roque-saenz-pena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Termas de Sáenz Peña",
+                  "text": "Eine beliebte Attraktion mit Thermalquellen in Presidencia Roque Sáenz Peña.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.43829,
+                        -26.781499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Termas de Sáenz Peña",
+                  "text": "Népszerű termálfürdő Presidencia Roque Sáenz Peñában.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.43829,
+                        -26.781499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Termas de Sáenz Peña",
+                  "text": "O atracție populară cu izvoare termale în Presidencia Roque Sáenz Peña.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.43829,
+                        -26.781499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Termas de Sáenz Peña",
+                  "text": "A popular attraction featuring thermal springs in Presidencia Roque Sáenz Peña.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.43829,
+                        -26.781499
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "The second-largest city in Chaco, known for its thermal baths and as a central hub for the regional cotton industry.",
       de: "Die zweitgrößte Stadt der Provinz Chaco ist ein wichtiges Zentrum für Thermalbäder und Landwirtschaft.",
@@ -693,7 +5418,88 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée en 1912, nommée d'après le président de l'Argentine.", "Environ 95 000 habitants.", "Centre majeur de la culture du coton.", "Sources thermales célèbres depuis 1937.", "Jardin zoologique avec faune régionale.", "Festival du coton organisé chaque année.", "Vagues d'immigration italienne et d'Europe de l'Est.", "Nœud ferroviaire stratégique."],
     }, image: "/poi-images/ar-h-presidencia-roque-saenz-pena-cities-v2.webp"},
   {
-    id: "ar-h-villa-angela-cities-v2",
+    id: "ar-h-villa-angela-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Histórico y Regional Municipal Rubén Jesús Ferrer",
+                  "text": "Das Museo Histórico y Regional Municipal Rubén Jesús Ferrer ist ein regionales Geschichtsmuseum in Villa Ángela.",
+                  "category": "museum",
+                  "coords": [
+                        -60.70915,
+                        -27.578683
+                  ]
+            },
+            {
+                  "name": "Puente de la Historia",
+                  "text": "Die Puente de la Historia ist ein Denkmal in der Stadt Villa Ángela.",
+                  "category": "historical",
+                  "coords": [
+                        -60.713455,
+                        -27.580332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Histórico y Regional Municipal Rubén Jesús Ferrer",
+                  "text": "A Museo Histórico y Regional Municipal Rubén Jesús Ferrer egy regionális történelmi múzeum Villa Ángelában.",
+                  "category": "museum",
+                  "coords": [
+                        -60.70915,
+                        -27.578683
+                  ]
+            },
+            {
+                  "name": "Puente de la Historia",
+                  "text": "A Puente de la Historia egy emlékmű Villa Ángela városában.",
+                  "category": "historical",
+                  "coords": [
+                        -60.713455,
+                        -27.580332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Histórico y Regional Municipal Rubén Jesús Ferrer",
+                  "text": "Museo Histórico y Regional Municipal Rubén Jesús Ferrer este un muzeu de istorie regională situat în Villa Ángela.",
+                  "category": "museum",
+                  "coords": [
+                        -60.70915,
+                        -27.578683
+                  ]
+            },
+            {
+                  "name": "Puente de la Historia",
+                  "text": "Puente de la Historia este un monument situat în orașul Villa Ángela.",
+                  "category": "historical",
+                  "coords": [
+                        -60.713455,
+                        -27.580332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Histórico y Regional Municipal Rubén Jesús Ferrer",
+                  "text": "The Museo Histórico y Regional Municipal Rubén Jesús Ferrer is a regional history museum situated in Villa Ángela.",
+                  "category": "museum",
+                  "coords": [
+                        -60.70915,
+                        -27.578683
+                  ]
+            },
+            {
+                  "name": "Puente de la Historia",
+                  "text": "Puente de la Historia is a monument located in the city of Villa Ángela.",
+                  "category": "historical",
+                  "coords": [
+                        -60.713455,
+                        -27.580332
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A key commercial city in the southwest of Chaco Province, known for its agriculture and vibrant carnival celebrations.",
       de: "Die drittgrößte Stadt der Provinz Chaco, bekannt für ihre lebendige Gemeinschaft und landwirtschaftliche Bedeutung.",
@@ -781,7 +5587,376 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Rawson was the first permanent Welsh settlement in the Chubut River valley.", "The city's name honors the man who made the Welsh colony possible in 1865.", "Puerto Rawson is a major industrial center for Argentine red shrimp processing.", "The 'Tonina Overa' (Commerson's dolphin) is one of the smallest cetaceans in the world.", "Playa Unión is a top destination for windsurfing and kitesurfing in Patagonia.", "The Salesian Regional Museum is housed in a building dating back to the late 19th century.", "Rawson is the only provincial capital in Argentina located on the Atlantic coast (excluding rivers).", "The city's weather is dominated by the prevailing westerlies coming from the Andes."],
     }, image: "/poi-images/ar-u-rawson-cities-v2.webp"},
   {
-    id: "ar-u-comodoro-rivadavia-cities-v2",
+    id: "ar-u-comodoro-rivadavia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Ferroportuario",
+                  "text": "Das Museo Ferroportuario in Comodoro Rivadavia ist ein Museum, das der lokalen Eisenbahn- und Hafengeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -67.478283,
+                        -45.862743
+                  ]
+            },
+            {
+                  "name": "Museo Regional Patagónico “Profesor Antonio Garcés”",
+                  "text": "Das Museo Regional Patagónico “Profesor Antonio Garcés” ist ein Museum in Comodoro Rivadavia.",
+                  "category": "museum",
+                  "coords": [
+                        -67.490363,
+                        -45.862288
+                  ]
+            },
+            {
+                  "name": "CEPTur Centro de Exposición y Promoción Turística",
+                  "text": "CEPTur Centro de Exposición y Promoción Turística ist ein Ausstellungszentrum und Museum in Comodoro Rivadavia.",
+                  "category": "museum",
+                  "coords": [
+                        -67.477254,
+                        -45.863439
+                  ]
+            },
+            {
+                  "name": "Chenque",
+                  "text": "Der Chenque ist ein markanter Hügel, der die Stadt Comodoro Rivadavia überblickt.",
+                  "category": "natural",
+                  "coords": [
+                        -67.479746,
+                        -45.856516
+                  ]
+            },
+            {
+                  "name": "General José de San Martín",
+                  "text": "Das General José de San Martín Monument ehrt den berühmten südamerikanischen Befreier in Comodoro Rivadavia.",
+                  "category": "historical",
+                  "coords": [
+                        -67.482016,
+                        -45.865238
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Chenque",
+                  "text": "Der Mirador Cerro Chenque bietet einen Panoramablick über Comodoro Rivadavia.",
+                  "category": "natural",
+                  "coords": [
+                        -67.485044,
+                        -45.857044
+                  ]
+            },
+            {
+                  "name": "Hommage a los Colonos Galeses",
+                  "text": "Das Welsh Colony Tribute ist ein Denkmal in Comodoro Rivadavia.",
+                  "category": "historical",
+                  "coords": [
+                        -67.486462,
+                        -45.862323
+                  ]
+            },
+            {
+                  "name": "Cartel de Comodoro",
+                  "text": "Das Cartel de Comodoro ist eine touristische Sehenswürdigkeit in Comodoro Rivadavia.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.473305,
+                        -45.860704
+                  ]
+            },
+            {
+                  "name": "Km 3",
+                  "text": "Km 3 ist ein Badeort in der Nähe von Comodoro Rivadavia.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.468994,
+                        -45.844545
+                  ]
+            },
+            {
+                  "name": "Catedral de Comodoro Rivadavia",
+                  "text": "Die Catedral de Comodoro Rivadavia ist die Hauptkirche der Stadt und San Juan Bosco gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -67.485191,
+                        -45.862257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Ferroportuario",
+                  "text": "A Comodoro Rivadavia-i Museo Ferroportuario a helyi vasút és kikötő történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -67.478283,
+                        -45.862743
+                  ]
+            },
+            {
+                  "name": "Museo Regional Patagónico “Profesor Antonio Garcés”",
+                  "text": "A Museo Regional Patagónico “Profesor Antonio Garcés” egy múzeum Comodoro Rivadavia városában.",
+                  "category": "museum",
+                  "coords": [
+                        -67.490363,
+                        -45.862288
+                  ]
+            },
+            {
+                  "name": "CEPTur Centro de Exposición y Promoción Turística",
+                  "text": "A CEPTur Centro de Exposición y Promoción Turística egy kiállítási központ és múzeum Comodoro Rivadavia városában.",
+                  "category": "museum",
+                  "coords": [
+                        -67.477254,
+                        -45.863439
+                  ]
+            },
+            {
+                  "name": "Chenque",
+                  "text": "A Chenque egy kiemelkedő domb, amely a Comodoro Rivadavia városára néz.",
+                  "category": "natural",
+                  "coords": [
+                        -67.479746,
+                        -45.856516
+                  ]
+            },
+            {
+                  "name": "General José de San Martín",
+                  "text": "A General José de San Martín emlékmű a híres dél-amerikai felszabadító előtt tiszteleg Comodoro Rivadavia városában.",
+                  "category": "historical",
+                  "coords": [
+                        -67.482016,
+                        -45.865238
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Chenque",
+                  "text": "A Mirador Cerro Chenque panorámás kilátást nyújt Comodoro Rivadavia városára.",
+                  "category": "natural",
+                  "coords": [
+                        -67.485044,
+                        -45.857044
+                  ]
+            },
+            {
+                  "name": "Hommage a los Colonos Galeses",
+                  "text": "A Welsh Colony Tribute egy emlékmű Comodoro Rivadavia városában.",
+                  "category": "historical",
+                  "coords": [
+                        -67.486462,
+                        -45.862323
+                  ]
+            },
+            {
+                  "name": "Cartel de Comodoro",
+                  "text": "A Cartel de Comodoro egy turisztikai látványosság Comodoro Rivadavia városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.473305,
+                        -45.860704
+                  ]
+            },
+            {
+                  "name": "Km 3",
+                  "text": "A Km 3 egy üdülőhely Comodoro Rivadavia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.468994,
+                        -45.844545
+                  ]
+            },
+            {
+                  "name": "Catedral de Comodoro Rivadavia",
+                  "text": "A Catedral de Comodoro Rivadavia a város főtemploma, amelyet Bosco Szent Jánosnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -67.485191,
+                        -45.862257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Ferroportuario",
+                  "text": "Museo Ferroportuario din Comodoro Rivadavia este un muzeu dedicat istoriei feroviare și portuare locale.",
+                  "category": "museum",
+                  "coords": [
+                        -67.478283,
+                        -45.862743
+                  ]
+            },
+            {
+                  "name": "Museo Regional Patagónico “Profesor Antonio Garcés”",
+                  "text": "Museo Regional Patagónico “Profesor Antonio Garcés” este un muzeu din Comodoro Rivadavia.",
+                  "category": "museum",
+                  "coords": [
+                        -67.490363,
+                        -45.862288
+                  ]
+            },
+            {
+                  "name": "CEPTur Centro de Exposición y Promoción Turística",
+                  "text": "CEPTur Centro de Exposición y Promoción Turística este un centru expozițional și muzeu în Comodoro Rivadavia.",
+                  "category": "museum",
+                  "coords": [
+                        -67.477254,
+                        -45.863439
+                  ]
+            },
+            {
+                  "name": "Chenque",
+                  "text": "Chenque este un deal proeminent care străjuiește orașul Comodoro Rivadavia.",
+                  "category": "natural",
+                  "coords": [
+                        -67.479746,
+                        -45.856516
+                  ]
+            },
+            {
+                  "name": "General José de San Martín",
+                  "text": "Monumentul General José de San Martín îl onorează pe faimosul eliberator sud-american în Comodoro Rivadavia.",
+                  "category": "historical",
+                  "coords": [
+                        -67.482016,
+                        -45.865238
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Chenque",
+                  "text": "Mirador Cerro Chenque oferă vederi panoramice asupra orașului Comodoro Rivadavia.",
+                  "category": "natural",
+                  "coords": [
+                        -67.485044,
+                        -45.857044
+                  ]
+            },
+            {
+                  "name": "Hommage a los Colonos Galeses",
+                  "text": "Welsh Colony Tribute este un monument din Comodoro Rivadavia.",
+                  "category": "historical",
+                  "coords": [
+                        -67.486462,
+                        -45.862323
+                  ]
+            },
+            {
+                  "name": "Cartel de Comodoro",
+                  "text": "Cartel de Comodoro este o atracție turistică în Comodoro Rivadavia.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.473305,
+                        -45.860704
+                  ]
+            },
+            {
+                  "name": "Km 3",
+                  "text": "Km 3 este o stațiune balneară lângă Comodoro Rivadavia.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.468994,
+                        -45.844545
+                  ]
+            },
+            {
+                  "name": "Catedral de Comodoro Rivadavia",
+                  "text": "Catedral de Comodoro Rivadavia este biserica principală a orașului, dedicată lui Sfântul Ioan Bosco.",
+                  "category": "religious",
+                  "coords": [
+                        -67.485191,
+                        -45.862257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Ferroportuario",
+                  "text": "The Museo Ferroportuario in Comodoro Rivadavia is a museum dedicated to local railway and port history.",
+                  "category": "museum",
+                  "coords": [
+                        -67.478283,
+                        -45.862743
+                  ]
+            },
+            {
+                  "name": "Museo Regional Patagónico “Profesor Antonio Garcés”",
+                  "text": "Museo Regional Patagónico “Profesor Antonio Garcés” is a regional museum located in Comodoro Rivadavia.",
+                  "category": "museum",
+                  "coords": [
+                        -67.490363,
+                        -45.862288
+                  ]
+            },
+            {
+                  "name": "CEPTur Centro de Exposición y Promoción Turística",
+                  "text": "CEPTur Centro de Exposición y Promoción Turística is an exhibition centre and museum in Comodoro Rivadavia.",
+                  "category": "museum",
+                  "coords": [
+                        -67.477254,
+                        -45.863439
+                  ]
+            },
+            {
+                  "name": "Chenque",
+                  "text": "Chenque is a prominent hill overlooking the city of Comodoro Rivadavia.",
+                  "category": "natural",
+                  "coords": [
+                        -67.479746,
+                        -45.856516
+                  ]
+            },
+            {
+                  "name": "General José de San Martín",
+                  "text": "The General José de San Martín monument honors the famous South American liberator in Comodoro Rivadavia.",
+                  "category": "historical",
+                  "coords": [
+                        -67.482016,
+                        -45.865238
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Chenque",
+                  "text": "Mirador Cerro Chenque offers panoramic views over the city of Comodoro Rivadavia.",
+                  "category": "natural",
+                  "coords": [
+                        -67.485044,
+                        -45.857044
+                  ]
+            },
+            {
+                  "name": "Welsh Colony Tribute",
+                  "text": "Welsh Colony Tribute is a monument located in Comodoro Rivadavia.",
+                  "category": "historical",
+                  "coords": [
+                        -67.486462,
+                        -45.862323
+                  ]
+            },
+            {
+                  "name": "Cartel de Comodoro",
+                  "text": "Cartel de Comodoro is a tourist attraction located in Comodoro Rivadavia.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.473305,
+                        -45.860704
+                  ]
+            },
+            {
+                  "name": "Km 3",
+                  "text": "Km 3 is a beach resort located near Comodoro Rivadavia.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.468994,
+                        -45.844545
+                  ]
+            },
+            {
+                  "name": "Catedral de Comodoro Rivadavia",
+                  "text": "Catedral de Comodoro Rivadavia is the city's main church, dedicated to St. John Bosco.",
+                  "category": "religious",
+                  "coords": [
+                        -67.485191,
+                        -45.862257
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "The largest city in Chubut, Comodoro Rivadavia is a vital industrial center known for its oil production and coastal winds.",
       de: "Die größte Stadt in Zentralpatagonien und das wichtigste Zentrum der argentinischen Erdölindustrie.",
@@ -828,7 +6003,376 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée le 23 février 1901.", "195 000 habitants, plus grande ville du Chubut.", "Premier gisement de pétrole d'Argentine découvert en 1907.", "Cœur battant de l'industrie pétrolière nationale.", "Le mont Chenque domine le panorama de la ville.", "Forte présence d'immigrés bulgares et polonais.", "Musée national du Pétrole remarquable.", "Siège de l'Université nationale de Patagonie San Juan Bosco."],
     }, image: "/poi-images/ar-u-comodoro-rivadavia-cities-v2.webp"},
   {
-    id: "ar-u-trelew-cities-v2",
+    id: "ar-u-trelew-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Paleontologico Eugidio Feruglio",
+                  "text": "Ein weltbekanntes paläontologisches Museum in Trelew.",
+                  "category": "museum",
+                  "coords": [
+                        -65.306908,
+                        -43.249276
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Artes Visuales",
+                  "text": "Ein städtisches Museum für bildende Kunst in Trelew.",
+                  "category": "museum",
+                  "coords": [
+                        -65.310447,
+                        -43.253457
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Amphitheater in Trelew.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.299811,
+                        -43.245593
+                  ]
+            },
+            {
+                  "name": "Teatro Verdi",
+                  "text": "Ein historisches Theater in Trelew.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.30737,
+                        -43.2534
+                  ]
+            },
+            {
+                  "name": "Teatro Español",
+                  "text": "Ein spanisch geprägtes Theater in Trelew.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.30963,
+                        -43.252357
+                  ]
+            },
+            {
+                  "name": "Lewis Jones",
+                  "text": "Ein Denkmal für Lewis Jones in Trelew.",
+                  "category": "historical",
+                  "coords": [
+                        -65.304305,
+                        -43.24901
+                  ]
+            },
+            {
+                  "name": "Monumento a la mujer.",
+                  "text": "Ein Denkmal zu Ehren der Frauen in Trelew.",
+                  "category": "historical",
+                  "coords": [
+                        -65.304852,
+                        -43.253783
+                  ]
+            },
+            {
+                  "name": "Centenario de la Colonización Galesa en la Patagonia",
+                  "text": "Ein Denkmal zum Gedenken an die walisische Kolonialisierung in Trelew.",
+                  "category": "historical",
+                  "coords": [
+                        -65.307036,
+                        -43.250293
+                  ]
+            },
+            {
+                  "name": "Maria Auxiliadora",
+                  "text": "Eine katholische Kirche in Trelew.",
+                  "category": "religious",
+                  "coords": [
+                        -65.308901,
+                        -43.253736
+                  ]
+            },
+            {
+                  "name": "Capilla Tabernacl",
+                  "text": "Eine historische Kapelle in Trelew.",
+                  "category": "religious",
+                  "coords": [
+                        -65.307759,
+                        -43.252493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Paleontologico Eugidio Feruglio",
+                  "text": "Világhírű őslénytani múzeum Trelewben.",
+                  "category": "museum",
+                  "coords": [
+                        -65.306908,
+                        -43.249276
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Artes Visuales",
+                  "text": "Városi képzőművészeti múzeum Trelewben.",
+                  "category": "museum",
+                  "coords": [
+                        -65.310447,
+                        -43.253457
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Amfiteátrum Trelewben.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.299811,
+                        -43.245593
+                  ]
+            },
+            {
+                  "name": "Teatro Verdi",
+                  "text": "Történelmi színház Trelewben.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.30737,
+                        -43.2534
+                  ]
+            },
+            {
+                  "name": "Teatro Español",
+                  "text": "Spanyol stílusú színház Trelewben.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.30963,
+                        -43.252357
+                  ]
+            },
+            {
+                  "name": "Lewis Jones",
+                  "text": "Lewis Jones emlékműve Trelewben.",
+                  "category": "historical",
+                  "coords": [
+                        -65.304305,
+                        -43.24901
+                  ]
+            },
+            {
+                  "name": "Monumento a la mujer.",
+                  "text": "Női emlékmű Trelewben.",
+                  "category": "historical",
+                  "coords": [
+                        -65.304852,
+                        -43.253783
+                  ]
+            },
+            {
+                  "name": "Centenario de la Colonización Galesa en la Patagonia",
+                  "text": "Emlékmű a patagóniai walesi kolonizáció századik évfordulójára Trelewben.",
+                  "category": "historical",
+                  "coords": [
+                        -65.307036,
+                        -43.250293
+                  ]
+            },
+            {
+                  "name": "Maria Auxiliadora",
+                  "text": "Katolikus templom Trelewben.",
+                  "category": "religious",
+                  "coords": [
+                        -65.308901,
+                        -43.253736
+                  ]
+            },
+            {
+                  "name": "Capilla Tabernacl",
+                  "text": "Történelmi kápolna Trelewben.",
+                  "category": "religious",
+                  "coords": [
+                        -65.307759,
+                        -43.252493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Paleontologico Eugidio Feruglio",
+                  "text": "Un muzeu paleontologic de renume mondial în Trelew.",
+                  "category": "museum",
+                  "coords": [
+                        -65.306908,
+                        -43.249276
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Artes Visuales",
+                  "text": "Un muzeu municipal de arte vizuale în Trelew.",
+                  "category": "museum",
+                  "coords": [
+                        -65.310447,
+                        -43.253457
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un amfiteatru în Trelew.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.299811,
+                        -43.245593
+                  ]
+            },
+            {
+                  "name": "Teatro Verdi",
+                  "text": "Un teatru istoric în Trelew.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.30737,
+                        -43.2534
+                  ]
+            },
+            {
+                  "name": "Teatro Español",
+                  "text": "Un teatru în stil spaniol în Trelew.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.30963,
+                        -43.252357
+                  ]
+            },
+            {
+                  "name": "Lewis Jones",
+                  "text": "Un monument dedicat lui Lewis Jones în Trelew.",
+                  "category": "historical",
+                  "coords": [
+                        -65.304305,
+                        -43.24901
+                  ]
+            },
+            {
+                  "name": "Monumento a la mujer.",
+                  "text": "Un monument dedicat femeilor în Trelew.",
+                  "category": "historical",
+                  "coords": [
+                        -65.304852,
+                        -43.253783
+                  ]
+            },
+            {
+                  "name": "Centenario de la Colonización Galesa en la Patagonia",
+                  "text": "Un monument dedicat centenarului colonizării galeze în Patagonia, situat în Trelew.",
+                  "category": "historical",
+                  "coords": [
+                        -65.307036,
+                        -43.250293
+                  ]
+            },
+            {
+                  "name": "Maria Auxiliadora",
+                  "text": "O biserică catolică în Trelew.",
+                  "category": "religious",
+                  "coords": [
+                        -65.308901,
+                        -43.253736
+                  ]
+            },
+            {
+                  "name": "Capilla Tabernacl",
+                  "text": "O capelă istorică în Trelew.",
+                  "category": "religious",
+                  "coords": [
+                        -65.307759,
+                        -43.252493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Paleontology Egidio Feruglio",
+                  "text": "A world-renowned paleontology museum in Trelew.",
+                  "category": "museum",
+                  "coords": [
+                        -65.306908,
+                        -43.249276
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Artes Visuales",
+                  "text": "A municipal museum of visual arts in Trelew.",
+                  "category": "museum",
+                  "coords": [
+                        -65.310447,
+                        -43.253457
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An amphitheatre in Trelew.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.299811,
+                        -43.245593
+                  ]
+            },
+            {
+                  "name": "Teatro Verdi",
+                  "text": "A historic theatre in Trelew.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.30737,
+                        -43.2534
+                  ]
+            },
+            {
+                  "name": "Teatro Español",
+                  "text": "A Spanish-style theatre in Trelew.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.30963,
+                        -43.252357
+                  ]
+            },
+            {
+                  "name": "Lewis Jones",
+                  "text": "A monument to Lewis Jones in Trelew.",
+                  "category": "historical",
+                  "coords": [
+                        -65.304305,
+                        -43.24901
+                  ]
+            },
+            {
+                  "name": "Monumento a la mujer.",
+                  "text": "A monument dedicated to women in Trelew.",
+                  "category": "historical",
+                  "coords": [
+                        -65.304852,
+                        -43.253783
+                  ]
+            },
+            {
+                  "name": "Centenario de la Colonización Galesa en la Patagonia",
+                  "text": "A monument commemorating the centennial of Welsh colonization in Patagonia, located in Trelew.",
+                  "category": "historical",
+                  "coords": [
+                        -65.307036,
+                        -43.250293
+                  ]
+            },
+            {
+                  "name": "Maria Auxiliadora",
+                  "text": "A Catholic church in Trelew.",
+                  "category": "religious",
+                  "coords": [
+                        -65.308901,
+                        -43.253736
+                  ]
+            },
+            {
+                  "name": "Capilla Tabernacl",
+                  "text": "A historic chapel in Trelew.",
+                  "category": "religious",
+                  "coords": [
+                        -65.307759,
+                        -43.252493
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A major city in the Chubut Valley founded by Welsh settlers, known for its paleontological museum and commercial importance.",
       de: "Ein bedeutendes kulturelles und kommerzielles Zentrum im Chubut-Tal, geprägt von walisischen Einflüssen.",
@@ -875,7 +6419,232 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée le 20 octobre 1886.", "Environ 100 000 habitants.", "Le nom signifie \"Ville de Lewis\" en gallois.", "Musée paléontologique Egidio Feruglio de renommée mondiale.", "Accès privilégié à la Péninsule Valdés (UNESCO).", "Culture galloise encore très vivace.", "Festival de l'Eisteddfod chaque année.", "Salons de thé gallois et architecture typique."],
     }, image: "/poi-images/ar-u-trelew-cities-v2.webp"},
   {
-    id: "ar-u-puerto-madryn-cities-v2",
+    id: "ar-u-puerto-madryn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de las Gemas",
+                  "text": "Das Museo de las Gemas ist ein Museum in Puerto Madryn.",
+                  "category": "museum",
+                  "coords": [
+                        -65.042823,
+                        -42.776604
+                  ]
+            },
+            {
+                  "name": "Teatro La Rosada",
+                  "text": "Das Teatro La Rosada ist ein lokales Theater in der Stadt Puerto Madryn.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.038253,
+                        -42.761227
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Auditorium",
+                  "text": "Das Cine Teatro Auditorium ist ein Kino- und Theatergebäude in Puerto Madryn.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.035527,
+                        -42.765966
+                  ]
+            },
+            {
+                  "name": "Museo Histórico \"Juan Meisen Ebene\"",
+                  "text": "Das Museo Histórico \"Juan Meisen Ebene\" ist ein historisches Museum in Puerto Madryn.",
+                  "category": "museum",
+                  "coords": [
+                        -65.04076,
+                        -42.765886
+                  ]
+            },
+            {
+                  "name": "Museo Provincial de Ciencias Naturales y Oceanográfico",
+                  "text": "Das Museo Provincial de Ciencias Naturales y Oceanográfico ist ein Museum für Naturwissenschaften in Puerto Madryn.",
+                  "category": "museum",
+                  "coords": [
+                        -65.03978,
+                        -42.762179
+                  ]
+            },
+            {
+                  "name": "Héroes Bomberos de 1994",
+                  "text": "Héroes Bomberos de 1994 ist ein Denkmal in der Stadt Puerto Madryn.",
+                  "category": "historical",
+                  "coords": [
+                        -65.03679,
+                        -42.767725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de las Gemas",
+                  "text": "A Museo de las Gemas egy múzeum Puerto Madrynban.",
+                  "category": "museum",
+                  "coords": [
+                        -65.042823,
+                        -42.776604
+                  ]
+            },
+            {
+                  "name": "Teatro La Rosada",
+                  "text": "A Teatro La Rosada egy helyi színház Puerto Madryn városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.038253,
+                        -42.761227
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Auditorium",
+                  "text": "A Cine Teatro Auditorium egy mozi és színház Puerto Madrynban.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.035527,
+                        -42.765966
+                  ]
+            },
+            {
+                  "name": "Museo Histórico \"Juan Meisen Ebene\"",
+                  "text": "A Museo Histórico \"Juan Meisen Ebene\" egy történelmi múzeum Puerto Madrynban.",
+                  "category": "museum",
+                  "coords": [
+                        -65.04076,
+                        -42.765886
+                  ]
+            },
+            {
+                  "name": "Museo Provincial de Ciencias Naturales y Oceanográfico",
+                  "text": "A Museo Provincial de Ciencias Naturales y Oceanográfico egy természettudományi múzeum Puerto Madrynban.",
+                  "category": "museum",
+                  "coords": [
+                        -65.03978,
+                        -42.762179
+                  ]
+            },
+            {
+                  "name": "Héroes Bomberos de 1994",
+                  "text": "A Héroes Bomberos de 1994 egy emlékmű Puerto Madryn városában.",
+                  "category": "historical",
+                  "coords": [
+                        -65.03679,
+                        -42.767725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de las Gemas",
+                  "text": "Museo de las Gemas este un muzeu situat în Puerto Madryn.",
+                  "category": "museum",
+                  "coords": [
+                        -65.042823,
+                        -42.776604
+                  ]
+            },
+            {
+                  "name": "Teatro La Rosada",
+                  "text": "Teatro La Rosada este un teatru local situat în orașul Puerto Madryn.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.038253,
+                        -42.761227
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Auditorium",
+                  "text": "Cine Teatro Auditorium este un cinematograf și teatru situat în Puerto Madryn.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.035527,
+                        -42.765966
+                  ]
+            },
+            {
+                  "name": "Museo Histórico \"Juan Meisen Ebene\"",
+                  "text": "Museo Histórico \"Juan Meisen Ebene\" este un muzeu istoric situat în Puerto Madryn.",
+                  "category": "museum",
+                  "coords": [
+                        -65.04076,
+                        -42.765886
+                  ]
+            },
+            {
+                  "name": "Museo Provincial de Ciencias Naturales y Oceanográfico",
+                  "text": "Museo Provincial de Ciencias Naturales y Oceanográfico este un muzeu de științe naturale situat în Puerto Madryn.",
+                  "category": "museum",
+                  "coords": [
+                        -65.03978,
+                        -42.762179
+                  ]
+            },
+            {
+                  "name": "Héroes Bomberos de 1994",
+                  "text": "Héroes Bomberos de 1994 este un monument situat în orașul Puerto Madryn.",
+                  "category": "historical",
+                  "coords": [
+                        -65.03679,
+                        -42.767725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de las Gemas",
+                  "text": "The Museo de las Gemas is a museum located in Puerto Madryn.",
+                  "category": "museum",
+                  "coords": [
+                        -65.042823,
+                        -42.776604
+                  ]
+            },
+            {
+                  "name": "Teatro La Rosada",
+                  "text": "Teatro La Rosada is a local theatre located in the city of Puerto Madryn.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.038253,
+                        -42.761227
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Auditorium",
+                  "text": "The Cine Teatro Auditorium is a cinema and theatre venue situated in Puerto Madryn.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.035527,
+                        -42.765966
+                  ]
+            },
+            {
+                  "name": "Museo Histórico \"Juan Meisen Ebene\"",
+                  "text": "The Museo Histórico \"Juan Meisen Ebene\" is a historical museum located in Puerto Madryn.",
+                  "category": "museum",
+                  "coords": [
+                        -65.04076,
+                        -42.765886
+                  ]
+            },
+            {
+                  "name": "Museo Provincial de Ciencias Naturales y Oceanográfico",
+                  "text": "The Museo Provincial de Ciencias Naturales y Oceanográfico is a natural sciences museum situated in Puerto Madryn.",
+                  "category": "museum",
+                  "coords": [
+                        -65.03978,
+                        -42.762179
+                  ]
+            },
+            {
+                  "name": "Héroes Bomberos de 1994",
+                  "text": "Héroes Bomberos de 1994 is a monument located in the city of Puerto Madryn.",
+                  "category": "historical",
+                  "coords": [
+                        -65.03679,
+                        -42.767725
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A popular coastal city on the Golfo Nuevo, famous as a gateway to Peninsula Valdés for whale watching and wildlife tourism.",
       de: "Eine Küstenstadt am Golfo Nuevo, weltberühmt für Walbeobachtungen und maritimes Leben.",
@@ -1010,7 +6779,520 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Founded in 1573, Córdoba is one of the oldest Spanish colonial capitals in South America.", "The National University of Córdoba was the only university in Argentina until 1821.", "The city's Jesuit Block includes the oldest surviving church in Argentina.", "Córdoba is a major hub for the software industry, hosting companies like Intel and Motorola.", "The local 'Cuarteto' music icon Rodrigo Bueno is celebrated throughout the city.", "The San Roque Dam, near the city, was once the largest in the world at its completion.", "Córdoba's Cathedral features a unique blend of Baroque and Neoclassical styles.", "It is known as the 'City of Bells' due to the numerous churches in its historic center."],
     }, image: "/poi-images/ar-x-cordoba-cities-v2.webp"},
   {
-    id: "ar-x-rio-cuarto-cities-v2",
+    id: "ar-x-rio-cuarto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Das städtische Theater von Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349972,
+                        -33.125573
+                  ]
+            },
+            {
+                  "name": "Casa de la memoria",
+                  "text": "Ein Museum zur Erinnerungskultur in Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.34052,
+                        -33.131931
+                  ]
+            },
+            {
+                  "name": "Opus Costanera",
+                  "text": "Ein Theater in Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349696,
+                        -33.110743
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Urbano",
+                  "text": "Ein Naturschutzgebiet in Río Cuarto.",
+                  "category": "natural",
+                  "coords": [
+                        -64.375578,
+                        -33.108666
+                  ]
+            },
+            {
+                  "name": "Museo del Andino",
+                  "text": "Ein Museum zur Anden-Geschichte in Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.339023,
+                        -33.130633
+                  ]
+            },
+            {
+                  "name": "Museo Historico Regional",
+                  "text": "Ein regionales historisches Museum in Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.349414,
+                        -33.121035
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Municipal Parque Sarmiento",
+                  "text": "Ein städtisches Amphitheater im Parque Sarmiento in Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.334016,
+                        -33.106
+                  ]
+            },
+            {
+                  "name": "anfiteatro griego",
+                  "text": "Ein Amphitheater in Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.341745,
+                        -33.112235
+                  ]
+            },
+            {
+                  "name": "Libertador José de San Martín",
+                  "text": "Ein Denkmal für José de San Martín in Río Cuarto.",
+                  "category": "historical",
+                  "coords": [
+                        -64.347418,
+                        -33.116861
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Ein Kulturhaus und Galerie in Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.348062,
+                        -33.125542
+                  ]
+            },
+            {
+                  "name": "Virgen Gauchitogil",
+                  "text": "Ein religiöses Monument in Río Cuarto.",
+                  "category": "historical",
+                  "coords": [
+                        -64.341738,
+                        -33.147514
+                  ]
+            },
+            {
+                  "name": "Homenaje a los Sauses",
+                  "text": "Ein Denkmal in Río Cuarto.",
+                  "category": "historical",
+                  "coords": [
+                        -64.341813,
+                        -33.146262
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Asiatico Chen",
+                  "text": "Ein Zentrum für asiatische Kunst in Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.345548,
+                        -33.09768
+                  ]
+            },
+            {
+                  "name": "C.C. Viejo Mercado",
+                  "text": "Ein Kulturzentrum in Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349138,
+                        -33.128478
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Río Cuarto városi színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349972,
+                        -33.125573
+                  ]
+            },
+            {
+                  "name": "Casa de la memoria",
+                  "text": "Emlékezet múzeuma Río Cuartóban.",
+                  "category": "museum",
+                  "coords": [
+                        -64.34052,
+                        -33.131931
+                  ]
+            },
+            {
+                  "name": "Opus Costanera",
+                  "text": "Színház Río Cuartóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349696,
+                        -33.110743
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Urbano",
+                  "text": "Természetvédelmi terület Río Cuartóban.",
+                  "category": "natural",
+                  "coords": [
+                        -64.375578,
+                        -33.108666
+                  ]
+            },
+            {
+                  "name": "Museo del Andino",
+                  "text": "Andoki múzeum Río Cuartóban.",
+                  "category": "museum",
+                  "coords": [
+                        -64.339023,
+                        -33.130633
+                  ]
+            },
+            {
+                  "name": "Museo Historico Regional",
+                  "text": "Regionális történeti múzeum Río Cuartóban.",
+                  "category": "museum",
+                  "coords": [
+                        -64.349414,
+                        -33.121035
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Municipal Parque Sarmiento",
+                  "text": "Városi amfiteátrum a Parque Sarmientóban, Río Cuartóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.334016,
+                        -33.106
+                  ]
+            },
+            {
+                  "name": "anfiteatro griego",
+                  "text": "Amfiteátrum Río Cuartóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.341745,
+                        -33.112235
+                  ]
+            },
+            {
+                  "name": "Libertador José de San Martín",
+                  "text": "José de San Martín emlékműve Río Cuartóban.",
+                  "category": "historical",
+                  "coords": [
+                        -64.347418,
+                        -33.116861
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Kulturális ház és galéria Río Cuartóban.",
+                  "category": "museum",
+                  "coords": [
+                        -64.348062,
+                        -33.125542
+                  ]
+            },
+            {
+                  "name": "Virgen Gauchitogil",
+                  "text": "Vallási emlékmű Río Cuartóban.",
+                  "category": "historical",
+                  "coords": [
+                        -64.341738,
+                        -33.147514
+                  ]
+            },
+            {
+                  "name": "Homenaje a los Sauses",
+                  "text": "Emlékmű Río Cuartóban.",
+                  "category": "historical",
+                  "coords": [
+                        -64.341813,
+                        -33.146262
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Asiatico Chen",
+                  "text": "Ázsiai művészeti központ Río Cuartóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.345548,
+                        -33.09768
+                  ]
+            },
+            {
+                  "name": "C.C. Viejo Mercado",
+                  "text": "Kulturális központ Río Cuartóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349138,
+                        -33.128478
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatrul municipal din Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349972,
+                        -33.125573
+                  ]
+            },
+            {
+                  "name": "Casa de la memoria",
+                  "text": "Un muzeu dedicat memoriei în Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.34052,
+                        -33.131931
+                  ]
+            },
+            {
+                  "name": "Opus Costanera",
+                  "text": "Un teatru în Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349696,
+                        -33.110743
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Urbano",
+                  "text": "O rezervație naturală în Río Cuarto.",
+                  "category": "natural",
+                  "coords": [
+                        -64.375578,
+                        -33.108666
+                  ]
+            },
+            {
+                  "name": "Museo del Andino",
+                  "text": "Un muzeu despre istoria andină în Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.339023,
+                        -33.130633
+                  ]
+            },
+            {
+                  "name": "Museo Historico Regional",
+                  "text": "Un muzeu istoric regional în Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.349414,
+                        -33.121035
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Municipal Parque Sarmiento",
+                  "text": "Un amfiteatru municipal în Parque Sarmiento din Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.334016,
+                        -33.106
+                  ]
+            },
+            {
+                  "name": "anfiteatro griego",
+                  "text": "Un amfiteatru în Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.341745,
+                        -33.112235
+                  ]
+            },
+            {
+                  "name": "Libertador José de San Martín",
+                  "text": "Un monument dedicat lui José de San Martín în Río Cuarto.",
+                  "category": "historical",
+                  "coords": [
+                        -64.347418,
+                        -33.116861
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "O casă de cultură și galerie în Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.348062,
+                        -33.125542
+                  ]
+            },
+            {
+                  "name": "Virgen Gauchitogil",
+                  "text": "Un monument religios în Río Cuarto.",
+                  "category": "historical",
+                  "coords": [
+                        -64.341738,
+                        -33.147514
+                  ]
+            },
+            {
+                  "name": "Homenaje a los Sauses",
+                  "text": "Un monument în Río Cuarto.",
+                  "category": "historical",
+                  "coords": [
+                        -64.341813,
+                        -33.146262
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Asiatico Chen",
+                  "text": "Un centru de artă asiatică în Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.345548,
+                        -33.09768
+                  ]
+            },
+            {
+                  "name": "C.C. Viejo Mercado",
+                  "text": "Un centru cultural în Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349138,
+                        -33.128478
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "The municipal theatre of Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349972,
+                        -33.125573
+                  ]
+            },
+            {
+                  "name": "Casa de la memoria",
+                  "text": "A museum dedicated to memory in Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.34052,
+                        -33.131931
+                  ]
+            },
+            {
+                  "name": "Opus Costanera",
+                  "text": "A theatre in Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349696,
+                        -33.110743
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Urbano",
+                  "text": "A nature reserve in Río Cuarto.",
+                  "category": "natural",
+                  "coords": [
+                        -64.375578,
+                        -33.108666
+                  ]
+            },
+            {
+                  "name": "Museo del Andino",
+                  "text": "A museum about Andean history in Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.339023,
+                        -33.130633
+                  ]
+            },
+            {
+                  "name": "Museo Historico Regional",
+                  "text": "A regional history museum in Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.349414,
+                        -33.121035
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Municipal Parque Sarmiento",
+                  "text": "A municipal amphitheatre in Parque Sarmiento, Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.334016,
+                        -33.106
+                  ]
+            },
+            {
+                  "name": "anfiteatro griego",
+                  "text": "An amphitheatre in Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.341745,
+                        -33.112235
+                  ]
+            },
+            {
+                  "name": "Libertador José de San Martín",
+                  "text": "A monument to José de San Martín in Río Cuarto.",
+                  "category": "historical",
+                  "coords": [
+                        -64.347418,
+                        -33.116861
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A cultural house and gallery in Río Cuarto.",
+                  "category": "museum",
+                  "coords": [
+                        -64.348062,
+                        -33.125542
+                  ]
+            },
+            {
+                  "name": "Virgen Gauchitogil",
+                  "text": "A religious monument in Río Cuarto.",
+                  "category": "historical",
+                  "coords": [
+                        -64.341738,
+                        -33.147514
+                  ]
+            },
+            {
+                  "name": "Homenaje a los Sauses",
+                  "text": "A monument in Río Cuarto.",
+                  "category": "historical",
+                  "coords": [
+                        -64.341813,
+                        -33.146262
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Asiatico Chen",
+                  "text": "An arts centre for Asian art in Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.345548,
+                        -33.09768
+                  ]
+            },
+            {
+                  "name": "C.C. Viejo Mercado",
+                  "text": "A cultural centre in Río Cuarto.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.349138,
+                        -33.128478
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "An important commercial and agricultural city in the south of Córdoba Province, often referred to as the 'Empire of the South'.",
       de: "Ein wichtiges kommerzielles und landwirtschaftliches Zentrum im Süden der Provinz Córdoba.",
@@ -1151,7 +7433,160 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée en 1913, nommée d'après Carlos Nicandro Paz.", "65 000 habitants, des centaines de milliers en été.", "Monument phare : le Reloj Cucú de 13 mètres.", "Scène théâtrale très active en saison estivale.", "Située au bord du lac San Roque (Sierras Chicas).", "Influence de l'immigration italienne et espagnole.", "Centre touristique majeur de l'Argentine.", "Prisée pour ses plages et sa vie nocturne."],
     }, image: "/poi-images/ar-x-villa-carlos-paz-cities-v2.webp"},
   {
-    id: "ar-x-san-francisco-cities-v2",
+    id: "ar-x-san-francisco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archivo y Museo Gráfico.",
+                  "text": "Ein Grafik- und Geschichtsmuseum in San Francisco.",
+                  "category": "museum",
+                  "coords": [
+                        -62.110783,
+                        -31.422832
+                  ]
+            },
+            {
+                  "name": "Archivo Grafico y Museo Histórico",
+                  "text": "Ein Grafik- und Geschichtsmuseum in San Francisco.",
+                  "category": "museum",
+                  "coords": [
+                        -62.084359,
+                        -31.43124
+                  ]
+            },
+            {
+                  "name": "Teatrillo Municipal",
+                  "text": "Das städtische Theater in San Francisco.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.079518,
+                        -31.432037
+                  ]
+            },
+            {
+                  "name": "Monumento a José B. Iturraspe",
+                  "text": "Ein Denkmal für José B. Iturraspe in San Francisco.",
+                  "category": "historical",
+                  "coords": [
+                        -62.083918,
+                        -31.424941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archivo y Museo Gráfico.",
+                  "text": "Grafikai és történeti múzeum San Franciscóban.",
+                  "category": "museum",
+                  "coords": [
+                        -62.110783,
+                        -31.422832
+                  ]
+            },
+            {
+                  "name": "Archivo Grafico y Museo Histórico",
+                  "text": "Grafikai és történeti múzeum San Franciscóban.",
+                  "category": "museum",
+                  "coords": [
+                        -62.084359,
+                        -31.43124
+                  ]
+            },
+            {
+                  "name": "Teatrillo Municipal",
+                  "text": "A városi színház San Franciscóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -62.079518,
+                        -31.432037
+                  ]
+            },
+            {
+                  "name": "Monumento a José B. Iturraspe",
+                  "text": "José B. Iturraspe emlékműve San Franciscóban.",
+                  "category": "historical",
+                  "coords": [
+                        -62.083918,
+                        -31.424941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archivo y Museo Gráfico.",
+                  "text": "Un muzeu grafic și istoric în San Francisco (Argentina).",
+                  "category": "museum",
+                  "coords": [
+                        -62.110783,
+                        -31.422832
+                  ]
+            },
+            {
+                  "name": "Archivo Grafico y Museo Histórico",
+                  "text": "Un muzeu grafic și istoric în San Francisco (Argentina).",
+                  "category": "museum",
+                  "coords": [
+                        -62.084359,
+                        -31.43124
+                  ]
+            },
+            {
+                  "name": "Teatrillo Municipal",
+                  "text": "Teatrul municipal din San Francisco (Argentina).",
+                  "category": "cultural",
+                  "coords": [
+                        -62.079518,
+                        -31.432037
+                  ]
+            },
+            {
+                  "name": "Monumento a José B. Iturraspe",
+                  "text": "Un monument dedicat lui José B. Iturraspe în San Francisco (Argentina).",
+                  "category": "historical",
+                  "coords": [
+                        -62.083918,
+                        -31.424941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archivo y Museo Gráfico.",
+                  "text": "A graphic and history museum in San Francisco (Argentina).",
+                  "category": "museum",
+                  "coords": [
+                        -62.110783,
+                        -31.422832
+                  ]
+            },
+            {
+                  "name": "Archivo Grafico y Museo Histórico",
+                  "text": "A graphic and history museum in San Francisco (Argentina).",
+                  "category": "museum",
+                  "coords": [
+                        -62.084359,
+                        -31.43124
+                  ]
+            },
+            {
+                  "name": "Teatrillo Municipal",
+                  "text": "The municipal theatre in San Francisco (Argentina).",
+                  "category": "cultural",
+                  "coords": [
+                        -62.079518,
+                        -31.432037
+                  ]
+            },
+            {
+                  "name": "Monumento a José B. Iturraspe",
+                  "text": "A monument to José B. Iturraspe in San Francisco (Argentina).",
+                  "category": "historical",
+                  "coords": [
+                        -62.083918,
+                        -31.424941
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A productive city on the border between Córdoba and Santa Fe, known for its diverse industries and agricultural strength.",
       de: "Eine Industriestadt an der Grenze zur Provinz Santa Fe, bekannt für ihre Maschinenbauproduktion.",
@@ -1239,7 +7674,196 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Corrientes was founded in 1588, making it a key historical site in Spanish colonization.", "The city is located at the confluence of the Paraná and Paraguay rivers.", "It holds the title of the 'National Capital of Carnival' in Argentina.", "The Costanera San Martín is a 5-kilometer long promenade along the river.", "Chamamé music originated here as a fusion of Guaraní and European cultures.", "The General Belgrano Bridge connects the city to the province of Chaco.", "The 'Cruz de los Milagros' is a major religious icon and pilgrimage site.", "The average summer temperature often exceeds 33°C (91°F) due to its subtropical location."],
     }, image: "/poi-images/ar-w-corrientes-cities-v2.webp"},
   {
-    id: "ar-w-goya-cities-v2",
+    id: "ar-w-goya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Serpentario",
+                  "text": "Das Serpentario ist eine zoologische Einrichtung für Schlangen in Goya.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.263602,
+                        -29.156616
+                  ]
+            },
+            {
+                  "name": "Museo Gauchesco Curuzú",
+                  "text": "Das Museo Gauchesco Curuzú ist ein lokales Museum in der Stadt Goya.",
+                  "category": "museum",
+                  "coords": [
+                        -59.269404,
+                        -29.14131
+                  ]
+            },
+            {
+                  "name": "Playa El Ingá",
+                  "text": "Playa El Ingá ist ein Strandresort in Goya.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.259673,
+                        -29.123458
+                  ]
+            },
+            {
+                  "name": "Predio Costa Surubí",
+                  "text": "Predio Costa Surubí ist ein Veranstaltungsort und eine Attraktion in der Stadt Goya.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.261726,
+                        -29.127998
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario 2",
+                  "text": "Nuestra Señora del Rosario 2 ist ein Gotteshaus in der Stadt Goya.",
+                  "category": "religious",
+                  "coords": [
+                        -59.266146,
+                        -29.143431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Serpentario",
+                  "text": "A Serpentario egy kígyókra specializálódott állatkerti létesítmény Goya városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.263602,
+                        -29.156616
+                  ]
+            },
+            {
+                  "name": "Museo Gauchesco Curuzú",
+                  "text": "A Museo Gauchesco Curuzú egy helyi múzeum Goya városában.",
+                  "category": "museum",
+                  "coords": [
+                        -59.269404,
+                        -29.14131
+                  ]
+            },
+            {
+                  "name": "Playa El Ingá",
+                  "text": "A Playa El Ingá egy tengerparti üdülőhely Goyában.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.259673,
+                        -29.123458
+                  ]
+            },
+            {
+                  "name": "Predio Costa Surubí",
+                  "text": "A Predio Costa Surubí egy rendezvényhelyszín és látványosság Goya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.261726,
+                        -29.127998
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario 2",
+                  "text": "A Nuestra Señora del Rosario 2 egy istentiszteleti hely Goya városában.",
+                  "category": "religious",
+                  "coords": [
+                        -59.266146,
+                        -29.143431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Serpentario",
+                  "text": "Serpentario este o grădină zoologică specializată situată în Goya.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.263602,
+                        -29.156616
+                  ]
+            },
+            {
+                  "name": "Museo Gauchesco Curuzú",
+                  "text": "Museo Gauchesco Curuzú este un muzeu local situat în orașul Goya.",
+                  "category": "museum",
+                  "coords": [
+                        -59.269404,
+                        -29.14131
+                  ]
+            },
+            {
+                  "name": "Playa El Ingá",
+                  "text": "Playa El Ingá este o stațiune balneară situată în Goya.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.259673,
+                        -29.123458
+                  ]
+            },
+            {
+                  "name": "Predio Costa Surubí",
+                  "text": "Predio Costa Surubí este o atracție turistică situată în orașul Goya.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.261726,
+                        -29.127998
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario 2",
+                  "text": "Nuestra Señora del Rosario 2 este un lăcaș de cult situat în orașul Goya.",
+                  "category": "religious",
+                  "coords": [
+                        -59.266146,
+                        -29.143431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Serpentario",
+                  "text": "The Serpentario is a specialized zoological facility located in Goya.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.263602,
+                        -29.156616
+                  ]
+            },
+            {
+                  "name": "Museo Gauchesco Curuzú",
+                  "text": "Museo Gauchesco Curuzú is a local museum situated in the city of Goya.",
+                  "category": "museum",
+                  "coords": [
+                        -59.269404,
+                        -29.14131
+                  ]
+            },
+            {
+                  "name": "Playa El Ingá",
+                  "text": "Playa El Ingá is a beach resort area located in Goya.",
+                  "category": "recreational",
+                  "coords": [
+                        -59.259673,
+                        -29.123458
+                  ]
+            },
+            {
+                  "name": "Predio Costa Surubí",
+                  "text": "Predio Costa Surubí is an event venue and attraction situated in the city of Goya.",
+                  "category": "landmark",
+                  "coords": [
+                        -59.261726,
+                        -29.127998
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario 2",
+                  "text": "Nuestra Señora del Rosario 2 is a place of worship located in the city of Goya.",
+                  "category": "religious",
+                  "coords": [
+                        -59.266146,
+                        -29.143431
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "The second-largest city in Corrientes, Goya is a river port famous for its tobacco industry and sport fishing.",
       de: "Die zweitgrößte Stadt der Provinz Corrientes, bekannt für ihre Tabakindustrie und den Fischfang.",
@@ -1286,7 +7910,232 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée comme paroisse en 1807, ville depuis 1852.", "Environ 80 000 habitants.", "Capitale de la pêche sportive en Argentine.", "Fiesta Nacional del Surubí chaque année en mai.", "Centre important de culture du tabac.", "Port majeur sur le fleuve Paraná.", "Vagues d'immigration italienne et espagnole.", "Deuxième ville de la province de Corrientes."],
     }, image: "/poi-images/ar-w-goya-cities-v2.webp"},
   {
-    id: "ar-w-paso-de-los-libres-cities-v2",
+    id: "ar-w-paso-de-los-libres-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Carnaval",
+                  "text": "Das Museo del Carnaval in Paso de los Libres feiert die reichen Karnevalstraditionen der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -57.109967,
+                        -29.724369
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Municipal",
+                  "text": "Das Museo Histórico Municipal ist ein städtisches Museum in Paso de los Libres.",
+                  "category": "museum",
+                  "coords": [
+                        -57.086498,
+                        -29.718149
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Carlos Gomes",
+                  "text": "Das Anfiteatro Carlos Gomes ist ein Freilufttheater in Paso de los Libres.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.100997,
+                        -29.731089
+                  ]
+            },
+            {
+                  "name": "Sambródromo \"Carlos Adrián 'Muñeca' da Costa\"",
+                  "text": "Das Sambródromo \"Carlos Adrián 'Muñeca' da Costa\" ist ein zentraler Veranstaltungsort für den Karneval in Paso de los Libres.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.108321,
+                        -29.723252
+                  ]
+            },
+            {
+                  "name": "Mafalda II",
+                  "text": "Mafalda II ist eine lokale Sehenswürdigkeit in Paso de los Libres.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.090933,
+                        -29.70889
+                  ]
+            },
+            {
+                  "name": "Municipalidad Paso de los Libres",
+                  "text": "Die Municipalidad Paso de los Libres ist das Rathaus und Verwaltungszentrum der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -57.086155,
+                        -29.714164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Carnaval",
+                  "text": "A Paso de los Libres-i Museo del Carnaval a város gazdag karneváli hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -57.109967,
+                        -29.724369
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Municipal",
+                  "text": "A Museo Histórico Municipal egy városi múzeum Paso de los Libres városában.",
+                  "category": "museum",
+                  "coords": [
+                        -57.086498,
+                        -29.718149
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Carlos Gomes",
+                  "text": "Az Anfiteatro Carlos Gomes egy szabadtéri színház Paso de los Libres városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.100997,
+                        -29.731089
+                  ]
+            },
+            {
+                  "name": "Sambródromo \"Carlos Adrián 'Muñeca' da Costa\"",
+                  "text": "A Sambródromo \"Carlos Adrián 'Muñeca' da Costa\" a karneváli ünnepségek központi helyszíne Paso de los Libres-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.108321,
+                        -29.723252
+                  ]
+            },
+            {
+                  "name": "Mafalda II",
+                  "text": "A Mafalda II egy turisztikai látványosság Paso de los Libres városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.090933,
+                        -29.70889
+                  ]
+            },
+            {
+                  "name": "Municipalidad Paso de los Libres",
+                  "text": "A Municipalidad Paso de los Libres a város városházája és közigazgatási központja.",
+                  "category": "historical",
+                  "coords": [
+                        -57.086155,
+                        -29.714164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Carnaval",
+                  "text": "Museo del Carnaval din Paso de los Libres celebrează bogatele tradiții de carnaval ale orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -57.109967,
+                        -29.724369
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Municipal",
+                  "text": "Museo Histórico Municipal este un muzeu municipal din Paso de los Libres.",
+                  "category": "museum",
+                  "coords": [
+                        -57.086498,
+                        -29.718149
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Carlos Gomes",
+                  "text": "Anfiteatro Carlos Gomes este un amfiteatru situat în Paso de los Libres.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.100997,
+                        -29.731089
+                  ]
+            },
+            {
+                  "name": "Sambródromo \"Carlos Adrián 'Muñeca' da Costa\"",
+                  "text": "Sambródromo \"Carlos Adrián 'Muñeca' da Costa\" este o locație centrală pentru festivitățile de carnaval din Paso de los Libres.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.108321,
+                        -29.723252
+                  ]
+            },
+            {
+                  "name": "Mafalda II",
+                  "text": "Mafalda II este o atracție turistică în Paso de los Libres.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.090933,
+                        -29.70889
+                  ]
+            },
+            {
+                  "name": "Municipalidad Paso de los Libres",
+                  "text": "Municipalidad Paso de los Libres este primăria și centrul administrativ al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -57.086155,
+                        -29.714164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Carnaval",
+                  "text": "The Museo del Carnaval in Paso de los Libres celebrates the city's rich carnival traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -57.109967,
+                        -29.724369
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Municipal",
+                  "text": "Museo Histórico Municipal is a municipal history museum in Paso de los Libres.",
+                  "category": "museum",
+                  "coords": [
+                        -57.086498,
+                        -29.718149
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Carlos Gomes",
+                  "text": "Anfiteatro Carlos Gomes is an open-air theatre located in Paso de los Libres.",
+                  "category": "cultural",
+                  "coords": [
+                        -57.100997,
+                        -29.731089
+                  ]
+            },
+            {
+                  "name": "Sambródromo \"Carlos Adrián 'Muñeca' da Costa\"",
+                  "text": "Sambródromo \"Carlos Adrián 'Muñeca' da Costa\" is a central venue for carnival celebrations in Paso de los Libres.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.108321,
+                        -29.723252
+                  ]
+            },
+            {
+                  "name": "Mafalda II",
+                  "text": "Mafalda II is a local attraction located in Paso de los Libres.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.090933,
+                        -29.70889
+                  ]
+            },
+            {
+                  "name": "Municipalidad Paso de los Libres",
+                  "text": "Municipalidad Paso de los Libres is the town hall and administrative centre of the city.",
+                  "category": "historical",
+                  "coords": [
+                        -57.086155,
+                        -29.714164
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A strategic border city on the Uruguay River, connected by an international bridge to the Brazilian city of Uruguaiana.",
       de: "Eine wichtige Grenzstadt zu Brasilien am Rio Uruguay mit intensiven Handelsbeziehungen.",
@@ -1333,7 +8182,124 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Nommée en 1843 après la traversée de Madariaga.", "Environ 50 000 habitants.", "Point de passage frontalier majeur vers le Brésil (Uruguaiana).", "Carnaval spectaculaire avec écoles de samba.", "Pont international sur le Río Uruguay.", "Centre de riziculture et d'élevage.", "Carrefour ferroviaire pour le commerce du Mercosur.", "Vagues d'immigration italienne et espagnole."],
     }, image: "/poi-images/ar-w-paso-de-los-libres-cities-v2.webp"},
   {
-    id: "ar-w-curuzu-cuatia-cities-v2",
+    id: "ar-w-curuzu-cuatia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anfiteatro Quique Sorribes",
+                  "text": "Ein Amphitheater in Curuzú Cuatiá.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.060078,
+                        -29.78714
+                  ]
+            },
+            {
+                  "name": "Sociedad Española - Sala Cervantes",
+                  "text": "Ein Theater in Curuzú Cuatiá.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.055282,
+                        -29.790079
+                  ]
+            },
+            {
+                  "name": "Museo \"Tarragó Ros\"",
+                  "text": "Ein Museum zu Ehren von Tarragó Ros in Curuzú Cuatiá.",
+                  "category": "museum",
+                  "coords": [
+                        -58.065581,
+                        -29.787253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anfiteatro Quique Sorribes",
+                  "text": "Amfiteátrum Curuzú Cuatiában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.060078,
+                        -29.78714
+                  ]
+            },
+            {
+                  "name": "Sociedad Española - Sala Cervantes",
+                  "text": "Színház Curuzú Cuatiában.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.055282,
+                        -29.790079
+                  ]
+            },
+            {
+                  "name": "Museo \"Tarragó Ros\"",
+                  "text": "Tarragó Ros múzeum Curuzú Cuatiában.",
+                  "category": "museum",
+                  "coords": [
+                        -58.065581,
+                        -29.787253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anfiteatro Quique Sorribes",
+                  "text": "Un amfiteatru în Curuzú Cuatiá.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.060078,
+                        -29.78714
+                  ]
+            },
+            {
+                  "name": "Sociedad Española - Sala Cervantes",
+                  "text": "Un teatru în Curuzú Cuatiá.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.055282,
+                        -29.790079
+                  ]
+            },
+            {
+                  "name": "Museo \"Tarragó Ros\"",
+                  "text": "Un muzeu dedicat lui Tarragó Ros în Curuzú Cuatiá.",
+                  "category": "museum",
+                  "coords": [
+                        -58.065581,
+                        -29.787253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anfiteatro Quique Sorribes",
+                  "text": "An amphitheatre in Curuzú Cuatiá.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.060078,
+                        -29.78714
+                  ]
+            },
+            {
+                  "name": "Sociedad Española - Sala Cervantes",
+                  "text": "A theatre in Curuzú Cuatiá.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.055282,
+                        -29.790079
+                  ]
+            },
+            {
+                  "name": "Museo \"Tarragó Ros\"",
+                  "text": "A museum dedicated to Tarragó Ros in Curuzú Cuatiá.",
+                  "category": "museum",
+                  "coords": [
+                        -58.065581,
+                        -29.787253
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historic city in southern Corrientes, founded by Manuel Belgrano and known as the 'Cradle of the Chamamé'.",
       de: "Eine historische Stadt im Süden der Provinz Corrientes, bekannt als 'Stadt des Rechts'.",
@@ -1515,7 +8481,304 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée en 1783 par Tomás de Rocamora.", "Environ 110 000 habitants.", "Plus grand carnaval d'Argentine chaque année de janvier à mars.", "« Corsódromo » spécial dédié au carnaval.", "Sources thermales et plages prisées.", "Protestations en 2006 contre les usines de pâte à papier en Uruguay.", "Influence des immigrants italiens et espagnols.", "Située sur la rivière du même nom."],
     }, image: "/poi-images/ar-e-gualeguaychu-cities-v2.webp"},
   {
-    id: "ar-e-concepcion-del-uruguay-cities-v2",
+    id: "ar-e-concepcion-del-uruguay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stella Maris",
+                  "text": "Ein Leuchtturm in Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.21029,
+                        -32.473493
+                  ]
+            },
+            {
+                  "name": "Balneario Villa Itapé",
+                  "text": "Ein Strand in Concepción del Uruguay.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.228203,
+                        -32.501102
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pronunciamiento",
+                  "text": "Ein historisches Denkmal in Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.232121,
+                        -32.484657
+                  ]
+            },
+            {
+                  "name": "Monumento a San Martin",
+                  "text": "Ein Denkmal für San Martín in Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.234224,
+                        -32.480195
+                  ]
+            },
+            {
+                  "name": "Monumento a la Loba",
+                  "text": "Ein Denkmal in Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.226288,
+                        -32.476122
+                  ]
+            },
+            {
+                  "name": "Fauna",
+                  "text": "Ein Kunstzentrum in Concepción del Uruguay.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.225256,
+                        -32.479287
+                  ]
+            },
+            {
+                  "name": "Punta Cambacuá",
+                  "text": "Eine Attraktion in Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.2088,
+                        -32.489612
+                  ]
+            },
+            {
+                  "name": "Basílica Inmaculada Concepción",
+                  "text": "Ein religiöser Ort in Concepción del Uruguay.",
+                  "category": "religious",
+                  "coords": [
+                        -58.233032,
+                        -32.485132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stella Maris",
+                  "text": "Világítótorony Concepción del Uruguayban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.21029,
+                        -32.473493
+                  ]
+            },
+            {
+                  "name": "Balneario Villa Itapé",
+                  "text": "Strand Concepción del Uruguayban.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.228203,
+                        -32.501102
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pronunciamiento",
+                  "text": "Történelmi emlékmű Concepción del Uruguayban.",
+                  "category": "historical",
+                  "coords": [
+                        -58.232121,
+                        -32.484657
+                  ]
+            },
+            {
+                  "name": "Monumento a San Martin",
+                  "text": "San Martín emlékműve Concepción del Uruguayban.",
+                  "category": "historical",
+                  "coords": [
+                        -58.234224,
+                        -32.480195
+                  ]
+            },
+            {
+                  "name": "Monumento a la Loba",
+                  "text": "Emlékmű Concepción del Uruguayban.",
+                  "category": "historical",
+                  "coords": [
+                        -58.226288,
+                        -32.476122
+                  ]
+            },
+            {
+                  "name": "Fauna",
+                  "text": "Művészeti központ Concepción del Uruguayban.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.225256,
+                        -32.479287
+                  ]
+            },
+            {
+                  "name": "Punta Cambacuá",
+                  "text": "Látnivaló Concepción del Uruguayban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.2088,
+                        -32.489612
+                  ]
+            },
+            {
+                  "name": "Basílica Inmaculada Concepción",
+                  "text": "Vallási helyszín Concepción del Uruguayban.",
+                  "category": "religious",
+                  "coords": [
+                        -58.233032,
+                        -32.485132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stella Maris",
+                  "text": "Un far în Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.21029,
+                        -32.473493
+                  ]
+            },
+            {
+                  "name": "Balneario Villa Itapé",
+                  "text": "O plajă în Concepción del Uruguay.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.228203,
+                        -32.501102
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pronunciamiento",
+                  "text": "Un monument istoric în Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.232121,
+                        -32.484657
+                  ]
+            },
+            {
+                  "name": "Monumento a San Martin",
+                  "text": "Un monument dedicat lui San Martín în Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.234224,
+                        -32.480195
+                  ]
+            },
+            {
+                  "name": "Monumento a la Loba",
+                  "text": "Un monument în Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.226288,
+                        -32.476122
+                  ]
+            },
+            {
+                  "name": "Fauna",
+                  "text": "Un centru de artă în Concepción del Uruguay.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.225256,
+                        -32.479287
+                  ]
+            },
+            {
+                  "name": "Punta Cambacuá",
+                  "text": "O atracție în Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.2088,
+                        -32.489612
+                  ]
+            },
+            {
+                  "name": "Basílica Inmaculada Concepción",
+                  "text": "Un loc de cult în Concepción del Uruguay.",
+                  "category": "religious",
+                  "coords": [
+                        -58.233032,
+                        -32.485132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stella Maris",
+                  "text": "A lighthouse in Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.21029,
+                        -32.473493
+                  ]
+            },
+            {
+                  "name": "Balneario Villa Itapé",
+                  "text": "A beach in Concepción del Uruguay.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.228203,
+                        -32.501102
+                  ]
+            },
+            {
+                  "name": "Pirámide del Pronunciamiento",
+                  "text": "A historic monument in Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.232121,
+                        -32.484657
+                  ]
+            },
+            {
+                  "name": "Monumento a San Martin",
+                  "text": "A monument to San Martín in Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.234224,
+                        -32.480195
+                  ]
+            },
+            {
+                  "name": "Monumento a la Loba",
+                  "text": "A monument in Concepción del Uruguay.",
+                  "category": "historical",
+                  "coords": [
+                        -58.226288,
+                        -32.476122
+                  ]
+            },
+            {
+                  "name": "Fauna",
+                  "text": "An arts centre in Concepción del Uruguay.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.225256,
+                        -32.479287
+                  ]
+            },
+            {
+                  "name": "Punta Cambacuá",
+                  "text": "An attraction in Concepción del Uruguay.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.2088,
+                        -32.489612
+                  ]
+            },
+            {
+                  "name": "Basílica Inmaculada Concepción",
+                  "text": "A place of worship in Concepción del Uruguay.",
+                  "category": "religious",
+                  "coords": [
+                        -58.233032,
+                        -32.485132
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A historic port city on the Uruguay River, featuring significant architectural landmarks and colonial history.",
       de: "Eine historische Stadt in Entre Ríos mit reichem kulturellem Erbe und bedeutenden Bildungseinrichtungen.",
@@ -1703,7 +8966,52 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["San Salvador de Jujuy is the seat of the oldest university in the Argentine Northwest.", "The city's nickname 'Tacita de Plata' refers to its bright, clean mountain appearance.", "The historical 'Jujuy Exodus' is commemorated every year on August 23rd.", "It is located at the confluence of the Rio Grande and the Rio Xibi Xibi.", "The city is a major center for the production of lead, silver, and zinc in Argentina.", "The Cathedral's pulpit is considered the finest example of wood carving in the country.", "The surrounding 'Yungas' cloud forest is a biodiversity hotspot nearby.", "The city is only 1,600 km from Buenos Aires but shares more culture with Bolivia."],
     }, image: "/poi-images/ar-y-san-salvador-de-jujuy-cities-v2.webp"},
   {
-    id: "ar-y-san-pedro-de-jujuy-cities-v2",
+    id: "ar-y-san-pedro-de-jujuy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palco del Recital",
+                  "text": "Palco del Recital ist ein Veranstaltungsort in San Pedro de Jujuy.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.868706,
+                        -24.231294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palco del Recital",
+                  "text": "A Palco del Recital egy rendezvényhelyszín San Pedro de Jujuy városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.868706,
+                        -24.231294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palco del Recital",
+                  "text": "Palco del Recital este o locație pentru evenimente în San Pedro de Jujuy.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.868706,
+                        -24.231294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palco del Recital",
+                  "text": "Palco del Recital is an event venue located in San Pedro de Jujuy.",
+                  "category": "cultural",
+                  "coords": [
+                        -64.868706,
+                        -24.231294
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A key industrial city in Jujuy province, known for its sugar cane production and agricultural industry.",
       de: "Ein wichtiges Agrarzentrum im Osten der Provinz Jujuy, bekannt für den Anbau von Zuckerrohr.",
@@ -1753,7 +9061,340 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée en 1883.", "Environ 75 000 habitants.", "Première région de canne à sucre de la province.", "Sucrerie La Esperanza depuis le XIXe siècle.", "Usine fondée par la famille britannique Leach.", "Située dans la vallée fertile du Río Grande.", "Vagues d'immigration italienne et d'Europe de l'Est.", "Festivals annuels de folklore."],
     }, image: "/poi-images/ar-y-san-pedro-de-jujuy-cities-v2.webp"},
   {
-    id: "ar-y-palpala-cities-v2",
+    id: "ar-y-palpala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paseo de los Duendes",
+                  "text": "Ein Themenpark in Palpalá.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.210312,
+                        -24.262042
+                  ]
+            },
+            {
+                  "name": "Paseo de las Flores",
+                  "text": "Ein Themenpark in Palpalá.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.210105,
+                        -24.249907
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Arroyo Las Martas",
+                  "text": "Ein Theater in Palpalá.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.207188,
+                        -24.255399
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal",
+                  "text": "Ein Wasserpark in Palpalá.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.197296,
+                        -24.25991
+                  ]
+            },
+            {
+                  "name": "Biblioteca Digital Museo Héroes de Malvinas",
+                  "text": "Ein Museum in Palpalá.",
+                  "category": "museum",
+                  "coords": [
+                        -65.21669,
+                        -24.258906
+                  ]
+            },
+            {
+                  "name": "Monumento a Nuestros Orígenes",
+                  "text": "Ein Denkmal in Palpalá.",
+                  "category": "historical",
+                  "coords": [
+                        -65.214822,
+                        -24.247764
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Ein Denkmal in Palpalá.",
+                  "category": "historical",
+                  "coords": [
+                        -65.212515,
+                        -24.265103
+                  ]
+            },
+            {
+                  "name": "Monumento Cristo De La Caridad",
+                  "text": "Ein Denkmal in Palpalá.",
+                  "category": "historical",
+                  "coords": [
+                        -65.212516,
+                        -24.26664
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Los Horneritos",
+                  "text": "Ein Kunstzentrum in Palpalá.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.231782,
+                        -24.262742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paseo de los Duendes",
+                  "text": "Vidámpark Palpalá-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.210312,
+                        -24.262042
+                  ]
+            },
+            {
+                  "name": "Paseo de las Flores",
+                  "text": "Vidámpark Palpalá-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.210105,
+                        -24.249907
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Arroyo Las Martas",
+                  "text": "Színház Palpalá-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.207188,
+                        -24.255399
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal",
+                  "text": "Vízi park Palpalá-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.197296,
+                        -24.25991
+                  ]
+            },
+            {
+                  "name": "Biblioteca Digital Museo Héroes de Malvinas",
+                  "text": "Múzeum Palpalá-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -65.21669,
+                        -24.258906
+                  ]
+            },
+            {
+                  "name": "Monumento a Nuestros Orígenes",
+                  "text": "Emlékmű Palpalá-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -65.214822,
+                        -24.247764
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Emlékmű Palpalá-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -65.212515,
+                        -24.265103
+                  ]
+            },
+            {
+                  "name": "Monumento Cristo De La Caridad",
+                  "text": "Emlékmű Palpalá-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -65.212516,
+                        -24.26664
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Los Horneritos",
+                  "text": "Művészeti központ Palpalá-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.231782,
+                        -24.262742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paseo de los Duendes",
+                  "text": "Un parc tematic în Palpalá.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.210312,
+                        -24.262042
+                  ]
+            },
+            {
+                  "name": "Paseo de las Flores",
+                  "text": "Un parc tematic în Palpalá.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.210105,
+                        -24.249907
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Arroyo Las Martas",
+                  "text": "Un teatru în Palpalá.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.207188,
+                        -24.255399
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal",
+                  "text": "Un parc acvatic în Palpalá.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.197296,
+                        -24.25991
+                  ]
+            },
+            {
+                  "name": "Biblioteca Digital Museo Héroes de Malvinas",
+                  "text": "Un muzeu în Palpalá.",
+                  "category": "museum",
+                  "coords": [
+                        -65.21669,
+                        -24.258906
+                  ]
+            },
+            {
+                  "name": "Monumento a Nuestros Orígenes",
+                  "text": "Un monument în Palpalá.",
+                  "category": "historical",
+                  "coords": [
+                        -65.214822,
+                        -24.247764
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Un monument în Palpalá.",
+                  "category": "historical",
+                  "coords": [
+                        -65.212515,
+                        -24.265103
+                  ]
+            },
+            {
+                  "name": "Monumento Cristo De La Caridad",
+                  "text": "Un monument în Palpalá.",
+                  "category": "historical",
+                  "coords": [
+                        -65.212516,
+                        -24.26664
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Los Horneritos",
+                  "text": "Un centru de artă în Palpalá.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.231782,
+                        -24.262742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paseo de los Duendes",
+                  "text": "A theme park in Palpalá.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.210312,
+                        -24.262042
+                  ]
+            },
+            {
+                  "name": "Paseo de las Flores",
+                  "text": "A theme park in Palpalá.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.210105,
+                        -24.249907
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Arroyo Las Martas",
+                  "text": "A theatre in Palpalá.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.207188,
+                        -24.255399
+                  ]
+            },
+            {
+                  "name": "Balneario Municipal",
+                  "text": "A water park in Palpalá.",
+                  "category": "recreational",
+                  "coords": [
+                        -65.197296,
+                        -24.25991
+                  ]
+            },
+            {
+                  "name": "Biblioteca Digital Museo Héroes de Malvinas",
+                  "text": "A museum in Palpalá.",
+                  "category": "museum",
+                  "coords": [
+                        -65.21669,
+                        -24.258906
+                  ]
+            },
+            {
+                  "name": "Monumento a Nuestros Orígenes",
+                  "text": "A monument in Palpalá.",
+                  "category": "historical",
+                  "coords": [
+                        -65.214822,
+                        -24.247764
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "A monument in Palpalá.",
+                  "category": "historical",
+                  "coords": [
+                        -65.212515,
+                        -24.265103
+                  ]
+            },
+            {
+                  "name": "Monumento Cristo De La Caridad",
+                  "text": "A monument in Palpalá.",
+                  "category": "historical",
+                  "coords": [
+                        -65.212516,
+                        -24.26664
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Los Horneritos",
+                  "text": "An arts centre in Palpalá.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.231782,
+                        -24.262742
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A city known for its historical iron and steel industrial activity in the Jujuy valley.",
       de: "Bekannt als die 'Mutter der Industrien' in Jujuy, geprägt durch die Stahlproduktion.",
@@ -1847,7 +9488,88 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Founded: April 22, 1892, during the late 19th-century agricultural boom.", "Location: Approximately 600 km southwest of Buenos Aires.", "Symbol: The Caldén tree is the provincial symbol and grows around the city.", "Government: The Provincial Government House is a masterpiece of brutalist architecture.", "Recreation: Laguna Don Tomás offers an 8-km circuit for walking and cycling.", "Flora: The region is famous for 'pasto llorón' (weeping grass), vital for cattle.", "Historical site: 'El Castillo' in Parque Luro was the first hunting lodge in Argentina.", "Climate: It experiences frost in winter and heatwaves exceeding 38°C in summer."],
     }, image: "/poi-images/ar-l-santa-rosa-cities-v2.webp"},
   {
-    id: "ar-l-general-pico-cities-v2",
+    id: "ar-l-general-pico-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Maracó",
+                  "text": "Das Museo Maracó ist ein Museum in der Stadt General Pico.",
+                  "category": "museum",
+                  "coords": [
+                        -63.756576,
+                        -35.663458
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Pico",
+                  "text": "Das Cine Teatro Pico ist ein Theater und Kino in General Pico.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.75259,
+                        -35.660853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Maracó",
+                  "text": "A Museo Maracó egy múzeum General Pico városában.",
+                  "category": "museum",
+                  "coords": [
+                        -63.756576,
+                        -35.663458
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Pico",
+                  "text": "A Cine Teatro Pico egy színház és mozi General Picóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.75259,
+                        -35.660853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Maracó",
+                  "text": "Museo Maracó este un muzeu situat în orașul General Pico.",
+                  "category": "museum",
+                  "coords": [
+                        -63.756576,
+                        -35.663458
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Pico",
+                  "text": "Cine Teatro Pico este un teatru și cinematograf situat în General Pico.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.75259,
+                        -35.660853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Maracó",
+                  "text": "The Museo Maracó is a museum located in the city of General Pico.",
+                  "category": "museum",
+                  "coords": [
+                        -63.756576,
+                        -35.663458
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Pico",
+                  "text": "Cine Teatro Pico is a theatre and cinema venue situated in General Pico.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.75259,
+                        -35.660853
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "An important commercial and agricultural city in the north of La Pampa province.",
       de: "Die zweitwichtigste Stadt in La Pampa, bekannt für ihre industrielle Entwicklung und Agrarwirtschaft.",
@@ -1941,7 +9663,340 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Founded on May 20, 1591, by conquistador Juan Ramírez de Velasco.", "Situated at an elevation of 498 meters above sea level.", "Famous as the origin of the Torrontés Riojano wine variety.", "The city's population is approximately 180,000 residents.", "Host of the historic Tinkunaco religious ceremony every New Year.", "Average summer highs frequently exceed 40°C (104°F).", "Home to the National University of La Rioja (UNLaR).", "Principal logistical hub for the olive oil industry in Argentina."],
     }, image: "/poi-images/ar-f-la-rioja-cities-v2.webp"},
   {
-    id: "ar-f-chilecito-cities-v2",
+    id: "ar-f-chilecito-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samay Huasi",
+                  "text": "Samay Huasi in Chilecito ist ein Museum und ehemaliges Anwesen des argentinischen Politikers Joaquín V. González.",
+                  "category": "museum",
+                  "coords": [
+                        -67.479511,
+                        -29.173966
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Chirau Mita",
+                  "text": "Der Jardín Botánico Chirau Mita ist ein Museum und botanischer Garten in Chilecito mit Fokus auf Kakteen.",
+                  "category": "museum",
+                  "coords": [
+                        -67.487359,
+                        -29.160267
+                  ]
+            },
+            {
+                  "name": "Molino San Francisco",
+                  "text": "Das Molino San Francisco ist ein Museum in Chilecito.",
+                  "category": "museum",
+                  "coords": [
+                        -67.501325,
+                        -29.163147
+                  ]
+            },
+            {
+                  "name": "Museo Cablecarril",
+                  "text": "Das Museo Cablecarril in Chilecito widmet sich der Geschichte der historischen Materialseilbahn.",
+                  "category": "museum",
+                  "coords": [
+                        -67.491412,
+                        -29.181609
+                  ]
+            },
+            {
+                  "name": "Tamberias del Inca",
+                  "text": "Tamberias del Inca ist eine archäologische Stätte in Chilecito.",
+                  "category": "historical",
+                  "coords": [
+                        -67.509485,
+                        -29.148662
+                  ]
+            },
+            {
+                  "name": "Estación I \"Chilecito\" - Cablecarril Mina La Mejicana",
+                  "text": "Die Estación I \"Chilecito\" ist die erste Station der historischen Seilbahn zur Mine La Mejicana.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.491713,
+                        -29.180469
+                  ]
+            },
+            {
+                  "name": "Entrada a Tamberias del Inca",
+                  "text": "Entrada a Tamberias del Inca markiert den Eingang zur archäologischen Stätte in Chilecito.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.50798,
+                        -29.150051
+                  ]
+            },
+            {
+                  "name": "Cristo del Portezuelo",
+                  "text": "Cristo del Portezuelo ist ein markantes Denkmal in Chilecito.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.487131,
+                        -29.166634
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Clara de Asis",
+                  "text": "Die Capilla Santa Clara de Asis ist eine katholische Kapelle in Chilecito.",
+                  "category": "religious",
+                  "coords": [
+                        -67.483518,
+                        -29.148415
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samay Huasi",
+                  "text": "A chilecitoi Samay Huasi egy múzeum és Joaquín V. González argentin politikus egykori birtoka.",
+                  "category": "museum",
+                  "coords": [
+                        -67.479511,
+                        -29.173966
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Chirau Mita",
+                  "text": "A Jardín Botánico Chirau Mita egy botanikus kert és múzeum Chilecito városában, amely kaktuszokra specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        -67.487359,
+                        -29.160267
+                  ]
+            },
+            {
+                  "name": "Molino San Francisco",
+                  "text": "A Molino San Francisco egy múzeum Chilecito városában.",
+                  "category": "museum",
+                  "coords": [
+                        -67.501325,
+                        -29.163147
+                  ]
+            },
+            {
+                  "name": "Museo Cablecarril",
+                  "text": "A chilecitoi Museo Cablecarril a történelmi drótkötélpálya történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -67.491412,
+                        -29.181609
+                  ]
+            },
+            {
+                  "name": "Tamberias del Inca",
+                  "text": "A Tamberias del Inca egy régészeti lelőhely Chilecito városában.",
+                  "category": "historical",
+                  "coords": [
+                        -67.509485,
+                        -29.148662
+                  ]
+            },
+            {
+                  "name": "Estación I \"Chilecito\" - Cablecarril Mina La Mejicana",
+                  "text": "Az Estación I \"Chilecito\" a La Mejicana bányához vezető történelmi drótkötélpálya első állomása.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.491713,
+                        -29.180469
+                  ]
+            },
+            {
+                  "name": "Entrada a Tamberias del Inca",
+                  "text": "Az Entrada a Tamberias del Inca jelzi a régészeti lelőhely bejáratát Chilecito városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.50798,
+                        -29.150051
+                  ]
+            },
+            {
+                  "name": "Cristo del Portezuelo",
+                  "text": "A Cristo del Portezuelo egy kiemelkedő emlékmű Chilecito városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.487131,
+                        -29.166634
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Clara de Asis",
+                  "text": "A Capilla Santa Clara de Asis egy katolikus kápolna Chilecito városában.",
+                  "category": "religious",
+                  "coords": [
+                        -67.483518,
+                        -29.148415
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samay Huasi",
+                  "text": "Samay Huasi din Chilecito este un muzeu și fosta proprietate a politicianului argentinian Joaquín V. González.",
+                  "category": "museum",
+                  "coords": [
+                        -67.479511,
+                        -29.173966
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Chirau Mita",
+                  "text": "Jardín Botánico Chirau Mita este o grădină botanică și muzeu din Chilecito axată pe cactuși.",
+                  "category": "museum",
+                  "coords": [
+                        -67.487359,
+                        -29.160267
+                  ]
+            },
+            {
+                  "name": "Molino San Francisco",
+                  "text": "Molino San Francisco este un muzeu situat în Chilecito.",
+                  "category": "museum",
+                  "coords": [
+                        -67.501325,
+                        -29.163147
+                  ]
+            },
+            {
+                  "name": "Museo Cablecarril",
+                  "text": "Museo Cablecarril din Chilecito este dedicat istoriei telecabinei miniere istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -67.491412,
+                        -29.181609
+                  ]
+            },
+            {
+                  "name": "Tamberias del Inca",
+                  "text": "Tamberias del Inca este un sit arheologic situat în Chilecito.",
+                  "category": "historical",
+                  "coords": [
+                        -67.509485,
+                        -29.148662
+                  ]
+            },
+            {
+                  "name": "Estación I \"Chilecito\" - Cablecarril Mina La Mejicana",
+                  "text": "Estación I \"Chilecito\" este prima stație a telecabinei istorice către mina La Mejicana.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.491713,
+                        -29.180469
+                  ]
+            },
+            {
+                  "name": "Entrada a Tamberias del Inca",
+                  "text": "Entrada a Tamberias del Inca marchează intrarea în situl arheologic din Chilecito.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.50798,
+                        -29.150051
+                  ]
+            },
+            {
+                  "name": "Cristo del Portezuelo",
+                  "text": "Cristo del Portezuelo este un monument proeminent din Chilecito.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.487131,
+                        -29.166634
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Clara de Asis",
+                  "text": "Capilla Santa Clara de Asis este o capelă catolică situată în Chilecito.",
+                  "category": "religious",
+                  "coords": [
+                        -67.483518,
+                        -29.148415
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samay Huasi",
+                  "text": "Samay Huasi in Chilecito is a museum and the former estate of Argentine politician Joaquín V. González.",
+                  "category": "museum",
+                  "coords": [
+                        -67.479511,
+                        -29.173966
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Chirau Mita",
+                  "text": "Jardín Botánico Chirau Mita is a botanical garden and museum in Chilecito focusing on cacti.",
+                  "category": "museum",
+                  "coords": [
+                        -67.487359,
+                        -29.160267
+                  ]
+            },
+            {
+                  "name": "Molino San Francisco",
+                  "text": "Molino San Francisco is a museum located in Chilecito.",
+                  "category": "museum",
+                  "coords": [
+                        -67.501325,
+                        -29.163147
+                  ]
+            },
+            {
+                  "name": "Museo Cablecarril",
+                  "text": "Museo Cablecarril in Chilecito is dedicated to the history of the historic mining cable car.",
+                  "category": "museum",
+                  "coords": [
+                        -67.491412,
+                        -29.181609
+                  ]
+            },
+            {
+                  "name": "Tamberias del Inca",
+                  "text": "Tamberias del Inca is an archaeological site located in Chilecito.",
+                  "category": "historical",
+                  "coords": [
+                        -67.509485,
+                        -29.148662
+                  ]
+            },
+            {
+                  "name": "Estación I \"Chilecito\" - Cablecarril Mina La Mejicana",
+                  "text": "Estación I \"Chilecito\" is the first station of the historical cableway to the La Mejicana mine.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.491713,
+                        -29.180469
+                  ]
+            },
+            {
+                  "name": "Entrada a Tamberias del Inca",
+                  "text": "Entrada a Tamberias del Inca marks the entrance to the archaeological site in Chilecito.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.50798,
+                        -29.150051
+                  ]
+            },
+            {
+                  "name": "Cristo del Portezuelo",
+                  "text": "Cristo del Portezuelo is a prominent monument in Chilecito.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.487131,
+                        -29.166634
+                  ]
+            },
+            {
+                  "name": "Capilla Santa Clara de Asis",
+                  "text": "Capilla Santa Clara de Asis is a Catholic chapel located in Chilecito.",
+                  "category": "religious",
+                  "coords": [
+                        -67.483518,
+                        -29.148415
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A town in La Rioja, famous for its mining history, especially the Cable Carril, and high-altitude vineyards.",
       de: "Die zweitgrößte Stadt der Provinz La Rioja, berühmt für ihren Bergbau und ihre Weinberge.",
@@ -2035,7 +10090,196 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Founded: March 2, 1561, by Spanish conquistador Pedro del Castillo.", "Wine: Mendoza is responsible for nearly 80% of Argentina's Malbec production.", "Peak: Mount Aconcagua is located just 112 kilometers from the city.", "Irrigation: The 'acequia' system is over 400 years old and still functional.", "Green Space: Parque General San Martín covers 307 hectares of irrigated land.", "Festival: The 'Vendimia' concludes with one of the world's largest light and sound shows.", "Trade: The city is a key stop on the main highway linking the Atlantic and Pacific oceans.", "History: It was the base for General San Martín's Crossing of the Andes in 1817."],
     }, image: "/poi-images/ar-m-mendoza-cities-v2.webp"},
   {
-    id: "ar-m-san-rafael-cities-v2",
+    id: "ar-m-san-rafael-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Griego",
+                  "text": "Ein Theater in San Rafael.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.351745,
+                        -34.61303
+                  ]
+            },
+            {
+                  "name": "La Vieja Usina",
+                  "text": "Ein Museum in San Rafael.",
+                  "category": "museum",
+                  "coords": [
+                        -68.351375,
+                        -34.604337
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Argentino",
+                  "text": "Ein Kunstzentrum in San Rafael.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.327788,
+                        -34.615059
+                  ]
+            },
+            {
+                  "name": "CTC (ex banco hipotecario)",
+                  "text": "Ein Denkmal in San Rafael.",
+                  "category": "historical",
+                  "coords": [
+                        -68.331279,
+                        -34.613409
+                  ]
+            },
+            {
+                  "name": "Centro Cultural San Rafael del Diamante",
+                  "text": "Ein Kunstzentrum in San Rafael.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.332995,
+                        -34.614678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Griego",
+                  "text": "Színház San Rafaelben.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.351745,
+                        -34.61303
+                  ]
+            },
+            {
+                  "name": "La Vieja Usina",
+                  "text": "Múzeum San Rafaelben.",
+                  "category": "museum",
+                  "coords": [
+                        -68.351375,
+                        -34.604337
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Argentino",
+                  "text": "Művészeti központ San Rafaelben.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.327788,
+                        -34.615059
+                  ]
+            },
+            {
+                  "name": "CTC (ex banco hipotecario)",
+                  "text": "Emlékmű San Rafaelben.",
+                  "category": "historical",
+                  "coords": [
+                        -68.331279,
+                        -34.613409
+                  ]
+            },
+            {
+                  "name": "Centro Cultural San Rafael del Diamante",
+                  "text": "Művészeti központ San Rafaelben.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.332995,
+                        -34.614678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Griego",
+                  "text": "Un teatru în San Rafael.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.351745,
+                        -34.61303
+                  ]
+            },
+            {
+                  "name": "La Vieja Usina",
+                  "text": "Un muzeu în San Rafael.",
+                  "category": "museum",
+                  "coords": [
+                        -68.351375,
+                        -34.604337
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Argentino",
+                  "text": "Un centru de artă în San Rafael.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.327788,
+                        -34.615059
+                  ]
+            },
+            {
+                  "name": "CTC (ex banco hipotecario)",
+                  "text": "Un monument în San Rafael.",
+                  "category": "historical",
+                  "coords": [
+                        -68.331279,
+                        -34.613409
+                  ]
+            },
+            {
+                  "name": "Centro Cultural San Rafael del Diamante",
+                  "text": "Un centru de artă în San Rafael.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.332995,
+                        -34.614678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Griego",
+                  "text": "A theatre in San Rafael.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.351745,
+                        -34.61303
+                  ]
+            },
+            {
+                  "name": "La Vieja Usina",
+                  "text": "A museum in San Rafael.",
+                  "category": "museum",
+                  "coords": [
+                        -68.351375,
+                        -34.604337
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Argentino",
+                  "text": "An arts centre in San Rafael.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.327788,
+                        -34.615059
+                  ]
+            },
+            {
+                  "name": "CTC (ex banco hipotecario)",
+                  "text": "A monument in San Rafael.",
+                  "category": "historical",
+                  "coords": [
+                        -68.331279,
+                        -34.613409
+                  ]
+            },
+            {
+                  "name": "Centro Cultural San Rafael del Diamante",
+                  "text": "An arts centre in San Rafael.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.332995,
+                        -34.614678
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A major city in Mendoza province, known for adventure tourism, water reservoirs, and agricultural exports.",
       de: "Eine malerische Stadt im Süden der Provinz Mendoza, bekannt für Abenteuertourismus und Wein.",
@@ -2085,7 +10329,484 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée le 2 octobre 1903.", "Environ 130 000 habitants.", "Zone importante de viticulture et d'oléiculture.", "Située entre les rivières Atuel et Diamante.", "Le Cañón del Atuel comme attraction touristique.", "Station de ski Las Leñas à proximité.", "Marquée par l'immigration italienne et française.", "Réputée pour le rafting et les activités de plein air."],
     }, image: "/poi-images/ar-m-san-rafael-cities-v2.webp"},
   {
-    id: "ar-m-godoy-cruz-cities-v2",
+    id: "ar-m-godoy-cruz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Memorial de la Bandera de Los Andes",
+                  "text": "Das Memorial de la Bandera de Los Andes ist ein historisches Museum in Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.846339,
+                        -32.897898
+                  ]
+            },
+            {
+                  "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
+                  "text": "Das Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas ist ein Museum in Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.845112,
+                        -32.925986
+                  ]
+            },
+            {
+                  "name": "Museo Farmacéutico",
+                  "text": "Das Museo Farmacéutico ist ein Pharmaziemuseum in Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.845611,
+                        -32.924402
+                  ]
+            },
+            {
+                  "name": "Museo de Veterinaria Doctor Eduardo Murthag",
+                  "text": "Das Museo de Veterinaria Doctor Eduardo Murthag ist ein Veterinärmuseum in Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.848243,
+                        -32.917968
+                  ]
+            },
+            {
+                  "name": "Auditorio B+M",
+                  "text": "Das Auditorio B+M ist ein Theater in Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.843538,
+                        -32.924439
+                  ]
+            },
+            {
+                  "name": "Teatro Enkosala Gladys Ravalle",
+                  "text": "Das Teatro Enkosala Gladys Ravalle ist ein Theater in der Stadt Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.846912,
+                        -32.90915
+                  ]
+            },
+            {
+                  "name": "Enkosala \"Gladys Ravalle\"",
+                  "text": "Enkosala \"Gladys Ravalle\" ist ein Theatergebäude in Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.847955,
+                        -32.91627
+                  ]
+            },
+            {
+                  "name": "Teatro Las Sillas",
+                  "text": "Das Teatro Las Sillas ist ein lokales Theater in der Stadt Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.858382,
+                        -32.902024
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Sanmartiniana \"Fidel Roig Matóns\"",
+                  "text": "Die Pinacoteca Sanmartiniana \"Fidel Roig Matóns\" ist ein Museum in Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.843064,
+                        -32.898412
+                  ]
+            },
+            {
+                  "name": "Teatro Selectro",
+                  "text": "Das Selectro Theater ist ein Veranstaltungsort in Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.843617,
+                        -32.901012
+                  ]
+            },
+            {
+                  "name": "Parque Tematico Vial",
+                  "text": "Der Parque Tematico Vial ist ein Themenpark in Godoy Cruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.856558,
+                        -32.92793
+                  ]
+            },
+            {
+                  "name": "Virgen De La Medalla Milagrosa",
+                  "text": "Virgen De La Medalla Milagrosa ist ein religiöses Denkmal in Godoy Cruz.",
+                  "category": "historical",
+                  "coords": [
+                        -68.840782,
+                        -32.938426
+                  ]
+            },
+            {
+                  "name": "Arte y Diseño Mónica Bandeira",
+                  "text": "Arte y Diseño Mónica Bandeira ist ein Kunstzentrum in Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.842486,
+                        -32.922315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Memorial de la Bandera de Los Andes",
+                  "text": "A Memorial de la Bandera de Los Andes egy történelmi múzeum Godoy Cruzban.",
+                  "category": "museum",
+                  "coords": [
+                        -68.846339,
+                        -32.897898
+                  ]
+            },
+            {
+                  "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
+                  "text": "A Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas egy múzeum Godoy Cruz városában.",
+                  "category": "museum",
+                  "coords": [
+                        -68.845112,
+                        -32.925986
+                  ]
+            },
+            {
+                  "name": "Museo Farmacéutico",
+                  "text": "A Museo Farmacéutico egy gyógyszerészeti múzeum Godoy Cruzban.",
+                  "category": "museum",
+                  "coords": [
+                        -68.845611,
+                        -32.924402
+                  ]
+            },
+            {
+                  "name": "Museo de Veterinaria Doctor Eduardo Murthag",
+                  "text": "A Museo de Veterinaria Doctor Eduardo Murthag egy állatorvosi múzeum Godoy Cruzban.",
+                  "category": "museum",
+                  "coords": [
+                        -68.848243,
+                        -32.917968
+                  ]
+            },
+            {
+                  "name": "Auditorio B+M",
+                  "text": "Az Auditorio B+M egy színház Godoy Cruz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.843538,
+                        -32.924439
+                  ]
+            },
+            {
+                  "name": "Teatro Enkosala Gladys Ravalle",
+                  "text": "A Teatro Enkosala Gladys Ravalle egy színház Godoy Cruz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.846912,
+                        -32.90915
+                  ]
+            },
+            {
+                  "name": "Enkosala \"Gladys Ravalle\"",
+                  "text": "Az Enkosala \"Gladys Ravalle\" egy színház Godoy Cruzban.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.847955,
+                        -32.91627
+                  ]
+            },
+            {
+                  "name": "Teatro Las Sillas",
+                  "text": "A Teatro Las Sillas egy helyi színház Godoy Cruz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.858382,
+                        -32.902024
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Sanmartiniana \"Fidel Roig Matóns\"",
+                  "text": "A Pinacoteca Sanmartiniana \"Fidel Roig Matóns\" egy múzeum Godoy Cruzban.",
+                  "category": "museum",
+                  "coords": [
+                        -68.843064,
+                        -32.898412
+                  ]
+            },
+            {
+                  "name": "Teatro Selectro",
+                  "text": "A Selectro Theater egy előadó-művészeti helyszín Godoy Cruzban.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.843617,
+                        -32.901012
+                  ]
+            },
+            {
+                  "name": "Parque Tematico Vial",
+                  "text": "A Parque Tematico Vial egy vidámpark Godoy Cruzban.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.856558,
+                        -32.92793
+                  ]
+            },
+            {
+                  "name": "Virgen De La Medalla Milagrosa",
+                  "text": "A Virgen De La Medalla Milagrosa egy vallási emlékmű Godoy Cruzban.",
+                  "category": "historical",
+                  "coords": [
+                        -68.840782,
+                        -32.938426
+                  ]
+            },
+            {
+                  "name": "Arte y Diseño Mónica Bandeira",
+                  "text": "Az Arte y Diseño Mónica Bandeira egy művészeti központ Godoy Cruzban.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.842486,
+                        -32.922315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Memorial de la Bandera de Los Andes",
+                  "text": "Memorial de la Bandera de Los Andes este un muzeu istoric situat în Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.846339,
+                        -32.897898
+                  ]
+            },
+            {
+                  "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
+                  "text": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas este un muzeu situat în Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.845112,
+                        -32.925986
+                  ]
+            },
+            {
+                  "name": "Museo Farmacéutico",
+                  "text": "Museo Farmacéutico este un muzeu farmaceutic situat în Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.845611,
+                        -32.924402
+                  ]
+            },
+            {
+                  "name": "Museo de Veterinaria Doctor Eduardo Murthag",
+                  "text": "Museo de Veterinaria Doctor Eduardo Murthag este un muzeu veterinar situat în Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.848243,
+                        -32.917968
+                  ]
+            },
+            {
+                  "name": "Auditorio B+M",
+                  "text": "Auditorio B+M este un teatru situat în Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.843538,
+                        -32.924439
+                  ]
+            },
+            {
+                  "name": "Teatro Enkosala Gladys Ravalle",
+                  "text": "Teatro Enkosala Gladys Ravalle este un teatru situat în orașul Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.846912,
+                        -32.90915
+                  ]
+            },
+            {
+                  "name": "Enkosala \"Gladys Ravalle\"",
+                  "text": "Enkosala \"Gladys Ravalle\" este un teatru situat în Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.847955,
+                        -32.91627
+                  ]
+            },
+            {
+                  "name": "Teatro Las Sillas",
+                  "text": "Teatro Las Sillas este un teatru local situat în orașul Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.858382,
+                        -32.902024
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Sanmartiniana \"Fidel Roig Matóns\"",
+                  "text": "Pinacoteca Sanmartiniana \"Fidel Roig Matóns\" este un muzeu situat în Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.843064,
+                        -32.898412
+                  ]
+            },
+            {
+                  "name": "Teatro Selectro",
+                  "text": "Selectro Theater este un teatru situat în Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.843617,
+                        -32.901012
+                  ]
+            },
+            {
+                  "name": "Parque Tematico Vial",
+                  "text": "Parque Tematico Vial este un parc tematic situat în Godoy Cruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.856558,
+                        -32.92793
+                  ]
+            },
+            {
+                  "name": "Virgen De La Medalla Milagrosa",
+                  "text": "Virgen De La Medalla Milagrosa este un monument religios situat în Godoy Cruz.",
+                  "category": "historical",
+                  "coords": [
+                        -68.840782,
+                        -32.938426
+                  ]
+            },
+            {
+                  "name": "Arte y Diseño Mónica Bandeira",
+                  "text": "Arte y Diseño Mónica Bandeira este un centru de artă situat în Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.842486,
+                        -32.922315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Memorial de la Bandera de Los Andes",
+                  "text": "The Memorial de la Bandera de Los Andes is a historical museum situated in Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.846339,
+                        -32.897898
+                  ]
+            },
+            {
+                  "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
+                  "text": "This is a local museum located in the city of Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.845112,
+                        -32.925986
+                  ]
+            },
+            {
+                  "name": "Museo Farmacéutico",
+                  "text": "The Museo Farmacéutico is a pharmaceutical museum situated in Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.845611,
+                        -32.924402
+                  ]
+            },
+            {
+                  "name": "Museo de Veterinaria Doctor Eduardo Murthag",
+                  "text": "The Museo de Veterinaria Doctor Eduardo Murthag is a veterinary museum located in Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.848243,
+                        -32.917968
+                  ]
+            },
+            {
+                  "name": "Auditorio B+M",
+                  "text": "Auditorio B+M is a theatre venue located in Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.843538,
+                        -32.924439
+                  ]
+            },
+            {
+                  "name": "Teatro Enkosala Gladys Ravalle",
+                  "text": "Teatro Enkosala Gladys Ravalle is a theatre situated in the city of Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.846912,
+                        -32.90915
+                  ]
+            },
+            {
+                  "name": "Enkosala \"Gladys Ravalle\"",
+                  "text": "Enkosala \"Gladys Ravalle\" is a performing arts theatre located in Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.847955,
+                        -32.91627
+                  ]
+            },
+            {
+                  "name": "Teatro Las Sillas",
+                  "text": "Teatro Las Sillas is a local theatre located in the city of Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.858382,
+                        -32.902024
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Sanmartiniana \"Fidel Roig Matóns\"",
+                  "text": "The Pinacoteca Sanmartiniana \"Fidel Roig Matóns\" is an art museum in Godoy Cruz.",
+                  "category": "museum",
+                  "coords": [
+                        -68.843064,
+                        -32.898412
+                  ]
+            },
+            {
+                  "name": "Selectro Theater",
+                  "text": "The Selectro Theater is a prominent theatre venue located in Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.843617,
+                        -32.901012
+                  ]
+            },
+            {
+                  "name": "Parque Tematico Vial",
+                  "text": "Parque Tematico Vial is a theme park located in Godoy Cruz.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.856558,
+                        -32.92793
+                  ]
+            },
+            {
+                  "name": "Virgen De La Medalla Milagrosa",
+                  "text": "Virgen De La Medalla Milagrosa is a religious monument situated in Godoy Cruz.",
+                  "category": "historical",
+                  "coords": [
+                        -68.840782,
+                        -32.938426
+                  ]
+            },
+            {
+                  "name": "Arte y Diseño Mónica Bandeira",
+                  "text": "Arte y Diseño Mónica Bandeira is an arts centre located in Godoy Cruz.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.842486,
+                        -32.922315
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "Part of the Mendoza Greater Area, known for its urban development and close proximity to downtown Mendoza.",
       hu: "Mendoza agglomerációjának szerves része, amely fontos kereskedelmi és ipari központ. A város híres borászatairól és aktív kulturális életéről.",
@@ -2135,7 +10856,52 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée en 1855 sous le nom de San Vicente.", "Renommée en 1920 en l'honneur de Tomás Godoy Cruz.", "Environ 200 000 habitants.", "Stade Malvinas Argentinas (Mondial 1978).", "Influence de l'immigration italienne dans la viticulture.", "Siège d'importants domaines viticoles.", "Club de football Godoy Cruz Antonio Tomba.", "Fait partie du Grand Mendoza."],
     }, image: "/poi-images/ar-m-godoy-cruz-cities-v2.webp"},
   {
-    id: "ar-m-lujan-de-cuyo-cities-v2",
+    id: "ar-m-lujan-de-cuyo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Histórico Regional Americanista",
+                  "text": "Das Museo Histórico Regional Americanista ist ein Museum in Luján de Cuyo.",
+                  "category": "museum",
+                  "coords": [
+                        -68.892923,
+                        -33.035692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Histórico Regional Americanista",
+                  "text": "A Museo Histórico Regional Americanista egy múzeum Luján de Cuyo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -68.892923,
+                        -33.035692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Histórico Regional Americanista",
+                  "text": "Museo Histórico Regional Americanista este un muzeu din Luján de Cuyo.",
+                  "category": "museum",
+                  "coords": [
+                        -68.892923,
+                        -33.035692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Histórico Regional Americanista",
+                  "text": "Museo Histórico Regional Americanista is a museum located in Luján de Cuyo.",
+                  "category": "museum",
+                  "coords": [
+                        -68.892923,
+                        -33.035692
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "Famous for its premium vineyards, making it a critical region for Mendoza's high-quality wine industry.",
       hu: "Az argentin Malbec bor hazájaként ismert város Mendoza tartományban. Az Andok lábánál fekvő település a borászat és a turizmus kiemelkedő központja.",
@@ -2423,7 +11189,628 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Neuquén became the provincial capital in 1904, moving from Chos Malal.", "The city is located at the 'Confluencia' of the Neuquén and Limay rivers.", "It is known as the headquarters of the National University of Comahue.", "The MNBA Neuquén was designed by architect Mario Roberto Álvarez.", "Neuquén serves as the primary gateway to the massive Vaca Muerta energy project.", "The city's climate is semi-arid, with significant wind patterns from the west.", "Presidente Perón International Airport is the busiest in the Patagonia region.", "The metropolitan area is known as 'Gran Neuquén' and is a major commercial hub."],
     }, image: "/poi-images/ar-q-neuquen-cities-v2.webp"},
   {
-    id: "ar-q-san-martin-de-los-andes-cities-v2",
+    id: "ar-q-san-martin-de-los-andes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Pastera Museo del Che Guevara",
+                  "text": "Ein dem Che Guevara gewidmetes Museum in San Martín de los Andes.",
+                  "category": "museum",
+                  "coords": [
+                        -71.348702,
+                        -40.152788
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural",
+                  "text": "Ein Museum in San Martín de los Andes.",
+                  "category": "museum",
+                  "coords": [
+                        -71.350372,
+                        -40.158392
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Centenario",
+                  "text": "Ein Naturschutzgebiet in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.34665,
+                        -40.160724
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Primeros Pobladores",
+                  "text": "Ein Museum in San Martín de los Andes.",
+                  "category": "museum",
+                  "coords": [
+                        -71.35185,
+                        -40.156725
+                  ]
+            },
+            {
+                  "name": "Cerro Curru Huinca",
+                  "text": "Ein Berggipfel in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.378404,
+                        -40.146307
+                  ]
+            },
+            {
+                  "name": "Mirador Arrayán",
+                  "text": "Ein Aussichtspunkt in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.352254,
+                        -40.167014
+                  ]
+            },
+            {
+                  "name": "Mirador Bandurrias",
+                  "text": "Ein Aussichtspunkt in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.374073,
+                        -40.165337
+                  ]
+            },
+            {
+                  "name": "Mirador “El Balcón”",
+                  "text": "Ein Aussichtspunkt in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.344386,
+                        -40.146423
+                  ]
+            },
+            {
+                  "name": "La pantalla",
+                  "text": "Ein Aussichtspunkt in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.366129,
+                        -40.151457
+                  ]
+            },
+            {
+                  "name": "Mirador Michel Rinke",
+                  "text": "Ein Aussichtspunkt in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.347078,
+                        -40.159217
+                  ]
+            },
+            {
+                  "name": "Antigua Usina del Arroyo Calbuco",
+                  "text": "Eine Ruine in San Martín de los Andes.",
+                  "category": "historical",
+                  "coords": [
+                        -71.333503,
+                        -40.150547
+                  ]
+            },
+            {
+                  "name": "Aserradero Móvil",
+                  "text": "Ein Denkmal in San Martín de los Andes.",
+                  "category": "historical",
+                  "coords": [
+                        -71.357515,
+                        -40.161419
+                  ]
+            },
+            {
+                  "name": "Cartel de San Martín de los Andes",
+                  "text": "Eine Attraktion in San Martín de los Andes.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.359299,
+                        -40.16097
+                  ]
+            },
+            {
+                  "name": "Balneario Lago Lácar",
+                  "text": "Ein Strandbad in San Martín de los Andes.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.360352,
+                        -40.160329
+                  ]
+            },
+            {
+                  "name": "Mirador Aldea",
+                  "text": "Ein Aussichtspunkt in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.353708,
+                        -40.169784
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Ein Aussichtspunkt in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.376278,
+                        -40.164605
+                  ]
+            },
+            {
+                  "name": "Espacio Trama",
+                  "text": "Ein Kunstzentrum in San Martín de los Andes.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.357969,
+                        -40.157791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Pastera Museo del Che Guevara",
+                  "text": "Che Guevarának szentelt múzeum San Martín de los Andesben.",
+                  "category": "museum",
+                  "coords": [
+                        -71.348702,
+                        -40.152788
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural",
+                  "text": "Múzeum San Martín de los Andesben.",
+                  "category": "museum",
+                  "coords": [
+                        -71.350372,
+                        -40.158392
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Centenario",
+                  "text": "Természetvédelmi terület San Martín de los Andesben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.34665,
+                        -40.160724
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Primeros Pobladores",
+                  "text": "Múzeum San Martín de los Andesben.",
+                  "category": "museum",
+                  "coords": [
+                        -71.35185,
+                        -40.156725
+                  ]
+            },
+            {
+                  "name": "Cerro Curru Huinca",
+                  "text": "Hegycsúcs San Martín de los Andesben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.378404,
+                        -40.146307
+                  ]
+            },
+            {
+                  "name": "Mirador Arrayán",
+                  "text": "Kilátó San Martín de los Andesben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.352254,
+                        -40.167014
+                  ]
+            },
+            {
+                  "name": "Mirador Bandurrias",
+                  "text": "Kilátó San Martín de los Andesben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.374073,
+                        -40.165337
+                  ]
+            },
+            {
+                  "name": "Mirador “El Balcón”",
+                  "text": "Kilátó San Martín de los Andesben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.344386,
+                        -40.146423
+                  ]
+            },
+            {
+                  "name": "La pantalla",
+                  "text": "Kilátó San Martín de los Andesben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.366129,
+                        -40.151457
+                  ]
+            },
+            {
+                  "name": "Mirador Michel Rinke",
+                  "text": "Kilátó San Martín de los Andesben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.347078,
+                        -40.159217
+                  ]
+            },
+            {
+                  "name": "Antigua Usina del Arroyo Calbuco",
+                  "text": "Romok San Martín de los Andesben.",
+                  "category": "historical",
+                  "coords": [
+                        -71.333503,
+                        -40.150547
+                  ]
+            },
+            {
+                  "name": "Aserradero Móvil",
+                  "text": "Emlékmű San Martín de los Andesben.",
+                  "category": "historical",
+                  "coords": [
+                        -71.357515,
+                        -40.161419
+                  ]
+            },
+            {
+                  "name": "Cartel de San Martín de los Andes",
+                  "text": "Látnivaló San Martín de los Andesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.359299,
+                        -40.16097
+                  ]
+            },
+            {
+                  "name": "Balneario Lago Lácar",
+                  "text": "Strandfürdő San Martín de los Andesben.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.360352,
+                        -40.160329
+                  ]
+            },
+            {
+                  "name": "Mirador Aldea",
+                  "text": "Kilátó San Martín de los Andesben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.353708,
+                        -40.169784
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Kilátó San Martín de los Andesben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.376278,
+                        -40.164605
+                  ]
+            },
+            {
+                  "name": "Espacio Trama",
+                  "text": "Művészeti központ San Martín de los Andesben.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.357969,
+                        -40.157791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Pastera Museo del Che Guevara",
+                  "text": "Un muzeu dedicat lui Che Guevara în San Martín de los Andes.",
+                  "category": "museum",
+                  "coords": [
+                        -71.348702,
+                        -40.152788
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural",
+                  "text": "Un muzeu în San Martín de los Andes.",
+                  "category": "museum",
+                  "coords": [
+                        -71.350372,
+                        -40.158392
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Centenario",
+                  "text": "O rezervație naturală în San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.34665,
+                        -40.160724
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Primeros Pobladores",
+                  "text": "Un muzeu în San Martín de los Andes.",
+                  "category": "museum",
+                  "coords": [
+                        -71.35185,
+                        -40.156725
+                  ]
+            },
+            {
+                  "name": "Cerro Curru Huinca",
+                  "text": "Un vârf montan în San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.378404,
+                        -40.146307
+                  ]
+            },
+            {
+                  "name": "Mirador Arrayán",
+                  "text": "Un punct de observație în San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.352254,
+                        -40.167014
+                  ]
+            },
+            {
+                  "name": "Mirador Bandurrias",
+                  "text": "Un punct de observație în San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.374073,
+                        -40.165337
+                  ]
+            },
+            {
+                  "name": "Mirador “El Balcón”",
+                  "text": "Un punct de observație în San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.344386,
+                        -40.146423
+                  ]
+            },
+            {
+                  "name": "La pantalla",
+                  "text": "Un punct de observație în San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.366129,
+                        -40.151457
+                  ]
+            },
+            {
+                  "name": "Mirador Michel Rinke",
+                  "text": "Un punct de observație în San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.347078,
+                        -40.159217
+                  ]
+            },
+            {
+                  "name": "Antigua Usina del Arroyo Calbuco",
+                  "text": "Ruine în San Martín de los Andes.",
+                  "category": "historical",
+                  "coords": [
+                        -71.333503,
+                        -40.150547
+                  ]
+            },
+            {
+                  "name": "Aserradero Móvil",
+                  "text": "Un monument în San Martín de los Andes.",
+                  "category": "historical",
+                  "coords": [
+                        -71.357515,
+                        -40.161419
+                  ]
+            },
+            {
+                  "name": "Cartel de San Martín de los Andes",
+                  "text": "O atracție în San Martín de los Andes.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.359299,
+                        -40.16097
+                  ]
+            },
+            {
+                  "name": "Balneario Lago Lácar",
+                  "text": "O stațiune pe plajă în San Martín de los Andes.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.360352,
+                        -40.160329
+                  ]
+            },
+            {
+                  "name": "Mirador Aldea",
+                  "text": "Un punct de observație în San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.353708,
+                        -40.169784
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Un punct de observație în San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.376278,
+                        -40.164605
+                  ]
+            },
+            {
+                  "name": "Espacio Trama",
+                  "text": "Un centru de artă în San Martín de los Andes.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.357969,
+                        -40.157791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Pastera Museo del Che Guevara",
+                  "text": "A museum dedicated to Che Guevara in San Martín de los Andes.",
+                  "category": "museum",
+                  "coords": [
+                        -71.348702,
+                        -40.152788
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural",
+                  "text": "A museum in San Martín de los Andes.",
+                  "category": "museum",
+                  "coords": [
+                        -71.350372,
+                        -40.158392
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Centenario",
+                  "text": "A nature reserve in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.34665,
+                        -40.160724
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Primeros Pobladores",
+                  "text": "A museum in San Martín de los Andes.",
+                  "category": "museum",
+                  "coords": [
+                        -71.35185,
+                        -40.156725
+                  ]
+            },
+            {
+                  "name": "Cerro Curru Huinca",
+                  "text": "A mountain peak in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.378404,
+                        -40.146307
+                  ]
+            },
+            {
+                  "name": "Mirador Arrayán",
+                  "text": "A viewpoint in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.352254,
+                        -40.167014
+                  ]
+            },
+            {
+                  "name": "Mirador Bandurrias",
+                  "text": "A viewpoint in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.374073,
+                        -40.165337
+                  ]
+            },
+            {
+                  "name": "Mirador “El Balcón”",
+                  "text": "A viewpoint in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.344386,
+                        -40.146423
+                  ]
+            },
+            {
+                  "name": "La pantalla",
+                  "text": "A viewpoint in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.366129,
+                        -40.151457
+                  ]
+            },
+            {
+                  "name": "Mirador Michel Rinke",
+                  "text": "A viewpoint in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.347078,
+                        -40.159217
+                  ]
+            },
+            {
+                  "name": "Antigua Usina del Arroyo Calbuco",
+                  "text": "Ruins in San Martín de los Andes.",
+                  "category": "historical",
+                  "coords": [
+                        -71.333503,
+                        -40.150547
+                  ]
+            },
+            {
+                  "name": "Aserradero Móvil",
+                  "text": "A monument in San Martín de los Andes.",
+                  "category": "historical",
+                  "coords": [
+                        -71.357515,
+                        -40.161419
+                  ]
+            },
+            {
+                  "name": "Cartel de San Martín de los Andes",
+                  "text": "An attraction in San Martín de los Andes.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.359299,
+                        -40.16097
+                  ]
+            },
+            {
+                  "name": "Balneario Lago Lácar",
+                  "text": "A beach resort in San Martín de los Andes.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.360352,
+                        -40.160329
+                  ]
+            },
+            {
+                  "name": "Mirador Aldea",
+                  "text": "A viewpoint in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.353708,
+                        -40.169784
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "A viewpoint in San Martín de los Andes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.376278,
+                        -40.164605
+                  ]
+            },
+            {
+                  "name": "Espacio Trama",
+                  "text": "An arts centre in San Martín de los Andes.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.357969,
+                        -40.157791
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A picturesque mountain resort in the Andes, known for its scenic lakes and ski resort, Chapelco.",
       hu: "Látványos hegyvidéki üdülőváros a Lácar-tó partján, az Andok ölelésében. A város híres alpesi stílusú építészetéről és a Lanín Nemzeti Parkról.",
@@ -2473,7 +11860,304 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée le 4 février 1898.", "Environ 32 000 habitants.", "Située au bord du lac Lácar à 640 m d'altitude.", "Porte du parc national Lanín.", "Station de ski Cerro Chapelco.", "Architecture de style alpin.", "Influence des immigrés allemands et suisses.", "Riche patrimoine culturel mapuche."],
     }, image: "/poi-images/ar-q-san-martin-de-los-andes-cities-v2.webp"},
   {
-    id: "ar-q-zapala-cities-v2",
+    id: "ar-q-zapala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Vial de la Provincia del Neuquén",
+                  "text": "Das Museo Vial de la Provincia del Neuquén ist ein Museum in der Stadt Zapala.",
+                  "category": "museum",
+                  "coords": [
+                        -70.067559,
+                        -38.903642
+                  ]
+            },
+            {
+                  "name": "Museo Olsacher Zapala",
+                  "text": "Das Museo Olsacher Zapala ist ein Museum in der Stadt Zapala.",
+                  "category": "museum",
+                  "coords": [
+                        -70.068591,
+                        -38.906441
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Municipal \"Amado Sapag\"",
+                  "text": "Das Cine Teatro Municipal \"Amado Sapag\" ist ein städtisches Theater in Zapala.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.065148,
+                        -38.903635
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Municipal",
+                  "text": "Das Museo Histórico Municipal ist ein lokales Geschichtsmuseum in Zapala.",
+                  "category": "museum",
+                  "coords": [
+                        -70.063085,
+                        -38.903974
+                  ]
+            },
+            {
+                  "name": "Cerro Michacheo",
+                  "text": "Der Cerro Michacheo ist ein markanter Berggipfel in der Nähe der Stadt Zapala.",
+                  "category": "natural",
+                  "coords": [
+                        -70.018718,
+                        -38.902499
+                  ]
+            },
+            {
+                  "name": "Zapala",
+                  "text": "Zapala ist eine lokale Sehenswürdigkeit in der gleichnamigen Stadt Zapala.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.067623,
+                        -38.900155
+                  ]
+            },
+            {
+                  "name": "Paseo La Estación",
+                  "text": "Paseo La Estación ist eine öffentliche Attraktion in Zapala.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.063079,
+                        -38.906397
+                  ]
+            },
+            {
+                  "name": "Cartel de Zapala",
+                  "text": "Cartel de Zapala ist eine lokale Attraktion in der Stadt Zapala.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.048578,
+                        -38.892368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Vial de la Provincia del Neuquén",
+                  "text": "A Museo Vial de la Provincia del Neuquén egy múzeum Zapala városában.",
+                  "category": "museum",
+                  "coords": [
+                        -70.067559,
+                        -38.903642
+                  ]
+            },
+            {
+                  "name": "Museo Olsacher Zapala",
+                  "text": "A Museo Olsacher Zapala egy múzeum Zapala városában.",
+                  "category": "museum",
+                  "coords": [
+                        -70.068591,
+                        -38.906441
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Municipal \"Amado Sapag\"",
+                  "text": "A Cine Teatro Municipal \"Amado Sapag\" egy városi színház Zapalában.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.065148,
+                        -38.903635
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Municipal",
+                  "text": "A Museo Histórico Municipal egy helytörténeti múzeum Zapalában.",
+                  "category": "museum",
+                  "coords": [
+                        -70.063085,
+                        -38.903974
+                  ]
+            },
+            {
+                  "name": "Cerro Michacheo",
+                  "text": "A Cerro Michacheo egy hegycsúcs Zapala városa közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -70.018718,
+                        -38.902499
+                  ]
+            },
+            {
+                  "name": "Zapala",
+                  "text": "Zapala egy helyi látványosság Zapala városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.067623,
+                        -38.900155
+                  ]
+            },
+            {
+                  "name": "Paseo La Estación",
+                  "text": "A Paseo La Estación egy látványosság Zapalában.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.063079,
+                        -38.906397
+                  ]
+            },
+            {
+                  "name": "Cartel de Zapala",
+                  "text": "A Cartel de Zapala egy helyi látványosság Zapalában.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.048578,
+                        -38.892368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Vial de la Provincia del Neuquén",
+                  "text": "Museo Vial de la Provincia del Neuquén este un muzeu situat în orașul Zapala.",
+                  "category": "museum",
+                  "coords": [
+                        -70.067559,
+                        -38.903642
+                  ]
+            },
+            {
+                  "name": "Museo Olsacher Zapala",
+                  "text": "Museo Olsacher Zapala este un muzeu situat în orașul Zapala.",
+                  "category": "museum",
+                  "coords": [
+                        -70.068591,
+                        -38.906441
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Municipal \"Amado Sapag\"",
+                  "text": "Cine Teatro Municipal \"Amado Sapag\" este un teatru municipal situat în Zapala.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.065148,
+                        -38.903635
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Municipal",
+                  "text": "Museo Histórico Municipal este un muzeu de istorie locală situat în Zapala.",
+                  "category": "museum",
+                  "coords": [
+                        -70.063085,
+                        -38.903974
+                  ]
+            },
+            {
+                  "name": "Cerro Michacheo",
+                  "text": "Cerro Michacheo este un vârf muntos situat în orașul Zapala.",
+                  "category": "natural",
+                  "coords": [
+                        -70.018718,
+                        -38.902499
+                  ]
+            },
+            {
+                  "name": "Zapala",
+                  "text": "Zapala este o atracție locală situată în orașul Zapala.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.067623,
+                        -38.900155
+                  ]
+            },
+            {
+                  "name": "Paseo La Estación",
+                  "text": "Paseo La Estación este o atracție publică situată în Zapala.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.063079,
+                        -38.906397
+                  ]
+            },
+            {
+                  "name": "Cartel de Zapala",
+                  "text": "Cartel de Zapala este o atracție locală din orașul Zapala.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.048578,
+                        -38.892368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Vial de la Provincia del Neuquén",
+                  "text": "The Museo Vial de la Provincia del Neuquén is a museum situated in the city of Zapala.",
+                  "category": "museum",
+                  "coords": [
+                        -70.067559,
+                        -38.903642
+                  ]
+            },
+            {
+                  "name": "Museo Olsacher Zapala",
+                  "text": "The Museo Olsacher Zapala is a museum located in the city of Zapala.",
+                  "category": "museum",
+                  "coords": [
+                        -70.068591,
+                        -38.906441
+                  ]
+            },
+            {
+                  "name": "Cine Teatro Municipal \"Amado Sapag\"",
+                  "text": "The Cine Teatro Municipal \"Amado Sapag\" is a municipal theatre situated in Zapala.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.065148,
+                        -38.903635
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Municipal",
+                  "text": "The Museo Histórico Municipal is a local history museum located in Zapala.",
+                  "category": "museum",
+                  "coords": [
+                        -70.063085,
+                        -38.903974
+                  ]
+            },
+            {
+                  "name": "Cerro Michacheo",
+                  "text": "Cerro Michacheo is a notable mountain peak situated in the city of Zapala.",
+                  "category": "natural",
+                  "coords": [
+                        -70.018718,
+                        -38.902499
+                  ]
+            },
+            {
+                  "name": "Zapala",
+                  "text": "Zapala is a local attraction located in the city of Zapala.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.067623,
+                        -38.900155
+                  ]
+            },
+            {
+                  "name": "Paseo La Estación",
+                  "text": "Paseo La Estación is a public attraction located in Zapala.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.063079,
+                        -38.906397
+                  ]
+            },
+            {
+                  "name": "Cartel de Zapala",
+                  "text": "Cartel de Zapala is a well-known local attraction in Zapala.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.048578,
+                        -38.892368
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A major logistics and transportation hub in Neuquén province, central to Patagonian travel.",
       hu: "Fontos közlekedési csomópont és bányászati központ Neuquén tartomány szívében. A város stratégiai helyen fekszik az Andok és a pampák között.",
@@ -2523,7 +12207,268 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée le 12 juillet 1913.", "Environ 38 000 habitants.", "Située à 1 012 m d'altitude dans la steppe patagonienne.", "Nœud ferroviaire et routier majeur.", "Important centre minier (bentonite, kaolin).", "Réserve naturelle de Laguna Blanca (site Ramsar).", "Lieu de nidification du cygne à cou noir.", "Communautés d'immigrants italiens et libanais."],
     }, image: "/poi-images/ar-q-zapala-cities-v2.webp"},
   {
-    id: "ar-q-cutral-co-cities-v2",
+    id: "ar-q-cutral-co-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sala de Dioramas Cutral Có",
+                  "text": "Die Sala de Dioramas Cutral Có ist ein Museum in Cutral Có.",
+                  "category": "museum",
+                  "coords": [
+                        -69.231702,
+                        -38.934535
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia \"Víctor Ezio Zani\"",
+                  "text": "Die Casa de la Historia \"Víctor Ezio Zani\" ist ein historisches Museum in Cutral Có.",
+                  "category": "museum",
+                  "coords": [
+                        -69.233115,
+                        -38.929981
+                  ]
+            },
+            {
+                  "name": "Don Jaime",
+                  "text": "Don Jaime ist ein Denkmal in Cutral Có.",
+                  "category": "historical",
+                  "coords": [
+                        -69.23685,
+                        -38.934823
+                  ]
+            },
+            {
+                  "name": "Cristo de Cutral Có",
+                  "text": "Der Cristo de Cutral Có ist eine lokale Sehenswürdigkeit in Cutral Có.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.222449,
+                        -38.929141
+                  ]
+            },
+            {
+                  "name": "Yo Amo Plaza",
+                  "text": "Yo Amo Plaza ist eine Sehenswürdigkeit in Cutral Có.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.206754,
+                        -38.930464
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Marité Merbel",
+                  "text": "Das Centro Cultural Marité Merbel ist ein Kunstzentrum in Cutral Có.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.197368,
+                        -38.927197
+                  ]
+            },
+            {
+                  "name": "La Última Cena",
+                  "text": "La Última Cena ist eine Sehenswürdigkeit in Cutral Có.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.232185,
+                        -38.929939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sala de Dioramas Cutral Có",
+                  "text": "A Sala de Dioramas Cutral Có egy múzeum Cutral Có városában.",
+                  "category": "museum",
+                  "coords": [
+                        -69.231702,
+                        -38.934535
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia \"Víctor Ezio Zani\"",
+                  "text": "A Casa de la Historia \"Víctor Ezio Zani\" egy történelmi múzeum Cutral Có városában.",
+                  "category": "museum",
+                  "coords": [
+                        -69.233115,
+                        -38.929981
+                  ]
+            },
+            {
+                  "name": "Don Jaime",
+                  "text": "A Don Jaime egy emlékmű Cutral Có városában.",
+                  "category": "historical",
+                  "coords": [
+                        -69.23685,
+                        -38.934823
+                  ]
+            },
+            {
+                  "name": "Cristo de Cutral Có",
+                  "text": "A Cristo de Cutral Có egy turisztikai látványosság Cutral Có városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.222449,
+                        -38.929141
+                  ]
+            },
+            {
+                  "name": "Yo Amo Plaza",
+                  "text": "A Yo Amo Plaza egy turisztikai látványosság Cutral Có városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.206754,
+                        -38.930464
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Marité Merbel",
+                  "text": "A Centro Cultural Marité Merbel egy művészeti központ Cutral Có városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.197368,
+                        -38.927197
+                  ]
+            },
+            {
+                  "name": "La Última Cena",
+                  "text": "A La Última Cena egy turisztikai látványosság Cutral Có városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.232185,
+                        -38.929939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sala de Dioramas Cutral Có",
+                  "text": "Sala de Dioramas Cutral Có este un muzeu din Cutral Có.",
+                  "category": "museum",
+                  "coords": [
+                        -69.231702,
+                        -38.934535
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia \"Víctor Ezio Zani\"",
+                  "text": "Casa de la Historia \"Víctor Ezio Zani\" este un muzeu de istorie din Cutral Có.",
+                  "category": "museum",
+                  "coords": [
+                        -69.233115,
+                        -38.929981
+                  ]
+            },
+            {
+                  "name": "Don Jaime",
+                  "text": "Don Jaime este un monument situat în Cutral Có.",
+                  "category": "historical",
+                  "coords": [
+                        -69.23685,
+                        -38.934823
+                  ]
+            },
+            {
+                  "name": "Cristo de Cutral Có",
+                  "text": "Cristo de Cutral Có este o atracție turistică în Cutral Có.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.222449,
+                        -38.929141
+                  ]
+            },
+            {
+                  "name": "Yo Amo Plaza",
+                  "text": "Yo Amo Plaza este o atracție turistică din Cutral Có.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.206754,
+                        -38.930464
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Marité Merbel",
+                  "text": "Centro Cultural Marité Merbel este un centru de artă din Cutral Có.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.197368,
+                        -38.927197
+                  ]
+            },
+            {
+                  "name": "La Última Cena",
+                  "text": "La Última Cena este o atracție turistică în Cutral Có.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.232185,
+                        -38.929939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sala de Dioramas Cutral Có",
+                  "text": "Sala de Dioramas Cutral Có is a museum located in Cutral Có.",
+                  "category": "museum",
+                  "coords": [
+                        -69.231702,
+                        -38.934535
+                  ]
+            },
+            {
+                  "name": "Casa de la Historia \"Víctor Ezio Zani\"",
+                  "text": "Casa de la Historia \"Víctor Ezio Zani\" is a history museum located in Cutral Có.",
+                  "category": "museum",
+                  "coords": [
+                        -69.233115,
+                        -38.929981
+                  ]
+            },
+            {
+                  "name": "Don Jaime",
+                  "text": "Don Jaime is a monument located in Cutral Có.",
+                  "category": "historical",
+                  "coords": [
+                        -69.23685,
+                        -38.934823
+                  ]
+            },
+            {
+                  "name": "Cristo de Cutral Có",
+                  "text": "Cristo de Cutral Có is a local attraction in Cutral Có.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.222449,
+                        -38.929141
+                  ]
+            },
+            {
+                  "name": "Yo Amo Plaza",
+                  "text": "Yo Amo Plaza is an attraction located in Cutral Có.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.206754,
+                        -38.930464
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Marité Merbel",
+                  "text": "Centro Cultural Marité Merbel is an arts centre in Cutral Có.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.197368,
+                        -38.927197
+                  ]
+            },
+            {
+                  "name": "La Última Cena",
+                  "text": "La Última Cena is an attraction located in Cutral Có.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.232185,
+                        -38.929939
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A key oil-producing city in Neuquén province, contributing significantly to the region's energy economy.",
       hu: "Neuquén tartomány közepén fekvő város, amelynek gazdasága szinte teljes egészében a kőolaj- és földgázkitermelésen alapul.",
@@ -2617,7 +12562,592 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Viedma was founded on April 22, 1779, by Francisco de Viedma.", "It was designated as the federal capital-to-be during Raúl Alfonsín's presidency.", "The city hosts the finish or start of the 500km-long Río Negro Regatta.", "The world's largest colony of burrowing parrots is located 30km away at El Cóndor beach.", "Viedma and Carmen de Patagones are connected by the Basilio Villarino Bridge.", "The climate is classified as semi-arid with oceanic influence from the Atlantic.", "Viedma is the administrative center for the productive Lower Valley (Valle Inferior).", "The city's main square, Plaza Alsina, is home to several historic government buildings."],
     }, image: "/poi-images/ar-r-viedma-cities-v2.webp"},
   {
-    id: "ar-r-san-carlos-de-bariloche-cities-v2",
+    id: "ar-r-san-carlos-de-bariloche-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Perito Moreno",
+                  "text": "Ein Museum für patagonische Geschichte in Bariloche.",
+                  "category": "museum",
+                  "coords": [
+                        -71.309498,
+                        -41.13325
+                  ]
+            },
+            {
+                  "name": "Museo del Chocolate",
+                  "text": "Ein Museum in San Carlos de Bariloche.",
+                  "category": "museum",
+                  "coords": [
+                        -71.323384,
+                        -41.132113
+                  ]
+            },
+            {
+                  "name": "Teatro El Brote",
+                  "text": "Ein Theater in San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.303268,
+                        -41.138111
+                  ]
+            },
+            {
+                  "name": "Museo Paleontológico",
+                  "text": "Ein Museum in San Carlos de Bariloche.",
+                  "category": "museum",
+                  "coords": [
+                        -71.292116,
+                        -41.132612
+                  ]
+            },
+            {
+                  "name": "Teatro La Baita",
+                  "text": "Ein Theater in San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.309415,
+                        -41.134923
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Ciudad de la Vida",
+                  "text": "Ein Theater in San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.307451,
+                        -41.13442
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
+                  "text": "Ein Naturschutzgebiet in San Carlos de Bariloche.",
+                  "category": "natural",
+                  "coords": [
+                        -71.321464,
+                        -41.150645
+                  ]
+            },
+            {
+                  "name": "Mirador Nahuel Huapi",
+                  "text": "Ein Aussichtspunkt in San Carlos de Bariloche.",
+                  "category": "natural",
+                  "coords": [
+                        -71.33105,
+                        -41.131672
+                  ]
+            },
+            {
+                  "name": "Cartel de Bariloche",
+                  "text": "Eine Attraktion in San Carlos de Bariloche.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.31101,
+                        -41.13175
+                  ]
+            },
+            {
+                  "name": "Playa Centenario",
+                  "text": "Ein Strandbad in San Carlos de Bariloche.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.291125,
+                        -41.131
+                  ]
+            },
+            {
+                  "name": "Monumento al Perito Moreno",
+                  "text": "Ein Denkmal in San Carlos de Bariloche.",
+                  "category": "historical",
+                  "coords": [
+                        -71.288926,
+                        -41.133788
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Viejo",
+                  "text": "Ein Aussichtspunkt in San Carlos de Bariloche.",
+                  "category": "natural",
+                  "coords": [
+                        -71.323967,
+                        -41.13315
+                  ]
+            },
+            {
+                  "name": "Tobogán Gigante",
+                  "text": "Eine Attraktion in San Carlos de Bariloche.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.322873,
+                        -41.133149
+                  ]
+            },
+            {
+                  "name": "Jeep militar",
+                  "text": "Ein Denkmal in San Carlos de Bariloche.",
+                  "category": "historical",
+                  "coords": [
+                        -71.31221,
+                        -41.132373
+                  ]
+            },
+            {
+                  "name": "Puerto San Carlos",
+                  "text": "Kunstzentrum in San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.309073,
+                        -41.132343
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora del Nahuel Huapi",
+                  "text": "Kathedrale von San Carlos de Bariloche.",
+                  "category": "religious",
+                  "coords": [
+                        -71.30248,
+                        -41.132868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Perito Moreno",
+                  "text": "Patagóniai történelmi múzeum Barilochéban.",
+                  "category": "museum",
+                  "coords": [
+                        -71.309498,
+                        -41.13325
+                  ]
+            },
+            {
+                  "name": "Museo del Chocolate",
+                  "text": "Múzeum San Carlos de Barilochéban.",
+                  "category": "museum",
+                  "coords": [
+                        -71.323384,
+                        -41.132113
+                  ]
+            },
+            {
+                  "name": "Teatro El Brote",
+                  "text": "Színház San Carlos de Barilochéban.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.303268,
+                        -41.138111
+                  ]
+            },
+            {
+                  "name": "Museo Paleontológico",
+                  "text": "Múzeum San Carlos de Barilochéban.",
+                  "category": "museum",
+                  "coords": [
+                        -71.292116,
+                        -41.132612
+                  ]
+            },
+            {
+                  "name": "Teatro La Baita",
+                  "text": "Színház San Carlos de Barilochéban.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.309415,
+                        -41.134923
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Ciudad de la Vida",
+                  "text": "Színház San Carlos de Barilochéban.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.307451,
+                        -41.13442
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
+                  "text": "Természetvédelmi terület San Carlos de Barilochéban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.321464,
+                        -41.150645
+                  ]
+            },
+            {
+                  "name": "Mirador Nahuel Huapi",
+                  "text": "Kilátó San Carlos de Barilochéban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.33105,
+                        -41.131672
+                  ]
+            },
+            {
+                  "name": "Cartel de Bariloche",
+                  "text": "Látnivaló San Carlos de Barilochéban.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.31101,
+                        -41.13175
+                  ]
+            },
+            {
+                  "name": "Playa Centenario",
+                  "text": "Strandfürdő San Carlos de Barilochéban.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.291125,
+                        -41.131
+                  ]
+            },
+            {
+                  "name": "Monumento al Perito Moreno",
+                  "text": "Emlékmű San Carlos de Barilochéban.",
+                  "category": "historical",
+                  "coords": [
+                        -71.288926,
+                        -41.133788
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Viejo",
+                  "text": "Kilátó San Carlos de Barilochéban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.323967,
+                        -41.13315
+                  ]
+            },
+            {
+                  "name": "Tobogán Gigante",
+                  "text": "Látnivaló San Carlos de Barilochéban.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.322873,
+                        -41.133149
+                  ]
+            },
+            {
+                  "name": "Jeep militar",
+                  "text": "Emlékmű San Carlos de Barilochéban.",
+                  "category": "historical",
+                  "coords": [
+                        -71.31221,
+                        -41.132373
+                  ]
+            },
+            {
+                  "name": "Puerto San Carlos",
+                  "text": "Művészeti központ San Carlos de Bariloche-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.309073,
+                        -41.132343
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora del Nahuel Huapi",
+                  "text": "San Carlos de Bariloche katedrálisa.",
+                  "category": "religious",
+                  "coords": [
+                        -71.30248,
+                        -41.132868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Perito Moreno",
+                  "text": "Un muzeu de istorie patagoniană în Bariloche.",
+                  "category": "museum",
+                  "coords": [
+                        -71.309498,
+                        -41.13325
+                  ]
+            },
+            {
+                  "name": "Museo del Chocolate",
+                  "text": "Un muzeu în San Carlos de Bariloche.",
+                  "category": "museum",
+                  "coords": [
+                        -71.323384,
+                        -41.132113
+                  ]
+            },
+            {
+                  "name": "Teatro El Brote",
+                  "text": "Un teatru în San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.303268,
+                        -41.138111
+                  ]
+            },
+            {
+                  "name": "Museo Paleontológico",
+                  "text": "Un muzeu în San Carlos de Bariloche.",
+                  "category": "museum",
+                  "coords": [
+                        -71.292116,
+                        -41.132612
+                  ]
+            },
+            {
+                  "name": "Teatro La Baita",
+                  "text": "Un teatru în San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.309415,
+                        -41.134923
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Ciudad de la Vida",
+                  "text": "Un teatru în San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.307451,
+                        -41.13442
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
+                  "text": "O rezervație naturală în San Carlos de Bariloche.",
+                  "category": "natural",
+                  "coords": [
+                        -71.321464,
+                        -41.150645
+                  ]
+            },
+            {
+                  "name": "Mirador Nahuel Huapi",
+                  "text": "Un punct de observație în San Carlos de Bariloche.",
+                  "category": "natural",
+                  "coords": [
+                        -71.33105,
+                        -41.131672
+                  ]
+            },
+            {
+                  "name": "Cartel de Bariloche",
+                  "text": "O atracție în San Carlos de Bariloche.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.31101,
+                        -41.13175
+                  ]
+            },
+            {
+                  "name": "Playa Centenario",
+                  "text": "O stațiune pe plajă în San Carlos de Bariloche.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.291125,
+                        -41.131
+                  ]
+            },
+            {
+                  "name": "Monumento al Perito Moreno",
+                  "text": "Un monument în San Carlos de Bariloche.",
+                  "category": "historical",
+                  "coords": [
+                        -71.288926,
+                        -41.133788
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Viejo",
+                  "text": "Un punct de observație în San Carlos de Bariloche.",
+                  "category": "natural",
+                  "coords": [
+                        -71.323967,
+                        -41.13315
+                  ]
+            },
+            {
+                  "name": "Tobogán Gigante",
+                  "text": "O atracție în San Carlos de Bariloche.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.322873,
+                        -41.133149
+                  ]
+            },
+            {
+                  "name": "Jeep militar",
+                  "text": "Un monument în San Carlos de Bariloche.",
+                  "category": "historical",
+                  "coords": [
+                        -71.31221,
+                        -41.132373
+                  ]
+            },
+            {
+                  "name": "Puerto San Carlos",
+                  "text": "Centru de artă în San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.309073,
+                        -41.132343
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora del Nahuel Huapi",
+                  "text": "Catedrala din San Carlos de Bariloche.",
+                  "category": "religious",
+                  "coords": [
+                        -71.30248,
+                        -41.132868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Francisco Moreno Museum of Patagonia",
+                  "text": "A museum of Patagonian history in Bariloche.",
+                  "category": "museum",
+                  "coords": [
+                        -71.309498,
+                        -41.13325
+                  ]
+            },
+            {
+                  "name": "Museo del Chocolate",
+                  "text": "A museum in San Carlos de Bariloche.",
+                  "category": "museum",
+                  "coords": [
+                        -71.323384,
+                        -41.132113
+                  ]
+            },
+            {
+                  "name": "Teatro El Brote",
+                  "text": "A theatre in San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.303268,
+                        -41.138111
+                  ]
+            },
+            {
+                  "name": "Museo Paleontológico",
+                  "text": "A museum in San Carlos de Bariloche.",
+                  "category": "museum",
+                  "coords": [
+                        -71.292116,
+                        -41.132612
+                  ]
+            },
+            {
+                  "name": "Teatro La Baita",
+                  "text": "A theatre in San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.309415,
+                        -41.134923
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Ciudad de la Vida",
+                  "text": "A theatre in San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.307451,
+                        -41.13442
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
+                  "text": "A nature reserve in San Carlos de Bariloche.",
+                  "category": "natural",
+                  "coords": [
+                        -71.321464,
+                        -41.150645
+                  ]
+            },
+            {
+                  "name": "Mirador Nahuel Huapi",
+                  "text": "A viewpoint in San Carlos de Bariloche.",
+                  "category": "natural",
+                  "coords": [
+                        -71.33105,
+                        -41.131672
+                  ]
+            },
+            {
+                  "name": "Cartel de Bariloche",
+                  "text": "An attraction in San Carlos de Bariloche.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.31101,
+                        -41.13175
+                  ]
+            },
+            {
+                  "name": "Playa Centenario",
+                  "text": "A beach resort in San Carlos de Bariloche.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.291125,
+                        -41.131
+                  ]
+            },
+            {
+                  "name": "Monumento al Perito Moreno",
+                  "text": "A monument in San Carlos de Bariloche.",
+                  "category": "historical",
+                  "coords": [
+                        -71.288926,
+                        -41.133788
+                  ]
+            },
+            {
+                  "name": "Mirador Cerro Viejo",
+                  "text": "A viewpoint in San Carlos de Bariloche.",
+                  "category": "natural",
+                  "coords": [
+                        -71.323967,
+                        -41.13315
+                  ]
+            },
+            {
+                  "name": "Tobogán Gigante",
+                  "text": "An attraction in San Carlos de Bariloche.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.322873,
+                        -41.133149
+                  ]
+            },
+            {
+                  "name": "Jeep militar",
+                  "text": "A monument in San Carlos de Bariloche.",
+                  "category": "historical",
+                  "coords": [
+                        -71.31221,
+                        -41.132373
+                  ]
+            },
+            {
+                  "name": "Puerto San Carlos",
+                  "text": "Arts centre in San Carlos de Bariloche.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.309073,
+                        -41.132343
+                  ]
+            },
+            {
+                  "name": "Catedral Nuestra Señora del Nahuel Huapi",
+                  "text": "Cathedral in San Carlos de Bariloche.",
+                  "category": "religious",
+                  "coords": [
+                        -71.30248,
+                        -41.132868
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A world-renowned ski and tourism destination, famous for its Alpine architecture and chocolate production.",
       hu: "Világhírű turisztikai központ az Andok lábánál, a Nahuel Huapi-tó partján. Alpesi stílusáról, csokoládéjáról és sípályáiról nevezetes.",
@@ -2717,7 +13247,412 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       fr: ["Fondée le 1er septembre 1879.", "Environ 95 000 habitants.", "Nommée d'après le général Julio A. Roca.", "Principale région fruitière (pommes, poires) d'Argentine.", "Campus de l'Universidad Nacional del Comahue.", "Influence des immigrés italiens et d'Europe de l'Est.", "Située dans l'\"Alto Valle\" du río Negro.", "À l'origine, poste militaire de la Conquête du Désert."],
     }, image: "/poi-images/ar-r-general-roca-cities-v2.webp"},
   {
-    id: "ar-r-cipolletti-cities-v2",
+    id: "ar-r-cipolletti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Provincial Carlos Ameghino",
+                  "text": "Das Museo Provincial Carlos Ameghino ist ein Museum in Cipolletti.",
+                  "category": "museum",
+                  "coords": [
+                        -67.995386,
+                        -38.918716
+                  ]
+            },
+            {
+                  "name": "El Mangrullo",
+                  "text": "El Mangrullo ist eine historische Festungsanlage in Cipolletti.",
+                  "category": "fortress",
+                  "coords": [
+                        -68.012511,
+                        -38.942893
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Municipal",
+                  "text": "Das Centro Cultural Municipal ist ein städtisches Theater und Kulturzentrum in Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.991404,
+                        -38.943725
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Coro Polifónico de Cipolletti",
+                  "text": "Das Anfiteatro del Coro Polifónico de Cipolletti ist ein lokales Theater in der Stadt Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.992398,
+                        -38.942522
+                  ]
+            },
+            {
+                  "name": "Arcos Romanos",
+                  "text": "Arcos Romanos ist eine Theatereinrichtung in Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.001785,
+                        -38.933984
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario de Cipolletti",
+                  "text": "Das Museo Ferroviario de Cipolletti ist ein Museum in der Stadt Cipolletti.",
+                  "category": "museum",
+                  "coords": [
+                        -67.996456,
+                        -38.941799
+                  ]
+            },
+            {
+                  "name": "La Caja Mágica",
+                  "text": "La Caja Mágica ist ein Theater in der Stadt Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.007207,
+                        -38.932683
+                  ]
+            },
+            {
+                  "name": "La Calesita de Cipolletti",
+                  "text": "La Calesita de Cipolletti ist eine lokale Attraktion in Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.99379,
+                        -38.942187
+                  ]
+            },
+            {
+                  "name": "Cipolletti",
+                  "text": "Cipolletti ist eine Attraktion in der gleichnamigen Stadt Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.009762,
+                        -38.942775
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Cipolletti",
+                  "text": "Das Centro Cultural Cipolletti ist eine kulturelle Attraktion in der Stadt Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000736,
+                        -38.940779
+                  ]
+            },
+            {
+                  "name": "La Barrica",
+                  "text": "La Barrica ist eine Attraktion, die man in Cipolletti besuchen kann.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.005967,
+                        -38.932014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Provincial Carlos Ameghino",
+                  "text": "A Museo Provincial Carlos Ameghino egy múzeum Cipolletti városában.",
+                  "category": "museum",
+                  "coords": [
+                        -67.995386,
+                        -38.918716
+                  ]
+            },
+            {
+                  "name": "El Mangrullo",
+                  "text": "Az El Mangrullo egy történelmi erődítmény Cipolletti városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -68.012511,
+                        -38.942893
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Municipal",
+                  "text": "A Centro Cultural Municipal egy színház és kulturális központ Cipolletti városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.991404,
+                        -38.943725
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Coro Polifónico de Cipolletti",
+                  "text": "Az Anfiteatro del Coro Polifónico de Cipolletti egy helyi színház Cipolletti városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.992398,
+                        -38.942522
+                  ]
+            },
+            {
+                  "name": "Arcos Romanos",
+                  "text": "Az Arcos Romanos egy színházi létesítmény Cipolletti területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.001785,
+                        -38.933984
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario de Cipolletti",
+                  "text": "A Museo Ferroviario de Cipolletti egy múzeum Cipolletti városában.",
+                  "category": "museum",
+                  "coords": [
+                        -67.996456,
+                        -38.941799
+                  ]
+            },
+            {
+                  "name": "La Caja Mágica",
+                  "text": "A La Caja Mágica egy színház Cipolletti városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.007207,
+                        -38.932683
+                  ]
+            },
+            {
+                  "name": "La Calesita de Cipolletti",
+                  "text": "A La Calesita de Cipolletti egy helyi látványosság Cipolletti területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.99379,
+                        -38.942187
+                  ]
+            },
+            {
+                  "name": "Cipolletti",
+                  "text": "Cipolletti egy látványosság Cipolletti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.009762,
+                        -38.942775
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Cipolletti",
+                  "text": "A Centro Cultural Cipolletti egy kulturális látványosság Cipolletti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000736,
+                        -38.940779
+                  ]
+            },
+            {
+                  "name": "La Barrica",
+                  "text": "A La Barrica egy látványosság Cipolletti területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.005967,
+                        -38.932014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Provincial Carlos Ameghino",
+                  "text": "Museo Provincial Carlos Ameghino este un muzeu din Cipolletti.",
+                  "category": "museum",
+                  "coords": [
+                        -67.995386,
+                        -38.918716
+                  ]
+            },
+            {
+                  "name": "El Mangrullo",
+                  "text": "El Mangrullo este un fort istoric din Cipolletti.",
+                  "category": "fortress",
+                  "coords": [
+                        -68.012511,
+                        -38.942893
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Municipal",
+                  "text": "Centro Cultural Municipal este un teatru și centru cultural în Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.991404,
+                        -38.943725
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Coro Polifónico de Cipolletti",
+                  "text": "Anfiteatro del Coro Polifónico de Cipolletti este un teatru local situat în orașul Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.992398,
+                        -38.942522
+                  ]
+            },
+            {
+                  "name": "Arcos Romanos",
+                  "text": "Arcos Romanos este un teatru situat în Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.001785,
+                        -38.933984
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario de Cipolletti",
+                  "text": "Museo Ferroviario de Cipolletti este un muzeu situat în orașul Cipolletti.",
+                  "category": "museum",
+                  "coords": [
+                        -67.996456,
+                        -38.941799
+                  ]
+            },
+            {
+                  "name": "La Caja Mágica",
+                  "text": "La Caja Mágica este un teatru localizat în orașul Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.007207,
+                        -38.932683
+                  ]
+            },
+            {
+                  "name": "La Calesita de Cipolletti",
+                  "text": "La Calesita de Cipolletti este o atracție locală situată în Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.99379,
+                        -38.942187
+                  ]
+            },
+            {
+                  "name": "Cipolletti",
+                  "text": "Cipolletti este o atracție situată în orașul Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.009762,
+                        -38.942775
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Cipolletti",
+                  "text": "Centro Cultural Cipolletti este o atracție culturală din orașul Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000736,
+                        -38.940779
+                  ]
+            },
+            {
+                  "name": "La Barrica",
+                  "text": "La Barrica este o atracție de vizitat în Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.005967,
+                        -38.932014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Provincial Carlos Ameghino",
+                  "text": "Museo Provincial Carlos Ameghino is a museum located in Cipolletti.",
+                  "category": "museum",
+                  "coords": [
+                        -67.995386,
+                        -38.918716
+                  ]
+            },
+            {
+                  "name": "El Mangrullo",
+                  "text": "El Mangrullo is a historical fort located in Cipolletti.",
+                  "category": "fortress",
+                  "coords": [
+                        -68.012511,
+                        -38.942893
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Municipal",
+                  "text": "Centro Cultural Municipal is a theatre and cultural centre located in Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.991404,
+                        -38.943725
+                  ]
+            },
+            {
+                  "name": "Anfiteatro del Coro Polifónico de Cipolletti",
+                  "text": "The Anfiteatro del Coro Polifónico de Cipolletti is a local theatre located in the city of Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.992398,
+                        -38.942522
+                  ]
+            },
+            {
+                  "name": "Arcos Romanos",
+                  "text": "Arcos Romanos is a theatre facility located in Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.001785,
+                        -38.933984
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario de Cipolletti",
+                  "text": "The Museo Ferroviario de Cipolletti is a museum located in the city of Cipolletti.",
+                  "category": "museum",
+                  "coords": [
+                        -67.996456,
+                        -38.941799
+                  ]
+            },
+            {
+                  "name": "La Caja Mágica",
+                  "text": "La Caja Mágica is a theatre located in the city of Cipolletti.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.007207,
+                        -38.932683
+                  ]
+            },
+            {
+                  "name": "La Calesita de Cipolletti",
+                  "text": "La Calesita de Cipolletti is a local attraction situated in Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.99379,
+                        -38.942187
+                  ]
+            },
+            {
+                  "name": "Cipolletti",
+                  "text": "Cipolletti is an attraction located in the city of Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.009762,
+                        -38.942775
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Cipolletti",
+                  "text": "Centro Cultural Cipolletti is a cultural attraction in the city of Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.000736,
+                        -38.940779
+                  ]
+            },
+            {
+                  "name": "La Barrica",
+                  "text": "La Barrica is an attraction to visit while in Cipolletti.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.005967,
+                        -38.932014
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "Located at the confluence of the Neuquén and Limay rivers, known for its agro-industrial activity.",
       hu: "Río Negro tartomány nyugati szélén fekvő város, amely Neuquén szomszédságában található. Fontos gyümölcstermesztő és ipari központ.",
@@ -2811,7 +13746,52 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["Salta was founded on April 16, 1582, by Spanish officer Hernando de Lerma.", "The city's official elevation is 1,187 meters (3,894 feet) above sea level.", "The Cabildo of Salta served as the city hall from 1626 until 1888.", "The Train to the Clouds travels over 434 kilometers in its round trip to the border.", "General Martín Miguel de Güemes, a hero of independence, was born here in 1785.", "The Museum of High Altitude Archaeology (MAAM) opened its doors in 2004.", "San Bernardo Hill can be reached by a cable car system installed in 1987.", "The city's population exceeds 530,000 inhabitants as of the latest estimates."],
     }, image: "/poi-images/ar-a-salta-cities-v2.webp"},
   {
-    id: "ar-a-san-ramon-de-la-nueva-oran-cities-v2",
+    id: "ar-a-san-ramon-de-la-nueva-oran-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hugo Alberto Luna",
+                  "text": "Museum in San Ramón de la Nueva Orán.",
+                  "category": "museum",
+                  "coords": [
+                        -64.330694,
+                        -23.134144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hugo Alberto Luna",
+                  "text": "Múzeum San Ramón de la Nueva Oránban.",
+                  "category": "museum",
+                  "coords": [
+                        -64.330694,
+                        -23.134144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hugo Alberto Luna",
+                  "text": "Muzeu în San Ramón de la Nueva Orán.",
+                  "category": "museum",
+                  "coords": [
+                        -64.330694,
+                        -23.134144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hugo Alberto Luna",
+                  "text": "Museum in San Ramón de la Nueva Orán.",
+                  "category": "museum",
+                  "coords": [
+                        -64.330694,
+                        -23.134144
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A major city in northern Salta, known for its agro-industrial importance and jungle surroundings.",
       de: "Eine wichtige subtropische Stadt im Norden von Salta, bekannt für ihre Zucker- und Zitrusproduktion.",
@@ -2999,7 +13979,556 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: ["San Luis was founded on August 25, 1594, as San Luis de Loyola Nueva Medina de Río Seco.", "The city sits at an elevation of 709 meters (2,326 feet) in the Cuyo region.", "San Luis is known as the 'Digital Province' for its early 100% connectivity goal.", "The Cathedral of San Luis was designated a National Historic Landmark.", "The nearby Potrero de los Funes circuit hosted the FIA GT Championship in 2008.", "The city's economy was boosted by the Industrial Promotion Law enacted in 1982.", "San Luis serves as a key logistics point between Buenos Aires and Mendoza.", "The 'Terrazas del Portezuelo' complex is a LEED-certified government building."],
     }, image: "/poi-images/ar-d-san-luis-cities-v2.webp"},
   {
-    id: "ar-d-villa-mercedes-cities-v2",
+    id: "ar-d-villa-mercedes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "Das Museo Ferroviario ist ein lokales Museum in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.456813,
+                        -33.660906
+                  ]
+            },
+            {
+                  "name": "Teatro Viejo Mercado",
+                  "text": "Das Teatro Viejo Mercado ist ein Theater in der Stadt Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.465482,
+                        -33.682527
+                  ]
+            },
+            {
+                  "name": "Museo Santiago Betbeder",
+                  "text": "Das Museo Santiago Betbeder ist ein Museum in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.468168,
+                        -33.685672
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Alfonso y Zavala",
+                  "text": "Das Anfiteatro Alfonso y Zavala ist ein als Veranstaltungsort dienendes Amphitheater in Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.458282,
+                        -33.660757
+                  ]
+            },
+            {
+                  "name": "Teatro Molino Fénix",
+                  "text": "Das Teatro Molino Fénix ist ein kultureller Theaterraum in Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.462792,
+                        -33.662449
+                  ]
+            },
+            {
+                  "name": "Museo Veteranos de Malvinas \"Eduardo Guzmán\"",
+                  "text": "Das Museo Veteranos de Malvinas \"Eduardo Guzmán\" ist ein Museum in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.453134,
+                        -33.660496
+                  ]
+            },
+            {
+                  "name": "Museo Héctor Aubert",
+                  "text": "Das Museo Héctor Aubert ist ein lokales Museum in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.471342,
+                        -33.690496
+                  ]
+            },
+            {
+                  "name": "Teatro Hogar Escuela",
+                  "text": "Das Teatro Hogar Escuela ist eine Theatereinrichtung in der Stadt Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.457115,
+                        -33.673387
+                  ]
+            },
+            {
+                  "name": "Teatro Independiente Mercedes",
+                  "text": "Das Teatro Independiente Mercedes ist ein unabhängiges Theater in Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.462925,
+                        -33.684885
+                  ]
+            },
+            {
+                  "name": "Museo del Boxeador \"Casa de Jose Maria Gatica\"",
+                  "text": "Das Museo del Boxeador \"Casa de Jose Maria Gatica\" ist ein Museum in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.465723,
+                        -33.661145
+                  ]
+            },
+            {
+                  "name": "Museo Sánchez Vacca",
+                  "text": "Das Museo Sánchez Vacca ist ein lokales Museum in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.462253,
+                        -33.67292
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Boliche Doña Dima",
+                  "text": "Das Museo de Sitio Boliche Doña Dima ist ein Museum in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.460117,
+                        -33.67717
+                  ]
+            },
+            {
+                  "name": "La Oveja Negra",
+                  "text": "La Oveja Negra ist ein Theaterraum in der Stadt Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.460849,
+                        -33.682054
+                  ]
+            },
+            {
+                  "name": "Vagón",
+                  "text": "Vagón ist eine Attraktion für Besucher, die Villa Mercedes erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.453516,
+                        -33.659034
+                  ]
+            },
+            {
+                  "name": "Monumento a \"El Mono\" José María Gatica",
+                  "text": "Das Monumento a \"El Mono\" José María Gatica ist ein Denkmal in Villa Mercedes.",
+                  "category": "historical",
+                  "coords": [
+                        -65.457833,
+                        -33.665554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "A Museo Ferroviario egy helyi múzeum Villa Mercedes városában.",
+                  "category": "museum",
+                  "coords": [
+                        -65.456813,
+                        -33.660906
+                  ]
+            },
+            {
+                  "name": "Teatro Viejo Mercado",
+                  "text": "A Teatro Viejo Mercado egy színház Villa Mercedes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.465482,
+                        -33.682527
+                  ]
+            },
+            {
+                  "name": "Museo Santiago Betbeder",
+                  "text": "A Museo Santiago Betbeder egy múzeum Villa Mercedes területén.",
+                  "category": "museum",
+                  "coords": [
+                        -65.468168,
+                        -33.685672
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Alfonso y Zavala",
+                  "text": "Az Anfiteatro Alfonso y Zavala egy amfiteátrum és rendezvényhelyszín Villa Mercedesben.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.458282,
+                        -33.660757
+                  ]
+            },
+            {
+                  "name": "Teatro Molino Fénix",
+                  "text": "A Teatro Molino Fénix egy kulturális színháztér Villa Mercedes területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.462792,
+                        -33.662449
+                  ]
+            },
+            {
+                  "name": "Museo Veteranos de Malvinas \"Eduardo Guzmán\"",
+                  "text": "A Museo Veteranos de Malvinas \"Eduardo Guzmán\" egy múzeum Villa Mercedesben.",
+                  "category": "museum",
+                  "coords": [
+                        -65.453134,
+                        -33.660496
+                  ]
+            },
+            {
+                  "name": "Museo Héctor Aubert",
+                  "text": "A Museo Héctor Aubert egy helyi múzeum Villa Mercedes városában.",
+                  "category": "museum",
+                  "coords": [
+                        -65.471342,
+                        -33.690496
+                  ]
+            },
+            {
+                  "name": "Teatro Hogar Escuela",
+                  "text": "A Teatro Hogar Escuela egy színházi létesítmény Villa Mercedes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.457115,
+                        -33.673387
+                  ]
+            },
+            {
+                  "name": "Teatro Independiente Mercedes",
+                  "text": "A Teatro Independiente Mercedes egy független színház Villa Mercedesben.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.462925,
+                        -33.684885
+                  ]
+            },
+            {
+                  "name": "Museo del Boxeador \"Casa de Jose Maria Gatica\"",
+                  "text": "A Museo del Boxeador \"Casa de Jose Maria Gatica\" egy múzeum Villa Mercedes városában.",
+                  "category": "museum",
+                  "coords": [
+                        -65.465723,
+                        -33.661145
+                  ]
+            },
+            {
+                  "name": "Museo Sánchez Vacca",
+                  "text": "A Museo Sánchez Vacca egy helyi múzeum Villa Mercedes városában.",
+                  "category": "museum",
+                  "coords": [
+                        -65.462253,
+                        -33.67292
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Boliche Doña Dima",
+                  "text": "A Museo de Sitio Boliche Doña Dima egy múzeum Villa Mercedes területén.",
+                  "category": "museum",
+                  "coords": [
+                        -65.460117,
+                        -33.67717
+                  ]
+            },
+            {
+                  "name": "La Oveja Negra",
+                  "text": "A La Oveja Negra egy színháztér Villa Mercedes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.460849,
+                        -33.682054
+                  ]
+            },
+            {
+                  "name": "Vagón",
+                  "text": "A Vagón egy látványosság Villa Mercedes látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.453516,
+                        -33.659034
+                  ]
+            },
+            {
+                  "name": "Monumento a \"El Mono\" José María Gatica",
+                  "text": "A Monumento a \"El Mono\" José María Gatica egy emlékmű Villa Mercedes városában.",
+                  "category": "historical",
+                  "coords": [
+                        -65.457833,
+                        -33.665554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "Museo Ferroviario este un muzeu local situat în Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.456813,
+                        -33.660906
+                  ]
+            },
+            {
+                  "name": "Teatro Viejo Mercado",
+                  "text": "Teatro Viejo Mercado este un teatru din orașul Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.465482,
+                        -33.682527
+                  ]
+            },
+            {
+                  "name": "Museo Santiago Betbeder",
+                  "text": "Museo Santiago Betbeder este un muzeu aflat în Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.468168,
+                        -33.685672
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Alfonso y Zavala",
+                  "text": "Anfiteatro Alfonso y Zavala este un amfiteatru din Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.458282,
+                        -33.660757
+                  ]
+            },
+            {
+                  "name": "Teatro Molino Fénix",
+                  "text": "Teatro Molino Fénix este un spațiu teatral și cultural localizat în Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.462792,
+                        -33.662449
+                  ]
+            },
+            {
+                  "name": "Museo Veteranos de Malvinas \"Eduardo Guzmán\"",
+                  "text": "Museo Veteranos de Malvinas \"Eduardo Guzmán\" este un muzeu din Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.453134,
+                        -33.660496
+                  ]
+            },
+            {
+                  "name": "Museo Héctor Aubert",
+                  "text": "Museo Héctor Aubert este un muzeu local situat în Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.471342,
+                        -33.690496
+                  ]
+            },
+            {
+                  "name": "Teatro Hogar Escuela",
+                  "text": "Teatro Hogar Escuela este un teatru situat în orașul Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.457115,
+                        -33.673387
+                  ]
+            },
+            {
+                  "name": "Teatro Independiente Mercedes",
+                  "text": "Teatro Independiente Mercedes este un teatru independent din Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.462925,
+                        -33.684885
+                  ]
+            },
+            {
+                  "name": "Museo del Boxeador \"Casa de Jose Maria Gatica\"",
+                  "text": "Museo del Boxeador \"Casa de Jose Maria Gatica\" este un muzeu în Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.465723,
+                        -33.661145
+                  ]
+            },
+            {
+                  "name": "Museo Sánchez Vacca",
+                  "text": "Museo Sánchez Vacca este un muzeu local situat în Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.462253,
+                        -33.67292
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Boliche Doña Dima",
+                  "text": "Museo de Sitio Boliche Doña Dima este un muzeu situat în Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.460117,
+                        -33.67717
+                  ]
+            },
+            {
+                  "name": "La Oveja Negra",
+                  "text": "La Oveja Negra este un spațiu teatral situat în orașul Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.460849,
+                        -33.682054
+                  ]
+            },
+            {
+                  "name": "Vagón",
+                  "text": "Vagón este o atracție pentru vizitatorii din Villa Mercedes.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.453516,
+                        -33.659034
+                  ]
+            },
+            {
+                  "name": "Monumento a \"El Mono\" José María Gatica",
+                  "text": "Monumento a \"El Mono\" José María Gatica este un monument aflat în Villa Mercedes.",
+                  "category": "historical",
+                  "coords": [
+                        -65.457833,
+                        -33.665554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "The Museo Ferroviario is a local museum situated in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.456813,
+                        -33.660906
+                  ]
+            },
+            {
+                  "name": "Teatro Viejo Mercado",
+                  "text": "Teatro Viejo Mercado is a theatre located in the city of Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.465482,
+                        -33.682527
+                  ]
+            },
+            {
+                  "name": "Museo Santiago Betbeder",
+                  "text": "Museo Santiago Betbeder is a museum found in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.468168,
+                        -33.685672
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Alfonso y Zavala",
+                  "text": "Anfiteatro Alfonso y Zavala is an amphitheatre serving as a venue in Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.458282,
+                        -33.660757
+                  ]
+            },
+            {
+                  "name": "Teatro Molino Fénix",
+                  "text": "Teatro Molino Fénix is a cultural theatre space located in Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.462792,
+                        -33.662449
+                  ]
+            },
+            {
+                  "name": "Museo Veteranos de Malvinas \"Eduardo Guzmán\"",
+                  "text": "Museo Veteranos de Malvinas \"Eduardo Guzmán\" is a museum located in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.453134,
+                        -33.660496
+                  ]
+            },
+            {
+                  "name": "Museo Héctor Aubert",
+                  "text": "Museo Héctor Aubert is a local museum situated in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.471342,
+                        -33.690496
+                  ]
+            },
+            {
+                  "name": "Teatro Hogar Escuela",
+                  "text": "Teatro Hogar Escuela is a theatre facility located in the city of Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.457115,
+                        -33.673387
+                  ]
+            },
+            {
+                  "name": "Teatro Independiente Mercedes",
+                  "text": "Teatro Independiente Mercedes is an independent theatre operating in Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.462925,
+                        -33.684885
+                  ]
+            },
+            {
+                  "name": "Museo del Boxeador \"Casa de Jose Maria Gatica\"",
+                  "text": "Museo del Boxeador \"Casa de Jose Maria Gatica\" is a museum in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.465723,
+                        -33.661145
+                  ]
+            },
+            {
+                  "name": "Museo Sánchez Vacca",
+                  "text": "Museo Sánchez Vacca is a local museum situated in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.462253,
+                        -33.67292
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio Boliche Doña Dima",
+                  "text": "Museo de Sitio Boliche Doña Dima is a museum located in Villa Mercedes.",
+                  "category": "museum",
+                  "coords": [
+                        -65.460117,
+                        -33.67717
+                  ]
+            },
+            {
+                  "name": "La Oveja Negra",
+                  "text": "La Oveja Negra is a theatre space situated in the city of Villa Mercedes.",
+                  "category": "cultural",
+                  "coords": [
+                        -65.460849,
+                        -33.682054
+                  ]
+            },
+            {
+                  "name": "Vagón",
+                  "text": "Vagón is an attraction for visitors exploring Villa Mercedes.",
+                  "category": "landmark",
+                  "coords": [
+                        -65.453516,
+                        -33.659034
+                  ]
+            },
+            {
+                  "name": "Monumento a \"El Mono\" José María Gatica",
+                  "text": "Monumento a \"El Mono\" José María Gatica is a monument standing in Villa Mercedes.",
+                  "category": "historical",
+                  "coords": [
+                        -65.457833,
+                        -33.665554
+                  ]
+            }
+      ]
+},
     parent: "AR",
     description: { en: "A major industrial city in San Luis, known for its manufacturing and central location in the region.",
       de: "Die zweitgrößte Stadt der Provinz San Luis und ein bedeutendes Industrie- und Eisenbahnzentrum.",

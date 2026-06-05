@@ -453,7 +453,88 @@ export const liberiaEconomicV2: POI[] = [
     image: "/poi-images/liberia-grand-cassa-fishery-v2.webp",
   },
   {
-    id: "liberia-zwedru-market-v2",
+    id: "liberia-zwedru-market-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Sehenswürdigkeit am Zwedru Handelsmarkt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Aussichtspunkt am Zwedru Handelsmarkt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Látnivaló a Zwedru Handelsmarkt-nál.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Kilátópont a Zwedru Handelsmarkt-nál.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Atracție în Zwedru Handelsmarkt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Punct de belvedere în Zwedru Handelsmarkt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Attraction in Zwedru Handelsmarkt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Viewpoint in Zwedru Handelsmarkt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "city",
     name: { de: "Zwedru Handelsmarkt", hu: "Zwedrui kereskedelmi piac", ro: "Piața comercială Zwedru", en: "Zwedru Commercial Market" },
@@ -588,7 +669,88 @@ export const liberiaEconomicV2: POI[] = [
     image: "/poi-images/liberia-nimba-mining-hub-v2.webp",
   },
   {
-    id: "liberia-gbarnga-trade-center-v2",
+    id: "liberia-gbarnga-trade-center-v2", "sights": {
+      "de": [
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "Das Millennium Sport Center ist ein Theater und Veranstaltungsort im Gbarnga Handelszentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Bong Photo Star",
+                  "text": "Bong Photo Star ist eine Galerie im Gbarnga Handelszentrum.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "A Millennium Sport Center egy színház és rendezvényhelyszín a Gbarnga Handelszentrum területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Bong Photo Star",
+                  "text": "A Bong Photo Star egy galéria a Gbarnga Handelszentrum területén.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "Millennium Sport Center este un teatru și o sală de evenimente din Gbarnga Handelszentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Bong Photo Star",
+                  "text": "Bong Photo Star este o galerie situată în Gbarnga Handelszentrum.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "Millennium Sport Center is a theatre and venue located in Gbarnga Handelszentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Bong Photo Star",
+                  "text": "Bong Photo Star is a gallery situated in Gbarnga Handelszentrum.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "city",
     name: { de: "Gbarnga Handelszentrum", hu: "Gbarngai kereskedelmi központ", ro: "Centrul comercial Gbarnga", en: "Gbarnga Trade Center" },
@@ -678,7 +840,52 @@ export const liberiaEconomicV2: POI[] = [
     image: "/poi-images/liberia-kakata-commerce-zone-v2.webp",
   },
   {
-    id: "liberia-voinjama-cross-border-trade-v2",
+    id: "liberia-voinjama-cross-border-trade-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "Denkmal in Voinjama.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "Emlékmű Voinjamában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "Monument în Voinjama.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "Monument in Voinjama.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "city",
     name: { de: "Voinjama Grenzhändlerzentrum", hu: "Voinjamai határkereskedelmi központ", ro: "Centrul de comerț transfrontalier Voinjama", en: "Voinjama Cross-border Trade Center" },

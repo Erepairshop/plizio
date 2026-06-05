@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const marshallislandsCitiesV2: POI[] = [
 
   {
-    id: "marshallislands-majuro-cities-v2",
+    id: "marshallislands-majuro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alele National Museum",
+                  "text": "Das Alele National Museum ist ein Museum in Majuro.",
+                  "category": "museum",
+                  "coords": [
+                        171.373581,
+                        7.107641
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption",
+                  "text": "Die Mariä-Himmelfahrt-Kathedrale ist eine Kultstätte in Majuro.",
+                  "category": "religious",
+                  "coords": [
+                        171.378148,
+                        7.101866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alele National Museum",
+                  "text": "Az Alele Nemzeti Múzeum egy múzeum Majuróban.",
+                  "category": "museum",
+                  "coords": [
+                        171.373581,
+                        7.107641
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption",
+                  "text": "A Nagyboldogasszony-székesegyház egy istentiszteleti hely Majuróban.",
+                  "category": "religious",
+                  "coords": [
+                        171.378148,
+                        7.101866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alele National Museum",
+                  "text": "Muzeul Național Alele este un muzeu situat în Majuro.",
+                  "category": "museum",
+                  "coords": [
+                        171.373581,
+                        7.107641
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption",
+                  "text": "Catedrala Adormirii Maicii Domnului este un lăcaș de cult situat în Majuro.",
+                  "category": "religious",
+                  "coords": [
+                        171.378148,
+                        7.101866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alele National Museum",
+                  "text": "The Alele National Museum is a museum located in Majuro.",
+                  "category": "museum",
+                  "coords": [
+                        171.373581,
+                        7.107641
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Assumption",
+                  "text": "The Cathedral of the Assumption is a place of worship located in Majuro.",
+                  "category": "religious",
+                  "coords": [
+                        171.378148,
+                        7.101866
+                  ]
+            }
+      ]
+},
     parent: "MH",
     type: "capital",
     name: { de: "Majuro", hu: "Majuro", ro: "Majuro", en: "Majuro" },

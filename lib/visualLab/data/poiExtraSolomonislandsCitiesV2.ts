@@ -3,7 +3,196 @@ import { POI } from './poi';
 export const solomonislandsCitiesV2: POI[] = [
 
   {
-    id: "solomonislands-honiara-cities-v2",
+    id: "solomonislands-honiara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Solomon Islands National Museum",
+                  "text": "Das Solomon Islands National Museum befindet sich in Honiara und zeigt die lokale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        159.95426,
+                        -9.431149
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "Der Botanische Garten ist eine beliebte Naturattraktion in Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.941708,
+                        -9.432773
+                  ]
+            },
+            {
+                  "name": "RAMSI Memorial",
+                  "text": "Das RAMSI Memorial ist eine Attraktion in Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.952867,
+                        -9.432914
+                  ]
+            },
+            {
+                  "name": "Pride of Our Nation Memorial",
+                  "text": "Das Pride of Our Nation Memorial ist eine Attraktion in Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.957745,
+                        -9.42952
+                  ]
+            },
+            {
+                  "name": "Point Cruz Yatch Club",
+                  "text": "Der Point Cruz Yacht Club ist eine lokale Attraktion in Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.955102,
+                        -9.430223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Solomon Islands National Museum",
+                  "text": "A Honiarában található Solomon Islands National Museum a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        159.95426,
+                        -9.431149
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "A Botanikus Kert egy népszerű természeti látványosság Honiarában.",
+                  "category": "landmark",
+                  "coords": [
+                        159.941708,
+                        -9.432773
+                  ]
+            },
+            {
+                  "name": "RAMSI Memorial",
+                  "text": "A RAMSI Memorial egy Honiarában található látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        159.952867,
+                        -9.432914
+                  ]
+            },
+            {
+                  "name": "Pride of Our Nation Memorial",
+                  "text": "A Pride of Our Nation Memorial egy Honiarában található látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        159.957745,
+                        -9.42952
+                  ]
+            },
+            {
+                  "name": "Point Cruz Yatch Club",
+                  "text": "A Point Cruz Yacht Club egy helyi látványosság Honiarában.",
+                  "category": "landmark",
+                  "coords": [
+                        159.955102,
+                        -9.430223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Solomon Islands National Museum",
+                  "text": "Muzeul Național al Insulelor Solomon este situat în Honiara și prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        159.95426,
+                        -9.431149
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "Grădina Botanică este o atracție naturală populară în Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.941708,
+                        -9.432773
+                  ]
+            },
+            {
+                  "name": "RAMSI Memorial",
+                  "text": "RAMSI Memorial este o atracție situată în Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.952867,
+                        -9.432914
+                  ]
+            },
+            {
+                  "name": "Pride of Our Nation Memorial",
+                  "text": "Pride of Our Nation Memorial este o atracție situată în Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.957745,
+                        -9.42952
+                  ]
+            },
+            {
+                  "name": "Point Cruz Yatch Club",
+                  "text": "Point Cruz Yacht Club este o atracție locală situată în Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.955102,
+                        -9.430223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Solomon Islands National Museum",
+                  "text": "The Solomon Islands National Museum is located in Honiara and showcases local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        159.95426,
+                        -9.431149
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "The Botanical Garden is a popular natural attraction in Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.941708,
+                        -9.432773
+                  ]
+            },
+            {
+                  "name": "RAMSI Memorial",
+                  "text": "The RAMSI Memorial is an attraction situated in Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.952867,
+                        -9.432914
+                  ]
+            },
+            {
+                  "name": "Pride of Our Nation Memorial",
+                  "text": "The Pride of Our Nation Memorial is an attraction located in Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.957745,
+                        -9.42952
+                  ]
+            },
+            {
+                  "name": "Point Cruz Yatch Club",
+                  "text": "Point Cruz Yacht Club is a local attraction located in Honiara.",
+                  "category": "landmark",
+                  "coords": [
+                        159.955102,
+                        -9.430223
+                  ]
+            }
+      ]
+},
     parent: "SB",
     type: "capital",
     name: { de: "Honiara", hu: "Honiara", ro: "Honiara", en: "Honiara" },
@@ -48,7 +237,52 @@ export const solomonislandsCitiesV2: POI[] = [
     image: "/poi-images/solomonislands-honiara-cities-v2.webp",
   },
   {
-    id: "solomonislands-auki-cities-v2",
+    id: "solomonislands-auki-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reba Cabe",
+                  "text": "Reba Cabe ist eine Attraktion in Auki.",
+                  "category": "landmark",
+                  "coords": [
+                        160.705998,
+                        -8.750995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reba Cabe",
+                  "text": "A Reba Cabe egy látványosság Auki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        160.705998,
+                        -8.750995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reba Cabe",
+                  "text": "Reba Cabe este o atracție turistică situată în Auki.",
+                  "category": "landmark",
+                  "coords": [
+                        160.705998,
+                        -8.750995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reba Cabe",
+                  "text": "Reba Cabe is an attraction located in Auki.",
+                  "category": "landmark",
+                  "coords": [
+                        160.705998,
+                        -8.750995
+                  ]
+            }
+      ]
+},
     parent: "SB",
     type: "city",
     name: { de: "Auki", hu: "Auki", ro: "Auki", en: "Auki" },
@@ -1398,7 +1632,52 @@ export const solomonislandsCitiesV2: POI[] = [
     image: "/poi-images/solomonislands-maru-cities-v2.webp",
   },
   {
-    id: "solomonislands-ringgi-cove-cities-v2",
+    id: "solomonislands-ringgi-cove-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pipire Bay",
+                  "text": "Pipire Bay ist eine Bucht in Ringgi Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        157.127615,
+                        -8.135383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pipire Bay",
+                  "text": "A Pipire Bay egy öböl Ringgi Cove közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        157.127615,
+                        -8.135383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pipire Bay",
+                  "text": "Pipire Bay este un golf situat în Ringgi Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        157.127615,
+                        -8.135383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pipire Bay",
+                  "text": "Pipire Bay is a bay located in Ringgi Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        157.127615,
+                        -8.135383
+                  ]
+            }
+      ]
+},
     parent: "SB",
     type: "village",
     name: { de: "Ringgi Cove", hu: "Ringgi Cove", ro: "Ringgi Cove", en: "Ringgi Cove" },
@@ -1848,7 +2127,52 @@ export const solomonislandsCitiesV2: POI[] = [
     image: "/poi-images/solomonislands-koli-cities-v2.webp",
   },
   {
-    id: "solomonislands-lungga-cities-v2",
+    id: "solomonislands-lungga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Betikama WWII Wreckage",
+                  "text": "Betikama WWII Wreckage ist eine Attraktion in Lungga.",
+                  "category": "landmark",
+                  "coords": [
+                        160.032616,
+                        -9.439342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Betikama WWII Wreckage",
+                  "text": "A Betikama WWII Wreckage egy látványosság Lungga városában.",
+                  "category": "landmark",
+                  "coords": [
+                        160.032616,
+                        -9.439342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Betikama WWII Wreckage",
+                  "text": "Betikama WWII Wreckage este o atracție turistică situată în Lungga.",
+                  "category": "landmark",
+                  "coords": [
+                        160.032616,
+                        -9.439342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Betikama WWII Wreckage",
+                  "text": "Betikama WWII Wreckage is an attraction located in Lungga.",
+                  "category": "landmark",
+                  "coords": [
+                        160.032616,
+                        -9.439342
+                  ]
+            }
+      ]
+},
     parent: "SB",
     type: "town",
     name: { de: "Lungga", hu: "Lungga", ro: "Lungga", en: "Lungga" },
@@ -1938,7 +2262,52 @@ export const solomonislandsCitiesV2: POI[] = [
     image: "/poi-images/solomonislands-kolipoint-cities-v2.webp",
   },
   {
-    id: "solomonislands-redbeach-cities-v2",
+    id: "solomonislands-redbeach-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Red Beach",
+                  "text": "Red Beach ist eine beliebte Attraktion, die man in Red Beach erkunden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        160.121561,
+                        -9.426502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Red Beach",
+                  "text": "A Red Beach egy népszerű felfedezésre váró látványosság Red Beach városában.",
+                  "category": "landmark",
+                  "coords": [
+                        160.121561,
+                        -9.426502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Red Beach",
+                  "text": "Red Beach este o atracție populară de explorat în Red Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        160.121561,
+                        -9.426502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Red Beach",
+                  "text": "Red Beach is a popular attraction to explore in Red Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        160.121561,
+                        -9.426502
+                  ]
+            }
+      ]
+},
     parent: "SB",
     type: "village",
     name: { de: "Red Beach", hu: "Red Beach", ro: "Red Beach", en: "Red Beach" },

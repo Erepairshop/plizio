@@ -48,7 +48,52 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       en: "Freetown is the capital of the Republic of Sierra Leone and the country's political, economic, and cultural heart, perched on a hilly peninsula along the Atlantic coast of West Africa. The city was founded in 1792 by roughly 1,200 freed slaves, the so-called Nova Scotians, who arrived from Halifax, Canada, under the auspices of the British Sierra Leone Company. Throughout the 19th century, Freetown grew into a central base for the British anti-slavery squadron in the Atlantic, and tens of thousands of Africans liberated from illegal slave ships were resettled here, giving rise to the distinctive Creole, or Krio, culture. The natural deep-water harbor of Freetown is widely regarded as one of the largest in the world and continues to serve as the country's main gateway for shipping and foreign trade. Notable landmarks include the National Museum, the historic stepped streets of Tower Hill, the famous Cotton Tree in front of the Supreme Court, and the peninsula's beaches such as Lumley Beach, River Number Two and Tokeh.",
     }, image: "/poi-images/freetown-cities-v2.webp"},
   {
-    id: "bo-cities-v2",
+    id: "bo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "SALWACO (Water Supply)",
+                  "text": "SALWACO (Water Supply) ist ein Wasserwerk in Bo.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.743979,
+                        7.959308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SALWACO (Water Supply)",
+                  "text": "A SALWACO (Water Supply) egy vízmű Bo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.743979,
+                        7.959308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SALWACO (Water Supply)",
+                  "text": "SALWACO (Water Supply) este o stație de tratare a apei din Bo.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.743979,
+                        7.959308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SALWACO (Water Supply)",
+                  "text": "SALWACO (Water Supply) is a water works facility located in Bo.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.743979,
+                        7.959308
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SL-S",
     coords: [-11.7400, 7.9647],
@@ -176,7 +221,88 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     },
   },
   {
-    id: "makeni-cities-v2",
+    id: "makeni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "UNIMAK Auditorium",
+                  "text": "UNIMAK Auditorium ist ein Theater in Makeni.",
+                  "category": "cultural",
+                  "coords": [
+                        -12.057566,
+                        8.888339
+                  ]
+            },
+            {
+                  "name": "Wusum",
+                  "text": "Wusum ist ein Berggipfel in Makeni.",
+                  "category": "natural",
+                  "coords": [
+                        -12.050444,
+                        8.904381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "UNIMAK Auditorium",
+                  "text": "Az UNIMAK Auditorium egy színház Makeni városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -12.057566,
+                        8.888339
+                  ]
+            },
+            {
+                  "name": "Wusum",
+                  "text": "A Wusum egy hegycsúcs Makeni városában.",
+                  "category": "natural",
+                  "coords": [
+                        -12.050444,
+                        8.904381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "UNIMAK Auditorium",
+                  "text": "UNIMAK Auditorium este un teatru în Makeni.",
+                  "category": "cultural",
+                  "coords": [
+                        -12.057566,
+                        8.888339
+                  ]
+            },
+            {
+                  "name": "Wusum",
+                  "text": "Wusum este un vârf muntos în Makeni.",
+                  "category": "natural",
+                  "coords": [
+                        -12.050444,
+                        8.904381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "UNIMAK Auditorium",
+                  "text": "UNIMAK Auditorium is a theatre located in Makeni.",
+                  "category": "cultural",
+                  "coords": [
+                        -12.057566,
+                        8.888339
+                  ]
+            },
+            {
+                  "name": "Wusum",
+                  "text": "Wusum is a peak located in Makeni.",
+                  "category": "natural",
+                  "coords": [
+                        -12.050444,
+                        8.904381
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SL-N",
     coords: [-12.0442, 8.8833],
@@ -240,7 +366,52 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     },
   },
   {
-    id: "koidu-cities-v2",
+    id: "koidu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Resettlement",
+                  "text": "Resettlement ist ein Aussichtspunkt in Koidu.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Resettlement",
+                  "text": "A Resettlement egy kilátó Koidu városában.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Resettlement",
+                  "text": "Resettlement este un punct de belvedere situat în Koidu.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Resettlement",
+                  "text": "Resettlement is a viewpoint situated in Koidu.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SL-E",
     coords: [-10.9725, 8.6419],
@@ -1437,7 +1608,52 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     },
   },
   {
-    id: "yengema-cities-v2",
+    id: "yengema-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Resettlement",
+                  "text": "Resettlement ist ein Aussichtspunkt in Yengema.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Resettlement",
+                  "text": "A Resettlement egy kilátópont Yengema városában.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Resettlement",
+                  "text": "Resettlement este un punct de belvedere situat în Yengema.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Resettlement",
+                  "text": "Resettlement is a viewpoint located in Yengema.",
+                  "category": "natural",
+                  "coords": [
+                        -10.957197,
+                        8.6294
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SL-E",
     coords: [-10.9667, 8.6167],
@@ -1629,7 +1845,52 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     },
   },
   {
-    id: "masingbi-cities-v2",
+    id: "masingbi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Physio House",
+                  "text": "Physio House umfasst historische Ruinen in Masingbi.",
+                  "category": "historical",
+                  "coords": [
+                        -11.835435,
+                        8.757132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Physio House",
+                  "text": "A Physio House romokat foglal magába Masingbi városában.",
+                  "category": "historical",
+                  "coords": [
+                        -11.835435,
+                        8.757132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Physio House",
+                  "text": "Physio House prezintă ruine istorice situate în Masingbi.",
+                  "category": "historical",
+                  "coords": [
+                        -11.835435,
+                        8.757132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Physio House",
+                  "text": "Physio House features historical ruins located in Masingbi.",
+                  "category": "historical",
+                  "coords": [
+                        -11.835435,
+                        8.757132
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SL-N",
     coords: [-11.8333, 8.7833],
@@ -2250,7 +2511,52 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     },
   },
   {
-    id: "sumbaria-cities-v2",
+    id: "sumbaria-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koncheben",
+                  "text": "Koncheben ist ein Berggipfel in Sumbaria.",
+                  "category": "natural",
+                  "coords": [
+                        -11.401874,
+                        8.917746
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koncheben",
+                  "text": "A Koncheben egy hegycsúcs Sumbaria városában.",
+                  "category": "natural",
+                  "coords": [
+                        -11.401874,
+                        8.917746
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koncheben",
+                  "text": "Koncheben este un vârf montan situat în Sumbaria.",
+                  "category": "natural",
+                  "coords": [
+                        -11.401874,
+                        8.917746
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koncheben",
+                  "text": "Koncheben is a mountain peak located in Sumbaria.",
+                  "category": "natural",
+                  "coords": [
+                        -11.401874,
+                        8.917746
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SL-N",
     coords: [-11.4167, 8.9333],
@@ -2634,7 +2940,52 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     },
   },
   {
-    id: "pendembu-cities-v2",
+    id: "pendembu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Konovulahun Mosque",
+                  "text": "Die Konovulahun Mosque befindet sich in der Stadt Pendembu.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.69289,
+                        8.091136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Konovulahun Mosque",
+                  "text": "A Konovulahun Mosque Pendembu városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.69289,
+                        8.091136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Konovulahun Mosque",
+                  "text": "Konovulahun Mosque este situată în orașul Pendembu.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.69289,
+                        8.091136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Konovulahun Mosque",
+                  "text": "Konovulahun Mosque is located in the city of Pendembu.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.69289,
+                        8.091136
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SL-E",
     coords: [-10.7000, 8.1000],
@@ -2826,7 +3177,88 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     },
   },
   {
-    id: "tombo-cities-v2",
+    id: "tombo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "Der Western Area Peninsula National Park ist ein bekanntes Naturschutzgebiet in der Nähe von Tombo.",
+                  "category": "natural",
+                  "coords": [
+                        -13.169787,
+                        8.321459
+                  ]
+            },
+            {
+                  "name": "Mama Beach",
+                  "text": "Mama Beach ist ein lokaler Strand in Tombo.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.125695,
+                        8.196808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "A Western Area Peninsula National Park egy természetvédelmi terület Tombo közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -13.169787,
+                        8.321459
+                  ]
+            },
+            {
+                  "name": "Mama Beach",
+                  "text": "A Mama Beach egy tengerpart Tombo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.125695,
+                        8.196808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "Western Area Peninsula National Park este o rezervație naturală proeminentă de lângă Tombo.",
+                  "category": "natural",
+                  "coords": [
+                        -13.169787,
+                        8.321459
+                  ]
+            },
+            {
+                  "name": "Mama Beach",
+                  "text": "Mama Beach este o plajă situată în Tombo.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.125695,
+                        8.196808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "Western Area Peninsula National Park is a nature reserve located near Tombo.",
+                  "category": "natural",
+                  "coords": [
+                        -13.169787,
+                        8.321459
+                  ]
+            },
+            {
+                  "name": "Mama Beach",
+                  "text": "Mama Beach is a local beach situated in Tombo.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.125695,
+                        8.196808
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SL-W",
     coords: [-13.1167, 8.2000],
@@ -2954,7 +3386,52 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     },
   },
   {
-    id: "kent-cities-v2",
+    id: "kent-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kent Slave House",
+                  "text": "Kent Slave House ist ein Museum in Kent.",
+                  "category": "museum",
+                  "coords": [
+                        -13.163341,
+                        8.175341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kent Slave House",
+                  "text": "A Kent Slave House egy múzeum Kent városában.",
+                  "category": "museum",
+                  "coords": [
+                        -13.163341,
+                        8.175341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kent Slave House",
+                  "text": "Kent Slave House este un muzeu în Kent.",
+                  "category": "museum",
+                  "coords": [
+                        -13.163341,
+                        8.175341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kent Slave House",
+                  "text": "Kent Slave House is a museum located in Kent.",
+                  "category": "museum",
+                  "coords": [
+                        -13.163341,
+                        8.175341
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SL-W",
     coords: [-13.1500, 8.1667],
@@ -3012,7 +3489,88 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     },
   },
   {
-    id: "hastings-cities-v2",
+    id: "hastings-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "Der Western Area Peninsula National Park ist ein Naturschutzgebiet in der Region von Hastings.",
+                  "category": "natural",
+                  "coords": [
+                        -13.169787,
+                        8.321459
+                  ]
+            },
+            {
+                  "name": "Tigiemans Resident",
+                  "text": "Tigiemans Resident ist eine Touristenattraktion in Hastings.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.133182,
+                        8.382236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "A Western Area Peninsula National Park egy természetvédelmi terület Hastings közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -13.169787,
+                        8.321459
+                  ]
+            },
+            {
+                  "name": "Tigiemans Resident",
+                  "text": "A Tigiemans Resident egy turisztikai látványosság Hastings városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.133182,
+                        8.382236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "Western Area Peninsula National Park este o rezervație naturală importantă lângă Hastings.",
+                  "category": "natural",
+                  "coords": [
+                        -13.169787,
+                        8.321459
+                  ]
+            },
+            {
+                  "name": "Tigiemans Resident",
+                  "text": "Tigiemans Resident este o atracție turistică situată în Hastings.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.133182,
+                        8.382236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Western Area Peninsula National Park",
+                  "text": "Western Area Peninsula National Park is a prominent nature reserve extending near Hastings.",
+                  "category": "natural",
+                  "coords": [
+                        -13.169787,
+                        8.321459
+                  ]
+            },
+            {
+                  "name": "Tigiemans Resident",
+                  "text": "Tigiemans Resident is a tourist attraction located in Hastings.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.133182,
+                        8.382236
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SL-W",
     coords: [-13.1333, 8.3833],

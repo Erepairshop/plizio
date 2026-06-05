@@ -228,7 +228,520 @@ export const micronesiaEconomicV2: POI[] = [
     image: "/poi-images/micronesia-pohnpei-coconut-economic-v2.webp",
   },
   {
-    id: "micronesia-kolonia-commerce-economic-v2",
+    id: "micronesia-kolonia-commerce-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "Nipik En Lidakihka ist ein Strand in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "Das Pohnpei Lidorkini Museum bietet Einblicke in die lokale Geschichte in Kolonia.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "Der Eel Pool ist eine Attraktion mit Aalen in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "Der Pohnpei Swimming Pool ist ein Wasserpark in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "Dolen Metipw ist ein Gipfel in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohn Dollen Net",
+                  "text": "Pohn Dollen Net ist ein Berg bei Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.226111,
+                        6.961111
+                  ]
+            },
+            {
+                  "name": "Pohndolap",
+                  "text": "Der Sokehs Mountain bietet einen Ausblick über Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "Dolen Nier ist ein Gipfel in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "German Bell Tower",
+                  "text": "Der deutsche Glockenturm in Kolonia ist ein historisches Überbleibsel.",
+                  "category": "landmark",
+                  "coords": [
+                        158.211438,
+                        6.968409
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "Der Stone Look-Out bietet einen schönen Aussichtspunkt in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "Die Schützengrabenruinen zeugen von der Geschichte in Kolonia.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "Kepindau Waterfall",
+                  "text": "Die Kepindau Wasserfälle sind eine beliebte Attraktion in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "Die Klippe ist eine natürliche Attraktion in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Japanese WW2 Tank Graveyard",
+                  "text": "Der japanische Panzersfriedhof ist ein historischer Ort in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.216998,
+                        6.960347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "A Nipik En Lidakihka egy tengerpart Koloniában.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "A Pohnpei Lidorkini Múzeum a helyi történelmet mutatja be Koloniában.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "Az Eel Pool egy angolnás látnivaló Koloniában.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "A Pohnpei Swimming Pool egy vízi park Koloniában.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "A Dolen Metipw egy hegycsúcs Koloniában.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohn Dollen Net",
+                  "text": "A Pohn Dollen Net egy hegy Kolonia mellett.",
+                  "category": "natural",
+                  "coords": [
+                        158.226111,
+                        6.961111
+                  ]
+            },
+            {
+                  "name": "Pohndolap",
+                  "text": "A Sokehs hegy kilátást nyújt Kolonia városára.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "A Dolen Nier egy hegycsúcs Koloniában.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "German Bell Tower",
+                  "text": "A coloniai német harangtorony egy történelmi emlék.",
+                  "category": "landmark",
+                  "coords": [
+                        158.211438,
+                        6.968409
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "A Stone Look-Out egy szép kilátópont Koloniában.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "A lövészárok-romok Kolonia történelmének emlékei.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "Kepindau Waterfall",
+                  "text": "A Kepindau vízesések egy népszerű látnivaló Koloniában.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "A sziklafal egy természeti látnivaló Koloniában.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Japanese WW2 Tank Graveyard",
+                  "text": "A japán tanktemető egy történelmi hely Koloniában.",
+                  "category": "landmark",
+                  "coords": [
+                        158.216998,
+                        6.960347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "Nipik En Lidakihka este o plajă în Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "Muzeul Pohnpei Lidorkini oferă perspective asupra istoriei locale din Kolonia.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "Eel Pool este o atracție cu anghile în Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "Pohnpei Swimming Pool este un parc acvatic în Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "Dolen Metipw este un vârf muntos în Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohn Dollen Net",
+                  "text": "Pohn Dollen Net este un munte lângă Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.226111,
+                        6.961111
+                  ]
+            },
+            {
+                  "name": "Pohndolap",
+                  "text": "Muntele Sokehs oferă o vedere asupra orașului Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "Dolen Nier este un vârf muntos în Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "German Bell Tower",
+                  "text": "Turnul clopotniță german din Kolonia este o vestigie istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        158.211438,
+                        6.968409
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "Stone Look-Out oferă un punct de observație frumos în Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "Ruinele tranșeelor sunt mărturii ale istoriei în Kolonia.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "Kepindau Waterfall",
+                  "text": "Cascadele Kepindau sunt o atracție populară în Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "Stânca este o atracție naturală în Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Japanese WW2 Tank Graveyard",
+                  "text": "Cimitirul de tancuri japonez este un loc istoric în Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.216998,
+                        6.960347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "Nipik En Lidakihka is a beach in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "The Pohnpei Lidorkini Museum offers insights into local history in Kolonia.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "The Eel Pool is an attraction featuring eels in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "The Pohnpei Swimming Pool is a water park in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "Dolen Metipw is a mountain peak in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohn Dollen Net",
+                  "text": "Pohn Dollen Net is a mountain near Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.226111,
+                        6.961111
+                  ]
+            },
+            {
+                  "name": "Sokehs Mountain",
+                  "text": "Sokehs Mountain offers a view over Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "Dolen Nier is a mountain peak in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "German Tower",
+                  "text": "The German belltower in Kolonia is a historical remnant.",
+                  "category": "landmark",
+                  "coords": [
+                        158.211438,
+                        6.968409
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "The Stone Look-Out offers a beautiful viewpoint in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "The rifle pit ruins are remnants of history in Kolonia.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "Kepindau Falls",
+                  "text": "The Kepindau Falls are a popular attraction in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "The cliff face is a natural attraction in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Japanese WW2 Tank Graveyard",
+                  "text": "The Japanese tank graveyard is a historical site in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.216998,
+                        6.960347
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "town",
     name: { de: "Kolonia Geschäftsviertel", hu: "Kolonia üzleti negyed", ro: "Districtul comercial Kolonia", en: "Kolonia Business District" },
@@ -363,7 +876,304 @@ export const micronesiaEconomicV2: POI[] = [
     image: "/poi-images/micronesia-colonia-commerce-yap-economic-v2.webp",
   },
   {
-    id: "micronesia-weno-commerce-economic-v2",
+    id: "micronesia-weno-commerce-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Afarafar",
+                  "text": "Afarafar ist ein Berggipfel in Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.848611,
+                        7.459167
+                  ]
+            },
+            {
+                  "name": "Nauno",
+                  "text": "Nauno ist ein Gipfel in der Gegend von Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.8675,
+                        7.454167
+                  ]
+            },
+            {
+                  "name": "Nenino",
+                  "text": "Nenino ist ein Berggipfel in Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.862778,
+                        7.453056
+                  ]
+            },
+            {
+                  "name": "Teroken",
+                  "text": "Teroken ist ein Gipfel in Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.852104,
+                        7.438677
+                  ]
+            },
+            {
+                  "name": "Tonnachau",
+                  "text": "Tonnachau ist ein markanter Gipfel in Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.849581,
+                        7.456903
+                  ]
+            },
+            {
+                  "name": "Japanese War Memorial",
+                  "text": "Das Japanese War Memorial ist eine Sehenswürdigkeit in Weno Geschäftszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        151.841968,
+                        7.449697
+                  ]
+            },
+            {
+                  "name": "Wichen Falls",
+                  "text": "Wichen Falls ist eine Naturattraktion in Weno Geschäftszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        151.8688,
+                        7.452723
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral",
+                  "text": "Die Immaculate Heart of Mary Cathedral ist eine bedeutende katholische Kirche und Sitz der Diözese der Karolinen in Weno Geschäftszentrum.",
+                  "category": "religious",
+                  "coords": [
+                        151.864131,
+                        7.457255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Afarafar",
+                  "text": "Az Afarafar egy hegycsúcs Weno Geschäftszentrum területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.848611,
+                        7.459167
+                  ]
+            },
+            {
+                  "name": "Nauno",
+                  "text": "A Nauno egy hegycsúcs Weno Geschäftszentrum térségében.",
+                  "category": "natural",
+                  "coords": [
+                        151.8675,
+                        7.454167
+                  ]
+            },
+            {
+                  "name": "Nenino",
+                  "text": "A Nenino egy hegycsúcs Weno Geschäftszentrum területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.862778,
+                        7.453056
+                  ]
+            },
+            {
+                  "name": "Teroken",
+                  "text": "A Teroken egy hegycsúcs Weno Geschäftszentrum térségében.",
+                  "category": "natural",
+                  "coords": [
+                        151.852104,
+                        7.438677
+                  ]
+            },
+            {
+                  "name": "Tonnachau",
+                  "text": "A Tonnachau egy kiemelkedő hegycsúcs Weno Geschäftszentrum területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.849581,
+                        7.456903
+                  ]
+            },
+            {
+                  "name": "Japanese War Memorial",
+                  "text": "A Japanese War Memorial egy látványosság Weno Geschäftszentrum területén.",
+                  "category": "landmark",
+                  "coords": [
+                        151.841968,
+                        7.449697
+                  ]
+            },
+            {
+                  "name": "Wichen Falls",
+                  "text": "A Wichen Falls egy természeti látványosság Weno Geschäftszentrum városában.",
+                  "category": "landmark",
+                  "coords": [
+                        151.8688,
+                        7.452723
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral",
+                  "text": "Az Immaculate Heart of Mary Cathedral egy jelentős katolikus templom és a Karolina-szigeteki egyházmegye székhelye Weno Geschäftszentrum városában.",
+                  "category": "religious",
+                  "coords": [
+                        151.864131,
+                        7.457255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Afarafar",
+                  "text": "Afarafar este un vârf de munte situat în Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.848611,
+                        7.459167
+                  ]
+            },
+            {
+                  "name": "Nauno",
+                  "text": "Nauno este un vârf montan situat în zona Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.8675,
+                        7.454167
+                  ]
+            },
+            {
+                  "name": "Nenino",
+                  "text": "Nenino este un vârf de munte aflat în Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.862778,
+                        7.453056
+                  ]
+            },
+            {
+                  "name": "Teroken",
+                  "text": "Teroken este un vârf de munte din Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.852104,
+                        7.438677
+                  ]
+            },
+            {
+                  "name": "Tonnachau",
+                  "text": "Tonnachau este un vârf de munte proeminent din Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.849581,
+                        7.456903
+                  ]
+            },
+            {
+                  "name": "Japanese War Memorial",
+                  "text": "Japanese War Memorial este o atracție situată în Weno Geschäftszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        151.841968,
+                        7.449697
+                  ]
+            },
+            {
+                  "name": "Wichen Falls",
+                  "text": "Wichen Falls este o atracție naturală în Weno Geschäftszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        151.8688,
+                        7.452723
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral",
+                  "text": "Catedrala Inimii Imaculate a Mariei este o biserică catolică proeminentă ce servește drept scaun episcopal al Diecezei de Insulele Caroline în Weno Geschäftszentrum.",
+                  "category": "religious",
+                  "coords": [
+                        151.864131,
+                        7.457255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Afarafar",
+                  "text": "Afarafar is a mountain peak located in Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.848611,
+                        7.459167
+                  ]
+            },
+            {
+                  "name": "Nauno",
+                  "text": "Nauno is a peak situated in the area of Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.8675,
+                        7.454167
+                  ]
+            },
+            {
+                  "name": "Nenino",
+                  "text": "Nenino is a mountain peak located in Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.862778,
+                        7.453056
+                  ]
+            },
+            {
+                  "name": "Teroken",
+                  "text": "Teroken is a peak to be found in Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.852104,
+                        7.438677
+                  ]
+            },
+            {
+                  "name": "Tonnachau",
+                  "text": "Tonnachau is a prominent peak situated in Weno Geschäftszentrum.",
+                  "category": "natural",
+                  "coords": [
+                        151.849581,
+                        7.456903
+                  ]
+            },
+            {
+                  "name": "Japanese War Memorial",
+                  "text": "The Japanese War Memorial is an attraction located in Weno Geschäftszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        151.841968,
+                        7.449697
+                  ]
+            },
+            {
+                  "name": "Wichen Falls",
+                  "text": "Wichen Falls is a natural attraction in Weno Geschäftszentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        151.8688,
+                        7.452723
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral",
+                  "text": "Immaculate Heart of Mary Cathedral is a prominent Catholic church serving as the seat of the Diocese of Caroline Islands in Weno Geschäftszentrum.",
+                  "category": "religious",
+                  "coords": [
+                        151.864131,
+                        7.457255
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "city",
     name: { de: "Weno Geschäftszentrum", hu: "Weno üzleti központ", ro: "Centrul de afaceri Weno", en: "Weno Business Center" },
@@ -408,7 +1218,124 @@ export const micronesiaEconomicV2: POI[] = [
     image: "/poi-images/micronesia-weno-commerce-economic-v2.webp",
   },
   {
-    id: "micronesia-tofol-center-economic-v2",
+    id: "micronesia-tofol-center-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lelu Ruins Historic Park",
+                  "text": "Die Lelu Ruinen sind eine bedeutende archäologische Stätte auf Kosrae.",
+                  "category": "historical",
+                  "coords": [
+                        163.025,
+                        5.331667
+                  ]
+            },
+            {
+                  "name": "Kosrae Museum",
+                  "text": "Das Kosrae Museum bewahrt die Kultur der Insel.",
+                  "category": "museum",
+                  "coords": [
+                        163.008563,
+                        5.325186
+                  ]
+            },
+            {
+                  "name": "Finol Finkol",
+                  "text": "Finol Finkol ist ein Berg auf Kosrae.",
+                  "category": "natural",
+                  "coords": [
+                        162.991557,
+                        5.311234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lelu Ruins Historic Park",
+                  "text": "A Lelu-romok jelentős régészeti lelőhely Kosrae szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        163.025,
+                        5.331667
+                  ]
+            },
+            {
+                  "name": "Kosrae Museum",
+                  "text": "A Kosrae Múzeum a sziget kultúráját őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        163.008563,
+                        5.325186
+                  ]
+            },
+            {
+                  "name": "Finol Finkol",
+                  "text": "A Finol Finkol egy hegy Kosrae szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        162.991557,
+                        5.311234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lelu Ruins Historic Park",
+                  "text": "Ruinele Lelu sunt un sit arheologic important pe Kosrae.",
+                  "category": "historical",
+                  "coords": [
+                        163.025,
+                        5.331667
+                  ]
+            },
+            {
+                  "name": "Kosrae Museum",
+                  "text": "Muzeul Kosrae conservă cultura insulei.",
+                  "category": "museum",
+                  "coords": [
+                        163.008563,
+                        5.325186
+                  ]
+            },
+            {
+                  "name": "Finol Finkol",
+                  "text": "Finol Finkol este un munte pe Kosrae.",
+                  "category": "natural",
+                  "coords": [
+                        162.991557,
+                        5.311234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lelu Ruins Historic Park",
+                  "text": "The Lelu ruins are a significant archaeological site on Kosrae.",
+                  "category": "historical",
+                  "coords": [
+                        163.025,
+                        5.331667
+                  ]
+            },
+            {
+                  "name": "Kosrae Museum",
+                  "text": "The Kosrae Museum preserves the culture of the island.",
+                  "category": "museum",
+                  "coords": [
+                        163.008563,
+                        5.325186
+                  ]
+            },
+            {
+                  "name": "Finol Finkol",
+                  "text": "Finol Finkol is a mountain on Kosrae.",
+                  "category": "natural",
+                  "coords": [
+                        162.991557,
+                        5.311234
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "town",
     name: { de: "Tofol Wirtschaftszentrum", hu: "Tofol gazdasági központ", ro: "Centrul economic Tofol", en: "Tofol Economic Hub" },

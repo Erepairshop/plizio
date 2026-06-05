@@ -1534,7 +1534,592 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "soacha-cities-v2",
+    id: "soacha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Humedal Tibanica",
+                  "text": "Humedal Tibanica ist ein städtisches Feuchtgebiet und Naturschutzgebiet in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.205238,
+                        4.602812
+                  ]
+            },
+            {
+                  "name": "Varón del Sol",
+                  "text": "Varón del Sol ist eine archäologische Stätte in Soacha.",
+                  "category": "historical",
+                  "coords": [
+                        -74.216461,
+                        4.553129
+                  ]
+            },
+            {
+                  "name": "Teatro Sua",
+                  "text": "Das Teatro Sua ist ein Theater in der kolumbianischen Stadt Soacha.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.220076,
+                        4.585127
+                  ]
+            },
+            {
+                  "name": "Humedal del Neuta",
+                  "text": "Das Humedal del Neuta ist ein wichtiges Naturschutzgebiet und Feuchtgebiet in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.229635,
+                        4.57645
+                  ]
+            },
+            {
+                  "name": "Humedal Tierra Blanca",
+                  "text": "Humedal Tierra Blanca ist ein geschütztes Feuchtgebiet in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.235981,
+                        4.572922
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Das Auditorio ist ein Veranstaltungssaal in Soacha.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.213758,
+                        4.604565
+                  ]
+            },
+            {
+                  "name": "Humedal Chucuita",
+                  "text": "Humedal Chucuita ist ein Feuchtgebiet und Naturschutzgebiet in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.225374,
+                        4.59957
+                  ]
+            },
+            {
+                  "name": "Humedal El Vinculo",
+                  "text": "Humedal El Vinculo ist ein Naturschutzgebiet in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.228434,
+                        4.56189
+                  ]
+            },
+            {
+                  "name": "Parque La Niebla",
+                  "text": "Der Parque La Niebla ist ein Naturpark und Schutzgebiet in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.227345,
+                        4.606898
+                  ]
+            },
+            {
+                  "name": "Humedal Cola de Tierra Blanca",
+                  "text": "Humedal Cola de Tierra Blanca ist ein Naturschutzgebiet in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.232636,
+                        4.558429
+                  ]
+            },
+            {
+                  "name": "Arte Rupestre",
+                  "text": "Arte Rupestre bezeichnet eine archäologische Stätte mit Felszeichnungen in Soacha.",
+                  "category": "historical",
+                  "coords": [
+                        -74.224806,
+                        4.602958
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "Das Museo Arqueológico ist ein archäologisches Museum in Soacha.",
+                  "category": "museum",
+                  "coords": [
+                        -74.217511,
+                        4.58192
+                  ]
+            },
+            {
+                  "name": "Parque Tibanica",
+                  "text": "Der Parque Tibanica ist eine Parkanlage am gleichnamigen Feuchtgebiet in Soacha.",
+                  "category": "park",
+                  "coords": [
+                        -74.196911,
+                        4.58239
+                  ]
+            },
+            {
+                  "name": "Piedra Gorda",
+                  "text": "Piedra Gorda ist ein Aussichtspunkt in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.205394,
+                        4.569994
+                  ]
+            },
+            {
+                  "name": "Rotonda Hogar del Sol",
+                  "text": "Die Rotonda Hogar del Sol ist eine Sehenswürdigkeit in Soacha.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.207366,
+                        4.586475
+                  ]
+            },
+            {
+                  "name": "Rotonda Indumil",
+                  "text": "Die Rotonda Indumil ist eine Attraktion in der Stadt Soacha.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.221567,
+                        4.580885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Humedal Tibanica",
+                  "text": "A Humedal Tibanica egy vizes élőhely és természetvédelmi terület Soacha városában.",
+                  "category": "natural",
+                  "coords": [
+                        -74.205238,
+                        4.602812
+                  ]
+            },
+            {
+                  "name": "Varón del Sol",
+                  "text": "A Varón del Sol egy régészeti lelőhely Soacha városában.",
+                  "category": "historical",
+                  "coords": [
+                        -74.216461,
+                        4.553129
+                  ]
+            },
+            {
+                  "name": "Teatro Sua",
+                  "text": "A Teatro Sua egy színház a kolumbiai Soacha városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.220076,
+                        4.585127
+                  ]
+            },
+            {
+                  "name": "Humedal del Neuta",
+                  "text": "A Humedal del Neuta egy természetvédelmi területként szolgáló vizes élőhely Soacha városában.",
+                  "category": "natural",
+                  "coords": [
+                        -74.229635,
+                        4.57645
+                  ]
+            },
+            {
+                  "name": "Humedal Tierra Blanca",
+                  "text": "A Humedal Tierra Blanca egy védett vizes élőhely Soacha területén.",
+                  "category": "natural",
+                  "coords": [
+                        -74.235981,
+                        4.572922
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Az Auditorio egy színház- és rendezvényterem Soacha városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.213758,
+                        4.604565
+                  ]
+            },
+            {
+                  "name": "Humedal Chucuita",
+                  "text": "A Humedal Chucuita egy vizes élőhely és természetvédelmi terület Soacha városában.",
+                  "category": "natural",
+                  "coords": [
+                        -74.225374,
+                        4.59957
+                  ]
+            },
+            {
+                  "name": "Humedal El Vinculo",
+                  "text": "A Humedal El Vinculo egy védett természetvédelmi terület Soacha városában.",
+                  "category": "natural",
+                  "coords": [
+                        -74.228434,
+                        4.56189
+                  ]
+            },
+            {
+                  "name": "Parque La Niebla",
+                  "text": "A Parque La Niebla egy természetvédelmi park Soacha városában.",
+                  "category": "natural",
+                  "coords": [
+                        -74.227345,
+                        4.606898
+                  ]
+            },
+            {
+                  "name": "Humedal Cola de Tierra Blanca",
+                  "text": "A Humedal Cola de Tierra Blanca egy természetvédelmi terület Soacha városában.",
+                  "category": "natural",
+                  "coords": [
+                        -74.232636,
+                        4.558429
+                  ]
+            },
+            {
+                  "name": "Arte Rupestre",
+                  "text": "Az Arte Rupestre egy sziklarajzokat bemutató régészeti lelőhely Soacha városában.",
+                  "category": "historical",
+                  "coords": [
+                        -74.224806,
+                        4.602958
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "A Museo Arqueológico egy régészeti múzeum Soacha városában.",
+                  "category": "museum",
+                  "coords": [
+                        -74.217511,
+                        4.58192
+                  ]
+            },
+            {
+                  "name": "Parque Tibanica",
+                  "text": "A Parque Tibanica egy park Soacha városában, amely a helyi vizes élőhelyhez kapcsolódik.",
+                  "category": "park",
+                  "coords": [
+                        -74.196911,
+                        4.58239
+                  ]
+            },
+            {
+                  "name": "Piedra Gorda",
+                  "text": "A Piedra Gorda egy kilátóhely Soacha területén.",
+                  "category": "natural",
+                  "coords": [
+                        -74.205394,
+                        4.569994
+                  ]
+            },
+            {
+                  "name": "Rotonda Hogar del Sol",
+                  "text": "A Rotonda Hogar del Sol egy helyi látványosság Soacha városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.207366,
+                        4.586475
+                  ]
+            },
+            {
+                  "name": "Rotonda Indumil",
+                  "text": "A Rotonda Indumil egy körforgalom és látványosság Soacha városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.221567,
+                        4.580885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Humedal Tibanica",
+                  "text": "Humedal Tibanica este o rezervație naturală din zona umedă situată în Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.205238,
+                        4.602812
+                  ]
+            },
+            {
+                  "name": "Varón del Sol",
+                  "text": "Varón del Sol este un sit arheologic situat în Soacha.",
+                  "category": "historical",
+                  "coords": [
+                        -74.216461,
+                        4.553129
+                  ]
+            },
+            {
+                  "name": "Teatro Sua",
+                  "text": "Teatro Sua este un teatru situat în orașul columbian Soacha.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.220076,
+                        4.585127
+                  ]
+            },
+            {
+                  "name": "Humedal del Neuta",
+                  "text": "Humedal del Neuta este o rezervație naturală de tip zonă umedă din Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.229635,
+                        4.57645
+                  ]
+            },
+            {
+                  "name": "Humedal Tierra Blanca",
+                  "text": "Humedal Tierra Blanca este o rezervație naturală și o zonă umedă din Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.235981,
+                        4.572922
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Auditorio este o sală de teatru și evenimente situată în Soacha.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.213758,
+                        4.604565
+                  ]
+            },
+            {
+                  "name": "Humedal Chucuita",
+                  "text": "Humedal Chucuita este o rezervație naturală situată în Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.225374,
+                        4.59957
+                  ]
+            },
+            {
+                  "name": "Humedal El Vinculo",
+                  "text": "Humedal El Vinculo este o zonă umedă și rezervație naturală din Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.228434,
+                        4.56189
+                  ]
+            },
+            {
+                  "name": "Parque La Niebla",
+                  "text": "Parque La Niebla este o rezervație naturală din Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.227345,
+                        4.606898
+                  ]
+            },
+            {
+                  "name": "Humedal Cola de Tierra Blanca",
+                  "text": "Humedal Cola de Tierra Blanca este o rezervație naturală din Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.232636,
+                        4.558429
+                  ]
+            },
+            {
+                  "name": "Arte Rupestre",
+                  "text": "Arte Rupestre este un sit arheologic cu artă rupestră situat în Soacha.",
+                  "category": "historical",
+                  "coords": [
+                        -74.224806,
+                        4.602958
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "Museo Arqueológico este un muzeu cu profil arheologic din Soacha.",
+                  "category": "museum",
+                  "coords": [
+                        -74.217511,
+                        4.58192
+                  ]
+            },
+            {
+                  "name": "Parque Tibanica",
+                  "text": "Parque Tibanica este un parc situat în zona umedă din Soacha.",
+                  "category": "park",
+                  "coords": [
+                        -74.196911,
+                        4.58239
+                  ]
+            },
+            {
+                  "name": "Piedra Gorda",
+                  "text": "Piedra Gorda este un punct de belvedere situat în Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.205394,
+                        4.569994
+                  ]
+            },
+            {
+                  "name": "Rotonda Hogar del Sol",
+                  "text": "Rotonda Hogar del Sol este o atracție situată în Soacha.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.207366,
+                        4.586475
+                  ]
+            },
+            {
+                  "name": "Rotonda Indumil",
+                  "text": "Rotonda Indumil este o atracție din orașul Soacha.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.221567,
+                        4.580885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Humedal Tibanica",
+                  "text": "Humedal Tibanica is a wetland nature reserve located in the municipality of Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.205238,
+                        4.602812
+                  ]
+            },
+            {
+                  "name": "Varón del Sol",
+                  "text": "Varón del Sol is an archaeological site located in Soacha.",
+                  "category": "historical",
+                  "coords": [
+                        -74.216461,
+                        4.553129
+                  ]
+            },
+            {
+                  "name": "Teatro Sua",
+                  "text": "Teatro Sua is a theatre located in the city of Soacha.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.220076,
+                        4.585127
+                  ]
+            },
+            {
+                  "name": "Humedal del Neuta",
+                  "text": "Humedal del Neuta is a wetland nature reserve located in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.229635,
+                        4.57645
+                  ]
+            },
+            {
+                  "name": "Humedal Tierra Blanca",
+                  "text": "Humedal Tierra Blanca is a nature reserve and wetland located in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.235981,
+                        4.572922
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Auditorio is a theatre and performance venue in Soacha.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.213758,
+                        4.604565
+                  ]
+            },
+            {
+                  "name": "Humedal Chucuita",
+                  "text": "Humedal Chucuita is a wetland nature reserve found in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.225374,
+                        4.59957
+                  ]
+            },
+            {
+                  "name": "Humedal El Vinculo",
+                  "text": "Humedal El Vinculo is a wetland nature reserve situated in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.228434,
+                        4.56189
+                  ]
+            },
+            {
+                  "name": "Parque La Niebla",
+                  "text": "Parque La Niebla is a nature reserve located in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.227345,
+                        4.606898
+                  ]
+            },
+            {
+                  "name": "Humedal Cola de Tierra Blanca",
+                  "text": "Humedal Cola de Tierra Blanca is a wetland nature reserve in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.232636,
+                        4.558429
+                  ]
+            },
+            {
+                  "name": "Arte Rupestre",
+                  "text": "Arte Rupestre is an archaeological site featuring rock art in Soacha.",
+                  "category": "historical",
+                  "coords": [
+                        -74.224806,
+                        4.602958
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "The Museo Arqueológico is an archaeological museum located in Soacha.",
+                  "category": "museum",
+                  "coords": [
+                        -74.217511,
+                        4.58192
+                  ]
+            },
+            {
+                  "name": "Parque Tibanica",
+                  "text": "Parque Tibanica is a public park associated with the Tibanica wetland in Soacha.",
+                  "category": "park",
+                  "coords": [
+                        -74.196911,
+                        4.58239
+                  ]
+            },
+            {
+                  "name": "Piedra Gorda",
+                  "text": "Piedra Gorda is a scenic viewpoint located in Soacha.",
+                  "category": "natural",
+                  "coords": [
+                        -74.205394,
+                        4.569994
+                  ]
+            },
+            {
+                  "name": "Rotonda Hogar del Sol",
+                  "text": "Rotonda Hogar del Sol is an attraction found in Soacha.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.207366,
+                        4.586475
+                  ]
+            },
+            {
+                  "name": "Rotonda Indumil",
+                  "text": "Rotonda Indumil is a local attraction located in Soacha.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.221567,
+                        4.580885
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-CUN",
     coords: [-74.2173, 4.5778],
@@ -1632,7 +2217,268 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "palmira-cities-v2",
+    id: "palmira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Auditorio Gary Mintz",
+                  "text": "Ein Theater in Palmira.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.307865,
+                        3.512843
+                  ]
+            },
+            {
+                  "name": "Centro de convenciones Guillermo Barney Materon Amaime",
+                  "text": "Ein Theater in Palmira.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.304852,
+                        3.525921
+                  ]
+            },
+            {
+                  "name": "Parque del Azúcar",
+                  "text": "Ein Wasserpark in Palmira.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.307812,
+                        3.540392
+                  ]
+            },
+            {
+                  "name": "Centro cultural Gullermo Barney Materon",
+                  "text": "Ein Theater in Palmira.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.299468,
+                        3.527617
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "Eine Attraktion in Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.285875,
+                        3.528727
+                  ]
+            },
+            {
+                  "name": "Bosque Municipal",
+                  "text": "Eine Attraktion in Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.287038,
+                        3.526538
+                  ]
+            },
+            {
+                  "name": "Catedral de Nuestra Señora del Rosario del Palmar",
+                  "text": "Die Kathedrale in Palmira ist der Sitz der lokalen Diözese.",
+                  "category": "religious",
+                  "coords": [
+                        -76.300653,
+                        3.526911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Auditorio Gary Mintz",
+                  "text": "Színház Palmira városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.307865,
+                        3.512843
+                  ]
+            },
+            {
+                  "name": "Centro de convenciones Guillermo Barney Materon Amaime",
+                  "text": "Színház Palmira városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.304852,
+                        3.525921
+                  ]
+            },
+            {
+                  "name": "Parque del Azúcar",
+                  "text": "Vízipark Palmira városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.307812,
+                        3.540392
+                  ]
+            },
+            {
+                  "name": "Centro cultural Gullermo Barney Materon",
+                  "text": "Színház Palmira városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.299468,
+                        3.527617
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "Látnivaló Palmira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.285875,
+                        3.528727
+                  ]
+            },
+            {
+                  "name": "Bosque Municipal",
+                  "text": "Látnivaló Palmira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.287038,
+                        3.526538
+                  ]
+            },
+            {
+                  "name": "Catedral de Nuestra Señora del Rosario del Palmar",
+                  "text": "Palmira katedrálisa a helyi egyházmegye székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -76.300653,
+                        3.526911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Auditorio Gary Mintz",
+                  "text": "Un teatru în Palmira.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.307865,
+                        3.512843
+                  ]
+            },
+            {
+                  "name": "Centro de convenciones Guillermo Barney Materon Amaime",
+                  "text": "Un teatru în Palmira.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.304852,
+                        3.525921
+                  ]
+            },
+            {
+                  "name": "Parque del Azúcar",
+                  "text": "Un parc acvatic în Palmira.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.307812,
+                        3.540392
+                  ]
+            },
+            {
+                  "name": "Centro cultural Gullermo Barney Materon",
+                  "text": "Un teatru în Palmira.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.299468,
+                        3.527617
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "O atracție în Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.285875,
+                        3.528727
+                  ]
+            },
+            {
+                  "name": "Bosque Municipal",
+                  "text": "O atracție în Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.287038,
+                        3.526538
+                  ]
+            },
+            {
+                  "name": "Catedral de Nuestra Señora del Rosario del Palmar",
+                  "text": "Catedrala din Palmira este sediul diocezei locale.",
+                  "category": "religious",
+                  "coords": [
+                        -76.300653,
+                        3.526911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Auditorio Gary Mintz",
+                  "text": "A theater in Palmira.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.307865,
+                        3.512843
+                  ]
+            },
+            {
+                  "name": "Centro de convenciones Guillermo Barney Materon Amaime",
+                  "text": "A theater in Palmira.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.304852,
+                        3.525921
+                  ]
+            },
+            {
+                  "name": "Parque del Azúcar",
+                  "text": "A water park in Palmira.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.307812,
+                        3.540392
+                  ]
+            },
+            {
+                  "name": "Centro cultural Gullermo Barney Materon",
+                  "text": "A theater in Palmira.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.299468,
+                        3.527617
+                  ]
+            },
+            {
+                  "name": "Mariposario",
+                  "text": "An attraction in Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.285875,
+                        3.528727
+                  ]
+            },
+            {
+                  "name": "Bosque Municipal",
+                  "text": "An attraction in Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.287038,
+                        3.526538
+                  ]
+            },
+            {
+                  "name": "Catedral de Nuestra Señora del Rosario del Palmar",
+                  "text": "The cathedral in Palmira is the seat of the local diocese.",
+                  "category": "religious",
+                  "coords": [
+                        -76.300653,
+                        3.526911
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-VAC",
     coords: [-76.3036, 3.5394],
@@ -1779,7 +2625,376 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "floridablanca-cities-v2",
+    id: "floridablanca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Acualago",
+                  "text": "Ein Wasserpark in Floridablanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.101301,
+                        7.07124
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Finca La Esperanza - CDMB",
+                  "text": "Ein Naturschutzgebiet in Floridablanca.",
+                  "category": "natural",
+                  "coords": [
+                        -73.072767,
+                        7.070705
+                  ]
+            },
+            {
+                  "name": "Tortugitas para niños",
+                  "text": "Ein Zoo in Floridablanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.095869,
+                        7.061229
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Guane de Floridablanca, Casa Paragüitas",
+                  "text": "Ein Museum in Floridablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -73.089583,
+                        7.066572
+                  ]
+            },
+            {
+                  "name": "Corredor del Perezoso",
+                  "text": "Ein Zoo in Floridablanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.089195,
+                        7.068336
+                  ]
+            },
+            {
+                  "name": "Puente sobre la Carbona",
+                  "text": "Ein Aussichtspunkt in Floridablanca.",
+                  "category": "natural",
+                  "coords": [
+                        -73.070314,
+                        7.068151
+                  ]
+            },
+            {
+                  "name": "Mini Cascada",
+                  "text": "Ein Aussichtspunkt in Floridablanca.",
+                  "category": "natural",
+                  "coords": [
+                        -73.067573,
+                        7.067704
+                  ]
+            },
+            {
+                  "name": "Hacienda La Esperanza",
+                  "text": "Eine Attraktion in Floridablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.071068,
+                        7.069675
+                  ]
+            },
+            {
+                  "name": "EcoParque Cerro del Santísimo",
+                  "text": "Eine Attraktion in Floridablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.068943,
+                        7.082196
+                  ]
+            },
+            {
+                  "name": "Iglesia Menor",
+                  "text": "Ein Gotteshaus in Floridablanca.",
+                  "category": "religious",
+                  "coords": [
+                        -73.086425,
+                        7.06243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Acualago",
+                  "text": "Vízipark Floridablanca városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.101301,
+                        7.07124
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Finca La Esperanza - CDMB",
+                  "text": "Természetvédelmi terület Floridablanca városában.",
+                  "category": "natural",
+                  "coords": [
+                        -73.072767,
+                        7.070705
+                  ]
+            },
+            {
+                  "name": "Tortugitas para niños",
+                  "text": "Állatkert Floridablanca városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.095869,
+                        7.061229
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Guane de Floridablanca, Casa Paragüitas",
+                  "text": "Múzeum Floridablanca városában.",
+                  "category": "museum",
+                  "coords": [
+                        -73.089583,
+                        7.066572
+                  ]
+            },
+            {
+                  "name": "Corredor del Perezoso",
+                  "text": "Állatkert Floridablanca városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.089195,
+                        7.068336
+                  ]
+            },
+            {
+                  "name": "Puente sobre la Carbona",
+                  "text": "Kilátó Floridablanca városában.",
+                  "category": "natural",
+                  "coords": [
+                        -73.070314,
+                        7.068151
+                  ]
+            },
+            {
+                  "name": "Mini Cascada",
+                  "text": "Kilátó Floridablanca városában.",
+                  "category": "natural",
+                  "coords": [
+                        -73.067573,
+                        7.067704
+                  ]
+            },
+            {
+                  "name": "Hacienda La Esperanza",
+                  "text": "Látnivaló Floridablanca városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.071068,
+                        7.069675
+                  ]
+            },
+            {
+                  "name": "EcoParque Cerro del Santísimo",
+                  "text": "Látnivaló Floridablanca városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.068943,
+                        7.082196
+                  ]
+            },
+            {
+                  "name": "Iglesia Menor",
+                  "text": "Templom Floridablanca városában.",
+                  "category": "religious",
+                  "coords": [
+                        -73.086425,
+                        7.06243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Acualago",
+                  "text": "Un parc acvatic în Floridablanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.101301,
+                        7.07124
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Finca La Esperanza - CDMB",
+                  "text": "O rezervație naturală în Floridablanca.",
+                  "category": "natural",
+                  "coords": [
+                        -73.072767,
+                        7.070705
+                  ]
+            },
+            {
+                  "name": "Tortugitas para niños",
+                  "text": "O grădină zoologică în Floridablanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.095869,
+                        7.061229
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Guane de Floridablanca, Casa Paragüitas",
+                  "text": "Un muzeu în Floridablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -73.089583,
+                        7.066572
+                  ]
+            },
+            {
+                  "name": "Corredor del Perezoso",
+                  "text": "O grădină zoologică în Floridablanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.089195,
+                        7.068336
+                  ]
+            },
+            {
+                  "name": "Puente sobre la Carbona",
+                  "text": "Un punct de observație în Floridablanca.",
+                  "category": "natural",
+                  "coords": [
+                        -73.070314,
+                        7.068151
+                  ]
+            },
+            {
+                  "name": "Mini Cascada",
+                  "text": "Un punct de observație în Floridablanca.",
+                  "category": "natural",
+                  "coords": [
+                        -73.067573,
+                        7.067704
+                  ]
+            },
+            {
+                  "name": "Hacienda La Esperanza",
+                  "text": "O atracție în Floridablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.071068,
+                        7.069675
+                  ]
+            },
+            {
+                  "name": "EcoParque Cerro del Santísimo",
+                  "text": "O atracție în Floridablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.068943,
+                        7.082196
+                  ]
+            },
+            {
+                  "name": "Iglesia Menor",
+                  "text": "Un lăcaș de cult în Floridablanca.",
+                  "category": "religious",
+                  "coords": [
+                        -73.086425,
+                        7.06243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Acualago",
+                  "text": "A water park in Floridablanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.101301,
+                        7.07124
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Finca La Esperanza - CDMB",
+                  "text": "A nature reserve in Floridablanca.",
+                  "category": "natural",
+                  "coords": [
+                        -73.072767,
+                        7.070705
+                  ]
+            },
+            {
+                  "name": "Tortugitas para niños",
+                  "text": "A zoo in Floridablanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.095869,
+                        7.061229
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Guane de Floridablanca, Casa Paragüitas",
+                  "text": "A museum in Floridablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -73.089583,
+                        7.066572
+                  ]
+            },
+            {
+                  "name": "Corredor del Perezoso",
+                  "text": "A zoo in Floridablanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.089195,
+                        7.068336
+                  ]
+            },
+            {
+                  "name": "Puente sobre la Carbona",
+                  "text": "A viewpoint in Floridablanca.",
+                  "category": "natural",
+                  "coords": [
+                        -73.070314,
+                        7.068151
+                  ]
+            },
+            {
+                  "name": "Mini Cascada",
+                  "text": "A viewpoint in Floridablanca.",
+                  "category": "natural",
+                  "coords": [
+                        -73.067573,
+                        7.067704
+                  ]
+            },
+            {
+                  "name": "Hacienda La Esperanza",
+                  "text": "An attraction in Floridablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.071068,
+                        7.069675
+                  ]
+            },
+            {
+                  "name": "EcoParque Cerro del Santísimo",
+                  "text": "An attraction in Floridablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.068943,
+                        7.082196
+                  ]
+            },
+            {
+                  "name": "Iglesia Menor",
+                  "text": "A place of worship in Floridablanca.",
+                  "category": "religious",
+                  "coords": [
+                        -73.086425,
+                        7.06243
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-SAN",
     coords: [-73.0864, 7.0622],
@@ -1828,7 +3043,520 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "barrancabermeja-cities-v2",
+    id: "barrancabermeja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Procinal",
+                  "text": "Procinal ist ein Kino und Theater in Barrancabermeja.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.866341,
+                        7.060666
+                  ]
+            },
+            {
+                  "name": "CMDHM",
+                  "text": "Das CMDHM ist ein Museum in Barrancabermeja.",
+                  "category": "museum",
+                  "coords": [
+                        -73.855844,
+                        7.062669
+                  ]
+            },
+            {
+                  "name": "Parque Indios Yariguies",
+                  "text": "Der Parque Indios Yariguies ist ein Denkmal in Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.865223,
+                        7.061544
+                  ]
+            },
+            {
+                  "name": "Parque La Constitucion",
+                  "text": "Der Parque La Constitucion ist ein Aussichtspunkt in Barrancabermeja.",
+                  "category": "natural",
+                  "coords": [
+                        -73.871255,
+                        7.059984
+                  ]
+            },
+            {
+                  "name": "Plazoleta Cacique Pipatón",
+                  "text": "Die Plazoleta Cacique Pipatón beherbergt ein Denkmal in Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.850165,
+                        7.063107
+                  ]
+            },
+            {
+                  "name": "Monumento El tapir",
+                  "text": "Das Monumento El tapir ist ein Denkmal in Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.855927,
+                        7.068431
+                  ]
+            },
+            {
+                  "name": "Cupula la Pollera Colorada",
+                  "text": "Die Cupula la Pollera Colorada ist ein Denkmal in Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.854291,
+                        7.068484
+                  ]
+            },
+            {
+                  "name": "Iguana descansando",
+                  "text": "Das Denkmal Iguana descansando befindet sich in Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.862056,
+                        7.078266
+                  ]
+            },
+            {
+                  "name": "Parque Camilo Torres",
+                  "text": "Der Parque Camilo Torres ist eine Attraktion in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.853397,
+                        7.061735
+                  ]
+            },
+            {
+                  "name": "Parque del Reloj",
+                  "text": "Der Parque del Reloj ist eine beliebte Attraktion in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.859449,
+                        7.058568
+                  ]
+            },
+            {
+                  "name": "Parque Uribe Uribe",
+                  "text": "Der Parque Uribe Uribe ist eine Sehenswürdigkeit in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.868381,
+                        7.058483
+                  ]
+            },
+            {
+                  "name": "Parque Pueblo Nuevo",
+                  "text": "Der Parque Pueblo Nuevo ist ein Picknickplatz in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.862149,
+                        7.066311
+                  ]
+            },
+            {
+                  "name": "Parque Inscredial",
+                  "text": "Der Parque Inscredial ist ein Ort für Picknicks in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.858356,
+                        7.055567
+                  ]
+            },
+            {
+                  "name": "Parque Infantil",
+                  "text": "Der Parque Infantil bietet Picknickmöglichkeiten in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.860983,
+                        7.058972
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Procinal",
+                  "text": "A Procinal egy színház és mozi Barrancabermeja városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.866341,
+                        7.060666
+                  ]
+            },
+            {
+                  "name": "CMDHM",
+                  "text": "A CMDHM egy múzeum Barrancabermeja városában.",
+                  "category": "museum",
+                  "coords": [
+                        -73.855844,
+                        7.062669
+                  ]
+            },
+            {
+                  "name": "Parque Indios Yariguies",
+                  "text": "A Parque Indios Yariguies egy emlékmű Barrancabermeja városában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.865223,
+                        7.061544
+                  ]
+            },
+            {
+                  "name": "Parque La Constitucion",
+                  "text": "A Parque La Constitucion egy kilátópont Barrancabermeja városában.",
+                  "category": "natural",
+                  "coords": [
+                        -73.871255,
+                        7.059984
+                  ]
+            },
+            {
+                  "name": "Plazoleta Cacique Pipatón",
+                  "text": "A Plazoleta Cacique Pipatón egy emlékműnek otthont adó tér Barrancabermeja városában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.850165,
+                        7.063107
+                  ]
+            },
+            {
+                  "name": "Monumento El tapir",
+                  "text": "A Monumento El tapir egy emlékmű Barrancabermeja városában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.855927,
+                        7.068431
+                  ]
+            },
+            {
+                  "name": "Cupula la Pollera Colorada",
+                  "text": "A Cupula la Pollera Colorada egy emlékmű Barrancabermeja városában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.854291,
+                        7.068484
+                  ]
+            },
+            {
+                  "name": "Iguana descansando",
+                  "text": "Az Iguana descansando egy emlékmű Barrancabermeja városában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.862056,
+                        7.078266
+                  ]
+            },
+            {
+                  "name": "Parque Camilo Torres",
+                  "text": "A Parque Camilo Torres egy park és látványosság Barrancabermeja városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.853397,
+                        7.061735
+                  ]
+            },
+            {
+                  "name": "Parque del Reloj",
+                  "text": "A Parque del Reloj egy órapark és látványosság Barrancabermeja városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.859449,
+                        7.058568
+                  ]
+            },
+            {
+                  "name": "Parque Uribe Uribe",
+                  "text": "A Parque Uribe Uribe egy látványosság Barrancabermeja városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.868381,
+                        7.058483
+                  ]
+            },
+            {
+                  "name": "Parque Pueblo Nuevo",
+                  "text": "A Parque Pueblo Nuevo egy piknikezőhely Barrancabermeja városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.862149,
+                        7.066311
+                  ]
+            },
+            {
+                  "name": "Parque Inscredial",
+                  "text": "A Parque Inscredial egy piknikezésre alkalmas park Barrancabermeja városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.858356,
+                        7.055567
+                  ]
+            },
+            {
+                  "name": "Parque Infantil",
+                  "text": "A Parque Infantil egy piknikezőhelyekkel is rendelkező park Barrancabermeja városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.860983,
+                        7.058972
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Procinal",
+                  "text": "Procinal este un teatru și cinematograf din Barrancabermeja.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.866341,
+                        7.060666
+                  ]
+            },
+            {
+                  "name": "CMDHM",
+                  "text": "CMDHM este un muzeu situat în Barrancabermeja.",
+                  "category": "museum",
+                  "coords": [
+                        -73.855844,
+                        7.062669
+                  ]
+            },
+            {
+                  "name": "Parque Indios Yariguies",
+                  "text": "Parque Indios Yariguies este un monument din Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.865223,
+                        7.061544
+                  ]
+            },
+            {
+                  "name": "Parque La Constitucion",
+                  "text": "Parque La Constitucion este un punct de belvedere în Barrancabermeja.",
+                  "category": "natural",
+                  "coords": [
+                        -73.871255,
+                        7.059984
+                  ]
+            },
+            {
+                  "name": "Plazoleta Cacique Pipatón",
+                  "text": "Plazoleta Cacique Pipatón este o piațetă cu un monument în Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.850165,
+                        7.063107
+                  ]
+            },
+            {
+                  "name": "Monumento El tapir",
+                  "text": "Monumento El tapir este un monument situat în Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.855927,
+                        7.068431
+                  ]
+            },
+            {
+                  "name": "Cupula la Pollera Colorada",
+                  "text": "Cupula la Pollera Colorada este un monument din Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.854291,
+                        7.068484
+                  ]
+            },
+            {
+                  "name": "Iguana descansando",
+                  "text": "Monumentul Iguana descansando este situat în Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.862056,
+                        7.078266
+                  ]
+            },
+            {
+                  "name": "Parque Camilo Torres",
+                  "text": "Parque Camilo Torres este o atracție din Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.853397,
+                        7.061735
+                  ]
+            },
+            {
+                  "name": "Parque del Reloj",
+                  "text": "Parque del Reloj este un parc și o atracție situată în Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.859449,
+                        7.058568
+                  ]
+            },
+            {
+                  "name": "Parque Uribe Uribe",
+                  "text": "Parque Uribe Uribe este o atracție publică din Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.868381,
+                        7.058483
+                  ]
+            },
+            {
+                  "name": "Parque Pueblo Nuevo",
+                  "text": "Parque Pueblo Nuevo este un loc de picnic în Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.862149,
+                        7.066311
+                  ]
+            },
+            {
+                  "name": "Parque Inscredial",
+                  "text": "Parque Inscredial este un loc pentru picnic situat în Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.858356,
+                        7.055567
+                  ]
+            },
+            {
+                  "name": "Parque Infantil",
+                  "text": "Parque Infantil este un loc de picnic în Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.860983,
+                        7.058972
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Procinal",
+                  "text": "Procinal is a theatre and cinema located in Barrancabermeja.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.866341,
+                        7.060666
+                  ]
+            },
+            {
+                  "name": "CMDHM",
+                  "text": "The CMDHM is a museum located in Barrancabermeja.",
+                  "category": "museum",
+                  "coords": [
+                        -73.855844,
+                        7.062669
+                  ]
+            },
+            {
+                  "name": "Parque Indios Yariguies",
+                  "text": "Parque Indios Yariguies is a monument located in Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.865223,
+                        7.061544
+                  ]
+            },
+            {
+                  "name": "Parque La Constitucion",
+                  "text": "Parque La Constitucion is a viewpoint situated in Barrancabermeja.",
+                  "category": "natural",
+                  "coords": [
+                        -73.871255,
+                        7.059984
+                  ]
+            },
+            {
+                  "name": "Plazoleta Cacique Pipatón",
+                  "text": "Plazoleta Cacique Pipatón is a monument square located in Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.850165,
+                        7.063107
+                  ]
+            },
+            {
+                  "name": "Monumento El tapir",
+                  "text": "Monumento El tapir is a monument located in Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.855927,
+                        7.068431
+                  ]
+            },
+            {
+                  "name": "Cupula la Pollera Colorada",
+                  "text": "Cupula la Pollera Colorada is a monument found in Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.854291,
+                        7.068484
+                  ]
+            },
+            {
+                  "name": "Iguana descansando",
+                  "text": "Iguana descansando is a monument situated in Barrancabermeja.",
+                  "category": "historical",
+                  "coords": [
+                        -73.862056,
+                        7.078266
+                  ]
+            },
+            {
+                  "name": "Parque Camilo Torres",
+                  "text": "Parque Camilo Torres is a park and attraction in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.853397,
+                        7.061735
+                  ]
+            },
+            {
+                  "name": "Parque del Reloj",
+                  "text": "Parque del Reloj is a park and local attraction located in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.859449,
+                        7.058568
+                  ]
+            },
+            {
+                  "name": "Parque Uribe Uribe",
+                  "text": "Parque Uribe Uribe is an attraction located in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.868381,
+                        7.058483
+                  ]
+            },
+            {
+                  "name": "Parque Pueblo Nuevo",
+                  "text": "Parque Pueblo Nuevo is a picnic site situated in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.862149,
+                        7.066311
+                  ]
+            },
+            {
+                  "name": "Parque Inscredial",
+                  "text": "Parque Inscredial is a picnic area located in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.858356,
+                        7.055567
+                  ]
+            },
+            {
+                  "name": "Parque Infantil",
+                  "text": "Parque Infantil is a park and picnic site located in Barrancabermeja.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.860983,
+                        7.058972
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-SAN",
     coords: [-73.8543, 7.0653],
@@ -1926,7 +3654,736 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "itagui-cities-v2",
+    id: "itagui-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Envigado",
+                  "text": "Ein Theater in Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.588703,
+                        6.169978
+                  ]
+            },
+            {
+                  "name": "Museo Counitario GAV",
+                  "text": "Ein Museum in Itagüí.",
+                  "category": "museum",
+                  "coords": [
+                        -75.613,
+                        6.176459
+                  ]
+            },
+            {
+                  "name": "Parque de los Petroglifos",
+                  "text": "Eine archäologische Stätte in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.613912,
+                        6.176273
+                  ]
+            },
+            {
+                  "name": "Auditorio Diego Echavarría M.",
+                  "text": "Ein Museum in Itagüí.",
+                  "category": "museum",
+                  "coords": [
+                        -75.610951,
+                        6.17233
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
+                  "text": "Eine archäologische Stätte in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.626932,
+                        6.161998
+                  ]
+            },
+            {
+                  "name": "sitio  arqueologico el Cacique",
+                  "text": "Eine archäologische Stätte in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.618241,
+                        6.196334
+                  ]
+            },
+            {
+                  "name": "Auditorio Máximum",
+                  "text": "Ein Theater in Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.630986,
+                        6.166688
+                  ]
+            },
+            {
+                  "name": "reserva natural \" bosque pico manzanillo\"",
+                  "text": "Ein Naturschutzgebiet in Itagüí.",
+                  "category": "natural",
+                  "coords": [
+                        -75.625174,
+                        6.187124
+                  ]
+            },
+            {
+                  "name": "Acuaparque Ditaires",
+                  "text": "Ein Wasserpark in Itagüí.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.628848,
+                        6.169205
+                  ]
+            },
+            {
+                  "name": "Parque del Artista",
+                  "text": "Der Parque del Artista ist ein bekannter Park in Itagüí.",
+                  "category": "park",
+                  "coords": [
+                        -75.602507,
+                        6.178706
+                  ]
+            },
+            {
+                  "name": "Casa Finca de Los del Valle",
+                  "text": "Ein Denkmal in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.598923,
+                        6.188692
+                  ]
+            },
+            {
+                  "name": "casa finca FLANDES",
+                  "text": "Ein Denkmal in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.601343,
+                        6.186233
+                  ]
+            },
+            {
+                  "name": "Casa Finca San José",
+                  "text": "Ein Denkmal in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.602416,
+                        6.186969
+                  ]
+            },
+            {
+                  "name": "Finca Mi Ranchito",
+                  "text": "Ein Denkmal in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.628841,
+                        6.161518
+                  ]
+            },
+            {
+                  "name": "Escultura Reto",
+                  "text": "Ein Denkmal in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.60321,
+                        6.177785
+                  ]
+            },
+            {
+                  "name": "Bulebar de la parroquia san pio",
+                  "text": "Eine Attraktion in Itagüí.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.620129,
+                        6.164438
+                  ]
+            },
+            {
+                  "name": "El Hormiguero",
+                  "text": "Ein Kulturzentrum in Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.615683,
+                        6.187142
+                  ]
+            },
+            {
+                  "name": "Casadela Cultura La Barquerena",
+                  "text": "Ein Kulturzentrum in Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.61302,
+                        6.150396
+                  ]
+            },
+            {
+                  "name": "Antigua estación del ferrocarril",
+                  "text": "Ein Denkmal in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.62306,
+                        6.162679
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gertrudis",
+                  "text": "Eine Kirche in Itagüí.",
+                  "category": "religious",
+                  "coords": [
+                        -75.586961,
+                        6.169807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Envigado",
+                  "text": "Színház Itagüí városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.588703,
+                        6.169978
+                  ]
+            },
+            {
+                  "name": "Museo Counitario GAV",
+                  "text": "Múzeum Itagüí városában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.613,
+                        6.176459
+                  ]
+            },
+            {
+                  "name": "Parque de los Petroglifos",
+                  "text": "Régészeti lelőhely Itagüí városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.613912,
+                        6.176273
+                  ]
+            },
+            {
+                  "name": "Auditorio Diego Echavarría M.",
+                  "text": "Múzeum Itagüí városában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.610951,
+                        6.17233
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
+                  "text": "Régészeti lelőhely Itagüí városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.626932,
+                        6.161998
+                  ]
+            },
+            {
+                  "name": "sitio  arqueologico el Cacique",
+                  "text": "Régészeti lelőhely Itagüí városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.618241,
+                        6.196334
+                  ]
+            },
+            {
+                  "name": "Auditorio Máximum",
+                  "text": "Színház Itagüí városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.630986,
+                        6.166688
+                  ]
+            },
+            {
+                  "name": "reserva natural \" bosque pico manzanillo\"",
+                  "text": "Természetvédelmi terület Itagüí városában.",
+                  "category": "natural",
+                  "coords": [
+                        -75.625174,
+                        6.187124
+                  ]
+            },
+            {
+                  "name": "Acuaparque Ditaires",
+                  "text": "Vízipark Itagüí városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.628848,
+                        6.169205
+                  ]
+            },
+            {
+                  "name": "Parque del Artista",
+                  "text": "A Parque del Artista egy ismert park Itagüí városában.",
+                  "category": "park",
+                  "coords": [
+                        -75.602507,
+                        6.178706
+                  ]
+            },
+            {
+                  "name": "Casa Finca de Los del Valle",
+                  "text": "Emlékmű Itagüí városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.598923,
+                        6.188692
+                  ]
+            },
+            {
+                  "name": "casa finca FLANDES",
+                  "text": "Emlékmű Itagüí városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.601343,
+                        6.186233
+                  ]
+            },
+            {
+                  "name": "Casa Finca San José",
+                  "text": "Emlékmű Itagüí városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.602416,
+                        6.186969
+                  ]
+            },
+            {
+                  "name": "Finca Mi Ranchito",
+                  "text": "Emlékmű Itagüí városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.628841,
+                        6.161518
+                  ]
+            },
+            {
+                  "name": "Escultura Reto",
+                  "text": "Emlékmű Itagüí városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.60321,
+                        6.177785
+                  ]
+            },
+            {
+                  "name": "Bulebar de la parroquia san pio",
+                  "text": "Látnivaló Itagüí városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.620129,
+                        6.164438
+                  ]
+            },
+            {
+                  "name": "El Hormiguero",
+                  "text": "Művelődési központ Itagüí városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.615683,
+                        6.187142
+                  ]
+            },
+            {
+                  "name": "Casadela Cultura La Barquerena",
+                  "text": "Művelődési központ Itagüí városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.61302,
+                        6.150396
+                  ]
+            },
+            {
+                  "name": "Antigua estación del ferrocarril",
+                  "text": "Emlékmű Itagüí városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.62306,
+                        6.162679
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gertrudis",
+                  "text": "Templom Itagüí városában.",
+                  "category": "religious",
+                  "coords": [
+                        -75.586961,
+                        6.169807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Envigado",
+                  "text": "Un teatru în Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.588703,
+                        6.169978
+                  ]
+            },
+            {
+                  "name": "Museo Counitario GAV",
+                  "text": "Un muzeu în Itagüí.",
+                  "category": "museum",
+                  "coords": [
+                        -75.613,
+                        6.176459
+                  ]
+            },
+            {
+                  "name": "Parque de los Petroglifos",
+                  "text": "Un sit arheologic în Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.613912,
+                        6.176273
+                  ]
+            },
+            {
+                  "name": "Auditorio Diego Echavarría M.",
+                  "text": "Un muzeu în Itagüí.",
+                  "category": "museum",
+                  "coords": [
+                        -75.610951,
+                        6.17233
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
+                  "text": "Un sit arheologic în Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.626932,
+                        6.161998
+                  ]
+            },
+            {
+                  "name": "sitio  arqueologico el Cacique",
+                  "text": "Un sit arheologic în Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.618241,
+                        6.196334
+                  ]
+            },
+            {
+                  "name": "Auditorio Máximum",
+                  "text": "Un teatru în Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.630986,
+                        6.166688
+                  ]
+            },
+            {
+                  "name": "reserva natural \" bosque pico manzanillo\"",
+                  "text": "O rezervație naturală în Itagüí.",
+                  "category": "natural",
+                  "coords": [
+                        -75.625174,
+                        6.187124
+                  ]
+            },
+            {
+                  "name": "Acuaparque Ditaires",
+                  "text": "Un parc acvatic în Itagüí.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.628848,
+                        6.169205
+                  ]
+            },
+            {
+                  "name": "Parque del Artista",
+                  "text": "Parque del Artista este un parc cunoscut în Itagüí.",
+                  "category": "park",
+                  "coords": [
+                        -75.602507,
+                        6.178706
+                  ]
+            },
+            {
+                  "name": "Casa Finca de Los del Valle",
+                  "text": "Un monument în Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.598923,
+                        6.188692
+                  ]
+            },
+            {
+                  "name": "casa finca FLANDES",
+                  "text": "Un monument în Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.601343,
+                        6.186233
+                  ]
+            },
+            {
+                  "name": "Casa Finca San José",
+                  "text": "Un monument în Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.602416,
+                        6.186969
+                  ]
+            },
+            {
+                  "name": "Finca Mi Ranchito",
+                  "text": "Un monument în Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.628841,
+                        6.161518
+                  ]
+            },
+            {
+                  "name": "Escultura Reto",
+                  "text": "Un monument în Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.60321,
+                        6.177785
+                  ]
+            },
+            {
+                  "name": "Bulebar de la parroquia san pio",
+                  "text": "O atracție în Itagüí.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.620129,
+                        6.164438
+                  ]
+            },
+            {
+                  "name": "El Hormiguero",
+                  "text": "Un centru cultural în Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.615683,
+                        6.187142
+                  ]
+            },
+            {
+                  "name": "Casadela Cultura La Barquerena",
+                  "text": "Un centru cultural în Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.61302,
+                        6.150396
+                  ]
+            },
+            {
+                  "name": "Antigua estación del ferrocarril",
+                  "text": "Un monument în Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.62306,
+                        6.162679
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gertrudis",
+                  "text": "O biserică în Itagüí.",
+                  "category": "religious",
+                  "coords": [
+                        -75.586961,
+                        6.169807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Envigado",
+                  "text": "A theater in Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.588703,
+                        6.169978
+                  ]
+            },
+            {
+                  "name": "Museo Counitario GAV",
+                  "text": "A museum in Itagüí.",
+                  "category": "museum",
+                  "coords": [
+                        -75.613,
+                        6.176459
+                  ]
+            },
+            {
+                  "name": "Parque de los Petroglifos",
+                  "text": "An archaeological site in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.613912,
+                        6.176273
+                  ]
+            },
+            {
+                  "name": "Auditorio Diego Echavarría M.",
+                  "text": "A museum in Itagüí.",
+                  "category": "museum",
+                  "coords": [
+                        -75.610951,
+                        6.17233
+                  ]
+            },
+            {
+                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
+                  "text": "An archaeological site in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.626932,
+                        6.161998
+                  ]
+            },
+            {
+                  "name": "sitio  arqueologico el Cacique",
+                  "text": "An archaeological site in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.618241,
+                        6.196334
+                  ]
+            },
+            {
+                  "name": "Auditorio Máximum",
+                  "text": "A theater in Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.630986,
+                        6.166688
+                  ]
+            },
+            {
+                  "name": "reserva natural \" bosque pico manzanillo\"",
+                  "text": "A nature reserve in Itagüí.",
+                  "category": "natural",
+                  "coords": [
+                        -75.625174,
+                        6.187124
+                  ]
+            },
+            {
+                  "name": "Acuaparque Ditaires",
+                  "text": "A water park in Itagüí.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.628848,
+                        6.169205
+                  ]
+            },
+            {
+                  "name": "Parque del Artista",
+                  "text": "Parque del Artista is a well-known park in Itagüí.",
+                  "category": "park",
+                  "coords": [
+                        -75.602507,
+                        6.178706
+                  ]
+            },
+            {
+                  "name": "Casa Finca de Los del Valle",
+                  "text": "A monument in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.598923,
+                        6.188692
+                  ]
+            },
+            {
+                  "name": "casa finca FLANDES",
+                  "text": "A monument in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.601343,
+                        6.186233
+                  ]
+            },
+            {
+                  "name": "Casa Finca San José",
+                  "text": "A monument in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.602416,
+                        6.186969
+                  ]
+            },
+            {
+                  "name": "Finca Mi Ranchito",
+                  "text": "A monument in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.628841,
+                        6.161518
+                  ]
+            },
+            {
+                  "name": "Escultura Reto",
+                  "text": "A monument in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.60321,
+                        6.177785
+                  ]
+            },
+            {
+                  "name": "Bulebar de la parroquia san pio",
+                  "text": "An attraction in Itagüí.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.620129,
+                        6.164438
+                  ]
+            },
+            {
+                  "name": "El Hormiguero",
+                  "text": "An arts centre in Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.615683,
+                        6.187142
+                  ]
+            },
+            {
+                  "name": "Casadela Cultura La Barquerena",
+                  "text": "An arts centre in Itagüí.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.61302,
+                        6.150396
+                  ]
+            },
+            {
+                  "name": "Old train station",
+                  "text": "A monument in Itagüí.",
+                  "category": "historical",
+                  "coords": [
+                        -75.62306,
+                        6.162679
+                  ]
+            },
+            {
+                  "name": "Parroquia Santa Gertrudis",
+                  "text": "A church in Itagüí.",
+                  "category": "religious",
+                  "coords": [
+                        -75.586961,
+                        6.169807
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-ANT",
     coords: [-75.6136, 6.173],
@@ -2024,7 +4481,340 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "rionegro-cities-v2",
+    id: "rionegro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mundo Acuático",
+                  "text": "Mundo Acuático ist ein lokaler Wasserpark in Rionegro.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.379495,
+                        6.139452
+                  ]
+            },
+            {
+                  "name": "RUEDA",
+                  "text": "RUEDA ist ein Themenpark in Rionegro.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.379709,
+                        6.137181
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Lago Santander",
+                  "text": "Der Parque Ecológico Lago Santander ist ein Naturschutzgebiet in der Stadt Rionegro.",
+                  "category": "natural",
+                  "coords": [
+                        -75.371012,
+                        6.159722
+                  ]
+            },
+            {
+                  "name": "Museo Arte Religioso",
+                  "text": "Das Museo Arte Religioso ist ein Museum für religiöse Kunst in Rionegro.",
+                  "category": "museum",
+                  "coords": [
+                        -75.373148,
+                        6.153439
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Casa de la Convención",
+                  "text": "Dieses historische Museum ist eine wichtige kulturelle Einrichtung in Rionegro.",
+                  "category": "museum",
+                  "coords": [
+                        -75.37216,
+                        6.153859
+                  ]
+            },
+            {
+                  "name": "Museo de Artes de Rionegro",
+                  "text": "Das Museo de Artes de Rionegro ist ein Kunstmuseum in Rionegro.",
+                  "category": "museum",
+                  "coords": [
+                        -75.374261,
+                        6.153616
+                  ]
+            },
+            {
+                  "name": "La Calle De La Madera",
+                  "text": "La Calle De La Madera ist eine lokale Attraktion in der Stadt Rionegro.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.378782,
+                        6.14223
+                  ]
+            },
+            {
+                  "name": "Árbol raro",
+                  "text": "Árbol raro ist eine interessante lokale Attraktion in Rionegro.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.380884,
+                        6.14084
+                  ]
+            },
+            {
+                  "name": "Casa Adulto Mayor",
+                  "text": "Das Casa Adulto Mayor ist ein lokales Kunstzentrum in Rionegro.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.373249,
+                        6.155225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mundo Acuático",
+                  "text": "A Mundo Acuático egy helyi vízi vidámpark Rionegróban.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.379495,
+                        6.139452
+                  ]
+            },
+            {
+                  "name": "RUEDA",
+                  "text": "A RUEDA egy vidámpark Rionegróban.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.379709,
+                        6.137181
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Lago Santander",
+                  "text": "A Parque Ecológico Lago Santander egy természetvédelmi terület Rionegro városában.",
+                  "category": "natural",
+                  "coords": [
+                        -75.371012,
+                        6.159722
+                  ]
+            },
+            {
+                  "name": "Museo Arte Religioso",
+                  "text": "A Museo Arte Religioso egy vallásos művészetnek szentelt múzeum Rionegróban.",
+                  "category": "museum",
+                  "coords": [
+                        -75.373148,
+                        6.153439
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Casa de la Convención",
+                  "text": "Ez a történelmi múzeum egy fontos kulturális intézmény Rionegróban.",
+                  "category": "museum",
+                  "coords": [
+                        -75.37216,
+                        6.153859
+                  ]
+            },
+            {
+                  "name": "Museo de Artes de Rionegro",
+                  "text": "A Museo de Artes de Rionegro egy művészeti múzeum Rionegróban.",
+                  "category": "museum",
+                  "coords": [
+                        -75.374261,
+                        6.153616
+                  ]
+            },
+            {
+                  "name": "La Calle De La Madera",
+                  "text": "A La Calle De La Madera egy helyi látványosság Rionegro városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.378782,
+                        6.14223
+                  ]
+            },
+            {
+                  "name": "Árbol raro",
+                  "text": "Az Árbol raro egy érdekes helyi látványosság Rionegróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.380884,
+                        6.14084
+                  ]
+            },
+            {
+                  "name": "Casa Adulto Mayor",
+                  "text": "A Casa Adulto Mayor egy helyi művészeti központ Rionegróban.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.373249,
+                        6.155225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mundo Acuático",
+                  "text": "Mundo Acuático este un parc acvatic local situat în Rionegro.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.379495,
+                        6.139452
+                  ]
+            },
+            {
+                  "name": "RUEDA",
+                  "text": "RUEDA este un parc tematic situat în Rionegro.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.379709,
+                        6.137181
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Lago Santander",
+                  "text": "Parque Ecológico Lago Santander este o rezervație naturală din orașul Rionegro.",
+                  "category": "natural",
+                  "coords": [
+                        -75.371012,
+                        6.159722
+                  ]
+            },
+            {
+                  "name": "Museo Arte Religioso",
+                  "text": "Museo Arte Religioso este un muzeu dedicat artei religioase din Rionegro.",
+                  "category": "museum",
+                  "coords": [
+                        -75.373148,
+                        6.153439
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Casa de la Convención",
+                  "text": "Acest muzeu istoric este o instituție culturală importantă din Rionegro.",
+                  "category": "museum",
+                  "coords": [
+                        -75.37216,
+                        6.153859
+                  ]
+            },
+            {
+                  "name": "Museo de Artes de Rionegro",
+                  "text": "Museo de Artes de Rionegro este un muzeu de artă situat în Rionegro.",
+                  "category": "museum",
+                  "coords": [
+                        -75.374261,
+                        6.153616
+                  ]
+            },
+            {
+                  "name": "La Calle De La Madera",
+                  "text": "La Calle De La Madera este o atracție locală situată în orașul Rionegro.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.378782,
+                        6.14223
+                  ]
+            },
+            {
+                  "name": "Árbol raro",
+                  "text": "Árbol raro este o atracție locală interesantă din Rionegro.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.380884,
+                        6.14084
+                  ]
+            },
+            {
+                  "name": "Casa Adulto Mayor",
+                  "text": "Casa Adulto Mayor este un centru de artă local care funcționează în Rionegro.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.373249,
+                        6.155225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mundo Acuático",
+                  "text": "Mundo Acuático is a local water park located in Rionegro.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.379495,
+                        6.139452
+                  ]
+            },
+            {
+                  "name": "RUEDA",
+                  "text": "RUEDA is a theme park destination situated in Rionegro.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.379709,
+                        6.137181
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Lago Santander",
+                  "text": "Parque Ecológico Lago Santander is a nature reserve in the city of Rionegro.",
+                  "category": "natural",
+                  "coords": [
+                        -75.371012,
+                        6.159722
+                  ]
+            },
+            {
+                  "name": "Museo Arte Religioso",
+                  "text": "The Museo Arte Religioso is a museum dedicated to religious art in Rionegro.",
+                  "category": "museum",
+                  "coords": [
+                        -75.373148,
+                        6.153439
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Casa de la Convención",
+                  "text": "This historical museum is an important cultural institution in Rionegro.",
+                  "category": "museum",
+                  "coords": [
+                        -75.37216,
+                        6.153859
+                  ]
+            },
+            {
+                  "name": "Museo de Artes de Rionegro",
+                  "text": "The Museo de Artes de Rionegro is an art museum situated in Rionegro.",
+                  "category": "museum",
+                  "coords": [
+                        -75.374261,
+                        6.153616
+                  ]
+            },
+            {
+                  "name": "La Calle De La Madera",
+                  "text": "La Calle De La Madera is a local attraction located in the city of Rionegro.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.378782,
+                        6.14223
+                  ]
+            },
+            {
+                  "name": "Árbol raro",
+                  "text": "Árbol raro is an interesting local attraction in Rionegro.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.380884,
+                        6.14084
+                  ]
+            },
+            {
+                  "name": "Casa Adulto Mayor",
+                  "text": "Casa Adulto Mayor is a local arts centre functioning in Rionegro.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.373249,
+                        6.155225
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-ANT",
     coords: [-75.3736, 6.1551],
@@ -2073,7 +4863,52 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "cartago-cities-v2",
+    id: "cartago-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa del Virrey",
+                  "text": "Ein Museum in Cartago.",
+                  "category": "museum",
+                  "coords": [
+                        -75.914702,
+                        4.749842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa del Virrey",
+                  "text": "Múzeum Cartago városában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.914702,
+                        4.749842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa del Virrey",
+                  "text": "Un muzeu în Cartago.",
+                  "category": "museum",
+                  "coords": [
+                        -75.914702,
+                        4.749842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa del Virrey",
+                  "text": "A museum in Cartago.",
+                  "category": "museum",
+                  "coords": [
+                        -75.914702,
+                        4.749842
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-VAC",
     coords: [-75.9145, 4.7464],
@@ -2216,7 +5051,340 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "duitama-cities-v2",
+    id: "duitama-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque para niños",
+                  "text": "Ein Themenpark in Duitama.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.017087,
+                        5.809186
+                  ]
+            },
+            {
+                  "name": "Estatua de Simon bolivar",
+                  "text": "Ein Denkmal in Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.034075,
+                        5.827989
+                  ]
+            },
+            {
+                  "name": "Glorieta San Jose",
+                  "text": "Ein Denkmal in Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.027097,
+                        5.8239
+                  ]
+            },
+            {
+                  "name": "Condominio Los Andes",
+                  "text": "Eine Attraktion in Duitama.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.034918,
+                        5.842416
+                  ]
+            },
+            {
+                  "name": "Monumento a las Víctimas del Conflicto Armando",
+                  "text": "Ein Denkmal in Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.033465,
+                        5.831535
+                  ]
+            },
+            {
+                  "name": "Culturama",
+                  "text": "Ein Kulturzentrum in Duitama.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030758,
+                        5.830742
+                  ]
+            },
+            {
+                  "name": "Academia de Formación Artistica",
+                  "text": "Ein Kulturzentrum in Duitama.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030395,
+                        5.815868
+                  ]
+            },
+            {
+                  "name": "El carmen (Luis A. Soler)",
+                  "text": "Eine Attraktion in Duitama.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.036401,
+                        5.827254
+                  ]
+            },
+            {
+                  "name": "monumento a la virgen",
+                  "text": "Ein Denkmal in Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.029296,
+                        5.822426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque para niños",
+                  "text": "Vidámpark Duitama városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.017087,
+                        5.809186
+                  ]
+            },
+            {
+                  "name": "Estatua de Simon bolivar",
+                  "text": "Emlékmű Duitama városában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.034075,
+                        5.827989
+                  ]
+            },
+            {
+                  "name": "Glorieta San Jose",
+                  "text": "Emlékmű Duitama városában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.027097,
+                        5.8239
+                  ]
+            },
+            {
+                  "name": "Condominio Los Andes",
+                  "text": "Látnivaló Duitama városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.034918,
+                        5.842416
+                  ]
+            },
+            {
+                  "name": "Monumento a las Víctimas del Conflicto Armando",
+                  "text": "Emlékmű Duitama városában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.033465,
+                        5.831535
+                  ]
+            },
+            {
+                  "name": "Culturama",
+                  "text": "Művelődési központ Duitama városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030758,
+                        5.830742
+                  ]
+            },
+            {
+                  "name": "Academia de Formación Artistica",
+                  "text": "Művelődési központ Duitama városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030395,
+                        5.815868
+                  ]
+            },
+            {
+                  "name": "El carmen (Luis A. Soler)",
+                  "text": "Látnivaló Duitama városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.036401,
+                        5.827254
+                  ]
+            },
+            {
+                  "name": "monumento a la virgen",
+                  "text": "Emlékmű Duitama városában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.029296,
+                        5.822426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque para niños",
+                  "text": "Un parc tematic în Duitama.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.017087,
+                        5.809186
+                  ]
+            },
+            {
+                  "name": "Estatua de Simon bolivar",
+                  "text": "Un monument în Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.034075,
+                        5.827989
+                  ]
+            },
+            {
+                  "name": "Glorieta San Jose",
+                  "text": "Un monument în Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.027097,
+                        5.8239
+                  ]
+            },
+            {
+                  "name": "Condominio Los Andes",
+                  "text": "O atracție în Duitama.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.034918,
+                        5.842416
+                  ]
+            },
+            {
+                  "name": "Monumento a las Víctimas del Conflicto Armando",
+                  "text": "Un monument în Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.033465,
+                        5.831535
+                  ]
+            },
+            {
+                  "name": "Culturama",
+                  "text": "Un centru cultural în Duitama.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030758,
+                        5.830742
+                  ]
+            },
+            {
+                  "name": "Academia de Formación Artistica",
+                  "text": "Un centru cultural în Duitama.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030395,
+                        5.815868
+                  ]
+            },
+            {
+                  "name": "El carmen (Luis A. Soler)",
+                  "text": "O atracție în Duitama.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.036401,
+                        5.827254
+                  ]
+            },
+            {
+                  "name": "monumento a la virgen",
+                  "text": "Un monument în Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.029296,
+                        5.822426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque para niños",
+                  "text": "A theme park in Duitama.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.017087,
+                        5.809186
+                  ]
+            },
+            {
+                  "name": "Simon Bolívar's monument",
+                  "text": "A monument in Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.034075,
+                        5.827989
+                  ]
+            },
+            {
+                  "name": "Glorieta San Jose",
+                  "text": "A monument in Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.027097,
+                        5.8239
+                  ]
+            },
+            {
+                  "name": "condominio Los Andes",
+                  "text": "An attraction in Duitama.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.034918,
+                        5.842416
+                  ]
+            },
+            {
+                  "name": "Monumento a las Víctimas del Conflicto Armando",
+                  "text": "A monument in Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.033465,
+                        5.831535
+                  ]
+            },
+            {
+                  "name": "Culturama",
+                  "text": "An arts centre in Duitama.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030758,
+                        5.830742
+                  ]
+            },
+            {
+                  "name": "Academia de Formación Artistica",
+                  "text": "An arts centre in Duitama.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.030395,
+                        5.815868
+                  ]
+            },
+            {
+                  "name": "El carmen (Luis A. Soler)",
+                  "text": "An attraction in Duitama.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.036401,
+                        5.827254
+                  ]
+            },
+            {
+                  "name": "monumento a la virgen",
+                  "text": "A monument in Duitama.",
+                  "category": "historical",
+                  "coords": [
+                        -73.029296,
+                        5.822426
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-BOY",
     coords: [-73.0294, 5.8234],
@@ -2263,7 +5431,556 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "magangue-cities-v2",
+    id: "magangue-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque verde Punta de Piedra",
+                  "text": "Der Parque verde Punta de Piedra ist ein Naturschutzgebiet in Magangué.",
+                  "category": "natural",
+                  "coords": [
+                        -74.768396,
+                        9.241179
+                  ]
+            },
+            {
+                  "name": "Antonio Nariño",
+                  "text": "Dieses Denkmal für Antonio Nariño befindet sich in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.745836,
+                        9.235944
+                  ]
+            },
+            {
+                  "name": "Virgen de la Candelaria",
+                  "text": "Das Denkmal der Virgen de la Candelaria steht in der Stadt Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.743347,
+                        9.228072
+                  ]
+            },
+            {
+                  "name": "Monumento de San Mateo",
+                  "text": "Das Monumento de San Mateo ist ein Denkmal in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.774019,
+                        9.259639
+                  ]
+            },
+            {
+                  "name": "Virgen del barrio La Candelaria",
+                  "text": "Dieses Denkmal ehrt die Virgen del barrio La Candelaria in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.7425,
+                        9.240008
+                  ]
+            },
+            {
+                  "name": "Antonio De La Torre",
+                  "text": "Das Denkmal für Antonio De La Torre befindet sich in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.742924,
+                        9.235753
+                  ]
+            },
+            {
+                  "name": "Virgen de la Cancha de La Candelaria",
+                  "text": "Dieses Denkmal der Jungfrau Maria steht an der Cancha de La Candelaria in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.744371,
+                        9.23773
+                  ]
+            },
+            {
+                  "name": "Virgen del Tronco",
+                  "text": "Das Denkmal der Virgen del Tronco ist eine Sehenswürdigkeit in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.768187,
+                        9.253215
+                  ]
+            },
+            {
+                  "name": "Puerta Roja",
+                  "text": "Puerta Roja ist ein lokales Denkmal in der Stadt Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.768611,
+                        9.254227
+                  ]
+            },
+            {
+                  "name": "Paradero Antiguo",
+                  "text": "Das Denkmal Paradero Antiguo befindet sich in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.772224,
+                        9.256503
+                  ]
+            },
+            {
+                  "name": "Busto Parca",
+                  "text": "Busto Parca ist ein Büstendenkmal in der Stadt Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.756003,
+                        9.24345
+                  ]
+            },
+            {
+                  "name": "Virgen de Maracaná",
+                  "text": "Das Denkmal der Virgen de Maracaná steht in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.749662,
+                        9.237789
+                  ]
+            },
+            {
+                  "name": "Olaya Herrera",
+                  "text": "Olaya Herrera ist ein Denkmal in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.744324,
+                        9.235409
+                  ]
+            },
+            {
+                  "name": "La Cruz",
+                  "text": "La Cruz ist ein Denkmal im Stadtbild von Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.775114,
+                        9.255386
+                  ]
+            },
+            {
+                  "name": "Playas de punta de Piedra",
+                  "text": "Playas de punta de Piedra ist ein Strandresort in Magangué.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.767195,
+                        9.238133
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque verde Punta de Piedra",
+                  "text": "A Parque verde Punta de Piedra egy természetvédelmi terület Magangué városában.",
+                  "category": "natural",
+                  "coords": [
+                        -74.768396,
+                        9.241179
+                  ]
+            },
+            {
+                  "name": "Antonio Nariño",
+                  "text": "Ez az Antonio Nariño-emlékmű Magangué városában található.",
+                  "category": "historical",
+                  "coords": [
+                        -74.745836,
+                        9.235944
+                  ]
+            },
+            {
+                  "name": "Virgen de la Candelaria",
+                  "text": "A Virgen de la Candelaria emlékmű Magangué városában található.",
+                  "category": "historical",
+                  "coords": [
+                        -74.743347,
+                        9.228072
+                  ]
+            },
+            {
+                  "name": "Monumento de San Mateo",
+                  "text": "A Monumento de San Mateo egy emlékmű Magangué városában.",
+                  "category": "historical",
+                  "coords": [
+                        -74.774019,
+                        9.259639
+                  ]
+            },
+            {
+                  "name": "Virgen del barrio La Candelaria",
+                  "text": "Ez az emlékmű a Virgen del barrio La Candelariának állít emléket Maganguéban.",
+                  "category": "historical",
+                  "coords": [
+                        -74.7425,
+                        9.240008
+                  ]
+            },
+            {
+                  "name": "Antonio De La Torre",
+                  "text": "Az Antonio De La Torre-emlékmű Magangué városában található.",
+                  "category": "historical",
+                  "coords": [
+                        -74.742924,
+                        9.235753
+                  ]
+            },
+            {
+                  "name": "Virgen de la Cancha de La Candelaria",
+                  "text": "Ez a Szűz Mária-emlékmű a Cancha de La Candelaria közelében áll Maganguéban.",
+                  "category": "historical",
+                  "coords": [
+                        -74.744371,
+                        9.23773
+                  ]
+            },
+            {
+                  "name": "Virgen del Tronco",
+                  "text": "A Virgen del Tronco emlékmű egy látványosság Magangué városában.",
+                  "category": "historical",
+                  "coords": [
+                        -74.768187,
+                        9.253215
+                  ]
+            },
+            {
+                  "name": "Puerta Roja",
+                  "text": "A Puerta Roja egy helyi emlékmű Magangué városában.",
+                  "category": "historical",
+                  "coords": [
+                        -74.768611,
+                        9.254227
+                  ]
+            },
+            {
+                  "name": "Paradero Antiguo",
+                  "text": "A Paradero Antiguo emlékmű Magangué városában helyezkedik el.",
+                  "category": "historical",
+                  "coords": [
+                        -74.772224,
+                        9.256503
+                  ]
+            },
+            {
+                  "name": "Busto Parca",
+                  "text": "A Busto Parca egy mellszobor formájú emlékmű Magangué városában.",
+                  "category": "historical",
+                  "coords": [
+                        -74.756003,
+                        9.24345
+                  ]
+            },
+            {
+                  "name": "Virgen de Maracaná",
+                  "text": "A Virgen de Maracaná emlékmű Magangué városában található.",
+                  "category": "historical",
+                  "coords": [
+                        -74.749662,
+                        9.237789
+                  ]
+            },
+            {
+                  "name": "Olaya Herrera",
+                  "text": "Az Olaya Herrera egy emlékmű Magangué városában.",
+                  "category": "historical",
+                  "coords": [
+                        -74.744324,
+                        9.235409
+                  ]
+            },
+            {
+                  "name": "La Cruz",
+                  "text": "A La Cruz egy emlékmű Magangué városában.",
+                  "category": "historical",
+                  "coords": [
+                        -74.775114,
+                        9.255386
+                  ]
+            },
+            {
+                  "name": "Playas de punta de Piedra",
+                  "text": "A Playas de punta de Piedra egy tengerparti üdülőhely Maganguéban.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.767195,
+                        9.238133
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque verde Punta de Piedra",
+                  "text": "Parque verde Punta de Piedra este o rezervație naturală din Magangué.",
+                  "category": "natural",
+                  "coords": [
+                        -74.768396,
+                        9.241179
+                  ]
+            },
+            {
+                  "name": "Antonio Nariño",
+                  "text": "Acest monument dedicat lui Antonio Nariño este situat în Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.745836,
+                        9.235944
+                  ]
+            },
+            {
+                  "name": "Virgen de la Candelaria",
+                  "text": "Monumentul Fecioarei de la Candelaria se află în Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.743347,
+                        9.228072
+                  ]
+            },
+            {
+                  "name": "Monumento de San Mateo",
+                  "text": "Monumento de San Mateo este un monument din Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.774019,
+                        9.259639
+                  ]
+            },
+            {
+                  "name": "Virgen del barrio La Candelaria",
+                  "text": "Acest monument este dedicat Fecioarei din cartierul La Candelaria din Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.7425,
+                        9.240008
+                  ]
+            },
+            {
+                  "name": "Antonio De La Torre",
+                  "text": "Monumentul dedicat lui Antonio De La Torre este situat în Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.742924,
+                        9.235753
+                  ]
+            },
+            {
+                  "name": "Virgen de la Cancha de La Candelaria",
+                  "text": "Monumentul Fecioarei de la Cancha de La Candelaria este situat în Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.744371,
+                        9.23773
+                  ]
+            },
+            {
+                  "name": "Virgen del Tronco",
+                  "text": "Monumentul Virgen del Tronco se află în orașul Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.768187,
+                        9.253215
+                  ]
+            },
+            {
+                  "name": "Puerta Roja",
+                  "text": "Puerta Roja este un monument local situat în Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.768611,
+                        9.254227
+                  ]
+            },
+            {
+                  "name": "Paradero Antiguo",
+                  "text": "Monumentul Paradero Antiguo este situat în Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.772224,
+                        9.256503
+                  ]
+            },
+            {
+                  "name": "Busto Parca",
+                  "text": "Busto Parca este un monument sub formă de bust din Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.756003,
+                        9.24345
+                  ]
+            },
+            {
+                  "name": "Virgen de Maracaná",
+                  "text": "Monumentul dedicat Fecioarei din Maracaná se află în Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.749662,
+                        9.237789
+                  ]
+            },
+            {
+                  "name": "Olaya Herrera",
+                  "text": "Olaya Herrera este un monument aflat în Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.744324,
+                        9.235409
+                  ]
+            },
+            {
+                  "name": "La Cruz",
+                  "text": "La Cruz este un monument situat în orașul Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.775114,
+                        9.255386
+                  ]
+            },
+            {
+                  "name": "Playas de punta de Piedra",
+                  "text": "Playas de punta de Piedra este o stațiune balneară din Magangué.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.767195,
+                        9.238133
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque verde Punta de Piedra",
+                  "text": "Parque verde Punta de Piedra is a nature reserve located in Magangué.",
+                  "category": "natural",
+                  "coords": [
+                        -74.768396,
+                        9.241179
+                  ]
+            },
+            {
+                  "name": "Antonio Nariño",
+                  "text": "This monument dedicated to Antonio Nariño is located in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.745836,
+                        9.235944
+                  ]
+            },
+            {
+                  "name": "Virgen de la Candelaria",
+                  "text": "The Virgen de la Candelaria monument is situated in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.743347,
+                        9.228072
+                  ]
+            },
+            {
+                  "name": "Monumento de San Mateo",
+                  "text": "Monumento de San Mateo is a monument located in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.774019,
+                        9.259639
+                  ]
+            },
+            {
+                  "name": "Virgen del barrio La Candelaria",
+                  "text": "This monument is dedicated to the Virgen del barrio La Candelaria in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.7425,
+                        9.240008
+                  ]
+            },
+            {
+                  "name": "Antonio De La Torre",
+                  "text": "The monument to Antonio De La Torre is located in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.742924,
+                        9.235753
+                  ]
+            },
+            {
+                  "name": "Virgen de la Cancha de La Candelaria",
+                  "text": "The Virgen de la Cancha de La Candelaria monument is found in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.744371,
+                        9.23773
+                  ]
+            },
+            {
+                  "name": "Virgen del Tronco",
+                  "text": "The Virgen del Tronco monument is located in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.768187,
+                        9.253215
+                  ]
+            },
+            {
+                  "name": "Puerta Roja",
+                  "text": "Puerta Roja is a local monument located in the city of Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.768611,
+                        9.254227
+                  ]
+            },
+            {
+                  "name": "Paradero Antiguo",
+                  "text": "The Paradero Antiguo monument is situated in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.772224,
+                        9.256503
+                  ]
+            },
+            {
+                  "name": "Busto Parca",
+                  "text": "Busto Parca is a bust monument located in the city of Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.756003,
+                        9.24345
+                  ]
+            },
+            {
+                  "name": "Virgen de Maracaná",
+                  "text": "The Virgen de Maracaná monument is located in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.749662,
+                        9.237789
+                  ]
+            },
+            {
+                  "name": "Olaya Herrera",
+                  "text": "Olaya Herrera is a monument located in Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.744324,
+                        9.235409
+                  ]
+            },
+            {
+                  "name": "La Cruz",
+                  "text": "La Cruz is a monument marking the cityscape of Magangué.",
+                  "category": "historical",
+                  "coords": [
+                        -74.775114,
+                        9.255386
+                  ]
+            },
+            {
+                  "name": "Playas de punta de Piedra",
+                  "text": "Playas de punta de Piedra is a beach resort destination in Magangué.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.767195,
+                        9.238133
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-BOL",
     coords: [-74.7523, 9.2435],
@@ -2310,7 +6027,232 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "zipaquira-cities-v2",
+    id: "zipaquira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de la salmuera",
+                  "text": "Das Museo de la salmuera ist ein lokales Museum in Zipaquirá.",
+                  "category": "museum",
+                  "coords": [
+                        -74.009222,
+                        5.019131
+                  ]
+            },
+            {
+                  "name": "Museo Gabriel García Márquez",
+                  "text": "Das Museo Gabriel García Márquez ist eine museale Einrichtung in Zipaquirá.",
+                  "category": "museum",
+                  "coords": [
+                        -74.002222,
+                        5.024749
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "Dieses archäologische Museum ist eine kulturelle Einrichtung in Zipaquirá.",
+                  "category": "museum",
+                  "coords": [
+                        -74.006722,
+                        5.02102
+                  ]
+            },
+            {
+                  "name": "Teatro Bicentenario",
+                  "text": "Das Teatro Bicentenario ist ein Theater in der Stadt Zipaquirá.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.997859,
+                        5.015089
+                  ]
+            },
+            {
+                  "name": "Catedral de Sal",
+                  "text": "Die Catedral de Sal ist eine berühmte unterirdische römisch-katholische Kirche, die in den Tunneln eines Salzbergwerks in Zipaquirá erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.010326,
+                        5.018709
+                  ]
+            },
+            {
+                  "name": "Zapata",
+                  "text": "Zapata ist ein Denkmal in der Stadt Zipaquirá.",
+                  "category": "historical",
+                  "coords": [
+                        -74.002279,
+                        5.026531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de la salmuera",
+                  "text": "A Museo de la salmuera egy helyi múzeum Zipaquirában.",
+                  "category": "museum",
+                  "coords": [
+                        -74.009222,
+                        5.019131
+                  ]
+            },
+            {
+                  "name": "Museo Gabriel García Márquez",
+                  "text": "A Museo Gabriel García Márquez egy múzeumi létesítmény Zipaquirában.",
+                  "category": "museum",
+                  "coords": [
+                        -74.002222,
+                        5.024749
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "Ez a régészeti múzeum egy kulturális intézmény Zipaquirában.",
+                  "category": "museum",
+                  "coords": [
+                        -74.006722,
+                        5.02102
+                  ]
+            },
+            {
+                  "name": "Teatro Bicentenario",
+                  "text": "A Teatro Bicentenario egy színház Zipaquirá városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.997859,
+                        5.015089
+                  ]
+            },
+            {
+                  "name": "Catedral de Sal",
+                  "text": "A Catedral de Sal egy híres földalatti római katolikus templom, amely egy sóbánya alagútjaiban épült Zipaquirában.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.010326,
+                        5.018709
+                  ]
+            },
+            {
+                  "name": "Zapata",
+                  "text": "A Zapata egy emlékmű Zipaquirá városában.",
+                  "category": "historical",
+                  "coords": [
+                        -74.002279,
+                        5.026531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de la salmuera",
+                  "text": "Museo de la salmuera este un muzeu local situat în Zipaquirá.",
+                  "category": "museum",
+                  "coords": [
+                        -74.009222,
+                        5.019131
+                  ]
+            },
+            {
+                  "name": "Museo Gabriel García Márquez",
+                  "text": "Museo Gabriel García Márquez este o facilitate muzeală situată în Zipaquirá.",
+                  "category": "museum",
+                  "coords": [
+                        -74.002222,
+                        5.024749
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "Acest muzeu arheologic este o instituție culturală aflată în Zipaquirá.",
+                  "category": "museum",
+                  "coords": [
+                        -74.006722,
+                        5.02102
+                  ]
+            },
+            {
+                  "name": "Teatro Bicentenario",
+                  "text": "Teatro Bicentenario este un teatru din orașul Zipaquirá.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.997859,
+                        5.015089
+                  ]
+            },
+            {
+                  "name": "Catedral de Sal",
+                  "text": "Catedral de Sal este o faimoasă biserică romano-catolică subterană construită în tunelele unei mine de sare din Zipaquirá.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.010326,
+                        5.018709
+                  ]
+            },
+            {
+                  "name": "Zapata",
+                  "text": "Zapata este un monument situat în orașul Zipaquirá.",
+                  "category": "historical",
+                  "coords": [
+                        -74.002279,
+                        5.026531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de la salmuera",
+                  "text": "The Museo de la salmuera is a local museum located in Zipaquirá.",
+                  "category": "museum",
+                  "coords": [
+                        -74.009222,
+                        5.019131
+                  ]
+            },
+            {
+                  "name": "Museo Gabriel García Márquez",
+                  "text": "The Museo Gabriel García Márquez is a museum facility situated in Zipaquirá.",
+                  "category": "museum",
+                  "coords": [
+                        -74.002222,
+                        5.024749
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico",
+                  "text": "This archaeological museum is a cultural institution found in Zipaquirá.",
+                  "category": "museum",
+                  "coords": [
+                        -74.006722,
+                        5.02102
+                  ]
+            },
+            {
+                  "name": "Teatro Bicentenario",
+                  "text": "Teatro Bicentenario is a theatre venue in the city of Zipaquirá.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.997859,
+                        5.015089
+                  ]
+            },
+            {
+                  "name": "Catedral de Sal",
+                  "text": "The Catedral de Sal is a famous underground Roman Catholic church built within the tunnels of a salt mine in Zipaquirá.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.010326,
+                        5.018709
+                  ]
+            },
+            {
+                  "name": "Zapata",
+                  "text": "Zapata is a monument located in the city of Zipaquirá.",
+                  "category": "historical",
+                  "coords": [
+                        -74.002279,
+                        5.026531
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-CUN",
     coords: [-74.0016, 5.0264],
@@ -2357,7 +6299,124 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "piedecuesta-cities-v2",
+    id: "piedecuesta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zona de Protección Quebrada el Trapiche",
+                  "text": "Ein Naturschutzgebiet in Piedecuesta.",
+                  "category": "natural",
+                  "coords": [
+                        -73.056732,
+                        6.991044
+                  ]
+            },
+            {
+                  "name": "Club Comfenalco Lomas del Viento",
+                  "text": "Ein Strandresort in Piedecuesta.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.044279,
+                        6.981579
+                  ]
+            },
+            {
+                  "name": "Villa Felisa",
+                  "text": "Ein historisches Herrenhaus in Piedecuesta.",
+                  "category": "historical",
+                  "coords": [
+                        -73.055688,
+                        7.008314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona de Protección Quebrada el Trapiche",
+                  "text": "Természetvédelmi terület Piedecuestában.",
+                  "category": "natural",
+                  "coords": [
+                        -73.056732,
+                        6.991044
+                  ]
+            },
+            {
+                  "name": "Club Comfenalco Lomas del Viento",
+                  "text": "Üdülőhely Piedecuestában.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.044279,
+                        6.981579
+                  ]
+            },
+            {
+                  "name": "Villa Felisa",
+                  "text": "Történelmi kúria Piedecuestában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.055688,
+                        7.008314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona de Protección Quebrada el Trapiche",
+                  "text": "O rezervație naturală în Piedecuesta.",
+                  "category": "natural",
+                  "coords": [
+                        -73.056732,
+                        6.991044
+                  ]
+            },
+            {
+                  "name": "Club Comfenalco Lomas del Viento",
+                  "text": "O stațiune pe litoral în Piedecuesta.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.044279,
+                        6.981579
+                  ]
+            },
+            {
+                  "name": "Villa Felisa",
+                  "text": "Un conac istoric în Piedecuesta.",
+                  "category": "historical",
+                  "coords": [
+                        -73.055688,
+                        7.008314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zona de Protección Quebrada el Trapiche",
+                  "text": "A nature reserve in Piedecuesta.",
+                  "category": "natural",
+                  "coords": [
+                        -73.056732,
+                        6.991044
+                  ]
+            },
+            {
+                  "name": "Club Comfenalco Lomas del Viento",
+                  "text": "A beach resort in Piedecuesta.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.044279,
+                        6.981579
+                  ]
+            },
+            {
+                  "name": "Villa Felisa",
+                  "text": "A historic manor in Piedecuesta.",
+                  "category": "historical",
+                  "coords": [
+                        -73.055688,
+                        7.008314
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-SAN",
     coords: [-73.0487, 6.9877],
@@ -2451,7 +6510,232 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "sogamoso-cities-v2",
+    id: "sogamoso-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo arqueológico Eliécer Silva Celis",
+                  "text": "Diese archäologische Stätte fungiert als Museum in Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.923939,
+                        5.709344
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Montecito",
+                  "text": "Die Reserva Natural Montecito ist ein geschütztes Naturschutzgebiet in Sogamoso.",
+                  "category": "natural",
+                  "coords": [
+                        -72.928072,
+                        5.698267
+                  ]
+            },
+            {
+                  "name": "Aula Multiple Col Rosario",
+                  "text": "Diese Einrichtung ist ein lokales Theater in der Stadt Sogamoso.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.922525,
+                        5.718763
+                  ]
+            },
+            {
+                  "name": "Pilita de la Unión",
+                  "text": "Pilita de la Unión ist ein Denkmal in Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.926836,
+                        5.711401
+                  ]
+            },
+            {
+                  "name": "Banderas Plazoleta Sol de Irika",
+                  "text": "Dies ist ein lokales Denkmal in der Stadt Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.930831,
+                        5.716051
+                  ]
+            },
+            {
+                  "name": "Monumento a la Raza",
+                  "text": "Das Monumento a la Raza ist ein öffentliches Denkmal in Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.927526,
+                        5.714644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo arqueológico Eliécer Silva Celis",
+                  "text": "Ez a régészeti lelőhely múzeumként működik Sogamosoban.",
+                  "category": "historical",
+                  "coords": [
+                        -72.923939,
+                        5.709344
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Montecito",
+                  "text": "A Reserva Natural Montecito egy védett természetvédelmi terület Sogamosoban.",
+                  "category": "natural",
+                  "coords": [
+                        -72.928072,
+                        5.698267
+                  ]
+            },
+            {
+                  "name": "Aula Multiple Col Rosario",
+                  "text": "Ez a létesítmény egy helyi színház Sogamoso városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.922525,
+                        5.718763
+                  ]
+            },
+            {
+                  "name": "Pilita de la Unión",
+                  "text": "A Pilita de la Unión egy emlékmű Sogamosoban.",
+                  "category": "historical",
+                  "coords": [
+                        -72.926836,
+                        5.711401
+                  ]
+            },
+            {
+                  "name": "Banderas Plazoleta Sol de Irika",
+                  "text": "Ez egy helyi emlékmű Sogamoso városában.",
+                  "category": "historical",
+                  "coords": [
+                        -72.930831,
+                        5.716051
+                  ]
+            },
+            {
+                  "name": "Monumento a la Raza",
+                  "text": "A Monumento a la Raza egy köztéri emlékmű Sogamosoban.",
+                  "category": "historical",
+                  "coords": [
+                        -72.927526,
+                        5.714644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo arqueológico Eliécer Silva Celis",
+                  "text": "Acest sit arheologic funcționează ca un muzeu în Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.923939,
+                        5.709344
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Montecito",
+                  "text": "Reserva Natural Montecito este o rezervație naturală protejată din Sogamoso.",
+                  "category": "natural",
+                  "coords": [
+                        -72.928072,
+                        5.698267
+                  ]
+            },
+            {
+                  "name": "Aula Multiple Col Rosario",
+                  "text": "Această facilitate este un teatru local situat în orașul Sogamoso.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.922525,
+                        5.718763
+                  ]
+            },
+            {
+                  "name": "Pilita de la Unión",
+                  "text": "Pilita de la Unión este un monument situat în Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.926836,
+                        5.711401
+                  ]
+            },
+            {
+                  "name": "Banderas Plazoleta Sol de Irika",
+                  "text": "Acesta este un monument local aflat în orașul Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.930831,
+                        5.716051
+                  ]
+            },
+            {
+                  "name": "Monumento a la Raza",
+                  "text": "Monumento a la Raza este un monument public situat în Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.927526,
+                        5.714644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo arqueológico Eliécer Silva Celis",
+                  "text": "This archaeological site operates as a museum in Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.923939,
+                        5.709344
+                  ]
+            },
+            {
+                  "name": "Reserva Natural Montecito",
+                  "text": "Reserva Natural Montecito is a protected nature reserve in Sogamoso.",
+                  "category": "natural",
+                  "coords": [
+                        -72.928072,
+                        5.698267
+                  ]
+            },
+            {
+                  "name": "Aula Multiple Col Rosario",
+                  "text": "This facility is a local theatre located in the city of Sogamoso.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.922525,
+                        5.718763
+                  ]
+            },
+            {
+                  "name": "Pilita de la Unión",
+                  "text": "Pilita de la Unión is a monument situated in Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.926836,
+                        5.711401
+                  ]
+            },
+            {
+                  "name": "Banderas Plazoleta Sol de Irika",
+                  "text": "This is a local monument found in the city of Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.930831,
+                        5.716051
+                  ]
+            },
+            {
+                  "name": "Monumento a la Raza",
+                  "text": "Monumento a la Raza is a public monument located in Sogamoso.",
+                  "category": "historical",
+                  "coords": [
+                        -72.927526,
+                        5.714644
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-BOY",
     coords: [-72.9288, 5.7143],
@@ -2498,7 +6782,196 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "ocana-cities-v2",
+    id: "ocana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Antón García de Bonilla",
+                  "text": "Ein Museum in Ocaña, das lokale Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -73.353316,
+                        8.238363
+                  ]
+            },
+            {
+                  "name": "Columna de la Libertad de los Esclavos",
+                  "text": "Ein Denkmal in Ocaña zur Erinnerung an die Befreiung.",
+                  "category": "historical",
+                  "coords": [
+                        -73.353855,
+                        8.235427
+                  ]
+            },
+            {
+                  "name": "Coliseo Cubierto Argelino Duran Quintero",
+                  "text": "Ein Veranstaltungsort in Ocaña.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.359255,
+                        8.256818
+                  ]
+            },
+            {
+                  "name": "Villa de La Reina",
+                  "text": "Ein historisches Herrenhaus in Ocaña.",
+                  "category": "historical",
+                  "coords": [
+                        -73.362685,
+                        8.249824
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de la Torcoroma",
+                  "text": "Eine bedeutende Wallfahrtskirche in Ocaña.",
+                  "category": "religious",
+                  "coords": [
+                        -73.35379,
+                        8.233679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Antón García de Bonilla",
+                  "text": "Múzeum Ocañában, a helyi történelem bemutatója.",
+                  "category": "museum",
+                  "coords": [
+                        -73.353316,
+                        8.238363
+                  ]
+            },
+            {
+                  "name": "Columna de la Libertad de los Esclavos",
+                  "text": "Emlékmű Ocañában a felszabadulás emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -73.353855,
+                        8.235427
+                  ]
+            },
+            {
+                  "name": "Coliseo Cubierto Argelino Duran Quintero",
+                  "text": "Rendezvényhelyszín Ocañában.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.359255,
+                        8.256818
+                  ]
+            },
+            {
+                  "name": "Villa de La Reina",
+                  "text": "Történelmi kúria Ocañában.",
+                  "category": "historical",
+                  "coords": [
+                        -73.362685,
+                        8.249824
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de la Torcoroma",
+                  "text": "Fontos kegyhely Ocañában.",
+                  "category": "religious",
+                  "coords": [
+                        -73.35379,
+                        8.233679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Antón García de Bonilla",
+                  "text": "Un muzeu în Ocaña care prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -73.353316,
+                        8.238363
+                  ]
+            },
+            {
+                  "name": "Columna de la Libertad de los Esclavos",
+                  "text": "Un monument în Ocaña care comemorează eliberarea.",
+                  "category": "historical",
+                  "coords": [
+                        -73.353855,
+                        8.235427
+                  ]
+            },
+            {
+                  "name": "Coliseo Cubierto Argelino Duran Quintero",
+                  "text": "O locație pentru evenimente în Ocaña.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.359255,
+                        8.256818
+                  ]
+            },
+            {
+                  "name": "Villa de La Reina",
+                  "text": "Un conac istoric în Ocaña.",
+                  "category": "historical",
+                  "coords": [
+                        -73.362685,
+                        8.249824
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de la Torcoroma",
+                  "text": "O biserică de pelerinaj importantă în Ocaña.",
+                  "category": "religious",
+                  "coords": [
+                        -73.35379,
+                        8.233679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Antón García de Bonilla",
+                  "text": "A museum in Ocaña showcasing local history.",
+                  "category": "museum",
+                  "coords": [
+                        -73.353316,
+                        8.238363
+                  ]
+            },
+            {
+                  "name": "Columna de la Libertad de los Esclavos",
+                  "text": "A monument in Ocaña commemorating freedom.",
+                  "category": "historical",
+                  "coords": [
+                        -73.353855,
+                        8.235427
+                  ]
+            },
+            {
+                  "name": "Coliseo Cubierto Argelino Duran Quintero",
+                  "text": "A venue in Ocaña for events.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.359255,
+                        8.256818
+                  ]
+            },
+            {
+                  "name": "Villa de La Reina",
+                  "text": "A historic manor in Ocaña.",
+                  "category": "historical",
+                  "coords": [
+                        -73.362685,
+                        8.249824
+                  ]
+            },
+            {
+                  "name": "Iglesia Virgen de la Torcoroma",
+                  "text": "A significant shrine in Ocaña.",
+                  "category": "religious",
+                  "coords": [
+                        -73.35379,
+                        8.233679
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-NSA",
     coords: [-73.3551, 8.2377],
@@ -2545,7 +7018,52 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "pitalito-cities-v2",
+    id: "pitalito-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Cultural Héctor Polanía Sánchez",
+                  "text": "Das Centro Cultural Héctor Polanía Sánchez ist ein kulturelles Theater in Pitalito.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.047747,
+                        1.853752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Cultural Héctor Polanía Sánchez",
+                  "text": "A Centro Cultural Héctor Polanía Sánchez egy kulturális színház Pitalitóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.047747,
+                        1.853752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Cultural Héctor Polanía Sánchez",
+                  "text": "Centro Cultural Héctor Polanía Sánchez este un teatru cultural situat în Pitalito.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.047747,
+                        1.853752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Cultural Héctor Polanía Sánchez",
+                  "text": "Centro Cultural Héctor Polanía Sánchez is a cultural theatre located in Pitalito.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.047747,
+                        1.853752
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-HUI",
     coords: [-76.0505, 1.854],
@@ -2592,7 +7110,160 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "buga-cities-v2",
+    id: "buga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Milagroso",
+                  "text": "Das Museo del Milagroso ist ein lokales Museum in Buga.",
+                  "category": "museum",
+                  "coords": [
+                        -76.302656,
+                        3.89699
+                  ]
+            },
+            {
+                  "name": "Academia de Historia Leonardo Tascón",
+                  "text": "Diese Akademie dient als historisches Museum in der Stadt Buga.",
+                  "category": "museum",
+                  "coords": [
+                        -76.298748,
+                        3.898197
+                  ]
+            },
+            {
+                  "name": "Obelisco Faro Monumento Alejandro Cabal Pombo",
+                  "text": "Das Obelisco Faro Monumento Alejandro Cabal Pombo ist ein Denkmal in Buga.",
+                  "category": "historical",
+                  "coords": [
+                        -76.304499,
+                        3.89502
+                  ]
+            },
+            {
+                  "name": "El árbol más lindo de Buga Ceiba Blanca",
+                  "text": "El árbol más lindo de Buga Ceiba Blanca ist eine Sehenswürdigkeit in Buga.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.303133,
+                        3.895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Milagroso",
+                  "text": "A Museo del Milagroso egy helyi múzeum Bugában.",
+                  "category": "museum",
+                  "coords": [
+                        -76.302656,
+                        3.89699
+                  ]
+            },
+            {
+                  "name": "Academia de Historia Leonardo Tascón",
+                  "text": "Ez az akadémia történelmi múzeumként szolgál Buga városában.",
+                  "category": "museum",
+                  "coords": [
+                        -76.298748,
+                        3.898197
+                  ]
+            },
+            {
+                  "name": "Obelisco Faro Monumento Alejandro Cabal Pombo",
+                  "text": "Az Obelisco Faro Monumento Alejandro Cabal Pombo egy emlékmű Buga városában.",
+                  "category": "historical",
+                  "coords": [
+                        -76.304499,
+                        3.89502
+                  ]
+            },
+            {
+                  "name": "El árbol más lindo de Buga Ceiba Blanca",
+                  "text": "A(z) El árbol más lindo de Buga Ceiba Blanca egy látványosság Buga városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.303133,
+                        3.895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Milagroso",
+                  "text": "Museo del Milagroso este un muzeu local situat în Buga.",
+                  "category": "museum",
+                  "coords": [
+                        -76.302656,
+                        3.89699
+                  ]
+            },
+            {
+                  "name": "Academia de Historia Leonardo Tascón",
+                  "text": "Această academie servește drept muzeu istoric în orașul Buga.",
+                  "category": "museum",
+                  "coords": [
+                        -76.298748,
+                        3.898197
+                  ]
+            },
+            {
+                  "name": "Obelisco Faro Monumento Alejandro Cabal Pombo",
+                  "text": "Obelisco Faro Monumento Alejandro Cabal Pombo este un monument situat în Buga.",
+                  "category": "historical",
+                  "coords": [
+                        -76.304499,
+                        3.89502
+                  ]
+            },
+            {
+                  "name": "El árbol más lindo de Buga Ceiba Blanca",
+                  "text": "El árbol más lindo de Buga Ceiba Blanca este o atracție situată în Buga.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.303133,
+                        3.895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Milagroso",
+                  "text": "Museo del Milagroso is a local museum situated in Buga.",
+                  "category": "museum",
+                  "coords": [
+                        -76.302656,
+                        3.89699
+                  ]
+            },
+            {
+                  "name": "Academia de Historia Leonardo Tascón",
+                  "text": "This academy serves as a historical museum in the city of Buga.",
+                  "category": "museum",
+                  "coords": [
+                        -76.298748,
+                        3.898197
+                  ]
+            },
+            {
+                  "name": "Obelisco Faro Monumento Alejandro Cabal Pombo",
+                  "text": "Obelisco Faro Monumento Alejandro Cabal Pombo is a monument located in Buga.",
+                  "category": "historical",
+                  "coords": [
+                        -76.304499,
+                        3.89502
+                  ]
+            },
+            {
+                  "name": "El árbol más lindo de Buga Ceiba Blanca",
+                  "text": "El árbol más lindo de Buga Ceiba Blanca is an attraction located in Buga.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.303133,
+                        3.895
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-VAC",
     coords: [-76.2974, 3.9009],
@@ -2639,7 +7310,124 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "jamundi-cities-v2",
+    id: "jamundi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Ein Kulturzentrum in Jamundí.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.540419,
+                        3.262154
+                  ]
+            },
+            {
+                  "name": "Las veraneras",
+                  "text": "Eine lokale Attraktion in Jamundí.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.528574,
+                        3.250227
+                  ]
+            },
+            {
+                  "name": "Alcaldía de Jamundí",
+                  "text": "Das Rathausgebäude der Stadt Jamundí.",
+                  "category": "historical",
+                  "coords": [
+                        -76.540824,
+                        3.261046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Kulturális központ Jamundíban.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.540419,
+                        3.262154
+                  ]
+            },
+            {
+                  "name": "Las veraneras",
+                  "text": "Helyi látnivaló Jamundíban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.528574,
+                        3.250227
+                  ]
+            },
+            {
+                  "name": "Alcaldía de Jamundí",
+                  "text": "Jamundí városháza.",
+                  "category": "historical",
+                  "coords": [
+                        -76.540824,
+                        3.261046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Un centru cultural în Jamundí.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.540419,
+                        3.262154
+                  ]
+            },
+            {
+                  "name": "Las veraneras",
+                  "text": "O atracție locală în Jamundí.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.528574,
+                        3.250227
+                  ]
+            },
+            {
+                  "name": "Alcaldía de Jamundí",
+                  "text": "Clădirea primăriei din Jamundí.",
+                  "category": "historical",
+                  "coords": [
+                        -76.540824,
+                        3.261046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of the culture",
+                  "text": "A cultural centre in Jamundí.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.540419,
+                        3.262154
+                  ]
+            },
+            {
+                  "name": "Las veraneras",
+                  "text": "A local attraction in Jamundí.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.528574,
+                        3.250227
+                  ]
+            },
+            {
+                  "name": "Alcaldía de Jamundí",
+                  "text": "The city hall building of Jamundí.",
+                  "category": "historical",
+                  "coords": [
+                        -76.540824,
+                        3.261046
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-VAC",
     coords: [-76.5393, 3.2622],
@@ -2686,7 +7474,124 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "yumbo-cities-v2",
+    id: "yumbo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "astian de Yumbo",
+                  "text": "Dieser Ort fungiert als lokales Museum in der Stadt Yumbo.",
+                  "category": "museum",
+                  "coords": [
+                        -76.492516,
+                        3.579201
+                  ]
+            },
+            {
+                  "name": "Instituto Municipal de Cultura",
+                  "text": "Das Instituto Municipal de Cultura ist ein Theater und Kulturzentrum in Yumbo.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.494547,
+                        3.582847
+                  ]
+            },
+            {
+                  "name": "Cerro de las Tres Cruces",
+                  "text": "Cerro de las Tres Cruces ist ein markantes Denkmal in Yumbo.",
+                  "category": "historical",
+                  "coords": [
+                        -76.498704,
+                        3.573891
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "astian de Yumbo",
+                  "text": "Ez a hely helyi múzeumként működik Yumbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -76.492516,
+                        3.579201
+                  ]
+            },
+            {
+                  "name": "Instituto Municipal de Cultura",
+                  "text": "Az Instituto Municipal de Cultura egy színházi és kulturális központ Yumbóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.494547,
+                        3.582847
+                  ]
+            },
+            {
+                  "name": "Cerro de las Tres Cruces",
+                  "text": "A Cerro de las Tres Cruces egy kiemelkedő emlékmű Yumbóban.",
+                  "category": "historical",
+                  "coords": [
+                        -76.498704,
+                        3.573891
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "astian de Yumbo",
+                  "text": "Acest loc funcționează ca un muzeu local în orașul Yumbo.",
+                  "category": "museum",
+                  "coords": [
+                        -76.492516,
+                        3.579201
+                  ]
+            },
+            {
+                  "name": "Instituto Municipal de Cultura",
+                  "text": "Instituto Municipal de Cultura este un spațiu teatral și cultural în Yumbo.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.494547,
+                        3.582847
+                  ]
+            },
+            {
+                  "name": "Cerro de las Tres Cruces",
+                  "text": "Cerro de las Tres Cruces este un monument proeminent situat în Yumbo.",
+                  "category": "historical",
+                  "coords": [
+                        -76.498704,
+                        3.573891
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "astian de Yumbo",
+                  "text": "This site operates as a local museum in the city of Yumbo.",
+                  "category": "museum",
+                  "coords": [
+                        -76.492516,
+                        3.579201
+                  ]
+            },
+            {
+                  "name": "Instituto Municipal de Cultura",
+                  "text": "The Instituto Municipal de Cultura is a theatrical and cultural venue in Yumbo.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.494547,
+                        3.582847
+                  ]
+            },
+            {
+                  "name": "Cerro de las Tres Cruces",
+                  "text": "Cerro de las Tres Cruces is a prominent monument situated in Yumbo.",
+                  "category": "historical",
+                  "coords": [
+                        -76.498704,
+                        3.573891
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-VAC",
     coords: [-76.4952, 3.5828],
@@ -2733,7 +7638,340 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "villa-del-rosario-cities-v2",
+    id: "villa-del-rosario-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Casa Natal Francisco de Paula Santander",
+                  "text": "Dieses Museum in Villa Del Rosario befindet sich im Gran Colombiano Park, in dem Francisco de Paula Santander geboren wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -72.462471,
+                        7.833857
+                  ]
+            },
+            {
+                  "name": "Alcaldia",
+                  "text": "Alcaldia ist eine Sehenswürdigkeit in Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.470478,
+                        7.832444
+                  ]
+            },
+            {
+                  "name": "Templo Histórico",
+                  "text": "Templo Histórico ist ein Denkmal in Villa Del Rosario.",
+                  "category": "historical",
+                  "coords": [
+                        -72.462606,
+                        7.829493
+                  ]
+            },
+            {
+                  "name": "General Santander",
+                  "text": "General Santander ist ein Denkmal in Villa Del Rosario.",
+                  "category": "historical",
+                  "coords": [
+                        -72.462806,
+                        7.826906
+                  ]
+            },
+            {
+                  "name": "Deteccion Electronica 30km",
+                  "text": "Deteccion Electronica 30km ist eine Sehenswürdigkeit in Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.46469,
+                        7.838586
+                  ]
+            },
+            {
+                  "name": "Trocha a la Palmita",
+                  "text": "Trocha a la Palmita Villa del ros ist ein Aussichtspunkt in Villa Del Rosario.",
+                  "category": "natural",
+                  "coords": [
+                        -72.495515,
+                        7.831232
+                  ]
+            },
+            {
+                  "name": "cancha",
+                  "text": "cancha ist eine Sehenswürdigkeit in Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.470409,
+                        7.845679
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario",
+                  "text": "Nuestra Señora del Rosario ist eine Sehenswürdigkeit in Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.471455,
+                        7.831483
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Simón Bolívar",
+                  "text": "Die Simón-Bolívar-Brücke in Villa Del Rosario verbindet Kolumbien und Venezuela über den Fluss Táchira.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.450854,
+                        7.817915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Casa Natal Francisco de Paula Santander",
+                  "text": "Ez a múzeum Villa Del Rosario városában található a Gran Colombiano parkban, ahol Francisco de Paula Santander született.",
+                  "category": "museum",
+                  "coords": [
+                        -72.462471,
+                        7.833857
+                  ]
+            },
+            {
+                  "name": "Alcaldia",
+                  "text": "A(z) Alcaldia egy látványosság Villa Del Rosario városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.470478,
+                        7.832444
+                  ]
+            },
+            {
+                  "name": "Templo Histórico",
+                  "text": "A(z) Templo Histórico egy emlékmű Villa Del Rosario városában.",
+                  "category": "historical",
+                  "coords": [
+                        -72.462606,
+                        7.829493
+                  ]
+            },
+            {
+                  "name": "General Santander",
+                  "text": "A(z) General Santander egy emlékmű Villa Del Rosario városában.",
+                  "category": "historical",
+                  "coords": [
+                        -72.462806,
+                        7.826906
+                  ]
+            },
+            {
+                  "name": "Deteccion Electronica 30km",
+                  "text": "A(z) Deteccion Electronica 30km egy látványosság Villa Del Rosario városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.46469,
+                        7.838586
+                  ]
+            },
+            {
+                  "name": "Trocha a la Palmita",
+                  "text": "A(z) Trocha a la Palmita Villa del ros egy kilátó Villa Del Rosario városában.",
+                  "category": "natural",
+                  "coords": [
+                        -72.495515,
+                        7.831232
+                  ]
+            },
+            {
+                  "name": "cancha",
+                  "text": "A(z) cancha egy látványosság Villa Del Rosario városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.470409,
+                        7.845679
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario",
+                  "text": "A(z) Nuestra Señora del Rosario egy látványosság Villa Del Rosario városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.471455,
+                        7.831483
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Simón Bolívar",
+                  "text": "A Villa Del Rosario-i Simón Bolívar híd Kolumbiát és Venezuelát köti össze a Táchira folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.450854,
+                        7.817915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Casa Natal Francisco de Paula Santander",
+                  "text": "Acest muzeu din Villa Del Rosario se află în Parcul Gran Colombiano, unde s-a născut Francisco de Paula Santander.",
+                  "category": "museum",
+                  "coords": [
+                        -72.462471,
+                        7.833857
+                  ]
+            },
+            {
+                  "name": "Alcaldia",
+                  "text": "Alcaldia este o atracție situată în Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.470478,
+                        7.832444
+                  ]
+            },
+            {
+                  "name": "Templo Histórico",
+                  "text": "Templo Histórico este un monument situat în Villa Del Rosario.",
+                  "category": "historical",
+                  "coords": [
+                        -72.462606,
+                        7.829493
+                  ]
+            },
+            {
+                  "name": "General Santander",
+                  "text": "General Santander este un monument situat în Villa Del Rosario.",
+                  "category": "historical",
+                  "coords": [
+                        -72.462806,
+                        7.826906
+                  ]
+            },
+            {
+                  "name": "Deteccion Electronica 30km",
+                  "text": "Deteccion Electronica 30km este o atracție situată în Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.46469,
+                        7.838586
+                  ]
+            },
+            {
+                  "name": "Trocha a la Palmita",
+                  "text": "Trocha a la Palmita Villa del ros este un punct de belvedere situat în Villa Del Rosario.",
+                  "category": "natural",
+                  "coords": [
+                        -72.495515,
+                        7.831232
+                  ]
+            },
+            {
+                  "name": "cancha",
+                  "text": "cancha este o atracție situată în Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.470409,
+                        7.845679
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario",
+                  "text": "Nuestra Señora del Rosario este o atracție situată în Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.471455,
+                        7.831483
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Simón Bolívar",
+                  "text": "Podul Internațional Simón Bolívar din Villa Del Rosario leagă Columbia de Venezuela peste râul Táchira.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.450854,
+                        7.817915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Casa Natal Francisco de Paula Santander",
+                  "text": "This museum in Villa Del Rosario is located in the Gran Colombiano Park where Francisco de Paula Santander was born.",
+                  "category": "museum",
+                  "coords": [
+                        -72.462471,
+                        7.833857
+                  ]
+            },
+            {
+                  "name": "Alcaldia",
+                  "text": "Alcaldia is an attraction located in Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.470478,
+                        7.832444
+                  ]
+            },
+            {
+                  "name": "Templo Histórico",
+                  "text": "Templo Histórico is a monument located in Villa Del Rosario.",
+                  "category": "historical",
+                  "coords": [
+                        -72.462606,
+                        7.829493
+                  ]
+            },
+            {
+                  "name": "General Santander",
+                  "text": "General Santander is a monument located in Villa Del Rosario.",
+                  "category": "historical",
+                  "coords": [
+                        -72.462806,
+                        7.826906
+                  ]
+            },
+            {
+                  "name": "Deteccion Electronica 30km",
+                  "text": "Deteccion Electronica 30km is an attraction located in Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.46469,
+                        7.838586
+                  ]
+            },
+            {
+                  "name": "Trocha a la Palmita Villa del ros",
+                  "text": "Trocha a la Palmita Villa del ros is a viewpoint located in Villa Del Rosario.",
+                  "category": "natural",
+                  "coords": [
+                        -72.495515,
+                        7.831232
+                  ]
+            },
+            {
+                  "name": "cancha",
+                  "text": "cancha is an attraction located in Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.470409,
+                        7.845679
+                  ]
+            },
+            {
+                  "name": "Nuestra Señora del Rosario",
+                  "text": "Nuestra Señora del Rosario is an attraction located in Villa Del Rosario.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.471455,
+                        7.831483
+                  ]
+            },
+            {
+                  "name": "Puente Internacional Simón Bolívar",
+                  "text": "The Simón Bolívar International Bridge in Villa Del Rosario connects Colombia and Venezuela over the Táchira River.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.450854,
+                        7.817915
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-NSA",
     coords: [-72.4735, 7.8335],
@@ -2780,7 +8018,52 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "sahagun-cities-v2",
+    id: "sahagun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento a Sahagún",
+                  "text": "Ein Denkmal zu Ehren von Sahagún.",
+                  "category": "historical",
+                  "coords": [
+                        -75.444099,
+                        8.939375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento a Sahagún",
+                  "text": "Emlékmű Sahagún tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -75.444099,
+                        8.939375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento a Sahagún",
+                  "text": "Un monument în cinstea lui Sahagún.",
+                  "category": "historical",
+                  "coords": [
+                        -75.444099,
+                        8.939375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento a Sahagún",
+                  "text": "A monument in honor of Sahagún.",
+                  "category": "historical",
+                  "coords": [
+                        -75.444099,
+                        8.939375
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-COR",
     coords: [-75.4496, 8.9463],
@@ -2827,7 +8110,52 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "cerete-cities-v2",
+    id: "cerete-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Cultural Raúl Gomez Hattin",
+                  "text": "Das Centro Cultural Raúl Gomez Hattin dient als Theaterraum in Cereté.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.792389,
+                        8.889206
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Cultural Raúl Gomez Hattin",
+                  "text": "A Centro Cultural Raúl Gomez Hattin egy színháztér Cereté városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.792389,
+                        8.889206
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Cultural Raúl Gomez Hattin",
+                  "text": "Centro Cultural Raúl Gomez Hattin servește ca spațiu teatral în Cereté.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.792389,
+                        8.889206
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Cultural Raúl Gomez Hattin",
+                  "text": "Centro Cultural Raúl Gomez Hattin serves as a theatre space in Cereté.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.792389,
+                        8.889206
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-COR",
     coords: [-75.7951, 8.8858],
@@ -2874,7 +8202,124 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "chia-cities-v2",
+    id: "chia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Santander",
+                  "text": "Parque Santander ist ein Park in Chía.",
+                  "category": "park",
+                  "coords": [
+                        -74.060218,
+                        4.861302
+                  ]
+            },
+            {
+                  "name": "Casa La Pirausta",
+                  "text": "Casa La Pirausta ist ein Kunstzentrum in Chía.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.063115,
+                        4.856994
+                  ]
+            },
+            {
+                  "name": "Monumento demolido",
+                  "text": "Monumento demolido ist ein Denkmal in Chía.",
+                  "category": "historical",
+                  "coords": [
+                        -74.043887,
+                        4.864313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Santander",
+                  "text": "A(z) Parque Santander egy park Chía városában.",
+                  "category": "park",
+                  "coords": [
+                        -74.060218,
+                        4.861302
+                  ]
+            },
+            {
+                  "name": "Casa La Pirausta",
+                  "text": "A(z) Casa La Pirausta egy művészeti központ Chía városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.063115,
+                        4.856994
+                  ]
+            },
+            {
+                  "name": "Monumento demolido",
+                  "text": "A(z) Monumento demolido egy emlékmű Chía városában.",
+                  "category": "historical",
+                  "coords": [
+                        -74.043887,
+                        4.864313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Santander",
+                  "text": "Parque Santander este un parc situat în Chía.",
+                  "category": "park",
+                  "coords": [
+                        -74.060218,
+                        4.861302
+                  ]
+            },
+            {
+                  "name": "Casa La Pirausta",
+                  "text": "Casa La Pirausta este un centru de artă situat în Chía.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.063115,
+                        4.856994
+                  ]
+            },
+            {
+                  "name": "Monumento demolido",
+                  "text": "Monumento demolido este un monument situat în Chía.",
+                  "category": "historical",
+                  "coords": [
+                        -74.043887,
+                        4.864313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Santander",
+                  "text": "Parque Santander is a park located in Chía.",
+                  "category": "park",
+                  "coords": [
+                        -74.060218,
+                        4.861302
+                  ]
+            },
+            {
+                  "name": "Casa La Pirausta",
+                  "text": "Casa La Pirausta is an arts centre located in Chía.",
+                  "category": "cultural",
+                  "coords": [
+                        -74.063115,
+                        4.856994
+                  ]
+            },
+            {
+                  "name": "Monumento demolido",
+                  "text": "Monumento demolido is a monument located in Chía.",
+                  "category": "historical",
+                  "coords": [
+                        -74.043887,
+                        4.864313
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-CUN",
     coords: [-74.0583, 4.8614],
@@ -3015,7 +8460,52 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "caucasia-cities-v2",
+    id: "caucasia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Unidad Recreativa Caucasia - Comfamiliar Camacol",
+                  "text": "Unidad Recreativa Caucasia - Comfamiliar Camacol ist eine Sehenswürdigkeit in Caucasia.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.203986,
+                        7.967035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Unidad Recreativa Caucasia - Comfamiliar Camacol",
+                  "text": "A(z) Unidad Recreativa Caucasia - Comfamiliar Camacol egy látványosság Caucasia városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.203986,
+                        7.967035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Unidad Recreativa Caucasia - Comfamiliar Camacol",
+                  "text": "Unidad Recreativa Caucasia - Comfamiliar Camacol este o atracție situată în Caucasia.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.203986,
+                        7.967035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Unidad Recreativa Caucasia - Comfamiliar Camacol",
+                  "text": "Unidad Recreativa Caucasia - Comfamiliar Camacol is an attraction located in Caucasia.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.203986,
+                        7.967035
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-ANT",
     coords: [-75.1979, 7.9865],
@@ -3062,7 +8552,232 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "santa-cruz-de-lorica-cities-v2",
+    id: "santa-cruz-de-lorica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercado Público",
+                  "text": "Ein historisches öffentliches Marktgebäude in Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.818534,
+                        9.226086
+                  ]
+            },
+            {
+                  "name": "Pilador Lorica",
+                  "text": "Ein Denkmal in Santa Cruz De Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.81688,
+                        9.226482
+                  ]
+            },
+            {
+                  "name": "Muralla de Lorica",
+                  "text": "Ein Aussichtspunkt an der Stadtmauer von Lorica.",
+                  "category": "natural",
+                  "coords": [
+                        -75.821175,
+                        9.226187
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria",
+                  "text": "Ein Denkmal in Santa Cruz De Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.816914,
+                        9.227934
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "Eine Sonnenuhr-Attraktion in Lorica.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.81423,
+                        9.231922
+                  ]
+            },
+            {
+                  "name": "Casa de Nicolás Sanchez",
+                  "text": "Ein historisches Haus in Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.818734,
+                        9.227497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercado Público",
+                  "text": "Történelmi vásárcsarnok Loricában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.818534,
+                        9.226086
+                  ]
+            },
+            {
+                  "name": "Pilador Lorica",
+                  "text": "Emlékmű Santa Cruz De Loricában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.81688,
+                        9.226482
+                  ]
+            },
+            {
+                  "name": "Muralla de Lorica",
+                  "text": "Kilátóhely Lorica városfalánál.",
+                  "category": "natural",
+                  "coords": [
+                        -75.821175,
+                        9.226187
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria",
+                  "text": "Emlékmű Santa Cruz De Loricában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.816914,
+                        9.227934
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "Napóra látványosság Loricában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.81423,
+                        9.231922
+                  ]
+            },
+            {
+                  "name": "Casa de Nicolás Sanchez",
+                  "text": "Történelmi ház Loricában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.818734,
+                        9.227497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercado Público",
+                  "text": "O clădire istorică a pieței publice din Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.818534,
+                        9.226086
+                  ]
+            },
+            {
+                  "name": "Pilador Lorica",
+                  "text": "Un monument în Santa Cruz De Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.81688,
+                        9.226482
+                  ]
+            },
+            {
+                  "name": "Muralla de Lorica",
+                  "text": "Un punct de belvedere la zidul orașului Lorica.",
+                  "category": "natural",
+                  "coords": [
+                        -75.821175,
+                        9.226187
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria",
+                  "text": "Un monument în Santa Cruz De Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.816914,
+                        9.227934
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "O atracție tip cadran solar în Lorica.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.81423,
+                        9.231922
+                  ]
+            },
+            {
+                  "name": "Casa de Nicolás Sanchez",
+                  "text": "O casă istorică în Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.818734,
+                        9.227497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mercado Público",
+                  "text": "A historic public market building in Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.818534,
+                        9.226086
+                  ]
+            },
+            {
+                  "name": "Pilador Lorica",
+                  "text": "A monument in Santa Cruz De Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.81688,
+                        9.226482
+                  ]
+            },
+            {
+                  "name": "Muralla de Lorica",
+                  "text": "A viewpoint at the city wall of Lorica.",
+                  "category": "natural",
+                  "coords": [
+                        -75.821175,
+                        9.226187
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria",
+                  "text": "A monument in Santa Cruz De Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.816914,
+                        9.227934
+                  ]
+            },
+            {
+                  "name": "Reloj Solar",
+                  "text": "A sundial attraction in Lorica.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.81423,
+                        9.231922
+                  ]
+            },
+            {
+                  "name": "Casa de Nicolás Sanchez",
+                  "text": "A historic house in Lorica.",
+                  "category": "historical",
+                  "coords": [
+                        -75.818734,
+                        9.227497
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-COR",
     coords: [-75.8155, 9.2393],
@@ -3199,7 +8914,196 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "turbo-cities-v2",
+    id: "turbo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro Punta Yarumal",
+                  "text": "Der Leuchtturm von Turbo.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.748042,
+                        8.110046
+                  ]
+            },
+            {
+                  "name": "Playa Dulce",
+                  "text": "Ein Strand in Turbo.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.740632,
+                        8.0964
+                  ]
+            },
+            {
+                  "name": "Playita",
+                  "text": "Ein kleiner Strand in Turbo.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.741833,
+                        8.09237
+                  ]
+            },
+            {
+                  "name": "Puerto Turbo",
+                  "text": "Ein Aussichtspunkt im Hafen von Turbo.",
+                  "category": "natural",
+                  "coords": [
+                        -76.729105,
+                        8.091066
+                  ]
+            },
+            {
+                  "name": "Kartukú",
+                  "text": "Eine Kunstgalerie in Turbo.",
+                  "category": "museum",
+                  "coords": [
+                        -76.722954,
+                        8.089029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro Punta Yarumal",
+                  "text": "Turbo világítótornya.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.748042,
+                        8.110046
+                  ]
+            },
+            {
+                  "name": "Playa Dulce",
+                  "text": "Strand Turbóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.740632,
+                        8.0964
+                  ]
+            },
+            {
+                  "name": "Playita",
+                  "text": "Kis strand Turbóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.741833,
+                        8.09237
+                  ]
+            },
+            {
+                  "name": "Puerto Turbo",
+                  "text": "Kilátópont Turbo kikötőjében.",
+                  "category": "natural",
+                  "coords": [
+                        -76.729105,
+                        8.091066
+                  ]
+            },
+            {
+                  "name": "Kartukú",
+                  "text": "Művészeti galéria Turbóban.",
+                  "category": "museum",
+                  "coords": [
+                        -76.722954,
+                        8.089029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro Punta Yarumal",
+                  "text": "Farul din Turbo.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.748042,
+                        8.110046
+                  ]
+            },
+            {
+                  "name": "Playa Dulce",
+                  "text": "O plajă în Turbo.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.740632,
+                        8.0964
+                  ]
+            },
+            {
+                  "name": "Playita",
+                  "text": "O plajă mică în Turbo.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.741833,
+                        8.09237
+                  ]
+            },
+            {
+                  "name": "Puerto Turbo",
+                  "text": "Un punct de belvedere în portul Turbo.",
+                  "category": "natural",
+                  "coords": [
+                        -76.729105,
+                        8.091066
+                  ]
+            },
+            {
+                  "name": "Kartukú",
+                  "text": "O galerie de artă în Turbo.",
+                  "category": "museum",
+                  "coords": [
+                        -76.722954,
+                        8.089029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro Punta Yarumal",
+                  "text": "The lighthouse of Turbo.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.748042,
+                        8.110046
+                  ]
+            },
+            {
+                  "name": "Playa Dulce",
+                  "text": "A beach in Turbo.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.740632,
+                        8.0964
+                  ]
+            },
+            {
+                  "name": "Playita",
+                  "text": "A small beach in Turbo.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.741833,
+                        8.09237
+                  ]
+            },
+            {
+                  "name": "Puerto Turbo",
+                  "text": "A viewpoint in the port of Turbo.",
+                  "category": "natural",
+                  "coords": [
+                        -76.729105,
+                        8.091066
+                  ]
+            },
+            {
+                  "name": "Kartukú",
+                  "text": "An art gallery in Turbo.",
+                  "category": "museum",
+                  "coords": [
+                        -76.722954,
+                        8.089029
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CO-ANT",
     coords: [-76.7282, 8.0933],

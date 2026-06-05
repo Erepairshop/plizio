@@ -636,7 +636,124 @@ export const poiExtraAngolaCitiesV2: POI[] = [
 
   },
   {
-    id: "lobito-cities-v2",
+    id: "lobito-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cine-Teatro Empérium",
+                  "text": "Das Cine-Teatro Empérium ist ein lokales Theater und ein kultureller Veranstaltungsort in Lobito.",
+                  "category": "cultural",
+                  "coords": [
+                        13.551282,
+                        -12.341747
+                  ]
+            },
+            {
+                  "name": "Colina da Saudade",
+                  "text": "Colina da Saudade bietet einen malerischen Aussichtspunkt auf die Landschaften von Lobito.",
+                  "category": "natural",
+                  "coords": [
+                        13.54449,
+                        -12.347444
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Der Mercado Municipal ist ein lokaler Marktplatz in der Stadt Lobito.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546176,
+                        -12.350317
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cine-Teatro Empérium",
+                  "text": "A Cine-Teatro Empérium egy helyi színház és kulturális helyszín Lobitóban.",
+                  "category": "cultural",
+                  "coords": [
+                        13.551282,
+                        -12.341747
+                  ]
+            },
+            {
+                  "name": "Colina da Saudade",
+                  "text": "A Colina da Saudade egy festői kilátó, amely a lobitói tájra néz.",
+                  "category": "natural",
+                  "coords": [
+                        13.54449,
+                        -12.347444
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "A Mercado Municipal egy helyi piac Lobito városában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546176,
+                        -12.350317
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cine-Teatro Empérium",
+                  "text": "Cine-Teatro Empérium este un teatru local și un centru cultural în Lobito.",
+                  "category": "cultural",
+                  "coords": [
+                        13.551282,
+                        -12.341747
+                  ]
+            },
+            {
+                  "name": "Colina da Saudade",
+                  "text": "Colina da Saudade oferă un punct de belvedere pitoresc cu vedere la peisajele din Lobito.",
+                  "category": "natural",
+                  "coords": [
+                        13.54449,
+                        -12.347444
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "Mercado Municipal este o piață locală situată în orașul Lobito.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546176,
+                        -12.350317
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cine-Teatro Empérium",
+                  "text": "Cine-Teatro Empérium is a local theatre and cultural venue in Lobito.",
+                  "category": "cultural",
+                  "coords": [
+                        13.551282,
+                        -12.341747
+                  ]
+            },
+            {
+                  "name": "Colina da Saudade",
+                  "text": "Colina da Saudade offers a scenic viewpoint overlooking the landscapes of Lobito.",
+                  "category": "natural",
+                  "coords": [
+                        13.54449,
+                        -12.347444
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal",
+                  "text": "The Mercado Municipal is a local marketplace located in the city of Lobito.",
+                  "category": "landmark",
+                  "coords": [
+                        13.546176,
+                        -12.350317
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-BGU",
     coords: [13.536, -12.3644],
@@ -767,7 +884,88 @@ export const poiExtraAngolaCitiesV2: POI[] = [
 
   },
   {
-    id: "caala-cities-v2",
+    id: "caala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Cassendji",
+                  "text": "Monte Cassendji ist ein markanter Aussichtspunkt, der weite Ausblicke über Caála bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.564088,
+                        -12.933434
+                  ]
+            },
+            {
+                  "name": "Monte Calenguele",
+                  "text": "Monte Calenguele dient als natürlicher Aussichtspunkt mit Panoramablick auf Caála.",
+                  "category": "natural",
+                  "coords": [
+                        15.563253,
+                        -12.959338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Cassendji",
+                  "text": "A Monte Cassendji egy kiemelkedő kilátó, amely széles panorámát nyújt Caála felett.",
+                  "category": "natural",
+                  "coords": [
+                        15.564088,
+                        -12.933434
+                  ]
+            },
+            {
+                  "name": "Monte Calenguele",
+                  "text": "A Monte Calenguele természetes kilátóként szolgál, panorámás kilátással Caálára.",
+                  "category": "natural",
+                  "coords": [
+                        15.563253,
+                        -12.959338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Cassendji",
+                  "text": "Monte Cassendji este un punct de belvedere proeminent care oferă vederi extinse asupra orașului Caála.",
+                  "category": "natural",
+                  "coords": [
+                        15.564088,
+                        -12.933434
+                  ]
+            },
+            {
+                  "name": "Monte Calenguele",
+                  "text": "Monte Calenguele servește ca un punct de belvedere natural oferind priveliști panoramice spre Caála.",
+                  "category": "natural",
+                  "coords": [
+                        15.563253,
+                        -12.959338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Cassendji",
+                  "text": "Monte Cassendji is a prominent viewpoint that provides expansive views over Caála.",
+                  "category": "natural",
+                  "coords": [
+                        15.564088,
+                        -12.933434
+                  ]
+            },
+            {
+                  "name": "Monte Calenguele",
+                  "text": "Monte Calenguele serves as a natural viewpoint offering panoramic vistas of Caála.",
+                  "category": "natural",
+                  "coords": [
+                        15.563253,
+                        -12.959338
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-HUA",
     coords: [15.5667, -12.95],
@@ -1027,7 +1225,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       fr: ["Située dans la plaine fertile de Cela, dans le Cuanza Sul.", "Son ancien nom colonial était Santa Comba.", "Principal centre de production laitière en Angola.", "Considérée comme l'un des sites agricoles les plus modernes du pays.", "Fournisseur majeur de fruits et légumes frais.", "Halte stratégique sur la route nationale Luanda-Huambo.", "Abrite d'importantes laiteries et exploitations d'élevage.", "Le climat frais favorise l'implantation de l'agro-industrie."],
     }, image: "/poi-images/wakukungo-cities-v2.webp"},
   {
-    id: "quibala-cities-v2",
+    id: "quibala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quibala Fort",
+                  "text": "Das Fort Quibala besteht aus historischen Festungsruinen in der Stadt Quibala.",
+                  "category": "historical",
+                  "coords": [
+                        14.981373,
+                        -10.738375
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte da Quibala",
+                  "text": "A Quibala erőd történelmi erődítményromokból áll Quibala városában.",
+                  "category": "historical",
+                  "coords": [
+                        14.981373,
+                        -10.738375
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte da Quibala",
+                  "text": "Fortul Quibala este format din ruine ale unei fortificații istorice situate în orașul Quibala.",
+                  "category": "historical",
+                  "coords": [
+                        14.981373,
+                        -10.738375
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quibala Fort",
+                  "text": "Quibala Fort consists of historical fortification ruins located in the town of Quibala.",
+                  "category": "historical",
+                  "coords": [
+                        14.981373,
+                        -10.738375
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-CUS",
     coords: [14.9833, -10.7333],
@@ -1070,7 +1313,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       fr: ["Carrefour routier important dans la province de Cuanza Sul.", "Entourée d'inselbergs et de rochers granitiques distinctifs.", "Centre majeur pour le commerce régional du bétail.", "Située sur la route reliant Luanda aux hauts plateaux centraux.", "L'agriculture produit principalement du maïs et des haricots.", "Lieu historiquement significatif de la résistance nationale.", "Dispose d'une infrastructure croissante dans le secteur de l'éducation.", "Halte populaire pour les voyageurs traversant l'intérieur du pays."],
     }, image: "/poi-images/quibala-cities-v2.webp"},
   {
-    id: "lucapa-cities-v2",
+    id: "lucapa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Destroço de avião",
+                  "text": "Plane wreck ist eine Sehenswürdigkeit in Lucapa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.730227,
+                        -8.439756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Destroço de avião",
+                  "text": "A Plane wreck egy látványosság Lucapa városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.730227,
+                        -8.439756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Destroço de avião",
+                  "text": "Plane wreck este o atracție situată în Lucapa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.730227,
+                        -8.439756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plane wreck",
+                  "text": "Plane wreck is an attraction located in Lucapa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.730227,
+                        -8.439756
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-LNO",
     coords: [20.7333, -8.4167],
@@ -1377,7 +1665,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       fr: ["Centre culturel majeur des Bakongo à Uíge.", "Carrefour traditionnel pour les chefs tribaux régionaux.", "Zone agricole importante pour le manioc et les haricots.", "Située dans une région de collines aux paysages pittoresques.", "Connue pour ses missions religieuses et ses écoles.", "Joue un rôle dans la préservation de la langue locale Kikongo.", "Place de marché importante pour les communautés rurales environnantes.", "Théâtre historique des premières aspirations à l'indépendance."],
     }, image: "/poi-images/damba-cities-v2.webp"},
   {
-    id: "matala-cities-v2",
+    id: "matala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ilha",
+                  "text": "Eine touristische Sehenswürdigkeit in der Umgebung von Matala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.047319,
+                        -14.74659
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ilha",
+                  "text": "Turisztikai látnivaló Matala környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.047319,
+                        -14.74659
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ilha",
+                  "text": "O atracție turistică în împrejurimile orașului Matala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.047319,
+                        -14.74659
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ilha",
+                  "text": "A tourist attraction in the surroundings of Matala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.047319,
+                        -14.74659
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-HUI",
     coords: [15.0333, -14.7333],
@@ -1420,7 +1753,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       fr: ["Abrite un barrage important sur le fleuve Cunene.", "Centre de l'un des plus grands projets d'irrigation d'Angola.", "Gare importante sur la ligne de chemin de fer de Moçâmedes (CFM).", "Producteur majeur de tomates et d'oignons pour le pays.", "Joue un rôle clé dans l'approvisionnement en électricité du Sud.", "Place commerciale stratégique entre Lubango et Menongue.", "La région est réputée pour ses grands troupeaux de bovins.", "Site important pour l'agro-industrie et la transformation alimentaire."],
     }, image: "/poi-images/matala-cities-v2.webp"},
   {
-    id: "caconda-cities-v2",
+    id: "caconda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortaleza de Caconda",
+                  "text": "Die Fortaleza de Caconda umfasst die baulichen Ruinen einer ehemaligen Festung in Caconda.",
+                  "category": "historical",
+                  "coords": [
+                        15.066666,
+                        -13.73333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza de Caconda",
+                  "text": "A Fortaleza de Caconda egy egykori erőd szerkezeti romjait foglalja magába Caconda területén.",
+                  "category": "historical",
+                  "coords": [
+                        15.066666,
+                        -13.73333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza de Caconda",
+                  "text": "Fortaleza de Caconda prezintă ruinele structurale ale unei foste fortărețe în Caconda.",
+                  "category": "historical",
+                  "coords": [
+                        15.066666,
+                        -13.73333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortaleza de Caconda",
+                  "text": "Fortaleza de Caconda features the structural ruins of a former fortress in Caconda.",
+                  "category": "historical",
+                  "coords": [
+                        15.066666,
+                        -13.73333
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-HUI",
     coords: [15.0667, -13.7333],
@@ -1768,7 +2146,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       fr: ["Gare stratégique sur le chemin de fer de Benguela (CFB).", "Centre de production céréalière de la province de Benguela.", "Point de liaison important entre les hauts plateaux et la côte.", "Connue pour ses vergers et son industrie de conserves.", "Située dans une région riche en eau avec de nombreux ruisseaux.", "Lieu historiquement important pour le développement régional.", "Dispose d'infrastructures croissantes dans le commerce et la logistique.", "Siège d'institutions éducatives et administratives locales."],
     }, image: "/poi-images/ganda-cities-v2.webp"},
   {
-    id: "cubal-cities-v2",
+    id: "cubal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Antigo Cinema/Teatro",
+                  "text": "Das Antigo Cinema/Teatro in Cubal ist ein Ort für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        14.243054,
+                        -13.038481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Antigo Cinema/Teatro",
+                  "text": "Az Antigo Cinema/Teatro Cubalban a kulturális események helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        14.243054,
+                        -13.038481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Antigo Cinema/Teatro",
+                  "text": "Antigo Cinema/Teatro din Cubal este un loc pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.243054,
+                        -13.038481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Antigo Cinema/Teatro",
+                  "text": "The Antigo Cinema/Teatro in Cubal is a place for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.243054,
+                        -13.038481
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-BGU",
     coords: [14.2333, -13.0333],
@@ -2026,7 +2449,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
       fr: ["Située sur les rives de la rivière Lucala, principal affluent du Kwanza.", "Arrêt ferroviaire important sur la ligne vers Malanje.", "Marché important pour les produits agricoles de la région.", "Site stratégique pour l'entretien des infrastructures routières.", "Entourée de terres agricoles fertiles à haut rendement.", "Centre pour le commerce régional du bétail.", "Siège d'établissements d'enseignement et de santé locaux.", "Symbole du progrès rural dans le Cuanza Norte."],
     }, image: "/poi-images/lucala-cities-v2.webp"},
   {
-    id: "camabatela-cities-v2",
+    id: "camabatela-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja Matriz de Camabatela",
+                  "text": "Eine bedeutende Sehenswürdigkeit in der Stadt Camabatela.",
+                  "category": "landmark",
+                  "coords": [
+                        15.370497,
+                        -8.195001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja Matriz de Camabatela",
+                  "text": "Jelentős látnivaló Camabatela városában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.370497,
+                        -8.195001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja Matriz de Camabatela",
+                  "text": "O atracție importantă în orașul Camabatela.",
+                  "category": "landmark",
+                  "coords": [
+                        15.370497,
+                        -8.195001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja Matriz de Camabatela",
+                  "text": "A significant attraction in the city of Camabatela.",
+                  "category": "landmark",
+                  "coords": [
+                        15.370497,
+                        -8.195001
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-CNO",
     coords: [15.3667, -8.1833],
@@ -2116,7 +2584,52 @@ export const poiExtraAngolaCitiesV2: POI[] = [
 
   },
   {
-    id: "calandula-cities-v2",
+    id: "calandula-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque das Quedas",
+                  "text": "Parque das Quedas ist ein Picknickplatz in Calandula.",
+                  "category": "landmark",
+                  "coords": [
+                        15.999299,
+                        -9.074181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque das Quedas",
+                  "text": "A Parque das Quedas egy piknikezőhely Calandula városában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.999299,
+                        -9.074181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque das Quedas",
+                  "text": "Parque das Quedas este un loc de picnic situat în Calandula.",
+                  "category": "landmark",
+                  "coords": [
+                        15.999299,
+                        -9.074181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque das Quedas",
+                  "text": "Parque das Quedas is a picnic site located in Calandula.",
+                  "category": "landmark",
+                  "coords": [
+                        15.999299,
+                        -9.074181
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AO-MAL",
     coords: [16.0, -9.0833],

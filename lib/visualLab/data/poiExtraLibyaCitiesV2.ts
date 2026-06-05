@@ -34,7 +34,808 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       en: ["Founded around 700 BC.", "Headquarters of the Libyan government.", "Most populous city in the country.", "Hosts the largest port in Libya.", "Historical old town is the Medina.", "Serves as a national educational center."]
     }, image: "/poi-images/tripoli-cities-v2.webp"},
   {
-    id: "benghazi-cities-v2",
+    id: "benghazi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسرح",
+                  "text": "Dieser Veranstaltungsort fungiert als Theater in Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.078973,
+                        32.1231
+                  ]
+            },
+            {
+                  "name": "منارة بنغازي",
+                  "text": "Dieses lokale Wahrzeichen dient als Leuchtturm in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.063595,
+                        32.12498
+                  ]
+            },
+            {
+                  "name": "المسرح الوطني",
+                  "text": "Dies ist ein kultureller Veranstaltungsort und ein Theater in Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.083672,
+                        32.112289
+                  ]
+            },
+            {
+                  "name": "مقبرة سيدي اعبيد",
+                  "text": "Der Sidi Oubed Cemetery ist eine archäologische Stätte in Bengasi.",
+                  "category": "historical",
+                  "coords": [
+                        20.087637,
+                        32.135093
+                  ]
+            },
+            {
+                  "name": "المسرح الشعبي",
+                  "text": "Das Local Culture Theater ist ein Theater für lokale Kultur in Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.06095,
+                        32.114577
+                  ]
+            },
+            {
+                  "name": "Area L in Sidi Khiribech",
+                  "text": "Area L in Sidi Khiribech ist eine archäologische Stätte in Bengasi.",
+                  "category": "historical",
+                  "coords": [
+                        20.062387,
+                        32.124374
+                  ]
+            },
+            {
+                  "name": "قصر البركة",
+                  "text": "Der Al Birka Palace ist eine historische Burg in Bengasi.",
+                  "category": "castle",
+                  "coords": [
+                        20.077825,
+                        32.095283
+                  ]
+            },
+            {
+                  "name": "قصر المنار",
+                  "text": "Der Al Manar Palace ist ein bemerkenswertes Schloss in Bengasi.",
+                  "category": "castle",
+                  "coords": [
+                        20.058034,
+                        32.116694
+                  ]
+            },
+            {
+                  "name": "بحيرة 23 يوليو",
+                  "text": "Der 23rd July Lake ist eine Meeresbucht in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064446,
+                        32.105143
+                  ]
+            },
+            {
+                  "name": "سوق الحشيش",
+                  "text": "Dieser lokale Markt ist eine Attraktion in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.063695,
+                        32.119067
+                  ]
+            },
+            {
+                  "name": "اوكازيون محل جنيه",
+                  "text": "Diese Einrichtung ist eine lokale Attraktion in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.087964,
+                        32.109529
+                  ]
+            },
+            {
+                  "name": "حلواني النعم",
+                  "text": "Dieser Ort ist eine kommerzielle Sehenswürdigkeit in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.090919,
+                        32.101077
+                  ]
+            },
+            {
+                  "name": "شارع البث بنغازي",
+                  "text": "Diese Straße dient als bekannter Aussichtspunkt in Bengasi.",
+                  "category": "natural",
+                  "coords": [
+                        20.097916,
+                        32.120565
+                  ]
+            },
+            {
+                  "name": "ساحة الكيش",
+                  "text": "Die Piazza Al kesh ist ein anerkannter öffentlicher Platz in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.077248,
+                        32.092746
+                  ]
+            },
+            {
+                  "name": "معرض بنغازي التجاري",
+                  "text": "Diese Einrichtung dient als Kunstzentrum in Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.067572,
+                        32.117584
+                  ]
+            },
+            {
+                  "name": "مصيف جليانة",
+                  "text": "Dieses Küstengebiet fungiert als Strandresort in Bengasi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.053431,
+                        32.101291
+                  ]
+            },
+            {
+                  "name": "معسكر الحسابات العسكرية بنغازي",
+                  "text": "Dieser spezielle Ort dient als Aussichtspunkt in Bengasi.",
+                  "category": "natural",
+                  "coords": [
+                        20.074761,
+                        32.107484
+                  ]
+            },
+            {
+                  "name": "شركة الناقه لمعدات الورش",
+                  "text": "Dieser Geschäftsstandort ist eine bekannte Sehenswürdigkeit in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.069546,
+                        32.115415
+                  ]
+            },
+            {
+                  "name": "بيت المدينة الثقافي",
+                  "text": "Das City culture center dient als wichtiges Denkmal in Bengasi.",
+                  "category": "historical",
+                  "coords": [
+                        20.059764,
+                        32.119081
+                  ]
+            },
+            {
+                  "name": "ضريح عمر المختار",
+                  "text": "Dieses Mausoleum ist eine markante historische Attraktion in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.068272,
+                        32.119432
+                  ]
+            },
+            {
+                  "name": "Kathedrale von Bengasi",
+                  "text": "Die Kathedrale von Bengasi ist ein historisches Gotteshaus in Bengasi.",
+                  "category": "religious",
+                  "coords": [
+                        20.05944,
+                        32.114202
+                  ]
+            },
+            {
+                  "name": "مسجد بنكاطو",
+                  "text": "Die Binqatou Mosque ist ein lokales Gotteshaus in Bengasi.",
+                  "category": "religious",
+                  "coords": [
+                        20.058955,
+                        32.120229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسرح",
+                  "text": "Ez a létesítmény színházként működik Bengáziban.",
+                  "category": "cultural",
+                  "coords": [
+                        20.078973,
+                        32.1231
+                  ]
+            },
+            {
+                  "name": "منارة بنغازي",
+                  "text": "Ez a helyi nevezetesség világítótoronyként működik Bengáziban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.063595,
+                        32.12498
+                  ]
+            },
+            {
+                  "name": "المسرح الوطني",
+                  "text": "Ez egy kulturális helyszín és színház Bengáziban.",
+                  "category": "cultural",
+                  "coords": [
+                        20.083672,
+                        32.112289
+                  ]
+            },
+            {
+                  "name": "مقبرة سيدي اعبيد",
+                  "text": "A Sidi Oubed Cemetery egy régészeti lelőhely Bengáziban.",
+                  "category": "historical",
+                  "coords": [
+                        20.087637,
+                        32.135093
+                  ]
+            },
+            {
+                  "name": "المسرح الشعبي",
+                  "text": "A Local Culture Theater egy helyi kulturális színház Bengáziban.",
+                  "category": "cultural",
+                  "coords": [
+                        20.06095,
+                        32.114577
+                  ]
+            },
+            {
+                  "name": "Area L in Sidi Khiribech",
+                  "text": "Az Area L in Sidi Khiribech egy régészeti lelőhely Bengáziban.",
+                  "category": "historical",
+                  "coords": [
+                        20.062387,
+                        32.124374
+                  ]
+            },
+            {
+                  "name": "قصر البركة",
+                  "text": "Az Al Birka Palace egy történelmi kastélyépület Bengáziban.",
+                  "category": "castle",
+                  "coords": [
+                        20.077825,
+                        32.095283
+                  ]
+            },
+            {
+                  "name": "قصر المنار",
+                  "text": "Az Al Manar Palace egy figyelemre méltó kastély Bengáziban.",
+                  "category": "castle",
+                  "coords": [
+                        20.058034,
+                        32.116694
+                  ]
+            },
+            {
+                  "name": "بحيرة 23 يوليو",
+                  "text": "A 23rd July Lake egy tengeröböl Bengáziban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064446,
+                        32.105143
+                  ]
+            },
+            {
+                  "name": "سوق الحشيش",
+                  "text": "Ez a helyi piac egy népszerű látványosság Bengáziban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.063695,
+                        32.119067
+                  ]
+            },
+            {
+                  "name": "اوكازيون محل جنيه",
+                  "text": "Ez a létesítmény egy helyi látványosság Bengáziban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.087964,
+                        32.109529
+                  ]
+            },
+            {
+                  "name": "حلواني النعم",
+                  "text": "Ez a helyszín egy kereskedelmi látványosság Bengáziban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.090919,
+                        32.101077
+                  ]
+            },
+            {
+                  "name": "شارع البث بنغازي",
+                  "text": "Ez az utca ismert kilátópontként szolgál Bengáziban.",
+                  "category": "natural",
+                  "coords": [
+                        20.097916,
+                        32.120565
+                  ]
+            },
+            {
+                  "name": "ساحة الكيش",
+                  "text": "A Piazza Al kesh egy elismert nyilvános tér Bengáziban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.077248,
+                        32.092746
+                  ]
+            },
+            {
+                  "name": "معرض بنغازي التجاري",
+                  "text": "A Benghazi exhibition Commercial művészeti központként működik Bengáziban.",
+                  "category": "cultural",
+                  "coords": [
+                        20.067572,
+                        32.117584
+                  ]
+            },
+            {
+                  "name": "مصيف جليانة",
+                  "text": "Ez a part menti terület tengerparti üdülőhelyként működik Bengáziban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.053431,
+                        32.101291
+                  ]
+            },
+            {
+                  "name": "معسكر الحسابات العسكرية بنغازي",
+                  "text": "Ez a konkrét helyszín kilátópontként szolgál Bengáziban.",
+                  "category": "natural",
+                  "coords": [
+                        20.074761,
+                        32.107484
+                  ]
+            },
+            {
+                  "name": "شركة الناقه لمعدات الورش",
+                  "text": "Ez az üzleti helyszín egy helyi érdekesség Bengáziban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.069546,
+                        32.115415
+                  ]
+            },
+            {
+                  "name": "بيت المدينة الثقافي",
+                  "text": "A City culture center fontos emlékműként szolgál Bengáziban.",
+                  "category": "historical",
+                  "coords": [
+                        20.059764,
+                        32.119081
+                  ]
+            },
+            {
+                  "name": "ضريح عمر المختار",
+                  "text": "Ez a mauzóleum egy kiemelkedő történelmi látványosság Bengáziban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.068272,
+                        32.119432
+                  ]
+            },
+            {
+                  "name": "كاتدرائية بنغازي",
+                  "text": "A bengázi katedrális egy történelmi istentiszteleti hely Bengáziban.",
+                  "category": "religious",
+                  "coords": [
+                        20.05944,
+                        32.114202
+                  ]
+            },
+            {
+                  "name": "مسجد بنكاطو",
+                  "text": "A Binqatou Mosque egy helyi mecset és istentiszteleti hely Bengáziban.",
+                  "category": "religious",
+                  "coords": [
+                        20.058955,
+                        32.120229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسرح",
+                  "text": "Acest loc funcționează ca un teatru în orașul Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.078973,
+                        32.1231
+                  ]
+            },
+            {
+                  "name": "منارة بنغازي",
+                  "text": "Acest punct de reper local funcționează ca un far în Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.063595,
+                        32.12498
+                  ]
+            },
+            {
+                  "name": "المسرح الوطني",
+                  "text": "Acesta este un spațiu cultural și un teatru în Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.083672,
+                        32.112289
+                  ]
+            },
+            {
+                  "name": "مقبرة سيدي اعبيد",
+                  "text": "Sidi Oubed Cemetery este un sit arheologic situat în Bengasi.",
+                  "category": "historical",
+                  "coords": [
+                        20.087637,
+                        32.135093
+                  ]
+            },
+            {
+                  "name": "المسرح الشعبي",
+                  "text": "Local Culture Theater este un teatru dedicat culturii locale din Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.06095,
+                        32.114577
+                  ]
+            },
+            {
+                  "name": "Area L in Sidi Khiribech",
+                  "text": "Area L in Sidi Khiribech este un sit arheologic situat în Bengasi.",
+                  "category": "historical",
+                  "coords": [
+                        20.062387,
+                        32.124374
+                  ]
+            },
+            {
+                  "name": "قصر البركة",
+                  "text": "Al Birka Palace este un castel istoric în Bengasi.",
+                  "category": "castle",
+                  "coords": [
+                        20.077825,
+                        32.095283
+                  ]
+            },
+            {
+                  "name": "قصر المنار",
+                  "text": "Al Manar Palace este un castel remarcabil situat în Bengasi.",
+                  "category": "castle",
+                  "coords": [
+                        20.058034,
+                        32.116694
+                  ]
+            },
+            {
+                  "name": "بحيرة 23 يوليو",
+                  "text": "23rd July Lake este un golf de coastă situat în Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064446,
+                        32.105143
+                  ]
+            },
+            {
+                  "name": "سوق الحشيش",
+                  "text": "Această piață locală este o atracție populară în Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.063695,
+                        32.119067
+                  ]
+            },
+            {
+                  "name": "اوكازيون محل جنيه",
+                  "text": "Această unitate este o atracție locală în Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.087964,
+                        32.109529
+                  ]
+            },
+            {
+                  "name": "حلواني النعم",
+                  "text": "Acest sit este o atracție comercială locală din Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.090919,
+                        32.101077
+                  ]
+            },
+            {
+                  "name": "شارع البث بنغازي",
+                  "text": "Această stradă servește ca un punct de belvedere cunoscut în Bengasi.",
+                  "category": "natural",
+                  "coords": [
+                        20.097916,
+                        32.120565
+                  ]
+            },
+            {
+                  "name": "ساحة الكيش",
+                  "text": "Piazza Al kesh este o atracție publică recunoscută în orașul Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.077248,
+                        32.092746
+                  ]
+            },
+            {
+                  "name": "معرض بنغازي التجاري",
+                  "text": "Benghazi exhibition Commercial funcționează ca un centru de artă în Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.067572,
+                        32.117584
+                  ]
+            },
+            {
+                  "name": "مصيف جليانة",
+                  "text": "Această zonă de coastă funcționează ca o stațiune pe plajă în Bengasi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.053431,
+                        32.101291
+                  ]
+            },
+            {
+                  "name": "معسكر الحسابات العسكرية بنغازي",
+                  "text": "Această locație specifică servește ca punct de belvedere în Bengasi.",
+                  "category": "natural",
+                  "coords": [
+                        20.074761,
+                        32.107484
+                  ]
+            },
+            {
+                  "name": "شركة الناقه لمعدات الورش",
+                  "text": "Această locație de afaceri este recunoscută ca un punct de interes local în Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.069546,
+                        32.115415
+                  ]
+            },
+            {
+                  "name": "بيت المدينة الثقافي",
+                  "text": "City culture center servește ca un monument important în Bengasi.",
+                  "category": "historical",
+                  "coords": [
+                        20.059764,
+                        32.119081
+                  ]
+            },
+            {
+                  "name": "ضريح عمر المختار",
+                  "text": "Acest mausoleu este o atracție istorică proeminentă în Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.068272,
+                        32.119432
+                  ]
+            },
+            {
+                  "name": "كاتدرائية بنغازي",
+                  "text": "Catedrala din Bengasi este un lăcaș de cult istoric în Bengasi.",
+                  "category": "religious",
+                  "coords": [
+                        20.05944,
+                        32.114202
+                  ]
+            },
+            {
+                  "name": "مسجد بنكاطو",
+                  "text": "Binqatou Mosque este un lăcaș de cult local situat în Bengasi.",
+                  "category": "religious",
+                  "coords": [
+                        20.058955,
+                        32.120229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatre",
+                  "text": "This venue operates as a theatre in the city of Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.078973,
+                        32.1231
+                  ]
+            },
+            {
+                  "name": "منارة بنغازي",
+                  "text": "This local landmark functions as a lighthouse in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.063595,
+                        32.12498
+                  ]
+            },
+            {
+                  "name": "المسرح الوطني",
+                  "text": "This is a cultural venue and theatre located in Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.083672,
+                        32.112289
+                  ]
+            },
+            {
+                  "name": "Sidi Oubed Cemetery",
+                  "text": "Sidi Oubed Cemetery is an archaeological site located in Bengasi.",
+                  "category": "historical",
+                  "coords": [
+                        20.087637,
+                        32.135093
+                  ]
+            },
+            {
+                  "name": "Local Culture Theater",
+                  "text": "The Local Culture Theater is an active performance space in Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.06095,
+                        32.114577
+                  ]
+            },
+            {
+                  "name": "Area L in Sidi Khiribech",
+                  "text": "Area L in Sidi Khiribech is an archaeological site located in Bengasi.",
+                  "category": "historical",
+                  "coords": [
+                        20.062387,
+                        32.124374
+                  ]
+            },
+            {
+                  "name": "Al Birka Palace",
+                  "text": "Al Birka Palace is a historical castle structure in Bengasi.",
+                  "category": "castle",
+                  "coords": [
+                        20.077825,
+                        32.095283
+                  ]
+            },
+            {
+                  "name": "Al Manar Palace",
+                  "text": "Al Manar Palace is a notable castle building situated in Bengasi.",
+                  "category": "castle",
+                  "coords": [
+                        20.058034,
+                        32.116694
+                  ]
+            },
+            {
+                  "name": "23rd July Lake",
+                  "text": "The 23rd July Lake is a coastal bay area located in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064446,
+                        32.105143
+                  ]
+            },
+            {
+                  "name": "سوق الحشيش",
+                  "text": "This local market and attraction is located in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.063695,
+                        32.119067
+                  ]
+            },
+            {
+                  "name": "اوكازيون محل جنيه",
+                  "text": "This establishment is a local attraction in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.087964,
+                        32.109529
+                  ]
+            },
+            {
+                  "name": "حلواني النعم",
+                  "text": "This site is a local commercial attraction located in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.090919,
+                        32.101077
+                  ]
+            },
+            {
+                  "name": "شارع البث بنغازي",
+                  "text": "This street serves as a popular viewpoint within Bengasi.",
+                  "category": "natural",
+                  "coords": [
+                        20.097916,
+                        32.120565
+                  ]
+            },
+            {
+                  "name": "Piazza Al kesh",
+                  "text": "Piazza Al kesh is a recognized public attraction in the city of Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.077248,
+                        32.092746
+                  ]
+            },
+            {
+                  "name": "Benghazi exhibition Commercial",
+                  "text": "The Benghazi exhibition Commercial serves as an arts centre in Bengasi.",
+                  "category": "cultural",
+                  "coords": [
+                        20.067572,
+                        32.117584
+                  ]
+            },
+            {
+                  "name": "مصيف جليانة",
+                  "text": "This coastal area functions as a beach resort in Bengasi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.053431,
+                        32.101291
+                  ]
+            },
+            {
+                  "name": "معسكر الحسابات العسكرية بنغازي",
+                  "text": "This specific location serves as a viewpoint in Bengasi.",
+                  "category": "natural",
+                  "coords": [
+                        20.074761,
+                        32.107484
+                  ]
+            },
+            {
+                  "name": "شركة الناقه لمعدات الورش",
+                  "text": "This business location is recognized as a local point of interest in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.069546,
+                        32.115415
+                  ]
+            },
+            {
+                  "name": "City culture center",
+                  "text": "The City culture center serves as an important monument in Bengasi.",
+                  "category": "historical",
+                  "coords": [
+                        20.059764,
+                        32.119081
+                  ]
+            },
+            {
+                  "name": "ضريح عمر المختار",
+                  "text": "The Omar Al-Mukhtar Mausoleum is a prominent historical attraction in Bengasi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.068272,
+                        32.119432
+                  ]
+            },
+            {
+                  "name": "Benghazi Cathedral",
+                  "text": "The Benghazi Cathedral is a historic place of worship and notable landmark in Bengasi.",
+                  "category": "religious",
+                  "coords": [
+                        20.05944,
+                        32.114202
+                  ]
+            },
+            {
+                  "name": "Binqatou Mosque",
+                  "text": "The Binqatou Mosque is a local place of worship situated in Bengasi.",
+                  "category": "religious",
+                  "coords": [
+                        20.058955,
+                        32.120229
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-BA",
     coords: [20.0667, 32.1167],
@@ -77,7 +878,700 @@ export const poiExtraLibyaCitiesV2: POI[] = [
       fr: ["Appelée à l'origine Bérénice.", "Plus important port de Cyrénaïque.", "Centre de la révolution libyenne de 2011.", "Deuxième centre économique du pays.", "Site historique du monde antique.", "Carrefour stratégique sur la Méditerranée."],
     }, image: "/poi-images/benghazi-cities-v2.webp"},
   {
-    id: "misrata-cities-v2",
+    id: "misrata-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "معرض الشهداء",
+                  "text": "Museum in Misrata.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            },
+            {
+                  "name": "المتحف التاريخي",
+                  "text": "Historisches Museum in Misrata.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري شهداء قزير",
+                  "text": "Denkmal in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.078408,
+                        32.351618
+                  ]
+            },
+            {
+                  "name": "شركة التقنية الذكية ﻷنظمة الحماية والمراقبة",
+                  "text": "Aussichtspunkt in Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "جزيرة ثورة الحجارة",
+                  "text": "Denkmal in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.098999,
+                        32.377284
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Attraktion in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "جزيرة الاسرة السعيدة",
+                  "text": "Denkmal am Kreisverkehr in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "نادي السويحلي",
+                  "text": "Club in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096278,
+                        32.38738
+                  ]
+            },
+            {
+                  "name": "جزيره قدح",
+                  "text": "Denkmal am Kreisverkehr in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "الثلاجة",
+                  "text": "Attraktion in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.104135,
+                        32.392057
+                  ]
+            },
+            {
+                  "name": "ارض الأطفال",
+                  "text": "Freizeitattraktion in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1112,
+                        32.357249
+                  ]
+            },
+            {
+                  "name": "مقبرة اولاد بعيو",
+                  "text": "Denkmal in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.082662,
+                        32.376892
+                  ]
+            },
+            {
+                  "name": "سما الدوليه",
+                  "text": "Attraktion in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "منتزه أرض الأطفال",
+                  "text": "Aussichtspunkt in Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.109604,
+                        32.356975
+                  ]
+            },
+            {
+                  "name": "شارع المطبات",
+                  "text": "Aussichtspunkt in Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.074293,
+                        32.375467
+                  ]
+            },
+            {
+                  "name": "جزيرة دوران فريفر",
+                  "text": "Denkmal in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.079567,
+                        32.384193
+                  ]
+            },
+            {
+                  "name": "جزيرة الدم",
+                  "text": "Denkmal in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.110561,
+                        32.38327
+                  ]
+            },
+            {
+                  "name": "فرحات شكولاته",
+                  "text": "Attraktion in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.07248,
+                        32.376308
+                  ]
+            },
+            {
+                  "name": "منزل نضال الأسطى",
+                  "text": "Aussichtspunkt in Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.090545,
+                        32.387235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "معرض الشهداء",
+                  "text": "Múzeum Misratában.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            },
+            {
+                  "name": "المتحف التاريخي",
+                  "text": "Történelmi múzeum Misratában.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري شهداء قزير",
+                  "text": "Emlékmű Misratában.",
+                  "category": "historical",
+                  "coords": [
+                        15.078408,
+                        32.351618
+                  ]
+            },
+            {
+                  "name": "شركة التقنية الذكية ﻷنظمة الحماية والمراقبة",
+                  "text": "Kilátópont Misratában.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "جزيرة ثورة الحجارة",
+                  "text": "Emlékmű Misratában.",
+                  "category": "historical",
+                  "coords": [
+                        15.098999,
+                        32.377284
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Látnivaló Misratában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "جزيرة الاسرة السعيدة",
+                  "text": "Emlékmű Misratában.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "نادي السويحلي",
+                  "text": "Klub Misratában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096278,
+                        32.38738
+                  ]
+            },
+            {
+                  "name": "جزيره قدح",
+                  "text": "Emlékmű Misratában.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "الثلاجة",
+                  "text": "Látnivaló Misratában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.104135,
+                        32.392057
+                  ]
+            },
+            {
+                  "name": "ارض الأطفال",
+                  "text": "Szabadidős látnivaló Misratában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1112,
+                        32.357249
+                  ]
+            },
+            {
+                  "name": "مقبرة اولاد بعيو",
+                  "text": "Emlékmű Misratában.",
+                  "category": "historical",
+                  "coords": [
+                        15.082662,
+                        32.376892
+                  ]
+            },
+            {
+                  "name": "سما الدوليه",
+                  "text": "Látnivaló Misratában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "منتزه أرض الأطفال",
+                  "text": "Kilátópont Misratában.",
+                  "category": "natural",
+                  "coords": [
+                        15.109604,
+                        32.356975
+                  ]
+            },
+            {
+                  "name": "شارع المطبات",
+                  "text": "Kilátópont Misratában.",
+                  "category": "natural",
+                  "coords": [
+                        15.074293,
+                        32.375467
+                  ]
+            },
+            {
+                  "name": "جزيرة دوران فريفر",
+                  "text": "Emlékmű Misratában.",
+                  "category": "historical",
+                  "coords": [
+                        15.079567,
+                        32.384193
+                  ]
+            },
+            {
+                  "name": "جزيرة الدم",
+                  "text": "Emlékmű Misratában.",
+                  "category": "historical",
+                  "coords": [
+                        15.110561,
+                        32.38327
+                  ]
+            },
+            {
+                  "name": "فرحات شكولاته",
+                  "text": "Látnivaló Misratában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.07248,
+                        32.376308
+                  ]
+            },
+            {
+                  "name": "منزل نضال الأسطى",
+                  "text": "Kilátópont Misratában.",
+                  "category": "natural",
+                  "coords": [
+                        15.090545,
+                        32.387235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "معرض الشهداء",
+                  "text": "Muzeu în Misrata.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            },
+            {
+                  "name": "المتحف التاريخي",
+                  "text": "Muzeu istoric în Misrata.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري شهداء قزير",
+                  "text": "Monument în Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.078408,
+                        32.351618
+                  ]
+            },
+            {
+                  "name": "شركة التقنية الذكية ﻷنظمة الحماية والمراقبة",
+                  "text": "Punct de belvedere în Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "جزيرة ثورة الحجارة",
+                  "text": "Monument în Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.098999,
+                        32.377284
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Atracție în Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "جزيرة الاسرة السعيدة",
+                  "text": "Monument în Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "نادي السويحلي",
+                  "text": "Club în Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096278,
+                        32.38738
+                  ]
+            },
+            {
+                  "name": "جزيره قدح",
+                  "text": "Monument în Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "الثلاجة",
+                  "text": "Atracție în Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.104135,
+                        32.392057
+                  ]
+            },
+            {
+                  "name": "ارض الأطفال",
+                  "text": "Atracție de agrement în Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1112,
+                        32.357249
+                  ]
+            },
+            {
+                  "name": "مقبرة اولاد بعيو",
+                  "text": "Monument în Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.082662,
+                        32.376892
+                  ]
+            },
+            {
+                  "name": "سما الدوليه",
+                  "text": "Atracție în Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "منتزه أرض الأطفال",
+                  "text": "Punct de belvedere în Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.109604,
+                        32.356975
+                  ]
+            },
+            {
+                  "name": "شارع المطبات",
+                  "text": "Punct de belvedere în Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.074293,
+                        32.375467
+                  ]
+            },
+            {
+                  "name": "جزيرة دوران فريفر",
+                  "text": "Monument în Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.079567,
+                        32.384193
+                  ]
+            },
+            {
+                  "name": "جزيرة الدم",
+                  "text": "Monument în Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.110561,
+                        32.38327
+                  ]
+            },
+            {
+                  "name": "فرحات شكولاته",
+                  "text": "Atracție în Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.07248,
+                        32.376308
+                  ]
+            },
+            {
+                  "name": "منزل نضال الأسطى",
+                  "text": "Punct de belvedere în Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.090545,
+                        32.387235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Martyrs monument",
+                  "text": "Museum in Misrata.",
+                  "category": "museum",
+                  "coords": [
+                        15.080692,
+                        32.366708
+                  ]
+            },
+            {
+                  "name": "Historical Museum",
+                  "text": "Historical museum in Misrata.",
+                  "category": "museum",
+                  "coords": [
+                        15.090913,
+                        32.375029
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري شهداء قزير",
+                  "text": "Monument in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.078408,
+                        32.351618
+                  ]
+            },
+            {
+                  "name": "Smart Technology Company for Protection and Monitoring Systems",
+                  "text": "Viewpoint in Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.097305,
+                        32.378596
+                  ]
+            },
+            {
+                  "name": "جزيرة ثورة الحجارة",
+                  "text": "Monument in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.098999,
+                        32.377284
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Attraction in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.115834,
+                        32.39073
+                  ]
+            },
+            {
+                  "name": "Roundabout",
+                  "text": "Monument in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.102782,
+                        32.37675
+                  ]
+            },
+            {
+                  "name": "نادي السويحلي",
+                  "text": "Attraction in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.096278,
+                        32.38738
+                  ]
+            },
+            {
+                  "name": "Gadah roundabout",
+                  "text": "Monument in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.076029,
+                        32.393097
+                  ]
+            },
+            {
+                  "name": "الثلاجة",
+                  "text": "Attraction in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.104135,
+                        32.392057
+                  ]
+            },
+            {
+                  "name": "ارض الأطفال",
+                  "text": "Attraction in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.1112,
+                        32.357249
+                  ]
+            },
+            {
+                  "name": "مقبرة اولاد بعيو",
+                  "text": "Monument in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.082662,
+                        32.376892
+                  ]
+            },
+            {
+                  "name": "Sama",
+                  "text": "Attraction in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.103131,
+                        32.351317
+                  ]
+            },
+            {
+                  "name": "منتزه أرض الأطفال",
+                  "text": "Viewpoint in Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.109604,
+                        32.356975
+                  ]
+            },
+            {
+                  "name": "شارع المطبات",
+                  "text": "Viewpoint in Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.074293,
+                        32.375467
+                  ]
+            },
+            {
+                  "name": "جزيرة دوران فريفر",
+                  "text": "Monument in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.079567,
+                        32.384193
+                  ]
+            },
+            {
+                  "name": "جزيرة الدم",
+                  "text": "Monument in Misrata.",
+                  "category": "historical",
+                  "coords": [
+                        15.110561,
+                        32.38327
+                  ]
+            },
+            {
+                  "name": "فرحات شكولاته",
+                  "text": "Attraction in Misrata.",
+                  "category": "landmark",
+                  "coords": [
+                        15.07248,
+                        32.376308
+                  ]
+            },
+            {
+                  "name": "منزل نضال الأسطى",
+                  "text": "Viewpoint in Misrata.",
+                  "category": "natural",
+                  "coords": [
+                        15.090545,
+                        32.387235
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-MI",
     coords: [15.0914, 32.3754],
@@ -123,7 +1617,160 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "bayda-cities-v2",
+    id: "bayda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قاعة البرلمان",
+                  "text": "Das Parlamentsgebäude ist eine schlossartige Struktur in Al-Baida.",
+                  "category": "castle",
+                  "coords": [
+                        21.74208,
+                        32.764853
+                  ]
+            },
+            {
+                  "name": "كوبري الغريقة",
+                  "text": "Die Al Ghariqa Brücke ist ein bemerkenswerter Aussichtspunkt in Al-Baida.",
+                  "category": "natural",
+                  "coords": [
+                        21.765412,
+                        32.753964
+                  ]
+            },
+            {
+                  "name": "كوبري الحمامة",
+                  "text": "Die Dove Bridge bietet als Aussichtspunkt in Al-Baida malerische Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        21.729725,
+                        32.765629
+                  ]
+            },
+            {
+                  "name": "جامع ام الصفصاف",
+                  "text": "Die Um Safsaf Moschee dient als Aussichtspunkt in Al-Baida.",
+                  "category": "natural",
+                  "coords": [
+                        21.740342,
+                        32.783603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قاعة البرلمان",
+                  "text": "A Parlament épülete egy kastélyszerű építmény Al-Baida városában.",
+                  "category": "castle",
+                  "coords": [
+                        21.74208,
+                        32.764853
+                  ]
+            },
+            {
+                  "name": "كوبري الغريقة",
+                  "text": "Az Al Ghariqa híd egy nevezetes kilátó Al-Baida városában.",
+                  "category": "natural",
+                  "coords": [
+                        21.765412,
+                        32.753964
+                  ]
+            },
+            {
+                  "name": "كوبري الحمامة",
+                  "text": "A Dove Bridge kilátóként festői kilátást nyújt Al-Baida városában.",
+                  "category": "natural",
+                  "coords": [
+                        21.729725,
+                        32.765629
+                  ]
+            },
+            {
+                  "name": "جامع ام الصفصاف",
+                  "text": "Az Um Safsaf mecset festői kilátóként is szolgál Al-Baida városában.",
+                  "category": "natural",
+                  "coords": [
+                        21.740342,
+                        32.783603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قاعة البرلمان",
+                  "text": "Clădirea Parlamentului este o structură asemănătoare unui castel din Al-Baida.",
+                  "category": "castle",
+                  "coords": [
+                        21.74208,
+                        32.764853
+                  ]
+            },
+            {
+                  "name": "كوبري الغريقة",
+                  "text": "Podul Al Ghariqa este un punct de belvedere notabil din Al-Baida.",
+                  "category": "natural",
+                  "coords": [
+                        21.765412,
+                        32.753964
+                  ]
+            },
+            {
+                  "name": "كوبري الحمامة",
+                  "text": "Podul Dove oferă vederi pitorești ca punct de belvedere în Al-Baida.",
+                  "category": "natural",
+                  "coords": [
+                        21.729725,
+                        32.765629
+                  ]
+            },
+            {
+                  "name": "جامع ام الصفصاف",
+                  "text": "Moscheea Um Safsaf servește drept punct de belvedere în Al-Baida.",
+                  "category": "natural",
+                  "coords": [
+                        21.740342,
+                        32.783603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parliament",
+                  "text": "The Parliament building is a castle-like structure located in Al-Baida.",
+                  "category": "castle",
+                  "coords": [
+                        21.74208,
+                        32.764853
+                  ]
+            },
+            {
+                  "name": "Al Ghariqa Bridge",
+                  "text": "Al Ghariqa Bridge is a notable viewpoint in Al-Baida.",
+                  "category": "natural",
+                  "coords": [
+                        21.765412,
+                        32.753964
+                  ]
+            },
+            {
+                  "name": "Dove Bridge",
+                  "text": "Dove Bridge offers scenic views as a viewpoint in Al-Baida.",
+                  "category": "natural",
+                  "coords": [
+                        21.729725,
+                        32.765629
+                  ]
+            },
+            {
+                  "name": "Um Safsaf Mosque",
+                  "text": "Um Safsaf Mosque serves as a scenic viewpoint in Al-Baida.",
+                  "category": "natural",
+                  "coords": [
+                        21.740342,
+                        32.783603
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JA",
     coords: [21.7500, 32.7667],
@@ -169,7 +1816,232 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "zawiya-cities-v2",
+    id: "zawiya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "جزيرة الريحانة",
+                  "text": "Alryhana ist eine lokale Attraktion in der Stadt Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.740612,
+                        32.757741
+                  ]
+            },
+            {
+                  "name": "جزيرة الضمان",
+                  "text": "Dieser Kreisverkehr dient als markante Attraktion in Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72454,
+                        32.752867
+                  ]
+            },
+            {
+                  "name": "جزيرة المعسكر",
+                  "text": "Dieser Ort ist eine bekannte Attraktion in Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.733855,
+                        32.754932
+                  ]
+            },
+            {
+                  "name": "جزيرة هويسة",
+                  "text": "Diese Insel oder dieser Kreisverkehr ist eine Attraktion in Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.727507,
+                        32.75612
+                  ]
+            },
+            {
+                  "name": "جزيرة الركينة",
+                  "text": "Dieses lokale Wahrzeichen ist eine anerkannte Attraktion in Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.704695,
+                        32.760679
+                  ]
+            },
+            {
+                  "name": "كاشف القناعة",
+                  "text": "Diese Sehenswürdigkeit ist eine ausgewiesene Attraktion in Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.736635,
+                        32.761007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "جزيرة الريحانة",
+                  "text": "Alryhana egy helyi látványosság Zawia városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.740612,
+                        32.757741
+                  ]
+            },
+            {
+                  "name": "جزيرة الضمان",
+                  "text": "Ez a körforgalom kiemelkedő látványosságként szolgál Zawiában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72454,
+                        32.752867
+                  ]
+            },
+            {
+                  "name": "جزيرة المعسكر",
+                  "text": "Ez a helyszín egy jól ismert látványosság Zawiában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.733855,
+                        32.754932
+                  ]
+            },
+            {
+                  "name": "جزيرة هويسة",
+                  "text": "Ez a sziget vagy körforgalom egy látványosság Zawiában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.727507,
+                        32.75612
+                  ]
+            },
+            {
+                  "name": "جزيرة الركينة",
+                  "text": "Ez a helyi nevezetesség egy elismert látványosság Zawiában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.704695,
+                        32.760679
+                  ]
+            },
+            {
+                  "name": "كاشف القناعة",
+                  "text": "Ez az érdekes hely egy kijelölt látványosság Zawiában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.736635,
+                        32.761007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "جزيرة الريحانة",
+                  "text": "Alryhana este o atracție locală situată în orașul Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.740612,
+                        32.757741
+                  ]
+            },
+            {
+                  "name": "جزيرة الضمان",
+                  "text": "Acest sens giratoriu servește ca o atracție proeminentă în Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72454,
+                        32.752867
+                  ]
+            },
+            {
+                  "name": "جزيرة المعسكر",
+                  "text": "Această locație specifică este o atracție binecunoscută în Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.733855,
+                        32.754932
+                  ]
+            },
+            {
+                  "name": "جزيرة هويسة",
+                  "text": "Această insulă sau sens giratoriu este o atracție notabilă în Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.727507,
+                        32.75612
+                  ]
+            },
+            {
+                  "name": "جزيرة الركينة",
+                  "text": "Acest reper local este o atracție recunoscută din Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.704695,
+                        32.760679
+                  ]
+            },
+            {
+                  "name": "كاشف القناعة",
+                  "text": "Acest punct de interes este o atracție desemnată în Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.736635,
+                        32.761007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alryhana",
+                  "text": "Alryhana is a local attraction located in the city of Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.740612,
+                        32.757741
+                  ]
+            },
+            {
+                  "name": "جزيرة الضمان",
+                  "text": "This roundabout serves as a prominent attraction in Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72454,
+                        32.752867
+                  ]
+            },
+            {
+                  "name": "جزيرة المعسكر",
+                  "text": "This specific location is a well-known attraction in Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.733855,
+                        32.754932
+                  ]
+            },
+            {
+                  "name": "جزيرة هويسة",
+                  "text": "This island or roundabout is a notable attraction in Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.727507,
+                        32.75612
+                  ]
+            },
+            {
+                  "name": "جزيرة الركينة",
+                  "text": "This local landmark is a recognized attraction situated in Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.704695,
+                        32.760679
+                  ]
+            },
+            {
+                  "name": "كاشف القناعة",
+                  "text": "This point of interest is a designated attraction in Zawia.",
+                  "category": "landmark",
+                  "coords": [
+                        12.736635,
+                        32.761007
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-ZA",
     coords: [12.7278, 32.7522],
@@ -261,7 +2133,304 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "sirte-cities-v2",
+    id: "sirte-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسرح سرت",
+                  "text": "Das Sirte Theater ist ein lokaler Veranstaltungsort für darstellende Künste in Sirte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.572443,
+                        31.20254
+                  ]
+            },
+            {
+                  "name": "شاطئ سرت",
+                  "text": "Der Sirte Beach ist ein beliebtes Küstengebiet und ein Strand in Sirte.",
+                  "category": "recreational",
+                  "coords": [
+                        16.569715,
+                        31.211841
+                  ]
+            },
+            {
+                  "name": "Destroyed by Oddyssey Dawn",
+                  "text": "عمارات شارع دبي ist eine Sehenswürdigkeit in der Stadt Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.583133,
+                        31.200789
+                  ]
+            },
+            {
+                  "name": "شارع المقبرة",
+                  "text": "شارع المقبرة ist eine lokale Sehenswürdigkeit in Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.592689,
+                        31.206095
+                  ]
+            },
+            {
+                  "name": "عماد الزياني",
+                  "text": "عماد الزياني ist eine bemerkenswerte lokale Attraktion in Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.594796,
+                        31.202356
+                  ]
+            },
+            {
+                  "name": "فرج قريرة",
+                  "text": "فرج قريرة ist als Attraktion in der Stadt Sirte anerkannt.",
+                  "category": "landmark",
+                  "coords": [
+                        16.614639,
+                        31.198143
+                  ]
+            },
+            {
+                  "name": "مهدي",
+                  "text": "مهدي ist eine Sehenswürdigkeit und Attraktion in Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.598937,
+                        31.199709
+                  ]
+            },
+            {
+                  "name": "خالد",
+                  "text": "خالد ist eine lokale Sehenswürdigkeit in Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.568735,
+                        31.203675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسرح سرت",
+                  "text": "A Sirte Színház egy helyi előadóművészeti helyszín Sirte városában.",
+                  "category": "cultural",
+                  "coords": [
+                        16.572443,
+                        31.20254
+                  ]
+            },
+            {
+                  "name": "شاطئ سرت",
+                  "text": "A Sirte-tengerpart egy népszerű partszakasz és strand Sirte városában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.569715,
+                        31.211841
+                  ]
+            },
+            {
+                  "name": "Destroyed by Oddyssey Dawn",
+                  "text": "Az عمارات شارع دبي egy látványosság Sirte városában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.583133,
+                        31.200789
+                  ]
+            },
+            {
+                  "name": "شارع المقبرة",
+                  "text": "A شارع المقبرة egy helyi látványosság Sirte területén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.592689,
+                        31.206095
+                  ]
+            },
+            {
+                  "name": "عماد الزياني",
+                  "text": "Az عماد الزياني egy nevezetes helyi látványosság Sirte városában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.594796,
+                        31.202356
+                  ]
+            },
+            {
+                  "name": "فرج قريرة",
+                  "text": "A فرج قريرة egy látványosságként ismert hely Sirte városában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.614639,
+                        31.198143
+                  ]
+            },
+            {
+                  "name": "مهدي",
+                  "text": "A مهدي egy érdekes pont és látványosság Sirte városában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.598937,
+                        31.199709
+                  ]
+            },
+            {
+                  "name": "خالد",
+                  "text": "A خالد egy helyi látványosság Sirte területén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.568735,
+                        31.203675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسرح سرت",
+                  "text": "Teatrul Sirte este un loc de artă a spectacolului din Sirte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.572443,
+                        31.20254
+                  ]
+            },
+            {
+                  "name": "شاطئ سرت",
+                  "text": "Plaja Sirte este o zonă de coastă și o plajă populară din Sirte.",
+                  "category": "recreational",
+                  "coords": [
+                        16.569715,
+                        31.211841
+                  ]
+            },
+            {
+                  "name": "Destroyed by Oddyssey Dawn",
+                  "text": "عمارات شارع دبي este o atracție din orașul Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.583133,
+                        31.200789
+                  ]
+            },
+            {
+                  "name": "شارع المقبرة",
+                  "text": "شارع المقبرة este o atracție locală din Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.592689,
+                        31.206095
+                  ]
+            },
+            {
+                  "name": "عماد الزياني",
+                  "text": "عماد الزياني este o atracție locală notabilă din Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.594796,
+                        31.202356
+                  ]
+            },
+            {
+                  "name": "فرج قريرة",
+                  "text": "فرج قريرة este recunoscută ca o atracție în orașul Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.614639,
+                        31.198143
+                  ]
+            },
+            {
+                  "name": "مهدي",
+                  "text": "مهدي este un punct de interes și o atracție în Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.598937,
+                        31.199709
+                  ]
+            },
+            {
+                  "name": "خالد",
+                  "text": "خالد este o atracție locală găsită în Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.568735,
+                        31.203675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sirte Theater",
+                  "text": "Sirte Theater is a local performing arts venue in Sirte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.572443,
+                        31.20254
+                  ]
+            },
+            {
+                  "name": "Sirte Beach",
+                  "text": "Sirte Beach is a popular coastal area and beach in Sirte.",
+                  "category": "recreational",
+                  "coords": [
+                        16.569715,
+                        31.211841
+                  ]
+            },
+            {
+                  "name": "عمارات شارع دبي",
+                  "text": "عمارات شارع دبي is an attraction found in the city of Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.583133,
+                        31.200789
+                  ]
+            },
+            {
+                  "name": "شارع المقبرة",
+                  "text": "شارع المقبرة is a local attraction located in Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.592689,
+                        31.206095
+                  ]
+            },
+            {
+                  "name": "عماد الزياني",
+                  "text": "عماد الزياني is a notable local attraction situated in Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.594796,
+                        31.202356
+                  ]
+            },
+            {
+                  "name": "فرج قريرة",
+                  "text": "فرج قريرة is recognized as an attraction in the city of Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.614639,
+                        31.198143
+                  ]
+            },
+            {
+                  "name": "مهدي",
+                  "text": "مهدي is a point of interest and attraction in Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.598937,
+                        31.199709
+                  ]
+            },
+            {
+                  "name": "خالد",
+                  "text": "خالد is a local tourist attraction found in Sirte.",
+                  "category": "landmark",
+                  "coords": [
+                        16.568735,
+                        31.203675
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-SR",
     coords: [16.5877, 31.2089],
@@ -307,7 +2476,268 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "tobruk-cities-v2",
+    id: "tobruk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "المتحف الوطني",
+                  "text": "Das Nationalmuseum ist eine Institution für Geschichte und Kultur in Tobruk.",
+                  "category": "museum",
+                  "coords": [
+                        23.976645,
+                        32.081912
+                  ]
+            },
+            {
+                  "name": "سان جورج",
+                  "text": "San Gorge Beach ist ein öffentlicher Strand in Tobruk.",
+                  "category": "recreational",
+                  "coords": [
+                        23.999224,
+                        32.074285
+                  ]
+            },
+            {
+                  "name": "شاطيء الليدو",
+                  "text": "Alledo beach ist ein Küstenort in Tobruk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.003412,
+                        32.07952
+                  ]
+            },
+            {
+                  "name": "خليج طبرق",
+                  "text": "Tobruk's Bay bietet einen malerischen Aussichtspunkt in Tobruk.",
+                  "category": "natural",
+                  "coords": [
+                        23.976157,
+                        32.072806
+                  ]
+            },
+            {
+                  "name": "شارع الليدو",
+                  "text": "Die Lido-Straße bietet bemerkenswerte Aussichtspunkte in der Stadt Tobruk.",
+                  "category": "natural",
+                  "coords": [
+                        24.003085,
+                        32.077131
+                  ]
+            },
+            {
+                  "name": "سفينة الكوبري",
+                  "text": "Dieser Ort fungiert als markanter Aussichtspunkt in Tobruk.",
+                  "category": "natural",
+                  "coords": [
+                        23.97122,
+                        32.080435
+                  ]
+            },
+            {
+                  "name": "بتية العشر قروش",
+                  "text": "Dieses lokale Wahrzeichen ist eine Attraktion in Tobruk.",
+                  "category": "landmark",
+                  "coords": [
+                        24.00433,
+                        32.080949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "المتحف الوطني",
+                  "text": "A National Museum egy történelemmel és kultúrával foglalkozó múzeum Tobrukban.",
+                  "category": "museum",
+                  "coords": [
+                        23.976645,
+                        32.081912
+                  ]
+            },
+            {
+                  "name": "سان جورج",
+                  "text": "A San Gorge Beach egy nyilvános tengerparti terület Tobrukban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.999224,
+                        32.074285
+                  ]
+            },
+            {
+                  "name": "شاطيء الليدو",
+                  "text": "Az Alledo beach egy tengerparti célpont Tobrukban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.003412,
+                        32.07952
+                  ]
+            },
+            {
+                  "name": "خليج طبرق",
+                  "text": "A Tobruk's Bay festői kilátást nyújt a vízre Tobrukban.",
+                  "category": "natural",
+                  "coords": [
+                        23.976157,
+                        32.072806
+                  ]
+            },
+            {
+                  "name": "شارع الليدو",
+                  "text": "A Lido utca figyelemre méltó kilátópontokat kínál Tobruk városában.",
+                  "category": "natural",
+                  "coords": [
+                        24.003085,
+                        32.077131
+                  ]
+            },
+            {
+                  "name": "سفينة الكوبري",
+                  "text": "Ez a helyszín egy jellegzetes kilátópontként működik Tobrukban.",
+                  "category": "natural",
+                  "coords": [
+                        23.97122,
+                        32.080435
+                  ]
+            },
+            {
+                  "name": "بتية العشر قروش",
+                  "text": "Ez a helyi nevezetesség látványosságként szolgál Tobrukban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.00433,
+                        32.080949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "المتحف الوطني",
+                  "text": "National Museum este o instituție dedicată istoriei și culturii în Tobruk.",
+                  "category": "museum",
+                  "coords": [
+                        23.976645,
+                        32.081912
+                  ]
+            },
+            {
+                  "name": "سان جورج",
+                  "text": "San Gorge Beach este o zonă publică de coastă în Tobruk.",
+                  "category": "recreational",
+                  "coords": [
+                        23.999224,
+                        32.074285
+                  ]
+            },
+            {
+                  "name": "شاطيء الليدو",
+                  "text": "Alledo beach este o destinație pe litoral situată în Tobruk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.003412,
+                        32.07952
+                  ]
+            },
+            {
+                  "name": "خليج طبرق",
+                  "text": "Tobruk's Bay oferă un punct de belvedere pitoresc în Tobruk.",
+                  "category": "natural",
+                  "coords": [
+                        23.976157,
+                        32.072806
+                  ]
+            },
+            {
+                  "name": "شارع الليدو",
+                  "text": "Strada Lido oferă puncte de belvedere notabile în orașul Tobruk.",
+                  "category": "natural",
+                  "coords": [
+                        24.003085,
+                        32.077131
+                  ]
+            },
+            {
+                  "name": "سفينة الكوبري",
+                  "text": "Această locație acționează ca un punct de belvedere distinctiv în Tobruk.",
+                  "category": "natural",
+                  "coords": [
+                        23.97122,
+                        32.080435
+                  ]
+            },
+            {
+                  "name": "بتية العشر قروش",
+                  "text": "Acest punct de reper local servește drept atracție în Tobruk.",
+                  "category": "landmark",
+                  "coords": [
+                        24.00433,
+                        32.080949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "the National Museum",
+                  "text": "The National Museum is an institution dedicated to history and culture in Tobruk.",
+                  "category": "museum",
+                  "coords": [
+                        23.976645,
+                        32.081912
+                  ]
+            },
+            {
+                  "name": "San Gorge Beach",
+                  "text": "San Gorge Beach is a public coastal area in Tobruk.",
+                  "category": "recreational",
+                  "coords": [
+                        23.999224,
+                        32.074285
+                  ]
+            },
+            {
+                  "name": "Alledo beach",
+                  "text": "Alledo beach is a seaside destination located in Tobruk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.003412,
+                        32.07952
+                  ]
+            },
+            {
+                  "name": "Tobruk’s Bay",
+                  "text": "Tobruk’s Bay provides a scenic viewpoint over the water in Tobruk.",
+                  "category": "natural",
+                  "coords": [
+                        23.976157,
+                        32.072806
+                  ]
+            },
+            {
+                  "name": "شارع الليدو",
+                  "text": "Lido Street offers notable viewpoints within the city of Tobruk.",
+                  "category": "natural",
+                  "coords": [
+                        24.003085,
+                        32.077131
+                  ]
+            },
+            {
+                  "name": "bridge's ship",
+                  "text": "The bridge's ship location acts as a distinctive viewpoint in Tobruk.",
+                  "category": "natural",
+                  "coords": [
+                        23.97122,
+                        32.080435
+                  ]
+            },
+            {
+                  "name": "بتية العشر قروش",
+                  "text": "This local landmark serves as an attraction in Tobruk.",
+                  "category": "landmark",
+                  "coords": [
+                        24.00433,
+                        32.080949
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-BU",
     coords: [23.9764, 32.0836],
@@ -399,7 +2829,52 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "derna-cities-v2",
+    id: "derna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "سد وادي درنة",
+                  "text": "Die Ruinen des Derna-Staudamms befinden sich in der Stadt Derna.",
+                  "category": "historical",
+                  "coords": [
+                        22.631422,
+                        32.753044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "سد وادي درنة",
+                  "text": "A Dernai gát romjai Derna városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        22.631422,
+                        32.753044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "سد وادي درنة",
+                  "text": "Ruinele barajului Derna sunt situate în orașul Derna.",
+                  "category": "historical",
+                  "coords": [
+                        22.631422,
+                        32.753044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "سد وادي درنة",
+                  "text": "The ruins of the Derna Dam are located in the city of Derna.",
+                  "category": "historical",
+                  "coords": [
+                        22.631422,
+                        32.753044
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-DR",
     coords: [22.6367, 32.7627],
@@ -445,7 +2920,124 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "sabha-cities-v2",
+    id: "sabha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسرح الفنون الشعبيه سبها",
+                  "text": "Das Teatro Sabha ist ein Veranstaltungsort und ein lokales Theater in Sebha.",
+                  "category": "cultural",
+                  "coords": [
+                        14.425258,
+                        27.042611
+                  ]
+            },
+            {
+                  "name": "عمارات القرضة",
+                  "text": "Diese Gebäude sind eine bekannte lokale Attraktion in Sebha.",
+                  "category": "landmark",
+                  "coords": [
+                        14.431158,
+                        27.023456
+                  ]
+            },
+            {
+                  "name": "المدينه القديمه",
+                  "text": "Das Gebiet der Altstadt weist historische Ruinen in Sebha auf.",
+                  "category": "historical",
+                  "coords": [
+                        14.41337,
+                        27.049943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسرح الفنون الشعبيه سبها",
+                  "text": "A Teatro Sabha egy előadóhely és helyi színház Sebhában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.425258,
+                        27.042611
+                  ]
+            },
+            {
+                  "name": "عمارات القرضة",
+                  "text": "Ezek az épületek ismert helyi látványosságok Sebhában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.431158,
+                        27.023456
+                  ]
+            },
+            {
+                  "name": "المدينه القديمه",
+                  "text": "Az óváros történelmi romokkal rendelkezik Sebhában.",
+                  "category": "historical",
+                  "coords": [
+                        14.41337,
+                        27.049943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسرح الفنون الشعبيه سبها",
+                  "text": "Teatro Sabha este un loc pentru spectacole și un teatru local în Sebha.",
+                  "category": "cultural",
+                  "coords": [
+                        14.425258,
+                        27.042611
+                  ]
+            },
+            {
+                  "name": "عمارات القرضة",
+                  "text": "Aceste clădiri sunt o atracție locală cunoscută în Sebha.",
+                  "category": "landmark",
+                  "coords": [
+                        14.431158,
+                        27.023456
+                  ]
+            },
+            {
+                  "name": "المدينه القديمه",
+                  "text": "Zona Orașului Vechi prezintă ruine istorice situate în Sebha.",
+                  "category": "historical",
+                  "coords": [
+                        14.41337,
+                        27.049943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Sabha",
+                  "text": "Teatro Sabha is a venue for performances and a local theatre in Sebha.",
+                  "category": "cultural",
+                  "coords": [
+                        14.425258,
+                        27.042611
+                  ]
+            },
+            {
+                  "name": "عمارات القرضة",
+                  "text": "The Al-Qardha Buildings are a known local attraction in Sebha.",
+                  "category": "landmark",
+                  "coords": [
+                        14.431158,
+                        27.023456
+                  ]
+            },
+            {
+                  "name": "Old Town",
+                  "text": "The Old Town area features historical ruins located in Sebha.",
+                  "category": "historical",
+                  "coords": [
+                        14.41337,
+                        27.049943
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-SB",
     coords: [14.4283, 27.0377],
@@ -491,7 +3083,340 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "khoms-cities-v2",
+    id: "khoms-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "لبدة الكبرى",
+                  "text": "Antike Stadt in Al-Chums, ehemals Teil des Römischen Reiches.",
+                  "category": "historical",
+                  "coords": [
+                        14.296914,
+                        32.636494
+                  ]
+            },
+            {
+                  "name": "Leptis Magna Museum",
+                  "text": "Museum in Al-Chums.",
+                  "category": "museum",
+                  "coords": [
+                        14.288587,
+                        32.634372
+                  ]
+            },
+            {
+                  "name": "منارة الخمس",
+                  "text": "Leuchtturm in Al-Chums.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268834,
+                        32.657006
+                  ]
+            },
+            {
+                  "name": "شاطئ الخمس",
+                  "text": "Strand in Al-Chums.",
+                  "category": "recreational",
+                  "coords": [
+                        14.257871,
+                        32.661389
+                  ]
+            },
+            {
+                  "name": "Chalcidicum von Leptis Magna",
+                  "text": "Ruinen in Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.291001,
+                        32.637673
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius",
+                  "text": "Römischer Triumphbogen in Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.2862,
+                        32.63851
+                  ]
+            },
+            {
+                  "name": "Arch of Antonius Pius",
+                  "text": "Denkmal in Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.287241,
+                        32.63765
+                  ]
+            },
+            {
+                  "name": "محمود الوحيشي",
+                  "text": "Attraktion in Al-Chums.",
+                  "category": "landmark",
+                  "coords": [
+                        14.265712,
+                        32.644151
+                  ]
+            },
+            {
+                  "name": "قوس سيبتموس سيفيروس",
+                  "text": "Denkmal in Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.289156,
+                        32.635643
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "لبدة الكبرى",
+                  "text": "Ókori város Al-Chums-ban, egykor a Római Birodalom része.",
+                  "category": "historical",
+                  "coords": [
+                        14.296914,
+                        32.636494
+                  ]
+            },
+            {
+                  "name": "Leptis Magna Museum",
+                  "text": "Múzeum Al-Chums-ban.",
+                  "category": "museum",
+                  "coords": [
+                        14.288587,
+                        32.634372
+                  ]
+            },
+            {
+                  "name": "منارة الخمس",
+                  "text": "Világítótorony Al-Chums-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268834,
+                        32.657006
+                  ]
+            },
+            {
+                  "name": "شاطئ الخمس",
+                  "text": "Strand Al-Chums-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.257871,
+                        32.661389
+                  ]
+            },
+            {
+                  "name": "كالكيديوم",
+                  "text": "Romok Al-Chums-ban.",
+                  "category": "historical",
+                  "coords": [
+                        14.291001,
+                        32.637673
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius",
+                  "text": "Római diadalív Al-Chums-ban.",
+                  "category": "historical",
+                  "coords": [
+                        14.2862,
+                        32.63851
+                  ]
+            },
+            {
+                  "name": "Arch of Antonius Pius",
+                  "text": "Emlékmű Al-Chums-ban.",
+                  "category": "historical",
+                  "coords": [
+                        14.287241,
+                        32.63765
+                  ]
+            },
+            {
+                  "name": "محمود الوحيشي",
+                  "text": "Látnivaló Al-Chums-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.265712,
+                        32.644151
+                  ]
+            },
+            {
+                  "name": "قوس سيبتموس سيفيروس",
+                  "text": "Emlékmű Al-Chums-ban.",
+                  "category": "historical",
+                  "coords": [
+                        14.289156,
+                        32.635643
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "لبدة الكبرى",
+                  "text": "Oraș antic în Al-Chums, fostă parte a Imperiului Roman.",
+                  "category": "historical",
+                  "coords": [
+                        14.296914,
+                        32.636494
+                  ]
+            },
+            {
+                  "name": "Leptis Magna Museum",
+                  "text": "Muzeu în Al-Chums.",
+                  "category": "museum",
+                  "coords": [
+                        14.288587,
+                        32.634372
+                  ]
+            },
+            {
+                  "name": "منارة الخمس",
+                  "text": "Far în Al-Chums.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268834,
+                        32.657006
+                  ]
+            },
+            {
+                  "name": "شاطئ الخمس",
+                  "text": "Plajă în Al-Chums.",
+                  "category": "recreational",
+                  "coords": [
+                        14.257871,
+                        32.661389
+                  ]
+            },
+            {
+                  "name": "كالكيديوم",
+                  "text": "Ruine în Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.291001,
+                        32.637673
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius",
+                  "text": "Arc de triumf roman în Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.2862,
+                        32.63851
+                  ]
+            },
+            {
+                  "name": "Arch of Antonius Pius",
+                  "text": "Monument în Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.287241,
+                        32.63765
+                  ]
+            },
+            {
+                  "name": "محمود الوحيشي",
+                  "text": "Atracție în Al-Chums.",
+                  "category": "landmark",
+                  "coords": [
+                        14.265712,
+                        32.644151
+                  ]
+            },
+            {
+                  "name": "قوس سيبتموس سيفيروس",
+                  "text": "Monument în Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.289156,
+                        32.635643
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lepcis Magna",
+                  "text": "Ancient city in Al-Chums, formerly part of the Roman Empire.",
+                  "category": "historical",
+                  "coords": [
+                        14.296914,
+                        32.636494
+                  ]
+            },
+            {
+                  "name": "Leptis Magna Museum",
+                  "text": "Museum in Al-Chums.",
+                  "category": "museum",
+                  "coords": [
+                        14.288587,
+                        32.634372
+                  ]
+            },
+            {
+                  "name": "Lighthouse of Khoms",
+                  "text": "Lighthouse in Al-Chums.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268834,
+                        32.657006
+                  ]
+            },
+            {
+                  "name": "Al Khoms Beach",
+                  "text": "Beach in Al-Chums.",
+                  "category": "recreational",
+                  "coords": [
+                        14.257871,
+                        32.661389
+                  ]
+            },
+            {
+                  "name": "كالكيديوم",
+                  "text": "Ruins in Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.291001,
+                        32.637673
+                  ]
+            },
+            {
+                  "name": "Arch of Marcus Aurelius",
+                  "text": "Roman triumphal arch in Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.2862,
+                        32.63851
+                  ]
+            },
+            {
+                  "name": "Arch of Antonius Pius",
+                  "text": "Monument in Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.287241,
+                        32.63765
+                  ]
+            },
+            {
+                  "name": "محمود الوحيشي",
+                  "text": "Attraction in Al-Chums.",
+                  "category": "landmark",
+                  "coords": [
+                        14.265712,
+                        32.644151
+                  ]
+            },
+            {
+                  "name": "Arch of Septimius Severus",
+                  "text": "Monument in Al-Chums.",
+                  "category": "historical",
+                  "coords": [
+                        14.289156,
+                        32.635643
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-MB",
     coords: [14.2619, 32.6486],
@@ -537,7 +3462,268 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "bani-walid-cities-v2",
+    id: "bani-walid-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف بني وليد الأثري",
+                  "text": "Das Bani Walid Museum ist ein bekanntes archäologisches Museum in Bani Walid.",
+                  "category": "museum",
+                  "coords": [
+                        14.018116,
+                        31.755305
+                  ]
+            },
+            {
+                  "name": "مسرح الثانوية",
+                  "text": "Das Theatro ist ein Theater in Bani Walid.",
+                  "category": "cultural",
+                  "coords": [
+                        14.010016,
+                        31.740192
+                  ]
+            },
+            {
+                  "name": "حي التخاخة القديم",
+                  "text": "Diese alten Häuser sind historische Ruinen in Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        13.978599,
+                        31.755139
+                  ]
+            },
+            {
+                  "name": "معارك قصر بني وليد 1913:2011",
+                  "text": "Qasr Bani Walid Battles 2011: 1913 ist ein Denkmal in Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        14.017782,
+                        31.758355
+                  ]
+            },
+            {
+                  "name": "الخرب",
+                  "text": "الخرب ist eine Stätte historischer Ruinen in Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        13.993847,
+                        31.765526
+                  ]
+            },
+            {
+                  "name": "عمران أبوحريبة",
+                  "text": "عمران أبوحريبة ist ein Aussichtspunkt in Bani Walid.",
+                  "category": "natural",
+                  "coords": [
+                        13.982527,
+                        31.73987
+                  ]
+            },
+            {
+                  "name": "النصب التذكاري لمعركة الدوايرة 2011",
+                  "text": "Addawaira Battale ist ein Denkmal in Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        14.000646,
+                        31.776149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف بني وليد الأثري",
+                  "text": "A Bani Walid Múzeum egy ismert régészeti múzeum Bani Walid városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.018116,
+                        31.755305
+                  ]
+            },
+            {
+                  "name": "مسرح الثانوية",
+                  "text": "A Theatro egy színház Bani Walid városában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.010016,
+                        31.740192
+                  ]
+            },
+            {
+                  "name": "حي التخاخة القديم",
+                  "text": "Ezek a régi házak történelmi romokat képviselnek Bani Walid városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.978599,
+                        31.755139
+                  ]
+            },
+            {
+                  "name": "معارك قصر بني وليد 1913:2011",
+                  "text": "A Qasr Bani Walid Battles 2011: 1913 egy emlékmű Bani Walid városában.",
+                  "category": "historical",
+                  "coords": [
+                        14.017782,
+                        31.758355
+                  ]
+            },
+            {
+                  "name": "الخرب",
+                  "text": "Az الخرب egy történelmi romokat rejtő terület Bani Walid városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.993847,
+                        31.765526
+                  ]
+            },
+            {
+                  "name": "عمران أبوحريبة",
+                  "text": "A عمران أبوحريبة egy kilátópont Bani Walid városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.982527,
+                        31.73987
+                  ]
+            },
+            {
+                  "name": "النصب التذكاري لمعركة الدوايرة 2011",
+                  "text": "Az Addawaira Battale egy emlékmű Bani Walid városában.",
+                  "category": "historical",
+                  "coords": [
+                        14.000646,
+                        31.776149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف بني وليد الأثري",
+                  "text": "Muzeul Bani Walid este un cunoscut muzeu arheologic situat în Bani Walid.",
+                  "category": "museum",
+                  "coords": [
+                        14.018116,
+                        31.755305
+                  ]
+            },
+            {
+                  "name": "مسرح الثانوية",
+                  "text": "Theatro este un teatru situat în Bani Walid.",
+                  "category": "cultural",
+                  "coords": [
+                        14.010016,
+                        31.740192
+                  ]
+            },
+            {
+                  "name": "حي التخاخة القديم",
+                  "text": "Aceste case vechi reprezintă ruine istorice din Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        13.978599,
+                        31.755139
+                  ]
+            },
+            {
+                  "name": "معارك قصر بني وليد 1913:2011",
+                  "text": "Qasr Bani Walid Battles 2011: 1913 este un monument situat în Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        14.017782,
+                        31.758355
+                  ]
+            },
+            {
+                  "name": "الخرب",
+                  "text": "الخرب este un sit de ruine istorice situat în Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        13.993847,
+                        31.765526
+                  ]
+            },
+            {
+                  "name": "عمران أبوحريبة",
+                  "text": "عمران أبوحريبة este un punct de belvedere situat în Bani Walid.",
+                  "category": "natural",
+                  "coords": [
+                        13.982527,
+                        31.73987
+                  ]
+            },
+            {
+                  "name": "النصب التذكاري لمعركة الدوايرة 2011",
+                  "text": "Addawaira Battale este un monument situat în Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        14.000646,
+                        31.776149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bani Walid Museum",
+                  "text": "Bani Walid Museum is a known archaeological museum located in Bani Walid.",
+                  "category": "museum",
+                  "coords": [
+                        14.018116,
+                        31.755305
+                  ]
+            },
+            {
+                  "name": "Theatro",
+                  "text": "Theatro is a local theatre venue situated in Bani Walid.",
+                  "category": "cultural",
+                  "coords": [
+                        14.010016,
+                        31.740192
+                  ]
+            },
+            {
+                  "name": "old houses",
+                  "text": "These old houses represent historical ruins located in Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        13.978599,
+                        31.755139
+                  ]
+            },
+            {
+                  "name": "Qasr Bani Walid Battles 2011: 1913",
+                  "text": "Qasr Bani Walid Battles 2011: 1913 is a local monument situated in Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        14.017782,
+                        31.758355
+                  ]
+            },
+            {
+                  "name": "الخرب",
+                  "text": "الخرب is a site of historic ruins located in Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        13.993847,
+                        31.765526
+                  ]
+            },
+            {
+                  "name": "عمران أبوحريبة",
+                  "text": "عمران أبوحريبة is a scenic viewpoint located in Bani Walid.",
+                  "category": "natural",
+                  "coords": [
+                        13.982527,
+                        31.73987
+                  ]
+            },
+            {
+                  "name": "Addawaira Battale",
+                  "text": "Addawaira Battale is a monument located in Bani Walid.",
+                  "category": "historical",
+                  "coords": [
+                        14.000646,
+                        31.776149
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-MI",
     coords: [13.9942, 31.7581],
@@ -721,7 +3907,160 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "zuwara-cities-v2",
+    id: "zuwara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسرح زوارة",
+                  "text": "Das Theatre Zuara ist ein kultureller Veranstaltungsort in Zuwara.",
+                  "category": "cultural",
+                  "coords": [
+                        12.086329,
+                        32.933061
+                  ]
+            },
+            {
+                  "name": "جمعية زوارة للهوية و التراث",
+                  "text": "جمعية زوارة للهوية و التراث ist ein Museum in Zuwara.",
+                  "category": "museum",
+                  "coords": [
+                        12.084969,
+                        32.933541
+                  ]
+            },
+            {
+                  "name": "شاطئ ومصيف زاورة",
+                  "text": "Zauara Beach ist ein Strandbereich in Zuwara.",
+                  "category": "recreational",
+                  "coords": [
+                        12.055723,
+                        32.954202
+                  ]
+            },
+            {
+                  "name": "شاطئ ومصيف زوارة",
+                  "text": "Zuara Beach ist ein Sandstrand in Zuwara.",
+                  "category": "recreational",
+                  "coords": [
+                        12.072514,
+                        32.945191
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسرح زوارة",
+                  "text": "A Theatre Zuara egy kulturális és előadóművészeti helyszín Zuwarában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.086329,
+                        32.933061
+                  ]
+            },
+            {
+                  "name": "جمعية زوارة للهوية و التراث",
+                  "text": "A جمعية زوارة للهوية و التراث egy múzeum Zuwara városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.084969,
+                        32.933541
+                  ]
+            },
+            {
+                  "name": "شاطئ ومصيف زاورة",
+                  "text": "A Zauara Beach egy tengerparti terület Zuwara városában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.055723,
+                        32.954202
+                  ]
+            },
+            {
+                  "name": "شاطئ ومصيف زوارة",
+                  "text": "A Zuara Beach egy homokos strand Zuwara városában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.072514,
+                        32.945191
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسرح زوارة",
+                  "text": "Theatre Zuara este un spațiu cultural și de spectacole situat în Zuwara.",
+                  "category": "cultural",
+                  "coords": [
+                        12.086329,
+                        32.933061
+                  ]
+            },
+            {
+                  "name": "جمعية زوارة للهوية و التراث",
+                  "text": "جمعية زوارة للهوية و التراث este un muzeu situat în Zuwara.",
+                  "category": "museum",
+                  "coords": [
+                        12.084969,
+                        32.933541
+                  ]
+            },
+            {
+                  "name": "شاطئ ومصيف زاورة",
+                  "text": "Zauara Beach este o plajă situată în Zuwara.",
+                  "category": "recreational",
+                  "coords": [
+                        12.055723,
+                        32.954202
+                  ]
+            },
+            {
+                  "name": "شاطئ ومصيف زوارة",
+                  "text": "Zuara Beach este o plajă cu nisip localizată în Zuwara.",
+                  "category": "recreational",
+                  "coords": [
+                        12.072514,
+                        32.945191
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatre Zuara",
+                  "text": "Theatre Zuara is a cultural and performance venue situated in Zuwara.",
+                  "category": "cultural",
+                  "coords": [
+                        12.086329,
+                        32.933061
+                  ]
+            },
+            {
+                  "name": "جمعية زوارة للهوية و التراث",
+                  "text": "جمعية زوارة للهوية و التراث is a museum located in Zuwara.",
+                  "category": "museum",
+                  "coords": [
+                        12.084969,
+                        32.933541
+                  ]
+            },
+            {
+                  "name": "Zauara Beach",
+                  "text": "Zauara Beach is a coastal area situated in Zuwara.",
+                  "category": "recreational",
+                  "coords": [
+                        12.055723,
+                        32.954202
+                  ]
+            },
+            {
+                  "name": "Zuara Beach",
+                  "text": "Zuara Beach is a sandy beach located in Zuwara.",
+                  "category": "recreational",
+                  "coords": [
+                        12.072514,
+                        32.945191
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-NQ",
     coords: [12.0833, 32.9333],
@@ -905,7 +4244,88 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "yefren-cities-v2",
+    id: "yefren-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "سامي يفرن",
+                  "text": "Attraktion in Jefren.",
+                  "category": "landmark",
+                  "coords": [
+                        12.524822,
+                        32.06016
+                  ]
+            },
+            {
+                  "name": "Old Yfren",
+                  "text": "Historischer Ort in Jefren.",
+                  "category": "landmark",
+                  "coords": [
+                        12.519407,
+                        32.064811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "سامي يفرن",
+                  "text": "Látnivaló Jefren-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        12.524822,
+                        32.06016
+                  ]
+            },
+            {
+                  "name": "Old Yfren",
+                  "text": "Történelmi helyszín Jefren-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        12.519407,
+                        32.064811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "سامي يفرن",
+                  "text": "Atracție în Jefren.",
+                  "category": "landmark",
+                  "coords": [
+                        12.524822,
+                        32.06016
+                  ]
+            },
+            {
+                  "name": "Old Yfren",
+                  "text": "Loc istoric în Jefren.",
+                  "category": "landmark",
+                  "coords": [
+                        12.519407,
+                        32.064811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "سامي يفرن",
+                  "text": "Attraction in Jefren.",
+                  "category": "landmark",
+                  "coords": [
+                        12.524822,
+                        32.06016
+                  ]
+            },
+            {
+                  "name": "Old Yfren",
+                  "text": "Historical site in Jefren.",
+                  "category": "landmark",
+                  "coords": [
+                        12.519407,
+                        32.064811
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JG",
     coords: [12.5256, 32.0628],
@@ -951,7 +4371,196 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "nalut-cities-v2",
+    id: "nalut-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف نالوت للديناصورات",
+                  "text": "Das Nalut museum ist ein lokales Museum in Nalut.",
+                  "category": "museum",
+                  "coords": [
+                        10.982636,
+                        31.864876
+                  ]
+            },
+            {
+                  "name": "قصر نالوت",
+                  "text": "قصر نالوت ist ein Museum in der Stadt Nalut.",
+                  "category": "museum",
+                  "coords": [
+                        10.986893,
+                        31.867156
+                  ]
+            },
+            {
+                  "name": "قاعة خليفة بن عسكر Khalifa ben Asker",
+                  "text": "Khalifa ben Asker ist ein Theater in Nalut.",
+                  "category": "cultural",
+                  "coords": [
+                        10.988829,
+                        31.862304
+                  ]
+            },
+            {
+                  "name": "متحف الديناصورات",
+                  "text": "Das dinosaurs museum ist eine Ausstellungseinrichtung in Nalut.",
+                  "category": "museum",
+                  "coords": [
+                        10.983196,
+                        31.862667
+                  ]
+            },
+            {
+                  "name": "شارع الرحبه",
+                  "text": "sara3 al rahba-nalut ist eine Attraktion in Nalut.",
+                  "category": "landmark",
+                  "coords": [
+                        10.984886,
+                        31.867528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف نالوت للديناصورات",
+                  "text": "A Nalut museum egy helyi múzeum Nalut városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.982636,
+                        31.864876
+                  ]
+            },
+            {
+                  "name": "قصر نالوت",
+                  "text": "A قصر نالوت egy múzeum Nalut városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.986893,
+                        31.867156
+                  ]
+            },
+            {
+                  "name": "قاعة خليفة بن عسكر Khalifa ben Asker",
+                  "text": "A Khalifa ben Asker egy színház Nalut városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.988829,
+                        31.862304
+                  ]
+            },
+            {
+                  "name": "متحف الديناصورات",
+                  "text": "A dinosaurs museum egy múzeumi létesítmény Nalut városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.983196,
+                        31.862667
+                  ]
+            },
+            {
+                  "name": "شارع الرحبه",
+                  "text": "A sara3 al rahba-nalut egy látványosság Nalut városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.984886,
+                        31.867528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف نالوت للديناصورات",
+                  "text": "Nalut museum este un muzeu local situat în Nalut.",
+                  "category": "museum",
+                  "coords": [
+                        10.982636,
+                        31.864876
+                  ]
+            },
+            {
+                  "name": "قصر نالوت",
+                  "text": "قصر نالوت este un muzeu situat în orașul Nalut.",
+                  "category": "museum",
+                  "coords": [
+                        10.986893,
+                        31.867156
+                  ]
+            },
+            {
+                  "name": "قاعة خليفة بن عسكر Khalifa ben Asker",
+                  "text": "Khalifa ben Asker este un teatru situat în Nalut.",
+                  "category": "cultural",
+                  "coords": [
+                        10.988829,
+                        31.862304
+                  ]
+            },
+            {
+                  "name": "متحف الديناصورات",
+                  "text": "Dinosaurs museum este o facilitate expozițională situată în Nalut.",
+                  "category": "museum",
+                  "coords": [
+                        10.983196,
+                        31.862667
+                  ]
+            },
+            {
+                  "name": "شارع الرحبه",
+                  "text": "Sara3 al rahba-nalut este o atracție situată în Nalut.",
+                  "category": "landmark",
+                  "coords": [
+                        10.984886,
+                        31.867528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nalut museum",
+                  "text": "Nalut museum is a local museum situated in Nalut.",
+                  "category": "museum",
+                  "coords": [
+                        10.982636,
+                        31.864876
+                  ]
+            },
+            {
+                  "name": "قصر نالوت",
+                  "text": "قصر نالوت is a museum located in the city of Nalut.",
+                  "category": "museum",
+                  "coords": [
+                        10.986893,
+                        31.867156
+                  ]
+            },
+            {
+                  "name": "Khalifa ben Asker",
+                  "text": "Khalifa ben Asker is a theatre venue located in Nalut.",
+                  "category": "cultural",
+                  "coords": [
+                        10.988829,
+                        31.862304
+                  ]
+            },
+            {
+                  "name": "dinosaurs museum",
+                  "text": "The dinosaurs museum is an exhibition facility located in Nalut.",
+                  "category": "museum",
+                  "coords": [
+                        10.983196,
+                        31.862667
+                  ]
+            },
+            {
+                  "name": "sara3 al rahba-nalut",
+                  "text": "sara3 al rahba-nalut is an attraction located in Nalut.",
+                  "category": "landmark",
+                  "coords": [
+                        10.984886,
+                        31.867528
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-NL",
     coords: [10.9806, 31.8681],
@@ -1043,7 +4652,160 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "awbari-cities-v2",
+    id: "awbari-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة اوباري",
+                  "text": "Attraktion in Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.772808,
+                        26.58852
+                  ]
+            },
+            {
+                  "name": "حي المحكمة",
+                  "text": "Attraktion in Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793703,
+                        26.589513
+                  ]
+            },
+            {
+                  "name": "مشروع التبو",
+                  "text": "Attraktion in Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.771388,
+                        26.57841
+                  ]
+            },
+            {
+                  "name": "جكو العظمى",
+                  "text": "Attraktion in Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.784106,
+                        26.591531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة اوباري",
+                  "text": "Látnivaló Ubari-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.772808,
+                        26.58852
+                  ]
+            },
+            {
+                  "name": "حي المحكمة",
+                  "text": "Látnivaló Ubari-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793703,
+                        26.589513
+                  ]
+            },
+            {
+                  "name": "مشروع التبو",
+                  "text": "Látnivaló Ubari-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.771388,
+                        26.57841
+                  ]
+            },
+            {
+                  "name": "جكو العظمى",
+                  "text": "Látnivaló Ubari-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.784106,
+                        26.591531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة اوباري",
+                  "text": "Atracție în Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.772808,
+                        26.58852
+                  ]
+            },
+            {
+                  "name": "حي المحكمة",
+                  "text": "Atracție în Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793703,
+                        26.589513
+                  ]
+            },
+            {
+                  "name": "مشروع التبو",
+                  "text": "Atracție în Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.771388,
+                        26.57841
+                  ]
+            },
+            {
+                  "name": "جكو العظمى",
+                  "text": "Atracție în Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.784106,
+                        26.591531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "kasool of obari",
+                  "text": "Attraction in Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.772808,
+                        26.58852
+                  ]
+            },
+            {
+                  "name": "mahkama",
+                  "text": "Attraction in Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793703,
+                        26.589513
+                  ]
+            },
+            {
+                  "name": "tobou country",
+                  "text": "Attraction in Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.771388,
+                        26.57841
+                  ]
+            },
+            {
+                  "name": "jhoko",
+                  "text": "Attraction in Ubari.",
+                  "category": "landmark",
+                  "coords": [
+                        12.784106,
+                        26.591531
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-WD",
     coords: [12.7750, 26.5880],
@@ -1089,7 +4851,52 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "ghat-cities-v2",
+    id: "ghat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة غات",
+                  "text": "Gat Castle ist eine historische Burganlage in Ghat.",
+                  "category": "castle",
+                  "coords": [
+                        10.177066,
+                        24.964901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة غات",
+                  "text": "A Gat Castle egy történelmi kastélyépület Ghat városában.",
+                  "category": "castle",
+                  "coords": [
+                        10.177066,
+                        24.964901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة غات",
+                  "text": "Gat Castle este un castel istoric situat în Ghat.",
+                  "category": "castle",
+                  "coords": [
+                        10.177066,
+                        24.964901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gat Castle",
+                  "text": "Gat Castle is a historical castle structure located in Ghat.",
+                  "category": "castle",
+                  "coords": [
+                        10.177066,
+                        24.964901
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-GT",
     coords: [10.1803, 24.9644],
@@ -1135,7 +4942,88 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "ghadames-cities-v2",
+    id: "ghadames-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة إغدامس",
+                  "text": "Gadames Castle ist eine Festung in der Stadt Ghadames.",
+                  "category": "castle",
+                  "coords": [
+                        9.495106,
+                        30.130025
+                  ]
+            },
+            {
+                  "name": "Tilwan School",
+                  "text": "Tilwan School ist eine lokale Attraktion in Ghadames.",
+                  "category": "landmark",
+                  "coords": [
+                        9.498333,
+                        30.132486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة إغدامس",
+                  "text": "A Gadames Castle egy erőd Ghadames városában.",
+                  "category": "castle",
+                  "coords": [
+                        9.495106,
+                        30.130025
+                  ]
+            },
+            {
+                  "name": "Tilwan School",
+                  "text": "A Tilwan School egy helyi látványosság Ghadames városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.498333,
+                        30.132486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة إغدامس",
+                  "text": "Gadames Castle este o fortăreață situată în orașul Ghadames.",
+                  "category": "castle",
+                  "coords": [
+                        9.495106,
+                        30.130025
+                  ]
+            },
+            {
+                  "name": "Tilwan School",
+                  "text": "Tilwan School este o atracție locală din Ghadames.",
+                  "category": "landmark",
+                  "coords": [
+                        9.498333,
+                        30.132486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gadames Castle",
+                  "text": "Gadames Castle is a historic fortress situated in the city of Ghadames.",
+                  "category": "castle",
+                  "coords": [
+                        9.495106,
+                        30.130025
+                  ]
+            },
+            {
+                  "name": "Tilwan School",
+                  "text": "Tilwan School is a local attraction located in Ghadames.",
+                  "category": "landmark",
+                  "coords": [
+                        9.498333,
+                        30.132486
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-NL",
     coords: [9.5000, 30.1333],
@@ -1181,7 +5069,52 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "hun-cities-v2",
+    id: "hun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "شارع الخمسميه",
+                  "text": "Attraktion in Hun.",
+                  "category": "landmark",
+                  "coords": [
+                        15.958062,
+                        29.124035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "شارع الخمسميه",
+                  "text": "Látnivaló Hun-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.958062,
+                        29.124035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "شارع الخمسميه",
+                  "text": "Atracție în Hun.",
+                  "category": "landmark",
+                  "coords": [
+                        15.958062,
+                        29.124035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "شارع الخمسميه",
+                  "text": "Attraction in Hun.",
+                  "category": "landmark",
+                  "coords": [
+                        15.958062,
+                        29.124035
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JU",
     coords: [15.9477, 29.1268],
@@ -1227,7 +5160,88 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "waddan-cities-v2",
+    id: "waddan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة ودان الطوزة",
+                  "text": "Weddan Castle ist eine Burg in Waddan.",
+                  "category": "castle",
+                  "coords": [
+                        16.134352,
+                        29.160772
+                  ]
+            },
+            {
+                  "name": "البيت",
+                  "text": "jaws ist ein Denkmal in der Stadt Waddan.",
+                  "category": "historical",
+                  "coords": [
+                        16.15118,
+                        29.171997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة ودان الطوزة",
+                  "text": "A Weddan Castle egy kastély Waddan városában.",
+                  "category": "castle",
+                  "coords": [
+                        16.134352,
+                        29.160772
+                  ]
+            },
+            {
+                  "name": "البيت",
+                  "text": "A jaws egy emlékmű Waddan városában.",
+                  "category": "historical",
+                  "coords": [
+                        16.15118,
+                        29.171997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة ودان الطوزة",
+                  "text": "Weddan Castle este un castel situat în Waddan.",
+                  "category": "castle",
+                  "coords": [
+                        16.134352,
+                        29.160772
+                  ]
+            },
+            {
+                  "name": "البيت",
+                  "text": "Jaws este un monument situat în orașul Waddan.",
+                  "category": "historical",
+                  "coords": [
+                        16.15118,
+                        29.171997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weddan Castle",
+                  "text": "Weddan Castle is a castle situated in Waddan.",
+                  "category": "castle",
+                  "coords": [
+                        16.134352,
+                        29.160772
+                  ]
+            },
+            {
+                  "name": "jaws",
+                  "text": "jaws is a monument located in the city of Waddan.",
+                  "category": "historical",
+                  "coords": [
+                        16.15118,
+                        29.171997
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JU",
     coords: [16.1394, 29.1622],
@@ -1273,7 +5287,160 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "brak-cities-v2",
+    id: "brak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة براك",
+                  "text": "قلعة براك ist eine Burganlage in Brak.",
+                  "category": "castle",
+                  "coords": [
+                        14.267769,
+                        27.544316
+                  ]
+            },
+            {
+                  "name": "جامع فضل عبدالله سبال العين",
+                  "text": "جامع فضل عبدالله سبال العين dient als Aussichtspunkt in Brak.",
+                  "category": "natural",
+                  "coords": [
+                        14.273955,
+                        27.538777
+                  ]
+            },
+            {
+                  "name": "براك القديمة",
+                  "text": "براك القديمة ist ein Aussichtspunkt in Brak.",
+                  "category": "natural",
+                  "coords": [
+                        14.269837,
+                        27.539036
+                  ]
+            },
+            {
+                  "name": "النزيلة",
+                  "text": "النزيلة bietet Besuchern eine malerische Aussicht in Brak.",
+                  "category": "natural",
+                  "coords": [
+                        14.272777,
+                        27.53908
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة براك",
+                  "text": "A قلعة براك egy kastélyépület Brak városában.",
+                  "category": "castle",
+                  "coords": [
+                        14.267769,
+                        27.544316
+                  ]
+            },
+            {
+                  "name": "جامع فضل عبدالله سبال العين",
+                  "text": "A جامع فضل عبدالله سبال العين kilátópontként szolgál Brak városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.273955,
+                        27.538777
+                  ]
+            },
+            {
+                  "name": "براك القديمة",
+                  "text": "A براك القديمة egy kilátóhely Brak városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.269837,
+                        27.539036
+                  ]
+            },
+            {
+                  "name": "النزيلة",
+                  "text": "A النزيلة festői kilátást nyújt a látogatóknak Brak városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.272777,
+                        27.53908
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة براك",
+                  "text": "قلعة براك este un castel situat în Brak.",
+                  "category": "castle",
+                  "coords": [
+                        14.267769,
+                        27.544316
+                  ]
+            },
+            {
+                  "name": "جامع فضل عبدالله سبال العين",
+                  "text": "جامع فضل عبدالله سبال العين este un punct de belvedere pitoresc în Brak.",
+                  "category": "natural",
+                  "coords": [
+                        14.273955,
+                        27.538777
+                  ]
+            },
+            {
+                  "name": "براك القديمة",
+                  "text": "براك القديمة este un punct de belvedere amenajat în Brak.",
+                  "category": "natural",
+                  "coords": [
+                        14.269837,
+                        27.539036
+                  ]
+            },
+            {
+                  "name": "النزيلة",
+                  "text": "النزيلة oferă vizitatorilor o priveliște pitorească din Brak.",
+                  "category": "natural",
+                  "coords": [
+                        14.272777,
+                        27.53908
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "قلعة براك",
+                  "text": "قلعة براك is a castle structure located in Brak.",
+                  "category": "castle",
+                  "coords": [
+                        14.267769,
+                        27.544316
+                  ]
+            },
+            {
+                  "name": "جامع فضل عبدالله سبال العين",
+                  "text": "جامع فضل عبدالله سبال العين serves as a scenic viewpoint in Brak.",
+                  "category": "natural",
+                  "coords": [
+                        14.273955,
+                        27.538777
+                  ]
+            },
+            {
+                  "name": "براك القديمة",
+                  "text": "براك القديمة is a designated viewpoint situated in Brak.",
+                  "category": "natural",
+                  "coords": [
+                        14.269837,
+                        27.539036
+                  ]
+            },
+            {
+                  "name": "النزيلة",
+                  "text": "النزيلة provides visitors with a scenic view in Brak.",
+                  "category": "natural",
+                  "coords": [
+                        14.272777,
+                        27.53908
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-WS",
     coords: [14.2667, 27.5333],
@@ -1365,7 +5532,268 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "zintan-cities-v2",
+    id: "zintan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "وادي على",
+                  "text": "وادي على ist ein Aussichtspunkt in Sintan.",
+                  "category": "natural",
+                  "coords": [
+                        12.252247,
+                        31.932062
+                  ]
+            },
+            {
+                  "name": "دار الشياب",
+                  "text": "دار الشياب ist eine lokale Attraktion in Sintan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.248914,
+                        31.935171
+                  ]
+            },
+            {
+                  "name": "فتحت وسين",
+                  "text": "فتحت وسين ist eine Attraktion in der Stadt Sintan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.273114,
+                        31.941565
+                  ]
+            },
+            {
+                  "name": "الروماني",
+                  "text": "الروماني ist ein Aussichtspunkt in Sintan.",
+                  "category": "natural",
+                  "coords": [
+                        12.279905,
+                        31.930616
+                  ]
+            },
+            {
+                  "name": "ابزيز",
+                  "text": "ابزيز ist eine Sehenswürdigkeit in Sintan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.249361,
+                        31.928083
+                  ]
+            },
+            {
+                  "name": "جزيرة اولاد ابوالهول",
+                  "text": "جزيرة اولاد ابوالهول ist ein Denkmal in Sintan.",
+                  "category": "historical",
+                  "coords": [
+                        12.226197,
+                        31.941913
+                  ]
+            },
+            {
+                  "name": "الشارف",
+                  "text": "الشارف ist ein lokales Denkmal in der Stadt Sintan.",
+                  "category": "historical",
+                  "coords": [
+                        12.234611,
+                        31.936868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "وادي على",
+                  "text": "A وادي على egy kilátópont Sintan városában.",
+                  "category": "natural",
+                  "coords": [
+                        12.252247,
+                        31.932062
+                  ]
+            },
+            {
+                  "name": "دار الشياب",
+                  "text": "A دار الشياب egy helyi látványosság Sintan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.248914,
+                        31.935171
+                  ]
+            },
+            {
+                  "name": "فتحت وسين",
+                  "text": "A فتحت وسين egy látványosság Sintan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.273114,
+                        31.941565
+                  ]
+            },
+            {
+                  "name": "الروماني",
+                  "text": "A الروماني egy megfigyelőpont Sintan városában.",
+                  "category": "natural",
+                  "coords": [
+                        12.279905,
+                        31.930616
+                  ]
+            },
+            {
+                  "name": "ابزيز",
+                  "text": "A ابزيز egy látványosság Sintan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.249361,
+                        31.928083
+                  ]
+            },
+            {
+                  "name": "جزيرة اولاد ابوالهول",
+                  "text": "A جزيرة اولاد ابوالهول egy emlékmű Sintan városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.226197,
+                        31.941913
+                  ]
+            },
+            {
+                  "name": "الشارف",
+                  "text": "A الشارف egy helyi emlékmű Sintan városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.234611,
+                        31.936868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "وادي على",
+                  "text": "وادي على este un punct de belvedere în Sintan.",
+                  "category": "natural",
+                  "coords": [
+                        12.252247,
+                        31.932062
+                  ]
+            },
+            {
+                  "name": "دار الشياب",
+                  "text": "دار الشياب este o atracție locală situată în Sintan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.248914,
+                        31.935171
+                  ]
+            },
+            {
+                  "name": "فتحت وسين",
+                  "text": "فتحت وسين este o atracție situată în orașul Sintan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.273114,
+                        31.941565
+                  ]
+            },
+            {
+                  "name": "الروماني",
+                  "text": "الروماني este un punct de observare situat în Sintan.",
+                  "category": "natural",
+                  "coords": [
+                        12.279905,
+                        31.930616
+                  ]
+            },
+            {
+                  "name": "ابزيز",
+                  "text": "ابزيز este un punct de atracție în Sintan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.249361,
+                        31.928083
+                  ]
+            },
+            {
+                  "name": "جزيرة اولاد ابوالهول",
+                  "text": "جزيرة اولاد ابوالهول este un monument situat în Sintan.",
+                  "category": "historical",
+                  "coords": [
+                        12.226197,
+                        31.941913
+                  ]
+            },
+            {
+                  "name": "الشارف",
+                  "text": "الشارف este un monument local în orașul Sintan.",
+                  "category": "historical",
+                  "coords": [
+                        12.234611,
+                        31.936868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "وادي على",
+                  "text": "وادي على is a scenic viewpoint in Sintan.",
+                  "category": "natural",
+                  "coords": [
+                        12.252247,
+                        31.932062
+                  ]
+            },
+            {
+                  "name": "دار الشياب",
+                  "text": "دار الشياب is a local attraction situated in Sintan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.248914,
+                        31.935171
+                  ]
+            },
+            {
+                  "name": "فتحت وسين",
+                  "text": "فتحت وسين is an attraction located in the city of Sintan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.273114,
+                        31.941565
+                  ]
+            },
+            {
+                  "name": "الروماني",
+                  "text": "الروماني is an observation viewpoint located in Sintan.",
+                  "category": "natural",
+                  "coords": [
+                        12.279905,
+                        31.930616
+                  ]
+            },
+            {
+                  "name": "ابزيز",
+                  "text": "ابزيز is a point of interest attraction in Sintan.",
+                  "category": "landmark",
+                  "coords": [
+                        12.249361,
+                        31.928083
+                  ]
+            },
+            {
+                  "name": "جزيرة اولاد ابوالهول",
+                  "text": "جزيرة اولاد ابوالهول is a monument located in Sintan.",
+                  "category": "historical",
+                  "coords": [
+                        12.226197,
+                        31.941913
+                  ]
+            },
+            {
+                  "name": "الشارف",
+                  "text": "الشارف is a local monument in the city of Sintan.",
+                  "category": "historical",
+                  "coords": [
+                        12.234611,
+                        31.936868
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JG",
     coords: [12.2536, 31.9317],
@@ -1411,7 +5839,160 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "mizda-cities-v2",
+    id: "mizda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مركز مزدة التراث",
+                  "text": "Das Center for heritage ist ein Museum in Mizda.",
+                  "category": "museum",
+                  "coords": [
+                        12.980072,
+                        31.440954
+                  ]
+            },
+            {
+                  "name": "آثار قديمة",
+                  "text": "Die Ruins bieten einen historischen Aussichtspunkt über Mizda.",
+                  "category": "natural",
+                  "coords": [
+                        12.983681,
+                        31.444504
+                  ]
+            },
+            {
+                  "name": "لوطيا",
+                  "text": "Lawtia ist eine Touristenattraktion in der Stadt Mizda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.984077,
+                        31.439834
+                  ]
+            },
+            {
+                  "name": "عرقوب الصقاقرة",
+                  "text": "عرقوب الصقاقرة ist eine Sehenswürdigkeit in Mizda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.992459,
+                        31.440679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مركز مزدة التراث",
+                  "text": "A Center for heritage egy múzeum Mizda városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.980072,
+                        31.440954
+                  ]
+            },
+            {
+                  "name": "آثار قديمة",
+                  "text": "A Ruins egy történelmi kilátópont Mizda területén.",
+                  "category": "natural",
+                  "coords": [
+                        12.983681,
+                        31.444504
+                  ]
+            },
+            {
+                  "name": "لوطيا",
+                  "text": "Lawtia egy turisztikai látványosság Mizda városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.984077,
+                        31.439834
+                  ]
+            },
+            {
+                  "name": "عرقوب الصقاقرة",
+                  "text": "A عرقوب الصقاقرة egy látványosság Mizda városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.992459,
+                        31.440679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مركز مزدة التراث",
+                  "text": "Center for heritage este un muzeu din Mizda.",
+                  "category": "museum",
+                  "coords": [
+                        12.980072,
+                        31.440954
+                  ]
+            },
+            {
+                  "name": "آثار قديمة",
+                  "text": "Ruins reprezintă un punct de belvedere istoric în Mizda.",
+                  "category": "natural",
+                  "coords": [
+                        12.983681,
+                        31.444504
+                  ]
+            },
+            {
+                  "name": "لوطيا",
+                  "text": "Lawtia este o atracție turistică situată în orașul Mizda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.984077,
+                        31.439834
+                  ]
+            },
+            {
+                  "name": "عرقوب الصقاقرة",
+                  "text": "عرقوب الصقاقرة este o atracție situată în Mizda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.992459,
+                        31.440679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Center for heritage",
+                  "text": "The Center for heritage is a museum dedicated to local history in Mizda.",
+                  "category": "museum",
+                  "coords": [
+                        12.980072,
+                        31.440954
+                  ]
+            },
+            {
+                  "name": "Ruins",
+                  "text": "The Ruins provide a historic viewpoint over Mizda.",
+                  "category": "natural",
+                  "coords": [
+                        12.983681,
+                        31.444504
+                  ]
+            },
+            {
+                  "name": "Lawtia",
+                  "text": "Lawtia is a tourist attraction situated in the city of Mizda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.984077,
+                        31.439834
+                  ]
+            },
+            {
+                  "name": "عرقوب الصقاقرة",
+                  "text": "عرقوب الصقاقرة is an attraction point located in Mizda.",
+                  "category": "landmark",
+                  "coords": [
+                        12.992459,
+                        31.440679
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JG",
     coords: [12.9803, 31.4453],
@@ -1457,7 +6038,628 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "shahhat-cities-v2",
+    id: "shahhat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kyrene",
+                  "text": "Antike griechische Stadt in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.85641,
+                        32.8208
+                  ]
+            },
+            {
+                  "name": "Temple of Hades in Cyrene",
+                  "text": "Archäologische Stätte in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.853068,
+                        32.823192
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "Archäologische Stätte in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.856261,
+                        32.815627
+                  ]
+            },
+            {
+                  "name": "ميدان سباق المركبات",
+                  "text": "Archäologische Stätte in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.864143,
+                        32.822211
+                  ]
+            },
+            {
+                  "name": "معبد أبولو",
+                  "text": "Archäologische Stätte in Schahat.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Theatre 3",
+                  "text": "Archäologische Stätte in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.858017,
+                        32.817681
+                  ]
+            },
+            {
+                  "name": "متحف المنحوتات",
+                  "text": "Museum in Schahat.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "الاجورا",
+                  "text": "Archäologische Stätte in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.855787,
+                        32.81927
+                  ]
+            },
+            {
+                  "name": "معبد أبوللو",
+                  "text": "Archäologische Stätte in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.851548,
+                        32.823952
+                  ]
+            },
+            {
+                  "name": "Temple of Demeter",
+                  "text": "Archäologische Stätte in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "مدينة سيرين الاثرية",
+                  "text": "Antike Ruinen in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "Ruinen in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845269
+                  ]
+            },
+            {
+                  "name": "منظر",
+                  "text": "Sehenswürdigkeit in Schahat.",
+                  "category": "landmark",
+                  "coords": [
+                        21.854667,
+                        32.823676
+                  ]
+            },
+            {
+                  "name": "أكروبوليس",
+                  "text": "Ruinen der Akropolis in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "معبد زيوس",
+                  "text": "Ruinen in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "البروبيلون السويري",
+                  "text": "Ruinen in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857315,
+                        32.820125
+                  ]
+            },
+            {
+                  "name": "Temple of Hermes",
+                  "text": "Ruinen in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857033,
+                        32.818248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κυρήνη",
+                  "text": "Ókori görög város Schahat-ban.",
+                  "category": "historical",
+                  "coords": [
+                        21.85641,
+                        32.8208
+                  ]
+            },
+            {
+                  "name": "Temple of Hades in Cyrene",
+                  "text": "Régészeti helyszín Schahat-ban.",
+                  "category": "historical",
+                  "coords": [
+                        21.853068,
+                        32.823192
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "Régészeti helyszín Schahat-ban.",
+                  "category": "historical",
+                  "coords": [
+                        21.856261,
+                        32.815627
+                  ]
+            },
+            {
+                  "name": "ميدان سباق المركبات",
+                  "text": "Régészeti helyszín Schahat-ban.",
+                  "category": "historical",
+                  "coords": [
+                        21.864143,
+                        32.822211
+                  ]
+            },
+            {
+                  "name": "معبد أبولو",
+                  "text": "Régészeti helyszín Schahat-ban.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Theatre 3",
+                  "text": "Régészeti helyszín Schahat-ban.",
+                  "category": "historical",
+                  "coords": [
+                        21.858017,
+                        32.817681
+                  ]
+            },
+            {
+                  "name": "متحف المنحوتات",
+                  "text": "Múzeum Schahat városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "الاجورا",
+                  "text": "Régészeti lelőhely Schahat városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.855787,
+                        32.81927
+                  ]
+            },
+            {
+                  "name": "معبد أبوللو",
+                  "text": "Régészeti lelőhely Schahat városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.851548,
+                        32.823952
+                  ]
+            },
+            {
+                  "name": "Temple of Demeter",
+                  "text": "Régészeti lelőhely Schahat városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "مدينة سيرين الاثرية",
+                  "text": "Ókori romok Schahat városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "Romok Schahat városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845269
+                  ]
+            },
+            {
+                  "name": "منظر",
+                  "text": "Látnivaló Schahat városában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.854667,
+                        32.823676
+                  ]
+            },
+            {
+                  "name": "أكروبوليس",
+                  "text": "Az akropolisz romjai Schahat városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "معبد زيوس",
+                  "text": "Romok Schahat városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "البروبيلون السويري",
+                  "text": "Romok Schahat városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.857315,
+                        32.820125
+                  ]
+            },
+            {
+                  "name": "Temple of Hermes",
+                  "text": "Romok Schahat városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.857033,
+                        32.818248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κυρήνη",
+                  "text": "Oraș antic grecesc în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.85641,
+                        32.8208
+                  ]
+            },
+            {
+                  "name": "Temple of Hades in Cyrene",
+                  "text": "Sit arheologic în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.853068,
+                        32.823192
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "Sit arheologic în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.856261,
+                        32.815627
+                  ]
+            },
+            {
+                  "name": "ميدان سباق المركبات",
+                  "text": "Sit arheologic în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.864143,
+                        32.822211
+                  ]
+            },
+            {
+                  "name": "معبد أبولو",
+                  "text": "Sit arheologic în Schahat.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Theatre 3",
+                  "text": "Sit arheologic în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.858017,
+                        32.817681
+                  ]
+            },
+            {
+                  "name": "متحف المنحوتات",
+                  "text": "Muzeu în Schahat.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "الاجورا",
+                  "text": "Sit arheologic în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.855787,
+                        32.81927
+                  ]
+            },
+            {
+                  "name": "معبد أبوللو",
+                  "text": "Sit arheologic în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.851548,
+                        32.823952
+                  ]
+            },
+            {
+                  "name": "Temple of Demeter",
+                  "text": "Sit arheologic în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "مدينة سيرين الاثرية",
+                  "text": "Ruine antice în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "Ruine în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845269
+                  ]
+            },
+            {
+                  "name": "منظر",
+                  "text": "Atracție în Schahat.",
+                  "category": "landmark",
+                  "coords": [
+                        21.854667,
+                        32.823676
+                  ]
+            },
+            {
+                  "name": "أكروبوليس",
+                  "text": "Ruinele acropolei în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "معبد زيوس",
+                  "text": "Ruine în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "البروبيلون السويري",
+                  "text": "Ruine în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857315,
+                        32.820125
+                  ]
+            },
+            {
+                  "name": "Temple of Hermes",
+                  "text": "Ruine în Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857033,
+                        32.818248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cyrene",
+                  "text": "Ancient Greek city in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.85641,
+                        32.8208
+                  ]
+            },
+            {
+                  "name": "Temple of Hades in Cyrene",
+                  "text": "Archaeological site in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.853068,
+                        32.823192
+                  ]
+            },
+            {
+                  "name": "Theater of Cyrene",
+                  "text": "Archaeological site in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.856261,
+                        32.815627
+                  ]
+            },
+            {
+                  "name": "ميدان سباق المركبات",
+                  "text": "Archaeological site in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.864143,
+                        32.822211
+                  ]
+            },
+            {
+                  "name": "Temple of Apolo",
+                  "text": "Archaeological site in Schahat.",
+                  "category": "castle",
+                  "coords": [
+                        21.861943,
+                        32.827163
+                  ]
+            },
+            {
+                  "name": "Theatre 3",
+                  "text": "Archaeological site in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.858017,
+                        32.817681
+                  ]
+            },
+            {
+                  "name": "Shahhat Museum",
+                  "text": "Museum in Schahat.",
+                  "category": "museum",
+                  "coords": [
+                        21.86418,
+                        32.817812
+                  ]
+            },
+            {
+                  "name": "الاجورا",
+                  "text": "Archaeological site in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.855787,
+                        32.81927
+                  ]
+            },
+            {
+                  "name": "Temple of Apollo",
+                  "text": "Archaeological site in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.851548,
+                        32.823952
+                  ]
+            },
+            {
+                  "name": "Temple of Demeter",
+                  "text": "Archaeological site in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.85744,
+                        32.814305
+                  ]
+            },
+            {
+                  "name": "Shahhat (Cyrene) monuments",
+                  "text": "Ancient ruins in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857096,
+                        32.822327
+                  ]
+            },
+            {
+                  "name": "Qaşr al Baţḩā’",
+                  "text": "Ruins in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.836201,
+                        32.845269
+                  ]
+            },
+            {
+                  "name": "منظر",
+                  "text": "Attraction in Schahat.",
+                  "category": "landmark",
+                  "coords": [
+                        21.854667,
+                        32.823676
+                  ]
+            },
+            {
+                  "name": "Acropolis",
+                  "text": "Acropolis ruins in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.850813,
+                        32.821902
+                  ]
+            },
+            {
+                  "name": "Temple of Zeus",
+                  "text": "Ruins in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.862444,
+                        32.82234
+                  ]
+            },
+            {
+                  "name": "البروبيلون السويري",
+                  "text": "Ruins in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857315,
+                        32.820125
+                  ]
+            },
+            {
+                  "name": "Temple of Hermes",
+                  "text": "Ruins in Schahat.",
+                  "category": "historical",
+                  "coords": [
+                        21.857033,
+                        32.818248
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JA",
     coords: [21.8542, 32.8236],
@@ -1503,7 +6705,448 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "susa-cities-v2",
+    id: "susa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Apollonia, Cyrenaica",
+                  "text": "Apollonia, Cyrenaica ist eine antike archäologische Stätte in Susa. Sie diente einst als Hafen von Kyrene.",
+                  "category": "historical",
+                  "coords": [
+                        21.971594,
+                        32.902145
+                  ]
+            },
+            {
+                  "name": "Ancient warehouses",
+                  "text": "Die Ancient warehouses sind eine archäologische Stätte in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.967273,
+                        32.904341
+                  ]
+            },
+            {
+                  "name": "غرب مقبرة أبولونيا",
+                  "text": "Die West Necropolis of Apollonia ist eine archäologische Grabstätte in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.957227,
+                        32.899959
+                  ]
+            },
+            {
+                  "name": "Warehouses",
+                  "text": "Die Warehouses bilden eine archäologische Stätte in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.973152,
+                        32.902623
+                  ]
+            },
+            {
+                  "name": "Palace of the Dux",
+                  "text": "Der Palace of the Dux ist eine historische Burganlage in Susa.",
+                  "category": "castle",
+                  "coords": [
+                        21.969817,
+                        32.901559
+                  ]
+            },
+            {
+                  "name": "East Necropolis",
+                  "text": "Die East Necropolis ist eine Ruinenstätte und ehemalige Nekropole in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.974688,
+                        32.901838
+                  ]
+            },
+            {
+                  "name": "بو الزاعلة",
+                  "text": "بو الزاعلة ist eine Attraktion in Susa.",
+                  "category": "landmark",
+                  "coords": [
+                        21.95806,
+                        32.897363
+                  ]
+            },
+            {
+                  "name": "شقة عبدالله امعوج اجار",
+                  "text": "شقة عبدالله امعوج اجار ist ein Aussichtspunkt in Susa.",
+                  "category": "natural",
+                  "coords": [
+                        21.953523,
+                        32.889715
+                  ]
+            },
+            {
+                  "name": "الكنيسة الغربية",
+                  "text": "الكنيسة الغربية ist eine historische Ruine in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.966728,
+                        32.901454
+                  ]
+            },
+            {
+                  "name": "المسرح",
+                  "text": "المسرح ist eine Ruinenstätte in der Stadt Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.974935,
+                        32.902931
+                  ]
+            },
+            {
+                  "name": "البوابة الغربية",
+                  "text": "البوابة الغربية ist eine Ruinenstruktur in der Stadt Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.965606,
+                        32.901359
+                  ]
+            },
+            {
+                  "name": "الكنيسة الوسطي",
+                  "text": "الكنيسة الوسطي ist eine historische Ruinenstätte in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.968251,
+                        32.902075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Apollonia, Cyrenaica",
+                  "text": "Apollónia, Cyrenaica egy ősi régészeti lelőhely Susa városában. Egykor Küréné kikötőjeként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        21.971594,
+                        32.902145
+                  ]
+            },
+            {
+                  "name": "Ancient warehouses",
+                  "text": "Az Ancient warehouses egy régészeti lelőhely Susa városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.967273,
+                        32.904341
+                  ]
+            },
+            {
+                  "name": "غرب مقبرة أبولونيا",
+                  "text": "A West Necropolis of Apollonia egy régészeti temetkezési hely Susa városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.957227,
+                        32.899959
+                  ]
+            },
+            {
+                  "name": "Warehouses",
+                  "text": "A Warehouses egy régészeti területet alkot Susa városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.973152,
+                        32.902623
+                  ]
+            },
+            {
+                  "name": "Palace of the Dux",
+                  "text": "A Palace of the Dux egy történelmi kastélyépület Susa városában.",
+                  "category": "castle",
+                  "coords": [
+                        21.969817,
+                        32.901559
+                  ]
+            },
+            {
+                  "name": "East Necropolis",
+                  "text": "Az East Necropolis egy romos temetkezési hely Susa városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.974688,
+                        32.901838
+                  ]
+            },
+            {
+                  "name": "بو الزاعلة",
+                  "text": "A بو الزاعلة egy látványosság Susa városában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.95806,
+                        32.897363
+                  ]
+            },
+            {
+                  "name": "شقة عبدالله امعوج اجار",
+                  "text": "A شقة عبدالله امعوج اجار egy kilátópont Susa városában.",
+                  "category": "natural",
+                  "coords": [
+                        21.953523,
+                        32.889715
+                  ]
+            },
+            {
+                  "name": "الكنيسة الغربية",
+                  "text": "A الكنيسة الغربية egy történelmi rom Susa városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.966728,
+                        32.901454
+                  ]
+            },
+            {
+                  "name": "المسرح",
+                  "text": "A المسرح egy romterület Susa városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.974935,
+                        32.902931
+                  ]
+            },
+            {
+                  "name": "البوابة الغربية",
+                  "text": "A البوابة الغربية egy romos építmény Susa városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.965606,
+                        32.901359
+                  ]
+            },
+            {
+                  "name": "الكنيسة الوسطي",
+                  "text": "A الكنيسة الوسطي egy történelmi romterület Susa városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.968251,
+                        32.902075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Apollonia, Cyrenaica",
+                  "text": "Apollonia, Cirenaica este un vechi sit arheologic în Susa. Acesta a servit odinioară ca port al orașului Cirene.",
+                  "category": "historical",
+                  "coords": [
+                        21.971594,
+                        32.902145
+                  ]
+            },
+            {
+                  "name": "Ancient warehouses",
+                  "text": "Ancient warehouses reprezintă un sit arheologic situat în Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.967273,
+                        32.904341
+                  ]
+            },
+            {
+                  "name": "غرب مقبرة أبولونيا",
+                  "text": "West Necropolis of Apollonia este un sit arheologic funerar în Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.957227,
+                        32.899959
+                  ]
+            },
+            {
+                  "name": "Warehouses",
+                  "text": "Warehouses formează un sit arheologic situat în Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.973152,
+                        32.902623
+                  ]
+            },
+            {
+                  "name": "Palace of the Dux",
+                  "text": "Palace of the Dux este un palat fortificat istoric din Susa.",
+                  "category": "castle",
+                  "coords": [
+                        21.969817,
+                        32.901559
+                  ]
+            },
+            {
+                  "name": "East Necropolis",
+                  "text": "East Necropolis este un sit funerar în ruină situat în Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.974688,
+                        32.901838
+                  ]
+            },
+            {
+                  "name": "بو الزاعلة",
+                  "text": "بو الزاعلة este o atracție situată în Susa.",
+                  "category": "landmark",
+                  "coords": [
+                        21.95806,
+                        32.897363
+                  ]
+            },
+            {
+                  "name": "شقة عبدالله امعوج اجار",
+                  "text": "شقة عبدالله امعوج اجار este un punct de belvedere situat în Susa.",
+                  "category": "natural",
+                  "coords": [
+                        21.953523,
+                        32.889715
+                  ]
+            },
+            {
+                  "name": "الكنيسة الغربية",
+                  "text": "الكنيسة الغربية este o ruină istorică situată în Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.966728,
+                        32.901454
+                  ]
+            },
+            {
+                  "name": "المسرح",
+                  "text": "المسرح este un sit ruinat aflat în Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.974935,
+                        32.902931
+                  ]
+            },
+            {
+                  "name": "البوابة الغربية",
+                  "text": "البوابة الغربية este o structură ruinată din orașul Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.965606,
+                        32.901359
+                  ]
+            },
+            {
+                  "name": "الكنيسة الوسطي",
+                  "text": "الكنيسة الوسطي este un sit istoric în ruine situat în Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.968251,
+                        32.902075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Apollonia, Cyrenaica",
+                  "text": "Apollonia, Cyrenaica is an ancient archaeological site in Susa. It once served as the port of Cyrene.",
+                  "category": "historical",
+                  "coords": [
+                        21.971594,
+                        32.902145
+                  ]
+            },
+            {
+                  "name": "Ancient warehouses",
+                  "text": "The Ancient warehouses are an archaeological site located in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.967273,
+                        32.904341
+                  ]
+            },
+            {
+                  "name": "West Necropolis of Apollonia",
+                  "text": "The West Necropolis of Apollonia is an archaeological burial site in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.957227,
+                        32.899959
+                  ]
+            },
+            {
+                  "name": "Warehouses",
+                  "text": "The Warehouses form an archaeological site situated in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.973152,
+                        32.902623
+                  ]
+            },
+            {
+                  "name": "Palace of the Dux",
+                  "text": "The Palace of the Dux is a historical castle structure in Susa.",
+                  "category": "castle",
+                  "coords": [
+                        21.969817,
+                        32.901559
+                  ]
+            },
+            {
+                  "name": "East Necropolis",
+                  "text": "The East Necropolis is a ruined burial site in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.974688,
+                        32.901838
+                  ]
+            },
+            {
+                  "name": "بو الزاعلة",
+                  "text": "بو الزاعلة is an attraction located in Susa.",
+                  "category": "landmark",
+                  "coords": [
+                        21.95806,
+                        32.897363
+                  ]
+            },
+            {
+                  "name": "شقة عبدالله امعوج اجار",
+                  "text": "شقة عبدالله امعوج اجار is a scenic viewpoint in Susa.",
+                  "category": "natural",
+                  "coords": [
+                        21.953523,
+                        32.889715
+                  ]
+            },
+            {
+                  "name": "الكنيسة الغربية",
+                  "text": "الكنيسة الغربية is a historical ruined site in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.966728,
+                        32.901454
+                  ]
+            },
+            {
+                  "name": "المسرح",
+                  "text": "المسرح is a ruined site found in the city of Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.974935,
+                        32.902931
+                  ]
+            },
+            {
+                  "name": "البوابة الغربية",
+                  "text": "البوابة الغربية is a ruined structure in the city of Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.965606,
+                        32.901359
+                  ]
+            },
+            {
+                  "name": "الكنيسة الوسطي",
+                  "text": "الكنيسة الوسطي is a historical ruined site located in Susa.",
+                  "category": "historical",
+                  "coords": [
+                        21.968251,
+                        32.902075
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JA",
     coords: [21.9678, 32.8986],
@@ -1641,7 +7284,52 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "zella-cities-v2",
+    id: "zella-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة زلة",
+                  "text": "Zalla Castle ist eine historische Burganlage in Zillah.",
+                  "category": "castle",
+                  "coords": [
+                        17.567181,
+                        28.542965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة زلة",
+                  "text": "A Zalla Castle egy történelmi kastélyépület Zillah városában.",
+                  "category": "castle",
+                  "coords": [
+                        17.567181,
+                        28.542965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة زلة",
+                  "text": "Zalla Castle este un castel istoric situat în Zillah.",
+                  "category": "castle",
+                  "coords": [
+                        17.567181,
+                        28.542965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zalla Castle",
+                  "text": "Zalla Castle is a historical castle structure located in Zillah.",
+                  "category": "castle",
+                  "coords": [
+                        17.567181,
+                        28.542965
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-JU",
     coords: [17.5833, 28.5333],
@@ -1917,7 +7605,52 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "qaminis-cities-v2",
+    id: "qaminis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "الدميرة",
+                  "text": "الدميرة ist eine lokale Attraktion in Qaminis.",
+                  "category": "landmark",
+                  "coords": [
+                        20.013162,
+                        31.670041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الدميرة",
+                  "text": "A الدميرة egy helyi látványosság Qaminis városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.013162,
+                        31.670041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الدميرة",
+                  "text": "الدميرة este o atracție locală situată în Qaminis.",
+                  "category": "landmark",
+                  "coords": [
+                        20.013162,
+                        31.670041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "الدميرة",
+                  "text": "الدميرة is a local attraction situated in Qaminis.",
+                  "category": "landmark",
+                  "coords": [
+                        20.013162,
+                        31.670041
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-BA",
     coords: [20.0053, 31.6739],
@@ -1963,7 +7696,196 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "tukrah-cities-v2",
+    id: "tukrah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taucheira",
+                  "text": "Taucheira ist eine antike archäologische Stätte in der Stadt Taucheira.",
+                  "category": "historical",
+                  "coords": [
+                        20.575779,
+                        32.544445
+                  ]
+            },
+            {
+                  "name": "قلعة توكرة",
+                  "text": "Tocra Castle ist eine historische Festungsanlage in Taucheira.",
+                  "category": "castle",
+                  "coords": [
+                        20.568276,
+                        32.54056
+                  ]
+            },
+            {
+                  "name": "شاطئ توكرة",
+                  "text": "Tocra Beach ist ein Küstenabschnitt in Taucheira.",
+                  "category": "recreational",
+                  "coords": [
+                        20.53295,
+                        32.518784
+                  ]
+            },
+            {
+                  "name": "Taucheira/Arsinoe (Libya)",
+                  "text": "Taucheira/Arsinoe (Libya) bietet archäologische Überreste in der Gegend von Taucheira.",
+                  "category": "historical",
+                  "coords": [
+                        20.567591,
+                        32.539001
+                  ]
+            },
+            {
+                  "name": "Palace of the Byzantine governor",
+                  "text": "Der Palace of the Byzantine governor ist eine archäologische Stätte in Taucheira.",
+                  "category": "historical",
+                  "coords": [
+                        20.56842,
+                        32.536657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taucheira",
+                  "text": "Taucheira egy ősi régészeti lelőhely Taucheira városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.575779,
+                        32.544445
+                  ]
+            },
+            {
+                  "name": "قلعة توكرة",
+                  "text": "A Tocra Castle egy történelmi erődítmény Taucheira városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.568276,
+                        32.54056
+                  ]
+            },
+            {
+                  "name": "شاطئ توكرة",
+                  "text": "A Tocra Beach egy tengerparti szakasz Taucheira városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.53295,
+                        32.518784
+                  ]
+            },
+            {
+                  "name": "Taucheira/Arsinoe (Libya)",
+                  "text": "A Taucheira/Arsinoe (Libya) régészeti maradványokat mutat be Taucheira területén.",
+                  "category": "historical",
+                  "coords": [
+                        20.567591,
+                        32.539001
+                  ]
+            },
+            {
+                  "name": "Palace of the Byzantine governor",
+                  "text": "A Palace of the Byzantine governor egy régészeti lelőhely Taucheira városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.56842,
+                        32.536657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taucheira",
+                  "text": "Taucheira este un sit arheologic antic situat în orașul Taucheira.",
+                  "category": "historical",
+                  "coords": [
+                        20.575779,
+                        32.544445
+                  ]
+            },
+            {
+                  "name": "قلعة توكرة",
+                  "text": "Tocra Castle este o fortificație istorică aflată în Taucheira.",
+                  "category": "castle",
+                  "coords": [
+                        20.568276,
+                        32.54056
+                  ]
+            },
+            {
+                  "name": "شاطئ توكرة",
+                  "text": "Tocra Beach este o porțiune de coastă situată în Taucheira.",
+                  "category": "recreational",
+                  "coords": [
+                        20.53295,
+                        32.518784
+                  ]
+            },
+            {
+                  "name": "Taucheira/Arsinoe (Libya)",
+                  "text": "Taucheira/Arsinoe (Libya) prezintă vestigii arheologice în zona Taucheira.",
+                  "category": "historical",
+                  "coords": [
+                        20.567591,
+                        32.539001
+                  ]
+            },
+            {
+                  "name": "Palace of the Byzantine governor",
+                  "text": "Palace of the Byzantine governor este un sit arheologic situat în Taucheira.",
+                  "category": "historical",
+                  "coords": [
+                        20.56842,
+                        32.536657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taucheira",
+                  "text": "Taucheira is an ancient archaeological site located in the city of Taucheira.",
+                  "category": "historical",
+                  "coords": [
+                        20.575779,
+                        32.544445
+                  ]
+            },
+            {
+                  "name": "Tocra Castle",
+                  "text": "Tocra Castle is a historic fortification found in Taucheira.",
+                  "category": "castle",
+                  "coords": [
+                        20.568276,
+                        32.54056
+                  ]
+            },
+            {
+                  "name": "Tocra Beach",
+                  "text": "Tocra Beach is a coastal stretch located in Taucheira.",
+                  "category": "recreational",
+                  "coords": [
+                        20.53295,
+                        32.518784
+                  ]
+            },
+            {
+                  "name": "Taucheira/Arsinoe (Libya)",
+                  "text": "Taucheira/Arsinoe (Libya) features archaeological remains in the area of Taucheira.",
+                  "category": "historical",
+                  "coords": [
+                        20.567591,
+                        32.539001
+                  ]
+            },
+            {
+                  "name": "Palace of the Byzantine governor",
+                  "text": "The Palace of the Byzantine governor is an archaeological site located in Taucheira.",
+                  "category": "historical",
+                  "coords": [
+                        20.56842,
+                        32.536657
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-MJ",
     coords: [20.5753, 32.5367],
@@ -2055,7 +7977,52 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "jardas-al-ahrar-cities-v2",
+    id: "jardas-al-ahrar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "القلعة القديمة",
+                  "text": "Das Old Castle ist eine historische Festung in Dschardas al-Ahrar.",
+                  "category": "castle",
+                  "coords": [
+                        20.987502,
+                        32.306987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "القلعة القديمة",
+                  "text": "Az Old Castle egy történelmi erődítmény Dschardas al-Ahrar városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.987502,
+                        32.306987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "القلعة القديمة",
+                  "text": "Old Castle este o fortăreață istorică situată în Dschardas al-Ahrar.",
+                  "category": "castle",
+                  "coords": [
+                        20.987502,
+                        32.306987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Castle",
+                  "text": "The Old Castle is a historic fortress located in Dschardas al-Ahrar.",
+                  "category": "castle",
+                  "coords": [
+                        20.987502,
+                        32.306987
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-MJ",
     coords: [20.9833, 32.3167],
@@ -2285,7 +8252,52 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "jaghbub-cities-v2",
+    id: "jaghbub-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "الزاوية السنوسية",
+                  "text": "Archäologische Stätte in Al-Dschaghbub.",
+                  "category": "historical",
+                  "coords": [
+                        24.519564,
+                        29.744114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الزاوية السنوسية",
+                  "text": "Régészeti lelőhely Al-Dschaghbub városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.519564,
+                        29.744114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الزاوية السنوسية",
+                  "text": "Sit arheologic în Al-Dschaghbub.",
+                  "category": "historical",
+                  "coords": [
+                        24.519564,
+                        29.744114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "الزاوية السنوسية",
+                  "text": "Archaeological site in Al-Dschaghbub.",
+                  "category": "historical",
+                  "coords": [
+                        24.519564,
+                        29.744114
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-BU",
     coords: [24.5167, 29.7500],
@@ -2331,7 +8343,88 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
   },
   {
-    id: "qasr-bin-ghashir-cities-v2",
+    id: "qasr-bin-ghashir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسرح قصر بن غشير",
+                  "text": "Das Theatre of Kasr ben Ghachir ist ein Veranstaltungsort in Qasr bin Ghaschir.",
+                  "category": "cultural",
+                  "coords": [
+                        13.179326,
+                        32.68724
+                  ]
+            },
+            {
+                  "name": "منتزة الاحياء البرية",
+                  "text": "Der Wildlife Park ist ein Naturschutzgebiet in Qasr bin Ghaschir.",
+                  "category": "natural",
+                  "coords": [
+                        13.174785,
+                        32.713071
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسرح قصر بن غشير",
+                  "text": "A Theatre of Kasr ben Ghachir egy előadóterem Qasr bin Ghaschir városában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.179326,
+                        32.68724
+                  ]
+            },
+            {
+                  "name": "منتزة الاحياء البرية",
+                  "text": "A Wildlife Park egy természetvédelmi terület Qasr bin Ghaschir városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.174785,
+                        32.713071
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسرح قصر بن غشير",
+                  "text": "Theatre of Kasr ben Ghachir este un loc pentru spectacole în Qasr bin Ghaschir.",
+                  "category": "cultural",
+                  "coords": [
+                        13.179326,
+                        32.68724
+                  ]
+            },
+            {
+                  "name": "منتزة الاحياء البرية",
+                  "text": "Wildlife Park este o rezervație naturală situată în Qasr bin Ghaschir.",
+                  "category": "natural",
+                  "coords": [
+                        13.174785,
+                        32.713071
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatre of Kasr ben Ghachir",
+                  "text": "The Theatre of Kasr ben Ghachir is a venue for performances in Qasr bin Ghaschir.",
+                  "category": "cultural",
+                  "coords": [
+                        13.179326,
+                        32.68724
+                  ]
+            },
+            {
+                  "name": "Wildlife Park",
+                  "text": "The Wildlife Park is a nature reserve situated in Qasr bin Ghaschir.",
+                  "category": "natural",
+                  "coords": [
+                        13.174785,
+                        32.713071
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LY-TB",
     coords: [13.1811, 32.6781],

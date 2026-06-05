@@ -1581,7 +1581,1888 @@ export const polandEconomicV2: POI[] = [
       fr: ["L'un des plus grands centres commerciaux et de loisirs d'Europe de l'Est.", "Situé sur un ancien site industriel de 27 hectares.", "Comprend plus de 300 magasins, boutiques et entreprises de services.", "Abrite le prestigieux Musée d'Art Moderne (ms²).", "La place centrale devient une plage en été et une patinoire en hiver.", "Le projet a reçu plusieurs prix pour son développement urbain exceptionnel."],
     }, image: "/poi-images/poland-lodz-manufaktura-economic-v2.webp"},
   {
-    id: "poland-katowice-business-center-economic-v2",
+    id: "poland-katowice-business-center-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Śląskie Centrum Wolności i Solidarności im. Dziewięciu Górników z \"Wujka\"",
+                  "text": "Das Schlesische Zentrum für Freiheit und Solidarität in Kattowitz gedenkt der Befriedung des Bergwerks Wujek.",
+                  "category": "museum",
+                  "coords": [
+                        18.990118,
+                        50.244233
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezjalne",
+                  "text": "Das Erzdiözesanmuseum beherbergt eine wertvolle Sammlung sakraler Kunst in Kattowitz.",
+                  "category": "museum",
+                  "coords": [
+                        19.018295,
+                        50.250998
+                  ]
+            },
+            {
+                  "name": "Museum für Geschichte der Stadt Kattowitz",
+                  "text": "Das Museum für Stadtgeschichte Katowice dokumentiert die Entwicklung der Stadt und Region.",
+                  "category": "museum",
+                  "coords": [
+                        19.028633,
+                        50.255309
+                  ]
+            },
+            {
+                  "name": "Schlesisches Museum",
+                  "text": "Das Schlesische Museum befindet sich auf einem ehemaligen Zechengelände und bietet moderne Ausstellungen zur regionalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        19.033608,
+                        50.264071
+                  ]
+            },
+            {
+                  "name": "Galeria Sztuki Współczesnej BWA",
+                  "text": "Die BWA-Galerie für zeitgenössische Kunst ist eine bedeutende Ausstellungsinstitution in Kattowitz.",
+                  "category": "museum",
+                  "coords": [
+                        19.022029,
+                        50.262078
+                  ]
+            },
+            {
+                  "name": "Pomnik Żołnierza Polskiego",
+                  "text": "Das Denkmal des Polnischen Soldaten in Kattowitz erinnert an die militärischen Anstrengungen der Nation.",
+                  "category": "historical",
+                  "coords": [
+                        19.035159,
+                        50.250627
+                  ]
+            },
+            {
+                  "name": "Pomnik Powstańców Śląskich",
+                  "text": "Das Denkmal der schlesischen Aufständischen ist ein monumentales Wahrzeichen im Zentrum von Kattowitz.",
+                  "category": "historical",
+                  "coords": [
+                        19.02402,
+                        50.263581
+                  ]
+            },
+            {
+                  "name": "Pomnik Trudu Górniczego",
+                  "text": "Das Denkmal der Bergarbeiterarbeit in Kattowitz ehrt die harte Arbeit der schlesischen Bergleute.",
+                  "category": "historical",
+                  "coords": [
+                        19.041093,
+                        50.24496
+                  ]
+            },
+            {
+                  "name": "Teatr Bez Sceny",
+                  "text": "Das Teatr Bez Sceny (Theater ohne Bühne) ist ein intimes Privattheater in Kattowitz.",
+                  "category": "cultural",
+                  "coords": [
+                        19.018953,
+                        50.259845
+                  ]
+            },
+            {
+                  "name": "Śląski Teatr Lalki i Aktora \"Ateneum\"",
+                  "text": "Das Schlesische Puppen- und Schauspieltheater „Ateneum“ bietet in Kattowitz Vorstellungen für alle Altersgruppen.",
+                  "category": "cultural",
+                  "coords": [
+                        19.021838,
+                        50.258249
+                  ]
+            },
+            {
+                  "name": "Schlesisches Theater",
+                  "text": "Das Schlesische Theater in Kattowitz ist die größte Theaterbühne der Region Schlesien.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023077,
+                        50.259594
+                  ]
+            },
+            {
+                  "name": "Teatr Żelazny",
+                  "text": "Das Teatr Żelazny ist ein bekanntes unabhängiges Theater im Herzen von Kattowitz.",
+                  "category": "cultural",
+                  "coords": [
+                        18.988264,
+                        50.26625
+                  ]
+            },
+            {
+                  "name": "Narodowa Orkiestra Symfoniczna Polskiego Radia",
+                  "text": "Der Sitz des Nationalen Symphonieorchesters des Polnischen Rundfunks in Kattowitz besticht durch herausragende Akustik.",
+                  "category": "cultural",
+                  "coords": [
+                        19.028681,
+                        50.263904
+                  ]
+            },
+            {
+                  "name": "Katowice Miasto Ogrodów Instytucja Kultury imienia Krystyny Bochenek",
+                  "text": "Die Kulturinstitution „Katowice Stadt der Gärten“ organisiert zahlreiche künstlerische Veranstaltungen in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023487,
+                        50.252896
+                  ]
+            },
+            {
+                  "name": "Pierwszy Zbór Chrześcijan Baptystów w Katowicach",
+                  "text": "Die Erste Baptistengemeinde ist ein Ort der Andacht im Zentrum von Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.04408,
+                        50.265795
+                  ]
+            },
+            {
+                  "name": "Centrum Kultury Islamu",
+                  "text": "Das Zentrum für Islamische Kultur dient als Gotteshaus und Gemeindezentrum in Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.033549,
+                        50.258144
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Kazimierza Królewicza",
+                  "text": "Die Garnisonskirche St. Kasimir ist ein bedeutender katholischer Sakralbau in Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.015152,
+                        50.254665
+                  ]
+            },
+            {
+                  "name": "Kościół Zmartwychwstania Pańskiego w Katowicach",
+                  "text": "Die Auferstehungskirche in Kattowitz ist das wichtigste evangelisch-augsburgische Gotteshaus der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        19.026901,
+                        50.258953
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "Die Kirche St. Michael ist eine historische Schrotholzkirche im Kościuszko-Park in Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.0048,
+                        50.240957
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Niepokalanej Jutrzenki Wolności",
+                  "text": "Die Kirche der Unbefleckten Muttergottes der Morgenröte der Freiheit ist ein Gotteshaus in Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.006666,
+                        50.236432
+                  ]
+            },
+            {
+                  "name": "Kirche Sankt Stefan",
+                  "text": "Die St.-Stephans-Basilika in Bogucice ist eine bedeutende Wallfahrtskirche in Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.038782,
+                        50.269328
+                  ]
+            },
+            {
+                  "name": "kaplica Najświętszego Serca Pana Jezusa",
+                  "text": "Die Herz-Jesu-Kapelle ist ein kleiner, besinnlicher Ort der Andacht in Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.041265,
+                        50.269871
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa Robotnika",
+                  "text": "Die Kirche St. Josef der Arbeiter ist ein katholisches Kirchengebäude im Stadtgebiet von Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.013655,
+                        50.280564
+                  ]
+            },
+            {
+                  "name": "Kaplica Świętej Barbary",
+                  "text": "Die historische St.-Barbara-Kapelle am Silesia City Center erinnert an die Bergbauvergangenheit von Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.005408,
+                        50.269309
+                  ]
+            },
+            {
+                  "name": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "Die Kościół Wniebowzięcia Najświętszej Maryi Panny ist eine bekannte Kultstätte im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.034571,
+                        50.2545
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Die Kościół pw. Świętych Apostołów Piotra i Pawła ist eine bekannte Kirche im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.010255,
+                        50.253169
+                  ]
+            },
+            {
+                  "name": "Kościół świętego Józefa",
+                  "text": "Die Kościół świętego Józefa ist eine bekannte Kirche im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.000452,
+                        50.263776
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Męczenników Jana i Pawła",
+                  "text": "Die Kościół pw. Świętych Męczenników Jana i Pawła ist eine bekannte Kirche im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        18.996523,
+                        50.270051
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "Die Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny ist eine bekannte Kirche im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.030314,
+                        50.257115
+                  ]
+            },
+            {
+                  "name": "Diabelska pętla",
+                  "text": "Diabelska pętla ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.995301,
+                        50.275777
+                  ]
+            },
+            {
+                  "name": "Lech Coaster",
+                  "text": "Lech Coaster ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.992895,
+                        50.277615
+                  ]
+            },
+            {
+                  "name": "Pałac Młodzieży im. Aleksandra Kamińskiego",
+                  "text": "Pałac Młodzieży im. Aleksandra Kamińskiego ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.011522,
+                        50.254471
+                  ]
+            },
+            {
+                  "name": "Drapacz Chmur",
+                  "text": "Drapacz Chmur ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.014173,
+                        50.254379
+                  ]
+            },
+            {
+                  "name": "Spodek",
+                  "text": "Spodek ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.025328,
+                        50.266107
+                  ]
+            },
+            {
+                  "name": "Urząd Stanu Cywilnego w Katowicach",
+                  "text": "Urząd Stanu Cywilnego w Katowicach ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.013564,
+                        50.259075
+                  ]
+            },
+            {
+                  "name": "Elka",
+                  "text": "Elka ist eine bekannte Sehenswürdigkeit im Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.98565,
+                        50.282702
+                  ]
+            },
+            {
+                  "name": "Wieża spadochronowa",
+                  "text": "Wieża spadochronowa ist ein bekannter Turm im Geschäftszentrum Kattowitz.",
+                  "category": "tower",
+                  "coords": [
+                        19.007712,
+                        50.24627
+                  ]
+            },
+            {
+                  "name": "Plac Grunwaldzki",
+                  "text": "Plac Grunwaldzki ist ein bekannter Park im Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.021779,
+                        50.268341
+                  ]
+            },
+            {
+                  "name": "Skwer Walentego Fojkisa",
+                  "text": "Skwer Walentego Fojkisa ist ein bekannter Park im Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.017691,
+                        50.284343
+                  ]
+            },
+            {
+                  "name": "Plac Rady Europy",
+                  "text": "Plac Rady Europy ist ein bekannter Park im Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.031141,
+                        50.252333
+                  ]
+            },
+            {
+                  "name": "Plac Wincentego Wajdy",
+                  "text": "Plac Wincentego Wajdy ist ein bekannter Park im Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.037053,
+                        50.269785
+                  ]
+            },
+            {
+                  "name": "Park im. Tadeusza Kościuszki",
+                  "text": "Park im. Tadeusza Kościuszki ist ein bekannter Park im Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.004104,
+                        50.243307
+                  ]
+            },
+            {
+                  "name": "Schlesischer Tierpark",
+                  "text": "Śląski Ogród Zoologiczny ist ein bekannter Zoo im Geschäftszentrum Kattowitz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.994016,
+                        50.282158
+                  ]
+            },
+            {
+                  "name": "Legendia Schlesischer Vergnügungspark",
+                  "text": "Legendia Śląskie Wesołe Miasteczko ist ein bekannter Freizeitpark im Geschäftszentrum Kattowitz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            },
+            {
+                  "name": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych",
+                  "text": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych ist eine Kultstätte im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.021209,
+                        50.278315
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa ist eine Kultstätte im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.021685,
+                        50.271567
+                  ]
+            },
+            {
+                  "name": "Kościół Podwyższenia Krzyża Świętego",
+                  "text": "Kościół Podwyższenia Krzyża Świętego ist eine Kultstätte im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        18.998319,
+                        50.24306
+                  ]
+            },
+            {
+                  "name": "Kościół Opatrzności Bożej",
+                  "text": "Die Kościół Opatrzności Bożej ist eine Kirche im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.045471,
+                        50.258145
+                  ]
+            },
+            {
+                  "name": "Kościół Przemienienia Pańskiego",
+                  "text": "Kościół Przemienienia Pańskiego ist eine Kultstätte im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.015169,
+                        50.262258
+                  ]
+            },
+            {
+                  "name": "Kaplica św. Józefa",
+                  "text": "Kaplica św. Józefa ist eine Kultstätte im Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.028807,
+                        50.252823
+                  ]
+            },
+            {
+                  "name": "Panteon Górnośląski",
+                  "text": "Panteon Górnośląski ist ein Museum im Geschäftszentrum Kattowitz.",
+                  "category": "museum",
+                  "coords": [
+                        19.019017,
+                        50.251907
+                  ]
+            },
+            {
+                  "name": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade",
+                  "text": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade ist ein Museum im Geschäftszentrum Kattowitz.",
+                  "category": "museum",
+                  "coords": [
+                        19.044186,
+                        50.261139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Śląskie Centrum Wolności i Solidarności im. Dziewięciu Górników z \"Wujka\"",
+                  "text": "A Sziléziai Szabadság és Szolidaritás Központja a Wujek szénbánya eseményeinek állít emléket Katowicében.",
+                  "category": "museum",
+                  "coords": [
+                        18.990118,
+                        50.244233
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezjalne",
+                  "text": "Az Érseki Múzeum értékes szakrális művészeti gyűjteményt mutat be Katowicében.",
+                  "category": "museum",
+                  "coords": [
+                        19.018295,
+                        50.250998
+                  ]
+            },
+            {
+                  "name": "Katowicei Történeti Múzeum",
+                  "text": "A Katowicei Történeti Múzeum a város és a régió fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.028633,
+                        50.255309
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląskie",
+                  "text": "A Sziléziai Múzeum egy egykori szénbánya területén található, és a régió történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.033608,
+                        50.264071
+                  ]
+            },
+            {
+                  "name": "Galeria Sztuki Współczesnej BWA",
+                  "text": "A BWA Kortárs Művészeti Galéria egy fontos kiállítótér Katowice központjában.",
+                  "category": "museum",
+                  "coords": [
+                        19.022029,
+                        50.262078
+                  ]
+            },
+            {
+                  "name": "Pomnik Żołnierza Polskiego",
+                  "text": "A Lengyel Katona Emlékműve a nemzet katonai áldozataira emlékeztet Katowicében.",
+                  "category": "historical",
+                  "coords": [
+                        19.035159,
+                        50.250627
+                  ]
+            },
+            {
+                  "name": "Pomnik Powstańców Śląskich",
+                  "text": "A Sziléziai Felkelők Emlékműve egy monumentális alkotás Katowice központjában.",
+                  "category": "historical",
+                  "coords": [
+                        19.02402,
+                        50.263581
+                  ]
+            },
+            {
+                  "name": "Pomnik Trudu Górniczego",
+                  "text": "A Bányászok Munkája Emlékmű a sziléziai bányászok nehéz munkája előtt tiszteleg Katowicében.",
+                  "category": "historical",
+                  "coords": [
+                        19.041093,
+                        50.24496
+                  ]
+            },
+            {
+                  "name": "Teatr Bez Sceny",
+                  "text": "A Teatr Bez Sceny egy meghitt független színház Katowicében.",
+                  "category": "cultural",
+                  "coords": [
+                        19.018953,
+                        50.259845
+                  ]
+            },
+            {
+                  "name": "Śląski Teatr Lalki i Aktora \"Ateneum\"",
+                  "text": "Az „Ateneum” Sziléziai Bábszínház előadásokat kínál minden korosztály számára Katowicében.",
+                  "category": "cultural",
+                  "coords": [
+                        19.021838,
+                        50.258249
+                  ]
+            },
+            {
+                  "name": "Teatr Śląski im. Stanisława Wyspiańskiego",
+                  "text": "A Sziléziai Színház Katowicében a régió legnagyobb kőszínháza.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023077,
+                        50.259594
+                  ]
+            },
+            {
+                  "name": "Teatr Żelazny",
+                  "text": "A Teatr Żelazny egy ismert független színház Katowice városában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.988264,
+                        50.26625
+                  ]
+            },
+            {
+                  "name": "Narodowa Orkiestra Symfoniczna Polskiego Radia",
+                  "text": "A Lengyel Nemzeti Rádió Szimfonikus Zenekarának székhelye kiváló akusztikájáról ismert Katowicében.",
+                  "category": "cultural",
+                  "coords": [
+                        19.028681,
+                        50.263904
+                  ]
+            },
+            {
+                  "name": "Katowice Miasto Ogrodów Instytucja Kultury imienia Krystyny Bochenek",
+                  "text": "A „Katowice a Kertek Városa” Kulturális Intézmény számos művészeti eseményt szervez a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023487,
+                        50.252896
+                  ]
+            },
+            {
+                  "name": "Pierwszy Zbór Chrześcijan Baptystów w Katowicach",
+                  "text": "Az Első Baptista Gyülekezet egy istentiszteleti hely Katowice központjában.",
+                  "category": "religious",
+                  "coords": [
+                        19.04408,
+                        50.265795
+                  ]
+            },
+            {
+                  "name": "Centrum Kultury Islamu",
+                  "text": "Az Iszlám Kulturális Központ imaházként és közösségi központként működik Katowicében.",
+                  "category": "religious",
+                  "coords": [
+                        19.033549,
+                        50.258144
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Kazimierza Królewicza",
+                  "text": "A Szent Kázmér Helyőrségi Templom egy fontos katolikus egyházi épület Katowicében.",
+                  "category": "religious",
+                  "coords": [
+                        19.015152,
+                        50.254665
+                  ]
+            },
+            {
+                  "name": "Kościół Zmartwychwstania Pańskiego w Katowicach",
+                  "text": "A Feltámadás-templom Katowice legfontosabb evangélikus egyházi épülete.",
+                  "category": "religious",
+                  "coords": [
+                        19.026901,
+                        50.258953
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "A Szent Mihály Arkangyal-templom egy történelmi fatemplom Katowicében.",
+                  "category": "religious",
+                  "coords": [
+                        19.0048,
+                        50.240957
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Niepokalanej Jutrzenki Wolności",
+                  "text": "A Szeplőtelen Szűzanya Temploma egy helyi istentiszteleti hely Katowice városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.006666,
+                        50.236432
+                  ]
+            },
+            {
+                  "name": "Bazylika Świętego Szczepana",
+                  "text": "A Szent István-bazilika egy jelentős zarándoktemplom Katowice városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.038782,
+                        50.269328
+                  ]
+            },
+            {
+                  "name": "kaplica Najświętszego Serca Pana Jezusa",
+                  "text": "A Jézus Szent Szíve-kápolna egy meghitt istentiszteleti hely Katowicében.",
+                  "category": "religious",
+                  "coords": [
+                        19.041265,
+                        50.269871
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa Robotnika",
+                  "text": "A Munkás Szent József-templom egy katolikus egyházi épület Katowice városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.013655,
+                        50.280564
+                  ]
+            },
+            {
+                  "name": "Kaplica Świętej Barbary",
+                  "text": "A Szent Borbála-kápolna a Silesia City Center mellett található, és Katowice bányászati múltját idézi.",
+                  "category": "religious",
+                  "coords": [
+                        19.005408,
+                        50.269309
+                  ]
+            },
+            {
+                  "name": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "A Kościół Wniebowzięcia Najświętszej Maryi Panny egy ismert istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        19.034571,
+                        50.2545
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "A Kościół pw. Świętych Apostołów Piotra i Pawła egy ismert templom a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        19.010255,
+                        50.253169
+                  ]
+            },
+            {
+                  "name": "Kościół świętego Józefa",
+                  "text": "A Kościół świętego Józefa egy ismert templom a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        19.000452,
+                        50.263776
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Męczenników Jana i Pawła",
+                  "text": "A Kościół pw. Świętych Męczenników Jana i Pawła egy ismert templom a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        18.996523,
+                        50.270051
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "A Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny egy ismert templom a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        19.030314,
+                        50.257115
+                  ]
+            },
+            {
+                  "name": "Diabelska pętla",
+                  "text": "A Diabelska pętla egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.995301,
+                        50.275777
+                  ]
+            },
+            {
+                  "name": "Lech Coaster",
+                  "text": "A Lech Coaster egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.992895,
+                        50.277615
+                  ]
+            },
+            {
+                  "name": "Pałac Młodzieży im. Aleksandra Kamińskiego",
+                  "text": "A Pałac Młodzieży im. Aleksandra Kamińskiego egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.011522,
+                        50.254471
+                  ]
+            },
+            {
+                  "name": "Drapacz Chmur",
+                  "text": "A Drapacz Chmur egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.014173,
+                        50.254379
+                  ]
+            },
+            {
+                  "name": "Spodek",
+                  "text": "A Spodek egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.025328,
+                        50.266107
+                  ]
+            },
+            {
+                  "name": "Urząd Stanu Cywilnego w Katowicach",
+                  "text": "Az Urząd Stanu Cywilnego w Katowicach egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.013564,
+                        50.259075
+                  ]
+            },
+            {
+                  "name": "Elka",
+                  "text": "Az Elka egy ismert látványosság a Geschäftszentrum Kattowitz területén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.98565,
+                        50.282702
+                  ]
+            },
+            {
+                  "name": "Wieża spadochronowa",
+                  "text": "A Wieża spadochronowa egy ismert torony a Geschäftszentrum Kattowitz területén.",
+                  "category": "tower",
+                  "coords": [
+                        19.007712,
+                        50.24627
+                  ]
+            },
+            {
+                  "name": "Plac Grunwaldzki",
+                  "text": "A Plac Grunwaldzki egy ismert park a Geschäftszentrum Kattowitz területén.",
+                  "category": "park",
+                  "coords": [
+                        19.021779,
+                        50.268341
+                  ]
+            },
+            {
+                  "name": "Skwer Walentego Fojkisa",
+                  "text": "A Skwer Walentego Fojkisa egy ismert park a Geschäftszentrum Kattowitz területén.",
+                  "category": "park",
+                  "coords": [
+                        19.017691,
+                        50.284343
+                  ]
+            },
+            {
+                  "name": "Plac Rady Europy",
+                  "text": "A Plac Rady Europy egy ismert park a Geschäftszentrum Kattowitz területén.",
+                  "category": "park",
+                  "coords": [
+                        19.031141,
+                        50.252333
+                  ]
+            },
+            {
+                  "name": "Plac Wincentego Wajdy",
+                  "text": "A Plac Wincentego Wajdy egy ismert park a Geschäftszentrum Kattowitz területén.",
+                  "category": "park",
+                  "coords": [
+                        19.037053,
+                        50.269785
+                  ]
+            },
+            {
+                  "name": "Park im. Tadeusza Kościuszki",
+                  "text": "A Park im. Tadeusza Kościuszki egy ismert park a Geschäftszentrum Kattowitz területén.",
+                  "category": "park",
+                  "coords": [
+                        19.004104,
+                        50.243307
+                  ]
+            },
+            {
+                  "name": "Śląski Ogród Zoologiczny",
+                  "text": "A Śląski Ogród Zoologiczny egy ismert állatkert a Geschäftszentrum Kattowitz területén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.994016,
+                        50.282158
+                  ]
+            },
+            {
+                  "name": "Legendia Śląskie Wesołe Miasteczko",
+                  "text": "A Legendia Śląskie Wesołe Miasteczko egy ismert vidámpark a Geschäftszentrum Kattowitz területén.",
+                  "category": "recreational",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            },
+            {
+                  "name": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych",
+                  "text": "A Parafia Najświętszej Maryi Panny Wspomożenia Wiernych egy istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        19.021209,
+                        50.278315
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "A Kościół pw. Najświętszego Serca Pana Jezusa egy istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        19.021685,
+                        50.271567
+                  ]
+            },
+            {
+                  "name": "Kościół Podwyższenia Krzyża Świętego",
+                  "text": "A Kościół Podwyższenia Krzyża Świętego egy istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        18.998319,
+                        50.24306
+                  ]
+            },
+            {
+                  "name": "Kościół Opatrzności Bożej",
+                  "text": "A Kościół Opatrzności Bożej egy templom a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        19.045471,
+                        50.258145
+                  ]
+            },
+            {
+                  "name": "Kościół Przemienienia Pańskiego",
+                  "text": "A Kościół Przemienienia Pańskiego egy istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        19.015169,
+                        50.262258
+                  ]
+            },
+            {
+                  "name": "Kaplica św. Józefa",
+                  "text": "A Kaplica św. Józefa egy istentiszteleti hely a Geschäftszentrum Kattowitz területén.",
+                  "category": "religious",
+                  "coords": [
+                        19.028807,
+                        50.252823
+                  ]
+            },
+            {
+                  "name": "Panteon Górnośląski",
+                  "text": "A Panteon Górnośląski egy múzeum a Geschäftszentrum Kattowitz területén.",
+                  "category": "museum",
+                  "coords": [
+                        19.019017,
+                        50.251907
+                  ]
+            },
+            {
+                  "name": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade",
+                  "text": "A FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade egy múzeum a Geschäftszentrum Kattowitz területén.",
+                  "category": "museum",
+                  "coords": [
+                        19.044186,
+                        50.261139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Śląskie Centrum Wolności i Solidarności im. Dziewięciu Górników z \"Wujka\"",
+                  "text": "Centrul Silezian pentru Libertate și Solidaritate este un muzeu memorial din Katowice dedicat evenimentelor de la mina Wujek.",
+                  "category": "museum",
+                  "coords": [
+                        18.990118,
+                        50.244233
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezjalne",
+                  "text": "Muzeul Arhidiecezan găzduiește o colecție importantă de artă religioasă în Katowice.",
+                  "category": "museum",
+                  "coords": [
+                        19.018295,
+                        50.250998
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Katowic",
+                  "text": "Muzeul de Istorie a orașului Katowice prezintă dezvoltarea orașului și a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        19.028633,
+                        50.255309
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląskie",
+                  "text": "Muzeul Silezian, situat pe locul unei foste mine de cărbune, oferă expoziții despre istoria regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        19.033608,
+                        50.264071
+                  ]
+            },
+            {
+                  "name": "Galeria Sztuki Współczesnej BWA",
+                  "text": "Galeria de Artă Contemporană BWA este o instituție expozițională importantă din Katowice.",
+                  "category": "museum",
+                  "coords": [
+                        19.022029,
+                        50.262078
+                  ]
+            },
+            {
+                  "name": "Pomnik Żołnierza Polskiego",
+                  "text": "Monumentul Soldatului Polonez din Katowice comemorează eforturile militare ale națiunii.",
+                  "category": "historical",
+                  "coords": [
+                        19.035159,
+                        50.250627
+                  ]
+            },
+            {
+                  "name": "Pomnik Powstańców Śląskich",
+                  "text": "Monumentul Insurgenților Silezieni este un reper emblematic în centrul orașului Katowice.",
+                  "category": "historical",
+                  "coords": [
+                        19.02402,
+                        50.263581
+                  ]
+            },
+            {
+                  "name": "Pomnik Trudu Górniczego",
+                  "text": "Monumentul Muncii Minerilor din Katowice onorează munca grea a minerilor din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        19.041093,
+                        50.24496
+                  ]
+            },
+            {
+                  "name": "Teatr Bez Sceny",
+                  "text": "Teatr Bez Sceny este un teatru independent și intim situat în Katowice.",
+                  "category": "cultural",
+                  "coords": [
+                        19.018953,
+                        50.259845
+                  ]
+            },
+            {
+                  "name": "Śląski Teatr Lalki i Aktora \"Ateneum\"",
+                  "text": "Teatrul de Păpuși și Actori „Ateneum” din Silezia oferă spectacole pentru publicul din Katowice.",
+                  "category": "cultural",
+                  "coords": [
+                        19.021838,
+                        50.258249
+                  ]
+            },
+            {
+                  "name": "Teatr Śląski im. Stanisława Wyspiańskiego",
+                  "text": "Teatrul Silezian din Katowice este cea mai mare scenă de teatru din regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023077,
+                        50.259594
+                  ]
+            },
+            {
+                  "name": "Teatr Żelazny",
+                  "text": "Teatr Żelazny este un teatru independent apreciat din Katowice.",
+                  "category": "cultural",
+                  "coords": [
+                        18.988264,
+                        50.26625
+                  ]
+            },
+            {
+                  "name": "Narodowa Orkiestra Symfoniczna Polskiego Radia",
+                  "text": "Sediul Orchestrei Simfonice Naționale a Radioului Polonez din Katowice este renumit pentru acustica sa excepțională.",
+                  "category": "cultural",
+                  "coords": [
+                        19.028681,
+                        50.263904
+                  ]
+            },
+            {
+                  "name": "Katowice Miasto Ogrodów Instytucja Kultury imienia Krystyny Bochenek",
+                  "text": "Instituția de cultură „Katowice Orașul Grădinilor” organizează o varietate de evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023487,
+                        50.252896
+                  ]
+            },
+            {
+                  "name": "Pierwszy Zbór Chrześcijan Baptystów w Katowicach",
+                  "text": "Prima Biserică Baptistă este un lăcaș de cult situat în Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.04408,
+                        50.265795
+                  ]
+            },
+            {
+                  "name": "Centrum Kultury Islamu",
+                  "text": "Centrul de Cultură Islamică funcționează ca un lăcaș de cult și centru comunitar în Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.033549,
+                        50.258144
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Kazimierza Królewicza",
+                  "text": "Biserica de garnizoană Sfântul Cazimir este o biserică catolică impunătoare din Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.015152,
+                        50.254665
+                  ]
+            },
+            {
+                  "name": "Kościół Zmartwychwstania Pańskiego w Katowicach",
+                  "text": "Biserica Învierii este principalul lăcaș de cult evanghelic-augsburgic din Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.026901,
+                        50.258953
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "Biserica Sfântul Arhanghel Mihail este o biserică istorică din lemn aflată în Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.0048,
+                        50.240957
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Niepokalanej Jutrzenki Wolności",
+                  "text": "Biserica Maicii Domnului Neprihănite este un lăcaș de cult situat în Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.006666,
+                        50.236432
+                  ]
+            },
+            {
+                  "name": "Bazylika Świętego Szczepana",
+                  "text": "Bazilica Sfântul Ștefan este o importantă biserică de pelerinaj situată în Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.038782,
+                        50.269328
+                  ]
+            },
+            {
+                  "name": "kaplica Najświętszego Serca Pana Jezusa",
+                  "text": "Capela Preasfintei Inimi a lui Iisus este un mic lăcaș de cult din Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.041265,
+                        50.269871
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa Robotnika",
+                  "text": "Biserica Sfântul Iosif Muncitorul este o biserică catolică aflată în orașul Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.013655,
+                        50.280564
+                  ]
+            },
+            {
+                  "name": "Kaplica Świętej Barbary",
+                  "text": "Capela Sfânta Barbara de lângă Silesia City Center amintește de trecutul minier al orașului Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.005408,
+                        50.269309
+                  ]
+            },
+            {
+                  "name": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "Kościół Wniebowzięcia Najświętszej Maryi Panny este un lăcaș de cult notabil în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.034571,
+                        50.2545
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Kościół pw. Świętych Apostołów Piotra i Pawła este o biserică notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.010255,
+                        50.253169
+                  ]
+            },
+            {
+                  "name": "Kościół świętego Józefa",
+                  "text": "Kościół świętego Józefa este o biserică notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.000452,
+                        50.263776
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Męczenników Jana i Pawła",
+                  "text": "Kościół pw. Świętych Męczenników Jana i Pawła este o biserică notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        18.996523,
+                        50.270051
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny este o biserică notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.030314,
+                        50.257115
+                  ]
+            },
+            {
+                  "name": "Diabelska pętla",
+                  "text": "Diabelska pętla este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.995301,
+                        50.275777
+                  ]
+            },
+            {
+                  "name": "Lech Coaster",
+                  "text": "Lech Coaster este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.992895,
+                        50.277615
+                  ]
+            },
+            {
+                  "name": "Pałac Młodzieży im. Aleksandra Kamińskiego",
+                  "text": "Pałac Młodzieży im. Aleksandra Kamińskiego este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.011522,
+                        50.254471
+                  ]
+            },
+            {
+                  "name": "Drapacz Chmur",
+                  "text": "Drapacz Chmur este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.014173,
+                        50.254379
+                  ]
+            },
+            {
+                  "name": "Spodek",
+                  "text": "Spodek este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.025328,
+                        50.266107
+                  ]
+            },
+            {
+                  "name": "Urząd Stanu Cywilnego w Katowicach",
+                  "text": "Urząd Stanu Cywilnego w Katowicach este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.013564,
+                        50.259075
+                  ]
+            },
+            {
+                  "name": "Elka",
+                  "text": "Elka este o atracție notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.98565,
+                        50.282702
+                  ]
+            },
+            {
+                  "name": "Wieża spadochronowa",
+                  "text": "Wieża spadochronowa este un turn notabil în Geschäftszentrum Kattowitz.",
+                  "category": "tower",
+                  "coords": [
+                        19.007712,
+                        50.24627
+                  ]
+            },
+            {
+                  "name": "Plac Grunwaldzki",
+                  "text": "Plac Grunwaldzki este un parc notabil în Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.021779,
+                        50.268341
+                  ]
+            },
+            {
+                  "name": "Skwer Walentego Fojkisa",
+                  "text": "Skwer Walentego Fojkisa este un parc notabil în Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.017691,
+                        50.284343
+                  ]
+            },
+            {
+                  "name": "Plac Rady Europy",
+                  "text": "Plac Rady Europy este un parc notabil în Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.031141,
+                        50.252333
+                  ]
+            },
+            {
+                  "name": "Plac Wincentego Wajdy",
+                  "text": "Plac Wincentego Wajdy este un parc notabil în Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.037053,
+                        50.269785
+                  ]
+            },
+            {
+                  "name": "Park im. Tadeusza Kościuszki",
+                  "text": "Park im. Tadeusza Kościuszki este un parc notabil în Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.004104,
+                        50.243307
+                  ]
+            },
+            {
+                  "name": "Śląski Ogród Zoologiczny",
+                  "text": "Śląski Ogród Zoologiczny este o grădină zoologică notabilă în Geschäftszentrum Kattowitz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.994016,
+                        50.282158
+                  ]
+            },
+            {
+                  "name": "Legendia Śląskie Wesołe Miasteczko",
+                  "text": "Legendia Śląskie Wesołe Miasteczko este un parc de distracții notabil în Geschäftszentrum Kattowitz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            },
+            {
+                  "name": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych",
+                  "text": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych este un lăcaș de cult în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.021209,
+                        50.278315
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa este un lăcaș de cult în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.021685,
+                        50.271567
+                  ]
+            },
+            {
+                  "name": "Kościół Podwyższenia Krzyża Świętego",
+                  "text": "Kościół Podwyższenia Krzyża Świętego este un lăcaș de cult în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        18.998319,
+                        50.24306
+                  ]
+            },
+            {
+                  "name": "Kościół Opatrzności Bożej",
+                  "text": "Kościół Opatrzności Bożej este o biserică în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.045471,
+                        50.258145
+                  ]
+            },
+            {
+                  "name": "Kościół Przemienienia Pańskiego",
+                  "text": "Kościół Przemienienia Pańskiego este un lăcaș de cult în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.015169,
+                        50.262258
+                  ]
+            },
+            {
+                  "name": "Kaplica św. Józefa",
+                  "text": "Kaplica św. Józefa este un lăcaș de cult în Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.028807,
+                        50.252823
+                  ]
+            },
+            {
+                  "name": "Panteon Górnośląski",
+                  "text": "Panteon Górnośląski este un muzeu în Geschäftszentrum Kattowitz.",
+                  "category": "museum",
+                  "coords": [
+                        19.019017,
+                        50.251907
+                  ]
+            },
+            {
+                  "name": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade",
+                  "text": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade este un muzeu în Geschäftszentrum Kattowitz.",
+                  "category": "museum",
+                  "coords": [
+                        19.044186,
+                        50.261139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silesian Freedom And Solidarity Centre",
+                  "text": "The Silesian Freedom and Solidarity Centre is a museum commemorating the pacification of the Wujek coal mine in Katowice.",
+                  "category": "museum",
+                  "coords": [
+                        18.990118,
+                        50.244233
+                  ]
+            },
+            {
+                  "name": "Muzeum Archidiecezjalne",
+                  "text": "The Archdiocesan Museum houses an important collection of sacred art in Katowice.",
+                  "category": "museum",
+                  "coords": [
+                        19.018295,
+                        50.250998
+                  ]
+            },
+            {
+                  "name": "Museum of Katowice History",
+                  "text": "The Museum of Katowice History showcases the development of the city and its region.",
+                  "category": "museum",
+                  "coords": [
+                        19.028633,
+                        50.255309
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląskie",
+                  "text": "The Silesian Museum, situated on a former coal mine site, offers rich exhibitions on regional history and art.",
+                  "category": "museum",
+                  "coords": [
+                        19.033608,
+                        50.264071
+                  ]
+            },
+            {
+                  "name": "Galeria Sztuki Współczesnej BWA",
+                  "text": "The BWA Contemporary Art Gallery is a prominent exhibition venue located in Katowice.",
+                  "category": "museum",
+                  "coords": [
+                        19.022029,
+                        50.262078
+                  ]
+            },
+            {
+                  "name": "Pomnik Żołnierza Polskiego",
+                  "text": "The Monument of the Polish Soldier in Katowice commemorates the nation's military sacrifices.",
+                  "category": "historical",
+                  "coords": [
+                        19.035159,
+                        50.250627
+                  ]
+            },
+            {
+                  "name": "Pomnik Powstańców Śląskich",
+                  "text": "The Monument to the Silesian Insurgents is an iconic landmark in the center of Katowice.",
+                  "category": "historical",
+                  "coords": [
+                        19.02402,
+                        50.263581
+                  ]
+            },
+            {
+                  "name": "Pomnik Trudu Górniczego",
+                  "text": "The Monument of Miners' Toil in Katowice honors the hard work of the region's miners.",
+                  "category": "historical",
+                  "coords": [
+                        19.041093,
+                        50.24496
+                  ]
+            },
+            {
+                  "name": "Teatr Bez Sceny",
+                  "text": "Teatr Bez Sceny is an intimate independent theatre located in Katowice.",
+                  "category": "cultural",
+                  "coords": [
+                        19.018953,
+                        50.259845
+                  ]
+            },
+            {
+                  "name": "Śląski Teatr Lalki i Aktora \"Ateneum\"",
+                  "text": "The Silesian Puppet and Actor Theatre \"Ateneum\" provides engaging performances in Katowice.",
+                  "category": "cultural",
+                  "coords": [
+                        19.021838,
+                        50.258249
+                  ]
+            },
+            {
+                  "name": "Silesian Theatre",
+                  "text": "The Silesian Theatre in Katowice is the largest performing arts theatre in the Silesia region.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023077,
+                        50.259594
+                  ]
+            },
+            {
+                  "name": "Teatr Żelazny",
+                  "text": "Teatr Żelazny is a well-known independent theatre in Katowice.",
+                  "category": "cultural",
+                  "coords": [
+                        18.988264,
+                        50.26625
+                  ]
+            },
+            {
+                  "name": "Narodowa Orkiestra Symfoniczna Polskiego Radia",
+                  "text": "The seat of the Polish National Radio Symphony Orchestra in Katowice is renowned for its outstanding acoustics.",
+                  "category": "cultural",
+                  "coords": [
+                        19.028681,
+                        50.263904
+                  ]
+            },
+            {
+                  "name": "Katowice Miasto Ogrodów Instytucja Kultury imienia Krystyny Bochenek",
+                  "text": "The \"Katowice City of Gardens\" Cultural Institution organizes a wide array of artistic events in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        19.023487,
+                        50.252896
+                  ]
+            },
+            {
+                  "name": "Pierwszy Zbór Chrześcijan Baptystów w Katowicach",
+                  "text": "The First Baptist Church is a local place of worship located in Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.04408,
+                        50.265795
+                  ]
+            },
+            {
+                  "name": "Centrum Kultury Islamu",
+                  "text": "The Center of Islamic Culture serves as a place of worship and community hub in Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.033549,
+                        50.258144
+                  ]
+            },
+            {
+                  "name": "Garrison Church of St Casimir",
+                  "text": "The Garrison Church of St Casimir is a prominent Catholic church situated in Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.015152,
+                        50.254665
+                  ]
+            },
+            {
+                  "name": "Kościół Zmartwychwstania Pańskiego w Katowicach",
+                  "text": "The Church of the Resurrection is the main Evangelical-Augsburg place of worship in Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.026901,
+                        50.258953
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "The Church of St. Michael the Archangel is a historic wooden church located in Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.0048,
+                        50.240957
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Niepokalanej Jutrzenki Wolności",
+                  "text": "The Church of Our Lady Immaculate Dawn of Freedom is a place of worship in Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.006666,
+                        50.236432
+                  ]
+            },
+            {
+                  "name": "Bazylika Świętego Szczepana",
+                  "text": "The Basilica of St. Stephen is a significant pilgrimage church located in Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.038782,
+                        50.269328
+                  ]
+            },
+            {
+                  "name": "kaplica Najświętszego Serca Pana Jezusa",
+                  "text": "The Chapel of the Sacred Heart of Jesus is a small place of worship in Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.041265,
+                        50.269871
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa Robotnika",
+                  "text": "The Church of St. Joseph the Worker is a Catholic parish church situated in Katowice.",
+                  "category": "religious",
+                  "coords": [
+                        19.013655,
+                        50.280564
+                  ]
+            },
+            {
+                  "name": "Kaplica Świętej Barbary",
+                  "text": "St. Barbara's Chapel near the Silesia City Center stands as a reminder of Katowice's mining heritage.",
+                  "category": "religious",
+                  "coords": [
+                        19.005408,
+                        50.269309
+                  ]
+            },
+            {
+                  "name": "Kościół Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "The Kościół Wniebowzięcia Najświętszej Maryi Panny is a notable place of worship located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.034571,
+                        50.2545
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "The Kościół pw. Świętych Apostołów Piotra i Pawła is a notable church located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.010255,
+                        50.253169
+                  ]
+            },
+            {
+                  "name": "Kościół świętego Józefa",
+                  "text": "The Kościół świętego Józefa is a notable church located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.000452,
+                        50.263776
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Męczenników Jana i Pawła",
+                  "text": "The Kościół pw. Świętych Męczenników Jana i Pawła is a notable church located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        18.996523,
+                        50.270051
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "The Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny is a notable church located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.030314,
+                        50.257115
+                  ]
+            },
+            {
+                  "name": "Diabelska pętla",
+                  "text": "Diabelska pętla is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.995301,
+                        50.275777
+                  ]
+            },
+            {
+                  "name": "Lech Coaster",
+                  "text": "Lech Coaster is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.992895,
+                        50.277615
+                  ]
+            },
+            {
+                  "name": "Pałac Młodzieży im. Aleksandra Kamińskiego",
+                  "text": "Pałac Młodzieży im. Aleksandra Kamińskiego is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.011522,
+                        50.254471
+                  ]
+            },
+            {
+                  "name": "Drapacz Chmur",
+                  "text": "Drapacz Chmur is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.014173,
+                        50.254379
+                  ]
+            },
+            {
+                  "name": "Spodek",
+                  "text": "Spodek is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.025328,
+                        50.266107
+                  ]
+            },
+            {
+                  "name": "Urząd Stanu Cywilnego w Katowicach",
+                  "text": "Urząd Stanu Cywilnego w Katowicach is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        19.013564,
+                        50.259075
+                  ]
+            },
+            {
+                  "name": "Elka",
+                  "text": "Elka is a notable attraction located in Geschäftszentrum Kattowitz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.98565,
+                        50.282702
+                  ]
+            },
+            {
+                  "name": "Wieża spadochronowa",
+                  "text": "Wieża spadochronowa is a notable tower located in Geschäftszentrum Kattowitz.",
+                  "category": "tower",
+                  "coords": [
+                        19.007712,
+                        50.24627
+                  ]
+            },
+            {
+                  "name": "Plac Grunwaldzki",
+                  "text": "Plac Grunwaldzki is a notable park located in Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.021779,
+                        50.268341
+                  ]
+            },
+            {
+                  "name": "Skwer Walentego Fojkisa",
+                  "text": "Skwer Walentego Fojkisa is a notable park located in Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.017691,
+                        50.284343
+                  ]
+            },
+            {
+                  "name": "Plac Rady Europy",
+                  "text": "Plac Rady Europy is a notable park located in Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.031141,
+                        50.252333
+                  ]
+            },
+            {
+                  "name": "Plac Wincentego Wajdy",
+                  "text": "Plac Wincentego Wajdy is a notable park located in Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.037053,
+                        50.269785
+                  ]
+            },
+            {
+                  "name": "Park im. Tadeusza Kościuszki",
+                  "text": "Park im. Tadeusza Kościuszki is a notable park located in Geschäftszentrum Kattowitz.",
+                  "category": "park",
+                  "coords": [
+                        19.004104,
+                        50.243307
+                  ]
+            },
+            {
+                  "name": "Śląski Ogród Zoologiczny",
+                  "text": "Śląski Ogród Zoologiczny is a notable zoo located in Geschäftszentrum Kattowitz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.994016,
+                        50.282158
+                  ]
+            },
+            {
+                  "name": "Legendia Śląskie Wesołe Miasteczko",
+                  "text": "Legendia Śląskie Wesołe Miasteczko is a notable theme park located in Geschäftszentrum Kattowitz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.991634,
+                        50.275957
+                  ]
+            },
+            {
+                  "name": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych",
+                  "text": "Parafia Najświętszej Maryi Panny Wspomożenia Wiernych is a place of worship located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.021209,
+                        50.278315
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Kościół pw. Najświętszego Serca Pana Jezusa is a place of worship located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.021685,
+                        50.271567
+                  ]
+            },
+            {
+                  "name": "Kościół Podwyższenia Krzyża Świętego",
+                  "text": "Kościół Podwyższenia Krzyża Świętego is a place of worship located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        18.998319,
+                        50.24306
+                  ]
+            },
+            {
+                  "name": "Kościół Opatrzności Bożej",
+                  "text": "The Kościół Opatrzności Bożej is a church located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.045471,
+                        50.258145
+                  ]
+            },
+            {
+                  "name": "Kościół Przemienienia Pańskiego",
+                  "text": "Kościół Przemienienia Pańskiego is a place of worship located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.015169,
+                        50.262258
+                  ]
+            },
+            {
+                  "name": "Kaplica św. Józefa",
+                  "text": "Kaplica św. Józefa is a place of worship located in Geschäftszentrum Kattowitz.",
+                  "category": "religious",
+                  "coords": [
+                        19.028807,
+                        50.252823
+                  ]
+            },
+            {
+                  "name": "Panteon Górnośląski",
+                  "text": "Panteon Górnośląski is a museum located in Geschäftszentrum Kattowitz.",
+                  "category": "museum",
+                  "coords": [
+                        19.019017,
+                        50.251907
+                  ]
+            },
+            {
+                  "name": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade",
+                  "text": "FunHouse Katowice - Interaktywne Muzeum Flipperów i Gier Arcade is a museum located in Geschäftszentrum Kattowitz.",
+                  "category": "museum",
+                  "coords": [
+                        19.044186,
+                        50.261139
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Geschäftszentrum Kattowitz", hu: "Katowicei üzleti központ", ro: "Centrul de afaceri Katowice", en: "Katowice Business Center"},

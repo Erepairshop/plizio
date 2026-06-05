@@ -51,7 +51,88 @@ export const poiExtraIndiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "surat-cities-v2",
+    id: "surat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gandhi Smruti Hall",
+                  "text": "Die Gandhi Smruti Hall ist ein Theater in Surat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.814022,
+                        21.185798
+                  ]
+            },
+            {
+                  "name": "Swami Vivekanand Circle, Makkaipul, Nanpura, Surat.",
+                  "text": "Der Swami Vivekanand Circle ist ein markantes Denkmal in Surat.",
+                  "category": "historical",
+                  "coords": [
+                        72.816876,
+                        21.192115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gandhi Smruti Hall",
+                  "text": "A Gandhi Smruti Hall egy színház Suratban.",
+                  "category": "cultural",
+                  "coords": [
+                        72.814022,
+                        21.185798
+                  ]
+            },
+            {
+                  "name": "Swami Vivekanand Circle, Makkaipul, Nanpura, Surat.",
+                  "text": "A Swami Vivekanand Circle egy jellegzetes emlékmű Suratban.",
+                  "category": "historical",
+                  "coords": [
+                        72.816876,
+                        21.192115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gandhi Smruti Hall",
+                  "text": "Sala Gandhi Smruti este un teatru din Surat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.814022,
+                        21.185798
+                  ]
+            },
+            {
+                  "name": "Swami Vivekanand Circle, Makkaipul, Nanpura, Surat.",
+                  "text": "Cercul Swami Vivekanand este un monument distinctiv din Surat.",
+                  "category": "historical",
+                  "coords": [
+                        72.816876,
+                        21.192115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gandhi Smruti Hall",
+                  "text": "The Gandhi Smruti Hall is a theatre in Surat.",
+                  "category": "cultural",
+                  "coords": [
+                        72.814022,
+                        21.185798
+                  ]
+            },
+            {
+                  "name": "Swami Vivekanand Circle, Makkaipul, Nanpura, Surat.",
+                  "text": "The Swami Vivekanand Circle is a prominent monument in Surat.",
+                  "category": "historical",
+                  "coords": [
+                        72.816876,
+                        21.192115
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IN-GJ",
     coords: [72.831061, 21.17024],
@@ -327,7 +408,340 @@ export const poiExtraIndiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "thane-cities-v2",
+    id: "thane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tikujiniwadi Water Park",
+                  "text": "Der Tikujiniwadi Water Park ist ein beliebter Vergnügungspark und ein Erholungsziel in Thane.",
+                  "category": "recreational",
+                  "coords": [
+                        72.966591,
+                        19.238232
+                  ]
+            },
+            {
+                  "name": "Thane Fort",
+                  "text": "Das Thane Fort ist eine historische Festungsanlage in der Stadt Thane.",
+                  "category": "fortress",
+                  "coords": [
+                        72.983194,
+                        19.199988
+                  ]
+            },
+            {
+                  "name": "Ram Ganesh Gadkari Rangayatan",
+                  "text": "Ram Ganesh Gadkari Rangayatan ist ein kulturelles Theater in Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.974107,
+                        19.194091
+                  ]
+            },
+            {
+                  "name": "Dr Kashinath Ghanekar Drama theatre",
+                  "text": "Das Dr. Kashinath Ghanekar Drama Theatre ist ein modernes Auditorium und ein Veranstaltungsort in Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.970461,
+                        19.228828
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Dieses Amphitheater bietet einen Open-Air-Veranstaltungsort für Aufführungen in Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.990784,
+                        19.228935
+                  ]
+            },
+            {
+                  "name": "Singhania DC3",
+                  "text": "Singhania DC3 ist eine lokale Attraktion in Thane.",
+                  "category": "landmark",
+                  "coords": [
+                        72.96573,
+                        19.209992
+                  ]
+            },
+            {
+                  "name": "KUCHBHI STUDIO",
+                  "text": "KUCHBHI STUDIO ist ein Kunstzentrum in der Stadt Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.973802,
+                        19.198209
+                  ]
+            },
+            {
+                  "name": "Observation Deck",
+                  "text": "Das Observation Deck bietet einen Panoramablick über die Stadt Thane.",
+                  "category": "natural",
+                  "coords": [
+                        72.989748,
+                        19.228384
+                  ]
+            },
+            {
+                  "name": "Anand Dighe Smarak",
+                  "text": "Anand Dighe Smarak ist ein Denkmal in Thane.",
+                  "category": "historical",
+                  "coords": [
+                        72.977306,
+                        19.197165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tikujiniwadi Water Park",
+                  "text": "A Tikujiniwadi vízi park egy népszerű vidámpark és üdülőhely Thane városában.",
+                  "category": "recreational",
+                  "coords": [
+                        72.966591,
+                        19.238232
+                  ]
+            },
+            {
+                  "name": "Thane Fort",
+                  "text": "A Thane-erőd egy történelmi erődítmény Thane városában.",
+                  "category": "fortress",
+                  "coords": [
+                        72.983194,
+                        19.199988
+                  ]
+            },
+            {
+                  "name": "Ram Ganesh Gadkari Rangayatan",
+                  "text": "A Ram Ganesh Gadkari Rangayatan egy kulturális színház Thane városában.",
+                  "category": "cultural",
+                  "coords": [
+                        72.974107,
+                        19.194091
+                  ]
+            },
+            {
+                  "name": "Dr Kashinath Ghanekar Drama theatre",
+                  "text": "A Dr. Kashinath Ghanekar Drámaszínház egy modern nézőtér és előadótér Thane városában.",
+                  "category": "cultural",
+                  "coords": [
+                        72.970461,
+                        19.228828
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ez az amfiteátrum szabadtéri helyszínt biztosít az előadások számára Thane városában.",
+                  "category": "cultural",
+                  "coords": [
+                        72.990784,
+                        19.228935
+                  ]
+            },
+            {
+                  "name": "Singhania DC3",
+                  "text": "A Singhania DC3 egy helyi látványosság Thane városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.96573,
+                        19.209992
+                  ]
+            },
+            {
+                  "name": "KUCHBHI STUDIO",
+                  "text": "A KUCHBHI STUDIO egy művészeti központ Thane városában.",
+                  "category": "cultural",
+                  "coords": [
+                        72.973802,
+                        19.198209
+                  ]
+            },
+            {
+                  "name": "Observation Deck",
+                  "text": "A kilátó panorámás kilátást nyújt Thane városára.",
+                  "category": "natural",
+                  "coords": [
+                        72.989748,
+                        19.228384
+                  ]
+            },
+            {
+                  "name": "Anand Dighe Smarak",
+                  "text": "Az Anand Dighe Smarak egy emlékmű Thane városában.",
+                  "category": "historical",
+                  "coords": [
+                        72.977306,
+                        19.197165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tikujiniwadi Water Park",
+                  "text": "Parcul acvatic Tikujiniwadi este un parc de distracții și o stațiune populară din Thane.",
+                  "category": "recreational",
+                  "coords": [
+                        72.966591,
+                        19.238232
+                  ]
+            },
+            {
+                  "name": "Thane Fort",
+                  "text": "Fortul Thane este o fortificație istorică situată în orașul Thane.",
+                  "category": "fortress",
+                  "coords": [
+                        72.983194,
+                        19.199988
+                  ]
+            },
+            {
+                  "name": "Ram Ganesh Gadkari Rangayatan",
+                  "text": "Ram Ganesh Gadkari Rangayatan este un teatru cultural situat în Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.974107,
+                        19.194091
+                  ]
+            },
+            {
+                  "name": "Dr Kashinath Ghanekar Drama theatre",
+                  "text": "Teatrul dramatic Dr Kashinath Ghanekar este un auditoriu modern și un spațiu de spectacole în Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.970461,
+                        19.228828
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Acest amfiteatru oferă un spațiu în aer liber pentru spectacole în Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.990784,
+                        19.228935
+                  ]
+            },
+            {
+                  "name": "Singhania DC3",
+                  "text": "Singhania DC3 este o atracție locală situată în Thane.",
+                  "category": "landmark",
+                  "coords": [
+                        72.96573,
+                        19.209992
+                  ]
+            },
+            {
+                  "name": "KUCHBHI STUDIO",
+                  "text": "KUCHBHI STUDIO este un centru de arte situat în orașul Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.973802,
+                        19.198209
+                  ]
+            },
+            {
+                  "name": "Observation Deck",
+                  "text": "Puntea de observație oferă vederi panoramice asupra orașului Thane.",
+                  "category": "natural",
+                  "coords": [
+                        72.989748,
+                        19.228384
+                  ]
+            },
+            {
+                  "name": "Anand Dighe Smarak",
+                  "text": "Anand Dighe Smarak este un monument memorial situat în Thane.",
+                  "category": "historical",
+                  "coords": [
+                        72.977306,
+                        19.197165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tikujiniwadi Water Park",
+                  "text": "Tikujiniwadi Water Park is a popular amusement park and resort destination in Thane.",
+                  "category": "recreational",
+                  "coords": [
+                        72.966591,
+                        19.238232
+                  ]
+            },
+            {
+                  "name": "Thane Fort",
+                  "text": "Thane Fort is a historical fortification located in the city of Thane.",
+                  "category": "fortress",
+                  "coords": [
+                        72.983194,
+                        19.199988
+                  ]
+            },
+            {
+                  "name": "Ram Ganesh Gadkari Rangayatan",
+                  "text": "Ram Ganesh Gadkari Rangayatan is a cultural theatre venue situated in Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.974107,
+                        19.194091
+                  ]
+            },
+            {
+                  "name": "Dr Kashinath Ghanekar Drama theatre",
+                  "text": "Dr Kashinath Ghanekar Drama theatre is a modern auditorium and performance space in Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.970461,
+                        19.228828
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "This amphitheatre provides an open-air venue for performances in Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.990784,
+                        19.228935
+                  ]
+            },
+            {
+                  "name": "Singhania DC3",
+                  "text": "Singhania DC3 is a local attraction located in Thane.",
+                  "category": "landmark",
+                  "coords": [
+                        72.96573,
+                        19.209992
+                  ]
+            },
+            {
+                  "name": "KUCHBHI STUDIO",
+                  "text": "KUCHBHI STUDIO is an arts centre situated in the city of Thane.",
+                  "category": "cultural",
+                  "coords": [
+                        72.973802,
+                        19.198209
+                  ]
+            },
+            {
+                  "name": "Observation Deck",
+                  "text": "The Observation Deck offers panoramic views over the city of Thane.",
+                  "category": "natural",
+                  "coords": [
+                        72.989748,
+                        19.228384
+                  ]
+            },
+            {
+                  "name": "Anand Dighe Smarak",
+                  "text": "Anand Dighe Smarak is a memorial monument located in Thane.",
+                  "category": "historical",
+                  "coords": [
+                        72.977306,
+                        19.197165
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IN-MH",
     coords: [72.978089, 19.218331],
@@ -507,7 +921,304 @@ export const poiExtraIndiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "vadodara-cities-v2",
+    id: "vadodara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Inox",
+                  "text": "Inox ist ein modernes Theater in Vadodara.",
+                  "category": "cultural",
+                  "coords": [
+                        73.187214,
+                        22.323051
+                  ]
+            },
+            {
+                  "name": "Prof C C Mehta Auditorium",
+                  "text": "Das Prof C C Mehta Auditorium ist ein bekanntes Theater in Vadodara.",
+                  "category": "cultural",
+                  "coords": [
+                        73.183627,
+                        22.312773
+                  ]
+            },
+            {
+                  "name": "Baroda Museum & Picture Gallery",
+                  "text": "Das Baroda Museum & Picture Gallery beherbergt eine umfangreiche Kunstsammlung in Vadodara.",
+                  "category": "museum",
+                  "coords": [
+                        73.188646,
+                        22.31204
+                  ]
+            },
+            {
+                  "name": "Kamati, Amphi",
+                  "text": "Kamati, Amphi ist ein Theaterstandort in Vadodara.",
+                  "category": "cultural",
+                  "coords": [
+                        73.1901,
+                        22.311466
+                  ]
+            },
+            {
+                  "name": "Sayaji park",
+                  "text": "Sayaji Park ist eine beliebte Attraktion in Vadodara.",
+                  "category": "landmark",
+                  "coords": [
+                        73.188543,
+                        22.315251
+                  ]
+            },
+            {
+                  "name": "Alembic Colony",
+                  "text": "Alembic Colony ist ein historisch interessantes Gebiet in Vadodara.",
+                  "category": "landmark",
+                  "coords": [
+                        73.16852,
+                        22.324196
+                  ]
+            },
+            {
+                  "name": "Khanderao Market",
+                  "text": "Khanderao Market ist ein historisches Denkmal in Vadodara.",
+                  "category": "historical",
+                  "coords": [
+                        73.20125,
+                        22.296699
+                  ]
+            },
+            {
+                  "name": "Laxmi Vilas Rao Palace",
+                  "text": "Der Laxmi Vilas Palace ist eine prachtvolle Attraktion in Vadodara.",
+                  "category": "landmark",
+                  "coords": [
+                        73.18773,
+                        22.292324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inox",
+                  "text": "Az Inox egy modern színház Vadodarában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.187214,
+                        22.323051
+                  ]
+            },
+            {
+                  "name": "Prof C C Mehta Auditorium",
+                  "text": "A Prof C C Mehta Auditorium egy ismert színház Vadodarában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.183627,
+                        22.312773
+                  ]
+            },
+            {
+                  "name": "Baroda Museum & Picture Gallery",
+                  "text": "A Baroda Museum & Picture Gallery kiterjedt művészeti gyűjteménynek ad otthont Vadodarában.",
+                  "category": "museum",
+                  "coords": [
+                        73.188646,
+                        22.31204
+                  ]
+            },
+            {
+                  "name": "Kamati, Amphi",
+                  "text": "A Kamati, Amphi egy színházi helyszín Vadodarában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.1901,
+                        22.311466
+                  ]
+            },
+            {
+                  "name": "Sayaji park",
+                  "text": "A Sayaji Park egy népszerű látnivaló Vadodarában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.188543,
+                        22.315251
+                  ]
+            },
+            {
+                  "name": "Alembic Colony",
+                  "text": "Az Alembic Colony egy történelmileg érdekes terület Vadodarában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.16852,
+                        22.324196
+                  ]
+            },
+            {
+                  "name": "Khanderao Market",
+                  "text": "A Khanderao Market egy történelmi emlékmű Vadodarában.",
+                  "category": "historical",
+                  "coords": [
+                        73.20125,
+                        22.296699
+                  ]
+            },
+            {
+                  "name": "Laxmi Vilas Rao Palace",
+                  "text": "A Laxmi Vilas Palace egy pompás látnivaló Vadodarában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.18773,
+                        22.292324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inox",
+                  "text": "Inox este un teatru modern din Vadodara.",
+                  "category": "cultural",
+                  "coords": [
+                        73.187214,
+                        22.323051
+                  ]
+            },
+            {
+                  "name": "Prof C C Mehta Auditorium",
+                  "text": "Auditoriul Prof C C Mehta este un teatru cunoscut din Vadodara.",
+                  "category": "cultural",
+                  "coords": [
+                        73.183627,
+                        22.312773
+                  ]
+            },
+            {
+                  "name": "Baroda Museum & Picture Gallery",
+                  "text": "Muzeul și Galeria de Artă Baroda găzduiește o vastă colecție de artă în Vadodara.",
+                  "category": "museum",
+                  "coords": [
+                        73.188646,
+                        22.31204
+                  ]
+            },
+            {
+                  "name": "Kamati, Amphi",
+                  "text": "Kamati, Amphi este o locație de teatru din Vadodara.",
+                  "category": "cultural",
+                  "coords": [
+                        73.1901,
+                        22.311466
+                  ]
+            },
+            {
+                  "name": "Sayaji park",
+                  "text": "Parcul Sayaji este o atracție populară din Vadodara.",
+                  "category": "landmark",
+                  "coords": [
+                        73.188543,
+                        22.315251
+                  ]
+            },
+            {
+                  "name": "Alembic Colony",
+                  "text": "Colonia Alembic este o zonă de interes istoric din Vadodara.",
+                  "category": "landmark",
+                  "coords": [
+                        73.16852,
+                        22.324196
+                  ]
+            },
+            {
+                  "name": "Khanderao Market",
+                  "text": "Piața Khanderao este un monument istoric din Vadodara.",
+                  "category": "historical",
+                  "coords": [
+                        73.20125,
+                        22.296699
+                  ]
+            },
+            {
+                  "name": "Laxmi Vilas Rao Palace",
+                  "text": "Palatul Laxmi Vilas este o atracție splendidă din Vadodara.",
+                  "category": "landmark",
+                  "coords": [
+                        73.18773,
+                        22.292324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inox",
+                  "text": "Inox is a modern theatre in Vadodara.",
+                  "category": "cultural",
+                  "coords": [
+                        73.187214,
+                        22.323051
+                  ]
+            },
+            {
+                  "name": "Prof C C Mehta Auditorium",
+                  "text": "The Prof C C Mehta Auditorium is a theatre in Vadodara.",
+                  "category": "cultural",
+                  "coords": [
+                        73.183627,
+                        22.312773
+                  ]
+            },
+            {
+                  "name": "Baroda Museum & Picture Gallery",
+                  "text": "The Baroda Museum & Picture Gallery houses an extensive art collection in Vadodara.",
+                  "category": "museum",
+                  "coords": [
+                        73.188646,
+                        22.31204
+                  ]
+            },
+            {
+                  "name": "Kamati, Amphi",
+                  "text": "Kamati, Amphi is a theatre in Vadodara.",
+                  "category": "cultural",
+                  "coords": [
+                        73.1901,
+                        22.311466
+                  ]
+            },
+            {
+                  "name": "Sayaji park",
+                  "text": "Sayaji park is a popular attraction in Vadodara.",
+                  "category": "landmark",
+                  "coords": [
+                        73.188543,
+                        22.315251
+                  ]
+            },
+            {
+                  "name": "Alembic Colony",
+                  "text": "Alembic Colony is an attraction in Vadodara.",
+                  "category": "landmark",
+                  "coords": [
+                        73.16852,
+                        22.324196
+                  ]
+            },
+            {
+                  "name": "Khanderao Market",
+                  "text": "Khanderao Market is a monument in Vadodara.",
+                  "category": "historical",
+                  "coords": [
+                        73.20125,
+                        22.296699
+                  ]
+            },
+            {
+                  "name": "Laxmi Vilas Rao Palace",
+                  "text": "Laxmi Vilas Rao Palace is a major attraction in Vadodara.",
+                  "category": "landmark",
+                  "coords": [
+                        73.18773,
+                        22.292324
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IN-GJ",
     coords: [73.181219, 22.307159],
@@ -747,7 +1458,88 @@ export const poiExtraIndiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "meerut-cities-v2",
+    id: "meerut-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Captured Paki Tank",
+                  "text": "Captured Paki Tank ist eine Touristenattraktion in Meerut.",
+                  "category": "landmark",
+                  "coords": [
+                        77.704582,
+                        29.004853
+                  ]
+            },
+            {
+                  "name": "Baba Augharnath Shiva Temple",
+                  "text": "Baba Augharnath Shiva Temple ist eine Kultstätte in Meerut.",
+                  "category": "religious",
+                  "coords": [
+                        77.691166,
+                        28.996894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Captured Paki Tank",
+                  "text": "A(z) Captured Paki Tank egy turisztikai látványosság Meerut városában.",
+                  "category": "landmark",
+                  "coords": [
+                        77.704582,
+                        29.004853
+                  ]
+            },
+            {
+                  "name": "Baba Augharnath Shiva Temple",
+                  "text": "A(z) Baba Augharnath Shiva Temple egy istentiszteleti hely Meerut városában.",
+                  "category": "religious",
+                  "coords": [
+                        77.691166,
+                        28.996894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Captured Paki Tank",
+                  "text": "Captured Paki Tank este o atracție turistică situată în Meerut.",
+                  "category": "landmark",
+                  "coords": [
+                        77.704582,
+                        29.004853
+                  ]
+            },
+            {
+                  "name": "Baba Augharnath Shiva Temple",
+                  "text": "Baba Augharnath Shiva Temple este un lăcaș de cult situat în Meerut.",
+                  "category": "religious",
+                  "coords": [
+                        77.691166,
+                        28.996894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Captured Paki Tank",
+                  "text": "Captured Paki Tank is a tourist attraction located in Meerut.",
+                  "category": "landmark",
+                  "coords": [
+                        77.704582,
+                        29.004853
+                  ]
+            },
+            {
+                  "name": "Baba Augharnath Shiva Temple",
+                  "text": "Baba Augharnath Shiva Temple is a place of worship located in Meerut.",
+                  "category": "religious",
+                  "coords": [
+                        77.691166,
+                        28.996894
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IN-UP",
     coords: [77.706443, 28.984462],
@@ -843,7 +1635,124 @@ export const poiExtraIndiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kalyan-dombivli-cities-v2",
+    id: "kalyan-dombivli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Acharya Atre Rangmandir",
+                  "text": "Acharya Atre Rangmandir ist ein lokales Theater, in dem verschiedene Aufführungen in Kalyan-Dombivli stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        73.127545,
+                        19.241621
+                  ]
+            },
+            {
+                  "name": "Durgadi Fort",
+                  "text": "Das Durgadi-Fort ist eine historische Befestigungsanlage in Kalyan-Dombivli.",
+                  "category": "fortress",
+                  "coords": [
+                        73.11868,
+                        19.245296
+                  ]
+            },
+            {
+                  "name": "Cinemax",
+                  "text": "Cinemax ist ein Theater und Veranstaltungsort für Unterhaltung in Kalyan-Dombivli.",
+                  "category": "cultural",
+                  "coords": [
+                        73.142343,
+                        19.254147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Acharya Atre Rangmandir",
+                  "text": "Az Acharya Atre Rangmandir egy helyi színház, amely különféle előadásoknak ad otthont Kalyan-Dombivli városában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.127545,
+                        19.241621
+                  ]
+            },
+            {
+                  "name": "Durgadi Fort",
+                  "text": "A Durgadi-erőd egy történelmi erődítmény Kalyan-Dombivli városában.",
+                  "category": "fortress",
+                  "coords": [
+                        73.11868,
+                        19.245296
+                  ]
+            },
+            {
+                  "name": "Cinemax",
+                  "text": "A Cinemax egy színház és szórakozóhely Kalyan-Dombivli városában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.142343,
+                        19.254147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Acharya Atre Rangmandir",
+                  "text": "Acharya Atre Rangmandir este un teatru local care găzduiește diverse spectacole în Kalyan-Dombivli.",
+                  "category": "cultural",
+                  "coords": [
+                        73.127545,
+                        19.241621
+                  ]
+            },
+            {
+                  "name": "Durgadi Fort",
+                  "text": "Fortul Durgadi este o fortificație istorică situată în Kalyan-Dombivli.",
+                  "category": "fortress",
+                  "coords": [
+                        73.11868,
+                        19.245296
+                  ]
+            },
+            {
+                  "name": "Cinemax",
+                  "text": "Cinemax este un teatru care oferă divertisment în Kalyan-Dombivli.",
+                  "category": "cultural",
+                  "coords": [
+                        73.142343,
+                        19.254147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Acharya Atre Rangmandir",
+                  "text": "Acharya Atre Rangmandir is a local theatre hosting various performances in Kalyan-Dombivli.",
+                  "category": "cultural",
+                  "coords": [
+                        73.127545,
+                        19.241621
+                  ]
+            },
+            {
+                  "name": "Durgadi Fort",
+                  "text": "Durgadi Fort is a historical fortification situated in Kalyan-Dombivli.",
+                  "category": "fortress",
+                  "coords": [
+                        73.11868,
+                        19.245296
+                  ]
+            },
+            {
+                  "name": "Cinemax",
+                  "text": "Cinemax is a theatre venue providing entertainment in Kalyan-Dombivli.",
+                  "category": "cultural",
+                  "coords": [
+                        73.142343,
+                        19.254147
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IN-MH",
     coords: [73.134812, 19.243919],
@@ -939,7 +1848,1060 @@ export const poiExtraIndiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "varanasi-cities-v2",
+    id: "varanasi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nepali Mandir",
+                  "text": "Der Nepalese Temple ist ein charakteristischer Tempel aus Holz in Varanasi.",
+                  "category": "religious",
+                  "coords": [
+                        83.01306,
+                        25.309954
+                  ]
+            },
+            {
+                  "name": "Gyanvapi Mosque",
+                  "text": "Die Gyanvapi Moschee ist ein historisch bedeutender religiöser Ort in Varanasi.",
+                  "category": "religious",
+                  "coords": [
+                        83.010423,
+                        25.31124
+                  ]
+            },
+            {
+                  "name": "Bharatmata Mandir",
+                  "text": "Bharatmata Mandir ist ein einzigartiger Tempel in Varanasi, der Indien gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        82.989297,
+                        25.317191
+                  ]
+            },
+            {
+                  "name": "Kriti Gallery",
+                  "text": "Die Kriti Gallery ist ein Museum für zeitgenössische Kunst in Varanasi.",
+                  "category": "museum",
+                  "coords": [
+                        82.980014,
+                        25.30463
+                  ]
+            },
+            {
+                  "name": "Man Singh Astronomical Observatory",
+                  "text": "Das Man Singh Observatorium ist ein historisches astronomisches Museum in Varanasi.",
+                  "category": "museum",
+                  "coords": [
+                        83.011044,
+                        25.308865
+                  ]
+            },
+            {
+                  "name": "Hanuman Ghat",
+                  "text": "Hanuman Ghat ist ein bekannter Ghat am Ganges in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007373,
+                        25.2972
+                  ]
+            },
+            {
+                  "name": "Ahilyabai Ghat",
+                  "text": "Ahilyabai Ghat ist ein historischer Uferabschnitt in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.009978,
+                        25.305722
+                  ]
+            },
+            {
+                  "name": "Raja Ghat",
+                  "text": "Raja Ghat ist ein traditioneller Uferplatz in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007694,
+                        25.30225
+                  ]
+            },
+            {
+                  "name": "Ranamahal Ghat",
+                  "text": "Ranamahal Ghat ist ein malerischer Ghat in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.009071,
+                        25.304809
+                  ]
+            },
+            {
+                  "name": "Manmandir Ghat",
+                  "text": "Manmandir Ghat ist ein architektonisch interessanter Ghat in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.010985,
+                        25.307657
+                  ]
+            },
+            {
+                  "name": "Kedar Ghat",
+                  "text": "Kedar Ghat ist ein bekannter Pilgerort am Ganges in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007282,
+                        25.29905
+                  ]
+            },
+            {
+                  "name": "Badhaini Ghat",
+                  "text": "Badhaini Ghat ist ein ruhiger Ghat am Ufer in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.00669,
+                        25.291533
+                  ]
+            },
+            {
+                  "name": "Ganga Mahal Ghat",
+                  "text": "Ganga Mahal Ghat ist ein malerischer Uferabschnitt in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.01591,
+                        25.312617
+                  ]
+            },
+            {
+                  "name": "Ganesh Ghat",
+                  "text": "Ganesh Ghat ist ein beliebter Ghat in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.012071,
+                        25.30998
+                  ]
+            },
+            {
+                  "name": "Anandamayee Ghat",
+                  "text": "Anandamayee Ghat ist ein friedlicher Ghat am Ufer in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.006927,
+                        25.292576
+                  ]
+            },
+            {
+                  "name": "Chauki Ghat",
+                  "text": "Chauki Ghat ist ein traditioneller Uferplatz in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007418,
+                        25.300493
+                  ]
+            },
+            {
+                  "name": "Gaay Ghat",
+                  "text": "Gaay Ghat ist ein historischer Ghat in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.022136,
+                        25.318352
+                  ]
+            },
+            {
+                  "name": "Jatar Ghat",
+                  "text": "Jatar Ghat ist ein Uferplatz in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.016869,
+                        25.314458
+                  ]
+            },
+            {
+                  "name": "Lal Ghat",
+                  "text": "Lal Ghat ist ein traditioneller Ghat am Fluss in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.020595,
+                        25.317232
+                  ]
+            },
+            {
+                  "name": "Mahanirvani Ghat",
+                  "text": "Mahanirvani Ghat ist ein Uferabschnitt in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.006909,
+                        25.296076
+                  ]
+            },
+            {
+                  "name": "Manikarnika Ghat",
+                  "text": "Manikarnika Ghat ist einer der heiligsten Verbrennungs-Ghats in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.014021,
+                        25.310768
+                  ]
+            },
+            {
+                  "name": "Nandeshwar Ghat",
+                  "text": "Nandeshwar Ghat ist ein Uferplatz in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.024661,
+                        25.319893
+                  ]
+            },
+            {
+                  "name": "Naya Ghat",
+                  "text": "Naya Ghat ist ein Uferabschnitt in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.028498,
+                        25.322012
+                  ]
+            },
+            {
+                  "name": "Panchganga Ghat",
+                  "text": "Panchganga Ghat ist ein historisch wichtiger Ghat in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.017985,
+                        25.315019
+                  ]
+            },
+            {
+                  "name": "Panchkot Ghat",
+                  "text": "Panchkot Ghat ist ein malerischer Uferplatz in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007184,
+                        25.293873
+                  ]
+            },
+            {
+                  "name": "Sakka Ghat",
+                  "text": "Die Sakka Ghat ist eine Ufertreppe am Ganges im indischen Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.025917,
+                        25.320752
+                  ]
+            },
+            {
+                  "name": "Trilochan Ghat",
+                  "text": "Die Trilochan Ghat ist eine Ufertreppe am heiligen Ganges in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.023437,
+                        25.318973
+                  ]
+            },
+            {
+                  "name": "Digipatiya Ghat",
+                  "text": "Die Digipatiya Ghat ist eine Ufertreppe am Fluss Ganges in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.008328,
+                        25.303696
+                  ]
+            },
+            {
+                  "name": "Prabhu Ghat",
+                  "text": "Die Prabhu Ghat ist eine Ufertreppe am Ganges in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.00731,
+                        25.294807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nepali Mandir",
+                  "text": "A Nepalese Temple egy jellegzetes fából készült templom Varanasziban.",
+                  "category": "religious",
+                  "coords": [
+                        83.01306,
+                        25.309954
+                  ]
+            },
+            {
+                  "name": "Gyanvapi Mosque",
+                  "text": "A Gyanvapi mecset egy történelmileg jelentős vallási helyszín Varanasziban.",
+                  "category": "religious",
+                  "coords": [
+                        83.010423,
+                        25.31124
+                  ]
+            },
+            {
+                  "name": "Bharatmata Mandir",
+                  "text": "A Bharatmata Mandir egy egyedi templom Varanasziban, amely Indiának van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        82.989297,
+                        25.317191
+                  ]
+            },
+            {
+                  "name": "Kriti Gallery",
+                  "text": "A Kriti Gallery egy kortárs művészeti múzeum Varanasziban.",
+                  "category": "museum",
+                  "coords": [
+                        82.980014,
+                        25.30463
+                  ]
+            },
+            {
+                  "name": "Man Singh Astronomical Observatory",
+                  "text": "A Man Singh Obszervatórium egy történelmi csillagászati múzeum Varanasziban.",
+                  "category": "museum",
+                  "coords": [
+                        83.011044,
+                        25.308865
+                  ]
+            },
+            {
+                  "name": "Hanuman Ghat",
+                  "text": "A Hanuman Ghat egy ismert ghat a Gangeszen, Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007373,
+                        25.2972
+                  ]
+            },
+            {
+                  "name": "Ahilyabai Ghat",
+                  "text": "Az Ahilyabai Ghat egy történelmi partszakasz Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.009978,
+                        25.305722
+                  ]
+            },
+            {
+                  "name": "Raja Ghat",
+                  "text": "A Raja Ghat egy hagyományos partszakasz Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007694,
+                        25.30225
+                  ]
+            },
+            {
+                  "name": "Ranamahal Ghat",
+                  "text": "A Ranamahal Ghat egy festői ghat Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.009071,
+                        25.304809
+                  ]
+            },
+            {
+                  "name": "Manmandir Ghat",
+                  "text": "A Manmandir Ghat egy építészetileg érdekes ghat Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.010985,
+                        25.307657
+                  ]
+            },
+            {
+                  "name": "Kedar Ghat",
+                  "text": "A Kedar Ghat egy ismert zarándokhely a Gangesz mentén Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007282,
+                        25.29905
+                  ]
+            },
+            {
+                  "name": "Badhaini Ghat",
+                  "text": "A Badhaini Ghat egy csendes ghat a parton Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.00669,
+                        25.291533
+                  ]
+            },
+            {
+                  "name": "Ganga Mahal Ghat",
+                  "text": "A Ganga Mahal Ghat egy festői partszakasz Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.01591,
+                        25.312617
+                  ]
+            },
+            {
+                  "name": "Ganesh Ghat",
+                  "text": "A Ganesh Ghat egy népszerű ghat Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.012071,
+                        25.30998
+                  ]
+            },
+            {
+                  "name": "Anandamayee Ghat",
+                  "text": "Az Anandamayee Ghat egy békés ghat a parton Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.006927,
+                        25.292576
+                  ]
+            },
+            {
+                  "name": "Chauki Ghat",
+                  "text": "A Chauki Ghat egy hagyományos partszakasz Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007418,
+                        25.300493
+                  ]
+            },
+            {
+                  "name": "Gaay Ghat",
+                  "text": "A Gaay Ghat egy történelmi ghat Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.022136,
+                        25.318352
+                  ]
+            },
+            {
+                  "name": "Jatar Ghat",
+                  "text": "A Jatar Ghat egy partszakasz Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.016869,
+                        25.314458
+                  ]
+            },
+            {
+                  "name": "Lal Ghat",
+                  "text": "A Lal Ghat egy hagyományos folyóparti ghat Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.020595,
+                        25.317232
+                  ]
+            },
+            {
+                  "name": "Mahanirvani Ghat",
+                  "text": "A Mahanirvani Ghat egy partszakasz Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.006909,
+                        25.296076
+                  ]
+            },
+            {
+                  "name": "Manikarnika Ghat",
+                  "text": "A Manikarnika Ghat az egyik legszentebb hamvasztási ghat Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.014021,
+                        25.310768
+                  ]
+            },
+            {
+                  "name": "Nandeshwar Ghat",
+                  "text": "A Nandeshwar Ghat egy partszakasz Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.024661,
+                        25.319893
+                  ]
+            },
+            {
+                  "name": "Naya Ghat",
+                  "text": "A Naya Ghat egy partszakasz Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.028498,
+                        25.322012
+                  ]
+            },
+            {
+                  "name": "Panchganga Ghat",
+                  "text": "A Panchganga Ghat egy történelmileg fontos ghat Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.017985,
+                        25.315019
+                  ]
+            },
+            {
+                  "name": "Panchkot Ghat",
+                  "text": "A Panchkot Ghat egy festői partszakasz Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007184,
+                        25.293873
+                  ]
+            },
+            {
+                  "name": "Sakka Ghat",
+                  "text": "A Sakka Ghat egy lépcsősor a Gangesz partján, az indiai Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.025917,
+                        25.320752
+                  ]
+            },
+            {
+                  "name": "Trilochan Ghat",
+                  "text": "A Trilochan Ghat egy lépcsősor a szent Gangesz partján, Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.023437,
+                        25.318973
+                  ]
+            },
+            {
+                  "name": "Digipatiya Ghat",
+                  "text": "A Digipatiya Ghat egy lépcsősor a Gangesz folyó partján, Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.008328,
+                        25.303696
+                  ]
+            },
+            {
+                  "name": "Prabhu Ghat",
+                  "text": "A Prabhu Ghat egy lépcsősor a Gangesz partján, Varanasziban.",
+                  "category": "landmark",
+                  "coords": [
+                        83.00731,
+                        25.294807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nepali Mandir",
+                  "text": "Templul Nepalez este un templu distinctiv din lemn în Varanasi.",
+                  "category": "religious",
+                  "coords": [
+                        83.01306,
+                        25.309954
+                  ]
+            },
+            {
+                  "name": "Gyanvapi Mosque",
+                  "text": "Moscheea Gyanvapi este un loc religios de importanță istorică în Varanasi.",
+                  "category": "religious",
+                  "coords": [
+                        83.010423,
+                        25.31124
+                  ]
+            },
+            {
+                  "name": "Bharatmata Mandir",
+                  "text": "Bharatmata Mandir este un templu unic în Varanasi, dedicat Indiei.",
+                  "category": "religious",
+                  "coords": [
+                        82.989297,
+                        25.317191
+                  ]
+            },
+            {
+                  "name": "Kriti Gallery",
+                  "text": "Galeria Kriti este un muzeu de artă contemporană din Varanasi.",
+                  "category": "museum",
+                  "coords": [
+                        82.980014,
+                        25.30463
+                  ]
+            },
+            {
+                  "name": "Man Singh Astronomical Observatory",
+                  "text": "Observatorul Man Singh este un muzeu astronomic istoric din Varanasi.",
+                  "category": "museum",
+                  "coords": [
+                        83.011044,
+                        25.308865
+                  ]
+            },
+            {
+                  "name": "Hanuman Ghat",
+                  "text": "Hanuman Ghat este un ghat cunoscut pe Gange în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007373,
+                        25.2972
+                  ]
+            },
+            {
+                  "name": "Ahilyabai Ghat",
+                  "text": "Ahilyabai Ghat este o secțiune istorică de mal în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.009978,
+                        25.305722
+                  ]
+            },
+            {
+                  "name": "Raja Ghat",
+                  "text": "Raja Ghat este un loc tradițional de mal în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007694,
+                        25.30225
+                  ]
+            },
+            {
+                  "name": "Ranamahal Ghat",
+                  "text": "Ranamahal Ghat este un ghat pitoresc din Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.009071,
+                        25.304809
+                  ]
+            },
+            {
+                  "name": "Manmandir Ghat",
+                  "text": "Manmandir Ghat este un ghat arhitectural interesant din Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.010985,
+                        25.307657
+                  ]
+            },
+            {
+                  "name": "Kedar Ghat",
+                  "text": "Kedar Ghat este un loc de pelerinaj cunoscut pe Gange în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007282,
+                        25.29905
+                  ]
+            },
+            {
+                  "name": "Badhaini Ghat",
+                  "text": "Badhaini Ghat este un ghat liniștit pe malul din Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.00669,
+                        25.291533
+                  ]
+            },
+            {
+                  "name": "Ganga Mahal Ghat",
+                  "text": "Ganga Mahal Ghat este o secțiune pitorească de mal în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.01591,
+                        25.312617
+                  ]
+            },
+            {
+                  "name": "Ganesh Ghat",
+                  "text": "Ganesh Ghat este un ghat popular din Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.012071,
+                        25.30998
+                  ]
+            },
+            {
+                  "name": "Anandamayee Ghat",
+                  "text": "Anandamayee Ghat este un ghat liniștit pe malul din Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.006927,
+                        25.292576
+                  ]
+            },
+            {
+                  "name": "Chauki Ghat",
+                  "text": "Chauki Ghat este un loc tradițional de mal în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007418,
+                        25.300493
+                  ]
+            },
+            {
+                  "name": "Gaay Ghat",
+                  "text": "Gaay Ghat este un ghat istoric din Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.022136,
+                        25.318352
+                  ]
+            },
+            {
+                  "name": "Jatar Ghat",
+                  "text": "Jatar Ghat este un loc de mal în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.016869,
+                        25.314458
+                  ]
+            },
+            {
+                  "name": "Lal Ghat",
+                  "text": "Lal Ghat este un ghat tradițional pe malul fluviului în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.020595,
+                        25.317232
+                  ]
+            },
+            {
+                  "name": "Mahanirvani Ghat",
+                  "text": "Mahanirvani Ghat este o secțiune de mal în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.006909,
+                        25.296076
+                  ]
+            },
+            {
+                  "name": "Manikarnika Ghat",
+                  "text": "Manikarnika Ghat este unul dintre cele mai sfinte ghat-uri de incinerare din Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.014021,
+                        25.310768
+                  ]
+            },
+            {
+                  "name": "Nandeshwar Ghat",
+                  "text": "Nandeshwar Ghat este un loc de mal în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.024661,
+                        25.319893
+                  ]
+            },
+            {
+                  "name": "Naya Ghat",
+                  "text": "Naya Ghat este o secțiune de mal în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.028498,
+                        25.322012
+                  ]
+            },
+            {
+                  "name": "Panchganga Ghat",
+                  "text": "Panchganga Ghat este un ghat important din punct de vedere istoric în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.017985,
+                        25.315019
+                  ]
+            },
+            {
+                  "name": "Panchkot Ghat",
+                  "text": "Panchkot Ghat este un loc pitoresc de mal în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007184,
+                        25.293873
+                  ]
+            },
+            {
+                  "name": "Sakka Ghat",
+                  "text": "Sakka Ghat este o zonă cu trepte pe malul Gangelui în Varanasi, India.",
+                  "category": "landmark",
+                  "coords": [
+                        83.025917,
+                        25.320752
+                  ]
+            },
+            {
+                  "name": "Trilochan Ghat",
+                  "text": "Trilochan Ghat este o zonă cu trepte pe malul sacrului Gange în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.023437,
+                        25.318973
+                  ]
+            },
+            {
+                  "name": "Digipatiya Ghat",
+                  "text": "Digipatiya Ghat este o zonă cu trepte pe malul râului Gange în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.008328,
+                        25.303696
+                  ]
+            },
+            {
+                  "name": "Prabhu Ghat",
+                  "text": "Prabhu Ghat este o zonă cu trepte pe malul Gangelui în Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.00731,
+                        25.294807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nepalese Temple",
+                  "text": "The Nepalese Temple is a traditional wood-carved place of worship in Varanasi.",
+                  "category": "religious",
+                  "coords": [
+                        83.01306,
+                        25.309954
+                  ]
+            },
+            {
+                  "name": "Gyanvapi Mosque",
+                  "text": "The Gyanvapi Mosque is a place of worship in Varanasi.",
+                  "category": "religious",
+                  "coords": [
+                        83.010423,
+                        25.31124
+                  ]
+            },
+            {
+                  "name": "Bharatmata Mandir",
+                  "text": "Bharatmata Mandir is a unique place of worship in Varanasi dedicated to Mother India.",
+                  "category": "religious",
+                  "coords": [
+                        82.989297,
+                        25.317191
+                  ]
+            },
+            {
+                  "name": "Kriti Gallery",
+                  "text": "Kriti Gallery is a museum in Varanasi.",
+                  "category": "museum",
+                  "coords": [
+                        82.980014,
+                        25.30463
+                  ]
+            },
+            {
+                  "name": "Man Singh Astronomical Observatory",
+                  "text": "Man Singh Astronomical Observatory is a museum in Varanasi.",
+                  "category": "museum",
+                  "coords": [
+                        83.011044,
+                        25.308865
+                  ]
+            },
+            {
+                  "name": "Hanuman Ghat",
+                  "text": "Hanuman Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007373,
+                        25.2972
+                  ]
+            },
+            {
+                  "name": "Ahilyabai Ghat",
+                  "text": "Ahilyabai Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.009978,
+                        25.305722
+                  ]
+            },
+            {
+                  "name": "Raja Ghat",
+                  "text": "Raja Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007694,
+                        25.30225
+                  ]
+            },
+            {
+                  "name": "Ranamahal Ghat",
+                  "text": "Ranamahal Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.009071,
+                        25.304809
+                  ]
+            },
+            {
+                  "name": "Manmandir Ghat",
+                  "text": "Manmandir Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.010985,
+                        25.307657
+                  ]
+            },
+            {
+                  "name": "Kedar Ghat",
+                  "text": "Kedar Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007282,
+                        25.29905
+                  ]
+            },
+            {
+                  "name": "Badhaini Ghat",
+                  "text": "Badhaini Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.00669,
+                        25.291533
+                  ]
+            },
+            {
+                  "name": "Ganga Mahal Ghat",
+                  "text": "Ganga Mahal Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.01591,
+                        25.312617
+                  ]
+            },
+            {
+                  "name": "Ganesh Ghat",
+                  "text": "Ganesh Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.012071,
+                        25.30998
+                  ]
+            },
+            {
+                  "name": "Anandamayee Ghat",
+                  "text": "Anandamayee Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.006927,
+                        25.292576
+                  ]
+            },
+            {
+                  "name": "Chauki Ghat",
+                  "text": "Chauki Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007418,
+                        25.300493
+                  ]
+            },
+            {
+                  "name": "Gaay Ghat",
+                  "text": "Gaay Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.022136,
+                        25.318352
+                  ]
+            },
+            {
+                  "name": "Jatar Ghat",
+                  "text": "Jatar Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.016869,
+                        25.314458
+                  ]
+            },
+            {
+                  "name": "Lal Ghat",
+                  "text": "Lal Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.020595,
+                        25.317232
+                  ]
+            },
+            {
+                  "name": "Mahanirvani Ghat",
+                  "text": "Mahanirvani Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.006909,
+                        25.296076
+                  ]
+            },
+            {
+                  "name": "Manikarnika Ghat(KOSTRI)",
+                  "text": "Manikarnika Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.014021,
+                        25.310768
+                  ]
+            },
+            {
+                  "name": "Nandeshwar Ghat",
+                  "text": "Nandeshwar Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.024661,
+                        25.319893
+                  ]
+            },
+            {
+                  "name": "Naya Ghat",
+                  "text": "Naya Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.028498,
+                        25.322012
+                  ]
+            },
+            {
+                  "name": "Panchganga Ghat",
+                  "text": "Panchganga Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.017985,
+                        25.315019
+                  ]
+            },
+            {
+                  "name": "Panchkot Ghat",
+                  "text": "Panchkot Ghat is a riverside attraction in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.007184,
+                        25.293873
+                  ]
+            },
+            {
+                  "name": "Sakka Ghat",
+                  "text": "Sakka Ghat is a riverside step area on the Ganges in Varanasi, India.",
+                  "category": "landmark",
+                  "coords": [
+                        83.025917,
+                        25.320752
+                  ]
+            },
+            {
+                  "name": "Trilochan Ghat",
+                  "text": "Trilochan Ghat is a riverside step area on the holy Ganges in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.023437,
+                        25.318973
+                  ]
+            },
+            {
+                  "name": "Digipatiya Ghat",
+                  "text": "Digipatiya Ghat is a riverside step area on the Ganges in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.008328,
+                        25.303696
+                  ]
+            },
+            {
+                  "name": "Prabhu Ghat",
+                  "text": "Prabhu Ghat is a riverside step area on the Ganges in Varanasi.",
+                  "category": "landmark",
+                  "coords": [
+                        83.00731,
+                        25.294807
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IN-UP",
     coords: [83.000000, 25.317645],
@@ -1029,7 +2991,88 @@ export const poiExtraIndiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "dhanbad-cities-v2",
+    id: "dhanbad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Geological Museum",
+                  "text": "Das Geological Museum ist eine Einrichtung, die die Geowissenschaften in Dhanbad präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        86.438974,
+                        23.814709
+                  ]
+            },
+            {
+                  "name": "Kala Bhawan",
+                  "text": "Kala Bhawan ist eine Kunstgalerie und ein Kulturzentrum in Dhanbad.",
+                  "category": "museum",
+                  "coords": [
+                        86.434435,
+                        23.802241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Geological Museum",
+                  "text": "A Geológiai Múzeum a földtudományokat bemutató intézmény Dhanbadban.",
+                  "category": "museum",
+                  "coords": [
+                        86.438974,
+                        23.814709
+                  ]
+            },
+            {
+                  "name": "Kala Bhawan",
+                  "text": "A Kala Bhawan egy művészeti galéria és kulturális központ Dhanbadban.",
+                  "category": "museum",
+                  "coords": [
+                        86.434435,
+                        23.802241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Geological Museum",
+                  "text": "Muzeul Geologic este o instituție care prezintă științele pământului în Dhanbad.",
+                  "category": "museum",
+                  "coords": [
+                        86.438974,
+                        23.814709
+                  ]
+            },
+            {
+                  "name": "Kala Bhawan",
+                  "text": "Kala Bhawan este o galerie de artă și un centru cultural situat în Dhanbad.",
+                  "category": "museum",
+                  "coords": [
+                        86.434435,
+                        23.802241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Geological Museum",
+                  "text": "The Geological Museum is an institution showcasing earth sciences in Dhanbad.",
+                  "category": "museum",
+                  "coords": [
+                        86.438974,
+                        23.814709
+                  ]
+            },
+            {
+                  "name": "Kala Bhawan",
+                  "text": "Kala Bhawan is an art gallery and cultural center located in Dhanbad.",
+                  "category": "museum",
+                  "coords": [
+                        86.434435,
+                        23.802241
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IN-JH",
     coords: [86.441239, 23.795694],
@@ -1125,7 +3168,340 @@ export const poiExtraIndiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "amritsar-cities-v2",
+    id: "amritsar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ਗੋਬਿੰਦਗੜ ਕਿਲ੍ਹਾ",
+                  "text": "Das historische Gobindgarh Fort ist eine bedeutende Festung im Herzen von Amritsar.",
+                  "category": "fortress",
+                  "coords": [
+                        74.860408,
+                        31.627112
+                  ]
+            },
+            {
+                  "name": "ਕੇਂਦਰੀ ਸਿੱਖ ਅਜਾਇਬ ਘਰ",
+                  "text": "Das Central Sikh Museum in Amritsar dokumentiert die Geschichte des Sikhismus.",
+                  "category": "museum",
+                  "coords": [
+                        74.877167,
+                        31.620627
+                  ]
+            },
+            {
+                  "name": "Partition Museum",
+                  "text": "Das Partition Museum in Amritsar widmet sich der Teilungsgeschichte Indiens.",
+                  "category": "museum",
+                  "coords": [
+                        74.87905,
+                        31.625702
+                  ]
+            },
+            {
+                  "name": "Summer Palace of Maharaja Ranjit Singh",
+                  "text": "Der Sommerpalast von Maharaja Ranjit Singh ist ein historisches Schloss in Amritsar.",
+                  "category": "castle",
+                  "coords": [
+                        74.87886,
+                        31.637785
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh Panorama",
+                  "text": "Das Maharaja Ranjit Singh Panorama in Amritsar ist ein informatives Museum.",
+                  "category": "museum",
+                  "coords": [
+                        74.876423,
+                        31.640568
+                  ]
+            },
+            {
+                  "name": "Jallianwala Bagh",
+                  "text": "Der Jallianwala Bagh ist eine öffentliche Gedenkstätte für ein historisches Ereignis in Amritsar.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880311,
+                        31.620533
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh",
+                  "text": "Das Denkmal für Maharaja Ranjit Singh ist ein bedeutendes Monument in Amritsar.",
+                  "category": "historical",
+                  "coords": [
+                        74.879565,
+                        31.623851
+                  ]
+            },
+            {
+                  "name": "Shri Durgiana Mandir",
+                  "text": "Der Shri Durgiana Mandir ist ein berühmter Hindutempel in Amritsar.",
+                  "category": "religious",
+                  "coords": [
+                        74.867414,
+                        31.627224
+                  ]
+            },
+            {
+                  "name": "Sri Akal Takht Sahib",
+                  "text": "Der Sri Akal Takht Sahib ist ein heiliger Ort für die Sikh-Religion in Amritsar.",
+                  "category": "religious",
+                  "coords": [
+                        74.875388,
+                        31.620703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ਗੋਬਿੰਦਗੜ ਕਿਲ੍ਹਾ",
+                  "text": "A történelmi Gobindgarh-erőd egy jelentős erődítmény Amritszár szívében.",
+                  "category": "fortress",
+                  "coords": [
+                        74.860408,
+                        31.627112
+                  ]
+            },
+            {
+                  "name": "ਕੇਂਦਰੀ ਸਿੱਖ ਅਜਾਇਬ ਘਰ",
+                  "text": "Az amriszári Central Sikh Museum a szikhizmus történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        74.877167,
+                        31.620627
+                  ]
+            },
+            {
+                  "name": "Partition Museum",
+                  "text": "Az amriszári Partition Museum India felosztásának történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        74.87905,
+                        31.625702
+                  ]
+            },
+            {
+                  "name": "Summer Palace of Maharaja Ranjit Singh",
+                  "text": "Maharaja Ranjit Singh nyári palotája egy történelmi kastély Amritszárban.",
+                  "category": "castle",
+                  "coords": [
+                        74.87886,
+                        31.637785
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh Panorama",
+                  "text": "Az amriszári Maharaja Ranjit Singh Panorama egy informatív múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        74.876423,
+                        31.640568
+                  ]
+            },
+            {
+                  "name": "Jallianwala Bagh",
+                  "text": "A Jallianwala Bagh egy nyilvános emlékhely egy történelmi esemény tiszteletére Amritszárban.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880311,
+                        31.620533
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh",
+                  "text": "A Maharaja Ranjit Singh-emlékmű egy jelentős monumentum Amritszárban.",
+                  "category": "historical",
+                  "coords": [
+                        74.879565,
+                        31.623851
+                  ]
+            },
+            {
+                  "name": "Shri Durgiana Mandir",
+                  "text": "A Shri Durgiana Mandir egy híres hindu templom Amritszárban.",
+                  "category": "religious",
+                  "coords": [
+                        74.867414,
+                        31.627224
+                  ]
+            },
+            {
+                  "name": "Sri Akal Takht Sahib",
+                  "text": "A Sri Akal Takht Sahib a szikh vallás szent helye Amritszárban.",
+                  "category": "religious",
+                  "coords": [
+                        74.875388,
+                        31.620703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ਗੋਬਿੰਦਗੜ ਕਿਲ੍ਹਾ",
+                  "text": "Istoricul Fort Gobindgarh este o fortăreață semnificativă în inima orașului Amritsar.",
+                  "category": "fortress",
+                  "coords": [
+                        74.860408,
+                        31.627112
+                  ]
+            },
+            {
+                  "name": "ਕੇਂਦਰੀ ਸਿੱਖ ਅਜਾਇਬ ਘਰ",
+                  "text": "Central Sikh Museum din Amritsar documentează istoria sikhismului.",
+                  "category": "museum",
+                  "coords": [
+                        74.877167,
+                        31.620627
+                  ]
+            },
+            {
+                  "name": "Partition Museum",
+                  "text": "Partition Museum din Amritsar este dedicat istoriei diviziunii Indiei.",
+                  "category": "museum",
+                  "coords": [
+                        74.87905,
+                        31.625702
+                  ]
+            },
+            {
+                  "name": "Summer Palace of Maharaja Ranjit Singh",
+                  "text": "Palatul de vară al lui Maharaja Ranjit Singh este un castel istoric din Amritsar.",
+                  "category": "castle",
+                  "coords": [
+                        74.87886,
+                        31.637785
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh Panorama",
+                  "text": "Maharaja Ranjit Singh Panorama din Amritsar este un muzeu informativ.",
+                  "category": "museum",
+                  "coords": [
+                        74.876423,
+                        31.640568
+                  ]
+            },
+            {
+                  "name": "Jallianwala Bagh",
+                  "text": "Jallianwala Bagh este un memorial public pentru un eveniment istoric în Amritsar.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880311,
+                        31.620533
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh",
+                  "text": "Monumentul lui Maharaja Ranjit Singh este un monument semnificativ în Amritsar.",
+                  "category": "historical",
+                  "coords": [
+                        74.879565,
+                        31.623851
+                  ]
+            },
+            {
+                  "name": "Shri Durgiana Mandir",
+                  "text": "Shri Durgiana Mandir este un celebru templu hindus din Amritsar.",
+                  "category": "religious",
+                  "coords": [
+                        74.867414,
+                        31.627224
+                  ]
+            },
+            {
+                  "name": "Sri Akal Takht Sahib",
+                  "text": "Sri Akal Takht Sahib este un loc sfânt pentru religia sikh în Amritsar.",
+                  "category": "religious",
+                  "coords": [
+                        74.875388,
+                        31.620703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gobindgarh Fort",
+                  "text": "The historic Gobindgarh Fort is a significant fortress in the heart of Amritsar.",
+                  "category": "fortress",
+                  "coords": [
+                        74.860408,
+                        31.627112
+                  ]
+            },
+            {
+                  "name": "Central Sikh Museum",
+                  "text": "The Central Sikh Museum in Amritsar documents the history of Sikhism.",
+                  "category": "museum",
+                  "coords": [
+                        74.877167,
+                        31.620627
+                  ]
+            },
+            {
+                  "name": "Partition Museum",
+                  "text": "The Partition Museum in Amritsar is dedicated to the history of the partition of India.",
+                  "category": "museum",
+                  "coords": [
+                        74.87905,
+                        31.625702
+                  ]
+            },
+            {
+                  "name": "Summer Palace of Maharaja Ranjit Singh",
+                  "text": "The Summer Palace of Maharaja Ranjit Singh is a historic castle in Amritsar.",
+                  "category": "castle",
+                  "coords": [
+                        74.87886,
+                        31.637785
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh Panorama",
+                  "text": "The Maharaja Ranjit Singh Panorama in Amritsar is an informative museum.",
+                  "category": "museum",
+                  "coords": [
+                        74.876423,
+                        31.640568
+                  ]
+            },
+            {
+                  "name": "Jallianwala Bagh",
+                  "text": "Jallianwala Bagh is a public memorial commemorating a historic event in Amritsar.",
+                  "category": "landmark",
+                  "coords": [
+                        74.880311,
+                        31.620533
+                  ]
+            },
+            {
+                  "name": "Maharaja Ranjit Singh",
+                  "text": "The Maharaja Ranjit Singh memorial is a significant monument in Amritsar.",
+                  "category": "historical",
+                  "coords": [
+                        74.879565,
+                        31.623851
+                  ]
+            },
+            {
+                  "name": "Shri Durgiana Mandir",
+                  "text": "Shri Durgiana Mandir is a famous Hindu temple in Amritsar.",
+                  "category": "religious",
+                  "coords": [
+                        74.867414,
+                        31.627224
+                  ]
+            },
+            {
+                  "name": "Sri Akal Takht Sahib",
+                  "text": "Sri Akal Takht Sahib is a holy place for the Sikh religion in Amritsar.",
+                  "category": "religious",
+                  "coords": [
+                        74.875388,
+                        31.620703
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IN-PB",
     coords: [74.872264, 31.633980],
@@ -1311,7 +3687,52 @@ export const poiExtraIndiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "jabalpur-cities-v2",
+    id: "jabalpur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zoological Survey of India",
+                  "text": "Das Zoological Survey of India in Jabalpur ist ein spezialisiertes Museum.",
+                  "category": "museum",
+                  "coords": [
+                        79.913914,
+                        23.189515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zoological Survey of India",
+                  "text": "A dzsabalpuri Zoological Survey of India egy szakosodott múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        79.913914,
+                        23.189515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zoological Survey of India",
+                  "text": "Zoological Survey of India din Jabalpur este un muzeu specializat.",
+                  "category": "museum",
+                  "coords": [
+                        79.913914,
+                        23.189515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zoological Survey of India",
+                  "text": "The Zoological Survey of India in Jabalpur is a specialized museum.",
+                  "category": "museum",
+                  "coords": [
+                        79.913914,
+                        23.189515
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IN-MP",
     coords: [79.933876, 23.181467],

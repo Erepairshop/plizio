@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const micronesiaCitiesV2: POI[] = [
 
   {
-    id: "micronesia-palikir-cities-v2",
+    id: "micronesia-palikir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dolen Pahniepw",
+                  "text": "Dolen Pahniepw ist ein Berggipfel in Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.167778,
+                        6.930556
+                  ]
+            },
+            {
+                  "name": "Dolen Palikir",
+                  "text": "Dolen Palikir ist ein Berggipfel in Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.150278,
+                        6.9325
+                  ]
+            },
+            {
+                  "name": "Dolen Pwakorokot",
+                  "text": "Dolen Pwakorokot ist ein Berggipfel in Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.155,
+                        6.9025
+                  ]
+            },
+            {
+                  "name": "Temwetemwensekir",
+                  "text": "Temwetemwensekir ist ein Berggipfel in Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.184222,
+                        6.913828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dolen Pahniepw",
+                  "text": "A Dolen Pahniepw egy hegycsúcs Palikirban.",
+                  "category": "natural",
+                  "coords": [
+                        158.167778,
+                        6.930556
+                  ]
+            },
+            {
+                  "name": "Dolen Palikir",
+                  "text": "A Dolen Palikir egy hegycsúcs Palikirban.",
+                  "category": "natural",
+                  "coords": [
+                        158.150278,
+                        6.9325
+                  ]
+            },
+            {
+                  "name": "Dolen Pwakorokot",
+                  "text": "A Dolen Pwakorokot egy hegycsúcs Palikirban.",
+                  "category": "natural",
+                  "coords": [
+                        158.155,
+                        6.9025
+                  ]
+            },
+            {
+                  "name": "Temwetemwensekir",
+                  "text": "A Temwetemwensekir egy hegycsúcs Palikirban.",
+                  "category": "natural",
+                  "coords": [
+                        158.184222,
+                        6.913828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dolen Pahniepw",
+                  "text": "Dolen Pahniepw este un vârf de munte situat în Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.167778,
+                        6.930556
+                  ]
+            },
+            {
+                  "name": "Dolen Palikir",
+                  "text": "Dolen Palikir este un vârf de munte situat în Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.150278,
+                        6.9325
+                  ]
+            },
+            {
+                  "name": "Dolen Pwakorokot",
+                  "text": "Dolen Pwakorokot este un vârf de munte situat în Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.155,
+                        6.9025
+                  ]
+            },
+            {
+                  "name": "Temwetemwensekir",
+                  "text": "Temwetemwensekir este un vârf de munte situat în Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.184222,
+                        6.913828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dolen Pahniepw",
+                  "text": "Dolen Pahniepw is a mountain peak located in Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.167778,
+                        6.930556
+                  ]
+            },
+            {
+                  "name": "Dolen Palikir",
+                  "text": "Dolen Palikir is a mountain peak located in Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.150278,
+                        6.9325
+                  ]
+            },
+            {
+                  "name": "Dolen Pwakorokot",
+                  "text": "Dolen Pwakorokot is a mountain peak located in Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.155,
+                        6.9025
+                  ]
+            },
+            {
+                  "name": "Temwetemwensekir",
+                  "text": "Temwetemwensekir is a mountain peak located in Palikir.",
+                  "category": "natural",
+                  "coords": [
+                        158.184222,
+                        6.913828
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "capital",
     name: { de: "Palikir", hu: "Palikir", ro: "Palikir", en: "Palikir" },
@@ -48,7 +201,304 @@ export const micronesiaCitiesV2: POI[] = [
     image: "/poi-images/micronesia-palikir-cities-v2.webp",
   },
   {
-    id: "micronesia-weno-cities-v2",
+    id: "micronesia-weno-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Afarafar",
+                  "text": "Afarafar ist ein Berggipfel in Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.848611,
+                        7.459167
+                  ]
+            },
+            {
+                  "name": "Nauno",
+                  "text": "Nauno ist ein Berggipfel in Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.8675,
+                        7.454167
+                  ]
+            },
+            {
+                  "name": "Nenino",
+                  "text": "Nenino ist ein Berggipfel in Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.862778,
+                        7.453056
+                  ]
+            },
+            {
+                  "name": "Teroken",
+                  "text": "Teroken ist ein Berggipfel in Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.852104,
+                        7.438677
+                  ]
+            },
+            {
+                  "name": "Tonnachau",
+                  "text": "Tonnachau ist ein Berggipfel in Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.849581,
+                        7.456903
+                  ]
+            },
+            {
+                  "name": "Japanese War Memorial",
+                  "text": "Japanese War Memorial ist eine Sehenswürdigkeit in Weno.",
+                  "category": "landmark",
+                  "coords": [
+                        151.841968,
+                        7.449697
+                  ]
+            },
+            {
+                  "name": "Wichen Falls",
+                  "text": "Wichen Falls ist eine Sehenswürdigkeit in Weno.",
+                  "category": "landmark",
+                  "coords": [
+                        151.8688,
+                        7.452723
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral",
+                  "text": "Die Immaculate Heart of Mary Cathedral ist eine katholische Kirche in Weno.",
+                  "category": "religious",
+                  "coords": [
+                        151.864131,
+                        7.457255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Afarafar",
+                  "text": "A(z) Afarafar egy hegycsúcs Weno területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.848611,
+                        7.459167
+                  ]
+            },
+            {
+                  "name": "Nauno",
+                  "text": "A(z) Nauno egy hegycsúcs Weno területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.8675,
+                        7.454167
+                  ]
+            },
+            {
+                  "name": "Nenino",
+                  "text": "A(z) Nenino egy hegycsúcs Weno területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.862778,
+                        7.453056
+                  ]
+            },
+            {
+                  "name": "Teroken",
+                  "text": "A(z) Teroken egy hegycsúcs Weno területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.852104,
+                        7.438677
+                  ]
+            },
+            {
+                  "name": "Tonnachau",
+                  "text": "A(z) Tonnachau egy hegycsúcs Weno területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.849581,
+                        7.456903
+                  ]
+            },
+            {
+                  "name": "Japanese War Memorial",
+                  "text": "A(z) Japanese War Memorial egy látványosság Weno városában.",
+                  "category": "landmark",
+                  "coords": [
+                        151.841968,
+                        7.449697
+                  ]
+            },
+            {
+                  "name": "Wichen Falls",
+                  "text": "A(z) Wichen Falls egy látványosság Weno városában.",
+                  "category": "landmark",
+                  "coords": [
+                        151.8688,
+                        7.452723
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral",
+                  "text": "Az Immaculate Heart of Mary Cathedral egy katolikus istentiszteleti hely Weno területén.",
+                  "category": "religious",
+                  "coords": [
+                        151.864131,
+                        7.457255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Afarafar",
+                  "text": "Afarafar este un vârf montan situat în Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.848611,
+                        7.459167
+                  ]
+            },
+            {
+                  "name": "Nauno",
+                  "text": "Nauno este un vârf montan situat în Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.8675,
+                        7.454167
+                  ]
+            },
+            {
+                  "name": "Nenino",
+                  "text": "Nenino este un vârf montan situat în Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.862778,
+                        7.453056
+                  ]
+            },
+            {
+                  "name": "Teroken",
+                  "text": "Teroken este un vârf montan situat în Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.852104,
+                        7.438677
+                  ]
+            },
+            {
+                  "name": "Tonnachau",
+                  "text": "Tonnachau este un vârf montan situat în Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.849581,
+                        7.456903
+                  ]
+            },
+            {
+                  "name": "Japanese War Memorial",
+                  "text": "Japanese War Memorial este o atracție turistică în Weno.",
+                  "category": "landmark",
+                  "coords": [
+                        151.841968,
+                        7.449697
+                  ]
+            },
+            {
+                  "name": "Wichen Falls",
+                  "text": "Wichen Falls este o atracție turistică în Weno.",
+                  "category": "landmark",
+                  "coords": [
+                        151.8688,
+                        7.452723
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral",
+                  "text": "Immaculate Heart of Mary Cathedral este un lăcaș de cult catolic situat în Weno.",
+                  "category": "religious",
+                  "coords": [
+                        151.864131,
+                        7.457255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Afarafar",
+                  "text": "Afarafar is a mountain peak located in Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.848611,
+                        7.459167
+                  ]
+            },
+            {
+                  "name": "Nauno",
+                  "text": "Nauno is a mountain peak located in Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.8675,
+                        7.454167
+                  ]
+            },
+            {
+                  "name": "Nenino",
+                  "text": "Nenino is a mountain peak located in Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.862778,
+                        7.453056
+                  ]
+            },
+            {
+                  "name": "Teroken",
+                  "text": "Teroken is a mountain peak located in Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.852104,
+                        7.438677
+                  ]
+            },
+            {
+                  "name": "Tonnachau",
+                  "text": "Tonnachau is a mountain peak located in Weno.",
+                  "category": "natural",
+                  "coords": [
+                        151.849581,
+                        7.456903
+                  ]
+            },
+            {
+                  "name": "Japanese War Memorial",
+                  "text": "Japanese War Memorial is a tourist attraction located in Weno.",
+                  "category": "landmark",
+                  "coords": [
+                        151.841968,
+                        7.449697
+                  ]
+            },
+            {
+                  "name": "Wichen Falls",
+                  "text": "Wichen Falls is a tourist attraction located in Weno.",
+                  "category": "landmark",
+                  "coords": [
+                        151.8688,
+                        7.452723
+                  ]
+            },
+            {
+                  "name": "Immaculate Heart of Mary Cathedral",
+                  "text": "The Immaculate Heart of Mary Cathedral is a Catholic place of worship located in Weno.",
+                  "category": "religious",
+                  "coords": [
+                        151.864131,
+                        7.457255
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "city",
     name: { de: "Weno", hu: "Weno", ro: "Weno", en: "Weno" },
@@ -93,7 +543,556 @@ export const micronesiaCitiesV2: POI[] = [
     image: "/poi-images/micronesia-weno-cities-v2.webp",
   },
   {
-    id: "micronesia-kolonia-cities-v2",
+    id: "micronesia-kolonia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "Nipik En Lidakihka ist ein Strand in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "Das Pohnpei Lidorkini Museum ist ein Museum in Kolonia.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "Eel Pool ist eine Tierattraktion in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "Pohnpei Swimming Pool ist ein Wasserpark in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "Dolen Metipw ist ein Berggipfel in der Nähe von Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohn Dollen Net",
+                  "text": "Pohn Dollen Net ist ein Berggipfel in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.226111,
+                        6.961111
+                  ]
+            },
+            {
+                  "name": "Pohndolap",
+                  "text": "Der Sokehs Mountain ist ein markanter Gipfel in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "Dolen Nier ist ein Berggipfel in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "German Bell Tower",
+                  "text": "Der German Tower ist eine historische Glockenturm-Attraktion in Kolonia. Er dient als markantes Überbleibsel der kolonialen Vergangenheit der Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        158.211438,
+                        6.968409
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "Stone Look-Out ist ein Aussichtspunkt in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "Rifle Pit besteht aus historischen Ruinen in Kolonia.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "Kepindau Waterfall",
+                  "text": "Kepindau Falls ist eine Naturattraktion in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "Cliff Face ist eine Naturattraktion in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Pohn Pillap Waterfall",
+                  "text": "Pohn Pillap Waterfall ist eine landschaftliche Attraktion in der Stadt Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.182839,
+                        6.975266
+                  ]
+            },
+            {
+                  "name": "Japanese WW2 Tank Graveyard",
+                  "text": "Japanese WW2 Tank Graveyard ist eine historische Attraktion in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.216998,
+                        6.960347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "A Nipik En Lidakihka egy tengerpart Kolonia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "A Pohnpei Lidorkini Museum egy múzeum Kolonia-ban.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "Az Eel Pool egy állatkerti látványosság Kolonia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "A Pohnpei Swimming Pool egy vízipark Kolonia-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "A Dolen Metipw egy hegycsúcs Kolonia közelében.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohn Dollen Net",
+                  "text": "A Pohn Dollen Net egy hegycsúcs Kolonia városában.",
+                  "category": "natural",
+                  "coords": [
+                        158.226111,
+                        6.961111
+                  ]
+            },
+            {
+                  "name": "Pohndolap",
+                  "text": "A Sokehs Mountain egy kiemelkedő hegycsúcs Kolonia-ban.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "A Dolen Nier egy hegycsúcs Kolonia-ban.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "German Bell Tower",
+                  "text": "A German Tower egy történelmi harangtorony látványosság Kolonia-ban. A terület gyarmati múltjának kiemelkedő maradványaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        158.211438,
+                        6.968409
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "A Stone Look-Out egy kilátó Kolonia városában.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "A Rifle Pit történelmi romokból áll Kolonia városában.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "Kepindau Waterfall",
+                  "text": "A Kepindau Falls egy természeti látványosság Kolonia városában.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "A Cliff Face egy természeti látványosság Kolonia területén.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Pohn Pillap Waterfall",
+                  "text": "A Pohn Pillap Waterfall egy festői látványosság Kolonia városában.",
+                  "category": "landmark",
+                  "coords": [
+                        158.182839,
+                        6.975266
+                  ]
+            },
+            {
+                  "name": "Japanese WW2 Tank Graveyard",
+                  "text": "A Japanese WW2 Tank Graveyard egy történelmi látványosság Kolonia városában.",
+                  "category": "landmark",
+                  "coords": [
+                        158.216998,
+                        6.960347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "Nipik En Lidakihka este o plajă situată în Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "Pohnpei Lidorkini Museum este un muzeu situat în Kolonia.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "Eel Pool este o atracție cu animale situată în Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "Pohnpei Swimming Pool este un parc acvatic din Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "Dolen Metipw este un vârf de munte situat lângă Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohn Dollen Net",
+                  "text": "Pohn Dollen Net este un vârf de munte situat în Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.226111,
+                        6.961111
+                  ]
+            },
+            {
+                  "name": "Pohndolap",
+                  "text": "Sokehs Mountain este un vârf muntos proeminent din Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "Dolen Nier este un vârf de munte aflat în Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "German Bell Tower",
+                  "text": "German Tower este o atracție turistică istorică, un turn cu clopot în Kolonia. Acesta servește drept o rămășiță proeminentă a trecutului colonial al zonei.",
+                  "category": "landmark",
+                  "coords": [
+                        158.211438,
+                        6.968409
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "Stone Look-Out este un punct de belvedere situat în Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "Rifle Pit constă din ruine istorice situate în Kolonia.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "Kepindau Waterfall",
+                  "text": "Kepindau Falls este o atracție naturală situată în Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "Cliff Face este o atracție naturală din Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Pohn Pillap Waterfall",
+                  "text": "Pohn Pillap Waterfall este o atracție pitorească situată în orașul Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.182839,
+                        6.975266
+                  ]
+            },
+            {
+                  "name": "Japanese WW2 Tank Graveyard",
+                  "text": "Japanese WW2 Tank Graveyard este o atracție istorică situată în Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.216998,
+                        6.960347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "Nipik En Lidakihka is a beach located in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "Pohnpei Lidorkini Museum is a museum situated in Kolonia.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "Eel Pool is an animal attraction located in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "Pohnpei Swimming Pool is a water park facility in Kolonia.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "Dolen Metipw is a mountain peak located near Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohn Dollen Net",
+                  "text": "Pohn Dollen Net is a mountain peak situated in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.226111,
+                        6.961111
+                  ]
+            },
+            {
+                  "name": "Sokehs Mountain",
+                  "text": "Sokehs Mountain is a prominent peak located in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "Dolen Nier is a mountain peak found in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "German Tower",
+                  "text": "German Tower is a historic belltower attraction in Kolonia. It serves as a prominent remnant of the area's colonial past.",
+                  "category": "landmark",
+                  "coords": [
+                        158.211438,
+                        6.968409
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "Stone Look-Out is a scenic viewpoint situated in Kolonia.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "Rifle Pit consists of historical ruins located in Kolonia.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "Kepindau Falls",
+                  "text": "Kepindau Falls is a natural attraction situated in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "Cliff Face is a natural attraction found in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Pohn Pillap Waterfall",
+                  "text": "Pohn Pillap Waterfall is a scenic attraction located in the city of Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.182839,
+                        6.975266
+                  ]
+            },
+            {
+                  "name": "Japanese WW2 Tank Graveyard",
+                  "text": "Japanese WW2 Tank Graveyard is a historical attraction situated in Kolonia.",
+                  "category": "landmark",
+                  "coords": [
+                        158.216998,
+                        6.960347
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "city",
     name: { de: "Kolonia", hu: "Kolonia", ro: "Kolonia", en: "Kolonia" },
@@ -138,7 +1137,88 @@ export const micronesiaCitiesV2: POI[] = [
     image: "/poi-images/micronesia-kolonia-cities-v2.webp",
   },
   {
-    id: "micronesia-colonia-yap-cities-v2",
+    id: "micronesia-colonia-yap-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yap Living History Museum",
+                  "text": "Das Yap Living History Museum in Colonia bewahrt die traditionelle Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        138.121692,
+                        9.516258
+                  ]
+            },
+            {
+                  "name": "meeting house",
+                  "text": "Das Versammlungshaus ist ein historisches Denkmal in Colonia.",
+                  "category": "historical",
+                  "coords": [
+                        138.110408,
+                        9.504119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yap Living History Museum",
+                  "text": "A coloniai Yap Living History Museum a hagyományos kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        138.121692,
+                        9.516258
+                  ]
+            },
+            {
+                  "name": "meeting house",
+                  "text": "A meeting house egy történelmi emlékmű Coloniában.",
+                  "category": "historical",
+                  "coords": [
+                        138.110408,
+                        9.504119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yap Living History Museum",
+                  "text": "Muzeul de Istorie Vie Yap din Colonia conservă cultura tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        138.121692,
+                        9.516258
+                  ]
+            },
+            {
+                  "name": "meeting house",
+                  "text": "Casa de întâlniri este un monument istoric în Colonia.",
+                  "category": "historical",
+                  "coords": [
+                        138.110408,
+                        9.504119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yap Living History Museum",
+                  "text": "The Yap Living History Museum in Colonia preserves traditional culture.",
+                  "category": "museum",
+                  "coords": [
+                        138.121692,
+                        9.516258
+                  ]
+            },
+            {
+                  "name": "meeting house",
+                  "text": "The meeting house is a historical monument in Colonia.",
+                  "category": "historical",
+                  "coords": [
+                        138.110408,
+                        9.504119
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "town",
     name: { de: "Colonia", hu: "Colonia", ro: "Colonia", en: "Colonia" },
@@ -183,7 +1263,124 @@ export const micronesiaCitiesV2: POI[] = [
     image: "/poi-images/micronesia-colonia-yap-cities-v2.webp",
   },
   {
-    id: "micronesia-tofol-cities-v2",
+    id: "micronesia-tofol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lelu Ruins Historic Park",
+                  "text": "Historische Ruinen in der Nähe von Tofol.",
+                  "category": "historical",
+                  "coords": [
+                        163.025,
+                        5.331667
+                  ]
+            },
+            {
+                  "name": "Kosrae Museum",
+                  "text": "Dieses Museum dokumentiert die Geschichte von Tofol und Kosrae.",
+                  "category": "museum",
+                  "coords": [
+                        163.008563,
+                        5.325186
+                  ]
+            },
+            {
+                  "name": "Finol Finkol",
+                  "text": "Ein markanter Berggipfel in der Region Tofol.",
+                  "category": "natural",
+                  "coords": [
+                        162.991557,
+                        5.311234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lelu Ruins Historic Park",
+                  "text": "Történelmi romok Tofol közelében.",
+                  "category": "historical",
+                  "coords": [
+                        163.025,
+                        5.331667
+                  ]
+            },
+            {
+                  "name": "Kosrae Museum",
+                  "text": "Ez a múzeum Tofol és Kosrae történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        163.008563,
+                        5.325186
+                  ]
+            },
+            {
+                  "name": "Finol Finkol",
+                  "text": "Jellegzetes hegycsúcs a Tofol régióban.",
+                  "category": "natural",
+                  "coords": [
+                        162.991557,
+                        5.311234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lelu Ruins Historic Park",
+                  "text": "Ruine istorice lângă Tofol.",
+                  "category": "historical",
+                  "coords": [
+                        163.025,
+                        5.331667
+                  ]
+            },
+            {
+                  "name": "Kosrae Museum",
+                  "text": "Acest muzeu documentează istoria orașului Tofol și a regiunii Kosrae.",
+                  "category": "museum",
+                  "coords": [
+                        163.008563,
+                        5.325186
+                  ]
+            },
+            {
+                  "name": "Finol Finkol",
+                  "text": "Un vârf muntos distinctiv în regiunea Tofol.",
+                  "category": "natural",
+                  "coords": [
+                        162.991557,
+                        5.311234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lelu Ruins Historic Park",
+                  "text": "Historic ruins near Tofol.",
+                  "category": "historical",
+                  "coords": [
+                        163.025,
+                        5.331667
+                  ]
+            },
+            {
+                  "name": "Kosrae Museum",
+                  "text": "This museum documents the history of Tofol and Kosrae.",
+                  "category": "museum",
+                  "coords": [
+                        163.008563,
+                        5.325186
+                  ]
+            },
+            {
+                  "name": "Finol Finkol",
+                  "text": "A distinctive mountain peak in the Tofol region.",
+                  "category": "natural",
+                  "coords": [
+                        162.991557,
+                        5.311234
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "capital",
     name: { de: "Tofol", hu: "Tofol", ro: "Tofol", en: "Tofol" },
@@ -273,7 +1470,232 @@ export const micronesiaCitiesV2: POI[] = [
     image: "/poi-images/micronesia-lelu-cities-v2.webp",
   },
   {
-    id: "micronesia-tol-cities-v2",
+    id: "micronesia-tol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chukienu",
+                  "text": "Chukienu ist ein Berggipfel in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.613611,
+                        7.347778
+                  ]
+            },
+            {
+                  "name": "Chukuram",
+                  "text": "Chukuram ist ein Berggipfel in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.596944,
+                        7.344167
+                  ]
+            },
+            {
+                  "name": "Nekeona",
+                  "text": "Nekeona ist ein Berggipfel in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.605278,
+                        7.351667
+                  ]
+            },
+            {
+                  "name": "Saponotou",
+                  "text": "Saponotou ist ein Berggipfel in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.621389,
+                        7.361389
+                  ]
+            },
+            {
+                  "name": "Wichuk",
+                  "text": "Wichuk ist ein Berggipfel in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.632778,
+                        7.329444
+                  ]
+            },
+            {
+                  "name": "Wonachaw",
+                  "text": "Wonachaw ist ein Berggipfel in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.626667,
+                        7.357222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chukienu",
+                  "text": "A(z) Chukienu egy hegycsúcs Tol területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.613611,
+                        7.347778
+                  ]
+            },
+            {
+                  "name": "Chukuram",
+                  "text": "A(z) Chukuram egy hegycsúcs Tol területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.596944,
+                        7.344167
+                  ]
+            },
+            {
+                  "name": "Nekeona",
+                  "text": "A(z) Nekeona egy hegycsúcs Tol területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.605278,
+                        7.351667
+                  ]
+            },
+            {
+                  "name": "Saponotou",
+                  "text": "A(z) Saponotou egy hegycsúcs Tol területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.621389,
+                        7.361389
+                  ]
+            },
+            {
+                  "name": "Wichuk",
+                  "text": "A(z) Wichuk egy hegycsúcs Tol területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.632778,
+                        7.329444
+                  ]
+            },
+            {
+                  "name": "Wonachaw",
+                  "text": "A(z) Wonachaw egy hegycsúcs Tol területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.626667,
+                        7.357222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chukienu",
+                  "text": "Chukienu este un vârf montan situat în Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.613611,
+                        7.347778
+                  ]
+            },
+            {
+                  "name": "Chukuram",
+                  "text": "Chukuram este un vârf montan situat în Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.596944,
+                        7.344167
+                  ]
+            },
+            {
+                  "name": "Nekeona",
+                  "text": "Nekeona este un vârf montan situat în Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.605278,
+                        7.351667
+                  ]
+            },
+            {
+                  "name": "Saponotou",
+                  "text": "Saponotou este un vârf montan situat în Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.621389,
+                        7.361389
+                  ]
+            },
+            {
+                  "name": "Wichuk",
+                  "text": "Wichuk este un vârf montan situat în Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.632778,
+                        7.329444
+                  ]
+            },
+            {
+                  "name": "Wonachaw",
+                  "text": "Wonachaw este un vârf montan situat în Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.626667,
+                        7.357222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chukienu",
+                  "text": "Chukienu is a mountain peak located in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.613611,
+                        7.347778
+                  ]
+            },
+            {
+                  "name": "Chukuram",
+                  "text": "Chukuram is a mountain peak located in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.596944,
+                        7.344167
+                  ]
+            },
+            {
+                  "name": "Nekeona",
+                  "text": "Nekeona is a mountain peak located in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.605278,
+                        7.351667
+                  ]
+            },
+            {
+                  "name": "Saponotou",
+                  "text": "Saponotou is a mountain peak located in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.621389,
+                        7.361389
+                  ]
+            },
+            {
+                  "name": "Wichuk",
+                  "text": "Wichuk is a mountain peak located in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.632778,
+                        7.329444
+                  ]
+            },
+            {
+                  "name": "Wonachaw",
+                  "text": "Wonachaw is a mountain peak located in Tol.",
+                  "category": "natural",
+                  "coords": [
+                        151.626667,
+                        7.357222
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "town",
     name: { de: "Tol", hu: "Tol", ro: "Tol", en: "Tol" },
@@ -318,7 +1740,124 @@ export const micronesiaCitiesV2: POI[] = [
     image: "/poi-images/micronesia-tol-cities-v2.webp",
   },
   {
-    id: "micronesia-fefan-cities-v2",
+    id: "micronesia-fefan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chukusou",
+                  "text": "Chukusou ist ein Berggipfel in Fefan.",
+                  "category": "natural",
+                  "coords": [
+                        151.841944,
+                        7.3375
+                  ]
+            },
+            {
+                  "name": "Chuk En Ipar",
+                  "text": "Chuk En Ipar ist ein Berggipfel in Fefan.",
+                  "category": "natural",
+                  "coords": [
+                        151.828056,
+                        7.356389
+                  ]
+            },
+            {
+                  "name": "Winifouno",
+                  "text": "Winifouno ist ein markanter Berggipfel in Fefan.",
+                  "category": "natural",
+                  "coords": [
+                        151.843056,
+                        7.326944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chukusou",
+                  "text": "A Chukusou egy hegycsúcs Fefan területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.841944,
+                        7.3375
+                  ]
+            },
+            {
+                  "name": "Chuk En Ipar",
+                  "text": "A Chuk En Ipar egy hegycsúcs Fefan térségében.",
+                  "category": "natural",
+                  "coords": [
+                        151.828056,
+                        7.356389
+                  ]
+            },
+            {
+                  "name": "Winifouno",
+                  "text": "A Winifouno egy kiemelkedő hegycsúcs Fefan területén.",
+                  "category": "natural",
+                  "coords": [
+                        151.843056,
+                        7.326944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chukusou",
+                  "text": "Chukusou este un vârf de munte situat în Fefan.",
+                  "category": "natural",
+                  "coords": [
+                        151.841944,
+                        7.3375
+                  ]
+            },
+            {
+                  "name": "Chuk En Ipar",
+                  "text": "Chuk En Ipar este un vârf de munte situat în Fefan.",
+                  "category": "natural",
+                  "coords": [
+                        151.828056,
+                        7.356389
+                  ]
+            },
+            {
+                  "name": "Winifouno",
+                  "text": "Winifouno este un vârf de munte proeminent din Fefan.",
+                  "category": "natural",
+                  "coords": [
+                        151.843056,
+                        7.326944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chukusou",
+                  "text": "Chukusou is a mountain peak located in Fefan.",
+                  "category": "natural",
+                  "coords": [
+                        151.841944,
+                        7.3375
+                  ]
+            },
+            {
+                  "name": "Chuk En Ipar",
+                  "text": "Chuk En Ipar is a mountain peak situated in Fefan.",
+                  "category": "natural",
+                  "coords": [
+                        151.828056,
+                        7.356389
+                  ]
+            },
+            {
+                  "name": "Winifouno",
+                  "text": "Winifouno is a prominent mountain peak in Fefan.",
+                  "category": "natural",
+                  "coords": [
+                        151.843056,
+                        7.326944
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "town",
     name: { de: "Fefan", hu: "Fefan", ro: "Fefan", en: "Fefan" },
@@ -363,7 +1902,196 @@ export const micronesiaCitiesV2: POI[] = [
     image: "/poi-images/micronesia-fefan-cities-v2.webp",
   },
   {
-    id: "micronesia-tonoas-cities-v2",
+    id: "micronesia-tonoas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foukenau",
+                  "text": "Foukenau ist ein Gipfel auf der Insel Tonoas.",
+                  "category": "natural",
+                  "coords": [
+                        151.866667,
+                        7.380833
+                  ]
+            },
+            {
+                  "name": "Naton",
+                  "text": "Naton ist ein Gipfel auf der Insel Tonoas.",
+                  "category": "natural",
+                  "coords": [
+                        151.878889,
+                        7.382222
+                  ]
+            },
+            {
+                  "name": "Unikopos",
+                  "text": "Unikopos ist ein Gipfel auf der Insel Tonoas.",
+                  "category": "natural",
+                  "coords": [
+                        151.884167,
+                        7.382778
+                  ]
+            },
+            {
+                  "name": "Unimokur",
+                  "text": "Unimokur ist ein Gipfel auf der Insel Tonoas.",
+                  "category": "natural",
+                  "coords": [
+                        151.89,
+                        7.373611
+                  ]
+            },
+            {
+                  "name": "Unimongemong",
+                  "text": "Unimongemong ist ein Gipfel auf der Insel Tonoas.",
+                  "category": "natural",
+                  "coords": [
+                        151.886111,
+                        7.371944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foukenau",
+                  "text": "A Foukenau egy hegycsúcs Tonoas szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        151.866667,
+                        7.380833
+                  ]
+            },
+            {
+                  "name": "Naton",
+                  "text": "A Naton egy hegycsúcs Tonoas szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        151.878889,
+                        7.382222
+                  ]
+            },
+            {
+                  "name": "Unikopos",
+                  "text": "Az Unikopos egy hegycsúcs Tonoas szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        151.884167,
+                        7.382778
+                  ]
+            },
+            {
+                  "name": "Unimokur",
+                  "text": "Az Unimokur egy hegycsúcs Tonoas szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        151.89,
+                        7.373611
+                  ]
+            },
+            {
+                  "name": "Unimongemong",
+                  "text": "Az Unimongemong egy hegycsúcs Tonoas szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        151.886111,
+                        7.371944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foukenau",
+                  "text": "Foukenau este un vârf muntos pe insula Tonoas.",
+                  "category": "natural",
+                  "coords": [
+                        151.866667,
+                        7.380833
+                  ]
+            },
+            {
+                  "name": "Naton",
+                  "text": "Naton este un vârf muntos pe insula Tonoas.",
+                  "category": "natural",
+                  "coords": [
+                        151.878889,
+                        7.382222
+                  ]
+            },
+            {
+                  "name": "Unikopos",
+                  "text": "Unikopos este un vârf muntos pe insula Tonoas.",
+                  "category": "natural",
+                  "coords": [
+                        151.884167,
+                        7.382778
+                  ]
+            },
+            {
+                  "name": "Unimokur",
+                  "text": "Unimokur este un vârf muntos pe insula Tonoas.",
+                  "category": "natural",
+                  "coords": [
+                        151.89,
+                        7.373611
+                  ]
+            },
+            {
+                  "name": "Unimongemong",
+                  "text": "Unimongemong este un vârf muntos pe insula Tonoas.",
+                  "category": "natural",
+                  "coords": [
+                        151.886111,
+                        7.371944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foukenau",
+                  "text": "Foukenau is a mountain peak on Tonoas island.",
+                  "category": "natural",
+                  "coords": [
+                        151.866667,
+                        7.380833
+                  ]
+            },
+            {
+                  "name": "Naton",
+                  "text": "Naton is a mountain peak on Tonoas island.",
+                  "category": "natural",
+                  "coords": [
+                        151.878889,
+                        7.382222
+                  ]
+            },
+            {
+                  "name": "Unikopos",
+                  "text": "Unikopos is a mountain peak on Tonoas island.",
+                  "category": "natural",
+                  "coords": [
+                        151.884167,
+                        7.382778
+                  ]
+            },
+            {
+                  "name": "Unimokur",
+                  "text": "Unimokur is a mountain peak on Tonoas island.",
+                  "category": "natural",
+                  "coords": [
+                        151.89,
+                        7.373611
+                  ]
+            },
+            {
+                  "name": "Unimongemong",
+                  "text": "Unimongemong is a mountain peak on Tonoas island.",
+                  "category": "natural",
+                  "coords": [
+                        151.886111,
+                        7.371944
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "town",
     name: { de: "Tonoas", hu: "Tonoas", ro: "Tonoas", en: "Tonoas" },
@@ -498,7 +2226,88 @@ export const micronesiaCitiesV2: POI[] = [
     image: "/poi-images/micronesia-kitti-cities-v2.webp",
   },
   {
-    id: "micronesia-madolenihmw-cities-v2",
+    id: "micronesia-madolenihmw-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nan Madol",
+                  "text": "Nan Madol ist eine antike archäologische Stätte in Madolenihmw, bekannt für ihre Ruinen im Wasser.",
+                  "category": "historical",
+                  "coords": [
+                        158.33115,
+                        6.84311
+                  ]
+            },
+            {
+                  "name": "Nanpahlap",
+                  "text": "Nanpahlap ist ein Gipfel in der Region Madolenihmw.",
+                  "category": "natural",
+                  "coords": [
+                        158.311944,
+                        6.873889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nan Madol",
+                  "text": "Nan Madol egy ősi régészeti lelőhely Madolenihmw-ben, amely a vízi romjairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        158.33115,
+                        6.84311
+                  ]
+            },
+            {
+                  "name": "Nanpahlap",
+                  "text": "A Nanpahlap egy hegycsúcs Madolenihmw régióban.",
+                  "category": "natural",
+                  "coords": [
+                        158.311944,
+                        6.873889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nan Madol",
+                  "text": "Nan Madol este un sit arheologic antic în Madolenihmw, cunoscut pentru ruinele sale pe apă.",
+                  "category": "historical",
+                  "coords": [
+                        158.33115,
+                        6.84311
+                  ]
+            },
+            {
+                  "name": "Nanpahlap",
+                  "text": "Nanpahlap este un vârf muntos în regiunea Madolenihmw.",
+                  "category": "natural",
+                  "coords": [
+                        158.311944,
+                        6.873889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nan Madol",
+                  "text": "Nan Madol is an ancient archaeological site in Madolenihmw, known for its ruins on water.",
+                  "category": "historical",
+                  "coords": [
+                        158.33115,
+                        6.84311
+                  ]
+            },
+            {
+                  "name": "Nanpahlap",
+                  "text": "Nanpahlap is a mountain peak in the Madolenihmw region.",
+                  "category": "natural",
+                  "coords": [
+                        158.311944,
+                        6.873889
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "town",
     name: { de: "Madolenihmw", hu: "Madolenihmw", ro: "Madolenihmw", en: "Madolenihmw" },
@@ -543,7 +2352,520 @@ export const micronesiaCitiesV2: POI[] = [
     image: "/poi-images/micronesia-madolenihmw-cities-v2.webp",
   },
   {
-    id: "micronesia-sokehs-cities-v2",
+    id: "micronesia-sokehs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "Nipik En Lidakihka ist ein Strand in Sokehs.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "Pohnpei Lidorkini Museum ist ein Museum in Sokehs.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "Eel Pool ist ein Tierpark in Sokehs.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "Pohnpei Swimming Pool ist ein Wasserpark in Sokehs.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolehtik",
+                  "text": "Dolehtik ist ein Berggipfel in Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.180593,
+                        6.98194
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "Dolen Metipw ist ein Berggipfel in Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohndolap",
+                  "text": "Sokehs Mountain ist ein Berggipfel in Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "Dolen Nier ist ein Berggipfel in Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "Stone Look-Out ist ein Aussichtspunkt in Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "Diese Ruine in Sokehs bietet einen Einblick in die militärische Vergangenheit der Region.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "The Labyrinth of Mangroves",
+                  "text": "Diese natürliche Attraktion in Sokehs lädt Besucher ein, die dichten Mangrovenwälder zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        158.177831,
+                        6.951885
+                  ]
+            },
+            {
+                  "name": "Kepindau Waterfall",
+                  "text": "Dieser Wasserfall ist eine malerische Natursehenswürdigkeit in der Umgebung von Sokehs.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "Diese markante Felswand ist ein beliebtes Ausflugsziel in Sokehs.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Pohn Pillap Waterfall",
+                  "text": "Diese beeindruckende Wasserfall-Attraktion in Sokehs bietet ein schönes Naturerlebnis.",
+                  "category": "landmark",
+                  "coords": [
+                        158.182839,
+                        6.975266
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "A(z) Nipik En Lidakihka egy strand Sokehs területén.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "A(z) Pohnpei Lidorkini Museum egy múzeum Sokehs városában.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "A(z) Eel Pool egy állatkert Sokehs városában.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "A(z) Pohnpei Swimming Pool egy élményfürdő Sokehs területén.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolehtik",
+                  "text": "A(z) Dolehtik egy hegycsúcs Sokehs területén.",
+                  "category": "natural",
+                  "coords": [
+                        158.180593,
+                        6.98194
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "A(z) Dolen Metipw egy hegycsúcs Sokehs területén.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohndolap",
+                  "text": "A(z) Sokehs Mountain egy hegycsúcs Sokehs területén.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "A(z) Dolen Nier egy hegycsúcs Sokehs területén.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "A(z) Stone Look-Out egy kilátó Sokehs városában.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "Ez a Sokehs területén található rom a régió katonai múltjába nyújt bepillantást.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "The Labyrinth of Mangroves",
+                  "text": "Ez a Sokehs-i természeti látványosság a sűrű mangroveerdők felfedezésére invitálja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        158.177831,
+                        6.951885
+                  ]
+            },
+            {
+                  "name": "Kepindau Waterfall",
+                  "text": "Ez a vízesés egy festői természeti látványosság Sokehs környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "Ez a lenyűgöző sziklafal népszerű kirándulóhely Sokehs területén.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Pohn Pillap Waterfall",
+                  "text": "Ez a lenyűgöző Sokehs-i vízesés gyönyörű természeti élményt kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        158.182839,
+                        6.975266
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "Nipik En Lidakihka este o plajă în Sokehs.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "Pohnpei Lidorkini Museum este un muzeu în Sokehs.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "Eel Pool este o grădină zoologică în Sokehs.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "Pohnpei Swimming Pool este un parc acvatic în Sokehs.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolehtik",
+                  "text": "Dolehtik este un vârf montan situat în Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.180593,
+                        6.98194
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "Dolen Metipw este un vârf montan situat în Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Pohndolap",
+                  "text": "Sokehs Mountain este un vârf montan situat în Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "Dolen Nier este un vârf montan situat în Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "Stone Look-Out este un punct de belvedere în Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "Aceste ruine din Sokehs oferă o privire asupra trecutului militar al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "The Labyrinth of Mangroves",
+                  "text": "Această atracție naturală din Sokehs invită vizitatorii să exploreze pădurile dense de mangrove.",
+                  "category": "landmark",
+                  "coords": [
+                        158.177831,
+                        6.951885
+                  ]
+            },
+            {
+                  "name": "Kepindau Waterfall",
+                  "text": "Această cascadă este o atracție naturală pitorească în împrejurimile orașului Sokehs.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "Acest perete stâncos impresionant este o destinație populară de excursie în Sokehs.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Pohn Pillap Waterfall",
+                  "text": "Această cascadă impresionantă din Sokehs oferă o experiență naturală frumoasă.",
+                  "category": "landmark",
+                  "coords": [
+                        158.182839,
+                        6.975266
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nipik En Lidakihka",
+                  "text": "Nipik En Lidakihka is a beach located in Sokehs.",
+                  "category": "recreational",
+                  "coords": [
+                        158.201389,
+                        6.970556
+                  ]
+            },
+            {
+                  "name": "Pohnpei Lidorkini Museum",
+                  "text": "Pohnpei Lidorkini Museum is a museum located in Sokehs.",
+                  "category": "museum",
+                  "coords": [
+                        158.209722,
+                        6.964722
+                  ]
+            },
+            {
+                  "name": "Eel Pool",
+                  "text": "Eel Pool is a zoo located in Sokehs.",
+                  "category": "recreational",
+                  "coords": [
+                        158.185119,
+                        6.976658
+                  ]
+            },
+            {
+                  "name": "Pohnpei Swimming Pool",
+                  "text": "Pohnpei Swimming Pool is a water park located in Sokehs.",
+                  "category": "recreational",
+                  "coords": [
+                        158.207667,
+                        6.955703
+                  ]
+            },
+            {
+                  "name": "Dolehtik",
+                  "text": "Dolehtik is a mountain peak located in Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.180593,
+                        6.98194
+                  ]
+            },
+            {
+                  "name": "Dolen Metipw",
+                  "text": "Dolen Metipw is a mountain peak located in Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.202222,
+                        6.953056
+                  ]
+            },
+            {
+                  "name": "Sokehs Mountain",
+                  "text": "Sokehs Mountain is a mountain peak located in Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.189673,
+                        6.969504
+                  ]
+            },
+            {
+                  "name": "Dolen Nier",
+                  "text": "Dolen Nier is a mountain peak located in Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.196389,
+                        6.951667
+                  ]
+            },
+            {
+                  "name": "Stone Look-Out",
+                  "text": "Stone Look-Out is a viewpoint located in Sokehs.",
+                  "category": "natural",
+                  "coords": [
+                        158.190532,
+                        6.963979
+                  ]
+            },
+            {
+                  "name": "Rifle Pit",
+                  "text": "This ruin in Sokehs offers a glimpse into the region's military past.",
+                  "category": "historical",
+                  "coords": [
+                        158.18969,
+                        6.96649
+                  ]
+            },
+            {
+                  "name": "The Labyrinth of Mangroves",
+                  "text": "This natural attraction in Sokehs invites visitors to explore the dense mangrove forests.",
+                  "category": "landmark",
+                  "coords": [
+                        158.177831,
+                        6.951885
+                  ]
+            },
+            {
+                  "name": "Kepindau Falls",
+                  "text": "This waterfall is a picturesque natural attraction in the surroundings of Sokehs.",
+                  "category": "landmark",
+                  "coords": [
+                        158.185717,
+                        6.974778
+                  ]
+            },
+            {
+                  "name": "Cliff Face",
+                  "text": "This striking cliff face is a popular excursion destination in Sokehs.",
+                  "category": "landmark",
+                  "coords": [
+                        158.190088,
+                        6.978359
+                  ]
+            },
+            {
+                  "name": "Pohn Pillap Waterfall",
+                  "text": "This impressive waterfall attraction in Sokehs offers a beautiful nature experience.",
+                  "category": "landmark",
+                  "coords": [
+                        158.182839,
+                        6.975266
+                  ]
+            }
+      ]
+},
     parent: "FM",
     type: "town",
     name: { de: "Sokehs", hu: "Sokehs", ro: "Sokehs", en: "Sokehs" },

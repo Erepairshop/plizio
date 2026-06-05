@@ -3,7 +3,160 @@ import { POI } from './poi';
 export const mauritaniaCitiesV2: POI[] = [
 
   {
-    id: "mauritania-nouakchott-cities-v2",
+    id: "mauritania-nouakchott-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "Das Nationalmuseum bewahrt das kulturelle Erbe von Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Mini-park",
+                  "text": "Ein kleiner Freizeitpark für Besucher in Nouakchott.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.993709,
+                        18.105137
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "Dieses Museum zeigt die Geschichte von Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "A nemzeti múzeum Nouakchott kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "Kortárs művészeti galéria Nouakchottban.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Mini-park",
+                  "text": "Kis vidámpark a látogatók számára Nouakchottban.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.993709,
+                        18.105137
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "Ez a múzeum Nouakchott történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "Muzeul național păstrează patrimoniul cultural din Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "O galerie de artă contemporană în Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Mini-park",
+                  "text": "Un mic parc de distracții pentru vizitatori în Nouakchott.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.993709,
+                        18.105137
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "Acest muzeu prezintă istoria orașului Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "The national museum preserves the cultural heritage of Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Galerie Zeinart",
+                  "text": "A gallery for contemporary art in Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Mini-park",
+                  "text": "A small theme park for visitors in Nouakchott.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.993709,
+                        18.105137
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "This museum showcases the history of Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "capital",
     name: { de: "Nouakchott", hu: "Nouakchott", ro: "Nouakchott", en: "Nouakchott" },
@@ -48,7 +201,52 @@ export const mauritaniaCitiesV2: POI[] = [
     image: "/poi-images/mauritania-nouakchott-cities-v2.webp",
   },
   {
-    id: "mauritania-nouadhibou-cities-v2",
+    id: "mauritania-nouadhibou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ehl lekhdeym أهل لخديم",
+                  "text": "Ehl lekhdeym ist eine Sehenswürdigkeit in Nouadhibou.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.03985,
+                        20.935765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ehl lekhdeym أهل لخديم",
+                  "text": "Az Ehl lekhdeym egy látványosság Nouadhibou területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.03985,
+                        20.935765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ehl lekhdeym أهل لخديم",
+                  "text": "Ehl lekhdeym este o atracție situată în Nouadhibou.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.03985,
+                        20.935765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ehl lekhdeym أهل لخديم",
+                  "text": "Ehl lekhdeym is an attraction found in Nouadhibou.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.03985,
+                        20.935765
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Nouadhibou", hu: "Nouadhibou", ro: "Nouadhibou", en: "Nouadhibou" },
@@ -228,7 +426,88 @@ export const mauritaniaCitiesV2: POI[] = [
     image: "/poi-images/mauritania-rosso-cities-v2.webp",
   },
   {
-    id: "mauritania-zouerat-cities-v2",
+    id: "mauritania-zouerat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de Zouérat متحف الزويرات",
+                  "text": "Das Musée de Zouérat ist ein lokales Museum in der Stadt Zouérat.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477104,
+                        22.735896
+                  ]
+            },
+            {
+                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "text": "Med Cheikhe ist eine Touristenattraktion in der Stadt Zouérat.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de Zouérat متحف الزويرات",
+                  "text": "A Musée de Zouérat egy helyi múzeum Zouérat városában.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477104,
+                        22.735896
+                  ]
+            },
+            {
+                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "text": "A Med Cheikhe egy turisztikai látványosság Zouérat városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de Zouérat متحف الزويرات",
+                  "text": "Musée de Zouérat este un muzeu local cu expoziții în orașul Zouérat.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477104,
+                        22.735896
+                  ]
+            },
+            {
+                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "text": "Med Cheikhe este o atracție turistică de vizitat în orașul Zouérat.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de Zouérat متحف الزويرات",
+                  "text": "Musée de Zouérat is a local museum exhibiting artifacts in the city of Zouérat.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477104,
+                        22.735896
+                  ]
+            },
+            {
+                  "name": "Med Cheikhe",
+                  "text": "Med Cheikhe is a tourist attraction to visit in the city of Zouérat.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Zouérat", hu: "Zouérat", ro: "Zouérat", en: "Zouérat" },
@@ -587,7 +866,52 @@ export const mauritaniaCitiesV2: POI[] = [
     image: "/poi-images/mauritania-boghe-cities-v2.webp",
   },
   {
-    id: "mauritania-ouadane-cities-v2",
+    id: "mauritania-ouadane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "القصر الكيالي",
+                  "text": "Attraktion القصر الكيالي in Ouadane.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.623161,
+                        20.931271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "القصر الكيالي",
+                  "text": "A القصر الكيالي látnivaló Ouadane-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.623161,
+                        20.931271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "القصر الكيالي",
+                  "text": "Atracția القصر الكيالي din Ouadane.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.623161,
+                        20.931271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "القصر الكيالي",
+                  "text": "Attraction القصر الكيالي in Ouadane.",
+                  "category": "landmark",
+                  "coords": [
+                        -11.623161,
+                        20.931271
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Ouadane", hu: "Ouadane", ro: "Ouadane", en: "Ouadane" },
@@ -1576,7 +1900,52 @@ export const mauritaniaCitiesV2: POI[] = [
     image: "/poi-images/mauritania-atâr-suburb-cities-v2.webp",
   },
   {
-    id: "mauritania-rosso-est-cities-v2",
+    id: "mauritania-rosso-est-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tourist Cruise",
+                  "text": "Touristenkreuzfahrt in Rosso-Est.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.727279,
+                        16.359938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tourist Cruise",
+                  "text": "Turista hajókirándulás Rosso-Estben.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.727279,
+                        16.359938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tourist Cruise",
+                  "text": "Croazieră turistică în Rosso-Est.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.727279,
+                        16.359938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tourist Cruise",
+                  "text": "Tourist cruise in Rosso-Est.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.727279,
+                        16.359938
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Rosso-Est", hu: "Rosso-Est", ro: "Rosso-Est", en: "Rosso-Est" },
@@ -1756,7 +2125,88 @@ export const mauritaniaCitiesV2: POI[] = [
     image: "/poi-images/mauritania-akjoujt-nord-cities-v2.webp",
   },
   {
-    id: "mauritania-zouerat-nord-cities-v2",
+    id: "mauritania-zouerat-nord-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de Zouérat متحف الزويرات",
+                  "text": "Das Musée de Zouérat ist ein Museum in Zouérat-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477104,
+                        22.735896
+                  ]
+            },
+            {
+                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "text": "Med Cheikhe ist eine Attraktion in Zouérat-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de Zouérat متحف الزويرات",
+                  "text": "A Musée de Zouérat egy múzeum Zouérat-Nord városában.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477104,
+                        22.735896
+                  ]
+            },
+            {
+                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "text": "A Med Cheikhe egy látnivaló Zouérat-Nord területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de Zouérat متحف الزويرات",
+                  "text": "Musée de Zouérat este un muzeu din Zouérat-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477104,
+                        22.735896
+                  ]
+            },
+            {
+                  "name": "Med Cheikhe محمد ولد الشيخ",
+                  "text": "Med Cheikhe este o atracție în Zouérat-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de Zouérat متحف الزويرات",
+                  "text": "Musée de Zouérat is a museum situated in Zouérat-Nord.",
+                  "category": "museum",
+                  "coords": [
+                        -12.477104,
+                        22.735896
+                  ]
+            },
+            {
+                  "name": "Med Cheikhe",
+                  "text": "Med Cheikhe is an attraction located in Zouérat-Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        -12.465945,
+                        22.736392
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Zouérat-Nord", hu: "Zouérat-Nord", ro: "Zouérat-Nord", en: "Zouérat-Nord" },
@@ -1801,7 +2251,88 @@ export const mauritaniaCitiesV2: POI[] = [
     image: "/poi-images/mauritania-zouerat-nord-cities-v2.webp",
   },
   {
-    id: "mauritania-boghe-nord-cities-v2",
+    id: "mauritania-boghe-nord-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Toufndé Baba Lamine توفندي بابا الأمين",
+                  "text": "Toufndé Baba Lamine ist ein lokaler Strandbereich in Boghé-Nord.",
+                  "category": "recreational",
+                  "coords": [
+                        -14.271777,
+                        16.579136
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes دار الشباب",
+                  "text": "Das Maison de Jeunes ist ein kommunales Kunstzentrum in Boghé-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.273429,
+                        16.583861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Toufndé Baba Lamine توفندي بابا الأمين",
+                  "text": "A Toufndé Baba Lamine egy helyi strand Boghé-Nord területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -14.271777,
+                        16.579136
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes دار الشباب",
+                  "text": "A Maison de Jeunes egy közösségi művészeti központ Boghé-Nord városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.273429,
+                        16.583861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Toufndé Baba Lamine توفندي بابا الأمين",
+                  "text": "Toufndé Baba Lamine este o plajă locală situată în Boghé-Nord.",
+                  "category": "recreational",
+                  "coords": [
+                        -14.271777,
+                        16.579136
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes دار الشباب",
+                  "text": "Maison de Jeunes este un centru de arte comunitar situat în Boghé-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.273429,
+                        16.583861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Toufndé Baba Lamine توفندي بابا الأمين",
+                  "text": "Toufndé Baba Lamine is a local beach area situated in Boghé-Nord.",
+                  "category": "recreational",
+                  "coords": [
+                        -14.271777,
+                        16.579136
+                  ]
+            },
+            {
+                  "name": "Maison de Jeunes دار الشباب",
+                  "text": "Maison de Jeunes is a community arts centre located in Boghé-Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.273429,
+                        16.583861
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Boghé-Nord", hu: "Boghé-Nord", ro: "Boghé-Nord", en: "Boghé-Nord" },

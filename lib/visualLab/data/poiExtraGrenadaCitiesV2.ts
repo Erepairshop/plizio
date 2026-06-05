@@ -3,7 +3,520 @@ import { POI } from './poi';
 export const grenadaCitiesV2: POI[] = [
 
   {
-    id: "grenada-st-georges-cities-v2",
+    id: "grenada-st-georges-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grenada National Museum",
+                  "text": "Das Grenada National Museum ist ein Museum zur Geschichte Grenadas in St. George’s.",
+                  "category": "museum",
+                  "coords": [
+                        -61.752623,
+                        12.050575
+                  ]
+            },
+            {
+                  "name": "Fort Matthew",
+                  "text": "Fort Matthew ist ein Fort in St. George’s.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.738069,
+                        12.050129
+                  ]
+            },
+            {
+                  "name": "Fort Frederick",
+                  "text": "Fort Frederick ist ein Fort in St. George’s.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.737302,
+                        12.047988
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Pandy Beach ist ein Strand in St. George’s.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Die Grand Anse Marine Protected Area ist ein Naturschutzgebiet in St. George’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Molinière-Beauséjour Marine Protected Area",
+                  "text": "Die Molinière-Beauséjour Marine Protected Area ist ein Naturschutzgebiet in St. George’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.758452,
+                        12.087417
+                  ]
+            },
+            {
+                  "name": "Grand Mal Bay",
+                  "text": "Die Grand Mal Bay ist eine Bucht in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755419,
+                        12.07714
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Der Grand Anse Beach ist eine Sehenswürdigkeit in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Der Tan Tan Beach ist eine Sehenswürdigkeit in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "On St. George",
+                  "text": "On St. George ist ein Aussichtspunkt in St. George’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.739846,
+                        12.049743
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Management and Guardianage",
+                  "text": "Horizon Yacht Management and Guardianage ist eine Sehenswürdigkeit in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.749307,
+                        12.04439
+                  ]
+            },
+            {
+                  "name": "Sun Lover Glass Bottom Boat Tour",
+                  "text": "Die Sun Lover Glass Bottom Boat Tour ist eine Sehenswürdigkeit in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.746173,
+                        12.043591
+                  ]
+            },
+            {
+                  "name": "Fort George",
+                  "text": "Fort George ist eine Sehenswürdigkeit in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.75385,
+                        12.049425
+                  ]
+            },
+            {
+                  "name": "Cathedrale of the Immaculate Conception",
+                  "text": "Die Kathedrale der Unbefleckten Empfängnis ist eine bedeutende Kultstätte in St. George’s.",
+                  "category": "religious",
+                  "coords": [
+                        -61.752099,
+                        12.053428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grenada National Museum",
+                  "text": "A Grenadai Nemzeti Múzeum Grenada történelmének szentelt múzeum St. George’sban.",
+                  "category": "museum",
+                  "coords": [
+                        -61.752623,
+                        12.050575
+                  ]
+            },
+            {
+                  "name": "Fort Matthew",
+                  "text": "A Fort Matthew egy erődítmény St. George’sban.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.738069,
+                        12.050129
+                  ]
+            },
+            {
+                  "name": "Fort Frederick",
+                  "text": "A Fort Frederick egy erődítmény St. George’sban.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.737302,
+                        12.047988
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "A Pandy Beach egy tengerpart St. George’sban.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "A Grand Anse Tengeri Védett Terület egy természetvédelmi terület St. George’sban.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Molinière-Beauséjour Marine Protected Area",
+                  "text": "A Molinière-Beauséjour Tengeri Védett Terület egy természetvédelmi terület St. George’sban.",
+                  "category": "natural",
+                  "coords": [
+                        -61.758452,
+                        12.087417
+                  ]
+            },
+            {
+                  "name": "Grand Mal Bay",
+                  "text": "A Grand Mal-öböl egy öböl St. George’sban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755419,
+                        12.07714
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "A Grand Anse Beach egy látványosság St. George’sban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "A Tan Tan Beach egy látványosság St. George’sban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "On St. George",
+                  "text": "Az On St. George egy kilátópont St. George’sban.",
+                  "category": "natural",
+                  "coords": [
+                        -61.739846,
+                        12.049743
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Management and Guardianage",
+                  "text": "A Horizon Yacht Management and Guardianage egy látványosság St. George’sban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.749307,
+                        12.04439
+                  ]
+            },
+            {
+                  "name": "Sun Lover Glass Bottom Boat Tour",
+                  "text": "A Sun Lover üvegfenekű hajótúra egy látványosság St. George’sban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.746173,
+                        12.043591
+                  ]
+            },
+            {
+                  "name": "Fort George",
+                  "text": "A Fort George egy látványosság St. George’sban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.75385,
+                        12.049425
+                  ]
+            },
+            {
+                  "name": "Cathedrale of the Immaculate Conception",
+                  "text": "A Szeplőtelen Fogantatás Katedrális egy jelentős istentiszteleti hely St. George’sban.",
+                  "category": "religious",
+                  "coords": [
+                        -61.752099,
+                        12.053428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grenada National Museum",
+                  "text": "Muzeul Național Grenada este un muzeu dedicat istoriei Grenadei în St. George’s.",
+                  "category": "museum",
+                  "coords": [
+                        -61.752623,
+                        12.050575
+                  ]
+            },
+            {
+                  "name": "Fort Matthew",
+                  "text": "Fort Matthew este un fort situat în St. George’s.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.738069,
+                        12.050129
+                  ]
+            },
+            {
+                  "name": "Fort Frederick",
+                  "text": "Fort Frederick este un fort situat în St. George’s.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.737302,
+                        12.047988
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Pandy Beach este o plajă situată în St. George’s.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Aria Marină Protejată Grand Anse este o rezervație naturală situată în St. George’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Molinière-Beauséjour Marine Protected Area",
+                  "text": "Aria Marină Protejată Molinière-Beauséjour este o rezervație naturală situată în St. George’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.758452,
+                        12.087417
+                  ]
+            },
+            {
+                  "name": "Grand Mal Bay",
+                  "text": "Golful Grand Mal este un golf situat în St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755419,
+                        12.07714
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Plaja Grand Anse este o atracție situată în St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Plaja Tan Tan este o atracție situată în St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "On St. George",
+                  "text": "On St. George este un punct de belvedere situat în St. George’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.739846,
+                        12.049743
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Management and Guardianage",
+                  "text": "Horizon Yacht Management and Guardianage este o atracție situată în St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.749307,
+                        12.04439
+                  ]
+            },
+            {
+                  "name": "Sun Lover Glass Bottom Boat Tour",
+                  "text": "Turul cu barca cu fund de sticlă Sun Lover este o atracție situată în St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.746173,
+                        12.043591
+                  ]
+            },
+            {
+                  "name": "Fort George",
+                  "text": "Fort George este o atracție situată în St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.75385,
+                        12.049425
+                  ]
+            },
+            {
+                  "name": "Cathedrale of the Immaculate Conception",
+                  "text": "Catedrala Imaculatei Concepții este un lăcaș de cult important situat în St. George’s.",
+                  "category": "religious",
+                  "coords": [
+                        -61.752099,
+                        12.053428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grenada National Museum",
+                  "text": "The Grenada National Museum is a museum dedicated to the history of Grenada in St. George’s.",
+                  "category": "museum",
+                  "coords": [
+                        -61.752623,
+                        12.050575
+                  ]
+            },
+            {
+                  "name": "Fort Matthew",
+                  "text": "Fort Matthew is a fort located in St. George’s.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.738069,
+                        12.050129
+                  ]
+            },
+            {
+                  "name": "Fort Frederick",
+                  "text": "Fort Frederick is a fort located in St. George’s.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.737302,
+                        12.047988
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Pandy Beach is a beach located in St. George’s.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "The Grand Anse Marine Protected Area is a nature reserve located in St. George’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Molinière-Beauséjour Marine Protected Area",
+                  "text": "The Molinière-Beauséjour Marine Protected Area is a nature reserve located in St. George’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.758452,
+                        12.087417
+                  ]
+            },
+            {
+                  "name": "Grand Mal Bay",
+                  "text": "Grand Mal Bay is a bay located in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755419,
+                        12.07714
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Grand Anse Beach is an attraction located in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Tan Tan Beach is an attraction located in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "On St. George",
+                  "text": "On St. George is a viewpoint located in St. George’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.739846,
+                        12.049743
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Management and Guardianage",
+                  "text": "Horizon Yacht Management and Guardianage is an attraction located in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.749307,
+                        12.04439
+                  ]
+            },
+            {
+                  "name": "Sun Lover Glass Bottom Boat Tour",
+                  "text": "The Sun Lover Glass Bottom Boat Tour is an attraction located in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.746173,
+                        12.043591
+                  ]
+            },
+            {
+                  "name": "Fort George",
+                  "text": "Fort George is an attraction located in St. George’s.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.75385,
+                        12.049425
+                  ]
+            },
+            {
+                  "name": "Cathedrale of the Immaculate Conception",
+                  "text": "The Cathedral of the Immaculate Conception is a prominent place of worship located in St. George’s.",
+                  "category": "religious",
+                  "coords": [
+                        -61.752099,
+                        12.053428
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "capital",
     name: { de: "St. George’s", hu: "St. George’s", ro: "St. George’s", en: "St. George's" },
@@ -48,7 +561,160 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-st-georges-cities-v2.webp",
   },
   {
-    id: "grenada-grenville-cities-v2",
+    id: "grenada-grenville-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Great River Bay",
+                  "text": "Die Great River Bay ist eine Bucht in Grenville.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.607717,
+                        12.136143
+                  ]
+            },
+            {
+                  "name": "Pearls Airport",
+                  "text": "Der Pearls Airport ist eine Sehenswürdigkeit in Grenville. Es ist der verlassene erste Flughafen von Grenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.616844,
+                        12.143678
+                  ]
+            },
+            {
+                  "name": "Aircraft Wrecks",
+                  "text": "Aircraft Wrecks ist eine Sehenswürdigkeit in Grenville.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.61372,
+                        12.143718
+                  ]
+            },
+            {
+                  "name": "Grenville Nutmeg Station",
+                  "text": "Die Grenville Nutmeg Station ist eine Sehenswürdigkeit in Grenville.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.623785,
+                        12.12258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Great River Bay",
+                  "text": "A Great River Bay egy öböl Grenville városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.607717,
+                        12.136143
+                  ]
+            },
+            {
+                  "name": "Pearls Airport",
+                  "text": "A Pearls Airport egy látványosság Grenville városában. Ez Grenada elhagyatott első repülőtere.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.616844,
+                        12.143678
+                  ]
+            },
+            {
+                  "name": "Aircraft Wrecks",
+                  "text": "Az Aircraft Wrecks egy látványosság Grenville városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.61372,
+                        12.143718
+                  ]
+            },
+            {
+                  "name": "Grenville Nutmeg Station",
+                  "text": "A Grenville Nutmeg Station egy látványosság Grenville városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.623785,
+                        12.12258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Great River Bay",
+                  "text": "Great River Bay este un golf situat în Grenville.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.607717,
+                        12.136143
+                  ]
+            },
+            {
+                  "name": "Pearls Airport",
+                  "text": "Pearls Airport este o atracție situată în Grenville. Este primul aeroport abandonat din Grenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.616844,
+                        12.143678
+                  ]
+            },
+            {
+                  "name": "Aircraft Wrecks",
+                  "text": "Aircraft Wrecks este o atracție situată în Grenville.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.61372,
+                        12.143718
+                  ]
+            },
+            {
+                  "name": "Grenville Nutmeg Station",
+                  "text": "Grenville Nutmeg Station este o atracție situată în Grenville.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.623785,
+                        12.12258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Great River Bay",
+                  "text": "Great River Bay is a bay located in Grenville.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.607717,
+                        12.136143
+                  ]
+            },
+            {
+                  "name": "Pearls Airport",
+                  "text": "Pearls Airport is an attraction located in Grenville. It is Grenada's abandoned first airport.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.616844,
+                        12.143678
+                  ]
+            },
+            {
+                  "name": "Aircraft Wrecks",
+                  "text": "Aircraft Wrecks is an attraction located in Grenville.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.61372,
+                        12.143718
+                  ]
+            },
+            {
+                  "name": "Grenville Nutmeg Station",
+                  "text": "Grenville Nutmeg Station is an attraction located in Grenville.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.623785,
+                        12.12258
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "town",
     name: { de: "Grenville", hu: "Grenville", ro: "Grenville", en: "Grenville" },
@@ -93,7 +759,52 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-grenville-cities-v2.webp",
   },
   {
-    id: "grenada-gouyave-cities-v2",
+    id: "grenada-gouyave-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dougaldston Estate",
+                  "text": "Das Dougaldston Estate ist eine Sehenswürdigkeit in Gouyave.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.729404,
+                        12.157882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dougaldston Estate",
+                  "text": "A Dougaldston Estate egy látványosság Gouyave-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.729404,
+                        12.157882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dougaldston Estate",
+                  "text": "Dougaldston Estate este o atracție situată în Gouyave.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.729404,
+                        12.157882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dougaldston Estate",
+                  "text": "The Dougaldston Estate is an attraction situated in Gouyave.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.729404,
+                        12.157882
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "town",
     name: { de: "Gouyave", hu: "Gouyave", ro: "Gouyave", en: "Gouyave" },
@@ -138,7 +849,376 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-gouyave-cities-v2.webp",
   },
   {
-    id: "grenada-sauteurs-cities-v2",
+    id: "grenada-sauteurs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mt. Rich Petroglyphs",
+                  "text": "Archäologische Stätte der Petroglyphen vom Mt. Rich in Sauteurs.",
+                  "category": "historical",
+                  "coords": [
+                        -61.643083,
+                        12.193648
+                  ]
+            },
+            {
+                  "name": "Mount Rodney Beach",
+                  "text": "Mount Rodney Beach in Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.651319,
+                        12.230936
+                  ]
+            },
+            {
+                  "name": "Sauteurs Beach",
+                  "text": "Sauteurs Beach in Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.644467,
+                        12.226527
+                  ]
+            },
+            {
+                  "name": "Irvins Bay Beach",
+                  "text": "Irvins Bay Beach in Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.635343,
+                        12.225088
+                  ]
+            },
+            {
+                  "name": "Levara Wetland Site",
+                  "text": "Levara Wetland Site in Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.609504,
+                        12.22456
+                  ]
+            },
+            {
+                  "name": "Levera Hill",
+                  "text": "Levera Hill in Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.620798,
+                        12.216152
+                  ]
+            },
+            {
+                  "name": "Sauteurs Bay",
+                  "text": "Sauteurs Bay in Sauteurs.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.645494,
+                        12.228775
+                  ]
+            },
+            {
+                  "name": "Leapers Hill",
+                  "text": "Aussichtspunkt Leapers Hill in Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.640433,
+                        12.226306
+                  ]
+            },
+            {
+                  "name": "Welcome Rock",
+                  "text": "Aussichtspunkt Welcome Rock in Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.619455,
+                        12.216889
+                  ]
+            },
+            {
+                  "name": "Windmill Ruins",
+                  "text": "Windmill Ruins in Sauteurs sind die Überreste einer alten Windmühle.",
+                  "category": "historical",
+                  "coords": [
+                        -61.657664,
+                        12.230614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mt. Rich Petroglyphs",
+                  "text": "Mt. Rich petroglifák régészeti lelőhelye, Sauteurs.",
+                  "category": "historical",
+                  "coords": [
+                        -61.643083,
+                        12.193648
+                  ]
+            },
+            {
+                  "name": "Mount Rodney Beach",
+                  "text": "Mount Rodney strand, Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.651319,
+                        12.230936
+                  ]
+            },
+            {
+                  "name": "Sauteurs Beach",
+                  "text": "Sauteurs strand, Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.644467,
+                        12.226527
+                  ]
+            },
+            {
+                  "name": "Irvins Bay Beach",
+                  "text": "Irvins Bay strand, Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.635343,
+                        12.225088
+                  ]
+            },
+            {
+                  "name": "Levara Wetland Site",
+                  "text": "Levera vizes élőhely, Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.609504,
+                        12.22456
+                  ]
+            },
+            {
+                  "name": "Levera Hill",
+                  "text": "Levera hegy, Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.620798,
+                        12.216152
+                  ]
+            },
+            {
+                  "name": "Sauteurs Bay",
+                  "text": "Sauteurs-öböl, Sauteurs.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.645494,
+                        12.228775
+                  ]
+            },
+            {
+                  "name": "Leapers Hill",
+                  "text": "Leapers Hill kilátópont, Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.640433,
+                        12.226306
+                  ]
+            },
+            {
+                  "name": "Welcome Rock",
+                  "text": "Welcome Rock kilátópont, Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.619455,
+                        12.216889
+                  ]
+            },
+            {
+                  "name": "Windmill Ruins",
+                  "text": "A Windmill Ruins Sauteurs városában egy régi szélmalom maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -61.657664,
+                        12.230614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mt. Rich Petroglyphs",
+                  "text": "Sit arheologic cu petroglife la Mt. Rich în Sauteurs.",
+                  "category": "historical",
+                  "coords": [
+                        -61.643083,
+                        12.193648
+                  ]
+            },
+            {
+                  "name": "Mount Rodney Beach",
+                  "text": "Plaja Mount Rodney din Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.651319,
+                        12.230936
+                  ]
+            },
+            {
+                  "name": "Sauteurs Beach",
+                  "text": "Plaja Sauteurs din Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.644467,
+                        12.226527
+                  ]
+            },
+            {
+                  "name": "Irvins Bay Beach",
+                  "text": "Plaja Irvins Bay din Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.635343,
+                        12.225088
+                  ]
+            },
+            {
+                  "name": "Levara Wetland Site",
+                  "text": "Zona umedă Levera din Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.609504,
+                        12.22456
+                  ]
+            },
+            {
+                  "name": "Levera Hill",
+                  "text": "Dealul Levera din Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.620798,
+                        12.216152
+                  ]
+            },
+            {
+                  "name": "Sauteurs Bay",
+                  "text": "Golful Sauteurs din Sauteurs.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.645494,
+                        12.228775
+                  ]
+            },
+            {
+                  "name": "Leapers Hill",
+                  "text": "Punct de observație Leapers Hill în Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.640433,
+                        12.226306
+                  ]
+            },
+            {
+                  "name": "Welcome Rock",
+                  "text": "Punct de observație Welcome Rock în Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.619455,
+                        12.216889
+                  ]
+            },
+            {
+                  "name": "Windmill Ruins",
+                  "text": "Ruinele morii de vânt din Sauteurs sunt rămășițele unei vechi mori.",
+                  "category": "historical",
+                  "coords": [
+                        -61.657664,
+                        12.230614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mt. Rich Petroglyphs",
+                  "text": "Mt. Rich petroglyphs archaeological site in Sauteurs.",
+                  "category": "historical",
+                  "coords": [
+                        -61.643083,
+                        12.193648
+                  ]
+            },
+            {
+                  "name": "Mount Rodney Beach",
+                  "text": "Mount Rodney Beach in Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.651319,
+                        12.230936
+                  ]
+            },
+            {
+                  "name": "Sauteurs Beach",
+                  "text": "Sauteurs Beach in Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.644467,
+                        12.226527
+                  ]
+            },
+            {
+                  "name": "Irvins Bay Beach",
+                  "text": "Irvins Bay Beach in Sauteurs.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.635343,
+                        12.225088
+                  ]
+            },
+            {
+                  "name": "Levara Wetland Site",
+                  "text": "Levera Wetland Site in Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.609504,
+                        12.22456
+                  ]
+            },
+            {
+                  "name": "Levera Hill",
+                  "text": "Levera Hill in Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.620798,
+                        12.216152
+                  ]
+            },
+            {
+                  "name": "Sauteurs Bay",
+                  "text": "Sauteurs Bay in Sauteurs.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.645494,
+                        12.228775
+                  ]
+            },
+            {
+                  "name": "Leapers Hill",
+                  "text": "Leapers Hill viewpoint in Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.640433,
+                        12.226306
+                  ]
+            },
+            {
+                  "name": "Welcome Rock",
+                  "text": "Welcome Rock viewpoint in Sauteurs.",
+                  "category": "natural",
+                  "coords": [
+                        -61.619455,
+                        12.216889
+                  ]
+            },
+            {
+                  "name": "Windmill Ruins",
+                  "text": "The Windmill Ruins in Sauteurs are the remains of an old windmill.",
+                  "category": "historical",
+                  "coords": [
+                        -61.657664,
+                        12.230614
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "town",
     name: { de: "Sauteurs", hu: "Sauteurs", ro: "Sauteurs", en: "Sauteurs" },
@@ -183,7 +1263,232 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-sauteurs-cities-v2.webp",
   },
   {
-    id: "grenada-hillsborough-cities-v2",
+    id: "grenada-hillsborough-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carriacou Museum",
+                  "text": "Das Carriacou Museum ist ein Museum in Hillsborough.",
+                  "category": "museum",
+                  "coords": [
+                        -61.457499,
+                        12.48322
+                  ]
+            },
+            {
+                  "name": "Sandy Island",
+                  "text": "Sandy Island ist ein Strand in Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.482294,
+                        12.484974
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Paradise Beach ist ein Strand in Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.480462,
+                        12.474255
+                  ]
+            },
+            {
+                  "name": "Sparrow Beach",
+                  "text": "Sparrow Beach ist ein Strand in Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.452836,
+                        12.498614
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Beach",
+                  "text": "Mount Pleasant Beach ist ein Strand in Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.431799,
+                        12.479994
+                  ]
+            },
+            {
+                  "name": "Dumfries Plantation Ruins",
+                  "text": "Dumfries Plantation Ruins ist eine Sehenswürdigkeit in Hillsborough.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.454409,
+                        12.459245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carriacou Museum",
+                  "text": "A Carriacou Museum egy múzeum Hillsborough városában.",
+                  "category": "museum",
+                  "coords": [
+                        -61.457499,
+                        12.48322
+                  ]
+            },
+            {
+                  "name": "Sandy Island",
+                  "text": "A Sandy Island egy strand Hillsborough városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.482294,
+                        12.484974
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "A Paradise Beach egy strand Hillsborough városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.480462,
+                        12.474255
+                  ]
+            },
+            {
+                  "name": "Sparrow Beach",
+                  "text": "A Sparrow Beach egy strand Hillsborough városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.452836,
+                        12.498614
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Beach",
+                  "text": "A Mount Pleasant Beach egy strand Hillsborough városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.431799,
+                        12.479994
+                  ]
+            },
+            {
+                  "name": "Dumfries Plantation Ruins",
+                  "text": "A Dumfries Plantation Ruins egy látványosság Hillsborough városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.454409,
+                        12.459245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carriacou Museum",
+                  "text": "Carriacou Museum este un muzeu situat în Hillsborough.",
+                  "category": "museum",
+                  "coords": [
+                        -61.457499,
+                        12.48322
+                  ]
+            },
+            {
+                  "name": "Sandy Island",
+                  "text": "Sandy Island este o plajă situată în Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.482294,
+                        12.484974
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Paradise Beach este o plajă situată în Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.480462,
+                        12.474255
+                  ]
+            },
+            {
+                  "name": "Sparrow Beach",
+                  "text": "Sparrow Beach este o plajă situată în Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.452836,
+                        12.498614
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Beach",
+                  "text": "Mount Pleasant Beach este o plajă situată în Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.431799,
+                        12.479994
+                  ]
+            },
+            {
+                  "name": "Dumfries Plantation Ruins",
+                  "text": "Dumfries Plantation Ruins este o atracție situată în Hillsborough.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.454409,
+                        12.459245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carriacou Museum",
+                  "text": "Carriacou Museum is a museum located in Hillsborough.",
+                  "category": "museum",
+                  "coords": [
+                        -61.457499,
+                        12.48322
+                  ]
+            },
+            {
+                  "name": "Sandy Island",
+                  "text": "Sandy Island is a beach located in Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.482294,
+                        12.484974
+                  ]
+            },
+            {
+                  "name": "Paradise Beach",
+                  "text": "Paradise Beach is a beach located in Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.480462,
+                        12.474255
+                  ]
+            },
+            {
+                  "name": "Sparrow Beach",
+                  "text": "Sparrow Beach is a beach located in Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.452836,
+                        12.498614
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Beach",
+                  "text": "Mount Pleasant Beach is a beach located in Hillsborough.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.431799,
+                        12.479994
+                  ]
+            },
+            {
+                  "name": "Dumfries Plantation Ruins",
+                  "text": "Dumfries Plantation Ruins is an attraction located in Hillsborough.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.454409,
+                        12.459245
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "town",
     name: { de: "Hillsborough", hu: "Hillsborough", ro: "Hillsborough", en: "Hillsborough" },
@@ -228,7 +1533,124 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-hillsborough-cities-v2.webp",
   },
   {
-    id: "grenada-saint-davids-cities-v2",
+    id: "grenada-saint-davids-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Sagesse Beach",
+                  "text": "La Sagesse Beach ist ein Strand in Saint David’s.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.671834,
+                        12.02323
+                  ]
+            },
+            {
+                  "name": "Westerhall Rum Estate",
+                  "text": "Das Westerhall Rum Estate besteht aus historischen Ruinen in Saint David’s.",
+                  "category": "historical",
+                  "coords": [
+                        -61.703693,
+                        12.019126
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer ist ein malerischer Aussichtspunkt in Saint David’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Sagesse Beach",
+                  "text": "A La Sagesse Beach egy tengerparti strand Saint David’s-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.671834,
+                        12.02323
+                  ]
+            },
+            {
+                  "name": "Westerhall Rum Estate",
+                  "text": "A Westerhall Rum Estate történelmi romokból áll Saint David’s-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -61.703693,
+                        12.019126
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Az Explorer egy festői kilátó Saint David’s-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Sagesse Beach",
+                  "text": "La Sagesse Beach este o plajă situată în Saint David’s.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.671834,
+                        12.02323
+                  ]
+            },
+            {
+                  "name": "Westerhall Rum Estate",
+                  "text": "Westerhall Rum Estate constă în ruine istorice din Saint David’s.",
+                  "category": "historical",
+                  "coords": [
+                        -61.703693,
+                        12.019126
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer este un punct de belvedere panoramic situat în Saint David’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Sagesse Beach",
+                  "text": "La Sagesse Beach is a coastal beach located in Saint David’s.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.671834,
+                        12.02323
+                  ]
+            },
+            {
+                  "name": "Westerhall Rum Estate",
+                  "text": "The Westerhall Rum Estate consists of historical ruins in Saint David’s.",
+                  "category": "historical",
+                  "coords": [
+                        -61.703693,
+                        12.019126
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer is a scenic viewpoint situated in Saint David’s.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "village",
     name: { de: "Saint David’s", hu: "Saint David’s", ro: "Saint David’s", en: "Saint David's" },
@@ -318,7 +1740,52 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-grand-anse-cities-v2.webp",
   },
   {
-    id: "grenada-marquis-cities-v2",
+    id: "grenada-marquis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Carmel Waterfalls",
+                  "text": "Mount Carmel Waterfalls ist eine Sehenswürdigkeit in Marquis.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.635661,
+                        12.093174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Carmel Waterfalls",
+                  "text": "A Mount Carmel Waterfalls egy látványosság Marquis városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.635661,
+                        12.093174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Carmel Waterfalls",
+                  "text": "Mount Carmel Waterfalls este o atracție situată în Marquis.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.635661,
+                        12.093174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Carmel Waterfalls",
+                  "text": "Mount Carmel Waterfalls is an attraction located in Marquis.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.635661,
+                        12.093174
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "village",
     name: { de: "Marquis", hu: "Marquis", ro: "Marquis", en: "Marquis" },
@@ -453,7 +1920,124 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-lance-aux-epines-cities-v2.webp",
   },
   {
-    id: "grenada-crochu-cities-v2",
+    id: "grenada-crochu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cabier Beach",
+                  "text": "Cabier Beach ist ein Strand in Crochu.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.633607,
+                        12.055551
+                  ]
+            },
+            {
+                  "name": "La Tante Beach",
+                  "text": "La Tante Beach ist ein Strand in Crochu.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.636986,
+                        12.049299
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer ist ein Aussichtspunkt in Crochu.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cabier Beach",
+                  "text": "A Cabier Beach egy strand Crochu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.633607,
+                        12.055551
+                  ]
+            },
+            {
+                  "name": "La Tante Beach",
+                  "text": "A La Tante Beach egy strand Crochu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.636986,
+                        12.049299
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Az Explorer egy kilátó Crochu városában.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cabier Beach",
+                  "text": "Cabier Beach este o plajă situată în Crochu.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.633607,
+                        12.055551
+                  ]
+            },
+            {
+                  "name": "La Tante Beach",
+                  "text": "La Tante Beach este o plajă situată în Crochu.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.636986,
+                        12.049299
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer este un punct de belvedere situat în Crochu.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cabier Beach",
+                  "text": "Cabier Beach is a beach located in Crochu.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.633607,
+                        12.055551
+                  ]
+            },
+            {
+                  "name": "La Tante Beach",
+                  "text": "La Tante Beach is a beach located in Crochu.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.636986,
+                        12.049299
+                  ]
+            },
+            {
+                  "name": "Explorer",
+                  "text": "Explorer is a viewpoint located in Crochu.",
+                  "category": "natural",
+                  "coords": [
+                        -61.658076,
+                        12.031353
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "village",
     name: { de: "Crochu", hu: "Crochu", ro: "Crochu", en: "Crochu" },
@@ -498,7 +2082,196 @@ export const grenadaCitiesV2: POI[] = [
     image: "/poi-images/grenada-crochu-cities-v2.webp",
   },
   {
-    id: "grenada-tivoli-cities-v2",
+    id: "grenada-tivoli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Belmont Estate",
+                  "text": "Das Belmont Estate ist ein Museum in Tivoli.",
+                  "category": "museum",
+                  "coords": [
+                        -61.626927,
+                        12.174567
+                  ]
+            },
+            {
+                  "name": "Grenada Chocolate Factory",
+                  "text": "Die Grenada Chocolate Factory ist ein Museum und eine Produktionsstätte in Tivoli.",
+                  "category": "museum",
+                  "coords": [
+                        -61.638087,
+                        12.175445
+                  ]
+            },
+            {
+                  "name": "Conference Bay",
+                  "text": "Die Conference Bay ist eine Bucht in Tivoli.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.604307,
+                        12.161293
+                  ]
+            },
+            {
+                  "name": "Pearls Airport",
+                  "text": "Der Pearls Airport ist eine Attraktion in Tivoli und war der erste Flughafen Grenadas.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.616844,
+                        12.143678
+                  ]
+            },
+            {
+                  "name": "River Antoine Rum Distillery",
+                  "text": "Die River Antoine Rum Distillery ist eine Sehenswürdigkeit in Tivoli.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.608178,
+                        12.175881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Belmont Estate",
+                  "text": "A Belmont Estate egy múzeum Tivoliban.",
+                  "category": "museum",
+                  "coords": [
+                        -61.626927,
+                        12.174567
+                  ]
+            },
+            {
+                  "name": "Grenada Chocolate Factory",
+                  "text": "A Grenada Chocolate Factory egy múzeum és csokoládégyár Tivoliban.",
+                  "category": "museum",
+                  "coords": [
+                        -61.638087,
+                        12.175445
+                  ]
+            },
+            {
+                  "name": "Conference Bay",
+                  "text": "A Conference Bay egy tengerparti öböl Tivoliban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.604307,
+                        12.161293
+                  ]
+            },
+            {
+                  "name": "Pearls Airport",
+                  "text": "A Pearls Airport egy látványosság Tivoliban, Grenada első repülőtere.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.616844,
+                        12.143678
+                  ]
+            },
+            {
+                  "name": "River Antoine Rum Distillery",
+                  "text": "A River Antoine Rum Distillery egy látványosság Tivoliban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.608178,
+                        12.175881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Belmont Estate",
+                  "text": "Belmont Estate este un muzeu situat în Tivoli.",
+                  "category": "museum",
+                  "coords": [
+                        -61.626927,
+                        12.174567
+                  ]
+            },
+            {
+                  "name": "Grenada Chocolate Factory",
+                  "text": "Grenada Chocolate Factory este un muzeu din Tivoli.",
+                  "category": "museum",
+                  "coords": [
+                        -61.638087,
+                        12.175445
+                  ]
+            },
+            {
+                  "name": "Conference Bay",
+                  "text": "Conference Bay este un golf situat în Tivoli.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.604307,
+                        12.161293
+                  ]
+            },
+            {
+                  "name": "Pearls Airport",
+                  "text": "Pearls Airport este o atracție din Tivoli, cunoscut ca primul aeroport din Grenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.616844,
+                        12.143678
+                  ]
+            },
+            {
+                  "name": "River Antoine Rum Distillery",
+                  "text": "River Antoine Rum Distillery este o atracție situată în Tivoli.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.608178,
+                        12.175881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Belmont Estate",
+                  "text": "Belmont Estate is a museum and agricultural estate located in Tivoli.",
+                  "category": "museum",
+                  "coords": [
+                        -61.626927,
+                        12.174567
+                  ]
+            },
+            {
+                  "name": "Grenada Chocolate Factory",
+                  "text": "The Grenada Chocolate Factory is a museum and production site in Tivoli.",
+                  "category": "museum",
+                  "coords": [
+                        -61.638087,
+                        12.175445
+                  ]
+            },
+            {
+                  "name": "Conference Bay",
+                  "text": "Conference Bay is a coastal bay situated in Tivoli.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.604307,
+                        12.161293
+                  ]
+            },
+            {
+                  "name": "Pearls Airport",
+                  "text": "Pearls Airport is an attraction in Tivoli, known as the first airport in Grenada.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.616844,
+                        12.143678
+                  ]
+            },
+            {
+                  "name": "River Antoine Rum Distillery",
+                  "text": "The River Antoine Rum Distillery is an attraction located in Tivoli.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.608178,
+                        12.175881
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "village",
     name: { de: "Tivoli", hu: "Tivoli", ro: "Tivoli", en: "Tivoli" },

@@ -3,7 +3,268 @@ import { POI } from './poi';
 export const liberiaCitiesV2: POI[] = [
 
   {
-    id: "liberia-monrovia-cities-v2",
+    id: "liberia-monrovia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Museum of Liberia",
+                  "text": "Nationalmuseum für liberianische Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        -10.803939,
+                        6.316847
+                  ]
+            },
+            {
+                  "name": "Powr Plant Beach",
+                  "text": "Küstenabschnitt für Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.809748,
+                        6.325786
+                  ]
+            },
+            {
+                  "name": "Cotton Tree",
+                  "text": "Aussichtspunkt bei einem historischen Baum.",
+                  "category": "natural",
+                  "coords": [
+                        -10.807505,
+                        6.323778
+                  ]
+            },
+            {
+                  "name": "City Town Hall",
+                  "text": "Städtisches Gebäude für öffentliche Veranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.793506,
+                        6.295322
+                  ]
+            },
+            {
+                  "name": "Episcopal Church",
+                  "text": "Historisches Gotteshaus in Monrovia.",
+                  "category": "religious",
+                  "coords": [
+                        -10.809096,
+                        6.317687
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral Church",
+                  "text": "Diese Kathedrale ist eine bedeutende christliche Kirche in Monrovia.",
+                  "category": "religious",
+                  "coords": [
+                        -10.810208,
+                        6.319097
+                  ]
+            },
+            {
+                  "name": "Gabriel Johnson Tucker Bridge",
+                  "text": "Diese Brücke ist ein markantes Bauwerk in Monrovia.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.801929,
+                        6.320027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Museum of Liberia",
+                  "text": "Nemzeti múzeum a libériai történelemről és kultúráról.",
+                  "category": "museum",
+                  "coords": [
+                        -10.803939,
+                        6.316847
+                  ]
+            },
+            {
+                  "name": "Powr Plant Beach",
+                  "text": "Tengerparti szakasz kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.809748,
+                        6.325786
+                  ]
+            },
+            {
+                  "name": "Cotton Tree",
+                  "text": "Kilátópont egy történelmi fánál.",
+                  "category": "natural",
+                  "coords": [
+                        -10.807505,
+                        6.323778
+                  ]
+            },
+            {
+                  "name": "City Town Hall",
+                  "text": "Városi épület nyilvános rendezvényekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.793506,
+                        6.295322
+                  ]
+            },
+            {
+                  "name": "Episcopal Church",
+                  "text": "Történelmi templom Monroviában.",
+                  "category": "religious",
+                  "coords": [
+                        -10.809096,
+                        6.317687
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral Church",
+                  "text": "Ez a székesegyház Monrovia jelentős keresztény temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -10.810208,
+                        6.319097
+                  ]
+            },
+            {
+                  "name": "Gabriel Johnson Tucker Bridge",
+                  "text": "Ez a híd Monrovia egyik jellegzetes építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.801929,
+                        6.320027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Museum of Liberia",
+                  "text": "Muzeul național al istoriei și culturii liberiene.",
+                  "category": "museum",
+                  "coords": [
+                        -10.803939,
+                        6.316847
+                  ]
+            },
+            {
+                  "name": "Powr Plant Beach",
+                  "text": "Porțiune de coastă pentru recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.809748,
+                        6.325786
+                  ]
+            },
+            {
+                  "name": "Cotton Tree",
+                  "text": "Punct de observație lângă un copac istoric.",
+                  "category": "natural",
+                  "coords": [
+                        -10.807505,
+                        6.323778
+                  ]
+            },
+            {
+                  "name": "City Town Hall",
+                  "text": "Clădire municipală pentru evenimente publice.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.793506,
+                        6.295322
+                  ]
+            },
+            {
+                  "name": "Episcopal Church",
+                  "text": "Lăcaș de cult istoric în Monrovia.",
+                  "category": "religious",
+                  "coords": [
+                        -10.809096,
+                        6.317687
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral Church",
+                  "text": "Această catedrală este o biserică creștină importantă din Monrovia.",
+                  "category": "religious",
+                  "coords": [
+                        -10.810208,
+                        6.319097
+                  ]
+            },
+            {
+                  "name": "Gabriel Johnson Tucker Bridge",
+                  "text": "Acest pod este o structură distinctivă în Monrovia.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.801929,
+                        6.320027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Liberia",
+                  "text": "National museum of Liberian history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -10.803939,
+                        6.316847
+                  ]
+            },
+            {
+                  "name": "Powr Plant Beach",
+                  "text": "Stretch of coastline for recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.809748,
+                        6.325786
+                  ]
+            },
+            {
+                  "name": "Cotton Tree",
+                  "text": "Viewpoint near a historic tree.",
+                  "category": "natural",
+                  "coords": [
+                        -10.807505,
+                        6.323778
+                  ]
+            },
+            {
+                  "name": "City Town Hall",
+                  "text": "Municipal building for public events.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.793506,
+                        6.295322
+                  ]
+            },
+            {
+                  "name": "Episcopal Church",
+                  "text": "Historic place of worship in Monrovia.",
+                  "category": "religious",
+                  "coords": [
+                        -10.809096,
+                        6.317687
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral Church",
+                  "text": "This cathedral is a major Christian church in Monrovia.",
+                  "category": "religious",
+                  "coords": [
+                        -10.810208,
+                        6.319097
+                  ]
+            },
+            {
+                  "name": "Gabriel Johnson Tucker Bridge",
+                  "text": "This bridge is a distinctive structure in Monrovia.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.801929,
+                        6.320027
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "capital",
     name: { de: "Monrovia", hu: "Monrovia", ro: "Monrovia", en: "Monrovia" },
@@ -48,7 +309,124 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-monrovia-cities-v2.webp",
   },
   {
-    id: "liberia-gbanga-cities-v2",
+    id: "liberia-gbanga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "Das Millennium Sport Center ist ein lokales Theater und ein Veranstaltungsort in Gbarnga.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Sam Arts Production Center",
+                  "text": "Das Sam Arts Production Center ist eine Kunstgalerie in Gbarnga.",
+                  "category": "museum",
+                  "coords": [
+                        -9.479313,
+                        7.009788
+                  ]
+            },
+            {
+                  "name": "Bong Photo Star",
+                  "text": "Bong Photo Star ist eine Galerie in der Stadt Gbarnga.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "A Millennium Sport Center egy helyi színház és rendezvényközpont Gbarnga városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Sam Arts Production Center",
+                  "text": "A Sam Arts Production Center egy művészeti galéria Gbarnga területén.",
+                  "category": "museum",
+                  "coords": [
+                        -9.479313,
+                        7.009788
+                  ]
+            },
+            {
+                  "name": "Bong Photo Star",
+                  "text": "A Bong Photo Star egy galéria Gbarnga városában.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "Millennium Sport Center este un teatru și un loc de evenimente local din Gbarnga.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Sam Arts Production Center",
+                  "text": "Sam Arts Production Center este o galerie de artă situată în Gbarnga.",
+                  "category": "museum",
+                  "coords": [
+                        -9.479313,
+                        7.009788
+                  ]
+            },
+            {
+                  "name": "Bong Photo Star",
+                  "text": "Bong Photo Star este o galerie situată în orașul Gbarnga.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Millennium Sport Center",
+                  "text": "Millennium Sport Center is a local theatre and event venue in Gbarnga.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.462269,
+                        6.994821
+                  ]
+            },
+            {
+                  "name": "Sam Arts Production Center",
+                  "text": "Sam Arts Production Center is an art gallery situated in Gbarnga.",
+                  "category": "museum",
+                  "coords": [
+                        -9.479313,
+                        7.009788
+                  ]
+            },
+            {
+                  "name": "Bong Photo Star",
+                  "text": "Bong Photo Star is a gallery located in the city of Gbarnga.",
+                  "category": "museum",
+                  "coords": [
+                        -9.471331,
+                        6.998983
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "city",
     name: { de: "Gbarnga", hu: "Gbarnga", ro: "Gbarnga", en: "Gbarnga" },
@@ -183,7 +561,88 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-kakata-cities-v2.webp",
   },
   {
-    id: "liberia-zwedru-cities-v2",
+    id: "liberia-zwedru-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Sehenswürdigkeit in Zwedru.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Aussichtspunkt in Zwedru.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Látnivaló Zwedru-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Kilátópont Zwedru-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Atracție în Zwedru.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Punct de belvedere în Zwedru.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samuel Doe's House",
+                  "text": "Attraction in Zwedru.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.134398,
+                        6.080109
+                  ]
+            },
+            {
+                  "name": "Zwedru Stadium View Point",
+                  "text": "Viewpoint in Zwedru.",
+                  "category": "natural",
+                  "coords": [
+                        -8.135923,
+                        6.057331
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "city",
     name: { de: "Zwedru", hu: "Zwedru", ro: "Zwedru", en: "Zwedru" },
@@ -228,7 +687,52 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-zwedru-cities-v2.webp",
   },
   {
-    id: "liberia-harper-cities-v2",
+    id: "liberia-harper-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Harper Video Club",
+                  "text": "Der Harper Video Club wird als Theater in Harper betrieben.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.718836,
+                        4.373812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Harper Video Club",
+                  "text": "A Harper Video Club színházként működik Harper városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.718836,
+                        4.373812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Harper Video Club",
+                  "text": "Harper Video Club funcționează ca teatru în Harper.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.718836,
+                        4.373812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harper Video Club",
+                  "text": "Harper Video Club operates as a local theatre in Harper.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.718836,
+                        4.373812
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "city",
     name: { de: "Harper", hu: "Harper", ro: "Harper", en: "Harper" },
@@ -273,7 +777,52 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-harper-cities-v2.webp",
   },
   {
-    id: "liberia-voinjama-cities-v2",
+    id: "liberia-voinjama-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "Pakistan Point ist ein anerkanntes Denkmal in Voinjama.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "A Pakistan Point egy elismert emlékmű Voinjama városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "Pakistan Point este un monument recunoscut situat în Voinjama.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pakistan Point",
+                  "text": "Pakistan Point is a recognized monument situated in Voinjama.",
+                  "category": "historical",
+                  "coords": [
+                        -9.753228,
+                        8.428063
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "city",
     name: { de: "Voinjama", hu: "Voinjama", ro: "Voinjama", en: "Voinjama" },
@@ -993,7 +1542,52 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-totota-cities-v2.webp",
   },
   {
-    id: "liberia-paynesville-cities-v2",
+    id: "liberia-paynesville-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "SKD",
+                  "text": "Wohngebäude in Paynesville.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.701219,
+                        6.259205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "SKD",
+                  "text": "Lakóépület Paynesville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.701219,
+                        6.259205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "SKD",
+                  "text": "Clădire rezidențială în Paynesville.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.701219,
+                        6.259205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "SKD",
+                  "text": "Apartment in Paynesville.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.701219,
+                        6.259205
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "city",
     name: { de: "Paynesville", hu: "Paynesville", ro: "Paynesville", en: "Paynesville" },
@@ -1713,7 +2307,52 @@ export const liberiaCitiesV2: POI[] = [
     image: "/poi-images/liberia-bensonville-cities-v2.webp",
   },
   {
-    id: "liberia-grand-cess-cities-v2",
+    id: "liberia-grand-cess-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "BARCLAYVILLE CITY CENTER",
+                  "text": "Das BARCLAYVILLE CITY CENTER ist eine Attraktion in Grand Cess.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.233082,
+                        4.679731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BARCLAYVILLE CITY CENTER",
+                  "text": "A BARCLAYVILLE CITY CENTER egy látványosság Grand Cess területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.233082,
+                        4.679731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BARCLAYVILLE CITY CENTER",
+                  "text": "BARCLAYVILLE CITY CENTER este o atracție situată în Grand Cess.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.233082,
+                        4.679731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BARCLAYVILLE CITY CENTER",
+                  "text": "BARCLAYVILLE CITY CENTER is an attraction situated in Grand Cess.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.233082,
+                        4.679731
+                  ]
+            }
+      ]
+},
     parent: "LR",
     type: "town",
     name: { de: "Grand Cess", hu: "Grand Cess", ro: "Grand Cess", en: "Grand Cess" },

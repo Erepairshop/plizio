@@ -642,7 +642,1384 @@ export const polandHistoryV2: POI[] = [
       fr: ["Fondé en 1382 par des moines paulins", "Principal lieu de pèlerinage en Pologne", "Abrite l'icône de la Vierge Noire de Częstochowa", "L'icône est vénérée comme \"Reine de Pologne\"", "Le monastère a résisté avec succès à un siège suédois en 1655", "Le clocher mesure 106,3 mètres, l'un des plus hauts de Pologne", "La basilique du monastère est un chef-d'œuvre de l'architecture baroque", "Le pape Jean-Paul II a visité le sanctuaire à plusieurs reprises", "Visité annuellement par 3 à 4 millions de pèlerins", "L'arsenal du monastère présente une collection d'armes anciennes", "Le nom \"Jasna Góra\" signifie \"Mont Clair\" en polonais", "Les murs de la chapelle sont couverts d'ex-voto"],
     }, image: "/poi-images/poland-jasna-gora-monastery-history-v2.webp"},
   {
-    id: "poland-zamosc-old-town-history-v2",
+    id: "poland-zamosc-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Zamojskie",
+                  "text": "Das Museum von Zamość präsentiert die reiche regionale Geschichte und Kultur in der Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        23.253079,
+                        50.717625
+                  ]
+            },
+            {
+                  "name": "Muzeum Sakralne Katedry Zamojskiej",
+                  "text": "Dieses Museum in der Altstadt von Zamość zeigt eine Sammlung sakraler Kunst, die mit der örtlichen Kathedrale verbunden ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.250506,
+                        50.716138
+                  ]
+            },
+            {
+                  "name": "Pałac Zamoyskich",
+                  "text": "Der Zamoyski-Palast ist eine markante historische Residenz in der Altstadt von Zamość.",
+                  "category": "castle",
+                  "coords": [
+                        23.248787,
+                        50.717646
+                  ]
+            },
+            {
+                  "name": "Stara Brama Lubelska",
+                  "text": "Das Alte Lubliner Tor ist ein historisches Tor in den Befestigungsanlagen der Altstadt von Zamość.",
+                  "category": "castle",
+                  "coords": [
+                        23.250234,
+                        50.718753
+                  ]
+            },
+            {
+                  "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
+                  "text": "Die Rotunde von Zamość ist ein Museum, das an das Martyrium und die Opfer der Region Zamość erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        23.247223,
+                        50.710777
+                  ]
+            },
+            {
+                  "name": "Orkiestra Symfoniczna im. Karola Namysłowskiego",
+                  "text": "Diese Einrichtung beherbergt das Karol-Namysłowski-Sinfonieorchester in der Altstadt von Zamość.",
+                  "category": "cultural",
+                  "coords": [
+                        23.25554,
+                        50.715553
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Die St.-Nikolaus-Kirche ist ein historisches Gotteshaus in der Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.253909,
+                        50.715029
+                  ]
+            },
+            {
+                  "name": "Zbór Kościoła Ewangelicznych Chrześcijan",
+                  "text": "Dies ist eine Gemeinde der Evangelischen Christlichen Kirche in der Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.229931,
+                        50.716826
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "Die Kirche des Heiligen Erzengels Michael ist ein historisches Gebäude in der Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.251961,
+                        50.732336
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny",
+                  "text": "Die St.-Katharinen-Kirche ist eine historische Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.252528,
+                        50.71896
+                  ]
+            },
+            {
+                  "name": "Synagoga",
+                  "text": "Die Synagoge ist ein bemerkenswertes historisches Wahrzeichen und eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.254167,
+                        50.717991
+                  ]
+            },
+            {
+                  "name": "Dawny kościół i klasztor Klarysek",
+                  "text": "Das ehemalige Kloster und die Kirche der Klarissen ist eine historische Stätte in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.252393,
+                        50.715569
+                  ]
+            },
+            {
+                  "name": "Brama Szczebrzeska",
+                  "text": "Das Szczebrzeszyn-Tor ist ein historischer Teil der Befestigungsanlagen in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.24913,
+                        50.716125
+                  ]
+            },
+            {
+                  "name": "Nowa Brama Lubelska",
+                  "text": "Das Neue Lubliner Tor ist ein historisches Stadttor und eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.254199,
+                        50.71905
+                  ]
+            },
+            {
+                  "name": "Ogród Zoologiczny w Zamościu",
+                  "text": "Ogród Zoologiczny w Zamościu ist ein bekannter zoologischer Garten in der Altstadt von Zamość.",
+                  "category": "recreational",
+                  "coords": [
+                        23.237887,
+                        50.716839
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "Kościół pw. Matki Bożej Królowej Polski ist eine Kultstätte in der Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.269691,
+                        50.716834
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "Kościół pw. Świętego Krzyża ist eine Kultstätte in der Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.273432,
+                        50.709816
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Kościół pw. Miłosierdzia Bożego ist eine Kultstätte in der Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.283631,
+                        50.712916
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Brata Alberta",
+                  "text": "Kościół pw. Świętego Brata Alberta ist eine Kultstätte in der Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.259624,
+                        50.737727
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Bożej Opatrzności",
+                  "text": "Kościół pw. Świętej Bożej Opatrzności ist eine Kultstätte in der Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.221877,
+                        50.720439
+                  ]
+            },
+            {
+                  "name": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego",
+                  "text": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego ist ein Museum in der Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.258085,
+                        50.717131
+                  ]
+            },
+            {
+                  "name": "Muzeum 3 Dywizji Piechoty Legionów w Zamościu",
+                  "text": "Muzeum 3 Dywizji Piechoty Legionów w Zamościu ist ein Museum in der Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.252076,
+                        50.728933
+                  ]
+            },
+            {
+                  "name": "Muzeum Fortyfikacji i Broni ARSENAŁ",
+                  "text": "Muzeum Fortyfikacji i Broni ARSENAŁ ist ein Museum in der Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.247524,
+                        50.716638
+                  ]
+            },
+            {
+                  "name": "Muzeum Sakralne Katedry Zamojskiej - Zamość Skarbiec Historii, Sztuki i Nauki",
+                  "text": "Muzeum Sakralne Katedry Zamojskiej - Zamość Skarbiec Historii, Sztuki i Nauki ist ein Museum in der Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.250984,
+                        50.717136
+                  ]
+            },
+            {
+                  "name": "Roztoczańskie Muzeum PRL",
+                  "text": "Roztoczańskie Muzeum PRL ist ein Museum in der Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.269309,
+                        50.707081
+                  ]
+            },
+            {
+                  "name": "Galeria Staszica 13",
+                  "text": "Galeria Staszica 13 ist eine Galerie in der Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.253321,
+                        50.71638
+                  ]
+            },
+            {
+                  "name": "Wzgórze \"Zamczysko\"",
+                  "text": "Wzgórze \"Zamczysko\" ist eine archäologische Stätte in der Altstadt von Zamość.",
+                  "category": "historical",
+                  "coords": [
+                        23.247366,
+                        50.702494
+                  ]
+            },
+            {
+                  "name": "Świetlica wiejska w Skokówce",
+                  "text": "Świetlica wiejska w Skokówce ist ein Kunstzentrum in der Altstadt von Zamość.",
+                  "category": "cultural",
+                  "coords": [
+                        23.23893,
+                        50.692181
+                  ]
+            },
+            {
+                  "name": "Zamojski Dom Kultury",
+                  "text": "Zamojski Dom Kultury ist ein Kunstzentrum in der Altstadt von Zamość.",
+                  "category": "cultural",
+                  "coords": [
+                        23.264711,
+                        50.71373
+                  ]
+            },
+            {
+                  "name": "Bastion III",
+                  "text": "Bastion III ist eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.246076,
+                        50.716474
+                  ]
+            },
+            {
+                  "name": "Bastion IV",
+                  "text": "Bastion IV ist eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.248025,
+                        50.719394
+                  ]
+            },
+            {
+                  "name": "Bastion VI",
+                  "text": "Bastion VI ist eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.256055,
+                        50.719242
+                  ]
+            },
+            {
+                  "name": "Zimowisko i woliera dla ptaków wodnych",
+                  "text": "Zimowisko i woliera dla ptaków wodnych ist eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240266,
+                        50.716223
+                  ]
+            },
+            {
+                  "name": "Woliery sów",
+                  "text": "Woliery sów ist eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240563,
+                        50.714989
+                  ]
+            },
+            {
+                  "name": "Pawilon z wolierami dla ptaków grzebiących",
+                  "text": "Pawilon z wolierami dla ptaków grzebiących ist eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240811,
+                        50.717455
+                  ]
+            },
+            {
+                  "name": "Stajnia i wybieg dla wielbłąda",
+                  "text": "Stajnia i wybieg dla wielbłąda ist eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.238785,
+                        50.717812
+                  ]
+            },
+            {
+                  "name": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki",
+                  "text": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki ist eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.236829,
+                        50.715665
+                  ]
+            },
+            {
+                  "name": "Stajnia i wybieg dla antylop",
+                  "text": "Stajnia i wybieg dla antylop ist eine Attraktion in der Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.238983,
+                        50.716166
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Zamojskie",
+                  "text": "A Zamośći Múzeum a gazdag regionális történelmet és kultúrát mutatja be az óvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        23.253079,
+                        50.717625
+                  ]
+            },
+            {
+                  "name": "Muzeum Sakralne Katedry Zamojskiej",
+                  "text": "Ez a múzeum Zamość óvárosában a helyi katedrálishoz kapcsolódó szakrális művészeti gyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        23.250506,
+                        50.716138
+                  ]
+            },
+            {
+                  "name": "Pałac Zamoyskich",
+                  "text": "A Zamoyski-palota egy kiemelkedő történelmi rezidencia Zamość óvárosában.",
+                  "category": "castle",
+                  "coords": [
+                        23.248787,
+                        50.717646
+                  ]
+            },
+            {
+                  "name": "Stara Brama Lubelska",
+                  "text": "A Régi Lublini-kapu egy történelmi kapu Zamość óvárosának erődítményeiben.",
+                  "category": "castle",
+                  "coords": [
+                        23.250234,
+                        50.718753
+                  ]
+            },
+            {
+                  "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
+                  "text": "A Zamośći Rotunda a zamośći régió mártírjainak és áldozatainak emléket állító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.247223,
+                        50.710777
+                  ]
+            },
+            {
+                  "name": "Orkiestra Symfoniczna im. Karola Namysłowskiego",
+                  "text": "Ez az intézmény ad otthont a Karol Namysłowski Szimfonikus Zenekarnak Zamość óvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        23.25554,
+                        50.715553
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "A Szent Miklós-templom egy történelmi istentiszteleti hely Zamość óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        23.253909,
+                        50.715029
+                  ]
+            },
+            {
+                  "name": "Zbór Kościoła Ewangelicznych Chrześcijan",
+                  "text": "Ez az Evangéliumi Keresztény Egyház egy gyülekezete Zamość óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        23.229931,
+                        50.716826
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "Szent Mihály arkangyal temploma egy történelmi épület Zamość óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        23.251961,
+                        50.732336
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny",
+                  "text": "A Szent Katalin-templom egy történelmi látványosság Zamość óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.252528,
+                        50.71896
+                  ]
+            },
+            {
+                  "name": "Synagoga",
+                  "text": "A Zsinagóga egy figyelemre méltó történelmi nevezetesség és látványosság Zamość óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.254167,
+                        50.717991
+                  ]
+            },
+            {
+                  "name": "Dawny kościół i klasztor Klarysek",
+                  "text": "Az egykori klarissza nővérek kolostora és temploma egy történelmi emlékhely Zamość óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.252393,
+                        50.715569
+                  ]
+            },
+            {
+                  "name": "Brama Szczebrzeska",
+                  "text": "A Szczebrzeszyn-kapu a zamośći óváros erődítményeinek egyik történelmi része.",
+                  "category": "landmark",
+                  "coords": [
+                        23.24913,
+                        50.716125
+                  ]
+            },
+            {
+                  "name": "Nowa Brama Lubelska",
+                  "text": "Az Új Lublini-kapu egy történelmi városkapu és látványosság Zamość óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.254199,
+                        50.71905
+                  ]
+            },
+            {
+                  "name": "Ogród Zoologiczny w Zamościu",
+                  "text": "Az Ogród Zoologiczny w Zamościu egy ismert állatkert az Altstadt von Zamość területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.237887,
+                        50.716839
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "A Kościół pw. Matki Bożej Królowej Polski egy istentiszteleti hely az Altstadt von Zamość területén.",
+                  "category": "religious",
+                  "coords": [
+                        23.269691,
+                        50.716834
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "A Kościół pw. Świętego Krzyża egy istentiszteleti hely az Altstadt von Zamość területén.",
+                  "category": "religious",
+                  "coords": [
+                        23.273432,
+                        50.709816
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "A Kościół pw. Miłosierdzia Bożego egy istentiszteleti hely az Altstadt von Zamość területén.",
+                  "category": "religious",
+                  "coords": [
+                        23.283631,
+                        50.712916
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Brata Alberta",
+                  "text": "A Kościół pw. Świętego Brata Alberta egy istentiszteleti hely az Altstadt von Zamość területén.",
+                  "category": "religious",
+                  "coords": [
+                        23.259624,
+                        50.737727
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Bożej Opatrzności",
+                  "text": "A Kościół pw. Świętej Bożej Opatrzności egy istentiszteleti hely az Altstadt von Zamość területén.",
+                  "category": "religious",
+                  "coords": [
+                        23.221877,
+                        50.720439
+                  ]
+            },
+            {
+                  "name": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego",
+                  "text": "A Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego egy múzeum az Altstadt von Zamość területén.",
+                  "category": "museum",
+                  "coords": [
+                        23.258085,
+                        50.717131
+                  ]
+            },
+            {
+                  "name": "Muzeum 3 Dywizji Piechoty Legionów w Zamościu",
+                  "text": "A Muzeum 3 Dywizji Piechoty Legionów w Zamościu egy múzeum az Altstadt von Zamość területén.",
+                  "category": "museum",
+                  "coords": [
+                        23.252076,
+                        50.728933
+                  ]
+            },
+            {
+                  "name": "Muzeum Fortyfikacji i Broni ARSENAŁ",
+                  "text": "A Muzeum Fortyfikacji i Broni ARSENAŁ egy múzeum az Altstadt von Zamość területén.",
+                  "category": "museum",
+                  "coords": [
+                        23.247524,
+                        50.716638
+                  ]
+            },
+            {
+                  "name": "Muzeum Sakralne Katedry Zamojskiej - Zamość Skarbiec Historii, Sztuki i Nauki",
+                  "text": "A Muzeum Sakralne Katedry Zamojskiej - Zamość Skarbiec Historii, Sztuki i Nauki egy múzeum az Altstadt von Zamość területén.",
+                  "category": "museum",
+                  "coords": [
+                        23.250984,
+                        50.717136
+                  ]
+            },
+            {
+                  "name": "Roztoczańskie Muzeum PRL",
+                  "text": "A Roztoczańskie Muzeum PRL egy múzeum az Altstadt von Zamość területén.",
+                  "category": "museum",
+                  "coords": [
+                        23.269309,
+                        50.707081
+                  ]
+            },
+            {
+                  "name": "Galeria Staszica 13",
+                  "text": "A Galeria Staszica 13 egy galéria az Altstadt von Zamość területén.",
+                  "category": "museum",
+                  "coords": [
+                        23.253321,
+                        50.71638
+                  ]
+            },
+            {
+                  "name": "Wzgórze \"Zamczysko\"",
+                  "text": "A Wzgórze \"Zamczysko\" egy régészeti lelőhely az Altstadt von Zamość területén.",
+                  "category": "historical",
+                  "coords": [
+                        23.247366,
+                        50.702494
+                  ]
+            },
+            {
+                  "name": "Świetlica wiejska w Skokówce",
+                  "text": "A Świetlica wiejska w Skokówce egy művészeti központ az Altstadt von Zamość területén.",
+                  "category": "cultural",
+                  "coords": [
+                        23.23893,
+                        50.692181
+                  ]
+            },
+            {
+                  "name": "Zamojski Dom Kultury",
+                  "text": "A Zamojski Dom Kultury egy művészeti központ az Altstadt von Zamość területén.",
+                  "category": "cultural",
+                  "coords": [
+                        23.264711,
+                        50.71373
+                  ]
+            },
+            {
+                  "name": "Bastion III",
+                  "text": "A Bastion III egy látványosság az Altstadt von Zamość területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.246076,
+                        50.716474
+                  ]
+            },
+            {
+                  "name": "Bastion IV",
+                  "text": "A Bastion IV egy látványosság az Altstadt von Zamość területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.248025,
+                        50.719394
+                  ]
+            },
+            {
+                  "name": "Bastion VI",
+                  "text": "A Bastion VI egy látványosság az Altstadt von Zamość területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.256055,
+                        50.719242
+                  ]
+            },
+            {
+                  "name": "Zimowisko i woliera dla ptaków wodnych",
+                  "text": "A Zimowisko i woliera dla ptaków wodnych egy látványosság az Altstadt von Zamość területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240266,
+                        50.716223
+                  ]
+            },
+            {
+                  "name": "Woliery sów",
+                  "text": "A Woliery sów egy látványosság az Altstadt von Zamość területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240563,
+                        50.714989
+                  ]
+            },
+            {
+                  "name": "Pawilon z wolierami dla ptaków grzebiących",
+                  "text": "A Pawilon z wolierami dla ptaków grzebiących egy látványosság az Altstadt von Zamość területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240811,
+                        50.717455
+                  ]
+            },
+            {
+                  "name": "Stajnia i wybieg dla wielbłąda",
+                  "text": "A Stajnia i wybieg dla wielbłąda egy látványosság az Altstadt von Zamość területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.238785,
+                        50.717812
+                  ]
+            },
+            {
+                  "name": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki",
+                  "text": "A Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki egy látványosság az Altstadt von Zamość területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.236829,
+                        50.715665
+                  ]
+            },
+            {
+                  "name": "Stajnia i wybieg dla antylop",
+                  "text": "A Stajnia i wybieg dla antylop egy látványosság az Altstadt von Zamość területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.238983,
+                        50.716166
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Zamojskie",
+                  "text": "Muzeul din Zamość prezintă bogata istorie și cultură regională în Orașul Vechi.",
+                  "category": "museum",
+                  "coords": [
+                        23.253079,
+                        50.717625
+                  ]
+            },
+            {
+                  "name": "Muzeum Sakralne Katedry Zamojskiej",
+                  "text": "Acest muzeu din centrul vechi al orașului Zamość expune o colecție de artă sacră legată de catedrala locală.",
+                  "category": "museum",
+                  "coords": [
+                        23.250506,
+                        50.716138
+                  ]
+            },
+            {
+                  "name": "Pałac Zamoyskich",
+                  "text": "Palatul Zamoyski este o reședință istorică proeminentă situată în orașul vechi din Zamość.",
+                  "category": "castle",
+                  "coords": [
+                        23.248787,
+                        50.717646
+                  ]
+            },
+            {
+                  "name": "Stara Brama Lubelska",
+                  "text": "Vechea Poartă a Lublinului este o poartă istorică din fortificațiile orașului vechi din Zamość.",
+                  "category": "castle",
+                  "coords": [
+                        23.250234,
+                        50.718753
+                  ]
+            },
+            {
+                  "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
+                  "text": "Rotonda Zamość este un muzeu care comemorează martiriul și victimele regiunii Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.247223,
+                        50.710777
+                  ]
+            },
+            {
+                  "name": "Orkiestra Symfoniczna im. Karola Namysłowskiego",
+                  "text": "Această instituție găzduiește Orchestra Simfonică Karol Namysłowski din Orașul Vechi al orașului Zamość.",
+                  "category": "cultural",
+                  "coords": [
+                        23.25554,
+                        50.715553
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Mikołaja",
+                  "text": "Biserica Sfântul Nicolae este un lăcaș de cult istoric din Orașul Vechi din Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.253909,
+                        50.715029
+                  ]
+            },
+            {
+                  "name": "Zbór Kościoła Ewangelicznych Chrześcijan",
+                  "text": "Aceasta este o congregație a Bisericii Creștine Evanghelice situată în Orașul Vechi din Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.229931,
+                        50.716826
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "Biserica Sfântul Arhanghel Mihail este o clădire istorică din centrul vechi al orașului Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.251961,
+                        50.732336
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny",
+                  "text": "Biserica Sfânta Ecaterina este o atracție istorică situată în Orașul Vechi din Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.252528,
+                        50.71896
+                  ]
+            },
+            {
+                  "name": "Synagoga",
+                  "text": "Sinagoga este un punct de reper istoric notabil și o atracție în Orașul Vechi din Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.254167,
+                        50.717991
+                  ]
+            },
+            {
+                  "name": "Dawny kościół i klasztor Klarysek",
+                  "text": "Fosta mănăstire și biserică a surorilor Sfânta Clara este un sit istoric în Orașul Vechi din Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.252393,
+                        50.715569
+                  ]
+            },
+            {
+                  "name": "Brama Szczebrzeska",
+                  "text": "Poarta Szczebrzeszyn este o parte istorică a fortificațiilor din Orașul Vechi din Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.24913,
+                        50.716125
+                  ]
+            },
+            {
+                  "name": "Nowa Brama Lubelska",
+                  "text": "Noua Poartă a Lublinului este o poartă istorică a orașului și o atracție în Orașul Vechi din Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.254199,
+                        50.71905
+                  ]
+            },
+            {
+                  "name": "Ogród Zoologiczny w Zamościu",
+                  "text": "Ogród Zoologiczny w Zamościu este o grădină zoologică recunoscută situată în Altstadt von Zamość.",
+                  "category": "recreational",
+                  "coords": [
+                        23.237887,
+                        50.716839
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "Kościół pw. Matki Bożej Królowej Polski este un lăcaș de cult situat în Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.269691,
+                        50.716834
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "Kościół pw. Świętego Krzyża este un lăcaș de cult situat în Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.273432,
+                        50.709816
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Kościół pw. Miłosierdzia Bożego este un lăcaș de cult situat în Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.283631,
+                        50.712916
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Brata Alberta",
+                  "text": "Kościół pw. Świętego Brata Alberta este un lăcaș de cult situat în Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.259624,
+                        50.737727
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Bożej Opatrzności",
+                  "text": "Kościół pw. Świętej Bożej Opatrzności este un lăcaș de cult situat în Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.221877,
+                        50.720439
+                  ]
+            },
+            {
+                  "name": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego",
+                  "text": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego este un muzeu situat în Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.258085,
+                        50.717131
+                  ]
+            },
+            {
+                  "name": "Muzeum 3 Dywizji Piechoty Legionów w Zamościu",
+                  "text": "Muzeum 3 Dywizji Piechoty Legionów w Zamościu este un muzeu situat în Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.252076,
+                        50.728933
+                  ]
+            },
+            {
+                  "name": "Muzeum Fortyfikacji i Broni ARSENAŁ",
+                  "text": "Muzeum Fortyfikacji i Broni ARSENAŁ este un muzeu situat în Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.247524,
+                        50.716638
+                  ]
+            },
+            {
+                  "name": "Muzeum Sakralne Katedry Zamojskiej - Zamość Skarbiec Historii, Sztuki i Nauki",
+                  "text": "Muzeum Sakralne Katedry Zamojskiej - Zamość Skarbiec Historii, Sztuki i Nauki este un muzeu situat în Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.250984,
+                        50.717136
+                  ]
+            },
+            {
+                  "name": "Roztoczańskie Muzeum PRL",
+                  "text": "Roztoczańskie Muzeum PRL este un muzeu situat în Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.269309,
+                        50.707081
+                  ]
+            },
+            {
+                  "name": "Galeria Staszica 13",
+                  "text": "Galeria Staszica 13 este o galerie situată în Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.253321,
+                        50.71638
+                  ]
+            },
+            {
+                  "name": "Wzgórze \"Zamczysko\"",
+                  "text": "Wzgórze \"Zamczysko\" este un sit arheologic situat în Altstadt von Zamość.",
+                  "category": "historical",
+                  "coords": [
+                        23.247366,
+                        50.702494
+                  ]
+            },
+            {
+                  "name": "Świetlica wiejska w Skokówce",
+                  "text": "Świetlica wiejska w Skokówce este un centru de artă situat în Altstadt von Zamość.",
+                  "category": "cultural",
+                  "coords": [
+                        23.23893,
+                        50.692181
+                  ]
+            },
+            {
+                  "name": "Zamojski Dom Kultury",
+                  "text": "Zamojski Dom Kultury este un centru de artă situat în Altstadt von Zamość.",
+                  "category": "cultural",
+                  "coords": [
+                        23.264711,
+                        50.71373
+                  ]
+            },
+            {
+                  "name": "Bastion III",
+                  "text": "Bastion III este o atracție situată în Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.246076,
+                        50.716474
+                  ]
+            },
+            {
+                  "name": "Bastion IV",
+                  "text": "Bastion IV este o atracție situată în Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.248025,
+                        50.719394
+                  ]
+            },
+            {
+                  "name": "Bastion VI",
+                  "text": "Bastion VI este o atracție situată în Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.256055,
+                        50.719242
+                  ]
+            },
+            {
+                  "name": "Zimowisko i woliera dla ptaków wodnych",
+                  "text": "Zimowisko i woliera dla ptaków wodnych este o atracție situată în Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240266,
+                        50.716223
+                  ]
+            },
+            {
+                  "name": "Woliery sów",
+                  "text": "Woliery sów este o atracție situată în Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240563,
+                        50.714989
+                  ]
+            },
+            {
+                  "name": "Pawilon z wolierami dla ptaków grzebiących",
+                  "text": "Pawilon z wolierami dla ptaków grzebiących este o atracție situată în Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240811,
+                        50.717455
+                  ]
+            },
+            {
+                  "name": "Stajnia i wybieg dla wielbłąda",
+                  "text": "Stajnia i wybieg dla wielbłąda este o atracție situată în Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.238785,
+                        50.717812
+                  ]
+            },
+            {
+                  "name": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki",
+                  "text": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki este o atracție situată în Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.236829,
+                        50.715665
+                  ]
+            },
+            {
+                  "name": "Stajnia i wybieg dla antylop",
+                  "text": "Stajnia i wybieg dla antylop este o atracție situată în Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.238983,
+                        50.716166
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of Zamość",
+                  "text": "The Museum of Zamość showcases the rich regional history and culture in the Old Town.",
+                  "category": "museum",
+                  "coords": [
+                        23.253079,
+                        50.717625
+                  ]
+            },
+            {
+                  "name": "Muzeum Sakralne Katedry Zamojskiej",
+                  "text": "This museum in Zamość's Old Town displays a collection of sacred art linked to the local cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        23.250506,
+                        50.716138
+                  ]
+            },
+            {
+                  "name": "Zamoyski Palace",
+                  "text": "The Zamoyski Palace is a prominent historic residence located in the Old Town of Zamość.",
+                  "category": "castle",
+                  "coords": [
+                        23.248787,
+                        50.717646
+                  ]
+            },
+            {
+                  "name": "The Old Lublin Gate",
+                  "text": "The Old Lublin Gate is a historic gate in the fortifications of Zamość's Old Town.",
+                  "category": "castle",
+                  "coords": [
+                        23.250234,
+                        50.718753
+                  ]
+            },
+            {
+                  "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
+                  "text": "The Zamość Rotunda is a museum commemorating the martyrdom and victims of the Zamość region.",
+                  "category": "museum",
+                  "coords": [
+                        23.247223,
+                        50.710777
+                  ]
+            },
+            {
+                  "name": "Orkiestra Symfoniczna im. Karola Namysłowskiego",
+                  "text": "This institution hosts the Karol Namysłowski Symphony Orchestra in the Old Town of Zamość.",
+                  "category": "cultural",
+                  "coords": [
+                        23.25554,
+                        50.715553
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicolas",
+                  "text": "The Church of Saint Nicolas is a historic place of worship in the Old Town of Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.253909,
+                        50.715029
+                  ]
+            },
+            {
+                  "name": "Zbór Kościoła Ewangelicznych Chrześcijan",
+                  "text": "This is a congregation of the Evangelical Christian Church located in the Old Town of Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.229931,
+                        50.716826
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła",
+                  "text": "The Church of Saint Michael the Archangel is a historic building in the Old Town of Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.251961,
+                        50.732336
+                  ]
+            },
+            {
+                  "name": "The Church of St. Catherine",
+                  "text": "The Church of St. Catherine is a historic attraction located in the Old Town of Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.252528,
+                        50.71896
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "The Synagogue is a notable historic landmark and attraction in Zamość's Old Town.",
+                  "category": "landmark",
+                  "coords": [
+                        23.254167,
+                        50.717991
+                  ]
+            },
+            {
+                  "name": "Saint Clare Sisters’ convent and church",
+                  "text": "The former Saint Clare Sisters’ convent and church is a historic site in the Old Town of Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.252393,
+                        50.715569
+                  ]
+            },
+            {
+                  "name": "Szczebrzeszyn Gate",
+                  "text": "The Szczebrzeszyn Gate is a historic part of the fortifications in Zamość's Old Town.",
+                  "category": "landmark",
+                  "coords": [
+                        23.24913,
+                        50.716125
+                  ]
+            },
+            {
+                  "name": "The New Lublin Gate",
+                  "text": "The New Lublin Gate is a historic city gate and attraction in the Old Town of Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.254199,
+                        50.71905
+                  ]
+            },
+            {
+                  "name": "Ogród Zoologiczny w Zamościu",
+                  "text": "Ogród Zoologiczny w Zamościu is a recognized zoological garden located in Altstadt von Zamość.",
+                  "category": "recreational",
+                  "coords": [
+                        23.237887,
+                        50.716839
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "Kościół pw. Matki Bożej Królowej Polski is a place of worship located in Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.269691,
+                        50.716834
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "Kościół pw. Świętego Krzyża is a place of worship located in Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.273432,
+                        50.709816
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Kościół pw. Miłosierdzia Bożego is a place of worship located in Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.283631,
+                        50.712916
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Brata Alberta",
+                  "text": "Kościół pw. Świętego Brata Alberta is a place of worship located in Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.259624,
+                        50.737727
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Bożej Opatrzności",
+                  "text": "Kościół pw. Świętej Bożej Opatrzności is a place of worship located in Altstadt von Zamość.",
+                  "category": "religious",
+                  "coords": [
+                        23.221877,
+                        50.720439
+                  ]
+            },
+            {
+                  "name": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego",
+                  "text": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego is a museum located in Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.258085,
+                        50.717131
+                  ]
+            },
+            {
+                  "name": "Muzeum 3 Dywizji Piechoty Legionów w Zamościu",
+                  "text": "Muzeum 3 Dywizji Piechoty Legionów w Zamościu is a museum located in Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.252076,
+                        50.728933
+                  ]
+            },
+            {
+                  "name": "Muzeum Fortyfikacji i Broni ARSENAŁ",
+                  "text": "Muzeum Fortyfikacji i Broni ARSENAŁ is a museum located in Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.247524,
+                        50.716638
+                  ]
+            },
+            {
+                  "name": "Muzeum Sakralne Katedry Zamojskiej - Zamość Skarbiec Historii, Sztuki i Nauki",
+                  "text": "Muzeum Sakralne Katedry Zamojskiej - Zamość Skarbiec Historii, Sztuki i Nauki is a museum located in Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.250984,
+                        50.717136
+                  ]
+            },
+            {
+                  "name": "Roztoczańskie Muzeum PRL",
+                  "text": "Roztoczańskie Muzeum PRL is a museum located in Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.269309,
+                        50.707081
+                  ]
+            },
+            {
+                  "name": "Galeria Staszica 13",
+                  "text": "Galeria Staszica 13 is a gallery located in Altstadt von Zamość.",
+                  "category": "museum",
+                  "coords": [
+                        23.253321,
+                        50.71638
+                  ]
+            },
+            {
+                  "name": "Wzgórze \"Zamczysko\"",
+                  "text": "Wzgórze \"Zamczysko\" is an archaeological site located in Altstadt von Zamość.",
+                  "category": "historical",
+                  "coords": [
+                        23.247366,
+                        50.702494
+                  ]
+            },
+            {
+                  "name": "Świetlica wiejska w Skokówce",
+                  "text": "Świetlica wiejska w Skokówce is an arts centre located in Altstadt von Zamość.",
+                  "category": "cultural",
+                  "coords": [
+                        23.23893,
+                        50.692181
+                  ]
+            },
+            {
+                  "name": "Zamojski Dom Kultury",
+                  "text": "Zamojski Dom Kultury is an arts centre located in Altstadt von Zamość.",
+                  "category": "cultural",
+                  "coords": [
+                        23.264711,
+                        50.71373
+                  ]
+            },
+            {
+                  "name": "Bastion III",
+                  "text": "Bastion III is an attraction located in Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.246076,
+                        50.716474
+                  ]
+            },
+            {
+                  "name": "Bastion IV",
+                  "text": "Bastion IV is an attraction located in Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.248025,
+                        50.719394
+                  ]
+            },
+            {
+                  "name": "Bastion VI",
+                  "text": "Bastion VI is an attraction located in Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.256055,
+                        50.719242
+                  ]
+            },
+            {
+                  "name": "Zimowisko i woliera dla ptaków wodnych",
+                  "text": "Zimowisko i woliera dla ptaków wodnych is an attraction located in Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240266,
+                        50.716223
+                  ]
+            },
+            {
+                  "name": "Woliery sów",
+                  "text": "Woliery sów is an attraction located in Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240563,
+                        50.714989
+                  ]
+            },
+            {
+                  "name": "Pawilon z wolierami dla ptaków grzebiących",
+                  "text": "Pawilon z wolierami dla ptaków grzebiących is an attraction located in Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.240811,
+                        50.717455
+                  ]
+            },
+            {
+                  "name": "Stajnia i wybieg dla wielbłąda",
+                  "text": "Stajnia i wybieg dla wielbłąda is an attraction located in Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.238785,
+                        50.717812
+                  ]
+            },
+            {
+                  "name": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki",
+                  "text": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki is an attraction located in Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.236829,
+                        50.715665
+                  ]
+            },
+            {
+                  "name": "Stajnia i wybieg dla antylop",
+                  "text": "Stajnia i wybieg dla antylop is an attraction located in Altstadt von Zamość.",
+                  "category": "landmark",
+                  "coords": [
+                        23.238983,
+                        50.716166
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "town",
     name: { de: "Altstadt von Zamość", hu: "Zamość óvárosa", ro: "Orașul vechi Zamość", en: "Zamość Old Town"},
@@ -967,6 +2344,465 @@ export const polandHistoryV2: POI[] = [
                         18.595462,
                         53.006183
                   ]
+            },
+            {
+                  "name": "Dom Mikołaja Kopernika",
+                  "text": "Museum im Geburtshaus von Nikolaus Kopernikus in Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.603884,
+                        53.009309
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki i Inżynierii Komunalnej Torunia",
+                  "text": "Museum für Technik und kommunale Ingenieurskunst in Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.584407,
+                        53.027181
+                  ]
+            },
+            {
+                  "name": "Altes Schloss",
+                  "text": "Die Ruinen der mittelalterlichen Kreuzritterburg in Toruń.",
+                  "category": "castle",
+                  "coords": [
+                        18.610869,
+                        53.009269
+                  ]
+            },
+            {
+                  "name": "Ruine Dybow",
+                  "text": "Ruinen der mittelalterlichen Dybowski-Burg bei Toruń.",
+                  "category": "castle",
+                  "coords": [
+                        18.600019,
+                        53.001167
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne",
+                  "text": "Ethnographisches Museum mit Fokus auf die Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.604367,
+                        53.014455
+                  ]
+            },
+            {
+                  "name": "Museum der Festung Toruń",
+                  "text": "Museum zur Militärgeschichte der Festung Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.60764,
+                        53.014709
+                  ]
+            },
+            {
+                  "name": "Fort XVII Przyczółek Mostowy",
+                  "text": "Historisches Festungsbauwerk der Toruńer Befestigungsanlagen.",
+                  "category": "fortress",
+                  "coords": [
+                        18.616428,
+                        52.999031
+                  ]
+            },
+            {
+                  "name": "Jacobsfort",
+                  "text": "Ehemaliger Teil des Verteidigungssystems von Toruń.",
+                  "category": "fortress",
+                  "coords": [
+                        18.624282,
+                        53.013628
+                  ]
+            },
+            {
+                  "name": "Fort X Bateria Nadbrzeżna",
+                  "text": "Teil der historischen Festung Toruń, eine ehemalige Küstenbatterie.",
+                  "category": "fortress",
+                  "coords": [
+                        18.569179,
+                        52.998365
+                  ]
+            },
+            {
+                  "name": "Fort XII Władysława Jagiełły",
+                  "text": "Historisches Fort innerhalb des Festungsgürtels von Toruń.",
+                  "category": "fortress",
+                  "coords": [
+                        18.594026,
+                        52.985177
+                  ]
+            },
+            {
+                  "name": "Fort XVI Kolejowy",
+                  "text": "Ehemaliges Fort der Toruńer Festungsanlage.",
+                  "category": "fortress",
+                  "coords": [
+                        18.63459,
+                        53.004826
+                  ]
+            },
+            {
+                  "name": "Cmentarz ewangelicki na Rudaku",
+                  "text": "Historischer evangelischer Friedhof im Ortsteil Rudak.",
+                  "category": "historical",
+                  "coords": [
+                        18.642117,
+                        53.006256
+                  ]
+            },
+            {
+                  "name": "Nonnentor",
+                  "text": "Mittelalterliches Stadttor in der Toruńer Altstadt.",
+                  "category": "fortress",
+                  "coords": [
+                        18.60361,
+                        53.00828
+                  ]
+            },
+            {
+                  "name": "Seglertor",
+                  "text": "Historisches Stadttor, das zum Weichselufer führt.",
+                  "category": "fortress",
+                  "coords": [
+                        18.60618,
+                        53.008268
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Bedeutendes Theater in der Altstadt von Toruń.",
+                  "category": "cultural",
+                  "coords": [
+                        18.602598,
+                        53.012148
+                  ]
+            },
+            {
+                  "name": "Galeria i Ośrodek Plastycznej Twórczości Dziecka",
+                  "text": "Kunstzentrum für Kinder in Toruń.",
+                  "category": "cultural",
+                  "coords": [
+                        18.61043,
+                        53.011949
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa",
+                  "text": "Katholische Pfarrkirche in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.583789,
+                        53.024495
+                  ]
+            },
+            {
+                  "name": "Marienkirche",
+                  "text": "Kirchengebäude in Toruń, benannt nach der Jungfrau Maria.",
+                  "category": "religious",
+                  "coords": [
+                        18.60241,
+                        53.011002
+                  ]
+            },
+            {
+                  "name": "Johanniskirche",
+                  "text": "Bedeutende gotische Kathedrale in der Toruńer Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        18.606332,
+                        53.009368
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Zwycięskiej i Świętego Jerzego",
+                  "text": "Katholische Kirche mit historischer Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        18.609588,
+                        53.022303
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła i Błogosławionego Księdza Bronisława Markiewicza",
+                  "text": "Moderne Kirchengemeinde in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.582732,
+                        53.008037
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "Katholische Kirche in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.619124,
+                        52.99463
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Opatrzności Bożej",
+                  "text": "Katholische Kirchengemeinde in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.640855,
+                        52.999924
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego i Świętej Siostry Faustyny Kowalskiej",
+                  "text": "Katholische Kirche, gewidmet der göttlichen Barmherzigkeit.",
+                  "category": "religious",
+                  "coords": [
+                        18.604089,
+                        53.031735
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Katholische Kirche in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.598282,
+                        52.994141
+                  ]
+            },
+            {
+                  "name": "Garnisonskirche",
+                  "text": "Katholische Kirche in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.6133,
+                        53.012908
+                  ]
+            },
+            {
+                  "name": "Heiligen Stephanus Kirche",
+                  "text": "Historische Kirche in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.606068,
+                        53.013069
+                  ]
+            },
+            {
+                  "name": "Christkönigkirche",
+                  "text": "Katholische Kirche in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.617351,
+                        53.022121
+                  ]
+            },
+            {
+                  "name": "Jakobskirche",
+                  "text": "Gotische Kirche in der Toruńer Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        18.61261,
+                        53.011894
+                  ]
+            },
+            {
+                  "name": "Schiefer Turm von Thorn",
+                  "text": "Berühmter schiefer Turm in der Toruńer Altstadt.",
+                  "category": "tower",
+                  "coords": [
+                        18.602074,
+                        53.008382
+                  ]
+            },
+            {
+                  "name": "Baszta 53a",
+                  "text": "Mittelalterlicher Wehrturm in Toruń.",
+                  "category": "tower",
+                  "coords": [
+                        18.607169,
+                        53.011226
+                  ]
+            },
+            {
+                  "name": "Baszta Monstrancja",
+                  "text": "Historischer Turm der Toruńer Stadtbefestigung.",
+                  "category": "tower",
+                  "coords": [
+                        18.608761,
+                        53.010208
+                  ]
+            },
+            {
+                  "name": "Baszta Koci Łeb",
+                  "text": "Turm der ehemaligen Stadtbefestigung von Toruń.",
+                  "category": "tower",
+                  "coords": [
+                        18.604284,
+                        53.012347
+                  ]
+            },
+            {
+                  "name": "Ogród Jordanowski im. gen. Tokarzewskiego",
+                  "text": "Öffentlicher Park in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.582739,
+                        53.020093
+                  ]
+            },
+            {
+                  "name": "Vorderer Hasenberg",
+                  "text": "Grünfläche in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.587264,
+                        53.013906
+                  ]
+            },
+            {
+                  "name": "Glazja",
+                  "text": "Parkgelände in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.623183,
+                        53.014403
+                  ]
+            },
+            {
+                  "name": "Dolina Marzeń",
+                  "text": "Gartenanlage in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.598699,
+                        53.008535
+                  ]
+            },
+            {
+                  "name": "Alpinarium",
+                  "text": "Botanische Gartenanlage in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.601142,
+                        53.008663
+                  ]
+            },
+            {
+                  "name": "Skwer Lucjana Broniewicza",
+                  "text": "Öffentlicher Park in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.600085,
+                        53.010496
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Großer Stadtpark in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.576447,
+                        53.008246
+                  ]
+            },
+            {
+                  "name": "Jordanki",
+                  "text": "Parkgelände in der Nähe des Kulturzentrums Jordanki.",
+                  "category": "park",
+                  "coords": [
+                        18.600358,
+                        53.013259
+                  ]
+            },
+            {
+                  "name": "Skwer Inwalidów Wojennych",
+                  "text": "Gedenkstätte auf einem ehemaligen Friedhofsgelände.",
+                  "category": "park",
+                  "coords": [
+                        18.592736,
+                        53.015099
+                  ]
+            },
+            {
+                  "name": "Dawny cmentarz żydowski",
+                  "text": "Parkgelände auf einem ehemaligen jüdischen Friedhof.",
+                  "category": "park",
+                  "coords": [
+                        18.628397,
+                        53.016643
+                  ]
+            },
+            {
+                  "name": "Park Wojewodów Pomorskich",
+                  "text": "Städtischer Park in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.596598,
+                        53.01021
+                  ]
+            },
+            {
+                  "name": "Park na Bielanach",
+                  "text": "Park im Stadtteil Bielany.",
+                  "category": "park",
+                  "coords": [
+                        18.578585,
+                        53.027396
+                  ]
+            },
+            {
+                  "name": "Zoobotanischer Garten",
+                  "text": "Zoobotanischer Garten in Toruń.",
+                  "category": "recreational",
+                  "coords": [
+                        18.590644,
+                        53.008954
+                  ]
+            },
+            {
+                  "name": "Kaplica Narodzenia Najświętszej Maryi Panny",
+                  "text": "Kapelle in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.594065,
+                        53.015793
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Torunia",
+                  "text": "Museum zur Geschichte der Stadt Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.607324,
+                        53.009376
+                  ]
+            },
+            {
+                  "name": "Muzeum Okręgowe w Toruniu",
+                  "text": "Regionales Museum in Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.60422,
+                        53.010683
+                  ]
+            },
+            {
+                  "name": "Żywe Muzeum Piernika",
+                  "text": "Interaktives Lebendiges Lebkuchenmuseum in Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.604874,
+                        53.008653
+                  ]
+            },
+            {
+                  "name": "Muzeum Artyleriii w Toruniu",
+                  "text": "Museum für historische Artillerie in Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.623472,
+                        53.019157
+                  ]
             }
       ],
       "hu": [
@@ -977,6 +2813,465 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.595462,
                         53.006183
+                  ]
+            },
+            {
+                  "name": "Dom Mikołaja Kopernika",
+                  "text": "Múzeum Nikolaus Kopernikus toruńi szülőházában.",
+                  "category": "museum",
+                  "coords": [
+                        18.603884,
+                        53.009309
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki i Inżynierii Komunalnej Torunia",
+                  "text": "Technikai és közműmérnöki múzeum Toruńban.",
+                  "category": "museum",
+                  "coords": [
+                        18.584407,
+                        53.027181
+                  ]
+            },
+            {
+                  "name": "Zamek Krzyżacki w Toruniu",
+                  "text": "A középkori keresztes lovagok várának romjai Toruńban.",
+                  "category": "castle",
+                  "coords": [
+                        18.610869,
+                        53.009269
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Dybowskiego",
+                  "text": "A középkori Dybowski-vár romjai Toruń közelében.",
+                  "category": "castle",
+                  "coords": [
+                        18.600019,
+                        53.001167
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne",
+                  "text": "Néprajzi múzeum a régióra összpontosítva.",
+                  "category": "museum",
+                  "coords": [
+                        18.604367,
+                        53.014455
+                  ]
+            },
+            {
+                  "name": "Muzeum Twierdzy Toruń",
+                  "text": "Múzeum Toruń erődjének katonai történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        18.60764,
+                        53.014709
+                  ]
+            },
+            {
+                  "name": "Fort XVII Przyczółek Mostowy",
+                  "text": "A toruńi erődítményrendszer történelmi erődje.",
+                  "category": "fortress",
+                  "coords": [
+                        18.616428,
+                        52.999031
+                  ]
+            },
+            {
+                  "name": "Fort Świętego Jakuba",
+                  "text": "A toruńi védelmi rendszer egykori része.",
+                  "category": "fortress",
+                  "coords": [
+                        18.624282,
+                        53.013628
+                  ]
+            },
+            {
+                  "name": "Fort X Bateria Nadbrzeżna",
+                  "text": "A toruńi erőd része, egykori parti üteg.",
+                  "category": "fortress",
+                  "coords": [
+                        18.569179,
+                        52.998365
+                  ]
+            },
+            {
+                  "name": "Fort XII Władysława Jagiełły",
+                  "text": "Történelmi erőd Toruń erődgyűrűjében.",
+                  "category": "fortress",
+                  "coords": [
+                        18.594026,
+                        52.985177
+                  ]
+            },
+            {
+                  "name": "Fort XVI Kolejowy",
+                  "text": "A toruńi erődítmény egykori erődje.",
+                  "category": "fortress",
+                  "coords": [
+                        18.63459,
+                        53.004826
+                  ]
+            },
+            {
+                  "name": "Cmentarz ewangelicki na Rudaku",
+                  "text": "Történelmi evangélikus temető Rudak kerületben.",
+                  "category": "historical",
+                  "coords": [
+                        18.642117,
+                        53.006256
+                  ]
+            },
+            {
+                  "name": "Brama Klasztorna",
+                  "text": "Középkori városkapu Toruń óvárosában.",
+                  "category": "fortress",
+                  "coords": [
+                        18.60361,
+                        53.00828
+                  ]
+            },
+            {
+                  "name": "Brama Żeglarska",
+                  "text": "Történelmi városkapu, amely a Visztula partjára vezet.",
+                  "category": "fortress",
+                  "coords": [
+                        18.60618,
+                        53.008268
+                  ]
+            },
+            {
+                  "name": "Teatr im. Wilama Horzycy",
+                  "text": "Fontos színház Toruń óvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.602598,
+                        53.012148
+                  ]
+            },
+            {
+                  "name": "Galeria i Ośrodek Plastycznej Twórczości Dziecka",
+                  "text": "Művészeti központ gyermekek számára Toruńban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.61043,
+                        53.011949
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa",
+                  "text": "Katolikus plébániatemplom Toruńban.",
+                  "category": "religious",
+                  "coords": [
+                        18.583789,
+                        53.024495
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny i Błogosławionego księdza Stefana Wincentego Frelichowskiego",
+                  "text": "Templomépület Toruńban, amelyet Szűz Máriáról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        18.60241,
+                        53.011002
+                  ]
+            },
+            {
+                  "name": "Katedra pw. Świętych Jana Chrzciciela i Jana Ewangelisty",
+                  "text": "Fontos gótikus székesegyház Toruń óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.606332,
+                        53.009368
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Zwycięskiej i Świętego Jerzego",
+                  "text": "Történelmi jelentőségű katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        18.609588,
+                        53.022303
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła i Błogosławionego Księdza Bronisława Markiewicza",
+                  "text": "Modern templomi közösség Toruńban.",
+                  "category": "religious",
+                  "coords": [
+                        18.582732,
+                        53.008037
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "Katolikus templom Toruńban.",
+                  "category": "religious",
+                  "coords": [
+                        18.619124,
+                        52.99463
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Opatrzności Bożej",
+                  "text": "Katolikus templomi közösség Toruńban.",
+                  "category": "religious",
+                  "coords": [
+                        18.640855,
+                        52.999924
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego i Świętej Siostry Faustyny Kowalskiej",
+                  "text": "Az isteni irgalmasságnak szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        18.604089,
+                        53.031735
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Katolikus templom Toruńban.",
+                  "category": "religious",
+                  "coords": [
+                        18.598282,
+                        52.994141
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny",
+                  "text": "Katolikus templom Toruńban.",
+                  "category": "religious",
+                  "coords": [
+                        18.6133,
+                        53.012908
+                  ]
+            },
+            {
+                  "name": "Kościół Świętego Szczepana",
+                  "text": "Történelmi templom Toruńban.",
+                  "category": "religious",
+                  "coords": [
+                        18.606068,
+                        53.013069
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla",
+                  "text": "Katolikus templom Toruńban.",
+                  "category": "religious",
+                  "coords": [
+                        18.617351,
+                        53.022121
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba Apostoła",
+                  "text": "Gótikus templom Toruń óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.61261,
+                        53.011894
+                  ]
+            },
+            {
+                  "name": "Krzywa Wieża",
+                  "text": "Híres ferde torony Toruń óvárosában.",
+                  "category": "tower",
+                  "coords": [
+                        18.602074,
+                        53.008382
+                  ]
+            },
+            {
+                  "name": "Baszta 53a",
+                  "text": "Középkori védőtorony Toruńban.",
+                  "category": "tower",
+                  "coords": [
+                        18.607169,
+                        53.011226
+                  ]
+            },
+            {
+                  "name": "Baszta Monstrancja",
+                  "text": "A toruńi városfal történelmi tornya.",
+                  "category": "tower",
+                  "coords": [
+                        18.608761,
+                        53.010208
+                  ]
+            },
+            {
+                  "name": "Baszta Koci Łeb",
+                  "text": "A toruńi városfal egykori tornya.",
+                  "category": "tower",
+                  "coords": [
+                        18.604284,
+                        53.012347
+                  ]
+            },
+            {
+                  "name": "Ogród Jordanowski im. gen. Tokarzewskiego",
+                  "text": "Közpark Toruńban.",
+                  "category": "park",
+                  "coords": [
+                        18.582739,
+                        53.020093
+                  ]
+            },
+            {
+                  "name": "Piekarskie Góry",
+                  "text": "Zöld terület Toruńban.",
+                  "category": "park",
+                  "coords": [
+                        18.587264,
+                        53.013906
+                  ]
+            },
+            {
+                  "name": "Glazja",
+                  "text": "Parkterület Toruńban.",
+                  "category": "park",
+                  "coords": [
+                        18.623183,
+                        53.014403
+                  ]
+            },
+            {
+                  "name": "Dolina Marzeń",
+                  "text": "Kert Toruńban.",
+                  "category": "park",
+                  "coords": [
+                        18.598699,
+                        53.008535
+                  ]
+            },
+            {
+                  "name": "Alpinarium",
+                  "text": "Botanikus kert Toruńban.",
+                  "category": "park",
+                  "coords": [
+                        18.601142,
+                        53.008663
+                  ]
+            },
+            {
+                  "name": "Skwer Lucjana Broniewicza",
+                  "text": "Közpark Toruńban.",
+                  "category": "park",
+                  "coords": [
+                        18.600085,
+                        53.010496
+                  ]
+            },
+            {
+                  "name": "Park Miejski na Bydgoskim Przedmieściu",
+                  "text": "Nagy városi park Toruńban.",
+                  "category": "park",
+                  "coords": [
+                        18.576447,
+                        53.008246
+                  ]
+            },
+            {
+                  "name": "Jordanki",
+                  "text": "Parkterület a Jordanki kulturális központ közelében.",
+                  "category": "park",
+                  "coords": [
+                        18.600358,
+                        53.013259
+                  ]
+            },
+            {
+                  "name": "Skwer Inwalidów Wojennych",
+                  "text": "Emlékhely egykori temető területén.",
+                  "category": "park",
+                  "coords": [
+                        18.592736,
+                        53.015099
+                  ]
+            },
+            {
+                  "name": "Dawny cmentarz żydowski",
+                  "text": "Parkterület egykori zsidó temető helyén.",
+                  "category": "park",
+                  "coords": [
+                        18.628397,
+                        53.016643
+                  ]
+            },
+            {
+                  "name": "Park Wojewodów Pomorskich",
+                  "text": "Városi park Toruńban.",
+                  "category": "park",
+                  "coords": [
+                        18.596598,
+                        53.01021
+                  ]
+            },
+            {
+                  "name": "Park na Bielanach",
+                  "text": "Park Bielany kerületben.",
+                  "category": "park",
+                  "coords": [
+                        18.578585,
+                        53.027396
+                  ]
+            },
+            {
+                  "name": "Ogród Zoobotaniczny w Toruniu",
+                  "text": "Állatkert és botanikus kert Toruńban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.590644,
+                        53.008954
+                  ]
+            },
+            {
+                  "name": "Kaplica Narodzenia Najświętszej Maryi Panny",
+                  "text": "Kápolna Toruńban.",
+                  "category": "religious",
+                  "coords": [
+                        18.594065,
+                        53.015793
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Torunia",
+                  "text": "Múzeum Toruń városának történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        18.607324,
+                        53.009376
+                  ]
+            },
+            {
+                  "name": "Muzeum Okręgowe w Toruniu",
+                  "text": "Regionális múzeum Toruńban.",
+                  "category": "museum",
+                  "coords": [
+                        18.60422,
+                        53.010683
+                  ]
+            },
+            {
+                  "name": "Żywe Muzeum Piernika",
+                  "text": "Interaktív Élő Mézeskalács Múzeum Toruńban.",
+                  "category": "museum",
+                  "coords": [
+                        18.604874,
+                        53.008653
+                  ]
+            },
+            {
+                  "name": "Muzeum Artyleriii w Toruniu",
+                  "text": "Történelmi tüzérségi múzeum Toruńban.",
+                  "category": "museum",
+                  "coords": [
+                        18.623472,
+                        53.019157
                   ]
             }
       ],
@@ -989,6 +3284,465 @@ export const polandHistoryV2: POI[] = [
                         18.595462,
                         53.006183
                   ]
+            },
+            {
+                  "name": "Dom Mikołaja Kopernika",
+                  "text": "Muzeu în casa natală a lui Nicolaus Copernicus din Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.603884,
+                        53.009309
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki i Inżynierii Komunalnej Torunia",
+                  "text": "Muzeul tehnicii și ingineriei municipale din Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.584407,
+                        53.027181
+                  ]
+            },
+            {
+                  "name": "Zamek Krzyżacki w Toruniu",
+                  "text": "Ruinele castelului medieval al cavalerilor teutoni din Toruń.",
+                  "category": "castle",
+                  "coords": [
+                        18.610869,
+                        53.009269
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Dybowskiego",
+                  "text": "Ruinele castelului medieval Dybowski de lângă Toruń.",
+                  "category": "castle",
+                  "coords": [
+                        18.600019,
+                        53.001167
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne",
+                  "text": "Muzeu etnografic concentrat pe regiune.",
+                  "category": "museum",
+                  "coords": [
+                        18.604367,
+                        53.014455
+                  ]
+            },
+            {
+                  "name": "Muzeum Twierdzy Toruń",
+                  "text": "Muzeul istoriei militare a cetății Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.60764,
+                        53.014709
+                  ]
+            },
+            {
+                  "name": "Fort XVII Przyczółek Mostowy",
+                  "text": "Fortificație istorică a sistemului de apărare Toruń.",
+                  "category": "fortress",
+                  "coords": [
+                        18.616428,
+                        52.999031
+                  ]
+            },
+            {
+                  "name": "Fort Świętego Jakuba",
+                  "text": "Fostă parte a sistemului de apărare al orașului Toruń.",
+                  "category": "fortress",
+                  "coords": [
+                        18.624282,
+                        53.013628
+                  ]
+            },
+            {
+                  "name": "Fort X Bateria Nadbrzeżna",
+                  "text": "Parte a cetății istorice Toruń, o fostă baterie de coastă.",
+                  "category": "fortress",
+                  "coords": [
+                        18.569179,
+                        52.998365
+                  ]
+            },
+            {
+                  "name": "Fort XII Władysława Jagiełły",
+                  "text": "Fort istoric în centura de apărare a orașului Toruń.",
+                  "category": "fortress",
+                  "coords": [
+                        18.594026,
+                        52.985177
+                  ]
+            },
+            {
+                  "name": "Fort XVI Kolejowy",
+                  "text": "Fost fort al sistemului de fortificații Toruń.",
+                  "category": "fortress",
+                  "coords": [
+                        18.63459,
+                        53.004826
+                  ]
+            },
+            {
+                  "name": "Cmentarz ewangelicki na Rudaku",
+                  "text": "Cimitir evanghelic istoric în districtul Rudak.",
+                  "category": "historical",
+                  "coords": [
+                        18.642117,
+                        53.006256
+                  ]
+            },
+            {
+                  "name": "Brama Klasztorna",
+                  "text": "Poartă medievală a orașului în centrul vechi al orașului Toruń.",
+                  "category": "fortress",
+                  "coords": [
+                        18.60361,
+                        53.00828
+                  ]
+            },
+            {
+                  "name": "Brama Żeglarska",
+                  "text": "Poartă istorică a orașului care duce spre malul râului Vistula.",
+                  "category": "fortress",
+                  "coords": [
+                        18.60618,
+                        53.008268
+                  ]
+            },
+            {
+                  "name": "Teatr im. Wilama Horzycy",
+                  "text": "Teatru important în centrul vechi al orașului Toruń.",
+                  "category": "cultural",
+                  "coords": [
+                        18.602598,
+                        53.012148
+                  ]
+            },
+            {
+                  "name": "Galeria i Ośrodek Plastycznej Twórczości Dziecka",
+                  "text": "Centru de artă pentru copii în Toruń.",
+                  "category": "cultural",
+                  "coords": [
+                        18.61043,
+                        53.011949
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa",
+                  "text": "Biserică parohială catolică în Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.583789,
+                        53.024495
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny i Błogosławionego księdza Stefana Wincentego Frelichowskiego",
+                  "text": "Clădire bisericească în Toruń, numită după Fecioara Maria.",
+                  "category": "religious",
+                  "coords": [
+                        18.60241,
+                        53.011002
+                  ]
+            },
+            {
+                  "name": "Katedra pw. Świętych Jana Chrzciciela i Jana Ewangelisty",
+                  "text": "Catedrală gotică importantă în centrul vechi al orașului Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.606332,
+                        53.009368
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Zwycięskiej i Świętego Jerzego",
+                  "text": "Biserică catolică cu semnificație istorică.",
+                  "category": "religious",
+                  "coords": [
+                        18.609588,
+                        53.022303
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła i Błogosławionego Księdza Bronisława Markiewicza",
+                  "text": "Comunitate bisericească modernă în Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.582732,
+                        53.008037
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "Biserică catolică în Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.619124,
+                        52.99463
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Opatrzności Bożej",
+                  "text": "Comunitate bisericească catolică în Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.640855,
+                        52.999924
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego i Świętej Siostry Faustyny Kowalskiej",
+                  "text": "Biserică catolică dedicată milostivirii divine.",
+                  "category": "religious",
+                  "coords": [
+                        18.604089,
+                        53.031735
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Biserică catolică în Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.598282,
+                        52.994141
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny",
+                  "text": "Biserică catolică în Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.6133,
+                        53.012908
+                  ]
+            },
+            {
+                  "name": "Kościół Świętego Szczepana",
+                  "text": "Biserică istorică în Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.606068,
+                        53.013069
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla",
+                  "text": "Biserică catolică în Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.617351,
+                        53.022121
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba Apostoła",
+                  "text": "Biserică gotică în centrul vechi al orașului Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.61261,
+                        53.011894
+                  ]
+            },
+            {
+                  "name": "Krzywa Wieża",
+                  "text": "Turn înclinat celebru în centrul vechi al orașului Toruń.",
+                  "category": "tower",
+                  "coords": [
+                        18.602074,
+                        53.008382
+                  ]
+            },
+            {
+                  "name": "Baszta 53a",
+                  "text": "Turn defensiv medieval în Toruń.",
+                  "category": "tower",
+                  "coords": [
+                        18.607169,
+                        53.011226
+                  ]
+            },
+            {
+                  "name": "Baszta Monstrancja",
+                  "text": "Turn istoric al fortificațiilor orașului Toruń.",
+                  "category": "tower",
+                  "coords": [
+                        18.608761,
+                        53.010208
+                  ]
+            },
+            {
+                  "name": "Baszta Koci Łeb",
+                  "text": "Turn al fostelor fortificații ale orașului Toruń.",
+                  "category": "tower",
+                  "coords": [
+                        18.604284,
+                        53.012347
+                  ]
+            },
+            {
+                  "name": "Ogród Jordanowski im. gen. Tokarzewskiego",
+                  "text": "Parc public în Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.582739,
+                        53.020093
+                  ]
+            },
+            {
+                  "name": "Piekarskie Góry",
+                  "text": "Spațiu verde în Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.587264,
+                        53.013906
+                  ]
+            },
+            {
+                  "name": "Glazja",
+                  "text": "Zonă de parc în Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.623183,
+                        53.014403
+                  ]
+            },
+            {
+                  "name": "Dolina Marzeń",
+                  "text": "Grădină în Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.598699,
+                        53.008535
+                  ]
+            },
+            {
+                  "name": "Alpinarium",
+                  "text": "Grădină botanică în Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.601142,
+                        53.008663
+                  ]
+            },
+            {
+                  "name": "Skwer Lucjana Broniewicza",
+                  "text": "Parc public în Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.600085,
+                        53.010496
+                  ]
+            },
+            {
+                  "name": "Park Miejski na Bydgoskim Przedmieściu",
+                  "text": "Parc municipal mare în Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.576447,
+                        53.008246
+                  ]
+            },
+            {
+                  "name": "Jordanki",
+                  "text": "Zonă de parc lângă centrul cultural Jordanki.",
+                  "category": "park",
+                  "coords": [
+                        18.600358,
+                        53.013259
+                  ]
+            },
+            {
+                  "name": "Skwer Inwalidów Wojennych",
+                  "text": "Memorial pe locul unui fost cimitir.",
+                  "category": "park",
+                  "coords": [
+                        18.592736,
+                        53.015099
+                  ]
+            },
+            {
+                  "name": "Dawny cmentarz żydowski",
+                  "text": "Zonă de parc pe locul unui fost cimitir evreiesc.",
+                  "category": "park",
+                  "coords": [
+                        18.628397,
+                        53.016643
+                  ]
+            },
+            {
+                  "name": "Park Wojewodów Pomorskich",
+                  "text": "Parc municipal în Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.596598,
+                        53.01021
+                  ]
+            },
+            {
+                  "name": "Park na Bielanach",
+                  "text": "Parc în districtul Bielany.",
+                  "category": "park",
+                  "coords": [
+                        18.578585,
+                        53.027396
+                  ]
+            },
+            {
+                  "name": "Ogród Zoobotaniczny w Toruniu",
+                  "text": "Grădină zoobotanică în Toruń.",
+                  "category": "recreational",
+                  "coords": [
+                        18.590644,
+                        53.008954
+                  ]
+            },
+            {
+                  "name": "Kaplica Narodzenia Najświętszej Maryi Panny",
+                  "text": "Capelă în Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.594065,
+                        53.015793
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Torunia",
+                  "text": "Muzeu despre istoria orașului Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.607324,
+                        53.009376
+                  ]
+            },
+            {
+                  "name": "Muzeum Okręgowe w Toruniu",
+                  "text": "Muzeu regional în Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.60422,
+                        53.010683
+                  ]
+            },
+            {
+                  "name": "Żywe Muzeum Piernika",
+                  "text": "Muzeu interactiv al turtei dulci în Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.604874,
+                        53.008653
+                  ]
+            },
+            {
+                  "name": "Muzeum Artyleriii w Toruniu",
+                  "text": "Muzeu de artilerie istorică în Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.623472,
+                        53.019157
+                  ]
             }
       ],
       "en": [
@@ -999,6 +3753,465 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.595462,
                         53.006183
+                  ]
+            },
+            {
+                  "name": "Nicolaus Copernicus House",
+                  "text": "Museum in the birthplace of Nicolaus Copernicus in Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.603884,
+                        53.009309
+                  ]
+            },
+            {
+                  "name": "Muzeum Techniki i Inżynierii Komunalnej Torunia",
+                  "text": "Museum of technology and municipal engineering in Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.584407,
+                        53.027181
+                  ]
+            },
+            {
+                  "name": "Zamek Krzyżacki w Toruniu",
+                  "text": "The ruins of the medieval Teutonic Knights' castle in Toruń.",
+                  "category": "castle",
+                  "coords": [
+                        18.610869,
+                        53.009269
+                  ]
+            },
+            {
+                  "name": "Ruiny Zamku Dybowskiego",
+                  "text": "Ruins of the medieval Dybowski castle near Toruń.",
+                  "category": "castle",
+                  "coords": [
+                        18.600019,
+                        53.001167
+                  ]
+            },
+            {
+                  "name": "Muzeum Etnograficzne",
+                  "text": "Ethnographic museum with a focus on the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.604367,
+                        53.014455
+                  ]
+            },
+            {
+                  "name": "Toruń Fortress Museum",
+                  "text": "Museum about the military history of the Toruń Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        18.60764,
+                        53.014709
+                  ]
+            },
+            {
+                  "name": "Fort XVII Przyczółek Mostowy",
+                  "text": "Historic fort of the Toruń fortification system.",
+                  "category": "fortress",
+                  "coords": [
+                        18.616428,
+                        52.999031
+                  ]
+            },
+            {
+                  "name": "Fort Świętego Jakuba",
+                  "text": "Former part of the defensive system of Toruń.",
+                  "category": "fortress",
+                  "coords": [
+                        18.624282,
+                        53.013628
+                  ]
+            },
+            {
+                  "name": "Fort X Bateria Nadbrzeżna",
+                  "text": "Part of the historic Toruń fortress, a former coastal battery.",
+                  "category": "fortress",
+                  "coords": [
+                        18.569179,
+                        52.998365
+                  ]
+            },
+            {
+                  "name": "Fort XII Władysława Jagiełły",
+                  "text": "Historic fort within the defensive ring of Toruń.",
+                  "category": "fortress",
+                  "coords": [
+                        18.594026,
+                        52.985177
+                  ]
+            },
+            {
+                  "name": "Fort XVI Kolejowy",
+                  "text": "Former fort of the Toruń fortification system.",
+                  "category": "fortress",
+                  "coords": [
+                        18.63459,
+                        53.004826
+                  ]
+            },
+            {
+                  "name": "Cmentarz ewangelicki na Rudaku",
+                  "text": "Historic evangelical cemetery in the Rudak district.",
+                  "category": "historical",
+                  "coords": [
+                        18.642117,
+                        53.006256
+                  ]
+            },
+            {
+                  "name": "Monastery Gate",
+                  "text": "Medieval city gate in Toruń's Old Town.",
+                  "category": "fortress",
+                  "coords": [
+                        18.60361,
+                        53.00828
+                  ]
+            },
+            {
+                  "name": "Sailors Gate",
+                  "text": "Historic city gate leading to the Vistula riverbank.",
+                  "category": "fortress",
+                  "coords": [
+                        18.60618,
+                        53.008268
+                  ]
+            },
+            {
+                  "name": "Teatr im. Wilama Horzycy",
+                  "text": "Important theater in Toruń's Old Town.",
+                  "category": "cultural",
+                  "coords": [
+                        18.602598,
+                        53.012148
+                  ]
+            },
+            {
+                  "name": "Galeria i Ośrodek Plastycznej Twórczości Dziecka",
+                  "text": "Arts center for children in Toruń.",
+                  "category": "cultural",
+                  "coords": [
+                        18.61043,
+                        53.011949
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Józefa",
+                  "text": "Catholic parish church in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.583789,
+                        53.024495
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny i Błogosławionego księdza Stefana Wincentego Frelichowskiego",
+                  "text": "Church building in Toruń named after the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        18.60241,
+                        53.011002
+                  ]
+            },
+            {
+                  "name": "Cathedral church of SS. John the Baptist and John the Evangelist",
+                  "text": "Important Gothic cathedral in Toruń's Old Town.",
+                  "category": "religious",
+                  "coords": [
+                        18.606332,
+                        53.009368
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Zwycięskiej i Świętego Jerzego",
+                  "text": "Catholic church with historical significance.",
+                  "category": "religious",
+                  "coords": [
+                        18.609588,
+                        53.022303
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła i Błogosławionego Księdza Bronisława Markiewicza",
+                  "text": "Modern church community in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.582732,
+                        53.008037
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Niepokalanego Poczęcia Najświętszej Maryi Panny",
+                  "text": "Catholic church in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.619124,
+                        52.99463
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Opatrzności Bożej",
+                  "text": "Catholic church community in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.640855,
+                        52.999924
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego i Świętej Siostry Faustyny Kowalskiej",
+                  "text": "Catholic church dedicated to Divine Mercy.",
+                  "category": "religious",
+                  "coords": [
+                        18.604089,
+                        53.031735
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Catholic church in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.598282,
+                        52.994141
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny",
+                  "text": "Catholic church in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.6133,
+                        53.012908
+                  ]
+            },
+            {
+                  "name": "St. Stephen Church",
+                  "text": "Historic church in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.606068,
+                        53.013069
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla",
+                  "text": "Catholic church in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.617351,
+                        53.022121
+                  ]
+            },
+            {
+                  "name": "Church of Saint James the Apostle",
+                  "text": "Gothic church in Toruń's Old Town.",
+                  "category": "religious",
+                  "coords": [
+                        18.61261,
+                        53.011894
+                  ]
+            },
+            {
+                  "name": "Krzywa Wieża",
+                  "text": "Famous leaning tower in Toruń's Old Town.",
+                  "category": "tower",
+                  "coords": [
+                        18.602074,
+                        53.008382
+                  ]
+            },
+            {
+                  "name": "Baszta 53a",
+                  "text": "Medieval defensive tower in Toruń.",
+                  "category": "tower",
+                  "coords": [
+                        18.607169,
+                        53.011226
+                  ]
+            },
+            {
+                  "name": "Baszta Monstrancja",
+                  "text": "Historic tower of Toruń's city fortifications.",
+                  "category": "tower",
+                  "coords": [
+                        18.608761,
+                        53.010208
+                  ]
+            },
+            {
+                  "name": "Baszta Koci Łeb",
+                  "text": "Tower of the former city fortifications of Toruń.",
+                  "category": "tower",
+                  "coords": [
+                        18.604284,
+                        53.012347
+                  ]
+            },
+            {
+                  "name": "Ogród Jordanowski im. gen. Tokarzewskiego",
+                  "text": "Public park in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.582739,
+                        53.020093
+                  ]
+            },
+            {
+                  "name": "Piekarskie Góry",
+                  "text": "Green area in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.587264,
+                        53.013906
+                  ]
+            },
+            {
+                  "name": "Glazja",
+                  "text": "Park area in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.623183,
+                        53.014403
+                  ]
+            },
+            {
+                  "name": "Dolina Marzeń",
+                  "text": "Garden in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.598699,
+                        53.008535
+                  ]
+            },
+            {
+                  "name": "Alpinarium",
+                  "text": "Botanical garden area in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.601142,
+                        53.008663
+                  ]
+            },
+            {
+                  "name": "Skwer Lucjana Broniewicza",
+                  "text": "Public park in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.600085,
+                        53.010496
+                  ]
+            },
+            {
+                  "name": "Park Miejski na Bydgoskim Przedmieściu",
+                  "text": "Large city park in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.576447,
+                        53.008246
+                  ]
+            },
+            {
+                  "name": "Jordanki",
+                  "text": "Park area near the Jordanki cultural center.",
+                  "category": "park",
+                  "coords": [
+                        18.600358,
+                        53.013259
+                  ]
+            },
+            {
+                  "name": "Skwer Inwalidów Wojennych",
+                  "text": "Memorial site on a former cemetery ground.",
+                  "category": "park",
+                  "coords": [
+                        18.592736,
+                        53.015099
+                  ]
+            },
+            {
+                  "name": "Dawny cmentarz żydowski",
+                  "text": "Park area on the site of a former Jewish cemetery.",
+                  "category": "park",
+                  "coords": [
+                        18.628397,
+                        53.016643
+                  ]
+            },
+            {
+                  "name": "Park Wojewodów Pomorskich",
+                  "text": "Municipal park in Toruń.",
+                  "category": "park",
+                  "coords": [
+                        18.596598,
+                        53.01021
+                  ]
+            },
+            {
+                  "name": "Park na Bielanach",
+                  "text": "Park in the Bielany district.",
+                  "category": "park",
+                  "coords": [
+                        18.578585,
+                        53.027396
+                  ]
+            },
+            {
+                  "name": "Ogród Zoobotaniczny w Toruniu",
+                  "text": "Zoobotanical garden in Toruń.",
+                  "category": "recreational",
+                  "coords": [
+                        18.590644,
+                        53.008954
+                  ]
+            },
+            {
+                  "name": "Kaplica Narodzenia Najświętszej Maryi Panny",
+                  "text": "Chapel in Toruń.",
+                  "category": "religious",
+                  "coords": [
+                        18.594065,
+                        53.015793
+                  ]
+            },
+            {
+                  "name": "Muzeum Historii Torunia",
+                  "text": "Museum about the history of the city of Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.607324,
+                        53.009376
+                  ]
+            },
+            {
+                  "name": "Muzeum Okręgowe w Toruniu",
+                  "text": "Regional museum in Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.60422,
+                        53.010683
+                  ]
+            },
+            {
+                  "name": "Żywe Muzeum Piernika",
+                  "text": "Interactive Gingerbread Museum in Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.604874,
+                        53.008653
+                  ]
+            },
+            {
+                  "name": "Muzeum Artyleriii w Toruniu",
+                  "text": "Museum of historical artillery in Toruń.",
+                  "category": "museum",
+                  "coords": [
+                        18.623472,
+                        53.019157
                   ]
             }
       ]
@@ -1047,7 +4260,700 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-torun-old-town-history-v2.webp"},
   {
-    id: "poland-kazimierz-dolny-history-v2",
+    id: "poland-kazimierz-dolny-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Kazimierz Dolny",
+                  "text": "Kazimierz Dolny Castle ist ein bekanntes Schloss in Kazimierz Dolny.",
+                  "category": "castle",
+                  "coords": [
+                        21.950329,
+                        51.323579
+                  ]
+            },
+            {
+                  "name": "Kazimierski Park Krajobrazowy",
+                  "text": "Kazimierski Landscape Park ist ein bekanntes Naturschutzgebiet in Kazimierz Dolny.",
+                  "category": "natural",
+                  "coords": [
+                        22.010577,
+                        51.321248
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie. Dział Historii i Kultury Regionu",
+                  "text": "Muzeum Nadwiślańskie. Dział Historii i Kultury Regionu ist ein Museum in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.94925,
+                        51.32413
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie",
+                  "text": "Muzeum Nadwiślańskie ist ein Museum in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.945495,
+                        51.322126
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie. Oddział Przyrodniczy",
+                  "text": "Muzeum Nadwiślańskie. Oddział Przyrodniczy ist ein Museum in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.954795,
+                        51.32807
+                  ]
+            },
+            {
+                  "name": "Dawny Zajazd Pocztowy",
+                  "text": "Dawny Zajazd Pocztowy ist ein Museum in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.94658,
+                        51.32075
+                  ]
+            },
+            {
+                  "name": "Dom Kuncewiczów",
+                  "text": "Dom Kuncewiczów ist ein Museum in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.950593,
+                        51.316763
+                  ]
+            },
+            {
+                  "name": "Z fizyką za pan brat",
+                  "text": "Z fizyką za pan brat ist ein Freizeitpark in Kazimierz Dolny.",
+                  "category": "recreational",
+                  "coords": [
+                        21.946063,
+                        51.323204
+                  ]
+            },
+            {
+                  "name": "Prywatne Muzeum Historii Ziem i Walk Nadwiślańskich w Wojszynie",
+                  "text": "Prywatne Muzeum Historii Ziem i Walk Nadwiślańskich w Wojszynie ist ein Museum in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.937154,
+                        51.344123
+                  ]
+            },
+            {
+                  "name": "Kazimierskie Alpaki",
+                  "text": "Kazimierskie Alpaki ist ein Zoo in Kazimierz Dolny.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945905,
+                        51.313836
+                  ]
+            },
+            {
+                  "name": "Park Miliona Róż i Zabytków Kresowych",
+                  "text": "Park Miliona Róż i Zabytków Kresowych ist ein Freizeitpark in Kazimierz Dolny.",
+                  "category": "recreational",
+                  "coords": [
+                        21.926865,
+                        51.317179
+                  ]
+            },
+            {
+                  "name": "Wzgórze Trzech Krzyży",
+                  "text": "Wzgórze Trzech Krzyży ist ein bekannter Aussichtspunkt in Kazimierz Dolny.",
+                  "category": "natural",
+                  "coords": [
+                        21.95036,
+                        51.32188
+                  ]
+            },
+            {
+                  "name": "Baszta",
+                  "text": "Baszta ist eine bekannte Sehenswürdigkeit in Kazimierz Dolny.",
+                  "category": "landmark",
+                  "coords": [
+                        21.952755,
+                        51.324734
+                  ]
+            },
+            {
+                  "name": "panorama Wisły",
+                  "text": "panorama Wisły ist ein Aussichtspunkt in Kazimierz Dolny.",
+                  "category": "natural",
+                  "coords": [
+                        21.911236,
+                        51.311262
+                  ]
+            },
+            {
+                  "name": "Pomnik na Kirkucie",
+                  "text": "Pomnik na Kirkucie ist ein Denkmal in Kazimierz Dolny.",
+                  "category": "historical",
+                  "coords": [
+                        21.952807,
+                        51.313625
+                  ]
+            },
+            {
+                  "name": "Wąwóz Kwaskowa Góra",
+                  "text": "Wąwóz Kwaskowa Góra ist eine Sehenswürdigkeit in Kazimierz Dolny.",
+                  "category": "landmark",
+                  "coords": [
+                        21.968872,
+                        51.311321
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Anny",
+                  "text": "Kościół pw. Świętej Anny ist eine Kultstätte in Kazimierz Dolny.",
+                  "category": "religious",
+                  "coords": [
+                        21.949143,
+                        51.321133
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela i Świętego Bartłomieja",
+                  "text": "Kościół pw. Świętego Jana Chrzciciela i Świętego Bartłomieja ist eine bekannte Kultstätte in Kazimierz Dolny.",
+                  "category": "religious",
+                  "coords": [
+                        21.948703,
+                        51.322793
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zwiastowania Pańskiego",
+                  "text": "Kościół pw. Zwiastowania Pańskiego ist eine bekannte Kultstätte in Kazimierz Dolny.",
+                  "category": "religious",
+                  "coords": [
+                        21.945151,
+                        51.320856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek w Kazimierzu Dolnym",
+                  "text": "A Kazimierz Dolny Castle egy ismert kastély Kazimierz Dolny városában.",
+                  "category": "castle",
+                  "coords": [
+                        21.950329,
+                        51.323579
+                  ]
+            },
+            {
+                  "name": "Kazimierski Park Krajobrazowy",
+                  "text": "A Kazimierski Landscape Park egy ismert természetvédelmi terület Kazimierz Dolny városában.",
+                  "category": "natural",
+                  "coords": [
+                        22.010577,
+                        51.321248
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie. Dział Historii i Kultury Regionu",
+                  "text": "A Muzeum Nadwiślańskie. Dział Historii i Kultury Regionu egy múzeum Kazimierz Dolny városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.94925,
+                        51.32413
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie",
+                  "text": "A Muzeum Nadwiślańskie egy múzeum Kazimierz Dolny városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.945495,
+                        51.322126
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie. Oddział Przyrodniczy",
+                  "text": "A Muzeum Nadwiślańskie. Oddział Przyrodniczy egy múzeum Kazimierz Dolny városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.954795,
+                        51.32807
+                  ]
+            },
+            {
+                  "name": "Dawny Zajazd Pocztowy",
+                  "text": "A Dawny Zajazd Pocztowy egy múzeum Kazimierz Dolny városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.94658,
+                        51.32075
+                  ]
+            },
+            {
+                  "name": "Dom Kuncewiczów",
+                  "text": "A Dom Kuncewiczów egy múzeum Kazimierz Dolny városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.950593,
+                        51.316763
+                  ]
+            },
+            {
+                  "name": "Z fizyką za pan brat",
+                  "text": "A Z fizyką za pan brat egy vidámpark Kazimierz Dolny városában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.946063,
+                        51.323204
+                  ]
+            },
+            {
+                  "name": "Prywatne Muzeum Historii Ziem i Walk Nadwiślańskich w Wojszynie",
+                  "text": "A Prywatne Muzeum Historii Ziem i Walk Nadwiślańskich w Wojszynie egy múzeum Kazimierz Dolny városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.937154,
+                        51.344123
+                  ]
+            },
+            {
+                  "name": "Kazimierskie Alpaki",
+                  "text": "A Kazimierskie Alpaki egy állatkert Kazimierz Dolny városában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945905,
+                        51.313836
+                  ]
+            },
+            {
+                  "name": "Park Miliona Róż i Zabytków Kresowych",
+                  "text": "A Park Miliona Róż i Zabytków Kresowych egy vidámpark Kazimierz Dolny városában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.926865,
+                        51.317179
+                  ]
+            },
+            {
+                  "name": "Wzgórze Trzech Krzyży",
+                  "text": "A Wzgórze Trzech Krzyży egy ismert kilátó Kazimierz Dolny városában.",
+                  "category": "natural",
+                  "coords": [
+                        21.95036,
+                        51.32188
+                  ]
+            },
+            {
+                  "name": "Baszta",
+                  "text": "A Baszta egy ismert látványosság Kazimierz Dolny városában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.952755,
+                        51.324734
+                  ]
+            },
+            {
+                  "name": "panorama Wisły",
+                  "text": "A panorama Wisły egy kilátó Kazimierz Dolny városában.",
+                  "category": "natural",
+                  "coords": [
+                        21.911236,
+                        51.311262
+                  ]
+            },
+            {
+                  "name": "Pomnik na Kirkucie",
+                  "text": "A Pomnik na Kirkucie egy emlékmű Kazimierz Dolny városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.952807,
+                        51.313625
+                  ]
+            },
+            {
+                  "name": "Wąwóz Kwaskowa Góra",
+                  "text": "A Wąwóz Kwaskowa Góra egy látványosság Kazimierz Dolny városában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.968872,
+                        51.311321
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Anny",
+                  "text": "A Kościół pw. Świętej Anny egy istentiszteleti hely Kazimierz Dolny városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.949143,
+                        51.321133
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela i Świętego Bartłomieja",
+                  "text": "A Kościół pw. Świętego Jana Chrzciciela i Świętego Bartłomieja egy ismert istentiszteleti hely Kazimierz Dolny városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.948703,
+                        51.322793
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zwiastowania Pańskiego",
+                  "text": "A Kościół pw. Zwiastowania Pańskiego egy ismert istentiszteleti hely Kazimierz Dolny városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.945151,
+                        51.320856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek w Kazimierzu Dolnym",
+                  "text": "Kazimierz Dolny Castle este un castel notabil în Kazimierz Dolny.",
+                  "category": "castle",
+                  "coords": [
+                        21.950329,
+                        51.323579
+                  ]
+            },
+            {
+                  "name": "Kazimierski Park Krajobrazowy",
+                  "text": "Kazimierski Landscape Park este o rezervație naturală notabilă în Kazimierz Dolny.",
+                  "category": "natural",
+                  "coords": [
+                        22.010577,
+                        51.321248
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie. Dział Historii i Kultury Regionu",
+                  "text": "Muzeum Nadwiślańskie. Dział Historii i Kultury Regionu este un muzeu în Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.94925,
+                        51.32413
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie",
+                  "text": "Muzeum Nadwiślańskie este un muzeu în Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.945495,
+                        51.322126
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie. Oddział Przyrodniczy",
+                  "text": "Muzeum Nadwiślańskie. Oddział Przyrodniczy este un muzeu în Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.954795,
+                        51.32807
+                  ]
+            },
+            {
+                  "name": "Dawny Zajazd Pocztowy",
+                  "text": "Dawny Zajazd Pocztowy este un muzeu în Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.94658,
+                        51.32075
+                  ]
+            },
+            {
+                  "name": "Dom Kuncewiczów",
+                  "text": "Dom Kuncewiczów este un muzeu în Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.950593,
+                        51.316763
+                  ]
+            },
+            {
+                  "name": "Z fizyką za pan brat",
+                  "text": "Z fizyką za pan brat este un parc de distracții în Kazimierz Dolny.",
+                  "category": "recreational",
+                  "coords": [
+                        21.946063,
+                        51.323204
+                  ]
+            },
+            {
+                  "name": "Prywatne Muzeum Historii Ziem i Walk Nadwiślańskich w Wojszynie",
+                  "text": "Prywatne Muzeum Historii Ziem i Walk Nadwiślańskich w Wojszynie este un muzeu în Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.937154,
+                        51.344123
+                  ]
+            },
+            {
+                  "name": "Kazimierskie Alpaki",
+                  "text": "Kazimierskie Alpaki este o grădină zoologică în Kazimierz Dolny.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945905,
+                        51.313836
+                  ]
+            },
+            {
+                  "name": "Park Miliona Róż i Zabytków Kresowych",
+                  "text": "Park Miliona Róż i Zabytków Kresowych este un parc de distracții în Kazimierz Dolny.",
+                  "category": "recreational",
+                  "coords": [
+                        21.926865,
+                        51.317179
+                  ]
+            },
+            {
+                  "name": "Wzgórze Trzech Krzyży",
+                  "text": "Wzgórze Trzech Krzyży este un punct de belvedere notabil în Kazimierz Dolny.",
+                  "category": "natural",
+                  "coords": [
+                        21.95036,
+                        51.32188
+                  ]
+            },
+            {
+                  "name": "Baszta",
+                  "text": "Baszta este o atracție notabilă în Kazimierz Dolny.",
+                  "category": "landmark",
+                  "coords": [
+                        21.952755,
+                        51.324734
+                  ]
+            },
+            {
+                  "name": "panorama Wisły",
+                  "text": "panorama Wisły este un punct de belvedere în Kazimierz Dolny.",
+                  "category": "natural",
+                  "coords": [
+                        21.911236,
+                        51.311262
+                  ]
+            },
+            {
+                  "name": "Pomnik na Kirkucie",
+                  "text": "Pomnik na Kirkucie este un monument în Kazimierz Dolny.",
+                  "category": "historical",
+                  "coords": [
+                        21.952807,
+                        51.313625
+                  ]
+            },
+            {
+                  "name": "Wąwóz Kwaskowa Góra",
+                  "text": "Wąwóz Kwaskowa Góra este o atracție în Kazimierz Dolny.",
+                  "category": "landmark",
+                  "coords": [
+                        21.968872,
+                        51.311321
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Anny",
+                  "text": "Kościół pw. Świętej Anny este un lăcaș de cult în Kazimierz Dolny.",
+                  "category": "religious",
+                  "coords": [
+                        21.949143,
+                        51.321133
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela i Świętego Bartłomieja",
+                  "text": "Kościół pw. Świętego Jana Chrzciciela i Świętego Bartłomieja este un lăcaș de cult notabil în Kazimierz Dolny.",
+                  "category": "religious",
+                  "coords": [
+                        21.948703,
+                        51.322793
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zwiastowania Pańskiego",
+                  "text": "Kościół pw. Zwiastowania Pańskiego este un lăcaș de cult notabil în Kazimierz Dolny.",
+                  "category": "religious",
+                  "coords": [
+                        21.945151,
+                        51.320856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kazimierz Dolny Castle",
+                  "text": "Kazimierz Dolny Castle is a notable castle located in Kazimierz Dolny.",
+                  "category": "castle",
+                  "coords": [
+                        21.950329,
+                        51.323579
+                  ]
+            },
+            {
+                  "name": "Kazimierski Landscape Park",
+                  "text": "Kazimierski Landscape Park is a notable nature reserve located in Kazimierz Dolny.",
+                  "category": "natural",
+                  "coords": [
+                        22.010577,
+                        51.321248
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie. Dział Historii i Kultury Regionu",
+                  "text": "Muzeum Nadwiślańskie. Dział Historii i Kultury Regionu is a museum located in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.94925,
+                        51.32413
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie",
+                  "text": "Muzeum Nadwiślańskie is a museum located in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.945495,
+                        51.322126
+                  ]
+            },
+            {
+                  "name": "Muzeum Nadwiślańskie. Oddział Przyrodniczy",
+                  "text": "Muzeum Nadwiślańskie. Oddział Przyrodniczy is a museum located in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.954795,
+                        51.32807
+                  ]
+            },
+            {
+                  "name": "Dawny Zajazd Pocztowy",
+                  "text": "Dawny Zajazd Pocztowy is a museum located in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.94658,
+                        51.32075
+                  ]
+            },
+            {
+                  "name": "Dom Kuncewiczów",
+                  "text": "Dom Kuncewiczów is a museum located in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.950593,
+                        51.316763
+                  ]
+            },
+            {
+                  "name": "Z fizyką za pan brat",
+                  "text": "Z fizyką za pan brat is a theme park located in Kazimierz Dolny.",
+                  "category": "recreational",
+                  "coords": [
+                        21.946063,
+                        51.323204
+                  ]
+            },
+            {
+                  "name": "Prywatne Muzeum Historii Ziem i Walk Nadwiślańskich w Wojszynie",
+                  "text": "Prywatne Muzeum Historii Ziem i Walk Nadwiślańskich w Wojszynie is a museum located in Kazimierz Dolny.",
+                  "category": "museum",
+                  "coords": [
+                        21.937154,
+                        51.344123
+                  ]
+            },
+            {
+                  "name": "Kazimierskie Alpaki",
+                  "text": "Kazimierskie Alpaki is a zoo located in Kazimierz Dolny.",
+                  "category": "recreational",
+                  "coords": [
+                        21.945905,
+                        51.313836
+                  ]
+            },
+            {
+                  "name": "Park Miliona Róż i Zabytków Kresowych",
+                  "text": "Park Miliona Róż i Zabytków Kresowych is a theme park located in Kazimierz Dolny.",
+                  "category": "recreational",
+                  "coords": [
+                        21.926865,
+                        51.317179
+                  ]
+            },
+            {
+                  "name": "Wzgórze Trzech Krzyży",
+                  "text": "Wzgórze Trzech Krzyży is a notable viewpoint located in Kazimierz Dolny.",
+                  "category": "natural",
+                  "coords": [
+                        21.95036,
+                        51.32188
+                  ]
+            },
+            {
+                  "name": "Baszta",
+                  "text": "Baszta is a notable attraction located in Kazimierz Dolny.",
+                  "category": "landmark",
+                  "coords": [
+                        21.952755,
+                        51.324734
+                  ]
+            },
+            {
+                  "name": "panorama Wisły",
+                  "text": "panorama Wisły is a viewpoint located in Kazimierz Dolny.",
+                  "category": "natural",
+                  "coords": [
+                        21.911236,
+                        51.311262
+                  ]
+            },
+            {
+                  "name": "Pomnik na Kirkucie",
+                  "text": "Pomnik na Kirkucie is a monument located in Kazimierz Dolny.",
+                  "category": "historical",
+                  "coords": [
+                        21.952807,
+                        51.313625
+                  ]
+            },
+            {
+                  "name": "Wąwóz Kwaskowa Góra",
+                  "text": "Wąwóz Kwaskowa Góra is an attraction located in Kazimierz Dolny.",
+                  "category": "landmark",
+                  "coords": [
+                        21.968872,
+                        51.311321
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Anny",
+                  "text": "Kościół pw. Świętej Anny is a place of worship located in Kazimierz Dolny.",
+                  "category": "religious",
+                  "coords": [
+                        21.949143,
+                        51.321133
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela i Świętego Bartłomieja",
+                  "text": "Kościół pw. Świętego Jana Chrzciciela i Świętego Bartłomieja is a notable place of worship located in Kazimierz Dolny.",
+                  "category": "religious",
+                  "coords": [
+                        21.948703,
+                        51.322793
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Zwiastowania Pańskiego",
+                  "text": "Kościół pw. Zwiastowania Pańskiego is a notable place of worship located in Kazimierz Dolny.",
+                  "category": "religious",
+                  "coords": [
+                        21.945151,
+                        51.320856
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "town",
     name: { de: "Kazimierz Dolny", hu: "Kazimierz Dolny", ro: "Kazimierz Dolny", en: "Kazimierz Dolny"},
@@ -1814,7 +5720,808 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-kwidzyn-cathedral-complex-history-v2.webp",
   },
   {
-    id: "poland-piotrkow-trybunalski-old-town-history-v2",
+    id: "poland-piotrkow-trybunalski-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zamek Królewski w Piotrkowie Trybunalskim",
+                  "text": "Historisches Königsschloss in Piotrków Trybunalski.",
+                  "category": "castle",
+                  "coords": [
+                        19.700764,
+                        51.409106
+                  ]
+            },
+            {
+                  "name": "Centrum Edukacji Browarniczej",
+                  "text": "Bildungszentrum für Brauereikunst in Piotrków Trybunalski.",
+                  "category": "museum",
+                  "coords": [
+                        19.695453,
+                        51.407971
+                  ]
+            },
+            {
+                  "name": "Muzeum Lodów",
+                  "text": "Ein Museum für die Geschichte der Eiskremherstellung.",
+                  "category": "museum",
+                  "coords": [
+                        19.696354,
+                        51.407954
+                  ]
+            },
+            {
+                  "name": "Słoneczko",
+                  "text": "Ein beliebter Strandbereich in der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.727001,
+                        51.408741
+                  ]
+            },
+            {
+                  "name": "Pałac Rudowskich",
+                  "text": "Ehemaliger prachtvoller Wohnsitz in Piotrków Trybunalski.",
+                  "category": "castle",
+                  "coords": [
+                        19.691457,
+                        51.404602
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Miejski",
+                  "text": "Städtische Bühne für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        19.690598,
+                        51.408137
+                  ]
+            },
+            {
+                  "name": "Dom Zakonny Zgromadzenia Sióstr św. Dominika",
+                  "text": "Kloster der Dominikanerinnen in Piotrków Trybunalski.",
+                  "category": "religious",
+                  "coords": [
+                        19.694115,
+                        51.409086
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny „Nad Bugajem”",
+                  "text": "Ein geschütztes Naturgebiet für ökologische Vielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        19.732577,
+                        51.409674
+                  ]
+            },
+            {
+                  "name": "Muzeum Fundacji Cor Ignis",
+                  "text": "Museum der Cor Ignis Stiftung.",
+                  "category": "museum",
+                  "coords": [
+                        19.683164,
+                        51.385365
+                  ]
+            },
+            {
+                  "name": "Park im. ks. Józefa Poniatowskiego",
+                  "text": "Großer Stadtpark, benannt nach Józef Poniatowski.",
+                  "category": "park",
+                  "coords": [
+                        19.692446,
+                        51.39877
+                  ]
+            },
+            {
+                  "name": "Podstawa radaru FuMG-65 Würzburg-Riese 1 (Perlhuhn)",
+                  "text": "Überreste einer historischen Radaranlage.",
+                  "category": "historical",
+                  "coords": [
+                        19.664436,
+                        51.39111
+                  ]
+            },
+            {
+                  "name": "Dawny dworzec i relikty Piotrkowskiej Kolei Dojazdowej",
+                  "text": "Historischer Bahnhof der lokalen Schmalspurbahn.",
+                  "category": "landmark",
+                  "coords": [
+                        19.682172,
+                        51.389283
+                  ]
+            },
+            {
+                  "name": "Piotrkowska Manufaktura z 1896 roku",
+                  "text": "Historisches Industriegebäude aus dem 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.721713,
+                        51.403655
+                  ]
+            },
+            {
+                  "name": "Cerkiew Wszystkich Świętych",
+                  "text": "Historische orthodoxe Kirche in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        19.689644,
+                        51.409275
+                  ]
+            },
+            {
+                  "name": "Kościół Podwyższenia Krzyża Świętego - Sanktuarium Matki Bożej Piotrkowskiej",
+                  "text": "Bedeutendes Heiligtum der Muttergottes.",
+                  "category": "religious",
+                  "coords": [
+                        19.692946,
+                        51.408401
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba Apostoła",
+                  "text": "Prächtige Basilika des Heiligen Jakobus.",
+                  "category": "religious",
+                  "coords": [
+                        19.697778,
+                        51.407716
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszego Serca Jezusowego",
+                  "text": "Kirche des Heiligsten Herzens Jesu.",
+                  "category": "religious",
+                  "coords": [
+                        19.675929,
+                        51.410141
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszej Maryi Panny Królowej Pokoju",
+                  "text": "Katholisches Gotteshaus unter dem Patronat Mariens.",
+                  "category": "religious",
+                  "coords": [
+                        19.66222,
+                        51.407783
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Jacka i św. Doroty",
+                  "text": "Historische Kirche der Heiligen Hyazinth und Dorothea.",
+                  "category": "religious",
+                  "coords": [
+                        19.695146,
+                        51.409851
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
+                  "text": "Kirche zu Ehren der Heimsuchung der Jungfrau Maria.",
+                  "category": "religious",
+                  "coords": [
+                        19.697105,
+                        51.402067
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Bolesnej",
+                  "text": "Gotteshaus der Schmerzhaften Muttergottes.",
+                  "category": "religious",
+                  "coords": [
+                        19.699151,
+                        51.402135
+                  ]
+            },
+            {
+                  "name": "Kościół Miłosierdzia Bożego",
+                  "text": "Kirche der Barmherzigkeit Gottes.",
+                  "category": "religious",
+                  "coords": [
+                        19.674886,
+                        51.423615
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek Królewski w Piotrkowie Trybunalskim",
+                  "text": "Történelmi királyi kastély Piotrków Trybunalskiban.",
+                  "category": "castle",
+                  "coords": [
+                        19.700764,
+                        51.409106
+                  ]
+            },
+            {
+                  "name": "Centrum Edukacji Browarniczej",
+                  "text": "Sörfőzési oktatóközpont Piotrków Trybunalskiban.",
+                  "category": "museum",
+                  "coords": [
+                        19.695453,
+                        51.407971
+                  ]
+            },
+            {
+                  "name": "Muzeum Lodów",
+                  "text": "A fagylaltkészítés történetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.696354,
+                        51.407954
+                  ]
+            },
+            {
+                  "name": "Słoneczko",
+                  "text": "Népszerű tengerparti szakasz a városban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.727001,
+                        51.408741
+                  ]
+            },
+            {
+                  "name": "Pałac Rudowskich",
+                  "text": "Egykori pompás rezidencia Piotrków Trybunalskiban.",
+                  "category": "castle",
+                  "coords": [
+                        19.691457,
+                        51.404602
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Miejski",
+                  "text": "Városi színpad kulturális rendezvényekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        19.690598,
+                        51.408137
+                  ]
+            },
+            {
+                  "name": "Dom Zakonny Zgromadzenia Sióstr św. Dominika",
+                  "text": "Dominikánus nővérek kolostora Piotrków Trybunalskiban.",
+                  "category": "religious",
+                  "coords": [
+                        19.694115,
+                        51.409086
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny „Nad Bugajem”",
+                  "text": "Védett természeti terület az ökológiai sokféleségért.",
+                  "category": "natural",
+                  "coords": [
+                        19.732577,
+                        51.409674
+                  ]
+            },
+            {
+                  "name": "Muzeum Fundacji Cor Ignis",
+                  "text": "A Cor Ignis Alapítvány múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        19.683164,
+                        51.385365
+                  ]
+            },
+            {
+                  "name": "Park im. ks. Józefa Poniatowskiego",
+                  "text": "Nagy városi park, Józef Poniatowskiról elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        19.692446,
+                        51.39877
+                  ]
+            },
+            {
+                  "name": "Podstawa radaru FuMG-65 Würzburg-Riese 1 (Perlhuhn)",
+                  "text": "Egy történelmi radarállomás maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        19.664436,
+                        51.39111
+                  ]
+            },
+            {
+                  "name": "Dawny dworzec i relikty Piotrkowskiej Kolei Dojazdowej",
+                  "text": "A helyi kisvasút történelmi állomása.",
+                  "category": "landmark",
+                  "coords": [
+                        19.682172,
+                        51.389283
+                  ]
+            },
+            {
+                  "name": "Piotrkowska Manufaktura z 1896 roku",
+                  "text": "Történelmi ipari épület a 19. századból.",
+                  "category": "landmark",
+                  "coords": [
+                        19.721713,
+                        51.403655
+                  ]
+            },
+            {
+                  "name": "Cerkiew Wszystkich Świętych",
+                  "text": "Történelmi ortodox templom a városban.",
+                  "category": "religious",
+                  "coords": [
+                        19.689644,
+                        51.409275
+                  ]
+            },
+            {
+                  "name": "Kościół Podwyższenia Krzyża Świętego - Sanktuarium Matki Bożej Piotrkowskiej",
+                  "text": "A Szűzanya jelentős kegyhelye.",
+                  "category": "religious",
+                  "coords": [
+                        19.692946,
+                        51.408401
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba Apostoła",
+                  "text": "Szent Jakab pompás bazilikája.",
+                  "category": "religious",
+                  "coords": [
+                        19.697778,
+                        51.407716
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszego Serca Jezusowego",
+                  "text": "Jézus Szent Szíve templom.",
+                  "category": "religious",
+                  "coords": [
+                        19.675929,
+                        51.410141
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszej Maryi Panny Królowej Pokoju",
+                  "text": "Mária oltalma alatt álló katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        19.66222,
+                        51.407783
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Jacka i św. Doroty",
+                  "text": "Szent Jácint és Szent Dorottya történelmi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        19.695146,
+                        51.409851
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
+                  "text": "Templom Szűz Mária látogatásának tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        19.697105,
+                        51.402067
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Bolesnej",
+                  "text": "A Fájdalmas Szűzanya temploma.",
+                  "category": "religious",
+                  "coords": [
+                        19.699151,
+                        51.402135
+                  ]
+            },
+            {
+                  "name": "Kościół Miłosierdzia Bożego",
+                  "text": "Isteni Irgalmasság templom.",
+                  "category": "religious",
+                  "coords": [
+                        19.674886,
+                        51.423615
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek Królewski w Piotrkowie Trybunalskim",
+                  "text": "Castel regal istoric în Piotrków Trybunalski.",
+                  "category": "castle",
+                  "coords": [
+                        19.700764,
+                        51.409106
+                  ]
+            },
+            {
+                  "name": "Centrum Edukacji Browarniczej",
+                  "text": "Centru educațional pentru arta berii în Piotrków Trybunalski.",
+                  "category": "museum",
+                  "coords": [
+                        19.695453,
+                        51.407971
+                  ]
+            },
+            {
+                  "name": "Muzeum Lodów",
+                  "text": "Un muzeu dedicat istoriei preparării înghețatei.",
+                  "category": "museum",
+                  "coords": [
+                        19.696354,
+                        51.407954
+                  ]
+            },
+            {
+                  "name": "Słoneczko",
+                  "text": "O zonă de plajă populară în oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        19.727001,
+                        51.408741
+                  ]
+            },
+            {
+                  "name": "Pałac Rudowskich",
+                  "text": "Fostă reședință impunătoare în Piotrków Trybunalski.",
+                  "category": "castle",
+                  "coords": [
+                        19.691457,
+                        51.404602
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Miejski",
+                  "text": "Scenă municipală pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        19.690598,
+                        51.408137
+                  ]
+            },
+            {
+                  "name": "Dom Zakonny Zgromadzenia Sióstr św. Dominika",
+                  "text": "Mănăstire a dominicanelor în Piotrków Trybunalski.",
+                  "category": "religious",
+                  "coords": [
+                        19.694115,
+                        51.409086
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny „Nad Bugajem”",
+                  "text": "O zonă naturală protejată pentru diversitate ecologică.",
+                  "category": "natural",
+                  "coords": [
+                        19.732577,
+                        51.409674
+                  ]
+            },
+            {
+                  "name": "Muzeum Fundacji Cor Ignis",
+                  "text": "Muzeul Fundației Cor Ignis.",
+                  "category": "museum",
+                  "coords": [
+                        19.683164,
+                        51.385365
+                  ]
+            },
+            {
+                  "name": "Park im. ks. Józefa Poniatowskiego",
+                  "text": "Mare parc urban, numit după Józef Poniatowski.",
+                  "category": "park",
+                  "coords": [
+                        19.692446,
+                        51.39877
+                  ]
+            },
+            {
+                  "name": "Podstawa radaru FuMG-65 Würzburg-Riese 1 (Perlhuhn)",
+                  "text": "Rămășițele unei stații radar istorice.",
+                  "category": "historical",
+                  "coords": [
+                        19.664436,
+                        51.39111
+                  ]
+            },
+            {
+                  "name": "Dawny dworzec i relikty Piotrkowskiej Kolei Dojazdowej",
+                  "text": "Gara istorică a căii ferate locale cu ecartament îngust.",
+                  "category": "landmark",
+                  "coords": [
+                        19.682172,
+                        51.389283
+                  ]
+            },
+            {
+                  "name": "Piotrkowska Manufaktura z 1896 roku",
+                  "text": "Clădire industrială istorică din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        19.721713,
+                        51.403655
+                  ]
+            },
+            {
+                  "name": "Cerkiew Wszystkich Świętych",
+                  "text": "Biserică ortodoxă istorică în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        19.689644,
+                        51.409275
+                  ]
+            },
+            {
+                  "name": "Kościół Podwyższenia Krzyża Świętego - Sanktuarium Matki Bożej Piotrkowskiej",
+                  "text": "Sanctuar important al Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        19.692946,
+                        51.408401
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba Apostoła",
+                  "text": "Bazilică magnifică a Sfântului Iacob.",
+                  "category": "religious",
+                  "coords": [
+                        19.697778,
+                        51.407716
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszego Serca Jezusowego",
+                  "text": "Biserica Preasfintei Inimi a lui Isus.",
+                  "category": "religious",
+                  "coords": [
+                        19.675929,
+                        51.410141
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszej Maryi Panny Królowej Pokoju",
+                  "text": "Lăcaș de cult catolic sub patronajul Mariei.",
+                  "category": "religious",
+                  "coords": [
+                        19.66222,
+                        51.407783
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Jacka i św. Doroty",
+                  "text": "Biserica istorică a Sfinților Iachint și Doroteea.",
+                  "category": "religious",
+                  "coords": [
+                        19.695146,
+                        51.409851
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
+                  "text": "Biserică în cinstea Vizitării Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        19.697105,
+                        51.402067
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Bolesnej",
+                  "text": "Lăcaș de cult al Maicii Domnului Îndurerate.",
+                  "category": "religious",
+                  "coords": [
+                        19.699151,
+                        51.402135
+                  ]
+            },
+            {
+                  "name": "Kościół Miłosierdzia Bożego",
+                  "text": "Biserica Milostivirii Divine.",
+                  "category": "religious",
+                  "coords": [
+                        19.674886,
+                        51.423615
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamek Królewski w Piotrkowie Trybunalskim",
+                  "text": "Historic royal castle in Piotrków Trybunalski.",
+                  "category": "castle",
+                  "coords": [
+                        19.700764,
+                        51.409106
+                  ]
+            },
+            {
+                  "name": "Centrum Edukacji Browarniczej",
+                  "text": "Educational center for the art of brewing in Piotrków Trybunalski.",
+                  "category": "museum",
+                  "coords": [
+                        19.695453,
+                        51.407971
+                  ]
+            },
+            {
+                  "name": "Muzeum Lodów",
+                  "text": "A museum dedicated to the history of ice cream making.",
+                  "category": "museum",
+                  "coords": [
+                        19.696354,
+                        51.407954
+                  ]
+            },
+            {
+                  "name": "Słoneczko",
+                  "text": "A popular beach area in the city.",
+                  "category": "recreational",
+                  "coords": [
+                        19.727001,
+                        51.408741
+                  ]
+            },
+            {
+                  "name": "Pałac Rudowskich",
+                  "text": "Former grand residence in Piotrków Trybunalski.",
+                  "category": "castle",
+                  "coords": [
+                        19.691457,
+                        51.404602
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Miejski",
+                  "text": "Municipal stage for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        19.690598,
+                        51.408137
+                  ]
+            },
+            {
+                  "name": "Dom Zakonny Zgromadzenia Sióstr św. Dominika",
+                  "text": "Convent of the Dominican Sisters in Piotrków Trybunalski.",
+                  "category": "religious",
+                  "coords": [
+                        19.694115,
+                        51.409086
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny „Nad Bugajem”",
+                  "text": "A protected natural area for ecological diversity.",
+                  "category": "natural",
+                  "coords": [
+                        19.732577,
+                        51.409674
+                  ]
+            },
+            {
+                  "name": "Muzeum Fundacji Cor Ignis",
+                  "text": "Museum of the Cor Ignis Foundation.",
+                  "category": "museum",
+                  "coords": [
+                        19.683164,
+                        51.385365
+                  ]
+            },
+            {
+                  "name": "Park im. ks. Józefa Poniatowskiego",
+                  "text": "Large city park named after Józef Poniatowski.",
+                  "category": "park",
+                  "coords": [
+                        19.692446,
+                        51.39877
+                  ]
+            },
+            {
+                  "name": "Podstawa radaru FuMG-65 Würzburg-Riese 1 (Perlhuhn)",
+                  "text": "Remains of a historical radar station.",
+                  "category": "historical",
+                  "coords": [
+                        19.664436,
+                        51.39111
+                  ]
+            },
+            {
+                  "name": "Dawny dworzec i relikty Piotrkowskiej Kolei Dojazdowej",
+                  "text": "Historic station of the local narrow-gauge railway.",
+                  "category": "landmark",
+                  "coords": [
+                        19.682172,
+                        51.389283
+                  ]
+            },
+            {
+                  "name": "Piotrkowska Manufaktura z 1896 roku",
+                  "text": "Historic industrial building from the 19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        19.721713,
+                        51.403655
+                  ]
+            },
+            {
+                  "name": "Cerkiew Wszystkich Świętych",
+                  "text": "Historic orthodox church in the city.",
+                  "category": "religious",
+                  "coords": [
+                        19.689644,
+                        51.409275
+                  ]
+            },
+            {
+                  "name": "Kościół Podwyższenia Krzyża Świętego - Sanktuarium Matki Bożej Piotrkowskiej",
+                  "text": "Significant sanctuary of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        19.692946,
+                        51.408401
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba Apostoła",
+                  "text": "Magnificent basilica of Saint James.",
+                  "category": "religious",
+                  "coords": [
+                        19.697778,
+                        51.407716
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszego Serca Jezusowego",
+                  "text": "Church of the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        19.675929,
+                        51.410141
+                  ]
+            },
+            {
+                  "name": "Kościół Najświętszej Maryi Panny Królowej Pokoju",
+                  "text": "Catholic place of worship under the patronage of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        19.66222,
+                        51.407783
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Jacka i św. Doroty",
+                  "text": "Historic church of Saints Hyacinth and Dorothy.",
+                  "category": "religious",
+                  "coords": [
+                        19.695146,
+                        51.409851
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
+                  "text": "Church in honor of the Visitation of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        19.697105,
+                        51.402067
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Bolesnej",
+                  "text": "Place of worship of the Sorrowful Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        19.699151,
+                        51.402135
+                  ]
+            },
+            {
+                  "name": "Kościół Miłosierdzia Bożego",
+                  "text": "Church of the Divine Mercy.",
+                  "category": "religious",
+                  "coords": [
+                        19.674886,
+                        51.423615
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PL",
     name: { de: "Altstadt von Piotrków Trybunalski", hu: "Piotrków Trybunalski óvárosa", ro: "Centrul vechi din Piotrków Trybunalski", en: "Piotrków Trybunalski Old Town" },
@@ -2084,7 +6791,268 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-brzeg-castle-history-v2.webp",
   },
   {
-    id: "poland-koscian-old-town-history-v2",
+    id: "poland-koscian-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grodzisko Kurza Góra",
+                  "text": "Grodzisko Kurza Góra ist eine archäologische Stätte in Altstadt von Kościan.",
+                  "category": "historical",
+                  "coords": [
+                        16.660143,
+                        52.064794
+                  ]
+            },
+            {
+                  "name": "Muzeum Regionalne w Kościanie",
+                  "text": "Muzeum Regionalne w Kościanie ist ein Museum in Altstadt von Kościan.",
+                  "category": "museum",
+                  "coords": [
+                        16.645239,
+                        52.08632
+                  ]
+            },
+            {
+                  "name": "Kościański Ośrodek Kultury",
+                  "text": "Kościański Ośrodek Kultury ist ein Kunstzentrum in Altstadt von Kościan.",
+                  "category": "cultural",
+                  "coords": [
+                        16.639081,
+                        52.088657
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia NMP",
+                  "text": "Die Kościół pw. Wniebowzięcia NMP ist eine bekannte Kirche in Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.6456,
+                        52.085383
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Pana Jezusa",
+                  "text": "Kościół pw. Pana Jezusa ist eine historische Kirche in der Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.644521,
+                        52.087464
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "Kościół pw. Ducha Świętego ist eine Kirche in der Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.649372,
+                        52.088502
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Najświętszej Maryi Panny Anielskiej",
+                  "text": "Kaplica pw. Najświętszej Maryi Panny Anielskiej ist eine Kultstätte in der Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.636736,
+                        52.08431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grodzisko Kurza Góra",
+                  "text": "A Grodzisko Kurza Góra egy régészeti lelőhely az Altstadt von Kościan területén.",
+                  "category": "historical",
+                  "coords": [
+                        16.660143,
+                        52.064794
+                  ]
+            },
+            {
+                  "name": "Muzeum Regionalne w Kościanie",
+                  "text": "A Muzeum Regionalne w Kościanie egy múzeum az Altstadt von Kościan területén.",
+                  "category": "museum",
+                  "coords": [
+                        16.645239,
+                        52.08632
+                  ]
+            },
+            {
+                  "name": "Kościański Ośrodek Kultury",
+                  "text": "A Kościański Ośrodek Kultury egy művészeti központ az Altstadt von Kościan területén.",
+                  "category": "cultural",
+                  "coords": [
+                        16.639081,
+                        52.088657
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia NMP",
+                  "text": "A Kościół pw. Wniebowzięcia NMP egy ismert templom az Altstadt von Kościan területén.",
+                  "category": "religious",
+                  "coords": [
+                        16.6456,
+                        52.085383
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Pana Jezusa",
+                  "text": "A Kościół pw. Pana Jezusa egy történelmi templom Altstadt von Kościanban.",
+                  "category": "religious",
+                  "coords": [
+                        16.644521,
+                        52.087464
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "A Kościół pw. Ducha Świętego egy templom Altstadt von Kościanban.",
+                  "category": "religious",
+                  "coords": [
+                        16.649372,
+                        52.088502
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Najświętszej Maryi Panny Anielskiej",
+                  "text": "A Kaplica pw. Najświętszej Maryi Panny Anielskiej egy istentiszteleti hely Altstadt von Kościanban.",
+                  "category": "religious",
+                  "coords": [
+                        16.636736,
+                        52.08431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grodzisko Kurza Góra",
+                  "text": "Grodzisko Kurza Góra este un sit arheologic în Altstadt von Kościan.",
+                  "category": "historical",
+                  "coords": [
+                        16.660143,
+                        52.064794
+                  ]
+            },
+            {
+                  "name": "Muzeum Regionalne w Kościanie",
+                  "text": "Muzeum Regionalne w Kościanie este un muzeu în Altstadt von Kościan.",
+                  "category": "museum",
+                  "coords": [
+                        16.645239,
+                        52.08632
+                  ]
+            },
+            {
+                  "name": "Kościański Ośrodek Kultury",
+                  "text": "Kościański Ośrodek Kultury este un centru de artă în Altstadt von Kościan.",
+                  "category": "cultural",
+                  "coords": [
+                        16.639081,
+                        52.088657
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia NMP",
+                  "text": "Kościół pw. Wniebowzięcia NMP este o biserică notabilă în Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.6456,
+                        52.085383
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Pana Jezusa",
+                  "text": "Kościół pw. Pana Jezusa este o biserică istorică din Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.644521,
+                        52.087464
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "Kościół pw. Ducha Świętego este o biserică din Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.649372,
+                        52.088502
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Najświętszej Maryi Panny Anielskiej",
+                  "text": "Kaplica pw. Najświętszej Maryi Panny Anielskiej este un lăcaș de cult din Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.636736,
+                        52.08431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grodzisko Kurza Góra",
+                  "text": "Grodzisko Kurza Góra is an archaeological site located in Altstadt von Kościan.",
+                  "category": "historical",
+                  "coords": [
+                        16.660143,
+                        52.064794
+                  ]
+            },
+            {
+                  "name": "Muzeum Regionalne w Kościanie",
+                  "text": "Muzeum Regionalne w Kościanie is a museum located in Altstadt von Kościan.",
+                  "category": "museum",
+                  "coords": [
+                        16.645239,
+                        52.08632
+                  ]
+            },
+            {
+                  "name": "Kościański Ośrodek Kultury",
+                  "text": "Kościański Ośrodek Kultury is an arts centre located in Altstadt von Kościan.",
+                  "category": "cultural",
+                  "coords": [
+                        16.639081,
+                        52.088657
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia NMP",
+                  "text": "The Kościół pw. Wniebowzięcia NMP is a notable church located in Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.6456,
+                        52.085383
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Pana Jezusa",
+                  "text": "Kościół pw. Pana Jezusa is a historic church located in the Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.644521,
+                        52.087464
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ducha Świętego",
+                  "text": "Kościół pw. Ducha Świętego is a church situated in the Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.649372,
+                        52.088502
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Najświętszej Maryi Panny Anielskiej",
+                  "text": "Kaplica pw. Najświętszej Maryi Panny Anielskiej is a place of worship in the Altstadt von Kościan.",
+                  "category": "religious",
+                  "coords": [
+                        16.636736,
+                        52.08431
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Kościan", hu: "Kościan óvárosa", ro: "Centrul vechi din Kościan", en: "Kościan Old Town" },
@@ -2669,7 +7637,412 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-wieliczka-historical-salt-works-history-v2.webp",
   },
   {
-    id: "poland-chojnice-old-town-history-v2",
+    id: "poland-chojnice-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach",
+                  "text": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach ist ein bedeutendes Regionalmuseum in der Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.573545,
+                        53.690427
+                  ]
+            },
+            {
+                  "name": "Park Wodny",
+                  "text": "Park Wodny ist ein Wasserpark in der Altstadt von Chojnice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.567953,
+                        53.69898
+                  ]
+            },
+            {
+                  "name": "Muzeum Historyczno-Etnograficzne w Chojnicach",
+                  "text": "Muzeum Historyczno-Etnograficzne w Chojnicach ist ein Museum in der Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.559154,
+                        53.695357
+                  ]
+            },
+            {
+                  "name": "Eksperymentarium",
+                  "text": "Eksperymentarium ist ein Museum in der Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.56757,
+                        53.691428
+                  ]
+            },
+            {
+                  "name": "Galeria Muzeum Janusza Trzebiatowskiego",
+                  "text": "Galeria Muzeum Janusza Trzebiatowskiego ist ein Museum in der Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.560805,
+                        53.694293
+                  ]
+            },
+            {
+                  "name": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945",
+                  "text": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945 ist ein Denkmal in der Altstadt von Chojnice.",
+                  "category": "historical",
+                  "coords": [
+                        17.567112,
+                        53.694715
+                  ]
+            },
+            {
+                  "name": "W hołdzie M. Kopernikowi",
+                  "text": "W hołdzie M. Kopernikowi ist ein Denkmal in der Altstadt von Chojnice.",
+                  "category": "historical",
+                  "coords": [
+                        17.562569,
+                        53.692341
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "Kościół pw. Matki Bożej Królowej Polski ist eine Kultstätte in der Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.575214,
+                        53.697677
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
+                  "text": "Kościół pw. Ścięcia Świętego Jana Chrzciciela ist eine historische Basilika in der Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.56342,
+                        53.695228
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier",
+                  "text": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier ist eine anerkannte Kultstätte in der Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.551312,
+                        53.688906
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "Kościół pw. Świętej Jadwigi Królowej ist eine Kultstätte in der Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.54845,
+                        53.708366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach",
+                  "text": "A Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach egy jelentős regionális múzeum az Altstadt von Chojnice területén.",
+                  "category": "museum",
+                  "coords": [
+                        17.573545,
+                        53.690427
+                  ]
+            },
+            {
+                  "name": "Park Wodny",
+                  "text": "A Park Wodny egy vízipark az Altstadt von Chojnice területén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.567953,
+                        53.69898
+                  ]
+            },
+            {
+                  "name": "Muzeum Historyczno-Etnograficzne w Chojnicach",
+                  "text": "A Muzeum Historyczno-Etnograficzne w Chojnicach egy múzeum az Altstadt von Chojnice területén.",
+                  "category": "museum",
+                  "coords": [
+                        17.559154,
+                        53.695357
+                  ]
+            },
+            {
+                  "name": "Eksperymentarium",
+                  "text": "Az Eksperymentarium egy múzeum az Altstadt von Chojnice területén.",
+                  "category": "museum",
+                  "coords": [
+                        17.56757,
+                        53.691428
+                  ]
+            },
+            {
+                  "name": "Galeria Muzeum Janusza Trzebiatowskiego",
+                  "text": "A Galeria Muzeum Janusza Trzebiatowskiego egy múzeum az Altstadt von Chojnice területén.",
+                  "category": "museum",
+                  "coords": [
+                        17.560805,
+                        53.694293
+                  ]
+            },
+            {
+                  "name": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945",
+                  "text": "A Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945 egy emlékmű az Altstadt von Chojnice területén.",
+                  "category": "historical",
+                  "coords": [
+                        17.567112,
+                        53.694715
+                  ]
+            },
+            {
+                  "name": "W hołdzie M. Kopernikowi",
+                  "text": "A W hołdzie M. Kopernikowi egy emlékmű az Altstadt von Chojnice területén.",
+                  "category": "historical",
+                  "coords": [
+                        17.562569,
+                        53.692341
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "A Kościół pw. Matki Bożej Królowej Polski egy istentiszteleti hely az Altstadt von Chojnice területén.",
+                  "category": "religious",
+                  "coords": [
+                        17.575214,
+                        53.697677
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
+                  "text": "A Kościół pw. Ścięcia Świętego Jana Chrzciciela egy történelmi bazilika az Altstadt von Chojnice területén.",
+                  "category": "religious",
+                  "coords": [
+                        17.56342,
+                        53.695228
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier",
+                  "text": "A Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier egy ismert istentiszteleti hely az Altstadt von Chojnice területén.",
+                  "category": "religious",
+                  "coords": [
+                        17.551312,
+                        53.688906
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "A Kościół pw. Świętej Jadwigi Królowej egy istentiszteleti hely az Altstadt von Chojnice területén.",
+                  "category": "religious",
+                  "coords": [
+                        17.54845,
+                        53.708366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach",
+                  "text": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach este un muzeu regional important situat în Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.573545,
+                        53.690427
+                  ]
+            },
+            {
+                  "name": "Park Wodny",
+                  "text": "Park Wodny este un parc acvatic situat în Altstadt von Chojnice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.567953,
+                        53.69898
+                  ]
+            },
+            {
+                  "name": "Muzeum Historyczno-Etnograficzne w Chojnicach",
+                  "text": "Muzeum Historyczno-Etnograficzne w Chojnicach este un muzeu situat în Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.559154,
+                        53.695357
+                  ]
+            },
+            {
+                  "name": "Eksperymentarium",
+                  "text": "Eksperymentarium este un muzeu situat în Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.56757,
+                        53.691428
+                  ]
+            },
+            {
+                  "name": "Galeria Muzeum Janusza Trzebiatowskiego",
+                  "text": "Galeria Muzeum Janusza Trzebiatowskiego este un muzeu situat în Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.560805,
+                        53.694293
+                  ]
+            },
+            {
+                  "name": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945",
+                  "text": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945 este un monument situat în Altstadt von Chojnice.",
+                  "category": "historical",
+                  "coords": [
+                        17.567112,
+                        53.694715
+                  ]
+            },
+            {
+                  "name": "W hołdzie M. Kopernikowi",
+                  "text": "W hołdzie M. Kopernikowi este un monument situat în Altstadt von Chojnice.",
+                  "category": "historical",
+                  "coords": [
+                        17.562569,
+                        53.692341
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "Kościół pw. Matki Bożej Królowej Polski este un lăcaș de cult situat în Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.575214,
+                        53.697677
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
+                  "text": "Kościół pw. Ścięcia Świętego Jana Chrzciciela este o biserică istorică tip bazilică situată în Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.56342,
+                        53.695228
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier",
+                  "text": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier este un lăcaș de cult recunoscut situat în Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.551312,
+                        53.688906
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "Kościół pw. Świętej Jadwigi Królowej este un lăcaș de cult situat în Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.54845,
+                        53.708366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach",
+                  "text": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach is an important regional museum located in Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.573545,
+                        53.690427
+                  ]
+            },
+            {
+                  "name": "Park Wodny",
+                  "text": "Park Wodny is a water park located in Altstadt von Chojnice.",
+                  "category": "recreational",
+                  "coords": [
+                        17.567953,
+                        53.69898
+                  ]
+            },
+            {
+                  "name": "Muzeum Historyczno-Etnograficzne w Chojnicach",
+                  "text": "Muzeum Historyczno-Etnograficzne w Chojnicach is a museum located in Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.559154,
+                        53.695357
+                  ]
+            },
+            {
+                  "name": "Eksperymentarium",
+                  "text": "Eksperymentarium is a museum located in Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.56757,
+                        53.691428
+                  ]
+            },
+            {
+                  "name": "Galeria Muzeum Janusza Trzebiatowskiego",
+                  "text": "Galeria Muzeum Janusza Trzebiatowskiego is a museum located in Altstadt von Chojnice.",
+                  "category": "museum",
+                  "coords": [
+                        17.560805,
+                        53.694293
+                  ]
+            },
+            {
+                  "name": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945",
+                  "text": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945 is a monument located in Altstadt von Chojnice.",
+                  "category": "historical",
+                  "coords": [
+                        17.567112,
+                        53.694715
+                  ]
+            },
+            {
+                  "name": "W hołdzie M. Kopernikowi",
+                  "text": "W hołdzie M. Kopernikowi is a monument located in Altstadt von Chojnice.",
+                  "category": "historical",
+                  "coords": [
+                        17.562569,
+                        53.692341
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "Kościół pw. Matki Bożej Królowej Polski is a place of worship located in Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.575214,
+                        53.697677
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
+                  "text": "Kościół pw. Ścięcia Świętego Jana Chrzciciela is a historic basilica church located in Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.56342,
+                        53.695228
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier",
+                  "text": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier is a recognized place of worship located in Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.551312,
+                        53.688906
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Jadwigi Królowej",
+                  "text": "Kościół pw. Świętej Jadwigi Królowej is a place of worship located in Altstadt von Chojnice.",
+                  "category": "religious",
+                  "coords": [
+                        17.54845,
+                        53.708366
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Chojnice", hu: "Chojnice óvárosa", ro: "Centrul vechi din Chojnice", en: "Chojnice Old Town" },
@@ -2804,7 +8177,880 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-glogow-castle-history-v2.webp",
   },
   {
-    id: "poland-krosno-old-town-history-v2",
+    id: "poland-krosno-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Misyjne Sióstr Klawerianek",
+                  "text": "Museum mit religiösen Artefakten der Klawerianerinnen.",
+                  "category": "museum",
+                  "coords": [
+                        21.761133,
+                        49.692247
+                  ]
+            },
+            {
+                  "name": "Muzeum Podkarpackie",
+                  "text": "Hauptmuseum zur Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        21.763557,
+                        49.695641
+                  ]
+            },
+            {
+                  "name": "Muzeum Podkarpackich Pól Bitewnych",
+                  "text": "Museum für militärhistorische Funde in Krosno.",
+                  "category": "museum",
+                  "coords": [
+                        21.753337,
+                        49.687898
+                  ]
+            },
+            {
+                  "name": "Muzeum Motoryzacji",
+                  "text": "Technikmuseum für historische Fahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        21.744196,
+                        49.698203
+                  ]
+            },
+            {
+                  "name": "Teatr s.tr.a.c.h.",
+                  "text": "Kulturort für moderne Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.754578,
+                        49.69649
+                  ]
+            },
+            {
+                  "name": "Muzeum ks. J. Popiełuszki",
+                  "text": "Gedenkmuseum für Pater Popiełuszko in Krosno.",
+                  "category": "museum",
+                  "coords": [
+                        21.774972,
+                        49.699569
+                  ]
+            },
+            {
+                  "name": "Linowy Park Przygody",
+                  "text": "Abenteuer- und Kletterpark für die Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        21.76384,
+                        49.701727
+                  ]
+            },
+            {
+                  "name": "Piwnice Przedprożne CDS",
+                  "text": "Historische Kellergewölbe und Ausstellungsräume.",
+                  "category": "museum",
+                  "coords": [
+                        21.764577,
+                        49.693269
+                  ]
+            },
+            {
+                  "name": "ParkMani",
+                  "text": "Freizeitpark mit Unterhaltungsangeboten für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726593,
+                        49.7072
+                  ]
+            },
+            {
+                  "name": "Pałac Kaczkowskich",
+                  "text": "Historisches Schlossgebäude der Familie Kaczkowski.",
+                  "category": "castle",
+                  "coords": [
+                        21.767025,
+                        49.685907
+                  ]
+            },
+            {
+                  "name": "Centrum Dziedzictwa Szkła",
+                  "text": "Interaktives Museum der Glaskunst in Krosno.",
+                  "category": "museum",
+                  "coords": [
+                        21.766081,
+                        49.694504
+                  ]
+            },
+            {
+                  "name": "Jan Paweł II",
+                  "text": "Denkmal zu Ehren von Papst Johannes Paul II.",
+                  "category": "historical",
+                  "coords": [
+                        21.771616,
+                        49.678452
+                  ]
+            },
+            {
+                  "name": "Pomnik męczenników Matki Bożej",
+                  "text": "Denkmal für die Märtyrer der Muttergottes.",
+                  "category": "historical",
+                  "coords": [
+                        21.767592,
+                        49.691924
+                  ]
+            },
+            {
+                  "name": "Ruiny skoczni narciarskiej",
+                  "text": "Überreste einer ehemaligen Skisprungschanze.",
+                  "category": "historical",
+                  "coords": [
+                        21.770204,
+                        49.701157
+                  ]
+            },
+            {
+                  "name": "Dinozaury",
+                  "text": "Themenattraktion für Kinder und Dino-Fans.",
+                  "category": "landmark",
+                  "coords": [
+                        21.759958,
+                        49.68583
+                  ]
+            },
+            {
+                  "name": "Fragment murów obronnych",
+                  "text": "Restaurierte Abschnitte der Stadtmauer.",
+                  "category": "landmark",
+                  "coords": [
+                        21.76431,
+                        49.692242
+                  ]
+            },
+            {
+                  "name": "Look Like Art",
+                  "text": "Galerie für moderne Kunst und Design.",
+                  "category": "cultural",
+                  "coords": [
+                        21.745043,
+                        49.708017
+                  ]
+            },
+            {
+                  "name": "Samolot Su-22",
+                  "text": "Ausgestelltes Kampfflugzeug vom Typ Su-22.",
+                  "category": "landmark",
+                  "coords": [
+                        21.746758,
+                        49.686275
+                  ]
+            },
+            {
+                  "name": "Chata",
+                  "text": "Traditionelle Hütte als lokales Ausflugsziel.",
+                  "category": "landmark",
+                  "coords": [
+                        21.747558,
+                        49.694507
+                  ]
+            },
+            {
+                  "name": "Pałac Trzecieskich",
+                  "text": "Ein Herrenhaus in Krosno.",
+                  "category": "historical",
+                  "coords": [
+                        21.72466,
+                        49.702557
+                  ]
+            },
+            {
+                  "name": "Wieża Farna",
+                  "text": "Eine bekannte Sehenswürdigkeit in Krosno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.764231,
+                        49.694354
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa",
+                  "text": "Ein Gradierwerk zur Erholung in Krosno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.768635,
+                        49.695291
+                  ]
+            },
+            {
+                  "name": "Kościół Nawiedzenia Najśw. Maryi Panny OO. Franciszkanie",
+                  "text": "Ein Franziskanerkloster mit Kirche in Krosno.",
+                  "category": "religious",
+                  "coords": [
+                        21.766723,
+                        49.693596
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "Eine moderne Kirche in Krosno.",
+                  "category": "religious",
+                  "coords": [
+                        21.722166,
+                        49.701527
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Misyjne Sióstr Klawerianek",
+                  "text": "A Klawerianerinnák vallási tárgyait bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.761133,
+                        49.692247
+                  ]
+            },
+            {
+                  "name": "Muzeum Podkarpackie",
+                  "text": "A régió történetével és kultúrájával foglalkozó főmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.763557,
+                        49.695641
+                  ]
+            },
+            {
+                  "name": "Muzeum Podkarpackich Pól Bitewnych",
+                  "text": "Katonai történelmi leletek múzeuma Krosnóban.",
+                  "category": "museum",
+                  "coords": [
+                        21.753337,
+                        49.687898
+                  ]
+            },
+            {
+                  "name": "Muzeum Motoryzacji",
+                  "text": "Technikai múzeum történelmi járművekkel.",
+                  "category": "museum",
+                  "coords": [
+                        21.744196,
+                        49.698203
+                  ]
+            },
+            {
+                  "name": "Teatr s.tr.a.c.h.",
+                  "text": "Kulturális helyszín modern színházi előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        21.754578,
+                        49.69649
+                  ]
+            },
+            {
+                  "name": "Muzeum ks. J. Popiełuszki",
+                  "text": "Popiełuszko atya emlékmúzeuma Krosnóban.",
+                  "category": "museum",
+                  "coords": [
+                        21.774972,
+                        49.699569
+                  ]
+            },
+            {
+                  "name": "Linowy Park Przygody",
+                  "text": "Kaland- és mászópark szabadidős tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        21.76384,
+                        49.701727
+                  ]
+            },
+            {
+                  "name": "Piwnice Przedprożne CDS",
+                  "text": "Történelmi pinceboltívek és kiállítótermek.",
+                  "category": "museum",
+                  "coords": [
+                        21.764577,
+                        49.693269
+                  ]
+            },
+            {
+                  "name": "ParkMani",
+                  "text": "Vidámpark családi szórakozási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726593,
+                        49.7072
+                  ]
+            },
+            {
+                  "name": "Pałac Kaczkowskich",
+                  "text": "A Kaczkowski család történelmi kastélyépülete.",
+                  "category": "castle",
+                  "coords": [
+                        21.767025,
+                        49.685907
+                  ]
+            },
+            {
+                  "name": "Centrum Dziedzictwa Szkła",
+                  "text": "Interaktív üvegművészeti múzeum Krosnóban.",
+                  "category": "museum",
+                  "coords": [
+                        21.766081,
+                        49.694504
+                  ]
+            },
+            {
+                  "name": "Jan Paweł II",
+                  "text": "II. János Pál pápa tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        21.771616,
+                        49.678452
+                  ]
+            },
+            {
+                  "name": "Pomnik męczenników Matki Bożej",
+                  "text": "A Szűzanya mártírjainak emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        21.767592,
+                        49.691924
+                  ]
+            },
+            {
+                  "name": "Ruiny skoczni narciarskiej",
+                  "text": "Egykori síugró sánc maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        21.770204,
+                        49.701157
+                  ]
+            },
+            {
+                  "name": "Dinozaury",
+                  "text": "Tematikus látványosság gyerekeknek és dinórajongóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        21.759958,
+                        49.68583
+                  ]
+            },
+            {
+                  "name": "Fragment murów obronnych",
+                  "text": "A városfal helyreállított szakaszai.",
+                  "category": "landmark",
+                  "coords": [
+                        21.76431,
+                        49.692242
+                  ]
+            },
+            {
+                  "name": "Look Like Art",
+                  "text": "Modern művészeti és formatervezési galéria.",
+                  "category": "cultural",
+                  "coords": [
+                        21.745043,
+                        49.708017
+                  ]
+            },
+            {
+                  "name": "Samolot Su-22",
+                  "text": "Kiállított Su-22 típusú vadászrepülőgép.",
+                  "category": "landmark",
+                  "coords": [
+                        21.746758,
+                        49.686275
+                  ]
+            },
+            {
+                  "name": "Chata",
+                  "text": "Hagyományos kunyhó mint helyi kirándulóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        21.747558,
+                        49.694507
+                  ]
+            },
+            {
+                  "name": "Pałac Trzecieskich",
+                  "text": "Kúria Krosno városában.",
+                  "category": "historical",
+                  "coords": [
+                        21.72466,
+                        49.702557
+                  ]
+            },
+            {
+                  "name": "Wieża Farna",
+                  "text": "Nevezetes látnivaló Krosno városában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.764231,
+                        49.694354
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa",
+                  "text": "Sópárásító létesítmény Krosno városában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.768635,
+                        49.695291
+                  ]
+            },
+            {
+                  "name": "Kościół Nawiedzenia Najśw. Maryi Panny OO. Franciszkanie",
+                  "text": "Ferences kolostor és templom Krosno városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.766723,
+                        49.693596
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "Modern templom Krosno városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.722166,
+                        49.701527
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Misyjne Sióstr Klawerianek",
+                  "text": "Muzeu cu artefacte religioase ale surorilor Claveriene.",
+                  "category": "museum",
+                  "coords": [
+                        21.761133,
+                        49.692247
+                  ]
+            },
+            {
+                  "name": "Muzeum Podkarpackie",
+                  "text": "Muzeul principal dedicat istoriei și culturii regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        21.763557,
+                        49.695641
+                  ]
+            },
+            {
+                  "name": "Muzeum Podkarpackich Pól Bitewnych",
+                  "text": "Muzeu de descoperiri istorico-militare în Krosno.",
+                  "category": "museum",
+                  "coords": [
+                        21.753337,
+                        49.687898
+                  ]
+            },
+            {
+                  "name": "Muzeum Motoryzacji",
+                  "text": "Muzeu tehnic cu vehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        21.744196,
+                        49.698203
+                  ]
+            },
+            {
+                  "name": "Teatr s.tr.a.c.h.",
+                  "text": "Spațiu cultural pentru reprezentații teatrale moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        21.754578,
+                        49.69649
+                  ]
+            },
+            {
+                  "name": "Muzeum ks. J. Popiełuszki",
+                  "text": "Muzeu memorial al părintelui Popiełuszko în Krosno.",
+                  "category": "museum",
+                  "coords": [
+                        21.774972,
+                        49.699569
+                  ]
+            },
+            {
+                  "name": "Linowy Park Przygody",
+                  "text": "Parc de aventură și cățărare pentru petrecerea timpului liber.",
+                  "category": "recreational",
+                  "coords": [
+                        21.76384,
+                        49.701727
+                  ]
+            },
+            {
+                  "name": "Piwnice Przedprożne CDS",
+                  "text": "Bolți de pivniță istorice și săli de expoziție.",
+                  "category": "museum",
+                  "coords": [
+                        21.764577,
+                        49.693269
+                  ]
+            },
+            {
+                  "name": "ParkMani",
+                  "text": "Parc de distracții cu oferte pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726593,
+                        49.7072
+                  ]
+            },
+            {
+                  "name": "Pałac Kaczkowskich",
+                  "text": "Clădire istorică a castelului familiei Kaczkowski.",
+                  "category": "castle",
+                  "coords": [
+                        21.767025,
+                        49.685907
+                  ]
+            },
+            {
+                  "name": "Centrum Dziedzictwa Szkła",
+                  "text": "Muzeu interactiv de artă a sticlei în Krosno.",
+                  "category": "museum",
+                  "coords": [
+                        21.766081,
+                        49.694504
+                  ]
+            },
+            {
+                  "name": "Jan Paweł II",
+                  "text": "Monument în cinstea Papei Ioan Paul al II-lea.",
+                  "category": "historical",
+                  "coords": [
+                        21.771616,
+                        49.678452
+                  ]
+            },
+            {
+                  "name": "Pomnik męczenników Matki Bożej",
+                  "text": "Monument al martirilor Maicii Domnului.",
+                  "category": "historical",
+                  "coords": [
+                        21.767592,
+                        49.691924
+                  ]
+            },
+            {
+                  "name": "Ruiny skoczni narciarskiej",
+                  "text": "Rămășițele unei foste trambuline de sărituri cu schiurile.",
+                  "category": "historical",
+                  "coords": [
+                        21.770204,
+                        49.701157
+                  ]
+            },
+            {
+                  "name": "Dinozaury",
+                  "text": "Atracție tematică pentru copii și fanii dinozaurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        21.759958,
+                        49.68583
+                  ]
+            },
+            {
+                  "name": "Fragment murów obronnych",
+                  "text": "Secțiuni restaurate ale zidului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        21.76431,
+                        49.692242
+                  ]
+            },
+            {
+                  "name": "Look Like Art",
+                  "text": "Galerie pentru artă modernă și design.",
+                  "category": "cultural",
+                  "coords": [
+                        21.745043,
+                        49.708017
+                  ]
+            },
+            {
+                  "name": "Samolot Su-22",
+                  "text": "Avion de vânătoare expus de tip Su-22.",
+                  "category": "landmark",
+                  "coords": [
+                        21.746758,
+                        49.686275
+                  ]
+            },
+            {
+                  "name": "Chata",
+                  "text": "Colibă tradițională ca destinație locală de excursie.",
+                  "category": "landmark",
+                  "coords": [
+                        21.747558,
+                        49.694507
+                  ]
+            },
+            {
+                  "name": "Pałac Trzecieskich",
+                  "text": "Un conac în Krosno.",
+                  "category": "historical",
+                  "coords": [
+                        21.72466,
+                        49.702557
+                  ]
+            },
+            {
+                  "name": "Wieża Farna",
+                  "text": "Un obiectiv turistic în Krosno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.764231,
+                        49.694354
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa",
+                  "text": "O salină de relaxare în Krosno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.768635,
+                        49.695291
+                  ]
+            },
+            {
+                  "name": "Kościół Nawiedzenia Najśw. Maryi Panny OO. Franciszkanie",
+                  "text": "O mănăstire franciscană cu biserică în Krosno.",
+                  "category": "religious",
+                  "coords": [
+                        21.766723,
+                        49.693596
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "O biserică modernă în Krosno.",
+                  "category": "religious",
+                  "coords": [
+                        21.722166,
+                        49.701527
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Misyjne Sióstr Klawerianek",
+                  "text": "Museum with religious artifacts of the Claverian sisters.",
+                  "category": "museum",
+                  "coords": [
+                        21.761133,
+                        49.692247
+                  ]
+            },
+            {
+                  "name": "Muzeum Podkarpackie",
+                  "text": "Main museum dedicated to the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        21.763557,
+                        49.695641
+                  ]
+            },
+            {
+                  "name": "Muzeum Podkarpackich Pól Bitewnych",
+                  "text": "Museum of military historical findings in Krosno.",
+                  "category": "museum",
+                  "coords": [
+                        21.753337,
+                        49.687898
+                  ]
+            },
+            {
+                  "name": "Muzeum Motoryzacji",
+                  "text": "Technical museum with historical vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        21.744196,
+                        49.698203
+                  ]
+            },
+            {
+                  "name": "Teatr s.tr.a.c.h.",
+                  "text": "Cultural venue for modern theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        21.754578,
+                        49.69649
+                  ]
+            },
+            {
+                  "name": "Muzeum ks. J. Popiełuszki",
+                  "text": "Memorial museum for Father Popiełuszko in Krosno.",
+                  "category": "museum",
+                  "coords": [
+                        21.774972,
+                        49.699569
+                  ]
+            },
+            {
+                  "name": "Linowy Park Przygody",
+                  "text": "Adventure and climbing park for leisure.",
+                  "category": "recreational",
+                  "coords": [
+                        21.76384,
+                        49.701727
+                  ]
+            },
+            {
+                  "name": "Piwnice Przedprożne CDS",
+                  "text": "Historic vaulted cellars and exhibition rooms.",
+                  "category": "museum",
+                  "coords": [
+                        21.764577,
+                        49.693269
+                  ]
+            },
+            {
+                  "name": "ParkMani",
+                  "text": "Amusement park with entertainment for families.",
+                  "category": "recreational",
+                  "coords": [
+                        21.726593,
+                        49.7072
+                  ]
+            },
+            {
+                  "name": "Pałac Kaczkowskich",
+                  "text": "Historic castle building of the Kaczkowski family.",
+                  "category": "castle",
+                  "coords": [
+                        21.767025,
+                        49.685907
+                  ]
+            },
+            {
+                  "name": "Centrum Dziedzictwa Szkła",
+                  "text": "Interactive museum of glass art in Krosno.",
+                  "category": "museum",
+                  "coords": [
+                        21.766081,
+                        49.694504
+                  ]
+            },
+            {
+                  "name": "Jan Paweł II",
+                  "text": "Monument in honor of Pope John Paul II.",
+                  "category": "historical",
+                  "coords": [
+                        21.771616,
+                        49.678452
+                  ]
+            },
+            {
+                  "name": "Pomnik męczenników Matki Bożej",
+                  "text": "Monument to the martyrs of the Mother of God.",
+                  "category": "historical",
+                  "coords": [
+                        21.767592,
+                        49.691924
+                  ]
+            },
+            {
+                  "name": "Ruiny skoczni narciarskiej",
+                  "text": "Remains of a former ski jump.",
+                  "category": "historical",
+                  "coords": [
+                        21.770204,
+                        49.701157
+                  ]
+            },
+            {
+                  "name": "Dinozaury",
+                  "text": "Theme attraction for children and dinosaur fans.",
+                  "category": "landmark",
+                  "coords": [
+                        21.759958,
+                        49.68583
+                  ]
+            },
+            {
+                  "name": "Fragment murów obronnych",
+                  "text": "Restored sections of the city wall.",
+                  "category": "landmark",
+                  "coords": [
+                        21.76431,
+                        49.692242
+                  ]
+            },
+            {
+                  "name": "Look Like Art",
+                  "text": "Gallery for modern art and design.",
+                  "category": "cultural",
+                  "coords": [
+                        21.745043,
+                        49.708017
+                  ]
+            },
+            {
+                  "name": "Samolot Su-22",
+                  "text": "Displayed Su-22 fighter aircraft.",
+                  "category": "landmark",
+                  "coords": [
+                        21.746758,
+                        49.686275
+                  ]
+            },
+            {
+                  "name": "Chata",
+                  "text": "Traditional hut as a local excursion destination.",
+                  "category": "landmark",
+                  "coords": [
+                        21.747558,
+                        49.694507
+                  ]
+            },
+            {
+                  "name": "Pałac Trzecieskich",
+                  "text": "A manor in Krosno.",
+                  "category": "historical",
+                  "coords": [
+                        21.72466,
+                        49.702557
+                  ]
+            },
+            {
+                  "name": "Wieża Farna",
+                  "text": "A notable attraction in Krosno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.764231,
+                        49.694354
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa",
+                  "text": "A graduation tower for relaxation in Krosno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.768635,
+                        49.695291
+                  ]
+            },
+            {
+                  "name": "Kościół Nawiedzenia Najśw. Maryi Panny OO. Franciszkanie",
+                  "text": "A Franciscan monastery and church in Krosno.",
+                  "category": "religious",
+                  "coords": [
+                        21.766723,
+                        49.693596
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Królowej Polski",
+                  "text": "A modern church in Krosno.",
+                  "category": "religious",
+                  "coords": [
+                        21.722166,
+                        49.701527
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Krosno", hu: "Krosno óvárosa", ro: "Centrul vechi din Krosno", en: "Krosno Old Town" },
@@ -2894,7 +9140,1420 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-czersk-castle-history-v2.webp",
   },
   {
-    id: "poland-nysa-old-town-history-v2",
+    id: "poland-nysa-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort II",
+                  "text": "Fort II ist Teil der Festungsanlagen in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.325272,
+                        50.491967
+                  ]
+            },
+            {
+                  "name": "Skarbiec św. Jakuba",
+                  "text": "Skarbiec św. Jakuba ist ein Museum in der Altstadt von Nysa.",
+                  "category": "museum",
+                  "coords": [
+                        17.334098,
+                        50.474609
+                  ]
+            },
+            {
+                  "name": "Kardinalredoute",
+                  "text": "Reduta Kardynalska ist ein Fort in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.322382,
+                        50.473158
+                  ]
+            },
+            {
+                  "name": "Muzeum Powiatowe w Nysie",
+                  "text": "Muzeum Powiatowe w Nysie ist ein Regionalmuseum in der Altstadt von Nysa.",
+                  "category": "museum",
+                  "coords": [
+                        17.337453,
+                        50.473957
+                  ]
+            },
+            {
+                  "name": "Kapuziner Redoute",
+                  "text": "Reduta Kapucyńska ist eine Festungsanlage in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.332469,
+                        50.480248
+                  ]
+            },
+            {
+                  "name": "Fort I",
+                  "text": "Fort I ist ein Festungsbauwerk in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.336846,
+                        50.488388
+                  ]
+            },
+            {
+                  "name": "Hohe Batterie",
+                  "text": "Wysoka Bateria ist ein Fort in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.311854,
+                        50.479386
+                  ]
+            },
+            {
+                  "name": "Flesza Nowa",
+                  "text": "Flesza Nowa ist eine archäologische Stätte in der Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.326845,
+                        50.466578
+                  ]
+            },
+            {
+                  "name": "Społeczne Muzeum Energetyki",
+                  "text": "Społeczne Muzeum Energetyki ist ein Museum in der Altstadt von Nysa.",
+                  "category": "museum",
+                  "coords": [
+                        17.337579,
+                        50.481897
+                  ]
+            },
+            {
+                  "name": "Hoher Redan",
+                  "text": "Wysoki Redan ist eine Festung in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.312407,
+                        50.480615
+                  ]
+            },
+            {
+                  "name": "Flesza Bialska",
+                  "text": "Flesza Bialska ist eine archäologische Stätte in der Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.335981,
+                        50.466633
+                  ]
+            },
+            {
+                  "name": "Flesza Prudnicka",
+                  "text": "Flesza Prudnicka ist ein Fort in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.341663,
+                        50.470281
+                  ]
+            },
+            {
+                  "name": "Blockhausschanze",
+                  "text": "Fort Wodny ist eine Festungsanlage in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.321323,
+                        50.465617
+                  ]
+            },
+            {
+                  "name": "Fort III",
+                  "text": "Fort III ist ein Festungsbau in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.351299,
+                        50.468681
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Miejskie „Frajda”",
+                  "text": "Kąpielisko Miejskie „Frajda” ist ein Wasserpark in der Altstadt von Nysa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.318755,
+                        50.477274
+                  ]
+            },
+            {
+                  "name": "Bastei der Hl. Hedwig",
+                  "text": "Bastion świętej Jadwigi ist eine Festungsanlage in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.331683,
+                        50.476164
+                  ]
+            },
+            {
+                  "name": "Jerusalemer Redoute",
+                  "text": "Reduta Jerozolimska ist ein Fort in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.319105,
+                        50.478875
+                  ]
+            },
+            {
+                  "name": "Kaninchen Redoute",
+                  "text": "Reduta Królicza ist eine Festung in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.306865,
+                        50.479689
+                  ]
+            },
+            {
+                  "name": "Bombardier-Fort",
+                  "text": "Fort Bombardier ist ein Festungswerk in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.323227,
+                        50.481903
+                  ]
+            },
+            {
+                  "name": "Fort Preussen",
+                  "text": "Fort Prusy ist eine Festungsanlage in der Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.317699,
+                        50.483596
+                  ]
+            },
+            {
+                  "name": "park miejski 800-lecia Nysy",
+                  "text": "Park miejski 800-lecia Nysy ist ein Stadtpark in der Altstadt von Nysa.",
+                  "category": "park",
+                  "coords": [
+                        17.325672,
+                        50.468351
+                  ]
+            },
+            {
+                  "name": "Baszta",
+                  "text": "Baszta ist eine Ruine in der Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.339117,
+                        50.473678
+                  ]
+            },
+            {
+                  "name": "Schleuse № 1",
+                  "text": "Śluza nr 1 ist eine Sehenswürdigkeit in der Altstadt von Nysa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.320396,
+                        50.471091
+                  ]
+            },
+            {
+                  "name": "POSEJDON Spływy kajakowe i pontonowe Nysa",
+                  "text": "POSEJDON Spływy kajakowe i pontonowe Nysa ist eine Attraktion in der Altstadt von Nysa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.363883,
+                        50.487786
+                  ]
+            },
+            {
+                  "name": "Kula armatnia z 1807",
+                  "text": "Kula armatnia z 1807 ist eine historische Sehenswürdigkeit in der Altstadt von Nysa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.332868,
+                        50.4732
+                  ]
+            },
+            {
+                  "name": "Altana Eichendorffa",
+                  "text": "Altana Eichendorffa ist ein Aussichtspunkt in der Altstadt von Nysa.",
+                  "category": "natural",
+                  "coords": [
+                        17.307053,
+                        50.478528
+                  ]
+            },
+            {
+                  "name": "Patriotom polskim",
+                  "text": "Patriotom polskim ist ein Denkmal in der Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.335136,
+                        50.47723
+                  ]
+            },
+            {
+                  "name": "Kościół Adwentystów Dnia Siódmego",
+                  "text": "Kościół Adwentystów Dnia Siódmego ist eine Kultstätte der Siebenten-Tags-Adventisten in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.335963,
+                        50.469273
+                  ]
+            },
+            {
+                  "name": "Kościół Świętego Krzyża",
+                  "text": "Kościół Świętego Krzyża ist eine Kirche in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.316501,
+                        50.480514
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicki Jezusa Chrystusa",
+                  "text": "Kościół Ewangelicki Jezusa Chrystusa ist eine evangelische Kultstätte in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.336006,
+                        50.475855
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny ist eine Kirche in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.337123,
+                        50.472717
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Kościół parafialny pw. Świętych Apostołów Piotra i Pawła ist eine Pfarrkirche und Kultstätte in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.331906,
+                        50.472059
+                  ]
+            },
+            {
+                  "name": "Kościół Zwiastowania NMP",
+                  "text": "Kościół Zwiastowania NMP ist eine Kultstätte in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.336291,
+                        50.471126
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Dominika",
+                  "text": "Kościół pw. Świętego Dominika ist eine Kultstätte in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.321496,
+                        50.47885
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Matki Boskiej Bolesnej",
+                  "text": "Kościół parafialny pw. Matki Boskiej Bolesnej ist eine Kultstätte in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.330406,
+                        50.46021
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Franciszka z Asyżu",
+                  "text": "Kościół parafialny pw. św. Franciszka z Asyżu ist eine Kultstätte in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.336482,
+                        50.483071
+                  ]
+            },
+            {
+                  "name": "Kościół cmentarny św. Rocha i św. Sebastiana",
+                  "text": "Kościół cmentarny św. Rocha i św. Sebastiana ist eine Friedhofskirche und Kultstätte in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.356722,
+                        50.489319
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Elżbiety Węgierskiej",
+                  "text": "Kościół parafialny pw. św. Elżbiety Węgierskiej ist eine Pfarrkirche in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.34778,
+                        50.483682
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Jana Chrzciciela i św. Mikołaja",
+                  "text": "Kościół parafialny pw. św. Jana Chrzciciela i św. Mikołaja ist eine Pfarrkirche in der Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.351638,
+                        50.455485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort II",
+                  "text": "A Fort II egy erőd Altstadt von Nysa területén.",
+                  "category": "fortress",
+                  "coords": [
+                        17.325272,
+                        50.491967
+                  ]
+            },
+            {
+                  "name": "Skarbiec św. Jakuba",
+                  "text": "A Skarbiec św. Jakuba egy múzeum Altstadt von Nysa városában.",
+                  "category": "museum",
+                  "coords": [
+                        17.334098,
+                        50.474609
+                  ]
+            },
+            {
+                  "name": "Reduta Kardynalska",
+                  "text": "A Reduta Kardynalska egy erődítmény Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.322382,
+                        50.473158
+                  ]
+            },
+            {
+                  "name": "Muzeum Powiatowe w Nysie",
+                  "text": "A Muzeum Powiatowe w Nysie egy regionális múzeum Altstadt von Nysában.",
+                  "category": "museum",
+                  "coords": [
+                        17.337453,
+                        50.473957
+                  ]
+            },
+            {
+                  "name": "Reduta Kapucyńska",
+                  "text": "A Reduta Kapucyńska egy erőd Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.332469,
+                        50.480248
+                  ]
+            },
+            {
+                  "name": "Fort I",
+                  "text": "A Fort I egy erőd Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.336846,
+                        50.488388
+                  ]
+            },
+            {
+                  "name": "Wysoka Bateria",
+                  "text": "A Wysoka Bateria egy erőd Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.311854,
+                        50.479386
+                  ]
+            },
+            {
+                  "name": "Flesza Nowa",
+                  "text": "A Flesza Nowa egy régészeti lelőhely Altstadt von Nysában.",
+                  "category": "historical",
+                  "coords": [
+                        17.326845,
+                        50.466578
+                  ]
+            },
+            {
+                  "name": "Społeczne Muzeum Energetyki",
+                  "text": "A Społeczne Muzeum Energetyki egy múzeum Altstadt von Nysában.",
+                  "category": "museum",
+                  "coords": [
+                        17.337579,
+                        50.481897
+                  ]
+            },
+            {
+                  "name": "Wysoki Redan",
+                  "text": "A Wysoki Redan egy erőd Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.312407,
+                        50.480615
+                  ]
+            },
+            {
+                  "name": "Flesza Bialska",
+                  "text": "A Flesza Bialska egy régészeti lelőhely Altstadt von Nysában.",
+                  "category": "historical",
+                  "coords": [
+                        17.335981,
+                        50.466633
+                  ]
+            },
+            {
+                  "name": "Flesza Prudnicka",
+                  "text": "A Flesza Prudnicka egy erődítmény Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.341663,
+                        50.470281
+                  ]
+            },
+            {
+                  "name": "Fort Wodny",
+                  "text": "A Fort Wodny egy erőd Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.321323,
+                        50.465617
+                  ]
+            },
+            {
+                  "name": "Fort III",
+                  "text": "A Fort III egy erőd Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.351299,
+                        50.468681
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Miejskie „Frajda”",
+                  "text": "A Kąpielisko Miejskie „Frajda” egy vízipark Altstadt von Nysában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.318755,
+                        50.477274
+                  ]
+            },
+            {
+                  "name": "Bastion świętej Jadwigi",
+                  "text": "A Bastion świętej Jadwigi egy bástya Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.331683,
+                        50.476164
+                  ]
+            },
+            {
+                  "name": "Reduta Jerozolimska",
+                  "text": "A Reduta Jerozolimska egy erődítmény Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.319105,
+                        50.478875
+                  ]
+            },
+            {
+                  "name": "Reduta Królicza",
+                  "text": "A Reduta Królicza egy erőd Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.306865,
+                        50.479689
+                  ]
+            },
+            {
+                  "name": "Fort Bombardier",
+                  "text": "A Fort Bombardier egy erőd Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.323227,
+                        50.481903
+                  ]
+            },
+            {
+                  "name": "Fort Prusy",
+                  "text": "A Fort Prusy egy erődítmény Altstadt von Nysában.",
+                  "category": "fortress",
+                  "coords": [
+                        17.317699,
+                        50.483596
+                  ]
+            },
+            {
+                  "name": "park miejski 800-lecia Nysy",
+                  "text": "A park miejski 800-lecia Nysy egy városi park Altstadt von Nysában.",
+                  "category": "park",
+                  "coords": [
+                        17.325672,
+                        50.468351
+                  ]
+            },
+            {
+                  "name": "Baszta",
+                  "text": "A Baszta egy rom Altstadt von Nysában.",
+                  "category": "historical",
+                  "coords": [
+                        17.339117,
+                        50.473678
+                  ]
+            },
+            {
+                  "name": "Śluza nr 1",
+                  "text": "A Śluza nr 1 egy látványosság Altstadt von Nysában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.320396,
+                        50.471091
+                  ]
+            },
+            {
+                  "name": "POSEJDON Spływy kajakowe i pontonowe Nysa",
+                  "text": "A POSEJDON Spływy kajakowe i pontonowe Nysa egy látványosság Altstadt von Nysában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.363883,
+                        50.487786
+                  ]
+            },
+            {
+                  "name": "Kula armatnia z 1807",
+                  "text": "A Kula armatnia z 1807 egy történelmi látványosság Altstadt von Nysában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.332868,
+                        50.4732
+                  ]
+            },
+            {
+                  "name": "Altana Eichendorffa",
+                  "text": "Az Altana Eichendorffa egy kilátópont Altstadt von Nysában.",
+                  "category": "natural",
+                  "coords": [
+                        17.307053,
+                        50.478528
+                  ]
+            },
+            {
+                  "name": "Patriotom polskim",
+                  "text": "A Patriotom polskim egy emlékmű Altstadt von Nysában.",
+                  "category": "historical",
+                  "coords": [
+                        17.335136,
+                        50.47723
+                  ]
+            },
+            {
+                  "name": "Kościół Adwentystów Dnia Siódmego",
+                  "text": "A Kościół Adwentystów Dnia Siódmego a Hetednapi Adventista Egyház istentiszteleti helye Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.335963,
+                        50.469273
+                  ]
+            },
+            {
+                  "name": "Kościół Świętego Krzyża",
+                  "text": "A Kościół Świętego Krzyża egy templom Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.316501,
+                        50.480514
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicki Jezusa Chrystusa",
+                  "text": "A Kościół Ewangelicki Jezusa Chrystusa egy evangélikus templom Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.336006,
+                        50.475855
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "A Kościół pw. Wniebowzięcia Najświętszej Maryi Panny egy templom Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.337123,
+                        50.472717
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "A Kościół parafialny pw. Świętych Apostołów Piotra i Pawła egy plébániatemplom Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.331906,
+                        50.472059
+                  ]
+            },
+            {
+                  "name": "Kościół Zwiastowania NMP",
+                  "text": "A Kościół Zwiastowania NMP egy templom Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.336291,
+                        50.471126
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Dominika",
+                  "text": "A Kościół pw. Świętego Dominika egy templom Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.321496,
+                        50.47885
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Matki Boskiej Bolesnej",
+                  "text": "A Kościół parafialny pw. Matki Boskiej Bolesnej egy istentiszteleti hely Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.330406,
+                        50.46021
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Franciszka z Asyżu",
+                  "text": "A Kościół parafialny pw. św. Franciszka z Asyżu egy istentiszteleti hely Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.336482,
+                        50.483071
+                  ]
+            },
+            {
+                  "name": "Kościół cmentarny św. Rocha i św. Sebastiana",
+                  "text": "A Kościół cmentarny św. Rocha i św. Sebastiana egy temetőkápolna Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.356722,
+                        50.489319
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Elżbiety Węgierskiej",
+                  "text": "A Kościół parafialny pw. św. Elżbiety Węgierskiej egy plébániatemplom Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.34778,
+                        50.483682
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Jana Chrzciciela i św. Mikołaja",
+                  "text": "A Kościół parafialny pw. św. Jana Chrzciciela i św. Mikołaja egy istentiszteleti hely Altstadt von Nysában.",
+                  "category": "religious",
+                  "coords": [
+                        17.351638,
+                        50.455485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort II",
+                  "text": "Fort II este un fort din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.325272,
+                        50.491967
+                  ]
+            },
+            {
+                  "name": "Skarbiec św. Jakuba",
+                  "text": "Skarbiec św. Jakuba este un muzeu în Altstadt von Nysa.",
+                  "category": "museum",
+                  "coords": [
+                        17.334098,
+                        50.474609
+                  ]
+            },
+            {
+                  "name": "Reduta Kardynalska",
+                  "text": "Reduta Kardynalska este un fort din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.322382,
+                        50.473158
+                  ]
+            },
+            {
+                  "name": "Muzeum Powiatowe w Nysie",
+                  "text": "Muzeum Powiatowe w Nysie este un muzeu județean din Altstadt von Nysa.",
+                  "category": "museum",
+                  "coords": [
+                        17.337453,
+                        50.473957
+                  ]
+            },
+            {
+                  "name": "Reduta Kapucyńska",
+                  "text": "Reduta Kapucyńska este o fortăreață din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.332469,
+                        50.480248
+                  ]
+            },
+            {
+                  "name": "Fort I",
+                  "text": "Fort I este un fort din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.336846,
+                        50.488388
+                  ]
+            },
+            {
+                  "name": "Wysoka Bateria",
+                  "text": "Wysoka Bateria este un fort din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.311854,
+                        50.479386
+                  ]
+            },
+            {
+                  "name": "Flesza Nowa",
+                  "text": "Flesza Nowa este un sit arheologic în Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.326845,
+                        50.466578
+                  ]
+            },
+            {
+                  "name": "Społeczne Muzeum Energetyki",
+                  "text": "Społeczne Muzeum Energetyki este un muzeu din Altstadt von Nysa.",
+                  "category": "museum",
+                  "coords": [
+                        17.337579,
+                        50.481897
+                  ]
+            },
+            {
+                  "name": "Wysoki Redan",
+                  "text": "Wysoki Redan este un fort din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.312407,
+                        50.480615
+                  ]
+            },
+            {
+                  "name": "Flesza Bialska",
+                  "text": "Flesza Bialska este un sit arheologic din Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.335981,
+                        50.466633
+                  ]
+            },
+            {
+                  "name": "Flesza Prudnicka",
+                  "text": "Flesza Prudnicka este o fortăreață din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.341663,
+                        50.470281
+                  ]
+            },
+            {
+                  "name": "Fort Wodny",
+                  "text": "Fort Wodny este un fort din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.321323,
+                        50.465617
+                  ]
+            },
+            {
+                  "name": "Fort III",
+                  "text": "Fort III este un fort din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.351299,
+                        50.468681
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Miejskie „Frajda”",
+                  "text": "Kąpielisko Miejskie „Frajda” este un parc acvatic în Altstadt von Nysa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.318755,
+                        50.477274
+                  ]
+            },
+            {
+                  "name": "Bastion świętej Jadwigi",
+                  "text": "Bastion świętej Jadwigi este un bastion în Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.331683,
+                        50.476164
+                  ]
+            },
+            {
+                  "name": "Reduta Jerozolimska",
+                  "text": "Reduta Jerozolimska este un fort din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.319105,
+                        50.478875
+                  ]
+            },
+            {
+                  "name": "Reduta Królicza",
+                  "text": "Reduta Królicza este o fortăreață din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.306865,
+                        50.479689
+                  ]
+            },
+            {
+                  "name": "Fort Bombardier",
+                  "text": "Fort Bombardier este un fort din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.323227,
+                        50.481903
+                  ]
+            },
+            {
+                  "name": "Fort Prusy",
+                  "text": "Fort Prusy este un fort din Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.317699,
+                        50.483596
+                  ]
+            },
+            {
+                  "name": "park miejski 800-lecia Nysy",
+                  "text": "Park miejski 800-lecia Nysy este un parc din Altstadt von Nysa.",
+                  "category": "park",
+                  "coords": [
+                        17.325672,
+                        50.468351
+                  ]
+            },
+            {
+                  "name": "Baszta",
+                  "text": "Baszta este o ruină din Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.339117,
+                        50.473678
+                  ]
+            },
+            {
+                  "name": "Śluza nr 1",
+                  "text": "Śluza nr 1 este o atracție din Altstadt von Nysa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.320396,
+                        50.471091
+                  ]
+            },
+            {
+                  "name": "POSEJDON Spływy kajakowe i pontonowe Nysa",
+                  "text": "POSEJDON Spływy kajakowe i pontonowe Nysa este o atracție din Altstadt von Nysa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.363883,
+                        50.487786
+                  ]
+            },
+            {
+                  "name": "Kula armatnia z 1807",
+                  "text": "Kula armatnia z 1807 este o atracție turistică din Altstadt von Nysa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.332868,
+                        50.4732
+                  ]
+            },
+            {
+                  "name": "Altana Eichendorffa",
+                  "text": "Altana Eichendorffa este un punct de belvedere în Altstadt von Nysa.",
+                  "category": "natural",
+                  "coords": [
+                        17.307053,
+                        50.478528
+                  ]
+            },
+            {
+                  "name": "Patriotom polskim",
+                  "text": "Patriotom polskim este un monument în Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.335136,
+                        50.47723
+                  ]
+            },
+            {
+                  "name": "Kościół Adwentystów Dnia Siódmego",
+                  "text": "Kościół Adwentystów Dnia Siódmego este un lăcaș de cult adventist din Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.335963,
+                        50.469273
+                  ]
+            },
+            {
+                  "name": "Kościół Świętego Krzyża",
+                  "text": "Kościół Świętego Krzyża este o biserică din Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.316501,
+                        50.480514
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicki Jezusa Chrystusa",
+                  "text": "Kościół Ewangelicki Jezusa Chrystusa este un lăcaș de cult evanghelic în Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.336006,
+                        50.475855
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny este o biserică din Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.337123,
+                        50.472717
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Kościół parafialny pw. Świętych Apostołów Piotra i Pawła este o biserică parohială în Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.331906,
+                        50.472059
+                  ]
+            },
+            {
+                  "name": "Kościół Zwiastowania NMP",
+                  "text": "Kościół Zwiastowania NMP este un lăcaș de cult din Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.336291,
+                        50.471126
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Dominika",
+                  "text": "Kościół pw. Świętego Dominika este o biserică din Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.321496,
+                        50.47885
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Matki Boskiej Bolesnej",
+                  "text": "Kościół parafialny pw. Matki Boskiej Bolesnej este o biserică parohială în Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.330406,
+                        50.46021
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Franciszka z Asyżu",
+                  "text": "Kościół parafialny pw. św. Franciszka z Asyżu este un lăcaș de cult în Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.336482,
+                        50.483071
+                  ]
+            },
+            {
+                  "name": "Kościół cmentarny św. Rocha i św. Sebastiana",
+                  "text": "Kościół cmentarny św. Rocha i św. Sebastiana este o biserică de cimitir în Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.356722,
+                        50.489319
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Elżbiety Węgierskiej",
+                  "text": "Kościół parafialny pw. św. Elżbiety Węgierskiej este o biserică parohială în Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.34778,
+                        50.483682
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Jana Chrzciciela i św. Mikołaja",
+                  "text": "Kościół parafialny pw. św. Jana Chrzciciela i św. Mikołaja este o biserică parohială din Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.351638,
+                        50.455485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort II",
+                  "text": "Fort II is a fortification located in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.325272,
+                        50.491967
+                  ]
+            },
+            {
+                  "name": "Skarbiec św. Jakuba",
+                  "text": "Skarbiec św. Jakuba is a museum situated in the Altstadt von Nysa.",
+                  "category": "museum",
+                  "coords": [
+                        17.334098,
+                        50.474609
+                  ]
+            },
+            {
+                  "name": "Reduta Kardynalska",
+                  "text": "Reduta Kardynalska is a fort in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.322382,
+                        50.473158
+                  ]
+            },
+            {
+                  "name": "Muzeum Powiatowe w Nysie",
+                  "text": "Muzeum Powiatowe w Nysie is a regional museum located in the Altstadt von Nysa.",
+                  "category": "museum",
+                  "coords": [
+                        17.337453,
+                        50.473957
+                  ]
+            },
+            {
+                  "name": "Reduta Kapucyńska",
+                  "text": "Reduta Kapucyńska is a fort in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.332469,
+                        50.480248
+                  ]
+            },
+            {
+                  "name": "Fort I",
+                  "text": "Fort I is a fortification in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.336846,
+                        50.488388
+                  ]
+            },
+            {
+                  "name": "Wysoka Bateria",
+                  "text": "Wysoka Bateria is a fort located in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.311854,
+                        50.479386
+                  ]
+            },
+            {
+                  "name": "Flesza Nowa",
+                  "text": "Flesza Nowa is an archaeological site in the Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.326845,
+                        50.466578
+                  ]
+            },
+            {
+                  "name": "Społeczne Muzeum Energetyki",
+                  "text": "Społeczne Muzeum Energetyki is a museum located in the Altstadt von Nysa.",
+                  "category": "museum",
+                  "coords": [
+                        17.337579,
+                        50.481897
+                  ]
+            },
+            {
+                  "name": "Wysoki Redan",
+                  "text": "Wysoki Redan is a fort in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.312407,
+                        50.480615
+                  ]
+            },
+            {
+                  "name": "Flesza Bialska",
+                  "text": "Flesza Bialska is an archaeological site situated in the Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.335981,
+                        50.466633
+                  ]
+            },
+            {
+                  "name": "Flesza Prudnicka",
+                  "text": "Flesza Prudnicka is a fort located in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.341663,
+                        50.470281
+                  ]
+            },
+            {
+                  "name": "Fort Wodny",
+                  "text": "Fort Wodny is a fort in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.321323,
+                        50.465617
+                  ]
+            },
+            {
+                  "name": "Fort III",
+                  "text": "Fort III is a fort located in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.351299,
+                        50.468681
+                  ]
+            },
+            {
+                  "name": "Kąpielisko Miejskie „Frajda”",
+                  "text": "Kąpielisko Miejskie „Frajda” is a water park situated in the Altstadt von Nysa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.318755,
+                        50.477274
+                  ]
+            },
+            {
+                  "name": "Bastion świętej Jadwigi",
+                  "text": "Bastion świętej Jadwigi is a fort in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.331683,
+                        50.476164
+                  ]
+            },
+            {
+                  "name": "Reduta Jerozolimska",
+                  "text": "Reduta Jerozolimska is a fort located in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.319105,
+                        50.478875
+                  ]
+            },
+            {
+                  "name": "Reduta Królicza",
+                  "text": "Reduta Królicza is a fort situated in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.306865,
+                        50.479689
+                  ]
+            },
+            {
+                  "name": "Fort Bombardier",
+                  "text": "Fort Bombardier is a fort in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.323227,
+                        50.481903
+                  ]
+            },
+            {
+                  "name": "Fort Prusy",
+                  "text": "Fort Prusy is a fort located in the Altstadt von Nysa.",
+                  "category": "fortress",
+                  "coords": [
+                        17.317699,
+                        50.483596
+                  ]
+            },
+            {
+                  "name": "park miejski 800-lecia Nysy",
+                  "text": "Park miejski 800-lecia Nysy is a city park in the Altstadt von Nysa.",
+                  "category": "park",
+                  "coords": [
+                        17.325672,
+                        50.468351
+                  ]
+            },
+            {
+                  "name": "Baszta",
+                  "text": "Baszta is a ruin located in the Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.339117,
+                        50.473678
+                  ]
+            },
+            {
+                  "name": "Śluza nr 1",
+                  "text": "Śluza nr 1 is an attraction situated in the Altstadt von Nysa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.320396,
+                        50.471091
+                  ]
+            },
+            {
+                  "name": "POSEJDON Spływy kajakowe i pontonowe Nysa",
+                  "text": "POSEJDON Spływy kajakowe i pontonowe Nysa is an attraction in the Altstadt von Nysa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.363883,
+                        50.487786
+                  ]
+            },
+            {
+                  "name": "Kula armatnia z 1807",
+                  "text": "Kula armatnia z 1807 is an attraction located in the Altstadt von Nysa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.332868,
+                        50.4732
+                  ]
+            },
+            {
+                  "name": "Altana Eichendorffa",
+                  "text": "Altana Eichendorffa is a viewpoint in the Altstadt von Nysa.",
+                  "category": "natural",
+                  "coords": [
+                        17.307053,
+                        50.478528
+                  ]
+            },
+            {
+                  "name": "Patriotom polskim",
+                  "text": "Patriotom polskim is a monument situated in the Altstadt von Nysa.",
+                  "category": "historical",
+                  "coords": [
+                        17.335136,
+                        50.47723
+                  ]
+            },
+            {
+                  "name": "Kościół Adwentystów Dnia Siódmego",
+                  "text": "Kościół Adwentystów Dnia Siódmego is a Seventh-day Adventist place of worship in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.335963,
+                        50.469273
+                  ]
+            },
+            {
+                  "name": "Kościół Świętego Krzyża",
+                  "text": "Kościół Świętego Krzyża is a church located in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.316501,
+                        50.480514
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicki Jezusa Chrystusa",
+                  "text": "Kościół Ewangelicki Jezusa Chrystusa is an evangelical place of worship in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.336006,
+                        50.475855
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny is a church in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.337123,
+                        50.472717
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Świętych Apostołów Piotra i Pawła",
+                  "text": "Kościół parafialny pw. Świętych Apostołów Piotra i Pawła is a parish church and place of worship in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.331906,
+                        50.472059
+                  ]
+            },
+            {
+                  "name": "Kościół Zwiastowania NMP",
+                  "text": "Kościół Zwiastowania NMP is a place of worship situated in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.336291,
+                        50.471126
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Dominika",
+                  "text": "Kościół pw. Świętego Dominika is a place of worship in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.321496,
+                        50.47885
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Matki Boskiej Bolesnej",
+                  "text": "Kościół parafialny pw. Matki Boskiej Bolesnej is a parish church and place of worship in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.330406,
+                        50.46021
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Franciszka z Asyżu",
+                  "text": "Kościół parafialny pw. św. Franciszka z Asyżu is a parish church in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.336482,
+                        50.483071
+                  ]
+            },
+            {
+                  "name": "Kościół cmentarny św. Rocha i św. Sebastiana",
+                  "text": "Kościół cmentarny św. Rocha i św. Sebastiana is a cemetery church in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.356722,
+                        50.489319
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Elżbiety Węgierskiej",
+                  "text": "Kościół parafialny pw. św. Elżbiety Węgierskiej is a parish church and place of worship in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.34778,
+                        50.483682
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Jana Chrzciciela i św. Mikołaja",
+                  "text": "Kościół parafialny pw. św. Jana Chrzciciela i św. Mikołaja is a parish church in the Altstadt von Nysa.",
+                  "category": "religious",
+                  "coords": [
+                        17.351638,
+                        50.455485
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Nysa", hu: "Nysa óvárosa", ro: "Centrul vechi din Nysa", en: "Nysa Old Town" },
@@ -3119,7 +10778,448 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-tykocin-castle-history-v2.webp",
   },
   {
-    id: "poland-kedzierzyn-old-town-history-v2",
+    id: "poland-kedzierzyn-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Żabi Dół",
+                  "text": "Ein Naturschutzgebiet in Kędzierzyn.",
+                  "category": "natural",
+                  "coords": [
+                        18.240294,
+                        50.330568
+                  ]
+            },
+            {
+                  "name": "Park Orderu Uśmiechu",
+                  "text": "Ein öffentlicher Park in Kędzierzyn.",
+                  "category": "park",
+                  "coords": [
+                        18.225126,
+                        50.346284
+                  ]
+            },
+            {
+                  "name": "Ofiarom II Wojny Światowej",
+                  "text": "Ein Denkmal für die Opfer des Zweiten Weltkriegs in Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.213002,
+                        50.347649
+                  ]
+            },
+            {
+                  "name": "Syfon Kłodnicy",
+                  "text": "Eine technische Sehenswürdigkeit in Kędzierzyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.22838,
+                        50.357382
+                  ]
+            },
+            {
+                  "name": "Dawna strzelnica (ruiny)",
+                  "text": "Ruinen einer ehemaligen Schießanlage in Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.228535,
+                        50.330683
+                  ]
+            },
+            {
+                  "name": "Ruiny śluzy Kanału Kłodnickiego",
+                  "text": "Historische Kanalruinen in Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.168944,
+                        50.349748
+                  ]
+            },
+            {
+                  "name": "Ruiny śluzy nr 5 dawnego Kanału Kłodnickiego",
+                  "text": "Überreste einer historischen Schleuse in Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.244493,
+                        50.357194
+                  ]
+            },
+            {
+                  "name": "Parowóz Ty2-2118",
+                  "text": "Ein historisches Dampflokomotiv-Denkmal in Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.20693,
+                        50.343753
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa",
+                  "text": "Ein Gradierwerk in Kędzierzyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.233877,
+                        50.345418
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Matki Bożej Bolesnej",
+                  "text": "Eine katholische Pfarrkirche in Kędzierzyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.169316,
+                        50.34639
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Mikołaja",
+                  "text": "Eine historische Pfarrkirche in Kędzierzyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.209151,
+                        50.346356
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "Eine evangelische Kirche in Kędzierzyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.206695,
+                        50.346139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Żabi Dół",
+                  "text": "Természetvédelmi terület Kędzierzynben.",
+                  "category": "natural",
+                  "coords": [
+                        18.240294,
+                        50.330568
+                  ]
+            },
+            {
+                  "name": "Park Orderu Uśmiechu",
+                  "text": "Közpark Kędzierzynben.",
+                  "category": "park",
+                  "coords": [
+                        18.225126,
+                        50.346284
+                  ]
+            },
+            {
+                  "name": "Ofiarom II Wojny Światowej",
+                  "text": "A második világháború áldozatainak emlékműve Kędzierzynben.",
+                  "category": "historical",
+                  "coords": [
+                        18.213002,
+                        50.347649
+                  ]
+            },
+            {
+                  "name": "Syfon Kłodnicy",
+                  "text": "Műszaki látnivaló Kędzierzynben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.22838,
+                        50.357382
+                  ]
+            },
+            {
+                  "name": "Dawna strzelnica (ruiny)",
+                  "text": "Egykori lőtér romjai Kędzierzynben.",
+                  "category": "historical",
+                  "coords": [
+                        18.228535,
+                        50.330683
+                  ]
+            },
+            {
+                  "name": "Ruiny śluzy Kanału Kłodnickiego",
+                  "text": "Történelmi csatornaromok Kędzierzynben.",
+                  "category": "historical",
+                  "coords": [
+                        18.168944,
+                        50.349748
+                  ]
+            },
+            {
+                  "name": "Ruiny śluzy nr 5 dawnego Kanału Kłodnickiego",
+                  "text": "Egy történelmi zsilip maradványai Kędzierzynben.",
+                  "category": "historical",
+                  "coords": [
+                        18.244493,
+                        50.357194
+                  ]
+            },
+            {
+                  "name": "Parowóz Ty2-2118",
+                  "text": "Történelmi gőzmozdony-emlékmű Kędzierzynben.",
+                  "category": "historical",
+                  "coords": [
+                        18.20693,
+                        50.343753
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa",
+                  "text": "Sópárásító létesítmény Kędzierzynben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.233877,
+                        50.345418
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Matki Bożej Bolesnej",
+                  "text": "Katolikus plébániatemplom Kędzierzynben.",
+                  "category": "religious",
+                  "coords": [
+                        18.169316,
+                        50.34639
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Mikołaja",
+                  "text": "Történelmi plébániatemplom Kędzierzynben.",
+                  "category": "religious",
+                  "coords": [
+                        18.209151,
+                        50.346356
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "Evangélikus templom Kędzierzynben.",
+                  "category": "religious",
+                  "coords": [
+                        18.206695,
+                        50.346139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Żabi Dół",
+                  "text": "O rezervație naturală în Kędzierzyn.",
+                  "category": "natural",
+                  "coords": [
+                        18.240294,
+                        50.330568
+                  ]
+            },
+            {
+                  "name": "Park Orderu Uśmiechu",
+                  "text": "Un parc public în Kędzierzyn.",
+                  "category": "park",
+                  "coords": [
+                        18.225126,
+                        50.346284
+                  ]
+            },
+            {
+                  "name": "Ofiarom II Wojny Światowej",
+                  "text": "Un monument dedicat victimelor celui de-al Doilea Război Mondial în Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.213002,
+                        50.347649
+                  ]
+            },
+            {
+                  "name": "Syfon Kłodnicy",
+                  "text": "O atracție tehnică în Kędzierzyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.22838,
+                        50.357382
+                  ]
+            },
+            {
+                  "name": "Dawna strzelnica (ruiny)",
+                  "text": "Ruinele unui fost poligon de tragere în Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.228535,
+                        50.330683
+                  ]
+            },
+            {
+                  "name": "Ruiny śluzy Kanału Kłodnickiego",
+                  "text": "Ruine istorice ale canalului în Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.168944,
+                        50.349748
+                  ]
+            },
+            {
+                  "name": "Ruiny śluzy nr 5 dawnego Kanału Kłodnickiego",
+                  "text": "Rămășițele unei ecluze istorice în Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.244493,
+                        50.357194
+                  ]
+            },
+            {
+                  "name": "Parowóz Ty2-2118",
+                  "text": "Un monument istoric cu locomotivă cu abur în Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.20693,
+                        50.343753
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa",
+                  "text": "O salină în Kędzierzyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.233877,
+                        50.345418
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Matki Bożej Bolesnej",
+                  "text": "O biserică parohială catolică în Kędzierzyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.169316,
+                        50.34639
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Mikołaja",
+                  "text": "O biserică parohială istorică în Kędzierzyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.209151,
+                        50.346356
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "O biserică evanghelică în Kędzierzyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.206695,
+                        50.346139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Żabi Dół",
+                  "text": "A nature reserve in Kędzierzyn.",
+                  "category": "natural",
+                  "coords": [
+                        18.240294,
+                        50.330568
+                  ]
+            },
+            {
+                  "name": "Park Orderu Uśmiechu",
+                  "text": "A public park in Kędzierzyn.",
+                  "category": "park",
+                  "coords": [
+                        18.225126,
+                        50.346284
+                  ]
+            },
+            {
+                  "name": "Ofiarom II Wojny Światowej",
+                  "text": "A monument to the victims of the Second World War in Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.213002,
+                        50.347649
+                  ]
+            },
+            {
+                  "name": "Syfon Kłodnicy",
+                  "text": "A technical attraction in Kędzierzyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.22838,
+                        50.357382
+                  ]
+            },
+            {
+                  "name": "Dawna strzelnica (ruiny)",
+                  "text": "Ruins of a former shooting range in Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.228535,
+                        50.330683
+                  ]
+            },
+            {
+                  "name": "Ruiny śluzy Kanału Kłodnickiego",
+                  "text": "Historic canal ruins in Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.168944,
+                        50.349748
+                  ]
+            },
+            {
+                  "name": "Ruiny śluzy nr 5 dawnego Kanału Kłodnickiego",
+                  "text": "Remains of a historic lock in Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.244493,
+                        50.357194
+                  ]
+            },
+            {
+                  "name": "Parowóz Ty2-2118",
+                  "text": "A historic steam locomotive monument in Kędzierzyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.20693,
+                        50.343753
+                  ]
+            },
+            {
+                  "name": "Tężnia solankowa",
+                  "text": "A graduation tower in Kędzierzyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.233877,
+                        50.345418
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. Matki Bożej Bolesnej",
+                  "text": "A Catholic parish church in Kędzierzyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.169316,
+                        50.34639
+                  ]
+            },
+            {
+                  "name": "Kościół parafialny pw. św. Mikołaja",
+                  "text": "A historic parish church in Kędzierzyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.209151,
+                        50.346356
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "An Evangelical church in Kędzierzyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.206695,
+                        50.346139
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "PL",
     name: { de: "Historisches Zentrum von Kędzierzyn", hu: "Kędzierzyn történelmi központja", ro: "Centrul istoric din Kędzierzyn", en: "Kędzierzyn Historical Center" },
@@ -3299,7 +11399,1600 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-gniezno-cathedral-complex-history-v2.webp",
   },
   {
-    id: "poland-bytom-old-town-history-v2",
+    id: "poland-bytom-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Żabie Doły",
+                  "text": "Żabie Doły ist ein Natur- und Landschaftsschutzgebiet in der Altstadt von Bytom.",
+                  "category": "natural",
+                  "coords": [
+                        18.958412,
+                        50.331533
+                  ]
+            },
+            {
+                  "name": "Opera Śląska",
+                  "text": "Opera Śląska ist ein Theater in der Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92124,
+                        50.344149
+                  ]
+            },
+            {
+                  "name": "Teatr Rozbark",
+                  "text": "Teatr Rozbark ist ein Tanz- und Bewegungstheater in der Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.929162,
+                        50.341689
+                  ]
+            },
+            {
+                  "name": "Muzeum Górnośląskie",
+                  "text": "Muzeum Górnośląskie ist ein Museum in der Altstadt von Bytom.",
+                  "category": "museum",
+                  "coords": [
+                        18.92665,
+                        50.349069
+                  ]
+            },
+            {
+                  "name": "Centrum Działalności Podwodnej",
+                  "text": "Centrum Działalności Podwodnej ist ein Wasserpark in der Altstadt von Bytom.",
+                  "category": "recreational",
+                  "coords": [
+                        18.936628,
+                        50.336617
+                  ]
+            },
+            {
+                  "name": "Bytomskie Centrum Kultury",
+                  "text": "Bytomskie Centrum Kultury ist ein Theater in der Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.928202,
+                        50.352411
+                  ]
+            },
+            {
+                  "name": "Muszla Koncertowa",
+                  "text": "Muszla Koncertowa ist ein Theater in der Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.910076,
+                        50.350665
+                  ]
+            },
+            {
+                  "name": "Wzgórze świętej Małgorzaty",
+                  "text": "Wzgórze świętej Małgorzaty ist eine Erhebung in der Altstadt von Bytom.",
+                  "category": "natural",
+                  "coords": [
+                        18.914838,
+                        50.340876
+                  ]
+            },
+            {
+                  "name": "Park Miejski im. Franciszka Kachla",
+                  "text": "Park Miejski im. Franciszka Kachla ist ein historischer Stadtpark in der Altstadt von Bytom.",
+                  "category": "park",
+                  "coords": [
+                        18.905538,
+                        50.352446
+                  ]
+            },
+            {
+                  "name": "Miejsce poległych żołnierzy",
+                  "text": "Miejsce poległych żołnierzy ist ein Denkmal in der Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.928324,
+                        50.332797
+                  ]
+            },
+            {
+                  "name": "Jerzy Popiełuszko",
+                  "text": "Jerzy Popiełuszko ist ein Denkmal in der Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.910718,
+                        50.354202
+                  ]
+            },
+            {
+                  "name": "Pomnik ofiarom terroru komunistycznego",
+                  "text": "Pomnik ofiarom terroru komunistycznego ist ein Denkmal in der Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.911601,
+                        50.349254
+                  ]
+            },
+            {
+                  "name": "KWK Rozbark - zakończenie wydobycia",
+                  "text": "KWK Rozbark - zakończenie wydobycia ist ein Denkmal in der Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.93158,
+                        50.342039
+                  ]
+            },
+            {
+                  "name": "Żołnierzom i jeńcom Armii Czerwonej",
+                  "text": "Żołnierzom i jeńcom Armii Czerwonej ist ein Denkmal in der Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.923714,
+                        50.362271
+                  ]
+            },
+            {
+                  "name": "Najstarsza kamienica bytomska z 1793 roku",
+                  "text": "Das älteste Mietshaus in Bytom aus dem Jahr 1793 ist eine Sehenswürdigkeit in der Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.92126,
+                        50.347749
+                  ]
+            },
+            {
+                  "name": "Podmurówka spalonego drewnianego koscioła św. Wawrzyńca",
+                  "text": "Das Fundament der niedergebrannten Holzkirche St. Laurentius ist eine Sehenswürdigkeit in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.902138,
+                        50.350989
+                  ]
+            },
+            {
+                  "name": "Elektrociepłownia Szombierki",
+                  "text": "Das Heizkraftwerk Szombierki ist eine bekannte Sehenswürdigkeit in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.886233,
+                        50.345316
+                  ]
+            },
+            {
+                  "name": "Zabytkowa Kolonia Zgorzelec",
+                  "text": "Die historische Kolonie Zgorzelec ist eine Touristenattraktion in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.899487,
+                        50.324894
+                  ]
+            },
+            {
+                  "name": "Ruiny wieży cisnień Huty Zygmunt",
+                  "text": "Die Ruinen des Wasserturms der Zygmunt-Hütte sind eine Sehenswürdigkeit in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.917672,
+                        50.325894
+                  ]
+            },
+            {
+                  "name": "Stary Ratusz w Szombierkach",
+                  "text": "Das Alte Rathaus in Szombierki ist eine Attraktion in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.89176,
+                        50.338066
+                  ]
+            },
+            {
+                  "name": "Remiza strażacka z 1911 roku",
+                  "text": "Das Feuerwehrhaus aus dem Jahr 1911 ist eine historische Sehenswürdigkeit in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.931834,
+                        50.325227
+                  ]
+            },
+            {
+                  "name": "Młyn turbinowy",
+                  "text": "Die Turbinenmühle ist eine lokale Sehenswürdigkeit in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.956943,
+                        50.339789
+                  ]
+            },
+            {
+                  "name": "Budynek Niemieckiej Izby Celnej w latach 1922-1939",
+                  "text": "Das Gebäude des Deutschen Zollamtes aus den Jahren 1922-1939 ist eine Attraktion in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.893689,
+                        50.328177
+                  ]
+            },
+            {
+                  "name": "Lokomotywownia Górnośląskich Kolei Wąskotorowych",
+                  "text": "Das Lokomotivdepot der Oberschlesischen Schmalspurbahnen ist eine bemerkenswerte Attraktion in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.888852,
+                        50.347283
+                  ]
+            },
+            {
+                  "name": "Zespół zabudowy dawnej kopalni rud cynku i ołowiu \"Deutsch Bleischarley\" z lat 1925-28.",
+                  "text": "Der Gebäudekomplex der ehemaligen Zink- und Bleierzgrube „Deutsch Bleischarley“ aus den Jahren 1925-28 ist eine Sehenswürdigkeit in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.948671,
+                        50.340964
+                  ]
+            },
+            {
+                  "name": "Willa z 1925 roku - obecnie Urząd Stanu Cywilnego",
+                  "text": "Die Villa aus dem Jahr 1925, in der sich heute das Standesamt befindet, ist eine Attraktion in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.903033,
+                        50.349067
+                  ]
+            },
+            {
+                  "name": "Ławka im. Joanny Gryzik-Schaffgotsch",
+                  "text": "Die Joanna-Gryzik-Schaffgotsch-Bank ist ein öffentliches Denkmal in der Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.895731,
+                        50.33684
+                  ]
+            },
+            {
+                  "name": "Historyczny neon Bytom",
+                  "text": "Die historische Leuchtreklame von Bytom ist eine städtische Sehenswürdigkeit in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.921977,
+                        50.349313
+                  ]
+            },
+            {
+                  "name": "Dawna zagroda niedźwiedzi z 1898 roku w Parku im. Kachla",
+                  "text": "Das ehemalige Bärengehege aus dem Jahr 1898 im Kachel-Park ist eine Attraktion in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.905492,
+                        50.351168
+                  ]
+            },
+            {
+                  "name": "Dworzec Kolejowy w Bobrku",
+                  "text": "Der Bahnhof Bobrek ist eine lokale Touristenattraktion in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.877536,
+                        50.343902
+                  ]
+            },
+            {
+                  "name": "Herb miasta Bytom",
+                  "text": "Das Denkmal mit dem Wappen von Bytom befindet sich in der Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        18.913807,
+                        50.348711
+                  ]
+            },
+            {
+                  "name": "OWŚ",
+                  "text": "OWŚ ist eine Sehenswürdigkeit in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.9222,
+                        50.327405
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wojciecha",
+                  "text": "Die St.-Adalbert-Kirche ist ein historisches Gotteshaus in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.925159,
+                        50.345557
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Nepomucena",
+                  "text": "Die Kirche St. Johannes Nepomuk ist eine religiöse Stätte in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.932494,
+                        50.327569
+                  ]
+            },
+            {
+                  "name": "Kaplica Najświętszej Marii Panny i Świętego Józefa",
+                  "text": "Die Kapelle der Heiligen Jungfrau Maria und des Heiligen Josef ist ein bemerkenswertes Gotteshaus in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.888754,
+                        50.337908
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jacka",
+                  "text": "Die St.-Hyazinth-Kirche ist eine lokale Kirche in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.929369,
+                        50.350188
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Ducha",
+                  "text": "Die Heilig-Geist-Kirche ist ein Ort von religiöser Bedeutung in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.92789,
+                        50.346201
+                  ]
+            },
+            {
+                  "name": "Kaplica cmentarna",
+                  "text": "Die Friedhofskapelle ist ein Ort des Gebets und der Besinnung in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.919721,
+                        50.353757
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Dobrego Pasterza",
+                  "text": "Die Kirche zum Guten Hirten ist eine kirchliche Stätte in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.875974,
+                        50.350733
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Anny",
+                  "text": "Die St.-Anna-Kirche ist ein lokales Gotteshaus in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.935271,
+                        50.339752
+                  ]
+            },
+            {
+                  "name": "Trinitatiskirche",
+                  "text": "Die Dreifaltigkeitskirche ist eine bedeutende Kirche in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.919028,
+                        50.348387
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "Die Kirche Mariä Himmelfahrt ist ein markantes religiöses Gebäude in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.922638,
+                        50.347804
+                  ]
+            },
+            {
+                  "name": "Kaplica pogrzebowa",
+                  "text": "Diese Begräbniskapelle dient als feierlicher Ort der Anbetung in der Altstadt von Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.921841,
+                        50.35841
+                  ]
+            },
+            {
+                  "name": "Wieża wyciągowa Szybu Krystyna",
+                  "text": "Der Förderturm des Krystyna-Schachts ist ein erhaltenes Element des industriellen Erbes in der Altstadt von Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.91143,
+                        50.338539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Żabie Doły",
+                  "text": "A Żabie Doły egy természetvédelmi terület Altstadt von Bytom városában.",
+                  "category": "natural",
+                  "coords": [
+                        18.958412,
+                        50.331533
+                  ]
+            },
+            {
+                  "name": "Opera Śląska",
+                  "text": "Az Opera Śląska egy színház Altstadt von Bytom városában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92124,
+                        50.344149
+                  ]
+            },
+            {
+                  "name": "Teatr Rozbark",
+                  "text": "A Teatr Rozbark egy színház Altstadt von Bytom területén.",
+                  "category": "cultural",
+                  "coords": [
+                        18.929162,
+                        50.341689
+                  ]
+            },
+            {
+                  "name": "Muzeum Górnośląskie",
+                  "text": "A Muzeum Górnośląskie egy múzeum Altstadt von Bytomban.",
+                  "category": "museum",
+                  "coords": [
+                        18.92665,
+                        50.349069
+                  ]
+            },
+            {
+                  "name": "Centrum Działalności Podwodnej",
+                  "text": "A Centrum Działalności Podwodnej egy vízipark Altstadt von Bytomban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.936628,
+                        50.336617
+                  ]
+            },
+            {
+                  "name": "Bytomskie Centrum Kultury",
+                  "text": "A Bytomskie Centrum Kultury egy színház Altstadt von Bytomban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.928202,
+                        50.352411
+                  ]
+            },
+            {
+                  "name": "Muszla Koncertowa",
+                  "text": "A Muszla Koncertowa egy szabadtéri színpad és színház Altstadt von Bytomban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.910076,
+                        50.350665
+                  ]
+            },
+            {
+                  "name": "Wzgórze świętej Małgorzaty",
+                  "text": "A Wzgórze świętej Małgorzaty egy hegy Altstadt von Bytomban.",
+                  "category": "natural",
+                  "coords": [
+                        18.914838,
+                        50.340876
+                  ]
+            },
+            {
+                  "name": "Park Miejski im. Franciszka Kachla",
+                  "text": "A Park Miejski im. Franciszka Kachla egy városi park Altstadt von Bytomban.",
+                  "category": "park",
+                  "coords": [
+                        18.905538,
+                        50.352446
+                  ]
+            },
+            {
+                  "name": "Miejsce poległych żołnierzy",
+                  "text": "A Miejsce poległych żołnierzy egy emlékmű Altstadt von Bytomban.",
+                  "category": "historical",
+                  "coords": [
+                        18.928324,
+                        50.332797
+                  ]
+            },
+            {
+                  "name": "Jerzy Popiełuszko",
+                  "text": "A Jerzy Popiełuszko egy emlékmű Altstadt von Bytomban.",
+                  "category": "historical",
+                  "coords": [
+                        18.910718,
+                        50.354202
+                  ]
+            },
+            {
+                  "name": "Pomnik ofiarom terroru komunistycznego",
+                  "text": "A Pomnik ofiarom terroru komunistycznego egy emlékmű Altstadt von Bytomban.",
+                  "category": "historical",
+                  "coords": [
+                        18.911601,
+                        50.349254
+                  ]
+            },
+            {
+                  "name": "KWK Rozbark - zakończenie wydobycia",
+                  "text": "A KWK Rozbark - zakończenie wydobycia egy bányászati emlékmű Altstadt von Bytomban.",
+                  "category": "historical",
+                  "coords": [
+                        18.93158,
+                        50.342039
+                  ]
+            },
+            {
+                  "name": "Żołnierzom i jeńcom Armii Czerwonej",
+                  "text": "A Żołnierzom i jeńcom Armii Czerwonej egy emlékmű Altstadt von Bytomban.",
+                  "category": "historical",
+                  "coords": [
+                        18.923714,
+                        50.362271
+                  ]
+            },
+            {
+                  "name": "Najstarsza kamienica bytomska z 1793 roku",
+                  "text": "Bytom legrégebbi, 1793-ból származó bérháza egy látványosság az óvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        18.92126,
+                        50.347749
+                  ]
+            },
+            {
+                  "name": "Podmurówka spalonego drewnianego koscioła św. Wawrzyńca",
+                  "text": "A leégett Szent Lőrinc fatemplom alapja egy látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.902138,
+                        50.350989
+                  ]
+            },
+            {
+                  "name": "Elektrociepłownia Szombierki",
+                  "text": "A Szombierki Hőerőmű egy jelentős látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.886233,
+                        50.345316
+                  ]
+            },
+            {
+                  "name": "Zabytkowa Kolonia Zgorzelec",
+                  "text": "A történelmi Zgorzelec kolónia egy turisztikai látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.899487,
+                        50.324894
+                  ]
+            },
+            {
+                  "name": "Ruiny wieży cisnień Huty Zygmunt",
+                  "text": "A Zygmunt Acélmű víztornyának romjai egy érdekes látnivaló Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.917672,
+                        50.325894
+                  ]
+            },
+            {
+                  "name": "Stary Ratusz w Szombierkach",
+                  "text": "A Szombierki Régi Városháza egy látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.89176,
+                        50.338066
+                  ]
+            },
+            {
+                  "name": "Remiza strażacka z 1911 roku",
+                  "text": "Az 1911-ből származó tűzoltóállomás egy történelmi látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.931834,
+                        50.325227
+                  ]
+            },
+            {
+                  "name": "Młyn turbinowy",
+                  "text": "A turbinamalom egy helyi látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.956943,
+                        50.339789
+                  ]
+            },
+            {
+                  "name": "Budynek Niemieckiej Izby Celnej w latach 1922-1939",
+                  "text": "A Német Vámhivatal 1922-1939 közötti épülete egy látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.893689,
+                        50.328177
+                  ]
+            },
+            {
+                  "name": "Lokomotywownia Górnośląskich Kolei Wąskotorowych",
+                  "text": "A Felső-Sziléziai Keskeny Nyomtávú Vasutak mozdonyfűtőháza egy jelentős látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.888852,
+                        50.347283
+                  ]
+            },
+            {
+                  "name": "Zespół zabudowy dawnej kopalni rud cynku i ołowiu \"Deutsch Bleischarley\" z lat 1925-28.",
+                  "text": "A „Deutsch Bleischarley” egykori cink- és ólomércbánya 1925-28 közötti épületegyüttese látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.948671,
+                        50.340964
+                  ]
+            },
+            {
+                  "name": "Willa z 1925 roku - obecnie Urząd Stanu Cywilnego",
+                  "text": "Az 1925-ös villa, amely jelenleg az Anyakönyvi Hivatalnak ad otthont, Bytom óvárosának látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        18.903033,
+                        50.349067
+                  ]
+            },
+            {
+                  "name": "Ławka im. Joanny Gryzik-Schaffgotsch",
+                  "text": "A Joanna Gryzik-Schaffgotsch pad egy köztéri emlékmű Bytom óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        18.895731,
+                        50.33684
+                  ]
+            },
+            {
+                  "name": "Historyczny neon Bytom",
+                  "text": "A történelmi Bytom neonfelirat egy városi látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.921977,
+                        50.349313
+                  ]
+            },
+            {
+                  "name": "Dawna zagroda niedźwiedzi z 1898 roku w Parku im. Kachla",
+                  "text": "Az 1898-ból származó egykori medvekifutó a Kachel parkban egy látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.905492,
+                        50.351168
+                  ]
+            },
+            {
+                  "name": "Dworzec Kolejowy w Bobrku",
+                  "text": "A Bobrek vasútállomás egy helyi turisztikai látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.877536,
+                        50.343902
+                  ]
+            },
+            {
+                  "name": "Herb miasta Bytom",
+                  "text": "A Bytom címerét ábrázoló emlékmű a város óvárosában található.",
+                  "category": "historical",
+                  "coords": [
+                        18.913807,
+                        50.348711
+                  ]
+            },
+            {
+                  "name": "OWŚ",
+                  "text": "Az OWŚ egy látványosság Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.9222,
+                        50.327405
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wojciecha",
+                  "text": "A Szent Adalbert-templom egy történelmi istentiszteleti hely Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.925159,
+                        50.345557
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Nepomucena",
+                  "text": "A Nepomuki Szent János-templom egy vallási helyszín Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.932494,
+                        50.327569
+                  ]
+            },
+            {
+                  "name": "Kaplica Najświętszej Marii Panny i Świętego Józefa",
+                  "text": "A Boldogságos Szűz Mária és Szent József kápolna egy jelentős istentiszteleti hely Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.888754,
+                        50.337908
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jacka",
+                  "text": "A Szent Jácint-templom egy helyi templom Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.929369,
+                        50.350188
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Ducha",
+                  "text": "A Szentlélek-templom egy vallási jelentőségű hely Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.92789,
+                        50.346201
+                  ]
+            },
+            {
+                  "name": "Kaplica cmentarna",
+                  "text": "A temetőkápolna egy istentiszteleti és elmélkedési hely Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.919721,
+                        50.353757
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Dobrego Pasterza",
+                  "text": "A Jó Pásztor-templom egy egyházi helyszín Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.875974,
+                        50.350733
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Anny",
+                  "text": "A Szent Anna-templom egy helyi istentiszteleti hely Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.935271,
+                        50.339752
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Świętej",
+                  "text": "A Szentháromság-templom egy jelentős templom Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.919028,
+                        50.348387
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "A Boldogságos Szűz Mária Mennybevétele templom egy kiemelkedő vallási épület Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.922638,
+                        50.347804
+                  ]
+            },
+            {
+                  "name": "Kaplica pogrzebowa",
+                  "text": "Ez a temetőkápolna ünnepélyes istentiszteleti helyként szolgál Bytom óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.921841,
+                        50.35841
+                  ]
+            },
+            {
+                  "name": "Wieża wyciągowa Szybu Krystyna",
+                  "text": "A Krystyna-akna aknatornya az ipari örökség fennmaradt eleme Bytom óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.91143,
+                        50.338539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Żabie Doły",
+                  "text": "Żabie Doły este o rezervație naturală în Altstadt von Bytom.",
+                  "category": "natural",
+                  "coords": [
+                        18.958412,
+                        50.331533
+                  ]
+            },
+            {
+                  "name": "Opera Śląska",
+                  "text": "Opera Śląska este un teatru din Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92124,
+                        50.344149
+                  ]
+            },
+            {
+                  "name": "Teatr Rozbark",
+                  "text": "Teatr Rozbark este un teatru în Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.929162,
+                        50.341689
+                  ]
+            },
+            {
+                  "name": "Muzeum Górnośląskie",
+                  "text": "Muzeum Górnośląskie este un muzeu în Altstadt von Bytom.",
+                  "category": "museum",
+                  "coords": [
+                        18.92665,
+                        50.349069
+                  ]
+            },
+            {
+                  "name": "Centrum Działalności Podwodnej",
+                  "text": "Centrum Działalności Podwodnej este un parc acvatic din Altstadt von Bytom.",
+                  "category": "recreational",
+                  "coords": [
+                        18.936628,
+                        50.336617
+                  ]
+            },
+            {
+                  "name": "Bytomskie Centrum Kultury",
+                  "text": "Bytomskie Centrum Kultury este un teatru în Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.928202,
+                        50.352411
+                  ]
+            },
+            {
+                  "name": "Muszla Koncertowa",
+                  "text": "Muszla Koncertowa este un teatru din Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.910076,
+                        50.350665
+                  ]
+            },
+            {
+                  "name": "Wzgórze świętej Małgorzaty",
+                  "text": "Wzgórze świętej Małgorzaty este un deal din Altstadt von Bytom.",
+                  "category": "natural",
+                  "coords": [
+                        18.914838,
+                        50.340876
+                  ]
+            },
+            {
+                  "name": "Park Miejski im. Franciszka Kachla",
+                  "text": "Park Miejski im. Franciszka Kachla este un parc din Altstadt von Bytom.",
+                  "category": "park",
+                  "coords": [
+                        18.905538,
+                        50.352446
+                  ]
+            },
+            {
+                  "name": "Miejsce poległych żołnierzy",
+                  "text": "Miejsce poległych żołnierzy este un monument în Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.928324,
+                        50.332797
+                  ]
+            },
+            {
+                  "name": "Jerzy Popiełuszko",
+                  "text": "Jerzy Popiełuszko este un monument din Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.910718,
+                        50.354202
+                  ]
+            },
+            {
+                  "name": "Pomnik ofiarom terroru komunistycznego",
+                  "text": "Pomnik ofiarom terroru komunistycznego este un monument din Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.911601,
+                        50.349254
+                  ]
+            },
+            {
+                  "name": "KWK Rozbark - zakończenie wydobycia",
+                  "text": "KWK Rozbark - zakończenie wydobycia este un monument din Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.93158,
+                        50.342039
+                  ]
+            },
+            {
+                  "name": "Żołnierzom i jeńcom Armii Czerwonej",
+                  "text": "Żołnierzom i jeńcom Armii Czerwonej este un monument în Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.923714,
+                        50.362271
+                  ]
+            },
+            {
+                  "name": "Najstarsza kamienica bytomska z 1793 roku",
+                  "text": "Cea mai veche casă din Bytom, datând din 1793, este o atracție situată în Centrul Vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        18.92126,
+                        50.347749
+                  ]
+            },
+            {
+                  "name": "Podmurówka spalonego drewnianego koscioła św. Wawrzyńca",
+                  "text": "Fundația bisericii de lemn arse Sf. Laurențiu este o atracție din Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.902138,
+                        50.350989
+                  ]
+            },
+            {
+                  "name": "Elektrociepłownia Szombierki",
+                  "text": "Centrala termoelectrică Szombierki este o atracție situată în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.886233,
+                        50.345316
+                  ]
+            },
+            {
+                  "name": "Zabytkowa Kolonia Zgorzelec",
+                  "text": "Colonia istorică Zgorzelec este o atracție turistică aflată în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.899487,
+                        50.324894
+                  ]
+            },
+            {
+                  "name": "Ruiny wieży cisnień Huty Zygmunt",
+                  "text": "Ruinele turnului de apă al Oțelăriei Zygmunt servesc drept punct de interes în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.917672,
+                        50.325894
+                  ]
+            },
+            {
+                  "name": "Stary Ratusz w Szombierkach",
+                  "text": "Vechea Primărie din Szombierki este o atracție situată în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.89176,
+                        50.338066
+                  ]
+            },
+            {
+                  "name": "Remiza strażacka z 1911 roku",
+                  "text": "Stația de pompieri din 1911 este o atracție istorică situată în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.931834,
+                        50.325227
+                  ]
+            },
+            {
+                  "name": "Młyn turbinowy",
+                  "text": "Moara cu turbină este o atracție locală situată în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.956943,
+                        50.339789
+                  ]
+            },
+            {
+                  "name": "Budynek Niemieckiej Izby Celnej w latach 1922-1939",
+                  "text": "Clădirea Biroului Vamal German din 1922-1939 este o atracție din Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.893689,
+                        50.328177
+                  ]
+            },
+            {
+                  "name": "Lokomotywownia Górnośląskich Kolei Wąskotorowych",
+                  "text": "Depoul de locomotive al Căilor Ferate cu Ecartament Îngust din Silezia Superioară este o atracție notabilă în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.888852,
+                        50.347283
+                  ]
+            },
+            {
+                  "name": "Zespół zabudowy dawnej kopalni rud cynku i ołowiu \"Deutsch Bleischarley\" z lat 1925-28.",
+                  "text": "Complexul de clădiri al fostei mine de minereu de zinc și plumb „Deutsch Bleischarley” din 1925-28 este o atracție din Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.948671,
+                        50.340964
+                  ]
+            },
+            {
+                  "name": "Willa z 1925 roku - obecnie Urząd Stanu Cywilnego",
+                  "text": "Vila din 1925, care găzduiește în prezent Oficiul de Stare Civilă, este o atracție din Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.903033,
+                        50.349067
+                  ]
+            },
+            {
+                  "name": "Ławka im. Joanny Gryzik-Schaffgotsch",
+                  "text": "Banca Joanna Gryzik-Schaffgotsch este un monument public situat în Centrul Vechi din Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.895731,
+                        50.33684
+                  ]
+            },
+            {
+                  "name": "Historyczny neon Bytom",
+                  "text": "Semnul istoric din neon Bytom este o atracție urbană situată în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.921977,
+                        50.349313
+                  ]
+            },
+            {
+                  "name": "Dawna zagroda niedźwiedzi z 1898 roku w Parku im. Kachla",
+                  "text": "Fosta incintă pentru urși din 1898 din Parcul Kachel este o atracție situată în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.905492,
+                        50.351168
+                  ]
+            },
+            {
+                  "name": "Dworzec Kolejowy w Bobrku",
+                  "text": "Gara Bobrek este o atracție turistică locală aflată în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.877536,
+                        50.343902
+                  ]
+            },
+            {
+                  "name": "Herb miasta Bytom",
+                  "text": "Monumentul care înfățișează stema orașului Bytom se află în Centrul Vechi.",
+                  "category": "historical",
+                  "coords": [
+                        18.913807,
+                        50.348711
+                  ]
+            },
+            {
+                  "name": "OWŚ",
+                  "text": "OWŚ este un punct de interes situat în Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.9222,
+                        50.327405
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wojciecha",
+                  "text": "Biserica Sfântul Adalbert este un lăcaș de cult istoric situat în Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.925159,
+                        50.345557
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Nepomucena",
+                  "text": "Biserica Sfântul Ioan Nepomuk este un sit religios situat în Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.932494,
+                        50.327569
+                  ]
+            },
+            {
+                  "name": "Kaplica Najświętszej Marii Panny i Świętego Józefa",
+                  "text": "Capela Sfintei Fecioare Maria și a Sfântului Iosif este un important lăcaș de cult din Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.888754,
+                        50.337908
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jacka",
+                  "text": "Biserica Sfântul Iacint este o biserică locală situată în Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.929369,
+                        50.350188
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Ducha",
+                  "text": "Biserica Sfântului Duh este un loc cu semnificație religioasă situat în Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.92789,
+                        50.346201
+                  ]
+            },
+            {
+                  "name": "Kaplica cmentarna",
+                  "text": "Capela cimitirului este un lăcaș de cult și reculegere din Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.919721,
+                        50.353757
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Dobrego Pasterza",
+                  "text": "Biserica Bunului Păstor este un sit ecleziastic situat în Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.875974,
+                        50.350733
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Anny",
+                  "text": "Biserica Sfânta Ana este un lăcaș de cult localizat în Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.935271,
+                        50.339752
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Świętej",
+                  "text": "Biserica Sfânta Treime este o biserică importantă situată în Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.919028,
+                        50.348387
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "Biserica Adormirea Maicii Domnului este o clădire religioasă proeminentă din Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.922638,
+                        50.347804
+                  ]
+            },
+            {
+                  "name": "Kaplica pogrzebowa",
+                  "text": "Această capelă funerară servește ca un loc solemn de cult în Centrul Vechi din Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.921841,
+                        50.35841
+                  ]
+            },
+            {
+                  "name": "Wieża wyciągowa Szybu Krystyna",
+                  "text": "Turnul de extracție al Puțului Krystyna este un element supraviețuitor al patrimoniului industrial din Centrul Vechi din Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.91143,
+                        50.338539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Żabie Doły",
+                  "text": "Żabie Doły is a nature and landscape complex in the Altstadt von Bytom.",
+                  "category": "natural",
+                  "coords": [
+                        18.958412,
+                        50.331533
+                  ]
+            },
+            {
+                  "name": "Opera Śląska",
+                  "text": "Opera Śląska is a theatre located in the Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.92124,
+                        50.344149
+                  ]
+            },
+            {
+                  "name": "Teatr Rozbark",
+                  "text": "Teatr Rozbark is a theatre situated in the Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.929162,
+                        50.341689
+                  ]
+            },
+            {
+                  "name": "Muzeum Górnośląskie",
+                  "text": "Muzeum Górnośląskie is a museum in the Altstadt von Bytom.",
+                  "category": "museum",
+                  "coords": [
+                        18.92665,
+                        50.349069
+                  ]
+            },
+            {
+                  "name": "Centrum Działalności Podwodnej",
+                  "text": "Centrum Działalności Podwodnej is a water park located in the Altstadt von Bytom.",
+                  "category": "recreational",
+                  "coords": [
+                        18.936628,
+                        50.336617
+                  ]
+            },
+            {
+                  "name": "Bytomskie Centrum Kultury",
+                  "text": "Bytomskie Centrum Kultury is a theatre situated in the Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.928202,
+                        50.352411
+                  ]
+            },
+            {
+                  "name": "Muszla Koncertowa",
+                  "text": "Muszla Koncertowa is a theatre located in the Altstadt von Bytom.",
+                  "category": "cultural",
+                  "coords": [
+                        18.910076,
+                        50.350665
+                  ]
+            },
+            {
+                  "name": "Wzgórze świętej Małgorzaty",
+                  "text": "Wzgórze świętej Małgorzaty is a hill or peak in the Altstadt von Bytom.",
+                  "category": "natural",
+                  "coords": [
+                        18.914838,
+                        50.340876
+                  ]
+            },
+            {
+                  "name": "Park Miejski im. Franciszka Kachla",
+                  "text": "Park Miejski im. Franciszka Kachla is a historic city park located in the Altstadt von Bytom.",
+                  "category": "park",
+                  "coords": [
+                        18.905538,
+                        50.352446
+                  ]
+            },
+            {
+                  "name": "Miejsce poległych żołnierzy",
+                  "text": "Miejsce poległych żołnierzy is a monument situated in the Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.928324,
+                        50.332797
+                  ]
+            },
+            {
+                  "name": "Jerzy Popiełuszko",
+                  "text": "Jerzy Popiełuszko is a monument located in the Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.910718,
+                        50.354202
+                  ]
+            },
+            {
+                  "name": "Pomnik ofiarom terroru komunistycznego",
+                  "text": "Pomnik ofiarom terroru komunistycznego is a monument in the Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.911601,
+                        50.349254
+                  ]
+            },
+            {
+                  "name": "KWK Rozbark - zakończenie wydobycia",
+                  "text": "KWK Rozbark - zakończenie wydobycia is a monument in the Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.93158,
+                        50.342039
+                  ]
+            },
+            {
+                  "name": "Żołnierzom i jeńcom Armii Czerwonej",
+                  "text": "Żołnierzom i jeńcom Armii Czerwonej is a monument situated in the Altstadt von Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.923714,
+                        50.362271
+                  ]
+            },
+            {
+                  "name": "Najstarsza kamienica bytomska z 1793 roku",
+                  "text": "The oldest tenement house in Bytom, dating back to 1793, is an attraction located in the Old Town.",
+                  "category": "landmark",
+                  "coords": [
+                        18.92126,
+                        50.347749
+                  ]
+            },
+            {
+                  "name": "Podmurówka spalonego drewnianego koscioła św. Wawrzyńca",
+                  "text": "The foundation of the burned wooden St. Lawrence Church is an attraction located in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.902138,
+                        50.350989
+                  ]
+            },
+            {
+                  "name": "Elektrociepłownia Szombierki",
+                  "text": "The Szombierki Combined Heat and Power Plant is a notable attraction located in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.886233,
+                        50.345316
+                  ]
+            },
+            {
+                  "name": "Zabytkowa Kolonia Zgorzelec",
+                  "text": "The historic Zgorzelec Colony is a tourist attraction found in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.899487,
+                        50.324894
+                  ]
+            },
+            {
+                  "name": "Ruiny wieży cisnień Huty Zygmunt",
+                  "text": "The ruins of the Zygmunt Steelworks water tower serve as a point of interest in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.917672,
+                        50.325894
+                  ]
+            },
+            {
+                  "name": "Stary Ratusz w Szombierkach",
+                  "text": "The Old Town Hall in Szombierki is an attraction located in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.89176,
+                        50.338066
+                  ]
+            },
+            {
+                  "name": "Remiza strażacka z 1911 roku",
+                  "text": "The firehouse from 1911 is a historical attraction situated in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.931834,
+                        50.325227
+                  ]
+            },
+            {
+                  "name": "Młyn turbinowy",
+                  "text": "The turbine mill is a local attraction located in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.956943,
+                        50.339789
+                  ]
+            },
+            {
+                  "name": "Budynek Niemieckiej Izby Celnej w latach 1922-1939",
+                  "text": "The building of the German Customs Office from 1922-1939 is an attraction in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.893689,
+                        50.328177
+                  ]
+            },
+            {
+                  "name": "Lokomotywownia Górnośląskich Kolei Wąskotorowych",
+                  "text": "The locomotive depot of the Upper Silesian Narrow Gauge Railways is a notable attraction in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.888852,
+                        50.347283
+                  ]
+            },
+            {
+                  "name": "Zespół zabudowy dawnej kopalni rud cynku i ołowiu \"Deutsch Bleischarley\" z lat 1925-28.",
+                  "text": "The building complex of the former zinc and lead ore mine \"Deutsch Bleischarley\" from 1925-28 is an attraction in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.948671,
+                        50.340964
+                  ]
+            },
+            {
+                  "name": "Willa z 1925 roku - obecnie Urząd Stanu Cywilnego",
+                  "text": "The 1925 villa, which currently houses the Registry Office, is an attraction in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.903033,
+                        50.349067
+                  ]
+            },
+            {
+                  "name": "Ławka im. Joanny Gryzik-Schaffgotsch",
+                  "text": "The Joanna Gryzik-Schaffgotsch bench is a public monument located in the Old Town of Bytom.",
+                  "category": "historical",
+                  "coords": [
+                        18.895731,
+                        50.33684
+                  ]
+            },
+            {
+                  "name": "Historyczny neon Bytom",
+                  "text": "The historic Bytom neon sign is an urban attraction situated in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.921977,
+                        50.349313
+                  ]
+            },
+            {
+                  "name": "Dawna zagroda niedźwiedzi z 1898 roku w Parku im. Kachla",
+                  "text": "The former bear enclosure from 1898 in Kachel Park is an attraction located in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.905492,
+                        50.351168
+                  ]
+            },
+            {
+                  "name": "Dworzec Kolejowy w Bobrku",
+                  "text": "The Bobrek Railway Station is a local tourist attraction found in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.877536,
+                        50.343902
+                  ]
+            },
+            {
+                  "name": "Herb miasta Bytom",
+                  "text": "The monument depicting the coat of arms of Bytom is located in the city's Old Town.",
+                  "category": "historical",
+                  "coords": [
+                        18.913807,
+                        50.348711
+                  ]
+            },
+            {
+                  "name": "OWŚ",
+                  "text": "OWŚ is a point of interest located in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.9222,
+                        50.327405
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wojciecha",
+                  "text": "The Church of Saint Adalbert is a prominent church located in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.925159,
+                        50.345557
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Nepomucena",
+                  "text": "The Church of Saint John of Nepomuk is a religious site located in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.932494,
+                        50.327569
+                  ]
+            },
+            {
+                  "name": "Kaplica Najświętszej Marii Panny i Świętego Józefa",
+                  "text": "The Chapel of the Blessed Virgin Mary and St. Joseph is a notable place of worship in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.888754,
+                        50.337908
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jacka",
+                  "text": "The Church of Saint Hyacinth is a local church situated in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.929369,
+                        50.350188
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Ducha",
+                  "text": "The Church of the Holy Spirit is a place of religious significance located in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.92789,
+                        50.346201
+                  ]
+            },
+            {
+                  "name": "Kaplica cmentarna",
+                  "text": "The cemetery chapel is a place of worship and contemplation in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.919721,
+                        50.353757
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Dobrego Pasterza",
+                  "text": "The Church of the Good Shepherd is an ecclesiastical site located in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.875974,
+                        50.350733
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Anny",
+                  "text": "The Church of Saint Anne is a local place of worship positioned in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.935271,
+                        50.339752
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Świętej",
+                  "text": "The Holy Trinity Church is a notable church positioned in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.919028,
+                        50.348387
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "The Church of the Assumption of the Blessed Virgin Mary is a prominent religious building in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.922638,
+                        50.347804
+                  ]
+            },
+            {
+                  "name": "Kaplica pogrzebowa",
+                  "text": "This funeral chapel serves as a solemn place of worship in the Old Town of Bytom.",
+                  "category": "religious",
+                  "coords": [
+                        18.921841,
+                        50.35841
+                  ]
+            },
+            {
+                  "name": "Wieża wyciągowa Szybu Krystyna",
+                  "text": "The winding tower of the Krystyna Shaft is a surviving element of industrial heritage in the Old Town of Bytom.",
+                  "category": "landmark",
+                  "coords": [
+                        18.91143,
+                        50.338539
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PL",
     name: { de: "Altstadt von Bytom", hu: "Bytom óvárosa", ro: "Centrul vechi din Bytom", en: "Bytom Old Town" },
@@ -3524,7 +13217,1024 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-nysa-fortifications-history-v2.webp",
   },
   {
-    id: "poland-gniezno-old-town-history-v2",
+    id: "poland-gniezno-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bahnbetriebswerk Gniezno",
+                  "text": "Gniezno Train Depot ist ein historisches Lokomotivdepot, das als Museum in der Altstadt von Gnesen fungiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.599254,
+                        52.528211
+                  ]
+            },
+            {
+                  "name": "Muzeum Początków Państwa Polskiego",
+                  "text": "Muzeum Początków Państwa Polskiego ist ein bedeutendes Museum zur Geschichte der Anfänge des polnischen Staates in der Altstadt von Gnesen.",
+                  "category": "museum",
+                  "coords": [
+                        17.583207,
+                        52.53392
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Estede",
+                  "text": "Amfiteatr Estede ist ein Theater in der Altstadt von Gnesen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.609531,
+                        52.537679
+                  ]
+            },
+            {
+                  "name": "Teatr im. Aleksandra Fredry",
+                  "text": "Teatr im. Aleksandra Fredry ist ein Theater in der Altstadt von Gnesen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.601088,
+                        52.533465
+                  ]
+            },
+            {
+                  "name": "Muzeum Zabytków kultury technicznej",
+                  "text": "Muzeum Zabytków kultury technicznej ist ein Museum in der Altstadt von Gnesen.",
+                  "category": "museum",
+                  "coords": [
+                        17.596658,
+                        52.516791
+                  ]
+            },
+            {
+                  "name": "Odkryte baseny letnie",
+                  "text": "Ein Freibad in der Altstadt von Gnesen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.614565,
+                        52.544795
+                  ]
+            },
+            {
+                  "name": "Wzgórze Lecha",
+                  "text": "Ein historischer Hügel in der Altstadt von Gnesen, der als ältester Teil der Stadt gilt.",
+                  "category": "natural",
+                  "coords": [
+                        17.591843,
+                        52.537032
+                  ]
+            },
+            {
+                  "name": "Święty Wojciech",
+                  "text": "Ein Denkmal in der Altstadt von Gnesen.",
+                  "category": "historical",
+                  "coords": [
+                        17.600218,
+                        52.534791
+                  ]
+            },
+            {
+                  "name": "Ofiar II Wojny Światowej",
+                  "text": "Ein Denkmal in der Altstadt von Gnesen, das den Opfern des Zweiten Weltkriegs gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        17.600456,
+                        52.53048
+                  ]
+            },
+            {
+                  "name": "Ludziom Morza",
+                  "text": "Ein Denkmal für die Menschen des Meeres in der Altstadt von Gnesen.",
+                  "category": "historical",
+                  "coords": [
+                        17.601938,
+                        52.530896
+                  ]
+            },
+            {
+                  "name": "Pomnik Bolesława Chrobrego i Mieszka I",
+                  "text": "Ein Denkmal für Bolesław Chrobry und Mieszko I. in der Altstadt von Gnesen.",
+                  "category": "historical",
+                  "coords": [
+                        17.584289,
+                        52.533344
+                  ]
+            },
+            {
+                  "name": "Pomnik Harcerzy Pomordowanych i Poległych za Ojczyznę - Harcerski Pomnik Pamieci",
+                  "text": "Ein Pfadfinder-Denkmal in der Altstadt von Gnesen.",
+                  "category": "historical",
+                  "coords": [
+                        17.607617,
+                        52.538189
+                  ]
+            },
+            {
+                  "name": "Universitas Studiorum Posnaniensis",
+                  "text": "Eine lokale Attraktion in der Altstadt von Gnesen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.583108,
+                        52.532543
+                  ]
+            },
+            {
+                  "name": "Pozostołość po murach miejskich",
+                  "text": "Ruinen der alten Stadtmauer in der Altstadt von Gnesen.",
+                  "category": "historical",
+                  "coords": [
+                        17.595209,
+                        52.534692
+                  ]
+            },
+            {
+                  "name": "Powstańców Wielkopolskich",
+                  "text": "Ein Denkmal für die Großpolnischen Aufständischen in der Altstadt von Gnesen.",
+                  "category": "historical",
+                  "coords": [
+                        17.587167,
+                        52.540569
+                  ]
+            },
+            {
+                  "name": "Napis GNIEZNO",
+                  "text": "Ein Schriftzug als Attraktion in der Altstadt von Gnesen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.587298,
+                        52.537002
+                  ]
+            },
+            {
+                  "name": "Kolegiata pw. św. Jerzego",
+                  "text": "Eine kleine Stiftskirche in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.593096,
+                        52.537388
+                  ]
+            },
+            {
+                  "name": "Kościół pw.Świętego Wawrzyńca",
+                  "text": "Eine historische gotische Kirche in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.594294,
+                        52.532189
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela",
+                  "text": "Eine wichtige historische katholische Kirche in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.597667,
+                        52.537941
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "Eine historische Kirche, auch bekannt als Franziskanerkirche, in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.596536,
+                        52.536697
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Błogosławionego Bogumiła",
+                  "text": "Eine lokale Kultstätte in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.621388,
+                        52.545937
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Maksymiliana Kolbego",
+                  "text": "Eine moderne Pfarrkirche und Kultstätte in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.607193,
+                        52.542564
+                  ]
+            },
+            {
+                  "name": "Kościół bł. R. Gaudentego",
+                  "text": "Eine Kultstätte in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.602147,
+                        52.549168
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "Eine historische Friedhofskirche in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.595709,
+                        52.542418
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Michała Archanioła",
+                  "text": "Ein historisches Kirchengebäude in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.602853,
+                        52.537034
+                  ]
+            },
+            {
+                  "name": "Kościół pw.Świętych Apostołów Piotra i Pawła",
+                  "text": "Eine historische Pfarrkirche in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.586511,
+                        52.539027
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "Eine historische Kirche, die ursprünglich evangelisch war und heute dem seligen Michał Kozal gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.575792,
+                        52.533854
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Wieczystego Kapłana",
+                  "text": "Eine Kultstätte in der Altstadt von Gnesen.",
+                  "category": "religious",
+                  "coords": [
+                        17.607227,
+                        52.513604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stowarzyszenie \"Parowozownia Gniezno\"",
+                  "text": "A Gniezno Train Depot egy történelmi mozdonyfűtőház, amely múzeumként működik az Altstadt von Gnesen területén.",
+                  "category": "museum",
+                  "coords": [
+                        17.599254,
+                        52.528211
+                  ]
+            },
+            {
+                  "name": "Muzeum Początków Państwa Polskiego",
+                  "text": "A Muzeum Początków Państwa Polskiego a lengyel állam eredetét bemutató jelentős múzeum az Altstadt von Gnesen területén.",
+                  "category": "museum",
+                  "coords": [
+                        17.583207,
+                        52.53392
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Estede",
+                  "text": "Az Amfiteatr Estede egy színház az Altstadt von Gnesen területén.",
+                  "category": "cultural",
+                  "coords": [
+                        17.609531,
+                        52.537679
+                  ]
+            },
+            {
+                  "name": "Teatr im. Aleksandra Fredry",
+                  "text": "A Teatr im. Aleksandra Fredry egy színház az Altstadt von Gnesen területén.",
+                  "category": "cultural",
+                  "coords": [
+                        17.601088,
+                        52.533465
+                  ]
+            },
+            {
+                  "name": "Muzeum Zabytków kultury technicznej",
+                  "text": "A Muzeum Zabytków kultury technicznej egy múzeum az Altstadt von Gnesen területén.",
+                  "category": "museum",
+                  "coords": [
+                        17.596658,
+                        52.516791
+                  ]
+            },
+            {
+                  "name": "Odkryte baseny letnie",
+                  "text": "Egy szabadtéri vízipark Gniezno óvárosában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.614565,
+                        52.544795
+                  ]
+            },
+            {
+                  "name": "Wzgórze Lecha",
+                  "text": "Egy történelmi domb Gniezno óvárosában, amely a város legrégebbi részének számít.",
+                  "category": "natural",
+                  "coords": [
+                        17.591843,
+                        52.537032
+                  ]
+            },
+            {
+                  "name": "Święty Wojciech",
+                  "text": "Egy emlékmű Gniezno óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        17.600218,
+                        52.534791
+                  ]
+            },
+            {
+                  "name": "Ofiar II Wojny Światowej",
+                  "text": "A második világháború áldozatainak szentelt emlékmű Gniezno óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        17.600456,
+                        52.53048
+                  ]
+            },
+            {
+                  "name": "Ludziom Morza",
+                  "text": "A tenger embereinek emlékműve Gniezno óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        17.601938,
+                        52.530896
+                  ]
+            },
+            {
+                  "name": "Pomnik Bolesława Chrobrego i Mieszka I",
+                  "text": "Vitéz Boleszláv és I. Mieszko emlékműve Gniezno óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        17.584289,
+                        52.533344
+                  ]
+            },
+            {
+                  "name": "Pomnik Harcerzy Pomordowanych i Poległych za Ojczyznę - Harcerski Pomnik Pamieci",
+                  "text": "Cserkész emlékmű Gniezno óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        17.607617,
+                        52.538189
+                  ]
+            },
+            {
+                  "name": "Universitas Studiorum Posnaniensis",
+                  "text": "Egy helyi látványosság Gniezno óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.583108,
+                        52.532543
+                  ]
+            },
+            {
+                  "name": "Pozostołość po murach miejskich",
+                  "text": "A régi városfal romjai Gniezno óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        17.595209,
+                        52.534692
+                  ]
+            },
+            {
+                  "name": "Powstańców Wielkopolskich",
+                  "text": "A nagy-lengyelországi felkelők emlékműve Gniezno óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        17.587167,
+                        52.540569
+                  ]
+            },
+            {
+                  "name": "Napis GNIEZNO",
+                  "text": "Gniezno felirat mint látványosság az óvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.587298,
+                        52.537002
+                  ]
+            },
+            {
+                  "name": "Kolegiata pw. św. Jerzego",
+                  "text": "Egy kis káptalani templom Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.593096,
+                        52.537388
+                  ]
+            },
+            {
+                  "name": "Kościół pw.Świętego Wawrzyńca",
+                  "text": "Egy történelmi gótikus templom Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.594294,
+                        52.532189
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela",
+                  "text": "Egy fontos történelmi katolikus templom Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.597667,
+                        52.537941
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "A ferences templomként ismert történelmi épület Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.596536,
+                        52.536697
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Błogosławionego Bogumiła",
+                  "text": "Egy helyi istentiszteleti hely Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.621388,
+                        52.545937
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Maksymiliana Kolbego",
+                  "text": "Egy modern plébániatemplom és istentiszteleti hely Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.607193,
+                        52.542564
+                  ]
+            },
+            {
+                  "name": "Kościół bł. R. Gaudentego",
+                  "text": "Egy istentiszteleti hely Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.602147,
+                        52.549168
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "Egy történelmi temetőkápolna Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.595709,
+                        52.542418
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Michała Archanioła",
+                  "text": "Egy történelmi templomépület Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.602853,
+                        52.537034
+                  ]
+            },
+            {
+                  "name": "Kościół pw.Świętych Apostołów Piotra i Pawła",
+                  "text": "Egy történelmi plébániatemplom Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.586511,
+                        52.539027
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "Egy történelmi templom, amely eredetileg evangélikus volt, ma pedig Boldog Michał Kozalnak van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        17.575792,
+                        52.533854
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Wieczystego Kapłana",
+                  "text": "Egy istentiszteleti hely Gniezno óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.607227,
+                        52.513604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stowarzyszenie \"Parowozownia Gniezno\"",
+                  "text": "Gniezno Train Depot este un depou istoric de locomotive care funcționează ca muzeu în Altstadt von Gnesen.",
+                  "category": "museum",
+                  "coords": [
+                        17.599254,
+                        52.528211
+                  ]
+            },
+            {
+                  "name": "Muzeum Początków Państwa Polskiego",
+                  "text": "Muzeum Początków Państwa Polskiego este un muzeu notabil care documentează originile statului polonez, situat în Altstadt von Gnesen.",
+                  "category": "museum",
+                  "coords": [
+                        17.583207,
+                        52.53392
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Estede",
+                  "text": "Amfiteatr Estede este un teatru situat în Altstadt von Gnesen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.609531,
+                        52.537679
+                  ]
+            },
+            {
+                  "name": "Teatr im. Aleksandra Fredry",
+                  "text": "Teatr im. Aleksandra Fredry este un teatru situat în Altstadt von Gnesen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.601088,
+                        52.533465
+                  ]
+            },
+            {
+                  "name": "Muzeum Zabytków kultury technicznej",
+                  "text": "Muzeum Zabytków kultury technicznej este un muzeu situat în Altstadt von Gnesen.",
+                  "category": "museum",
+                  "coords": [
+                        17.596658,
+                        52.516791
+                  ]
+            },
+            {
+                  "name": "Odkryte baseny letnie",
+                  "text": "Un parc acvatic în aer liber în orașul vechi din Gniezno.",
+                  "category": "recreational",
+                  "coords": [
+                        17.614565,
+                        52.544795
+                  ]
+            },
+            {
+                  "name": "Wzgórze Lecha",
+                  "text": "Un deal istoric din orașul vechi Gniezno, considerat cea mai veche parte a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        17.591843,
+                        52.537032
+                  ]
+            },
+            {
+                  "name": "Święty Wojciech",
+                  "text": "Un monument în orașul vechi din Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.600218,
+                        52.534791
+                  ]
+            },
+            {
+                  "name": "Ofiar II Wojny Światowej",
+                  "text": "Un monument dedicat victimelor celui de-al Doilea Război Mondial din orașul vechi Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.600456,
+                        52.53048
+                  ]
+            },
+            {
+                  "name": "Ludziom Morza",
+                  "text": "Un monument dedicat oamenilor mării în orașul vechi din Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.601938,
+                        52.530896
+                  ]
+            },
+            {
+                  "name": "Pomnik Bolesława Chrobrego i Mieszka I",
+                  "text": "Un monument dedicat lui Bolesław cel Viteaz și Mieszko I în orașul vechi din Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.584289,
+                        52.533344
+                  ]
+            },
+            {
+                  "name": "Pomnik Harcerzy Pomordowanych i Poległych za Ojczyznę - Harcerski Pomnik Pamieci",
+                  "text": "Un monument dedicat cercetașilor în orașul vechi din Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.607617,
+                        52.538189
+                  ]
+            },
+            {
+                  "name": "Universitas Studiorum Posnaniensis",
+                  "text": "O atracție locală în orașul vechi din Gniezno.",
+                  "category": "landmark",
+                  "coords": [
+                        17.583108,
+                        52.532543
+                  ]
+            },
+            {
+                  "name": "Pozostołość po murach miejskich",
+                  "text": "Ruinele vechiului zid al orașului din orașul vechi Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.595209,
+                        52.534692
+                  ]
+            },
+            {
+                  "name": "Powstańców Wielkopolskich",
+                  "text": "Un monument dedicat insurgenților din Marea Polonie în orașul vechi din Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.587167,
+                        52.540569
+                  ]
+            },
+            {
+                  "name": "Napis GNIEZNO",
+                  "text": "O atracție cu inscripția orașului în orașul vechi din Gniezno.",
+                  "category": "landmark",
+                  "coords": [
+                        17.587298,
+                        52.537002
+                  ]
+            },
+            {
+                  "name": "Kolegiata pw. św. Jerzego",
+                  "text": "O mică biserică colegială în orașul vechi din Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.593096,
+                        52.537388
+                  ]
+            },
+            {
+                  "name": "Kościół pw.Świętego Wawrzyńca",
+                  "text": "O biserică gotică istorică în orașul vechi din Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.594294,
+                        52.532189
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela",
+                  "text": "O importantă biserică catolică istorică în orașul vechi din Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.597667,
+                        52.537941
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "O biserică istorică, cunoscută și sub numele de Biserica Franciscană, în orașul vechi Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.596536,
+                        52.536697
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Błogosławionego Bogumiła",
+                  "text": "Un lăcaș de cult local în orașul vechi din Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.621388,
+                        52.545937
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Maksymiliana Kolbego",
+                  "text": "O biserică parohială modernă și un lăcaș de cult în orașul vechi Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.607193,
+                        52.542564
+                  ]
+            },
+            {
+                  "name": "Kościół bł. R. Gaudentego",
+                  "text": "Un lăcaș de cult în orașul vechi din Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.602147,
+                        52.549168
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "O biserică istorică de cimitir în orașul vechi din Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.595709,
+                        52.542418
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Michała Archanioła",
+                  "text": "O clădire istorică a bisericii în orașul vechi din Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.602853,
+                        52.537034
+                  ]
+            },
+            {
+                  "name": "Kościół pw.Świętych Apostołów Piotra i Pawła",
+                  "text": "O biserică parohială istorică în orașul vechi din Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.586511,
+                        52.539027
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "O biserică istorică, inițial evanghelică, dedicată acum Fericitului Michał Kozal în orașul vechi Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.575792,
+                        52.533854
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Wieczystego Kapłana",
+                  "text": "Un lăcaș de cult în orașul vechi din Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.607227,
+                        52.513604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gniezno Train Depot",
+                  "text": "Gniezno Train Depot is a historic locomotive depot functioning as a museum located in Altstadt von Gnesen.",
+                  "category": "museum",
+                  "coords": [
+                        17.599254,
+                        52.528211
+                  ]
+            },
+            {
+                  "name": "Muzeum Początków Państwa Polskiego",
+                  "text": "Muzeum Początków Państwa Polskiego is a notable museum documenting the origins of the Polish State, located in Altstadt von Gnesen.",
+                  "category": "museum",
+                  "coords": [
+                        17.583207,
+                        52.53392
+                  ]
+            },
+            {
+                  "name": "Amfiteatr Estede",
+                  "text": "Amfiteatr Estede is a theatre located in Altstadt von Gnesen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.609531,
+                        52.537679
+                  ]
+            },
+            {
+                  "name": "Teatr im. Aleksandra Fredry",
+                  "text": "Teatr im. Aleksandra Fredry is a theatre located in Altstadt von Gnesen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.601088,
+                        52.533465
+                  ]
+            },
+            {
+                  "name": "Muzeum Zabytków kultury technicznej",
+                  "text": "Muzeum Zabytków kultury technicznej is a museum located in Altstadt von Gnesen.",
+                  "category": "museum",
+                  "coords": [
+                        17.596658,
+                        52.516791
+                  ]
+            },
+            {
+                  "name": "Odkryte baseny letnie",
+                  "text": "An outdoor water park in the Old Town of Gniezno.",
+                  "category": "recreational",
+                  "coords": [
+                        17.614565,
+                        52.544795
+                  ]
+            },
+            {
+                  "name": "Wzgórze Lecha",
+                  "text": "A historic hill in the Old Town of Gniezno, considered the oldest part of the city.",
+                  "category": "natural",
+                  "coords": [
+                        17.591843,
+                        52.537032
+                  ]
+            },
+            {
+                  "name": "Święty Wojciech",
+                  "text": "A monument located in the Old Town of Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.600218,
+                        52.534791
+                  ]
+            },
+            {
+                  "name": "Ofiar II Wojny Światowej",
+                  "text": "A monument dedicated to the victims of World War II in the Old Town of Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.600456,
+                        52.53048
+                  ]
+            },
+            {
+                  "name": "Ludziom Morza",
+                  "text": "A monument dedicated to the people of the sea in the Old Town of Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.601938,
+                        52.530896
+                  ]
+            },
+            {
+                  "name": "Pomnik Bolesława Chrobrego i Mieszka I",
+                  "text": "A monument dedicated to Bolesław the Brave and Mieszko I in the Old Town of Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.584289,
+                        52.533344
+                  ]
+            },
+            {
+                  "name": "Pomnik Harcerzy Pomordowanych i Poległych za Ojczyznę - Harcerski Pomnik Pamieci",
+                  "text": "A scout monument located in the Old Town of Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.607617,
+                        52.538189
+                  ]
+            },
+            {
+                  "name": "Universitas Studiorum Posnaniensis",
+                  "text": "A local attraction in the Old Town of Gniezno.",
+                  "category": "landmark",
+                  "coords": [
+                        17.583108,
+                        52.532543
+                  ]
+            },
+            {
+                  "name": "Pozostołość po murach miejskich",
+                  "text": "Ruins of the old city walls in the Old Town of Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.595209,
+                        52.534692
+                  ]
+            },
+            {
+                  "name": "Powstańców Wielkopolskich",
+                  "text": "A monument dedicated to the Greater Poland Insurgents in the Old Town of Gniezno.",
+                  "category": "historical",
+                  "coords": [
+                        17.587167,
+                        52.540569
+                  ]
+            },
+            {
+                  "name": "Napis GNIEZNO",
+                  "text": "A sign attraction in the Old Town of Gniezno.",
+                  "category": "landmark",
+                  "coords": [
+                        17.587298,
+                        52.537002
+                  ]
+            },
+            {
+                  "name": "Kolegiata pw. św. Jerzego",
+                  "text": "A small collegiate church in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.593096,
+                        52.537388
+                  ]
+            },
+            {
+                  "name": "Kościół pw.Świętego Wawrzyńca",
+                  "text": "A historic Gothic church located in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.594294,
+                        52.532189
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jana Chrzciciela",
+                  "text": "An important historical Catholic church in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.597667,
+                        52.537941
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny",
+                  "text": "A historic church, known as the Franciscan Church, located in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.596536,
+                        52.536697
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Błogosławionego Bogumiła",
+                  "text": "A local place of worship in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.621388,
+                        52.545937
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Maksymiliana Kolbego",
+                  "text": "A modern parish church and place of worship in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.607193,
+                        52.542564
+                  ]
+            },
+            {
+                  "name": "Kościół bł. R. Gaudentego",
+                  "text": "A place of worship located in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.602147,
+                        52.549168
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Krzyża",
+                  "text": "A historic cemetery church located in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.595709,
+                        52.542418
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Michała Archanioła",
+                  "text": "A historic church building in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.602853,
+                        52.537034
+                  ]
+            },
+            {
+                  "name": "Kościół pw.Świętych Apostołów Piotra i Pawła",
+                  "text": "A historic parish church in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.586511,
+                        52.539027
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Augsburski",
+                  "text": "A historic church, originally Evangelical, now dedicated to Blessed Michał Kozal in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.575792,
+                        52.533854
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Chrystusa Wieczystego Kapłana",
+                  "text": "A place of worship located in the Old Town of Gniezno.",
+                  "category": "religious",
+                  "coords": [
+                        17.607227,
+                        52.513604
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PL",
     name: { de: "Altstadt von Gnesen", hu: "Gnieznói óváros", ro: "Centrul vechi din Gniezno", en: "Gniezno Old Town" },
@@ -3614,7 +14324,1564 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-kwidzyn-old-town-history-v2.webp",
   },
   {
-    id: "poland-bydgoszcz-old-town-history-v2",
+    id: "poland-bydgoszcz-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Okręgowe im. Leona Wyczółkowskiego",
+                  "text": "Das Leon-Wyczółkowski-Bezirksmuseum ist eine Institution zur Bewahrung der regionalen Geschichte und Kunst in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.00318,
+                        53.124625
+                  ]
+            },
+            {
+                  "name": "Ławeczka Mariana Rejewskiego",
+                  "text": "Die Marian-Rejewski-Bank ist ein Denkmal zu Ehren des berühmten Kryptoanalytikers in der Altstadt von Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        18.005771,
+                        53.128269
+                  ]
+            },
+            {
+                  "name": "Opera Nova",
+                  "text": "Die Opera Nova ist ein wichtiger Veranstaltungsort für darstellende Künste in der Altstadt von Bydgoszcz.",
+                  "category": "cultural",
+                  "coords": [
+                        17.997738,
+                        53.124397
+                  ]
+            },
+            {
+                  "name": "Filharmonia Pomorska im. Ignacego Jana Paderewskiego",
+                  "text": "Die Pommersche Philharmonie Ignacy Jan Paderewski ist ein bekannter Konzertsaal in der Altstadt von Bydgoszcz.",
+                  "category": "cultural",
+                  "coords": [
+                        18.010829,
+                        53.12897
+                  ]
+            },
+            {
+                  "name": "Kirche Jesu Christi der Heiligen der Letzten Tage",
+                  "text": "Die Kirche Jesu Christi der Heiligen der Letzten Tage ist ein Gotteshaus in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.012082,
+                        53.133823
+                  ]
+            },
+            {
+                  "name": "Kościół Zbawiciela",
+                  "text": "Die Erlöserkirche ist ein aktives Gotteshaus in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.996475,
+                        53.133362
+                  ]
+            },
+            {
+                  "name": "Kościół św. Józefa Rzemieślnika",
+                  "text": "Die Kirche des Heiligen Josef des Arbeiters ist eine religiöse Stätte in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.038708,
+                        53.116031
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Trójcy",
+                  "text": "Die Dreifaltigkeitskirche ist ein bedeutendes kirchliches Gebäude in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.99172,
+                        53.124502
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Apostołów Piotra i Pawła",
+                  "text": "Die Kirche der Heiligen Apostel Petrus und Paulus ist eine prominente Kirche in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.00524,
+                        53.12663
+                  ]
+            },
+            {
+                  "name": "Kościół rektorski pw. Ducha Świętego",
+                  "text": "Die Rektoratskirche des Heiligen Geistes ist ein anerkanntes Gotteshaus in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.00923,
+                        53.106412
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Fatimskiej",
+                  "text": "Die Kirche Unserer Lieben Frau von Fatima ist ein etabliertes Gotteshaus in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.036286,
+                        53.111371
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Andrzeja Boboli",
+                  "text": "Die St.-Andreas-Bobola-Kirche ist eine bedeutende Kirche in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.004427,
+                        53.121055
+                  ]
+            },
+            {
+                  "name": "Kościół Zmartwychwstania Pańskiego",
+                  "text": "Die Auferstehungskirche ist ein zentrales Gotteshaus in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.001499,
+                        53.13037
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Metodystyczny",
+                  "text": "Die Evangelisch-Methodistische Kirche ist ein protestantisches Gotteshaus in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.004539,
+                        53.131681
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Królowej Pokoju",
+                  "text": "Die Kirche der Heiligen Jungfrau Maria Königin des Friedens, eine ehemalige Bernhardinerstätte, ist eine wichtige Kirche in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.007265,
+                        53.119866
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Die Kirche der Göttlichen Barmherzigkeit ist ein lokales Gotteshaus in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.970082,
+                        53.12756
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Wojciecha",
+                  "text": "Die St.-Adalbert-Kirche dient der örtlichen Gemeinde als Gotteshaus in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.976812,
+                        53.128693
+                  ]
+            },
+            {
+                  "name": "Katedra Świętego Marcina i Świętego Mikołaja",
+                  "text": "Die Kathedrale St. Martin und St. Nikolaus ist eine historische und bedeutende Kirche in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.99908,
+                        53.122873
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Die Herz-Jesu-Kirche ist ein spiritueller Mittelpunkt in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.998091,
+                        53.131941
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wincentego à Paulo",
+                  "text": "Die Basilika St. Vinzenz von Paul ist eine beeindruckende Kirche und Basilica minor in der Altstadt von Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.017291,
+                        53.127115
+                  ]
+            },
+            {
+                  "name": "Astoria",
+                  "text": "Astoria ist mit der Bydgoszczer Wasserstraßenbahn verbunden, einer beliebten Attraktion auf den Wasserwegen der Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.991767,
+                        53.130618
+                  ]
+            },
+            {
+                  "name": "Ogród Botaniczny - Arboretum Uniwersytetu Kazimierza Wielkiego w Bydgoszczy",
+                  "text": "Der Botanische Garten und das Arboretum der Kasimir-der-Große-Universität ist eine Naturattraktion in der Altstadt von Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.017719,
+                        53.131259
+                  ]
+            },
+            {
+                  "name": "Bydgoski Tramwaj Wodny",
+                  "text": "Die Bydgoszczer Wasserstraßenbahn bietet eine einzigartige und malerische Touristenroute durch die Gewässer der Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.993935,
+                        53.129105
+                  ]
+            },
+            {
+                  "name": "Stary Rynek",
+                  "text": "Old Market ist eine bekannte Attraktion in der Altstadt von Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.000273,
+                        53.121963
+                  ]
+            },
+            {
+                  "name": "Kładka Esperanto",
+                  "text": "Esperanto Bridge ist eine bekannte Brücke in der Altstadt von Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.02317,
+                        53.12089
+                  ]
+            },
+            {
+                  "name": "Leśny Park Kultury i Wypoczynku \"Myślęcinek\"",
+                  "text": "Leśny Park Kultury i Wypoczynku \"Myślęcinek\" ist ein bekannter Park in der Altstadt von Bydgoszcz.",
+                  "category": "park",
+                  "coords": [
+                        18.024839,
+                        53.162043
+                  ]
+            },
+            {
+                  "name": "Most Młyński tramwajowy",
+                  "text": "Most Młyński tramwajowy ist eine bekannte Brücke in der Altstadt von Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        17.994902,
+                        53.125506
+                  ]
+            },
+            {
+                  "name": "Most Portowy tramwajowy",
+                  "text": "Most Portowy tramwajowy ist eine bekannte Brücke in der Altstadt von Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        17.995934,
+                        53.125377
+                  ]
+            },
+            {
+                  "name": "Biały Spichlerz",
+                  "text": "White Granary ist ein Museum in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.997723,
+                        53.123233
+                  ]
+            },
+            {
+                  "name": "Dom Leona Wyczółkowskiego",
+                  "text": "Dom Leona Wyczółkowskiego ist ein Museum in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.995129,
+                        53.122137
+                  ]
+            },
+            {
+                  "name": "Muzeum Dyplomacji i Uchodźstwa Polskiego",
+                  "text": "Muzeum Dyplomacji i Uchodźstwa Polskiego ist ein Museum in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.019411,
+                        53.126687
+                  ]
+            },
+            {
+                  "name": "Muzeum Oświaty",
+                  "text": "Muzeum Oświaty ist ein Museum in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.02535,
+                        53.125055
+                  ]
+            },
+            {
+                  "name": "Muzeum Mydła i Historii Brudu",
+                  "text": "Muzeum Mydła i Historii Brudu ist ein Museum in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.997546,
+                        53.121476
+                  ]
+            },
+            {
+                  "name": "Pałacyk Lloyda",
+                  "text": "Pałacyk Lloyda ist ein Schloss in der Altstadt von Bydgoszcz.",
+                  "category": "castle",
+                  "coords": [
+                        18.003071,
+                        53.122557
+                  ]
+            },
+            {
+                  "name": "Muzeum Wojsk Lądowych",
+                  "text": "Muzeum Wojsk Lądowych ist ein Museum in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.020836,
+                        53.14181
+                  ]
+            },
+            {
+                  "name": "Museum des Bromberger Kanals",
+                  "text": "Muzeum Kanału Bydgoskiego ist ein Museum in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.974989,
+                        53.12927
+                  ]
+            },
+            {
+                  "name": "Muzeum Wodociągów",
+                  "text": "Muzeum Wodociągów ist ein Museum in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.027756,
+                        53.148016
+                  ]
+            },
+            {
+                  "name": "Barka Lemara",
+                  "text": "Barka Lemara ist ein Museum in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.002027,
+                        53.123073
+                  ]
+            },
+            {
+                  "name": "Izba Tradycji Kolei Żelaznych",
+                  "text": "Izba Tradycji Kolei Żelaznych ist ein Museum in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.988434,
+                        53.134139
+                  ]
+            },
+            {
+                  "name": "Bydgoskie Centrum Sztuki im. Stanisława Horno-Popławskiego",
+                  "text": "Bydgoskie Centrum Sztuki im. Stanisława Horno-Popławskiego ist eine Galerie in der Altstadt von Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.018703,
+                        53.123389
+                  ]
+            },
+            {
+                  "name": "Kasimir der Große",
+                  "text": "Kazimierz III Wielki ist ein Denkmal in der Altstadt von Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        17.998689,
+                        53.120467
+                  ]
+            },
+            {
+                  "name": "Andrzej Jan Szwalbe",
+                  "text": "Andrzej Jan Szwalbe ist ein Denkmal in der Altstadt von Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        18.009912,
+                        53.129348
+                  ]
+            },
+            {
+                  "name": "Wędrowiec",
+                  "text": "Wędrowiec ist ein Denkmal in der Altstadt von Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        18.003644,
+                        53.126257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Okręgowe im. Leona Wyczółkowskiego",
+                  "text": "A Leon Wyczółkowski Kerületi Múzeum a regionális történelmet és művészetet őrző intézmény Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.00318,
+                        53.124625
+                  ]
+            },
+            {
+                  "name": "Ławeczka Mariana Rejewskiego",
+                  "text": "A Marian Rejewski-pad egy emlékmű a híres kriptológus tiszteletére Bydgoszcz óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        18.005771,
+                        53.128269
+                  ]
+            },
+            {
+                  "name": "Opera Nova",
+                  "text": "Az Opera Nova egy jelentős előadó-művészeti helyszín Bydgoszcz óvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        17.997738,
+                        53.124397
+                  ]
+            },
+            {
+                  "name": "Filharmonia Pomorska im. Ignacego Jana Paderewskiego",
+                  "text": "Az Ignacy Jan Paderewski Pomerániai Filharmónia egy kiemelkedő koncertterem Bydgoszcz óvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.010829,
+                        53.12897
+                  ]
+            },
+            {
+                  "name": "Kościół Jezusa Chrystusa Świętych w Dniach Ostatnich",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza egy istentiszteleti hely Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.012082,
+                        53.133823
+                  ]
+            },
+            {
+                  "name": "Kościół Zbawiciela",
+                  "text": "A Megváltó-templom egy aktív istentiszteleti hely Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.996475,
+                        53.133362
+                  ]
+            },
+            {
+                  "name": "Kościół św. Józefa Rzemieślnika",
+                  "text": "A Munkás Szent József-templom egy vallási helyszín Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.038708,
+                        53.116031
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Trójcy",
+                  "text": "A Szentháromság-templom egy jelentős egyházi épület Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.99172,
+                        53.124502
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Apostołów Piotra i Pawła",
+                  "text": "A Szent Péter és Pál Apostolok Temploma egy kiemelkedő templom Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.00524,
+                        53.12663
+                  ]
+            },
+            {
+                  "name": "Kościół rektorski pw. Ducha Świętego",
+                  "text": "A Szentlélek rektori templom egy elismert istentiszteleti hely Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.00923,
+                        53.106412
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Fatimskiej",
+                  "text": "A Fatimai Szűzanya-templom egy ismert istentiszteleti hely Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.036286,
+                        53.111371
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Andrzeja Boboli",
+                  "text": "A Bobola Szent András-templom egy nevezetes templom Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.004427,
+                        53.121055
+                  ]
+            },
+            {
+                  "name": "Kościół Zmartwychwstania Pańskiego",
+                  "text": "A Feltámadás-templom egy központi istentiszteleti hely Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.001499,
+                        53.13037
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Metodystyczny",
+                  "text": "Az Evangélikus-Metodista Egyház egy protestáns istentiszteleti hely Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.004539,
+                        53.131681
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Królowej Pokoju",
+                  "text": "A Boldogságos Szűz Mária a Béke Királynője templom, egy egykori bernát-rendi helyszín, fontos templom Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.007265,
+                        53.119866
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Az Isteni Irgalmasság temploma egy helyi istentiszteleti hely Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.970082,
+                        53.12756
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Wojciecha",
+                  "text": "A Szent Adalbert-templom a helyi közösség istentiszteleti helyeként szolgál Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.976812,
+                        53.128693
+                  ]
+            },
+            {
+                  "name": "Katedra Świętego Marcina i Świętego Mikołaja",
+                  "text": "A Szent Márton és Szent Miklós-székesegyház egy történelmi és jelentős templom Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.99908,
+                        53.122873
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "A Jézus Szíve templom egy spirituális központ Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        17.998091,
+                        53.131941
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wincentego à Paulo",
+                  "text": "A Páli Szent Vince-bazilika egy lenyűgöző templom és basilica minor Bydgoszcz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.017291,
+                        53.127115
+                  ]
+            },
+            {
+                  "name": "Astoria",
+                  "text": "Az Astoria a bydgoszczi vízivillamoshoz kötődik, amely egy népszerű látványosság az óváros vízi útjain.",
+                  "category": "landmark",
+                  "coords": [
+                        17.991767,
+                        53.130618
+                  ]
+            },
+            {
+                  "name": "Ogród Botaniczny - Arboretum Uniwersytetu Kazimierza Wielkiego w Bydgoszczy",
+                  "text": "A Nagy Kázmér Egyetem Botanikus Kertje és Arborétuma egy természeti látványosság Bydgoszcz óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.017719,
+                        53.131259
+                  ]
+            },
+            {
+                  "name": "Bydgoski Tramwaj Wodny",
+                  "text": "A bydgoszczi vízivillamos egyedi és festői turisztikai útvonalat kínál az óváros vizein.",
+                  "category": "landmark",
+                  "coords": [
+                        17.993935,
+                        53.129105
+                  ]
+            },
+            {
+                  "name": "Stary Rynek",
+                  "text": "A(z) Old Market egy nevezetes látványosság Bydgoszcz óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.000273,
+                        53.121963
+                  ]
+            },
+            {
+                  "name": "Kładka Esperanto",
+                  "text": "A(z) Esperanto Bridge egy nevezetes híd Bydgoszcz óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.02317,
+                        53.12089
+                  ]
+            },
+            {
+                  "name": "Leśny Park Kultury i Wypoczynku \"Myślęcinek\"",
+                  "text": "A(z) Leśny Park Kultury i Wypoczynku \"Myślęcinek\" egy nevezetes park Bydgoszcz óvárosában.",
+                  "category": "park",
+                  "coords": [
+                        18.024839,
+                        53.162043
+                  ]
+            },
+            {
+                  "name": "Most Młyński tramwajowy",
+                  "text": "A(z) Most Młyński tramwajowy egy nevezetes híd Bydgoszcz óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.994902,
+                        53.125506
+                  ]
+            },
+            {
+                  "name": "Most Portowy tramwajowy",
+                  "text": "A(z) Most Portowy tramwajowy egy nevezetes híd Bydgoszcz óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.995934,
+                        53.125377
+                  ]
+            },
+            {
+                  "name": "Biały Spichlerz",
+                  "text": "A(z) White Granary egy múzeum Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        17.997723,
+                        53.123233
+                  ]
+            },
+            {
+                  "name": "Dom Leona Wyczółkowskiego",
+                  "text": "A(z) Dom Leona Wyczółkowskiego egy múzeum Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        17.995129,
+                        53.122137
+                  ]
+            },
+            {
+                  "name": "Muzeum Dyplomacji i Uchodźstwa Polskiego",
+                  "text": "A(z) Muzeum Dyplomacji i Uchodźstwa Polskiego egy múzeum Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.019411,
+                        53.126687
+                  ]
+            },
+            {
+                  "name": "Muzeum Oświaty",
+                  "text": "A(z) Muzeum Oświaty egy múzeum Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.02535,
+                        53.125055
+                  ]
+            },
+            {
+                  "name": "Muzeum Mydła i Historii Brudu",
+                  "text": "A(z) Muzeum Mydła i Historii Brudu egy múzeum Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        17.997546,
+                        53.121476
+                  ]
+            },
+            {
+                  "name": "Pałacyk Lloyda",
+                  "text": "A(z) Pałacyk Lloyda egy kastély Bydgoszcz óvárosában.",
+                  "category": "castle",
+                  "coords": [
+                        18.003071,
+                        53.122557
+                  ]
+            },
+            {
+                  "name": "Muzeum Wojsk Lądowych",
+                  "text": "A(z) Muzeum Wojsk Lądowych egy múzeum Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.020836,
+                        53.14181
+                  ]
+            },
+            {
+                  "name": "Muzeum Kanału Bydgoskiego",
+                  "text": "A(z) Muzeum Kanału Bydgoskiego egy múzeum Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        17.974989,
+                        53.12927
+                  ]
+            },
+            {
+                  "name": "Muzeum Wodociągów",
+                  "text": "A(z) Muzeum Wodociągów egy múzeum Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.027756,
+                        53.148016
+                  ]
+            },
+            {
+                  "name": "Barka Lemara",
+                  "text": "A(z) Barka Lemara egy múzeum Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.002027,
+                        53.123073
+                  ]
+            },
+            {
+                  "name": "Izba Tradycji Kolei Żelaznych",
+                  "text": "A(z) Izba Tradycji Kolei Żelaznych egy múzeum Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        17.988434,
+                        53.134139
+                  ]
+            },
+            {
+                  "name": "Bydgoskie Centrum Sztuki im. Stanisława Horno-Popławskiego",
+                  "text": "A(z) Bydgoskie Centrum Sztuki im. Stanisława Horno-Popławskiego egy galéria Bydgoszcz óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.018703,
+                        53.123389
+                  ]
+            },
+            {
+                  "name": "Kazimierz III Wielki",
+                  "text": "A(z) Kazimierz III Wielki egy emlékmű Bydgoszcz óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        17.998689,
+                        53.120467
+                  ]
+            },
+            {
+                  "name": "Andrzej Jan Szwalbe",
+                  "text": "A(z) Andrzej Jan Szwalbe egy emlékmű Bydgoszcz óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        18.009912,
+                        53.129348
+                  ]
+            },
+            {
+                  "name": "Wędrowiec",
+                  "text": "A(z) Wędrowiec egy emlékmű Bydgoszcz óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        18.003644,
+                        53.126257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Okręgowe im. Leona Wyczółkowskiego",
+                  "text": "Muzeul Districtual Leon Wyczółkowski este o instituție care conservă istoria și arta regională în Centrul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.00318,
+                        53.124625
+                  ]
+            },
+            {
+                  "name": "Ławeczka Mariana Rejewskiego",
+                  "text": "Banca lui Marian Rejewski este un monument dedicat celebrului criptolog în Centrul Vechi din Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        18.005771,
+                        53.128269
+                  ]
+            },
+            {
+                  "name": "Opera Nova",
+                  "text": "Opera Nova este un important loc de artă spectacolului situat în Centrul Vechi din Bydgoszcz.",
+                  "category": "cultural",
+                  "coords": [
+                        17.997738,
+                        53.124397
+                  ]
+            },
+            {
+                  "name": "Filharmonia Pomorska im. Ignacego Jana Paderewskiego",
+                  "text": "Filarmonica Pomeraniană Ignacy Jan Paderewski este o sală de concerte proeminentă în Centrul Vechi din Bydgoszcz.",
+                  "category": "cultural",
+                  "coords": [
+                        18.010829,
+                        53.12897
+                  ]
+            },
+            {
+                  "name": "Kościół Jezusa Chrystusa Świętych w Dniach Ostatnich",
+                  "text": "Biserica lui Isus Hristos a Sfinților din Zilele din Urmă este un lăcaș de cult situat în Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.012082,
+                        53.133823
+                  ]
+            },
+            {
+                  "name": "Kościół Zbawiciela",
+                  "text": "Biserica Mântuitorului este un lăcaș de cult activ din Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.996475,
+                        53.133362
+                  ]
+            },
+            {
+                  "name": "Kościół św. Józefa Rzemieślnika",
+                  "text": "Biserica Sfântul Iosif Muncitorul este un sit religios situat în Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.038708,
+                        53.116031
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Trójcy",
+                  "text": "Biserica Sfânta Treime este o clădire ecleziastică notabilă din Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.99172,
+                        53.124502
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Apostołów Piotra i Pawła",
+                  "text": "Biserica Sfinții Apostoli Petru și Pavel este o biserică importantă situată în Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.00524,
+                        53.12663
+                  ]
+            },
+            {
+                  "name": "Kościół rektorski pw. Ducha Świętego",
+                  "text": "Biserica Rectorului Sfântului Duh este un lăcaș de cult recunoscut din Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.00923,
+                        53.106412
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Fatimskiej",
+                  "text": "Biserica Maicii Domnului din Fatima este un lăcaș de cult consacrat situat în Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.036286,
+                        53.111371
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Andrzeja Boboli",
+                  "text": "Biserica Sfântul Andrei Bobola este o biserică distinsă situată în Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.004427,
+                        53.121055
+                  ]
+            },
+            {
+                  "name": "Kościół Zmartwychwstania Pańskiego",
+                  "text": "Biserica Învierii este un lăcaș de cult central situat în Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.001499,
+                        53.13037
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Metodystyczny",
+                  "text": "Biserica Evanghelică-Metodistă este un lăcaș de cult protestant din Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.004539,
+                        53.131681
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Królowej Pokoju",
+                  "text": "Biserica Sfintei Fecioare Maria Regina Păcii, un fost sit bernardin, este o biserică importantă din Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.007265,
+                        53.119866
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Biserica Milostivirii Divine este un lăcaș de cult local din Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.970082,
+                        53.12756
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Wojciecha",
+                  "text": "Biserica Sf. Adalbert deservește comunitatea locală ca lăcaș de cult în Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.976812,
+                        53.128693
+                  ]
+            },
+            {
+                  "name": "Katedra Świętego Marcina i Świętego Mikołaja",
+                  "text": "Catedrala Sfântul Martin și Sfântul Nicolae este o biserică istorică și semnificativă din Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.99908,
+                        53.122873
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "Biserica Preasfintei Inimi a lui Isus este un punct focal spiritual în Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.998091,
+                        53.131941
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wincentego à Paulo",
+                  "text": "Bazilica Sfântul Vincent de Paul este o biserică impresionantă și bazilică minoră situată în Centrul Vechi din Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.017291,
+                        53.127115
+                  ]
+            },
+            {
+                  "name": "Astoria",
+                  "text": "Astoria este asociată cu Tramvaiul pe Apă din Bydgoszcz, o atracție populară care navighează pe căile navigabile ale Centrului Vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        17.991767,
+                        53.130618
+                  ]
+            },
+            {
+                  "name": "Ogród Botaniczny - Arboretum Uniwersytetu Kazimierza Wielkiego w Bydgoszczy",
+                  "text": "Grădina Botanică și Arboretumul Universității Kazimierz Wielki este o atracție naturală în Centrul Vechi din Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.017719,
+                        53.131259
+                  ]
+            },
+            {
+                  "name": "Bydgoski Tramwaj Wodny",
+                  "text": "Tramvaiul pe Apă din Bydgoszcz oferă un traseu turistic pitoresc și unic pe apele din Centrul Vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        17.993935,
+                        53.129105
+                  ]
+            },
+            {
+                  "name": "Stary Rynek",
+                  "text": "Old Market este o atracție notabilă situată în Orașul Vechi din Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.000273,
+                        53.121963
+                  ]
+            },
+            {
+                  "name": "Kładka Esperanto",
+                  "text": "Esperanto Bridge este un pod notabil situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.02317,
+                        53.12089
+                  ]
+            },
+            {
+                  "name": "Leśny Park Kultury i Wypoczynku \"Myślęcinek\"",
+                  "text": "Leśny Park Kultury i Wypoczynku \"Myślęcinek\" este un parc notabil situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "park",
+                  "coords": [
+                        18.024839,
+                        53.162043
+                  ]
+            },
+            {
+                  "name": "Most Młyński tramwajowy",
+                  "text": "Most Młyński tramwajowy este un pod notabil situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        17.994902,
+                        53.125506
+                  ]
+            },
+            {
+                  "name": "Most Portowy tramwajowy",
+                  "text": "Most Portowy tramwajowy este un pod notabil situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        17.995934,
+                        53.125377
+                  ]
+            },
+            {
+                  "name": "Biały Spichlerz",
+                  "text": "White Granary este un muzeu situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.997723,
+                        53.123233
+                  ]
+            },
+            {
+                  "name": "Dom Leona Wyczółkowskiego",
+                  "text": "Dom Leona Wyczółkowskiego este un muzeu situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.995129,
+                        53.122137
+                  ]
+            },
+            {
+                  "name": "Muzeum Dyplomacji i Uchodźstwa Polskiego",
+                  "text": "Muzeum Dyplomacji i Uchodźstwa Polskiego este un muzeu situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.019411,
+                        53.126687
+                  ]
+            },
+            {
+                  "name": "Muzeum Oświaty",
+                  "text": "Muzeum Oświaty este un muzeu situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.02535,
+                        53.125055
+                  ]
+            },
+            {
+                  "name": "Muzeum Mydła i Historii Brudu",
+                  "text": "Muzeum Mydła i Historii Brudu este un muzeu situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.997546,
+                        53.121476
+                  ]
+            },
+            {
+                  "name": "Pałacyk Lloyda",
+                  "text": "Pałacyk Lloyda este un castel situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "castle",
+                  "coords": [
+                        18.003071,
+                        53.122557
+                  ]
+            },
+            {
+                  "name": "Muzeum Wojsk Lądowych",
+                  "text": "Muzeum Wojsk Lądowych este un muzeu situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.020836,
+                        53.14181
+                  ]
+            },
+            {
+                  "name": "Muzeum Kanału Bydgoskiego",
+                  "text": "Muzeum Kanału Bydgoskiego este un muzeu situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.974989,
+                        53.12927
+                  ]
+            },
+            {
+                  "name": "Muzeum Wodociągów",
+                  "text": "Muzeum Wodociągów este un muzeu situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.027756,
+                        53.148016
+                  ]
+            },
+            {
+                  "name": "Barka Lemara",
+                  "text": "Barka Lemara este un muzeu situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.002027,
+                        53.123073
+                  ]
+            },
+            {
+                  "name": "Izba Tradycji Kolei Żelaznych",
+                  "text": "Izba Tradycji Kolei Żelaznych este un muzeu situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.988434,
+                        53.134139
+                  ]
+            },
+            {
+                  "name": "Bydgoskie Centrum Sztuki im. Stanisława Horno-Popławskiego",
+                  "text": "Bydgoskie Centrum Sztuki im. Stanisława Horno-Popławskiego este o galerie situată în Orașul Vechi din Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.018703,
+                        53.123389
+                  ]
+            },
+            {
+                  "name": "Kazimierz III Wielki",
+                  "text": "Kazimierz III Wielki este un monument situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        17.998689,
+                        53.120467
+                  ]
+            },
+            {
+                  "name": "Andrzej Jan Szwalbe",
+                  "text": "Andrzej Jan Szwalbe este un monument situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        18.009912,
+                        53.129348
+                  ]
+            },
+            {
+                  "name": "Wędrowiec",
+                  "text": "Wędrowiec este un monument situat în Orașul Vechi din Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        18.003644,
+                        53.126257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Okręgowe im. Leona Wyczółkowskiego",
+                  "text": "The Leon Wyczółkowski District Museum is an institution preserving regional history and art in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.00318,
+                        53.124625
+                  ]
+            },
+            {
+                  "name": "Ławeczka Mariana Rejewskiego",
+                  "text": "The Marian Rejewski Bench is a monument honoring the famous cryptologist in the Old Town of Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        18.005771,
+                        53.128269
+                  ]
+            },
+            {
+                  "name": "Opera Nova",
+                  "text": "Opera Nova is a major performing arts venue situated in the Old Town of Bydgoszcz.",
+                  "category": "cultural",
+                  "coords": [
+                        17.997738,
+                        53.124397
+                  ]
+            },
+            {
+                  "name": "Filharmonia Pomorska im. Ignacego Jana Paderewskiego",
+                  "text": "The Ignacy Jan Paderewski Pomeranian Philharmonic is a prominent concert hall in the Old Town of Bydgoszcz.",
+                  "category": "cultural",
+                  "coords": [
+                        18.010829,
+                        53.12897
+                  ]
+            },
+            {
+                  "name": "The Church of Jesus Christ of Latter-day Saints",
+                  "text": "The Church of Jesus Christ of Latter-day Saints is a place of worship located in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.012082,
+                        53.133823
+                  ]
+            },
+            {
+                  "name": "Kościół Zbawiciela",
+                  "text": "The Church of the Savior is an active place of worship in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.996475,
+                        53.133362
+                  ]
+            },
+            {
+                  "name": "Kościół św. Józefa Rzemieślnika",
+                  "text": "The Church of St. Joseph the Worker is a religious site situated in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.038708,
+                        53.116031
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Trójcy",
+                  "text": "The Holy Trinity Church is a notable ecclesiastical building in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.99172,
+                        53.124502
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Apostołów Piotra i Pawła",
+                  "text": "The Church of the Holy Apostles Peter and Paul is a prominent church located in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.00524,
+                        53.12663
+                  ]
+            },
+            {
+                  "name": "Kościół rektorski pw. Ducha Świętego",
+                  "text": "The Rector's Church of the Holy Spirit is a recognized place of worship in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.00923,
+                        53.106412
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Fatimskiej",
+                  "text": "The Church of Our Lady of Fatima is an established place of worship situated in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.036286,
+                        53.111371
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Andrzeja Boboli",
+                  "text": "The Church of Saint Andrew Bobola is a distinguished church positioned in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.004427,
+                        53.121055
+                  ]
+            },
+            {
+                  "name": "Kościół Zmartwychwstania Pańskiego",
+                  "text": "The Church of the Resurrection is a central place of worship located in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.001499,
+                        53.13037
+                  ]
+            },
+            {
+                  "name": "Kościół Ewangelicko-Metodystyczny",
+                  "text": "The Evangelical-Methodist Church is a Protestant place of worship in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.004539,
+                        53.131681
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszej Maryi Panny Królowej Pokoju",
+                  "text": "The Church of the Blessed Virgin Mary Queen of Peace, a former Bernardine site, is an important church in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.007265,
+                        53.119866
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "The Church of Divine Mercy is a local place of worship in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.970082,
+                        53.12756
+                  ]
+            },
+            {
+                  "name": "Kościół pw. św. Wojciecha",
+                  "text": "The Church of St. Adalbert serves the local community as a place of worship in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.976812,
+                        53.128693
+                  ]
+            },
+            {
+                  "name": "Katedra Świętego Marcina i Świętego Mikołaja",
+                  "text": "The Cathedral of St. Martin and St. Nicholas is a historic and significant church in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.99908,
+                        53.122873
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Najświętszego Serca Pana Jezusa",
+                  "text": "The Church of the Sacred Heart of Jesus is a spiritual focal point in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        17.998091,
+                        53.131941
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wincentego à Paulo",
+                  "text": "The Basilica of St. Vincent de Paul is an impressive church and minor basilica situated in the Old Town of Bydgoszcz.",
+                  "category": "religious",
+                  "coords": [
+                        18.017291,
+                        53.127115
+                  ]
+            },
+            {
+                  "name": "Astoria",
+                  "text": "Astoria is associated with the Bydgoszcz Water Tram, a popular attraction navigating the Old Town's waterways.",
+                  "category": "landmark",
+                  "coords": [
+                        17.991767,
+                        53.130618
+                  ]
+            },
+            {
+                  "name": "Ogród Botaniczny - Arboretum Uniwersytetu Kazimierza Wielkiego w Bydgoszczy",
+                  "text": "The Botanical Garden and Arboretum of the Kazimierz Wielki University is a natural attraction in the Old Town of Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.017719,
+                        53.131259
+                  ]
+            },
+            {
+                  "name": "Bydgoski Tramwaj Wodny",
+                  "text": "The Bydgoszcz Water Tram provides a unique and scenic tourist route through the waters of the Old Town.",
+                  "category": "landmark",
+                  "coords": [
+                        17.993935,
+                        53.129105
+                  ]
+            },
+            {
+                  "name": "Old Market",
+                  "text": "Old Market is a notable attraction located in the Old Town of Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.000273,
+                        53.121963
+                  ]
+            },
+            {
+                  "name": "Esperanto Bridge",
+                  "text": "Esperanto Bridge is a notable bridge located in the Old Town of Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        18.02317,
+                        53.12089
+                  ]
+            },
+            {
+                  "name": "Leśny Park Kultury i Wypoczynku \"Myślęcinek\"",
+                  "text": "Leśny Park Kultury i Wypoczynku \"Myślęcinek\" is a notable park located in the Old Town of Bydgoszcz.",
+                  "category": "park",
+                  "coords": [
+                        18.024839,
+                        53.162043
+                  ]
+            },
+            {
+                  "name": "Most Młyński tramwajowy",
+                  "text": "Most Młyński tramwajowy is a notable bridge located in the Old Town of Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        17.994902,
+                        53.125506
+                  ]
+            },
+            {
+                  "name": "Most Portowy tramwajowy",
+                  "text": "Most Portowy tramwajowy is a notable bridge located in the Old Town of Bydgoszcz.",
+                  "category": "landmark",
+                  "coords": [
+                        17.995934,
+                        53.125377
+                  ]
+            },
+            {
+                  "name": "White Granary",
+                  "text": "White Granary is a museum located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.997723,
+                        53.123233
+                  ]
+            },
+            {
+                  "name": "Dom Leona Wyczółkowskiego",
+                  "text": "Dom Leona Wyczółkowskiego is a museum located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.995129,
+                        53.122137
+                  ]
+            },
+            {
+                  "name": "Muzeum Dyplomacji i Uchodźstwa Polskiego",
+                  "text": "Muzeum Dyplomacji i Uchodźstwa Polskiego is a museum located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.019411,
+                        53.126687
+                  ]
+            },
+            {
+                  "name": "Muzeum Oświaty",
+                  "text": "Muzeum Oświaty is a museum located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.02535,
+                        53.125055
+                  ]
+            },
+            {
+                  "name": "Muzeum Mydła i Historii Brudu",
+                  "text": "Muzeum Mydła i Historii Brudu is a museum located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.997546,
+                        53.121476
+                  ]
+            },
+            {
+                  "name": "Pałacyk Lloyda",
+                  "text": "Pałacyk Lloyda is a castle located in the Old Town of Bydgoszcz.",
+                  "category": "castle",
+                  "coords": [
+                        18.003071,
+                        53.122557
+                  ]
+            },
+            {
+                  "name": "Muzeum Wojsk Lądowych",
+                  "text": "Muzeum Wojsk Lądowych is a museum located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.020836,
+                        53.14181
+                  ]
+            },
+            {
+                  "name": "Muzeum Kanału Bydgoskiego",
+                  "text": "Muzeum Kanału Bydgoskiego is a museum located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.974989,
+                        53.12927
+                  ]
+            },
+            {
+                  "name": "Muzeum Wodociągów",
+                  "text": "Muzeum Wodociągów is a museum located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.027756,
+                        53.148016
+                  ]
+            },
+            {
+                  "name": "Barka Lemara",
+                  "text": "Barka Lemara is a museum located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.002027,
+                        53.123073
+                  ]
+            },
+            {
+                  "name": "Izba Tradycji Kolei Żelaznych",
+                  "text": "Izba Tradycji Kolei Żelaznych is a museum located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        17.988434,
+                        53.134139
+                  ]
+            },
+            {
+                  "name": "Bydgoskie Centrum Sztuki im. Stanisława Horno-Popławskiego",
+                  "text": "Bydgoskie Centrum Sztuki im. Stanisława Horno-Popławskiego is a gallery located in the Old Town of Bydgoszcz.",
+                  "category": "museum",
+                  "coords": [
+                        18.018703,
+                        53.123389
+                  ]
+            },
+            {
+                  "name": "Kazimierz III Wielki",
+                  "text": "Kazimierz III Wielki is a monument located in the Old Town of Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        17.998689,
+                        53.120467
+                  ]
+            },
+            {
+                  "name": "Andrzej Jan Szwalbe",
+                  "text": "Andrzej Jan Szwalbe is a monument located in the Old Town of Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        18.009912,
+                        53.129348
+                  ]
+            },
+            {
+                  "name": "Wędrowiec",
+                  "text": "Wędrowiec is a monument located in the Old Town of Bydgoszcz.",
+                  "category": "historical",
+                  "coords": [
+                        18.003644,
+                        53.126257
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PL",
     name: { de: "Altstadt von Bydgoszcz", hu: "Bydgoszcz óvárosa", ro: "Centrul vechi din Bydgoszcz", en: "Bydgoszcz Old Town" },
@@ -3704,7 +15971,1132 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-kedzierzyn-kozle-fortress-history-v2.webp",
   },
   {
-    id: "poland-cieszyn-old-town-history-v2",
+    id: "poland-cieszyn-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Těšínska",
+                  "text": "Ein Museum in der Altstadt von Teschen, das sich auf die Geschichte und Kultur der Region Teschener Schlesien konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        18.624161,
+                        49.747319
+                  ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa",
+                  "text": "Ein Museum, das den reichen Drucktraditionen in der Altstadt von Teschen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.628753,
+                        49.749998
+                  ]
+            },
+            {
+                  "name": "Těšínské Divadlo",
+                  "text": "Ein einzigartiges Theater in der Altstadt von Teschen mit tschechischen und polnischen Schauspielensembles.",
+                  "category": "cultural",
+                  "coords": [
+                        18.612991,
+                        49.745868
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląska Cieszyńskiego",
+                  "text": "Eines der ältesten öffentlichen Museen Mitteleuropas in der Altstadt von Teschen.",
+                  "category": "museum",
+                  "coords": [
+                        18.633823,
+                        49.747774
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "Ein bedeutendes Theatergebäude aus dem frühen 20. Jahrhundert in der Altstadt von Teschen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.630493,
+                        49.74993
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Olzą",
+                  "text": "Ein Naturschutzgebiet in der Altstadt von Teschen, das einen Laubwald an der Olsa schützt.",
+                  "category": "natural",
+                  "coords": [
+                        18.629215,
+                        49.729257
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Puńcówką",
+                  "text": "Ein Naturschutzgebiet in der Altstadt von Teschen zur Erhaltung der Umwelt entlang des Flusses Puńcówka.",
+                  "category": "natural",
+                  "coords": [
+                        18.631956,
+                        49.739032
+                  ]
+            },
+            {
+                  "name": "Muzeum Protestantyzmu",
+                  "text": "Ein lokales Museum in der Altstadt von Teschen.",
+                  "category": "museum",
+                  "coords": [
+                        18.636817,
+                        49.745015
+                  ]
+            },
+            {
+                  "name": "Open Air Museum",
+                  "text": "Ein Freilichtmuseum in der Altstadt von Teschen.",
+                  "category": "museum",
+                  "coords": [
+                        18.623757,
+                        49.751296
+                  ]
+            },
+            {
+                  "name": "Zamek Myśliwski - Rezydencja Habsburgów",
+                  "text": "Ein historisches Schloss in der Altstadt von Teschen.",
+                  "category": "castle",
+                  "coords": [
+                        18.627261,
+                        49.750989
+                  ]
+            },
+            {
+                  "name": "Łęg nad Puńcówką",
+                  "text": "Ein Naturschutzgebiet in der Altstadt von Teschen.",
+                  "category": "natural",
+                  "coords": [
+                        18.631816,
+                        49.734694
+                  ]
+            },
+            {
+                  "name": "Zamek w Błogocicach",
+                  "text": "Ein historisches Schloss in der Altstadt von Teschen.",
+                  "category": "castle",
+                  "coords": [
+                        18.633096,
+                        49.731736
+                  ]
+            },
+            {
+                  "name": "Góra Zamkowa",
+                  "text": "Ein markanter Hügel in der Altstadt von Teschen, auf dem sich die Überreste der Burg befinden.",
+                  "category": "natural",
+                  "coords": [
+                        18.62625,
+                        49.751415
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny w Cieszynie",
+                  "text": "Eine lokale Attraktion in der Altstadt von Teschen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.634906,
+                        49.750276
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Marii Magdaleny",
+                  "text": "Eine historische Pfarrkirche und Attraktion in der Altstadt von Teschen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.632378,
+                        49.748229
+                  ]
+            },
+            {
+                  "name": "Studnia Trzech Braci",
+                  "text": "Ein legendärer Brunnen in der Altstadt von Teschen, der mit der Gründung der Stadt verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.630902,
+                        49.748383
+                  ]
+            },
+            {
+                  "name": "Widok na Czeski Cieszyn",
+                  "text": "Ein Aussichtspunkt in der Altstadt von Teschen.",
+                  "category": "natural",
+                  "coords": [
+                        18.625162,
+                        49.75103
+                  ]
+            },
+            {
+                  "name": "Filary niedokończonego wiaduktu",
+                  "text": "Eine lokale Attraktion in der Altstadt von Teschen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.658581,
+                        49.755351
+                  ]
+            },
+            {
+                  "name": "Schody w naturze",
+                  "text": "Eine lokale Attraktion in der Altstadt von Teschen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.628601,
+                        49.728136
+                  ]
+            },
+            {
+                  "name": "KAPSUŁA CZASU z okazji 50-lecia filii UŚ w Cieszynie",
+                  "text": "Eine lokale Attraktion in der Altstadt von Teschen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.648951,
+                        49.749251
+                  ]
+            },
+            {
+                  "name": "Dworek Cieszyński",
+                  "text": "Dworek Cieszyński ist ein Herrenhaus in der Altstadt von Cieszyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.628858,
+                        49.74885
+                  ]
+            },
+            {
+                  "name": "Ruiny domu przedpogrzebowego",
+                  "text": "Ruiny domu przedpogrzebowego sind historische Ruinen in der Altstadt von Cieszyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.630443,
+                        49.757247
+                  ]
+            },
+            {
+                  "name": "Kostel Božského Srdce Páně",
+                  "text": "Kostel Božského Srdce Páně ist eine bemerkenswerte Kultstätte in der Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.621472,
+                        49.749302
+                  ]
+            },
+            {
+                  "name": "Evangelický kostel Apoštolů Petra a Pavla \"Na Nivách\"",
+                  "text": "Die lutherische Kirche der Apostel Petrus und Paulus ist eine markante Kultstätte in der Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.626474,
+                        49.741847
+                  ]
+            },
+            {
+                  "name": "Kostel svaté Hedviky Slezské",
+                  "text": "Die St.-Hedwigs-Kirche ist eine anerkannte Kultstätte in der Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.615989,
+                        49.729698
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Imienia Najświętszej Marii Panny w Cieszynie Bobrku",
+                  "text": "Kościół pw. Imienia Najświętszej Marii Panny w Cieszynie Bobrku ist eine Kultstätte in der Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.64833,
+                        49.755242
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jerzego",
+                  "text": "Kościół pw. Świętego Jerzego ist eine historische Kirche in der Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.62864,
+                        49.752689
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Opatrzności Bożej w Cieszynie Pastwiskach",
+                  "text": "Kościół pw. Opatrzności Bożej w Cieszynie Pastwiskach ist eine Kultstätte in der Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.620949,
+                        49.764694
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Świętej Rodziny",
+                  "text": "Kaplica pw. Świętej Rodziny ist eine Kapelle und Kultstätte in der Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.636415,
+                        49.74736
+                  ]
+            },
+            {
+                  "name": "Českobratrská církev evangelická „Na Rozvoji“",
+                  "text": "Die evangelische Kirche der Böhmischen Brüder ist eine markante Kultstätte in der Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.614039,
+                        49.743652
+                  ]
+            },
+            {
+                  "name": "Tramwaj Cieszyński",
+                  "text": "Tramwaj Cieszyński ist eine historische Straßenbahn-Attraktion in der Altstadt von Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.627068,
+                        49.749859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Těšínska",
+                  "text": "Egy múzeum Cieszyn óvárosában, amely a Cieszyni Szilézia régió történelmére és kultúrájára összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        18.624161,
+                        49.747319
+                  ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa",
+                  "text": "A nyomdászat gazdag hagyományainak szentelt múzeum Cieszyn óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.628753,
+                        49.749998
+                  ]
+            },
+            {
+                  "name": "Těšínské Divadlo",
+                  "text": "Egy egyedülálló színház Cieszyn óvárosában, cseh és lengyel színésztársulatokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        18.612991,
+                        49.745868
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląska Cieszyńskiego",
+                  "text": "Közép-Európa egyik legrégebbi nyilvános múzeuma Cieszyn óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.633823,
+                        49.747774
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "Egy jelentős színházépület a 20. század elejéről Cieszyn óvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.630493,
+                        49.74993
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Olzą",
+                  "text": "Egy természetvédelmi terület Cieszyn óvárosában, amely az Olza folyó melletti lombhullató erdőt védi.",
+                  "category": "natural",
+                  "coords": [
+                        18.629215,
+                        49.729257
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Puńcówką",
+                  "text": "Egy természetvédelmi terület Cieszyn óvárosában, amely a Puńcówka patak menti természeti környezetet óvja.",
+                  "category": "natural",
+                  "coords": [
+                        18.631956,
+                        49.739032
+                  ]
+            },
+            {
+                  "name": "Muzeum Protestantyzmu",
+                  "text": "Egy helyi múzeum Cieszyn óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.636817,
+                        49.745015
+                  ]
+            },
+            {
+                  "name": "Open Air Museum",
+                  "text": "Egy szabadtéri múzeum Cieszyn óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        18.623757,
+                        49.751296
+                  ]
+            },
+            {
+                  "name": "Zamek Myśliwski - Rezydencja Habsburgów",
+                  "text": "Egy történelmi kastély Cieszyn óvárosában.",
+                  "category": "castle",
+                  "coords": [
+                        18.627261,
+                        49.750989
+                  ]
+            },
+            {
+                  "name": "Łęg nad Puńcówką",
+                  "text": "Egy természetvédelmi terület Cieszyn óvárosában.",
+                  "category": "natural",
+                  "coords": [
+                        18.631816,
+                        49.734694
+                  ]
+            },
+            {
+                  "name": "Zamek w Błogocicach",
+                  "text": "Egy történelmi kastély Cieszyn óvárosában.",
+                  "category": "castle",
+                  "coords": [
+                        18.633096,
+                        49.731736
+                  ]
+            },
+            {
+                  "name": "Góra Zamkowa",
+                  "text": "Egy kiemelkedő domb Cieszyn óvárosában, amelyen a cieszyni vár romjai találhatók.",
+                  "category": "natural",
+                  "coords": [
+                        18.62625,
+                        49.751415
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny w Cieszynie",
+                  "text": "Egy helyi látványosság Cieszyn óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.634906,
+                        49.750276
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Marii Magdaleny",
+                  "text": "Egy történelmi plébániatemplom és látványosság Cieszyn óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.632378,
+                        49.748229
+                  ]
+            },
+            {
+                  "name": "Studnia Trzech Braci",
+                  "text": "Egy legendás kút Cieszyn óvárosában, amely a város alapításához kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        18.630902,
+                        49.748383
+                  ]
+            },
+            {
+                  "name": "Widok na Czeski Cieszyn",
+                  "text": "Egy kilátóhely Cieszyn óvárosában.",
+                  "category": "natural",
+                  "coords": [
+                        18.625162,
+                        49.75103
+                  ]
+            },
+            {
+                  "name": "Filary niedokończonego wiaduktu",
+                  "text": "Egy helyi látványosság Cieszyn óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.658581,
+                        49.755351
+                  ]
+            },
+            {
+                  "name": "Schody w naturze",
+                  "text": "Egy helyi látványosság Cieszyn óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.628601,
+                        49.728136
+                  ]
+            },
+            {
+                  "name": "KAPSUŁA CZASU z okazji 50-lecia filii UŚ w Cieszynie",
+                  "text": "Egy helyi látványosság Cieszyn óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.648951,
+                        49.749251
+                  ]
+            },
+            {
+                  "name": "Dworek Cieszyński",
+                  "text": "A Dworek Cieszyński egy udvarház Cieszyn óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        18.628858,
+                        49.74885
+                  ]
+            },
+            {
+                  "name": "Ruiny domu przedpogrzebowego",
+                  "text": "A Ruiny domu przedpogrzebowego történelmi romok Cieszyn óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        18.630443,
+                        49.757247
+                  ]
+            },
+            {
+                  "name": "Kostel Božského Srdce Páně",
+                  "text": "A Kostel Božského Srdce Páně egy figyelemre méltó istentiszteleti hely Cieszyn óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.621472,
+                        49.749302
+                  ]
+            },
+            {
+                  "name": "Evangelický kostel Apoštolů Petra a Pavla \"Na Nivách\"",
+                  "text": "A Péter és Pál apostolok evangélikus temploma egy kiemelkedő istentiszteleti hely Cieszyn óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.626474,
+                        49.741847
+                  ]
+            },
+            {
+                  "name": "Kostel svaté Hedviky Slezské",
+                  "text": "A Szent Hedvig-templom egy elismert istentiszteleti hely Cieszyn óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.615989,
+                        49.729698
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Imienia Najświętszej Marii Panny w Cieszynie Bobrku",
+                  "text": "A Kościół pw. Imienia Najświętszej Marii Panny w Cieszynie Bobrku egy istentiszteleti hely Cieszyn óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.64833,
+                        49.755242
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jerzego",
+                  "text": "A Kościół pw. Świętego Jerzego egy történelmi templom Cieszyn óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.62864,
+                        49.752689
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Opatrzności Bożej w Cieszynie Pastwiskach",
+                  "text": "A Kościół pw. Opatrzności Bożej w Cieszynie Pastwiskach egy istentiszteleti hely Cieszyn óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.620949,
+                        49.764694
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Świętej Rodziny",
+                  "text": "A Kaplica pw. Świętej Rodziny egy kápolna és istentiszteleti hely Cieszyn óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.636415,
+                        49.74736
+                  ]
+            },
+            {
+                  "name": "Českobratrská církev evangelická „Na Rozvoji“",
+                  "text": "A Cseh Testvérek evangélikus temploma egy kiemelkedő istentiszteleti hely Cieszyn óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        18.614039,
+                        49.743652
+                  ]
+            },
+            {
+                  "name": "Tramwaj Cieszyński",
+                  "text": "A Tramwaj Cieszyński egy történelmi villamos-látványosság Cieszyn óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.627068,
+                        49.749859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Těšínska",
+                  "text": "Un muzeu în orașul vechi din Cieszyn, axat pe istoria și cultura regiunii Silezia Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.624161,
+                        49.747319
+                  ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa",
+                  "text": "Un muzeu dedicat bogatelor tradiții tipografice din orașul vechi Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.628753,
+                        49.749998
+                  ]
+            },
+            {
+                  "name": "Těšínské Divadlo",
+                  "text": "Un teatru unic în orașul vechi Cieszyn, care găzduiește trupe de actori profesioniști cehi și polonezi.",
+                  "category": "cultural",
+                  "coords": [
+                        18.612991,
+                        49.745868
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląska Cieszyńskiego",
+                  "text": "Unul dintre cele mai vechi muzee publice din Europa Centrală, situat în orașul vechi Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.633823,
+                        49.747774
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "Un teatru important construit la începutul secolului al XX-lea în orașul vechi din Cieszyn.",
+                  "category": "cultural",
+                  "coords": [
+                        18.630493,
+                        49.74993
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Olzą",
+                  "text": "O rezervație naturală în orașul vechi Cieszyn care protejează o pădure de foioase pe malul râului Olza.",
+                  "category": "natural",
+                  "coords": [
+                        18.629215,
+                        49.729257
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Puńcówką",
+                  "text": "O rezervație naturală în orașul vechi Cieszyn, care protejează mediul natural de-a lungul pârâului Puńcówka.",
+                  "category": "natural",
+                  "coords": [
+                        18.631956,
+                        49.739032
+                  ]
+            },
+            {
+                  "name": "Muzeum Protestantyzmu",
+                  "text": "Un muzeu local în orașul vechi din Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.636817,
+                        49.745015
+                  ]
+            },
+            {
+                  "name": "Open Air Museum",
+                  "text": "Un muzeu în aer liber în orașul vechi din Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.623757,
+                        49.751296
+                  ]
+            },
+            {
+                  "name": "Zamek Myśliwski - Rezydencja Habsburgów",
+                  "text": "Un castel istoric în orașul vechi din Cieszyn.",
+                  "category": "castle",
+                  "coords": [
+                        18.627261,
+                        49.750989
+                  ]
+            },
+            {
+                  "name": "Łęg nad Puńcówką",
+                  "text": "O rezervație naturală în orașul vechi din Cieszyn.",
+                  "category": "natural",
+                  "coords": [
+                        18.631816,
+                        49.734694
+                  ]
+            },
+            {
+                  "name": "Zamek w Błogocicach",
+                  "text": "Un castel istoric în orașul vechi din Cieszyn.",
+                  "category": "castle",
+                  "coords": [
+                        18.633096,
+                        49.731736
+                  ]
+            },
+            {
+                  "name": "Góra Zamkowa",
+                  "text": "Un deal proeminent în orașul vechi Cieszyn, cu rămășițele castelului din Cieszyn.",
+                  "category": "natural",
+                  "coords": [
+                        18.62625,
+                        49.751415
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny w Cieszynie",
+                  "text": "O atracție locală în orașul vechi din Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.634906,
+                        49.750276
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Marii Magdaleny",
+                  "text": "O biserică parohială istorică și o atracție în orașul vechi din Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.632378,
+                        49.748229
+                  ]
+            },
+            {
+                  "name": "Studnia Trzech Braci",
+                  "text": "O fântână legendară în orașul vechi Cieszyn, asociată cu fondarea orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        18.630902,
+                        49.748383
+                  ]
+            },
+            {
+                  "name": "Widok na Czeski Cieszyn",
+                  "text": "Un punct de belvedere în orașul vechi din Cieszyn.",
+                  "category": "natural",
+                  "coords": [
+                        18.625162,
+                        49.75103
+                  ]
+            },
+            {
+                  "name": "Filary niedokończonego wiaduktu",
+                  "text": "O atracție locală în orașul vechi din Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.658581,
+                        49.755351
+                  ]
+            },
+            {
+                  "name": "Schody w naturze",
+                  "text": "O atracție locală în orașul vechi din Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.628601,
+                        49.728136
+                  ]
+            },
+            {
+                  "name": "KAPSUŁA CZASU z okazji 50-lecia filii UŚ w Cieszynie",
+                  "text": "O atracție locală în orașul vechi din Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.648951,
+                        49.749251
+                  ]
+            },
+            {
+                  "name": "Dworek Cieszyński",
+                  "text": "Dworek Cieszyński este un conac situat în Altstadt von Cieszyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.628858,
+                        49.74885
+                  ]
+            },
+            {
+                  "name": "Ruiny domu przedpogrzebowego",
+                  "text": "Ruiny domu przedpogrzebowego sunt ruine istorice situate în Altstadt von Cieszyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.630443,
+                        49.757247
+                  ]
+            },
+            {
+                  "name": "Kostel Božského Srdce Páně",
+                  "text": "Kostel Božského Srdce Páně este un lăcaș de cult notabil situat în Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.621472,
+                        49.749302
+                  ]
+            },
+            {
+                  "name": "Evangelický kostel Apoštolů Petra a Pavla \"Na Nivách\"",
+                  "text": "Biserica luterană a Sfinților Apostoli Petru și Pavel este un lăcaș de cult proeminent din Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.626474,
+                        49.741847
+                  ]
+            },
+            {
+                  "name": "Kostel svaté Hedviky Slezské",
+                  "text": "Biserica Sfânta Hedviga este un lăcaș de cult recunoscut situat în Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.615989,
+                        49.729698
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Imienia Najświętszej Marii Panny w Cieszynie Bobrku",
+                  "text": "Kościół pw. Imienia Najświętszej Marii Panny w Cieszynie Bobrku este un lăcaș de cult din Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.64833,
+                        49.755242
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jerzego",
+                  "text": "Kościół pw. Świętego Jerzego este o biserică istorică situată în Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.62864,
+                        49.752689
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Opatrzności Bożej w Cieszynie Pastwiskach",
+                  "text": "Kościół pw. Opatrzności Bożej w Cieszynie Pastwiskach este un lăcaș de cult aflat în Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.620949,
+                        49.764694
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Świętej Rodziny",
+                  "text": "Kaplica pw. Świętej Rodziny este o capelă și lăcaș de cult din Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.636415,
+                        49.74736
+                  ]
+            },
+            {
+                  "name": "Českobratrská církev evangelická „Na Rozvoji“",
+                  "text": "Biserica evanghelică a Fraților Cehi este un lăcaș de cult proeminent situat în Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.614039,
+                        49.743652
+                  ]
+            },
+            {
+                  "name": "Tramwaj Cieszyński",
+                  "text": "Tramwaj Cieszyński este o atracție reprezentând un tramvai istoric în Altstadt von Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.627068,
+                        49.749859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Těšínska",
+                  "text": "A museum in the Old Town of Cieszyn focused on the history and culture of the Cieszyn Silesia region.",
+                  "category": "museum",
+                  "coords": [
+                        18.624161,
+                        49.747319
+                  ]
+            },
+            {
+                  "name": "Muzeum Drukarstwa",
+                  "text": "A museum dedicated to the rich printing traditions in the Old Town of Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.628753,
+                        49.749998
+                  ]
+            },
+            {
+                  "name": "Těšínské Divadlo",
+                  "text": "A unique theatre in the Old Town of Cieszyn featuring both Czech and Polish professional acting companies.",
+                  "category": "cultural",
+                  "coords": [
+                        18.612991,
+                        49.745868
+                  ]
+            },
+            {
+                  "name": "Muzeum Śląska Cieszyńskiego",
+                  "text": "One of the oldest public museums in Central Europe, located in the Old Town of Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.633823,
+                        49.747774
+                  ]
+            },
+            {
+                  "name": "Teatr im. Adama Mickiewicza",
+                  "text": "A prominent theatre built at the beginning of the 20th century in the Old Town of Cieszyn.",
+                  "category": "cultural",
+                  "coords": [
+                        18.630493,
+                        49.74993
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Olzą",
+                  "text": "A nature reserve in the Old Town of Cieszyn protecting a broadleaf forest by the Olza river.",
+                  "category": "natural",
+                  "coords": [
+                        18.629215,
+                        49.729257
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lasek Miejski nad Puńcówką",
+                  "text": "A nature reserve in the Old Town of Cieszyn safeguarding the environment along the Puńcówka stream.",
+                  "category": "natural",
+                  "coords": [
+                        18.631956,
+                        49.739032
+                  ]
+            },
+            {
+                  "name": "Muzeum Protestantyzmu",
+                  "text": "A local museum in the Old Town of Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.636817,
+                        49.745015
+                  ]
+            },
+            {
+                  "name": "Open Air Museum",
+                  "text": "An open-air museum in the Old Town of Cieszyn.",
+                  "category": "museum",
+                  "coords": [
+                        18.623757,
+                        49.751296
+                  ]
+            },
+            {
+                  "name": "Zamek Myśliwski - Rezydencja Habsburgów",
+                  "text": "A historic castle in the Old Town of Cieszyn.",
+                  "category": "castle",
+                  "coords": [
+                        18.627261,
+                        49.750989
+                  ]
+            },
+            {
+                  "name": "Łęg nad Puńcówką",
+                  "text": "A nature reserve in the Old Town of Cieszyn.",
+                  "category": "natural",
+                  "coords": [
+                        18.631816,
+                        49.734694
+                  ]
+            },
+            {
+                  "name": "Zamek w Błogocicach",
+                  "text": "A historic castle in the Old Town of Cieszyn.",
+                  "category": "castle",
+                  "coords": [
+                        18.633096,
+                        49.731736
+                  ]
+            },
+            {
+                  "name": "Góra Zamkowa",
+                  "text": "A prominent hill in the Old Town of Cieszyn featuring the remains of the Cieszyn Castle.",
+                  "category": "natural",
+                  "coords": [
+                        18.62625,
+                        49.751415
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wniebowzięcia Najświętszej Maryi Panny w Cieszynie",
+                  "text": "A local attraction in the Old Town of Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.634906,
+                        49.750276
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Marii Magdaleny",
+                  "text": "A historic parish church and attraction in the Old Town of Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.632378,
+                        49.748229
+                  ]
+            },
+            {
+                  "name": "Studnia Trzech Braci",
+                  "text": "A legendary well in the Old Town of Cieszyn, associated with the founding of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        18.630902,
+                        49.748383
+                  ]
+            },
+            {
+                  "name": "Widok na Czeski Cieszyn",
+                  "text": "A viewpoint in the Old Town of Cieszyn.",
+                  "category": "natural",
+                  "coords": [
+                        18.625162,
+                        49.75103
+                  ]
+            },
+            {
+                  "name": "Filary niedokończonego wiaduktu",
+                  "text": "A local attraction in the Old Town of Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.658581,
+                        49.755351
+                  ]
+            },
+            {
+                  "name": "Schody w naturze",
+                  "text": "A local attraction in the Old Town of Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.628601,
+                        49.728136
+                  ]
+            },
+            {
+                  "name": "KAPSUŁA CZASU z okazji 50-lecia filii UŚ w Cieszynie",
+                  "text": "A local attraction in the Old Town of Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.648951,
+                        49.749251
+                  ]
+            },
+            {
+                  "name": "Dworek Cieszyński",
+                  "text": "Dworek Cieszyński is a manor house situated in Altstadt von Cieszyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.628858,
+                        49.74885
+                  ]
+            },
+            {
+                  "name": "Ruiny domu przedpogrzebowego",
+                  "text": "Ruiny domu przedpogrzebowego are historical ruins located in Altstadt von Cieszyn.",
+                  "category": "historical",
+                  "coords": [
+                        18.630443,
+                        49.757247
+                  ]
+            },
+            {
+                  "name": "Kostel Božského Srdce Páně",
+                  "text": "Kostel Božského Srdce Páně is a notable place of worship located in Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.621472,
+                        49.749302
+                  ]
+            },
+            {
+                  "name": "Lutheran church of the Apostles Peter and Paul",
+                  "text": "The Lutheran church of the Apostles Peter and Paul is a prominent place of worship in Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.626474,
+                        49.741847
+                  ]
+            },
+            {
+                  "name": "Church of Saint Hedwig",
+                  "text": "The Church of Saint Hedwig is a recognized place of worship located in Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.615989,
+                        49.729698
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Imienia Najświętszej Marii Panny w Cieszynie Bobrku",
+                  "text": "Kościół pw. Imienia Najświętszej Marii Panny w Cieszynie Bobrku is a place of worship in Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.64833,
+                        49.755242
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jerzego",
+                  "text": "Kościół pw. Świętego Jerzego is a historical church situated in Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.62864,
+                        49.752689
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Opatrzności Bożej w Cieszynie Pastwiskach",
+                  "text": "Kościół pw. Opatrzności Bożej w Cieszynie Pastwiskach is a place of worship found in Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.620949,
+                        49.764694
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Świętej Rodziny",
+                  "text": "Kaplica pw. Świętej Rodziny is a chapel and place of worship in Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.636415,
+                        49.74736
+                  ]
+            },
+            {
+                  "name": "Czech Brethren evangelical church",
+                  "text": "The Czech Brethren evangelical church is a prominent place of worship situated in Altstadt von Cieszyn.",
+                  "category": "religious",
+                  "coords": [
+                        18.614039,
+                        49.743652
+                  ]
+            },
+            {
+                  "name": "Tramwaj Cieszyński",
+                  "text": "Tramwaj Cieszyński represents a historical tram vehicle attraction in Altstadt von Cieszyn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.627068,
+                        49.749859
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Cieszyn", hu: "Cieszyn óvárosa", ro: "Centrul vechi din Cieszyn", en: "Cieszyn Old Town" },
@@ -3749,7 +17141,232 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-cieszyn-old-town-history-v2.webp",
   },
   {
-    id: "poland-tykocin-old-town-history-v2",
+    id: "poland-tykocin-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Tykocin",
+                  "text": "Ein wiederaufgebautes Schloss in Tykocin.",
+                  "category": "castle",
+                  "coords": [
+                        22.770534,
+                        53.213174
+                  ]
+            },
+            {
+                  "name": "Europejska Wieś Bociania Dworek Pentowo",
+                  "text": "Ein bekanntes Storchendorf in der Nähe von Tykocin.",
+                  "category": "landmark",
+                  "coords": [
+                        22.737322,
+                        53.206829
+                  ]
+            },
+            {
+                  "name": "Port Kultury",
+                  "text": "Ein Kulturzentrum in Tykocin.",
+                  "category": "cultural",
+                  "coords": [
+                        22.771227,
+                        53.207227
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Przenajświętszej",
+                  "text": "Eine prächtige historische Kirche in Tykocin.",
+                  "category": "religious",
+                  "coords": [
+                        22.774301,
+                        53.207704
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Matki Boskiej Bolesnej",
+                  "text": "Eine kleine Kapelle in Tykocin.",
+                  "category": "religious",
+                  "coords": [
+                        22.790327,
+                        53.204778
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
+                  "text": "Eine historische Kirche in Tykocin.",
+                  "category": "religious",
+                  "coords": [
+                        22.771733,
+                        53.203452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek w Tykocinie",
+                  "text": "Újjáépített várkastély Tykocinban.",
+                  "category": "castle",
+                  "coords": [
+                        22.770534,
+                        53.213174
+                  ]
+            },
+            {
+                  "name": "Europejska Wieś Bociania Dworek Pentowo",
+                  "text": "Ismert gólyafalu Tykocin közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.737322,
+                        53.206829
+                  ]
+            },
+            {
+                  "name": "Port Kultury",
+                  "text": "Kulturális központ Tykocinban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.771227,
+                        53.207227
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Przenajświętszej",
+                  "text": "Pompás történelmi templom Tykocinban.",
+                  "category": "religious",
+                  "coords": [
+                        22.774301,
+                        53.207704
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Matki Boskiej Bolesnej",
+                  "text": "Kis kápolna Tykocinban.",
+                  "category": "religious",
+                  "coords": [
+                        22.790327,
+                        53.204778
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
+                  "text": "Történelmi templom Tykocinban.",
+                  "category": "religious",
+                  "coords": [
+                        22.771733,
+                        53.203452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek w Tykocinie",
+                  "text": "Un castel reconstruit în Tykocin.",
+                  "category": "castle",
+                  "coords": [
+                        22.770534,
+                        53.213174
+                  ]
+            },
+            {
+                  "name": "Europejska Wieś Bociania Dworek Pentowo",
+                  "text": "Un sat cunoscut pentru berze în apropiere de Tykocin.",
+                  "category": "landmark",
+                  "coords": [
+                        22.737322,
+                        53.206829
+                  ]
+            },
+            {
+                  "name": "Port Kultury",
+                  "text": "Un centru cultural în Tykocin.",
+                  "category": "cultural",
+                  "coords": [
+                        22.771227,
+                        53.207227
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Przenajświętszej",
+                  "text": "O biserică istorică magnifică în Tykocin.",
+                  "category": "religious",
+                  "coords": [
+                        22.774301,
+                        53.207704
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Matki Boskiej Bolesnej",
+                  "text": "O mică capelă în Tykocin.",
+                  "category": "religious",
+                  "coords": [
+                        22.790327,
+                        53.204778
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
+                  "text": "O biserică istorică în Tykocin.",
+                  "category": "religious",
+                  "coords": [
+                        22.771733,
+                        53.203452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "castle Tykocin",
+                  "text": "A reconstructed castle in Tykocin.",
+                  "category": "castle",
+                  "coords": [
+                        22.770534,
+                        53.213174
+                  ]
+            },
+            {
+                  "name": "Europejska Wieś Bociania Dworek Pentowo",
+                  "text": "A well-known stork village near Tykocin.",
+                  "category": "landmark",
+                  "coords": [
+                        22.737322,
+                        53.206829
+                  ]
+            },
+            {
+                  "name": "Port Kultury",
+                  "text": "A cultural center in Tykocin.",
+                  "category": "cultural",
+                  "coords": [
+                        22.771227,
+                        53.207227
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Trójcy Przenajświętszej",
+                  "text": "A magnificent historic church in Tykocin.",
+                  "category": "religious",
+                  "coords": [
+                        22.774301,
+                        53.207704
+                  ]
+            },
+            {
+                  "name": "Kaplica pw. Matki Boskiej Bolesnej",
+                  "text": "A small chapel in Tykocin.",
+                  "category": "religious",
+                  "coords": [
+                        22.790327,
+                        53.204778
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Nawiedzenia Najświętszej Maryi Panny",
+                  "text": "A historic church in Tykocin.",
+                  "category": "religious",
+                  "coords": [
+                        22.771733,
+                        53.203452
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "PL",
     name: { de: "Altstadt von Tykocin", hu: "Tykocini óváros", ro: "Centrul vechi din Tykocin", en: "Tykocin Old Town" },

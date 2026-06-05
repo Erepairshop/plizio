@@ -50,7 +50,160 @@ export const poiExtraSurinameCitiesV2: POI[] = [
       fr: ["La ville a été fondée par la Compagnie néerlandaise des Indes occidentales.", "Le nom Paramaribo dérive probablement du campement indigène 'Parmurbo'.", "La cathédrale en bois Saint-Pierre-et-Saint-Paul est l'un des plus grands bâtiments en bois au monde.", "La ville abrite plus de 240 000 personnes, soit environ la moitié de la population totale du pays."],
     }, image: "/poi-images/paramaribo-cities-v2.webp"},
   {
-    id: "lelydorp-cities-v2",
+    id: "lelydorp-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Asmoredjo Satimin",
+                  "text": "Ein lokaler Aussichtspunkt in Lelydorp mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -55.24406,
+                        5.706608
+                  ]
+            },
+            {
+                  "name": "Djoewan Reginald",
+                  "text": "Ein Aussichtspunkt in Lelydorp, der eine weite Sicht auf die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209251,
+                        5.698582
+                  ]
+            },
+            {
+                  "name": "Martomamat Sadikin",
+                  "text": "Ein erhöhter Punkt in Lelydorp mit Blick auf die nähere Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -55.249212,
+                        5.713408
+                  ]
+            },
+            {
+                  "name": "Pawirooelomo Ngasijem",
+                  "text": "Ein lokaler Punkt in Lelydorp, der als Aussichtsplattform dient.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25313,
+                        5.709407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Asmoredjo Satimin",
+                  "text": "Helyi kilátóhely Lelydorpban, ahonnan kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -55.24406,
+                        5.706608
+                  ]
+            },
+            {
+                  "name": "Djoewan Reginald",
+                  "text": "Kilátóhely Lelydorpban, amely széles kilátást nyújt a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209251,
+                        5.698582
+                  ]
+            },
+            {
+                  "name": "Martomamat Sadikin",
+                  "text": "Magaslati pont Lelydorpban, kilátással a közvetlen környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        -55.249212,
+                        5.713408
+                  ]
+            },
+            {
+                  "name": "Pawirooelomo Ngasijem",
+                  "text": "Helyi pont Lelydorpban, amely kilátóként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25313,
+                        5.709407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Asmoredjo Satimin",
+                  "text": "Un punct de belvedere local în Lelydorp cu vederi asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -55.24406,
+                        5.706608
+                  ]
+            },
+            {
+                  "name": "Djoewan Reginald",
+                  "text": "Un punct de belvedere în Lelydorp care oferă o vedere largă asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209251,
+                        5.698582
+                  ]
+            },
+            {
+                  "name": "Martomamat Sadikin",
+                  "text": "Un punct înalt în Lelydorp cu vedere asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -55.249212,
+                        5.713408
+                  ]
+            },
+            {
+                  "name": "Pawirooelomo Ngasijem",
+                  "text": "Un punct local în Lelydorp care servește drept punct de observație.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25313,
+                        5.709407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asmoredjo Satimin",
+                  "text": "A local viewpoint in Lelydorp offering views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -55.24406,
+                        5.706608
+                  ]
+            },
+            {
+                  "name": "Djoewan Reginald",
+                  "text": "A viewpoint in Lelydorp providing a wide view of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -55.209251,
+                        5.698582
+                  ]
+            },
+            {
+                  "name": "Martomamat Sadikin",
+                  "text": "An elevated point in Lelydorp with a view of the nearby area.",
+                  "category": "natural",
+                  "coords": [
+                        -55.249212,
+                        5.713408
+                  ]
+            },
+            {
+                  "name": "Pawirooelomo Ngasijem",
+                  "text": "A local point in Lelydorp that serves as an observation spot.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25313,
+                        5.709407
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SR-WA",
     coords: [-55.2319, 5.6983],

@@ -40,7 +40,88 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       en: ["Conakry accounts for over 70% of Guinea's industrial activity.", "The city's 'Corniche Nord' and 'Corniche Sud' are major coastal transit routes.", "Conakry was the first city in West Africa to have a public bus system.", "The Loos Islands were originally a British possession before being traded to France.", "The Palais Mohammed V is the seat of the Guinean government.", "Conakry is the headquarters of the African Union of Music.", "The city faces the Atlantic Ocean on three sides due to its peninsular shape.", "The 28 September Stadium is the main venue for sports and national celebrations."],
     }, image: "/poi-images/conakry-cities-v2.webp"},
   {
-    id: "nzerekore-cities-v2",
+    id: "nzerekore-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrefour Dix-Huit-Horia",
+                  "text": "Carrefour Dix-Huit-Horia ist eine Sehenswürdigkeit in Nzérékoré.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.811051,
+                        7.735306
+                  ]
+            },
+            {
+                  "name": "Place des Martyrs",
+                  "text": "Place des Martyrs ist ein Denkmal in Nzérékoré.",
+                  "category": "historical",
+                  "coords": [
+                        -8.820135,
+                        7.746116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrefour Dix-Huit-Horia",
+                  "text": "A Carrefour Dix-Huit-Horia egy látványosság Nzérékoré városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.811051,
+                        7.735306
+                  ]
+            },
+            {
+                  "name": "Place des Martyrs",
+                  "text": "A Place des Martyrs egy emlékmű Nzérékoré városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.820135,
+                        7.746116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrefour Dix-Huit-Horia",
+                  "text": "Carrefour Dix-Huit-Horia este o atracție situată în Nzérékoré.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.811051,
+                        7.735306
+                  ]
+            },
+            {
+                  "name": "Place des Martyrs",
+                  "text": "Place des Martyrs este un monument situat în Nzérékoré.",
+                  "category": "historical",
+                  "coords": [
+                        -8.820135,
+                        7.746116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrefour Dix-Huit-Horia",
+                  "text": "Carrefour Dix-Huit-Horia is a point of attraction located in Nzérékoré.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.811051,
+                        7.735306
+                  ]
+            },
+            {
+                  "name": "Place des Martyrs",
+                  "text": "Place des Martyrs is a monument located in Nzérékoré.",
+                  "category": "historical",
+                  "coords": [
+                        -8.820135,
+                        7.746116
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GN-N",
     coords: [-8.8179, 7.7562],
@@ -83,7 +164,124 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       fr: ["Nzérékoré est la troisième plus grande ville de Guinée.", "La ville se trouve à environ 940 kilomètres par la route de Conakry.", "La région est connue pour l'extraction de minerai de fer dans les monts Simandou.", "La réserve du mont Nimba a été classée au patrimoine mondial de l'UNESCO en 1981.", "La température moyenne est d'environ 24 degrés tout au long de l'année.", "Nzérékoré dispose d'un aéroport régional avec des liaisons intérieures."],
     }, image: "/poi-images/nzerekore-cities-v2.webp"},
   {
-    id: "kankan-cities-v2",
+    id: "kankan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison des Jeunes de Kankan",
+                  "text": "Das Maison des Jeunes de Kankan ist ein Theatergebäude in Kankan.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.302626,
+                        10.371534
+                  ]
+            },
+            {
+                  "name": "La statue du militaire",
+                  "text": "La statue du militaire ist ein Denkmal in der Stadt Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309568,
+                        10.371927
+                  ]
+            },
+            {
+                  "name": "Elhadj Fila Camara",
+                  "text": "Elhadj Fila Camara ist ein Herrenhaus in der Stadt Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.306293,
+                        10.370601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison des Jeunes de Kankan",
+                  "text": "A Maison des Jeunes de Kankan egy színházépület Kankan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.302626,
+                        10.371534
+                  ]
+            },
+            {
+                  "name": "La statue du militaire",
+                  "text": "A La statue du militaire egy emlékmű Kankan városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309568,
+                        10.371927
+                  ]
+            },
+            {
+                  "name": "Elhadj Fila Camara",
+                  "text": "Az Elhadj Fila Camara egy kúria Kankan városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.306293,
+                        10.370601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison des Jeunes de Kankan",
+                  "text": "Maison des Jeunes de Kankan este o clădire de teatru din Kankan.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.302626,
+                        10.371534
+                  ]
+            },
+            {
+                  "name": "La statue du militaire",
+                  "text": "La statue du militaire este un monument din orașul Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309568,
+                        10.371927
+                  ]
+            },
+            {
+                  "name": "Elhadj Fila Camara",
+                  "text": "Elhadj Fila Camara este un conac în orașul Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.306293,
+                        10.370601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison des Jeunes de Kankan",
+                  "text": "The Maison des Jeunes de Kankan is a theatre building in Kankan.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.302626,
+                        10.371534
+                  ]
+            },
+            {
+                  "name": "La statue du militaire",
+                  "text": "La statue du militaire is a monument in the city of Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309568,
+                        10.371927
+                  ]
+            },
+            {
+                  "name": "Elhadj Fila Camara",
+                  "text": "Elhadj Fila Camara is a manor in the city of Kankan.",
+                  "category": "historical",
+                  "coords": [
+                        -9.306293,
+                        10.370601
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GN-K",
     coords: [-9.3072, 10.3844],
@@ -169,7 +367,52 @@ export const poiExtraGuineaCitiesV2: POI[] = [
       fr: ["Kindia est située à une altitude d'environ 450 mètres au-dessus du niveau de la mer.", "Le mont Gangan culmine à 1 117 mètres.", "La ville a été officiellement établie comme siège administratif en 1904.", "L'Institut Pasteur de Guinée y a été fondé en 1923.", "Kindia est un centre important pour la teinture à l'indigo en Afrique de l'Ouest.", "Les chutes du « Voile de la Mariée » mesurent environ 80 mètres de haut."],
     }, image: "/poi-images/kindia-cities-v2.webp"},
   {
-    id: "labe-cities-v2",
+    id: "labe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Petit Musée du Fouta",
+                  "text": "Das Petit Musée du Fouta ist ein Museum in der Stadt Labé.",
+                  "category": "museum",
+                  "coords": [
+                        -12.306539,
+                        11.313182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Petit Musée du Fouta",
+                  "text": "A Petit Musée du Fouta egy múzeum Labé városában.",
+                  "category": "museum",
+                  "coords": [
+                        -12.306539,
+                        11.313182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Petit Musée du Fouta",
+                  "text": "Petit Musée du Fouta este un muzeu situat în orașul Labé.",
+                  "category": "museum",
+                  "coords": [
+                        -12.306539,
+                        11.313182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petit Musée du Fouta",
+                  "text": "The Petit Musée du Fouta is a museum situated in the city of Labé.",
+                  "category": "museum",
+                  "coords": [
+                        -12.306539,
+                        11.313182
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GN-L",
     coords: [-12.2833, 11.3167],
@@ -609,7 +852,52 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     },
   },
   {
-    id: "siguiri-cities-v2",
+    id: "siguiri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Permanence de Siguiri",
+                  "text": "Permanence de Siguiri ist ein bekanntes Denkmal in Siguiri.",
+                  "category": "historical",
+                  "coords": [
+                        -9.174386,
+                        11.41861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Permanence de Siguiri",
+                  "text": "A Permanence de Siguiri egy ismert emlékmű Siguiri városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.174386,
+                        11.41861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Permanence de Siguiri",
+                  "text": "Permanence de Siguiri este un monument cunoscut din Siguiri.",
+                  "category": "historical",
+                  "coords": [
+                        -9.174386,
+                        11.41861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Permanence de Siguiri",
+                  "text": "Permanence de Siguiri is a well-known monument in Siguiri.",
+                  "category": "historical",
+                  "coords": [
+                        -9.174386,
+                        11.41861
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GN-K",
     coords: [-9.1667, 11.4167],
@@ -741,7 +1029,52 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     },
   },
   {
-    id: "dubreka-cities-v2",
+    id: "dubreka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel de Dubréka",
+                  "text": "Das Centre Culturel de Dubréka ist ein Kunstzentrum in Dubréka.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.521304,
+                        9.790312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel de Dubréka",
+                  "text": "A Centre Culturel de Dubréka egy művészeti központ Dubrékában.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.521304,
+                        9.790312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel de Dubréka",
+                  "text": "Centre Culturel de Dubréka este un centru cultural din Dubréka.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.521304,
+                        9.790312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel de Dubréka",
+                  "text": "The Centre Culturel de Dubréka is an arts centre in Dubréka.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.521304,
+                        9.790312
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GN-D",
     coords: [-13.5167, 9.7833],
@@ -1269,7 +1602,52 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     }
   },
   {
-    id: "mandiana-cities-v2",
+    id: "mandiana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de la jeunesse de Mandiana",
+                  "text": "Das Maison de la jeunesse de Mandiana ist ein Theater in Mandiana.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.693444,
+                        10.622509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de la jeunesse de Mandiana",
+                  "text": "A Maison de la jeunesse de Mandiana egy színház Mandianában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.693444,
+                        10.622509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de la jeunesse de Mandiana",
+                  "text": "Maison de la jeunesse de Mandiana este un teatru din Mandiana.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.693444,
+                        10.622509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de la jeunesse de Mandiana",
+                  "text": "The Maison de la jeunesse de Mandiana is a theatre in Mandiana.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.693444,
+                        10.622509
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GN-K",
     coords: [-8.6833, 10.6333],

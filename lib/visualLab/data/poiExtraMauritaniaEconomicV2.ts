@@ -93,7 +93,124 @@ export const mauritaniaEconomicV2: POI[] = [
     image: "/poi-images/mauritania-zouerat-mine-economic-v2.webp",
   },
   {
-    id: "mauritania-nouakchott-market-economic-v2",
+    id: "mauritania-nouakchott-market-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "Das Nationalmuseum von Mauretanien ist ein bedeutendes Museum in Zentralmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "Die Galerie Zeinart ist ein Museum in Zentralmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "Das Musée urbain Turkya Daddah ist ein städtisches Museum in Zentralmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "A Mauritániai Nemzeti Múzeum egy jelentős múzeum Zentralmarkt Nouakchott területén.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "A Galerie Zeinart egy múzeum Zentralmarkt Nouakchott városában.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "A Musée urbain Turkya Daddah egy városi múzeum Zentralmarkt Nouakchott területén.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "Muzeul Național al Mauritaniei este un muzeu proeminent din Zentralmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "Galerie Zeinart este un muzeu din Zentralmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "Musée urbain Turkya Daddah este un muzeu urban în Zentralmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "The National Museum of Mauritania is a prominent museum in Zentralmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Galerie Zeinart",
+                  "text": "Galerie Zeinart is a museum and gallery in Zentralmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "Musée urbain Turkya Daddah is an urban museum situated in Zentralmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Zentralmarkt Nouakchott", hu: "Nouakchott központi piac", ro: "Piața Centrală Nouakchott", en: "Nouakchott Central Market" },
@@ -453,7 +570,124 @@ export const mauritaniaEconomicV2: POI[] = [
     image: "/poi-images/mauritania-kiffa-trade-economic-v2.webp",
   },
   {
-    id: "mauritania-atarr-oasis-economic-v2",
+    id: "mauritania-atarr-oasis-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Radio Atar régionale الإذاعة الإقليمية أطار",
+                  "text": "Theater und regionales Radio in Atar.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.053172,
+                        20.520181
+                  ]
+            },
+            {
+                  "name": "Musée Universitaire",
+                  "text": "Universitätsmuseum in Atar.",
+                  "category": "museum",
+                  "coords": [
+                        -13.053004,
+                        20.517208
+                  ]
+            },
+            {
+                  "name": "Musée de Touezek t متحف تيوزكيت",
+                  "text": "Touezek-Museum in Atar.",
+                  "category": "museum",
+                  "coords": [
+                        -13.055964,
+                        20.510112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Radio Atar régionale الإذاعة الإقليمية أطار",
+                  "text": "Színház és regionális rádió Atarban.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.053172,
+                        20.520181
+                  ]
+            },
+            {
+                  "name": "Musée Universitaire",
+                  "text": "Egyetemi múzeum Atarban.",
+                  "category": "museum",
+                  "coords": [
+                        -13.053004,
+                        20.517208
+                  ]
+            },
+            {
+                  "name": "Musée de Touezek t متحف تيوزكيت",
+                  "text": "Touezek múzeum Atarban.",
+                  "category": "museum",
+                  "coords": [
+                        -13.055964,
+                        20.510112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Radio Atar régionale الإذاعة الإقليمية أطار",
+                  "text": "Teatru și radio regional în Atar.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.053172,
+                        20.520181
+                  ]
+            },
+            {
+                  "name": "Musée Universitaire",
+                  "text": "Muzeul universitar din Atar.",
+                  "category": "museum",
+                  "coords": [
+                        -13.053004,
+                        20.517208
+                  ]
+            },
+            {
+                  "name": "Musée de Touezek t متحف تيوزكيت",
+                  "text": "Muzeul Touezek din Atar.",
+                  "category": "museum",
+                  "coords": [
+                        -13.055964,
+                        20.510112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Radio Atar régionale الإذاعة الإقليمية أطار",
+                  "text": "Theatre and regional radio in Atar.",
+                  "category": "cultural",
+                  "coords": [
+                        -13.053172,
+                        20.520181
+                  ]
+            },
+            {
+                  "name": "Musée Universitaire",
+                  "text": "University museum in Atar.",
+                  "category": "museum",
+                  "coords": [
+                        -13.053004,
+                        20.517208
+                  ]
+            },
+            {
+                  "name": "Musée de Touezek t متحف تيوزكيت",
+                  "text": "Touezek museum in Atar.",
+                  "category": "museum",
+                  "coords": [
+                        -13.055964,
+                        20.510112
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Agrar-Oase Atar", hu: "Atar oázis-gazdaság", ro: "Oaza agricolă Atar", en: "Atar Oasis Agriculture" },
@@ -664,7 +898,124 @@ export const mauritaniaEconomicV2: POI[] = [
     image: "/poi-images/mauritania-nema-market-economic-v2.webp",
   },
   {
-    id: "mauritania-nouakchott-market-v2-economic-v2",
+    id: "mauritania-nouakchott-market-v2-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "Das Musée National de la Mauritanie ist ein Nationalmuseum in Grossmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "Die Galerie Zeinart ist ein Kunstmuseum und eine Galerie in Grossmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "Das Musée urbain Turkya Daddah ist ein städtisches Museum in Grossmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "A Musée National de la Mauritanie egy nemzeti múzeum Grossmarkt Nouakchott városában.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "A Galerie Zeinart egy művészeti múzeum és galéria Grossmarkt Nouakchott területén.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "A Musée urbain Turkya Daddah egy városi múzeum Grossmarkt Nouakchott városában.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "Musée National de la Mauritanie este un muzeu național situat în Grossmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Zein art galerie",
+                  "text": "Galerie Zeinart este un muzeu de artă și o galerie situată în Grossmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "Musée urbain Turkya Daddah este un muzeu urban situat în Grossmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée National de la Mauritanie المتحف الوطني الموريتاني",
+                  "text": "The Musée National de la Mauritanie is a national museum located in Grossmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.974798,
+                        18.085523
+                  ]
+            },
+            {
+                  "name": "Galerie Zeinart",
+                  "text": "Galerie Zeinart is an art museum and gallery situated in Grossmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.972571,
+                        18.101056
+                  ]
+            },
+            {
+                  "name": "Musée urbain Turkya Daddah متحف الحضرية تركيا داداه",
+                  "text": "Musée urbain Turkya Daddah is an urban museum located in Grossmarkt Nouakchott.",
+                  "category": "museum",
+                  "coords": [
+                        -15.977449,
+                        18.09483
+                  ]
+            }
+      ]
+},
     parent: "MR",
     type: "city",
     name: { de: "Grossmarkt Nouakchott", hu: "Nouakchott nagybani piac", ro: "Piața angro Nouakchott", en: "Nouakchott Wholesale Market" },

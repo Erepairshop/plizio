@@ -931,7 +931,736 @@ export const poiExtraCubaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Granma", "Ancien centre du mouvement d'indépendance", "Ville historique de l'est de Cuba"],
     }, image: "/poi-images/bayamo-cities-v2.webp"},
   {
-    id: "manzanillo-cities-v2",
+    id: "manzanillo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Las Brisas",
+                  "text": "Ein Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.303045,
+                        19.067485
+                  ]
+            },
+            {
+                  "name": "Iguanario",
+                  "text": "Ein Iguanen-Schutzgebiet in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.318337,
+                        19.04696
+                  ]
+            },
+            {
+                  "name": "Museo de la Perversidad",
+                  "text": "Ein Museum in Manzanillo.",
+                  "category": "museum",
+                  "coords": [
+                        -104.315521,
+                        19.053085
+                  ]
+            },
+            {
+                  "name": "Playa San Pedrito",
+                  "text": "Ein Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.304756,
+                        19.057999
+                  ]
+            },
+            {
+                  "name": "Playa Las Coloradas",
+                  "text": "Ein Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.329419,
+                        19.047796
+                  ]
+            },
+            {
+                  "name": "Playa Puerta del Cielo",
+                  "text": "Ein Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.32929,
+                        19.050743
+                  ]
+            },
+            {
+                  "name": "Playa El Majo",
+                  "text": "Ein Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.323271,
+                        19.05481
+                  ]
+            },
+            {
+                  "name": "Playa El Viejo",
+                  "text": "Ein Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.321777,
+                        19.055737
+                  ]
+            },
+            {
+                  "name": "Valle Dorado Beach",
+                  "text": "Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.330869,
+                        19.043067
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332987,
+                        19.03223
+                  ]
+            },
+            {
+                  "name": "Playa del Corsario",
+                  "text": "Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331052,
+                        19.037268
+                  ]
+            },
+            {
+                  "name": "Playa Ángel",
+                  "text": "Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331069,
+                        19.040516
+                  ]
+            },
+            {
+                  "name": "Playa Las Piedritas",
+                  "text": "Strand in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332141,
+                        19.035269
+                  ]
+            },
+            {
+                  "name": "Foro del Espíritu Santo",
+                  "text": "Theater in Manzanillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.310802,
+                        19.053715
+                  ]
+            },
+            {
+                  "name": "Manzanillo Sign",
+                  "text": "Sehenswürdigkeit in Manzanillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.315454,
+                        19.054173
+                  ]
+            },
+            {
+                  "name": "Barco Piloto",
+                  "text": "Denkmal in Manzanillo.",
+                  "category": "historical",
+                  "coords": [
+                        -104.3127,
+                        19.053826
+                  ]
+            },
+            {
+                  "name": "Mirador de Vigía",
+                  "text": "Aussichtspunkt in Manzanillo.",
+                  "category": "natural",
+                  "coords": [
+                        -104.3205,
+                        19.056592
+                  ]
+            },
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Aussichtspunkt in Manzanillo.",
+                  "category": "natural",
+                  "coords": [
+                        -104.323195,
+                        19.052111
+                  ]
+            },
+            {
+                  "name": "Mirador Olimpo",
+                  "text": "Aussichtspunkt in Manzanillo.",
+                  "category": "natural",
+                  "coords": [
+                        -104.329716,
+                        19.037118
+                  ]
+            },
+            {
+                  "name": "Pez Vela",
+                  "text": "Großes Segelfisch-Denkmal in Manzanillo.",
+                  "category": "historical",
+                  "coords": [
+                        -104.31681,
+                        19.054221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Las Brisas",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.303045,
+                        19.067485
+                  ]
+            },
+            {
+                  "name": "Iguanario",
+                  "text": "Leguánrezervátum Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.318337,
+                        19.04696
+                  ]
+            },
+            {
+                  "name": "Museo de la Perversidad",
+                  "text": "Múzeum Manzanillóban.",
+                  "category": "museum",
+                  "coords": [
+                        -104.315521,
+                        19.053085
+                  ]
+            },
+            {
+                  "name": "Playa San Pedrito",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.304756,
+                        19.057999
+                  ]
+            },
+            {
+                  "name": "Playa Las Coloradas",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.329419,
+                        19.047796
+                  ]
+            },
+            {
+                  "name": "Playa Puerta del Cielo",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.32929,
+                        19.050743
+                  ]
+            },
+            {
+                  "name": "Playa El Majo",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.323271,
+                        19.05481
+                  ]
+            },
+            {
+                  "name": "Playa El Viejo",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.321777,
+                        19.055737
+                  ]
+            },
+            {
+                  "name": "Valle Dorado Beach",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.330869,
+                        19.043067
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332987,
+                        19.03223
+                  ]
+            },
+            {
+                  "name": "Playa del Corsario",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331052,
+                        19.037268
+                  ]
+            },
+            {
+                  "name": "Playa Ángel",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331069,
+                        19.040516
+                  ]
+            },
+            {
+                  "name": "Playa Las Piedritas",
+                  "text": "Strand Manzanillóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332141,
+                        19.035269
+                  ]
+            },
+            {
+                  "name": "Foro del Espíritu Santo",
+                  "text": "Színház Manzanillóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.310802,
+                        19.053715
+                  ]
+            },
+            {
+                  "name": "Manzanillo Sign",
+                  "text": "Látnivaló Manzanillóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.315454,
+                        19.054173
+                  ]
+            },
+            {
+                  "name": "Barco Piloto",
+                  "text": "Emlékmű Manzanillóban.",
+                  "category": "historical",
+                  "coords": [
+                        -104.3127,
+                        19.053826
+                  ]
+            },
+            {
+                  "name": "Mirador de Vigía",
+                  "text": "Kilátópont Manzanillóban.",
+                  "category": "natural",
+                  "coords": [
+                        -104.3205,
+                        19.056592
+                  ]
+            },
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Kilátópont Manzanillóban.",
+                  "category": "natural",
+                  "coords": [
+                        -104.323195,
+                        19.052111
+                  ]
+            },
+            {
+                  "name": "Mirador Olimpo",
+                  "text": "Kilátópont Manzanillóban.",
+                  "category": "natural",
+                  "coords": [
+                        -104.329716,
+                        19.037118
+                  ]
+            },
+            {
+                  "name": "Pez Vela",
+                  "text": "Óriási vitorláshal-szobor Manzanillóban.",
+                  "category": "historical",
+                  "coords": [
+                        -104.31681,
+                        19.054221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Las Brisas",
+                  "text": "O plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.303045,
+                        19.067485
+                  ]
+            },
+            {
+                  "name": "Iguanario",
+                  "text": "O rezervație de iguane în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.318337,
+                        19.04696
+                  ]
+            },
+            {
+                  "name": "Museo de la Perversidad",
+                  "text": "Un muzeu în Manzanillo.",
+                  "category": "museum",
+                  "coords": [
+                        -104.315521,
+                        19.053085
+                  ]
+            },
+            {
+                  "name": "Playa San Pedrito",
+                  "text": "O plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.304756,
+                        19.057999
+                  ]
+            },
+            {
+                  "name": "Playa Las Coloradas",
+                  "text": "O plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.329419,
+                        19.047796
+                  ]
+            },
+            {
+                  "name": "Playa Puerta del Cielo",
+                  "text": "O plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.32929,
+                        19.050743
+                  ]
+            },
+            {
+                  "name": "Playa El Majo",
+                  "text": "O plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.323271,
+                        19.05481
+                  ]
+            },
+            {
+                  "name": "Playa El Viejo",
+                  "text": "O plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.321777,
+                        19.055737
+                  ]
+            },
+            {
+                  "name": "Valle Dorado Beach",
+                  "text": "Plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.330869,
+                        19.043067
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "Plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332987,
+                        19.03223
+                  ]
+            },
+            {
+                  "name": "Playa del Corsario",
+                  "text": "Plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331052,
+                        19.037268
+                  ]
+            },
+            {
+                  "name": "Playa Ángel",
+                  "text": "Plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331069,
+                        19.040516
+                  ]
+            },
+            {
+                  "name": "Playa Las Piedritas",
+                  "text": "Plajă în Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332141,
+                        19.035269
+                  ]
+            },
+            {
+                  "name": "Foro del Espíritu Santo",
+                  "text": "Teatru în Manzanillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.310802,
+                        19.053715
+                  ]
+            },
+            {
+                  "name": "Manzanillo Sign",
+                  "text": "Atracție în Manzanillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.315454,
+                        19.054173
+                  ]
+            },
+            {
+                  "name": "Barco Piloto",
+                  "text": "Monument în Manzanillo.",
+                  "category": "historical",
+                  "coords": [
+                        -104.3127,
+                        19.053826
+                  ]
+            },
+            {
+                  "name": "Mirador de Vigía",
+                  "text": "Punct de belvedere în Manzanillo.",
+                  "category": "natural",
+                  "coords": [
+                        -104.3205,
+                        19.056592
+                  ]
+            },
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Punct de belvedere în Manzanillo.",
+                  "category": "natural",
+                  "coords": [
+                        -104.323195,
+                        19.052111
+                  ]
+            },
+            {
+                  "name": "Mirador Olimpo",
+                  "text": "Punct de belvedere în Manzanillo.",
+                  "category": "natural",
+                  "coords": [
+                        -104.329716,
+                        19.037118
+                  ]
+            },
+            {
+                  "name": "Pez Vela",
+                  "text": "Sculptură uriașă de pește-spadă în Manzanillo.",
+                  "category": "historical",
+                  "coords": [
+                        -104.31681,
+                        19.054221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Las Brisas Beach",
+                  "text": "A beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.303045,
+                        19.067485
+                  ]
+            },
+            {
+                  "name": "Iguanario",
+                  "text": "An iguana sanctuary in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.318337,
+                        19.04696
+                  ]
+            },
+            {
+                  "name": "Museo de la Perversidad",
+                  "text": "A museum in Manzanillo.",
+                  "category": "museum",
+                  "coords": [
+                        -104.315521,
+                        19.053085
+                  ]
+            },
+            {
+                  "name": "San Pedrito Beach",
+                  "text": "A beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.304756,
+                        19.057999
+                  ]
+            },
+            {
+                  "name": "Playa Las Coloradas",
+                  "text": "A beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.329419,
+                        19.047796
+                  ]
+            },
+            {
+                  "name": "Playa Puerta del Cielo",
+                  "text": "A beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.32929,
+                        19.050743
+                  ]
+            },
+            {
+                  "name": "Playa El Majo",
+                  "text": "A beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.323271,
+                        19.05481
+                  ]
+            },
+            {
+                  "name": "Playa El Viejo",
+                  "text": "A beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.321777,
+                        19.055737
+                  ]
+            },
+            {
+                  "name": "Valle Dorado Beach",
+                  "text": "Beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.330869,
+                        19.043067
+                  ]
+            },
+            {
+                  "name": "Playa Ventanas",
+                  "text": "Beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332987,
+                        19.03223
+                  ]
+            },
+            {
+                  "name": "Playa del Corsario",
+                  "text": "Beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331052,
+                        19.037268
+                  ]
+            },
+            {
+                  "name": "Playa Ángel",
+                  "text": "Beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.331069,
+                        19.040516
+                  ]
+            },
+            {
+                  "name": "Playa Las Piedritas",
+                  "text": "Beach in Manzanillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.332141,
+                        19.035269
+                  ]
+            },
+            {
+                  "name": "Foro del Espíritu Santo",
+                  "text": "Theatre in Manzanillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.310802,
+                        19.053715
+                  ]
+            },
+            {
+                  "name": "Manzanillo Sign",
+                  "text": "Attraction in Manzanillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.315454,
+                        19.054173
+                  ]
+            },
+            {
+                  "name": "Piloto Boat",
+                  "text": "Monument in Manzanillo.",
+                  "category": "historical",
+                  "coords": [
+                        -104.3127,
+                        19.053826
+                  ]
+            },
+            {
+                  "name": "Mirador de Vigía",
+                  "text": "Viewpoint in Manzanillo.",
+                  "category": "natural",
+                  "coords": [
+                        -104.3205,
+                        19.056592
+                  ]
+            },
+            {
+                  "name": "Mirador del Cerro de la Cruz",
+                  "text": "Viewpoint in Manzanillo.",
+                  "category": "natural",
+                  "coords": [
+                        -104.323195,
+                        19.052111
+                  ]
+            },
+            {
+                  "name": "Mirador Olimpo",
+                  "text": "Viewpoint in Manzanillo.",
+                  "category": "natural",
+                  "coords": [
+                        -104.329716,
+                        19.037118
+                  ]
+            },
+            {
+                  "name": "Giant Sailfish Sculpture",
+                  "text": "Giant sailfish sculpture in Manzanillo.",
+                  "category": "historical",
+                  "coords": [
+                        -104.31681,
+                        19.054221
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-12",
     coords: [-77.108, 20.343],

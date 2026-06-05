@@ -3,7 +3,196 @@ import { POI } from './poi';
 export const saintvincentCitiesV2: POI[] = [
 
   {
-    id: "saintvincent-kingstown-cities-v2",
+    id: "saintvincent-kingstown-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Charlotte",
+                  "text": "Fort Charlotte ist ein historisches, von den Briten erbautes Fort in Kingstown.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.242266,
+                        13.157974
+                  ]
+            },
+            {
+                  "name": "Sharpes Petroglyphs",
+                  "text": "Sharpes Petroglyphs ist eine archäologische Stätte in Kingstown.",
+                  "category": "historical",
+                  "coords": [
+                        -61.222567,
+                        13.164396
+                  ]
+            },
+            {
+                  "name": "National Trust/Old Public Library",
+                  "text": "Der National Trust/Old Public Library ist ein Museum in Kingstown.",
+                  "category": "museum",
+                  "coords": [
+                        -61.223063,
+                        13.152918
+                  ]
+            },
+            {
+                  "name": "Kingstown Bay",
+                  "text": "Die Kingstown Bay ist eine Bucht in der Nähe der Stadt Kingstown.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.232644,
+                        13.148878
+                  ]
+            },
+            {
+                  "name": "Assumption Cathedral",
+                  "text": "Die Assumption Cathedral ist ein bekannter katholischer Sakralbau in Kingstown.",
+                  "category": "religious",
+                  "coords": [
+                        -61.229038,
+                        13.157609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Charlotte",
+                  "text": "A Fort Charlotte egy történelmi brit építésű erődítmény Kingstownban.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.242266,
+                        13.157974
+                  ]
+            },
+            {
+                  "name": "Sharpes Petroglyphs",
+                  "text": "A Sharpes Petroglyphs egy régészeti lelőhely Kingstownban.",
+                  "category": "historical",
+                  "coords": [
+                        -61.222567,
+                        13.164396
+                  ]
+            },
+            {
+                  "name": "National Trust/Old Public Library",
+                  "text": "A National Trust/Old Public Library egy múzeum Kingstown városában.",
+                  "category": "museum",
+                  "coords": [
+                        -61.223063,
+                        13.152918
+                  ]
+            },
+            {
+                  "name": "Kingstown Bay",
+                  "text": "A Kingstown Bay egy öböl Kingstown városa mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.232644,
+                        13.148878
+                  ]
+            },
+            {
+                  "name": "Assumption Cathedral",
+                  "text": "Az Assumption Cathedral egy jelentős katolikus imahely Kingstownban.",
+                  "category": "religious",
+                  "coords": [
+                        -61.229038,
+                        13.157609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Charlotte",
+                  "text": "Fort Charlotte este un fort istoric construit de britanici situat în Kingstown.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.242266,
+                        13.157974
+                  ]
+            },
+            {
+                  "name": "Sharpes Petroglyphs",
+                  "text": "Sharpes Petroglyphs este un sit arheologic situat în Kingstown.",
+                  "category": "historical",
+                  "coords": [
+                        -61.222567,
+                        13.164396
+                  ]
+            },
+            {
+                  "name": "National Trust/Old Public Library",
+                  "text": "National Trust/Old Public Library este un muzeu situat în Kingstown.",
+                  "category": "museum",
+                  "coords": [
+                        -61.223063,
+                        13.152918
+                  ]
+            },
+            {
+                  "name": "Kingstown Bay",
+                  "text": "Kingstown Bay este un golf situat lângă orașul Kingstown.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.232644,
+                        13.148878
+                  ]
+            },
+            {
+                  "name": "Assumption Cathedral",
+                  "text": "Assumption Cathedral este un lăcaș de cult catolic notabil situat în Kingstown.",
+                  "category": "religious",
+                  "coords": [
+                        -61.229038,
+                        13.157609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Charlotte",
+                  "text": "Fort Charlotte is a historic British-built fort located in Kingstown.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.242266,
+                        13.157974
+                  ]
+            },
+            {
+                  "name": "Sharpes Petroglyphs",
+                  "text": "Sharpes Petroglyphs is an archaeological site located in Kingstown.",
+                  "category": "historical",
+                  "coords": [
+                        -61.222567,
+                        13.164396
+                  ]
+            },
+            {
+                  "name": "National Trust/Old Public Library",
+                  "text": "The National Trust/Old Public Library is a museum situated in Kingstown.",
+                  "category": "museum",
+                  "coords": [
+                        -61.223063,
+                        13.152918
+                  ]
+            },
+            {
+                  "name": "Kingstown Bay",
+                  "text": "Kingstown Bay is a bay located by the city of Kingstown.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.232644,
+                        13.148878
+                  ]
+            },
+            {
+                  "name": "Assumption Cathedral",
+                  "text": "Assumption Cathedral is a notable Catholic place of worship located in Kingstown.",
+                  "category": "religious",
+                  "coords": [
+                        -61.229038,
+                        13.157609
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "capital",
     name: { de: "Kingstown", hu: "Kingstown", ro: "Kingstown", en: "Kingstown" },
@@ -48,7 +237,52 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-kingstown-cities-v2.webp",
   },
   {
-    id: "saintvincent-barrouallie-cities-v2",
+    id: "saintvincent-barrouallie-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pirates of the Caribbean Movie Set Location",
+                  "text": "Der Drehort des Films Pirates of the Caribbean ist eine Attraktion in Barrouallie.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.271276,
+                        13.246738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pirates of the Caribbean Movie Set Location",
+                  "text": "A Karib-tenger kalózai filmforgatási helyszín egy látványosság Barrouallie-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.271276,
+                        13.246738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pirates of the Caribbean Movie Set Location",
+                  "text": "Locația de filmare a filmului Pirații din Caraibe este o atracție din Barrouallie.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.271276,
+                        13.246738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pirates of the Caribbean Movie Set Location",
+                  "text": "The Pirates of the Caribbean Movie Set Location is a tourist attraction in Barrouallie.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.271276,
+                        13.246738
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "town",
     name: { de: "Barrouallie", hu: "Barrouallie", ro: "Barrouallie", en: "Barrouallie" },
@@ -93,7 +327,124 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-barrouallie-cities-v2.webp",
   },
   {
-    id: "saintvincent-layou-cities-v2",
+    id: "saintvincent-layou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Layou Petroglyphs",
+                  "text": "Layou Petroglyphs ist eine archäologische Stätte in Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.257819,
+                        13.209778
+                  ]
+            },
+            {
+                  "name": "Buccament Beach",
+                  "text": "Buccament Beach ist ein Strand in Layou.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.267634,
+                        13.192005
+                  ]
+            },
+            {
+                  "name": "Buccament Petroglyphs",
+                  "text": "Buccament Petroglyphs ist eine archäologische Stätte in Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.263594,
+                        13.190298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Layou Petroglyphs",
+                  "text": "Layou Petroglyphs egy régészeti lelőhely Layou területén.",
+                  "category": "historical",
+                  "coords": [
+                        -61.257819,
+                        13.209778
+                  ]
+            },
+            {
+                  "name": "Buccament Beach",
+                  "text": "Buccament Beach egy strand Layou területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.267634,
+                        13.192005
+                  ]
+            },
+            {
+                  "name": "Buccament Petroglyphs",
+                  "text": "Buccament Petroglyphs egy régészeti lelőhely Layou területén.",
+                  "category": "historical",
+                  "coords": [
+                        -61.263594,
+                        13.190298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Layou Petroglyphs",
+                  "text": "Layou Petroglyphs este un sit arheologic în Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.257819,
+                        13.209778
+                  ]
+            },
+            {
+                  "name": "Buccament Beach",
+                  "text": "Buccament Beach este o plajă în Layou.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.267634,
+                        13.192005
+                  ]
+            },
+            {
+                  "name": "Buccament Petroglyphs",
+                  "text": "Buccament Petroglyphs este un sit arheologic în Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.263594,
+                        13.190298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Layou Petroglyphs",
+                  "text": "Layou Petroglyphs is an archaeological site located in Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.257819,
+                        13.209778
+                  ]
+            },
+            {
+                  "name": "Buccament Beach",
+                  "text": "Buccament Beach is a beach located in Layou.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.267634,
+                        13.192005
+                  ]
+            },
+            {
+                  "name": "Buccament Petroglyphs",
+                  "text": "Buccament Petroglyphs is an archaeological site located in Layou.",
+                  "category": "historical",
+                  "coords": [
+                        -61.263594,
+                        13.190298
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "town",
     name: { de: "Layou", hu: "Layou", ro: "Layou", en: "Layou" },
@@ -138,7 +489,196 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-layou-cities-v2.webp",
   },
   {
-    id: "saintvincent-chateaubelair-cities-v2",
+    id: "saintvincent-chateaubelair-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wallibou Beach",
+                  "text": "Strand in Chateaubelair.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.229338,
+                        13.316358
+                  ]
+            },
+            {
+                  "name": "Richmond Beach",
+                  "text": "Strand in Chateaubelair.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.233891,
+                        13.312764
+                  ]
+            },
+            {
+                  "name": "Volcano Oservatory",
+                  "text": "Aussichtspunkt in Chateaubelair.",
+                  "category": "natural",
+                  "coords": [
+                        -61.250306,
+                        13.274665
+                  ]
+            },
+            {
+                  "name": "The Thirteen Stones of Chateaubelair",
+                  "text": "Attraktion in Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.244605,
+                        13.291225
+                  ]
+            },
+            {
+                  "name": "Darkview Falls",
+                  "text": "Wasserfall in Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.22102,
+                        13.290751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wallibou Beach",
+                  "text": "Strand Chateaubelairben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.229338,
+                        13.316358
+                  ]
+            },
+            {
+                  "name": "Richmond Beach",
+                  "text": "Strand Chateaubelairben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.233891,
+                        13.312764
+                  ]
+            },
+            {
+                  "name": "Volcano Oservatory",
+                  "text": "Kilátópont Chateaubelairben.",
+                  "category": "natural",
+                  "coords": [
+                        -61.250306,
+                        13.274665
+                  ]
+            },
+            {
+                  "name": "The Thirteen Stones of Chateaubelair",
+                  "text": "Látnivaló Chateaubelairben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.244605,
+                        13.291225
+                  ]
+            },
+            {
+                  "name": "Darkview Falls",
+                  "text": "Vízesés Chateaubelairben.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.22102,
+                        13.290751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wallibou Beach",
+                  "text": "Plajă în Chateaubelair.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.229338,
+                        13.316358
+                  ]
+            },
+            {
+                  "name": "Richmond Beach",
+                  "text": "Plajă în Chateaubelair.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.233891,
+                        13.312764
+                  ]
+            },
+            {
+                  "name": "Volcano Oservatory",
+                  "text": "Punct de observație în Chateaubelair.",
+                  "category": "natural",
+                  "coords": [
+                        -61.250306,
+                        13.274665
+                  ]
+            },
+            {
+                  "name": "The Thirteen Stones of Chateaubelair",
+                  "text": "Atracție în Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.244605,
+                        13.291225
+                  ]
+            },
+            {
+                  "name": "Darkview Falls",
+                  "text": "Cascadă în Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.22102,
+                        13.290751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wallibou Beach",
+                  "text": "Beach in Chateaubelair.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.229338,
+                        13.316358
+                  ]
+            },
+            {
+                  "name": "Richmond Beach",
+                  "text": "Beach in Chateaubelair.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.233891,
+                        13.312764
+                  ]
+            },
+            {
+                  "name": "Volcano Oservatory",
+                  "text": "Viewpoint in Chateaubelair.",
+                  "category": "natural",
+                  "coords": [
+                        -61.250306,
+                        13.274665
+                  ]
+            },
+            {
+                  "name": "The Thirteen Stones of Chateaubelair",
+                  "text": "Attraction in Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.244605,
+                        13.291225
+                  ]
+            },
+            {
+                  "name": "Darkview Falls",
+                  "text": "Waterfall in Chateaubelair.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.22102,
+                        13.290751
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "town",
     name: { de: "Chateaubelair", hu: "Chateaubelair", ro: "Chateaubelair", en: "Chateaubelair" },
@@ -183,7 +723,340 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-chateaubelair-cities-v2.webp",
   },
   {
-    id: "saintvincent-port-elizabeth-cities-v2",
+    id: "saintvincent-port-elizabeth-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Hamilton",
+                  "text": "Fort Hamilton ist eine historische Festung in Port Elizabeth.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.246314,
+                        13.011348
+                  ]
+            },
+            {
+                  "name": "Bequia Heritage Museum",
+                  "text": "Das Bequia Heritage Museum zeigt lokale Geschichte in Port Elizabeth.",
+                  "category": "museum",
+                  "coords": [
+                        -61.232222,
+                        12.991969
+                  ]
+            },
+            {
+                  "name": "Belmont Beach",
+                  "text": "Belmont Beach ist ein Küstenstreifen in Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.238763,
+                        13.004832
+                  ]
+            },
+            {
+                  "name": "Hope Bay Beach",
+                  "text": "Hope Bay Beach ist ein Sandstrand in Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.220111,
+                        13.00649
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Bay Beach",
+                  "text": "Princess Margaret Bay Beach ist ein beliebter Badeort in Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.241433,
+                        13.001649
+                  ]
+            },
+            {
+                  "name": "Spring Bay Beach",
+                  "text": "Spring Bay Beach ist ein Strandbereich in Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.222608,
+                        13.019902
+                  ]
+            },
+            {
+                  "name": "Industry Bay Beach",
+                  "text": "Industry Bay Beach ist ein Küstenstreifen in Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.217615,
+                        13.024492
+                  ]
+            },
+            {
+                  "name": "Lower Bay",
+                  "text": "Lower Bay ist eine Bucht in Port Elizabeth.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.246638,
+                        12.997137
+                  ]
+            },
+            {
+                  "name": "Mount Peggy",
+                  "text": "Mount Peggy ist ein erhöhter Aussichtspunkt in Port Elizabeth.",
+                  "category": "natural",
+                  "coords": [
+                        -61.251916,
+                        12.991774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Hamilton",
+                  "text": "A Fort Hamilton egy történelmi erőd Port Elizabeth városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.246314,
+                        13.011348
+                  ]
+            },
+            {
+                  "name": "Bequia Heritage Museum",
+                  "text": "A Bequia Heritage Museum a helyi történelmet mutatja be Port Elizabethben.",
+                  "category": "museum",
+                  "coords": [
+                        -61.232222,
+                        12.991969
+                  ]
+            },
+            {
+                  "name": "Belmont Beach",
+                  "text": "A Belmont Beach egy tengerparti szakasz Port Elizabethben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.238763,
+                        13.004832
+                  ]
+            },
+            {
+                  "name": "Hope Bay Beach",
+                  "text": "A Hope Bay Beach egy homokos úti cél Port Elizabethben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.220111,
+                        13.00649
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Bay Beach",
+                  "text": "A Princess Margaret Bay Beach egy népszerű fürdő- és pihenőhely Port Elizabethben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.241433,
+                        13.001649
+                  ]
+            },
+            {
+                  "name": "Spring Bay Beach",
+                  "text": "A Spring Bay Beach egy csendes tengerparti terület Port Elizabethben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.222608,
+                        13.019902
+                  ]
+            },
+            {
+                  "name": "Industry Bay Beach",
+                  "text": "Az Industry Bay Beach egy partszakasz Port Elizabethben.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.217615,
+                        13.024492
+                  ]
+            },
+            {
+                  "name": "Lower Bay",
+                  "text": "A Lower Bay egy öböl Port Elizabeth közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.246638,
+                        12.997137
+                  ]
+            },
+            {
+                  "name": "Mount Peggy",
+                  "text": "A Mount Peggy egy magaslati kilátó Port Elizabethben.",
+                  "category": "natural",
+                  "coords": [
+                        -61.251916,
+                        12.991774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Hamilton",
+                  "text": "Fort Hamilton este o fortăreață istorică situată în Port Elizabeth.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.246314,
+                        13.011348
+                  ]
+            },
+            {
+                  "name": "Bequia Heritage Museum",
+                  "text": "Muzeul de Patrimoniu Bequia expune istoria și cultura locală în Port Elizabeth.",
+                  "category": "museum",
+                  "coords": [
+                        -61.232222,
+                        12.991969
+                  ]
+            },
+            {
+                  "name": "Belmont Beach",
+                  "text": "Belmont Beach este o fâșie de coastă situată în Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.238763,
+                        13.004832
+                  ]
+            },
+            {
+                  "name": "Hope Bay Beach",
+                  "text": "Hope Bay Beach este o destinație pitorească cu nisip din Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.220111,
+                        13.00649
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Bay Beach",
+                  "text": "Princess Margaret Bay Beach este o plajă populară din Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.241433,
+                        13.001649
+                  ]
+            },
+            {
+                  "name": "Spring Bay Beach",
+                  "text": "Spring Bay Beach este o zonă de plajă din Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.222608,
+                        13.019902
+                  ]
+            },
+            {
+                  "name": "Industry Bay Beach",
+                  "text": "Industry Bay Beach este o porțiune de coastă situată în Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.217615,
+                        13.024492
+                  ]
+            },
+            {
+                  "name": "Lower Bay",
+                  "text": "Lower Bay este un golf situat în Port Elizabeth.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.246638,
+                        12.997137
+                  ]
+            },
+            {
+                  "name": "Mount Peggy",
+                  "text": "Mount Peggy este un punct de belvedere în Port Elizabeth.",
+                  "category": "natural",
+                  "coords": [
+                        -61.251916,
+                        12.991774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Hamilton",
+                  "text": "Fort Hamilton is a historic fortress located in Port Elizabeth.",
+                  "category": "fortress",
+                  "coords": [
+                        -61.246314,
+                        13.011348
+                  ]
+            },
+            {
+                  "name": "Bequia Heritage Museum",
+                  "text": "The Bequia Heritage Museum exhibits local history and culture in Port Elizabeth.",
+                  "category": "museum",
+                  "coords": [
+                        -61.232222,
+                        12.991969
+                  ]
+            },
+            {
+                  "name": "Belmont Beach",
+                  "text": "Belmont Beach is a coastal stretch located in Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.238763,
+                        13.004832
+                  ]
+            },
+            {
+                  "name": "Hope Bay Beach",
+                  "text": "Hope Bay Beach is a sandy destination situated in Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.220111,
+                        13.00649
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Bay Beach",
+                  "text": "Princess Margaret Bay Beach is a popular swimming and relaxation spot in Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.241433,
+                        13.001649
+                  ]
+            },
+            {
+                  "name": "Spring Bay Beach",
+                  "text": "Spring Bay Beach is a beach area found in Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.222608,
+                        13.019902
+                  ]
+            },
+            {
+                  "name": "Industry Bay Beach",
+                  "text": "Industry Bay Beach is a stretch of coast located in Port Elizabeth.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.217615,
+                        13.024492
+                  ]
+            },
+            {
+                  "name": "Lower Bay",
+                  "text": "Lower Bay is a bay located in Port Elizabeth.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.246638,
+                        12.997137
+                  ]
+            },
+            {
+                  "name": "Mount Peggy",
+                  "text": "Mount Peggy is an elevated viewpoint offering sweeping vistas in Port Elizabeth.",
+                  "category": "natural",
+                  "coords": [
+                        -61.251916,
+                        12.991774
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "town",
     name: { de: "Port Elizabeth", hu: "Port Elizabeth", ro: "Port Elizabeth", en: "Port Elizabeth" },
@@ -363,7 +1236,88 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-biabou-cities-v2.webp",
   },
   {
-    id: "saintvincent-charlestown-cities-v2",
+    id: "saintvincent-charlestown-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Little Mahault",
+                  "text": "Little Mahault ist ein Strand in Charlestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.325734,
+                        12.734925
+                  ]
+            },
+            {
+                  "name": "Big Mahault Beach",
+                  "text": "Big Mahault Beach ist ein Strand in Charlestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.322553,
+                        12.732434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Little Mahault",
+                  "text": "Little Mahault egy strand Charlestown területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.325734,
+                        12.734925
+                  ]
+            },
+            {
+                  "name": "Big Mahault Beach",
+                  "text": "Big Mahault Beach egy strand Charlestown területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.322553,
+                        12.732434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Little Mahault",
+                  "text": "Little Mahault este o plajă în Charlestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.325734,
+                        12.734925
+                  ]
+            },
+            {
+                  "name": "Big Mahault Beach",
+                  "text": "Big Mahault Beach este o plajă în Charlestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.322553,
+                        12.732434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Little Mahault",
+                  "text": "Little Mahault is a beach located in Charlestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.325734,
+                        12.734925
+                  ]
+            },
+            {
+                  "name": "Big Mahault Beach",
+                  "text": "Big Mahault Beach is a beach located in Charlestown.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.322553,
+                        12.732434
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "town",
     name: { de: "Charlestown", hu: "Charlestown", ro: "Charlestown", en: "Charlestown" },
@@ -453,7 +1407,232 @@ export const saintvincentCitiesV2: POI[] = [
     image: "/poi-images/saintvincent-ashton-cities-v2.webp",
   },
   {
-    id: "saintvincent-dovers-cities-v2",
+    id: "saintvincent-dovers-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Macaroni Beach",
+                  "text": "Macaroni Beach ist ein bekannter Strand in Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.176296,
+                        12.880017
+                  ]
+            },
+            {
+                  "name": "Pasture Beach",
+                  "text": "Pasture Beach ist ein ruhiger Küstenabschnitt in Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.178753,
+                        12.872226
+                  ]
+            },
+            {
+                  "name": "Endeavour Bay Beach",
+                  "text": "Endeavour Bay Beach bietet eine malerische Umgebung in Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.185614,
+                        12.889677
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "Lagoon Beach ist ein geschützter Küstenabschnitt in Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.192212,
+                        12.867811
+                  ]
+            },
+            {
+                  "name": "Monument Colin Tennant",
+                  "text": "Das Monument Colin Tennant ist eine historische Gedenkstätte in Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.185105,
+                        12.884276
+                  ]
+            },
+            {
+                  "name": "The Cotton House",
+                  "text": "The Cotton House ist ein historisches Herrenhaus in Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.184064,
+                        12.890039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Macaroni Beach",
+                  "text": "A Macaroni Beach egy homokos partszakasz Dovers területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.176296,
+                        12.880017
+                  ]
+            },
+            {
+                  "name": "Pasture Beach",
+                  "text": "A Pasture Beach egy nyugodt tengerparti úti cél Dovers területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.178753,
+                        12.872226
+                  ]
+            },
+            {
+                  "name": "Endeavour Bay Beach",
+                  "text": "Az Endeavour Bay Beach festői tengerparti környezetet kínál Dovers területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.185614,
+                        12.889677
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "A Lagoon Beach egy védett tengerparti hely Dovers területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.192212,
+                        12.867811
+                  ]
+            },
+            {
+                  "name": "Monument Colin Tennant",
+                  "text": "A Monument Colin Tennant egy történelmi emlékmű Dovers városában.",
+                  "category": "historical",
+                  "coords": [
+                        -61.185105,
+                        12.884276
+                  ]
+            },
+            {
+                  "name": "The Cotton House",
+                  "text": "A The Cotton House egy történelmi udvarház Dovers területén.",
+                  "category": "historical",
+                  "coords": [
+                        -61.184064,
+                        12.890039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Macaroni Beach",
+                  "text": "Macaroni Beach este o porțiune de plajă situată în Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.176296,
+                        12.880017
+                  ]
+            },
+            {
+                  "name": "Pasture Beach",
+                  "text": "Pasture Beach este o destinație de coastă liniștită din Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.178753,
+                        12.872226
+                  ]
+            },
+            {
+                  "name": "Endeavour Bay Beach",
+                  "text": "Endeavour Bay Beach oferă un mediu pitoresc pe malul mării în Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.185614,
+                        12.889677
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "Lagoon Beach este un loc de coastă adăpostit din Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.192212,
+                        12.867811
+                  ]
+            },
+            {
+                  "name": "Monument Colin Tennant",
+                  "text": "Monument Colin Tennant este un memorial istoric situat în Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.185105,
+                        12.884276
+                  ]
+            },
+            {
+                  "name": "The Cotton House",
+                  "text": "The Cotton House este un conac istoric situat în Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.184064,
+                        12.890039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macaroni Beach",
+                  "text": "Macaroni Beach is a renowned stretch of sand located in Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.176296,
+                        12.880017
+                  ]
+            },
+            {
+                  "name": "Pasture Beach",
+                  "text": "Pasture Beach is a calm shoreline destination located in Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.178753,
+                        12.872226
+                  ]
+            },
+            {
+                  "name": "Endeavour Bay Beach",
+                  "text": "Endeavour Bay Beach provides a scenic seaside environment in Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.185614,
+                        12.889677
+                  ]
+            },
+            {
+                  "name": "Lagoon Beach",
+                  "text": "Lagoon Beach is a sheltered coastal spot situated in Dovers.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.192212,
+                        12.867811
+                  ]
+            },
+            {
+                  "name": "Monument Colin Tennant",
+                  "text": "The Monument Colin Tennant is a historical memorial located in Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.185105,
+                        12.884276
+                  ]
+            },
+            {
+                  "name": "The Cotton House",
+                  "text": "The Cotton House is a historic manor estate located in Dovers.",
+                  "category": "historical",
+                  "coords": [
+                        -61.184064,
+                        12.890039
+                  ]
+            }
+      ]
+},
     parent: "VC",
     type: "village",
     name: { de: "Dovers", hu: "Dovers", ro: "Dovers", en: "Dovers" },

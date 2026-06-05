@@ -847,7 +847,52 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
     }
   },
   {
-    id: "cd-dungu-cities-v2",
+    id: "cd-dungu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chateau de Dungu",
+                  "text": "Chateau de Dungu ist ein Schloss in Dungu.",
+                  "category": "castle",
+                  "coords": [
+                        28.562964,
+                        3.616998
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chateau de Dungu",
+                  "text": "A(z) Chateau de Dungu egy kastély Dungu településen.",
+                  "category": "castle",
+                  "coords": [
+                        28.562964,
+                        3.616998
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chateau de Dungu",
+                  "text": "Chateau de Dungu este un castel în Dungu.",
+                  "category": "castle",
+                  "coords": [
+                        28.562964,
+                        3.616998
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chateau de Dungu",
+                  "text": "Chateau de Dungu is a castle located in Dungu.",
+                  "category": "castle",
+                  "coords": [
+                        28.562964,
+                        3.616998
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CD-HU",
     coords: [28.5667, 3.6167],
@@ -895,7 +940,52 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       fr: ["Porte d'entrée du parc national de la Garamba.", "Possède les ruines d'un château historique de l'époque coloniale.", "Base humanitaire importante."],
     }, image: "/poi-images/cd-dungu-cities-v2.webp"},
   {
-    id: "cd-faradje-cities-v2",
+    id: "cd-faradje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mahnmal für die Opfer der Force Publique",
+                  "text": "Das Monument to the victims of the Force Publique ist ein historisches Denkmal in Faradje.",
+                  "category": "historical",
+                  "coords": [
+                        29.708732,
+                        3.732644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument aux morts de la Force Publique",
+                  "text": "A Monument to the victims of the Force Publique egy történelmi emlékmű Faradje városában.",
+                  "category": "historical",
+                  "coords": [
+                        29.708732,
+                        3.732644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument aux morts de la Force Publique",
+                  "text": "Monument to the victims of the Force Publique este un monument istoric din Faradje.",
+                  "category": "historical",
+                  "coords": [
+                        29.708732,
+                        3.732644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument to the victims of the Force Publique",
+                  "text": "The Monument to the victims of the Force Publique is a historical monument in Faradje.",
+                  "category": "historical",
+                  "coords": [
+                        29.708732,
+                        3.732644
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CD-HU",
     coords: [29.7167, 3.7333],

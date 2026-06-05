@@ -138,7 +138,124 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-chongoni-rock-art-history-v2.webp",
   },
   {
-    id: "malawi-livingstonia-mission-history-v2",
+    id: "malawi-livingstonia-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stonehouse Museum",
+                  "text": "Das Stonehouse Museum ist ein lokales Geschichtsmuseum in Livingstonia-Mission.",
+                  "category": "museum",
+                  "coords": [
+                        34.113019,
+                        -10.611667
+                  ]
+            },
+            {
+                  "name": "Chombe Proposed Forest Reserve",
+                  "text": "Das Chombe Proposed Forest Reserve ist ein ausgewiesenes Naturgebiet nahe Livingstonia-Mission.",
+                  "category": "natural",
+                  "coords": [
+                        34.157197,
+                        -10.636298
+                  ]
+            },
+            {
+                  "name": "Cave behind the Kazichi water fall",
+                  "text": "Die Cave behind the Kazichi water fall ist ein einzigartiger Aussichtspunkt in Livingstonia-Mission.",
+                  "category": "natural",
+                  "coords": [
+                        34.119845,
+                        -10.585707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stonehouse Museum",
+                  "text": "A Stonehouse Museum egy helytörténeti múzeum Livingstonia-Mission településen.",
+                  "category": "museum",
+                  "coords": [
+                        34.113019,
+                        -10.611667
+                  ]
+            },
+            {
+                  "name": "Chombe Proposed Forest Reserve",
+                  "text": "A Chombe Proposed Forest Reserve egy kijelölt természetvédelmi terület Livingstonia-Mission közelében.",
+                  "category": "natural",
+                  "coords": [
+                        34.157197,
+                        -10.636298
+                  ]
+            },
+            {
+                  "name": "Cave behind the Kazichi water fall",
+                  "text": "A Cave behind the Kazichi water fall egy egyedülálló kilátópont Livingstonia-Mission településen.",
+                  "category": "natural",
+                  "coords": [
+                        34.119845,
+                        -10.585707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stonehouse Museum",
+                  "text": "Stonehouse Museum este un muzeu de istorie locală din Livingstonia-Mission.",
+                  "category": "museum",
+                  "coords": [
+                        34.113019,
+                        -10.611667
+                  ]
+            },
+            {
+                  "name": "Chombe Proposed Forest Reserve",
+                  "text": "Chombe Proposed Forest Reserve este o arie naturală protejată lângă Livingstonia-Mission.",
+                  "category": "natural",
+                  "coords": [
+                        34.157197,
+                        -10.636298
+                  ]
+            },
+            {
+                  "name": "Cave behind the Kazichi water fall",
+                  "text": "Cave behind the Kazichi water fall este un punct de belvedere pitoresc din Livingstonia-Mission.",
+                  "category": "natural",
+                  "coords": [
+                        34.119845,
+                        -10.585707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stonehouse Museum",
+                  "text": "Stonehouse Museum is a local history museum in Livingstonia-Mission.",
+                  "category": "museum",
+                  "coords": [
+                        34.113019,
+                        -10.611667
+                  ]
+            },
+            {
+                  "name": "Chombe Proposed Forest Reserve",
+                  "text": "Chombe Proposed Forest Reserve is a designated natural area near Livingstonia-Mission.",
+                  "category": "natural",
+                  "coords": [
+                        34.157197,
+                        -10.636298
+                  ]
+            },
+            {
+                  "name": "Cave behind the Kazichi water fall",
+                  "text": "The Cave behind the Kazichi water fall is a unique scenic viewpoint in Livingstonia-Mission.",
+                  "category": "natural",
+                  "coords": [
+                        34.119845,
+                        -10.585707
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "village",
     name: { de: "Livingstonia-Mission", hu: "Livingstonia misszió", ro: "Misiunea Livingstonia", en: "Livingstonia Mission" },
@@ -2118,7 +2235,52 @@ export const malawiHistoryV2: POI[] = [
     image: "/poi-images/malawi-mvera-mission-history-v2.webp",
   },
   {
-    id: "malawi-kongwe-mission-history-v2",
+    id: "malawi-kongwe-mission-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kongwe Forest Reserve",
+                  "text": "Das Kongwe Forest Reserve ist ein Naturschutzgebiet in Kongwe-Mission.",
+                  "category": "natural",
+                  "coords": [
+                        33.927667,
+                        -13.594655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kongwe Forest Reserve",
+                  "text": "A Kongwe Forest Reserve egy természetvédelmi terület Kongwe-Mission területén.",
+                  "category": "natural",
+                  "coords": [
+                        33.927667,
+                        -13.594655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kongwe Forest Reserve",
+                  "text": "Kongwe Forest Reserve este o rezervație naturală situată în Kongwe-Mission.",
+                  "category": "natural",
+                  "coords": [
+                        33.927667,
+                        -13.594655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kongwe Forest Reserve",
+                  "text": "Kongwe Forest Reserve is a nature reserve located in Kongwe-Mission.",
+                  "category": "natural",
+                  "coords": [
+                        33.927667,
+                        -13.594655
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "village",
     name: { de: "Kongwe-Mission", hu: "Kongwe misszió", ro: "Misiunea Kongwe", en: "Kongwe Mission" },

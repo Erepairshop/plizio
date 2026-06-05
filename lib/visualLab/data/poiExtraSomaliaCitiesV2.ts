@@ -88,7 +88,160 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "burao-cities-v2",
+    id: "burao-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ciise 1",
+                  "text": "ciise 1 ist ein Aussichtspunkt in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.574863,
+                        9.520021
+                  ]
+            },
+            {
+                  "name": "ciise m 8",
+                  "text": "ciise m 8 ist ein Aussichtspunkt in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.575305,
+                        9.518635
+                  ]
+            },
+            {
+                  "name": "ciise m 15",
+                  "text": "ciise m 15 ist ein Aussichtspunkt in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576296,
+                        9.518068
+                  ]
+            },
+            {
+                  "name": "ciise m 24",
+                  "text": "ciise m 24 ist ein Aussichtspunkt in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576935,
+                        9.519225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ciise 1",
+                  "text": "A ciise 1 egy kilátó Burao városában.",
+                  "category": "natural",
+                  "coords": [
+                        45.574863,
+                        9.520021
+                  ]
+            },
+            {
+                  "name": "ciise m 8",
+                  "text": "A ciise m 8 egy kilátó Burao városában.",
+                  "category": "natural",
+                  "coords": [
+                        45.575305,
+                        9.518635
+                  ]
+            },
+            {
+                  "name": "ciise m 15",
+                  "text": "A ciise m 15 egy kilátó Burao városában.",
+                  "category": "natural",
+                  "coords": [
+                        45.576296,
+                        9.518068
+                  ]
+            },
+            {
+                  "name": "ciise m 24",
+                  "text": "A ciise m 24 egy kilátó Burao városában.",
+                  "category": "natural",
+                  "coords": [
+                        45.576935,
+                        9.519225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ciise 1",
+                  "text": "ciise 1 este un punct de belvedere situat în Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.574863,
+                        9.520021
+                  ]
+            },
+            {
+                  "name": "ciise m 8",
+                  "text": "ciise m 8 este un punct de belvedere situat în Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.575305,
+                        9.518635
+                  ]
+            },
+            {
+                  "name": "ciise m 15",
+                  "text": "ciise m 15 este un punct de belvedere situat în Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576296,
+                        9.518068
+                  ]
+            },
+            {
+                  "name": "ciise m 24",
+                  "text": "ciise m 24 este un punct de belvedere situat în Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576935,
+                        9.519225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ciise 1",
+                  "text": "ciise 1 is a viewpoint located in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.574863,
+                        9.520021
+                  ]
+            },
+            {
+                  "name": "ciise m 8",
+                  "text": "ciise m 8 is a viewpoint located in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.575305,
+                        9.518635
+                  ]
+            },
+            {
+                  "name": "ciise m 15",
+                  "text": "ciise m 15 is a viewpoint located in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576296,
+                        9.518068
+                  ]
+            },
+            {
+                  "name": "ciise m 24",
+                  "text": "ciise m 24 is a viewpoint located in Burao.",
+                  "category": "natural",
+                  "coords": [
+                        45.576935,
+                        9.519225
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-TO",
     coords: [45.5663, 9.5221],
@@ -217,7 +370,88 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "baidoa-cities-v2",
+    id: "baidoa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Afar Irdoodka",
+                  "text": "Afar Irdoodka ist eine Attraktion in Baidoa.",
+                  "category": "landmark",
+                  "coords": [
+                        43.649747,
+                        3.114614
+                  ]
+            },
+            {
+                  "name": "Buundada",
+                  "text": "Buundada ist eine Attraktion in Baidoa.",
+                  "category": "landmark",
+                  "coords": [
+                        43.646985,
+                        3.116072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Afar Irdoodka",
+                  "text": "Az Afar Irdoodka egy látványosság Baidoa városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.649747,
+                        3.114614
+                  ]
+            },
+            {
+                  "name": "Buundada",
+                  "text": "A Buundada egy látványosság Baidoa városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.646985,
+                        3.116072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Afar Irdoodka",
+                  "text": "Afar Irdoodka este o atracție turistică situată în Baidoa.",
+                  "category": "landmark",
+                  "coords": [
+                        43.649747,
+                        3.114614
+                  ]
+            },
+            {
+                  "name": "Buundada",
+                  "text": "Buundada este o atracție turistică situată în Baidoa.",
+                  "category": "landmark",
+                  "coords": [
+                        43.646985,
+                        3.116072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Afar Irdoodka",
+                  "text": "Afar Irdoodka is an attraction located in Baidoa.",
+                  "category": "landmark",
+                  "coords": [
+                        43.649747,
+                        3.114614
+                  ]
+            },
+            {
+                  "name": "Buundada",
+                  "text": "Buundada is an attraction located in Baidoa.",
+                  "category": "landmark",
+                  "coords": [
+                        43.646985,
+                        3.116072
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-BY",
     coords: [43.6498, 3.1138],
@@ -303,7 +537,196 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kismayo-cities-v2",
+    id: "kismayo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "Kibora Beach bietet einen malerischen Aussichtspunkt in Kismayo.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Olympic ist eine bemerkenswerte Attraktion in Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            },
+            {
+                  "name": "الث",
+                  "text": "الث ist eine Attraktion, die man in Kismayo besuchen kann.",
+                  "category": "landmark",
+                  "coords": [
+                        42.554578,
+                        -0.344785
+                  ]
+            },
+            {
+                  "name": "shibiin",
+                  "text": "shibiin ist ein markanter Aussichtspunkt in Kismayo.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            },
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "BRDM-2 Wreck ist eine einzigartige Attraktion in Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "A Kibora Beach festői kilátást kínál Kismayo területén.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Az Olympic egy figyelemre méltó látványosság Kismayo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            },
+            {
+                  "name": "الث",
+                  "text": "A الث egy meglátogatásra érdemes látványosság Kismayo területén.",
+                  "category": "landmark",
+                  "coords": [
+                        42.554578,
+                        -0.344785
+                  ]
+            },
+            {
+                  "name": "shibiin",
+                  "text": "A shibiin egy kiemelkedő kilátó Kismayo városában.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            },
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "A BRDM-2 Wreck egy egyedülálló látványosság Kismayo területén.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "Kibora Beach oferă un punct de belvedere pitoresc în Kismayo.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Olympic este o atracție notabilă situată în Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            },
+            {
+                  "name": "الث",
+                  "text": "الث este o atracție de vizitat în Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.554578,
+                        -0.344785
+                  ]
+            },
+            {
+                  "name": "shibiin",
+                  "text": "shibiin este un punct de belvedere proeminent situat în Kismayo.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            },
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "BRDM-2 Wreck este o atracție unică situată în Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kibora Beach",
+                  "text": "Kibora Beach offers a scenic viewpoint in Kismayo.",
+                  "category": "natural",
+                  "coords": [
+                        42.564411,
+                        -0.348161
+                  ]
+            },
+            {
+                  "name": "Olympic",
+                  "text": "Olympic is a notable attraction situated in Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.552297,
+                        -0.352198
+                  ]
+            },
+            {
+                  "name": "الث",
+                  "text": "الث is an attraction to visit in Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.554578,
+                        -0.344785
+                  ]
+            },
+            {
+                  "name": "shibiin",
+                  "text": "shibiin is a prominent viewpoint located in Kismayo.",
+                  "category": "natural",
+                  "coords": [
+                        42.542835,
+                        -0.363536
+                  ]
+            },
+            {
+                  "name": "BRDM-2 Wreck",
+                  "text": "BRDM-2 Wreck is a unique attraction situated in Kismayo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.543868,
+                        -0.365666
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-JH",
     coords: [42.5461, -0.3582],
@@ -389,7 +812,52 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "garowe-cities-v2",
+    id: "garowe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barxada",
+                  "text": "Barxada ist ein Aussichtspunkt in Garowe.",
+                  "category": "natural",
+                  "coords": [
+                        48.481954,
+                        8.406272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barxada",
+                  "text": "A Barxada egy kilátóhely Garowéban.",
+                  "category": "natural",
+                  "coords": [
+                        48.481954,
+                        8.406272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barxada",
+                  "text": "Barxada este un punct de belvedere situat în Garowe.",
+                  "category": "natural",
+                  "coords": [
+                        48.481954,
+                        8.406272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barxada",
+                  "text": "Barxada is a scenic viewpoint located in Garowe.",
+                  "category": "natural",
+                  "coords": [
+                        48.481954,
+                        8.406272
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-NU",
     coords: [48.4845, 8.4054],
@@ -733,7 +1201,88 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "garbahaarey-cities-v2",
+    id: "garbahaarey-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "City Monument",
+                  "text": "City Monument ist ein Denkmal in Garbahaarey.",
+                  "category": "historical",
+                  "coords": [
+                        42.21996,
+                        3.329858
+                  ]
+            },
+            {
+                  "name": "Ruins of Gedo Water Agency",
+                  "text": "Ruins of Gedo Water Agency ist eine Ruinenstätte in Garbahaarey.",
+                  "category": "historical",
+                  "coords": [
+                        42.218922,
+                        3.323999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "City Monument",
+                  "text": "A City Monument egy emlékmű Garbahaarey városában.",
+                  "category": "historical",
+                  "coords": [
+                        42.21996,
+                        3.329858
+                  ]
+            },
+            {
+                  "name": "Ruins of Gedo Water Agency",
+                  "text": "A Ruins of Gedo Water Agency egy rom Garbahaarey városában.",
+                  "category": "historical",
+                  "coords": [
+                        42.218922,
+                        3.323999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "City Monument",
+                  "text": "City Monument este un monument situat în Garbahaarey.",
+                  "category": "historical",
+                  "coords": [
+                        42.21996,
+                        3.329858
+                  ]
+            },
+            {
+                  "name": "Ruins of Gedo Water Agency",
+                  "text": "Ruins of Gedo Water Agency este o ruină situată în Garbahaarey.",
+                  "category": "historical",
+                  "coords": [
+                        42.218922,
+                        3.323999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "City Monument",
+                  "text": "City Monument is a monument located in Garbahaarey.",
+                  "category": "historical",
+                  "coords": [
+                        42.21996,
+                        3.329858
+                  ]
+            },
+            {
+                  "name": "Ruins of Gedo Water Agency",
+                  "text": "Ruins of Gedo Water Agency is a ruins site located in Garbahaarey.",
+                  "category": "historical",
+                  "coords": [
+                        42.218922,
+                        3.323999
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-GE",
     coords: [42.2227, 3.3275],
@@ -1206,7 +1755,52 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "eyl-cities-v2",
+    id: "eyl-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Dhowre Ali Sheneeleh",
+                  "text": "Fort Dhowre Ali Sheneeleh ist eine historische Burg in Eyl.",
+                  "category": "castle",
+                  "coords": [
+                        49.818651,
+                        7.97967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Dhowre Ali Sheneeleh",
+                  "text": "A Fort Dhowre Ali Sheneeleh egy történelmi kastély Eyl városában.",
+                  "category": "castle",
+                  "coords": [
+                        49.818651,
+                        7.97967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Dhowre Ali Sheneeleh",
+                  "text": "Fort Dhowre Ali Sheneeleh este un castel istoric situat în Eyl.",
+                  "category": "castle",
+                  "coords": [
+                        49.818651,
+                        7.97967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Dhowre Ali Sheneeleh",
+                  "text": "Fort Dhowre Ali Sheneeleh is a historical castle located in Eyl.",
+                  "category": "castle",
+                  "coords": [
+                        49.818651,
+                        7.97967
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-NU",
     coords: [49.8152, 7.9803],
@@ -1292,7 +1886,124 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "taleh-cities-v2",
+    id: "taleh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Silsilat",
+                  "text": "Silsilat ist eine Burg in Taleex.",
+                  "category": "castle",
+                  "coords": [
+                        48.420347,
+                        9.149897
+                  ]
+            },
+            {
+                  "name": "Dar Ilalo",
+                  "text": "Dar Ilalo ist eine Burg in Taleex.",
+                  "category": "castle",
+                  "coords": [
+                        48.421048,
+                        9.150991
+                  ]
+            },
+            {
+                  "name": "Falat",
+                  "text": "Falat ist eine Burg in der Stadt Taleex.",
+                  "category": "castle",
+                  "coords": [
+                        48.41856,
+                        9.148669
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silsilat",
+                  "text": "Silsilat egy vár Taleex városában.",
+                  "category": "castle",
+                  "coords": [
+                        48.420347,
+                        9.149897
+                  ]
+            },
+            {
+                  "name": "Dar Ilalo",
+                  "text": "Dar Ilalo egy vár Taleex városában.",
+                  "category": "castle",
+                  "coords": [
+                        48.421048,
+                        9.150991
+                  ]
+            },
+            {
+                  "name": "Falat",
+                  "text": "Falat egy vár Taleex városában.",
+                  "category": "castle",
+                  "coords": [
+                        48.41856,
+                        9.148669
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silsilat",
+                  "text": "Silsilat este un castel situat în Taleex.",
+                  "category": "castle",
+                  "coords": [
+                        48.420347,
+                        9.149897
+                  ]
+            },
+            {
+                  "name": "Dar Ilalo",
+                  "text": "Dar Ilalo este un castel situat în Taleex.",
+                  "category": "castle",
+                  "coords": [
+                        48.421048,
+                        9.150991
+                  ]
+            },
+            {
+                  "name": "Falat",
+                  "text": "Falat este un castel situat în orașul Taleex.",
+                  "category": "castle",
+                  "coords": [
+                        48.41856,
+                        9.148669
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silsilat",
+                  "text": "Silsilat is a castle structure located in Taleex.",
+                  "category": "castle",
+                  "coords": [
+                        48.420347,
+                        9.149897
+                  ]
+            },
+            {
+                  "name": "Dar Ilalo",
+                  "text": "Dar Ilalo is a castle situated in Taleex.",
+                  "category": "castle",
+                  "coords": [
+                        48.421048,
+                        9.150991
+                  ]
+            },
+            {
+                  "name": "Falat",
+                  "text": "Falat is a castle located in the city of Taleex.",
+                  "category": "castle",
+                  "coords": [
+                        48.41856,
+                        9.148669
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-SO",
     coords: [48.4206, 9.1517],
@@ -1765,7 +2476,52 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     },
   },
   {
-    id: "alula-cities-v2",
+    id: "alula-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "منارة علولة",
+                  "text": "منارة علولة ist ein Leuchtturm in Caluula.",
+                  "category": "landmark",
+                  "coords": [
+                        50.753874,
+                        11.964553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "منارة علولة",
+                  "text": "A منارة علولة egy világítótorony Caluula városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.753874,
+                        11.964553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "منارة علولة",
+                  "text": "منارة علولة este un far situat în Caluula.",
+                  "category": "landmark",
+                  "coords": [
+                        50.753874,
+                        11.964553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "منارة علولة",
+                  "text": "منارة علولة is a lighthouse located in Caluula.",
+                  "category": "landmark",
+                  "coords": [
+                        50.753874,
+                        11.964553
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SO-BR",
     coords: [50.7583, 11.9666],

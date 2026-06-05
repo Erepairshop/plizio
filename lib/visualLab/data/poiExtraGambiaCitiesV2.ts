@@ -42,7 +42,232 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/banjul-cities-v2.webp"
   },
   {
-    id: "serekunda-cities-v2",
+    id: "serekunda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Das Ebun Jan Theatre ist ein Veranstaltungsort für darstellende Künste in Serekunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Der Tanbi Wetland National Park ist ein Naturschutzgebiet in der Nähe von Serekunda.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto ist ein lokales Denkmal in Serekunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Das Westfield Youth Monument ist ein bemerkenswertes lokales Wahrzeichen in Serekunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Die Alliance Française de Banjul ist ein Kultur- und Kunstzentrum in Serekunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Die Pipeline Mosque ist eine bedeutende Kultstätte in Serekunda.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Az Ebun Jan Theatre egy előadóművészeti helyszín Serekunda városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Serekunda közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "A Tallinding Sitokoto egy helyi emlékmű Serekunda városában.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "A Westfield Youth Monument egy figyelemre méltó helyi nevezetesség Serekunda városában.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Az Alliance Française de Banjul egy kulturális és művészeti központ Serekunda városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "A Pipeline Mosque egy fontos istentiszteleti hely Serekunda városában.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre este un loc pentru artele spectacolului situat în Serekunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park este o rezervație naturală situată lângă Serekunda.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto este un monument local situat în Serekunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Westfield Youth Monument este un punct de reper local notabil în Serekunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul este un centru cultural și de arte situat în Serekunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque este un important lăcaș de cult situat în Serekunda.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre is a performing arts venue situated in Serekunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park is a nature reserve located near Serekunda.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto is a local monument situated in Serekunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "The Westfield Youth Monument is a notable local landmark in Serekunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul is a cultural and arts center located in Serekunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque is a major place of worship situated in Serekunda.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.6781, 13.4383],
@@ -87,7 +312,88 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/serekunda-cities-v2.webp"
   },
   {
-    id: "brikama-cities-v2",
+    id: "brikama-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Furnya Forest Park",
+                  "text": "Furnya Forest Park ist ein Naturschutzgebiet in Brikama.",
+                  "category": "natural",
+                  "coords": [
+                        -16.612374,
+                        13.268361
+                  ]
+            },
+            {
+                  "name": "Nyambai Forest Park",
+                  "text": "Nyambai Forest Park ist ein Naturschutzgebiet in Brikama.",
+                  "category": "natural",
+                  "coords": [
+                        -16.664002,
+                        13.296275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Furnya Forest Park",
+                  "text": "A Furnya Forest Park egy természetvédelmi terület Brikama városában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.612374,
+                        13.268361
+                  ]
+            },
+            {
+                  "name": "Nyambai Forest Park",
+                  "text": "A Nyambai Forest Park egy természetvédelmi terület Brikama városában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.664002,
+                        13.296275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Furnya Forest Park",
+                  "text": "Furnya Forest Park este o rezervație naturală situată în Brikama.",
+                  "category": "natural",
+                  "coords": [
+                        -16.612374,
+                        13.268361
+                  ]
+            },
+            {
+                  "name": "Nyambai Forest Park",
+                  "text": "Nyambai Forest Park este o rezervație naturală situată în Brikama.",
+                  "category": "natural",
+                  "coords": [
+                        -16.664002,
+                        13.296275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Furnya Forest Park",
+                  "text": "Furnya Forest Park is a nature reserve located in Brikama.",
+                  "category": "natural",
+                  "coords": [
+                        -16.612374,
+                        13.268361
+                  ]
+            },
+            {
+                  "name": "Nyambai Forest Park",
+                  "text": "Nyambai Forest Park is a nature reserve located in Brikama.",
+                  "category": "natural",
+                  "coords": [
+                        -16.664002,
+                        13.296275
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.6497, 13.2722],
@@ -132,7 +438,160 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/brikama-cities-v2.webp"
   },
   {
-    id: "bakau-cities-v2",
+    id: "bakau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach ist ein Strand in Bakau.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.704145,
+                        13.465045
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre ist ein Theater in Bakau.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Kachikally Crocodile Pool ist eine bekannte Attraktion und ein Museum in Bakau.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Die Pipeline Mosque ist eine Kultstätte in Bakau.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "A Kotu Beach egy strand Bakau területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.704145,
+                        13.465045
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Az Ebun Jan Theatre egy színház Bakau városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "A Kachikally Crocodile Pool egy ismert látványosság és múzeum Bakau területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "A Pipeline Mosque egy istentiszteleti hely Bakau városában.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach este o plajă în Bakau.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.704145,
+                        13.465045
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre este un teatru din Bakau.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Kachikally Crocodile Pool este o atracție și un muzeu notabil din Bakau.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque este un lăcaș de cult în Bakau.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach is a beach in Bakau.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.704145,
+                        13.465045
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre is a theatre in Bakau.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Kachikally Crocodile Pool is a notable attraction and museum in Bakau.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque is a place of worship in Bakau.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.6819, 13.4781],
@@ -537,7 +996,124 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/sukuta-cities-v2.webp"
   },
   {
-    id: "brufut-cities-v2",
+    id: "brufut-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanji Nature Reserve",
+                  "text": "Tanji Nature Reserve ist ein Naturschutzgebiet in Brufut.",
+                  "category": "natural",
+                  "coords": [
+                        -16.781219,
+                        13.380083
+                  ]
+            },
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "Tanji Bird Reserve ist ein Naturschutzgebiet in Brufut.",
+                  "category": "natural",
+                  "coords": [
+                        -16.782546,
+                        13.372731
+                  ]
+            },
+            {
+                  "name": "Sannehmentereng",
+                  "text": "Sannehmentereng ist eine Attraktion in Brufut.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.766511,
+                        13.387579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanji Nature Reserve",
+                  "text": "A Tanji Nature Reserve egy természetvédelmi terület Brufut területén.",
+                  "category": "natural",
+                  "coords": [
+                        -16.781219,
+                        13.380083
+                  ]
+            },
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "A Tanji Bird Reserve egy természetvédelmi terület Brufut városában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.782546,
+                        13.372731
+                  ]
+            },
+            {
+                  "name": "Sannehmentereng",
+                  "text": "A Sannehmentereng egy látványosság Brufut területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.766511,
+                        13.387579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanji Nature Reserve",
+                  "text": "Tanji Nature Reserve este o rezervație naturală din Brufut.",
+                  "category": "natural",
+                  "coords": [
+                        -16.781219,
+                        13.380083
+                  ]
+            },
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "Tanji Bird Reserve este o rezervație naturală în Brufut.",
+                  "category": "natural",
+                  "coords": [
+                        -16.782546,
+                        13.372731
+                  ]
+            },
+            {
+                  "name": "Sannehmentereng",
+                  "text": "Sannehmentereng este o atracție în Brufut.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.766511,
+                        13.387579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanji Nature Reserve",
+                  "text": "Tanji Nature Reserve is a nature reserve in Brufut.",
+                  "category": "natural",
+                  "coords": [
+                        -16.781219,
+                        13.380083
+                  ]
+            },
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "Tanji Bird Reserve is a nature reserve in Brufut.",
+                  "category": "natural",
+                  "coords": [
+                        -16.782546,
+                        13.372731
+                  ]
+            },
+            {
+                  "name": "Sannehmentereng",
+                  "text": "Sannehmentereng is an attraction in Brufut.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.766511,
+                        13.387579
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.7583, 13.3833],
@@ -626,7 +1202,52 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/tanji-cities-v2.webp"
   },
   {
-    id: "kerewan-cities-v2",
+    id: "kerewan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marike Forest Park",
+                  "text": "Marike Forest Park ist ein Naturschutzgebiet in Kerewan.",
+                  "category": "natural",
+                  "coords": [
+                        -16.07244,
+                        13.47398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marike Forest Park",
+                  "text": "A Marike Forest Park egy természetvédelmi terület Kerewan városában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.07244,
+                        13.47398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marike Forest Park",
+                  "text": "Marike Forest Park este o rezervație naturală situată în Kerewan.",
+                  "category": "natural",
+                  "coords": [
+                        -16.07244,
+                        13.47398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marike Forest Park",
+                  "text": "Marike Forest Park is a nature reserve located in Kerewan.",
+                  "category": "natural",
+                  "coords": [
+                        -16.07244,
+                        13.47398
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-N",
     coords: [-16.0883, 13.4892],
@@ -804,7 +1425,88 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/kaur-cities-v2.webp"
   },
   {
-    id: "kuntaur-cities-v2",
+    id: "kuntaur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wassu Stone Circles",
+                  "text": "Wassu Stone Circles sind eine bedeutende archäologische Stätte in Kuntaur.",
+                  "category": "historical",
+                  "coords": [
+                        -14.873088,
+                        13.691773
+                  ]
+            },
+            {
+                  "name": "Embarquement Chimpanzees & Hippos",
+                  "text": "Embarquement Chimpanzees & Hippos ist eine Attraktion in Kuntaur.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.891025,
+                        13.670731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wassu Stone Circles",
+                  "text": "A Wassu Stone Circles egy jelentős régészeti lelőhely Kuntaur városában.",
+                  "category": "historical",
+                  "coords": [
+                        -14.873088,
+                        13.691773
+                  ]
+            },
+            {
+                  "name": "Embarquement Chimpanzees & Hippos",
+                  "text": "Az Embarquement Chimpanzees & Hippos egy látványosság Kuntaur városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.891025,
+                        13.670731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wassu Stone Circles",
+                  "text": "Wassu Stone Circles reprezintă un important sit arheologic din Kuntaur.",
+                  "category": "historical",
+                  "coords": [
+                        -14.873088,
+                        13.691773
+                  ]
+            },
+            {
+                  "name": "Embarquement Chimpanzees & Hippos",
+                  "text": "Embarquement Chimpanzees & Hippos este o atracție din Kuntaur.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.891025,
+                        13.670731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wassu Stone Circles",
+                  "text": "Wassu Stone Circles is a notable archaeological site in Kuntaur.",
+                  "category": "historical",
+                  "coords": [
+                        -14.873088,
+                        13.691773
+                  ]
+            },
+            {
+                  "name": "Embarquement Chimpanzees & Hippos",
+                  "text": "Embarquement Chimpanzees & Hippos is an attraction in Kuntaur.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.891025,
+                        13.670731
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-M",
     coords: [-14.8833, 13.6667],
@@ -1026,7 +1728,196 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     }
   },
   {
-    id: "bijilo-cities-v2",
+    id: "bijilo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach ist ein Strand in Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach ist ein Strand in Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach ist ein Strand in Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Bijilo Forest Park ist eine bekannte Attraktion in Bijilo.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "Kasumai Beach Resort ist ein Strandresort in Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733864,
+                        13.423401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "A Kololi Beach egy strand Bijilo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "A Kotu Beach egy strand Bijilo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "A Senegambia Beach egy strand Bijilo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "A Bijilo Forest Park egy jelentős látványosság Bijilo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "A Kasumai Beach Resort egy tengerparti üdülőhely Bijilo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733864,
+                        13.423401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach este o plajă situată în Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach este o plajă situată în Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach este o plajă situată în Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Bijilo Forest Park este o atracție notabilă situată în Bijilo.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "Kasumai Beach Resort este o stațiune balneară situată în Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733864,
+                        13.423401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach is a beach located in Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach is a beach located in Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach is a beach located in Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Bijilo Forest Park is a notable attraction located in Bijilo.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Kasumai Beach Resort",
+                  "text": "Kasumai Beach Resort is a beach resort located in Bijilo.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.733864,
+                        13.423401
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.7167, 13.4333],
@@ -1071,7 +1962,160 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/bijilo-cities-v2.webp"
   },
   {
-    id: "kololi-cities-v2",
+    id: "kololi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach ist ein Strand in Kololi.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach ist ein Strandabschnitt in Kololi.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach ist ein Strand in Kololi.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Bijilo Forest Park ist eine bekannte Naturattraktion in Kololi.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "A Kololi Beach egy strand Kololi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "A Kotu Beach egy strand Kololi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "A Senegambia Beach egy strand Kololi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "A Bijilo Forest Park egy ismert természeti látványosság Kololi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach este o plajă din Kololi.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach este o plajă în Kololi.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach este o plajă din Kololi.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Bijilo Forest Park este o atracție naturală notabilă din Kololi.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach is a beach in Kololi.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach is a beach in Kololi.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach is a beach in Kololi.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Bijilo Forest Park is a recognized nature attraction in Kololi.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.7167, 13.45],
@@ -1206,7 +2250,88 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/bundung-cities-v2.webp"
   },
   {
-    id: "tallinding-cities-v2",
+    id: "tallinding-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Der Tanbi Wetland National Park ist ein Naturschutzgebiet in Tallinding.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto ist ein Denkmal in Tallinding.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Tallinding városában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "A Tallinding Sitokoto egy emlékmű Tallinding területén.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park este o rezervație naturală în Tallinding.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto este un monument din Tallinding.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park is a nature reserve in Tallinding.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto is a monument in Tallinding.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.65, 13.4333],
@@ -1296,7 +2421,196 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/fajikunda-cities-v2.webp"
   },
   {
-    id: "dippa-kunda-cities-v2",
+    id: "dippa-kunda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park ist ein Naturschutzgebiet in Dippa Kunda.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto ist ein Denkmal in Dippa Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Westfield Youth Monument ist ein Denkmal in Dippa Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul ist ein Kunstzentrum in Dippa Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque ist eine Kultstätte in Dippa Kunda.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Dippa Kunda városában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "A Tallinding Sitokoto egy emlékmű Dippa Kunda városában.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "A Westfield Youth Monument egy emlékmű Dippa Kunda városában.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Az Alliance Française de Banjul egy művészeti központ Dippa Kunda városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "A Pipeline Mosque egy istentiszteleti hely Dippa Kunda városában.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park este o rezervație naturală situată în Dippa Kunda.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto este un monument situat în Dippa Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Westfield Youth Monument este un monument situat în Dippa Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul este un centru de arte situat în Dippa Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque este un loc de cult situat în Dippa Kunda.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park is a nature reserve located in Dippa Kunda.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Tallinding Sitokoto",
+                  "text": "Tallinding Sitokoto is a monument located in Dippa Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.658461,
+                        13.43143
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Westfield Youth Monument is a monument located in Dippa Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul is an arts centre located in Dippa Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque is a place of worship located in Dippa Kunda.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.6833, 13.4333],
@@ -1430,7 +2744,124 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tujereng-cities-v2",
+    id: "tujereng-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "Tanji Bird Reserve ist ein Naturschutzgebiet in Tujereng.",
+                  "category": "natural",
+                  "coords": [
+                        -16.782546,
+                        13.372731
+                  ]
+            },
+            {
+                  "name": "art village turning",
+                  "text": "art village turning ist eine Attraktion in Tujereng.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.788709,
+                        13.313849
+                  ]
+            },
+            {
+                  "name": "Fish Market and Smokery",
+                  "text": "Fish Market and Smokery ist eine Attraktion in Tujereng.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.798133,
+                        13.357154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "A Tanji Bird Reserve egy természetvédelmi terület Tujereng városában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.782546,
+                        13.372731
+                  ]
+            },
+            {
+                  "name": "art village turning",
+                  "text": "Az art village turning egy látványosság Tujereng városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.788709,
+                        13.313849
+                  ]
+            },
+            {
+                  "name": "Fish Market and Smokery",
+                  "text": "A Fish Market and Smokery egy látványosság Tujereng városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.798133,
+                        13.357154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "Tanji Bird Reserve este o rezervație naturală situată în Tujereng.",
+                  "category": "natural",
+                  "coords": [
+                        -16.782546,
+                        13.372731
+                  ]
+            },
+            {
+                  "name": "art village turning",
+                  "text": "art village turning este o atracție situată în Tujereng.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.788709,
+                        13.313849
+                  ]
+            },
+            {
+                  "name": "Fish Market and Smokery",
+                  "text": "Fish Market and Smokery este o atracție situată în Tujereng.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.798133,
+                        13.357154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanji Bird Reserve",
+                  "text": "Tanji Bird Reserve is a nature reserve located in Tujereng.",
+                  "category": "natural",
+                  "coords": [
+                        -16.782546,
+                        13.372731
+                  ]
+            },
+            {
+                  "name": "art village turning",
+                  "text": "art village turning is an attraction located in Tujereng.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.788709,
+                        13.313849
+                  ]
+            },
+            {
+                  "name": "Fish Market and Smokery",
+                  "text": "Fish Market and Smokery is an attraction located in Tujereng.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.798133,
+                        13.357154
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.8, 13.3333],
@@ -1563,7 +2994,88 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "yundum-cities-v2",
+    id: "yundum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park ist ein Naturschutzgebiet in Yundum.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Elephant Tree",
+                  "text": "Elephant Tree ist eine Attraktion in Yundum.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.622798,
+                        13.38309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Yundum városában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Elephant Tree",
+                  "text": "Az Elephant Tree egy látványosság Yundum városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.622798,
+                        13.38309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park este o rezervație naturală situată în Yundum.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Elephant Tree",
+                  "text": "Elephant Tree este o atracție situată în Yundum.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.622798,
+                        13.38309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park is a nature reserve located in Yundum.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Elephant Tree",
+                  "text": "Elephant Tree is an attraction located in Yundum.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.622798,
+                        13.38309
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.6333, 13.3667],
@@ -1607,7 +3119,160 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kotu-cities-v2",
+    id: "kotu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach ist ein Strand nahe Kotu.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach ist ein Strand in Kotu.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre ist ein Theater in Kotu.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Die Pipeline Mosque ist eine Kultstätte in Kotu.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "A Kololi Beach egy strand Kotu területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "A Kotu Beach egy strand Kotu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Az Ebun Jan Theatre egy színház Kotu területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "A Pipeline Mosque egy istentiszteleti hely Kotu városában.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach este o plajă în Kotu.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach este o plajă din Kotu.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre este un teatru în Kotu.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque este un lăcaș de cult din Kotu.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach is a beach in Kotu.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach is a beach in Kotu.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre is a theatre in Kotu.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque is a place of worship in Kotu.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.7, 13.4667],
@@ -1652,7 +3317,196 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/kotu-cities-v2.webp"
   },
   {
-    id: "manjai-kunda-cities-v2",
+    id: "manjai-kunda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach ist ein beliebter Sandstrand in Manjai Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach ist ein bekannter Küstenstrand in Manjai Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Der Bijilo Forest Park ist eine Sehenswürdigkeit in Manjai Kunda. Es ist ein Waldpark in Gambia.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Das Westfield Youth Monument ist ein Denkmal in Manjai Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul ist ein Kunstzentrum in Manjai Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "A Kololi Beach egy népszerű homokos strand Manjai Kunda városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "A Senegambia Beach egy jól ismert tengerparti strand Manjai Kunda városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "A Bijilo Forest Park egy látványosság Manjai Kunda városában. Ez egy erdei park Gambiában.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "A Westfield Youth Monument egy műemlék Manjai Kunda városában.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Az Alliance Française de Banjul egy művészeti központ Manjai Kunda városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach este o plajă de nisip populară situată în Manjai Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach este o plajă de coastă binecunoscută situată în Manjai Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Bijilo Forest Park este o atracție situată în Manjai Kunda. Este un parc forestier din Gambia.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Westfield Youth Monument este un monument situat în Manjai Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul este un centru de arte situat în Manjai Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kololi Beach",
+                  "text": "Kololi Beach is a popular sandy beach located in Manjai Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.719015,
+                        13.454655
+                  ]
+            },
+            {
+                  "name": "Senegambia Beach",
+                  "text": "Senegambia Beach is a well-known coastal beach situated in Manjai Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.725213,
+                        13.443951
+                  ]
+            },
+            {
+                  "name": "Bijilo Forest Park",
+                  "text": "Bijilo Forest Park is an attraction located in Manjai Kunda. It is a forest park in The Gambia.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.728552,
+                        13.431525
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Westfield Youth Monument is a monument located in Manjai Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul is an arts centre located in Manjai Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.7, 13.4333],
@@ -1697,7 +3551,88 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/manjai-kunda-cities-v2.webp"
   },
   {
-    id: "bakoteh-cities-v2",
+    id: "bakoteh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park ist ein Naturschutzgebiet in Bakoteh.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "MyFarm",
+                  "text": "MyFarm ist eine Attraktion in Bakoteh.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.690703,
+                        13.394743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Bakoteh városában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "MyFarm",
+                  "text": "A MyFarm egy látványosság Bakoteh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.690703,
+                        13.394743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park este o rezervație naturală situată în Bakoteh.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "MyFarm",
+                  "text": "MyFarm este o atracție situată în Bakoteh.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.690703,
+                        13.394743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park is a nature reserve located in Bakoteh.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "MyFarm",
+                  "text": "MyFarm is an attraction located in Bakoteh.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.690703,
+                        13.394743
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.6833, 13.4167],
@@ -1742,7 +3677,124 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/bakoteh-cities-v2.webp"
   },
   {
-    id: "old-jeshwang-cities-v2",
+    id: "old-jeshwang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre ist ein Theater in Old Jeshwang.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Der Tanbi Wetland National Park ist ein Naturschutzgebiet in Old Jeshwang.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Kachikally Crocodile Pool ist eine bekannte Attraktion in Old Jeshwang.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Az Ebun Jan Theatre egy színház Old Jeshwang városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Old Jeshwang területén.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "A Kachikally Crocodile Pool egy híres látványosság Old Jeshwang városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre este un teatru în Old Jeshwang.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park este o rezervație naturală în Old Jeshwang.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Kachikally Crocodile Pool este o atracție notabilă din Old Jeshwang.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre is a theatre in Old Jeshwang.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park is a nature reserve in Old Jeshwang.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Kachikally Crocodile Pool",
+                  "text": "Kachikally Crocodile Pool is a notable attraction in Old Jeshwang.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.672562,
+                        13.476531
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.65, 13.4667],
@@ -1877,7 +3929,232 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/ebo-town-cities-v2.webp"
   },
   {
-    id: "latri-kunda-cities-v2",
+    id: "latri-kunda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach ist ein Strand in Latri Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre ist ein Theater in Latri Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park ist ein Naturschutzgebiet in Latri Kunda.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Westfield Youth Monument ist ein Denkmal in Latri Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul ist ein Kunstzentrum in Latri Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque ist eine Kultstätte in Latri Kunda.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "A Kotu Beach egy strand Latri Kunda városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Az Ebun Jan Theatre egy színház Latri Kunda városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "A Tanbi Wetland National Park egy természetvédelmi terület Latri Kunda városában.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "A Westfield Youth Monument egy emlékmű Latri Kunda városában.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Az Alliance Française de Banjul egy művészeti központ Latri Kunda városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "A Pipeline Mosque egy istentiszteleti hely Latri Kunda városában.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach este o plajă situată în Latri Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre este un teatru situat în Latri Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park este o rezervație naturală situată în Latri Kunda.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Westfield Youth Monument este un monument situat în Latri Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul este un centru de arte situat în Latri Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque este un loc de cult situat în Latri Kunda.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotu Beach",
+                  "text": "Kotu Beach is a beach located in Latri Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.711258,
+                        13.460914
+                  ]
+            },
+            {
+                  "name": "Ebun Jan Theatre",
+                  "text": "Ebun Jan Theatre is a theatre located in Latri Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.674481,
+                        13.462587
+                  ]
+            },
+            {
+                  "name": "Tanbi Wetland National Park",
+                  "text": "Tanbi Wetland National Park is a nature reserve located in Latri Kunda.",
+                  "category": "natural",
+                  "coords": [
+                        -16.622231,
+                        13.424589
+                  ]
+            },
+            {
+                  "name": "Westfield Youth Monument",
+                  "text": "Westfield Youth Monument is a monument located in Latri Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.67507,
+                        13.445396
+                  ]
+            },
+            {
+                  "name": "Alliance Française de Banjul",
+                  "text": "Alliance Française de Banjul is an arts centre located in Latri Kunda.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.678321,
+                        13.448294
+                  ]
+            },
+            {
+                  "name": "Pipeline Mosque",
+                  "text": "Pipeline Mosque is a place of worship located in Latri Kunda.",
+                  "category": "religious",
+                  "coords": [
+                        -16.685138,
+                        13.457628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-W",
     coords: [-16.6833, 13.45],
@@ -1922,7 +4199,160 @@ export const poiExtraGambiaCitiesV2: POI[] = [
     image: "/poi-images/latri-kunda-cities-v2.webp"
   },
   {
-    id: "albreda-cities-v2",
+    id: "albreda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maurel Frères Building",
+                  "text": "Das Maurel Frères Building ist ein bekanntes Museum in Albreda.",
+                  "category": "museum",
+                  "coords": [
+                        -16.382361,
+                        13.336321
+                  ]
+            },
+            {
+                  "name": "San Domingo",
+                  "text": "San Domingo sind historische Ruinen in Albreda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385635,
+                        13.338227
+                  ]
+            },
+            {
+                  "name": "Kunta Kinteh Island",
+                  "text": "Kunta Kinteh Island ist eine bekannte historische Attraktion bei Albreda.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.361424,
+                        13.317487
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "Die Portuguese Chapel besteht aus historischen Ruinen in Albreda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385294,
+                        13.333523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maurel Frères Building",
+                  "text": "A Maurel Frères Building egy ismert múzeum Albreda városában.",
+                  "category": "museum",
+                  "coords": [
+                        -16.382361,
+                        13.336321
+                  ]
+            },
+            {
+                  "name": "San Domingo",
+                  "text": "San Domingo történelmi romok Albreda területén.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385635,
+                        13.338227
+                  ]
+            },
+            {
+                  "name": "Kunta Kinteh Island",
+                  "text": "A Kunta Kinteh Island egy ismert történelmi látványosság Albreda közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.361424,
+                        13.317487
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "A Portuguese Chapel történelmi romokat jelöl Albreda városában.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385294,
+                        13.333523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maurel Frères Building",
+                  "text": "Maurel Frères Building este un muzeu recunoscut din Albreda.",
+                  "category": "museum",
+                  "coords": [
+                        -16.382361,
+                        13.336321
+                  ]
+            },
+            {
+                  "name": "San Domingo",
+                  "text": "San Domingo reprezintă niște ruine istorice din Albreda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385635,
+                        13.338227
+                  ]
+            },
+            {
+                  "name": "Kunta Kinteh Island",
+                  "text": "Kunta Kinteh Island este o atracție istorică recunoscută lângă Albreda.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.361424,
+                        13.317487
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "Portuguese Chapel reprezintă ruinele unei capele din Albreda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385294,
+                        13.333523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maurel Frères Building",
+                  "text": "Maurel Frères Building is a renowned museum in Albreda.",
+                  "category": "museum",
+                  "coords": [
+                        -16.382361,
+                        13.336321
+                  ]
+            },
+            {
+                  "name": "San Domingo",
+                  "text": "San Domingo features historic ruins in Albreda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385635,
+                        13.338227
+                  ]
+            },
+            {
+                  "name": "Kunta Kinteh Island",
+                  "text": "Kunta Kinteh Island is a well-known historical attraction near Albreda.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.361424,
+                        13.317487
+                  ]
+            },
+            {
+                  "name": "Portuguese Chapel",
+                  "text": "Portuguese Chapel features historic ruins in Albreda.",
+                  "category": "historical",
+                  "coords": [
+                        -16.385294,
+                        13.333523
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GM-N",
     coords: [-16.3833, 13.3333],

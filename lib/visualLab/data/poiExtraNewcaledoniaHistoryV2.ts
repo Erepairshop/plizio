@@ -903,7 +903,196 @@ export const newcaledoniaHistoryV2: POI[] = [
     image: "/poi-images/newcaledonia-vaillon-dore-estates-history-v2.webp",
   },
   {
-    id: "newcaledonia-paita-pioneers-history-v2",
+    id: "newcaledonia-paita-pioneers-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Villa musée de Païta",
+                  "text": "Museum in Païta.",
+                  "category": "museum",
+                  "coords": [
+                        166.378156,
+                        -22.140787
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Paita",
+                  "text": "Kunstzentrum in Païta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.366333,
+                        -22.129435
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
+                  "text": "Ruinen in Païta.",
+                  "category": "historical",
+                  "coords": [
+                        166.378037,
+                        -22.110837
+                  ]
+            },
+            {
+                  "name": "Locomotive du Chemin de Fer",
+                  "text": "Attraktion in Païta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.37601,
+                        -22.115446
+                  ]
+            },
+            {
+                  "name": "Église de Paita",
+                  "text": "Gotteshaus in Païta.",
+                  "category": "religious",
+                  "coords": [
+                        166.370867,
+                        -22.129329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Villa musée de Païta",
+                  "text": "Múzeum Païta-ban.",
+                  "category": "museum",
+                  "coords": [
+                        166.378156,
+                        -22.140787
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Paita",
+                  "text": "Művészeti központ Païta-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        166.366333,
+                        -22.129435
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
+                  "text": "Romok Païta-ban.",
+                  "category": "historical",
+                  "coords": [
+                        166.378037,
+                        -22.110837
+                  ]
+            },
+            {
+                  "name": "Locomotive du Chemin de Fer",
+                  "text": "Látnivaló Païta-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.37601,
+                        -22.115446
+                  ]
+            },
+            {
+                  "name": "Église de Paita",
+                  "text": "Templom Païta-ban.",
+                  "category": "religious",
+                  "coords": [
+                        166.370867,
+                        -22.129329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Villa musée de Païta",
+                  "text": "Muzeu în Païta.",
+                  "category": "museum",
+                  "coords": [
+                        166.378156,
+                        -22.140787
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Paita",
+                  "text": "Centru de artă în Païta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.366333,
+                        -22.129435
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
+                  "text": "Ruine în Païta.",
+                  "category": "historical",
+                  "coords": [
+                        166.378037,
+                        -22.110837
+                  ]
+            },
+            {
+                  "name": "Locomotive du Chemin de Fer",
+                  "text": "Atracție în Païta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.37601,
+                        -22.115446
+                  ]
+            },
+            {
+                  "name": "Église de Paita",
+                  "text": "Lăcaș de cult în Païta.",
+                  "category": "religious",
+                  "coords": [
+                        166.370867,
+                        -22.129329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Villa musée de Païta",
+                  "text": "Museum in Païta.",
+                  "category": "museum",
+                  "coords": [
+                        166.378156,
+                        -22.140787
+                  ]
+            },
+            {
+                  "name": "Centre culturel de Paita",
+                  "text": "Arts centre in Païta.",
+                  "category": "cultural",
+                  "coords": [
+                        166.366333,
+                        -22.129435
+                  ]
+            },
+            {
+                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
+                  "text": "Ruins in Païta.",
+                  "category": "historical",
+                  "coords": [
+                        166.378037,
+                        -22.110837
+                  ]
+            },
+            {
+                  "name": "Locomotive du Chemin de Fer",
+                  "text": "Attraction in Païta.",
+                  "category": "landmark",
+                  "coords": [
+                        166.37601,
+                        -22.115446
+                  ]
+            },
+            {
+                  "name": "Église de Paita",
+                  "text": "Place of worship in Païta.",
+                  "category": "religious",
+                  "coords": [
+                        166.370867,
+                        -22.129329
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Pionierviertel von Païta", hu: "Païtai úttörőnegyed", ro: "Cartierul pionierilor din Païta", en: "Païta Pioneer District" },
@@ -993,7 +1182,88 @@ export const newcaledoniaHistoryV2: POI[] = [
     image: "/poi-images/newcaledonia-dumbea-dam-history-v2.webp",
   },
   {
-    id: "newcaledonia-yate-old-village-history-v2",
+    id: "newcaledonia-yate-old-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
+                  "text": "Die Réserve Spéciale Botanique du Barrage de Yaté ist ein Naturschutzgebiet in Altes Dorf von Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.895365,
+                        -22.152152
+                  ]
+            },
+            {
+                  "name": "Vue sur la cascade",
+                  "text": "Vue sur la cascade ist ein Aussichtspunkt in Altes Dorf von Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.902031,
+                        -22.139906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
+                  "text": "A Réserve Spéciale Botanique du Barrage de Yaté egy természetvédelmi terület Altes Dorf von Yaté városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.895365,
+                        -22.152152
+                  ]
+            },
+            {
+                  "name": "Vue sur la cascade",
+                  "text": "A Vue sur la cascade egy kilátó Altes Dorf von Yaté városában.",
+                  "category": "natural",
+                  "coords": [
+                        166.902031,
+                        -22.139906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
+                  "text": "Réserve Spéciale Botanique du Barrage de Yaté este o rezervație naturală în Altes Dorf von Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.895365,
+                        -22.152152
+                  ]
+            },
+            {
+                  "name": "Vue sur la cascade",
+                  "text": "Vue sur la cascade este un punct de belvedere în Altes Dorf von Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.902031,
+                        -22.139906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
+                  "text": "Réserve Spéciale Botanique du Barrage de Yaté is a nature reserve in Altes Dorf von Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.895365,
+                        -22.152152
+                  ]
+            },
+            {
+                  "name": "Vue sur la cascade",
+                  "text": "Vue sur la cascade is a viewpoint located in Altes Dorf von Yaté.",
+                  "category": "natural",
+                  "coords": [
+                        166.902031,
+                        -22.139906
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Altes Dorf von Yaté", hu: "Yaté régi faluja", ro: "Satul vechi din Yaté", en: "Yaté Old Village" },
@@ -1488,7 +1758,268 @@ export const newcaledoniaHistoryV2: POI[] = [
     image: "/poi-images/newcaledonia-route-territoriale-1-history-v2.webp",
   },
   {
-    id: "newcaledonia-koumac-old-village-history-v2",
+    id: "newcaledonia-koumac-old-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Die Plage de Pandop ist ein lokaler Strand in Altes Dorf Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "Die Plage de Kûdo ist ein lokaler Strand in Altes Dorf Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "Die Piscine naturelle ist ein Wasserpark in Altes Dorf Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Plage de la Marina de Pandop ist eine Sehenswürdigkeit in Altes Dorf Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "Point de Vue ist ein Aussichtspunkt in Altes Dorf Koumac.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Eden Blue Caledonia ist eine Sehenswürdigkeit in Altes Dorf Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Die Église Sainte Jeanne d'Arc ist eine Kultstätte in Altes Dorf Koumac.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "A Plage de Pandop egy strand Altes Dorf Koumac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "A Plage de Kûdo egy strand Altes Dorf Koumac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "A Piscine naturelle egy vízi park Altes Dorf Koumac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "A Plage de la Marina de Pandop egy látványosság Altes Dorf Koumac városában.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "A Point de Vue egy kilátó Altes Dorf Koumac városában.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Az Eden Blue Caledonia egy látványosság Altes Dorf Koumac városában.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Az Église Sainte Jeanne d'Arc egy istentiszteleti hely Altes Dorf Koumac városában.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Plage de Pandop este o plajă din Altes Dorf Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "Plage de Kûdo este o plajă din Altes Dorf Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "Piscine naturelle este un parc acvatic în Altes Dorf Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Plage de la Marina de Pandop este o atracție în Altes Dorf Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "Point de Vue este un punct de belvedere în Altes Dorf Koumac.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Eden Blue Caledonia este o atracție în Altes Dorf Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Église Sainte Jeanne d'Arc este un lăcaș de cult în Altes Dorf Koumac.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Pandop",
+                  "text": "Plage de Pandop is a beach located in Altes Dorf Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.284636,
+                        -20.574158
+                  ]
+            },
+            {
+                  "name": "Plage de Kûdo",
+                  "text": "Plage de Kûdo is a beach located in Altes Dorf Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.272314,
+                        -20.56646
+                  ]
+            },
+            {
+                  "name": "Piscine naturelle",
+                  "text": "Piscine naturelle is a water park located in Altes Dorf Koumac.",
+                  "category": "recreational",
+                  "coords": [
+                        164.275747,
+                        -20.573754
+                  ]
+            },
+            {
+                  "name": "Plage de la Marina de Pandop",
+                  "text": "Plage de la Marina de Pandop is an attraction in Altes Dorf Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.275508,
+                        -20.577796
+                  ]
+            },
+            {
+                  "name": "Point de Vue",
+                  "text": "Point de Vue is a viewpoint in Altes Dorf Koumac.",
+                  "category": "natural",
+                  "coords": [
+                        164.286087,
+                        -20.550155
+                  ]
+            },
+            {
+                  "name": "Eden Blue Caledonia",
+                  "text": "Eden Blue Caledonia is an attraction in Altes Dorf Koumac.",
+                  "category": "landmark",
+                  "coords": [
+                        164.273745,
+                        -20.579193
+                  ]
+            },
+            {
+                  "name": "Église Sainte Jeanne d'Arc",
+                  "text": "Église Sainte Jeanne d'Arc is a place of worship in Altes Dorf Koumac.",
+                  "category": "religious",
+                  "coords": [
+                        164.281772,
+                        -20.561131
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Altes Dorf Koumac", hu: "Koumac régi faluja", ro: "Satul vechi Koumac", en: "Koumac Old Village" },
@@ -1623,7 +2154,196 @@ export const newcaledoniaHistoryV2: POI[] = [
     image: "/poi-images/newcaledonia-puebo-cathedral-history-v2.webp",
   },
   {
-    id: "newcaledonia-hienghene-cultural-history-v2",
+    id: "newcaledonia-hienghene-cultural-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel de Hienghène",
+                  "text": "Museum in Hienghène.",
+                  "category": "museum",
+                  "coords": [
+                        164.945409,
+                        -20.692418
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Poule",
+                  "text": "Aussichtspunkt in Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.954901,
+                        -20.684403
+                  ]
+            },
+            {
+                  "name": "Le Sphinx",
+                  "text": "Attraktion in Hienghène.",
+                  "category": "landmark",
+                  "coords": [
+                        164.946344,
+                        -20.673892
+                  ]
+            },
+            {
+                  "name": "Point de vue baie de Hienghène",
+                  "text": "Aussichtspunkt in Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.939104,
+                        -20.670239
+                  ]
+            },
+            {
+                  "name": "Pibit ( Billet de 500)",
+                  "text": "Attraktion in Hienghène.",
+                  "category": "landmark",
+                  "coords": [
+                        164.966782,
+                        -20.679955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel de Hienghène",
+                  "text": "Múzeum Hienghène-ben.",
+                  "category": "museum",
+                  "coords": [
+                        164.945409,
+                        -20.692418
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Poule",
+                  "text": "Kilátóhely Hienghène-ben.",
+                  "category": "natural",
+                  "coords": [
+                        164.954901,
+                        -20.684403
+                  ]
+            },
+            {
+                  "name": "Le Sphinx",
+                  "text": "Látnivaló Hienghène-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        164.946344,
+                        -20.673892
+                  ]
+            },
+            {
+                  "name": "Point de vue baie de Hienghène",
+                  "text": "Kilátóhely Hienghène-ben.",
+                  "category": "natural",
+                  "coords": [
+                        164.939104,
+                        -20.670239
+                  ]
+            },
+            {
+                  "name": "Pibit ( Billet de 500)",
+                  "text": "Látnivaló Hienghène-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        164.966782,
+                        -20.679955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel de Hienghène",
+                  "text": "Muzeu în Hienghène.",
+                  "category": "museum",
+                  "coords": [
+                        164.945409,
+                        -20.692418
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Poule",
+                  "text": "Punct de observație în Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.954901,
+                        -20.684403
+                  ]
+            },
+            {
+                  "name": "Le Sphinx",
+                  "text": "Atracție în Hienghène.",
+                  "category": "landmark",
+                  "coords": [
+                        164.946344,
+                        -20.673892
+                  ]
+            },
+            {
+                  "name": "Point de vue baie de Hienghène",
+                  "text": "Punct de observație în Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.939104,
+                        -20.670239
+                  ]
+            },
+            {
+                  "name": "Pibit ( Billet de 500)",
+                  "text": "Atracție în Hienghène.",
+                  "category": "landmark",
+                  "coords": [
+                        164.966782,
+                        -20.679955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel de Hienghène",
+                  "text": "Museum in Hienghène.",
+                  "category": "museum",
+                  "coords": [
+                        164.945409,
+                        -20.692418
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Poule",
+                  "text": "Viewpoint in Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.954901,
+                        -20.684403
+                  ]
+            },
+            {
+                  "name": "Le Sphinx",
+                  "text": "Attraction in Hienghène.",
+                  "category": "landmark",
+                  "coords": [
+                        164.946344,
+                        -20.673892
+                  ]
+            },
+            {
+                  "name": "Point de vue baie de Hienghène",
+                  "text": "Viewpoint in Hienghène.",
+                  "category": "natural",
+                  "coords": [
+                        164.939104,
+                        -20.670239
+                  ]
+            },
+            {
+                  "name": "Pibit ( Billet de 500)",
+                  "text": "Attraction in Hienghène.",
+                  "category": "landmark",
+                  "coords": [
+                        164.966782,
+                        -20.679955
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Kulturhistorisches Hienghène", hu: "Hienghène kultúrtörténeti helyszín", ro: "Hienghène - istorie culturală", en: "Hienghene Cultural History" },
@@ -2343,7 +3063,88 @@ export const newcaledoniaHistoryV2: POI[] = [
     image: "/poi-images/newcaledonia-sarramea-agriculture-history-v2.webp",
   },
   {
-    id: "newcaledonia-farino-pioneers-history-v2",
+    id: "newcaledonia-farino-pioneers-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc des Grandes Fougères",
+                  "text": "Attraktion in Farino.",
+                  "category": "landmark",
+                  "coords": [
+                        165.762269,
+                        -21.628131
+                  ]
+            },
+            {
+                  "name": "Petite cascade de Farino",
+                  "text": "Aussichtspunkt in Farino.",
+                  "category": "natural",
+                  "coords": [
+                        165.776517,
+                        -21.636012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc des Grandes Fougères",
+                  "text": "Látnivaló Farino-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        165.762269,
+                        -21.628131
+                  ]
+            },
+            {
+                  "name": "Petite cascade de Farino",
+                  "text": "Kilátóhely Farino-ban.",
+                  "category": "natural",
+                  "coords": [
+                        165.776517,
+                        -21.636012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc des Grandes Fougères",
+                  "text": "Atracție în Farino.",
+                  "category": "landmark",
+                  "coords": [
+                        165.762269,
+                        -21.628131
+                  ]
+            },
+            {
+                  "name": "Petite cascade de Farino",
+                  "text": "Punct de observație în Farino.",
+                  "category": "natural",
+                  "coords": [
+                        165.776517,
+                        -21.636012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc des Grandes Fougères",
+                  "text": "Attraction in Farino.",
+                  "category": "landmark",
+                  "coords": [
+                        165.762269,
+                        -21.628131
+                  ]
+            },
+            {
+                  "name": "Petite cascade de Farino",
+                  "text": "Viewpoint in Farino.",
+                  "category": "natural",
+                  "coords": [
+                        165.776517,
+                        -21.636012
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Pionierdorf Farino", hu: "Farino úttörőfalu", ro: "Satul de pionieri Farino", en: "Farino Pioneer Village" },
@@ -2658,7 +3459,88 @@ export const newcaledoniaHistoryV2: POI[] = [
     image: "/poi-images/newcaledonia-thierry-mine-history-v2.webp",
   },
   {
-    id: "newcaledonia-voh-pioneers-history-v2",
+    id: "newcaledonia-voh-pioneers-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ecomusee du cafe de Voh",
+                  "text": "Das Ecomusee du cafe de Voh ist ein Museum in Pioniergeschichte von Voh.",
+                  "category": "museum",
+                  "coords": [
+                        164.684296,
+                        -20.95346
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marguerite-Marie",
+                  "text": "Die Église Sainte-Marguerite-Marie ist eine Kultstätte in Pioniergeschichte von Voh.",
+                  "category": "religious",
+                  "coords": [
+                        164.688065,
+                        -20.947315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ecomusee du cafe de Voh",
+                  "text": "Az Ecomusee du cafe de Voh egy múzeum Pioniergeschichte von Voh városában.",
+                  "category": "museum",
+                  "coords": [
+                        164.684296,
+                        -20.95346
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marguerite-Marie",
+                  "text": "Az Église Sainte-Marguerite-Marie egy vallási épület Pioniergeschichte von Voh városában.",
+                  "category": "religious",
+                  "coords": [
+                        164.688065,
+                        -20.947315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ecomusee du cafe de Voh",
+                  "text": "Ecomusee du cafe de Voh este un muzeu în Pioniergeschichte von Voh.",
+                  "category": "museum",
+                  "coords": [
+                        164.684296,
+                        -20.95346
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marguerite-Marie",
+                  "text": "Église Sainte-Marguerite-Marie este un lăcaș de cult în Pioniergeschichte von Voh.",
+                  "category": "religious",
+                  "coords": [
+                        164.688065,
+                        -20.947315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ecomusee du cafe de Voh",
+                  "text": "Ecomusee du cafe de Voh is a museum located in Pioniergeschichte von Voh.",
+                  "category": "museum",
+                  "coords": [
+                        164.684296,
+                        -20.95346
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Marguerite-Marie",
+                  "text": "Église Sainte-Marguerite-Marie is a place of worship in Pioniergeschichte von Voh.",
+                  "category": "religious",
+                  "coords": [
+                        164.688065,
+                        -20.947315
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "village",
     name: { de: "Pioniergeschichte von Voh", hu: "Voh úttörő történelme", ro: "Istoria pionierilor din Voh", en: "Voh Pioneer History" },

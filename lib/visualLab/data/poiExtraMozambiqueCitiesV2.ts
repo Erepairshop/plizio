@@ -724,7 +724,52 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     },
   },
   {
-    id: "vilankulo-cities-v2",
+    id: "vilankulo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sunset Dhow Safari",
+                  "text": "Ein beliebtes Ausflugsziel in Vilankulo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.319748,
+                        -22.009535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sunset Dhow Safari",
+                  "text": "Népszerű kirándulóhely Vilankulóban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.319748,
+                        -22.009535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sunset Dhow Safari",
+                  "text": "O destinație populară pentru excursii în Vilankulo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.319748,
+                        -22.009535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sunset Dhow Safari",
+                  "text": "A popular excursion destination in Vilankulo.",
+                  "category": "landmark",
+                  "coords": [
+                        35.319748,
+                        -22.009535
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MZ-I",
     coords: [35.3167, -22.0],
@@ -904,7 +949,52 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     },
   },
   {
-    id: "ressano-garcia-cities-v2",
+    id: "ressano-garcia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Incomati Conservancy",
+                  "text": "Incomati Conservancy ist ein Naturschutzgebiet in Ressano Garcia.",
+                  "category": "natural",
+                  "coords": [
+                        32.067548,
+                        -25.308615
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Incomati Conservancy",
+                  "text": "Az Incomati Conservancy egy természetvédelmi terület Ressano Garcia városában.",
+                  "category": "natural",
+                  "coords": [
+                        32.067548,
+                        -25.308615
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Incomati Conservancy",
+                  "text": "Incomati Conservancy este o rezervație naturală în Ressano Garcia.",
+                  "category": "natural",
+                  "coords": [
+                        32.067548,
+                        -25.308615
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Incomati Conservancy",
+                  "text": "Incomati Conservancy is a nature reserve in Ressano Garcia.",
+                  "category": "natural",
+                  "coords": [
+                        32.067548,
+                        -25.308615
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MZ-L",
     coords: [31.9961, -25.4419],
@@ -1552,7 +1642,52 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     },
   },
   {
-    id: "mueda-cities-v2",
+    id: "mueda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "MUSEU DA MASACRE DE MUEDA",
+                  "text": "Das MUSEU DA MASACRE DE MUEDA ist ein Museum in Mueda.",
+                  "category": "museum",
+                  "coords": [
+                        39.546089,
+                        -11.659622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MUSEU DA MASACRE DE MUEDA",
+                  "text": "A MUSEU DA MASACRE DE MUEDA egy múzeum Mueda városában.",
+                  "category": "museum",
+                  "coords": [
+                        39.546089,
+                        -11.659622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MUSEU DA MASACRE DE MUEDA",
+                  "text": "MUSEU DA MASACRE DE MUEDA este un muzeu din Mueda.",
+                  "category": "museum",
+                  "coords": [
+                        39.546089,
+                        -11.659622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MUSEU DA MASACRE DE MUEDA",
+                  "text": "MUSEU DA MASACRE DE MUEDA is a museum located in Mueda.",
+                  "category": "museum",
+                  "coords": [
+                        39.546089,
+                        -11.659622
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MZ-P",
     coords: [39.55, -11.6333],
@@ -1588,7 +1723,88 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     },
   },
   {
-    id: "ibo-cities-v2",
+    id: "ibo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortim de Santo António",
+                  "text": "Die Festung Santo António ist Teil der historischen Befestigungsanlagen auf der Insel Ibo.",
+                  "category": "fortress",
+                  "coords": [
+                        40.589482,
+                        -12.344938
+                  ]
+            },
+            {
+                  "name": "Fortim de São José",
+                  "text": "Die Festung São José gehört zu den historischen Verteidigungsanlagen auf Ibo.",
+                  "category": "fortress",
+                  "coords": [
+                        40.582654,
+                        -12.344731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortim de Santo António",
+                  "text": "A Santo António erőd az Ibo-sziget történelmi erődítményeinek része.",
+                  "category": "fortress",
+                  "coords": [
+                        40.589482,
+                        -12.344938
+                  ]
+            },
+            {
+                  "name": "Fortim de São José",
+                  "text": "A São José erőd az Ibo történelmi védelmi rendszereinek része.",
+                  "category": "fortress",
+                  "coords": [
+                        40.582654,
+                        -12.344731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortim de Santo António",
+                  "text": "Fortăreața Santo António face parte din fortificațiile istorice de pe insula Ibo.",
+                  "category": "fortress",
+                  "coords": [
+                        40.589482,
+                        -12.344938
+                  ]
+            },
+            {
+                  "name": "Fortim de São José",
+                  "text": "Fortăreața São José aparține sistemelor istorice de apărare de pe Ibo.",
+                  "category": "fortress",
+                  "coords": [
+                        40.582654,
+                        -12.344731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortim de Santo António",
+                  "text": "The Santo António fort is part of the historical fortifications on Ibo Island.",
+                  "category": "fortress",
+                  "coords": [
+                        40.589482,
+                        -12.344938
+                  ]
+            },
+            {
+                  "name": "Fortim de São José",
+                  "text": "The São José fort belongs to the historical defense systems on Ibo.",
+                  "category": "fortress",
+                  "coords": [
+                        40.582654,
+                        -12.344731
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MZ-P",
     coords: [40.5833, -12.3333],
@@ -1948,7 +2164,268 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     },
   },
   {
-    id: "chokwe-cities-v2",
+    id: "chokwe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercado central de chokwe",
+                  "text": "Der Zentralmarkt verfügt über eine Wasserzapfstelle in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.998334,
+                        -24.527141
+                  ]
+            },
+            {
+                  "name": "Mercado municipal",
+                  "text": "Der städtische Markt bietet eine Wasserzapfstelle in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.980861,
+                        -24.517404
+                  ]
+            },
+            {
+                  "name": "Igreja",
+                  "text": "Dieser Kirchenstandort umfasst eine Wasserzapfstelle in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.986414,
+                        -24.518344
+                  ]
+            },
+            {
+                  "name": "Igreja catolica em mocambique",
+                  "text": "Dieser katholische Kirchenstandort verfügt über eine Wasserzapfstelle in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.987414,
+                        -24.51885
+                  ]
+            },
+            {
+                  "name": "Igreja assembleia de Deus",
+                  "text": "Die Kirche Assembleia de Deus verfügt über eine Wasserzapfstelle in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.983638,
+                        -24.517101
+                  ]
+            },
+            {
+                  "name": "Igreja Velha Apóstolo",
+                  "text": "Die Igreja Velha Apóstolo ist ein Standort mit einer Wasserzapfstelle in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.978955,
+                        -24.534789
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Assémbleia de Deus Shalom-Chokwe Ministério Tlhavana",
+                  "text": "Diese evangelische Kirche bietet eine Wasserzapfstelle in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.980401,
+                        -24.528121
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercado central de chokwe",
+                  "text": "A központi piacon található egy vízcsap Chókwè városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.998334,
+                        -24.527141
+                  ]
+            },
+            {
+                  "name": "Mercado municipal",
+                  "text": "Az önkormányzati piacon található egy vízvételi pont Chókwèban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.980861,
+                        -24.517404
+                  ]
+            },
+            {
+                  "name": "Igreja",
+                  "text": "Ez a templom egy vízcsappal rendelkezik Chókwè városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.986414,
+                        -24.518344
+                  ]
+            },
+            {
+                  "name": "Igreja catolica em mocambique",
+                  "text": "Ez a katolikus templom egy vízvételi helyet biztosít Chókwèban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.987414,
+                        -24.51885
+                  ]
+            },
+            {
+                  "name": "Igreja assembleia de Deus",
+                  "text": "Az Assembleia de Deus templom egy vízvételi pont Chókwèban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.983638,
+                        -24.517101
+                  ]
+            },
+            {
+                  "name": "Igreja Velha Apóstolo",
+                  "text": "Az Igreja Velha Apóstolo egy vízvételi pont Chókwè városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.978955,
+                        -24.534789
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Assémbleia de Deus Shalom-Chokwe Ministério Tlhavana",
+                  "text": "Ez az evangélikus templom vízvételi lehetőséget biztosít Chókwèban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.980401,
+                        -24.528121
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercado central de chokwe",
+                  "text": "Piața centrală dispune de un robinet de apă în Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.998334,
+                        -24.527141
+                  ]
+            },
+            {
+                  "name": "Mercado municipal",
+                  "text": "Piața municipală este un punct de apă în Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.980861,
+                        -24.517404
+                  ]
+            },
+            {
+                  "name": "Igreja",
+                  "text": "Această locație a bisericii include un robinet de apă în Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.986414,
+                        -24.518344
+                  ]
+            },
+            {
+                  "name": "Igreja catolica em mocambique",
+                  "text": "Acest sit al bisericii catolice are un punct de apă în Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.987414,
+                        -24.51885
+                  ]
+            },
+            {
+                  "name": "Igreja assembleia de Deus",
+                  "text": "Biserica Assembleia de Deus dispune de un robinet de apă în Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.983638,
+                        -24.517101
+                  ]
+            },
+            {
+                  "name": "Igreja Velha Apóstolo",
+                  "text": "Igreja Velha Apóstolo este o locație cu punct de apă în Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.978955,
+                        -24.534789
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Assémbleia de Deus Shalom-Chokwe Ministério Tlhavana",
+                  "text": "Această biserică evanghelică oferă un robinet de apă în Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.980401,
+                        -24.528121
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mercado central de chokwe",
+                  "text": "The central market features a water tap facility in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.998334,
+                        -24.527141
+                  ]
+            },
+            {
+                  "name": "Mercado municipal",
+                  "text": "The municipal market is a water tap location in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.980861,
+                        -24.517404
+                  ]
+            },
+            {
+                  "name": "Igreja",
+                  "text": "This church location includes a water tap in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.986414,
+                        -24.518344
+                  ]
+            },
+            {
+                  "name": "Igreja catolica em mocambique",
+                  "text": "This Catholic church site has a water tap facility in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.987414,
+                        -24.51885
+                  ]
+            },
+            {
+                  "name": "Igreja assembleia de Deus",
+                  "text": "The Assembleia de Deus church features a water tap in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.983638,
+                        -24.517101
+                  ]
+            },
+            {
+                  "name": "Igreja Velha Apóstolo",
+                  "text": "Igreja Velha Apóstolo is a water tap location in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.978955,
+                        -24.534789
+                  ]
+            },
+            {
+                  "name": "Igreja Evangélica Assémbleia de Deus Shalom-Chokwe Ministério Tlhavana",
+                  "text": "This evangelical church provides a water tap facility in Chókwè.",
+                  "category": "landmark",
+                  "coords": [
+                        32.980401,
+                        -24.528121
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MZ-G",
     coords: [32.9833, -24.5333],

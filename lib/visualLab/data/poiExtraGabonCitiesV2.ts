@@ -426,7 +426,52 @@ export const poiExtraGabonCitiesV2: POI[] = [
       fr: ["Ntoum est située à environ 40 kilomètres à l'est de Libreville sur la N1.", "La ville abrite la grande usine de ciment CIMGABON.", "Elle est une source majeure de produits frais pour la capitale.", "Ntoum sert de porte entre la côte de l'Estuaire et l'intérieur du pays.", "La ville accueille l'École Nationale d'Agriculture.", "Elle est devenue une importante banlieue résidentielle pour les navetteurs de Libreville."],
     }, image: "/poi-images/ntoum-cities-v2.webp"},
   {
-    id: "lastoursville-cities-v2",
+    id: "lastoursville-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "L'Ïle Fétiche",
+                  "text": "L'Ïle Fétiche ist ein interessanter Ort und eine Attraktion in Lastoursville.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72783,
+                        -0.805867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "L'Ïle Fétiche",
+                  "text": "A L'Ïle Fétiche egy nevezetesség és látványosság Lastoursville városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72783,
+                        -0.805867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "L'Ïle Fétiche",
+                  "text": "L'Ïle Fétiche este un punct de interes și o atracție situată în Lastoursville.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72783,
+                        -0.805867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "L'Ïle Fétiche",
+                  "text": "L'Ïle Fétiche is a point of interest and attraction located in Lastoursville.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72783,
+                        -0.805867
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GA-7",
     coords: [12.7167, -0.8167],
@@ -499,7 +544,52 @@ export const poiExtraGabonCitiesV2: POI[] = [
     },
   },
   {
-    id: "ndjole-cities-v2",
+    id: "ndjole-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Almamy Samory Touré",
+                  "text": "Almamy Samory Touré ist eine Attraktion in Ndjolé.",
+                  "category": "landmark",
+                  "coords": [
+                        10.771792,
+                        -0.184804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Almamy Samory Touré",
+                  "text": "Az Almamy Samory Touré egy látványosság Ndjolé városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.771792,
+                        -0.184804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Almamy Samory Touré",
+                  "text": "Almamy Samory Touré este o atracție în Ndjolé.",
+                  "category": "landmark",
+                  "coords": [
+                        10.771792,
+                        -0.184804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Almamy Samory Touré",
+                  "text": "Almamy Samory Touré is an attraction in Ndjolé.",
+                  "category": "landmark",
+                  "coords": [
+                        10.771792,
+                        -0.184804
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GA-3",
     coords: [10.7667, -0.1833],
@@ -894,7 +984,52 @@ export const poiExtraGabonCitiesV2: POI[] = [
       fr: ["Pana est située à une altitude d'environ 600 mètres dans le massif du Chaillu.", "La ville est le chef-lieu du département de Lombo-Bouenguidi.", "Il existe dans les environs des gisements d'or souvent exploités de manière artisanale.", "La région reçoit entre 1 600 et 2 000 mm de précipitations par an.", "Pana est reliée à la capitale provinciale Koulamoutou par la route nationale R15.", "La population locale appartient principalement aux groupes linguistiques Nzebi et Awandji."],
     }, image: "/poi-images/pana-cities-v2.webp"},
   {
-    id: "cocobeach-cities-v2",
+    id: "cocobeach-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Football",
+                  "text": "Football ist ein Denkmal in Cocobeach.",
+                  "category": "historical",
+                  "coords": [
+                        9.585047,
+                        1.006632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Football",
+                  "text": "A Football egy emlékmű Cocobeach városában.",
+                  "category": "historical",
+                  "coords": [
+                        9.585047,
+                        1.006632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Football",
+                  "text": "Football este un monument situat în Cocobeach.",
+                  "category": "historical",
+                  "coords": [
+                        9.585047,
+                        1.006632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Football",
+                  "text": "Football is a monument located in Cocobeach.",
+                  "category": "historical",
+                  "coords": [
+                        9.585047,
+                        1.006632
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GA-1",
     coords: [9.5833, 1.0000],

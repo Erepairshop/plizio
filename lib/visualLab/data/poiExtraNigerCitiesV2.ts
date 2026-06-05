@@ -40,7 +40,268 @@ export const poiExtraNigerCitiesV2: POI[] = [
       en: ["Niamey became the capital of Niger in 1926, moving from Zinder.", "The city is located at an altitude of approximately 207 meters.", "Abdou Moumouni University has over 20,000 enrolled students.", "The highest recorded temperature in Niamey reached 48 degrees Celsius.", "Niamey's National Museum contains the 'Tree of Ténéré' remains.", "The Diori Hamani International Airport serves as the main air gateway.", "The city is a major center for the production of traditional pottery.", "Niamey hosts the headquarters of the Niger River Basin Authority."],
     }, image: "/poi-images/niamey-cities-v2.webp"},
   {
-    id: "zinder-cities-v2",
+    id: "zinder-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais de Tambari - le chef des Touareg",
+                  "text": "Palais de Tambari - le chef des Touareg ist ein Schloss in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.985589,
+                        13.808856
+                  ]
+            },
+            {
+                  "name": "Musée Régional de Zinder",
+                  "text": "Das Musée Régional de Zinder ist ein Museum in Zinder.",
+                  "category": "museum",
+                  "coords": [
+                        8.991863,
+                        13.798467
+                  ]
+            },
+            {
+                  "name": "Sultanat de Zinder",
+                  "text": "Sultanat de Zinder ist ein Schloss in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.001951,
+                        13.793725
+                  ]
+            },
+            {
+                  "name": "FADA CARLO",
+                  "text": "FADA CARLO ist ein Schloss in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.964927,
+                        13.804887
+                  ]
+            },
+            {
+                  "name": "gida",
+                  "text": "gida ist ein Schloss in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.00167,
+                        13.800314
+                  ]
+            },
+            {
+                  "name": "CCFN - Centre Culturel Franco-Nigérien",
+                  "text": "Das CCFN - Centre Culturel Franco-Nigérien ist ein Kunstzentrum in Zinder.",
+                  "category": "cultural",
+                  "coords": [
+                        8.990284,
+                        13.804284
+                  ]
+            },
+            {
+                  "name": "Village Artisanal Palami",
+                  "text": "Village Artisanal Palami ist ein Kunstzentrum in Zinder.",
+                  "category": "cultural",
+                  "coords": [
+                        8.97168,
+                        13.800974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais de Tambari - le chef des Touareg",
+                  "text": "A Palais de Tambari - le chef des Touareg egy kastély Zinder városában.",
+                  "category": "castle",
+                  "coords": [
+                        8.985589,
+                        13.808856
+                  ]
+            },
+            {
+                  "name": "Musée Régional de Zinder",
+                  "text": "A Musée Régional de Zinder egy múzeum Zinder városában.",
+                  "category": "museum",
+                  "coords": [
+                        8.991863,
+                        13.798467
+                  ]
+            },
+            {
+                  "name": "Sultanat de Zinder",
+                  "text": "A Sultanat de Zinder egy kastély Zinder városában.",
+                  "category": "castle",
+                  "coords": [
+                        9.001951,
+                        13.793725
+                  ]
+            },
+            {
+                  "name": "FADA CARLO",
+                  "text": "A FADA CARLO egy kastély Zinder városában.",
+                  "category": "castle",
+                  "coords": [
+                        8.964927,
+                        13.804887
+                  ]
+            },
+            {
+                  "name": "gida",
+                  "text": "A gida egy kastély Zinder városában.",
+                  "category": "castle",
+                  "coords": [
+                        9.00167,
+                        13.800314
+                  ]
+            },
+            {
+                  "name": "CCFN - Centre Culturel Franco-Nigérien",
+                  "text": "A CCFN - Centre Culturel Franco-Nigérien egy művészeti központ Zinder városában.",
+                  "category": "cultural",
+                  "coords": [
+                        8.990284,
+                        13.804284
+                  ]
+            },
+            {
+                  "name": "Village Artisanal Palami",
+                  "text": "A Village Artisanal Palami egy művészeti központ Zinder városában.",
+                  "category": "cultural",
+                  "coords": [
+                        8.97168,
+                        13.800974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais de Tambari - le chef des Touareg",
+                  "text": "Palais de Tambari - le chef des Touareg este un castel în Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.985589,
+                        13.808856
+                  ]
+            },
+            {
+                  "name": "Musée Régional de Zinder",
+                  "text": "Musée Régional de Zinder este un muzeu în Zinder.",
+                  "category": "museum",
+                  "coords": [
+                        8.991863,
+                        13.798467
+                  ]
+            },
+            {
+                  "name": "Sultanat de Zinder",
+                  "text": "Sultanat de Zinder este un castel în Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.001951,
+                        13.793725
+                  ]
+            },
+            {
+                  "name": "FADA CARLO",
+                  "text": "FADA CARLO este un castel în Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.964927,
+                        13.804887
+                  ]
+            },
+            {
+                  "name": "gida",
+                  "text": "gida este un castel în Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.00167,
+                        13.800314
+                  ]
+            },
+            {
+                  "name": "CCFN - Centre Culturel Franco-Nigérien",
+                  "text": "CCFN - Centre Culturel Franco-Nigérien este un centru de artă în Zinder.",
+                  "category": "cultural",
+                  "coords": [
+                        8.990284,
+                        13.804284
+                  ]
+            },
+            {
+                  "name": "Village Artisanal Palami",
+                  "text": "Village Artisanal Palami este un centru de artă în Zinder.",
+                  "category": "cultural",
+                  "coords": [
+                        8.97168,
+                        13.800974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais de Tambari - le chef des Touareg",
+                  "text": "Palais de Tambari - le chef des Touareg is a castle in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.985589,
+                        13.808856
+                  ]
+            },
+            {
+                  "name": "Musée Régional de Zinder",
+                  "text": "Musée Régional de Zinder is a museum in Zinder.",
+                  "category": "museum",
+                  "coords": [
+                        8.991863,
+                        13.798467
+                  ]
+            },
+            {
+                  "name": "Sultanat de Zinder",
+                  "text": "Sultanat de Zinder is a castle in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.001951,
+                        13.793725
+                  ]
+            },
+            {
+                  "name": "FADA CARLO",
+                  "text": "FADA CARLO is a castle in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        8.964927,
+                        13.804887
+                  ]
+            },
+            {
+                  "name": "gida",
+                  "text": "gida is a castle in Zinder.",
+                  "category": "castle",
+                  "coords": [
+                        9.00167,
+                        13.800314
+                  ]
+            },
+            {
+                  "name": "CCFN - Centre Culturel Franco-Nigérien",
+                  "text": "CCFN - Centre Culturel Franco-Nigérien is an arts centre in Zinder.",
+                  "category": "cultural",
+                  "coords": [
+                        8.990284,
+                        13.804284
+                  ]
+            },
+            {
+                  "name": "Village Artisanal Palami",
+                  "text": "Village Artisanal Palami is an arts centre in Zinder.",
+                  "category": "cultural",
+                  "coords": [
+                        8.97168,
+                        13.800974
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NE-7",
     coords: [8.9881, 13.8052],
@@ -126,7 +387,160 @@ export const poiExtraNigerCitiesV2: POI[] = [
       fr: ["Moteur économique du Niger.", "Troisième plus grande ville.", "Port de transit important.", "Région agricole majeure.", "Voies commerciales modernes.", "Point de jonction pour le Nigeria."],
     }, image: "/poi-images/maradi-cities-v2.webp"},
   {
-    id: "tahoua-cities-v2",
+    id: "tahoua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Roumbou",
+                  "text": "Monument Roumbou ist ein Denkmal in Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.264466,
+                        14.890246
+                  ]
+            },
+            {
+                  "name": "Avenu Mamadou Tandja",
+                  "text": "Avenu Mamadou Tandja ist ein Denkmal in Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.269708,
+                        14.892012
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance",
+                  "text": "Das Monument de la Renaissance ist ein Denkmal in Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.284658,
+                        14.885194
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal - Tahoua",
+                  "text": "Das Centre Artisanal - Tahoua ist ein Kunstzentrum in Tahoua.",
+                  "category": "cultural",
+                  "coords": [
+                        5.267144,
+                        14.898345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Roumbou",
+                  "text": "A Monument Roumbou egy emlékmű Tahoua városában.",
+                  "category": "historical",
+                  "coords": [
+                        5.264466,
+                        14.890246
+                  ]
+            },
+            {
+                  "name": "Avenu Mamadou Tandja",
+                  "text": "Az Avenu Mamadou Tandja egy emlékmű Tahoua városában.",
+                  "category": "historical",
+                  "coords": [
+                        5.269708,
+                        14.892012
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance",
+                  "text": "A Monument de la Renaissance egy emlékmű Tahoua városában.",
+                  "category": "historical",
+                  "coords": [
+                        5.284658,
+                        14.885194
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal - Tahoua",
+                  "text": "A Centre Artisanal - Tahoua egy művészeti központ Tahoua városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.267144,
+                        14.898345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Roumbou",
+                  "text": "Monument Roumbou este un monument situat în Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.264466,
+                        14.890246
+                  ]
+            },
+            {
+                  "name": "Avenu Mamadou Tandja",
+                  "text": "Avenu Mamadou Tandja este un monument în Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.269708,
+                        14.892012
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance",
+                  "text": "Monument de la Renaissance este un monument în Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.284658,
+                        14.885194
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal - Tahoua",
+                  "text": "Centre Artisanal - Tahoua este un centru de artă în Tahoua.",
+                  "category": "cultural",
+                  "coords": [
+                        5.267144,
+                        14.898345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Roumbou",
+                  "text": "Monument Roumbou is a monument located in Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.264466,
+                        14.890246
+                  ]
+            },
+            {
+                  "name": "Avenu Mamadou Tandja",
+                  "text": "Avenu Mamadou Tandja is a monument located in Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.269708,
+                        14.892012
+                  ]
+            },
+            {
+                  "name": "Monument de la Renaissance",
+                  "text": "Monument de la Renaissance is a monument in Tahoua.",
+                  "category": "historical",
+                  "coords": [
+                        5.284658,
+                        14.885194
+                  ]
+            },
+            {
+                  "name": "Centre Artisanal - Tahoua",
+                  "text": "Centre Artisanal - Tahoua is an arts centre located in Tahoua.",
+                  "category": "cultural",
+                  "coords": [
+                        5.267144,
+                        14.898345
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NE-5",
     coords: [5.2692, 14.8888],
@@ -158,7 +572,124 @@ export const poiExtraNigerCitiesV2: POI[] = [
     },
   },
   {
-    id: "agadez-cities-v2",
+    id: "agadez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sultanat d'Agadez سلطنة أغاديس",
+                  "text": "Sultanat d'Agadez سلطنة أغاديس ist ein Schloss in Agadez.",
+                  "category": "castle",
+                  "coords": [
+                        7.988066,
+                        16.974804
+                  ]
+            },
+            {
+                  "name": "Podium et tribune de la maison de Jeunes MJC.",
+                  "text": "Podium et tribune de la maison de Jeunes MJC. ist ein Theater in Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.988624,
+                        16.982059
+                  ]
+            },
+            {
+                  "name": "Centre d’Artisanal d’Agadez",
+                  "text": "Centre d’Artisanal d’Agadez ist ein Kunstzentrum in Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.983255,
+                        16.970326
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sultanat d'Agadez سلطنة أغاديس",
+                  "text": "A Sultanat d'Agadez سلطنة أغاديس egy kastély Agadez városában.",
+                  "category": "castle",
+                  "coords": [
+                        7.988066,
+                        16.974804
+                  ]
+            },
+            {
+                  "name": "Podium et tribune de la maison de Jeunes MJC.",
+                  "text": "A Podium et tribune de la maison de Jeunes MJC. egy színház Agadez városában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.988624,
+                        16.982059
+                  ]
+            },
+            {
+                  "name": "Centre d’Artisanal d’Agadez",
+                  "text": "A Centre d’Artisanal d’Agadez egy művészeti központ Agadez városában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.983255,
+                        16.970326
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sultanat d'Agadez سلطنة أغاديس",
+                  "text": "Sultanat d'Agadez سلطنة أغاديس este un castel în Agadez.",
+                  "category": "castle",
+                  "coords": [
+                        7.988066,
+                        16.974804
+                  ]
+            },
+            {
+                  "name": "Podium et tribune de la maison de Jeunes MJC.",
+                  "text": "Podium et tribune de la maison de Jeunes MJC. este un teatru în Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.988624,
+                        16.982059
+                  ]
+            },
+            {
+                  "name": "Centre d’Artisanal d’Agadez",
+                  "text": "Centre d’Artisanal d’Agadez este un centru de artă în Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.983255,
+                        16.970326
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sultanat d'Agadez سلطنة أغاديس",
+                  "text": "Sultanat d'Agadez سلطنة أغاديس is a castle in Agadez.",
+                  "category": "castle",
+                  "coords": [
+                        7.988066,
+                        16.974804
+                  ]
+            },
+            {
+                  "name": "Podium et tribune de la maison de Jeunes MJC.",
+                  "text": "Podium et tribune de la maison de Jeunes MJC. is a theatre in Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.988624,
+                        16.982059
+                  ]
+            },
+            {
+                  "name": "Centre d’Artisanal d’Agadez",
+                  "text": "Centre d’Artisanal d’Agadez is an arts centre in Agadez.",
+                  "category": "cultural",
+                  "coords": [
+                        7.983255,
+                        16.970326
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NE-1",
     coords: [7.9697, 16.9692],
@@ -246,7 +777,196 @@ export const poiExtraNigerCitiesV2: POI[] = [
     },
   },
   {
-    id: "dosso-cities-v2",
+    id: "dosso-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Regionale Djermakoye de Dosso",
+                  "text": "Das Musée Regionale Djermakoye de Dosso ist ein Museum in Dosso.",
+                  "category": "museum",
+                  "coords": [
+                        3.199169,
+                        13.042867
+                  ]
+            },
+            {
+                  "name": "Maison de Culture du 18/12/2014",
+                  "text": "Maison de Culture du 18/12/2014 ist ein Theater in Dosso.",
+                  "category": "cultural",
+                  "coords": [
+                        3.197541,
+                        13.044466
+                  ]
+            },
+            {
+                  "name": "Artisanat",
+                  "text": "Artisanat ist ein Museum in Dosso.",
+                  "category": "museum",
+                  "coords": [
+                        3.199451,
+                        13.041407
+                  ]
+            },
+            {
+                  "name": "Dosso vous Souhaite la bienvenue",
+                  "text": "Dosso vous Souhaite la bienvenue ist ein Denkmal in Dosso.",
+                  "category": "historical",
+                  "coords": [
+                        3.214179,
+                        13.039967
+                  ]
+            },
+            {
+                  "name": "Place de Djermakoye",
+                  "text": "Die Place de Djermakoye ist ein Denkmal in Dosso.",
+                  "category": "historical",
+                  "coords": [
+                        3.200303,
+                        13.042447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Regionale Djermakoye de Dosso",
+                  "text": "A Musée Regionale Djermakoye de Dosso egy múzeum Dosso városában.",
+                  "category": "museum",
+                  "coords": [
+                        3.199169,
+                        13.042867
+                  ]
+            },
+            {
+                  "name": "Maison de Culture du 18/12/2014",
+                  "text": "A Maison de Culture du 18/12/2014 egy színház Dosso városában.",
+                  "category": "cultural",
+                  "coords": [
+                        3.197541,
+                        13.044466
+                  ]
+            },
+            {
+                  "name": "Artisanat",
+                  "text": "Az Artisanat egy múzeum Dosso városában.",
+                  "category": "museum",
+                  "coords": [
+                        3.199451,
+                        13.041407
+                  ]
+            },
+            {
+                  "name": "Dosso vous Souhaite la bienvenue",
+                  "text": "A Dosso vous Souhaite la bienvenue egy emlékmű Dosso városában.",
+                  "category": "historical",
+                  "coords": [
+                        3.214179,
+                        13.039967
+                  ]
+            },
+            {
+                  "name": "Place de Djermakoye",
+                  "text": "A Place de Djermakoye egy emlékmű Dosso városában.",
+                  "category": "historical",
+                  "coords": [
+                        3.200303,
+                        13.042447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Regionale Djermakoye de Dosso",
+                  "text": "Musée Regionale Djermakoye de Dosso este un muzeu în Dosso.",
+                  "category": "museum",
+                  "coords": [
+                        3.199169,
+                        13.042867
+                  ]
+            },
+            {
+                  "name": "Maison de Culture du 18/12/2014",
+                  "text": "Maison de Culture du 18/12/2014 este un teatru situat în Dosso.",
+                  "category": "cultural",
+                  "coords": [
+                        3.197541,
+                        13.044466
+                  ]
+            },
+            {
+                  "name": "Artisanat",
+                  "text": "Artisanat este un muzeu în Dosso.",
+                  "category": "museum",
+                  "coords": [
+                        3.199451,
+                        13.041407
+                  ]
+            },
+            {
+                  "name": "Dosso vous Souhaite la bienvenue",
+                  "text": "Dosso vous Souhaite la bienvenue este un monument situat în Dosso.",
+                  "category": "historical",
+                  "coords": [
+                        3.214179,
+                        13.039967
+                  ]
+            },
+            {
+                  "name": "Place de Djermakoye",
+                  "text": "Place de Djermakoye este un monument situat în Dosso.",
+                  "category": "historical",
+                  "coords": [
+                        3.200303,
+                        13.042447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Regionale Djermakoye de Dosso",
+                  "text": "Musée Regionale Djermakoye de Dosso is a museum located in Dosso.",
+                  "category": "museum",
+                  "coords": [
+                        3.199169,
+                        13.042867
+                  ]
+            },
+            {
+                  "name": "Maison de Culture du 18/12/2014",
+                  "text": "Maison de Culture du 18/12/2014 is a theatre located in Dosso.",
+                  "category": "cultural",
+                  "coords": [
+                        3.197541,
+                        13.044466
+                  ]
+            },
+            {
+                  "name": "Artisanat",
+                  "text": "Artisanat is a museum located in Dosso.",
+                  "category": "museum",
+                  "coords": [
+                        3.199451,
+                        13.041407
+                  ]
+            },
+            {
+                  "name": "Dosso vous Souhaite la bienvenue",
+                  "text": "Dosso vous Souhaite la bienvenue is a monument located in Dosso.",
+                  "category": "historical",
+                  "coords": [
+                        3.214179,
+                        13.039967
+                  ]
+            },
+            {
+                  "name": "Place de Djermakoye",
+                  "text": "Place de Djermakoye is a monument located in Dosso.",
+                  "category": "historical",
+                  "coords": [
+                        3.200303,
+                        13.042447
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NE-3",
     coords: [3.1937, 13.0490],
@@ -290,7 +1010,196 @@ export const poiExtraNigerCitiesV2: POI[] = [
     },
   },
   {
-    id: "diffa-cities-v2",
+    id: "diffa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kazelmarie ",
+                  "text": "Kazelmarie ist ein Schloss in Diffa.",
+                  "category": "castle",
+                  "coords": [
+                        12.61828,
+                        13.31905
+                  ]
+            },
+            {
+                  "name": "Tribune officielle",
+                  "text": "Tribune officielle ist ein Monument in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.613831,
+                        13.318235
+                  ]
+            },
+            {
+                  "name": "Tribune hippodrome",
+                  "text": "Tribune hippodrome ist ein Monument in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.589727,
+                        13.320152
+                  ]
+            },
+            {
+                  "name": "Chateau d'eau",
+                  "text": "Chateau d'eau ist ein Monument in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.604885,
+                        13.324043
+                  ]
+            },
+            {
+                  "name": "Porte Diffa Yerima",
+                  "text": "Porte Diffa Yerima ist ein Monument in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.584873,
+                        13.314136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kazelmarie ",
+                  "text": "A Kazelmarie egy kastély Diffa városában.",
+                  "category": "castle",
+                  "coords": [
+                        12.61828,
+                        13.31905
+                  ]
+            },
+            {
+                  "name": "Tribune officielle",
+                  "text": "A Tribune officielle egy műemlék Diffa városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.613831,
+                        13.318235
+                  ]
+            },
+            {
+                  "name": "Tribune hippodrome",
+                  "text": "A Tribune hippodrome egy műemlék Diffa városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.589727,
+                        13.320152
+                  ]
+            },
+            {
+                  "name": "Chateau d'eau",
+                  "text": "A Chateau d'eau egy műemlék Diffa városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.604885,
+                        13.324043
+                  ]
+            },
+            {
+                  "name": "Porte Diffa Yerima",
+                  "text": "A Porte Diffa Yerima egy műemlék Diffa városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.584873,
+                        13.314136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kazelmarie ",
+                  "text": "Kazelmarie este un castel în Diffa.",
+                  "category": "castle",
+                  "coords": [
+                        12.61828,
+                        13.31905
+                  ]
+            },
+            {
+                  "name": "Tribune officielle",
+                  "text": "Tribune officielle este un monument în Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.613831,
+                        13.318235
+                  ]
+            },
+            {
+                  "name": "Tribune hippodrome",
+                  "text": "Tribune hippodrome este un monument în Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.589727,
+                        13.320152
+                  ]
+            },
+            {
+                  "name": "Chateau d'eau",
+                  "text": "Chateau d'eau este un monument în Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.604885,
+                        13.324043
+                  ]
+            },
+            {
+                  "name": "Porte Diffa Yerima",
+                  "text": "Porte Diffa Yerima este un monument în Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.584873,
+                        13.314136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kazelmarie ",
+                  "text": "Kazelmarie is a castle in Diffa.",
+                  "category": "castle",
+                  "coords": [
+                        12.61828,
+                        13.31905
+                  ]
+            },
+            {
+                  "name": "Tribune officielle",
+                  "text": "Tribune officielle is a monument in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.613831,
+                        13.318235
+                  ]
+            },
+            {
+                  "name": "Tribune hippodrome",
+                  "text": "Tribune hippodrome is a monument in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.589727,
+                        13.320152
+                  ]
+            },
+            {
+                  "name": "Chateau d'eau",
+                  "text": "Chateau d'eau is a monument in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.604885,
+                        13.324043
+                  ]
+            },
+            {
+                  "name": "Porte Diffa Yerima",
+                  "text": "Porte Diffa Yerima is a monument in Diffa.",
+                  "category": "historical",
+                  "coords": [
+                        12.584873,
+                        13.314136
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NE-2",
     coords: [12.6113, 13.3153],
@@ -774,7 +1683,52 @@ export const poiExtraNigerCitiesV2: POI[] = [
     },
   },
   {
-    id: "magaria-cities-v2",
+    id: "magaria-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Residência do Sultão",
+                  "text": "Die Residência do Sultão ist eine Attraktion in Magaria.",
+                  "category": "landmark",
+                  "coords": [
+                        8.90753,
+                        13.001207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Residência do Sultão",
+                  "text": "A Residência do Sultão egy látványosság Magaria városában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.90753,
+                        13.001207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Residência do Sultão",
+                  "text": "Residência do Sultão este o atracție în Magaria.",
+                  "category": "landmark",
+                  "coords": [
+                        8.90753,
+                        13.001207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Residência do Sultão",
+                  "text": "Residência do Sultão is an attraction located in Magaria.",
+                  "category": "landmark",
+                  "coords": [
+                        8.90753,
+                        13.001207
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NE-7",
     coords: [8.9099, 12.9983],
@@ -862,7 +1816,52 @@ export const poiExtraNigerCitiesV2: POI[] = [
     },
   },
   {
-    id: "nguigmi-cities-v2",
+    id: "nguigmi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tribune",
+                  "text": "Denkmal in N'Guigmi.",
+                  "category": "historical",
+                  "coords": [
+                        13.113202,
+                        14.25705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tribune",
+                  "text": "Emlékmű N'Guigmi-ben.",
+                  "category": "historical",
+                  "coords": [
+                        13.113202,
+                        14.25705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tribune",
+                  "text": "Monument în N'Guigmi.",
+                  "category": "historical",
+                  "coords": [
+                        13.113202,
+                        14.25705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tribune",
+                  "text": "Monument in N'Guigmi.",
+                  "category": "historical",
+                  "coords": [
+                        13.113202,
+                        14.25705
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NE-2",
     coords: [13.1108, 14.2495],
@@ -1478,7 +2477,88 @@ export const poiExtraNigerCitiesV2: POI[] = [
     },
   },
   {
-    id: "guidan-roumdji-cities-v2",
+    id: "guidan-roumdji-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "MJC Guidan Roumdji",
+                  "text": "Das MJC Guidan Roumdji ist ein Museum in Guidan Roumdji.",
+                  "category": "museum",
+                  "coords": [
+                        6.702572,
+                        13.658518
+                  ]
+            },
+            {
+                  "name": "Palais du Chef de Canton de Guidan Roumdji",
+                  "text": "Palais du Chef de Canton de Guidan Roumdji ist ein Schloss in Guidan Roumdji.",
+                  "category": "castle",
+                  "coords": [
+                        6.699909,
+                        13.659671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MJC Guidan Roumdji",
+                  "text": "Az MJC Guidan Roumdji egy múzeum Guidan Roumdji városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.702572,
+                        13.658518
+                  ]
+            },
+            {
+                  "name": "Palais du Chef de Canton de Guidan Roumdji",
+                  "text": "A Palais du Chef de Canton de Guidan Roumdji egy kastély Guidan Roumdji városában.",
+                  "category": "castle",
+                  "coords": [
+                        6.699909,
+                        13.659671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MJC Guidan Roumdji",
+                  "text": "MJC Guidan Roumdji este un muzeu în Guidan Roumdji.",
+                  "category": "museum",
+                  "coords": [
+                        6.702572,
+                        13.658518
+                  ]
+            },
+            {
+                  "name": "Palais du Chef de Canton de Guidan Roumdji",
+                  "text": "Palais du Chef de Canton de Guidan Roumdji este un castel în Guidan Roumdji.",
+                  "category": "castle",
+                  "coords": [
+                        6.699909,
+                        13.659671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MJC Guidan Roumdji",
+                  "text": "MJC Guidan Roumdji is a museum in Guidan Roumdji.",
+                  "category": "museum",
+                  "coords": [
+                        6.702572,
+                        13.658518
+                  ]
+            },
+            {
+                  "name": "Palais du Chef de Canton de Guidan Roumdji",
+                  "text": "Palais du Chef de Canton de Guidan Roumdji is a castle in Guidan Roumdji.",
+                  "category": "castle",
+                  "coords": [
+                        6.699909,
+                        13.659671
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NE-4",
     coords: [6.6974, 13.6558],
@@ -1566,7 +2646,88 @@ export const poiExtraNigerCitiesV2: POI[] = [
     },
   },
   {
-    id: "tchin-tabaraden-cities-v2",
+    id: "tchin-tabaraden-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "MJC de Tchinta",
+                  "text": "MJC de Tchinta ist ein Kunstzentrum in Tchin-Tabaraden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.803633,
+                        15.897477
+                  ]
+            },
+            {
+                  "name": "Sabre de la paix de Tchintabaraden",
+                  "text": "Sabre de la paix de Tchintabaraden ist ein Denkmal in Tchin-Tabaraden.",
+                  "category": "historical",
+                  "coords": [
+                        5.805829,
+                        15.897556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MJC de Tchinta",
+                  "text": "Az MJC de Tchinta egy művészeti központ Tchin-Tabaraden városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.803633,
+                        15.897477
+                  ]
+            },
+            {
+                  "name": "Sabre de la paix de Tchintabaraden",
+                  "text": "A Sabre de la paix de Tchintabaraden egy emlékmű Tchin-Tabaraden városában.",
+                  "category": "historical",
+                  "coords": [
+                        5.805829,
+                        15.897556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MJC de Tchinta",
+                  "text": "MJC de Tchinta este un centru de artă în Tchin-Tabaraden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.803633,
+                        15.897477
+                  ]
+            },
+            {
+                  "name": "Sabre de la paix de Tchintabaraden",
+                  "text": "Sabre de la paix de Tchintabaraden este un monument în Tchin-Tabaraden.",
+                  "category": "historical",
+                  "coords": [
+                        5.805829,
+                        15.897556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MJC de Tchinta",
+                  "text": "MJC de Tchinta is an arts centre located in Tchin-Tabaraden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.803633,
+                        15.897477
+                  ]
+            },
+            {
+                  "name": "Sabre de la paix de Tchintabaraden",
+                  "text": "Sabre de la paix de Tchintabaraden is a monument located in Tchin-Tabaraden.",
+                  "category": "historical",
+                  "coords": [
+                        5.805829,
+                        15.897556
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NE-5",
     coords: [5.7985, 15.8969],

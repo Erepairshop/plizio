@@ -48,7 +48,520 @@ export const palauEconomicV2: POI[] = [
     image: "/poi-images/palau-malakal-port-economic-v2.webp",
   },
   {
-    id: "palau-koror-business-district-economic-v2",
+    id: "palau-koror-business-district-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Belau National Museum",
+                  "text": "Nationalmuseum in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.476344,
+                        7.336578
+                  ]
+            },
+            {
+                  "name": "Etpison Museum",
+                  "text": "Museum in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.483163,
+                        7.345284
+                  ]
+            },
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Aquarium in Koror.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Ngerunguikl",
+                  "text": "Berggipfel in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.498354,
+                        7.33885
+                  ]
+            },
+            {
+                  "name": "Tibedul",
+                  "text": "Berggipfel in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Tuker",
+                  "text": "Berggipfel in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.490894,
+                        7.344742
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Park in Koror.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Galerie in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Ruinen in Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "Die Mutter-Kind-Skulptur in Koror ist ein interessantes lokales Denkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "Überreste einer alten Verteidigungsanlage in Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "Das Ngarachamayong Kulturzentrum ist ein bedeutender Ort für kulturelle Veranstaltungen in Koror.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            },
+            {
+                  "name": "Nan'yō Shinto Shrine",
+                  "text": "Ein historischer japanischer Schrein in Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.496873,
+                        7.339665
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Eine christliche Kirche in Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.484952,
+                        7.345218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Belau National Museum",
+                  "text": "Nemzeti múzeum Kororban.",
+                  "category": "museum",
+                  "coords": [
+                        134.476344,
+                        7.336578
+                  ]
+            },
+            {
+                  "name": "Etpison Museum",
+                  "text": "Múzeum Kororban.",
+                  "category": "museum",
+                  "coords": [
+                        134.483163,
+                        7.345284
+                  ]
+            },
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Akvárium Kororban.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Ngerunguikl",
+                  "text": "Hegycsúcs Kororban.",
+                  "category": "natural",
+                  "coords": [
+                        134.498354,
+                        7.33885
+                  ]
+            },
+            {
+                  "name": "Tibedul",
+                  "text": "Hegycsúcs Kororban.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Tuker",
+                  "text": "Hegycsúcs Kororban.",
+                  "category": "natural",
+                  "coords": [
+                        134.490894,
+                        7.344742
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Park Kororban.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Galéria Kororban.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Romok Kororban.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "A korori Anya és Gyermek szobor egy látványos helyi emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "Egy régi védelmi állás maradványai Kororban.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "A Ngarachamayong Kulturális Központ Koror fontos kulturális rendezvényhelyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            },
+            {
+                  "name": "Nan'yō Shinto Shrine",
+                  "text": "Egy történelmi japán szentély Kororban.",
+                  "category": "religious",
+                  "coords": [
+                        134.496873,
+                        7.339665
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Egy keresztény templom Kororban.",
+                  "category": "religious",
+                  "coords": [
+                        134.484952,
+                        7.345218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Belau National Museum",
+                  "text": "Muzeu național în Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.476344,
+                        7.336578
+                  ]
+            },
+            {
+                  "name": "Etpison Museum",
+                  "text": "Muzeu în Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.483163,
+                        7.345284
+                  ]
+            },
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Acvariu în Koror.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Ngerunguikl",
+                  "text": "Vârf montan în Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.498354,
+                        7.33885
+                  ]
+            },
+            {
+                  "name": "Tibedul",
+                  "text": "Vârf montan în Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Tuker",
+                  "text": "Vârf montan în Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.490894,
+                        7.344742
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Parc în Koror.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Galerie în Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Ruine în Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "Statuia Mamă și Copil din Koror este un monument local interesant.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "Rămășițele unei vechi structuri defensive în Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "Centrul Cultural Ngarachamayong este un loc important pentru evenimente culturale în Koror.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            },
+            {
+                  "name": "Nan'yō Shinto Shrine",
+                  "text": "Un altar istoric japonez în Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.496873,
+                        7.339665
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "O biserică creștină în Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.484952,
+                        7.345218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Belau National Museum",
+                  "text": "National museum in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.476344,
+                        7.336578
+                  ]
+            },
+            {
+                  "name": "Etpison Museum",
+                  "text": "Museum in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.483163,
+                        7.345284
+                  ]
+            },
+            {
+                  "name": "Palau International Coral Reef Centre",
+                  "text": "Aquarium in Koror.",
+                  "category": "recreational",
+                  "coords": [
+                        134.466229,
+                        7.33864
+                  ]
+            },
+            {
+                  "name": "Ngerunguikl",
+                  "text": "Mountain peak in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.498354,
+                        7.33885
+                  ]
+            },
+            {
+                  "name": "Tibedul",
+                  "text": "Mountain peak in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.49762,
+                        7.344208
+                  ]
+            },
+            {
+                  "name": "Tuker",
+                  "text": "Mountain peak in Koror.",
+                  "category": "natural",
+                  "coords": [
+                        134.490894,
+                        7.344742
+                  ]
+            },
+            {
+                  "name": "Asahi Baseball Field",
+                  "text": "Park in Koror.",
+                  "category": "park",
+                  "coords": [
+                        134.47446,
+                        7.34079
+                  ]
+            },
+            {
+                  "name": "Belau Art Gallery",
+                  "text": "Gallery in Koror.",
+                  "category": "museum",
+                  "coords": [
+                        134.475056,
+                        7.342782
+                  ]
+            },
+            {
+                  "name": "Swimming pool ruins",
+                  "text": "Ruins in Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.47991,
+                        7.352268
+                  ]
+            },
+            {
+                  "name": "Mother and Child Stone",
+                  "text": "The Mother and Child Stone in Koror is an interesting local monument.",
+                  "category": "landmark",
+                  "coords": [
+                        134.503484,
+                        7.338138
+                  ]
+            },
+            {
+                  "name": "PillBox",
+                  "text": "Remains of an old defensive structure in Koror.",
+                  "category": "historical",
+                  "coords": [
+                        134.464431,
+                        7.335343
+                  ]
+            },
+            {
+                  "name": "Ngarachamayong Cultural Center",
+                  "text": "The Ngarachamayong Cultural Center is a significant venue for cultural events in Koror.",
+                  "category": "cultural",
+                  "coords": [
+                        134.468148,
+                        7.343346
+                  ]
+            },
+            {
+                  "name": "Nan'yō Shinto Shrine",
+                  "text": "A historic Japanese shrine located in Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.496873,
+                        7.339665
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "A Christian church located in Koror.",
+                  "category": "religious",
+                  "coords": [
+                        134.484952,
+                        7.345218
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "town",
     name: { de: "Geschäftsviertel Koror", hu: "Korori üzleti negyed", ro: "Districtul comercial Koror", en: "Koror Business District" },
@@ -363,7 +876,124 @@ export const palauEconomicV2: POI[] = [
     image: "/poi-images/palau-angaur-harbor-economic-v2.webp",
   },
   {
-    id: "palau-ngerulmud-administrative-economic-v2",
+    id: "palau-ngerulmud-administrative-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tochobei",
+                  "text": "Tochobei ist ein Berggipfel in Regierungsviertel Ngerulmud.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "Meteu 'L Klechem ist ein historisches Steinmonolith-Denkmal in Regierungsviertel Ngerulmud.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "Melekeok Bai ist eine Sehenswürdigkeit in Regierungsviertel Ngerulmud.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tochobei",
+                  "text": "A Tochobei egy hegycsúcs a Regierungsviertel Ngerulmudban.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "A Meteu 'L Klechem egy történelmi kőmonolit emlékmű a Regierungsviertel Ngerulmudban.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "A Melekeok Bai egy látványosság a Regierungsviertel Ngerulmudban.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tochobei",
+                  "text": "Tochobei este un vârf de munte situat în Regierungsviertel Ngerulmud.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "Meteu 'L Klechem este un monument monolitic istoric din piatră situat în Regierungsviertel Ngerulmud.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "Melekeok Bai este o atracție situată în Regierungsviertel Ngerulmud.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tochobei",
+                  "text": "Tochobei is a mountain peak located in Regierungsviertel Ngerulmud.",
+                  "category": "natural",
+                  "coords": [
+                        134.628634,
+                        7.494979
+                  ]
+            },
+            {
+                  "name": "Meteu 'L Klechem",
+                  "text": "Meteu 'L Klechem is a historic stone monolith monument located in Regierungsviertel Ngerulmud.",
+                  "category": "historical",
+                  "coords": [
+                        134.636194,
+                        7.49243
+                  ]
+            },
+            {
+                  "name": "Melekeok Bai",
+                  "text": "Melekeok Bai is an attraction located in Regierungsviertel Ngerulmud.",
+                  "category": "landmark",
+                  "coords": [
+                        134.633317,
+                        7.494282
+                  ]
+            }
+      ]
+},
     parent: "PW",
     type: "capital",
     name: { de: "Regierungsviertel Ngerulmud", hu: "Ngerulmud kormányzati negyed", ro: "Centrul administrativ Ngerulmud", en: "Ngerulmud Administrative Center" },

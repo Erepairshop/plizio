@@ -408,7 +408,448 @@ export const nauruEconomicV2: POI[] = [
     image: "/poi-images/nauru-nfmra-economic-v2.webp",
   },
   {
-    id: "nauru-denig-settlement-economic-v2",
+    id: "nauru-denig-settlement-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naoero Museum",
+                  "text": "Museum in Denigomodu zur Kultur und Geschichte Naurus.",
+                  "category": "museum",
+                  "coords": [
+                        166.914786,
+                        -0.545113
+                  ]
+            },
+            {
+                  "name": "Command Ridge",
+                  "text": "Der höchste Punkt von Nauru in Denigomodu, einst ein militärischer Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        166.916919,
+                        -0.530468
+                  ]
+            },
+            {
+                  "name": "Church of Christ the King",
+                  "text": "Kirche in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.931583,
+                        -0.505813
+                  ]
+            },
+            {
+                  "name": "Monument to the Nauruans Exiled in WWII",
+                  "text": "Denkmal für die während des Zweiten Weltkriegs vertriebenen Nauruer in Denigomodu.",
+                  "category": "historical",
+                  "coords": [
+                        166.911072,
+                        -0.529787
+                  ]
+            },
+            {
+                  "name": "Cantilever Cranes",
+                  "text": "Historische Verladekräne in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.909334,
+                        -0.531736
+                  ]
+            },
+            {
+                  "name": "Broken Down Cantilever Cranes",
+                  "text": "Überreste der alten Verladekräne in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.909328,
+                        -0.536405
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Gun",
+                  "text": "Historisches japanisches Geschütz aus dem Zweiten Weltkrieg in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.916396,
+                        -0.533437
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Prison",
+                  "text": "Standort eines ehemaligen japanischen Gefängnisses aus dem Zweiten Weltkrieg in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.918033,
+                        -0.53624
+                  ]
+            },
+            {
+                  "name": "Lagoon viewpoint",
+                  "text": "Aussichtspunkt mit Blick auf die Lagune in Denigomodu.",
+                  "category": "natural",
+                  "coords": [
+                        166.923022,
+                        -0.534968
+                  ]
+            },
+            {
+                  "name": "Gun",
+                  "text": "Ehemalige Geschützstellung in Denigomodu, die als Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        166.921971,
+                        -0.548699
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Bunker in Denigomodu, heute ein Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        166.925349,
+                        -0.51205
+                  ]
+            },
+            {
+                  "name": "Japanese WWII guns and bunker",
+                  "text": "Überreste japanischer Befestigungen aus dem Zweiten Weltkrieg in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.92438,
+                        -0.543957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naoero Museum",
+                  "text": "Múzeum Denigomoduban, amely Nauru kultúrájával és történelmével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        166.914786,
+                        -0.545113
+                  ]
+            },
+            {
+                  "name": "Command Ridge",
+                  "text": "Nauru legmagasabb pontja Denigomoduban, egykor katonai megfigyelőhely.",
+                  "category": "natural",
+                  "coords": [
+                        166.916919,
+                        -0.530468
+                  ]
+            },
+            {
+                  "name": "Church of Christ the King",
+                  "text": "Templom Denigomoduban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.931583,
+                        -0.505813
+                  ]
+            },
+            {
+                  "name": "Monument to the Nauruans Exiled in WWII",
+                  "text": "A második világháborúban deportált nauruiak emlékműve Denigomoduban.",
+                  "category": "historical",
+                  "coords": [
+                        166.911072,
+                        -0.529787
+                  ]
+            },
+            {
+                  "name": "Cantilever Cranes",
+                  "text": "Történelmi rakodódaruk Denigomoduban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.909334,
+                        -0.531736
+                  ]
+            },
+            {
+                  "name": "Broken Down Cantilever Cranes",
+                  "text": "A régi rakodódaruk maradványai Denigomoduban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.909328,
+                        -0.536405
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Gun",
+                  "text": "Történelmi japán ágyú a második világháborúból Denigomoduban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.916396,
+                        -0.533437
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Prison",
+                  "text": "Egy második világháborús japán börtön helyszíne Denigomoduban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.918033,
+                        -0.53624
+                  ]
+            },
+            {
+                  "name": "Lagoon viewpoint",
+                  "text": "Kilátópont a lagúnára Denigomoduban.",
+                  "category": "natural",
+                  "coords": [
+                        166.923022,
+                        -0.534968
+                  ]
+            },
+            {
+                  "name": "Gun",
+                  "text": "Egykori ágyúállás Denigomoduban, amely kilátópontként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        166.921971,
+                        -0.548699
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Bunker Denigomoduban, ma kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        166.925349,
+                        -0.51205
+                  ]
+            },
+            {
+                  "name": "Japanese WWII guns and bunker",
+                  "text": "Második világháborús japán erődítmények maradványai Denigomoduban.",
+                  "category": "landmark",
+                  "coords": [
+                        166.92438,
+                        -0.543957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naoero Museum",
+                  "text": "Muzeu în Denigomodu dedicat culturii și istoriei insulei Nauru.",
+                  "category": "museum",
+                  "coords": [
+                        166.914786,
+                        -0.545113
+                  ]
+            },
+            {
+                  "name": "Command Ridge",
+                  "text": "Cel mai înalt punct din Nauru, situat în Denigomodu, fost punct de observare militar.",
+                  "category": "natural",
+                  "coords": [
+                        166.916919,
+                        -0.530468
+                  ]
+            },
+            {
+                  "name": "Church of Christ the King",
+                  "text": "Biserică în Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.931583,
+                        -0.505813
+                  ]
+            },
+            {
+                  "name": "Monument to the Nauruans Exiled in WWII",
+                  "text": "Monument în memoria nauruanilor exilați în timpul celui de-Al Doilea Război Mondial, în Denigomodu.",
+                  "category": "historical",
+                  "coords": [
+                        166.911072,
+                        -0.529787
+                  ]
+            },
+            {
+                  "name": "Cantilever Cranes",
+                  "text": "Macarale istorice de încărcare în Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.909334,
+                        -0.531736
+                  ]
+            },
+            {
+                  "name": "Broken Down Cantilever Cranes",
+                  "text": "Rămășițele vechilor macarale în Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.909328,
+                        -0.536405
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Gun",
+                  "text": "Tun japonez istoric din Al Doilea Război Mondial în Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.916396,
+                        -0.533437
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Prison",
+                  "text": "Locația unei foste închisori japoneze din Al Doilea Război Mondial în Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.918033,
+                        -0.53624
+                  ]
+            },
+            {
+                  "name": "Lagoon viewpoint",
+                  "text": "Punct de belvedere cu vedere la lagună în Denigomodu.",
+                  "category": "natural",
+                  "coords": [
+                        166.923022,
+                        -0.534968
+                  ]
+            },
+            {
+                  "name": "Gun",
+                  "text": "Fostă poziție de tun în Denigomodu, folosită ca punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        166.921971,
+                        -0.548699
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Buncăr în Denigomodu, astăzi un punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        166.925349,
+                        -0.51205
+                  ]
+            },
+            {
+                  "name": "Japanese WWII guns and bunker",
+                  "text": "Rămășițele fortificațiilor japoneze din Al Doilea Război Mondial în Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.92438,
+                        -0.543957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naoero Museum",
+                  "text": "Museum in Denigomodu showcasing the culture and history of Nauru.",
+                  "category": "museum",
+                  "coords": [
+                        166.914786,
+                        -0.545113
+                  ]
+            },
+            {
+                  "name": "Command Ridge",
+                  "text": "The highest point of Nauru in Denigomodu, once a military observation point.",
+                  "category": "natural",
+                  "coords": [
+                        166.916919,
+                        -0.530468
+                  ]
+            },
+            {
+                  "name": "Church of Christ the King",
+                  "text": "Church in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.931583,
+                        -0.505813
+                  ]
+            },
+            {
+                  "name": "Monument to the Nauruans Exiled in WWII",
+                  "text": "Monument to the Nauruans exiled during WWII, located in Denigomodu.",
+                  "category": "historical",
+                  "coords": [
+                        166.911072,
+                        -0.529787
+                  ]
+            },
+            {
+                  "name": "Cantilever Cranes",
+                  "text": "Historic cantilever cranes in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.909334,
+                        -0.531736
+                  ]
+            },
+            {
+                  "name": "Broken Down Cantilever Cranes",
+                  "text": "Ruins of the old cantilever cranes in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.909328,
+                        -0.536405
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Gun",
+                  "text": "Historic Japanese WWII gun in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.916396,
+                        -0.533437
+                  ]
+            },
+            {
+                  "name": "Japanese WWII Prison",
+                  "text": "Site of a former Japanese WWII prison in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.918033,
+                        -0.53624
+                  ]
+            },
+            {
+                  "name": "Lagoon viewpoint",
+                  "text": "Viewpoint overlooking the lagoon in Denigomodu.",
+                  "category": "natural",
+                  "coords": [
+                        166.923022,
+                        -0.534968
+                  ]
+            },
+            {
+                  "name": "Gun",
+                  "text": "Former gun site in Denigomodu, used as a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        166.921971,
+                        -0.548699
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Bunker in Denigomodu, now a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        166.925349,
+                        -0.51205
+                  ]
+            },
+            {
+                  "name": "Japanese WWII guns and bunker",
+                  "text": "Remains of Japanese WWII fortifications in Denigomodu.",
+                  "category": "landmark",
+                  "coords": [
+                        166.92438,
+                        -0.543957
+                  ]
+            }
+      ]
+},
     parent: "NR",
     type: "village",
     name: { de: "Siedlung Denigomodu", hu: "Denigomodu település", ro: "Așezarea Denigomodu", en: "Denigomodu Settlement" },

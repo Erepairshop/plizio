@@ -93,7 +93,52 @@ export const malawiCitiesV2: POI[] = [
     image: "/poi-images/malawi-blantyre-cities-v2.webp",
   },
   {
-    id: "malawi-mzuzu-cities-v2",
+    id: "malawi-mzuzu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Clocktower",
+                  "text": "Der Clocktower ist ein bemerkenswertes Denkmal in Mzuzu.",
+                  "category": "historical",
+                  "coords": [
+                        34.020126,
+                        -11.462264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Clocktower",
+                  "text": "A Clocktower egy jelentős emlékmű Mzuzu városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.020126,
+                        -11.462264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Clocktower",
+                  "text": "Clocktower este un monument notabil situat în Mzuzu.",
+                  "category": "historical",
+                  "coords": [
+                        34.020126,
+                        -11.462264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Clocktower",
+                  "text": "The Clocktower is a notable monument situated in Mzuzu.",
+                  "category": "historical",
+                  "coords": [
+                        34.020126,
+                        -11.462264
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "city",
     name: { de: "Mzuzu", hu: "Mzuzu", ro: "Mzuzu", en: "Mzuzu" },
@@ -228,7 +273,88 @@ export const malawiCitiesV2: POI[] = [
     image: "/poi-images/malawi-kasungu-cities-v2.webp",
   },
   {
-    id: "malawi-mangochi-cities-v2",
+    id: "malawi-mangochi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lake Malawi Museum",
+                  "text": "Das Lake Malawi Museum ist ein Ausstellungszentrum in Mangochi.",
+                  "category": "museum",
+                  "coords": [
+                        35.272359,
+                        -14.480002
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial Tower",
+                  "text": "Der Queen Victoria Memorial Tower ist ein Denkmal in der Stadt Mangochi.",
+                  "category": "historical",
+                  "coords": [
+                        35.272515,
+                        -14.478886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lake Malawi Museum",
+                  "text": "A Lake Malawi Museum egy kiállítási központ Mangochi városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.272359,
+                        -14.480002
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial Tower",
+                  "text": "A Queen Victoria Memorial Tower egy emlékmű Mangochi városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.272515,
+                        -14.478886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lake Malawi Museum",
+                  "text": "Lake Malawi Museum este un centru expozițional situat în Mangochi.",
+                  "category": "museum",
+                  "coords": [
+                        35.272359,
+                        -14.480002
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial Tower",
+                  "text": "Queen Victoria Memorial Tower este un monument situat în orașul Mangochi.",
+                  "category": "historical",
+                  "coords": [
+                        35.272515,
+                        -14.478886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lake Malawi Museum",
+                  "text": "Lake Malawi Museum is an exhibition center located in Mangochi.",
+                  "category": "museum",
+                  "coords": [
+                        35.272359,
+                        -14.480002
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Memorial Tower",
+                  "text": "The Queen Victoria Memorial Tower is a monument located in the city of Mangochi.",
+                  "category": "historical",
+                  "coords": [
+                        35.272515,
+                        -14.478886
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "town",
     name: { de: "Mangochi", hu: "Mangochi", ro: "Mangochi", en: "Mangochi" },
@@ -363,7 +489,88 @@ export const malawiCitiesV2: POI[] = [
     image: "/poi-images/malawi-salima-cities-v2.webp",
   },
   {
-    id: "malawi-nkhotakota-cities-v2",
+    id: "malawi-nkhotakota-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Livingstone Tree",
+                  "text": "Der Livingstone Tree ist eine lokale Attraktion in Nkhotakota.",
+                  "category": "landmark",
+                  "coords": [
+                        34.298025,
+                        -12.931493
+                  ]
+            },
+            {
+                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
+                  "text": "Diese Sehenswürdigkeit in Nkhotakota ist ein historischer Baum, der für seine Verbindung zum Sklavenhandel bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296974,
+                        -12.932615
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Livingstone Tree",
+                  "text": "A Livingstone Tree egy helyi látványosság Nkhotakota városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.298025,
+                        -12.931493
+                  ]
+            },
+            {
+                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
+                  "text": "Ez a Nkhotakota-i látványosság egy történelmi fa, amely a rabszolgakereskedelemmel való kapcsolatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296974,
+                        -12.932615
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Livingstone Tree",
+                  "text": "Livingstone Tree este o atracție locală situată în Nkhotakota.",
+                  "category": "landmark",
+                  "coords": [
+                        34.298025,
+                        -12.931493
+                  ]
+            },
+            {
+                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
+                  "text": "Această atracție din Nkhotakota este un copac istoric cunoscut pentru legătura sa cu comerțul cu sclavi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296974,
+                        -12.932615
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Livingstone Tree",
+                  "text": "The Livingstone Tree is a local attraction located in Nkhotakota.",
+                  "category": "landmark",
+                  "coords": [
+                        34.298025,
+                        -12.931493
+                  ]
+            },
+            {
+                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
+                  "text": "This attraction in Nkhotakota is a historic tree known for its association with the slave trade.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296974,
+                        -12.932615
+                  ]
+            }
+      ]
+},
     parent: "MW",
     type: "town",
     name: { de: "Nkhotakota", hu: "Nkhotakota", ro: "Nkhotakota", en: "Nkhotakota" },

@@ -228,7 +228,1852 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       pt: [],
       fr: [],
     },
-  },   {     id: "ningbo-cities-v2",     type: "city",     parent: "CN-ZJ",     coords: [121.5479, 29.8683],     name: {       de: "Ningbo",       hu: "Ningpo",       ro: "Ningbo",       en: "Ningbo"},
+  },   {     id: "ningbo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "浙海关旧址博物馆",
+                  "text": "Ningpo Customs Site Museum ist ein bemerkenswertes Museum in Ningbo. Es präsentiert die Geschichte des ehemaligen Zollamtes von Zhejiang.",
+                  "category": "museum",
+                  "coords": [
+                        121.559089,
+                        29.885157
+                  ]
+            },
+            {
+                  "name": "天一阁博物馆",
+                  "text": "Tianyi Pavilion Museum ist ein bemerkenswertes Museum in Ningbo. Es beherbergt das älteste noch existierende private Bibliotheksgebäude in China.",
+                  "category": "museum",
+                  "coords": [
+                        121.536095,
+                        29.873639
+                  ]
+            },
+            {
+                  "name": "茶文化博物馆",
+                  "text": "Yuan's Former Residence - Ningbo Tea Culture Museum ist ein bemerkenswertes Museum in Ningbo. Es befindet sich in einem traditionellen Wohnhaus am Mondsee, das der lokalen Teekultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        121.539195,
+                        29.868626
+                  ]
+            },
+            {
+                  "name": "宁波英国领事馆旧址",
+                  "text": "Former British Consulate in Ningbo ist ein bemerkenswertes Museum in Ningbo. Die Stätte bewahrt das historische Gebäude, das den britischen diplomatischen Aktivitäten in der Region diente.",
+                  "category": "museum",
+                  "coords": [
+                        121.560545,
+                        29.887524
+                  ]
+            },
+            {
+                  "name": "大方岳第",
+                  "text": "Moon Lake Old Picture Exhibition Hall ist ein bemerkenswertes Museum in Ningbo. Es stellt alte Fotografien aus, die die Geschichte und die Veränderungen der Gegend um den Mondsee dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        121.540703,
+                        29.872367
+                  ]
+            },
+            {
+                  "name": "宁波美术馆",
+                  "text": "Ningbo Museum of Art ist eine bemerkenswerte Galerie in Ningbo. Es ist eine bedeutende Institution für zeitgenössische Kunst, die sich auf dem Gelände des ehemaligen Hafengebäudes der Stadt befindet.",
+                  "category": "museum",
+                  "coords": [
+                        121.557239,
+                        29.881016
+                  ]
+            },
+            {
+                  "name": "宁波逸夫剧院",
+                  "text": "Ningbo Yifu Theatre ist ein bemerkenswertes Theater in Ningbo. Es ist ein prominenter kultureller Veranstaltungsort der Stadt, der nach dem Philanthropen Run Run Shaw benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        121.543883,
+                        29.870874
+                  ]
+            },
+            {
+                  "name": "佛教居士林",
+                  "text": "Ningbo Buddhist Lodge ist eine bedeutende Kultstätte in Ningbo. Sie fungiert als herausragendes Zentrum für buddhistische Laien in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        121.53916,
+                        29.870234
+                  ]
+            },
+            {
+                  "name": "宁波圣母升天堂",
+                  "text": "Our Lady of the Assumption Cathedral ist eine bedeutende Kultstätte in Ningbo. Sie dient als eine wichtige historische katholische Kathedrale in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        121.549429,
+                        29.870573
+                  ]
+            },
+            {
+                  "name": "宁波耶稣圣心堂",
+                  "text": "Sacred Heart Cathedral ist eine bedeutende Kultstätte in Ningbo. Es handelt sich um eine große historische katholische Kirche, die für die örtliche Diözese von zentraler Bedeutung ist.",
+                  "category": "religious",
+                  "coords": [
+                        121.55625,
+                        29.876926
+                  ]
+            },
+            {
+                  "name": "Qita Tempel",
+                  "text": "Qita Temple ist eine bedeutende Kultstätte in Ningbo. Er gilt als einer der wichtigsten buddhistischen Tempel im Stadtgebiet.",
+                  "category": "religious",
+                  "coords": [
+                        121.563662,
+                        29.867949
+                  ]
+            },
+            {
+                  "name": "宁波府城隍庙",
+                  "text": "Temple of Ningbo's Patron Deity ist eine bedeutende Kultstätte in Ningbo. Auch bekannt als der Stadtgott-Tempel, ist es eine wichtige Stätte der lokalen traditionellen Religion.",
+                  "category": "religious",
+                  "coords": [
+                        121.545547,
+                        29.869775
+                  ]
+            },
+            {
+                  "name": "Tianfeng Pagode",
+                  "text": "Tianfeng Pagoda ist eine bemerkenswerte Touristenattraktion in Ningbo. Es ist ein historischer Turm, der als Wahrzeichen der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        121.546775,
+                        29.867933
+                  ]
+            },
+            {
+                  "name": "天宁寺塔",
+                  "text": "Tianning Temple Tower ist eine bemerkenswerte Touristenattraktion in Ningbo. Diese antike Struktur ist ein gut erhaltener Überrest des historischen Tianning-Tempels.",
+                  "category": "landmark",
+                  "coords": [
+                        121.539064,
+                        29.876705
+                  ]
+            },
+            {
+                  "name": "李氏宗祠",
+                  "text": "Li's Ancestral Temple ist eine bemerkenswerte Touristenattraktion in Ningbo. Es ist eine traditionelle Ahnenhalle, die der Abstammung der lokalen Familie Li gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.54379,
+                        29.867113
+                  ]
+            },
+            {
+                  "name": "盛氏花厅",
+                  "text": "盛氏花厅 ist eine bemerkenswerte Touristenattraktion in Ningbo. Es handelt sich um eine traditionelle architektonische Stätte, die mit der Familie Sheng verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542709,
+                        29.866353
+                  ]
+            },
+            {
+                  "name": "Trommel Turm",
+                  "text": "Ningbo Drum Tower ist eine bemerkenswerte Touristenattraktion in Ningbo. Es ist ein historisches architektonisches Wahrzeichen im Zentrum der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542354,
+                        29.876265
+                  ]
+            },
+            {
+                  "name": "宁波老外滩",
+                  "text": "Ningbo Old Bund ist eine bemerkenswerte Touristenattraktion in Ningbo. Es ist einer der ältesten ausländischen Bunds in China und zeichnet sich durch historische Architektur im Kolonialstil aus.",
+                  "category": "landmark",
+                  "coords": [
+                        121.55644,
+                        29.879128
+                  ]
+            },
+            {
+                  "name": "宁波邮政局旧址",
+                  "text": "Ningbo Post Bureau in Jiangbei ist eine bemerkenswerte Touristenattraktion in Ningbo. Die Stätte bewahrt das historische Gebäude der ehemaligen Post in diesem Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.558004,
+                        29.883278
+                  ]
+            },
+            {
+                  "name": "张苍水纪念馆",
+                  "text": "Former residence of Zhangcangshui ist eine bemerkenswerte Touristenattraktion in Ningbo. Der Ort ist historisch bedeutsam als Heimat des Ming-Dynastie-Loyalisten Zhang Cangshui.",
+                  "category": "landmark",
+                  "coords": [
+                        121.544634,
+                        29.880305
+                  ]
+            },
+            {
+                  "name": "新江桥",
+                  "text": "Xinjiang Bridge ist eine bemerkenswerte Brücke in Ningbo. Sie ist ein wichtiges Infrastrukturobjekt, das den Verkehr über das Flusssystem der Stadt erleichtert.",
+                  "category": "landmark",
+                  "coords": [
+                        121.555119,
+                        29.875264
+                  ]
+            },
+            {
+                  "name": "甬江大桥",
+                  "text": "Yongjiang Bridge ist eine bemerkenswerte Brücke in Ningbo. Es handelt sich um eine große Spannweite, die den Fluss Yongjiang überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        121.558257,
+                        29.877159
+                  ]
+            },
+            {
+                  "name": "解放桥",
+                  "text": "Jiefang Bridge ist eine bemerkenswerte Brücke in Ningbo. Sie dient als wichtige Kreuzungsverbindung innerhalb der städtischen Infrastruktur.",
+                  "category": "landmark",
+                  "coords": [
+                        121.549673,
+                        29.881989
+                  ]
+            },
+            {
+                  "name": "永丰桥",
+                  "text": "永丰桥 ist eine bemerkenswerte Brücke in Ningbo. Das Bauwerk ist Teil des lokalen Verkehrsnetzes und überquert die Wasserwege der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542272,
+                        29.890973
+                  ]
+            },
+            {
+                  "name": "外滩大桥",
+                  "text": "Die Waitan Bridge ist eine bekannte Brücke in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.559829,
+                        29.882746
+                  ]
+            },
+            {
+                  "name": "江厦桥",
+                  "text": "Die Jiangxia Bridge ist eine bekannte Brücke in der Stadt Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.556507,
+                        29.872946
+                  ]
+            },
+            {
+                  "name": "灵桥",
+                  "text": "Die Lingqiao Bridge ist eine markante Brücke in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.555568,
+                        29.86894
+                  ]
+            },
+            {
+                  "name": "琴桥",
+                  "text": "Die Qinqiao Bridge ist eine bekannte Brücke in der Stadt Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.554862,
+                        29.865543
+                  ]
+            },
+            {
+                  "name": "新典桥",
+                  "text": "Die Xindian Bridge ist eine bekannte Brücke in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.531008,
+                        29.851397
+                  ]
+            },
+            {
+                  "name": "长丰桥",
+                  "text": "Die Changfeng Bridge ist eine markante Brücke in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.536304,
+                        29.853072
+                  ]
+            },
+            {
+                  "name": "澄浪桥",
+                  "text": "Die Chenglang Bridge ist eine bekannte Brücke in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.544169,
+                        29.854993
+                  ]
+            },
+            {
+                  "name": "兴宁桥",
+                  "text": "Die Xingning Bridge ist eine bekannte Brückenstruktur in der Stadt Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.548401,
+                        29.859831
+                  ]
+            },
+            {
+                  "name": "月湖清真寺",
+                  "text": "Die Yuehu-Moschee ist ein bekanntes Gotteshaus in Ningbo.",
+                  "category": "religious",
+                  "coords": [
+                        121.536131,
+                        29.87155
+                  ]
+            },
+            {
+                  "name": "董孝子庙",
+                  "text": "董孝子庙 ist ein bekanntes Gotteshaus in der Stadt Ningbo.",
+                  "category": "religious",
+                  "coords": [
+                        121.52658,
+                        29.860839
+                  ]
+            },
+            {
+                  "name": "高丽使馆遗址",
+                  "text": "Die Ausstellungshalle zur Geschichte des Austauschs zwischen Ningbo und Korea ist eine bekannte kulturelle Attraktion in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.541466,
+                        29.87361
+                  ]
+            },
+            {
+                  "name": "宁波大剧院",
+                  "text": "Das Ningbo Grand Theater ist ein Veranstaltungsort für Theateraufführungen in Ningbo.",
+                  "category": "cultural",
+                  "coords": [
+                        121.543844,
+                        29.894633
+                  ]
+            },
+            {
+                  "name": "林宅",
+                  "text": "Lins Residenz in der Zijin Street ist eine lokale Touristenattraktion in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.540785,
+                        29.865271
+                  ]
+            },
+            {
+                  "name": "宁波教育博物馆",
+                  "text": "Das Ningbo Education Museum ist ein Museum in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.549146,
+                        29.878823
+                  ]
+            },
+            {
+                  "name": "屠呦呦旧居陈列馆",
+                  "text": "Das Tu Youyou Museum ist ein Museum in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.545851,
+                        29.866512
+                  ]
+            },
+            {
+                  "name": "望京门城墙遗址博物馆",
+                  "text": "望京门城墙遗址博物馆 ist ein lokales Museum in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.534924,
+                        29.878586
+                  ]
+            },
+            {
+                  "name": "甬曹铁路宁波车站纪念馆",
+                  "text": "甬曹铁路宁波车站纪念馆 ist ein Museum in der Stadt Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.556113,
+                        29.888113
+                  ]
+            },
+            {
+                  "name": "宁波老外滩展览馆",
+                  "text": "Die Ningbo Laowaitan Exhibition Hall ist ein lokales Museum in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.555548,
+                        29.877889
+                  ]
+            },
+            {
+                  "name": "浙东海事民俗博物馆",
+                  "text": "浙东海事民俗博物馆 ist eine Museumseinrichtung in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.558823,
+                        29.874858
+                  ]
+            },
+            {
+                  "name": "宁波工业设计博物馆",
+                  "text": "宁波工业设计博物馆 ist ein Museum in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.564464,
+                        29.886965
+                  ]
+            },
+            {
+                  "name": "中国保险博物馆",
+                  "text": "Das China Insurance Museum ist ein Museum in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.561706,
+                        29.888669
+                  ]
+            },
+            {
+                  "name": "银台第博物馆",
+                  "text": "Die Yintaidi Mansion dient als lokales Museum in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.540156,
+                        29.874596
+                  ]
+            },
+            {
+                  "name": "宁波市文化馆",
+                  "text": "宁波市文化馆 ist eine kulturelle Museumseinrichtung in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.549613,
+                        29.869664
+                  ]
+            },
+            {
+                  "name": "朱复戡艺术馆",
+                  "text": "朱复戡艺术馆 ist eine Kunstgalerie in der Stadt Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.540395,
+                        29.87999
+                  ]
+            },
+            {
+                  "name": "来远亭",
+                  "text": "来远亭 ist ein lokales Denkmal in Ningbo.",
+                  "category": "historical",
+                  "coords": [
+                        121.55549,
+                        29.871875
+                  ]
+            },
+            {
+                  "name": "宁波音乐厅",
+                  "text": "Die Ningbo Concert Hall ist ein Veranstaltungsort in Ningbo.",
+                  "category": "cultural",
+                  "coords": [
+                        121.554198,
+                        29.867747
+                  ]
+            },
+            {
+                  "name": "天然舞台",
+                  "text": "天然舞台 ist ein Theater in der Stadt Ningbo.",
+                  "category": "cultural",
+                  "coords": [
+                        121.566585,
+                        29.856581
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "浙海关旧址博物馆",
+                  "text": "A Ningpo Customs Site Museum egy jelentős múzeum Ningbóban. Az egykori zhejiangi vámhivatal történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        121.559089,
+                        29.885157
+                  ]
+            },
+            {
+                  "name": "天一阁博物馆",
+                  "text": "A Tianyi Pavilion Museum egy jelentős múzeum Ningbóban. Ez Kína legrégebbi fennmaradt magánkönyvtárának épülete.",
+                  "category": "museum",
+                  "coords": [
+                        121.536095,
+                        29.873639
+                  ]
+            },
+            {
+                  "name": "茶文化博物馆",
+                  "text": "A Yuan's Former Residence - Ningbo Tea Culture Museum egy jelentős múzeum Ningbóban. A Hold-tó partján álló hagyományos rezidencia ad otthont a helyi teakultúrát bemutató kiállításnak.",
+                  "category": "museum",
+                  "coords": [
+                        121.539195,
+                        29.868626
+                  ]
+            },
+            {
+                  "name": "宁波英国领事馆旧址",
+                  "text": "A Former British Consulate in Ningbo egy jelentős múzeum Ningbóban. A helyszín megőrizte azt a történelmi épületet, amely a brit diplomáciai tevékenységet szolgálta a régióban.",
+                  "category": "museum",
+                  "coords": [
+                        121.560545,
+                        29.887524
+                  ]
+            },
+            {
+                  "name": "大方岳第",
+                  "text": "A Moon Lake Old Picture Exhibition Hall egy jelentős múzeum Ningbóban. Olyan régi fényképeket állít ki, amelyek a Hold-tó környékének történetét és változásait dokumentálják.",
+                  "category": "museum",
+                  "coords": [
+                        121.540703,
+                        29.872367
+                  ]
+            },
+            {
+                  "name": "宁波美术馆",
+                  "text": "A Ningbo Museum of Art egy jelentős galéria Ningbóban. Ez egy fő kortárs művészeti intézmény, amely a város egykori kikötőépületének helyén található.",
+                  "category": "museum",
+                  "coords": [
+                        121.557239,
+                        29.881016
+                  ]
+            },
+            {
+                  "name": "宁波逸夫剧院",
+                  "text": "A Ningbo Yifu Theatre egy jelentős színház Ningbóban. A város egyik kiemelkedő kulturális helyszíne, amelyet a filantróp Run Run Shaw-ról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        121.543883,
+                        29.870874
+                  ]
+            },
+            {
+                  "name": "佛教居士林",
+                  "text": "A Ningbo Buddhist Lodge egy jelentős istentiszteleti hely Ningbóban. A város buddhista világi hívőinek kiemelkedő központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        121.53916,
+                        29.870234
+                  ]
+            },
+            {
+                  "name": "宁波圣母升天堂",
+                  "text": "A Our Lady of the Assumption Cathedral egy jelentős istentiszteleti hely Ningbóban. A régió fontos történelmi katolikus katedrálisaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        121.549429,
+                        29.870573
+                  ]
+            },
+            {
+                  "name": "宁波耶稣圣心堂",
+                  "text": "A Sacred Heart Cathedral egy jelentős istentiszteleti hely Ningbóban. Ez egy fontos történelmi katolikus templom, amely a helyi egyházmegye központja.",
+                  "category": "religious",
+                  "coords": [
+                        121.55625,
+                        29.876926
+                  ]
+            },
+            {
+                  "name": "七塔寺",
+                  "text": "A Qita Temple egy jelentős istentiszteleti hely Ningbóban. A város városi területének egyik legfontosabb buddhista templomaként tartják számon.",
+                  "category": "religious",
+                  "coords": [
+                        121.563662,
+                        29.867949
+                  ]
+            },
+            {
+                  "name": "宁波府城隍庙",
+                  "text": "A Temple of Ningbo's Patron Deity egy jelentős istentiszteleti hely Ningbóban. A Városvédő Isten templomaként is ismert helyszín a helyi hagyományos vallás kulcsfontosságú központja.",
+                  "category": "religious",
+                  "coords": [
+                        121.545547,
+                        29.869775
+                  ]
+            },
+            {
+                  "name": "天封塔",
+                  "text": "A Tianfeng Pagoda egy jelentős turisztikai látványosság Ningbóban. Ez egy történelmi torony, amely a város ikonikus szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        121.546775,
+                        29.867933
+                  ]
+            },
+            {
+                  "name": "天宁寺塔",
+                  "text": "A Tianning Temple Tower egy jelentős turisztikai látványosság Ningbóban. Ez az ősi építmény a történelmi Tianning-templom jól megőrzött maradványa.",
+                  "category": "landmark",
+                  "coords": [
+                        121.539064,
+                        29.876705
+                  ]
+            },
+            {
+                  "name": "李氏宗祠",
+                  "text": "A Li's Ancestral Temple egy jelentős turisztikai látványosság Ningbóban. Ez egy hagyományos ősi csarnok, amelyet a helyi Li család leszármazottainak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        121.54379,
+                        29.867113
+                  ]
+            },
+            {
+                  "name": "盛氏花厅",
+                  "text": "A 盛氏花厅 egy jelentős turisztikai látványosság Ningbóban. Ez egy hagyományos építészeti helyszín, amely a Sheng családhoz kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542709,
+                        29.866353
+                  ]
+            },
+            {
+                  "name": "宁波鼓楼",
+                  "text": "A Ningbo Drum Tower egy jelentős turisztikai látványosság Ningbóban. Ez egy történelmi építészeti mérföldkő a város központi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542354,
+                        29.876265
+                  ]
+            },
+            {
+                  "name": "宁波老外滩",
+                  "text": "A Ningbo Old Bund egy jelentős turisztikai látványosság Ningbóban. Kína egyik legrégebbi külföldi rakpartja, amely történelmi gyarmati stílusú építészettel büszkélkedhet.",
+                  "category": "landmark",
+                  "coords": [
+                        121.55644,
+                        29.879128
+                  ]
+            },
+            {
+                  "name": "宁波邮政局旧址",
+                  "text": "A Ningbo Post Bureau in Jiangbei egy jelentős turisztikai látványosság Ningbóban. A helyszín a terület egykori postai szolgálatának történelmi épületét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        121.558004,
+                        29.883278
+                  ]
+            },
+            {
+                  "name": "张苍水纪念馆",
+                  "text": "A Former residence of Zhangcangshui egy jelentős turisztikai látványosság Ningbóban. A helyszín történelmileg jelentős, mivel a Ming-dinasztia hűségesének, Zhang Cangshuinak az otthona volt.",
+                  "category": "landmark",
+                  "coords": [
+                        121.544634,
+                        29.880305
+                  ]
+            },
+            {
+                  "name": "新江桥",
+                  "text": "A Xinjiang Bridge egy jelentős híd Ningbóban. Kulcsfontosságú infrastrukturális elem, amely megkönnyíti a közlekedést a város folyórendszerén keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        121.555119,
+                        29.875264
+                  ]
+            },
+            {
+                  "name": "甬江大桥",
+                  "text": "A Yongjiang Bridge egy jelentős híd Ningbóban. Ez egy hatalmas átkelő, amely a Yongjiang folyót íveli át.",
+                  "category": "landmark",
+                  "coords": [
+                        121.558257,
+                        29.877159
+                  ]
+            },
+            {
+                  "name": "解放桥",
+                  "text": "A Jiefang Bridge egy jelentős híd Ningbóban. Fontos átkelési kapcsolatként szolgál a városi infrastruktúrán belül.",
+                  "category": "landmark",
+                  "coords": [
+                        121.549673,
+                        29.881989
+                  ]
+            },
+            {
+                  "name": "永丰桥",
+                  "text": "A 永丰桥 egy jelentős híd Ningbóban. Az építmény a helyi közlekedési hálózat része, amely a város vízi útjait keresztezi.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542272,
+                        29.890973
+                  ]
+            },
+            {
+                  "name": "外滩大桥",
+                  "text": "A Waitan Bridge egy nevezetes híd Ningbo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.559829,
+                        29.882746
+                  ]
+            },
+            {
+                  "name": "江厦桥",
+                  "text": "A Jiangxia Bridge egy ismert híd Ningbo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.556507,
+                        29.872946
+                  ]
+            },
+            {
+                  "name": "灵桥",
+                  "text": "A Lingqiao Bridge egy kiemelkedő híd Ningbo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.555568,
+                        29.86894
+                  ]
+            },
+            {
+                  "name": "琴桥",
+                  "text": "A Qinqiao Bridge egy nevezetes híd Ningbo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.554862,
+                        29.865543
+                  ]
+            },
+            {
+                  "name": "新典桥",
+                  "text": "A Xindian Bridge egy ismert híd Ningbo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.531008,
+                        29.851397
+                  ]
+            },
+            {
+                  "name": "长丰桥",
+                  "text": "A Changfeng Bridge egy kiemelkedő híd Ningbo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.536304,
+                        29.853072
+                  ]
+            },
+            {
+                  "name": "澄浪桥",
+                  "text": "A Chenglang Bridge egy nevezetes híd Ningbo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.544169,
+                        29.854993
+                  ]
+            },
+            {
+                  "name": "兴宁桥",
+                  "text": "A Xingning Bridge egy ismert híd Ningbo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.548401,
+                        29.859831
+                  ]
+            },
+            {
+                  "name": "月湖清真寺",
+                  "text": "A Yuehu mecset egy nevezetes imahely Ningbo városában.",
+                  "category": "religious",
+                  "coords": [
+                        121.536131,
+                        29.87155
+                  ]
+            },
+            {
+                  "name": "董孝子庙",
+                  "text": "A 董孝子庙 egy elismert imahely Ningbo városában.",
+                  "category": "religious",
+                  "coords": [
+                        121.52658,
+                        29.860839
+                  ]
+            },
+            {
+                  "name": "高丽使馆遗址",
+                  "text": "A Ningbo-Korea Csere Történetének Kiállítóterme egy nevezetes kulturális látványosság Ningbo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.541466,
+                        29.87361
+                  ]
+            },
+            {
+                  "name": "宁波大剧院",
+                  "text": "A Ningbo Grand Theater egy színház Ningbo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        121.543844,
+                        29.894633
+                  ]
+            },
+            {
+                  "name": "林宅",
+                  "text": "A Lin-rezidencia a Zijin utcában egy helyi turisztikai látványosság Ningbo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        121.540785,
+                        29.865271
+                  ]
+            },
+            {
+                  "name": "宁波教育博物馆",
+                  "text": "A Ningbo Education Museum egy múzeum Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.549146,
+                        29.878823
+                  ]
+            },
+            {
+                  "name": "屠呦呦旧居陈列馆",
+                  "text": "A Tu Youyou Museum egy múzeum Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.545851,
+                        29.866512
+                  ]
+            },
+            {
+                  "name": "望京门城墙遗址博物馆",
+                  "text": "A 望京门城墙遗址博物馆 egy helyi múzeum Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.534924,
+                        29.878586
+                  ]
+            },
+            {
+                  "name": "甬曹铁路宁波车站纪念馆",
+                  "text": "A 甬曹铁路宁波车站纪念馆 egy múzeum Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.556113,
+                        29.888113
+                  ]
+            },
+            {
+                  "name": "宁波老外滩展览馆",
+                  "text": "A Ningbo Laowaitan Exhibition Hall egy helyi múzeum Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.555548,
+                        29.877889
+                  ]
+            },
+            {
+                  "name": "浙东海事民俗博物馆",
+                  "text": "A 浙东海事民俗博物馆 egy múzeumi létesítmény Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.558823,
+                        29.874858
+                  ]
+            },
+            {
+                  "name": "宁波工业设计博物馆",
+                  "text": "A 宁波工业设计博物馆 egy múzeum Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.564464,
+                        29.886965
+                  ]
+            },
+            {
+                  "name": "中国保险博物馆",
+                  "text": "A China Insurance Museum egy múzeum Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.561706,
+                        29.888669
+                  ]
+            },
+            {
+                  "name": "银台第博物馆",
+                  "text": "A Yintaidi Mansion helyi múzeumként működik Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.540156,
+                        29.874596
+                  ]
+            },
+            {
+                  "name": "宁波市文化馆",
+                  "text": "A 宁波市文化馆 egy kulturális múzeumi intézmény Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.549613,
+                        29.869664
+                  ]
+            },
+            {
+                  "name": "朱复戡艺术馆",
+                  "text": "A 朱复戡艺术馆 egy művészeti galéria Ningbo városában.",
+                  "category": "museum",
+                  "coords": [
+                        121.540395,
+                        29.87999
+                  ]
+            },
+            {
+                  "name": "来远亭",
+                  "text": "A 来远亭 egy helyi emlékmű Ningbo városában.",
+                  "category": "historical",
+                  "coords": [
+                        121.55549,
+                        29.871875
+                  ]
+            },
+            {
+                  "name": "宁波音乐厅",
+                  "text": "A Ningbo Concert Hall egy előadóterem Ningbo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        121.554198,
+                        29.867747
+                  ]
+            },
+            {
+                  "name": "天然舞台",
+                  "text": "A 天然舞台 egy színház Ningbo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        121.566585,
+                        29.856581
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "浙海关旧址博物馆",
+                  "text": "Ningpo Customs Site Museum este un muzeu notabil situat în Ningbo. Acesta prezintă istoria fostului birou vamal din Zhejiang.",
+                  "category": "museum",
+                  "coords": [
+                        121.559089,
+                        29.885157
+                  ]
+            },
+            {
+                  "name": "天一阁博物馆",
+                  "text": "Tianyi Pavilion Museum este un muzeu notabil situat în Ningbo. Găzduiește cea mai veche clădire privată de bibliotecă existentă din China.",
+                  "category": "museum",
+                  "coords": [
+                        121.536095,
+                        29.873639
+                  ]
+            },
+            {
+                  "name": "茶文化博物馆",
+                  "text": "Yuan's Former Residence - Ningbo Tea Culture Museum este un muzeu notabil situat în Ningbo. Este găzduit într-o reședință tradițională de pe Lacul Lunii, dedicată culturii locale a ceaiului.",
+                  "category": "museum",
+                  "coords": [
+                        121.539195,
+                        29.868626
+                  ]
+            },
+            {
+                  "name": "宁波英国领事馆旧址",
+                  "text": "Former British Consulate in Ningbo este un muzeu notabil situat în Ningbo. Situl păstrează clădirea istorică care a servit operațiunilor diplomatice britanice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        121.560545,
+                        29.887524
+                  ]
+            },
+            {
+                  "name": "大方岳第",
+                  "text": "Moon Lake Old Picture Exhibition Hall este un muzeu notabil situat în Ningbo. Expune fotografii vechi care documentează istoria și schimbările din zona Lacului Lunii.",
+                  "category": "museum",
+                  "coords": [
+                        121.540703,
+                        29.872367
+                  ]
+            },
+            {
+                  "name": "宁波美术馆",
+                  "text": "Ningbo Museum of Art este o galerie notabilă situată în Ningbo. Este o instituție importantă de artă contemporană situată pe locul fostei clădiri a portului orașului.",
+                  "category": "museum",
+                  "coords": [
+                        121.557239,
+                        29.881016
+                  ]
+            },
+            {
+                  "name": "宁波逸夫剧院",
+                  "text": "Ningbo Yifu Theatre este un teatru notabil situat în Ningbo. Este o locație culturală proeminentă din oraș, numită după filantropul Run Run Shaw.",
+                  "category": "cultural",
+                  "coords": [
+                        121.543883,
+                        29.870874
+                  ]
+            },
+            {
+                  "name": "佛教居士林",
+                  "text": "Ningbo Buddhist Lodge este un lăcaș de cult notabil situat în Ningbo. Funcționează ca un centru proeminent pentru laicii budiști din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        121.53916,
+                        29.870234
+                  ]
+            },
+            {
+                  "name": "宁波圣母升天堂",
+                  "text": "Our Lady of the Assumption Cathedral este un lăcaș de cult notabil situat în Ningbo. Servește ca o importantă catedrală catolică istorică din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        121.549429,
+                        29.870573
+                  ]
+            },
+            {
+                  "name": "宁波耶稣圣心堂",
+                  "text": "Sacred Heart Cathedral este un lăcaș de cult notabil situat în Ningbo. Este o importantă biserică catolică istorică, centrală pentru dieceza locală.",
+                  "category": "religious",
+                  "coords": [
+                        121.55625,
+                        29.876926
+                  ]
+            },
+            {
+                  "name": "七塔寺",
+                  "text": "Qita Temple este un lăcaș de cult notabil situat în Ningbo. Este recunoscut ca fiind unul dintre templele budiste majore din zona urbană a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        121.563662,
+                        29.867949
+                  ]
+            },
+            {
+                  "name": "宁波府城隍庙",
+                  "text": "Temple of Ningbo's Patron Deity este un lăcaș de cult notabil situat în Ningbo. Cunoscut și sub numele de Templul Zeului Orașului, este un sit cheie al religiei tradiționale locale.",
+                  "category": "religious",
+                  "coords": [
+                        121.545547,
+                        29.869775
+                  ]
+            },
+            {
+                  "name": "天封塔",
+                  "text": "Tianfeng Pagoda este o atracție turistică notabilă situată în Ningbo. Este un turn istoric care servește drept simbol iconic al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.546775,
+                        29.867933
+                  ]
+            },
+            {
+                  "name": "天宁寺塔",
+                  "text": "Tianning Temple Tower este o atracție turistică notabilă situată în Ningbo. Această structură antică este o rămășiță bine conservată a templului istoric Tianning.",
+                  "category": "landmark",
+                  "coords": [
+                        121.539064,
+                        29.876705
+                  ]
+            },
+            {
+                  "name": "李氏宗祠",
+                  "text": "Li's Ancestral Temple este o atracție turistică notabilă situată în Ningbo. Este un hol tradițional ancestral dedicat descendenței familiei locale Li.",
+                  "category": "landmark",
+                  "coords": [
+                        121.54379,
+                        29.867113
+                  ]
+            },
+            {
+                  "name": "盛氏花厅",
+                  "text": "盛氏花厅 este o atracție turistică notabilă situată în Ningbo. Este un sit arhitectural tradițional asociat familiei Sheng.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542709,
+                        29.866353
+                  ]
+            },
+            {
+                  "name": "宁波鼓楼",
+                  "text": "Ningbo Drum Tower este o atracție turistică notabilă situată în Ningbo. Este un punct de reper arhitectural istoric din zona centrală a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542354,
+                        29.876265
+                  ]
+            },
+            {
+                  "name": "宁波老外滩",
+                  "text": "Ningbo Old Bund este o atracție turistică notabilă situată în Ningbo. Este unul dintre cele mai vechi porturi străine din China, având arhitectură istorică în stil colonial.",
+                  "category": "landmark",
+                  "coords": [
+                        121.55644,
+                        29.879128
+                  ]
+            },
+            {
+                  "name": "宁波邮政局旧址",
+                  "text": "Ningbo Post Bureau in Jiangbei este o atracție turistică notabilă situată în Ningbo. Situl păstrează clădirea istorică a fostului serviciu poștal din zonă.",
+                  "category": "landmark",
+                  "coords": [
+                        121.558004,
+                        29.883278
+                  ]
+            },
+            {
+                  "name": "张苍水纪念馆",
+                  "text": "Former residence of Zhangcangshui este o atracție turistică notabilă situată în Ningbo. Situl este semnificativ istoric ca locuință a loialistului dinastiei Ming, Zhang Cangshui.",
+                  "category": "landmark",
+                  "coords": [
+                        121.544634,
+                        29.880305
+                  ]
+            },
+            {
+                  "name": "新江桥",
+                  "text": "Xinjiang Bridge este un pod notabil situat în Ningbo. Este o piesă cheie de infrastructură care facilitează traficul pe sistemul fluvial al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.555119,
+                        29.875264
+                  ]
+            },
+            {
+                  "name": "甬江大桥",
+                  "text": "Yongjiang Bridge este un pod notabil situat în Ningbo. Este un tronson major care traversează râul Yongjiang.",
+                  "category": "landmark",
+                  "coords": [
+                        121.558257,
+                        29.877159
+                  ]
+            },
+            {
+                  "name": "解放桥",
+                  "text": "Jiefang Bridge este un pod notabil situat în Ningbo. Acesta servește drept o importantă legătură de traversare în cadrul infrastructurii urbane.",
+                  "category": "landmark",
+                  "coords": [
+                        121.549673,
+                        29.881989
+                  ]
+            },
+            {
+                  "name": "永丰桥",
+                  "text": "永丰桥 este un pod notabil situat în Ningbo. Structura face parte din rețeaua locală de transport care traversează căile navigabile ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542272,
+                        29.890973
+                  ]
+            },
+            {
+                  "name": "外滩大桥",
+                  "text": "Waitan Bridge este un pod notabil situat în Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.559829,
+                        29.882746
+                  ]
+            },
+            {
+                  "name": "江厦桥",
+                  "text": "Jiangxia Bridge este un pod recunoscut din orașul Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.556507,
+                        29.872946
+                  ]
+            },
+            {
+                  "name": "灵桥",
+                  "text": "Lingqiao Bridge este un pod important situat în Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.555568,
+                        29.86894
+                  ]
+            },
+            {
+                  "name": "琴桥",
+                  "text": "Qinqiao Bridge este un pod notabil din orașul Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.554862,
+                        29.865543
+                  ]
+            },
+            {
+                  "name": "新典桥",
+                  "text": "Xindian Bridge este un pod recunoscut din Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.531008,
+                        29.851397
+                  ]
+            },
+            {
+                  "name": "长丰桥",
+                  "text": "Changfeng Bridge este un pod important situat în Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.536304,
+                        29.853072
+                  ]
+            },
+            {
+                  "name": "澄浪桥",
+                  "text": "Chenglang Bridge este un pod notabil situat în Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.544169,
+                        29.854993
+                  ]
+            },
+            {
+                  "name": "兴宁桥",
+                  "text": "Xingning Bridge este o structură de pod recunoscută în orașul Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.548401,
+                        29.859831
+                  ]
+            },
+            {
+                  "name": "月湖清真寺",
+                  "text": "Moscheea Yuehu este un lăcaș de cult notabil situat în Ningbo.",
+                  "category": "religious",
+                  "coords": [
+                        121.536131,
+                        29.87155
+                  ]
+            },
+            {
+                  "name": "董孝子庙",
+                  "text": "董孝子庙 este un lăcaș de cult recunoscut din orașul Ningbo.",
+                  "category": "religious",
+                  "coords": [
+                        121.52658,
+                        29.860839
+                  ]
+            },
+            {
+                  "name": "高丽使馆遗址",
+                  "text": "Sala de expoziții a istoriei schimburilor Ningbo-Coreea este o atracție culturală notabilă din Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.541466,
+                        29.87361
+                  ]
+            },
+            {
+                  "name": "宁波大剧院",
+                  "text": "Ningbo Grand Theater este un teatru situat în Ningbo.",
+                  "category": "cultural",
+                  "coords": [
+                        121.543844,
+                        29.894633
+                  ]
+            },
+            {
+                  "name": "林宅",
+                  "text": "Reședința lui Lin de pe strada Zijin este o atracție turistică locală din Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.540785,
+                        29.865271
+                  ]
+            },
+            {
+                  "name": "宁波教育博物馆",
+                  "text": "Ningbo Education Museum este un muzeu din Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.549146,
+                        29.878823
+                  ]
+            },
+            {
+                  "name": "屠呦呦旧居陈列馆",
+                  "text": "Tu Youyou Museum este un muzeu situat în Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.545851,
+                        29.866512
+                  ]
+            },
+            {
+                  "name": "望京门城墙遗址博物馆",
+                  "text": "望京门城墙遗址博物馆 este un muzeu local situat în Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.534924,
+                        29.878586
+                  ]
+            },
+            {
+                  "name": "甬曹铁路宁波车站纪念馆",
+                  "text": "甬曹铁路宁波车站纪念馆 este un muzeu situat în orașul Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.556113,
+                        29.888113
+                  ]
+            },
+            {
+                  "name": "宁波老外滩展览馆",
+                  "text": "Ningbo Laowaitan Exhibition Hall este un muzeu local situat în Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.555548,
+                        29.877889
+                  ]
+            },
+            {
+                  "name": "浙东海事民俗博物馆",
+                  "text": "浙东海事民俗博物馆 este o facilitate muzeală din Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.558823,
+                        29.874858
+                  ]
+            },
+            {
+                  "name": "宁波工业设计博物馆",
+                  "text": "宁波工业设计博物馆 este un muzeu situat în Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.564464,
+                        29.886965
+                  ]
+            },
+            {
+                  "name": "中国保险博物馆",
+                  "text": "China Insurance Museum este un muzeu situat în Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.561706,
+                        29.888669
+                  ]
+            },
+            {
+                  "name": "银台第博物馆",
+                  "text": "Yintaidi Mansion servește ca muzeu local în Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.540156,
+                        29.874596
+                  ]
+            },
+            {
+                  "name": "宁波市文化馆",
+                  "text": "宁波市文化馆 este o facilitate muzeală culturală situată în Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.549613,
+                        29.869664
+                  ]
+            },
+            {
+                  "name": "朱复戡艺术馆",
+                  "text": "朱复戡艺术馆 este o galerie de artă din orașul Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.540395,
+                        29.87999
+                  ]
+            },
+            {
+                  "name": "来远亭",
+                  "text": "来远亭 este un monument local situat în Ningbo.",
+                  "category": "historical",
+                  "coords": [
+                        121.55549,
+                        29.871875
+                  ]
+            },
+            {
+                  "name": "宁波音乐厅",
+                  "text": "Ningbo Concert Hall este o sală de spectacole din Ningbo.",
+                  "category": "cultural",
+                  "coords": [
+                        121.554198,
+                        29.867747
+                  ]
+            },
+            {
+                  "name": "天然舞台",
+                  "text": "天然舞台 este un teatru situat în orașul Ningbo.",
+                  "category": "cultural",
+                  "coords": [
+                        121.566585,
+                        29.856581
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ningpo Customs Site Museum",
+                  "text": "Ningpo Customs Site Museum is a notable museum located in Ningbo. It showcases the history of the former Zhejiang customs office.",
+                  "category": "museum",
+                  "coords": [
+                        121.559089,
+                        29.885157
+                  ]
+            },
+            {
+                  "name": "Tianyi Pavilion Museum",
+                  "text": "Tianyi Pavilion Museum is a notable museum located in Ningbo. It features the oldest existing private library building in China.",
+                  "category": "museum",
+                  "coords": [
+                        121.536095,
+                        29.873639
+                  ]
+            },
+            {
+                  "name": "Yuan's Former Residence - Ningbo Tea Culture Museum",
+                  "text": "Yuan's Former Residence - Ningbo Tea Culture Museum is a notable museum located in Ningbo. It is housed in a traditional residence on Moon Lake, dedicated to local tea culture.",
+                  "category": "museum",
+                  "coords": [
+                        121.539195,
+                        29.868626
+                  ]
+            },
+            {
+                  "name": "Former British Consulate in Ningbo",
+                  "text": "Former British Consulate in Ningbo is a notable museum located in Ningbo. The site preserves the historical building that served British diplomatic operations in the region.",
+                  "category": "museum",
+                  "coords": [
+                        121.560545,
+                        29.887524
+                  ]
+            },
+            {
+                  "name": "Moon Lake Old Picture Exhibition Hall",
+                  "text": "Moon Lake Old Picture Exhibition Hall is a notable museum located in Ningbo. It exhibits old photographs that document the history and changes of the Moon Lake area.",
+                  "category": "museum",
+                  "coords": [
+                        121.540703,
+                        29.872367
+                  ]
+            },
+            {
+                  "name": "Ningbo Museum of Art",
+                  "text": "Ningbo Museum of Art is a notable gallery located in Ningbo. It is a major contemporary art institution situated on the site of the city's former port building.",
+                  "category": "museum",
+                  "coords": [
+                        121.557239,
+                        29.881016
+                  ]
+            },
+            {
+                  "name": "Ningbo Yifu Theatre",
+                  "text": "Ningbo Yifu Theatre is a notable theatre located in Ningbo. It is a prominent cultural venue in the city named after the philanthropist Run Run Shaw.",
+                  "category": "cultural",
+                  "coords": [
+                        121.543883,
+                        29.870874
+                  ]
+            },
+            {
+                  "name": "Ningbo Buddhist Lodge",
+                  "text": "Ningbo Buddhist Lodge is a notable place of worship located in Ningbo. It functions as a prominent center for Buddhist laypeople in the city.",
+                  "category": "religious",
+                  "coords": [
+                        121.53916,
+                        29.870234
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Assumption Cathedral",
+                  "text": "Our Lady of the Assumption Cathedral is a notable place of worship located in Ningbo. It serves as an important historical Catholic cathedral in the region.",
+                  "category": "religious",
+                  "coords": [
+                        121.549429,
+                        29.870573
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "Sacred Heart Cathedral is a notable place of worship located in Ningbo. It is a major historical Catholic church central to the local diocese.",
+                  "category": "religious",
+                  "coords": [
+                        121.55625,
+                        29.876926
+                  ]
+            },
+            {
+                  "name": "Qita Temple",
+                  "text": "Qita Temple is a notable place of worship located in Ningbo. It is recognized as one of the major Buddhist temples in the city's urban area.",
+                  "category": "religious",
+                  "coords": [
+                        121.563662,
+                        29.867949
+                  ]
+            },
+            {
+                  "name": "Temple of Ningbo's Patron Deity",
+                  "text": "Temple of Ningbo's Patron Deity is a notable place of worship located in Ningbo. Also known as the City God Temple, it is a key site of local traditional religion.",
+                  "category": "religious",
+                  "coords": [
+                        121.545547,
+                        29.869775
+                  ]
+            },
+            {
+                  "name": "Tianfeng Pagoda",
+                  "text": "Tianfeng Pagoda is a notable tourist attraction located in Ningbo. It is a historical tower that serves as an iconic symbol of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        121.546775,
+                        29.867933
+                  ]
+            },
+            {
+                  "name": "Tianning Temple Tower",
+                  "text": "Tianning Temple Tower is a notable tourist attraction located in Ningbo. This ancient structure is a well-preserved remnant of the historical Tianning Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        121.539064,
+                        29.876705
+                  ]
+            },
+            {
+                  "name": "Li's Ancestral Temple",
+                  "text": "Li's Ancestral Temple is a notable tourist attraction located in Ningbo. It is a traditional ancestral hall dedicated to the lineage of the local Li family.",
+                  "category": "landmark",
+                  "coords": [
+                        121.54379,
+                        29.867113
+                  ]
+            },
+            {
+                  "name": "盛氏花厅",
+                  "text": "盛氏花厅 is a notable tourist attraction located in Ningbo. It is a traditional architectural site associated with the Sheng family.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542709,
+                        29.866353
+                  ]
+            },
+            {
+                  "name": "Ningbo Drum Tower",
+                  "text": "Ningbo Drum Tower is a notable tourist attraction located in Ningbo. It is a historic architectural landmark in the city's central area.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542354,
+                        29.876265
+                  ]
+            },
+            {
+                  "name": "Ningbo Old Bund",
+                  "text": "Ningbo Old Bund is a notable tourist attraction located in Ningbo. It is one of the oldest foreign bunds in China, featuring historical colonial-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        121.55644,
+                        29.879128
+                  ]
+            },
+            {
+                  "name": "Ningbo Post Bureau in Jiangbei",
+                  "text": "Ningbo Post Bureau in Jiangbei is a notable tourist attraction located in Ningbo. The site preserves the historical building of the former postal service in the area.",
+                  "category": "landmark",
+                  "coords": [
+                        121.558004,
+                        29.883278
+                  ]
+            },
+            {
+                  "name": "Former residence of Zhangcangshui",
+                  "text": "Former residence of Zhangcangshui is a notable tourist attraction located in Ningbo. The site is historically significant as the home of the Ming dynasty loyalist Zhang Cangshui.",
+                  "category": "landmark",
+                  "coords": [
+                        121.544634,
+                        29.880305
+                  ]
+            },
+            {
+                  "name": "Xinjiang Bridge",
+                  "text": "Xinjiang Bridge is a notable bridge located in Ningbo. It is a key infrastructure piece facilitating traffic across the city's river system.",
+                  "category": "landmark",
+                  "coords": [
+                        121.555119,
+                        29.875264
+                  ]
+            },
+            {
+                  "name": "Yongjiang Bridge",
+                  "text": "Yongjiang Bridge is a notable bridge located in Ningbo. It is a major span that crosses the Yongjiang river.",
+                  "category": "landmark",
+                  "coords": [
+                        121.558257,
+                        29.877159
+                  ]
+            },
+            {
+                  "name": "Jiefang Bridge",
+                  "text": "Jiefang Bridge is a notable bridge located in Ningbo. It serves as an important crossing connection within the urban infrastructure.",
+                  "category": "landmark",
+                  "coords": [
+                        121.549673,
+                        29.881989
+                  ]
+            },
+            {
+                  "name": "永丰桥",
+                  "text": "永丰桥 is a notable bridge located in Ningbo. The structure is part of the local transportation network crossing the city's waterways.",
+                  "category": "landmark",
+                  "coords": [
+                        121.542272,
+                        29.890973
+                  ]
+            },
+            {
+                  "name": "Waitan Bridge",
+                  "text": "Waitan Bridge is a notable bridge located in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.559829,
+                        29.882746
+                  ]
+            },
+            {
+                  "name": "Jiangxia Bridge",
+                  "text": "Jiangxia Bridge is a recognized bridge situated in the city of Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.556507,
+                        29.872946
+                  ]
+            },
+            {
+                  "name": "Lingqiao Bridge",
+                  "text": "Lingqiao Bridge is a prominent bridge located in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.555568,
+                        29.86894
+                  ]
+            },
+            {
+                  "name": "Qinqiao Bridge",
+                  "text": "Qinqiao Bridge is a notable bridge in the city of Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.554862,
+                        29.865543
+                  ]
+            },
+            {
+                  "name": "Xindian Bridge",
+                  "text": "Xindian Bridge is a recognized bridge infrastructure in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.531008,
+                        29.851397
+                  ]
+            },
+            {
+                  "name": "Changfeng Bridge",
+                  "text": "Changfeng Bridge is a prominent bridge located in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.536304,
+                        29.853072
+                  ]
+            },
+            {
+                  "name": "Chenglang Bridge",
+                  "text": "Chenglang Bridge is a notable bridge situated in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.544169,
+                        29.854993
+                  ]
+            },
+            {
+                  "name": "Xingning Bridge",
+                  "text": "Xingning Bridge is a recognized bridge structure in the city of Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.548401,
+                        29.859831
+                  ]
+            },
+            {
+                  "name": "Yuehu Mosque",
+                  "text": "Yuehu Mosque is a notable place of worship located in Ningbo.",
+                  "category": "religious",
+                  "coords": [
+                        121.536131,
+                        29.87155
+                  ]
+            },
+            {
+                  "name": "董孝子庙",
+                  "text": "董孝子庙 is a recognized place of worship in the city of Ningbo.",
+                  "category": "religious",
+                  "coords": [
+                        121.52658,
+                        29.860839
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall of Ningbo-Korea Exchange History",
+                  "text": "The Exhibition Hall of Ningbo-Korea Exchange History is a notable cultural attraction in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.541466,
+                        29.87361
+                  ]
+            },
+            {
+                  "name": "Ningbo Grand Theater",
+                  "text": "Ningbo Grand Theater is a theatre venue located in Ningbo.",
+                  "category": "cultural",
+                  "coords": [
+                        121.543844,
+                        29.894633
+                  ]
+            },
+            {
+                  "name": "Lin's Residence on Zijin Street",
+                  "text": "Lin's Residence on Zijin Street is a local tourist attraction in Ningbo.",
+                  "category": "landmark",
+                  "coords": [
+                        121.540785,
+                        29.865271
+                  ]
+            },
+            {
+                  "name": "Ningbo Education Museum",
+                  "text": "Ningbo Education Museum is a museum dedicated to education in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.549146,
+                        29.878823
+                  ]
+            },
+            {
+                  "name": "Tu Youyou Museum",
+                  "text": "Tu Youyou Museum is a museum located in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.545851,
+                        29.866512
+                  ]
+            },
+            {
+                  "name": "望京门城墙遗址博物馆",
+                  "text": "望京门城墙遗址博物馆 is a local museum situated in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.534924,
+                        29.878586
+                  ]
+            },
+            {
+                  "name": "甬曹铁路宁波车站纪念馆",
+                  "text": "甬曹铁路宁波车站纪念馆 is a museum located in the city of Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.556113,
+                        29.888113
+                  ]
+            },
+            {
+                  "name": "Ningbo Laowaitan Exhibition Hall",
+                  "text": "Ningbo Laowaitan Exhibition Hall is a local museum situated in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.555548,
+                        29.877889
+                  ]
+            },
+            {
+                  "name": "浙东海事民俗博物馆",
+                  "text": "浙东海事民俗博物馆 is a museum facility in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.558823,
+                        29.874858
+                  ]
+            },
+            {
+                  "name": "宁波工业设计博物馆",
+                  "text": "宁波工业设计博物馆 is a museum located in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.564464,
+                        29.886965
+                  ]
+            },
+            {
+                  "name": "China Insurance Museum",
+                  "text": "China Insurance Museum is a museum situated in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.561706,
+                        29.888669
+                  ]
+            },
+            {
+                  "name": "Yintaidi Mansion",
+                  "text": "Yintaidi Mansion serves as a local museum in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.540156,
+                        29.874596
+                  ]
+            },
+            {
+                  "name": "宁波市文化馆",
+                  "text": "宁波市文化馆 is a cultural museum facility located in Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.549613,
+                        29.869664
+                  ]
+            },
+            {
+                  "name": "朱复戡艺术馆",
+                  "text": "朱复戡艺术馆 is an art gallery in the city of Ningbo.",
+                  "category": "museum",
+                  "coords": [
+                        121.540395,
+                        29.87999
+                  ]
+            },
+            {
+                  "name": "来远亭",
+                  "text": "来远亭 is a local monument located in Ningbo.",
+                  "category": "historical",
+                  "coords": [
+                        121.55549,
+                        29.871875
+                  ]
+            },
+            {
+                  "name": "Ningbo Concert Hall",
+                  "text": "Ningbo Concert Hall is a prominent performance venue in Ningbo.",
+                  "category": "cultural",
+                  "coords": [
+                        121.554198,
+                        29.867747
+                  ]
+            },
+            {
+                  "name": "天然舞台",
+                  "text": "天然舞台 is a theatre located in the city of Ningbo.",
+                  "category": "cultural",
+                  "coords": [
+                        121.566585,
+                        29.856581
+                  ]
+            }
+      ]
+},     type: "city",     parent: "CN-ZJ",     coords: [121.5479, 29.8683],     name: {       de: "Ningbo",       hu: "Ningpo",       ro: "Ningbo",       en: "Ningbo"},
     image: "/poi-images/ningbo-cities-v2.webp",     description: {       de: "Eine Hafenstadt in der Provinz Zhejiang mit einer langen Geschichte als wichtiger Handelsposten.",       hu: "CsÃ¶csiang tartomÃ¡ny kikÃ¶tÅ‘vÃ¡rosa, amely rÃ©gÃ³ta fontos kereskedelmi Ã¡llomÃ¡s.",       ro: "Un oraÈ™-port din provincia Zhejiang, cu o istorie lungÄƒ ca post comercial important.",       en: "A port city in Zhejiang province with a long history as a major trading post."     , es: "Una ciudad portuaria en la provincia de Zhejiang con una larga historia como importante puesto comercial.", pt: "Uma cidade portuÃ¡ria na provÃ­ncia de Zhejiang com uma longa histÃ³ria como um importante entreposto comercial.", fr: "Une ville portuaire de la province du Zhejiang avec une longue histoire en tant qu'important poste de traite."},     facts: {       de: ["Einer der verkehrsreichsten HÃ¤fen der Welt nach Frachttonnage.", "Beherbergt die Tianyi-Bibliothek, eine der Ã¤ltesten Privatbibliotheken Chinas.", "War einer der VertragshÃ¤fen, die durch den Vertrag von Nanjing 1842 geÃ¶ffnet wurden."],       hu: ["A vilÃ¡g egyik legforgalmasabb kikÃ¶tÅ‘je a teherforgalom alapjÃ¡n.", "Itt talÃ¡lhatÃ³ a Tianyi KÃ¶nyvtÃ¡r, KÃ­na egyik legrÃ©gebbi magÃ¡nkÃ¶nyvtÃ¡ra.", "Egyike volt az 1842-es nankingi szerzÅ‘dÃ©s Ã¡ltal megnyitott szerzÅ‘dÃ©ses kikÃ¶tÅ‘knek."],       ro: ["Unul dintre cele mai aglomerate porturi din lume dupÄƒ tonajul de marfÄƒ.", "GÄƒzduieÈ™te Biblioteca Tianyi, una dintre cele mai vechi biblioteci private din China.", "A fost unul dintre porturile deschise prin Tratatul de la Nanking din 1842."],       en: ["One of the world's busiest ports by cargo tonnage.", "Home to the Tianyi Library, one of the oldest private libraries in China.", "Was one of the treaty ports opened by the Treaty of Nanking in 1842."]     , es: ["Uno de los puertos mÃ¡s activos del mundo por tonelaje de carga.", "Alberga la biblioteca Tianyi, una de las bibliotecas privadas mÃ¡s antiguas de China.", "Fue uno de los puertos de tratados abiertos por el Tratado de Nanjing en 1842."], pt: ["Um dos portos mais movimentados do mundo por tonelagem de carga.", "Abriga a Biblioteca Tianyi, uma das bibliotecas privadas mais antigas da China.", "Foi um dos portos de tratado abertos pelo Tratado de Nanjing em 1842."], fr: ["L'un des ports les plus frÃ©quentÃ©s au monde en termes de tonnage de fret.", "Abrite la bibliothÃ¨que Tianyi, l'une des plus anciennes bibliothÃ¨ques privÃ©es de Chine.", "Fut l'un des ports de traitÃ© ouverts par le traitÃ© de Nankin en 1842."]}, image: "/poi-images/ningbo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ningbo, eine wichtige Hafenstadt in der Provinz Zhejiang, blickt auf eine Ã¼ber 7.000-jÃ¤hrige Siedlungsgeschichte zurÃ¼ck, die bis zur neolithischen Hemudu-Kultur reicht. Gelegen am Zusammenfluss der FlÃ¼sse Yong, Yao und Fenghua, fungierte Ningbo bereits wÃ¤hrend der Tang- und Song-Dynastien als bedeutendes maritimes Handelszentrum. Heute bildet der Hafen Ningbo-Zhoushan, gemessen am Umschlagsvolumen, den grÃ¶ÃŸten Hafenkomplex der Welt und unterstreicht die globale wirtschaftliche Bedeutung der Stadt. Neben seiner industriellen StÃ¤rke ist Ningbo ein Ort von kultureller Tiefe; die Tianyi-Ge-Bibliothek, die Ã¤lteste erhaltene Privatbibliothek Chinas, zeugt von der Gelehrsamkeit der Region. Die Architektur der Stadt bietet eine Mischung aus historischen Tempeln, wie dem Baoguo-Tempel, und modernen GeschÃ¤ftsvierteln, die das rasante Wachstum widerspiegeln. Ningbo ist zudem bekannt fÃ¼r seine wohlhabende Unternehmerkultur und dient als BrÃ¼cke fÃ¼r chinesische Ãœbersee-Investitionen. Die Stadt bleibt ein SchlÃ¼sselelement der SeidenstraÃŸen-Initiative und ein Zentrum fÃ¼r internationalen Austausch.",
@@ -262,7 +2107,1312 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       pt: [],
       fr: [],
     },
-  },   {     id: "wuxi-cities-v2",     type: "city",     parent: "CN-JS",     coords: [120.3119, 31.5689],     name: {       de: "Wuxi",       hu: "Vuhszi",       ro: "Wuxi",       en: "Wuxi"},
+  },   {     id: "wuxi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "无锡民族工商业博物馆",
+                  "text": "Museum für Industrie und Handel in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.289037,
+                        31.571637
+                  ]
+            },
+            {
+                  "name": "中国丝业博物馆",
+                  "text": "Museum der Seidenindustrie in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.309673,
+                        31.559405
+                  ]
+            },
+            {
+                  "name": "锡剧博物馆",
+                  "text": "Museum für Xiju-Oper in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.291708,
+                        31.580176
+                  ]
+            },
+            {
+                  "name": "无锡碑刻陈列馆",
+                  "text": "Ausstellungshalle für Inschriften in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.294499,
+                        31.572704
+                  ]
+            },
+            {
+                  "name": "无锡博物馆",
+                  "text": "Städtisches Museum in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.301552,
+                        31.551613
+                  ]
+            },
+            {
+                  "name": "望湖门",
+                  "text": "Historisches Wanghu-Tor in Wuxi.",
+                  "category": "castle",
+                  "coords": [
+                        120.30261,
+                        31.567401
+                  ]
+            },
+            {
+                  "name": "无锡窑群遗址博物馆",
+                  "text": "Museum der Ziegelbrennerei in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.314673,
+                        31.556833
+                  ]
+            },
+            {
+                  "name": "书码头",
+                  "text": "Theater in Wuxi.",
+                  "category": "cultural",
+                  "coords": [
+                        120.31127,
+                        31.560151
+                  ]
+            },
+            {
+                  "name": "秦古柳故居",
+                  "text": "Ehemaliges Wohnhaus von Qin Gu Liu in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.298447,
+                        31.576226
+                  ]
+            },
+            {
+                  "name": "陆定一故居",
+                  "text": "Ehemaliges Wohnhaus von Lu Dingyi in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.293284,
+                        31.581759
+                  ]
+            },
+            {
+                  "name": "阿炳故居",
+                  "text": "Ehemaliges Wohnhaus von Abing in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.297551,
+                        31.578855
+                  ]
+            },
+            {
+                  "name": "钱钟书故居",
+                  "text": "Ehemaliges Wohnhaus von Qian Zhongshu in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.293485,
+                        31.574296
+                  ]
+            },
+            {
+                  "name": "北仓门生活艺术中心",
+                  "text": "Kultur- und Kunstzentrum in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.303924,
+                        31.584101
+                  ]
+            },
+            {
+                  "name": "张闻天故居",
+                  "text": "Ehemaliges Wohnhaus von Zhang Wentian in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.293116,
+                        31.571087
+                  ]
+            },
+            {
+                  "name": "祝大椿故居",
+                  "text": "Ehemaliges Wohnhaus von Zhu Dachun in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.317746,
+                        31.558598
+                  ]
+            },
+            {
+                  "name": "清名桥古运河历史文化街区",
+                  "text": "Historisches Viertel an der Qingming-Brücke in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.312596,
+                        31.55969
+                  ]
+            },
+            {
+                  "name": "王绍先旧宅",
+                  "text": "Historisches Gebäude in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.307995,
+                        31.562375
+                  ]
+            },
+            {
+                  "name": "京杭运河泥塑展示馆",
+                  "text": "Ausstellungshalle für Tonfiguren in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.311419,
+                        31.558943
+                  ]
+            },
+            {
+                  "name": "坎宫救熄会",
+                  "text": "Historische Feuerwache in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.312345,
+                        31.55803
+                  ]
+            },
+            {
+                  "name": "鼎昌丝厂旧址",
+                  "text": "Ehemalige Dingchang-Seidenfabrik in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.30337,
+                        31.563348
+                  ]
+            },
+            {
+                  "name": "曹张路美食街Cao",
+                  "text": "Gastronomieviertel in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.295045,
+                        31.557348
+                  ]
+            },
+            {
+                  "name": "东林书院",
+                  "text": "Historische Akademie in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.303826,
+                        31.578775
+                  ]
+            },
+            {
+                  "name": "钦使第薛福成故居",
+                  "text": "Ehemaliges Wohnhaus von Qin Shicheng in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.291188,
+                        31.572924
+                  ]
+            },
+            {
+                  "name": "阳春巷",
+                  "text": "Traditionelle Gasse in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.306826,
+                        31.565294
+                  ]
+            },
+            {
+                  "name": "薛汇东住宅",
+                  "text": "Historisches Wohnhaus in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.291683,
+                        31.573843
+                  ]
+            },
+            {
+                  "name": "妙光塔",
+                  "text": "Aussichtspunkt in Wuxi.",
+                  "category": "natural",
+                  "coords": [
+                        120.304089,
+                        31.568472
+                  ]
+            },
+            {
+                  "name": "崇安阁",
+                  "text": "Historischer Pavillon in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.296043,
+                        31.579217
+                  ]
+            },
+            {
+                  "name": "陈氏旧宅",
+                  "text": "Ehemaliges Wohnhaus der Familie Chen in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.292286,
+                        31.581939
+                  ]
+            },
+            {
+                  "name": "无锡县商会旧址",
+                  "text": "Ehemaliger Standort der Handelskammer Wuxi.",
+                  "category": "historical",
+                  "coords": [
+                        120.297775,
+                        31.584595
+                  ]
+            },
+            {
+                  "name": "秦邦宪旧居",
+                  "text": "Ehemaliges Wohnhaus von Qin Bangxian in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.297243,
+                        31.57652
+                  ]
+            },
+            {
+                  "name": "顾毓琇故居",
+                  "text": "Ehemaliges Wohnhaus von Gu Yuzhen in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.297507,
+                        31.572391
+                  ]
+            },
+            {
+                  "name": "薛南溟旧宅",
+                  "text": "Ehemaliges Wohnhaus von Xue Nanming in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.309778,
+                        31.558447
+                  ]
+            },
+            {
+                  "name": "光复门",
+                  "text": "Historisches Guangfu-Stadttor in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.300406,
+                        31.586512
+                  ]
+            },
+            {
+                  "name": "钱松喦旧居",
+                  "text": "Ehemaliges Wohnhaus von Qian Songyan in Wuxi.",
+                  "category": "historical",
+                  "coords": [
+                        120.298698,
+                        31.569149
+                  ]
+            },
+            {
+                  "name": "高子止水",
+                  "text": "Historische Stätte in Wuxi.",
+                  "category": "historical",
+                  "coords": [
+                        120.300472,
+                        31.567786
+                  ]
+            },
+            {
+                  "name": "无锡清真寺",
+                  "text": "Moschee in Wuxi.",
+                  "category": "religious",
+                  "coords": [
+                        120.291473,
+                        31.571377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "无锡民族工商业博物馆",
+                  "text": "Ipar- és kereskedelmi múzeum Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.289037,
+                        31.571637
+                  ]
+            },
+            {
+                  "name": "中国丝业博物馆",
+                  "text": "Selyemipari múzeum Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.309673,
+                        31.559405
+                  ]
+            },
+            {
+                  "name": "锡剧博物馆",
+                  "text": "Xiju opera múzeum Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.291708,
+                        31.580176
+                  ]
+            },
+            {
+                  "name": "无锡碑刻陈列馆",
+                  "text": "Feliratok kiállítóterme Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.294499,
+                        31.572704
+                  ]
+            },
+            {
+                  "name": "无锡博物馆",
+                  "text": "Városi múzeum Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.301552,
+                        31.551613
+                  ]
+            },
+            {
+                  "name": "望湖门",
+                  "text": "Történelmi Wanghu-kapu Wuxiban.",
+                  "category": "castle",
+                  "coords": [
+                        120.30261,
+                        31.567401
+                  ]
+            },
+            {
+                  "name": "无锡窑群遗址博物馆",
+                  "text": "Téglaégető múzeum Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.314673,
+                        31.556833
+                  ]
+            },
+            {
+                  "name": "书码头",
+                  "text": "Színház Wuxiban.",
+                  "category": "cultural",
+                  "coords": [
+                        120.31127,
+                        31.560151
+                  ]
+            },
+            {
+                  "name": "秦古柳故居",
+                  "text": "Qin Gu Liu egykori lakóháza Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.298447,
+                        31.576226
+                  ]
+            },
+            {
+                  "name": "陆定一故居",
+                  "text": "Lu Dingyi egykori lakóháza Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.293284,
+                        31.581759
+                  ]
+            },
+            {
+                  "name": "阿炳故居",
+                  "text": "Abing egykori lakóháza Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.297551,
+                        31.578855
+                  ]
+            },
+            {
+                  "name": "钱钟书故居",
+                  "text": "Qian Zhongshu egykori lakóháza Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.293485,
+                        31.574296
+                  ]
+            },
+            {
+                  "name": "北仓门生活艺术中心",
+                  "text": "Kulturális és művészeti központ Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.303924,
+                        31.584101
+                  ]
+            },
+            {
+                  "name": "张闻天故居",
+                  "text": "Zhang Wentian egykori lakóháza Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.293116,
+                        31.571087
+                  ]
+            },
+            {
+                  "name": "祝大椿故居",
+                  "text": "Zhu Dachun egykori lakóháza Wuxiban.",
+                  "category": "museum",
+                  "coords": [
+                        120.317746,
+                        31.558598
+                  ]
+            },
+            {
+                  "name": "清名桥古运河历史文化街区",
+                  "text": "Történelmi negyed a Qingming-hídnál Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.312596,
+                        31.55969
+                  ]
+            },
+            {
+                  "name": "王绍先旧宅",
+                  "text": "Történelmi épület Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.307995,
+                        31.562375
+                  ]
+            },
+            {
+                  "name": "京杭运河泥塑展示馆",
+                  "text": "Agyagszobrok kiállítóterme Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.311419,
+                        31.558943
+                  ]
+            },
+            {
+                  "name": "坎宫救熄会",
+                  "text": "Történelmi tűzoltóállomás Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.312345,
+                        31.55803
+                  ]
+            },
+            {
+                  "name": "鼎昌丝厂旧址",
+                  "text": "Dingchang selyemgyár Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.30337,
+                        31.563348
+                  ]
+            },
+            {
+                  "name": "曹张路美食街Cao",
+                  "text": "Gasztronómiai utca Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.295045,
+                        31.557348
+                  ]
+            },
+            {
+                  "name": "东林书院",
+                  "text": "Történelmi akadémia Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.303826,
+                        31.578775
+                  ]
+            },
+            {
+                  "name": "钦使第薛福成故居",
+                  "text": "Qin Shicheng egykori lakóháza Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.291188,
+                        31.572924
+                  ]
+            },
+            {
+                  "name": "阳春巷",
+                  "text": "Hagyományos sikátor Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.306826,
+                        31.565294
+                  ]
+            },
+            {
+                  "name": "薛汇东住宅",
+                  "text": "Történelmi lakóház Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.291683,
+                        31.573843
+                  ]
+            },
+            {
+                  "name": "妙光塔",
+                  "text": "Kilátópont Wuxiban.",
+                  "category": "natural",
+                  "coords": [
+                        120.304089,
+                        31.568472
+                  ]
+            },
+            {
+                  "name": "崇安阁",
+                  "text": "Történelmi pavilon Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.296043,
+                        31.579217
+                  ]
+            },
+            {
+                  "name": "陈氏旧宅",
+                  "text": "A Chen család egykori lakóháza Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.292286,
+                        31.581939
+                  ]
+            },
+            {
+                  "name": "无锡县商会旧址",
+                  "text": "A wuxii kereskedelmi kamara egykori helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        120.297775,
+                        31.584595
+                  ]
+            },
+            {
+                  "name": "秦邦宪旧居",
+                  "text": "Qin Bangxian egykori lakóháza Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.297243,
+                        31.57652
+                  ]
+            },
+            {
+                  "name": "顾毓琇故居",
+                  "text": "Gu Yuzhen egykori lakóháza Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.297507,
+                        31.572391
+                  ]
+            },
+            {
+                  "name": "薛南溟旧宅",
+                  "text": "Xue Nanming egykori lakóháza Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.309778,
+                        31.558447
+                  ]
+            },
+            {
+                  "name": "光复门",
+                  "text": "Történelmi Guangfu-kapu Wuxiban.",
+                  "category": "landmark",
+                  "coords": [
+                        120.300406,
+                        31.586512
+                  ]
+            },
+            {
+                  "name": "钱松喦旧居",
+                  "text": "Qian Songyan egykori lakóháza Wuxiban.",
+                  "category": "historical",
+                  "coords": [
+                        120.298698,
+                        31.569149
+                  ]
+            },
+            {
+                  "name": "高子止水",
+                  "text": "Történelmi helyszín Wuxiban.",
+                  "category": "historical",
+                  "coords": [
+                        120.300472,
+                        31.567786
+                  ]
+            },
+            {
+                  "name": "无锡清真寺",
+                  "text": "Mecset Wuxiban.",
+                  "category": "religious",
+                  "coords": [
+                        120.291473,
+                        31.571377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "无锡民族工商业博物馆",
+                  "text": "Muzeu de comerț și industrie în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.289037,
+                        31.571637
+                  ]
+            },
+            {
+                  "name": "中国丝业博物馆",
+                  "text": "Muzeul industriei mătăsii în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.309673,
+                        31.559405
+                  ]
+            },
+            {
+                  "name": "锡剧博物馆",
+                  "text": "Muzeul operei Xiju în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.291708,
+                        31.580176
+                  ]
+            },
+            {
+                  "name": "无锡碑刻陈列馆",
+                  "text": "Sală de expoziție pentru inscripții în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.294499,
+                        31.572704
+                  ]
+            },
+            {
+                  "name": "无锡博物馆",
+                  "text": "Muzeul orașului Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.301552,
+                        31.551613
+                  ]
+            },
+            {
+                  "name": "望湖门",
+                  "text": "Poarta istorică Wanghu în Wuxi.",
+                  "category": "castle",
+                  "coords": [
+                        120.30261,
+                        31.567401
+                  ]
+            },
+            {
+                  "name": "无锡窑群遗址博物馆",
+                  "text": "Muzeul fabricii de cărămidă în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.314673,
+                        31.556833
+                  ]
+            },
+            {
+                  "name": "书码头",
+                  "text": "Teatru în Wuxi.",
+                  "category": "cultural",
+                  "coords": [
+                        120.31127,
+                        31.560151
+                  ]
+            },
+            {
+                  "name": "秦古柳故居",
+                  "text": "Fosta reședință a lui Qin Gu Liu în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.298447,
+                        31.576226
+                  ]
+            },
+            {
+                  "name": "陆定一故居",
+                  "text": "Fosta reședință a lui Lu Dingyi în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.293284,
+                        31.581759
+                  ]
+            },
+            {
+                  "name": "阿炳故居",
+                  "text": "Fosta reședință a lui Abing în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.297551,
+                        31.578855
+                  ]
+            },
+            {
+                  "name": "钱钟书故居",
+                  "text": "Fosta reședință a lui Qian Zhongshu în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.293485,
+                        31.574296
+                  ]
+            },
+            {
+                  "name": "北仓门生活艺术中心",
+                  "text": "Centru cultural și artistic în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.303924,
+                        31.584101
+                  ]
+            },
+            {
+                  "name": "张闻天故居",
+                  "text": "Fosta reședință a lui Zhang Wentian în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.293116,
+                        31.571087
+                  ]
+            },
+            {
+                  "name": "祝大椿故居",
+                  "text": "Fosta reședință a lui Zhu Dachun în Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.317746,
+                        31.558598
+                  ]
+            },
+            {
+                  "name": "清名桥古运河历史文化街区",
+                  "text": "Cartier istoric la Podul Qingming în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.312596,
+                        31.55969
+                  ]
+            },
+            {
+                  "name": "王绍先旧宅",
+                  "text": "Clădire istorică în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.307995,
+                        31.562375
+                  ]
+            },
+            {
+                  "name": "京杭运河泥塑展示馆",
+                  "text": "Sală de expoziție pentru sculpturi în lut în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.311419,
+                        31.558943
+                  ]
+            },
+            {
+                  "name": "坎宫救熄会",
+                  "text": "Stație istorică de pompieri în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.312345,
+                        31.55803
+                  ]
+            },
+            {
+                  "name": "鼎昌丝厂旧址",
+                  "text": "Fosta fabrică de mătase Dingchang în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.30337,
+                        31.563348
+                  ]
+            },
+            {
+                  "name": "曹张路美食街Cao",
+                  "text": "Stradă gastronomică în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.295045,
+                        31.557348
+                  ]
+            },
+            {
+                  "name": "东林书院",
+                  "text": "Academie istorică în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.303826,
+                        31.578775
+                  ]
+            },
+            {
+                  "name": "钦使第薛福成故居",
+                  "text": "Fosta reședință a lui Qin Shicheng în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.291188,
+                        31.572924
+                  ]
+            },
+            {
+                  "name": "阳春巷",
+                  "text": "Alee tradițională în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.306826,
+                        31.565294
+                  ]
+            },
+            {
+                  "name": "薛汇东住宅",
+                  "text": "Reședință istorică în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.291683,
+                        31.573843
+                  ]
+            },
+            {
+                  "name": "妙光塔",
+                  "text": "Punct de observație în Wuxi.",
+                  "category": "natural",
+                  "coords": [
+                        120.304089,
+                        31.568472
+                  ]
+            },
+            {
+                  "name": "崇安阁",
+                  "text": "Pavilion istoric în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.296043,
+                        31.579217
+                  ]
+            },
+            {
+                  "name": "陈氏旧宅",
+                  "text": "Fosta reședință a familiei Chen în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.292286,
+                        31.581939
+                  ]
+            },
+            {
+                  "name": "无锡县商会旧址",
+                  "text": "Fostul sediu al camerei de comerț din Wuxi.",
+                  "category": "historical",
+                  "coords": [
+                        120.297775,
+                        31.584595
+                  ]
+            },
+            {
+                  "name": "秦邦宪旧居",
+                  "text": "Fosta reședință a lui Qin Bangxian în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.297243,
+                        31.57652
+                  ]
+            },
+            {
+                  "name": "顾毓琇故居",
+                  "text": "Fosta reședință a lui Gu Yuzhen în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.297507,
+                        31.572391
+                  ]
+            },
+            {
+                  "name": "薛南溟旧宅",
+                  "text": "Fosta reședință a lui Xue Nanming în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.309778,
+                        31.558447
+                  ]
+            },
+            {
+                  "name": "光复门",
+                  "text": "Poarta istorică Guangfu în Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.300406,
+                        31.586512
+                  ]
+            },
+            {
+                  "name": "钱松喦旧居",
+                  "text": "Fosta reședință a lui Qian Songyan în Wuxi.",
+                  "category": "historical",
+                  "coords": [
+                        120.298698,
+                        31.569149
+                  ]
+            },
+            {
+                  "name": "高子止水",
+                  "text": "Sit istoric în Wuxi.",
+                  "category": "historical",
+                  "coords": [
+                        120.300472,
+                        31.567786
+                  ]
+            },
+            {
+                  "name": "无锡清真寺",
+                  "text": "Moschee în Wuxi.",
+                  "category": "religious",
+                  "coords": [
+                        120.291473,
+                        31.571377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wuxi National Museum of Commerce and Industry",
+                  "text": "Museum of commerce and industry in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.289037,
+                        31.571637
+                  ]
+            },
+            {
+                  "name": "China Silk Industry Museum",
+                  "text": "Silk industry museum in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.309673,
+                        31.559405
+                  ]
+            },
+            {
+                  "name": "锡剧博物馆",
+                  "text": "Xiju opera museum in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.291708,
+                        31.580176
+                  ]
+            },
+            {
+                  "name": "Wuxi Inscription Exhibition Hall",
+                  "text": "Inscription exhibition hall in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.294499,
+                        31.572704
+                  ]
+            },
+            {
+                  "name": "Wuxi Museum",
+                  "text": "City museum in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.301552,
+                        31.551613
+                  ]
+            },
+            {
+                  "name": "Wanghu Gate",
+                  "text": "Historic Wanghu gate in Wuxi.",
+                  "category": "castle",
+                  "coords": [
+                        120.30261,
+                        31.567401
+                  ]
+            },
+            {
+                  "name": "Wuxi Brickkiln Group Museum",
+                  "text": "Brick kiln museum in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.314673,
+                        31.556833
+                  ]
+            },
+            {
+                  "name": "书码头",
+                  "text": "Theatre in Wuxi.",
+                  "category": "cultural",
+                  "coords": [
+                        120.31127,
+                        31.560151
+                  ]
+            },
+            {
+                  "name": "Qin Gu Liu Former Residence",
+                  "text": "Former residence of Qin Gu Liu in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.298447,
+                        31.576226
+                  ]
+            },
+            {
+                  "name": "陆定一故居",
+                  "text": "Former residence of Lu Dingyi in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.293284,
+                        31.581759
+                  ]
+            },
+            {
+                  "name": "阿炳故居",
+                  "text": "Former residence of Abing in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.297551,
+                        31.578855
+                  ]
+            },
+            {
+                  "name": "钱钟书故居",
+                  "text": "Former residence of Qian Zhongshu in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.293485,
+                        31.574296
+                  ]
+            },
+            {
+                  "name": "北仓门生活艺术中心",
+                  "text": "Cultural and arts centre in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.303924,
+                        31.584101
+                  ]
+            },
+            {
+                  "name": "Zhang Wentian's Former Residence",
+                  "text": "Former residence of Zhang Wentian in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.293116,
+                        31.571087
+                  ]
+            },
+            {
+                  "name": "Former Residence of Zhu Dachun",
+                  "text": "Former residence of Zhu Dachun in Wuxi.",
+                  "category": "museum",
+                  "coords": [
+                        120.317746,
+                        31.558598
+                  ]
+            },
+            {
+                  "name": "Qingming Bridge & Ancient Grand Canal Blocks",
+                  "text": "Historic district at Qingming Bridge in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.312596,
+                        31.55969
+                  ]
+            },
+            {
+                  "name": "王绍先旧宅",
+                  "text": "Historic building in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.307995,
+                        31.562375
+                  ]
+            },
+            {
+                  "name": "Jinghang Canal Clay Sculpture Exhibition Hall",
+                  "text": "Clay sculpture exhibition hall in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.311419,
+                        31.558943
+                  ]
+            },
+            {
+                  "name": "坎宫救熄会",
+                  "text": "Historic fire station in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.312345,
+                        31.55803
+                  ]
+            },
+            {
+                  "name": "鼎昌丝厂旧址",
+                  "text": "Former Dingchang silk factory in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.30337,
+                        31.563348
+                  ]
+            },
+            {
+                  "name": "Cao Zhang Road Food street",
+                  "text": "Food street in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.295045,
+                        31.557348
+                  ]
+            },
+            {
+                  "name": "Donglin College",
+                  "text": "Historic academy in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.303826,
+                        31.578775
+                  ]
+            },
+            {
+                  "name": "Qin Shicheng’s former residence",
+                  "text": "Former residence of Qin Shicheng in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.291188,
+                        31.572924
+                  ]
+            },
+            {
+                  "name": "Yangchun Alley",
+                  "text": "Traditional alley in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.306826,
+                        31.565294
+                  ]
+            },
+            {
+                  "name": "薛汇东住宅",
+                  "text": "Historic residence in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.291683,
+                        31.573843
+                  ]
+            },
+            {
+                  "name": "Wonder Tower",
+                  "text": "Viewpoint in Wuxi.",
+                  "category": "natural",
+                  "coords": [
+                        120.304089,
+                        31.568472
+                  ]
+            },
+            {
+                  "name": "Chong'an Pavilion",
+                  "text": "Historic pavilion in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.296043,
+                        31.579217
+                  ]
+            },
+            {
+                  "name": "陈氏旧宅",
+                  "text": "Former residence of the Chen family in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.292286,
+                        31.581939
+                  ]
+            },
+            {
+                  "name": "Former Site of Wuxi County Chamber of Commerce",
+                  "text": "Former site of the Wuxi Chamber of Commerce.",
+                  "category": "historical",
+                  "coords": [
+                        120.297775,
+                        31.584595
+                  ]
+            },
+            {
+                  "name": "Qin Bangxian Former Residence",
+                  "text": "Former residence of Qin Bangxian in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.297243,
+                        31.57652
+                  ]
+            },
+            {
+                  "name": "Gu Yuzhen's Former Residence",
+                  "text": "Former residence of Gu Yuzhen in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.297507,
+                        31.572391
+                  ]
+            },
+            {
+                  "name": "薛南溟旧宅",
+                  "text": "Former residence of Xue Nanming in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.309778,
+                        31.558447
+                  ]
+            },
+            {
+                  "name": "光复门",
+                  "text": "Historic Guangfu city gate in Wuxi.",
+                  "category": "landmark",
+                  "coords": [
+                        120.300406,
+                        31.586512
+                  ]
+            },
+            {
+                  "name": "钱松喦旧居",
+                  "text": "Former residence of Qian Songyan in Wuxi.",
+                  "category": "historical",
+                  "coords": [
+                        120.298698,
+                        31.569149
+                  ]
+            },
+            {
+                  "name": "高子止水",
+                  "text": "Historic site in Wuxi.",
+                  "category": "historical",
+                  "coords": [
+                        120.300472,
+                        31.567786
+                  ]
+            },
+            {
+                  "name": "Wuxi Mosque",
+                  "text": "Mosque in Wuxi.",
+                  "category": "religious",
+                  "coords": [
+                        120.291473,
+                        31.571377
+                  ]
+            }
+      ]
+},     type: "city",     parent: "CN-JS",     coords: [120.3119, 31.5689],     name: {       de: "Wuxi",       hu: "Vuhszi",       ro: "Wuxi",       en: "Wuxi"},
     image: "/poi-images/wuxi-cities-v2.webp",     description: {       de: "Eine alte Stadt in der Provinz Jiangsu, am Ufer des Taihu-Sees gelegen.",       hu: "Csiangszu tartomÃ¡ny Å‘si vÃ¡rosa, a Taihu-tÃ³ partjÃ¡n fekszik.",       ro: "Un oraÈ™ vechi din provincia Jiangsu, situat pe malul lacului Taihu.",       en: "An ancient city in Jiangsu province, situated on the banks of Lake Tai."     , es: "Una ciudad antigua en la provincia de Jiangsu, situada a orillas del lago Taihu.", pt: "Uma cidade antiga na provÃ­ncia de Jiangsu, situada Ã s margens do lago Taihu.", fr: "Une ville ancienne de la province du Jiangsu, situÃ©e sur les rives du lac Taihu."},     facts: {       de: ["Bekannt als die 'Perle des Taihu-Sees'.", "Wichtiger Industriestandort, insbesondere fÃ¼r Textilien und Fertigung.", "Der Lingshan Grand Buddha ist eine berÃ¼hmte Attraktion."],       hu: ["A 'Taihu-tÃ³ gyÃ¶ngyszemekÃ©nt' ismert.", "Fontos ipari kÃ¶zpont, kÃ¼lÃ¶nÃ¶sen a textil- Ã©s a feldolgozÃ³ipar terÃ¼letÃ©n.", "A Lingshan Nagy Buddha hÃ­res lÃ¡tvÃ¡nyossÃ¡g."],       ro: ["Cunoscut sub numele de 'Perla Lacului Taihu'.", "Un centru industrial important, Ã®n special pentru textile È™i producÈ›ie.", "Marele Buddha din Lingshan este o atracÈ›ie faimoasÄƒ."],       en: ["Known as the 'Pearl of Lake Tai'.", "An important industrial hub, especially for textiles and manufacturing.", "The Lingshan Grand Buddha is a famous attraction."]     , es: ["Conocida como la 'Perla del Lago Taihu'.", "Importante centro industrial, especialmente en textiles y manufactura.", "El Gran Buda de Lingshan es una atracciÃ³n famosa."], pt: ["Conhecida como a 'PÃ©rola do Lago Taihu'.", "Importante centro industrial, especialmente em tÃªxteis e manufatura.", "O Grande Buda de Lingshan Ã© uma atraÃ§Ã£o famosa."], fr: ["Connue comme la 'Perle du lac Taihu'.", "Important centre industriel, notamment pour le textile et la manufacture.", "Le Grand Bouddha de Lingshan est une attraction cÃ©lÃ¨bre."]}, image: "/poi-images/wuxi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Wuxi, gelegen in der Provinz Jiangsu am Nordufer des Tai-Sees, ist eine bedeutende Industriestadt mit einer tief verwurzelten kulturellen IdentitÃ¤t. Die Stadt wird oft als 'Perle des Tai-Sees' bezeichnet und ist durchzogen vom Kaiserkanal, der seit Jahrhunderten den Handel und Transport prÃ¤gt. Wuxi blickt auf eine Ã¼ber 3.000-jÃ¤hrige Geschichte zurÃ¼ck und war bereits in der Zhou-Dynastie ein Zentrum fÃ¼r den Zinnabbau, worauf auch ihr Name ('ohne Zinn') anspielt, nachdem die Ressourcen erschÃ¶pft waren. Heute ist Wuxi ein fÃ¼hrendes Zentrum fÃ¼r moderne Fertigung, Textilien und Informationstechnologie innerhalb des Jangtse-Deltas. Touristisch besticht die Stadt durch den Lingshan-Riesenguanyin und den malerischen SchildkrÃ¶tenkopf-Park am Seeufer. Die traditionelle KÃ¼che von Wuxi, bekannt fÃ¼r ihren sÃ¼ÃŸlichen Geschmack, und die berÃ¼hmten Huishan-Tonfiguren sind wesentliche Bestandteile des regionalen Erbes. Wuxi verkÃ¶rpert den Wandel von einer historischen Handelsstadt zu einer hochmodernen Metropole, ohne ihre landschaftlichen Reize zu verlieren.",
@@ -279,7 +3429,556 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       pt: [],
       fr: [],
     },
-  },   {     id: "foshan-cities-v2",     type: "city",     parent: "CN-GD",     coords: [113.1219, 23.0215],     name: {       de: "Foshan",       hu: "Fosan",       ro: "Foshan",       en: "Foshan"},
+  },   {     id: "foshan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "李众胜堂祖铺 李众胜堂祖铺",
+                  "text": "Der Li Chung Shing Tong Ancestral Shop ist ein bekanntes Museum in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.10998,
+                        23.031869
+                  ]
+            },
+            {
+                  "name": "佛山祖庙",
+                  "text": "Der Foshan Ancestral Temple ist ein sehr bekanntes Museum in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.107831,
+                        23.031619
+                  ]
+            },
+            {
+                  "name": "塔坡古迹（塔坡庙和井）",
+                  "text": "塔坡古迹（塔坡庙和井） ist ein bekanntes Museum in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.116228,
+                        23.027763
+                  ]
+            },
+            {
+                  "name": "禅城区文化馆",
+                  "text": "禅城区文化馆 ist ein Museum in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.103956,
+                        23.022113
+                  ]
+            },
+            {
+                  "name": "佛山乐园",
+                  "text": "Das Foshan Amusement Park Recreation Center ist ein Freizeitpark in Foshan.",
+                  "category": "recreational",
+                  "coords": [
+                        113.104235,
+                        23.024072
+                  ]
+            },
+            {
+                  "name": "琼花大剧院（佛山市影剧院）",
+                  "text": "Das Foshan City Theater ist ein lokales Theater in Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.105959,
+                        23.034608
+                  ]
+            },
+            {
+                  "name": "南海影剧院",
+                  "text": "南海影剧院 ist ein Theater in Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.142063,
+                        23.030001
+                  ]
+            },
+            {
+                  "name": "广东粤剧博物馆",
+                  "text": "Das Guangdong Cantonese Opera Museum ist ein lokales Museum in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.114422,
+                        23.029748
+                  ]
+            },
+            {
+                  "name": "佛山粤剧院",
+                  "text": "Das Foshan Cantonese Opera Theatre ist ein Theater in Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.121815,
+                        23.028031
+                  ]
+            },
+            {
+                  "name": "佛山古镇历史风貌展示馆",
+                  "text": "佛山古镇历史风貌展示馆 ist ein historisches Museum in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.107827,
+                        23.041555
+                  ]
+            },
+            {
+                  "name": "佛山警察博物馆",
+                  "text": "佛山警察博物馆 ist ein lokales Polizeimuseum in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.125622,
+                        22.995738
+                  ]
+            },
+            {
+                  "name": "亚洲艺术公园",
+                  "text": "Der Asia Arts Park ist ein öffentlicher Park in Foshan.",
+                  "category": "park",
+                  "coords": [
+                        113.128179,
+                        23.005745
+                  ]
+            },
+            {
+                  "name": "文华公园",
+                  "text": "Der Wenhua Park ist ein Erholungspark in Foshan.",
+                  "category": "park",
+                  "coords": [
+                        113.120864,
+                        23.012931
+                  ]
+            },
+            {
+                  "name": "佛山市石景宜刘紫英伉俪文化艺术馆",
+                  "text": "佛山市石景宜刘紫英伉俪文化艺术馆 ist ein Kunstzentrum in Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.107405,
+                        23.012796
+                  ]
+            },
+            {
+                  "name": "基督教赉恩堂",
+                  "text": "基督教赉恩堂 ist ein bekanntes Gotteshaus in Foshan.",
+                  "category": "religious",
+                  "coords": [
+                        113.109999,
+                        23.036621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "李众胜堂祖铺 李众胜堂祖铺",
+                  "text": "A Li Chung Shing Tong Ancestral Shop egy nevezetes múzeum Foshan városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.10998,
+                        23.031869
+                  ]
+            },
+            {
+                  "name": "佛山祖庙",
+                  "text": "A Foshan Ancestral Temple egy széles körben ismert múzeum Foshan városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.107831,
+                        23.031619
+                  ]
+            },
+            {
+                  "name": "塔坡古迹（塔坡庙和井）",
+                  "text": "A 塔坡古迹（塔坡庙和井） egy elismert múzeum Foshan városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.116228,
+                        23.027763
+                  ]
+            },
+            {
+                  "name": "禅城区文化馆",
+                  "text": "A 禅城区文化馆 egy múzeum Foshan városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.103956,
+                        23.022113
+                  ]
+            },
+            {
+                  "name": "佛山乐园",
+                  "text": "A Foshan Amusement Park Recreation Center egy vidámpark Foshan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        113.104235,
+                        23.024072
+                  ]
+            },
+            {
+                  "name": "琼花大剧院（佛山市影剧院）",
+                  "text": "A Foshan City Theater egy helyi színház Foshan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        113.105959,
+                        23.034608
+                  ]
+            },
+            {
+                  "name": "南海影剧院",
+                  "text": "A 南海影剧院 egy színház Foshan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        113.142063,
+                        23.030001
+                  ]
+            },
+            {
+                  "name": "广东粤剧博物馆",
+                  "text": "A Guangdong Cantonese Opera Museum egy helyi múzeum Foshan városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.114422,
+                        23.029748
+                  ]
+            },
+            {
+                  "name": "佛山粤剧院",
+                  "text": "A Foshan Cantonese Opera Theatre egy színház Foshan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        113.121815,
+                        23.028031
+                  ]
+            },
+            {
+                  "name": "佛山古镇历史风貌展示馆",
+                  "text": "A 佛山古镇历史风貌展示馆 egy történelmi múzeum Foshan városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.107827,
+                        23.041555
+                  ]
+            },
+            {
+                  "name": "佛山警察博物馆",
+                  "text": "A 佛山警察博物馆 egy helyi rendőrségi múzeum Foshan városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.125622,
+                        22.995738
+                  ]
+            },
+            {
+                  "name": "亚洲艺术公园",
+                  "text": "Az Asia Arts Park egy közpark Foshan városában.",
+                  "category": "park",
+                  "coords": [
+                        113.128179,
+                        23.005745
+                  ]
+            },
+            {
+                  "name": "文华公园",
+                  "text": "A Wenhua Park egy szabadidőpark Foshan városában.",
+                  "category": "park",
+                  "coords": [
+                        113.120864,
+                        23.012931
+                  ]
+            },
+            {
+                  "name": "佛山市石景宜刘紫英伉俪文化艺术馆",
+                  "text": "A 佛山市石景宜刘紫英伉俪文化艺术馆 egy művészeti központ Foshan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        113.107405,
+                        23.012796
+                  ]
+            },
+            {
+                  "name": "基督教赉恩堂",
+                  "text": "A 基督教赉恩堂 egy nevezetes imahely Foshan városában.",
+                  "category": "religious",
+                  "coords": [
+                        113.109999,
+                        23.036621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "李众胜堂祖铺 李众胜堂祖铺",
+                  "text": "Magazinul Ancestral Li Chung Shing Tong este un muzeu notabil situat în Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.10998,
+                        23.031869
+                  ]
+            },
+            {
+                  "name": "佛山祖庙",
+                  "text": "Templul Ancestral din Foshan este un muzeu foarte recunoscut din Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.107831,
+                        23.031619
+                  ]
+            },
+            {
+                  "name": "塔坡古迹（塔坡庙和井）",
+                  "text": "塔坡古迹（塔坡庙和井） este un muzeu recunoscut din Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.116228,
+                        23.027763
+                  ]
+            },
+            {
+                  "name": "禅城区文化馆",
+                  "text": "禅城区文化馆 este un muzeu situat în Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.103956,
+                        23.022113
+                  ]
+            },
+            {
+                  "name": "佛山乐园",
+                  "text": "Foshan Amusement Park Recreation Center este un parc de distracții situat în Foshan.",
+                  "category": "recreational",
+                  "coords": [
+                        113.104235,
+                        23.024072
+                  ]
+            },
+            {
+                  "name": "琼花大剧院（佛山市影剧院）",
+                  "text": "Foshan City Theater este un teatru local din Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.105959,
+                        23.034608
+                  ]
+            },
+            {
+                  "name": "南海影剧院",
+                  "text": "南海影剧院 este un teatru situat în Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.142063,
+                        23.030001
+                  ]
+            },
+            {
+                  "name": "广东粤剧博物馆",
+                  "text": "Guangdong Cantonese Opera Museum este un muzeu local din Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.114422,
+                        23.029748
+                  ]
+            },
+            {
+                  "name": "佛山粤剧院",
+                  "text": "Foshan Cantonese Opera Theatre este un teatru din Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.121815,
+                        23.028031
+                  ]
+            },
+            {
+                  "name": "佛山古镇历史风貌展示馆",
+                  "text": "佛山古镇历史风貌展示馆 este un muzeu istoric situat în Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.107827,
+                        23.041555
+                  ]
+            },
+            {
+                  "name": "佛山警察博物馆",
+                  "text": "佛山警察博物馆 este un muzeu al poliției din Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.125622,
+                        22.995738
+                  ]
+            },
+            {
+                  "name": "亚洲艺术公园",
+                  "text": "Asia Arts Park este un parc public situat în Foshan.",
+                  "category": "park",
+                  "coords": [
+                        113.128179,
+                        23.005745
+                  ]
+            },
+            {
+                  "name": "文华公园",
+                  "text": "Wenhua Park este un parc de agrement situat în Foshan.",
+                  "category": "park",
+                  "coords": [
+                        113.120864,
+                        23.012931
+                  ]
+            },
+            {
+                  "name": "佛山市石景宜刘紫英伉俪文化艺术馆",
+                  "text": "佛山市石景宜刘紫英伉俪文化艺术馆 este un centru de arte din Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.107405,
+                        23.012796
+                  ]
+            },
+            {
+                  "name": "基督教赉恩堂",
+                  "text": "基督教赉恩堂 este un lăcaș de cult notabil din Foshan.",
+                  "category": "religious",
+                  "coords": [
+                        113.109999,
+                        23.036621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Li Chung Shing Tong Ancestral Shop",
+                  "text": "Li Chung Shing Tong Ancestral Shop is a notable museum located in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.10998,
+                        23.031869
+                  ]
+            },
+            {
+                  "name": "Foshan Ancestral Temple",
+                  "text": "Foshan Ancestral Temple is a highly recognized museum in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.107831,
+                        23.031619
+                  ]
+            },
+            {
+                  "name": "塔坡古迹（塔坡庙和井）",
+                  "text": "塔坡古迹（塔坡庙和井） is a recognized museum and historical site in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.116228,
+                        23.027763
+                  ]
+            },
+            {
+                  "name": "禅城区文化馆",
+                  "text": "禅城区文化馆 is a museum located in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.103956,
+                        23.022113
+                  ]
+            },
+            {
+                  "name": "Foshan Amusement Park Recreation Center",
+                  "text": "Foshan Amusement Park Recreation Center is a theme park situated in Foshan.",
+                  "category": "recreational",
+                  "coords": [
+                        113.104235,
+                        23.024072
+                  ]
+            },
+            {
+                  "name": "Foshan City Theater",
+                  "text": "Foshan City Theater is a local theatre venue in Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.105959,
+                        23.034608
+                  ]
+            },
+            {
+                  "name": "南海影剧院",
+                  "text": "南海影剧院 is a theatre located in Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.142063,
+                        23.030001
+                  ]
+            },
+            {
+                  "name": "Guangdong Cantonese Opera Museum",
+                  "text": "Guangdong Cantonese Opera Museum is a local museum in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.114422,
+                        23.029748
+                  ]
+            },
+            {
+                  "name": "Foshan Cantonese Opera Theatre",
+                  "text": "Foshan Cantonese Opera Theatre is a theatre venue in Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.121815,
+                        23.028031
+                  ]
+            },
+            {
+                  "name": "佛山古镇历史风貌展示馆",
+                  "text": "佛山古镇历史风貌展示馆 is a historical museum located in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.107827,
+                        23.041555
+                  ]
+            },
+            {
+                  "name": "佛山警察博物馆",
+                  "text": "佛山警察博物馆 is a local police museum in Foshan.",
+                  "category": "museum",
+                  "coords": [
+                        113.125622,
+                        22.995738
+                  ]
+            },
+            {
+                  "name": "Asia Arts Park",
+                  "text": "Asia Arts Park is a public park located in Foshan.",
+                  "category": "park",
+                  "coords": [
+                        113.128179,
+                        23.005745
+                  ]
+            },
+            {
+                  "name": "Wenhua Park",
+                  "text": "Wenhua Park is a recreational park situated in Foshan.",
+                  "category": "park",
+                  "coords": [
+                        113.120864,
+                        23.012931
+                  ]
+            },
+            {
+                  "name": "佛山市石景宜刘紫英伉俪文化艺术馆",
+                  "text": "佛山市石景宜刘紫英伉俪文化艺术馆 is an arts centre in Foshan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.107405,
+                        23.012796
+                  ]
+            },
+            {
+                  "name": "基督教赉恩堂",
+                  "text": "基督教赉恩堂 is a notable place of worship in Foshan.",
+                  "category": "religious",
+                  "coords": [
+                        113.109999,
+                        23.036621
+                  ]
+            }
+      ]
+},     type: "city",     parent: "CN-GD",     coords: [113.1219, 23.0215],     name: {       de: "Foshan",       hu: "Fosan",       ro: "Foshan",       en: "Foshan"},
     image: "/poi-images/foshan-cities-v2.webp",     description: {       de: "Eine Stadt in der Provinz Guangdong, bekannt fÃ¼r ihre Keramik- und MÃ¶belindustrie sowie als Geburtsort der kantonesischen Oper.",       hu: "Kuangtung tartomÃ¡ny egyik vÃ¡rosa, amely kerÃ¡mia- Ã©s bÃºtoriparÃ¡rÃ³l, valamint a kantoni opera szÃ¼lÅ‘helyekÃ©nt ismert.",       ro: "Un oraÈ™ din provincia Guangdong, renumit pentru industria sa de ceramicÄƒ È™i mobilier È™i ca loc de naÈ™tere al operei cantoneze.",       en: "A city in Guangdong province, famous for its ceramics and furniture industries, and as the birthplace of Cantonese opera."     , es: "Una ciudad de la provincia de Guangdong, conocida por su industria de cerÃ¡mica y muebles, y por ser la cuna de la Ã³pera cantonesa.", pt: "Uma cidade na provÃ­ncia de Guangdong, conhecida pela sua indÃºstria de cerÃ¢mica e mobiliÃ¡rio, e por ser o berÃ§o da Ã³pera cantonesa.", fr: "Une ville de la province du Guangdong, connue pour son industrie de la cÃ©ramique et du meuble, ainsi que pour Ãªtre le berceau de l'opÃ©ra cantonais."},     facts: {       de: ["Zentrum der Kampfkunst, insbesondere des Wing Chun.", "Historisch eine der vier groÃŸen HandelsstÃ¤dte Chinas.", "Der Foshan-Ahnentempel ist ein wichtiges Wahrzeichen."],       hu: ["A harcmÅ±vÃ©szetek, kÃ¼lÃ¶nÃ¶sen a Wing Chun kÃ¶zpontja.", "TÃ¶rtÃ©nelmileg KÃ­na nÃ©gy nagy kereskedÅ‘vÃ¡rosÃ¡nak egyike.", "A Foshan Åsi Templom fontos nevezetessÃ©g."],       ro: ["Un centru al artelor marÈ›iale, Ã®n special Wing Chun.", "Istoric, unul dintre cele patru mari oraÈ™e comerciale din China.", "Templul Ancestral Foshan este un reper important."],       en: ["A center for martial arts, especially Wing Chun.", "Historically one of the four great commercial towns in China.", "The Foshan Ancestral Temple is a key landmark."]     , es: ["Centro de artes marciales, especialmente Wing Chun.", "HistÃ³ricamente una de las cuatro grandes ciudades comerciales de China.", "El Templo de los Ancestros de Foshan es un hito importante."], pt: ["Centro de artes marciais, especialmente Wing Chun.", "Historicamente uma das quatro grandes cidades comerciais da China.", "O Templo Ancestral de Foshan Ã© um marco importante."], fr: ["Centre des arts martiaux, particuliÃ¨rement du Wing Chun.", "Historiquement l'une des quatre grandes citÃ©s marchandes de Chine.", "Le temple ancestral de Foshan est un monument emblÃ©matique."]}, image: "/poi-images/foshan-cities-v2.webp",
     descriptionAdvanced: {
       de: "Foshan, im Herzen des Pearl River Deltas in der Provinz Guangdong gelegen, ist eine Stadt mit einer herausragenden kulturellen und industriellen Geschichte. Bekannt als Wiege der kantonesischen Oper und der Kampfkunst, ist Foshan die Heimat legendÃ¤rer Meister wie Wong Fei-hung und Ip Man. Die Stadt blickt auf eine Ã¼ber 1.000-jÃ¤hrige Tradition in der Keramikherstellung zurÃ¼ck, wobei der Nanfeng-Ofen seit der Ming-Dynastie ununterbrochen in Betrieb ist. Heute ist Foshan eine der fÃ¼hrenden Fertigungsmetropolen Chinas, insbesondere in den Bereichen HaushaltsgerÃ¤te und MÃ¶bel. Die Stadt bewahrt ihren traditionellen Charme durch den Ahnentempel (Zumiao), ein Meisterwerk der Lingnan-Architektur, das auch als Zentrum fÃ¼r LÃ¶wentanzvorfÃ¼hrungen dient. Die enge wirtschaftliche Integration mit dem benachbarten Guangzhou hat Foshan zu einem integralen Bestandteil einer der grÃ¶ÃŸten MegastÃ¤dte der Welt gemacht. Foshan bleibt ein unverzichtbares Zentrum fÃ¼r alle, die sich fÃ¼r die tiefe kulturelle IdentitÃ¤t SÃ¼dchinas interessieren.",
@@ -299,7 +3998,268 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       pt: ["PopulaÃ§Ã£o de cerca de 9,5 milhÃµes de pessoas", "O Templo Ancestral foi construÃ­do no ano 1078", "O forno Nanfeng tem mais de 500 anos", "Outrora uma das quatro cidades mais famosas da China", "Centro da indÃºstria de mobiliÃ¡rio e eletrodomÃ©sticos", "Lar do lendÃ¡rio mestre Wong Fei-hung"],
       fr: ["Population d'environ 9,5 millions d'habitants", "Le temple ancestral a Ã©tÃ© construit en 1078", "Le four Nanfeng a plus de 500 ans", "Autrefois l'une des quatre villes les plus cÃ©lÃ¨bres de Chine", "Centre de l'industrie du meuble et de l'Ã©lectromÃ©nager", "Patrie du maÃ®tre lÃ©gendaire Wong Fei-hung"],
     },
-  },   {     id: "dongguan-cities-v2",     type: "city",     parent: "CN-GD",     coords: [113.7518, 23.0489],     name: {       de: "Dongguan",       hu: "Tungkuan",       ro: "Dongguan",       en: "Dongguan"},
+  },   {     id: "dongguan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "迎恩门城楼",
+                  "text": "Ying'enmen ist eine historische Burganlage in Dongguan.",
+                  "category": "castle",
+                  "coords": [
+                        113.745342,
+                        23.044825
+                  ]
+            },
+            {
+                  "name": "东莞博物馆",
+                  "text": "Das Dongguan Museum ist ein informatives Museum in der Stadt Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.750809,
+                        23.043118
+                  ]
+            },
+            {
+                  "name": "可园博物馆",
+                  "text": "Das Keyuan Museum ist ein kulturelles Museum in Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.7384,
+                        23.045608
+                  ]
+            },
+            {
+                  "name": "东莞蚝岗遗址博物馆",
+                  "text": "Das 东莞蚝岗遗址博物馆 ist ein historisches Museum in Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.734387,
+                        23.029763
+                  ]
+            },
+            {
+                  "name": "森晖博物馆",
+                  "text": "Das Senhui Museum ist ein lokales Museum in Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.735496,
+                        23.043312
+                  ]
+            },
+            {
+                  "name": "金鳌洲塔",
+                  "text": "金鳌洲塔 ist ein historisches Denkmal in der Stadt Dongguan.",
+                  "category": "historical",
+                  "coords": [
+                        113.731326,
+                        23.041245
+                  ]
+            },
+            {
+                  "name": "岭南美术馆",
+                  "text": "Das Lingnan Art Museum ist ein Kunstzentrum in der Stadt Dongguan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.737058,
+                        23.046336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "迎恩门城楼",
+                  "text": "A Ying'enmen egy történelmi várkastély Dongguanban.",
+                  "category": "castle",
+                  "coords": [
+                        113.745342,
+                        23.044825
+                  ]
+            },
+            {
+                  "name": "东莞博物馆",
+                  "text": "A Dongguan Museum egy informatív múzeum Dongguan városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.750809,
+                        23.043118
+                  ]
+            },
+            {
+                  "name": "可园博物馆",
+                  "text": "A Keyuan Museum egy kulturális múzeum Dongguanban.",
+                  "category": "museum",
+                  "coords": [
+                        113.7384,
+                        23.045608
+                  ]
+            },
+            {
+                  "name": "东莞蚝岗遗址博物馆",
+                  "text": "A 东莞蚝岗遗址博物馆 egy történelmi múzeum Dongguanban.",
+                  "category": "museum",
+                  "coords": [
+                        113.734387,
+                        23.029763
+                  ]
+            },
+            {
+                  "name": "森晖博物馆",
+                  "text": "A Senhui Museum egy helyi múzeum Dongguanban.",
+                  "category": "museum",
+                  "coords": [
+                        113.735496,
+                        23.043312
+                  ]
+            },
+            {
+                  "name": "金鳌洲塔",
+                  "text": "A 金鳌洲塔 egy történelmi emlékmű Dongguan városában.",
+                  "category": "historical",
+                  "coords": [
+                        113.731326,
+                        23.041245
+                  ]
+            },
+            {
+                  "name": "岭南美术馆",
+                  "text": "A Lingnan Művészeti Múzeum egy művészeti központ Dongguan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        113.737058,
+                        23.046336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "迎恩门城楼",
+                  "text": "Ying'enmen este o structură istorică de castel situată în Dongguan.",
+                  "category": "castle",
+                  "coords": [
+                        113.745342,
+                        23.044825
+                  ]
+            },
+            {
+                  "name": "东莞博物馆",
+                  "text": "Muzeul Dongguan este un muzeu informativ situat în orașul Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.750809,
+                        23.043118
+                  ]
+            },
+            {
+                  "name": "可园博物馆",
+                  "text": "Muzeul Keyuan este un muzeu cultural situat în Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.7384,
+                        23.045608
+                  ]
+            },
+            {
+                  "name": "东莞蚝岗遗址博物馆",
+                  "text": "东莞蚝岗遗址博物馆 este un muzeu istoric situat în Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.734387,
+                        23.029763
+                  ]
+            },
+            {
+                  "name": "森晖博物馆",
+                  "text": "Muzeul Senhui este un muzeu local situat în Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.735496,
+                        23.043312
+                  ]
+            },
+            {
+                  "name": "金鳌洲塔",
+                  "text": "金鳌洲塔 este un monument istoric situat în orașul Dongguan.",
+                  "category": "historical",
+                  "coords": [
+                        113.731326,
+                        23.041245
+                  ]
+            },
+            {
+                  "name": "岭南美术馆",
+                  "text": "Lingnan Art Museum este un centru de artă din orașul Dongguan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.737058,
+                        23.046336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ying'enmen",
+                  "text": "Ying'enmen is a historical castle structure located in Dongguan.",
+                  "category": "castle",
+                  "coords": [
+                        113.745342,
+                        23.044825
+                  ]
+            },
+            {
+                  "name": "Dongguan Museum",
+                  "text": "Dongguan Museum is an informative museum located in the city of Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.750809,
+                        23.043118
+                  ]
+            },
+            {
+                  "name": "Keyuan Museum",
+                  "text": "Keyuan Museum is a cultural museum situated in Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.7384,
+                        23.045608
+                  ]
+            },
+            {
+                  "name": "东莞蚝岗遗址博物馆",
+                  "text": "东莞蚝岗遗址博物馆 is a historical museum located in Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.734387,
+                        23.029763
+                  ]
+            },
+            {
+                  "name": "Senhui Museum",
+                  "text": "Senhui Museum is a local museum situated in Dongguan.",
+                  "category": "museum",
+                  "coords": [
+                        113.735496,
+                        23.043312
+                  ]
+            },
+            {
+                  "name": "金鳌洲塔",
+                  "text": "金鳌洲塔 is a historical monument situated in the city of Dongguan.",
+                  "category": "historical",
+                  "coords": [
+                        113.731326,
+                        23.041245
+                  ]
+            },
+            {
+                  "name": "Lingnan Art Museum",
+                  "text": "The Lingnan Art Museum is an arts centre located in the city of Dongguan.",
+                  "category": "cultural",
+                  "coords": [
+                        113.737058,
+                        23.046336
+                  ]
+            }
+      ]
+},     type: "city",     parent: "CN-GD",     coords: [113.7518, 23.0489],     name: {       de: "Dongguan",       hu: "Tungkuan",       ro: "Dongguan",       en: "Dongguan"},
     image: "/poi-images/dongguan-cities-v2.webp",     description: {       de: "Eine Industriestadt im Perlflussdelta, bekannt als 'Werkstatt der Welt'.",       hu: "Ipari vÃ¡ros a GyÃ¶ngy-folyÃ³ deltÃ¡jÃ¡ban, a 'vilÃ¡g mÅ±helyekÃ©nt' ismert.",       ro: "Un oraÈ™ industrial din Delta RÃ¢ului Perlelor, cunoscut drept 'atelierul lumii'.",       en: "An industrial city in the Pearl River Delta, known as the 'world's workshop'."     , es: "Una ciudad industrial en el delta del rÃ­o de las Perlas, conocida como la 'fÃ¡brica del mundo'.", pt: "Uma cidade industrial no delta do Rio das PÃ©rolas, conhecida como a 'fÃ¡brica do mundo'.", fr: "Une ville industrielle du delta de la riviÃ¨re des Perles, surnommÃ©e l'atelier du monde."},     facts: {       de: ["Eines der weltweit grÃ¶ÃŸten Produktionszentren.", "Wichtiger Produzent von Elektronik, Spielzeug und Textilien.", "Hat eine groÃŸe BevÃ¶lkerung von Wanderarbeitern."],       hu: ["A vilÃ¡g egyik legnagyobb termelÃ©si kÃ¶zpontja.", "Fontos elektronikai, jÃ¡tÃ©k- Ã©s textilgyÃ¡rtÃ³.", "Nagy a vendÃ©gmunkÃ¡sok szÃ¡ma."],       ro: ["Unul dintre cele mai mari centre de producÈ›ie din lume.", "Un producÄƒtor major de electronice, jucÄƒrii È™i textile.", "Are o populaÈ›ie mare de muncitori migranÈ›i."],       en: ["One of the world's largest manufacturing hubs.", "A major producer of electronics, toys, and textiles.", "Has a large population of migrant workers."]     , es: ["Uno de los centros de producciÃ³n mÃ¡s grandes del mundo.", "Importante productor de electrÃ³nica, juguetes y textiles.", "Cuenta con una gran poblaciÃ³n de trabajadores migrantes."], pt: ["Um dos maiores centros de produÃ§Ã£o do mundo.", "Importante produtor de eletrÃ³nicos, brinquedos e tÃªxteis.", "Tem uma grande populaÃ§Ã£o de trabalhadores migrantes."], fr: ["L'un des plus grands centres de production au monde.", "Producteur majeur d'Ã©lectronique, de jouets et de textiles.", "Compte une importante population de travailleurs migrants."]}, image: "/poi-images/dongguan-cities-v2.webp",
     descriptionAdvanced: {
       de: "Dongguan, strategisch zwischen Guangzhou und Shenzhen im Pearl River Delta gelegen, hat sich von einer Agrargesellschaft zu einer der bedeutendsten IndustriestÃ¤dte der Welt gewandelt. Die Stadt ist ein globaler Knotenpunkt fÃ¼r die Herstellung von Elektronik, Textilien und Spielzeug, was ihr den Beinamen 'Werkbank der Welt' einbrachte. Historisch ist Dongguan eng mit den Opiumkriegen verbunden; in Humen begann 1839 die Vernichtung des Opiums, was ein entscheidendes Ereignis der modernen chinesischen Geschichte markiert. Heute beeindruckt die Stadt durch ihre technologische Innovation und den Songshan Lake High-Tech Park, der als Zentrum fÃ¼r Forschung und Entwicklung dient. Trotz ihres industriellen Fokus bietet Dongguan grÃ¼ne RÃ¼ckzugsorte wie den Keyuan-Garten, ein klassisches Beispiel sÃ¼dchinesischer Gartenkunst. Die Stadt ist durch ihre enorme MigrationsbevÃ¶lkerung geprÃ¤gt, was zu einer vielfÃ¤ltigen kulinarischen Szene und einem dynamischen sozialen GefÃ¼ge fÃ¼hrt. Dongguan verkÃ¶rpert den rasanten wirtschaftlichen Aufstieg Chinas in den letzten Jahrzehnten wie kaum eine andere Stadt.",
@@ -319,7 +4279,124 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       pt: ["Ãrea de cerca de 2.460 quilÃ³metros quadrados", "O Museu da Guerra do Ã“pio estÃ¡ em Humen", "Lar do New South China Mall", "A populaÃ§Ã£o ultrapassa os 10 milhÃµes", "Produz cerca de 20% dos smartphones do mundo", "Composto por 32 distritos e municÃ­pios"],
       fr: ["Superficie d'environ 2 460 kilomÃ¨tres carrÃ©s", "Le musÃ©e de la guerre de l'Opium est Ã  Humen", "SiÃ¨ge du New South China Mall", "La population dÃ©passe les 10 millions d'habitants", "Produit environ 20 % des smartphones mondiaux", "ComposÃ© de 32 districts et municipalitÃ©s"],
     },
-  },   {     id: "zibo-cities-v2",     type: "city",     parent: "CN-SD",     coords: [118.0529, 36.7820],     name: {       de: "Zibo",       hu: "Cepo",       ro: "Zibo",       en: "Zibo"},
+  },   {     id: "zibo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "淄博市博物馆",
+                  "text": "Museum in Zibo.",
+                  "category": "museum",
+                  "coords": [
+                        118.032145,
+                        36.803426
+                  ]
+            },
+            {
+                  "name": "淄博市陶瓷博物馆",
+                  "text": "Keramikmuseum in Zibo.",
+                  "category": "museum",
+                  "coords": [
+                        118.034999,
+                        36.802686
+                  ]
+            },
+            {
+                  "name": "张店剧院",
+                  "text": "Theater in Zibo.",
+                  "category": "cultural",
+                  "coords": [
+                        118.029761,
+                        36.800271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "淄博市博物馆",
+                  "text": "Múzeum Zibóban.",
+                  "category": "museum",
+                  "coords": [
+                        118.032145,
+                        36.803426
+                  ]
+            },
+            {
+                  "name": "淄博市陶瓷博物馆",
+                  "text": "Kerámiamúzeum Zibóban.",
+                  "category": "museum",
+                  "coords": [
+                        118.034999,
+                        36.802686
+                  ]
+            },
+            {
+                  "name": "张店剧院",
+                  "text": "Színház Zibóban.",
+                  "category": "cultural",
+                  "coords": [
+                        118.029761,
+                        36.800271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "淄博市博物馆",
+                  "text": "Muzeu în Zibo.",
+                  "category": "museum",
+                  "coords": [
+                        118.032145,
+                        36.803426
+                  ]
+            },
+            {
+                  "name": "淄博市陶瓷博物馆",
+                  "text": "Muzeul ceramicii în Zibo.",
+                  "category": "museum",
+                  "coords": [
+                        118.034999,
+                        36.802686
+                  ]
+            },
+            {
+                  "name": "张店剧院",
+                  "text": "Teatru în Zibo.",
+                  "category": "cultural",
+                  "coords": [
+                        118.029761,
+                        36.800271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "淄博市博物馆",
+                  "text": "Museum in Zibo.",
+                  "category": "museum",
+                  "coords": [
+                        118.032145,
+                        36.803426
+                  ]
+            },
+            {
+                  "name": "Zibo Ceramic Museum",
+                  "text": "Ceramics museum in Zibo.",
+                  "category": "museum",
+                  "coords": [
+                        118.034999,
+                        36.802686
+                  ]
+            },
+            {
+                  "name": "张店剧院",
+                  "text": "Theatre in Zibo.",
+                  "category": "cultural",
+                  "coords": [
+                        118.029761,
+                        36.800271
+                  ]
+            }
+      ]
+},     type: "city",     parent: "CN-SD",     coords: [118.0529, 36.7820],     name: {       de: "Zibo",       hu: "Cepo",       ro: "Zibo",       en: "Zibo"},
     image: "/poi-images/zibo-cities-v2.webp",     description: {       de: "Eine alte Stadt in der Provinz Shandong, die Hauptstadt des alten Staates Qi war.",       hu: "Santung tartomÃ¡ny Å‘si vÃ¡rosa, az Ã³kori Csi Ã¡llam fÅ‘vÃ¡rosa volt.",       ro: "Un oraÈ™ antic din provincia Shandong, care a fost capitala vechiului stat Qi.",       en: "An ancient city in Shandong province, which was the capital of the ancient State of Qi."     , es: "Una ciudad antigua en la provincia de Shandong, que fue la capital del antiguo estado de Qi.", pt: "Uma cidade antiga na provÃ­ncia de Shandong, que foi a capital do antigo estado de Qi.", fr: "Une ville ancienne de la province du Shandong, qui fut la capitale de l'ancien Ã‰tat de Qi."},     facts: {       de: ["Geburtsort des alten chinesischen FuÃŸballs 'Cuju'.", "Wichtiges Zentrum fÃ¼r Petrochemie und Keramik.", "Beherbergt das Qi-Kulturmuseum."],       hu: ["Az Ã³kori kÃ­nai labdarÃºgÃ¡s, a 'cuju' szÃ¼lÅ‘helye.", "Fontos petrolkÃ©miai Ã©s kerÃ¡miaipari kÃ¶zpont.", "Itt talÃ¡lhatÃ³ a Csi KultÃºra MÃºzeuma."],       ro: ["Locul de naÈ™tere al fotbalului antic chinezesc 'Cuju'.", "Un centru important pentru petrochimie È™i ceramicÄƒ.", "GÄƒzduieÈ™te Muzeul Culturii Qi."],       en: ["The birthplace of the ancient Chinese football 'Cuju'.", "An important center for petrochemicals and ceramics.", "Home to the Qi Culture Museum."]     , es: ["Cuna del antiguo fÃºtbol chino 'Cuju'.", "Centro clave para la petroquÃ­mica y la cerÃ¡mica.", "Alberga el Museo Cultural de Qi."], pt: ["BerÃ§o do antigo futebol chinÃªs 'Cuju'.", "Centro chave para a petroquÃ­mica e a cerÃ¢mica.", "Abriga o Museu Cultural de Qi."], fr: ["Lieu de naissance de l'ancÃªtre chinois du football, le 'Cuju'.", "Centre clÃ© pour la pÃ©trochimie et la cÃ©ramique.", "Abrite le musÃ©e de la culture Qi."]}, image: "/poi-images/zibo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Zibo, im Zentrum der Provinz Shandong gelegen, ist eine Stadt mit einer tiefen historischen Bedeutung und einer starken industriellen Basis. Als ehemalige Hauptstadt des Staates Qi wÃ¤hrend der Zeit der Streitenden Reiche war Zibo Ã¼ber Jahrhunderte ein kulturelles und politisches Zentrum des antiken Chinas. Die Stadt gilt als Geburtsort von Cuju, einer frÃ¼hen Form des FuÃŸballs, was ihr internationale Anerkennung durch die FIFA einbrachte. Zudem blickt Zibo auf eine lange Tradition in der Keramik- und Glasherstellung zurÃ¼ck, die bis heute ein Markenzeichen der Stadt ist. In der Moderne hat sich Zibo zu einem wichtigen Standort fÃ¼r die petrochemische Industrie und den Maschinenbau entwickelt. Kulturell bietet die Stadt faszinierende Einblicke in die klassische chinesische Literatur, da sie die Heimat des berÃ¼hmten Schriftstellers Pu Songling ist. Zibo verbindet sein reiches Erbe als antike Metropole erfolgreich mit seiner Rolle als moderner Industriestandort in Ostchina.",
@@ -339,7 +4416,376 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       pt: ["Capital de Qi desde o sÃ©culo XI a. C.", "O Museu do Cuju documenta as origens do futebol", "O distrito de Linzi abriga antigos sÃ­tios arqueolÃ³gicos", "Importante produtor de vidro decorativo", "PopulaÃ§Ã£o de aproximadamente 4,7 milhÃµes de habitantes", "Parte da zona econÃ³mica do Mar Amarelo"],
       fr: ["Capitale du Qi dÃ¨s le XIe siÃ¨cle av. J.-C.", "Le musÃ©e du Cuju documente les origines du football", "Le district de Linzi abrite des sites de fouilles antiques", "Producteur important de verre dÃ©coratif", "Population d'environ 4,7 millions d'habitants", "Fait partie de la zone Ã©conomique de la mer Jaune"],
     },
-  },   {     id: "changzhou-cities-v2",     type: "city",     parent: "CN-JS",     coords: [119.9739, 31.8120],     name: {       de: "Changzhou",       hu: "Csangcsou",       ro: "Changzhou",       en: "Changzhou"},
+  },   {     id: "changzhou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "中华恐龙园",
+                  "text": "Der China Dinosaur Park ist ein weithin bekannter Freizeitpark in Changzhou.",
+                  "category": "recreational",
+                  "coords": [
+                        119.996862,
+                        31.825373
+                  ]
+            },
+            {
+                  "name": "常州规划展览馆",
+                  "text": "Das Changzhou Museum of Urban Planning ist ein Museum für Stadtplanung in Changzhou.",
+                  "category": "museum",
+                  "coords": [
+                        119.967156,
+                        31.810569
+                  ]
+            },
+            {
+                  "name": "常州大剧院",
+                  "text": "Das Changzhou Grand Theater ist ein Theatergebäude in Changzhou.",
+                  "category": "cultural",
+                  "coords": [
+                        119.970929,
+                        31.810355
+                  ]
+            },
+            {
+                  "name": "疯狂恐龙人",
+                  "text": "Die Attraktion Fengkuang Konglongren befindet sich in Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.99531,
+                        31.824078
+                  ]
+            },
+            {
+                  "name": "冒险港",
+                  "text": "Maoxiangang ist eine Attraktion in Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.998741,
+                        31.82499
+                  ]
+            },
+            {
+                  "name": "鲁布拉",
+                  "text": "Die Attraktion Lubula befindet sich in der Stadt Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.999353,
+                        31.82669
+                  ]
+            },
+            {
+                  "name": "梦幻庄园",
+                  "text": "Menghuan Zhuangyuan ist eine Attraktion in Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995553,
+                        31.827262
+                  ]
+            },
+            {
+                  "name": "暴宝探险营",
+                  "text": "Das Baobao Tanxianying ist eine Attraktion in Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.99406,
+                        31.827574
+                  ]
+            },
+            {
+                  "name": "魔幻雨林",
+                  "text": "Mohuan Yulin ist eine Attraktion in Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.994224,
+                        31.826409
+                  ]
+            },
+            {
+                  "name": "常州美术馆",
+                  "text": "Das Kunstmuseum Changzhou ist eine Galerie in der Stadt Changzhou.",
+                  "category": "museum",
+                  "coords": [
+                        119.968289,
+                        31.80728
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "中华恐龙园",
+                  "text": "A China Dinosaur Park egy széles körben ismert vidámpark Changzhou városában.",
+                  "category": "recreational",
+                  "coords": [
+                        119.996862,
+                        31.825373
+                  ]
+            },
+            {
+                  "name": "常州规划展览馆",
+                  "text": "A Changzhou Várostervezési Múzeum egy várostervezési múzeum Changzhou városában.",
+                  "category": "museum",
+                  "coords": [
+                        119.967156,
+                        31.810569
+                  ]
+            },
+            {
+                  "name": "常州大剧院",
+                  "text": "A Changzhou Grand Theater egy színház Changzhou városában.",
+                  "category": "cultural",
+                  "coords": [
+                        119.970929,
+                        31.810355
+                  ]
+            },
+            {
+                  "name": "疯狂恐龙人",
+                  "text": "A Fengkuang Konglongren látványosság Changzhou városában várja az érdeklődőket.",
+                  "category": "landmark",
+                  "coords": [
+                        119.99531,
+                        31.824078
+                  ]
+            },
+            {
+                  "name": "冒险港",
+                  "text": "A Maoxiangang egy látványosság Changzhou városában.",
+                  "category": "landmark",
+                  "coords": [
+                        119.998741,
+                        31.82499
+                  ]
+            },
+            {
+                  "name": "鲁布拉",
+                  "text": "A Lubula nevű látványosság Changzhou városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        119.999353,
+                        31.82669
+                  ]
+            },
+            {
+                  "name": "梦幻庄园",
+                  "text": "A Menghuan Zhuangyuan látványosság Changzhou városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995553,
+                        31.827262
+                  ]
+            },
+            {
+                  "name": "暴宝探险营",
+                  "text": "A Baobao Tanxianying látványosság Changzhou városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        119.99406,
+                        31.827574
+                  ]
+            },
+            {
+                  "name": "魔幻雨林",
+                  "text": "A Mohuan Yulin nevű látványosság Changzhou városában van.",
+                  "category": "landmark",
+                  "coords": [
+                        119.994224,
+                        31.826409
+                  ]
+            },
+            {
+                  "name": "常州美术馆",
+                  "text": "A Changzhou Művészeti Múzeum egy galéria Changzhou városában.",
+                  "category": "museum",
+                  "coords": [
+                        119.968289,
+                        31.80728
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "中华恐龙园",
+                  "text": "China Dinosaur Park este un parc tematic foarte recunoscut situat în Changzhou.",
+                  "category": "recreational",
+                  "coords": [
+                        119.996862,
+                        31.825373
+                  ]
+            },
+            {
+                  "name": "常州规划展览馆",
+                  "text": "Muzeul de Planificare Urbană Changzhou este un muzeu din Changzhou.",
+                  "category": "museum",
+                  "coords": [
+                        119.967156,
+                        31.810569
+                  ]
+            },
+            {
+                  "name": "常州大剧院",
+                  "text": "Marele Teatru Changzhou este un teatru situat în orașul Changzhou.",
+                  "category": "cultural",
+                  "coords": [
+                        119.970929,
+                        31.810355
+                  ]
+            },
+            {
+                  "name": "疯狂恐龙人",
+                  "text": "Atracția Fengkuang Konglongren este situată în Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.99531,
+                        31.824078
+                  ]
+            },
+            {
+                  "name": "冒险港",
+                  "text": "Atracția Maoxiangang este situată în orașul Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.998741,
+                        31.82499
+                  ]
+            },
+            {
+                  "name": "鲁布拉",
+                  "text": "Atracția Lubula este situată în orașul Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.999353,
+                        31.82669
+                  ]
+            },
+            {
+                  "name": "梦幻庄园",
+                  "text": "Atracția Menghuan Zhuangyuan se găsește în Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995553,
+                        31.827262
+                  ]
+            },
+            {
+                  "name": "暴宝探险营",
+                  "text": "Atracția Baobao Tanxianying este situată în Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.99406,
+                        31.827574
+                  ]
+            },
+            {
+                  "name": "魔幻雨林",
+                  "text": "Atracția Mohuan Yulin se găsește în Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.994224,
+                        31.826409
+                  ]
+            },
+            {
+                  "name": "常州美术馆",
+                  "text": "Muzeul de Artă Changzhou este o galerie situată în Changzhou.",
+                  "category": "museum",
+                  "coords": [
+                        119.968289,
+                        31.80728
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "China Dinosaur Park",
+                  "text": "China Dinosaur Park is a widely recognized theme park located in Changzhou.",
+                  "category": "recreational",
+                  "coords": [
+                        119.996862,
+                        31.825373
+                  ]
+            },
+            {
+                  "name": "Changzhou Museum of Urban Planning",
+                  "text": "The Changzhou Museum of Urban Planning is an urban planning museum located in Changzhou.",
+                  "category": "museum",
+                  "coords": [
+                        119.967156,
+                        31.810569
+                  ]
+            },
+            {
+                  "name": "Changzhou Grand Theater",
+                  "text": "The Changzhou Grand Theater is a performing arts venue located in Changzhou.",
+                  "category": "cultural",
+                  "coords": [
+                        119.970929,
+                        31.810355
+                  ]
+            },
+            {
+                  "name": "疯狂恐龙人",
+                  "text": "The Fengkuang Konglongren attraction is situated in Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.99531,
+                        31.824078
+                  ]
+            },
+            {
+                  "name": "冒险港",
+                  "text": "The Maoxiangang attraction is located in Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.998741,
+                        31.82499
+                  ]
+            },
+            {
+                  "name": "鲁布拉",
+                  "text": "The Lubula attraction is situated in the city of Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.999353,
+                        31.82669
+                  ]
+            },
+            {
+                  "name": "梦幻庄园",
+                  "text": "The Menghuan Zhuangyuan attraction is situated in Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.995553,
+                        31.827262
+                  ]
+            },
+            {
+                  "name": "暴宝探险营",
+                  "text": "The Baobao Tanxianying attraction is located in Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.99406,
+                        31.827574
+                  ]
+            },
+            {
+                  "name": "魔幻雨林",
+                  "text": "The Mohuan Yulin attraction is found in Changzhou.",
+                  "category": "landmark",
+                  "coords": [
+                        119.994224,
+                        31.826409
+                  ]
+            },
+            {
+                  "name": "常州美术馆",
+                  "text": "The Changzhou Art Museum is a gallery located in the city of Changzhou.",
+                  "category": "museum",
+                  "coords": [
+                        119.968289,
+                        31.80728
+                  ]
+            }
+      ]
+},     type: "city",     parent: "CN-JS",     coords: [119.9739, 31.8120],     name: {       de: "Changzhou",       hu: "Csangcsou",       ro: "Changzhou",       en: "Changzhou"},
     image: "/poi-images/changzhou-cities-v2.webp",     description: {       de: "Eine historische Stadt in der Provinz Jiangsu, bekannt fÃ¼r ihre Textilindustrie und den Kaiserkanal.",       hu: "Csiangszu tartomÃ¡ny tÃ¶rtÃ©nelmi vÃ¡rosa, amely textiliparÃ¡rÃ³l Ã©s a Nagy-csatornÃ¡rÃ³l ismert.",       ro: "Un oraÈ™ istoric din provincia Jiangsu, renumit pentru industria sa textilÄƒ È™i Marele Canal.",       en: "A historic city in Jiangsu province, famous for its textile industry and the Grand Canal."     , es: "Una ciudad histÃ³rica en la provincia de Jiangsu, conocida por su industria textil y el Gran Canal.", pt: "Uma cidade histÃ³rica na provÃ­ncia de Jiangsu, conhecida pela sua indÃºstria tÃªxtil e pelo Grande Canal.", fr: "Une ville historique de la province du Jiangsu, connue pour son industrie textile et le Grand Canal."},     facts: {       de: ["Eine der GeburtsstÃ¤tten der modernen chinesischen Industrie.", "Bekannt fÃ¼r die Herstellung von KÃ¤mmen.", "Beherbergt den Tianning-Tempel mit seiner imposanten Pagode."],       hu: ["A modern kÃ­nai ipar egyik szÃ¼lÅ‘helye.", "HÃ­res a fÃ©sÅ±gyÃ¡rtÃ¡srÃ³l.", "Itt talÃ¡lhatÃ³ a Tianning-templom a lenyÅ±gÃ¶zÅ‘ pagodÃ¡jÃ¡val."],       ro: ["Unul dintre locurile de naÈ™tere ale industriei moderne chineze.", "Renumit pentru fabricarea pieptenilor.", "GÄƒzduieÈ™te Templul Tianning cu pagoda sa impunÄƒtoare."],       en: ["One of the birthplaces of modern Chinese industry.", "Known for the production of combs.", "Home to the Tianning Temple with its imposing pagoda."]     , es: ["Una de las cunas de la industria china moderna.", "Conocida por la fabricaciÃ³n de peines.", "Alberga el Templo Tianning con su imponente pagoda."], pt: ["Um dos berÃ§os da indÃºstria chinesa moderna.", "Conhecida pela fabricaÃ§Ã£o de pentes.", "Abriga o Templo Tianning com a sua pagoda imponente."], fr: ["L'un des berceaux de l'industrie chinoise moderne.", "Connue pour la fabrication de peignes.", "Abrite le temple Tianning et son imposante pagode."]}, image: "/poi-images/changzhou-cities-v2.webp",
     descriptionAdvanced: {
       de: "Changzhou, im Jangtse-Delta der Provinz Jiangsu gelegen, ist eine Stadt, die fÃ¼r ihren Wohlstand und ihre kulturelle Tradition bekannt ist. Mit einer Ã¼ber 2.500-jÃ¤hrigen Geschichte war Changzhou seit der Sui-Dynastie ein wichtiger Stopp am Kaiserkanal, was das wirtschaftliche Wachstum fÃ¶rderte. Die Stadt ist heute ein fÃ¼hrendes Zentrum fÃ¼r fortschrittliche Fertigung, insbesondere in den Bereichen Robotertechnik und neue Energien. Changzhou wird oft als 'Drachenstadt' bezeichnet und beherbergt den Tianning-Tempel, dessen Pagode als die hÃ¶chste Holzpagode der Welt gilt. Ein modernes Highlight ist der China Dinosaurs Park, ein riesiger Themenpark, der der Stadt den Ruf eines touristischen Zentrums fÃ¼r Familien eingebracht hat. Die traditionelle Handwerkskunst, wie die feinen Changzhou-KÃ¤mme, bleibt ein wichtiger Bestandteil der lokalen IdentitÃ¤t. Changzhou verbindet erfolgreich seine Rolle als historischer Knotenpunkt mit seiner Vision einer technologieorientierten Zukunft.",
@@ -419,7 +4865,556 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       pt: ["Antiga capital de Hebei atÃ© 1968", "Gabinete do Governador de Zhili da era Qing", "Lar dos antigos tanques de lÃ³tus", "Conhecida pelas ervas medicinais em Anguo", "PopulaÃ§Ã£o de cerca de 9,2 milhÃµes de habitantes", "LocalizaÃ§Ã£o importante para a indÃºstria automÃ³vel"],
       fr: ["Ancienne capitale du Hebei jusqu'en 1968", "Bureau du gouverneur de Zhili de l'Ã©poque Qing", "Abrite les anciens Ã©tangs de lotus", "Connue pour ses herbes mÃ©dicinales Ã  Anguo", "Population d'environ 9,2 millions d'habitants", "Site majeur pour l'industrie automobile"],
     },
-  },   {     id: "datong-cities-v2",     type: "city",     parent: "CN-SX",     coords: [113.2953, 40.0769],     name: {       de: "Datong",       hu: "Tatung",       ro: "Datong",       en: "Datong"},
+  },   {     id: "datong-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "魁星文化博物馆",
+                  "text": "Dies ist ein lokales Museum in der Stadt Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.295274,
+                        40.097544
+                  ]
+            },
+            {
+                  "name": "中国雕塑博物馆",
+                  "text": "Das China Sculpture Museum ist eine museale Einrichtung in Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.295258,
+                        40.100936
+                  ]
+            },
+            {
+                  "name": "大同规划展览馆",
+                  "text": "Diese Einrichtung ist ein Museum in der Stadt Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.283552,
+                        40.094876
+                  ]
+            },
+            {
+                  "name": "梁思成纪念馆",
+                  "text": "Diese Gedenkstätte dient als Museum in Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.307715,
+                        40.093331
+                  ]
+            },
+            {
+                  "name": "开化寺",
+                  "text": "Diese historische Stätte fungiert als Museum in der Stadt Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.289268,
+                        40.093048
+                  ]
+            },
+            {
+                  "name": "平城纪念馆",
+                  "text": "Dies ist ein lokales Museum in Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.307672,
+                        40.090845
+                  ]
+            },
+            {
+                  "name": "四牌楼",
+                  "text": "Sipailou ist ein bedeutendes historisches Denkmal und traditionelles Torbauwerk in Datong.",
+                  "category": "historical",
+                  "coords": [
+                        113.295267,
+                        40.092311
+                  ]
+            },
+            {
+                  "name": "Statue of Mao Tse Tung",
+                  "text": "Die Statue von Mao Tse Tung ist eine bekannte Touristenattraktion in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.281894,
+                        40.079924
+                  ]
+            },
+            {
+                  "name": "代王府",
+                  "text": "Dai Wangfu ist eine lokale Touristenattraktion in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.297404,
+                        40.094691
+                  ]
+            },
+            {
+                  "name": "九龙壁景区",
+                  "text": "Dieses Landschaftsgebiet ist eine beliebte Attraktion in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.297018,
+                        40.091827
+                  ]
+            },
+            {
+                  "name": "圆通寺",
+                  "text": "Der Yuantong-Tempel ist eine lokale Sehenswürdigkeit in der Stadt Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.285834,
+                        40.091333
+                  ]
+            },
+            {
+                  "name": "Trommelturm",
+                  "text": "Der Trommelturm ist ein bedeutendes historisches Gebäude und Wahrzeichen in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.295246,
+                        40.090296
+                  ]
+            },
+            {
+                  "name": "Guandi Tempel",
+                  "text": "Dieser Guandi-Tempel ist eine bedeutende Kultstätte in Datong, die Guan Yu gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        113.298692,
+                        40.090707
+                  ]
+            },
+            {
+                  "name": "华严寺",
+                  "text": "Der Huayan-Tempel ist eine wichtige buddhistische Kulturerbestätte und ein antiker Architekturkomplex in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.28804,
+                        40.091335
+                  ]
+            },
+            {
+                  "name": "善化寺",
+                  "text": "Der Shanhua-Tempel ist eine gut erhaltene antike Kulturerbestätte und ein buddhistischer Tempel in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.293242,
+                        40.086044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "魁星文化博物馆",
+                  "text": "Ez egy helyi múzeum Datong városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.295274,
+                        40.097544
+                  ]
+            },
+            {
+                  "name": "中国雕塑博物馆",
+                  "text": "A Kínai Szobrászati Múzeum egy kulturális létesítmény Datongban.",
+                  "category": "museum",
+                  "coords": [
+                        113.295258,
+                        40.100936
+                  ]
+            },
+            {
+                  "name": "大同规划展览馆",
+                  "text": "Ez a létesítmény egy múzeum Datong városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.283552,
+                        40.094876
+                  ]
+            },
+            {
+                  "name": "梁思成纪念馆",
+                  "text": "Ez az emlékmű múzeumként működik Datongban.",
+                  "category": "museum",
+                  "coords": [
+                        113.307715,
+                        40.093331
+                  ]
+            },
+            {
+                  "name": "开化寺",
+                  "text": "Ez a történelmi helyszín múzeumként szolgál Datong városában.",
+                  "category": "museum",
+                  "coords": [
+                        113.289268,
+                        40.093048
+                  ]
+            },
+            {
+                  "name": "平城纪念馆",
+                  "text": "Ez egy helyi múzeum Datongban.",
+                  "category": "museum",
+                  "coords": [
+                        113.307672,
+                        40.090845
+                  ]
+            },
+            {
+                  "name": "四牌楼",
+                  "text": "A Sipailou egy jelentős történelmi emlékmű és hagyományos kapuépítmény Datongban.",
+                  "category": "historical",
+                  "coords": [
+                        113.295267,
+                        40.092311
+                  ]
+            },
+            {
+                  "name": "Statue of Mao Tse Tung",
+                  "text": "Mao Ce-tung szobra egy kiemelkedő turisztikai látványosság Datongban.",
+                  "category": "landmark",
+                  "coords": [
+                        113.281894,
+                        40.079924
+                  ]
+            },
+            {
+                  "name": "代王府",
+                  "text": "A Dai Wangfu egy helyi turisztikai látványosság Datongban.",
+                  "category": "landmark",
+                  "coords": [
+                        113.297404,
+                        40.094691
+                  ]
+            },
+            {
+                  "name": "九龙壁景区",
+                  "text": "Ez a festői terület egy népszerű látványosság Datongban.",
+                  "category": "landmark",
+                  "coords": [
+                        113.297018,
+                        40.091827
+                  ]
+            },
+            {
+                  "name": "圆通寺",
+                  "text": "A Yuantong-templom egy helyi látványosság Datong városában.",
+                  "category": "landmark",
+                  "coords": [
+                        113.285834,
+                        40.091333
+                  ]
+            },
+            {
+                  "name": "鼓楼",
+                  "text": "A Dobtorony egy jelentős műemléképület és történelmi nevezetesség Datongban.",
+                  "category": "landmark",
+                  "coords": [
+                        113.295246,
+                        40.090296
+                  ]
+            },
+            {
+                  "name": "关帝庙",
+                  "text": "Ez a Guandi-templom egy jelentős istentiszteleti hely Datongban, amelyet Guan Yu tiszteletére emeltek.",
+                  "category": "religious",
+                  "coords": [
+                        113.298692,
+                        40.090707
+                  ]
+            },
+            {
+                  "name": "华严寺",
+                  "text": "A Huayan-templom egy fontos buddhista örökségi helyszín és ősi építészeti komplexum Datongban.",
+                  "category": "landmark",
+                  "coords": [
+                        113.28804,
+                        40.091335
+                  ]
+            },
+            {
+                  "name": "善化寺",
+                  "text": "A Shanhua-templom egy jól karbantartott ősi örökségi helyszín és buddhista templom Datongban.",
+                  "category": "landmark",
+                  "coords": [
+                        113.293242,
+                        40.086044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "魁星文化博物馆",
+                  "text": "Acesta este un muzeu local din orașul Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.295274,
+                        40.097544
+                  ]
+            },
+            {
+                  "name": "中国雕塑博物馆",
+                  "text": "China Sculpture Museum este o instituție muzeală din Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.295258,
+                        40.100936
+                  ]
+            },
+            {
+                  "name": "大同规划展览馆",
+                  "text": "Această instituție este un muzeu din orașul Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.283552,
+                        40.094876
+                  ]
+            },
+            {
+                  "name": "梁思成纪念馆",
+                  "text": "Acest memorial funcționează ca un muzeu în Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.307715,
+                        40.093331
+                  ]
+            },
+            {
+                  "name": "开化寺",
+                  "text": "Acest sit istoric servește ca muzeu în orașul Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.289268,
+                        40.093048
+                  ]
+            },
+            {
+                  "name": "平城纪念馆",
+                  "text": "Acesta este un muzeu local din Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.307672,
+                        40.090845
+                  ]
+            },
+            {
+                  "name": "四牌楼",
+                  "text": "Sipailou este un monument istoric notabil și o structură tradițională de poartă în Datong.",
+                  "category": "historical",
+                  "coords": [
+                        113.295267,
+                        40.092311
+                  ]
+            },
+            {
+                  "name": "Statue of Mao Tse Tung",
+                  "text": "Statuia lui Mao Zedong este o atracție turistică proeminentă situată în Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.281894,
+                        40.079924
+                  ]
+            },
+            {
+                  "name": "代王府",
+                  "text": "Dai Wangfu este o atracție turistică locală situată în Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.297404,
+                        40.094691
+                  ]
+            },
+            {
+                  "name": "九龙壁景区",
+                  "text": "Această zonă pitorească este o atracție populară situată în Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.297018,
+                        40.091827
+                  ]
+            },
+            {
+                  "name": "圆通寺",
+                  "text": "Templul Yuantong este o atracție locală aflată în orașul Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.285834,
+                        40.091333
+                  ]
+            },
+            {
+                  "name": "鼓楼",
+                  "text": "Turnul Tobei este o clădire de patrimoniu semnificativă și un punct de reper istoric în Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.295246,
+                        40.090296
+                  ]
+            },
+            {
+                  "name": "关帝庙",
+                  "text": "Acest Templu Guandi este un lăcaș de cult notabil din Datong dedicat lui Guan Yu.",
+                  "category": "religious",
+                  "coords": [
+                        113.298692,
+                        40.090707
+                  ]
+            },
+            {
+                  "name": "华严寺",
+                  "text": "Templul Huayan este un important sit de patrimoniu budist și un complex arhitectural antic în Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.28804,
+                        40.091335
+                  ]
+            },
+            {
+                  "name": "善化寺",
+                  "text": "Templul Shanhua este un sit de patrimoniu antic bine conservat și un templu budist în Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.293242,
+                        40.086044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "魁星文化博物馆",
+                  "text": "This is a local museum situated in the city of Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.295274,
+                        40.097544
+                  ]
+            },
+            {
+                  "name": "China Sculpture Museum",
+                  "text": "The China Sculpture Museum is a cultural facility located in Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.295258,
+                        40.100936
+                  ]
+            },
+            {
+                  "name": "大同规划展览馆",
+                  "text": "This facility is a museum located in the city of Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.283552,
+                        40.094876
+                  ]
+            },
+            {
+                  "name": "梁思成纪念馆",
+                  "text": "This memorial hall serves as a museum in Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.307715,
+                        40.093331
+                  ]
+            },
+            {
+                  "name": "开化寺",
+                  "text": "This historical site operates as a museum in the city of Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.289268,
+                        40.093048
+                  ]
+            },
+            {
+                  "name": "平城纪念馆",
+                  "text": "This is a local museum situated in Datong.",
+                  "category": "museum",
+                  "coords": [
+                        113.307672,
+                        40.090845
+                  ]
+            },
+            {
+                  "name": "四牌楼",
+                  "text": "Sipailou is a notable historical monument and traditional archway structure in Datong.",
+                  "category": "historical",
+                  "coords": [
+                        113.295267,
+                        40.092311
+                  ]
+            },
+            {
+                  "name": "Statue of Mao Tse Tung",
+                  "text": "The Statue of Mao Tse Tung is a prominent tourist attraction located in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.281894,
+                        40.079924
+                  ]
+            },
+            {
+                  "name": "Dai Wangfu",
+                  "text": "Dai Wangfu is a local tourist attraction situated in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.297404,
+                        40.094691
+                  ]
+            },
+            {
+                  "name": "九龙壁景区",
+                  "text": "This scenic area is a popular attraction located in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.297018,
+                        40.091827
+                  ]
+            },
+            {
+                  "name": "圆通寺",
+                  "text": "Yuantong Temple is a local attraction found in the city of Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.285834,
+                        40.091333
+                  ]
+            },
+            {
+                  "name": "Drum Tower",
+                  "text": "The Drum Tower is a significant heritage building and historical landmark in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.295246,
+                        40.090296
+                  ]
+            },
+            {
+                  "name": "关帝庙",
+                  "text": "This Guandi Temple is a notable place of worship dedicated to Guan Yu in Datong.",
+                  "category": "religious",
+                  "coords": [
+                        113.298692,
+                        40.090707
+                  ]
+            },
+            {
+                  "name": "Huayan Temple",
+                  "text": "Huayan Temple is an important Buddhist heritage site and ancient architectural complex in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.28804,
+                        40.091335
+                  ]
+            },
+            {
+                  "name": "Shanhua Temple",
+                  "text": "Shanhua Temple is a well-preserved ancient heritage site and Buddhist temple in Datong.",
+                  "category": "landmark",
+                  "coords": [
+                        113.293242,
+                        40.086044
+                  ]
+            }
+      ]
+},     type: "city",     parent: "CN-SX",     coords: [113.2953, 40.0769],     name: {       de: "Datong",       hu: "Tatung",       ro: "Datong",       en: "Datong"},
     image: "/poi-images/datong-cities-v2.webp",     description: {       de: "Eine Stadt in der Provinz Shanxi, bekannt fÃ¼r ihre reichen Kohlevorkommen und historischen StÃ¤tten.",       hu: "Sanhszi tartomÃ¡ny egyik vÃ¡rosa, amely gazdag szÃ©nkÃ©szleteirÅ‘l Ã©s tÃ¶rtÃ©nelmi helyszÃ­neirÅ‘l ismert.",       ro: "Un oraÈ™ din provincia Shanxi, renumit pentru rezervele sale bogate de cÄƒrbune È™i siturile istorice.",       en: "A city in Shanxi province, known for its rich coal reserves and historical sites."     , es: "Una ciudad de la provincia de Shanxi, conocida por sus ricas reservas de carbÃ³n y sus lugares histÃ³ricos.", pt: "Uma cidade na provÃ­ncia de Shanxi, conhecida pelas suas ricas reservas de carvÃ£o e locais histÃ³ricos.", fr: "Une ville de la province du Shanxi, connue pour ses riches gisements de charbon et ses sites historiques."},     facts: {       de: ["War die Hauptstadt der NÃ¶rdlichen Wei-Dynastie.", "In der NÃ¤he der Yungang-Grotten, einem UNESCO-Weltkulturerbe.", "Wird oft als 'Kohle-Hauptstadt' Chinas bezeichnet."],       hu: ["Az Ã‰szaki Vej-dinasztia fÅ‘vÃ¡rosa volt.", "A JÃ¼nkang-barlangok kÃ¶zelÃ©ben talÃ¡lhatÃ³, amely az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze.", "Gyakran KÃ­na 'szÃ©nfÅ‘vÃ¡rosakÃ©nt' emlegetik."],       ro: ["A fost capitala dinastiei Wei de Nord.", "Aproape de Grotele Yungang, un sit al Patrimoniului Mondial UNESCO.", "Adesea denumit 'Capitala cÄƒrbunelui' a Chinei."],       en: ["Was the capital of the Northern Wei dynasty.", "Near the Yungang Grottoes, a UNESCO World Heritage Site.", "Often referred to as China's 'Coal Capital'."]     , es: ["Fue la capital de la dinastÃ­a Wei del Norte.", "Cerca de las Grutas de Yungang, Patrimonio de la Humanidad de la UNESCO.", "A menudo llamada la 'capital del carbÃ³n' de China."], pt: ["Foi a capital da dinastia Wei do Norte.", "Perto das Grutas de Yungang, PatrimÃ³nio Mundial da UNESCO.", "Muitas vezes chamada de 'capital do carvÃ£o' da China."], fr: ["Fut la capitale de la dynastie des Wei du Nord.", "Ã€ proximitÃ© des grottes de Yungang, classÃ©es Ã  l'UNESCO.", "Souvent appelÃ©e la 'capitale du charbon' de la Chine."]}, image: "/poi-images/datong-cities-v2.webp",
     descriptionAdvanced: {
       de: "Datong, im Norden der Provinz Shanxi gelegen, war einst die Hauptstadt der NÃ¶rdlichen Wei-Dynastie und ein wichtiges Zentrum des Buddhismus in China. Die Stadt ist weltberÃ¼hmt fÃ¼r die Yungang-Grotten, ein UNESCO-Weltkulturerbe mit Ã¼ber 51.000 buddhistischen Statuen, die direkt in den Sandstein gehauen wurden. Ein weiteres markantes Wahrzeichen ist die Neun-Drachen-Wand, die grÃ¶ÃŸte und Ã¤lteste ihrer Art in China, die aus glasierten Ziegeln besteht. Datong war historisch gesehen eine wichtige Garnisonsstadt zum Schutz vor Invasionen aus der Steppe, wovon die beeindruckende, rekonstruierte Stadtmauer zeugt. Geografisch liegt die Stadt in einem Becken auf einem Hochplateau und ist heute als \"Kohlehauptstadt Chinas\" bekannt, da sie Ã¼ber riesige Vorkommen dieses Rohstoffs verfÃ¼gt. In den letzten Jahren hat Datong eine massive stÃ¤dtebauliche Transformation durchlaufen, um sein historisches Erbe zu betonen und gleichzeitig die Industrie zu modernisieren. Die Stadt dient als Tor zur Inneren Mongolei und ist ein wichtiger Knotenpunkt fÃ¼r den Schienenverkehr im Norden Chinas. Neben der Industrie gewinnt der Tourismus als Wirtschaftsfaktor zunehmend an Bedeutung, unterstÃ¼tzt durch die Erhaltung bedeutender Tempelanlagen wie dem Huayan-Kloster.",
@@ -439,7 +5434,232 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       pt: ["Grutas de Yungang com 51.000 estÃ¡tuas", "Capital de Wei (398â€“494 d.C.)", "O Muro dos Nove DragÃµes data de 1392", "O Mosteiro Suspenso fica a 65 km de distÃ¢ncia", "Centro da produÃ§Ã£o de energia chinesa", "PopulaÃ§Ã£o de cerca de 3,1 milhÃµes"],
       fr: ["Grottes de Yungang avec 51 000 statues", "Capitale des Wei (398â€“494 ap. J.-C.)", "Le mur des Neuf Dragons date de 1392", "Le monastÃ¨re suspendu se trouve Ã  65 km", "Centre de production Ã©nergÃ©tique chinoise", "Population d'environ 3,1 millions d'habitants"],
     },
-  },   {     id: "qiqihar-cities-v2",     type: "city",     parent: "CN-HL",     coords: [123.9536, 47.3425],     name: {       de: "Qiqihar",       hu: "Csicsihar",       ro: "Qiqihar",       en: "Qiqihar"},
+  },   {     id: "qiqihar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "电业文化宫",
+                  "text": "Kulturpalast in Qiqihar.",
+                  "category": "cultural",
+                  "coords": [
+                        123.944383,
+                        47.337755
+                  ]
+            },
+            {
+                  "name": "齐齐哈尔市博物馆",
+                  "text": "Ein Museum in Qiqihar.",
+                  "category": "museum",
+                  "coords": [
+                        123.949465,
+                        47.353944
+                  ]
+            },
+            {
+                  "name": "艺术剧院·话剧艺术中心",
+                  "text": "Ein Theater in Qiqihar.",
+                  "category": "cultural",
+                  "coords": [
+                        123.949087,
+                        47.338123
+                  ]
+            },
+            {
+                  "name": "望江楼",
+                  "text": "Eine Attraktion in Qiqihar.",
+                  "category": "landmark",
+                  "coords": [
+                        123.938812,
+                        47.342446
+                  ]
+            },
+            {
+                  "name": "工人文化宫",
+                  "text": "Ein Kulturzentrum in Qiqihar.",
+                  "category": "cultural",
+                  "coords": [
+                        123.933783,
+                        47.336009
+                  ]
+            },
+            {
+                  "name": "Bukui-Moschee",
+                  "text": "Die Bukui-Moschee ist die älteste Moschee in der Provinz Heilongjiang.",
+                  "category": "religious",
+                  "coords": [
+                        123.944552,
+                        47.348734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "电业文化宫",
+                  "text": "Kulturális központ Qiqiharban.",
+                  "category": "cultural",
+                  "coords": [
+                        123.944383,
+                        47.337755
+                  ]
+            },
+            {
+                  "name": "齐齐哈尔市博物馆",
+                  "text": "Múzeum Qiqihar városában.",
+                  "category": "museum",
+                  "coords": [
+                        123.949465,
+                        47.353944
+                  ]
+            },
+            {
+                  "name": "艺术剧院·话剧艺术中心",
+                  "text": "Színház Qiqihar városában.",
+                  "category": "cultural",
+                  "coords": [
+                        123.949087,
+                        47.338123
+                  ]
+            },
+            {
+                  "name": "望江楼",
+                  "text": "Látnivaló Qiqihar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        123.938812,
+                        47.342446
+                  ]
+            },
+            {
+                  "name": "工人文化宫",
+                  "text": "Művelődési központ Qiqihar városában.",
+                  "category": "cultural",
+                  "coords": [
+                        123.933783,
+                        47.336009
+                  ]
+            },
+            {
+                  "name": "卜奎清真寺",
+                  "text": "A Bukui mecset Heilongjiang tartomány legrégebbi mecsete.",
+                  "category": "religious",
+                  "coords": [
+                        123.944552,
+                        47.348734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "电业文化宫",
+                  "text": "Palatul culturii în Qiqihar.",
+                  "category": "cultural",
+                  "coords": [
+                        123.944383,
+                        47.337755
+                  ]
+            },
+            {
+                  "name": "齐齐哈尔市博物馆",
+                  "text": "Un muzeu în Qiqihar.",
+                  "category": "museum",
+                  "coords": [
+                        123.949465,
+                        47.353944
+                  ]
+            },
+            {
+                  "name": "艺术剧院·话剧艺术中心",
+                  "text": "Un teatru în Qiqihar.",
+                  "category": "cultural",
+                  "coords": [
+                        123.949087,
+                        47.338123
+                  ]
+            },
+            {
+                  "name": "望江楼",
+                  "text": "O atracție în Qiqihar.",
+                  "category": "landmark",
+                  "coords": [
+                        123.938812,
+                        47.342446
+                  ]
+            },
+            {
+                  "name": "工人文化宫",
+                  "text": "Un centru cultural în Qiqihar.",
+                  "category": "cultural",
+                  "coords": [
+                        123.933783,
+                        47.336009
+                  ]
+            },
+            {
+                  "name": "卜奎清真寺",
+                  "text": "Moscheea Bukui este cea mai veche moschee din provincia Heilongjiang.",
+                  "category": "religious",
+                  "coords": [
+                        123.944552,
+                        47.348734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "电业文化宫",
+                  "text": "Cultural palace in Qiqihar.",
+                  "category": "cultural",
+                  "coords": [
+                        123.944383,
+                        47.337755
+                  ]
+            },
+            {
+                  "name": "Museum of Qiqihar",
+                  "text": "A museum in Qiqihar.",
+                  "category": "museum",
+                  "coords": [
+                        123.949465,
+                        47.353944
+                  ]
+            },
+            {
+                  "name": "Artistic Theater: Opera Center",
+                  "text": "A theater in Qiqihar.",
+                  "category": "cultural",
+                  "coords": [
+                        123.949087,
+                        47.338123
+                  ]
+            },
+            {
+                  "name": "望江楼",
+                  "text": "An attraction in Qiqihar.",
+                  "category": "landmark",
+                  "coords": [
+                        123.938812,
+                        47.342446
+                  ]
+            },
+            {
+                  "name": "工人文化宫",
+                  "text": "An arts centre in Qiqihar.",
+                  "category": "cultural",
+                  "coords": [
+                        123.933783,
+                        47.336009
+                  ]
+            },
+            {
+                  "name": "Bukui Mosque",
+                  "text": "Bukui Mosque is the oldest mosque in Heilongjiang province.",
+                  "category": "religious",
+                  "coords": [
+                        123.944552,
+                        47.348734
+                  ]
+            }
+      ]
+},     type: "city",     parent: "CN-HL",     coords: [123.9536, 47.3425],     name: {       de: "Qiqihar",       hu: "Csicsihar",       ro: "Qiqihar",       en: "Qiqihar"},
     image: "/poi-images/qiqihar-cities-v2.webp",     description: {       de: "Eine GroÃŸstadt in der Provinz Heilongjiang, ein wichtiges Zentrum fÃ¼r Industrie und Landwirtschaft im Nordosten Chinas.",       hu: "Heilungcsiang tartomÃ¡ny egyik nagyvÃ¡rosa, Ã‰szakkelet-KÃ­na fontos ipari Ã©s mezÅ‘gazdasÃ¡gi kÃ¶zpontja.",       ro: "Un oraÈ™ important din provincia Heilongjiang, un centru industrial È™i agricol crucial Ã®n nord-estul Chinei.",       en: "A major city in Heilongjiang province, a crucial industrial and agricultural hub in Northeast China."     , es: "Una gran ciudad en la provincia de Heilongjiang, un importante centro industrial y agrÃ­cola en el noreste de China.", pt: "Uma grande cidade na provÃ­ncia de Heilongjiang, um importante centro industrial e agrÃ­cola no nordeste da China.", fr: "Une grande ville de la province du Heilongjiang, un centre industriel et agricole important dans le nord-est de la Chine."},     facts: {       de: ["Name bedeutet 'Grenze' oder 'natÃ¼rliche Weide' auf Manchu.", "Bekannt fÃ¼r das Zhalong-Naturreservat, die Heimat der Mandschurenkraniche.", "Wichtiger Standort fÃ¼r die Herstellung von Schwermaschinen."],       hu: ["A neve mandzsu nyelven 'hatÃ¡rt' vagy 'termÃ©szetes legelÅ‘t' jelent.", "HÃ­res a Zhalong TermÃ©szetvÃ©delmi TerÃ¼letrÅ‘l, a mandzsÃºriai darvak otthonÃ¡rÃ³l.", "Fontos nehÃ©zgÃ©pgyÃ¡rtÃ³ kÃ¶zpont."],       ro: ["Numele Ã®nseamnÄƒ 'graniÈ›Äƒ' sau 'pÄƒÈ™une naturalÄƒ' Ã®n manciurianÄƒ.", "Renumit pentru RezervaÈ›ia NaturalÄƒ Zhalong, casa cocorilor cu coroanÄƒ roÈ™ie.", "Un centru important pentru fabricarea de maÈ™ini grele."],       en: ["Name means 'border' or 'natural pasture' in Manchu.", "Famous for the Zhalong Nature Reserve, home to red-crowned cranes.", "An important heavy machinery manufacturing base."]     , es: ["Su nombre significa 'frontera' o 'pasto natural' en manchÃº.", "Conocida por la Reserva Natural de Zhalong, hogar de las grullas de coronilla roja.", "Importante sede para la fabricaciÃ³n de maquinaria pesada."], pt: ["O nome significa 'fronteira' ou 'pasto natural' em manchu.", "Conhecida pela Reserva Natural de Zhalong, lar dos grous-da-manchÃºria.", "Local importante para o fabrico de mÃ¡quinas pesadas."], fr: ["Son nom signifie 'frontiÃ¨re' ou 'pÃ¢turage naturel' en mandchou.", "Connue pour la rÃ©serve naturelle de Zhalong, habitat des grues du Japon.", "Site important pour la fabrication de machines lourdes."]}, image: "/poi-images/qiqihar-cities-v2.webp",
     descriptionAdvanced: {
       de: "Qiqihar ist die zweitgrÃ¶ÃŸte Stadt der Provinz Heilongjiang im Nordosten Chinas und blickt auf eine Ã¼ber 800-jÃ¤hrige Geschichte zurÃ¼ck, wobei sie lange Zeit als politisches und kulturelles Zentrum der Region diente. Die Stadt ist international bekannt fÃ¼r das Zhalong-Naturreservat, eines der weltweit bedeutendsten Feuchtgebiete und ein wichtiger Brutplatz fÃ¼r den bedrohten Mandschurenkranich. Dieser Vogel hat Qiqihar den Beinamen \"Stadt der Kraniche\" eingebracht und ist tief in der lokalen Symbolik verwurzelt. Geografisch liegt die Stadt am Ufer des Nen-Flusses in der weiten Songnen-Ebene, was sie zu einem wichtigen landwirtschaftlichen Zentrum fÃ¼r Getreide- und Viehzucht macht. In der Industrie ist Qiqihar ein bedeutender Standort fÃ¼r den Schwermaschinenbau und die Produktion von Schienenfahrzeugen in China. Das Klima ist durch lange, kalte Winter und kurze, warme Sommer geprÃ¤gt, was die Lebensweise und die Architektur der Stadt beeinflusst hat. Historisch war Qiqihar wÃ¤hrend der Qing-Dynastie die Hauptstadt der Provinz Heilongjiang und behielt diese Rolle bis weit ins 20. Jahrhundert bei. Heute verbindet die Stadt ihre industrielle StÃ¤rke mit BemÃ¼hungen im Naturschutz und der FÃ¶rderung des Ã–kotourismus.",
@@ -479,7 +5699,592 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2",    
       pt: ["Sede do Anshan Iron and Steel Group", "O Buda de Jade pesa 260 toneladas", "O Parque Qianshan tem mais de 900 picos", "Fundada por volta do ano 1387", "PopulaÃ§Ã£o de cerca de 3,3 milhÃµes de habitantes", "DepÃ³sitos significativos de magnesite"],
       fr: ["SiÃ¨ge de l'Anshan Iron and Steel Group", "Le Bouddha de jade pÃ¨se 260 tonnes", "Le parc Qianshan compte plus de 900 sommets", "FondÃ©e vers l'an 1387", "Population d'environ 3,3 millions d'habitants", "Importants gisements de magnÃ©site"],
     },
-  },   {     id: "luoyang-cities-v2",     type: "city",     parent: "CN-HA",     coords: [112.4536, 34.6697],     name: {       de: "Luoyang",       hu: "Lojang",       ro: "Luoyang",       en: "Luoyang"},
+  },   {     id: "luoyang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "天子驾六博物馆",
+                  "text": "Dieses Museum zeigt archäologische Funde in der Stadt Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.436838,
+                        34.67472
+                  ]
+            },
+            {
+                  "name": "洛阳市文化馆",
+                  "text": "Das Luoyang City Cultural Center ist eine museumähnliche Einrichtung in Luoyang.",
+                  "category": "museum",
+                  "coords": [
+                        112.421886,
+                        34.668714
+                  ]
+            },
+            {
+                  "name": "洛阳博物馆",
+                  "text": "Das Luoyang Museum ist eine bedeutende kulturelle Einrichtung in Luoyang.",
+                  "category": "museum",
+                  "coords": [
+                        112.445704,
+                        34.644266
+                  ]
+            },
+            {
+                  "name": "洛阳万里茶道博物馆(山陕会馆)",
+                  "text": "Diese Einrichtung ist ein lokales Museum in Luoyang.",
+                  "category": "museum",
+                  "coords": [
+                        112.475881,
+                        34.676782
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城天街",
+                  "text": "Diese Stätte ist eine archäologische Attraktion in der Stadt Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.458919,
+                        34.646835
+                  ]
+            },
+            {
+                  "name": "含嘉仓遗址",
+                  "text": "Dies ist eine archäologische Stätte in Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.467164,
+                        34.693992
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城天街址",
+                  "text": "Dieser historische Ort dient als archäologische Stätte in Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.456457,
+                        34.664177
+                  ]
+            },
+            {
+                  "name": "玄武门遗址",
+                  "text": "Dies ist eine lokale archäologische Stätte in der Stadt Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.453421,
+                        34.685402
+                  ]
+            },
+            {
+                  "name": "丽景门",
+                  "text": "Das Lijingmen-Tor ist eine bekannte Touristenattraktion in Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.465259,
+                        34.682069
+                  ]
+            },
+            {
+                  "name": "洛邑古城",
+                  "text": "Dieser Ort ist eine Touristenattraktion in Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.479544,
+                        34.681583
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园九洲池景区",
+                  "text": "Dieses Landschaftsgebiet ist eine beliebte Attraktion in der Stadt Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.446661,
+                        34.681222
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园应天门景区",
+                  "text": "Dies ist eine bekannte Touristenattraktion in Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.454499,
+                        34.677572
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园天堂明堂景区",
+                  "text": "Dieser Ort ist eine lokale Attraktion für Besucher in Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.453437,
+                        34.681834
+                  ]
+            },
+            {
+                  "name": "西大街",
+                  "text": "Die West Street ist eine lokale Touristenattraktion in der Stadt Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.469074,
+                        34.682663
+                  ]
+            },
+            {
+                  "name": "周公庙",
+                  "text": "Der Zhougong-Tempel ist ein lokales Denkmal in Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.456067,
+                        34.67753
+                  ]
+            },
+            {
+                  "name": "八路军驻洛办事处纪念馆",
+                  "text": "Diese Gedenkstätte dient als historisches Denkmal in Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.475109,
+                        34.678192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "天子驾六博物馆",
+                  "text": "Ez a múzeum régészeti leleteket mutat be Luoyang városában.",
+                  "category": "historical",
+                  "coords": [
+                        112.436838,
+                        34.67472
+                  ]
+            },
+            {
+                  "name": "洛阳市文化馆",
+                  "text": "A Luoyang Városi Kulturális Központ egy múzeumi intézmény Luoyangban.",
+                  "category": "museum",
+                  "coords": [
+                        112.421886,
+                        34.668714
+                  ]
+            },
+            {
+                  "name": "洛阳博物馆",
+                  "text": "A Luoyang Múzeum egy jelentős kulturális intézmény Luoyangban.",
+                  "category": "museum",
+                  "coords": [
+                        112.445704,
+                        34.644266
+                  ]
+            },
+            {
+                  "name": "洛阳万里茶道博物馆(山陕会馆)",
+                  "text": "Ez a létesítmény egy dedikált helyi múzeum Luoyangban.",
+                  "category": "museum",
+                  "coords": [
+                        112.475881,
+                        34.676782
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城天街",
+                  "text": "Ez a helyszín egy régészeti látványosság Luoyang városában.",
+                  "category": "historical",
+                  "coords": [
+                        112.458919,
+                        34.646835
+                  ]
+            },
+            {
+                  "name": "含嘉仓遗址",
+                  "text": "Ez egy régészeti lelőhely Luoyangban.",
+                  "category": "historical",
+                  "coords": [
+                        112.467164,
+                        34.693992
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城天街址",
+                  "text": "Ez a történelmi helyszín régészeti lelőhelyként szolgál Luoyangban.",
+                  "category": "historical",
+                  "coords": [
+                        112.456457,
+                        34.664177
+                  ]
+            },
+            {
+                  "name": "玄武门遗址",
+                  "text": "Ez egy helyi régészeti lelőhely Luoyang városában.",
+                  "category": "historical",
+                  "coords": [
+                        112.453421,
+                        34.685402
+                  ]
+            },
+            {
+                  "name": "丽景门",
+                  "text": "A Lijingmen-kapu egy kiemelkedő turisztikai látványosság Luoyangban.",
+                  "category": "landmark",
+                  "coords": [
+                        112.465259,
+                        34.682069
+                  ]
+            },
+            {
+                  "name": "洛邑古城",
+                  "text": "Ez a helyszín egy turisztikai látványosság Luoyangban.",
+                  "category": "landmark",
+                  "coords": [
+                        112.479544,
+                        34.681583
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园九洲池景区",
+                  "text": "Ez a festői terület egy népszerű látványosság Luoyang városán belül.",
+                  "category": "landmark",
+                  "coords": [
+                        112.446661,
+                        34.681222
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园应天门景区",
+                  "text": "Ez egy jelentős turisztikai látványosság Luoyangban.",
+                  "category": "landmark",
+                  "coords": [
+                        112.454499,
+                        34.677572
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园天堂明堂景区",
+                  "text": "Ez a helyszín egy helyi látványosság a látogatók számára Luoyangban.",
+                  "category": "landmark",
+                  "coords": [
+                        112.453437,
+                        34.681834
+                  ]
+            },
+            {
+                  "name": "西大街",
+                  "text": "A West Street egy helyi turisztikai látványosság Luoyang városában.",
+                  "category": "landmark",
+                  "coords": [
+                        112.469074,
+                        34.682663
+                  ]
+            },
+            {
+                  "name": "周公庙",
+                  "text": "A Zhougong-templom egy helyi emlékmű Luoyangban.",
+                  "category": "historical",
+                  "coords": [
+                        112.456067,
+                        34.67753
+                  ]
+            },
+            {
+                  "name": "八路军驻洛办事处纪念馆",
+                  "text": "Ez az emlékmű történelmi emlékműként szolgál Luoyangban.",
+                  "category": "historical",
+                  "coords": [
+                        112.475109,
+                        34.678192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "天子驾六博物馆",
+                  "text": "Acest muzeu prezintă descoperiri arheologice în orașul Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.436838,
+                        34.67472
+                  ]
+            },
+            {
+                  "name": "洛阳市文化馆",
+                  "text": "Centrul Cultural al Orașului Luoyang este o instituție cu caracter muzeal din Luoyang.",
+                  "category": "museum",
+                  "coords": [
+                        112.421886,
+                        34.668714
+                  ]
+            },
+            {
+                  "name": "洛阳博物馆",
+                  "text": "Muzeul Luoyang este o instituție culturală semnificativă din Luoyang.",
+                  "category": "museum",
+                  "coords": [
+                        112.445704,
+                        34.644266
+                  ]
+            },
+            {
+                  "name": "洛阳万里茶道博物馆(山陕会馆)",
+                  "text": "Această facilitate este un muzeu local dedicat, situat în Luoyang.",
+                  "category": "museum",
+                  "coords": [
+                        112.475881,
+                        34.676782
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城天街",
+                  "text": "Acest sit este o atracție arheologică din orașul Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.458919,
+                        34.646835
+                  ]
+            },
+            {
+                  "name": "含嘉仓遗址",
+                  "text": "Acesta este un sit arheologic situat în Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.467164,
+                        34.693992
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城天街址",
+                  "text": "Această locație istorică servește drept sit arheologic în Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.456457,
+                        34.664177
+                  ]
+            },
+            {
+                  "name": "玄武门遗址",
+                  "text": "Acesta este un sit arheologic local situat în orașul Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.453421,
+                        34.685402
+                  ]
+            },
+            {
+                  "name": "丽景门",
+                  "text": "Poarta Lijingmen este o atracție turistică proeminentă din Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.465259,
+                        34.682069
+                  ]
+            },
+            {
+                  "name": "洛邑古城",
+                  "text": "Această locație este o atracție turistică aflată în Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.479544,
+                        34.681583
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园九洲池景区",
+                  "text": "Această zonă pitorească este o atracție populară în orașul Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.446661,
+                        34.681222
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园应天门景区",
+                  "text": "Aceasta este o atracție turistică notabilă situată în Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.454499,
+                        34.677572
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园天堂明堂景区",
+                  "text": "Acest sit este o atracție locală pentru vizitatorii din Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.453437,
+                        34.681834
+                  ]
+            },
+            {
+                  "name": "西大街",
+                  "text": "West Street este o atracție turistică locală în orașul Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.469074,
+                        34.682663
+                  ]
+            },
+            {
+                  "name": "周公庙",
+                  "text": "Templul Zhougong este un monument local situat în Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.456067,
+                        34.67753
+                  ]
+            },
+            {
+                  "name": "八路军驻洛办事处纪念馆",
+                  "text": "Acest memorial servește drept monument istoric în Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.475109,
+                        34.678192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luoyang Zhouwangcheng Emperor Six Horses Carriage Museum",
+                  "text": "This museum features archaeological findings in the city of Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.436838,
+                        34.67472
+                  ]
+            },
+            {
+                  "name": "洛阳市文化馆",
+                  "text": "The Luoyang City Cultural Center is a museum-like institution in Luoyang.",
+                  "category": "museum",
+                  "coords": [
+                        112.421886,
+                        34.668714
+                  ]
+            },
+            {
+                  "name": "Luoyang Museum",
+                  "text": "The Luoyang Museum is a significant cultural institution in Luoyang.",
+                  "category": "museum",
+                  "coords": [
+                        112.445704,
+                        34.644266
+                  ]
+            },
+            {
+                  "name": "洛阳万里茶道博物馆(山陕会馆)",
+                  "text": "This facility is a dedicated local museum situated in Luoyang.",
+                  "category": "museum",
+                  "coords": [
+                        112.475881,
+                        34.676782
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城天街",
+                  "text": "This site is an archaeological attraction in the city of Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.458919,
+                        34.646835
+                  ]
+            },
+            {
+                  "name": "含嘉仓遗址",
+                  "text": "This is an archaeological site located in Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.467164,
+                        34.693992
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城天街址",
+                  "text": "This historical location serves as an archaeological site in Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.456457,
+                        34.664177
+                  ]
+            },
+            {
+                  "name": "玄武门遗址",
+                  "text": "This is a local archaeological site situated in the city of Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.453421,
+                        34.685402
+                  ]
+            },
+            {
+                  "name": "Lijingmen Gate",
+                  "text": "The Lijingmen Gate is a prominent tourist attraction in Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.465259,
+                        34.682069
+                  ]
+            },
+            {
+                  "name": "Fake old city",
+                  "text": "This location is a tourist attraction found in Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.479544,
+                        34.681583
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园九洲池景区",
+                  "text": "This scenic area is a popular attraction within the city of Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.446661,
+                        34.681222
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园应天门景区",
+                  "text": "This is a notable tourist attraction located in Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.454499,
+                        34.677572
+                  ]
+            },
+            {
+                  "name": "隋唐洛阳城国家遗址公园天堂明堂景区",
+                  "text": "This site is a local attraction for visitors in Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.453437,
+                        34.681834
+                  ]
+            },
+            {
+                  "name": "West Street",
+                  "text": "West Street is a local tourist attraction in the city of Luoyang.",
+                  "category": "landmark",
+                  "coords": [
+                        112.469074,
+                        34.682663
+                  ]
+            },
+            {
+                  "name": "Zhougong Temple",
+                  "text": "Zhougong Temple is a local monument situated in Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.456067,
+                        34.67753
+                  ]
+            },
+            {
+                  "name": "八路军驻洛办事处纪念馆",
+                  "text": "This memorial hall serves as a historical monument in Luoyang.",
+                  "category": "historical",
+                  "coords": [
+                        112.475109,
+                        34.678192
+                  ]
+            }
+      ]
+},     type: "city",     parent: "CN-HA",     coords: [112.4536, 34.6697],     name: {       de: "Luoyang",       hu: "Lojang",       ro: "Luoyang",       en: "Luoyang"},
     image: "/poi-images/luoyang-cities-v2.webp",     description: {       de: "Eine der vier groÃŸen alten HauptstÃ¤dte Chinas, in der Provinz Henan gelegen.",       hu: "KÃ­na nÃ©gy nagy Å‘si fÅ‘vÃ¡rosÃ¡nak egyike, Henan tartomÃ¡nyban talÃ¡lhatÃ³.",       ro: "Una dintre cele patru mari capitale antice ale Chinei, situatÄƒ Ã®n provincia Henan.",       en: "One of the Four Great Ancient Capitals of China, located in Henan province."     , es: "Una de las cuatro grandes capitales antiguas de China, situada en la provincia de Henan.", pt: "Uma das quatro grandes capitais antigas da China, situada na provÃ­ncia de Henan.", fr: "L'une des quatre grandes anciennes capitales de la Chine, situÃ©e dans la province du Henan."},     facts: {       de: ["Wiege der chinesischen Zivilisation.", "In der NÃ¤he der Longmen-Grotten, einem UNESCO-Weltkulturerbe.", "Bekannt fÃ¼r das jÃ¤hrliche Pfingstrosenfest."],       hu: ["A kÃ­nai civilizÃ¡ciÃ³ bÃ¶lcsÅ‘je.", "A Longmen-barlangok kÃ¶zelÃ©ben talÃ¡lhatÃ³, amely az UNESCO VilÃ¡gÃ¶rÃ¶ksÃ©g rÃ©sze.", "HÃ­res az Ã©vente megrendezett bazsarÃ³zsafesztivÃ¡lrÃ³l."],       ro: ["LeagÄƒn al civilizaÈ›iei chineze.", "Aproape de Grotele Longmen, un sit al Patrimoniului Mondial UNESCO.", "Renumit pentru festivalul anual al bujorilor."],       en: ["Cradle of Chinese civilization.", "Near the Longmen Grottoes, a UNESCO World Heritage site.", "Famous for the annual Peony Festival."]     , es: ["Cuna de la civilizaciÃ³n china.", "Cerca de las grutas de Longmen, Patrimonio de la Humanidad de la UNESCO.", "Conocida por el festival anual de la peonÃ­a."], pt: ["BerÃ§o da civilizaÃ§Ã£o chinesa.", "Perto das Grutas de Longmen, PatrimÃ³nio Mundial da UNESCO.", "Conhecida pelo festival anual da peÃ³nia."], fr: ["Berceau de la civilisation chinoise.", "Proche des grottes de Longmen, classÃ©es au patrimoine mondial de l'UNESCO.", "Connue pour son festival annuel de la pivoine."]},
     descriptionAdvanced: {
       de: "Luoyang, im Westen der Provinz Henan gelegen, gilt als eine der Wiegen der chinesischen Zivilisation und diente Ã¼ber dreizehn Dynastien hinweg als Hauptstadt des Kaiserreichs. Die Stadt beherbergt die Longmen-Grotten, ein UNESCO-Weltkulturerbe, das Tausende von buddhistischen Statuen umfasst, die Ã¼ber Jahrhunderte hinweg in die Kalksteinfelsen entlang des Yi-Flusses gehauen wurden. Ein weiteres bedeutendes Denkmal ist das Kloster des WeiÃŸen Pferdes, das als erster buddhistischer Tempel Chinas gilt und im Jahr 68 n. Chr. gegrÃ¼ndet wurde. Geografisch liegt Luoyang in einer strategisch gÃ¼nstigen Position am Zusammenfluss von Luohe und Gelbem Fluss, was seine historische Rolle als administratives Zentrum festigte. In der Kultur ist die Stadt berÃ¼hmt fÃ¼r die PfingstrosenblÃ¼te, die jedes Jahr im FrÃ¼hling Besucher aus aller Welt anzieht und tief in der lokalen IdentitÃ¤t verwurzelt ist. In der Moderne hat sich Luoyang zu einem wichtigen Industriestandort entwickelt, insbesondere in den Bereichen Maschinenbau und BergbauausrÃ¼stung. Die Stadt verbindet auf einzigartige Weise ihre jahrtausendealte Geschichte mit dem Fortschritt der Gegenwart, wobei archÃ¤ologische Ausgrabungen stÃ¤ndig neue Erkenntnisse Ã¼ber die antiken KaiserstÃ¤dte ans Licht bringen. Als Teil des WirtschaftsgÃ¼rtels entlang des Gelben Flusses spielt Luoyang heute eine zentrale Rolle in der regionalen Entwicklung Zentralchinas.",

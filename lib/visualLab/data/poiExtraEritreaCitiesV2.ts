@@ -25,7 +25,232 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "massawa-cities-v2",
+    id: "massawa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Northern Red Sea Region Museum متحف منطقة شمال البحر الأحمر",
+                  "text": "Das Northern Red Sea Region Museum ist eine Museumseinrichtung in Massaua.",
+                  "category": "museum",
+                  "coords": [
+                        39.451783,
+                        15.605504
+                  ]
+            },
+            {
+                  "name": "Site of Villa Melotti موقع فيلا ميلوتي",
+                  "text": "Die Stätte der Villa Melotti ist eine lokale Touristenattraktion in Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.463176,
+                        15.596331
+                  ]
+            },
+            {
+                  "name": "Azieb أزيب",
+                  "text": "Azieb ist eine Sehenswürdigkeit und Attraktion in der Stadt Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.475251,
+                        15.60819
+                  ]
+            },
+            {
+                  "name": "Boat to Green Island قارب إلى الجزيرة الخضراء",
+                  "text": "Die Bootsfahrt nach Green Island ist eine Touristenattraktion in Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.471448,
+                        15.607811
+                  ]
+            },
+            {
+                  "name": "Former Imperial Palace القصر الإمبراطوري السابق",
+                  "text": "Der ehemalige Kaiserpalast ist eine historische Sehenswürdigkeit in Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.468756,
+                        15.610405
+                  ]
+            },
+            {
+                  "name": "المسجد القديم",
+                  "text": "Die Ruinen der المسجد القديم (Alte Moschee) sind eine historische Stätte in Massaua.",
+                  "category": "historical",
+                  "coords": [
+                        39.477998,
+                        15.593398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Northern Red Sea Region Museum متحف منطقة شمال البحر الأحمر",
+                  "text": "A Northern Red Sea Region Museum egy múzeumi intézmény Massaua városában.",
+                  "category": "museum",
+                  "coords": [
+                        39.451783,
+                        15.605504
+                  ]
+            },
+            {
+                  "name": "Site of Villa Melotti موقع فيلا ميلوتي",
+                  "text": "A Villa Melotti helyszíne egy helyi turisztikai látványosság Massaua városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.463176,
+                        15.596331
+                  ]
+            },
+            {
+                  "name": "Azieb أزيب",
+                  "text": "Az Azieb egy érdekes látványosság Massaua városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.475251,
+                        15.60819
+                  ]
+            },
+            {
+                  "name": "Boat to Green Island قارب إلى الجزيرة الخضراء",
+                  "text": "A Green Islandre tartó hajó egy turisztikai attrakció Massaua városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.471448,
+                        15.607811
+                  ]
+            },
+            {
+                  "name": "Former Imperial Palace القصر الإمبراطوري السابق",
+                  "text": "Az egykori császári palota egy történelmi látványosság Massaua városában.",
+                  "category": "landmark",
+                  "coords": [
+                        39.468756,
+                        15.610405
+                  ]
+            },
+            {
+                  "name": "المسجد القديم",
+                  "text": "A المسجد القديم (Öreg mecset) romjai egy történelmi helyszínt képviselnek Massaua városában.",
+                  "category": "historical",
+                  "coords": [
+                        39.477998,
+                        15.593398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Northern Red Sea Region Museum متحف منطقة شمال البحر الأحمر",
+                  "text": "Northern Red Sea Region Museum este un muzeu situat în Massaua.",
+                  "category": "museum",
+                  "coords": [
+                        39.451783,
+                        15.605504
+                  ]
+            },
+            {
+                  "name": "Site of Villa Melotti موقع فيلا ميلوتي",
+                  "text": "Situl Villa Melotti este o atracție turistică locală situată în Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.463176,
+                        15.596331
+                  ]
+            },
+            {
+                  "name": "Azieb أزيب",
+                  "text": "Azieb este un punct de interes și o atracție situată în orașul Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.475251,
+                        15.60819
+                  ]
+            },
+            {
+                  "name": "Boat to Green Island قارب إلى الجزيرة الخضراء",
+                  "text": "Barca spre Green Island este o atracție turistică din Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.471448,
+                        15.607811
+                  ]
+            },
+            {
+                  "name": "Former Imperial Palace القصر الإمبراطوري السابق",
+                  "text": "Fostul Palat Imperial este o atracție istorică situată în Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.468756,
+                        15.610405
+                  ]
+            },
+            {
+                  "name": "المسجد القديم",
+                  "text": "Ruinele المسجد القديم (Vechea Moschee) reprezintă un sit istoric în Massaua.",
+                  "category": "historical",
+                  "coords": [
+                        39.477998,
+                        15.593398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Northern Red Sea Region Museum",
+                  "text": "The Northern Red Sea Region Museum is a museum institution located in Massaua.",
+                  "category": "museum",
+                  "coords": [
+                        39.451783,
+                        15.605504
+                  ]
+            },
+            {
+                  "name": "Site of Villa Melotti",
+                  "text": "The Site of Villa Melotti is a local tourist attraction situated in Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.463176,
+                        15.596331
+                  ]
+            },
+            {
+                  "name": "Azieb",
+                  "text": "Azieb is a point of interest and attraction located in the city of Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.475251,
+                        15.60819
+                  ]
+            },
+            {
+                  "name": "Boat to Green Island",
+                  "text": "The Boat to Green Island is a tourist attraction offering services in Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.471448,
+                        15.607811
+                  ]
+            },
+            {
+                  "name": "Former Imperial Palace",
+                  "text": "The Former Imperial Palace is a historical attraction found in Massaua.",
+                  "category": "landmark",
+                  "coords": [
+                        39.468756,
+                        15.610405
+                  ]
+            },
+            {
+                  "name": "المسجد القديم",
+                  "text": "The ruins of المسجد القديم (the Old Mosque) represent a historical site in Massaua.",
+                  "category": "historical",
+                  "coords": [
+                        39.477998,
+                        15.593398
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ER-SK",
     coords: [39.4746, 15.6097],
@@ -47,7 +272,52 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "keren-cities-v2",
+    id: "keren-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Tigu",
+                  "text": "Fort Tigu ist eine historische Festungsanlage in der Stadt Keren.",
+                  "category": "castle",
+                  "coords": [
+                        38.452188,
+                        15.78368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort Tigu",
+                  "text": "A Tigu erőd egy történelmi vár Keren városában.",
+                  "category": "castle",
+                  "coords": [
+                        38.452188,
+                        15.78368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort Tigu",
+                  "text": "Fortul Tigu este un castel istoric situat în orașul Keren.",
+                  "category": "castle",
+                  "coords": [
+                        38.452188,
+                        15.78368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Tigu",
+                  "text": "Fort Tigu is a historic castle located in the city of Keren.",
+                  "category": "castle",
+                  "coords": [
+                        38.452188,
+                        15.78368
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ER-AN",
     coords: [38.4522, 15.7778],
@@ -69,7 +339,52 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     },
   },
   {
-    id: "assab-cities-v2",
+    id: "assab-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arsinoé",
+                  "text": "Arsinoé ist eine archäologische Stätte in der Stadt Assab.",
+                  "category": "historical",
+                  "coords": [
+                        42.736553,
+                        13.031371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arsinoé",
+                  "text": "Arsinoé egy régészeti lelőhely Assab városában.",
+                  "category": "historical",
+                  "coords": [
+                        42.736553,
+                        13.031371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arsinoé",
+                  "text": "Arsinoé este un sit arheologic situat în orașul Assab.",
+                  "category": "historical",
+                  "coords": [
+                        42.736553,
+                        13.031371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arsinoé",
+                  "text": "Arsinoé is an archaeological site located in the city of Assab.",
+                  "category": "historical",
+                  "coords": [
+                        42.736553,
+                        13.031371
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ER-DK",
     coords: [42.7394, 13.0092],

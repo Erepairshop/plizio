@@ -88,7 +88,268 @@ export const poiExtraChadCitiesV2: POI[] = [
       fr: ["Centre de la brasserie tchadienne.", "Port fluvial important sur le Logone."],
     }, image: "/poi-images/moundou-cities-v2.webp"},
   {
-    id: "sarh-cities-v2",
+    id: "sarh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف ساره الإقليمي",
+                  "text": "متحف ساره الإقليمي ist ein Museum in der Stadt Sarh.",
+                  "category": "museum",
+                  "coords": [
+                        18.388815,
+                        9.151002
+                  ]
+            },
+            {
+                  "name": "خراب فندق دي شاس",
+                  "text": "Ruin of the Hotel de Chasse ist eine Touristenattraktion in der Stadt Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.391382,
+                        9.151719
+                  ]
+            },
+            {
+                  "name": "مركز الحرفيين",
+                  "text": "مركز الحرفيين ist eine Touristenattraktion in der Stadt Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.384889,
+                        9.148508
+                  ]
+            },
+            {
+                  "name": "خراب منزل فرانسوا تولمباي",
+                  "text": "Ruine of the house of François Tombalbaye ist eine Touristenattraktion in der Stadt Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.387879,
+                        9.1395
+                  ]
+            },
+            {
+                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
+                  "text": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH ist eine Touristenattraktion in der Stadt Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.381469,
+                        9.152994
+                  ]
+            },
+            {
+                  "name": "مركز ثقافي ساره",
+                  "text": "مركز ثقافي ساره ist ein Kunstzentrum in der Stadt Sarh.",
+                  "category": "cultural",
+                  "coords": [
+                        18.384115,
+                        9.143442
+                  ]
+            },
+            {
+                  "name": "كاتدرائية",
+                  "text": "كاتدرائية ist eine bedeutende Kultstätte in Sarh. Sie dient als Kathedrale Unserer Lieben Frau von der Unbefleckten Empfängnis in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        18.384228,
+                        9.145022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف ساره الإقليمي",
+                  "text": "A متحف ساره الإقليمي egy múzeum Sarh városában.",
+                  "category": "museum",
+                  "coords": [
+                        18.388815,
+                        9.151002
+                  ]
+            },
+            {
+                  "name": "خراب فندق دي شاس",
+                  "text": "A Ruin of the Hotel de Chasse egy turisztikai látványosság Sarh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.391382,
+                        9.151719
+                  ]
+            },
+            {
+                  "name": "مركز الحرفيين",
+                  "text": "A مركز الحرفيين egy turisztikai látványosság Sarh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.384889,
+                        9.148508
+                  ]
+            },
+            {
+                  "name": "خراب منزل فرانسوا تولمباي",
+                  "text": "A Ruine of the house of François Tombalbaye egy turisztikai látványosság Sarh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.387879,
+                        9.1395
+                  ]
+            },
+            {
+                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
+                  "text": "A Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH egy turisztikai látványosság Sarh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.381469,
+                        9.152994
+                  ]
+            },
+            {
+                  "name": "مركز ثقافي ساره",
+                  "text": "A مركز ثقافي ساره egy művészeti központ Sarh városában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.384115,
+                        9.143442
+                  ]
+            },
+            {
+                  "name": "كاتدرائية",
+                  "text": "A كاتدرائية egy jelentős istentiszteleti hely Sarh városában. A város Szeplőtelen Fogantatás katedrálisaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        18.384228,
+                        9.145022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف ساره الإقليمي",
+                  "text": "متحف ساره الإقليمي este un muzeu situat în orașul Sarh.",
+                  "category": "museum",
+                  "coords": [
+                        18.388815,
+                        9.151002
+                  ]
+            },
+            {
+                  "name": "خراب فندق دي شاس",
+                  "text": "Ruin of the Hotel de Chasse este o atracție turistică situată în orașul Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.391382,
+                        9.151719
+                  ]
+            },
+            {
+                  "name": "مركز الحرفيين",
+                  "text": "مركز الحرفيين este o atracție turistică situată în orașul Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.384889,
+                        9.148508
+                  ]
+            },
+            {
+                  "name": "خراب منزل فرانسوا تولمباي",
+                  "text": "Ruine of the house of François Tombalbaye este o atracție turistică situată în orașul Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.387879,
+                        9.1395
+                  ]
+            },
+            {
+                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
+                  "text": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH este o atracție turistică situată în orașul Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.381469,
+                        9.152994
+                  ]
+            },
+            {
+                  "name": "مركز ثقافي ساره",
+                  "text": "مركز ثقافي ساره este un centru de arte situat în orașul Sarh.",
+                  "category": "cultural",
+                  "coords": [
+                        18.384115,
+                        9.143442
+                  ]
+            },
+            {
+                  "name": "كاتدرائية",
+                  "text": "كاتدرائية este un lăcaș de cult notabil situat în Sarh. Servește drept Catedrala Fecioarei Maria a Imaculatei Concepții din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        18.384228,
+                        9.145022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "متحف ساره الإقليمي",
+                  "text": "متحف ساره الإقليمي is a museum located in the city of Sarh.",
+                  "category": "museum",
+                  "coords": [
+                        18.388815,
+                        9.151002
+                  ]
+            },
+            {
+                  "name": "Ruin of the Hotel de Chasse",
+                  "text": "Ruin of the Hotel de Chasse is a tourist attraction located in the city of Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.391382,
+                        9.151719
+                  ]
+            },
+            {
+                  "name": "مركز الحرفيين",
+                  "text": "مركز الحرفيين is a tourist attraction located in the city of Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.384889,
+                        9.148508
+                  ]
+            },
+            {
+                  "name": "Ruine of the house of François Tombalbaye",
+                  "text": "Ruine of the house of François Tombalbaye is a tourist attraction located in the city of Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.387879,
+                        9.1395
+                  ]
+            },
+            {
+                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
+                  "text": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH is a tourist attraction located in the city of Sarh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.381469,
+                        9.152994
+                  ]
+            },
+            {
+                  "name": "مركز ثقافي ساره",
+                  "text": "مركز ثقافي ساره is an arts centre located in the city of Sarh.",
+                  "category": "cultural",
+                  "coords": [
+                        18.384115,
+                        9.143442
+                  ]
+            },
+            {
+                  "name": "كاتدرائية",
+                  "text": "كاتدرائية is a notable place of worship located in Sarh. It serves as the Cathedral of Our Lady of the Immaculate Conception in the city.",
+                  "category": "religious",
+                  "coords": [
+                        18.384228,
+                        9.145022
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-MC",
     coords: [18.39, 9.14],
@@ -133,7 +394,88 @@ export const poiExtraChadCitiesV2: POI[] = [
       fr: ["Anciennement connue sous le nom de Fort Archambault.", "Nœud de communication important."],
     }, image: "/poi-images/sarh-cities-v2.webp"},
   {
-    id: "abeche-cities-v2",
+    id: "abeche-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond Point Franco-Arabe",
+                  "text": "Rond Point Franco-Arabe ist ein bekanntes Denkmal in Abéché.",
+                  "category": "historical",
+                  "coords": [
+                        20.822685,
+                        13.828191
+                  ]
+            },
+            {
+                  "name": "Monument de la Libération",
+                  "text": "Das Monument de la Libération ist ein bedeutendes Denkmal in Abéché.",
+                  "category": "historical",
+                  "coords": [
+                        20.825282,
+                        13.828672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond Point Franco-Arabe",
+                  "text": "A Rond Point Franco-Arabe egy elismert emlékmű Abéché városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.822685,
+                        13.828191
+                  ]
+            },
+            {
+                  "name": "Monument de la Libération",
+                  "text": "A Monument de la Libération egy jelentős emlékmű Abéchéban.",
+                  "category": "historical",
+                  "coords": [
+                        20.825282,
+                        13.828672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond Point Franco-Arabe",
+                  "text": "Rond Point Franco-Arabe este un monument recunoscut din Abéché.",
+                  "category": "historical",
+                  "coords": [
+                        20.822685,
+                        13.828191
+                  ]
+            },
+            {
+                  "name": "Monument de la Libération",
+                  "text": "Monument de la Libération este un monument semnificativ situat în Abéché.",
+                  "category": "historical",
+                  "coords": [
+                        20.825282,
+                        13.828672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond Point Franco-Arabe",
+                  "text": "Rond Point Franco-Arabe is a recognized monument located in Abéché.",
+                  "category": "historical",
+                  "coords": [
+                        20.822685,
+                        13.828191
+                  ]
+            },
+            {
+                  "name": "Monument de la Libération",
+                  "text": "Monument de la Libération is a significant monument situated in Abéché.",
+                  "category": "historical",
+                  "coords": [
+                        20.825282,
+                        13.828672
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-OD",
     coords: [20.83, 13.83],
@@ -269,7 +611,52 @@ export const poiExtraChadCitiesV2: POI[] = [
     }
   },
   {
-    id: "pala-cities-v2",
+    id: "pala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "cathédrale Saint-Pierre-et-Saint-Paul",
+                  "text": "Die Cathédrale Saint-Pierre-et-Saint-Paul ist eine bedeutende Kultstätte in Pala.",
+                  "category": "religious",
+                  "coords": [
+                        14.902918,
+                        9.358148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "cathédrale Saint-Pierre-et-Saint-Paul",
+                  "text": "A Cathédrale Saint-Pierre-et-Saint-Paul egy nevezetes istentiszteleti hely Palában.",
+                  "category": "religious",
+                  "coords": [
+                        14.902918,
+                        9.358148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "cathédrale Saint-Pierre-et-Saint-Paul",
+                  "text": "Catedrala Saint-Pierre-et-Saint-Paul este un lăcaș de cult notabil din Pala.",
+                  "category": "religious",
+                  "coords": [
+                        14.902918,
+                        9.358148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "cathédrale Saint-Pierre-et-Saint-Paul",
+                  "text": "The Cathédrale Saint-Pierre-et-Saint-Paul is a notable place of worship located in Pala.",
+                  "category": "religious",
+                  "coords": [
+                        14.902918,
+                        9.358148
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-MO",
     coords: [14.9, 9.36],
@@ -404,7 +791,88 @@ export const poiExtraChadCitiesV2: POI[] = [
       fr: ["Pôle éducatif important.", "Centre de pêche fluviale."],
     }, image: "/poi-images/bongor-cities-v2.webp"},
   {
-    id: "mongo-cities-v2",
+    id: "mongo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve de faune d'Abou Telfane",
+                  "text": "Die Réserve de faune d'Abou Telfane ist ein bemerkenswertes Naturschutzgebiet in Mongo.",
+                  "category": "natural",
+                  "coords": [
+                        18.884281,
+                        12.091788
+                  ]
+            },
+            {
+                  "name": "حسن موسى",
+                  "text": "حسن موسى ist ein lebhafter Wasserpark in Mongo.",
+                  "category": "recreational",
+                  "coords": [
+                        18.684019,
+                        12.166761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve de faune d'Abou Telfane",
+                  "text": "A Réserve de faune d'Abou Telfane egy nevezetes természetvédelmi terület Mongóban.",
+                  "category": "natural",
+                  "coords": [
+                        18.884281,
+                        12.091788
+                  ]
+            },
+            {
+                  "name": "حسن موسى",
+                  "text": "A حسن موسى egy élénk vízi park Mongóban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.684019,
+                        12.166761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve de faune d'Abou Telfane",
+                  "text": "Réserve de faune d'Abou Telfane este o rezervație naturală notabilă din Mongo.",
+                  "category": "natural",
+                  "coords": [
+                        18.884281,
+                        12.091788
+                  ]
+            },
+            {
+                  "name": "حسن موسى",
+                  "text": "حسن موسى este un parc acvatic plin de viață situat în Mongo.",
+                  "category": "recreational",
+                  "coords": [
+                        18.684019,
+                        12.166761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve de faune d'Abou Telfane",
+                  "text": "The Réserve de faune d'Abou Telfane is a notable nature reserve in Mongo.",
+                  "category": "natural",
+                  "coords": [
+                        18.884281,
+                        12.091788
+                  ]
+            },
+            {
+                  "name": "حسن موسى",
+                  "text": "حسن موسى is a lively water park located in Mongo.",
+                  "category": "recreational",
+                  "coords": [
+                        18.684019,
+                        12.166761
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-GR",
     coords: [18.69, 12.18],
@@ -539,7 +1007,88 @@ export const poiExtraChadCitiesV2: POI[] = [
       fr: ["Point stratégique sur la rivière Batha.", "Important pour l'élevage."],
     }, image: "/poi-images/ati-cities-v2.webp"},
   {
-    id: "mao-cities-v2",
+    id: "mao-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais du Sultant du Kanem قصر سلطان كانم",
+                  "text": "Der Palais du Sultant du Kanem قصر سلطان كانم ist eine historische Burganlage in Mao.",
+                  "category": "castle",
+                  "coords": [
+                        15.312927,
+                        14.120513
+                  ]
+            },
+            {
+                  "name": "ancien gouvernorat المحافظ السابق",
+                  "text": "Das ancien gouvernorat المحافظ السابق sind historische Ruinen in Mao.",
+                  "category": "historical",
+                  "coords": [
+                        15.317276,
+                        14.115062
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais du Sultant du Kanem قصر سلطان كانم",
+                  "text": "A Palais du Sultant du Kanem قصر سلطان كانم egy történelmi kastélyépület Maóban.",
+                  "category": "castle",
+                  "coords": [
+                        15.312927,
+                        14.120513
+                  ]
+            },
+            {
+                  "name": "ancien gouvernorat المحافظ السابق",
+                  "text": "Az ancien gouvernorat المحافظ السابق történelmi romokat kínál Maóban.",
+                  "category": "historical",
+                  "coords": [
+                        15.317276,
+                        14.115062
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais du Sultant du Kanem قصر سلطان كانم",
+                  "text": "Palais du Sultant du Kanem قصر سلطان كانم este o structură de castel istoric din Mao.",
+                  "category": "castle",
+                  "coords": [
+                        15.312927,
+                        14.120513
+                  ]
+            },
+            {
+                  "name": "ancien gouvernorat المحافظ السابق",
+                  "text": "Ancien gouvernorat المحافظ السابق prezintă ruine istorice în Mao.",
+                  "category": "historical",
+                  "coords": [
+                        15.317276,
+                        14.115062
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais du Sultant du Kanem قصر سلطان كانم",
+                  "text": "Palais du Sultant du Kanem قصر سلطان كانم is a historical castle structure in Mao.",
+                  "category": "castle",
+                  "coords": [
+                        15.312927,
+                        14.120513
+                  ]
+            },
+            {
+                  "name": "ancien gouvernorat المحافظ السابق",
+                  "text": "The ancien gouvernorat المحافظ السابق features historical ruins in Mao.",
+                  "category": "historical",
+                  "coords": [
+                        15.317276,
+                        14.115062
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-KA",
     coords: [15.31, 14.12],
@@ -585,7 +1134,124 @@ export const poiExtraChadCitiesV2: POI[] = [
     }
   },
   {
-    id: "faya-largeau-cities-v2",
+    id: "faya-largeau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond point",
+                  "text": "Der Rond point ist ein zentraler Denkmalplatz in Faya-Largeau.",
+                  "category": "historical",
+                  "coords": [
+                        19.104372,
+                        17.930595
+                  ]
+            },
+            {
+                  "name": "Stade municipal Hussein Habre",
+                  "text": "Städtisches Stadion in Faya-Largeau.",
+                  "category": "landmark",
+                  "coords": [
+                        19.095935,
+                        17.918578
+                  ]
+            },
+            {
+                  "name": "Rond point Chifini",
+                  "text": "Denkmal am Rond point Chifini in Faya-Largeau.",
+                  "category": "historical",
+                  "coords": [
+                        19.107216,
+                        17.932889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond point",
+                  "text": "A Rond point egy központi emlékmű Faya-Largeau városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.104372,
+                        17.930595
+                  ]
+            },
+            {
+                  "name": "Stade municipal Hussein Habre",
+                  "text": "Városi stadion Faya-Largeau-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.095935,
+                        17.918578
+                  ]
+            },
+            {
+                  "name": "Rond point Chifini",
+                  "text": "Emlékmű a Faya-Largeau-i Rond point Chifini-nél.",
+                  "category": "historical",
+                  "coords": [
+                        19.107216,
+                        17.932889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond point",
+                  "text": "Rond point este o piață centrală cu monumente în Faya-Largeau.",
+                  "category": "historical",
+                  "coords": [
+                        19.104372,
+                        17.930595
+                  ]
+            },
+            {
+                  "name": "Stade municipal Hussein Habre",
+                  "text": "Stadion municipal în Faya-Largeau.",
+                  "category": "landmark",
+                  "coords": [
+                        19.095935,
+                        17.918578
+                  ]
+            },
+            {
+                  "name": "Rond point Chifini",
+                  "text": "Monument la Rond point Chifini în Faya-Largeau.",
+                  "category": "historical",
+                  "coords": [
+                        19.107216,
+                        17.932889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond point",
+                  "text": "The Rond point is a central monument site in Faya-Largeau.",
+                  "category": "historical",
+                  "coords": [
+                        19.104372,
+                        17.930595
+                  ]
+            },
+            {
+                  "name": "Stade municipal Hussein Habre",
+                  "text": "Municipal stadium in Faya-Largeau.",
+                  "category": "landmark",
+                  "coords": [
+                        19.095935,
+                        17.918578
+                  ]
+            },
+            {
+                  "name": "Rond point Chifini",
+                  "text": "Monument at Rond point Chifini in Faya-Largeau.",
+                  "category": "historical",
+                  "coords": [
+                        19.107216,
+                        17.932889
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-BO",
     coords: [19.12, 17.92],
@@ -630,7 +1296,52 @@ export const poiExtraChadCitiesV2: POI[] = [
       fr: ["Base militaire importante.", "Centre de production de dattes."],
     }, image: "/poi-images/faya-largeau-cities-v2.webp"},
   {
-    id: "massakory-cities-v2",
+    id: "massakory-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond point 100ans",
+                  "text": "Rond point 100ans ist eine Touristenattraktion in der Stadt Massakory.",
+                  "category": "landmark",
+                  "coords": [
+                        15.734059,
+                        12.996995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond point 100ans",
+                  "text": "A Rond point 100ans egy turisztikai látványosság Massakory városában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.734059,
+                        12.996995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond point 100ans",
+                  "text": "Rond point 100ans este o atracție turistică situată în orașul Massakory.",
+                  "category": "landmark",
+                  "coords": [
+                        15.734059,
+                        12.996995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond point 100ans",
+                  "text": "Rond point 100ans is a tourist attraction located in the city of Massakory.",
+                  "category": "landmark",
+                  "coords": [
+                        15.734059,
+                        12.996995
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-HL",
     coords: [15.73, 13.0],
@@ -675,7 +1386,88 @@ export const poiExtraChadCitiesV2: POI[] = [
       fr: ["Porte du Sahel.", "Place commerciale locale importante."],
     }, image: "/poi-images/massakory-cities-v2.webp"},
   {
-    id: "moussoro-cities-v2",
+    id: "moussoro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chez MCD",
+                  "text": "Chez MCD ist eine lokale Attraktion in Moussoro.",
+                  "category": "landmark",
+                  "coords": [
+                        16.467924,
+                        13.640338
+                  ]
+            },
+            {
+                  "name": "Centre de Lecture et d'animation culturelle",
+                  "text": "Das Centre de Lecture et d'animation culturelle ist ein Kunstzentrum in Moussoro.",
+                  "category": "cultural",
+                  "coords": [
+                        16.485834,
+                        13.653583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chez MCD",
+                  "text": "A Chez MCD egy helyi látványosság Moussoróban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.467924,
+                        13.640338
+                  ]
+            },
+            {
+                  "name": "Centre de Lecture et d'animation culturelle",
+                  "text": "A Centre de Lecture et d'animation culturelle egy művészeti központ Moussoróban.",
+                  "category": "cultural",
+                  "coords": [
+                        16.485834,
+                        13.653583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chez MCD",
+                  "text": "Chez MCD este o atracție locală din Moussoro.",
+                  "category": "landmark",
+                  "coords": [
+                        16.467924,
+                        13.640338
+                  ]
+            },
+            {
+                  "name": "Centre de Lecture et d'animation culturelle",
+                  "text": "Centre de Lecture et d'animation culturelle este un centru de arte situat în Moussoro.",
+                  "category": "cultural",
+                  "coords": [
+                        16.485834,
+                        13.653583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chez MCD",
+                  "text": "Chez MCD is a local attraction located in Moussoro.",
+                  "category": "landmark",
+                  "coords": [
+                        16.467924,
+                        13.640338
+                  ]
+            },
+            {
+                  "name": "Centre de Lecture et d'animation culturelle",
+                  "text": "Centre de Lecture et d'animation culturelle is an arts centre situated in Moussoro.",
+                  "category": "cultural",
+                  "coords": [
+                        16.485834,
+                        13.653583
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-BG",
     coords: [16.49, 13.64],
@@ -766,7 +1558,52 @@ export const poiExtraChadCitiesV2: POI[] = [
     }
   },
   {
-    id: "bol-cities-v2",
+    id: "bol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol",
+                  "text": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol ist ein Kunstzentrum in der Stadt Bol.",
+                  "category": "cultural",
+                  "coords": [
+                        14.712789,
+                        13.464413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol",
+                  "text": "A Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol egy művészeti központ Bol városában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.712789,
+                        13.464413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol",
+                  "text": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol este un centru de arte situat în orașul Bol.",
+                  "category": "cultural",
+                  "coords": [
+                        14.712789,
+                        13.464413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol",
+                  "text": "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol is an arts centre located in the city of Bol.",
+                  "category": "cultural",
+                  "coords": [
+                        14.712789,
+                        13.464413
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-LC",
     coords: [14.71, 13.46],
@@ -856,7 +1693,52 @@ export const poiExtraChadCitiesV2: POI[] = [
       fr: ["Centre de réfugiés important.", "Marqué par un climat sec."],
     }, image: "/poi-images/goz-beida-cities-v2.webp"},
   {
-    id: "oum-hadjer-cities-v2",
+    id: "oum-hadjer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "بيت بشير يوسف",
+                  "text": "Ruinen des Hauses von Bashir Yusuf in Oum Hadjer.",
+                  "category": "historical",
+                  "coords": [
+                        19.689049,
+                        13.288783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "بيت بشير يوسف",
+                  "text": "Bashir Yusuf házának romjai Oum Hadjerben.",
+                  "category": "historical",
+                  "coords": [
+                        19.689049,
+                        13.288783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "بيت بشير يوسف",
+                  "text": "Ruinele casei lui Bashir Yusuf în Oum Hadjer.",
+                  "category": "historical",
+                  "coords": [
+                        19.689049,
+                        13.288783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "بيت بشير يوسف",
+                  "text": "Ruins of Bashir Yusuf's house in Oum Hadjer.",
+                  "category": "historical",
+                  "coords": [
+                        19.689049,
+                        13.288783
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-BA",
     coords: [19.69, 13.29],
@@ -1022,7 +1904,52 @@ export const poiExtraChadCitiesV2: POI[] = [
     }
   },
   {
-    id: "lere-cities-v2",
+    id: "lere-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve de Faune de Binder-Léré",
+                  "text": "Réserve de Faune de Binder-Léré ist ein Naturschutzgebiet in der Stadt Léré.",
+                  "category": "natural",
+                  "coords": [
+                        14.372381,
+                        9.677802
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve de Faune de Binder-Léré",
+                  "text": "A Réserve de Faune de Binder-Léré egy természetvédelmi terület Léré városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.372381,
+                        9.677802
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve de Faune de Binder-Léré",
+                  "text": "Réserve de Faune de Binder-Léré este o rezervație naturală situată în orașul Léré.",
+                  "category": "natural",
+                  "coords": [
+                        14.372381,
+                        9.677802
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve de Faune de Binder-Léré",
+                  "text": "Réserve de Faune de Binder-Léré is a nature reserve located in the city of Léré.",
+                  "category": "natural",
+                  "coords": [
+                        14.372381,
+                        9.677802
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-MO",
     coords: [14.15, 9.65],
@@ -1505,7 +2432,52 @@ export const poiExtraChadCitiesV2: POI[] = [
       fr: ["Caractérisée par un climat semi-aride.", "Centre d'élevage important."],
     }, image: "/poi-images/iriba-cities-v2.webp"},
   {
-    id: "bardai-cities-v2",
+    id: "bardai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rond-point",
+                  "text": "Rond-point ist ein Denkmal in der Stadt Bardaï.",
+                  "category": "historical",
+                  "coords": [
+                        16.999042,
+                        21.354599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rond-point",
+                  "text": "A Rond-point egy emlékmű Bardaï városában.",
+                  "category": "historical",
+                  "coords": [
+                        16.999042,
+                        21.354599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rond-point",
+                  "text": "Rond-point este un monument situat în orașul Bardaï.",
+                  "category": "historical",
+                  "coords": [
+                        16.999042,
+                        21.354599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rond-point",
+                  "text": "Rond-point is a monument located in the city of Bardaï.",
+                  "category": "historical",
+                  "coords": [
+                        16.999042,
+                        21.354599
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-TI",
     coords: [17.00, 21.35],
@@ -1745,7 +2717,52 @@ export const poiExtraChadCitiesV2: POI[] = [
       fr: ["Centre de culture du sorgho.", "Marché local important."],
     }, image: "/poi-images/abou-deia-cities-v2.webp"},
   {
-    id: "fianga-cities-v2",
+    id: "fianga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pont",
+                  "text": "Bridge ist eine Touristenattraktion in der Stadt Fianga.",
+                  "category": "landmark",
+                  "coords": [
+                        15.160162,
+                        9.912627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pont",
+                  "text": "A Bridge egy turisztikai látványosság Fianga városában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.160162,
+                        9.912627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pont",
+                  "text": "Bridge este o atracție turistică situată în orașul Fianga.",
+                  "category": "landmark",
+                  "coords": [
+                        15.160162,
+                        9.912627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bridge",
+                  "text": "Bridge is a tourist attraction located in the city of Fianga.",
+                  "category": "landmark",
+                  "coords": [
+                        15.160162,
+                        9.912627
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TD-ME",
     coords: [15.14, 9.91],

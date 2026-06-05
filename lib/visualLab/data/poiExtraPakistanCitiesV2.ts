@@ -293,7 +293,52 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       fr: ["De nombreux habitants de la ville vivent et travaillent à l'étranger.", "Située à proximité de l'ancien fort de Rohtas."],
     }, image: "/poi-images/jhelum-city-cities-v2.webp"},
   {
-    id: "sahiwal-cities-v2",
+    id: "sahiwal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yadgar",
+                  "text": "Yadgar ist ein Denkmal in der Stadt Sahiwal.",
+                  "category": "historical",
+                  "coords": [
+                        73.099462,
+                        30.658512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yadgar",
+                  "text": "A Yadgar egy emlékmű Sahiwal városában.",
+                  "category": "historical",
+                  "coords": [
+                        73.099462,
+                        30.658512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yadgar",
+                  "text": "Yadgar este un monument situat în orașul Sahiwal.",
+                  "category": "historical",
+                  "coords": [
+                        73.099462,
+                        30.658512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yadgar",
+                  "text": "Yadgar is a monument situated in the city of Sahiwal.",
+                  "category": "historical",
+                  "coords": [
+                        73.099462,
+                        30.658512
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PK-PB",
     coords: [73.1068, 30.6667],
@@ -341,7 +386,52 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       fr: ["À proximité du site archéologique d'Harappa.", "Anciennement connue sous le nom de Montgomery."],
     }, image: "/poi-images/sahiwal-cities-v2.webp"},
   {
-    id: "khanewal-cities-v2",
+    id: "khanewal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jamia Masjid Chowk",
+                  "text": "Denkmal in Khanewal.",
+                  "category": "historical",
+                  "coords": [
+                        71.921058,
+                        30.298148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jamia Masjid Chowk",
+                  "text": "Emlékmű Khanewalban.",
+                  "category": "historical",
+                  "coords": [
+                        71.921058,
+                        30.298148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jamia Masjid Chowk",
+                  "text": "Monument în Khanewal.",
+                  "category": "historical",
+                  "coords": [
+                        71.921058,
+                        30.298148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jamia Masjid Chowk",
+                  "text": "Monument in Khanewal.",
+                  "category": "historical",
+                  "coords": [
+                        71.921058,
+                        30.298148
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PK-PB",
     coords: [71.9317, 30.3017],
@@ -629,7 +719,232 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       fr: ["Célèbre pour une variété de mangue nommée « Sindhri ».", "La ville a été fondée au XVIIIe siècle par la dynastie Talpur."],
     }, image: "/poi-images/tando-allahyar-cities-v2.webp"},
   {
-    id: "chiniot-cities-v2",
+    id: "chiniot-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Omar Hayat Mahal",
+                  "text": "Historisches Herrenhaus in Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.980083,
+                        31.719424
+                  ]
+            },
+            {
+                  "name": "Shrine of Peer Rang Shah",
+                  "text": "Denkmal in Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.976919,
+                        31.710627
+                  ]
+            },
+            {
+                  "name": "مزار",
+                  "text": "Denkmal in Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.972704,
+                        31.713614
+                  ]
+            },
+            {
+                  "name": "Shrine of Shaikh Ismail Bukhari",
+                  "text": "Denkmal in Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.976393,
+                        31.712721
+                  ]
+            },
+            {
+                  "name": "Tomb of Shah Burhan",
+                  "text": "Denkmal in Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.974151,
+                        31.716113
+                  ]
+            },
+            {
+                  "name": "Shahi Masjid",
+                  "text": "Mosee in Chiniot.",
+                  "category": "religious",
+                  "coords": [
+                        72.976827,
+                        31.719925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Omar Hayat Mahal",
+                  "text": "Történelmi kúria Chiniotban.",
+                  "category": "historical",
+                  "coords": [
+                        72.980083,
+                        31.719424
+                  ]
+            },
+            {
+                  "name": "Shrine of Peer Rang Shah",
+                  "text": "Emlékmű Chiniotban.",
+                  "category": "historical",
+                  "coords": [
+                        72.976919,
+                        31.710627
+                  ]
+            },
+            {
+                  "name": "مزار",
+                  "text": "Emlékmű Chiniotban.",
+                  "category": "historical",
+                  "coords": [
+                        72.972704,
+                        31.713614
+                  ]
+            },
+            {
+                  "name": "Shrine of Shaikh Ismail Bukhari",
+                  "text": "Emlékmű Chiniotban.",
+                  "category": "historical",
+                  "coords": [
+                        72.976393,
+                        31.712721
+                  ]
+            },
+            {
+                  "name": "Tomb of Shah Burhan",
+                  "text": "Emlékmű Chiniotban.",
+                  "category": "historical",
+                  "coords": [
+                        72.974151,
+                        31.716113
+                  ]
+            },
+            {
+                  "name": "Shahi Masjid",
+                  "text": "Mecset Chiniotban.",
+                  "category": "religious",
+                  "coords": [
+                        72.976827,
+                        31.719925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omar Hayat Mahal",
+                  "text": "Conac istoric în Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.980083,
+                        31.719424
+                  ]
+            },
+            {
+                  "name": "Shrine of Peer Rang Shah",
+                  "text": "Monument în Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.976919,
+                        31.710627
+                  ]
+            },
+            {
+                  "name": "مزار",
+                  "text": "Monument în Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.972704,
+                        31.713614
+                  ]
+            },
+            {
+                  "name": "Shrine of Shaikh Ismail Bukhari",
+                  "text": "Monument în Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.976393,
+                        31.712721
+                  ]
+            },
+            {
+                  "name": "Tomb of Shah Burhan",
+                  "text": "Monument în Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.974151,
+                        31.716113
+                  ]
+            },
+            {
+                  "name": "Shahi Masjid",
+                  "text": "Moschee în Chiniot.",
+                  "category": "religious",
+                  "coords": [
+                        72.976827,
+                        31.719925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omar Hayat Mahal",
+                  "text": "Historic manor in Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.980083,
+                        31.719424
+                  ]
+            },
+            {
+                  "name": "Shrine of Peer Rang Shah",
+                  "text": "Monument in Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.976919,
+                        31.710627
+                  ]
+            },
+            {
+                  "name": "Shrine",
+                  "text": "Monument in Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.972704,
+                        31.713614
+                  ]
+            },
+            {
+                  "name": "Shrine of Shaikh Ismail Bukhari",
+                  "text": "Monument in Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.976393,
+                        31.712721
+                  ]
+            },
+            {
+                  "name": "Tomb of Shah Burhan",
+                  "text": "Monument in Chiniot.",
+                  "category": "historical",
+                  "coords": [
+                        72.974151,
+                        31.716113
+                  ]
+            },
+            {
+                  "name": "Shahi Masjid",
+                  "text": "Mosque in Chiniot.",
+                  "category": "religious",
+                  "coords": [
+                        72.976827,
+                        31.719925
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PK-PB",
     coords: [72.9789, 31.7242],
@@ -677,7 +992,160 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       fr: ["Les meubles de Chiniot sont mondialement connus.", "La ville possède une histoire et une architecture riches, notamment l'Omar Hayat Mahal."],
     }, image: "/poi-images/chiniot-cities-v2.webp"},
   {
-    id: "khuzdar-cities-v2",
+    id: "khuzdar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "GAZGI CHOK /",
+                  "text": "GAZGI CHOK / ist eine Sehenswürdigkeit in Khuzdar.",
+                  "category": "landmark",
+                  "coords": [
+                        66.611008,
+                        27.804644
+                  ]
+            },
+            {
+                  "name": "غلامانی چوک",
+                  "text": "Ghulammani Chock ist eine Sehenswürdigkeit in Khuzdar.",
+                  "category": "landmark",
+                  "coords": [
+                        66.613072,
+                        27.808223
+                  ]
+            },
+            {
+                  "name": "Chandni Chowk",
+                  "text": "Chandni Chowk ist eine Sehenswürdigkeit in Khuzdar.",
+                  "category": "landmark",
+                  "coords": [
+                        66.607745,
+                        27.813679
+                  ]
+            },
+            {
+                  "name": "خضدار",
+                  "text": "خضدار ist ein Aussichtspunkt in Khuzdar.",
+                  "category": "natural",
+                  "coords": [
+                        66.602313,
+                        27.809175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "GAZGI CHOK /",
+                  "text": "A GAZGI CHOK / egy látványosság Khuzdar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        66.611008,
+                        27.804644
+                  ]
+            },
+            {
+                  "name": "غلامانی چوک",
+                  "text": "A Ghulammani Chock egy látványosság Khuzdar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        66.613072,
+                        27.808223
+                  ]
+            },
+            {
+                  "name": "Chandni Chowk",
+                  "text": "A Chandni Chowk egy látványosság Khuzdar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        66.607745,
+                        27.813679
+                  ]
+            },
+            {
+                  "name": "خضدار",
+                  "text": "A خضدار egy kilátó Khuzdar városában.",
+                  "category": "natural",
+                  "coords": [
+                        66.602313,
+                        27.809175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "GAZGI CHOK /",
+                  "text": "GAZGI CHOK / este o atracție situată în Khuzdar.",
+                  "category": "landmark",
+                  "coords": [
+                        66.611008,
+                        27.804644
+                  ]
+            },
+            {
+                  "name": "غلامانی چوک",
+                  "text": "Ghulammani Chock este o atracție situată în Khuzdar.",
+                  "category": "landmark",
+                  "coords": [
+                        66.613072,
+                        27.808223
+                  ]
+            },
+            {
+                  "name": "Chandni Chowk",
+                  "text": "Chandni Chowk este o atracție situată în Khuzdar.",
+                  "category": "landmark",
+                  "coords": [
+                        66.607745,
+                        27.813679
+                  ]
+            },
+            {
+                  "name": "خضدار",
+                  "text": "خضدار este un punct de belvedere situat în Khuzdar.",
+                  "category": "natural",
+                  "coords": [
+                        66.602313,
+                        27.809175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "GAZGI CHOK /",
+                  "text": "GAZGI CHOK / is an attraction located in Khuzdar.",
+                  "category": "landmark",
+                  "coords": [
+                        66.611008,
+                        27.804644
+                  ]
+            },
+            {
+                  "name": "Ghulammani Chock",
+                  "text": "Ghulammani Chock is an attraction located in Khuzdar.",
+                  "category": "landmark",
+                  "coords": [
+                        66.613072,
+                        27.808223
+                  ]
+            },
+            {
+                  "name": "Chandni Chowk",
+                  "text": "Chandni Chowk is an attraction located in Khuzdar.",
+                  "category": "landmark",
+                  "coords": [
+                        66.607745,
+                        27.813679
+                  ]
+            },
+            {
+                  "name": "خضدار",
+                  "text": "خضدار is a viewpoint located in Khuzdar.",
+                  "category": "natural",
+                  "coords": [
+                        66.602313,
+                        27.809175
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PK-BA",
     coords: [66.6119, 27.8106],
@@ -917,7 +1385,52 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       fr: ["Nommée d'après un chef religieux sikh, Tek Singh.", "Un centre agricole important réputé pour son industrie avicole."],
     }, image: "/poi-images/toba-tek-singh-cities-v2.webp"},
   {
-    id: "shikarpur-cities-v2",
+    id: "shikarpur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "City Museum",
+                  "text": "Museum in Shikarpur.",
+                  "category": "museum",
+                  "coords": [
+                        68.633077,
+                        27.962755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "City Museum",
+                  "text": "Múzeum Shikarpurban.",
+                  "category": "museum",
+                  "coords": [
+                        68.633077,
+                        27.962755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "City Museum",
+                  "text": "Muzeu în Shikarpur.",
+                  "category": "museum",
+                  "coords": [
+                        68.633077,
+                        27.962755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "City Museum",
+                  "text": "Museum in Shikarpur.",
+                  "category": "museum",
+                  "coords": [
+                        68.633077,
+                        27.962755
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PK-SD",
     coords: [68.6378, 27.9556],
@@ -1061,7 +1574,88 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       fr: ["L'un des plus grands producteurs de dattes du Pakistan.", "Siège du Faiz Mahal, un palais impressionnant."],
     }, image: "/poi-images/khairpur-cities-v2.webp"},
   {
-    id: "burewala-cities-v2",
+    id: "burewala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Madina Masjid",
+                  "text": "Attraktion in Burewala.",
+                  "category": "landmark",
+                  "coords": [
+                        72.690161,
+                        30.160151
+                  ]
+            },
+            {
+                  "name": "Burewala chowk",
+                  "text": "Denkmal in Burewala.",
+                  "category": "historical",
+                  "coords": [
+                        72.681555,
+                        30.159243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Madina Masjid",
+                  "text": "Látnivaló Burewalában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.690161,
+                        30.160151
+                  ]
+            },
+            {
+                  "name": "Burewala chowk",
+                  "text": "Emlékmű Burewalában.",
+                  "category": "historical",
+                  "coords": [
+                        72.681555,
+                        30.159243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Madina Masjid",
+                  "text": "Atracție în Burewala.",
+                  "category": "landmark",
+                  "coords": [
+                        72.690161,
+                        30.160151
+                  ]
+            },
+            {
+                  "name": "Burewala chowk",
+                  "text": "Monument în Burewala.",
+                  "category": "historical",
+                  "coords": [
+                        72.681555,
+                        30.159243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Madina Masjid",
+                  "text": "Attraction in Burewala.",
+                  "category": "landmark",
+                  "coords": [
+                        72.690161,
+                        30.160151
+                  ]
+            },
+            {
+                  "name": "Burewala chowk",
+                  "text": "Monument in Burewala.",
+                  "category": "historical",
+                  "coords": [
+                        72.681555,
+                        30.159243
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PK-PB",
     coords: [72.6711, 30.1583],
@@ -1109,7 +1703,52 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       fr: ["Réputée pour ses marchés de coton et de céréales.", "L'une des villes à la croissance la plus rapide de la région."],
     }, image: "/poi-images/burewala-cities-v2.webp"},
   {
-    id: "pakpattan-cities-v2",
+    id: "pakpattan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shrine of Baba Farid",
+                  "text": "Shrine of Baba Farid ist eine Kultstätte in Pakpattan.",
+                  "category": "religious",
+                  "coords": [
+                        73.387754,
+                        30.341202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shrine of Baba Farid",
+                  "text": "A Shrine of Baba Farid egy istentiszteleti hely Pakpattan városában.",
+                  "category": "religious",
+                  "coords": [
+                        73.387754,
+                        30.341202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shrine of Baba Farid",
+                  "text": "Shrine of Baba Farid este un lăcaș de cult situat în Pakpattan.",
+                  "category": "religious",
+                  "coords": [
+                        73.387754,
+                        30.341202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shrine of Baba Farid",
+                  "text": "Shrine of Baba Farid is a place of worship located in Pakpattan.",
+                  "category": "religious",
+                  "coords": [
+                        73.387754,
+                        30.341202
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PK-PB",
     coords: [73.3861, 30.3417],
@@ -1301,7 +1940,196 @@ export const poiExtraPakistanCitiesV2: POI[] = [
       fr: ["La ville a été fondée à l'époque moghole.", "Siège du célèbre parc Kund."],
     }, image: "/poi-images/nowshera-cities-v2.webp"},
   {
-    id: "mingora-cities-v2",
+    id: "mingora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Swat Museum",
+                  "text": "Das Swat Museum in Mingora ist ein bekanntes Museum, das das kulturelle Erbe der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        72.35922,
+                        34.763499
+                  ]
+            },
+            {
+                  "name": "Butkara Stupa",
+                  "text": "Der Butkara Stupa ist eine als Museum genutzte Stätte in Mingora.",
+                  "category": "museum",
+                  "coords": [
+                        72.367829,
+                        34.765742
+                  ]
+            },
+            {
+                  "name": "Saidu Sharif Monastery",
+                  "text": "Das Saidu Sharif Kloster ist eine archäologische Stätte in der Stadt Mingora.",
+                  "category": "historical",
+                  "coords": [
+                        72.362453,
+                        34.757095
+                  ]
+            },
+            {
+                  "name": "Butkara III",
+                  "text": "Butkara III ist eine Sehenswürdigkeit in der Stadt Mingora.",
+                  "category": "landmark",
+                  "coords": [
+                        72.371707,
+                        34.758517
+                  ]
+            },
+            {
+                  "name": "allah wala chorangi",
+                  "text": "Allah wala chorangi ist ein lokales Denkmal in Mingora.",
+                  "category": "historical",
+                  "coords": [
+                        72.357145,
+                        34.752501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Swat Museum",
+                  "text": "A Mingorában található Swat Múzeum egy jelentős múzeum, amely a régió kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        72.35922,
+                        34.763499
+                  ]
+            },
+            {
+                  "name": "Butkara Stupa",
+                  "text": "A Butkara Stúpa egy múzeumként működő helyszín Mingora városában.",
+                  "category": "museum",
+                  "coords": [
+                        72.367829,
+                        34.765742
+                  ]
+            },
+            {
+                  "name": "Saidu Sharif Monastery",
+                  "text": "A Saidu Sharif kolostor egy régészeti lelőhely Mingora városában.",
+                  "category": "historical",
+                  "coords": [
+                        72.362453,
+                        34.757095
+                  ]
+            },
+            {
+                  "name": "Butkara III",
+                  "text": "A Butkara III egy látványosság Mingora városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.371707,
+                        34.758517
+                  ]
+            },
+            {
+                  "name": "allah wala chorangi",
+                  "text": "Az Allah wala chorangi egy helyi emlékmű Mingora városában.",
+                  "category": "historical",
+                  "coords": [
+                        72.357145,
+                        34.752501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Swat Museum",
+                  "text": "Muzeul Swat este un muzeu proeminent din Mingora, care conservă patrimoniul cultural al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        72.35922,
+                        34.763499
+                  ]
+            },
+            {
+                  "name": "Butkara Stupa",
+                  "text": "Stupa Butkara este un sit muzeal situat în Mingora.",
+                  "category": "museum",
+                  "coords": [
+                        72.367829,
+                        34.765742
+                  ]
+            },
+            {
+                  "name": "Saidu Sharif Monastery",
+                  "text": "Mănăstirea Saidu Sharif este un sit arheologic situat în orașul Mingora.",
+                  "category": "historical",
+                  "coords": [
+                        72.362453,
+                        34.757095
+                  ]
+            },
+            {
+                  "name": "Butkara III",
+                  "text": "Butkara III este o atracție situată în orașul Mingora.",
+                  "category": "landmark",
+                  "coords": [
+                        72.371707,
+                        34.758517
+                  ]
+            },
+            {
+                  "name": "allah wala chorangi",
+                  "text": "Allah wala chorangi este un monument local situat în Mingora.",
+                  "category": "historical",
+                  "coords": [
+                        72.357145,
+                        34.752501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Swat Museum",
+                  "text": "Swat Museum is a prominent museum in Mingora that preserves the cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        72.35922,
+                        34.763499
+                  ]
+            },
+            {
+                  "name": "Butkara Stupa",
+                  "text": "Butkara Stupa is recognized as a museum site located in Mingora.",
+                  "category": "museum",
+                  "coords": [
+                        72.367829,
+                        34.765742
+                  ]
+            },
+            {
+                  "name": "Saidu Sharif Monastery",
+                  "text": "Saidu Sharif Monastery is an archaeological site located in the city of Mingora.",
+                  "category": "historical",
+                  "coords": [
+                        72.362453,
+                        34.757095
+                  ]
+            },
+            {
+                  "name": "Butkara III",
+                  "text": "Butkara III is an attraction situated in the city of Mingora.",
+                  "category": "landmark",
+                  "coords": [
+                        72.371707,
+                        34.758517
+                  ]
+            },
+            {
+                  "name": "allah wala chorangi",
+                  "text": "Allah wala chorangi is a local monument situated in Mingora.",
+                  "category": "historical",
+                  "coords": [
+                        72.357145,
+                        34.752501
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PK-KP",
     coords: [72.3600, 34.7717],

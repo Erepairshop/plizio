@@ -191,7 +191,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       pt: ["Fundada por volta de 1536 pela Rainha Amina", "Antigamente conhecida como Zazzau", "Sede da Universidade Ahmadu Bello (ABU)", "As muralhas da cidade têm cerca de 16 quilómetros de comprimento", "Mercado importante para algodão e tabaco", "Abriga o magnífico palácio do Emir"],
       fr: ["Fondée vers 1536 par la reine Amina", "Anciennement connue sous le nom de Zazzau", "Siège de l'université Ahmadu Bello (ABU)", "Les remparts de la ville mesurent environ 16 kilomètres de long", "Marché important pour le coton et le tabac", "Abrite le magnifique palais de l'Emir"],
     },
-  },   {     id: "ng-aba-cities-v2",     type: "city",     parent: "NG-AB",     coords: [7.3667, 5.1167],     name: { de: "Aba", hu: "Aba", ro: "Aba", en: "Aba"},
+  },   {     id: "ng-aba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Christ the King Cathedral",
+                  "text": "Die Christ-König-Kathedrale ist eine bedeutende Kirche in Aba.",
+                  "category": "religious",
+                  "coords": [
+                        7.365641,
+                        5.104106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Christ the King Cathedral",
+                  "text": "A Krisztus Király-székesegyház egy jelentős templom Aba városában.",
+                  "category": "religious",
+                  "coords": [
+                        7.365641,
+                        5.104106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Christ the King Cathedral",
+                  "text": "Catedrala Hristos Regele este o biserică importantă din Aba.",
+                  "category": "religious",
+                  "coords": [
+                        7.365641,
+                        5.104106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Christ the King Cathedral",
+                  "text": "Christ the King Cathedral is a significant church in Aba.",
+                  "category": "religious",
+                  "coords": [
+                        7.365641,
+                        5.104106
+                  ]
+            }
+      ]
+},     type: "city",     parent: "NG-AB",     coords: [7.3667, 5.1167],     name: { de: "Aba", hu: "Aba", ro: "Aba", en: "Aba"},
     image: "/poi-images/ng-aba-cities-v2.webp",     description: {       de: "Aba ist das produktivste kommerzielle und industrielle Zentrum des Südostens, bekannt für seine riesigen Märkte und Textilien.",       hu: "Aba a délkeleti régió legtermékenyebb kereskedelmi és ipari központja, amely hatalmas piacairól és textiljeiről ismert.",       ro: "Aba este cel mai productiv centru comercial și industrial din sud-est, renumit pentru piețele sale uriașe și textile.",       en: "Aba is the most productive commercial and industrial center of the southeast, known for its huge markets and textiles."     , es: "Aba es el centro comercial e industrial más productivo del sureste, conocido por sus enormes mercados y textiles.", pt: "Aba é o centro comercial e industrial mais produtivo do sudeste, conhecido pelos seus enormes mercados e têxteis.", fr: "Aba est le centre commercial et industriel le plus productif du sud-est, connu pour ses immenses marchés et ses textiles."},     facts: {       de: ["Bekannt als 'Taiwan von Afrika'.", "Berühmt für den Ariaria-Markt."],       hu: ["Gyakran hívják Afrika Tajvanjának.", "Híres az Ariaria piacról."],       ro: ["Cunoscut ca 'Taiwanul Africii'.", "Renumit pentru piața Ariaria."],       en: ["Known as the 'Taiwan of Africa'.", "Famous for the Ariaria market."]     , es: ["Conocida como el 'Taiwán de África'.", "Famosa por el mercado de Ariaria."], pt: ["Conhecida como a 'Taiwan da África'.", "Famosa pelo mercado de Ariaria."], fr: ["Connue sous le nom de 'Taïwan de l'Afrique'.", "Célèbre pour le marché d'Ariaria."]}, image: "/poi-images/ng-aba-cities-v2.webp",
     descriptionAdvanced: {
       de: "Aba, oft als „Enyimba-Stadt“ bezeichnet, ist das wirtschaftliche Herz des Bundesstaates Abia im Südosten Nigerias und einer der dynamischsten Handelsplätze Westafrikas. Die Stadt entwickelte sich aus einem kleinen Dorf der indigenen Ngwa-Igbo zu einem bedeutenden Marktzentrum, nachdem die Briten dort 1901 einen Militärposten errichtet hatten. Ein Wendepunkt in der Geschichte der Stadt war der Frauenaufstand von Aba im Jahr 1929, ein bedeutender Protest gegen die koloniale Steuerpolitik, der die politische Landschaft Nigerias nachhaltig prägte. Heute ist Aba weltweit für seinen Unternehmergeist bekannt, insbesondere für den Ariaria International Market, einen der größten Märkte Afrikas, auf dem Textilien, Schuhe und Lederwaren in großem Stil produziert und gehandelt werden. Die Stadt ist ein wichtiger Verkehrsknotenpunkt, der durch Schienen- und Straßenverbindungen mit Port Harcourt und anderen Industriezentren verknüpft ist. Trotz infrastruktureller Herausforderungen bleibt Aba ein Symbol für industrielle Eigeninitiative und handwerkliches Geschick, wobei die „Made in Aba“-Produkte weit über die Landesgrenzen hinaus exportiert werden.",
@@ -231,7 +276,268 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       pt: ["Abriga o Onitsha Main Market", "A ponte do Níger foi concluída em 1965", "Importante porto interior no rio Níger", "Centro do comércio iorubá e igbo", "Sede da Basílica da Santíssima Trindade", "Famosa pelo festival anual Ofala"],
       fr: ["Abrite le Onitsha Main Market", "Le pont du Niger a été achevé en 1965", "Important port intérieur sur le fleuve Niger", "Centre du commerce yoruba et igbo", "Siège de la Basilique de la Sainte-Trinité", "Célèbre pour le festival annuel Ofala"],
     },
-  },   {     id: "ng-warri-cities-v2",     type: "city",     parent: "NG-DE",     coords: [5.75, 5.5167],     name: { de: "Warri", hu: "Warri", ro: "Warri", en: "Warri"},
+  },   {     id: "ng-warri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Olu Of Warri Palace",
+                  "text": "Der Olu Of Warri Kingdom Palace ist ein Schloss, das als traditioneller Sitz im Königreich von Warri dient.",
+                  "category": "castle",
+                  "coords": [
+                        5.735951,
+                        5.52699
+                  ]
+            },
+            {
+                  "name": "Event Center",
+                  "text": "Das Event Center ist eine Sehenswürdigkeit in Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.750525,
+                        5.532021
+                  ]
+            },
+            {
+                  "name": "Janet Social Club for Gentleman",
+                  "text": "Janet Social Club for Gentleman ist eine Sehenswürdigkeit in Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.747961,
+                        5.531296
+                  ]
+            },
+            {
+                  "name": "Royal Event Center",
+                  "text": "Das Royal Event Center ist eine Sehenswürdigkeit in Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.752219,
+                        5.528428
+                  ]
+            },
+            {
+                  "name": "Igbo Market",
+                  "text": "Der Igbo Market ist ein lokaler Marktplatz in der bedeutenden Stadt Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.749636,
+                        5.515074
+                  ]
+            },
+            {
+                  "name": "Word of Life Bible Church",
+                  "text": "Die Word of Life Bible Church ist eine Kultstätte in Warri.",
+                  "category": "religious",
+                  "coords": [
+                        5.734567,
+                        5.529007
+                  ]
+            },
+            {
+                  "name": "First Baptist Church Mission Road Branch Warri",
+                  "text": "Die First Baptist Church Mission Road Branch Warri ist eine Kultstätte, die zu einer bekannten baptistischen Konfession gehört.",
+                  "category": "religious",
+                  "coords": [
+                        5.746159,
+                        5.518227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Olu Of Warri Palace",
+                  "text": "Az Olu Of Warri Kingdom Palace a Warri Királyság uralkodójának hagyományos kastélya.",
+                  "category": "castle",
+                  "coords": [
+                        5.735951,
+                        5.52699
+                  ]
+            },
+            {
+                  "name": "Event Center",
+                  "text": "Az Event Center egy látványosság Warri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.750525,
+                        5.532021
+                  ]
+            },
+            {
+                  "name": "Janet Social Club for Gentleman",
+                  "text": "A Janet Social Club for Gentleman egy látványosság Warri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.747961,
+                        5.531296
+                  ]
+            },
+            {
+                  "name": "Royal Event Center",
+                  "text": "A Royal Event Center egy látványosság Warri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.752219,
+                        5.528428
+                  ]
+            },
+            {
+                  "name": "Igbo Market",
+                  "text": "Az Igbo Market egy piac a jelentős központnak számító Warri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.749636,
+                        5.515074
+                  ]
+            },
+            {
+                  "name": "Word of Life Bible Church",
+                  "text": "A Word of Life Bible Church egy istentiszteleti hely Warri városában.",
+                  "category": "religious",
+                  "coords": [
+                        5.734567,
+                        5.529007
+                  ]
+            },
+            {
+                  "name": "First Baptist Church Mission Road Branch Warri",
+                  "text": "A First Baptist Church Mission Road Branch Warri egy istentiszteleti hely, amely egy jól ismert baptista felekezethez tartozik Warri városában.",
+                  "category": "religious",
+                  "coords": [
+                        5.746159,
+                        5.518227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Olu Of Warri Palace",
+                  "text": "Olu Of Warri Kingdom Palace este palatul tradițional al conducătorului Regatului Warri.",
+                  "category": "castle",
+                  "coords": [
+                        5.735951,
+                        5.52699
+                  ]
+            },
+            {
+                  "name": "Event Center",
+                  "text": "Event Center este o atracție în Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.750525,
+                        5.532021
+                  ]
+            },
+            {
+                  "name": "Janet Social Club for Gentleman",
+                  "text": "Janet Social Club for Gentleman este o atracție în Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.747961,
+                        5.531296
+                  ]
+            },
+            {
+                  "name": "Royal Event Center",
+                  "text": "Royal Event Center este o atracție în Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.752219,
+                        5.528428
+                  ]
+            },
+            {
+                  "name": "Igbo Market",
+                  "text": "Igbo Market este o piață locală situată în importantul oraș Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.749636,
+                        5.515074
+                  ]
+            },
+            {
+                  "name": "Word of Life Bible Church",
+                  "text": "Word of Life Bible Church este un lăcaș de cult în Warri.",
+                  "category": "religious",
+                  "coords": [
+                        5.734567,
+                        5.529007
+                  ]
+            },
+            {
+                  "name": "First Baptist Church Mission Road Branch Warri",
+                  "text": "First Baptist Church Mission Road Branch Warri este un lăcaș de cult aparținând cunoscutei confesiuni baptiste din Warri.",
+                  "category": "religious",
+                  "coords": [
+                        5.746159,
+                        5.518227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olu Of Warri Kingdom Palace",
+                  "text": "The Olu Of Warri Kingdom Palace is a castle that serves as the traditional seat for the ruler of the Kingdom of Warri.",
+                  "category": "castle",
+                  "coords": [
+                        5.735951,
+                        5.52699
+                  ]
+            },
+            {
+                  "name": "Event Center",
+                  "text": "Event Center is an attraction in Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.750525,
+                        5.532021
+                  ]
+            },
+            {
+                  "name": "Janet Social Club for Gentleman",
+                  "text": "Janet Social Club for Gentleman is an attraction in Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.747961,
+                        5.531296
+                  ]
+            },
+            {
+                  "name": "Royal Event Center",
+                  "text": "Royal Event Center is an attraction in Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.752219,
+                        5.528428
+                  ]
+            },
+            {
+                  "name": "Igbo Market",
+                  "text": "Igbo Market is a local marketplace located in the major city of Warri.",
+                  "category": "landmark",
+                  "coords": [
+                        5.749636,
+                        5.515074
+                  ]
+            },
+            {
+                  "name": "Word of Life Bible Church",
+                  "text": "Word of Life Bible Church is a place of worship in Warri.",
+                  "category": "religious",
+                  "coords": [
+                        5.734567,
+                        5.529007
+                  ]
+            },
+            {
+                  "name": "First Baptist Church Mission Road Branch Warri",
+                  "text": "First Baptist Church Mission Road Branch Warri is a place of worship belonging to the well-known Baptist denomination.",
+                  "category": "religious",
+                  "coords": [
+                        5.746159,
+                        5.518227
+                  ]
+            }
+      ]
+},     type: "city",     parent: "NG-DE",     coords: [5.75, 5.5167],     name: { de: "Warri", hu: "Warri", ro: "Warri", en: "Warri"},
     image: "/poi-images/ng-warri-cities-v2.webp",     description: {       de: "Das Küstenzentrum Warri profitiert massiv von der petrochemischen Industrie und den Hafenanlagen im Nigerdelta.",       hu: "A tengerparti Warri központja masszívan profitál a petrolkémiai iparból és a Niger-delta kikötői létesítményeiből.",       ro: "Centrul de coastă Warri profită masiv de industria petrochimică și de facilitățile portuare din Delta Nigerului.",       en: "The coastal center of Warri benefits massively from the petrochemical industry and port facilities in the Niger Delta."     , es: "El centro costero de Warri se beneficia enormemente de la industria petroquímica y de las instalaciones portuarias del delta del Níger.", pt: "O centro costeiro de Warri beneficia massivamente da indústria petroquímica e das instalações portuárias no Delta do Níger.", fr: "Le centre côtier de Warri bénéficie massivement de l'industrie pétrochimique et des installations portuaires du delta du Niger."},     facts: {       de: ["Sitz einer großen Ölraffinerie.", "Traditionelles Königreich der Itsekiri."],       hu: ["Egy nagy olajfinomító székhelye.", "Az itsekiri nép hagyományos királysága."],       ro: ["Sediul unei mari rafinării de petrol.", "Regatul tradițional al poporului Itsekiri."],       en: ["Home to a major oil refinery.", "Traditional kingdom of the Itsekiri people."]     , es: ["Sede de una gran refinería de petróleo.", "Reino tradicional de los Itsekiri."], pt: ["Sede de uma grande refinaria de petróleo.", "Reino tradicional dos Itsekiri."], fr: ["Siège d'une grande raffinerie de pétrole.", "Royaume traditionnel des Itsekiri."]}, image: "/poi-images/ng-warri-cities-v2.webp",
     descriptionAdvanced: {
       de: "Warri, gelegen im Nigerdelta, ist ein zentrales Zentrum der nigerianischen Erdöl- und Erdgasindustrie und eine bedeutende Hafenstadt im Bundesstaat Delta. Die Geschichte der Stadt reicht bis ins 15. Jahrhundert zurück, als sie Kontakt mit portugiesischen Seefahrern hatte und sich unter der Herrschaft des Olu von Warri zu einem wichtigen Handelsplatz für Sklaven und später Palmöl entwickelte. Geografisch ist die Stadt durch ein Labyrinth von Wasserwegen und Mangrovensümpfen geprägt, die ihre logistische Bedeutung als Flusshafen unterstreichen. Warri ist bekannt für seine multikulturelle Bevölkerung, die sich aus den ethnischen Gruppen der Itsekiri, Urhobo und Ijaw zusammensetzt, was der Stadt eine reiche kulturelle Dynamik verleiht. In der zweiten Hälfte des 20. Jahrhunderts führte der Ölboom zu einer rasanten industriellen Expansion, die die Ansiedlung zahlreicher multinationaler Konzerne und den Bau einer Raffinerie zur Folge hatte. Trotz ökologischer Herausforderungen durch die petrochemische Industrie bleibt Warri ein vitaler Motor der nigerianischen Wirtschaft und ein Symbol für die industrielle Stärke des Südens. Die Stadt ist zudem berühmt für ihr „Warri-Pidgin“, eine lokale Variante des nigerianischen Pidgin-Englisch, die in der Popkultur des Landes weit verbreitet ist.",
@@ -615,7 +921,52 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       ro: ["Gusau a devenit capitală după separarea statului Zamfara de statul Sokoto.", "Orașul este un nod major pentru industria tutunului și bumbacului.", "Râul Sokoto joacă un rol vital în irigarea terenurilor din jurul orașului.", "Sharia a fost proclamată oficial în Gusau la 27 octombrie 1999.", "Orașul găzduiește o piață de vite renumită în întreaga regiune.", "Universitatea Federală Gusau este situată la periferia orașului.", "Gusau este legat prin drumuri naționale de orașele Sokoto și Zaria.", "Regiunea este afectată de fenomenul de deșertificare a Sahelului."],
       en: ["Gusau became the capital of Zamfara State in 1996.", "The city is located on the Gusau River, a tributary of the Sokoto River.", "It was the first Nigerian city to adopt Sharia law in the Fourth Republic.", "Gusau hosts major industrial plants for processing agricultural raw materials.", "The city is a significant railway terminus in northern Nigeria.", "Federal University Gusau (FUGUS) was established in 2013.", "The region is known for large-scale production of groundnuts and cotton.", "Gusau's central market is a major hub for cross-border trade with Niger."],
     },
-  },   {     id: "ng-sapele-cities-v2",     type: "city",     parent: "NG-DE",     coords: [5.6833, 5.9],     name: { de: "Sapele", hu: "Sapele", ro: "Sapele", en: "Sapele"},
+  },   {     id: "ng-sapele-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "WATER SIDE SAPELE",
+                  "text": "Attraktion in Sapele.",
+                  "category": "landmark",
+                  "coords": [
+                        5.67114,
+                        5.906599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "WATER SIDE SAPELE",
+                  "text": "Látnivaló Sapele-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.67114,
+                        5.906599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "WATER SIDE SAPELE",
+                  "text": "Atracție în Sapele.",
+                  "category": "landmark",
+                  "coords": [
+                        5.67114,
+                        5.906599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "WATER SIDE SAPELE",
+                  "text": "Attraction in Sapele.",
+                  "category": "landmark",
+                  "coords": [
+                        5.67114,
+                        5.906599
+                  ]
+            }
+      ]
+},     type: "city",     parent: "NG-DE",     coords: [5.6833, 5.9],     name: { de: "Sapele", hu: "Sapele", ro: "Sapele", en: "Sapele"},
     image: "/poi-images/ng-sapele-cities-v2.webp",     description: {       de: "Bekannt für seine Sperrholzindustrie und die Flusshäfen, ist Sapele eine wirtschaftlich aktive Holzfällerstadt im Delta.",       hu: "A rétegelt lemez iparáról és folyami kikötőiről ismert Sapele egy gazdaságilag aktív favágó város a deltában.",       ro: "Cunoscut pentru industria sa de placaj și porturile fluviale, Sapele este un oraș forestier activ din punct de vedere economic în deltă.",       en: "Known for its plywood industry and river ports, Sapele is an economically active logging town in the delta."     , es: "Conocida por su industria de contrachapado y sus puertos fluviales, Sapele es una ciudad maderera económicamente activa en el delta.", pt: "Conhecida pela sua indústria de contraplacado e pelos seus portos fluviais, Sapele é uma cidade madeireira economicamente ativa no delta.", fr: "Connue pour son industrie du contreplaqué et ses ports fluviais, Sapele est une ville forestière économiquement active dans le delta."},     facts: {       de: ["Heimat des African Timber and Plywood.", "Wichtig für den Holzexport."],       hu: ["Az African Timber and Plywood vállalata itt található.", "Fontos a faexport szempontjából."],       ro: ["Căminul companiei African Timber and Plywood.", "Important pentru exportul de lemn."],       en: ["Home to African Timber and Plywood.", "Important for timber export."]     , es: ["Sede de African Timber and Plywood.", "Importante para la exportación de madera."], pt: ["Sede da African Timber and Plywood.", "Importante para a exportação de madeira."], fr: ["Siège de l'African Timber and Plywood.", "Importante pour l'exportation de bois."]}, image: "/poi-images/ng-sapele-cities-v2.webp",
     descriptionAdvanced: {
       de: "Sapele ist eine bedeutende Hafenstadt im Bundesstaat Delta im Süden Nigerias und liegt am Zusammenfluss der Flüsse Ethiope und Jamieson. Die Stadt hat eine lange Geschichte als Handelszentrum, die bis in die Kolonialzeit zurückreicht, als sie als einer der wichtigsten Häfen für den Export von Holz und Kautschuk diente. Sapele ist bekannt für seine Holzindustrie, insbesondere für die Herstellung von Sperrholz und Furnieren, die weltweit exportiert werden. Die geographische Lage am Benin River macht die Stadt zu einem strategischen Knotenpunkt für den Schiffsverkehr im Niger-Delta. Neben der Forstwirtschaft spielt heute die Erdölindustrie eine zentrale Rolle in der Wirtschaft der Stadt, mit zahlreichen Ölfeldern und Gasverarbeitungsanlagen in der Nähe. Kulturell ist Sapele für seine lebendige Musikszene und seine kulinarischen Spezialitäten bekannt, die die Vielfalt der ethnischen Gruppen in der Region widerspiegeln.",
@@ -717,7 +1068,88 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
       pt: [],
       fr: [],
     },
-  },   {     id: "ng-ogbomosho-cities-v2",     type: "city",     parent: "NG-OY",     coords: [4.25, 8.1333],     name: { de: "Ogbomosho", hu: "Ogbomosho", ro: "Ogbomosho", en: "Ogbomosho"},
+  },   {     id: "ng-ogbomosho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Soun of Ogbomosoland",
+                  "text": "Schloss in Ogbomosho.",
+                  "category": "castle",
+                  "coords": [
+                        4.247355,
+                        8.129276
+                  ]
+            },
+            {
+                  "name": "Ogbomoso Recreation Club",
+                  "text": "Attraktion in Ogbomosho.",
+                  "category": "landmark",
+                  "coords": [
+                        4.255589,
+                        8.159106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Soun of Ogbomosoland",
+                  "text": "Kastély Ogbomosho-ban.",
+                  "category": "castle",
+                  "coords": [
+                        4.247355,
+                        8.129276
+                  ]
+            },
+            {
+                  "name": "Ogbomoso Recreation Club",
+                  "text": "Látnivaló Ogbomosho-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        4.255589,
+                        8.159106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Soun of Ogbomosoland",
+                  "text": "Castel în Ogbomosho.",
+                  "category": "castle",
+                  "coords": [
+                        4.247355,
+                        8.129276
+                  ]
+            },
+            {
+                  "name": "Ogbomoso Recreation Club",
+                  "text": "Atracție în Ogbomosho.",
+                  "category": "landmark",
+                  "coords": [
+                        4.255589,
+                        8.159106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Soun of Ogbomosoland",
+                  "text": "Castle in Ogbomosho.",
+                  "category": "castle",
+                  "coords": [
+                        4.247355,
+                        8.129276
+                  ]
+            },
+            {
+                  "name": "Ogbomoso Recreation Club",
+                  "text": "Attraction in Ogbomosho.",
+                  "category": "landmark",
+                  "coords": [
+                        4.255589,
+                        8.159106
+                  ]
+            }
+      ]
+},     type: "city",     parent: "NG-OY",     coords: [4.25, 8.1333],     name: { de: "Ogbomosho", hu: "Ogbomosho", ro: "Ogbomosho", en: "Ogbomosho"},
     image: "/poi-images/ng-ogbomosho-cities-v2.webp",     description: {       de: "Die weitläufige Stadt Ogbomosho kombiniert reiche landwirtschaftliche Traditionen mit dem akademischen Leben einer Universität.",       hu: "A kiterjedt Ogbomosho város gazdag mezőgazdasági hagyományait az egyetemi élettel ötvözi.",       ro: "Orasul extins Ogbomosho combină tradițiile agricole bogate cu viața academică a unei universități.",       en: "The sprawling city of Ogbomosho combines rich agricultural traditions with the academic life of a university."     , es: "La extensa ciudad de Ogbomosho combina ricas tradiciones agrícolas con la vida académica de una universidad.", pt: "A extensa cidade de Ogbomosho combina ricas tradições agrícolas com a vida académica de uma universidade.", fr: "La vaste ville d'Ogbomosho combine de riches traditions agricoles avec la vie académique d'une université."},     facts: {       de: ["Bekannt für Cashewnuss-Anbau.", "Sitz der Ladoke Akintola University."],       hu: ["A kesudió-termesztésről ismert.", "A Ladoke Akintola Egyetem székhelye."],       ro: ["Cunoscut pentru cultivarea nucilor de caju.", "Sediul Universității Ladoke Akintola."],       en: ["Known for cashew nut cultivation.", "Seat of the Ladoke Akintola University."]     , es: ["Conocida por el cultivo de anacardos.", "Sede de la Ladoke Akintola University."], pt: ["Conhecida pelo cultivo de castanha de caju.", "Sede da Ladoke Akintola University."], fr: ["Connue pour la culture des noix de cajou.", "Siège de l'université Ladoke Akintola."]}, image: "/poi-images/ng-ogbomosho-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ogbomosho ist eine bedeutende Großstadt im Bundesstaat Oyo im Südwesten Nigerias, deren Ursprünge auf die Mitte des 17. Jahrhunderts zurückgehen. Ursprünglich als militärischer Außenposten während der Yoruba-Kriege gegründet, entwickelte sich die Stadt schnell zu einem wichtigen Zufluchtsort für Menschen, die im 19. Jahrhundert vor den Fulani-Dschihads flohen. Heute ist Ogbomosho ein zentraler Handels- und Verkehrsknotenpunkt an der Hauptstraße zwischen Ibadan und Ilorin. Die Stadt wird traditionell vom Soun von Ogbomosho regiert, dessen Palast das kulturelle Herz der Gemeinde bildet. Mit der Gründung der Ladoke Akintola University of Technology (LAUTECH) im Jahr 1990 wandelte sich das Stadtbild hin zu einem bedeutenden Bildungszentrum. Die lokale Wirtschaft stützt sich maßgeblich auf den Handel mit Agrarprodukten wie Yamswurzeln, Maniok, Mais und Tabak. Mit einer Bevölkerung von über einer Million Einwohnern gehört Ogbomosho zu den am dichtesten besiedelten urbanen Zentren des Landes und bewahrt gleichzeitig seine tief verwurzelten Yoruba-Traditionen.",

@@ -17,7 +17,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       en: ["Capital city of Cabo Verde since 1858.", "Located on Santiago, the largest island of the Cape Verde archipelago.", "The historic 'Platô' district sits 20 meters above sea level.", "Home to the Nelson Mandela International Airport.", "The city’s population accounts for roughly one-third of the nation.", "Strategic port city connecting Africa, Europe, and the Americas.", "Hosted the first-ever Atlantic Music Expo in 2013.", "Founded in 1602, originally as a clandestine port for trading."],
     },
   },
-  {id: "assomada-cities-v2", type: "city", parent: "CV-CA", coords: [-23.6521, 15.0931], name: {de: "Assomada", hu: "Assomada", ro: "Assomada", en: "Assomada"},
+  {id: "assomada-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Cultural Norberto Tavares",
+                  "text": "Das Centro Cultural Norberto Tavares ist ein Museum in der Stadt Assomada.",
+                  "category": "museum",
+                  "coords": [
+                        -23.666998,
+                        15.09626
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Cultural Norberto Tavares",
+                  "text": "A Centro Cultural Norberto Tavares egy múzeum Assomada városában.",
+                  "category": "museum",
+                  "coords": [
+                        -23.666998,
+                        15.09626
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Cultural Norberto Tavares",
+                  "text": "Centro Cultural Norberto Tavares este un muzeu situat în orașul Assomada.",
+                  "category": "museum",
+                  "coords": [
+                        -23.666998,
+                        15.09626
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Cultural Norberto Tavares",
+                  "text": "Centro Cultural Norberto Tavares is a museum located in the city of Assomada.",
+                  "category": "museum",
+                  "coords": [
+                        -23.666998,
+                        15.09626
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-CA", coords: [-23.6521, 15.0931], name: {de: "Assomada", hu: "Assomada", ro: "Assomada", en: "Assomada"},
     image: "/poi-images/assomada-cities-v2.webp", description: {de: "Assomada ist eine Stadt im zentralen Hochland der Insel Santiago und Sitz der Gemeinde Santa Catarina.", hu: "Assomada egy város Santiago szigetének központi fennsíkján, Santa Catarina község székhelye.", ro: "Assomada este un ora? din zonele înalte centrale ale insulei Santiago ?i re?edin?a municipiului Santa Catarina.", en: "Assomada is a city in the central highlands of Santiago island and the seat of the Santa Catarina municipality.", es: "Assomada es una ciudad en las tierras altas centrales de la isla de Santiago y sede del municipio de Santa Catarina.", pt: "Assomada é uma cidade no planalto central da ilha de Santiago e sede do concelho de Santa Catarina.", fr: "Assomada est une ville des hauts plateaux centraux de l'île de Santiago et le siège de la municipalité de Santa Catarina."}, facts: {de: ["Bekannt für seinen großen und lebhaften Wochenmarkt", "Wichtiges Bildungszentrum mit mehreren Schulen", "Zentraler Verkehrsknotenpunkt der Insel", "Einstige Heimat des ehemaligen Präsidenten Jorge Carlos Fonseca"], hu: ["Híres nagy és élénk heti piacáról", "Fontos oktatási központ több iskolával", "A sziget központi közlekedési csomópontja", "Jorge Carlos Fonseca volt elnök egykori otthona"], ro: ["Cunoscut pentru pia?a sa saptamânala mare ?i plina de viața", "Centru educațional important cu mai multe ?coli", "Hub central de transport pe insula", "Fosta casa a fostului președinte Jorge Carlos Fonseca"], en: ["Known for its large and lively weekly market", "Important educational center with several schools", "Central transport hub of the island", "Former home of past president Jorge Carlos Fonseca"], es: ["Conocida por su gran y animado mercado semanal", "Importante centro educativo con varias escuelas", "Nudo de transporte central de la isla", "Antiguo hogar del expresidente Jorge Carlos Fonseca"], pt: ["Conhecida pelo seu grande e animado mercado semanal", "Importante centro educativo com várias escolas", "Nó central de transportes da ilha", "Antiga casa do ex-presidente Jorge Carlos Fonseca"], fr: ["Connue pour son grand marché hebdomadaire animé", "Centre éducatif important avec plusieurs écoles", "Nœud de transport central de l'île", "Ancienne demeure de l'ex-président Jorge Carlos Fonseca"]}, image: "/poi-images/assomada-cities-v2.webp",
     descriptionAdvanced: {
       de: "Assomada ist der Hauptort des Bezirks Santa Catarina und liegt im zentralen Hochland der Insel Santiago auf einer Höhe von etwa 550 Metern. Die Stadt dient als wichtigster kommerzieller Knotenpunkt für das landwirtschaftlich geprägte Hinterland und ist bekannt für ihren lebhaften Markt, der mittwochs und samstags Händler aus der gesamten Region anzieht. Geografisch liegt Assomada auf einer Hochebene, die von Bergen umgeben ist, was der Stadt ein milderes Klima als der Küste verleiht. Historisch gesehen spielte die Stadt eine bedeutende Rolle im Widerstand gegen koloniale Strukturen und ist heute ein Zentrum für Bildung und Kultur in Santiago. Zu den wichtigsten Sehenswürdigkeiten gehört das Museu da Tabanka, das sich der Bewahrung lokaler Musiktraditionen widmet. Mit einer wachsenden Infrastruktur und einer Bevölkerung von etwa 15.000 Einwohnern im Stadtkern bleibt Assomada ein lebenswichtiges Bindeglied zwischen dem Norden und Süden der Insel.",
@@ -38,7 +83,88 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Siège de la municipalité de Santa Catarina", "Située à une altitude d'environ 600 mètres", "Fondée en tant qu'établissement en 1912", "Connue pour le plus grand marché agricole de Santiago", "Abrite le musée de la Tabanka", "Population d'environ 15 000 personnes"],
     },
   },
-  {id: "pedra-badejo-cities-v2", type: "city", parent: "CV-CR", coords: [-23.5333, 15.1333], name: {de: "Pedra Badejo", hu: "Pedra Badejo", ro: "Pedra Badejo", en: "Pedra Badejo"},
+  {id: "pedra-badejo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Igreja São Tiago Maior",
+                  "text": "Igreja São Tiago Maior ist ein Denkmal in Pedra Badejo.",
+                  "category": "historical",
+                  "coords": [
+                        -23.523968,
+                        15.12988
+                  ]
+            },
+            {
+                  "name": "Centro Katchás",
+                  "text": "Centro Katchás ist ein Kunstzentrum in Pedra Badejo.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.529257,
+                        15.137434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Igreja São Tiago Maior",
+                  "text": "Az Igreja São Tiago Maior egy emlékmű Pedra Badejo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -23.523968,
+                        15.12988
+                  ]
+            },
+            {
+                  "name": "Centro Katchás",
+                  "text": "A Centro Katchás egy művészeti központ Pedra Badejo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.529257,
+                        15.137434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Igreja São Tiago Maior",
+                  "text": "Igreja São Tiago Maior este un monument în Pedra Badejo.",
+                  "category": "historical",
+                  "coords": [
+                        -23.523968,
+                        15.12988
+                  ]
+            },
+            {
+                  "name": "Centro Katchás",
+                  "text": "Centro Katchás este un centru de artă în Pedra Badejo.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.529257,
+                        15.137434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Igreja São Tiago Maior",
+                  "text": "Igreja São Tiago Maior is a monument in Pedra Badejo.",
+                  "category": "historical",
+                  "coords": [
+                        -23.523968,
+                        15.12988
+                  ]
+            },
+            {
+                  "name": "Centro Katchás",
+                  "text": "Centro Katchás is an arts centre located in Pedra Badejo.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.529257,
+                        15.137434
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-CR", coords: [-23.5333, 15.1333], name: {de: "Pedra Badejo", hu: "Pedra Badejo", ro: "Pedra Badejo", en: "Pedra Badejo"},
     image: "/poi-images/pedra-badejo-cities-v2.webp", description: {de: "Pedra Badejo ist eine Küstenstadt an der Ostküste der Insel Santiago und Sitz der Gemeinde Santa Cruz.", hu: "Pedra Badejo egy kikötováros Santiago szigetének keleti partján, Santa Cruz község székhelye.", ro: "Pedra Badejo este un ora? de coasta pe coasta de est a insulei Santiago ?i re?edin?a municipiului Santa Cruz.", en: "Pedra Badejo is a coastal city on the east coast of Santiago island and the seat of the Santa Cruz municipality.", es: "Pedra Badejo es una ciudad costera en la costa este de la isla de Santiago y sede del municipio de Santa Cruz.", pt: "Pedra Badejo é uma cidade costeira na costa leste da ilha de Santiago e sede do município de Santa Cruz.", fr: "Pedra Badejo est une ville côtière sur la côte est de l'île de Santiago et le siège de la municipalité de Santa Cruz."}, facts: {de: ["Bedeutendes Zentrum für Fischerei und Landwirtschaft", "Umgeben von Bananen- und Kokosnussplantagen", "In der Nähe der wunderschönen Wasserfälle von Santiago", "Verfügt über einen kleinen, aber wichtigen Hafen"], hu: ["Jelentos halászati és mezogazdasági központ", "Banán- és kókuszdió-ültetvények veszik körül", "Santiago gyönyöru vízeséseinek közelében", "Kicsi, de fontos kikötovel rendelkezik"], ro: ["Centru semnificativ pentru pescuit ?i agricultura", "Înconjurat de plantații de banane ?i nuca de cocos", "Aproape de frumoasele cascade din Santiago", "Are un port mic, dar important"], en: ["Significant center for fishing and agriculture", "Surrounded by banana and coconut plantations", "Near the beautiful waterfalls of Santiago", "Has a small but important port"], es: ["Importante centro de pesca y agricultura", "Rodeada de plantaciones de plátanos y cocos", "Cerca de las hermosas cascadas de Santiago", "Cuenta con un puerto pequeño pero importante"], pt: ["Importante centro de pesca e agricultura", "Rodeada por plantações de banana e coco", "Perto das belas cascatas de Santiago", "Possui um porto pequeno mas importante"], fr: ["Centre important pour la pêche et l'agriculture", "Entourée de plantations de bananes et de noix de coco", "À proximité des magnifiques cascades de Santiago", "Dispose d'un petit port mais important"]}, image: "/poi-images/pedra-badejo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Pedra Badejo ist der Hauptort des Bezirks Santa Cruz an der Ostküste der Insel Santiago. Die Stadt liegt direkt am Atlantik und ist das Zentrum einer der fruchtbarsten Agrarregionen Kap Verdes, die vor allem für den Anbau von Bananen, Papayas und Kokosnüssen bekannt ist. Historisch entwickelte sich der Ort aus einer kleinen Fischersiedlung zu einem wichtigen Handelszentrum für landwirtschaftliche Erzeugnisse. Die Umgebung von Pedra Badejo ist durch tiefe Täler (Ribeiras) geprägt, in denen dank künstlicher Bewässerung ganzjährig Landwirtschaft betrieben werden kann. In der Stadt selbst befinden sich Verwaltungsgebäude, Schulen und ein kleiner Fischereihafen, der die lokale Versorgung sichert. Die Strände in der Nähe, wie Praia Bento, sind für ihren dunklen Vulkansand bekannt. Pedra Badejo spielt eine wesentliche Rolle in der Ernährungssicherung der Insel Santiago, da ein großer Teil der Frischwaren für den Markt in Praia aus dieser Region stammt.",
@@ -59,7 +185,340 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Chef-lieu de la municipalité de Santa Cruz.", "Située à environ 30 kilomètres de Praia.", "Centre de la production de bananes au Cap-Vert.", "Statut de ville depuis l'année 1971.", "Proche du barrage de Poilão pour l'irrigation.", "Nombre d'habitants d'environ 10 000 personnes."],
     },
   },
-  {id: "tarrafal-cities-v2", type: "city", parent: "CV-TA", coords: [-23.7508, 15.2775], name: {de: "Tarrafal", hu: "Tarrafal", ro: "Tarrafal", en: "Tarrafal"},
+  {id: "tarrafal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "King fisher",
+                  "text": "King fisher ist ein Strand in Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "Surf ist ein Strandabschnitt in Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "Mar di Baxu ist ein Strand in Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754786,
+                        15.279484
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "Praia do Tarrafal ist der Hauptstrand von Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.753245,
+                        15.281285
+                  ]
+            },
+            {
+                  "name": "Monte Graciosa",
+                  "text": "Monte Graciosa ist ein markanter Berg bei Tarrafal.",
+                  "category": "natural",
+                  "coords": [
+                        -23.749285,
+                        15.298854
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Preta",
+                  "text": "Farol da Ponta Preta ist ein Aussichtspunkt bei Tarrafal.",
+                  "category": "natural",
+                  "coords": [
+                        -23.77116,
+                        15.292653
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "Tarrafal Letras ist eine Attraktion in Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "Die Latrines sind Teil der historischen Anlage in Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "Die Wäscherei ist Teil der historischen Anlage in Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King fisher",
+                  "text": "A King fisher egy strand Tarrafalban.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "A Surf egy partszakasz Tarrafalban.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "A Mar di Baxu egy strand Tarrafalban.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754786,
+                        15.279484
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "Praia do Tarrafal Tarrafal fő strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.753245,
+                        15.281285
+                  ]
+            },
+            {
+                  "name": "Monte Graciosa",
+                  "text": "A Monte Graciosa egy jellegzetes hegy Tarrafal közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -23.749285,
+                        15.298854
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Preta",
+                  "text": "A Farol da Ponta Preta egy kilátópont Tarrafal közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -23.77116,
+                        15.292653
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "A Tarrafal Letras egy látnivaló Tarrafalban.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "A latrinák a Tarrafal-i történelmi helyszín részei.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "A mosoda a Tarrafal-i történelmi helyszín része.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King fisher",
+                  "text": "King fisher este o plajă din Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "Surf este o porțiune de plajă din Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "Mar di Baxu este o plajă din Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754786,
+                        15.279484
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "Praia do Tarrafal este plaja principală din Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.753245,
+                        15.281285
+                  ]
+            },
+            {
+                  "name": "Monte Graciosa",
+                  "text": "Monte Graciosa este un munte proeminent lângă Tarrafal.",
+                  "category": "natural",
+                  "coords": [
+                        -23.749285,
+                        15.298854
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Preta",
+                  "text": "Farol da Ponta Preta este un punct de belvedere lângă Tarrafal.",
+                  "category": "natural",
+                  "coords": [
+                        -23.77116,
+                        15.292653
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "Tarrafal Letras este o atracție din Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "Latrinele fac parte din situl istoric din Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "Spălătoria face parte din situl istoric din Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King fisher",
+                  "text": "King fisher is a beach in Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "Surf is a beach area in Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "Mar di Baxu is a beach in Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754786,
+                        15.279484
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "Praia do Tarrafal is the main beach of Tarrafal.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.753245,
+                        15.281285
+                  ]
+            },
+            {
+                  "name": "Monte Graciosa",
+                  "text": "Monte Graciosa is a prominent mountain near Tarrafal.",
+                  "category": "natural",
+                  "coords": [
+                        -23.749285,
+                        15.298854
+                  ]
+            },
+            {
+                  "name": "Farol da Ponta Preta",
+                  "text": "Farol da Ponta Preta is a viewpoint near Tarrafal.",
+                  "category": "natural",
+                  "coords": [
+                        -23.77116,
+                        15.292653
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "Tarrafal Letras is an attraction in Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "The latrines are part of the historical site in Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "The laundry is part of the historical site in Tarrafal.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-TA", coords: [-23.7508, 15.2775], name: {de: "Tarrafal", hu: "Tarrafal", ro: "Tarrafal", en: "Tarrafal"},
     image: "/poi-images/tarrafal-cities-v2.webp", description: {de: "Tarrafal ist eine Stadt im Norden der Insel Santiago, bekannt für ihren weißen Sandstrand.", hu: "Tarrafal egy város Santiago szigetének északi részén, fehér homokos strandjáról ismert.", ro: "Tarrafal este un ora? din nordul insulei Santiago, cunoscut pentru plaja sa cu nisip alb.", en: "Tarrafal is a city in the north of Santiago island, famous for its white sand beach.", es: "Tarrafal es una ciudad en el norte de la isla de Santiago, conocida por su playa de arena blanca.", pt: "Tarrafal é uma cidade no norte da ilha de Santiago, conhecida pela sua praia de areia branca.", fr: "Tarrafal est une ville du nord de l'île de Santiago, célèbre pour sa plage de sable blanc."}, facts: {de: ["Beliebtes Touristenziel mit Palmenstrand", "Ehemaliger Standort eines berüchtigten politischen Gefängnisses", "Wichtiges Fischereizentrum der Region", "Eingebettet in eine malerische Bucht am Fuße der Berge"], hu: ["Népszeru turisztikai célpont pálmafás stranddal", "Egy hírhedt politikai börtön egykori helyszíne", "A régió fontos halászati központja", "Egy festoi öbölben fekszik a hegyek lábánál"], ro: ["Destinație turistica populara cu plaja cu palmieri", "Fostul loc al unei închisori politice infame", "Centru important de pescuit din regiune", "Situat într-un golf pitoresc la poalele munților"], en: ["Popular tourist destination with a palm-fringed beach", "Former site of a notorious political prison", "Important fishing center of the region", "Nestled in a picturesque bay at the foot of mountains"], es: ["Popular destino turístico con playa de palmeras", "Antiguo sitio de una notoria prisión política", "Importante centro pesquero de la región", "Enclavado en una pintoresca bahía al pie de las montañas"], pt: ["Destino turístico popular com praia de palmeiras", "Antigo local de uma notória prisão política", "Importante centro de pesca da região", "Inserido numa baía pitoresca no sopé das montanhas"], fr: ["Destination touristique prisée avec plage de palmiers", "Ancien site d'une prison politique notoire", "Important centre de pêche de la région", "Niché dans une baie pittoresque au pied des montagnes"]}, image: "/poi-images/tarrafal-cities-v2.webp",
     descriptionAdvanced: {
       de: "Tarrafal liegt an der Nordspitze der Insel Santiago und ist einer der bekanntesten Orte Kap Verdes, sowohl für seine natürliche Schönheit als auch für seine düstere Geschichte. Die Stadt besitzt einen der wenigen weißen Sandstrände der Insel, der durch den Schutz der Bucht von Tarrafal und den imposanten Monte Graciosa geprägt ist. International bekannt wurde der Ort jedoch durch das Konzentrationslager von Tarrafal (Campo de Tarrafal), das 1936 vom portugiesischen Estado-Novo-Regime für politische Gefangene errichtet wurde. Heute ist das Lager eine Gedenkstätte und ein Museum, das an die Leiden der Widerstandskämpfer erinnert. Wirtschaftlich lebt Tarrafal heute primär von der Fischerei und einem wachsenden Tourismussektor, der Besucher wegen der Tauchgründe und Wanderwege anzieht. Die entspannte Atmosphäre der Stadt und der lebhafte Fischereihafen machen sie zu einem wichtigen kulturellen Fixpunkt im Norden Santiagos. Mit seiner Lage am Ende der Hauptstraße der Insel bildet Tarrafal den nördlichsten urbanen Pol Santiagos.",
@@ -101,7 +560,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Fondation en 1462 par les Portugais.", "Première capitale du Cap-Vert jusqu'en 1770.", "Patrimoine mondial de l'UNESCO depuis 2009.", "Hôte de la Fortaleza Real de São Filipe.", "Site de la plus ancienne église coloniale au monde.", "Célèbre pilori (Pelourinho) du XVIe siècle."],
     },
   },
-  {id: "calheta-de-sao-miguel-cities-v2", type: "city", parent: "CV-SM", coords: [-23.59, 15.187], name: {de: "Calheta de São Miguel", hu: "Calheta de São Miguel", ro: "Calheta de São Miguel", en: "Calheta de São Miguel"},
+  {id: "calheta-de-sao-miguel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cruz de Barreira",
+                  "text": "Cruz de Barreira ist ein Aussichtspunkt in Calheta de São Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -23.597703,
+                        15.199236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cruz de Barreira",
+                  "text": "A Cruz de Barreira egy kilátó Calheta de São Miguel városában.",
+                  "category": "natural",
+                  "coords": [
+                        -23.597703,
+                        15.199236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cruz de Barreira",
+                  "text": "Cruz de Barreira este un punct de belvedere în Calheta de São Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -23.597703,
+                        15.199236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cruz de Barreira",
+                  "text": "Cruz de Barreira is a viewpoint in Calheta de São Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -23.597703,
+                        15.199236
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-SM", coords: [-23.59, 15.187], name: {de: "Calheta de São Miguel", hu: "Calheta de São Miguel", ro: "Calheta de São Miguel", en: "Calheta de São Miguel"},
     image: "/poi-images/calheta-de-sao-miguel-cities-v2.webp", description: {de: "Calheta de São Miguel ist eine Stadt an der Nordostküste von Santiago und Sitz der Gemeinde São Miguel.", hu: "Calheta de São Miguel egy város Santiago északkeleti partján, São Miguel község székhelye.", ro: "Calheta de São Miguel este un ora? de pe coasta de nord-est a insulei Santiago ?i re?edin?a municipiului Santa Cruz.", en: "Calheta de São Miguel is a city on the northeastern coast of Santiago and the seat of the São Miguel municipality.", es: "Calheta de São Miguel es una ciudad en la costa noreste de Santiago y sede del municipio de São Miguel.", pt: "Calheta de São Miguel é uma cidade na costa nordeste de Santiago e sede do concelho de São Miguel.", fr: "Calheta de São Miguel est une ville située sur la côte nord-est de Santiago et le siège de la municipalité de São Miguel."}, facts: {de: ["Bedeutendes landwirtschaftliches Zentrum der Insel", "Hafen für lokale Fischerboote", "Bekannt für seine traditionellen Feste", "Wichtiger Handelsplatz für die umliegenden Dörfer"], hu: ["A sziget jelentos mezogazdasági központja", "Helyi halászhajók kikötoje", "Híres hagyományos fesztiváljairól", "Fontos kereskedelmi hely a környezo falvak számára"], ro: ["Centru agricol semnificativ al insulei", "Port pentru barci de pescuit locale", "Cunoscut pentru festivalurile sale tradiționale", "Loc de tranzac?ionare important pentru satele din jur"], en: ["Significant agricultural center of the island", "Port for local fishing boats", "Known for its traditional festivals", "Important trading spot for surrounding villages"], es: ["Importante centro agrícola de la isla", "Puerto para barcos de pesca locales", "Conocida por sus fiestas tradicionales", "Importante centro comercial para los pueblos cercanos"], pt: ["Importante centro agrícola da ilha", "Porto para barcos de pesca locais", "Conhecida pelas suas festas tradicionais", "Importante centro comercial para as aldeias vizinhas"], fr: ["Centre agricole majeur de l'île", "Port pour les bateaux de pêche locaux", "Réputée pour ses fêtes traditionnelles", "Place commerciale importante pour les villages alentour"]}, image: "/poi-images/calheta-de-sao-miguel-cities-v2.webp",
     descriptionAdvanced: {
       de: "Calheta de São Miguel ist der Hauptort der Gemeinde São Miguel an der Nordostküste der Insel Santiago. Die Stadt liegt malerisch zwischen dem Atlantik und den schroffen Ausläufern des Zentralgebirges und fungiert als wichtiges lokales Zentrum für Fischerei und Landwirtschaft. Die Wirtschaft der Stadt ist eng mit dem fruchtbaren Hinterland verbunden, in dem Mais, Bohnen und Zuckerrohr angebaut werden. Calheta ist bekannt für seinen kleinen, geschützten Hafen, der seit Generationen von handwerklichen Fischern genutzt wird. In der Stadtmitte befindet sich die Kirche São Miguel Arcanjo, die ein zentraler Treffpunkt für die Gemeinschaft ist. Die Region um Calheta ist zudem für ihre traditionellen Feste bekannt, die die tief verwurzelte katholische Kultur der Insel widerspiegeln. Trotz ihrer relativen Abgelegenheit von der Hauptstadt Praia hat sich die Stadt in den letzten Jahren durch Infrastrukturprojekte, wie den Ausbau der Küstenstraße, weiterentwickelt und dient als Tor zu den unberührten Landschaften im Nordosten Santiagos.",
@@ -143,7 +647,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Siège de la municipalité de São Salvador do Mundo.", "Également connue sous le nom d'Achada Igreja.", "Située dans le centre montagneux de l'île de Santiago.", "A obtenu le statut de ville en 1971.", "Centre économique pour le secteur agricole local.", "Altitude de plus de 300 mètres au-dessus du niveau de la mer."],
     },
   },
-  {id: "joao-teves-cities-v2", type: "city", parent: "CV-SO", coords: [-23.591, 15.064], name: {de: "João Teves", hu: "João Teves", ro: "João Teves", en: "João Teves"},
+  {id: "joao-teves-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardim Botanico",
+                  "text": "Jardim Botanico ist ein bekannter botanischer Garten in João Teves.",
+                  "category": "park",
+                  "coords": [
+                        -23.603759,
+                        15.048897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardim Botanico",
+                  "text": "A Jardim Botanico egy jelentős botanikus kert João Teves városában.",
+                  "category": "park",
+                  "coords": [
+                        -23.603759,
+                        15.048897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardim Botanico",
+                  "text": "Jardim Botanico este o grădină botanică importantă situată în João Teves.",
+                  "category": "park",
+                  "coords": [
+                        -23.603759,
+                        15.048897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardim Botanico",
+                  "text": "Jardim Botanico is a notable botanical garden located in João Teves.",
+                  "category": "park",
+                  "coords": [
+                        -23.603759,
+                        15.048897
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-SO", coords: [-23.591, 15.064], name: {de: "João Teves", hu: "João Teves", ro: "João Teves", en: "João Teves"},
     image: "/poi-images/joao-teves-cities-v2.webp", description: {de: "João Teves ist eine Stadt im Landesinneren von Santiago und Sitz der Gemeinde São Lourenço dos Órgãos.", hu: "João Teves egy város Santiago belsejében, São Lourenço dos Órgãos község székhelye.", ro: "João Teves este un ora? din interiorul insulei Santiago ?i re?edin?a municipiului São Lourenço dos Órgãos.", en: "João Teves is a city in the interior of Santiago and the seat of the São Lourenço dos Órgãos municipality.", es: "João Teves es una ciudad en el interior de Santiago y sede del municipio de São Lourenço dos Órgãos.", pt: "João Teves é uma cidade no interior de Santiago e sede do concelho de São Lourenço dos Órgãos.", fr: "João Teves est une ville de l'intérieur de l'île de Santiago et le siège de la municipalité de São Lourenço dos Órgãos."}, facts: {de: ["Gelegen in einer fertilem Tal", "Zentrum für Gartenbau und Pflanzenzucht", "Umgeben von markanten Bergformationen", "Wichtiger lokaler Marktort"], hu: ["Egy termékeny völgyben fekszik", "A kertészet és a növénynemesítés központja", "Jellegzetes hegyvonulatok veszik körül", "Fontos helyi piaci helyszín"], ro: ["Situat într-o vale fertila", "Centru pentru horticultura ?i ameliorarea plantelor", "Înconjurat de formațiuni muntoase distinctive", "Loc important de pia?a locala"], en: ["Located in a fertile valley", "Center for horticulture and plant breeding", "Surrounded by striking mountain formations", "Important local market location"], es: ["Situado en un valle fértil", "Centro de horticultura y cría de plantas", "Rodeado de formaciones montañosas prominentes", "Importante lugar de mercado local"], pt: ["Situado num vale fértil", "Centro de horticultura e viveiros de plantas", "Rodeado de formações montanhosas proeminentes", "Local de mercado importante a nível local"], fr: ["Situé dans une vallée fertile", "Centre d'horticulture et de pépinières", "Entouré de formations montagneuses remarquables", "Lieu de marché local important"]}, image: "/poi-images/joao-teves-cities-v2.webp",
     descriptionAdvanced: {
       de: "João Teves ist der Hauptort des Bezirks São Lourenço dos Órgãos und liegt in einem der grünsten Täler der Insel Santiago. Die Stadt befindet sich am Fuße des majestätischen Pico de Antónia-Massivs und profitiert von einem Mikroklima, das durch häufigere Niederschläge und Nebel geprägt ist. Dies macht die Region zu einem Zentrum der landwirtschaftlichen Forschung und Produktion, insbesondere für Obst und Gemüse. In unmittelbarer Nähe liegt der Botanische Garten Grandvaux Barbosa, der eine bedeutende Sammlung endemischer Pflanzenarten der Kapverden beherbergt. João Teves dient als wichtiges Dienstleistungszentrum für die umliegenden Bergdörfer und ist für seine ruhige, naturnahe Atmosphäre bekannt. Die Architektur der Stadt fügt sich harmonisch in die terrassierte Landschaft ein, in der Zuckerrohr für die Produktion von traditionellem Grogue angebaut wird. Als Sitz einer relativ jungen Gemeinde hat João Teves in den letzten Jahren an Bedeutung für den Ökotourismus und die nachhaltige Entwicklung der Insel gewonnen.",
@@ -185,7 +734,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Chef-lieu de la municipalité de São Domingos.", "Création du district en 1994.", "Situé à environ 15 kilomètres au nord-ouest de Praia.", "Connu pour l'artisanat traditionnel cap-verdien.", "Centre de production de fruits et légumes.", "Point de transit important entre Praia et le nord."],
     },
   },
-  {id: "ribeira-da-barca-cities-v2", type: "city", parent: "CV-CA", coords: [-23.7431, 15.1317], name: {de: "Ribeira da Barca", hu: "Ribeira da Barca", ro: "Ribeira da Barca", en: "Ribeira da Barca"},
+  {id: "ribeira-da-barca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Brianda",
+                  "text": "Monte Brianda ist ein Gipfel bei Ribeira da Barca.",
+                  "category": "natural",
+                  "coords": [
+                        -23.738094,
+                        15.110601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Brianda",
+                  "text": "A Monte Brianda egy hegycsúcs Ribeira da Barca közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -23.738094,
+                        15.110601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Brianda",
+                  "text": "Monte Brianda este un vârf muntos lângă Ribeira da Barca.",
+                  "category": "natural",
+                  "coords": [
+                        -23.738094,
+                        15.110601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Brianda",
+                  "text": "Monte Brianda is a mountain peak near Ribeira da Barca.",
+                  "category": "natural",
+                  "coords": [
+                        -23.738094,
+                        15.110601
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-CA", coords: [-23.7431, 15.1317], name: {de: "Ribeira da Barca", hu: "Ribeira da Barca", ro: "Ribeira da Barca", en: "Ribeira da Barca"},
     image: "/poi-images/ribeira-da-barca-cities-v2.webp", description: {de: "Ribeira da Barca ist ein malerisches Fischerdorf an der Westküste von Santiago.", hu: "Ribeira da Barca egy festoi halászfalu Santiago nyugati partján.", ro: "Ribeira da Barca este un sat de pescari pitoresc de pe coasta de vest a insulei Santiago.", en: "Ribeira da Barca is a picturesque fishing village on the west coast of Santiago.", es: "Ribeira da Barca es un pintoresco pueblo de pescadores en la costa oeste de Santiago.", pt: "Ribeira da Barca é uma pitoresca aldeia de pescadores na costa oeste de Santiago.", fr: "Ribeira da Barca est un village de pêcheurs pittoresque sur la côte ouest de Santiago."}, facts: {de: ["Wichtiger Fischereihafen der Gemeinde Santa Catarina", "Bekannt für Bootsausflüge zu abgelegenen Stränden", "Bietet frischen Fisch direkt am Hafen", "Umgeben von beeindruckenden Küstenfelsen"], hu: ["Santa Catarina község fontos halászkikötoje", "Híres a távoli strandokra induló hajókirándulásairól", "Friss halat kínál közvetlenül a kikötoben", "Lenyugözo tengerparti sziklák veszik körül"], ro: ["Port de pescuit important al municipiului Santa Catarina", "Cunoscut pentru excursii cu barca la plaje îndepartate", "Ofera pește proaspat direct în port", "Înconjurat de stânci de coasta impresionante"], en: ["Important fishing port of the Santa Catarina municipality", "Known for boat excursions to remote beaches", "Offers fresh fish directly at the harbor", "Surrounded by impressive coastal cliffs"], es: ["Puerto pesquero importante del municipio de Santa Catarina", "Conocido por excursiones en barco a playas remotas", "Ofrece pescado fresco directamente en el puerto", "Rodeado de impresionantes acantilados costeros"], pt: ["Porto de pesca importante do concelho de Santa Catarina", "Conhecida por passeios de barco para praias isoladas", "Oferece peixe fresco diretamente no porto", "Rodeada por impressionantes falésias costeiras"], fr: ["Port de pêche important de la municipalité de Santa Catarina", "Connu pour ses excursions en bateau vers des plages isolées", "Offre du poisson frais directement au port", "Entouré d'impressionnantes falaises côtières"]}, image: "/poi-images/ribeira-da-barca-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ribeira da Barca ist ein bedeutendes Fischerdorf an der Westküste der Insel Santiago und gehört zum Bezirk Santa Catarina. Der Ort liegt in einer tiefen Bucht, die Schutz vor den starken Strömungen des Atlantiks bietet, und hat sich zu einem der wichtigsten Zentren für handwerkliche Fischerei in der Region entwickelt. Die Geschichte des Dorfes ist eng mit dem Meer verbunden; die Bewohner leben seit Generationen vom Fang von Thunfisch, Makrelen und anderen lokalen Fischarten. Bekannt ist Ribeira da Barca auch als Ausgangspunkt für Bootsfahrten zur Grotte 'Águas Belas', einer spektakulären natürlichen Höhle an der Küste. Das Dorfbild ist geprägt von bunten Fischerbooten und einer lebhaften Atmosphäre am Ufer, wo der tägliche Fang direkt gehandelt wird. Trotz seiner relativen Isolation bietet der Ort eine authentische Erfahrung des kapverdischen Küstenlebens, fernab des Massentourismus. Die umliegende Landschaft ist trocken und zerklüftet, was den Kontrast zum tiefblauen Ozean und dem geschäftigen Treiben im kleinen Hafen besonders hervorhebt.",
@@ -206,7 +800,268 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Appartient à la municipalité de Santa Catarina.", "Situé sur la côte ouest de Santiago.", "Port important pour la pêche locale.", "Se trouve à environ 15 kilomètres d'Assomada.", "Nombre d'habitants d'environ 2 300 personnes.", "Accès à des grottes marines dans les environs."],
     },
   },
-  {id: "chao-bom-cities-v2", type: "city", parent: "CV-TA", coords: [-23.738, 15.263], name: {de: "Chão Bom", hu: "Chão Bom", ro: "Chão Bom", en: "Chão Bom"},
+  {id: "chao-bom-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "King fisher",
+                  "text": "King fisher ist ein Strand in Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "Surf ist ein Strand an der Küste von Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "Mar di Baxu ist ein Strand in Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754786,
+                        15.279484
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "Praia do Tarrafal ist ein malerischer Strand in Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.753245,
+                        15.281285
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "Tarrafal Letras ist eine Sehenswürdigkeit in Chão Bom.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "Latrines ist eine lokale Attraktion in Chão Bom.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "Laundry ist ein interessanter Ort in Chão Bom.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King fisher",
+                  "text": "A King fisher egy strand Chão Bom városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "A Surf egy tengerparti szakasz Chão Bom városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "A Mar di Baxu egy strand Chão Bom városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754786,
+                        15.279484
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "A Praia do Tarrafal egy festői strand Chão Bom városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.753245,
+                        15.281285
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "A Tarrafal Letras egy látványosság Chão Bom városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "A Latrines egy helyi látványosság Chão Bom városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "A Laundry egy érdekes hely Chão Bom városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King fisher",
+                  "text": "King fisher este o plajă situată în Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "Surf este o plajă situată pe coasta din Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "Mar di Baxu este o plajă situată în Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754786,
+                        15.279484
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "Praia do Tarrafal este o plajă pitorească situată în Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.753245,
+                        15.281285
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "Tarrafal Letras este o atracție situată în Chão Bom.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "Latrines este o atracție locală situată în Chão Bom.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "Laundry este un punct de interes situat în Chão Bom.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King fisher",
+                  "text": "King fisher is a beach destination situated in Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.757746,
+                        15.275385
+                  ]
+            },
+            {
+                  "name": "Surf",
+                  "text": "Surf is a beach located in the coastal area of Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.75868,
+                        15.272502
+                  ]
+            },
+            {
+                  "name": "Mar di Baxu",
+                  "text": "Mar di Baxu is a beach located in Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.754786,
+                        15.279484
+                  ]
+            },
+            {
+                  "name": "Praia do Tarrafal",
+                  "text": "Praia do Tarrafal is a scenic beach situated in Chão Bom.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.753245,
+                        15.281285
+                  ]
+            },
+            {
+                  "name": "Tarrafal Letras",
+                  "text": "Tarrafal Letras is an attraction to visit in Chão Bom.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.756195,
+                        15.279292
+                  ]
+            },
+            {
+                  "name": "Latrines",
+                  "text": "Latrines is a local attraction located in Chão Bom.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.743339,
+                        15.263894
+                  ]
+            },
+            {
+                  "name": "Laundry",
+                  "text": "Laundry is a point of interest situated in Chão Bom.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.744409,
+                        15.264063
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-TA", coords: [-23.738, 15.263], name: {de: "Chão Bom", hu: "Chão Bom", ro: "Chão Bom", en: "Chão Bom"},
     image: "/poi-images/chao-bom-cities-v2.webp", description: {de: "Chão Bom ist eine wachsende Stadt in der Gemeinde Tarrafal, südlich des Hauptortes.", hu: "Chão Bom egy növekvo város Tarrafal községben, a fo településtol délre.", ro: "Chão Bom este un ora? în creștere în municipiul Tarrafal, la sud de orașul principal.", en: "Chão Bom is a growing town in the Tarrafal municipality, south of the main town.", es: "Chão Bom es una ciudad en crecimiento en el municipio de Tarrafal, al sur de la ciudad principal.", pt: "Chão Bom é uma cidade em crescimento no concelho do Tarrafal, a sul da sede do município.", fr: "Chão Bom est une ville en pleine expansion dans la municipalité de Tarrafal, au sud du chef-lieu."}, facts: {de: ["Standort des historischen Konzentrationslagers Tarrafal", "Bedeutendes Wohn- und Agrargebiet", "In unmittelbarer Nähe zu den Stränden von Tarrafal", "Zentrum lokaler Landwirtschaftsprojekte"], hu: ["A történelmi Tarrafal koncentrációs tábor helyszíne", "Jelentos lakó- és mezogazdasági terület", "Tarrafal strandjainak közvetlen közelében", "Helyi mezogazdasági projektek központja"], ro: ["Locul lagarului istoric de concentrare Tarrafal", "Zona reziden?iala ?i agricola semnificativa", "În imediata apropiere a plajelor din Tarrafal", "Centrul proiectelor agricole locale"], en: ["Site of the historical Tarrafal concentration camp", "Significant residential and agricultural area", "In close proximity to Tarrafal's beaches", "Center of local agricultural projects"], es: ["Sede del histórico campo de concentración de Tarrafal", "Importante zona residencial y agrícola", "Muy cerca de las playas de Tarrafal", "Centro de proyectos agrícolas locales"], pt: ["Local do histórico Campo de Concentração do Tarrafal", "Importante zona residencial e agrícola", "Muito próximo das praias do Tarrafal", "Centro de projetos agrícolas locais"], fr: ["Site de l'ancien camp de concentration de Tarrafal", "Zone résidentielle et agricole importante", "À proximité immédiate des plages de Tarrafal", "Centre de projets agricoles locaux"]}, image: "/poi-images/chao-bom-cities-v2.webp",
     descriptionAdvanced: {
       de: "Chão Bom ist eine Siedlung im Nordwesten der Insel Santiago, die unmittelbar südlich der Stadt Tarrafal liegt. Internationale Bekanntheit erlangte der Ort vor allem durch das Konzentrationslager Tarrafal, das 1936 von der portugiesischen Kolonialmacht unter dem Estado-Novo-Regime errichtet wurde. Die Anlage diente zur Inhaftierung politischer Gefangener aus Portugal und später von Widerstandskämpfern aus den afrikanischen Kolonien wie Angola und Guinea-Bissau. Geografisch ist die Region durch eine trockene Küstenebene geprägt, die im Osten von den Ausläufern des Serra-Malagueta-Massivs begrenzt wird. Heute ist das ehemalige Gefängnis ein Museum und ein nationales Denkmal, das die Geschichte des Widerstands gegen den Kolonialismus dokumentiert. In der Umgebung von Chão Bom hat sich in den letzten Jahrzehnten eine wachsende Wohnbesiedlung entwickelt, die eng mit der wirtschaftlichen Entwicklung von Tarrafal verknüpft ist. Die Landwirtschaft in dieser Region basiert hauptsächlich auf dem Anbau von Mais und Bohnen unter regenabhängigen Bedingungen.",
@@ -290,7 +1145,736 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Situé dans la municipalité de Ribeira Grande de Santiago.", "Se trouve à environ 15 kilomètres à l'ouest de Praia.", "La principale source de revenus est la pêche quotidienne.", "Le village est situé dans une baie volcanique.", "Fournisseur important de poisson frais pour la capitale.", "La population est d'environ 800 personnes."],
     },
   },
-  {id: "mindelo-cities-v2", type: "city", parent: "CV-SV", coords: [-24.9914, 16.8901], name: {de: "Mindelo", hu: "Mindelo", ro: "Mindelo", en: "Mindelo"},
+  {id: "mindelo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortim D'El Rei",
+                  "text": "Fortim D'El Rei ist eine historische Festung über der Bucht in Mindelo.",
+                  "category": "fortress",
+                  "coords": [
+                        -24.993309,
+                        16.890483
+                  ]
+            },
+            {
+                  "name": "Eden Park Cine-Theatre",
+                  "text": "Das Eden Park Cine-Theatre ist ein Theater in Mindelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.98734,
+                        16.889957
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Cesária Évora",
+                  "text": "Das Núcleo Museológico Cesária Évora ist ein Museum in Mindelo.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986495,
+                        16.884787
+                  ]
+            },
+            {
+                  "name": "Praia de Laginha",
+                  "text": "Praia de Laginha ist ein Strand in Mindelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.992931,
+                        16.894467
+                  ]
+            },
+            {
+                  "name": "Monte de São João",
+                  "text": "Monte de São João ist ein markanter Hügel in Mindelo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.99541,
+                        16.864271
+                  ]
+            },
+            {
+                  "name": "Porto Grande",
+                  "text": "Porto Grande ist eine große natürliche Bucht in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.002888,
+                        16.883188
+                  ]
+            },
+            {
+                  "name": "Diogo Afonsó",
+                  "text": "Diogo Afonsó ist eine Sehenswürdigkeit in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.989831,
+                        16.884722
+                  ]
+            },
+            {
+                  "name": "Alcides",
+                  "text": "Alcides ist eine Sehenswürdigkeit in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98769,
+                        16.885808
+                  ]
+            },
+            {
+                  "name": "Former Flight Defense Artillery",
+                  "text": "Former Flight Defense Artillery ist eine Sehenswürdigkeit in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.983305,
+                        16.873266
+                  ]
+            },
+            {
+                  "name": "Former Artillery",
+                  "text": "Former Artillery ist eine Sehenswürdigkeit in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.998119,
+                        16.905776
+                  ]
+            },
+            {
+                  "name": "Gago Coutinho e Sacadura Cabral",
+                  "text": "Gago Coutinho e Sacadura Cabral ist eine Sehenswürdigkeit in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.991743,
+                        16.888845
+                  ]
+            },
+            {
+                  "name": "Casa Cesária Évora",
+                  "text": "Cesária Évora Home ist eine Sehenswürdigkeit in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98573,
+                        16.885926
+                  ]
+            },
+            {
+                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
+                  "text": "Alfândega Velha - Centro Cultural do Mindelo ist ein Kunstzentrum in Mindelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.989022,
+                        16.887002
+                  ]
+            },
+            {
+                  "name": "Corsino Antonio Fortes",
+                  "text": "Corsino Antonio Fortes ist ein Denkmal in Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.986348,
+                        16.895409
+                  ]
+            },
+            {
+                  "name": "Manuel d'Novas",
+                  "text": "Manuel d'Novas ist ein Denkmal in Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.992817,
+                        16.889219
+                  ]
+            },
+            {
+                  "name": "Luís Morais",
+                  "text": "Luís Morais ist ein Denkmal in Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.989541,
+                        16.88827
+                  ]
+            },
+            {
+                  "name": "B. Leza",
+                  "text": "B. Leza ist ein Denkmal in Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.98579,
+                        16.880048
+                  ]
+            },
+            {
+                  "name": "Zero Point Art Gallery",
+                  "text": "Zero Point Art Gallery ist eine Galerie in Mindelo.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986391,
+                        16.887494
+                  ]
+            },
+            {
+                  "name": "Fresques",
+                  "text": "Fresques ist eine Sehenswürdigkeit in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98793,
+                        16.88367
+                  ]
+            },
+            {
+                  "name": "waiting place for ferries",
+                  "text": "Der waiting place for ferries ist eine Sehenswürdigkeit in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993447,
+                        16.888268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortim D'El Rei",
+                  "text": "A Fortim D'El Rei egy történelmi erőd az öböl felett Mindelo városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -24.993309,
+                        16.890483
+                  ]
+            },
+            {
+                  "name": "Eden Park Cine-Theatre",
+                  "text": "Az Eden Park Cine-Theatre egy színház Mindelo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.98734,
+                        16.889957
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Cesária Évora",
+                  "text": "A Núcleo Museológico Cesária Évora egy múzeum Mindelo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986495,
+                        16.884787
+                  ]
+            },
+            {
+                  "name": "Praia de Laginha",
+                  "text": "A Praia de Laginha egy strand Mindelo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.992931,
+                        16.894467
+                  ]
+            },
+            {
+                  "name": "Monte de São João",
+                  "text": "A Monte de São João egy kiemelkedő hegy Mindelo városában.",
+                  "category": "natural",
+                  "coords": [
+                        -24.99541,
+                        16.864271
+                  ]
+            },
+            {
+                  "name": "Porto Grande",
+                  "text": "A Porto Grande egy jelentős természetes öböl Mindelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.002888,
+                        16.883188
+                  ]
+            },
+            {
+                  "name": "Diogo Afonsó",
+                  "text": "A Diogo Afonsó egy látványosság Mindelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.989831,
+                        16.884722
+                  ]
+            },
+            {
+                  "name": "Alcides",
+                  "text": "Az Alcides egy látványosság Mindelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98769,
+                        16.885808
+                  ]
+            },
+            {
+                  "name": "Former Flight Defense Artillery",
+                  "text": "A Former Flight Defense Artillery egy látványosság Mindelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.983305,
+                        16.873266
+                  ]
+            },
+            {
+                  "name": "Former Artillery",
+                  "text": "A Former Artillery egy látványosság Mindelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.998119,
+                        16.905776
+                  ]
+            },
+            {
+                  "name": "Gago Coutinho e Sacadura Cabral",
+                  "text": "A Gago Coutinho e Sacadura Cabral egy látványosság Mindelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.991743,
+                        16.888845
+                  ]
+            },
+            {
+                  "name": "Casa Cesária Évora",
+                  "text": "A Cesária Évora Home egy látványosság Mindelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98573,
+                        16.885926
+                  ]
+            },
+            {
+                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
+                  "text": "Az Alfândega Velha - Centro Cultural do Mindelo egy művészeti központ Mindelo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.989022,
+                        16.887002
+                  ]
+            },
+            {
+                  "name": "Corsino Antonio Fortes",
+                  "text": "A Corsino Antonio Fortes egy emlékmű Mindelo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -24.986348,
+                        16.895409
+                  ]
+            },
+            {
+                  "name": "Manuel d'Novas",
+                  "text": "A Manuel d'Novas egy emlékmű Mindelo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -24.992817,
+                        16.889219
+                  ]
+            },
+            {
+                  "name": "Luís Morais",
+                  "text": "A Luís Morais egy emlékmű Mindelo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -24.989541,
+                        16.88827
+                  ]
+            },
+            {
+                  "name": "B. Leza",
+                  "text": "A B. Leza egy emlékmű Mindelo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -24.98579,
+                        16.880048
+                  ]
+            },
+            {
+                  "name": "Zero Point Art Gallery",
+                  "text": "A Zero Point Art Gallery egy galéria Mindelo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986391,
+                        16.887494
+                  ]
+            },
+            {
+                  "name": "Fresques",
+                  "text": "A Fresques egy látványosság Mindelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98793,
+                        16.88367
+                  ]
+            },
+            {
+                  "name": "waiting place for ferries",
+                  "text": "A waiting place for ferries egy látványosság Mindelóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993447,
+                        16.888268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortim D'El Rei",
+                  "text": "Fortim D'El Rei este un fort istoric deasupra golfului din Mindelo.",
+                  "category": "fortress",
+                  "coords": [
+                        -24.993309,
+                        16.890483
+                  ]
+            },
+            {
+                  "name": "Eden Park Cine-Theatre",
+                  "text": "Eden Park Cine-Theatre este un teatru în Mindelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.98734,
+                        16.889957
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Cesária Évora",
+                  "text": "Núcleo Museológico Cesária Évora este un muzeu în Mindelo.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986495,
+                        16.884787
+                  ]
+            },
+            {
+                  "name": "Praia de Laginha",
+                  "text": "Praia de Laginha este o plajă în Mindelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.992931,
+                        16.894467
+                  ]
+            },
+            {
+                  "name": "Monte de São João",
+                  "text": "Monte de São João este un deal proeminent în Mindelo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.99541,
+                        16.864271
+                  ]
+            },
+            {
+                  "name": "Porto Grande",
+                  "text": "Porto Grande este un golf natural important din Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.002888,
+                        16.883188
+                  ]
+            },
+            {
+                  "name": "Diogo Afonsó",
+                  "text": "Diogo Afonsó este o atracție în Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.989831,
+                        16.884722
+                  ]
+            },
+            {
+                  "name": "Alcides",
+                  "text": "Alcides este o atracție în Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98769,
+                        16.885808
+                  ]
+            },
+            {
+                  "name": "Former Flight Defense Artillery",
+                  "text": "Former Flight Defense Artillery este o atracție în Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.983305,
+                        16.873266
+                  ]
+            },
+            {
+                  "name": "Former Artillery",
+                  "text": "Former Artillery este o atracție în Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.998119,
+                        16.905776
+                  ]
+            },
+            {
+                  "name": "Gago Coutinho e Sacadura Cabral",
+                  "text": "Gago Coutinho e Sacadura Cabral este o atracție în Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.991743,
+                        16.888845
+                  ]
+            },
+            {
+                  "name": "Casa Cesária Évora",
+                  "text": "Cesária Évora Home este o atracție în Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98573,
+                        16.885926
+                  ]
+            },
+            {
+                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
+                  "text": "Alfândega Velha - Centro Cultural do Mindelo este un centru de artă în Mindelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.989022,
+                        16.887002
+                  ]
+            },
+            {
+                  "name": "Corsino Antonio Fortes",
+                  "text": "Corsino Antonio Fortes este un monument în Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.986348,
+                        16.895409
+                  ]
+            },
+            {
+                  "name": "Manuel d'Novas",
+                  "text": "Manuel d'Novas este un monument în Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.992817,
+                        16.889219
+                  ]
+            },
+            {
+                  "name": "Luís Morais",
+                  "text": "Luís Morais este un monument în Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.989541,
+                        16.88827
+                  ]
+            },
+            {
+                  "name": "B. Leza",
+                  "text": "B. Leza este un monument în Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.98579,
+                        16.880048
+                  ]
+            },
+            {
+                  "name": "Zero Point Art Gallery",
+                  "text": "Zero Point Art Gallery este o galerie în Mindelo.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986391,
+                        16.887494
+                  ]
+            },
+            {
+                  "name": "Fresques",
+                  "text": "Fresques este o atracție în Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98793,
+                        16.88367
+                  ]
+            },
+            {
+                  "name": "waiting place for ferries",
+                  "text": "Waiting place for ferries este o atracție situată în Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993447,
+                        16.888268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortim D'El Rei",
+                  "text": "Fortim D'El Rei is a historic fortress overlooking Porto Grande Bay in Mindelo.",
+                  "category": "fortress",
+                  "coords": [
+                        -24.993309,
+                        16.890483
+                  ]
+            },
+            {
+                  "name": "Eden Park Cine-Theatre",
+                  "text": "Eden Park Cine-Theatre is a theatre located in Mindelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.98734,
+                        16.889957
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico Cesária Évora",
+                  "text": "Núcleo Museológico Cesária Évora is a museum in Mindelo.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986495,
+                        16.884787
+                  ]
+            },
+            {
+                  "name": "Praia de Laginha",
+                  "text": "Praia de Laginha is a beach situated in Mindelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.992931,
+                        16.894467
+                  ]
+            },
+            {
+                  "name": "Monte de São João",
+                  "text": "Monte de São João is a prominent hill located in Mindelo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.99541,
+                        16.864271
+                  ]
+            },
+            {
+                  "name": "Porto Grande",
+                  "text": "Porto Grande is a major natural harbor and bay in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.002888,
+                        16.883188
+                  ]
+            },
+            {
+                  "name": "Diogo Afonsó",
+                  "text": "Diogo Afonsó is an attraction located in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.989831,
+                        16.884722
+                  ]
+            },
+            {
+                  "name": "Alcides",
+                  "text": "Alcides is an attraction situated in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98769,
+                        16.885808
+                  ]
+            },
+            {
+                  "name": "Former Flight Defense Artillery",
+                  "text": "Former Flight Defense Artillery is an attraction in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.983305,
+                        16.873266
+                  ]
+            },
+            {
+                  "name": "Former Artillery",
+                  "text": "Former Artillery is an attraction located in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.998119,
+                        16.905776
+                  ]
+            },
+            {
+                  "name": "Gago Coutinho e Sacadura Cabral",
+                  "text": "Gago Coutinho e Sacadura Cabral is an attraction in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.991743,
+                        16.888845
+                  ]
+            },
+            {
+                  "name": "Cesária Évora Home",
+                  "text": "Cesária Évora Home is an attraction located in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98573,
+                        16.885926
+                  ]
+            },
+            {
+                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
+                  "text": "Alfândega Velha - Centro Cultural do Mindelo is an arts centre in Mindelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -24.989022,
+                        16.887002
+                  ]
+            },
+            {
+                  "name": "Corsino Antonio Fortes",
+                  "text": "Corsino Antonio Fortes is a monument situated in Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.986348,
+                        16.895409
+                  ]
+            },
+            {
+                  "name": "Manuel d'Novas",
+                  "text": "Manuel d'Novas is a monument in Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.992817,
+                        16.889219
+                  ]
+            },
+            {
+                  "name": "Luís Morais",
+                  "text": "Luís Morais is a monument situated in Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.989541,
+                        16.88827
+                  ]
+            },
+            {
+                  "name": "B. Leza",
+                  "text": "B. Leza is a monument located in Mindelo.",
+                  "category": "historical",
+                  "coords": [
+                        -24.98579,
+                        16.880048
+                  ]
+            },
+            {
+                  "name": "Zero Point Art Gallery",
+                  "text": "Zero Point Art Gallery is a gallery located in Mindelo.",
+                  "category": "museum",
+                  "coords": [
+                        -24.986391,
+                        16.887494
+                  ]
+            },
+            {
+                  "name": "Fresques",
+                  "text": "Fresques is an attraction in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.98793,
+                        16.88367
+                  ]
+            },
+            {
+                  "name": "waiting place for ferries",
+                  "text": "The waiting place for ferries is an attraction located in Mindelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.993447,
+                        16.888268
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-SV", coords: [-24.9914, 16.8901], name: {de: "Mindelo", hu: "Mindelo", ro: "Mindelo", en: "Mindelo"},
     image: "/poi-images/mindelo-cities-v2.webp", description: {de: "Mindelo ist eine Hafenstadt auf São Vicente und gilt als kulturelles Zentrum von Kap Verde.", hu: "Mindelo egy kikötováros São Vicentén, a Zöld-foki Köztársaság kulturális központja.", ro: "Mindelo este un ora?-port din São Vicente ?i centrul cultural al Capului Verde.", en: "Mindelo is a port city on São Vicente and the cultural heart of Cape Verde.", es: "Mindelo es una ciudad portuaria en São Vicente y es considerada el centro cultural de Cabo Verde.", pt: "Mindelo é uma cidade portuária em São Vicente e é considerada o centro cultural de Cabo Verde.", fr: "Mindelo est une ville portuaire sur São Vicente et est considérée comme le centre culturel du Cap-Vert."}, facts: {de: ["Berühmt für seinen Karneval und Live-Musik", "Besitzt den tiefsten Hafen des Landes (Porto Grande)", "Geburtsort der legendären Sängerin Cesária Évora", "Geprägt durch koloniale Architektur und breite Alleen"], hu: ["Híres karneváljáról és élo zenéjérol", "Az ország legmélyebb kikötojével rendelkezik (Porto Grande)", "A legendás énekesno, Cesária Évora szülohelye", "Gyarmati építészet és széles sugárutak jellemzik"], ro: ["Celebra pentru carnavalul sau ?i muzica live", "Are cel mai adânc port din ?ara (Porto Grande)", "Locul de na?tere al legendarei cântare?e Cesária Évora", "Caracterizat prin arhitectura coloniala ?i bulevarde largi"], en: ["Famous for its carnival and live music", "Has the country's deepest harbor (Porto Grande)", "Birthplace of the legendary singer Cesária Évora", "Characterized by colonial architecture and wide avenues"], es: ["Famosa por su carnaval y música en vivo", "Posee el puerto más profundo del país (Porto Grande)", "Lugar de nacimiento de la legendaria cantante Cesária Évora", "Caracterizada por su arquitectura colonial y amplias avenidas"], pt: ["Famosa pelo seu carnaval e música ao vivo", "Possui o porto mais profundo do país (Porto Grande)", "Cidade natal da lendária cantora Cesária Évora", "Marcada pela arquitetura colonial e amplas avenidas"], fr: ["Célèbre pour son carnaval et sa musique live", "Possède le port le plus profond du pays (Porto Grande)", "Lieu de naissance de la légendaire chanteuse Cesária Évora", "Marquée par son architecture coloniale et ses larges avenues"]}, image: "/poi-images/mindelo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Mindelo ist das kulturelle Zentrum von Kap Verde und liegt an der Bucht Porto Grande auf der Insel São Vicente. Die Stadt wurde im späten 18. Jahrhundert gegründet, erlebte jedoch ihren Aufstieg erst im 19. Jahrhundert, als sie zu einer bedeutenden Kohlestation für britische Dampfschiffe im Atlantik wurde. Die Architektur im Stadtzentrum spiegelt diesen kolonialen Einfluss wider, insbesondere durch Gebäude wie den Palácio do Povo und den Nachbau des Londoner Belém-Turms. Heute ist Mindelo bekannt für seine lebendige Musikszene, den Karneval, der starke brasilianische Einflüsse zeigt, und als Geburtsort der berühmten Sängerin Cesária Évora. Der Hafen von Mindelo ist einer der tiefsten natürlichen Häfen vulkanischen Ursprungs weltweit und bleibt ein strategischer Knotenpunkt für den internationalen Schiffsverkehr. Die Stadt beherbergt zahlreiche Bildungseinrichtungen und Kunstgalerien, die ihre Rolle als geistiges Herz des Archipels festigen. Die Uferpromenade 'Avenida Marginal' bietet einen weiten Blick auf den Monte Cara, das Wahrzeichen der Insel, dessen Silhouette an ein menschliches Gesicht erinnert.",
@@ -311,7 +1895,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Deuxième ville du pays avec environ 75 000 habitants.", "Possède le port naturel le plus profond du Cap-Vert (Porto Grande).", "Ville natale de la chanteuse de renommée mondiale Cesária Évora.", "Accueille le plus grand carnaval de l'archipel en février.", "Centre de la scène musicale et artistique capverdienne.", "Est devenue importante au XIXe siècle en tant que station de charbonnage britannique."],
     },
   },
-  {id: "salamansa-cities-v2", type: "city", parent: "CV-SV", coords: [-24.9333, 16.9167], name: {de: "Salamansa", hu: "Salamansa", ro: "Salamansa", en: "Salamansa"},
+  {id: "salamansa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "Der Golfplatz von Salamansa ist eine Attraktion in Salamansa.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "A salamansai golfpálya egy látnivaló Salamansában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "Terénul de golf din Salamansa este o atracție în Salamansa.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "The golf course of Salamansa is an attraction in Salamansa.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-SV", coords: [-24.9333, 16.9167], name: {de: "Salamansa", hu: "Salamansa", ro: "Salamansa", en: "Salamansa"},
     image: "/poi-images/salamansa-cities-v2.webp", description: {de: "Salamansa ist ein traditionelles Fischerdorf im Norden der Insel São Vicente.", hu: "Salamansa egy hagyományos halászfalu São Vicente szigetének északi részén.", ro: "Salamansa este un sat de pescari tradițional din nordul insulei São Vicente.", en: "Salamansa is a traditional fishing village in the north of São Vicente island.", es: "Salamansa es un pueblo de pescadores tradicional en el norte de la isla de São Vicente.", pt: "Salamansa é uma aldeia de pescadores tradicional no norte da ilha de São Vicente.", fr: "Salamansa est un village de pêcheurs traditionnel situé au nord de l'île de São Vicente."}, facts: {de: ["Beliebter Spot für Wind- und Kitesurfer", "Bekannt für seinen langen, windigen Sandstrand", "Bewahrt eine starke Fischereitradition", "Bietet eine entspannte Atmosphäre abseits von Mindelo"], hu: ["Népszeru hely a szörfösök és kiteszörfösök számára", "Hosszú, szeles homokos strandjáról ismert", "Eros halászati hagyományt oriz", "Nyugodt légkört kínál Mindelótól távol"], ro: ["Loc popular pentru windsurferi ?i kitesurferi", "Cunoscut pentru plaja sa lunga ?i vântoasa", "Pastreaza o puternica tradiție a pescuitului", "Ofera o atmosfera relaxata departe de Mindelo"], en: ["Popular spot for wind and kite surfers", "Known for its long, windy sandy beach", "Preserves a strong fishing tradition", "Offers a relaxed atmosphere away from Mindelo"], es: ["Lugar popular para windsurf y kitesurf", "Conocido por su larga y ventosa playa de arena", "Conserva una fuerte tradición pesquera", "Ofrece un ambiente relajado lejos de Mindelo"], pt: ["Spot popular para windsurf e kitesurf", "Conhecido pela sua longa e ventosa praia de areia", "Preserva uma forte tradição piscatória", "Oferece uma atmosfera relaxada fora de Mindelo"], fr: ["Spot prisé pour le windsurf et le kitesurf", "Connu pour sa longue plage de sable venteuse", "Préserve une forte tradition de pêche", "Offre une atmosphère détendue loin de Mindelo"]}, image: "/poi-images/salamansa-cities-v2.webp",
     descriptionAdvanced: {
       de: "Salamansa ist ein traditionelles Fischerdorf an der Nordostküste der Insel São Vicente, eingebettet in eine weite Bucht mit einem markanten weißen Sandstrand. Der Ort ist bekannt für seine beständigen Winde, was ihn zu einem erstklassigen Ziel für Kitesurfer und Windsurfer aus der ganzen Welt gemacht hat. Trotz dieses sportlichen Aufschwungs bleibt der Alltag der Einheimischen tief im handwerklichen Fischfang verwurzelt, wobei die bunten Boote am Ufer das Dorfbild dominieren. Die Landschaft um Salamansa ist karg und vulkanisch, geprägt von den kühlen Passatwinden, die das ganze Jahr über wehen. Die Architektur besteht überwiegend aus einfachen, einstöckigen Gebäuden, die oft in leuchtenden Farben gestrichen sind. Ein wichtiges Ereignis im Dorf ist das Fest des Heiligen Johannes, das mit traditionellen Tänzen und Musik gefeiert wird. Salamansa bietet eine ruhige Alternative zum geschäftigen Mindelo und bewahrt eine enge Verbindung zur Natur und zum Meer. Die Bucht ist zudem für ihre türkisfarbenes Wasser bekannt, das einen starken Kontrast zu den dunklen vulkanischen Bergen im Hinterland bildet.",
@@ -332,7 +1961,124 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Situé au nord-est de l'île de São Vicente.", "Centre important pour le windsurf et le kitesurf.", "La population est d'environ 1 200 habitants.", "Traitement traditionnel du poisson sur la plage de Salamansa.", "Situé à environ 6 kilomètres au nord-est de Mindelo.", "Offre une vue sur l'île voisine de Santo Antão."],
     },
   },
-  {id: "sao-pedro-cities-v2", type: "city", parent: "CV-SV", coords: [-25.0667, 16.8333], name: {de: "São Pedro", hu: "São Pedro", ro: "São Pedro", en: "São Pedro"},
+  {id: "sao-pedro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol da D. Amélia",
+                  "text": "Farol da D. Amélia ist ein Leuchtturm in São Pedro.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.085421,
+                        16.826586
+                  ]
+            },
+            {
+                  "name": "Praia de São Pedro",
+                  "text": "Praia de São Pedro ist ein Strand in der Stadt São Pedro.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.066866,
+                        16.825788
+                  ]
+            },
+            {
+                  "name": "Statue Cesária Évora;Cesária Évora",
+                  "text": "Die Statue Cesária Évora ist ein Denkmal in São Pedro für die weltweit bekannte kapverdische Sängerin.",
+                  "category": "historical",
+                  "coords": [
+                        -25.05519,
+                        16.838049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da D. Amélia",
+                  "text": "A Farol da D. Amélia egy világítótorony São Pedro városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.085421,
+                        16.826586
+                  ]
+            },
+            {
+                  "name": "Praia de São Pedro",
+                  "text": "A Praia de São Pedro egy strand São Pedro városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.066866,
+                        16.825788
+                  ]
+            },
+            {
+                  "name": "Statue Cesária Évora;Cesária Évora",
+                  "text": "A Statue Cesária Évora egy emlékmű São Pedro városában, amely a világhírű Zöld-foki-szigeteki énekesnőnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -25.05519,
+                        16.838049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da D. Amélia",
+                  "text": "Farol da D. Amélia este un far situat în São Pedro.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.085421,
+                        16.826586
+                  ]
+            },
+            {
+                  "name": "Praia de São Pedro",
+                  "text": "Praia de São Pedro este o plajă situată în orașul São Pedro.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.066866,
+                        16.825788
+                  ]
+            },
+            {
+                  "name": "Statue Cesária Évora;Cesária Évora",
+                  "text": "Statue Cesária Évora este un monument din São Pedro dedicat renumitei cântărețe din Capul Verde.",
+                  "category": "historical",
+                  "coords": [
+                        -25.05519,
+                        16.838049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da D. Amélia",
+                  "text": "Farol da D. Amélia is a lighthouse located in São Pedro.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.085421,
+                        16.826586
+                  ]
+            },
+            {
+                  "name": "Praia de São Pedro",
+                  "text": "Praia de São Pedro is a beach situated in the town of São Pedro.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.066866,
+                        16.825788
+                  ]
+            },
+            {
+                  "name": "Statue Cesária Évora;Cesária Évora",
+                  "text": "The Statue Cesária Évora is a monument in São Pedro dedicated to the globally renowned Cape Verdean singer.",
+                  "category": "historical",
+                  "coords": [
+                        -25.05519,
+                        16.838049
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-SV", coords: [-25.0667, 16.8333], name: {de: "São Pedro", hu: "São Pedro", ro: "São Pedro", en: "São Pedro"},
     image: "/poi-images/sao-pedro-cities-v2.webp", description: {de: "São Pedro ist ein Küstenort auf São Vicente, direkt am internationalen Flughafen gelegen.", hu: "São Pedro egy tengerparti település São Vicentén, közvetlenül a nemzetközi repülotér mellett.", ro: "São Pedro este o localitate de coasta din São Vicente, situata chiar lânga aeroportul internațional.", en: "São Pedro is a coastal village on São Vicente, located right next to the international airport.", es: "São Pedro es un pueblo costero en São Vicente, situado junto al aeropuerto internacional.", pt: "São Pedro é uma localidade costeira em São Vicente, situada junto ao aeroporto internacional.", fr: "São Pedro est un village côtier de São Vicente, situé juste à côté de l'aéroport international."}, facts: {de: ["Weltberühmter Spot für Speed-Windsurfing", "Langer Sandstrand mit kristallklarem Wasser", "Standort des Cesária Évora International Airport", "Startpunkt für Wanderungen zum Leuchtturm von Dona Amélia"], hu: ["Világhíru hely a gyorsasági szörfözéshez", "Hosszú homokos strand kristálytiszta vízzel", "A Cesária Évora nemzetközi repülotér helyszíne", "Kiindulópont a Dona Amélia világítótoronyhoz vezeto túrákhoz"], ro: ["Loc de renume mondial pentru windsurfing de viteza", "Plaja lunga de nisip cu apa cristalina", "Locația Aeroportului Internațional Cesária Évora", "Punct de plecare pentru drumeții catre farul Dona Amélia"], en: ["World-famous spot for speed windsurfing", "Long sandy beach with crystal clear water", "Location of the Cesária Évora International Airport", "Starting point for hikes to the Dona Amélia lighthouse"], es: ["Spot de fama mundial para el windsurf de velocidad", "Larga playa de arena con aguas cristalinas", "Ubicación del Aeropuerto Internacional Cesária Évora", "Punto de inicio de caminatas al faro de Dona Amélia"], pt: ["Spot mundialmente famoso para speed windsurf", "Longa praia de areia com águas cristalinas", "Localização do Aeroporto Internacional Cesária Évora", "Ponto de partida para caminhadas até ao farol de Dona Amélia"], fr: ["Spot de renommée mondiale pour le speed windsurf", "Longue plage de sable aux eaux cristallines", "Emplacement de l'aéroport international Cesária Évora", "Point de départ de randonnées vers le phare de Dona Amélia"]}, image: "/poi-images/sao-pedro-cities-v2.webp",
     descriptionAdvanced: {
       de: "São Pedro ist ein charmantes Küstendorf im Südwesten der Insel São Vicente, das vor allem für seinen langen Sandstrand und das kristallklare Wasser bekannt ist. Durch seine unmittelbare Nähe zum internationalen Flughafen Cesária Évora ist es oft der erste oder letzte Ort, den Besucher der Insel sehen. Das Dorf hat sich von einer reinen Fischersiedlung zu einem beliebten Ziel für den Naturtourismus entwickelt, insbesondere für das Schwimmen mit Meeresschildkröten in ihrem natürlichen Lebensraum. Die Küste von São Pedro bietet zudem ideale Bedingungen für Windsurfer, da die Winde hier besonders konstant wehen. Die Architektur des Ortes ist eine Mischung aus traditionellen Fischerhäusern und neueren touristischen Unterkünften, die sich harmonisch in die karge Wüstenlandschaft einfügen. Ein historisches Highlight in der Nähe ist der Leuchtturm Dona Amélia, der auf einer Klippe thront und einen weiten Blick über den Atlantik bietet. Die lokale Gastronomie ist berühmt für fangfrischen Fisch und Meeresfrüchte, die direkt am Strand in einfachen Restaurants serviert werden.",
@@ -353,7 +2099,124 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Emplacement de l'aéroport international Cesária Évora (VXE).", "Connu pour le phare Farol de Dona Amélia.", "L'un des meilleurs sites au monde pour le speed windsurf.", "Lieu de nidification important pour les tortues marines.", "Situé à environ 10 kilomètres à l'ouest de Mindelo.", "La baie est protégée des courants marins puissants."],
     },
   },
-  {id: "baia-das-gatas-cities-v2", type: "city", parent: "CV-SV", coords: [-24.91, 16.9], name: {de: "Baia das Gatas", hu: "Baia das Gatas", ro: "Baia das Gatas", en: "Baia das Gatas"},
+  {id: "baia-das-gatas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baía das Gatas",
+                  "text": "Baía das Gatas ist ein schöner Strand in Baia das Gatas.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.906014,
+                        16.903274
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Monte Verde",
+                  "text": "Der Monte Verde Natural Park ist ein Naturschutzgebiet in Baia das Gatas.",
+                  "category": "natural",
+                  "coords": [
+                        -24.924916,
+                        16.871761
+                  ]
+            },
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "Der Salamansa golfcourse ist eine Attraktion in Baia das Gatas.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baía das Gatas",
+                  "text": "A Baía das Gatas egy tengerpart Baia das Gatasban.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.906014,
+                        16.903274
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Monte Verde",
+                  "text": "A Monte Verde Natural Park egy természetvédelmi terület Baia das Gatasban.",
+                  "category": "natural",
+                  "coords": [
+                        -24.924916,
+                        16.871761
+                  ]
+            },
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "A Salamansa golfcourse egy látványosság Baia das Gatasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baía das Gatas",
+                  "text": "Baía das Gatas este o plajă situată în Baia das Gatas.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.906014,
+                        16.903274
+                  ]
+            },
+            {
+                  "name": "Parque Natural de Monte Verde",
+                  "text": "Monte Verde Natural Park este o rezervație naturală în Baia das Gatas.",
+                  "category": "natural",
+                  "coords": [
+                        -24.924916,
+                        16.871761
+                  ]
+            },
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "Salamansa golfcourse este o atracție din Baia das Gatas.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baía das Gatas",
+                  "text": "Baía das Gatas is a beautiful beach situated in Baia das Gatas.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.906014,
+                        16.903274
+                  ]
+            },
+            {
+                  "name": "Monte Verde Natural Park",
+                  "text": "Monte Verde Natural Park is a protected nature reserve in Baia das Gatas.",
+                  "category": "natural",
+                  "coords": [
+                        -24.924916,
+                        16.871761
+                  ]
+            },
+            {
+                  "name": "Salamansa golfcourse",
+                  "text": "Salamansa golfcourse is an attraction located in Baia das Gatas.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.933004,
+                        16.908129
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-SV", coords: [-24.91, 16.9], name: {de: "Baia das Gatas", hu: "Baia das Gatas", ro: "Baia das Gatas", en: "Baia das Gatas"},
     image: "/poi-images/baia-das-gatas-cities-v2.webp", description: {de: "Baia das Gatas ist bekannt für seine natürliche Lagune und das jährliche Musikfestival.", hu: "Baia das Gatas természetes lagúnájáról és az évente megrendezett zenei fesztiváljáról ismert.", ro: "Baia das Gatas este cunoscuta pentru laguna sa naturala ?i festivalul anual de muzica.", en: "Baia das Gatas is famous for its natural lagoon and the annual music festival.", es: "Baia das Gatas es conocida por su laguna natural y su festival anual de música.", pt: "Baia das Gatas é conhecida pela sua lagoa natural e pelo festival anual de música.", fr: "Baia das Gatas est connue pour son lagon naturel et son festival annuel de musique."}, facts: {de: ["Natürliches Meeresschwimmbecken durch Riffe geschützt", "Austragungsort eines der größten Musikfestivals Afrikas", "Beliebter Ort für Wochenendhäuser", "Ruhiges Wasser ideal für Familien"], hu: ["Zátonyok által védett természetes tengeri medence", "Afrika egyik legnagyobb zenei fesztiváljának helyszíne", "Hétvégi házak kedvelt helyszíne", "Csendes víz, ideális családok számára"], ro: ["Piscina marina naturala protejata de recife", "Gazda unuia dintre cele mai mari festivaluri de muzica din Africa", "Loc popular pentru case de weekend", "Apa liniștita ideala pentru familii"], en: ["Natural sea swimming pool protected by reefs", "Host of one of the largest music festivals in Africa", "Popular location for weekend homes", "Calm waters ideal for families"], es: ["Piscina marina natural protegida por arrecifes", "Sede de uno de los mayores festivales de música de África", "Lugar popular para casas de fin de semana", "Aguas tranquilas ideales para familias"], pt: ["Piscina marinha natural protegida por recifes", "Local de um dos maiores festivais de música de África", "Local popular para casas de fim de semana", "Águas calmas ideais para famílias"], fr: ["Piscine marine naturelle protégée par des récifs", "Lieu de l'un des plus grands festivals de musique d'Afrique", "Lieu prisé pour les résidences secondaires", "Eaux calmes idéales pour les familles"]}, image: "/poi-images/baia-das-gatas-cities-v2.webp",
     descriptionAdvanced: {
       de: "Baía das Gatas ist eine natürliche Lagune an der Nordostküste der Insel São Vicente, die durch ein Riff vor der Brandung des Atlantiks geschützt ist. Der Name leitet sich von den Ammenhaien (portugiesisch: Gatas) ab, die früher häufig in den flachen Gewässern anzutreffen waren. Bekannt ist der Ort vor allem für das jährlich stattfindende Musikfestival 'Festival de Música da Baía das Gatas', das seit 1984 am ersten Vollmondwochenende im August tausende Besucher anzieht. Außerhalb der Festivalzeit ist der Ort eine ruhige Feriensiedlung mit Wochenendhäusern und kleinen Restaurants. Die Lagune bietet ideale Bedingungen zum Schwimmen, da das Wasser ruhig und flach ist. Die Umgebung ist durch karge vulkanische Felsformationen und weite Sandflächen geprägt. Es gibt keine permanente große Bevölkerung, aber der Ort ist ein wichtiger Identitätspunkt für die Bewohner von São Vicente. Die Architektur ist funktional und auf den Sommertourismus ausgerichtet, mit vielen offenen Terrassen und Blick auf das Meer.",
@@ -374,7 +2237,88 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Hôte du plus célèbre festival de musique du Cap-Vert depuis 1984.", "Lagune naturelle protégée par un récif volcanique.", "Le nom signifie 'Baie des requins-nourrices'.", "Située à 10 kilomètres à l'est de Mindelo.", "Destination d'excursion prisée des habitants le week-end.", "L'eau y est plus chaude que sur les autres côtes de l'île."],
     },
   },
-  {id: "espargos-cities-v2", type: "city", parent: "CV-SL", coords: [-22.9442, 16.7533], name: {de: "Espargos", hu: "Espargos", ro: "Espargos", en: "Espargos"},
+  {id: "espargos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anfiteatro José Cabral",
+                  "text": "Das Anfiteatro José Cabral ist ein Theater in Espargos.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.945843,
+                        16.753401
+                  ]
+            },
+            {
+                  "name": "Monte Curral",
+                  "text": "Monte Curral ist ein Aussichtspunkt in Espargos.",
+                  "category": "natural",
+                  "coords": [
+                        -22.94322,
+                        16.756971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anfiteatro José Cabral",
+                  "text": "Az Anfiteatro José Cabral egy színház Espargos városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.945843,
+                        16.753401
+                  ]
+            },
+            {
+                  "name": "Monte Curral",
+                  "text": "A Monte Curral egy kilátópont Espargos városában.",
+                  "category": "natural",
+                  "coords": [
+                        -22.94322,
+                        16.756971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anfiteatro José Cabral",
+                  "text": "Anfiteatro José Cabral este un teatru în Espargos.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.945843,
+                        16.753401
+                  ]
+            },
+            {
+                  "name": "Monte Curral",
+                  "text": "Monte Curral este un punct de belvedere în Espargos.",
+                  "category": "natural",
+                  "coords": [
+                        -22.94322,
+                        16.756971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anfiteatro José Cabral",
+                  "text": "The Anfiteatro José Cabral is a theatre in Espargos.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.945843,
+                        16.753401
+                  ]
+            },
+            {
+                  "name": "Monte Curral",
+                  "text": "Monte Curral is a viewpoint in Espargos.",
+                  "category": "natural",
+                  "coords": [
+                        -22.94322,
+                        16.756971
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-SL", coords: [-22.9442, 16.7533], name: {de: "Espargos", hu: "Espargos", ro: "Espargos", en: "Espargos"},
     image: "/poi-images/espargos-cities-v2.webp", description: {de: "Espargos ist das administrative Zentrum der Insel Sal und liegt im Landesinneren.", hu: "Espargos Sal szigetének adminisztratív központja, a sziget belsejében található.", ro: "Espargos este centrul administrativ al insulei Sal ?i este situat în interiorul insulei.", en: "Espargos is the administrative center of Sal island, located in the interior.", es: "Espargos es el centro administrativo de la isla de Sal y se encuentra en el interior.", pt: "Espargos é o centro administrativo da ilha do Sal e situa-se no interior.", fr: "Espargos est le centre administratif de l'île de Sal et se situe à l'intérieur des terres."}, facts: {de: ["Liegt direkt am Amílcar Cabral International Airport", "Hauptgeschäftszentrum der Insel", "Benannt nach dem wilden Spargel, der dort wächst", "Wichtigster Verkehrsknotenpunkt der Insel"], hu: ["Közvetlenül az Amílcar Cabral nemzetközi repülotér mellett található", "A sziget fo üzleti központja", "Az ott növo vadspárgáról kapta a nevét", "A sziget legfontosabb közlekedési csomópontja"], ro: ["Situat chiar lânga Aeroportul Internațional Amílcar Cabral", "Principalul centru de afaceri al insulei", "Numit dupa sparanghelul salbatic care crește acolo", "Cel mai important nod de transport al insulei"], en: ["Located right next to the Amílcar Cabral International Airport", "Main business center of the island", "Named after the wild asparagus that grows there", "Primary transport hub of the island"], es: ["Situado directamente junto al Aeropuerto Internacional Amílcar Cabral", "Principal centro de negocios de la isla", "Nombrado por los espárragos silvestres que crecen allí", "Nudo de transporte más importante de la isla"], pt: ["Localizado diretamente junto ao Aeroporto Internacional Amílcar Cabral", "Principal centro de negócios da ilha", "Nomeado devido aos espargos selvagens que ali crescem", "Nó de transporte mais importante da ilha"], fr: ["Situé directement à côté de l'aéroport international Amílcar Cabral", "Principal centre d'affaires de l'île", "Nommé d'après les asperges sauvages qui y poussent", "Nœud de transport le plus important de l'île"]}, image: "/poi-images/espargos-cities-v2.webp",
     descriptionAdvanced: {
       de: "Espargos ist die administrative Hauptstadt der Insel Sal und liegt im Herzen der Insel, direkt neben dem internationalen Flughafen Amílcar Cabral. Der Name der Stadt leitet sich von dem wilden Spargel ab, der nach den seltenen Regenfällen in der umliegenden Wüstenlandschaft wächst. Espargos entstand erst im 20. Jahrhundert, als der Bau des Flughafens durch italienische Investoren im Jahr 1939 Arbeitskräfte anzog. Heute ist die Stadt das wirtschaftliche Zentrum der Insel, geprägt durch Verwaltungseinrichtungen, Banken und Handelsgeschäfte. Im Gegensatz zum touristischen Santa Maria bietet Espargos ein authentisches kapverdisches Stadtleben mit lokalen Märkten und traditionellen Cafés. Ein markantes Wahrzeichen ist der Hügel 'Monte Curral', auf dem sich eine Radarstation und Kommunikationsantennen befinden und der einen Rundumblick über die flache Insel bietet. Die Architektur ist eine Mischung aus kolonialen Einflüssen und modernen Zweckbauten, die den schnellen Aufstieg der Stadt widerspiegeln. Espargos dient als logistischer Knotenpunkt für die gesamte Insel und beherbergt den Großteil der lokalen Bevölkerung.",
@@ -395,7 +2339,556 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Capitale administrative de l'île de Sal.", "Située au pied de la colline Monte Curral.", "Née de la construction de l'aéroport en 1939.", "La population est d'environ 17 000 habitants.", "Le nom fait référence aux asperges sauvages (Asparagus).", "Centre stratégique pour les télécommunications et le commerce."],
     },
   },
-  {id: "santa-maria-cities-v2", type: "city", parent: "CV-SL", coords: [-22.9061, 16.5964], name: {de: "Santa Maria", hu: "Santa Maria", ro: "Santa Maria", en: "Santa Maria"},
+  {id: "santa-maria-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Santa Maria",
+                  "text": "Praia de Santa Maria ist ein weitläufiger und bekannter Strand in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.914655,
+                        16.591423
+                  ]
+            },
+            {
+                  "name": "Santa Maria Pier",
+                  "text": "Der Santa Maria Pier befindet sich am Strand von Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.9078,
+                        16.597176
+                  ]
+            },
+            {
+                  "name": "Faro Antigo do Sinó",
+                  "text": "Faro Antigo do Sinó ist ein Leuchtturm in der Stadt Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.923154,
+                        16.586068
+                  ]
+            },
+            {
+                  "name": "Museu do Sal",
+                  "text": "Das Museu do Sal ist ein lokales Museum in Santa Maria.",
+                  "category": "museum",
+                  "coords": [
+                        -22.90532,
+                        16.598084
+                  ]
+            },
+            {
+                  "name": "theatro",
+                  "text": "Das Theatro ist ein Theater in Santa Maria.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.92385,
+                        16.595285
+                  ]
+            },
+            {
+                  "name": "Praia de Igrejinha",
+                  "text": "Praia de Igrejinha ist ein Strand in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.888436,
+                        16.600463
+                  ]
+            },
+            {
+                  "name": "Praia António Sousa",
+                  "text": "Praia António Sousa ist ein Küstenstrand in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.899032,
+                        16.596113
+                  ]
+            },
+            {
+                  "name": "Teatro Vila do Farol",
+                  "text": "Das Teatro Vila do Farol ist ein Theater in Santa Maria.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.920656,
+                        16.591372
+                  ]
+            },
+            {
+                  "name": "Costa da Fragata",
+                  "text": "Costa da Fragata ist ein Strandgebiet in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.896103,
+                        16.619581
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World ist ein Wasserpark in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922764,
+                        16.591517
+                  ]
+            },
+            {
+                  "name": "Salinas Velhas",
+                  "text": "Salinas Velhas sind historische Ruinen in Santa Maria.",
+                  "category": "historical",
+                  "coords": [
+                        -22.899766,
+                        16.607048
+                  ]
+            },
+            {
+                  "name": "Shell Cemetery",
+                  "text": "Der Shell Cemetery ist eine interessante Attraktion in Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.894521,
+                        16.595186
+                  ]
+            },
+            {
+                  "name": "Project Biodiversity;Projeto Biodiversidade",
+                  "text": "Die Project Biodiversity - Sea Turtles Conservation Hatchery ist eine Naturschutzattraktion in Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.927495,
+                        16.593913
+                  ]
+            },
+            {
+                  "name": "avião",
+                  "text": "Avião ist eine lokale Sehenswürdigkeit in Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.909762,
+                        16.602864
+                  ]
+            },
+            {
+                  "name": "Art hands",
+                  "text": "Art hands ist eine Kunstgalerie in Santa Maria.",
+                  "category": "museum",
+                  "coords": [
+                        -22.905787,
+                        16.599261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Santa Maria",
+                  "text": "A Praia de Santa Maria egy népszerű és kiterjedt strand Santa Maria városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.914655,
+                        16.591423
+                  ]
+            },
+            {
+                  "name": "Santa Maria Pier",
+                  "text": "A Santa Maria Pier egy tengerparti helyszín Santa Maria városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.9078,
+                        16.597176
+                  ]
+            },
+            {
+                  "name": "Faro Antigo do Sinó",
+                  "text": "A Faro Antigo do Sinó egy világítótorony Santa Maria városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.923154,
+                        16.586068
+                  ]
+            },
+            {
+                  "name": "Museu do Sal",
+                  "text": "A Museu do Sal egy helyi múzeum Santa Maria városában.",
+                  "category": "museum",
+                  "coords": [
+                        -22.90532,
+                        16.598084
+                  ]
+            },
+            {
+                  "name": "theatro",
+                  "text": "A theatro egy színház Santa Maria városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.92385,
+                        16.595285
+                  ]
+            },
+            {
+                  "name": "Praia de Igrejinha",
+                  "text": "A Praia de Igrejinha egy strand Santa Maria városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.888436,
+                        16.600463
+                  ]
+            },
+            {
+                  "name": "Praia António Sousa",
+                  "text": "A Praia António Sousa egy tengerparti strand Santa Maria városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.899032,
+                        16.596113
+                  ]
+            },
+            {
+                  "name": "Teatro Vila do Farol",
+                  "text": "A Teatro Vila do Farol egy színház Santa Maria városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.920656,
+                        16.591372
+                  ]
+            },
+            {
+                  "name": "Costa da Fragata",
+                  "text": "A Costa da Fragata egy tengerparti terület Santa Maria városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.896103,
+                        16.619581
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "A Splash Water World egy élményfürdő Santa Maria városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922764,
+                        16.591517
+                  ]
+            },
+            {
+                  "name": "Salinas Velhas",
+                  "text": "A Salinas Velhas történelmi romok Santa Maria városában.",
+                  "category": "historical",
+                  "coords": [
+                        -22.899766,
+                        16.607048
+                  ]
+            },
+            {
+                  "name": "Shell Cemetery",
+                  "text": "A Shell Cemetery egy látványosság Santa Maria városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.894521,
+                        16.595186
+                  ]
+            },
+            {
+                  "name": "Project Biodiversity;Projeto Biodiversidade",
+                  "text": "A Project Biodiversity - Sea Turtles Conservation Hatchery egy természetvédelmi látványosság Santa Maria városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.927495,
+                        16.593913
+                  ]
+            },
+            {
+                  "name": "avião",
+                  "text": "Az avião egy helyi látványosság Santa Maria városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.909762,
+                        16.602864
+                  ]
+            },
+            {
+                  "name": "Art hands",
+                  "text": "Az Art hands egy művészeti galéria Santa Maria városában.",
+                  "category": "museum",
+                  "coords": [
+                        -22.905787,
+                        16.599261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Santa Maria",
+                  "text": "Praia de Santa Maria este o plajă populară și întinsă, situată în Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.914655,
+                        16.591423
+                  ]
+            },
+            {
+                  "name": "Santa Maria Pier",
+                  "text": "Santa Maria Pier este o locație pe plajă situată în Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.9078,
+                        16.597176
+                  ]
+            },
+            {
+                  "name": "Faro Antigo do Sinó",
+                  "text": "Faro Antigo do Sinó este un far situat în orașul Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.923154,
+                        16.586068
+                  ]
+            },
+            {
+                  "name": "Museu do Sal",
+                  "text": "Museu do Sal este un muzeu local situat în Santa Maria.",
+                  "category": "museum",
+                  "coords": [
+                        -22.90532,
+                        16.598084
+                  ]
+            },
+            {
+                  "name": "theatro",
+                  "text": "Theatro este un teatru situat în Santa Maria.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.92385,
+                        16.595285
+                  ]
+            },
+            {
+                  "name": "Praia de Igrejinha",
+                  "text": "Praia de Igrejinha este o plajă situată în Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.888436,
+                        16.600463
+                  ]
+            },
+            {
+                  "name": "Praia António Sousa",
+                  "text": "Praia António Sousa este o plajă de coastă situată în Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.899032,
+                        16.596113
+                  ]
+            },
+            {
+                  "name": "Teatro Vila do Farol",
+                  "text": "Teatro Vila do Farol este un teatru situat în Santa Maria.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.920656,
+                        16.591372
+                  ]
+            },
+            {
+                  "name": "Costa da Fragata",
+                  "text": "Costa da Fragata este o zonă de plajă aflată în Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.896103,
+                        16.619581
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World este un parc acvatic situat în Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922764,
+                        16.591517
+                  ]
+            },
+            {
+                  "name": "Salinas Velhas",
+                  "text": "Salinas Velhas sunt ruine istorice situate în Santa Maria.",
+                  "category": "historical",
+                  "coords": [
+                        -22.899766,
+                        16.607048
+                  ]
+            },
+            {
+                  "name": "Shell Cemetery",
+                  "text": "Shell Cemetery este o atracție aflată în Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.894521,
+                        16.595186
+                  ]
+            },
+            {
+                  "name": "Project Biodiversity;Projeto Biodiversidade",
+                  "text": "Project Biodiversity - Sea Turtles Conservation Hatchery este o atracție dedicată naturii din Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.927495,
+                        16.593913
+                  ]
+            },
+            {
+                  "name": "avião",
+                  "text": "Avião este o atracție locală situată în Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.909762,
+                        16.602864
+                  ]
+            },
+            {
+                  "name": "Art hands",
+                  "text": "Art hands este o galerie de artă situată în Santa Maria.",
+                  "category": "museum",
+                  "coords": [
+                        -22.905787,
+                        16.599261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Santa Maria",
+                  "text": "Praia de Santa Maria is a popular and expansive beach situated in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.914655,
+                        16.591423
+                  ]
+            },
+            {
+                  "name": "Santa Maria Pier",
+                  "text": "Santa Maria Pier is a beachside location situated in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.9078,
+                        16.597176
+                  ]
+            },
+            {
+                  "name": "Faro Antigo do Sinó",
+                  "text": "Faro Antigo do Sinó is a lighthouse situated in the city of Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.923154,
+                        16.586068
+                  ]
+            },
+            {
+                  "name": "Museu do Sal",
+                  "text": "Museu do Sal is a local museum located in Santa Maria.",
+                  "category": "museum",
+                  "coords": [
+                        -22.90532,
+                        16.598084
+                  ]
+            },
+            {
+                  "name": "theatro",
+                  "text": "Theatro is a theatre located in Santa Maria.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.92385,
+                        16.595285
+                  ]
+            },
+            {
+                  "name": "Praia de Igrejinha",
+                  "text": "Praia de Igrejinha is a beach located in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.888436,
+                        16.600463
+                  ]
+            },
+            {
+                  "name": "Praia António Sousa",
+                  "text": "Praia António Sousa is a coastal beach situated in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.899032,
+                        16.596113
+                  ]
+            },
+            {
+                  "name": "Teatro Vila do Farol",
+                  "text": "Teatro Vila do Farol is a theatre venue located in Santa Maria.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.920656,
+                        16.591372
+                  ]
+            },
+            {
+                  "name": "Costa da Fragata",
+                  "text": "Costa da Fragata is a beach area found in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.896103,
+                        16.619581
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World is a water park located in Santa Maria.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922764,
+                        16.591517
+                  ]
+            },
+            {
+                  "name": "Salinas Velhas",
+                  "text": "Salinas Velhas are historical ruins located in Santa Maria.",
+                  "category": "historical",
+                  "coords": [
+                        -22.899766,
+                        16.607048
+                  ]
+            },
+            {
+                  "name": "Shell Cemetery",
+                  "text": "Shell Cemetery is an attraction found in Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.894521,
+                        16.595186
+                  ]
+            },
+            {
+                  "name": "Project Biodiversity - Sea Turtles Conservation Hatchery",
+                  "text": "Project Biodiversity - Sea Turtles Conservation Hatchery is a nature attraction in Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.927495,
+                        16.593913
+                  ]
+            },
+            {
+                  "name": "avião",
+                  "text": "Avião is a local attraction situated in Santa Maria.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.909762,
+                        16.602864
+                  ]
+            },
+            {
+                  "name": "Art hands",
+                  "text": "Art hands is a gallery exhibiting art in Santa Maria.",
+                  "category": "museum",
+                  "coords": [
+                        -22.905787,
+                        16.599261
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-SL", coords: [-22.9061, 16.5964], name: {de: "Santa Maria", hu: "Santa Maria", ro: "Santa Maria", en: "Santa Maria"},
     image: "/poi-images/santa-maria-cities-v2.webp", description: {de: "Santa Maria ist das wichtigste touristische Zentrum von Kap Verde mit kilometerlangen Stränden.", hu: "Santa Maria a Zöld-foki Köztársaság legfontosabb turisztikai központja, kilométernyi strandokkal.", ro: "Santa Maria este cel mai important centru turistic din Capul Verde, cu kilometri de plaje.", en: "Santa Maria is the main tourist center of Cape Verde, with miles of sandy beaches.", es: "Santa Maria es el principal centro turístico de Cabo Verde con kilómetros de playas.", pt: "Santa Maria é o principal centro turístico de Cabo Verde com quilómetros de praias.", fr: "Santa Maria est le principal centre touristique du Cap-Vert avec des kilomètres de plages."}, facts: {de: ["Kristallklares türkisfarbenes Wasser", "Zentrum für Wassersport wie Surfen und Tauchen", "Bekannt für seine lebhafte Strandpromenade", "Der berühmte Steg ist ein Treffpunkt für Fischer"], hu: ["Kristálytiszta türkizkék víz", "A vízi sportok, például a szörfözés és a búvárkodás központja", "Élénk tengerparti sétányáról ismert", "A híres móló a halászok találkozóhelye"], ro: ["Apa turcoaz cristalina", "Centru pentru sporturi nautice precum surfing ?i scufundari", "Cunoscut pentru faleza sa plina de viața", "Celebrul ponton este un loc de întâlnire pentru pescari"], en: ["Crystal clear turquoise waters", "Center for water sports like surfing and diving", "Known for its lively beachfront promenade", "The famous pier is a meeting point for fishermen"], es: ["Aguas turquesas cristalinas", "Centro de deportes acuáticos como surf y buceo", "Conocida por su animado paseo marítimo", "El famoso muelle es un punto de encuentro para pescadores"], pt: ["Águas turquesa cristalinas", "Centro de desportos náuticos como surf e mergulho", "Conhecida pelo seu animado passeio marítimo", "O famoso pontão é um ponto de encontro para pescadores"], fr: ["Eaux turquoises cristallines", "Centre de sports nautiques comme le surf et la plongée", "Connue pour sa promenade de front de mer animée", "La célèbre jetée est un lieu de rencontre pour les pêcheurs"]}, image: "/poi-images/santa-maria-cities-v2.webp",
     descriptionAdvanced: {
       de: "Santa Maria ist das touristische Zentrum der Insel Sal und liegt an der Südküste des Archipels. Gegründet wurde der Ort im Jahr 1835, ursprünglich für die Gewinnung von Meersalz in den großen Salinen, die bis heute eine wichtige historische Sehenswürdigkeit darstellen. Das Stadtbild ist geprägt von einem weitläufigen weißen Sandstrand, türkisfarbenem Wasser und einer modernen touristischen Infrastruktur mit zahlreichen Hotels und Wassersportzentren. Ein zentraler Punkt ist der 'Pontão', ein historischer Landungssteg, an dem Fischer täglich ihren Fang anlanden und direkt vor Ort verkaufen. Die Architektur in Santa Maria ist farbenfroh und verbindet traditionelle kapverdische Elemente mit internationalem Stil. Die Stadt ist bekannt für ihr lebendiges Nachtleben und ihre vielfältige Gastronomie, die Einflüsse aus aller Welt integriert. Trotz der starken touristischen Entwicklung bewahrt der Ort durch seine Märkte und kulturellen Feste eine authentische Atmosphäre. Die Salzpfannen von Santa Maria zeugen von der industriellen Vergangenheit und sind heute ein geschütztes Kulturdenkmal.",
@@ -458,7 +2951,160 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Plus important port de commerce de l'île de Sal.", "Siège de la plus grande usine de dessalement d'eau de mer de l'île.", "Lieu d'arrivée pour les cargos et les ferries.", "Situé à environ 4 kilomètres à l'ouest d'Espargos.", "Connu pour la grotte 'Olho Azul' toute proche.", "Architecture traditionnelle avec influence portugaise."],
     },
   },
-  {id: "porto-novo-cities-v2", type: "city", parent: "CV-PN", coords: [-25.0667, 17.0167], name: {de: "Porto Novo", hu: "Porto Novo", ro: "Porto Novo", en: "Porto Novo"},
+  {id: "porto-novo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia De Tropo",
+                  "text": "Praia De Tropo ist ein Strand in Porto Novo.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.085714,
+                        17.012458
+                  ]
+            },
+            {
+                  "name": "Aldeia",
+                  "text": "Aldeia ist ein lokales Theater in der Stadt Porto Novo.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.068973,
+                        17.019079
+                  ]
+            },
+            {
+                  "name": "Praia dos Curraletes",
+                  "text": "Praia dos Curraletes ist ein Sandstrand in Porto Novo.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.039472,
+                        17.026979
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteatr ist ein Theater in Porto Novo.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.074655,
+                        17.018095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia De Tropo",
+                  "text": "A Praia De Tropo egy strand Porto Novo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.085714,
+                        17.012458
+                  ]
+            },
+            {
+                  "name": "Aldeia",
+                  "text": "Az Aldeia egy színház Porto Novo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.068973,
+                        17.019079
+                  ]
+            },
+            {
+                  "name": "Praia dos Curraletes",
+                  "text": "A Praia dos Curraletes egy homokos strand Porto Novo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.039472,
+                        17.026979
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Az Amfiteatr egy színház Porto Novo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.074655,
+                        17.018095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia De Tropo",
+                  "text": "Praia De Tropo este o plajă situată în Porto Novo.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.085714,
+                        17.012458
+                  ]
+            },
+            {
+                  "name": "Aldeia",
+                  "text": "Aldeia este un teatru local situat în orașul Porto Novo.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.068973,
+                        17.019079
+                  ]
+            },
+            {
+                  "name": "Praia dos Curraletes",
+                  "text": "Praia dos Curraletes este o plajă cu nisip situată în Porto Novo.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.039472,
+                        17.026979
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteatr este un teatru situat în Porto Novo.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.074655,
+                        17.018095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia De Tropo",
+                  "text": "Praia De Tropo is a beach destination located in Porto Novo.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.085714,
+                        17.012458
+                  ]
+            },
+            {
+                  "name": "Aldeia",
+                  "text": "Aldeia is a local theatre located in the city of Porto Novo.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.068973,
+                        17.019079
+                  ]
+            },
+            {
+                  "name": "Praia dos Curraletes",
+                  "text": "Praia dos Curraletes is a sandy beach situated in Porto Novo.",
+                  "category": "recreational",
+                  "coords": [
+                        -25.039472,
+                        17.026979
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteatr is a theatre facility located in Porto Novo.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.074655,
+                        17.018095
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-PN", coords: [-25.0667, 17.0167], name: {de: "Porto Novo", hu: "Porto Novo", ro: "Porto Novo", en: "Porto Novo"},
     image: "/poi-images/porto-novo-cities-v2.webp", description: {de: "Porto Novo ist die größte Stadt auf Santo Antão und das wichtigste Tor zur Insel.", hu: "Porto Novo Santo Antão legnagyobb városa és a sziget fo kapuja.", ro: "Porto Novo este cel mai mare ora? din Santo Antão ?i principala poarta de acces catre insula.", en: "Porto Novo is the largest city on Santo Antão and the main gateway to the island.", es: "Porto Novo es la ciudad más grande de Santo Antão y la principal puerta de entrada a la isla.", pt: "Porto Novo é a maior cidade de Santo Antão e a principal porta de entrada para a ilha.", fr: "Porto Novo est la plus grande ville de Santo Antão et la principale porte d'entrée de l'île."}, facts: {de: ["Ankunftsort für alle Fähren von São Vicente", "Zentrum der Inselverwaltung und des Handels", "Ausgangspunkt für Erkundungen der Bergwelt", "Geprägt durch ein trockenes, wüstenartiges Klima"], hu: ["A São Vicentérol érkezo kompok érkezési helye", "A szigeti közigazgatás és kereskedelem központja", "Kiindulópont a hegyvidék felfedezéséhez", "Száraz, sivatagszeru éghajlat jellemzi"], ro: ["Locul de sosire pentru toate feriboturile din São Vicente", "Centrul administrației ?i comer?ului insulei", "Punct de plecare pentru explorarea lumii montane", "Caracterizat printr-un climat uscat, asemanator deșertului"], en: ["Arrival point for all ferries from São Vicente", "Center of island administration and trade", "Starting point for exploring the mountains", "Characterized by a dry, desert-like climate"], es: ["Punto de llegada de todos los ferris desde São Vicente", "Centro administrativo y comercial de la isla", "Punto de partida para explorar las montañas", "Caracterizada por un clima seco y desértico"], pt: ["Ponto de chegada de todos os ferries de São Vicente", "Centro da administração e do comércio da ilha", "Ponto de partida para explorar as montanhas", "Marcada por um clima seco e desértico"], fr: ["Point d'arrivée de tous les ferries de São Vicente", "Centre administratif et commercial de l'île", "Point de départ pour l'exploration des montagnes", "Caractérisée par un climat sec et désertique"]}, image: "/poi-images/porto-novo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Porto Novo ist das wirtschaftliche Zentrum und die wichtigste Hafenstadt der Insel Santo Antão, im südöstlichen Teil des Archipels gelegen. Seit der Eröffnung des modernen Hafens im Jahr 1962 hat die Stadt den Status des Haupteingangstors zur Insel übernommen und Porto Grande auf São Vicente als primären Anbindungspunkt abgelöst. Die Stadt liegt in einer semiariden Klimazone, was einen starken Kontrast zu den grünen Tälern im Norden der Insel bildet. Porto Novo ist der Verwaltungssitz des gleichnamigen Kreises, der flächenmäßig der größte der Insel ist. Die Stadtstruktur ist geprägt von einer weitläufigen Hafenpromenade, modernen Verwaltungsgebäuden und traditionellen Wohnvierteln. Wirtschaftlich basiert die Stadt auf dem Handel, dem Transportwesen und der Verarbeitung landwirtschaftlicher Produkte aus dem Hinterland. Als Verkehrsknotenpunkt ist sie der Ausgangspunkt für die spektakuläre Bergstraße, die über die Cova-Krater in den Norden führt. In den letzten Jahrzehnten erlebte Porto Novo ein rasches Bevölkerungswachstum durch Zuwanderung aus ländlichen Gebieten.",
@@ -479,7 +3125,124 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Plus grande ville de l'île de Santo Antão.", "Point d'arrivée de tous les ferries en provenance de Mindelo.", "Officiellement déclarée ville en 1962.", "Située dans la partie la plus sèche de l'île.", "Point de départ de la route historique Estrada da Corda.", "Important centre d'exportation de produits agricoles locaux."],
     },
   },
-  {id: "ribeira-grande-cities-v2", type: "city", parent: "CV-RG", coords: [-25.0667, 17.1833], name: {de: "Ribeira Grande", hu: "Ribeira Grande", ro: "Ribeira Grande", en: "Ribeira Grande"},
+  {id: "ribeira-grande-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
+                  "text": "Miradouro Turístico da Nossa Senhora do Rosário ist ein Aussichtspunkt in Ribeira Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -25.06774,
+                        17.180907
+                  ]
+            },
+            {
+                  "name": "Painted Stairs.",
+                  "text": "Painted Stairs ist eine Attraktion in Ribeira Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.06599,
+                        17.181874
+                  ]
+            },
+            {
+                  "name": "SETE SÓIS SETE LUAS",
+                  "text": "SETE SÓIS SETE LUAS ist ein Kunstzentrum in Ribeira Grande.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.063995,
+                        17.183451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
+                  "text": "A Miradouro Turístico da Nossa Senhora do Rosário egy kilátó Ribeira Grandéban.",
+                  "category": "natural",
+                  "coords": [
+                        -25.06774,
+                        17.180907
+                  ]
+            },
+            {
+                  "name": "Painted Stairs.",
+                  "text": "A Painted Stairs egy látványosság Ribeira Grandéban.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.06599,
+                        17.181874
+                  ]
+            },
+            {
+                  "name": "SETE SÓIS SETE LUAS",
+                  "text": "A SETE SÓIS SETE LUAS egy művészeti központ Ribeira Grandéban.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.063995,
+                        17.183451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
+                  "text": "Miradouro Turístico da Nossa Senhora do Rosário este un punct de belvedere în Ribeira Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -25.06774,
+                        17.180907
+                  ]
+            },
+            {
+                  "name": "Painted Stairs.",
+                  "text": "Painted Stairs este o atracție situată în Ribeira Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.06599,
+                        17.181874
+                  ]
+            },
+            {
+                  "name": "SETE SÓIS SETE LUAS",
+                  "text": "SETE SÓIS SETE LUAS este un centru de arte situat în Ribeira Grande.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.063995,
+                        17.183451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
+                  "text": "Miradouro Turístico da Nossa Senhora do Rosário is a scenic viewpoint in Ribeira Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -25.06774,
+                        17.180907
+                  ]
+            },
+            {
+                  "name": "Painted Stairs.",
+                  "text": "Painted Stairs is an attraction situated in Ribeira Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.06599,
+                        17.181874
+                  ]
+            },
+            {
+                  "name": "SETE SÓIS SETE LUAS",
+                  "text": "SETE SÓIS SETE LUAS is an arts centre located in Ribeira Grande.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.063995,
+                        17.183451
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-RG", coords: [-25.0667, 17.1833], name: {de: "Ribeira Grande", hu: "Ribeira Grande", ro: "Ribeira Grande", en: "Ribeira Grande"},
     image: "/poi-images/ribeira-grande-cities-v2.webp", description: {de: "Ribeira Grande ist das administrative Zentrum des nördlichen Teils von Santo Antão.", hu: "Ribeira Grande Santo Antão északi részének adminisztratív központja.", ro: "Ribeira Grande este centrul administrativ al par?ii de nord a insulei Santo Antão.", en: "Ribeira Grande is the administrative center of the northern part of Santo Antão.", es: "Ribeira Grande es el centro administrativo de la parte norte de Santo Antão.", pt: "Ribeira Grande é o centro administrativo da parte norte de Santo Antão.", fr: "Ribeira Grande est le centre administratif de la partie nord de Santo Antão."}, facts: {de: ["Eingebettet in ein tiefes, grünes Tal", "Zentrum für lokale Verwaltung und Bildung", "Bekannt für seine enge, koloniale Stadtstruktur", "Wichtiger Marktplatz für regionale Produkte"], hu: ["Egy mély, zöld völgyben fekszik", "A helyi közigazgatás és oktatás központja", "Szuk, gyarmati városszerkezetérol ismert", "A regionális termékek fontos piaca"], ro: ["Situat într-o vale adânca ?i verde", "Centru pentru administrația locala ?i educație", "Cunoscut pentru structura sa urbana coloniala strânsa", "Pia?a importanta pentru produsele regionale"], en: ["Nestled in a deep, green valley", "Center for local administration and education", "Known for its narrow, colonial town structure", "Important marketplace for regional products"], es: ["Enclavada en un valle profundo y verde", "Centro para la administración local y la educación", "Conocida por su estructura urbana colonial estrecha", "Mercado importante para productos regionales"], pt: ["Inserida num vale profundo e verdejante", "Centro de administração local e educação", "Conhecida pela sua estrutura urbana colonial e estreita", "Importante mercado para produtos regionais"], fr: ["Nichée dans une vallée profonde et verdoyante", "Centre administratif et éducatif local", "Connue pour sa structure urbaine coloniale étroite", "Important marché pour les produits régionaux"]}, image: "/poi-images/ribeira-grande-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ribeira Grande, früher bekannt als Povoação, ist das historische und administrative Zentrum des nördlichen Teils der Insel Santo Antão. Die Stadt liegt spektakulär an der Mündung zweier tiefer Flusstäler, der Ribeira Grande und der Ribeira der Torre, direkt an der felsigen Nordküste. Aufgrund ihrer geografischen Lage ist die Stadt oft den starken Wellen des Atlantiks ausgesetzt, was den Bau massiver Küstenschutzmauern erforderlich machte. Die Architektur von Ribeira Grande ist geprägt von kolonialen Gebäuden aus dem 19. Jahrhundert, engen Gassen und der markanten Kirche Nossa Senhora do Rosário. Als wichtigster Marktplatz der Region dient die Stadt als Sammelpunkt für die landwirtschaftlichen Erzeugnisse der fruchtbaren Täler im Hinterland, insbesondere für Zuckerrohr, Kaffee und Zitrusfrüchte. Ribeira Grande war bis zur Mitte des 20. Jahrhunderts der wichtigste Ort der Insel, bevor Porto Novo an Bedeutung gewann. Heute ist die Stadt ein beliebter Ausgangspunkt für Wanderer, die die steilen Bergpfade der umliegenden Gebirgszüge erkunden möchten.",
@@ -500,7 +3263,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Ancien chef-lieu de l'île de Santo Antão.", "Siège de la municipalité de Ribeira Grande.", "Situé au confluent des vallées Ribeira Grande et Ribeira da Torre.", "Connu pour son architecture coloniale bien conservée.", "Centre de transformation de la canne à sucre et de production de grogue.", "La population est d'environ 3 000 habitants."],
     },
   },
-  {id: "ponta-do-sol-cities-v2", type: "city", parent: "CV-RG", coords: [-25.0917, 17.2], name: {de: "Ponta do Sol", hu: "Ponta do Sol", ro: "Ponta do Sol", en: "Ponta do Sol"},
+  {id: "ponta-do-sol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel ist ein Aussichtspunkt bei Ponta do Sol.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Az Oque Daniel egy kilátópont Ponta do Sol közelében.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel este un punct de belvedere lângă Ponta do Sol.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oque Daniel",
+                  "text": "Oque Daniel is a viewpoint near Ponta do Sol.",
+                  "category": "natural",
+                  "coords": [
+                        7.371496,
+                        1.658931
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-RG", coords: [-25.0917, 17.2], name: {de: "Ponta do Sol", hu: "Ponta do Sol", ro: "Ponta do Sol", en: "Ponta do Sol"},
     image: "/poi-images/ponta-do-sol-cities-v2.webp", description: {de: "Ponta do Sol ist ein malerischer Ort an der nördlichsten Spitze von Santo Antão.", hu: "Ponta do Sol egy festoi település Santo Antão legészakibb csücskén.", ro: "Ponta do Sol este o localitate pitoreasca situata în cel mai nordic punct al insulei Santo Antão.", en: "Ponta do Sol is a picturesque town on the northernmost tip of Santo Antão.", es: "Ponta do Sol es un lugar pintoresco en el extremo norte de Santo Antão.", pt: "Ponta do Sol é uma localidade pitoresca na ponta norte de Santo Antão.", fr: "Ponta do Sol est un village pittoresque situé à la pointe nord de Santo Antão."}, facts: {de: ["Sitz des ehemaligen Flughafens Agostinho Neto", "Bunte Häuser direkt an der Meeresküste", "Beliebter Ausgangspunkt für Küstenwanderungen", "Atmosphärischer Fischereihafen"], hu: ["Az egykori Agostinho Neto repülotér székhelye", "Színes házak közvetlenül a tengerparton", "Tengerparti túrák kedvelt kiindulópontja", "Hangulatos halászkiköto"], ro: ["Sediul fostului aeroport Agostinho Neto", "Case colorate chiar pe malul marii", "Punct de plecare popular pentru drumeții de coasta", "Port de pescuit atmosferic"], en: ["Site of the former Agostinho Neto airport", "Colorful houses directly on the sea coast", "Popular starting point for coastal hikes", "Atmospheric fishing harbor"], es: ["Sede del antiguo aeropuerto Agostinho Neto", "Casas coloridas directamente en la costa marina", "Punto de partida popular para caminatas costeras", "Puerto pesquero con mucha atmósfera"], pt: ["Sede do antigo aeroporto Agostinho Neto", "Casas coloridas diretamente na costa marítima", "Ponto de partida popular para caminhadas costeiras", "Porto de pesca atmosférico"], fr: ["Site de l'ancien aéroport Agostinho Neto", "Maisons colorées directement sur le front de mer", "Point de départ prisé pour les randonnées côtières", "Port de pêche atmosphérique"]}, image: "/poi-images/ponta-do-sol-cities-v2.webp",
     descriptionAdvanced: {
       de: "Ponta do Sol ist das nördlichste Städtchen der Insel Santo Antão und bekannt für seine malerische Lage auf einer schmalen Landzunge, die in den Atlantik ragt. Der Ort war einst ein bedeutender Handelshafen, woran heute noch das alte, farbenfrohe Rathaus und der kleine Fischerkai erinnern. Eine Besonderheit von Ponta do Sol ist der ehemalige Flugplatz Agostinho Neto, der direkt am Meer auf einer künstlichen Ebene liegt, jedoch aufgrund der gefährlichen Winde im Jahr 2003 dauerhaft geschlossen wurde. Die Architektur des Ortes ist eine Mischung aus charmanten kolonialen Residenzen und einfachen Fischerhäusern. Das Klima ist durch die exponierte Lage oft windig, bietet aber spektakuläre Sonnenuntergänge, die dem Ort seinen Namen gaben. Ponta do Sol hat sich zu einem Zentrum des Tourismus auf der Insel entwickelt, mit zahlreichen kleinen Pensionen und Restaurants, die frischen Fisch servieren. Es ist zudem der Startpunkt für den berühmten Küstenwanderweg nach Fontainhas, der als einer der schönsten Wanderwege weltweit gilt.",
@@ -521,7 +3329,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Établissement le plus septentrional de l'île de Santo Antão.", "Siège de l'aéroport Agostinho Neto (fermé depuis 2007).", "Point de départ du sentier de randonnée vers Fontainhas.", "L'hôtel de ville (Câmara Municipal) est un bâtiment colonial classique.", "Possède un port de pêche petit mais dangereux.", "Le nom signifie 'pointe du soleil'."],
     },
   },
-  {id: "vila-das-pombas-cities-v2", type: "city", parent: "CV-PA", coords: [-25.0139, 17.1528], name: {de: "Vila das Pombas", hu: "Vila das Pombas", ro: "Vila das Pombas", en: "Vila das Pombas"},
+  {id: "vila-das-pombas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santo António",
+                  "text": "Santo António ist ein Denkmal in Vila das Pombas.",
+                  "category": "historical",
+                  "coords": [
+                        -25.015713,
+                        17.150095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santo António",
+                  "text": "A Santo António egy emlékmű Vila das Pombas városában.",
+                  "category": "historical",
+                  "coords": [
+                        -25.015713,
+                        17.150095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santo António",
+                  "text": "Santo António este un monument situat în Vila das Pombas.",
+                  "category": "historical",
+                  "coords": [
+                        -25.015713,
+                        17.150095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santo António",
+                  "text": "Santo António is a monument situated in Vila das Pombas.",
+                  "category": "historical",
+                  "coords": [
+                        -25.015713,
+                        17.150095
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-PA", coords: [-25.0139, 17.1528], name: {de: "Vila das Pombas", hu: "Vila das Pombas", ro: "Vila das Pombas", en: "Vila das Pombas"},
     image: "/poi-images/vila-das-pombas-cities-v2.webp", description: {de: "Vila das Pombas ist ein Küstenort am Ende des spektakulären Paul-Tals.", hu: "Vila das Pombas egy tengerparti település a látványos Paul-völgy végén.", ro: "Vila das Pombas este o localitate de coasta la capatul spectaculoasei vai Paul.", en: "Vila das Pombas is a coastal town at the end of the spectacular Paul Valley.", es: "Vila das Pombas es un pueblo costero al final del espectacular valle de Paul.", pt: "Vila das Pombas é uma localidade costeira ao fundo do espetacular vale do Paul.", fr: "Vila das Pombas est un village côtier situé à l'extrémité de la spectaculaire vallée de Paul."}, facts: {de: ["Tor zum grünsten Tal von Kap Verde", "Bekannt für seine Zuckerrohrplantagen und Grogue", "Hübsche Uferpromenade mit Kolonialbauten", "Zentrum der Gemeinde Paul"], hu: ["Kapu a Zöld-foki Köztársaság legzöldebb völgyéhez", "Cukornád-ültetvényeirol és grogue-járól ismert", "Szép tengerparti sétány gyarmati épületekkel", "Paul község központja"], ro: ["Poarta catre cea mai verde vale din Capul Verde", "Cunoscut pentru plantațiile sale de trestie de zahar ?i grogue", "Faleza frumoasa cu cladiri coloniale", "Centrul municipiului Paul"], en: ["Gateway to the greenest valley in Cape Verde", "Known for its sugar cane plantations and grogue", "Pretty seafront promenade with colonial buildings", "Center of the Paul municipality"], es: ["Puerta al valle más verde de Cabo Verde", "Conocido por sus plantaciones de caña de azúcar y grogue", "Bonito paseo marítimo con edificios coloniales", "Centro del municipio de Paul"], pt: ["Porta para o vale mais verde de Cabo Verde", "Conhecido pelas suas plantações de cana-de-açúcar e grogue", "Belo passeio marítimo com edifícios coloniais", "Centro do concelho do Paul"], fr: ["Porte d'entrée de la vallée la plus verte du Cap-Vert", "Réputé pour ses plantations de canne à sucre et son grogue", "Jolie promenade de front de mer avec des bâtiments coloniaux", "Centre de la municipalité de Paul"]}, image: "/poi-images/vila-das-pombas-cities-v2.webp",
     descriptionAdvanced: {
       de: "Vila das Pombas ist ein malerischer Küstenort auf der Insel Santo Antão, der als Hauptort des fruchtbaren Paul-Tals fungiert. Die Stadt liegt direkt am Atlantik und ist durch eine markante Uferpromenade mit pastellfarbenen Häusern im Kolonialstil geprägt. Hinter der Stadt steigen die Berge steil an und bilden das grünste und wasserreichste Tal der gesamten Kapverden, wo Zuckerrohr, Bananen und Kaffee in Terrassenform angebaut werden. Vila das Pombas ist berühmt für die Herstellung von Grogue, dem traditionellen kapverdischen Zuckerrohrschnaps, der in zahlreichen lokalen Brennereien (Trapiches) produziert wird. Das Ortsbild wird durch die Kirche Santo António dominiert, die weiß leuchtend über dem Meer thront. Die entspannte Atmosphäre und die Nähe zu den spektakulären Wanderwegen des Paul-Tals machen den Ort zu einem wichtigen Ziel für Naturtouristen. Die wirtschaftliche Basis bildet die Landwirtschaft und der lokale Handel, wobei der Tourismus in den letzten Jahren an Bedeutung gewonnen hat.",
@@ -584,7 +3437,160 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Fondation au XVIe siècle par les Portugais.", "Chef-lieu de l'île de Fogo.", "Population d'environ 8 100 habitants.", "Emplacement de l'aéroport de São Filipe (SFL).", "Quartier historique Bila avec ses sobrados.", "Proximité du port de Vale de Cavaleiros."],
     },
   },
-  {id: "mosteiros-cities-v2", type: "city", parent: "CV-MO", coords: [-24.3333, 15.0333], name: {de: "Mosteiros", hu: "Mosteiros", ro: "Mosteiros", en: "Mosteiros"},
+  {id: "mosteiros-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Fogo",
+                  "text": "Der Fogo Natural Park ist ein Naturschutzgebiet rund um den aktiven Vulkan bei Mosteiros.",
+                  "category": "natural",
+                  "coords": [
+                        -24.360277,
+                        14.960308
+                  ]
+            },
+            {
+                  "name": "Museu do café",
+                  "text": "Das Museu do café ist ein Museum in Mosteiros.",
+                  "category": "museum",
+                  "coords": [
+                        -24.324806,
+                        15.034281
+                  ]
+            },
+            {
+                  "name": "Plantation de café et de petits piments très forts",
+                  "text": "Plantation de café et de petits piments très forts ist eine landwirtschaftliche Attraktion in Mosteiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.324738,
+                        15.020162
+                  ]
+            },
+            {
+                  "name": "Plis spectaculaires de strates de lave",
+                  "text": "Plis spectaculaires de strates de lave ist eine Naturattraktion mit vulkanischen Formationen in Mosteiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.341834,
+                        15.04313
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Natural do Fogo",
+                  "text": "A Fogo Natural Park egy természetvédelmi terület Mosteiros közelében, amely magában foglalja az aktív vulkánt is.",
+                  "category": "natural",
+                  "coords": [
+                        -24.360277,
+                        14.960308
+                  ]
+            },
+            {
+                  "name": "Museu do café",
+                  "text": "A Museu do café egy múzeum Mosteiros városában.",
+                  "category": "museum",
+                  "coords": [
+                        -24.324806,
+                        15.034281
+                  ]
+            },
+            {
+                  "name": "Plantation de café et de petits piments très forts",
+                  "text": "A Plantation de café et de petits piments très forts egy mezőgazdasági látványosság Mosteiros városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.324738,
+                        15.020162
+                  ]
+            },
+            {
+                  "name": "Plis spectaculaires de strates de lave",
+                  "text": "A Plis spectaculaires de strates de lave egy vulkáni képződményeket bemutató természeti látványosság Mosteiros városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.341834,
+                        15.04313
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Natural do Fogo",
+                  "text": "Fogo Natural Park este o rezervație naturală protejată din apropiere de Mosteiros, cuprinzând zona vulcanului activ.",
+                  "category": "natural",
+                  "coords": [
+                        -24.360277,
+                        14.960308
+                  ]
+            },
+            {
+                  "name": "Museu do café",
+                  "text": "Museu do café este un muzeu situat în Mosteiros.",
+                  "category": "museum",
+                  "coords": [
+                        -24.324806,
+                        15.034281
+                  ]
+            },
+            {
+                  "name": "Plantation de café et de petits piments très forts",
+                  "text": "Plantation de café et de petits piments très forts este o atracție agricolă în Mosteiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.324738,
+                        15.020162
+                  ]
+            },
+            {
+                  "name": "Plis spectaculaires de strates de lave",
+                  "text": "Plis spectaculaires de strates de lave este o atracție naturală ce prezintă formațiuni vulcanice în Mosteiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.341834,
+                        15.04313
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fogo Natural Park",
+                  "text": "Fogo Natural Park is a protected nature reserve encompassing the active volcano area near Mosteiros.",
+                  "category": "natural",
+                  "coords": [
+                        -24.360277,
+                        14.960308
+                  ]
+            },
+            {
+                  "name": "Museu do café",
+                  "text": "Museu do café is a museum dedicated to the region's history located in Mosteiros.",
+                  "category": "museum",
+                  "coords": [
+                        -24.324806,
+                        15.034281
+                  ]
+            },
+            {
+                  "name": "Plantation de café et de petits piments très forts",
+                  "text": "Plantation de café et de petits piments très forts is an agricultural attraction in Mosteiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.324738,
+                        15.020162
+                  ]
+            },
+            {
+                  "name": "Plis spectaculaires de strates de lave",
+                  "text": "Plis spectaculaires de strates de lave is a natural attraction showcasing volcanic formations in Mosteiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.341834,
+                        15.04313
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-MO", coords: [-24.3333, 15.0333], name: {de: "Mosteiros", hu: "Mosteiros", ro: "Mosteiros", en: "Mosteiros"},
     image: "/poi-images/mosteiros-cities-v2.webp", description: {de: "Mosteiros ist eine Stadt im Nordosten von Fogo, bekannt für ihren Kaffeeanbau.", hu: "Mosteiros egy város Fogo északkeleti részén, kávétermesztésérol ismert.", ro: "Mosteiros este un ora? din nord-estul insulei Fogo, cunoscut pentru cultivarea cafelei.", en: "Mosteiros is a city in the northeast of Fogo, famous for its coffee production.", es: "Mosteiros es una ciudad en el noreste de Fogo, conocida por su cultivo de café.", pt: "Mosteiros é uma cidade no nordeste do Fogo, conhecida pelo seu cultivo de café.", fr: "Mosteiros est une ville du nord-est de Fogo, connue pour sa culture du café."}, facts: {de: ["Zentrum des besten Kaffees von Kap Verde", "Geprägt durch ein feuchtes und grünes Mikroklima", "Umgeben von vulkanischen Lavaströmen", "Wichtiger Ort für den Export lokaler Produkte"], hu: ["A Zöld-foki Köztársaság legjobb kávéjának központja", "Párás és zöld mikroklíma jellemzi", "Vulkáni lávafolyamok veszik körül", "A helyi termékek exportjának fontos helyszíne"], ro: ["Centrul celei mai bune cafele din Capul Verde", "Caracterizat printr-un microclimat umed ?i verde", "Înconjurat de fluxuri de lava vulcanica", "Loc important pentru exportul produselor locale"], en: ["Center of the best coffee in Cape Verde", "Characterized by a humid and green microclimate", "Surrounded by volcanic lava flows", "Important location for the export of local products"], es: ["Centro del mejor café de Cabo Verde", "Caracterizada por un microclima húmedo y verde", "Rodeada de coladas de lava volcánica", "Lugar importante para la exportación de productos locales"], pt: ["Centro do melhor café de Cabo Verde", "Caracterizada por um microclima húmido e verde", "Rodeada por fluxos de lava vulcânica", "Local importante para a exportação de produtos locais"], fr: ["Centre du meilleur café du Cap-Vert", "Caractérisée par un microclimat humide et verdoyant", "Entourée de coulées de lave volcanique", "Lieu important pour l'exportation de produits locaux"]}, image: "/poi-images/mosteiros-cities-v2.webp",
     descriptionAdvanced: {
       de: "Mosteiros ist eine charmante Stadt an der Nordostküste der Insel Fogo, gelegen am Fuße der steilen Hänge des Vulkans. Das Gebiet ist bekannt als die fruchtbarste Region der Insel, begünstigt durch höhere Niederschläge und die mineralreichen vulkanischen Böden. Hier befinden sich die berühmten Kaffeeplantagen, auf denen der hochwertige Fogo-Kaffee (Café do Fogo) angebaut wird, der international geschätzt wird. Die Stadt selbst besteht aus mehreren Ortsteilen, darunter Igreja, wo sich die namensgebende Kirche befindet. Mosteiros wird oft von den Wolken des Passats eingehüllt, was für eine angenehme Kühle und ein üppiges Grün sorgt, das im Kontrast zur trockenen Südseite der Insel steht. Die Küste bei Mosteiros ist wild und felsig, mit natürlichen Lavapools, die zum Baden einladen. Wirtschaftlich dreht sich fast alles um den Export von Kaffee, Bananen und anderen Früchten. Die Architektur ist funktional, bietet aber viele Ausblicke auf den Ozean und die majestätischen Bergflanken, die den Ort einrahmen.",
@@ -626,7 +3632,124 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Siège de la municipalité de Santa Catarina do Fogo", "Accession au statut de ville en 2010", "Population d'environ 1 200 habitants", "Situé à une altitude d'environ 480 mètres", "Caractérisé par des paysages volcaniques secs", "Nœud de transport important au sud-est de Fogo"],
     },
   },
-  {id: "cha-das-caldeiras-cities-v2", type: "city", parent: "CV-SF", coords: [-24.375, 14.95], name: {de: "Chã das Caldeiras", hu: "Chã das Caldeiras", ro: "Chã das Caldeiras", en: "Chã das Caldeiras"},
+  {id: "cha-das-caldeiras-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturpark Fogo",
+                  "text": "Der Naturpark Fogo ist ein Schutzgebiet auf der Insel Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.360277,
+                        14.960308
+                  ]
+            },
+            {
+                  "name": "Pico de Caldeira",
+                  "text": "Der Pico de Caldeira ist ein markanter Gipfel im Fogo-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -24.390481,
+                        14.962902
+                  ]
+            },
+            {
+                  "name": "Chã das Caldeiras",
+                  "text": "Chã das Caldeiras ist ein einzigartiges vulkanisches Tal auf Fogo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.366868,
+                        14.967196
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Natural do Fogo",
+                  "text": "A Fogo Nemzeti Park egy védett terület Fogo szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        -24.360277,
+                        14.960308
+                  ]
+            },
+            {
+                  "name": "Pico de Caldeira",
+                  "text": "A Pico de Caldeira egy jellegzetes csúcs a Fogo Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -24.390481,
+                        14.962902
+                  ]
+            },
+            {
+                  "name": "Chã das Caldeiras",
+                  "text": "Chã das Caldeiras egy különleges vulkáni völgy Fogo szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.366868,
+                        14.967196
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Natural do Fogo",
+                  "text": "Parcul Natural Fogo este o arie protejată pe insula Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.360277,
+                        14.960308
+                  ]
+            },
+            {
+                  "name": "Pico de Caldeira",
+                  "text": "Pico de Caldeira este un vârf proeminent în Parcul Natural Fogo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.390481,
+                        14.962902
+                  ]
+            },
+            {
+                  "name": "Chã das Caldeiras",
+                  "text": "Chã das Caldeiras este o vale vulcanică unică pe insula Fogo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.366868,
+                        14.967196
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fogo Natural Park",
+                  "text": "The Fogo Natural Park is a protected area on Fogo Island.",
+                  "category": "natural",
+                  "coords": [
+                        -24.360277,
+                        14.960308
+                  ]
+            },
+            {
+                  "name": "Pico de Caldeira",
+                  "text": "The Pico de Caldeira is a prominent peak in Fogo Natural Park.",
+                  "category": "natural",
+                  "coords": [
+                        -24.390481,
+                        14.962902
+                  ]
+            },
+            {
+                  "name": "Chã das Caldeiras",
+                  "text": "Chã das Caldeiras is a unique volcanic valley on Fogo Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.366868,
+                        14.967196
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-SF", coords: [-24.375, 14.95], name: {de: "Chã das Caldeiras", hu: "Chã das Caldeiras", ro: "Chã das Caldeiras", en: "Chã das Caldeiras"},
     image: "/poi-images/cha-das-caldeiras-cities-v2.webp", description: {de: "Chã das Caldeiras ist ein einzigartiges Dorf direkt im Krater des Pico do Fogo.", hu: "Chã das Caldeiras egy egyedülálló falu közvetlenül a Pico do Fogo kráterében.", ro: "Chã das Caldeiras este un sat unic situat direct în craterul Pico do Fogo.", en: "Chã das Caldeiras is a unique village located directly inside the crater of Pico do Fogo.", es: "Chã das Caldeiras es un pueblo único situado directamente en el cráter del Pico do Fogo.", pt: "Chã das Caldeiras é uma aldeia única situada diretamente na cratera do Pico do Fogo.", fr: "Chã das Caldeiras est un village unique situé directement dans le cratère du Pico do Fogo."}, facts: {de: ["Bekannt für die Produktion von exzellentem Wein", "Wurde mehrfach durch Vulkanausbrüche zerstört", "Lebt auf fruchtbarem vulkanischem Boden", "Startpunkt für die Besteigung des Hauptgipfels"], hu: ["Kiváló bortermelésérol ismert", "Többször elpusztították a vulkánkitörések", "Termékeny vulkáni talajon él", "A focsúcs megmászásának kiindulópontja"], ro: ["Cunoscut pentru producția de vin excelent", "A fost distrus de mai multe ori de erupțiile vulcanice", "Traiește pe sol vulcanic fertil", "Punct de plecare pentru escaladarea vârfului principal"], en: ["Famous for producing excellent wine", "Destroyed several times by volcanic eruptions", "Lives on fertile volcanic soil", "Starting point for climbing the main peak"], es: ["Conocido por la producción de vino excelente", "Destruido varias veces por erupciones volcánicas", "Vive en un suelo volcánico fértil", "Punto de partida para la ascensión a la cima principal"], pt: ["Conhecido pela produção de vinho excelente", "Destruído várias vezes por erupções vulcânicas", "Vive sobre solo vulcânico fértil", "Ponto de partida para a ascensão ao pico principal"], fr: ["Célèbre pour sa production de vin d'excellence", "Détruit à plusieurs reprises par des éruptions", "Établi sur un sol volcanique très fertile", "Point de départ pour l'ascension du sommet principal"]}, image: "/poi-images/cha-das-caldeiras-cities-v2.webp",
     descriptionAdvanced: {
       de: "Chã das Caldeiras ist eine einzigartige Siedlung innerhalb der riesigen Caldera des Vulkans Pico do Fogo auf der Insel Fogo. Auf einer Höhe von etwa 1700 Metern über dem Meeresspiegel gelegen, ist die Gemeinde von den imposanten Kraterwänden der Bordeira umgeben, die bis zu 1000 Meter in die Höhe ragen. Das Leben hier ist untrennbar mit der vulkanischen Aktivität verbunden, wobei die Ausbrüche von 1951, 1995 und zuletzt 2014 das Dorfbild und die Infrastruktur massiv veränderten. Trotz der ständigen Gefahr kehren die Bewohner aufgrund des fruchtbaren Lavabodens immer wieder zurück. Die Region ist bekannt für den Anbau von Weintrauben und die Produktion des berühmten Manecom-Weins sowie für den hochwertigen Fogo-Kaffee. Die karge, pechschwarze Lavalandschaft bildet einen scharfen Kontrast zu den grünen Plantagen und den traditionellen Rundhäusern aus Lavastein, den sogenannten Funco. Chã das Caldeiras ist zudem der wichtigste Ausgangspunkt für Besteigungen des 2829 Meter hohen Pico do Fogo.",
@@ -647,7 +3770,448 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Situé à environ 1 700 mètres d'altitude.", "Siège de la coopérative viticole Chã.", "Dernière éruption volcanique majeure en 2014.", "Cœur du parc national de Fogo.", "Célèbre pour son vin 'Manecom'.", "Composé des hameaux de Bangaeira et Portela."],
     },
   },
-  {id: "sal-rei-cities-v2", type: "city", parent: "CV-BV", coords: [-22.9167, 16.175], name: {de: "Sal Rei", hu: "Sal Rei", ro: "Sal Rei", en: "Sal Rei"},
+  {id: "sal-rei-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farol",
+                  "text": "Farol ist ein bemerkenswerter Leuchtturm in Sal Rei.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.932059,
+                        16.172563
+                  ]
+            },
+            {
+                  "name": "Museu dos Náufragos",
+                  "text": "Das Museu dos Náufragos ist ein Museum in der Stadt Sal Rei.",
+                  "category": "museum",
+                  "coords": [
+                        -22.916133,
+                        16.178207
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia da Boa Vista",
+                  "text": "Das Museu de Arqueologia da Boa Vista ist ein Museum in Sal Rei.",
+                  "category": "museum",
+                  "coords": [
+                        -22.917976,
+                        16.175304
+                  ]
+            },
+            {
+                  "name": "Praia de Estoril",
+                  "text": "Praia de Estoril ist ein entspannender Strand in Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.915242,
+                        16.170804
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "Praia da Boca de Salina ist ein malerischer Strand in Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "Praia de Carlota ist ein Strand an der Küste von Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Praia do Ilhéu",
+                  "text": "Praia do Ilhéu ist ein bekannter Strand in Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922959,
+                        16.166756
+                  ]
+            },
+            {
+                  "name": "Praia de Atlanta",
+                  "text": "Praia de Atlanta ist ein Strand in Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.919247,
+                        16.18342
+                  ]
+            },
+            {
+                  "name": "Duque de Bragança",
+                  "text": "Duque de Bragança sind die historischen Ruinen eines Inselforts in Sal Rei.",
+                  "category": "historical",
+                  "coords": [
+                        -22.924891,
+                        16.16484
+                  ]
+            },
+            {
+                  "name": "Agua Beach",
+                  "text": "Agua Beach ist ein Strandresort in der Gegend von Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.91158,
+                        16.164648
+                  ]
+            },
+            {
+                  "name": "CAC",
+                  "text": "Das CAC ist ein Kunstzentrum in Sal Rei.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.914493,
+                        16.176429
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Fátima",
+                  "text": "Nossa Senhora de Fátima ist eine lokale Kultstätte in Sal Rei.",
+                  "category": "religious",
+                  "coords": [
+                        -22.914266,
+                        16.196194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol",
+                  "text": "A Farol egy jelentős világítótorony Sal Rei városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.932059,
+                        16.172563
+                  ]
+            },
+            {
+                  "name": "Museu dos Náufragos",
+                  "text": "A Museu dos Náufragos egy múzeum Sal Rei városában.",
+                  "category": "museum",
+                  "coords": [
+                        -22.916133,
+                        16.178207
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia da Boa Vista",
+                  "text": "A Museu de Arqueologia da Boa Vista egy múzeum Sal Rei városában.",
+                  "category": "museum",
+                  "coords": [
+                        -22.917976,
+                        16.175304
+                  ]
+            },
+            {
+                  "name": "Praia de Estoril",
+                  "text": "A Praia de Estoril egy pihentető strand Sal Rei városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.915242,
+                        16.170804
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "A Praia da Boca de Salina egy festői strand Sal Rei városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "A Praia de Carlota egy tengerparti strand Sal Rei városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Praia do Ilhéu",
+                  "text": "A Praia do Ilhéu egy jól ismert strand Sal Rei városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922959,
+                        16.166756
+                  ]
+            },
+            {
+                  "name": "Praia de Atlanta",
+                  "text": "A Praia de Atlanta egy tengerparti szakasz Sal Rei városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.919247,
+                        16.18342
+                  ]
+            },
+            {
+                  "name": "Duque de Bragança",
+                  "text": "A Duque de Bragança egy történelmi szigeti erőd romja Sal Rei városában.",
+                  "category": "historical",
+                  "coords": [
+                        -22.924891,
+                        16.16484
+                  ]
+            },
+            {
+                  "name": "Agua Beach",
+                  "text": "Az Agua Beach egy tengerparti üdülőhely Sal Rei környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.91158,
+                        16.164648
+                  ]
+            },
+            {
+                  "name": "CAC",
+                  "text": "A CAC egy művészeti központ Sal Rei városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.914493,
+                        16.176429
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Fátima",
+                  "text": "A Nossa Senhora de Fátima egy helyi istentiszteleti hely Sal Rei városában.",
+                  "category": "religious",
+                  "coords": [
+                        -22.914266,
+                        16.196194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol",
+                  "text": "Farol este un far maritim important situat în Sal Rei.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.932059,
+                        16.172563
+                  ]
+            },
+            {
+                  "name": "Museu dos Náufragos",
+                  "text": "Museu dos Náufragos este un muzeu situat în orașul Sal Rei.",
+                  "category": "museum",
+                  "coords": [
+                        -22.916133,
+                        16.178207
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia da Boa Vista",
+                  "text": "Museu de Arqueologia da Boa Vista este un muzeu situat în Sal Rei.",
+                  "category": "museum",
+                  "coords": [
+                        -22.917976,
+                        16.175304
+                  ]
+            },
+            {
+                  "name": "Praia de Estoril",
+                  "text": "Praia de Estoril este o plajă relaxantă situată în Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.915242,
+                        16.170804
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "Praia da Boca de Salina este o plajă pitorească situată în Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "Praia de Carlota este o plajă pe coasta din Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Praia do Ilhéu",
+                  "text": "Praia do Ilhéu este o plajă cunoscută din Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922959,
+                        16.166756
+                  ]
+            },
+            {
+                  "name": "Praia de Atlanta",
+                  "text": "Praia de Atlanta este o plajă pe litoralul din Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.919247,
+                        16.18342
+                  ]
+            },
+            {
+                  "name": "Duque de Bragança",
+                  "text": "Duque de Bragança reprezintă ruinele istorice ale unui fort insular din Sal Rei.",
+                  "category": "historical",
+                  "coords": [
+                        -22.924891,
+                        16.16484
+                  ]
+            },
+            {
+                  "name": "Agua Beach",
+                  "text": "Agua Beach este o stațiune balneară situată în zona Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.91158,
+                        16.164648
+                  ]
+            },
+            {
+                  "name": "CAC",
+                  "text": "CAC este un centru de arte situat în Sal Rei.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.914493,
+                        16.176429
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Fátima",
+                  "text": "Nossa Senhora de Fátima este un lăcaș de cult local situat în Sal Rei.",
+                  "category": "religious",
+                  "coords": [
+                        -22.914266,
+                        16.196194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol",
+                  "text": "Farol is a notable maritime lighthouse positioned in Sal Rei.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.932059,
+                        16.172563
+                  ]
+            },
+            {
+                  "name": "Museu dos Náufragos",
+                  "text": "Museu dos Náufragos is a museum situated in the city of Sal Rei.",
+                  "category": "museum",
+                  "coords": [
+                        -22.916133,
+                        16.178207
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia da Boa Vista",
+                  "text": "Museu de Arqueologia da Boa Vista is a museum located in Sal Rei.",
+                  "category": "museum",
+                  "coords": [
+                        -22.917976,
+                        16.175304
+                  ]
+            },
+            {
+                  "name": "Praia de Estoril",
+                  "text": "Praia de Estoril is a relaxing beach located in Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.915242,
+                        16.170804
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "Praia da Boca de Salina is a scenic beach situated in Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "Praia de Carlota is a coastal beach located in Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Praia do Ilhéu",
+                  "text": "Praia do Ilhéu is a well-known beach found in Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.922959,
+                        16.166756
+                  ]
+            },
+            {
+                  "name": "Praia de Atlanta",
+                  "text": "Praia de Atlanta is a seaside beach location in Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.919247,
+                        16.18342
+                  ]
+            },
+            {
+                  "name": "Duque de Bragança",
+                  "text": "Duque de Bragança features the historical ruins of an island fort in Sal Rei.",
+                  "category": "historical",
+                  "coords": [
+                        -22.924891,
+                        16.16484
+                  ]
+            },
+            {
+                  "name": "Agua Beach",
+                  "text": "Agua Beach is a beach resort located in the area of Sal Rei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.91158,
+                        16.164648
+                  ]
+            },
+            {
+                  "name": "CAC",
+                  "text": "CAC is an arts centre serving the cultural community in Sal Rei.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.914493,
+                        16.176429
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora de Fátima",
+                  "text": "Nossa Senhora de Fátima is a local place of worship located in Sal Rei.",
+                  "category": "religious",
+                  "coords": [
+                        -22.914266,
+                        16.196194
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-BV", coords: [-22.9167, 16.175], name: {de: "Sal Rei", hu: "Sal Rei", ro: "Sal Rei", en: "Sal Rei"},
     image: "/poi-images/sal-rei-cities-v2.webp", description: {de: "Sal Rei ist die Hauptstadt der Insel Boa Vista und ein wachsendes touristisches Zentrum.", hu: "Sal Rei Boa Vista szigetének fovárosa és egy növekvo turisztikai központ.", ro: "Sal Rei este capitala insulei Boa Vista ?i un centru turistic în creștere.", en: "Sal Rei is the capital of Boa Vista island and a growing tourist center.", es: "Sal Rei es la capital de la isla de Boa Vista y un centro turístico en crecimiento.", pt: "Sal Rei é a capital da ilha da Boa Vista e um centro turístico em crescimento.", fr: "Sal Rei est la capitale de l'île de Boa Vista et un centre touristique en pleine croissance."}, facts: {de: ["Bietet einige der schönsten Strände des Archipels", "Zentrum für Handel und Inselverwaltung", "Wichtiger Hafen für Fischerei und Waren", "Bewahrt seinen Charme trotz zunehmendem Tourismus"], hu: ["A szigetcsoport legszebb strandjait kínálja", "Kereskedelmi és szigeti közigazgatási központ", "Fontos halászati és áruforgalmi kiköto", "A növekvo turizmus ellenére megorzi báját"], ro: ["Ofera unele dintre cele mai frumoase plaje din arhipelag", "Centru pentru comer? ?i administrația insulei", "Port important pentru pescuit ?i marfuri", "Î?i pastreaza farmecul în ciuda turismului în creștere"], en: ["Offers some of the most beautiful beaches in the archipelago", "Center for trade and island administration", "Important port for fishing and goods", "Preserves its charm despite increasing tourism"], es: ["Ofrece algunas de las playas más bellas del archipiélago", "Centro del comercio y la administración de la isla", "Puerto importante para la pesca y mercancías", "Conserva su encanto a pesar del aumento del turismo"], pt: ["Oferece algumas das praias mais belas do arquipélago", "Centro do comércio e da administração da ilha", "Porto importante para a pesca e mercadorias", "Preserva o seu encanto apesar do aumento do turismo"], fr: ["Offre certaines des plus belles plages de l'archipel", "Centre commercial et administratif de l'île", "Port important pour la pêche et les marchandises", "Conserve son charme malgré le développement du tourisme"]}, image: "/poi-images/sal-rei-cities-v2.webp",
     descriptionAdvanced: {
       de: "Sal Rei ist die Hauptstadt und das wirtschaftliche Zentrum der Insel Boa Vista. Die Stadt liegt an der Nordwestküste und blickt auf eine ruhige Bucht, die durch den vorgelagerten Ilhéu de Sal Rei geschützt wird. Der Name der Stadt, der übersetzt Königssalz bedeutet, erinnert an die historische Bedeutung der Salzgewinnung, die im 19. Jahrhundert die wichtigste Einnahmequelle der Region war. Heute ist Sal Rei geprägt von einer Mischung aus kolonialer Architektur und modernen touristischen Einrichtungen. Das Zentrum bildet die Praça de Santa Isabel mit ihrer farbenfrohen Kirche, in deren Umgebung sich kleine Geschäfte und Cafés befinden. Der Hafen von Sal Rei ist der wichtigste Umschlagplatz für Waren auf der Insel. Trotz des wachsenden Tourismus hat sich die Stadt eine entspannte Atmosphäre bewahrt. Die nahegelegenen Strände wie Praia de Cabral bieten ideale Bedingungen für Erholung, während die Ruinen der alten Salzpfannen im Osten der Stadt von der wirtschaftlichen Vergangenheit zeugen.",
@@ -668,7 +4232,304 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Capitale de l'île de Boa Vista.", "Population d'environ 6 000 habitants.", "Le port de Sal Rei est le point de transbordement le plus important.", "En face se trouve l'îlot Ilhéu de Sal Rei.", "Croissance portée par le tourisme international.", "Nommée d'après les mines de sel (Sal Rei = Sel du Roi)."],
     },
   },
-  {id: "estancia-de-baixo-cities-v2", type: "city", parent: "CV-BV", coords: [-22.8833, 16.1417], name: {de: "Estância de Baixo", hu: "Estância de Baixo", ro: "Estância de Baixo", en: "Estância de Baixo"},
+  {id: "estancia-de-baixo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Chaves",
+                  "text": "Praia de Chaves ist ein bekannter Strand in Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.927167,
+                        16.098786
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "Praia da Boca de Salina ist ein Strand in Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "Praia de Carlota ist ein schöner Strand in Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Quad Zone",
+                  "text": "Quad Zone ist ein Freizeitpark in Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.885168,
+                        16.141106
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World ist ein Wasserpark in Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.905945,
+                        16.139253
+                  ]
+            },
+            {
+                  "name": "Deserto de Viana",
+                  "text": "Deserto de Viana bietet einen tollen Aussichtspunkt in Estância de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -22.864779,
+                        16.143272
+                  ]
+            },
+            {
+                  "name": "Fábrica da Chave",
+                  "text": "Fábrica da Chave sind historische Ruinen in Estância de Baixo.",
+                  "category": "historical",
+                  "coords": [
+                        -22.905339,
+                        16.130104
+                  ]
+            },
+            {
+                  "name": "Artesanato Olaria de Rabil",
+                  "text": "Artesanato Olaria de Rabil ist eine kulturelle Attraktion in Estância de Baixo.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.888902,
+                        16.124623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Chaves",
+                  "text": "A Praia de Chaves egy híres tengerpart Estância de Baixóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.927167,
+                        16.098786
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "A Praia da Boca de Salina egy tengerpart Estância de Baixóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "A Praia de Carlota egy gyönyörű tengerpart Estância de Baixóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Quad Zone",
+                  "text": "A Quad Zone egy vidámpark Estância de Baixóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.885168,
+                        16.141106
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "A Splash Water World egy élvezetes vízi park Estância de Baixóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.905945,
+                        16.139253
+                  ]
+            },
+            {
+                  "name": "Deserto de Viana",
+                  "text": "A Deserto de Viana egy kilátópont Estância de Baixóban.",
+                  "category": "natural",
+                  "coords": [
+                        -22.864779,
+                        16.143272
+                  ]
+            },
+            {
+                  "name": "Fábrica da Chave",
+                  "text": "A Fábrica da Chave egy történelmi romterület Estância de Baixóban.",
+                  "category": "historical",
+                  "coords": [
+                        -22.905339,
+                        16.130104
+                  ]
+            },
+            {
+                  "name": "Artesanato Olaria de Rabil",
+                  "text": "Az Artesanato Olaria de Rabil egy kulturális látványosság Estância de Baixóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.888902,
+                        16.124623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Chaves",
+                  "text": "Praia de Chaves este o plajă renumită din Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.927167,
+                        16.098786
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "Praia da Boca de Salina este o plajă situată în Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "Praia de Carlota este o plajă frumoasă din Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Quad Zone",
+                  "text": "Quad Zone este un parc tematic situat în Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.885168,
+                        16.141106
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World este un parc acvatic din Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.905945,
+                        16.139253
+                  ]
+            },
+            {
+                  "name": "Deserto de Viana",
+                  "text": "Deserto de Viana oferă un punct de belvedere în Estância de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -22.864779,
+                        16.143272
+                  ]
+            },
+            {
+                  "name": "Fábrica da Chave",
+                  "text": "Fábrica da Chave cuprinde ruine istorice în Estância de Baixo.",
+                  "category": "historical",
+                  "coords": [
+                        -22.905339,
+                        16.130104
+                  ]
+            },
+            {
+                  "name": "Artesanato Olaria de Rabil",
+                  "text": "Artesanato Olaria de Rabil este o atracție culturală din Estância de Baixo.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.888902,
+                        16.124623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Chaves",
+                  "text": "Praia de Chaves is a renowned beach located in Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.927167,
+                        16.098786
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "Praia da Boca de Salina is a beach situated in Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "Praia de Carlota is a beautiful beach in Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Quad Zone",
+                  "text": "Quad Zone is a theme park located in Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.885168,
+                        16.141106
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World is an exciting water park in Estância de Baixo.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.905945,
+                        16.139253
+                  ]
+            },
+            {
+                  "name": "Deserto de Viana",
+                  "text": "Deserto de Viana offers a scenic viewpoint in Estância de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -22.864779,
+                        16.143272
+                  ]
+            },
+            {
+                  "name": "Fábrica da Chave",
+                  "text": "Fábrica da Chave features historical ruins located in Estância de Baixo.",
+                  "category": "historical",
+                  "coords": [
+                        -22.905339,
+                        16.130104
+                  ]
+            },
+            {
+                  "name": "Artesanato Olaria de Rabil",
+                  "text": "Artesanato Olaria de Rabil is a cultural attraction in Estância de Baixo.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.888902,
+                        16.124623
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-BV", coords: [-22.8833, 16.1417], name: {de: "Estância de Baixo", hu: "Estância de Baixo", ro: "Estância de Baixo", en: "Estância de Baixo"},
     image: "/poi-images/estancia-de-baixo-cities-v2.webp", description: {de: "Estância de Baixo ist ein ruhiges Dorf im Landesinneren von Boa Vista.", hu: "Estância de Baixo egy csendes falu Boa Vista belsejében.", ro: "Estância de Baixo este un sat liniștit din interiorul insulei Boa Vista.", en: "Estância de Baixo is a quiet village in the interior of Boa Vista.", es: "Estância de Baixo es un pueblo tranquilo en el interior de Boa Vista.", pt: "Estância de Baixo é uma aldeia tranquila no interior da Boa Vista.", fr: "Estância de Baixo est un village paisible à l'intérieur de Boa Vista."}, facts: {de: ["Gelegen in einer fruchtbaren Oase", "Bekannt für den Anbau von Datteln und Palmen", "Traditionelle kapverdische Architektur", "Bietet einen Einblick in das authentische Landleben"], hu: ["Egy termékeny oázisban fekszik", "Dátum- és pálmatermesztésérol ismert", "Hagyományos zöld-foki építészet", "Betekintést nyújt az autentikus vidéki életbe"], ro: ["Situat într-o oaza fertila", "Cunoscut pentru cultivarea curmalelor ?i a palmierilor", "Arhitectura tradiționala din Capul Verde", "Ofera o privire asupra vieții rurale autentice"], en: ["Located in a fertile oasis", "Known for growing dates and palms", "Traditional Cape Verdean architecture", "Offers a glimpse into authentic rural life"], es: ["Situado en un oasis fértil", "Conocido por el cultivo de dátiles y palmeras", "Arquitectura tradicional caboverdiana", "Ofrece una visión de la auténtica vida rural"], pt: ["Situado num oásis fértil", "Conhecido pelo cultivo de tâmaras e palmeiras", "Arquitetura tradicional cabo-verdiana", "Oferece uma visão da vida rural autêntica"], fr: ["Situé dans une oasis fertile", "Connu pour la culture des dattes et des palmiers", "Architecture traditionnelle cap-verdienne", "Offre un aperçu de la vie rurale authentique"]}, image: "/poi-images/estancia-de-baixo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Estância de Baixo ist ein kleines, charmantes Dorf im westlichen Teil der Insel Boa Vista, unweit der ehemaligen Hauptstadt Rabil. Die Siedlung liegt in einer relativ flachen Ebene und ist von der typischen Halbwüstenlandschaft der Insel umgeben. Traditionell lebten die Einwohner von der Landwirtschaft und der Viehzucht, wobei vor allem Ziegen eine wichtige Rolle spielen. Das Dorf zeichnet sich durch seine ruhige, authentische Atmosphäre aus, die weit entfernt vom Massentourismus der großen Resorts liegt. Die Architektur besteht überwiegend aus einstöckigen, hell gestrichenen Steinhäusern, die oft mit bunten Türen und Fenstern verziert sind. In der Umgebung finden sich vereinzelt Dattelpalmen und Akazien, die der trockenen Landschaft grüne Akzente verleihen. Durch die Nähe zum Flughafen und zur Hauptstadt Sal Rei ist Estância de Baixo gut erreichbar, bleibt jedoch ein Ort der Stille und Tradition, an dem das ursprüngliche kapverdische Leben noch spürbar ist.",
@@ -731,7 +4592,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Village le plus au nord-est de Boa Vista.", "Population d'environ 270 personnes.", "Fait partie des communes de Norte.", "Agriculture traditionnelle en zone sèche.", "Présence d'espèces végétales endémiques.", "Point de départ de randonnées vers la côte nord."],
     },
   },
-  {id: "bofareira-cities-v2", type: "city", parent: "CV-BV", coords: [-22.8417, 16.2083], name: {de: "Bofareira", hu: "Bofareira", ro: "Bofareira", en: "Bofareira"},
+  {id: "bofareira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santa Maria",
+                  "text": "Santa Maria ist ein faszinierendes Schiffswrack in Bofareira.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.865124,
+                        16.203576
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santa Maria",
+                  "text": "A Santa Maria egy lenyűgöző hajóroncs Bofareirában.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.865124,
+                        16.203576
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santa Maria",
+                  "text": "Santa Maria este o epavă fascinantă din Bofareira.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.865124,
+                        16.203576
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santa Maria",
+                  "text": "Santa Maria is a fascinating shipwreck site in Bofareira.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.865124,
+                        16.203576
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-BV", coords: [-22.8417, 16.2083], name: {de: "Bofareira", hu: "Bofareira", ro: "Bofareira", en: "Bofareira"},
     image: "/poi-images/bofareira-cities-v2.webp", description: {de: "Bofareira ist ein kleines, authentisches Dorf im Norden von Boa Vista.", hu: "Bofareira egy kicsi, autentikus falu Boa Vista északi részén.", ro: "Bofareira este un sat mic ?i autentic în nordul insulei Boa Vista.", en: "Bofareira is a small, authentic village in the north of Boa Vista.", es: "Bofareira es un pequeño y auténtico pueblo en el norte de Boa Vista.", pt: "Bofareira é uma pequena e autêntica aldeia no norte da Boa Vista.", fr: "Bofareira est un petit village authentique situé au nord de Boa Vista."}, facts: {de: ["Einfaches Leben geprägt durch Viehzucht", "Gelegen in einer trockenen, steppenartigen Umgebung", "Bietet einen Einblick in die Inselgeschichte", "Ruhiges Dorf abseits der Hauptrouten"], hu: ["Az állattenyésztés által meghatározott egyszeru élet", "Száraz, sztyeppszeru környezetben fekszik", "Betekintést nyújt a sziget történelmébe", "Csendes falu a foútvonalaktól távol"], ro: ["Via?a simpla caracterizata prin creșterea animalelor", "Situat într-un mediu uscat, asemanator stepei", "Ofera o privire în istoria insulei", "Sat liniștit departe de rutele principale"], en: ["Simple life characterized by livestock farming", "Located in a dry, steppe-like environment", "Provides a glimpse into island history", "Quiet village off the main routes"], es: ["Vida sencilla marcada por la ganadería", "Situado en un entorno seco tipo estepa", "Ofrece una visión de la historia de la isla", "Pueblo tranquilo alejado de las rutas principales"], pt: ["Vida simples marcada pela pecuária", "Situado num ambiente seco de estepe", "Oferece uma visão da história da ilha", "Aldeia tranquila fora das rotas principais"], fr: ["Vie simple rythmée par l'élevage", "Situé dans un environnement sec de type steppe", "Offre un aperçu de l'histoire de l'île", "Village calme à l'écart des routes principales"]}, image: "/poi-images/bofareira-cities-v2.webp",
     descriptionAdvanced: {
       de: "Bofareira ist ein kleines, friedliches Dorf im nördlichen Landesinneren der Insel Boa Vista. Es liegt in einer weiten, trockenen Ebene, die von sanften Hügeln umgeben ist, und bietet einen authentischen Einblick in das ländliche Leben der Kapverden. Das Dorf ist bekannt für seine farbenfrohen Häuser und die entspannte Atmosphäre, in der die Zeit stillzustehen scheint. Traditionell leben die Bewohner von der Ziegenzucht und der Produktion von lokalem Käse, der in der Region sehr geschätzt wird. Bofareira dient oft als Durchgangspunkt für Reisende, die die unberührte Nordküste der Insel erkunden möchten. Trotz seiner bescheidenen Größe hat das Dorf eine starke Gemeinschaft und bewahrt stolz seine kulturellen Traditionen. Die Landschaft um Bofareira ist karg, aber von einer rauen Schönheit geprägt, mit weiten Ausblicken über die steinige Wüste bis hin zum Horizont. Es ist ein idealer Ort für Besucher, die Ruhe suchen und die ursprüngliche Seele von Boa Vista jenseits der großen Hotelanlagen entdecken wollen.",
@@ -752,7 +4658,160 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Situé dans l'arrière-pays septentrional de Boa Vista.", "Population d'environ 200 habitants.", "Proximité de la côte nord vierge.", "Élevage traditionnel (chèvres).", "Faible influence du tourisme de masse.", "Halte de camping dans le désert pour les excursions en 4x4."],
     },
   },
-  {id: "povoacao-velha-cities-v2", type: "city", parent: "CV-BV", coords: [-22.95, 16.0333], name: {de: "Povoação Velha", hu: "Povoação Velha", ro: "Povoação Velha", en: "Povoação Velha"},
+  {id: "povoacao-velha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia da Varandinha",
+                  "text": "Praia da Varandinha ist ein Strand bei Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.961329,
+                        16.05271
+                  ]
+            },
+            {
+                  "name": "Praia São Roque",
+                  "text": "Praia São Roque ist ein Strand bei Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.963957,
+                        16.03894
+                  ]
+            },
+            {
+                  "name": "Praia da Farrapa",
+                  "text": "Praia da Farrapa ist ein Strand bei Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.958353,
+                        16.027485
+                  ]
+            },
+            {
+                  "name": "Praia do Curralinho",
+                  "text": "Praia do Curralinho ist ein Strand bei Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.943929,
+                        16.012311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia da Varandinha",
+                  "text": "A Praia da Varandinha egy strand Povoação Velha közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.961329,
+                        16.05271
+                  ]
+            },
+            {
+                  "name": "Praia São Roque",
+                  "text": "A Praia São Roque egy strand Povoação Velha közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.963957,
+                        16.03894
+                  ]
+            },
+            {
+                  "name": "Praia da Farrapa",
+                  "text": "A Praia da Farrapa egy strand Povoação Velha közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.958353,
+                        16.027485
+                  ]
+            },
+            {
+                  "name": "Praia do Curralinho",
+                  "text": "A Praia do Curralinho egy strand Povoação Velha közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.943929,
+                        16.012311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia da Varandinha",
+                  "text": "Praia da Varandinha este o plajă lângă Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.961329,
+                        16.05271
+                  ]
+            },
+            {
+                  "name": "Praia São Roque",
+                  "text": "Praia São Roque este o plajă lângă Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.963957,
+                        16.03894
+                  ]
+            },
+            {
+                  "name": "Praia da Farrapa",
+                  "text": "Praia da Farrapa este o plajă lângă Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.958353,
+                        16.027485
+                  ]
+            },
+            {
+                  "name": "Praia do Curralinho",
+                  "text": "Praia do Curralinho este o plajă lângă Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.943929,
+                        16.012311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia da Varandinha",
+                  "text": "Praia da Varandinha is a beach near Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.961329,
+                        16.05271
+                  ]
+            },
+            {
+                  "name": "Praia São Roque",
+                  "text": "Praia São Roque is a beach near Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.963957,
+                        16.03894
+                  ]
+            },
+            {
+                  "name": "Praia da Farrapa",
+                  "text": "Praia da Farrapa is a beach near Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.958353,
+                        16.027485
+                  ]
+            },
+            {
+                  "name": "Praia do Curralinho",
+                  "text": "Praia do Curralinho is a beach near Povoação Velha.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.943929,
+                        16.012311
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-BV", coords: [-22.95, 16.0333], name: {de: "Povoação Velha", hu: "Povoação Velha", ro: "Povoação Velha", en: "Povoação Velha"},
     image: "/poi-images/povoacao-velha-cities-v2.webp", description: {de: "Povoação Velha ist die älteste Siedlung auf der Insel Boa Vista.", hu: "Povoação Velha Boa Vista szigetének legrégebbi települése.", ro: "Povoação Velha este cea mai veche a?ezare de pe insula Boa Vista.", en: "Povoação Velha is the oldest settlement on Boa Vista island.", es: "Povoação Velha es el asentamiento más antiguo de la isla de Boa Vista.", pt: "Povoação Velha é o assentamento mais antigo da ilha da Boa Vista.", fr: "Povoação Velha est la plus ancienne colonie de l'île de Boa Vista."}, facts: {de: ["Gegründet im 16. Jahrhundert", "Gelegen am Fuße des Berges Rocha Estância", "Nahe dem berühmten Strand von Santa Monica", "Bewahrt historischen Charme und Tradition"], hu: ["A 16. században alapították", "A Rocha Estância hegy lábánál fekszik", "A híres Santa Monica strand közelében", "Megorzi történelmi báját és hagyományait"], ro: ["Fondata în secolul al XVI-lea", "Situata la poalele muntelui Rocha Estância", "Aproape de faimoasa plaja Santa Monica", "Pastreaza farmecul ?i tradiția istorica"], en: ["Founded in the 16th century", "Located at the foot of Rocha Estância mountain", "Near the famous Santa Monica beach", "Preserves historic charm and tradition"], es: ["Fundado en el siglo XVI", "Situado al pie de la montaña Rocha Estância", "Cerca de la famosa playa de Santa Mónica", "Conserva el encanto histórico y la tradición"], pt: ["Fundada no século XVI", "Situada no sopé do monte Rocha Estância", "Próxima da famosa praia de Santa Mónica", "Preserva o encanto histórico e a tradição"], fr: ["Fondé au XVIe siècle", "Situé au pied de la montagne Rocha Estância", "Proche de la célèbre plage de Santa Monica", "Préserve le charme historique et la tradition"]}, image: "/poi-images/povoacao-velha-cities-v2.webp",
     descriptionAdvanced: {
       de: "Povoação Velha ist die älteste Siedlung auf der Insel Boa Vista und war bis 1810 deren Hauptstadt. Das Dorf liegt am Fuße des Berges Rocha Estância im südwestlichen Teil der Insel. Gegründet im späten 16. Jahrhundert, zeugt der Ort von der frühen Kolonialgeschichte der Kapverden. Die kleine Kapelle Nossa Senhora da Conceição, die auf einem Hügel über dem Dorf thront, wurde 1828 erbaut und ist ein bedeutendes religiöses Denkmal. Die Architektur von Povoação Velha ist einfach und traditionell, mit vielen alten Steinhäusern, die den historischen Charakter bewahren. Das Dorf dient heute oft als Ausgangspunkt für Ausflüge zum spektakulären Strand Santa Monica, der als einer der schönsten des Archipels gilt. Trotz der Abwanderung vieler Bewohner in die neue Hauptstadt Sal Rei bleibt Povoação Velha ein wichtiger Ort des kulturellen Erbes, an dem die Geschichte von Boa Vista lebendig bleibt. Die ruhige Atmosphäre und die umliegende Gebirgslandschaft machen das Dorf zu einem lohnenswerten Ziel für historisch interessierte Besucher.",
@@ -773,7 +4832,304 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Fondation en 1587.", "Plus ancienne colonie de l'île de Boa Vista.", "Population d'environ 300 habitants.", "Situé au pied de la montagne Rocha Estância.", "Proximité de la célèbre plage de Santa Monica.", "Siège de l'église Nossa Senhora da Conceição."],
     },
   },
-  {id: "rabil-cities-v2", type: "city", parent: "CV-BV", coords: [-22.9, 16.1333], name: {de: "Rabil", hu: "Rabil", ro: "Rabil", en: "Rabil"},
+  {id: "rabil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Praia de Chaves",
+                  "text": "Praia de Chaves ist ein bekannter Strand in Rabil. Er ist weithin bekannt für seine ausgedehnten Sanddünen entlang der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.927167,
+                        16.098786
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "Praia da Boca de Salina ist ein Strand in der Stadt Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "Praia de Carlota ist ein Strand in der Stadt Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Quad Zone",
+                  "text": "Quad Zone ist ein Freizeitpark in der Stadt Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.885168,
+                        16.141106
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World ist ein Wasserpark in der Stadt Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.905945,
+                        16.139253
+                  ]
+            },
+            {
+                  "name": "Deserto de Viana",
+                  "text": "Deserto de Viana ist eine Touristenattraktion in der Stadt Rabil.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.861579,
+                        16.138676
+                  ]
+            },
+            {
+                  "name": "Fábrica da Chave",
+                  "text": "Fábrica da Chave ist eine historische Ruine in der Stadt Rabil.",
+                  "category": "historical",
+                  "coords": [
+                        -22.905339,
+                        16.130104
+                  ]
+            },
+            {
+                  "name": "Artesanato Olaria de Rabil",
+                  "text": "Artesanato Olaria de Rabil ist eine Touristenattraktion in der Stadt Rabil.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.888902,
+                        16.124623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia de Chaves",
+                  "text": "A Praia de Chaves egy nevezetes strand Rabilban. Leginkább a part mentén húzódó hatalmas homokdűnéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.927167,
+                        16.098786
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "A Praia da Boca de Salina egy strand Rabil városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "A Praia de Carlota egy strand Rabil városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Quad Zone",
+                  "text": "A Quad Zone egy vidámpark Rabil városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.885168,
+                        16.141106
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "A Splash Water World egy vízipark Rabil városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.905945,
+                        16.139253
+                  ]
+            },
+            {
+                  "name": "Deserto de Viana",
+                  "text": "A Deserto de Viana egy turisztikai látványosság Rabil városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.861579,
+                        16.138676
+                  ]
+            },
+            {
+                  "name": "Fábrica da Chave",
+                  "text": "A Fábrica da Chave egy történelmi rom Rabil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -22.905339,
+                        16.130104
+                  ]
+            },
+            {
+                  "name": "Artesanato Olaria de Rabil",
+                  "text": "Az Artesanato Olaria de Rabil egy turisztikai látványosság Rabil városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.888902,
+                        16.124623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia de Chaves",
+                  "text": "Praia de Chaves este o plajă notabilă situată în Rabil. Este recunoscută pentru dunele sale întinse de nisip de-a lungul coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.927167,
+                        16.098786
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "Praia da Boca de Salina este o plajă situată în orașul Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "Praia de Carlota este o plajă situată în orașul Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Quad Zone",
+                  "text": "Quad Zone este un parc tematic situat în orașul Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.885168,
+                        16.141106
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World este un parc acvatic situat în orașul Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.905945,
+                        16.139253
+                  ]
+            },
+            {
+                  "name": "Deserto de Viana",
+                  "text": "Deserto de Viana este o atracție turistică situată în orașul Rabil.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.861579,
+                        16.138676
+                  ]
+            },
+            {
+                  "name": "Fábrica da Chave",
+                  "text": "Fábrica da Chave este o ruină istorică situată în orașul Rabil.",
+                  "category": "historical",
+                  "coords": [
+                        -22.905339,
+                        16.130104
+                  ]
+            },
+            {
+                  "name": "Artesanato Olaria de Rabil",
+                  "text": "Artesanato Olaria de Rabil este o atracție turistică situată în orașul Rabil.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.888902,
+                        16.124623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia de Chaves",
+                  "text": "Praia de Chaves is a notable beach located in Rabil. It is widely known for its extensive sand dunes stretching along the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.927167,
+                        16.098786
+                  ]
+            },
+            {
+                  "name": "Praia da Boca de Salina",
+                  "text": "Praia da Boca de Salina is a beach located in the city of Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.906571,
+                        16.143396
+                  ]
+            },
+            {
+                  "name": "Praia de Carlota",
+                  "text": "Praia de Carlota is a beach located in the city of Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.909282,
+                        16.158684
+                  ]
+            },
+            {
+                  "name": "Quad Zone",
+                  "text": "Quad Zone is a theme park located in the city of Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.885168,
+                        16.141106
+                  ]
+            },
+            {
+                  "name": "Splash Water World",
+                  "text": "Splash Water World is a water park located in the city of Rabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -22.905945,
+                        16.139253
+                  ]
+            },
+            {
+                  "name": "Deserto de Viana",
+                  "text": "Deserto de Viana is a tourist attraction located in the city of Rabil.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.861579,
+                        16.138676
+                  ]
+            },
+            {
+                  "name": "Fábrica da Chave",
+                  "text": "Fábrica da Chave is a historical ruin located in the city of Rabil.",
+                  "category": "historical",
+                  "coords": [
+                        -22.905339,
+                        16.130104
+                  ]
+            },
+            {
+                  "name": "Artesanato Olaria de Rabil",
+                  "text": "Artesanato Olaria de Rabil is a tourist attraction located in the city of Rabil.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.888902,
+                        16.124623
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-BV", coords: [-22.9, 16.1333], name: {de: "Rabil", hu: "Rabil", ro: "Rabil", en: "Rabil"},
     image: "/poi-images/rabil-cities-v2.webp", description: {de: "Rabil ist die ehemalige Hauptstadt von Boa Vista und ein Zentrum des Handwerks.", hu: "Rabil Boa Vista egykori fovárosa és a kézmuvesség központja.", ro: "Rabil este fosta capitala a insulei Boa Vista ?i un centru al mește?ugurilor.", en: "Rabil is the former capital of Boa Vista and a center of handicrafts.", es: "Rabil es la antigua capital de Boa Vista y un centro de artesanía.", pt: "Rabil é a antiga capital da Boa Vista e um centro de artesanato.", fr: "Rabil est l'ancienne capitale de Boa Vista et un centre de l'artisanat."}, facts: {de: ["Berühmt für seine traditionelle Töpferei", "Gelegen in der Nähe des internationalen Flughafens", "Beherbergt die älteste Kirche der Insel (São Roque)", "Angrenzend an die fruchtbare Rabil-Lagune"], hu: ["Híres a hagyományos fazekasságáról", "A nemzetközi repülotér közelében található", "Itt található a sziget legrégebbi temploma (São Roque)", "A termékeny Rabil-lagúna szomszédságában"], ro: ["Slava pentru ceramica sa tradiționala", "Situat lânga aeroportul internațional", "Gazduiește cea mai veche biserica de pe insula (São Roque)", "Adiacent lagunei fertile Rabil"], en: ["Famous for its traditional pottery", "Located near the international airport", "Home to the island's oldest church (São Roque)", "Adjacent to the fertile Rabil Lagoon"], es: ["Famoso por su alfarería tradicional", "Situado cerca del aeropuerto internacional", "Alberga la iglesia más antigua de la isla (São Roque)", "Adyacente a la fértil laguna de Rabil"], pt: ["Famosa pela sua olaria tradicional", "Situada perto do aeroporto internacional", "Alberga a igreja mais antiga da ilha (São Roque)", "Adjacente à fértil lagoa do Rabil"], fr: ["Célèbre pour sa poterie traditionnelle", "Situé à proximité de l'aéroport international", "Abrite la plus ancienne église de l'île (São Roque)", "Adjacent à la lagune fertile de Rabil"]}, image: "/poi-images/rabil-cities-v2.webp",
     descriptionAdvanced: {
       de: "Rabil ist das zweitgrößte Dorf auf der Insel Boa Vista und liegt nur wenige Kilometer südlich der Hauptstadt Sal Rei. Als ehemalige Hauptstadt der Insel besitzt der Ort eine reiche Geschichte und eine architektonisch bedeutende Pfarrkirche, die Igreja de São Roque, eine der ältesten Kirchen der Insel. Rabil ist weit über die Inselgrenzen hinaus für seine traditionelle Töpferei bekannt. Die lokale Olaria (Töpferei) nutzt den Ton aus dem nahegelegenen Tal der Ribeira do Rabil, um kunstvolle Keramikwaren herzustellen, die ein beliebtes Souvenir für Besucher sind. Das Dorf liegt am Rande eines fruchtbaren Tals, das einen starken Kontrast zur ansonsten wüstenhaften Landschaft von Boa Vista bildet. In der Nähe von Rabil befindet sich auch der internationale Flughafen der Insel, was das Dorf zu einem wichtigen Verkehrsknotenpunkt macht. Trotz der Nähe zum Tourismus hat sich Rabil seinen dörflichen Charme bewahrt, mit engen Gassen und schattigen Plätzen, an denen das soziale Leben der Gemeinschaft stattfindet.",
@@ -836,7 +5192,88 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Chef-lieu de l'île de São Nicolau.", "Siège épiscopal du Cap-Vert jusqu'en 1943.", "Population d'environ 1 900 habitants.", "Fondée au XVIIe siècle.", "Point fort architectural : Cathédrale Nossa Senhora do Rosário.", "Le nom fait référence à la 'rivière sauvage'."],
     },
   },
-  {id: "tarrafal-de-sao-nicolau-cities-v2", type: "city", parent: "CV-TS", coords: [-24.3667, 16.5667], name: {de: "Tarrafal de São Nicolau", hu: "Tarrafal de São Nicolau", ro: "Tarrafal de São Nicolau", en: "Tarrafal de São Nicolau"},
+  {id: "tarrafal-de-sao-nicolau-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu dos Pescatores",
+                  "text": "Museu dos Pescatores ist ein Museum in der Stadt Tarrafal de São Nicolau.",
+                  "category": "museum",
+                  "coords": [
+                        -24.358041,
+                        16.567641
+                  ]
+            },
+            {
+                  "name": "Praia D'Tedja",
+                  "text": "Praia D'Tedja ist ein Strand in der Stadt Tarrafal de São Nicolau.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.358577,
+                        16.564404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu dos Pescatores",
+                  "text": "A Museu dos Pescatores egy múzeum Tarrafal de São Nicolau városában.",
+                  "category": "museum",
+                  "coords": [
+                        -24.358041,
+                        16.567641
+                  ]
+            },
+            {
+                  "name": "Praia D'Tedja",
+                  "text": "A Praia D'Tedja egy strand Tarrafal de São Nicolau városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.358577,
+                        16.564404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu dos Pescatores",
+                  "text": "Museu dos Pescatores este un muzeu situat în orașul Tarrafal de São Nicolau.",
+                  "category": "museum",
+                  "coords": [
+                        -24.358041,
+                        16.567641
+                  ]
+            },
+            {
+                  "name": "Praia D'Tedja",
+                  "text": "Praia D'Tedja este o plajă situată în orașul Tarrafal de São Nicolau.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.358577,
+                        16.564404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu dos Pescatores",
+                  "text": "Museu dos Pescatores is a museum located in the city of Tarrafal de São Nicolau.",
+                  "category": "museum",
+                  "coords": [
+                        -24.358041,
+                        16.567641
+                  ]
+            },
+            {
+                  "name": "Praia D'Tedja",
+                  "text": "Praia D'Tedja is a beach located in the city of Tarrafal de São Nicolau.",
+                  "category": "recreational",
+                  "coords": [
+                        -24.358577,
+                        16.564404
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-TS", coords: [-24.3667, 16.5667], name: {de: "Tarrafal de São Nicolau", hu: "Tarrafal de São Nicolau", ro: "Tarrafal de São Nicolau", en: "Tarrafal de São Nicolau"},
     image: "/poi-images/tarrafal-de-sao-nicolau-cities-v2.webp", description: {de: "Tarrafal de São Nicolau ist die wichtigste Hafenstadt der Insel São Nicolau.", hu: "Tarrafal de São Nicolau São Nicolau legfontosabb kikötovárosa.", ro: "Tarrafal de São Nicolau este cel mai important ora?-port de pe insula São Nicolau.", en: "Tarrafal de São Nicolau is the main port town of São Nicolau island.", es: "Tarrafal de São Nicolau es la ciudad portuaria más importante de la isla de São Nicolau.", pt: "Tarrafal de São Nicolau é a cidade portuária mais importante da ilha de São Nicolau.", fr: "Tarrafal de São Nicolau est la principale ville portuaire de l'île de São Nicolau."}, facts: {de: ["Besitzt Strände mit schwarzem, heilendem Sand", "Zentrum der lokalen Fischindustrie", "Wichtigster Ankunftsort für Schiffe und Fähren", "Größtes wirtschaftliches Zentrum der Insel"], hu: ["Fekete, gyógyító homokos strandokkal rendelkezik", "A helyi halipar központja", "A hajók és kompok legfontosabb érkezési helye", "A sziget legnagyobb gazdasági központja"], ro: ["Are plaje cu nisip negru, curativ", "Centrul industriei locale de pescuit", "Principalul loc de sosire pentru nave ?i feriboturi", "Cel mai mare centru economic de pe insula"], en: ["Has beaches with black, medicinal sand", "Center of the local fishing industry", "Primary arrival point for ships and ferries", "Largest economic center of the island"], es: ["Posee playas con arena negra curativa", "Centro de la industria pesquera local", "Principal punto de llegada de barcos y ferris", "Mayor centro económico de la isla"], pt: ["Possui praias com areia preta curativa", "Centro da indústria pesqueira local", "Principal ponto de chegada de navios e ferries", "Maior centro económico da ilha"], fr: ["Possède des plages de sable noir aux vertus curatives", "Centre de l'industrie de la pêche locale", "Principal point d'arrivée des navires et des ferries", "Plus grand centre économique de l'île"]}, image: "/poi-images/tarrafal-de-sao-nicolau-cities-v2.webp",
     descriptionAdvanced: {
       de: "Tarrafal de São Nicolau ist das wichtigste wirtschaftliche Zentrum und der Haupthafen der Insel São Nicolau in Kap Verde. Die Stadt liegt an der Westküste und dient als administrativer Sitz des gleichnamigen Distrikts, der im Jahr 2005 durch die Aufteilung der Insel in zwei Gemeinden entstand. Historisch gesehen löste der moderne Hafen von Tarrafal, der im Jahr 1991 offiziell eingeweiht wurde, den älteren Hafen von Preguiça als wichtigsten Umschlagplatz für Waren und Passagiere ab. Die Architektur der Stadt ist von funktionalen Gebäuden und einer wachsenden touristischen Infrastruktur geprägt, wobei die schwarzen Sandstrände ein markantes geografisches Merkmal darstellen. Die lokale Wirtschaft basiert primär auf dem Fischfang und der Fischverarbeitung, ergänzt durch einen stetig wachsenden Dienstleistungssektor. Das trockene, aride Klima der Region bestimmt das Landschaftsbild der Umgebung, die von vulkanischen Formationen geprägt ist.",
@@ -857,7 +5294,196 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Siège de la municipalité de Tarrafal de São Nicolau depuis 2005.", "Plus important port de l'île avec des liaisons régulières par ferry.", "Population d'environ 3 700 habitants selon le recensement de 2010.", "Position géographique à 16°34'N et 24°21'W.", "Centre de la pêche sur l'île de São Nicolau.", "Connexion à la route principale vers Ribeira Brava."],
     },
   },
-  {id: "faja-de-baixo-cities-v2", type: "city", parent: "CV-RB", coords: [-24.3167, 16.6333], name: {de: "Fajã de Baixo", hu: "Fajã de Baixo", ro: "Fajã de Baixo", en: "Fajã de Baixo"},
+  {id: "faja-de-baixo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Natural Monte Gordo",
+                  "text": "Der Parque Natural Monte Gordo ist ein Naturschutzgebiet in Fajã de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.349984,
+                        16.625684
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Miradouro ist ein Aussichtspunkt in Fajã de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.328922,
+                        16.615407
+                  ]
+            },
+            {
+                  "name": "Miradouro do Monte Cintinha",
+                  "text": "Miradouro do Monte Cintinha bietet eine schöne Aussicht über Fajã de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.332958,
+                        16.622345
+                  ]
+            },
+            {
+                  "name": "Buraco Azul",
+                  "text": "Buraco Azul ist eine bekannte Attraktion in Fajã de Baixo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.303423,
+                        16.655843
+                  ]
+            },
+            {
+                  "name": "Antigo Seminário",
+                  "text": "Das Antigo Seminário ist eine historische Sehenswürdigkeit in Fajã de Baixo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.30074,
+                        16.615055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Natural Monte Gordo",
+                  "text": "A Parque Natural Monte Gordo egy természetvédelmi terület Fajã de Baixóban.",
+                  "category": "natural",
+                  "coords": [
+                        -24.349984,
+                        16.625684
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "A Miradouro egy szép kilátópont Fajã de Baixóban.",
+                  "category": "natural",
+                  "coords": [
+                        -24.328922,
+                        16.615407
+                  ]
+            },
+            {
+                  "name": "Miradouro do Monte Cintinha",
+                  "text": "A Miradouro do Monte Cintinha gyönyörű kilátást nyújt Fajã de Baixóban.",
+                  "category": "natural",
+                  "coords": [
+                        -24.332958,
+                        16.622345
+                  ]
+            },
+            {
+                  "name": "Buraco Azul",
+                  "text": "A Buraco Azul egy ismert látványosság Fajã de Baixóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.303423,
+                        16.655843
+                  ]
+            },
+            {
+                  "name": "Antigo Seminário",
+                  "text": "Az Antigo Seminário egy történelmi látványosság Fajã de Baixóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.30074,
+                        16.615055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Natural Monte Gordo",
+                  "text": "Parque Natural Monte Gordo este o rezervație naturală protejată din Fajã de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.349984,
+                        16.625684
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Miradouro este un punct de belvedere pitoresc situat în Fajã de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.328922,
+                        16.615407
+                  ]
+            },
+            {
+                  "name": "Miradouro do Monte Cintinha",
+                  "text": "Miradouro do Monte Cintinha oferă vederi frumoase asupra Fajã de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.332958,
+                        16.622345
+                  ]
+            },
+            {
+                  "name": "Buraco Azul",
+                  "text": "Buraco Azul este o atracție bine-cunoscută din Fajã de Baixo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.303423,
+                        16.655843
+                  ]
+            },
+            {
+                  "name": "Antigo Seminário",
+                  "text": "Antigo Seminário este o atracție istorică situată în Fajã de Baixo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.30074,
+                        16.615055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Natural Monte Gordo",
+                  "text": "Parque Natural Monte Gordo is a protected nature reserve located in Fajã de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.349984,
+                        16.625684
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Miradouro is a scenic viewpoint situated in Fajã de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.328922,
+                        16.615407
+                  ]
+            },
+            {
+                  "name": "Miradouro do Monte Cintinha",
+                  "text": "Miradouro do Monte Cintinha offers beautiful views over Fajã de Baixo.",
+                  "category": "natural",
+                  "coords": [
+                        -24.332958,
+                        16.622345
+                  ]
+            },
+            {
+                  "name": "Buraco Azul",
+                  "text": "Buraco Azul is a well-known attraction in Fajã de Baixo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.303423,
+                        16.655843
+                  ]
+            },
+            {
+                  "name": "Antigo Seminário",
+                  "text": "Antigo Seminário is a historical attraction situated in Fajã de Baixo.",
+                  "category": "landmark",
+                  "coords": [
+                        -24.30074,
+                        16.615055
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-RB", coords: [-24.3167, 16.6333], name: {de: "Fajã de Baixo", hu: "Fajã de Baixo", ro: "Fajã de Baixo", en: "Fajã de Baixo"},
     image: "/poi-images/faja-de-baixo-cities-v2.webp", description: {de: "Fajã de Baixo ist ein fruchtbares landwirtschaftliches Dorf auf São Nicolau.", hu: "Fajã de Baixo egy termékeny mezogazdasági falu São Nicolaun.", ro: "Fajã de Baixo este un sat agricol fertil din São Nicolau.", en: "Fajã de Baixo is a fertile agricultural village on São Nicolau.", es: "Fajã de Baixo es un fértil pueblo agrícola en São Nicolau.", pt: "Fajã de Baixo é uma fértil aldeia agrícola em São Nicolau.", fr: "Fajã de Baixo est un village agricole fertile sur l'île de São Nicolau."}, facts: {de: ["Gelegen in einer üppigen, grünen Tal", "Zentrum für den Anbau von tropischen Früchten", "Bekannt für seine terrassierten Felder", "Bietet spektakuläre Bergpanoramen"], hu: ["Egy buja, zöld völgyben fekszik", "A trópusi gyümölcsök termesztésének központja", "Teraszos földjeirol ismert", "Látványos hegyi panorámákat kínál"], ro: ["Situat într-o vale luxurianta ?i verde", "Centru pentru cultivarea fructelor tropicale", "Cunoscut pentru câmpurile sale terasate", "Ofera panorame montane spectaculoase"], en: ["Located in a lush, green valley", "Center for tropical fruit cultivation", "Known for its terraced fields", "Offers spectacular mountain panoramas"], es: ["Situado en un valle exuberante y verde", "Centro para el cultivo de frutas tropicales", "Conocido por sus campos en terrazas", "Ofrece espectaculares panoramas de montaña"], pt: ["Situado num vale exuberante e verde", "Centro para o cultivo de frutos tropicais", "Conhecido pelos seus campos em socalcos", "Oferece panoramas de montanha espetaculares"], fr: ["Situé dans une vallée verdoyante et luxuriante", "Centre de culture de fruits tropicaux", "Connu pour ses champs en terrasses", "Offre des panoramas de montagne spectaculaires"]}, image: "/poi-images/faja-de-baixo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Fajã de Baixo ist eine ländliche Siedlung im fruchtbaren Fajã-Tal auf der Insel São Nicolau in Kap Verde. Das Gebiet liegt in der Nähe von Ribeira Brava und zeichnet sich durch eine für die Kapverden ungewöhnlich üppige Vegetation aus, die durch die geschützte Lage im Tal begünstigt wird. Historisch gesehen war das Tal ein wichtiges landwirtschaftliches Zentrum, das die Insel mit Grundnahrungsmitteln versorgte. Die Bewohner praktizieren traditionellen Terrassenfeldbau, wobei Mais, Bohnen und verschiedene Obstsorten wie Bananen und Papayas angebaut werden. Die Architektur besteht überwiegend aus einfachen Steinhäusern, die sich harmonisch in die steile Gebirgslandschaft einfügen. Aufgrund der Höhenlage herrscht hier ein milderes und feuchteres Mikroklima als in den Küstenregionen der Insel. Fajã de Baixo repräsentiert das traditionelle kapverdische Landleben, das stark von den jahreszeitlichen Regenfällen und der Verfügbarkeit von Quellwasser abhängt.",
@@ -920,7 +5546,232 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Site du Forte do Príncipe Real datant de 1818.", "Ancien port principal pour l'exportation de café et de sucre.", "Possède une statue marquante du navigateur Christophe Colomb.", "Situé à environ 6 kilomètres au sud de Ribeira Brava.", "Le port a perdu son importance au profit de Tarrafal au XXe siècle.", "Lieu de débarquement historique pour les baleiniers dans l'Atlantique."],
     },
   },
-  {id: "nova-sintra-cities-v2", type: "city", parent: "CV-BR", coords: [-24.7, 14.8667], name: {de: "Nova Sintra", hu: "Nova Sintra", ro: "Nova Sintra", en: "Nova Sintra"},
+  {id: "nova-sintra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miradouro Santa Maria",
+                  "text": "Miradouro Santa Maria ist ein toller Aussichtspunkt in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.691019,
+                        14.872773
+                  ]
+            },
+            {
+                  "name": "Miradouro Mato Grande",
+                  "text": "Miradouro Mato Grande bietet einen Panoramablick in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.686238,
+                        14.863618
+                  ]
+            },
+            {
+                  "name": "Miradouro de Cutelo Mentira",
+                  "text": "Miradouro de Cutelo Mentira ist ein beliebter Aussichtspunkt in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.695977,
+                        14.872526
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraBeleza",
+                  "text": "Miradouro MiraBeleza ist ein malerischer Aussichtspunkt in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.71479,
+                        14.866154
+                  ]
+            },
+            {
+                  "name": "Miradouro de Mato Grande",
+                  "text": "Miradouro de Mato Grande ist ein wunderbarer Aussichtspunkt in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.70036,
+                        14.866702
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraGraciosa",
+                  "text": "Miradouro MiraGraciosa ist ein reizvoller Aussichtspunkt in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.72366,
+                        14.858211
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miradouro Santa Maria",
+                  "text": "A Miradouro Santa Maria egy kilátó Nova Sintrában.",
+                  "category": "natural",
+                  "coords": [
+                        -24.691019,
+                        14.872773
+                  ]
+            },
+            {
+                  "name": "Miradouro Mato Grande",
+                  "text": "A Miradouro Mato Grande panorámás kilátást nyújt Nova Sintrában.",
+                  "category": "natural",
+                  "coords": [
+                        -24.686238,
+                        14.863618
+                  ]
+            },
+            {
+                  "name": "Miradouro de Cutelo Mentira",
+                  "text": "A Miradouro de Cutelo Mentira egy népszerű kilátó Nova Sintrában.",
+                  "category": "natural",
+                  "coords": [
+                        -24.695977,
+                        14.872526
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraBeleza",
+                  "text": "A Miradouro MiraBeleza egy festői kilátópont Nova Sintrában.",
+                  "category": "natural",
+                  "coords": [
+                        -24.71479,
+                        14.866154
+                  ]
+            },
+            {
+                  "name": "Miradouro de Mato Grande",
+                  "text": "A Miradouro de Mato Grande egy csodálatos kilátó Nova Sintrában.",
+                  "category": "natural",
+                  "coords": [
+                        -24.70036,
+                        14.866702
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraGraciosa",
+                  "text": "A Miradouro MiraGraciosa egy festői megfigyelőpont Nova Sintrában.",
+                  "category": "natural",
+                  "coords": [
+                        -24.72366,
+                        14.858211
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miradouro Santa Maria",
+                  "text": "Miradouro Santa Maria este un punct de belvedere în Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.691019,
+                        14.872773
+                  ]
+            },
+            {
+                  "name": "Miradouro Mato Grande",
+                  "text": "Miradouro Mato Grande oferă vederi panoramice în Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.686238,
+                        14.863618
+                  ]
+            },
+            {
+                  "name": "Miradouro de Cutelo Mentira",
+                  "text": "Miradouro de Cutelo Mentira este un punct de belvedere popular din Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.695977,
+                        14.872526
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraBeleza",
+                  "text": "Miradouro MiraBeleza este un punct de belvedere pitoresc situat în Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.71479,
+                        14.866154
+                  ]
+            },
+            {
+                  "name": "Miradouro de Mato Grande",
+                  "text": "Miradouro de Mato Grande este un minunat punct de belvedere în Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.70036,
+                        14.866702
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraGraciosa",
+                  "text": "Miradouro MiraGraciosa este un punct de observație pitoresc în Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.72366,
+                        14.858211
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miradouro Santa Maria",
+                  "text": "Miradouro Santa Maria is a scenic viewpoint in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.691019,
+                        14.872773
+                  ]
+            },
+            {
+                  "name": "Miradouro Mato Grande",
+                  "text": "Miradouro Mato Grande offers panoramic views in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.686238,
+                        14.863618
+                  ]
+            },
+            {
+                  "name": "Miradouro de Cutelo Mentira",
+                  "text": "Miradouro de Cutelo Mentira is a popular viewpoint in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.695977,
+                        14.872526
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraBeleza",
+                  "text": "Miradouro MiraBeleza is a picturesque viewpoint located in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.71479,
+                        14.866154
+                  ]
+            },
+            {
+                  "name": "Miradouro de Mato Grande",
+                  "text": "Miradouro de Mato Grande is a wonderful viewpoint in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.70036,
+                        14.866702
+                  ]
+            },
+            {
+                  "name": "Miradouro MiraGraciosa",
+                  "text": "Miradouro MiraGraciosa is a scenic observation point in Nova Sintra.",
+                  "category": "natural",
+                  "coords": [
+                        -24.72366,
+                        14.858211
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-BR", coords: [-24.7, 14.8667], name: {de: "Nova Sintra", hu: "Nova Sintra", ro: "Nova Sintra", en: "Nova Sintra"},
     image: "/poi-images/nova-sintra-cities-v2.webp", description: {de: "Nova Sintra ist der Hauptort der Insel Brava und gilt als eine der schönsten Städte Kap Verdes.", hu: "Nova Sintra Brava szigetének fo települése, a Zöld-foki Köztársaság egyik legszebb városának tartják.", ro: "Nova Sintra este a?ezarea principala de pe insula Brava ?i este considerata unul dintre cele mai frumoase ora?e din Capul Verde.", en: "Nova Sintra is the main town of Brava island and is considered one of the most beautiful towns in Cape Verde.", es: "Nova Sintra es la capital de la isla de Brava y está considerada una de las ciudades más bellas de Cabo Verde.", pt: "Nova Sintra é a capital da ilha Brava e é considerada uma das cidades mais bonitas de Cabo Verde.", fr: "Nova Sintra est le chef-lieu de l'île de Brava et est considérée comme l'une des plus belles villes du Cap-Vert."}, facts: {de: ["Bekannt als die 'Blumenstadt' des Archipels", "Geprägt durch europäische Architekturstile", "Liegt oft in einem mystischen Nebel", "Benannt nach der Stadt Sintra in Portugal"], hu: ["A szigetcsoport 'virágvárosaként' ismert", "Európai építészeti stílusok jellemzik", "Gyakran misztikus ködbe burkolózik", "A portugáliai Sintra városáról kapta a nevét"], ro: ["Cunoscut sub numele de 'Orașul Florilor' din arhipelag", "Caracterizat prin stiluri arhitecturale europene", "Adesea învaluit într-o cea?a mistica", "Numit dupa orașul Sintra din Portugalia"], en: ["Known as the 'Flower City' of the archipelago", "Characterized by European architectural styles", "Often shrouded in a mystical mist", "Named after the town of Sintra in Portugal"], es: ["Conocida como la 'Ciudad de las Flores' del archipiélago", "Caracterizada por estilos arquitectónicos europeos", "A menudo envuelta en una niebla mística", "Llamada así por la ciudad de Sintra en Portugal"], pt: ["Conhecida como a 'Cidade das Flores' do arquipélago", "Caracterizada por estilos arquitetónicos europeus", "Frequentemente envolta em nevoeiro místico", "Nomeada em homenagem à cidade de Sintra, em Portugal"], fr: ["Connue comme la 'Ville des Fleurs' de l'archipel", "Marquée par des styles architecturaux européens", "Souvent plongée dans une brume mystique", "Nommée d'après la ville de Sintra au Portugal"]}, image: "/poi-images/nova-sintra-cities-v2.webp",
     descriptionAdvanced: {
       de: "Nova Sintra ist die Hauptstadt der Insel Brava und gilt als eine der schönsten Städte Kap Verdes. Sie liegt auf einer Hochebene in etwa 500 Metern Höhe und ist nach der portugiesischen Stadt Sintra benannt, was auf ihre üppigen Gärten und das neblige, kühle Klima anspielt. Die Architektur ist durch elegante Kolonialhäuser, die sogenannten „Sobrados“, und gepflasterte Straßen geprägt, die der Stadt ein europäisches Flair verleihen. Ein zentraler kultureller Anlaufpunkt ist das Denkmal für den berühmten kapverdischen Dichter Eugénio Tavares, der hier lebte und die traditionelle Morna-Musik maßgeblich beeinflusste. Geografisch ist die Stadt oft in Passatwolken gehüllt, was das Wachstum von Blumen wie Hibiskus und Bougainvillea begünstigt und ihr den Beinamen „Gartenstadt“ eingebracht hat. Nova Sintra ist das administrative und kulturelle Herz der kleinsten bewohnten Insel des Archipels und bewahrt eine Atmosphäre von Ruhe und aristokratischer Vergangenheit.",
@@ -941,7 +5792,304 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Nommée d'après la ville portugaise de Sintra.", "Lieu de naissance du célèbre poète capverdien Eugénio Tavares.", "Considérée comme l'une des villes les plus propres de l'archipel.", "Principal centre commercial pour les produits agricoles de l'île.", "Pas de liaison aérienne directe, accessible uniquement par ferry.", "Importante église Igreja de São João Baptista au centre-ville."],
     },
   },
-  {id: "porto-ingles-cities-v2", type: "city", parent: "CV-MA", coords: [-23.2167, 15.1333], name: {de: "Porto Inglês", hu: "Porto Inglês", ro: "Porto Inglês", en: "Porto Inglês"},
+  {id: "porto-ingles-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forte de São José",
+                  "text": "Das Forte de São José ist eine historische Festung in Porto Inglês.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Praia da Vila",
+                  "text": "Praia da Vila ist ein Strand in Porto Inglês.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.215524,
+                        15.140183
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "Praia de Ponta Preta ist ein Strand in Porto Inglês.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203044,
+                        15.126177
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "Die Casa L. A. Cardoso ist ein Gebäude in Porto Inglês.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137374
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "Montinho de Lume ist ein Aussichtspunkt in Porto Inglês.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210012,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Centro do Mergulho AAA Maio Plongée",
+                  "text": "Das Diving Center AAA Maio Plongée bietet Tauchgänge in Porto Inglês an.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "Der Miradouro de Praia de Ponta Preta ist ein Aussichtspunkt in Porto Inglês.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "Sóis sete luas ist ein Kulturzentrum in Porto Inglês.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte de São José",
+                  "text": "A Forte de São José egy történelmi erőd Porto Inglês városában.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Praia da Vila",
+                  "text": "A Praia da Vila egy strand Porto Inglês városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.215524,
+                        15.140183
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "A Praia de Ponta Preta egy strand Porto Inglês városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203044,
+                        15.126177
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "A Casa L. A. Cardoso egy épület Porto Inglês városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137374
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "A Montinho de Lume egy kilátópont Porto Inglês városában.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210012,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Centro do Mergulho AAA Maio Plongée",
+                  "text": "A Diving Center AAA Maio Plongée búvárkodást kínál Porto Inglês városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "A Miradouro de Praia de Ponta Preta egy kilátópont Porto Inglês városában.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "A Sóis sete luas egy kulturális központ Porto Inglês városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte de São José",
+                  "text": "Forte de São José este o fortăreață istorică în Porto Inglês.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Praia da Vila",
+                  "text": "Praia da Vila este o plajă în Porto Inglês.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.215524,
+                        15.140183
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "Praia de Ponta Preta este o plajă în Porto Inglês.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203044,
+                        15.126177
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "Casa L. A. Cardoso este o clădire în Porto Inglês.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137374
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "Montinho de Lume este un punct de belvedere în Porto Inglês.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210012,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Centro do Mergulho AAA Maio Plongée",
+                  "text": "Diving Center AAA Maio Plongée oferă scufundări în Porto Inglês.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "Miradouro de Praia de Ponta Preta este un punct de belvedere în Porto Inglês.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "Sóis sete luas este un centru cultural în Porto Inglês.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forte de São José",
+                  "text": "The Forte de São José is a historical fortress in Porto Inglês.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Praia da Vila",
+                  "text": "Praia da Vila is a beach in Porto Inglês.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.215524,
+                        15.140183
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "Praia de Ponta Preta is a beach in Porto Inglês.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203044,
+                        15.126177
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "The Casa L. A. Cardoso is a building in Porto Inglês.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137374
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "Montinho de Lume is a viewpoint in Porto Inglês.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210012,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Diving Center AAA Maio Plongée",
+                  "text": "The Diving Center AAA Maio Plongée offers diving in Porto Inglês.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "The Miradouro de Praia de Ponta Preta is a viewpoint in Porto Inglês.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "Sóis sete luas is a cultural centre in Porto Inglês.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-MA", coords: [-23.2167, 15.1333], name: {de: "Porto Inglês", hu: "Porto Inglês", ro: "Porto Inglês", en: "Porto Inglês"},
     image: "/poi-images/porto-ingles-cities-v2.webp", description: {de: "Porto Inglês ist der Hauptort der Insel Maio und bekannt für seine Ruhe.", hu: "Porto Inglês Maio szigetének fo települése, nyugalmáról ismert.", ro: "Porto Inglês este principala a?ezare de pe insula Maio ?i este cunoscuta pentru liniștea sa.", en: "Porto Inglês is the main town of Maio island and is known for its tranquility.", es: "Porto Inglês es la capital de la isla de Maio y es conocida por su tranquilidad.", pt: "Porto Inglês é a capital da ilha do Maio e é conhecida pela sua tranquilidade.", fr: "Porto Inglês est le chef-lieu de l'île de Maio et est connu pour son calme."}, facts: {de: ["Verfügt über weite, weiße Sandstrände", "Wichtiger Ort für die Geschichte des Salzexports", "Beherbergt eine markante koloniale Kirche", "Besitzt einen kleinen Hafen und Flughafen"], hu: ["Hatalmas, fehér homokos strandokkal rendelkezik", "Fontos helyszín a sóexport történetében", "Itt található egy jellegzetes gyarmati templom", "Kis kikötovel és repülotérrel rendelkezik"], ro: ["Are plaje vaste cu nisip alb", "Loc important pentru istoria exportului de sare", "Gazduiește o biserica coloniala distinctiva", "Are un port mic ?i un aeroport"], en: ["Has vast, white sandy beaches", "Important place for the history of salt export", "Home to a striking colonial church", "Has a small harbor and airport"], es: ["Cuenta con amplias playas de arena blanca", "Lugar importante para la historia de la exportación de sal", "Alberga una destacada iglesia colonial", "Posee un pequeño puerto y aeropuerto"], pt: ["Possui amplas praias de areia branca", "Local importante para a história da exportação de sal", "Abriga uma igreja colonial marcante", "Possui um pequeno porto e aeroporto"], fr: ["Dispose de vastes plages de sable blanc", "Lieu important pour l'histoire de l'exportation du sel", "Abrite une église coloniale remarquable", "Possède un petit port et un aéroport"]}, image: "/poi-images/porto-ingles-cities-v2.webp",
     descriptionAdvanced: {
       de: "Porto Inglês, heute offiziell als Cidade do Maio bekannt, ist die Hauptstadt der Insel Maio und ein Ort mit tiefer historischer Bedeutung. Die Stadt wurde im 16. Jahrhundert gegründet und verdankt ihren ursprünglichen Namen den britischen Handelsschiffen, die hier Salz für den Export nach Europa und Amerika luden. Ein wichtiges architektonisches Denkmal ist das „Forte de São José“, das im 18. Jahrhundert zum Schutz des Salzhandels und der Bevölkerung vor Piraten errichtet wurde. Die Stadt zeichnet sich durch breite Straßen, farbenfrohe Häuser und die imposante Kirche Nossa Senhora da Luz aus, die das Stadtbild dominiert. Geografisch liegt Porto Inglês an der Südwestküste der Insel und bietet Zugang zu einigen der längsten und unberührtesten Sandstrände Kap Verdes. Die lokale Wirtschaft stützt sich heute auf die Fischerei, den handwerklichen Salzabbau und den aufkommenden Tourismus, wobei der Ort seinen entspannten, dörflichen Charakter bewahrt hat.",
@@ -983,7 +6131,304 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Deuxième plus grande agglomération de l'île de Maio.", "Site majeur pour la pêche artisanale traditionnelle.", "Dispose d'un port naturel petit mais protégé.", "Accès à la route circulaire principale de l'île.", "L'économie locale repose presque exclusivement sur la mer.", "Réputé pour l'exportation de poisson séché vers les autres îles."],
     },
   },
-  {id: "barreiro-cities-v2", type: "city", parent: "CV-MA", coords: [-23.2167, 15.15], name: {de: "Barreiro", hu: "Barreiro", ro: "Barreiro", en: "Barreiro"},
+  {id: "barreiro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forte de São José",
+                  "text": "Das Forte de São José ist eine historische Burganlage in Barreiro.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Praia da Vila",
+                  "text": "Praia da Vila ist ein charmanter Strand in Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.215524,
+                        15.140183
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "Praia de Ponta Preta ist ein einladender Strand in Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203044,
+                        15.126177
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "Die Casa L. A. Cardoso ist eine bekannte Attraktion in Barreiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137374
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "Montinho de Lume ist ein schöner Aussichtspunkt in Barreiro.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210012,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Centro do Mergulho AAA Maio Plongée",
+                  "text": "Das Diving Center AAA Maio Plongée ist eine beliebte Tauchattraktion in Barreiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "Miradouro de Praia de Ponta Preta bietet eine tolle Aussicht auf den Strand in Barreiro.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "Sóis sete luas ist ein Kultur- und Kunstzentrum in Barreiro.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte de São José",
+                  "text": "A Forte de São José egy történelmi vár Barreiróban.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Praia da Vila",
+                  "text": "A Praia da Vila egy hangulatos tengerpart Barreiróban.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.215524,
+                        15.140183
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "A Praia de Ponta Preta egy hívogató strand Barreiróban.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203044,
+                        15.126177
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "A Casa L. A. Cardoso egy figyelemre méltó látványosság Barreiróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137374
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "A Montinho de Lume egy gyönyörű kilátó Barreiróban.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210012,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Centro do Mergulho AAA Maio Plongée",
+                  "text": "A Diving Center AAA Maio Plongée egy népszerű búvárlétesítmény Barreiróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "A Miradouro de Praia de Ponta Preta nagyszerű kilátást nyújt a tengerpartra Barreiróban.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "A Sóis sete luas egy kulturális és művészeti központ Barreiróban.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte de São José",
+                  "text": "Forte de São José este un castel istoric situat în Barreiro.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Praia da Vila",
+                  "text": "Praia da Vila este o plajă fermecătoare situată în Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.215524,
+                        15.140183
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "Praia de Ponta Preta este o plajă primitoare situată în Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203044,
+                        15.126177
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "Casa L. A. Cardoso este o atracție notabilă situată în Barreiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137374
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "Montinho de Lume este un punct de belvedere frumos în Barreiro.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210012,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Centro do Mergulho AAA Maio Plongée",
+                  "text": "Diving Center AAA Maio Plongée este o atracție populară pentru scufundări în Barreiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "Miradouro de Praia de Ponta Preta oferă vederi pitorești spre plaja din Barreiro.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "Sóis sete luas este un centru de arte și cultură situat în Barreiro.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forte de São José",
+                  "text": "Forte de São José is a historical castle structure located in Barreiro.",
+                  "category": "castle",
+                  "coords": [
+                        -23.212457,
+                        15.136546
+                  ]
+            },
+            {
+                  "name": "Praia da Vila",
+                  "text": "Praia da Vila is a charming beach situated in Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.215524,
+                        15.140183
+                  ]
+            },
+            {
+                  "name": "Praia de Ponta Preta",
+                  "text": "Praia de Ponta Preta is an inviting beach located in Barreiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -23.203044,
+                        15.126177
+                  ]
+            },
+            {
+                  "name": "Casa L. A. Cardoso",
+                  "text": "Casa L. A. Cardoso is a notable attraction located in Barreiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.2111,
+                        15.137374
+                  ]
+            },
+            {
+                  "name": "Montinho de Lume",
+                  "text": "Montinho de Lume is a beautiful viewpoint overlooking Barreiro.",
+                  "category": "natural",
+                  "coords": [
+                        -23.210012,
+                        15.144539
+                  ]
+            },
+            {
+                  "name": "Diving Center AAA Maio Plongée",
+                  "text": "Diving Center AAA Maio Plongée is a popular diving attraction in Barreiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.214602,
+                        15.140007
+                  ]
+            },
+            {
+                  "name": "Miradouro de Praia de Ponta Preta",
+                  "text": "Miradouro de Praia de Ponta Preta offers scenic views of the beach in Barreiro.",
+                  "category": "natural",
+                  "coords": [
+                        -23.205818,
+                        15.126836
+                  ]
+            },
+            {
+                  "name": "Sóis sete luas",
+                  "text": "Sóis sete luas is a cultural arts centre situated in Barreiro.",
+                  "category": "cultural",
+                  "coords": [
+                        -23.212667,
+                        15.138784
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-MA", coords: [-23.2167, 15.15], name: {de: "Barreiro", hu: "Barreiro", ro: "Barreiro", en: "Barreiro"},
     image: "/poi-images/barreiro-cities-v2.webp", description: {de: "Barreiro ist ein Vorort von Porto Inglês mit ländlichem Charakter.", hu: "Barreiro Porto Inglês egyik külvárosa, vidéki jelleggel.", ro: "Barreiro este o suburbie a orașului Porto Inglês, cu caracter rural.", en: "Barreiro is a suburb of Porto Inglês with a rural character.", es: "Barreiro es un suburbio de Porto Inglês con carácter rural.", pt: "Barreiro é um subúrbio de Porto Inglês com carácter rural.", fr: "Barreiro est une banlieue de Porto Inglês au caractère rural."}, facts: {de: ["Gelegen in der Nähe des Inselflughafens", "Bunte Wohnhäuser prägen das Bild", "Wichtiger Ort für lokale Landwirtschaft", "Tor zum südlichen Teil der Insel"], hu: ["A sziget repüloterének közelében található", "Színes lakóházak jellemzik a látképet", "A helyi mezogazdaság fontos helyszíne", "Kapu a sziget déli részéhez"], ro: ["Situat lânga aeroportul insulei", "Casele colorate definesc imaginea", "Loc important pentru agricultura locala", "Poarta catre partea de sud a insulei"], en: ["Located near the island's airport", "Colorful houses define the image", "Important place for local agriculture", "Gateway to the southern part of the island"], es: ["Situado cerca del aeropuerto de la isla", "Casas coloridas caracterizan la imagen", "Lugar importante para la agricultura local", "Puerta de entrada a la parte sur de la isla"], pt: ["Situado perto do aeroporto da ilha", "Casas coloridas caracterizam a paisagem", "Local importante para a agricultura local", "Porta de entrada para a parte sul da ilha"], fr: ["Situé à proximité de l'aéroport de l'île", "Maisons colorées marquant le paysage", "Lieu important pour l'agriculture locale", "Porte d'entrée de la partie sud de l'île"]}, image: "/poi-images/barreiro-cities-v2.webp",
     descriptionAdvanced: {
       de: "Barreiro ist ein beschauliches Dorf im südlichen Landesinneren der Insel Maio, nur wenige Kilometer von der Hauptstadt Porto Inglês entfernt. Die Siedlung liegt in einer flachen, trockenen Landschaft, die durch die für Maio typischen Sandböden und Akazienbäume geprägt ist. Historisch gesehen war Barreiro eng mit der Landwirtschaft und der Viehzucht verbunden, da die Region trotz der Trockenheit über einige fruchtbare Flächen verfügt. Die Architektur ist schlicht und funktional, bestehend aus traditionellen Steinhäusern und neueren Betonbauten, die oft in leuchtenden Farben gestrichen sind. Aufgrund seiner Nähe zum Flughafen der Insel und zur Hauptstadt dient der Ort als wichtiger Verbindungspunkt für die lokale Bevölkerung. Kulturell pflegt Barreiro die traditionellen Feste der Insel, bei denen Musik und Tanz eine zentrale Rolle spielen. Die Ruhe und die Weite der Umgebung machen Barreiro zu einem typischen Beispiel für das Leben im Hinterland von Maio, das von Beständigkeit und Gemeinschaftssinn geprägt ist.",
@@ -1004,7 +6449,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Situé sur la route entre Porto Inglês et Figueira.", "Centre d'élevage de chèvres et de porcs sur Maio.", "Marqué par une architecture simple en pierre colorée.", "Halte de ravitaillement importante pour les randonneurs.", "La population est principalement composée de familles élargies.", "Le climat est extrêmement sec et chaud toute l'année."],
     },
   },
-  {id: "figueira-da-horta-cities-v2", type: "city", parent: "CV-MA", coords: [-23.1833, 15.2], name: {de: "Figueira da Horta", hu: "Figueira da Horta", ro: "Figueira da Horta", en: "Figueira da Horta"},
+  {id: "figueira-da-horta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Batalha",
+                  "text": "Monte Batalha ist ein markanter Berg bei Figueira da Horta.",
+                  "category": "natural",
+                  "coords": [
+                        -23.185889,
+                        15.201912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Batalha",
+                  "text": "A Monte Batalha egy jellegzetes hegy Figueira da Horta közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -23.185889,
+                        15.201912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Batalha",
+                  "text": "Monte Batalha este un munte proeminent lângă Figueira da Horta.",
+                  "category": "natural",
+                  "coords": [
+                        -23.185889,
+                        15.201912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Batalha",
+                  "text": "Monte Batalha is a prominent mountain near Figueira da Horta.",
+                  "category": "natural",
+                  "coords": [
+                        -23.185889,
+                        15.201912
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-MA", coords: [-23.1833, 15.2], name: {de: "Figueira da Horta", hu: "Figueira da Horta", ro: "Figueira da Horta", en: "Figueira da Horta"},
     image: "/poi-images/figueira-da-horta-cities-v2.webp", description: {de: "Figueira da Horta ist ein landwirtschaftliches Zentrum auf der Insel Maio.", hu: "Figueira da Horta egy mezogazdasági központ Maio szigetén.", ro: "Figueira da Horta este un centru agricol de pe insula Maio.", en: "Figueira da Horta is an agricultural center on Maio island.", es: "Figueira da Horta es un centro agrícola en la isla de Maio.", pt: "Figueira da Horta é um centro agrícola na ilha do Maio.", fr: "Figueira da Horta est un centre agricole sur l'île de Maio."}, facts: {de: ["Zentrum der Gemüseproduktion auf der Insel", "Bekannt für seine traditionellen Brunnen", "Geprägt durch fruchtbare Gartenflächen", "Wichtiger Lieferant für den lokalen Markt"], hu: ["A sziget zöldségtermelésének központja", "Hagyományos kútjairól ismert", "Termékeny kertterületek jellemzik", "A helyi piac fontos beszállítója"], ro: ["Centrul producției de legume de pe insula", "Cunoscut pentru fântânile sale tradiționale", "Caracterizat prin suprafe?e de gradina fertile", "Furnizor important pentru pia?a locala"], en: ["Center of vegetable production on the island", "Known for its traditional wells", "Characterized by fertile garden areas", "Important supplier for the local market"], es: ["Centro de producción de hortalizas en la isla", "Conocido por sus pozos tradicionales", "Caracterizado por huertos fértiles", "Importante proveedor para el mercado local"], pt: ["Centro da produção de legumes na ilha", "Conhecido pelos seus poços tradicionais", "Marcado por áreas de cultivo férteis", "Fornecedor importante para o mercado local"], fr: ["Centre de production maraîchère de l'île", "Connu pour ses puits traditionnels", "Caractérisé par des jardins potagers fertiles", "Fournisseur important pour le marché local"]}, image: "/poi-images/figueira-da-horta-cities-v2.webp",
     descriptionAdvanced: {
       de: "Figueira da Horta ist ein kleines, ländliches Dorf im südlichen Teil der Insel Maio, das für seine agrarwirtschaftliche Ausrichtung bekannt ist. Der Name des Ortes deutet auf die einstige Präsenz von Feigenbäumen und bewässerten Gärten (Hortas) hin, die in dieser trockenen Region einen wertvollen Lebensraum schufen. Die Siedlung liegt in einer leicht hügeligen Ebene, die durch vulkanische Böden und vereinzelte Baumbestände geprägt ist. Die Bewohner von Figueira da Horta praktizieren traditionell eine Mischform aus Ackerbau und Viehzucht, wobei sie sich an die begrenzten Wasserressourcen der Insel angepasst haben. Die Architektur ist schlicht, mit kleinen Häusern aus lokalem Stein oder verputztem Mauerwerk, die sich um zentrale Plätze gruppieren. Trotz der Abgeschiedenheit ist das Dorf ein wichtiger Bestandteil der Kulturlandschaft von Maio und bewahrt überlieferte Praktiken der Landnutzung. Besucher schätzen die authentische Ruhe und den Einblick in die ursprüngliche Lebensweise der Inselbewohner fernab der touristischen Zentren.",
@@ -1025,7 +6515,52 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       fr: ["Le nom signifie 'Figuier du Jardin'", "Situé au nord-est de la capitale de l'île, Porto Inglês", "Possède plusieurs puits artésiens à usage agricole", "Centre de culture du maïs et des haricots pendant la saison des pluies", "Des fêtes de récolte traditionnelles ont lieu chaque année au village", "Appartient administrativement à la municipalité de Maio"],
     },
   },
-  {id: "cascabulho-cities-v2", type: "city", parent: "CV-MA", coords: [-23.1333, 15.2167], name: {de: "Cascabulho", hu: "Cascabulho", ro: "Cascabulho", en: "Cascabulho"},
+  {id: "cascabulho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Penoso",
+                  "text": "Monte Penoso ist ein markanter Gipfel in Cascabulho. Er ist als der höchste Punkt der Insel Maio bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        -23.13008,
+                        15.227823
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Penoso",
+                  "text": "A Monte Penoso egy kiemelkedő hegycsúcs Cascabulhóban. Maio szigetének legmagasabb pontjaként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -23.13008,
+                        15.227823
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Penoso",
+                  "text": "Monte Penoso este un vârf proeminent situat în Cascabulho. Este cunoscut ca fiind cel mai înalt punct de pe insula Maio.",
+                  "category": "natural",
+                  "coords": [
+                        -23.13008,
+                        15.227823
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Penoso",
+                  "text": "Monte Penoso is a prominent peak located in Cascabulho. It is known as the highest point on the island of Maio.",
+                  "category": "natural",
+                  "coords": [
+                        -23.13008,
+                        15.227823
+                  ]
+            }
+      ]
+}, type: "city", parent: "CV-MA", coords: [-23.1333, 15.2167], name: {de: "Cascabulho", hu: "Cascabulho", ro: "Cascabulho", en: "Cascabulho"},
     image: "/poi-images/cascabulho-cities-v2.webp", description: {de: "Cascabulho ist eine kleine Siedlung im Norden der Insel Maio.", hu: "Cascabulho egy kis település Maio szigetének északi részén.", ro: "Cascabulho este o mica a?ezare în nordul insulei Maio.", en: "Cascabulho is a small settlement in the north of Maio island.", es: "Cascabulho es un pequeño asentamiento en el norte de la isla de Maio.", pt: "Cascabulho é um pequeno assentamento no norte da ilha do Maio.", fr: "Cascabulho est un petit établissement situé au nord de l'île de Maio."}, facts: {de: ["Gelegen in einer weiten, trockenen Landschaft", "Traditionelle Viehzucht bestimmt den Alltag", "Ruheort abseits der touristischen Pfade", "Bietet einen Blick auf die karge Schönheit der Insel"], hu: ["Hatalmas, száraz tájon fekszik", "A hagyományos állattenyésztés határozza meg a mindennapokat", "Nyugodt hely a turisztikai útvonalakon kívül", "Betekintést nyújt a sziget kopár szépségébe"], ro: ["Situat într-un peisaj vast ?i uscat", "Creșterea tradiționala a animalelor determina viața de zi cu zi", "Loc de liniște în afara traseelor turistice", "Ofera o privire asupra frumuse?ii aride a insulei"], en: ["Located in a vast, dry landscape", "Traditional livestock farming shapes daily life", "Quiet place off the tourist tracks", "Offers a view of the island's barren beauty"], es: ["Situado en un paisaje amplio y seco", "La ganadería tradicional marca la vida cotidiana", "Lugar de descanso alejado de los senderos turísticos", "Ofrece una vista de la belleza árida de la isla"], pt: ["Situado numa paisagem vasta e seca", "A pecuária tradicional domina o dia-a-dia", "Local de repouso fora dos trilhos turísticos", "Oferece uma vista da beleza árida da ilha"], fr: ["Situé dans un vaste paysage sec", "L'élevage traditionnel rythme le quotidien", "Lieu de repos à l'écart des sentiers touristiques", "Offre un aperçu de la beauté aride de l'île"]}, image: "/poi-images/cascabulho-cities-v2.webp",
     descriptionAdvanced: {
       de: "Cascabulho ist eine abgelegene Siedlung im Norden der Insel Maio, die für ihre raue Schönheit und ihre traditionelle Lebensweise bekannt ist. Der Ort liegt in einer weitläufigen, halbwüstenartigen Ebene, die im Norden an die unberührten Küstenabschnitte des Atlantiks grenzt. Aufgrund der isolierten Lage haben die Bewohner eine starke Autarkie entwickelt, wobei die Viehzucht – insbesondere Ziegen und Rinder – sowie der Kleinfeldbau die wichtigsten Wirtschaftszweige darstellen. Die Landschaft um Cascabulho ist geprägt von weiten Flächen mit Akazienbewuchs und vulkanischen Formationen, die ein markantes Panorama bieten. Die Architektur des Dorfes ist funktional und besteht aus einfachen, oft bunt gestrichenen Steinhäusern, die dem trockenen Klima trotzen. In den letzten Jahren hat der Ort durch seine Nähe zu geschützten Naturgebieten und den Schildkrötennistplätzen an der Nordküste an Bedeutung für den Ökoturismus gewonnen. Cascabulho verkörpert die wilde, ungezähmte Seite der Insel Maio und bewahrt einen Lebensrhythmus, der eng mit den Elementen der Natur verbunden ist.",

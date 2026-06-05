@@ -41,7 +41,376 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "ganja-cities-v2",
+    id: "ganja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tarixşünaslıq Muzeyi",
+                  "text": "Das Historische Museum ist eine kulturelle Einrichtung, die historische Gegenstände in Gandscha ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        46.358071,
+                        40.680504
+                  ]
+            },
+            {
+                  "name": "Fikrət Əmirov adına Gəncə Dövlət Filarmoniyası",
+                  "text": "Die nach Fikret Amirov benannte staatliche Philharmonie von Gandscha ist ein bedeutendes Theater in Gandscha.",
+                  "category": "cultural",
+                  "coords": [
+                        46.358146,
+                        40.676638
+                  ]
+            },
+            {
+                  "name": "Kukla Teatrı",
+                  "text": "Kukla Teatrı ist ein Puppentheater in Gandscha.",
+                  "category": "cultural",
+                  "coords": [
+                        46.360785,
+                        40.670222
+                  ]
+            },
+            {
+                  "name": "Dram Teatr",
+                  "text": "Dram Teatr ist ein Schauspielhaus in Gandscha.",
+                  "category": "cultural",
+                  "coords": [
+                        46.361785,
+                        40.671492
+                  ]
+            },
+            {
+                  "name": "Aleksandr Nevski kilsəsi",
+                  "text": "Die Alexander-Newski-Kirche ist ein historisches orthodoxes Gotteshaus und eine Attraktion in Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.356458,
+                        40.67928
+                  ]
+            },
+            {
+                  "name": "Butulka ev",
+                  "text": "Das Flaschenhaus ist eine einzigartige architektonische Attraktion in der Stadt Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.355692,
+                        40.681722
+                  ]
+            },
+            {
+                  "name": "Dəyirman dairəsi",
+                  "text": "Der Dayirman-Kreis ist ein anerkanntes Denkmal in Gandscha.",
+                  "category": "historical",
+                  "coords": [
+                        46.373298,
+                        40.697492
+                  ]
+            },
+            {
+                  "name": "NEON",
+                  "text": "NEON ist ein besonderes Windmühlengebäude in Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.374591,
+                        40.675781
+                  ]
+            },
+            {
+                  "name": "Xan bağı",
+                  "text": "Xan bağı ist ein öffentlicher Park und eine beliebte Attraktion in Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.354026,
+                        40.676361
+                  ]
+            },
+            {
+                  "name": "Karvansaray",
+                  "text": "Das Karvansaray ist ein altes Herrenhaus und historisches Gebäude in Gandscha.",
+                  "category": "historical",
+                  "coords": [
+                        46.360934,
+                        40.678925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tarixşünaslıq Muzeyi",
+                  "text": "A Történeti Múzeum egy kulturális létesítmény, amely történelmi tárgyakat mutat be Gandschában.",
+                  "category": "museum",
+                  "coords": [
+                        46.358071,
+                        40.680504
+                  ]
+            },
+            {
+                  "name": "Fikrət Əmirov adına Gəncə Dövlət Filarmoniyası",
+                  "text": "A Fikret Amirovról elnevezett Gandzsai Állami Filharmónia egy jelentős színház Gandschában.",
+                  "category": "cultural",
+                  "coords": [
+                        46.358146,
+                        40.676638
+                  ]
+            },
+            {
+                  "name": "Kukla Teatrı",
+                  "text": "A Kukla Teatrı egy bábszínház, amely Gandschában található.",
+                  "category": "cultural",
+                  "coords": [
+                        46.360785,
+                        40.670222
+                  ]
+            },
+            {
+                  "name": "Dram Teatr",
+                  "text": "A Dram Teatr egy drámai művészeti színház, amely Gandschában működik.",
+                  "category": "cultural",
+                  "coords": [
+                        46.361785,
+                        40.671492
+                  ]
+            },
+            {
+                  "name": "Aleksandr Nevski kilsəsi",
+                  "text": "Az Alekszandr Nyevszkij-templom egy történelmi ortodox templom és látványosság Gandschában.",
+                  "category": "landmark",
+                  "coords": [
+                        46.356458,
+                        40.67928
+                  ]
+            },
+            {
+                  "name": "Butulka ev",
+                  "text": "Az Üvegház egy egyedülálló építészeti látványosság Gandscha városában.",
+                  "category": "landmark",
+                  "coords": [
+                        46.355692,
+                        40.681722
+                  ]
+            },
+            {
+                  "name": "Dəyirman dairəsi",
+                  "text": "A Dayirman-kör egy elismert emlékmű, amely Gandschában található.",
+                  "category": "historical",
+                  "coords": [
+                        46.373298,
+                        40.697492
+                  ]
+            },
+            {
+                  "name": "NEON",
+                  "text": "A NEON egy különálló szélmalomépület, amely Gandschában található.",
+                  "category": "landmark",
+                  "coords": [
+                        46.374591,
+                        40.675781
+                  ]
+            },
+            {
+                  "name": "Xan bağı",
+                  "text": "A Xan bağı egy nyilvános park és népszerű látványosság Gandschában.",
+                  "category": "landmark",
+                  "coords": [
+                        46.354026,
+                        40.676361
+                  ]
+            },
+            {
+                  "name": "Karvansaray",
+                  "text": "A Karvansaray egy régi udvarház és történelmi épület Gandschában.",
+                  "category": "historical",
+                  "coords": [
+                        46.360934,
+                        40.678925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tarixşünaslıq Muzeyi",
+                  "text": "Muzeul de Istorie este o facilitate culturală care expune obiecte istorice în Gandscha.",
+                  "category": "museum",
+                  "coords": [
+                        46.358071,
+                        40.680504
+                  ]
+            },
+            {
+                  "name": "Fikrət Əmirov adına Gəncə Dövlət Filarmoniyası",
+                  "text": "Filarmonica de Stat din Ganja, numită după Fikret Amirov, este un teatru semnificativ din Gandscha.",
+                  "category": "cultural",
+                  "coords": [
+                        46.358146,
+                        40.676638
+                  ]
+            },
+            {
+                  "name": "Kukla Teatrı",
+                  "text": "Kukla Teatrı este un teatru de păpuși situat în Gandscha.",
+                  "category": "cultural",
+                  "coords": [
+                        46.360785,
+                        40.670222
+                  ]
+            },
+            {
+                  "name": "Dram Teatr",
+                  "text": "Dram Teatr este un teatru de artă dramatică ce funcționează în Gandscha.",
+                  "category": "cultural",
+                  "coords": [
+                        46.361785,
+                        40.671492
+                  ]
+            },
+            {
+                  "name": "Aleksandr Nevski kilsəsi",
+                  "text": "Biserica Alexandru Nevski este o biserică ortodoxă istorică și o atracție proeminentă în Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.356458,
+                        40.67928
+                  ]
+            },
+            {
+                  "name": "Butulka ev",
+                  "text": "Casa de sticle este o atracție arhitecturală unică în orașul Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.355692,
+                        40.681722
+                  ]
+            },
+            {
+                  "name": "Dəyirman dairəsi",
+                  "text": "Cercul Dayirman este un monument recunoscut situat în Gandscha.",
+                  "category": "historical",
+                  "coords": [
+                        46.373298,
+                        40.697492
+                  ]
+            },
+            {
+                  "name": "NEON",
+                  "text": "NEON este o moară de vânt distinctă situată în Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.374591,
+                        40.675781
+                  ]
+            },
+            {
+                  "name": "Xan bağı",
+                  "text": "Xan bağı este un parc public și o atracție populară în Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.354026,
+                        40.676361
+                  ]
+            },
+            {
+                  "name": "Karvansaray",
+                  "text": "Karvansaray este un vechi conac și o clădire istorică din Gandscha.",
+                  "category": "historical",
+                  "coords": [
+                        46.360934,
+                        40.678925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of History",
+                  "text": "The Museum of History is a cultural facility displaying historical items in Gandscha.",
+                  "category": "museum",
+                  "coords": [
+                        46.358071,
+                        40.680504
+                  ]
+            },
+            {
+                  "name": "Gandja State Philharmonic Hall named after Fikret Amirov",
+                  "text": "The Gandja State Philharmonic Hall named after Fikret Amirov is a significant theatre in Gandscha.",
+                  "category": "cultural",
+                  "coords": [
+                        46.358146,
+                        40.676638
+                  ]
+            },
+            {
+                  "name": "Kukla Teatrı",
+                  "text": "Kukla Teatrı is a puppet theatre located in Gandscha.",
+                  "category": "cultural",
+                  "coords": [
+                        46.360785,
+                        40.670222
+                  ]
+            },
+            {
+                  "name": "Dram Teatr",
+                  "text": "Dram Teatr is a dramatic arts theatre operating in Gandscha.",
+                  "category": "cultural",
+                  "coords": [
+                        46.361785,
+                        40.671492
+                  ]
+            },
+            {
+                  "name": "Alexander Nevski Church",
+                  "text": "The Alexander Nevski Church is a prominent orthodox church and attraction in Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.356458,
+                        40.67928
+                  ]
+            },
+            {
+                  "name": "Bottle house",
+                  "text": "The Bottle house is a unique architectural attraction in the city of Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.355692,
+                        40.681722
+                  ]
+            },
+            {
+                  "name": "Dayirman circle",
+                  "text": "The Dayirman circle is a recognized monument situated in Gandscha.",
+                  "category": "historical",
+                  "coords": [
+                        46.373298,
+                        40.697492
+                  ]
+            },
+            {
+                  "name": "NEON",
+                  "text": "NEON is a distinct windmill structure located in Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.374591,
+                        40.675781
+                  ]
+            },
+            {
+                  "name": "Xan bağı",
+                  "text": "Xan bağı is a public park and popular attraction in Gandscha.",
+                  "category": "landmark",
+                  "coords": [
+                        46.354026,
+                        40.676361
+                  ]
+            },
+            {
+                  "name": "Karvansaray",
+                  "text": "The Karvansaray is an old manor and historical building in Gandscha.",
+                  "category": "historical",
+                  "coords": [
+                        46.360934,
+                        40.678925
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-GA",
     coords: [46.3606, 40.6828],
@@ -85,7 +454,988 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "sumqayit-cities-v2",
+    id: "sumqayit-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ərəblinski adına Musiqili Dram Teatrı",
+                  "text": "Das Musikalische und Dramatische Theater Arablinski ist ein Veranstaltungsort in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66928,
+                        40.596716
+                  ]
+            },
+            {
+                  "name": "Tarix Muzeyi Sumqayıt",
+                  "text": "Das Tarix Muzeyi Sumqayıt ist ein historisches Museum in Sumqayıt.",
+                  "category": "museum",
+                  "coords": [
+                        49.678081,
+                        40.580665
+                  ]
+            },
+            {
+                  "name": "Fun World uşaq əyləncə",
+                  "text": "Fun World in Sumqayıt ist ein lokaler Freizeitpark, der Unterhaltung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        49.690527,
+                        40.574528
+                  ]
+            },
+            {
+                  "name": "Yay Teatrı",
+                  "text": "Yay Teatrı ist ein Theater in der Stadt Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.682578,
+                        40.600487
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Das Heydar Aliyev Zentrum ist ein kulturelles Museum in Sumqayıt.",
+                  "category": "museum",
+                  "coords": [
+                        49.687462,
+                        40.576372
+                  ]
+            },
+            {
+                  "name": "Kimyaçılar Sarayı",
+                  "text": "Das Kimyaçılar Sarayı dient als Theater in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.681418,
+                        40.578527
+                  ]
+            },
+            {
+                  "name": "Uşaq meydançası",
+                  "text": "Uşaq meydançası ist ein Freizeitpark für Kinder in Sumqayıt.",
+                  "category": "recreational",
+                  "coords": [
+                        49.681675,
+                        40.598436
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ Kimyaçılar qəsəbəsi",
+                  "text": "Dieses Mədəniyyət Evi in der Siedlung Kimyaçılar fungiert als lokales Theater in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.645033,
+                        40.606104
+                  ]
+            },
+            {
+                  "name": "28 May Mədəniyyət Evi",
+                  "text": "28 May Mədəniyyət Evi ist ein kulturelles Theater in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.666916,
+                        40.581093
+                  ]
+            },
+            {
+                  "name": "Karusel",
+                  "text": "Karusel ist eine Freizeitparkattraktion in Sumqayıt.",
+                  "category": "recreational",
+                  "coords": [
+                        49.678636,
+                        40.597605
+                  ]
+            },
+            {
+                  "name": "Bayraq Muzeyi \\ Suçqayıt",
+                  "text": "Das Bayraq Muzeyi ist ein Museum in der Gegend von Sumqayıt.",
+                  "category": "museum",
+                  "coords": [
+                        49.687702,
+                        40.588317
+                  ]
+            },
+            {
+                  "name": "Atraksionlar",
+                  "text": "Atraksionlar ist ein Freizeitpark mit Fahrgeschäften und Unterhaltung in Sumqayıt.",
+                  "category": "recreational",
+                  "coords": [
+                        49.685695,
+                        40.592226
+                  ]
+            },
+            {
+                  "name": "Yeni Bulvar",
+                  "text": "Yeni Bulvar ist ein markanter Küstenpark mit Promenade am Kaspischen Meer in Sumqayıt.",
+                  "category": "park",
+                  "coords": [
+                        49.68424,
+                        40.594913
+                  ]
+            },
+            {
+                  "name": "Lüdviqshafen parkı",
+                  "text": "Lüdviqshafen parkı ist ein öffentlicher Park in Sumqayıt, der nach seiner deutschen Partnerstadt benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        49.681306,
+                        40.574081
+                  ]
+            },
+            {
+                  "name": "Memarlıq və Dizayn",
+                  "text": "Memarlıq və Dizayn dient als Kunstzentrum mit Schwerpunkt auf Architektur und Design in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.668085,
+                        40.596006
+                  ]
+            },
+            {
+                  "name": "Fotoatelye",
+                  "text": "Fotoatelye fungiert als Zentrum für Fotokunst in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.667623,
+                        40.595018
+                  ]
+            },
+            {
+                  "name": "Muğam Evi",
+                  "text": "Muğam Evi ist ein Kunstzentrum in Sumqayıt, das traditioneller Musik gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        49.663561,
+                        40.593356
+                  ]
+            },
+            {
+                  "name": "Nərimanov adına Mədəniyyət Evi",
+                  "text": "Nərimanov adına Mədəniyyət Evi ist ein gemeinschaftliches Kunstzentrum in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66814,
+                        40.58856
+                  ]
+            },
+            {
+                  "name": "Röyal abidə",
+                  "text": "Röyal abidə ist ein öffentliches Denkmal in Sumqayıt.",
+                  "category": "historical",
+                  "coords": [
+                        49.692425,
+                        40.573254
+                  ]
+            },
+            {
+                  "name": "Cəlil Məmmədquluzadə heykəli",
+                  "text": "Cəlil Məmmədquluzadə heykəli ist ein Gedenkmonument in Sumqayıt.",
+                  "category": "historical",
+                  "coords": [
+                        49.687799,
+                        40.581666
+                  ]
+            },
+            {
+                  "name": "2 saylı Musiqi Məktəbi",
+                  "text": "2 saylı Musiqi Məktəbi fungiert als Musik- und Kunstzentrum in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.679325,
+                        40.572006
+                  ]
+            },
+            {
+                  "name": "Ziqzaq Avtotəmir",
+                  "text": "Ziqzaq Avtotəmir ist ein lokaler Anlaufpunkt in Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.662359,
+                        40.586929
+                  ]
+            },
+            {
+                  "name": "İcra Dairəsi",
+                  "text": "İcra Dairəsi ist als lokale Attraktion in Sumqayıt bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.671158,
+                        40.59637
+                  ]
+            },
+            {
+                  "name": "Körpü Park Sumqayıt",
+                  "text": "Körpü Park Sumqayıt ist ein beliebter lokaler Park und eine Attraktion in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.67792,
+                        40.595767
+                  ]
+            },
+            {
+                  "name": "Avtovağzal Dairəsi",
+                  "text": "Avtovağzal Dairəsi ist ein bekannter Ort und eine Attraktion in Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.664743,
+                        40.586823
+                  ]
+            },
+            {
+                  "name": "Qubatlı İcra Dairəsi \\ Kottec Sumqayıt",
+                  "text": "Qubatlı İcra Dairəsi im Gebiet Kottec ist eine Attraktion in Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.651762,
+                        40.593439
+                  ]
+            },
+            {
+                  "name": "Əşya Bazarı Dairəsi",
+                  "text": "Əşya Bazarı Dairəsi ist eine bemerkenswerte lokale Attraktion in Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.659679,
+                        40.591566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ərəblinski adına Musiqili Dram Teatrı",
+                  "text": "Az Arablinszki Zenés Drámai Színház egy előadó-művészeti helyszín Sumqayıtban.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66928,
+                        40.596716
+                  ]
+            },
+            {
+                  "name": "Tarix Muzeyi Sumqayıt",
+                  "text": "A Tarix Muzeyi Sumqayıt egy történelmi múzeum Sumqayıt városában.",
+                  "category": "museum",
+                  "coords": [
+                        49.678081,
+                        40.580665
+                  ]
+            },
+            {
+                  "name": "Fun World uşaq əyləncə",
+                  "text": "A sumqayıti Fun World egy helyi vidámpark, amely szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        49.690527,
+                        40.574528
+                  ]
+            },
+            {
+                  "name": "Yay Teatrı",
+                  "text": "A Yay Teatrı egy színház Sumqayıt városában.",
+                  "category": "cultural",
+                  "coords": [
+                        49.682578,
+                        40.600487
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "A Heydar Aliyev Központ egy kulturális múzeum Sumqayıtban.",
+                  "category": "museum",
+                  "coords": [
+                        49.687462,
+                        40.576372
+                  ]
+            },
+            {
+                  "name": "Kimyaçılar Sarayı",
+                  "text": "A Kimyaçılar Sarayı színházként működik Sumqayıtban.",
+                  "category": "cultural",
+                  "coords": [
+                        49.681418,
+                        40.578527
+                  ]
+            },
+            {
+                  "name": "Uşaq meydançası",
+                  "text": "Az Uşaq meydançası egy gyermekek számára kialakított vidámpark Sumqayıtban.",
+                  "category": "recreational",
+                  "coords": [
+                        49.681675,
+                        40.598436
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ Kimyaçılar qəsəbəsi",
+                  "text": "Ez a Mədəniyyət Evi a Kimyaçılar településen helyi színházként működik Sumqayıtban.",
+                  "category": "cultural",
+                  "coords": [
+                        49.645033,
+                        40.606104
+                  ]
+            },
+            {
+                  "name": "28 May Mədəniyyət Evi",
+                  "text": "A 28 May Mədəniyyət Evi egy kulturális színházi helyszín Sumqayıtban.",
+                  "category": "cultural",
+                  "coords": [
+                        49.666916,
+                        40.581093
+                  ]
+            },
+            {
+                  "name": "Karusel",
+                  "text": "A Karusel egy vidámparki látványosság Sumqayıtban.",
+                  "category": "recreational",
+                  "coords": [
+                        49.678636,
+                        40.597605
+                  ]
+            },
+            {
+                  "name": "Bayraq Muzeyi \\ Suçqayıt",
+                  "text": "A Bayraq Muzeyi egy múzeum Sumqayıt térségében.",
+                  "category": "museum",
+                  "coords": [
+                        49.687702,
+                        40.588317
+                  ]
+            },
+            {
+                  "name": "Atraksionlar",
+                  "text": "Az Atraksionlar egy vidámpark Sumqayıtban, amely körhintákat és szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        49.685695,
+                        40.592226
+                  ]
+            },
+            {
+                  "name": "Yeni Bulvar",
+                  "text": "A Yeni Bulvar egy kiemelkedő tengerparti park és sétány a Kaszpi-tenger mentén Sumqayıtban.",
+                  "category": "park",
+                  "coords": [
+                        49.68424,
+                        40.594913
+                  ]
+            },
+            {
+                  "name": "Lüdviqshafen parkı",
+                  "text": "A Lüdviqshafen parkı egy nyilvános park Sumqayıtban, amelyet német testvérvárosáról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        49.681306,
+                        40.574081
+                  ]
+            },
+            {
+                  "name": "Memarlıq və Dizayn",
+                  "text": "A Memarlıq və Dizayn egy építészetre és dizájnra fókuszáló művészeti központ Sumqayıtban.",
+                  "category": "cultural",
+                  "coords": [
+                        49.668085,
+                        40.596006
+                  ]
+            },
+            {
+                  "name": "Fotoatelye",
+                  "text": "A Fotoatelye fotóművészeti központként működik Sumqayıtban.",
+                  "category": "cultural",
+                  "coords": [
+                        49.667623,
+                        40.595018
+                  ]
+            },
+            {
+                  "name": "Muğam Evi",
+                  "text": "A Muğam Evi egy hagyományos zenének szentelt művészeti központ Sumqayıtban.",
+                  "category": "cultural",
+                  "coords": [
+                        49.663561,
+                        40.593356
+                  ]
+            },
+            {
+                  "name": "Nərimanov adına Mədəniyyət Evi",
+                  "text": "A Nərimanov adına Mədəniyyət Evi egy közösségi művészeti központ Sumqayıtban.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66814,
+                        40.58856
+                  ]
+            },
+            {
+                  "name": "Röyal abidə",
+                  "text": "A Röyal abidə egy köztéri emlékmű Sumqayıtban.",
+                  "category": "historical",
+                  "coords": [
+                        49.692425,
+                        40.573254
+                  ]
+            },
+            {
+                  "name": "Cəlil Məmmədquluzadə heykəli",
+                  "text": "A Cəlil Məmmədquluzadə heykəli egy emlékmű Sumqayıt városában.",
+                  "category": "historical",
+                  "coords": [
+                        49.687799,
+                        40.581666
+                  ]
+            },
+            {
+                  "name": "2 saylı Musiqi Məktəbi",
+                  "text": "A 2 saylı Musiqi Məktəbi zenei és művészeti központként működik Sumqayıtban.",
+                  "category": "cultural",
+                  "coords": [
+                        49.679325,
+                        40.572006
+                  ]
+            },
+            {
+                  "name": "Ziqzaq Avtotəmir",
+                  "text": "A Ziqzaq Avtotəmir egy helyi érdekeltségű pont Sumqayıtban.",
+                  "category": "landmark",
+                  "coords": [
+                        49.662359,
+                        40.586929
+                  ]
+            },
+            {
+                  "name": "İcra Dairəsi",
+                  "text": "Az İcra Dairəsi egy ismert helyi látványosság Sumqayıtban.",
+                  "category": "landmark",
+                  "coords": [
+                        49.671158,
+                        40.59637
+                  ]
+            },
+            {
+                  "name": "Körpü Park Sumqayıt",
+                  "text": "A Körpü Park Sumqayıt a város egyik népszerű helyi parkja és látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        49.67792,
+                        40.595767
+                  ]
+            },
+            {
+                  "name": "Avtovağzal Dairəsi",
+                  "text": "Az Avtovağzal Dairəsi egy jól ismert hely és látványosság Sumqayıtban.",
+                  "category": "landmark",
+                  "coords": [
+                        49.664743,
+                        40.586823
+                  ]
+            },
+            {
+                  "name": "Qubatlı İcra Dairəsi \\ Kottec Sumqayıt",
+                  "text": "A Kottec területén található Qubatlı İcra Dairəsi egy látványosság Sumqayıtban.",
+                  "category": "landmark",
+                  "coords": [
+                        49.651762,
+                        40.593439
+                  ]
+            },
+            {
+                  "name": "Əşya Bazarı Dairəsi",
+                  "text": "Az Əşya Bazarı Dairəsi egy jelentős helyi látványosság Sumqayıtban.",
+                  "category": "landmark",
+                  "coords": [
+                        49.659679,
+                        40.591566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ərəblinski adına Musiqili Dram Teatrı",
+                  "text": "Teatrul Dramatic și Muzical Arablinski este o instituție de spectacole în Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66928,
+                        40.596716
+                  ]
+            },
+            {
+                  "name": "Tarix Muzeyi Sumqayıt",
+                  "text": "Tarix Muzeyi Sumqayıt este un muzeu istoric situat în Sumqayıt.",
+                  "category": "museum",
+                  "coords": [
+                        49.678081,
+                        40.580665
+                  ]
+            },
+            {
+                  "name": "Fun World uşaq əyləncə",
+                  "text": "Fun World din Sumqayıt este un parc tematic local care oferă divertisment.",
+                  "category": "recreational",
+                  "coords": [
+                        49.690527,
+                        40.574528
+                  ]
+            },
+            {
+                  "name": "Yay Teatrı",
+                  "text": "Yay Teatrı este un teatru situat în orașul Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.682578,
+                        40.600487
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Centrul Heydar Aliyev este un muzeu cultural din Sumqayıt.",
+                  "category": "museum",
+                  "coords": [
+                        49.687462,
+                        40.576372
+                  ]
+            },
+            {
+                  "name": "Kimyaçılar Sarayı",
+                  "text": "Kimyaçılar Sarayı funcționează ca un teatru în Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.681418,
+                        40.578527
+                  ]
+            },
+            {
+                  "name": "Uşaq meydançası",
+                  "text": "Uşaq meydançası este un parc tematic destinat copiilor din Sumqayıt.",
+                  "category": "recreational",
+                  "coords": [
+                        49.681675,
+                        40.598436
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ Kimyaçılar qəsəbəsi",
+                  "text": "Această Mədəniyyət Evi din așezarea Kimyaçılar funcționează ca teatru local în Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.645033,
+                        40.606104
+                  ]
+            },
+            {
+                  "name": "28 May Mədəniyyət Evi",
+                  "text": "28 May Mədəniyyət Evi este o instituție culturală și teatrală în Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.666916,
+                        40.581093
+                  ]
+            },
+            {
+                  "name": "Karusel",
+                  "text": "Karusel este o atracție de parc tematic situată în Sumqayıt.",
+                  "category": "recreational",
+                  "coords": [
+                        49.678636,
+                        40.597605
+                  ]
+            },
+            {
+                  "name": "Bayraq Muzeyi \\ Suçqayıt",
+                  "text": "Bayraq Muzeyi este un muzeu situat în zona Sumqayıt.",
+                  "category": "museum",
+                  "coords": [
+                        49.687702,
+                        40.588317
+                  ]
+            },
+            {
+                  "name": "Atraksionlar",
+                  "text": "Atraksionlar este un parc tematic care oferă curse și divertisment în Sumqayıt.",
+                  "category": "recreational",
+                  "coords": [
+                        49.685695,
+                        40.592226
+                  ]
+            },
+            {
+                  "name": "Yeni Bulvar",
+                  "text": "Yeni Bulvar este un parc de coastă și o promenadă proeminentă de-a lungul Mării Caspice în Sumqayıt.",
+                  "category": "park",
+                  "coords": [
+                        49.68424,
+                        40.594913
+                  ]
+            },
+            {
+                  "name": "Lüdviqshafen parkı",
+                  "text": "Lüdviqshafen parkı este un parc public din Sumqayıt numit după orașul său înfrățit din Germania.",
+                  "category": "park",
+                  "coords": [
+                        49.681306,
+                        40.574081
+                  ]
+            },
+            {
+                  "name": "Memarlıq və Dizayn",
+                  "text": "Memarlıq și Dizayn servește ca centru de arte axat pe arhitectură și design în Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.668085,
+                        40.596006
+                  ]
+            },
+            {
+                  "name": "Fotoatelye",
+                  "text": "Fotoatelye funcționează ca un centru de arte fotografice în Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.667623,
+                        40.595018
+                  ]
+            },
+            {
+                  "name": "Muğam Evi",
+                  "text": "Muğam Evi este un centru de arte din Sumqayıt dedicat muzicii tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        49.663561,
+                        40.593356
+                  ]
+            },
+            {
+                  "name": "Nərimanov adına Mədəniyyət Evi",
+                  "text": "Nərimanov adına Mədəniyyət Evi este un centru comunitar de arte în Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66814,
+                        40.58856
+                  ]
+            },
+            {
+                  "name": "Röyal abidə",
+                  "text": "Röyal abidə este un monument public situat în Sumqayıt.",
+                  "category": "historical",
+                  "coords": [
+                        49.692425,
+                        40.573254
+                  ]
+            },
+            {
+                  "name": "Cəlil Məmmədquluzadə heykəli",
+                  "text": "Cəlil Məmmədquluzadə heykəli este un monument memorial ridicat în Sumqayıt.",
+                  "category": "historical",
+                  "coords": [
+                        49.687799,
+                        40.581666
+                  ]
+            },
+            {
+                  "name": "2 saylı Musiqi Məktəbi",
+                  "text": "2 saylı Musiqi Məktəbi funcționează ca un centru de muzică și arte în Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.679325,
+                        40.572006
+                  ]
+            },
+            {
+                  "name": "Ziqzaq Avtotəmir",
+                  "text": "Ziqzaq Avtotəmir este un punct de interes local în Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.662359,
+                        40.586929
+                  ]
+            },
+            {
+                  "name": "İcra Dairəsi",
+                  "text": "İcra Dairəsi este recunoscut ca o atracție locală în Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.671158,
+                        40.59637
+                  ]
+            },
+            {
+                  "name": "Körpü Park Sumqayıt",
+                  "text": "Körpü Park Sumqayıt este un parc local popular și o atracție în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        49.67792,
+                        40.595767
+                  ]
+            },
+            {
+                  "name": "Avtovağzal Dairəsi",
+                  "text": "Avtovağzal Dairəsi este o locație bine-cunoscută și o atracție în Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.664743,
+                        40.586823
+                  ]
+            },
+            {
+                  "name": "Qubatlı İcra Dairəsi \\ Kottec Sumqayıt",
+                  "text": "Qubatlı İcra Dairəsi din zona Kottec este o atracție situată în Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.651762,
+                        40.593439
+                  ]
+            },
+            {
+                  "name": "Əşya Bazarı Dairəsi",
+                  "text": "Əşya Bazarı Dairəsi este o atracție locală notabilă în Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.659679,
+                        40.591566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arablinski Musical Dramatic Theatre",
+                  "text": "The Arablinski Musical Dramatic Theatre is a performing arts venue in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66928,
+                        40.596716
+                  ]
+            },
+            {
+                  "name": "Tarix Muzeyi Sumqayıt",
+                  "text": "Tarix Muzeyi Sumqayıt is a historical museum situated in Sumqayıt.",
+                  "category": "museum",
+                  "coords": [
+                        49.678081,
+                        40.580665
+                  ]
+            },
+            {
+                  "name": "Fun World \\ Sumqayıt",
+                  "text": "Fun World in Sumqayıt is a local theme park offering entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        49.690527,
+                        40.574528
+                  ]
+            },
+            {
+                  "name": "Yay Teatrı",
+                  "text": "Yay Teatrı is a theatre located in the city of Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.682578,
+                        40.600487
+                  ]
+            },
+            {
+                  "name": "Heydar Aliyev Centre",
+                  "text": "The Heydar Aliyev Centre is a cultural museum in Sumqayıt.",
+                  "category": "museum",
+                  "coords": [
+                        49.687462,
+                        40.576372
+                  ]
+            },
+            {
+                  "name": "Kimyaçılar Sarayı",
+                  "text": "Kimyaçılar Sarayı operates as a theatre in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.681418,
+                        40.578527
+                  ]
+            },
+            {
+                  "name": "Uşaq meydançası",
+                  "text": "Uşaq meydançası is a theme park designed for children in Sumqayıt.",
+                  "category": "recreational",
+                  "coords": [
+                        49.681675,
+                        40.598436
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi \\ Kimyaçılar qəsəbəsi",
+                  "text": "This Mədəniyyət Evi in the Kimyaçılar settlement acts as a local theatre in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.645033,
+                        40.606104
+                  ]
+            },
+            {
+                  "name": "28 May Mədəniyyət Evi",
+                  "text": "28 May Mədəniyyət Evi is a cultural theatre venue in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.666916,
+                        40.581093
+                  ]
+            },
+            {
+                  "name": "Karusel",
+                  "text": "Karusel is a theme park attraction located in Sumqayıt.",
+                  "category": "recreational",
+                  "coords": [
+                        49.678636,
+                        40.597605
+                  ]
+            },
+            {
+                  "name": "Bayraq Muzeyi \\ Suçqayıt",
+                  "text": "Bayraq Muzeyi is a museum located in the Sumqayıt area.",
+                  "category": "museum",
+                  "coords": [
+                        49.687702,
+                        40.588317
+                  ]
+            },
+            {
+                  "name": "Atraksionlar",
+                  "text": "Atraksionlar is a theme park offering rides and entertainment in Sumqayıt.",
+                  "category": "recreational",
+                  "coords": [
+                        49.685695,
+                        40.592226
+                  ]
+            },
+            {
+                  "name": "Yeni Bulvar",
+                  "text": "Yeni Bulvar is a prominent seaside park and promenade along the Caspian Sea in Sumqayıt.",
+                  "category": "park",
+                  "coords": [
+                        49.68424,
+                        40.594913
+                  ]
+            },
+            {
+                  "name": "Lüdviqshafen parkı",
+                  "text": "Lüdviqshafen parkı is a public park in Sumqayıt named after its German sister city.",
+                  "category": "park",
+                  "coords": [
+                        49.681306,
+                        40.574081
+                  ]
+            },
+            {
+                  "name": "Memarlıq və Dizayn",
+                  "text": "Memarlıq və Dizayn serves as an arts centre focusing on architecture and design in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.668085,
+                        40.596006
+                  ]
+            },
+            {
+                  "name": "Fotoatelye",
+                  "text": "Fotoatelye functions as a photographic arts centre in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.667623,
+                        40.595018
+                  ]
+            },
+            {
+                  "name": "Muğam Evi",
+                  "text": "Muğam Evi is an arts centre in Sumqayıt dedicated to traditional music.",
+                  "category": "cultural",
+                  "coords": [
+                        49.663561,
+                        40.593356
+                  ]
+            },
+            {
+                  "name": "Nərimanov adına Mədəniyyət Evi",
+                  "text": "Nərimanov adına Mədəniyyət Evi is a community arts centre in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.66814,
+                        40.58856
+                  ]
+            },
+            {
+                  "name": "Röyal abidə",
+                  "text": "Röyal abidə is a public monument located in Sumqayıt.",
+                  "category": "historical",
+                  "coords": [
+                        49.692425,
+                        40.573254
+                  ]
+            },
+            {
+                  "name": "Cəlil Məmmədquluzadə heykəli",
+                  "text": "Cəlil Məmmədquluzadə heykəli is a memorial monument erected in Sumqayıt.",
+                  "category": "historical",
+                  "coords": [
+                        49.687799,
+                        40.581666
+                  ]
+            },
+            {
+                  "name": "2 saylı Musiqi Məktəbi",
+                  "text": "2 saylı Musiqi Məktəbi operates as a music and arts centre in Sumqayıt.",
+                  "category": "cultural",
+                  "coords": [
+                        49.679325,
+                        40.572006
+                  ]
+            },
+            {
+                  "name": "Ziqzaq Avtotəmir",
+                  "text": "Ziqzaq Avtotəmir is a local point of interest in Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.662359,
+                        40.586929
+                  ]
+            },
+            {
+                  "name": "İcra Dairəsi",
+                  "text": "İcra Dairəsi is recognized as a local attraction in Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.671158,
+                        40.59637
+                  ]
+            },
+            {
+                  "name": "Körpü Park Sumqayıt",
+                  "text": "Körpü Park Sumqayıt is a popular local park and attraction in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        49.67792,
+                        40.595767
+                  ]
+            },
+            {
+                  "name": "Avtovağzal Dairəsi",
+                  "text": "Avtovağzal Dairəsi is a well-known location and attraction in Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.664743,
+                        40.586823
+                  ]
+            },
+            {
+                  "name": "Qubatlı İcra Dairəsi \\ Kottec Sumqayıt",
+                  "text": "Qubatlı İcra Dairəsi in the Kottec area is an attraction situated in Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.651762,
+                        40.593439
+                  ]
+            },
+            {
+                  "name": "Əşya Bazarı Dairəsi",
+                  "text": "Əşya Bazarı Dairəsi is a notable local attraction in Sumqayıt.",
+                  "category": "landmark",
+                  "coords": [
+                        49.659679,
+                        40.591566
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-SM",
     coords: [49.6685, 40.5897],
@@ -173,7 +1523,232 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "lankaran-cities-v2",
+    id: "lankaran-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xan evi",
+                  "text": "Das Haus des Mirakhmad Khan ist ein historischer Palast, der als Museum in Lənkəran dient.",
+                  "category": "museum",
+                  "coords": [
+                        48.8563,
+                        38.754163
+                  ]
+            },
+            {
+                  "name": "Lankaran",
+                  "text": "Der Leuchtturm von Lankaran ist ein markanter Navigationsturm, der der Küstenstadt Lənkəran dient.",
+                  "category": "landmark",
+                  "coords": [
+                        48.855347,
+                        38.759429
+                  ]
+            },
+            {
+                  "name": "Dairәvi Qala",
+                  "text": "Dairәvi Qala ist eine kreisförmige Burgruine in der Stadt Lənkəran.",
+                  "category": "castle",
+                  "coords": [
+                        48.856483,
+                        38.750859
+                  ]
+            },
+            {
+                  "name": "1 saylı Musiqi Məktəbi",
+                  "text": "1 saylı Musiqi Məktəbi ist ein Kunstzentrum in Lənkəran.",
+                  "category": "cultural",
+                  "coords": [
+                        48.85187,
+                        38.752983
+                  ]
+            },
+            {
+                  "name": "2 saylı Musiqi Kolleci",
+                  "text": "2 saylı Musiqi Kolleci ist ein Kunstzentrum in Lənkəran.",
+                  "category": "cultural",
+                  "coords": [
+                        48.857596,
+                        38.757535
+                  ]
+            },
+            {
+                  "name": "Böyük Bazar məscidi",
+                  "text": "Die Big Bazar Mosque ist eine Moschee in der Stadt Lənkəran.",
+                  "category": "religious",
+                  "coords": [
+                        48.847042,
+                        38.751577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xan evi",
+                  "text": "A Mirahmad kán háza egy történelmi palota, amely múzeumként működik Lənkəranban.",
+                  "category": "museum",
+                  "coords": [
+                        48.8563,
+                        38.754163
+                  ]
+            },
+            {
+                  "name": "Lankaran",
+                  "text": "A Lənkəran világítótorony egy kiemelkedő navigációs torony, amely Lənkəran tengerparti városát szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        48.855347,
+                        38.759429
+                  ]
+            },
+            {
+                  "name": "Dairәvi Qala",
+                  "text": "A Dairәvi Qala egy kör alakú kastélyépítmény Lənkəran városában.",
+                  "category": "castle",
+                  "coords": [
+                        48.856483,
+                        38.750859
+                  ]
+            },
+            {
+                  "name": "1 saylı Musiqi Məktəbi",
+                  "text": "Az 1 saylı Musiqi Məktəbi egy művészeti központ Lənkəranban.",
+                  "category": "cultural",
+                  "coords": [
+                        48.85187,
+                        38.752983
+                  ]
+            },
+            {
+                  "name": "2 saylı Musiqi Kolleci",
+                  "text": "A 2 saylı Musiqi Kolleci egy művészeti központ Lənkəranban.",
+                  "category": "cultural",
+                  "coords": [
+                        48.857596,
+                        38.757535
+                  ]
+            },
+            {
+                  "name": "Böyük Bazar məscidi",
+                  "text": "A Big Bazar Mosque egy mecset Lənkəran városában.",
+                  "category": "religious",
+                  "coords": [
+                        48.847042,
+                        38.751577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xan evi",
+                  "text": "Casa Mirakhmad Khan este un palat istoric care funcționează ca muzeu în Lənkəran.",
+                  "category": "museum",
+                  "coords": [
+                        48.8563,
+                        38.754163
+                  ]
+            },
+            {
+                  "name": "Lankaran",
+                  "text": "Farul din Lankaran este un turn de navigație proeminent care deservește orașul de coastă Lənkəran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.855347,
+                        38.759429
+                  ]
+            },
+            {
+                  "name": "Dairәvi Qala",
+                  "text": "Dairәvi Qala este o structură circulară de castel situată în orașul Lənkəran.",
+                  "category": "castle",
+                  "coords": [
+                        48.856483,
+                        38.750859
+                  ]
+            },
+            {
+                  "name": "1 saylı Musiqi Məktəbi",
+                  "text": "1 saylı Musiqi Məktəbi este un centru de artă în Lənkəran.",
+                  "category": "cultural",
+                  "coords": [
+                        48.85187,
+                        38.752983
+                  ]
+            },
+            {
+                  "name": "2 saylı Musiqi Kolleci",
+                  "text": "2 saylı Musiqi Kolleci este un centru de artă în Lənkəran.",
+                  "category": "cultural",
+                  "coords": [
+                        48.857596,
+                        38.757535
+                  ]
+            },
+            {
+                  "name": "Böyük Bazar məscidi",
+                  "text": "Big Bazar Mosque este o moschee din orașul Lənkəran.",
+                  "category": "religious",
+                  "coords": [
+                        48.847042,
+                        38.751577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirakhmad khan house",
+                  "text": "The Mirakhmad khan house is a historic palace functioning as a museum in Lənkəran.",
+                  "category": "museum",
+                  "coords": [
+                        48.8563,
+                        38.754163
+                  ]
+            },
+            {
+                  "name": "Lankaran",
+                  "text": "The Lankaran Lighthouse is a prominent navigation tower serving the coastal city of Lənkəran.",
+                  "category": "landmark",
+                  "coords": [
+                        48.855347,
+                        38.759429
+                  ]
+            },
+            {
+                  "name": "Dairәvi Qala",
+                  "text": "Dairәvi Qala is a circular castle structure located in the city of Lənkəran.",
+                  "category": "castle",
+                  "coords": [
+                        48.856483,
+                        38.750859
+                  ]
+            },
+            {
+                  "name": "1 saylı Musiqi Məktəbi",
+                  "text": "1 saylı Musiqi Məktəbi is an arts centre in Lənkəran.",
+                  "category": "cultural",
+                  "coords": [
+                        48.85187,
+                        38.752983
+                  ]
+            },
+            {
+                  "name": "2 saylı Musiqi Kolleci",
+                  "text": "2 saylı Musiqi Kolleci is an arts centre in Lənkəran.",
+                  "category": "cultural",
+                  "coords": [
+                        48.857596,
+                        38.757535
+                  ]
+            },
+            {
+                  "name": "Big Bazar Mosque",
+                  "text": "The Big Bazar Mosque is a mosque located in the city of Lənkəran.",
+                  "category": "religious",
+                  "coords": [
+                        48.847042,
+                        38.751577
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-LA",
     coords: [48.8511, 38.7539],
@@ -217,7 +1792,124 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "shirvan-cities-v2",
+    id: "shirvan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Mədəniyyət Evi fungiert als kulturelles Theater in Şirvan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.909321,
+                        39.933221
+                  ]
+            },
+            {
+                  "name": "Yay Teatrı",
+                  "text": "Yay Teatrı ist ein lokales Theater in Şirvan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.935788,
+                        39.955839
+                  ]
+            },
+            {
+                  "name": "Üç yol",
+                  "text": "Üç yol ist ein lokales Wahrzeichen und eine Attraktion in Şirvan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.896423,
+                        39.946465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "A Mədəniyyət Evi kulturális színházként működik Şirvanban.",
+                  "category": "cultural",
+                  "coords": [
+                        48.909321,
+                        39.933221
+                  ]
+            },
+            {
+                  "name": "Yay Teatrı",
+                  "text": "A Yay Teatrı egy helyi színház Şirvan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        48.935788,
+                        39.955839
+                  ]
+            },
+            {
+                  "name": "Üç yol",
+                  "text": "Az Üç yol egy helyi nevezetesség és látványosság Şirvanban.",
+                  "category": "landmark",
+                  "coords": [
+                        48.896423,
+                        39.946465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Mədəniyyət Evi funcționează ca un teatru cultural în Şirvan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.909321,
+                        39.933221
+                  ]
+            },
+            {
+                  "name": "Yay Teatrı",
+                  "text": "Yay Teatrı este o locație de teatru situată în Şirvan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.935788,
+                        39.955839
+                  ]
+            },
+            {
+                  "name": "Üç yol",
+                  "text": "Üç yol este un punct de reper local și o atracție în Şirvan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.896423,
+                        39.946465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Mədəniyyət Evi functions as a cultural theatre in Şirvan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.909321,
+                        39.933221
+                  ]
+            },
+            {
+                  "name": "Yay Teatrı",
+                  "text": "Yay Teatrı is a local theatre venue situated in Şirvan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.935788,
+                        39.955839
+                  ]
+            },
+            {
+                  "name": "Üç yol",
+                  "text": "Üç yol is a local landmark and attraction in Şirvan.",
+                  "category": "landmark",
+                  "coords": [
+                        48.896423,
+                        39.946465
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-SR",
     coords: [48.9167, 39.9333],
@@ -261,7 +1953,664 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "nakhchivan-cities-v2",
+    id: "nakhchivan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nuh Peyqəmbər Türbəsi",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.412649,
+                        39.19578
+                  ]
+            },
+            {
+                  "name": "Heidar-Alijew-Museum",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.406715,
+                        39.215298
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət sarayı",
+                  "text": "Theater in Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.40798,
+                        39.202815
+                  ]
+            },
+            {
+                  "name": "Geschichtsmuseum",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.412639,
+                        39.211404
+                  ]
+            },
+            {
+                  "name": "Teatr",
+                  "text": "Theater in Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.409787,
+                        39.215396
+                  ]
+            },
+            {
+                  "name": "Xan Sarayı",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.405347,
+                        39.203983
+                  ]
+            },
+            {
+                  "name": "Literaturmuseum von Nachitschewan",
+                  "text": "Literaturmuseum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.405732,
+                        39.213846
+                  ]
+            },
+            {
+                  "name": "Staatsflaggenmuseum",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.401386,
+                        39.221206
+                  ]
+            },
+            {
+                  "name": "Xatirə müzeyi",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.408529,
+                        39.201126
+                  ]
+            },
+            {
+                  "name": "Uşaq və Gənclik mərkəzi",
+                  "text": "Kunstzentrum in Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.411992,
+                        39.217343
+                  ]
+            },
+            {
+                  "name": "Hüseyn Cavid məqbərəsi",
+                  "text": "Kultureinrichtung in Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.412394,
+                        39.214612
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun məqbərəsi",
+                  "text": "Mausoleum in Nachitschewan.",
+                  "category": "historical",
+                  "coords": [
+                        45.406514,
+                        39.204884
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi",
+                  "text": "Kultureinrichtung in Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.408435,
+                        39.206305
+                  ]
+            },
+            {
+                  "name": "BABƏKİN ABIDƏSI . ПАМЯТНИК БАБЕКА",
+                  "text": "Denkmal in Nachitschewan.",
+                  "category": "historical",
+                  "coords": [
+                        45.40438,
+                        39.189368
+                  ]
+            },
+            {
+                  "name": "Dədə Qorqud abidəsi. Памятник Деде Горгуду",
+                  "text": "Das Dede-Qorqud-Denkmal in Nachitschewan erinnert an den legendären Helden aus dem Buch von Dede Korkut.",
+                  "category": "historical",
+                  "coords": [
+                        45.409538,
+                        39.209177
+                  ]
+            },
+            {
+                  "name": "Yusif Küseyir oğlu türbəsi",
+                  "text": "Das Yusif-Küseyir-oğlu-Mausoleum ist ein historisches Bauwerk in Nachitschewan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.414168,
+                        39.201801
+                  ]
+            },
+            {
+                  "name": "İlan Dağı Abidəsi",
+                  "text": "Das İlan-Dağı-Denkmal in Nachitschewan würdigt die markante Naturkulisse des Schlangenbergs.",
+                  "category": "historical",
+                  "coords": [
+                        45.43938,
+                        39.192282
+                  ]
+            },
+            {
+                  "name": "Mustafa Kemal Atatürk",
+                  "text": "Das Mustafa-Kemal-Atatürk-Denkmal in Nachitschewan ehrt den Gründer der modernen Türkei.",
+                  "category": "historical",
+                  "coords": [
+                        45.407058,
+                        39.212645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nuh Peyqəmbər Türbəsi",
+                  "text": "Múzeum Nahicsevánban.",
+                  "category": "museum",
+                  "coords": [
+                        45.412649,
+                        39.19578
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev muzeyi",
+                  "text": "Múzeum Nahicsevánban.",
+                  "category": "museum",
+                  "coords": [
+                        45.406715,
+                        39.215298
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət sarayı",
+                  "text": "Színház Nahicsevánban.",
+                  "category": "cultural",
+                  "coords": [
+                        45.40798,
+                        39.202815
+                  ]
+            },
+            {
+                  "name": "Tarix muzeyi",
+                  "text": "Múzeum Nahicsevánban.",
+                  "category": "museum",
+                  "coords": [
+                        45.412639,
+                        39.211404
+                  ]
+            },
+            {
+                  "name": "Teatr",
+                  "text": "Színház Nahicsevánban.",
+                  "category": "cultural",
+                  "coords": [
+                        45.409787,
+                        39.215396
+                  ]
+            },
+            {
+                  "name": "Xan Sarayı",
+                  "text": "Múzeum Nahicsevánban.",
+                  "category": "museum",
+                  "coords": [
+                        45.405347,
+                        39.203983
+                  ]
+            },
+            {
+                  "name": "Naxçıvan Muxtar Respublikası Ədəbiyyat Muzeyi",
+                  "text": "Irodalmi múzeum Nahicsevánban.",
+                  "category": "museum",
+                  "coords": [
+                        45.405732,
+                        39.213846
+                  ]
+            },
+            {
+                  "name": "State flag museum",
+                  "text": "Múzeum Nahicsevánban.",
+                  "category": "museum",
+                  "coords": [
+                        45.401386,
+                        39.221206
+                  ]
+            },
+            {
+                  "name": "Xatirə müzeyi",
+                  "text": "Múzeum Nahicsevánban.",
+                  "category": "museum",
+                  "coords": [
+                        45.408529,
+                        39.201126
+                  ]
+            },
+            {
+                  "name": "Uşaq və Gənclik mərkəzi",
+                  "text": "Művészeti központ Nahicsevánban.",
+                  "category": "cultural",
+                  "coords": [
+                        45.411992,
+                        39.217343
+                  ]
+            },
+            {
+                  "name": "Hüseyn Cavid məqbərəsi",
+                  "text": "Kulturális intézmény Nahicsevánban.",
+                  "category": "cultural",
+                  "coords": [
+                        45.412394,
+                        39.214612
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun məqbərəsi",
+                  "text": "Mauzóleum Nahicsevánban.",
+                  "category": "historical",
+                  "coords": [
+                        45.406514,
+                        39.204884
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi",
+                  "text": "Kulturális intézmény Nahicsevánban.",
+                  "category": "cultural",
+                  "coords": [
+                        45.408435,
+                        39.206305
+                  ]
+            },
+            {
+                  "name": "BABƏKİN ABIDƏSI . ПАМЯТНИК БАБЕКА",
+                  "text": "Emlékmű Nahicsevánban.",
+                  "category": "historical",
+                  "coords": [
+                        45.40438,
+                        39.189368
+                  ]
+            },
+            {
+                  "name": "Dədə Qorqud abidəsi. Памятник Деде Горгуду",
+                  "text": "A nahicseváni Dede Gorgud-emlékmű a Dede Korkut könyvének legendás hősére emlékezik.",
+                  "category": "historical",
+                  "coords": [
+                        45.409538,
+                        39.209177
+                  ]
+            },
+            {
+                  "name": "Yusif Küseyir oğlu türbəsi",
+                  "text": "A Juszif Kuszeyir oglu-mauzóleum egy történelmi építmény Nahicsevánban.",
+                  "category": "landmark",
+                  "coords": [
+                        45.414168,
+                        39.201801
+                  ]
+            },
+            {
+                  "name": "İlan Dağı Abidəsi",
+                  "text": "A nahicseváni Ilan-Dagi-emlékmű a Kígyó-hegy jellegzetes természeti látványának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        45.43938,
+                        39.192282
+                  ]
+            },
+            {
+                  "name": "Mustafa Kemal Atatürk",
+                  "text": "A nahicseváni Musztafa Kemál Atatürk-szobor a modern Törökország alapítója előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        45.407058,
+                        39.212645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nuh Peyqəmbər Türbəsi",
+                  "text": "Muzeu în Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.412649,
+                        39.19578
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev muzeyi",
+                  "text": "Muzeu în Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.406715,
+                        39.215298
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət sarayı",
+                  "text": "Teatru în Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.40798,
+                        39.202815
+                  ]
+            },
+            {
+                  "name": "Tarix muzeyi",
+                  "text": "Muzeu în Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.412639,
+                        39.211404
+                  ]
+            },
+            {
+                  "name": "Teatr",
+                  "text": "Teatru în Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.409787,
+                        39.215396
+                  ]
+            },
+            {
+                  "name": "Xan Sarayı",
+                  "text": "Muzeu în Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.405347,
+                        39.203983
+                  ]
+            },
+            {
+                  "name": "Naxçıvan Muxtar Respublikası Ədəbiyyat Muzeyi",
+                  "text": "Muzeu literar în Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.405732,
+                        39.213846
+                  ]
+            },
+            {
+                  "name": "State flag museum",
+                  "text": "Muzeu în Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.401386,
+                        39.221206
+                  ]
+            },
+            {
+                  "name": "Xatirə müzeyi",
+                  "text": "Muzeu în Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.408529,
+                        39.201126
+                  ]
+            },
+            {
+                  "name": "Uşaq və Gənclik mərkəzi",
+                  "text": "Centru de artă în Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.411992,
+                        39.217343
+                  ]
+            },
+            {
+                  "name": "Hüseyn Cavid məqbərəsi",
+                  "text": "Centru cultural în Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.412394,
+                        39.214612
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun məqbərəsi",
+                  "text": "Monument în Nachitschewan.",
+                  "category": "historical",
+                  "coords": [
+                        45.406514,
+                        39.204884
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi",
+                  "text": "Centru cultural în Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.408435,
+                        39.206305
+                  ]
+            },
+            {
+                  "name": "BABƏKİN ABIDƏSI . ПАМЯТНИК БАБЕКА",
+                  "text": "Monument în Nachitschewan.",
+                  "category": "historical",
+                  "coords": [
+                        45.40438,
+                        39.189368
+                  ]
+            },
+            {
+                  "name": "Dədə Qorqud abidəsi. Памятник Деде Горгуду",
+                  "text": "Monumentul Dede Gorgud din Nahicevan comemorează eroul legendar din Cartea lui Dede Korkut.",
+                  "category": "historical",
+                  "coords": [
+                        45.409538,
+                        39.209177
+                  ]
+            },
+            {
+                  "name": "Yusif Küseyir oğlu türbəsi",
+                  "text": "Mausoleul Yusif Küseyir oğlu este o structură istorică din Nahicevan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.414168,
+                        39.201801
+                  ]
+            },
+            {
+                  "name": "İlan Dağı Abidəsi",
+                  "text": "Monumentul İlan Dağı din Nahicevan onorează peisajul natural distinctiv al Muntelui Șarpelui.",
+                  "category": "historical",
+                  "coords": [
+                        45.43938,
+                        39.192282
+                  ]
+            },
+            {
+                  "name": "Mustafa Kemal Atatürk",
+                  "text": "Statuia Mustafa Kemal Atatürk din Nahicevan îl onorează pe fondatorul Turciei moderne.",
+                  "category": "historical",
+                  "coords": [
+                        45.407058,
+                        39.212645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Noah’s Mausoleum",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.412649,
+                        39.19578
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev muzeyi",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.406715,
+                        39.215298
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət sarayı",
+                  "text": "Theatre in Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.40798,
+                        39.202815
+                  ]
+            },
+            {
+                  "name": "Tarix muzeyi",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.412639,
+                        39.211404
+                  ]
+            },
+            {
+                  "name": "Teatr",
+                  "text": "Theatre in Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.409787,
+                        39.215396
+                  ]
+            },
+            {
+                  "name": "Xan Sarayı",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.405347,
+                        39.203983
+                  ]
+            },
+            {
+                  "name": "The Literature Museum of Nakhchivan",
+                  "text": "Literature museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.405732,
+                        39.213846
+                  ]
+            },
+            {
+                  "name": "State flag museum",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.401386,
+                        39.221206
+                  ]
+            },
+            {
+                  "name": "Xatirə müzeyi",
+                  "text": "Museum in Nachitschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.408529,
+                        39.201126
+                  ]
+            },
+            {
+                  "name": "Uşaq və Gənclik mərkəzi",
+                  "text": "Arts centre in Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.411992,
+                        39.217343
+                  ]
+            },
+            {
+                  "name": "Hüseyn Javid mausoleum",
+                  "text": "Arts centre in Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.412394,
+                        39.214612
+                  ]
+            },
+            {
+                  "name": "Möminə Xatun məqbərəsi",
+                  "text": "Monument in Nachitschewan.",
+                  "category": "historical",
+                  "coords": [
+                        45.406514,
+                        39.204884
+                  ]
+            },
+            {
+                  "name": "Gənclik Mərkəzi",
+                  "text": "Arts centre in Nachitschewan.",
+                  "category": "cultural",
+                  "coords": [
+                        45.408435,
+                        39.206305
+                  ]
+            },
+            {
+                  "name": "Babək abidəsi",
+                  "text": "Monument in Nachitschewan.",
+                  "category": "historical",
+                  "coords": [
+                        45.40438,
+                        39.189368
+                  ]
+            },
+            {
+                  "name": "Dədə Qorqud abidəsi. Памятник Деде Горгуду",
+                  "text": "The Dede Gorgud Monument in Nakhchivan commemorates the legendary hero from the Book of Dede Korkut.",
+                  "category": "historical",
+                  "coords": [
+                        45.409538,
+                        39.209177
+                  ]
+            },
+            {
+                  "name": "Yusif Küseyir oğlu türbəsi",
+                  "text": "The Yusif Küseyir oğlu Mausoleum is a historic structure in Nakhchivan.",
+                  "category": "landmark",
+                  "coords": [
+                        45.414168,
+                        39.201801
+                  ]
+            },
+            {
+                  "name": "İlan Dağı Abidəsi",
+                  "text": "The İlan Dağı Monument in Nakhchivan honors the distinctive natural landscape of the Snake Mountain.",
+                  "category": "historical",
+                  "coords": [
+                        45.43938,
+                        39.192282
+                  ]
+            },
+            {
+                  "name": "Mustafa Kemal Atatürk",
+                  "text": "The Mustafa Kemal Atatürk Monument in Nakhchivan honors the founder of modern Turkey.",
+                  "category": "historical",
+                  "coords": [
+                        45.407058,
+                        39.212645
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-NV",
     coords: [45.4122, 39.2089],
@@ -349,7 +2698,844 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "shaki-cities-v2",
+    id: "shaki-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Şəkixanovlar Ev Muzeyi",
+                  "text": "Der Shakikhanov (Winter) Palast ist ein historisches Wohnschloss in Şəki.",
+                  "category": "castle",
+                  "coords": [
+                        47.190309,
+                        41.202646
+                  ]
+            },
+            {
+                  "name": "Şəki Tarix-Diyarşünaslıq Muzeyi",
+                  "text": "Das Historische und Heimatmuseum von Shaki präsentiert die reiche regionale Geschichte von Şəki.",
+                  "category": "museum",
+                  "coords": [
+                        47.195733,
+                        41.203721
+                  ]
+            },
+            {
+                  "name": "Şəki Xan Sarayı",
+                  "text": "Der Shaki Khan Palast ist ein berühmtes Schloss in Şəki, das für seine prächtigen Buntglasfenster und Fresken bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        47.197592,
+                        41.204415
+                  ]
+            },
+            {
+                  "name": "Mirzə Fətəli Axundovun Ev Muzeyi",
+                  "text": "Das Hausmuseum von Mirza Fatali Akhundov in Şəki ist dem Leben des berühmten Schriftstellers gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        47.199161,
+                        41.202248
+                  ]
+            },
+            {
+                  "name": "Şəki Dram Teatrı",
+                  "text": "Das nach Sabit Rahman benannte Dramatheater von Shaki ist ein zentraler Theaterort in Şəki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.17586,
+                        41.198829
+                  ]
+            },
+            {
+                  "name": "Sabit Rəhmanın Ev Muzei",
+                  "text": "Das Hausmuseum von Sabit Rahman ist ein biografisches Museum in Şəki.",
+                  "category": "museum",
+                  "coords": [
+                        47.189,
+                        41.201621
+                  ]
+            },
+            {
+                  "name": "Əfəndiyevin Ev Muzei",
+                  "text": "Das Hausmuseum von Efendiev ist ein lokales Museum, das das regionale Erbe in Şəki bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        47.192055,
+                        41.199272
+                  ]
+            },
+            {
+                  "name": "Ömər Əfəndi məscidi",
+                  "text": "Die Omar-Efendi-Moschee ist eine bekannte historische religiöse Attraktion in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187766,
+                        41.200477
+                  ]
+            },
+            {
+                  "name": "Yuxarı Karvansara",
+                  "text": "Die Obere Karawanserei ist ein historisches Herrenhaus und ein ehemaliges Gasthaus in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.194062,
+                        41.200955
+                  ]
+            },
+            {
+                  "name": "Aşağı Karvansaray",
+                  "text": "Die Untere Karawanserei ist ein bedeutender historischer Herrenhauskomplex in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.191754,
+                        41.200653
+                  ]
+            },
+            {
+                  "name": "Three Saints Church in Sheki Fortress",
+                  "text": "Die Three Saints Church in Sheki Fortress ist eine Sehenswürdigkeit in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.196829,
+                        41.203402
+                  ]
+            },
+            {
+                  "name": "Musiqi kolleci",
+                  "text": "Musiqi kolleci ist ein Kunstzentrum in der Stadt Şəki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.178937,
+                        41.203144
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "Das 1941-1945 War Memorial and City Panorama ist ein lokales Denkmal in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.185713,
+                        41.198334
+                  ]
+            },
+            {
+                  "name": "At kirayə",
+                  "text": "Horse rental ist eine lokale Attraktion in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191152,
+                        41.195727
+                  ]
+            },
+            {
+                  "name": "Abdulxalq Hamamı",
+                  "text": "Abdulxalq Hamamı ist eine Touristenattraktion in der Stadt Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.179158,
+                        41.209007
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi məktəbi",
+                  "text": "3 saylı Musiqi məktəbi ist ein Kunstzentrum in Şəki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.163554,
+                        41.194595
+                  ]
+            },
+            {
+                  "name": "Yeraltı hamam 19-cu əsr",
+                  "text": "Das Underground bath 19th century ist ein historischer Herrensitz in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.181175,
+                        41.203012
+                  ]
+            },
+            {
+                  "name": "Albanlar hamamı 19-cu əsr",
+                  "text": "Aghvan's hammam 19th c. ist ein historisches Herrenhaus in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.189517,
+                        41.20049
+                  ]
+            },
+            {
+                  "name": "2-ci fabrikin binası 19-cu əsr",
+                  "text": "2-ci fabrikin binası 19-cu əsr ist ein historisches Herrenhaus in der Stadt Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.172758,
+                        41.189781
+                  ]
+            },
+            {
+                  "name": "Qışlaq hamamı 19-cu əsr",
+                  "text": "Qışlaq hamamı 19-cu əsr ist ein Herrensitz in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.171203,
+                        41.187288
+                  ]
+            },
+            {
+                  "name": "Şəki Körpü dairəsi",
+                  "text": "Şəki Körpü dairəsi ist eine lokale Sehenswürdigkeit in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.166361,
+                        41.206924
+                  ]
+            },
+            {
+                  "name": "Alban kilsəsi Calğalı bulaq",
+                  "text": "Die Albanian Church from XIX century ist eine Attraktion in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.174407,
+                        41.202227
+                  ]
+            },
+            {
+                  "name": "Bayraq Meydanı Şəki",
+                  "text": "Bayraq Meydanı Şəki ist eine beliebte Attraktion in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.158958,
+                        41.21037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Şəkixanovlar Ev Muzeyi",
+                  "text": "A Shakikhanov (téli) palota egy történelmi lakókastély Şəkiben.",
+                  "category": "castle",
+                  "coords": [
+                        47.190309,
+                        41.202646
+                  ]
+            },
+            {
+                  "name": "Şəki Tarix-Diyarşünaslıq Muzeyi",
+                  "text": "A Şəki Történeti és Helytörténeti Múzeum Şəki gazdag regionális történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        47.195733,
+                        41.203721
+                  ]
+            },
+            {
+                  "name": "Şəki Xan Sarayı",
+                  "text": "A Şəki Kán Palotája egy híres kastély Şəkiben, amelyet csodálatos ólomüveg ablakai és freskói tesznek ismertté.",
+                  "category": "castle",
+                  "coords": [
+                        47.197592,
+                        41.204415
+                  ]
+            },
+            {
+                  "name": "Mirzə Fətəli Axundovun Ev Muzeyi",
+                  "text": "A Mirza Fatali Akhundov Emlékmúzeum Şəkiben a híres író életének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        47.199161,
+                        41.202248
+                  ]
+            },
+            {
+                  "name": "Şəki Dram Teatrı",
+                  "text": "A Sabit Rahman nevét viselő Şəki Drámai Színház egy központi színház Şəkiben.",
+                  "category": "cultural",
+                  "coords": [
+                        47.17586,
+                        41.198829
+                  ]
+            },
+            {
+                  "name": "Sabit Rəhmanın Ev Muzei",
+                  "text": "A Sabit Rahman Emlékmúzeum egy életrajzi múzeum Şəkiben.",
+                  "category": "museum",
+                  "coords": [
+                        47.189,
+                        41.201621
+                  ]
+            },
+            {
+                  "name": "Əfəndiyevin Ev Muzei",
+                  "text": "Az Efendiev Emlékmúzeum a helyi örökséget őrző múzeum Şəkiben.",
+                  "category": "museum",
+                  "coords": [
+                        47.192055,
+                        41.199272
+                  ]
+            },
+            {
+                  "name": "Ömər Əfəndi məscidi",
+                  "text": "Az Omar Efendi-mecset egy jól ismert történelmi vallási látványosság Şəkiben.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187766,
+                        41.200477
+                  ]
+            },
+            {
+                  "name": "Yuxarı Karvansara",
+                  "text": "A Felső Karavánszeráj egy történelmi udvarház és egykori fogadó Şəkiben.",
+                  "category": "historical",
+                  "coords": [
+                        47.194062,
+                        41.200955
+                  ]
+            },
+            {
+                  "name": "Aşağı Karvansaray",
+                  "text": "Az Alsó Karavánszeráj egy jelentős történelmi udvarházkomplexum Şəkiben.",
+                  "category": "historical",
+                  "coords": [
+                        47.191754,
+                        41.200653
+                  ]
+            },
+            {
+                  "name": "Three Saints Church in Sheki Fortress",
+                  "text": "A Three Saints Church in Sheki Fortress egy turisztikai látványosság Şəki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.196829,
+                        41.203402
+                  ]
+            },
+            {
+                  "name": "Musiqi kolleci",
+                  "text": "A Musiqi kolleci egy művészeti központ Şəki városában.",
+                  "category": "cultural",
+                  "coords": [
+                        47.178937,
+                        41.203144
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "Az 1941-1945 War Memorial and City Panorama egy emlékmű Şəki területén.",
+                  "category": "historical",
+                  "coords": [
+                        47.185713,
+                        41.198334
+                  ]
+            },
+            {
+                  "name": "At kirayə",
+                  "text": "A Horse rental egy helyi látványosság Şəki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191152,
+                        41.195727
+                  ]
+            },
+            {
+                  "name": "Abdulxalq Hamamı",
+                  "text": "Az Abdulxalq Hamamı egy turisztikai látványosság Şəki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.179158,
+                        41.209007
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi məktəbi",
+                  "text": "A 3 saylı Musiqi məktəbi egy művészeti központ Şəki területén.",
+                  "category": "cultural",
+                  "coords": [
+                        47.163554,
+                        41.194595
+                  ]
+            },
+            {
+                  "name": "Yeraltı hamam 19-cu əsr",
+                  "text": "Az Underground bath 19th century egy udvarház Şəki városában.",
+                  "category": "historical",
+                  "coords": [
+                        47.181175,
+                        41.203012
+                  ]
+            },
+            {
+                  "name": "Albanlar hamamı 19-cu əsr",
+                  "text": "Az Aghvan's hammam 19th c. egy udvarház épülete Şəki területén.",
+                  "category": "historical",
+                  "coords": [
+                        47.189517,
+                        41.20049
+                  ]
+            },
+            {
+                  "name": "2-ci fabrikin binası 19-cu əsr",
+                  "text": "A 2-ci fabrikin binası 19-cu əsr egy udvarház Şəki városában.",
+                  "category": "historical",
+                  "coords": [
+                        47.172758,
+                        41.189781
+                  ]
+            },
+            {
+                  "name": "Qışlaq hamamı 19-cu əsr",
+                  "text": "A Qışlaq hamamı 19-cu əsr egy udvarház Şəki területén.",
+                  "category": "historical",
+                  "coords": [
+                        47.171203,
+                        41.187288
+                  ]
+            },
+            {
+                  "name": "Şəki Körpü dairəsi",
+                  "text": "A Şəki Körpü dairəsi egy helyi látványosság Şəki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.166361,
+                        41.206924
+                  ]
+            },
+            {
+                  "name": "Alban kilsəsi Calğalı bulaq",
+                  "text": "Az Albanian Church from XIX century egy látványosság Şəki területén.",
+                  "category": "landmark",
+                  "coords": [
+                        47.174407,
+                        41.202227
+                  ]
+            },
+            {
+                  "name": "Bayraq Meydanı Şəki",
+                  "text": "A Bayraq Meydanı Şəki egy népszerű látványosság Şəki városában.",
+                  "category": "landmark",
+                  "coords": [
+                        47.158958,
+                        41.21037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Şəkixanovlar Ev Muzeyi",
+                  "text": "Palatul Shakikhanov (de Iarnă) este un castel rezidențial istoric din Şəki.",
+                  "category": "castle",
+                  "coords": [
+                        47.190309,
+                        41.202646
+                  ]
+            },
+            {
+                  "name": "Şəki Tarix-Diyarşünaslıq Muzeyi",
+                  "text": "Muzeul de Istorie și Etnografie din Shaki prezintă bogata istorie regională a orașului Şəki.",
+                  "category": "museum",
+                  "coords": [
+                        47.195733,
+                        41.203721
+                  ]
+            },
+            {
+                  "name": "Şəki Xan Sarayı",
+                  "text": "Palatul Hanului din Shaki este un castel renumit din Şəki, celebru pentru vitraliile și frescele sale magnifice.",
+                  "category": "castle",
+                  "coords": [
+                        47.197592,
+                        41.204415
+                  ]
+            },
+            {
+                  "name": "Mirzə Fətəli Axundovun Ev Muzeyi",
+                  "text": "Casa-muzeu a lui Mirza Fatali Akhundov din Şəki este dedicată vieții faimosului scriitor.",
+                  "category": "museum",
+                  "coords": [
+                        47.199161,
+                        41.202248
+                  ]
+            },
+            {
+                  "name": "Şəki Dram Teatrı",
+                  "text": "Teatrul dramatic din Shaki numit Sabit Rahman este o instituție centrală de teatru în Şəki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.17586,
+                        41.198829
+                  ]
+            },
+            {
+                  "name": "Sabit Rəhmanın Ev Muzei",
+                  "text": "Casa-muzeu a lui Sabit Rahman este un muzeu biografic situat în Şəki.",
+                  "category": "museum",
+                  "coords": [
+                        47.189,
+                        41.201621
+                  ]
+            },
+            {
+                  "name": "Əfəndiyevin Ev Muzei",
+                  "text": "Casa-muzeu a lui Efendiev este un muzeu local care conservă moștenirea regională din Şəki.",
+                  "category": "museum",
+                  "coords": [
+                        47.192055,
+                        41.199272
+                  ]
+            },
+            {
+                  "name": "Ömər Əfəndi məscidi",
+                  "text": "Moscheea Omar Efendi este o bine-cunoscută atracție religioasă istorică din Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187766,
+                        41.200477
+                  ]
+            },
+            {
+                  "name": "Yuxarı Karvansara",
+                  "text": "Caravanseraiul de Sus este un conac istoric și un fost han situat în Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.194062,
+                        41.200955
+                  ]
+            },
+            {
+                  "name": "Aşağı Karvansaray",
+                  "text": "Caravanseraiul de Jos este un complex istoric semnificativ de conac în Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.191754,
+                        41.200653
+                  ]
+            },
+            {
+                  "name": "Three Saints Church in Sheki Fortress",
+                  "text": "Three Saints Church in Sheki Fortress este o atracție turistică situată în Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.196829,
+                        41.203402
+                  ]
+            },
+            {
+                  "name": "Musiqi kolleci",
+                  "text": "Musiqi kolleci este un centru de arte situat în orașul Şəki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.178937,
+                        41.203144
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidə",
+                  "text": "1941-1945 War Memorial and City Panorama este un monument din Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.185713,
+                        41.198334
+                  ]
+            },
+            {
+                  "name": "At kirayə",
+                  "text": "Horse rental este o atracție locală disponibilă în Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191152,
+                        41.195727
+                  ]
+            },
+            {
+                  "name": "Abdulxalq Hamamı",
+                  "text": "Abdulxalq Hamamı este o atracție turistică aflată în orașul Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.179158,
+                        41.209007
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi məktəbi",
+                  "text": "3 saylı Musiqi məktəbi este un centru de arte situat în Şəki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.163554,
+                        41.194595
+                  ]
+            },
+            {
+                  "name": "Yeraltı hamam 19-cu əsr",
+                  "text": "Underground bath 19th century este un conac situat în Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.181175,
+                        41.203012
+                  ]
+            },
+            {
+                  "name": "Albanlar hamamı 19-cu əsr",
+                  "text": "Aghvan's hammam 19th c. este o structură de tip conac din Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.189517,
+                        41.20049
+                  ]
+            },
+            {
+                  "name": "2-ci fabrikin binası 19-cu əsr",
+                  "text": "2-ci fabrikin binası 19-cu əsr este un conac situat în orașul Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.172758,
+                        41.189781
+                  ]
+            },
+            {
+                  "name": "Qışlaq hamamı 19-cu əsr",
+                  "text": "Qışlaq hamamı 19-cu əsr este un conac aflat în Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.171203,
+                        41.187288
+                  ]
+            },
+            {
+                  "name": "Şəki Körpü dairəsi",
+                  "text": "Şəki Körpü dairəsi este o atracție locală situată în Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.166361,
+                        41.206924
+                  ]
+            },
+            {
+                  "name": "Alban kilsəsi Calğalı bulaq",
+                  "text": "Albanian Church from XIX century este o atracție din Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.174407,
+                        41.202227
+                  ]
+            },
+            {
+                  "name": "Bayraq Meydanı Şəki",
+                  "text": "Bayraq Meydanı Şəki este o atracție populară situată în Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.158958,
+                        41.21037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shakikhanov (Winter) Palace \\ Şəki",
+                  "text": "The Shakikhanov (Winter) Palace is a historic residential castle in Şəki.",
+                  "category": "castle",
+                  "coords": [
+                        47.190309,
+                        41.202646
+                  ]
+            },
+            {
+                  "name": "Shaki Museum of History and Local Lore",
+                  "text": "The Shaki Museum of History and Local Lore showcases the rich regional history of Şəki.",
+                  "category": "museum",
+                  "coords": [
+                        47.195733,
+                        41.203721
+                  ]
+            },
+            {
+                  "name": "Shaki Khan Palace",
+                  "text": "The Shaki Khan Palace is a renowned castle in Şəki celebrated for its magnificent stained glass and frescoes.",
+                  "category": "castle",
+                  "coords": [
+                        47.197592,
+                        41.204415
+                  ]
+            },
+            {
+                  "name": "Mirza Fatali Akhundov's House Museum",
+                  "text": "Mirza Fatali Akhundov's House Museum in Şəki is dedicated to the life of the famous writer.",
+                  "category": "museum",
+                  "coords": [
+                        47.199161,
+                        41.202248
+                  ]
+            },
+            {
+                  "name": "Shaki dram theatre named Sabit Rahman",
+                  "text": "The Shaki dram theatre named Sabit Rahman is a central theatre venue in Şəki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.17586,
+                        41.198829
+                  ]
+            },
+            {
+                  "name": "Sabit Rahman's House Museum",
+                  "text": "Sabit Rahman's House Museum is a biographical museum situated in Şəki.",
+                  "category": "museum",
+                  "coords": [
+                        47.189,
+                        41.201621
+                  ]
+            },
+            {
+                  "name": "Efendiev's House Museum",
+                  "text": "Efendiev's House Museum is a local museum preserving regional heritage in Şəki.",
+                  "category": "museum",
+                  "coords": [
+                        47.192055,
+                        41.199272
+                  ]
+            },
+            {
+                  "name": "Omar Efendi Mosque",
+                  "text": "The Omar Efendi Mosque is a well-known historical religious attraction in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.187766,
+                        41.200477
+                  ]
+            },
+            {
+                  "name": "Upper Caravanserai",
+                  "text": "The Upper Caravanserai is a historic manor and former inn located in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.194062,
+                        41.200955
+                  ]
+            },
+            {
+                  "name": "Lower Caravanserai",
+                  "text": "The Lower Caravanserai is a significant historical manor complex in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.191754,
+                        41.200653
+                  ]
+            },
+            {
+                  "name": "Three Saints Church in Sheki Fortress",
+                  "text": "The Three Saints Church in Sheki Fortress is an attraction located in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.196829,
+                        41.203402
+                  ]
+            },
+            {
+                  "name": "Musiqi kolleci",
+                  "text": "Musiqi kolleci is an arts centre situated in the city of Şəki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.178937,
+                        41.203144
+                  ]
+            },
+            {
+                  "name": "1941-1945 War Memorial and City Panorama",
+                  "text": "The 1941-1945 War Memorial and City Panorama is a monument located in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.185713,
+                        41.198334
+                  ]
+            },
+            {
+                  "name": "Horse rental",
+                  "text": "Horse rental is a local attraction available in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.191152,
+                        41.195727
+                  ]
+            },
+            {
+                  "name": "Abdulxalq Hamamı",
+                  "text": "Abdulxalq Hamamı is a tourist attraction found in the city of Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.179158,
+                        41.209007
+                  ]
+            },
+            {
+                  "name": "3 saylı Musiqi məktəbi",
+                  "text": "3 saylı Musiqi məktəbi is an arts centre situated in Şəki.",
+                  "category": "cultural",
+                  "coords": [
+                        47.163554,
+                        41.194595
+                  ]
+            },
+            {
+                  "name": "Underground bath 19th century",
+                  "text": "The Underground bath 19th century is a manor site located in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.181175,
+                        41.203012
+                  ]
+            },
+            {
+                  "name": "Aghvan's hammam 19th c.",
+                  "text": "Aghvan's hammam 19th c. is a manor structure situated in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.189517,
+                        41.20049
+                  ]
+            },
+            {
+                  "name": "2-ci fabrikin binası 19-cu əsr",
+                  "text": "2-ci fabrikin binası 19-cu əsr is a manor located in the city of Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.172758,
+                        41.189781
+                  ]
+            },
+            {
+                  "name": "Qışlaq hamamı 19-cu əsr",
+                  "text": "Qışlaq hamamı 19-cu əsr is a manor site found in Şəki.",
+                  "category": "historical",
+                  "coords": [
+                        47.171203,
+                        41.187288
+                  ]
+            },
+            {
+                  "name": "Şəki Körpü dairəsi",
+                  "text": "Şəki Körpü dairəsi is a local attraction situated in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.166361,
+                        41.206924
+                  ]
+            },
+            {
+                  "name": "Albanian Church from XIX century",
+                  "text": "The Albanian Church from XIX century is an attraction found in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.174407,
+                        41.202227
+                  ]
+            },
+            {
+                  "name": "Bayraq Meydanı Şəki",
+                  "text": "Bayraq Meydanı Şəki is an attraction situated in Şəki.",
+                  "category": "landmark",
+                  "coords": [
+                        47.158958,
+                        41.21037
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-SA",
     coords: [47.1689, 41.2017],
@@ -393,7 +3579,736 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "khankendi-cities-v2",
+    id: "khankendi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xankəndi Dövlət Muzeyi",
+                  "text": "Das Khankendi Museum in Xankəndi präsentiert die lokale Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        46.751625,
+                        39.816018
+                  ]
+            },
+            {
+                  "name": "Maksim Qorki adına Xankəndi Dövlət Dram Teatrı",
+                  "text": "Das Staatliche Dramatheater Xankəndi ist eine bedeutende kulturelle Einrichtung der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        46.748714,
+                        39.815565
+                  ]
+            },
+            {
+                  "name": "Tarix-Diyarşünaslıq Muzeyi",
+                  "text": "Das Historische Museum von Xankəndi bewahrt das kulturelle Erbe der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        46.754388,
+                        39.817363
+                  ]
+            },
+            {
+                  "name": "\"Cırtdan\" Uşaq-Əyləncə Parkı",
+                  "text": "Der „Cırtdan“-Vergnügungspark in Xankəndi bietet Unterhaltung für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        46.753907,
+                        39.819299
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Das Amphitheater in Xankəndi ist ein Veranstaltungsort für kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        46.751077,
+                        39.819015
+                  ]
+            },
+            {
+                  "name": "Şəhidlər adına Fəxri Muzey",
+                  "text": "Das Fəxri-Museum in Xankəndi ehrt das Gedenken an die Märtyrer.",
+                  "category": "museum",
+                  "coords": [
+                        46.760418,
+                        39.811458
+                  ]
+            },
+            {
+                  "name": "Səadət Sarayı",
+                  "text": "Der Səadət-Palast in Xankəndi ist ein architektonisch markantes Bauwerk.",
+                  "category": "castle",
+                  "coords": [
+                        46.75201,
+                        39.809624
+                  ]
+            },
+            {
+                  "name": "Poeziya-Özfəaliyyət",
+                  "text": "Das Poeziya-Özfəaliyyət-Theater in Xankəndi fördert lokale dramatische Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        46.739297,
+                        39.800506
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Der Aquapark in Xankəndi bietet Erholung und Wasserspaß.",
+                  "category": "recreational",
+                  "coords": [
+                        46.760465,
+                        39.82848
+                  ]
+            },
+            {
+                  "name": "Biz və Bizim Dağlar Abidəsi",
+                  "text": "Das monumentale Bauwerk „Wir und unsere Berge“ ist ein bekanntes Wahrzeichen in Xankəndi.",
+                  "category": "historical",
+                  "coords": [
+                        46.769964,
+                        39.837145
+                  ]
+            },
+            {
+                  "name": "II Dünya Müharibəsi Memorialı",
+                  "text": "Das Denkmal für den Zweiten Weltkrieg in Xankəndi erinnert an die Opfer des Konflikts.",
+                  "category": "historical",
+                  "coords": [
+                        46.761991,
+                        39.811536
+                  ]
+            },
+            {
+                  "name": "\"Hümayun\" İncəsənət Məktəbi",
+                  "text": "Die Kunstschule „Hümayun“ in Xankəndi bietet eine Ausbildung für junge Talente.",
+                  "category": "cultural",
+                  "coords": [
+                        46.75184,
+                        39.824543
+                  ]
+            },
+            {
+                  "name": "Qalereya Salonu",
+                  "text": "Der Galeriesalon in Xankəndi ist ein Ort für die Präsentation bildender Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        46.7523,
+                        39.818603
+                  ]
+            },
+            {
+                  "name": "Ü.Hacıbəyli adına Mədəniyyət Mərkəzi",
+                  "text": "Das Kulturzentrum Ü. Hacıbəyli in Xankəndi ist ein bedeutender Veranstaltungsort.",
+                  "category": "cultural",
+                  "coords": [
+                        46.748778,
+                        39.818535
+                  ]
+            },
+            {
+                  "name": "Rəssamlıq kursu",
+                  "text": "Der Malkurs in Xankəndi ermöglicht Bürgern den kreativen Ausdruck.",
+                  "category": "museum",
+                  "coords": [
+                        46.751039,
+                        39.813072
+                  ]
+            },
+            {
+                  "name": "Fəhlə Mədəniyyət Evi",
+                  "text": "Das Kulturhaus für Arbeiter in Xankəndi dient der sozialen Gemeinschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        46.749728,
+                        39.832703
+                  ]
+            },
+            {
+                  "name": "Çimərlik",
+                  "text": "Der Strand in Xankəndi lädt zur Entspannung am Wasser ein.",
+                  "category": "recreational",
+                  "coords": [
+                        46.75427,
+                        39.800128
+                  ]
+            },
+            {
+                  "name": "Çayqırağı plyaj",
+                  "text": "Der Uferstrand in Xankəndi bietet eine natürliche Freizeitmöglichkeit.",
+                  "category": "recreational",
+                  "coords": [
+                        46.770777,
+                        39.812105
+                  ]
+            },
+            {
+                  "name": "Xareoqrafiya məktəbi",
+                  "text": "Die Choreografieschule in Xankəndi bildet Tänzer in verschiedenen Stilen aus.",
+                  "category": "cultural",
+                  "coords": [
+                        46.759707,
+                        39.821197
+                  ]
+            },
+            {
+                  "name": "Ağa Körpüsü",
+                  "text": "Die Ağa-Brücke in Xankəndi ist ein historisches technisches Bauwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        46.768215,
+                        39.807932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xankəndi Dövlət Muzeyi",
+                  "text": "A hankendi Khankendi Múzeum a régió helytörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        46.751625,
+                        39.816018
+                  ]
+            },
+            {
+                  "name": "Maksim Qorki adına Xankəndi Dövlət Dram Teatrı",
+                  "text": "A Hankendi Állami Drámai Színház a város egyik jelentős kulturális intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        46.748714,
+                        39.815565
+                  ]
+            },
+            {
+                  "name": "Tarix-Diyarşünaslıq Muzeyi",
+                  "text": "A Hankendi Történeti Múzeum őrzi a város kulturális örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        46.754388,
+                        39.817363
+                  ]
+            },
+            {
+                  "name": "\"Cırtdan\" Uşaq-Əyləncə Parkı",
+                  "text": "A hankendi „Cırtdan” Vidámpark szórakozást kínál a gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        46.753907,
+                        39.819299
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "A hankendi amfiteátrum kulturális előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        46.751077,
+                        39.819015
+                  ]
+            },
+            {
+                  "name": "Şəhidlər adına Fəxri Muzey",
+                  "text": "A hankendi Fəxri Múzeum a mártírok emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        46.760418,
+                        39.811458
+                  ]
+            },
+            {
+                  "name": "Səadət Sarayı",
+                  "text": "A hankendi Səadət Palota építészetileg kiemelkedő épület.",
+                  "category": "castle",
+                  "coords": [
+                        46.75201,
+                        39.809624
+                  ]
+            },
+            {
+                  "name": "Poeziya-Özfəaliyyət",
+                  "text": "A hankendi Poeziya-Özfəaliyyət Színház a helyi drámai művészeteket népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        46.739297,
+                        39.800506
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "A hankendi Aquapark pihenést és vízi szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        46.760465,
+                        39.82848
+                  ]
+            },
+            {
+                  "name": "Biz və Bizim Dağlar Abidəsi",
+                  "text": "A „Mi és a hegyeink” emlékmű Hankendi egyik legismertebb jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        46.769964,
+                        39.837145
+                  ]
+            },
+            {
+                  "name": "II Dünya Müharibəsi Memorialı",
+                  "text": "A hankendi második világháborús emlékmű a konfliktus áldozataira emlékezik.",
+                  "category": "historical",
+                  "coords": [
+                        46.761991,
+                        39.811536
+                  ]
+            },
+            {
+                  "name": "\"Hümayun\" İncəsənət Məktəbi",
+                  "text": "A hankendi „Hümayun” Művészeti Iskola képzést nyújt a fiatal tehetségeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        46.75184,
+                        39.824543
+                  ]
+            },
+            {
+                  "name": "Qalereya Salonu",
+                  "text": "A hankendi Galéria Szalon a képzőművészeti alkotások bemutatóhelye.",
+                  "category": "museum",
+                  "coords": [
+                        46.7523,
+                        39.818603
+                  ]
+            },
+            {
+                  "name": "Üzeyir Hacıbəyli Kultúrház",
+                  "text": "A hankendi Ü. Hacıbəyli Kulturális Központ jelentős rendezvényhelyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        46.748778,
+                        39.818535
+                  ]
+            },
+            {
+                  "name": "Rəssamlıq kursu",
+                  "text": "A hankendi festőkurzus a polgárok kreatív kifejezését teszi lehetővé.",
+                  "category": "museum",
+                  "coords": [
+                        46.751039,
+                        39.813072
+                  ]
+            },
+            {
+                  "name": "Fəhlə Mədəniyyət Evi",
+                  "text": "A hankendi Munkás Kulturház a társadalmi közösséget szolgálja.",
+                  "category": "cultural",
+                  "coords": [
+                        46.749728,
+                        39.832703
+                  ]
+            },
+            {
+                  "name": "Çimərlik",
+                  "text": "A hankendi strand a vízparti pihenésre invitál.",
+                  "category": "recreational",
+                  "coords": [
+                        46.75427,
+                        39.800128
+                  ]
+            },
+            {
+                  "name": "Çayqırağı plyaj",
+                  "text": "A hankendi folyóparti strand természetes kikapcsolódási lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        46.770777,
+                        39.812105
+                  ]
+            },
+            {
+                  "name": "Xareoqrafiya məktəbi",
+                  "text": "A hankendi koreográfiai iskola különböző stílusú táncosokat képez.",
+                  "category": "cultural",
+                  "coords": [
+                        46.759707,
+                        39.821197
+                  ]
+            },
+            {
+                  "name": "Ağa Körpüsü",
+                  "text": "A hankendi Ağa-híd egy történelmi műszaki építmény.",
+                  "category": "landmark",
+                  "coords": [
+                        46.768215,
+                        39.807932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xankəndi Dövlət Muzeyi",
+                  "text": "Muzeul Khankendi din Xankəndi prezintă istoria locală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        46.751625,
+                        39.816018
+                  ]
+            },
+            {
+                  "name": "Maksim Qorki adına Xankəndi Dövlət Dram Teatrı",
+                  "text": "Teatrul Dramatic de Stat din Xankəndi este o instituție culturală importantă a orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        46.748714,
+                        39.815565
+                  ]
+            },
+            {
+                  "name": "Tarix-Diyarşünaslıq Muzeyi",
+                  "text": "Muzeul de Istorie din Xankəndi păstrează patrimoniul cultural al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        46.754388,
+                        39.817363
+                  ]
+            },
+            {
+                  "name": "\"Cırtdan\" Uşaq-Əyləncə Parkı",
+                  "text": "Parcul de distracții „Cırtdan” din Xankəndi oferă divertisment pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        46.753907,
+                        39.819299
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteatrul din Xankəndi este un loc pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        46.751077,
+                        39.819015
+                  ]
+            },
+            {
+                  "name": "Şəhidlər adına Fəxri Muzey",
+                  "text": "Muzeul Fəxri din Xankəndi onorează memoria martirilor.",
+                  "category": "museum",
+                  "coords": [
+                        46.760418,
+                        39.811458
+                  ]
+            },
+            {
+                  "name": "Səadət Sarayı",
+                  "text": "Palatul Səadət din Xankəndi este o clădire arhitecturală distinctivă.",
+                  "category": "castle",
+                  "coords": [
+                        46.75201,
+                        39.809624
+                  ]
+            },
+            {
+                  "name": "Poeziya-Özfəaliyyət",
+                  "text": "Teatrul Poeziya-Özfəaliyyət din Xankəndi promovează artele dramatice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        46.739297,
+                        39.800506
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Aquapark-ul din Xankəndi oferă relaxare și distracție acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        46.760465,
+                        39.82848
+                  ]
+            },
+            {
+                  "name": "Biz və Bizim Dağlar Abidəsi",
+                  "text": "Monumentul „Noi și munții noștri” este un simbol binecunoscut în Xankəndi.",
+                  "category": "historical",
+                  "coords": [
+                        46.769964,
+                        39.837145
+                  ]
+            },
+            {
+                  "name": "II Dünya Müharibəsi Memorialı",
+                  "text": "Monumentul celui de-al Doilea Război Mondial din Xankəndi comemorează victimele conflictului.",
+                  "category": "historical",
+                  "coords": [
+                        46.761991,
+                        39.811536
+                  ]
+            },
+            {
+                  "name": "\"Hümayun\" İncəsənət Məktəbi",
+                  "text": "Școala de artă „Hümayun” din Xankəndi oferă educație pentru tinerele talente.",
+                  "category": "cultural",
+                  "coords": [
+                        46.75184,
+                        39.824543
+                  ]
+            },
+            {
+                  "name": "Qalereya Salonu",
+                  "text": "Salonul Galeriilor din Xankəndi este un loc pentru prezentarea artelor vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        46.7523,
+                        39.818603
+                  ]
+            },
+            {
+                  "name": "Ü.Hacıbəyli adına Mədəniyyət Mərkəzi",
+                  "text": "Centrul Cultural Ü. Hacıbəyli din Xankəndi este o locație importantă pentru evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        46.748778,
+                        39.818535
+                  ]
+            },
+            {
+                  "name": "Rəssamlıq kursu",
+                  "text": "Cursul de pictură din Xankəndi permite cetățenilor exprimarea creativă.",
+                  "category": "museum",
+                  "coords": [
+                        46.751039,
+                        39.813072
+                  ]
+            },
+            {
+                  "name": "Fəhlə Mədəniyyət Evi",
+                  "text": "Casa de Cultură a Muncitorilor din Xankəndi servește comunității sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        46.749728,
+                        39.832703
+                  ]
+            },
+            {
+                  "name": "Çimərlik",
+                  "text": "Plaja din Xankəndi invită la relaxare pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        46.75427,
+                        39.800128
+                  ]
+            },
+            {
+                  "name": "Çayqırağı plyaj",
+                  "text": "Plaja de pe malul apei din Xankəndi oferă o oportunitate naturală de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        46.770777,
+                        39.812105
+                  ]
+            },
+            {
+                  "name": "Xareoqrafiya məktəbi",
+                  "text": "Școala de coregrafie din Xankəndi formează dansatori în diferite stiluri.",
+                  "category": "cultural",
+                  "coords": [
+                        46.759707,
+                        39.821197
+                  ]
+            },
+            {
+                  "name": "Ağa Körpüsü",
+                  "text": "Podul Ağa din Xankəndi este o structură tehnică istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        46.768215,
+                        39.807932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khankendi Museum",
+                  "text": "The Khankendi Museum in Xankəndi showcases the local history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        46.751625,
+                        39.816018
+                  ]
+            },
+            {
+                  "name": "Maksim Qorki adına Xankəndi Dövlət Dram Teatrı",
+                  "text": "The Xankəndi State Drama Theatre is a significant cultural institution of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        46.748714,
+                        39.815565
+                  ]
+            },
+            {
+                  "name": "Tarix-Diyarşünaslıq Muzeyi",
+                  "text": "The Historical Museum of Xankəndi preserves the cultural heritage of the city.",
+                  "category": "museum",
+                  "coords": [
+                        46.754388,
+                        39.817363
+                  ]
+            },
+            {
+                  "name": "\"Cırtdan\" Uşaq-Əyləncə Parkı",
+                  "text": "The “Cırtdan” Amusement Park in Xankəndi offers entertainment for children.",
+                  "category": "recreational",
+                  "coords": [
+                        46.753907,
+                        39.819299
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "The Amphitheatre in Xankəndi is a venue for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        46.751077,
+                        39.819015
+                  ]
+            },
+            {
+                  "name": "Şəhidlər adına Fəxri Muzey",
+                  "text": "The Fəxri Museum in Xankəndi honors the memory of the martyrs.",
+                  "category": "museum",
+                  "coords": [
+                        46.760418,
+                        39.811458
+                  ]
+            },
+            {
+                  "name": "Səadət Sarayı",
+                  "text": "The Səadət Palace in Xankəndi is an architecturally distinctive building.",
+                  "category": "castle",
+                  "coords": [
+                        46.75201,
+                        39.809624
+                  ]
+            },
+            {
+                  "name": "Poeziya-Özfəaliyyət",
+                  "text": "The Poeziya-Özfəaliyyət Theatre in Xankəndi promotes local dramatic arts.",
+                  "category": "cultural",
+                  "coords": [
+                        46.739297,
+                        39.800506
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "The Aquapark in Xankəndi offers recreation and water fun.",
+                  "category": "recreational",
+                  "coords": [
+                        46.760465,
+                        39.82848
+                  ]
+            },
+            {
+                  "name": "Biz və Bizim Dağlar Abidəsi",
+                  "text": "The “We and Our Mountains” monument is a well-known landmark in Xankəndi.",
+                  "category": "historical",
+                  "coords": [
+                        46.769964,
+                        39.837145
+                  ]
+            },
+            {
+                  "name": "II Dünya Müharibəsi Memorialı",
+                  "text": "The World War II monument in Xankəndi commemorates the victims of the conflict.",
+                  "category": "historical",
+                  "coords": [
+                        46.761991,
+                        39.811536
+                  ]
+            },
+            {
+                  "name": "\"Hümayun\" İncəsənət Məktəbi",
+                  "text": "The “Hümayun” Arts School in Xankəndi provides training for young talents.",
+                  "category": "cultural",
+                  "coords": [
+                        46.75184,
+                        39.824543
+                  ]
+            },
+            {
+                  "name": "Qalereya Salonu",
+                  "text": "The Gallery Salon in Xankəndi is a venue for presenting visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        46.7523,
+                        39.818603
+                  ]
+            },
+            {
+                  "name": "Ü.Hacıbəyli adına Mədəniyyət Mərkəzi",
+                  "text": "The Ü. Hacıbəyli Cultural Center in Xankəndi is an important venue.",
+                  "category": "cultural",
+                  "coords": [
+                        46.748778,
+                        39.818535
+                  ]
+            },
+            {
+                  "name": "Rəssamlıq kursu",
+                  "text": "The painting course in Xankəndi enables creative expression for citizens.",
+                  "category": "museum",
+                  "coords": [
+                        46.751039,
+                        39.813072
+                  ]
+            },
+            {
+                  "name": "Fəhlə Mədəniyyət Evi",
+                  "text": "The Workers' Cultural House in Xankəndi serves the social community.",
+                  "category": "cultural",
+                  "coords": [
+                        46.749728,
+                        39.832703
+                  ]
+            },
+            {
+                  "name": "Çimərlik",
+                  "text": "The beach in Xankəndi invites to relaxation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        46.75427,
+                        39.800128
+                  ]
+            },
+            {
+                  "name": "Çayqırağı plyaj",
+                  "text": "The riverside beach in Xankəndi offers a natural recreational opportunity.",
+                  "category": "recreational",
+                  "coords": [
+                        46.770777,
+                        39.812105
+                  ]
+            },
+            {
+                  "name": "Xareoqrafiya məktəbi",
+                  "text": "The Choreography School in Xankəndi trains dancers in various styles.",
+                  "category": "cultural",
+                  "coords": [
+                        46.759707,
+                        39.821197
+                  ]
+            },
+            {
+                  "name": "Ağa Körpüsü",
+                  "text": "The Ağa Bridge in Xankəndi is a historic technical structure.",
+                  "category": "landmark",
+                  "coords": [
+                        46.768215,
+                        39.807932
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-XA",
     coords: [46.7525, 39.8183],
@@ -569,7 +4484,232 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "salyan-cities-v2",
+    id: "salyan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bayraq Muzeyi",
+                  "text": "Bayraq Muzeyi ist ein Museum in der aserbaidschanischen Stadt Salyan.",
+                  "category": "museum",
+                  "coords": [
+                        48.961939,
+                        39.600567
+                  ]
+            },
+            {
+                  "name": "Əlövsət Quliyev adına Mədəniyyət Evi",
+                  "text": "Əlövsət Quliyev adına Mədəniyyət Evi ist ein Theater in Salyan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.985497,
+                        39.598681
+                  ]
+            },
+            {
+                  "name": "Kukla Teatrı",
+                  "text": "Kukla Teatrı ist ein Theater in Salyan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.98491,
+                        39.594213
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünaslıq Muzeyi",
+                  "text": "Tarix Diyarşünaslıq Muzeyi ist ein Museum in Salyan.",
+                  "category": "museum",
+                  "coords": [
+                        48.986569,
+                        39.596222
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "Heydər Əliyev abidəsi ist ein Denkmal in Salyan.",
+                  "category": "historical",
+                  "coords": [
+                        48.982832,
+                        39.599027
+                  ]
+            },
+            {
+                  "name": "1941-1945 Dairəsi",
+                  "text": "1941-1945 Dairəsi ist ein Denkmal in Salyan.",
+                  "category": "historical",
+                  "coords": [
+                        48.974213,
+                        39.58848
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bayraq Muzeyi",
+                  "text": "A Bayraq Muzeyi egy múzeum Salyan városában.",
+                  "category": "museum",
+                  "coords": [
+                        48.961939,
+                        39.600567
+                  ]
+            },
+            {
+                  "name": "Əlövsət Quliyev adına Mədəniyyət Evi",
+                  "text": "Az Əlövsət Quliyev adına Mədəniyyət Evi egy színház Salyanban.",
+                  "category": "cultural",
+                  "coords": [
+                        48.985497,
+                        39.598681
+                  ]
+            },
+            {
+                  "name": "Kukla Teatrı",
+                  "text": "A Kukla Teatrı egy színház Salyanban.",
+                  "category": "cultural",
+                  "coords": [
+                        48.98491,
+                        39.594213
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünaslıq Muzeyi",
+                  "text": "A Tarix Diyarşünaslıq Muzeyi egy múzeum Salyanban.",
+                  "category": "museum",
+                  "coords": [
+                        48.986569,
+                        39.596222
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "A Heydər Əliyev abidəsi egy emlékmű Salyanban.",
+                  "category": "historical",
+                  "coords": [
+                        48.982832,
+                        39.599027
+                  ]
+            },
+            {
+                  "name": "1941-1945 Dairəsi",
+                  "text": "Az 1941-1945 Dairəsi egy emlékmű Salyanban.",
+                  "category": "historical",
+                  "coords": [
+                        48.974213,
+                        39.58848
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bayraq Muzeyi",
+                  "text": "Bayraq Muzeyi este un muzeu situat în orașul Salyan.",
+                  "category": "museum",
+                  "coords": [
+                        48.961939,
+                        39.600567
+                  ]
+            },
+            {
+                  "name": "Əlövsət Quliyev adına Mədəniyyət Evi",
+                  "text": "Əlövsət Quliyev adına Mədəniyyət Evi este un teatru în Salyan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.985497,
+                        39.598681
+                  ]
+            },
+            {
+                  "name": "Kukla Teatrı",
+                  "text": "Kukla Teatrı este un teatru în Salyan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.98491,
+                        39.594213
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünaslıq Muzeyi",
+                  "text": "Tarix Diyarşünaslıq Muzeyi este un muzeu în Salyan.",
+                  "category": "museum",
+                  "coords": [
+                        48.986569,
+                        39.596222
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "Heydər Əliyev abidəsi este un monument în Salyan.",
+                  "category": "historical",
+                  "coords": [
+                        48.982832,
+                        39.599027
+                  ]
+            },
+            {
+                  "name": "1941-1945 Dairəsi",
+                  "text": "1941-1945 Dairəsi este un monument în Salyan.",
+                  "category": "historical",
+                  "coords": [
+                        48.974213,
+                        39.58848
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bayraq Muzeyi",
+                  "text": "Bayraq Muzeyi is a museum located in the city of Salyan.",
+                  "category": "museum",
+                  "coords": [
+                        48.961939,
+                        39.600567
+                  ]
+            },
+            {
+                  "name": "Əlövsət Quliyev adına Mədəniyyət Evi",
+                  "text": "Əlövsət Quliyev adına Mədəniyyət Evi is a theatre in Salyan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.985497,
+                        39.598681
+                  ]
+            },
+            {
+                  "name": "Kukla Teatrı",
+                  "text": "Kukla Teatrı is a theatre in Salyan.",
+                  "category": "cultural",
+                  "coords": [
+                        48.98491,
+                        39.594213
+                  ]
+            },
+            {
+                  "name": "Tarix Diyarşünaslıq Muzeyi",
+                  "text": "Tarix Diyarşünaslıq Muzeyi is a museum in Salyan.",
+                  "category": "museum",
+                  "coords": [
+                        48.986569,
+                        39.596222
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev abidəsi",
+                  "text": "Heydər Əliyev abidəsi is a monument in Salyan.",
+                  "category": "historical",
+                  "coords": [
+                        48.982832,
+                        39.599027
+                  ]
+            },
+            {
+                  "name": "1941-1945 Dairəsi",
+                  "text": "1941-1945 Dairəsi is a monument in Salyan.",
+                  "category": "historical",
+                  "coords": [
+                        48.974213,
+                        39.58848
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-SAL",
     coords: [48.9806, 39.5967],
@@ -613,7 +4753,484 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "khachmaz-cities-v2",
+    id: "khachmaz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xalça Muzeyi",
+                  "text": "Das Carpet Museum ist ein Museum in Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.800443,
+                        41.465294
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq Muzeyi",
+                  "text": "Diyarşünaslıq Muzeyi ist ein lokales Museum in der Stadt Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.805603,
+                        41.465732
+                  ]
+            },
+            {
+                  "name": "Dəmiryolçu Klubu",
+                  "text": "Dəmiryolçu Klubu ist ein Theatergebäude in Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.804345,
+                        41.466824
+                  ]
+            },
+            {
+                  "name": "Əmək və Şöhrət Muzeyi",
+                  "text": "Əmək və Şöhrət Muzeyi ist ein Museum in Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.786218,
+                        41.460736
+                  ]
+            },
+            {
+                  "name": "Muzey",
+                  "text": "Muzey ist ein lokales Museum in der Stadt Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.795162,
+                        41.458747
+                  ]
+            },
+            {
+                  "name": "Maarif teatrı",
+                  "text": "Maarif teatrı ist ein Theater in Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.794041,
+                        41.457167
+                  ]
+            },
+            {
+                  "name": "Qaraçı Mədəniyyət Evi",
+                  "text": "Qaraçı Mədəniyyət Evi ist ein Theater in Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.796578,
+                        41.45891
+                  ]
+            },
+            {
+                  "name": "Karusel parkı",
+                  "text": "Karusel parkı ist ein Freizeitpark in Xaçmaz.",
+                  "category": "recreational",
+                  "coords": [
+                        48.796189,
+                        41.462908
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mədəniyyət Evi",
+                  "text": "Heydər Əliyev Mədəniyyət Evi ist ein lokales Theater in der Stadt Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.800181,
+                        41.467024
+                  ]
+            },
+            {
+                  "name": "Alban Kilsəsi",
+                  "text": "Die Ruined Albanian church ist eine Attraktion in Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.791584,
+                        41.472579
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Arka ist eine Touristenattraktion in der Stadt Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.780556,
+                        41.471323
+                  ]
+            },
+            {
+                  "name": "Qoşa Arka",
+                  "text": "Qoşa Arka ist eine lokale Sehenswürdigkeit in Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.802804,
+                        41.465163
+                  ]
+            },
+            {
+                  "name": "Koroğlu dairəsi \\ Xaçmaz",
+                  "text": "Koroğlu dairəsi \\ Xaçmaz ist eine öffentliche Attraktion in Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.789569,
+                        41.452567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xalça Muzeyi",
+                  "text": "A Carpet Museum egy múzeum Xaçmaz városában.",
+                  "category": "museum",
+                  "coords": [
+                        48.800443,
+                        41.465294
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq Muzeyi",
+                  "text": "A Diyarşünaslıq Muzeyi egy helyi múzeum Xaçmaz területén.",
+                  "category": "museum",
+                  "coords": [
+                        48.805603,
+                        41.465732
+                  ]
+            },
+            {
+                  "name": "Dəmiryolçu Klubu",
+                  "text": "A Dəmiryolçu Klubu egy színház Xaçmaz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        48.804345,
+                        41.466824
+                  ]
+            },
+            {
+                  "name": "Əmək və Şöhrət Muzeyi",
+                  "text": "Az Əmək və Şöhrət Muzeyi egy múzeum Xaçmaz területén.",
+                  "category": "museum",
+                  "coords": [
+                        48.786218,
+                        41.460736
+                  ]
+            },
+            {
+                  "name": "Muzey",
+                  "text": "A Muzey egy helyi múzeum Xaçmaz városában.",
+                  "category": "museum",
+                  "coords": [
+                        48.795162,
+                        41.458747
+                  ]
+            },
+            {
+                  "name": "Maarif teatrı",
+                  "text": "A Maarif teatrı egy színház Xaçmaz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        48.794041,
+                        41.457167
+                  ]
+            },
+            {
+                  "name": "Qaraçı Mədəniyyət Evi",
+                  "text": "A Qaraçı Mədəniyyət Evi egy színház Xaçmaz területén.",
+                  "category": "cultural",
+                  "coords": [
+                        48.796578,
+                        41.45891
+                  ]
+            },
+            {
+                  "name": "Karusel parkı",
+                  "text": "A Karusel parkı egy vidámpark Xaçmaz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        48.796189,
+                        41.462908
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mədəniyyət Evi",
+                  "text": "A Heydər Əliyev Mədəniyyət Evi egy helyi színház Xaçmaz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        48.800181,
+                        41.467024
+                  ]
+            },
+            {
+                  "name": "Alban Kilsəsi",
+                  "text": "A Ruined Albanian church egy látványosság Xaçmaz területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.791584,
+                        41.472579
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Az Arka egy turisztikai látványosság Xaçmaz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.780556,
+                        41.471323
+                  ]
+            },
+            {
+                  "name": "Qoşa Arka",
+                  "text": "A Qoşa Arka egy helyi látványosság Xaçmaz területén.",
+                  "category": "landmark",
+                  "coords": [
+                        48.802804,
+                        41.465163
+                  ]
+            },
+            {
+                  "name": "Koroğlu dairəsi \\ Xaçmaz",
+                  "text": "A Koroğlu dairəsi \\ Xaçmaz egy látványosság Xaçmaz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.789569,
+                        41.452567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xalça Muzeyi",
+                  "text": "Carpet Museum este un muzeu situat în Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.800443,
+                        41.465294
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq Muzeyi",
+                  "text": "Diyarşünaslıq Muzeyi este un muzeu local aflat în orașul Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.805603,
+                        41.465732
+                  ]
+            },
+            {
+                  "name": "Dəmiryolçu Klubu",
+                  "text": "Dəmiryolçu Klubu este un teatru situat în Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.804345,
+                        41.466824
+                  ]
+            },
+            {
+                  "name": "Əmək və Şöhrət Muzeyi",
+                  "text": "Əmək și Şöhrət Muzeyi este un muzeu situat în Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.786218,
+                        41.460736
+                  ]
+            },
+            {
+                  "name": "Muzey",
+                  "text": "Muzey este un muzeu local aflat în orașul Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.795162,
+                        41.458747
+                  ]
+            },
+            {
+                  "name": "Maarif teatrı",
+                  "text": "Maarif teatrı este un teatru situat în Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.794041,
+                        41.457167
+                  ]
+            },
+            {
+                  "name": "Qaraçı Mədəniyyət Evi",
+                  "text": "Qaraçı Mədəniyyət Evi este un teatru în Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.796578,
+                        41.45891
+                  ]
+            },
+            {
+                  "name": "Karusel parkı",
+                  "text": "Karusel parkı este un parc tematic de distracții situat în Xaçmaz.",
+                  "category": "recreational",
+                  "coords": [
+                        48.796189,
+                        41.462908
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mədəniyyət Evi",
+                  "text": "Heydər Əliyev Mədəniyyət Evi este un teatru local din orașul Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.800181,
+                        41.467024
+                  ]
+            },
+            {
+                  "name": "Alban Kilsəsi",
+                  "text": "Ruined Albanian church este o atracție situată în Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.791584,
+                        41.472579
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Arka este o atracție turistică aflată în orașul Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.780556,
+                        41.471323
+                  ]
+            },
+            {
+                  "name": "Qoşa Arka",
+                  "text": "Qoşa Arka este o atracție locală situată în Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.802804,
+                        41.465163
+                  ]
+            },
+            {
+                  "name": "Koroğlu dairəsi \\ Xaçmaz",
+                  "text": "Koroğlu dairəsi \\ Xaçmaz este o atracție publică aflată în Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.789569,
+                        41.452567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carpet Museum",
+                  "text": "The Carpet Museum is a museum located in Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.800443,
+                        41.465294
+                  ]
+            },
+            {
+                  "name": "Diyarşünaslıq Muzeyi",
+                  "text": "Diyarşünaslıq Muzeyi is a local museum situated in the city of Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.805603,
+                        41.465732
+                  ]
+            },
+            {
+                  "name": "Dəmiryolçu Klubu",
+                  "text": "Dəmiryolçu Klubu is a theatre venue located in Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.804345,
+                        41.466824
+                  ]
+            },
+            {
+                  "name": "Əmək və Şöhrət Muzeyi",
+                  "text": "Əmək və Şöhrət Muzeyi is a museum located in Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.786218,
+                        41.460736
+                  ]
+            },
+            {
+                  "name": "Muzey",
+                  "text": "Muzey is a local museum found in the city of Xaçmaz.",
+                  "category": "museum",
+                  "coords": [
+                        48.795162,
+                        41.458747
+                  ]
+            },
+            {
+                  "name": "Maarif teatrı",
+                  "text": "Maarif teatrı is a theatre providing performance space in Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.794041,
+                        41.457167
+                  ]
+            },
+            {
+                  "name": "Qaraçı Mədəniyyət Evi",
+                  "text": "Qaraçı Mədəniyyət Evi is a theatre located in Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.796578,
+                        41.45891
+                  ]
+            },
+            {
+                  "name": "Karusel parkı",
+                  "text": "Karusel parkı is a theme park situated in Xaçmaz.",
+                  "category": "recreational",
+                  "coords": [
+                        48.796189,
+                        41.462908
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mədəniyyət Evi",
+                  "text": "Heydər Əliyev Mədəniyyət Evi is a local theatre located in the city of Xaçmaz.",
+                  "category": "cultural",
+                  "coords": [
+                        48.800181,
+                        41.467024
+                  ]
+            },
+            {
+                  "name": "Ruined Albanian church",
+                  "text": "The Ruined Albanian church is an attraction found in Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.791584,
+                        41.472579
+                  ]
+            },
+            {
+                  "name": "Arka",
+                  "text": "Arka is a tourist attraction located in the city of Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.780556,
+                        41.471323
+                  ]
+            },
+            {
+                  "name": "Qoşa Arka",
+                  "text": "Qoşa Arka is a local attraction situated in Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.802804,
+                        41.465163
+                  ]
+            },
+            {
+                  "name": "Koroğlu dairəsi \\ Xaçmaz",
+                  "text": "Koroğlu dairəsi \\ Xaçmaz is a public attraction located in Xaçmaz.",
+                  "category": "landmark",
+                  "coords": [
+                        48.789569,
+                        41.452567
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-XAC",
     coords: [48.8078, 41.4719],
@@ -701,7 +5318,232 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "agjabadi-cities-v2",
+    id: "agjabadi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ağcabədi Mədəniyyət Evi",
+                  "text": "Ağcabədi Mədəniyyət Evi ist ein Theater in der Stadt Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.459138,
+                        40.04845
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Heydər Əliyev Muzeyi ist ein Museum in Ağcabədi.",
+                  "category": "museum",
+                  "coords": [
+                        47.455563,
+                        40.039238
+                  ]
+            },
+            {
+                  "name": "Ağcabədi Tarix Diyarşünaslıq Muzeyi",
+                  "text": "Ağcabədi Tarix Diyarşünaslıq Muzeyi ist ein Museum in Ağcabədi.",
+                  "category": "museum",
+                  "coords": [
+                        47.449652,
+                        40.05012
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "Musiqi məktəbi ist ein Kunstzentrum in Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.46116,
+                        40.052376
+                  ]
+            },
+            {
+                  "name": "Ağcabədi Musiqi Məktəbi",
+                  "text": "Ağcabədi Musiqi Məktəbi ist ein Kunstzentrum in Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.45604,
+                        40.042228
+                  ]
+            },
+            {
+                  "name": "Muğan Mərkəzi Muzey",
+                  "text": "Muğan Mərkəzi Muzey ist ein Kunstzentrum in Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.45982,
+                        40.052251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ağcabədi Mədəniyyət Evi",
+                  "text": "Az Ağcabədi Mədəniyyət Evi egy színház Ağcabədi városában.",
+                  "category": "cultural",
+                  "coords": [
+                        47.459138,
+                        40.04845
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "A Heydər Əliyev Muzeyi egy múzeum Ağcabədiben.",
+                  "category": "museum",
+                  "coords": [
+                        47.455563,
+                        40.039238
+                  ]
+            },
+            {
+                  "name": "Ağcabədi Tarix Diyarşünaslıq Muzeyi",
+                  "text": "Az Ağcabədi Tarix Diyarşünaslıq Muzeyi egy múzeum Ağcabédiben.",
+                  "category": "museum",
+                  "coords": [
+                        47.449652,
+                        40.05012
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "A Musiqi məktəbi egy művészeti központ Ağcabédiben.",
+                  "category": "cultural",
+                  "coords": [
+                        47.46116,
+                        40.052376
+                  ]
+            },
+            {
+                  "name": "Ağcabədi Musiqi Məktəbi",
+                  "text": "Az Ağcabədi Musiqi Məktəbi egy művészeti központ Ağcabédiben.",
+                  "category": "cultural",
+                  "coords": [
+                        47.45604,
+                        40.042228
+                  ]
+            },
+            {
+                  "name": "Muğan Mərkəzi Muzey",
+                  "text": "A Muğan Mərkəzi Muzey egy művészeti központ Ağcabédiben.",
+                  "category": "cultural",
+                  "coords": [
+                        47.45982,
+                        40.052251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ağcabədi Mədəniyyət Evi",
+                  "text": "Ağcabədi Mədəniyyət Evi este un teatru din orașul Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.459138,
+                        40.04845
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Heydər Əliyev Muzeyi este un muzeu în Ağcabədi.",
+                  "category": "museum",
+                  "coords": [
+                        47.455563,
+                        40.039238
+                  ]
+            },
+            {
+                  "name": "Ağcabədi Tarix Diyarşünaslıq Muzeyi",
+                  "text": "Ağcabədi Tarix Diyarşünaslıq Muzeyi este un muzeu în Ağcabədi.",
+                  "category": "museum",
+                  "coords": [
+                        47.449652,
+                        40.05012
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "Musiqi məktəbi este un centru de artă în Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.46116,
+                        40.052376
+                  ]
+            },
+            {
+                  "name": "Ağcabədi Musiqi Məktəbi",
+                  "text": "Ağcabədi Musiqi Məktəbi este un centru de artă în Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.45604,
+                        40.042228
+                  ]
+            },
+            {
+                  "name": "Muğan Mərkəzi Muzey",
+                  "text": "Muğan Mərkəzi Muzey este un centru de artă în Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.45982,
+                        40.052251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ağcabədi Mədəniyyət Evi",
+                  "text": "Ağcabədi Mədəniyyət Evi is a theatre in the city of Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.459138,
+                        40.04845
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Heydər Əliyev Muzeyi is a museum in Ağcabədi.",
+                  "category": "museum",
+                  "coords": [
+                        47.455563,
+                        40.039238
+                  ]
+            },
+            {
+                  "name": "Ağcabədi Tarix Diyarşünaslıq Muzeyi",
+                  "text": "Ağcabədi Tarix Diyarşünaslıq Muzeyi is a museum in Ağcabədi.",
+                  "category": "museum",
+                  "coords": [
+                        47.449652,
+                        40.05012
+                  ]
+            },
+            {
+                  "name": "Musiqi məktəbi",
+                  "text": "Musiqi məktəbi is an arts centre in Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.46116,
+                        40.052376
+                  ]
+            },
+            {
+                  "name": "Ağcabədi Musiqi Məktəbi",
+                  "text": "Ağcabədi Musiqi Məktəbi is an arts centre in Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.45604,
+                        40.042228
+                  ]
+            },
+            {
+                  "name": "Muğan Mərkəzi Muzey",
+                  "text": "Muğan Mərkəzi Muzey is an arts centre in Ağcabədi.",
+                  "category": "cultural",
+                  "coords": [
+                        47.45982,
+                        40.052251
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-AGC",
     coords: [47.4589, 40.0500],
@@ -789,7 +5631,88 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "sabirabad-cities-v2",
+    id: "sabirabad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bayraq \\ Sabirabad",
+                  "text": "Das Flaggen-Denkmal in Sabirabad ist ein zentrales Wahrzeichen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        48.457383,
+                        39.97842
+                  ]
+            },
+            {
+                  "name": "Qlobus Abidəsi",
+                  "text": "Das Globus-Denkmal in Sabirabad symbolisiert die globale Verbundenheit.",
+                  "category": "historical",
+                  "coords": [
+                        48.463233,
+                        39.990384
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bayraq \\ Sabirabad",
+                  "text": "A szabirabadi zászló-emlékmű a város központi jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        48.457383,
+                        39.97842
+                  ]
+            },
+            {
+                  "name": "Qlobus Abidəsi",
+                  "text": "A szabirabadi földgömb-emlékmű a globális összefogást jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        48.463233,
+                        39.990384
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bayraq \\ Sabirabad",
+                  "text": "Monumentul Steagului din Sabirabad este un simbol central al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        48.457383,
+                        39.97842
+                  ]
+            },
+            {
+                  "name": "Qlobus Abidəsi",
+                  "text": "Monumentul Globului din Sabirabad simbolizează conexiunea globală.",
+                  "category": "historical",
+                  "coords": [
+                        48.463233,
+                        39.990384
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bayraq \\ Sabirabad",
+                  "text": "The Flag Monument in Sabirabad is a central landmark of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        48.457383,
+                        39.97842
+                  ]
+            },
+            {
+                  "name": "Qlobus Abidəsi",
+                  "text": "The Globe Monument in Sabirabad symbolizes global connection.",
+                  "category": "historical",
+                  "coords": [
+                        48.463233,
+                        39.990384
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-SAB",
     coords: [48.4772, 39.9867],
@@ -833,7 +5756,412 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "shamkir-cities-v2",
+    id: "shamkir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alman İrs Mərkəzi",
+                  "text": "Das German Heritage Center ist ein Museum in der Stadt Şəmkir.",
+                  "category": "museum",
+                  "coords": [
+                        46.021005,
+                        40.831987
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Mərkəzi",
+                  "text": "Mədəniyyət Mərkəzi ist ein Theater in Şəmkir.",
+                  "category": "cultural",
+                  "coords": [
+                        46.023421,
+                        40.830275
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Heydər Əliyev Mərkəzi ist ein Museum in Şəmkir.",
+                  "category": "museum",
+                  "coords": [
+                        46.029443,
+                        40.845267
+                  ]
+            },
+            {
+                  "name": "Vaqif Mədəniyyət Evi",
+                  "text": "Vaqif Mədəniyyət Evi ist ein Theater in Şəmkir.",
+                  "category": "cultural",
+                  "coords": [
+                        46.024572,
+                        40.833374
+                  ]
+            },
+            {
+                  "name": "Qırmızı Körpü",
+                  "text": "Qırmızı Körpü ist eine lokale Sehenswürdigkeit in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.010983,
+                        40.807339
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Bayraq ist eine lokale Sehenswürdigkeit in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.033012,
+                        40.851591
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "Şəhidlər Abidəsi ist ein Denkmal in Şəmkir.",
+                  "category": "historical",
+                  "coords": [
+                        46.033144,
+                        40.838772
+                  ]
+            },
+            {
+                  "name": "Historisches Deutsches Gebäude \\ Schamkir",
+                  "text": "Tarixi Alman Binası ist eine Touristenattraktion in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.020082,
+                        40.829677
+                  ]
+            },
+            {
+                  "name": "Aviakassa",
+                  "text": "Aviakassa ist eine lokale Sehenswürdigkeit in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.025005,
+                        40.828916
+                  ]
+            },
+            {
+                  "name": "Köhnə Hamam",
+                  "text": "Köhnə Hamam ist eine Sehenswürdigkeit in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.027734,
+                        40.831163
+                  ]
+            },
+            {
+                  "name": "Dördyol Dairəsi",
+                  "text": "Dördyol Dairəsi ist eine lokale Sehenswürdigkeit in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.032856,
+                        40.853482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alman İrs Mərkəzi",
+                  "text": "A German Heritage Center egy múzeum Şəmkir városában.",
+                  "category": "museum",
+                  "coords": [
+                        46.021005,
+                        40.831987
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Mərkəzi",
+                  "text": "A Mədəniyyət Mərkəzi egy színház Şəmkirben.",
+                  "category": "cultural",
+                  "coords": [
+                        46.023421,
+                        40.830275
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "A Heydər Əliyev Mərkəzi egy múzeum Şəmkirben.",
+                  "category": "museum",
+                  "coords": [
+                        46.029443,
+                        40.845267
+                  ]
+            },
+            {
+                  "name": "Vaqif Mədəniyyət Evi",
+                  "text": "A Vaqif Mədəniyyət Evi egy színház Şəmkirben.",
+                  "category": "cultural",
+                  "coords": [
+                        46.024572,
+                        40.833374
+                  ]
+            },
+            {
+                  "name": "Qırmızı Körpü",
+                  "text": "A Qırmızı Körpü egy helyi látványosság Şəmkirben.",
+                  "category": "landmark",
+                  "coords": [
+                        46.010983,
+                        40.807339
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "A Bayraq egy helyi látványosság Şəmkirben.",
+                  "category": "landmark",
+                  "coords": [
+                        46.033012,
+                        40.851591
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "A Şəhidlər Abidəsi egy emlékmű Şəmkirben.",
+                  "category": "historical",
+                  "coords": [
+                        46.033144,
+                        40.838772
+                  ]
+            },
+            {
+                  "name": "Tarixi Alman Binası",
+                  "text": "A Tarixi Alman Binası egy turisztikai látványosság Şəmkirben.",
+                  "category": "landmark",
+                  "coords": [
+                        46.020082,
+                        40.829677
+                  ]
+            },
+            {
+                  "name": "Aviakassa",
+                  "text": "Az Aviakassa egy helyi látványosság Şəmkirben.",
+                  "category": "landmark",
+                  "coords": [
+                        46.025005,
+                        40.828916
+                  ]
+            },
+            {
+                  "name": "Köhnə Hamam",
+                  "text": "A Köhnə Hamam egy látványosság Şəmkirben.",
+                  "category": "landmark",
+                  "coords": [
+                        46.027734,
+                        40.831163
+                  ]
+            },
+            {
+                  "name": "Dördyol Dairəsi",
+                  "text": "A Dördyol Dairəsi egy helyi látványosság Şəmkirben.",
+                  "category": "landmark",
+                  "coords": [
+                        46.032856,
+                        40.853482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alman İrs Mərkəzi",
+                  "text": "German Heritage Center este un muzeu situat în orașul Şəmkir.",
+                  "category": "museum",
+                  "coords": [
+                        46.021005,
+                        40.831987
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Mərkəzi",
+                  "text": "Mədəniyyət Mərkəzi este un teatru în Şəmkir.",
+                  "category": "cultural",
+                  "coords": [
+                        46.023421,
+                        40.830275
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Heydər Əliyev Mərkəzi este un muzeu în Şəmkir.",
+                  "category": "museum",
+                  "coords": [
+                        46.029443,
+                        40.845267
+                  ]
+            },
+            {
+                  "name": "Vaqif Mədəniyyət Evi",
+                  "text": "Vaqif Mədəniyyət Evi este un teatru în Şəmkir.",
+                  "category": "cultural",
+                  "coords": [
+                        46.024572,
+                        40.833374
+                  ]
+            },
+            {
+                  "name": "Qırmızı Körpü",
+                  "text": "Qırmızı Körpü este o atracție locală din Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.010983,
+                        40.807339
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Bayraq este o atracție locală din Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.033012,
+                        40.851591
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "Şəhidlər Abidəsi este un monument în Şəmkir.",
+                  "category": "historical",
+                  "coords": [
+                        46.033144,
+                        40.838772
+                  ]
+            },
+            {
+                  "name": "Tarixi Alman Binası",
+                  "text": "Tarixi Alman Binası este o atracție turistică în Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.020082,
+                        40.829677
+                  ]
+            },
+            {
+                  "name": "Aviakassa",
+                  "text": "Aviakassa este o atracție locală din Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.025005,
+                        40.828916
+                  ]
+            },
+            {
+                  "name": "Köhnə Hamam",
+                  "text": "Köhnə Hamam este o atracție turistică în Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.027734,
+                        40.831163
+                  ]
+            },
+            {
+                  "name": "Dördyol Dairəsi",
+                  "text": "Dördyol Dairəsi este o atracție locală din Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.032856,
+                        40.853482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "German Heritage Center",
+                  "text": "The German Heritage Center is a museum located in the city of Şəmkir.",
+                  "category": "museum",
+                  "coords": [
+                        46.021005,
+                        40.831987
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Mərkəzi",
+                  "text": "Mədəniyyət Mərkəzi is a theatre in Şəmkir.",
+                  "category": "cultural",
+                  "coords": [
+                        46.023421,
+                        40.830275
+                  ]
+            },
+            {
+                  "name": "Heydər Əliyev Mərkəzi",
+                  "text": "Heydər Əliyev Mərkəzi is a museum in Şəmkir.",
+                  "category": "museum",
+                  "coords": [
+                        46.029443,
+                        40.845267
+                  ]
+            },
+            {
+                  "name": "Vaqif Mədəniyyət Evi",
+                  "text": "Vaqif Mədəniyyət Evi is a theatre in Şəmkir.",
+                  "category": "cultural",
+                  "coords": [
+                        46.024572,
+                        40.833374
+                  ]
+            },
+            {
+                  "name": "Qırmızı Körpü",
+                  "text": "Qırmızı Körpü is a local attraction in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.010983,
+                        40.807339
+                  ]
+            },
+            {
+                  "name": "Bayraq",
+                  "text": "Bayraq is a local attraction in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.033012,
+                        40.851591
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Abidəsi",
+                  "text": "Şəhidlər Abidəsi is a monument in Şəmkir.",
+                  "category": "historical",
+                  "coords": [
+                        46.033144,
+                        40.838772
+                  ]
+            },
+            {
+                  "name": "Tarixi Alman Binası",
+                  "text": "Tarixi Alman Binası is a tourist attraction in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.020082,
+                        40.829677
+                  ]
+            },
+            {
+                  "name": "Aviakassa",
+                  "text": "Aviakassa is a local attraction in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.025005,
+                        40.828916
+                  ]
+            },
+            {
+                  "name": "Köhnə Hamam",
+                  "text": "Köhnə Hamam is a tourist attraction in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.027734,
+                        40.831163
+                  ]
+            },
+            {
+                  "name": "Dördyol Dairəsi",
+                  "text": "Dördyol Dairəsi is a local attraction in Şəmkir.",
+                  "category": "landmark",
+                  "coords": [
+                        46.032856,
+                        40.853482
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-SKR",
     coords: [46.0172, 40.8294],
@@ -877,7 +6205,124 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "jalilabad-cities-v2",
+    id: "jalilabad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uşaq Əyləncə Parkı",
+                  "text": "Uşaq Əyləncə Parkı ist ein Themenpark in Cəlilabad.",
+                  "category": "recreational",
+                  "coords": [
+                        48.518974,
+                        39.210132
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidəsi",
+                  "text": "Das 1941-1945 Abidəsi ist ein Denkmal in Cəlilabad.",
+                  "category": "historical",
+                  "coords": [
+                        48.498111,
+                        39.208899
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Məscidi",
+                  "text": "Die \"Martyr's\" Mosque ist eine Attraktion in Cəlilabad.",
+                  "category": "landmark",
+                  "coords": [
+                        48.504263,
+                        39.216911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uşaq Əyləncə Parkı",
+                  "text": "Az Uşaq Əyləncə Parkı egy vidámpark Cəlilabad városában.",
+                  "category": "recreational",
+                  "coords": [
+                        48.518974,
+                        39.210132
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidəsi",
+                  "text": "Az 1941-1945 Abidəsi egy emlékmű Cəlilabad területén.",
+                  "category": "historical",
+                  "coords": [
+                        48.498111,
+                        39.208899
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Məscidi",
+                  "text": "A \"Martyr's\" Mosque egy látványosság Cəlilabad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.504263,
+                        39.216911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uşaq Əyləncə Parkı",
+                  "text": "Uşaq Əyləncə Parkı este un parc tematic situat în Cəlilabad.",
+                  "category": "recreational",
+                  "coords": [
+                        48.518974,
+                        39.210132
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidəsi",
+                  "text": "1941-1945 Abidəsi este un monument situat în Cəlilabad.",
+                  "category": "historical",
+                  "coords": [
+                        48.498111,
+                        39.208899
+                  ]
+            },
+            {
+                  "name": "Şəhidlər Məscidi",
+                  "text": "\"Martyr's\" Mosque este o atracție aflată în Cəlilabad.",
+                  "category": "landmark",
+                  "coords": [
+                        48.504263,
+                        39.216911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uşaq Əyləncə Parkı",
+                  "text": "Uşaq Əyləncə Parkı is a theme park located in Cəlilabad.",
+                  "category": "recreational",
+                  "coords": [
+                        48.518974,
+                        39.210132
+                  ]
+            },
+            {
+                  "name": "1941-1945 Abidəsi",
+                  "text": "The 1941-1945 Abidəsi is a monument situated in Cəlilabad.",
+                  "category": "historical",
+                  "coords": [
+                        48.498111,
+                        39.208899
+                  ]
+            },
+            {
+                  "name": "\"Martyr's\" Mosque",
+                  "text": "The \"Martyr's\" Mosque is an attraction located in Cəlilabad.",
+                  "category": "landmark",
+                  "coords": [
+                        48.504263,
+                        39.216911
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-CAL",
     coords: [48.4978, 39.2053],
@@ -921,7 +6366,556 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "zaqatala-cities-v2",
+    id: "zaqatala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Das Heydar-Aliyev-Museum in Zaqatala würdigt das Erbe des ehemaligen Präsidenten.",
+                  "category": "museum",
+                  "coords": [
+                        46.655685,
+                        41.638755
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Das Kulturhaus in Zaqatala ist ein Zentrum für künstlerische Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        46.660561,
+                        41.64687
+                  ]
+            },
+            {
+                  "name": "Tarıx Muzeyi",
+                  "text": "Das Geschichtsmuseum in Zaqatala bewahrt die Vergangenheit der Region.",
+                  "category": "museum",
+                  "coords": [
+                        46.650251,
+                        41.633953
+                  ]
+            },
+            {
+                  "name": "Şöhrət Muzeyi",
+                  "text": "Das Ruhmesmuseum in Zaqatala erinnert an bedeutende Persönlichkeiten und Ereignisse.",
+                  "category": "museum",
+                  "coords": [
+                        46.652289,
+                        41.632649
+                  ]
+            },
+            {
+                  "name": "Qala Türməsi",
+                  "text": "Das Festungsgefängnis in Zaqatala ist ein historisches Zeugnis der Vergangenheit.",
+                  "category": "fortress",
+                  "coords": [
+                        46.648942,
+                        41.638477
+                  ]
+            },
+            {
+                  "name": "Kilsə",
+                  "text": "Die Kirche in Zaqatala ist ein Ort spiritueller Einkehr.",
+                  "category": "religious",
+                  "coords": [
+                        46.649864,
+                        41.636979
+                  ]
+            },
+            {
+                  "name": "Yay Kinoteatrı",
+                  "text": "Das Sommerkino in Zaqatala bietet Unterhaltung im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        46.65251,
+                        41.636627
+                  ]
+            },
+            {
+                  "name": "Musiqi İncəsənət Məktəbi",
+                  "text": "Die Musik- und Kunstschule in Zaqatala fördert junge Musiktalente.",
+                  "category": "cultural",
+                  "coords": [
+                        46.652936,
+                        41.633665
+                  ]
+            },
+            {
+                  "name": "Sevil Qazıyeva heykəli",
+                  "text": "Das Sevil-Qazıyeva-Denkmal in Zaqatala erinnert an die bekannte Persönlichkeit.",
+                  "category": "historical",
+                  "coords": [
+                        46.645613,
+                        41.632911
+                  ]
+            },
+            {
+                  "name": "Zabitlər Evi",
+                  "text": "Das Offiziershaus in Zaqatala ist ein historisches Gebäude mit kultureller Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        46.648907,
+                        41.637462
+                  ]
+            },
+            {
+                  "name": "Xocalı Abidəsi / Zaqatala",
+                  "text": "Das Xocalı-Denkmal in Zaqatala erinnert an die Opfer der Tragödie.",
+                  "category": "historical",
+                  "coords": [
+                        46.622428,
+                        41.63101
+                  ]
+            },
+            {
+                  "name": "Bayraq Dairəsi",
+                  "text": "Der Flaggenkreis in Zaqatala ist ein markantes städtisches Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        46.638815,
+                        41.630004
+                  ]
+            },
+            {
+                  "name": "Seyrangah",
+                  "text": "Die Seyrangah-Anlage in Zaqatala ist ein beliebter Aussichtspunkt und Treffpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        46.654816,
+                        41.637337
+                  ]
+            },
+            {
+                  "name": "Asma Körpü",
+                  "text": "Die Hängebrücke in Zaqatala ist eine sehenswerte touristische Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        46.654364,
+                        41.628571
+                  ]
+            },
+            {
+                  "name": "İS Otel Zaqatala",
+                  "text": "Das İS Hotel in Zaqatala bietet Unterkünfte für Reisende.",
+                  "category": "landmark",
+                  "coords": [
+                        46.624632,
+                        41.630964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "A zagatalai Heydar Aliyev Múzeum az egykori elnök öröksége előtt tiszteleg.",
+                  "category": "museum",
+                  "coords": [
+                        46.655685,
+                        41.638755
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "A zagatalai Művelődési Ház a művészeti tevékenységek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        46.660561,
+                        41.64687
+                  ]
+            },
+            {
+                  "name": "Tarıx Muzeyi",
+                  "text": "A zagatalai Történeti Múzeum a régió múltját őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        46.650251,
+                        41.633953
+                  ]
+            },
+            {
+                  "name": "Şöhrət Muzeyi",
+                  "text": "A zagatalai Dicsőség Múzeuma jelentős személyiségekre és eseményekre emlékezik.",
+                  "category": "museum",
+                  "coords": [
+                        46.652289,
+                        41.632649
+                  ]
+            },
+            {
+                  "name": "Qala Türməsi",
+                  "text": "A zagatalai erőd-börtön a múlt történelmi tanúja.",
+                  "category": "fortress",
+                  "coords": [
+                        46.648942,
+                        41.638477
+                  ]
+            },
+            {
+                  "name": "Kilsə",
+                  "text": "A zagatalai templom a lelki elmélyülés helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        46.649864,
+                        41.636979
+                  ]
+            },
+            {
+                  "name": "Yay Kinoteatrı",
+                  "text": "A zagatalai nyári mozi szabadtéri szórakozást kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        46.65251,
+                        41.636627
+                  ]
+            },
+            {
+                  "name": "Musiqi İncəsənət Məktəbi",
+                  "text": "A zagatalai Zene- és Művészeti Iskola a fiatal zenei tehetségeket gondozza.",
+                  "category": "cultural",
+                  "coords": [
+                        46.652936,
+                        41.633665
+                  ]
+            },
+            {
+                  "name": "Sevil Qazıyeva heykəli",
+                  "text": "A zagatalai Sevil Qazıyeva-szobor a neves személyiségnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        46.645613,
+                        41.632911
+                  ]
+            },
+            {
+                  "name": "Zabitlər Evi",
+                  "text": "A zagatalai Tisztiház egy történelmi jelentőségű épület.",
+                  "category": "historical",
+                  "coords": [
+                        46.648907,
+                        41.637462
+                  ]
+            },
+            {
+                  "name": "Xocalı Abidəsi / Zaqatala",
+                  "text": "A zagatalai Xocalı-emlékmű a tragédia áldozataira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        46.622428,
+                        41.63101
+                  ]
+            },
+            {
+                  "name": "Bayraq Dairəsi",
+                  "text": "A zagatalai zászló-körforgalom egy jellegzetes városi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        46.638815,
+                        41.630004
+                  ]
+            },
+            {
+                  "name": "Seyrangah",
+                  "text": "A zagatalai Seyrangah egy népszerű kilátó és találkozóhely.",
+                  "category": "landmark",
+                  "coords": [
+                        46.654816,
+                        41.637337
+                  ]
+            },
+            {
+                  "name": "Asma Körpü",
+                  "text": "A zagatalai függőhíd egy látványos turisztikai célpont.",
+                  "category": "landmark",
+                  "coords": [
+                        46.654364,
+                        41.628571
+                  ]
+            },
+            {
+                  "name": "İS Otel Zaqatala",
+                  "text": "A zagatalai İS Hotel szállást biztosít az utazók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        46.624632,
+                        41.630964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "Muzeul Heydar Aliyev din Zaqatala onorează moștenirea fostului președinte.",
+                  "category": "museum",
+                  "coords": [
+                        46.655685,
+                        41.638755
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "Casa de Cultură din Zaqatala este un centru pentru activități artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        46.660561,
+                        41.64687
+                  ]
+            },
+            {
+                  "name": "Tarıx Muzeyi",
+                  "text": "Muzeul de Istorie din Zaqatala păstrează trecutul regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        46.650251,
+                        41.633953
+                  ]
+            },
+            {
+                  "name": "Şöhrət Muzeyi",
+                  "text": "Muzeul Gloriei din Zaqatala comemorează personalități și evenimente semnificative.",
+                  "category": "museum",
+                  "coords": [
+                        46.652289,
+                        41.632649
+                  ]
+            },
+            {
+                  "name": "Qala Türməsi",
+                  "text": "Închisoarea din fortăreața Zaqatala este o mărturie istorică a trecutului.",
+                  "category": "fortress",
+                  "coords": [
+                        46.648942,
+                        41.638477
+                  ]
+            },
+            {
+                  "name": "Kilsə",
+                  "text": "Biserica din Zaqatala este un loc de reculegere spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        46.649864,
+                        41.636979
+                  ]
+            },
+            {
+                  "name": "Yay Kinoteatrı",
+                  "text": "Cinematograful de vară din Zaqatala oferă divertisment în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        46.65251,
+                        41.636627
+                  ]
+            },
+            {
+                  "name": "Musiqi İncəsənət Məktəbi",
+                  "text": "Școala de Muzică și Arte din Zaqatala susține tinerele talente muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        46.652936,
+                        41.633665
+                  ]
+            },
+            {
+                  "name": "Sevil Qazıyeva heykəli",
+                  "text": "Monumentul Sevil Qazıyeva din Zaqatala amintește de personalitatea cunoscută.",
+                  "category": "historical",
+                  "coords": [
+                        46.645613,
+                        41.632911
+                  ]
+            },
+            {
+                  "name": "Zabitlər Evi",
+                  "text": "Casa Ofițerilor din Zaqatala este o clădire istorică cu semnificație culturală.",
+                  "category": "historical",
+                  "coords": [
+                        46.648907,
+                        41.637462
+                  ]
+            },
+            {
+                  "name": "Xocalı Abidəsi / Zaqatala",
+                  "text": "Monumentul Xocalı din Zaqatala comemorează victimele tragediei.",
+                  "category": "historical",
+                  "coords": [
+                        46.622428,
+                        41.63101
+                  ]
+            },
+            {
+                  "name": "Bayraq Dairəsi",
+                  "text": "Cercul Steagului din Zaqatala este un monument urban distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        46.638815,
+                        41.630004
+                  ]
+            },
+            {
+                  "name": "Seyrangah",
+                  "text": "Locul Seyrangah din Zaqatala este un punct de belvedere și întâlnire popular.",
+                  "category": "landmark",
+                  "coords": [
+                        46.654816,
+                        41.637337
+                  ]
+            },
+            {
+                  "name": "Asma Körpü",
+                  "text": "Podul suspendat din Zaqatala este o atracție turistică demnă de vizitat.",
+                  "category": "landmark",
+                  "coords": [
+                        46.654364,
+                        41.628571
+                  ]
+            },
+            {
+                  "name": "İS Otel Zaqatala",
+                  "text": "Hotelul İS din Zaqatala oferă cazare pentru călători.",
+                  "category": "landmark",
+                  "coords": [
+                        46.624632,
+                        41.630964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heydər Əliyev Muzeyi",
+                  "text": "The Heydar Aliyev Museum in Zaqatala honors the legacy of the former president.",
+                  "category": "museum",
+                  "coords": [
+                        46.655685,
+                        41.638755
+                  ]
+            },
+            {
+                  "name": "Mədəniyyət Evi",
+                  "text": "The House of Culture in Zaqatala is a center for artistic activities.",
+                  "category": "cultural",
+                  "coords": [
+                        46.660561,
+                        41.64687
+                  ]
+            },
+            {
+                  "name": "Tarıx Muzeyi",
+                  "text": "The History Museum in Zaqatala preserves the past of the region.",
+                  "category": "museum",
+                  "coords": [
+                        46.650251,
+                        41.633953
+                  ]
+            },
+            {
+                  "name": "Şöhrət Muzeyi",
+                  "text": "The Glory Museum in Zaqatala commemorates significant personalities and events.",
+                  "category": "museum",
+                  "coords": [
+                        46.652289,
+                        41.632649
+                  ]
+            },
+            {
+                  "name": "Qala Türməsi",
+                  "text": "The fortress prison in Zaqatala is a historic witness of the past.",
+                  "category": "fortress",
+                  "coords": [
+                        46.648942,
+                        41.638477
+                  ]
+            },
+            {
+                  "name": "Kilsə",
+                  "text": "The church in Zaqatala is a place of spiritual reflection.",
+                  "category": "religious",
+                  "coords": [
+                        46.649864,
+                        41.636979
+                  ]
+            },
+            {
+                  "name": "Yay Kinoteatrı",
+                  "text": "The summer cinema in Zaqatala offers outdoor entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        46.65251,
+                        41.636627
+                  ]
+            },
+            {
+                  "name": "Musiqi İncəsənət Məktəbi",
+                  "text": "The Music and Arts School in Zaqatala supports young musical talents.",
+                  "category": "cultural",
+                  "coords": [
+                        46.652936,
+                        41.633665
+                  ]
+            },
+            {
+                  "name": "Sevil Qazıyeva heykəli",
+                  "text": "The Sevil Qazıyeva Monument in Zaqatala commemorates the well-known personality.",
+                  "category": "historical",
+                  "coords": [
+                        46.645613,
+                        41.632911
+                  ]
+            },
+            {
+                  "name": "Zabitlər Evi",
+                  "text": "The Officers' House in Zaqatala is a historic building with cultural significance.",
+                  "category": "historical",
+                  "coords": [
+                        46.648907,
+                        41.637462
+                  ]
+            },
+            {
+                  "name": "Xocalı Abidəsi / Zaqatala",
+                  "text": "The Xocalı Monument in Zaqatala commemorates the victims of the tragedy.",
+                  "category": "historical",
+                  "coords": [
+                        46.622428,
+                        41.63101
+                  ]
+            },
+            {
+                  "name": "Bayraq Dairəsi",
+                  "text": "The Flag Circle in Zaqatala is a distinctive urban monument.",
+                  "category": "historical",
+                  "coords": [
+                        46.638815,
+                        41.630004
+                  ]
+            },
+            {
+                  "name": "Seyrangah",
+                  "text": "The Seyrangah site in Zaqatala is a popular viewpoint and meeting place.",
+                  "category": "landmark",
+                  "coords": [
+                        46.654816,
+                        41.637337
+                  ]
+            },
+            {
+                  "name": "Asma Körpü",
+                  "text": "The suspension bridge in Zaqatala is a worthwhile tourist attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        46.654364,
+                        41.628571
+                  ]
+            },
+            {
+                  "name": "İS Otel Zaqatala",
+                  "text": "The İS Hotel in Zaqatala provides accommodation for travelers.",
+                  "category": "landmark",
+                  "coords": [
+                        46.624632,
+                        41.630964
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-ZAQ",
     coords: [46.6433, 41.6336],
@@ -965,7 +6959,52 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "masalli-cities-v2",
+    id: "masalli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nizami Gəncəvi heykəli",
+                  "text": "Nizami Gəncəvi heykəli ist ein Denkmal in der Stadt Masallı.",
+                  "category": "historical",
+                  "coords": [
+                        48.670082,
+                        39.032394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nizami Gəncəvi heykəli",
+                  "text": "A Nizami Gəncəvi heykəli egy emlékmű Masallı városában.",
+                  "category": "historical",
+                  "coords": [
+                        48.670082,
+                        39.032394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nizami Gəncəvi heykəli",
+                  "text": "Nizami Gəncəvi heykəli este un monument din orașul Masallı.",
+                  "category": "historical",
+                  "coords": [
+                        48.670082,
+                        39.032394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nizami Gəncəvi heykəli",
+                  "text": "Nizami Gəncəvi heykəli is a monument in the city of Masallı.",
+                  "category": "historical",
+                  "coords": [
+                        48.670082,
+                        39.032394
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-MAS",
     coords: [48.6653, 39.0342],
@@ -1009,7 +7048,52 @@ export const poiExtraAzerbaijanCitiesV2: POI[] = [
     },
   },
   {
-    id: "agdam-cities-v2",
+    id: "agdam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ağdamer Moschee",
+                  "text": "Die Agdam Mosque ist eine bedeutende Moschee in Ağdam.",
+                  "category": "landmark",
+                  "coords": [
+                        46.931644,
+                        39.993273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cümə məscidi",
+                  "text": "Az Agdam Mosque egy jelentős mecset Ağdam városában.",
+                  "category": "landmark",
+                  "coords": [
+                        46.931644,
+                        39.993273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cümə məscidi",
+                  "text": "Agdam Mosque este o moschee recunoscută situată în Ağdam.",
+                  "category": "landmark",
+                  "coords": [
+                        46.931644,
+                        39.993273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agdam Mosque",
+                  "text": "The Agdam Mosque is a prominent and historically significant mosque located in Ağdam.",
+                  "category": "landmark",
+                  "coords": [
+                        46.931644,
+                        39.993273
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AZ-AGM",
     coords: [46.9272, 39.9933],

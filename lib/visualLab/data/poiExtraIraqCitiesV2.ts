@@ -638,7 +638,268 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Birthplace of the Kurdish-Muslim leader Saladin in 1137.", "The administrative center of the Salah ad-Din Governorate.", "Perched on a limestone cliff along the Tigris River.", "Home to the University of Tikrit, established in 1987.", "Estimated population is approximately 190,000 residents.", "A historical center for the Maphrian of the Syriac Orthodox Church.", "Strategically located near the major Baiji oil refinery.", "Tikrit Castle was a significant fortress destroyed in the 14th century."],
     }, image: "/poi-images/tikrit-cities-v2.webp"},
   {
-    id: "samarra-cities-v2",
+    id: "samarra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Minarett von Samarra",
+                  "text": "Malwiya ist eine bekannte archäologische Stätte in Samarra.",
+                  "category": "historical",
+                  "coords": [
+                        43.879769,
+                        34.205771
+                  ]
+            },
+            {
+                  "name": "متحف سامراء",
+                  "text": "Das Samarra Museum ist ein lokales Museum in Samarra.",
+                  "category": "museum",
+                  "coords": [
+                        43.876455,
+                        34.199207
+                  ]
+            },
+            {
+                  "name": "مدخل البوباز",
+                  "text": "Der check point bietet einen Aussichtspunkt in Samarra.",
+                  "category": "natural",
+                  "coords": [
+                        43.878328,
+                        34.196725
+                  ]
+            },
+            {
+                  "name": "متنزه سامراء",
+                  "text": "Der samarra park ist eine lokale Sehenswürdigkeit in Samarra.",
+                  "category": "landmark",
+                  "coords": [
+                        43.891233,
+                        34.199627
+                  ]
+            },
+            {
+                  "name": "متنزه سامراء 2",
+                  "text": "Der samarra park 2 ist eine weitere Sehenswürdigkeit in Samarra.",
+                  "category": "landmark",
+                  "coords": [
+                        43.892362,
+                        34.20366
+                  ]
+            },
+            {
+                  "name": "سيطرة الدور",
+                  "text": "سيطرة الدور ist ein Aussichtspunkt in der Stadt Samarra.",
+                  "category": "natural",
+                  "coords": [
+                        43.883092,
+                        34.220655
+                  ]
+            },
+            {
+                  "name": "مرقد الامامين علي الهادي والحسن العسكري",
+                  "text": "Der Al-Askari-Schrein ist ein bedeutendes schiitisches Heiligtum in Samarra.",
+                  "category": "religious",
+                  "coords": [
+                        43.873533,
+                        34.198927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "جامع الملوية",
+                  "text": "A(z) Malwiya egy jelentős régészeti lelőhely Samarra városában.",
+                  "category": "historical",
+                  "coords": [
+                        43.879769,
+                        34.205771
+                  ]
+            },
+            {
+                  "name": "متحف سامراء",
+                  "text": "A Samarra Museum egy helyi múzeum Samarra városában.",
+                  "category": "museum",
+                  "coords": [
+                        43.876455,
+                        34.199207
+                  ]
+            },
+            {
+                  "name": "مدخل البوباز",
+                  "text": "A check point egy kilátópont Samarra városában.",
+                  "category": "natural",
+                  "coords": [
+                        43.878328,
+                        34.196725
+                  ]
+            },
+            {
+                  "name": "متنزه سامراء",
+                  "text": "A samarra park egy helyi látványosság Samarra városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.891233,
+                        34.199627
+                  ]
+            },
+            {
+                  "name": "متنزه سامراء 2",
+                  "text": "A samarra park 2 egy további látványosság Samarra városában.",
+                  "category": "landmark",
+                  "coords": [
+                        43.892362,
+                        34.20366
+                  ]
+            },
+            {
+                  "name": "سيطرة الدور",
+                  "text": "A سيطرة الدور egy kilátópont Samarra városában.",
+                  "category": "natural",
+                  "coords": [
+                        43.883092,
+                        34.220655
+                  ]
+            },
+            {
+                  "name": "مرقد الامامين علي الهادي والحسن العسكري",
+                  "text": "Az Al-Askari-szentély egy jelentős síita muszlim szent hely Samarra városában.",
+                  "category": "religious",
+                  "coords": [
+                        43.873533,
+                        34.198927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "جامع الملوية",
+                  "text": "Malwiya este un sit arheologic notabil situat în Samarra.",
+                  "category": "historical",
+                  "coords": [
+                        43.879769,
+                        34.205771
+                  ]
+            },
+            {
+                  "name": "متحف سامراء",
+                  "text": "Samarra Museum este un muzeu local situat în orașul Samarra.",
+                  "category": "museum",
+                  "coords": [
+                        43.876455,
+                        34.199207
+                  ]
+            },
+            {
+                  "name": "مدخل البوباز",
+                  "text": "Check point este un punct de belvedere din Samarra.",
+                  "category": "natural",
+                  "coords": [
+                        43.878328,
+                        34.196725
+                  ]
+            },
+            {
+                  "name": "متنزه سامراء",
+                  "text": "Samarra park este o atracție locală din Samarra.",
+                  "category": "landmark",
+                  "coords": [
+                        43.891233,
+                        34.199627
+                  ]
+            },
+            {
+                  "name": "متنزه سامراء 2",
+                  "text": "Samarra park 2 este o altă atracție turistică din Samarra.",
+                  "category": "landmark",
+                  "coords": [
+                        43.892362,
+                        34.20366
+                  ]
+            },
+            {
+                  "name": "سيطرة الدور",
+                  "text": "سيطرة الدور este un punct de belvedere situat în Samarra.",
+                  "category": "natural",
+                  "coords": [
+                        43.883092,
+                        34.220655
+                  ]
+            },
+            {
+                  "name": "مرقد الامامين علي الهادي والحسن العسكري",
+                  "text": "Al-Askari Shrine este un important altar și loc de cult șiit din Samarra.",
+                  "category": "religious",
+                  "coords": [
+                        43.873533,
+                        34.198927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malwiya",
+                  "text": "Malwiya is a notable archaeological site located in Samarra.",
+                  "category": "historical",
+                  "coords": [
+                        43.879769,
+                        34.205771
+                  ]
+            },
+            {
+                  "name": "Samarra Museum",
+                  "text": "The Samarra Museum is a local museum located in Samarra.",
+                  "category": "museum",
+                  "coords": [
+                        43.876455,
+                        34.199207
+                  ]
+            },
+            {
+                  "name": "check point",
+                  "text": "The check point is a viewpoint situated in Samarra.",
+                  "category": "natural",
+                  "coords": [
+                        43.878328,
+                        34.196725
+                  ]
+            },
+            {
+                  "name": "samarra park",
+                  "text": "The samarra park is a local attraction located in Samarra.",
+                  "category": "landmark",
+                  "coords": [
+                        43.891233,
+                        34.199627
+                  ]
+            },
+            {
+                  "name": "samarra park 2",
+                  "text": "The samarra park 2 is another local attraction in Samarra.",
+                  "category": "landmark",
+                  "coords": [
+                        43.892362,
+                        34.20366
+                  ]
+            },
+            {
+                  "name": "سيطرة الدور",
+                  "text": "سيطرة الدور is a viewpoint located in the city of Samarra.",
+                  "category": "natural",
+                  "coords": [
+                        43.883092,
+                        34.220655
+                  ]
+            },
+            {
+                  "name": "Al-Askari Shrine",
+                  "text": "The Al-Askari Shrine is a significant Shia Muslim holy site and place of worship in Samarra.",
+                  "category": "religious",
+                  "coords": [
+                        43.873533,
+                        34.198927
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-SA",
     coords: [43.896, 34.198],
@@ -755,7 +1016,772 @@ export const poiExtraIraqCitiesV2: POI[] = [
       en: ["Capital city of the Duhok Governorate in Iraqi Kurdistan.", "Located approximately 470 kilometers north of Baghdad.", "The city is surrounded by the Zagros mountain range foothills.", "Established as a separate governorate in 1969.", "Home to the Duhok SC, a prominent football club in Iraq.", "The local dam provides nearly 50 million cubic meters of water.", "Key industries include construction, trade, and agriculture.", "Features the Dream City amusement park, one of the largest in the area."],
     }, image: "/poi-images/duhok-cities-v2.webp"},
   {
-    id: "zakho-cities-v2",
+    id: "zakho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "هيبار",
+                  "text": "Hi-Bar ist ein Museum in Zaxo.",
+                  "category": "museum",
+                  "coords": [
+                        42.672581,
+                        37.144487
+                  ]
+            },
+            {
+                  "name": "اوقاف",
+                  "text": "Ewqaf ist ein Museum in Zaxo.",
+                  "category": "museum",
+                  "coords": [
+                        42.675058,
+                        37.149604
+                  ]
+            },
+            {
+                  "name": "Zakho Musem",
+                  "text": "Das Zakho Museum ist eine Kultureinrichtung in Zaxo.",
+                  "category": "museum",
+                  "coords": [
+                        42.696116,
+                        37.136903
+                  ]
+            },
+            {
+                  "name": "abasika seri",
+                  "text": "Abasika seri ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.710194,
+                        37.139488
+                  ]
+            },
+            {
+                  "name": "Mal",
+                  "text": "Mal ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.67798,
+                        37.157448
+                  ]
+            },
+            {
+                  "name": "علي شارع السد",
+                  "text": "Ali Char' al-Sadd ist ein Aussichtspunkt in Zaxo.",
+                  "category": "natural",
+                  "coords": [
+                        42.682874,
+                        37.144189
+                  ]
+            },
+            {
+                  "name": "fars hamza",
+                  "text": "Fars Hamza ist ein Aussichtspunkt in Zaxo.",
+                  "category": "natural",
+                  "coords": [
+                        42.687826,
+                        37.144045
+                  ]
+            },
+            {
+                  "name": "كاميرة رادار",
+                  "text": "Der Speed Radar ist ein Aussichtspunkt in Zaxo.",
+                  "category": "natural",
+                  "coords": [
+                        42.663593,
+                        37.145617
+                  ]
+            },
+            {
+                  "name": "العمارة المائلة",
+                  "text": "Die schiefe Architektur ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.686689,
+                        37.158541
+                  ]
+            },
+            {
+                  "name": "Gashapedan Zaxo",
+                  "text": "Gashapedan Zaxo ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.690198,
+                        37.161458
+                  ]
+            },
+            {
+                  "name": "سندی کوزماتیك",
+                  "text": "Die Shadi Apotheke ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.688224,
+                        37.143081
+                  ]
+            },
+            {
+                  "name": "Pira Delal | پڕا دەلال",
+                  "text": "Die Delal-Brücke ist eine historische Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.694574,
+                        37.136538
+                  ]
+            },
+            {
+                  "name": "گورستانا زاخو",
+                  "text": "Der Friedhof von Zaxo ist ein Denkmal in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        42.684452,
+                        37.135125
+                  ]
+            },
+            {
+                  "name": "وارگەها دەلال",
+                  "text": "Wargeha Delal ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.694982,
+                        37.135211
+                  ]
+            },
+            {
+                  "name": "Delal Corniche",
+                  "text": "Die Zakho Corniche ist eine Uferpromenade in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.692403,
+                        37.136659
+                  ]
+            },
+            {
+                  "name": "ZA#A1998",
+                  "text": "ZA#A1998 ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.684463,
+                        37.142335
+                  ]
+            },
+            {
+                  "name": "za.22",
+                  "text": "Za.22 ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.68738,
+                        37.149734
+                  ]
+            },
+            {
+                  "name": "TOGA PORTO MARINA",
+                  "text": "TOGA Porto Marina Zakho ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.685277,
+                        37.136479
+                  ]
+            },
+            {
+                  "name": "White Village",
+                  "text": "Das White Village ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.685498,
+                        37.128302
+                  ]
+            },
+            {
+                  "name": "Kalha Zakho",
+                  "text": "Kalha Zakho ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.683,
+                        37.141467
+                  ]
+            },
+            {
+                  "name": "پارکا ٢٦ گولانێ",
+                  "text": "Der 26 Gulan Park ist eine Attraktion in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.689164,
+                        37.137957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "هيبار",
+                  "text": "A Hi-Bar egy múzeum Zaxóban.",
+                  "category": "museum",
+                  "coords": [
+                        42.672581,
+                        37.144487
+                  ]
+            },
+            {
+                  "name": "اوقاف",
+                  "text": "Az Ewqaf egy múzeum Zaxóban.",
+                  "category": "museum",
+                  "coords": [
+                        42.675058,
+                        37.149604
+                  ]
+            },
+            {
+                  "name": "Zakho Musem",
+                  "text": "A Zakho Museum egy kulturális intézmény Zaxóban.",
+                  "category": "museum",
+                  "coords": [
+                        42.696116,
+                        37.136903
+                  ]
+            },
+            {
+                  "name": "abasika seri",
+                  "text": "Az Abasika seri egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.710194,
+                        37.139488
+                  ]
+            },
+            {
+                  "name": "Mal",
+                  "text": "A Mal egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.67798,
+                        37.157448
+                  ]
+            },
+            {
+                  "name": "علي شارع السد",
+                  "text": "Az Ali Char' al-Sadd egy kilátó Zaxóban.",
+                  "category": "natural",
+                  "coords": [
+                        42.682874,
+                        37.144189
+                  ]
+            },
+            {
+                  "name": "fars hamza",
+                  "text": "A Fars Hamza egy kilátó Zaxóban.",
+                  "category": "natural",
+                  "coords": [
+                        42.687826,
+                        37.144045
+                  ]
+            },
+            {
+                  "name": "كاميرة رادار",
+                  "text": "A Speed radar egy kilátó Zaxóban.",
+                  "category": "natural",
+                  "coords": [
+                        42.663593,
+                        37.145617
+                  ]
+            },
+            {
+                  "name": "العمارة المائلة",
+                  "text": "A ferde építészet egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.686689,
+                        37.158541
+                  ]
+            },
+            {
+                  "name": "Gashapedan Zaxo",
+                  "text": "A Gashapedan Zaxo egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.690198,
+                        37.161458
+                  ]
+            },
+            {
+                  "name": "سندی کوزماتیك",
+                  "text": "A Shadi gyógyszertár egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.688224,
+                        37.143081
+                  ]
+            },
+            {
+                  "name": "Pira Delal | پڕا دەلال",
+                  "text": "A Delal-híd egy történelmi látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.694574,
+                        37.136538
+                  ]
+            },
+            {
+                  "name": "گورستانا زاخو",
+                  "text": "A Zaxói temető egy emlékmű a városban.",
+                  "category": "historical",
+                  "coords": [
+                        42.684452,
+                        37.135125
+                  ]
+            },
+            {
+                  "name": "وارگەها دەلال",
+                  "text": "A Wargeha Delal egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.694982,
+                        37.135211
+                  ]
+            },
+            {
+                  "name": "Delal Corniche",
+                  "text": "A Zakho Corniche egy vízparti sétány Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.692403,
+                        37.136659
+                  ]
+            },
+            {
+                  "name": "ZA#A1998",
+                  "text": "A ZA#A1998 egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.684463,
+                        37.142335
+                  ]
+            },
+            {
+                  "name": "za.22",
+                  "text": "A Za.22 egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.68738,
+                        37.149734
+                  ]
+            },
+            {
+                  "name": "TOGA PORTO MARINA",
+                  "text": "A TOGA Porto Marina Zakho egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.685277,
+                        37.136479
+                  ]
+            },
+            {
+                  "name": "White Village",
+                  "text": "A White Village egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.685498,
+                        37.128302
+                  ]
+            },
+            {
+                  "name": "Kalha Zakho",
+                  "text": "A Kalha Zakho egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.683,
+                        37.141467
+                  ]
+            },
+            {
+                  "name": "پارکا ٢٦ گولانێ",
+                  "text": "A 26 Gulan Park egy látnivaló Zaxóban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.689164,
+                        37.137957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "هيبار",
+                  "text": "Hi-Bar este un muzeu în Zaxo.",
+                  "category": "museum",
+                  "coords": [
+                        42.672581,
+                        37.144487
+                  ]
+            },
+            {
+                  "name": "اوقاف",
+                  "text": "Ewqaf este un muzeu în Zaxo.",
+                  "category": "museum",
+                  "coords": [
+                        42.675058,
+                        37.149604
+                  ]
+            },
+            {
+                  "name": "Zakho Musem",
+                  "text": "Muzeul Zakho este o instituție culturală în Zaxo.",
+                  "category": "museum",
+                  "coords": [
+                        42.696116,
+                        37.136903
+                  ]
+            },
+            {
+                  "name": "abasika seri",
+                  "text": "Abasika seri este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.710194,
+                        37.139488
+                  ]
+            },
+            {
+                  "name": "Mal",
+                  "text": "Mal este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.67798,
+                        37.157448
+                  ]
+            },
+            {
+                  "name": "علي شارع السد",
+                  "text": "Ali Char' al-Sadd este un punct de vedere în Zaxo.",
+                  "category": "natural",
+                  "coords": [
+                        42.682874,
+                        37.144189
+                  ]
+            },
+            {
+                  "name": "fars hamza",
+                  "text": "Fars Hamza este un punct de vedere în Zaxo.",
+                  "category": "natural",
+                  "coords": [
+                        42.687826,
+                        37.144045
+                  ]
+            },
+            {
+                  "name": "كاميرة رادار",
+                  "text": "Speed radar este un punct de vedere în Zaxo.",
+                  "category": "natural",
+                  "coords": [
+                        42.663593,
+                        37.145617
+                  ]
+            },
+            {
+                  "name": "العمارة المائلة",
+                  "text": "Arhitectura înclinată este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.686689,
+                        37.158541
+                  ]
+            },
+            {
+                  "name": "Gashapedan Zaxo",
+                  "text": "Gashapedan Zaxo este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.690198,
+                        37.161458
+                  ]
+            },
+            {
+                  "name": "سندی کوزماتیك",
+                  "text": "Farmacia Shadi este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.688224,
+                        37.143081
+                  ]
+            },
+            {
+                  "name": "Pira Delal | پڕا دەلال",
+                  "text": "Podul Dalal este o atracție istorică în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.694574,
+                        37.136538
+                  ]
+            },
+            {
+                  "name": "گورستانا زاخو",
+                  "text": "Cimitirul din Zaxo este un monument în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        42.684452,
+                        37.135125
+                  ]
+            },
+            {
+                  "name": "وارگەها دەلال",
+                  "text": "Wargeha Delal este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.694982,
+                        37.135211
+                  ]
+            },
+            {
+                  "name": "Delal Corniche",
+                  "text": "Zakho Corniche este o promenadă de coastă în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.692403,
+                        37.136659
+                  ]
+            },
+            {
+                  "name": "ZA#A1998",
+                  "text": "ZA#A1998 este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.684463,
+                        37.142335
+                  ]
+            },
+            {
+                  "name": "za.22",
+                  "text": "Za.22 este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.68738,
+                        37.149734
+                  ]
+            },
+            {
+                  "name": "TOGA PORTO MARINA",
+                  "text": "TOGA Porto Marina Zakho este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.685277,
+                        37.136479
+                  ]
+            },
+            {
+                  "name": "White Village",
+                  "text": "White Village este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.685498,
+                        37.128302
+                  ]
+            },
+            {
+                  "name": "Kalha Zakho",
+                  "text": "Kalha Zakho este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.683,
+                        37.141467
+                  ]
+            },
+            {
+                  "name": "پارکا ٢٦ گولانێ",
+                  "text": "Parcul 26 Gulan este o atracție în Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.689164,
+                        37.137957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hi-Bar",
+                  "text": "Hi-Bar is a museum in Zaxo.",
+                  "category": "museum",
+                  "coords": [
+                        42.672581,
+                        37.144487
+                  ]
+            },
+            {
+                  "name": "ewqaf",
+                  "text": "Ewqaf is a museum in Zaxo.",
+                  "category": "museum",
+                  "coords": [
+                        42.675058,
+                        37.149604
+                  ]
+            },
+            {
+                  "name": "Zakho Musem",
+                  "text": "Zakho Museum is a cultural institution in Zaxo.",
+                  "category": "museum",
+                  "coords": [
+                        42.696116,
+                        37.136903
+                  ]
+            },
+            {
+                  "name": "abasika seri",
+                  "text": "Abasika seri is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.710194,
+                        37.139488
+                  ]
+            },
+            {
+                  "name": "Mal",
+                  "text": "Mal is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.67798,
+                        37.157448
+                  ]
+            },
+            {
+                  "name": "علي شارع السد",
+                  "text": "Ali Char' al-Sadd is a viewpoint in Zaxo.",
+                  "category": "natural",
+                  "coords": [
+                        42.682874,
+                        37.144189
+                  ]
+            },
+            {
+                  "name": "fars hamza",
+                  "text": "Fars Hamza is a viewpoint in Zaxo.",
+                  "category": "natural",
+                  "coords": [
+                        42.687826,
+                        37.144045
+                  ]
+            },
+            {
+                  "name": "speed radar",
+                  "text": "Speed radar is a viewpoint in Zaxo.",
+                  "category": "natural",
+                  "coords": [
+                        42.663593,
+                        37.145617
+                  ]
+            },
+            {
+                  "name": "العمارة المائلة",
+                  "text": "The leaning architecture is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.686689,
+                        37.158541
+                  ]
+            },
+            {
+                  "name": "Gashapedan Zaxo",
+                  "text": "Gashapedan Zaxo is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.690198,
+                        37.161458
+                  ]
+            },
+            {
+                  "name": "Shadi pharmacy",
+                  "text": "Shadi pharmacy is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.688224,
+                        37.143081
+                  ]
+            },
+            {
+                  "name": "Dalal Bridge",
+                  "text": "Dalal Bridge is a historic attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.694574,
+                        37.136538
+                  ]
+            },
+            {
+                  "name": "گورستانا زاخو",
+                  "text": "The cemetery of Zaxo is a monument in the city.",
+                  "category": "historical",
+                  "coords": [
+                        42.684452,
+                        37.135125
+                  ]
+            },
+            {
+                  "name": "وارگەها دەلال",
+                  "text": "Wargeha Delal is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.694982,
+                        37.135211
+                  ]
+            },
+            {
+                  "name": "Zakho Corniche",
+                  "text": "Zakho Corniche is a waterfront promenade in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.692403,
+                        37.136659
+                  ]
+            },
+            {
+                  "name": "ZA#A1998",
+                  "text": "ZA#A1998 is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.684463,
+                        37.142335
+                  ]
+            },
+            {
+                  "name": "za.22",
+                  "text": "Za.22 is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.68738,
+                        37.149734
+                  ]
+            },
+            {
+                  "name": "TOGA PORTO MARINA ZAKHO",
+                  "text": "TOGA Porto Marina Zakho is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.685277,
+                        37.136479
+                  ]
+            },
+            {
+                  "name": "White Village",
+                  "text": "White Village is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.685498,
+                        37.128302
+                  ]
+            },
+            {
+                  "name": "Kalha Zakho",
+                  "text": "Kalha Zakho is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.683,
+                        37.141467
+                  ]
+            },
+            {
+                  "name": "26 Gulan Park",
+                  "text": "26 Gulan Park is an attraction in Zaxo.",
+                  "category": "landmark",
+                  "coords": [
+                        42.689164,
+                        37.137957
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-DA",
     coords: [42.68, 37.14],
@@ -798,7 +1824,340 @@ export const poiExtraIraqCitiesV2: POI[] = [
       fr: ["Population env. 350 000", "Principal point de passage frontalier avec la Turquie", "Pont Delal (VIIIe-IXe siècles)", "Communauté juive araméenne jusqu'en 1948", "Mandat britannique 1920-1932", "Ère Saddam 1979-2003", "Campagne d'Anfal 1986-1989", "Située sur la rivière Khabur"],
     }, image: "/poi-images/zakho-cities-v2.webp"},
   {
-    id: "tal-afar-cities-v2",
+    id: "tal-afar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة تلعفر الاثرية",
+                  "text": "Die historische Burg von Tal Afar ist eine bedeutende Festung und ein markantes Wahrzeichen der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        42.454662,
+                        36.374877
+                  ]
+            },
+            {
+                  "name": "باغلار",
+                  "text": "Baghlar ist eine landschaftlich reizvolle lokale Attraktion in Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.44784,
+                        36.366662
+                  ]
+            },
+            {
+                  "name": "المعلمين",
+                  "text": "Al-Mu'allimin ist eine Sehenswürdigkeit in der Stadt Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.431148,
+                        36.366868
+                  ]
+            },
+            {
+                  "name": "اراضي زراعية",
+                  "text": "Dieses landwirtschaftliche Gebiet bietet einen Einblick in die ländliche Umgebung von Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.438522,
+                        36.361276
+                  ]
+            },
+            {
+                  "name": "مشتل عباس جدو",
+                  "text": "Die Gärtnerei Abbas Jaddo ist eine lokale Grünfläche und Attraktion in Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.437884,
+                        36.374712
+                  ]
+            },
+            {
+                  "name": "علوة.S",
+                  "text": "Diese lokale Attraktion ist ein interessanter Ort für einen Besuch in Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.427917,
+                        36.374491
+                  ]
+            },
+            {
+                  "name": "سيناما لورد",
+                  "text": "Das Lord Cinema ist eine beliebte Unterhaltungsattraktion in Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.449043,
+                        36.372168
+                  ]
+            },
+            {
+                  "name": "سد",
+                  "text": "Dieser Ort repräsentiert die allgemeine kulturelle Atmosphäre und die Attraktionen von Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.45465,
+                        36.372202
+                  ]
+            },
+            {
+                  "name": "الحماية الاجتماعية",
+                  "text": "Das Gebäude der Sozialversicherung dient als bemerkenswerte Einrichtung in Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.452646,
+                        36.384529
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة تلعفر الاثرية",
+                  "text": "A történelmi Tal Afar vár egy jelentős erődítmény és kiemelkedő nevezetesség a városban.",
+                  "category": "castle",
+                  "coords": [
+                        42.454662,
+                        36.374877
+                  ]
+            },
+            {
+                  "name": "باغلار",
+                  "text": "A Baghlar egy festői helyi látványosság Tal Afarban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.44784,
+                        36.366662
+                  ]
+            },
+            {
+                  "name": "المعلمين",
+                  "text": "Az Al-Mu'allimin egy érdekes hely Tal Afar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        42.431148,
+                        36.366868
+                  ]
+            },
+            {
+                  "name": "اراضي زراعية",
+                  "text": "Ez a mezőgazdasági terület bepillantást enged Tal Afar helyi vidéki tájába.",
+                  "category": "landmark",
+                  "coords": [
+                        42.438522,
+                        36.361276
+                  ]
+            },
+            {
+                  "name": "مشتل عباس جدو",
+                  "text": "Az Abbas Jaddo Faiskola egy helyi zöldterület és látványosság Tal Afarban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.437884,
+                        36.374712
+                  ]
+            },
+            {
+                  "name": "علوة.S",
+                  "text": "Ez a helyi látványosság egy érdekes pont Tal Afarban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.427917,
+                        36.374491
+                  ]
+            },
+            {
+                  "name": "سيناما لورد",
+                  "text": "A Lord Mozi egy népszerű szórakoztató létesítmény Tal Afarban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.449043,
+                        36.372168
+                  ]
+            },
+            {
+                  "name": "سد",
+                  "text": "Ez a helyszín Tal Afar általános kulturális atmoszféráját és látnivalóit képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        42.45465,
+                        36.372202
+                  ]
+            },
+            {
+                  "name": "الحماية الاجتماعية",
+                  "text": "A Szociális Védelmi épület figyelemre méltó létesítmény Tal Afarban.",
+                  "category": "landmark",
+                  "coords": [
+                        42.452646,
+                        36.384529
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة تلعفر الاثرية",
+                  "text": "Castelul istoric Tal Afar este o fortăreață importantă și un punct de reper proeminent în oraș.",
+                  "category": "castle",
+                  "coords": [
+                        42.454662,
+                        36.374877
+                  ]
+            },
+            {
+                  "name": "باغلار",
+                  "text": "Baghlar este o atracție pitorească locală situată în Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.44784,
+                        36.366662
+                  ]
+            },
+            {
+                  "name": "المعلمين",
+                  "text": "Al-Mu'allimin este un punct de interes situat în orașul Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.431148,
+                        36.366868
+                  ]
+            },
+            {
+                  "name": "اراضي زراعية",
+                  "text": "Această zonă agricolă oferă o privire asupra peisajului rural local din Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.438522,
+                        36.361276
+                  ]
+            },
+            {
+                  "name": "مشتل عباس جدو",
+                  "text": "Pepiniera Abbas Jaddo este un spațiu verde local și o atracție în Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.437884,
+                        36.374712
+                  ]
+            },
+            {
+                  "name": "علوة.S",
+                  "text": "Această atracție locală este un punct interesant de vizitat în Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.427917,
+                        36.374491
+                  ]
+            },
+            {
+                  "name": "سيناما لورد",
+                  "text": "Lord Cinema este o atracție de divertisment populară din Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.449043,
+                        36.372168
+                  ]
+            },
+            {
+                  "name": "سد",
+                  "text": "Acest sit reprezintă atmosfera culturală generală și atracțiile din Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.45465,
+                        36.372202
+                  ]
+            },
+            {
+                  "name": "الحماية الاجتماعية",
+                  "text": "Clădirea de Protecție Socială servește ca o facilitate notabilă în Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.452646,
+                        36.384529
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "قلعة تلعفر الاثرية",
+                  "text": "The historical Tal Afar Castle is a significant fortress and prominent landmark in the city.",
+                  "category": "castle",
+                  "coords": [
+                        42.454662,
+                        36.374877
+                  ]
+            },
+            {
+                  "name": "باغلار",
+                  "text": "Baghlar is a local scenic attraction situated in Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.44784,
+                        36.366662
+                  ]
+            },
+            {
+                  "name": "المعلمين",
+                  "text": "Al-Mu'allimin is a point of interest located in the city of Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.431148,
+                        36.366868
+                  ]
+            },
+            {
+                  "name": "اراضي زراعية",
+                  "text": "This agricultural area offers a glimpse into the local rural landscape of Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.438522,
+                        36.361276
+                  ]
+            },
+            {
+                  "name": "مشتل عباس جدو",
+                  "text": "The Abbas Jaddo Nursery is a local green space and attraction in Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.437884,
+                        36.374712
+                  ]
+            },
+            {
+                  "name": "علوة.S",
+                  "text": "This local attraction is an interesting point to visit in Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.427917,
+                        36.374491
+                  ]
+            },
+            {
+                  "name": "سيناما لورد",
+                  "text": "Lord Cinema is a popular entertainment attraction found in Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.449043,
+                        36.372168
+                  ]
+            },
+            {
+                  "name": "talafar",
+                  "text": "This site represents the general cultural atmosphere and attractions of Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.45465,
+                        36.372202
+                  ]
+            },
+            {
+                  "name": "Social protection",
+                  "text": "The Social Protection building serves as a notable facility within Tal Afar.",
+                  "category": "landmark",
+                  "coords": [
+                        42.452646,
+                        36.384529
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-NI",
     coords: [42.455, 36.376],
@@ -921,7 +2280,88 @@ export const poiExtraIraqCitiesV2: POI[] = [
       fr: ["Population env. 110 000", "Fondée en 638 apr. J.-C.", "Capitale du califat sous Ali de 656 à 661", "Ali assassiné en janvier 661", "L'une des quatre plus anciennes mosquées de l'islam", "Patrie de l'écriture coufique", "Mandat britannique 1920-1932", "Ère Saddam 1979-2003"],
     }, image: "/poi-images/kufa-cities-v2.webp"},
   {
-    id: "al-musayyib-cities-v2",
+    id: "al-musayyib-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "كراج اولاد مسلم",
+                  "text": "Das Autoterminal der Söhne von Muslim ist eine Attraktion in Musayyib.",
+                  "category": "landmark",
+                  "coords": [
+                        44.310532,
+                        32.784448
+                  ]
+            },
+            {
+                  "name": "الغانمي للسيراميك ABG",
+                  "text": "Al-Ghanmi für Keramik ist eine Attraktion in Musayyib.",
+                  "category": "landmark",
+                  "coords": [
+                        44.290922,
+                        32.772131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "كراج اولاد مسلم",
+                  "text": "A Muslim fiai autóterminál egy látnivaló Musayyibban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.310532,
+                        32.784448
+                  ]
+            },
+            {
+                  "name": "الغانمي للسيراميك ABG",
+                  "text": "Az Al-Ghanmi kerámia egy látnivaló Musayyibban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.290922,
+                        32.772131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "كراج اولاد مسلم",
+                  "text": "Terminalul auto al fiilor lui Muslim este o atracție în Musayyib.",
+                  "category": "landmark",
+                  "coords": [
+                        44.310532,
+                        32.784448
+                  ]
+            },
+            {
+                  "name": "الغانمي للسيراميك ABG",
+                  "text": "Al-Ghanmi pentru ceramică este o atracție în Musayyib.",
+                  "category": "landmark",
+                  "coords": [
+                        44.290922,
+                        32.772131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "كراج اولاد مسلم",
+                  "text": "The sons of Muslim car terminal is an attraction in Musayyib.",
+                  "category": "landmark",
+                  "coords": [
+                        44.310532,
+                        32.784448
+                  ]
+            },
+            {
+                  "name": "(ABG)Al-Ghanmi for Ceramics",
+                  "text": "Al-Ghanmi for Ceramics is an attraction in Musayyib.",
+                  "category": "landmark",
+                  "coords": [
+                        44.290922,
+                        32.772131
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-BB",
     coords: [44.288, 32.784],
@@ -1050,7 +2490,88 @@ export const poiExtraIraqCitiesV2: POI[] = [
       fr: ["La ville porte le nom d'Al-Qasim ibn Musa al-Kadhim.", "Le sanctuaire d'Al-Qasim est connu pour son dôme doré et ses mosaïques.", "Al-Qasim se trouve dans le district d'Al-Hashimiyah, gouvernorat de Babil.", "La région est un centre majeur de production de blé et d'orge.", "La ville célèbre chaque année l'anniversaire de la mort d'Al-Qasim avec d'importants pèlerinages.", "Al-Qasim est située à proximité des ruines antiques de Babylone."],
     }, image: "/poi-images/al-qasim-cities-v2.webp"},
   {
-    id: "abu-ghraib-cities-v2",
+    id: "abu-ghraib-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "محكمة ابوغريب",
+                  "text": "Das Gericht ist eine Burg in Abu Ghuraib.",
+                  "category": "castle",
+                  "coords": [
+                        44.198098,
+                        33.30794
+                  ]
+            },
+            {
+                  "name": "Tall Abu Safa",
+                  "text": "Tall Abu Safa ist ein Gipfel in Abu Ghuraib.",
+                  "category": "natural",
+                  "coords": [
+                        44.188658,
+                        33.290138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "محكمة ابوغريب",
+                  "text": "A bíróság egy vár Abu Ghuraibban.",
+                  "category": "castle",
+                  "coords": [
+                        44.198098,
+                        33.30794
+                  ]
+            },
+            {
+                  "name": "تل أبو صفا",
+                  "text": "A Tall Abu Safa egy hegycsúcs Abu Ghuraibban.",
+                  "category": "natural",
+                  "coords": [
+                        44.188658,
+                        33.290138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "محكمة ابوغريب",
+                  "text": "Curtea este un castel în Abu Ghuraib.",
+                  "category": "castle",
+                  "coords": [
+                        44.198098,
+                        33.30794
+                  ]
+            },
+            {
+                  "name": "تل أبو صفا",
+                  "text": "Tall Abu Safa este un vârf în Abu Ghuraib.",
+                  "category": "natural",
+                  "coords": [
+                        44.188658,
+                        33.290138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "court",
+                  "text": "The court is a castle in Abu Ghuraib.",
+                  "category": "castle",
+                  "coords": [
+                        44.198098,
+                        33.30794
+                  ]
+            },
+            {
+                  "name": "Tall Abu Safa",
+                  "text": "Tall Abu Safa is a peak in Abu Ghuraib.",
+                  "category": "natural",
+                  "coords": [
+                        44.188658,
+                        33.290138
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-BG",
     coords: [44.183, 33.3],
@@ -1136,7 +2657,628 @@ export const poiExtraIraqCitiesV2: POI[] = [
       fr: ["Population env. 100 000", "Habitée depuis plus de 5 000 ans", "Sources de bitume depuis l'Antiquité", "Bitume pour les Jardins suspendus de Babylone", "Mentionnée par Hérodote (Ve siècle av. J.-C.)", "Mandat britannique 1920-1932", "Ère Saddam 1979-2003", "Domination de l'EI octobre 2014 - avril 2016"],
     }, image: "/poi-images/hit-cities-v2.webp"},
   {
-    id: "rawandiz-cities-v2",
+    id: "rawandiz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "رێباز محمد",
+                  "text": "Rebaz muhammad ist ein Theater in der Stadt Rawanduz.",
+                  "category": "cultural",
+                  "coords": [
+                        44.522055,
+                        36.615282
+                  ]
+            },
+            {
+                  "name": "ئەکواپارکی شنگلبانە",
+                  "text": "ئەکواپارکی شنگلبانە ist ein Wasserpark, der Freizeitmöglichkeiten in Rawanduz bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        44.508262,
+                        36.615651
+                  ]
+            },
+            {
+                  "name": "Korek Mountain Teleferique",
+                  "text": "Die Korek Mountain Teleferique ist eine beliebte touristische Attraktion in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.49334,
+                        36.607491
+                  ]
+            },
+            {
+                  "name": "Rawanduz canyon view",
+                  "text": "Der Rawanduz canyon view bietet einen malerischen Aussichtspunkt in Rawanduz.",
+                  "category": "natural",
+                  "coords": [
+                        44.528009,
+                        36.617725
+                  ]
+            },
+            {
+                  "name": "بێخاڵ",
+                  "text": "بێخاڵ ist eine lokale Sehenswürdigkeit in der Stadt Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.498135,
+                        36.618156
+                  ]
+            },
+            {
+                  "name": "ئیسقەڵا",
+                  "text": "Esqala umfasst historische Ruinen in der Umgebung von Rawanduz.",
+                  "category": "historical",
+                  "coords": [
+                        44.538175,
+                        36.631824
+                  ]
+            },
+            {
+                  "name": "مەلەوانگەی ڕواندز",
+                  "text": "مەلەوانگەی ڕواندز ist eine Attraktion in der Stadt Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.520221,
+                        36.614821
+                  ]
+            },
+            {
+                  "name": "Beroyan street",
+                  "text": "Die Beroyan street ist eine bekannte Straße und Sehenswürdigkeit in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.525781,
+                        36.605343
+                  ]
+            },
+            {
+                  "name": "kushtargay rwanduz",
+                  "text": "Kushtargay rwanduz ist eine lokale Attraktion in der Stadt Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.527204,
+                        36.595726
+                  ]
+            },
+            {
+                  "name": "Xarandi rwandz",
+                  "text": "Xarandi rwandz ist ein Anziehungspunkt für Besucher in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.532482,
+                        36.621399
+                  ]
+            },
+            {
+                  "name": "هۆڵی بۆنەکان",
+                  "text": "Holle bonakan ist eine Sehenswürdigkeit in der Region von Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.513602,
+                        36.610649
+                  ]
+            },
+            {
+                  "name": "وەرداش",
+                  "text": "Wardash ist ein Denkmal in der Stadt Rawanduz.",
+                  "category": "historical",
+                  "coords": [
+                        44.518289,
+                        36.610825
+                  ]
+            },
+            {
+                  "name": "كانية قور",
+                  "text": "Kani qur ist ein touristisches Ziel und eine Attraktion in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.517226,
+                        36.606485
+                  ]
+            },
+            {
+                  "name": "وادی گەڕەک",
+                  "text": "Gali garak ist ein landschaftlicher Anziehungspunkt in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.535081,
+                        36.595038
+                  ]
+            },
+            {
+                  "name": "پانک - شنگڵبانە",
+                  "text": "Pank, Shingilbana ist eine Attraktion in der Stadt Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.506449,
+                        36.61391
+                  ]
+            },
+            {
+                  "name": "دەروازەی خەرەندی ڕەواندز",
+                  "text": "Der Entrance to Rawandiz Canyon markiert den Zugang zu einer beeindruckenden Schlucht in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.534959,
+                        36.623178
+                  ]
+            },
+            {
+                  "name": "Qala Street",
+                  "text": "Die Qala Street fungiert als Aussichtspunkt in der Stadt Rawanduz.",
+                  "category": "natural",
+                  "coords": [
+                        44.526616,
+                        36.614368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "رێباز محمد",
+                  "text": "A Rebaz muhammad egy színház Rawanduz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        44.522055,
+                        36.615282
+                  ]
+            },
+            {
+                  "name": "ئەکواپارکی شنگلبانە",
+                  "text": "A ئەکواپارکی شنگلبانە egy vízipark, amely kikapcsolódási lehetőséget nyújt Rawanduzban.",
+                  "category": "recreational",
+                  "coords": [
+                        44.508262,
+                        36.615651
+                  ]
+            },
+            {
+                  "name": "Korek Mountain Teleferique",
+                  "text": "A Korek Mountain Teleferique egy népszerű turisztikai látványosság Rawanduz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.49334,
+                        36.607491
+                  ]
+            },
+            {
+                  "name": "Rawanduz canyon view",
+                  "text": "A Rawanduz canyon view egy festői kilátópont Rawanduz városában.",
+                  "category": "natural",
+                  "coords": [
+                        44.528009,
+                        36.617725
+                  ]
+            },
+            {
+                  "name": "بێخاڵ",
+                  "text": "A بێخاڵ egy helyi turisztikai látványosság Rawanduz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.498135,
+                        36.618156
+                  ]
+            },
+            {
+                  "name": "ئیسقەڵا",
+                  "text": "Az Esqala történelmi romokat foglal magában Rawanduz közelében.",
+                  "category": "historical",
+                  "coords": [
+                        44.538175,
+                        36.631824
+                  ]
+            },
+            {
+                  "name": "مەلەوانگەی ڕواندز",
+                  "text": "A مەلەوانگەی ڕواندز egy látványosság Rawanduz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.520221,
+                        36.614821
+                  ]
+            },
+            {
+                  "name": "Beroyan street",
+                  "text": "A Beroyan street egy ismert utca és látványosság Rawanduz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.525781,
+                        36.605343
+                  ]
+            },
+            {
+                  "name": "kushtargay rwanduz",
+                  "text": "A kushtargay rwanduz egy helyi látványosság Rawanduz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.527204,
+                        36.595726
+                  ]
+            },
+            {
+                  "name": "Xarandi rwandz",
+                  "text": "A Xarandi rwandz egy látogatókat vonzó hely Rawanduz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.532482,
+                        36.621399
+                  ]
+            },
+            {
+                  "name": "هۆڵی بۆنەکان",
+                  "text": "A Holle bonakan egy látványosság Rawanduz régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.513602,
+                        36.610649
+                  ]
+            },
+            {
+                  "name": "وەرداش",
+                  "text": "A Wardash egy emlékmű Rawanduz városában.",
+                  "category": "historical",
+                  "coords": [
+                        44.518289,
+                        36.610825
+                  ]
+            },
+            {
+                  "name": "كانية قور",
+                  "text": "A Kani qur egy turisztikai célpont és látványosság Rawanduzban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.517226,
+                        36.606485
+                  ]
+            },
+            {
+                  "name": "وادی گەڕەک",
+                  "text": "A Gali garak egy természeti látványosság Rawanduz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.535081,
+                        36.595038
+                  ]
+            },
+            {
+                  "name": "پانک - شنگڵبانە",
+                  "text": "A Pank, Shingilbana egy helyi látványosság Rawanduz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.506449,
+                        36.61391
+                  ]
+            },
+            {
+                  "name": "دەروازەی خەرەندی ڕەواندز",
+                  "text": "Az Entrance to Rawandiz Canyon egy lenyűgöző szurdok bejáratát jelöli Rawanduzban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.534959,
+                        36.623178
+                  ]
+            },
+            {
+                  "name": "Qala Street",
+                  "text": "A Qala Street kilátópontként szolgál Rawanduz városában.",
+                  "category": "natural",
+                  "coords": [
+                        44.526616,
+                        36.614368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "رێباز محمد",
+                  "text": "Rebaz muhammad este un teatru din orașul Rawanduz.",
+                  "category": "cultural",
+                  "coords": [
+                        44.522055,
+                        36.615282
+                  ]
+            },
+            {
+                  "name": "ئەکواپارکی شنگلبانە",
+                  "text": "ئەکواپارکی شنگلبانە este un parc acvatic ce oferă facilități de agrement în Rawanduz.",
+                  "category": "recreational",
+                  "coords": [
+                        44.508262,
+                        36.615651
+                  ]
+            },
+            {
+                  "name": "Korek Mountain Teleferique",
+                  "text": "Korek Mountain Teleferique este o atracție turistică populară din Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.49334,
+                        36.607491
+                  ]
+            },
+            {
+                  "name": "Rawanduz canyon view",
+                  "text": "Rawanduz canyon view este un punct de belvedere pitoresc din Rawanduz.",
+                  "category": "natural",
+                  "coords": [
+                        44.528009,
+                        36.617725
+                  ]
+            },
+            {
+                  "name": "بێخاڵ",
+                  "text": "بێخاڵ este o atracție locală situată în orașul Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.498135,
+                        36.618156
+                  ]
+            },
+            {
+                  "name": "ئیسقەڵا",
+                  "text": "Esqala cuprinde ruine istorice situate în zona Rawanduz.",
+                  "category": "historical",
+                  "coords": [
+                        44.538175,
+                        36.631824
+                  ]
+            },
+            {
+                  "name": "مەلەوانگەی ڕواندز",
+                  "text": "مەلەوانگەی ڕواندز este o atracție turistică din orașul Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.520221,
+                        36.614821
+                  ]
+            },
+            {
+                  "name": "Beroyan street",
+                  "text": "Beroyan street este o stradă notabilă și o atracție în Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.525781,
+                        36.605343
+                  ]
+            },
+            {
+                  "name": "kushtargay rwanduz",
+                  "text": "Kushtargay rwanduz este o atracție locală din orașul Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.527204,
+                        36.595726
+                  ]
+            },
+            {
+                  "name": "Xarandi rwandz",
+                  "text": "Xarandi rwandz este un punct de atracție pentru vizitatori în Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.532482,
+                        36.621399
+                  ]
+            },
+            {
+                  "name": "هۆڵی بۆنەکان",
+                  "text": "Holle bonakan este o atracție turistică din regiunea Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.513602,
+                        36.610649
+                  ]
+            },
+            {
+                  "name": "وەرداش",
+                  "text": "Wardash este un monument situat în orașul Rawanduz.",
+                  "category": "historical",
+                  "coords": [
+                        44.518289,
+                        36.610825
+                  ]
+            },
+            {
+                  "name": "كانية قور",
+                  "text": "Kani qur este o destinație turistică și atracție în Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.517226,
+                        36.606485
+                  ]
+            },
+            {
+                  "name": "وادی گەڕەک",
+                  "text": "Gali garak este o atracție pitorească din Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.535081,
+                        36.595038
+                  ]
+            },
+            {
+                  "name": "پانک - شنگڵبانە",
+                  "text": "Pank, Shingilbana este o atracție locală situată în Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.506449,
+                        36.61391
+                  ]
+            },
+            {
+                  "name": "دەروازەی خەرەندی ڕەواندز",
+                  "text": "Entrance to Rawandiz Canyon marchează accesul către un defileu impresionant din Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.534959,
+                        36.623178
+                  ]
+            },
+            {
+                  "name": "Qala Street",
+                  "text": "Qala Street funcționează ca un punct de belvedere în orașul Rawanduz.",
+                  "category": "natural",
+                  "coords": [
+                        44.526616,
+                        36.614368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rebaz muhammad",
+                  "text": "Rebaz muhammad is a theatre located in the city of Rawanduz.",
+                  "category": "cultural",
+                  "coords": [
+                        44.522055,
+                        36.615282
+                  ]
+            },
+            {
+                  "name": "ئەکواپارکی شنگلبانە",
+                  "text": "ئەکواپارکی شنگلبانە is a water park offering recreational activities in Rawanduz.",
+                  "category": "recreational",
+                  "coords": [
+                        44.508262,
+                        36.615651
+                  ]
+            },
+            {
+                  "name": "Korek Mountain Teleferique",
+                  "text": "The Korek Mountain Teleferique is a popular tourist attraction located in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.49334,
+                        36.607491
+                  ]
+            },
+            {
+                  "name": "Rawanduz canyon view",
+                  "text": "The Rawanduz canyon view provides a scenic viewpoint in Rawanduz.",
+                  "category": "natural",
+                  "coords": [
+                        44.528009,
+                        36.617725
+                  ]
+            },
+            {
+                  "name": "بێخاڵ",
+                  "text": "بێخاڵ is a local tourist attraction in the city of Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.498135,
+                        36.618156
+                  ]
+            },
+            {
+                  "name": "Esqala",
+                  "text": "Esqala features historical ruins located in the vicinity of Rawanduz.",
+                  "category": "historical",
+                  "coords": [
+                        44.538175,
+                        36.631824
+                  ]
+            },
+            {
+                  "name": "مەلەوانگەی ڕواندز",
+                  "text": "مەلەوانگەی ڕواندز is a tourist attraction situated in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.520221,
+                        36.614821
+                  ]
+            },
+            {
+                  "name": "Beroyan street",
+                  "text": "Beroyan street is a notable street and attraction in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.525781,
+                        36.605343
+                  ]
+            },
+            {
+                  "name": "kushtargay rwanduz",
+                  "text": "Kushtargay rwanduz is a local attraction located in the city of Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.527204,
+                        36.595726
+                  ]
+            },
+            {
+                  "name": "Xarandi rwandz",
+                  "text": "Xarandi rwandz is a point of interest for visitors in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.532482,
+                        36.621399
+                  ]
+            },
+            {
+                  "name": "Holle bonakan",
+                  "text": "Holle bonakan is a tourist attraction in the Rawanduz area.",
+                  "category": "landmark",
+                  "coords": [
+                        44.513602,
+                        36.610649
+                  ]
+            },
+            {
+                  "name": "Wardash",
+                  "text": "Wardash is a monument located in the city of Rawanduz.",
+                  "category": "historical",
+                  "coords": [
+                        44.518289,
+                        36.610825
+                  ]
+            },
+            {
+                  "name": "Kani qur",
+                  "text": "Kani qur is a tourist destination and attraction in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.517226,
+                        36.606485
+                  ]
+            },
+            {
+                  "name": "Gali garak",
+                  "text": "Gali garak is a scenic attraction located in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.535081,
+                        36.595038
+                  ]
+            },
+            {
+                  "name": "Pank, Shingilbana",
+                  "text": "Pank, Shingilbana is a local attraction situated in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.506449,
+                        36.61391
+                  ]
+            },
+            {
+                  "name": "Entrance to Rawandiz Canyon",
+                  "text": "The Entrance to Rawandiz Canyon marks the access point to a striking gorge in Rawanduz.",
+                  "category": "landmark",
+                  "coords": [
+                        44.534959,
+                        36.623178
+                  ]
+            },
+            {
+                  "name": "Qala Street",
+                  "text": "Qala Street serves as a viewpoint in the city of Rawanduz.",
+                  "category": "natural",
+                  "coords": [
+                        44.526616,
+                        36.614368
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IQ-AR",
     coords: [44.526, 36.611],

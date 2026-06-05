@@ -437,7 +437,196 @@ export const poiExtraOmanCitiesV2: POI[] = [
     },
   },
   {
-    id: "seeb-cities-v2",
+    id: "seeb-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قاعة صدف للافراح",
+                  "text": "قاعة صدف للافراح ist ein Theater in Sib.",
+                  "category": "cultural",
+                  "coords": [
+                        58.194814,
+                        23.679616
+                  ]
+            },
+            {
+                  "name": "قاعة الأصالة",
+                  "text": "قاعة الأصالة ist ein Theater in Sib.",
+                  "category": "cultural",
+                  "coords": [
+                        58.20006,
+                        23.652654
+                  ]
+            },
+            {
+                  "name": "استراحة الفيصل",
+                  "text": "استراحة الفيصل ist ein Aussichtspunkt in Sib.",
+                  "category": "natural",
+                  "coords": [
+                        58.196722,
+                        23.659598
+                  ]
+            },
+            {
+                  "name": "العريمي بوليفارد",
+                  "text": "Al-Araimi Boulevard ist ein Aussichtspunkt in Sib.",
+                  "category": "natural",
+                  "coords": [
+                        58.182846,
+                        23.657219
+                  ]
+            },
+            {
+                  "name": "حديقة",
+                  "text": "حديقة ist eine Sehenswürdigkeit in Sib.",
+                  "category": "landmark",
+                  "coords": [
+                        58.172098,
+                        23.689381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قاعة صدف للافراح",
+                  "text": "A قاعة صدف للافراح egy színház Sib városában.",
+                  "category": "cultural",
+                  "coords": [
+                        58.194814,
+                        23.679616
+                  ]
+            },
+            {
+                  "name": "قاعة الأصالة",
+                  "text": "A قاعة الأصالة egy színház Sib városában.",
+                  "category": "cultural",
+                  "coords": [
+                        58.20006,
+                        23.652654
+                  ]
+            },
+            {
+                  "name": "استراحة الفيصل",
+                  "text": "Az استراحة الفيصل egy kilátó Sib városában.",
+                  "category": "natural",
+                  "coords": [
+                        58.196722,
+                        23.659598
+                  ]
+            },
+            {
+                  "name": "العريمي بوليفارد",
+                  "text": "Az Al-Araimi Boulevard egy kilátó Sib városában.",
+                  "category": "natural",
+                  "coords": [
+                        58.182846,
+                        23.657219
+                  ]
+            },
+            {
+                  "name": "حديقة",
+                  "text": "A حديقة egy látványosság Sib városában.",
+                  "category": "landmark",
+                  "coords": [
+                        58.172098,
+                        23.689381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قاعة صدف للافراح",
+                  "text": "قاعة صدف للافراح este un teatru situat în Sib.",
+                  "category": "cultural",
+                  "coords": [
+                        58.194814,
+                        23.679616
+                  ]
+            },
+            {
+                  "name": "قاعة الأصالة",
+                  "text": "قاعة الأصالة este un teatru situat în Sib.",
+                  "category": "cultural",
+                  "coords": [
+                        58.20006,
+                        23.652654
+                  ]
+            },
+            {
+                  "name": "استراحة الفيصل",
+                  "text": "استراحة الفيصل este un punct de belvedere situat în Sib.",
+                  "category": "natural",
+                  "coords": [
+                        58.196722,
+                        23.659598
+                  ]
+            },
+            {
+                  "name": "العريمي بوليفارد",
+                  "text": "Al-Araimi Boulevard este un punct de belvedere situat în Sib.",
+                  "category": "natural",
+                  "coords": [
+                        58.182846,
+                        23.657219
+                  ]
+            },
+            {
+                  "name": "حديقة",
+                  "text": "حديقة este o atracție situată în Sib.",
+                  "category": "landmark",
+                  "coords": [
+                        58.172098,
+                        23.689381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "قاعة صدف للافراح",
+                  "text": "قاعة صدف للافراح is a theatre located in Sib.",
+                  "category": "cultural",
+                  "coords": [
+                        58.194814,
+                        23.679616
+                  ]
+            },
+            {
+                  "name": "قاعة الأصالة",
+                  "text": "قاعة الأصالة is a theatre located in Sib.",
+                  "category": "cultural",
+                  "coords": [
+                        58.20006,
+                        23.652654
+                  ]
+            },
+            {
+                  "name": "استراحة الفيصل",
+                  "text": "استراحة الفيصل is a viewpoint located in Sib.",
+                  "category": "natural",
+                  "coords": [
+                        58.196722,
+                        23.659598
+                  ]
+            },
+            {
+                  "name": "Al-Araimi Boulevard",
+                  "text": "Al-Araimi Boulevard is a viewpoint located in Sib.",
+                  "category": "natural",
+                  "coords": [
+                        58.182846,
+                        23.657219
+                  ]
+            },
+            {
+                  "name": "حديقة",
+                  "text": "حديقة is an attraction located in Sib.",
+                  "category": "landmark",
+                  "coords": [
+                        58.172098,
+                        23.689381
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-MA",
     coords: [58.1889, 23.6703],
@@ -480,7 +669,556 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 270 000 habitants dans la province de Mascate", "Nouvel aéroport international de Mascate depuis 2018", "Capacité de 20 millions de passagers par an", "Traité de Sib de 1920 entre sultanat et imamat", "Résidence royale Bait al-Baraka", "Environ 25 kilomètres à l'ouest du vieux Mascate", "Marché aux poissons animé au village de Sib", "Longue promenade de palmiers sur le golfe d'Oman"],
     }, image: "/poi-images/seeb-cities-v2.webp"},
   {
-    id: "muttrah-cities-v2",
+    id: "muttrah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قصر العلم",
+                  "text": "Der Al Alam Palace ist ein repräsentatives Schloss des Sultans in Matrah.",
+                  "category": "castle",
+                  "coords": [
+                        58.594838,
+                        23.616292
+                  ]
+            },
+            {
+                  "name": "قلعة الميراني",
+                  "text": "Das Fort Al-Mirani ist eine bedeutende portugiesische Festung aus dem 16. Jahrhundert am Hafen von Matrah.",
+                  "category": "fortress",
+                  "coords": [
+                        58.593243,
+                        23.617276
+                  ]
+            },
+            {
+                  "name": "المتحف الوطني",
+                  "text": "Das National Museum in Matrah ist eine wichtige Einrichtung, die das kulturelle Erbe des Landes präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        58.593626,
+                        23.611616
+                  ]
+            },
+            {
+                  "name": "متحف بيت البرندة",
+                  "text": "Das Bait Al Baranda Museum ist ein historisches Museum in Matrah, das in einem traditionellen Haus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        58.560691,
+                        23.62292
+                  ]
+            },
+            {
+                  "name": "Sultan's Armed Forces Museum",
+                  "text": "Das Sultan's Armed Forces Museum ist ein Museum in Matrah, das die Militärgeschichte des Landes dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        58.546182,
+                        23.609481
+                  ]
+            },
+            {
+                  "name": "بيت الزبير",
+                  "text": "Bait Al Zubair ist ein Museum in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.58961,
+                        23.614394
+                  ]
+            },
+            {
+                  "name": "Muscat Gate Museum",
+                  "text": "Das Muscat Gate Museum ist ein Museum in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.585857,
+                        23.618676
+                  ]
+            },
+            {
+                  "name": "متحف المكان والناس",
+                  "text": "Das Place & People Museum ist ein Museum in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.568252,
+                        23.620344
+                  ]
+            },
+            {
+                  "name": "قلعة مطرح",
+                  "text": "Das Mutrah Fort ist eine Festung in Matrah.",
+                  "category": "fortress",
+                  "coords": [
+                        58.567103,
+                        23.620487
+                  ]
+            },
+            {
+                  "name": "المتحف العماني الفرنسي",
+                  "text": "Das Oman French Museum ist ein Museum in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.591768,
+                        23.614918
+                  ]
+            },
+            {
+                  "name": "Harbour Gate",
+                  "text": "Harbour Gate ist ein Monument in Matrah.",
+                  "category": "historical",
+                  "coords": [
+                        58.548167,
+                        23.621291
+                  ]
+            },
+            {
+                  "name": "Paisley",
+                  "text": "Paisley ist eine Kunstgalerie in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.563775,
+                        23.620521
+                  ]
+            },
+            {
+                  "name": "Omani Heritage Gallery",
+                  "text": "Die Omani Heritage Gallery ist eine Kunstgalerie in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.565329,
+                        23.620335
+                  ]
+            },
+            {
+                  "name": "سوق مطرح",
+                  "text": "سوق مطرح ist eine Sehenswürdigkeit in Matrah.",
+                  "category": "landmark",
+                  "coords": [
+                        58.563831,
+                        23.619322
+                  ]
+            },
+            {
+                  "name": "Shiva temple",
+                  "text": "Der Shiva temple ist ein bekannter hinduistischer Tempel und eine Kultstätte in Matrah.",
+                  "category": "religious",
+                  "coords": [
+                        58.58816,
+                        23.60979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قصر العلم",
+                  "text": "Az Al Alam Palace az ománi szultán nevezetes ünnepi kastélya Matrah városában.",
+                  "category": "castle",
+                  "coords": [
+                        58.594838,
+                        23.616292
+                  ]
+            },
+            {
+                  "name": "قلعة الميراني",
+                  "text": "A Fort Al-Mirani egy 16. századi portugál erőd, amely Matrah kikötőjére néz.",
+                  "category": "fortress",
+                  "coords": [
+                        58.593243,
+                        23.617276
+                  ]
+            },
+            {
+                  "name": "المتحف الوطني",
+                  "text": "A Matrah városában található National Museum az ország kulturális örökségét bemutató jelentős intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        58.593626,
+                        23.611616
+                  ]
+            },
+            {
+                  "name": "متحف بيت البرندة",
+                  "text": "A Bait Al Baranda Museum egy hagyományos házban működő történelmi múzeum Matrah városában.",
+                  "category": "museum",
+                  "coords": [
+                        58.560691,
+                        23.62292
+                  ]
+            },
+            {
+                  "name": "Sultan's Armed Forces Museum",
+                  "text": "A Sultan's Armed Forces Museum a nemzet hadtörténetét bemutató múzeum Matrah városában.",
+                  "category": "museum",
+                  "coords": [
+                        58.546182,
+                        23.609481
+                  ]
+            },
+            {
+                  "name": "بيت الزبير",
+                  "text": "A Bait Al Zubair egy múzeum Matrah városában.",
+                  "category": "museum",
+                  "coords": [
+                        58.58961,
+                        23.614394
+                  ]
+            },
+            {
+                  "name": "Muscat Gate Museum",
+                  "text": "A Muscat Gate Museum egy múzeum Matrah városában.",
+                  "category": "museum",
+                  "coords": [
+                        58.585857,
+                        23.618676
+                  ]
+            },
+            {
+                  "name": "متحف المكان والناس",
+                  "text": "A Place & People Museum egy múzeum Matrah városában.",
+                  "category": "museum",
+                  "coords": [
+                        58.568252,
+                        23.620344
+                  ]
+            },
+            {
+                  "name": "قلعة مطرح",
+                  "text": "A Mutrah Fort egy erőd Matrah városában.",
+                  "category": "fortress",
+                  "coords": [
+                        58.567103,
+                        23.620487
+                  ]
+            },
+            {
+                  "name": "المتحف العماني الفرنسي",
+                  "text": "Az Oman French Museum egy múzeum Matrah városában.",
+                  "category": "museum",
+                  "coords": [
+                        58.591768,
+                        23.614918
+                  ]
+            },
+            {
+                  "name": "Harbour Gate",
+                  "text": "A Harbour Gate egy műemlék Matrah városában.",
+                  "category": "historical",
+                  "coords": [
+                        58.548167,
+                        23.621291
+                  ]
+            },
+            {
+                  "name": "Paisley",
+                  "text": "A Paisley egy művészeti galéria Matrah városában.",
+                  "category": "museum",
+                  "coords": [
+                        58.563775,
+                        23.620521
+                  ]
+            },
+            {
+                  "name": "Omani Heritage Gallery",
+                  "text": "Az Omani Heritage Gallery egy művészeti galéria Matrah városában.",
+                  "category": "museum",
+                  "coords": [
+                        58.565329,
+                        23.620335
+                  ]
+            },
+            {
+                  "name": "سوق مطرح",
+                  "text": "A سوق مطرح egy látványosság Matrah városában.",
+                  "category": "landmark",
+                  "coords": [
+                        58.563831,
+                        23.619322
+                  ]
+            },
+            {
+                  "name": "Shiva temple",
+                  "text": "A Shiva temple egy jól ismert hindu templom és istentiszteleti hely Matrah városában.",
+                  "category": "religious",
+                  "coords": [
+                        58.58816,
+                        23.60979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قصر العلم",
+                  "text": "Al Alam Palace este un palat ceremonial important al Sultanului în Matrah.",
+                  "category": "castle",
+                  "coords": [
+                        58.594838,
+                        23.616292
+                  ]
+            },
+            {
+                  "name": "قلعة الميراني",
+                  "text": "Fort Al-Mirani este un fort portughez din secolul al XVI-lea care domină portul din Matrah.",
+                  "category": "fortress",
+                  "coords": [
+                        58.593243,
+                        23.617276
+                  ]
+            },
+            {
+                  "name": "المتحف الوطني",
+                  "text": "National Museum din Matrah este o instituție importantă care expune moștenirea culturală a țării.",
+                  "category": "museum",
+                  "coords": [
+                        58.593626,
+                        23.611616
+                  ]
+            },
+            {
+                  "name": "متحف بيت البرندة",
+                  "text": "Bait Al Baranda Museum este un muzeu istoric găzduit într-o casă tradițională din Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.560691,
+                        23.62292
+                  ]
+            },
+            {
+                  "name": "Sultan's Armed Forces Museum",
+                  "text": "Sultan's Armed Forces Museum este un muzeu din Matrah care documentează istoria militară a țării.",
+                  "category": "museum",
+                  "coords": [
+                        58.546182,
+                        23.609481
+                  ]
+            },
+            {
+                  "name": "بيت الزبير",
+                  "text": "Bait Al Zubair este un muzeu în Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.58961,
+                        23.614394
+                  ]
+            },
+            {
+                  "name": "Muscat Gate Museum",
+                  "text": "Muscat Gate Museum este un muzeu în Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.585857,
+                        23.618676
+                  ]
+            },
+            {
+                  "name": "متحف المكان والناس",
+                  "text": "Place & People Museum este un muzeu în Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.568252,
+                        23.620344
+                  ]
+            },
+            {
+                  "name": "قلعة مطرح",
+                  "text": "Mutrah Fort este un fort în Matrah.",
+                  "category": "fortress",
+                  "coords": [
+                        58.567103,
+                        23.620487
+                  ]
+            },
+            {
+                  "name": "المتحف العماني الفرنسي",
+                  "text": "Oman French Museum este un muzeu în Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.591768,
+                        23.614918
+                  ]
+            },
+            {
+                  "name": "Harbour Gate",
+                  "text": "Harbour Gate este un monument în Matrah.",
+                  "category": "historical",
+                  "coords": [
+                        58.548167,
+                        23.621291
+                  ]
+            },
+            {
+                  "name": "Paisley",
+                  "text": "Paisley este o galerie de artă în Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.563775,
+                        23.620521
+                  ]
+            },
+            {
+                  "name": "Omani Heritage Gallery",
+                  "text": "Omani Heritage Gallery este o galerie de artă în Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.565329,
+                        23.620335
+                  ]
+            },
+            {
+                  "name": "سوق مطرح",
+                  "text": "سوق مطرح este o atracție în Matrah.",
+                  "category": "landmark",
+                  "coords": [
+                        58.563831,
+                        23.619322
+                  ]
+            },
+            {
+                  "name": "Shiva temple",
+                  "text": "Shiva temple este un templu hindus recunoscut și un lăcaș de cult în Matrah.",
+                  "category": "religious",
+                  "coords": [
+                        58.58816,
+                        23.60979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Alam Palace",
+                  "text": "Al Alam Palace is a notable ceremonial palace of the Sultan in Matrah.",
+                  "category": "castle",
+                  "coords": [
+                        58.594838,
+                        23.616292
+                  ]
+            },
+            {
+                  "name": "Fort Al-Mirani",
+                  "text": "Fort Al-Mirani is a prominent 16th-century Portuguese fort overlooking the harbor in Matrah.",
+                  "category": "fortress",
+                  "coords": [
+                        58.593243,
+                        23.617276
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "The National Museum in Matrah is a prominent institution showcasing the cultural heritage of the country.",
+                  "category": "museum",
+                  "coords": [
+                        58.593626,
+                        23.611616
+                  ]
+            },
+            {
+                  "name": "Bait Al Baranda Museum",
+                  "text": "Bait Al Baranda Museum is a historic museum housed in a traditional heritage building in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.560691,
+                        23.62292
+                  ]
+            },
+            {
+                  "name": "Sultan's Armed Forces Museum",
+                  "text": "Sultan's Armed Forces Museum is an institution in Matrah that documents the military history of the nation.",
+                  "category": "museum",
+                  "coords": [
+                        58.546182,
+                        23.609481
+                  ]
+            },
+            {
+                  "name": "Bait Al Zubair",
+                  "text": "Bait Al Zubair is a museum in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.58961,
+                        23.614394
+                  ]
+            },
+            {
+                  "name": "Muscat Gate Museum",
+                  "text": "Muscat Gate Museum is a museum in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.585857,
+                        23.618676
+                  ]
+            },
+            {
+                  "name": "Place & People Museum",
+                  "text": "Place & People Museum is a museum in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.568252,
+                        23.620344
+                  ]
+            },
+            {
+                  "name": "Mutrah Fort",
+                  "text": "Mutrah Fort is a fort in Matrah.",
+                  "category": "fortress",
+                  "coords": [
+                        58.567103,
+                        23.620487
+                  ]
+            },
+            {
+                  "name": "Oman French Museum",
+                  "text": "Oman French Museum is a museum in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.591768,
+                        23.614918
+                  ]
+            },
+            {
+                  "name": "Harbour Gate",
+                  "text": "Harbour Gate is a monument in Matrah.",
+                  "category": "historical",
+                  "coords": [
+                        58.548167,
+                        23.621291
+                  ]
+            },
+            {
+                  "name": "Paisley",
+                  "text": "Paisley is an art gallery in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.563775,
+                        23.620521
+                  ]
+            },
+            {
+                  "name": "Omani Heritage Gallery",
+                  "text": "Omani Heritage Gallery is an art gallery in Matrah.",
+                  "category": "museum",
+                  "coords": [
+                        58.565329,
+                        23.620335
+                  ]
+            },
+            {
+                  "name": "سوق مطرح",
+                  "text": "سوق مطرح is an attraction in Matrah.",
+                  "category": "landmark",
+                  "coords": [
+                        58.563831,
+                        23.619322
+                  ]
+            },
+            {
+                  "name": "Shiva temple",
+                  "text": "The Shiva temple is a well-known Hindu temple and place of worship in Matrah.",
+                  "category": "religious",
+                  "coords": [
+                        58.58816,
+                        23.60979
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-MA",
     coords: [58.5667, 23.6167],
@@ -521,7 +1259,196 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["150 000 habitants dans le quartier historique", "Souk de Muttrah, un des plus vieux d'Arabie", "Fort portugais de Muttrah datant de 1580", "Corniche longue de trois kilomètres", "Port Mina Sultan Qaboos, ancien pôle majeur", "Occupation portugaise de 1507 à 1650", "Plaque tournante de l'encens et de l'argenterie", "Artisanat des dagues traditionnelles Khanjar"],
     }, image: "/poi-images/muttrah-cities-v2.webp"},
   {
-    id: "bawshar-cities-v2",
+    id: "bawshar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snow Oman",
+                  "text": "Themenpark in Bawshar.",
+                  "category": "recreational",
+                  "coords": [
+                        58.407074,
+                        23.573154
+                  ]
+            },
+            {
+                  "name": "محمية الخوير الطبيعية",
+                  "text": "Naturschutzgebiet in Bawshar.",
+                  "category": "natural",
+                  "coords": [
+                        58.417957,
+                        23.586948
+                  ]
+            },
+            {
+                  "name": "منزل",
+                  "text": "Attraktion in Bawshar.",
+                  "category": "landmark",
+                  "coords": [
+                        58.426077,
+                        23.566931
+                  ]
+            },
+            {
+                  "name": "رمال بوشر",
+                  "text": "Aussichtspunkt in Bawshar.",
+                  "category": "natural",
+                  "coords": [
+                        58.407274,
+                        23.563699
+                  ]
+            },
+            {
+                  "name": "Große Sultan-Qabus-Moschee",
+                  "text": "Prächtige Moschee in Bawshar.",
+                  "category": "religious",
+                  "coords": [
+                        58.388518,
+                        23.583787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snow Oman",
+                  "text": "Vidámpark Bawsharban.",
+                  "category": "recreational",
+                  "coords": [
+                        58.407074,
+                        23.573154
+                  ]
+            },
+            {
+                  "name": "محمية الخوير الطبيعية",
+                  "text": "Természetvédelmi terület Bawsharban.",
+                  "category": "natural",
+                  "coords": [
+                        58.417957,
+                        23.586948
+                  ]
+            },
+            {
+                  "name": "منزل",
+                  "text": "Látnivaló Bawsharban.",
+                  "category": "landmark",
+                  "coords": [
+                        58.426077,
+                        23.566931
+                  ]
+            },
+            {
+                  "name": "رمال بوشر",
+                  "text": "Kilátópont Bawsharban.",
+                  "category": "natural",
+                  "coords": [
+                        58.407274,
+                        23.563699
+                  ]
+            },
+            {
+                  "name": "جامع السلطان قابوس الأكبر",
+                  "text": "Pompás mecset Bawsharban.",
+                  "category": "religious",
+                  "coords": [
+                        58.388518,
+                        23.583787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snow Oman",
+                  "text": "Parc tematic în Bawshar.",
+                  "category": "recreational",
+                  "coords": [
+                        58.407074,
+                        23.573154
+                  ]
+            },
+            {
+                  "name": "محمية الخوير الطبيعية",
+                  "text": "Rezervație naturală în Bawshar.",
+                  "category": "natural",
+                  "coords": [
+                        58.417957,
+                        23.586948
+                  ]
+            },
+            {
+                  "name": "منزل",
+                  "text": "Atracție în Bawshar.",
+                  "category": "landmark",
+                  "coords": [
+                        58.426077,
+                        23.566931
+                  ]
+            },
+            {
+                  "name": "رمال بوشر",
+                  "text": "Punct de observație în Bawshar.",
+                  "category": "natural",
+                  "coords": [
+                        58.407274,
+                        23.563699
+                  ]
+            },
+            {
+                  "name": "جامع السلطان قابوس الأكبر",
+                  "text": "Moschee grandioasă în Bawshar.",
+                  "category": "religious",
+                  "coords": [
+                        58.388518,
+                        23.583787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snow Oman",
+                  "text": "Theme park in Bawshar.",
+                  "category": "recreational",
+                  "coords": [
+                        58.407074,
+                        23.573154
+                  ]
+            },
+            {
+                  "name": "Al Khuwair Natural Reserve",
+                  "text": "Nature reserve in Bawshar.",
+                  "category": "natural",
+                  "coords": [
+                        58.417957,
+                        23.586948
+                  ]
+            },
+            {
+                  "name": "منزل",
+                  "text": "Attraction in Bawshar.",
+                  "category": "landmark",
+                  "coords": [
+                        58.426077,
+                        23.566931
+                  ]
+            },
+            {
+                  "name": "Bosher Sands",
+                  "text": "Viewpoint in Bawshar.",
+                  "category": "natural",
+                  "coords": [
+                        58.407274,
+                        23.563699
+                  ]
+            },
+            {
+                  "name": "Sultan Qaboos Grand Mosque",
+                  "text": "Grand mosque in Bawshar.",
+                  "category": "religious",
+                  "coords": [
+                        58.388518,
+                        23.583787
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-MA",
     coords: [58.4000, 23.5667],
@@ -564,7 +1491,124 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 230 000 habitants dans la province de Mascate", "Université du Sultan Qaboos à proximité (1986)", "Dunes de sable de Bawshar en pleine ville", "Grande Mosquée du Sultan Qaboos (2001)", "Minaret principal de 70 mètres de haut", "Tapis tissé à la main de 4 343 m²", "Capacité de plus de 20 000 fidèles", "Grands centres commerciaux comme l'Avenues Mall"],
     }, image: "/poi-images/bawshar-cities-v2.webp"},
   {
-    id: "bahla-cities-v2",
+    id: "bahla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة بهلا",
+                  "text": "Bahla Fort ist eine bekannte Burg in Bahla, die als UNESCO-Weltkulturerbe anerkannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        57.300746,
+                        22.964461
+                  ]
+            },
+            {
+                  "name": "Bahla Gate",
+                  "text": "Bahla Gate ist ein Museum in Bahla.",
+                  "category": "museum",
+                  "coords": [
+                        57.291742,
+                        22.959312
+                  ]
+            },
+            {
+                  "name": "View on Bahla and fort",
+                  "text": "View on Bahla and fort ist eine Sehenswürdigkeit in Bahla.",
+                  "category": "landmark",
+                  "coords": [
+                        57.306703,
+                        22.966176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة بهلا",
+                  "text": "A Bahla Fort egy híres vár Bahla városában, amely az UNESCO világörökség része.",
+                  "category": "castle",
+                  "coords": [
+                        57.300746,
+                        22.964461
+                  ]
+            },
+            {
+                  "name": "Bahla Gate",
+                  "text": "A Bahla Gate egy múzeum Bahla városában.",
+                  "category": "museum",
+                  "coords": [
+                        57.291742,
+                        22.959312
+                  ]
+            },
+            {
+                  "name": "View on Bahla and fort",
+                  "text": "A View on Bahla and fort egy látványosság Bahla városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.306703,
+                        22.966176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة بهلا",
+                  "text": "Bahla Fort este un castel notabil din Bahla, recunoscut ca sit al Patrimoniului Mondial UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        57.300746,
+                        22.964461
+                  ]
+            },
+            {
+                  "name": "Bahla Gate",
+                  "text": "Bahla Gate este un muzeu situat în Bahla.",
+                  "category": "museum",
+                  "coords": [
+                        57.291742,
+                        22.959312
+                  ]
+            },
+            {
+                  "name": "View on Bahla and fort",
+                  "text": "View on Bahla and fort este o atracție situată în Bahla.",
+                  "category": "landmark",
+                  "coords": [
+                        57.306703,
+                        22.966176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bahla Fort",
+                  "text": "Bahla Fort is a notable castle in Bahla, recognized as a UNESCO World Heritage Site.",
+                  "category": "castle",
+                  "coords": [
+                        57.300746,
+                        22.964461
+                  ]
+            },
+            {
+                  "name": "Bahla Gate",
+                  "text": "Bahla Gate is a museum located in Bahla.",
+                  "category": "museum",
+                  "coords": [
+                        57.291742,
+                        22.959312
+                  ]
+            },
+            {
+                  "name": "View on Bahla and fort",
+                  "text": "View on Bahla and fort is an attraction located in Bahla.",
+                  "category": "landmark",
+                  "coords": [
+                        57.306703,
+                        22.966176
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-DA",
     coords: [57.3000, 22.9667],
@@ -605,7 +1649,124 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 60 000 habitants dans l'Ad-Dakhiliyah", "Inscrit au patrimoine de l'UNESCO depuis 1987", "Forteresse datant du XIIe au XVe siècle", "Muraille en briques de terre de 13 km (Sur al-Bahla)", "Capitale de la dynastie des Banu Nabhan", "Centre de la poterie traditionnelle", "Cité des djinns dans la croyance populaire", "À environ 200 kilomètres au sud-ouest de Mascate"],
     }, image: "/poi-images/bahla-cities-v2.webp"},
   {
-    id: "barka-cities-v2",
+    id: "barka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "الجنينة",
+                  "text": "الجنينة ist ein Schloss in Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.8834,
+                        23.690487
+                  ]
+            },
+            {
+                  "name": "مزرعة الحرث",
+                  "text": "مزرعة الحرث ist ein Schloss in Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.907989,
+                        23.68672
+                  ]
+            },
+            {
+                  "name": "الجحيلة",
+                  "text": "الجحيلة ist ein Schloss in Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.890655,
+                        23.6872
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الجنينة",
+                  "text": "A الجنينة egy kastély Barka városában.",
+                  "category": "castle",
+                  "coords": [
+                        57.8834,
+                        23.690487
+                  ]
+            },
+            {
+                  "name": "مزرعة الحرث",
+                  "text": "A مزرعة الحرث egy kastély Barka városában.",
+                  "category": "castle",
+                  "coords": [
+                        57.907989,
+                        23.68672
+                  ]
+            },
+            {
+                  "name": "الجحيلة",
+                  "text": "A الجحيلة egy kastély Barka városában.",
+                  "category": "castle",
+                  "coords": [
+                        57.890655,
+                        23.6872
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الجنينة",
+                  "text": "الجنينة este un castel în Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.8834,
+                        23.690487
+                  ]
+            },
+            {
+                  "name": "مزرعة الحرث",
+                  "text": "مزرعة الحرث este un castel în Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.907989,
+                        23.68672
+                  ]
+            },
+            {
+                  "name": "الجحيلة",
+                  "text": "الجحيلة este un castel în Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.890655,
+                        23.6872
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "الجنينة",
+                  "text": "الجنينة is a castle in Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.8834,
+                        23.690487
+                  ]
+            },
+            {
+                  "name": "مزرعة الحرث",
+                  "text": "مزرعة الحرث is a castle in Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.907989,
+                        23.68672
+                  ]
+            },
+            {
+                  "name": "الجحيلة",
+                  "text": "الجحيلة is a castle in Barka.",
+                  "category": "castle",
+                  "coords": [
+                        57.890655,
+                        23.6872
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-BS",
     coords: [57.8833, 23.6833],
@@ -689,7 +1850,52 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 25 000 habitants dans la province d'Al-Wusta", "Zone économique spéciale SEZAD depuis 2011", "La zone s'étend sur environ 2 000 km²", "Port accueillant des navires jusqu'à 600 mètres", "Oman Drydock opérationnel depuis 2011", "Jardin de rochers issu de l'érosion du grès", "Symbole de la sortie de la dépendance au pétrole", "Simple village de pêcheurs avant 2011"],
     }, image: "/poi-images/duqm-cities-v2.webp"},
   {
-    id: "suwayq-cities-v2",
+    id: "suwayq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "حصن سور آل هلال",
+                  "text": "حصن سور آل هلال ist eine Burg in Suwaiq.",
+                  "category": "castle",
+                  "coords": [
+                        57.355315,
+                        23.847652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "حصن سور آل هلال",
+                  "text": "A حصن سور آل هلال egy vár Suwaiq városában.",
+                  "category": "castle",
+                  "coords": [
+                        57.355315,
+                        23.847652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "حصن سور آل هلال",
+                  "text": "حصن سور آل هلال este un castel situat în Suwaiq.",
+                  "category": "castle",
+                  "coords": [
+                        57.355315,
+                        23.847652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "حصن سور آل هلال",
+                  "text": "حصن سور آل هلال is a castle located in Suwaiq.",
+                  "category": "castle",
+                  "coords": [
+                        57.355315,
+                        23.847652
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-BA",
     coords: [57.3333, 23.8500],
@@ -731,7 +1937,52 @@ export const poiExtraOmanCitiesV2: POI[] = [
     }
   },
   {
-    id: "saham-cities-v2",
+    id: "saham-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "حصن صحم الشامخ",
+                  "text": "Das Saham Fort ist eine historische Burg an der Küste in der Stadt Saham.",
+                  "category": "castle",
+                  "coords": [
+                        56.890415,
+                        24.172605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "حصن صحم الشامخ",
+                  "text": "A Saham erőd egy történelmi kastély, amely a tengerparton található Saham városában.",
+                  "category": "castle",
+                  "coords": [
+                        56.890415,
+                        24.172605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "حصن صحم الشامخ",
+                  "text": "Fortul Saham este un castel istoric situat pe coastă, în orașul Saham.",
+                  "category": "castle",
+                  "coords": [
+                        56.890415,
+                        24.172605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saham fort",
+                  "text": "Saham fort is a historic castle located on the coast in the city of Saham.",
+                  "category": "castle",
+                  "coords": [
+                        56.890415,
+                        24.172605
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-BA",
     coords: [56.8833, 24.1667],
@@ -813,7 +2064,52 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 75 000 habitants dans l'Al Batinah Nord", "Vilayat le plus au nord à la frontière des Émirats", "Environ 280 kilomètres au nord-ouest de Mascate", "Zones protégées de mangroves Khor Liwa et Khor Shinas", "Zones protégées classées depuis 2008", "Fort de Shinas du XIXe siècle", "Liaison par ferry vers Bandar-e Lengeh en Iran", "Lieu de nidification pour oiseaux migrateurs"],
     }, image: "/poi-images/shinas-cities-v2.webp"},
   {
-    id: "al-mudhaibi-cities-v2",
+    id: "al-mudhaibi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلاع وحصون المضيبي",
+                  "text": "قلاع وحصون المضيبي ist eine Burg in Al Mudaibi.",
+                  "category": "castle",
+                  "coords": [
+                        58.122319,
+                        22.568186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلاع وحصون المضيبي",
+                  "text": "A قلاع وحصون المضيبي egy vár Al Mudaibi városában.",
+                  "category": "castle",
+                  "coords": [
+                        58.122319,
+                        22.568186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلاع وحصون المضيبي",
+                  "text": "قلاع وحصون المضيبي este un castel situat în Al Mudaibi.",
+                  "category": "castle",
+                  "coords": [
+                        58.122319,
+                        22.568186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "قلاع وحصون المضيبي",
+                  "text": "قلاع وحصون المضيبي is a castle located in Al Mudaibi.",
+                  "category": "castle",
+                  "coords": [
+                        58.122319,
+                        22.568186
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-SS",
     coords: [58.1000, 22.5667],
@@ -854,7 +2150,52 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 75 000 habitants dans l'Ash Sharqiyah Nord", "À environ 200 kilomètres au sud-est de Mascate", "Zone de transition entre les monts Hajar et le Wahiba", "Vestiges archéologiques vieux de plus de 3 000 ans", "Vastes plantations de palmiers dattiers", "Système d'irrigation Aflaj au patrimoine de l'UNESCO", "Villages historiques de Sinau et Samad ash-Shan", "Nombreuses forteresses et tours de guet"],
     }, image: "/poi-images/al-mudhaibi-cities-v2.webp"},
   {
-    id: "jalan-bani-bu-ali-cities-v2",
+    id: "jalan-bani-bu-ali-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jalan Bani Bu Ali Fort",
+                  "text": "Das Jalan Bani Bu Ali Fort ist eine Burg in der Stadt Jalan Bani Bu Ali.",
+                  "category": "castle",
+                  "coords": [
+                        59.321245,
+                        22.015268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jalan Bani Bu Ali Fort",
+                  "text": "A Jalan Bani Bu Ali erőd egy kastély Jalan Bani Bu Ali városában.",
+                  "category": "castle",
+                  "coords": [
+                        59.321245,
+                        22.015268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jalan Bani Bu Ali Fort",
+                  "text": "Fortul Jalan Bani Bu Ali este un castel situat în orașul Jalan Bani Bu Ali.",
+                  "category": "castle",
+                  "coords": [
+                        59.321245,
+                        22.015268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jalan Bani Bu Ali Fort",
+                  "text": "Jalan Bani Bu Ali Fort is a castle located in the city of Jalan Bani Bu Ali.",
+                  "category": "castle",
+                  "coords": [
+                        59.321245,
+                        22.015268
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-SJ",
     coords: [59.3333, 22.0167],
@@ -936,7 +2277,124 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 65 000 habitants (Province de Mascate)", "À 95 kilomètres au sud-est de Mascate", "Pillée en 1507 par Afonso de Albuquerque", "Fort de Qurayyat datant du XIXe siècle", "Barrage de Wadi Dayqah haut de 75 mètres", "Capacité de retenue de 100 millions de m3", "Inauguration du barrage en 2012", "Centre important pour la pêche à la sardine"],
     }, image: "/poi-images/qurayyat-cities-v2.webp"},
   {
-    id: "al-hamra-cities-v2",
+    id: "al-hamra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bait al-Safah",
+                  "text": "Bait al-Safah ist ein Museum in Al Hamra.",
+                  "category": "museum",
+                  "coords": [
+                        57.281532,
+                        23.12037
+                  ]
+            },
+            {
+                  "name": "Jabaat al Baqt",
+                  "text": "Jabaat al Baqt ist ein Berggipfel in Al Hamra.",
+                  "category": "natural",
+                  "coords": [
+                        57.310043,
+                        23.112901
+                  ]
+            },
+            {
+                  "name": "المنيزف",
+                  "text": "المنيزف ist eine Sehenswürdigkeit in Al Hamra.",
+                  "category": "landmark",
+                  "coords": [
+                        57.298423,
+                        23.110345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bait al-Safah",
+                  "text": "A Bait al-Safah egy múzeum Al Hamra városában.",
+                  "category": "museum",
+                  "coords": [
+                        57.281532,
+                        23.12037
+                  ]
+            },
+            {
+                  "name": "جبعة البقت",
+                  "text": "A Jabaat al Baqt egy hegycsúcs Al Hamra területén.",
+                  "category": "natural",
+                  "coords": [
+                        57.310043,
+                        23.112901
+                  ]
+            },
+            {
+                  "name": "المنيزف",
+                  "text": "A المنيزف egy látványosság Al Hamra városában.",
+                  "category": "landmark",
+                  "coords": [
+                        57.298423,
+                        23.110345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bait al-Safah",
+                  "text": "Bait al-Safah este un muzeu situat în Al Hamra.",
+                  "category": "museum",
+                  "coords": [
+                        57.281532,
+                        23.12037
+                  ]
+            },
+            {
+                  "name": "جبعة البقت",
+                  "text": "Jabaat al Baqt este un vârf montan situat în Al Hamra.",
+                  "category": "natural",
+                  "coords": [
+                        57.310043,
+                        23.112901
+                  ]
+            },
+            {
+                  "name": "المنيزف",
+                  "text": "المنيزف este o atracție situată în Al Hamra.",
+                  "category": "landmark",
+                  "coords": [
+                        57.298423,
+                        23.110345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bait al-Safah",
+                  "text": "Bait al-Safah is a museum located in Al Hamra.",
+                  "category": "museum",
+                  "coords": [
+                        57.281532,
+                        23.12037
+                  ]
+            },
+            {
+                  "name": "Jabaat al Baqt",
+                  "text": "Jabaat al Baqt is a peak located in Al Hamra.",
+                  "category": "natural",
+                  "coords": [
+                        57.310043,
+                        23.112901
+                  ]
+            },
+            {
+                  "name": "المنيزف",
+                  "text": "المنيزف is an attraction located in Al Hamra.",
+                  "category": "landmark",
+                  "coords": [
+                        57.298423,
+                        23.110345
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-DA",
     coords: [57.2833, 23.1167],
@@ -977,7 +2435,160 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 22 000 habitants dans l'Ad-Dakhiliyah", "Au pied du Djebel Shams (3 009 mètres)", "Maisons en briques de terre datant surtout du XVIIe siècle", "Plus vieilles maisons de l'époque Yarubi (1624-1744)", "Musée vivant Bait al-Safah", "Village de montagne Misfah al-Abriyyin à 15 km", "Point de départ du Balcony Walk", "À environ 220 kilomètres à l'ouest de Mascate"],
     }, image: "/poi-images/al-hamra-cities-v2.webp"},
   {
-    id: "taqah-cities-v2",
+    id: "taqah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Taqah Fort",
+                  "text": "Das Taqah-Fort ist eine lokale Festung in der Stadt Taqah.",
+                  "category": "fortress",
+                  "coords": [
+                        54.395346,
+                        17.038985
+                  ]
+            },
+            {
+                  "name": "Taqah Castle",
+                  "text": "Taqah Castle ist eine historische Burg in der Stadt Taqah.",
+                  "category": "castle",
+                  "coords": [
+                        54.394971,
+                        17.040221
+                  ]
+            },
+            {
+                  "name": "محمية خور طاقة",
+                  "text": "Das Khawr Taqah Reserve ist ein Naturschutzgebiet in der Stadt Taqah.",
+                  "category": "natural",
+                  "coords": [
+                        54.370928,
+                        17.036798
+                  ]
+            },
+            {
+                  "name": "محمية خور روري",
+                  "text": "Das Khawr Rawri Reserve ist ein geschütztes Naturschutzgebiet in der Stadt Taqah.",
+                  "category": "natural",
+                  "coords": [
+                        54.430796,
+                        17.034703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Taqah Fort",
+                  "text": "A Taqah erőd egy helyi erőd Taqah városában.",
+                  "category": "fortress",
+                  "coords": [
+                        54.395346,
+                        17.038985
+                  ]
+            },
+            {
+                  "name": "Taqah Castle",
+                  "text": "A Taqah-kastély egy történelmi kastély Taqah városában.",
+                  "category": "castle",
+                  "coords": [
+                        54.394971,
+                        17.040221
+                  ]
+            },
+            {
+                  "name": "محمية خور طاقة",
+                  "text": "A Khawr Taqah Reserve egy természetvédelmi terület Taqah városában.",
+                  "category": "natural",
+                  "coords": [
+                        54.370928,
+                        17.036798
+                  ]
+            },
+            {
+                  "name": "محمية خور روري",
+                  "text": "A Khawr Rawri Reserve egy védett természetvédelmi terület Taqah városában.",
+                  "category": "natural",
+                  "coords": [
+                        54.430796,
+                        17.034703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Taqah Fort",
+                  "text": "Fortul Taqah este o fortăreață locală situată în orașul Taqah.",
+                  "category": "fortress",
+                  "coords": [
+                        54.395346,
+                        17.038985
+                  ]
+            },
+            {
+                  "name": "Taqah Castle",
+                  "text": "Castelul Taqah este un castel istoric situat în orașul Taqah.",
+                  "category": "castle",
+                  "coords": [
+                        54.394971,
+                        17.040221
+                  ]
+            },
+            {
+                  "name": "محمية خور طاقة",
+                  "text": "Rezervația Khawr Taqah este o rezervație naturală situată în orașul Taqah.",
+                  "category": "natural",
+                  "coords": [
+                        54.370928,
+                        17.036798
+                  ]
+            },
+            {
+                  "name": "محمية خور روري",
+                  "text": "Rezervația Khawr Rawri este o rezervație naturală protejată din orașul Taqah.",
+                  "category": "natural",
+                  "coords": [
+                        54.430796,
+                        17.034703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taqah Fort",
+                  "text": "Taqah Fort is a local fort situated in the city of Taqah.",
+                  "category": "fortress",
+                  "coords": [
+                        54.395346,
+                        17.038985
+                  ]
+            },
+            {
+                  "name": "Taqah Castle",
+                  "text": "Taqah Castle is a historic castle located in the city of Taqah.",
+                  "category": "castle",
+                  "coords": [
+                        54.394971,
+                        17.040221
+                  ]
+            },
+            {
+                  "name": "Khawr Taqah Reserve",
+                  "text": "Khawr Taqah Reserve is a nature reserve located in the city of Taqah.",
+                  "category": "natural",
+                  "coords": [
+                        54.370928,
+                        17.036798
+                  ]
+            },
+            {
+                  "name": "Khawr Rawri Reserve",
+                  "text": "Khawr Rawri Reserve is a protected nature reserve in the city of Taqah.",
+                  "category": "natural",
+                  "coords": [
+                        54.430796,
+                        17.034703
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-ZU",
     coords: [54.4000, 17.0333],
@@ -1018,7 +2629,196 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 25 000 habitants dans le Dhofar", "Environ 35 kilomètres à l'est de Salalah", "Fort de Taqah du XIXe siècle", "Construit sous Said bin Sultan", "Patrimoine UNESCO Sumhuram à 5 km", "Sumhuram date du Ier siècle avant J.-C.", "Port historique d'exportation d'encens", "Centre de la pêche à la sardine"],
     }, image: "/poi-images/taqah-cities-v2.webp"},
   {
-    id: "mirbat-cities-v2",
+    id: "mirbat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirbat Fort / حـصـن مـرباط",
+                  "text": "Historische Festung in Mirbat.",
+                  "category": "castle",
+                  "coords": [
+                        54.695659,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "Burg in Mirbat.",
+                  "category": "castle",
+                  "coords": [
+                        54.692154,
+                        16.975952
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "Strand in Mirbat.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689388,
+                        16.995552
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Attraktion in Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "Attraktion in Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirbat Fort / حـصـن مـرباط",
+                  "text": "Történelmi erőd Mirbatban.",
+                  "category": "castle",
+                  "coords": [
+                        54.695659,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "Vár Mirbatban.",
+                  "category": "castle",
+                  "coords": [
+                        54.692154,
+                        16.975952
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "Strand Mirbatban.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689388,
+                        16.995552
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Látnivaló Mirbatban.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "Látnivaló Mirbatban.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirbat Fort / حـصـن مـرباط",
+                  "text": "Fortăreață istorică în Mirbat.",
+                  "category": "castle",
+                  "coords": [
+                        54.695659,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "Castel în Mirbat.",
+                  "category": "castle",
+                  "coords": [
+                        54.692154,
+                        16.975952
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "Plajă în Mirbat.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689388,
+                        16.995552
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Atracție în Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "Atracție în Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirbat Fort / حـصـن مـرباط",
+                  "text": "Historic fort in Mirbat.",
+                  "category": "castle",
+                  "coords": [
+                        54.695659,
+                        16.992016
+                  ]
+            },
+            {
+                  "name": "Tower Zohair",
+                  "text": "Castle in Mirbat.",
+                  "category": "castle",
+                  "coords": [
+                        54.692154,
+                        16.975952
+                  ]
+            },
+            {
+                  "name": "Mirbat beach",
+                  "text": "Beach in Mirbat.",
+                  "category": "recreational",
+                  "coords": [
+                        54.689388,
+                        16.995552
+                  ]
+            },
+            {
+                  "name": "Bin Ali",
+                  "text": "Attraction in Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.690658,
+                        17.002411
+                  ]
+            },
+            {
+                  "name": "Canons of Mirbat Castle",
+                  "text": "Attraction in Mirbat.",
+                  "category": "landmark",
+                  "coords": [
+                        54.691399,
+                        16.992494
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-ZU",
     coords: [54.6833, 16.9833],
@@ -1061,7 +2861,52 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 14 000 habitants (Dhofar)", "À 75 kilomètres à l'est de Salalah", "Port majeur de l'encens du IXe au XVIe siècle", "Citée par Marco Polo au XIIIe siècle", "Tombeau de Bin Ali, lieu de pèlerinage", "Bataille de Mirbat le 19 juillet 1972", "Rébellion du Dhofar et défense par le SAS", "Récifs coralliens prisés pour la plongée"],
     }, image: "/poi-images/mirbat-cities-v2.webp"},
   {
-    id: "thumrait-cities-v2",
+    id: "thumrait-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Majali",
+                  "text": "Jabal Majali ist ein Berggipfel in Thumrait.",
+                  "category": "natural",
+                  "coords": [
+                        54.010236,
+                        17.629933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "جبل مجلي",
+                  "text": "A Jabal Majali egy hegycsúcs Thumrait területén.",
+                  "category": "natural",
+                  "coords": [
+                        54.010236,
+                        17.629933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "جبل مجلي",
+                  "text": "Jabal Majali este un vârf montan situat în Thumrait.",
+                  "category": "natural",
+                  "coords": [
+                        54.010236,
+                        17.629933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Majali",
+                  "text": "Jabal Majali is a peak located in Thumrait.",
+                  "category": "natural",
+                  "coords": [
+                        54.010236,
+                        17.629933
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-ZU",
     coords: [54.0333, 17.6333],
@@ -1144,7 +2989,88 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 25 000 habitants côté omanais", "Ville partagée entre Oman et deux émirats", "Bataille de Dibba en l'an 633", "Victoire lors des guerres de la Ridda", "Fjords du Musandam avec falaises de 2 000 m", "Croisières en boutres (dhows) traditionnels", "Récifs coralliens et baies désertes", "Dibba al-Hisn appartient à Charjah"],
     }, image: "/poi-images/dibba-al-baya-cities-v2.webp"},
   {
-    id: "nakhal-cities-v2",
+    id: "nakhal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nakhal Fort",
+                  "text": "Bedeutende Festung in Nakhal.",
+                  "category": "castle",
+                  "coords": [
+                        57.8287,
+                        23.394662
+                  ]
+            },
+            {
+                  "name": "عين الثوارة",
+                  "text": "Attraktion in Nakhal.",
+                  "category": "landmark",
+                  "coords": [
+                        57.828448,
+                        23.375456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nakhal Fort",
+                  "text": "Jelentős erőd Nakhalban.",
+                  "category": "castle",
+                  "coords": [
+                        57.8287,
+                        23.394662
+                  ]
+            },
+            {
+                  "name": "عين الثوارة",
+                  "text": "Látnivaló Nakhalban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.828448,
+                        23.375456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nakhal Fort",
+                  "text": "Fortăreață importantă în Nakhal.",
+                  "category": "castle",
+                  "coords": [
+                        57.8287,
+                        23.394662
+                  ]
+            },
+            {
+                  "name": "عين الثوارة",
+                  "text": "Atracție în Nakhal.",
+                  "category": "landmark",
+                  "coords": [
+                        57.828448,
+                        23.375456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nakhal Fort",
+                  "text": "Notable fort in Nakhal.",
+                  "category": "castle",
+                  "coords": [
+                        57.8287,
+                        23.394662
+                  ]
+            },
+            {
+                  "name": "عين الثوارة",
+                  "text": "Attraction in Nakhal.",
+                  "category": "landmark",
+                  "coords": [
+                        57.828448,
+                        23.375456
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-BS",
     coords: [57.8333, 23.3833],
@@ -1185,7 +3111,124 @@ export const poiExtraOmanCitiesV2: POI[] = [
       fr: ["Environ 35 000 habitants (Al Batinah Sud)", "À 120 kilomètres à l'ouest de Mascate", "Forteresse de Nakhal sur un piton rocheux", "Vestiges datant de l'ère préislamique", "Agrandissement au XVIIe siècle (Yarubides)", "Source Ain A'Thawwarah entre 33 et 40°C", "Source située à 5 km de la forteresse", "Vaste oasis de palmiers dattiers"],
     }, image: "/poi-images/nakhal-cities-v2.webp"},
   {
-    id: "adam-cities-v2",
+    id: "adam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "حارة البوسعيد",
+                  "text": "Old Adam ist eine Burg in Adam.",
+                  "category": "castle",
+                  "coords": [
+                        57.523492,
+                        22.381895
+                  ]
+            },
+            {
+                  "name": "حارة بني وائل",
+                  "text": "حارة بني وائل ist eine Burg in Adam.",
+                  "category": "castle",
+                  "coords": [
+                        57.522954,
+                        22.3856
+                  ]
+            },
+            {
+                  "name": "حارة العين",
+                  "text": "حارة العين ist eine Burg in Adam.",
+                  "category": "castle",
+                  "coords": [
+                        57.527588,
+                        22.383096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "حارة البوسعيد",
+                  "text": "Az Old Adam egy vár Adam városában.",
+                  "category": "castle",
+                  "coords": [
+                        57.523492,
+                        22.381895
+                  ]
+            },
+            {
+                  "name": "حارة بني وائل",
+                  "text": "A حارة بني وائل egy vár Adam városában.",
+                  "category": "castle",
+                  "coords": [
+                        57.522954,
+                        22.3856
+                  ]
+            },
+            {
+                  "name": "حارة العين",
+                  "text": "A حارة العين egy vár Adam városában.",
+                  "category": "castle",
+                  "coords": [
+                        57.527588,
+                        22.383096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "حارة البوسعيد",
+                  "text": "Old Adam este un castel situat în Adam.",
+                  "category": "castle",
+                  "coords": [
+                        57.523492,
+                        22.381895
+                  ]
+            },
+            {
+                  "name": "حارة بني وائل",
+                  "text": "حارة بني وائل este un castel situat în Adam.",
+                  "category": "castle",
+                  "coords": [
+                        57.522954,
+                        22.3856
+                  ]
+            },
+            {
+                  "name": "حارة العين",
+                  "text": "حارة العين este un castel situat în Adam.",
+                  "category": "castle",
+                  "coords": [
+                        57.527588,
+                        22.383096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Adam",
+                  "text": "Old Adam is a castle located in Adam.",
+                  "category": "castle",
+                  "coords": [
+                        57.523492,
+                        22.381895
+                  ]
+            },
+            {
+                  "name": "حارة بني وائل",
+                  "text": "حارة بني وائل is a castle located in Adam.",
+                  "category": "castle",
+                  "coords": [
+                        57.522954,
+                        22.3856
+                  ]
+            },
+            {
+                  "name": "حارة العين",
+                  "text": "حارة العين is a castle located in Adam.",
+                  "category": "castle",
+                  "coords": [
+                        57.527588,
+                        22.383096
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "OM-DA",
     coords: [57.5333, 22.3833],

@@ -254,7 +254,196 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["Capital of the Eastern Province, housing over 1.3 million residents.", "King Abdulaziz Port is the largest port on the Persian Gulf coast.", "King Fahd International Airport is the world's largest by land area.", "First commercial oil well in Saudi Arabia, Dammam No. 7, was drilled here.", "The 25 km King Fahd Causeway connects the city to neighboring Bahrain.", "Dammam Corniche is a premier 4-kilometer long waterfront park.", "The city experiences an arid climate with high humidity in summer.", "It serves as a major hub for the Saudi railway network connecting to Riyadh."],
     }, image: "/poi-images/dammam-cities-v2.webp"},
   {
-    id: "taif-cities-v2",
+    id: "taif-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قصر شبرا التاريخي",
+                  "text": "Der Shubra Palast in Ta'if ist ein historisches Museum.",
+                  "category": "museum",
+                  "coords": [
+                        40.415208,
+                        21.286202
+                  ]
+            },
+            {
+                  "name": "الحكير تايم",
+                  "text": "Al Hokair Time ist ein Themenpark in Ta'if.",
+                  "category": "recreational",
+                  "coords": [
+                        40.414947,
+                        21.245603
+                  ]
+            },
+            {
+                  "name": "مسجد عبدالله بن العباس",
+                  "text": "Die Abdullah Ibn Abbas Moschee ist ein bedeutendes Gotteshaus in Ta'if.",
+                  "category": "religious",
+                  "coords": [
+                        40.408456,
+                        21.270407
+                  ]
+            },
+            {
+                  "name": "مسجد المدهون",
+                  "text": "Die Al-Madhoun Moschee ist ein Gotteshaus in Ta'if.",
+                  "category": "religious",
+                  "coords": [
+                        40.391358,
+                        21.256115
+                  ]
+            },
+            {
+                  "name": "مسجد عداس",
+                  "text": "Die Addas Moschee ist ein Gotteshaus in Ta'if.",
+                  "category": "religious",
+                  "coords": [
+                        40.390919,
+                        21.257712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قصر شبرا التاريخي",
+                  "text": "A Ta'if-i Shubra Palota egy történelmi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        40.415208,
+                        21.286202
+                  ]
+            },
+            {
+                  "name": "الحكير تايم",
+                  "text": "Az Al Hokair Time egy vidámpark Ta'ifban.",
+                  "category": "recreational",
+                  "coords": [
+                        40.414947,
+                        21.245603
+                  ]
+            },
+            {
+                  "name": "مسجد عبدالله بن العباس",
+                  "text": "Az Abdullah Ibn Abbas mecset egy jelentős imaház Ta'ifban.",
+                  "category": "religious",
+                  "coords": [
+                        40.408456,
+                        21.270407
+                  ]
+            },
+            {
+                  "name": "مسجد المدهون",
+                  "text": "Az Al-Madhoun mecset egy imaház Ta'ifban.",
+                  "category": "religious",
+                  "coords": [
+                        40.391358,
+                        21.256115
+                  ]
+            },
+            {
+                  "name": "مسجد عداس",
+                  "text": "Az Addas mecset egy imaház Ta'ifban.",
+                  "category": "religious",
+                  "coords": [
+                        40.390919,
+                        21.257712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قصر شبرا التاريخي",
+                  "text": "Palatul Shubra din Ta'if este un muzeu istoric.",
+                  "category": "museum",
+                  "coords": [
+                        40.415208,
+                        21.286202
+                  ]
+            },
+            {
+                  "name": "الحكير تايم",
+                  "text": "Al Hokair Time este un parc tematic în Ta'if.",
+                  "category": "recreational",
+                  "coords": [
+                        40.414947,
+                        21.245603
+                  ]
+            },
+            {
+                  "name": "مسجد عبدالله بن العباس",
+                  "text": "Moscheea Abdullah Ibn Abbas este un lăcaș de cult important în Ta'if.",
+                  "category": "religious",
+                  "coords": [
+                        40.408456,
+                        21.270407
+                  ]
+            },
+            {
+                  "name": "مسجد المدهون",
+                  "text": "Moscheea Al-Madhoun este un lăcaș de cult în Ta'if.",
+                  "category": "religious",
+                  "coords": [
+                        40.391358,
+                        21.256115
+                  ]
+            },
+            {
+                  "name": "مسجد عداس",
+                  "text": "Moscheea Addas este un lăcaș de cult în Ta'if.",
+                  "category": "religious",
+                  "coords": [
+                        40.390919,
+                        21.257712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shubra Palace",
+                  "text": "The Shubra Palace in Ta'if is a historic museum.",
+                  "category": "museum",
+                  "coords": [
+                        40.415208,
+                        21.286202
+                  ]
+            },
+            {
+                  "name": "Al Hokair Time",
+                  "text": "Al Hokair Time is a theme park in Ta'if.",
+                  "category": "recreational",
+                  "coords": [
+                        40.414947,
+                        21.245603
+                  ]
+            },
+            {
+                  "name": "Abdullah Ibn Abbas Mosque",
+                  "text": "The Abdullah Ibn Abbas Mosque is a significant place of worship in Ta'if.",
+                  "category": "religious",
+                  "coords": [
+                        40.408456,
+                        21.270407
+                  ]
+            },
+            {
+                  "name": "Al-Madhoun Mosque",
+                  "text": "The Al-Madhoun Mosque is a place of worship in Ta'if.",
+                  "category": "religious",
+                  "coords": [
+                        40.391358,
+                        21.256115
+                  ]
+            },
+            {
+                  "name": "مسجد عداس",
+                  "text": "The Addas Mosque is a place of worship in Ta'if.",
+                  "category": "religious",
+                  "coords": [
+                        40.390919,
+                        21.257712
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-02",
     coords: [40.4167, 21.2667],
@@ -408,7 +597,52 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["Buraidah is home to the largest date festival and market in the world.", "It is the administrative capital of the Al-Qassim Region in central Saudi Arabia.", "The city is located near Wadi al-Rummah, the longest valley in the peninsula.", "The region accounts for a significant portion of the Kingdom's wheat production.", "Buraidah Water Tower is a major landmark, built to resemble a giant torch.", "Qassim University, based in Buraidah, is one of the top comprehensive universities.", "The city's altitude is approximately 650 meters (2,133 feet) above sea level.", "Buraidah is a major terminal for the North-South Railway network (SAR)."],
     }, image: "/poi-images/buraidah-cities-v2.webp"},
   {
-    id: "khamis-mushait-cities-v2",
+    id: "khamis-mushait-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قرية بن حمسان التراثية",
+                  "text": "قرية بن حمسان التراثية ist ein Museum in Chamis Muschait.",
+                  "category": "museum",
+                  "coords": [
+                        42.757427,
+                        18.296148
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قرية بن حمسان التراثية",
+                  "text": "A قرية بن حمسان التراثية egy múzeum Chamis Muschait városában.",
+                  "category": "museum",
+                  "coords": [
+                        42.757427,
+                        18.296148
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قرية بن حمسان التراثية",
+                  "text": "قرية بن حمسان التراثية este un muzeu în Chamis Muschait.",
+                  "category": "museum",
+                  "coords": [
+                        42.757427,
+                        18.296148
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "قرية بن حمسان التراثية",
+                  "text": "قرية بن حمسان التراثية is a museum located in Chamis Muschait.",
+                  "category": "museum",
+                  "coords": [
+                        42.757427,
+                        18.296148
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-14",
     coords: [42.7333, 18.3000],
@@ -567,7 +801,124 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       fr: ["Environ 660 000 habitants au centre de l'oasis d'Al-Ahsa", "La plus grande oasis de palmiers dattiers au monde avec plus de 2,5 millions de palmiers", "Al-Ahsa, patrimoine mondial de l'UNESCO depuis 2018", "Environ 280 sources artésiennes alimentent l'oasis", "Conquête par Ibn Saud en 1913 aux Ottomans", "Forteresse d'Ibrahim datant de 1556, époque ottomane", "État carmate dans la région de 899 à 1077", "Souk Qaisariah comme marché couvert historique"],
     }, image: "/poi-images/al-hofuf-cities-v2.webp"},
   {
-    id: "al-mubarraz-cities-v2",
+    id: "al-mubarraz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qasr Sahud",
+                  "text": "Qasr Sahud ist eine historische Burg in Al Mubarraz.",
+                  "category": "castle",
+                  "coords": [
+                        49.583342,
+                        25.414152
+                  ]
+            },
+            {
+                  "name": "عين نجم",
+                  "text": "Ayn an Najm ist eine Ruinenstätte in Al Mubarraz.",
+                  "category": "historical",
+                  "coords": [
+                        49.558598,
+                        25.406664
+                  ]
+            },
+            {
+                  "name": "دوار السفينة",
+                  "text": "Das Schiffs-Denkmal (Duwar al-Safina) ist eine bekannte Sehenswürdigkeit in Al Mubarraz.",
+                  "category": "historical",
+                  "coords": [
+                        49.606857,
+                        25.408955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قصر صاهود",
+                  "text": "A Qasr Sahud egy történelmi vár Al Mubarrazban.",
+                  "category": "castle",
+                  "coords": [
+                        49.583342,
+                        25.414152
+                  ]
+            },
+            {
+                  "name": "عين نجم",
+                  "text": "Az Ayn an Najm egy romterület Al Mubarrazban.",
+                  "category": "historical",
+                  "coords": [
+                        49.558598,
+                        25.406664
+                  ]
+            },
+            {
+                  "name": "دوار السفينة",
+                  "text": "A Hajó-emlékmű (Duwar al-Safina) egy ismert látnivaló Al Mubarrazban.",
+                  "category": "historical",
+                  "coords": [
+                        49.606857,
+                        25.408955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قصر صاهود",
+                  "text": "Qasr Sahud este un castel istoric în Al Mubarraz.",
+                  "category": "castle",
+                  "coords": [
+                        49.583342,
+                        25.414152
+                  ]
+            },
+            {
+                  "name": "عين نجم",
+                  "text": "Ayn an Najm este un sit în ruină în Al Mubarraz.",
+                  "category": "historical",
+                  "coords": [
+                        49.558598,
+                        25.406664
+                  ]
+            },
+            {
+                  "name": "دوار السفينة",
+                  "text": "Monumentul Navei (Duwar al-Safina) este un punct de reper cunoscut în Al Mubarraz.",
+                  "category": "historical",
+                  "coords": [
+                        49.606857,
+                        25.408955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qasr Sahud",
+                  "text": "Qasr Sahud is a historic castle in Al Mubarraz.",
+                  "category": "castle",
+                  "coords": [
+                        49.583342,
+                        25.414152
+                  ]
+            },
+            {
+                  "name": "`Ayn an Najm",
+                  "text": "Ayn an Najm is a ruin site in Al Mubarraz.",
+                  "category": "historical",
+                  "coords": [
+                        49.558598,
+                        25.406664
+                  ]
+            },
+            {
+                  "name": "دوار السفينة",
+                  "text": "The Ship Monument (Duwar al-Safina) is a well-known landmark in Al Mubarraz.",
+                  "category": "historical",
+                  "coords": [
+                        49.606857,
+                        25.408955
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-04",
     coords: [49.5858, 25.4136],
@@ -831,7 +1182,232 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       fr: ["Environ 425 000 habitants, 90 kilomètres au sud-est de Riyad", "Puits naturels en calcaire Dahl de grande profondeur", "Ferme modèle du roi Abd al-Aziz dans les années 1930 et 1940", "Palais Al-Salam datant de l'époque du fondateur de l'État", "Ferme Almarai comme plus grande exploitation laitière du Moyen-Orient", "Plus de 100 000 vaches dans la ferme Almarai", "Base aérienne Prince Sultan depuis 1991 pour les troupes américaines", "Aide américaine dans le cadre du Prêt-Bail durant la Seconde Guerre mondiale"],
     }, image: "/poi-images/al-kharj-cities-v2.webp"},
   {
-    id: "yanbu-cities-v2",
+    id: "yanbu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مملكة الحيوان",
+                  "text": "Mamlaka al-Haywan ist ein Zoo in Yanbu.",
+                  "category": "recreational",
+                  "coords": [
+                        38.065505,
+                        24.090436
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري لثلاثة مراكب شراعية",
+                  "text": "Das 3-Segelboot-Denkmal ist ein Wahrzeichen in Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.046285,
+                        24.105803
+                  ]
+            },
+            {
+                  "name": "Shells Monument",
+                  "text": "Das Muschel-Denkmal ist ein Wahrzeichen in Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.072651,
+                        24.087581
+                  ]
+            },
+            {
+                  "name": "السمك في سلة",
+                  "text": "Das 'Fisch im Korb'-Denkmal ist eine interessante Skulptur in Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.059932,
+                        24.082504
+                  ]
+            },
+            {
+                  "name": "جرة مكسورة",
+                  "text": "Das Denkmal des zerbrochenen Kruges ist eine Sehenswürdigkeit in Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.061401,
+                        24.089615
+                  ]
+            },
+            {
+                  "name": "منطقة ينبع التاريخية",
+                  "text": "Das historische Viertel von Yanbu ist eine beliebte Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        38.059971,
+                        24.078991
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مملكة الحيوان",
+                  "text": "A Mamlaka al-Haywan egy állatkert Yanbuban.",
+                  "category": "recreational",
+                  "coords": [
+                        38.065505,
+                        24.090436
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري لثلاثة مراكب شراعية",
+                  "text": "A 3 vitorlás emlékmű egy jelkép Yanbuban.",
+                  "category": "historical",
+                  "coords": [
+                        38.046285,
+                        24.105803
+                  ]
+            },
+            {
+                  "name": "Shells Monument",
+                  "text": "A kagyló-emlékmű egy jelkép Yanbuban.",
+                  "category": "historical",
+                  "coords": [
+                        38.072651,
+                        24.087581
+                  ]
+            },
+            {
+                  "name": "السمك في سلة",
+                  "text": "A 'Hal a kosárban' emlékmű egy érdekes szobor Yanbuban.",
+                  "category": "historical",
+                  "coords": [
+                        38.059932,
+                        24.082504
+                  ]
+            },
+            {
+                  "name": "جرة مكسورة",
+                  "text": "A törött korsó emlékmű egy látnivaló Yanbuban.",
+                  "category": "historical",
+                  "coords": [
+                        38.061401,
+                        24.089615
+                  ]
+            },
+            {
+                  "name": "منطقة ينبع التاريخية",
+                  "text": "Yanbu történelmi negyede egy népszerű látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        38.059971,
+                        24.078991
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مملكة الحيوان",
+                  "text": "Mamlaka al-Haywan este o grădină zoologică în Yanbu.",
+                  "category": "recreational",
+                  "coords": [
+                        38.065505,
+                        24.090436
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري لثلاثة مراكب شراعية",
+                  "text": "Monumentul celor 3 veliere este un punct de reper în Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.046285,
+                        24.105803
+                  ]
+            },
+            {
+                  "name": "Shells Monument",
+                  "text": "Monumentul scoicilor este un punct de reper în Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.072651,
+                        24.087581
+                  ]
+            },
+            {
+                  "name": "السمك في سلة",
+                  "text": "Monumentul 'Peștele în coș' este o sculptură interesantă în Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.059932,
+                        24.082504
+                  ]
+            },
+            {
+                  "name": "جرة مكسورة",
+                  "text": "Monumentul ulciorului spart este o atracție în Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.061401,
+                        24.089615
+                  ]
+            },
+            {
+                  "name": "منطقة ينبع التاريخية",
+                  "text": "Cartierul istoric al orașului Yanbu este o atracție populară.",
+                  "category": "landmark",
+                  "coords": [
+                        38.059971,
+                        24.078991
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "مملكة الحيوان",
+                  "text": "Mamlaka al-Haywan is a zoo in Yanbu.",
+                  "category": "recreational",
+                  "coords": [
+                        38.065505,
+                        24.090436
+                  ]
+            },
+            {
+                  "name": "3 Sailboats Monument",
+                  "text": "The 3 Sailboats Monument is a landmark in Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.046285,
+                        24.105803
+                  ]
+            },
+            {
+                  "name": "Shells Monument",
+                  "text": "The Shells Monument is a landmark in Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.072651,
+                        24.087581
+                  ]
+            },
+            {
+                  "name": "Fish in a Basket",
+                  "text": "The 'Fish in a Basket' monument is an interesting sculpture in Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.059932,
+                        24.082504
+                  ]
+            },
+            {
+                  "name": "broken jar",
+                  "text": "The broken jar monument is an attraction in Yanbu.",
+                  "category": "historical",
+                  "coords": [
+                        38.061401,
+                        24.089615
+                  ]
+            },
+            {
+                  "name": "Yanbu Historic Area",
+                  "text": "The historic area of Yanbu is a popular attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        38.059971,
+                        24.078991
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-03",
     coords: [38.0622, 24.0891],
@@ -1247,7 +1823,88 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       en: ["Al Bahah sits at an elevation of 2,155 meters (7,070 feet) in the Hejaz Mountains.", "The region is home to over 40 natural forests and numerous parks.", "Thee Ain Ancient Village is nicknamed the 'Marble Village' for its foundation rock.", "There are approximately 1,001 historical stone watchtowers in the province.", "Raghdan Forest covers an area of about 60 hectares of natural vegetation.", "Al Bahah is famous for hosting an annual international honey festival.", "The city acts as a major link between the mountain crests and the Tihama coast.", "The province's history is tied to the ancient Ghamid and Zahran tribes."],
     }, image: "/poi-images/al-bahah-cities-v2.webp"},
   {
-    id: "tarut-cities-v2",
+    id: "tarut-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعة تاروت",
+                  "text": "Das Tarout Castle ist ein Schloss in Tarut.",
+                  "category": "castle",
+                  "coords": [
+                        50.066063,
+                        26.569258
+                  ]
+            },
+            {
+                  "name": "مسجد الخضر",
+                  "text": "Die Al Khidr Mosque ist eine religiöse Stätte in Tarut.",
+                  "category": "religious",
+                  "coords": [
+                        50.079157,
+                        26.5634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة تاروت",
+                  "text": "A Tarout Castle egy kastély Tarut városában.",
+                  "category": "castle",
+                  "coords": [
+                        50.066063,
+                        26.569258
+                  ]
+            },
+            {
+                  "name": "مسجد الخضر",
+                  "text": "Az Al Khidr Mosque egy istentiszteleti hely Tarut városában.",
+                  "category": "religious",
+                  "coords": [
+                        50.079157,
+                        26.5634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة تاروت",
+                  "text": "Tarout Castle este un castel în Tarut.",
+                  "category": "castle",
+                  "coords": [
+                        50.066063,
+                        26.569258
+                  ]
+            },
+            {
+                  "name": "مسجد الخضر",
+                  "text": "Al Khidr Mosque este un lăcaș de cult în Tarut.",
+                  "category": "religious",
+                  "coords": [
+                        50.079157,
+                        26.5634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tarout Castle",
+                  "text": "The Tarout Castle is a castle located in Tarut.",
+                  "category": "castle",
+                  "coords": [
+                        50.066063,
+                        26.569258
+                  ]
+            },
+            {
+                  "name": "Al Khidr Mosque",
+                  "text": "The Al Khidr Mosque is a place of worship located in Tarut.",
+                  "category": "religious",
+                  "coords": [
+                        50.079157,
+                        26.5634
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-04",
     coords: [50.0500, 26.5667],
@@ -1302,7 +1959,160 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       fr: ["Environ 80 000 habitants sur l'île de Tarut", "Traces de la culture d'Obeïd dès le cinquième millénaire av. J.-C.", "Port important de Dilmun au troisième millénaire av. J.-C.", "Domination portugaise de 1515 à 1551", "Forteresse de Tarut construite par les Portugais en 1515", "Intégration au royaume saoudien par Ibn Saoud en 1913", "Reliée au continent par plusieurs chaussées", "Source d'eau douce Lulu qui irriguait historiquement les palmeraies"],
     }, image: "/poi-images/tarut-cities-v2.webp"},
   {
-    id: "al-khobar-cities-v2",
+    id: "al-khobar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stone Monument with Inscriptions",
+                  "text": "Das Stone Monument with Inscriptions ist ein Denkmal in Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.223811,
+                        26.293885
+                  ]
+            },
+            {
+                  "name": "Flame Statue",
+                  "text": "Die Flame Statue ist ein Denkmal in Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.224182,
+                        26.292611
+                  ]
+            },
+            {
+                  "name": "Sea Wave Statue",
+                  "text": "Die Sea Wave Statue ist ein Denkmal in Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.224702,
+                        26.294982
+                  ]
+            },
+            {
+                  "name": "GCC Monument (Khobar)",
+                  "text": "Das GCC Monument (Khobar) ist ein Denkmal in Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.206892,
+                        26.281882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stone Monument with Inscriptions",
+                  "text": "A Stone Monument with Inscriptions egy emlékmű Al-Chubar városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.223811,
+                        26.293885
+                  ]
+            },
+            {
+                  "name": "Flame Statue",
+                  "text": "A Flame Statue egy emlékmű Al-Chubar területén.",
+                  "category": "historical",
+                  "coords": [
+                        50.224182,
+                        26.292611
+                  ]
+            },
+            {
+                  "name": "Sea Wave Statue",
+                  "text": "A Sea Wave Statue egy emlékmű Al-Chubar városában.",
+                  "category": "historical",
+                  "coords": [
+                        50.224702,
+                        26.294982
+                  ]
+            },
+            {
+                  "name": "GCC Monument (Khobar)",
+                  "text": "A GCC Monument (Khobar) egy emlékmű Al-Chubarban.",
+                  "category": "historical",
+                  "coords": [
+                        50.206892,
+                        26.281882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stone Monument with Inscriptions",
+                  "text": "Stone Monument with Inscriptions este un monument din Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.223811,
+                        26.293885
+                  ]
+            },
+            {
+                  "name": "Flame Statue",
+                  "text": "Flame Statue este un monument situat în Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.224182,
+                        26.292611
+                  ]
+            },
+            {
+                  "name": "Sea Wave Statue",
+                  "text": "Sea Wave Statue este un monument din Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.224702,
+                        26.294982
+                  ]
+            },
+            {
+                  "name": "GCC Monument (Khobar)",
+                  "text": "GCC Monument (Khobar) este un monument din Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.206892,
+                        26.281882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone Monument with Inscriptions",
+                  "text": "The Stone Monument with Inscriptions is a monument in Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.223811,
+                        26.293885
+                  ]
+            },
+            {
+                  "name": "Flame Statue",
+                  "text": "The Flame Statue is a monument located in Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.224182,
+                        26.292611
+                  ]
+            },
+            {
+                  "name": "Sea Wave Statue",
+                  "text": "The Sea Wave Statue is a monument situated in Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.224702,
+                        26.294982
+                  ]
+            },
+            {
+                  "name": "GCC Monument (Khobar)",
+                  "text": "The GCC Monument (Khobar) is a monument located in Al-Chubar.",
+                  "category": "historical",
+                  "coords": [
+                        50.206892,
+                        26.281882
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-04",
     coords: [50.2083, 26.2833],
@@ -1467,7 +2277,160 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       fr: ["Environ 360 000 habitants dans le Wadi al-Batin", "Puits du VIIe siècle creusés par le calife Uthman", "Sur l'itinéraire historique des caravanes Bassora–La Mecque", "Cité militaire du roi Khaled (KKMC) depuis les années 1980", "L'une des plus grandes cités militaires d'Arabie saoudite", "Point de rassemblement des forces de la coalition 1990/91", "À environ 90 kilomètres de la frontière irako-koweïtienne", "Frontière tribale entre Mutair et Ajman"],
     }, image: "/poi-images/hafar-al-batin-cities-v2.webp"},
   {
-    id: "unayzah-cities-v2",
+    id: "unayzah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قصر الجنيني الاثري",
+                  "text": "قصر الجنيني الاثري ist eine archäologische Stätte in Unaiza.",
+                  "category": "historical",
+                  "coords": [
+                        43.985374,
+                        26.082812
+                  ]
+            },
+            {
+                  "name": "بيت الصالحي التراثي",
+                  "text": "بيت الصالحي التراثي ist eine archäologische Stätte in Unaiza.",
+                  "category": "historical",
+                  "coords": [
+                        43.974323,
+                        26.097426
+                  ]
+            },
+            {
+                  "name": "ساعة عنيزة",
+                  "text": "ساعة عنيزة ist ein Denkmal in Unaiza.",
+                  "category": "historical",
+                  "coords": [
+                        43.987374,
+                        26.091174
+                  ]
+            },
+            {
+                  "name": "جامع ابن عثيمين",
+                  "text": "جامع ابن عثيمين ist eine religiöse Stätte in Unaiza.",
+                  "category": "religious",
+                  "coords": [
+                        43.972198,
+                        26.092541
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قصر الجنيني الاثري",
+                  "text": "A قصر الجنيني الاثري egy régészeti lelőhely Unaiza városában.",
+                  "category": "historical",
+                  "coords": [
+                        43.985374,
+                        26.082812
+                  ]
+            },
+            {
+                  "name": "بيت الصالحي التراثي",
+                  "text": "A بيت الصالحي التراثي egy régészeti emlékhely Unaiza területén.",
+                  "category": "historical",
+                  "coords": [
+                        43.974323,
+                        26.097426
+                  ]
+            },
+            {
+                  "name": "ساعة عنيزة",
+                  "text": "A ساعة عنيزة egy emlékmű Unaiza városában.",
+                  "category": "historical",
+                  "coords": [
+                        43.987374,
+                        26.091174
+                  ]
+            },
+            {
+                  "name": "جامع ابن عثيمين",
+                  "text": "A جامع ابن عثيمين egy vallási imahely Unaiza területén.",
+                  "category": "religious",
+                  "coords": [
+                        43.972198,
+                        26.092541
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قصر الجنيني الاثري",
+                  "text": "قصر الجنيني الاثري este un sit arheologic din Unaiza.",
+                  "category": "historical",
+                  "coords": [
+                        43.985374,
+                        26.082812
+                  ]
+            },
+            {
+                  "name": "بيت الصالحي التراثي",
+                  "text": "بيت الصالحي التراثي este un sit arheologic situat în Unaiza.",
+                  "category": "historical",
+                  "coords": [
+                        43.974323,
+                        26.097426
+                  ]
+            },
+            {
+                  "name": "ساعة عنيزة",
+                  "text": "ساعة عنيزة este un monument din Unaiza.",
+                  "category": "historical",
+                  "coords": [
+                        43.987374,
+                        26.091174
+                  ]
+            },
+            {
+                  "name": "جامع ابن عثيمين",
+                  "text": "جامع ابن عثيمين este un lăcaș de cult din Unaiza.",
+                  "category": "religious",
+                  "coords": [
+                        43.972198,
+                        26.092541
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "قصر الجنيني الاثري",
+                  "text": "قصر الجنيني الاثري is an archaeological site located in Unaiza.",
+                  "category": "historical",
+                  "coords": [
+                        43.985374,
+                        26.082812
+                  ]
+            },
+            {
+                  "name": "بيت الصالحي التراثي",
+                  "text": "بيت الصالحي التراثي is an archaeological site situated in Unaiza.",
+                  "category": "historical",
+                  "coords": [
+                        43.974323,
+                        26.097426
+                  ]
+            },
+            {
+                  "name": "ساعة عنيزة",
+                  "text": "ساعة عنيزة is a monument located in Unaiza.",
+                  "category": "historical",
+                  "coords": [
+                        43.987374,
+                        26.091174
+                  ]
+            },
+            {
+                  "name": "جامع ابن عثيمين",
+                  "text": "جامع ابن عثيمين is a place of worship located in Unaiza.",
+                  "category": "religious",
+                  "coords": [
+                        43.972198,
+                        26.092541
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-05",
     coords: [43.9744, 26.0855],
@@ -1522,7 +2485,88 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
       fr: ["Environ 165 000 habitants, deuxième plus grande ville d'Al-Qasim", "À environ 720 mètres d'altitude dans le Nedjd", "Surnom \"Paris du Nedjd\" en raison de sa tradition littéraire", "Intégration au royaume saoudien en 1906 sous Ibn Saoud", "Célèbre pour la variété de dattes Sukkari", "Maison Al-Bassam du XIXe siècle restaurée", "Importante station caravanière au XIXe siècle", "À 30 kilomètres au sud-ouest de Buraidah"],
     }, image: "/poi-images/unayzah-cities-v2.webp"},
   {
-    id: "al-majmaah-cities-v2",
+    id: "al-majmaah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "بيت الربيعة التراثي",
+                  "text": "Das historische Haus Beit Al-Rabiah ist eine Ruinenstätte in Al-Madschma'a.",
+                  "category": "historical",
+                  "coords": [
+                        45.334961,
+                        25.903281
+                  ]
+            },
+            {
+                  "name": "old town of Harmah",
+                  "text": "Die Altstadt von Harmah ist eine historische Ruinenstätte bei Al-Madschma'a.",
+                  "category": "historical",
+                  "coords": [
+                        45.341962,
+                        25.92484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "بيت الربيعة التراثي",
+                  "text": "A Beit Al-Rabiah történelmi ház egy romterület Al-Madschma'ában.",
+                  "category": "historical",
+                  "coords": [
+                        45.334961,
+                        25.903281
+                  ]
+            },
+            {
+                  "name": "old town of Harmah",
+                  "text": "Harmah óvárosa egy történelmi romterület Al-Madschma'a közelében.",
+                  "category": "historical",
+                  "coords": [
+                        45.341962,
+                        25.92484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "بيت الربيعة التراثي",
+                  "text": "Casa istorică Beit Al-Rabiah este un sit în ruină în Al-Madschma'a.",
+                  "category": "historical",
+                  "coords": [
+                        45.334961,
+                        25.903281
+                  ]
+            },
+            {
+                  "name": "old town of Harmah",
+                  "text": "Orașul vechi Harmah este un sit în ruină istoric lângă Al-Madschma'a.",
+                  "category": "historical",
+                  "coords": [
+                        45.341962,
+                        25.92484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "بيت الربيعة التراثي",
+                  "text": "The historic house Beit Al-Rabiah is a ruin site in Al-Madschma'a.",
+                  "category": "historical",
+                  "coords": [
+                        45.334961,
+                        25.903281
+                  ]
+            },
+            {
+                  "name": "old town of Harmah",
+                  "text": "The old town of Harmah is a historic ruin site near Al-Madschma'a.",
+                  "category": "historical",
+                  "coords": [
+                        45.341962,
+                        25.92484
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SA-01",
     coords: [45.3333, 25.9000],

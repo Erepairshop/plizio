@@ -65,7 +65,124 @@ export const poiExtraQatarCitiesV2: POI[] = [
     },
   },
   {
-    id: "qa-al-rayyan-cities-v2",
+    id: "qa-al-rayyan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arabisches Museum für moderne Kunst",
+                  "text": "Ein Museum für moderne arabische Kunst in Al Rayyan.",
+                  "category": "museum",
+                  "coords": [
+                        51.419884,
+                        25.310619
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Ein großer Sport- und Erholungspark in Al Rayyan.",
+                  "category": "park",
+                  "coords": [
+                        51.435989,
+                        25.261663
+                  ]
+            },
+            {
+                  "name": "هين",
+                  "text": "Eine Sehenswürdigkeit in Al Rayyan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419778,
+                        25.281639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mathaf: Arab Museum of Modern Art",
+                  "text": "Modern arab művészeti múzeum Al Rayyanban.",
+                  "category": "museum",
+                  "coords": [
+                        51.419884,
+                        25.310619
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Nagy sport- és szabadidőpark Al Rayyanban.",
+                  "category": "park",
+                  "coords": [
+                        51.435989,
+                        25.261663
+                  ]
+            },
+            {
+                  "name": "هين",
+                  "text": "Látnivaló Al Rayyanban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419778,
+                        25.281639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mathaf: Arab Museum of Modern Art",
+                  "text": "Un muzeu de artă arabă modernă în Al Rayyan.",
+                  "category": "museum",
+                  "coords": [
+                        51.419884,
+                        25.310619
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Un parc mare pentru sport și recreere în Al Rayyan.",
+                  "category": "park",
+                  "coords": [
+                        51.435989,
+                        25.261663
+                  ]
+            },
+            {
+                  "name": "هين",
+                  "text": "Un obiectiv turistic în Al Rayyan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419778,
+                        25.281639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mathaf: Arab Museum of Modern Art",
+                  "text": "A museum of modern Arab art in Al Rayyan.",
+                  "category": "museum",
+                  "coords": [
+                        51.419884,
+                        25.310619
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "A large sports and recreation park in Al Rayyan.",
+                  "category": "park",
+                  "coords": [
+                        51.435989,
+                        25.261663
+                  ]
+            },
+            {
+                  "name": "هين",
+                  "text": "An attraction in Al Rayyan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419778,
+                        25.281639
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-RA",
     coords: [51.4244, 25.2919],
@@ -201,7 +318,124 @@ export const poiExtraQatarCitiesV2: POI[] = [
     },
   },
   {
-    id: "qa-al-khor-cities-v2",
+    id: "qa-al-khor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al Khor Mseum",
+                  "text": "Das Al Khor Museum ist ein Museum in Al Khor.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Die Al Khor Archeological Ruins sind eine archäologische Stätte in Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.500363,
+                        25.689595
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "Al Sultan Beach ist ein Strand in Al Khor.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519866,
+                        25.685075
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al Khor museum",
+                  "text": "Az Al Khor múzeum egy múzeum Al Khor városában.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Az Al Khor Archeological Ruins egy régészeti lelőhely Al Khor városában.",
+                  "category": "historical",
+                  "coords": [
+                        51.500363,
+                        25.689595
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "Az Al Sultan Beach egy strand Al Khor városában.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519866,
+                        25.685075
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al Khor museum",
+                  "text": "Muzeul Al Khor este un muzeu din Al Khor.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Al Khor Archeological Ruins este un sit arheologic situat în Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.500363,
+                        25.689595
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "Al Sultan Beach este o plajă situată în Al Khor.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519866,
+                        25.685075
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Khor museum",
+                  "text": "Al Khor museum is a museum located in Al Khor.",
+                  "category": "museum",
+                  "coords": [
+                        51.512945,
+                        25.686758
+                  ]
+            },
+            {
+                  "name": "Al Khor Archeological Ruins",
+                  "text": "Al Khor Archeological Ruins is an archaeological site located in Al Khor.",
+                  "category": "historical",
+                  "coords": [
+                        51.500363,
+                        25.689595
+                  ]
+            },
+            {
+                  "name": "Al Sultan Beach",
+                  "text": "Al Sultan Beach is a beach situated in Al Khor.",
+                  "category": "recreational",
+                  "coords": [
+                        51.519866,
+                        25.685075
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-KH",
     coords: [51.4969, 25.6839],
@@ -405,7 +639,160 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-dukhan-cities-v2",
+    id: "qa-dukhan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fountain with seating place",
+                  "text": "Fountain with seating place ist eine lokale Sehenswürdigkeit in Dukhan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.786004,
+                        25.423779
+                  ]
+            },
+            {
+                  "name": "First production well",
+                  "text": "First production well ist eine Sehenswürdigkeit in Dukhan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.784343,
+                        25.42226
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "Viewing platform ist eine Sehenswürdigkeit in Dukhan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.785029,
+                        25.424201
+                  ]
+            },
+            {
+                  "name": "Dukhan View Point",
+                  "text": "Dukhan View Point ist ein Aussichtspunkt in Dukhan.",
+                  "category": "natural",
+                  "coords": [
+                        50.787291,
+                        25.422606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fountain with seating place",
+                  "text": "A Fountain with seating place egy helyi látványosság Dukhan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.786004,
+                        25.423779
+                  ]
+            },
+            {
+                  "name": "First production well",
+                  "text": "A First production well egy látványosság Dukhan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.784343,
+                        25.42226
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "A Viewing platform egy látványosság Dukhan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        50.785029,
+                        25.424201
+                  ]
+            },
+            {
+                  "name": "Dukhan View Point",
+                  "text": "A Dukhan View Point egy kilátópont Dukhan városában.",
+                  "category": "natural",
+                  "coords": [
+                        50.787291,
+                        25.422606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fountain with seating place",
+                  "text": "Fountain with seating place este o atracție locală în Dukhan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.786004,
+                        25.423779
+                  ]
+            },
+            {
+                  "name": "First production well",
+                  "text": "First production well este o atracție situată în Dukhan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.784343,
+                        25.42226
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "Viewing platform este o atracție situată în Dukhan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.785029,
+                        25.424201
+                  ]
+            },
+            {
+                  "name": "Dukhan View Point",
+                  "text": "Dukhan View Point este un punct de belvedere situat în Dukhan.",
+                  "category": "natural",
+                  "coords": [
+                        50.787291,
+                        25.422606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fountain with seating place",
+                  "text": "Fountain with seating place is a local attraction in Dukhan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.786004,
+                        25.423779
+                  ]
+            },
+            {
+                  "name": "First production well",
+                  "text": "First production well is an attraction located in Dukhan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.784343,
+                        25.42226
+                  ]
+            },
+            {
+                  "name": "Viewing platform",
+                  "text": "Viewing platform is an attraction located in Dukhan.",
+                  "category": "landmark",
+                  "coords": [
+                        50.785029,
+                        25.424201
+                  ]
+            },
+            {
+                  "name": "Dukhan View Point",
+                  "text": "Dukhan View Point is a viewpoint located in Dukhan.",
+                  "category": "natural",
+                  "coords": [
+                        50.787291,
+                        25.422606
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-SH",
     coords: [50.7850, 25.4283],
@@ -541,7 +928,52 @@ export const poiExtraQatarCitiesV2: POI[] = [
     },
   },
   {
-    id: "qa-umm-salal-mohammed-cities-v2",
+    id: "qa-umm-salal-mohammed-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barzan Towers",
+                  "text": "Barzan Towers ist eine bekannte Attraktion in Umm Salal Mohammed.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413188,
+                        25.418085
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barzan Towers",
+                  "text": "A(z) Barzan Towers egy nevezetes látványosság Umm Salal Mohammed területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413188,
+                        25.418085
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barzan Towers",
+                  "text": "Barzan Towers este o atracție notabilă situată în Umm Salal Mohammed.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413188,
+                        25.418085
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barzan Towers",
+                  "text": "Barzan Towers is a notable attraction located in Umm Salal Mohammed.",
+                  "category": "landmark",
+                  "coords": [
+                        51.413188,
+                        25.418085
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-US",
     coords: [51.4056, 25.4111],
@@ -609,7 +1041,52 @@ export const poiExtraQatarCitiesV2: POI[] = [
     },
   },
   {
-    id: "qa-umm-salal-ali-cities-v2",
+    id: "qa-umm-salal-ali-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "شقة أم العمد",
+                  "text": "شقة أم العمد ist ein Aussichtspunkt in der Stadt Umm Salal Ali.",
+                  "category": "natural",
+                  "coords": [
+                        51.403674,
+                        25.483968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "شقة أم العمد",
+                  "text": "A شقة أم العمد egy kilátópont Umm Salal Ali városában.",
+                  "category": "natural",
+                  "coords": [
+                        51.403674,
+                        25.483968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "شقة أم العمد",
+                  "text": "شقة أم العمد este un punct de belvedere situat în orașul Umm Salal Ali.",
+                  "category": "natural",
+                  "coords": [
+                        51.403674,
+                        25.483968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "شقة أم العمد",
+                  "text": "شقة أم العمد is a viewpoint located in the city of Umm Salal Ali.",
+                  "category": "natural",
+                  "coords": [
+                        51.403674,
+                        25.483968
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-US",
     coords: [51.3967, 25.4636],
@@ -949,7 +1426,52 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-al-wukair-cities-v2",
+    id: "qa-al-wukair-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ajub wakhair",
+                  "text": "Ajub wakhair ist eine Attraktion in Al Wukair.",
+                  "category": "landmark",
+                  "coords": [
+                        51.541778,
+                        25.176373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ajub wakhair",
+                  "text": "A(z) Ajub wakhair egy látványosság Al Wukair területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.541778,
+                        25.176373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ajub wakhair",
+                  "text": "Ajub wakhair este o atracție situată în Al Wukair.",
+                  "category": "landmark",
+                  "coords": [
+                        51.541778,
+                        25.176373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ajub wakhair",
+                  "text": "Ajub wakhair is an attraction located in Al Wukair.",
+                  "category": "landmark",
+                  "coords": [
+                        51.541778,
+                        25.176373
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-WA",
     coords: [51.5469, 25.1581],
@@ -1561,7 +2083,52 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-al-zubarah-cities-v2",
+    id: "qa-al-zubarah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "الزبارة",
+                  "text": "Al Zubarah Archaeological Site ist eine bekannte Attraktion in Al Zubarah.",
+                  "category": "landmark",
+                  "coords": [
+                        51.025193,
+                        25.979599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الزبارة",
+                  "text": "A(z) Al Zubarah Archaeological Site egy nevezetes látványosság Al Zubarah területén.",
+                  "category": "landmark",
+                  "coords": [
+                        51.025193,
+                        25.979599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الزبارة",
+                  "text": "Al Zubarah Archaeological Site este o atracție notabilă situată în Al Zubarah.",
+                  "category": "landmark",
+                  "coords": [
+                        51.025193,
+                        25.979599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Zubarah Archaeological Site",
+                  "text": "Al Zubarah Archaeological Site is a notable attraction located in Al Zubarah.",
+                  "category": "landmark",
+                  "coords": [
+                        51.025193,
+                        25.979599
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-MS",
     coords: [51.0456, 25.9769],
@@ -1629,7 +2196,124 @@ export const poiExtraQatarCitiesV2: POI[] = [
     }
   },
   {
-    id: "qa-muaither-cities-v2",
+    id: "qa-muaither-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Doha Zoo",
+                  "text": "Der Doha Zoo ist ein zoologischer Garten in Muaither.",
+                  "category": "recreational",
+                  "coords": [
+                        51.435045,
+                        25.247316
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Der Aspire Park ist ein bekannter Park in Muaither.",
+                  "category": "park",
+                  "coords": [
+                        51.435989,
+                        25.261663
+                  ]
+            },
+            {
+                  "name": "هين",
+                  "text": "هين ist eine lokale Sehenswürdigkeit in der Stadt Muaither.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419778,
+                        25.281639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "حديقة حيوان الدوحة",
+                  "text": "A Doha Zoo egy állatkert Muaither városában.",
+                  "category": "recreational",
+                  "coords": [
+                        51.435045,
+                        25.247316
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Az Aspire Park egy jól ismert park Muaither városában.",
+                  "category": "park",
+                  "coords": [
+                        51.435989,
+                        25.261663
+                  ]
+            },
+            {
+                  "name": "هين",
+                  "text": "A هين egy helyi látványosság Muaither városában.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419778,
+                        25.281639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "حديقة حيوان الدوحة",
+                  "text": "Doha Zoo este un parc zoologic situat în Muaither.",
+                  "category": "recreational",
+                  "coords": [
+                        51.435045,
+                        25.247316
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Aspire Park este un parc binecunoscut situat în Muaither.",
+                  "category": "park",
+                  "coords": [
+                        51.435989,
+                        25.261663
+                  ]
+            },
+            {
+                  "name": "هين",
+                  "text": "هين este o atracție locală aflată în orașul Muaither.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419778,
+                        25.281639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doha Zoo",
+                  "text": "Doha Zoo is a zoological park situated in Muaither.",
+                  "category": "recreational",
+                  "coords": [
+                        51.435045,
+                        25.247316
+                  ]
+            },
+            {
+                  "name": "Aspire Park",
+                  "text": "Aspire Park is a well-known park located in Muaither.",
+                  "category": "park",
+                  "coords": [
+                        51.435989,
+                        25.261663
+                  ]
+            },
+            {
+                  "name": "هين",
+                  "text": "هين is a local attraction found in the city of Muaither.",
+                  "category": "landmark",
+                  "coords": [
+                        51.419778,
+                        25.281639
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "QA-RA",
     coords: [51.4081, 25.2631],

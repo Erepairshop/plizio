@@ -67,7 +67,88 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       fr: ["Altitude d'environ 1 850 mètres.", "Centre de culture du pyrèthre.", "Porte d'entrée du Parc National des Volcans.", "Proximité des lacs jumeaux Burera et Ruhondo.", "S'appelait autrefois Ruhengeri.", "Lieu majeur pour le pistage des gorilles."],
     }, image: "/poi-images/rwanda-musanze-cities-v2.webp"},
   {
-    id: "rwanda-rubavu-cities-v2",
+    id: "rwanda-rubavu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "African Art Gallery",
+                  "text": "Galerie für afrikanische Kunst in Rubavu.",
+                  "category": "museum",
+                  "coords": [
+                        29.261591,
+                        -1.70306
+                  ]
+            },
+            {
+                  "name": "Kivu art gallery",
+                  "text": "Sehenswürdigkeit in Rubavu.",
+                  "category": "landmark",
+                  "coords": [
+                        29.259813,
+                        -1.702236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "African Art Gallery",
+                  "text": "Afrikai művészeti galéria Rubavuban.",
+                  "category": "museum",
+                  "coords": [
+                        29.261591,
+                        -1.70306
+                  ]
+            },
+            {
+                  "name": "Kivu art gallery",
+                  "text": "Látnivaló Rubavuban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.259813,
+                        -1.702236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "African Art Gallery",
+                  "text": "Galerie de artă africană în Rubavu.",
+                  "category": "museum",
+                  "coords": [
+                        29.261591,
+                        -1.70306
+                  ]
+            },
+            {
+                  "name": "Kivu art gallery",
+                  "text": "Atracție în Rubavu.",
+                  "category": "landmark",
+                  "coords": [
+                        29.259813,
+                        -1.702236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "African Art Gallery",
+                  "text": "African art gallery in Rubavu.",
+                  "category": "museum",
+                  "coords": [
+                        29.261591,
+                        -1.70306
+                  ]
+            },
+            {
+                  "name": "Kivu art gallery",
+                  "text": "Attraction in Rubavu.",
+                  "category": "landmark",
+                  "coords": [
+                        29.259813,
+                        -1.702236
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-04",
     coords: [29.2559, -1.7028],
@@ -103,7 +184,268 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     }
   },
   {
-    id: "rwanda-huye-cities-v2",
+    id: "rwanda-huye-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Das Ethnographische Museum ist eine wichtige kulturelle Einrichtung in Huye.",
+                  "category": "museum",
+                  "coords": [
+                        29.745244,
+                        -2.588724
+                  ]
+            },
+            {
+                  "name": "Théâtre Verdure",
+                  "text": "Das Théâtre Verdure ist eine lokale Theaterstätte in Huye.",
+                  "category": "cultural",
+                  "coords": [
+                        29.740818,
+                        -2.598104
+                  ]
+            },
+            {
+                  "name": "Campus Main Auditorium",
+                  "text": "Das Hauptauditorium des Campus fungiert als Theater in Huye.",
+                  "category": "cultural",
+                  "coords": [
+                        29.741907,
+                        -2.617005
+                  ]
+            },
+            {
+                  "name": "Arboretum Office",
+                  "text": "Das Arboretum-Büro ist eine administrative Gebäudeattraktion in Huye.",
+                  "category": "landmark",
+                  "coords": [
+                        29.748243,
+                        -2.615015
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Die Kirche der Siebenten-Tags-Adventisten ist eine religiöse Attraktion in Huye.",
+                  "category": "landmark",
+                  "coords": [
+                        29.738732,
+                        -2.613348
+                  ]
+            },
+            {
+                  "name": "Eglise Ste. Therese",
+                  "text": "Die Eglise Ste. Therese ist eine lokale Kirchenattraktion in Huye.",
+                  "category": "landmark",
+                  "coords": [
+                        29.74435,
+                        -2.592266
+                  ]
+            },
+            {
+                  "name": "Our Lady of Wisdom Cathedral, Butare",
+                  "text": "Die Kathedrale Unserer Lieben Frau der Weisheit ist eine bedeutende katholische Kultstätte, die als Sitz der Diözese in Huye dient.",
+                  "category": "religious",
+                  "coords": [
+                        29.742832,
+                        -2.606926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "A Néprajzi Múzeum egy fontos kulturális intézmény Huye városában.",
+                  "category": "museum",
+                  "coords": [
+                        29.745244,
+                        -2.588724
+                  ]
+            },
+            {
+                  "name": "Théâtre Verdure",
+                  "text": "A Théâtre Verdure egy helyi színház Huye városában.",
+                  "category": "cultural",
+                  "coords": [
+                        29.740818,
+                        -2.598104
+                  ]
+            },
+            {
+                  "name": "Campus Main Auditorium",
+                  "text": "A Campus Fő Auditóriuma színházként működik Huye-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        29.741907,
+                        -2.617005
+                  ]
+            },
+            {
+                  "name": "Arboretum Office",
+                  "text": "Az Arborétum irodája egy adminisztratív épület és látványosság Huye-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.748243,
+                        -2.615015
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "A Hetednapi Adventista Templom egy vallási látványosság Huye-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.738732,
+                        -2.613348
+                  ]
+            },
+            {
+                  "name": "Eglise Ste. Therese",
+                  "text": "Az Eglise Ste. Therese egy helyi templom látványosság Huye-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        29.74435,
+                        -2.592266
+                  ]
+            },
+            {
+                  "name": "Our Lady of Wisdom Cathedral, Butare",
+                  "text": "A Bölcsesség Miasszonyunk székesegyház egy kiemelkedő katolikus imahely, amely a huye-i egyházmegye székhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        29.742832,
+                        -2.606926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Muzeul Etnografic este o instituție culturală importantă din Huye.",
+                  "category": "museum",
+                  "coords": [
+                        29.745244,
+                        -2.588724
+                  ]
+            },
+            {
+                  "name": "Théâtre Verdure",
+                  "text": "Théâtre Verdure este o locație de teatru locală din Huye.",
+                  "category": "cultural",
+                  "coords": [
+                        29.740818,
+                        -2.598104
+                  ]
+            },
+            {
+                  "name": "Campus Main Auditorium",
+                  "text": "Auditoriul Principal al Campusului funcționează ca teatru în Huye.",
+                  "category": "cultural",
+                  "coords": [
+                        29.741907,
+                        -2.617005
+                  ]
+            },
+            {
+                  "name": "Arboretum Office",
+                  "text": "Biroul Parcului Dendrologic este o atracție de clădire administrativă în Huye.",
+                  "category": "landmark",
+                  "coords": [
+                        29.748243,
+                        -2.615015
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "Biserica Adventistă de Ziua a Șaptea este o atracție religioasă din Huye.",
+                  "category": "landmark",
+                  "coords": [
+                        29.738732,
+                        -2.613348
+                  ]
+            },
+            {
+                  "name": "Eglise Ste. Therese",
+                  "text": "Eglise Ste. Therese este o atracție bisericească locală situată în Huye.",
+                  "category": "landmark",
+                  "coords": [
+                        29.74435,
+                        -2.592266
+                  ]
+            },
+            {
+                  "name": "Our Lady of Wisdom Cathedral, Butare",
+                  "text": "Catedrala Maica Domnului a Înțelepciunii este un lăcaș de cult catolic proeminent care servește ca sediu al eparhiei în Huye.",
+                  "category": "religious",
+                  "coords": [
+                        29.742832,
+                        -2.606926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "The Ethnographic Museum is an important cultural institution in Huye.",
+                  "category": "museum",
+                  "coords": [
+                        29.745244,
+                        -2.588724
+                  ]
+            },
+            {
+                  "name": "Théâtre Verdure",
+                  "text": "Théâtre Verdure is a local theatre venue in Huye.",
+                  "category": "cultural",
+                  "coords": [
+                        29.740818,
+                        -2.598104
+                  ]
+            },
+            {
+                  "name": "Campus Main Auditorium",
+                  "text": "The Campus Main Auditorium functions as a theatre in Huye.",
+                  "category": "cultural",
+                  "coords": [
+                        29.741907,
+                        -2.617005
+                  ]
+            },
+            {
+                  "name": "Arboretum Office",
+                  "text": "The Arboretum Office is an administrative building attraction in Huye.",
+                  "category": "landmark",
+                  "coords": [
+                        29.748243,
+                        -2.615015
+                  ]
+            },
+            {
+                  "name": "Seventh Day Adventist Church",
+                  "text": "The Seventh Day Adventist Church is a religious attraction in Huye.",
+                  "category": "landmark",
+                  "coords": [
+                        29.738732,
+                        -2.613348
+                  ]
+            },
+            {
+                  "name": "Eglise Ste. Therese",
+                  "text": "Eglise Ste. Therese is a local church attraction located in Huye.",
+                  "category": "landmark",
+                  "coords": [
+                        29.74435,
+                        -2.592266
+                  ]
+            },
+            {
+                  "name": "Our Lady of Wisdom Cathedral, Butare",
+                  "text": "Our Lady of Wisdom Cathedral is a prominent Catholic place of worship that serves as the seat of the diocese in Huye.",
+                  "category": "religious",
+                  "coords": [
+                        29.742832,
+                        -2.606926
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-02",
     coords: [29.7422, -2.5966],
@@ -283,7 +625,124 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     }
   },
   {
-    id: "rwanda-nyanza-cities-v2",
+    id: "rwanda-nyanza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "King's Palace Museum",
+                  "text": "Museum in Nyanza; ehemaliger königlicher Palast.",
+                  "category": "museum",
+                  "coords": [
+                        29.739358,
+                        -2.360221
+                  ]
+            },
+            {
+                  "name": "Museum of Rwesero (former National Art Gallery)",
+                  "text": "Museum in Nyanza.",
+                  "category": "museum",
+                  "coords": [
+                        29.741115,
+                        -2.36908
+                  ]
+            },
+            {
+                  "name": "Mwina - Mausoleum",
+                  "text": "Sehenswürdigkeit in Nyanza.",
+                  "category": "landmark",
+                  "coords": [
+                        29.735871,
+                        -2.355769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King's Palace Museum",
+                  "text": "Múzeum Nyanzában; egykori királyi palota.",
+                  "category": "museum",
+                  "coords": [
+                        29.739358,
+                        -2.360221
+                  ]
+            },
+            {
+                  "name": "Museum of Rwesero (former National Art Gallery)",
+                  "text": "Múzeum Nyanzában.",
+                  "category": "museum",
+                  "coords": [
+                        29.741115,
+                        -2.36908
+                  ]
+            },
+            {
+                  "name": "Mwina - Mausoleum",
+                  "text": "Látnivaló Nyanzában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.735871,
+                        -2.355769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King's Palace Museum",
+                  "text": "Muzeu în Nyanza; fost palat regal.",
+                  "category": "museum",
+                  "coords": [
+                        29.739358,
+                        -2.360221
+                  ]
+            },
+            {
+                  "name": "Museum of Rwesero (former National Art Gallery)",
+                  "text": "Muzeu în Nyanza.",
+                  "category": "museum",
+                  "coords": [
+                        29.741115,
+                        -2.36908
+                  ]
+            },
+            {
+                  "name": "Mwina - Mausoleum",
+                  "text": "Atracție în Nyanza.",
+                  "category": "landmark",
+                  "coords": [
+                        29.735871,
+                        -2.355769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King's Palace Museum",
+                  "text": "Museum in Nyanza; former royal palace.",
+                  "category": "museum",
+                  "coords": [
+                        29.739358,
+                        -2.360221
+                  ]
+            },
+            {
+                  "name": "Kwigira Museum",
+                  "text": "Museum in Nyanza.",
+                  "category": "museum",
+                  "coords": [
+                        29.741115,
+                        -2.36908
+                  ]
+            },
+            {
+                  "name": "Mwina - Mausoleum",
+                  "text": "Attraction in Nyanza.",
+                  "category": "landmark",
+                  "coords": [
+                        29.735871,
+                        -2.355769
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-02",
     coords: [29.7360, -2.3524],
@@ -319,7 +778,52 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     }
   },
   {
-    id: "rwanda-gicumbi-cities-v2",
+    id: "rwanda-gicumbi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Diocèse de Byumba",
+                  "text": "Die römisch-katholische Diözese Byumba ist eine Kultstätte in Gicumbi.",
+                  "category": "religious",
+                  "coords": [
+                        30.055697,
+                        -1.573172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diocèse de Byumba",
+                  "text": "A Byumbai Római Katolikus Egyházmegye egy imahely Gicumbi városában.",
+                  "category": "religious",
+                  "coords": [
+                        30.055697,
+                        -1.573172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diocèse de Byumba",
+                  "text": "Dieceza Romano-Catolică de Byumba este un lăcaș de cult situat în Gicumbi.",
+                  "category": "religious",
+                  "coords": [
+                        30.055697,
+                        -1.573172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Catholic Diocese of Byumba",
+                  "text": "The Roman Catholic Diocese of Byumba is a place of worship located in Gicumbi.",
+                  "category": "religious",
+                  "coords": [
+                        30.055697,
+                        -1.573172
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-03",
     coords: [30.0664, -1.5768],
@@ -1003,7 +1507,52 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     }
   },
   {
-    id: "rwanda-kicukiro-cities-v2",
+    id: "rwanda-kicukiro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gikondo Expo Ground",
+                  "text": "Das Gikondo Expo Ground ist eine Veranstaltungsstätte in Kicukiro.",
+                  "category": "landmark",
+                  "coords": [
+                        30.086844,
+                        -1.976867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gikondo Expo Ground",
+                  "text": "A Gikondo Expo Ground egy látványosság és rendezvényközpont Kicukiróban.",
+                  "category": "landmark",
+                  "coords": [
+                        30.086844,
+                        -1.976867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gikondo Expo Ground",
+                  "text": "Gikondo Expo Ground este o atracție în Kicukiro.",
+                  "category": "landmark",
+                  "coords": [
+                        30.086844,
+                        -1.976867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gikondo Expo Ground",
+                  "text": "The Gikondo Expo Ground is an attraction and event space in Kicukiro.",
+                  "category": "landmark",
+                  "coords": [
+                        30.086844,
+                        -1.976867
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-01",
     coords: [30.1000, -2.0000],
@@ -1543,7 +2092,88 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "rwanda-kinigi-cities-v2",
+    id: "rwanda-kinigi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+                  "text": "Der Ellen DeGeneres Campus des Dian Fossey Gorilla Fund ist ein Museum in Kinigi.",
+                  "category": "museum",
+                  "coords": [
+                        29.563645,
+                        -1.43081
+                  ]
+            },
+            {
+                  "name": "Art objects",
+                  "text": "Diese Kunstobjekte sind eine lokale Sehenswürdigkeit in Kinigi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.597573,
+                        -1.43139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+                  "text": "A Dian Fossey Gorilla Fund Ellen DeGeneres Kampusza egy múzeum Kinigiben.",
+                  "category": "museum",
+                  "coords": [
+                        29.563645,
+                        -1.43081
+                  ]
+            },
+            {
+                  "name": "Art objects",
+                  "text": "Ezek a művészeti tárgyak helyi látványosságok Kinigiben.",
+                  "category": "landmark",
+                  "coords": [
+                        29.597573,
+                        -1.43139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+                  "text": "Campusul Ellen DeGeneres al Dian Fossey Gorilla Fund este un muzeu din Kinigi.",
+                  "category": "museum",
+                  "coords": [
+                        29.563645,
+                        -1.43081
+                  ]
+            },
+            {
+                  "name": "Art objects",
+                  "text": "Aceste obiecte de artă sunt o atracție locală în Kinigi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.597573,
+                        -1.43139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
+                  "text": "The Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund is a museum in Kinigi.",
+                  "category": "museum",
+                  "coords": [
+                        29.563645,
+                        -1.43081
+                  ]
+            },
+            {
+                  "name": "Art objects",
+                  "text": "These art objects are a local attraction in Kinigi.",
+                  "category": "landmark",
+                  "coords": [
+                        29.597573,
+                        -1.43139
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-03",
     coords: [29.5897, -1.4300],
@@ -1615,7 +2245,88 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     },
   },
   {
-    id: "rwanda-kabgayi-cities-v2",
+    id: "rwanda-kabgayi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Queen Mother's House",
+                  "text": "Die Ruinen des Hauses der Königinmutter sind eine historische Stätte in Kabgayi.",
+                  "category": "historical",
+                  "coords": [
+                        29.747133,
+                        -2.119472
+                  ]
+            },
+            {
+                  "name": "Cathedral Basilica of Our Lady",
+                  "text": "Die Kathedralbasilika Unserer Lieben Frau in Kabgayi ist eine bemerkenswerte Kultstätte und die älteste Kathedrale in Ruanda.",
+                  "category": "religious",
+                  "coords": [
+                        29.751864,
+                        -2.10027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Queen Mother's House",
+                  "text": "Az Anyakirályné Házának romjai egy történelmi helyszín Kabgayi-ban.",
+                  "category": "historical",
+                  "coords": [
+                        29.747133,
+                        -2.119472
+                  ]
+            },
+            {
+                  "name": "Cathedral Basilica of Our Lady",
+                  "text": "A Miasszonyunk Katedrális Bazilika Kabgayi-ban egy jelentős imahely és Ruanda legrégebbi székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        29.751864,
+                        -2.10027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Queen Mother's House",
+                  "text": "Ruinele Casei Reginei Mamă sunt un sit istoric din Kabgayi.",
+                  "category": "historical",
+                  "coords": [
+                        29.747133,
+                        -2.119472
+                  ]
+            },
+            {
+                  "name": "Cathedral Basilica of Our Lady",
+                  "text": "Catedrala Bazilică Maica Domnului din Kabgayi este un lăcaș de cult important și cea mai veche catedrală din Rwanda.",
+                  "category": "religious",
+                  "coords": [
+                        29.751864,
+                        -2.10027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Queen Mother's House",
+                  "text": "The Queen Mother's House ruins are a historical site in Kabgayi.",
+                  "category": "historical",
+                  "coords": [
+                        29.747133,
+                        -2.119472
+                  ]
+            },
+            {
+                  "name": "Cathedral Basilica of Our Lady",
+                  "text": "The Cathedral Basilica of Our Lady in Kabgayi is a notable place of worship and the oldest cathedral in Rwanda.",
+                  "category": "religious",
+                  "coords": [
+                        29.751864,
+                        -2.10027
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RW-02",
     coords: [29.7472, -2.1000],

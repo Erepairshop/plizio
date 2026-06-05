@@ -40,7 +40,160 @@ export const poiExtraMaliCitiesV2: POI[] = [
       en: ["Bamako is the political and administrative capital of Mali.", "The city's population has doubled every 10–15 years since 1960.", "It is located on a key bend of the Niger River.", "The Bamako–Dakar railway was completed in 1924.", "Bamako is the site of the biennial 'Rencontres de Bamako' photography festival.", "The Friendship Bridge (Pont des Martyrs) was the first over the Niger here.", "Mali's National Museum is considered one of the best in West Africa.", "Bamako's name honors the three crocodiles that once lived near its founding site."],
     }, image: "/poi-images/bamako-cities-v2.webp"},
   {
-    id: "sikasso-cities-v2",
+    id: "sikasso-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée régional de Sikasso",
+                  "text": "Das Musée régional de Sikasso ist ein lokales Museum zum Erbe von Sikasso.",
+                  "category": "museum",
+                  "coords": [
+                        -5.68524,
+                        11.31432
+                  ]
+            },
+            {
+                  "name": "Palais Kélétigui",
+                  "text": "Das Palais Kélétigui ist ein Schloss und ein historisches Wahrzeichen in Sikasso.",
+                  "category": "castle",
+                  "coords": [
+                        -5.667363,
+                        11.311339
+                  ]
+            },
+            {
+                  "name": "Le vieux ni",
+                  "text": "Le vieux ni ist eine Sehenswürdigkeit und Attraktion in Sikasso.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.659077,
+                        11.304048
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-Lourdes",
+                  "text": "Die Cathédrale Notre-Dame-de-Lourdes ist eine wichtige katholische Kathedrale in Sikasso.",
+                  "category": "religious",
+                  "coords": [
+                        -5.672963,
+                        11.320004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée régional de Sikasso",
+                  "text": "A Musée régional de Sikasso egy helyi múzeum, amely Sikasso örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -5.68524,
+                        11.31432
+                  ]
+            },
+            {
+                  "name": "Palais Kélétigui",
+                  "text": "A Palais Kélétigui egy kastély és történelmi nevezetesség Sikasso városában.",
+                  "category": "castle",
+                  "coords": [
+                        -5.667363,
+                        11.311339
+                  ]
+            },
+            {
+                  "name": "Le vieux ni",
+                  "text": "A Le vieux ni egy érdekes látványosság Sikasso városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.659077,
+                        11.304048
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-Lourdes",
+                  "text": "A Cathédrale Notre-Dame-de-Lourdes egy fontos katolikus katedrális Sikasso városában.",
+                  "category": "religious",
+                  "coords": [
+                        -5.672963,
+                        11.320004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée régional de Sikasso",
+                  "text": "Musée régional de Sikasso este un muzeu local care prezintă patrimoniul din Sikasso.",
+                  "category": "museum",
+                  "coords": [
+                        -5.68524,
+                        11.31432
+                  ]
+            },
+            {
+                  "name": "Palais Kélétigui",
+                  "text": "Palais Kélétigui este un castel și un reper istoric din Sikasso.",
+                  "category": "castle",
+                  "coords": [
+                        -5.667363,
+                        11.311339
+                  ]
+            },
+            {
+                  "name": "Le vieux ni",
+                  "text": "Le vieux ni este un punct de atracție situat în Sikasso.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.659077,
+                        11.304048
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-Lourdes",
+                  "text": "Cathédrale Notre-Dame-de-Lourdes este o catedrală catolică importantă din Sikasso.",
+                  "category": "religious",
+                  "coords": [
+                        -5.672963,
+                        11.320004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée régional de Sikasso",
+                  "text": "Musée régional de Sikasso is a local museum showcasing the heritage of Sikasso.",
+                  "category": "museum",
+                  "coords": [
+                        -5.68524,
+                        11.31432
+                  ]
+            },
+            {
+                  "name": "Palais Kélétigui",
+                  "text": "Palais Kélétigui is a castle and historic landmark located in Sikasso.",
+                  "category": "castle",
+                  "coords": [
+                        -5.667363,
+                        11.311339
+                  ]
+            },
+            {
+                  "name": "Le vieux ni",
+                  "text": "Le vieux ni is a point of interest and attraction situated in Sikasso.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.659077,
+                        11.304048
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-Lourdes",
+                  "text": "Cathédrale Notre-Dame-de-Lourdes is an important Catholic cathedral located in Sikasso.",
+                  "category": "religious",
+                  "coords": [
+                        -5.672963,
+                        11.320004
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-3",
     coords: [-5.6665, 11.3175],
@@ -83,7 +236,88 @@ export const poiExtraMaliCitiesV2: POI[] = [
       fr: ["Deuxième plus grande ville du Mali", "Construite sous Tiéba Traoré", "Célèbre muraille de défense Tata", "Centre d'exportation de mangues", "Altitude d'environ 400 mètres", "Important marché régional"],
     }, image: "/poi-images/sikasso-cities-v2.webp"},
   {
-    id: "mopti-cities-v2",
+    id: "mopti-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument aux Martyrs de la Nation",
+                  "text": "Denkmal für die Märtyrer der Nation in Mopti.",
+                  "category": "historical",
+                  "coords": [
+                        -4.198176,
+                        14.496819
+                  ]
+            },
+            {
+                  "name": "Mosquée de Komoguel",
+                  "text": "Moschee von Komoguel in Mopti.",
+                  "category": "religious",
+                  "coords": [
+                        -4.196713,
+                        14.493758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument aux Martyrs de la Nation",
+                  "text": "A nemzet mártírjainak emlékműve Moptiban.",
+                  "category": "historical",
+                  "coords": [
+                        -4.198176,
+                        14.496819
+                  ]
+            },
+            {
+                  "name": "Mosquée de Komoguel",
+                  "text": "A komogueli mecset Moptiban.",
+                  "category": "religious",
+                  "coords": [
+                        -4.196713,
+                        14.493758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument aux Martyrs de la Nation",
+                  "text": "Monumentul martirilor națiunii din Mopti.",
+                  "category": "historical",
+                  "coords": [
+                        -4.198176,
+                        14.496819
+                  ]
+            },
+            {
+                  "name": "Mosquée de Komoguel",
+                  "text": "Moscheea din Komoguel în Mopti.",
+                  "category": "religious",
+                  "coords": [
+                        -4.196713,
+                        14.493758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument aux Martyrs de la Nation",
+                  "text": "Monument to the martyrs of the nation in Mopti.",
+                  "category": "historical",
+                  "coords": [
+                        -4.198176,
+                        14.496819
+                  ]
+            },
+            {
+                  "name": "Mosquée de Komoguel",
+                  "text": "Komoguel Mosque in Mopti.",
+                  "category": "religious",
+                  "coords": [
+                        -4.196713,
+                        14.493758
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-5",
     coords: [-4.1829, 14.4843],
@@ -121,7 +355,88 @@ export const poiExtraMaliCitiesV2: POI[] = [
     }
   },
   {
-    id: "koutiala-cities-v2",
+    id: "koutiala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument CMDT",
+                  "text": "Das Monument CMDT ist ein Denkmal in Koutiala.",
+                  "category": "historical",
+                  "coords": [
+                        -5.459888,
+                        12.383274
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "Salle de Spectacle ist ein Kunstzentrum in Koutiala.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.465174,
+                        12.386641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument CMDT",
+                  "text": "A Monument CMDT egy emlékmű Koutiala városában.",
+                  "category": "historical",
+                  "coords": [
+                        -5.459888,
+                        12.383274
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "A Salle de Spectacle egy művészeti központ Koutiala területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.465174,
+                        12.386641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument CMDT",
+                  "text": "Monumentul CMDT este un monument din Koutiala.",
+                  "category": "historical",
+                  "coords": [
+                        -5.459888,
+                        12.383274
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "Salle de Spectacle este un centru de arte în Koutiala.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.465174,
+                        12.386641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument CMDT",
+                  "text": "Monument CMDT is a notable monument located in Koutiala.",
+                  "category": "historical",
+                  "coords": [
+                        -5.459888,
+                        12.383274
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "Salle de Spectacle is an arts centre in Koutiala.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.465174,
+                        12.386641
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-3",
     coords: [-5.4642, 12.3917],
@@ -159,7 +474,196 @@ export const poiExtraMaliCitiesV2: POI[] = [
     }
   },
   {
-    id: "kayes-cities-v2",
+    id: "kayes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
+                  "text": "Die Ancienne Salle Massa Makan Diabaté De Kayes ist ein altes Theater in Kayes.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.43866,
+                        14.436166
+                  ]
+            },
+            {
+                  "name": "salle Massa Makan Diabaté",
+                  "text": "Die salle Massa Makan Diabaté dient als Theaterraum in der Stadt Kayes.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.461562,
+                        14.453008
+                  ]
+            },
+            {
+                  "name": "Stade Bassi Coulibaly",
+                  "text": "Das Stade Bassi Coulibaly ist ein lokaler Freizeitpark in der Stadt Kayes.",
+                  "category": "recreational",
+                  "coords": [
+                        -11.429161,
+                        14.446633
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Das Monument des Martyrs ist ein Denkmal in Kayes.",
+                  "category": "historical",
+                  "coords": [
+                        -11.43625,
+                        14.445252
+                  ]
+            },
+            {
+                  "name": "Monument du Buffle",
+                  "text": "Das Monument du Buffle ist ein öffentliches Denkmal in der Stadt Kayes.",
+                  "category": "historical",
+                  "coords": [
+                        -11.433377,
+                        14.44911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
+                  "text": "Az Ancienne Salle Massa Makan Diabaté De Kayes egy régi színház Kayes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.43866,
+                        14.436166
+                  ]
+            },
+            {
+                  "name": "salle Massa Makan Diabaté",
+                  "text": "A salle Massa Makan Diabaté színházi térként működik Kayes városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.461562,
+                        14.453008
+                  ]
+            },
+            {
+                  "name": "Stade Bassi Coulibaly",
+                  "text": "A Stade Bassi Coulibaly egy helyi vidámpark Kayes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -11.429161,
+                        14.446633
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "A Monument des Martyrs egy emlékmű Kayes városában.",
+                  "category": "historical",
+                  "coords": [
+                        -11.43625,
+                        14.445252
+                  ]
+            },
+            {
+                  "name": "Monument du Buffle",
+                  "text": "A Monument du Buffle egy köztéri emlékmű Kayes városában.",
+                  "category": "historical",
+                  "coords": [
+                        -11.433377,
+                        14.44911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
+                  "text": "Ancienne Salle Massa Makan Diabaté De Kayes este un vechi teatru situat în Kayes.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.43866,
+                        14.436166
+                  ]
+            },
+            {
+                  "name": "salle Massa Makan Diabaté",
+                  "text": "salle Massa Makan Diabaté funcționează ca un spațiu de teatru în orașul Kayes.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.461562,
+                        14.453008
+                  ]
+            },
+            {
+                  "name": "Stade Bassi Coulibaly",
+                  "text": "Stade Bassi Coulibaly este un parc de distracții local situat în orașul Kayes.",
+                  "category": "recreational",
+                  "coords": [
+                        -11.429161,
+                        14.446633
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Monument des Martyrs este un monument comemorativ situat în Kayes.",
+                  "category": "historical",
+                  "coords": [
+                        -11.43625,
+                        14.445252
+                  ]
+            },
+            {
+                  "name": "Monument du Buffle",
+                  "text": "Monument du Buffle este un monument public situat în orașul Kayes.",
+                  "category": "historical",
+                  "coords": [
+                        -11.433377,
+                        14.44911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
+                  "text": "Ancienne Salle Massa Makan Diabaté De Kayes is an old theatre venue located in Kayes.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.43866,
+                        14.436166
+                  ]
+            },
+            {
+                  "name": "salle Massa Makan Diabaté",
+                  "text": "salle Massa Makan Diabaté operates as a theatre space in the city of Kayes.",
+                  "category": "cultural",
+                  "coords": [
+                        -11.461562,
+                        14.453008
+                  ]
+            },
+            {
+                  "name": "Stade Bassi Coulibaly",
+                  "text": "The Stade Bassi Coulibaly is a local theme park located in the city of Kayes.",
+                  "category": "recreational",
+                  "coords": [
+                        -11.429161,
+                        14.446633
+                  ]
+            },
+            {
+                  "name": "Monument des Martyrs",
+                  "text": "Monument des Martyrs is a memorial monument situated in Kayes.",
+                  "category": "historical",
+                  "coords": [
+                        -11.43625,
+                        14.445252
+                  ]
+            },
+            {
+                  "name": "Monument du Buffle",
+                  "text": "Monument du Buffle is a public monument located in the city of Kayes.",
+                  "category": "historical",
+                  "coords": [
+                        -11.433377,
+                        14.44911
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-1",
     coords: [-11.4446, 14.4392],
@@ -200,7 +704,52 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "segou-cities-v2",
+    id: "segou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
+                  "text": "Regionalmuseum für Masken und Marionetten in Ségou.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277547,
+                        13.437165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
+                  "text": "Regionális maszk- és bábmúzeum Ségouban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277547,
+                        13.437165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
+                  "text": "Muzeul regional al măștilor și marionetelor din Ségou.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277547,
+                        13.437165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
+                  "text": "Regional museum of masks and puppets in Ségou.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277547,
+                        13.437165
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-4",
     coords: [-6.2792, 13.4411],
@@ -282,7 +831,52 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "niono-cities-v2",
+    id: "niono-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espace Culturel",
+                  "text": "Espace Culturel ist ein Kunstzentrum, das der Gemeinde Niono dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.992623,
+                        14.251648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espace Culturel",
+                  "text": "Az Espace Culturel egy művészeti központ Niono közösségében.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.992623,
+                        14.251648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espace Culturel",
+                  "text": "Espace Culturel este un centru de artă care deservește comunitatea din Niono.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.992623,
+                        14.251648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espace Culturel",
+                  "text": "Espace Culturel is an arts centre serving the community of Niono.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.992623,
+                        14.251648
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-4",
     coords: [-5.9930, 14.2526],
@@ -323,7 +917,52 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "markala-cities-v2",
+    id: "markala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djegueba",
+                  "text": "Djegueba-Denkmal in Markala.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072537,
+                        13.676922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djegueba",
+                  "text": "Djegueba emlékmű Markalában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072537,
+                        13.676922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djegueba",
+                  "text": "Monumentul Djegueba din Markala.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072537,
+                        13.676922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djegueba",
+                  "text": "Djegueba monument in Markala.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072537,
+                        13.676922
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-4",
     coords: [-6.0659, 13.6846],
@@ -405,7 +1044,124 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "kati-cities-v2",
+    id: "kati-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument du cinquanntenaire",
+                  "text": "Das Monument du cinquanntenaire ist ein Denkmal in Kati.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06853,
+                        12.741059
+                  ]
+            },
+            {
+                  "name": "Jumelage Puteaux-Kati",
+                  "text": "Jumelage Puteaux-Kati ist ein Denkmal in Kati zur Feier der Städtepartnerschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06921,
+                        12.748705
+                  ]
+            },
+            {
+                  "name": "Kati 5",
+                  "text": "Kati 5 ist ein malerischer Aussichtspunkt mit Blick auf die Stadt Kati.",
+                  "category": "natural",
+                  "coords": [
+                        -8.048671,
+                        12.749131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument du cinquanntenaire",
+                  "text": "A Monument du cinquanntenaire egy emlékmű Kati városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06853,
+                        12.741059
+                  ]
+            },
+            {
+                  "name": "Jumelage Puteaux-Kati",
+                  "text": "A Jumelage Puteaux-Kati egy testvérvárosi kapcsolatot ünneplő emlékmű Kati városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06921,
+                        12.748705
+                  ]
+            },
+            {
+                  "name": "Kati 5",
+                  "text": "A Kati 5 egy festői kilátó, amely kilátást nyújt Kati városára.",
+                  "category": "natural",
+                  "coords": [
+                        -8.048671,
+                        12.749131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument du cinquanntenaire",
+                  "text": "Monument du cinquanntenaire este un monument notabil situat în Kati.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06853,
+                        12.741059
+                  ]
+            },
+            {
+                  "name": "Jumelage Puteaux-Kati",
+                  "text": "Jumelage Puteaux-Kati este un monument din Kati care celebrează înfrățirea orașelor.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06921,
+                        12.748705
+                  ]
+            },
+            {
+                  "name": "Kati 5",
+                  "text": "Kati 5 este un punct de belvedere panoramic care oferă priveliști asupra orașului Kati.",
+                  "category": "natural",
+                  "coords": [
+                        -8.048671,
+                        12.749131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument du cinquanntenaire",
+                  "text": "Monument du cinquanntenaire is a notable monument located in Kati.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06853,
+                        12.741059
+                  ]
+            },
+            {
+                  "name": "Jumelage Puteaux-Kati",
+                  "text": "Jumelage Puteaux-Kati is a monument in Kati celebrating town twinning.",
+                  "category": "historical",
+                  "coords": [
+                        -8.06921,
+                        12.748705
+                  ]
+            },
+            {
+                  "name": "Kati 5",
+                  "text": "Kati 5 is a scenic viewpoint offering views over the city of Kati.",
+                  "category": "natural",
+                  "coords": [
+                        -8.048671,
+                        12.749131
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-2",
     coords: [-8.0725, 12.7440],
@@ -446,7 +1202,124 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "gao-cities-v2",
+    id: "gao-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nouveau Musée du Sahel",
+                  "text": "Neues Sahel-Museum in Gao.",
+                  "category": "museum",
+                  "coords": [
+                        -0.044321,
+                        16.282624
+                  ]
+            },
+            {
+                  "name": "Maison des Arts",
+                  "text": "Kunsthaus in Gao.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.043765,
+                        16.281354
+                  ]
+            },
+            {
+                  "name": "Tombeau des Askia",
+                  "text": "Das Grab von Askia in Gao gehört zum UNESCO-Welterbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.044492,
+                        16.289511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nouveau Musée du Sahel",
+                  "text": "Új Száhel-múzeum Gaóban.",
+                  "category": "museum",
+                  "coords": [
+                        -0.044321,
+                        16.282624
+                  ]
+            },
+            {
+                  "name": "Maison des Arts",
+                  "text": "Művészeti ház Gaóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.043765,
+                        16.281354
+                  ]
+            },
+            {
+                  "name": "Tombeau des Askia",
+                  "text": "Az askia sírja Gaóban UNESCO világörökségi helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.044492,
+                        16.289511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nouveau Musée du Sahel",
+                  "text": "Noul Muzeu al Sahelului din Gao.",
+                  "category": "museum",
+                  "coords": [
+                        -0.044321,
+                        16.282624
+                  ]
+            },
+            {
+                  "name": "Maison des Arts",
+                  "text": "Casa Artelor din Gao.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.043765,
+                        16.281354
+                  ]
+            },
+            {
+                  "name": "Tombeau des Askia",
+                  "text": "Mormântul lui Askia din Gao face parte din patrimoniul mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.044492,
+                        16.289511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nouveau Musée du Sahel",
+                  "text": "New Sahel Museum in Gao.",
+                  "category": "museum",
+                  "coords": [
+                        -0.044321,
+                        16.282624
+                  ]
+            },
+            {
+                  "name": "Maison des Arts",
+                  "text": "Arts centre in Gao.",
+                  "category": "cultural",
+                  "coords": [
+                        -0.043765,
+                        16.281354
+                  ]
+            },
+            {
+                  "name": "Tomb of Askia Unesco world heritage site",
+                  "text": "The Tomb of Askia in Gao is a UNESCO world heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.044492,
+                        16.289511
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-7",
     coords: [-0.0447, 16.2717],
@@ -487,7 +1360,52 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "bougouni-cities-v2",
+    id: "bougouni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel Siraba TOGOLA",
+                  "text": "Das Centre Culturel Siraba TOGOLA ist ein Kulturzentrum in Bougouni.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.48455,
+                        11.421704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel Siraba TOGOLA",
+                  "text": "A Centre Culturel Siraba TOGOLA egy kulturális központ Bougouni városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.48455,
+                        11.421704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel Siraba TOGOLA",
+                  "text": "Centrul Cultural Siraba TOGOLA este un centru de artă în Bougouni.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.48455,
+                        11.421704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel Siraba TOGOLA",
+                  "text": "Centre Culturel Siraba TOGOLA is an arts centre situated in Bougouni.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.48455,
+                        11.421704
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-3",
     coords: [-7.4832, 11.4176],
@@ -692,7 +1610,52 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "kidal-cities-v2",
+    id: "kidal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fortin",
+                  "text": "Fortin-Burg in Kidal.",
+                  "category": "castle",
+                  "coords": [
+                        1.403823,
+                        18.438048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortin",
+                  "text": "Fortin vár Kidalban.",
+                  "category": "castle",
+                  "coords": [
+                        1.403823,
+                        18.438048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortin",
+                  "text": "Castelul Fortin din Kidal.",
+                  "category": "castle",
+                  "coords": [
+                        1.403823,
+                        18.438048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortin",
+                  "text": "Fortin castle in Kidal.",
+                  "category": "castle",
+                  "coords": [
+                        1.403823,
+                        18.438048
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-8",
     coords: [1.4078, 18.4411],
@@ -815,7 +1778,124 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "bandiagara-cities-v2",
+    id: "bandiagara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument Toguna",
+                  "text": "Toguna-Denkmal in Bandiagara.",
+                  "category": "historical",
+                  "coords": [
+                        -3.615213,
+                        14.351242
+                  ]
+            },
+            {
+                  "name": "Palais d'Aguibe Tall",
+                  "text": "Denkmal des Palais d'Aguibe Tall in Bandiagara.",
+                  "category": "historical",
+                  "coords": [
+                        -3.611036,
+                        14.35036
+                  ]
+            },
+            {
+                  "name": "Centre de loisir de Bandiagara",
+                  "text": "Freizeitzentrum in Bandiagara.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.605705,
+                        14.349756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument Toguna",
+                  "text": "Toguna emlékmű Bandiagarában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.615213,
+                        14.351242
+                  ]
+            },
+            {
+                  "name": "Palais d'Aguibe Tall",
+                  "text": "A Palais d'Aguibe Tall emlékmű Bandiagarában.",
+                  "category": "historical",
+                  "coords": [
+                        -3.611036,
+                        14.35036
+                  ]
+            },
+            {
+                  "name": "Centre de loisir de Bandiagara",
+                  "text": "Szabadidőközpont Bandiagarában.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.605705,
+                        14.349756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument Toguna",
+                  "text": "Monumentul Toguna din Bandiagara.",
+                  "category": "historical",
+                  "coords": [
+                        -3.615213,
+                        14.351242
+                  ]
+            },
+            {
+                  "name": "Palais d'Aguibe Tall",
+                  "text": "Monumentul Palais d'Aguibe Tall din Bandiagara.",
+                  "category": "historical",
+                  "coords": [
+                        -3.611036,
+                        14.35036
+                  ]
+            },
+            {
+                  "name": "Centre de loisir de Bandiagara",
+                  "text": "Centru de agrement în Bandiagara.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.605705,
+                        14.349756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument Toguna",
+                  "text": "Toguna monument in Bandiagara.",
+                  "category": "historical",
+                  "coords": [
+                        -3.615213,
+                        14.351242
+                  ]
+            },
+            {
+                  "name": "Palais d'Aguibe Tall",
+                  "text": "Palais d'Aguibe Tall monument in Bandiagara.",
+                  "category": "historical",
+                  "coords": [
+                        -3.611036,
+                        14.35036
+                  ]
+            },
+            {
+                  "name": "Centre de loisir de Bandiagara",
+                  "text": "Leisure centre in Bandiagara.",
+                  "category": "cultural",
+                  "coords": [
+                        -3.605705,
+                        14.349756
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-5",
     coords: [-3.6103, 14.3500],
@@ -897,7 +1977,52 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "kita-cities-v2",
+    id: "kita-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moulin",
+                  "text": "Moulin ist eine traditionelle Windmühle in der Stadt Kita.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.478994,
+                        13.033705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moulin",
+                  "text": "A Moulin egy hagyományos szélmalom Kita városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.478994,
+                        13.033705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moulin",
+                  "text": "Moulin este o moară de vânt tradițională situată în orașul Kita.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.478994,
+                        13.033705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moulin",
+                  "text": "Moulin is a traditional windmill situated in the town of Kita.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.478994,
+                        13.033705
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-1",
     coords: [-9.4895, 13.0349],
@@ -1102,7 +2227,88 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "kangaba-cities-v2",
+    id: "kangaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cite Touristique Kouroukan Fuga",
+                  "text": "Die Cite Touristique Kouroukan Fuga ist eine touristische Attraktion in Kangaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.406912,
+                        11.958094
+                  ]
+            },
+            {
+                  "name": "Fara Dje",
+                  "text": "Fara Dje ist eine Attraktion in Kangaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.416457,
+                        11.937556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cite Touristique Kouroukan Fuga",
+                  "text": "A Cite Touristique Kouroukan Fuga egy látványosság Kangaba területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.406912,
+                        11.958094
+                  ]
+            },
+            {
+                  "name": "Fara Dje",
+                  "text": "A Fara Dje egy látnivaló Kangaba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.416457,
+                        11.937556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cite Touristique Kouroukan Fuga",
+                  "text": "Cite Touristique Kouroukan Fuga este o atracție turistică în Kangaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.406912,
+                        11.958094
+                  ]
+            },
+            {
+                  "name": "Fara Dje",
+                  "text": "Fara Dje este o atracție din Kangaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.416457,
+                        11.937556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cite Touristique Kouroukan Fuga",
+                  "text": "Cite Touristique Kouroukan Fuga is a tourist attraction in Kangaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.406912,
+                        11.958094
+                  ]
+            },
+            {
+                  "name": "Fara Dje",
+                  "text": "Fara Dje is an attraction located in Kangaba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.416457,
+                        11.937556
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-2",
     coords: [-8.4166, 11.9333],
@@ -1471,7 +2677,88 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "douentza-cities-v2",
+    id: "douentza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fomburi Dogon Museum",
+                  "text": "Das Fomburi Dogon Museum ist ein Museum in Douentza.",
+                  "category": "museum",
+                  "coords": [
+                        -2.940417,
+                        14.978055
+                  ]
+            },
+            {
+                  "name": "Radio rural Duwansa",
+                  "text": "Radio rural Duwansa dient als Aussichtspunkt in Douentza.",
+                  "category": "natural",
+                  "coords": [
+                        -2.94809,
+                        15.007982
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fomburi Dogon Museum",
+                  "text": "A Fomburi Dogon Múzeum egy múzeum Douentza városában.",
+                  "category": "museum",
+                  "coords": [
+                        -2.940417,
+                        14.978055
+                  ]
+            },
+            {
+                  "name": "Radio rural Duwansa",
+                  "text": "A Radio rural Duwansa kilátóként is funkcionál Douentza területén.",
+                  "category": "natural",
+                  "coords": [
+                        -2.94809,
+                        15.007982
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fomburi Dogon Museum",
+                  "text": "Muzeul Fomburi Dogon este un muzeu din Douentza.",
+                  "category": "museum",
+                  "coords": [
+                        -2.940417,
+                        14.978055
+                  ]
+            },
+            {
+                  "name": "Radio rural Duwansa",
+                  "text": "Radio rural Duwansa servește drept punct de belvedere în Douentza.",
+                  "category": "natural",
+                  "coords": [
+                        -2.94809,
+                        15.007982
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fomburi Dogon Museum",
+                  "text": "The Fomburi Dogon Museum is a museum situated in Douentza.",
+                  "category": "museum",
+                  "coords": [
+                        -2.940417,
+                        14.978055
+                  ]
+            },
+            {
+                  "name": "Radio rural Duwansa",
+                  "text": "Radio rural Duwansa serves as a viewpoint in Douentza.",
+                  "category": "natural",
+                  "coords": [
+                        -2.94809,
+                        15.007982
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-5",
     coords: [-2.9500, 14.9950],
@@ -1594,7 +2881,52 @@ export const poiExtraMaliCitiesV2: POI[] = [
     },
   },
   {
-    id: "niafunke-cities-v2",
+    id: "niafunke-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Ali Farka Toure",
+                  "text": "Das Musée Ali Farka Toure ist ein Museum in Niafunké.",
+                  "category": "museum",
+                  "coords": [
+                        -3.969651,
+                        15.943463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Ali Farka Toure",
+                  "text": "A Musée Ali Farka Toure egy múzeum Niafunké városában.",
+                  "category": "museum",
+                  "coords": [
+                        -3.969651,
+                        15.943463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Ali Farka Toure",
+                  "text": "Muzeul Ali Farka Toure este un muzeu din Niafunké.",
+                  "category": "museum",
+                  "coords": [
+                        -3.969651,
+                        15.943463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Ali Farka Toure",
+                  "text": "Musée Ali Farka Toure is a museum located in Niafunké.",
+                  "category": "museum",
+                  "coords": [
+                        -3.969651,
+                        15.943463
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ML-6",
     coords: [-3.9906, 15.9322],

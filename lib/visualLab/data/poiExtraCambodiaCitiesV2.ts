@@ -40,7 +40,736 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       en: ["Founded in 1434 and became the permanent capital in 1866.", "The name 'Phnom Penh' means 'Penh's Hill'.", "Located at the confluence of the Mekong and Tonle Sap rivers.", "The Royal Palace was inaugurated in 1870.", "The city’s population was recorded at 2.1 million in the 2019 census.", "Home to the largest collection of Khmer art at the National Museum.", "The French colonial era lasted from 1863 to 1953.", "Phsar Thmei market is one of the ten largest domes in the world."],
     }, image: "/poi-images/cambodia-phnom-penh-cities-v2.webp"},
   {
-    id: "cambodia-battambang-cities-v2",
+    id: "cambodia-battambang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Steung Sankae Theater Hall",
+                  "text": "Theater in Battambang.",
+                  "category": "cultural",
+                  "coords": [
+                        103.199043,
+                        13.108545
+                  ]
+            },
+            {
+                  "name": "Battambang Circus Phare Ponleuk Selpak",
+                  "text": "Zirkus- und Theaterstandort in Battambang.",
+                  "category": "cultural",
+                  "coords": [
+                        103.185344,
+                        13.111466
+                  ]
+            },
+            {
+                  "name": "KC Heritage Gallery",
+                  "text": "Museum für lokales Erbe in Battambang.",
+                  "category": "museum",
+                  "coords": [
+                        103.197966,
+                        13.10099
+                  ]
+            },
+            {
+                  "name": "Battambang Museum",
+                  "text": "Museum mit regionalen Exponaten in Battambang.",
+                  "category": "museum",
+                  "coords": [
+                        103.198108,
+                        13.094855
+                  ]
+            },
+            {
+                  "name": "Wat Damrey Sar",
+                  "text": "Tempelanlage in Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.197152,
+                        13.094962
+                  ]
+            },
+            {
+                  "name": "Tep Kao Sol",
+                  "text": "Kunstgalerie in Battambang.",
+                  "category": "museum",
+                  "coords": [
+                        103.198404,
+                        13.099575
+                  ]
+            },
+            {
+                  "name": "Ta Dumbong Statue - តាដំបងក្រញូង",
+                  "text": "Denkmal in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.208499,
+                        13.090637
+                  ]
+            },
+            {
+                  "name": "Crocodile Farm",
+                  "text": "Krokodilfarm in Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.207782,
+                        13.11916
+                  ]
+            },
+            {
+                  "name": "Boules ground",
+                  "text": "Bouleplatz in Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.196072,
+                        13.103276
+                  ]
+            },
+            {
+                  "name": "ព្រះគណេស",
+                  "text": "Ganesh-Statue in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.200553,
+                        13.105386
+                  ]
+            },
+            {
+                  "name": "រង្វង់​មូល​យាយទេព",
+                  "text": "Denkmal am Kreisverkehr in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.173263,
+                        13.105797
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលអប្សារា",
+                  "text": "Apsara-Denkmal in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.199636,
+                        13.107407
+                  ]
+            },
+            {
+                  "name": "រង្វង់​មូល​នាងរំសាយសក់",
+                  "text": "Denkmal in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.179779,
+                        13.076076
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលសេះស",
+                  "text": "Denkmal in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.198537,
+                        13.107591
+                  ]
+            },
+            {
+                  "name": "Brick kilns",
+                  "text": "Historische Ziegelbrennereien in Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.188934,
+                        13.087275
+                  ]
+            },
+            {
+                  "name": "ផ្សាណាត់",
+                  "text": "Marktplatz in Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.198483,
+                        13.10212
+                  ]
+            },
+            {
+                  "name": "Wat Bovil",
+                  "text": "Tempel in Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.203731,
+                        13.101374
+                  ]
+            },
+            {
+                  "name": "វត្តពិភិទ្ធារាម",
+                  "text": "Tempel in Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.198505,
+                        13.104387
+                  ]
+            },
+            {
+                  "name": "Wat Kandal",
+                  "text": "Tempel in Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.202055,
+                        13.097681
+                  ]
+            },
+            {
+                  "name": "Wat Sangker",
+                  "text": "Tempel in Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.201535,
+                        13.092905
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Steung Sankae Theater Hall",
+                  "text": "Színház Battambangban.",
+                  "category": "cultural",
+                  "coords": [
+                        103.199043,
+                        13.108545
+                  ]
+            },
+            {
+                  "name": "Battambang Circus Phare Ponleuk Selpak",
+                  "text": "Cirkusz és színházi helyszín Battambangban.",
+                  "category": "cultural",
+                  "coords": [
+                        103.185344,
+                        13.111466
+                  ]
+            },
+            {
+                  "name": "KC Heritage Gallery",
+                  "text": "Helyi örökségi múzeum Battambangban.",
+                  "category": "museum",
+                  "coords": [
+                        103.197966,
+                        13.10099
+                  ]
+            },
+            {
+                  "name": "Battambang Museum",
+                  "text": "Múzeum regionális kiállítási tárgyakkal Battambangban.",
+                  "category": "museum",
+                  "coords": [
+                        103.198108,
+                        13.094855
+                  ]
+            },
+            {
+                  "name": "Wat Damrey Sar",
+                  "text": "Templomegyüttes Battambangban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.197152,
+                        13.094962
+                  ]
+            },
+            {
+                  "name": "Tep Kao Sol",
+                  "text": "Művészeti galéria Battambangban.",
+                  "category": "museum",
+                  "coords": [
+                        103.198404,
+                        13.099575
+                  ]
+            },
+            {
+                  "name": "Ta Dumbong Statue - តាដំបងក្រញូង",
+                  "text": "Emlékmű Battambangban.",
+                  "category": "historical",
+                  "coords": [
+                        103.208499,
+                        13.090637
+                  ]
+            },
+            {
+                  "name": "Crocodile Farm",
+                  "text": "Krokodilfarm Battambangban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.207782,
+                        13.11916
+                  ]
+            },
+            {
+                  "name": "Boules ground",
+                  "text": "Pétanque-pálya Battambangban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.196072,
+                        13.103276
+                  ]
+            },
+            {
+                  "name": "ព្រះគណេស",
+                  "text": "Ganesa-szobor Battambangban.",
+                  "category": "historical",
+                  "coords": [
+                        103.200553,
+                        13.105386
+                  ]
+            },
+            {
+                  "name": "រង្វង់​មូល​យាយទេព",
+                  "text": "Emlékmű egy körforgalomban Battambangban.",
+                  "category": "historical",
+                  "coords": [
+                        103.173263,
+                        13.105797
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលអប្សារា",
+                  "text": "Apszara-emlékmű Battambangban.",
+                  "category": "historical",
+                  "coords": [
+                        103.199636,
+                        13.107407
+                  ]
+            },
+            {
+                  "name": "រង្វង់​មូល​នាងរំសាយសក់",
+                  "text": "Emlékmű Battambangban.",
+                  "category": "historical",
+                  "coords": [
+                        103.179779,
+                        13.076076
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលសេះស",
+                  "text": "Emlékmű Battambangban.",
+                  "category": "historical",
+                  "coords": [
+                        103.198537,
+                        13.107591
+                  ]
+            },
+            {
+                  "name": "Brick kilns",
+                  "text": "Történelmi téglagyárak Battambangban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.188934,
+                        13.087275
+                  ]
+            },
+            {
+                  "name": "ផ្សាណាត់",
+                  "text": "Piactér Battambangban.",
+                  "category": "landmark",
+                  "coords": [
+                        103.198483,
+                        13.10212
+                  ]
+            },
+            {
+                  "name": "Wat Bovil",
+                  "text": "Templom Battambangban.",
+                  "category": "religious",
+                  "coords": [
+                        103.203731,
+                        13.101374
+                  ]
+            },
+            {
+                  "name": "វត្តពិភិទ្ធារាម",
+                  "text": "Templom Battambangban.",
+                  "category": "religious",
+                  "coords": [
+                        103.198505,
+                        13.104387
+                  ]
+            },
+            {
+                  "name": "Wat Kandal",
+                  "text": "Templom Battambangban.",
+                  "category": "religious",
+                  "coords": [
+                        103.202055,
+                        13.097681
+                  ]
+            },
+            {
+                  "name": "Wat Sangker",
+                  "text": "Templom Battambangban.",
+                  "category": "religious",
+                  "coords": [
+                        103.201535,
+                        13.092905
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Steung Sankae Theater Hall",
+                  "text": "Teatru în Battambang.",
+                  "category": "cultural",
+                  "coords": [
+                        103.199043,
+                        13.108545
+                  ]
+            },
+            {
+                  "name": "Battambang Circus Phare Ponleuk Selpak",
+                  "text": "Locație de circ și teatru în Battambang.",
+                  "category": "cultural",
+                  "coords": [
+                        103.185344,
+                        13.111466
+                  ]
+            },
+            {
+                  "name": "KC Heritage Gallery",
+                  "text": "Muzeul patrimoniului local în Battambang.",
+                  "category": "museum",
+                  "coords": [
+                        103.197966,
+                        13.10099
+                  ]
+            },
+            {
+                  "name": "Battambang Museum",
+                  "text": "Muzeu cu exponate regionale în Battambang.",
+                  "category": "museum",
+                  "coords": [
+                        103.198108,
+                        13.094855
+                  ]
+            },
+            {
+                  "name": "Wat Damrey Sar",
+                  "text": "Complex de temple în Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.197152,
+                        13.094962
+                  ]
+            },
+            {
+                  "name": "Tep Kao Sol",
+                  "text": "Galerie de artă în Battambang.",
+                  "category": "museum",
+                  "coords": [
+                        103.198404,
+                        13.099575
+                  ]
+            },
+            {
+                  "name": "Ta Dumbong Statue - តាដំបងក្រញូង",
+                  "text": "Monument în Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.208499,
+                        13.090637
+                  ]
+            },
+            {
+                  "name": "Crocodile Farm",
+                  "text": "Fermă de crocodili în Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.207782,
+                        13.11916
+                  ]
+            },
+            {
+                  "name": "Boules ground",
+                  "text": "Teren de pétanque în Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.196072,
+                        13.103276
+                  ]
+            },
+            {
+                  "name": "ព្រះគណេស",
+                  "text": "Statuie Ganesha în Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.200553,
+                        13.105386
+                  ]
+            },
+            {
+                  "name": "រង្វង់​មូល​យាយទេព",
+                  "text": "Monument într-un sens giratoriu în Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.173263,
+                        13.105797
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលអប្សារា",
+                  "text": "Monument Apsara în Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.199636,
+                        13.107407
+                  ]
+            },
+            {
+                  "name": "រង្វង់​មូល​នាងរំសាយសក់",
+                  "text": "Monument în Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.179779,
+                        13.076076
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលសេះស",
+                  "text": "Monument în Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.198537,
+                        13.107591
+                  ]
+            },
+            {
+                  "name": "Brick kilns",
+                  "text": "Cuptoare de cărămidă istorice în Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.188934,
+                        13.087275
+                  ]
+            },
+            {
+                  "name": "ផ្សាណាត់",
+                  "text": "Piață în Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.198483,
+                        13.10212
+                  ]
+            },
+            {
+                  "name": "Wat Bovil",
+                  "text": "Templu în Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.203731,
+                        13.101374
+                  ]
+            },
+            {
+                  "name": "វត្តពិភិទ្ធារាម",
+                  "text": "Templu în Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.198505,
+                        13.104387
+                  ]
+            },
+            {
+                  "name": "Wat Kandal",
+                  "text": "Templu în Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.202055,
+                        13.097681
+                  ]
+            },
+            {
+                  "name": "Wat Sangker",
+                  "text": "Templu în Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.201535,
+                        13.092905
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Steung Sankae Theater Hall",
+                  "text": "Theater in Battambang.",
+                  "category": "cultural",
+                  "coords": [
+                        103.199043,
+                        13.108545
+                  ]
+            },
+            {
+                  "name": "Battambang Circus Phare Ponleuk Selpak",
+                  "text": "Circus and theater venue in Battambang.",
+                  "category": "cultural",
+                  "coords": [
+                        103.185344,
+                        13.111466
+                  ]
+            },
+            {
+                  "name": "KC Heritage Gallery",
+                  "text": "Local heritage museum in Battambang.",
+                  "category": "museum",
+                  "coords": [
+                        103.197966,
+                        13.10099
+                  ]
+            },
+            {
+                  "name": "Battambang Museum",
+                  "text": "Museum with regional exhibits in Battambang.",
+                  "category": "museum",
+                  "coords": [
+                        103.198108,
+                        13.094855
+                  ]
+            },
+            {
+                  "name": "Wat Damrey Sar",
+                  "text": "Temple complex in Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.197152,
+                        13.094962
+                  ]
+            },
+            {
+                  "name": "Tep Kao Sol",
+                  "text": "Art gallery in Battambang.",
+                  "category": "museum",
+                  "coords": [
+                        103.198404,
+                        13.099575
+                  ]
+            },
+            {
+                  "name": "Lok Ta Dambong",
+                  "text": "Monument in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.208499,
+                        13.090637
+                  ]
+            },
+            {
+                  "name": "Crocodile Farm",
+                  "text": "Crocodile farm in Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.207782,
+                        13.11916
+                  ]
+            },
+            {
+                  "name": "Boules ground",
+                  "text": "Boules ground in Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.196072,
+                        13.103276
+                  ]
+            },
+            {
+                  "name": "Ganesh Statue",
+                  "text": "Ganesh statue in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.200553,
+                        13.105386
+                  ]
+            },
+            {
+                  "name": "Yeay Tep Roundabout",
+                  "text": "Monument at a roundabout in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.173263,
+                        13.105797
+                  ]
+            },
+            {
+                  "name": "Apsara Roundabout",
+                  "text": "Apsara monument in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.199636,
+                        13.107407
+                  ]
+            },
+            {
+                  "name": "Neang Rumsay Soak Roundabout",
+                  "text": "Monument in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.179779,
+                        13.076076
+                  ]
+            },
+            {
+                  "name": "White Horse Roundabout",
+                  "text": "Monument in Battambang.",
+                  "category": "historical",
+                  "coords": [
+                        103.198537,
+                        13.107591
+                  ]
+            },
+            {
+                  "name": "Brick kilns",
+                  "text": "Historic brick kilns in Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.188934,
+                        13.087275
+                  ]
+            },
+            {
+                  "name": "Phsar Nat",
+                  "text": "Marketplace in Battambang.",
+                  "category": "landmark",
+                  "coords": [
+                        103.198483,
+                        13.10212
+                  ]
+            },
+            {
+                  "name": "Wat Bovil",
+                  "text": "Temple in Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.203731,
+                        13.101374
+                  ]
+            },
+            {
+                  "name": "Wat Piphitthearam",
+                  "text": "Temple in Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.198505,
+                        13.104387
+                  ]
+            },
+            {
+                  "name": "Wat Kandal",
+                  "text": "Temple in Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.202055,
+                        13.097681
+                  ]
+            },
+            {
+                  "name": "Wat Sangker",
+                  "text": "Temple in Battambang.",
+                  "category": "religious",
+                  "coords": [
+                        103.201535,
+                        13.092905
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-02",
     coords: [103.1978, 13.0957],
@@ -83,7 +812,1168 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Deuxième ville du Cambodge, env. 250 000 habitants", "Fondée au XIe siècle (Empire d'Angkor)", "Domination siamoise 1795-1907", "Retour à la France en 1907", "Protectorat français à partir de 1863", "290 km au nord-ouest de Phnom Penh", "Train de bambou ('Norry') comme attraction touristique", "Cirque Phare Ponleu Selpak depuis 1994"],
     }, image: "/poi-images/cambodia-battambang-cities-v2.webp"},
   {
-    id: "cambodia-siem-reap-cities-v2",
+    id: "cambodia-siem-reap-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Angkor National Museum",
+                  "text": "Das Angkor National Museum in Siem Reap zeigt Artefakte zur Geschichte des Khmer-Reiches.",
+                  "category": "museum",
+                  "coords": [
+                        103.859521,
+                        13.366385
+                  ]
+            },
+            {
+                  "name": "Angkor Conservancy",
+                  "text": "Angkor Conservancy ist ein Museum in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.86463,
+                        13.373402
+                  ]
+            },
+            {
+                  "name": "Miniature Replicas of Angkor",
+                  "text": "Miniature Replicas of Angkor ist ein Museum in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.86326,
+                        13.363751
+                  ]
+            },
+            {
+                  "name": "MGC Asian Traditional Textiles Museum",
+                  "text": "Das MGC Asian Traditional Textiles Museum ist ein Museum in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.880242,
+                        13.375373
+                  ]
+            },
+            {
+                  "name": "Garavek Traditional Storytelling Theatre",
+                  "text": "Das Garavek Traditional Storytelling Theatre ist ein Theater in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.855452,
+                        13.354806
+                  ]
+            },
+            {
+                  "name": "VIMEAN SOKHA MUSEUM",
+                  "text": "Das VIMEAN SOKHA MUSEUM ist ein Museum in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.856646,
+                        13.385614
+                  ]
+            },
+            {
+                  "name": "Angkor Panorama Museum (closed)",
+                  "text": "Das Angkor Panorama Museum (closed) ist ein Museum in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.88072,
+                        13.377524
+                  ]
+            },
+            {
+                  "name": "Red Khmers Museum",
+                  "text": "Das Red Khmers Museum ist ein Museum in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.860148,
+                        13.382486
+                  ]
+            },
+            {
+                  "name": "The Nature Discovery Center of Cambodia - by Fauna in Focus",
+                  "text": "The Nature Discovery Center of Cambodia - by Fauna in Focus ist ein Naturschutzgebiet in Siem Reap.",
+                  "category": "natural",
+                  "coords": [
+                        103.868466,
+                        13.351368
+                  ]
+            },
+            {
+                  "name": "Apsara Theatre Wat Bo",
+                  "text": "Das Apsara Theatre Wat Bo ist ein Theater in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.859441,
+                        13.353988
+                  ]
+            },
+            {
+                  "name": "Artisans d'Angkor",
+                  "text": "Artisans d'Angkor ist eine Sehenswürdigkeit in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.851837,
+                        13.35262
+                  ]
+            },
+            {
+                  "name": "Build Your Future Today Center",
+                  "text": "Das Build Your Future Today Center ist ein Kunstzentrum in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.866341,
+                        13.364379
+                  ]
+            },
+            {
+                  "name": "Khmer Kids Art Gallery",
+                  "text": "Die Khmer Kids Art Gallery ist ein Kunstzentrum in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.856803,
+                        13.348586
+                  ]
+            },
+            {
+                  "name": "Elephant Statue",
+                  "text": "Die Elephant Statue ist ein Denkmal in Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.853693,
+                        13.353747
+                  ]
+            },
+            {
+                  "name": "នាងនាគ",
+                  "text": "Die Apsara Statue ist ein Denkmal in Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.859881,
+                        13.361694
+                  ]
+            },
+            {
+                  "name": "Artwork Gallery",
+                  "text": "Die Artwork Gallery ist eine Galerie in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.85401,
+                        13.35641
+                  ]
+            },
+            {
+                  "name": "Diwo Gallery 1",
+                  "text": "Diwo Gallery 1 ist ein Kunstzentrum in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853999,
+                        13.338268
+                  ]
+            },
+            {
+                  "name": "Angkor Artwork",
+                  "text": "Angkor Artwork ist eine Galerie in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.862585,
+                        13.343834
+                  ]
+            },
+            {
+                  "name": "Jayav Art",
+                  "text": "Jayav Art ist ein Kunstzentrum in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.862368,
+                        13.380669
+                  ]
+            },
+            {
+                  "name": "Vishnu Roundabout",
+                  "text": "Der Vishnu Roundabout ist ein Denkmal in Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.856261,
+                        13.352933
+                  ]
+            },
+            {
+                  "name": "Sacred Dancers of Angkor",
+                  "text": "Sacred Dancers of Angkor ist eine Sehenswürdigkeit in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865057,
+                        13.370955
+                  ]
+            },
+            {
+                  "name": "Tribe",
+                  "text": "Tribe ist eine Galerie in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.856717,
+                        13.357023
+                  ]
+            },
+            {
+                  "name": "Breastfeeding Woman",
+                  "text": "Breastfeeding Woman ist ein Denkmal in Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.857957,
+                        13.356666
+                  ]
+            },
+            {
+                  "name": "Garuda",
+                  "text": "Garuda ist ein Denkmal in Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.857292,
+                        13.361215
+                  ]
+            },
+            {
+                  "name": "Masa Studio - Damien Dufresne",
+                  "text": "Masa Studio - Damien Dufresne ist eine Galerie in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.857411,
+                        13.347525
+                  ]
+            },
+            {
+                  "name": "Mortar",
+                  "text": "Mortar ist eine Sehenswürdigkeit in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855521,
+                        13.385191
+                  ]
+            },
+            {
+                  "name": "Ostriches",
+                  "text": "Ostriches ist eine Sehenswürdigkeit in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.861915,
+                        13.384795
+                  ]
+            },
+            {
+                  "name": "Peacocks",
+                  "text": "Peacocks ist eine Sehenswürdigkeit in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8628,
+                        13.38636
+                  ]
+            },
+            {
+                  "name": "Turtles",
+                  "text": "Turtles ist eine Sehenswürdigkeit in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862875,
+                        13.384389
+                  ]
+            },
+            {
+                  "name": "Art Market Bridge",
+                  "text": "Die Art Market Bridge ist eine Sehenswürdigkeit in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854359,
+                        13.352457
+                  ]
+            },
+            {
+                  "name": "Royal Gardens",
+                  "text": "Royal Gardens ist eine Sehenswürdigkeit in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859025,
+                        13.362933
+                  ]
+            },
+            {
+                  "name": "ផ្សារចាស់",
+                  "text": "Old Market, bekannt als Psah Chas, ist ein geschäftiger traditioneller Marktplatz im Herzen von Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855183,
+                        13.353866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Angkor National Museum",
+                  "text": "A Siem Reap-i Angkor Nemzeti Múzeum a Khmer Birodalom történetét bemutató műtárgyakat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        103.859521,
+                        13.366385
+                  ]
+            },
+            {
+                  "name": "Angkor Conservancy",
+                  "text": "Az Angkor Conservancy egy múzeum Siem Reap városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.86463,
+                        13.373402
+                  ]
+            },
+            {
+                  "name": "Miniature Replicas of Angkor",
+                  "text": "A Miniature Replicas of Angkor egy múzeum Siem Reap városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.86326,
+                        13.363751
+                  ]
+            },
+            {
+                  "name": "MGC Asian Traditional Textiles Museum",
+                  "text": "Az MGC Asian Traditional Textiles Museum egy múzeum Siem Reap városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.880242,
+                        13.375373
+                  ]
+            },
+            {
+                  "name": "Garavek Traditional Storytelling Theatre",
+                  "text": "A Garavek Traditional Storytelling Theatre egy színház Siem Reap városában.",
+                  "category": "cultural",
+                  "coords": [
+                        103.855452,
+                        13.354806
+                  ]
+            },
+            {
+                  "name": "VIMEAN SOKHA MUSEUM",
+                  "text": "A VIMEAN SOKHA MUSEUM egy múzeum Siem Reap városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.856646,
+                        13.385614
+                  ]
+            },
+            {
+                  "name": "Angkor Panorama Museum (closed)",
+                  "text": "Az Angkor Panorama Museum (closed) egy múzeum Siem Reap városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.88072,
+                        13.377524
+                  ]
+            },
+            {
+                  "name": "Red Khmers Museum",
+                  "text": "A Red Khmers Museum egy múzeum Siem Reap városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.860148,
+                        13.382486
+                  ]
+            },
+            {
+                  "name": "The Nature Discovery Center of Cambodia - by Fauna in Focus",
+                  "text": "A The Nature Discovery Center of Cambodia - by Fauna in Focus egy természetvédelmi terület Siem Reap városában.",
+                  "category": "natural",
+                  "coords": [
+                        103.868466,
+                        13.351368
+                  ]
+            },
+            {
+                  "name": "Apsara Theatre Wat Bo",
+                  "text": "Az Apsara Theatre Wat Bo egy színház Siem Reap városában.",
+                  "category": "cultural",
+                  "coords": [
+                        103.859441,
+                        13.353988
+                  ]
+            },
+            {
+                  "name": "Artisans d'Angkor",
+                  "text": "Az Artisans d'Angkor egy látványosság Siem Reap városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.851837,
+                        13.35262
+                  ]
+            },
+            {
+                  "name": "Build Your Future Today Center",
+                  "text": "A Build Your Future Today Center egy művészeti központ Siem Reap városában.",
+                  "category": "cultural",
+                  "coords": [
+                        103.866341,
+                        13.364379
+                  ]
+            },
+            {
+                  "name": "Khmer Kids Art Gallery",
+                  "text": "A Khmer Kids Art Gallery egy művészeti központ Siem Reap városában.",
+                  "category": "cultural",
+                  "coords": [
+                        103.856803,
+                        13.348586
+                  ]
+            },
+            {
+                  "name": "Elephant Statue",
+                  "text": "Az Elephant Statue egy emlékmű Siem Reap városában.",
+                  "category": "historical",
+                  "coords": [
+                        103.853693,
+                        13.353747
+                  ]
+            },
+            {
+                  "name": "នាងនាគ",
+                  "text": "Az Apsara Statue egy emlékmű Siem Reap városában.",
+                  "category": "historical",
+                  "coords": [
+                        103.859881,
+                        13.361694
+                  ]
+            },
+            {
+                  "name": "Artwork Gallery",
+                  "text": "Az Artwork Gallery egy galéria Siem Reap városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.85401,
+                        13.35641
+                  ]
+            },
+            {
+                  "name": "Diwo Gallery 1",
+                  "text": "A Diwo Gallery 1 egy művészeti központ Siem Reap városában.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853999,
+                        13.338268
+                  ]
+            },
+            {
+                  "name": "Angkor Artwork",
+                  "text": "Az Angkor Artwork egy galéria Siem Reap városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.862585,
+                        13.343834
+                  ]
+            },
+            {
+                  "name": "Jayav Art",
+                  "text": "A Jayav Art egy művészeti központ Siem Reap városában.",
+                  "category": "cultural",
+                  "coords": [
+                        103.862368,
+                        13.380669
+                  ]
+            },
+            {
+                  "name": "Vishnu Roundabout",
+                  "text": "A Vishnu Roundabout egy emlékmű Siem Reap városában.",
+                  "category": "historical",
+                  "coords": [
+                        103.856261,
+                        13.352933
+                  ]
+            },
+            {
+                  "name": "Sacred Dancers of Angkor",
+                  "text": "A Sacred Dancers of Angkor egy látványosság Siem Reap városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865057,
+                        13.370955
+                  ]
+            },
+            {
+                  "name": "Tribe",
+                  "text": "A Tribe egy galéria Siem Reap városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.856717,
+                        13.357023
+                  ]
+            },
+            {
+                  "name": "Breastfeeding Woman",
+                  "text": "A Breastfeeding Woman egy emlékmű Siem Reap városában.",
+                  "category": "historical",
+                  "coords": [
+                        103.857957,
+                        13.356666
+                  ]
+            },
+            {
+                  "name": "Garuda",
+                  "text": "A Garuda egy emlékmű Siem Reap városában.",
+                  "category": "historical",
+                  "coords": [
+                        103.857292,
+                        13.361215
+                  ]
+            },
+            {
+                  "name": "Masa Studio - Damien Dufresne",
+                  "text": "A Masa Studio - Damien Dufresne egy galéria Siem Reap városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.857411,
+                        13.347525
+                  ]
+            },
+            {
+                  "name": "Mortar",
+                  "text": "A Mortar egy látványosság Siem Reap városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855521,
+                        13.385191
+                  ]
+            },
+            {
+                  "name": "Ostriches",
+                  "text": "Az Ostriches egy látványosság Siem Reap városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.861915,
+                        13.384795
+                  ]
+            },
+            {
+                  "name": "Peacocks",
+                  "text": "A Peacocks egy látványosság Siem Reap városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8628,
+                        13.38636
+                  ]
+            },
+            {
+                  "name": "Turtles",
+                  "text": "A Turtles egy látványosság Siem Reap városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862875,
+                        13.384389
+                  ]
+            },
+            {
+                  "name": "Art Market Bridge",
+                  "text": "Az Art Market Bridge egy látványosság Siem Reap városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854359,
+                        13.352457
+                  ]
+            },
+            {
+                  "name": "Royal Gardens",
+                  "text": "A Royal Gardens egy látványosság Siem Reap városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859025,
+                        13.362933
+                  ]
+            },
+            {
+                  "name": "ផ្សារចាស់",
+                  "text": "Az Old Market, más néven Psah Chas, egy nyüzsgő hagyományos piac Siem Reap szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855183,
+                        13.353866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Angkor National Museum",
+                  "text": "Muzeul Național Angkor din Siem Reap expune artefacte care detaliază istoria Imperiului Khmer.",
+                  "category": "museum",
+                  "coords": [
+                        103.859521,
+                        13.366385
+                  ]
+            },
+            {
+                  "name": "Angkor Conservancy",
+                  "text": "Angkor Conservancy este un muzeu situat în Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.86463,
+                        13.373402
+                  ]
+            },
+            {
+                  "name": "Miniature Replicas of Angkor",
+                  "text": "Miniature Replicas of Angkor este un muzeu situat în Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.86326,
+                        13.363751
+                  ]
+            },
+            {
+                  "name": "MGC Asian Traditional Textiles Museum",
+                  "text": "MGC Asian Traditional Textiles Museum este un muzeu situat în Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.880242,
+                        13.375373
+                  ]
+            },
+            {
+                  "name": "Garavek Traditional Storytelling Theatre",
+                  "text": "Garavek Traditional Storytelling Theatre este un teatru situat în Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.855452,
+                        13.354806
+                  ]
+            },
+            {
+                  "name": "VIMEAN SOKHA MUSEUM",
+                  "text": "VIMEAN SOKHA MUSEUM este un muzeu situat în Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.856646,
+                        13.385614
+                  ]
+            },
+            {
+                  "name": "Angkor Panorama Museum (closed)",
+                  "text": "Angkor Panorama Museum (closed) este un muzeu situat în Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.88072,
+                        13.377524
+                  ]
+            },
+            {
+                  "name": "Red Khmers Museum",
+                  "text": "Red Khmers Museum este un muzeu situat în Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.860148,
+                        13.382486
+                  ]
+            },
+            {
+                  "name": "The Nature Discovery Center of Cambodia - by Fauna in Focus",
+                  "text": "The Nature Discovery Center of Cambodia - by Fauna in Focus este o rezervație naturală situată în Siem Reap.",
+                  "category": "natural",
+                  "coords": [
+                        103.868466,
+                        13.351368
+                  ]
+            },
+            {
+                  "name": "Apsara Theatre Wat Bo",
+                  "text": "Apsara Theatre Wat Bo este un teatru situat în Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.859441,
+                        13.353988
+                  ]
+            },
+            {
+                  "name": "Artisans d'Angkor",
+                  "text": "Artisans d'Angkor este o atracție situată în Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.851837,
+                        13.35262
+                  ]
+            },
+            {
+                  "name": "Build Your Future Today Center",
+                  "text": "Build Your Future Today Center este un centru de arte situat în Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.866341,
+                        13.364379
+                  ]
+            },
+            {
+                  "name": "Khmer Kids Art Gallery",
+                  "text": "Khmer Kids Art Gallery este un centru de arte situat în Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.856803,
+                        13.348586
+                  ]
+            },
+            {
+                  "name": "Elephant Statue",
+                  "text": "Elephant Statue este un monument situat în Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.853693,
+                        13.353747
+                  ]
+            },
+            {
+                  "name": "នាងនាគ",
+                  "text": "Apsara Statue este un monument situat în Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.859881,
+                        13.361694
+                  ]
+            },
+            {
+                  "name": "Artwork Gallery",
+                  "text": "Artwork Gallery este o galerie situată în Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.85401,
+                        13.35641
+                  ]
+            },
+            {
+                  "name": "Diwo Gallery 1",
+                  "text": "Diwo Gallery 1 este un centru de arte situat în Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853999,
+                        13.338268
+                  ]
+            },
+            {
+                  "name": "Angkor Artwork",
+                  "text": "Angkor Artwork este o galerie situată în Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.862585,
+                        13.343834
+                  ]
+            },
+            {
+                  "name": "Jayav Art",
+                  "text": "Jayav Art este un centru de arte situat în Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.862368,
+                        13.380669
+                  ]
+            },
+            {
+                  "name": "Vishnu Roundabout",
+                  "text": "Vishnu Roundabout este un monument situat în Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.856261,
+                        13.352933
+                  ]
+            },
+            {
+                  "name": "Sacred Dancers of Angkor",
+                  "text": "Sacred Dancers of Angkor este o atracție situată în Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865057,
+                        13.370955
+                  ]
+            },
+            {
+                  "name": "Tribe",
+                  "text": "Tribe este o galerie situată în Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.856717,
+                        13.357023
+                  ]
+            },
+            {
+                  "name": "Breastfeeding Woman",
+                  "text": "Breastfeeding Woman este un monument situat în Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.857957,
+                        13.356666
+                  ]
+            },
+            {
+                  "name": "Garuda",
+                  "text": "Garuda este un monument situat în Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.857292,
+                        13.361215
+                  ]
+            },
+            {
+                  "name": "Masa Studio - Damien Dufresne",
+                  "text": "Masa Studio - Damien Dufresne este o galerie situată în Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.857411,
+                        13.347525
+                  ]
+            },
+            {
+                  "name": "Mortar",
+                  "text": "Mortar este o atracție situată în Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855521,
+                        13.385191
+                  ]
+            },
+            {
+                  "name": "Ostriches",
+                  "text": "Ostriches este o atracție situată în Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.861915,
+                        13.384795
+                  ]
+            },
+            {
+                  "name": "Peacocks",
+                  "text": "Peacocks este o atracție situată în Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8628,
+                        13.38636
+                  ]
+            },
+            {
+                  "name": "Turtles",
+                  "text": "Turtles este o atracție situată în Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862875,
+                        13.384389
+                  ]
+            },
+            {
+                  "name": "Art Market Bridge",
+                  "text": "Art Market Bridge este o atracție situată în Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854359,
+                        13.352457
+                  ]
+            },
+            {
+                  "name": "Royal Gardens",
+                  "text": "Royal Gardens este o atracție situată în Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859025,
+                        13.362933
+                  ]
+            },
+            {
+                  "name": "ផ្សារចាស់",
+                  "text": "Old Market, cunoscut sub numele de Psah Chas, este o piață tradițională plină de viață în inima orașului Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855183,
+                        13.353866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Angkor National Museum",
+                  "text": "The Angkor National Museum in Siem Reap exhibits artifacts detailing the history of the Khmer Empire.",
+                  "category": "museum",
+                  "coords": [
+                        103.859521,
+                        13.366385
+                  ]
+            },
+            {
+                  "name": "Angkor Conservancy",
+                  "text": "Angkor Conservancy is a museum located in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.86463,
+                        13.373402
+                  ]
+            },
+            {
+                  "name": "Miniature Replicas of Angkor",
+                  "text": "Miniature Replicas of Angkor is a museum located in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.86326,
+                        13.363751
+                  ]
+            },
+            {
+                  "name": "MGC Asian Traditional Textiles Museum",
+                  "text": "MGC Asian Traditional Textiles Museum is a museum located in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.880242,
+                        13.375373
+                  ]
+            },
+            {
+                  "name": "Garavek Traditional Storytelling Theatre",
+                  "text": "Garavek Traditional Storytelling Theatre is a theatre located in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.855452,
+                        13.354806
+                  ]
+            },
+            {
+                  "name": "VIMEAN SOKHA MUSEUM",
+                  "text": "VIMEAN SOKHA MUSEUM is a museum located in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.856646,
+                        13.385614
+                  ]
+            },
+            {
+                  "name": "Angkor Panorama Museum (closed)",
+                  "text": "Angkor Panorama Museum (closed) is a museum located in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.88072,
+                        13.377524
+                  ]
+            },
+            {
+                  "name": "Red Khmers Museum",
+                  "text": "Red Khmers Museum is a museum located in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.860148,
+                        13.382486
+                  ]
+            },
+            {
+                  "name": "The Nature Discovery Center of Cambodia - by Fauna in Focus",
+                  "text": "The Nature Discovery Center of Cambodia - by Fauna in Focus is a nature reserve located in Siem Reap.",
+                  "category": "natural",
+                  "coords": [
+                        103.868466,
+                        13.351368
+                  ]
+            },
+            {
+                  "name": "Apsara Theatre Wat Bo",
+                  "text": "Apsara Theatre Wat Bo is a theatre located in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.859441,
+                        13.353988
+                  ]
+            },
+            {
+                  "name": "Artisans d'Angkor",
+                  "text": "Artisans d'Angkor is an attraction located in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.851837,
+                        13.35262
+                  ]
+            },
+            {
+                  "name": "Build Your Future Today Center",
+                  "text": "Build Your Future Today Center is an arts centre located in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.866341,
+                        13.364379
+                  ]
+            },
+            {
+                  "name": "Khmer Kids Art Gallery",
+                  "text": "Khmer Kids Art Gallery is an arts centre located in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.856803,
+                        13.348586
+                  ]
+            },
+            {
+                  "name": "Elephant Statue",
+                  "text": "Elephant Statue is a monument located in Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.853693,
+                        13.353747
+                  ]
+            },
+            {
+                  "name": "Apsara Statue",
+                  "text": "Apsara Statue is a monument located in Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.859881,
+                        13.361694
+                  ]
+            },
+            {
+                  "name": "Artwork Gallery",
+                  "text": "Artwork Gallery is a gallery located in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.85401,
+                        13.35641
+                  ]
+            },
+            {
+                  "name": "Diwo Gallery 1",
+                  "text": "Diwo Gallery 1 is an arts centre located in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.853999,
+                        13.338268
+                  ]
+            },
+            {
+                  "name": "Angkor Artwork",
+                  "text": "Angkor Artwork is a gallery located in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.862585,
+                        13.343834
+                  ]
+            },
+            {
+                  "name": "Jayav Art",
+                  "text": "Jayav Art is an arts centre located in Siem Reap.",
+                  "category": "cultural",
+                  "coords": [
+                        103.862368,
+                        13.380669
+                  ]
+            },
+            {
+                  "name": "Vishnu Roundabout",
+                  "text": "Vishnu Roundabout is a monument located in Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.856261,
+                        13.352933
+                  ]
+            },
+            {
+                  "name": "Sacred Dancers of Angkor",
+                  "text": "Sacred Dancers of Angkor is an attraction located in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.865057,
+                        13.370955
+                  ]
+            },
+            {
+                  "name": "Tribe",
+                  "text": "Tribe is a gallery located in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.856717,
+                        13.357023
+                  ]
+            },
+            {
+                  "name": "Breastfeeding Woman",
+                  "text": "Breastfeeding Woman is a monument located in Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.857957,
+                        13.356666
+                  ]
+            },
+            {
+                  "name": "Garuda",
+                  "text": "Garuda is a monument located in Siem Reap.",
+                  "category": "historical",
+                  "coords": [
+                        103.857292,
+                        13.361215
+                  ]
+            },
+            {
+                  "name": "Masa Studio - Damien Dufresne",
+                  "text": "Masa Studio - Damien Dufresne is a gallery located in Siem Reap.",
+                  "category": "museum",
+                  "coords": [
+                        103.857411,
+                        13.347525
+                  ]
+            },
+            {
+                  "name": "Mortar",
+                  "text": "Mortar is an attraction located in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855521,
+                        13.385191
+                  ]
+            },
+            {
+                  "name": "Ostriches",
+                  "text": "Ostriches is an attraction located in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.861915,
+                        13.384795
+                  ]
+            },
+            {
+                  "name": "Peacocks",
+                  "text": "Peacocks is an attraction located in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.8628,
+                        13.38636
+                  ]
+            },
+            {
+                  "name": "Turtles",
+                  "text": "Turtles is an attraction located in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.862875,
+                        13.384389
+                  ]
+            },
+            {
+                  "name": "Art Market Bridge",
+                  "text": "Art Market Bridge is an attraction located in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.854359,
+                        13.352457
+                  ]
+            },
+            {
+                  "name": "Royal Gardens",
+                  "text": "Royal Gardens is an attraction located in Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.859025,
+                        13.362933
+                  ]
+            },
+            {
+                  "name": "Old Market",
+                  "text": "Old Market, known as Psah Chas, is a bustling traditional marketplace in the heart of Siem Reap.",
+                  "category": "landmark",
+                  "coords": [
+                        103.855183,
+                        13.353866
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-17",
     coords: [103.8606, 13.3615],
@@ -126,7 +2016,556 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Population env. 230 000", "Porte du patrimoine mondial de l'UNESCO d'Angkor (depuis 1992)", "Le nom signifie \"Défaite du Siam\" (1431)", "Fouilles françaises à partir de 1863", "Aéroport international depuis 2006", "314 km au nord-ouest de Phnom Penh", "Plus de 2 millions de touristes par an avant la pandémie", "La danse Apsara est inscrite au patrimoine immatériel de l'UNESCO"],
     }, image: "/poi-images/cambodia-siem-reap-cities-v2.webp"},
   {
-    id: "cambodia-sihanoukville-cities-v2",
+    id: "cambodia-sihanoukville-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "រថយន្តបុរាណ",
+                  "text": "រថយន្តបុរាណ ist ein Museum in Sihanoukville.",
+                  "category": "museum",
+                  "coords": [
+                        103.509257,
+                        10.637844
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​សុខា",
+                  "text": "Sokha Beach ist ein Strand in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.510933,
+                        10.608316
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ហាវៃ",
+                  "text": "Hawaii Beach ist ein Strand in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.496573,
+                        10.629354
+                  ]
+            },
+            {
+                  "name": "Victory Beach",
+                  "text": "Victory Beach ist ein Strand in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.500391,
+                        10.636317
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "Serendipity Beach ist ein Strand in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.523109,
+                        10.60557
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​អូរឈើទាល",
+                  "text": "Ochheuteal Beach ist ein Strand in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.531211,
+                        10.598131
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ឯករាជ្យ",
+                  "text": "Independence Beach ist ein Strand in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.497622,
+                        10.614377
+                  ]
+            },
+            {
+                  "name": "Two Golden Lions",
+                  "text": "Two Golden Lions ist ein Denkmal in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.523643,
+                        10.610638
+                  ]
+            },
+            {
+                  "name": "One Golden Lion",
+                  "text": "One Golden Lion ist ein Denkmal in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.503905,
+                        10.642511
+                  ]
+            },
+            {
+                  "name": "Cambodia-Vietnam friendship monument",
+                  "text": "Das Cambodia-Vietnam friendship monument ist ein Denkmal in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.499877,
+                        10.631794
+                  ]
+            },
+            {
+                  "name": "Dragon Head",
+                  "text": "Dragon Head ist ein Denkmal in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.512958,
+                        10.609483
+                  ]
+            },
+            {
+                  "name": "Fish",
+                  "text": "Fish ist ein Denkmal in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.511536,
+                        10.626749
+                  ]
+            },
+            {
+                  "name": "Waterbuffalo Statue",
+                  "text": "Die Waterbuffalo Statue ist ein Denkmal in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.499526,
+                        10.633942
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទព្រះវិហារចម្លង",
+                  "text": "ប្រាសាទព្រះវិហារចម្លង ist ein Denkmal in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.507186,
+                        10.631308
+                  ]
+            },
+            {
+                  "name": "Free Living Monkeys",
+                  "text": "Free Living Monkeys ist eine Attraktion in Sihanoukville.",
+                  "category": "landmark",
+                  "coords": [
+                        103.497301,
+                        10.620365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "រថយន្តបុរាណ",
+                  "text": "A រថយន្តបុរាណ egy múzeum Sihanoukville városában.",
+                  "category": "museum",
+                  "coords": [
+                        103.509257,
+                        10.637844
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​សុខា",
+                  "text": "A Sokha Beach egy strand Sihanoukville-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        103.510933,
+                        10.608316
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ហាវៃ",
+                  "text": "A Hawaii Beach egy strand Sihanoukville városában.",
+                  "category": "recreational",
+                  "coords": [
+                        103.496573,
+                        10.629354
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ជ័យជំនះ",
+                  "text": "A Victory Beach egy tengerparti szakasz Sihanoukville-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        103.500391,
+                        10.636317
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "A Serendipity Beach egy strand Sihanoukville városában.",
+                  "category": "recreational",
+                  "coords": [
+                        103.523109,
+                        10.60557
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​អូរឈើទាល",
+                  "text": "Az Ochheuteal Beach egy strand Sihanoukville településen.",
+                  "category": "recreational",
+                  "coords": [
+                        103.531211,
+                        10.598131
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ឯករាជ្យ",
+                  "text": "Az Independence Beach egy strand Sihanoukville városában.",
+                  "category": "recreational",
+                  "coords": [
+                        103.497622,
+                        10.614377
+                  ]
+            },
+            {
+                  "name": "Two Golden Lions",
+                  "text": "A Two Golden Lions egy emlékmű Sihanoukville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        103.523643,
+                        10.610638
+                  ]
+            },
+            {
+                  "name": "One Golden Lion",
+                  "text": "A One Golden Lion egy emlékmű Sihanoukville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        103.503905,
+                        10.642511
+                  ]
+            },
+            {
+                  "name": "Cambodia-Vietnam friendship monument",
+                  "text": "A Cambodia-Vietnam friendship monument egy emlékmű Sihanoukville városában.",
+                  "category": "historical",
+                  "coords": [
+                        103.499877,
+                        10.631794
+                  ]
+            },
+            {
+                  "name": "Dragon Head",
+                  "text": "A Dragon Head egy emlékmű Sihanoukville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        103.512958,
+                        10.609483
+                  ]
+            },
+            {
+                  "name": "Fish",
+                  "text": "A Fish egy emlékmű Sihanoukville városában.",
+                  "category": "historical",
+                  "coords": [
+                        103.511536,
+                        10.626749
+                  ]
+            },
+            {
+                  "name": "Waterbuffalo Statue",
+                  "text": "A Waterbuffalo Statue egy szoboremlékmű Sihanoukville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        103.499526,
+                        10.633942
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទព្រះវិហារចម្លង",
+                  "text": "A ប្រាសាទព្រះវិហារចម្លង egy emlékmű Sihanoukville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        103.507186,
+                        10.631308
+                  ]
+            },
+            {
+                  "name": "Free Living Monkeys",
+                  "text": "A Free Living Monkeys egy turisztikai látványosság Sihanoukville városában.",
+                  "category": "landmark",
+                  "coords": [
+                        103.497301,
+                        10.620365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "រថយន្តបុរាណ",
+                  "text": "រថយន្តបុរាណ este un muzeu situat în Sihanoukville.",
+                  "category": "museum",
+                  "coords": [
+                        103.509257,
+                        10.637844
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​សុខា",
+                  "text": "Sokha Beach este o plajă aflată în Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.510933,
+                        10.608316
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ហាវៃ",
+                  "text": "Hawaii Beach este o plajă situată în Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.496573,
+                        10.629354
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ជ័យជំនះ",
+                  "text": "Victory Beach este o plajă aflată în Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.500391,
+                        10.636317
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "Serendipity Beach este o plajă situată în Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.523109,
+                        10.60557
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​អូរឈើទាល",
+                  "text": "Ochheuteal Beach este o plajă aflată în Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.531211,
+                        10.598131
+                  ]
+            },
+            {
+                  "name": "ឆ្នេរ​ឯករាជ្យ",
+                  "text": "Independence Beach este o plajă situată în Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.497622,
+                        10.614377
+                  ]
+            },
+            {
+                  "name": "Two Golden Lions",
+                  "text": "Two Golden Lions este un monument aflat în Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.523643,
+                        10.610638
+                  ]
+            },
+            {
+                  "name": "One Golden Lion",
+                  "text": "One Golden Lion este un monument aflat în Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.503905,
+                        10.642511
+                  ]
+            },
+            {
+                  "name": "Cambodia-Vietnam friendship monument",
+                  "text": "Cambodia-Vietnam friendship monument este un monument situat în Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.499877,
+                        10.631794
+                  ]
+            },
+            {
+                  "name": "Dragon Head",
+                  "text": "Dragon Head este un monument aflat în Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.512958,
+                        10.609483
+                  ]
+            },
+            {
+                  "name": "Fish",
+                  "text": "Fish este un monument situat în Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.511536,
+                        10.626749
+                  ]
+            },
+            {
+                  "name": "Waterbuffalo Statue",
+                  "text": "Waterbuffalo Statue este un monument aflat în Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.499526,
+                        10.633942
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទព្រះវិហារចម្លង",
+                  "text": "ប្រាសាទព្រះវិហារចម្លង este un monument aflat în Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.507186,
+                        10.631308
+                  ]
+            },
+            {
+                  "name": "Free Living Monkeys",
+                  "text": "Free Living Monkeys este o atracție turistică situată în Sihanoukville.",
+                  "category": "landmark",
+                  "coords": [
+                        103.497301,
+                        10.620365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "រថយន្តបុរាណ",
+                  "text": "រថយន្តបុរាណ is a museum located in Sihanoukville.",
+                  "category": "museum",
+                  "coords": [
+                        103.509257,
+                        10.637844
+                  ]
+            },
+            {
+                  "name": "Sokha Beach",
+                  "text": "Sokha Beach is a beach situated in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.510933,
+                        10.608316
+                  ]
+            },
+            {
+                  "name": "Hawaii Beach",
+                  "text": "Hawaii Beach is a coastal area located in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.496573,
+                        10.629354
+                  ]
+            },
+            {
+                  "name": "Victory Beach",
+                  "text": "Victory Beach is a beach situated in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.500391,
+                        10.636317
+                  ]
+            },
+            {
+                  "name": "Serendipity Beach",
+                  "text": "Serendipity Beach is a beach located in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.523109,
+                        10.60557
+                  ]
+            },
+            {
+                  "name": "Ochheuteal Beach",
+                  "text": "Ochheuteal Beach is a beach situated in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.531211,
+                        10.598131
+                  ]
+            },
+            {
+                  "name": "Independence Beach",
+                  "text": "Independence Beach is a beach located in Sihanoukville.",
+                  "category": "recreational",
+                  "coords": [
+                        103.497622,
+                        10.614377
+                  ]
+            },
+            {
+                  "name": "Two Golden Lions",
+                  "text": "Two Golden Lions is a monument situated in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.523643,
+                        10.610638
+                  ]
+            },
+            {
+                  "name": "One Golden Lion",
+                  "text": "One Golden Lion is a monument situated in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.503905,
+                        10.642511
+                  ]
+            },
+            {
+                  "name": "Cambodia-Vietnam friendship monument",
+                  "text": "The Cambodia-Vietnam friendship monument is located in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.499877,
+                        10.631794
+                  ]
+            },
+            {
+                  "name": "Dragon Head",
+                  "text": "Dragon Head is a monument situated in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.512958,
+                        10.609483
+                  ]
+            },
+            {
+                  "name": "Fish",
+                  "text": "Fish is a monument located in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.511536,
+                        10.626749
+                  ]
+            },
+            {
+                  "name": "Waterbuffalo Statue",
+                  "text": "The Waterbuffalo Statue is a monument situated in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.499526,
+                        10.633942
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទព្រះវិហារចម្លង",
+                  "text": "ប្រាសាទព្រះវិហារចម្លង is a monument situated in Sihanoukville.",
+                  "category": "historical",
+                  "coords": [
+                        103.507186,
+                        10.631308
+                  ]
+            },
+            {
+                  "name": "Free Living Monkeys",
+                  "text": "Free Living Monkeys is a tourist attraction located in Sihanoukville.",
+                  "category": "landmark",
+                  "coords": [
+                        103.497301,
+                        10.620365
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-18",
     coords: [103.5234, 10.6253],
@@ -169,7 +2608,52 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Seul port en eau profonde du Cambodge", "Population env. 156 000", "Fondée entre 1955 et 1960 sous le roi Sihanouk", "Indépendance du Cambodge vis-à-vis de la France en 1953", "230 km au sud-ouest de Phnom Penh", "Plus de 100 casinos depuis 2017", "Protectorat français 1863-1953", "Porte d'accès aux îles Koh Rong et Koh Rong Sanloem"],
     }, image: "/poi-images/cambodia-sihanoukville-cities-v2.webp"},
   {
-    id: "cambodia-poipet-cities-v2",
+    id: "cambodia-poipet-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "สะพานมิตรภาพไทย–กัมพูชา (อรัญประเทศ–ปอยเปต)",
+                  "text": "Brücke an der Grenze in Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.54964,
+                        13.661566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "สะพานมิตรภาพไทย–กัมพูชา (อรัญประเทศ–ปอยเปต)",
+                  "text": "Határhíd Poipetben.",
+                  "category": "landmark",
+                  "coords": [
+                        102.54964,
+                        13.661566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "สะพานมิตรภาพไทย–กัมพูชา (อรัญประเทศ–ปอยเปต)",
+                  "text": "Pod la graniță în Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.54964,
+                        13.661566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thailand–Cambodia Friendship Bridge (Aranyaprathet – Poipet)",
+                  "text": "Bridge at the border in Poipet.",
+                  "category": "landmark",
+                  "coords": [
+                        102.54964,
+                        13.661566
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-01",
     coords: [102.5625, 13.6583],
@@ -255,7 +2739,232 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Kandal", "Population env. 73 000", "À seulement 11 km au sud de Phnom Penh", "Protectorat français à partir de 1863", "Évacuée sous les Khmers rouges 1975-1979", "Centre industriel majeur avec des usines textiles", "Située sur la rivière Bassac"],
     }, image: "/poi-images/cambodia-ta-khmau-cities-v2.webp"},
   {
-    id: "cambodia-kampong-cham-cities-v2",
+    id: "cambodia-kampong-cham-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "BSDA Apsara Stage",
+                  "text": "Die BSDA Apsara Stage ist ein Theater in Kampong Cham.",
+                  "category": "cultural",
+                  "coords": [
+                        105.43759,
+                        12.000088
+                  ]
+            },
+            {
+                  "name": "Tonlé Ôm",
+                  "text": "Tonlé Ôm ist eine archäologische Stätte in Kampong Cham.",
+                  "category": "historical",
+                  "coords": [
+                        105.44877,
+                        12.00111
+                  ]
+            },
+            {
+                  "name": "French Colonial Watchtower",
+                  "text": "Der French Colonial Watchtower ist eine Sehenswürdigkeit in Kampong Cham.",
+                  "category": "landmark",
+                  "coords": [
+                        105.475454,
+                        11.985601
+                  ]
+            },
+            {
+                  "name": "ស្ពានឫស្សីកោះប៉ែន",
+                  "text": "Die Koh Pen Bamboo Bridge ist eine Attraktion in Kampong Cham.",
+                  "category": "landmark",
+                  "coords": [
+                        105.461801,
+                        11.973497
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទវត្តនគរបាជ័យ",
+                  "text": "Prasat Wat Nokor Bachey ist eine Ruinenstätte in Kampong Cham.",
+                  "category": "historical",
+                  "coords": [
+                        105.439352,
+                        11.999875
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Das Independence Monument ist ein Denkmal in Kampong Cham.",
+                  "category": "historical",
+                  "coords": [
+                        105.451506,
+                        11.999135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BSDA Apsara Stage",
+                  "text": "A BSDA Apsara Stage egy színház Kampong Cham városában.",
+                  "category": "cultural",
+                  "coords": [
+                        105.43759,
+                        12.000088
+                  ]
+            },
+            {
+                  "name": "Tonlé Ôm",
+                  "text": "A Tonlé Ôm egy régészeti lelőhely Kampong Cham településen.",
+                  "category": "historical",
+                  "coords": [
+                        105.44877,
+                        12.00111
+                  ]
+            },
+            {
+                  "name": "French Colonial Watchtower",
+                  "text": "A French Colonial Watchtower egy történelmi látványosság Kampong Cham városában.",
+                  "category": "landmark",
+                  "coords": [
+                        105.475454,
+                        11.985601
+                  ]
+            },
+            {
+                  "name": "ស្ពានឫស្សីកោះប៉ែន",
+                  "text": "A Koh Pen Bamboo Bridge egy nevezetesség Kampong Cham településen.",
+                  "category": "landmark",
+                  "coords": [
+                        105.461801,
+                        11.973497
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទវត្តនគរបាជ័យ",
+                  "text": "A Prasat Wat Nokor Bachey ősi romok helyszíne Kampong Cham városában.",
+                  "category": "historical",
+                  "coords": [
+                        105.439352,
+                        11.999875
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Az Independence Monument egy emlékmű Kampong Cham településen.",
+                  "category": "historical",
+                  "coords": [
+                        105.451506,
+                        11.999135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BSDA Apsara Stage",
+                  "text": "BSDA Apsara Stage este un teatru aflat în Kampong Cham.",
+                  "category": "cultural",
+                  "coords": [
+                        105.43759,
+                        12.000088
+                  ]
+            },
+            {
+                  "name": "Tonlé Ôm",
+                  "text": "Tonlé Ôm este un sit arheologic situat în Kampong Cham.",
+                  "category": "historical",
+                  "coords": [
+                        105.44877,
+                        12.00111
+                  ]
+            },
+            {
+                  "name": "French Colonial Watchtower",
+                  "text": "French Colonial Watchtower este o atracție aflată în Kampong Cham.",
+                  "category": "landmark",
+                  "coords": [
+                        105.475454,
+                        11.985601
+                  ]
+            },
+            {
+                  "name": "ស្ពានឫស្សីកោះប៉ែន",
+                  "text": "Koh Pen Bamboo Bridge este o atracție turistică situată în Kampong Cham.",
+                  "category": "landmark",
+                  "coords": [
+                        105.461801,
+                        11.973497
+                  ]
+            },
+            {
+                  "name": "ប្រាសាទវត្តនគរបាជ័យ",
+                  "text": "Prasat Wat Nokor Bachey este un sit de ruine aflat în Kampong Cham.",
+                  "category": "historical",
+                  "coords": [
+                        105.439352,
+                        11.999875
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Independence Monument este un monument situat în Kampong Cham.",
+                  "category": "historical",
+                  "coords": [
+                        105.451506,
+                        11.999135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BSDA Apsara Stage",
+                  "text": "BSDA Apsara Stage is a theatre venue situated in Kampong Cham.",
+                  "category": "cultural",
+                  "coords": [
+                        105.43759,
+                        12.000088
+                  ]
+            },
+            {
+                  "name": "Tonlé Ôm",
+                  "text": "Tonlé Ôm is an archaeological site located in Kampong Cham.",
+                  "category": "historical",
+                  "coords": [
+                        105.44877,
+                        12.00111
+                  ]
+            },
+            {
+                  "name": "French Colonial Watchtower",
+                  "text": "The French Colonial Watchtower is a historical attraction situated in Kampong Cham.",
+                  "category": "landmark",
+                  "coords": [
+                        105.475454,
+                        11.985601
+                  ]
+            },
+            {
+                  "name": "Koh Pen Bamboo Bridge",
+                  "text": "Koh Pen Bamboo Bridge is a prominent tourist attraction located in Kampong Cham.",
+                  "category": "landmark",
+                  "coords": [
+                        105.461801,
+                        11.973497
+                  ]
+            },
+            {
+                  "name": "Prasat Wat Nokor Bachey",
+                  "text": "Prasat Wat Nokor Bachey is a site of ancient ruins situated in Kampong Cham.",
+                  "category": "historical",
+                  "coords": [
+                        105.439352,
+                        11.999875
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "The Independence Monument is a memorial located in Kampong Cham.",
+                  "category": "historical",
+                  "coords": [
+                        105.451506,
+                        11.999135
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-03",
     coords: [105.4525, 11.9933],
@@ -427,7 +3136,124 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Takeo", "Population env. 39 000", "77 km au sud de Phnom Penh", "Proche d'Angkor Borei (capitale du Funan, Ier-VIe s.)", "Temple de Phnom Da du VIe siècle", "Protectorat français à partir de 1863", "Évacuée sous les Khmers rouges 1975-1979", "Célèbre pour le tissage de la soie Hol"],
     }, image: "/poi-images/cambodia-takeo-cities-v2.webp"},
   {
-    id: "cambodia-koh-kong-cities-v2",
+    id: "cambodia-koh-kong-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monument for the Dead",
+                  "text": "Denkmal in Koh Kong.",
+                  "category": "historical",
+                  "coords": [
+                        102.990315,
+                        11.621184
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "Schiff als Attraktion in Koh Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.979264,
+                        11.616028
+                  ]
+            },
+            {
+                  "name": "ស្ពានកោះកុង",
+                  "text": "Brücke in Koh Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.971141,
+                        11.617553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monument for the Dead",
+                  "text": "Emlékmű Koh Kongban.",
+                  "category": "historical",
+                  "coords": [
+                        102.990315,
+                        11.621184
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "Hajó látnivaló Koh Kongban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.979264,
+                        11.616028
+                  ]
+            },
+            {
+                  "name": "ស្ពានកោះកុង",
+                  "text": "Híd Koh Kongban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.971141,
+                        11.617553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monument for the Dead",
+                  "text": "Monument în Koh Kong.",
+                  "category": "historical",
+                  "coords": [
+                        102.990315,
+                        11.621184
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "Navă ca atracție în Koh Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.979264,
+                        11.616028
+                  ]
+            },
+            {
+                  "name": "ស្ពានកោះកុង",
+                  "text": "Pod în Koh Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.971141,
+                        11.617553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monument for the Dead",
+                  "text": "Monument in Koh Kong.",
+                  "category": "historical",
+                  "coords": [
+                        102.990315,
+                        11.621184
+                  ]
+            },
+            {
+                  "name": "Ship",
+                  "text": "Ship attraction in Koh Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.979264,
+                        11.616028
+                  ]
+            },
+            {
+                  "name": "Koh Kong Bridge",
+                  "text": "Bridge in Koh Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        102.971141,
+                        11.617553
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-09",
     coords: [102.9804, 11.6155],
@@ -470,7 +3296,520 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Koh Kong", "Population d'environ 36 000 habitants", "270 km à l'ouest de Phnom Penh", "Porte d'entrée vers les monts des Cardamomes", "Pont de Koh Kong (1 900 m) depuis 2002", "Protectorat français à partir de 1863", "Dernier bastion des Khmers rouges jusque dans les années 1990", "Sanctuaire de mangroves de Peam Krasop"],
     }, image: "/poi-images/cambodia-koh-kong-cities-v2.webp"},
   {
-    id: "cambodia-kep-cities-v2",
+    id: "cambodia-kep-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kep Museum",
+                  "text": "Das Kep Museum ist ein Museum in Kep.",
+                  "category": "museum",
+                  "coords": [
+                        104.317065,
+                        10.486146
+                  ]
+            },
+            {
+                  "name": "Angkor Beach Viewpoint",
+                  "text": "Der Angkor Beach Viewpoint ist ein Aussichtspunkt in Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.302034,
+                        10.497806
+                  ]
+            },
+            {
+                  "name": "Ocean View",
+                  "text": "Ocean View ist ein Aussichtspunkt in Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.290132,
+                        10.478114
+                  ]
+            },
+            {
+                  "name": "វិមានឯករាជ្យ",
+                  "text": "Das Independence Monument ist ein Denkmal in Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.315101,
+                        10.484296
+                  ]
+            },
+            {
+                  "name": "Crab Statue",
+                  "text": "Das Crab Monument ist ein Denkmal in Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.29935,
+                        10.476427
+                  ]
+            },
+            {
+                  "name": "Kep butterfly garden",
+                  "text": "Der Kep butterfly garden ist eine Sehenswürdigkeit in Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.303316,
+                        10.495624
+                  ]
+            },
+            {
+                  "name": "Kampot Viewpoint",
+                  "text": "Der Kampot Viewpoint ist ein Aussichtspunkt in Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.297841,
+                        10.50056
+                  ]
+            },
+            {
+                  "name": "Sunset Rock",
+                  "text": "Sunset Rock ist ein Aussichtspunkt in Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.298642,
+                        10.485544
+                  ]
+            },
+            {
+                  "name": "Patio Pepper Plantation in Kep",
+                  "text": "Patio Pepper Plantation in Kep ist eine Sehenswürdigkeit in Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.320232,
+                        10.503452
+                  ]
+            },
+            {
+                  "name": "Little Buddha",
+                  "text": "Ein kleines Buddha-Denkmal in Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.299604,
+                        10.485416
+                  ]
+            },
+            {
+                  "name": "Good place for sunset",
+                  "text": "Ein schöner Aussichtspunkt in Kep, um den Sonnenuntergang zu beobachten.",
+                  "category": "natural",
+                  "coords": [
+                        104.300519,
+                        10.476233
+                  ]
+            },
+            {
+                  "name": "Buddha Statue",
+                  "text": "Eine Buddha-Statue in der Küstenstadt Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.297977,
+                        10.479488
+                  ]
+            },
+            {
+                  "name": "Viewpoint over Kep Beach",
+                  "text": "Ein Aussichtspunkt mit Blick über den Strand von Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.296233,
+                        10.479165
+                  ]
+            },
+            {
+                  "name": "Historic Royal Residence & Gardens",
+                  "text": "Eine historische königliche Residenz mit Gärten in Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.290543,
+                        10.47926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kep Museum",
+                  "text": "A Kep Museum egy múzeum Kep városában.",
+                  "category": "museum",
+                  "coords": [
+                        104.317065,
+                        10.486146
+                  ]
+            },
+            {
+                  "name": "Angkor Beach Viewpoint",
+                  "text": "Az Angkor Beach Viewpoint egy kilátó Kep városában.",
+                  "category": "natural",
+                  "coords": [
+                        104.302034,
+                        10.497806
+                  ]
+            },
+            {
+                  "name": "Ocean View",
+                  "text": "Az Ocean View egy kilátó Kep városában.",
+                  "category": "natural",
+                  "coords": [
+                        104.290132,
+                        10.478114
+                  ]
+            },
+            {
+                  "name": "វិមានឯករាជ្យ",
+                  "text": "Az Independence Monument egy emlékmű Kep városában.",
+                  "category": "historical",
+                  "coords": [
+                        104.315101,
+                        10.484296
+                  ]
+            },
+            {
+                  "name": "Crab Statue",
+                  "text": "A Crab Monument egy emlékmű Kep városában.",
+                  "category": "historical",
+                  "coords": [
+                        104.29935,
+                        10.476427
+                  ]
+            },
+            {
+                  "name": "Kep butterfly garden",
+                  "text": "A Kep butterfly garden egy látványosság Kep városában.",
+                  "category": "landmark",
+                  "coords": [
+                        104.303316,
+                        10.495624
+                  ]
+            },
+            {
+                  "name": "Kampot Viewpoint",
+                  "text": "A Kampot Viewpoint egy kilátó Kep városában.",
+                  "category": "natural",
+                  "coords": [
+                        104.297841,
+                        10.50056
+                  ]
+            },
+            {
+                  "name": "Sunset Rock",
+                  "text": "A Sunset Rock egy kilátó Kep városában.",
+                  "category": "natural",
+                  "coords": [
+                        104.298642,
+                        10.485544
+                  ]
+            },
+            {
+                  "name": "Patio Pepper Plantation in Kep",
+                  "text": "A Patio Pepper Plantation in Kep egy látványosság Kep városában.",
+                  "category": "landmark",
+                  "coords": [
+                        104.320232,
+                        10.503452
+                  ]
+            },
+            {
+                  "name": "Little Buddha",
+                  "text": "Egy kis Buddha-emlékmű Kep városában.",
+                  "category": "historical",
+                  "coords": [
+                        104.299604,
+                        10.485416
+                  ]
+            },
+            {
+                  "name": "Good place for sunset",
+                  "text": "Kiváló kilátó Kepben a naplemente megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        104.300519,
+                        10.476233
+                  ]
+            },
+            {
+                  "name": "Buddha Statue",
+                  "text": "Buddha-szobor a tengerparti Kep városában.",
+                  "category": "historical",
+                  "coords": [
+                        104.297977,
+                        10.479488
+                  ]
+            },
+            {
+                  "name": "Viewpoint over Kep Beach",
+                  "text": "Kilátópont, ahonnan rálátni a kepi strandra.",
+                  "category": "natural",
+                  "coords": [
+                        104.296233,
+                        10.479165
+                  ]
+            },
+            {
+                  "name": "Historic Royal Residence & Gardens",
+                  "text": "Történelmi királyi rezidencia és kert Kepben.",
+                  "category": "landmark",
+                  "coords": [
+                        104.290543,
+                        10.47926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kep Museum",
+                  "text": "Kep Museum este un muzeu situat în Kep.",
+                  "category": "museum",
+                  "coords": [
+                        104.317065,
+                        10.486146
+                  ]
+            },
+            {
+                  "name": "Angkor Beach Viewpoint",
+                  "text": "Angkor Beach Viewpoint este un punct de belvedere situat în Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.302034,
+                        10.497806
+                  ]
+            },
+            {
+                  "name": "Ocean View",
+                  "text": "Ocean View este un punct de belvedere situat în Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.290132,
+                        10.478114
+                  ]
+            },
+            {
+                  "name": "វិមានឯករាជ្យ",
+                  "text": "Independence Monument este un monument situat în Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.315101,
+                        10.484296
+                  ]
+            },
+            {
+                  "name": "Crab Statue",
+                  "text": "Crab Monument este un monument situat în Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.29935,
+                        10.476427
+                  ]
+            },
+            {
+                  "name": "Kep butterfly garden",
+                  "text": "Kep butterfly garden este o atracție situată în Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.303316,
+                        10.495624
+                  ]
+            },
+            {
+                  "name": "Kampot Viewpoint",
+                  "text": "Kampot Viewpoint este un punct de belvedere situat în Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.297841,
+                        10.50056
+                  ]
+            },
+            {
+                  "name": "Sunset Rock",
+                  "text": "Sunset Rock este un punct de belvedere situat în Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.298642,
+                        10.485544
+                  ]
+            },
+            {
+                  "name": "Patio Pepper Plantation in Kep",
+                  "text": "Patio Pepper Plantation in Kep este o atracție situată în Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.320232,
+                        10.503452
+                  ]
+            },
+            {
+                  "name": "Little Buddha",
+                  "text": "Un mic monument dedicat lui Buddha în Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.299604,
+                        10.485416
+                  ]
+            },
+            {
+                  "name": "Good place for sunset",
+                  "text": "Un punct de belvedere excelent în Kep pentru a urmări apusul.",
+                  "category": "natural",
+                  "coords": [
+                        104.300519,
+                        10.476233
+                  ]
+            },
+            {
+                  "name": "Buddha Statue",
+                  "text": "O statuie a lui Buddha din orașul de coastă Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.297977,
+                        10.479488
+                  ]
+            },
+            {
+                  "name": "Viewpoint over Kep Beach",
+                  "text": "Un punct de belvedere cu vedere la plaja din Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.296233,
+                        10.479165
+                  ]
+            },
+            {
+                  "name": "Historic Royal Residence & Gardens",
+                  "text": "O reședință regală istorică cu grădini în Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.290543,
+                        10.47926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kep Museum",
+                  "text": "Kep Museum is a museum located in Kep.",
+                  "category": "museum",
+                  "coords": [
+                        104.317065,
+                        10.486146
+                  ]
+            },
+            {
+                  "name": "Angkor Beach Viewpoint",
+                  "text": "Angkor Beach Viewpoint is a viewpoint located in Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.302034,
+                        10.497806
+                  ]
+            },
+            {
+                  "name": "Ocean View",
+                  "text": "Ocean View is a viewpoint located in Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.290132,
+                        10.478114
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Independence Monument is a monument located in Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.315101,
+                        10.484296
+                  ]
+            },
+            {
+                  "name": "Crab Monument",
+                  "text": "Crab Monument is a monument located in Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.29935,
+                        10.476427
+                  ]
+            },
+            {
+                  "name": "Kep butterfly garden",
+                  "text": "Kep butterfly garden is an attraction located in Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.303316,
+                        10.495624
+                  ]
+            },
+            {
+                  "name": "Kampot Viewpoint",
+                  "text": "Kampot Viewpoint is a viewpoint located in Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.297841,
+                        10.50056
+                  ]
+            },
+            {
+                  "name": "Sunset Rock",
+                  "text": "Sunset Rock is a viewpoint located in Kep.",
+                  "category": "natural",
+                  "coords": [
+                        104.298642,
+                        10.485544
+                  ]
+            },
+            {
+                  "name": "Patio Pepper Plantation in Kep",
+                  "text": "Patio Pepper Plantation in Kep is an attraction located in Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.320232,
+                        10.503452
+                  ]
+            },
+            {
+                  "name": "Little Buddha",
+                  "text": "A small Buddha monument in Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.299604,
+                        10.485416
+                  ]
+            },
+            {
+                  "name": "Good place for sunset",
+                  "text": "A scenic viewpoint in Kep ideal for watching the sunset.",
+                  "category": "natural",
+                  "coords": [
+                        104.300519,
+                        10.476233
+                  ]
+            },
+            {
+                  "name": "Buddha Statue",
+                  "text": "A Buddha statue located in the coastal city of Kep.",
+                  "category": "historical",
+                  "coords": [
+                        104.297977,
+                        10.479488
+                  ]
+            },
+            {
+                  "name": "Viewpoint over Kep Beach",
+                  "text": "A viewpoint offering scenic views over Kep Beach.",
+                  "category": "natural",
+                  "coords": [
+                        104.296233,
+                        10.479165
+                  ]
+            },
+            {
+                  "name": "Historic Royal Residence & Gardens",
+                  "text": "A historic royal residence and gardens in Kep.",
+                  "category": "landmark",
+                  "coords": [
+                        104.290543,
+                        10.47926
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-23",
     coords: [104.3167, 10.4833],
@@ -556,7 +3895,52 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Kampot", "Population d'environ 39 000 habitants", "148 km au sud-ouest de Phnom Penh", "Port le plus important pendant le protectorat 1863-1953", "Poivre de Kampot sous IGP de l'UE depuis 2010", "Culture du poivre depuis le XIIIe siècle", "Culture du poivre presque anéantie entre 1975 et 1979", "Station de Bokor (1 080 m) à proximité"],
     }, image: "/poi-images/cambodia-kampot-cities-v2.webp"},
   {
-    id: "cambodia-pailin-cities-v2",
+    id: "cambodia-pailin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "រង្វង់មូល​ត្បូង​ប៉ៃលិន​",
+                  "text": "Denkmal in Pailin.",
+                  "category": "historical",
+                  "coords": [
+                        102.614317,
+                        12.845992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "រង្វង់មូល​ត្បូង​ប៉ៃលិន​",
+                  "text": "Emlékmű Pailinban.",
+                  "category": "historical",
+                  "coords": [
+                        102.614317,
+                        12.845992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "រង្វង់មូល​ត្បូង​ប៉ៃលិន​",
+                  "text": "Monument în Pailin.",
+                  "category": "historical",
+                  "coords": [
+                        102.614317,
+                        12.845992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tbong Pailin Roundabout",
+                  "text": "Monument in Pailin.",
+                  "category": "historical",
+                  "coords": [
+                        102.614317,
+                        12.845992
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-24",
     coords: [102.6083, 12.8488],
@@ -599,7 +3983,52 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Population d'environ 31 000 habitants", "379 km au nord-ouest de Phnom Penh", "Rattachée au Cambodge seulement en 1907 (auparavant au Siam)", "Protectorat français à partir de 1863", "Dernier bastion des Khmers rouges 1979-1996", "Capitulation d'Ieng Sary en 1996", "Wat Phnom Yat dominant la ville"],
     }, image: "/poi-images/cambodia-pailin-cities-v2.webp"},
   {
-    id: "cambodia-kratie-cities-v2",
+    id: "cambodia-kratie-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theater of Kratie Province",
+                  "text": "Das Theater der Provinz in Kratie.",
+                  "category": "cultural",
+                  "coords": [
+                        106.018196,
+                        12.482417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theater of Kratie Province",
+                  "text": "Színházépület Kratie tartományban.",
+                  "category": "cultural",
+                  "coords": [
+                        106.018196,
+                        12.482417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theater of Kratie Province",
+                  "text": "Teatrul provinciei din orașul Kratie.",
+                  "category": "cultural",
+                  "coords": [
+                        106.018196,
+                        12.482417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theater of Kratie Province",
+                  "text": "The provincial theater located in Kratie.",
+                  "category": "cultural",
+                  "coords": [
+                        106.018196,
+                        12.482417
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-10",
     coords: [106.0167, 12.4833],
@@ -685,7 +4114,52 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Stung Treng", "Population env. 30 000", "455 km au nord-est de Phnom Penh", "Rattachée au Cambodge seulement en 1904 (auparavant Champassak/Laos)", "Protectorat français à partir de 1863", "Confluent du Mékong, de la Sékong et de la Sesan", "Dauphins d'Anlong Cheuteal à la frontière laotienne", "Évacuée sous les Khmers rouges entre 1975 et 1979"],
     }, image: "/poi-images/cambodia-stung-treng-cities-v2.webp"},
   {
-    id: "cambodia-banlung-cities-v2",
+    id: "cambodia-banlung-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cultural Center",
+                  "text": "Kulturzentrum und Museum in Banlung.",
+                  "category": "museum",
+                  "coords": [
+                        107.0121,
+                        13.731975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cultural Center",
+                  "text": "Kulturális központ és múzeum Banlungban.",
+                  "category": "museum",
+                  "coords": [
+                        107.0121,
+                        13.731975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cultural Center",
+                  "text": "Centru cultural și muzeu în Banlung.",
+                  "category": "museum",
+                  "coords": [
+                        107.0121,
+                        13.731975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cultural Center",
+                  "text": "Cultural center and museum in Banlung.",
+                  "category": "museum",
+                  "coords": [
+                        107.0121,
+                        13.731975
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-16",
     coords: [107.0000, 13.7333],
@@ -728,7 +4202,88 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Ratanakiri", "Population env. 25 000", "588 km au nord-est de Phnom Penh", "Terre de 12 peuples autochtones des montagnes", "Protectorat français à partir de 1863", "Bombardements américains 1969-1973", "Lac de cratère Yeak Laom (volcanique)", "Sol de latérite rouge ('Ville Rouge')"],
     }, image: "/poi-images/cambodia-banlung-cities-v2.webp"},
   {
-    id: "cambodia-sen-monorom-cities-v2",
+    id: "cambodia-sen-monorom-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sen Monorom Waterfall",
+                  "text": "Ein malerischer Wasserfall in Sen Monorom.",
+                  "category": "landmark",
+                  "coords": [
+                        107.159639,
+                        12.442024
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលគោព្រៃ",
+                  "text": "Ein Denkmal in Form eines Kreisverkehrs in Sen Monorom.",
+                  "category": "historical",
+                  "coords": [
+                        107.185763,
+                        12.460188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sen Monorom Waterfall",
+                  "text": "Festői vízesés Sen Monorom városában.",
+                  "category": "landmark",
+                  "coords": [
+                        107.159639,
+                        12.442024
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលគោព្រៃ",
+                  "text": "Körforgalom emlékműve Sen Monorom városában.",
+                  "category": "historical",
+                  "coords": [
+                        107.185763,
+                        12.460188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sen Monorom Waterfall",
+                  "text": "O cascadă pitorească în Sen Monorom.",
+                  "category": "landmark",
+                  "coords": [
+                        107.159639,
+                        12.442024
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលគោព្រៃ",
+                  "text": "Un monument amenajat într-un sens giratoriu din Sen Monorom.",
+                  "category": "historical",
+                  "coords": [
+                        107.185763,
+                        12.460188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sen Monorom Waterfall",
+                  "text": "A scenic waterfall attraction in Sen Monorom.",
+                  "category": "landmark",
+                  "coords": [
+                        107.159639,
+                        12.442024
+                  ]
+            },
+            {
+                  "name": "Kouprey Roundabout",
+                  "text": "A roundabout monument located in Sen Monorom.",
+                  "category": "historical",
+                  "coords": [
+                        107.185763,
+                        12.460188
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-11",
     coords: [107.1833, 12.4500],
@@ -814,7 +4369,124 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Preah Vihear", "Officiellement Tbeng Meanchey", "Population d'environ 25 000 habitants", "295 km au nord-est de Phnom Penh", "Temple de Prasat Preah Vihear classé à l'UNESCO depuis 2008", "Temple du XIe siècle (Empire khmer)", "Arrêt de la CIJ en 1962 (définitif en 2013)", "Protectorat français à partir de 1863"],
     }, image: "/poi-images/cambodia-preah-vihear-cities-v2.webp"},
   {
-    id: "cambodia-kampong-thom-cities-v2",
+    id: "cambodia-kampong-thom-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "សារមន្ទីរ ខេត្តកំពង់ធំ",
+                  "text": "Museum zur Geschichte der Region Kampong Thom.",
+                  "category": "museum",
+                  "coords": [
+                        104.888664,
+                        12.726985
+                  ]
+            },
+            {
+                  "name": "Damrey Joan Khla",
+                  "text": "Denkmal in Kampong Thom.",
+                  "category": "historical",
+                  "coords": [
+                        104.889955,
+                        12.708666
+                  ]
+            },
+            {
+                  "name": "Independence Monumet",
+                  "text": "Unabhängigkeitsdenkmal in Kampong Thom.",
+                  "category": "historical",
+                  "coords": [
+                        104.888857,
+                        12.711353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "សារមន្ទីរ ខេត្តកំពង់ធំ",
+                  "text": "Múzeum Kampong Thom régiójának történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        104.888664,
+                        12.726985
+                  ]
+            },
+            {
+                  "name": "Damrey Joan Khla",
+                  "text": "Emlékmű Kampong Thomban.",
+                  "category": "historical",
+                  "coords": [
+                        104.889955,
+                        12.708666
+                  ]
+            },
+            {
+                  "name": "Independence Monumet",
+                  "text": "Függetlenségi emlékmű Kampong Thomban.",
+                  "category": "historical",
+                  "coords": [
+                        104.888857,
+                        12.711353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "សារមន្ទីរ ខេត្តកំពង់ធំ",
+                  "text": "Muzeu despre istoria regiunii Kampong Thom.",
+                  "category": "museum",
+                  "coords": [
+                        104.888664,
+                        12.726985
+                  ]
+            },
+            {
+                  "name": "Damrey Joan Khla",
+                  "text": "Monument în Kampong Thom.",
+                  "category": "historical",
+                  "coords": [
+                        104.889955,
+                        12.708666
+                  ]
+            },
+            {
+                  "name": "Independence Monumet",
+                  "text": "Monumentul Independenței în Kampong Thom.",
+                  "category": "historical",
+                  "coords": [
+                        104.888857,
+                        12.711353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kampong Thom Museum",
+                  "text": "Museum about the history of the Kampong Thom region.",
+                  "category": "museum",
+                  "coords": [
+                        104.888664,
+                        12.726985
+                  ]
+            },
+            {
+                  "name": "Damrey Joan Khla",
+                  "text": "Monument in Kampong Thom.",
+                  "category": "historical",
+                  "coords": [
+                        104.889955,
+                        12.708666
+                  ]
+            },
+            {
+                  "name": "Independence Monumet",
+                  "text": "Independence Monument in Kampong Thom.",
+                  "category": "historical",
+                  "coords": [
+                        104.888857,
+                        12.711353
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-06",
     coords: [104.8833, 12.7167],
@@ -857,7 +4529,88 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Kampong Thom", "Population env. 66 000", "165 km au nord de Phnom Penh", "Sambor Prei Kuk classé à l'UNESCO depuis 2017", "Isanapura : capitale du Chenla au VIIe siècle", "Protectorat français à partir de 1863", "Province de naissance de Pol Pot (1925)"],
     }, image: "/poi-images/cambodia-kampong-thom-cities-v2.webp"},
   {
-    id: "cambodia-sisophon-cities-v2",
+    id: "cambodia-sisophon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "សារមន្ទីរខេត្ត បន្ទាយមានជ័យ",
+                  "text": "Das Provinzmuseum Banteay Mean in Sisophon.",
+                  "category": "museum",
+                  "coords": [
+                        102.972221,
+                        13.58939
+                  ]
+            },
+            {
+                  "name": "Shapely Women Statue",
+                  "text": "Eine Statue, die wohlgeformte Frauen darstellt, in Sisophon.",
+                  "category": "historical",
+                  "coords": [
+                        102.973823,
+                        13.58361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "សារមន្ទីរខេត្ត បន្ទាយមានជ័យ",
+                  "text": "A Banteay Mean tartományi múzeum Sisophonban.",
+                  "category": "museum",
+                  "coords": [
+                        102.972221,
+                        13.58939
+                  ]
+            },
+            {
+                  "name": "Shapely Women Statue",
+                  "text": "Női alakokat ábrázoló szobor Sisophonban.",
+                  "category": "historical",
+                  "coords": [
+                        102.973823,
+                        13.58361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "សារមន្ទីរខេត្ត បន្ទាយមានជ័យ",
+                  "text": "Muzeul provincial Banteay Mean din Sisophon.",
+                  "category": "museum",
+                  "coords": [
+                        102.972221,
+                        13.58939
+                  ]
+            },
+            {
+                  "name": "Shapely Women Statue",
+                  "text": "O statuie reprezentând femei cu forme armonioase în Sisophon.",
+                  "category": "historical",
+                  "coords": [
+                        102.973823,
+                        13.58361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banteay Mean Provincial Museum",
+                  "text": "The Banteay Mean Provincial Museum in Sisophon.",
+                  "category": "museum",
+                  "coords": [
+                        102.972221,
+                        13.58939
+                  ]
+            },
+            {
+                  "name": "Shapely Women Statue",
+                  "text": "A statue depicting shapely women in Sisophon.",
+                  "category": "historical",
+                  "coords": [
+                        102.973823,
+                        13.58361
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-01",
     coords: [102.9736, 13.5858],
@@ -943,7 +4696,88 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Capitale de la province de Prey Veng", "Population env. 70 000", "90 km à l'est de Phnom Penh", "Plus de 10 % de la production nationale de riz", "Le nom signifie \"Longue Forêt\"", "Protectorat français à partir de 1863", "Inondations dues aux crues du Tonlé Sap", "Sites des Champs de la mort 1975-1979"],
     }, image: "/poi-images/cambodia-prey-veng-cities-v2.webp"},
   {
-    id: "cambodia-svay-rieng-cities-v2",
+    id: "cambodia-svay-rieng-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "រង្វង់​មូល​ ស្រះ​វង់​",
+                  "text": "Denkmal in Svay Rieng.",
+                  "category": "historical",
+                  "coords": [
+                        105.802064,
+                        11.083273
+                  ]
+            },
+            {
+                  "name": "រង្វង់​មូល​បេនឡាន​ ផ្សារ​វាលយន្ត",
+                  "text": "Marktdenkmal in Svay Rieng.",
+                  "category": "historical",
+                  "coords": [
+                        105.796898,
+                        11.082323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "រង្វង់​មូល​ ស្រះ​វង់​",
+                  "text": "Emlékmű Svay Riengben.",
+                  "category": "historical",
+                  "coords": [
+                        105.802064,
+                        11.083273
+                  ]
+            },
+            {
+                  "name": "រង្វង់​មូល​បេនឡាន​ ផ្សារ​វាលយន្ត",
+                  "text": "Piactéri emlékmű Svay Riengben.",
+                  "category": "historical",
+                  "coords": [
+                        105.796898,
+                        11.082323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "រង្វង់​មូល​ ស្រះ​វង់​",
+                  "text": "Monument în Svay Rieng.",
+                  "category": "historical",
+                  "coords": [
+                        105.802064,
+                        11.083273
+                  ]
+            },
+            {
+                  "name": "រង្វង់​មូល​បេនឡាន​ ផ្សារ​វាលយន្ត",
+                  "text": "Monument de piață în Svay Rieng.",
+                  "category": "historical",
+                  "coords": [
+                        105.796898,
+                        11.082323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "រង្វង់​មូល​ ស្រះ​វង់​",
+                  "text": "Monument in Svay Rieng.",
+                  "category": "historical",
+                  "coords": [
+                        105.802064,
+                        11.083273
+                  ]
+            },
+            {
+                  "name": "Roundabout Veal Youn Market",
+                  "text": "Market monument in Svay Rieng.",
+                  "category": "historical",
+                  "coords": [
+                        105.796898,
+                        11.082323
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-20",
     coords: [105.8000, 11.0833],
@@ -1072,7 +4906,196 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       fr: ["Capitale de la province d'Oddar Meanchey", "Population env. 24 000", "415 km au nord-ouest de Phnom Penh", "Poste frontière d'O'Smach vers la Thaïlande", "Protectorat français à partir de 1863", "\"Région 5\" des Khmers rouges 1975-1979", "Dernier bastion des Khmers rouges jusqu'en 1998", "Pol Pot est mort dans la province en 1998"],
     }, image: "/poi-images/cambodia-samraong-cities-v2.webp"},
   {
-    id: "cambodia-kampong-chhnang-cities-v2",
+    id: "cambodia-kampong-chhnang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "រោងល្ខោនចាស់",
+                  "text": "Altes Theater in Kampong Chhnang.",
+                  "category": "cultural",
+                  "coords": [
+                        104.679989,
+                        12.267431
+                  ]
+            },
+            {
+                  "name": "សារមន្ទីរ ខេត្តកំពង់ឆ្នាំង",
+                  "text": "Museum in Kampong Chhnang.",
+                  "category": "museum",
+                  "coords": [
+                        104.666765,
+                        12.254467
+                  ]
+            },
+            {
+                  "name": "វិមានឯករាជ្យ",
+                  "text": "Unabhängigkeitsdenkmal in Kampong Chhnang.",
+                  "category": "historical",
+                  "coords": [
+                        104.668427,
+                        12.250958
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលទូក",
+                  "text": "Denkmal in Kampong Chhnang.",
+                  "category": "historical",
+                  "coords": [
+                        104.659396,
+                        12.275429
+                  ]
+            },
+            {
+                  "name": "កណ្ដាល (ភូមិ)",
+                  "text": "Aussichtspunkt in Kampong Chhnang.",
+                  "category": "natural",
+                  "coords": [
+                        104.683644,
+                        12.266286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "រោងល្ខោនចាស់",
+                  "text": "Régi színház Kampong Chhnangban.",
+                  "category": "cultural",
+                  "coords": [
+                        104.679989,
+                        12.267431
+                  ]
+            },
+            {
+                  "name": "សារមន្ទីរ ខេត្តកំពង់ឆ្នាំង",
+                  "text": "Múzeum Kampong Chhnangban.",
+                  "category": "museum",
+                  "coords": [
+                        104.666765,
+                        12.254467
+                  ]
+            },
+            {
+                  "name": "វិមានឯករាជ្យ",
+                  "text": "Függetlenségi emlékmű Kampong Chhnangban.",
+                  "category": "historical",
+                  "coords": [
+                        104.668427,
+                        12.250958
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលទូក",
+                  "text": "Emlékmű Kampong Chhnangban.",
+                  "category": "historical",
+                  "coords": [
+                        104.659396,
+                        12.275429
+                  ]
+            },
+            {
+                  "name": "កណ្ដាល (ភូមិ)",
+                  "text": "Kilátópont Kampong Chhnangban.",
+                  "category": "natural",
+                  "coords": [
+                        104.683644,
+                        12.266286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "រោងល្ខោនចាស់",
+                  "text": "Teatru vechi în Kampong Chhnang.",
+                  "category": "cultural",
+                  "coords": [
+                        104.679989,
+                        12.267431
+                  ]
+            },
+            {
+                  "name": "សារមន្ទីរ ខេត្តកំពង់ឆ្នាំង",
+                  "text": "Muzeu în Kampong Chhnang.",
+                  "category": "museum",
+                  "coords": [
+                        104.666765,
+                        12.254467
+                  ]
+            },
+            {
+                  "name": "វិមានឯករាជ្យ",
+                  "text": "Monumentul Independenței în Kampong Chhnang.",
+                  "category": "historical",
+                  "coords": [
+                        104.668427,
+                        12.250958
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលទូក",
+                  "text": "Monument în Kampong Chhnang.",
+                  "category": "historical",
+                  "coords": [
+                        104.659396,
+                        12.275429
+                  ]
+            },
+            {
+                  "name": "កណ្ដាល (ភូមិ)",
+                  "text": "Punct de vedere în Kampong Chhnang.",
+                  "category": "natural",
+                  "coords": [
+                        104.683644,
+                        12.266286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old theater",
+                  "text": "Old theater in Kampong Chhnang.",
+                  "category": "cultural",
+                  "coords": [
+                        104.679989,
+                        12.267431
+                  ]
+            },
+            {
+                  "name": "Kampong Chhnang Museum",
+                  "text": "Museum in Kampong Chhnang.",
+                  "category": "museum",
+                  "coords": [
+                        104.666765,
+                        12.254467
+                  ]
+            },
+            {
+                  "name": "Independence Monument",
+                  "text": "Independence Monument in Kampong Chhnang.",
+                  "category": "historical",
+                  "coords": [
+                        104.668427,
+                        12.250958
+                  ]
+            },
+            {
+                  "name": "រង្វង់មូលទូក",
+                  "text": "Monument in Kampong Chhnang.",
+                  "category": "historical",
+                  "coords": [
+                        104.659396,
+                        12.275429
+                  ]
+            },
+            {
+                  "name": "Kandal Village",
+                  "text": "Viewpoint in Kampong Chhnang.",
+                  "category": "natural",
+                  "coords": [
+                        104.683644,
+                        12.266286
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KH-04",
     coords: [104.6667, 12.2500],

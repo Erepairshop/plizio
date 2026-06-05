@@ -54,7 +54,88 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "phuntsholing-cities-v2",
+    id: "phuntsholing-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jaigaon View Point",
+                  "text": "Der Jaigaon View Point ist ein Aussichtspunkt in Phuntsholing, der einen Panoramablick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        89.385452,
+                        26.850198
+                  ]
+            },
+            {
+                  "name": "Bhutan Gate",
+                  "text": "Das Bhutan Gate ist ein markantes Denkmal, das den Eingang nach Phuntsholing markiert.",
+                  "category": "historical",
+                  "coords": [
+                        89.38081,
+                        26.861273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jaigaon View Point",
+                  "text": "A Jaigaon View Point egy kilátó Phuntsholingban, amely panorámás kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        89.385452,
+                        26.850198
+                  ]
+            },
+            {
+                  "name": "Bhutan Gate",
+                  "text": "A Bhután-kapu egy kiemelkedő emlékmű, amely a Phuntsholingba vezető belépési pontot jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        89.38081,
+                        26.861273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jaigaon View Point",
+                  "text": "Jaigaon View Point este un punct de observație în Phuntsholing, care oferă priveliști panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        89.385452,
+                        26.850198
+                  ]
+            },
+            {
+                  "name": "Bhutan Gate",
+                  "text": "Poarta Bhutanului este un monument proeminent care marchează punctul de intrare în Phuntsholing.",
+                  "category": "historical",
+                  "coords": [
+                        89.38081,
+                        26.861273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jaigaon View Point",
+                  "text": "Jaigaon View Point is an observation spot in Phuntsholing offering panoramic vistas.",
+                  "category": "natural",
+                  "coords": [
+                        89.385452,
+                        26.850198
+                  ]
+            },
+            {
+                  "name": "Bhutan Gate",
+                  "text": "Bhutan Gate is a prominent monument marking the entry point to Phuntsholing.",
+                  "category": "historical",
+                  "coords": [
+                        89.38081,
+                        26.861273
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-12",
     coords: [89.3833, 26.8500],
@@ -111,7 +192,160 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "paro-cities-v2",
+    id: "paro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "འབྲུག་རྒྱལ་ཡོངས་འགྲེམས་སྟོན་ཁང་།",
+                  "text": "Das Nationalmuseum von Bhutan in Paro bewahrt das kulturelle Erbe des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        89.425498,
+                        27.42876
+                  ]
+            },
+            {
+                  "name": "Zuri Dzong",
+                  "text": "Zuri Dzong ist eine befestigte Burg in Paro.",
+                  "category": "castle",
+                  "coords": [
+                        89.428087,
+                        27.422421
+                  ]
+            },
+            {
+                  "name": "|White Lotus Art Gallery",
+                  "text": "Die White Lotus Art Gallery ist ein Ausstellungsort für Kunst in Paro.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415685,
+                        27.429688
+                  ]
+            },
+            {
+                  "name": "Jangtsa Dumtseg Lhakhang",
+                  "text": "Jangtsa Dumtseg Lhakhang ist ein einzigartiger Tempel in Paro.",
+                  "category": "religious",
+                  "coords": [
+                        89.413395,
+                        27.435195
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "འབྲུག་རྒྱལ་ཡོངས་འགྲེམས་སྟོན་ཁང་།",
+                  "text": "A bhutáni Nemzeti Múzeum Paróban az ország kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        89.425498,
+                        27.42876
+                  ]
+            },
+            {
+                  "name": "Zuri Dzong",
+                  "text": "Zuri Dzong egy erődített kastély Paróban.",
+                  "category": "castle",
+                  "coords": [
+                        89.428087,
+                        27.422421
+                  ]
+            },
+            {
+                  "name": "|White Lotus Art Gallery",
+                  "text": "A White Lotus Művészeti Galéria egy kiállítóhely Paróban.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415685,
+                        27.429688
+                  ]
+            },
+            {
+                  "name": "Jangtsa Dumtseg Lhakhang",
+                  "text": "Jangtsa Dumtseg Lhakhang egy egyedülálló templom Paróban.",
+                  "category": "religious",
+                  "coords": [
+                        89.413395,
+                        27.435195
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "འབྲུག་རྒྱལ་ཡོངས་འགྲེམས་སྟོན་ཁང་།",
+                  "text": "Muzeul Național al Bhutanului din Paro conservă patrimoniul cultural al țării.",
+                  "category": "museum",
+                  "coords": [
+                        89.425498,
+                        27.42876
+                  ]
+            },
+            {
+                  "name": "Zuri Dzong",
+                  "text": "Zuri Dzong este un castel fortificat din Paro.",
+                  "category": "castle",
+                  "coords": [
+                        89.428087,
+                        27.422421
+                  ]
+            },
+            {
+                  "name": "|White Lotus Art Gallery",
+                  "text": "Galeria de Artă White Lotus este un spațiu expozițional din Paro.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415685,
+                        27.429688
+                  ]
+            },
+            {
+                  "name": "Jangtsa Dumtseg Lhakhang",
+                  "text": "Jangtsa Dumtseg Lhakhang este un templu unic din Paro.",
+                  "category": "religious",
+                  "coords": [
+                        89.413395,
+                        27.435195
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Bhutan",
+                  "text": "The National Museum of Bhutan in Paro preserves the country's cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        89.425498,
+                        27.42876
+                  ]
+            },
+            {
+                  "name": "Zuri Dzong",
+                  "text": "Zuri Dzong is a fortified castle in Paro.",
+                  "category": "castle",
+                  "coords": [
+                        89.428087,
+                        27.422421
+                  ]
+            },
+            {
+                  "name": "|White Lotus Art Gallery",
+                  "text": "The White Lotus Art Gallery is an exhibition space in Paro.",
+                  "category": "cultural",
+                  "coords": [
+                        89.415685,
+                        27.429688
+                  ]
+            },
+            {
+                  "name": "Jangtsa Dumtseg Lhakhang",
+                  "text": "Jangtsa Dumtseg Lhakhang is a unique temple in Paro.",
+                  "category": "religious",
+                  "coords": [
+                        89.413395,
+                        27.435195
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-11",
     coords: [89.4167, 27.4333],
@@ -225,7 +459,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "samdrup-jongkhar-cities-v2",
+    id: "samdrup-jongkhar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Performance Ground",
+                  "text": "Der Performance Ground dient als Theater und Veranstaltungsort in Samdrup Jongkhar.",
+                  "category": "cultural",
+                  "coords": [
+                        91.505112,
+                        26.798374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Performance Ground",
+                  "text": "A Performance Ground színházként és rendezvénytérként működik Samdrup Jongkhar városában.",
+                  "category": "cultural",
+                  "coords": [
+                        91.505112,
+                        26.798374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Performance Ground",
+                  "text": "Performance Ground servește ca teatru și spațiu pentru evenimente în Samdrup Jongkhar.",
+                  "category": "cultural",
+                  "coords": [
+                        91.505112,
+                        26.798374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Performance Ground",
+                  "text": "The Performance Ground serves as a theatre and event space in Samdrup Jongkhar.",
+                  "category": "cultural",
+                  "coords": [
+                        91.505112,
+                        26.798374
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-45",
     coords: [91.5000, 26.8000],
@@ -339,7 +618,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "punakha-cities-v2",
+    id: "punakha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Changyul Galem House",
+                  "text": "Changyul Galem House ist ein Denkmal in Punakha.",
+                  "category": "historical",
+                  "coords": [
+                        89.861161,
+                        27.590353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Changyul Galem House",
+                  "text": "A Changyul Galem House egy emlékmű Punakha városában.",
+                  "category": "historical",
+                  "coords": [
+                        89.861161,
+                        27.590353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Changyul Galem House",
+                  "text": "Changyul Galem House este un monument în Punakha.",
+                  "category": "historical",
+                  "coords": [
+                        89.861161,
+                        27.590353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Changyul Galem House",
+                  "text": "Changyul Galem House is a monument located in Punakha.",
+                  "category": "historical",
+                  "coords": [
+                        89.861161,
+                        27.590353
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-23",
     coords: [89.8667, 27.5833],
@@ -453,7 +777,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "mongar-cities-v2",
+    id: "mongar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mongar Chorten",
+                  "text": "Das Mongar Chorten ist ein bedeutendes Denkmal in Mongar.",
+                  "category": "historical",
+                  "coords": [
+                        91.236934,
+                        27.277151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mongar Chorten",
+                  "text": "A Mongar Chorten egy jelentős emlékmű Mongarban.",
+                  "category": "historical",
+                  "coords": [
+                        91.236934,
+                        27.277151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mongar Chorten",
+                  "text": "Mongar Chorten este un monument important din Mongar.",
+                  "category": "historical",
+                  "coords": [
+                        91.236934,
+                        27.277151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mongar Chorten",
+                  "text": "The Mongar Chorten is a significant monument in Mongar.",
+                  "category": "historical",
+                  "coords": [
+                        91.236934,
+                        27.277151
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-42",
     coords: [91.2500, 27.2833],
@@ -510,7 +879,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "trashigang-cities-v2",
+    id: "trashigang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trashigang Dzong",
+                  "text": "Trashigang Dzong ist eine Kultstätte in Trashigang.",
+                  "category": "religious",
+                  "coords": [
+                        91.551354,
+                        27.336335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trashigang Dzong",
+                  "text": "A Trashigang Dzong egy istentiszteleti hely Trashigang városában.",
+                  "category": "religious",
+                  "coords": [
+                        91.551354,
+                        27.336335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trashigang Dzong",
+                  "text": "Trashigang Dzong este un lăcaș de cult în Trashigang.",
+                  "category": "religious",
+                  "coords": [
+                        91.551354,
+                        27.336335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trashigang Dzong",
+                  "text": "Trashigang Dzong is a place of worship located in Trashigang.",
+                  "category": "religious",
+                  "coords": [
+                        91.551354,
+                        27.336335
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-41",
     coords: [91.5500, 27.3333],
@@ -567,7 +981,124 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "trongsa-cities-v2",
+    id: "trongsa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ta-Dzong",
+                  "text": "Ta-Dzong ist ein historischer Wachturm in Trongsa, der in ein Museum umgewandelt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        90.508019,
+                        27.499162
+                  ]
+            },
+            {
+                  "name": "Thrupang Palace",
+                  "text": "Der Thrupang-Palast ist eine traditionelle Schlossanlage in Trongsa.",
+                  "category": "castle",
+                  "coords": [
+                        90.508561,
+                        27.504257
+                  ]
+            },
+            {
+                  "name": "Trongsa Dzong",
+                  "text": "Der Trongsa-Dzong ist ein bedeutender Festungs- und Schlosskomplex in Trongsa.",
+                  "category": "castle",
+                  "coords": [
+                        90.505088,
+                        27.499875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ta-Dzong",
+                  "text": "A Ta-Dzong egy történelmi őrtorony, amelyet múzeummá alakítottak át Trongsában.",
+                  "category": "museum",
+                  "coords": [
+                        90.508019,
+                        27.499162
+                  ]
+            },
+            {
+                  "name": "Thrupang Palace",
+                  "text": "A Thrupang Palota egy hagyományos kastélyépület Trongsában.",
+                  "category": "castle",
+                  "coords": [
+                        90.508561,
+                        27.504257
+                  ]
+            },
+            {
+                  "name": "Trongsa Dzong",
+                  "text": "A Trongsa Dzong egy jelentős erődítmény és kastélykomplexum Trongsában.",
+                  "category": "castle",
+                  "coords": [
+                        90.505088,
+                        27.499875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ta-Dzong",
+                  "text": "Ta-Dzong este un turn de veghe istoric transformat într-un muzeu în Trongsa.",
+                  "category": "museum",
+                  "coords": [
+                        90.508019,
+                        27.499162
+                  ]
+            },
+            {
+                  "name": "Thrupang Palace",
+                  "text": "Palatul Thrupang este o structură de castel tradițională situată în Trongsa.",
+                  "category": "castle",
+                  "coords": [
+                        90.508561,
+                        27.504257
+                  ]
+            },
+            {
+                  "name": "Trongsa Dzong",
+                  "text": "Trongsa Dzong este o cetate majoră și un complex de castele situat în Trongsa.",
+                  "category": "castle",
+                  "coords": [
+                        90.505088,
+                        27.499875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ta-Dzong",
+                  "text": "Ta-Dzong is a historical watchtower converted into a museum in Trongsa.",
+                  "category": "museum",
+                  "coords": [
+                        90.508019,
+                        27.499162
+                  ]
+            },
+            {
+                  "name": "Thrupang Palace",
+                  "text": "Thrupang Palace is a traditional castle structure located in Trongsa.",
+                  "category": "castle",
+                  "coords": [
+                        90.508561,
+                        27.504257
+                  ]
+            },
+            {
+                  "name": "Trongsa Dzong",
+                  "text": "Trongsa Dzong is a major fortress and castle complex situated in Trongsa.",
+                  "category": "castle",
+                  "coords": [
+                        90.505088,
+                        27.499875
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-32",
     coords: [90.5000, 27.5000],
@@ -738,7 +1269,196 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "haa-cities-v2",
+    id: "haa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haa Wangchuk LoDzong",
+                  "text": "Der Haa Wangchuk LoDzong ist ein markantes Schloss und Verwaltungszentrum in Haa.",
+                  "category": "castle",
+                  "coords": [
+                        89.292538,
+                        27.371064
+                  ]
+            },
+            {
+                  "name": "Recreational Park",
+                  "text": "Der Recreational Park ist ein Freizeitpark, der Unterhaltungsmöglichkeiten in Haa bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        89.280932,
+                        27.386853
+                  ]
+            },
+            {
+                  "name": "Haa valley view",
+                  "text": "Der Haa valley view ist ein malerischer Aussichtspunkt, der weite Panoramen auf Haa bietet.",
+                  "category": "natural",
+                  "coords": [
+                        89.289298,
+                        27.396568
+                  ]
+            },
+            {
+                  "name": "Yak Monument",
+                  "text": "Das Yak-Denkmal ist eine lokale Statue und ein Monument in Haa.",
+                  "category": "historical",
+                  "coords": [
+                        89.278992,
+                        27.391222
+                  ]
+            },
+            {
+                  "name": "His Majesty the 5th Kings Portrait",
+                  "text": "Das Porträt Seiner Majestät des 5. Königs ist ein Gedenkmonument in Haa.",
+                  "category": "historical",
+                  "coords": [
+                        89.291661,
+                        27.366747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haa Wangchuk LoDzong",
+                  "text": "A Haa Wangchuk LoDzong egy figyelemre méltó kastély és adminisztratív központ Haa városában.",
+                  "category": "castle",
+                  "coords": [
+                        89.292538,
+                        27.371064
+                  ]
+            },
+            {
+                  "name": "Recreational Park",
+                  "text": "A Szabadidőpark egy tematikus park, amely szabadidős tevékenységeket kínál Haa-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        89.280932,
+                        27.386853
+                  ]
+            },
+            {
+                  "name": "Haa valley view",
+                  "text": "A Haa völgyi kilátó egy festői pont, amely széles panorámát nyújt Haa-ra.",
+                  "category": "natural",
+                  "coords": [
+                        89.289298,
+                        27.396568
+                  ]
+            },
+            {
+                  "name": "Yak Monument",
+                  "text": "A Jak Emlékmű egy helyi szobor és emlékmű Haa-ban.",
+                  "category": "historical",
+                  "coords": [
+                        89.278992,
+                        27.391222
+                  ]
+            },
+            {
+                  "name": "His Majesty the 5th Kings Portrait",
+                  "text": "Az 5. Király Őfelsége portréja egy emlékhely Haa városában.",
+                  "category": "historical",
+                  "coords": [
+                        89.291661,
+                        27.366747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haa Wangchuk LoDzong",
+                  "text": "Haa Wangchuk LoDzong este un castel notabil și centru administrativ în Haa.",
+                  "category": "castle",
+                  "coords": [
+                        89.292538,
+                        27.371064
+                  ]
+            },
+            {
+                  "name": "Recreational Park",
+                  "text": "Parcul Recreativ este un parc tematic care oferă activități de agrement în Haa.",
+                  "category": "recreational",
+                  "coords": [
+                        89.280932,
+                        27.386853
+                  ]
+            },
+            {
+                  "name": "Haa valley view",
+                  "text": "Priveliștea văii Haa este un punct de observare pitoresc care oferă panorame largi asupra orașului Haa.",
+                  "category": "natural",
+                  "coords": [
+                        89.289298,
+                        27.396568
+                  ]
+            },
+            {
+                  "name": "Yak Monument",
+                  "text": "Monumentul Iacului este o statuie și un monument local situat în Haa.",
+                  "category": "historical",
+                  "coords": [
+                        89.278992,
+                        27.391222
+                  ]
+            },
+            {
+                  "name": "His Majesty the 5th Kings Portrait",
+                  "text": "Portretul Majestății Sale al 5-lea Rege este un monument comemorativ situat în Haa.",
+                  "category": "historical",
+                  "coords": [
+                        89.291661,
+                        27.366747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haa Wangchuk LoDzong",
+                  "text": "Haa Wangchuk LoDzong is a notable castle and administrative center in Haa.",
+                  "category": "castle",
+                  "coords": [
+                        89.292538,
+                        27.371064
+                  ]
+            },
+            {
+                  "name": "Recreational Park",
+                  "text": "The Recreational Park is a theme park providing leisure activities in Haa.",
+                  "category": "recreational",
+                  "coords": [
+                        89.280932,
+                        27.386853
+                  ]
+            },
+            {
+                  "name": "Haa valley view",
+                  "text": "The Haa valley view is a scenic viewpoint offering sweeping panoramas of Haa.",
+                  "category": "natural",
+                  "coords": [
+                        89.289298,
+                        27.396568
+                  ]
+            },
+            {
+                  "name": "Yak Monument",
+                  "text": "The Yak Monument is a local statue and monument located in Haa.",
+                  "category": "historical",
+                  "coords": [
+                        89.278992,
+                        27.391222
+                  ]
+            },
+            {
+                  "name": "His Majesty the 5th Kings Portrait",
+                  "text": "His Majesty the 5th Kings Portrait is a commemorative monument situated in Haa.",
+                  "category": "historical",
+                  "coords": [
+                        89.291661,
+                        27.366747
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-13",
     coords: [89.2833, 27.3833],
@@ -795,7 +1515,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "lhuntse-cities-v2",
+    id: "lhuntse-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lhuentse Dzong",
+                  "text": "Lhuentse Dzong ist eine historische Burg in Lhuntse.",
+                  "category": "castle",
+                  "coords": [
+                        91.186624,
+                        27.665565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lhuentse Dzong",
+                  "text": "Lhuentse Dzong egy történelmi kastély Lhuncében.",
+                  "category": "castle",
+                  "coords": [
+                        91.186624,
+                        27.665565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lhuentse Dzong",
+                  "text": "Lhuentse Dzong este un castel istoric din Lhuntse.",
+                  "category": "castle",
+                  "coords": [
+                        91.186624,
+                        27.665565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lhuentse Dzong",
+                  "text": "Lhuentse Dzong is a historic castle in Lhuntse.",
+                  "category": "castle",
+                  "coords": [
+                        91.186624,
+                        27.665565
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-44",
     coords: [91.1667, 27.6667],
@@ -909,7 +1674,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "zhemgang-cities-v2",
+    id: "zhemgang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quarterpong",
+                  "text": "Das Hinweisschild ist eine besondere lokale Sehenswürdigkeit in Zhemgang.",
+                  "category": "landmark",
+                  "coords": [
+                        90.656984,
+                        27.214451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quarterpong",
+                  "text": "A jelzőtábla egy különleges helyi látványosság Zhemgangban.",
+                  "category": "landmark",
+                  "coords": [
+                        90.656984,
+                        27.214451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quarterpong",
+                  "text": "Panoul indicator reprezintă o atracție locală distinctă în Zhemgang.",
+                  "category": "landmark",
+                  "coords": [
+                        90.656984,
+                        27.214451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sign board",
+                  "text": "The Sign board stands as a distinct local attraction in Zhemgang.",
+                  "category": "landmark",
+                  "coords": [
+                        90.656984,
+                        27.214451
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-35",
     coords: [90.6500, 27.2167],
@@ -1023,7 +1833,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "daga-cities-v2",
+    id: "daga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "MSTF",
+                  "text": "MSTF ist ein Aussichtspunkt in Daga.",
+                  "category": "natural",
+                  "coords": [
+                        89.8806,
+                        27.073865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MSTF",
+                  "text": "A MSTF egy kilátó Daga városában.",
+                  "category": "natural",
+                  "coords": [
+                        89.8806,
+                        27.073865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MSTF",
+                  "text": "MSTF este un punct de belvedere în Daga.",
+                  "category": "natural",
+                  "coords": [
+                        89.8806,
+                        27.073865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MSTF",
+                  "text": "MSTF is a viewpoint located in Daga.",
+                  "category": "natural",
+                  "coords": [
+                        89.8806,
+                        27.073865
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-22",
     coords: [89.8667, 27.0667],
@@ -1137,7 +1992,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "sarpang-cities-v2",
+    id: "sarpang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Raimona National Park",
+                  "text": "Der Raimona-Nationalpark in Sarpang ist ein wichtiges Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        90.057718,
+                        26.743301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raimona National Park",
+                  "text": "A Sarpangban található Raimona Nemzeti Park egy fontos természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        90.057718,
+                        26.743301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raimona National Park",
+                  "text": "Parcul Național Raimona din Sarpang este o importantă rezervație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        90.057718,
+                        26.743301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Raimona National Park",
+                  "text": "The Raimona National Park in Sarpang is an important nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        90.057718,
+                        26.743301
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-34",
     coords: [90.2667, 26.8667],
@@ -1251,7 +2151,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "deothang-cities-v2",
+    id: "deothang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dewangiri",
+                  "text": "Dewangiri besteht aus historischen Ruinen in der Nähe von Deothang.",
+                  "category": "historical",
+                  "coords": [
+                        91.4646,
+                        26.866487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dewangiri",
+                  "text": "Dewangiri történelmi romokból áll, amelyek Deothang közelében találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        91.4646,
+                        26.866487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dewangiri",
+                  "text": "Dewangiri constă din ruine istorice situate lângă Deothang.",
+                  "category": "historical",
+                  "coords": [
+                        91.4646,
+                        26.866487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dewangiri",
+                  "text": "Dewangiri consists of historical ruins located near Deothang.",
+                  "category": "historical",
+                  "coords": [
+                        91.4646,
+                        26.866487
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-45",
     coords: [91.4667, 26.8667],
@@ -1536,7 +2481,52 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     },
   },
   {
-    id: "khuruthang-cities-v2",
+    id: "khuruthang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chimi Lhakhang",
+                  "text": "Chimi Lhakhang ist eine Kultstätte in Khuruthang.",
+                  "category": "religious",
+                  "coords": [
+                        89.878193,
+                        27.526905
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chimi Lhakhang",
+                  "text": "A Chimi Lhakhang egy istentiszteleti hely Khuruthang városában.",
+                  "category": "religious",
+                  "coords": [
+                        89.878193,
+                        27.526905
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chimi Lhakhang",
+                  "text": "Chimi Lhakhang este un lăcaș de cult în Khuruthang.",
+                  "category": "religious",
+                  "coords": [
+                        89.878193,
+                        27.526905
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chimi Lhakhang",
+                  "text": "Chimi Lhakhang is a place of worship located in Khuruthang.",
+                  "category": "religious",
+                  "coords": [
+                        89.878193,
+                        27.526905
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BT-23",
     coords: [89.8833, 27.5333],

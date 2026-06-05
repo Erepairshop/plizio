@@ -295,7 +295,160 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       en: ["Buea is the headquarters of the Fako Department in the Southwest Region.", "The city's name is said to come from 'Muea', the founder of the original settlement.", "It was the first capital of independent West Cameroon until 1972.", "The town's architecture features many 100-year-old structures still in use.", "The Mount Cameroon Race of Hope covers a total distance of 38 kilometers.", "Buea is home to more than 15 professional software engineering firms.", "The humidity levels in Buea are consistently high, often exceeding 80%.", "It is a major center for the production of volcanic soil fertilizers."],
     }, image: "/poi-images/cameroon-buea-cities-v2.webp"},
   {
-    id: "cameroon-kousseri-cities-v2",
+    id: "cameroon-kousseri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muse Sultanat",
+                  "text": "Muse Sultanat ist ein Museum in Kousséri.",
+                  "category": "museum",
+                  "coords": [
+                        15.033168,
+                        12.080257
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Monument ist ein Denkmal in Kousséri.",
+                  "category": "historical",
+                  "coords": [
+                        15.03315,
+                        12.081465
+                  ]
+            },
+            {
+                  "name": "Connection",
+                  "text": "Connection ist eine Sehenswürdigkeit in Kousséri.",
+                  "category": "landmark",
+                  "coords": [
+                        15.053584,
+                        12.097974
+                  ]
+            },
+            {
+                  "name": "Stèle Commandant Lamy",
+                  "text": "Stèle Commandant Lamy ist ein Denkmal in Kousséri.",
+                  "category": "historical",
+                  "coords": [
+                        15.033816,
+                        12.086965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muse Sultanat",
+                  "text": "A Muse Sultanat egy múzeum Kousséri városában.",
+                  "category": "museum",
+                  "coords": [
+                        15.033168,
+                        12.080257
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "A Monument egy emlékmű Kousséri városában.",
+                  "category": "historical",
+                  "coords": [
+                        15.03315,
+                        12.081465
+                  ]
+            },
+            {
+                  "name": "Connection",
+                  "text": "A Connection egy látványosság Kousséri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.053584,
+                        12.097974
+                  ]
+            },
+            {
+                  "name": "Stèle Commandant Lamy",
+                  "text": "A Stèle Commandant Lamy egy emlékmű Kousséri városában.",
+                  "category": "historical",
+                  "coords": [
+                        15.033816,
+                        12.086965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muse Sultanat",
+                  "text": "Muse Sultanat este un muzeu în Kousséri.",
+                  "category": "museum",
+                  "coords": [
+                        15.033168,
+                        12.080257
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Monument este un monument în Kousséri.",
+                  "category": "historical",
+                  "coords": [
+                        15.03315,
+                        12.081465
+                  ]
+            },
+            {
+                  "name": "Connection",
+                  "text": "Connection este o atracție în Kousséri.",
+                  "category": "landmark",
+                  "coords": [
+                        15.053584,
+                        12.097974
+                  ]
+            },
+            {
+                  "name": "Stèle Commandant Lamy",
+                  "text": "Stèle Commandant Lamy este un monument în Kousséri.",
+                  "category": "historical",
+                  "coords": [
+                        15.033816,
+                        12.086965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muse Sultanat",
+                  "text": "Muse Sultanat is a museum in Kousséri.",
+                  "category": "museum",
+                  "coords": [
+                        15.033168,
+                        12.080257
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Monument is a monument in Kousséri.",
+                  "category": "historical",
+                  "coords": [
+                        15.03315,
+                        12.081465
+                  ]
+            },
+            {
+                  "name": "Connection",
+                  "text": "Connection is an attraction in Kousséri.",
+                  "category": "landmark",
+                  "coords": [
+                        15.053584,
+                        12.097974
+                  ]
+            },
+            {
+                  "name": "Stèle Commandant Lamy",
+                  "text": "Stèle Commandant Lamy is a monument in Kousséri.",
+                  "category": "historical",
+                  "coords": [
+                        15.033816,
+                        12.086965
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-EN",
     coords: [15.0333, 12.0833],
@@ -360,7 +513,160 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/cameroon-loum-cities-v2.webp"},
   {
-    id: "cameroon-kumba-cities-v2",
+    id: "cameroon-kumba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mama Endah Residence",
+                  "text": "Ein Aussichtspunkt an der Mama Endah Residenz in Kumba.",
+                  "category": "natural",
+                  "coords": [
+                        9.452272,
+                        4.64009
+                  ]
+            },
+            {
+                  "name": "Awah Eric Residence",
+                  "text": "Eine Sehenswürdigkeit an der Awah Eric Residenz in Kumba.",
+                  "category": "landmark",
+                  "coords": [
+                        9.46541,
+                        4.642238
+                  ]
+            },
+            {
+                  "name": "Matoh Park Junction",
+                  "text": "Eine Sehenswürdigkeit an der Matoh Park Kreuzung in Kumba.",
+                  "category": "landmark",
+                  "coords": [
+                        9.450876,
+                        4.645136
+                  ]
+            },
+            {
+                  "name": "Amusement Parc",
+                  "text": "Ein Freizeitpark in der Stadt Kumba.",
+                  "category": "landmark",
+                  "coords": [
+                        9.441244,
+                        4.637503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mama Endah Residence",
+                  "text": "Kilátó a Mama Endah rezidenciánál, Kumbában.",
+                  "category": "natural",
+                  "coords": [
+                        9.452272,
+                        4.64009
+                  ]
+            },
+            {
+                  "name": "Awah Eric Residence",
+                  "text": "Látványosság az Awah Eric rezidenciánál Kumbában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.46541,
+                        4.642238
+                  ]
+            },
+            {
+                  "name": "Matoh Park Junction",
+                  "text": "Látványosság a Matoh Park csomópontnál Kumbában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.450876,
+                        4.645136
+                  ]
+            },
+            {
+                  "name": "Amusement Parc",
+                  "text": "Vidámpark Kumba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.441244,
+                        4.637503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mama Endah Residence",
+                  "text": "Un punct de belvedere la Reședința Mama Endah din Kumba.",
+                  "category": "natural",
+                  "coords": [
+                        9.452272,
+                        4.64009
+                  ]
+            },
+            {
+                  "name": "Awah Eric Residence",
+                  "text": "O atracție situată la Reședința Awah Eric din Kumba.",
+                  "category": "landmark",
+                  "coords": [
+                        9.46541,
+                        4.642238
+                  ]
+            },
+            {
+                  "name": "Matoh Park Junction",
+                  "text": "O atracție la intersecția Matoh Park din Kumba.",
+                  "category": "landmark",
+                  "coords": [
+                        9.450876,
+                        4.645136
+                  ]
+            },
+            {
+                  "name": "Amusement Parc",
+                  "text": "Un parc de distracții în orașul Kumba.",
+                  "category": "landmark",
+                  "coords": [
+                        9.441244,
+                        4.637503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mama Endah Residence",
+                  "text": "A viewpoint located at Mama Endah Residence in Kumba.",
+                  "category": "natural",
+                  "coords": [
+                        9.452272,
+                        4.64009
+                  ]
+            },
+            {
+                  "name": "Awah Eric Residence",
+                  "text": "An attraction located at the Awah Eric Residence in Kumba.",
+                  "category": "landmark",
+                  "coords": [
+                        9.46541,
+                        4.642238
+                  ]
+            },
+            {
+                  "name": "Matoh Park Junction",
+                  "text": "An attraction situated at Matoh Park Junction in Kumba.",
+                  "category": "landmark",
+                  "coords": [
+                        9.450876,
+                        4.645136
+                  ]
+            },
+            {
+                  "name": "Amusement Parc",
+                  "text": "An amusement park located in the city of Kumba.",
+                  "category": "landmark",
+                  "coords": [
+                        9.441244,
+                        4.637503
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-SW",
     coords: [9.45, 4.6333],
@@ -425,7 +731,124 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       fr: [],}
   },
   {
-    id: "cameroon-foumban-cities-v2",
+    id: "cameroon-foumban-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais des Sultans Bamouns",
+                  "text": "Historischer Sultanspalast in Foumban.",
+                  "category": "castle",
+                  "coords": [
+                        10.901194,
+                        5.733027
+                  ]
+            },
+            {
+                  "name": "Grand Tambour",
+                  "text": "Museum für traditionelle Musik in Foumban.",
+                  "category": "museum",
+                  "coords": [
+                        10.903027,
+                        5.732092
+                  ]
+            },
+            {
+                  "name": "Musée de Arts et Traditions Bamoun",
+                  "text": "Museum für Kunst und Traditionen in Foumban.",
+                  "category": "museum",
+                  "coords": [
+                        10.900755,
+                        5.723404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais des Sultans Bamouns",
+                  "text": "Történelmi szultáni palota Foumbanban.",
+                  "category": "castle",
+                  "coords": [
+                        10.901194,
+                        5.733027
+                  ]
+            },
+            {
+                  "name": "Grand Tambour",
+                  "text": "Hagyományos zenei múzeum Foumbanban.",
+                  "category": "museum",
+                  "coords": [
+                        10.903027,
+                        5.732092
+                  ]
+            },
+            {
+                  "name": "Musée de Arts et Traditions Bamoun",
+                  "text": "Művészeti és hagyományőrző múzeum Foumbanban.",
+                  "category": "museum",
+                  "coords": [
+                        10.900755,
+                        5.723404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais des Sultans Bamouns",
+                  "text": "Palat istoric al sultanului în Foumban.",
+                  "category": "castle",
+                  "coords": [
+                        10.901194,
+                        5.733027
+                  ]
+            },
+            {
+                  "name": "Grand Tambour",
+                  "text": "Muzeu de muzică tradițională în Foumban.",
+                  "category": "museum",
+                  "coords": [
+                        10.903027,
+                        5.732092
+                  ]
+            },
+            {
+                  "name": "Musée de Arts et Traditions Bamoun",
+                  "text": "Muzeu de artă și tradiții în Foumban.",
+                  "category": "museum",
+                  "coords": [
+                        10.900755,
+                        5.723404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais des Sultans Bamouns",
+                  "text": "Historic sultan's palace in Foumban.",
+                  "category": "castle",
+                  "coords": [
+                        10.901194,
+                        5.733027
+                  ]
+            },
+            {
+                  "name": "Grand Tambour",
+                  "text": "Museum of traditional music in Foumban.",
+                  "category": "museum",
+                  "coords": [
+                        10.903027,
+                        5.732092
+                  ]
+            },
+            {
+                  "name": "Musée de Arts et Traditions Bamoun",
+                  "text": "Museum of art and traditions in Foumban.",
+                  "category": "museum",
+                  "coords": [
+                        10.900755,
+                        5.723404
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-OU",
     coords: [10.9, 5.7167],
@@ -457,7 +880,52 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/cameroon-foumban-cities-v2.webp"},
   {
-    id: "cameroon-mbouda-cities-v2",
+    id: "cameroon-mbouda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "chefferie Bameboro",
+                  "text": "Das traditionelle Schloss Chefferie Bameboro in Mbouda.",
+                  "category": "castle",
+                  "coords": [
+                        10.227938,
+                        5.630158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "chefferie Bameboro",
+                  "text": "A Chefferie Bameboro hagyományos kastély Mboudában.",
+                  "category": "castle",
+                  "coords": [
+                        10.227938,
+                        5.630158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "chefferie Bameboro",
+                  "text": "Castelul tradițional Chefferie Bameboro din Mbouda.",
+                  "category": "castle",
+                  "coords": [
+                        10.227938,
+                        5.630158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "chefferie Bameboro",
+                  "text": "The traditional castle of Chefferie Bameboro in Mbouda.",
+                  "category": "castle",
+                  "coords": [
+                        10.227938,
+                        5.630158
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-OU",
     coords: [10.25, 5.6333],
@@ -553,7 +1021,232 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/cameroon-nkongsamba-cities-v2.webp"},
   {
-    id: "cameroon-kribi-cities-v2",
+    id: "cameroon-kribi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare de Kribi",
+                  "text": "Der Leuchtturm von Kribi an der kamerunischen Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        9.903982,
+                        2.939555
+                  ]
+            },
+            {
+                  "name": "\"Boucanier\" Bibiana",
+                  "text": "Die Sehenswürdigkeit \"Boucanier\" Bibiana in Kribi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912004,
+                        2.966067
+                  ]
+            },
+            {
+                  "name": "Foyer socioculturel de la famille bansoa a kribi",
+                  "text": "Das soziokulturelle Zentrum der Familie Bansoa in Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916067,
+                        2.953399
+                  ]
+            },
+            {
+                  "name": "Foyer social et culturel baleng",
+                  "text": "Ein soziales und kulturelles Zentrum in Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.924373,
+                        2.960373
+                  ]
+            },
+            {
+                  "name": "Association socio culturelle bafung de l'ocean",
+                  "text": "Das soziokulturelle Zentrum Bafung de l'Ocean in Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.918266,
+                        2.958248
+                  ]
+            },
+            {
+                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
+                  "text": "Das Kultur- und Sozialzentrum der Bameka-Gemeinde in Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.917172,
+                        2.951536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare de Kribi",
+                  "text": "Kribi világítótornya a kameruni tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        9.903982,
+                        2.939555
+                  ]
+            },
+            {
+                  "name": "\"Boucanier\" Bibiana",
+                  "text": "A \"Boucanier\" Bibiana nevű látványosság Kribiben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912004,
+                        2.966067
+                  ]
+            },
+            {
+                  "name": "Foyer socioculturel de la famille bansoa a kribi",
+                  "text": "A Bansoa család szociokulturális központja Kribiben.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916067,
+                        2.953399
+                  ]
+            },
+            {
+                  "name": "Foyer social et culturel baleng",
+                  "text": "Szociális és kulturális központ Kribi városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.924373,
+                        2.960373
+                  ]
+            },
+            {
+                  "name": "Association socio culturelle bafung de l'ocean",
+                  "text": "A Bafung de l'Ocean szociokulturális központ Kribiben.",
+                  "category": "cultural",
+                  "coords": [
+                        9.918266,
+                        2.958248
+                  ]
+            },
+            {
+                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
+                  "text": "A bameka közösség kulturális és szociális központja Kribiben.",
+                  "category": "cultural",
+                  "coords": [
+                        9.917172,
+                        2.951536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare de Kribi",
+                  "text": "Farul din Kribi de pe coasta Camerunului.",
+                  "category": "landmark",
+                  "coords": [
+                        9.903982,
+                        2.939555
+                  ]
+            },
+            {
+                  "name": "\"Boucanier\" Bibiana",
+                  "text": "Atracția \"Boucanier\" Bibiana din Kribi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912004,
+                        2.966067
+                  ]
+            },
+            {
+                  "name": "Foyer socioculturel de la famille bansoa a kribi",
+                  "text": "Centrul socio-cultural al familiei Bansoa din Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916067,
+                        2.953399
+                  ]
+            },
+            {
+                  "name": "Foyer social et culturel baleng",
+                  "text": "Un centru social și cultural din orașul Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.924373,
+                        2.960373
+                  ]
+            },
+            {
+                  "name": "Association socio culturelle bafung de l'ocean",
+                  "text": "Centrul socio-cultural Bafung de l'Ocean din Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.918266,
+                        2.958248
+                  ]
+            },
+            {
+                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
+                  "text": "Centrul cultural și social al comunității Bameka din Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.917172,
+                        2.951536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare de Kribi",
+                  "text": "The Kribi lighthouse on the coast of Cameroon.",
+                  "category": "landmark",
+                  "coords": [
+                        9.903982,
+                        2.939555
+                  ]
+            },
+            {
+                  "name": "\"Boucanier\" Bibiana",
+                  "text": "The \"Boucanier\" Bibiana attraction located in Kribi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.912004,
+                        2.966067
+                  ]
+            },
+            {
+                  "name": "Foyer socioculturel de la famille bansoa a kribi",
+                  "text": "The socio-cultural center of the Bansoa family in Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916067,
+                        2.953399
+                  ]
+            },
+            {
+                  "name": "Foyer social et culturel baleng",
+                  "text": "A social and cultural arts center in Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.924373,
+                        2.960373
+                  ]
+            },
+            {
+                  "name": "Association socio culturelle bafung de l'ocean",
+                  "text": "The socio-cultural center Bafung de l'Ocean in Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.918266,
+                        2.958248
+                  ]
+            },
+            {
+                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
+                  "text": "The cultural and social center of the Bameka community in Kribi.",
+                  "category": "cultural",
+                  "coords": [
+                        9.917172,
+                        2.951536
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-SU",
     coords: [9.9167, 2.95],
@@ -682,7 +1375,52 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/cameroon-guider-cities-v2.webp"},
   {
-    id: "cameroon-yagoua-cities-v2",
+    id: "cameroon-yagoua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel de La Valee du Logone",
+                  "text": "Centre Culturel de La Valee du Logone ist ein Kunstzentrum in Yagoua.",
+                  "category": "cultural",
+                  "coords": [
+                        15.224346,
+                        10.331858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel de La Valee du Logone",
+                  "text": "A Centre Culturel de La Valee du Logone egy művészeti központ Yagoua városában.",
+                  "category": "cultural",
+                  "coords": [
+                        15.224346,
+                        10.331858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel de La Valee du Logone",
+                  "text": "Centre Culturel de La Valee du Logone este un centru de arte în Yagoua.",
+                  "category": "cultural",
+                  "coords": [
+                        15.224346,
+                        10.331858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel de La Valee du Logone",
+                  "text": "Centre Culturel de La Valee du Logone is an arts centre in Yagoua.",
+                  "category": "cultural",
+                  "coords": [
+                        15.224346,
+                        10.331858
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-EN",
     coords: [15.2333, 10.3333],
@@ -810,7 +1548,52 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/cameroon-banyo-cities-v2.webp"},
   {
-    id: "cameroon-tibati-cities-v2",
+    id: "cameroon-tibati-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lamidat de Tibati",
+                  "text": "Schlossartige Residenz in Tibati.",
+                  "category": "castle",
+                  "coords": [
+                        12.632296,
+                        6.466104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lamidat de Tibati",
+                  "text": "Kastélyszerű rezidencia Tibatiban.",
+                  "category": "castle",
+                  "coords": [
+                        12.632296,
+                        6.466104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lamidat de Tibati",
+                  "text": "Reședință tip castel în Tibati.",
+                  "category": "castle",
+                  "coords": [
+                        12.632296,
+                        6.466104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lamidat de Tibati",
+                  "text": "Castle-like residence in Tibati.",
+                  "category": "castle",
+                  "coords": [
+                        12.632296,
+                        6.466104
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-AD",
     coords: [12.6333, 6.4667],
@@ -874,7 +1657,52 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/cameroon-bafang-cities-v2.webp"},
   {
-    id: "cameroon-bangangte-cities-v2",
+    id: "cameroon-bangangte-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chefferie Bangangté",
+                  "text": "Chefferie Bangangté ist ein Schloss in Bangangté.",
+                  "category": "castle",
+                  "coords": [
+                        10.543293,
+                        5.141423
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chefferie Bangangté",
+                  "text": "A Chefferie Bangangté egy kastély Bangangté városában.",
+                  "category": "castle",
+                  "coords": [
+                        10.543293,
+                        5.141423
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chefferie Bangangté",
+                  "text": "Chefferie Bangangté este un castel în Bangangté.",
+                  "category": "castle",
+                  "coords": [
+                        10.543293,
+                        5.141423
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chefferie Bangangté",
+                  "text": "Chefferie Bangangté is a castle in Bangangté.",
+                  "category": "castle",
+                  "coords": [
+                        10.543293,
+                        5.141423
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-OU",
     coords: [10.5333, 5.15],
@@ -1035,7 +1863,304 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/cameroon-mutengene-cities-v2.webp"},
   {
-    id: "cameroon-limbe-cities-v2",
+    id: "cameroon-limbe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Limbe Wildlife Centre",
+                  "text": "Ein Wildtierzentrum und Zoo in Limbe.",
+                  "category": "recreational",
+                  "coords": [
+                        9.197516,
+                        4.016889
+                  ]
+            },
+            {
+                  "name": "\"Jungle Village\" Open Air Theatre",
+                  "text": "Das Freilichttheater \"Jungle Village\" in Limbe.",
+                  "category": "cultural",
+                  "coords": [
+                        9.203954,
+                        4.01133
+                  ]
+            },
+            {
+                  "name": "Ambas Bay",
+                  "text": "Die Ambas Bay in Limbe, bekannt als ehemalige Hauptstadt der britischen Kolonie Süd-Kamerun.",
+                  "category": "landmark",
+                  "coords": [
+                        9.202659,
+                        4.002984
+                  ]
+            },
+            {
+                  "name": "Limbe Botanical Gardens",
+                  "text": "Der Botanische Garten in Limbe, einer der ältesten in Afrika.",
+                  "category": "landmark",
+                  "coords": [
+                        9.200329,
+                        4.012738
+                  ]
+            },
+            {
+                  "name": "Monument Alfred Saker",
+                  "text": "Das Alfred-Saker-Denkmal in Limbe.",
+                  "category": "historical",
+                  "coords": [
+                        9.208445,
+                        4.006304
+                  ]
+            },
+            {
+                  "name": "Tali Residence",
+                  "text": "Ein Aussichtspunkt an der Tali Residenz in Limbe.",
+                  "category": "natural",
+                  "coords": [
+                        9.200383,
+                        4.030241
+                  ]
+            },
+            {
+                  "name": "Enow A. Residence",
+                  "text": "Ein Aussichtspunkt an der Enow A. Residenz in Limbe.",
+                  "category": "natural",
+                  "coords": [
+                        9.194415,
+                        4.019413
+                  ]
+            },
+            {
+                  "name": "wimbum cultural and development association",
+                  "text": "Ein Kunst- und Kulturzentrum in Limbe.",
+                  "category": "cultural",
+                  "coords": [
+                        9.209824,
+                        4.032423
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Limbe Wildlife Centre",
+                  "text": "Vadvédelmi központ és állatkert Limbe városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.197516,
+                        4.016889
+                  ]
+            },
+            {
+                  "name": "\"Jungle Village\" Open Air Theatre",
+                  "text": "A \"Jungle Village\" szabadtéri színház Limbe városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.203954,
+                        4.01133
+                  ]
+            },
+            {
+                  "name": "Ambas Bay",
+                  "text": "Az Ambas-öböl Limbe városában, a Brit Dél-Kamerun egykori fővárosának helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        9.202659,
+                        4.002984
+                  ]
+            },
+            {
+                  "name": "Limbe Botanical Gardens",
+                  "text": "A limbei botanikus kert, amely Afrika egyik legrégebbi ilyen létesítménye.",
+                  "category": "landmark",
+                  "coords": [
+                        9.200329,
+                        4.012738
+                  ]
+            },
+            {
+                  "name": "Monument Alfred Saker",
+                  "text": "Alfred Saker emlékműve Limbe városában.",
+                  "category": "historical",
+                  "coords": [
+                        9.208445,
+                        4.006304
+                  ]
+            },
+            {
+                  "name": "Tali Residence",
+                  "text": "Kilátó a Tali rezidenciánál Limbe városában.",
+                  "category": "natural",
+                  "coords": [
+                        9.200383,
+                        4.030241
+                  ]
+            },
+            {
+                  "name": "Enow A. Residence",
+                  "text": "Kilátó az Enow A. rezidenciánál Limbe városában.",
+                  "category": "natural",
+                  "coords": [
+                        9.194415,
+                        4.019413
+                  ]
+            },
+            {
+                  "name": "wimbum cultural and development association",
+                  "text": "Művészeti és kulturális központ Limbe városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.209824,
+                        4.032423
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Limbe Wildlife Centre",
+                  "text": "Un centru pentru animale sălbatice și grădină zoologică în Limbe.",
+                  "category": "recreational",
+                  "coords": [
+                        9.197516,
+                        4.016889
+                  ]
+            },
+            {
+                  "name": "\"Jungle Village\" Open Air Theatre",
+                  "text": "Teatrul în aer liber „Jungle Village” din Limbe.",
+                  "category": "cultural",
+                  "coords": [
+                        9.203954,
+                        4.01133
+                  ]
+            },
+            {
+                  "name": "Ambas Bay",
+                  "text": "Golful Ambas din Limbe, fosta capitală a coloniei Camerunului de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        9.202659,
+                        4.002984
+                  ]
+            },
+            {
+                  "name": "Limbe Botanical Gardens",
+                  "text": "Grădina Botanică din Limbe, una dintre cele mai vechi din Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.200329,
+                        4.012738
+                  ]
+            },
+            {
+                  "name": "Monument Alfred Saker",
+                  "text": "Monumentul dedicat lui Alfred Saker în Limbe.",
+                  "category": "historical",
+                  "coords": [
+                        9.208445,
+                        4.006304
+                  ]
+            },
+            {
+                  "name": "Tali Residence",
+                  "text": "Un punct de belvedere la Reședința Tali din Limbe.",
+                  "category": "natural",
+                  "coords": [
+                        9.200383,
+                        4.030241
+                  ]
+            },
+            {
+                  "name": "Enow A. Residence",
+                  "text": "Un punct de belvedere la Reședința Enow A. din Limbe.",
+                  "category": "natural",
+                  "coords": [
+                        9.194415,
+                        4.019413
+                  ]
+            },
+            {
+                  "name": "wimbum cultural and development association",
+                  "text": "Un centru cultural și de arte din Limbe.",
+                  "category": "cultural",
+                  "coords": [
+                        9.209824,
+                        4.032423
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Limbe Wildlife Centre",
+                  "text": "A wildlife center and zoo located in Limbe.",
+                  "category": "recreational",
+                  "coords": [
+                        9.197516,
+                        4.016889
+                  ]
+            },
+            {
+                  "name": "\"Jungle Village\" Open Air Theatre",
+                  "text": "The \"Jungle Village\" open-air theater in Limbe.",
+                  "category": "cultural",
+                  "coords": [
+                        9.203954,
+                        4.01133
+                  ]
+            },
+            {
+                  "name": "Ambas Bay",
+                  "text": "Ambas Bay in Limbe, historically the capital of the British Southern Cameroons colony.",
+                  "category": "landmark",
+                  "coords": [
+                        9.202659,
+                        4.002984
+                  ]
+            },
+            {
+                  "name": "Limbe Botanical Gardens",
+                  "text": "The Limbe Botanical Gardens, established as one of the oldest in Africa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.200329,
+                        4.012738
+                  ]
+            },
+            {
+                  "name": "Monument Alfred Saker",
+                  "text": "The Alfred Saker Monument located in Limbe.",
+                  "category": "historical",
+                  "coords": [
+                        9.208445,
+                        4.006304
+                  ]
+            },
+            {
+                  "name": "Tali Residence",
+                  "text": "A viewpoint situated at the Tali Residence in Limbe.",
+                  "category": "natural",
+                  "coords": [
+                        9.200383,
+                        4.030241
+                  ]
+            },
+            {
+                  "name": "Enow A. Residence",
+                  "text": "A viewpoint at the Enow A. Residence in Limbe.",
+                  "category": "natural",
+                  "coords": [
+                        9.194415,
+                        4.019413
+                  ]
+            },
+            {
+                  "name": "wimbum cultural and development association",
+                  "text": "An arts and cultural center situated in Limbe.",
+                  "category": "cultural",
+                  "coords": [
+                        9.209824,
+                        4.032423
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-SW",
     coords: [9.2167, 4.0167],
@@ -1100,7 +2225,88 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       fr: [],}
   },
   {
-    id: "cameroon-wum-cities-v2",
+    id: "cameroon-wum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naikom Palace",
+                  "text": "Palast in Wum.",
+                  "category": "castle",
+                  "coords": [
+                        10.071075,
+                        6.39361
+                  ]
+            },
+            {
+                  "name": "Maagha Palace",
+                  "text": "Palast in Wum.",
+                  "category": "castle",
+                  "coords": [
+                        10.069958,
+                        6.394579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naikom Palace",
+                  "text": "Palota Wumban.",
+                  "category": "castle",
+                  "coords": [
+                        10.071075,
+                        6.39361
+                  ]
+            },
+            {
+                  "name": "Maagha Palace",
+                  "text": "Palota Wumban.",
+                  "category": "castle",
+                  "coords": [
+                        10.069958,
+                        6.394579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naikom Palace",
+                  "text": "Palat în Wum.",
+                  "category": "castle",
+                  "coords": [
+                        10.071075,
+                        6.39361
+                  ]
+            },
+            {
+                  "name": "Maagha Palace",
+                  "text": "Palat în Wum.",
+                  "category": "castle",
+                  "coords": [
+                        10.069958,
+                        6.394579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naikom Palace",
+                  "text": "Palace in Wum.",
+                  "category": "castle",
+                  "coords": [
+                        10.071075,
+                        6.39361
+                  ]
+            },
+            {
+                  "name": "Maagha Palace",
+                  "text": "Palace in Wum.",
+                  "category": "castle",
+                  "coords": [
+                        10.069958,
+                        6.394579
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-NW",
     coords: [10.0667, 6.3833],
@@ -1294,7 +2500,52 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       pt: [],
       fr: [],}, image: "/poi-images/cameroon-mora-cities-v2.webp"},
   {
-    id: "cameroon-kaele-cities-v2",
+    id: "cameroon-kaele-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de Kaélé",
+                  "text": "Museum in Kaélé.",
+                  "category": "museum",
+                  "coords": [
+                        14.44743,
+                        10.114715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de Kaélé",
+                  "text": "Múzeum Kaélében.",
+                  "category": "museum",
+                  "coords": [
+                        14.44743,
+                        10.114715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de Kaélé",
+                  "text": "Muzeu în Kaélé.",
+                  "category": "museum",
+                  "coords": [
+                        14.44743,
+                        10.114715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de Kaélé",
+                  "text": "Museum in Kaélé.",
+                  "category": "museum",
+                  "coords": [
+                        14.44743,
+                        10.114715
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-EN",
     coords: [14.45, 10.1],
@@ -1903,7 +3154,88 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     },
   },
   {
-    id: "cameroon-bandjoun-cities-v2",
+    id: "cameroon-bandjoun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chefferie Bandjoun",
+                  "text": "Chefferie Bandjoun ist ein bedeutendes traditionelles Häuptlingstum und Schloss in Bandjoun.",
+                  "category": "castle",
+                  "coords": [
+                        10.409635,
+                        5.34973
+                  ]
+            },
+            {
+                  "name": "Roi KAMGA Joseph II",
+                  "text": "Roi KAMGA Joseph II ist ein Denkmal in Bandjoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.408469,
+                        5.350232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chefferie Bandjoun",
+                  "text": "A Chefferie Bandjoun egy fontos hagyományos központ és kastély Bandjoun városában.",
+                  "category": "castle",
+                  "coords": [
+                        10.409635,
+                        5.34973
+                  ]
+            },
+            {
+                  "name": "Roi KAMGA Joseph II",
+                  "text": "A Roi KAMGA Joseph II egy emlékmű Bandjoun városában.",
+                  "category": "historical",
+                  "coords": [
+                        10.408469,
+                        5.350232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chefferie Bandjoun",
+                  "text": "Chefferie Bandjoun este o importantă căpetenie tradițională și un castel în Bandjoun.",
+                  "category": "castle",
+                  "coords": [
+                        10.409635,
+                        5.34973
+                  ]
+            },
+            {
+                  "name": "Roi KAMGA Joseph II",
+                  "text": "Roi KAMGA Joseph II este un monument în Bandjoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.408469,
+                        5.350232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chefferie Bandjoun",
+                  "text": "Chefferie Bandjoun is an important traditional chiefdom and castle in Bandjoun.",
+                  "category": "castle",
+                  "coords": [
+                        10.409635,
+                        5.34973
+                  ]
+            },
+            {
+                  "name": "Roi KAMGA Joseph II",
+                  "text": "Roi KAMGA Joseph II is a monument in Bandjoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.408469,
+                        5.350232
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CM-OU",
     coords: [10.4167, 5.3667],

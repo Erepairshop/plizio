@@ -1081,7 +1081,808 @@ export const poiExtraIranCitiesV2: POI[] = [
       fr: ["La population de la ville a dépassé les 300 000 habitants au cours des quatre dernières décennies.", "Shahriar se trouve à environ 40 kilomètres à l'ouest du centre-ville de Téhéran.", "La région était historiquement l'un des plus grands fournisseurs de fruits de la capitale iranienne.", "En raison d'un fort étalement urbain, des milliers d'hectares de terres agricoles ont disparu.", "La ville appartient administrativement à la province très peuplée de Téhéran.", "De nombreux navetteurs empruntent quotidiennement l'autoroute Azadegan, souvent saturée, vers Téhéran."],
     }, image: "/poi-images/shahriar-cities-v2.webp"},
   {
-    id: "kashan-cities-v2",
+    id: "kashan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قلعه جلالی و حصار سلجوقی",
+                  "text": "Die Burg Jalali und die seldschukische Festung bilden einen historischen Verteidigungskomplex in der Stadt Kaschan.",
+                  "category": "castle",
+                  "coords": [
+                        51.440538,
+                        33.97291
+                  ]
+            },
+            {
+                  "name": "موزه هنرهای زیبا",
+                  "text": "Das Museum of fine arts ist eine kulturelle Einrichtung in Kaschan, die Kunstsammlungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        51.444376,
+                        33.980674
+                  ]
+            },
+            {
+                  "name": "موزه",
+                  "text": "Das Spielzeugmuseum ist eine interessante kulturelle Ausstellung in Kaschan.",
+                  "category": "museum",
+                  "coords": [
+                        51.438989,
+                        33.975498
+                  ]
+            },
+            {
+                  "name": "مرکز بازی و شادی",
+                  "text": "Dieser lokale Freizeitpark bietet Unterhaltung und Freizeitaktivitäten in der Stadt Kaschan.",
+                  "category": "recreational",
+                  "coords": [
+                        51.435146,
+                        33.975587
+                  ]
+            },
+            {
+                  "name": "بازار کاشان",
+                  "text": "Der traditionelle Basar von Kaschan ist eine bekannte kommerzielle Sehenswürdigkeit der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44985,
+                        33.984932
+                  ]
+            },
+            {
+                  "name": "خانه مهینستان راهب",
+                  "text": "Das Haus von Mahinestane Raheb ist ein architektonisches Denkmal in Kaschan.",
+                  "category": "historical",
+                  "coords": [
+                        51.442837,
+                        33.980823
+                  ]
+            },
+            {
+                  "name": "زورخانه",
+                  "text": "Dieser Ort präsentiert traditionelle iranische Sportarten als kulturelle Attraktion in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451592,
+                        33.987033
+                  ]
+            },
+            {
+                  "name": "رزیدنسی وایو",
+                  "text": "Die Vayu Art and Mind Residency ist eine kulturelle und künstlerische Attraktion in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.435954,
+                        33.979013
+                  ]
+            },
+            {
+                  "name": "خانه آل یاسین",
+                  "text": "Das historische Haus Al-e Yasin ist eine bemerkenswerte architektonische Sehenswürdigkeit in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.458666,
+                        33.985357
+                  ]
+            },
+            {
+                  "name": "هنری",
+                  "text": "Dieser künstlerische Raum ist eine interessante kulturelle Attraktion in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451119,
+                        33.985824
+                  ]
+            },
+            {
+                  "name": "آموزشگاه هنرهای تجسمی منا آذرنوش",
+                  "text": "Diese Schule und Galerie für bildende Künste ist ein kreativer Treffpunkt in der Stadt Kaschan.",
+                  "category": "museum",
+                  "coords": [
+                        51.441661,
+                        33.989863
+                  ]
+            },
+            {
+                  "name": "گالری صنایع دستی و هنری دیماه",
+                  "text": "Die Kunst- und Kunsthandwerksgalerie Deymah stellt lokales Handwerk und Kunstwerke in Kaschan aus.",
+                  "category": "museum",
+                  "coords": [
+                        51.448972,
+                        33.982704
+                  ]
+            },
+            {
+                  "name": "شعربافی تقی خان کاشان",
+                  "text": "Die Seidenweberei Taqi Khan ist eine traditionelle handwerkliche Attraktion in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.445496,
+                        33.975905
+                  ]
+            },
+            {
+                  "name": "بابا شجاع الدین ابولؤلؤ",
+                  "text": "Der Schrein von Baba Shuja al-Din ist eine historische und religiöse Attraktion in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.416718,
+                        33.969812
+                  ]
+            },
+            {
+                  "name": "Sharifian House",
+                  "text": "Das Sharifian-Haus ist eine bemerkenswerte architektonische Attraktion in Kaschan, die traditionelle Bauweise zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.447238,
+                        33.973394
+                  ]
+            },
+            {
+                  "name": "مسجد جامع کاشان",
+                  "text": "Die Zentralmoschee von Kaschan ist eine wichtige religiöse Stätte und Kultstätte der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        51.443548,
+                        33.983589
+                  ]
+            },
+            {
+                  "name": "مسجد سلطانیه",
+                  "text": "Die Soltani-Moschee ist eine bedeutende Kultstätte in Kaschan.",
+                  "category": "religious",
+                  "coords": [
+                        51.447885,
+                        33.982872
+                  ]
+            },
+            {
+                  "name": "Borujerdi Haus",
+                  "text": "Das Borudscherdi-Haus ist ein historisches Herrenhaus in Kaschan, das für seine exquisiten Stuckarbeiten und traditionellen Windtürme bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440602,
+                        33.974526
+                  ]
+            },
+            {
+                  "name": "Ameriha Haus",
+                  "text": "Das Āmeri-Haus ist ein bedeutender historischer Wohnsitz in Kaschan und gilt als eines der größten traditionellen Häuser der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441962,
+                        33.975139
+                  ]
+            },
+            {
+                  "name": "مسجد الحسین",
+                  "text": "Die Al-Hussein-Moschee ist eine lokale Kultstätte, die der Gemeinde in Kaschan dient.",
+                  "category": "religious",
+                  "coords": [
+                        51.419302,
+                        33.973756
+                  ]
+            },
+            {
+                  "name": "Abbasid Haus",
+                  "text": "Das historische Abbasid-Haus ist ein prächtiges traditionelles Herrenhaus in Kaschan, das für seine tiefergelegten Innenhöfe und aufwendigen Dekorationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440447,
+                        33.976235
+                  ]
+            },
+            {
+                  "name": "Hashemian Haus",
+                  "text": "Das Hashemian-Haus ist ein traditionelles Wohngebäude in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441588,
+                        33.977652
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعه جلالی و حصار سلجوقی",
+                  "text": "A Dzsalali-kastély és a szeldzsuk erődítmény egy történelmi védelmi komplexumot alkot Kaschan városában.",
+                  "category": "castle",
+                  "coords": [
+                        51.440538,
+                        33.97291
+                  ]
+            },
+            {
+                  "name": "موزه هنرهای زیبا",
+                  "text": "A Szépművészeti Múzeum egy művészeti gyűjteményeket bemutató kulturális intézmény Kaschanban.",
+                  "category": "museum",
+                  "coords": [
+                        51.444376,
+                        33.980674
+                  ]
+            },
+            {
+                  "name": "موزه",
+                  "text": "A Játékmúzeum egy érdekes kulturális kiállítás Kaschanban.",
+                  "category": "museum",
+                  "coords": [
+                        51.438989,
+                        33.975498
+                  ]
+            },
+            {
+                  "name": "مرکز بازی و شادی",
+                  "text": "Ez a helyi vidámpark szórakozási és szabadidős tevékenységeket kínál Kaschan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        51.435146,
+                        33.975587
+                  ]
+            },
+            {
+                  "name": "بازار کاشان",
+                  "text": "Kaschan hagyományos bazárja a város egy kiemelkedő kereskedelmi látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44985,
+                        33.984932
+                  ]
+            },
+            {
+                  "name": "خانه مهینستان راهب",
+                  "text": "A Mahinestane Raheb-ház egy építészeti műemlék Kaschanban.",
+                  "category": "historical",
+                  "coords": [
+                        51.442837,
+                        33.980823
+                  ]
+            },
+            {
+                  "name": "زورخانه",
+                  "text": "Ez a helyszín a hagyományos iráni sportokat mutatja be mint kulturális látványosságot Kaschanban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451592,
+                        33.987033
+                  ]
+            },
+            {
+                  "name": "رزیدنسی وایو",
+                  "text": "A Vayu Art and Mind Residency egy kulturális és művészeti látványosság Kaschanban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.435954,
+                        33.979013
+                  ]
+            },
+            {
+                  "name": "خانه آل یاسین",
+                  "text": "Az Al-e Yasin történelmi ház egy figyelemre méltó építészeti látványosság Kaschanban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.458666,
+                        33.985357
+                  ]
+            },
+            {
+                  "name": "هنری",
+                  "text": "Ez a művészeti tér egy érdekes kulturális látványosság Kaschanban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451119,
+                        33.985824
+                  ]
+            },
+            {
+                  "name": "آموزشگاه هنرهای تجسمی منا آذرنوش",
+                  "text": "Ez a vizuális művészeti iskola és galéria egy kreatív központ Kaschan városában.",
+                  "category": "museum",
+                  "coords": [
+                        51.441661,
+                        33.989863
+                  ]
+            },
+            {
+                  "name": "گالری صنایع دستی و هنری دیماه",
+                  "text": "A Deymah Kézműves és Művészeti Galéria helyi kézműves termékeket és műalkotásokat állít ki Kaschanban.",
+                  "category": "museum",
+                  "coords": [
+                        51.448972,
+                        33.982704
+                  ]
+            },
+            {
+                  "name": "شعربافی تقی خان کاشان",
+                  "text": "A Taqi Khan selyemszövés egy hagyományos kézműves látványosság Kaschanban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.445496,
+                        33.975905
+                  ]
+            },
+            {
+                  "name": "بابا شجاع الدین ابولؤلؤ",
+                  "text": "Baba Shuja al-Din szentélye egy történelmi és vallási látványosság Kaschanban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.416718,
+                        33.969812
+                  ]
+            },
+            {
+                  "name": "Sharifian House",
+                  "text": "A Sharifian-ház egy figyelemre méltó lakóépület, amely a hagyományos építészetet mutatja be Kaschanban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.447238,
+                        33.973394
+                  ]
+            },
+            {
+                  "name": "مسجد جامع کاشان",
+                  "text": "A kaschani központi mecset egy fontos vallási helyszín és istentiszteleti hely a városban.",
+                  "category": "religious",
+                  "coords": [
+                        51.443548,
+                        33.983589
+                  ]
+            },
+            {
+                  "name": "مسجد سلطانیه",
+                  "text": "A Soltani-mecset egy kiemelkedő istentiszteleti hely Kaschanban.",
+                  "category": "religious",
+                  "coords": [
+                        51.447885,
+                        33.982872
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی بروجردی ها",
+                  "text": "A Borudzserdi-ház egy történelmi kúria Kaschanban, amely kiváló stukkómunkáiról és hagyományos széltornyairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440602,
+                        33.974526
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی عامری‌ها",
+                  "text": "Az Āmeri-ház egy kiemelkedő történelmi rezidencia Kaschanban, amelyet a város egyik legnagyobb hagyományos házaként tartanak számon.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441962,
+                        33.975139
+                  ]
+            },
+            {
+                  "name": "مسجد الحسین",
+                  "text": "Az Al-Husszein mecset egy helyi istentiszteleti hely, amely Kaschan közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        51.419302,
+                        33.973756
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی عباسیان",
+                  "text": "Az Abbaszidák történelmi otthona egy csodálatos hagyományos kúria Kaschanban, amely süllyesztett udvarairól és bonyolult díszítéseiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440447,
+                        33.976235
+                  ]
+            },
+            {
+                  "name": "خانه هاشمیان (مس)",
+                  "text": "A Hashemian-ház egy hagyományos lakóépület Kaschanban.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441588,
+                        33.977652
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعه جلالی و حصار سلجوقی",
+                  "text": "Castelul Jalali și Fortăreața Selgiucă formează un complex defensiv istoric situat în orașul Kaschan.",
+                  "category": "castle",
+                  "coords": [
+                        51.440538,
+                        33.97291
+                  ]
+            },
+            {
+                  "name": "موزه هنرهای زیبا",
+                  "text": "Muzeul de arte frumoase este o instituție culturală care expune colecții de artă în Kaschan.",
+                  "category": "museum",
+                  "coords": [
+                        51.444376,
+                        33.980674
+                  ]
+            },
+            {
+                  "name": "موزه",
+                  "text": "Muzeul Jucăriilor este o expoziție culturală captivantă situată în Kaschan.",
+                  "category": "museum",
+                  "coords": [
+                        51.438989,
+                        33.975498
+                  ]
+            },
+            {
+                  "name": "مرکز بازی و شادی",
+                  "text": "Acest parc tematic local oferă divertisment și activități de agrement în orașul Kaschan.",
+                  "category": "recreational",
+                  "coords": [
+                        51.435146,
+                        33.975587
+                  ]
+            },
+            {
+                  "name": "بازار کاشان",
+                  "text": "Bazarul tradițional din Kaschan este o atracție comercială importantă a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44985,
+                        33.984932
+                  ]
+            },
+            {
+                  "name": "خانه مهینستان راهب",
+                  "text": "Casa Mahinestane Raheb este un monument arhitectural situat în Kaschan.",
+                  "category": "historical",
+                  "coords": [
+                        51.442837,
+                        33.980823
+                  ]
+            },
+            {
+                  "name": "زورخانه",
+                  "text": "Această locație prezintă sporturi tradiționale iraniene ca o atracție culturală în Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451592,
+                        33.987033
+                  ]
+            },
+            {
+                  "name": "رزیدنسی وایو",
+                  "text": "Vayu Art and Mind Residency este o atracție culturală și artistică situată în Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.435954,
+                        33.979013
+                  ]
+            },
+            {
+                  "name": "خانه آل یاسین",
+                  "text": "Casa istorică Al-e Yasin este o atracție arhitecturală remarcabilă din Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.458666,
+                        33.985357
+                  ]
+            },
+            {
+                  "name": "هنری",
+                  "text": "Acest spațiu artistic este o atracție culturală interesantă situată în Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451119,
+                        33.985824
+                  ]
+            },
+            {
+                  "name": "آموزشگاه هنرهای تجسمی منا آذرنوش",
+                  "text": "Această școală și galerie de arte vizuale este un centru creativ situat în orașul Kaschan.",
+                  "category": "museum",
+                  "coords": [
+                        51.441661,
+                        33.989863
+                  ]
+            },
+            {
+                  "name": "گالری صنایع دستی و هنری دیماه",
+                  "text": "Galeria de Arte și Artizanat Deymah expune meșteșuguri și opere de artă locale în Kaschan.",
+                  "category": "museum",
+                  "coords": [
+                        51.448972,
+                        33.982704
+                  ]
+            },
+            {
+                  "name": "شعربافی تقی خان کاشان",
+                  "text": "Țesutul mătăsii Taqi Khan este o atracție artizanală tradițională situată în Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.445496,
+                        33.975905
+                  ]
+            },
+            {
+                  "name": "بابا شجاع الدین ابولؤلؤ",
+                  "text": "Sanctuarul lui Baba Shuja al-Din este o atracție istorică și religioasă din Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.416718,
+                        33.969812
+                  ]
+            },
+            {
+                  "name": "Sharifian House",
+                  "text": "Casa Sharifian este o atracție rezidențială notabilă care prezintă arhitectura tradițională în Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.447238,
+                        33.973394
+                  ]
+            },
+            {
+                  "name": "مسجد جامع کاشان",
+                  "text": "Moscheea Centrală din Kaschan este un important sit religios și lăcaș de cult din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        51.443548,
+                        33.983589
+                  ]
+            },
+            {
+                  "name": "مسجد سلطانیه",
+                  "text": "Moscheea Soltani este un lăcaș de cult proeminent situat în Kaschan.",
+                  "category": "religious",
+                  "coords": [
+                        51.447885,
+                        33.982872
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی بروجردی ها",
+                  "text": "Casa Borujerdi este un conac istoric din Kaschan, renumit pentru stucaturile sale rafinate și turnurile de vânt tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440602,
+                        33.974526
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی عامری‌ها",
+                  "text": "Casa Āmeri este o reședință istorică proeminentă din Kaschan, recunoscută ca fiind una dintre cele mai mari case tradiționale din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441962,
+                        33.975139
+                  ]
+            },
+            {
+                  "name": "مسجد الحسین",
+                  "text": "Moscheea Al-Hussein este un lăcaș de cult local care deservește comunitatea din Kaschan.",
+                  "category": "religious",
+                  "coords": [
+                        51.419302,
+                        33.973756
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی عباسیان",
+                  "text": "Casa istorică Abbasid este un conac tradițional magnific din Kaschan, renumit pentru curțile sale scufundate și decorațiunile complexe.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440447,
+                        33.976235
+                  ]
+            },
+            {
+                  "name": "خانه هاشمیان (مس)",
+                  "text": "Casa Hashemian este o clădire rezidențială tradițională situată în Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441588,
+                        33.977652
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "قلعه جلالی و حصار سلجوقی",
+                  "text": "Jalali Castle and the Seljuk Fortress form a historic defensive complex located in the city of Kaschan.",
+                  "category": "castle",
+                  "coords": [
+                        51.440538,
+                        33.97291
+                  ]
+            },
+            {
+                  "name": "Museum of fine arts",
+                  "text": "The Museum of fine arts is a cultural institution showcasing art collections in Kaschan.",
+                  "category": "museum",
+                  "coords": [
+                        51.444376,
+                        33.980674
+                  ]
+            },
+            {
+                  "name": "Toy Museum",
+                  "text": "The Toy Museum is an engaging cultural exhibit located in Kaschan.",
+                  "category": "museum",
+                  "coords": [
+                        51.438989,
+                        33.975498
+                  ]
+            },
+            {
+                  "name": "مرکز بازی و شادی",
+                  "text": "This local theme park provides entertainment and recreational activities in the city of Kaschan.",
+                  "category": "recreational",
+                  "coords": [
+                        51.435146,
+                        33.975587
+                  ]
+            },
+            {
+                  "name": "بازار کاشان",
+                  "text": "The traditional Bazaar of Kashan is a prominent commercial attraction in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        51.44985,
+                        33.984932
+                  ]
+            },
+            {
+                  "name": "Mahinestane Raheb's House",
+                  "text": "Mahinestane Raheb's House is an architectural monument located in Kaschan.",
+                  "category": "historical",
+                  "coords": [
+                        51.442837,
+                        33.980823
+                  ]
+            },
+            {
+                  "name": "Traditional iranian sport",
+                  "text": "This venue showcases traditional Iranian sports as a cultural attraction in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451592,
+                        33.987033
+                  ]
+            },
+            {
+                  "name": "Vayu Art and Mind Residency",
+                  "text": "The Vayu Art and Mind Residency is a cultural and artistic attraction situated in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.435954,
+                        33.979013
+                  ]
+            },
+            {
+                  "name": "Al_e yasin historical house",
+                  "text": "The Al-e Yasin historical house is a notable architectural attraction in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.458666,
+                        33.985357
+                  ]
+            },
+            {
+                  "name": "هنری",
+                  "text": "This artistic space is an interesting cultural attraction located in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.451119,
+                        33.985824
+                  ]
+            },
+            {
+                  "name": "آموزشگاه هنرهای تجسمی منا آذرنوش",
+                  "text": "This visual arts school and gallery is a creative hub found in the city of Kaschan.",
+                  "category": "museum",
+                  "coords": [
+                        51.441661,
+                        33.989863
+                  ]
+            },
+            {
+                  "name": "گالری صنایع دستی و هنری دیماه",
+                  "text": "Deymah Handicrafts and Arts Gallery exhibits local crafts and artworks in Kaschan.",
+                  "category": "museum",
+                  "coords": [
+                        51.448972,
+                        33.982704
+                  ]
+            },
+            {
+                  "name": "شعربافی تقی خان کاشان",
+                  "text": "Taqi Khan silk weaving is a traditional artisanal attraction situated in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.445496,
+                        33.975905
+                  ]
+            },
+            {
+                  "name": "بابا شجاع الدین ابولؤلؤ",
+                  "text": "The shrine of Baba Shuja al-Din is a historic and religious attraction located in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.416718,
+                        33.969812
+                  ]
+            },
+            {
+                  "name": "Sharifian House",
+                  "text": "Sharifian House is a notable residential attraction showcasing traditional architecture in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.447238,
+                        33.973394
+                  ]
+            },
+            {
+                  "name": "Kashan Central Mosque",
+                  "text": "Kashan Central Mosque is an important religious site and place of worship in the city.",
+                  "category": "religious",
+                  "coords": [
+                        51.443548,
+                        33.983589
+                  ]
+            },
+            {
+                  "name": "Soltani Mosque",
+                  "text": "Soltani Mosque is a prominent place of worship located in Kaschan.",
+                  "category": "religious",
+                  "coords": [
+                        51.447885,
+                        33.982872
+                  ]
+            },
+            {
+                  "name": "Borujerdis House",
+                  "text": "Borujerdis House is a historic mansion in Kaschan, renowned for its exquisite stucco work and traditional windcatchers.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440602,
+                        33.974526
+                  ]
+            },
+            {
+                  "name": "Āmeri House",
+                  "text": "Āmeri House is a prominent historical residence in Kaschan, recognized as one of the largest traditional houses in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441962,
+                        33.975139
+                  ]
+            },
+            {
+                  "name": "مسجد الحسین",
+                  "text": "Al-Hussein Mosque is a local place of worship serving the community in Kaschan.",
+                  "category": "religious",
+                  "coords": [
+                        51.419302,
+                        33.973756
+                  ]
+            },
+            {
+                  "name": "Historic Home of Abbasid",
+                  "text": "The Historic Home of Abbasid is a magnificent traditional mansion in Kaschan, famous for its sunken courtyards and intricate decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        51.440447,
+                        33.976235
+                  ]
+            },
+            {
+                  "name": "Hashemian House",
+                  "text": "Hashemian House is a traditional residential building located in Kaschan.",
+                  "category": "landmark",
+                  "coords": [
+                        51.441588,
+                        33.977652
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IR-04",
     coords: [51.4402, 33.9850],
@@ -1128,7 +1929,268 @@ export const poiExtraIranCitiesV2: POI[] = [
       fr: ["Le jardin historique de Fin (Bagh-e Fin) fut achevé en 1590 sous le règne de Chah Abbas Ier.", "Le complexe de jardins persans est officiellement classé au patrimoine mondial de l'UNESCO depuis 2011.", "La magnifique maison Boroudjerdi fut construite à partir de 1857 sur une période de près de 18 ans.", "Le site archéologique de Tepe Sialk, près de Kashan, est vieux de plus de 7000 ans.", "Le terme « Kashi » (carreau) dérive directement du nom de la ville de Kashan.", "En 1852, Amir Kabir, le Premier ministre réformateur d'Iran, fut assassiné dans les bains de Fin."],
     }, image: "/poi-images/kashan-cities-v2.webp"},
   {
-    id: "dezful-cities-v2",
+    id: "dezful-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "موزه مردم شناسی شهرستان دزفول",
+                  "text": "موزه مردم شناسی شهرستان دزفول ist ein bekanntes Museum in Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.397895,
+                        32.39099
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی تیزنو",
+                  "text": "Tizno Historical House ist ein bekanntes Museum in Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.395435,
+                        32.383485
+                  ]
+            },
+            {
+                  "name": "موزه آب",
+                  "text": "Water Museum ist ein Museum in Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.395809,
+                        32.384885
+                  ]
+            },
+            {
+                  "name": "قنات قمیش",
+                  "text": "قنات قمیش ist ein Museum in Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.400146,
+                        32.379089
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی قطب",
+                  "text": "History house ist ein Museum in Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.398668,
+                        32.377541
+                  ]
+            },
+            {
+                  "name": "پل ساسانی دزفول",
+                  "text": "Sassanid bridge ist eine bekannte Touristenattraktion in Desful.",
+                  "category": "landmark",
+                  "coords": [
+                        48.391635,
+                        32.381512
+                  ]
+            },
+            {
+                  "name": "مجتمع فرهنگی سینمایی",
+                  "text": "مجتمع فرهنگی سینمایی ist ein Kunstzentrum in Desful.",
+                  "category": "cultural",
+                  "coords": [
+                        48.381192,
+                        32.394235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "موزه مردم شناسی شهرستان دزفول",
+                  "text": "A(z) موزه مردم شناسی شهرستان دزفول egy jelentős múzeum Desful városában.",
+                  "category": "museum",
+                  "coords": [
+                        48.397895,
+                        32.39099
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی تیزنو",
+                  "text": "A(z) Tizno Historical House egy jelentős múzeum Desful városában.",
+                  "category": "museum",
+                  "coords": [
+                        48.395435,
+                        32.383485
+                  ]
+            },
+            {
+                  "name": "موزه آب",
+                  "text": "A(z) Water Museum egy múzeum Desful városában.",
+                  "category": "museum",
+                  "coords": [
+                        48.395809,
+                        32.384885
+                  ]
+            },
+            {
+                  "name": "قنات قمیش",
+                  "text": "A(z) قنات قمیش egy múzeum Desful városában.",
+                  "category": "museum",
+                  "coords": [
+                        48.400146,
+                        32.379089
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی قطب",
+                  "text": "A(z) History house egy múzeum Desful városában.",
+                  "category": "museum",
+                  "coords": [
+                        48.398668,
+                        32.377541
+                  ]
+            },
+            {
+                  "name": "پل ساسانی دزفول",
+                  "text": "A(z) Sassanid bridge egy jelentős turisztikai látványosság Desful városában.",
+                  "category": "landmark",
+                  "coords": [
+                        48.391635,
+                        32.381512
+                  ]
+            },
+            {
+                  "name": "مجتمع فرهنگی سینمایی",
+                  "text": "A(z) مجتمع فرهنگی سینمایی egy művészeti központ Desful városában.",
+                  "category": "cultural",
+                  "coords": [
+                        48.381192,
+                        32.394235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "موزه مردم شناسی شهرستان دزفول",
+                  "text": "موزه مردم شناسی شهرستان دزفول este un muzeu notabil situat în Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.397895,
+                        32.39099
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی تیزنو",
+                  "text": "Tizno Historical House este un muzeu notabil situat în Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.395435,
+                        32.383485
+                  ]
+            },
+            {
+                  "name": "موزه آب",
+                  "text": "Water Museum este un muzeu situat în Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.395809,
+                        32.384885
+                  ]
+            },
+            {
+                  "name": "قنات قمیش",
+                  "text": "قنات قمیش este un muzeu situat în Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.400146,
+                        32.379089
+                  ]
+            },
+            {
+                  "name": "خانه تاریخی قطب",
+                  "text": "History house este un muzeu situat în Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.398668,
+                        32.377541
+                  ]
+            },
+            {
+                  "name": "پل ساسانی دزفول",
+                  "text": "Sassanid bridge este o atracție turistică notabilă situată în Desful.",
+                  "category": "landmark",
+                  "coords": [
+                        48.391635,
+                        32.381512
+                  ]
+            },
+            {
+                  "name": "مجتمع فرهنگی سینمایی",
+                  "text": "مجتمع فرهنگی سینمایی este un centru de artă situat în Desful.",
+                  "category": "cultural",
+                  "coords": [
+                        48.381192,
+                        32.394235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "موزه مردم شناسی شهرستان دزفول",
+                  "text": "موزه مردم شناسی شهرستان دزفول is a notable museum located in Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.397895,
+                        32.39099
+                  ]
+            },
+            {
+                  "name": "Tizno Historical House",
+                  "text": "Tizno Historical House is a notable museum located in Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.395435,
+                        32.383485
+                  ]
+            },
+            {
+                  "name": "Water Museum",
+                  "text": "Water Museum is a museum located in Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.395809,
+                        32.384885
+                  ]
+            },
+            {
+                  "name": "قنات قمیش",
+                  "text": "قنات قمیش is a museum located in Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.400146,
+                        32.379089
+                  ]
+            },
+            {
+                  "name": "History house",
+                  "text": "History house is a museum located in Desful.",
+                  "category": "museum",
+                  "coords": [
+                        48.398668,
+                        32.377541
+                  ]
+            },
+            {
+                  "name": "Sassanid bridge",
+                  "text": "Sassanid bridge is a notable tourist attraction located in Desful.",
+                  "category": "landmark",
+                  "coords": [
+                        48.391635,
+                        32.381512
+                  ]
+            },
+            {
+                  "name": "مجتمع فرهنگی سینمایی",
+                  "text": "مجتمع فرهنگی سینمایی is an arts centre located in Desful.",
+                  "category": "cultural",
+                  "coords": [
+                        48.381192,
+                        32.394235
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IR-10",
     coords: [48.4042, 32.3814],

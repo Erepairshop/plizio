@@ -3,7 +3,1312 @@ import type { POI } from "./poi";
 
 export const poiExtraEcuadorCitiesV2: POI[] = [
   {
-    id: "guayaquil-cities-v2",
+    id: "guayaquil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Antropológico y de Arte Contemporáneo",
+                  "text": "Das Museo Antropológico y de Arte Contemporáneo ist ein bedeutendes Museum in Guayaquil, das sich der modernen Kunst und Anthropologie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875528,
+                        -2.184774
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica de Guayaquil",
+                  "text": "Das Orquesta Sinfónica de Guayaquil ist eine bemerkenswerte Musik- und Theatereinrichtung in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.895036,
+                        -2.211172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Sagrario | Guayaquil",
+                  "text": "Die Iglesia Católica El Sagrario ist ein bemerkenswertes katholisches Gotteshaus in Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.883889,
+                        -2.194788
+                  ]
+            },
+            {
+                  "name": "Faro del Cerro Santa Ana",
+                  "text": "Der Faro del Cerro Santa Ana ist ein markanter Leuchtturm und eine Attraktion auf einem historischen Hügel in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875499,
+                        -2.18088
+                  ]
+            },
+            {
+                  "name": "Puente 5 de Junio",
+                  "text": "Die Puente 5 de Junio ist eine bemerkenswerte Brückeninfrastruktur in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89854,
+                        -2.186263
+                  ]
+            },
+            {
+                  "name": "Puente del Velero",
+                  "text": "Die Puente del Velero ist eine anerkannte Brückenkonstruktion in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.901336,
+                        -2.189101
+                  ]
+            },
+            {
+                  "name": "Isla Santay",
+                  "text": "Die Isla Santay ist ein bemerkenswertes Naturschutzgebiet und eine ökologische Insel in der Nähe von Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.855745,
+                        -2.223809
+                  ]
+            },
+            {
+                  "name": "Parque La Victoria",
+                  "text": "Der Parque La Victoria ist ein anerkannter öffentlicher Park in Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.889996,
+                        -2.193456
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad De Guayaquil",
+                  "text": "Die Guayaquil Town Hall ist das zentrale städtische Gebäude in der Stadt Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.880843,
+                        -2.195268
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "Die Plaza Rodolfo Baquerizo Moreno ist ein öffentlicher Platz und eine Attraktion am Malecón del Salado in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898303,
+                        -2.187458
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Das Museo Presley Norton ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895295,
+                        -2.187604
+                  ]
+            },
+            {
+                  "name": "La Perla rueda moscovita",
+                  "text": "La Perla Ferris wheel ist eine Touristenattraktion in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875865,
+                        -2.186425
+                  ]
+            },
+            {
+                  "name": "Cerro El Carmen",
+                  "text": "Der Cerro El Carmen ist ein markanter Gipfel in Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883485,
+                        -2.180169
+                  ]
+            },
+            {
+                  "name": "Parque Centenario",
+                  "text": "Der Parque Centenario ist ein öffentlicher Park in Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.887712,
+                        -2.189995
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Guayaquil",
+                  "text": "Das Museo Municipal de Guayaquil ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.882606,
+                        -2.195857
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.888634,
+                        -2.189313
+                  ]
+            },
+            {
+                  "name": "Museo Naval Almirante Illingworth",
+                  "text": "Das Museo Naval Almirante Illingworth ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.886495,
+                        -2.214852
+                  ]
+            },
+            {
+                  "name": "Museo del Bombero \"Félix Luque Plata\"",
+                  "text": "Das Museo del Bombero \"Félix Luque Plata\" ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89738,
+                        -2.204095
+                  ]
+            },
+            {
+                  "name": "Guayaquil en la Historía",
+                  "text": "Guayaquil en la Historía ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.87683,
+                        -2.186123
+                  ]
+            },
+            {
+                  "name": "Museo de la Música Popular Julio Jaramillo",
+                  "text": "Das Museo de la Música Popular Julio Jaramillo ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.874122,
+                        -2.180841
+                  ]
+            },
+            {
+                  "name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil",
+                  "text": "Das Museo del Benemérito Cuerpo de Bomberos de Guayaquil ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.877102,
+                        -2.183132
+                  ]
+            },
+            {
+                  "name": "Casa del Artista Plastico",
+                  "text": "Casa del Artista Plastico ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875107,
+                        -2.183499
+                  ]
+            },
+            {
+                  "name": "Museo de la Arcilla \"María Eugenia Puig Lince\"",
+                  "text": "Das Museo de la Arcilla \"María Eugenia Puig Lince\" ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.907571,
+                        -2.188506
+                  ]
+            },
+            {
+                  "name": "Museo del cacao",
+                  "text": "Das Museo del cacao ist ein Museum in der Stadt Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.878964,
+                        -2.188181
+                  ]
+            },
+            {
+                  "name": "El Pescador",
+                  "text": "El Pescador ist ein Denkmal in der Stadt Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.905546,
+                        -2.188026
+                  ]
+            },
+            {
+                  "name": "Busto a Mahatma Gandhi",
+                  "text": "Busto a Mahatma Gandhi ist ein Denkmal in der Stadt Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.875747,
+                        -2.178369
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria Joven",
+                  "text": "Monumento a la Patria Joven ist ein Denkmal in der Stadt Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.894624,
+                        -2.209926
+                  ]
+            },
+            {
+                  "name": "Escultura El Bagre",
+                  "text": "Escultura El Bagre ist ein Denkmal in der Stadt Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.910706,
+                        -2.188988
+                  ]
+            },
+            {
+                  "name": "Julio Jaramillo",
+                  "text": "Julio Jaramillo ist ein Denkmal in der Stadt Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.874066,
+                        -2.182007
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "Monumento a Clemente Yerovi ist ein Denkmal in der Stadt Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "La Rotonda",
+                  "text": "The Rotunda ist ein Denkmal in der Stadt Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.879212,
+                        -2.192558
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "CENTRO CULTURAL SARAO. ist ein Theater und Veranstaltungsort in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177306
+                  ]
+            },
+            {
+                  "name": "CLOU Teatro (Agrupación Teatral)",
+                  "text": "CLOU Teatro (Agrupación Teatral) ist ein Theater und Veranstaltungsort in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.879788,
+                        -2.190176
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
+                  "text": "Das Orquesta Sinfónica Cristiana del Ecuador ist ein Theater in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.896665,
+                        -2.189452
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "Cursos Gratuitos de Guayarte ist ein Kunstzentrum in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Barco Pirata Morgan",
+                  "text": "Captain Morgan's Pirate Ship ist eine Attraktion in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.880287,
+                        -2.196771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Antropológico y de Arte Contemporáneo",
+                  "text": "A Museo Antropológico y de Arte Contemporáneo egy jelentős múzeum Guayaquilban, amely a modern művészettel és az antropológiával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875528,
+                        -2.184774
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica de Guayaquil",
+                  "text": "Az Orquesta Sinfónica de Guayaquil egy nevezetes zenés színházi intézmény Guayaquilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.895036,
+                        -2.211172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Sagrario | Guayaquil",
+                  "text": "Az Iglesia Católica El Sagrario egy nevezetes katolikus istentiszteleti hely Guayaquilban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.883889,
+                        -2.194788
+                  ]
+            },
+            {
+                  "name": "Faro del Cerro Santa Ana",
+                  "text": "A Faro del Cerro Santa Ana egy kiemelkedő világítótorony és látványosság, amely egy történelmi dombon található Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875499,
+                        -2.18088
+                  ]
+            },
+            {
+                  "name": "Puente 5 de Junio",
+                  "text": "A Puente 5 de Junio egy nevezetes híd infrastruktúra Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89854,
+                        -2.186263
+                  ]
+            },
+            {
+                  "name": "Puente del Velero",
+                  "text": "A Puente del Velero egy elismert hídszerkezet Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.901336,
+                        -2.189101
+                  ]
+            },
+            {
+                  "name": "Isla Santay",
+                  "text": "Az Isla Santay egy nevezetes természetvédelmi terület és ökológiai sziget Guayaquil közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -79.855745,
+                        -2.223809
+                  ]
+            },
+            {
+                  "name": "Parque La Victoria",
+                  "text": "A Parque La Victoria egy elismert közpark Guayaquilban.",
+                  "category": "park",
+                  "coords": [
+                        -79.889996,
+                        -2.193456
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad De Guayaquil",
+                  "text": "A Guayaquil Town Hall Guayaquil város központi önkormányzati épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -79.880843,
+                        -2.195268
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "A Plaza Rodolfo Baquerizo Moreno egy köztér és látványosság, amely a Malecón del Salado mentén található Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898303,
+                        -2.187458
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "A Museo Presley Norton egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895295,
+                        -2.187604
+                  ]
+            },
+            {
+                  "name": "La Perla rueda moscovita",
+                  "text": "A La Perla Ferris wheel egy turisztikai látványosság Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875865,
+                        -2.186425
+                  ]
+            },
+            {
+                  "name": "Cerro El Carmen",
+                  "text": "A Cerro El Carmen egy figyelemre méltó hegycsúcs Guayaquilban.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883485,
+                        -2.180169
+                  ]
+            },
+            {
+                  "name": "Parque Centenario",
+                  "text": "A Parque Centenario egy közpark Guayaquil városában.",
+                  "category": "park",
+                  "coords": [
+                        -79.887712,
+                        -2.189995
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Guayaquil",
+                  "text": "A Museo Municipal de Guayaquil egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.882606,
+                        -2.195857
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A Casa de la Cultura egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.888634,
+                        -2.189313
+                  ]
+            },
+            {
+                  "name": "Museo Naval Almirante Illingworth",
+                  "text": "A Museo Naval Almirante Illingworth egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.886495,
+                        -2.214852
+                  ]
+            },
+            {
+                  "name": "Museo del Bombero \"Félix Luque Plata\"",
+                  "text": "A Museo del Bombero \"Félix Luque Plata\" egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89738,
+                        -2.204095
+                  ]
+            },
+            {
+                  "name": "Guayaquil en la Historía",
+                  "text": "A Guayaquil en la Historía egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.87683,
+                        -2.186123
+                  ]
+            },
+            {
+                  "name": "Museo de la Música Popular Julio Jaramillo",
+                  "text": "A Museo de la Música Popular Julio Jaramillo egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.874122,
+                        -2.180841
+                  ]
+            },
+            {
+                  "name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil",
+                  "text": "A Museo del Benemérito Cuerpo de Bomberos de Guayaquil egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.877102,
+                        -2.183132
+                  ]
+            },
+            {
+                  "name": "Casa del Artista Plastico",
+                  "text": "A Casa del Artista Plastico egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875107,
+                        -2.183499
+                  ]
+            },
+            {
+                  "name": "Museo de la Arcilla \"María Eugenia Puig Lince\"",
+                  "text": "A Museo de la Arcilla \"María Eugenia Puig Lince\" egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.907571,
+                        -2.188506
+                  ]
+            },
+            {
+                  "name": "Museo del cacao",
+                  "text": "A Museo del cacao egy múzeum Guayaquil városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.878964,
+                        -2.188181
+                  ]
+            },
+            {
+                  "name": "El Pescador",
+                  "text": "Az El Pescador egy emlékmű Guayaquil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.905546,
+                        -2.188026
+                  ]
+            },
+            {
+                  "name": "Busto a Mahatma Gandhi",
+                  "text": "A Busto a Mahatma Gandhi egy emlékmű Guayaquil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.875747,
+                        -2.178369
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria Joven",
+                  "text": "A Monumento a la Patria Joven egy emlékmű Guayaquil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.894624,
+                        -2.209926
+                  ]
+            },
+            {
+                  "name": "Escultura El Bagre",
+                  "text": "Az Escultura El Bagre egy emlékmű Guayaquil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.910706,
+                        -2.188988
+                  ]
+            },
+            {
+                  "name": "Julio Jaramillo",
+                  "text": "A Julio Jaramillo egy emlékmű Guayaquil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.874066,
+                        -2.182007
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "A Monumento a Clemente Yerovi egy emlékmű Guayaquil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "La Rotonda",
+                  "text": "A The Rotunda egy emlékmű Guayaquil városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.879212,
+                        -2.192558
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "A CENTRO CULTURAL SARAO. egy színház és kulturális helyszín Guayaquilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177306
+                  ]
+            },
+            {
+                  "name": "CLOU Teatro (Agrupación Teatral)",
+                  "text": "A CLOU Teatro (Agrupación Teatral) egy színház és kulturális helyszín Guayaquilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.879788,
+                        -2.190176
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
+                  "text": "Az Orquesta Sinfónica Cristiana del Ecuador egy színház Guayaquilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.896665,
+                        -2.189452
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "A Cursos Gratuitos de Guayarte egy művészeti központ Guayaquilban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Barco Pirata Morgan",
+                  "text": "A Captain Morgan's Pirate Ship egy látványosság Guayaquilban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.880287,
+                        -2.196771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Antropológico y de Arte Contemporáneo",
+                  "text": "Museo Antropológico y de Arte Contemporáneo este un muzeu notabil din Guayaquil, dedicat artei moderne și antropologiei.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875528,
+                        -2.184774
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica de Guayaquil",
+                  "text": "Orquesta Sinfónica de Guayaquil este o instituție muzicală și teatrală notabilă din Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.895036,
+                        -2.211172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Sagrario | Guayaquil",
+                  "text": "Iglesia Católica El Sagrario este un lăcaș de cult catolic notabil situat în Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.883889,
+                        -2.194788
+                  ]
+            },
+            {
+                  "name": "Faro del Cerro Santa Ana",
+                  "text": "Faro del Cerro Santa Ana este un far proeminent și o atracție situată pe un deal istoric din Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875499,
+                        -2.18088
+                  ]
+            },
+            {
+                  "name": "Puente 5 de Junio",
+                  "text": "Puente 5 de Junio este o infrastructură de pod notabilă situată în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89854,
+                        -2.186263
+                  ]
+            },
+            {
+                  "name": "Puente del Velero",
+                  "text": "Puente del Velero este o structură de pod recunoscută situată în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.901336,
+                        -2.189101
+                  ]
+            },
+            {
+                  "name": "Isla Santay",
+                  "text": "Isla Santay este o rezervație naturală și o insulă ecologică notabilă din apropiere de Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.855745,
+                        -2.223809
+                  ]
+            },
+            {
+                  "name": "Parque La Victoria",
+                  "text": "Parque La Victoria este un parc public recunoscut situat în Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.889996,
+                        -2.193456
+                  ]
+            },
+            {
+                  "name": "Ilustre Municipalidad De Guayaquil",
+                  "text": "Guayaquil Town Hall este clădirea municipală centrală situată în orașul Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.880843,
+                        -2.195268
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "Plaza Rodolfo Baquerizo Moreno este o piață publică și o atracție situată de-a lungul Malecón del Salado din Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898303,
+                        -2.187458
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Museo Presley Norton este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895295,
+                        -2.187604
+                  ]
+            },
+            {
+                  "name": "La Perla rueda moscovita",
+                  "text": "La Perla Ferris wheel este o atracție turistică situată în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875865,
+                        -2.186425
+                  ]
+            },
+            {
+                  "name": "Cerro El Carmen",
+                  "text": "Cerro El Carmen este un vârf notabil situat în Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883485,
+                        -2.180169
+                  ]
+            },
+            {
+                  "name": "Parque Centenario",
+                  "text": "Parque Centenario este un parc public situat în Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.887712,
+                        -2.189995
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Guayaquil",
+                  "text": "Museo Municipal de Guayaquil este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.882606,
+                        -2.195857
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.888634,
+                        -2.189313
+                  ]
+            },
+            {
+                  "name": "Museo Naval Almirante Illingworth",
+                  "text": "Museo Naval Almirante Illingworth este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.886495,
+                        -2.214852
+                  ]
+            },
+            {
+                  "name": "Museo del Bombero \"Félix Luque Plata\"",
+                  "text": "Museo del Bombero \"Félix Luque Plata\" este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89738,
+                        -2.204095
+                  ]
+            },
+            {
+                  "name": "Guayaquil en la Historía",
+                  "text": "Guayaquil en la Historía este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.87683,
+                        -2.186123
+                  ]
+            },
+            {
+                  "name": "Museo de la Música Popular Julio Jaramillo",
+                  "text": "Museo de la Música Popular Julio Jaramillo este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.874122,
+                        -2.180841
+                  ]
+            },
+            {
+                  "name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil",
+                  "text": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.877102,
+                        -2.183132
+                  ]
+            },
+            {
+                  "name": "Casa del Artista Plastico",
+                  "text": "Casa del Artista Plastico este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875107,
+                        -2.183499
+                  ]
+            },
+            {
+                  "name": "Museo de la Arcilla \"María Eugenia Puig Lince\"",
+                  "text": "Museo de la Arcilla \"María Eugenia Puig Lince\" este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.907571,
+                        -2.188506
+                  ]
+            },
+            {
+                  "name": "Museo del cacao",
+                  "text": "Museo del cacao este un muzeu situat în orașul Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.878964,
+                        -2.188181
+                  ]
+            },
+            {
+                  "name": "El Pescador",
+                  "text": "El Pescador este un monument situat în orașul Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.905546,
+                        -2.188026
+                  ]
+            },
+            {
+                  "name": "Busto a Mahatma Gandhi",
+                  "text": "Busto a Mahatma Gandhi este un monument situat în orașul Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.875747,
+                        -2.178369
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria Joven",
+                  "text": "Monumento a la Patria Joven este un monument situat în orașul Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.894624,
+                        -2.209926
+                  ]
+            },
+            {
+                  "name": "Escultura El Bagre",
+                  "text": "Escultura El Bagre este un monument situat în orașul Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.910706,
+                        -2.188988
+                  ]
+            },
+            {
+                  "name": "Julio Jaramillo",
+                  "text": "Julio Jaramillo este un monument situat în orașul Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.874066,
+                        -2.182007
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "Monumento a Clemente Yerovi este un monument situat în orașul Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "La Rotonda",
+                  "text": "The Rotunda este un monument situat în orașul Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.879212,
+                        -2.192558
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "CENTRO CULTURAL SARAO. este un teatru și un centru cultural din Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177306
+                  ]
+            },
+            {
+                  "name": "CLOU Teatro (Agrupación Teatral)",
+                  "text": "CLOU Teatro (Agrupación Teatral) este un teatru și un centru cultural din Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.879788,
+                        -2.190176
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
+                  "text": "Orquesta Sinfónica Cristiana del Ecuador este un teatru din Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.896665,
+                        -2.189452
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "Cursos Gratuitos de Guayarte este un centru de artă în Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Barco Pirata Morgan",
+                  "text": "Captain Morgan's Pirate Ship este o atracție în Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.880287,
+                        -2.196771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Antropológico y de Arte Contemporáneo",
+                  "text": "The Museo Antropológico y de Arte Contemporáneo is a notable museum in Guayaquil dedicated to modern art and anthropology.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875528,
+                        -2.184774
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica de Guayaquil",
+                  "text": "The Orquesta Sinfónica de Guayaquil is a notable musical theatre institution in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.895036,
+                        -2.211172
+                  ]
+            },
+            {
+                  "name": "Iglesia Católica El Sagrario | Guayaquil",
+                  "text": "Iglesia Católica El Sagrario is a notable Catholic place of worship located in Guayaquil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.883889,
+                        -2.194788
+                  ]
+            },
+            {
+                  "name": "Faro del Cerro Santa Ana",
+                  "text": "Faro del Cerro Santa Ana is a prominent lighthouse and attraction located on a historic hill in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875499,
+                        -2.18088
+                  ]
+            },
+            {
+                  "name": "Puente 5 de Junio",
+                  "text": "Puente 5 de Junio is a notable bridge infrastructure located in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.89854,
+                        -2.186263
+                  ]
+            },
+            {
+                  "name": "Puente del Velero",
+                  "text": "Puente del Velero is a recognized bridge structure situated in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.901336,
+                        -2.189101
+                  ]
+            },
+            {
+                  "name": "Isla Santay",
+                  "text": "Isla Santay is a notable nature reserve and ecological island near Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.855745,
+                        -2.223809
+                  ]
+            },
+            {
+                  "name": "Parque La Victoria",
+                  "text": "Parque La Victoria is a recognized public park located in Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.889996,
+                        -2.193456
+                  ]
+            },
+            {
+                  "name": "Guayaquil Town Hall",
+                  "text": "Guayaquil Town Hall is the central municipal building situated in the city of Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.880843,
+                        -2.195268
+                  ]
+            },
+            {
+                  "name": "Plaza Rodolfo Baquerizo Moreno",
+                  "text": "Plaza Rodolfo Baquerizo Moreno is a public square and attraction situated along the Malecón del Salado in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.898303,
+                        -2.187458
+                  ]
+            },
+            {
+                  "name": "Museo Presley Norton",
+                  "text": "Museo Presley Norton is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.895295,
+                        -2.187604
+                  ]
+            },
+            {
+                  "name": "La Perla Ferris wheel",
+                  "text": "La Perla Ferris wheel is a tourist attraction located in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.875865,
+                        -2.186425
+                  ]
+            },
+            {
+                  "name": "Cerro El Carmen",
+                  "text": "Cerro El Carmen is a notable peak situated in Guayaquil.",
+                  "category": "natural",
+                  "coords": [
+                        -79.883485,
+                        -2.180169
+                  ]
+            },
+            {
+                  "name": "Parque Centenario",
+                  "text": "Parque Centenario is a public park located in Guayaquil.",
+                  "category": "park",
+                  "coords": [
+                        -79.887712,
+                        -2.189995
+                  ]
+            },
+            {
+                  "name": "Museo Municipal de Guayaquil",
+                  "text": "Museo Municipal de Guayaquil is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.882606,
+                        -2.195857
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de la Cultura is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.888634,
+                        -2.189313
+                  ]
+            },
+            {
+                  "name": "Museo Naval Almirante Illingworth",
+                  "text": "Museo Naval Almirante Illingworth is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.886495,
+                        -2.214852
+                  ]
+            },
+            {
+                  "name": "Museo del Bombero \"Félix Luque Plata\"",
+                  "text": "Museo del Bombero \"Félix Luque Plata\" is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.89738,
+                        -2.204095
+                  ]
+            },
+            {
+                  "name": "Guayaquil en la Historía",
+                  "text": "Guayaquil en la Historía is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.87683,
+                        -2.186123
+                  ]
+            },
+            {
+                  "name": "Museo de la Música Popular Julio Jaramillo",
+                  "text": "Museo de la Música Popular Julio Jaramillo is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.874122,
+                        -2.180841
+                  ]
+            },
+            {
+                  "name": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil",
+                  "text": "Museo del Benemérito Cuerpo de Bomberos de Guayaquil is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.877102,
+                        -2.183132
+                  ]
+            },
+            {
+                  "name": "Casa del Artista Plastico",
+                  "text": "Casa del Artista Plastico is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.875107,
+                        -2.183499
+                  ]
+            },
+            {
+                  "name": "Museo de la Arcilla \"María Eugenia Puig Lince\"",
+                  "text": "Museo de la Arcilla \"María Eugenia Puig Lince\" is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.907571,
+                        -2.188506
+                  ]
+            },
+            {
+                  "name": "Museo del cacao",
+                  "text": "Museo del cacao is a museum located in the city of Guayaquil.",
+                  "category": "museum",
+                  "coords": [
+                        -79.878964,
+                        -2.188181
+                  ]
+            },
+            {
+                  "name": "El Pescador",
+                  "text": "El Pescador is a monument situated in the city of Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.905546,
+                        -2.188026
+                  ]
+            },
+            {
+                  "name": "Busto a Mahatma Gandhi",
+                  "text": "Busto a Mahatma Gandhi is a monument situated in the city of Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.875747,
+                        -2.178369
+                  ]
+            },
+            {
+                  "name": "Monumento a la Patria Joven",
+                  "text": "Monumento a la Patria Joven is a monument situated in the city of Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.894624,
+                        -2.209926
+                  ]
+            },
+            {
+                  "name": "Escultura El Bagre",
+                  "text": "Escultura El Bagre is a monument situated in the city of Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.910706,
+                        -2.188988
+                  ]
+            },
+            {
+                  "name": "Julio Jaramillo",
+                  "text": "Julio Jaramillo is a monument situated in the city of Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.874066,
+                        -2.182007
+                  ]
+            },
+            {
+                  "name": "Monumento a Clemente Yerovi",
+                  "text": "Monumento a Clemente Yerovi is a monument situated in the city of Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.898768,
+                        -2.175216
+                  ]
+            },
+            {
+                  "name": "The Rotunda",
+                  "text": "The Rotunda is a monument situated in the city of Guayaquil.",
+                  "category": "historical",
+                  "coords": [
+                        -79.879212,
+                        -2.192558
+                  ]
+            },
+            {
+                  "name": "CENTRO CULTURAL SARAO.",
+                  "text": "CENTRO CULTURAL SARAO. is a theatre and cultural venue in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.900264,
+                        -2.177306
+                  ]
+            },
+            {
+                  "name": "CLOU Teatro (Agrupación Teatral)",
+                  "text": "CLOU Teatro (Agrupación Teatral) is a theatre and cultural venue in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.879788,
+                        -2.190176
+                  ]
+            },
+            {
+                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
+                  "text": "The Orquesta Sinfónica Cristiana del Ecuador is a theatre in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.896665,
+                        -2.189452
+                  ]
+            },
+            {
+                  "name": "Cursos Gratuitos de Guayarte",
+                  "text": "Cursos Gratuitos de Guayarte is an arts centre in Guayaquil.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.90281,
+                        -2.180351
+                  ]
+            },
+            {
+                  "name": "Captain Morgan's Pirate Ship",
+                  "text": "Captain Morgan's Pirate Ship is an attraction in Guayaquil.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.880287,
+                        -2.196771
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-79.8862, -2.1961],
@@ -199,7 +1504,268 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       fr: ["Capitale de la province d'El Oro.", "Port d'exportation important à proximité (Puerto Bolívar).", "La fête annuelle de la banane attire de nombreux visiteurs.", "L'agriculture domine l'économie locale."],
     }, image: "/poi-images/machala-cities-v2.webp"},
   {
-    id: "duran-cities-v2",
+    id: "duran-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cdla. la Martina",
+                  "text": "Cdla. la Martina ist ein Aussichtspunkt in Durán, der Besuchern einen Panoramablick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -79.824232,
+                        -2.179979
+                  ]
+            },
+            {
+                  "name": "Camposanto Jardines de Durán",
+                  "text": "Camposanto Jardines de Durán ist ein Aussichtspunkt, der sich in der Stadt Durán befindet.",
+                  "category": "natural",
+                  "coords": [
+                        -79.827451,
+                        -2.150275
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Salón del Reino de los Testigos de Jehová ist eine lokale Sehenswürdigkeit in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.822318,
+                        -2.187768
+                  ]
+            },
+            {
+                  "name": "mirador",
+                  "text": "Der Mirador ist ein malerischer Aussichtspunkt in Durán.",
+                  "category": "natural",
+                  "coords": [
+                        -79.84933,
+                        -2.165967
+                  ]
+            },
+            {
+                  "name": "dB ProMedia Durán",
+                  "text": "dB ProMedia Durán ist eine Sehenswürdigkeit in der Stadt Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84,
+                        -2.160814
+                  ]
+            },
+            {
+                  "name": "Monumento del Pez",
+                  "text": "Monumento del Pez ist ein öffentliches Denkmal in der Stadt Durán.",
+                  "category": "historical",
+                  "coords": [
+                        -79.846317,
+                        -2.163023
+                  ]
+            },
+            {
+                  "name": "Puente Rafael Mendoza Avilés",
+                  "text": "Die Puente Rafael Mendoza Avilés, auch bekannt als National Unity Bridge, ist ein Bauwerk in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.854433,
+                        -2.158965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cdla. la Martina",
+                  "text": "A Cdla. la Martina egy kilátó Durán városában, amely panorámás kilátást nyújt a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        -79.824232,
+                        -2.179979
+                  ]
+            },
+            {
+                  "name": "Camposanto Jardines de Durán",
+                  "text": "A Camposanto Jardines de Durán egy kilátópont, amely Durán városában található.",
+                  "category": "natural",
+                  "coords": [
+                        -79.827451,
+                        -2.150275
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "A Salón del Reino de los Testigos de Jehová egy helyi látványosság Durán városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.822318,
+                        -2.187768
+                  ]
+            },
+            {
+                  "name": "mirador",
+                  "text": "A mirador egy festői kilátó Durán városában.",
+                  "category": "natural",
+                  "coords": [
+                        -79.84933,
+                        -2.165967
+                  ]
+            },
+            {
+                  "name": "dB ProMedia Durán",
+                  "text": "A dB ProMedia Durán egy látványosság Durán városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84,
+                        -2.160814
+                  ]
+            },
+            {
+                  "name": "Monumento del Pez",
+                  "text": "A Monumento del Pez egy nyilvános emlékmű Durán városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.846317,
+                        -2.163023
+                  ]
+            },
+            {
+                  "name": "Puente Rafael Mendoza Avilés",
+                  "text": "A Puente Rafael Mendoza Avilés, más néven a Nemzeti Egység Hídja, egy híd Durán városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.854433,
+                        -2.158965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cdla. la Martina",
+                  "text": "Cdla. la Martina este un punct de belvedere din Durán care oferă vizitatorilor o vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        -79.824232,
+                        -2.179979
+                  ]
+            },
+            {
+                  "name": "Camposanto Jardines de Durán",
+                  "text": "Camposanto Jardines de Durán este un punct de belvedere situat în orașul Durán.",
+                  "category": "natural",
+                  "coords": [
+                        -79.827451,
+                        -2.150275
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Salón del Reino de los Testigos de Jehová este o atracție locală din Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.822318,
+                        -2.187768
+                  ]
+            },
+            {
+                  "name": "mirador",
+                  "text": "Mirador este un punct de belvedere pitoresc din Durán.",
+                  "category": "natural",
+                  "coords": [
+                        -79.84933,
+                        -2.165967
+                  ]
+            },
+            {
+                  "name": "dB ProMedia Durán",
+                  "text": "dB ProMedia Durán este o atracție situată în orașul Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84,
+                        -2.160814
+                  ]
+            },
+            {
+                  "name": "Monumento del Pez",
+                  "text": "Monumento del Pez este un monument public din orașul Durán.",
+                  "category": "historical",
+                  "coords": [
+                        -79.846317,
+                        -2.163023
+                  ]
+            },
+            {
+                  "name": "Puente Rafael Mendoza Avilés",
+                  "text": "Puente Rafael Mendoza Avilés, cunoscut și sub numele de National Unity Bridge, este un pod din Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.854433,
+                        -2.158965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cdla. la Martina",
+                  "text": "Cdla. la Martina is a viewpoint in Durán offering visitors panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -79.824232,
+                        -2.179979
+                  ]
+            },
+            {
+                  "name": "Camposanto Jardines de Durán",
+                  "text": "Camposanto Jardines de Durán is a viewpoint located in the city of Durán.",
+                  "category": "natural",
+                  "coords": [
+                        -79.827451,
+                        -2.150275
+                  ]
+            },
+            {
+                  "name": "Salón del Reino de los Testigos de Jehová",
+                  "text": "Salón del Reino de los Testigos de Jehová is a local attraction in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.822318,
+                        -2.187768
+                  ]
+            },
+            {
+                  "name": "mirador",
+                  "text": "The mirador is a scenic viewpoint located in Durán.",
+                  "category": "natural",
+                  "coords": [
+                        -79.84933,
+                        -2.165967
+                  ]
+            },
+            {
+                  "name": "dB ProMedia Durán",
+                  "text": "dB ProMedia Durán is an attraction located in the city of Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84,
+                        -2.160814
+                  ]
+            },
+            {
+                  "name": "Monumento del Pez",
+                  "text": "Monumento del Pez is a public monument situated in the city of Durán.",
+                  "category": "historical",
+                  "coords": [
+                        -79.846317,
+                        -2.163023
+                  ]
+            },
+            {
+                  "name": "Puente Rafael Mendoza Avilés",
+                  "text": "Puente Rafael Mendoza Avilés, also known as the National Unity Bridge, is a bridge in Durán.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.854433,
+                        -2.158965
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-79.8228, -2.1704],
@@ -244,7 +1810,556 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       fr: ["Nœud ferroviaire important par le passé.", "Fait partie de la région métropolitaine de Guayaquil.", "Fortement industrialisée.", "Population en croissance rapide."],
     }, image: "/poi-images/duran-cities-v2.webp"},
   {
-    id: "manta-cities-v2",
+    id: "manta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "Das Museo del Banco Central ist ein Museum in Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Playa Tarqui",
+                  "text": "Tarqui Beach ist ein Strandabschnitt in der Stadt Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.713488,
+                        -0.949929
+                  ]
+            },
+            {
+                  "name": "Playa Los Esteros",
+                  "text": "Los Esteros Beach ist ein öffentlicher Strand in Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.707453,
+                        -0.949931
+                  ]
+            },
+            {
+                  "name": "Barbasquillo",
+                  "text": "Barbasquillo ist ein bekannter Strandbereich in Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.745436,
+                        -0.943662
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "Das Museo Centro Cultural Manta ist ein kulturelles Museum in Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730412,
+                        -0.941876
+                  ]
+            },
+            {
+                  "name": "La Poza",
+                  "text": "La Poza ist ein Strand in Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.720473,
+                        -0.946478
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "Das Museo Municipal Etnográfico Cancebí ist ein städtisches ethnografisches Museum in Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "La Trinchera ist ein lokales Theater in Manta.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743472,
+                        -0.94605
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "Das Museo del Mar ist ein Museum in Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709492,
+                        -0.951217
+                  ]
+            },
+            {
+                  "name": "El Murciélago",
+                  "text": "Playa El Murciélago ist ein beliebter, weitläufiger Strand und eine Attraktion in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729021,
+                        -0.93745
+                  ]
+            },
+            {
+                  "name": "Al Pescador",
+                  "text": "To the fisherman ist ein Denkmal in Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Letras de Manta",
+                  "text": "Das Manta Sign ist eine Attraktion in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "Haz de Luz ist eine lokale Attraktion in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.94704
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "Cuerpo de Bomberos Manta ist ein Feuerwehr-Denkmal in Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Eloy Alfaro Delgado ist ein Denkmal in Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "A Museo del Banco Central egy múzeum Manta városában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Playa Tarqui",
+                  "text": "A Tarqui Beach egy tengerparti szakasz Manta városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.713488,
+                        -0.949929
+                  ]
+            },
+            {
+                  "name": "Playa Los Esteros",
+                  "text": "A Los Esteros Beach egy nyilvános strand Manta területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.707453,
+                        -0.949931
+                  ]
+            },
+            {
+                  "name": "Barbasquillo",
+                  "text": "A Barbasquillo egy ismert tengerparti terület Mantában.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.745436,
+                        -0.943662
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "A Museo Centro Cultural Manta egy kulturális múzeum Manta városában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730412,
+                        -0.941876
+                  ]
+            },
+            {
+                  "name": "La Poza",
+                  "text": "A La Poza egy tengerparti úti cél Mantában.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.720473,
+                        -0.946478
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "A Museo Municipal Etnográfico Cancebí egy helyi néprajzi múzeum Mantában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "A La Trinchera egy helyi színház Manta városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743472,
+                        -0.94605
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "A Museo del Mar egy múzeum Manta városában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709492,
+                        -0.951217
+                  ]
+            },
+            {
+                  "name": "El Murciélago",
+                  "text": "A Playa El Murciélago egy népszerű strand és látványosság Manta városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729021,
+                        -0.93745
+                  ]
+            },
+            {
+                  "name": "Al Pescador",
+                  "text": "A To the fisherman egy emlékmű Mantában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Letras de Manta",
+                  "text": "A Manta Sign egy látványosság Mantában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "A Haz de Luz egy helyi látványosság Manta városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.94704
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "A Cuerpo de Bomberos Manta egy a tűzoltósághoz kapcsolódó emlékmű Mantában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Az Eloy Alfaro Delgado egy emlékmű Mantában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "Museo del Banco Central este un muzeu situat în Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Playa Tarqui",
+                  "text": "Tarqui Beach este o plajă situată în orașul Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.713488,
+                        -0.949929
+                  ]
+            },
+            {
+                  "name": "Playa Los Esteros",
+                  "text": "Los Esteros Beach este o plajă publică din Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.707453,
+                        -0.949931
+                  ]
+            },
+            {
+                  "name": "Barbasquillo",
+                  "text": "Barbasquillo este o zonă de plajă din Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.745436,
+                        -0.943662
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "Museo Centro Cultural Manta este un muzeu cultural din Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730412,
+                        -0.941876
+                  ]
+            },
+            {
+                  "name": "La Poza",
+                  "text": "La Poza este o destinație de plajă din Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.720473,
+                        -0.946478
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "Museo Municipal Etnográfico Cancebí este un muzeu etnografic municipal din Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "La Trinchera este un teatru local din Manta.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743472,
+                        -0.94605
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "Museo del Mar este un muzeu situat în Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709492,
+                        -0.951217
+                  ]
+            },
+            {
+                  "name": "El Murciélago",
+                  "text": "Playa El Murciélago este o atracție de plajă populară din Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729021,
+                        -0.93745
+                  ]
+            },
+            {
+                  "name": "Al Pescador",
+                  "text": "To the fisherman este un monument din Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Letras de Manta",
+                  "text": "Manta Sign este o atracție din Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "Haz de Luz este o atracție locală situată în Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.94704
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "Cuerpo de Bomberos Manta este un monument legat de pompierii din Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Eloy Alfaro Delgado este un monument din Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Banco Central",
+                  "text": "Museo del Banco Central is a museum situated in Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721109,
+                        -0.950468
+                  ]
+            },
+            {
+                  "name": "Tarqui Beach",
+                  "text": "Tarqui Beach is a coastal stretch located in Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.713488,
+                        -0.949929
+                  ]
+            },
+            {
+                  "name": "Los Esteros Beach",
+                  "text": "Los Esteros Beach is a public beach situated in Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.707453,
+                        -0.949931
+                  ]
+            },
+            {
+                  "name": "Barbasquillo",
+                  "text": "Barbasquillo is a prominent beach area in Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.745436,
+                        -0.943662
+                  ]
+            },
+            {
+                  "name": "Museo Centro Cultural Manta",
+                  "text": "Museo Centro Cultural Manta is a cultural museum located in Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.730412,
+                        -0.941876
+                  ]
+            },
+            {
+                  "name": "La Poza",
+                  "text": "La Poza is a beach destination found in Manta.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.720473,
+                        -0.946478
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Etnográfico Cancebí",
+                  "text": "Museo Municipal Etnográfico Cancebí is a municipal ethnographic museum in Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.721659,
+                        -0.947589
+                  ]
+            },
+            {
+                  "name": "La Trinchera",
+                  "text": "La Trinchera is a local theatre venue in Manta.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.743472,
+                        -0.94605
+                  ]
+            },
+            {
+                  "name": "Museo del Mar",
+                  "text": "Museo del Mar is a museum situated in Manta.",
+                  "category": "museum",
+                  "coords": [
+                        -80.709492,
+                        -0.951217
+                  ]
+            },
+            {
+                  "name": "El Murcielago",
+                  "text": "Playa El Murciélago is a popular beach attraction located in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.729021,
+                        -0.93745
+                  ]
+            },
+            {
+                  "name": "To the fisherman",
+                  "text": "To the fisherman is a monument dedicated to local fishers in Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.717259,
+                        -0.952455
+                  ]
+            },
+            {
+                  "name": "Manta Sign",
+                  "text": "The Manta Sign is a landmark attraction in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.722112,
+                        -0.945218
+                  ]
+            },
+            {
+                  "name": "Haz de Luz",
+                  "text": "Haz de Luz is a local attraction located in Manta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.717566,
+                        -0.94704
+                  ]
+            },
+            {
+                  "name": "Cuerpo de Bomberos Manta",
+                  "text": "Cuerpo de Bomberos Manta is a monument related to the fire department in Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.747712,
+                        -0.957798
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Delgado",
+                  "text": "Eloy Alfaro Delgado is a monument located in Manta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.745954,
+                        -0.954752
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-M",
     coords: [-80.7259, -0.9496],
@@ -367,7 +2482,376 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       fr: ["Capitale de la province d'Imbabura.", "Située au pied du volcan Imbabura.", "Célèbre pour les glaces Helados de Paila.", "Fondée en 1606."],
     }, image: "/poi-images/ibarra-cities-v2.webp"},
   {
-    id: "quevedo-cities-v2",
+    id: "quevedo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "PALACIO DE CRISTAL",
+                  "text": "PALACIO DE CRISTAL ist ein Theater in Quevedo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.464931,
+                        -1.02392
+                  ]
+            },
+            {
+                  "name": "Área verde en Ladera",
+                  "text": "Área verde en Ladera ist ein Naturschutzgebiet in Quevedo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.473697,
+                        -1.034248
+                  ]
+            },
+            {
+                  "name": "Reserva de Bosque Natural del Sr. Gerardo Jácome",
+                  "text": "Die Reserva de Bosque Natural del Sr. Gerardo Jácome ist ein Naturschutzgebiet in Quevedo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.444026,
+                        -1.035557
+                  ]
+            },
+            {
+                  "name": "PLAZA CIVICA",
+                  "text": "PLAZA CIVICA ist ein Denkmal in Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.468262,
+                        -1.030866
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre ist ein Denkmal in Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.465708,
+                        -1.021723
+                  ]
+            },
+            {
+                  "name": "Parque el avión",
+                  "text": "Parque el avión ist eine Attraktion in Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.474844,
+                        -1.038341
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes del Cenepa",
+                  "text": "Monumento a los Héroes del Cenepa ist ein Denkmal in Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.46705,
+                        -1.006165
+                  ]
+            },
+            {
+                  "name": "Loma de \"SAN PEDRO\"",
+                  "text": "Loma de \"SAN PEDRO\" ist eine Attraktion in Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.47047,
+                        -1.040157
+                  ]
+            },
+            {
+                  "name": "Loma del \"DIABLO\"",
+                  "text": "Loma del \"DIABLO\" ist eine Attraktion in Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.469315,
+                        -1.042325
+                  ]
+            },
+            {
+                  "name": "Loma de las \"VACAS\"",
+                  "text": "Loma de las \"VACAS\" ist eine Attraktion in Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471724,
+                        -1.028587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "PALACIO DE CRISTAL",
+                  "text": "A PALACIO DE CRISTAL egy színház Quevedóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.464931,
+                        -1.02392
+                  ]
+            },
+            {
+                  "name": "Área verde en Ladera",
+                  "text": "Az Área verde en Ladera egy természetvédelmi terület Quevedóban.",
+                  "category": "natural",
+                  "coords": [
+                        -79.473697,
+                        -1.034248
+                  ]
+            },
+            {
+                  "name": "Reserva de Bosque Natural del Sr. Gerardo Jácome",
+                  "text": "A Reserva de Bosque Natural del Sr. Gerardo Jácome egy természetvédelmi terület Quevedóban.",
+                  "category": "natural",
+                  "coords": [
+                        -79.444026,
+                        -1.035557
+                  ]
+            },
+            {
+                  "name": "PLAZA CIVICA",
+                  "text": "A PLAZA CIVICA egy emlékmű Quevedóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.468262,
+                        -1.030866
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "A Monumento a la Madre egy emlékmű Quevedóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.465708,
+                        -1.021723
+                  ]
+            },
+            {
+                  "name": "Parque el avión",
+                  "text": "A Parque el avión egy látványosság Quevedóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.474844,
+                        -1.038341
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes del Cenepa",
+                  "text": "A Monumento a los Héroes del Cenepa egy emlékmű Quevedóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.46705,
+                        -1.006165
+                  ]
+            },
+            {
+                  "name": "Loma de \"SAN PEDRO\"",
+                  "text": "A Loma de \"SAN PEDRO\" egy látványosság Quevedóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.47047,
+                        -1.040157
+                  ]
+            },
+            {
+                  "name": "Loma del \"DIABLO\"",
+                  "text": "A Loma del \"DIABLO\" egy látványosság Quevedóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.469315,
+                        -1.042325
+                  ]
+            },
+            {
+                  "name": "Loma de las \"VACAS\"",
+                  "text": "A Loma de las \"VACAS\" egy látványosság Quevedóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471724,
+                        -1.028587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "PALACIO DE CRISTAL",
+                  "text": "PALACIO DE CRISTAL este un teatru în Quevedo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.464931,
+                        -1.02392
+                  ]
+            },
+            {
+                  "name": "Área verde en Ladera",
+                  "text": "Área verde en Ladera este o rezervație naturală în Quevedo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.473697,
+                        -1.034248
+                  ]
+            },
+            {
+                  "name": "Reserva de Bosque Natural del Sr. Gerardo Jácome",
+                  "text": "Reserva de Bosque Natural del Sr. Gerardo Jácome este o rezervație naturală în Quevedo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.444026,
+                        -1.035557
+                  ]
+            },
+            {
+                  "name": "PLAZA CIVICA",
+                  "text": "PLAZA CIVICA este un monument în Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.468262,
+                        -1.030866
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre este un monument în Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.465708,
+                        -1.021723
+                  ]
+            },
+            {
+                  "name": "Parque el avión",
+                  "text": "Parque el avión este o atracție în Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.474844,
+                        -1.038341
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes del Cenepa",
+                  "text": "Monumento a los Héroes del Cenepa este un monument în Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.46705,
+                        -1.006165
+                  ]
+            },
+            {
+                  "name": "Loma de \"SAN PEDRO\"",
+                  "text": "Loma de \"SAN PEDRO\" este o atracție în Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.47047,
+                        -1.040157
+                  ]
+            },
+            {
+                  "name": "Loma del \"DIABLO\"",
+                  "text": "Loma del \"DIABLO\" este o atracție în Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.469315,
+                        -1.042325
+                  ]
+            },
+            {
+                  "name": "Loma de las \"VACAS\"",
+                  "text": "Loma de las \"VACAS\" este o atracție în Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471724,
+                        -1.028587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "PALACIO DE CRISTAL",
+                  "text": "PALACIO DE CRISTAL is a theatre in Quevedo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.464931,
+                        -1.02392
+                  ]
+            },
+            {
+                  "name": "Área verde en Ladera",
+                  "text": "Área verde en Ladera is a nature reserve in Quevedo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.473697,
+                        -1.034248
+                  ]
+            },
+            {
+                  "name": "Reserva de Bosque Natural del Sr. Gerardo Jácome",
+                  "text": "The Reserva de Bosque Natural del Sr. Gerardo Jácome is a nature reserve in Quevedo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.444026,
+                        -1.035557
+                  ]
+            },
+            {
+                  "name": "PLAZA CIVICA",
+                  "text": "PLAZA CIVICA is a monument in Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.468262,
+                        -1.030866
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre is a monument in Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.465708,
+                        -1.021723
+                  ]
+            },
+            {
+                  "name": "Parque el avión",
+                  "text": "Parque el avión is an attraction in Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.474844,
+                        -1.038341
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes del Cenepa",
+                  "text": "Monumento a los Héroes del Cenepa is a monument in Quevedo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.46705,
+                        -1.006165
+                  ]
+            },
+            {
+                  "name": "Loma de \"SAN PEDRO\"",
+                  "text": "Loma de \"SAN PEDRO\" is an attraction in Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.47047,
+                        -1.040157
+                  ]
+            },
+            {
+                  "name": "Loma del \"DIABLO\"",
+                  "text": "Loma del \"DIABLO\" is an attraction in Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.469315,
+                        -1.042325
+                  ]
+            },
+            {
+                  "name": "Loma de las \"VACAS\"",
+                  "text": "Loma de las \"VACAS\" is an attraction in Quevedo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471724,
+                        -1.028587
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-R",
     coords: [-79.4635, -1.0286],
@@ -566,7 +3050,232 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       fr: ["Le Chimborazo, plus haute montagne d'Équateur, est à proximité.", "La première constitution équatorienne y fut signée en 1830.", "Une plaque tournante importante pour le trafic ferroviaire.", "Connue pour son marché indigène coloré."],
     }, image: "/poi-images/riobamba-cities-v2.webp"},
   {
-    id: "milagro-cities-v2",
+    id: "milagro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Julio Viteri Gamboa",
+                  "text": "Das Museo Julio Viteri Gamboa ist eine kulturelle Einrichtung und ein Museum in Milagro.",
+                  "category": "museum",
+                  "coords": [
+                        -79.601126,
+                        -2.133895
+                  ]
+            },
+            {
+                  "name": "Casa de PETITA",
+                  "text": "Die Casa de PETITA ist eine burgähnliche Struktur in Milagro.",
+                  "category": "castle",
+                  "coords": [
+                        -79.59867,
+                        -2.133628
+                  ]
+            },
+            {
+                  "name": "Bosque de Tecas",
+                  "text": "Teask Forest ist ein Aussichtspunkt in der Natur von Milagro.",
+                  "category": "natural",
+                  "coords": [
+                        -79.590051,
+                        -2.147971
+                  ]
+            },
+            {
+                  "name": "Monumento a la Guitarra",
+                  "text": "Monumento a la Guitarra ist ein bemerkenswertes Denkmal in Milagro.",
+                  "category": "historical",
+                  "coords": [
+                        -79.592819,
+                        -2.134058
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "Colibrí ist ein lokales Denkmal in der Stadt Milagro.",
+                  "category": "historical",
+                  "coords": [
+                        -79.584816,
+                        -2.138854
+                  ]
+            },
+            {
+                  "name": "El velero",
+                  "text": "El velero ist ein öffentliches Denkmal, das in Milagro steht.",
+                  "category": "historical",
+                  "coords": [
+                        -79.58942,
+                        -2.131691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Julio Viteri Gamboa",
+                  "text": "A Museo Julio Viteri Gamboa egy kulturális intézmény és múzeum Milagro városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.601126,
+                        -2.133895
+                  ]
+            },
+            {
+                  "name": "Casa de PETITA",
+                  "text": "A Casa de PETITA egy kastélyszerű építmény Milagro városában.",
+                  "category": "castle",
+                  "coords": [
+                        -79.59867,
+                        -2.133628
+                  ]
+            },
+            {
+                  "name": "Bosque de Tecas",
+                  "text": "A Teask Forest egy természeti kilátó Milagro területén.",
+                  "category": "natural",
+                  "coords": [
+                        -79.590051,
+                        -2.147971
+                  ]
+            },
+            {
+                  "name": "Monumento a la Guitarra",
+                  "text": "A Monumento a la Guitarra egy figyelemre méltó emlékmű Milagro városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.592819,
+                        -2.134058
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "A Colibrí egy helyi emlékmű Milagro városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.584816,
+                        -2.138854
+                  ]
+            },
+            {
+                  "name": "El velero",
+                  "text": "Az El velero egy köztéri emlékmű, amely Milagro városában áll.",
+                  "category": "historical",
+                  "coords": [
+                        -79.58942,
+                        -2.131691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Julio Viteri Gamboa",
+                  "text": "Museo Julio Viteri Gamboa este o instituție culturală și un muzeu din Milagro.",
+                  "category": "museum",
+                  "coords": [
+                        -79.601126,
+                        -2.133895
+                  ]
+            },
+            {
+                  "name": "Casa de PETITA",
+                  "text": "Casa de PETITA este o structură asemănătoare unui castel din Milagro.",
+                  "category": "castle",
+                  "coords": [
+                        -79.59867,
+                        -2.133628
+                  ]
+            },
+            {
+                  "name": "Bosque de Tecas",
+                  "text": "Teask Forest este un punct de belvedere natural din Milagro.",
+                  "category": "natural",
+                  "coords": [
+                        -79.590051,
+                        -2.147971
+                  ]
+            },
+            {
+                  "name": "Monumento a la Guitarra",
+                  "text": "Monumento a la Guitarra este un monument notabil din Milagro.",
+                  "category": "historical",
+                  "coords": [
+                        -79.592819,
+                        -2.134058
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "Colibrí este un monument local din orașul Milagro.",
+                  "category": "historical",
+                  "coords": [
+                        -79.584816,
+                        -2.138854
+                  ]
+            },
+            {
+                  "name": "El velero",
+                  "text": "El velero este un monument public care se află în Milagro.",
+                  "category": "historical",
+                  "coords": [
+                        -79.58942,
+                        -2.131691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Julio Viteri Gamboa",
+                  "text": "Museo Julio Viteri Gamboa is a cultural institution and museum located in Milagro.",
+                  "category": "museum",
+                  "coords": [
+                        -79.601126,
+                        -2.133895
+                  ]
+            },
+            {
+                  "name": "Casa de PETITA",
+                  "text": "Casa de PETITA is a castle-like structure located in Milagro.",
+                  "category": "castle",
+                  "coords": [
+                        -79.59867,
+                        -2.133628
+                  ]
+            },
+            {
+                  "name": "Teask Forest",
+                  "text": "Teask Forest is a natural viewpoint situated in Milagro.",
+                  "category": "natural",
+                  "coords": [
+                        -79.590051,
+                        -2.147971
+                  ]
+            },
+            {
+                  "name": "Monumento a la Guitarra",
+                  "text": "Monumento a la Guitarra is a notable monument located in Milagro.",
+                  "category": "historical",
+                  "coords": [
+                        -79.592819,
+                        -2.134058
+                  ]
+            },
+            {
+                  "name": "Colibrí",
+                  "text": "Colibrí is a local monument in the city of Milagro.",
+                  "category": "historical",
+                  "coords": [
+                        -79.584816,
+                        -2.138854
+                  ]
+            },
+            {
+                  "name": "El velero",
+                  "text": "El velero is a public monument standing in Milagro.",
+                  "category": "historical",
+                  "coords": [
+                        -79.58942,
+                        -2.131691
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-79.5956, -2.1338],
@@ -856,7 +3565,88 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "chone-cities-v2",
+    id: "chone-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Recinto Las Suchas",
+                  "text": "Recinto Las Suchas dient als Aussichtspunkt in Chone.",
+                  "category": "natural",
+                  "coords": [
+                        -80.090439,
+                        -0.706702
+                  ]
+            },
+            {
+                  "name": "Monumento de los Raidistas",
+                  "text": "Monumento de los Raidistas ist ein Gedenkmonument in Chone.",
+                  "category": "historical",
+                  "coords": [
+                        -80.076798,
+                        -0.698476
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Recinto Las Suchas",
+                  "text": "A Recinto Las Suchas egy kilátóhely Chone városában.",
+                  "category": "natural",
+                  "coords": [
+                        -80.090439,
+                        -0.706702
+                  ]
+            },
+            {
+                  "name": "Monumento de los Raidistas",
+                  "text": "A Monumento de los Raidistas egy emlékmű Chone városában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.076798,
+                        -0.698476
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Recinto Las Suchas",
+                  "text": "Recinto Las Suchas servește drept punct de belvedere în Chone.",
+                  "category": "natural",
+                  "coords": [
+                        -80.090439,
+                        -0.706702
+                  ]
+            },
+            {
+                  "name": "Monumento de los Raidistas",
+                  "text": "Monumento de los Raidistas este un monument situat în Chone.",
+                  "category": "historical",
+                  "coords": [
+                        -80.076798,
+                        -0.698476
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Recinto Las Suchas",
+                  "text": "Recinto Las Suchas serves as a viewpoint in Chone.",
+                  "category": "natural",
+                  "coords": [
+                        -80.090439,
+                        -0.706702
+                  ]
+            },
+            {
+                  "name": "Monumento de los Raidistas",
+                  "text": "Monumento de los Raidistas is a memorial monument located in Chone.",
+                  "category": "historical",
+                  "coords": [
+                        -80.076798,
+                        -0.698476
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-M",
     coords: [-80.0934, -0.6981],
@@ -944,7 +3734,196 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "santa-rosa-cities-v2",
+    id: "santa-rosa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Bolivar",
+                  "text": "Parque Bolivar ist ein Freizeitpark in Santa Rosa.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.959425,
+                        -3.445793
+                  ]
+            },
+            {
+                  "name": "Monumento de los Heroes",
+                  "text": "Monumento de los Heroes ist ein Denkmal zur Erinnerung an Helden in Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.959741,
+                        -3.457061
+                  ]
+            },
+            {
+                  "name": "Parque Antonio José de Sucre",
+                  "text": "Parque Antonio José de Sucre ist ein lokales Denkmal in Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.960701,
+                        -3.448202
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "Parque de la Madre ist ein Denkmal in der Stadt Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.961706,
+                        -3.446441
+                  ]
+            },
+            {
+                  "name": "Redondel El Pescador",
+                  "text": "Redondel El Pescador ist ein markantes Denkmal in Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.966194,
+                        -3.43822
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Bolivar",
+                  "text": "A Parque Bolivar egy vidámpark Santa Rosa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.959425,
+                        -3.445793
+                  ]
+            },
+            {
+                  "name": "Monumento de los Heroes",
+                  "text": "A Monumento de los Heroes egy hősöknek emléket állító emlékmű Santa Rosa városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.959741,
+                        -3.457061
+                  ]
+            },
+            {
+                  "name": "Parque Antonio José de Sucre",
+                  "text": "A Parque Antonio José de Sucre egy helyi emlékmű Santa Rosa városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.960701,
+                        -3.448202
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "A Parque de la Madre egy emlékmű Santa Rosa városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.961706,
+                        -3.446441
+                  ]
+            },
+            {
+                  "name": "Redondel El Pescador",
+                  "text": "A Redondel El Pescador egy jellegzetes emlékmű Santa Rosa városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.966194,
+                        -3.43822
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Bolivar",
+                  "text": "Parque Bolivar este un parc tematic situat în Santa Rosa.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.959425,
+                        -3.445793
+                  ]
+            },
+            {
+                  "name": "Monumento de los Heroes",
+                  "text": "Monumento de los Heroes este un monument dedicat eroilor din Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.959741,
+                        -3.457061
+                  ]
+            },
+            {
+                  "name": "Parque Antonio José de Sucre",
+                  "text": "Parque Antonio José de Sucre este un monument local din Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.960701,
+                        -3.448202
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "Parque de la Madre este un monument situat în orașul Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.961706,
+                        -3.446441
+                  ]
+            },
+            {
+                  "name": "Redondel El Pescador",
+                  "text": "Redondel El Pescador este un monument distinctiv din Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.966194,
+                        -3.43822
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Bolivar",
+                  "text": "Parque Bolivar is a theme park located in Santa Rosa.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.959425,
+                        -3.445793
+                  ]
+            },
+            {
+                  "name": "Monumento de los Heroes",
+                  "text": "Monumento de los Heroes is a monument honoring heroes in Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.959741,
+                        -3.457061
+                  ]
+            },
+            {
+                  "name": "Parque Antonio José de Sucre",
+                  "text": "Parque Antonio José de Sucre is a local monument situated in Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.960701,
+                        -3.448202
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "Parque de la Madre is a monument located in the city of Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.961706,
+                        -3.446441
+                  ]
+            },
+            {
+                  "name": "Redondel El Pescador",
+                  "text": "Redondel El Pescador is a distinctive monument in Santa Rosa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.966194,
+                        -3.43822
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-O",
     coords: [-79.9588, -3.4488],
@@ -1114,7 +4093,160 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "montecristi-cities-v2",
+    id: "montecristi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Municipal Víctor Véliz Macías",
+                  "text": "Das Teatro Municipal Víctor Véliz Macías ist ein Theater in Montecristi.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.659005,
+                        -1.051008
+                  ]
+            },
+            {
+                  "name": "Museo de Eloy Alfaro",
+                  "text": "Das Eloy Alfaro Museum ist ein der Geschichte gewidmetes Museum in Montecristi.",
+                  "category": "museum",
+                  "coords": [
+                        -80.663128,
+                        -1.054879
+                  ]
+            },
+            {
+                  "name": "Museo Cancebí",
+                  "text": "Das Museo Cancebí ist ein lokales Museum in Montecristi.",
+                  "category": "museum",
+                  "coords": [
+                        -80.663789,
+                        -1.053569
+                  ]
+            },
+            {
+                  "name": "Cerro Montecristi",
+                  "text": "Cerro Montecristi ist ein Berggipfel in der Region Montecristi.",
+                  "category": "natural",
+                  "coords": [
+                        -80.670397,
+                        -1.05324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Municipal Víctor Véliz Macías",
+                  "text": "A Teatro Municipal Víctor Véliz Macías egy színház Montecristi városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.659005,
+                        -1.051008
+                  ]
+            },
+            {
+                  "name": "Museo de Eloy Alfaro",
+                  "text": "Az Eloy Alfaro Museum egy történelemnek szentelt múzeum Montecristi városában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.663128,
+                        -1.054879
+                  ]
+            },
+            {
+                  "name": "Museo Cancebí",
+                  "text": "A Museo Cancebí egy helyi múzeum Montecristi városában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.663789,
+                        -1.053569
+                  ]
+            },
+            {
+                  "name": "Cerro Montecristi",
+                  "text": "A Cerro Montecristi egy hegycsúcs Montecristi térségében.",
+                  "category": "natural",
+                  "coords": [
+                        -80.670397,
+                        -1.05324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Municipal Víctor Véliz Macías",
+                  "text": "Teatro Municipal Víctor Véliz Macías este un teatru din Montecristi.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.659005,
+                        -1.051008
+                  ]
+            },
+            {
+                  "name": "Museo de Eloy Alfaro",
+                  "text": "Eloy Alfaro Museum este un muzeu dedicat istoriei situat în Montecristi.",
+                  "category": "museum",
+                  "coords": [
+                        -80.663128,
+                        -1.054879
+                  ]
+            },
+            {
+                  "name": "Museo Cancebí",
+                  "text": "Museo Cancebí este un muzeu local din Montecristi.",
+                  "category": "museum",
+                  "coords": [
+                        -80.663789,
+                        -1.053569
+                  ]
+            },
+            {
+                  "name": "Cerro Montecristi",
+                  "text": "Cerro Montecristi este un vârf montan din regiunea Montecristi.",
+                  "category": "natural",
+                  "coords": [
+                        -80.670397,
+                        -1.05324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Municipal Víctor Véliz Macías",
+                  "text": "Teatro Municipal Víctor Véliz Macías is a theatre located in Montecristi.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.659005,
+                        -1.051008
+                  ]
+            },
+            {
+                  "name": "Eloy Alfaro Museum",
+                  "text": "Eloy Alfaro Museum is a museum dedicated to history located in Montecristi.",
+                  "category": "museum",
+                  "coords": [
+                        -80.663128,
+                        -1.054879
+                  ]
+            },
+            {
+                  "name": "Museo Cancebí",
+                  "text": "Museo Cancebí is a local museum in Montecristi.",
+                  "category": "museum",
+                  "coords": [
+                        -80.663789,
+                        -1.053569
+                  ]
+            },
+            {
+                  "name": "Cerro Montecristi",
+                  "text": "Cerro Montecristi is a mountain peak situated in the Montecristi region.",
+                  "category": "natural",
+                  "coords": [
+                        -80.670397,
+                        -1.05324
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-M",
     coords: [-80.6588, -1.0458],
@@ -1158,7 +4290,160 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "samborondon-cities-v2",
+    id: "samborondon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Leon",
+                  "text": "El Leon ist ein Denkmal in Samborondón.",
+                  "category": "historical",
+                  "coords": [
+                        -79.726386,
+                        -1.963403
+                  ]
+            },
+            {
+                  "name": "Caballo Pelotón",
+                  "text": "Caballo Pelotón ist ein Denkmal in Samborondón.",
+                  "category": "historical",
+                  "coords": [
+                        -79.726455,
+                        -1.955756
+                  ]
+            },
+            {
+                  "name": "Negro Samborrendon",
+                  "text": "Negro Samborrendon ist ein Denkmal in Samborondón.",
+                  "category": "historical",
+                  "coords": [
+                        -79.722226,
+                        -1.964
+                  ]
+            },
+            {
+                  "name": "Piscinas del Malecón",
+                  "text": "Piscinas del Malecón ist eine Attraktion in Samborondón.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.722069,
+                        -1.961114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Leon",
+                  "text": "Az El Leon egy emlékmű Samborondónban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.726386,
+                        -1.963403
+                  ]
+            },
+            {
+                  "name": "Caballo Pelotón",
+                  "text": "A Caballo Pelotón egy emlékmű Samborondón városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.726455,
+                        -1.955756
+                  ]
+            },
+            {
+                  "name": "Negro Samborrendon",
+                  "text": "A Negro Samborrendon egy emlékmű Samborondónban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.722226,
+                        -1.964
+                  ]
+            },
+            {
+                  "name": "Piscinas del Malecón",
+                  "text": "A Piscinas del Malecón egy látványosság Samborondónban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.722069,
+                        -1.961114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Leon",
+                  "text": "El Leon este un monument aflat în Samborondón.",
+                  "category": "historical",
+                  "coords": [
+                        -79.726386,
+                        -1.963403
+                  ]
+            },
+            {
+                  "name": "Caballo Pelotón",
+                  "text": "Caballo Pelotón este un monument situat în Samborondón.",
+                  "category": "historical",
+                  "coords": [
+                        -79.726455,
+                        -1.955756
+                  ]
+            },
+            {
+                  "name": "Negro Samborrendon",
+                  "text": "Negro Samborrendon este un monument din Samborondón.",
+                  "category": "historical",
+                  "coords": [
+                        -79.722226,
+                        -1.964
+                  ]
+            },
+            {
+                  "name": "Piscinas del Malecón",
+                  "text": "Piscinas del Malecón este o atracție în Samborondón.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.722069,
+                        -1.961114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Leon",
+                  "text": "El Leon is a public monument found in Samborondón.",
+                  "category": "historical",
+                  "coords": [
+                        -79.726386,
+                        -1.963403
+                  ]
+            },
+            {
+                  "name": "Caballo Pelotón",
+                  "text": "Caballo Pelotón is a monument situated in Samborondón.",
+                  "category": "historical",
+                  "coords": [
+                        -79.726455,
+                        -1.955756
+                  ]
+            },
+            {
+                  "name": "Negro Samborrendon",
+                  "text": "Negro Samborrendon is a monument located in Samborondón.",
+                  "category": "historical",
+                  "coords": [
+                        -79.722226,
+                        -1.964
+                  ]
+            },
+            {
+                  "name": "Piscinas del Malecón",
+                  "text": "Piscinas del Malecón is an attraction in Samborondón.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.722069,
+                        -1.961114
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-79.7214, -1.9567],
@@ -1240,7 +4525,88 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "jipijapa-cities-v2",
+    id: "jipijapa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento a la Libertad",
+                  "text": "Das Monumento a la Libertad ist ein Denkmal in Jipijapa.",
+                  "category": "historical",
+                  "coords": [
+                        -80.579187,
+                        -1.348417
+                  ]
+            },
+            {
+                  "name": "Monumento al Choclo",
+                  "text": "Das Monumento al Choclo ist ein Denkmal in Jipijapa.",
+                  "category": "historical",
+                  "coords": [
+                        -80.578898,
+                        -1.331466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento a la Libertad",
+                  "text": "A Monumento a la Libertad egy emlékmű Jipijapában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.579187,
+                        -1.348417
+                  ]
+            },
+            {
+                  "name": "Monumento al Choclo",
+                  "text": "A Monumento al Choclo egy emlékmű Jipijapában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.578898,
+                        -1.331466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento a la Libertad",
+                  "text": "Monumento a la Libertad este un monument din Jipijapa.",
+                  "category": "historical",
+                  "coords": [
+                        -80.579187,
+                        -1.348417
+                  ]
+            },
+            {
+                  "name": "Monumento al Choclo",
+                  "text": "Monumento al Choclo este un monument din Jipijapa.",
+                  "category": "historical",
+                  "coords": [
+                        -80.578898,
+                        -1.331466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento a la Libertad",
+                  "text": "The Monumento a la Libertad is a monument in Jipijapa.",
+                  "category": "historical",
+                  "coords": [
+                        -80.579187,
+                        -1.348417
+                  ]
+            },
+            {
+                  "name": "Monumento al Choclo",
+                  "text": "The Monumento al Choclo is a monument in Jipijapa.",
+                  "category": "historical",
+                  "coords": [
+                        -80.578898,
+                        -1.331466
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-M",
     coords: [-80.5794, -1.3330],
@@ -1303,7 +4669,736 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       en: ["Capital of the Santa Elena province.", "Near the Megaterio Paleontological Museum.", "One of the historically oldest settled areas in South America.", "Part of the main coastal development axis."]
     }, image: "/poi-images/santa-elena-cities-v2.webp"},
   {
-    id: "otavalo-cities-v2",
+    id: "otavalo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Cóndor",
+                  "text": "Parque Cóndor ist ein Zoo in Otavalo, in dem verschiedene Tierarten leben.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.239905,
+                        0.232205
+                  ]
+            },
+            {
+                  "name": "Bolivar",
+                  "text": "Das Bolivar ist ein Theater für darstellende Künste in Otavalo.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.262739,
+                        0.226992
+                  ]
+            },
+            {
+                  "name": "Museo y cueva Inca",
+                  "text": "Das Museo y cueva Inca ist ein Museum in Otavalo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.239833,
+                        0.239114
+                  ]
+            },
+            {
+                  "name": "Museo del Pueblo Kichwa Otavalo",
+                  "text": "Das Museo del Pueblo Kichwa Otavalo ist ein Museum in Otavalo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.26752,
+                        0.242051
+                  ]
+            },
+            {
+                  "name": "Inti Watana (calendario solar)",
+                  "text": "Inti Watana ist eine archäologische Stätte in Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.242636,
+                        0.240765
+                  ]
+            },
+            {
+                  "name": "molino de las Almas",
+                  "text": "Die molino de las Almas ist eine Ruinenstätte in Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.266468,
+                        0.224102
+                  ]
+            },
+            {
+                  "name": "Metalicas Flores 946 282",
+                  "text": "Metalicas Flores 946 282 ist ein Aussichtspunkt in Otavalo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.258543,
+                        0.231219
+                  ]
+            },
+            {
+                  "name": "San Juan Kapilla",
+                  "text": "San Juan Kapilla ist eine Sehenswürdigkeit in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.270018,
+                        0.235252
+                  ]
+            },
+            {
+                  "name": "Taller ÑANDA MAÑACHI",
+                  "text": "Taller ÑANDA MAÑACHI ist eine Sehenswürdigkeit in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.245084,
+                        0.252294
+                  ]
+            },
+            {
+                  "name": "Corazón de manzana",
+                  "text": "Corazón de manzana ist ein Aussichtspunkt in Otavalo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.26256,
+                        0.224984
+                  ]
+            },
+            {
+                  "name": "Virgen de la gruta",
+                  "text": "Virgen de la gruta ist ein Denkmal in Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.258796,
+                        0.225429
+                  ]
+            },
+            {
+                  "name": "Plataforma de Vuelo",
+                  "text": "Plataforma de Vuelo ist eine Sehenswürdigkeit in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.240887,
+                        0.233986
+                  ]
+            },
+            {
+                  "name": "Piscina La Playita",
+                  "text": "Piscina La Playita ist eine Attraktion in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.256718,
+                        0.228583
+                  ]
+            },
+            {
+                  "name": "Puente Colgante \"El Platanillo\"",
+                  "text": "Die Hängebrücke Puente Colgante \"El Platanillo\" ist eine Attraktion in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.241723,
+                        0.240203
+                  ]
+            },
+            {
+                  "name": "Tunel Subterraneo",
+                  "text": "Tunel Subterraneo ist eine Sehenswürdigkeit in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.238395,
+                        0.23805
+                  ]
+            },
+            {
+                  "name": "Bazar Victoria 100 años",
+                  "text": "Bazar Victoria 100 age ist eine Attraktion in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.265505,
+                        0.227215
+                  ]
+            },
+            {
+                  "name": "El Lechero",
+                  "text": "El Lechero ist ein Aussichtspunkt in Otavalo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.245191,
+                        0.222508
+                  ]
+            },
+            {
+                  "name": "Los Danzantes",
+                  "text": "Los Danzantes ist ein Denkmal in Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.258622,
+                        0.232403
+                  ]
+            },
+            {
+                  "name": "Meet",
+                  "text": "Meet ist eine Attraktion in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.262066,
+                        0.222516
+                  ]
+            },
+            {
+                  "name": "Muralla Pintada",
+                  "text": "Die Painted wall ist eine Sehenswürdigkeit in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.26034,
+                        0.231718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Cóndor",
+                  "text": "A Parque Cóndor egy állatkert Otavalo városában, amely különféle állatfajoknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.239905,
+                        0.232205
+                  ]
+            },
+            {
+                  "name": "Bolivar",
+                  "text": "A Bolivar egy előadóművészeti színház Otavalo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.262739,
+                        0.226992
+                  ]
+            },
+            {
+                  "name": "Museo y cueva Inca",
+                  "text": "A Museo y cueva Inca egy múzeum Otavalóban.",
+                  "category": "museum",
+                  "coords": [
+                        -78.239833,
+                        0.239114
+                  ]
+            },
+            {
+                  "name": "Museo del Pueblo Kichwa Otavalo",
+                  "text": "A Museo del Pueblo Kichwa Otavalo egy múzeum Otavalóban.",
+                  "category": "museum",
+                  "coords": [
+                        -78.26752,
+                        0.242051
+                  ]
+            },
+            {
+                  "name": "Inti Watana (calendario solar)",
+                  "text": "Az Inti Watana egy régészeti lelőhely Otavalóban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.242636,
+                        0.240765
+                  ]
+            },
+            {
+                  "name": "molino de las Almas",
+                  "text": "A molino de las Almas romok Otavalóban találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -78.266468,
+                        0.224102
+                  ]
+            },
+            {
+                  "name": "Metalicas Flores 946 282",
+                  "text": "A Metalicas Flores 946 282 egy kilátópont Otavalóban.",
+                  "category": "natural",
+                  "coords": [
+                        -78.258543,
+                        0.231219
+                  ]
+            },
+            {
+                  "name": "San Juan Kapilla",
+                  "text": "A San Juan Kapilla egy látványosság Otavalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.270018,
+                        0.235252
+                  ]
+            },
+            {
+                  "name": "Taller ÑANDA MAÑACHI",
+                  "text": "A Taller ÑANDA MAÑACHI egy látványosság Otavalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.245084,
+                        0.252294
+                  ]
+            },
+            {
+                  "name": "Corazón de manzana",
+                  "text": "A Corazón de manzana egy kilátópont Otavalóban.",
+                  "category": "natural",
+                  "coords": [
+                        -78.26256,
+                        0.224984
+                  ]
+            },
+            {
+                  "name": "Virgen de la gruta",
+                  "text": "A Virgen de la gruta egy emlékmű Otavalóban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.258796,
+                        0.225429
+                  ]
+            },
+            {
+                  "name": "Plataforma de Vuelo",
+                  "text": "A Plataforma de Vuelo egy látványosság Otavalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.240887,
+                        0.233986
+                  ]
+            },
+            {
+                  "name": "Piscina La Playita",
+                  "text": "A Piscina La Playita egy látványosság Otavalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.256718,
+                        0.228583
+                  ]
+            },
+            {
+                  "name": "Puente Colgante \"El Platanillo\"",
+                  "text": "A Puente Colgante \"El Platanillo\" egy látványosság Otavalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.241723,
+                        0.240203
+                  ]
+            },
+            {
+                  "name": "Tunel Subterraneo",
+                  "text": "A Tunel Subterraneo egy látványosság Otavalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.238395,
+                        0.23805
+                  ]
+            },
+            {
+                  "name": "Bazar Victoria 100 años",
+                  "text": "A Bazar Victoria 100 age egy látványosság Otavalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.265505,
+                        0.227215
+                  ]
+            },
+            {
+                  "name": "El Lechero",
+                  "text": "Az El Lechero egy kilátópont Otavalóban.",
+                  "category": "natural",
+                  "coords": [
+                        -78.245191,
+                        0.222508
+                  ]
+            },
+            {
+                  "name": "Los Danzantes",
+                  "text": "A Los Danzantes egy emlékmű Otavalóban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.258622,
+                        0.232403
+                  ]
+            },
+            {
+                  "name": "Meet",
+                  "text": "A Meet egy látványosság Otavalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.262066,
+                        0.222516
+                  ]
+            },
+            {
+                  "name": "Muralla Pintada",
+                  "text": "A Painted wall egy látványosság Otavalóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.26034,
+                        0.231718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Cóndor",
+                  "text": "Parque Cóndor este o grădină zoologică din Otavalo care găzduiește diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.239905,
+                        0.232205
+                  ]
+            },
+            {
+                  "name": "Bolivar",
+                  "text": "Bolivar este un teatru de arte spectacolului din Otavalo.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.262739,
+                        0.226992
+                  ]
+            },
+            {
+                  "name": "Museo y cueva Inca",
+                  "text": "Museo y cueva Inca este un muzeu din Otavalo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.239833,
+                        0.239114
+                  ]
+            },
+            {
+                  "name": "Museo del Pueblo Kichwa Otavalo",
+                  "text": "Museo del Pueblo Kichwa Otavalo este un muzeu în Otavalo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.26752,
+                        0.242051
+                  ]
+            },
+            {
+                  "name": "Inti Watana (calendario solar)",
+                  "text": "Inti Watana este un sit arheologic în Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.242636,
+                        0.240765
+                  ]
+            },
+            {
+                  "name": "molino de las Almas",
+                  "text": "Molino de las Almas sunt ruine aflate în Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.266468,
+                        0.224102
+                  ]
+            },
+            {
+                  "name": "Metalicas Flores 946 282",
+                  "text": "Metalicas Flores 946 282 este un punct de belvedere în Otavalo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.258543,
+                        0.231219
+                  ]
+            },
+            {
+                  "name": "San Juan Kapilla",
+                  "text": "San Juan Kapilla este o atracție în Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.270018,
+                        0.235252
+                  ]
+            },
+            {
+                  "name": "Taller ÑANDA MAÑACHI",
+                  "text": "Taller ÑANDA MAÑACHI este o atracție în Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.245084,
+                        0.252294
+                  ]
+            },
+            {
+                  "name": "Corazón de manzana",
+                  "text": "Corazón de manzana este un punct de belvedere în Otavalo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.26256,
+                        0.224984
+                  ]
+            },
+            {
+                  "name": "Virgen de la gruta",
+                  "text": "Virgen de la gruta este un monument din Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.258796,
+                        0.225429
+                  ]
+            },
+            {
+                  "name": "Plataforma de Vuelo",
+                  "text": "Plataforma de Vuelo este o atracție turistică în Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.240887,
+                        0.233986
+                  ]
+            },
+            {
+                  "name": "Piscina La Playita",
+                  "text": "Piscina La Playita este o atracție din Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.256718,
+                        0.228583
+                  ]
+            },
+            {
+                  "name": "Puente Colgante \"El Platanillo\"",
+                  "text": "Puente Colgante „El Platanillo” este o atracție în Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.241723,
+                        0.240203
+                  ]
+            },
+            {
+                  "name": "Tunel Subterraneo",
+                  "text": "Tunel Subterraneo este o atracție din Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.238395,
+                        0.23805
+                  ]
+            },
+            {
+                  "name": "Bazar Victoria 100 años",
+                  "text": "Bazar Victoria 100 age este o atracție în Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.265505,
+                        0.227215
+                  ]
+            },
+            {
+                  "name": "El Lechero",
+                  "text": "El Lechero este un punct de belvedere în Otavalo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.245191,
+                        0.222508
+                  ]
+            },
+            {
+                  "name": "Los Danzantes",
+                  "text": "Los Danzantes este un monument din Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.258622,
+                        0.232403
+                  ]
+            },
+            {
+                  "name": "Meet",
+                  "text": "Meet este o atracție în Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.262066,
+                        0.222516
+                  ]
+            },
+            {
+                  "name": "Muralla Pintada",
+                  "text": "Painted wall este o atracție în Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.26034,
+                        0.231718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Cóndor",
+                  "text": "Parque Cóndor is a zoo in Otavalo home to various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.239905,
+                        0.232205
+                  ]
+            },
+            {
+                  "name": "Bolivar",
+                  "text": "Bolivar is a performing arts theatre located in Otavalo.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.262739,
+                        0.226992
+                  ]
+            },
+            {
+                  "name": "Museo y cueva Inca",
+                  "text": "The Museo y cueva Inca is a museum located in Otavalo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.239833,
+                        0.239114
+                  ]
+            },
+            {
+                  "name": "Museo del Pueblo Kichwa Otavalo",
+                  "text": "The Museo del Pueblo Kichwa Otavalo is a museum in Otavalo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.26752,
+                        0.242051
+                  ]
+            },
+            {
+                  "name": "Inti Watana (calendario solar)",
+                  "text": "Inti Watana is an archaeological site located in Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.242636,
+                        0.240765
+                  ]
+            },
+            {
+                  "name": "molino de las Almas",
+                  "text": "The molino de las Almas are ruins located in Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.266468,
+                        0.224102
+                  ]
+            },
+            {
+                  "name": "Metalicas Flores 946 282",
+                  "text": "Metalicas Flores 946 282 is a viewpoint situated in Otavalo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.258543,
+                        0.231219
+                  ]
+            },
+            {
+                  "name": "San Juan Kapilla",
+                  "text": "San Juan Kapilla is an attraction located in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.270018,
+                        0.235252
+                  ]
+            },
+            {
+                  "name": "Taller ÑANDA MAÑACHI",
+                  "text": "Taller ÑANDA MAÑACHI is an attraction in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.245084,
+                        0.252294
+                  ]
+            },
+            {
+                  "name": "Corazón de manzana",
+                  "text": "Corazón de manzana is a viewpoint situated in Otavalo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.26256,
+                        0.224984
+                  ]
+            },
+            {
+                  "name": "Virgen de la gruta",
+                  "text": "Virgen de la gruta is a monument located in Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.258796,
+                        0.225429
+                  ]
+            },
+            {
+                  "name": "Plataforma de Vuelo",
+                  "text": "Plataforma de Vuelo is an attraction in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.240887,
+                        0.233986
+                  ]
+            },
+            {
+                  "name": "Piscina La Playita",
+                  "text": "Piscina La Playita is an attraction located in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.256718,
+                        0.228583
+                  ]
+            },
+            {
+                  "name": "Puente Colgante \"El Platanillo\"",
+                  "text": "The Puente Colgante \"El Platanillo\" is an attraction in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.241723,
+                        0.240203
+                  ]
+            },
+            {
+                  "name": "Tunel Subterraneo",
+                  "text": "Tunel Subterraneo is an attraction in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.238395,
+                        0.23805
+                  ]
+            },
+            {
+                  "name": "Bazar Victoria 100 age",
+                  "text": "Bazar Victoria 100 age is an attraction in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.265505,
+                        0.227215
+                  ]
+            },
+            {
+                  "name": "El Lechero",
+                  "text": "El Lechero is a viewpoint situated in Otavalo.",
+                  "category": "natural",
+                  "coords": [
+                        -78.245191,
+                        0.222508
+                  ]
+            },
+            {
+                  "name": "Los Danzantes",
+                  "text": "Los Danzantes is a monument located in Otavalo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.258622,
+                        0.232403
+                  ]
+            },
+            {
+                  "name": "Meet",
+                  "text": "Meet is an attraction in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.262066,
+                        0.222516
+                  ]
+            },
+            {
+                  "name": "Painted wall",
+                  "text": "Painted wall is an attraction in Otavalo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.26034,
+                        0.231718
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-I",
     coords: [-78.2625, 0.2345],
@@ -1347,7 +5442,232 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "cayambe-cities-v2",
+    id: "cayambe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nelson bazurto.     J.J",
+                  "text": "Nelson bazurto. J.J ist ein Aquarium in Cayambe.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.148201,
+                        0.024904
+                  ]
+            },
+            {
+                  "name": "Laguna Yaznan",
+                  "text": "Laguna Yaznan ist ein Wasserpark in Cayambe.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.149699,
+                        0.028942
+                  ]
+            },
+            {
+                  "name": "Virgen del Mirador",
+                  "text": "Virgen del Mirador ist eine Attraktion in Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.133868,
+                        0.064989
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "Parque de la Madre ist eine Parkanlage und Attraktion in Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.147512,
+                        0.044728
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Puntiachil",
+                  "text": "Sitio Arqueológico Puntiachil ist eine archäologische Attraktion in Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.137949,
+                        0.040892
+                  ]
+            },
+            {
+                  "name": "Parque La Remonta",
+                  "text": "Parque La Remonta ist eine Attraktion in Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.140098,
+                        0.053693
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nelson bazurto.     J.J",
+                  "text": "A Nelson bazurto. J.J egy akvárium Cayambe városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.148201,
+                        0.024904
+                  ]
+            },
+            {
+                  "name": "Laguna Yaznan",
+                  "text": "A Laguna Yaznan egy vízi park Cayambe városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.149699,
+                        0.028942
+                  ]
+            },
+            {
+                  "name": "Virgen del Mirador",
+                  "text": "A Virgen del Mirador egy látványosság Cayambe-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.133868,
+                        0.064989
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "A Parque de la Madre egy nyilvános park Cayambe városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.147512,
+                        0.044728
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Puntiachil",
+                  "text": "A Sitio Arqueológico Puntiachil egy régészeti látványosság Cayambe-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.137949,
+                        0.040892
+                  ]
+            },
+            {
+                  "name": "Parque La Remonta",
+                  "text": "A Parque La Remonta egy park és látványosság Cayambe városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.140098,
+                        0.053693
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nelson bazurto.     J.J",
+                  "text": "Nelson bazurto. J.J este un acvariu din Cayambe.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.148201,
+                        0.024904
+                  ]
+            },
+            {
+                  "name": "Laguna Yaznan",
+                  "text": "Laguna Yaznan este un parc acvatic situat în Cayambe.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.149699,
+                        0.028942
+                  ]
+            },
+            {
+                  "name": "Virgen del Mirador",
+                  "text": "Virgen del Mirador este o atracție în Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.133868,
+                        0.064989
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "Parque de la Madre este un parc public în Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.147512,
+                        0.044728
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Puntiachil",
+                  "text": "Sitio Arqueológico Puntiachil este o atracție arheologică situată în Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.137949,
+                        0.040892
+                  ]
+            },
+            {
+                  "name": "Parque La Remonta",
+                  "text": "Parque La Remonta este o atracție din Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.140098,
+                        0.053693
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nelson bazurto.     J.J",
+                  "text": "Nelson bazurto. J.J is an aquarium facility in Cayambe.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.148201,
+                        0.024904
+                  ]
+            },
+            {
+                  "name": "Laguna Yaznan",
+                  "text": "Laguna Yaznan is a water park located in Cayambe.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.149699,
+                        0.028942
+                  ]
+            },
+            {
+                  "name": "Virgen del Mirador",
+                  "text": "Virgen del Mirador is an attraction and viewpoint in Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.133868,
+                        0.064989
+                  ]
+            },
+            {
+                  "name": "Parque de la Madre",
+                  "text": "Parque de la Madre is a public park attraction in Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.147512,
+                        0.044728
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico Puntiachil",
+                  "text": "Sitio Arqueológico Puntiachil is an archaeological attraction situated in Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.137949,
+                        0.040892
+                  ]
+            },
+            {
+                  "name": "Parque La Remonta",
+                  "text": "Parque La Remonta is a park and attraction located in Cayambe.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.140098,
+                        0.053693
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-P",
     coords: [-78.1452, 0.0427],
@@ -1435,7 +5755,52 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "ventanas-cities-v2",
+    id: "ventanas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento al Maíz",
+                  "text": "Monumento al Maíz ist ein Denkmal in der Stadt Ventanas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.462002,
+                        -1.43856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento al Maíz",
+                  "text": "A Monumento al Maíz egy emlékmű Ventanas városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.462002,
+                        -1.43856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento al Maíz",
+                  "text": "Monumento al Maíz este un monument în Ventanas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.462002,
+                        -1.43856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento al Maíz",
+                  "text": "Monumento al Maíz is a monument located in Ventanas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.462002,
+                        -1.43856
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-R",
     coords: [-79.4594, -1.4422],
@@ -1523,7 +5888,124 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "la-troncal-cities-v2",
+    id: "la-troncal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Urbano de La Troncal",
+                  "text": "Der Parque Urbano de La Troncal ist ein Freizeitpark in La Troncal.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.346243,
+                        -2.430539
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Parque ist eine Attraktion in La Troncal.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.320766,
+                        -2.444682
+                  ]
+            },
+            {
+                  "name": "Munumento de Caña",
+                  "text": "Munumento de Caña ist ein Denkmal in La Troncal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.347076,
+                        -2.421419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Urbano de La Troncal",
+                  "text": "A Parque Urbano de La Troncal egy vidámpark La Troncalban.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.346243,
+                        -2.430539
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "A Parque egy látványosság La Troncalban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.320766,
+                        -2.444682
+                  ]
+            },
+            {
+                  "name": "Munumento de Caña",
+                  "text": "A Munumento de Caña egy emlékmű La Troncalban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.347076,
+                        -2.421419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Urbano de La Troncal",
+                  "text": "Parque Urbano de La Troncal este un parc tematic în La Troncal.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.346243,
+                        -2.430539
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Parque este o atracție în La Troncal.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.320766,
+                        -2.444682
+                  ]
+            },
+            {
+                  "name": "Munumento de Caña",
+                  "text": "Munumento de Caña este un monument în La Troncal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.347076,
+                        -2.421419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Urbano de La Troncal",
+                  "text": "Parque Urbano de La Troncal is a theme park in La Troncal.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.346243,
+                        -2.430539
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Parque is an attraction in La Troncal.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.320766,
+                        -2.444682
+                  ]
+            },
+            {
+                  "name": "Munumento de Caña",
+                  "text": "Munumento de Caña is a monument in La Troncal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.347076,
+                        -2.421419
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-F",
     coords: [-79.3361, -2.4255],
@@ -1567,7 +6049,88 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "el-triunfo-cities-v2",
+    id: "el-triunfo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carlos Juqui Medina",
+                  "text": "Carlos Juqui Medina ist ein Denkmal in El Triunfo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.396451,
+                        -2.330746
+                  ]
+            },
+            {
+                  "name": "Monumento a José María Velasco Ibarra",
+                  "text": "Monumento a José María Velasco Ibarra ist ein Denkmal in El Triunfo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.418634,
+                        -2.329105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carlos Juqui Medina",
+                  "text": "A Carlos Juqui Medina egy emlékmű El Triunfo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.396451,
+                        -2.330746
+                  ]
+            },
+            {
+                  "name": "Monumento a José María Velasco Ibarra",
+                  "text": "A Monumento a José María Velasco Ibarra egy emlékmű El Triunfo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.418634,
+                        -2.329105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carlos Juqui Medina",
+                  "text": "Carlos Juqui Medina este un monument din El Triunfo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.396451,
+                        -2.330746
+                  ]
+            },
+            {
+                  "name": "Monumento a José María Velasco Ibarra",
+                  "text": "Monumento a José María Velasco Ibarra este un monument în El Triunfo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.418634,
+                        -2.329105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carlos Juqui Medina",
+                  "text": "Carlos Juqui Medina is a monument situated in El Triunfo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.396451,
+                        -2.330746
+                  ]
+            },
+            {
+                  "name": "Monumento a José María Velasco Ibarra",
+                  "text": "Monumento a José María Velasco Ibarra is a monument in El Triunfo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.418634,
+                        -2.329105
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-79.4005, -2.3316],
@@ -1611,7 +6174,304 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "salinas-cities-v2",
+    id: "salinas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Salinas Siglo XXI",
+                  "text": "Museo Salinas Siglo XXI ist ein Museum in Salinas, das lokale Archäologie und Geschichte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -80.966883,
+                        -2.20591
+                  ]
+            },
+            {
+                  "name": "Salinas Yacht Club",
+                  "text": "Der Salinas Yacht Club verfügt über einen Leuchtturm in Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.972579,
+                        -2.199906
+                  ]
+            },
+            {
+                  "name": "Museo de Ballenas (se necesita previa cita)",
+                  "text": "Das Museo de Ballenas ist ein Museum in Salinas, das nach Terminvereinbarung besichtigt werden kann.",
+                  "category": "museum",
+                  "coords": [
+                        -80.961341,
+                        -2.20483
+                  ]
+            },
+            {
+                  "name": "Chipipe",
+                  "text": "Chipipe ist ein Strand in Salinas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.981403,
+                        -2.196033
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "San Lorenzo ist ein Strand in Salinas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.968402,
+                        -2.203564
+                  ]
+            },
+            {
+                  "name": "Loberia",
+                  "text": "Loberia ist eine Attraktion in Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.996624,
+                        -2.203527
+                  ]
+            },
+            {
+                  "name": "Mar Bravo",
+                  "text": "Mar Bravo Beach ist eine Attraktion in Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.970653,
+                        -2.224732
+                  ]
+            },
+            {
+                  "name": "Pozos de sal EcuaSal",
+                  "text": "Pozos de sal EcuaSal sind Salzgewinnungsbecken und eine Attraktion in Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.962517,
+                        -2.230503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Salinas Siglo XXI",
+                  "text": "A Museo Salinas Siglo XXI egy múzeum Salinasban, amely a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -80.966883,
+                        -2.20591
+                  ]
+            },
+            {
+                  "name": "Salinas Yacht Club",
+                  "text": "A Salinas Yacht Club területén egy világítótorony található Salinasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.972579,
+                        -2.199906
+                  ]
+            },
+            {
+                  "name": "Museo de Ballenas (se necesita previa cita)",
+                  "text": "A Museo de Ballenas egy múzeum Salinasban, amelynek látogatásához időpontfoglalás szükséges.",
+                  "category": "museum",
+                  "coords": [
+                        -80.961341,
+                        -2.20483
+                  ]
+            },
+            {
+                  "name": "Chipipe",
+                  "text": "A Chipipe egy tengerparti úti cél Salinasban.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.981403,
+                        -2.196033
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "A San Lorenzo egy homokos tengerpart Salinasban.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.968402,
+                        -2.203564
+                  ]
+            },
+            {
+                  "name": "Loberia",
+                  "text": "A Loberia egy tengerparti látványosság Salinasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.996624,
+                        -2.203527
+                  ]
+            },
+            {
+                  "name": "Mar Bravo",
+                  "text": "A Mar Bravo Beach egy tengerparti látványosság Salinas városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.970653,
+                        -2.224732
+                  ]
+            },
+            {
+                  "name": "Pozos de sal EcuaSal",
+                  "text": "A Pozos de sal EcuaSal sólepárló medencék, melyek látványosságként szolgálnak Salinasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.962517,
+                        -2.230503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Salinas Siglo XXI",
+                  "text": "Museo Salinas Siglo XXI este un muzeu din Salinas care prezintă arheologia și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -80.966883,
+                        -2.20591
+                  ]
+            },
+            {
+                  "name": "Salinas Yacht Club",
+                  "text": "Salinas Yacht Club dispune de un far în Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.972579,
+                        -2.199906
+                  ]
+            },
+            {
+                  "name": "Museo de Ballenas (se necesita previa cita)",
+                  "text": "Museo de Ballenas este un muzeu din Salinas ce necesită programare prealabilă.",
+                  "category": "museum",
+                  "coords": [
+                        -80.961341,
+                        -2.20483
+                  ]
+            },
+            {
+                  "name": "Chipipe",
+                  "text": "Chipipe este o destinație de plajă din Salinas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.981403,
+                        -2.196033
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "San Lorenzo este o plajă situată în Salinas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.968402,
+                        -2.203564
+                  ]
+            },
+            {
+                  "name": "Loberia",
+                  "text": "Loberia este o atracție în Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.996624,
+                        -2.203527
+                  ]
+            },
+            {
+                  "name": "Mar Bravo",
+                  "text": "Mar Bravo Beach este o atracție situată în Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.970653,
+                        -2.224732
+                  ]
+            },
+            {
+                  "name": "Pozos de sal EcuaSal",
+                  "text": "Pozos de sal EcuaSal sunt bazine de sare cu rol de atracție în Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.962517,
+                        -2.230503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Salinas Siglo XXI",
+                  "text": "Museo Salinas Siglo XXI is a museum in Salinas showcasing local archaeology and history.",
+                  "category": "museum",
+                  "coords": [
+                        -80.966883,
+                        -2.20591
+                  ]
+            },
+            {
+                  "name": "Salinas Yacht Club",
+                  "text": "Salinas Yacht Club features a lighthouse structure in Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.972579,
+                        -2.199906
+                  ]
+            },
+            {
+                  "name": "Museo de Ballenas (appointment required)",
+                  "text": "Museo de Ballenas is a museum in Salinas that requires an appointment to visit.",
+                  "category": "museum",
+                  "coords": [
+                        -80.961341,
+                        -2.20483
+                  ]
+            },
+            {
+                  "name": "Chipipe",
+                  "text": "Chipipe is a beach destination in Salinas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.981403,
+                        -2.196033
+                  ]
+            },
+            {
+                  "name": "San Lorenzo",
+                  "text": "San Lorenzo is a beach area located in Salinas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.968402,
+                        -2.203564
+                  ]
+            },
+            {
+                  "name": "Loberia",
+                  "text": "Loberia is a natural attraction in Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.996624,
+                        -2.203527
+                  ]
+            },
+            {
+                  "name": "Mar Bravo Beach",
+                  "text": "Mar Bravo Beach is a coastal attraction situated in Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.970653,
+                        -2.224732
+                  ]
+            },
+            {
+                  "name": "Pozos de sal EcuaSal",
+                  "text": "Pozos de sal EcuaSal are salt pools serving as an attraction in Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.962517,
+                        -2.230503
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-SE",
     coords: [-80.9758, -2.2145],
@@ -1655,7 +6515,124 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "general-villamil-playas-cities-v2",
+    id: "general-villamil-playas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rompeolas de Playas",
+                  "text": "Rompeolas de Playas ist ein Strand in General Villamil Playas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.39914,
+                        -2.639022
+                  ]
+            },
+            {
+                  "name": "Mirador turístico Nuestra Señora de La Merced",
+                  "text": "Mirador turístico Nuestra Señora de La Merced ist eine Attraktion in General Villamil Playas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.397437,
+                        -2.630877
+                  ]
+            },
+            {
+                  "name": "Monumento El Pescador",
+                  "text": "Monumento El Pescador ist ein Denkmal in General Villamil Playas.",
+                  "category": "historical",
+                  "coords": [
+                        -80.392688,
+                        -2.634651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rompeolas de Playas",
+                  "text": "A Rompeolas de Playas egy strand General Villamil Playasban.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.39914,
+                        -2.639022
+                  ]
+            },
+            {
+                  "name": "Mirador turístico Nuestra Señora de La Merced",
+                  "text": "A Mirador turístico Nuestra Señora de La Merced egy látványosság General Villamil Playasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.397437,
+                        -2.630877
+                  ]
+            },
+            {
+                  "name": "Monumento El Pescador",
+                  "text": "A Monumento El Pescador egy emlékmű General Villamil Playasban.",
+                  "category": "historical",
+                  "coords": [
+                        -80.392688,
+                        -2.634651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rompeolas de Playas",
+                  "text": "Rompeolas de Playas este o plajă în General Villamil Playas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.39914,
+                        -2.639022
+                  ]
+            },
+            {
+                  "name": "Mirador turístico Nuestra Señora de La Merced",
+                  "text": "Mirador turístico Nuestra Señora de La Merced este o atracție în General Villamil Playas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.397437,
+                        -2.630877
+                  ]
+            },
+            {
+                  "name": "Monumento El Pescador",
+                  "text": "Monumento El Pescador este un monument în General Villamil Playas.",
+                  "category": "historical",
+                  "coords": [
+                        -80.392688,
+                        -2.634651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rompeolas de Playas",
+                  "text": "Rompeolas de Playas is a beach in General Villamil Playas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.39914,
+                        -2.639022
+                  ]
+            },
+            {
+                  "name": "Mirador turístico Nuestra Señora de La Merced",
+                  "text": "Mirador turístico Nuestra Señora de La Merced is an attraction in General Villamil Playas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.397437,
+                        -2.630877
+                  ]
+            },
+            {
+                  "name": "Monumento El Pescador",
+                  "text": "Monumento El Pescador is a monument in General Villamil Playas.",
+                  "category": "historical",
+                  "coords": [
+                        -80.392688,
+                        -2.634651
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-80.3809, -2.6319],
@@ -1775,7 +6752,52 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "vinces-cities-v2",
+    id: "vinces-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento a los héroes",
+                  "text": "Monumento a los héroes ist ein Denkmal in der Stadt Vinces.",
+                  "category": "historical",
+                  "coords": [
+                        -79.753334,
+                        -1.555238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento a los héroes",
+                  "text": "A Monumento a los héroes egy emlékmű Vinces városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.753334,
+                        -1.555238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento a los héroes",
+                  "text": "Monumento a los héroes este un monument aflat în Vinces.",
+                  "category": "historical",
+                  "coords": [
+                        -79.753334,
+                        -1.555238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento a los héroes",
+                  "text": "Monumento a los héroes is a monument located in Vinces.",
+                  "category": "historical",
+                  "coords": [
+                        -79.753334,
+                        -1.555238
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-R",
     coords: [-79.7516, -1.5544],
@@ -1863,7 +6885,52 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "quininde-cities-v2",
+    id: "quininde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento al Sagrado Corazón de Jesús",
+                  "text": "Das Monumento al Sagrado Corazón de Jesús ist ein Denkmal in Quinindé.",
+                  "category": "historical",
+                  "coords": [
+                        -79.472369,
+                        0.322485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento al Sagrado Corazón de Jesús",
+                  "text": "A Monumento al Sagrado Corazón de Jesús egy emlékmű Quinindében.",
+                  "category": "historical",
+                  "coords": [
+                        -79.472369,
+                        0.322485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento al Sagrado Corazón de Jesús",
+                  "text": "Monumento al Sagrado Corazón de Jesús este un monument în Quinindé.",
+                  "category": "historical",
+                  "coords": [
+                        -79.472369,
+                        0.322485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento al Sagrado Corazón de Jesús",
+                  "text": "The Monumento al Sagrado Corazón de Jesús is a monument in Quinindé.",
+                  "category": "historical",
+                  "coords": [
+                        -79.472369,
+                        0.322485
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-E",
     coords: [-79.4660, 0.3275],
@@ -1907,7 +6974,52 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "balzar-cities-v2",
+    id: "balzar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador El Tamarindo",
+                  "text": "Mirador El Tamarindo ist ein Aussichtspunkt in Balzar.",
+                  "category": "natural",
+                  "coords": [
+                        -79.907749,
+                        -1.364898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador El Tamarindo",
+                  "text": "A Mirador El Tamarindo egy kilátópont Balzar városában.",
+                  "category": "natural",
+                  "coords": [
+                        -79.907749,
+                        -1.364898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador El Tamarindo",
+                  "text": "Mirador El Tamarindo este un punct de belvedere în Balzar.",
+                  "category": "natural",
+                  "coords": [
+                        -79.907749,
+                        -1.364898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador El Tamarindo",
+                  "text": "Mirador El Tamarindo is a viewpoint in Balzar.",
+                  "category": "natural",
+                  "coords": [
+                        -79.907749,
+                        -1.364898
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-79.9052, -1.3644],
@@ -1951,7 +7063,52 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "naranjito-cities-v2",
+    id: "naranjito-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque ⛲ Pista de patinaje",
+                  "text": "Parque ⛲ Pista de patinaje ist eine Attraktion in Naranjito.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.461767,
+                        -2.17197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque ⛲ Pista de patinaje",
+                  "text": "A Parque ⛲ Pista de patinaje egy látványosság Naranjito városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.461767,
+                        -2.17197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque ⛲ Pista de patinaje",
+                  "text": "Parque ⛲ Pista de patinaje este o atracție în Naranjito.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.461767,
+                        -2.17197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque ⛲ Pista de patinaje",
+                  "text": "Parque ⛲ Pista de patinaje is a public park and attraction in Naranjito.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.461767,
+                        -2.17197
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-79.4646, -2.1672],
@@ -1995,7 +7152,88 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "naranjal-cities-v2",
+    id: "naranjal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arco del inca",
+                  "text": "Arco del inca ist ein Denkmal in Naranjal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.615921,
+                        -2.674102
+                  ]
+            },
+            {
+                  "name": "Arco inspiración del poeta",
+                  "text": "Arco inspiración del poeta ist ein Denkmal in Naranjal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.61505,
+                        -2.668942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arco del inca",
+                  "text": "Az Arco del inca egy emlékmű Naranjalban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.615921,
+                        -2.674102
+                  ]
+            },
+            {
+                  "name": "Arco inspiración del poeta",
+                  "text": "Az Arco inspiración del poeta egy emlékmű Naranjalban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.61505,
+                        -2.668942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arco del inca",
+                  "text": "Arco del inca este un monument în Naranjal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.615921,
+                        -2.674102
+                  ]
+            },
+            {
+                  "name": "Arco inspiración del poeta",
+                  "text": "Arco inspiración del poeta este un monument în Naranjal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.61505,
+                        -2.668942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arco del inca",
+                  "text": "Arco del inca is a monument in Naranjal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.615921,
+                        -2.674102
+                  ]
+            },
+            {
+                  "name": "Arco inspiración del poeta",
+                  "text": "Arco inspiración del poeta is a monument in Naranjal.",
+                  "category": "historical",
+                  "coords": [
+                        -79.61505,
+                        -2.668942
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-79.6174, -2.6736],
@@ -2203,7 +7441,124 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "catamayo-cities-v2",
+    id: "catamayo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Loma de Trapichillo",
+                  "text": "Loma de Trapichillo ist eine archäologische Stätte in Catamayo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.362326,
+                        -3.972002
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Manuel Serrano",
+                  "text": "Das Museo de Arte Manuel Serrano ist ein Museum in Catamayo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.355191,
+                        -3.999109
+                  ]
+            },
+            {
+                  "name": "La Cruz - Mirador",
+                  "text": "La Cruz - Mirador ist ein Denkmal in Catamayo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.358545,
+                        -3.98314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Loma de Trapichillo",
+                  "text": "A Loma de Trapichillo egy régészeti lelőhely Catamayóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.362326,
+                        -3.972002
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Manuel Serrano",
+                  "text": "A Museo de Arte Manuel Serrano egy múzeum Catamayóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.355191,
+                        -3.999109
+                  ]
+            },
+            {
+                  "name": "La Cruz - Mirador",
+                  "text": "A La Cruz - Mirador egy emlékmű Catamayóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.358545,
+                        -3.98314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Loma de Trapichillo",
+                  "text": "Loma de Trapichillo este un sit arheologic în Catamayo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.362326,
+                        -3.972002
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Manuel Serrano",
+                  "text": "Museo de Arte Manuel Serrano este un muzeu în Catamayo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.355191,
+                        -3.999109
+                  ]
+            },
+            {
+                  "name": "La Cruz - Mirador",
+                  "text": "La Cruz - Mirador este un monument în Catamayo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.358545,
+                        -3.98314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Loma de Trapichillo",
+                  "text": "Loma de Trapichillo is an archaeological site in Catamayo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.362326,
+                        -3.972002
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Manuel Serrano",
+                  "text": "Museo de Arte Manuel Serrano is a museum in Catamayo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.355191,
+                        -3.999109
+                  ]
+            },
+            {
+                  "name": "La Cruz - Mirador",
+                  "text": "La Cruz - Mirador is a monument in Catamayo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.358545,
+                        -3.98314
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-L",
     coords: [-79.3563, -3.9856],
@@ -2247,7 +7602,88 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "el-guabo-cities-v2",
+    id: "el-guabo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Antonio",
+                  "text": "San Antonio ist ein Berggipfel in El Guabo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.816667,
+                        -3.266667
+                  ]
+            },
+            {
+                  "name": "Monumento al General Manuel Serrano",
+                  "text": "Das Monumento al General Manuel Serrano ist ein Denkmal in El Guabo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.843123,
+                        -3.246159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Antonio",
+                  "text": "A San Antonio egy hegycsúcs El Guabo területén.",
+                  "category": "natural",
+                  "coords": [
+                        -79.816667,
+                        -3.266667
+                  ]
+            },
+            {
+                  "name": "Monumento al General Manuel Serrano",
+                  "text": "A Monumento al General Manuel Serrano egy emlékmű El Guabo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.843123,
+                        -3.246159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Antonio",
+                  "text": "San Antonio este un vârf muntos din El Guabo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.816667,
+                        -3.266667
+                  ]
+            },
+            {
+                  "name": "Monumento al General Manuel Serrano",
+                  "text": "Monumento al General Manuel Serrano este un monument în El Guabo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.843123,
+                        -3.246159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Antonio",
+                  "text": "San Antonio is a peak situated in El Guabo.",
+                  "category": "natural",
+                  "coords": [
+                        -79.816667,
+                        -3.266667
+                  ]
+            },
+            {
+                  "name": "Monumento al General Manuel Serrano",
+                  "text": "Monumento al General Manuel Serrano is a monument in El Guabo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.843123,
+                        -3.246159
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-O",
     coords: [-79.8291, -3.2452],
@@ -2291,7 +7727,88 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "pedernales-cities-v2",
+    id: "pedernales-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pedernales",
+                  "text": "Pedernales ist ein lokaler Strand in der Stadt Pedernales.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.05892,
+                        0.069957
+                  ]
+            },
+            {
+                  "name": "Terremoto 16 abril 2018",
+                  "text": "Terremoto 16 abril 2018 ist ein Denkmal in Pedernales.",
+                  "category": "historical",
+                  "coords": [
+                        -80.059251,
+                        0.068396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pedernales",
+                  "text": "A Pedernales egy helyi tengerpart Pedernales városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.05892,
+                        0.069957
+                  ]
+            },
+            {
+                  "name": "Terremoto 16 abril 2018",
+                  "text": "A Terremoto 16 abril 2018 egy emlékmű Pedernales városában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.059251,
+                        0.068396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pedernales",
+                  "text": "Pedernales este o plajă locală situată în orașul Pedernales.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.05892,
+                        0.069957
+                  ]
+            },
+            {
+                  "name": "Terremoto 16 abril 2018",
+                  "text": "Terremoto 16 abril 2018 este un monument situat în Pedernales.",
+                  "category": "historical",
+                  "coords": [
+                        -80.059251,
+                        0.068396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pedernales",
+                  "text": "Pedernales is a local beach located in the city of Pedernales.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.05892,
+                        0.069957
+                  ]
+            },
+            {
+                  "name": "Terremoto 16 abril 2018",
+                  "text": "Terremoto 16 abril 2018 is a monument located in Pedernales.",
+                  "category": "historical",
+                  "coords": [
+                        -80.059251,
+                        0.068396
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-M",
     coords: [-80.0519, 0.0716],
@@ -2335,7 +7852,88 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "atuntaqui-cities-v2",
+    id: "atuntaqui-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pupotola",
+                  "text": "Pupotola ist eine archäologische Stätte in Atuntaqui.",
+                  "category": "historical",
+                  "coords": [
+                        -78.204755,
+                        0.320856
+                  ]
+            },
+            {
+                  "name": "Antigua Fábrica Textil Imbabura",
+                  "text": "Die Antigua Fábrica Textil Imbabura ist ein Museum in Atuntaqui.",
+                  "category": "museum",
+                  "coords": [
+                        -78.212924,
+                        0.322032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pupotola",
+                  "text": "A Pupotola egy régészeti lelőhely Atuntaquiban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.204755,
+                        0.320856
+                  ]
+            },
+            {
+                  "name": "Antigua Fábrica Textil Imbabura",
+                  "text": "Az Antigua Fábrica Textil Imbabura egy múzeum Atuntaquiban.",
+                  "category": "museum",
+                  "coords": [
+                        -78.212924,
+                        0.322032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pupotola",
+                  "text": "Pupotola este un sit arheologic în Atuntaqui.",
+                  "category": "historical",
+                  "coords": [
+                        -78.204755,
+                        0.320856
+                  ]
+            },
+            {
+                  "name": "Antigua Fábrica Textil Imbabura",
+                  "text": "Antigua Fábrica Textil Imbabura este un muzeu din Atuntaqui.",
+                  "category": "museum",
+                  "coords": [
+                        -78.212924,
+                        0.322032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pupotola",
+                  "text": "Pupotola is an archaeological site in Atuntaqui.",
+                  "category": "historical",
+                  "coords": [
+                        -78.204755,
+                        0.320856
+                  ]
+            },
+            {
+                  "name": "Antigua Fábrica Textil Imbabura",
+                  "text": "The Antigua Fábrica Textil Imbabura is a museum in Atuntaqui.",
+                  "category": "museum",
+                  "coords": [
+                        -78.212924,
+                        0.322032
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-I",
     coords: [-78.2144, 0.3322],
@@ -2379,7 +7977,160 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "bahia-de-caraquez-cities-v2",
+    id: "bahia-de-caraquez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Bahia de Caraquez",
+                  "text": "Das Museo Bahia de Caraquez ist ein Museum in Bahía de Caráquez.",
+                  "category": "museum",
+                  "coords": [
+                        -80.423609,
+                        -0.604517
+                  ]
+            },
+            {
+                  "name": "El Faro de Bahia de Caraquez",
+                  "text": "El Faro de Bahia de Caraquez ist ein Leuchtturm in Bahía de Caráquez.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.42408,
+                        -0.594802
+                  ]
+            },
+            {
+                  "name": "BAHÍA TENIS CLUB",
+                  "text": "Der BAHÍA TENIS CLUB ist eine Attraktion in Bahía de Caráquez.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.426721,
+                        -0.599694
+                  ]
+            },
+            {
+                  "name": "Mirador del",
+                  "text": "View from the cross ist ein Aussichtspunkt in Bahía de Caráquez.",
+                  "category": "natural",
+                  "coords": [
+                        -80.425934,
+                        -0.605017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Bahia de Caraquez",
+                  "text": "A Museo Bahia de Caraquez egy múzeum Bahía de Caráquez városában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.423609,
+                        -0.604517
+                  ]
+            },
+            {
+                  "name": "El Faro de Bahia de Caraquez",
+                  "text": "Az El Faro de Bahia de Caraquez egy világítótorony Bahía de Caráquez városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.42408,
+                        -0.594802
+                  ]
+            },
+            {
+                  "name": "BAHÍA TENIS CLUB",
+                  "text": "A BAHÍA TENIS CLUB egy látványosság Bahía de Caráquez városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.426721,
+                        -0.599694
+                  ]
+            },
+            {
+                  "name": "Mirador del",
+                  "text": "A View from the cross egy kilátópont Bahía de Caráquez városában.",
+                  "category": "natural",
+                  "coords": [
+                        -80.425934,
+                        -0.605017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Bahia de Caraquez",
+                  "text": "Museo Bahia de Caraquez este un muzeu din Bahía de Caráquez.",
+                  "category": "museum",
+                  "coords": [
+                        -80.423609,
+                        -0.604517
+                  ]
+            },
+            {
+                  "name": "El Faro de Bahia de Caraquez",
+                  "text": "El Faro de Bahia de Caraquez este un far situat în Bahía de Caráquez.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.42408,
+                        -0.594802
+                  ]
+            },
+            {
+                  "name": "BAHÍA TENIS CLUB",
+                  "text": "BAHÍA TENIS CLUB este o atracție în Bahía de Caráquez.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.426721,
+                        -0.599694
+                  ]
+            },
+            {
+                  "name": "Mirador del",
+                  "text": "View from the cross este un punct de belvedere în Bahía de Caráquez.",
+                  "category": "natural",
+                  "coords": [
+                        -80.425934,
+                        -0.605017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Bahia de Caraquez",
+                  "text": "Museo Bahia de Caraquez is a museum located in Bahía de Caráquez.",
+                  "category": "museum",
+                  "coords": [
+                        -80.423609,
+                        -0.604517
+                  ]
+            },
+            {
+                  "name": "El Faro de Bahia de Caraquez",
+                  "text": "El Faro de Bahia de Caraquez is a lighthouse in Bahía de Caráquez.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.42408,
+                        -0.594802
+                  ]
+            },
+            {
+                  "name": "BAHÍA TENIS CLUB",
+                  "text": "BAHÍA TENIS CLUB is an attraction in Bahía de Caráquez.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.426721,
+                        -0.599694
+                  ]
+            },
+            {
+                  "name": "View from the cross",
+                  "text": "View from the cross is a viewpoint situated in Bahía de Caráquez.",
+                  "category": "natural",
+                  "coords": [
+                        -80.425934,
+                        -0.605017
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-M",
     coords: [-80.4236, -0.5979],
@@ -2423,7 +8174,160 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "pinas-cities-v2",
+    id: "pinas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Degat",
+                  "text": "Degat ist ein Museum in Piñas.",
+                  "category": "museum",
+                  "coords": [
+                        -79.6819,
+                        -3.68116
+                  ]
+            },
+            {
+                  "name": "Cerro de Cristo - La Cruz",
+                  "text": "Cerro de Cristo - La Cruz ist ein Aussichtspunkt in Piñas.",
+                  "category": "natural",
+                  "coords": [
+                        -79.685322,
+                        -3.68637
+                  ]
+            },
+            {
+                  "name": "La Cadena",
+                  "text": "La Cadena ist ein Denkmal in der Stadt Piñas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.67945,
+                        -3.681071
+                  ]
+            },
+            {
+                  "name": "Monumento Al Soldado",
+                  "text": "Das Monumento Al Soldado ist ein Denkmal in Piñas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.683065,
+                        -3.679203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Degat",
+                  "text": "A Degat egy múzeum Piñas városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.6819,
+                        -3.68116
+                  ]
+            },
+            {
+                  "name": "Cerro de Cristo - La Cruz",
+                  "text": "A Cerro de Cristo - La Cruz egy kilátó Piñas városában.",
+                  "category": "natural",
+                  "coords": [
+                        -79.685322,
+                        -3.68637
+                  ]
+            },
+            {
+                  "name": "La Cadena",
+                  "text": "A La Cadena egy emlékmű Piñas városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.67945,
+                        -3.681071
+                  ]
+            },
+            {
+                  "name": "Monumento Al Soldado",
+                  "text": "A Monumento Al Soldado egy emlékmű Piñasban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.683065,
+                        -3.679203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Degat",
+                  "text": "Degat este un muzeu situat în Piñas.",
+                  "category": "museum",
+                  "coords": [
+                        -79.6819,
+                        -3.68116
+                  ]
+            },
+            {
+                  "name": "Cerro de Cristo - La Cruz",
+                  "text": "Cerro de Cristo - La Cruz este un punct de belvedere din Piñas.",
+                  "category": "natural",
+                  "coords": [
+                        -79.685322,
+                        -3.68637
+                  ]
+            },
+            {
+                  "name": "La Cadena",
+                  "text": "La Cadena este un monument situat în orașul Piñas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.67945,
+                        -3.681071
+                  ]
+            },
+            {
+                  "name": "Monumento Al Soldado",
+                  "text": "Monumento Al Soldado este un monument situat în Piñas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.683065,
+                        -3.679203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Degat",
+                  "text": "Degat is a local museum situated in Piñas.",
+                  "category": "museum",
+                  "coords": [
+                        -79.6819,
+                        -3.68116
+                  ]
+            },
+            {
+                  "name": "Cerro de Cristo - La Cruz",
+                  "text": "Cerro de Cristo - La Cruz is an elevated viewpoint in Piñas.",
+                  "category": "natural",
+                  "coords": [
+                        -79.685322,
+                        -3.68637
+                  ]
+            },
+            {
+                  "name": "La Cadena",
+                  "text": "La Cadena is a monument located in the city of Piñas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.67945,
+                        -3.681071
+                  ]
+            },
+            {
+                  "name": "Monumento Al Soldado",
+                  "text": "Monumento Al Soldado is a monument in Piñas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.683065,
+                        -3.679203
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-O",
     coords: [-79.6808, -3.6811],
@@ -2467,7 +8371,124 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-gabriel-cities-v2",
+    id: "san-gabriel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Pío XII",
+                  "text": "Das Teatro Pío XII ist ein Theater in San Gabriel.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.831212,
+                        0.592962
+                  ]
+            },
+            {
+                  "name": "Teatro municipal",
+                  "text": "Das Teatro municipal ist ein Theater in San Gabriel.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.836069,
+                        0.598199
+                  ]
+            },
+            {
+                  "name": "Avión T-33 del Escuadrón de Tiburones",
+                  "text": "Avión T-33 del Escuadrón de Tiburones ist ein Denkmal in San Gabriel.",
+                  "category": "historical",
+                  "coords": [
+                        -77.827556,
+                        0.584335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Pío XII",
+                  "text": "A Teatro Pío XII egy színház San Gabrielben.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.831212,
+                        0.592962
+                  ]
+            },
+            {
+                  "name": "Teatro municipal",
+                  "text": "A Teatro municipal egy színház San Gabrielben.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.836069,
+                        0.598199
+                  ]
+            },
+            {
+                  "name": "Avión T-33 del Escuadrón de Tiburones",
+                  "text": "Az Avión T-33 del Escuadrón de Tiburones egy emlékmű San Gabrielben.",
+                  "category": "historical",
+                  "coords": [
+                        -77.827556,
+                        0.584335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Pío XII",
+                  "text": "Teatro Pío XII este un teatru din San Gabriel.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.831212,
+                        0.592962
+                  ]
+            },
+            {
+                  "name": "Teatro municipal",
+                  "text": "Teatro municipal este un teatru din San Gabriel.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.836069,
+                        0.598199
+                  ]
+            },
+            {
+                  "name": "Avión T-33 del Escuadrón de Tiburones",
+                  "text": "Avión T-33 del Escuadrón de Tiburones este un monument în San Gabriel.",
+                  "category": "historical",
+                  "coords": [
+                        -77.827556,
+                        0.584335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Pío XII",
+                  "text": "Teatro Pío XII is a theatre in San Gabriel.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.831212,
+                        0.592962
+                  ]
+            },
+            {
+                  "name": "Teatro municipal",
+                  "text": "Teatro municipal is a theatre in San Gabriel.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.836069,
+                        0.598199
+                  ]
+            },
+            {
+                  "name": "Avión T-33 del Escuadrón de Tiburones",
+                  "text": "Avión T-33 del Escuadrón de Tiburones is a monument in San Gabriel.",
+                  "category": "historical",
+                  "coords": [
+                        -77.827556,
+                        0.584335
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-C",
     coords: [-77.8300, 0.5938],
@@ -2511,7 +8532,160 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "gualaceo-cities-v2",
+    id: "gualaceo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Central de Gualaceo",
+                  "text": "Der Parque Central de Gualaceo ist ein Park in Gualaceo.",
+                  "category": "park",
+                  "coords": [
+                        -78.779199,
+                        -2.889866
+                  ]
+            },
+            {
+                  "name": "Acueducto",
+                  "text": "Das Acueducto ist eine Ruinenstätte in Gualaceo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.779381,
+                        -2.903965
+                  ]
+            },
+            {
+                  "name": "Mercado de animales",
+                  "text": "Der Mercado de animales ist eine Attraktion in Gualaceo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.765337,
+                        -2.883696
+                  ]
+            },
+            {
+                  "name": "Monumento a Jaime Roldós y Marta Bucaram",
+                  "text": "Monumento a Jaime Roldós y Marta Bucaram ist ein Denkmal in Gualaceo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.777099,
+                        -2.898387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Central de Gualaceo",
+                  "text": "A Parque Central de Gualaceo egy park Gualaceo városában.",
+                  "category": "park",
+                  "coords": [
+                        -78.779199,
+                        -2.889866
+                  ]
+            },
+            {
+                  "name": "Acueducto",
+                  "text": "Az Acueducto romok Gualaceo városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -78.779381,
+                        -2.903965
+                  ]
+            },
+            {
+                  "name": "Mercado de animales",
+                  "text": "A Mercado de animales egy látványosság Gualaceo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.765337,
+                        -2.883696
+                  ]
+            },
+            {
+                  "name": "Monumento a Jaime Roldós y Marta Bucaram",
+                  "text": "A Monumento a Jaime Roldós y Marta Bucaram egy emlékmű Gualaceo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -78.777099,
+                        -2.898387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Central de Gualaceo",
+                  "text": "Parque Central de Gualaceo este un parc în Gualaceo.",
+                  "category": "park",
+                  "coords": [
+                        -78.779199,
+                        -2.889866
+                  ]
+            },
+            {
+                  "name": "Acueducto",
+                  "text": "Acueducto este un sit cu ruine din Gualaceo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.779381,
+                        -2.903965
+                  ]
+            },
+            {
+                  "name": "Mercado de animales",
+                  "text": "Mercado de animales este o atracție în Gualaceo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.765337,
+                        -2.883696
+                  ]
+            },
+            {
+                  "name": "Monumento a Jaime Roldós y Marta Bucaram",
+                  "text": "Monumento a Jaime Roldós y Marta Bucaram este un monument din Gualaceo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.777099,
+                        -2.898387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Central de Gualaceo",
+                  "text": "Parque Central de Gualaceo is a park located in Gualaceo.",
+                  "category": "park",
+                  "coords": [
+                        -78.779199,
+                        -2.889866
+                  ]
+            },
+            {
+                  "name": "Acueducto",
+                  "text": "The Acueducto refers to historical ruins in Gualaceo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.779381,
+                        -2.903965
+                  ]
+            },
+            {
+                  "name": "Mercado de animales",
+                  "text": "Mercado de animales is an attraction in Gualaceo.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.765337,
+                        -2.883696
+                  ]
+            },
+            {
+                  "name": "Monumento a Jaime Roldós y Marta Bucaram",
+                  "text": "Monumento a Jaime Roldós y Marta Bucaram is a monument in Gualaceo.",
+                  "category": "historical",
+                  "coords": [
+                        -78.777099,
+                        -2.898387
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-A",
     coords: [-78.7758, -2.8888],
@@ -2593,7 +8767,52 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "yaguachi-cities-v2",
+    id: "yaguachi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Jacinto de Yaguachi",
+                  "text": "San Jacinto de Yaguachi ist ein Denkmal in Yaguachi.",
+                  "category": "historical",
+                  "coords": [
+                        -79.695915,
+                        -2.093567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Jacinto de Yaguachi",
+                  "text": "A San Jacinto de Yaguachi egy emlékmű Yaguachi városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.695915,
+                        -2.093567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Jacinto de Yaguachi",
+                  "text": "San Jacinto de Yaguachi este un monument situat în Yaguachi.",
+                  "category": "historical",
+                  "coords": [
+                        -79.695915,
+                        -2.093567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Jacinto de Yaguachi",
+                  "text": "San Jacinto de Yaguachi is a monument situated in Yaguachi.",
+                  "category": "historical",
+                  "coords": [
+                        -79.695915,
+                        -2.093567
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-G",
     coords: [-79.6952, -2.0963],
@@ -2637,7 +8856,88 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "calceta-cities-v2",
+    id: "calceta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento al Balsero del Carrizal",
+                  "text": "Monumento al Balsero del Carrizal ist ein Denkmal in Calceta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.165148,
+                        -0.846705
+                  ]
+            },
+            {
+                  "name": "Balneario \"El Tape\" Platanales",
+                  "text": "Balneario \"El Tape\" Platanales ist eine Attraktion in Calceta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.148842,
+                        -0.851526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento al Balsero del Carrizal",
+                  "text": "A Monumento al Balsero del Carrizal egy emlékmű Calceta városában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.165148,
+                        -0.846705
+                  ]
+            },
+            {
+                  "name": "Balneario \"El Tape\" Platanales",
+                  "text": "A Balneario \"El Tape\" Platanales egy látványosság Calceta városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.148842,
+                        -0.851526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento al Balsero del Carrizal",
+                  "text": "Monumento al Balsero del Carrizal este un monument în Calceta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.165148,
+                        -0.846705
+                  ]
+            },
+            {
+                  "name": "Balneario \"El Tape\" Platanales",
+                  "text": "Balneario \"El Tape\" Platanales este o atracție în Calceta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.148842,
+                        -0.851526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento al Balsero del Carrizal",
+                  "text": "Monumento al Balsero del Carrizal is a monument in Calceta.",
+                  "category": "historical",
+                  "coords": [
+                        -80.165148,
+                        -0.846705
+                  ]
+            },
+            {
+                  "name": "Balneario \"El Tape\" Platanales",
+                  "text": "Balneario \"El Tape\" Platanales is an attraction in Calceta.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.148842,
+                        -0.851526
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-M",
     coords: [-80.1633, -0.8441],
@@ -2681,7 +8981,88 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "arenillas-cities-v2",
+    id: "arenillas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arenillas City",
+                  "text": "Arenillas City ist ein Aussichtspunkt in der Stadt Arenillas.",
+                  "category": "natural",
+                  "coords": [
+                        -80.055899,
+                        -3.557901
+                  ]
+            },
+            {
+                  "name": "LAS TRES CRUCES",
+                  "text": "LAS TRES CRUCES ist ein Aussichtspunkt in Arenillas.",
+                  "category": "natural",
+                  "coords": [
+                        -80.061909,
+                        -3.556511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arenillas City",
+                  "text": "Az Arenillas City egy kilátópont Arenillas városában.",
+                  "category": "natural",
+                  "coords": [
+                        -80.055899,
+                        -3.557901
+                  ]
+            },
+            {
+                  "name": "LAS TRES CRUCES",
+                  "text": "A LAS TRES CRUCES egy kilátópont Arenillas városában.",
+                  "category": "natural",
+                  "coords": [
+                        -80.061909,
+                        -3.556511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arenillas City",
+                  "text": "Arenillas City este un punct de belvedere în Arenillas.",
+                  "category": "natural",
+                  "coords": [
+                        -80.055899,
+                        -3.557901
+                  ]
+            },
+            {
+                  "name": "LAS TRES CRUCES",
+                  "text": "LAS TRES CRUCES este un punct de belvedere din Arenillas.",
+                  "category": "natural",
+                  "coords": [
+                        -80.061909,
+                        -3.556511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arenillas City",
+                  "text": "Arenillas City is a scenic viewpoint in Arenillas.",
+                  "category": "natural",
+                  "coords": [
+                        -80.055899,
+                        -3.557901
+                  ]
+            },
+            {
+                  "name": "LAS TRES CRUCES",
+                  "text": "LAS TRES CRUCES is a viewpoint located in Arenillas.",
+                  "category": "natural",
+                  "coords": [
+                        -80.061909,
+                        -3.556511
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EC-O",
     coords: [-80.0683, -3.5530],

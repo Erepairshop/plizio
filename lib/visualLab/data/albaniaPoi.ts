@@ -60,7 +60,1672 @@ export const albaniaCountry: POI = {
 
 export const albaniaCities: POI[] = [
   {
-    id: "city-tirana",
+    id: "city-tirana", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Tiranës",
+                  "text": "Kalaja e Tiranës ist eine historische Burg im Zentrum von Tirana.",
+                  "category": "castle",
+                  "coords": [
+                        19.822575,
+                        41.326545
+                  ]
+            },
+            {
+                  "name": "Bunk'Art 2",
+                  "text": "Bunk'Art 2 ist ein bedeutendes Museum in Tirana, das der Geschichte der kommunistischen Ära gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.819551,
+                        41.327022
+                  ]
+            },
+            {
+                  "name": "Muzeu i Forcave të Armatosura",
+                  "text": "Das Armed Forces Museum ist eine Einrichtung in Tirana, die die albanische Militärgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.838272,
+                        41.341699
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik i Tiranës",
+                  "text": "Das Archäologische Museum Tirana stellt prähistorische und antike Artefakte aus Albanien aus.",
+                  "category": "museum",
+                  "coords": [
+                        19.821892,
+                        41.318262
+                  ]
+            },
+            {
+                  "name": "Muzeu i Shkencave të Natyrës \"Sabiha Kasimati\"",
+                  "text": "Das Naturwissenschaftliche Museum Sabiha Kasimati ist ein bekanntes Museum in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.834549,
+                        41.325521
+                  ]
+            },
+            {
+                  "name": "Shtëpia me Gjethe - Muzeu i Përgjimeve të Sigurimit të Shtetit",
+                  "text": "Das Haus der Blätter ist ein Museum in Tirana, das der Geheimüberwachung während des kommunistischen Regimes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.816327,
+                        41.326467
+                  ]
+            },
+            {
+                  "name": "Mozaiku i Tiranës",
+                  "text": "Das Mosaik von Tirana ist eine bedeutende antike archäologische Stätte in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.804254,
+                        41.330083
+                  ]
+            },
+            {
+                  "name": "Mutter Albanien",
+                  "text": "Mutter Albanien ist eine monumentale Statue in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.840069,
+                        41.30854
+                  ]
+            },
+            {
+                  "name": "Skanderbeg-Denkmal",
+                  "text": "Das Skanderbeg-Denkmal ist eine bekannte Reiterstatue auf dem Hauptplatz von Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.818568,
+                        41.327738
+                  ]
+            },
+            {
+                  "name": "Nationales Kindertheater",
+                  "text": "Das Nationale Kindertheater ist eine renommierte Theatereinrichtung in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.817585,
+                        41.327259
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Das Open Theatre of Tirana ist ein beliebtes Amphitheater in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        19.820445,
+                        41.313694
+                  ]
+            },
+            {
+                  "name": "Nationaltheater",
+                  "text": "Das Nationale Opern- und Ballett-Theater ist das größte Theater in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.819707,
+                        41.329083
+                  ]
+            },
+            {
+                  "name": "Xhamia e Kokonozit",
+                  "text": "Die Kokonozi-Moschee ist ein Sakralbau aus der osmanischen Zeit in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.824945,
+                        41.330086
+                  ]
+            },
+            {
+                  "name": "Kisha Katolike \"Zemra e Krishtit\"",
+                  "text": "Die Herz-Jesu-Kirche ist ein katholischer Sakralbau in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.809562,
+                        41.327257
+                  ]
+            },
+            {
+                  "name": "Große Moschee von Tirana",
+                  "text": "Die Große Moschee von Tirana ist ein bedeutendes religiöses Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        19.824202,
+                        41.325699
+                  ]
+            },
+            {
+                  "name": "Kisha Ortodokse Autoqefale e Shqipërisë",
+                  "text": "Die orthodoxe Kirche von Albanien ist ein markanter Sakralbau in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.806728,
+                        41.326476
+                  ]
+            },
+            {
+                  "name": "Teqja e Sheh Dyrrit",
+                  "text": "Sheh Dyrri Tekke ist ein historischer Sakralbau in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.819283,
+                        41.332685
+                  ]
+            },
+            {
+                  "name": "Xhamia e Tabakëve",
+                  "text": "Die Gerber-Moschee ist ein historischer islamischer Sakralbau in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.828006,
+                        41.32678
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Prokopit",
+                  "text": "Die St.-Prokopius-Kirche ist ein orthodoxer Sakralbau in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.819187,
+                        41.313964
+                  ]
+            },
+            {
+                  "name": "Pyramide von Tirana",
+                  "text": "Die Pyramide von Tirana ist ein berühmtes brutalistisches Denkmal und eine kulturelle Attraktion in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.821536,
+                        41.32304
+                  ]
+            },
+            {
+                  "name": "Sarajet",
+                  "text": "Sarajet ist eine historische architektonische Attraktion in Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.821287,
+                        41.327066
+                  ]
+            },
+            {
+                  "name": "Tanner Brücke",
+                  "text": "Die Gerberbrücke ist eine gut erhaltene osmanische Steinbrücke aus dem 18. Jahrhundert in Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82605,
+                        41.326424
+                  ]
+            },
+            {
+                  "name": "Parku Rinia",
+                  "text": "Der Rinia-Park ist ein zentraler öffentlicher Park in Tirana.",
+                  "category": "park",
+                  "coords": [
+                        19.818217,
+                        41.324798
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten Tirana",
+                  "text": "Der Botanische Garten von Tirana ist ein malerischer botanischer Garten in der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        19.806149,
+                        41.309798
+                  ]
+            },
+            {
+                  "name": "Zoo Tirana",
+                  "text": "Der Zoo Tirana ist ein zoologischer Garten in der Hauptstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.809509,
+                        41.307222
+                  ]
+            },
+            {
+                  "name": "Mezuraj Museum",
+                  "text": "Das Mezuraj Museum ist ein Museum in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.8146,
+                        41.32838
+                  ]
+            },
+            {
+                  "name": "Muzeu i Gruas",
+                  "text": "Das Frauenmuseum ist eine kulturelle Einrichtung in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.815317,
+                        41.325528
+                  ]
+            },
+            {
+                  "name": "Hotspot Tirana",
+                  "text": "Hotspot Tirana ist eine Galerie in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.824942,
+                        41.333828
+                  ]
+            },
+            {
+                  "name": "Galeria FAB",
+                  "text": "Die Galeria FAB ist eine Kunstgalerie in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.819243,
+                        41.318024
+                  ]
+            },
+            {
+                  "name": "Art Gallery Muhamet Kërpaçi",
+                  "text": "Die Kunstgalerie Muhamet Kërpaçi ist eine lokale Galerie in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.817469,
+                        41.322907
+                  ]
+            },
+            {
+                  "name": "Minus Art Space",
+                  "text": "Minus Art Space ist eine Galerie in der Stadt Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.828673,
+                        41.329351
+                  ]
+            },
+            {
+                  "name": "Kolona nga Miniera e Spaçit",
+                  "text": "Die Säulen aus der Mine des Arbeitslagers Spaç sind ein historisches Denkmal in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.820061,
+                        41.320886
+                  ]
+            },
+            {
+                  "name": "Ish-Parku i Mallrave",
+                  "text": "Ish-Parku i Mallrave besteht aus historischen Ruinen in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.793155,
+                        41.321817
+                  ]
+            },
+            {
+                  "name": "2 Korrik 1990",
+                  "text": "2 Korrik 1990 ist ein Denkmal in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.808267,
+                        41.329099
+                  ]
+            },
+            {
+                  "name": "Old locomotive",
+                  "text": "Die Alte Lokomotive ist ein historisches Denkmal in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.815549,
+                        41.33961
+                  ]
+            },
+            {
+                  "name": "Friendship Monument",
+                  "text": "Das Freundschaftsdenkmal befindet sich in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.82108,
+                        41.328151
+                  ]
+            },
+            {
+                  "name": "Teatri Metropol",
+                  "text": "Teatri Metropol ist ein Theater in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.817093,
+                        41.330371
+                  ]
+            },
+            {
+                  "name": "arTurbina - Teatri Kombetar Eksperimental",
+                  "text": "arTurbina - Teatri Kombetar Eksperimental ist ein Theater in der Stadt Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.814856,
+                        41.31464
+                  ]
+            },
+            {
+                  "name": "Kinema Agimi",
+                  "text": "Kinema Agimi ist ein Kunstzentrum in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.814695,
+                        41.322627
+                  ]
+            },
+            {
+                  "name": "Color Wine",
+                  "text": "Color Wine ist ein Kunstzentrum in der Stadt Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.816932,
+                        41.324144
+                  ]
+            },
+            {
+                  "name": "Qendra e Realizimit të Veprave të Artit",
+                  "text": "Qendra e Realizimit të Veprave të Artit ist ein Kunstzentrum in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.805986,
+                        41.318706
+                  ]
+            },
+            {
+                  "name": "Salla e Koncerteve \"Tonin Harapi\"",
+                  "text": "Salla e Koncerteve \"Tonin Harapi\" ist ein Kunstzentrum in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.825333,
+                        41.321323
+                  ]
+            },
+            {
+                  "name": "Kinema Maks Velo",
+                  "text": "Kinema Maks Velo ist ein Kunstzentrum in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.793892,
+                        41.338322
+                  ]
+            },
+            {
+                  "name": "Hafiz Ibrahim Dalliu",
+                  "text": "Hafiz Ibrahim Dalliu ist eine lokale Attraktion in Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82603,
+                        41.338368
+                  ]
+            },
+            {
+                  "name": "Family House of Mother Teresa",
+                  "text": "The Family House of Mother Teresa ist eine Touristenattraktion in Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.812821,
+                        41.326355
+                  ]
+            },
+            {
+                  "name": "Lemurët",
+                  "text": "Lemurs ist eine Attraktion in der Stadt Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.810467,
+                        41.308256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Tiranës",
+                  "text": "A Kalaja e Tiranës egy történelmi vár Tirana központjában.",
+                  "category": "castle",
+                  "coords": [
+                        19.822575,
+                        41.326545
+                  ]
+            },
+            {
+                  "name": "Bunk'Art 2",
+                  "text": "A Bunk'Art 2 egy jelentős múzeum Tiranában, amely a kommunista korszak történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.819551,
+                        41.327022
+                  ]
+            },
+            {
+                  "name": "Muzeu i Forcave të Armatosura",
+                  "text": "Az Armed Forces Museum az albán hadtörténetet bemutató intézmény Tiranában.",
+                  "category": "museum",
+                  "coords": [
+                        19.838272,
+                        41.341699
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik i Tiranës",
+                  "text": "A Tiranai Régészeti Múzeum történelem előtti és ókori albán leleteket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        19.821892,
+                        41.318262
+                  ]
+            },
+            {
+                  "name": "Muzeu i Shkencave të Natyrës \"Sabiha Kasimati\"",
+                  "text": "A Sabiha Kasimati Természettudományi Múzeum egy ismert múzeum Tiranában.",
+                  "category": "museum",
+                  "coords": [
+                        19.834549,
+                        41.325521
+                  ]
+            },
+            {
+                  "name": "Shtëpia me Gjethe - Muzeu i Përgjimeve të Sigurimit të Shtetit",
+                  "text": "A Levelek Háza egy múzeum Tiranában, amely a kommunista rezsim alatti titkos megfigyelést mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.816327,
+                        41.326467
+                  ]
+            },
+            {
+                  "name": "Mozaiku i Tiranës",
+                  "text": "A Tiranai Mozaik egy jelentős ókori régészeti lelőhely Tiranában.",
+                  "category": "historical",
+                  "coords": [
+                        19.804254,
+                        41.330083
+                  ]
+            },
+            {
+                  "name": "Nëna Shqipëri",
+                  "text": "Az Albánia Anyja egy monumentális szobor Tiranában.",
+                  "category": "historical",
+                  "coords": [
+                        19.840069,
+                        41.30854
+                  ]
+            },
+            {
+                  "name": "Monumenti i Skënderbeut",
+                  "text": "A Szkander bég emlékmű egy jól ismert lovasszobor Tirana főterén.",
+                  "category": "historical",
+                  "coords": [
+                        19.818568,
+                        41.327738
+                  ]
+            },
+            {
+                  "name": "Teatri Kombëtar Shqiptar i Fëmijëve",
+                  "text": "A Nemzeti Gyermekszínház egy neves színházi intézmény Tiranában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.817585,
+                        41.327259
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "A Tiranai Nyitott Színház egy népszerű amfiteátrum a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        19.820445,
+                        41.313694
+                  ]
+            },
+            {
+                  "name": "Nemzeti Színház",
+                  "text": "Az Albán Nemzeti Opera- és Balettszínház Tirana legnagyobb színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        19.819707,
+                        41.329083
+                  ]
+            },
+            {
+                  "name": "Xhamia e Kokonozit",
+                  "text": "A Kokonozi mecset egy oszmán kori imahely Tiranában.",
+                  "category": "religious",
+                  "coords": [
+                        19.824945,
+                        41.330086
+                  ]
+            },
+            {
+                  "name": "Kisha Katolike \"Zemra e Krishtit\"",
+                  "text": "A Jézus Szíve-templom egy katolikus imahely Tiranában.",
+                  "category": "religious",
+                  "coords": [
+                        19.809562,
+                        41.327257
+                  ]
+            },
+            {
+                  "name": "Xhamia e Namazgjasë",
+                  "text": "A Tiranai Nagymecset a város egyik jelentős vallási nevezetessége.",
+                  "category": "religious",
+                  "coords": [
+                        19.824202,
+                        41.325699
+                  ]
+            },
+            {
+                  "name": "Kisha Ortodokse Autoqefale e Shqipërisë",
+                  "text": "Az Albán Ortodox Egyház egy kiemelkedő imahely Tiranában.",
+                  "category": "religious",
+                  "coords": [
+                        19.806728,
+                        41.326476
+                  ]
+            },
+            {
+                  "name": "Teqja e Sheh Dyrrit",
+                  "text": "A Sheh Dyrri Tekke egy történelmi imahely Tiranában.",
+                  "category": "religious",
+                  "coords": [
+                        19.819283,
+                        41.332685
+                  ]
+            },
+            {
+                  "name": "Xhamia e Tabakëve",
+                  "text": "A Tímárok mecsetje egy történelmi iszlám imahely Tiranában.",
+                  "category": "religious",
+                  "coords": [
+                        19.828006,
+                        41.32678
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Prokopit",
+                  "text": "A Szent Prokop-templom egy keleti ortodox imahely Tiranában.",
+                  "category": "religious",
+                  "coords": [
+                        19.819187,
+                        41.313964
+                  ]
+            },
+            {
+                  "name": "Piramida e Tiranës",
+                  "text": "A Tiranai Piramis a város híres brutalista emlékműve és kulturális látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        19.821536,
+                        41.32304
+                  ]
+            },
+            {
+                  "name": "Sarajet",
+                  "text": "A Sarajet egy történelmi építészeti látványosság Tiranában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.821287,
+                        41.327066
+                  ]
+            },
+            {
+                  "name": "Ura e Tabakëve",
+                  "text": "A Tímárok hídja egy jól megőrzött 18. századi oszmán kőhíd Tiranában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82605,
+                        41.326424
+                  ]
+            },
+            {
+                  "name": "Parku Rinia",
+                  "text": "A Rinia Park egy központi közpark Tiranában.",
+                  "category": "park",
+                  "coords": [
+                        19.818217,
+                        41.324798
+                  ]
+            },
+            {
+                  "name": "Kopshti Botanik i Tiranës",
+                  "text": "A Tiranai Botanikus Kert egy festői botanikus kert a városban.",
+                  "category": "park",
+                  "coords": [
+                        19.806149,
+                        41.309798
+                  ]
+            },
+            {
+                  "name": "Tiranai Állatkert",
+                  "text": "A Tiranai Állatkert egy zoológiai park a fővárosban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.809509,
+                        41.307222
+                  ]
+            },
+            {
+                  "name": "Mezuraj Museum",
+                  "text": "A Mezuraj Múzeum egy Tiranában található múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.8146,
+                        41.32838
+                  ]
+            },
+            {
+                  "name": "Muzeu i Gruas",
+                  "text": "A Nők Múzeuma egy kulturális intézmény Tiranában.",
+                  "category": "museum",
+                  "coords": [
+                        19.815317,
+                        41.325528
+                  ]
+            },
+            {
+                  "name": "Hotspot Tirana",
+                  "text": "A Hotspot Tirana egy galéria Tiranában.",
+                  "category": "museum",
+                  "coords": [
+                        19.824942,
+                        41.333828
+                  ]
+            },
+            {
+                  "name": "Galeria FAB",
+                  "text": "A Galeria FAB egy művészeti galéria Tiranában.",
+                  "category": "museum",
+                  "coords": [
+                        19.819243,
+                        41.318024
+                  ]
+            },
+            {
+                  "name": "Art Gallery Muhamet Kërpaçi",
+                  "text": "A Muhamet Kërpaçi Művészeti Galéria egy helyi galéria Tiranában.",
+                  "category": "museum",
+                  "coords": [
+                        19.817469,
+                        41.322907
+                  ]
+            },
+            {
+                  "name": "Minus Art Space",
+                  "text": "A Minus Art Space egy galéria Tirana városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.828673,
+                        41.329351
+                  ]
+            },
+            {
+                  "name": "Kolona nga Miniera e Spaçit",
+                  "text": "A Spaçi Munkatábor Bányájának Oszlopai történelmi emlékművek Tiranában.",
+                  "category": "historical",
+                  "coords": [
+                        19.820061,
+                        41.320886
+                  ]
+            },
+            {
+                  "name": "Ish-Parku i Mallrave",
+                  "text": "Az Ish-Parku i Mallrave történelmi romokat foglal magába Tiranában.",
+                  "category": "historical",
+                  "coords": [
+                        19.793155,
+                        41.321817
+                  ]
+            },
+            {
+                  "name": "2 Korrik 1990",
+                  "text": "A 2 Korrik 1990 egy emlékmű Tiranában.",
+                  "category": "historical",
+                  "coords": [
+                        19.808267,
+                        41.329099
+                  ]
+            },
+            {
+                  "name": "Old locomotive",
+                  "text": "A Régi mozdony egy történelmi emlékmű Tiranában.",
+                  "category": "historical",
+                  "coords": [
+                        19.815549,
+                        41.33961
+                  ]
+            },
+            {
+                  "name": "Friendship Monument",
+                  "text": "A Barátság emlékmű Tiranában található.",
+                  "category": "historical",
+                  "coords": [
+                        19.82108,
+                        41.328151
+                  ]
+            },
+            {
+                  "name": "Teatri Metropol",
+                  "text": "A Teatri Metropol egy színház Tiranában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.817093,
+                        41.330371
+                  ]
+            },
+            {
+                  "name": "arTurbina - Teatri Kombetar Eksperimental",
+                  "text": "Az arTurbina - Teatri Kombetar Eksperimental egy színház Tirana városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.814856,
+                        41.31464
+                  ]
+            },
+            {
+                  "name": "Kinema Agimi",
+                  "text": "A Kinema Agimi egy művészeti központ Tiranában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.814695,
+                        41.322627
+                  ]
+            },
+            {
+                  "name": "Color Wine",
+                  "text": "A Color Wine egy művészeti központ Tirana városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.816932,
+                        41.324144
+                  ]
+            },
+            {
+                  "name": "Qendra e Realizimit të Veprave të Artit",
+                  "text": "A Qendra e Realizimit të Veprave të Artit egy művészeti központ Tiranában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.805986,
+                        41.318706
+                  ]
+            },
+            {
+                  "name": "Salla e Koncerteve \"Tonin Harapi\"",
+                  "text": "A Salla e Koncerteve \"Tonin Harapi\" egy művészeti központ Tiranában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.825333,
+                        41.321323
+                  ]
+            },
+            {
+                  "name": "Kinema Maks Velo",
+                  "text": "A Kinema Maks Velo egy művészeti központ Tiranában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.793892,
+                        41.338322
+                  ]
+            },
+            {
+                  "name": "Hafiz Ibrahim Dalliu",
+                  "text": "A Hafiz Ibrahim Dalliu egy helyi látványosság Tiranában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82603,
+                        41.338368
+                  ]
+            },
+            {
+                  "name": "Family House of Mother Teresa",
+                  "text": "A Family House of Mother Teresa egy turisztikai látványosság Tiranában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.812821,
+                        41.326355
+                  ]
+            },
+            {
+                  "name": "Lemurët",
+                  "text": "A Lemurs egy látványosság Tirana városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.810467,
+                        41.308256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Tiranës",
+                  "text": "Kalaja e Tiranës este un castel istoric situat în centrul orașului Tirana.",
+                  "category": "castle",
+                  "coords": [
+                        19.822575,
+                        41.326545
+                  ]
+            },
+            {
+                  "name": "Bunk'Art 2",
+                  "text": "Bunk'Art 2 este un muzeu major din Tirana dedicat istoriei epocii comuniste.",
+                  "category": "museum",
+                  "coords": [
+                        19.819551,
+                        41.327022
+                  ]
+            },
+            {
+                  "name": "Muzeu i Forcave të Armatosura",
+                  "text": "Muzeul Forțelor Armate este o instituție din Tirana care prezintă istoria militară albaneză.",
+                  "category": "museum",
+                  "coords": [
+                        19.838272,
+                        41.341699
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik i Tiranës",
+                  "text": "Muzeul Arheologic din Tirana expune artefacte preistorice și antice din Albania.",
+                  "category": "museum",
+                  "coords": [
+                        19.821892,
+                        41.318262
+                  ]
+            },
+            {
+                  "name": "Muzeu i Shkencave të Natyrës \"Sabiha Kasimati\"",
+                  "text": "Muzeul de Științe ale Naturii Sabiha Kasimati este un muzeu proeminent în Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.834549,
+                        41.325521
+                  ]
+            },
+            {
+                  "name": "Shtëpia me Gjethe - Muzeu i Përgjimeve të Sigurimit të Shtetit",
+                  "text": "Casa Frunzelor este un muzeu din Tirana dedicat supravegherii secrete din timpul regimului comunist.",
+                  "category": "museum",
+                  "coords": [
+                        19.816327,
+                        41.326467
+                  ]
+            },
+            {
+                  "name": "Mozaiku i Tiranës",
+                  "text": "Mozaicul din Tirana este un sit arheologic antic notabil situat în Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.804254,
+                        41.330083
+                  ]
+            },
+            {
+                  "name": "Nëna Shqipëri",
+                  "text": "Mama Albania este o statuie monumentală situată în Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.840069,
+                        41.30854
+                  ]
+            },
+            {
+                  "name": "Monumenti i Skënderbeut",
+                  "text": "Monumentul Skanderbeg este o statuie ecvestră binecunoscută în piața principală din Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.818568,
+                        41.327738
+                  ]
+            },
+            {
+                  "name": "Teatri Kombëtar Shqiptar i Fëmijëve",
+                  "text": "Teatrul Național pentru Copii este o instituție teatrală renumită din Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.817585,
+                        41.327259
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Teatrul Deschis din Tirana este un amfiteatru popular situat în oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        19.820445,
+                        41.313694
+                  ]
+            },
+            {
+                  "name": "Teatri Kombëtar i Operas dhe Baletit",
+                  "text": "Teatrul Național de Operă și Balet este cel mai mare teatru din Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.819707,
+                        41.329083
+                  ]
+            },
+            {
+                  "name": "Xhamia e Kokonozit",
+                  "text": "Moscheea Kokonozi este un lăcaș de cult din epoca otomană situat în Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.824945,
+                        41.330086
+                  ]
+            },
+            {
+                  "name": "Kisha Katolike \"Zemra e Krishtit\"",
+                  "text": "Biserica Inima Sacră este un lăcaș de cult catolic situat în Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.809562,
+                        41.327257
+                  ]
+            },
+            {
+                  "name": "Xhamia e Namazgjasë",
+                  "text": "Marea Moschee din Tirana este un reper religios major din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        19.824202,
+                        41.325699
+                  ]
+            },
+            {
+                  "name": "Kisha Ortodokse Autoqefale e Shqipërisë",
+                  "text": "Biserica Ortodoxă Albaneză este un lăcaș de cult proeminent în Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.806728,
+                        41.326476
+                  ]
+            },
+            {
+                  "name": "Teqja e Sheh Dyrrit",
+                  "text": "Sheh Dyrri Tekke este un lăcaș de cult istoric situat în Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.819283,
+                        41.332685
+                  ]
+            },
+            {
+                  "name": "Xhamia e Tabakëve",
+                  "text": "Moscheea Tăbăcarilor este un lăcaș de cult islamic istoric din Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.828006,
+                        41.32678
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Prokopit",
+                  "text": "Biserica Sfântul Procopie este un lăcaș de cult ortodox în Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.819187,
+                        41.313964
+                  ]
+            },
+            {
+                  "name": "Piramida e Tiranës",
+                  "text": "Piramida din Tirana este un faimos monument brutalist și o atracție culturală din oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        19.821536,
+                        41.32304
+                  ]
+            },
+            {
+                  "name": "Sarajet",
+                  "text": "Sarajet este o atracție arhitecturală istorică situată în Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.821287,
+                        41.327066
+                  ]
+            },
+            {
+                  "name": "Ura e Tabakëve",
+                  "text": "Podul Tăbăcarilor este un pod pietonal de piatră otoman bine conservat din secolul al XVIII-lea din Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82605,
+                        41.326424
+                  ]
+            },
+            {
+                  "name": "Parku Rinia",
+                  "text": "Parcul Rinia este un parc public central situat în Tirana.",
+                  "category": "park",
+                  "coords": [
+                        19.818217,
+                        41.324798
+                  ]
+            },
+            {
+                  "name": "Kopshti Botanik i Tiranës",
+                  "text": "Grădina Botanică din Tirana este o grădină botanică pitorească din oraș.",
+                  "category": "park",
+                  "coords": [
+                        19.806149,
+                        41.309798
+                  ]
+            },
+            {
+                  "name": "Parku Zoologjik i Tiranës",
+                  "text": "Grădina Zoologică din Tirana este un parc zoologic situat în capitală.",
+                  "category": "recreational",
+                  "coords": [
+                        19.809509,
+                        41.307222
+                  ]
+            },
+            {
+                  "name": "Mezuraj Museum",
+                  "text": "Muzeul Mezuraj este un muzeu situat în Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.8146,
+                        41.32838
+                  ]
+            },
+            {
+                  "name": "Muzeu i Gruas",
+                  "text": "Muzeul Femeilor este o instituție culturală situată în Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.815317,
+                        41.325528
+                  ]
+            },
+            {
+                  "name": "Hotspot Tirana",
+                  "text": "Hotspot Tirana este o galerie situată în Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.824942,
+                        41.333828
+                  ]
+            },
+            {
+                  "name": "Galeria FAB",
+                  "text": "Galeria FAB este o galerie de artă situată în Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.819243,
+                        41.318024
+                  ]
+            },
+            {
+                  "name": "Art Gallery Muhamet Kërpaçi",
+                  "text": "Galeria de Artă Muhamet Kërpaçi este o galerie locală situată în Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.817469,
+                        41.322907
+                  ]
+            },
+            {
+                  "name": "Minus Art Space",
+                  "text": "Minus Art Space este o galerie situată în orașul Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.828673,
+                        41.329351
+                  ]
+            },
+            {
+                  "name": "Kolona nga Miniera e Spaçit",
+                  "text": "Coloanele din Mina Taberei de Muncă Spaç sunt un monument istoric din Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.820061,
+                        41.320886
+                  ]
+            },
+            {
+                  "name": "Ish-Parku i Mallrave",
+                  "text": "Ish-Parku i Mallrave constă din ruine istorice situate în Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.793155,
+                        41.321817
+                  ]
+            },
+            {
+                  "name": "2 Korrik 1990",
+                  "text": "2 Korrik 1990 este un monument situat în Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.808267,
+                        41.329099
+                  ]
+            },
+            {
+                  "name": "Old locomotive",
+                  "text": "Vechea locomotivă este un monument istoric situat în Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.815549,
+                        41.33961
+                  ]
+            },
+            {
+                  "name": "Friendship Monument",
+                  "text": "Monumentul Prieteniei este situat în Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.82108,
+                        41.328151
+                  ]
+            },
+            {
+                  "name": "Teatri Metropol",
+                  "text": "Teatri Metropol este un teatru situat în Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.817093,
+                        41.330371
+                  ]
+            },
+            {
+                  "name": "arTurbina - Teatri Kombetar Eksperimental",
+                  "text": "arTurbina - Teatri Kombetar Eksperimental este un teatru situat în orașul Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.814856,
+                        41.31464
+                  ]
+            },
+            {
+                  "name": "Kinema Agimi",
+                  "text": "Kinema Agimi este un centru de arte din Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.814695,
+                        41.322627
+                  ]
+            },
+            {
+                  "name": "Color Wine",
+                  "text": "Color Wine este un centru de arte în orașul Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.816932,
+                        41.324144
+                  ]
+            },
+            {
+                  "name": "Qendra e Realizimit të Veprave të Artit",
+                  "text": "Qendra e Realizimit të Veprave të Artit este un centru de arte situat în Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.805986,
+                        41.318706
+                  ]
+            },
+            {
+                  "name": "Salla e Koncerteve \"Tonin Harapi\"",
+                  "text": "Salla e Koncerteve \"Tonin Harapi\" este un centru de arte din Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.825333,
+                        41.321323
+                  ]
+            },
+            {
+                  "name": "Kinema Maks Velo",
+                  "text": "Kinema Maks Velo este un centru de arte din Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.793892,
+                        41.338322
+                  ]
+            },
+            {
+                  "name": "Hafiz Ibrahim Dalliu",
+                  "text": "Hafiz Ibrahim Dalliu este o atracție locală situată în Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82603,
+                        41.338368
+                  ]
+            },
+            {
+                  "name": "Family House of Mother Teresa",
+                  "text": "Family House of Mother Teresa este o atracție turistică situată în Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.812821,
+                        41.326355
+                  ]
+            },
+            {
+                  "name": "Lemurët",
+                  "text": "Lemurs este o atracție situată în orașul Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.810467,
+                        41.308256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalaja e Tiranës",
+                  "text": "Kalaja e Tiranës is a historic castle located in the center of Tirana.",
+                  "category": "castle",
+                  "coords": [
+                        19.822575,
+                        41.326545
+                  ]
+            },
+            {
+                  "name": "Bunk'Art 2",
+                  "text": "Bunk'Art 2 is a major museum in Tirana dedicated to the history of the communist era.",
+                  "category": "museum",
+                  "coords": [
+                        19.819551,
+                        41.327022
+                  ]
+            },
+            {
+                  "name": "Armed Forces Museum",
+                  "text": "The Armed Forces Museum is an institution in Tirana showcasing Albanian military history.",
+                  "category": "museum",
+                  "coords": [
+                        19.838272,
+                        41.341699
+                  ]
+            },
+            {
+                  "name": "Tirana Archeological Museum",
+                  "text": "The Tirana Archaeological Museum exhibits prehistoric and ancient artifacts from Albania.",
+                  "category": "museum",
+                  "coords": [
+                        19.821892,
+                        41.318262
+                  ]
+            },
+            {
+                  "name": "Muzeu i Shkencave të Natyrës \"Sabiha Kasimati\"",
+                  "text": "The Sabiha Kasimati Natural Sciences Museum is a prominent museum in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.834549,
+                        41.325521
+                  ]
+            },
+            {
+                  "name": "House of Leaves - The Museum of Secret Surveillance",
+                  "text": "The House of Leaves is a museum in Tirana dedicated to secret surveillance during the communist regime.",
+                  "category": "museum",
+                  "coords": [
+                        19.816327,
+                        41.326467
+                  ]
+            },
+            {
+                  "name": "Tirana Mosaic",
+                  "text": "The Tirana Mosaic is a notable ancient archaeological site located in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.804254,
+                        41.330083
+                  ]
+            },
+            {
+                  "name": "Mother Albania",
+                  "text": "Mother Albania is a monumental statue located in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.840069,
+                        41.30854
+                  ]
+            },
+            {
+                  "name": "Skanderbeg Monument",
+                  "text": "The Skanderbeg Monument is a well-known equestrian statue in Tirana's main square.",
+                  "category": "historical",
+                  "coords": [
+                        19.818568,
+                        41.327738
+                  ]
+            },
+            {
+                  "name": "National Theatre for Children",
+                  "text": "The National Theatre for Children is a renowned theatre institution in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.817585,
+                        41.327259
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "The Open Theatre of Tirana is a popular amphitheatre located in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        19.820445,
+                        41.313694
+                  ]
+            },
+            {
+                  "name": "National Theatre of Opera and Ballet of Albania",
+                  "text": "The National Theatre of Opera and Ballet is the largest theatre in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.819707,
+                        41.329083
+                  ]
+            },
+            {
+                  "name": "Xhamia e Kokonozit",
+                  "text": "Kokonozi Mosque is an Ottoman-era place of worship located in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.824945,
+                        41.330086
+                  ]
+            },
+            {
+                  "name": "Kisha Katolike \"Zemra e Krishtit\"",
+                  "text": "Sacred Heart Church is a Catholic place of worship located in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.809562,
+                        41.327257
+                  ]
+            },
+            {
+                  "name": "Great Mosque of Tirana",
+                  "text": "The Great Mosque of Tirana is a major religious landmark in the city.",
+                  "category": "religious",
+                  "coords": [
+                        19.824202,
+                        41.325699
+                  ]
+            },
+            {
+                  "name": "Kisha Ortodokse Autoqefale e Shqipërisë",
+                  "text": "The Albanian Orthodox Church is a prominent place of worship in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.806728,
+                        41.326476
+                  ]
+            },
+            {
+                  "name": "Teqja e Sheh Dyrrit",
+                  "text": "Sheh Dyrri Tekke is a historical place of worship located in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.819283,
+                        41.332685
+                  ]
+            },
+            {
+                  "name": "Xhamia e Tabakëve",
+                  "text": "The Tanners' Mosque is a historic Islamic place of worship in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.828006,
+                        41.32678
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Prokopit",
+                  "text": "Saint Procopius Church is an Eastern Orthodox place of worship in Tirana.",
+                  "category": "religious",
+                  "coords": [
+                        19.819187,
+                        41.313964
+                  ]
+            },
+            {
+                  "name": "Pyramid of Tirana",
+                  "text": "The Pyramid of Tirana is a famous brutalist monument and cultural attraction in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        19.821536,
+                        41.32304
+                  ]
+            },
+            {
+                  "name": "Sarajet",
+                  "text": "Sarajet is a historical architectural attraction located in Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.821287,
+                        41.327066
+                  ]
+            },
+            {
+                  "name": "Tanners' Bridge",
+                  "text": "The Tanners' Bridge is a well-preserved 18th-century Ottoman stone footbridge in Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82605,
+                        41.326424
+                  ]
+            },
+            {
+                  "name": "Rinia Park",
+                  "text": "Rinia Park is a central public park located in Tirana.",
+                  "category": "park",
+                  "coords": [
+                        19.818217,
+                        41.324798
+                  ]
+            },
+            {
+                  "name": "Botanical Garden of Tirana",
+                  "text": "The Botanical Garden of Tirana is a scenic botanical garden in the city.",
+                  "category": "park",
+                  "coords": [
+                        19.806149,
+                        41.309798
+                  ]
+            },
+            {
+                  "name": "Tirana Zoo",
+                  "text": "Tirana Zoo is a zoological park situated in the capital city.",
+                  "category": "recreational",
+                  "coords": [
+                        19.809509,
+                        41.307222
+                  ]
+            },
+            {
+                  "name": "Mezuraj Museum",
+                  "text": "Mezuraj Museum is a museum located in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.8146,
+                        41.32838
+                  ]
+            },
+            {
+                  "name": "Museum of Women",
+                  "text": "The Museum of Women is a cultural institution located in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.815317,
+                        41.325528
+                  ]
+            },
+            {
+                  "name": "Hotspot Tirana",
+                  "text": "Hotspot Tirana is a gallery situated in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.824942,
+                        41.333828
+                  ]
+            },
+            {
+                  "name": "Galeria FAB",
+                  "text": "Galeria FAB is an art gallery located in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.819243,
+                        41.318024
+                  ]
+            },
+            {
+                  "name": "Art Gallery Muhamet Kërpaçi",
+                  "text": "Art Gallery Muhamet Kërpaçi is a local gallery located in Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.817469,
+                        41.322907
+                  ]
+            },
+            {
+                  "name": "Minus Art Space",
+                  "text": "Minus Art Space is a gallery situated in the city of Tirana.",
+                  "category": "museum",
+                  "coords": [
+                        19.828673,
+                        41.329351
+                  ]
+            },
+            {
+                  "name": "Columns from Spaç Labor Camp Mine",
+                  "text": "The Columns from Spaç Labor Camp Mine are a historical monument in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.820061,
+                        41.320886
+                  ]
+            },
+            {
+                  "name": "Ish-Parku i Mallrave",
+                  "text": "Ish-Parku i Mallrave consists of historical ruins located in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.793155,
+                        41.321817
+                  ]
+            },
+            {
+                  "name": "2 Korrik 1990",
+                  "text": "2 Korrik 1990 is a monument located in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.808267,
+                        41.329099
+                  ]
+            },
+            {
+                  "name": "Old locomotive",
+                  "text": "The Old locomotive is a historical monument situated in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.815549,
+                        41.33961
+                  ]
+            },
+            {
+                  "name": "Friendship Monument",
+                  "text": "The Friendship Monument is located in Tirana.",
+                  "category": "historical",
+                  "coords": [
+                        19.82108,
+                        41.328151
+                  ]
+            },
+            {
+                  "name": "Teatri Metropol",
+                  "text": "Teatri Metropol is a theatre located in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.817093,
+                        41.330371
+                  ]
+            },
+            {
+                  "name": "arTurbina - Teatri Kombetar Eksperimental",
+                  "text": "arTurbina - Teatri Kombetar Eksperimental is a theatre located in the city of Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.814856,
+                        41.31464
+                  ]
+            },
+            {
+                  "name": "Kinema Agimi",
+                  "text": "Kinema Agimi is an arts centre located in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.814695,
+                        41.322627
+                  ]
+            },
+            {
+                  "name": "Color Wine",
+                  "text": "Color Wine is an arts centre in the city of Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.816932,
+                        41.324144
+                  ]
+            },
+            {
+                  "name": "Qendra e Realizimit të Veprave të Artit",
+                  "text": "Qendra e Realizimit të Veprave të Artit is an arts centre situated in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.805986,
+                        41.318706
+                  ]
+            },
+            {
+                  "name": "Salla e Koncerteve \"Tonin Harapi\"",
+                  "text": "Salla e Koncerteve \"Tonin Harapi\" is an arts centre located in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.825333,
+                        41.321323
+                  ]
+            },
+            {
+                  "name": "Kinema Maks Velo",
+                  "text": "Kinema Maks Velo operates as an arts centre in Tirana.",
+                  "category": "cultural",
+                  "coords": [
+                        19.793892,
+                        41.338322
+                  ]
+            },
+            {
+                  "name": "Hafiz Ibrahim Dalliu",
+                  "text": "Hafiz Ibrahim Dalliu is a local attraction situated in Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.82603,
+                        41.338368
+                  ]
+            },
+            {
+                  "name": "Family House of Mother Teresa",
+                  "text": "The Family House of Mother Teresa is a tourist attraction located in Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.812821,
+                        41.326355
+                  ]
+            },
+            {
+                  "name": "Lemurs",
+                  "text": "Lemurs is an attraction found in the city of Tirana.",
+                  "category": "landmark",
+                  "coords": [
+                        19.810467,
+                        41.308256
+                  ]
+            }
+      ]
+},
     name: { de: "Tirana", hu: "Tirana", ro: "Tirana", en: "Tirana" },
     description: { de: "Tirana ist die pulsierende Hauptstadt Albaniens, bekannt für ihre farbenfrohe Architektur aus der osmanischen, faschistischen und sowjetischen Zeit.", hu: "Tirana Albánia nyüzsgő fővárosa, amely oszmán, fasiszta és szovjet kori színes építészetéről ismert.", ro: "Tirana este capitala vibrantă a Albaniei, recunoscută pentru arhitectura sa colorată din perioadele otomană, fascistă și sovietică.", en: "Tirana is the vibrant capital of Albania, known for its colorful architecture from the Ottoman, Fascist, and Soviet eras." , es: "Tirana es la vibrante capital de Albania, conocida por su colorida arquitectura de las épocas otomana, fascista y soviética.", pt: "Tirana é a vibrante capital da Albânia, conhecida pela sua arquitetura colorida das eras otomana, fascista e soviética.", fr: "Tirana est la capitale vibrante de l'Albanie, connue pour son architecture colorée des époques ottomane, fasciste et soviétique."},
     descriptionAdvanced: {
@@ -96,7 +1761,772 @@ export const albaniaCities: POI[] = [
     image: "/poi-images/city-tirana.webp",
   },
   {
-    id: "city-durres",
+    id: "city-durres", "sights": {
+      "de": [
+            {
+                  "name": "Kalaja e Durrësit",
+                  "text": "Eine historische Festungsanlage im Zentrum von Durrës.",
+                  "category": "castle",
+                  "coords": [
+                        19.446214,
+                        41.3103
+                  ]
+            },
+            {
+                  "name": "Pusi i Tophanese",
+                  "text": "Ein alter, historisch bedeutender Brunnen in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444789,
+                        41.315812
+                  ]
+            },
+            {
+                  "name": "Mozaiku tek Pallati i Sportit",
+                  "text": "Ein archäologisches Mosaik aus der Antike in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.451451,
+                        41.319186
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturë \"Aleksandër Moisiu\"",
+                  "text": "Das wichtigste Theatergebäude der Stadt Durrës.",
+                  "category": "cultural",
+                  "coords": [
+                        19.446371,
+                        41.314431
+                  ]
+            },
+            {
+                  "name": "Römisches Amphitheater von Durrës",
+                  "text": "Ein bedeutendes römisches Bauwerk und archäologisches Highlight in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.445053,
+                        41.312141
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik Durrës",
+                  "text": "Ein Museum mit einer umfangreichen Sammlung antiker Funde aus Durrës.",
+                  "category": "museum",
+                  "coords": [
+                        19.440241,
+                        41.311548
+                  ]
+            },
+            {
+                  "name": "Gjurmë të Godinës së administratës Osmane",
+                  "text": "Archäologische Überreste des alten osmanischen Verwaltungsgebäudes in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.447599,
+                        41.309653
+                  ]
+            },
+            {
+                  "name": "Mur i periudhës turke 1502",
+                  "text": "Ein Mauerabschnitt aus dem Jahr 1502 in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.446777,
+                        41.312653
+                  ]
+            },
+            {
+                  "name": "Fragment i Murit Rrethues të Qytetit",
+                  "text": "Ein erhaltener Teil der antiken Stadtmauer von Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444605,
+                        41.322597
+                  ]
+            },
+            {
+                  "name": "Mozaiku Orfeut",
+                  "text": "Ein wertvolles antikes Mosaik, das in Durrës gefunden wurde.",
+                  "category": "historical",
+                  "coords": [
+                        19.442565,
+                        41.320538
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Archäologische Reste einer antiken Zisterne in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.443256,
+                        41.31914
+                  ]
+            },
+            {
+                  "name": "Beach of Durrës",
+                  "text": "Der weitläufige Sandstrand der Stadt Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            },
+            {
+                  "name": "Aragosta Beach",
+                  "text": "Ein beliebter Strandabschnitt in Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.434169,
+                        41.311827
+                  ]
+            },
+            {
+                  "name": "Vila Mbretërore e Durrësit",
+                  "text": "Ein markantes königliches Gebäude in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.438358,
+                        41.314632
+                  ]
+            },
+            {
+                  "name": "Hamami i Durrësit",
+                  "text": "Ein historisches türkisches Bad in Durrës.",
+                  "category": "landmark",
+                  "coords": [
+                        19.447359,
+                        41.310635
+                  ]
+            },
+            {
+                  "name": "Tina Turner, John Lennon, Bob Dylan & Mick Jagger",
+                  "text": "Ein ungewöhnliches Denkmal mit bekannten Namen in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444186,
+                        41.309157
+                  ]
+            },
+            {
+                  "name": "Sandy beach",
+                  "text": "Ein entspannender Sandstrand in der Nähe der Stadt Durrës.",
+                  "category": "landmark",
+                  "coords": [
+                        19.443131,
+                        41.309042
+                  ]
+            },
+            {
+                  "name": "Stadtmauer",
+                  "text": "Historische Stadtmauer in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444004,
+                        41.312634
+                  ]
+            },
+            {
+                  "name": "Turm der venezianischen Stadtmauer",
+                  "text": "Turm der venezianischen Stadtmauer in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.443858,
+                        41.313588
+                  ]
+            },
+            {
+                  "name": "Xhamia e Madhe e Durrësit",
+                  "text": "Große Moschee von Durrës, ein bedeutendes religiöses Gebäude.",
+                  "category": "religious",
+                  "coords": [
+                        19.445452,
+                        41.313212
+                  ]
+            },
+            {
+                  "name": "Katedralja Ortodokse e Shën Palit dhe Shën Asti",
+                  "text": "Orthodoxe Kathedrale in Durrës.",
+                  "category": "religious",
+                  "coords": [
+                        19.448798,
+                        41.310663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Durrësit",
+                  "text": "Történelmi erődítmény Durrës központjában.",
+                  "category": "castle",
+                  "coords": [
+                        19.446214,
+                        41.3103
+                  ]
+            },
+            {
+                  "name": "Pusi i Tophanese",
+                  "text": "Régi, történelmileg jelentős kút Durrësban.",
+                  "category": "historical",
+                  "coords": [
+                        19.444789,
+                        41.315812
+                  ]
+            },
+            {
+                  "name": "Mozaiku tek Pallati i Sportit",
+                  "text": "Ókori régészeti mozaik Durrësban.",
+                  "category": "historical",
+                  "coords": [
+                        19.451451,
+                        41.319186
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturë \"Aleksandër Moisiu\"",
+                  "text": "Durrës városának legfontosabb színházépülete.",
+                  "category": "cultural",
+                  "coords": [
+                        19.446371,
+                        41.314431
+                  ]
+            },
+            {
+                  "name": "Amfiteatri i Durrësit",
+                  "text": "Jelentős római építmény és régészeti látnivaló Durrësban.",
+                  "category": "historical",
+                  "coords": [
+                        19.445053,
+                        41.312141
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik Durrës",
+                  "text": "Múzeum, amely Durrës ókori leleteinek gazdag gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        19.440241,
+                        41.311548
+                  ]
+            },
+            {
+                  "name": "Gjurmë të Godinës së administratës Osmane",
+                  "text": "Az egykori oszmán közigazgatási épület régészeti maradványai Durrësban.",
+                  "category": "historical",
+                  "coords": [
+                        19.447599,
+                        41.309653
+                  ]
+            },
+            {
+                  "name": "Mur i periudhës turke 1502",
+                  "text": "Egy 1502-ből származó falfalszakasz Durrësban.",
+                  "category": "historical",
+                  "coords": [
+                        19.446777,
+                        41.312653
+                  ]
+            },
+            {
+                  "name": "Fragment i Murit Rrethues të Qytetit",
+                  "text": "Durrës ősi városfalának egy fennmaradt része.",
+                  "category": "historical",
+                  "coords": [
+                        19.444605,
+                        41.322597
+                  ]
+            },
+            {
+                  "name": "Mozaiku Orfeut",
+                  "text": "Értékes ókori mozaik, amelyet Durrësban találtak.",
+                  "category": "historical",
+                  "coords": [
+                        19.442565,
+                        41.320538
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Egy ókori ciszterna régészeti maradványai Durrësban.",
+                  "category": "historical",
+                  "coords": [
+                        19.443256,
+                        41.31914
+                  ]
+            },
+            {
+                  "name": "Beach of Durrës",
+                  "text": "Durrës városának kiterjedt homokos tengerpartja.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            },
+            {
+                  "name": "Aragosta Beach",
+                  "text": "Népszerű strandszakasz Durrësban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.434169,
+                        41.311827
+                  ]
+            },
+            {
+                  "name": "Vila Mbretërore e Durrësit",
+                  "text": "Jellegzetes királyi épület Durrësban.",
+                  "category": "historical",
+                  "coords": [
+                        19.438358,
+                        41.314632
+                  ]
+            },
+            {
+                  "name": "Hamami i Durrësit",
+                  "text": "Történelmi törökfürdő Durrësban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.447359,
+                        41.310635
+                  ]
+            },
+            {
+                  "name": "Tina Turner, John Lennon, Bob Dylan & Mick Jagger",
+                  "text": "Szokatlan emlékmű ismert nevekkel Durrësban.",
+                  "category": "historical",
+                  "coords": [
+                        19.444186,
+                        41.309157
+                  ]
+            },
+            {
+                  "name": "Sandy beach",
+                  "text": "Pihentető homokos strand Durrës városának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.443131,
+                        41.309042
+                  ]
+            },
+            {
+                  "name": "Stadtmauer",
+                  "text": "Történelmi városfal Durrësban.",
+                  "category": "historical",
+                  "coords": [
+                        19.444004,
+                        41.312634
+                  ]
+            },
+            {
+                  "name": "Turm der venezianischen Stadtmauer",
+                  "text": "A velencei városfal tornya Durrësban.",
+                  "category": "historical",
+                  "coords": [
+                        19.443858,
+                        41.313588
+                  ]
+            },
+            {
+                  "name": "Xhamia e Madhe e Durrësit",
+                  "text": "Durrës nagy mecsetje, jelentős vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        19.445452,
+                        41.313212
+                  ]
+            },
+            {
+                  "name": "Katedralja Ortodokse e Shën Palit dhe Shën Asti",
+                  "text": "Ortodox székesegyház Durrësban.",
+                  "category": "religious",
+                  "coords": [
+                        19.448798,
+                        41.310663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Durrësit",
+                  "text": "O fortificație istorică situată în centrul orașului Durrës.",
+                  "category": "castle",
+                  "coords": [
+                        19.446214,
+                        41.3103
+                  ]
+            },
+            {
+                  "name": "Pusi i Tophanese",
+                  "text": "O fântână veche, importantă din punct de vedere istoric, în Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444789,
+                        41.315812
+                  ]
+            },
+            {
+                  "name": "Mozaiku tek Pallati i Sportit",
+                  "text": "Un mozaic arheologic din perioada antică situat în Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.451451,
+                        41.319186
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturë \"Aleksandër Moisiu\"",
+                  "text": "Cea mai importantă clădire de teatru din orașul Durrës.",
+                  "category": "cultural",
+                  "coords": [
+                        19.446371,
+                        41.314431
+                  ]
+            },
+            {
+                  "name": "Amfiteatri i Durrësit",
+                  "text": "Un important monument roman și atracție arheologică în Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.445053,
+                        41.312141
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik Durrës",
+                  "text": "Un muzeu care deține o vastă colecție de artefacte antice din Durrës.",
+                  "category": "museum",
+                  "coords": [
+                        19.440241,
+                        41.311548
+                  ]
+            },
+            {
+                  "name": "Gjurmë të Godinës së administratës Osmane",
+                  "text": "Resturi arheologice ale vechii clădiri administrative otomane din Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.447599,
+                        41.309653
+                  ]
+            },
+            {
+                  "name": "Mur i periudhës turke 1502",
+                  "text": "Un segment de zid din anul 1502 în Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.446777,
+                        41.312653
+                  ]
+            },
+            {
+                  "name": "Fragment i Murit Rrethues të Qytetit",
+                  "text": "O parte conservată a zidului antic al orașului Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444605,
+                        41.322597
+                  ]
+            },
+            {
+                  "name": "Mozaiku Orfeut",
+                  "text": "Un mozaic antic valoros descoperit în Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.442565,
+                        41.320538
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Resturi arheologice ale unei cisterne antice în Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.443256,
+                        41.31914
+                  ]
+            },
+            {
+                  "name": "Beach of Durrës",
+                  "text": "Plaja vastă cu nisip a orașului Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            },
+            {
+                  "name": "Aragosta Beach",
+                  "text": "O secțiune populară de plajă în Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.434169,
+                        41.311827
+                  ]
+            },
+            {
+                  "name": "Vila Mbretërore e Durrësit",
+                  "text": "O clădire regală distinctivă în Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.438358,
+                        41.314632
+                  ]
+            },
+            {
+                  "name": "Hamami i Durrësit",
+                  "text": "O baie turcească istorică în Durrës.",
+                  "category": "landmark",
+                  "coords": [
+                        19.447359,
+                        41.310635
+                  ]
+            },
+            {
+                  "name": "Tina Turner, John Lennon, Bob Dylan & Mick Jagger",
+                  "text": "Un monument neobișnuit cu nume cunoscute în Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444186,
+                        41.309157
+                  ]
+            },
+            {
+                  "name": "Sandy beach",
+                  "text": "O plajă relaxantă cu nisip în apropierea orașului Durrës.",
+                  "category": "landmark",
+                  "coords": [
+                        19.443131,
+                        41.309042
+                  ]
+            },
+            {
+                  "name": "Stadtmauer",
+                  "text": "Zid istoric al cetății în Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444004,
+                        41.312634
+                  ]
+            },
+            {
+                  "name": "Turm der venezianischen Stadtmauer",
+                  "text": "Turnul zidului venețian în Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.443858,
+                        41.313588
+                  ]
+            },
+            {
+                  "name": "Xhamia e Madhe e Durrësit",
+                  "text": "Marea Moschee din Durrës, o clădire religioasă importantă.",
+                  "category": "religious",
+                  "coords": [
+                        19.445452,
+                        41.313212
+                  ]
+            },
+            {
+                  "name": "Katedralja Ortodokse e Shën Palit dhe Shën Asti",
+                  "text": "Catedrala ortodoxă în Durrës.",
+                  "category": "religious",
+                  "coords": [
+                        19.448798,
+                        41.310663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Durrës Castle",
+                  "text": "A historical fortification located in the center of Durrës.",
+                  "category": "castle",
+                  "coords": [
+                        19.446214,
+                        41.3103
+                  ]
+            },
+            {
+                  "name": "Tophane Well",
+                  "text": "An old, historically significant well in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444789,
+                        41.315812
+                  ]
+            },
+            {
+                  "name": "Mozaiku tek Pallati i Sportit",
+                  "text": "An ancient archaeological mosaic located in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.451451,
+                        41.319186
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturë \"Aleksandër Moisiu\"",
+                  "text": "The main theatre building in the city of Durrës.",
+                  "category": "cultural",
+                  "coords": [
+                        19.446371,
+                        41.314431
+                  ]
+            },
+            {
+                  "name": "Roman Amphitheatre of Durrës",
+                  "text": "A significant Roman structure and archaeological highlight in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.445053,
+                        41.312141
+                  ]
+            },
+            {
+                  "name": "Durrës Archeological Museum",
+                  "text": "A museum with an extensive collection of ancient artifacts from Durrës.",
+                  "category": "museum",
+                  "coords": [
+                        19.440241,
+                        41.311548
+                  ]
+            },
+            {
+                  "name": "Gjurmë të Godinës së administratës Osmane",
+                  "text": "Archaeological remains of the old Ottoman administration building in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.447599,
+                        41.309653
+                  ]
+            },
+            {
+                  "name": "Wall of turk period 1502",
+                  "text": "A section of wall dating back to 1502 in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.446777,
+                        41.312653
+                  ]
+            },
+            {
+                  "name": "Fragment of the Surrounding City Wall",
+                  "text": "A preserved part of the ancient city wall of Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444605,
+                        41.322597
+                  ]
+            },
+            {
+                  "name": "The Orpheus Mosaic",
+                  "text": "A valuable ancient mosaic discovered in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.442565,
+                        41.320538
+                  ]
+            },
+            {
+                  "name": "Cistern",
+                  "text": "Archaeological remains of an ancient cistern in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.443256,
+                        41.31914
+                  ]
+            },
+            {
+                  "name": "Beach of Durrës",
+                  "text": "The extensive sandy beach of the city of Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            },
+            {
+                  "name": "Aragosta Beach",
+                  "text": "A popular beach section in Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.434169,
+                        41.311827
+                  ]
+            },
+            {
+                  "name": "Royal Villa of Durrës",
+                  "text": "A distinctive royal building in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.438358,
+                        41.314632
+                  ]
+            },
+            {
+                  "name": "Hamami i Durrësit",
+                  "text": "A historical Turkish bath in Durrës.",
+                  "category": "landmark",
+                  "coords": [
+                        19.447359,
+                        41.310635
+                  ]
+            },
+            {
+                  "name": "Tina Turner, John Lennon, Bob Dylan & Mick Jagger",
+                  "text": "An unusual monument with well-known names in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444186,
+                        41.309157
+                  ]
+            },
+            {
+                  "name": "Sandy beach",
+                  "text": "A relaxing sandy beach near the city of Durrës.",
+                  "category": "landmark",
+                  "coords": [
+                        19.443131,
+                        41.309042
+                  ]
+            },
+            {
+                  "name": "Stadtmauer",
+                  "text": "Historic city wall in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.444004,
+                        41.312634
+                  ]
+            },
+            {
+                  "name": "Turm der venezianischen Stadtmauer",
+                  "text": "Tower of the Venetian city wall in Durrës.",
+                  "category": "historical",
+                  "coords": [
+                        19.443858,
+                        41.313588
+                  ]
+            },
+            {
+                  "name": "Xhamia e Madhe e Durrësit",
+                  "text": "Great Mosque of Durrës, a significant religious building.",
+                  "category": "religious",
+                  "coords": [
+                        19.445452,
+                        41.313212
+                  ]
+            },
+            {
+                  "name": "Katedralja Ortodokse e Shën Palit dhe Shën Asti",
+                  "text": "Orthodox cathedral in Durrës.",
+                  "category": "religious",
+                  "coords": [
+                        19.448798,
+                        41.310663
+                  ]
+            }
+      ]
+},
     name: { de: "Durrës", hu: "Durrës", ro: "Durrës", en: "Durrës" },
     description: { de: "Durrës ist eine der ältesten und bedeutendsten Hafenstädte Albaniens an der Adriaküste.", hu: "Durrës Albánia egyik legrégebbi és legfontosabb kikötővárosa az Adriai-tenger partján.", ro: "Durrës este unul dintre cele mai vechi și mai importante orașe-port ale Albaniei, situat pe coasta Mării Adriatice.", en: "Durrës is one of Albania's oldest and most important port cities on the Adriatic coast." , es: "Durrës es una de las ciudades portuarias más antiguas e importantes de Albania, en la costa adriática.", pt: "Durrës é uma das cidades portuárias mais antigas e importantes da Albânia, na costa adriática.", fr: "Durrës est l'une des villes portuaires les plus anciennes et les plus importantes d'Albanie, sur la côte adriatique."},
     descriptionAdvanced: {
@@ -164,7 +2594,1240 @@ export const albaniaCities: POI[] = [
       fr: ["Là où l'Adriatique et la mer Ionienne se rencontrent.", "Première capitale de l'Albanie.", "Ville portuaire importante."],
     }, image: "/poi-images/city-vlore.webp"},
   {
-    id: "city-shkoder",
+    id: "city-shkoder", "sights": {
+      "de": [
+            {
+                  "name": "Pashko Vasa Museum",
+                  "text": "Das Pashko Vasa Museum in Shkodra ist dem bekannten albanischen Schriftsteller und Dichter gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        19.516839,
+                        42.061905
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Shkodra",
+                  "text": "Das Historische Museum von Shkodra präsentiert das reiche kulturelle und historische Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        19.509233,
+                        42.069291
+                  ]
+            },
+            {
+                  "name": "Burg Rozafa",
+                  "text": "Die Burg Rozafa ist eine bedeutende historische Festung auf einem felsigen Hügel über Shkodra.",
+                  "category": "castle",
+                  "coords": [
+                        19.493557,
+                        42.046526
+                  ]
+            },
+            {
+                  "name": "Site of Witness and Memory",
+                  "text": "The Site of Witness and Memory ist ein Museum in Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.517035,
+                        42.065148
+                  ]
+            },
+            {
+                  "name": "Fototeka Kombëtare e Fotografisë - Marubi",
+                  "text": "Das Nationale Fotomuseum Marubi in Shkodra bewahrt eine umfangreiche Sammlung historischer albanischer Fotografien.",
+                  "category": "museum",
+                  "coords": [
+                        19.515568,
+                        42.068595
+                  ]
+            },
+            {
+                  "name": "Teatri Migjeni",
+                  "text": "Das Migjeni-Theater ist ein wichtiger Veranstaltungsort für darstellende Künste in der Stadt Shkodra.",
+                  "category": "cultural",
+                  "coords": [
+                        19.511067,
+                        42.068896
+                  ]
+            },
+            {
+                  "name": "Peisazh i Mbrojtur Lumi Buna-Velipoje",
+                  "text": "Das geschützte Landschaftsgebiet Buna River Velipojë ist ein wichtiges Feuchtgebiet und Naturschutzgebiet in der Nähe von Shkodra.",
+                  "category": "natural",
+                  "coords": [
+                        19.460317,
+                        41.938573
+                  ]
+            },
+            {
+                  "name": "Muzeu Dioqezan",
+                  "text": "Muzeu Dioqezan ist ein Museum in der Stadt Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.519968,
+                        42.065072
+                  ]
+            },
+            {
+                  "name": "Barbakan - Main Fortified Entrance 15th cent.",
+                  "text": "Barbakan - Main Fortified Entrance 15th cent. ist ein historischer Burgteil in Shkodra.",
+                  "category": "castle",
+                  "coords": [
+                        19.494952,
+                        42.047036
+                  ]
+            },
+            {
+                  "name": "Shtëpi Muze - Lazer & Simon Jubani",
+                  "text": "Shtëpi Muze - Lazer & Simon Jubani ist ein Museum in der Stadt Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.524581,
+                        42.068997
+                  ]
+            },
+            {
+                  "name": "Monumenti Prek Cali",
+                  "text": "Das Prenk Cali Monument in Shkodra erinnert an die bekannte historische albanische Persönlichkeit.",
+                  "category": "historical",
+                  "coords": [
+                        19.520984,
+                        42.073112
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Françeskut",
+                  "text": "Die Franziskanerkirche ist eine bedeutende religiöse Attraktion und ein historisches Wahrzeichen in Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.515432,
+                        42.067518
+                  ]
+            },
+            {
+                  "name": "Bleimoschee",
+                  "text": "Die Bleimoschee ist eine historische Attraktion aus der osmanischen Zeit in Shkodra, berühmt für ihre bleigedeckten Kuppeln.",
+                  "category": "landmark",
+                  "coords": [
+                        19.499437,
+                        42.04645
+                  ]
+            },
+            {
+                  "name": "Monument Kulture - Familja Çeka",
+                  "text": "Monument Kulture - Familja Çeka ist eine kulturelle Attraktion in Shkodra, die mit der bedeutenden Familie Çeka verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.51671,
+                        42.063455
+                  ]
+            },
+            {
+                  "name": "Hamami i Shkodrës",
+                  "text": "Hamami i Shkodrës ist ein historisches osmanisches Badehaus, das als kulturelle Attraktion in der Stadt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        19.506513,
+                        42.061621
+                  ]
+            },
+            {
+                  "name": "Ebu-Bekr-Moschee",
+                  "text": "Die Ebu Beker Moschee ist eine zentrale und wichtige religiöse Attraktion in Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.514022,
+                        42.067741
+                  ]
+            },
+            {
+                  "name": "Kulla e Inglizit",
+                  "text": "The Englishman's Tower in Shkodra ist ein markantes historisches Denkmal, das von einem britischen Aristokraten erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        19.513008,
+                        42.068065
+                  ]
+            },
+            {
+                  "name": "Monumenti At Gjergj Fishta",
+                  "text": "Das Father George Fishta Monument ist ein Denkmal in der Stadt Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.510781,
+                        42.065072
+                  ]
+            },
+            {
+                  "name": "Isa Boletini",
+                  "text": "Isa Boletini ist ein Denkmal für eine historische Persönlichkeit in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.513548,
+                        42.061367
+                  ]
+            },
+            {
+                  "name": "Pjerini Art",
+                  "text": "Pjerini Art ist eine Kunstgalerie in Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.518727,
+                        42.065861
+                  ]
+            },
+            {
+                  "name": "Hamz Kazazi",
+                  "text": "Hamz Kazazi ist ein Denkmal in der Stadt Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.492123,
+                        42.047678
+                  ]
+            },
+            {
+                  "name": "Galeria e Arteve",
+                  "text": "Galeria e Arteve ist eine auf Kunst ausgerichtete Attraktion in Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.513614,
+                        42.068992
+                  ]
+            },
+            {
+                  "name": "Martin Camaj",
+                  "text": "Das Martin Camaj Denkmal ist eine Gedenkstätte in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.515696,
+                        42.070829
+                  ]
+            },
+            {
+                  "name": "Venice Art Mask",
+                  "text": "Venice Art Mask ist eine einzigartige Attraktion in der Stadt Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.516944,
+                        42.068903
+                  ]
+            },
+            {
+                  "name": "Kulla e Gjon Markagjonit",
+                  "text": "Kulla e Gjon Markagjonit ist eine historische Attraktion in Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.51512,
+                        42.065006
+                  ]
+            },
+            {
+                  "name": "Muzeu i Maskave Veneciane",
+                  "text": "Das Museum of Venetian Masks fungiert als Galerie in Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.52912,
+                        42.081991
+                  ]
+            },
+            {
+                  "name": "Komiteti i Kosovës",
+                  "text": "Komiteti i Kosovës ist ein historisches Denkmal in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.511432,
+                        42.066734
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "Varrezat e Dëshmorëve ist ein Denkmal zu Ehren der Gefallenen in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.532097,
+                        42.053974
+                  ]
+            },
+            {
+                  "name": "Ottoman Arsenal",
+                  "text": "Das Ottoman Arsenal besteht aus historischen Ruinen in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.492616,
+                        42.045752
+                  ]
+            },
+            {
+                  "name": "Monument Kulture - Shpia e Jubanve",
+                  "text": "Monument Kulture - Shpia e Jubanve ist ein Kulturdenkmal in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.513132,
+                        42.065591
+                  ]
+            },
+            {
+                  "name": "Art House",
+                  "text": "Art House ist ein Kunstzentrum für kulturelle Veranstaltungen in Shkodra.",
+                  "category": "cultural",
+                  "coords": [
+                        19.516469,
+                        42.066132
+                  ]
+            },
+            {
+                  "name": "Shtëpia e Pritjes",
+                  "text": "Shtëpia e Pritjes ist eine Ruinenstätte in der Stadt Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.501098,
+                        42.052488
+                  ]
+            },
+            {
+                  "name": "Eco Art EDA",
+                  "text": "Eco Art EDA ist eine Attraktion in der Stadt Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.515727,
+                        42.063304
+                  ]
+            },
+            {
+                  "name": "Parruca-Moschee",
+                  "text": "Die Parruca-Moschee ist ein bekanntes islamisches Gotteshaus in Shkodra.",
+                  "category": "religious",
+                  "coords": [
+                        19.508701,
+                        42.065421
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pashko Vasa Museum",
+                  "text": "A shkodrai Pashko Vasa Múzeum a neves albán írónak és költőnek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        19.516839,
+                        42.061905
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik i Shkodrës",
+                  "text": "A Shkodrai Történeti Múzeum a régió gazdag kulturális és történelmi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.509233,
+                        42.069291
+                  ]
+            },
+            {
+                  "name": "Rozafa vára",
+                  "text": "A Rozafa vára egy kiemelkedő történelmi erődítmény egy sziklás dombon Shkodra felett.",
+                  "category": "castle",
+                  "coords": [
+                        19.493557,
+                        42.046526
+                  ]
+            },
+            {
+                  "name": "Site of Witness and Memory",
+                  "text": "A Site of Witness and Memory egy múzeum Shkodrában.",
+                  "category": "museum",
+                  "coords": [
+                        19.517035,
+                        42.065148
+                  ]
+            },
+            {
+                  "name": "Fototeka Kombëtare e Fotografisë - Marubi",
+                  "text": "A shkodrai Marubi Nemzeti Fotómúzeum történelmi albán fényképek kiterjedt gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        19.515568,
+                        42.068595
+                  ]
+            },
+            {
+                  "name": "Teatri Migjeni",
+                  "text": "A Migjeni Színház egy fontos előadó-művészeti helyszín Shkodra városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.511067,
+                        42.068896
+                  ]
+            },
+            {
+                  "name": "Peisazh i Mbrojtur Lumi Buna-Velipoje",
+                  "text": "A Buna-folyó Velipojë Tájvédelmi Körzet egy létfontosságú vizenyős terület és természetvédelmi terület Shkodra közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.460317,
+                        41.938573
+                  ]
+            },
+            {
+                  "name": "Muzeu Dioqezan",
+                  "text": "A Muzeu Dioqezan egy múzeum Shkodra városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.519968,
+                        42.065072
+                  ]
+            },
+            {
+                  "name": "Barbakan - Main Fortified Entrance 15th cent.",
+                  "text": "A Barbakan - Main Fortified Entrance 15th cent. egy történelmi várrészlet Shkodrában.",
+                  "category": "castle",
+                  "coords": [
+                        19.494952,
+                        42.047036
+                  ]
+            },
+            {
+                  "name": "Shtëpi Muze - Lazer & Simon Jubani",
+                  "text": "A Shtëpi Muze - Lazer & Simon Jubani egy múzeum Shkodra városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.524581,
+                        42.068997
+                  ]
+            },
+            {
+                  "name": "Monumenti Prek Cali",
+                  "text": "A shkodrai Prenk Cali Emlékmű a neves albán történelmi személyiségnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        19.520984,
+                        42.073112
+                  ]
+            },
+            {
+                  "name": "Ferencesek temploma",
+                  "text": "A ferences templom egy figyelemre méltó vallási látványosság és történelmi nevezetesség Shkodrában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.515432,
+                        42.067518
+                  ]
+            },
+            {
+                  "name": "Xhamia e Plumbit",
+                  "text": "Az Ólom-mecset egy történelmi, oszmán kori látványosság Shkodrában, amely ólomborítású kupoláiról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        19.499437,
+                        42.04645
+                  ]
+            },
+            {
+                  "name": "Monument Kulture - Familja Çeka",
+                  "text": "A Monument Kulture - Familja Çeka egy kulturális örökségi látványosság, amely a neves Çeka családhoz kötődik Shkodrában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.51671,
+                        42.063455
+                  ]
+            },
+            {
+                  "name": "Hamami i Shkodrës",
+                  "text": "A Hamami i Shkodrës egy történelmi oszmán fürdőház, amely kulturális látványosságként szolgál a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.506513,
+                        42.061621
+                  ]
+            },
+            {
+                  "name": "Ebu Beker Mecset",
+                  "text": "Az Ebu Beker mecset egy központi és fontos vallási látványosság Shkodrában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.514022,
+                        42.067741
+                  ]
+            },
+            {
+                  "name": "Kulla e Inglizit",
+                  "text": "Az Englishman's Tower Shkodrában egy jellegzetes történelmi műemlék, amelyet egy brit arisztokrata építtetett.",
+                  "category": "historical",
+                  "coords": [
+                        19.513008,
+                        42.068065
+                  ]
+            },
+            {
+                  "name": "Monumenti At Gjergj Fishta",
+                  "text": "A Father George Fishta Monument egy emlékmű Shkodra városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.510781,
+                        42.065072
+                  ]
+            },
+            {
+                  "name": "Isa Boletini",
+                  "text": "Az Isa Boletini egy történelmi személyiségnek szentelt emlékmű Shkodrában.",
+                  "category": "historical",
+                  "coords": [
+                        19.513548,
+                        42.061367
+                  ]
+            },
+            {
+                  "name": "Pjerini Art",
+                  "text": "A Pjerini Art egy művészeti galéria Shkodrában.",
+                  "category": "museum",
+                  "coords": [
+                        19.518727,
+                        42.065861
+                  ]
+            },
+            {
+                  "name": "Hamz Kazazi",
+                  "text": "A Hamz Kazazi egy emlékmű Shkodra városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.492123,
+                        42.047678
+                  ]
+            },
+            {
+                  "name": "Galeria e Arteve",
+                  "text": "A Galeria e Arteve egy művészetekre fókuszáló látványosság Shkodrában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.513614,
+                        42.068992
+                  ]
+            },
+            {
+                  "name": "Martin Camaj",
+                  "text": "A Martin Camaj emlékmű egy megemlékező építmény Shkodrában.",
+                  "category": "historical",
+                  "coords": [
+                        19.515696,
+                        42.070829
+                  ]
+            },
+            {
+                  "name": "Venice Art Mask",
+                  "text": "A Venice Art Mask egy egyedi látványosság Shkodra városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.516944,
+                        42.068903
+                  ]
+            },
+            {
+                  "name": "Kulla e Gjon Markagjonit",
+                  "text": "A Kulla e Gjon Markagjonit egy történelmi látványosság Shkodrában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.51512,
+                        42.065006
+                  ]
+            },
+            {
+                  "name": "Muzeu i Maskave Veneciane",
+                  "text": "A Museum of Venetian Masks galériaként működik Shkodrában.",
+                  "category": "museum",
+                  "coords": [
+                        19.52912,
+                        42.081991
+                  ]
+            },
+            {
+                  "name": "Komiteti i Kosovës",
+                  "text": "A Komiteti i Kosovës egy történelmi emlékmű Shkodrában.",
+                  "category": "historical",
+                  "coords": [
+                        19.511432,
+                        42.066734
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "A Varrezat e Dëshmorëve a hősi halottaknak emléket állító műemlék Shkodrában.",
+                  "category": "historical",
+                  "coords": [
+                        19.532097,
+                        42.053974
+                  ]
+            },
+            {
+                  "name": "Ottoman Arsenal",
+                  "text": "Az Ottoman Arsenal történelmi romokból áll Shkodrában.",
+                  "category": "historical",
+                  "coords": [
+                        19.492616,
+                        42.045752
+                  ]
+            },
+            {
+                  "name": "Monument Kulture - Shpia e Jubanve",
+                  "text": "A Monument Kulture - Shpia e Jubanve egy kulturális emlékmű Shkodrában.",
+                  "category": "historical",
+                  "coords": [
+                        19.513132,
+                        42.065591
+                  ]
+            },
+            {
+                  "name": "Art House",
+                  "text": "Az Art House egy kulturális eseményeknek szentelt művészeti központ Shkodrában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.516469,
+                        42.066132
+                  ]
+            },
+            {
+                  "name": "Shtëpia e Pritjes",
+                  "text": "A Shtëpia e Pritjes egy romterület Shkodra városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.501098,
+                        42.052488
+                  ]
+            },
+            {
+                  "name": "Eco Art EDA",
+                  "text": "Az Eco Art EDA egy látványosság Shkodra városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.515727,
+                        42.063304
+                  ]
+            },
+            {
+                  "name": "Xhamia e Parrucës",
+                  "text": "A Parruca mecset egy jól ismert iszlám imahely Shkodra városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.508701,
+                        42.065421
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pashko Vasa Museum",
+                  "text": "Muzeul Pashko Vasa din Shkodra este dedicat renumitului scriitor și poet albanez.",
+                  "category": "museum",
+                  "coords": [
+                        19.516839,
+                        42.061905
+                  ]
+            },
+            {
+                  "name": "Muzeu Historik i Shkodrës",
+                  "text": "Muzeul Istoric din Shkodra prezintă bogata moștenire culturală și istorică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        19.509233,
+                        42.069291
+                  ]
+            },
+            {
+                  "name": "Kalaja e Rozafës",
+                  "text": "Castelul Rozafa este o fortăreață istorică proeminentă situată pe un deal stâncos cu vedere la Shkodra.",
+                  "category": "castle",
+                  "coords": [
+                        19.493557,
+                        42.046526
+                  ]
+            },
+            {
+                  "name": "Site of Witness and Memory",
+                  "text": "Site of Witness and Memory este un muzeu din Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.517035,
+                        42.065148
+                  ]
+            },
+            {
+                  "name": "Fototeka Kombëtare e Fotografisë - Marubi",
+                  "text": "Muzeul Național de Fotografie Marubi din Shkodra păstrează o colecție vastă de fotografii istorice albaneze.",
+                  "category": "museum",
+                  "coords": [
+                        19.515568,
+                        42.068595
+                  ]
+            },
+            {
+                  "name": "Teatri Migjeni",
+                  "text": "Teatrul Migjeni este un important loc de desfășurare a artelor spectacolului situat în orașul Shkodra.",
+                  "category": "cultural",
+                  "coords": [
+                        19.511067,
+                        42.068896
+                  ]
+            },
+            {
+                  "name": "Peisazh i Mbrojtur Lumi Buna-Velipoje",
+                  "text": "Peisajul protejat al râului Buna Velipojë este o zonă umedă vitală și o rezervație naturală lângă Shkodra.",
+                  "category": "natural",
+                  "coords": [
+                        19.460317,
+                        41.938573
+                  ]
+            },
+            {
+                  "name": "Muzeu Dioqezan",
+                  "text": "Muzeu Dioqezan este un muzeu aflat în orașul Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.519968,
+                        42.065072
+                  ]
+            },
+            {
+                  "name": "Barbakan - Main Fortified Entrance 15th cent.",
+                  "text": "Barbakan - Main Fortified Entrance 15th cent. este o componentă istorică a unui castel din Shkodra.",
+                  "category": "castle",
+                  "coords": [
+                        19.494952,
+                        42.047036
+                  ]
+            },
+            {
+                  "name": "Shtëpi Muze - Lazer & Simon Jubani",
+                  "text": "Shtëpi Muze - Lazer & Simon Jubani este un muzeu aflat în orașul Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.524581,
+                        42.068997
+                  ]
+            },
+            {
+                  "name": "Monumenti Prek Cali",
+                  "text": "Monumentul Prenk Cali din Shkodra comemorează renumita figură istorică albaneză.",
+                  "category": "historical",
+                  "coords": [
+                        19.520984,
+                        42.073112
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Françeskut",
+                  "text": "Biserica Franciscană este o atracție religioasă notabilă și un punct de reper istoric în Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.515432,
+                        42.067518
+                  ]
+            },
+            {
+                  "name": "Xhamia e Plumbit",
+                  "text": "Moscheea de Plumb este o atracție istorică din epoca otomană din Shkodra, faimoasă pentru domurile sale acoperite cu plumb.",
+                  "category": "landmark",
+                  "coords": [
+                        19.499437,
+                        42.04645
+                  ]
+            },
+            {
+                  "name": "Monument Kulture - Familja Çeka",
+                  "text": "Monument Kulture - Familja Çeka este o atracție de patrimoniu cultural legată de notabila familie Çeka din Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.51671,
+                        42.063455
+                  ]
+            },
+            {
+                  "name": "Hamami i Shkodrës",
+                  "text": "Hamami i Shkodrës este o baie otomană istorică care servește ca atracție culturală în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        19.506513,
+                        42.061621
+                  ]
+            },
+            {
+                  "name": "Xhamia Ebu Beker",
+                  "text": "Moscheea Ebu Beker este o atracție religioasă centrală și importantă situată în Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.514022,
+                        42.067741
+                  ]
+            },
+            {
+                  "name": "Kulla e Inglizit",
+                  "text": "Turnul Englezului din Shkodra este un monument istoric distinctiv construit de un aristocrat britanic.",
+                  "category": "historical",
+                  "coords": [
+                        19.513008,
+                        42.068065
+                  ]
+            },
+            {
+                  "name": "Monumenti At Gjergj Fishta",
+                  "text": "Monumentul Father George Fishta este un memorial situat în orașul Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.510781,
+                        42.065072
+                  ]
+            },
+            {
+                  "name": "Isa Boletini",
+                  "text": "Isa Boletini este un monument dedicat unei figuri istorice, situat în Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.513548,
+                        42.061367
+                  ]
+            },
+            {
+                  "name": "Pjerini Art",
+                  "text": "Pjerini Art este o galerie de artă situată în Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.518727,
+                        42.065861
+                  ]
+            },
+            {
+                  "name": "Hamz Kazazi",
+                  "text": "Hamz Kazazi este un monument situat în orașul Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.492123,
+                        42.047678
+                  ]
+            },
+            {
+                  "name": "Galeria e Arteve",
+                  "text": "Galeria e Arteve este o atracție axată pe artă din Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.513614,
+                        42.068992
+                  ]
+            },
+            {
+                  "name": "Martin Camaj",
+                  "text": "Monumentul Martin Camaj este o structură comemorativă în Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.515696,
+                        42.070829
+                  ]
+            },
+            {
+                  "name": "Venice Art Mask",
+                  "text": "Venice Art Mask este o atracție unică situată în orașul Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.516944,
+                        42.068903
+                  ]
+            },
+            {
+                  "name": "Kulla e Gjon Markagjonit",
+                  "text": "Kulla e Gjon Markagjonit este o atracție istorică situată în Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.51512,
+                        42.065006
+                  ]
+            },
+            {
+                  "name": "Muzeu i Maskave Veneciane",
+                  "text": "Museum of Venetian Masks funcționează ca o galerie în Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.52912,
+                        42.081991
+                  ]
+            },
+            {
+                  "name": "Komiteti i Kosovës",
+                  "text": "Komiteti i Kosovës este un monument istoric situat în Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.511432,
+                        42.066734
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "Varrezat e Dëshmorëve este un monument care onorează martirii în Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.532097,
+                        42.053974
+                  ]
+            },
+            {
+                  "name": "Ottoman Arsenal",
+                  "text": "Ottoman Arsenal este format din ruine istorice situate în Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.492616,
+                        42.045752
+                  ]
+            },
+            {
+                  "name": "Monument Kulture - Shpia e Jubanve",
+                  "text": "Monument Kulture - Shpia e Jubanve este un monument cultural situat în Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.513132,
+                        42.065591
+                  ]
+            },
+            {
+                  "name": "Art House",
+                  "text": "Art House este un centru de arte dedicat evenimentelor culturale din Shkodra.",
+                  "category": "cultural",
+                  "coords": [
+                        19.516469,
+                        42.066132
+                  ]
+            },
+            {
+                  "name": "Shtëpia e Pritjes",
+                  "text": "Shtëpia e Pritjes este un sit de ruine situat în orașul Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.501098,
+                        42.052488
+                  ]
+            },
+            {
+                  "name": "Eco Art EDA",
+                  "text": "Eco Art EDA este o atracție situată în orașul Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.515727,
+                        42.063304
+                  ]
+            },
+            {
+                  "name": "Xhamia e Parrucës",
+                  "text": "Moscheea Parruca este un bine-cunoscut lăcaș de cult islamic situat în Shkodra.",
+                  "category": "religious",
+                  "coords": [
+                        19.508701,
+                        42.065421
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pashko Vasa Museum",
+                  "text": "The Pashko Vasa Museum in Shkodra is dedicated to the renowned Albanian writer and poet.",
+                  "category": "museum",
+                  "coords": [
+                        19.516839,
+                        42.061905
+                  ]
+            },
+            {
+                  "name": "Historic Museum of Shkodër",
+                  "text": "The Historic Museum of Shkodër showcases the rich cultural and historical heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        19.509233,
+                        42.069291
+                  ]
+            },
+            {
+                  "name": "Rozafa Castle",
+                  "text": "Rozafa Castle is a prominent historic fortress situated on a rocky hill overlooking Shkodra.",
+                  "category": "castle",
+                  "coords": [
+                        19.493557,
+                        42.046526
+                  ]
+            },
+            {
+                  "name": "Site of Witness and Memory",
+                  "text": "The Site of Witness and Memory is a museum located in Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.517035,
+                        42.065148
+                  ]
+            },
+            {
+                  "name": "Marubi National Museum of Photography",
+                  "text": "The Marubi National Museum of Photography in Shkodra preserves an extensive collection of historic Albanian photographs.",
+                  "category": "museum",
+                  "coords": [
+                        19.515568,
+                        42.068595
+                  ]
+            },
+            {
+                  "name": "Migjeni Theatre",
+                  "text": "Migjeni Theatre is a major performing arts venue located in the city of Shkodra.",
+                  "category": "cultural",
+                  "coords": [
+                        19.511067,
+                        42.068896
+                  ]
+            },
+            {
+                  "name": "Buna River Velipojë Protected Landscape",
+                  "text": "Buna River Velipojë Protected Landscape is a vital wetland and nature reserve near Shkodra.",
+                  "category": "natural",
+                  "coords": [
+                        19.460317,
+                        41.938573
+                  ]
+            },
+            {
+                  "name": "Muzeu Dioqezan",
+                  "text": "Muzeu Dioqezan is a museum located in the city of Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.519968,
+                        42.065072
+                  ]
+            },
+            {
+                  "name": "Barbakan - Main Fortified Entrance 15th cent.",
+                  "text": "Barbakan - Main Fortified Entrance 15th cent. is a historic castle feature in Shkodra.",
+                  "category": "castle",
+                  "coords": [
+                        19.494952,
+                        42.047036
+                  ]
+            },
+            {
+                  "name": "Shtëpi Muze - Lazer & Simon Jubani",
+                  "text": "Shtëpi Muze - Lazer & Simon Jubani is a museum found in the city of Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.524581,
+                        42.068997
+                  ]
+            },
+            {
+                  "name": "Prenk Cali Monument",
+                  "text": "The Prenk Cali Monument in Shkodra commemorates the renowned Albanian historical figure.",
+                  "category": "historical",
+                  "coords": [
+                        19.520984,
+                        42.073112
+                  ]
+            },
+            {
+                  "name": "Franciscan Church",
+                  "text": "The Franciscan Church is a notable religious attraction and historical landmark in Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.515432,
+                        42.067518
+                  ]
+            },
+            {
+                  "name": "Lead Mosque",
+                  "text": "The Lead Mosque is a historic Ottoman-era attraction famous for its lead-covered domes in Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.499437,
+                        42.04645
+                  ]
+            },
+            {
+                  "name": "Monument Kulture - Familja Çeka",
+                  "text": "Monument Kulture - Familja Çeka is a cultural heritage attraction tied to the notable Çeka family in Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.51671,
+                        42.063455
+                  ]
+            },
+            {
+                  "name": "Hamami i Shkodrës",
+                  "text": "Hamami i Shkodrës is a historic Ottoman bathhouse serving as a cultural attraction in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        19.506513,
+                        42.061621
+                  ]
+            },
+            {
+                  "name": "Ebu Beker Mosque",
+                  "text": "The Ebu Beker Mosque is a central and important religious attraction situated in Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.514022,
+                        42.067741
+                  ]
+            },
+            {
+                  "name": "Englishman's Tower",
+                  "text": "The Englishman's Tower in Shkodra is a distinctive historical monument built by a British aristocrat.",
+                  "category": "historical",
+                  "coords": [
+                        19.513008,
+                        42.068065
+                  ]
+            },
+            {
+                  "name": "Father George Fishta Monument",
+                  "text": "The Father George Fishta Monument is a memorial situated in the city of Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.510781,
+                        42.065072
+                  ]
+            },
+            {
+                  "name": "Isa Boletini",
+                  "text": "Isa Boletini is a monument dedicated to a historical figure, located in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.513548,
+                        42.061367
+                  ]
+            },
+            {
+                  "name": "Pjerini Art",
+                  "text": "Pjerini Art is an art gallery located in Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.518727,
+                        42.065861
+                  ]
+            },
+            {
+                  "name": "Hamz Kazazi",
+                  "text": "Hamz Kazazi is a monument located in the city of Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.492123,
+                        42.047678
+                  ]
+            },
+            {
+                  "name": "Galeria e Arteve",
+                  "text": "Galeria e Arteve is an attraction focused on the arts in Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.513614,
+                        42.068992
+                  ]
+            },
+            {
+                  "name": "Martin Camaj",
+                  "text": "The Martin Camaj monument is a commemorative structure in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.515696,
+                        42.070829
+                  ]
+            },
+            {
+                  "name": "Venice Art Mask",
+                  "text": "Venice Art Mask is a unique attraction located in the city of Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.516944,
+                        42.068903
+                  ]
+            },
+            {
+                  "name": "Kulla e Gjon Markagjonit",
+                  "text": "Kulla e Gjon Markagjonit is a historic attraction situated in Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.51512,
+                        42.065006
+                  ]
+            },
+            {
+                  "name": "Museum of Venetian Masks",
+                  "text": "The Museum of Venetian Masks functions as a gallery in Shkodra.",
+                  "category": "museum",
+                  "coords": [
+                        19.52912,
+                        42.081991
+                  ]
+            },
+            {
+                  "name": "Komiteti i Kosovës",
+                  "text": "Komiteti i Kosovës is a historical monument located in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.511432,
+                        42.066734
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "Varrezat e Dëshmorëve is a monument honoring the fallen in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.532097,
+                        42.053974
+                  ]
+            },
+            {
+                  "name": "Ottoman Arsenal",
+                  "text": "The Ottoman Arsenal consists of historical ruins situated in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.492616,
+                        42.045752
+                  ]
+            },
+            {
+                  "name": "Monument Kulture - Shpia e Jubanve",
+                  "text": "Monument Kulture - Shpia e Jubanve is a cultural monument situated in Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.513132,
+                        42.065591
+                  ]
+            },
+            {
+                  "name": "Art House",
+                  "text": "Art House is an arts centre dedicated to cultural events in Shkodra.",
+                  "category": "cultural",
+                  "coords": [
+                        19.516469,
+                        42.066132
+                  ]
+            },
+            {
+                  "name": "Shtëpia e Pritjes",
+                  "text": "Shtëpia e Pritjes is a site of ruins located in the city of Shkodra.",
+                  "category": "historical",
+                  "coords": [
+                        19.501098,
+                        42.052488
+                  ]
+            },
+            {
+                  "name": "Eco Art EDA",
+                  "text": "Eco Art EDA is an attraction situated in the city of Shkodra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.515727,
+                        42.063304
+                  ]
+            },
+            {
+                  "name": "Parruca Mosque",
+                  "text": "The Parruca Mosque is a well-known Islamic place of worship situated in Shkodra.",
+                  "category": "religious",
+                  "coords": [
+                        19.508701,
+                        42.065421
+                  ]
+            }
+      ]
+},
     name: { de: "Shkodra", hu: "Shkodra", ro: "Shkodra", en: "Shkodra" },
     description: { de: "Kulturstadt des Nordens", hu: "Az észak kulturális városa", ro: "Orașul cultural al nordului", en: "Cultural city of the north" , es: "Ciudad cultural del norte.", pt: "Cidade cultural do norte.", fr: "Ville culturelle du nord."},
     descriptionAdvanced: {
@@ -198,7 +3861,484 @@ export const albaniaCities: POI[] = [
       fr: ["L'un des lieux les plus anciens des Balkans.", "Siège de la photothèque Marubi.", "Porte d'entrée des Alpes albanaises."],
     }, image: "/poi-images/city-shkoder.webp"},
   {
-    id: "city-korce",
+    id: "city-korce", "sights": {
+      "de": [
+            {
+                  "name": "Teatri \"Andon Zako Çajupi\"",
+                  "text": "Andon-Zako-Çajupi-Theater in Korçë, ein kulturelles Zentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        20.77677,
+                        40.618685
+                  ]
+            },
+            {
+                  "name": "Muzeu Kombëtar i Arsimit",
+                  "text": "Nationales Bildungsmuseum in Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.779827,
+                        40.616669
+                  ]
+            },
+            {
+                  "name": "Muzeu i Artit Oriental \"Bratko\"",
+                  "text": "Bratko-Museum für orientalische Kunst in Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.78466,
+                        40.612649
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik Korçë",
+                  "text": "Archäologisches Museum in Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.781457,
+                        40.615288
+                  ]
+            },
+            {
+                  "name": "Muzeu Kombëtar i Artit Mesjetar",
+                  "text": "Nationalmuseum für mittelalterliche Kunst in Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.786708,
+                        40.612353
+                  ]
+            },
+            {
+                  "name": "Kendi i Lojrave",
+                  "text": "Freizeitpark in Korçë.",
+                  "category": "recreational",
+                  "coords": [
+                        20.787777,
+                        40.629524
+                  ]
+            },
+            {
+                  "name": "Vendodhja e Kalase se Korces",
+                  "text": "Standort der ehemaligen Burg von Korçë.",
+                  "category": "castle",
+                  "coords": [
+                        20.777487,
+                        40.61691
+                  ]
+            },
+            {
+                  "name": "Kalaja e Barcit",
+                  "text": "Burg von Barc in der Nähe von Korçë.",
+                  "category": "castle",
+                  "coords": [
+                        20.808565,
+                        40.621866
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "Märtyrerfriedhof in Korçë.",
+                  "category": "historical",
+                  "coords": [
+                        20.788362,
+                        40.618857
+                  ]
+            },
+            {
+                  "name": "Kulla e Sahatit",
+                  "text": "Uhrturm in Korçë, ein bekanntes Wahrzeichen.",
+                  "category": "historical",
+                  "coords": [
+                        20.775194,
+                        40.61618
+                  ]
+            },
+            {
+                  "name": "Pazari i Korçës",
+                  "text": "Alter Basar von Korçë, ein historisches Viertel.",
+                  "category": "landmark",
+                  "coords": [
+                        20.774914,
+                        40.617308
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Aussichtspunkt in Korçë.",
+                  "category": "natural",
+                  "coords": [
+                        20.78622,
+                        40.62553
+                  ]
+            },
+            {
+                  "name": "Kisha arumune e Shën Sotirit",
+                  "text": "Aromunische Kirche (St. Sotir) in Korçë.",
+                  "category": "religious",
+                  "coords": [
+                        20.784138,
+                        40.624942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatri \"Andon Zako Çajupi\"",
+                  "text": "Andon Zako Çajupi Színház Korçëban, kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        20.77677,
+                        40.618685
+                  ]
+            },
+            {
+                  "name": "Muzeu Kombëtar i Arsimit",
+                  "text": "Nemzeti Oktatási Múzeum Korçëban.",
+                  "category": "museum",
+                  "coords": [
+                        20.779827,
+                        40.616669
+                  ]
+            },
+            {
+                  "name": "Muzeu i Artit Oriental \"Bratko\"",
+                  "text": "Bratko Keleti Művészeti Múzeum Korçëban.",
+                  "category": "museum",
+                  "coords": [
+                        20.78466,
+                        40.612649
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik Korçë",
+                  "text": "Régészeti Múzeum Korçëban.",
+                  "category": "museum",
+                  "coords": [
+                        20.781457,
+                        40.615288
+                  ]
+            },
+            {
+                  "name": "Muzeu Kombëtar i Artit Mesjetar",
+                  "text": "Középkori Művészeti Nemzeti Múzeum Korçëban.",
+                  "category": "museum",
+                  "coords": [
+                        20.786708,
+                        40.612353
+                  ]
+            },
+            {
+                  "name": "Kendi i Lojrave",
+                  "text": "Vidámpark Korçëban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.787777,
+                        40.629524
+                  ]
+            },
+            {
+                  "name": "Vendodhja e Kalase se Korces",
+                  "text": "Korçë egykori várának helyszíne.",
+                  "category": "castle",
+                  "coords": [
+                        20.777487,
+                        40.61691
+                  ]
+            },
+            {
+                  "name": "Kalaja e Barcit",
+                  "text": "Barc vára Korçë közelében.",
+                  "category": "castle",
+                  "coords": [
+                        20.808565,
+                        40.621866
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "Mártírok temetője Korçëban.",
+                  "category": "historical",
+                  "coords": [
+                        20.788362,
+                        40.618857
+                  ]
+            },
+            {
+                  "name": "Kulla e Sahatit",
+                  "text": "Óratorony Korçëban, jellegzetes építmény.",
+                  "category": "historical",
+                  "coords": [
+                        20.775194,
+                        40.61618
+                  ]
+            },
+            {
+                  "name": "Pazari i Korçës",
+                  "text": "Korçë régi bazárja, történelmi negyed.",
+                  "category": "landmark",
+                  "coords": [
+                        20.774914,
+                        40.617308
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Kilátó Korçëban.",
+                  "category": "natural",
+                  "coords": [
+                        20.78622,
+                        40.62553
+                  ]
+            },
+            {
+                  "name": "Kisha arumune e Shën Sotirit",
+                  "text": "Aromán templom (Szent Szotir) Korçëban.",
+                  "category": "religious",
+                  "coords": [
+                        20.784138,
+                        40.624942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatri \"Andon Zako Çajupi\"",
+                  "text": "Teatrul Andon Zako Çajupi din Korçë, un centru cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        20.77677,
+                        40.618685
+                  ]
+            },
+            {
+                  "name": "Muzeu Kombëtar i Arsimit",
+                  "text": "Muzeul Național al Educației din Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.779827,
+                        40.616669
+                  ]
+            },
+            {
+                  "name": "Muzeu i Artit Oriental \"Bratko\"",
+                  "text": "Muzeul de Artă Orientală Bratko din Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.78466,
+                        40.612649
+                  ]
+            },
+            {
+                  "name": "Muzeu Arkeologjik Korçë",
+                  "text": "Muzeul Arheologic din Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.781457,
+                        40.615288
+                  ]
+            },
+            {
+                  "name": "Muzeu Kombëtar i Artit Mesjetar",
+                  "text": "Muzeul Național de Artă Medievală din Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.786708,
+                        40.612353
+                  ]
+            },
+            {
+                  "name": "Kendi i Lojrave",
+                  "text": "Parc de distracții în Korçë.",
+                  "category": "recreational",
+                  "coords": [
+                        20.787777,
+                        40.629524
+                  ]
+            },
+            {
+                  "name": "Vendodhja e Kalase se Korces",
+                  "text": "Locația fostului castel din Korçë.",
+                  "category": "castle",
+                  "coords": [
+                        20.777487,
+                        40.61691
+                  ]
+            },
+            {
+                  "name": "Kalaja e Barcit",
+                  "text": "Castelul Barc lângă Korçë.",
+                  "category": "castle",
+                  "coords": [
+                        20.808565,
+                        40.621866
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "Cimitirul Martirilor din Korçë.",
+                  "category": "historical",
+                  "coords": [
+                        20.788362,
+                        40.618857
+                  ]
+            },
+            {
+                  "name": "Kulla e Sahatit",
+                  "text": "Turnul cu ceas din Korçë, un punct de reper cunoscut.",
+                  "category": "historical",
+                  "coords": [
+                        20.775194,
+                        40.61618
+                  ]
+            },
+            {
+                  "name": "Pazari i Korçës",
+                  "text": "Vechiul Bazar din Korçë, un cartier istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        20.774914,
+                        40.617308
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Punct de belvedere în Korçë.",
+                  "category": "natural",
+                  "coords": [
+                        20.78622,
+                        40.62553
+                  ]
+            },
+            {
+                  "name": "Biserica aromână \"Schimbarea la Fața\"",
+                  "text": "Biserica aromână (Sfântul Sotir) din Korçë.",
+                  "category": "religious",
+                  "coords": [
+                        20.784138,
+                        40.624942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Andon Zako Çajupi theatre",
+                  "text": "Andon Zako Çajupi Theatre in Korçë, a cultural center.",
+                  "category": "cultural",
+                  "coords": [
+                        20.77677,
+                        40.618685
+                  ]
+            },
+            {
+                  "name": "National Museum of Education",
+                  "text": "National Museum of Education in Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.779827,
+                        40.616669
+                  ]
+            },
+            {
+                  "name": "Bratko Museum of Oriental Art",
+                  "text": "Bratko Museum of Oriental Art in Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.78466,
+                        40.612649
+                  ]
+            },
+            {
+                  "name": "Korçë Archaeological Musem",
+                  "text": "Archaeological Museum in Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.781457,
+                        40.615288
+                  ]
+            },
+            {
+                  "name": "National Museum of Medieval Art",
+                  "text": "National Museum of Medieval Art in Korçë.",
+                  "category": "museum",
+                  "coords": [
+                        20.786708,
+                        40.612353
+                  ]
+            },
+            {
+                  "name": "Kendi i Lojrave",
+                  "text": "Theme park in Korçë.",
+                  "category": "recreational",
+                  "coords": [
+                        20.787777,
+                        40.629524
+                  ]
+            },
+            {
+                  "name": "Vendodhja e Kalase se Korces",
+                  "text": "Site of the former castle of Korçë.",
+                  "category": "castle",
+                  "coords": [
+                        20.777487,
+                        40.61691
+                  ]
+            },
+            {
+                  "name": "Kalaja e Barcit",
+                  "text": "Castle of Barc near Korçë.",
+                  "category": "castle",
+                  "coords": [
+                        20.808565,
+                        40.621866
+                  ]
+            },
+            {
+                  "name": "Martyrs' Cemetery",
+                  "text": "Martyrs' Cemetery in Korçë.",
+                  "category": "historical",
+                  "coords": [
+                        20.788362,
+                        40.618857
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Clock Tower in Korçë, a well-known landmark.",
+                  "category": "historical",
+                  "coords": [
+                        20.775194,
+                        40.61618
+                  ]
+            },
+            {
+                  "name": "Old Bazaar of Korçë",
+                  "text": "Old Bazaar of Korçë, a historic district.",
+                  "category": "landmark",
+                  "coords": [
+                        20.774914,
+                        40.617308
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Viewpoint in Korçë.",
+                  "category": "natural",
+                  "coords": [
+                        20.78622,
+                        40.62553
+                  ]
+            },
+            {
+                  "name": "Aromanian Church (Saint Sotir)",
+                  "text": "Aromanian Church (Saint Sotir) in Korçë.",
+                  "category": "religious",
+                  "coords": [
+                        20.784138,
+                        40.624942
+                  ]
+            }
+      ]
+},
     name: { de: "Korçë", hu: "Korçë", ro: "Korçë", en: "Korçë" },
     description: { de: "Stadt der Serenaden", hu: "A szerenádok városa", ro: "Orașul serenadelor", en: "City of serenades" , es: "Ciudad de las serenatas.", pt: "Cidade das serenatas.", fr: "Ville des sérénades."},
     descriptionAdvanced: {
@@ -232,7 +4372,232 @@ export const albaniaCities: POI[] = [
       fr: ["Première école albanaise.", "Célèbre fête de la bière.", "Architecture de style français."],
     }, image: "/poi-images/city-korce.webp"},
   {
-    id: "city-fier",
+    id: "city-fier", "sights": {
+      "de": [
+            {
+                  "name": "Muzeu Historik i Fierit",
+                  "text": "Das Muzeu Historik i Fierit ist ein Museum, das die regionale Geschichte von Fier präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.554746,
+                        40.724582
+                  ]
+            },
+            {
+                  "name": "Teatri Bylis",
+                  "text": "Das Teatri Bylis ist ein Theater in der Stadt Fier.",
+                  "category": "cultural",
+                  "coords": [
+                        19.557111,
+                        40.724366
+                  ]
+            },
+            {
+                  "name": "Monumenti i Kujtim Majacit",
+                  "text": "Das Monumenti i Kujtim Majacit ist ein Denkmal in Fier.",
+                  "category": "historical",
+                  "coords": [
+                        19.559491,
+                        40.728012
+                  ]
+            },
+            {
+                  "name": "Monumenti i Vajzave Partizane",
+                  "text": "Das Monumenti i Vajzave Partizane ist ein Denkmal in der Stadt Fier.",
+                  "category": "historical",
+                  "coords": [
+                        19.558127,
+                        40.724477
+                  ]
+            },
+            {
+                  "name": "мозаичный дом",
+                  "text": "Das мозаичный дом (Mosaikhaus) ist eine Sehenswürdigkeit in Fier.",
+                  "category": "landmark",
+                  "coords": [
+                        19.560506,
+                        40.749897
+                  ]
+            },
+            {
+                  "name": "Galeria e Arteve \"Vilson Kilica\"",
+                  "text": "Die Galeria e Arteve \"Vilson Kilica\" ist eine Kunstgalerie in Fier.",
+                  "category": "museum",
+                  "coords": [
+                        19.556988,
+                        40.727012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeu Historik i Fierit",
+                  "text": "A Muzeu Historik i Fierit egy helytörténeti múzeum Fier városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.554746,
+                        40.724582
+                  ]
+            },
+            {
+                  "name": "Teatri Bylis",
+                  "text": "A Teatri Bylis egy színház Fier városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.557111,
+                        40.724366
+                  ]
+            },
+            {
+                  "name": "Monumenti i Kujtim Majacit",
+                  "text": "A Monumenti i Kujtim Majacit egy emlékmű Fierben.",
+                  "category": "historical",
+                  "coords": [
+                        19.559491,
+                        40.728012
+                  ]
+            },
+            {
+                  "name": "Monumenti i Vajzave Partizane",
+                  "text": "A Monumenti i Vajzave Partizane egy műemlék Fier városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.558127,
+                        40.724477
+                  ]
+            },
+            {
+                  "name": "мозаичный дом",
+                  "text": "A мозаичный дом (Mozaikház) egy látványosság Fierben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.560506,
+                        40.749897
+                  ]
+            },
+            {
+                  "name": "Galeria e Arteve \"Vilson Kilica\"",
+                  "text": "A Galeria e Arteve \"Vilson Kilica\" egy művészeti galéria Fierben.",
+                  "category": "museum",
+                  "coords": [
+                        19.556988,
+                        40.727012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeu Historik i Fierit",
+                  "text": "Muzeu Historik i Fierit este un muzeu care prezintă istoria regională din Fier.",
+                  "category": "museum",
+                  "coords": [
+                        19.554746,
+                        40.724582
+                  ]
+            },
+            {
+                  "name": "Teatri Bylis",
+                  "text": "Teatri Bylis este un teatru din orașul Fier.",
+                  "category": "cultural",
+                  "coords": [
+                        19.557111,
+                        40.724366
+                  ]
+            },
+            {
+                  "name": "Monumenti i Kujtim Majacit",
+                  "text": "Monumenti i Kujtim Majacit este un monument din Fier.",
+                  "category": "historical",
+                  "coords": [
+                        19.559491,
+                        40.728012
+                  ]
+            },
+            {
+                  "name": "Monumenti i Vajzave Partizane",
+                  "text": "Monumenti i Vajzave Partizane este un monument situat în Fier.",
+                  "category": "historical",
+                  "coords": [
+                        19.558127,
+                        40.724477
+                  ]
+            },
+            {
+                  "name": "мозаичный дом",
+                  "text": "мозаичный дом (Casa cu mozaic) este o atracție turistică în Fier.",
+                  "category": "landmark",
+                  "coords": [
+                        19.560506,
+                        40.749897
+                  ]
+            },
+            {
+                  "name": "Galeria e Arteve \"Vilson Kilica\"",
+                  "text": "Galeria e Arteve \"Vilson Kilica\" este o galerie de artă din Fier.",
+                  "category": "museum",
+                  "coords": [
+                        19.556988,
+                        40.727012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeu Historik i Fierit",
+                  "text": "The Muzeu Historik i Fierit is a museum showcasing regional history in Fier.",
+                  "category": "museum",
+                  "coords": [
+                        19.554746,
+                        40.724582
+                  ]
+            },
+            {
+                  "name": "Teatri Bylis",
+                  "text": "The Teatri Bylis is a theatre located in the city of Fier.",
+                  "category": "cultural",
+                  "coords": [
+                        19.557111,
+                        40.724366
+                  ]
+            },
+            {
+                  "name": "Monumenti i Kujtim Majacit",
+                  "text": "The Monumenti i Kujtim Majacit is a monument in Fier.",
+                  "category": "historical",
+                  "coords": [
+                        19.559491,
+                        40.728012
+                  ]
+            },
+            {
+                  "name": "Monumenti i Vajzave Partizane",
+                  "text": "The Monumenti i Vajzave Partizane is a monument situated in Fier.",
+                  "category": "historical",
+                  "coords": [
+                        19.558127,
+                        40.724477
+                  ]
+            },
+            {
+                  "name": "мозаичный дом",
+                  "text": "The мозаичный дом (Mosaic House) is an attraction located in Fier.",
+                  "category": "landmark",
+                  "coords": [
+                        19.560506,
+                        40.749897
+                  ]
+            },
+            {
+                  "name": "Galeria e Arteve \"Vilson Kilica\"",
+                  "text": "The Galeria e Arteve \"Vilson Kilica\" is an art gallery in Fier.",
+                  "category": "museum",
+                  "coords": [
+                        19.556988,
+                        40.727012
+                  ]
+            }
+      ]
+},
     name: { de: "Fier", hu: "Fier", ro: "Fier", en: "Fier" },
     description: { de: "Industrie- und Kulturzentrum", hu: "Ipari és kulturális központ", ro: "Centru industrial și cultural", en: "Industrial and cultural center" , es: "Centro industrial y cultural.", pt: "Centro industrial e cultural.", fr: "Centre industriel et culturel."},
     descriptionAdvanced: {
@@ -266,7 +4631,664 @@ export const albaniaCities: POI[] = [
       fr: ["Nœud économique.", "Proche d'Apollonia.", "Centre agricole."],
     }, image: "/poi-images/city-fier.webp"},
   {
-    id: "city-berat",
+    id: "city-berat", "sights": {
+      "de": [
+            {
+                  "name": "Muzeu Kombëtar Ikonografik Onufri",
+                  "text": "Das Onufri-Museum in Berat ist ein bedeutendes Museum für byzantinische und postbyzantinische Ikonographie.",
+                  "category": "museum",
+                  "coords": [
+                        19.945246,
+                        40.708962
+                  ]
+            },
+            {
+                  "name": "Muzeu Solomoni",
+                  "text": "Das Solomon-Museum ist eine bemerkenswerte Einrichtung in Berat, die die Geschichte der lokalen jüdischen Gemeinde dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.950432,
+                        40.706568
+                  ]
+            },
+            {
+                  "name": "Fortifikimi i Goricës",
+                  "text": "Das Fort Gorica ist eine alte Festungsruine in Berat.",
+                  "category": "fortress",
+                  "coords": [
+                        19.943973,
+                        40.700388
+                  ]
+            },
+            {
+                  "name": "Muzeu Kombëtar Etnografik Berat",
+                  "text": "Das Nationale Ethnographische Museum von Berat ist ein bemerkenswertes Museum, das das traditionelle lokale Leben und die Kultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.950388,
+                        40.707671
+                  ]
+            },
+            {
+                  "name": "Banesa e Dud Mishaxhiut",
+                  "text": "Banesa e Dud Mishaxhiut ist ein anerkanntes historisches Denkmal in Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.952512,
+                        40.707086
+                  ]
+            },
+            {
+                  "name": "Xhamia Mbret",
+                  "text": "Die Königsmoschee ist eine bedeutende historische Attraktion und Kultstätte in Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.952045,
+                        40.705682
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Triadhës",
+                  "text": "Die Kirche der Heiligen Dreifaltigkeit ist eine bedeutende historische Sehenswürdigkeit in Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.944432,
+                        40.707858
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Todrit",
+                  "text": "Kisha e Shën Todrit, oder die Kirche St. Theodor, ist eine historische Sehenswürdigkeit in Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.946288,
+                        40.709949
+                  ]
+            },
+            {
+                  "name": "Xhamia e Kuqe",
+                  "text": "Die Rote Moschee ist eine bedeutende historische Ruine in Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.945862,
+                        40.707088
+                  ]
+            },
+            {
+                  "name": "Xhamia e Plumbit",
+                  "text": "Die Bleimoschee ist eine bekannte historische Attraktion in Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.955434,
+                        40.704572
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Spiridhonit",
+                  "text": "Kisha e Shën Spiridhonit ist eine anerkannte historische Sehenswürdigkeit in der Stadt Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.946864,
+                        40.702365
+                  ]
+            },
+            {
+                  "name": "Banesa e Bozho Filerit",
+                  "text": "Banesa e Bozho Filerit ist ein bemerkenswertes historisches Denkmal in Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.945818,
+                        40.701977
+                  ]
+            },
+            {
+                  "name": "In Erinnerung an den Kampf gegen Nazideutschland",
+                  "text": "Das Lapidar WW2 ist ein Denkmal in Berat zum Gedenken an die Ereignisse des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        19.946784,
+                        40.711396
+                  ]
+            },
+            {
+                  "name": "Tv tower",
+                  "text": "Der Fernsehturm in Berat dient als markanter Aussichtspunkt über die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        19.948281,
+                        40.697754
+                  ]
+            },
+            {
+                  "name": "Ura e Goricës",
+                  "text": "Die Gorica-Brücke ist ein historischer Aussichtspunkt mit malerischem Blick auf Berat.",
+                  "category": "natural",
+                  "coords": [
+                        19.944617,
+                        40.703245
+                  ]
+            },
+            {
+                  "name": "Sunrise Point",
+                  "text": "Der Sunrise Point ist ein malerischer Aussichtspunkt in Berat, ideal zur Beobachtung des Morgenhimmels.",
+                  "category": "natural",
+                  "coords": [
+                        19.947683,
+                        40.704819
+                  ]
+            },
+            {
+                  "name": "Art Gallery \"Edward Lear\"",
+                  "text": "Die Kunstgalerie \"Edward Lear\" ist ein kultureller Veranstaltungsort, der Kunstwerke in Berat zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.950859,
+                        40.705125
+                  ]
+            },
+            {
+                  "name": "Sahati i Beratit",
+                  "text": "Der Uhrturm von Berat ist ein markantes historisches Denkmal in der Stadt Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.940421,
+                        40.706474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeu Kombëtar Ikonografik Onufri",
+                  "text": "A berati Onufri Múzeum egy jelentős intézmény, amely a bizánci és posztbizánci ikonográfiát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.945246,
+                        40.708962
+                  ]
+            },
+            {
+                  "name": "Muzeu Solomoni",
+                  "text": "A Salamon Múzeum egy jelentős intézmény Beratban, amely a helyi zsidó közösség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.950432,
+                        40.706568
+                  ]
+            },
+            {
+                  "name": "Fortifikimi i Goricës",
+                  "text": "A Gorica erőd egy ősi erődítmény romja Berat városában.",
+                  "category": "fortress",
+                  "coords": [
+                        19.943973,
+                        40.700388
+                  ]
+            },
+            {
+                  "name": "Muzeu Kombëtar Etnografik Berat",
+                  "text": "A Berati Nemzeti Néprajzi Múzeum egy jelentős múzeum, amely a hagyományos helyi életet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.950388,
+                        40.707671
+                  ]
+            },
+            {
+                  "name": "Banesa e Dud Mishaxhiut",
+                  "text": "A Banesa e Dud Mishaxhiut egy elismert történelmi műemlék Beratban.",
+                  "category": "historical",
+                  "coords": [
+                        19.952512,
+                        40.707086
+                  ]
+            },
+            {
+                  "name": "Xhamia Mbret",
+                  "text": "A Király-mecset egy kiemelkedő történelmi látványosság és vallási helyszín Beratban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.952045,
+                        40.705682
+                  ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "A Szentháromság-templom egy jelentős történelmi látványosság Berat városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.944432,
+                        40.707858
+                  ]
+            },
+            {
+                  "name": "Szent Tódor-templom",
+                  "text": "A Kisha e Shën Todrit, vagy Szent Tódor-templom egy történelmi látványosság Beratban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.946288,
+                        40.709949
+                  ]
+            },
+            {
+                  "name": "Xhamia e Kuqe",
+                  "text": "A Vörös mecset egy jelentős történelmi romterület Berat városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.945862,
+                        40.707088
+                  ]
+            },
+            {
+                  "name": "Ólom-mecset",
+                  "text": "Az Ólom-mecset egy jól ismert történelmi látványosság Beratban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.955434,
+                        40.704572
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Spiridhonit",
+                  "text": "A Kisha e Shën Spiridhonit egy elismert történelmi látványosság Berat városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.946864,
+                        40.702365
+                  ]
+            },
+            {
+                  "name": "Banesa e Bozho Filerit",
+                  "text": "A Banesa e Bozho Filerit egy jelentős történelmi műemlék Berat városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.945818,
+                        40.701977
+                  ]
+            },
+            {
+                  "name": "Lapidar WW2",
+                  "text": "A második világháborús lapidár egy emlékmű Beratban, amely a háború eseményeire emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        19.946784,
+                        40.711396
+                  ]
+            },
+            {
+                  "name": "Tv tower",
+                  "text": "A berati tévétorony kiváló kilátóhelyként szolgál a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        19.948281,
+                        40.697754
+                  ]
+            },
+            {
+                  "name": "Ura e Goricës",
+                  "text": "A Gorica híd egy történelmi kilátóhely, amely festői kilátást nyújt Berat városára.",
+                  "category": "natural",
+                  "coords": [
+                        19.944617,
+                        40.703245
+                  ]
+            },
+            {
+                  "name": "Sunrise Point",
+                  "text": "A Sunrise Point egy festői kilátó Beratban, amely ideális a reggeli égbolt megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.947683,
+                        40.704819
+                  ]
+            },
+            {
+                  "name": "Art Gallery \"Edward Lear\"",
+                  "text": "Az \"Edward Lear\" Művészeti Galéria egy kulturális helyszín Beratban, amely műalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.950859,
+                        40.705125
+                  ]
+            },
+            {
+                  "name": "Sahati i Beratit",
+                  "text": "A berati óratorony egy jellegzetes történelmi műemlék Berat városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.940421,
+                        40.706474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeu Kombëtar Ikonografik Onufri",
+                  "text": "Muzeul Onufri din Berat este un muzeu notabil dedicat iconografiei bizantine și post-bizantine.",
+                  "category": "museum",
+                  "coords": [
+                        19.945246,
+                        40.708962
+                  ]
+            },
+            {
+                  "name": "Muzeu Solomoni",
+                  "text": "Muzeul Solomon este o instituție notabilă din Berat care detaliază istoria comunității evreiești locale.",
+                  "category": "museum",
+                  "coords": [
+                        19.950432,
+                        40.706568
+                  ]
+            },
+            {
+                  "name": "Fortifikimi i Goricës",
+                  "text": "Fortul Gorica este o ruină a unei vechi fortificații situate în Berat.",
+                  "category": "fortress",
+                  "coords": [
+                        19.943973,
+                        40.700388
+                  ]
+            },
+            {
+                  "name": "Muzeu Kombëtar Etnografik Berat",
+                  "text": "Muzeul Național de Etnografie din Berat este un muzeu notabil care prezintă viața și cultura tradițională locală.",
+                  "category": "museum",
+                  "coords": [
+                        19.950388,
+                        40.707671
+                  ]
+            },
+            {
+                  "name": "Banesa e Dud Mishaxhiut",
+                  "text": "Banesa e Dud Mishaxhiut este un monument istoric recunoscut situat în Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.952512,
+                        40.707086
+                  ]
+            },
+            {
+                  "name": "Xhamia Mbret",
+                  "text": "Moscheea Regelui este o atracție istorică și un sit religios proeminent în Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.952045,
+                        40.705682
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Triadhës",
+                  "text": "Biserica Sfânta Treime este o atracție istorică notabilă situată în Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.944432,
+                        40.707858
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Todrit",
+                  "text": "Kisha e Shën Todrit, sau Biserica Sfântul Teodor, este o atracție istorică din Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.946288,
+                        40.709949
+                  ]
+            },
+            {
+                  "name": "Xhamia e Kuqe",
+                  "text": "Moscheea Roșie este un sit istoric ruinat semnificativ situat în Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.945862,
+                        40.707088
+                  ]
+            },
+            {
+                  "name": "Xhamia e Plumbit",
+                  "text": "Moscheea de Plumb este o atracție istorică bine cunoscută din Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.955434,
+                        40.704572
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Spiridhonit",
+                  "text": "Kisha e Shën Spiridhonit este o atracție istorică recunoscută în orașul Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.946864,
+                        40.702365
+                  ]
+            },
+            {
+                  "name": "Banesa e Bozho Filerit",
+                  "text": "Banesa e Bozho Filerit este un monument istoric notabil situat în Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.945818,
+                        40.701977
+                  ]
+            },
+            {
+                  "name": "Lapidar WW2",
+                  "text": "Lapidar WW2 este un monument din Berat care comemorează evenimentele celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        19.946784,
+                        40.711396
+                  ]
+            },
+            {
+                  "name": "Tv tower",
+                  "text": "Turnul TV din Berat servește ca un punct de belvedere proeminent asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        19.948281,
+                        40.697754
+                  ]
+            },
+            {
+                  "name": "Ura e Goricës",
+                  "text": "Podul Gorica este un punct de belvedere istoric care oferă vederi pitorești asupra Beratului.",
+                  "category": "natural",
+                  "coords": [
+                        19.944617,
+                        40.703245
+                  ]
+            },
+            {
+                  "name": "Sunrise Point",
+                  "text": "Sunrise Point este un punct de belvedere pitoresc din Berat, ideal pentru observarea cerului dimineții.",
+                  "category": "natural",
+                  "coords": [
+                        19.947683,
+                        40.704819
+                  ]
+            },
+            {
+                  "name": "Art Gallery \"Edward Lear\"",
+                  "text": "Galeria de Artă \"Edward Lear\" este un spațiu cultural care expune opere de artă în Berat.",
+                  "category": "museum",
+                  "coords": [
+                        19.950859,
+                        40.705125
+                  ]
+            },
+            {
+                  "name": "Sahati i Beratit",
+                  "text": "Turnul cu Ceas din Berat este un monument istoric distinctiv din orașul Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.940421,
+                        40.706474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Onufri Museum",
+                  "text": "The Onufri Museum in Berat is a notable museum dedicated to Byzantine and post-Byzantine iconography.",
+                  "category": "museum",
+                  "coords": [
+                        19.945246,
+                        40.708962
+                  ]
+            },
+            {
+                  "name": "Solomon Museum",
+                  "text": "The Solomon Museum is a notable institution in Berat detailing the history of the local Jewish community.",
+                  "category": "museum",
+                  "coords": [
+                        19.950432,
+                        40.706568
+                  ]
+            },
+            {
+                  "name": "Gorica Fort",
+                  "text": "Gorica Fort is an ancient fortification ruin located in Berat.",
+                  "category": "fortress",
+                  "coords": [
+                        19.943973,
+                        40.700388
+                  ]
+            },
+            {
+                  "name": "Berat National Ethnographic Museum",
+                  "text": "The Berat National Ethnographic Museum is a notable museum showcasing traditional local life and culture in Berat.",
+                  "category": "museum",
+                  "coords": [
+                        19.950388,
+                        40.707671
+                  ]
+            },
+            {
+                  "name": "Banesa e Dud Mishaxhiut",
+                  "text": "Banesa e Dud Mishaxhiut is a recognized historical monument situated in Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.952512,
+                        40.707086
+                  ]
+            },
+            {
+                  "name": "King’s Mosque",
+                  "text": "The King's Mosque is a prominent historical attraction and religious site in Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.952045,
+                        40.705682
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "The Holy Trinity Church is a notable historical attraction located in Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.944432,
+                        40.707858
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Todrit",
+                  "text": "Kisha e Shën Todrit, or Church of St. Theodore, is a historical attraction in Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.946288,
+                        40.709949
+                  ]
+            },
+            {
+                  "name": "Red Mosque",
+                  "text": "The Red Mosque is a significant ruined historical site located in Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.945862,
+                        40.707088
+                  ]
+            },
+            {
+                  "name": "Lead Mosque",
+                  "text": "The Lead Mosque is a well-known historical attraction in Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.955434,
+                        40.704572
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Spiridhonit",
+                  "text": "Kisha e Shën Spiridhonit is a recognized historical attraction in the city of Berat.",
+                  "category": "landmark",
+                  "coords": [
+                        19.946864,
+                        40.702365
+                  ]
+            },
+            {
+                  "name": "Banesa e Bozho Filerit",
+                  "text": "Banesa e Bozho Filerit is a notable historical monument located in Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.945818,
+                        40.701977
+                  ]
+            },
+            {
+                  "name": "Lapidar WW2",
+                  "text": "Lapidar WW2 is a monument in Berat commemorating the events of the Second World War.",
+                  "category": "historical",
+                  "coords": [
+                        19.946784,
+                        40.711396
+                  ]
+            },
+            {
+                  "name": "Tv tower",
+                  "text": "The TV tower in Berat serves as a prominent viewpoint over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        19.948281,
+                        40.697754
+                  ]
+            },
+            {
+                  "name": "Gorica Bridge",
+                  "text": "Gorica Bridge is a historical viewpoint offering scenic views of Berat.",
+                  "category": "natural",
+                  "coords": [
+                        19.944617,
+                        40.703245
+                  ]
+            },
+            {
+                  "name": "Sunrise Point",
+                  "text": "Sunrise Point is a scenic viewpoint in Berat, ideal for observing the morning sky.",
+                  "category": "natural",
+                  "coords": [
+                        19.947683,
+                        40.704819
+                  ]
+            },
+            {
+                  "name": "Art Gallery \"Edward Lear\"",
+                  "text": "The Art Gallery \"Edward Lear\" is a cultural venue showcasing artworks in Berat.",
+                  "category": "museum",
+                  "coords": [
+                        19.950859,
+                        40.705125
+                  ]
+            },
+            {
+                  "name": "Berat Clock Tower",
+                  "text": "The Berat Clock Tower is a distinctive historical monument in the city of Berat.",
+                  "category": "historical",
+                  "coords": [
+                        19.940421,
+                        40.706474
+                  ]
+            }
+      ]
+},
     name: { de: "Berat", hu: "Berat", ro: "Berat", en: "Berat" },
     description: { de: "Stadt der tausend Fenster", hu: "Az ezer ablak városa", ro: "Orașul celor o mie de ferestre", en: "City of a thousand windows" , es: "La ciudad de las mil ventanas.", pt: "A cidade das mil janelas.", fr: "La ville aux mille fenêtres."},
     descriptionAdvanced: {

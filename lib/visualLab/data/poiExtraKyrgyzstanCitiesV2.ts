@@ -56,7 +56,412 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       en: ["Established in 1825 as a mud fort by the Khanate of Kokand.", "Renamed Frunze in 1926 after Bolshevik leader Mikhail Frunze.", "The city sits at an altitude of approximately 800 meters (2,600 ft).", "It reached a population milestone of 1 million in 2018.", "Features over 20 large public parks and botanical gardens.", "The city is divided into four administrative districts.", "Bishkek's Manas International Airport is a major regional hub.", "The Chuy River flows just north of the city limits."],
     }, image: "/poi-images/bishkek-cities-v2.webp"},
   {
-    id: "osh-cities-v2",
+    id: "osh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Историко-этнографический музей Сулайман-Тоо",
+                  "text": "Das Историко-этнографический музей Сулайман-Тоо ist ein bedeutender historischer Museumskomplex in Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.783732,
+                        40.52866
+                  ]
+            },
+            {
+                  "name": "Usbekisches Babur-Musik- und Dramentheater Osch",
+                  "text": "Das Osh State Academic Uzbek Music and Drama Theater named after Babur ist ein bekanntes usbekisches Theater in der Stadt Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.796773,
+                        40.533082
+                  ]
+            },
+            {
+                  "name": "Археологический музей",
+                  "text": "Das Archeological Museum ist ein Museum in der Stadt Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.79281,
+                        40.529636
+                  ]
+            },
+            {
+                  "name": "Alumbek Datka Museum",
+                  "text": "Das Alumbek Datka Museum ist ein Museum in der Stadt Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.793743,
+                        40.529932
+                  ]
+            },
+            {
+                  "name": "Поселение бронзового века",
+                  "text": "Bronze Age settlement ist eine archäologische Stätte in der Stadt Osch.",
+                  "category": "historical",
+                  "coords": [
+                        72.780857,
+                        40.52883
+                  ]
+            },
+            {
+                  "name": "Султан Ибраимов атындагы Ош улуттук драма театры",
+                  "text": "Султан Ибраимов атындагы Ош улуттук драма театры ist ein Theater in der Stadt Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.801377,
+                        40.519994
+                  ]
+            },
+            {
+                  "name": "Ошская областная филармония им.Р.Абдыкадырова",
+                  "text": "Ошская областная филармония им.Р.Абдыкадырова ist ein Theater in der Stadt Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.795488,
+                        40.536773
+                  ]
+            },
+            {
+                  "name": "Тургунбай Садыков атындагы Ош облустук корком сурот музейи",
+                  "text": "Das Turgunbai Sadykov Osh Regional Museum of Fine Arts ist ein Museum in der Stadt Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.792211,
+                        40.531952
+                  ]
+            },
+            {
+                  "name": "Бел таш",
+                  "text": "Бел таш ist eine Sehenswürdigkeit in der Stadt Osch.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79018,
+                        40.530554
+                  ]
+            },
+            {
+                  "name": "Памятник Курманжан Датка",
+                  "text": "Памятник Курманжан Датка ist eine Sehenswürdigkeit in der Stadt Osch.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79504,
+                        40.527302
+                  ]
+            },
+            {
+                  "name": "Ошская специальная детская художественная школа им. Г. Айтиева",
+                  "text": "Ошская специальная детская художественная школа им. Г. Айтиева ist ein Kunstzentrum in der Stadt Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.791699,
+                        40.529132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Историко-этнографический музей Сулайман-Тоо",
+                  "text": "A Историко-этнографический музей Сулайман-Тоо egy történelmi múzeumkomplexum Osch városában.",
+                  "category": "museum",
+                  "coords": [
+                        72.783732,
+                        40.52866
+                  ]
+            },
+            {
+                  "name": "Узбекский драматический театр им. З. М. Бабура",
+                  "text": "Az Osh State Academic Uzbek Music and Drama Theater named after Babur egy ismert üzbég színház Osch városában.",
+                  "category": "cultural",
+                  "coords": [
+                        72.796773,
+                        40.533082
+                  ]
+            },
+            {
+                  "name": "Археологический музей",
+                  "text": "Az Archeological Museum egy múzeum Osch városában.",
+                  "category": "museum",
+                  "coords": [
+                        72.79281,
+                        40.529636
+                  ]
+            },
+            {
+                  "name": "Alumbek Datka Museum",
+                  "text": "Az Alumbek Datka Museum egy múzeum Osch városában.",
+                  "category": "museum",
+                  "coords": [
+                        72.793743,
+                        40.529932
+                  ]
+            },
+            {
+                  "name": "Поселение бронзового века",
+                  "text": "A Bronze Age settlement egy régészeti lelőhely Osch városában.",
+                  "category": "historical",
+                  "coords": [
+                        72.780857,
+                        40.52883
+                  ]
+            },
+            {
+                  "name": "Султан Ибраимов атындагы Ош улуттук драма театры",
+                  "text": "A Султан Ибраимов атындагы Ош улуттук драма театры egy színház Osch városában.",
+                  "category": "cultural",
+                  "coords": [
+                        72.801377,
+                        40.519994
+                  ]
+            },
+            {
+                  "name": "Ошская областная филармония им.Р.Абдыкадырова",
+                  "text": "A Ошская областная филармония им.Р.Абдыкадырова egy színház Osch városában.",
+                  "category": "cultural",
+                  "coords": [
+                        72.795488,
+                        40.536773
+                  ]
+            },
+            {
+                  "name": "Тургунбай Садыков атындагы Ош облустук корком сурот музейи",
+                  "text": "A Turgunbai Sadykov Osh Regional Museum of Fine Arts egy múzeum Osch városában.",
+                  "category": "museum",
+                  "coords": [
+                        72.792211,
+                        40.531952
+                  ]
+            },
+            {
+                  "name": "Бел таш",
+                  "text": "A Бел таш egy turisztikai látványosság Osch városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79018,
+                        40.530554
+                  ]
+            },
+            {
+                  "name": "Памятник Курманжан Датка",
+                  "text": "A Памятник Курманжан Датка egy turisztikai látványosság Osch városában.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79504,
+                        40.527302
+                  ]
+            },
+            {
+                  "name": "Ошская специальная детская художественная школа им. Г. Айтиева",
+                  "text": "A Ошская специальная детская художественная школа им. Г. Айтиева egy művészeti központ Osch városában.",
+                  "category": "cultural",
+                  "coords": [
+                        72.791699,
+                        40.529132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Историко-этнографический музей Сулайман-Тоо",
+                  "text": "Историко-этнографический музей Сулайман-Тоо este un complex muzeal istoric din orașul Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.783732,
+                        40.52866
+                  ]
+            },
+            {
+                  "name": "Узбекский драматический театр им. З. М. Бабура",
+                  "text": "Osh State Academic Uzbek Music and Drama Theater named after Babur este un teatru uzbec recunoscut din orașul Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.796773,
+                        40.533082
+                  ]
+            },
+            {
+                  "name": "Археологический музей",
+                  "text": "Archeological Museum este un muzeu din orașul Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.79281,
+                        40.529636
+                  ]
+            },
+            {
+                  "name": "Alumbek Datka Museum",
+                  "text": "Alumbek Datka Museum este un muzeu din orașul Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.793743,
+                        40.529932
+                  ]
+            },
+            {
+                  "name": "Поселение бронзового века",
+                  "text": "Bronze Age settlement este un sit arheologic din orașul Osch.",
+                  "category": "historical",
+                  "coords": [
+                        72.780857,
+                        40.52883
+                  ]
+            },
+            {
+                  "name": "Султан Ибраимов атындагы Ош улуттук драма театры",
+                  "text": "Султан Ибраимов атындагы Ош улуттук драма театры este un teatru din orașul Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.801377,
+                        40.519994
+                  ]
+            },
+            {
+                  "name": "Ошская областная филармония им.Р.Абдыкадырова",
+                  "text": "Ошская областная филармония им.Р.Абдыкадырова este un teatru din orașul Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.795488,
+                        40.536773
+                  ]
+            },
+            {
+                  "name": "Тургунбай Садыков атындагы Ош облустук корком сурот музейи",
+                  "text": "Turgunbai Sadykov Osh Regional Museum of Fine Arts este un muzeu din orașul Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.792211,
+                        40.531952
+                  ]
+            },
+            {
+                  "name": "Бел таш",
+                  "text": "Бел таш este o atracție turistică în orașul Osch.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79018,
+                        40.530554
+                  ]
+            },
+            {
+                  "name": "Памятник Курманжан Датка",
+                  "text": "Памятник Курманжан Датка este o atracție turistică în orașul Osch.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79504,
+                        40.527302
+                  ]
+            },
+            {
+                  "name": "Ошская специальная детская художественная школа им. Г. Айтиева",
+                  "text": "Ошская специальная детская художественная школа им. Г. Айтиева este un centru de artă din orașul Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.791699,
+                        40.529132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Историко-этнографический музей Сулайман-Тоо",
+                  "text": "The Историко-этнографический музей Сулайман-Тоо is a major historical museum complex located in Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.783732,
+                        40.52866
+                  ]
+            },
+            {
+                  "name": "Osh State Academic Uzbek Music and Drama Theater named after Babur",
+                  "text": "The Osh State Academic Uzbek Music and Drama Theater named after Babur is a notable theater located in Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.796773,
+                        40.533082
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "The Archeological Museum is a museum located in the city of Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.79281,
+                        40.529636
+                  ]
+            },
+            {
+                  "name": "Alumbek Datka Museum",
+                  "text": "The Alumbek Datka Museum is a museum located in the city of Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.793743,
+                        40.529932
+                  ]
+            },
+            {
+                  "name": "Bronze Age settlement",
+                  "text": "Bronze Age settlement is an archaeological site located in the city of Osch.",
+                  "category": "historical",
+                  "coords": [
+                        72.780857,
+                        40.52883
+                  ]
+            },
+            {
+                  "name": "Султан Ибраимов атындагы Ош улуттук драма театры",
+                  "text": "Султан Ибраимов атындагы Ош улуттук драма театры is a theatre located in the city of Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.801377,
+                        40.519994
+                  ]
+            },
+            {
+                  "name": "Ошская областная филармония им.Р.Абдыкадырова",
+                  "text": "Ошская областная филармония им.Р.Абдыкадырова is a theatre located in the city of Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.795488,
+                        40.536773
+                  ]
+            },
+            {
+                  "name": "Turgunbai Sadykov Osh Regional Museum of Fine Arts",
+                  "text": "The Turgunbai Sadykov Osh Regional Museum of Fine Arts is a museum located in the city of Osch.",
+                  "category": "museum",
+                  "coords": [
+                        72.792211,
+                        40.531952
+                  ]
+            },
+            {
+                  "name": "Бел таш",
+                  "text": "Бел таш is a tourist attraction located in the city of Osch.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79018,
+                        40.530554
+                  ]
+            },
+            {
+                  "name": "Памятник Курманжан Датка",
+                  "text": "Памятник Курманжан Датка is a tourist attraction located in the city of Osch.",
+                  "category": "landmark",
+                  "coords": [
+                        72.79504,
+                        40.527302
+                  ]
+            },
+            {
+                  "name": "Ошская специальная детская художественная школа им. Г. Айтиева",
+                  "text": "Ошская специальная детская художественная школа им. Г. Айтиева is an arts centre located in the city of Osch.",
+                  "category": "cultural",
+                  "coords": [
+                        72.791699,
+                        40.529132
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-GO",
     coords: [72.8, 40.53],
@@ -115,7 +520,196 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Revendique plus de 3000 ans d'histoire humaine.", "Considérée comme la 'capitale du Sud' du Kirghizistan.", "La Soulaïman-Too est le seul site de la ville classé à l'UNESCO.", "Le bazar de Jayma s'étend sur plus d'un kilomètre le long de la rivière Ak-Buura.", "Constituait un carrefour névralgique sur la Route de la Soie.", "Abrite la plus grande statue de Lénine d'Asie centrale.", "La ville est un véritable creuset des cultures kirghize et ouzbèke."],
     }, image: "/poi-images/osh-cities-v2.webp"},
   {
-    id: "jalal-abad-cities-v2",
+    id: "jalal-abad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Барпы Алыкулов",
+                  "text": "Барпы Алыкулов ist ein Theater in der Stadt Dschalalabat.",
+                  "category": "cultural",
+                  "coords": [
+                        73.007413,
+                        40.929477
+                  ]
+            },
+            {
+                  "name": "Филармония",
+                  "text": "Die Philharmonie in Dschalalabat ist ein Zentrum für musikalische und theatralische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992571,
+                        40.940305
+                  ]
+            },
+            {
+                  "name": "Историко-Краеведческий музей",
+                  "text": "Das Geschichts- und Heimatmuseum in Dschalalabat bewahrt die regionale Geschichte und das Erbe.",
+                  "category": "museum",
+                  "coords": [
+                        73.010748,
+                        40.927066
+                  ]
+            },
+            {
+                  "name": "Вид на Джалал-Абад",
+                  "text": "Dieser Aussichtspunkt bietet einen malerischen Panoramablick über die Stadt Dschalalabat.",
+                  "category": "natural",
+                  "coords": [
+                        73.020875,
+                        40.940372
+                  ]
+            },
+            {
+                  "name": "Знак Жалал-Абад",
+                  "text": "Знак Жалал-Абад ist ein markantes Wahrzeichen und eine lokale Attraktion in Dschalalabat.",
+                  "category": "landmark",
+                  "coords": [
+                        73.011722,
+                        40.922981
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Барпы Алыкулов",
+                  "text": "A Барпы Алыкулов egy színház Dzsalalabad városában.",
+                  "category": "cultural",
+                  "coords": [
+                        73.007413,
+                        40.929477
+                  ]
+            },
+            {
+                  "name": "Филармония",
+                  "text": "A dzsalalabadi Filharmónia a zenei és színházi előadások központja.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992571,
+                        40.940305
+                  ]
+            },
+            {
+                  "name": "Историко-Краеведческий музей",
+                  "text": "A dzsalalabadi Történeti és Helytörténeti Múzeum a régió történelmét és örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        73.010748,
+                        40.927066
+                  ]
+            },
+            {
+                  "name": "Вид на Джалал-Абад",
+                  "text": "Ez a kilátó festői panorámát kínál Dzsalalabad városára.",
+                  "category": "natural",
+                  "coords": [
+                        73.020875,
+                        40.940372
+                  ]
+            },
+            {
+                  "name": "Знак Жалал-Абад",
+                  "text": "A Знак Жалал-Абад egy jellegzetes nevezetesség és helyi látványosság Dzsalalabadban.",
+                  "category": "landmark",
+                  "coords": [
+                        73.011722,
+                        40.922981
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Барпы Алыкулов",
+                  "text": "Барпы Алыкулов este un teatru situat în orașul Dschalalabat.",
+                  "category": "cultural",
+                  "coords": [
+                        73.007413,
+                        40.929477
+                  ]
+            },
+            {
+                  "name": "Филармония",
+                  "text": "Filarmonica din Dschalalabat este un centru pentru spectacole muzicale și teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992571,
+                        40.940305
+                  ]
+            },
+            {
+                  "name": "Историко-Краеведческий музей",
+                  "text": "Muzeul de istorie și tradiții locale din Dschalalabat păstrează istoria și patrimoniul regional.",
+                  "category": "museum",
+                  "coords": [
+                        73.010748,
+                        40.927066
+                  ]
+            },
+            {
+                  "name": "Вид на Джалал-Абад",
+                  "text": "Acest punct de belvedere oferă o vedere panoramică pitorească asupra orașului Dschalalabat.",
+                  "category": "natural",
+                  "coords": [
+                        73.020875,
+                        40.940372
+                  ]
+            },
+            {
+                  "name": "Знак Жалал-Абад",
+                  "text": "Знак Жалал-Абад este un reper distinctiv și o atracție locală în Dschalalabat.",
+                  "category": "landmark",
+                  "coords": [
+                        73.011722,
+                        40.922981
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Барпы Алыкулов",
+                  "text": "Барпы Алыкулов is a theatre venue located in the city of Dschalalabat.",
+                  "category": "cultural",
+                  "coords": [
+                        73.007413,
+                        40.929477
+                  ]
+            },
+            {
+                  "name": "Филармония",
+                  "text": "The Philharmonia in Dschalalabat is a centre for musical and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        72.992571,
+                        40.940305
+                  ]
+            },
+            {
+                  "name": "History and local lore museum",
+                  "text": "The History and local lore museum in Dschalalabat preserves the regional history and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        73.010748,
+                        40.927066
+                  ]
+            },
+            {
+                  "name": "Viewpoint over Jalal-Abad",
+                  "text": "This viewpoint offers a scenic panoramic view over the city of Dschalalabat.",
+                  "category": "natural",
+                  "coords": [
+                        73.020875,
+                        40.940372
+                  ]
+            },
+            {
+                  "name": "Знак Жалал-Абад",
+                  "text": "Знак Жалал-Абад is a distinct landmark and local attraction in Dschalalabat.",
+                  "category": "landmark",
+                  "coords": [
+                        73.011722,
+                        40.922981
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-J",
     coords: [73.0, 40.93],
@@ -174,7 +768,232 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Connue pour ses sources minérales et thermales radioactives.", "Le sanatorium 'Djalal-Abad' est célèbre depuis l'époque tsariste.", "La ville est située en bordure des plus grandes forêts de noyers au monde.", "Est le centre administratif de la région fertile de Djalal-Abad.", "La légende veut que les forêts d'Arslanbob aient été visitées par Alexandre le Grand.", "Importance économique grâce au traitement du coton et du tabac.", "Fondée en 1877 comme colonie autour des sources thermales."],
     }, image: "/poi-images/jalal-abad-cities-v2.webp"},
   {
-    id: "karakol-cities-v2",
+    id: "karakol-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Историко-краеведческий музей Каракола",
+                  "text": "Regionalmuseum in Karakol.",
+                  "category": "museum",
+                  "coords": [
+                        78.391577,
+                        42.489426
+                  ]
+            },
+            {
+                  "name": "Музыкальный драматический театр",
+                  "text": "Musikalisches und dramatisches Theater in Karakol.",
+                  "category": "cultural",
+                  "coords": [
+                        78.398527,
+                        42.489625
+                  ]
+            },
+            {
+                  "name": "Иллюzион",
+                  "text": "Freizeitpark in Karakol.",
+                  "category": "recreational",
+                  "coords": [
+                        78.393208,
+                        42.492539
+                  ]
+            },
+            {
+                  "name": "Ypkyh",
+                  "text": "Das Ypkyh ist ein Monument in Karakol.",
+                  "category": "historical",
+                  "coords": [
+                        78.40785,
+                        42.483536
+                  ]
+            },
+            {
+                  "name": "Собор Святой Троицы",
+                  "text": "Die Heilige Dreifaltigkeitskathedrale ist eine bedeutende Sehenswürdigkeit in Karakol.",
+                  "category": "landmark",
+                  "coords": [
+                        78.394851,
+                        42.489123
+                  ]
+            },
+            {
+                  "name": "Main Bazaar",
+                  "text": "Der Hauptbasar von Karakol bietet einen Einblick in den lokalen Handel.",
+                  "category": "landmark",
+                  "coords": [
+                        78.385006,
+                        42.493416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Историко-краеведческий музей Каракола",
+                  "text": "Helytörténeti múzeum Karakolban.",
+                  "category": "museum",
+                  "coords": [
+                        78.391577,
+                        42.489426
+                  ]
+            },
+            {
+                  "name": "Музыкальный драматический театр",
+                  "text": "Zenés drámai színház Karakolban.",
+                  "category": "cultural",
+                  "coords": [
+                        78.398527,
+                        42.489625
+                  ]
+            },
+            {
+                  "name": "Иллюzион",
+                  "text": "Vidámpark Karakolban.",
+                  "category": "recreational",
+                  "coords": [
+                        78.393208,
+                        42.492539
+                  ]
+            },
+            {
+                  "name": "Ypkyh",
+                  "text": "Az Ypkyh egy emlékmű Karakolban.",
+                  "category": "historical",
+                  "coords": [
+                        78.40785,
+                        42.483536
+                  ]
+            },
+            {
+                  "name": "Собор Святой Троицы",
+                  "text": "A Szent Háromság-székesegyház egy jelentős látnivaló Karakolban.",
+                  "category": "landmark",
+                  "coords": [
+                        78.394851,
+                        42.489123
+                  ]
+            },
+            {
+                  "name": "Main Bazaar",
+                  "text": "Karakol fő bazárja betekintést nyújt a helyi kereskedelembe.",
+                  "category": "landmark",
+                  "coords": [
+                        78.385006,
+                        42.493416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Историко-краеведческий музей Каракола",
+                  "text": "Muzeu regional în Karakol.",
+                  "category": "museum",
+                  "coords": [
+                        78.391577,
+                        42.489426
+                  ]
+            },
+            {
+                  "name": "Музыкальный драматический театр",
+                  "text": "Teatru muzical și dramatic în Karakol.",
+                  "category": "cultural",
+                  "coords": [
+                        78.398527,
+                        42.489625
+                  ]
+            },
+            {
+                  "name": "Иллюzион",
+                  "text": "Parc tematic în Karakol.",
+                  "category": "recreational",
+                  "coords": [
+                        78.393208,
+                        42.492539
+                  ]
+            },
+            {
+                  "name": "Ypkyh",
+                  "text": "Ypkyh este un monument în Karakol.",
+                  "category": "historical",
+                  "coords": [
+                        78.40785,
+                        42.483536
+                  ]
+            },
+            {
+                  "name": "Собор Святой Троицы",
+                  "text": "Catedrala Sfânta Treime este un obiectiv turistic important în Karakol.",
+                  "category": "landmark",
+                  "coords": [
+                        78.394851,
+                        42.489123
+                  ]
+            },
+            {
+                  "name": "Main Bazaar",
+                  "text": "Bazarul principal din Karakol oferă o incursiune în comerțul local.",
+                  "category": "landmark",
+                  "coords": [
+                        78.385006,
+                        42.493416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karakol historical regional study museum",
+                  "text": "Regional museum in Karakol.",
+                  "category": "museum",
+                  "coords": [
+                        78.391577,
+                        42.489426
+                  ]
+            },
+            {
+                  "name": "Музыкальный драматический театр",
+                  "text": "Musical and drama theatre in Karakol.",
+                  "category": "cultural",
+                  "coords": [
+                        78.398527,
+                        42.489625
+                  ]
+            },
+            {
+                  "name": "Иллюzион",
+                  "text": "Theme park in Karakol.",
+                  "category": "recreational",
+                  "coords": [
+                        78.393208,
+                        42.492539
+                  ]
+            },
+            {
+                  "name": "Ypkyh",
+                  "text": "Ypkyh is a monument in Karakol.",
+                  "category": "historical",
+                  "coords": [
+                        78.40785,
+                        42.483536
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "The Holy Trinity Cathedral is a significant attraction in Karakol.",
+                  "category": "landmark",
+                  "coords": [
+                        78.394851,
+                        42.489123
+                  ]
+            },
+            {
+                  "name": "Main Bazaar",
+                  "text": "The Main Bazaar of Karakol offers an insight into local trade.",
+                  "category": "landmark",
+                  "coords": [
+                        78.385006,
+                        42.493416
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-Y",
     coords: [78.38, 42.49],
@@ -410,7 +1229,88 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Est la capitale provinciale la plus haute du Kirghizistan (2 020 m).", "A été fondée en 1868 comme garnison russe sur la Route de la Soie.", "La rivière Naryn divise la ville en deux parties.", "Connue pour ses hivers extrêmement froids pouvant atteindre -40 degrés.", "Abrite un campus de l'Université d'Asie centrale (UCA).", "La ville fait près de 15 km de long, mais souvent seulement quelques centaines de mètres de large.", "Une base importante pour le commerce frontalier avec la Chine."],
     }, image: "/poi-images/naryn-cities-v2.webp"},
   {
-    id: "uzgen-cities-v2",
+    id: "uzgen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Узгенский археологический и архитектурный музейный комплекс",
+                  "text": "Özgön Historical Complex ist eine archäologische Stätte in der Stadt Ösgön.",
+                  "category": "historical",
+                  "coords": [
+                        73.298997,
+                        40.768249
+                  ]
+            },
+            {
+                  "name": "Озгон Мунарасы",
+                  "text": "Uzgen Minaret ist eine Sehenswürdigkeit in der Stadt Ösgön.",
+                  "category": "landmark",
+                  "coords": [
+                        73.297975,
+                        40.769008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Узгенский археологический и архитектурный музейный комплекс",
+                  "text": "Az Özgön Historical Complex egy régészeti lelőhely Ösgön városában.",
+                  "category": "historical",
+                  "coords": [
+                        73.298997,
+                        40.768249
+                  ]
+            },
+            {
+                  "name": "Озгон Мунарасы",
+                  "text": "Az Uzgen Minaret egy turisztikai látványosság Ösgön városában.",
+                  "category": "landmark",
+                  "coords": [
+                        73.297975,
+                        40.769008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Узгенский археологический и архитектурный музейный комплекс",
+                  "text": "Özgön Historical Complex este un sit arheologic din orașul Ösgön.",
+                  "category": "historical",
+                  "coords": [
+                        73.298997,
+                        40.768249
+                  ]
+            },
+            {
+                  "name": "Озгон Мунарасы",
+                  "text": "Uzgen Minaret este o atracție turistică în orașul Ösgön.",
+                  "category": "landmark",
+                  "coords": [
+                        73.297975,
+                        40.769008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Özgön Historical Complex",
+                  "text": "Özgön Historical Complex is an archaeological site located in the city of Ösgön.",
+                  "category": "historical",
+                  "coords": [
+                        73.298997,
+                        40.768249
+                  ]
+            },
+            {
+                  "name": "Uzgen Minaret",
+                  "text": "The Uzgen Minaret is a tourist attraction located in the city of Ösgön.",
+                  "category": "landmark",
+                  "coords": [
+                        73.297975,
+                        40.769008
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-O",
     coords: [73.3, 40.77],
@@ -469,7 +1369,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Fut la capitale de l'empire Qarakhanide au XIe siècle.", "Possède trois mausolées médiévaux parfaitement conservés.", "Le minaret d'Uzgen est l'un des plus anciens du pays.", "Est célèbre pour la production de riz rouge Devzira.", "Bénéficie d'une histoire de plus de 2000 ans.", "La majorité de la population appartient à la minorité ouzbèke.", "Située sur les rives de la rivière Kara Darya dans la vallée de Ferghana."],
     }, image: "/poi-images/uzgen-cities-v2.webp"},
   {
-    id: "balykchy-cities-v2",
+    id: "balykchy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Городской пляж",
+                  "text": "Городской пляж ist ein öffentlicher Stadtstrand in Balyktschy.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198803,
+                        42.451734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Городской пляж",
+                  "text": "A Городской пляж egy nyilvános városi strand Balikcsi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198803,
+                        42.451734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Городской пляж",
+                  "text": "Городской пляж este o plajă publică orășenească situată în Balyktschy.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198803,
+                        42.451734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Городской пляж",
+                  "text": "Городской пляж is a public city beach situated in Balyktschy.",
+                  "category": "recreational",
+                  "coords": [
+                        76.198803,
+                        42.451734
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-Y",
     coords: [76.18, 42.46],
@@ -528,7 +1473,88 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Le nom signifie littéralement 'pêcheur' en kirghize.", "Est le terminus de l'unique ligne de chemin de fer de Bichkek.", "Était un centre industriel et de pêche majeur à l'époque soviétique.", "S'est appelée Rybatchye de 1954 à 1989.", "Située sur la rive ouest venteuse du lac Issyk-Koul.", "Sert de plaque tournante du transport pour toute la zone du lac.", "Était une cale sèche pour les tests de navires pendant l'URSS."],
     }, image: "/poi-images/balykchy-cities-v2.webp"},
   {
-    id: "talas-cities-v2",
+    id: "talas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Роллер-клуб",
+                  "text": "Der Roller-Club ist ein Freizeitpark in Talas.",
+                  "category": "recreational",
+                  "coords": [
+                        72.249863,
+                        42.516439
+                  ]
+            },
+            {
+                  "name": "К.Медетбеков атындагы музыкалык драма-театры",
+                  "text": "Das K.-Medetbekow-Musik- und Dramatheater ist eine kulturelle Einrichtung in Talas.",
+                  "category": "cultural",
+                  "coords": [
+                        72.251623,
+                        42.525232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Роллер-клуб",
+                  "text": "A Roller-Club egy vidámpark Talasban.",
+                  "category": "recreational",
+                  "coords": [
+                        72.249863,
+                        42.516439
+                  ]
+            },
+            {
+                  "name": "К.Медетбеков атындагы музыкалык драма-театры",
+                  "text": "A K. Medetbekov Zenei és Drámai Színház egy kulturális intézmény Talasban.",
+                  "category": "cultural",
+                  "coords": [
+                        72.251623,
+                        42.525232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Роллер-клуб",
+                  "text": "Roller-Club este un parc tematic în Talas.",
+                  "category": "recreational",
+                  "coords": [
+                        72.249863,
+                        42.516439
+                  ]
+            },
+            {
+                  "name": "К.Медетбеков атындагы музыкалык драма-театры",
+                  "text": "Teatrul de Muzică și Dramă K. Medetbekov este o instituție culturală în Talas.",
+                  "category": "cultural",
+                  "coords": [
+                        72.251623,
+                        42.525232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Роллер-клуб",
+                  "text": "Roller-Club is a theme park in Talas.",
+                  "category": "recreational",
+                  "coords": [
+                        72.249863,
+                        42.516439
+                  ]
+            },
+            {
+                  "name": "К.Медетбеков атындагы музыкалык драма-театры",
+                  "text": "The K. Medetbekov Music and Drama Theatre is a cultural venue in Talas.",
+                  "category": "cultural",
+                  "coords": [
+                        72.251623,
+                        42.525232
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-T",
     coords: [72.24, 42.52],
@@ -825,7 +1851,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Abrite l'un des plus grands marchés d'Asie centrale.", "Est séparée de la ville ouzbèke de Qorasuv par un canal.", "Est une plaque tournante massive pour les marchandises en provenance de Chine.", "La ville est ethniquement très mixte (Kirghizes/Ouzbèkes).", "Se situe à seulement 25 km au nord-est d'Osh.", "Économiquement presque entièrement orientée vers le commerce.", "Un nœud ferroviaire important dans la vallée de Ferghana."],
     }, image: "/poi-images/kara-suu-cities-v2.webp"},
   {
-    id: "tash-kumyr-cities-v2",
+    id: "tash-kumyr-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Парк",
+                  "text": "Dieser lokale Themenpark bietet Vergnügung und Freizeitaktivitäten in Tasch-Kömür.",
+                  "category": "recreational",
+                  "coords": [
+                        72.224587,
+                        41.344993
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Парк",
+                  "text": "Ez a helyi vidámpark szórakozási és rekreációs lehetőségeket kínál Taskömürben.",
+                  "category": "recreational",
+                  "coords": [
+                        72.224587,
+                        41.344993
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Парк",
+                  "text": "Acest parc tematic local oferă activități de amuzament și recreere în Tasch-Kömür.",
+                  "category": "recreational",
+                  "coords": [
+                        72.224587,
+                        41.344993
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Парк",
+                  "text": "This local theme park provides amusement and recreational activities in Tasch-Kömür.",
+                  "category": "recreational",
+                  "coords": [
+                        72.224587,
+                        41.344993
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-J",
     coords: [72.22, 41.35],
@@ -1002,7 +2073,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Est le centre de la production de pétrole au Kirghizistan.", "Siège de l'entreprise d'État 'Kyrgyzneftegas'.", "A été fondée en 1952 en tant qu'établissement pour les travailleurs du pétrole.", "Son nom signifie 'Père des Béliers'.", "Située sur la route stratégique entre Osh et Jalal-Abad.", "Possède un stade important et un club de football performant.", "La ville est marquée par les pompes et les installations pétrolières."],
     }, image: "/poi-images/kochkor-ata-cities-v2.webp"},
   {
-    id: "kant-cities-v2",
+    id: "kant-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Дубовый парк",
+                  "text": "Дубовый парк ist ein attraktiver lokaler Park und eine bekannte Sehenswürdigkeit in Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.850478,
+                        42.90077
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Дубовый парк",
+                  "text": "A Дубовый парк egy vonzó helyi park és egy ismert látványosság Kant városában.",
+                  "category": "landmark",
+                  "coords": [
+                        74.850478,
+                        42.90077
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Дубовый парк",
+                  "text": "Дубовый парк este un parc local atractiv, cunoscut ca o atracție notabilă în Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.850478,
+                        42.90077
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Дубовый парк",
+                  "text": "Дубовый парк is an attractive local park known as a notable sight in Kant.",
+                  "category": "landmark",
+                  "coords": [
+                        74.850478,
+                        42.90077
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-C",
     coords: [74.85, 42.89],
@@ -1061,7 +2177,232 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Abrite une importante base aérienne russe.", "Nommée d'après le philosophe allemand Emmanuel Kant.", "Était autrefois un centre pour les Allemands du Kirghizistan.", "Possède une grande cimenterie et des entreprises agroalimentaires.", "Située à seulement 20 km environ à l'est de la capitale Bichkek.", "Considérée comme l'une des petites villes les plus développées industriellement.", "La région est connue pour la culture de la betterave sucrière."],
     }, image: "/poi-images/kant-cities-v2.webp"},
   {
-    id: "cholpon-ata-cities-v2",
+    id: "cholpon-ata-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Petroglyph with hunting scene",
+                  "text": "Diese archäologische Stätte in Scholpon-Ata zeigt Felszeichnungen mit einer Jagdszene.",
+                  "category": "historical",
+                  "coords": [
+                        77.055628,
+                        42.658304
+                  ]
+            },
+            {
+                  "name": "краеведческий музей Иссык-Куля",
+                  "text": "Das staatliche historische und kulturelle Museum von Issyk-Kul befindet sich in Scholpon-Ata.",
+                  "category": "museum",
+                  "coords": [
+                        77.0876,
+                        42.650462
+                  ]
+            },
+            {
+                  "name": "Zaton",
+                  "text": "Zaton ist ein Freizeitpark in Scholpon-Ata.",
+                  "category": "recreational",
+                  "coords": [
+                        77.086785,
+                        42.640317
+                  ]
+            },
+            {
+                  "name": "«Рух Ордо» Ч. Айтматов атындагы маданий борбору",
+                  "text": "Das Kulturzentrum Ruh Ordo in Scholpon-Ata ist ein bekanntes Museum.",
+                  "category": "museum",
+                  "coords": [
+                        77.095651,
+                        42.647825
+                  ]
+            },
+            {
+                  "name": "Иссык-Кульский Государственный историко-культурный музей-заповедник",
+                  "text": "Diese archäologische Stätte beherbergt die berühmten Felszeichnungen von Scholpon-Ata.",
+                  "category": "historical",
+                  "coords": [
+                        77.057034,
+                        42.660717
+                  ]
+            },
+            {
+                  "name": "Кумбоз Чолпон-Ата",
+                  "text": "Das Kumboz-Monument in Scholpon-Ata ist ein historisches Denkmal.",
+                  "category": "historical",
+                  "coords": [
+                        77.055605,
+                        42.639244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Petroglyph with hunting scene",
+                  "text": "Ez a régészeti lelőhely Scholpon-Atában egy vadászjelenetet ábrázoló sziklarajzot mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        77.055628,
+                        42.658304
+                  ]
+            },
+            {
+                  "name": "краеведческий музей Иссык-Куля",
+                  "text": "Az Issyk-Kul Állami Történeti és Kulturális Múzeum Scholpon-Atában található.",
+                  "category": "museum",
+                  "coords": [
+                        77.0876,
+                        42.650462
+                  ]
+            },
+            {
+                  "name": "Zaton",
+                  "text": "A Zaton egy vidámpark Scholpon-Atában.",
+                  "category": "recreational",
+                  "coords": [
+                        77.086785,
+                        42.640317
+                  ]
+            },
+            {
+                  "name": "«Рух Ордо» Ч. Айтматов атындагы маданий борбору",
+                  "text": "A Ruh Ordo kulturális központ Scholpon-Atában egy jól ismert múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        77.095651,
+                        42.647825
+                  ]
+            },
+            {
+                  "name": "Иссык-Кульский Государственный историко-культурный музей-заповедник",
+                  "text": "Ez a régészeti lelőhely ad otthont Scholpon-Ata híres sziklarajzainak.",
+                  "category": "historical",
+                  "coords": [
+                        77.057034,
+                        42.660717
+                  ]
+            },
+            {
+                  "name": "Кумбоз Чолпон-Ата",
+                  "text": "A Kumboz emlékmű Scholpon-Atában egy történelmi emlékhely.",
+                  "category": "historical",
+                  "coords": [
+                        77.055605,
+                        42.639244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Petroglyph with hunting scene",
+                  "text": "Acest sit arheologic din Scholpon-Ata prezintă petroglife cu o scenă de vânătoare.",
+                  "category": "historical",
+                  "coords": [
+                        77.055628,
+                        42.658304
+                  ]
+            },
+            {
+                  "name": "краеведческий музей Иссык-Куля",
+                  "text": "Muzeul de stat istoric și cultural Issyk-Kul se află în Scholpon-Ata.",
+                  "category": "museum",
+                  "coords": [
+                        77.0876,
+                        42.650462
+                  ]
+            },
+            {
+                  "name": "Zaton",
+                  "text": "Zaton este un parc tematic în Scholpon-Ata.",
+                  "category": "recreational",
+                  "coords": [
+                        77.086785,
+                        42.640317
+                  ]
+            },
+            {
+                  "name": "«Рух Ордо» Ч. Айтматов атындагы маданий борбору",
+                  "text": "Centrul cultural Ruh Ordo din Scholpon-Ata este un muzeu binecunoscut.",
+                  "category": "museum",
+                  "coords": [
+                        77.095651,
+                        42.647825
+                  ]
+            },
+            {
+                  "name": "Иссык-Кульский Государственный историко-культурный музей-заповедник",
+                  "text": "Acest sit arheologic găzduiește faimoasele petroglife din Scholpon-Ata.",
+                  "category": "historical",
+                  "coords": [
+                        77.057034,
+                        42.660717
+                  ]
+            },
+            {
+                  "name": "Кумбоз Чолпон-Ата",
+                  "text": "Monumentul Kumboz din Scholpon-Ata este un reper istoric.",
+                  "category": "historical",
+                  "coords": [
+                        77.055605,
+                        42.639244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Petroglyph with hunting scene",
+                  "text": "This archaeological site in Cholpon-Ata features petroglyphs depicting a hunting scene.",
+                  "category": "historical",
+                  "coords": [
+                        77.055628,
+                        42.658304
+                  ]
+            },
+            {
+                  "name": "Issyk-Kul state historical-cultural museum-reserve museum",
+                  "text": "The Issyk-Kul State Historical and Cultural Museum is located in Cholpon-Ata.",
+                  "category": "museum",
+                  "coords": [
+                        77.0876,
+                        42.650462
+                  ]
+            },
+            {
+                  "name": "Zaton",
+                  "text": "Zaton is a theme park in Cholpon-Ata.",
+                  "category": "recreational",
+                  "coords": [
+                        77.086785,
+                        42.640317
+                  ]
+            },
+            {
+                  "name": "«Рух Ордо» Ч. Айтматов атындагы маданий борбору",
+                  "text": "The Ruh Ordo cultural center in Cholpon-Ata is a well-known museum.",
+                  "category": "museum",
+                  "coords": [
+                        77.095651,
+                        42.647825
+                  ]
+            },
+            {
+                  "name": "Petroglyphs of Cholpon-Ata",
+                  "text": "This archaeological site houses the famous petroglyphs of Cholpon-Ata.",
+                  "category": "historical",
+                  "coords": [
+                        77.057034,
+                        42.660717
+                  ]
+            },
+            {
+                  "name": "Кумбоз Чолпон-Ата",
+                  "text": "The Kumboz monument in Cholpon-Ata is a historic landmark.",
+                  "category": "historical",
+                  "coords": [
+                        77.055605,
+                        42.639244
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-Y",
     coords: [77.08, 42.65],
@@ -1356,7 +2697,52 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["L'une des plus anciennes cités minières charbonnières d'Asie centrale.", "Fondée en 1868, elle est l'une des villes les plus occidentales du pays.", "Les gisements de charbon sont exploités industriellement depuis le milieu du XIXe siècle.", "Est presque totalement enclavée dans le territoire tadjik.", "Dispose de sa propre ligne ferroviaire pour l'acheminement du charbon.", "La ville était hautement spécialisée économiquement à l'époque soviétique.", "Constitue aujourd'hui un fournisseur d'énergie majeur pour la région de Batken."],
     }, image: "/poi-images/suluktu-cities-v2.webp"},
   {
-    id: "kadamjay-cities-v2",
+    id: "kadamjay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музей Абдыкадыра Орозбекова",
+                  "text": "Музей Абдыкадыра Орозбекова ist ein lokales Museum in der Stadt Kadamdschai.",
+                  "category": "museum",
+                  "coords": [
+                        71.722,
+                        40.131291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей Абдыкадыра Орозбекова",
+                  "text": "A Музей Абдыкадыра Орозбекова egy helyi múzeum Kadamdzsaj városában.",
+                  "category": "museum",
+                  "coords": [
+                        71.722,
+                        40.131291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей Абдыкадыра Орозбекова",
+                  "text": "Музей Абдыкадыра Орозбекова este un muzeu local situat în orașul Kadamdschai.",
+                  "category": "museum",
+                  "coords": [
+                        71.722,
+                        40.131291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Музей Абдыкадыра Орозбекова",
+                  "text": "Музей Абдыкадыра Орозбекова is a local museum located in the town of Kadamdschai.",
+                  "category": "museum",
+                  "coords": [
+                        71.722,
+                        40.131291
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "KG-B",
     coords: [71.73, 40.13],

@@ -318,7 +318,772 @@ export const grenadaEconomicV2: POI[] = [
     image: "/poi-images/grenada-westerhall-estate-economic-v2.webp",
   },
   {
-    id: "grenada-grand-anse-business-district-economic-v2",
+    id: "grenada-grand-anse-business-district-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portici Beach",
+                  "text": "Portici Beach ist ein Strand in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.777656,
+                        12.016604
+                  ]
+            },
+            {
+                  "name": "Morne Rouge Beach",
+                  "text": "Morne Rouge Beach ist ein Strand in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.772915,
+                        12.019792
+                  ]
+            },
+            {
+                  "name": "Grenada Artificial Reef Project",
+                  "text": "Das Grenada Artificial Reef Project ist ein Naturschutzgebiet in Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.767876,
+                        12.022587
+                  ]
+            },
+            {
+                  "name": "Pink Gin Beach",
+                  "text": "Pink Gin Beach ist ein Strand in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.791664,
+                        12.008798
+                  ]
+            },
+            {
+                  "name": "Magazine Beach",
+                  "text": "Magazine Beach ist ein Strand in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.78652,
+                        12.010458
+                  ]
+            },
+            {
+                  "name": "Water Activity Beach",
+                  "text": "Water Activity Beach ist ein Strand in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.782405,
+                        12.012775
+                  ]
+            },
+            {
+                  "name": "Grooms Beach",
+                  "text": "Grooms Beach ist ein Strand in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.780524,
+                        12.014233
+                  ]
+            },
+            {
+                  "name": "L'Anse Aux Epines Beach",
+                  "text": "L'Anse Aux Epines Beach ist ein Strand in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.759526,
+                        12.001952
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Pandy Beach ist ein Strand in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
+                  "text": "Das Mount Hartman Nature Reserve and Dove Sanctuary ist ein Naturschutzgebiet in Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.744849,
+                        12.011093
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Die Grand Anse Marine Protected Area ist ein Naturschutzgebiet in Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Royalton Beach",
+                  "text": "Royalton Beach ist ein Strand in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.783905,
+                        12.011808
+                  ]
+            },
+            {
+                  "name": "Diamond Club Beach",
+                  "text": "Diamond Club Beach ist ein Strand in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.785063,
+                        12.011052
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Grand Anse Beach ist eine Sehenswürdigkeit in Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Camerhogne Park",
+                  "text": "Camerhogne Park ist ein Park in Geschäftsviertel Grand Anse.",
+                  "category": "park",
+                  "coords": [
+                        -61.759838,
+                        12.023946
+                  ]
+            },
+            {
+                  "name": "Breezy Point",
+                  "text": "Breezy Point ist ein Aussichtspunkt in Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.77359,
+                        11.996481
+                  ]
+            },
+            {
+                  "name": "Kalinago",
+                  "text": "Kalinago ist ein Strandresort in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.771846,
+                        12.020502
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Tan Tan Beach ist eine Sehenswürdigkeit in Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Charters",
+                  "text": "Horizon Yacht Charters ist eine Attraktion in Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.768972,
+                        12.00089
+                  ]
+            },
+            {
+                  "name": "Fuller Island Casa",
+                  "text": "Fuller Island Casa ist eine Attraktion in Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.767125,
+                        12.007863
+                  ]
+            },
+            {
+                  "name": "Conch Graveyard",
+                  "text": "Conch Graveyard ist eine lokale Attraktion in Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.777063,
+                        12.002554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portici Beach",
+                  "text": "A Portici Beach egy strand Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.777656,
+                        12.016604
+                  ]
+            },
+            {
+                  "name": "Morne Rouge Beach",
+                  "text": "A Morne Rouge Beach egy strand Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.772915,
+                        12.019792
+                  ]
+            },
+            {
+                  "name": "Grenada Artificial Reef Project",
+                  "text": "A Grenada Artificial Reef Project egy természetvédelmi terület Geschäftsviertel Grand Anse városában.",
+                  "category": "natural",
+                  "coords": [
+                        -61.767876,
+                        12.022587
+                  ]
+            },
+            {
+                  "name": "Pink Gin Beach",
+                  "text": "A Pink Gin Beach egy strand Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.791664,
+                        12.008798
+                  ]
+            },
+            {
+                  "name": "Magazine Beach",
+                  "text": "A Magazine Beach egy strand Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.78652,
+                        12.010458
+                  ]
+            },
+            {
+                  "name": "Water Activity Beach",
+                  "text": "A Water Activity Beach egy strand Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.782405,
+                        12.012775
+                  ]
+            },
+            {
+                  "name": "Grooms Beach",
+                  "text": "A Grooms Beach egy strand Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.780524,
+                        12.014233
+                  ]
+            },
+            {
+                  "name": "L'Anse Aux Epines Beach",
+                  "text": "A L'Anse Aux Epines Beach egy strand Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.759526,
+                        12.001952
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "A Pandy Beach egy strand Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
+                  "text": "A Mount Hartman Nature Reserve and Dove Sanctuary egy természetvédelmi terület Geschäftsviertel Grand Anse városában.",
+                  "category": "natural",
+                  "coords": [
+                        -61.744849,
+                        12.011093
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "A Grand Anse Marine Protected Area egy természetvédelmi terület Geschäftsviertel Grand Anse városában.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Royalton Beach",
+                  "text": "A Royalton Beach egy strand Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.783905,
+                        12.011808
+                  ]
+            },
+            {
+                  "name": "Diamond Club Beach",
+                  "text": "A Diamond Club Beach egy strand Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.785063,
+                        12.011052
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "A Grand Anse Beach egy látványosság Geschäftsviertel Grand Anse városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Camerhogne Park",
+                  "text": "A Camerhogne Park egy park Geschäftsviertel Grand Anse városában.",
+                  "category": "park",
+                  "coords": [
+                        -61.759838,
+                        12.023946
+                  ]
+            },
+            {
+                  "name": "Breezy Point",
+                  "text": "A Breezy Point egy kilátó Geschäftsviertel Grand Anse városában.",
+                  "category": "natural",
+                  "coords": [
+                        -61.77359,
+                        11.996481
+                  ]
+            },
+            {
+                  "name": "Kalinago",
+                  "text": "A Kalinago egy tengerparti üdülőhely Geschäftsviertel Grand Anse városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.771846,
+                        12.020502
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "A Tan Tan Beach egy látványosság Geschäftsviertel Grand Anse városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Charters",
+                  "text": "A Horizon Yacht Charters egy látványosság Geschäftsviertel Grand Anse területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.768972,
+                        12.00089
+                  ]
+            },
+            {
+                  "name": "Fuller Island Casa",
+                  "text": "A Fuller Island Casa egy látványosság Geschäftsviertel Grand Anse területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.767125,
+                        12.007863
+                  ]
+            },
+            {
+                  "name": "Conch Graveyard",
+                  "text": "A Conch Graveyard egy helyi látványosság Geschäftsviertel Grand Anse területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.777063,
+                        12.002554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portici Beach",
+                  "text": "Portici Beach este o plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.777656,
+                        12.016604
+                  ]
+            },
+            {
+                  "name": "Morne Rouge Beach",
+                  "text": "Morne Rouge Beach este o plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.772915,
+                        12.019792
+                  ]
+            },
+            {
+                  "name": "Grenada Artificial Reef Project",
+                  "text": "Grenada Artificial Reef Project este o rezervație naturală situată în Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.767876,
+                        12.022587
+                  ]
+            },
+            {
+                  "name": "Pink Gin Beach",
+                  "text": "Pink Gin Beach este o plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.791664,
+                        12.008798
+                  ]
+            },
+            {
+                  "name": "Magazine Beach",
+                  "text": "Magazine Beach este o plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.78652,
+                        12.010458
+                  ]
+            },
+            {
+                  "name": "Water Activity Beach",
+                  "text": "Water Activity Beach este o plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.782405,
+                        12.012775
+                  ]
+            },
+            {
+                  "name": "Grooms Beach",
+                  "text": "Grooms Beach este o plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.780524,
+                        12.014233
+                  ]
+            },
+            {
+                  "name": "L'Anse Aux Epines Beach",
+                  "text": "L'Anse Aux Epines Beach este o plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.759526,
+                        12.001952
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Pandy Beach este o plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
+                  "text": "Mount Hartman Nature Reserve and Dove Sanctuary este o rezervație naturală situată în Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.744849,
+                        12.011093
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Grand Anse Marine Protected Area este o rezervație naturală situată în Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Royalton Beach",
+                  "text": "Royalton Beach este o plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.783905,
+                        12.011808
+                  ]
+            },
+            {
+                  "name": "Diamond Club Beach",
+                  "text": "Diamond Club Beach este o plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.785063,
+                        12.011052
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Grand Anse Beach este o atracție situată în Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Camerhogne Park",
+                  "text": "Camerhogne Park este un parc situat în Geschäftsviertel Grand Anse.",
+                  "category": "park",
+                  "coords": [
+                        -61.759838,
+                        12.023946
+                  ]
+            },
+            {
+                  "name": "Breezy Point",
+                  "text": "Breezy Point este un punct de belvedere situat în Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.77359,
+                        11.996481
+                  ]
+            },
+            {
+                  "name": "Kalinago",
+                  "text": "Kalinago este o stațiune pe plajă situată în Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.771846,
+                        12.020502
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Tan Tan Beach este o atracție situată în Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Charters",
+                  "text": "Horizon Yacht Charters este o atracție situată în Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.768972,
+                        12.00089
+                  ]
+            },
+            {
+                  "name": "Fuller Island Casa",
+                  "text": "Fuller Island Casa este o atracție situată în Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.767125,
+                        12.007863
+                  ]
+            },
+            {
+                  "name": "Conch Graveyard",
+                  "text": "Conch Graveyard este o atracție locală din Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.777063,
+                        12.002554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portici Beach",
+                  "text": "Portici Beach is a beach located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.777656,
+                        12.016604
+                  ]
+            },
+            {
+                  "name": "Morne Rouge Beach",
+                  "text": "Morne Rouge Beach is a beach located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.772915,
+                        12.019792
+                  ]
+            },
+            {
+                  "name": "Grenada Artificial Reef Project",
+                  "text": "Grenada Artificial Reef Project is a nature reserve located in Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.767876,
+                        12.022587
+                  ]
+            },
+            {
+                  "name": "Pink Gin Beach",
+                  "text": "Pink Gin Beach is a beach located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.791664,
+                        12.008798
+                  ]
+            },
+            {
+                  "name": "Magazine Beach",
+                  "text": "Magazine Beach is a beach located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.78652,
+                        12.010458
+                  ]
+            },
+            {
+                  "name": "Water Activity Beach",
+                  "text": "Water Activity Beach is a beach located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.782405,
+                        12.012775
+                  ]
+            },
+            {
+                  "name": "Grooms Beach",
+                  "text": "Grooms Beach is a beach located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.780524,
+                        12.014233
+                  ]
+            },
+            {
+                  "name": "L'Anse Aux Epines Beach",
+                  "text": "L'Anse Aux Epines Beach is a beach located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.759526,
+                        12.001952
+                  ]
+            },
+            {
+                  "name": "Pandy Beach",
+                  "text": "Pandy Beach is a beach located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.753229,
+                        12.041955
+                  ]
+            },
+            {
+                  "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
+                  "text": "Mount Hartman Nature Reserve and Dove Sanctuary is a nature reserve located in Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.744849,
+                        12.011093
+                  ]
+            },
+            {
+                  "name": "Grand Anse Marine Protected Area",
+                  "text": "Grand Anse Marine Protected Area is a nature reserve located in Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.786645,
+                        12.023041
+                  ]
+            },
+            {
+                  "name": "Royalton Beach",
+                  "text": "Royalton Beach is a beach located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.783905,
+                        12.011808
+                  ]
+            },
+            {
+                  "name": "Diamond Club Beach",
+                  "text": "Diamond Club Beach is a beach located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.785063,
+                        12.011052
+                  ]
+            },
+            {
+                  "name": "Grand Anse Beach",
+                  "text": "Grand Anse Beach is an attraction located in Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.761221,
+                        12.02737
+                  ]
+            },
+            {
+                  "name": "Camerhogne Park",
+                  "text": "Camerhogne Park is a park located in Geschäftsviertel Grand Anse.",
+                  "category": "park",
+                  "coords": [
+                        -61.759838,
+                        12.023946
+                  ]
+            },
+            {
+                  "name": "Breezy Point",
+                  "text": "Breezy Point is a viewpoint located in Geschäftsviertel Grand Anse.",
+                  "category": "natural",
+                  "coords": [
+                        -61.77359,
+                        11.996481
+                  ]
+            },
+            {
+                  "name": "Kalinago",
+                  "text": "Kalinago is a beach resort located in Geschäftsviertel Grand Anse.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.771846,
+                        12.020502
+                  ]
+            },
+            {
+                  "name": "Tan Tan Beach",
+                  "text": "Tan Tan Beach is an attraction located in Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.755389,
+                        12.034759
+                  ]
+            },
+            {
+                  "name": "Horizon Yacht Charters",
+                  "text": "Horizon Yacht Charters is an attraction located in Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.768972,
+                        12.00089
+                  ]
+            },
+            {
+                  "name": "Fuller Island Casa",
+                  "text": "Fuller Island Casa is an attraction situated in Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.767125,
+                        12.007863
+                  ]
+            },
+            {
+                  "name": "Conch Graveyard",
+                  "text": "Conch Graveyard is a local attraction in Geschäftsviertel Grand Anse.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.777063,
+                        12.002554
+                  ]
+            }
+      ]
+},
     parent: "GD",
     type: "city",
     name: { de: "Geschäftsviertel Grand Anse", hu: "Grand Anse üzleti negyed", ro: "Districtul comercial Grand Anse", en: "Grand Anse Commercial District" },

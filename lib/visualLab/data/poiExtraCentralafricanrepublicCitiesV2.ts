@@ -95,7 +95,52 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       fr: ["Située au sud-ouest de la capitale Bangui.", "Un centre économique important à proximité de la capitale."],
     }, image: "/poi-images/bimbo-cities-v2.webp"},
   {
-    id: "berberati-cities-v2",
+    id: "berberati-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée Régional",
+                  "text": "Das Musée Régional präsentiert kulturelle Artefakte in Berbérati.",
+                  "category": "museum",
+                  "coords": [
+                        15.791534,
+                        4.257503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Régional",
+                  "text": "A Musée Régional kulturális tárgyakat mutat be Berbérati városában.",
+                  "category": "museum",
+                  "coords": [
+                        15.791534,
+                        4.257503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Régional",
+                  "text": "Musée Régional expune artefacte culturale în Berbérati.",
+                  "category": "museum",
+                  "coords": [
+                        15.791534,
+                        4.257503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Régional",
+                  "text": "The Musée Régional showcases cultural artifacts in Berbérati.",
+                  "category": "museum",
+                  "coords": [
+                        15.791534,
+                        4.257503
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CF-MK",
     coords: [15.7922, 4.2612],
@@ -675,7 +720,52 @@ export const poiExtraCentralafricanrepublicCitiesV2: POI[] = [
       fr: ["Située sur la rivière Ouham.", "Important marché régional."],
     }, image: "/poi-images/bozoum-cities-v2.webp"},
   {
-    id: "ndele-cities-v2",
+    id: "ndele-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tata fortifié du sultan Sénoussi",
+                  "text": "Das Tata fortifié du sultan Sénoussi ist eine historische Befestigungsanlage in Ndélé.",
+                  "category": "castle",
+                  "coords": [
+                        20.651258,
+                        8.404093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tata fortifié du sultan Sénoussi",
+                  "text": "A Tata fortifié du sultan Sénoussi egy történelmi erődítmény Ndélé városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.651258,
+                        8.404093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tata fortifié du sultan Sénoussi",
+                  "text": "Tata fortifié du sultan Sénoussi este o fortificație istorică în Ndélé.",
+                  "category": "castle",
+                  "coords": [
+                        20.651258,
+                        8.404093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tata fortifié du sultan Sénoussi",
+                  "text": "The Tata fortifié du sultan Sénoussi is a historical fortification in Ndélé.",
+                  "category": "castle",
+                  "coords": [
+                        20.651258,
+                        8.404093
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CF-BB",
     coords: [20.6531, 8.4101],

@@ -97,7 +97,736 @@ export const poiExtraPeruCitiesV2: POI[] = [
       fr: ["Connue comme la 'Ville Blanche'.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/arequipa-cities-v2.webp"},
   {
-    id: "trujillo-cities-v2",
+    id: "trujillo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Arqueologico",
+                  "text": "Das Museo Arqueologico ist ein Museum in der Stadt Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.024283,
+                        -8.110887
+                  ]
+            },
+            {
+                  "name": "Auditorio Hector Acuña",
+                  "text": "Das Auditorio Hector Acuña ist ein Theater in Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.042693,
+                        -8.129635
+                  ]
+            },
+            {
+                  "name": "Catedralicio",
+                  "text": "Catedralicio ist ein Museum in der Stadt Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.028271,
+                        -8.111034
+                  ]
+            },
+            {
+                  "name": "Museo de Zoología Juan Ormea Rodríguez",
+                  "text": "Das Museo de Zoología Juan Ormea Rodríguez ist ein Museum in Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.030592,
+                        -8.111442
+                  ]
+            },
+            {
+                  "name": "Teatro Victor Raul Lozano Ibañez",
+                  "text": "Das Teatro Victor Raul Lozano Ibañez ist ein Theater in Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.031158,
+                        -8.127652
+                  ]
+            },
+            {
+                  "name": "Magic Piscina",
+                  "text": "Magic Piscina ist ein Wasserpark in der Stadt Trujillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.005489,
+                        -8.121277
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Das Teatro Municipal ist ein lokales Theater in Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.024652,
+                        -8.109498
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporaneo Urm Max Lois",
+                  "text": "Das Museo de Arte Contemporaneo Urm Max Lois ist ein Kunstmuseum in Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.012766,
+                        -8.102466
+                  ]
+            },
+            {
+                  "name": "Huaca Parana",
+                  "text": "Huaca Parana ist eine archäologische Stätte in Trujillo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.0265,
+                        -8.118605
+                  ]
+            },
+            {
+                  "name": "Museo de Juguete",
+                  "text": "Das Museo de Juguete ist ein Museum in Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.026705,
+                        -8.108285
+                  ]
+            },
+            {
+                  "name": "Campo Ferial",
+                  "text": "Campo Ferial ist ein Freizeitpark in Trujillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.033771,
+                        -8.132934
+                  ]
+            },
+            {
+                  "name": "Huaca La Esmeralda",
+                  "text": "Huaca La Esmeralda ist eine archäologische Ruinenstätte in Trujillo, die für ihre präkolumbianische Lehmziegelbauweise bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -79.044959,
+                        -8.104696
+                  ]
+            },
+            {
+                  "name": "Liga de Artesanos",
+                  "text": "Liga de Artesanos ist ein Kunstzentrum in Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.025565,
+                        -8.107658
+                  ]
+            },
+            {
+                  "name": "Soocer city (Deportes)",
+                  "text": "Soocer city (Deportes) ist eine Touristenattraktion in Trujillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.051335,
+                        -8.131662
+                  ]
+            },
+            {
+                  "name": "ÓVALO MOCHICA",
+                  "text": "ÓVALO MOCHE ist eine bekannte Attraktion in Trujillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.039133,
+                        -8.094855
+                  ]
+            },
+            {
+                  "name": "Estatua de Friedrich Engels",
+                  "text": "Die Estatua de Friedrich Engels ist ein Denkmal in Trujillo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.008079,
+                        -8.10547
+                  ]
+            },
+            {
+                  "name": "Buses a Huaca de la Luna",
+                  "text": "Buses to Huaca de la Luna ist eine Attraktion und ein Verkehrsknotenpunkt in Trujillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.024141,
+                        -8.117475
+                  ]
+            },
+            {
+                  "name": "Sare",
+                  "text": "Sare ist eine Kunstgalerie in der Stadt Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.034914,
+                        -8.124339
+                  ]
+            },
+            {
+                  "name": "Bellas Artes",
+                  "text": "Bellas Artes ist eine Galerie in Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.035373,
+                        -8.125428
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Merced",
+                  "text": "Die Iglesia de La Merced ist eine Kultstätte in Trujillo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.026855,
+                        -8.111234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Arqueologico",
+                  "text": "A Museo Arqueologico egy múzeum Trujillo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.024283,
+                        -8.110887
+                  ]
+            },
+            {
+                  "name": "Auditorio Hector Acuña",
+                  "text": "Az Auditorio Hector Acuña egy színház Trujillóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.042693,
+                        -8.129635
+                  ]
+            },
+            {
+                  "name": "Catedralicio",
+                  "text": "A Catedralicio egy múzeum Trujillo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.028271,
+                        -8.111034
+                  ]
+            },
+            {
+                  "name": "Museo de Zoología Juan Ormea Rodríguez",
+                  "text": "A Museo de Zoología Juan Ormea Rodríguez egy múzeum Trujillo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.030592,
+                        -8.111442
+                  ]
+            },
+            {
+                  "name": "Teatro Victor Raul Lozano Ibañez",
+                  "text": "A Teatro Victor Raul Lozano Ibañez egy színház Trujillo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.031158,
+                        -8.127652
+                  ]
+            },
+            {
+                  "name": "Magic Piscina",
+                  "text": "A Magic Piscina egy vízi park Trujillo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.005489,
+                        -8.121277
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "A Teatro Municipal egy színház Trujillo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.024652,
+                        -8.109498
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporaneo Urm Max Lois",
+                  "text": "A Museo de Arte Contemporaneo Urm Max Lois egy művészeti múzeum Trujillo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.012766,
+                        -8.102466
+                  ]
+            },
+            {
+                  "name": "Huaca Parana",
+                  "text": "A Huaca Parana egy régészeti lelőhely Trujillo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.0265,
+                        -8.118605
+                  ]
+            },
+            {
+                  "name": "Museo de Juguete",
+                  "text": "A Museo de Juguete egy múzeum Trujillo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.026705,
+                        -8.108285
+                  ]
+            },
+            {
+                  "name": "Campo Ferial",
+                  "text": "A Campo Ferial egy vidámpark Trujillo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.033771,
+                        -8.132934
+                  ]
+            },
+            {
+                  "name": "Huaca La Esmeralda",
+                  "text": "A Huaca La Esmeralda egy romterület Trujillo városában, amely prekolumbiánus vályogépítészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -79.044959,
+                        -8.104696
+                  ]
+            },
+            {
+                  "name": "Liga de Artesanos",
+                  "text": "A Liga de Artesanos egy művészeti központ Trujillo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.025565,
+                        -8.107658
+                  ]
+            },
+            {
+                  "name": "Soocer city (Deportes)",
+                  "text": "A Soocer city (Deportes) egy turisztikai látványosság Trujillo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.051335,
+                        -8.131662
+                  ]
+            },
+            {
+                  "name": "ÓVALO MOCHICA",
+                  "text": "Az ÓVALO MOCHE egy nevezetes látványosság Trujillo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.039133,
+                        -8.094855
+                  ]
+            },
+            {
+                  "name": "Estatua de Friedrich Engels",
+                  "text": "Az Estatua de Friedrich Engels egy emlékmű Trujillo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.008079,
+                        -8.10547
+                  ]
+            },
+            {
+                  "name": "Buses a Huaca de la Luna",
+                  "text": "A Buses to Huaca de la Luna egy látványosság és tranzitpont Trujillo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.024141,
+                        -8.117475
+                  ]
+            },
+            {
+                  "name": "Sare",
+                  "text": "A Sare egy művészeti galéria Trujillo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.034914,
+                        -8.124339
+                  ]
+            },
+            {
+                  "name": "Bellas Artes",
+                  "text": "A Bellas Artes egy galéria Trujillo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.035373,
+                        -8.125428
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Merced",
+                  "text": "Az Iglesia de La Merced egy istentiszteleti hely Trujillo városában.",
+                  "category": "religious",
+                  "coords": [
+                        -79.026855,
+                        -8.111234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Arqueologico",
+                  "text": "Museo Arqueologico este un muzeu situat în orașul Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.024283,
+                        -8.110887
+                  ]
+            },
+            {
+                  "name": "Auditorio Hector Acuña",
+                  "text": "Auditorio Hector Acuña este un teatru situat în Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.042693,
+                        -8.129635
+                  ]
+            },
+            {
+                  "name": "Catedralicio",
+                  "text": "Catedralicio este un muzeu situat în orașul Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.028271,
+                        -8.111034
+                  ]
+            },
+            {
+                  "name": "Museo de Zoología Juan Ormea Rodríguez",
+                  "text": "Museo de Zoología Juan Ormea Rodríguez este un muzeu din Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.030592,
+                        -8.111442
+                  ]
+            },
+            {
+                  "name": "Teatro Victor Raul Lozano Ibañez",
+                  "text": "Teatro Victor Raul Lozano Ibañez este un teatru situat în Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.031158,
+                        -8.127652
+                  ]
+            },
+            {
+                  "name": "Magic Piscina",
+                  "text": "Magic Piscina este un parc acvatic situat în orașul Trujillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.005489,
+                        -8.121277
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatro Municipal este un teatru local situat în Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.024652,
+                        -8.109498
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporaneo Urm Max Lois",
+                  "text": "Museo de Arte Contemporaneo Urm Max Lois este un muzeu de artă din Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.012766,
+                        -8.102466
+                  ]
+            },
+            {
+                  "name": "Huaca Parana",
+                  "text": "Huaca Parana este un sit arheologic situat în Trujillo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.0265,
+                        -8.118605
+                  ]
+            },
+            {
+                  "name": "Museo de Juguete",
+                  "text": "Museo de Juguete este un muzeu situat în Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.026705,
+                        -8.108285
+                  ]
+            },
+            {
+                  "name": "Campo Ferial",
+                  "text": "Campo Ferial este un parc tematic situat în Trujillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.033771,
+                        -8.132934
+                  ]
+            },
+            {
+                  "name": "Huaca La Esmeralda",
+                  "text": "Huaca La Esmeralda este un sit cu ruine din Trujillo, recunoscut pentru construcția sa precolumbiană din chirpici.",
+                  "category": "historical",
+                  "coords": [
+                        -79.044959,
+                        -8.104696
+                  ]
+            },
+            {
+                  "name": "Liga de Artesanos",
+                  "text": "Liga de Artesanos este un centru de arte situat în Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.025565,
+                        -8.107658
+                  ]
+            },
+            {
+                  "name": "Soocer city (Deportes)",
+                  "text": "Soocer city (Deportes) este o atracție turistică situată în Trujillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.051335,
+                        -8.131662
+                  ]
+            },
+            {
+                  "name": "ÓVALO MOCHICA",
+                  "text": "ÓVALO MOCHE este o atracție notabilă situată în Trujillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.039133,
+                        -8.094855
+                  ]
+            },
+            {
+                  "name": "Estatua de Friedrich Engels",
+                  "text": "Estatua de Friedrich Engels este un monument situat în Trujillo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.008079,
+                        -8.10547
+                  ]
+            },
+            {
+                  "name": "Buses a Huaca de la Luna",
+                  "text": "Buses to Huaca de la Luna servește ca atracție și punct de tranzit în Trujillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.024141,
+                        -8.117475
+                  ]
+            },
+            {
+                  "name": "Sare",
+                  "text": "Sare este o galerie de artă situată în orașul Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.034914,
+                        -8.124339
+                  ]
+            },
+            {
+                  "name": "Bellas Artes",
+                  "text": "Bellas Artes este o galerie situată în Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.035373,
+                        -8.125428
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Merced",
+                  "text": "Iglesia de La Merced este un lăcaș de cult situat în Trujillo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.026855,
+                        -8.111234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Arqueologico",
+                  "text": "The Museo Arqueologico is a museum located in the city of Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.024283,
+                        -8.110887
+                  ]
+            },
+            {
+                  "name": "Auditorio Hector Acuña",
+                  "text": "Auditorio Hector Acuña is a theatre located in Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.042693,
+                        -8.129635
+                  ]
+            },
+            {
+                  "name": "Catedralicio",
+                  "text": "Catedralicio is a museum located in the city of Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.028271,
+                        -8.111034
+                  ]
+            },
+            {
+                  "name": "Museo de Zoología Juan Ormea Rodríguez",
+                  "text": "The Museo de Zoología Juan Ormea Rodríguez is a museum located in Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.030592,
+                        -8.111442
+                  ]
+            },
+            {
+                  "name": "Teatro Victor Raul Lozano Ibañez",
+                  "text": "Teatro Victor Raul Lozano Ibañez is a theatre situated in Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.031158,
+                        -8.127652
+                  ]
+            },
+            {
+                  "name": "Magic Piscina",
+                  "text": "Magic Piscina is a water park located in the city of Trujillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.005489,
+                        -8.121277
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatro Municipal is a local theatre situated in Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.024652,
+                        -8.109498
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporaneo Urm Max Lois",
+                  "text": "Museo de Arte Contemporaneo Urm Max Lois is an art museum in Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.012766,
+                        -8.102466
+                  ]
+            },
+            {
+                  "name": "Huaca Parana",
+                  "text": "Huaca Parana is an archaeological site located in Trujillo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.0265,
+                        -8.118605
+                  ]
+            },
+            {
+                  "name": "Museo de Juguete",
+                  "text": "Museo de Juguete is a museum located in Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.026705,
+                        -8.108285
+                  ]
+            },
+            {
+                  "name": "Campo Ferial",
+                  "text": "Campo Ferial is a theme park situated in Trujillo.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.033771,
+                        -8.132934
+                  ]
+            },
+            {
+                  "name": "Huaca La Esmeralda",
+                  "text": "Huaca La Esmeralda is a ruined archaeological site in Trujillo, recognized for its pre-Columbian adobe construction.",
+                  "category": "historical",
+                  "coords": [
+                        -79.044959,
+                        -8.104696
+                  ]
+            },
+            {
+                  "name": "Liga de Artesanos",
+                  "text": "Liga de Artesanos is an arts centre located in Trujillo.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.025565,
+                        -8.107658
+                  ]
+            },
+            {
+                  "name": "Soocer city (Deportes)",
+                  "text": "Soocer city (Deportes) is a tourist attraction located in Trujillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.051335,
+                        -8.131662
+                  ]
+            },
+            {
+                  "name": "ÓVALO MOCHE",
+                  "text": "ÓVALO MOCHE is a notable attraction located in Trujillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.039133,
+                        -8.094855
+                  ]
+            },
+            {
+                  "name": "Estatua de Friedrich Engels",
+                  "text": "Estatua de Friedrich Engels is a monument located in Trujillo.",
+                  "category": "historical",
+                  "coords": [
+                        -79.008079,
+                        -8.10547
+                  ]
+            },
+            {
+                  "name": "Buses to Huaca de la Luna",
+                  "text": "Buses to Huaca de la Luna serves as an attraction and transit point in Trujillo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.024141,
+                        -8.117475
+                  ]
+            },
+            {
+                  "name": "Sare",
+                  "text": "Sare is an art gallery located in the city of Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.034914,
+                        -8.124339
+                  ]
+            },
+            {
+                  "name": "Bellas Artes",
+                  "text": "Bellas Artes is a gallery situated in Trujillo.",
+                  "category": "museum",
+                  "coords": [
+                        -79.035373,
+                        -8.125428
+                  ]
+            },
+            {
+                  "name": "Iglesia de La Merced",
+                  "text": "Iglesia de La Merced is a place of worship located in Trujillo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.026855,
+                        -8.111234
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PE-LAL",
     coords: [-79.0299, -8.1159],
@@ -144,7 +873,196 @@ export const poiExtraPeruCitiesV2: POI[] = [
       fr: ["Centre de la culture Chimú au nord du Pérou.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/trujillo-cities-v2.webp"},
   {
-    id: "chiclayo-cities-v2",
+    id: "chiclayo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercado de Brujo o Herbolario",
+                  "text": "Attraktion in Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.839832,
+                        -6.766474
+                  ]
+            },
+            {
+                  "name": "Jardin Botanico",
+                  "text": "Botanischer Garten in Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84725,
+                        -6.771557
+                  ]
+            },
+            {
+                  "name": "Casona Elias Aguire",
+                  "text": "Historisches Gebäude in Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.836663,
+                        -6.772085
+                  ]
+            },
+            {
+                  "name": "Plaza de Armas",
+                  "text": "Hauptplatz von Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.838653,
+                        -6.771602
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa María",
+                  "text": "Kathedrale in Chiclayo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.837652,
+                        -6.771698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercado de Brujo o Herbolario",
+                  "text": "Látnivaló Chiclayóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.839832,
+                        -6.766474
+                  ]
+            },
+            {
+                  "name": "Jardin Botanico",
+                  "text": "Botanikus kert Chiclayóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84725,
+                        -6.771557
+                  ]
+            },
+            {
+                  "name": "Casona Elias Aguire",
+                  "text": "Történelmi épület Chiclayóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.836663,
+                        -6.772085
+                  ]
+            },
+            {
+                  "name": "Plaza de Armas",
+                  "text": "Chiclayo főtere.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.838653,
+                        -6.771602
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa María",
+                  "text": "Székesegyház Chiclayóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.837652,
+                        -6.771698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercado de Brujo o Herbolario",
+                  "text": "Atracție în Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.839832,
+                        -6.766474
+                  ]
+            },
+            {
+                  "name": "Jardin Botanico",
+                  "text": "Grădină botanică în Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84725,
+                        -6.771557
+                  ]
+            },
+            {
+                  "name": "Casona Elias Aguire",
+                  "text": "Clădire istorică în Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.836663,
+                        -6.772085
+                  ]
+            },
+            {
+                  "name": "Plaza de Armas",
+                  "text": "Piața centrală din Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.838653,
+                        -6.771602
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa María",
+                  "text": "Catedrală în Chiclayo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.837652,
+                        -6.771698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mercado de Brujo o Herbolario",
+                  "text": "Attraction in Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.839832,
+                        -6.766474
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "Botanical garden in Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.84725,
+                        -6.771557
+                  ]
+            },
+            {
+                  "name": "Casona Elias Aguire",
+                  "text": "Historical building in Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.836663,
+                        -6.772085
+                  ]
+            },
+            {
+                  "name": "Central Square",
+                  "text": "Main square of Chiclayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.838653,
+                        -6.771602
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa María",
+                  "text": "Cathedral in Chiclayo.",
+                  "category": "religious",
+                  "coords": [
+                        -79.837652,
+                        -6.771698
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PE-LAM",
     coords: [-79.839, -6.7713],
@@ -191,7 +1109,412 @@ export const poiExtraPeruCitiesV2: POI[] = [
       fr: ["Capitale de la région de Lambayeque.", "Située sur le territoire de la République du Pérou.", "Nichée entre la cordillère des Andes, le désert côtier et le bassin amazonien.", "Joue un rôle dans l'identité locale de la région.", "Connue pour son importance paysagère ou culturelle."],
     }, image: "/poi-images/chiclayo-cities-v2.webp"},
   {
-    id: "piura-cities-v2",
+    id: "piura-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Municipal Vicús",
+                  "text": "Das Museo Municipal Vicús ist ein Museum in Piura, das archäologische Artefakte der Vicús-Kultur ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -80.629792,
+                        -5.192429
+                  ]
+            },
+            {
+                  "name": "Casa del Almirante Miguel Grau",
+                  "text": "Casa del Almirante Miguel Grau ist ein Museum in Piura.",
+                  "category": "museum",
+                  "coords": [
+                        -80.627237,
+                        -5.197862
+                  ]
+            },
+            {
+                  "name": "Museo del BCRP",
+                  "text": "Museo del BCRP ist ein Museum in Piura.",
+                  "category": "museum",
+                  "coords": [
+                        -80.626513,
+                        -5.196682
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico El Bosque",
+                  "text": "Sitio Arqueológico El Bosque ist eine archäologische Stätte in Piura.",
+                  "category": "historical",
+                  "coords": [
+                        -80.613452,
+                        -5.187818
+                  ]
+            },
+            {
+                  "name": "Teatro Manuel Vegas Castillo",
+                  "text": "Teatro Manuel Vegas Castillo ist ein Theater in Piura.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.633108,
+                        -5.19901
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Piura",
+                  "text": "Teatro Municipal de Piura ist ein Theater in Piura.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.625781,
+                        -5.190841
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Grau",
+                  "text": "Monumento a Miguel Grau ist ein Denkmal in Piura.",
+                  "category": "historical",
+                  "coords": [
+                        -80.629938,
+                        -5.195623
+                  ]
+            },
+            {
+                  "name": "Andrés Avelino Cáceres",
+                  "text": "Andrés Avelino Cáceres ist ein Denkmal in Piura.",
+                  "category": "historical",
+                  "coords": [
+                        -80.649072,
+                        -5.184768
+                  ]
+            },
+            {
+                  "name": "Puente Bolognesi",
+                  "text": "Puente Bolognesi ist eine Brücke in Piura.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.625494,
+                        -5.200858
+                  ]
+            },
+            {
+                  "name": "Puente Sánchez Cerro",
+                  "text": "Puente Sánchez Cerro ist eine Brücke in Piura.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.623774,
+                        -5.193716
+                  ]
+            },
+            {
+                  "name": "Puente San Miguel",
+                  "text": "Puente San Miguel ist eine Brücke in Piura.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.624251,
+                        -5.197195
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Municipal Vicús",
+                  "text": "A Museo Municipal Vicús egy múzeum Piurában, amely a Vicús kultúra régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -80.629792,
+                        -5.192429
+                  ]
+            },
+            {
+                  "name": "Casa del Almirante Miguel Grau",
+                  "text": "A Casa del Almirante Miguel Grau egy múzeum Piura városában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.627237,
+                        -5.197862
+                  ]
+            },
+            {
+                  "name": "Museo del BCRP",
+                  "text": "A Museo del BCRP egy múzeum Piura városában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.626513,
+                        -5.196682
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico El Bosque",
+                  "text": "A Sitio Arqueológico El Bosque egy régészeti lelőhely Piura városában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.613452,
+                        -5.187818
+                  ]
+            },
+            {
+                  "name": "Teatro Manuel Vegas Castillo",
+                  "text": "A Teatro Manuel Vegas Castillo egy színház Piura városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.633108,
+                        -5.19901
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Piura",
+                  "text": "A Teatro Municipal de Piura egy színház Piura városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.625781,
+                        -5.190841
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Grau",
+                  "text": "A Monumento a Miguel Grau egy emlékmű Piura városában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.629938,
+                        -5.195623
+                  ]
+            },
+            {
+                  "name": "Andrés Avelino Cáceres",
+                  "text": "Az Andrés Avelino Cáceres egy emlékmű Piura városában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.649072,
+                        -5.184768
+                  ]
+            },
+            {
+                  "name": "Puente Bolognesi",
+                  "text": "A Puente Bolognesi egy híd Piura városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.625494,
+                        -5.200858
+                  ]
+            },
+            {
+                  "name": "Puente Sánchez Cerro",
+                  "text": "A Puente Sánchez Cerro egy híd Piura városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.623774,
+                        -5.193716
+                  ]
+            },
+            {
+                  "name": "Puente San Miguel",
+                  "text": "A Puente San Miguel egy híd Piura városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.624251,
+                        -5.197195
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Municipal Vicús",
+                  "text": "Museo Municipal Vicús este un muzeu din Piura care expune artefacte arheologice ale culturii Vicús.",
+                  "category": "museum",
+                  "coords": [
+                        -80.629792,
+                        -5.192429
+                  ]
+            },
+            {
+                  "name": "Casa del Almirante Miguel Grau",
+                  "text": "Casa del Almirante Miguel Grau este un muzeu situat în Piura.",
+                  "category": "museum",
+                  "coords": [
+                        -80.627237,
+                        -5.197862
+                  ]
+            },
+            {
+                  "name": "Museo del BCRP",
+                  "text": "Museo del BCRP este un muzeu situat în Piura.",
+                  "category": "museum",
+                  "coords": [
+                        -80.626513,
+                        -5.196682
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico El Bosque",
+                  "text": "Sitio Arqueológico El Bosque este un sit arheologic situat în Piura.",
+                  "category": "historical",
+                  "coords": [
+                        -80.613452,
+                        -5.187818
+                  ]
+            },
+            {
+                  "name": "Teatro Manuel Vegas Castillo",
+                  "text": "Teatro Manuel Vegas Castillo este un teatru situat în Piura.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.633108,
+                        -5.19901
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Piura",
+                  "text": "Teatro Municipal de Piura este un teatru situat în Piura.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.625781,
+                        -5.190841
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Grau",
+                  "text": "Monumento a Miguel Grau este un monument situat în Piura.",
+                  "category": "historical",
+                  "coords": [
+                        -80.629938,
+                        -5.195623
+                  ]
+            },
+            {
+                  "name": "Andrés Avelino Cáceres",
+                  "text": "Andrés Avelino Cáceres este un monument situat în Piura.",
+                  "category": "historical",
+                  "coords": [
+                        -80.649072,
+                        -5.184768
+                  ]
+            },
+            {
+                  "name": "Puente Bolognesi",
+                  "text": "Puente Bolognesi este un pod situat în Piura.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.625494,
+                        -5.200858
+                  ]
+            },
+            {
+                  "name": "Puente Sánchez Cerro",
+                  "text": "Puente Sánchez Cerro este un pod situat în Piura.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.623774,
+                        -5.193716
+                  ]
+            },
+            {
+                  "name": "Puente San Miguel",
+                  "text": "Puente San Miguel este un pod situat în Piura.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.624251,
+                        -5.197195
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Municipal Vicús",
+                  "text": "Museo Municipal Vicús is a museum in Piura that exhibits archaeological artifacts from the Vicús culture.",
+                  "category": "museum",
+                  "coords": [
+                        -80.629792,
+                        -5.192429
+                  ]
+            },
+            {
+                  "name": "Casa del Almirante Miguel Grau",
+                  "text": "Casa del Almirante Miguel Grau is a museum located in Piura.",
+                  "category": "museum",
+                  "coords": [
+                        -80.627237,
+                        -5.197862
+                  ]
+            },
+            {
+                  "name": "Museo del BCRP",
+                  "text": "Museo del BCRP is a museum located in Piura.",
+                  "category": "museum",
+                  "coords": [
+                        -80.626513,
+                        -5.196682
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico El Bosque",
+                  "text": "Sitio Arqueológico El Bosque is an archaeological site located in Piura.",
+                  "category": "historical",
+                  "coords": [
+                        -80.613452,
+                        -5.187818
+                  ]
+            },
+            {
+                  "name": "Teatro Manuel Vegas Castillo",
+                  "text": "Teatro Manuel Vegas Castillo is a theatre located in Piura.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.633108,
+                        -5.19901
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Piura",
+                  "text": "Teatro Municipal de Piura is a theatre located in Piura.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.625781,
+                        -5.190841
+                  ]
+            },
+            {
+                  "name": "Monumento a Miguel Grau",
+                  "text": "Monumento a Miguel Grau is a monument located in Piura.",
+                  "category": "historical",
+                  "coords": [
+                        -80.629938,
+                        -5.195623
+                  ]
+            },
+            {
+                  "name": "Andrés Avelino Cáceres",
+                  "text": "Andrés Avelino Cáceres is a monument located in Piura.",
+                  "category": "historical",
+                  "coords": [
+                        -80.649072,
+                        -5.184768
+                  ]
+            },
+            {
+                  "name": "Puente Bolognesi",
+                  "text": "Puente Bolognesi is a bridge located in Piura.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.625494,
+                        -5.200858
+                  ]
+            },
+            {
+                  "name": "Puente Sánchez Cerro",
+                  "text": "Puente Sánchez Cerro is a bridge located in Piura.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.623774,
+                        -5.193716
+                  ]
+            },
+            {
+                  "name": "Puente San Miguel",
+                  "text": "Puente San Miguel is a bridge located in Piura.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.624251,
+                        -5.197195
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PE-PIU",
     coords: [-80.6328, -5.1944],
@@ -326,7 +1649,376 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Cusco served as the capital of the Inca Empire from the 13th century until 1533.", "The city's Plaza de Armas was once double its current size and called Huacaypata.", "Sacsayhuamán's zigzag walls represent the teeth of the puma that the city was shaped like.", "The Dominican Convent of Santo Domingo was built on top of the Inca Temple of the Sun.", "Cusco has a temperate climate with two seasons: dry (May-Oct) and rainy (Nov-April).", "The city's university, San Antonio Abad, was founded in 1692 and is one of Peru's oldest.", "Local laws strictly prohibit the modernization of façades in the historic center to preserve heritage.", "Cusco is the starting point for the famous 4-day Inca Trail hike to Machu Picchu."],
     }, image: "/poi-images/cusco-cities-v2.webp"},
   {
-    id: "chimbote-cities-v2",
+    id: "chimbote-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vivero Forestal",
+                  "text": "Themenpark in Chimbote.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.592394,
+                        -9.057662
+                  ]
+            },
+            {
+                  "name": "Bahía de Chimbote",
+                  "text": "Bucht bei Chimbote.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.59062,
+                        -9.121904
+                  ]
+            },
+            {
+                  "name": "Almirante Miguel Grau Seminario",
+                  "text": "Denkmal in Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590154,
+                        -9.078398
+                  ]
+            },
+            {
+                  "name": "Boulevard",
+                  "text": "Boulevard in Chimbote.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597517,
+                        -9.074119
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires Beatos",
+                  "text": "Das Monumento a los Mártires Beatos ist ein Denkmal in Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.587721,
+                        -9.077073
+                  ]
+            },
+            {
+                  "name": "Monumento a Haya de la Torre",
+                  "text": "Das Monumento a Haya de la Torre ist ein Denkmal in Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590774,
+                        -9.07621
+                  ]
+            },
+            {
+                  "name": "Monumento a la Justicia",
+                  "text": "Das Monumento a la Justicia ist ein Denkmal in Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.58959,
+                        -9.076533
+                  ]
+            },
+            {
+                  "name": "Monumentos Marinos",
+                  "text": "Die Monumentos Marinos sind maritime Denkmäler in Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.59898,
+                        -9.073704
+                  ]
+            },
+            {
+                  "name": "Plazuela Las Banderas",
+                  "text": "Die Plazuela Las Banderas ist ein beliebter Platz in Chimbote.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.593771,
+                        -9.075223
+                  ]
+            },
+            {
+                  "name": "Mirador Pasco",
+                  "text": "Der Mirador Pasco ist ein Aussichtspunkt in Chimbote.",
+                  "category": "natural",
+                  "coords": [
+                        -78.57393,
+                        -9.094347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vivero Forestal",
+                  "text": "Vidámpark Chimbotéban.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.592394,
+                        -9.057662
+                  ]
+            },
+            {
+                  "name": "Bahía de Chimbote",
+                  "text": "Öböl Chimbote közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.59062,
+                        -9.121904
+                  ]
+            },
+            {
+                  "name": "Almirante Miguel Grau Seminario",
+                  "text": "Emlékmű Chimbotéban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590154,
+                        -9.078398
+                  ]
+            },
+            {
+                  "name": "Boulevard",
+                  "text": "Sétány Chimbotéban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597517,
+                        -9.074119
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires Beatos",
+                  "text": "A Monumento a los Mártires Beatos egy emlékmű Chimbotéban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.587721,
+                        -9.077073
+                  ]
+            },
+            {
+                  "name": "Monumento a Haya de la Torre",
+                  "text": "A Monumento a Haya de la Torre egy emlékmű Chimbotéban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590774,
+                        -9.07621
+                  ]
+            },
+            {
+                  "name": "Monumento a la Justicia",
+                  "text": "A Monumento a la Justicia egy emlékmű Chimbotéban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.58959,
+                        -9.076533
+                  ]
+            },
+            {
+                  "name": "Monumentos Marinos",
+                  "text": "A Monumentos Marinos tengeri emlékművek Chimbotéban.",
+                  "category": "historical",
+                  "coords": [
+                        -78.59898,
+                        -9.073704
+                  ]
+            },
+            {
+                  "name": "Plazuela Las Banderas",
+                  "text": "A Plazuela Las Banderas egy népszerű tér Chimbotéban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.593771,
+                        -9.075223
+                  ]
+            },
+            {
+                  "name": "Mirador Pasco",
+                  "text": "A Mirador Pasco egy kilátópont Chimbotéban.",
+                  "category": "natural",
+                  "coords": [
+                        -78.57393,
+                        -9.094347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vivero Forestal",
+                  "text": "Parc tematic în Chimbote.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.592394,
+                        -9.057662
+                  ]
+            },
+            {
+                  "name": "Bahía de Chimbote",
+                  "text": "Golf lângă Chimbote.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.59062,
+                        -9.121904
+                  ]
+            },
+            {
+                  "name": "Almirante Miguel Grau Seminario",
+                  "text": "Monument în Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590154,
+                        -9.078398
+                  ]
+            },
+            {
+                  "name": "Boulevard",
+                  "text": "Bulevard în Chimbote.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597517,
+                        -9.074119
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires Beatos",
+                  "text": "Monumento a los Mártires Beatos este un monument în Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.587721,
+                        -9.077073
+                  ]
+            },
+            {
+                  "name": "Monumento a Haya de la Torre",
+                  "text": "Monumento a Haya de la Torre este un monument în Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590774,
+                        -9.07621
+                  ]
+            },
+            {
+                  "name": "Monumento a la Justicia",
+                  "text": "Monumento a la Justicia este un monument în Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.58959,
+                        -9.076533
+                  ]
+            },
+            {
+                  "name": "Monumentos Marinos",
+                  "text": "Monumentos Marinos sunt monumente marine în Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.59898,
+                        -9.073704
+                  ]
+            },
+            {
+                  "name": "Plazuela Las Banderas",
+                  "text": "Plazuela Las Banderas este o piață populară în Chimbote.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.593771,
+                        -9.075223
+                  ]
+            },
+            {
+                  "name": "Mirador Pasco",
+                  "text": "Mirador Pasco este un punct de observare în Chimbote.",
+                  "category": "natural",
+                  "coords": [
+                        -78.57393,
+                        -9.094347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vivero Forestal",
+                  "text": "Theme park in Chimbote.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.592394,
+                        -9.057662
+                  ]
+            },
+            {
+                  "name": "Chimbote Bay",
+                  "text": "Bay near Chimbote.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.59062,
+                        -9.121904
+                  ]
+            },
+            {
+                  "name": "Almirante Miguel Grau Seminario",
+                  "text": "Monument in Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590154,
+                        -9.078398
+                  ]
+            },
+            {
+                  "name": "Boulevard",
+                  "text": "Boulevard in Chimbote.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.597517,
+                        -9.074119
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires Beatos",
+                  "text": "Monumento a los Mártires Beatos is a monument in Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.587721,
+                        -9.077073
+                  ]
+            },
+            {
+                  "name": "Monumento a Haya de la Torre",
+                  "text": "Monumento a Haya de la Torre is a monument in Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.590774,
+                        -9.07621
+                  ]
+            },
+            {
+                  "name": "Monumento a la Justicia",
+                  "text": "Monumento a la Justicia is a monument in Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.58959,
+                        -9.076533
+                  ]
+            },
+            {
+                  "name": "Monumentos Marinos",
+                  "text": "Monumentos Marinos are marine monuments in Chimbote.",
+                  "category": "historical",
+                  "coords": [
+                        -78.59898,
+                        -9.073704
+                  ]
+            },
+            {
+                  "name": "Plazuela Las Banderas",
+                  "text": "Plazuela Las Banderas is a popular square in Chimbote.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.593771,
+                        -9.075223
+                  ]
+            },
+            {
+                  "name": "Mirador Pasco",
+                  "text": "Mirador Pasco is a viewpoint in Chimbote.",
+                  "category": "natural",
+                  "coords": [
+                        -78.57393,
+                        -9.094347
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PE-ANC",
     coords: [-78.591, -9.0768],

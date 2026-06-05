@@ -164,7 +164,52 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Port-Saïd a été officiellement fondée le 25 avril 1859.", "La ville est située à environ 200 kilomètres au nord-est du Caire.", "Le phare de Port-Saïd (1869) fut la première structure en béton armé au monde.", "Port-Saïd a été déclarée zone franche en 1976.", "La ville compte une population d'environ 750 000 habitants.", "Le bâtiment de l'Autorité du canal de Suez est l'un des monuments les plus célèbres."],
     }, image: "/poi-images/port-said-cities-v2.webp"},
   {
-    id: "suez-cities-v2",
+    id: "suez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "حديقة الشهداء",
+                  "text": "Der Martyrs' Park ist eine Attraktion in Sues.",
+                  "category": "landmark",
+                  "coords": [
+                        32.553772,
+                        29.960866
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "حديقة الشهداء",
+                  "text": "A Martyrs' Park egy látványosság Sues városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.553772,
+                        29.960866
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "حديقة الشهداء",
+                  "text": "Martyrs' Park este o atracție situată în Sues.",
+                  "category": "landmark",
+                  "coords": [
+                        32.553772,
+                        29.960866
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Martyrs' Park",
+                  "text": "Martyrs' Park is an outdoor attraction located in Sues.",
+                  "category": "landmark",
+                  "coords": [
+                        32.553772,
+                        29.960866
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-SUZ",
     coords: [32.5263, 29.9668],
@@ -199,7 +244,196 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Suez se trouve à environ 135 kilomètres à l'est du Caire.", "La ville compte une population d'environ 650 000 habitants.", "Le canal de Suez a été solennellement inauguré le 17 novembre 1869.", "Le port de Port Tewfik sert de port de passagers pour la mer Rouge.", "La ville abrite l'une des plus grandes raffineries de pétrole d'Égypte.", "Suez fut la première ville égyptienne libérée pendant la guerre de 1973."],
     }, image: "/poi-images/suez-cities-v2.webp"},
   {
-    id: "mansoura-cities-v2",
+    id: "mansoura-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mansoura Zoo",
+                  "text": "Mansoura Zoo ist ein bekannter Zoo in Al-Mansura.",
+                  "category": "recreational",
+                  "coords": [
+                        31.400556,
+                        31.053014
+                  ]
+            },
+            {
+                  "name": "قصر الثقافة",
+                  "text": "قصر الثقافة ist ein Theater in Al-Mansura.",
+                  "category": "cultural",
+                  "coords": [
+                        31.387024,
+                        31.048505
+                  ]
+            },
+            {
+                  "name": "مسرح المنصورة القومي",
+                  "text": "مسرح المنصورة القومي ist ein Theater in Al-Mansura.",
+                  "category": "cultural",
+                  "coords": [
+                        31.378957,
+                        31.047034
+                  ]
+            },
+            {
+                  "name": "دار بن لقمان",
+                  "text": "دار بن لقمان ist ein Museum in Al-Mansura.",
+                  "category": "museum",
+                  "coords": [
+                        31.379935,
+                        31.045288
+                  ]
+            },
+            {
+                  "name": "Abo Shäkêr",
+                  "text": "Abo Shäkêr ist ein Aussichtspunkt in Al-Mansura.",
+                  "category": "natural",
+                  "coords": [
+                        31.390331,
+                        31.029694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mansoura Zoo",
+                  "text": "A Mansoura Zoo egy jelentős állatkert Al-Mansura városában.",
+                  "category": "recreational",
+                  "coords": [
+                        31.400556,
+                        31.053014
+                  ]
+            },
+            {
+                  "name": "قصر الثقافة",
+                  "text": "A قصر الثقافة egy színház Al-Mansura városában.",
+                  "category": "cultural",
+                  "coords": [
+                        31.387024,
+                        31.048505
+                  ]
+            },
+            {
+                  "name": "مسرح المنصورة القومي",
+                  "text": "A مسرح المنصورة القومي egy színház Al-Mansura városában.",
+                  "category": "cultural",
+                  "coords": [
+                        31.378957,
+                        31.047034
+                  ]
+            },
+            {
+                  "name": "دار بن لقمان",
+                  "text": "A دار بن لقمان egy múzeum Al-Mansura városában.",
+                  "category": "museum",
+                  "coords": [
+                        31.379935,
+                        31.045288
+                  ]
+            },
+            {
+                  "name": "Abo Shäkêr",
+                  "text": "Az Abo Shäkêr egy kilátó Al-Mansura városában.",
+                  "category": "natural",
+                  "coords": [
+                        31.390331,
+                        31.029694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mansoura Zoo",
+                  "text": "Mansoura Zoo este o grădină zoologică notabilă din Al-Mansura.",
+                  "category": "recreational",
+                  "coords": [
+                        31.400556,
+                        31.053014
+                  ]
+            },
+            {
+                  "name": "قصر الثقافة",
+                  "text": "قصر الثقافة este un teatru în Al-Mansura.",
+                  "category": "cultural",
+                  "coords": [
+                        31.387024,
+                        31.048505
+                  ]
+            },
+            {
+                  "name": "مسرح المنصورة القومي",
+                  "text": "مسرح المنصورة القومي este un teatru în Al-Mansura.",
+                  "category": "cultural",
+                  "coords": [
+                        31.378957,
+                        31.047034
+                  ]
+            },
+            {
+                  "name": "دار بن لقمان",
+                  "text": "دار بن لقمان este un muzeu în Al-Mansura.",
+                  "category": "museum",
+                  "coords": [
+                        31.379935,
+                        31.045288
+                  ]
+            },
+            {
+                  "name": "Abo Shäkêr",
+                  "text": "Abo Shäkêr este un punct de belvedere în Al-Mansura.",
+                  "category": "natural",
+                  "coords": [
+                        31.390331,
+                        31.029694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mansoura Zoo",
+                  "text": "Mansoura Zoo is a notable zoo in Al-Mansura.",
+                  "category": "recreational",
+                  "coords": [
+                        31.400556,
+                        31.053014
+                  ]
+            },
+            {
+                  "name": "قصر الثقافة",
+                  "text": "قصر الثقافة is a theatre in Al-Mansura.",
+                  "category": "cultural",
+                  "coords": [
+                        31.387024,
+                        31.048505
+                  ]
+            },
+            {
+                  "name": "مسرح المنصورة القومي",
+                  "text": "مسرح المنصورة القومي is a theatre in Al-Mansura.",
+                  "category": "cultural",
+                  "coords": [
+                        31.378957,
+                        31.047034
+                  ]
+            },
+            {
+                  "name": "دار بن لقمان",
+                  "text": "دار بن لقمان is a museum in Al-Mansura.",
+                  "category": "museum",
+                  "coords": [
+                        31.379935,
+                        31.045288
+                  ]
+            },
+            {
+                  "name": "Abo Shäkêr",
+                  "text": "Abo Shäkêr is a viewpoint in Al-Mansura.",
+                  "category": "natural",
+                  "coords": [
+                        31.390331,
+                        31.029694
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-DK",
     coords: [31.3785, 31.0364],
@@ -304,7 +538,268 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Tanta est la cinquième plus grande ville d'Égypte.", "La ville se trouve à environ 94 kilomètres au nord du Caire.", "L'université de Tanta a été fondée en 1972.", "Le festival du Mouled attire chaque année jusqu'à 3 millions de personnes.", "Tanta est un carrefour important pour le réseau ferroviaire égyptien.", "La ville est célèbre pour le 'Hab el-Aziz', une sucrerie locale."],
     }, image: "/poi-images/tanta-cities-v2.webp"},
   {
-    id: "asyut-cities-v2",
+    id: "asyut-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "المدينة الجامعية للطلبة",
+                  "text": "المدينة الجامعية للطلبة ist eine Attraktion in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.176416,
+                        27.187294
+                  ]
+            },
+            {
+                  "name": "جراجات الجامعة",
+                  "text": "جراجات الجامعة ist eine Attraktion in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168172,
+                        27.187727
+                  ]
+            },
+            {
+                  "name": "المبني الإداري",
+                  "text": "المبني الإداري ist eine Attraktion in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.172617,
+                        27.188506
+                  ]
+            },
+            {
+                  "name": "مطعم كمونة",
+                  "text": "مطعم كمونة ist eine Attraktion in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.19396,
+                        27.186602
+                  ]
+            },
+            {
+                  "name": "شقة هالة",
+                  "text": "شقة هالة ist eine Attraktion in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.188756,
+                        27.168222
+                  ]
+            },
+            {
+                  "name": "ارسالية كندا",
+                  "text": "ارسالية كندا ist eine Attraktion in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.187252,
+                        27.185645
+                  ]
+            },
+            {
+                  "name": "نهضة قداسة اسيوط",
+                  "text": "Die Church ist eine Attraktion in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.182377,
+                        27.184158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "المدينة الجامعية للطلبة",
+                  "text": "A المدينة الجامعية للطلبة egy látványosság Assiutban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.176416,
+                        27.187294
+                  ]
+            },
+            {
+                  "name": "جراجات الجامعة",
+                  "text": "A جراجات الجامعة egy látványosság Assiutban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168172,
+                        27.187727
+                  ]
+            },
+            {
+                  "name": "المبني الإداري",
+                  "text": "A المبني الإداري egy látványosság Assiutban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.172617,
+                        27.188506
+                  ]
+            },
+            {
+                  "name": "مطعم كمونة",
+                  "text": "A مطعم كمونة egy látványosság Assiutban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.19396,
+                        27.186602
+                  ]
+            },
+            {
+                  "name": "شقة هالة",
+                  "text": "A شقة هالة egy látványosság Assiutban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.188756,
+                        27.168222
+                  ]
+            },
+            {
+                  "name": "ارسالية كندا",
+                  "text": "Az ارسالية كندا egy látványosság Assiutban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.187252,
+                        27.185645
+                  ]
+            },
+            {
+                  "name": "نهضة قداسة اسيوط",
+                  "text": "A church egy látványosság Assiutban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.182377,
+                        27.184158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "المدينة الجامعية للطلبة",
+                  "text": "المدينة الجامعية للطلبة este o atracție în Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.176416,
+                        27.187294
+                  ]
+            },
+            {
+                  "name": "جراجات الجامعة",
+                  "text": "جراجات الجامعة este o atracție în Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168172,
+                        27.187727
+                  ]
+            },
+            {
+                  "name": "المبني الإداري",
+                  "text": "المبني الإداري este o atracție în Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.172617,
+                        27.188506
+                  ]
+            },
+            {
+                  "name": "مطعم كمونة",
+                  "text": "مطعم كمونة este o atracție în Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.19396,
+                        27.186602
+                  ]
+            },
+            {
+                  "name": "شقة هالة",
+                  "text": "شقة هالة este o atracție în Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.188756,
+                        27.168222
+                  ]
+            },
+            {
+                  "name": "ارسالية كندا",
+                  "text": "ارسالية كندا este o atracție în Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.187252,
+                        27.185645
+                  ]
+            },
+            {
+                  "name": "نهضة قداسة اسيوط",
+                  "text": "Church este o atracție în Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.182377,
+                        27.184158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "المدينة الجامعية للطلبة",
+                  "text": "المدينة الجامعية للطلبة is an attraction in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.176416,
+                        27.187294
+                  ]
+            },
+            {
+                  "name": "جراجات الجامعة",
+                  "text": "جراجات الجامعة is an attraction in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.168172,
+                        27.187727
+                  ]
+            },
+            {
+                  "name": "المبني الإداري",
+                  "text": "المبني الإداري is an attraction in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.172617,
+                        27.188506
+                  ]
+            },
+            {
+                  "name": "مطعم كمونة",
+                  "text": "مطعم كمونة is an attraction in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.19396,
+                        27.186602
+                  ]
+            },
+            {
+                  "name": "شقة هالة",
+                  "text": "شقة هالة is an attraction in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.188756,
+                        27.168222
+                  ]
+            },
+            {
+                  "name": "ارسالية كندا",
+                  "text": "ارسالية كندا is an attraction in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.187252,
+                        27.185645
+                  ]
+            },
+            {
+                  "name": "church",
+                  "text": "This church is an attraction in Assiut.",
+                  "category": "landmark",
+                  "coords": [
+                        31.182377,
+                        27.184158
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-AST",
     coords: [31.1862, 27.181],
@@ -374,7 +869,52 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Ismaïlia a été officiellement fondée le 4 mars 1863.", "La ville compte environ 400 000 habitants.", "L'Autorité du canal de Suez y possède son siège opérationnel.", "Ismaïlia se trouve à environ 120 kilomètres à l'est du Caire.", "Le nom du lac Timsah se traduit par « lac du crocodile ».", "Le musée d'Ismaïlia abrite plus de 4 000 objets archéologiques."],
     }, image: "/poi-images/ismailia-cities-v2.webp"},
   {
-    id: "faiyum-cities-v2",
+    id: "faiyum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Obelisk of Senwosret",
+                  "text": "Der Obelisk von Senwosret ist eine Attraktion in al-Fayyum.",
+                  "category": "landmark",
+                  "coords": [
+                        30.852581,
+                        29.315308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Obelisk of Senwosret",
+                  "text": "Szenuszert obeliszkje egy látványosság al-Fayyum területén.",
+                  "category": "landmark",
+                  "coords": [
+                        30.852581,
+                        29.315308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Obelisk of Senwosret",
+                  "text": "Obeliscul lui Senwosret este o atracție aflată în al-Fayyum.",
+                  "category": "landmark",
+                  "coords": [
+                        30.852581,
+                        29.315308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Obelisk of Senwosret",
+                  "text": "The Obelisk of Senwosret is an attraction found in al-Fayyum.",
+                  "category": "landmark",
+                  "coords": [
+                        30.852581,
+                        29.315308
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-FYM",
     coords: [30.8418, 29.3084],
@@ -444,7 +984,52 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Zagazig a été officiellement fondée en 1830 sous le règne de Muhammad Ali Pacha.", "Les ruines de Bubastis se trouvent à environ 3 kilomètres seulement au sud-est du centre-ville moderne.", "L'université de Zagazig est devenue une institution indépendante en 1974 en se détachant de l'université du Caire.", "À Bubastis, des vestiges de temples remontant à la IVe dynastie de l'Ancien Empire ont été découverts.", "La ville est le lieu de naissance du héros national égyptien Ahmed Urabi, qui mena la révolution de 1882.", "Zagazig se trouve à environ 80 kilomètres au nord-est de la capitale égyptienne, Le Caire."],
     }, image: "/poi-images/zagazig-cities-v2.webp"},
   {
-    id: "damietta-cities-v2",
+    id: "damietta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "سوق السمك",
+                  "text": "Der Fish market ist eine lokale Attraktion in Damiette.",
+                  "category": "landmark",
+                  "coords": [
+                        31.809981,
+                        31.421047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "سوق السمك",
+                  "text": "A Fish market egy látványosság Damiette területén.",
+                  "category": "landmark",
+                  "coords": [
+                        31.809981,
+                        31.421047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "سوق السمك",
+                  "text": "Fish market este o atracție turistică în Damiette.",
+                  "category": "landmark",
+                  "coords": [
+                        31.809981,
+                        31.421047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fish market",
+                  "text": "The Fish market is an attraction located in Damiette.",
+                  "category": "landmark",
+                  "coords": [
+                        31.809981,
+                        31.421047
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-DT",
     coords: [31.8155, 31.4165],
@@ -584,7 +1169,160 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Dans l'Antiquité, Damanhur était la capitale du 7e nome de Basse-Égypte.", "L'opéra de Damanhur a été construit en 1930 et est l'un des trois seuls opéras historiques d'Égypte.", "Damanhur se situe à environ 160 kilomètres au nord-ouest du Caire et à 70 kilomètres au sud-est d'Alexandrie.", "La ville est un nœud ferroviaire majeur sur la ligne principale Le Caire-Alexandrie.", "Damanhur est réputée pour son tissage de tapis et son industrie textile.", "Le Mawlid d'Abou Hassira était autrefois fréquenté par près de 25 000 personnes chaque année."],
     }, image: "/poi-images/damanhur-cities-v2.webp"},
   {
-    id: "beni-suef-cities-v2",
+    id: "beni-suef-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف بنى سويف",
+                  "text": "Das Museum von Beni Suef stellt regionale historische Altertümer aus.",
+                  "category": "museum",
+                  "coords": [
+                        31.101303,
+                        29.084062
+                  ]
+            },
+            {
+                  "name": "برج سكني تجاري اداري",
+                  "text": "برج سكني تجاري اداري ist ein ausgewiesener Strandbereich in Beni Suef.",
+                  "category": "recreational",
+                  "coords": [
+                        31.101694,
+                        29.05502
+                  ]
+            },
+            {
+                  "name": "تمثال العبور",
+                  "text": "تمثال العبور ist ein Denkmal in Beni Suef.",
+                  "category": "historical",
+                  "coords": [
+                        31.102945,
+                        29.083542
+                  ]
+            },
+            {
+                  "name": "ميدان المديرية",
+                  "text": "ميدان المديرية ist ein Denkmal in Beni Suef.",
+                  "category": "historical",
+                  "coords": [
+                        31.097133,
+                        29.075587
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف بنى سويف",
+                  "text": "A Beni Suef Múzeum regionális történelmi régiségeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        31.101303,
+                        29.084062
+                  ]
+            },
+            {
+                  "name": "برج سكني تجاري اداري",
+                  "text": "A برج سكني تجاري اداري egy tengerparti terület Beni Suef városában.",
+                  "category": "recreational",
+                  "coords": [
+                        31.101694,
+                        29.05502
+                  ]
+            },
+            {
+                  "name": "تمثال العبور",
+                  "text": "A تمثال العبور egy emlékmű Beni Suef városában.",
+                  "category": "historical",
+                  "coords": [
+                        31.102945,
+                        29.083542
+                  ]
+            },
+            {
+                  "name": "ميدان المديرية",
+                  "text": "A ميدان المديرية egy emlékmű Beni Suef városában.",
+                  "category": "historical",
+                  "coords": [
+                        31.097133,
+                        29.075587
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف بنى سويف",
+                  "text": "Muzeul din Beni Suef expune antichități istorice regionale.",
+                  "category": "museum",
+                  "coords": [
+                        31.101303,
+                        29.084062
+                  ]
+            },
+            {
+                  "name": "برج سكني تجاري اداري",
+                  "text": "برج سكني تجاري اداري este o zonă de plajă din Beni Suef.",
+                  "category": "recreational",
+                  "coords": [
+                        31.101694,
+                        29.05502
+                  ]
+            },
+            {
+                  "name": "تمثال العبور",
+                  "text": "تمثال العبور este un monument din Beni Suef.",
+                  "category": "historical",
+                  "coords": [
+                        31.102945,
+                        29.083542
+                  ]
+            },
+            {
+                  "name": "ميدان المديرية",
+                  "text": "ميدان المديرية este un monument situat în Beni Suef.",
+                  "category": "historical",
+                  "coords": [
+                        31.097133,
+                        29.075587
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beni Suef Museum",
+                  "text": "The Beni Suef Museum is an institution exhibiting regional historical antiquities.",
+                  "category": "museum",
+                  "coords": [
+                        31.101303,
+                        29.084062
+                  ]
+            },
+            {
+                  "name": "برج سكني تجاري اداري",
+                  "text": "برج سكني تجاري اداري is a designated beach area located in Beni Suef.",
+                  "category": "recreational",
+                  "coords": [
+                        31.101694,
+                        29.05502
+                  ]
+            },
+            {
+                  "name": "تمثال العبور",
+                  "text": "تمثال العبور is a local monument in Beni Suef.",
+                  "category": "historical",
+                  "coords": [
+                        31.102945,
+                        29.083542
+                  ]
+            },
+            {
+                  "name": "ميدان المديرية",
+                  "text": "ميدان المديرية is a monument square situated in Beni Suef.",
+                  "category": "historical",
+                  "coords": [
+                        31.097133,
+                        29.075587
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-BNS",
     coords: [31.0963, 29.0661],
@@ -619,7 +1357,196 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["La pyramide de Meïdoum, à 30 km au nord, fut probablement achevée sous le pharaon Snéfrou.", "Beni Souef abrite l'une des plus grandes centrales électriques à turbine à gaz au monde (Siemens).", "L'université de Beni Souef a été fondée en 2005 en tant qu'université indépendante.", "La ville est réputée pour ses grandes cimenteries, dont l'une des plus vastes installations au monde.", "Beni Souef est située sur la ligne de chemin de fer principale reliant le Caire à Assouan.", "La région est leader dans la production égyptienne d'huiles aromatiques et d'herbes médicinales."],
     }, image: "/poi-images/beni-suef-cities-v2.webp"},
   {
-    id: "hurghada-cities-v2",
+    id: "hurghada-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cinema",
+                  "text": "Das Cinema ist ein Theater in Hurghada.",
+                  "category": "cultural",
+                  "coords": [
+                        33.8248,
+                        27.245323
+                  ]
+            },
+            {
+                  "name": "Family Beach 2",
+                  "text": "Family Beach 2 ist ein Strand in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840498,
+                        27.248454
+                  ]
+            },
+            {
+                  "name": "Red Sea Aquarium",
+                  "text": "Das Red Sea Aquarium ist ein Aquarium in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.819116,
+                        27.261642
+                  ]
+            },
+            {
+                  "name": "El Sawaki Camp",
+                  "text": "El Sawaki Camp ist ein Strand in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.824324,
+                        27.259127
+                  ]
+            },
+            {
+                  "name": "كنيسة الإخوة الغردقة",
+                  "text": "كنيسة الإخوة الغردقة ist eine Attraktion in Hurghada.",
+                  "category": "landmark",
+                  "coords": [
+                        33.805279,
+                        27.26238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cinema",
+                  "text": "A Cinema egy színház Hurghadában.",
+                  "category": "cultural",
+                  "coords": [
+                        33.8248,
+                        27.245323
+                  ]
+            },
+            {
+                  "name": "Family Beach 2",
+                  "text": "A Family Beach 2 egy strand Hurghadában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840498,
+                        27.248454
+                  ]
+            },
+            {
+                  "name": "Red Sea Aquarium",
+                  "text": "A Red Sea Aquarium egy akvárium Hurghadában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.819116,
+                        27.261642
+                  ]
+            },
+            {
+                  "name": "El Sawaki Camp",
+                  "text": "Az El Sawaki Camp egy strand Hurghadában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.824324,
+                        27.259127
+                  ]
+            },
+            {
+                  "name": "كنيسة الإخوة الغردقة",
+                  "text": "A كنيسة الإخوة الغردقة egy látványosság Hurghadában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.805279,
+                        27.26238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cinema",
+                  "text": "Cinema este un teatru din Hurghada.",
+                  "category": "cultural",
+                  "coords": [
+                        33.8248,
+                        27.245323
+                  ]
+            },
+            {
+                  "name": "Family Beach 2",
+                  "text": "Family Beach 2 este o plajă în Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840498,
+                        27.248454
+                  ]
+            },
+            {
+                  "name": "Red Sea Aquarium",
+                  "text": "Red Sea Aquarium este un acvariu din Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.819116,
+                        27.261642
+                  ]
+            },
+            {
+                  "name": "El Sawaki Camp",
+                  "text": "El Sawaki Camp este o plajă în Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.824324,
+                        27.259127
+                  ]
+            },
+            {
+                  "name": "كنيسة الإخوة الغردقة",
+                  "text": "كنيسة الإخوة الغردقة este o atracție în Hurghada.",
+                  "category": "landmark",
+                  "coords": [
+                        33.805279,
+                        27.26238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cinema",
+                  "text": "Cinema is a theatre in Hurghada.",
+                  "category": "cultural",
+                  "coords": [
+                        33.8248,
+                        27.245323
+                  ]
+            },
+            {
+                  "name": "Family Beach 2",
+                  "text": "Family Beach 2 is a beach in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.840498,
+                        27.248454
+                  ]
+            },
+            {
+                  "name": "Red Sea Aquarium",
+                  "text": "The Red Sea Aquarium is an aquarium in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.819116,
+                        27.261642
+                  ]
+            },
+            {
+                  "name": "El Sawaki Camp",
+                  "text": "El Sawaki Camp is a beach in Hurghada.",
+                  "category": "recreational",
+                  "coords": [
+                        33.824324,
+                        27.259127
+                  ]
+            },
+            {
+                  "name": "كنيسة الإخوة الغردقة",
+                  "text": "كنيسة الإخوة الغردقة is an attraction in Hurghada.",
+                  "category": "landmark",
+                  "coords": [
+                        33.805279,
+                        27.26238
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-BA",
     coords: [33.8116, 27.2579],
@@ -689,7 +1616,52 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Le temple de Dendérah se trouve à seulement environ 5 kilomètres à l'ouest de Qena, de l'autre côté du Nil.", "Qena a été récompensée à plusieurs reprises comme la ville la plus propre d'Égypte.", "La ville est un arrêt important sur la ligne de chemin de fer Le Caire-Assouan.", "Qena est le centre de l'industrie de la poterie égyptienne pour les récipients en terre cuite.", "L'université de South Valley à Qena a été fondée en 1995.", "Qena abrite la plus grande cimenterie du Moyen-Orient."],
     }, image: "/poi-images/qena-cities-v2.webp"},
   {
-    id: "sohag-cities-v2",
+    id: "sohag-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Egiptian Obelisk",
+                  "text": "Der Egiptian Obelisk ist eine Attraktion in Sohag.",
+                  "category": "landmark",
+                  "coords": [
+                        31.706461,
+                        26.560053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Egiptian Obelisk",
+                  "text": "Az Egiptian Obelisk egy látványosság Sohag városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.706461,
+                        26.560053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Egiptian Obelisk",
+                  "text": "Egiptian Obelisk este o atracție din Sohag.",
+                  "category": "landmark",
+                  "coords": [
+                        31.706461,
+                        26.560053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Egiptian Obelisk",
+                  "text": "The Egiptian Obelisk is an attraction in Sohag.",
+                  "category": "landmark",
+                  "coords": [
+                        31.706461,
+                        26.560053
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-SHG",
     coords: [31.7042, 26.557],
@@ -759,7 +1731,88 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["L'université de Menofia à Shibin El Kom a été fondée en 1976 par un décret du président Sadate.", "Shibin El Kom abrite l'une des plus grandes usines textiles du Moyen-Orient.", "La ville est située à environ 75 kilomètres au nord-ouest de la capitale égyptienne, le Caire.", "Shibin El Kom est directement reliée au bras de Rosette du Nil par le canal d'El-Baguriya.", "La ville abrite de nombreuses usines importantes de l'industrie du tabac en Égypte.", "Shibin El Kom est un nœud ferroviaire central au sein du gouvernorat de Menufia."],
     }, image: "/poi-images/shibin-el-kom-cities-v2.webp"},
   {
-    id: "banha-cities-v2",
+    id: "banha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مختار خضر",
+                  "text": "مختار خضر ist eine Burg in der Stadt Banha.",
+                  "category": "castle",
+                  "coords": [
+                        31.158279,
+                        30.470062
+                  ]
+            },
+            {
+                  "name": "بطا",
+                  "text": "BTA ist eine Sehenswürdigkeit in Banha.",
+                  "category": "landmark",
+                  "coords": [
+                        31.169272,
+                        30.462562
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مختار خضر",
+                  "text": "A مختار خضر egy vár Banha városában.",
+                  "category": "castle",
+                  "coords": [
+                        31.158279,
+                        30.470062
+                  ]
+            },
+            {
+                  "name": "بطا",
+                  "text": "A BTA egy látványosság Banha városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.169272,
+                        30.462562
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مختار خضر",
+                  "text": "مختار خضر este un castel din Banha.",
+                  "category": "castle",
+                  "coords": [
+                        31.158279,
+                        30.470062
+                  ]
+            },
+            {
+                  "name": "بطا",
+                  "text": "BTA este o atracție în Banha.",
+                  "category": "landmark",
+                  "coords": [
+                        31.169272,
+                        30.462562
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "مختار خضر",
+                  "text": "مختار خضر is a castle located in Banha.",
+                  "category": "castle",
+                  "coords": [
+                        31.158279,
+                        30.470062
+                  ]
+            },
+            {
+                  "name": "BTA",
+                  "text": "BTA is an attraction in Banha.",
+                  "category": "landmark",
+                  "coords": [
+                        31.169272,
+                        30.462562
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-QTB",
     coords: [31.1798, 30.4662],
@@ -934,7 +1987,196 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Considéré comme l'un des plus anciens lieux habités du delta oriental du Nil.", "Abrite la mosquée Sadat Quraish datant du VIIe siècle.", "Siège de la célèbre Académie de l'armée de l'air égyptienne.", "Était un point de défense stratégique pendant les Croisades.", "Situé sur l'ancienne branche pélusiaque du Nil.", "La ville compte une population estimée à 150 000 habitants."],
     }, image: "/poi-images/bilbais-cities-v2.webp"},
   {
-    id: "marsa-matruh-cities-v2",
+    id: "marsa-matruh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف كهف رومل",
+                  "text": "Das Rommel Cave Museum ist ein Museum in Marsa Matruh.",
+                  "category": "museum",
+                  "coords": [
+                        27.248435,
+                        31.36562
+                  ]
+            },
+            {
+                  "name": "El-Passant Beach",
+                  "text": "El-Passant Beach ist ein Strand in Marsa Matruh.",
+                  "category": "recreational",
+                  "coords": [
+                        27.255696,
+                        31.362838
+                  ]
+            },
+            {
+                  "name": "شارع اسكندرية. مرسي مطروح",
+                  "text": "Die Alexandria Street ist ein Aussichtspunkt in der Stadt Marsa Matruh.",
+                  "category": "natural",
+                  "coords": [
+                        27.240173,
+                        31.355168
+                  ]
+            },
+            {
+                  "name": "شاطئ الغرام",
+                  "text": "Love beach ist eine Touristenattraktion in Marsa Matruh.",
+                  "category": "landmark",
+                  "coords": [
+                        27.221675,
+                        31.368321
+                  ]
+            },
+            {
+                  "name": "شاطئ العوام",
+                  "text": "Der Al-Awam-Strand ist ein malerischer Aussichtspunkt in Marsa Matruh.",
+                  "category": "natural",
+                  "coords": [
+                        27.230426,
+                        31.357623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف كهف رومل",
+                  "text": "A Rommel Cave Museum egy múzeum Marsa Matruh városában.",
+                  "category": "museum",
+                  "coords": [
+                        27.248435,
+                        31.36562
+                  ]
+            },
+            {
+                  "name": "El-Passant Beach",
+                  "text": "Az El-Passant Beach egy strand Marsa Matruh városában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.255696,
+                        31.362838
+                  ]
+            },
+            {
+                  "name": "شارع اسكندرية. مرسي مطروح",
+                  "text": "Az Alexandria Street egy kilátó Marsa Matruh városában.",
+                  "category": "natural",
+                  "coords": [
+                        27.240173,
+                        31.355168
+                  ]
+            },
+            {
+                  "name": "شاطئ الغرام",
+                  "text": "A Love beach egy turisztikai látványosság Marsa Matruh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.221675,
+                        31.368321
+                  ]
+            },
+            {
+                  "name": "شاطئ العوام",
+                  "text": "Az Al-Awam strand egy festői kilátó Marsa Matruhban.",
+                  "category": "natural",
+                  "coords": [
+                        27.230426,
+                        31.357623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف كهف رومل",
+                  "text": "Rommel Cave Museum este un muzeu în Marsa Matruh.",
+                  "category": "museum",
+                  "coords": [
+                        27.248435,
+                        31.36562
+                  ]
+            },
+            {
+                  "name": "El-Passant Beach",
+                  "text": "El-Passant Beach este o plajă în Marsa Matruh.",
+                  "category": "recreational",
+                  "coords": [
+                        27.255696,
+                        31.362838
+                  ]
+            },
+            {
+                  "name": "شارع اسكندرية. مرسي مطروح",
+                  "text": "Strada Alexandria este un punct de belvedere în orașul Marsa Matruh.",
+                  "category": "natural",
+                  "coords": [
+                        27.240173,
+                        31.355168
+                  ]
+            },
+            {
+                  "name": "شاطئ الغرام",
+                  "text": "Love beach este o atracție turistică situată în Marsa Matruh.",
+                  "category": "landmark",
+                  "coords": [
+                        27.221675,
+                        31.368321
+                  ]
+            },
+            {
+                  "name": "شاطئ العوام",
+                  "text": "Plaja Al-Awam este un punct de belvedere pitoresc situat în Marsa Matruh.",
+                  "category": "natural",
+                  "coords": [
+                        27.230426,
+                        31.357623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rommel Cave Museum",
+                  "text": "The Rommel Cave Museum is a museum in Marsa Matruh.",
+                  "category": "museum",
+                  "coords": [
+                        27.248435,
+                        31.36562
+                  ]
+            },
+            {
+                  "name": "El-Passant Beach",
+                  "text": "El-Passant Beach is a beach in Marsa Matruh.",
+                  "category": "recreational",
+                  "coords": [
+                        27.255696,
+                        31.362838
+                  ]
+            },
+            {
+                  "name": "شارع اسكندرية. مرسي مطروح",
+                  "text": "Alexandria Street is a viewpoint located in the city of Marsa Matruh.",
+                  "category": "natural",
+                  "coords": [
+                        27.240173,
+                        31.355168
+                  ]
+            },
+            {
+                  "name": "Love beach",
+                  "text": "Love beach is a tourist attraction located in Marsa Matruh.",
+                  "category": "landmark",
+                  "coords": [
+                        27.221675,
+                        31.368321
+                  ]
+            },
+            {
+                  "name": "شاطئ العوام",
+                  "text": "Al-Awam Beach is a scenic viewpoint situated in Marsa Matruh.",
+                  "category": "natural",
+                  "coords": [
+                        27.230426,
+                        31.357623
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-MT",
     coords: [27.2453, 31.3543],
@@ -969,7 +2211,124 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Située à environ 240 kilomètres à l'ouest d'Alexandrie, sur la Méditerranée.", "Abrite le musée Rommel dans une ancienne grotte militaire.", "Célèbre pour la plage de Cléopâtre et sa lagune rocheuse naturelle.", "Était dans l'Antiquité un port d'exportation de céréales important.", "Sert de point de départ pour les voyages vers l'oasis isolée de Siwa.", "Dispose d'un aéroport international pour promouvoir le tourisme."],
     }, image: "/poi-images/marsa-matruh-cities-v2.webp"},
   {
-    id: "idfu-cities-v2",
+    id: "idfu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "معبد إدفو",
+                  "text": "Der Edfu-Tempel ist eine archäologische Stätte in Edfu, die dem Gott Horus gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.872315,
+                        24.977166
+                  ]
+            },
+            {
+                  "name": "عرض الصوت والضواء",
+                  "text": "Die Sound & Light Show ist ein Theater in Edfu.",
+                  "category": "cultural",
+                  "coords": [
+                        32.873456,
+                        24.977706
+                  ]
+            },
+            {
+                  "name": "nice view towards Horus Temple",
+                  "text": "Nice view towards Horus Temple ist ein Aussichtspunkt in Edfu.",
+                  "category": "natural",
+                  "coords": [
+                        32.873153,
+                        24.979603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "معبد إدفو",
+                  "text": "Az edfui templom egy régészeti lelőhely Edfuban, amelyet Hórusz istennek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.872315,
+                        24.977166
+                  ]
+            },
+            {
+                  "name": "عرض الصوت والضواء",
+                  "text": "A Sound & Light Show egy színházi előadás Edfuban.",
+                  "category": "cultural",
+                  "coords": [
+                        32.873456,
+                        24.977706
+                  ]
+            },
+            {
+                  "name": "nice view towards Horus Temple",
+                  "text": "A nice view towards Horus Temple egy kilátópont Edfuban.",
+                  "category": "natural",
+                  "coords": [
+                        32.873153,
+                        24.979603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "معبد إدفو",
+                  "text": "Templul din Edfu este un sit arheologic din Edfu dedicat zeului Horus.",
+                  "category": "historical",
+                  "coords": [
+                        32.872315,
+                        24.977166
+                  ]
+            },
+            {
+                  "name": "عرض الصوت والضواء",
+                  "text": "Sound & Light Show este un teatru în Edfu.",
+                  "category": "cultural",
+                  "coords": [
+                        32.873456,
+                        24.977706
+                  ]
+            },
+            {
+                  "name": "nice view towards Horus Temple",
+                  "text": "Nice view towards Horus Temple este un punct de belvedere în Edfu.",
+                  "category": "natural",
+                  "coords": [
+                        32.873153,
+                        24.979603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Edfu Temple",
+                  "text": "The Temple of Edfu is an archaeological site in Edfu dedicated to the god Horus.",
+                  "category": "historical",
+                  "coords": [
+                        32.872315,
+                        24.977166
+                  ]
+            },
+            {
+                  "name": "Sound & Light Show",
+                  "text": "The Sound & Light Show is a theatre experience in Edfu.",
+                  "category": "cultural",
+                  "coords": [
+                        32.873456,
+                        24.977706
+                  ]
+            },
+            {
+                  "name": "nice view towards Horus Temple",
+                  "text": "Nice view towards Horus Temple is a viewpoint located in Edfu.",
+                  "category": "natural",
+                  "coords": [
+                        32.873153,
+                        24.979603
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-ASN",
     coords: [32.8756, 24.978],
@@ -1074,7 +2433,484 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Abrite l'une des plus grandes sucreries de tout le Moyen-Orient.", "Située dans le gouvernorat de Gizeh, à environ 20 kilomètres au sud du Caire.", "Site important pour l'industrie chimique et la transformation des métaux.", "Se trouve à proximité immédiate de l'ancienne capitale, Memphis.", "Dispose d'une gare sur la ligne principale Le Caire-Haute-Égypte.", "L'économie de la ville est étroitement liée à la culture de la canne à sucre."],
     }, image: "/poi-images/al-hawamdeya-cities-v2.webp"},
   {
-    id: "desouk-cities-v2",
+    id: "desouk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ملاهي",
+                  "text": "Der Amusement Park ist ein Freizeitpark in Desuk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.645073,
+                        31.124326
+                  ]
+            },
+            {
+                  "name": "قاعة الصفا",
+                  "text": "Die Al-Safa Hall ist ein Theater in Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.653322,
+                        31.118745
+                  ]
+            },
+            {
+                  "name": "قاعة حفلات ليلة العمر",
+                  "text": "Leelet Al-Omr ist ein Theater in Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.641669,
+                        31.128427
+                  ]
+            },
+            {
+                  "name": "قاعة حفلات",
+                  "text": "Die Wedding Hall ist ein Theater in der Stadt Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.643604,
+                        31.126164
+                  ]
+            },
+            {
+                  "name": "قصر ثقافة دسوق",
+                  "text": "Das Desouk Culture House ist ein Theater in Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.652436,
+                        31.142007
+                  ]
+            },
+            {
+                  "name": "ليلة العمر",
+                  "text": "Leylat Al-Omr ist ein Theater in der Stadt Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.64588,
+                        31.122836
+                  ]
+            },
+            {
+                  "name": "دار مناسبات",
+                  "text": "دار مناسبات ist ein Theater in der Stadt Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.652087,
+                        31.136993
+                  ]
+            },
+            {
+                  "name": "دار المناسبات",
+                  "text": "دار المناسبات ist ein Theater in Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.645847,
+                        31.127138
+                  ]
+            },
+            {
+                  "name": "حدائق الميدان الإبراهيمي",
+                  "text": "Al-Midan Al-Ibrahimy Gardens ist ein bekannter öffentlicher Park in der Stadt Desuk.",
+                  "category": "park",
+                  "coords": [
+                        30.644192,
+                        31.12741
+                  ]
+            },
+            {
+                  "name": "حديقة أم القرى",
+                  "text": "Um Al-Qura Garden ist ein bekannter Park, der eine Grünfläche in der Stadt Desuk bietet.",
+                  "category": "park",
+                  "coords": [
+                        30.665307,
+                        31.140954
+                  ]
+            },
+            {
+                  "name": "حديقة الفردوس",
+                  "text": "Al Fardous Garden ist eine Touristenattraktion in der Stadt Desuk.",
+                  "category": "landmark",
+                  "coords": [
+                        30.651667,
+                        31.119336
+                  ]
+            },
+            {
+                  "name": "مسجد إبراهيم الدسوقي",
+                  "text": "Die Ibrahim-El-Desouky-Moschee ist ein bedeutender islamischer Schrein in Desuk, der das Grab des berühmten Sufi-Heiligen beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        30.646641,
+                        31.128445
+                  ]
+            },
+            {
+                  "name": "كنيسة الشهيد العظيم مار جرجس",
+                  "text": "Die Church of St. George the Great Martyr ist eine bedeutende christliche Kultstätte in Desuk.",
+                  "category": "religious",
+                  "coords": [
+                        30.641462,
+                        31.131881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ملاهي",
+                  "text": "Az Amusement Park egy vidámpark Desuk városában.",
+                  "category": "recreational",
+                  "coords": [
+                        30.645073,
+                        31.124326
+                  ]
+            },
+            {
+                  "name": "قاعة الصفا",
+                  "text": "Az Al-Safa Hall egy színház Desuk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        30.653322,
+                        31.118745
+                  ]
+            },
+            {
+                  "name": "قاعة حفلات ليلة العمر",
+                  "text": "A Leelet Al-Omr egy színház Desuk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        30.641669,
+                        31.128427
+                  ]
+            },
+            {
+                  "name": "قاعة حفلات",
+                  "text": "A Wedding Hall egy színházként is funkcionáló létesítmény Desuk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        30.643604,
+                        31.126164
+                  ]
+            },
+            {
+                  "name": "قصر ثقافة دسوق",
+                  "text": "A Desouk Culture House egy színház Desuk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        30.652436,
+                        31.142007
+                  ]
+            },
+            {
+                  "name": "ليلة العمر",
+                  "text": "A Leylat Al-Omr egy színház Desuk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        30.64588,
+                        31.122836
+                  ]
+            },
+            {
+                  "name": "دار مناسبات",
+                  "text": "A دار مناسبات egy színház Desuk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        30.652087,
+                        31.136993
+                  ]
+            },
+            {
+                  "name": "دار المناسبات",
+                  "text": "A دار المناسبات egy színház Desuk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        30.645847,
+                        31.127138
+                  ]
+            },
+            {
+                  "name": "حدائق الميدان الإبراهيمي",
+                  "text": "Az Al-Midan Al-Ibrahimy Gardens egy ismert közpark Desuk városában.",
+                  "category": "park",
+                  "coords": [
+                        30.644192,
+                        31.12741
+                  ]
+            },
+            {
+                  "name": "حديقة أم القرى",
+                  "text": "Az Um Al-Qura Garden egy elismert park, amely zöldterületet kínál Desuk városában.",
+                  "category": "park",
+                  "coords": [
+                        30.665307,
+                        31.140954
+                  ]
+            },
+            {
+                  "name": "حديقة الفردوس",
+                  "text": "Az Al Fardous Garden egy turisztikai látványosság Desuk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        30.651667,
+                        31.119336
+                  ]
+            },
+            {
+                  "name": "مسجد إبراهيم الدسوقي",
+                  "text": "Az Ibrahim El-Desouky-mecset egy jelentős iszlám szentély Desukban, amely a híres szúfi szent sírját is magában foglalja.",
+                  "category": "religious",
+                  "coords": [
+                        30.646641,
+                        31.128445
+                  ]
+            },
+            {
+                  "name": "كنيسة الشهيد العظيم مار جرجس",
+                  "text": "A Szent György nagyvértanú templom egy figyelemre méltó keresztény istentiszteleti hely Desukban.",
+                  "category": "religious",
+                  "coords": [
+                        30.641462,
+                        31.131881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ملاهي",
+                  "text": "Amusement Park este un parc tematic în Desuk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.645073,
+                        31.124326
+                  ]
+            },
+            {
+                  "name": "قاعة الصفا",
+                  "text": "Al-Safa Hall este un teatru situat în Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.653322,
+                        31.118745
+                  ]
+            },
+            {
+                  "name": "قاعة حفلات ليلة العمر",
+                  "text": "Leelet Al-Omr este un teatru în Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.641669,
+                        31.128427
+                  ]
+            },
+            {
+                  "name": "قاعة حفلات",
+                  "text": "Wedding Hall este un teatru în Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.643604,
+                        31.126164
+                  ]
+            },
+            {
+                  "name": "قصر ثقافة دسوق",
+                  "text": "Desouk Culture House este un teatru din Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.652436,
+                        31.142007
+                  ]
+            },
+            {
+                  "name": "ليلة العمر",
+                  "text": "Leylat Al-Omr este un teatru situat în orașul Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.64588,
+                        31.122836
+                  ]
+            },
+            {
+                  "name": "دار مناسبات",
+                  "text": "دار مناسبات este un teatru situat în orașul Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.652087,
+                        31.136993
+                  ]
+            },
+            {
+                  "name": "دار المناسبات",
+                  "text": "دار المناسبات este un teatru situat în Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.645847,
+                        31.127138
+                  ]
+            },
+            {
+                  "name": "حدائق الميدان الإبراهيمي",
+                  "text": "Al-Midan Al-Ibrahimy Gardens este un parc public cunoscut din orașul Desuk.",
+                  "category": "park",
+                  "coords": [
+                        30.644192,
+                        31.12741
+                  ]
+            },
+            {
+                  "name": "حديقة أم القرى",
+                  "text": "Grădina Um Al-Qura este un parc recunoscut care oferă spațiu verde în orașul Desuk.",
+                  "category": "park",
+                  "coords": [
+                        30.665307,
+                        31.140954
+                  ]
+            },
+            {
+                  "name": "حديقة الفردوس",
+                  "text": "Grădina Al Fardous este o atracție turistică situată în orașul Desuk.",
+                  "category": "landmark",
+                  "coords": [
+                        30.651667,
+                        31.119336
+                  ]
+            },
+            {
+                  "name": "مسجد إبراهيم الدسوقي",
+                  "text": "Moscheea Ibrahim El-Desouky este un altar islamic major din Desuk care conține mormântul renumitului sfânt sufit.",
+                  "category": "religious",
+                  "coords": [
+                        30.646641,
+                        31.128445
+                  ]
+            },
+            {
+                  "name": "كنيسة الشهيد العظيم مار جرجس",
+                  "text": "Biserica Sfântul Gheorghe Marele Mucenic este un lăcaș de cult creștin notabil situat în Desuk.",
+                  "category": "religious",
+                  "coords": [
+                        30.641462,
+                        31.131881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amusement Park",
+                  "text": "Amusement Park is a theme park located in Desuk.",
+                  "category": "recreational",
+                  "coords": [
+                        30.645073,
+                        31.124326
+                  ]
+            },
+            {
+                  "name": "Al-Safa Hall",
+                  "text": "Al-Safa Hall is a theatre in Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.653322,
+                        31.118745
+                  ]
+            },
+            {
+                  "name": "Leelet Al-Omr",
+                  "text": "Leelet Al-Omr is a theatre located in Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.641669,
+                        31.128427
+                  ]
+            },
+            {
+                  "name": "Wedding Hall",
+                  "text": "Wedding Hall is a theatre situated in Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.643604,
+                        31.126164
+                  ]
+            },
+            {
+                  "name": "Desouk Culture House",
+                  "text": "Desouk Culture House is a theatre in Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.652436,
+                        31.142007
+                  ]
+            },
+            {
+                  "name": "Leylat Al-Omr",
+                  "text": "Leylat Al-Omr is a theatre located in the city of Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.64588,
+                        31.122836
+                  ]
+            },
+            {
+                  "name": "دار مناسبات",
+                  "text": "دار مناسبات is a theatre located in the city of Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.652087,
+                        31.136993
+                  ]
+            },
+            {
+                  "name": "دار المناسبات",
+                  "text": "دار المناسبات is a theatre located in Desuk.",
+                  "category": "cultural",
+                  "coords": [
+                        30.645847,
+                        31.127138
+                  ]
+            },
+            {
+                  "name": "Al-Midan Al-Ibrahimy Gardens",
+                  "text": "Al-Midan Al-Ibrahimy Gardens is a well-known public park located in the city of Desuk.",
+                  "category": "park",
+                  "coords": [
+                        30.644192,
+                        31.12741
+                  ]
+            },
+            {
+                  "name": "Um Al-Qura Garden",
+                  "text": "Um Al-Qura Garden is a recognized park offering green space in the city of Desuk.",
+                  "category": "park",
+                  "coords": [
+                        30.665307,
+                        31.140954
+                  ]
+            },
+            {
+                  "name": "Al Fardous Garden",
+                  "text": "Al Fardous Garden is a tourist attraction situated in the city of Desuk.",
+                  "category": "landmark",
+                  "coords": [
+                        30.651667,
+                        31.119336
+                  ]
+            },
+            {
+                  "name": "Ibrahim El-Desouky Mosque",
+                  "text": "The Ibrahim El-Desouky Mosque is a major Islamic shrine in Desuk that contains the tomb of the renowned Sufi saint.",
+                  "category": "religious",
+                  "coords": [
+                        30.646641,
+                        31.128445
+                  ]
+            },
+            {
+                  "name": "Church of St. George the Great Martyr",
+                  "text": "The Church of St. George the Great Martyr is a notable Christian place of worship located in Desuk.",
+                  "category": "religious",
+                  "coords": [
+                        30.641462,
+                        31.131881
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-KFS",
     coords: [30.648, 31.1308],
@@ -1180,7 +3016,124 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Abu Kabir est située dans la partie nord-est du gouvernorat de Sharqia.", "La ville se trouve à environ 20 kilomètres des ruines antiques de Tanis.", "Abu Kabir est l'un des plus grands producteurs de riz du delta oriental du Nil.", "La population de la ville est estimée à environ 125 000 habitants.", "Une gare ferroviaire importante relie Abu Kabir à Zagazig et Mansourah.", "La région est habitée depuis l'époque ramesside (vers 1200 av. J.-C.)."],
     }, image: "/poi-images/abu-kabir-cities-v2.webp"},
   {
-    id: "kafr-el-sheikh-cities-v2",
+    id: "kafr-el-sheikh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xois",
+                  "text": "Xois ist eine antike archäologische Stätte in Kafr asch-Schaich, die historisch als bedeutende Stadt im Nildelta bekannt war.",
+                  "category": "historical",
+                  "coords": [
+                        30.950771,
+                        31.089634
+                  ]
+            },
+            {
+                  "name": "الرياض",
+                  "text": "Al Riyadh ist ein Theater in der Stadt Kafr asch-Schaich.",
+                  "category": "cultural",
+                  "coords": [
+                        30.940087,
+                        31.114342
+                  ]
+            },
+            {
+                  "name": "Kafr El-Sheikh zoo",
+                  "text": "Der Kafr El-Sheikh zoo ist ein zoologischer Garten in der Stadt Kafr asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        30.947674,
+                        31.105139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xois",
+                  "text": "Xois egy ősi régészeti lelőhely Kafr asch-Schaichban, amely történelmileg a Nílus deltájának egyik kiemelkedő városa volt.",
+                  "category": "historical",
+                  "coords": [
+                        30.950771,
+                        31.089634
+                  ]
+            },
+            {
+                  "name": "الرياض",
+                  "text": "Az Al Riyadh egy színház Kafr asch-Schaich városában.",
+                  "category": "cultural",
+                  "coords": [
+                        30.940087,
+                        31.114342
+                  ]
+            },
+            {
+                  "name": "Kafr El-Sheikh zoo",
+                  "text": "A Kafr El-Sheikh zoo egy állatkert Kafr asch-Schaich városában.",
+                  "category": "recreational",
+                  "coords": [
+                        30.947674,
+                        31.105139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xois",
+                  "text": "Xois este un sit arheologic antic din Kafr asch-Schaich, cunoscut istoric ca un oraș proeminent din Delta Nilului.",
+                  "category": "historical",
+                  "coords": [
+                        30.950771,
+                        31.089634
+                  ]
+            },
+            {
+                  "name": "الرياض",
+                  "text": "Al Riyadh este un teatru situat în orașul Kafr asch-Schaich.",
+                  "category": "cultural",
+                  "coords": [
+                        30.940087,
+                        31.114342
+                  ]
+            },
+            {
+                  "name": "Kafr El-Sheikh zoo",
+                  "text": "Grădina zoologică Kafr El-Sheikh este un parc zoologic situat în orașul Kafr asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        30.947674,
+                        31.105139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xois",
+                  "text": "Xois is an ancient archaeological site in Kafr asch-Schaich, historically known as a prominent city in the Nile Delta.",
+                  "category": "historical",
+                  "coords": [
+                        30.950771,
+                        31.089634
+                  ]
+            },
+            {
+                  "name": "Al Riyadh",
+                  "text": "Al Riyadh is a theatre situated in the city of Kafr asch-Schaich.",
+                  "category": "cultural",
+                  "coords": [
+                        30.940087,
+                        31.114342
+                  ]
+            },
+            {
+                  "name": "Kafr El-Sheikh zoo",
+                  "text": "Kafr El-Sheikh zoo is a zoological park located in the city of Kafr asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        30.947674,
+                        31.105139
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-KFS",
     coords: [30.9401, 31.1107],
@@ -1250,7 +3203,52 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Girga fut la capitale d'une province autonome jusqu'au XIXe siècle.", "La ville est souvent identifiée comme le site probable de l'antique Thinis.", "Girga abrite une importante communauté copte orthodoxe et des monastères anciens.", "La ville est un centre d'égrenage du coton en Haute-Égypte.", "Une grande partie de l'économie locale repose sur la transformation de la canne à sucre.", "La population de Girga est estimée à environ 130 000 habitants."],
     }, image: "/poi-images/girga-cities-v2.webp"},
   {
-    id: "akhmim-cities-v2",
+    id: "akhmim-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Merritt Temple of Amun",
+                  "text": "Der Merritt-Tempel des Amun ist eine archäologische Stätte in Achmim.",
+                  "category": "historical",
+                  "coords": [
+                        31.746374,
+                        26.565123
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Merritt Temple of Amun",
+                  "text": "Az Amon Merritt-temploma egy régészeti lelőhely Achmim városában.",
+                  "category": "historical",
+                  "coords": [
+                        31.746374,
+                        26.565123
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Merritt Temple of Amun",
+                  "text": "Templul Merritt al lui Amon este un sit arheologic din Achmim.",
+                  "category": "historical",
+                  "coords": [
+                        31.746374,
+                        26.565123
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Merritt Temple of Amun",
+                  "text": "The Merritt Temple of Amun is an archaeological site located in Achmim.",
+                  "category": "historical",
+                  "coords": [
+                        31.746374,
+                        26.565123
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-SHG",
     coords: [31.7454, 26.5622],
@@ -1390,7 +3388,88 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Khanka fut fondée en 1324 par le sultan mamelouk Al-Nasir Muhammad.", "L'hôpital psychiatrique de la ville a ouvert ses portes en 1912 sous administration britannique.", "Khanka abrite l'une des plus grandes zones industrielles du gouvernorat de Qalyubia.", "La ville se situe à environ 20 kilomètres au nord-est du centre-ville du Caire.", "La population de Khanka est estimée à environ 115 000 habitants.", "Historiquement, la ville était une étape importante pour les caravanes en route vers la Syrie."],
     }, image: "/poi-images/khanka-cities-v2.webp"},
   {
-    id: "abu-tij-cities-v2",
+    id: "abu-tij-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "نهضة قداسة ابو تيج",
+                  "text": "نهضة قداسة ابو تيج ist eine Attraktion in der Stadt Abu Tig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.319187,
+                        27.042718
+                  ]
+            },
+            {
+                  "name": "انجيلية ابوتيج",
+                  "text": "انجيلية ابوتيج ist eine lokale Attraktion in der Stadt Abu Tig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316163,
+                        27.045466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "نهضة قداسة ابو تيج",
+                  "text": "A نهضة قداسة ابو تيج egy látványosság Abu Tig városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.319187,
+                        27.042718
+                  ]
+            },
+            {
+                  "name": "انجيلية ابوتيج",
+                  "text": "A انجيلية ابوتيج egy helyi látványosság Abu Tig városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316163,
+                        27.045466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "نهضة قداسة ابو تيج",
+                  "text": "نهضة قداسة ابو تيج este o atracție situată în orașul Abu Tig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.319187,
+                        27.042718
+                  ]
+            },
+            {
+                  "name": "انجيلية ابوتيج",
+                  "text": "انجيلية ابوتيج este o atracție locală situată în orașul Abu Tig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316163,
+                        27.045466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "نهضة قداسة ابو تيج",
+                  "text": "نهضة قداسة ابو تيج is an attraction located in the city of Abu Tig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.319187,
+                        27.042718
+                  ]
+            },
+            {
+                  "name": "انجيلية ابوتيج",
+                  "text": "انجيلية ابوتيج is a local attraction situated in the city of Abu Tig.",
+                  "category": "landmark",
+                  "coords": [
+                        31.316163,
+                        27.045466
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-AST",
     coords: [31.3197, 27.0423],
@@ -1425,7 +3504,196 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["La mosquée El-Farghal est l'un des sites soufis les plus importants de Haute-Égypte.", "Abu Tig est célèbre pour la qualité des grenades cultivées dans la région.", "La ville est située à environ 20 kilomètres au sud de la capitale provinciale, Assiout.", "Le nom Abu Tig dérive probablement du mot copte 'Apothika' (entrepôt).", "La population de la ville est estimée à environ 80 000 habitants.", "Des tombes de la Basse Époque ont été découvertes dans les environs."],
     }, image: "/poi-images/abu-tij-cities-v2.webp"},
   {
-    id: "rosetta-cities-v2",
+    id: "rosetta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rosetta-Museum",
+                  "text": "Das Rashid National Museum in Rosette stellt Artefakte der islamischen und lokalen Geschichte aus.",
+                  "category": "museum",
+                  "coords": [
+                        30.422121,
+                        31.404892
+                  ]
+            },
+            {
+                  "name": "منزل الامصيلى",
+                  "text": "Amasyali House ist eine lokale Sehenswürdigkeit in der Stadt Rosette.",
+                  "category": "landmark",
+                  "coords": [
+                        30.419678,
+                        31.403641
+                  ]
+            },
+            {
+                  "name": "مسجد زغلول",
+                  "text": "Die Ruinen der مسجد زغلول (Zaghloul-Moschee) sind eine historische Stätte in Rosette.",
+                  "category": "historical",
+                  "coords": [
+                        30.421684,
+                        31.398911
+                  ]
+            },
+            {
+                  "name": "مسجد الصامت",
+                  "text": "Die Wafya Al-Samet Mosque ist eine religiöse Stätte in Rosette.",
+                  "category": "religious",
+                  "coords": [
+                        30.421038,
+                        31.400131
+                  ]
+            },
+            {
+                  "name": "مسجد المحلي",
+                  "text": "Die Al-Mahaly-Moschee ist eine bedeutende religiöse Stätte in der Stadt Rosette.",
+                  "category": "religious",
+                  "coords": [
+                        30.421016,
+                        31.404169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف رشيد",
+                  "text": "A rosetti Rashid Nemzeti Múzeum a város iszlám és helyi történelmének műtárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        30.422121,
+                        31.404892
+                  ]
+            },
+            {
+                  "name": "منزل الامصيلى",
+                  "text": "Az Amasyali House egy helyi látványosság Rosette városában.",
+                  "category": "landmark",
+                  "coords": [
+                        30.419678,
+                        31.403641
+                  ]
+            },
+            {
+                  "name": "مسجد زغلول",
+                  "text": "A مسجد زغلول (Zaghloul-mecset) romjai egy történelmi helyszín Rosette városában.",
+                  "category": "historical",
+                  "coords": [
+                        30.421684,
+                        31.398911
+                  ]
+            },
+            {
+                  "name": "مسجد الصامت",
+                  "text": "A Wafya Al-Samet Mosque egy vallási imahely Rosette városában.",
+                  "category": "religious",
+                  "coords": [
+                        30.421038,
+                        31.400131
+                  ]
+            },
+            {
+                  "name": "مسجد المحلي",
+                  "text": "Az Al-Mahaly-mecset egy jelentős iszlám imahely Rosette városában.",
+                  "category": "religious",
+                  "coords": [
+                        30.421016,
+                        31.404169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف رشيد",
+                  "text": "Muzeul Național Rashid din Rosette expune artefacte din istoria islamică și locală.",
+                  "category": "museum",
+                  "coords": [
+                        30.422121,
+                        31.404892
+                  ]
+            },
+            {
+                  "name": "منزل الامصيلى",
+                  "text": "Amasyali House este o atracție locală situată în orașul Rosette.",
+                  "category": "landmark",
+                  "coords": [
+                        30.419678,
+                        31.403641
+                  ]
+            },
+            {
+                  "name": "مسجد زغلول",
+                  "text": "Ruinele مسجد زغلول (Moscheea Zaghloul) sunt un sit istoric situat în Rosette.",
+                  "category": "historical",
+                  "coords": [
+                        30.421684,
+                        31.398911
+                  ]
+            },
+            {
+                  "name": "مسجد الصامت",
+                  "text": "Wafya Al-Samet Mosque este un lăcaș de cult situat în Rosette.",
+                  "category": "religious",
+                  "coords": [
+                        30.421038,
+                        31.400131
+                  ]
+            },
+            {
+                  "name": "مسجد المحلي",
+                  "text": "Moscheea Al-Mahaly este un important lăcaș de cult islamic situat în orașul Rosette.",
+                  "category": "religious",
+                  "coords": [
+                        30.421016,
+                        31.404169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rashid National Museum",
+                  "text": "The Rashid National Museum in Rosette exhibits artifacts from the city's rich Islamic and local history.",
+                  "category": "museum",
+                  "coords": [
+                        30.422121,
+                        31.404892
+                  ]
+            },
+            {
+                  "name": "Amasyali House",
+                  "text": "Amasyali House is a local attraction located in the city of Rosette.",
+                  "category": "landmark",
+                  "coords": [
+                        30.419678,
+                        31.403641
+                  ]
+            },
+            {
+                  "name": "مسجد زغلول",
+                  "text": "The ruins of مسجد زغلول (Zaghloul Mosque) are a historical site located in Rosette.",
+                  "category": "historical",
+                  "coords": [
+                        30.421684,
+                        31.398911
+                  ]
+            },
+            {
+                  "name": "Wafya Al-Samet Mosque",
+                  "text": "Wafya Al-Samet Mosque is a place of worship situated in Rosette.",
+                  "category": "religious",
+                  "coords": [
+                        30.421038,
+                        31.400131
+                  ]
+            },
+            {
+                  "name": "Al-Mahaly Mosque",
+                  "text": "Al-Mahaly Mosque is a notable Islamic place of worship situated in the city of Rosette.",
+                  "category": "religious",
+                  "coords": [
+                        30.421016,
+                        31.404169
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-BH",
     coords: [30.4158, 31.4011],
@@ -1495,7 +3763,52 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Zifta se trouve sur la branche de Damiette du Nil dans le delta du Nil.", "La ville a brièvement déclaré son indépendance en 1919 sous le nom de République de Zifta.", "Elle est un centre important pour l'industrie du lin égyptien.", "Zifta appartient administrativement au gouvernorat de Gharbia.", "La ville est reliée à Mit Ghamr par un pont historique.", "La région est connue pour la culture extensive du coton."],
     }, image: "/poi-images/zifta-cities-v2.webp"},
   {
-    id: "deir-mawas-cities-v2",
+    id: "deir-mawas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "انجيلية بني عمران",
+                  "text": "انجيلية بني عمران ist eine Touristenattraktion in der Stadt Dair Mawas.",
+                  "category": "landmark",
+                  "coords": [
+                        30.868273,
+                        27.642512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "انجيلية بني عمران",
+                  "text": "A انجيلية بني عمران egy turisztikai látványosság Dair Mawas városában.",
+                  "category": "landmark",
+                  "coords": [
+                        30.868273,
+                        27.642512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "انجيلية بني عمران",
+                  "text": "انجيلية بني عمران este o atracție turistică situată în orașul Dair Mawas.",
+                  "category": "landmark",
+                  "coords": [
+                        30.868273,
+                        27.642512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "انجيلية بني عمران",
+                  "text": "انجيلية بني عمران is a tourist attraction located in the city of Dair Mawas.",
+                  "category": "landmark",
+                  "coords": [
+                        30.868273,
+                        27.642512
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-MN",
     coords: [30.8427, 27.6394],
@@ -1670,7 +3983,196 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Marsa Alam est située à environ 270 km au sud d'Hurghada, au bord de la mer Rouge.", "L'aéroport international de Marsa Alam a ouvert ses portes en 2001.", "De rares dugongs vivent dans la baie d'Abu Dabbab.", "Le récif d'Elphinstone est connu pour ses requins-marteaux et ses requins longimanes.", "La mine d'or de Sukari, située à proximité, est l'une des plus grandes mines d'or au monde.", "Des émeraudes étaient déjà extraites dans la région à l'époque des pharaons."],
     }, image: "/poi-images/marsa-alam-cities-v2.webp"},
   {
-    id: "siwa-cities-v2",
+    id: "siwa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "بيت سيوة",
+                  "text": "Das House of Siwa ist ein Museum in der Stadt Siwa.",
+                  "category": "museum",
+                  "coords": [
+                        25.518037,
+                        29.203772
+                  ]
+            },
+            {
+                  "name": "قلعة شالى",
+                  "text": "Das Fort von Shali ist eine historische Festungsanlage in Siwa.",
+                  "category": "castle",
+                  "coords": [
+                        25.517813,
+                        29.201092
+                  ]
+            },
+            {
+                  "name": "Umm Ubeida",
+                  "text": "Umm Ubaydah umfasst historische Ruinen in Siwa.",
+                  "category": "historical",
+                  "coords": [
+                        25.544791,
+                        29.201719
+                  ]
+            },
+            {
+                  "name": "معبد آمون",
+                  "text": "Der Tempel des Amun ist eine antike Ruinenstätte in Siwa.",
+                  "category": "historical",
+                  "coords": [
+                        25.543433,
+                        29.20514
+                  ]
+            },
+            {
+                  "name": "الجامع العتيق",
+                  "text": "Die Alte Moschee ist eine Kultstätte in Siwa.",
+                  "category": "religious",
+                  "coords": [
+                        25.519114,
+                        29.201664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "بيت سيوة",
+                  "text": "A House of Siwa egy múzeum Siwa városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.518037,
+                        29.203772
+                  ]
+            },
+            {
+                  "name": "قلعة شالى",
+                  "text": "A Shali erőd egy történelmi vár Siwa városában.",
+                  "category": "castle",
+                  "coords": [
+                        25.517813,
+                        29.201092
+                  ]
+            },
+            {
+                  "name": "أم عبيدة",
+                  "text": "Umm Ubaydah történelmi romokat rejt Siwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.544791,
+                        29.201719
+                  ]
+            },
+            {
+                  "name": "معبد آمون",
+                  "text": "Az Amon-templom egy ősi romterület Siwa városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.543433,
+                        29.20514
+                  ]
+            },
+            {
+                  "name": "الجامع العتيق",
+                  "text": "Az Ősi mecset egy istentiszteleti hely Siwa városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.519114,
+                        29.201664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "بيت سيوة",
+                  "text": "House of Siwa este un muzeu din orașul Siwa.",
+                  "category": "museum",
+                  "coords": [
+                        25.518037,
+                        29.203772
+                  ]
+            },
+            {
+                  "name": "قلعة شالى",
+                  "text": "Fortul Shali este un castel istoric situat în Siwa.",
+                  "category": "castle",
+                  "coords": [
+                        25.517813,
+                        29.201092
+                  ]
+            },
+            {
+                  "name": "أم عبيدة",
+                  "text": "Umm Ubaydah cuprinde ruine istorice situate în Siwa.",
+                  "category": "historical",
+                  "coords": [
+                        25.544791,
+                        29.201719
+                  ]
+            },
+            {
+                  "name": "معبد آمون",
+                  "text": "Templul lui Amon este un sit de ruine antice din Siwa.",
+                  "category": "historical",
+                  "coords": [
+                        25.543433,
+                        29.20514
+                  ]
+            },
+            {
+                  "name": "الجامع العتيق",
+                  "text": "Moscheea Antică este un lăcaș de cult situat în Siwa.",
+                  "category": "religious",
+                  "coords": [
+                        25.519114,
+                        29.201664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of Siwa",
+                  "text": "The House of Siwa is a museum located in the city of Siwa.",
+                  "category": "museum",
+                  "coords": [
+                        25.518037,
+                        29.203772
+                  ]
+            },
+            {
+                  "name": "Fort of Shali",
+                  "text": "The Fort of Shali is a historic castle located in Siwa.",
+                  "category": "castle",
+                  "coords": [
+                        25.517813,
+                        29.201092
+                  ]
+            },
+            {
+                  "name": "أم عبيدة",
+                  "text": "Umm Ubaydah features historical ruins located in Siwa.",
+                  "category": "historical",
+                  "coords": [
+                        25.544791,
+                        29.201719
+                  ]
+            },
+            {
+                  "name": "Temple of Amun",
+                  "text": "The Temple of Amun is a site of ancient ruins situated in Siwa.",
+                  "category": "historical",
+                  "coords": [
+                        25.543433,
+                        29.20514
+                  ]
+            },
+            {
+                  "name": "الجامع العتيق",
+                  "text": "The Ancient Mosque is a place of worship located in Siwa.",
+                  "category": "religious",
+                  "coords": [
+                        25.519114,
+                        29.201664
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-MT",
     coords: [25.5197, 29.2032],
@@ -1845,7 +4347,52 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Chef-lieu de l'oasis de Bahariya avec environ 30 000 habitants.", "Lieu de découverte de la Vallée des Momies d'Or en 1996.", "Centre important durant la XXVIe dynastie (env. 664–525 av. J.-C.).", "La distance depuis Le Caire est d'environ 360 kilomètres.", "Abrite le temple d'Aïn el-Muftella datant de la Basse Époque.", "L'irrigation se fait via des centaines de sources naturelles."],
     }, image: "/poi-images/bawiti-cities-v2.webp"},
   {
-    id: "el-tor-cities-v2",
+    id: "el-tor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Tor, Egypt",
+                  "text": "El Tor ist eine archäologische Stätte und die Hauptstadt des Gouvernements Süd-Sinai in Ägypten, gelegen in at-Tur.",
+                  "category": "historical",
+                  "coords": [
+                        33.613471,
+                        28.239532
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Tor, Egypt",
+                  "text": "El Tor egy régészeti lelőhely és az egyiptomi Dél-Sínai kormányzóság székhelye, amely at-Tur területén található.",
+                  "category": "historical",
+                  "coords": [
+                        33.613471,
+                        28.239532
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Tor, Egypt",
+                  "text": "El Tor este un sit arheologic și capitala guvernoratului Sinaiul de Sud din Egipt, situat în at-Tur.",
+                  "category": "historical",
+                  "coords": [
+                        33.613471,
+                        28.239532
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Tor, Egypt",
+                  "text": "El Tor is an archaeological site and the capital of the South Sinai Governorate in Egypt, located in at-Tur.",
+                  "category": "historical",
+                  "coords": [
+                        33.613471,
+                        28.239532
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-JS",
     coords: [33.6212, 28.2393],
@@ -1880,7 +4427,376 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Capitale du gouvernorat du Sinaï Sud", "Le nom historique de la ville était Raithu", "Abrite les sources sulfureuses de Hammam Musa", "Fondation du monastère Saint-Georges au VIe siècle", "La distance jusqu'à Charm el-Cheikh est d'environ 100 km", "Site important pour l'industrie pétrolière égyptienne"],
     }, image: "/poi-images/el-tor-cities-v2.webp"},
   {
-    id: "sharm-el-sheikh-cities-v2",
+    id: "sharm-el-sheikh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "King Tut Museum",
+                  "text": "Das King Tut Museum ist ein Museum in Scharm asch-Schaich.",
+                  "category": "museum",
+                  "coords": [
+                        34.318814,
+                        27.907478
+                  ]
+            },
+            {
+                  "name": "كليو بارك",
+                  "text": "Der Cleo Park ist ein Wasserpark in Scharm asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        34.322468,
+                        27.91753
+                  ]
+            },
+            {
+                  "name": "Fun Town",
+                  "text": "Fun Town ist ein Freizeitpark in Scharm asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        34.317696,
+                        27.91055
+                  ]
+            },
+            {
+                  "name": "Garden Bay",
+                  "text": "Garden Bay ist eine malerische Bucht in Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352489,
+                        27.913884
+                  ]
+            },
+            {
+                  "name": "Far Garden",
+                  "text": "Far Garden ist eine lokale Attraktion in Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.358875,
+                        27.915005
+                  ]
+            },
+            {
+                  "name": "Near Garden",
+                  "text": "Near Garden ist eine Sehenswürdigkeit in der Stadt Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346712,
+                        27.908104
+                  ]
+            },
+            {
+                  "name": "Middle Garden",
+                  "text": "Middle Garden ist eine Touristenattraktion in Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.351121,
+                        27.91296
+                  ]
+            },
+            {
+                  "name": "Sinai Grand Casino",
+                  "text": "Das Sinai Grand Casino ist eine Unterhaltungsattraktion in Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340312,
+                        27.918536
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Der Public Beach ist ein Strandresort in Scharm asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        34.328,
+                        27.912454
+                  ]
+            },
+            {
+                  "name": "Sharm",
+                  "text": "Sharm ist eine bemerkenswerte Attraktion in der Stadt Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32448,
+                        27.908208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "King Tut Museum",
+                  "text": "A King Tut Múzeum Scharm asch-Schaich városában található.",
+                  "category": "museum",
+                  "coords": [
+                        34.318814,
+                        27.907478
+                  ]
+            },
+            {
+                  "name": "كليو بارك",
+                  "text": "A Cleo Park egy vízipark Scharm asch-Schaichban.",
+                  "category": "recreational",
+                  "coords": [
+                        34.322468,
+                        27.91753
+                  ]
+            },
+            {
+                  "name": "Fun Town",
+                  "text": "A Fun Town egy vidámpark Scharm asch-Schaichban.",
+                  "category": "recreational",
+                  "coords": [
+                        34.317696,
+                        27.91055
+                  ]
+            },
+            {
+                  "name": "Garden Bay",
+                  "text": "A Garden Bay egy festői öböl Scharm asch-Schaich városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352489,
+                        27.913884
+                  ]
+            },
+            {
+                  "name": "Far Garden",
+                  "text": "A Far Garden egy helyi látványosság Scharm asch-Schaichban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.358875,
+                        27.915005
+                  ]
+            },
+            {
+                  "name": "Near Garden",
+                  "text": "A Near Garden egy látványosság Scharm asch-Schaich városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346712,
+                        27.908104
+                  ]
+            },
+            {
+                  "name": "Middle Garden",
+                  "text": "A Middle Garden egy turisztikai látványosság Scharm asch-Schaichban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.351121,
+                        27.91296
+                  ]
+            },
+            {
+                  "name": "Sinai Grand Casino",
+                  "text": "A Sinai Grand Casino egy szórakoztató látványosság Scharm asch-Schaichban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340312,
+                        27.918536
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "A Public Beach egy tengerparti üdülőhely Scharm asch-Schaichban.",
+                  "category": "recreational",
+                  "coords": [
+                        34.328,
+                        27.912454
+                  ]
+            },
+            {
+                  "name": "Sharm",
+                  "text": "Sharm egy jelentős látványosság Scharm asch-Schaich városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32448,
+                        27.908208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "King Tut Museum",
+                  "text": "Muzeul King Tut este un muzeu situat în Scharm asch-Schaich.",
+                  "category": "museum",
+                  "coords": [
+                        34.318814,
+                        27.907478
+                  ]
+            },
+            {
+                  "name": "كليو بارك",
+                  "text": "Cleo Park este un parc acvatic din Scharm asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        34.322468,
+                        27.91753
+                  ]
+            },
+            {
+                  "name": "Fun Town",
+                  "text": "Fun Town este un parc tematic situat în Scharm asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        34.317696,
+                        27.91055
+                  ]
+            },
+            {
+                  "name": "Garden Bay",
+                  "text": "Garden Bay este un golf pitoresc situat în Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352489,
+                        27.913884
+                  ]
+            },
+            {
+                  "name": "Far Garden",
+                  "text": "Far Garden este o atracție locală din Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.358875,
+                        27.915005
+                  ]
+            },
+            {
+                  "name": "Near Garden",
+                  "text": "Near Garden este o atracție situată în orașul Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346712,
+                        27.908104
+                  ]
+            },
+            {
+                  "name": "Middle Garden",
+                  "text": "Middle Garden este o atracție turistică situată în Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.351121,
+                        27.91296
+                  ]
+            },
+            {
+                  "name": "Sinai Grand Casino",
+                  "text": "Sinai Grand Casino este o atracție de divertisment din Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340312,
+                        27.918536
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public Beach este o stațiune balneară situată în Scharm asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        34.328,
+                        27.912454
+                  ]
+            },
+            {
+                  "name": "Sharm",
+                  "text": "Sharm este o atracție notabilă din orașul Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32448,
+                        27.908208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "King Tut Museum",
+                  "text": "The King Tut Museum is a museum situated in Scharm asch-Schaich.",
+                  "category": "museum",
+                  "coords": [
+                        34.318814,
+                        27.907478
+                  ]
+            },
+            {
+                  "name": "Cleo Park",
+                  "text": "Cleo Park is a water park located in Scharm asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        34.322468,
+                        27.91753
+                  ]
+            },
+            {
+                  "name": "Fun Town",
+                  "text": "Fun Town is a theme park located in Scharm asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        34.317696,
+                        27.91055
+                  ]
+            },
+            {
+                  "name": "Garden Bay",
+                  "text": "Garden Bay is a scenic bay located in Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352489,
+                        27.913884
+                  ]
+            },
+            {
+                  "name": "Far Garden",
+                  "text": "Far Garden is a local attraction located in Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.358875,
+                        27.915005
+                  ]
+            },
+            {
+                  "name": "Near Garden",
+                  "text": "Near Garden is an attraction situated in the city of Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346712,
+                        27.908104
+                  ]
+            },
+            {
+                  "name": "Middle Garden",
+                  "text": "Middle Garden is a tourist attraction located in Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.351121,
+                        27.91296
+                  ]
+            },
+            {
+                  "name": "Sinai Grand Casino",
+                  "text": "The Sinai Grand Casino is an entertainment attraction in Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340312,
+                        27.918536
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "The Public Beach is a beach resort located in Scharm asch-Schaich.",
+                  "category": "recreational",
+                  "coords": [
+                        34.328,
+                        27.912454
+                  ]
+            },
+            {
+                  "name": "Sharm",
+                  "text": "Sharm is a notable attraction located in the city of Scharm asch-Schaich.",
+                  "category": "landmark",
+                  "coords": [
+                        34.32448,
+                        27.908208
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-JS",
     coords: [34.3299, 27.9158],
@@ -1985,7 +4901,448 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       fr: ["Le nom signifie 'source bouillonnante de Moïse'", "Important port de ferry vers Aqaba en Jordanie", "Distance de la frontière avec Israël (Taba) env. 70 km", "Foyer des tribus bédouines Muzeina et Tarabin", "Le Colored Canyon se trouve à environ 30 km au nord-ouest", "Se compose des parties Nuweiba Tarabin et Nuweiba Muzeina"],
     }, image: "/poi-images/nuweiba-cities-v2.webp"},
   {
-    id: "luxor-cities-v2",
+    id: "luxor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thebanische Nekropole",
+                  "text": "Die thebanische Nekropole ist eine weitläufige altägyptische archäologische Stätte am Westufer des Nils in Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.611713,
+                        25.705713
+                  ]
+            },
+            {
+                  "name": "Luxor-Tempel",
+                  "text": "Der Luxor-Tempel ist eine große altägyptische archäologische Stätte und Tempelanlage in Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.639362,
+                        25.699599
+                  ]
+            },
+            {
+                  "name": "Nūn Art Gallery",
+                  "text": "Nut Art Store & Kaffee ist ein kleines Museum und ein kultureller Treffpunkt in Luxor.",
+                  "category": "museum",
+                  "coords": [
+                        32.632844,
+                        25.703915
+                  ]
+            },
+            {
+                  "name": "Luxor Museum",
+                  "text": "Das Luxor-Museum ist eine Einrichtung in Luxor, die historische Artefakte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        32.644489,
+                        25.707663
+                  ]
+            },
+            {
+                  "name": "معبد موت",
+                  "text": "Der Mut-Tempel ist eine archäologische Stätte in Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.655219,
+                        25.711067
+                  ]
+            },
+            {
+                  "name": "Sphinx-Allee",
+                  "text": "Die Sphinx-Allee ist eine historische Attraktion in Luxor, die ursprünglich die Tempel von Karnak und Luxor verband.",
+                  "category": "landmark",
+                  "coords": [
+                        32.647222,
+                        25.707148
+                  ]
+            },
+            {
+                  "name": "ديوان محافظة الأقصر",
+                  "text": "Der Diwan des Gouvernements Luxor ist eine lokale Attraktion und ein Verwaltungsgebäude in Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.641717,
+                        25.704346
+                  ]
+            },
+            {
+                  "name": "قاعة المؤتمرات",
+                  "text": "Die Konferenzhalle ist ein Veranstaltungsort und eine Attraktion in Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.64755,
+                        25.713018
+                  ]
+            },
+            {
+                  "name": "أولاد رجب",
+                  "text": "Awlad Ragab ist eine lokale kommerzielle Einrichtung in Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.640022,
+                        25.693946
+                  ]
+            },
+            {
+                  "name": "local ferry to West Bank",
+                  "text": "Die lokale Fähre zur West Bank ist eine wichtige Verkehrsattraktion in Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.638579,
+                        25.701444
+                  ]
+            },
+            {
+                  "name": "جزيرة الموز - Banana Island",
+                  "text": "Banana Island ist eine Naturattraktion auf dem Nil in Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622872,
+                        25.683452
+                  ]
+            },
+            {
+                  "name": "كنيسة سيرابيس",
+                  "text": "Die Serapis-Kapelle umfasst antike Ruinen in Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.639978,
+                        25.700804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مدينة طيبة الجنائزية",
+                  "text": "A thébai nekropolisz egy kiterjedt ókori egyiptomi régészeti lelőhely Luxorban, a Nílus nyugati partján.",
+                  "category": "historical",
+                  "coords": [
+                        32.611713,
+                        25.705713
+                  ]
+            },
+            {
+                  "name": "معبد الأقصر",
+                  "text": "A luxori templom egy nagyméretű ókori egyiptomi régészeti lelőhely és templomkomplexum Luxorban.",
+                  "category": "historical",
+                  "coords": [
+                        32.639362,
+                        25.699599
+                  ]
+            },
+            {
+                  "name": "Nūn Art Gallery",
+                  "text": "A Nut Art Store & Kaffee egy múzeumként is funkcionáló kulturális hely Luxorban.",
+                  "category": "museum",
+                  "coords": [
+                        32.632844,
+                        25.703915
+                  ]
+            },
+            {
+                  "name": "Luxor Museum",
+                  "text": "A Luxori Múzeum egy történelmi tárgyakat bemutató intézmény Luxorban.",
+                  "category": "museum",
+                  "coords": [
+                        32.644489,
+                        25.707663
+                  ]
+            },
+            {
+                  "name": "معبد موت",
+                  "text": "A Mut-templom egy régészeti lelőhely Luxor városában.",
+                  "category": "historical",
+                  "coords": [
+                        32.655219,
+                        25.711067
+                  ]
+            },
+            {
+                  "name": "طريق الكباش",
+                  "text": "A Szfinxek útja egy történelmi látványosság Luxorban, amely eredetileg a karnaki és a luxori templomokat kötötte össze.",
+                  "category": "landmark",
+                  "coords": [
+                        32.647222,
+                        25.707148
+                  ]
+            },
+            {
+                  "name": "ديوان محافظة الأقصر",
+                  "text": "A Luxori Kormányzóság épülete egy helyi látványosság és adminisztratív központ Luxorban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.641717,
+                        25.704346
+                  ]
+            },
+            {
+                  "name": "قاعة المؤتمرات",
+                  "text": "A Konferenciaterem egy rendezvényhelyszín és látványosság Luxor városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.64755,
+                        25.713018
+                  ]
+            },
+            {
+                  "name": "أولاد رجب",
+                  "text": "Az Awlad Ragab egy helyi kereskedelmi létesítmény és látványosság Luxorban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.640022,
+                        25.693946
+                  ]
+            },
+            {
+                  "name": "local ferry to West Bank",
+                  "text": "A nyugati partra tartó helyi komp fontos közlekedési látványosság Luxorban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.638579,
+                        25.701444
+                  ]
+            },
+            {
+                  "name": "جزيرة الموز - Banana Island",
+                  "text": "A Banán-sziget egy természeti látványosság a Níluson, Luxorban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622872,
+                        25.683452
+                  ]
+            },
+            {
+                  "name": "كنيسة سيرابيس",
+                  "text": "A Szerápisz-kápolna ókori romokat rejt Luxor városában.",
+                  "category": "historical",
+                  "coords": [
+                        32.639978,
+                        25.700804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مدينة طيبة الجنائزية",
+                  "text": "Necropola tebană este un vast sit arheologic antic egiptean, situat pe malul vestic al Nilului în Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.611713,
+                        25.705713
+                  ]
+            },
+            {
+                  "name": "معبد الأقصر",
+                  "text": "Templul din Luxor este un mare sit arheologic și complex de temple din Egiptul Antic situat în Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.639362,
+                        25.699599
+                  ]
+            },
+            {
+                  "name": "Nūn Art Gallery",
+                  "text": "Nut Art Store & Kaffee este un mic muzeu și spațiu cultural din Luxor.",
+                  "category": "museum",
+                  "coords": [
+                        32.632844,
+                        25.703915
+                  ]
+            },
+            {
+                  "name": "Luxor Museum",
+                  "text": "Muzeul din Luxor este o instituție care expune artefacte, situată în Luxor.",
+                  "category": "museum",
+                  "coords": [
+                        32.644489,
+                        25.707663
+                  ]
+            },
+            {
+                  "name": "معبد موت",
+                  "text": "Templul lui Mut este un sit arheologic situat în Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.655219,
+                        25.711067
+                  ]
+            },
+            {
+                  "name": "طريق الكباش",
+                  "text": "Aleea Sfinxilor este o atracție istorică din Luxor care lega inițial templele din Karnak și Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.647222,
+                        25.707148
+                  ]
+            },
+            {
+                  "name": "ديوان محافظة الأقصر",
+                  "text": "Sediul Guvernoratului Luxor este o atracție locală și o clădire administrativă din Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.641717,
+                        25.704346
+                  ]
+            },
+            {
+                  "name": "قاعة المؤتمرات",
+                  "text": "Sala de Conferințe este un spațiu de evenimente și o atracție situată în Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.64755,
+                        25.713018
+                  ]
+            },
+            {
+                  "name": "أولاد رجب",
+                  "text": "Awlad Ragab este o atracție comercială locală situată în Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.640022,
+                        25.693946
+                  ]
+            },
+            {
+                  "name": "local ferry to West Bank",
+                  "text": "Feribotul local către malul vestic este o atracție de transport esențială în Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.638579,
+                        25.701444
+                  ]
+            },
+            {
+                  "name": "جزيرة الموز - Banana Island",
+                  "text": "Banana Island este o atracție naturală situată pe Nil, în Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622872,
+                        25.683452
+                  ]
+            },
+            {
+                  "name": "كنيسة سيرابيس",
+                  "text": "Capela lui Serapis prezintă ruine antice situate în Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.639978,
+                        25.700804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theban Necropolis",
+                  "text": "The Theban Necropolis is a vast ancient Egyptian archaeological site located on the west bank of the Nile in Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.611713,
+                        25.705713
+                  ]
+            },
+            {
+                  "name": "Luxor Temple",
+                  "text": "Luxor Temple is a large Ancient Egyptian archaeological site and temple complex situated in Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.639362,
+                        25.699599
+                  ]
+            },
+            {
+                  "name": "Nut Art Store & Kaffee",
+                  "text": "Nut Art Store & Kaffee is a small museum and cultural spot in Luxor.",
+                  "category": "museum",
+                  "coords": [
+                        32.632844,
+                        25.703915
+                  ]
+            },
+            {
+                  "name": "Luxor Museum",
+                  "text": "The Luxor Museum is an institution showcasing artifacts located in Luxor.",
+                  "category": "museum",
+                  "coords": [
+                        32.644489,
+                        25.707663
+                  ]
+            },
+            {
+                  "name": "Temple of Mut",
+                  "text": "The Temple of Mut is an archaeological site located in Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.655219,
+                        25.711067
+                  ]
+            },
+            {
+                  "name": "Avenue of Sphinxes",
+                  "text": "The Avenue of Sphinxes is a historic attraction in Luxor that originally connected the temples of Karnak and Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.647222,
+                        25.707148
+                  ]
+            },
+            {
+                  "name": "ديوان محافظة الأقصر",
+                  "text": "The Luxor Governorate Diwan is a local attraction and administrative building in Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.641717,
+                        25.704346
+                  ]
+            },
+            {
+                  "name": "قاعة المؤتمرات",
+                  "text": "The Conference Hall is an event space and attraction located in Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.64755,
+                        25.713018
+                  ]
+            },
+            {
+                  "name": "أولاد رجب",
+                  "text": "Awlad Ragab is a local commercial attraction located in Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.640022,
+                        25.693946
+                  ]
+            },
+            {
+                  "name": "local ferry to West Bank",
+                  "text": "The local ferry to the West Bank is an essential transport attraction in Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.638579,
+                        25.701444
+                  ]
+            },
+            {
+                  "name": "Banana Island",
+                  "text": "Banana Island is a natural attraction situated on the Nile in Luxor.",
+                  "category": "landmark",
+                  "coords": [
+                        32.622872,
+                        25.683452
+                  ]
+            },
+            {
+                  "name": "Chapel of Serapis",
+                  "text": "The Chapel of Serapis features ancient ruins located in Luxor.",
+                  "category": "historical",
+                  "coords": [
+                        32.639978,
+                        25.700804
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EG-LX",
     coords: [32.6396, 25.6872],

@@ -49,7 +49,268 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     },
   },
   {
-    id: "pikine-cities-v2",
+    id: "pikine-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Foyer Culturel Hamo 4",
+                  "text": "Das Foyer Culturel Hamo 4 ist ein Museum in Pikine.",
+                  "category": "museum",
+                  "coords": [
+                        -17.38843,
+                        14.781225
+                  ]
+            },
+            {
+                  "name": "Plage de Hann",
+                  "text": "Hann beach ist ein Strand in Pikine.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.411835,
+                        14.723166
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
+                  "text": "Die Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance ist ein städtischer Naturpark in Pikine.",
+                  "category": "park",
+                  "coords": [
+                        -17.408887,
+                        14.759322
+                  ]
+            },
+            {
+                  "name": "Rond Point Mamelles",
+                  "text": "Rond Point Mamelles ist ein Denkmal in Pikine.",
+                  "category": "historical",
+                  "coords": [
+                        -17.382503,
+                        14.776416
+                  ]
+            },
+            {
+                  "name": "Chez Nanda",
+                  "text": "Chez Nanda ist eine Touristenattraktion in Pikine.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.370934,
+                        14.78205
+                  ]
+            },
+            {
+                  "name": "atelier de munisier",
+                  "text": "Das atelier de munisier ist eine Galerie in Pikine.",
+                  "category": "museum",
+                  "coords": [
+                        -17.394917,
+                        14.764378
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
+                  "text": "Théatre de Verdure Fodé Doussou Ba Baldé ist ein Kunstzentrum in Pikine.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.397438,
+                        14.762722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Foyer Culturel Hamo 4",
+                  "text": "A Foyer Culturel Hamo 4 egy múzeum Pikine városában.",
+                  "category": "museum",
+                  "coords": [
+                        -17.38843,
+                        14.781225
+                  ]
+            },
+            {
+                  "name": "Plage de Hann",
+                  "text": "A Hann beach egy strand Pikine városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.411835,
+                        14.723166
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
+                  "text": "A Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance egy városi természeti park Pikine-ben.",
+                  "category": "park",
+                  "coords": [
+                        -17.408887,
+                        14.759322
+                  ]
+            },
+            {
+                  "name": "Rond Point Mamelles",
+                  "text": "A Rond Point Mamelles egy emlékmű Pikine városában.",
+                  "category": "historical",
+                  "coords": [
+                        -17.382503,
+                        14.776416
+                  ]
+            },
+            {
+                  "name": "Chez Nanda",
+                  "text": "A Chez Nanda egy turisztikai látványosság Pikine-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.370934,
+                        14.78205
+                  ]
+            },
+            {
+                  "name": "atelier de munisier",
+                  "text": "Az atelier de munisier egy galéria Pikine városában.",
+                  "category": "museum",
+                  "coords": [
+                        -17.394917,
+                        14.764378
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
+                  "text": "A Théatre de Verdure Fodé Doussou Ba Baldé egy művészeti központ Pikine-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.397438,
+                        14.762722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Foyer Culturel Hamo 4",
+                  "text": "Foyer Culturel Hamo 4 este un muzeu în Pikine.",
+                  "category": "museum",
+                  "coords": [
+                        -17.38843,
+                        14.781225
+                  ]
+            },
+            {
+                  "name": "Plage de Hann",
+                  "text": "Hann beach este o plajă în Pikine.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.411835,
+                        14.723166
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
+                  "text": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance este un parc natural urban situat în Pikine.",
+                  "category": "park",
+                  "coords": [
+                        -17.408887,
+                        14.759322
+                  ]
+            },
+            {
+                  "name": "Rond Point Mamelles",
+                  "text": "Rond Point Mamelles este un monument situat în Pikine.",
+                  "category": "historical",
+                  "coords": [
+                        -17.382503,
+                        14.776416
+                  ]
+            },
+            {
+                  "name": "Chez Nanda",
+                  "text": "Chez Nanda este o atracție turistică în Pikine.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.370934,
+                        14.78205
+                  ]
+            },
+            {
+                  "name": "atelier de munisier",
+                  "text": "Atelier de munisier este o galerie din Pikine.",
+                  "category": "museum",
+                  "coords": [
+                        -17.394917,
+                        14.764378
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
+                  "text": "Théatre de Verdure Fodé Doussou Ba Baldé este un centru de arte situat în Pikine.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.397438,
+                        14.762722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Foyer Culturel Hamo 4",
+                  "text": "The Foyer Culturel Hamo 4 is a museum located in Pikine.",
+                  "category": "museum",
+                  "coords": [
+                        -17.38843,
+                        14.781225
+                  ]
+            },
+            {
+                  "name": "Hann beach",
+                  "text": "Hann beach is a beach located in Pikine.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.411835,
+                        14.723166
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
+                  "text": "The Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance is an urban nature park located in Pikine.",
+                  "category": "park",
+                  "coords": [
+                        -17.408887,
+                        14.759322
+                  ]
+            },
+            {
+                  "name": "Rond Point Mamelles",
+                  "text": "Rond Point Mamelles is a monument located in Pikine.",
+                  "category": "historical",
+                  "coords": [
+                        -17.382503,
+                        14.776416
+                  ]
+            },
+            {
+                  "name": "Chez Nanda",
+                  "text": "Chez Nanda is a tourist attraction in Pikine.",
+                  "category": "landmark",
+                  "coords": [
+                        -17.370934,
+                        14.78205
+                  ]
+            },
+            {
+                  "name": "atelier de munisier",
+                  "text": "The atelier de munisier is a gallery space in Pikine.",
+                  "category": "museum",
+                  "coords": [
+                        -17.394917,
+                        14.764378
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
+                  "text": "Théatre de Verdure Fodé Doussou Ba Baldé is an arts centre located in Pikine.",
+                  "category": "cultural",
+                  "coords": [
+                        -17.397438,
+                        14.762722
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SN-DK",
     coords: [-17.3907, 14.7645],
@@ -129,7 +390,196 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     }
   },
   {
-    id: "thies-cities-v2",
+    id: "thies-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mickey Land",
+                  "text": "Mickey Land ist ein Freizeitpark in Thiès.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.92554,
+                        14.791908
+                  ]
+            },
+            {
+                  "name": "Chez Baba Nd",
+                  "text": "Chez Baba Nd ist ein schlossartiges Gebäude in Thiès.",
+                  "category": "castle",
+                  "coords": [
+                        -16.927564,
+                        14.771023
+                  ]
+            },
+            {
+                  "name": "Place Agora",
+                  "text": "Place Agora ist ein Theater in Thiès.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.927513,
+                        14.790615
+                  ]
+            },
+            {
+                  "name": "Monument Diambar",
+                  "text": "Das Monument Diambar ist ein Denkmal in Thiès.",
+                  "category": "historical",
+                  "coords": [
+                        -16.915623,
+                        14.775723
+                  ]
+            },
+            {
+                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
+                  "text": "Die Manufacture Sénégalaise Des Arts Décoratifs ist ein Kunstzentrum in Thiès.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.934549,
+                        14.794829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mickey Land",
+                  "text": "A Mickey Land egy vidámpark Thiès városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.92554,
+                        14.791908
+                  ]
+            },
+            {
+                  "name": "Chez Baba Nd",
+                  "text": "A Chez Baba Nd egy kastély Thiès területén.",
+                  "category": "castle",
+                  "coords": [
+                        -16.927564,
+                        14.771023
+                  ]
+            },
+            {
+                  "name": "Place Agora",
+                  "text": "A Place Agora egy színház Thiès városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.927513,
+                        14.790615
+                  ]
+            },
+            {
+                  "name": "Monument Diambar",
+                  "text": "A Monument Diambar egy emlékmű Thiès településen.",
+                  "category": "historical",
+                  "coords": [
+                        -16.915623,
+                        14.775723
+                  ]
+            },
+            {
+                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
+                  "text": "A Manufacture Sénégalaise Des Arts Décoratifs egy művészeti központ Thièsben.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.934549,
+                        14.794829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mickey Land",
+                  "text": "Mickey Land este un parc tematic în Thiès.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.92554,
+                        14.791908
+                  ]
+            },
+            {
+                  "name": "Chez Baba Nd",
+                  "text": "Chez Baba Nd este un castel situat în Thiès.",
+                  "category": "castle",
+                  "coords": [
+                        -16.927564,
+                        14.771023
+                  ]
+            },
+            {
+                  "name": "Place Agora",
+                  "text": "Place Agora este un teatru din Thiès.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.927513,
+                        14.790615
+                  ]
+            },
+            {
+                  "name": "Monument Diambar",
+                  "text": "Monument Diambar este un monument din Thiès.",
+                  "category": "historical",
+                  "coords": [
+                        -16.915623,
+                        14.775723
+                  ]
+            },
+            {
+                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
+                  "text": "Manufacture Sénégalaise Des Arts Décoratifs este un centru de arte din Thiès.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.934549,
+                        14.794829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mickey Land",
+                  "text": "Mickey Land is a theme park located in Thiès.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.92554,
+                        14.791908
+                  ]
+            },
+            {
+                  "name": "Chez Baba Nd",
+                  "text": "Chez Baba Nd is a castle situated in Thiès.",
+                  "category": "castle",
+                  "coords": [
+                        -16.927564,
+                        14.771023
+                  ]
+            },
+            {
+                  "name": "Place Agora",
+                  "text": "Place Agora is a theatre located in Thiès.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.927513,
+                        14.790615
+                  ]
+            },
+            {
+                  "name": "Monument Diambar",
+                  "text": "The Monument Diambar is a monument situated in Thiès.",
+                  "category": "historical",
+                  "coords": [
+                        -16.915623,
+                        14.775723
+                  ]
+            },
+            {
+                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
+                  "text": "The Manufacture Sénégalaise Des Arts Décoratifs is an arts centre in Thiès.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.934549,
+                        14.794829
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SN-TH",
     coords: [-16.9260, 14.7928],

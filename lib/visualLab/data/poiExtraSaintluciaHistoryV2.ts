@@ -1083,7 +1083,520 @@ export const saintluciaHistoryV2: POI[] = [
     image: "/poi-images/saintlucia-apostles-battery-history-v2.webp",
   },
   {
-    id: "saintlucia-gros-islet-old-town-history-v2",
+    id: "saintlucia-gros-islet-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Der Splash Island Water Park ist ein Wasserpark in der Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap ist ein Küstenabschnitt in der Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Anse Bécune Beach ist ein Strand zur Erholung in der Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach ist ein bekannter Sandstrand in der Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Francois Beach ist ein Sandstrand in der Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach ist ein Strand in der Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach ist ein ruhiger Küstenabschnitt in der Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Das Pigeon Island National Landmark ist eine historische Festungsanlage in der Altstadt von Gros Islet.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Pigeon Island Beach bietet eine schöne Aussicht auf das Meer in der Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas ist ein Strand in der Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Das Pigeon Is. Interpretation Center ist eine Attraktion in der Altstadt von Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Die US Signaling Station ist eine historische Ruinenstätte in der Altstadt von Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "Die WWII Old U.S. Military Pillars sind historische Ruinen in der Altstadt von Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Die Aquaholics Kite surfing School ist eine Wassersporteinrichtung in der Altstadt von Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "A Splash Island Water Park egy vízi vidámpark Altstadt von Gros Islet területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Az Anse du Cap egy tengerparti hely Altstadt von Gros Islet területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Az Anse Bécune Beach egy tengerparti pihenőhely Altstadt von Gros Islet területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "A Reduit Beach egy jól ismert homokos part Altstadt von Gros Islet területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "A Francois Beach egy homokos partszakasz Altstadt von Gros Islet területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "A Smugglers Cove Beach egy tengerpart Altstadt von Gros Islet területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "A Trouya Beach egy csendes tengerparti hely Altstadt von Gros Islet területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "A Pigeon Island National Landmark egy történelmi erődítmény Altstadt von Gros Islet területén.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "A Pigeon Island Beach festői kilátást nyújt a tengerre Altstadt von Gros Islet területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "A Cas en bas egy tengerparti terület fürdőzők számára Altstadt von Gros Islet területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "A Pigeon Is. Interpretation Center egy oktatási látványosság Altstadt von Gros Islet területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "A US Signaling Station történelmi romok lelőhelye Altstadt von Gros Islet területén.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "A WWII Old U.S. Military Pillars szerkezeti maradványok Altstadt von Gros Islet területén.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Az Aquaholics Kite surfing School egy vízisport-létesítmény Altstadt von Gros Islet területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Splash Island Water Park este un parc acvatic situat în Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap este o plajă situată în Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Anse Bécune Beach este o plajă aflată în Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach este o plajă de nisip cunoscută din Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Francois Beach este o plajă cu nisip din Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach este o plajă din Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach este un loc de coastă liniștit din Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Pigeon Island National Landmark este un sit istoric fortificat din Altstadt von Gros Islet.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Pigeon Island Beach oferă o zonă de relaxare în Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas este o zonă de coastă pentru iubitorii de plajă din Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "Centrul de interpretare Pigeon Is. este o atracție din Altstadt von Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "Stația de semnalizare a SUA este un sit cu ruine istorice din Altstadt von Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "WWII Old U.S. Military Pillars sunt rămășițe găsite în Altstadt von Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Aquaholics Kite surfing School este o facilitate locală pentru sporturi nautice din Altstadt von Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Splash Island Water Park",
+                  "text": "Splash Island Water Park is an aquatic amusement park in Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.954113,
+                        14.078131
+                  ]
+            },
+            {
+                  "name": "Anse du Cap",
+                  "text": "Anse du Cap is a seaside spot located in Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.947548,
+                        14.103692
+                  ]
+            },
+            {
+                  "name": "Anse Bécune Beach",
+                  "text": "Anse Bécune Beach provides a coastal relaxation area in Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.951072,
+                        14.097125
+                  ]
+            },
+            {
+                  "name": "Reduit Beach",
+                  "text": "Reduit Beach is a well-known sandy shoreline in Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.956392,
+                        14.074694
+                  ]
+            },
+            {
+                  "name": "Francois Beach",
+                  "text": "Francois Beach is a sandy coastal location in Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.966285,
+                        14.066045
+                  ]
+            },
+            {
+                  "name": "smugglers cove beach",
+                  "text": "Smugglers Cove Beach is a small bay with a sandy beach in Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.950188,
+                        14.100529
+                  ]
+            },
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach is a quiet coastal spot located in Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Pigeon Island National Landmark",
+                  "text": "Pigeon Island National Landmark is a historical fortress site in Altstadt von Gros Islet.",
+                  "category": "fortress",
+                  "coords": [
+                        -60.964627,
+                        14.092578
+                  ]
+            },
+            {
+                  "name": "Pigeon Island Beach",
+                  "text": "Pigeon Island Beach offers a scenic waterfront environment in Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.960125,
+                        14.091033
+                  ]
+            },
+            {
+                  "name": "Cas en bas",
+                  "text": "Cas en bas is a coastal area for beachgoers in Altstadt von Gros Islet.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.92722,
+                        14.088666
+                  ]
+            },
+            {
+                  "name": "Pigeon Is. interpretation Center",
+                  "text": "The Pigeon Is. Interpretation Center is a visitor attraction in Altstadt von Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.962275,
+                        14.093925
+                  ]
+            },
+            {
+                  "name": "US Signaling Station",
+                  "text": "The US Signaling Station is a site of historic ruins in Altstadt von Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.966241,
+                        14.091273
+                  ]
+            },
+            {
+                  "name": "WWII Old U.S. Military Pillars",
+                  "text": "The WWII Old U.S. Military Pillars are structural remnants found in Altstadt von Gros Islet.",
+                  "category": "historical",
+                  "coords": [
+                        -60.956265,
+                        14.067805
+                  ]
+            },
+            {
+                  "name": "Aquaholics Kite surfing School",
+                  "text": "Aquaholics Kite surfing School is a local watersports facility in Altstadt von Gros Islet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.926738,
+                        14.091094
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "town",
     name: { de: "Altstadt von Gros Islet", hu: "Gros Islet óváros", ro: "Centrul vechi din Gros Islet", en: "Gros Islet Old Town" },

@@ -678,7 +678,160 @@ export const newcaledoniaEconomicV2: POI[] = [
     image: "/poi-images/newcaledonia-boulouparis-solar-farm-economic-v2.webp",
   },
   {
-    id: "newcaledonia-kone-economic-pole-economic-v2",
+    id: "newcaledonia-kone-economic-pole-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre culturel Pomémie",
+                  "text": "Das Centre culturel Pomémie ist ein Kunstzentrum in Wirtschaftszentrum Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.885275,
+                        -21.068592
+                  ]
+            },
+            {
+                  "name": "Tu Koohnê Plongée",
+                  "text": "Tu Koohnê Plongée ist eine Attraktion in Wirtschaftszentrum Koné.",
+                  "category": "landmark",
+                  "coords": [
+                        164.842074,
+                        -21.055876
+                  ]
+            },
+            {
+                  "name": "Complexe culturel",
+                  "text": "Der Complexe culturel ist ein Kunstzentrum in Wirtschaftszentrum Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.863262,
+                        -21.056408
+                  ]
+            },
+            {
+                  "name": "Église de Koné",
+                  "text": "Die Église de Koné ist eine Kultstätte in Wirtschaftszentrum Koné.",
+                  "category": "religious",
+                  "coords": [
+                        164.861331,
+                        -21.06243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre culturel Pomémie",
+                  "text": "A Centre culturel Pomémie egy művészeti központ Wirtschaftszentrum Koné városában.",
+                  "category": "cultural",
+                  "coords": [
+                        164.885275,
+                        -21.068592
+                  ]
+            },
+            {
+                  "name": "Tu Koohnê Plongée",
+                  "text": "A Tu Koohnê Plongée egy látványosság Wirtschaftszentrum Koné városában.",
+                  "category": "landmark",
+                  "coords": [
+                        164.842074,
+                        -21.055876
+                  ]
+            },
+            {
+                  "name": "Complexe culturel",
+                  "text": "A Complexe culturel egy művészeti központ Wirtschaftszentrum Koné városában.",
+                  "category": "cultural",
+                  "coords": [
+                        164.863262,
+                        -21.056408
+                  ]
+            },
+            {
+                  "name": "Église de Koné",
+                  "text": "Az Église de Koné egy vallási épület Wirtschaftszentrum Koné városában.",
+                  "category": "religious",
+                  "coords": [
+                        164.861331,
+                        -21.06243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre culturel Pomémie",
+                  "text": "Centre culturel Pomémie este un centru de artă în Wirtschaftszentrum Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.885275,
+                        -21.068592
+                  ]
+            },
+            {
+                  "name": "Tu Koohnê Plongée",
+                  "text": "Tu Koohnê Plongée este o atracție turistică în Wirtschaftszentrum Koné.",
+                  "category": "landmark",
+                  "coords": [
+                        164.842074,
+                        -21.055876
+                  ]
+            },
+            {
+                  "name": "Complexe culturel",
+                  "text": "Complexe culturel este un centru de artă în Wirtschaftszentrum Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.863262,
+                        -21.056408
+                  ]
+            },
+            {
+                  "name": "Église de Koné",
+                  "text": "Église de Koné este un lăcaș de cult în Wirtschaftszentrum Koné.",
+                  "category": "religious",
+                  "coords": [
+                        164.861331,
+                        -21.06243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre culturel Pomémie",
+                  "text": "Centre culturel Pomémie is an arts centre located in Wirtschaftszentrum Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.885275,
+                        -21.068592
+                  ]
+            },
+            {
+                  "name": "Tu Koohnê Plongée",
+                  "text": "Tu Koohnê Plongée is an attraction located in Wirtschaftszentrum Koné.",
+                  "category": "landmark",
+                  "coords": [
+                        164.842074,
+                        -21.055876
+                  ]
+            },
+            {
+                  "name": "Complexe culturel",
+                  "text": "Complexe culturel is an arts centre in Wirtschaftszentrum Koné.",
+                  "category": "cultural",
+                  "coords": [
+                        164.863262,
+                        -21.056408
+                  ]
+            },
+            {
+                  "name": "Église de Koné",
+                  "text": "Église de Koné is a place of worship located in Wirtschaftszentrum Koné.",
+                  "category": "religious",
+                  "coords": [
+                        164.861331,
+                        -21.06243
+                  ]
+            }
+      ]
+},
     parent: "NC",
     type: "city",
     name: { de: "Wirtschaftszentrum Koné", hu: "Koné gazdasági központja", ro: "Polul economic Koné", en: "Kone Economic Pole" },

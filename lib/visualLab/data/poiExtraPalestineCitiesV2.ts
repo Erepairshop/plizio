@@ -3,7 +3,1744 @@ import { POI } from './poi';
 export const palestineCitiesV2: POI[] = [
 
   {
-    id: "palestine-east-jerusalem-cities-v2",
+    id: "palestine-east-jerusalem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "מוזיאון הבית השרוף",
+                  "text": "Dieses Museum zeigt Funde aus der Zeit der Zerstörung Jerusalems.",
+                  "category": "museum",
+                  "coords": [
+                        35.232698,
+                        31.775593
+                  ]
+            },
+            {
+                  "name": "Ticho House",
+                  "text": "Ein historisches Haus, das heute als Kunstmuseum dient.",
+                  "category": "museum",
+                  "coords": [
+                        35.219716,
+                        31.783467
+                  ]
+            },
+            {
+                  "name": "Kreuzkloster",
+                  "text": "Ein altes Kloster mit beeindruckender Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        35.208249,
+                        31.772019
+                  ]
+            },
+            {
+                  "name": "Päpstliches Bibelinstitut",
+                  "text": "Ein Forschungsinstitut und Museum für biblische Studien.",
+                  "category": "museum",
+                  "coords": [
+                        35.223068,
+                        31.77531
+                  ]
+            },
+            {
+                  "name": "השער הכפול",
+                  "text": "Überreste der antiken Tore zum Tempelberg.",
+                  "category": "historical",
+                  "coords": [
+                        35.236581,
+                        31.775947
+                  ]
+            },
+            {
+                  "name": "Lithostrotos",
+                  "text": "Eine archäologische Stätte mit römischem Pflaster.",
+                  "category": "historical",
+                  "coords": [
+                        35.233618,
+                        31.780439
+                  ]
+            },
+            {
+                  "name": "קשת רובינסון",
+                  "text": "Überreste eines riesigen antiken Bogens am Tempelberg.",
+                  "category": "historical",
+                  "coords": [
+                        35.234592,
+                        31.775823
+                  ]
+            },
+            {
+                  "name": "Mamilla-Friedhof",
+                  "text": "Ein bedeutender historischer Friedhof in Jerusalem.",
+                  "category": "historical",
+                  "coords": [
+                        35.22076,
+                        31.778165
+                  ]
+            },
+            {
+                  "name": "Hiskija-Becken",
+                  "text": "Ein antikes Wasserreservoir in der Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.22897,
+                        31.77718
+                  ]
+            },
+            {
+                  "name": "Teich Bethesda",
+                  "text": "Eine biblisch bedeutsame archäologische Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        35.235991,
+                        31.781473
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "Die antike Hauptstraße von Jerusalem.",
+                  "category": "historical",
+                  "coords": [
+                        35.2309,
+                        31.775029
+                  ]
+            },
+            {
+                  "name": "גבעת התחמושת",
+                  "text": "Ein Mahnmal für die gefallenen Soldaten des Sechstagekriegs.",
+                  "category": "historical",
+                  "coords": [
+                        35.22784,
+                        31.798159
+                  ]
+            },
+            {
+                  "name": "Neues Tor",
+                  "text": "Eines der Tore in der historischen Stadtmauer.",
+                  "category": "fortress",
+                  "coords": [
+                        35.226189,
+                        31.779305
+                  ]
+            },
+            {
+                  "name": "Jaffator",
+                  "text": "Historisches Stadttor in Jerusalem.",
+                  "category": "fortress",
+                  "coords": [
+                        35.227544,
+                        31.776628
+                  ]
+            },
+            {
+                  "name": "מרכז למוסיקה משכנות שאננים",
+                  "text": "Ein Zentrum für klassische Musik und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        35.224607,
+                        31.771892
+                  ]
+            },
+            {
+                  "name": "المسرح الوطني الفلسطيني / الحكواتي",
+                  "text": "Ein wichtiges Theater für palästinensische Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.229376,
+                        31.788338
+                  ]
+            },
+            {
+                  "name": "Grab des Lazarus",
+                  "text": "Ein Ort von religiöser Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "Markuskirche",
+                  "text": "Eine historisch bedeutende syrisch-christliche Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        35.230595,
+                        31.77601
+                  ]
+            },
+            {
+                  "name": "יד הרב נסים",
+                  "text": "Ein Zentrum für religiöses Studium und Gebet.",
+                  "category": "religious",
+                  "coords": [
+                        35.215511,
+                        31.771105
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Vincent de Paul",
+                  "text": "Eine religiöse Stätte und Kapelle in Jerusalem.",
+                  "category": "religious",
+                  "coords": [
+                        35.225107,
+                        31.777914
+                  ]
+            },
+            {
+                  "name": "Toroskirche",
+                  "text": "Eine historische armenische Kirche in Jerusalem.",
+                  "category": "religious",
+                  "coords": [
+                        35.229111,
+                        31.774796
+                  ]
+            },
+            {
+                  "name": "Kleine Westmauer",
+                  "text": "Ein heiliger Ort für Gebete nahe der Klagemauer.",
+                  "category": "religious",
+                  "coords": [
+                        35.234068,
+                        31.778585
+                  ]
+            },
+            {
+                  "name": "בית כנסת עדס",
+                  "text": "Eine aktive Synagoge mit langer Tradition.",
+                  "category": "religious",
+                  "coords": [
+                        35.211569,
+                        31.781996
+                  ]
+            },
+            {
+                  "name": "Kettendom",
+                  "text": "Ein prachtvolles islamisches Bauwerk auf dem Tempelberg.",
+                  "category": "religious",
+                  "coords": [
+                        35.235736,
+                        31.778079
+                  ]
+            },
+            {
+                  "name": "Salvatorkirche",
+                  "text": "Ein bedeutendes franziskanisches Kloster in Jerusalem.",
+                  "category": "religious",
+                  "coords": [
+                        35.227392,
+                        31.779012
+                  ]
+            },
+            {
+                  "name": "Große Synagoge",
+                  "text": "Die wichtigste Synagoge des Landes.",
+                  "category": "religious",
+                  "coords": [
+                        35.216616,
+                        31.775798
+                  ]
+            },
+            {
+                  "name": "מנזר רטיסבון",
+                  "text": "Ein historisches Kloster in der Nähe des Stadtzentrums.",
+                  "category": "religious",
+                  "coords": [
+                        35.214509,
+                        31.778043
+                  ]
+            },
+            {
+                  "name": "Dungtor",
+                  "text": "Ein historisches Stadttor in Jerusalem.",
+                  "category": "landmark",
+                  "coords": [
+                        35.234173,
+                        31.774827
+                  ]
+            },
+            {
+                  "name": "Teich von Siloah",
+                  "text": "Ein historisches Wasserbecken in Jerusalem.",
+                  "category": "landmark",
+                  "coords": [
+                        35.235123,
+                        31.770401
+                  ]
+            },
+            {
+                  "name": "פיר וורן",
+                  "text": "Ein antiker vertikaler Schacht zur Wasserversorgung.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236067,
+                        31.773123
+                  ]
+            },
+            {
+                  "name": "Zionstor",
+                  "text": "Ein bedeutendes Tor in der historischen Stadtmauer.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229638,
+                        31.772857
+                  ]
+            },
+            {
+                  "name": "שוק מחנה יהודה",
+                  "text": "Ein belebter Markt mit lokalen Produkten.",
+                  "category": "landmark",
+                  "coords": [
+                        35.212734,
+                        31.784786
+                  ]
+            },
+            {
+                  "name": "מערת אבה",
+                  "text": "Ein antiker Höhleneingang mit historischer Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        35.230395,
+                        31.803808
+                  ]
+            },
+            {
+                  "name": "מערת אום אל עמד",
+                  "text": "Eine historische Höhlenanlage in der Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        35.227208,
+                        31.805438
+                  ]
+            },
+            {
+                  "name": "Garten Getsemani",
+                  "text": "Ein historischer Garten mit biblischer Bedeutung.",
+                  "category": "park",
+                  "coords": [
+                        35.239673,
+                        31.779598
+                  ]
+            },
+            {
+                  "name": "Alliance Gate",
+                  "text": "Ein historisches Tor in Jerusalem.",
+                  "category": "landmark",
+                  "coords": [
+                        35.215269,
+                        31.784213
+                  ]
+            },
+            {
+                  "name": "Berg Zion",
+                  "text": "Ein Berg von großer religiöser und historischer Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        35.228657,
+                        31.77162
+                  ]
+            },
+            {
+                  "name": "מערת קבורה",
+                  "text": "Eine antike Grabstätte.",
+                  "category": "natural",
+                  "coords": [
+                        35.232514,
+                        31.768164
+                  ]
+            },
+            {
+                  "name": "برج الكنيسة الروسية البيضاء",
+                  "text": "Ein Aussichtspunkt mit Blick über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        35.247761,
+                        31.779102
+                  ]
+            },
+            {
+                  "name": "מרכז בגין",
+                  "text": "Ein Museum zur Geschichte des israelischen Erbes.",
+                  "category": "museum",
+                  "coords": [
+                        35.225438,
+                        31.769269
+                  ]
+            },
+            {
+                  "name": "Museum of the Seam",
+                  "text": "Museum on the Seam in Ostjerusalem, ein Museum für soziale Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        35.226854,
+                        31.786347
+                  ]
+            },
+            {
+                  "name": "Artist's House",
+                  "text": "Artist's House in Ostjerusalem, ein Museum für zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        35.214448,
+                        31.779946
+                  ]
+            },
+            {
+                  "name": "מוזיאון גוש קטיף",
+                  "text": "Gush Katif Museum in Ostjerusalem, ein historisches Museum.",
+                  "category": "museum",
+                  "coords": [
+                        35.209147,
+                        31.78605
+                  ]
+            },
+            {
+                  "name": "מוזיאון לאומנות האיסלאם",
+                  "text": "Museum for Islamic Art in Ostjerusalem, eine bedeutende kulturelle Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        35.213024,
+                        31.768604
+                  ]
+            },
+            {
+                  "name": "Friends of Zion Museum",
+                  "text": "Friends of Zion Museum in Ostjerusalem, ein informatives Museum.",
+                  "category": "museum",
+                  "coords": [
+                        35.220184,
+                        31.780134
+                  ]
+            },
+            {
+                  "name": "מוזיאון אסירי המחתרות",
+                  "text": "Asirei HaMahtarot in Ostjerusalem, ein historisches Museum.",
+                  "category": "museum",
+                  "coords": [
+                        35.22407,
+                        31.78191
+                  ]
+            },
+            {
+                  "name": "Israel Museum",
+                  "text": "Israel Museum in Ostjerusalem, eines der weltweit bedeutendsten Museen für Kunst und Archäologie.",
+                  "category": "museum",
+                  "coords": [
+                        35.203245,
+                        31.77229
+                  ]
+            },
+            {
+                  "name": "باب السلسلة",
+                  "text": "Kettentor in Ostjerusalem, eine bedeutende archäologische Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        35.234297,
+                        31.777272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "מוזיאון הבית השרוף",
+                  "text": "Ez a múzeum a jeruzsálemi pusztulás korából származó leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.232698,
+                        31.775593
+                  ]
+            },
+            {
+                  "name": "בית טיכו",
+                  "text": "Történelmi ház, amely ma művészeti múzeumként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        35.219716,
+                        31.783467
+                  ]
+            },
+            {
+                  "name": "Monastery of the Cross",
+                  "text": "Régi kolostor lenyűgöző történelemmel.",
+                  "category": "castle",
+                  "coords": [
+                        35.208249,
+                        31.772019
+                  ]
+            },
+            {
+                  "name": "המכון האפיפיורי למקרא",
+                  "text": "Kutatóintézet és múzeum bibliai tanulmányokhoz.",
+                  "category": "museum",
+                  "coords": [
+                        35.223068,
+                        31.77531
+                  ]
+            },
+            {
+                  "name": "השער הכפול",
+                  "text": "Az ókori templomhegyi kapuk maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        35.236581,
+                        31.775947
+                  ]
+            },
+            {
+                  "name": "Lithostrotos",
+                  "text": "Régészeti lelőhely római kövezettel.",
+                  "category": "historical",
+                  "coords": [
+                        35.233618,
+                        31.780439
+                  ]
+            },
+            {
+                  "name": "קשת רובינסון",
+                  "text": "Egy hatalmas ókori ív maradványai a templomhegynél.",
+                  "category": "historical",
+                  "coords": [
+                        35.234592,
+                        31.775823
+                  ]
+            },
+            {
+                  "name": "בית עלמין ממילא",
+                  "text": "Jeruzsálem jelentős történelmi temetője.",
+                  "category": "historical",
+                  "coords": [
+                        35.22076,
+                        31.778165
+                  ]
+            },
+            {
+                  "name": "Hiszkija medencéje",
+                  "text": "Ókori víztározó az óvárosban.",
+                  "category": "historical",
+                  "coords": [
+                        35.22897,
+                        31.77718
+                  ]
+            },
+            {
+                  "name": "Bethesda fürdő",
+                  "text": "Bibliailag jelentős régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        35.235991,
+                        31.781473
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "Jeruzsálem ókori főutcája.",
+                  "category": "historical",
+                  "coords": [
+                        35.2309,
+                        31.775029
+                  ]
+            },
+            {
+                  "name": "גבעת התחמושת",
+                  "text": "Emlékmű a hatnapos háborúban elesett katonáknak.",
+                  "category": "historical",
+                  "coords": [
+                        35.22784,
+                        31.798159
+                  ]
+            },
+            {
+                  "name": "Új-kapu",
+                  "text": "Az egyik kapu a történelmi városfalon.",
+                  "category": "fortress",
+                  "coords": [
+                        35.226189,
+                        31.779305
+                  ]
+            },
+            {
+                  "name": "Jaffai kapu",
+                  "text": "Történelmi városkapu Jeruzsálemben.",
+                  "category": "fortress",
+                  "coords": [
+                        35.227544,
+                        31.776628
+                  ]
+            },
+            {
+                  "name": "מרכז למוסיקה משכנות שאננים",
+                  "text": "Klasszikus zenei és koncertközpont.",
+                  "category": "cultural",
+                  "coords": [
+                        35.224607,
+                        31.771892
+                  ]
+            },
+            {
+                  "name": "المسرح الوطني الفلسطيني / الحكواتي",
+                  "text": "Fontos színház a palesztin kultúra számára.",
+                  "category": "cultural",
+                  "coords": [
+                        35.229376,
+                        31.788338
+                  ]
+            },
+            {
+                  "name": "قبر ألعازر",
+                  "text": "Vallási jelentőségű hely.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "ܥܕܬܐ ܕܡܪܝ ܪܩܘܣ",
+                  "text": "Történelmileg jelentős szír-keresztény templom.",
+                  "category": "religious",
+                  "coords": [
+                        35.230595,
+                        31.77601
+                  ]
+            },
+            {
+                  "name": "יד הרב נסים",
+                  "text": "Vallási tanulmányok és imádság központja.",
+                  "category": "religious",
+                  "coords": [
+                        35.215511,
+                        31.771105
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Vincent de Paul",
+                  "text": "Vallási hely és kápolna Jeruzsálemben.",
+                  "category": "religious",
+                  "coords": [
+                        35.225107,
+                        31.777914
+                  ]
+            },
+            {
+                  "name": "Szent Torosz templom",
+                  "text": "Történelmi örmény templom Jeruzsálemben.",
+                  "category": "religious",
+                  "coords": [
+                        35.229111,
+                        31.774796
+                  ]
+            },
+            {
+                  "name": "הכותל הקטן",
+                  "text": "Szent hely imádságra a Siratófal közelében.",
+                  "category": "religious",
+                  "coords": [
+                        35.234068,
+                        31.778585
+                  ]
+            },
+            {
+                  "name": "בית כנסת עדס",
+                  "text": "Működő zsinagóga hosszú hagyományokkal.",
+                  "category": "religious",
+                  "coords": [
+                        35.211569,
+                        31.781996
+                  ]
+            },
+            {
+                  "name": "Lánckupola",
+                  "text": "Pompás iszlám építmény a templomhegyen.",
+                  "category": "religious",
+                  "coords": [
+                        35.235736,
+                        31.778079
+                  ]
+            },
+            {
+                  "name": "كنيسة القديس المخلص",
+                  "text": "Jelentős ferences kolostor Jeruzsálemben.",
+                  "category": "religious",
+                  "coords": [
+                        35.227392,
+                        31.779012
+                  ]
+            },
+            {
+                  "name": "בית הכנסת הגדול",
+                  "text": "Az ország legfontosabb zsinagógája.",
+                  "category": "religious",
+                  "coords": [
+                        35.216616,
+                        31.775798
+                  ]
+            },
+            {
+                  "name": "מנזר רטיסבון",
+                  "text": "Történelmi kolostor a városközpont közelében.",
+                  "category": "religious",
+                  "coords": [
+                        35.214509,
+                        31.778043
+                  ]
+            },
+            {
+                  "name": "Szemét-kapu",
+                  "text": "Történelmi városkapu Jeruzsálemben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.234173,
+                        31.774827
+                  ]
+            },
+            {
+                  "name": "ברכת השילוח",
+                  "text": "Történelmi víztározó Jeruzsálemben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.235123,
+                        31.770401
+                  ]
+            },
+            {
+                  "name": "פיר וורן",
+                  "text": "Ókori függőleges akna a vízellátáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236067,
+                        31.773123
+                  ]
+            },
+            {
+                  "name": "Sion-kapu",
+                  "text": "Fontos kapu a történelmi városfalon.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229638,
+                        31.772857
+                  ]
+            },
+            {
+                  "name": "שוק מחנה יהודה",
+                  "text": "Forgalmas piac helyi termékekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.212734,
+                        31.784786
+                  ]
+            },
+            {
+                  "name": "מערת אבה",
+                  "text": "Ókori barlangbejárat történelmi jelentőséggel.",
+                  "category": "natural",
+                  "coords": [
+                        35.230395,
+                        31.803808
+                  ]
+            },
+            {
+                  "name": "מערת אום אל עמד",
+                  "text": "Történelmi barlangrendszer a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        35.227208,
+                        31.805438
+                  ]
+            },
+            {
+                  "name": "Gecsemáné kert",
+                  "text": "Bibliai jelentőségű történelmi kert.",
+                  "category": "park",
+                  "coords": [
+                        35.239673,
+                        31.779598
+                  ]
+            },
+            {
+                  "name": "Alliance Gate",
+                  "text": "Történelmi kapu Jeruzsálemben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.215269,
+                        31.784213
+                  ]
+            },
+            {
+                  "name": "Sion-hegy",
+                  "text": "Nagy vallási és történelmi jelentőségű hegy.",
+                  "category": "natural",
+                  "coords": [
+                        35.228657,
+                        31.77162
+                  ]
+            },
+            {
+                  "name": "מערת קבורה",
+                  "text": "Ókori temetkezési hely.",
+                  "category": "natural",
+                  "coords": [
+                        35.232514,
+                        31.768164
+                  ]
+            },
+            {
+                  "name": "برج الكنيسة الروسية البيضاء",
+                  "text": "Kilátópont a városra nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        35.247761,
+                        31.779102
+                  ]
+            },
+            {
+                  "name": "מרכז בגין",
+                  "text": "Múzeum az izraeli örökség történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        35.225438,
+                        31.769269
+                  ]
+            },
+            {
+                  "name": "מוזיאון על התפר",
+                  "text": "Museum on the Seam Ostjerusalemben, egy szociális művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        35.226854,
+                        31.786347
+                  ]
+            },
+            {
+                  "name": "Artist's House",
+                  "text": "Artist's House Ostjerusalemben, egy kortárs művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        35.214448,
+                        31.779946
+                  ]
+            },
+            {
+                  "name": "מוזיאון גוש קטיף",
+                  "text": "Gush Katif Múzeum Ostjerusalemben, egy történelmi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        35.209147,
+                        31.78605
+                  ]
+            },
+            {
+                  "name": "מוזיאון לאומנות האיסלאם",
+                  "text": "Iszlám Művészeti Múzeum Ostjerusalemben, egy jelentős kulturális gyűjtemény.",
+                  "category": "museum",
+                  "coords": [
+                        35.213024,
+                        31.768604
+                  ]
+            },
+            {
+                  "name": "ידידי ישראל",
+                  "text": "Friends of Zion Múzeum Ostjerusalemben, egy informatív múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        35.220184,
+                        31.780134
+                  ]
+            },
+            {
+                  "name": "מוזיאון אסירי המחתרות",
+                  "text": "Asirei HaMahtarot Ostjerusalemben, egy történelmi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        35.22407,
+                        31.78191
+                  ]
+            },
+            {
+                  "name": "מוזיאון ישראל",
+                  "text": "Izrael Múzeum Ostjerusalemben, a világ egyik legfontosabb művészeti és régészeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        35.203245,
+                        31.77229
+                  ]
+            },
+            {
+                  "name": "باب السلسلة",
+                  "text": "Lánc-kapu Ostjerusalemben, egy fontos régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        35.234297,
+                        31.777272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Casa Burnt",
+                  "text": "Acest muzeu prezintă descoperiri din perioada distrugerii Ierusalimului.",
+                  "category": "museum",
+                  "coords": [
+                        35.232698,
+                        31.775593
+                  ]
+            },
+            {
+                  "name": "בית טיכו",
+                  "text": "O casă istorică ce servește astăzi ca muzeu de artă.",
+                  "category": "museum",
+                  "coords": [
+                        35.219716,
+                        31.783467
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă Greacă a „Sfintei Cruci” din Ierusalim",
+                  "text": "O mănăstire veche cu o istorie impresionantă.",
+                  "category": "castle",
+                  "coords": [
+                        35.208249,
+                        31.772019
+                  ]
+            },
+            {
+                  "name": "המכון האפיפיורי למקרא",
+                  "text": "Un institut de cercetare și muzeu pentru studii biblice.",
+                  "category": "museum",
+                  "coords": [
+                        35.223068,
+                        31.77531
+                  ]
+            },
+            {
+                  "name": "השער הכפול",
+                  "text": "Rămășițele porților antice către Muntele Templului.",
+                  "category": "historical",
+                  "coords": [
+                        35.236581,
+                        31.775947
+                  ]
+            },
+            {
+                  "name": "Lithostrotos",
+                  "text": "Un sit arheologic cu pavaj roman.",
+                  "category": "historical",
+                  "coords": [
+                        35.233618,
+                        31.780439
+                  ]
+            },
+            {
+                  "name": "קשת רובינסון",
+                  "text": "Rămășițele unui arc antic imens la Muntele Templului.",
+                  "category": "historical",
+                  "coords": [
+                        35.234592,
+                        31.775823
+                  ]
+            },
+            {
+                  "name": "Cimitirul musulman Mamilla",
+                  "text": "Un cimitir istoric important din Ierusalim.",
+                  "category": "historical",
+                  "coords": [
+                        35.22076,
+                        31.778165
+                  ]
+            },
+            {
+                  "name": "Bazinul Iezechia",
+                  "text": "Un rezervor de apă antic în orașul vechi.",
+                  "category": "historical",
+                  "coords": [
+                        35.22897,
+                        31.77718
+                  ]
+            },
+            {
+                  "name": "Scăldătoarea Betezda",
+                  "text": "Un sit arheologic cu semnificație biblică.",
+                  "category": "historical",
+                  "coords": [
+                        35.235991,
+                        31.781473
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "Antica stradă principală din Ierusalim.",
+                  "category": "historical",
+                  "coords": [
+                        35.2309,
+                        31.775029
+                  ]
+            },
+            {
+                  "name": "גבעת התחמושת",
+                  "text": "Un monument pentru soldații căzuți în Războiul de Șase Zile.",
+                  "category": "historical",
+                  "coords": [
+                        35.22784,
+                        31.798159
+                  ]
+            },
+            {
+                  "name": "Poarta Nouă",
+                  "text": "Una dintre porțile zidului istoric al orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        35.226189,
+                        31.779305
+                  ]
+            },
+            {
+                  "name": "Poarta Jaffa",
+                  "text": "Poartă istorică a orașului Ierusalim.",
+                  "category": "fortress",
+                  "coords": [
+                        35.227544,
+                        31.776628
+                  ]
+            },
+            {
+                  "name": "Centrul Muzical Ierusalim",
+                  "text": "Un centru pentru muzică clasică și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        35.224607,
+                        31.771892
+                  ]
+            },
+            {
+                  "name": "المسرح الوطني الفلسطيني / الحكواتي",
+                  "text": "Un teatru important pentru cultura palestiniană.",
+                  "category": "cultural",
+                  "coords": [
+                        35.229376,
+                        31.788338
+                  ]
+            },
+            {
+                  "name": "Mormântul lui Lazăr din Betania",
+                  "text": "Un loc cu semnificație religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "Biserica Siriacă „Sfântul Marcu”",
+                  "text": "O biserică sirian-creștină cu importanță istorică.",
+                  "category": "religious",
+                  "coords": [
+                        35.230595,
+                        31.77601
+                  ]
+            },
+            {
+                  "name": "יד הרב נסים",
+                  "text": "Un centru pentru studii religioase și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        35.215511,
+                        31.771105
+                  ]
+            },
+            {
+                  "name": "Capela catolică „St. Vincent de Paul”",
+                  "text": "Un lăcaș de cult și capelă în Ierusalim.",
+                  "category": "religious",
+                  "coords": [
+                        35.225107,
+                        31.777914
+                  ]
+            },
+            {
+                  "name": "Biserica armeană „Sfântul Toros”",
+                  "text": "O biserică istorică armeană din Ierusalim.",
+                  "category": "religious",
+                  "coords": [
+                        35.229111,
+                        31.774796
+                  ]
+            },
+            {
+                  "name": "הכותל הקטן",
+                  "text": "Un loc sfânt pentru rugăciune lângă Zidul Plângerii.",
+                  "category": "religious",
+                  "coords": [
+                        35.234068,
+                        31.778585
+                  ]
+            },
+            {
+                  "name": "בית כנסת עדס",
+                  "text": "O sinagogă activă cu o lungă tradiție.",
+                  "category": "religious",
+                  "coords": [
+                        35.211569,
+                        31.781996
+                  ]
+            },
+            {
+                  "name": "Cupola Lanțului",
+                  "text": "O structură islamică magnifică pe Muntele Templului.",
+                  "category": "religious",
+                  "coords": [
+                        35.235736,
+                        31.778079
+                  ]
+            },
+            {
+                  "name": "Mănăstirea franciscană „Saint Saviour”",
+                  "text": "O mănăstire franciscană importantă în Ierusalim.",
+                  "category": "religious",
+                  "coords": [
+                        35.227392,
+                        31.779012
+                  ]
+            },
+            {
+                  "name": "Marea Sinagogă din Ierusalim",
+                  "text": "Cea mai importantă sinagogă a țării.",
+                  "category": "religious",
+                  "coords": [
+                        35.216616,
+                        31.775798
+                  ]
+            },
+            {
+                  "name": "Mănăstirea catolică „Ratisbonne”",
+                  "text": "O mănăstire istorică în apropierea centrului orașului.",
+                  "category": "religious",
+                  "coords": [
+                        35.214509,
+                        31.778043
+                  ]
+            },
+            {
+                  "name": "Poarta Gunoaielor",
+                  "text": "O poartă istorică a orașului Ierusalim.",
+                  "category": "landmark",
+                  "coords": [
+                        35.234173,
+                        31.774827
+                  ]
+            },
+            {
+                  "name": "Scăldătoarea Siloamului",
+                  "text": "Un bazin de apă istoric în Ierusalim.",
+                  "category": "landmark",
+                  "coords": [
+                        35.235123,
+                        31.770401
+                  ]
+            },
+            {
+                  "name": "פיר וורן",
+                  "text": "Un puț vertical antic pentru aprovizionarea cu apă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236067,
+                        31.773123
+                  ]
+            },
+            {
+                  "name": "Poarta Sionului",
+                  "text": "O poartă importantă în zidul istoric al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229638,
+                        31.772857
+                  ]
+            },
+            {
+                  "name": "שוק מחנה יהודה",
+                  "text": "O piață animată cu produse locale.",
+                  "category": "landmark",
+                  "coords": [
+                        35.212734,
+                        31.784786
+                  ]
+            },
+            {
+                  "name": "מערת אבה",
+                  "text": "O intrare antică într-o peșteră cu semnificație istorică.",
+                  "category": "natural",
+                  "coords": [
+                        35.230395,
+                        31.803808
+                  ]
+            },
+            {
+                  "name": "מערת אום אל עמד",
+                  "text": "Un complex istoric de peșteri în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        35.227208,
+                        31.805438
+                  ]
+            },
+            {
+                  "name": "Grădina Ghetsimani",
+                  "text": "O grădină istorică cu semnificație biblică.",
+                  "category": "park",
+                  "coords": [
+                        35.239673,
+                        31.779598
+                  ]
+            },
+            {
+                  "name": "Alliance Gate",
+                  "text": "O poartă istorică a Ierusalimului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.215269,
+                        31.784213
+                  ]
+            },
+            {
+                  "name": "Vârful Muntele Sion",
+                  "text": "Un munte de mare importanță religioasă și istorică.",
+                  "category": "natural",
+                  "coords": [
+                        35.228657,
+                        31.77162
+                  ]
+            },
+            {
+                  "name": "מערת קבורה",
+                  "text": "Un sit funerar antic.",
+                  "category": "natural",
+                  "coords": [
+                        35.232514,
+                        31.768164
+                  ]
+            },
+            {
+                  "name": "برج الكنيسة الروسية البيضاء",
+                  "text": "Un punct de belvedere cu vedere asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        35.247761,
+                        31.779102
+                  ]
+            },
+            {
+                  "name": "Centrul de îincepători",
+                  "text": "Un muzeu despre istoria patrimoniului israelian.",
+                  "category": "museum",
+                  "coords": [
+                        35.225438,
+                        31.769269
+                  ]
+            },
+            {
+                  "name": "מוזיאון על התפר",
+                  "text": "Museum on the Seam în Ostjerusalem, un muzeu de artă socială.",
+                  "category": "museum",
+                  "coords": [
+                        35.226854,
+                        31.786347
+                  ]
+            },
+            {
+                  "name": "Artist's House",
+                  "text": "Artist's House în Ostjerusalem, un muzeu de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        35.214448,
+                        31.779946
+                  ]
+            },
+            {
+                  "name": "מוזיאון גוש קטיף",
+                  "text": "Gush Katif Museum în Ostjerusalem, un muzeu istoric.",
+                  "category": "museum",
+                  "coords": [
+                        35.209147,
+                        31.78605
+                  ]
+            },
+            {
+                  "name": "מוזיאון לאומנות האיסלאם",
+                  "text": "Muzeul de Artă Islamică în Ostjerusalem, o colecție culturală importantă.",
+                  "category": "museum",
+                  "coords": [
+                        35.213024,
+                        31.768604
+                  ]
+            },
+            {
+                  "name": "ידידי ישראל",
+                  "text": "Friends of Zion Museum în Ostjerusalem, un muzeu informativ.",
+                  "category": "museum",
+                  "coords": [
+                        35.220184,
+                        31.780134
+                  ]
+            },
+            {
+                  "name": "מוזיאון אסירי המחתרות",
+                  "text": "Asirei HaMahtarot în Ostjerusalem, un muzeu istoric.",
+                  "category": "museum",
+                  "coords": [
+                        35.22407,
+                        31.78191
+                  ]
+            },
+            {
+                  "name": "מוזיאון ישראל",
+                  "text": "Muzeul Israel în Ostjerusalem, unul dintre cele mai importante muzee de artă și arheologie din lume.",
+                  "category": "museum",
+                  "coords": [
+                        35.203245,
+                        31.77229
+                  ]
+            },
+            {
+                  "name": "باب السلسلة",
+                  "text": "Poarta Lanțului în Ostjerusalem, un important sit arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        35.234297,
+                        31.777272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burnt House",
+                  "text": "This museum displays artifacts from the time of Jerusalem's destruction.",
+                  "category": "museum",
+                  "coords": [
+                        35.232698,
+                        31.775593
+                  ]
+            },
+            {
+                  "name": "Ticho House",
+                  "text": "A historic house that now serves as an art museum.",
+                  "category": "museum",
+                  "coords": [
+                        35.219716,
+                        31.783467
+                  ]
+            },
+            {
+                  "name": "Monastery of the Cross",
+                  "text": "An ancient monastery with an impressive history.",
+                  "category": "castle",
+                  "coords": [
+                        35.208249,
+                        31.772019
+                  ]
+            },
+            {
+                  "name": "Pontifical Biblical Institute",
+                  "text": "A research institute and museum for biblical studies.",
+                  "category": "museum",
+                  "coords": [
+                        35.223068,
+                        31.77531
+                  ]
+            },
+            {
+                  "name": "Hulda Triple Gate",
+                  "text": "Remnants of the ancient gates to the Temple Mount.",
+                  "category": "historical",
+                  "coords": [
+                        35.236581,
+                        31.775947
+                  ]
+            },
+            {
+                  "name": "Lithostrotos",
+                  "text": "An archaeological site featuring Roman pavement.",
+                  "category": "historical",
+                  "coords": [
+                        35.233618,
+                        31.780439
+                  ]
+            },
+            {
+                  "name": "Robinson's Arch",
+                  "text": "Remnants of a massive ancient arch at the Temple Mount.",
+                  "category": "historical",
+                  "coords": [
+                        35.234592,
+                        31.775823
+                  ]
+            },
+            {
+                  "name": "Mamilla Cemetery",
+                  "text": "A significant historic cemetery in Jerusalem.",
+                  "category": "historical",
+                  "coords": [
+                        35.22076,
+                        31.778165
+                  ]
+            },
+            {
+                  "name": "Hizkyahu’s Pool",
+                  "text": "An ancient water reservoir in the Old City.",
+                  "category": "historical",
+                  "coords": [
+                        35.22897,
+                        31.77718
+                  ]
+            },
+            {
+                  "name": "Pool of Bethesda",
+                  "text": "An archaeologically significant site with biblical ties.",
+                  "category": "historical",
+                  "coords": [
+                        35.235991,
+                        31.781473
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "The ancient main street of Jerusalem.",
+                  "category": "historical",
+                  "coords": [
+                        35.2309,
+                        31.775029
+                  ]
+            },
+            {
+                  "name": "Ammunition Hill Memorial",
+                  "text": "A memorial for soldiers who fell in the Six-Day War.",
+                  "category": "historical",
+                  "coords": [
+                        35.22784,
+                        31.798159
+                  ]
+            },
+            {
+                  "name": "New Gate",
+                  "text": "One of the gates in the historic city walls.",
+                  "category": "fortress",
+                  "coords": [
+                        35.226189,
+                        31.779305
+                  ]
+            },
+            {
+                  "name": "Jaffa Gate",
+                  "text": "Historic city gate in Jerusalem.",
+                  "category": "fortress",
+                  "coords": [
+                        35.227544,
+                        31.776628
+                  ]
+            },
+            {
+                  "name": "Jerusalem Music Centre",
+                  "text": "A center for classical music and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        35.224607,
+                        31.771892
+                  ]
+            },
+            {
+                  "name": "Palestinian national theater / Al-Hakawati",
+                  "text": "An important theater for Palestinian culture.",
+                  "category": "cultural",
+                  "coords": [
+                        35.229376,
+                        31.788338
+                  ]
+            },
+            {
+                  "name": "Lazarus Tomb",
+                  "text": "A place of religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "Syriac Church of St. Mark",
+                  "text": "A historically significant Syriac Christian church.",
+                  "category": "religious",
+                  "coords": [
+                        35.230595,
+                        31.77601
+                  ]
+            },
+            {
+                  "name": "Yad Ha-Rav Nissim Synagogue and Research Institute",
+                  "text": "A center for religious study and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        35.215511,
+                        31.771105
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint Vincent de Paul",
+                  "text": "A religious site and chapel in Jerusalem.",
+                  "category": "religious",
+                  "coords": [
+                        35.225107,
+                        31.777914
+                  ]
+            },
+            {
+                  "name": "St. Toros Church",
+                  "text": "A historic Armenian church in Jerusalem.",
+                  "category": "religious",
+                  "coords": [
+                        35.229111,
+                        31.774796
+                  ]
+            },
+            {
+                  "name": "Small Kotel",
+                  "text": "A holy site for prayer near the Western Wall.",
+                  "category": "religious",
+                  "coords": [
+                        35.234068,
+                        31.778585
+                  ]
+            },
+            {
+                  "name": "Ades Synagogue",
+                  "text": "An active synagogue with a long tradition.",
+                  "category": "religious",
+                  "coords": [
+                        35.211569,
+                        31.781996
+                  ]
+            },
+            {
+                  "name": "Dome of the Chain",
+                  "text": "A magnificent Islamic structure on the Temple Mount.",
+                  "category": "religious",
+                  "coords": [
+                        35.235736,
+                        31.778079
+                  ]
+            },
+            {
+                  "name": "Saint Saviours Church",
+                  "text": "An important Franciscan monastery in Jerusalem.",
+                  "category": "religious",
+                  "coords": [
+                        35.227392,
+                        31.779012
+                  ]
+            },
+            {
+                  "name": "Great Synagogue",
+                  "text": "The most important synagogue in the country.",
+                  "category": "religious",
+                  "coords": [
+                        35.216616,
+                        31.775798
+                  ]
+            },
+            {
+                  "name": "Ratisbonne Monastery",
+                  "text": "A historic monastery near the city center.",
+                  "category": "religious",
+                  "coords": [
+                        35.214509,
+                        31.778043
+                  ]
+            },
+            {
+                  "name": "Dung Gate",
+                  "text": "A historic city gate in Jerusalem.",
+                  "category": "landmark",
+                  "coords": [
+                        35.234173,
+                        31.774827
+                  ]
+            },
+            {
+                  "name": "HaShiliach Pool",
+                  "text": "A historic water pool in Jerusalem.",
+                  "category": "landmark",
+                  "coords": [
+                        35.235123,
+                        31.770401
+                  ]
+            },
+            {
+                  "name": "Warren's Shaft",
+                  "text": "An ancient vertical shaft for water supply.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236067,
+                        31.773123
+                  ]
+            },
+            {
+                  "name": "Zion Gate",
+                  "text": "An important gate in the historic city walls.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229638,
+                        31.772857
+                  ]
+            },
+            {
+                  "name": "Machane Yehuda Market",
+                  "text": "A bustling market with local products.",
+                  "category": "landmark",
+                  "coords": [
+                        35.212734,
+                        31.784786
+                  ]
+            },
+            {
+                  "name": "The Abba Cave",
+                  "text": "An ancient cave entrance with historical significance.",
+                  "category": "natural",
+                  "coords": [
+                        35.230395,
+                        31.803808
+                  ]
+            },
+            {
+                  "name": "Magharat Umm el 'Amid",
+                  "text": "A historic cave complex in the area.",
+                  "category": "natural",
+                  "coords": [
+                        35.227208,
+                        31.805438
+                  ]
+            },
+            {
+                  "name": "Garden of Gethsemane",
+                  "text": "A historic garden with biblical significance.",
+                  "category": "park",
+                  "coords": [
+                        35.239673,
+                        31.779598
+                  ]
+            },
+            {
+                  "name": "Alliance Gate",
+                  "text": "A historic gate in Jerusalem.",
+                  "category": "landmark",
+                  "coords": [
+                        35.215269,
+                        31.784213
+                  ]
+            },
+            {
+                  "name": "Mount Zion",
+                  "text": "A mountain of great religious and historical importance.",
+                  "category": "natural",
+                  "coords": [
+                        35.228657,
+                        31.77162
+                  ]
+            },
+            {
+                  "name": "מערת קבורה",
+                  "text": "An ancient burial site.",
+                  "category": "natural",
+                  "coords": [
+                        35.232514,
+                        31.768164
+                  ]
+            },
+            {
+                  "name": "Tower of the White Russian Church",
+                  "text": "A viewpoint with a view over the city.",
+                  "category": "natural",
+                  "coords": [
+                        35.247761,
+                        31.779102
+                  ]
+            },
+            {
+                  "name": "Menachem Begin Heritage Center",
+                  "text": "A museum about the history of Israeli heritage.",
+                  "category": "museum",
+                  "coords": [
+                        35.225438,
+                        31.769269
+                  ]
+            },
+            {
+                  "name": "Museum on the Seam",
+                  "text": "Museum on the Seam in Ostjerusalem, a museum of social art.",
+                  "category": "museum",
+                  "coords": [
+                        35.226854,
+                        31.786347
+                  ]
+            },
+            {
+                  "name": "Artist's House",
+                  "text": "Artist's House in Ostjerusalem, a museum of contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        35.214448,
+                        31.779946
+                  ]
+            },
+            {
+                  "name": "Gush Katif Museum",
+                  "text": "Gush Katif Museum in Ostjerusalem, a historical museum.",
+                  "category": "museum",
+                  "coords": [
+                        35.209147,
+                        31.78605
+                  ]
+            },
+            {
+                  "name": "Museum for Islamic Art",
+                  "text": "Museum for Islamic Art in Ostjerusalem, a significant cultural collection.",
+                  "category": "museum",
+                  "coords": [
+                        35.213024,
+                        31.768604
+                  ]
+            },
+            {
+                  "name": "Friends of Zion Museum",
+                  "text": "Friends of Zion Museum in Ostjerusalem, an informative museum.",
+                  "category": "museum",
+                  "coords": [
+                        35.220184,
+                        31.780134
+                  ]
+            },
+            {
+                  "name": "Asirei HaMahtarot",
+                  "text": "Asirei HaMahtarot in Ostjerusalem, a historical museum.",
+                  "category": "museum",
+                  "coords": [
+                        35.22407,
+                        31.78191
+                  ]
+            },
+            {
+                  "name": "Israel Museum",
+                  "text": "Israel Museum in Ostjerusalem, one of the world's leading museums of art and archaeology.",
+                  "category": "museum",
+                  "coords": [
+                        35.203245,
+                        31.77229
+                  ]
+            },
+            {
+                  "name": "Chain Gate",
+                  "text": "Chain Gate in Ostjerusalem, an important archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        35.234297,
+                        31.777272
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "capital",
     name: { de: "Ostjerusalem", hu: "Kelet-Jeruzsálem", ro: "Ierusalimul de Est", en: "East Jerusalem" },
@@ -48,7 +1785,1024 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-east-jerusalem-cities-v2.webp",
   },
   {
-    id: "palestine-gaza-city-cities-v2",
+    id: "palestine-gaza-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Qaser Al-Basha Museum",
+                  "text": "Qaser Al-Basha Museum ist ein bekanntes Museum in einem historischen Palast in Gaza-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        34.466268,
+                        31.50451
+                  ]
+            },
+            {
+                  "name": "صالة لارا بلس",
+                  "text": "Der lara balace ist ein Theater in Gaza-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        34.450091,
+                        31.492488
+                  ]
+            },
+            {
+                  "name": "حديقة حيوان غزة",
+                  "text": "Der Gaza Zoo ist ein Tierpark in Gaza-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        34.445292,
+                        31.480292
+                  ]
+            },
+            {
+                  "name": "بركة الشيخ رضوان لتجميع مياه الأمطار",
+                  "text": "Das Al-Sheikh Redwan Water Basin ist ein Naturschutzgebiet in Gaza-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        34.470908,
+                        31.527554
+                  ]
+            },
+            {
+                  "name": "Ayaat Studio",
+                  "text": "Das Ayaat Studio ist ein Kunstzentrum in Gaza-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        34.46938,
+                        31.500947
+                  ]
+            },
+            {
+                  "name": "مصنع فخار صبري عطالله",
+                  "text": "مصنع فخار صبري عطالله ist eine Sehenswürdigkeit in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.465085,
+                        31.516415
+                  ]
+            },
+            {
+                  "name": "ميدان فلسطين (الساحة)",
+                  "text": "Die Old city Gaza ist ein Denkmal in Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.461757,
+                        31.506025
+                  ]
+            },
+            {
+                  "name": "الجوهره",
+                  "text": "الجوهره ist eine lokale Attraktion in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.46043,
+                        31.525586
+                  ]
+            },
+            {
+                  "name": "مؤسسه البيارق",
+                  "text": "مؤسسه البيارق ist eine Sehenswürdigkeit in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.460136,
+                        31.522508
+                  ]
+            },
+            {
+                  "name": "الكوربة",
+                  "text": "الكوربة ist eine Sehenswürdigkeit in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.480459,
+                        31.491039
+                  ]
+            },
+            {
+                  "name": "ساحة الشوا",
+                  "text": "ساحة الشوا ist ein Denkmal in Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.468079,
+                        31.506872
+                  ]
+            },
+            {
+                  "name": "مركز المنى التعليمي",
+                  "text": "Das Al - Mona Educational Center ist eine Einrichtung und Attraktion in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.437223,
+                        31.502965
+                  ]
+            },
+            {
+                  "name": "المكتب الحديث للأعمال المساحية (احداثيات)",
+                  "text": "MODERN OFFICE ist eine Attraktion im Gebiet von Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.460318,
+                        31.507326
+                  ]
+            },
+            {
+                  "name": "Vape",
+                  "text": "Vape ist eine Attraktion in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.463108,
+                        31.515431
+                  ]
+            },
+            {
+                  "name": "7up",
+                  "text": "7up ist eine Sehenswürdigkeit in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.479702,
+                        31.512887
+                  ]
+            },
+            {
+                  "name": "مفترق الصناعة",
+                  "text": "مفترق الصناعة ist ein Denkmal in Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.439395,
+                        31.506017
+                  ]
+            },
+            {
+                  "name": "مزرعة ابو شادي",
+                  "text": "مزرعة ابو شادي ist ein Aussichtspunkt in Gaza-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        34.489159,
+                        31.493803
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري للشهيد ماجد الحرازين",
+                  "text": "نصب تذكاري للشهيد ماجد الحرازين ist ein Denkmal in Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.461227,
+                        31.494393
+                  ]
+            },
+            {
+                  "name": "ستار",
+                  "text": "ستار ist eine lokale Sehenswürdigkeit in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.449794,
+                        31.487274
+                  ]
+            },
+            {
+                  "name": "دوار حبيب",
+                  "text": "دوار حبيب ist ein Denkmal in Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.454282,
+                        31.498429
+                  ]
+            },
+            {
+                  "name": "מחוז בארי",
+                  "text": "מחוז בארי ist eine Attraktion in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.446723,
+                        31.506146
+                  ]
+            },
+            {
+                  "name": "مسجد الصحابة",
+                  "text": "مسجد الصحابة ist eine Sehenswürdigkeit in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.461946,
+                        31.51316
+                  ]
+            },
+            {
+                  "name": "مركز هولست الثقافي",
+                  "text": "Das Holest Cultural Centre ist ein Kunstzentrum in Gaza-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        34.466696,
+                        31.508652
+                  ]
+            },
+            {
+                  "name": "Rabee Co.",
+                  "text": "Rabee Co. gilt als eine Attraktion in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.440962,
+                        31.509148
+                  ]
+            },
+            {
+                  "name": "القرم دوار",
+                  "text": "القرم دوار ist eine lokale Attraktion in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.488864,
+                        31.518365
+                  ]
+            },
+            {
+                  "name": "الشجاعية رمزون",
+                  "text": "الشجاعية رمزون ist eine Sehenswürdigkeit in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.467793,
+                        31.502429
+                  ]
+            },
+            {
+                  "name": "مسجد الشيخ زكريا",
+                  "text": "Die Sheikh Zakareya Mosque ist eine Moschee und Kultstätte in Gaza-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        34.461148,
+                        31.508795
+                  ]
+            },
+            {
+                  "name": "مسجد علي بن مروان",
+                  "text": "Die Ibn Marwan Mosque ist eine historische Moschee in Gaza-Stadt, in der sich das Grab des Heiligen Scheich Ali ibn Marwan befindet.",
+                  "category": "religious",
+                  "coords": [
+                        34.469017,
+                        31.504157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Qaser Al-Basha Museum",
+                  "text": "A Qaser Al-Basha Museum egy történelmi palotában működő jelentős múzeum Gaza-Stadt területén.",
+                  "category": "museum",
+                  "coords": [
+                        34.466268,
+                        31.50451
+                  ]
+            },
+            {
+                  "name": "صالة لارا بلس",
+                  "text": "A lara balace egy színház Gaza-Stadt városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.450091,
+                        31.492488
+                  ]
+            },
+            {
+                  "name": "حديقة حيوان غزة",
+                  "text": "A Gaza Zoo egy állatkert Gaza-Stadt területén.",
+                  "category": "recreational",
+                  "coords": [
+                        34.445292,
+                        31.480292
+                  ]
+            },
+            {
+                  "name": "بركة الشيخ رضوان لتجميع مياه الأمطار",
+                  "text": "Az Al-Sheikh Redwan Water Basin egy természetvédelmi terület Gaza-Stadtban.",
+                  "category": "natural",
+                  "coords": [
+                        34.470908,
+                        31.527554
+                  ]
+            },
+            {
+                  "name": "Ayaat Studio",
+                  "text": "Az Ayaat Studio egy művészeti központ Gaza-Stadtban.",
+                  "category": "cultural",
+                  "coords": [
+                        34.46938,
+                        31.500947
+                  ]
+            },
+            {
+                  "name": "مصنع فخار صبري عطالله",
+                  "text": "A مصنع فخار صبري عطالله egy látványosság Gaza-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.465085,
+                        31.516415
+                  ]
+            },
+            {
+                  "name": "ميدان فلسطين (الساحة)",
+                  "text": "Az Old city Gaza egy műemlék Gaza-Stadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.461757,
+                        31.506025
+                  ]
+            },
+            {
+                  "name": "الجوهره",
+                  "text": "A الجوهره egy helyi látványosság Gaza-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.46043,
+                        31.525586
+                  ]
+            },
+            {
+                  "name": "مؤسسه البيارق",
+                  "text": "A مؤسسه البيارق egy látványosság Gaza-Stadt területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.460136,
+                        31.522508
+                  ]
+            },
+            {
+                  "name": "الكوربة",
+                  "text": "A الكوربة egy látványosság Gaza-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.480459,
+                        31.491039
+                  ]
+            },
+            {
+                  "name": "ساحة الشوا",
+                  "text": "A ساحة الشوا egy emlékmű Gaza-Stadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.468079,
+                        31.506872
+                  ]
+            },
+            {
+                  "name": "مركز المنى التعليمي",
+                  "text": "Az Al - Mona Educational Center egy látványosság Gaza-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.437223,
+                        31.502965
+                  ]
+            },
+            {
+                  "name": "المكتب الحديث للأعمال المساحية (احداثيات)",
+                  "text": "A MODERN OFFICE egy látványosság Gaza-Stadt területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.460318,
+                        31.507326
+                  ]
+            },
+            {
+                  "name": "Vape",
+                  "text": "A Vape egy látványosság Gaza-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.463108,
+                        31.515431
+                  ]
+            },
+            {
+                  "name": "7up",
+                  "text": "A 7up egy helyi látványosság Gaza-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.479702,
+                        31.512887
+                  ]
+            },
+            {
+                  "name": "مفترق الصناعة",
+                  "text": "A مفترق الصناعة egy emlékmű Gaza-Stadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.439395,
+                        31.506017
+                  ]
+            },
+            {
+                  "name": "مزرعة ابو شادي",
+                  "text": "A مزرعة ابو شادي egy kilátópont Gaza-Stadtban.",
+                  "category": "natural",
+                  "coords": [
+                        34.489159,
+                        31.493803
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري للشهيد ماجد الحرازين",
+                  "text": "A نصب تذكاري للشهيد ماجد الحرازين egy emlékmű Gaza-Stadtban.",
+                  "category": "historical",
+                  "coords": [
+                        34.461227,
+                        31.494393
+                  ]
+            },
+            {
+                  "name": "ستار",
+                  "text": "A ستار egy látványosság Gaza-Stadt területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.449794,
+                        31.487274
+                  ]
+            },
+            {
+                  "name": "دوار حبيب",
+                  "text": "A دوار حبيب egy műemlék Gaza-Stadtban.",
+                  "category": "historical",
+                  "coords": [
+                        34.454282,
+                        31.498429
+                  ]
+            },
+            {
+                  "name": "מחוז בארי",
+                  "text": "A מחוז בארי egy látványosság Gaza-Stadt városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.446723,
+                        31.506146
+                  ]
+            },
+            {
+                  "name": "مسجد الصحابة",
+                  "text": "A مسجد الصحابة egy nevezetes látványosság Gaza-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.461946,
+                        31.51316
+                  ]
+            },
+            {
+                  "name": "مركز هولست الثقافي",
+                  "text": "A Holest Cultural Centre egy művészeti központ Gaza-Stadtban.",
+                  "category": "cultural",
+                  "coords": [
+                        34.466696,
+                        31.508652
+                  ]
+            },
+            {
+                  "name": "Rabee Co.",
+                  "text": "A Rabee Co. egy látványosság Gaza-Stadt területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.440962,
+                        31.509148
+                  ]
+            },
+            {
+                  "name": "القرم دوار",
+                  "text": "A القرم دوار egy látványosság Gaza-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.488864,
+                        31.518365
+                  ]
+            },
+            {
+                  "name": "الشجاعية رمزون",
+                  "text": "A الشجاعية رمزون egy helyi látványosság Gaza-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.467793,
+                        31.502429
+                  ]
+            },
+            {
+                  "name": "مسجد الشيخ زكريا",
+                  "text": "A Sheikh Zakareya Mosque egy istentiszteleti hely Gaza-Stadt területén.",
+                  "category": "religious",
+                  "coords": [
+                        34.461148,
+                        31.508795
+                  ]
+            },
+            {
+                  "name": "مسجد علي بن مروان",
+                  "text": "Az Ibn Marwan Mosque egy történelmi jelentőségű mecset Gaza-Stadtban, amely Ali ibn Marwan sejk sírját is őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        34.469017,
+                        31.504157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Qaser Al-Basha Museum",
+                  "text": "Qaser Al-Basha Museum este un muzeu notabil găzduit într-un palat istoric din Gaza-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        34.466268,
+                        31.50451
+                  ]
+            },
+            {
+                  "name": "صالة لارا بلس",
+                  "text": "Lara balace este un teatru situat în Gaza-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        34.450091,
+                        31.492488
+                  ]
+            },
+            {
+                  "name": "حديقة حيوان غزة",
+                  "text": "Gaza Zoo este o grădină zoologică din Gaza-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        34.445292,
+                        31.480292
+                  ]
+            },
+            {
+                  "name": "بركة الشيخ رضوان لتجميع مياه الأمطار",
+                  "text": "Al-Sheikh Redwan Water Basin este o rezervație naturală din Gaza-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        34.470908,
+                        31.527554
+                  ]
+            },
+            {
+                  "name": "Ayaat Studio",
+                  "text": "Ayaat Studio este un centru de artă aflat în Gaza-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        34.46938,
+                        31.500947
+                  ]
+            },
+            {
+                  "name": "مصنع فخار صبري عطالله",
+                  "text": "مصنع فخار صبري عطالله este o atracție situată în Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.465085,
+                        31.516415
+                  ]
+            },
+            {
+                  "name": "ميدان فلسطين (الساحة)",
+                  "text": "Old city Gaza este un monument situat în Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.461757,
+                        31.506025
+                  ]
+            },
+            {
+                  "name": "الجوهره",
+                  "text": "الجوهره este o atracție locală din Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.46043,
+                        31.525586
+                  ]
+            },
+            {
+                  "name": "مؤسسه البيارق",
+                  "text": "مؤسسه البيارق este o atracție din Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.460136,
+                        31.522508
+                  ]
+            },
+            {
+                  "name": "الكوربة",
+                  "text": "الكوربة este o atracție aflată în Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.480459,
+                        31.491039
+                  ]
+            },
+            {
+                  "name": "ساحة الشوا",
+                  "text": "ساحة الشوا este un monument din Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.468079,
+                        31.506872
+                  ]
+            },
+            {
+                  "name": "مركز المنى التعليمي",
+                  "text": "Al - Mona Educational Center este o atracție situată în Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.437223,
+                        31.502965
+                  ]
+            },
+            {
+                  "name": "المكتب الحديث للأعمال المساحية (احداثيات)",
+                  "text": "MODERN OFFICE este o atracție din Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.460318,
+                        31.507326
+                  ]
+            },
+            {
+                  "name": "Vape",
+                  "text": "Vape este o atracție situată în Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.463108,
+                        31.515431
+                  ]
+            },
+            {
+                  "name": "7up",
+                  "text": "7up este o atracție din Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.479702,
+                        31.512887
+                  ]
+            },
+            {
+                  "name": "مفترق الصناعة",
+                  "text": "مفترق الصناعة este un monument situat în Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.439395,
+                        31.506017
+                  ]
+            },
+            {
+                  "name": "مزرعة ابو شادي",
+                  "text": "مزرعة ابو شادي este un punct de belvedere din Gaza-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        34.489159,
+                        31.493803
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري للشهيد ماجد الحرازين",
+                  "text": "نصب تذكاري للشهيد ماجد الحرازين este un monument comemorativ în Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.461227,
+                        31.494393
+                  ]
+            },
+            {
+                  "name": "ستار",
+                  "text": "ستار este o atracție din Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.449794,
+                        31.487274
+                  ]
+            },
+            {
+                  "name": "دوار حبيب",
+                  "text": "دوار حبيب este un monument aflat în Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.454282,
+                        31.498429
+                  ]
+            },
+            {
+                  "name": "מחוז בארי",
+                  "text": "מחוז בארי este o atracție situată în Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.446723,
+                        31.506146
+                  ]
+            },
+            {
+                  "name": "مسجد الصحابة",
+                  "text": "مسجد الصحابة este o atracție importantă din Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.461946,
+                        31.51316
+                  ]
+            },
+            {
+                  "name": "مركز هولست الثقافي",
+                  "text": "Holest Cultural Centre este un centru de artă din Gaza-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        34.466696,
+                        31.508652
+                  ]
+            },
+            {
+                  "name": "Rabee Co.",
+                  "text": "Rabee Co. este considerată o atracție în Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.440962,
+                        31.509148
+                  ]
+            },
+            {
+                  "name": "القرم دوار",
+                  "text": "القرم دوار este o atracție situată în Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.488864,
+                        31.518365
+                  ]
+            },
+            {
+                  "name": "الشجاعية رمزون",
+                  "text": "الشجاعية رمزون este o atracție din Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.467793,
+                        31.502429
+                  ]
+            },
+            {
+                  "name": "مسجد الشيخ زكريا",
+                  "text": "Sheikh Zakareya Mosque este un loc de rugăciune din Gaza-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        34.461148,
+                        31.508795
+                  ]
+            },
+            {
+                  "name": "مسجد علي بن مروان",
+                  "text": "Ibn Marwan Mosque este o moschee istorică din Gaza-Stadt ce adăpostește mormântul șeicului Ali ibn Marwan.",
+                  "category": "religious",
+                  "coords": [
+                        34.469017,
+                        31.504157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qaser Al-Basha Museum",
+                  "text": "Qaser Al-Basha Museum is a notable museum housed in a historic palace in Gaza-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        34.466268,
+                        31.50451
+                  ]
+            },
+            {
+                  "name": "lara balace",
+                  "text": "The lara balace is a theatre located in Gaza-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        34.450091,
+                        31.492488
+                  ]
+            },
+            {
+                  "name": "Gaza Zoo",
+                  "text": "The Gaza Zoo is an animal park situated in Gaza-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        34.445292,
+                        31.480292
+                  ]
+            },
+            {
+                  "name": "Al-Sheikh Redwan Water Basin",
+                  "text": "The Al-Sheikh Redwan Water Basin is a nature reserve located in Gaza-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        34.470908,
+                        31.527554
+                  ]
+            },
+            {
+                  "name": "Ayaat Studio",
+                  "text": "Ayaat Studio is an arts centre found in Gaza-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        34.46938,
+                        31.500947
+                  ]
+            },
+            {
+                  "name": "مصنع فخار صبري عطالله",
+                  "text": "مصنع فخار صبري عطالله is an attraction located in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.465085,
+                        31.516415
+                  ]
+            },
+            {
+                  "name": "Old city Gaza",
+                  "text": "The Old city Gaza is a recognized monument in Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.461757,
+                        31.506025
+                  ]
+            },
+            {
+                  "name": "الجوهره",
+                  "text": "الجوهره is a local attraction situated in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.46043,
+                        31.525586
+                  ]
+            },
+            {
+                  "name": "مؤسسه البيارق",
+                  "text": "مؤسسه البيارق is an attraction located in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.460136,
+                        31.522508
+                  ]
+            },
+            {
+                  "name": "الكوربة",
+                  "text": "الكوربة is a local attraction found in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.480459,
+                        31.491039
+                  ]
+            },
+            {
+                  "name": "ساحة الشوا",
+                  "text": "ساحة الشوا is a public monument located in Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.468079,
+                        31.506872
+                  ]
+            },
+            {
+                  "name": "Al - Mona Educational Center",
+                  "text": "The Al - Mona Educational Center is an attraction located in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.437223,
+                        31.502965
+                  ]
+            },
+            {
+                  "name": "MODERN OFFICE",
+                  "text": "MODERN OFFICE is recognized as an attraction in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.460318,
+                        31.507326
+                  ]
+            },
+            {
+                  "name": "Vape",
+                  "text": "Vape is a local attraction found in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.463108,
+                        31.515431
+                  ]
+            },
+            {
+                  "name": "7up",
+                  "text": "7up is an attraction located in the city of Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.479702,
+                        31.512887
+                  ]
+            },
+            {
+                  "name": "مفترق الصناعة",
+                  "text": "مفترق الصناعة is a local monument in Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.439395,
+                        31.506017
+                  ]
+            },
+            {
+                  "name": "مزرعة ابو شادي",
+                  "text": "مزرعة ابو شادي is a viewpoint offering scenic sights in Gaza-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        34.489159,
+                        31.493803
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري للشهيد ماجد الحرازين",
+                  "text": "نصب تذكاري للشهيد ماجد الحرازين is a memorial monument located in Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.461227,
+                        31.494393
+                  ]
+            },
+            {
+                  "name": "ستار",
+                  "text": "ستار is an attraction situated in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.449794,
+                        31.487274
+                  ]
+            },
+            {
+                  "name": "دوار حبيب",
+                  "text": "دوار حبيب is a monument situated in Gaza-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        34.454282,
+                        31.498429
+                  ]
+            },
+            {
+                  "name": "מחוז בארי",
+                  "text": "מחוז בארי is an attraction located in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.446723,
+                        31.506146
+                  ]
+            },
+            {
+                  "name": "مسجد الصحابة",
+                  "text": "مسجد الصحابة is a prominent attraction in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.461946,
+                        31.51316
+                  ]
+            },
+            {
+                  "name": "Holest Cultural Centre",
+                  "text": "The Holest Cultural Centre is an arts centre situated in Gaza-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        34.466696,
+                        31.508652
+                  ]
+            },
+            {
+                  "name": "Rabee Co.",
+                  "text": "Rabee Co. is considered an attraction in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.440962,
+                        31.509148
+                  ]
+            },
+            {
+                  "name": "القرم دوار",
+                  "text": "القرم دوار is an attraction located in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.488864,
+                        31.518365
+                  ]
+            },
+            {
+                  "name": "الشجاعية رمزون",
+                  "text": "الشجاعية رمزون is an attraction found in Gaza-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        34.467793,
+                        31.502429
+                  ]
+            },
+            {
+                  "name": "Sheikh Zakareya Mosque",
+                  "text": "The Sheikh Zakareya Mosque serves as a place of worship in Gaza-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        34.461148,
+                        31.508795
+                  ]
+            },
+            {
+                  "name": "Ibn Marwan Mosque",
+                  "text": "The Ibn Marwan Mosque is a historic place of worship in Gaza-Stadt, housing the tomb of a holy man named Sheikh Ali ibn Marwan.",
+                  "category": "religious",
+                  "coords": [
+                        34.469017,
+                        31.504157
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "city",
     name: { de: "Gaza-Stadt", hu: "Gázaváros", ro: "Gaza", en: "Gaza City" },
@@ -93,7 +2847,1240 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-gaza-city-cities-v2.webp",
   },
   {
-    id: "palestine-hebron-cities-v2",
+    id: "palestine-hebron-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ישיבת שבי חברון",
+                  "text": "Die Jeschiwa Shavei Hebron (ישיבת שבי חברון) ist ein bekannter jüdischer Andachts- und Studienort in Hebron.",
+                  "category": "religious",
+                  "coords": [
+                        35.10381,
+                        31.526253
+                  ]
+            },
+            {
+                  "name": "Grab der Patriarchen",
+                  "text": "Die Höhle der Patriarchen ist eine weltbekannte historische Attraktion in der Stadt Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.110794,
+                        31.52478
+                  ]
+            },
+            {
+                  "name": "מצפה חברון",
+                  "text": "Das Hebron Observatory ist ein bekannter Aussichtspunkt in der Stadt Hebron.",
+                  "category": "natural",
+                  "coords": [
+                        35.102221,
+                        31.525069
+                  ]
+            },
+            {
+                  "name": "Al-Sultan Pool",
+                  "text": "Der Al-Sultan Pool ist eine archäologische Stätte in der Stadt Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.108684,
+                        31.523108
+                  ]
+            },
+            {
+                  "name": "مسجد علي البكاء",
+                  "text": "Die Ali Bakka Moschee ist ein Andachtsort in der Stadt Hebron.",
+                  "category": "religious",
+                  "coords": [
+                        35.103696,
+                        31.528458
+                  ]
+            },
+            {
+                  "name": "פארק מאיר כהנא",
+                  "text": "Der Meir Kahane Park ist ein öffentlicher Park in der Stadt Hebron.",
+                  "category": "park",
+                  "coords": [
+                        35.114677,
+                        31.532017
+                  ]
+            },
+            {
+                  "name": "מוזיאון עתיקות ארץ יהודה",
+                  "text": "Das Land of Judea Antiquities Museum ist ein Museum in der Stadt Hebron.",
+                  "category": "museum",
+                  "coords": [
+                        35.118906,
+                        31.528997
+                  ]
+            },
+            {
+                  "name": "قلعة زلوم",
+                  "text": "Das Zalloum Castle ist eine lokale Burg in der Stadt Hebron.",
+                  "category": "castle",
+                  "coords": [
+                        35.107578,
+                        31.549204
+                  ]
+            },
+            {
+                  "name": "أميرة روفان",
+                  "text": "Rovan Hall ist eine Burg in der Stadt Hebron.",
+                  "category": "castle",
+                  "coords": [
+                        35.087749,
+                        31.548246
+                  ]
+            },
+            {
+                  "name": "المقاطعة الخليل",
+                  "text": "المقاطعة الخليل ist eine Burg in der Stadt Hebron.",
+                  "category": "castle",
+                  "coords": [
+                        35.095029,
+                        31.537317
+                  ]
+            },
+            {
+                  "name": "مسجد أهل الخير",
+                  "text": "مسجد أهل الخير ist als Museum in Hebron anerkannt.",
+                  "category": "museum",
+                  "coords": [
+                        35.084838,
+                        31.550671
+                  ]
+            },
+            {
+                  "name": "Al Shibli Shrine",
+                  "text": "Der Al Shibli Shrine ist eine archäologische Stätte in der Stadt Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.106474,
+                        31.525945
+                  ]
+            },
+            {
+                  "name": "معصرة النتشة",
+                  "text": "Der Olive presser ist eine alte archäologische Stätte in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.107424,
+                        31.525804
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "Die Othman Bin Afan Moschee ist eine archäologische Stätte in der Stadt Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.108664,
+                        31.524793
+                  ]
+            },
+            {
+                  "name": "بئر ابراهيم",
+                  "text": "Abraham's Well ist eine archäologische Stätte in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.104043,
+                        31.524304
+                  ]
+            },
+            {
+                  "name": "بركة القزازين",
+                  "text": "Der Qazzazin Pond ist eine archäologische Stätte in der Stadt Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.106358,
+                        31.524355
+                  ]
+            },
+            {
+                  "name": "حي العقابة",
+                  "text": "Al- Aqqaba Neighborhood ist eine archäologische Stätte in der Stadt Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.108564,
+                        31.525896
+                  ]
+            },
+            {
+                  "name": "حي المحتسبية",
+                  "text": "Al- Muhtasibya ist eine archäologische Stätte in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.109657,
+                        31.524324
+                  ]
+            },
+            {
+                  "name": "خان الوكالة",
+                  "text": "Khan Al-Wakaleh ist eine archäologische Stätte in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.107319,
+                        31.524374
+                  ]
+            },
+            {
+                  "name": "صالة روجينا",
+                  "text": "صالة روجينا ist ein Denkmal in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.08874,
+                        31.507641
+                  ]
+            },
+            {
+                  "name": "Khirbet en-Nasara",
+                  "text": "Khirbet en-Nasara sind Ruinen in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.093592,
+                        31.549356
+                  ]
+            },
+            {
+                  "name": "היכל התרבות קרית ארבע",
+                  "text": "Qiriyat Arba Theater ist ein Theater in Hebron.",
+                  "category": "cultural",
+                  "coords": [
+                        35.120306,
+                        31.528425
+                  ]
+            },
+            {
+                  "name": "Al Fonon Center",
+                  "text": "Al Fonon Center ist ein Kunstzentrum in Hebron.",
+                  "category": "cultural",
+                  "coords": [
+                        35.109794,
+                        31.521484
+                  ]
+            },
+            {
+                  "name": "مفرف",
+                  "text": "مفرف ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102081,
+                        31.548179
+                  ]
+            },
+            {
+                  "name": "دوار المنارة",
+                  "text": "Manara roundabout ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097351,
+                        31.529634
+                  ]
+            },
+            {
+                  "name": "ااىل",
+                  "text": "نتت ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.083594,
+                        31.537068
+                  ]
+            },
+            {
+                  "name": "حارة حسونة",
+                  "text": "Hassouneh park ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097362,
+                        31.545588
+                  ]
+            },
+            {
+                  "name": "دنديس للاثاث المعدني",
+                  "text": "دنديس للاثاث المعدني ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06608,
+                        31.527142
+                  ]
+            },
+            {
+                  "name": "عمارة سنقرط",
+                  "text": "عمارة سنقرط ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.109615,
+                        31.548868
+                  ]
+            },
+            {
+                  "name": "شركة الشريف للتجارة والاستثمار",
+                  "text": "Alsharif Traid & Investment Co ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.100836,
+                        31.555358
+                  ]
+            },
+            {
+                  "name": "دوار نمره",
+                  "text": "دوار نمره ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.104273,
+                        31.538907
+                  ]
+            },
+            {
+                  "name": "صالة الضيافه",
+                  "text": "صالة الضيافه ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.099355,
+                        31.544998
+                  ]
+            },
+            {
+                  "name": "مسجد المنشر",
+                  "text": "مسجد المنشر ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.080627,
+                        31.524179
+                  ]
+            },
+            {
+                  "name": "زاوية و مقام و مسجد الزاهد",
+                  "text": "Al Zahid Sherin Zawiya and mosque ist eine Sehenswürdigkeit in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10626,
+                        31.526852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ישיבת שבי חברון",
+                  "text": "A ישיבת שבי חברון (Shavei Hebron) egy ismert zsidó istentiszteleti és tanulmányi hely Hebronban.",
+                  "category": "religious",
+                  "coords": [
+                        35.10381,
+                        31.526253
+                  ]
+            },
+            {
+                  "name": "מערת המכפלה",
+                  "text": "A Pátriárkák barlangja egy világhírű történelmi látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.110794,
+                        31.52478
+                  ]
+            },
+            {
+                  "name": "מצפה חברון",
+                  "text": "A Hebron Observatory egy ismert kilátó Hebron városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.102221,
+                        31.525069
+                  ]
+            },
+            {
+                  "name": "Al-Sultan Pool",
+                  "text": "Az Al-Sultan Pool egy régészeti lelőhely Hebron városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.108684,
+                        31.523108
+                  ]
+            },
+            {
+                  "name": "مسجد علي البكاء",
+                  "text": "Az Ali Bakka mecset egy istentiszteleti hely Hebron városában.",
+                  "category": "religious",
+                  "coords": [
+                        35.103696,
+                        31.528458
+                  ]
+            },
+            {
+                  "name": "פארק מאיר כהנא",
+                  "text": "A Meir Kahane Park egy nyilvános park Hebron városában.",
+                  "category": "park",
+                  "coords": [
+                        35.114677,
+                        31.532017
+                  ]
+            },
+            {
+                  "name": "מוזיאון עתיקות ארץ יהודה",
+                  "text": "A Land of Judea Antiquities Museum egy múzeum Hebron városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.118906,
+                        31.528997
+                  ]
+            },
+            {
+                  "name": "قلعة زلوم",
+                  "text": "A Zalloum Castle egy helyi kastély Hebron városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.107578,
+                        31.549204
+                  ]
+            },
+            {
+                  "name": "أميرة روفان",
+                  "text": "A Rovan Hall egy kastély Hebron városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.087749,
+                        31.548246
+                  ]
+            },
+            {
+                  "name": "المقاطعة الخليل",
+                  "text": "A المقاطعة الخليل egy kastély Hebron városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.095029,
+                        31.537317
+                  ]
+            },
+            {
+                  "name": "مسجد أهل الخير",
+                  "text": "A مسجد أهل الخير egy múzeumként működő helyszín Hebronban.",
+                  "category": "museum",
+                  "coords": [
+                        35.084838,
+                        31.550671
+                  ]
+            },
+            {
+                  "name": "Al Shibli Shrine",
+                  "text": "Az Al Shibli Shrine egy régészeti lelőhely Hebron városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.106474,
+                        31.525945
+                  ]
+            },
+            {
+                  "name": "معصرة النتشة",
+                  "text": "Az Olive presser egy ősi régészeti lelőhely Hebronban.",
+                  "category": "historical",
+                  "coords": [
+                        35.107424,
+                        31.525804
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "Az Othman Bin Afan mecset egy régészeti lelőhely Hebron városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.108664,
+                        31.524793
+                  ]
+            },
+            {
+                  "name": "بئر ابراهيم",
+                  "text": "Az Abraham's Well egy régészeti lelőhely Hebronban.",
+                  "category": "historical",
+                  "coords": [
+                        35.104043,
+                        31.524304
+                  ]
+            },
+            {
+                  "name": "بركة القزازين",
+                  "text": "A Qazzazin Pond egy régészeti lelőhely Hebron városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.106358,
+                        31.524355
+                  ]
+            },
+            {
+                  "name": "حي العقابة",
+                  "text": "Az Al- Aqqaba Neighborhood egy régészeti lelőhely Hebron városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.108564,
+                        31.525896
+                  ]
+            },
+            {
+                  "name": "حي المحتسبية",
+                  "text": "A(z) Al- Muhtasibya egy régészeti lelőhely Hebron városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.109657,
+                        31.524324
+                  ]
+            },
+            {
+                  "name": "خان الوكالة",
+                  "text": "A(z) Khan Al-Wakaleh egy régészeti lelőhely Hebron városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.107319,
+                        31.524374
+                  ]
+            },
+            {
+                  "name": "صالة روجينا",
+                  "text": "A(z) صالة روجينا egy emlékmű Hebron városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.08874,
+                        31.507641
+                  ]
+            },
+            {
+                  "name": "Khirbet en-Nasara",
+                  "text": "A(z) Khirbet en-Nasara romok Hebron városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.093592,
+                        31.549356
+                  ]
+            },
+            {
+                  "name": "היכל התרבות קרית ארבע",
+                  "text": "A(z) Qiriyat Arba Theater egy színház Hebron városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.120306,
+                        31.528425
+                  ]
+            },
+            {
+                  "name": "Al Fonon Center",
+                  "text": "A(z) Al Fonon Center egy művészeti központ Hebron városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.109794,
+                        31.521484
+                  ]
+            },
+            {
+                  "name": "مفرف",
+                  "text": "A(z) مفرف egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102081,
+                        31.548179
+                  ]
+            },
+            {
+                  "name": "دوار المنارة",
+                  "text": "A(z) Manara roundabout egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097351,
+                        31.529634
+                  ]
+            },
+            {
+                  "name": "ااىل",
+                  "text": "A(z) نتت egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.083594,
+                        31.537068
+                  ]
+            },
+            {
+                  "name": "حارة حسونة",
+                  "text": "A(z) Hassouneh park egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097362,
+                        31.545588
+                  ]
+            },
+            {
+                  "name": "دنديس للاثاث المعدني",
+                  "text": "A(z) دنديس للاثاث المعدني egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06608,
+                        31.527142
+                  ]
+            },
+            {
+                  "name": "عمارة سنقرط",
+                  "text": "A(z) عمارة سنقرط egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.109615,
+                        31.548868
+                  ]
+            },
+            {
+                  "name": "شركة الشريف للتجارة والاستثمار",
+                  "text": "A(z) Alsharif Traid & Investment Co egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.100836,
+                        31.555358
+                  ]
+            },
+            {
+                  "name": "دوار نمره",
+                  "text": "A(z) دوار نمره egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.104273,
+                        31.538907
+                  ]
+            },
+            {
+                  "name": "صالة الضيافه",
+                  "text": "A(z) صالة الضيافه egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.099355,
+                        31.544998
+                  ]
+            },
+            {
+                  "name": "مسجد المنشر",
+                  "text": "A(z) مسجد المنشر egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.080627,
+                        31.524179
+                  ]
+            },
+            {
+                  "name": "زاوية و مقام و مسجد الزاهد",
+                  "text": "A(z) Al Zahid Sherin Zawiya and mosque egy látványosság Hebron városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10626,
+                        31.526852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ישיבת שבי חברון",
+                  "text": "ישיבת שבי חברון (Shavei Hebron) este un cunoscut lăcaș de cult și studiu iudaic din Hebron.",
+                  "category": "religious",
+                  "coords": [
+                        35.10381,
+                        31.526253
+                  ]
+            },
+            {
+                  "name": "Mormintele Patriarhilor",
+                  "text": "Peștera Patriarhilor este o atracție istorică de renume mondial situată în orașul Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.110794,
+                        31.52478
+                  ]
+            },
+            {
+                  "name": "מצפה חברון",
+                  "text": "Observatorul Hebron este un punct de belvedere remarcabil situat în orașul Hebron.",
+                  "category": "natural",
+                  "coords": [
+                        35.102221,
+                        31.525069
+                  ]
+            },
+            {
+                  "name": "Al-Sultan Pool",
+                  "text": "Piscina Al-Sultan este un sit arheologic situat în orașul Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.108684,
+                        31.523108
+                  ]
+            },
+            {
+                  "name": "مسجد علي البكاء",
+                  "text": "Moscheea Ali Bakka este un lăcaș de cult situat în orașul Hebron.",
+                  "category": "religious",
+                  "coords": [
+                        35.103696,
+                        31.528458
+                  ]
+            },
+            {
+                  "name": "פארק מאיר כהנא",
+                  "text": "Parcul Meir Kahane este un parc public situat în orașul Hebron.",
+                  "category": "park",
+                  "coords": [
+                        35.114677,
+                        31.532017
+                  ]
+            },
+            {
+                  "name": "מוזיאון עתיקות ארץ יהודה",
+                  "text": "Land of Judea Antiquities Museum este un muzeu situat în orașul Hebron.",
+                  "category": "museum",
+                  "coords": [
+                        35.118906,
+                        31.528997
+                  ]
+            },
+            {
+                  "name": "قلعة زلوم",
+                  "text": "Castelul Zalloum este un castel local situat în orașul Hebron.",
+                  "category": "castle",
+                  "coords": [
+                        35.107578,
+                        31.549204
+                  ]
+            },
+            {
+                  "name": "أميرة روفان",
+                  "text": "Rovan Hall este un castel situat în orașul Hebron.",
+                  "category": "castle",
+                  "coords": [
+                        35.087749,
+                        31.548246
+                  ]
+            },
+            {
+                  "name": "المقاطعة الخليل",
+                  "text": "المقاطعة الخليل este un castel situat în orașul Hebron.",
+                  "category": "castle",
+                  "coords": [
+                        35.095029,
+                        31.537317
+                  ]
+            },
+            {
+                  "name": "مسجد أهل الخير",
+                  "text": "مسجد أهل الخير este recunoscut ca un muzeu situat în Hebron.",
+                  "category": "museum",
+                  "coords": [
+                        35.084838,
+                        31.550671
+                  ]
+            },
+            {
+                  "name": "Al Shibli Shrine",
+                  "text": "Al Shibli Shrine este un sit arheologic situat în orașul Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.106474,
+                        31.525945
+                  ]
+            },
+            {
+                  "name": "معصرة النتشة",
+                  "text": "Olive presser este un sit arheologic antic situat în Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.107424,
+                        31.525804
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "Moscheea Othman Bin Afan este un sit arheologic aflat în orașul Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.108664,
+                        31.524793
+                  ]
+            },
+            {
+                  "name": "بئر ابراهيم",
+                  "text": "Abraham's Well este un sit arheologic situat în Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.104043,
+                        31.524304
+                  ]
+            },
+            {
+                  "name": "بركة القزازين",
+                  "text": "Qazzazin Pond este un sit arheologic situat în orașul Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.106358,
+                        31.524355
+                  ]
+            },
+            {
+                  "name": "حي العقابة",
+                  "text": "Al- Aqqaba Neighborhood este un sit arheologic situat în orașul Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.108564,
+                        31.525896
+                  ]
+            },
+            {
+                  "name": "حي المحتسبية",
+                  "text": "Al- Muhtasibya este un sit arheologic din Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.109657,
+                        31.524324
+                  ]
+            },
+            {
+                  "name": "خان الوكالة",
+                  "text": "Khan Al-Wakaleh este un sit arheologic din Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.107319,
+                        31.524374
+                  ]
+            },
+            {
+                  "name": "صالة روجينا",
+                  "text": "صالة روجينا este un monument din Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.08874,
+                        31.507641
+                  ]
+            },
+            {
+                  "name": "Khirbet en-Nasara",
+                  "text": "Khirbet en-Nasara reprezintă ruine aflate în Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.093592,
+                        31.549356
+                  ]
+            },
+            {
+                  "name": "היכל התרבות קרית ארבע",
+                  "text": "Qiriyat Arba Theater este un teatru din Hebron.",
+                  "category": "cultural",
+                  "coords": [
+                        35.120306,
+                        31.528425
+                  ]
+            },
+            {
+                  "name": "Al Fonon Center",
+                  "text": "Al Fonon Center este un centru de artă din Hebron.",
+                  "category": "cultural",
+                  "coords": [
+                        35.109794,
+                        31.521484
+                  ]
+            },
+            {
+                  "name": "مفرف",
+                  "text": "مفرف este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102081,
+                        31.548179
+                  ]
+            },
+            {
+                  "name": "دوار المنارة",
+                  "text": "Manara roundabout este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097351,
+                        31.529634
+                  ]
+            },
+            {
+                  "name": "ااىل",
+                  "text": "نتت este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.083594,
+                        31.537068
+                  ]
+            },
+            {
+                  "name": "حارة حسونة",
+                  "text": "Hassouneh park este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097362,
+                        31.545588
+                  ]
+            },
+            {
+                  "name": "دنديس للاثاث المعدني",
+                  "text": "دنديس للاثاث المعدني este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06608,
+                        31.527142
+                  ]
+            },
+            {
+                  "name": "عمارة سنقرط",
+                  "text": "عمارة سنقرط este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.109615,
+                        31.548868
+                  ]
+            },
+            {
+                  "name": "شركة الشريف للتجارة والاستثمار",
+                  "text": "Alsharif Traid & Investment Co este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.100836,
+                        31.555358
+                  ]
+            },
+            {
+                  "name": "دوار نمره",
+                  "text": "دوار نمره este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.104273,
+                        31.538907
+                  ]
+            },
+            {
+                  "name": "صالة الضيافه",
+                  "text": "صالة الضيافه este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.099355,
+                        31.544998
+                  ]
+            },
+            {
+                  "name": "مسجد المنشر",
+                  "text": "مسجد المنشر este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.080627,
+                        31.524179
+                  ]
+            },
+            {
+                  "name": "زاوية و مقام و مسجد الزاهد",
+                  "text": "Al Zahid Sherin Zawiya and mosque este o atracție turistică din Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10626,
+                        31.526852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ישיבת שבי חברון",
+                  "text": "ישיבת שבי חברון (Shavei Hebron) is a prominent Jewish place of worship and study in Hebron.",
+                  "category": "religious",
+                  "coords": [
+                        35.10381,
+                        31.526253
+                  ]
+            },
+            {
+                  "name": "Cave of the Patriarchs",
+                  "text": "The Cave of the Patriarchs is a world-renowned historical attraction located in the city of Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.110794,
+                        31.52478
+                  ]
+            },
+            {
+                  "name": "Hebron Observatory",
+                  "text": "Hebron Observatory is a recognized viewpoint located in the city of Hebron.",
+                  "category": "natural",
+                  "coords": [
+                        35.102221,
+                        31.525069
+                  ]
+            },
+            {
+                  "name": "Al-Sultan Pool",
+                  "text": "Al-Sultan Pool is an archaeological site located in the city of Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.108684,
+                        31.523108
+                  ]
+            },
+            {
+                  "name": "Ali Bakka Mosque",
+                  "text": "Ali Bakka Mosque is a place of worship situated in the city of Hebron.",
+                  "category": "religious",
+                  "coords": [
+                        35.103696,
+                        31.528458
+                  ]
+            },
+            {
+                  "name": "Meir Kahane Park",
+                  "text": "Meir Kahane Park is a public park located in the city of Hebron.",
+                  "category": "park",
+                  "coords": [
+                        35.114677,
+                        31.532017
+                  ]
+            },
+            {
+                  "name": "Land of Judea Antiquities Museum",
+                  "text": "Land of Judea Antiquities Museum is a museum located in the city of Hebron.",
+                  "category": "museum",
+                  "coords": [
+                        35.118906,
+                        31.528997
+                  ]
+            },
+            {
+                  "name": "Zalloum Castle",
+                  "text": "Zalloum Castle is a local castle situated in the city of Hebron.",
+                  "category": "castle",
+                  "coords": [
+                        35.107578,
+                        31.549204
+                  ]
+            },
+            {
+                  "name": "Rovan Hall",
+                  "text": "Rovan Hall is a castle located in the city of Hebron.",
+                  "category": "castle",
+                  "coords": [
+                        35.087749,
+                        31.548246
+                  ]
+            },
+            {
+                  "name": "المقاطعة الخليل",
+                  "text": "المقاطعة الخليل is a castle located in the city of Hebron.",
+                  "category": "castle",
+                  "coords": [
+                        35.095029,
+                        31.537317
+                  ]
+            },
+            {
+                  "name": "مسجد أهل الخير",
+                  "text": "مسجد أهل الخير is recognized as a museum situated in Hebron.",
+                  "category": "museum",
+                  "coords": [
+                        35.084838,
+                        31.550671
+                  ]
+            },
+            {
+                  "name": "Al Shibli Shrine",
+                  "text": "Al Shibli Shrine is an archaeological site located in the city of Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.106474,
+                        31.525945
+                  ]
+            },
+            {
+                  "name": "Olive presser",
+                  "text": "The Olive presser is an ancient archaeological site located in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.107424,
+                        31.525804
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "Othman Bin Afan Mosque is an archaeological site found in the city of Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.108664,
+                        31.524793
+                  ]
+            },
+            {
+                  "name": "Abraham's Well",
+                  "text": "Abraham's Well is an archaeological site situated in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.104043,
+                        31.524304
+                  ]
+            },
+            {
+                  "name": "Qazzazin Pond",
+                  "text": "Qazzazin Pond is an archaeological site located in the city of Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.106358,
+                        31.524355
+                  ]
+            },
+            {
+                  "name": "Al- Aqqaba Neighborhood",
+                  "text": "Al- Aqqaba Neighborhood is an archaeological site situated in the city of Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.108564,
+                        31.525896
+                  ]
+            },
+            {
+                  "name": "Al- Muhtasibya",
+                  "text": "Al- Muhtasibya is an archaeological site located in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.109657,
+                        31.524324
+                  ]
+            },
+            {
+                  "name": "Khan Al-Wakaleh",
+                  "text": "Khan Al-Wakaleh is an archaeological site located in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.107319,
+                        31.524374
+                  ]
+            },
+            {
+                  "name": "صالة روجينا",
+                  "text": "صالة روجينا is a monument located in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.08874,
+                        31.507641
+                  ]
+            },
+            {
+                  "name": "Khirbet en-Nasara",
+                  "text": "Khirbet en-Nasara are ruins located in Hebron.",
+                  "category": "historical",
+                  "coords": [
+                        35.093592,
+                        31.549356
+                  ]
+            },
+            {
+                  "name": "Qiriyat Arba Theater",
+                  "text": "Qiriyat Arba Theater is a theatre located in Hebron.",
+                  "category": "cultural",
+                  "coords": [
+                        35.120306,
+                        31.528425
+                  ]
+            },
+            {
+                  "name": "Al Fonon Center",
+                  "text": "Al Fonon Center is an arts centre located in Hebron.",
+                  "category": "cultural",
+                  "coords": [
+                        35.109794,
+                        31.521484
+                  ]
+            },
+            {
+                  "name": "مفرف",
+                  "text": "مفرف is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102081,
+                        31.548179
+                  ]
+            },
+            {
+                  "name": "Manara roundabout",
+                  "text": "Manara roundabout is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097351,
+                        31.529634
+                  ]
+            },
+            {
+                  "name": "نتت",
+                  "text": "نتت is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.083594,
+                        31.537068
+                  ]
+            },
+            {
+                  "name": "Hassouneh park",
+                  "text": "Hassouneh park is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097362,
+                        31.545588
+                  ]
+            },
+            {
+                  "name": "دنديس للاثاث المعدني",
+                  "text": "دنديس للاثاث المعدني is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06608,
+                        31.527142
+                  ]
+            },
+            {
+                  "name": "عمارة سنقرط",
+                  "text": "عمارة سنقرط is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.109615,
+                        31.548868
+                  ]
+            },
+            {
+                  "name": "Alsharif Traid & Investment Co",
+                  "text": "Alsharif Traid & Investment Co is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.100836,
+                        31.555358
+                  ]
+            },
+            {
+                  "name": "دوار نمره",
+                  "text": "دوار نمره is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.104273,
+                        31.538907
+                  ]
+            },
+            {
+                  "name": "صالة الضيافه",
+                  "text": "صالة الضيافه is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.099355,
+                        31.544998
+                  ]
+            },
+            {
+                  "name": "مسجد المنشر",
+                  "text": "مسجد المنشر is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.080627,
+                        31.524179
+                  ]
+            },
+            {
+                  "name": "Al Zahid Sherin Zawiya and mosque",
+                  "text": "Al Zahid Sherin Zawiya and mosque is an attraction located in Hebron.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10626,
+                        31.526852
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "city",
     name: { de: "Hebron", hu: "Hebron", ro: "Hebron", en: "Hebron" },
@@ -138,7 +4125,1240 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-hebron-cities-v2.webp",
   },
   {
-    id: "palestine-nablus-cities-v2",
+    id: "palestine-nablus-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sichem",
+                  "text": "Tell Balata ist eine bedeutende archäologische Stätte bei Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.281522,
+                        32.213557
+                  ]
+            },
+            {
+                  "name": "קבר השייח' ר'אנם",
+                  "text": "Das Grab von Sheikh Ghanem ist eine historische Stätte bei Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.273818,
+                        32.20151
+                  ]
+            },
+            {
+                  "name": "The Roman Stairs",
+                  "text": "Historische Treppenanlage bei Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.263043,
+                        32.216711
+                  ]
+            },
+            {
+                  "name": "Zawata",
+                  "text": "Archäologische Stätte in der Region Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.277417,
+                        32.22005
+                  ]
+            },
+            {
+                  "name": "Al Jabir Land",
+                  "text": "Ein Freizeitpark in Nablus für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        35.239128,
+                        32.226299
+                  ]
+            },
+            {
+                  "name": "خان التجار",
+                  "text": "Ein historischer Handelsplatz und archäologisches Relikt in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.263834,
+                        32.219262
+                  ]
+            },
+            {
+                  "name": "מרכז השומרוני הטוב",
+                  "text": "Das Museum in Nablus widmet sich lokalen kulturellen Aspekten.",
+                  "category": "museum",
+                  "coords": [
+                        35.270406,
+                        32.203285
+                  ]
+            },
+            {
+                  "name": "ديوان حارة الياسمينة",
+                  "text": "Ein kultureller Veranstaltungsort in Nablus.",
+                  "category": "cultural",
+                  "coords": [
+                        35.257674,
+                        32.219591
+                  ]
+            },
+            {
+                  "name": "صالة القلعة",
+                  "text": "Überreste einer historischen Burg in Nablus.",
+                  "category": "castle",
+                  "coords": [
+                        35.248124,
+                        32.227697
+                  ]
+            },
+            {
+                  "name": "صالة فرح للمناسبات",
+                  "text": "Veranstaltungsort für Feierlichkeiten in Nablus.",
+                  "category": "castle",
+                  "coords": [
+                        35.240707,
+                        32.22694
+                  ]
+            },
+            {
+                  "name": "גבעות עולם",
+                  "text": "Archäologische Stätte bei Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.272903,
+                        32.200707
+                  ]
+            },
+            {
+                  "name": "ميدان سباق الخيل Hippodrome",
+                  "text": "Überreste eines antiken Hippodroms in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.261311,
+                        32.222711
+                  ]
+            },
+            {
+                  "name": "Josefsblick",
+                  "text": "Ein Aussichtspunkt bei Nablus mit historischer Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        35.275494,
+                        32.207588
+                  ]
+            },
+            {
+                  "name": "הר עיבל",
+                  "text": "Der Berg Ebal bei Nablus ist ein markanter Gipfel der Region.",
+                  "category": "natural",
+                  "coords": [
+                        35.273353,
+                        32.233568
+                  ]
+            },
+            {
+                  "name": "Al Jala' TV",
+                  "text": "Ein Zentrum für mediale und künstlerische Aktivitäten in Nablus.",
+                  "category": "cultural",
+                  "coords": [
+                        35.263213,
+                        32.222735
+                  ]
+            },
+            {
+                  "name": "سما نابلس",
+                  "text": "Ein beliebter Aussichtspunkt und Anziehungspunkt in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.250321,
+                        32.235237
+                  ]
+            },
+            {
+                  "name": "Hamman as-Shifa",
+                  "text": "Ein historisches Hamam in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259878,
+                        32.219273
+                  ]
+            },
+            {
+                  "name": "عماره وطن ١ شادي عبده",
+                  "text": "Ein lokales Denkmal in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.24991,
+                        32.220151
+                  ]
+            },
+            {
+                  "name": "عماره وطن ٣ شادي عبده",
+                  "text": "Ein lokales Denkmal in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.246822,
+                        32.222979
+                  ]
+            },
+            {
+                  "name": "عماره وطن ٢ شادي عبده",
+                  "text": "Ein lokales Denkmal in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.240635,
+                        32.216441
+                  ]
+            },
+            {
+                  "name": "عماره وطن اسعد قنازع وشادي عبده",
+                  "text": "Ein lokales Denkmal in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.274941,
+                        32.218918
+                  ]
+            },
+            {
+                  "name": "ديوان ال عبده الغزاوي",
+                  "text": "Ein lokales Denkmal in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.264573,
+                        32.216752
+                  ]
+            },
+            {
+                  "name": "اجياد 8",
+                  "text": "Ein lokaler Anziehungspunkt in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.241447,
+                        32.236417
+                  ]
+            },
+            {
+                  "name": "عمارة اجياد 1",
+                  "text": "Ein markantes Gebäude und lokaler Anziehungspunkt in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.239543,
+                        32.238246
+                  ]
+            },
+            {
+                  "name": "Clock tower",
+                  "text": "Ein historischer Uhrturm in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.261747,
+                        32.218845
+                  ]
+            },
+            {
+                  "name": "ديوان ال مقبول",
+                  "text": "Ein Aussichtspunkt in Nablus.",
+                  "category": "natural",
+                  "coords": [
+                        35.263964,
+                        32.221696
+                  ]
+            },
+            {
+                  "name": "عمارة العنبتاوي",
+                  "text": "Ein markantes Gebäude und Anziehungspunkt in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.239513,
+                        32.232138
+                  ]
+            },
+            {
+                  "name": "عمارة العنبتاوي نابلس",
+                  "text": "Ein markantes Gebäude und Anziehungspunkt in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245311,
+                        32.22275
+                  ]
+            },
+            {
+                  "name": "النجاح",
+                  "text": "Eine lokale Institution und Anziehungspunkt in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245961,
+                        32.238944
+                  ]
+            },
+            {
+                  "name": "ستي مول نابلس يو",
+                  "text": "Ein Einkaufszentrum und Anziehungspunkt in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257662,
+                        32.223686
+                  ]
+            },
+            {
+                  "name": "التصفية للاحذية +",
+                  "text": "Ein lokaler Anziehungspunkt in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259129,
+                        32.222849
+                  ]
+            },
+            {
+                  "name": "غاز الزين",
+                  "text": "Ein lokales Denkmal in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.248599,
+                        32.220233
+                  ]
+            },
+            {
+                  "name": "صابون هواش البلدي النابلسي",
+                  "text": "Ein traditionsreicher Ort für die Herstellung von Seife in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.241932,
+                        32.21829
+                  ]
+            },
+            {
+                  "name": "جامع الحنبلي",
+                  "text": "Eine bedeutende Moschee in Nablus.",
+                  "category": "religious",
+                  "coords": [
+                        35.258972,
+                        32.218767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tell Balata",
+                  "text": "Tell Balata egy jelentős régészeti lelőhely Nablusz közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.281522,
+                        32.213557
+                  ]
+            },
+            {
+                  "name": "קבר השייח' ר'אנם",
+                  "text": "Sejk Ghanem sírja egy történelmi helyszín Nablusz közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.273818,
+                        32.20151
+                  ]
+            },
+            {
+                  "name": "The Roman Stairs",
+                  "text": "Történelmi lépcsősor Nablusz mellett.",
+                  "category": "historical",
+                  "coords": [
+                        35.263043,
+                        32.216711
+                  ]
+            },
+            {
+                  "name": "Zawata",
+                  "text": "Régészeti lelőhely Nablusz régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        35.277417,
+                        32.22005
+                  ]
+            },
+            {
+                  "name": "Al Jabir Land",
+                  "text": "Vidámpark Nabluszban családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        35.239128,
+                        32.226299
+                  ]
+            },
+            {
+                  "name": "خان التجار",
+                  "text": "Történelmi kereskedelmi helyszín és régészeti emlék Nabluszban.",
+                  "category": "historical",
+                  "coords": [
+                        35.263834,
+                        32.219262
+                  ]
+            },
+            {
+                  "name": "מרכז השומרוני הטוב",
+                  "text": "A nabluszi múzeum a helyi kulturális értékeknek szenteli figyelmét.",
+                  "category": "museum",
+                  "coords": [
+                        35.270406,
+                        32.203285
+                  ]
+            },
+            {
+                  "name": "ديوان حارة الياسمينة",
+                  "text": "Kulturális rendezvényhelyszín Nabluszban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.257674,
+                        32.219591
+                  ]
+            },
+            {
+                  "name": "صالة القلعة",
+                  "text": "Egy történelmi vár maradványai Nabluszban.",
+                  "category": "castle",
+                  "coords": [
+                        35.248124,
+                        32.227697
+                  ]
+            },
+            {
+                  "name": "صالة فرح للمناسبات",
+                  "text": "Rendezvényhelyszín ünnepségek számára Nabluszban.",
+                  "category": "castle",
+                  "coords": [
+                        35.240707,
+                        32.22694
+                  ]
+            },
+            {
+                  "name": "גבעות עולם",
+                  "text": "Régészeti lelőhely Nablusz közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.272903,
+                        32.200707
+                  ]
+            },
+            {
+                  "name": "ميدان سباق الخيل Hippodrome",
+                  "text": "Egy ókori hippodrom maradványai Nabluszban.",
+                  "category": "historical",
+                  "coords": [
+                        35.261311,
+                        32.222711
+                  ]
+            },
+            {
+                  "name": "Joseph Lookout Point",
+                  "text": "Auszichtspunkt Nablusz közelében, történelmi jelentőséggel.",
+                  "category": "natural",
+                  "coords": [
+                        35.275494,
+                        32.207588
+                  ]
+            },
+            {
+                  "name": "הר עיבל",
+                  "text": "Az Ebal-hegy Nablusz mellett a régió egyik kiemelkedő csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        35.273353,
+                        32.233568
+                  ]
+            },
+            {
+                  "name": "Al Jala' TV",
+                  "text": "Média és művészeti tevékenységek központja Nabluszban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.263213,
+                        32.222735
+                  ]
+            },
+            {
+                  "name": "سما نابلس",
+                  "text": "Népszerű kilátó és látnivaló Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.250321,
+                        32.235237
+                  ]
+            },
+            {
+                  "name": "Hamman as-Shifa",
+                  "text": "Történelmi hamam (törökfürdő) Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259878,
+                        32.219273
+                  ]
+            },
+            {
+                  "name": "عماره وطن ١ شادي عبده",
+                  "text": "Helyi emlékmű Nabluszban.",
+                  "category": "historical",
+                  "coords": [
+                        35.24991,
+                        32.220151
+                  ]
+            },
+            {
+                  "name": "عماره وطن ٣ شادي عبده",
+                  "text": "Helyi emlékmű Nabluszban.",
+                  "category": "historical",
+                  "coords": [
+                        35.246822,
+                        32.222979
+                  ]
+            },
+            {
+                  "name": "عماره وطن ٢ شادي عبده",
+                  "text": "Helyi emlékmű Nabluszban.",
+                  "category": "historical",
+                  "coords": [
+                        35.240635,
+                        32.216441
+                  ]
+            },
+            {
+                  "name": "عماره وطن اسعد قنازع وشادي عبده",
+                  "text": "Helyi emlékmű Nabluszban.",
+                  "category": "historical",
+                  "coords": [
+                        35.274941,
+                        32.218918
+                  ]
+            },
+            {
+                  "name": "ديوان ال عبده الغزاوي",
+                  "text": "Helyi emlékmű Nabluszban.",
+                  "category": "historical",
+                  "coords": [
+                        35.264573,
+                        32.216752
+                  ]
+            },
+            {
+                  "name": "اجياد 8",
+                  "text": "Helyi látnivaló Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.241447,
+                        32.236417
+                  ]
+            },
+            {
+                  "name": "عمارة اجياد 1",
+                  "text": "Jellegzetes épület és helyi látnivaló Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.239543,
+                        32.238246
+                  ]
+            },
+            {
+                  "name": "Clock tower",
+                  "text": "Történelmi óratorony Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.261747,
+                        32.218845
+                  ]
+            },
+            {
+                  "name": "ديوان ال مقبول",
+                  "text": "Kilátópont Nabluszban.",
+                  "category": "natural",
+                  "coords": [
+                        35.263964,
+                        32.221696
+                  ]
+            },
+            {
+                  "name": "عمارة العنبتاوي",
+                  "text": "Jellegzetes épület és látnivaló Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.239513,
+                        32.232138
+                  ]
+            },
+            {
+                  "name": "عمارة العنبتاوي نابلس",
+                  "text": "Jellegzetes épület és látnivaló Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245311,
+                        32.22275
+                  ]
+            },
+            {
+                  "name": "النجاح",
+                  "text": "Helyi intézmény és látnivaló Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245961,
+                        32.238944
+                  ]
+            },
+            {
+                  "name": "ستي مول نابلس يو",
+                  "text": "Bevásárlóközpont és látnivaló Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257662,
+                        32.223686
+                  ]
+            },
+            {
+                  "name": "التصفية للاحذية +",
+                  "text": "Helyi látnivaló Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259129,
+                        32.222849
+                  ]
+            },
+            {
+                  "name": "غاز الزين",
+                  "text": "Helyi emlékmű Nabluszban.",
+                  "category": "historical",
+                  "coords": [
+                        35.248599,
+                        32.220233
+                  ]
+            },
+            {
+                  "name": "صابون هواش البلدي النابلسي",
+                  "text": "A hagyományos szappankészítés helyszíne Nabluszban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.241932,
+                        32.21829
+                  ]
+            },
+            {
+                  "name": "جامع الحنبلي",
+                  "text": "Jelentős mecset Nabluszban.",
+                  "category": "religious",
+                  "coords": [
+                        35.258972,
+                        32.218767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tell Balata",
+                  "text": "Tell Balata este un sit arheologic semnificativ lângă Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.281522,
+                        32.213557
+                  ]
+            },
+            {
+                  "name": "קבר השייח' ר'אנם",
+                  "text": "Mormântul lui Șeic Ghanem este un sit istoric lângă Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.273818,
+                        32.20151
+                  ]
+            },
+            {
+                  "name": "The Roman Stairs",
+                  "text": "O scară istorică lângă Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.263043,
+                        32.216711
+                  ]
+            },
+            {
+                  "name": "Zawata",
+                  "text": "Sit arheologic în regiunea Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.277417,
+                        32.22005
+                  ]
+            },
+            {
+                  "name": "Al Jabir Land",
+                  "text": "Un parc de distracții în Nablus pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        35.239128,
+                        32.226299
+                  ]
+            },
+            {
+                  "name": "خان التجار",
+                  "text": "Un vechi centru comercial și relicvă arheologică în Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.263834,
+                        32.219262
+                  ]
+            },
+            {
+                  "name": "מרכז השומרוני הטוב",
+                  "text": "Muzeul din Nablus este dedicat aspectelor culturale locale.",
+                  "category": "museum",
+                  "coords": [
+                        35.270406,
+                        32.203285
+                  ]
+            },
+            {
+                  "name": "ديوان حارة الياسمينة",
+                  "text": "Un loc de evenimente culturale în Nablus.",
+                  "category": "cultural",
+                  "coords": [
+                        35.257674,
+                        32.219591
+                  ]
+            },
+            {
+                  "name": "صالة القلعة",
+                  "text": "Rămășițele unui castel istoric în Nablus.",
+                  "category": "castle",
+                  "coords": [
+                        35.248124,
+                        32.227697
+                  ]
+            },
+            {
+                  "name": "صالة فرح للمناسبات",
+                  "text": "Locație de evenimente pentru sărbători în Nablus.",
+                  "category": "castle",
+                  "coords": [
+                        35.240707,
+                        32.22694
+                  ]
+            },
+            {
+                  "name": "גבעות עולם",
+                  "text": "Sit arheologic lângă Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.272903,
+                        32.200707
+                  ]
+            },
+            {
+                  "name": "ميدان سباق الخيل Hippodrome",
+                  "text": "Rămășițele unui hipodrom antic în Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.261311,
+                        32.222711
+                  ]
+            },
+            {
+                  "name": "Joseph Lookout Point",
+                  "text": "Un punct de belvedere lângă Nablus cu semnificație istorică.",
+                  "category": "natural",
+                  "coords": [
+                        35.275494,
+                        32.207588
+                  ]
+            },
+            {
+                  "name": "הר עיבל",
+                  "text": "Muntele Ebal lângă Nablus este un vârf proeminent al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        35.273353,
+                        32.233568
+                  ]
+            },
+            {
+                  "name": "Al Jala' TV",
+                  "text": "Un centru pentru activități media și artistice în Nablus.",
+                  "category": "cultural",
+                  "coords": [
+                        35.263213,
+                        32.222735
+                  ]
+            },
+            {
+                  "name": "سما نابلس",
+                  "text": "Un punct de belvedere și atracție populară în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.250321,
+                        32.235237
+                  ]
+            },
+            {
+                  "name": "Hamman as-Shifa",
+                  "text": "Un hamam istoric în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259878,
+                        32.219273
+                  ]
+            },
+            {
+                  "name": "عماره وطن ١ شادي عبده",
+                  "text": "Un monument local în Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.24991,
+                        32.220151
+                  ]
+            },
+            {
+                  "name": "عماره وطن ٣ شادي عبده",
+                  "text": "Un monument local în Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.246822,
+                        32.222979
+                  ]
+            },
+            {
+                  "name": "عماره وطن ٢ شادي عبده",
+                  "text": "Un monument local în Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.240635,
+                        32.216441
+                  ]
+            },
+            {
+                  "name": "عماره وطن اسعد قنازع وشادي عبده",
+                  "text": "Un monument local în Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.274941,
+                        32.218918
+                  ]
+            },
+            {
+                  "name": "ديوان ال عبده الغزاوي",
+                  "text": "Un monument local în Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.264573,
+                        32.216752
+                  ]
+            },
+            {
+                  "name": "اجياد 8",
+                  "text": "O atracție locală în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.241447,
+                        32.236417
+                  ]
+            },
+            {
+                  "name": "عمارة اجياد 1",
+                  "text": "O clădire proeminentă și atracție locală în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.239543,
+                        32.238246
+                  ]
+            },
+            {
+                  "name": "Clock tower",
+                  "text": "Un turn cu ceas istoric în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.261747,
+                        32.218845
+                  ]
+            },
+            {
+                  "name": "ديوان ال مقبول",
+                  "text": "Un punct de belvedere în Nablus.",
+                  "category": "natural",
+                  "coords": [
+                        35.263964,
+                        32.221696
+                  ]
+            },
+            {
+                  "name": "عمارة العنبتاوي",
+                  "text": "O clădire proeminentă și atracție în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.239513,
+                        32.232138
+                  ]
+            },
+            {
+                  "name": "عمارة العنبتاوي نابلس",
+                  "text": "O clădire proeminentă și atracție în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245311,
+                        32.22275
+                  ]
+            },
+            {
+                  "name": "النجاح",
+                  "text": "O instituție locală și atracție în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245961,
+                        32.238944
+                  ]
+            },
+            {
+                  "name": "ستي مول نابلس يو",
+                  "text": "Un centru comercial și atracție în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257662,
+                        32.223686
+                  ]
+            },
+            {
+                  "name": "التصفية للاحذية +",
+                  "text": "O atracție locală în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259129,
+                        32.222849
+                  ]
+            },
+            {
+                  "name": "غاز الزين",
+                  "text": "Un monument local în Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.248599,
+                        32.220233
+                  ]
+            },
+            {
+                  "name": "صابون هواش البلدي النابلسي",
+                  "text": "Un loc tradițional pentru producția de săpun în Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.241932,
+                        32.21829
+                  ]
+            },
+            {
+                  "name": "جامع الحنبلي",
+                  "text": "O moschee semnificativă în Nablus.",
+                  "category": "religious",
+                  "coords": [
+                        35.258972,
+                        32.218767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tell Balata",
+                  "text": "Tell Balata is a significant archaeological site near Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.281522,
+                        32.213557
+                  ]
+            },
+            {
+                  "name": "קבר השייח' ר'אנם",
+                  "text": "The tomb of Sheikh Ghanem is a historic site near Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.273818,
+                        32.20151
+                  ]
+            },
+            {
+                  "name": "The Roman Stairs",
+                  "text": "Historic stairs near Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.263043,
+                        32.216711
+                  ]
+            },
+            {
+                  "name": "Zawata",
+                  "text": "Archaeological site in the Nablus region.",
+                  "category": "historical",
+                  "coords": [
+                        35.277417,
+                        32.22005
+                  ]
+            },
+            {
+                  "name": "Al Jabir Land",
+                  "text": "A theme park in Nablus for families.",
+                  "category": "recreational",
+                  "coords": [
+                        35.239128,
+                        32.226299
+                  ]
+            },
+            {
+                  "name": "خان التجار",
+                  "text": "A historic trading site and archaeological relic in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.263834,
+                        32.219262
+                  ]
+            },
+            {
+                  "name": "The Good Samaritan Centre",
+                  "text": "The museum in Nablus is dedicated to local cultural aspects.",
+                  "category": "museum",
+                  "coords": [
+                        35.270406,
+                        32.203285
+                  ]
+            },
+            {
+                  "name": "ديوان حارة الياسمينة",
+                  "text": "A cultural venue in Nablus.",
+                  "category": "cultural",
+                  "coords": [
+                        35.257674,
+                        32.219591
+                  ]
+            },
+            {
+                  "name": "al-qalaa castle",
+                  "text": "Remains of a historic castle in Nablus.",
+                  "category": "castle",
+                  "coords": [
+                        35.248124,
+                        32.227697
+                  ]
+            },
+            {
+                  "name": "farah weddings hall",
+                  "text": "Venue for celebrations in Nablus.",
+                  "category": "castle",
+                  "coords": [
+                        35.240707,
+                        32.22694
+                  ]
+            },
+            {
+                  "name": "גבעות עולם",
+                  "text": "Archaeological site near Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.272903,
+                        32.200707
+                  ]
+            },
+            {
+                  "name": "The Roman Hippodrome",
+                  "text": "Remains of an ancient hippodrome in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.261311,
+                        32.222711
+                  ]
+            },
+            {
+                  "name": "Joseph Lookout Point",
+                  "text": "A viewpoint near Nablus with historical significance.",
+                  "category": "natural",
+                  "coords": [
+                        35.275494,
+                        32.207588
+                  ]
+            },
+            {
+                  "name": "Mount Ebal",
+                  "text": "Mount Ebal near Nablus is a prominent peak in the region.",
+                  "category": "natural",
+                  "coords": [
+                        35.273353,
+                        32.233568
+                  ]
+            },
+            {
+                  "name": "Al Jala' TV",
+                  "text": "A center for media and artistic activities in Nablus.",
+                  "category": "cultural",
+                  "coords": [
+                        35.263213,
+                        32.222735
+                  ]
+            },
+            {
+                  "name": "Sama Nablus",
+                  "text": "A popular viewpoint and attraction in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.250321,
+                        32.235237
+                  ]
+            },
+            {
+                  "name": "Hamman as-Shifa",
+                  "text": "A historic hammam in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259878,
+                        32.219273
+                  ]
+            },
+            {
+                  "name": "عماره وطن ١ شادي عبده",
+                  "text": "A local monument in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.24991,
+                        32.220151
+                  ]
+            },
+            {
+                  "name": "عماره وطن ٣ شادي عبده",
+                  "text": "A local monument in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.246822,
+                        32.222979
+                  ]
+            },
+            {
+                  "name": "عماره وطن ٢ شادي عبده",
+                  "text": "A local monument in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.240635,
+                        32.216441
+                  ]
+            },
+            {
+                  "name": "عماره وطن اسعد قنازع وشادي عبده",
+                  "text": "A local monument in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.274941,
+                        32.218918
+                  ]
+            },
+            {
+                  "name": "ديوان ال عبده الغزاوي",
+                  "text": "A local monument in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.264573,
+                        32.216752
+                  ]
+            },
+            {
+                  "name": "Ajyad 8",
+                  "text": "A local attraction in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.241447,
+                        32.236417
+                  ]
+            },
+            {
+                  "name": "عمارة اجياد 1",
+                  "text": "A prominent building and local attraction in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.239543,
+                        32.238246
+                  ]
+            },
+            {
+                  "name": "Clock tower",
+                  "text": "A historic clock tower in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.261747,
+                        32.218845
+                  ]
+            },
+            {
+                  "name": "al magbool",
+                  "text": "A viewpoint in Nablus.",
+                  "category": "natural",
+                  "coords": [
+                        35.263964,
+                        32.221696
+                  ]
+            },
+            {
+                  "name": "عمارة العنبتاوي",
+                  "text": "A prominent building and attraction in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.239513,
+                        32.232138
+                  ]
+            },
+            {
+                  "name": "عمارة العنبتاوي نابلس",
+                  "text": "A prominent building and attraction in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245311,
+                        32.22275
+                  ]
+            },
+            {
+                  "name": "النجاح",
+                  "text": "A local institution and attraction in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.245961,
+                        32.238944
+                  ]
+            },
+            {
+                  "name": "ستي مول نابلس يو",
+                  "text": "A shopping center and attraction in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.257662,
+                        32.223686
+                  ]
+            },
+            {
+                  "name": "التصفية للاحذية +",
+                  "text": "A local attraction in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.259129,
+                        32.222849
+                  ]
+            },
+            {
+                  "name": "غاز الزين",
+                  "text": "A local monument in Nablus.",
+                  "category": "historical",
+                  "coords": [
+                        35.248599,
+                        32.220233
+                  ]
+            },
+            {
+                  "name": "صابون هواش البلدي النابلسي",
+                  "text": "A traditional site for soap production in Nablus.",
+                  "category": "landmark",
+                  "coords": [
+                        35.241932,
+                        32.21829
+                  ]
+            },
+            {
+                  "name": "جامع الحنبلي",
+                  "text": "An important mosque in Nablus.",
+                  "category": "religious",
+                  "coords": [
+                        35.258972,
+                        32.218767
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "city",
     name: { de: "Nablus", hu: "Nablusz", ro: "Nablus", en: "Nablus" },
@@ -183,7 +5403,736 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-nablus-cities-v2.webp",
   },
   {
-    id: "palestine-khan-yunis-cities-v2",
+    id: "palestine-khan-yunis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Barqoq",
+                  "text": "Barqoq ist eine historische Burg in der Stadt Chan Yunis.",
+                  "category": "castle",
+                  "coords": [
+                        34.303224,
+                        31.343166
+                  ]
+            },
+            {
+                  "name": "גדיד",
+                  "text": "Gadid bezeichnet die Ruinen einer ehemaligen israelischen Siedlung im Gusch Katif bei Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.277754,
+                        31.344344
+                  ]
+            },
+            {
+                  "name": "נווה דקלים",
+                  "text": "Neve Dekalim sind die Ruinen einer ehemals bedeutenden israelischen Siedlung bei Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.27587,
+                        31.351948
+                  ]
+            },
+            {
+                  "name": "بلدية بني سهيلا",
+                  "text": "Das Rathaus der palästinensischen Stadt Bani Suheila ist ein städtisches Monument in Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.322255,
+                        31.34033
+                  ]
+            },
+            {
+                  "name": "دوار السنية",
+                  "text": "دوار السنية ist ein lokales Denkmal in Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.30529,
+                        31.343106
+                  ]
+            },
+            {
+                  "name": "دوار ابوحميد",
+                  "text": "دوار ابوحميد ist ein Denkmal in der Stadt Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.307967,
+                        31.343458
+                  ]
+            },
+            {
+                  "name": "مسجد عباد الرحمن",
+                  "text": "Die Ebad Rahman Mosque ist eine Sehenswürdigkeit in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.290455,
+                        31.35289
+                  ]
+            },
+            {
+                  "name": "الساقية",
+                  "text": "Alsaqea ist ein Denkmal in Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.322831,
+                        31.344033
+                  ]
+            },
+            {
+                  "name": "البطن السمين",
+                  "text": "البطن السمين ist eine Attraktion in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296345,
+                        31.336341
+                  ]
+            },
+            {
+                  "name": "منزل حسام",
+                  "text": "منزل حسام ist eine lokale Attraktion in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.311879,
+                        31.336557
+                  ]
+            },
+            {
+                  "name": "منتزه خانيونس التربية والتعليم",
+                  "text": "منتزه خانيونس التربية والتعليم ist eine Parkanlage und Attraktion in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.312538,
+                        31.345376
+                  ]
+            },
+            {
+                  "name": "الحي الهولندي",
+                  "text": "الحي الهولندي ist eine Sehenswürdigkeit im Stadtgebiet von Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296167,
+                        31.361348
+                  ]
+            },
+            {
+                  "name": "مزرعة الجامعة",
+                  "text": "مزرعة الجامعة ist ein schöner Aussichtspunkt in Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.310652,
+                        31.369384
+                  ]
+            },
+            {
+                  "name": "حارة القهوجي",
+                  "text": "حارة القهوجي ist ein Aussichtspunkt in Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.317884,
+                        31.338478
+                  ]
+            },
+            {
+                  "name": "شارع القدس",
+                  "text": "شارع القدس ist eine bekannte Straße und Attraktion in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.332647,
+                        31.342311
+                  ]
+            },
+            {
+                  "name": "شارع المغاربه",
+                  "text": "شارع المغاربه ist ein Aussichtspunkt in Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.306147,
+                        31.322898
+                  ]
+            },
+            {
+                  "name": "غيزان ابو رشوان",
+                  "text": "غيزان ابو رشوان ist ein Aussichtspunkt in der Umgebung von Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.286851,
+                        31.330388
+                  ]
+            },
+            {
+                  "name": "Cultural Center",
+                  "text": "Das Cultural Center ist ein Kunst- und Kulturzentrum in Chan Yunis.",
+                  "category": "cultural",
+                  "coords": [
+                        34.300748,
+                        31.326069
+                  ]
+            },
+            {
+                  "name": "Jawwal New Showroom",
+                  "text": "Der Jawwal New Showroom ist eine Einrichtung und Attraktion in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305549,
+                        31.345412
+                  ]
+            },
+            {
+                  "name": "Amer Najjar 2 Co.",
+                  "text": "Amer Najjar 2 Co. ist eine Attraktion in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.29852,
+                        31.344089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barqoq",
+                  "text": "A Barqoq egy vár Chan Yunis városában.",
+                  "category": "castle",
+                  "coords": [
+                        34.303224,
+                        31.343166
+                  ]
+            },
+            {
+                  "name": "גדיד",
+                  "text": "Gadid egy egykori izraeli település romjait jelöli a Gus Katif blokkban, Chan Yunis területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.277754,
+                        31.344344
+                  ]
+            },
+            {
+                  "name": "נווה דקלים",
+                  "text": "A Neve Dekalim egy egykori jelentős izraeli település romjai Chan Yunis közelében.",
+                  "category": "historical",
+                  "coords": [
+                        34.27587,
+                        31.351948
+                  ]
+            },
+            {
+                  "name": "بلدية بني سهيلا",
+                  "text": "Bani Suheila önkormányzati épülete egy fontos közigazgatási műemlék Chan Yunis térségében.",
+                  "category": "historical",
+                  "coords": [
+                        34.322255,
+                        31.34033
+                  ]
+            },
+            {
+                  "name": "دوار السنية",
+                  "text": "A دوار السنية egy emlékmű Chan Yunis városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.30529,
+                        31.343106
+                  ]
+            },
+            {
+                  "name": "دوار ابوحميد",
+                  "text": "A دوار ابوحميد egy műemlék Chan Yunis területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.307967,
+                        31.343458
+                  ]
+            },
+            {
+                  "name": "مسجد عباد الرحمن",
+                  "text": "Az Ebad Rahman Mosque egy látványosság Chan Yunis városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.290455,
+                        31.35289
+                  ]
+            },
+            {
+                  "name": "الساقية",
+                  "text": "Az Alsaqea egy emlékmű Chan Yunis területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.322831,
+                        31.344033
+                  ]
+            },
+            {
+                  "name": "البطن السمين",
+                  "text": "A البطن السمين egy helyi látványosság Chan Yunisban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296345,
+                        31.336341
+                  ]
+            },
+            {
+                  "name": "منزل حسام",
+                  "text": "A منزل حسام egy látványosság Chan Yunisban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.311879,
+                        31.336557
+                  ]
+            },
+            {
+                  "name": "منتزه خانيونس التربية والتعليم",
+                  "text": "A منتزه خانيونس التربية والتعليم egy parkosított látványosság Chan Yunis területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.312538,
+                        31.345376
+                  ]
+            },
+            {
+                  "name": "الحي الهولندي",
+                  "text": "A الحي الهولندي egy látványosság Chan Yunis városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296167,
+                        31.361348
+                  ]
+            },
+            {
+                  "name": "مزرعة الجامعة",
+                  "text": "A مزرعة الجامعة egy kilátópont Chan Yunis területén.",
+                  "category": "natural",
+                  "coords": [
+                        34.310652,
+                        31.369384
+                  ]
+            },
+            {
+                  "name": "حارة القهوجي",
+                  "text": "A حارة القهوجي egy kilátópont Chan Yunisban.",
+                  "category": "natural",
+                  "coords": [
+                        34.317884,
+                        31.338478
+                  ]
+            },
+            {
+                  "name": "شارع القدس",
+                  "text": "A شارع القدس egy utca és látványosság Chan Yunis városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.332647,
+                        31.342311
+                  ]
+            },
+            {
+                  "name": "شارع المغاربه",
+                  "text": "A شارع المغاربه egy kilátópont Chan Yunis területén.",
+                  "category": "natural",
+                  "coords": [
+                        34.306147,
+                        31.322898
+                  ]
+            },
+            {
+                  "name": "غيزان ابو رشوان",
+                  "text": "A غيزان ابو رشوان egy festői kilátópont Chan Yunisban.",
+                  "category": "natural",
+                  "coords": [
+                        34.286851,
+                        31.330388
+                  ]
+            },
+            {
+                  "name": "Cultural Center",
+                  "text": "A Cultural Center egy művészeti központ Chan Yunis városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.300748,
+                        31.326069
+                  ]
+            },
+            {
+                  "name": "Jawwal New Showroom",
+                  "text": "A Jawwal New Showroom egy látványosság Chan Yunis területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305549,
+                        31.345412
+                  ]
+            },
+            {
+                  "name": "Amer Najjar 2 Co.",
+                  "text": "Az Amer Najjar 2 Co. egy látványosság Chan Yunis városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.29852,
+                        31.344089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barqoq",
+                  "text": "Barqoq este un castel situat în orașul Chan Yunis.",
+                  "category": "castle",
+                  "coords": [
+                        34.303224,
+                        31.343166
+                  ]
+            },
+            {
+                  "name": "גדיד",
+                  "text": "Gadid reprezintă ruinele unei foste așezări israeliene din regiunea Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.277754,
+                        31.344344
+                  ]
+            },
+            {
+                  "name": "נווה דקלים",
+                  "text": "Neve Dekalim cuprinde ruinele unei foste așezări majore din zona Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.27587,
+                        31.351948
+                  ]
+            },
+            {
+                  "name": "بلدية بني سهيلا",
+                  "text": "Bani Suheila Municipality este un monument civic situat în regiunea orașului palestinian Bani Suheila, lângă Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.322255,
+                        31.34033
+                  ]
+            },
+            {
+                  "name": "دوار السنية",
+                  "text": "دوار السنية este un monument aflat în Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.30529,
+                        31.343106
+                  ]
+            },
+            {
+                  "name": "دوار ابوحميد",
+                  "text": "دوار ابوحميد este un monument din Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.307967,
+                        31.343458
+                  ]
+            },
+            {
+                  "name": "مسجد عباد الرحمن",
+                  "text": "Ebad Rahman Mosque este o atracție situată în Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.290455,
+                        31.35289
+                  ]
+            },
+            {
+                  "name": "الساقية",
+                  "text": "Alsaqea este un monument localizat în Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.322831,
+                        31.344033
+                  ]
+            },
+            {
+                  "name": "البطن السمين",
+                  "text": "البطن السمين este o atracție din Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296345,
+                        31.336341
+                  ]
+            },
+            {
+                  "name": "منزل حسام",
+                  "text": "منزل حسام este o atracție aflată în Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.311879,
+                        31.336557
+                  ]
+            },
+            {
+                  "name": "منتزه خانيونس التربية والتعليم",
+                  "text": "منتزه خانيونس التربية والتعليم este o atracție și un parc din Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.312538,
+                        31.345376
+                  ]
+            },
+            {
+                  "name": "الحي الهولندي",
+                  "text": "الحي الهولندي este o atracție din Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296167,
+                        31.361348
+                  ]
+            },
+            {
+                  "name": "مزرعة الجامعة",
+                  "text": "مزرعة الجامعة este un punct de belvedere aflat în Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.310652,
+                        31.369384
+                  ]
+            },
+            {
+                  "name": "حارة القهوجي",
+                  "text": "حارة القهوجي este un punct de perspectivă din Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.317884,
+                        31.338478
+                  ]
+            },
+            {
+                  "name": "شارع القدس",
+                  "text": "شارع القدس este o stradă recunoscută ca atracție în Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.332647,
+                        31.342311
+                  ]
+            },
+            {
+                  "name": "شارع المغاربه",
+                  "text": "شارع المغاربه este un punct de belvedere situat în Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.306147,
+                        31.322898
+                  ]
+            },
+            {
+                  "name": "غيزان ابو رشوان",
+                  "text": "غيزان ابو رشوان este un punct de atracție și belvedere în Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.286851,
+                        31.330388
+                  ]
+            },
+            {
+                  "name": "Cultural Center",
+                  "text": "Cultural Center este un centru de artă din Chan Yunis.",
+                  "category": "cultural",
+                  "coords": [
+                        34.300748,
+                        31.326069
+                  ]
+            },
+            {
+                  "name": "Jawwal New Showroom",
+                  "text": "Jawwal New Showroom este o atracție din Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305549,
+                        31.345412
+                  ]
+            },
+            {
+                  "name": "Amer Najjar 2 Co.",
+                  "text": "Amer Najjar 2 Co. este o atracție situată în Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.29852,
+                        31.344089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barqoq",
+                  "text": "Barqoq is a historic castle situated in the city of Chan Yunis.",
+                  "category": "castle",
+                  "coords": [
+                        34.303224,
+                        31.343166
+                  ]
+            },
+            {
+                  "name": "Gadid",
+                  "text": "Gadid refers to the ruins of an Israeli settlement that was located in the Gush Katif bloc in Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.277754,
+                        31.344344
+                  ]
+            },
+            {
+                  "name": "Neve Dekalim",
+                  "text": "Neve Dekalim encompasses the ruins of what was once the largest Israeli settlement in the Gaza Strip, located in Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.27587,
+                        31.351948
+                  ]
+            },
+            {
+                  "name": "Bani Suheila Municipality",
+                  "text": "The Bani Suheila Municipality building serves as a significant civic monument in the Palestinian city near Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.322255,
+                        31.34033
+                  ]
+            },
+            {
+                  "name": "دوار السنية",
+                  "text": "دوار السنية is a public monument located in Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.30529,
+                        31.343106
+                  ]
+            },
+            {
+                  "name": "دوار ابوحميد",
+                  "text": "دوار ابوحميد is a prominent monument situated in Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.307967,
+                        31.343458
+                  ]
+            },
+            {
+                  "name": "Ebad Rahman Mosque",
+                  "text": "The Ebad Rahman Mosque is a notable attraction and religious site in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.290455,
+                        31.35289
+                  ]
+            },
+            {
+                  "name": "Alsaqea",
+                  "text": "Alsaqea is recognized as a monument in Chan Yunis.",
+                  "category": "historical",
+                  "coords": [
+                        34.322831,
+                        31.344033
+                  ]
+            },
+            {
+                  "name": "البطن السمين",
+                  "text": "البطن السمين is a local attraction located in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296345,
+                        31.336341
+                  ]
+            },
+            {
+                  "name": "منزل حسام",
+                  "text": "منزل حسام is an attraction situated in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.311879,
+                        31.336557
+                  ]
+            },
+            {
+                  "name": "منتزه خانيونس التربية والتعليم",
+                  "text": "منتزه خانيونس التربية والتعليم is a park and attraction located in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.312538,
+                        31.345376
+                  ]
+            },
+            {
+                  "name": "الحي الهولندي",
+                  "text": "الحي الهولندي is a neighborhood attraction situated in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.296167,
+                        31.361348
+                  ]
+            },
+            {
+                  "name": "مزرعة الجامعة",
+                  "text": "مزرعة الجامعة is a scenic viewpoint located in Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.310652,
+                        31.369384
+                  ]
+            },
+            {
+                  "name": "حارة القهوجي",
+                  "text": "حارة القهوجي is a viewpoint offering interesting sights in Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.317884,
+                        31.338478
+                  ]
+            },
+            {
+                  "name": "شارع القدس",
+                  "text": "شارع القدس is a notable street and attraction in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.332647,
+                        31.342311
+                  ]
+            },
+            {
+                  "name": "شارع المغاربه",
+                  "text": "شارع المغاربه serves as a viewpoint in the city of Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.306147,
+                        31.322898
+                  ]
+            },
+            {
+                  "name": "غيزان ابو رشوان",
+                  "text": "غيزان ابو رشوان is a scenic viewpoint located in Chan Yunis.",
+                  "category": "natural",
+                  "coords": [
+                        34.286851,
+                        31.330388
+                  ]
+            },
+            {
+                  "name": "Cultural Center",
+                  "text": "The Cultural Center is a hub for arts and culture situated in Chan Yunis.",
+                  "category": "cultural",
+                  "coords": [
+                        34.300748,
+                        31.326069
+                  ]
+            },
+            {
+                  "name": "Jawwal New Showroom",
+                  "text": "The Jawwal New Showroom is a modern attraction in Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.305549,
+                        31.345412
+                  ]
+            },
+            {
+                  "name": "Amer Najjar 2 Co.",
+                  "text": "Amer Najjar 2 Co. is considered an attraction in the city of Chan Yunis.",
+                  "category": "landmark",
+                  "coords": [
+                        34.29852,
+                        31.344089
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "city",
     name: { de: "Chan Yunis", hu: "Hán Júnisz", ro: "Khan Yunis", en: "Khan Yunis" },
@@ -273,7 +6222,484 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-jabalia-cities-v2.webp",
   },
   {
-    id: "palestine-rafah-cities-v2",
+    id: "palestine-rafah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "صالة لازوردي للأفراح",
+                  "text": "Ein Veranstaltungsort für Aufführungen in Rafah.",
+                  "category": "cultural",
+                  "coords": [
+                        34.248281,
+                        31.304736
+                  ]
+            },
+            {
+                  "name": "Alnada Gallery",
+                  "text": "Eine Galerie und ein Veranstaltungsort in Rafah.",
+                  "category": "cultural",
+                  "coords": [
+                        34.243928,
+                        31.297026
+                  ]
+            },
+            {
+                  "name": "حديقة فتحي للحيوان",
+                  "text": "Ein Zoo in Rafah.",
+                  "category": "recreational",
+                  "coords": [
+                        34.255807,
+                        31.2745
+                  ]
+            },
+            {
+                  "name": "Rafah",
+                  "text": "Rafah ist eine historische Stadt mit bedeutenden archäologischen Spuren.",
+                  "category": "historical",
+                  "coords": [
+                        34.236342,
+                        31.287706
+                  ]
+            },
+            {
+                  "name": "شارع حسن الفوال",
+                  "text": "Eine belebte Straße und lokaler Anziehungspunkt in Rafah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.255787,
+                        31.286325
+                  ]
+            },
+            {
+                  "name": "صندوق احلام اليازوري",
+                  "text": "Ein lokaler Anziehungspunkt in Rafah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.262837,
+                        31.277204
+                  ]
+            },
+            {
+                  "name": "شارع جورج",
+                  "text": "Ein Aussichtspunkt in Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.267291,
+                        31.26851
+                  ]
+            },
+            {
+                  "name": "سينا",
+                  "text": "Ein Aussichtspunkt in Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.246785,
+                        31.305571
+                  ]
+            },
+            {
+                  "name": "تكية انس القاضي المختار",
+                  "text": "Ein Aussichtspunkt in Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.249242,
+                        31.30017
+                  ]
+            },
+            {
+                  "name": "مفترق الخربة",
+                  "text": "Ein Aussichtspunkt bei Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.263571,
+                        31.28869
+                  ]
+            },
+            {
+                  "name": "مركز ايواء النخيل",
+                  "text": "Ein lokaler Anziehungspunkt in Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.23872,
+                        31.308863
+                  ]
+            },
+            {
+                  "name": "جمعية الخدمة العامة لحي كندا",
+                  "text": "Kunstzentrum in Rafah.",
+                  "category": "cultural",
+                  "coords": [
+                        34.24382,
+                        31.30889
+                  ]
+            },
+            {
+                  "name": "معرض جوال",
+                  "text": "Attraktion in Rafah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.257468,
+                        31.276753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "صالة لازوردي للأفراح",
+                  "text": "Előadóhelyszín Rafahban.",
+                  "category": "cultural",
+                  "coords": [
+                        34.248281,
+                        31.304736
+                  ]
+            },
+            {
+                  "name": "Alnada Gallery",
+                  "text": "Galéria és rendezvényhelyszín Rafahban.",
+                  "category": "cultural",
+                  "coords": [
+                        34.243928,
+                        31.297026
+                  ]
+            },
+            {
+                  "name": "حديقة فتحي للحيوان",
+                  "text": "Állatkert Rafahban.",
+                  "category": "recreational",
+                  "coords": [
+                        34.255807,
+                        31.2745
+                  ]
+            },
+            {
+                  "name": "رفح",
+                  "text": "Rafah egy történelmi város, jelentős régészeti emlékekkel.",
+                  "category": "historical",
+                  "coords": [
+                        34.236342,
+                        31.287706
+                  ]
+            },
+            {
+                  "name": "شارع حسن الفوال",
+                  "text": "Forgalmas utca és helyi látnivaló Rafahban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.255787,
+                        31.286325
+                  ]
+            },
+            {
+                  "name": "صندوق احلام اليازوري",
+                  "text": "Helyi látnivaló Rafahban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.262837,
+                        31.277204
+                  ]
+            },
+            {
+                  "name": "شارع جورج",
+                  "text": "Kilátópont Rafahban.",
+                  "category": "natural",
+                  "coords": [
+                        34.267291,
+                        31.26851
+                  ]
+            },
+            {
+                  "name": "سينا",
+                  "text": "Kilátópont Rafahban.",
+                  "category": "natural",
+                  "coords": [
+                        34.246785,
+                        31.305571
+                  ]
+            },
+            {
+                  "name": "تكية انس القاضي المختار",
+                  "text": "Kilátópont Rafahban.",
+                  "category": "natural",
+                  "coords": [
+                        34.249242,
+                        31.30017
+                  ]
+            },
+            {
+                  "name": "مفترق الخربة",
+                  "text": "Kilátópont Rafah közelében.",
+                  "category": "natural",
+                  "coords": [
+                        34.263571,
+                        31.28869
+                  ]
+            },
+            {
+                  "name": "مركز ايواء النخيل",
+                  "text": "Helyi látnivaló Rafahban.",
+                  "category": "natural",
+                  "coords": [
+                        34.23872,
+                        31.308863
+                  ]
+            },
+            {
+                  "name": "جمعية الخدمة العامة لحي كندا",
+                  "text": "Művészeti központ Rafahban.",
+                  "category": "cultural",
+                  "coords": [
+                        34.24382,
+                        31.30889
+                  ]
+            },
+            {
+                  "name": "معرض جوال",
+                  "text": "Látnivaló Rafahban.",
+                  "category": "landmark",
+                  "coords": [
+                        34.257468,
+                        31.276753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "صالة لازوردي للأفراح",
+                  "text": "Un loc pentru spectacole în Rafah.",
+                  "category": "cultural",
+                  "coords": [
+                        34.248281,
+                        31.304736
+                  ]
+            },
+            {
+                  "name": "Alnada Gallery",
+                  "text": "O galerie și locație de evenimente în Rafah.",
+                  "category": "cultural",
+                  "coords": [
+                        34.243928,
+                        31.297026
+                  ]
+            },
+            {
+                  "name": "حديقة فتحي للحيوان",
+                  "text": "O grădină zoologică în Rafah.",
+                  "category": "recreational",
+                  "coords": [
+                        34.255807,
+                        31.2745
+                  ]
+            },
+            {
+                  "name": "رفح",
+                  "text": "Rafah este un oraș istoric cu urme arheologice semnificative.",
+                  "category": "historical",
+                  "coords": [
+                        34.236342,
+                        31.287706
+                  ]
+            },
+            {
+                  "name": "شارع حسن الفوال",
+                  "text": "O stradă animată și atracție locală în Rafah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.255787,
+                        31.286325
+                  ]
+            },
+            {
+                  "name": "صندوق احلام اليازوري",
+                  "text": "O atracție locală în Rafah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.262837,
+                        31.277204
+                  ]
+            },
+            {
+                  "name": "شارع جورج",
+                  "text": "Un punct de belvedere în Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.267291,
+                        31.26851
+                  ]
+            },
+            {
+                  "name": "سينا",
+                  "text": "Un punct de belvedere în Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.246785,
+                        31.305571
+                  ]
+            },
+            {
+                  "name": "تكية انس القاضي المختار",
+                  "text": "Un punct de belvedere în Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.249242,
+                        31.30017
+                  ]
+            },
+            {
+                  "name": "مفترق الخربة",
+                  "text": "Un punct de belvedere lângă Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.263571,
+                        31.28869
+                  ]
+            },
+            {
+                  "name": "مركز ايواء النخيل",
+                  "text": "O atracție locală în Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.23872,
+                        31.308863
+                  ]
+            },
+            {
+                  "name": "جمعية الخدمة العامة لحي كندا",
+                  "text": "Centru de artă în Rafah.",
+                  "category": "cultural",
+                  "coords": [
+                        34.24382,
+                        31.30889
+                  ]
+            },
+            {
+                  "name": "معرض جوال",
+                  "text": "Atracție în Rafah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.257468,
+                        31.276753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "صالة لازوردي للأفراح",
+                  "text": "A venue for performances in Rafah.",
+                  "category": "cultural",
+                  "coords": [
+                        34.248281,
+                        31.304736
+                  ]
+            },
+            {
+                  "name": "Alnada Gallery",
+                  "text": "A gallery and event venue in Rafah.",
+                  "category": "cultural",
+                  "coords": [
+                        34.243928,
+                        31.297026
+                  ]
+            },
+            {
+                  "name": "Fathe Zoo",
+                  "text": "A zoo in Rafah.",
+                  "category": "recreational",
+                  "coords": [
+                        34.255807,
+                        31.2745
+                  ]
+            },
+            {
+                  "name": "Rafah",
+                  "text": "Rafah is a historic city with significant archaeological traces.",
+                  "category": "historical",
+                  "coords": [
+                        34.236342,
+                        31.287706
+                  ]
+            },
+            {
+                  "name": "شارع حسن الفوال",
+                  "text": "A busy street and local attraction in Rafah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.255787,
+                        31.286325
+                  ]
+            },
+            {
+                  "name": "صندوق احلام اليازوري",
+                  "text": "A local attraction in Rafah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.262837,
+                        31.277204
+                  ]
+            },
+            {
+                  "name": "شارع جورج",
+                  "text": "A viewpoint in Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.267291,
+                        31.26851
+                  ]
+            },
+            {
+                  "name": "سينا",
+                  "text": "A viewpoint in Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.246785,
+                        31.305571
+                  ]
+            },
+            {
+                  "name": "تكية انس القاضي المختار",
+                  "text": "A viewpoint in Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.249242,
+                        31.30017
+                  ]
+            },
+            {
+                  "name": "Al kherba cross",
+                  "text": "A viewpoint near Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.263571,
+                        31.28869
+                  ]
+            },
+            {
+                  "name": "مركز ايواء النخيل",
+                  "text": "A local attraction in Rafah.",
+                  "category": "natural",
+                  "coords": [
+                        34.23872,
+                        31.308863
+                  ]
+            },
+            {
+                  "name": "Association of Canada Camp for General Services",
+                  "text": "Arts centre in Rafah.",
+                  "category": "cultural",
+                  "coords": [
+                        34.24382,
+                        31.30889
+                  ]
+            },
+            {
+                  "name": "Jawwal Showroom",
+                  "text": "Attraction in Rafah.",
+                  "category": "landmark",
+                  "coords": [
+                        34.257468,
+                        31.276753
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "city",
     name: { de: "Rafah", hu: "Rafah", ro: "Rafah", en: "Rafah" },
@@ -318,7 +6744,304 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-rafah-cities-v2.webp",
   },
   {
-    id: "palestine-tulkarm-cities-v2",
+    id: "palestine-tulkarm-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mega Land",
+                  "text": "Mega Land ist ein Freizeitpark in Tulkarm.",
+                  "category": "recreational",
+                  "coords": [
+                        35.029461,
+                        32.321942
+                  ]
+            },
+            {
+                  "name": "Tulkarm",
+                  "text": "Das Museum in Tulkarm stellt regionale historische Exponate aus.",
+                  "category": "museum",
+                  "coords": [
+                        35.028294,
+                        32.313887
+                  ]
+            },
+            {
+                  "name": "منتزه ومسابح الواحة",
+                  "text": "Der Al Waha Park ist eine Attraktion und Grünanlage in Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.036549,
+                        32.293899
+                  ]
+            },
+            {
+                  "name": "منتزه طولكرم",
+                  "text": "Der tulkarm park ist eine öffentliche Anlage und Attraktion in Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.024282,
+                        32.309797
+                  ]
+            },
+            {
+                  "name": "بيت عمة دعاء أبو عنتر أبو تمام",
+                  "text": "Diese Attraktion befindet sich in Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.026562,
+                        32.316764
+                  ]
+            },
+            {
+                  "name": "دوار الجعرون",
+                  "text": "Dieser Aussichtspunkt liegt in Tulkarm.",
+                  "category": "natural",
+                  "coords": [
+                        35.029744,
+                        32.326936
+                  ]
+            },
+            {
+                  "name": "ايمن الفار",
+                  "text": "Dieses Denkmal ist in Tulkarm zu finden.",
+                  "category": "historical",
+                  "coords": [
+                        35.026298,
+                        32.304876
+                  ]
+            },
+            {
+                  "name": "شويكة كراج تجليس+محمود",
+                  "text": "Diese Attraktion befindet sich in Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.030042,
+                        32.327928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mega Land",
+                  "text": "A Mega Land egy vidámpark Tulkarm területén.",
+                  "category": "recreational",
+                  "coords": [
+                        35.029461,
+                        32.321942
+                  ]
+            },
+            {
+                  "name": "Tulkarm",
+                  "text": "Tulkarm múzeuma a régió történelmi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.028294,
+                        32.313887
+                  ]
+            },
+            {
+                  "name": "منتزه ومسابح الواحة",
+                  "text": "Az Al Waha Park egy szabadtéri látványosság Tulkarmban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.036549,
+                        32.293899
+                  ]
+            },
+            {
+                  "name": "منتزه طولكرم",
+                  "text": "A tulkarm park egy közpark és látványosság Tulkarm területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.024282,
+                        32.309797
+                  ]
+            },
+            {
+                  "name": "بيت عمة دعاء أبو عنتر أبو تمام",
+                  "text": "Ez a látványosság Tulkarm városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.026562,
+                        32.316764
+                  ]
+            },
+            {
+                  "name": "دوار الجعرون",
+                  "text": "Ez a kilátó Tulkarm városában található.",
+                  "category": "natural",
+                  "coords": [
+                        35.029744,
+                        32.326936
+                  ]
+            },
+            {
+                  "name": "ايمن الفار",
+                  "text": "Ez az emlékmű Tulkarm városában található.",
+                  "category": "historical",
+                  "coords": [
+                        35.026298,
+                        32.304876
+                  ]
+            },
+            {
+                  "name": "شويكة كراج تجليس+محمود",
+                  "text": "Ez a látványosság Tulkarm városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.030042,
+                        32.327928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mega Land",
+                  "text": "Mega Land este un parc de distracții din Tulkarm.",
+                  "category": "recreational",
+                  "coords": [
+                        35.029461,
+                        32.321942
+                  ]
+            },
+            {
+                  "name": "Tulkarm",
+                  "text": "Tulkarm deține un muzeu care prezintă artefacte istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        35.028294,
+                        32.313887
+                  ]
+            },
+            {
+                  "name": "منتزه ومسابح الواحة",
+                  "text": "Al Waha Park este o atracție în aer liber din Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.036549,
+                        32.293899
+                  ]
+            },
+            {
+                  "name": "منتزه طولكرم",
+                  "text": "Tulkarm park este un parc și o atracție publică situată în Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.024282,
+                        32.309797
+                  ]
+            },
+            {
+                  "name": "بيت عمة دعاء أبو عنتر أبو تمام",
+                  "text": "Această atracție este situată în Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.026562,
+                        32.316764
+                  ]
+            },
+            {
+                  "name": "دوار الجعرون",
+                  "text": "Acest punct de belvedere se află în Tulkarm.",
+                  "category": "natural",
+                  "coords": [
+                        35.029744,
+                        32.326936
+                  ]
+            },
+            {
+                  "name": "ايمن الفار",
+                  "text": "Acest monument este situat în Tulkarm.",
+                  "category": "historical",
+                  "coords": [
+                        35.026298,
+                        32.304876
+                  ]
+            },
+            {
+                  "name": "شويكة كراج تجليس+محمود",
+                  "text": "Această atracție este situată în Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.030042,
+                        32.327928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mega Land",
+                  "text": "Mega Land is a popular theme park offering amusement rides in Tulkarm.",
+                  "category": "recreational",
+                  "coords": [
+                        35.029461,
+                        32.321942
+                  ]
+            },
+            {
+                  "name": "Tulkarm",
+                  "text": "Tulkarm features a local museum exhibiting historical artifacts of the region.",
+                  "category": "museum",
+                  "coords": [
+                        35.028294,
+                        32.313887
+                  ]
+            },
+            {
+                  "name": "Al Waha Park",
+                  "text": "Al Waha Park is an outdoor attraction located in Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.036549,
+                        32.293899
+                  ]
+            },
+            {
+                  "name": "tulkarm park",
+                  "text": "The tulkarm park is a public attraction and recreation area in Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.024282,
+                        32.309797
+                  ]
+            },
+            {
+                  "name": "بيت عمة دعاء أبو عنتر أبو تمام",
+                  "text": "This attraction is located in Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.026562,
+                        32.316764
+                  ]
+            },
+            {
+                  "name": "Al Jaroun Cycle",
+                  "text": "This viewpoint is situated in Tulkarm.",
+                  "category": "natural",
+                  "coords": [
+                        35.029744,
+                        32.326936
+                  ]
+            },
+            {
+                  "name": "ayman alfar",
+                  "text": "This monument can be found in Tulkarm.",
+                  "category": "historical",
+                  "coords": [
+                        35.026298,
+                        32.304876
+                  ]
+            },
+            {
+                  "name": "شويكة كراج تجليس+محمود",
+                  "text": "This attraction is located in Tulkarm.",
+                  "category": "landmark",
+                  "coords": [
+                        35.030042,
+                        32.327928
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "city",
     name: { de: "Tulkarm", hu: "Tulkarm", ro: "Tulkarm", en: "Tulkarm" },
@@ -363,7 +7086,556 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-tulkarm-cities-v2.webp",
   },
   {
-    id: "palestine-qalqilya-cities-v2",
+    id: "palestine-qalqilya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "صالة سرايا السلطان قلقيلية",
+                  "text": "صالة سرايا السلطان قلقيلية ist ein Schloss in Qalqilya.",
+                  "category": "castle",
+                  "coords": [
+                        34.961689,
+                        32.178813
+                  ]
+            },
+            {
+                  "name": "חורבת אבריכה",
+                  "text": "Khirbet Ibreika ist eine archäologische Stätte in Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.957962,
+                        32.199771
+                  ]
+            },
+            {
+                  "name": "widding al qaseer",
+                  "text": "widding al qaseer ist ein Theater in Qalqilya.",
+                  "category": "cultural",
+                  "coords": [
+                        34.979868,
+                        32.191228
+                  ]
+            },
+            {
+                  "name": "Meshek Haotzar",
+                  "text": "Meshek Haotzar ist ein verfallenes historisches landwirtschaftliches Gut in Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.94658,
+                        32.186761
+                  ]
+            },
+            {
+                  "name": "Qalqilya Safari",
+                  "text": "Qalqilya Safari ist ein Park in Qalqilya, der als einziger städtischer Zoo in den palästinensischen Gebieten bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        34.970631,
+                        32.195369
+                  ]
+            },
+            {
+                  "name": "Social Center For Youth Rehabilitation",
+                  "text": "Social Center For Youth Rehabilitation ist ein Kunstzentrum in Qalqilya.",
+                  "category": "cultural",
+                  "coords": [
+                        34.968812,
+                        32.195436
+                  ]
+            },
+            {
+                  "name": "Qalqilia Islamic Center",
+                  "text": "Qalqilia Islamic Center ist ein Kunstzentrum in Qalqilya.",
+                  "category": "cultural",
+                  "coords": [
+                        34.967872,
+                        32.189776
+                  ]
+            },
+            {
+                  "name": "معبر ايال",
+                  "text": "معبر ايال ist ein Aussichtspunkt in Qalqilya.",
+                  "category": "natural",
+                  "coords": [
+                        34.971442,
+                        32.199812
+                  ]
+            },
+            {
+                  "name": "دوار الشيماء",
+                  "text": "Shaimaa Roundabout ist ein Denkmal in Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.967311,
+                        32.187621
+                  ]
+            },
+            {
+                  "name": "قعدة اسيد",
+                  "text": "Osayd ist eine Sehenswürdigkeit in Qalqilya.",
+                  "category": "landmark",
+                  "coords": [
+                        34.966039,
+                        32.198836
+                  ]
+            },
+            {
+                  "name": "عمارة الزيتونة 1",
+                  "text": "عمارة الزيتونة 1 ist eine Sehenswürdigkeit in Qalqilya.",
+                  "category": "landmark",
+                  "coords": [
+                        34.974175,
+                        32.196135
+                  ]
+            },
+            {
+                  "name": "يوسي خلف",
+                  "text": "يوسي خلف ist ein Denkmal in Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.96249,
+                        32.188695
+                  ]
+            },
+            {
+                  "name": "מתחם באר מים לקטרי הרכבת הטורקית",
+                  "text": "מתחם באר מים לקטרי הרכבת הטורקית sind Ruinen in Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.946945,
+                        32.179722
+                  ]
+            },
+            {
+                  "name": "سبوت لاند",
+                  "text": "spot land ist ein Aussichtspunkt in Qalqilya.",
+                  "category": "natural",
+                  "coords": [
+                        34.983191,
+                        32.190744
+                  ]
+            },
+            {
+                  "name": "Ecological park",
+                  "text": "Ecological park ist eine Sehenswürdigkeit in Qalqilya.",
+                  "category": "landmark",
+                  "coords": [
+                        34.945649,
+                        32.184235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "صالة سرايا السلطان قلقيلية",
+                  "text": "A(z) صالة سرايا السلطان قلقيلية egy kastély Qalqilya városában.",
+                  "category": "castle",
+                  "coords": [
+                        34.961689,
+                        32.178813
+                  ]
+            },
+            {
+                  "name": "חורבת אבריכה",
+                  "text": "A(z) Khirbet Ibreika egy régészeti lelőhely Qalqilya városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.957962,
+                        32.199771
+                  ]
+            },
+            {
+                  "name": "widding al qaseer",
+                  "text": "A(z) widding al qaseer egy színház Qalqilya városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.979868,
+                        32.191228
+                  ]
+            },
+            {
+                  "name": "Meshek Haotzar",
+                  "text": "A Meshek Haotzar egy romos történelmi mezőgazdasági birtok Qalqilya városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.94658,
+                        32.186761
+                  ]
+            },
+            {
+                  "name": "Qalqilya Safari",
+                  "text": "A Qalqilya Safari egy park Qalqilya városában, amely a Palesztin Területek egyetlen városi állatkertjeként ismert.",
+                  "category": "park",
+                  "coords": [
+                        34.970631,
+                        32.195369
+                  ]
+            },
+            {
+                  "name": "Social Center For Youth Rehabilitation",
+                  "text": "A(z) Social Center For Youth Rehabilitation egy művészeti központ Qalqilya városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.968812,
+                        32.195436
+                  ]
+            },
+            {
+                  "name": "Qalqilia Islamic Center",
+                  "text": "A(z) Qalqilia Islamic Center egy művészeti központ Qalqilya városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.967872,
+                        32.189776
+                  ]
+            },
+            {
+                  "name": "معبر ايال",
+                  "text": "A(z) معبر ايال egy kilátópont Qalqilya városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.971442,
+                        32.199812
+                  ]
+            },
+            {
+                  "name": "دوار الشيماء",
+                  "text": "A(z) Shaima Roundabout egy emlékmű Qalqilya városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.967311,
+                        32.187621
+                  ]
+            },
+            {
+                  "name": "قعدة اسيد",
+                  "text": "A(z) Osayd egy látványosság Qalqilya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.966039,
+                        32.198836
+                  ]
+            },
+            {
+                  "name": "عمارة الزيتونة 1",
+                  "text": "A(z) عمارة الزيتونة 1 egy látványosság Qalqilya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.974175,
+                        32.196135
+                  ]
+            },
+            {
+                  "name": "يوسي خلف",
+                  "text": "A(z) يوسي خلف egy emlékmű Qalqilya városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.96249,
+                        32.188695
+                  ]
+            },
+            {
+                  "name": "מתחם באר מים לקטרי הרכבת הטורקית",
+                  "text": "A(z) מתחם באר מים לקטרי הרכבת הטורקית romok Qalqilya városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.946945,
+                        32.179722
+                  ]
+            },
+            {
+                  "name": "سبوت لاند",
+                  "text": "A(z) spot land egy kilátópont Qalqilya városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.983191,
+                        32.190744
+                  ]
+            },
+            {
+                  "name": "Ecological park",
+                  "text": "A(z) Ecological park egy látványosság Qalqilya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.945649,
+                        32.184235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "صالة سرايا السلطان قلقيلية",
+                  "text": "صالة سرايا السلطان قلقيلية este un castel din Qalqilya.",
+                  "category": "castle",
+                  "coords": [
+                        34.961689,
+                        32.178813
+                  ]
+            },
+            {
+                  "name": "חורבת אבריכה",
+                  "text": "Khirbet Ibreika este un sit arheologic din Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.957962,
+                        32.199771
+                  ]
+            },
+            {
+                  "name": "widding al qaseer",
+                  "text": "widding al qaseer este un teatru din Qalqilya.",
+                  "category": "cultural",
+                  "coords": [
+                        34.979868,
+                        32.191228
+                  ]
+            },
+            {
+                  "name": "Meshek Haotzar",
+                  "text": "Meshek Haotzar este un domeniu agricol istoric în ruină din Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.94658,
+                        32.186761
+                  ]
+            },
+            {
+                  "name": "Qalqilya Safari",
+                  "text": "Qalqilya Safari este un parc din Qalqilya, recunoscut drept singura grădină zoologică municipală din teritoriile palestiniene.",
+                  "category": "park",
+                  "coords": [
+                        34.970631,
+                        32.195369
+                  ]
+            },
+            {
+                  "name": "Social Center For Youth Rehabilitation",
+                  "text": "Social Center For Youth Rehabilitation este un centru de artă din Qalqilya.",
+                  "category": "cultural",
+                  "coords": [
+                        34.968812,
+                        32.195436
+                  ]
+            },
+            {
+                  "name": "Qalqilia Islamic Center",
+                  "text": "Qalqilia Islamic Center este un centru de artă din Qalqilya.",
+                  "category": "cultural",
+                  "coords": [
+                        34.967872,
+                        32.189776
+                  ]
+            },
+            {
+                  "name": "معبر ايال",
+                  "text": "معبر ايال este un punct de belvedere din Qalqilya.",
+                  "category": "natural",
+                  "coords": [
+                        34.971442,
+                        32.199812
+                  ]
+            },
+            {
+                  "name": "دوار الشيماء",
+                  "text": "Shaimaa Roundabout este un monument din Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.967311,
+                        32.187621
+                  ]
+            },
+            {
+                  "name": "قعدة اسيد",
+                  "text": "Osayd este o atracție turistică din Qalqilya.",
+                  "category": "landmark",
+                  "coords": [
+                        34.966039,
+                        32.198836
+                  ]
+            },
+            {
+                  "name": "عمارة الزيتونة 1",
+                  "text": "عمارة الزيتونة 1 este o atracție turistică din Qalqilya.",
+                  "category": "landmark",
+                  "coords": [
+                        34.974175,
+                        32.196135
+                  ]
+            },
+            {
+                  "name": "يوسي خلف",
+                  "text": "يوسي خلف este un monument din Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.96249,
+                        32.188695
+                  ]
+            },
+            {
+                  "name": "מתחם באר מים לקטרי הרכבת הטורקית",
+                  "text": "מתחם באר מים לקטרי הרכבת הטורקית reprezintă ruine aflate în Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.946945,
+                        32.179722
+                  ]
+            },
+            {
+                  "name": "سبوت لاند",
+                  "text": "spot land este un punct de belvedere din Qalqilya.",
+                  "category": "natural",
+                  "coords": [
+                        34.983191,
+                        32.190744
+                  ]
+            },
+            {
+                  "name": "Ecological park",
+                  "text": "Ecological park este o atracție turistică din Qalqilya.",
+                  "category": "landmark",
+                  "coords": [
+                        34.945649,
+                        32.184235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "صالة سرايا السلطان قلقيلية",
+                  "text": "صالة سرايا السلطان قلقيلية is a castle located in Qalqilya.",
+                  "category": "castle",
+                  "coords": [
+                        34.961689,
+                        32.178813
+                  ]
+            },
+            {
+                  "name": "Khirbet Ibreika",
+                  "text": "Khirbet Ibreika is an archaeological site located in Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.957962,
+                        32.199771
+                  ]
+            },
+            {
+                  "name": "widding al qaseer",
+                  "text": "widding al qaseer is a theatre located in Qalqilya.",
+                  "category": "cultural",
+                  "coords": [
+                        34.979868,
+                        32.191228
+                  ]
+            },
+            {
+                  "name": "Meshek Haotzar",
+                  "text": "Meshek Haotzar is a ruined historic agricultural estate located in Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.94658,
+                        32.186761
+                  ]
+            },
+            {
+                  "name": "Qalqilya Safari",
+                  "text": "Qalqilya Safari is a park in Qalqilya, known as the only municipal zoo in the Palestinian territories.",
+                  "category": "park",
+                  "coords": [
+                        34.970631,
+                        32.195369
+                  ]
+            },
+            {
+                  "name": "Social Center For Youth Rehabilitation",
+                  "text": "Social Center For Youth Rehabilitation is an arts centre located in Qalqilya.",
+                  "category": "cultural",
+                  "coords": [
+                        34.968812,
+                        32.195436
+                  ]
+            },
+            {
+                  "name": "Qalqilia Islamic Center",
+                  "text": "Qalqilia Islamic Center is an arts centre located in Qalqilya.",
+                  "category": "cultural",
+                  "coords": [
+                        34.967872,
+                        32.189776
+                  ]
+            },
+            {
+                  "name": "معبر ايال",
+                  "text": "معبر ايال is a viewpoint located in Qalqilya.",
+                  "category": "natural",
+                  "coords": [
+                        34.971442,
+                        32.199812
+                  ]
+            },
+            {
+                  "name": "Shaimaa Roundabout",
+                  "text": "Shaimaa Roundabout is a monument located in Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.967311,
+                        32.187621
+                  ]
+            },
+            {
+                  "name": "Osayd",
+                  "text": "Osayd is an attraction located in Qalqilya.",
+                  "category": "landmark",
+                  "coords": [
+                        34.966039,
+                        32.198836
+                  ]
+            },
+            {
+                  "name": "عمارة الزيتونة 1",
+                  "text": "عمارة الزيتونة 1 is an attraction located in Qalqilya.",
+                  "category": "landmark",
+                  "coords": [
+                        34.974175,
+                        32.196135
+                  ]
+            },
+            {
+                  "name": "يوسي خلف",
+                  "text": "يوسي خلف is a monument located in Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.96249,
+                        32.188695
+                  ]
+            },
+            {
+                  "name": "מתחם באר מים לקטרי הרכבת הטורקית",
+                  "text": "מתחם באר מים לקטרי הרכבת הטורקית are ruins located in Qalqilya.",
+                  "category": "historical",
+                  "coords": [
+                        34.946945,
+                        32.179722
+                  ]
+            },
+            {
+                  "name": "spot land",
+                  "text": "spot land is a viewpoint located in Qalqilya.",
+                  "category": "natural",
+                  "coords": [
+                        34.983191,
+                        32.190744
+                  ]
+            },
+            {
+                  "name": "Ecological park",
+                  "text": "Ecological park is an attraction located in Qalqilya.",
+                  "category": "landmark",
+                  "coords": [
+                        34.945649,
+                        32.184235
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "city",
     name: { de: "Qalqilya", hu: "Kalkilja", ro: "Qalqilya", en: "Qalqilya" },
@@ -453,7 +7725,736 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-jenin-cities-v2.webp",
   },
   {
-    id: "palestine-beit-hanoun-cities-v2",
+    id: "palestine-beit-hanoun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ניסנית",
+                  "text": "Diese Ruinen sind die Überreste einer ehemaligen israelischen Siedlung in der Nähe von Beit Hanun.",
+                  "category": "historical",
+                  "coords": [
+                        34.531582,
+                        31.562235
+                  ]
+            },
+            {
+                  "name": "شارع البنات",
+                  "text": "Dieser Aussichtspunkt befindet sich in Beit Hanun.",
+                  "category": "natural",
+                  "coords": [
+                        34.527061,
+                        31.533583
+                  ]
+            },
+            {
+                  "name": "شارع زمو بيت حانون",
+                  "text": "Dieser Aussichtspunkt befindet sich in Beit Hanun.",
+                  "category": "natural",
+                  "coords": [
+                        34.533436,
+                        31.53362
+                  ]
+            },
+            {
+                  "name": "وليد عدوان",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53341,
+                        31.544268
+                  ]
+            },
+            {
+                  "name": "ابو شريف العثامنة",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.536164,
+                        31.544257
+                  ]
+            },
+            {
+                  "name": "دكتور فايز ابو عمشة",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.537976,
+                        31.530403
+                  ]
+            },
+            {
+                  "name": "جمال حمد",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.534997,
+                        31.54282
+                  ]
+            },
+            {
+                  "name": "ابو العبد العفيفي",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.531136,
+                        31.528634
+                  ]
+            },
+            {
+                  "name": "Rami Odeh",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.543123,
+                        31.533504
+                  ]
+            },
+            {
+                  "name": "ابو خالد نصير",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.539051,
+                        31.542258
+                  ]
+            },
+            {
+                  "name": "معروف ابو عودة",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.533778,
+                        31.547357
+                  ]
+            },
+            {
+                  "name": "مسجد صلاح شحادة",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.526316,
+                        31.537438
+                  ]
+            },
+            {
+                  "name": "ابو خليل نعيم",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53577,
+                        31.531951
+                  ]
+            },
+            {
+                  "name": "ابو بلال طربوش",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53431,
+                        31.525942
+                  ]
+            },
+            {
+                  "name": "علي العثامنة",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.534346,
+                        31.546109
+                  ]
+            },
+            {
+                  "name": "منتزة المنتشية",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.510586,
+                        31.545601
+                  ]
+            },
+            {
+                  "name": "بيت الليبو",
+                  "text": "Diese Attraktion befindet sich in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.540985,
+                        31.534243
+                  ]
+            },
+            {
+                  "name": "صالة النخيل للأفراح و المناسبات",
+                  "text": "Dieser Aussichtspunkt befindet sich in Beit Hanun.",
+                  "category": "natural",
+                  "coords": [
+                        34.507018,
+                        31.537104
+                  ]
+            },
+            {
+                  "name": "المستشفى الميداني الأمريكي \"Friend-Ships\"",
+                  "text": "Diese Ruinen befinden sich in Beit Hanun.",
+                  "category": "historical",
+                  "coords": [
+                        34.538761,
+                        31.557502
+                  ]
+            },
+            {
+                  "name": "مسجد النصر",
+                  "text": "Diese Kultstätte befindet sich in Beit Hanun.",
+                  "category": "religious",
+                  "coords": [
+                        34.538562,
+                        31.540737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ניסנית",
+                  "text": "Ezek a romok egy egykori izraeli település maradványai Beit Hanun közelében.",
+                  "category": "historical",
+                  "coords": [
+                        34.531582,
+                        31.562235
+                  ]
+            },
+            {
+                  "name": "شارع البنات",
+                  "text": "Ez a kilátó Beit Hanun városában található.",
+                  "category": "natural",
+                  "coords": [
+                        34.527061,
+                        31.533583
+                  ]
+            },
+            {
+                  "name": "شارع زمو بيت حانون",
+                  "text": "Ez a kilátó Beit Hanun városában található.",
+                  "category": "natural",
+                  "coords": [
+                        34.533436,
+                        31.53362
+                  ]
+            },
+            {
+                  "name": "وليد عدوان",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53341,
+                        31.544268
+                  ]
+            },
+            {
+                  "name": "ابو شريف العثامنة",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.536164,
+                        31.544257
+                  ]
+            },
+            {
+                  "name": "دكتور فايز ابو عمشة",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.537976,
+                        31.530403
+                  ]
+            },
+            {
+                  "name": "جمال حمد",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.534997,
+                        31.54282
+                  ]
+            },
+            {
+                  "name": "ابو العبد العفيفي",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.531136,
+                        31.528634
+                  ]
+            },
+            {
+                  "name": "رامي عودة",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.543123,
+                        31.533504
+                  ]
+            },
+            {
+                  "name": "ابو خالد نصير",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.539051,
+                        31.542258
+                  ]
+            },
+            {
+                  "name": "معروف ابو عودة",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.533778,
+                        31.547357
+                  ]
+            },
+            {
+                  "name": "مسجد صلاح شحادة",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.526316,
+                        31.537438
+                  ]
+            },
+            {
+                  "name": "ابو خليل نعيم",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53577,
+                        31.531951
+                  ]
+            },
+            {
+                  "name": "ابو بلال طربوش",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53431,
+                        31.525942
+                  ]
+            },
+            {
+                  "name": "علي العثامنة",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.534346,
+                        31.546109
+                  ]
+            },
+            {
+                  "name": "منتزة المنتشية",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.510586,
+                        31.545601
+                  ]
+            },
+            {
+                  "name": "بيت الليبو",
+                  "text": "Ez a látványosság Beit Hanun városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        34.540985,
+                        31.534243
+                  ]
+            },
+            {
+                  "name": "صالة النخيل للأفراح و المناسبات",
+                  "text": "Ez a kilátó Beit Hanun városában található.",
+                  "category": "natural",
+                  "coords": [
+                        34.507018,
+                        31.537104
+                  ]
+            },
+            {
+                  "name": "المستشفى الميداني الأمريكي \"Friend-Ships\"",
+                  "text": "Ezek a romok Beit Hanun városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        34.538761,
+                        31.557502
+                  ]
+            },
+            {
+                  "name": "مسجد النصر",
+                  "text": "Ez az istentiszteleti hely Beit Hanun városában található.",
+                  "category": "religious",
+                  "coords": [
+                        34.538562,
+                        31.540737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ניסנית",
+                  "text": "Aceste ruine sunt rămășițele unei foste așezări israeliene de lângă Beit Hanun.",
+                  "category": "historical",
+                  "coords": [
+                        34.531582,
+                        31.562235
+                  ]
+            },
+            {
+                  "name": "شارع البنات",
+                  "text": "Acest punct de belvedere este situat în Beit Hanun.",
+                  "category": "natural",
+                  "coords": [
+                        34.527061,
+                        31.533583
+                  ]
+            },
+            {
+                  "name": "شارع زمو بيت حانون",
+                  "text": "Acest punct de belvedere este situat în Beit Hanun.",
+                  "category": "natural",
+                  "coords": [
+                        34.533436,
+                        31.53362
+                  ]
+            },
+            {
+                  "name": "وليد عدوان",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53341,
+                        31.544268
+                  ]
+            },
+            {
+                  "name": "ابو شريف العثامنة",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.536164,
+                        31.544257
+                  ]
+            },
+            {
+                  "name": "دكتور فايز ابو عمشة",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.537976,
+                        31.530403
+                  ]
+            },
+            {
+                  "name": "جمال حمد",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.534997,
+                        31.54282
+                  ]
+            },
+            {
+                  "name": "ابو العبد العفيفي",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.531136,
+                        31.528634
+                  ]
+            },
+            {
+                  "name": "رامي عودة",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.543123,
+                        31.533504
+                  ]
+            },
+            {
+                  "name": "ابو خالد نصير",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.539051,
+                        31.542258
+                  ]
+            },
+            {
+                  "name": "معروف ابو عودة",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.533778,
+                        31.547357
+                  ]
+            },
+            {
+                  "name": "مسجد صلاح شحادة",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.526316,
+                        31.537438
+                  ]
+            },
+            {
+                  "name": "ابو خليل نعيم",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53577,
+                        31.531951
+                  ]
+            },
+            {
+                  "name": "ابو بلال طربوش",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53431,
+                        31.525942
+                  ]
+            },
+            {
+                  "name": "علي العثامنة",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.534346,
+                        31.546109
+                  ]
+            },
+            {
+                  "name": "منتزة المنتشية",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.510586,
+                        31.545601
+                  ]
+            },
+            {
+                  "name": "بيت الليبو",
+                  "text": "Această atracție este situată în Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.540985,
+                        31.534243
+                  ]
+            },
+            {
+                  "name": "صالة النخيل للأفراح و المناسبات",
+                  "text": "Acest punct de belvedere este situat în Beit Hanun.",
+                  "category": "natural",
+                  "coords": [
+                        34.507018,
+                        31.537104
+                  ]
+            },
+            {
+                  "name": "المستشفى الميداني الأمريكي \"Friend-Ships\"",
+                  "text": "Aceste ruine se află în Beit Hanun.",
+                  "category": "historical",
+                  "coords": [
+                        34.538761,
+                        31.557502
+                  ]
+            },
+            {
+                  "name": "مسجد النصر",
+                  "text": "Acest lăcaș de cult este situat în Beit Hanun.",
+                  "category": "religious",
+                  "coords": [
+                        34.538562,
+                        31.540737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nisanit",
+                  "text": "These ruins are the remains of a former Israeli settlement located near Beit Hanun.",
+                  "category": "historical",
+                  "coords": [
+                        34.531582,
+                        31.562235
+                  ]
+            },
+            {
+                  "name": "شارع البنات",
+                  "text": "This viewpoint is located in Beit Hanun.",
+                  "category": "natural",
+                  "coords": [
+                        34.527061,
+                        31.533583
+                  ]
+            },
+            {
+                  "name": "شارع زمو بيت حانون",
+                  "text": "This viewpoint is located in Beit Hanun.",
+                  "category": "natural",
+                  "coords": [
+                        34.533436,
+                        31.53362
+                  ]
+            },
+            {
+                  "name": "وليد عدوان",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53341,
+                        31.544268
+                  ]
+            },
+            {
+                  "name": "ابو شريف العثامنة",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.536164,
+                        31.544257
+                  ]
+            },
+            {
+                  "name": "دكتور فايز ابو عمشة",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.537976,
+                        31.530403
+                  ]
+            },
+            {
+                  "name": "جمال حمد",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.534997,
+                        31.54282
+                  ]
+            },
+            {
+                  "name": "ابو العبد العفيفي",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.531136,
+                        31.528634
+                  ]
+            },
+            {
+                  "name": "Rami Odeh",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.543123,
+                        31.533504
+                  ]
+            },
+            {
+                  "name": "ابو خالد نصير",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.539051,
+                        31.542258
+                  ]
+            },
+            {
+                  "name": "معروف ابو عودة",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.533778,
+                        31.547357
+                  ]
+            },
+            {
+                  "name": "مسجد صلاح شحادة",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.526316,
+                        31.537438
+                  ]
+            },
+            {
+                  "name": "ابو خليل نعيم",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53577,
+                        31.531951
+                  ]
+            },
+            {
+                  "name": "ابو بلال طربوش",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.53431,
+                        31.525942
+                  ]
+            },
+            {
+                  "name": "علي العثامنة",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.534346,
+                        31.546109
+                  ]
+            },
+            {
+                  "name": "منتزة المنتشية",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.510586,
+                        31.545601
+                  ]
+            },
+            {
+                  "name": "بيت الليبو",
+                  "text": "This attraction is situated in Beit Hanun.",
+                  "category": "landmark",
+                  "coords": [
+                        34.540985,
+                        31.534243
+                  ]
+            },
+            {
+                  "name": "Al Nakheel Hall for Weddings",
+                  "text": "This viewpoint is located in Beit Hanun.",
+                  "category": "natural",
+                  "coords": [
+                        34.507018,
+                        31.537104
+                  ]
+            },
+            {
+                  "name": "\"Friend-Ships\" American Field Hospital",
+                  "text": "These ruins are located in Beit Hanun.",
+                  "category": "historical",
+                  "coords": [
+                        34.538761,
+                        31.557502
+                  ]
+            },
+            {
+                  "name": "Nasr Mosque",
+                  "text": "This place of worship is located in Beit Hanun.",
+                  "category": "religious",
+                  "coords": [
+                        34.538562,
+                        31.540737
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Beit Hanun", hu: "Bét Hanún", ro: "Beit Hanoun", en: "Beit Hanoun" },
@@ -678,7 +8679,736 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-beit-jala-cities-v2.webp",
   },
   {
-    id: "palestine-beit-sahour-cities-v2",
+    id: "palestine-beit-sahour-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف بد جقمان‎‎",
+                  "text": "Museum für Olivenölherstellung in Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.203642,
+                        31.706015
+                  ]
+            },
+            {
+                  "name": "متحف فلسطين للتاريخ الطبيعي",
+                  "text": "Naturkundemuseum in Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.20541,
+                        31.717861
+                  ]
+            },
+            {
+                  "name": "مركز بيت ساحور للتواصل الإجتماعي",
+                  "text": "Gemeindemuseum in Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.217306,
+                        31.703733
+                  ]
+            },
+            {
+                  "name": "PalGPS Company الشركة الفلسطينية للملاحة",
+                  "text": "Leuchtturm in Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220274,
+                        31.707106
+                  ]
+            },
+            {
+                  "name": "مسرح مدرسة تراسنطا",
+                  "text": "Theater in Beit Sahur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.207632,
+                        31.705624
+                  ]
+            },
+            {
+                  "name": "متحف بيتنا التلحمي",
+                  "text": "Museum in Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.205056,
+                        31.704825
+                  ]
+            },
+            {
+                  "name": "جمعية نعم للاطفال (مسرح مستر اوكي)",
+                  "text": "Kindertheater in Beit Sahur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.231597,
+                        31.699411
+                  ]
+            },
+            {
+                  "name": "قاعة رويال للأفراح",
+                  "text": "Theater in Beit Sahur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222397,
+                        31.706591
+                  ]
+            },
+            {
+                  "name": "Hirtenfeld",
+                  "text": "Archäologische Stätte bei Beit Sahur.",
+                  "category": "historical",
+                  "coords": [
+                        35.229541,
+                        31.707303
+                  ]
+            },
+            {
+                  "name": "كهف المهد",
+                  "text": "Höhleneingang in Beit Sahur.",
+                  "category": "natural",
+                  "coords": [
+                        35.207672,
+                        31.704351
+                  ]
+            },
+            {
+                  "name": "جامع عمر بن الخطاب",
+                  "text": "Denkmal in Beit Sahur.",
+                  "category": "historical",
+                  "coords": [
+                        35.219411,
+                        31.703151
+                  ]
+            },
+            {
+                  "name": "الرعاة للتحف (سنتواري منولي)",
+                  "text": "Attraktion in Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.228028,
+                        31.707113
+                  ]
+            },
+            {
+                  "name": "بيت جرجس",
+                  "text": "Attraktion in Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220749,
+                        31.702005
+                  ]
+            },
+            {
+                  "name": "مكان التواسول",
+                  "text": "Attraktion in Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205445,
+                        31.710036
+                  ]
+            },
+            {
+                  "name": "مخيم بيت جبرين للاجئين",
+                  "text": "Aussichtspunkt bei Beit Sahur.",
+                  "category": "natural",
+                  "coords": [
+                        35.201842,
+                        31.716014
+                  ]
+            },
+            {
+                  "name": "ג'בל אבו ע'ניים",
+                  "text": "Ruinen in Beit Sahur.",
+                  "category": "historical",
+                  "coords": [
+                        35.22123,
+                        31.725649
+                  ]
+            },
+            {
+                  "name": "دير راهبات الكرمل",
+                  "text": "Kloster in Beit Sahur.",
+                  "category": "religious",
+                  "coords": [
+                        35.19942,
+                        31.704394
+                  ]
+            },
+            {
+                  "name": "كنيسة العذراء مريم",
+                  "text": "Kirche in Beit Sahur.",
+                  "category": "religious",
+                  "coords": [
+                        35.2041,
+                        31.70496
+                  ]
+            },
+            {
+                  "name": "Kapelle der Milchgrotte",
+                  "text": "Kapelle in Beit Sahur.",
+                  "category": "religious",
+                  "coords": [
+                        35.208755,
+                        31.703253
+                  ]
+            },
+            {
+                  "name": "Golden Park Resort",
+                  "text": "Hotel in Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.226748,
+                        31.70564
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف بد جقمان‎‎",
+                  "text": "Olívaolaj-készítő múzeum Beit Sahurban.",
+                  "category": "museum",
+                  "coords": [
+                        35.203642,
+                        31.706015
+                  ]
+            },
+            {
+                  "name": "متحف فلسطين للتاريخ الطبيعي",
+                  "text": "Természettudományi múzeum Beit Sahurban.",
+                  "category": "museum",
+                  "coords": [
+                        35.20541,
+                        31.717861
+                  ]
+            },
+            {
+                  "name": "مركز بيت ساحور للتواصل الإجتماعي",
+                  "text": "Közösségi múzeum Beit Sahurban.",
+                  "category": "museum",
+                  "coords": [
+                        35.217306,
+                        31.703733
+                  ]
+            },
+            {
+                  "name": "PalGPS Company الشركة الفلسطينية للملاحة",
+                  "text": "Világítótorony Beit Sahurban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220274,
+                        31.707106
+                  ]
+            },
+            {
+                  "name": "مسرح مدرسة تراسنطا",
+                  "text": "Színház Beit Sahurban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.207632,
+                        31.705624
+                  ]
+            },
+            {
+                  "name": "متحف بيتنا التلحمي",
+                  "text": "Múzeum Beit Sahurban.",
+                  "category": "museum",
+                  "coords": [
+                        35.205056,
+                        31.704825
+                  ]
+            },
+            {
+                  "name": "جمعية نعم للاطفال (مسرح مستر اوكي)",
+                  "text": "Gyermekszínház Beit Sahurban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.231597,
+                        31.699411
+                  ]
+            },
+            {
+                  "name": "قاعة رويال للأفراح",
+                  "text": "Színház Beit Sahurban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222397,
+                        31.706591
+                  ]
+            },
+            {
+                  "name": "دير الرعاة",
+                  "text": "Régészeti lelőhely Beit Sahur közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.229541,
+                        31.707303
+                  ]
+            },
+            {
+                  "name": "كهف المهد",
+                  "text": "Barlangbejárat Beit Sahurban.",
+                  "category": "natural",
+                  "coords": [
+                        35.207672,
+                        31.704351
+                  ]
+            },
+            {
+                  "name": "جامع عمر بن الخطاب",
+                  "text": "Emlékmű Beit Sahurban.",
+                  "category": "historical",
+                  "coords": [
+                        35.219411,
+                        31.703151
+                  ]
+            },
+            {
+                  "name": "الرعاة للتحف (سنتواري منولي)",
+                  "text": "Látnivaló Beit Sahurban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.228028,
+                        31.707113
+                  ]
+            },
+            {
+                  "name": "بيت جرجس",
+                  "text": "Látnivaló Beit Sahurban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220749,
+                        31.702005
+                  ]
+            },
+            {
+                  "name": "مكان التواسول",
+                  "text": "Látnivaló Beit Sahurban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205445,
+                        31.710036
+                  ]
+            },
+            {
+                  "name": "مخيم بيت جبرين للاجئين",
+                  "text": "Kilátó Beit Sahur közelében.",
+                  "category": "natural",
+                  "coords": [
+                        35.201842,
+                        31.716014
+                  ]
+            },
+            {
+                  "name": "ג'בל אבו ע'ניים",
+                  "text": "Romok Beit Sahurban.",
+                  "category": "historical",
+                  "coords": [
+                        35.22123,
+                        31.725649
+                  ]
+            },
+            {
+                  "name": "دير راهبات الكرمل",
+                  "text": "Kolostor Beit Sahurban.",
+                  "category": "religious",
+                  "coords": [
+                        35.19942,
+                        31.704394
+                  ]
+            },
+            {
+                  "name": "كنيسة العذراء مريم",
+                  "text": "Templom Beit Sahurban.",
+                  "category": "religious",
+                  "coords": [
+                        35.2041,
+                        31.70496
+                  ]
+            },
+            {
+                  "name": "كنيسة مغارة الحليب",
+                  "text": "Kápolna Beit Sahurban.",
+                  "category": "religious",
+                  "coords": [
+                        35.208755,
+                        31.703253
+                  ]
+            },
+            {
+                  "name": "Golden Park Resort",
+                  "text": "Szálloda Beit Sahurban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.226748,
+                        31.70564
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف بد جقمان‎‎",
+                  "text": "Muzeu dedicat producției de ulei de măsline în Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.203642,
+                        31.706015
+                  ]
+            },
+            {
+                  "name": "متحف فلسطين للتاريخ الطبيعي",
+                  "text": "Muzeu de istorie naturală în Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.20541,
+                        31.717861
+                  ]
+            },
+            {
+                  "name": "مركز بيت ساحور للتواصل الإجتماعي",
+                  "text": "Muzeu comunitar în Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.217306,
+                        31.703733
+                  ]
+            },
+            {
+                  "name": "PalGPS Company الشركة الفلسطينية للملاحة",
+                  "text": "Far în Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220274,
+                        31.707106
+                  ]
+            },
+            {
+                  "name": "مسرح مدرسة تراسنطا",
+                  "text": "Teatru în Beit Sahur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.207632,
+                        31.705624
+                  ]
+            },
+            {
+                  "name": "متحف بيتنا التلحمي",
+                  "text": "Muzeu în Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.205056,
+                        31.704825
+                  ]
+            },
+            {
+                  "name": "جمعية نعم للاطفال (مسرح مستر اوكي)",
+                  "text": "Teatru pentru copii în Beit Sahur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.231597,
+                        31.699411
+                  ]
+            },
+            {
+                  "name": "قاعة رويال للأفراح",
+                  "text": "Teatru în Beit Sahur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222397,
+                        31.706591
+                  ]
+            },
+            {
+                  "name": "Câmpul Păstorilor",
+                  "text": "Situl arheologic din apropierea orașului Beit Sahur.",
+                  "category": "historical",
+                  "coords": [
+                        35.229541,
+                        31.707303
+                  ]
+            },
+            {
+                  "name": "كهف المهد",
+                  "text": "Intrare în peșteră în Beit Sahur.",
+                  "category": "natural",
+                  "coords": [
+                        35.207672,
+                        31.704351
+                  ]
+            },
+            {
+                  "name": "جامع عمر بن الخطاب",
+                  "text": "Monument în Beit Sahur.",
+                  "category": "historical",
+                  "coords": [
+                        35.219411,
+                        31.703151
+                  ]
+            },
+            {
+                  "name": "Magazin de suveniruri \"Câmpul Păstorilor\"",
+                  "text": "Atracție în Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.228028,
+                        31.707113
+                  ]
+            },
+            {
+                  "name": "بيت جرجس",
+                  "text": "Atracție în Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220749,
+                        31.702005
+                  ]
+            },
+            {
+                  "name": "مكان التواسول",
+                  "text": "Atracție în Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205445,
+                        31.710036
+                  ]
+            },
+            {
+                  "name": "مخيم بيت جبرين للاجئين",
+                  "text": "Punct de observație în Beit Sahur.",
+                  "category": "natural",
+                  "coords": [
+                        35.201842,
+                        31.716014
+                  ]
+            },
+            {
+                  "name": "ג'בל אבו ע'ניים",
+                  "text": "Ruine în Beit Sahur.",
+                  "category": "historical",
+                  "coords": [
+                        35.22123,
+                        31.725649
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Surorilor Carmelitane",
+                  "text": "Mănăstire în Beit Sahur.",
+                  "category": "religious",
+                  "coords": [
+                        35.19942,
+                        31.704394
+                  ]
+            },
+            {
+                  "name": "كنيسة العذراء مريم",
+                  "text": "Biserică în Beit Sahur.",
+                  "category": "religious",
+                  "coords": [
+                        35.2041,
+                        31.70496
+                  ]
+            },
+            {
+                  "name": "Capela Grotei laptelui",
+                  "text": "Capelă în Beit Sahur.",
+                  "category": "religious",
+                  "coords": [
+                        35.208755,
+                        31.703253
+                  ]
+            },
+            {
+                  "name": "Golden Park Resort",
+                  "text": "Hotel în Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.226748,
+                        31.70564
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Bad Museum for Olive Oil Production",
+                  "text": "Museum of olive oil production in Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.203642,
+                        31.706015
+                  ]
+            },
+            {
+                  "name": "Palestine Museum of Natural History",
+                  "text": "Natural history museum in Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.20541,
+                        31.717861
+                  ]
+            },
+            {
+                  "name": "Beit Sahour Community Center",
+                  "text": "Community museum in Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.217306,
+                        31.703733
+                  ]
+            },
+            {
+                  "name": "PalGPS Company الشركة الفلسطينية للملاحة",
+                  "text": "Lighthouse in Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220274,
+                        31.707106
+                  ]
+            },
+            {
+                  "name": "Terra Sancta School Theatre",
+                  "text": "Theatre in Beit Sahur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.207632,
+                        31.705624
+                  ]
+            },
+            {
+                  "name": "Baituna Al Talhami Museum",
+                  "text": "Museum in Beit Sahur.",
+                  "category": "museum",
+                  "coords": [
+                        35.205056,
+                        31.704825
+                  ]
+            },
+            {
+                  "name": "Yes For Children Society (Mr Ok Theater)",
+                  "text": "Children's theatre in Beit Sahur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.231597,
+                        31.699411
+                  ]
+            },
+            {
+                  "name": "قاعة رويال للأفراح",
+                  "text": "Theatre in Beit Sahur.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222397,
+                        31.706591
+                  ]
+            },
+            {
+                  "name": "Shepherds' Field",
+                  "text": "Archaeological site near Beit Sahur.",
+                  "category": "historical",
+                  "coords": [
+                        35.229541,
+                        31.707303
+                  ]
+            },
+            {
+                  "name": "Grotto of the Nativity",
+                  "text": "Cave entrance in Beit Sahur.",
+                  "category": "natural",
+                  "coords": [
+                        35.207672,
+                        31.704351
+                  ]
+            },
+            {
+                  "name": "Omar Bin Al-Khatab Mosque",
+                  "text": "Monument in Beit Sahur.",
+                  "category": "historical",
+                  "coords": [
+                        35.219411,
+                        31.703151
+                  ]
+            },
+            {
+                  "name": "الرعاة للتحف (سنتواري منولي)",
+                  "text": "Attraction in Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.228028,
+                        31.707113
+                  ]
+            },
+            {
+                  "name": "بيت جرجس",
+                  "text": "Attraction in Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.220749,
+                        31.702005
+                  ]
+            },
+            {
+                  "name": "makan El tawasol",
+                  "text": "Attraction in Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205445,
+                        31.710036
+                  ]
+            },
+            {
+                  "name": "مخيم بيت جبرين للاجئين",
+                  "text": "Viewpoint in Beit Sahur.",
+                  "category": "natural",
+                  "coords": [
+                        35.201842,
+                        31.716014
+                  ]
+            },
+            {
+                  "name": "Jabal Abū Ghunaym",
+                  "text": "Ruins in Beit Sahur.",
+                  "category": "historical",
+                  "coords": [
+                        35.22123,
+                        31.725649
+                  ]
+            },
+            {
+                  "name": "Al-Carmel Convent",
+                  "text": "Convent in Beit Sahur.",
+                  "category": "religious",
+                  "coords": [
+                        35.19942,
+                        31.704394
+                  ]
+            },
+            {
+                  "name": "Virgin Mary Syriac Orthodox Church",
+                  "text": "Church in Beit Sahur.",
+                  "category": "religious",
+                  "coords": [
+                        35.2041,
+                        31.70496
+                  ]
+            },
+            {
+                  "name": "Chapel of the Milk Grotto",
+                  "text": "Chapel in Beit Sahur.",
+                  "category": "religious",
+                  "coords": [
+                        35.208755,
+                        31.703253
+                  ]
+            },
+            {
+                  "name": "Golden Park Resort",
+                  "text": "Hotel in Beit Sahur.",
+                  "category": "landmark",
+                  "coords": [
+                        35.226748,
+                        31.70564
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Beit Sahur", hu: "Bét Szahúr", ro: "Beit Sahour", en: "Beit Sahour" },
@@ -768,7 +9498,1276 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-ramallah-cities-v2.webp",
   },
   {
-    id: "palestine-al-bireh-cities-v2",
+    id: "palestine-al-bireh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "سينما القصبة",
+                  "text": "Al-Kasaba ist ein Theater in al-Bira.",
+                  "category": "cultural",
+                  "coords": [
+                        35.204515,
+                        31.903357
+                  ]
+            },
+            {
+                  "name": "مبنى دار زهران التراثي",
+                  "text": "Dar Zahran Heritage Building ist ein Museum in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.196701,
+                        31.905037
+                  ]
+            },
+            {
+                  "name": "Tel A-Nasbe",
+                  "text": "Tel A-Nasbe ist eine archäologische Stätte in al-Bira, die oft mit der biblischen Stadt Mizpa identifiziert wird.",
+                  "category": "historical",
+                  "coords": [
+                        35.216472,
+                        31.88578
+                  ]
+            },
+            {
+                  "name": "متحف محمود درويش (حديقة البروة)",
+                  "text": "Mahmoud Darwish Museum (Al-Birweh Park) ist ein Museum in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.191351,
+                        31.890725
+                  ]
+            },
+            {
+                  "name": "متحف ياسر عرفات",
+                  "text": "Yasser Arafat Museum ist ein Museum in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.208768,
+                        31.911668
+                  ]
+            },
+            {
+                  "name": "Al Zaytonah Theme Park For Kids",
+                  "text": "Al Zaytonah Theme Park For Kids ist ein Freizeitpark in al-Bira.",
+                  "category": "recreational",
+                  "coords": [
+                        35.185025,
+                        31.916716
+                  ]
+            },
+            {
+                  "name": "دار نورا للتراث",
+                  "text": "Noora Heritage House ist ein Museum in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.200064,
+                        31.896747
+                  ]
+            },
+            {
+                  "name": "Sakakini Cultural Center",
+                  "text": "Sakakini Cultural Center ist ein Museum in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.201753,
+                        31.898725
+                  ]
+            },
+            {
+                  "name": "خربة الطيرة",
+                  "text": "خربة الطيرة ist eine archäologische Stätte in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.183808,
+                        31.913385
+                  ]
+            },
+            {
+                  "name": "*منطار40",
+                  "text": "*منطار40 ist eine archäologische Stätte in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.178824,
+                        31.906316
+                  ]
+            },
+            {
+                  "name": "*منطار41",
+                  "text": "*منطار41 ist eine archäologische Stätte in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.179207,
+                        31.908106
+                  ]
+            },
+            {
+                  "name": "*منطار44",
+                  "text": "*منطار44 ist eine archäologische Stätte in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.182624,
+                        31.905921
+                  ]
+            },
+            {
+                  "name": "حارة اليلسمين",
+                  "text": "حارة اليلسمين ist eine lokale Sehenswürdigkeit in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.213415,
+                        31.901642
+                  ]
+            },
+            {
+                  "name": "Altahan",
+                  "text": "Altahan ist ein Kunstzentrum in der Stadt al-Bira.",
+                  "category": "cultural",
+                  "coords": [
+                        35.196929,
+                        31.907399
+                  ]
+            },
+            {
+                  "name": "مركز الثقافي الفرنسي والالماني",
+                  "text": "Das French-German Cultural Center ist ein Kunstzentrum in der Stadt al-Bira.",
+                  "category": "cultural",
+                  "coords": [
+                        35.203005,
+                        31.906037
+                  ]
+            },
+            {
+                  "name": "UCI Headquarters",
+                  "text": "Das UCI Headquarters ist ein Aussichtspunkt in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.197208,
+                        31.890369
+                  ]
+            },
+            {
+                  "name": "Nayzak Services",
+                  "text": "Nayzak Services ist ein Denkmal in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.219383,
+                        31.886536
+                  ]
+            },
+            {
+                  "name": "قصر رام الله الثقافي",
+                  "text": "Der Ramallah Cultural Palace ist eine lokale Sehenswürdigkeit in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190993,
+                        31.891773
+                  ]
+            },
+            {
+                  "name": "City Gate Center Building CGC",
+                  "text": "Das City Gate Center Building CGC ist eine Sehenswürdigkeit in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.216327,
+                        31.890418
+                  ]
+            },
+            {
+                  "name": "techni lock معرض",
+                  "text": "techni lock معرض ist eine lokale Sehenswürdigkeit in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.20747,
+                        31.919977
+                  ]
+            },
+            {
+                  "name": "ترانس ميديا",
+                  "text": "Trans media ist ein Aussichtspunkt in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.211266,
+                        31.907398
+                  ]
+            },
+            {
+                  "name": "محلات الشرق الاوسط لمواد التدفئة و التبريد",
+                  "text": "Middle East for cooling and heating supplies ist eine Sehenswürdigkeit in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.185105,
+                        31.894798
+                  ]
+            },
+            {
+                  "name": "Gallery ONE",
+                  "text": "Gallery ONE ist eine Kunstgalerie in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.200492,
+                        31.898788
+                  ]
+            },
+            {
+                  "name": "دوار الساعة",
+                  "text": "Al Sa'a Square ist ein Denkmal in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.203387,
+                        31.903581
+                  ]
+            },
+            {
+                  "name": "دوار الرافدين",
+                  "text": "Al Rafiden Square ist ein Denkmal in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.203111,
+                        31.898348
+                  ]
+            },
+            {
+                  "name": "دوار مصلحة المياه",
+                  "text": "Water Facility Square ist ein Denkmal in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.20388,
+                        31.899456
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Home ist ein Aussichtspunkt in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.203682,
+                        31.917288
+                  ]
+            },
+            {
+                  "name": "شركة مشاهد للانتاج",
+                  "text": "Der Professional Associations Complex ist ein Aussichtspunkt in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.214482,
+                        31.888059
+                  ]
+            },
+            {
+                  "name": "شبكة أجيال الإذاعية",
+                  "text": "AJYAL RADIO NETWORK ist ein Aussichtspunkt in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.205565,
+                        31.905364
+                  ]
+            },
+            {
+                  "name": "مكتب المهندس عمار قطيفان",
+                  "text": "Design Edge Architects ist ein Aussichtspunkt in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.199296,
+                        31.900227
+                  ]
+            },
+            {
+                  "name": "مجموعة عابدين",
+                  "text": "Die Abdeen group ist eine Sehenswürdigkeit in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.183161,
+                        31.897099
+                  ]
+            },
+            {
+                  "name": "منزل حربي دراغمه",
+                  "text": "منزل حربي دراغمه ist eine lokale Sehenswürdigkeit in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.20294,
+                        31.924055
+                  ]
+            },
+            {
+                  "name": "مدرسة الفجر لتعليم السياقه",
+                  "text": "مدرسة الفجر لتعليم السياقه ist eine lokale Sehenswürdigkeit in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.209031,
+                        31.905447
+                  ]
+            },
+            {
+                  "name": "منتزه قدورة",
+                  "text": "منتزه قدورة ist eine lokale Sehenswürdigkeit in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.204085,
+                        31.900405
+                  ]
+            },
+            {
+                  "name": "Jamal Abdel Nasser Mosque",
+                  "text": "Die Gamal Abdel Nasser Mosque ist eine Kultstätte in al-Bira.",
+                  "category": "religious",
+                  "coords": [
+                        35.207412,
+                        31.904078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "سينما القصبة",
+                  "text": "A(z) Al-Kasaba egy színház al-Bira városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.204515,
+                        31.903357
+                  ]
+            },
+            {
+                  "name": "مبنى دار زهران التراثي",
+                  "text": "A(z) Dar Zahran Heritage Building egy múzeum al-Bira városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.196701,
+                        31.905037
+                  ]
+            },
+            {
+                  "name": "Tel A-Nasbe",
+                  "text": "A Tel A-Nasbe egy régészeti lelőhely al-Bira városában, amelyet gyakran a bibliai Micpa városával azonosítanak.",
+                  "category": "historical",
+                  "coords": [
+                        35.216472,
+                        31.88578
+                  ]
+            },
+            {
+                  "name": "متحف محمود درويش (حديقة البروة)",
+                  "text": "A(z) Mahmoud Darwish Museum (Al-Birweh Park) egy múzeum al-Bira városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.191351,
+                        31.890725
+                  ]
+            },
+            {
+                  "name": "متحف ياسر عرفات",
+                  "text": "A(z) Yasser Arafat Museum egy múzeum al-Bira városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.208768,
+                        31.911668
+                  ]
+            },
+            {
+                  "name": "Al Zaytonah Theme Park For Kids",
+                  "text": "A(z) Al Zaytonah Theme Park For Kids egy vidámpark al-Bira városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.185025,
+                        31.916716
+                  ]
+            },
+            {
+                  "name": "دار نورا للتراث",
+                  "text": "A(z) Noora Heritage House egy múzeum al-Bira városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.200064,
+                        31.896747
+                  ]
+            },
+            {
+                  "name": "Sakakini Cultural Center",
+                  "text": "A(z) Sakakini Cultural Center egy múzeum al-Bira városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.201753,
+                        31.898725
+                  ]
+            },
+            {
+                  "name": "خربة الطيرة",
+                  "text": "A(z) خربة الطيرة egy régészeti lelőhely al-Bira városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.183808,
+                        31.913385
+                  ]
+            },
+            {
+                  "name": "*منطار40",
+                  "text": "A(z) *منطار40 egy régészeti lelőhely al-Bira városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.178824,
+                        31.906316
+                  ]
+            },
+            {
+                  "name": "*منطار41",
+                  "text": "A(z) *منطار41 egy régészeti lelőhely al-Bira városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.179207,
+                        31.908106
+                  ]
+            },
+            {
+                  "name": "*منطار44",
+                  "text": "A(z) *منطار44 egy régészeti lelőhely al-Bira városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.182624,
+                        31.905921
+                  ]
+            },
+            {
+                  "name": "حارة اليلسمين",
+                  "text": "A(z) حارة اليلسمين egy helyi látványosság al-Bira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.213415,
+                        31.901642
+                  ]
+            },
+            {
+                  "name": "Altahan",
+                  "text": "Az Altahan egy művészeti központ al-Bira városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.196929,
+                        31.907399
+                  ]
+            },
+            {
+                  "name": "مركز الثقافي الفرنسي والالماني",
+                  "text": "A French-German Cultural Center egy művészeti központ al-Bira városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.203005,
+                        31.906037
+                  ]
+            },
+            {
+                  "name": "UCI Headquarters",
+                  "text": "A(z) UCI Headquarters egy kilátó al-Bira városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.197208,
+                        31.890369
+                  ]
+            },
+            {
+                  "name": "Nayzak Services",
+                  "text": "A Nayzak Services egy emlékmű al-Bira városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.219383,
+                        31.886536
+                  ]
+            },
+            {
+                  "name": "قصر رام الله الثقافي",
+                  "text": "A Ramallah Cultural Palace egy helyi látványosság al-Bira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190993,
+                        31.891773
+                  ]
+            },
+            {
+                  "name": "City Gate Center Building CGC",
+                  "text": "A City Gate Center Building CGC egy látványosság al-Bira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.216327,
+                        31.890418
+                  ]
+            },
+            {
+                  "name": "techni lock معرض",
+                  "text": "A(z) techni lock معرض egy helyi látványosság al-Bira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.20747,
+                        31.919977
+                  ]
+            },
+            {
+                  "name": "ترانس ميديا",
+                  "text": "A Trans media egy kilátó al-Bira városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.211266,
+                        31.907398
+                  ]
+            },
+            {
+                  "name": "محلات الشرق الاوسط لمواد التدفئة و التبريد",
+                  "text": "A Middle East for cooling and heating supplies egy látványosság al-Bira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.185105,
+                        31.894798
+                  ]
+            },
+            {
+                  "name": "Gallery ONE",
+                  "text": "A Gallery ONE egy művészeti galéria al-Bira városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.200492,
+                        31.898788
+                  ]
+            },
+            {
+                  "name": "دوار الساعة",
+                  "text": "Az Al Sa'a Square egy emlékmű al-Bira városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.203387,
+                        31.903581
+                  ]
+            },
+            {
+                  "name": "دوار الرافدين",
+                  "text": "Az Al Rafiden Square egy emlékmű al-Bira városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.203111,
+                        31.898348
+                  ]
+            },
+            {
+                  "name": "دوار مصلحة المياه",
+                  "text": "A Water Facility Square egy emlékmű al-Bira városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.20388,
+                        31.899456
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "A Home egy kilátó al-Bira városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.203682,
+                        31.917288
+                  ]
+            },
+            {
+                  "name": "شركة مشاهد للانتاج",
+                  "text": "A Professional Associations Complex egy kilátó al-Bira városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.214482,
+                        31.888059
+                  ]
+            },
+            {
+                  "name": "شبكة أجيال الإذاعية",
+                  "text": "Az AJYAL RADIO NETWORK egy kilátó al-Bira városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.205565,
+                        31.905364
+                  ]
+            },
+            {
+                  "name": "مكتب المهندس عمار قطيفان",
+                  "text": "A Design Edge Architects egy kilátó al-Bira városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.199296,
+                        31.900227
+                  ]
+            },
+            {
+                  "name": "مجموعة عابدين",
+                  "text": "Az Abdeen group egy látványosság al-Bira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.183161,
+                        31.897099
+                  ]
+            },
+            {
+                  "name": "منزل حربي دراغمه",
+                  "text": "A(z) منزل حربي دراغمه egy helyi látványosság al-Bira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.20294,
+                        31.924055
+                  ]
+            },
+            {
+                  "name": "مدرسة الفجر لتعليم السياقه",
+                  "text": "A(z) مدرسة الفجر لتعليم السياقه egy helyi látványosság al-Bira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.209031,
+                        31.905447
+                  ]
+            },
+            {
+                  "name": "منتزه قدورة",
+                  "text": "A(z) منتزه قدورة egy helyi látványosság al-Bira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.204085,
+                        31.900405
+                  ]
+            },
+            {
+                  "name": "Jamal Abdel Nasser Mosque",
+                  "text": "A Gamal Abdel Nasser Mosque egy istentiszteleti hely al-Bira városában.",
+                  "category": "religious",
+                  "coords": [
+                        35.207412,
+                        31.904078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "سينما القصبة",
+                  "text": "Al-Kasaba este un teatru din al-Bira.",
+                  "category": "cultural",
+                  "coords": [
+                        35.204515,
+                        31.903357
+                  ]
+            },
+            {
+                  "name": "مبنى دار زهران التراثي",
+                  "text": "Dar Zahran Heritage Building este un muzeu din al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.196701,
+                        31.905037
+                  ]
+            },
+            {
+                  "name": "Tel A-Nasbe",
+                  "text": "Tel A-Nasbe este un sit arheologic din al-Bira, adesea identificat cu orașul biblic Mițpa.",
+                  "category": "historical",
+                  "coords": [
+                        35.216472,
+                        31.88578
+                  ]
+            },
+            {
+                  "name": "متحف محمود درويش (حديقة البروة)",
+                  "text": "Mahmoud Darwish Museum (Al-Birweh Park) este un muzeu din al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.191351,
+                        31.890725
+                  ]
+            },
+            {
+                  "name": "متحف ياسر عرفات",
+                  "text": "Yasser Arafat Museum este un muzeu din al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.208768,
+                        31.911668
+                  ]
+            },
+            {
+                  "name": "Al Zaytonah Theme Park For Kids",
+                  "text": "Al Zaytonah Theme Park For Kids este un parc tematic din al-Bira.",
+                  "category": "recreational",
+                  "coords": [
+                        35.185025,
+                        31.916716
+                  ]
+            },
+            {
+                  "name": "دار نورا للتراث",
+                  "text": "Noora Heritage House este un muzeu din al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.200064,
+                        31.896747
+                  ]
+            },
+            {
+                  "name": "Sakakini Cultural Center",
+                  "text": "Sakakini Cultural Center este un muzeu din al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.201753,
+                        31.898725
+                  ]
+            },
+            {
+                  "name": "خربة الطيرة",
+                  "text": "خربة الطيرة este un sit arheologic din al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.183808,
+                        31.913385
+                  ]
+            },
+            {
+                  "name": "*منطار40",
+                  "text": "*منطار40 este un sit arheologic din al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.178824,
+                        31.906316
+                  ]
+            },
+            {
+                  "name": "*منطار41",
+                  "text": "*منطار41 este un sit arheologic situat în al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.179207,
+                        31.908106
+                  ]
+            },
+            {
+                  "name": "*منطار44",
+                  "text": "*منطار44 este un sit arheologic situat în al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.182624,
+                        31.905921
+                  ]
+            },
+            {
+                  "name": "حارة اليلسمين",
+                  "text": "حارة اليلسمين este o atracție locală situată în al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.213415,
+                        31.901642
+                  ]
+            },
+            {
+                  "name": "Altahan",
+                  "text": "Altahan este un centru de arte situat în orașul al-Bira.",
+                  "category": "cultural",
+                  "coords": [
+                        35.196929,
+                        31.907399
+                  ]
+            },
+            {
+                  "name": "مركز الثقافي الفرنسي والالماني",
+                  "text": "French-German Cultural Center este un centru de arte situat în orașul al-Bira.",
+                  "category": "cultural",
+                  "coords": [
+                        35.203005,
+                        31.906037
+                  ]
+            },
+            {
+                  "name": "UCI Headquarters",
+                  "text": "UCI Headquarters este un punct de belvedere în al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.197208,
+                        31.890369
+                  ]
+            },
+            {
+                  "name": "Nayzak Services",
+                  "text": "Nayzak Services este un monument situat în al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.219383,
+                        31.886536
+                  ]
+            },
+            {
+                  "name": "قصر رام الله الثقافي",
+                  "text": "Ramallah Cultural Palace este o atracție locală situată în al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190993,
+                        31.891773
+                  ]
+            },
+            {
+                  "name": "City Gate Center Building CGC",
+                  "text": "City Gate Center Building CGC este o atracție situată în al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.216327,
+                        31.890418
+                  ]
+            },
+            {
+                  "name": "techni lock معرض",
+                  "text": "techni lock معرض este o atracție locală situată în al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.20747,
+                        31.919977
+                  ]
+            },
+            {
+                  "name": "ترانس ميديا",
+                  "text": "Trans media este un punct de belvedere în al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.211266,
+                        31.907398
+                  ]
+            },
+            {
+                  "name": "محلات الشرق الاوسط لمواد التدفئة و التبريد",
+                  "text": "Middle East for cooling and heating supplies este o atracție situată în al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.185105,
+                        31.894798
+                  ]
+            },
+            {
+                  "name": "Gallery ONE",
+                  "text": "Gallery ONE este o galerie de artă în al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.200492,
+                        31.898788
+                  ]
+            },
+            {
+                  "name": "دوار الساعة",
+                  "text": "Al Sa'a Square este un monument situat în al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.203387,
+                        31.903581
+                  ]
+            },
+            {
+                  "name": "دوار الرافدين",
+                  "text": "Al Rafiden Square este un monument situat în al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.203111,
+                        31.898348
+                  ]
+            },
+            {
+                  "name": "دوار مصلحة المياه",
+                  "text": "Water Facility Square este un monument situat în al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.20388,
+                        31.899456
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Home este un punct de belvedere în al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.203682,
+                        31.917288
+                  ]
+            },
+            {
+                  "name": "شركة مشاهد للانتاج",
+                  "text": "Professional Associations Complex este un punct de belvedere în al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.214482,
+                        31.888059
+                  ]
+            },
+            {
+                  "name": "شبكة أجيال الإذاعية",
+                  "text": "AJYAL RADIO NETWORK este un punct de belvedere în al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.205565,
+                        31.905364
+                  ]
+            },
+            {
+                  "name": "مكتب المهندس عمار قطيفان",
+                  "text": "Design Edge Architects este un punct de belvedere în al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.199296,
+                        31.900227
+                  ]
+            },
+            {
+                  "name": "مجموعة عابدين",
+                  "text": "Abdeen group este o atracție situată în al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.183161,
+                        31.897099
+                  ]
+            },
+            {
+                  "name": "منزل حربي دراغمه",
+                  "text": "منزل حربي دراغمه este o atracție locală situată în al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.20294,
+                        31.924055
+                  ]
+            },
+            {
+                  "name": "مدرسة الفجر لتعليم السياقه",
+                  "text": "مدرسة الفجر لتعليم السياقه este o atracție locală situată în al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.209031,
+                        31.905447
+                  ]
+            },
+            {
+                  "name": "منتزه قدورة",
+                  "text": "منتزه قدورة este o atracție locală situată în al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.204085,
+                        31.900405
+                  ]
+            },
+            {
+                  "name": "Jamal Abdel Nasser Mosque",
+                  "text": "Gamal Abdel Nasser Mosque este un lăcaș de cult situat în al-Bira.",
+                  "category": "religious",
+                  "coords": [
+                        35.207412,
+                        31.904078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Kasaba",
+                  "text": "Al-Kasaba is a theatre located in al-Bira.",
+                  "category": "cultural",
+                  "coords": [
+                        35.204515,
+                        31.903357
+                  ]
+            },
+            {
+                  "name": "Dar Zahran Heritage Building",
+                  "text": "Dar Zahran Heritage Building is a museum located in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.196701,
+                        31.905037
+                  ]
+            },
+            {
+                  "name": "Tel A-Nasbe",
+                  "text": "Tel A-Nasbe is an archaeological site in al-Bira, often identified with the biblical city of Mizpah.",
+                  "category": "historical",
+                  "coords": [
+                        35.216472,
+                        31.88578
+                  ]
+            },
+            {
+                  "name": "Mahmoud Darwish Museum (Al-Birweh Park)",
+                  "text": "Mahmoud Darwish Museum (Al-Birweh Park) is a museum located in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.191351,
+                        31.890725
+                  ]
+            },
+            {
+                  "name": "Yasser Arafat Museum",
+                  "text": "Yasser Arafat Museum is a museum located in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.208768,
+                        31.911668
+                  ]
+            },
+            {
+                  "name": "Al Zaytonah Theme Park For Kids",
+                  "text": "Al Zaytonah Theme Park For Kids is a theme park located in al-Bira.",
+                  "category": "recreational",
+                  "coords": [
+                        35.185025,
+                        31.916716
+                  ]
+            },
+            {
+                  "name": "Noora Heritage House",
+                  "text": "Noora Heritage House is a museum located in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.200064,
+                        31.896747
+                  ]
+            },
+            {
+                  "name": "Sakakini Cultural Center",
+                  "text": "Sakakini Cultural Center is a museum located in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.201753,
+                        31.898725
+                  ]
+            },
+            {
+                  "name": "خربة الطيرة",
+                  "text": "خربة الطيرة is an archaeological site located in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.183808,
+                        31.913385
+                  ]
+            },
+            {
+                  "name": "*منطار40",
+                  "text": "*منطار40 is an archaeological site located in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.178824,
+                        31.906316
+                  ]
+            },
+            {
+                  "name": "*منطار41",
+                  "text": "*منطار41 is an archaeological site located in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.179207,
+                        31.908106
+                  ]
+            },
+            {
+                  "name": "*منطار44",
+                  "text": "*منطار44 is an archaeological site located in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.182624,
+                        31.905921
+                  ]
+            },
+            {
+                  "name": "حارة اليلسمين",
+                  "text": "حارة اليلسمين is a local attraction situated in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.213415,
+                        31.901642
+                  ]
+            },
+            {
+                  "name": "Altahan",
+                  "text": "Altahan is an arts centre situated in the city of al-Bira.",
+                  "category": "cultural",
+                  "coords": [
+                        35.196929,
+                        31.907399
+                  ]
+            },
+            {
+                  "name": "French-German Cultural Center",
+                  "text": "The French-German Cultural Center is an arts centre situated in the city of al-Bira.",
+                  "category": "cultural",
+                  "coords": [
+                        35.203005,
+                        31.906037
+                  ]
+            },
+            {
+                  "name": "UCI Headquarters",
+                  "text": "The UCI Headquarters serves as a viewpoint located in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.197208,
+                        31.890369
+                  ]
+            },
+            {
+                  "name": "Nayzak Services",
+                  "text": "Nayzak Services is a monument located in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.219383,
+                        31.886536
+                  ]
+            },
+            {
+                  "name": "Ramallah Cultural Palace",
+                  "text": "The Ramallah Cultural Palace is a local attraction situated in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.190993,
+                        31.891773
+                  ]
+            },
+            {
+                  "name": "City Gate Center Building CGC",
+                  "text": "The City Gate Center Building CGC is a local attraction situated in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.216327,
+                        31.890418
+                  ]
+            },
+            {
+                  "name": "techni lock معرض",
+                  "text": "techni lock معرض is a local attraction situated in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.20747,
+                        31.919977
+                  ]
+            },
+            {
+                  "name": "Trans media",
+                  "text": "Trans media serves as a viewpoint located in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.211266,
+                        31.907398
+                  ]
+            },
+            {
+                  "name": "Middle East for cooling and heating supplies",
+                  "text": "Middle East for cooling and heating supplies is a local attraction situated in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.185105,
+                        31.894798
+                  ]
+            },
+            {
+                  "name": "Gallery ONE",
+                  "text": "Gallery ONE is an art gallery located in al-Bira.",
+                  "category": "museum",
+                  "coords": [
+                        35.200492,
+                        31.898788
+                  ]
+            },
+            {
+                  "name": "Al Sa'a Square",
+                  "text": "Al Sa'a Square is a monument located in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.203387,
+                        31.903581
+                  ]
+            },
+            {
+                  "name": "Al Rafiden Square",
+                  "text": "Al Rafiden Square is a monument located in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.203111,
+                        31.898348
+                  ]
+            },
+            {
+                  "name": "Water Facility Square",
+                  "text": "Water Facility Square is a monument located in al-Bira.",
+                  "category": "historical",
+                  "coords": [
+                        35.20388,
+                        31.899456
+                  ]
+            },
+            {
+                  "name": "Home",
+                  "text": "Home serves as a viewpoint located in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.203682,
+                        31.917288
+                  ]
+            },
+            {
+                  "name": "Professional Associations Complex",
+                  "text": "The Professional Associations Complex serves as a viewpoint located in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.214482,
+                        31.888059
+                  ]
+            },
+            {
+                  "name": "AJYAL RADIO NETWORK",
+                  "text": "AJYAL RADIO NETWORK serves as a viewpoint located in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.205565,
+                        31.905364
+                  ]
+            },
+            {
+                  "name": "Design Edge Architects",
+                  "text": "Design Edge Architects serves as a viewpoint located in al-Bira.",
+                  "category": "natural",
+                  "coords": [
+                        35.199296,
+                        31.900227
+                  ]
+            },
+            {
+                  "name": "Abdeen group",
+                  "text": "Abdeen group is a local attraction situated in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.183161,
+                        31.897099
+                  ]
+            },
+            {
+                  "name": "منزل حربي دراغمه",
+                  "text": "منزل حربي دراغمه is a local attraction situated in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.20294,
+                        31.924055
+                  ]
+            },
+            {
+                  "name": "مدرسة الفجر لتعليم السياقه",
+                  "text": "مدرسة الفجر لتعليم السياقه is a local attraction situated in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.209031,
+                        31.905447
+                  ]
+            },
+            {
+                  "name": "منتزه قدورة",
+                  "text": "منتزه قدورة is a local attraction situated in al-Bira.",
+                  "category": "landmark",
+                  "coords": [
+                        35.204085,
+                        31.900405
+                  ]
+            },
+            {
+                  "name": "Gamal Abdel Nasser Mosque",
+                  "text": "Gamal Abdel Nasser Mosque is a place of worship located in al-Bira.",
+                  "category": "religious",
+                  "coords": [
+                        35.207412,
+                        31.904078
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "city",
     name: { de: "al-Bira", hu: "el-Bíra", ro: "Al-Bireh", en: "Al-Bireh" },
@@ -813,7 +10812,160 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-al-bireh-cities-v2.webp",
   },
   {
-    id: "palestine-salfit-cities-v2",
+    id: "palestine-salfit-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "היכל התרבות אריאל",
+                  "text": "Theater in Salfit.",
+                  "category": "cultural",
+                  "coords": [
+                        35.175476,
+                        32.105347
+                  ]
+            },
+            {
+                  "name": "خربة الشجرة الغربية",
+                  "text": "Ruinen in Salfit.",
+                  "category": "historical",
+                  "coords": [
+                        35.181612,
+                        32.095557
+                  ]
+            },
+            {
+                  "name": "خربة الشجرة الشرقية",
+                  "text": "Ruinen in Salfit.",
+                  "category": "historical",
+                  "coords": [
+                        35.184202,
+                        32.095745
+                  ]
+            },
+            {
+                  "name": "بلدية سلفيت",
+                  "text": "Rathaus von Salfit.",
+                  "category": "historical",
+                  "coords": [
+                        35.177247,
+                        32.082006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "היכל התרבות אריאל",
+                  "text": "Színház Salfitban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.175476,
+                        32.105347
+                  ]
+            },
+            {
+                  "name": "خربة الشجرة الغربية",
+                  "text": "Romok Salfitban.",
+                  "category": "historical",
+                  "coords": [
+                        35.181612,
+                        32.095557
+                  ]
+            },
+            {
+                  "name": "خربة الشجرة الشرقية",
+                  "text": "Romok Salfitban.",
+                  "category": "historical",
+                  "coords": [
+                        35.184202,
+                        32.095745
+                  ]
+            },
+            {
+                  "name": "بلدية سلفيت",
+                  "text": "Salfit városházája.",
+                  "category": "historical",
+                  "coords": [
+                        35.177247,
+                        32.082006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "היכל התרבות אריאל",
+                  "text": "Teatru în Salfit.",
+                  "category": "cultural",
+                  "coords": [
+                        35.175476,
+                        32.105347
+                  ]
+            },
+            {
+                  "name": "خربة الشجرة الغربية",
+                  "text": "Ruine în Salfit.",
+                  "category": "historical",
+                  "coords": [
+                        35.181612,
+                        32.095557
+                  ]
+            },
+            {
+                  "name": "خربة الشجرة الشرقية",
+                  "text": "Ruine în Salfit.",
+                  "category": "historical",
+                  "coords": [
+                        35.184202,
+                        32.095745
+                  ]
+            },
+            {
+                  "name": "بلدية سلفيت",
+                  "text": "Primăria Salfit.",
+                  "category": "historical",
+                  "coords": [
+                        35.177247,
+                        32.082006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ariel Cultural Center",
+                  "text": "Theatre in Salfit.",
+                  "category": "cultural",
+                  "coords": [
+                        35.175476,
+                        32.105347
+                  ]
+            },
+            {
+                  "name": "Khirbet al-Shajra, West",
+                  "text": "Ruins in Salfit.",
+                  "category": "historical",
+                  "coords": [
+                        35.181612,
+                        32.095557
+                  ]
+            },
+            {
+                  "name": "Khirbet al-Shajra, East",
+                  "text": "Ruins in Salfit.",
+                  "category": "historical",
+                  "coords": [
+                        35.184202,
+                        32.095745
+                  ]
+            },
+            {
+                  "name": "Salfit Municipality",
+                  "text": "Salfit town hall.",
+                  "category": "historical",
+                  "coords": [
+                        35.177247,
+                        32.082006
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Salfit", hu: "Szalfít", ro: "Salfit", en: "Salfit" },
@@ -858,7 +11010,700 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-salfit-cities-v2.webp",
   },
   {
-    id: "palestine-tubas-cities-v2",
+    id: "palestine-tubas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "عبد الرازق ابو قاسم",
+                  "text": "Diese Burg befindet sich in Tubas.",
+                  "category": "castle",
+                  "coords": [
+                        35.366282,
+                        32.318453
+                  ]
+            },
+            {
+                  "name": "منزل امين ابو حِسن",
+                  "text": "Diese Burg befindet sich in Tubas.",
+                  "category": "castle",
+                  "coords": [
+                        35.375892,
+                        32.317054
+                  ]
+            },
+            {
+                  "name": "עינון",
+                  "text": "Dieses Naturschutzgebiet liegt in Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.396023,
+                        32.302255
+                  ]
+            },
+            {
+                  "name": "הר גדיר",
+                  "text": "Dieses Naturschutzgebiet liegt in Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.411589,
+                        32.314251
+                  ]
+            },
+            {
+                  "name": "دوار فلسطين",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369366,
+                        32.323439
+                  ]
+            },
+            {
+                  "name": "حي النقار",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.370639,
+                        32.316519
+                  ]
+            },
+            {
+                  "name": "مزارع كشده",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.356381,
+                        32.308495
+                  ]
+            },
+            {
+                  "name": "معسكر الامن الوطني (الحرش)",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.379606,
+                        32.341354
+                  ]
+            },
+            {
+                  "name": "مفرق العشارين",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.364105,
+                        32.297754
+                  ]
+            },
+            {
+                  "name": "مفرق تياسير",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369931,
+                        32.31966
+                  ]
+            },
+            {
+                  "name": "حي الدير",
+                  "text": "Dieser Aussichtspunkt befindet sich in Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.386737,
+                        32.307724
+                  ]
+            },
+            {
+                  "name": "مقبرة طوباس القديمه",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.367443,
+                        32.319622
+                  ]
+            },
+            {
+                  "name": "مفرق اسكان الحاج حسن",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.370314,
+                        32.311845
+                  ]
+            },
+            {
+                  "name": "ديوان عائلة عبد الرازق",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.376353,
+                        32.323976
+                  ]
+            },
+            {
+                  "name": "مفرق المستشفى التركي",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.362239,
+                        32.332435
+                  ]
+            },
+            {
+                  "name": "جبل عينون",
+                  "text": "Dieser Aussichtspunkt befindet sich in Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.394171,
+                        32.303767
+                  ]
+            },
+            {
+                  "name": "مسجد الفرقان",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.372979,
+                        32.327902
+                  ]
+            },
+            {
+                  "name": "Hani Daraghmeh",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.378872,
+                        32.316155
+                  ]
+            },
+            {
+                  "name": "دوار الزيتونه",
+                  "text": "Diese Attraktion befindet sich in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.372089,
+                        32.316997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "عبد الرازق ابو قاسم",
+                  "text": "Ez az erődítmény Tubas városában található.",
+                  "category": "castle",
+                  "coords": [
+                        35.366282,
+                        32.318453
+                  ]
+            },
+            {
+                  "name": "منزل امين ابو حِسن",
+                  "text": "Ez az erődítmény Tubas városában található.",
+                  "category": "castle",
+                  "coords": [
+                        35.375892,
+                        32.317054
+                  ]
+            },
+            {
+                  "name": "עינון",
+                  "text": "Ez a természetvédelmi terület Tubas városában található.",
+                  "category": "natural",
+                  "coords": [
+                        35.396023,
+                        32.302255
+                  ]
+            },
+            {
+                  "name": "הר גדיר",
+                  "text": "Ez a természetvédelmi terület Tubas városában található.",
+                  "category": "natural",
+                  "coords": [
+                        35.411589,
+                        32.314251
+                  ]
+            },
+            {
+                  "name": "دوار فلسطين",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369366,
+                        32.323439
+                  ]
+            },
+            {
+                  "name": "حي النقار",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.370639,
+                        32.316519
+                  ]
+            },
+            {
+                  "name": "مزارع كشده",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.356381,
+                        32.308495
+                  ]
+            },
+            {
+                  "name": "معسكر الامن الوطني (الحرش)",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.379606,
+                        32.341354
+                  ]
+            },
+            {
+                  "name": "مفرق العشارين",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.364105,
+                        32.297754
+                  ]
+            },
+            {
+                  "name": "مفرق تياسير",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369931,
+                        32.31966
+                  ]
+            },
+            {
+                  "name": "حي الدير",
+                  "text": "Ez a kilátó Tubas városában található.",
+                  "category": "natural",
+                  "coords": [
+                        35.386737,
+                        32.307724
+                  ]
+            },
+            {
+                  "name": "مقبرة طوباس القديمه",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.367443,
+                        32.319622
+                  ]
+            },
+            {
+                  "name": "مفرق اسكان الحاج حسن",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.370314,
+                        32.311845
+                  ]
+            },
+            {
+                  "name": "ديوان عائلة عبد الرازق",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.376353,
+                        32.323976
+                  ]
+            },
+            {
+                  "name": "مفرق المستشفى التركي",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.362239,
+                        32.332435
+                  ]
+            },
+            {
+                  "name": "جبل عينون",
+                  "text": "Ez a kilátó Tubas városában található.",
+                  "category": "natural",
+                  "coords": [
+                        35.394171,
+                        32.303767
+                  ]
+            },
+            {
+                  "name": "مسجد الفرقان",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.372979,
+                        32.327902
+                  ]
+            },
+            {
+                  "name": "Hani Daraghmeh",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.378872,
+                        32.316155
+                  ]
+            },
+            {
+                  "name": "دوار الزيتونه",
+                  "text": "Ez a látványosság Tubas városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.372089,
+                        32.316997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "عبد الرازق ابو قاسم",
+                  "text": "Acest castel este situat în Tubas.",
+                  "category": "castle",
+                  "coords": [
+                        35.366282,
+                        32.318453
+                  ]
+            },
+            {
+                  "name": "منزل امين ابو حِسن",
+                  "text": "Acest castel este situat în Tubas.",
+                  "category": "castle",
+                  "coords": [
+                        35.375892,
+                        32.317054
+                  ]
+            },
+            {
+                  "name": "עינון",
+                  "text": "Această rezervație naturală se află în Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.396023,
+                        32.302255
+                  ]
+            },
+            {
+                  "name": "הר גדיר",
+                  "text": "Această rezervație naturală se află în Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.411589,
+                        32.314251
+                  ]
+            },
+            {
+                  "name": "دوار فلسطين",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369366,
+                        32.323439
+                  ]
+            },
+            {
+                  "name": "حي النقار",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.370639,
+                        32.316519
+                  ]
+            },
+            {
+                  "name": "مزارع كشده",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.356381,
+                        32.308495
+                  ]
+            },
+            {
+                  "name": "معسكر الامن الوطني (الحرش)",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.379606,
+                        32.341354
+                  ]
+            },
+            {
+                  "name": "مفرق العشارين",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.364105,
+                        32.297754
+                  ]
+            },
+            {
+                  "name": "مفرق تياسير",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369931,
+                        32.31966
+                  ]
+            },
+            {
+                  "name": "حي الدير",
+                  "text": "Acest punct de belvedere se află în Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.386737,
+                        32.307724
+                  ]
+            },
+            {
+                  "name": "مقبرة طوباس القديمه",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.367443,
+                        32.319622
+                  ]
+            },
+            {
+                  "name": "مفرق اسكان الحاج حسن",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.370314,
+                        32.311845
+                  ]
+            },
+            {
+                  "name": "ديوان عائلة عبد الرازق",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.376353,
+                        32.323976
+                  ]
+            },
+            {
+                  "name": "مفرق المستشفى التركي",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.362239,
+                        32.332435
+                  ]
+            },
+            {
+                  "name": "جبل عينون",
+                  "text": "Acest punct de belvedere se află în Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.394171,
+                        32.303767
+                  ]
+            },
+            {
+                  "name": "مسجد الفرقان",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.372979,
+                        32.327902
+                  ]
+            },
+            {
+                  "name": "Hani Daraghmeh",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.378872,
+                        32.316155
+                  ]
+            },
+            {
+                  "name": "دوار الزيتونه",
+                  "text": "Această atracție este situată în Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.372089,
+                        32.316997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "عبد الرازق ابو قاسم",
+                  "text": "This castle is located in Tubas.",
+                  "category": "castle",
+                  "coords": [
+                        35.366282,
+                        32.318453
+                  ]
+            },
+            {
+                  "name": "منزل امين ابو حِسن",
+                  "text": "This castle is located in Tubas.",
+                  "category": "castle",
+                  "coords": [
+                        35.375892,
+                        32.317054
+                  ]
+            },
+            {
+                  "name": "Einon",
+                  "text": "This nature reserve is situated in Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.396023,
+                        32.302255
+                  ]
+            },
+            {
+                  "name": "Mount Gadir",
+                  "text": "This nature reserve is situated in Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.411589,
+                        32.314251
+                  ]
+            },
+            {
+                  "name": "Palestine Roundabout",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369366,
+                        32.323439
+                  ]
+            },
+            {
+                  "name": "hay alnakkar",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.370639,
+                        32.316519
+                  ]
+            },
+            {
+                  "name": "kashda farm",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.356381,
+                        32.308495
+                  ]
+            },
+            {
+                  "name": "معسكر الامن الوطني (الحرش)",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.379606,
+                        32.341354
+                  ]
+            },
+            {
+                  "name": "Al ashareen junction",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.364105,
+                        32.297754
+                  ]
+            },
+            {
+                  "name": "Tayyaser junction",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.369931,
+                        32.31966
+                  ]
+            },
+            {
+                  "name": "hay al deir",
+                  "text": "This viewpoint is found in Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.386737,
+                        32.307724
+                  ]
+            },
+            {
+                  "name": "مقبرة طوباس القديمه",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.367443,
+                        32.319622
+                  ]
+            },
+            {
+                  "name": "مفرق اسكان الحاج حسن",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.370314,
+                        32.311845
+                  ]
+            },
+            {
+                  "name": "Abd alrazeq family hall",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.376353,
+                        32.323976
+                  ]
+            },
+            {
+                  "name": "مفرق المستشفى التركي",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.362239,
+                        32.332435
+                  ]
+            },
+            {
+                  "name": "Einon hill",
+                  "text": "This viewpoint is located in Tubas.",
+                  "category": "natural",
+                  "coords": [
+                        35.394171,
+                        32.303767
+                  ]
+            },
+            {
+                  "name": "مسجد الفرقان",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.372979,
+                        32.327902
+                  ]
+            },
+            {
+                  "name": "House",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.378872,
+                        32.316155
+                  ]
+            },
+            {
+                  "name": "دوار الزيتونه",
+                  "text": "This attraction is situated in Tubas.",
+                  "category": "landmark",
+                  "coords": [
+                        35.372089,
+                        32.316997
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Tubas", hu: "Tubász", ro: "Tubas", en: "Tubas" },
@@ -903,7 +11748,376 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-tubas-cities-v2.webp",
   },
   {
-    id: "palestine-halhul-cities-v2",
+    id: "palestine-halhul-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "محلات طه لمواد الناء",
+                  "text": "Taha company 0599364361 ist als Burganlage in Halhul klassifiziert.",
+                  "category": "castle",
+                  "coords": [
+                        35.137262,
+                        31.590352
+                  ]
+            },
+            {
+                  "name": "גת",
+                  "text": "Gat ist eine archäologische Stätte in Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "הר חלחול",
+                  "text": "Der Mount Nabi Yunis ist ein markanter Gipfel in Halhul und gilt als der höchste Punkt der palästinensischen Gebiete.",
+                  "category": "natural",
+                  "coords": [
+                        35.102988,
+                        31.566547
+                  ]
+            },
+            {
+                  "name": "Halhoul center",
+                  "text": "Das Halhoul center ist eine lokale Sehenswürdigkeit in Halhul.",
+                  "category": "landmark",
+                  "coords": [
+                        35.098981,
+                        31.579181
+                  ]
+            },
+            {
+                  "name": "موقع حرم الرامة الأثري",
+                  "text": "Haram erRama (Mamre) ist ein Aussichtspunkt in Halhul.",
+                  "category": "natural",
+                  "coords": [
+                        35.104765,
+                        31.556954
+                  ]
+            },
+            {
+                  "name": "חורבת תין ברין",
+                  "text": "חורבת תין ברין umfasst historische Ruinen in Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.130998,
+                        31.601867
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "חורבת בית ח׳יירן umfasst historische Ruinen in Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "Khirbet Tubeiqa",
+                  "text": "Khirbet Tubeiqa umfasst historische Ruinen in Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.094148,
+                        31.589394
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "מצפה עמיחי ist ein Aussichtspunkt in Halhul.",
+                  "category": "natural",
+                  "coords": [
+                        35.106667,
+                        31.606422
+                  ]
+            },
+            {
+                  "name": "מצפה חלחול",
+                  "text": "מצפה חלחול ist ein Aussichtspunkt in Halhul.",
+                  "category": "natural",
+                  "coords": [
+                        35.11992,
+                        31.589095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "محلات طه لمواد الناء",
+                  "text": "A(z) Taha company 0599364361 egy kastélyépület Halhul városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.137262,
+                        31.590352
+                  ]
+            },
+            {
+                  "name": "גת",
+                  "text": "A Gat egy régészeti lelőhely Halhul városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "הר חלחול",
+                  "text": "A Nabi Yunis-hegy egy kiemelkedő csúcs Halhul városában, amely a Palesztin Területek legmagasabb pontjaként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        35.102988,
+                        31.566547
+                  ]
+            },
+            {
+                  "name": "Halhoul center",
+                  "text": "A Halhoul center egy helyi látványosság Halhul városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.098981,
+                        31.579181
+                  ]
+            },
+            {
+                  "name": "موقع حرم الرامة الأثري",
+                  "text": "A Haram erRama (Mamre) egy kilátó Halhul városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.104765,
+                        31.556954
+                  ]
+            },
+            {
+                  "name": "חורבת תין ברין",
+                  "text": "A(z) חורבת תין ברין történelmi romokat foglal magában Halhul városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.130998,
+                        31.601867
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "A(z) חורבת בית ח׳יירן történelmi romokat foglal magában Halhul városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "Khirbet Tubeiqa",
+                  "text": "A Khirbet Tubeiqa történelmi romokat foglal magában Halhul városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.094148,
+                        31.589394
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "A(z) מצפה עמיחי egy kilátó Halhul városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.106667,
+                        31.606422
+                  ]
+            },
+            {
+                  "name": "מצפה חלחול",
+                  "text": "A(z) מצפה חלחול egy kilátó Halhul városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.11992,
+                        31.589095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "محلات طه لمواد الناء",
+                  "text": "Taha company 0599364361 este o structură de tip castel în Halhul.",
+                  "category": "castle",
+                  "coords": [
+                        35.137262,
+                        31.590352
+                  ]
+            },
+            {
+                  "name": "גת",
+                  "text": "Gat este un sit arheologic situat în Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "הר חלחול",
+                  "text": "Muntele Nabi Yunis este un vârf proeminent din Halhul, recunoscut ca cel mai înalt punct din teritoriile palestiniene.",
+                  "category": "natural",
+                  "coords": [
+                        35.102988,
+                        31.566547
+                  ]
+            },
+            {
+                  "name": "Halhoul center",
+                  "text": "Halhoul center este o atracție locală situată în Halhul.",
+                  "category": "landmark",
+                  "coords": [
+                        35.098981,
+                        31.579181
+                  ]
+            },
+            {
+                  "name": "موقع حرم الرامة الأثري",
+                  "text": "Haram erRama (Mamre) este un punct de belvedere în Halhul.",
+                  "category": "natural",
+                  "coords": [
+                        35.104765,
+                        31.556954
+                  ]
+            },
+            {
+                  "name": "חורבת תין ברין",
+                  "text": "חורבת תין ברין conține ruine istorice situate în Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.130998,
+                        31.601867
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "חורבת בית ח׳יירן conține ruine istorice situate în Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "Khirbet Tubeiqa",
+                  "text": "Khirbet Tubeiqa conține ruine istorice situate în Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.094148,
+                        31.589394
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "מצפה עמיחי este un punct de belvedere în Halhul.",
+                  "category": "natural",
+                  "coords": [
+                        35.106667,
+                        31.606422
+                  ]
+            },
+            {
+                  "name": "מצפה חלחול",
+                  "text": "מצפה חלחול este un punct de belvedere în Halhul.",
+                  "category": "natural",
+                  "coords": [
+                        35.11992,
+                        31.589095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taha company 0599364361",
+                  "text": "Taha company 0599364361 is classified as a castle structure in Halhul.",
+                  "category": "castle",
+                  "coords": [
+                        35.137262,
+                        31.590352
+                  ]
+            },
+            {
+                  "name": "Gat",
+                  "text": "Gat is an archaeological site located in Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "Mount Nabi Yunis",
+                  "text": "Mount Nabi Yunis is a prominent peak in Halhul, recognized as the highest point in the Palestinian territories.",
+                  "category": "natural",
+                  "coords": [
+                        35.102988,
+                        31.566547
+                  ]
+            },
+            {
+                  "name": "Halhoul center",
+                  "text": "Halhoul center is a local attraction situated in Halhul.",
+                  "category": "landmark",
+                  "coords": [
+                        35.098981,
+                        31.579181
+                  ]
+            },
+            {
+                  "name": "Haram erRama (Mamre)",
+                  "text": "Haram erRama (Mamre) serves as a viewpoint located in Halhul.",
+                  "category": "natural",
+                  "coords": [
+                        35.104765,
+                        31.556954
+                  ]
+            },
+            {
+                  "name": "חורבת תין ברין",
+                  "text": "חורבת תין ברין features historical ruins located in Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.130998,
+                        31.601867
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "חורבת בית ח׳יירן features historical ruins located in Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "Khirbet Tubeiqa",
+                  "text": "Khirbet Tubeiqa features historical ruins located in Halhul.",
+                  "category": "historical",
+                  "coords": [
+                        35.094148,
+                        31.589394
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "מצפה עמיחי serves as a viewpoint located in Halhul.",
+                  "category": "natural",
+                  "coords": [
+                        35.106667,
+                        31.606422
+                  ]
+            },
+            {
+                  "name": "מצפה חלחול",
+                  "text": "מצפה חלחול serves as a viewpoint located in Halhul.",
+                  "category": "natural",
+                  "coords": [
+                        35.11992,
+                        31.589095
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Halhul", hu: "Halhúl", ro: "Halhul", en: "Halhul" },
@@ -948,7 +12162,304 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-halhul-cities-v2.webp",
   },
   {
-    id: "palestine-dura-cities-v2",
+    id: "palestine-dura-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "الجنوب الفنية",
+                  "text": "Schlossartige Anlage in Dura.",
+                  "category": "castle",
+                  "coords": [
+                        35.030064,
+                        31.505055
+                  ]
+            },
+            {
+                  "name": "إبراهيم",
+                  "text": "Aussichtspunkt in Dura.",
+                  "category": "natural",
+                  "coords": [
+                        35.046658,
+                        31.507806
+                  ]
+            },
+            {
+                  "name": "الأمن الوقائي",
+                  "text": "Aussichtspunkt in Dura.",
+                  "category": "natural",
+                  "coords": [
+                        35.023874,
+                        31.507601
+                  ]
+            },
+            {
+                  "name": "חורבת טראמה",
+                  "text": "Ruinen in Dura.",
+                  "category": "historical",
+                  "coords": [
+                        35.033206,
+                        31.478881
+                  ]
+            },
+            {
+                  "name": "אבן ים",
+                  "text": "Ruinen in Dura.",
+                  "category": "historical",
+                  "coords": [
+                        35.034308,
+                        31.481789
+                  ]
+            },
+            {
+                  "name": "שיח אחמד אל עבד",
+                  "text": "Ruinen in Dura.",
+                  "category": "historical",
+                  "coords": [
+                        35.004238,
+                        31.502043
+                  ]
+            },
+            {
+                  "name": "מצפה ראובן",
+                  "text": "Aussichtspunkt in Dura.",
+                  "category": "natural",
+                  "coords": [
+                        35.042084,
+                        31.488394
+                  ]
+            },
+            {
+                  "name": "עינות כנר",
+                  "text": "Quelle in Dura.",
+                  "category": "landmark",
+                  "coords": [
+                        35.048749,
+                        31.50688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الجنوب الفنية",
+                  "text": "Kastély Dura városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.030064,
+                        31.505055
+                  ]
+            },
+            {
+                  "name": "إبراهيم",
+                  "text": "Kilátó Durában.",
+                  "category": "natural",
+                  "coords": [
+                        35.046658,
+                        31.507806
+                  ]
+            },
+            {
+                  "name": "الأمن الوقائي",
+                  "text": "Kilátó Durában.",
+                  "category": "natural",
+                  "coords": [
+                        35.023874,
+                        31.507601
+                  ]
+            },
+            {
+                  "name": "חורבת טראמה",
+                  "text": "Romok Durában.",
+                  "category": "historical",
+                  "coords": [
+                        35.033206,
+                        31.478881
+                  ]
+            },
+            {
+                  "name": "אבן ים",
+                  "text": "Romok Durában.",
+                  "category": "historical",
+                  "coords": [
+                        35.034308,
+                        31.481789
+                  ]
+            },
+            {
+                  "name": "שיח אחמד אל עבד",
+                  "text": "Romok Durában.",
+                  "category": "historical",
+                  "coords": [
+                        35.004238,
+                        31.502043
+                  ]
+            },
+            {
+                  "name": "מצפה ראובן",
+                  "text": "Kilátó Durában.",
+                  "category": "natural",
+                  "coords": [
+                        35.042084,
+                        31.488394
+                  ]
+            },
+            {
+                  "name": "עינות כנר",
+                  "text": "Forrás Durában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.048749,
+                        31.50688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الجنوب الفنية",
+                  "text": "Castel în Dura.",
+                  "category": "castle",
+                  "coords": [
+                        35.030064,
+                        31.505055
+                  ]
+            },
+            {
+                  "name": "إبراهيم",
+                  "text": "Punct de observație în Dura.",
+                  "category": "natural",
+                  "coords": [
+                        35.046658,
+                        31.507806
+                  ]
+            },
+            {
+                  "name": "الأمن الوقائي",
+                  "text": "Punct de observație în Dura.",
+                  "category": "natural",
+                  "coords": [
+                        35.023874,
+                        31.507601
+                  ]
+            },
+            {
+                  "name": "חורבת טראמה",
+                  "text": "Ruine în Dura.",
+                  "category": "historical",
+                  "coords": [
+                        35.033206,
+                        31.478881
+                  ]
+            },
+            {
+                  "name": "אבן ים",
+                  "text": "Ruine în Dura.",
+                  "category": "historical",
+                  "coords": [
+                        35.034308,
+                        31.481789
+                  ]
+            },
+            {
+                  "name": "שיח אחמד אל עבד",
+                  "text": "Ruine în Dura.",
+                  "category": "historical",
+                  "coords": [
+                        35.004238,
+                        31.502043
+                  ]
+            },
+            {
+                  "name": "מצפה ראובן",
+                  "text": "Punct de observație în Dura.",
+                  "category": "natural",
+                  "coords": [
+                        35.042084,
+                        31.488394
+                  ]
+            },
+            {
+                  "name": "עינות כנר",
+                  "text": "Izvor în Dura.",
+                  "category": "landmark",
+                  "coords": [
+                        35.048749,
+                        31.50688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "الجنوب الفنية",
+                  "text": "Castle in Dura.",
+                  "category": "castle",
+                  "coords": [
+                        35.030064,
+                        31.505055
+                  ]
+            },
+            {
+                  "name": "Ibraheem",
+                  "text": "Viewpoint in Dura.",
+                  "category": "natural",
+                  "coords": [
+                        35.046658,
+                        31.507806
+                  ]
+            },
+            {
+                  "name": "الأمن الوقائي",
+                  "text": "Viewpoint in Dura.",
+                  "category": "natural",
+                  "coords": [
+                        35.023874,
+                        31.507601
+                  ]
+            },
+            {
+                  "name": "חורבת טראמה",
+                  "text": "Ruins in Dura.",
+                  "category": "historical",
+                  "coords": [
+                        35.033206,
+                        31.478881
+                  ]
+            },
+            {
+                  "name": "אבן ים",
+                  "text": "Ruins in Dura.",
+                  "category": "historical",
+                  "coords": [
+                        35.034308,
+                        31.481789
+                  ]
+            },
+            {
+                  "name": "שיח אחמד אל עבד",
+                  "text": "Ruins in Dura.",
+                  "category": "historical",
+                  "coords": [
+                        35.004238,
+                        31.502043
+                  ]
+            },
+            {
+                  "name": "מצפה ראובן",
+                  "text": "Viewpoint in Dura.",
+                  "category": "natural",
+                  "coords": [
+                        35.042084,
+                        31.488394
+                  ]
+            },
+            {
+                  "name": "עינות כנר",
+                  "text": "Spring in Dura.",
+                  "category": "landmark",
+                  "coords": [
+                        35.048749,
+                        31.50688
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Dura", hu: "Dúra", ro: "Dura", en: "Dura" },
@@ -993,7 +12504,160 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-dura-cities-v2.webp",
   },
   {
-    id: "palestine-yatta-cities-v2",
+    id: "palestine-yatta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yatta Martyr Monument",
+                  "text": "Dieses Denkmal befindet sich in Yatta.",
+                  "category": "historical",
+                  "coords": [
+                        35.090022,
+                        31.445406
+                  ]
+            },
+            {
+                  "name": "مثلث حسن ابو دهود",
+                  "text": "Dieses Denkmal befindet sich in Yatta.",
+                  "category": "historical",
+                  "coords": [
+                        35.09175,
+                        31.439087
+                  ]
+            },
+            {
+                  "name": "مثلث سليط",
+                  "text": "Diese Attraktion befindet sich in Yatta.",
+                  "category": "landmark",
+                  "coords": [
+                        35.092228,
+                        31.44507
+                  ]
+            },
+            {
+                  "name": "Khirbet el Kufeir",
+                  "text": "Diese Ruinen befinden sich in Yatta.",
+                  "category": "historical",
+                  "coords": [
+                        35.098657,
+                        31.459731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yatta Martyr Monument",
+                  "text": "Ez az emlékmű Yatta városában található.",
+                  "category": "historical",
+                  "coords": [
+                        35.090022,
+                        31.445406
+                  ]
+            },
+            {
+                  "name": "مثلث حسن ابو دهود",
+                  "text": "Ez az emlékmű Yatta városában található.",
+                  "category": "historical",
+                  "coords": [
+                        35.09175,
+                        31.439087
+                  ]
+            },
+            {
+                  "name": "مثلث سليط",
+                  "text": "Ez a látványosság Yatta városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        35.092228,
+                        31.44507
+                  ]
+            },
+            {
+                  "name": "Khirbet el Kufeir",
+                  "text": "Ezek a romok Yatta városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.098657,
+                        31.459731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yatta Martyr Monument",
+                  "text": "Acest monument este situat în Yatta.",
+                  "category": "historical",
+                  "coords": [
+                        35.090022,
+                        31.445406
+                  ]
+            },
+            {
+                  "name": "مثلث حسن ابو دهود",
+                  "text": "Acest monument este situat în Yatta.",
+                  "category": "historical",
+                  "coords": [
+                        35.09175,
+                        31.439087
+                  ]
+            },
+            {
+                  "name": "مثلث سليط",
+                  "text": "Această atracție este situată în Yatta.",
+                  "category": "landmark",
+                  "coords": [
+                        35.092228,
+                        31.44507
+                  ]
+            },
+            {
+                  "name": "Khirbet el Kufeir",
+                  "text": "Aceste ruine se află în Yatta.",
+                  "category": "historical",
+                  "coords": [
+                        35.098657,
+                        31.459731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yatta Martyr Monument",
+                  "text": "This monument is located in Yatta.",
+                  "category": "historical",
+                  "coords": [
+                        35.090022,
+                        31.445406
+                  ]
+            },
+            {
+                  "name": "مثلث حسن ابو دهود",
+                  "text": "This monument is situated in Yatta.",
+                  "category": "historical",
+                  "coords": [
+                        35.09175,
+                        31.439087
+                  ]
+            },
+            {
+                  "name": "مثلث سليط",
+                  "text": "This attraction is found in Yatta.",
+                  "category": "landmark",
+                  "coords": [
+                        35.092228,
+                        31.44507
+                  ]
+            },
+            {
+                  "name": "Khirbet el Kufeir",
+                  "text": "These ruins are located in Yatta.",
+                  "category": "historical",
+                  "coords": [
+                        35.098657,
+                        31.459731
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "city",
     name: { de: "Yatta", hu: "Jatta", ro: "Yatta", en: "Yatta" },
@@ -1038,7 +12702,196 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-yatta-cities-v2.webp",
   },
   {
-    id: "palestine-bani-naim-cities-v2",
+    id: "palestine-bani-naim-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسجد الصحابه",
+                  "text": "مسجد الصحابه ist als Museum in Bani Naim etabliert.",
+                  "category": "museum",
+                  "coords": [
+                        35.161374,
+                        31.512511
+                  ]
+            },
+            {
+                  "name": "El Kanub Nature Reserve",
+                  "text": "Das El Kanub Nature Reserve ist ein Naturschutzgebiet in Bani Naim.",
+                  "category": "natural",
+                  "coords": [
+                        35.21978,
+                        31.571351
+                  ]
+            },
+            {
+                  "name": "נבי יקין",
+                  "text": "נבי יקין umfasst alte Ruinen in Bani Naim, die historisch mit biblischen Traditionen in Verbindung gebracht werden.",
+                  "category": "historical",
+                  "coords": [
+                        35.158002,
+                        31.498719
+                  ]
+            },
+            {
+                  "name": "מצפה רנה",
+                  "text": "מצפה רנה ist ein Aussichtspunkt in Bani Naim.",
+                  "category": "natural",
+                  "coords": [
+                        35.163739,
+                        31.493281
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "מצפה עמיחי ist ein Aussichtspunkt in Bani Naim.",
+                  "category": "natural",
+                  "coords": [
+                        35.162619,
+                        31.494892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسجد الصحابه",
+                  "text": "A(z) مسجد الصحابه egy múzeum Bani Naim városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.161374,
+                        31.512511
+                  ]
+            },
+            {
+                  "name": "El Kanub Nature Reserve",
+                  "text": "Az El Kanub Nature Reserve egy természetvédelmi terület Bani Naim városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.21978,
+                        31.571351
+                  ]
+            },
+            {
+                  "name": "נבי יקין",
+                  "text": "A Bani Naimban található נבי יקין történelmileg bibliai hagyományokhoz kapcsolódó ősi romokat foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        35.158002,
+                        31.498719
+                  ]
+            },
+            {
+                  "name": "מצפה רנה",
+                  "text": "A(z) מצפה רנה egy kilátó Bani Naim városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.163739,
+                        31.493281
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "A(z) מצפה עמיחי egy kilátó Bani Naim városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.162619,
+                        31.494892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسجد الصحابه",
+                  "text": "مسجد الصحابه este un muzeu înființat în Bani Naim.",
+                  "category": "museum",
+                  "coords": [
+                        35.161374,
+                        31.512511
+                  ]
+            },
+            {
+                  "name": "El Kanub Nature Reserve",
+                  "text": "El Kanub Nature Reserve este o rezervație naturală în Bani Naim.",
+                  "category": "natural",
+                  "coords": [
+                        35.21978,
+                        31.571351
+                  ]
+            },
+            {
+                  "name": "נבי יקין",
+                  "text": "נבי יקין conține ruine antice în Bani Naim, asociate istoric cu tradiții biblice.",
+                  "category": "historical",
+                  "coords": [
+                        35.158002,
+                        31.498719
+                  ]
+            },
+            {
+                  "name": "מצפה רנה",
+                  "text": "מצפה רנה este un punct de belvedere în Bani Naim.",
+                  "category": "natural",
+                  "coords": [
+                        35.163739,
+                        31.493281
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "מצפה עמיחי este un punct de belvedere în Bani Naim.",
+                  "category": "natural",
+                  "coords": [
+                        35.162619,
+                        31.494892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "مسجد الصحابه",
+                  "text": "مسجد الصحابه is established as a museum in Bani Naim.",
+                  "category": "museum",
+                  "coords": [
+                        35.161374,
+                        31.512511
+                  ]
+            },
+            {
+                  "name": "El Kanub Nature Reserve",
+                  "text": "El Kanub Nature Reserve is a nature reserve located in Bani Naim.",
+                  "category": "natural",
+                  "coords": [
+                        35.21978,
+                        31.571351
+                  ]
+            },
+            {
+                  "name": "נבי יקין",
+                  "text": "נבי יקין features ancient ruins in Bani Naim historically associated with biblical traditions.",
+                  "category": "historical",
+                  "coords": [
+                        35.158002,
+                        31.498719
+                  ]
+            },
+            {
+                  "name": "מצפה רנה",
+                  "text": "מצפה רנה serves as a viewpoint located in Bani Naim.",
+                  "category": "natural",
+                  "coords": [
+                        35.163739,
+                        31.493281
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "מצפה עמיחי serves as a viewpoint located in Bani Naim.",
+                  "category": "natural",
+                  "coords": [
+                        35.162619,
+                        31.494892
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Bani Naim", hu: "Bani Naim", ro: "Bani Na'im", en: "Bani Na'im" },
@@ -1083,7 +12936,88 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-bani-naim-cities-v2.webp",
   },
   {
-    id: "palestine-ad-dhahiriya-cities-v2",
+    id: "palestine-ad-dhahiriya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "מצודה",
+                  "text": "Archäologische Stätte in ad-Dhahiriya.",
+                  "category": "historical",
+                  "coords": [
+                        34.978988,
+                        31.464232
+                  ]
+            },
+            {
+                  "name": "Khirbet Kafr Jul",
+                  "text": "Ruinen in ad-Dhahiriya.",
+                  "category": "historical",
+                  "coords": [
+                        34.951666,
+                        31.434464
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "מצודה",
+                  "text": "Régészeti lelőhely ad-Dhahiriyában.",
+                  "category": "historical",
+                  "coords": [
+                        34.978988,
+                        31.464232
+                  ]
+            },
+            {
+                  "name": "Khirbet Kafr Jul",
+                  "text": "Romok ad-Dhahiriyában.",
+                  "category": "historical",
+                  "coords": [
+                        34.951666,
+                        31.434464
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "מצודה",
+                  "text": "Situl arheologic în ad-Dhahiriya.",
+                  "category": "historical",
+                  "coords": [
+                        34.978988,
+                        31.464232
+                  ]
+            },
+            {
+                  "name": "Khirbet Kafr Jul",
+                  "text": "Ruine în ad-Dhahiriya.",
+                  "category": "historical",
+                  "coords": [
+                        34.951666,
+                        31.434464
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "מצודה",
+                  "text": "Archaeological site in ad-Dhahiriya.",
+                  "category": "historical",
+                  "coords": [
+                        34.978988,
+                        31.464232
+                  ]
+            },
+            {
+                  "name": "Khirbet Kafr Jul",
+                  "text": "Ruins in ad-Dhahiriya.",
+                  "category": "historical",
+                  "coords": [
+                        34.951666,
+                        31.434464
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "ad-Dhahiriya", hu: "ed-Dahirijja", ro: "Ad-Dhahiriya", en: "Ad-Dhahiriya" },
@@ -1128,7 +13062,448 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-ad-dhahiriya-cities-v2.webp",
   },
   {
-    id: "palestine-beit-ummar-cities-v2",
+    id: "palestine-beit-ummar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "תל גדור",
+                  "text": "Diese archäologische Stätte befindet sich in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.092145,
+                        31.632629
+                  ]
+            },
+            {
+                  "name": "גת",
+                  "text": "Diese archäologische Stätte befindet sich in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "ג'בל אל-קרן",
+                  "text": "Dieser Gipfel befindet sich in Beit Ummar.",
+                  "category": "natural",
+                  "coords": [
+                        35.126013,
+                        31.618645
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "Diese Ruinen befinden sich in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "Khirbet Qufin",
+                  "text": "Diese Ruinen befinden sich in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.114018,
+                        31.621026
+                  ]
+            },
+            {
+                  "name": "שומרה",
+                  "text": "שומרה ist eine Ruinenstätte in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.069137,
+                        31.622649
+                  ]
+            },
+            {
+                  "name": "סת נג׳לה",
+                  "text": "סת נג׳לה ist eine historische Ruine in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.077311,
+                        31.617975
+                  ]
+            },
+            {
+                  "name": "כבשן סיד",
+                  "text": "כבשן סיד ist eine Ruinenstätte in der Stadt Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.079922,
+                        31.623542
+                  ]
+            },
+            {
+                  "name": "מצפה אליאב",
+                  "text": "מצפה אליאב ist ein Aussichtspunkt in Beit Ummar.",
+                  "category": "natural",
+                  "coords": [
+                        35.099489,
+                        31.609722
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "מצפה עמיחי bietet einen Ausblick über Beit Ummar.",
+                  "category": "natural",
+                  "coords": [
+                        35.106667,
+                        31.606422
+                  ]
+            },
+            {
+                  "name": "עין ג׳אלא",
+                  "text": "עין ג׳אלא ist eine natürliche Quelle in Beit Ummar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.073278,
+                        31.6195
+                  ]
+            },
+            {
+                  "name": "עין כסיח",
+                  "text": "עין כסיח ist eine Wasserquelle in der Stadt Beit Ummar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.086889,
+                        31.635092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "תל גדור",
+                  "text": "Ez a régészeti lelőhely Beit Ummar városában található.",
+                  "category": "historical",
+                  "coords": [
+                        35.092145,
+                        31.632629
+                  ]
+            },
+            {
+                  "name": "גת",
+                  "text": "Ez a régészeti lelőhely Beit Ummar városában található.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "ג'בל אל-קרן",
+                  "text": "Ez a hegycsúcs Beit Ummar területén található.",
+                  "category": "natural",
+                  "coords": [
+                        35.126013,
+                        31.618645
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "Ezek a romok Beit Ummar városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "Khirbet Qufin",
+                  "text": "Ezek a romok Beit Ummar városában találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        35.114018,
+                        31.621026
+                  ]
+            },
+            {
+                  "name": "שומרה",
+                  "text": "A(z) שומרה egy rom Beit Ummar városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.069137,
+                        31.622649
+                  ]
+            },
+            {
+                  "name": "סת נג׳לה",
+                  "text": "A(z) סת נג׳לה egy történelmi rom Beit Ummarban.",
+                  "category": "historical",
+                  "coords": [
+                        35.077311,
+                        31.617975
+                  ]
+            },
+            {
+                  "name": "כבשן סיד",
+                  "text": "A(z) כבשן סיד egy romterület Beit Ummar területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.079922,
+                        31.623542
+                  ]
+            },
+            {
+                  "name": "מצפה אליאב",
+                  "text": "A(z) מצפה אליאב egy kilátópont Beit Ummar városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.099489,
+                        31.609722
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "A(z) מצפה עמיחי egy kilátó Beit Ummar területén.",
+                  "category": "natural",
+                  "coords": [
+                        35.106667,
+                        31.606422
+                  ]
+            },
+            {
+                  "name": "עין ג׳אלא",
+                  "text": "A(z) עין ג׳אלא egy természetes forrás Beit Ummarban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.073278,
+                        31.6195
+                  ]
+            },
+            {
+                  "name": "עין כסיח",
+                  "text": "A(z) עין כסיח egy vízforrás Beit Ummar városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.086889,
+                        31.635092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "תל גדור",
+                  "text": "Acest sit arheologic este situat în Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.092145,
+                        31.632629
+                  ]
+            },
+            {
+                  "name": "גת",
+                  "text": "Acest sit arheologic este situat în Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "ג'בל אל-קרן",
+                  "text": "Acest vârf se află în Beit Ummar.",
+                  "category": "natural",
+                  "coords": [
+                        35.126013,
+                        31.618645
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "Aceste ruine se află în Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "Khirbet Qufin",
+                  "text": "Aceste ruine se află în Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.114018,
+                        31.621026
+                  ]
+            },
+            {
+                  "name": "שומרה",
+                  "text": "שומרה este o ruină din Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.069137,
+                        31.622649
+                  ]
+            },
+            {
+                  "name": "סת נג׳לה",
+                  "text": "סת נג׳לה este o ruină istorică situată în Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.077311,
+                        31.617975
+                  ]
+            },
+            {
+                  "name": "כבשן סיד",
+                  "text": "כבשן סיד este o ruină aflată în orașul Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.079922,
+                        31.623542
+                  ]
+            },
+            {
+                  "name": "מצפה אליאב",
+                  "text": "מצפה אליאב este un punct de belvedere în Beit Ummar.",
+                  "category": "natural",
+                  "coords": [
+                        35.099489,
+                        31.609722
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "מצפה עמיחי este un punct de panoramă situat în Beit Ummar.",
+                  "category": "natural",
+                  "coords": [
+                        35.106667,
+                        31.606422
+                  ]
+            },
+            {
+                  "name": "עין ג׳אלא",
+                  "text": "עין ג׳אלא este un izvor natural din Beit Ummar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.073278,
+                        31.6195
+                  ]
+            },
+            {
+                  "name": "עין כסיח",
+                  "text": "עין כסיח este un izvor situat în orașul Beit Ummar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.086889,
+                        31.635092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tel Gador",
+                  "text": "This archaeological site is located in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.092145,
+                        31.632629
+                  ]
+            },
+            {
+                  "name": "Gat",
+                  "text": "This archaeological site is situated in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.094894,
+                        31.605792
+                  ]
+            },
+            {
+                  "name": "Jebel al Qarn",
+                  "text": "This peak is located in Beit Ummar.",
+                  "category": "natural",
+                  "coords": [
+                        35.126013,
+                        31.618645
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "These ruins can be found in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "Khirbet Qufin",
+                  "text": "These ruins are situated in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.114018,
+                        31.621026
+                  ]
+            },
+            {
+                  "name": "שומרה",
+                  "text": "שומרה is a ruined site located in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.069137,
+                        31.622649
+                  ]
+            },
+            {
+                  "name": "סת נג׳לה",
+                  "text": "סת נג׳לה is an ancient ruin in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.077311,
+                        31.617975
+                  ]
+            },
+            {
+                  "name": "כבשן סיד",
+                  "text": "כבשן סיד is a ruin located in Beit Ummar.",
+                  "category": "historical",
+                  "coords": [
+                        35.079922,
+                        31.623542
+                  ]
+            },
+            {
+                  "name": "מצפה אליאב",
+                  "text": "מצפה אליאב is a viewpoint in Beit Ummar.",
+                  "category": "natural",
+                  "coords": [
+                        35.099489,
+                        31.609722
+                  ]
+            },
+            {
+                  "name": "מצפה עמיחי",
+                  "text": "מצפה עמיחי is a scenic viewpoint located in Beit Ummar.",
+                  "category": "natural",
+                  "coords": [
+                        35.106667,
+                        31.606422
+                  ]
+            },
+            {
+                  "name": "עין ג׳אלא",
+                  "text": "עין ג׳אלא is a natural spring located in Beit Ummar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.073278,
+                        31.6195
+                  ]
+            },
+            {
+                  "name": "עין כסיח",
+                  "text": "עין כסיח is a water spring situated in Beit Ummar.",
+                  "category": "landmark",
+                  "coords": [
+                        35.086889,
+                        31.635092
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Beit Ummar", hu: "Bét Ummar", ro: "Beit Ummar", en: "Beit Ummar" },
@@ -1218,7 +13593,196 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-surif-cities-v2.webp",
   },
   {
-    id: "palestine-sair-cities-v2",
+    id: "palestine-sair-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "محلات طه لمواد الناء",
+                  "text": "Gebäude in Sa'ir.",
+                  "category": "castle",
+                  "coords": [
+                        35.137262,
+                        31.590352
+                  ]
+            },
+            {
+                  "name": "Khirbet Ras at-Tawil",
+                  "text": "Archäologische Stätte in Sa'ir.",
+                  "category": "historical",
+                  "coords": [
+                        35.142547,
+                        31.5671
+                  ]
+            },
+            {
+                  "name": "חורבת תין ברין",
+                  "text": "Ruinen in Sa'ir.",
+                  "category": "historical",
+                  "coords": [
+                        35.130998,
+                        31.601867
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "Ruinen in Sa'ir.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "מצפה חלחול",
+                  "text": "Aussichtspunkt bei Sa'ir.",
+                  "category": "natural",
+                  "coords": [
+                        35.11992,
+                        31.589095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "محلات طه لمواد الناء",
+                  "text": "Épület Sa'irban.",
+                  "category": "castle",
+                  "coords": [
+                        35.137262,
+                        31.590352
+                  ]
+            },
+            {
+                  "name": "Khirbet Ras at-Tawil",
+                  "text": "Régészeti lelőhely Sa'irban.",
+                  "category": "historical",
+                  "coords": [
+                        35.142547,
+                        31.5671
+                  ]
+            },
+            {
+                  "name": "חורבת תין ברין",
+                  "text": "Romok Sa'irban.",
+                  "category": "historical",
+                  "coords": [
+                        35.130998,
+                        31.601867
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "Romok Sa'irban.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "מצפה חלחול",
+                  "text": "Kilátó Sa'ir közelében.",
+                  "category": "natural",
+                  "coords": [
+                        35.11992,
+                        31.589095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "محلات طه لمواد الناء",
+                  "text": "Clădire în Sa'ir.",
+                  "category": "castle",
+                  "coords": [
+                        35.137262,
+                        31.590352
+                  ]
+            },
+            {
+                  "name": "Khirbet Ras at-Tawil",
+                  "text": "Situl arheologic în Sa'ir.",
+                  "category": "historical",
+                  "coords": [
+                        35.142547,
+                        31.5671
+                  ]
+            },
+            {
+                  "name": "חורבת תין ברין",
+                  "text": "Ruine în Sa'ir.",
+                  "category": "historical",
+                  "coords": [
+                        35.130998,
+                        31.601867
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "Ruine în Sa'ir.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "מצפה חלחול",
+                  "text": "Punct de observație în Sa'ir.",
+                  "category": "natural",
+                  "coords": [
+                        35.11992,
+                        31.589095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Taha company 0599364361",
+                  "text": "Building in Sa'ir.",
+                  "category": "castle",
+                  "coords": [
+                        35.137262,
+                        31.590352
+                  ]
+            },
+            {
+                  "name": "Khirbet Ras at-Tawil",
+                  "text": "Archaeological site in Sa'ir.",
+                  "category": "historical",
+                  "coords": [
+                        35.142547,
+                        31.5671
+                  ]
+            },
+            {
+                  "name": "חורבת תין ברין",
+                  "text": "Ruins in Sa'ir.",
+                  "category": "historical",
+                  "coords": [
+                        35.130998,
+                        31.601867
+                  ]
+            },
+            {
+                  "name": "חורבת בית ח׳יירן",
+                  "text": "Ruins in Sa'ir.",
+                  "category": "historical",
+                  "coords": [
+                        35.112658,
+                        31.599284
+                  ]
+            },
+            {
+                  "name": "מצפה חלחול",
+                  "text": "Viewpoint in Sa'ir.",
+                  "category": "natural",
+                  "coords": [
+                        35.11992,
+                        31.589095
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Sa'ir", hu: "Száír", ro: "Sa'ir", en: "Sa'ir" },
@@ -1308,7 +13872,52 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-ash-shuyukh-cities-v2.webp",
   },
   {
-    id: "palestine-idhna-cities-v2",
+    id: "palestine-idhna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "خلة عتيق",
+                  "text": "Khalt Ateg ist eine lokale Sehenswürdigkeit in Idhna.",
+                  "category": "landmark",
+                  "coords": [
+                        34.972973,
+                        31.546765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "خلة عتيق",
+                  "text": "A Khalt Ateg egy helyi látványosság Idhna városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.972973,
+                        31.546765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "خلة عتيق",
+                  "text": "Khalt Ateg este o atracție locală situată în Idhna.",
+                  "category": "landmark",
+                  "coords": [
+                        34.972973,
+                        31.546765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khalt Ateg",
+                  "text": "Khalt Ateg is a local attraction situated in Idhna.",
+                  "category": "landmark",
+                  "coords": [
+                        34.972973,
+                        31.546765
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Idhna", hu: "Idna", ro: "Idhna", en: "Idhna" },
@@ -1443,7 +14052,268 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-kharas-cities-v2.webp",
   },
   {
-    id: "palestine-nuba-cities-v2",
+    id: "palestine-nuba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسبح ومنتزه الكرمل",
+                  "text": "Al Karmel ist ein Freizeitpark in der Stadt Nuba.",
+                  "category": "recreational",
+                  "coords": [
+                        35.046607,
+                        31.578028
+                  ]
+            },
+            {
+                  "name": "منتزه وحدائق الصفا",
+                  "text": "Alsafa ist ein Freizeitpark in der Stadt Nuba.",
+                  "category": "recreational",
+                  "coords": [
+                        35.044522,
+                        31.578826
+                  ]
+            },
+            {
+                  "name": "محمية واد القف",
+                  "text": "محمية واد القف ist ein Naturschutzgebiet in Nuba.",
+                  "category": "natural",
+                  "coords": [
+                        35.035305,
+                        31.577352
+                  ]
+            },
+            {
+                  "name": "מערת טור א־צפא",
+                  "text": "מערת טור א־צפא ist ein bemerkenswerter Höhleneingang in der Gegend von Nuba.",
+                  "category": "natural",
+                  "coords": [
+                        35.043167,
+                        31.582954
+                  ]
+            },
+            {
+                  "name": "مدخل مزرعة الادهمي",
+                  "text": "مدخل مزرعة الادهمي ist eine lokale Sehenswürdigkeit in Nuba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.008585,
+                        31.595982
+                  ]
+            },
+            {
+                  "name": "شقه ترقوميا",
+                  "text": "شقه ترقوميا ist eine lokale Sehenswürdigkeit in Nuba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.01176,
+                        31.576285
+                  ]
+            },
+            {
+                  "name": "מצפה יער אל קוף",
+                  "text": "מצפה יער אל קוף ist ein Aussichtspunkt in Nuba.",
+                  "category": "natural",
+                  "coords": [
+                        35.032597,
+                        31.565283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسبح ومنتزه الكرمل",
+                  "text": "Az Al Karmel egy vidámpark Nuba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.046607,
+                        31.578028
+                  ]
+            },
+            {
+                  "name": "منتزه وحدائق الصفا",
+                  "text": "Az Alsafa egy vidámpark Nuba városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.044522,
+                        31.578826
+                  ]
+            },
+            {
+                  "name": "محمية واد القف",
+                  "text": "A(z) محمية واد القف egy természetvédelmi terület Nuba városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.035305,
+                        31.577352
+                  ]
+            },
+            {
+                  "name": "מערת טור א־צפא",
+                  "text": "A(z) מערת טור א־צפא egy nevezetes barlangbejárat Nuba területén.",
+                  "category": "natural",
+                  "coords": [
+                        35.043167,
+                        31.582954
+                  ]
+            },
+            {
+                  "name": "مدخل مزرعة الادهمي",
+                  "text": "A(z) مدخل مزرعة الادهمي egy helyi látványosság Nuba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.008585,
+                        31.595982
+                  ]
+            },
+            {
+                  "name": "شقه ترقوميا",
+                  "text": "A(z) شقه ترقوميا egy helyi látványosság Nuba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.01176,
+                        31.576285
+                  ]
+            },
+            {
+                  "name": "מצפה יער אל קוף",
+                  "text": "A(z) מצפה יער אל קוף egy kilátó Nuba városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.032597,
+                        31.565283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسبح ومنتزه الكرمل",
+                  "text": "Al Karmel este un parc tematic situat în orașul Nuba.",
+                  "category": "recreational",
+                  "coords": [
+                        35.046607,
+                        31.578028
+                  ]
+            },
+            {
+                  "name": "منتزه وحدائق الصفا",
+                  "text": "Alsafa este un parc tematic situat în orașul Nuba.",
+                  "category": "recreational",
+                  "coords": [
+                        35.044522,
+                        31.578826
+                  ]
+            },
+            {
+                  "name": "محمية واد القف",
+                  "text": "محمية واد القف este o rezervație naturală în Nuba.",
+                  "category": "natural",
+                  "coords": [
+                        35.035305,
+                        31.577352
+                  ]
+            },
+            {
+                  "name": "מערת טור א־צפא",
+                  "text": "מערת טור א־צפא este o intrare remarcabilă de peșteră în zona Nuba.",
+                  "category": "natural",
+                  "coords": [
+                        35.043167,
+                        31.582954
+                  ]
+            },
+            {
+                  "name": "مدخل مزرعة الادهمي",
+                  "text": "مدخل مزرعة الادهمي este o atracție locală situată în Nuba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.008585,
+                        31.595982
+                  ]
+            },
+            {
+                  "name": "شقه ترقوميا",
+                  "text": "شقه ترقوميا este o atracție locală situată în Nuba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.01176,
+                        31.576285
+                  ]
+            },
+            {
+                  "name": "מצפה יער אל קוף",
+                  "text": "מצפה יער אל קוף este un punct de belvedere în Nuba.",
+                  "category": "natural",
+                  "coords": [
+                        35.032597,
+                        31.565283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Karmel",
+                  "text": "Al Karmel is a theme park located in the city of Nuba.",
+                  "category": "recreational",
+                  "coords": [
+                        35.046607,
+                        31.578028
+                  ]
+            },
+            {
+                  "name": "Alsafa",
+                  "text": "Alsafa is a theme park located in the city of Nuba.",
+                  "category": "recreational",
+                  "coords": [
+                        35.044522,
+                        31.578826
+                  ]
+            },
+            {
+                  "name": "محمية واد القف",
+                  "text": "محمية واد القف is a nature reserve located in Nuba.",
+                  "category": "natural",
+                  "coords": [
+                        35.035305,
+                        31.577352
+                  ]
+            },
+            {
+                  "name": "מערת טור א־צפא",
+                  "text": "מערת טור א־צפא is a notable cave entrance located in the Nuba area.",
+                  "category": "natural",
+                  "coords": [
+                        35.043167,
+                        31.582954
+                  ]
+            },
+            {
+                  "name": "مدخل مزرعة الادهمي",
+                  "text": "مدخل مزرعة الادهمي is a local attraction situated in Nuba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.008585,
+                        31.595982
+                  ]
+            },
+            {
+                  "name": "شقه ترقوميا",
+                  "text": "شقه ترقوميا is a local attraction situated in Nuba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.01176,
+                        31.576285
+                  ]
+            },
+            {
+                  "name": "מצפה יער אל קוף",
+                  "text": "מצפה יער אל קוף serves as a viewpoint located in Nuba.",
+                  "category": "natural",
+                  "coords": [
+                        35.032597,
+                        31.565283
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Nuba", hu: "Nuba", ro: "Nuba", en: "Nuba" },
@@ -1488,7 +14358,268 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-nuba-cities-v2.webp",
   },
   {
-    id: "palestine-beit-kahel-cities-v2",
+    id: "palestine-beit-kahel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسبح ومنتزه الكرمل",
+                  "text": "Themenpark in Beit Kahel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.046607,
+                        31.578028
+                  ]
+            },
+            {
+                  "name": "أميرة روفان",
+                  "text": "Veranstaltungsort in Beit Kahel.",
+                  "category": "castle",
+                  "coords": [
+                        35.087749,
+                        31.548246
+                  ]
+            },
+            {
+                  "name": "مسجد أهل الخير",
+                  "text": "Museum in Beit Kahel.",
+                  "category": "museum",
+                  "coords": [
+                        35.084838,
+                        31.550671
+                  ]
+            },
+            {
+                  "name": "הר חלחול",
+                  "text": "Berggipfel bei Beit Kahel.",
+                  "category": "natural",
+                  "coords": [
+                        35.102988,
+                        31.566547
+                  ]
+            },
+            {
+                  "name": "Halhoul center",
+                  "text": "Attraktion in Beit Kahel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.098981,
+                        31.579181
+                  ]
+            },
+            {
+                  "name": "شركة الشريف للتجارة والاستثمار",
+                  "text": "Attraktion in Beit Kahel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.100836,
+                        31.555358
+                  ]
+            },
+            {
+                  "name": "Khirbet en-Nasara",
+                  "text": "Ruinen in Beit Kahel.",
+                  "category": "historical",
+                  "coords": [
+                        35.093592,
+                        31.549356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسبح ومنتزه الكرمل",
+                  "text": "Vidámpark Beit Kahelben.",
+                  "category": "recreational",
+                  "coords": [
+                        35.046607,
+                        31.578028
+                  ]
+            },
+            {
+                  "name": "أميرة روفان",
+                  "text": "Rendezvényhelyszín Beit Kahelben.",
+                  "category": "castle",
+                  "coords": [
+                        35.087749,
+                        31.548246
+                  ]
+            },
+            {
+                  "name": "مسجد أهل الخير",
+                  "text": "Múzeum Beit Kahelben.",
+                  "category": "museum",
+                  "coords": [
+                        35.084838,
+                        31.550671
+                  ]
+            },
+            {
+                  "name": "הר חלחול",
+                  "text": "Hegycsúcs Beit Kahel közelében.",
+                  "category": "natural",
+                  "coords": [
+                        35.102988,
+                        31.566547
+                  ]
+            },
+            {
+                  "name": "Halhoul center",
+                  "text": "Látnivaló Beit Kahelben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.098981,
+                        31.579181
+                  ]
+            },
+            {
+                  "name": "شركة الشريف للتجارة والاستثمار",
+                  "text": "Látnivaló Beit Kahelben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.100836,
+                        31.555358
+                  ]
+            },
+            {
+                  "name": "Khirbet en-Nasara",
+                  "text": "Romok Beit Kahelben.",
+                  "category": "historical",
+                  "coords": [
+                        35.093592,
+                        31.549356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسبح ومنتزه الكرمل",
+                  "text": "Parc tematic în Beit Kahel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.046607,
+                        31.578028
+                  ]
+            },
+            {
+                  "name": "أميرة روفان",
+                  "text": "Locație de evenimente în Beit Kahel.",
+                  "category": "castle",
+                  "coords": [
+                        35.087749,
+                        31.548246
+                  ]
+            },
+            {
+                  "name": "مسجد أهل الخير",
+                  "text": "Muzeu în Beit Kahel.",
+                  "category": "museum",
+                  "coords": [
+                        35.084838,
+                        31.550671
+                  ]
+            },
+            {
+                  "name": "הר חלחול",
+                  "text": "Vârf de munte în Beit Kahel.",
+                  "category": "natural",
+                  "coords": [
+                        35.102988,
+                        31.566547
+                  ]
+            },
+            {
+                  "name": "Halhoul center",
+                  "text": "Atracție în Beit Kahel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.098981,
+                        31.579181
+                  ]
+            },
+            {
+                  "name": "شركة الشريف للتجارة والاستثمار",
+                  "text": "Atracție în Beit Kahel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.100836,
+                        31.555358
+                  ]
+            },
+            {
+                  "name": "Khirbet en-Nasara",
+                  "text": "Ruine în Beit Kahel.",
+                  "category": "historical",
+                  "coords": [
+                        35.093592,
+                        31.549356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Karmel",
+                  "text": "Theme park in Beit Kahel.",
+                  "category": "recreational",
+                  "coords": [
+                        35.046607,
+                        31.578028
+                  ]
+            },
+            {
+                  "name": "Rovan Hall",
+                  "text": "Venue in Beit Kahel.",
+                  "category": "castle",
+                  "coords": [
+                        35.087749,
+                        31.548246
+                  ]
+            },
+            {
+                  "name": "مسجد أهل الخير",
+                  "text": "Museum in Beit Kahel.",
+                  "category": "museum",
+                  "coords": [
+                        35.084838,
+                        31.550671
+                  ]
+            },
+            {
+                  "name": "Mount Nabi Yunis",
+                  "text": "Mountain peak in Beit Kahel.",
+                  "category": "natural",
+                  "coords": [
+                        35.102988,
+                        31.566547
+                  ]
+            },
+            {
+                  "name": "Halhoul center",
+                  "text": "Attraction in Beit Kahel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.098981,
+                        31.579181
+                  ]
+            },
+            {
+                  "name": "Alsharif Traid & Investment Co",
+                  "text": "Attraction in Beit Kahel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.100836,
+                        31.555358
+                  ]
+            },
+            {
+                  "name": "Khirbet en-Nasara",
+                  "text": "Ruins in Beit Kahel.",
+                  "category": "historical",
+                  "coords": [
+                        35.093592,
+                        31.549356
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Beit Kahel", hu: "Bét Kahel", ro: "Beit Kahel", en: "Beit Kahel" },
@@ -1533,7 +14664,232 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-beit-kahel-cities-v2.webp",
   },
   {
-    id: "palestine-tafpuh-cities-v2",
+    id: "palestine-tafpuh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "الجنوب الفنية",
+                  "text": "الجنوب الفنية ist eine Burg in der Stadt Taffuh.",
+                  "category": "castle",
+                  "coords": [
+                        35.030064,
+                        31.505055
+                  ]
+            },
+            {
+                  "name": "ميدان الشهداء (الجرن)",
+                  "text": "ميدان الشهداء (الجرن) ist ein Denkmal in Taffuh.",
+                  "category": "historical",
+                  "coords": [
+                        35.04852,
+                        31.53833
+                  ]
+            },
+            {
+                  "name": "إبراهيم",
+                  "text": "Ibraheem ist ein Aussichtspunkt in Taffuh.",
+                  "category": "natural",
+                  "coords": [
+                        35.046658,
+                        31.507806
+                  ]
+            },
+            {
+                  "name": "الأمن الوقائي",
+                  "text": "الأمن الوقائي bietet Aussichten auf die Stadt Taffuh.",
+                  "category": "natural",
+                  "coords": [
+                        35.023874,
+                        31.507601
+                  ]
+            },
+            {
+                  "name": "دنديس للاثاث المعدني",
+                  "text": "دنديس للاثاث المعدني ist eine lokale Sehenswürdigkeit in Taffuh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06608,
+                        31.527142
+                  ]
+            },
+            {
+                  "name": "עינות כנר",
+                  "text": "עינות כנר ist eine Quelle in Taffuh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.048749,
+                        31.50688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الجنوب الفنية",
+                  "text": "A(z) الجنوب الفنية egy vár Taffuh területén.",
+                  "category": "castle",
+                  "coords": [
+                        35.030064,
+                        31.505055
+                  ]
+            },
+            {
+                  "name": "ميدان الشهداء (الجرن)",
+                  "text": "A(z) ميدان الشهداء (الجرن) egy emlékmű Taffuh városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.04852,
+                        31.53833
+                  ]
+            },
+            {
+                  "name": "إبراهيم",
+                  "text": "Az Ibraheem egy kilátópont Taffuh területén.",
+                  "category": "natural",
+                  "coords": [
+                        35.046658,
+                        31.507806
+                  ]
+            },
+            {
+                  "name": "الأمن الوقائي",
+                  "text": "A(z) الأمن الوقائي egy kilátó Taffuh városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.023874,
+                        31.507601
+                  ]
+            },
+            {
+                  "name": "دنديس للاثاث المعدني",
+                  "text": "A(z) دنديس للاثاث المعدني egy helyi látványosság Taffuh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06608,
+                        31.527142
+                  ]
+            },
+            {
+                  "name": "עינות כנר",
+                  "text": "A(z) עינות כנר egy forrás Taffuh területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.048749,
+                        31.50688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الجنوب الفنية",
+                  "text": "الجنوب الفنية este un castel situat în Taffuh.",
+                  "category": "castle",
+                  "coords": [
+                        35.030064,
+                        31.505055
+                  ]
+            },
+            {
+                  "name": "ميدان الشهداء (الجرن)",
+                  "text": "ميدان الشهداء (الجرن) este un monument aflat în Taffuh.",
+                  "category": "historical",
+                  "coords": [
+                        35.04852,
+                        31.53833
+                  ]
+            },
+            {
+                  "name": "إبراهيم",
+                  "text": "Ibraheem este un punct de belvedere în Taffuh.",
+                  "category": "natural",
+                  "coords": [
+                        35.046658,
+                        31.507806
+                  ]
+            },
+            {
+                  "name": "الأمن الوقائي",
+                  "text": "الأمن الوقائي este un punct de perspectivă din Taffuh.",
+                  "category": "natural",
+                  "coords": [
+                        35.023874,
+                        31.507601
+                  ]
+            },
+            {
+                  "name": "دنديس للاثاث المعدني",
+                  "text": "دنديس للاثاث المعدني este o atracție locală din Taffuh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06608,
+                        31.527142
+                  ]
+            },
+            {
+                  "name": "עינות כנר",
+                  "text": "עינות כנר este un izvor situat în Taffuh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.048749,
+                        31.50688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "الجنوب الفنية",
+                  "text": "الجنوب الفنية is a castle located in the city of Taffuh.",
+                  "category": "castle",
+                  "coords": [
+                        35.030064,
+                        31.505055
+                  ]
+            },
+            {
+                  "name": "ميدان الشهداء (الجرن)",
+                  "text": "ميدان الشهداء (الجرن) is a monument in Taffuh.",
+                  "category": "historical",
+                  "coords": [
+                        35.04852,
+                        31.53833
+                  ]
+            },
+            {
+                  "name": "Ibraheem",
+                  "text": "Ibraheem is a viewpoint located in Taffuh.",
+                  "category": "natural",
+                  "coords": [
+                        35.046658,
+                        31.507806
+                  ]
+            },
+            {
+                  "name": "الأمن الوقائي",
+                  "text": "الأمن الوقائي is a viewpoint in the city of Taffuh.",
+                  "category": "natural",
+                  "coords": [
+                        35.023874,
+                        31.507601
+                  ]
+            },
+            {
+                  "name": "دنديس للاثاث المعدني",
+                  "text": "دنديس للاثاث المعدني is a local attraction in Taffuh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.06608,
+                        31.527142
+                  ]
+            },
+            {
+                  "name": "עינות כנר",
+                  "text": "עינות כנר is a natural spring located in Taffuh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.048749,
+                        31.50688
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Taffuh", hu: "Taffuh", ro: "Taffuh", en: "Taffuh" },
@@ -1578,7 +14934,196 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-tafpuh-cities-v2.webp",
   },
   {
-    id: "palestine-as-samu-cities-v2",
+    id: "palestine-as-samu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "סוסיא העתיקה",
+                  "text": "Das antike Susya ist eine archäologische Stätte in as-Samu mit den Überresten eines historischen jüdischen Dorfes.",
+                  "category": "historical",
+                  "coords": [
+                        35.101436,
+                        31.406977
+                  ]
+            },
+            {
+                  "name": "בית הכנסת העתיק של אשתמוע",
+                  "text": "Die Ancient Synagogue ist eine archäologische Stätte in as-Samu.",
+                  "category": "historical",
+                  "coords": [
+                        35.067383,
+                        31.398668
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري",
+                  "text": "Old Roman Church ist ein Denkmal in as-Samu.",
+                  "category": "historical",
+                  "coords": [
+                        35.06892,
+                        31.397386
+                  ]
+            },
+            {
+                  "name": "מג׳דל בע",
+                  "text": "מג׳דל בע ist ein Ruine in as-Samu.",
+                  "category": "historical",
+                  "coords": [
+                        35.06115,
+                        31.424488
+                  ]
+            },
+            {
+                  "name": "مسبح ومنتزه الوادي",
+                  "text": "Masbh Al Wady ist ein Aussichtspunkt in as-Samu.",
+                  "category": "natural",
+                  "coords": [
+                        35.069243,
+                        31.400887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "סוסיא העתיקה",
+                  "text": "Az ősi Szuszia egy régészeti lelőhely as-Samu városában, amely egy történelmi zsidó falu maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        35.101436,
+                        31.406977
+                  ]
+            },
+            {
+                  "name": "בית הכנסת העתיק של אשתמוע",
+                  "text": "Az Ancient Synagogue egy régészeti lelőhely as-Samu városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.067383,
+                        31.398668
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري",
+                  "text": "A(z) Old Roman Church egy emlékmű as-Samu területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.06892,
+                        31.397386
+                  ]
+            },
+            {
+                  "name": "מג׳דל בע",
+                  "text": "A(z) מג׳דל בע egy romok as-Samu területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.06115,
+                        31.424488
+                  ]
+            },
+            {
+                  "name": "مسبح ومنتزه الوادي",
+                  "text": "A(z) Masbh Al Wady egy kilátó as-Samu területén.",
+                  "category": "natural",
+                  "coords": [
+                        35.069243,
+                        31.400887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "סוסיא העתיקה",
+                  "text": "Vechea Susya este un sit arheologic din as-Samu, care prezintă rămășițele unui sat evreiesc istoric.",
+                  "category": "historical",
+                  "coords": [
+                        35.101436,
+                        31.406977
+                  ]
+            },
+            {
+                  "name": "בית הכנסת העתיק של אשתמוע",
+                  "text": "Ancient Synagogue este un sit arheologic situat în as-Samu.",
+                  "category": "historical",
+                  "coords": [
+                        35.067383,
+                        31.398668
+                  ]
+            },
+            {
+                  "name": "نصب تذكاري",
+                  "text": "Old Roman Church este un/o monument situat(ă) în as-Samu.",
+                  "category": "historical",
+                  "coords": [
+                        35.06892,
+                        31.397386
+                  ]
+            },
+            {
+                  "name": "מג׳דל בע",
+                  "text": "מג׳דל בע este un/o ruine situat(ă) în as-Samu.",
+                  "category": "historical",
+                  "coords": [
+                        35.06115,
+                        31.424488
+                  ]
+            },
+            {
+                  "name": "مسبح ومنتزه الوادي",
+                  "text": "Masbh Al Wady este un/o punct de belvedere situat(ă) în as-Samu.",
+                  "category": "natural",
+                  "coords": [
+                        35.069243,
+                        31.400887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ancient Susya",
+                  "text": "Ancient Susya is an archaeological site in as-Samu featuring the remains of a historic Jewish village.",
+                  "category": "historical",
+                  "coords": [
+                        35.101436,
+                        31.406977
+                  ]
+            },
+            {
+                  "name": "Ancient Synagogue",
+                  "text": "The Ancient Synagogue is an archaeological site located in as-Samu.",
+                  "category": "historical",
+                  "coords": [
+                        35.067383,
+                        31.398668
+                  ]
+            },
+            {
+                  "name": "Old Roman Church",
+                  "text": "Old Roman Church is a monument located in as-Samu.",
+                  "category": "historical",
+                  "coords": [
+                        35.06892,
+                        31.397386
+                  ]
+            },
+            {
+                  "name": "מג׳דל בע",
+                  "text": "מג׳דל בע is a ruins located in as-Samu.",
+                  "category": "historical",
+                  "coords": [
+                        35.06115,
+                        31.424488
+                  ]
+            },
+            {
+                  "name": "Masbh Al Wady",
+                  "text": "Masbh Al Wady is a viewpoint located in as-Samu.",
+                  "category": "natural",
+                  "coords": [
+                        35.069243,
+                        31.400887
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "as-Samu", hu: "es-Szamu", ro: "As-Samu", en: "As-Samu" },
@@ -1623,7 +15168,1240 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-as-samu-cities-v2.webp",
   },
   {
-    id: "palestine-al-eizariya-cities-v2",
+    id: "palestine-al-eizariya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "מוזיאון הבית השרוף",
+                  "text": "Museum in al-Eizariya.",
+                  "category": "museum",
+                  "coords": [
+                        35.232698,
+                        31.775593
+                  ]
+            },
+            {
+                  "name": "השער הכפול",
+                  "text": "Archäologische Stätte in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.236581,
+                        31.775947
+                  ]
+            },
+            {
+                  "name": "Lithostrotos",
+                  "text": "Archäologische Stätte in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.233618,
+                        31.780439
+                  ]
+            },
+            {
+                  "name": "קשת רובינסון",
+                  "text": "Archäologische Stätte in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.234592,
+                        31.775823
+                  ]
+            },
+            {
+                  "name": "Teich Bethesda",
+                  "text": "Archäologische Stätte in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.235991,
+                        31.781473
+                  ]
+            },
+            {
+                  "name": "חפירות גבעתי",
+                  "text": "Archäologische Ausgrabungsstätte in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.235098,
+                        31.774443
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "Alte Ruinen in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.2309,
+                        31.775029
+                  ]
+            },
+            {
+                  "name": "Löwentor",
+                  "text": "Historisches Stadttor in al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.236937,
+                        31.780844
+                  ]
+            },
+            {
+                  "name": "Herodestor",
+                  "text": "Historisches Stadttor in al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.233682,
+                        31.782964
+                  ]
+            },
+            {
+                  "name": "باب المجلس",
+                  "text": "Historisches Stadttor in al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.233955,
+                        31.779131
+                  ]
+            },
+            {
+                  "name": "Goldenes Tor",
+                  "text": "Historisches Stadttor in al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.23709,
+                        31.778957
+                  ]
+            },
+            {
+                  "name": "Grab des Lazarus",
+                  "text": "Religiöse Stätte in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "Markuskirche",
+                  "text": "Christliche Kirche in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.230595,
+                        31.77601
+                  ]
+            },
+            {
+                  "name": "Toroskirche",
+                  "text": "Christliche Kirche in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.229111,
+                        31.774796
+                  ]
+            },
+            {
+                  "name": "Maronitische Kirche",
+                  "text": "Christliche Kirche in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.229522,
+                        31.776416
+                  ]
+            },
+            {
+                  "name": "Kettendom",
+                  "text": "Religiöses Gebäude in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.235736,
+                        31.778079
+                  ]
+            },
+            {
+                  "name": "Kirche aller Nationen",
+                  "text": "Christliche Kirche in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.239765,
+                        31.779305
+                  ]
+            },
+            {
+                  "name": "Himmelfahrtskapelle",
+                  "text": "Religiöse Kapelle in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.24504,
+                        31.778911
+                  ]
+            },
+            {
+                  "name": "David's Tomb",
+                  "text": "Traditionelle Kultstätte in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.2291,
+                        31.771499
+                  ]
+            },
+            {
+                  "name": "Al-Aqsa-Moschee",
+                  "text": "Historische Moschee in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.235602,
+                        31.776155
+                  ]
+            },
+            {
+                  "name": "Dominus flevit",
+                  "text": "Christliche Kirche in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.241912,
+                        31.777985
+                  ]
+            },
+            {
+                  "name": "Mariengrab",
+                  "text": "Traditionelle Kultstätte in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.23964,
+                        31.780423
+                  ]
+            },
+            {
+                  "name": "Maria-Magdalena-Kirche",
+                  "text": "Christliche Kirche in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.240855,
+                        31.7789
+                  ]
+            },
+            {
+                  "name": "Viri-Galilaei-Kirche",
+                  "text": "Christliche Kirche in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.244876,
+                        31.782396
+                  ]
+            },
+            {
+                  "name": "Omar Moschee",
+                  "text": "Historische Moschee in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.229652,
+                        31.777875
+                  ]
+            },
+            {
+                  "name": "ישיבת עטרת כוהנים",
+                  "text": "Religiöse Schule in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.232407,
+                        31.779711
+                  ]
+            },
+            {
+                  "name": "St. Peter in Gallicantu",
+                  "text": "Christliche Kirche in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.232074,
+                        31.771275
+                  ]
+            },
+            {
+                  "name": "ישיבת שובו בנים",
+                  "text": "Religiöse Schule in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.232889,
+                        31.777486
+                  ]
+            },
+            {
+                  "name": "Wilson-Bogen Gebetshalle",
+                  "text": "Religiöser Ort in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.234222,
+                        31.777048
+                  ]
+            },
+            {
+                  "name": "Alexander Newski Kirche",
+                  "text": "Christliche Kirche in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.230766,
+                        31.778124
+                  ]
+            },
+            {
+                  "name": "Dungtor",
+                  "text": "Stadttor in al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.234173,
+                        31.774827
+                  ]
+            },
+            {
+                  "name": "Teich von Siloah",
+                  "text": "Historische Wasserstelle in al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.235123,
+                        31.770401
+                  ]
+            },
+            {
+                  "name": "פיר וורן",
+                  "text": "Historische Stätte in al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236067,
+                        31.773123
+                  ]
+            },
+            {
+                  "name": "Zionstor",
+                  "text": "Stadttor in al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229638,
+                        31.772857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "מוזיאון הבית השרוף",
+                  "text": "Múzeum al-Eizariyában.",
+                  "category": "museum",
+                  "coords": [
+                        35.232698,
+                        31.775593
+                  ]
+            },
+            {
+                  "name": "השער הכפול",
+                  "text": "Régészeti lelőhely al-Eizariyában.",
+                  "category": "historical",
+                  "coords": [
+                        35.236581,
+                        31.775947
+                  ]
+            },
+            {
+                  "name": "Lithostrotos",
+                  "text": "Régészeti lelőhely al-Eizariyában.",
+                  "category": "historical",
+                  "coords": [
+                        35.233618,
+                        31.780439
+                  ]
+            },
+            {
+                  "name": "קשת רובינסון",
+                  "text": "Régészeti lelőhely al-Eizariyában.",
+                  "category": "historical",
+                  "coords": [
+                        35.234592,
+                        31.775823
+                  ]
+            },
+            {
+                  "name": "Bethesda fürdő",
+                  "text": "Régészeti helyszín al-Eizariyában.",
+                  "category": "historical",
+                  "coords": [
+                        35.235991,
+                        31.781473
+                  ]
+            },
+            {
+                  "name": "חפירות גבעתי",
+                  "text": "Régészeti ásatási terület al-Eizariyában.",
+                  "category": "historical",
+                  "coords": [
+                        35.235098,
+                        31.774443
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "Ókori romok al-Eizariyában.",
+                  "category": "historical",
+                  "coords": [
+                        35.2309,
+                        31.775029
+                  ]
+            },
+            {
+                  "name": "Oroszlán-kapu",
+                  "text": "Történelmi városkapu al-Eizariyában.",
+                  "category": "fortress",
+                  "coords": [
+                        35.236937,
+                        31.780844
+                  ]
+            },
+            {
+                  "name": "Heródes-kapu",
+                  "text": "Történelmi városkapu al-Eizariyában.",
+                  "category": "fortress",
+                  "coords": [
+                        35.233682,
+                        31.782964
+                  ]
+            },
+            {
+                  "name": "باب المجلس",
+                  "text": "Történelmi városkapu al-Eizariyában.",
+                  "category": "fortress",
+                  "coords": [
+                        35.233955,
+                        31.779131
+                  ]
+            },
+            {
+                  "name": "Arany kapu",
+                  "text": "Történelmi városkapu al-Eizariyában.",
+                  "category": "fortress",
+                  "coords": [
+                        35.23709,
+                        31.778957
+                  ]
+            },
+            {
+                  "name": "قبر ألعازر",
+                  "text": "Vallási helyszín al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "ܥܕܬܐ ܕܡܪܝ ܪܩܘܣ",
+                  "text": "Keresztény templom al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.230595,
+                        31.77601
+                  ]
+            },
+            {
+                  "name": "Szent Torosz templom",
+                  "text": "Keresztény templom al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.229111,
+                        31.774796
+                  ]
+            },
+            {
+                  "name": "ܥܕܬܐ ܡܪܘܢܝܬܐ",
+                  "text": "Keresztény templom al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.229522,
+                        31.776416
+                  ]
+            },
+            {
+                  "name": "Lánckupola",
+                  "text": "Vallási épület al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.235736,
+                        31.778079
+                  ]
+            },
+            {
+                  "name": "Nemzetek bazilikája",
+                  "text": "Keresztény templom al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.239765,
+                        31.779305
+                  ]
+            },
+            {
+                  "name": "Mennybemenetel kápolnája",
+                  "text": "Vallási kápolna al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.24504,
+                        31.778911
+                  ]
+            },
+            {
+                  "name": "David's Tomb",
+                  "text": "Hagyományos kultuszhely al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.2291,
+                        31.771499
+                  ]
+            },
+            {
+                  "name": "el-Aksza mecset",
+                  "text": "Történelmi mecset al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.235602,
+                        31.776155
+                  ]
+            },
+            {
+                  "name": "Dominus Flevit Church",
+                  "text": "Keresztény templom al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.241912,
+                        31.777985
+                  ]
+            },
+            {
+                  "name": "Mária sírja",
+                  "text": "Hagyományos kultuszhely al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.23964,
+                        31.780423
+                  ]
+            },
+            {
+                  "name": "Mária Magdolna-templom",
+                  "text": "Keresztény templom al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.240855,
+                        31.7789
+                  ]
+            },
+            {
+                  "name": "Galileai férfiak-templom",
+                  "text": "Keresztény templom al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.244876,
+                        31.782396
+                  ]
+            },
+            {
+                  "name": "Omár-mecset",
+                  "text": "Történelmi mecset al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.229652,
+                        31.777875
+                  ]
+            },
+            {
+                  "name": "ישיבת עטרת כוהנים",
+                  "text": "Vallási iskola al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.232407,
+                        31.779711
+                  ]
+            },
+            {
+                  "name": "كنيسة القديس بطرس في غاليكانتو",
+                  "text": "Keresztény templom al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.232074,
+                        31.771275
+                  ]
+            },
+            {
+                  "name": "ישיבת שובו בנים",
+                  "text": "Vallási iskola al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.232889,
+                        31.777486
+                  ]
+            },
+            {
+                  "name": "אולמות התפילה המקורים",
+                  "text": "Vallási helyszín al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.234222,
+                        31.777048
+                  ]
+            },
+            {
+                  "name": "כנסיית אלכסמדר נבסקי",
+                  "text": "Keresztény templom al-Eizariyában.",
+                  "category": "religious",
+                  "coords": [
+                        35.230766,
+                        31.778124
+                  ]
+            },
+            {
+                  "name": "Szemét-kapu",
+                  "text": "Városkapu al-Eizariyában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.234173,
+                        31.774827
+                  ]
+            },
+            {
+                  "name": "ברכת השילוח",
+                  "text": "Történelmi víznyerőhely al-Eizariyában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.235123,
+                        31.770401
+                  ]
+            },
+            {
+                  "name": "פיר וורן",
+                  "text": "Történelmi helyszín al-Eizariyában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236067,
+                        31.773123
+                  ]
+            },
+            {
+                  "name": "Sion-kapu",
+                  "text": "Városkapu al-Eizariyában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229638,
+                        31.772857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Casa Burnt",
+                  "text": "Muzeu în al-Eizariya.",
+                  "category": "museum",
+                  "coords": [
+                        35.232698,
+                        31.775593
+                  ]
+            },
+            {
+                  "name": "השער הכפול",
+                  "text": "Situl arheologic în al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.236581,
+                        31.775947
+                  ]
+            },
+            {
+                  "name": "Lithostrotos",
+                  "text": "Situl arheologic în al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.233618,
+                        31.780439
+                  ]
+            },
+            {
+                  "name": "קשת רובינסון",
+                  "text": "Situl arheologic în al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.234592,
+                        31.775823
+                  ]
+            },
+            {
+                  "name": "Scăldătoarea Betezda",
+                  "text": "Sit arheologic în al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.235991,
+                        31.781473
+                  ]
+            },
+            {
+                  "name": "חפירות גבעתי",
+                  "text": "Sit de săpături arheologice în al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.235098,
+                        31.774443
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "Ruine antice în al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.2309,
+                        31.775029
+                  ]
+            },
+            {
+                  "name": "Poarta „Sfântului Ștefan”",
+                  "text": "Poartă istorică a orașului în al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.236937,
+                        31.780844
+                  ]
+            },
+            {
+                  "name": "باب الساهرة",
+                  "text": "Poartă istorică a orașului în al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.233682,
+                        31.782964
+                  ]
+            },
+            {
+                  "name": "باب المجلس",
+                  "text": "Poartă istorică a orașului în al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.233955,
+                        31.779131
+                  ]
+            },
+            {
+                  "name": "Poarta „de Aur”",
+                  "text": "Poartă istorică a orașului în al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.23709,
+                        31.778957
+                  ]
+            },
+            {
+                  "name": "Mormântul lui Lazăr din Betania",
+                  "text": "Locație religioasă în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "Biserica Siriacă „Sfântul Marcu”",
+                  "text": "Biserică creștină în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.230595,
+                        31.77601
+                  ]
+            },
+            {
+                  "name": "Biserica armeană „Sfântul Toros”",
+                  "text": "Biserică creștină în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.229111,
+                        31.774796
+                  ]
+            },
+            {
+                  "name": "Biserica catolică maronită a melkiților",
+                  "text": "Biserică creștină în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.229522,
+                        31.776416
+                  ]
+            },
+            {
+                  "name": "Cupola Lanțului",
+                  "text": "Clădire religioasă în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.235736,
+                        31.778079
+                  ]
+            },
+            {
+                  "name": "Biserica catolică Națiunilor",
+                  "text": "Biserică creștină în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.239765,
+                        31.779305
+                  ]
+            },
+            {
+                  "name": "كنيسة الصعود",
+                  "text": "Capelă religioasă în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.24504,
+                        31.778911
+                  ]
+            },
+            {
+                  "name": "David's Tomb",
+                  "text": "Loc de cult tradițional în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.2291,
+                        31.771499
+                  ]
+            },
+            {
+                  "name": "Moscheea Al-Aqsa",
+                  "text": "Moschee istorică în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.235602,
+                        31.776155
+                  ]
+            },
+            {
+                  "name": "Biserica catolică „Plângerea Ierusalimului”",
+                  "text": "Biserică creștină în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.241912,
+                        31.777985
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Greacă „Mormântul Maicii Domnului”",
+                  "text": "Loc de cult tradițional în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.23964,
+                        31.780423
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Rusă „Maria Magdalena”",
+                  "text": "Biserică creștină în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.240855,
+                        31.7789
+                  ]
+            },
+            {
+                  "name": "كنيسة فيري غاليلي",
+                  "text": "Biserică creștină în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.244876,
+                        31.782396
+                  ]
+            },
+            {
+                  "name": "مسجد عمر",
+                  "text": "Moschee istorică în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.229652,
+                        31.777875
+                  ]
+            },
+            {
+                  "name": "ישיבת עטרת כוהנים",
+                  "text": "Școală religioasă în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.232407,
+                        31.779711
+                  ]
+            },
+            {
+                  "name": "Biserica catolică „Sfântul Petru Galileeanul”",
+                  "text": "Biserică creștină în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.232074,
+                        31.771275
+                  ]
+            },
+            {
+                  "name": "ישיבת שובו בנים",
+                  "text": "Școală religioasă în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.232889,
+                        31.777486
+                  ]
+            },
+            {
+                  "name": "אולמות התפילה המקורים",
+                  "text": "Locație religioasă în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.234222,
+                        31.777048
+                  ]
+            },
+            {
+                  "name": "כנסיית אלכסמדר נבסקי",
+                  "text": "Biserică creștină în al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.230766,
+                        31.778124
+                  ]
+            },
+            {
+                  "name": "Poarta Gunoaielor",
+                  "text": "Poartă a orașului în al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.234173,
+                        31.774827
+                  ]
+            },
+            {
+                  "name": "Scăldătoarea Siloamului",
+                  "text": "Sursă istorică de apă în al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.235123,
+                        31.770401
+                  ]
+            },
+            {
+                  "name": "פיר וורן",
+                  "text": "Sit istoric în al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236067,
+                        31.773123
+                  ]
+            },
+            {
+                  "name": "Poarta Sionului",
+                  "text": "Poartă a orașului în al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229638,
+                        31.772857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burnt House",
+                  "text": "Museum in al-Eizariya.",
+                  "category": "museum",
+                  "coords": [
+                        35.232698,
+                        31.775593
+                  ]
+            },
+            {
+                  "name": "Hulda Triple Gate",
+                  "text": "Archaeological site in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.236581,
+                        31.775947
+                  ]
+            },
+            {
+                  "name": "Lithostrotos",
+                  "text": "Archaeological site in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.233618,
+                        31.780439
+                  ]
+            },
+            {
+                  "name": "Robinson's Arch",
+                  "text": "Archaeological site in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.234592,
+                        31.775823
+                  ]
+            },
+            {
+                  "name": "Pool of Bethesda",
+                  "text": "Archaeological site in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.235991,
+                        31.781473
+                  ]
+            },
+            {
+                  "name": "Givati Parking Lot dig",
+                  "text": "Archaeological dig site in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.235098,
+                        31.774443
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "Ancient ruins in al-Eizariya.",
+                  "category": "historical",
+                  "coords": [
+                        35.2309,
+                        31.775029
+                  ]
+            },
+            {
+                  "name": "Lions' Gate",
+                  "text": "Historic city gate in al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.236937,
+                        31.780844
+                  ]
+            },
+            {
+                  "name": "Herod's Gate",
+                  "text": "Historic city gate in al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.233682,
+                        31.782964
+                  ]
+            },
+            {
+                  "name": "Gate of the Watchman",
+                  "text": "Historic city gate in al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.233955,
+                        31.779131
+                  ]
+            },
+            {
+                  "name": "Golden Gate",
+                  "text": "Historic city gate in al-Eizariya.",
+                  "category": "fortress",
+                  "coords": [
+                        35.23709,
+                        31.778957
+                  ]
+            },
+            {
+                  "name": "Lazarus Tomb",
+                  "text": "Religious site in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "Syriac Church of St. Mark",
+                  "text": "Christian church in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.230595,
+                        31.77601
+                  ]
+            },
+            {
+                  "name": "St. Toros Church",
+                  "text": "Christian church in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.229111,
+                        31.774796
+                  ]
+            },
+            {
+                  "name": "Maronite Church",
+                  "text": "Christian church in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.229522,
+                        31.776416
+                  ]
+            },
+            {
+                  "name": "Dome of the Chain",
+                  "text": "Religious building in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.235736,
+                        31.778079
+                  ]
+            },
+            {
+                  "name": "Church of All Nations",
+                  "text": "Christian church in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.239765,
+                        31.779305
+                  ]
+            },
+            {
+                  "name": "Chapel of the Ascension",
+                  "text": "Religious chapel in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.24504,
+                        31.778911
+                  ]
+            },
+            {
+                  "name": "David's Tomb",
+                  "text": "Traditional place of worship in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.2291,
+                        31.771499
+                  ]
+            },
+            {
+                  "name": "Al-Aqsa Mosque",
+                  "text": "Historic mosque in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.235602,
+                        31.776155
+                  ]
+            },
+            {
+                  "name": "Dominus Flevit Church",
+                  "text": "Christian church in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.241912,
+                        31.777985
+                  ]
+            },
+            {
+                  "name": "Tomb of the Virgin Mary",
+                  "text": "Traditional place of worship in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.23964,
+                        31.780423
+                  ]
+            },
+            {
+                  "name": "Church of Mary Magdalene",
+                  "text": "Christian church in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.240855,
+                        31.7789
+                  ]
+            },
+            {
+                  "name": "Viri Galilaei Church",
+                  "text": "Christian church in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.244876,
+                        31.782396
+                  ]
+            },
+            {
+                  "name": "Mosque of Omar",
+                  "text": "Historic mosque in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.229652,
+                        31.777875
+                  ]
+            },
+            {
+                  "name": "Ateret Cohanim Yeshiva",
+                  "text": "Religious school in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.232407,
+                        31.779711
+                  ]
+            },
+            {
+                  "name": "St. Peter of Gallicantu",
+                  "text": "Christian church in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.232074,
+                        31.771275
+                  ]
+            },
+            {
+                  "name": "Shuvu Banim Yeshiva",
+                  "text": "Religious school in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.232889,
+                        31.777486
+                  ]
+            },
+            {
+                  "name": "Wilson's Arch prayer hall",
+                  "text": "Religious site in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.234222,
+                        31.777048
+                  ]
+            },
+            {
+                  "name": "Alexander Nevsky Church",
+                  "text": "Christian church in al-Eizariya.",
+                  "category": "religious",
+                  "coords": [
+                        35.230766,
+                        31.778124
+                  ]
+            },
+            {
+                  "name": "Dung Gate",
+                  "text": "City gate in al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.234173,
+                        31.774827
+                  ]
+            },
+            {
+                  "name": "HaShiliach Pool",
+                  "text": "Historic water source in al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.235123,
+                        31.770401
+                  ]
+            },
+            {
+                  "name": "Warren's Shaft",
+                  "text": "Historic site in al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.236067,
+                        31.773123
+                  ]
+            },
+            {
+                  "name": "Zion Gate",
+                  "text": "City gate in al-Eizariya.",
+                  "category": "landmark",
+                  "coords": [
+                        35.229638,
+                        31.772857
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "al-Eizariya", hu: "el-Ajzaríjja", ro: "Al-Eizariya", en: "Al-Eizariya" },
@@ -1668,7 +16446,628 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-al-eizariya-cities-v2.webp",
   },
   {
-    id: "palestine-abu-dis-cities-v2",
+    id: "palestine-abu-dis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "اسطبلات سليمان",
+                  "text": "Solomon's Stables ist eine unterirdische Gewölbekonstruktion und archäologische Stätte nahe Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.237099,
+                        31.77631
+                  ]
+            },
+            {
+                  "name": "נקרופוליס",
+                  "text": "Necropolis ist eine archäologische Stätte in Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.242212,
+                        31.77761
+                  ]
+            },
+            {
+                  "name": "مدرج الجامعة",
+                  "text": "مدرج الجامعة ist ein Theater in Abu Dis.",
+                  "category": "cultural",
+                  "coords": [
+                        35.262181,
+                        31.75726
+                  ]
+            },
+            {
+                  "name": "قاعات رويال",
+                  "text": "Die Royal Hall ist ein Veranstaltungsort und Theater in Abu Dis.",
+                  "category": "cultural",
+                  "coords": [
+                        35.261803,
+                        31.763535
+                  ]
+            },
+            {
+                  "name": "ראס תמים",
+                  "text": "ראס תמים ist eine archäologische Stätte in der Nähe von Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.256929,
+                        31.791628
+                  ]
+            },
+            {
+                  "name": "مدينة داود",
+                  "text": "Die City of David ist eine bekannte archäologische Stätte in der Region um Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.235721,
+                        31.772425
+                  ]
+            },
+            {
+                  "name": "معهد الآثار",
+                  "text": "معهد الآثار ist ein Museum in Abu Dis.",
+                  "category": "museum",
+                  "coords": [
+                        35.259754,
+                        31.754379
+                  ]
+            },
+            {
+                  "name": "Ölberg",
+                  "text": "Der Mount of Olives ist ein markanter Gipfel in der Nähe von Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.245035,
+                        31.778912
+                  ]
+            },
+            {
+                  "name": "برج الكنيسة الروسية البيضاء",
+                  "text": "Der Tower of the White Russian Church bietet einen Aussichtspunkt und gehört zur russischen Himmelfahrtskirche.",
+                  "category": "natural",
+                  "coords": [
+                        35.247761,
+                        31.779102
+                  ]
+            },
+            {
+                  "name": "Garten Getsemani",
+                  "text": "Der Garden of Gethsemane ist ein historischer Garten, der für seinen alten Olivenhain bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        35.239673,
+                        31.779598
+                  ]
+            },
+            {
+                  "name": "Rehavam Aussichtspunkt",
+                  "text": "Der Rehav'am Lookout ist ein Aussichtspunkt in Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.242813,
+                        31.775863
+                  ]
+            },
+            {
+                  "name": "מצפור הקברים",
+                  "text": "Der Ancient Tomb Lookout bietet einen Panoramablick in Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.236008,
+                        31.773512
+                  ]
+            },
+            {
+                  "name": "Viewpoint of Temple Mount",
+                  "text": "Der Viewpoint of Temple Mount bietet Ausblicke auf den Tempelberg von Abu Dis aus.",
+                  "category": "natural",
+                  "coords": [
+                        35.239965,
+                        31.753373
+                  ]
+            },
+            {
+                  "name": "Grab des Lazarus",
+                  "text": "Lazarus Tomb ist eine traditionelle Grab- und Kultstätte, die mit der biblischen Figur des Lazarus verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "دير فاجا",
+                  "text": "Das Bethphage monastery ist eine Kultstätte in Abu Dis.",
+                  "category": "religious",
+                  "coords": [
+                        35.251126,
+                        31.777399
+                  ]
+            },
+            {
+                  "name": "Maria-Magdalena-Kirche",
+                  "text": "Die Church of Mary Magdalene ist eine russisch-orthodoxe Kirche mit markanten goldenen Zwiebeltürmen.",
+                  "category": "religious",
+                  "coords": [
+                        35.240855,
+                        31.7789
+                  ]
+            },
+            {
+                  "name": "Viri-Galilaei-Kirche",
+                  "text": "Die Viri Galilaei Church ist eine griechisch-orthodoxe Kirche auf dem Ölberg.",
+                  "category": "religious",
+                  "coords": [
+                        35.244876,
+                        31.782396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "اسطبلات سليمان",
+                  "text": "A Solomon's Stables egy földalatti boltozatos építmény és régészeti lelőhely Abu Dis közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.237099,
+                        31.77631
+                  ]
+            },
+            {
+                  "name": "Nekropolisz",
+                  "text": "A Necropolis egy régészeti lelőhely Abu Dis városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.242212,
+                        31.77761
+                  ]
+            },
+            {
+                  "name": "مدرج الجامعة",
+                  "text": "A(z) مدرج الجامعة egy színház Abu Dis területén.",
+                  "category": "cultural",
+                  "coords": [
+                        35.262181,
+                        31.75726
+                  ]
+            },
+            {
+                  "name": "قاعات رويال",
+                  "text": "A Royal Hall egy színház Abu Dis városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.261803,
+                        31.763535
+                  ]
+            },
+            {
+                  "name": "ראס תמים",
+                  "text": "A(z) ראס תמים egy régészeti lelőhely Abu Dis közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.256929,
+                        31.791628
+                  ]
+            },
+            {
+                  "name": "مدينة داود",
+                  "text": "A City of David egy ismert régészeti lelőhely Abu Dis régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        35.235721,
+                        31.772425
+                  ]
+            },
+            {
+                  "name": "معهد الآثار",
+                  "text": "A(z) معهد الآثار egy múzeum Abu Dis városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.259754,
+                        31.754379
+                  ]
+            },
+            {
+                  "name": "جبل الزيتون",
+                  "text": "A Mount of Olives egy jelentős magaslat Abu Dis közelében.",
+                  "category": "natural",
+                  "coords": [
+                        35.245035,
+                        31.778912
+                  ]
+            },
+            {
+                  "name": "برج الكنيسة الروسية البيضاء",
+                  "text": "A Tower of the White Russian Church az orosz Mennybemenetel-templom része és kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        35.247761,
+                        31.779102
+                  ]
+            },
+            {
+                  "name": "Gecsemáné kert",
+                  "text": "A Garden of Gethsemane egy történelmi kert, amely ősi olajfaligetéről híres.",
+                  "category": "park",
+                  "coords": [
+                        35.239673,
+                        31.779598
+                  ]
+            },
+            {
+                  "name": "מצפור רחבעם",
+                  "text": "A Rehav'am Lookout egy kilátó Abu Dis városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.242813,
+                        31.775863
+                  ]
+            },
+            {
+                  "name": "מצפור הקברים",
+                  "text": "Az Ancient Tomb Lookout egy kilátópont Abu Dis területén.",
+                  "category": "natural",
+                  "coords": [
+                        35.236008,
+                        31.773512
+                  ]
+            },
+            {
+                  "name": "Viewpoint of Temple Mount",
+                  "text": "A Viewpoint of Temple Mount kilátást nyújt a Templomhegyre Abu Dis felől.",
+                  "category": "natural",
+                  "coords": [
+                        35.239965,
+                        31.753373
+                  ]
+            },
+            {
+                  "name": "قبر ألعازر",
+                  "text": "A Lazarus Tomb egy hagyományos sír- és istentiszteleti hely, amely a bibliai Lázárhoz kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "دير فاجا",
+                  "text": "A Bethphage monastery egy istentiszteleti hely Abu Dis városában.",
+                  "category": "religious",
+                  "coords": [
+                        35.251126,
+                        31.777399
+                  ]
+            },
+            {
+                  "name": "Mária Magdolna-templom",
+                  "text": "A Church of Mary Magdalene egy orosz ortodox templom jellegzetes arany hagymakupolákkal.",
+                  "category": "religious",
+                  "coords": [
+                        35.240855,
+                        31.7789
+                  ]
+            },
+            {
+                  "name": "Galileai férfiak-templom",
+                  "text": "A Viri Galilaei Church egy görög ortodox templom az Olajfák hegyén.",
+                  "category": "religious",
+                  "coords": [
+                        35.244876,
+                        31.782396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "اسطبلات سليمان",
+                  "text": "Solomon's Stables este o structură subterană boltită și un sit arheologic de lângă Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.237099,
+                        31.77631
+                  ]
+            },
+            {
+                  "name": "Necropolă",
+                  "text": "Necropolis este un sit arheologic aflat în Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.242212,
+                        31.77761
+                  ]
+            },
+            {
+                  "name": "مدرج الجامعة",
+                  "text": "مدرج الجامعة este un teatru din Abu Dis.",
+                  "category": "cultural",
+                  "coords": [
+                        35.262181,
+                        31.75726
+                  ]
+            },
+            {
+                  "name": "قاعات رويال",
+                  "text": "Royal Hall este un teatru situat în Abu Dis.",
+                  "category": "cultural",
+                  "coords": [
+                        35.261803,
+                        31.763535
+                  ]
+            },
+            {
+                  "name": "ראס תמים",
+                  "text": "ראס תמים este un sit arheologic în apropiere de Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.256929,
+                        31.791628
+                  ]
+            },
+            {
+                  "name": "Cetatea lui David",
+                  "text": "City of David este un sit arheologic cunoscut din regiunea Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.235721,
+                        31.772425
+                  ]
+            },
+            {
+                  "name": "معهد الآثار",
+                  "text": "معهد الآثار este un muzeu din Abu Dis.",
+                  "category": "museum",
+                  "coords": [
+                        35.259754,
+                        31.754379
+                  ]
+            },
+            {
+                  "name": "Muntele Măslinilor",
+                  "text": "Mount of Olives este un vârf proeminent lângă Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.245035,
+                        31.778912
+                  ]
+            },
+            {
+                  "name": "برج الكنيسة الروسية البيضاء",
+                  "text": "Tower of the White Russian Church este un punct de belvedere al bisericii rusești a Înălțării.",
+                  "category": "natural",
+                  "coords": [
+                        35.247761,
+                        31.779102
+                  ]
+            },
+            {
+                  "name": "Grădina Ghetsimani",
+                  "text": "Garden of Gethsemane este o grădină istorică faimoasă pentru vechea sa livadă de măslini.",
+                  "category": "park",
+                  "coords": [
+                        35.239673,
+                        31.779598
+                  ]
+            },
+            {
+                  "name": "מצפור רחבעם",
+                  "text": "Rehav'am Lookout este un punct de belvedere din Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.242813,
+                        31.775863
+                  ]
+            },
+            {
+                  "name": "מצפור הקברים",
+                  "text": "Ancient Tomb Lookout este un loc de panoramă situat în Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.236008,
+                        31.773512
+                  ]
+            },
+            {
+                  "name": "Viewpoint of Temple Mount",
+                  "text": "Viewpoint of Temple Mount oferă o priveliște asupra Muntelui Templului din Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.239965,
+                        31.753373
+                  ]
+            },
+            {
+                  "name": "Mormântul lui Lazăr din Betania",
+                  "text": "Lazarus Tomb este un loc de cult tradițional asociat cu personajul biblic Lazăr.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "دير فاجا",
+                  "text": "Bethphage monastery este un lăcaș de cult din Abu Dis.",
+                  "category": "religious",
+                  "coords": [
+                        35.251126,
+                        31.777399
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Rusă „Maria Magdalena”",
+                  "text": "Church of Mary Magdalene este o biserică ortodoxă rusă cu cupole aurii distinctive în formă de ceapă.",
+                  "category": "religious",
+                  "coords": [
+                        35.240855,
+                        31.7789
+                  ]
+            },
+            {
+                  "name": "كنيسة فيري غاليلي",
+                  "text": "Viri Galilaei Church este o biserică ortodoxă greacă situată pe Muntele Măslinilor.",
+                  "category": "religious",
+                  "coords": [
+                        35.244876,
+                        31.782396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Solomon's Stables",
+                  "text": "Solomon's Stables is an underground vaulted space and archaeological site near Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.237099,
+                        31.77631
+                  ]
+            },
+            {
+                  "name": "Necropolis",
+                  "text": "Necropolis is an archaeological site located in Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.242212,
+                        31.77761
+                  ]
+            },
+            {
+                  "name": "مدرج الجامعة",
+                  "text": "مدرج الجامعة is a theater in the city of Abu Dis.",
+                  "category": "cultural",
+                  "coords": [
+                        35.262181,
+                        31.75726
+                  ]
+            },
+            {
+                  "name": "Royal Hall",
+                  "text": "The Royal Hall is a theater located in Abu Dis.",
+                  "category": "cultural",
+                  "coords": [
+                        35.261803,
+                        31.763535
+                  ]
+            },
+            {
+                  "name": "ראס תמים",
+                  "text": "ראס תמים is an archaeological site situated near Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.256929,
+                        31.791628
+                  ]
+            },
+            {
+                  "name": "City of David",
+                  "text": "The City of David is an archaeological site in the vicinity of Abu Dis.",
+                  "category": "historical",
+                  "coords": [
+                        35.235721,
+                        31.772425
+                  ]
+            },
+            {
+                  "name": "معهد الآثار",
+                  "text": "معهد الآثار is a museum located in Abu Dis.",
+                  "category": "museum",
+                  "coords": [
+                        35.259754,
+                        31.754379
+                  ]
+            },
+            {
+                  "name": "Mount of Olives",
+                  "text": "The Mount of Olives is a prominent peak near Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.245035,
+                        31.778912
+                  ]
+            },
+            {
+                  "name": "Tower of the White Russian Church",
+                  "text": "The Tower of the White Russian Church is a viewpoint that is part of the Russian Church of the Ascension.",
+                  "category": "natural",
+                  "coords": [
+                        35.247761,
+                        31.779102
+                  ]
+            },
+            {
+                  "name": "Garden of Gethsemane",
+                  "text": "The Garden of Gethsemane is a historic garden known for its ancient olive grove.",
+                  "category": "park",
+                  "coords": [
+                        35.239673,
+                        31.779598
+                  ]
+            },
+            {
+                  "name": "Rehav'am Lookout",
+                  "text": "Rehav'am Lookout is a scenic viewpoint located in Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.242813,
+                        31.775863
+                  ]
+            },
+            {
+                  "name": "Ancient Tomb Lookout",
+                  "text": "The Ancient Tomb Lookout is a viewpoint in Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.236008,
+                        31.773512
+                  ]
+            },
+            {
+                  "name": "Viewpoint of Temple Mount",
+                  "text": "Viewpoint of Temple Mount provides a view towards the Temple Mount from Abu Dis.",
+                  "category": "natural",
+                  "coords": [
+                        35.239965,
+                        31.753373
+                  ]
+            },
+            {
+                  "name": "Lazarus Tomb",
+                  "text": "Lazarus Tomb is a traditional worship and burial site associated with the biblical figure of Lazarus.",
+                  "category": "religious",
+                  "coords": [
+                        35.255789,
+                        31.771521
+                  ]
+            },
+            {
+                  "name": "Bethphage monastery",
+                  "text": "Bethphage monastery is a place of worship located in Abu Dis.",
+                  "category": "religious",
+                  "coords": [
+                        35.251126,
+                        31.777399
+                  ]
+            },
+            {
+                  "name": "Church of Mary Magdalene",
+                  "text": "The Church of Mary Magdalene is a Russian Orthodox church notable for its golden onion domes.",
+                  "category": "religious",
+                  "coords": [
+                        35.240855,
+                        31.7789
+                  ]
+            },
+            {
+                  "name": "Viri Galilaei Church",
+                  "text": "The Viri Galilaei Church is a Greek Orthodox church on the Mount of Olives.",
+                  "category": "religious",
+                  "coords": [
+                        35.244876,
+                        31.782396
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Abu Dis", hu: "Abu Disz", ro: "Abu Dis", en: "Abu Dis" },
@@ -1758,7 +17157,1024 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-al-ram-cities-v2.webp",
   },
   {
-    id: "palestine-anata-cities-v2",
+    id: "palestine-anata-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "מנזר הצבאים",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.252068,
+                        31.820473
+                  ]
+            },
+            {
+                  "name": "חורבת זמרי",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.246976,
+                        31.822285
+                  ]
+            },
+            {
+                  "name": "חורבת עדסה",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.238049,
+                        31.827998
+                  ]
+            },
+            {
+                  "name": "אמפי פארק מורנו",
+                  "text": "Theater in Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.240834,
+                        31.823299
+                  ]
+            },
+            {
+                  "name": "המפעל החקלאי",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.260545,
+                        31.826206
+                  ]
+            },
+            {
+                  "name": "קצר א-רובי",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.290421,
+                        31.811924
+                  ]
+            },
+            {
+                  "name": "קצר עלי",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.291482,
+                        31.807396
+                  ]
+            },
+            {
+                  "name": "ראס תמים",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.256929,
+                        31.791628
+                  ]
+            },
+            {
+                  "name": "חורבת עג'ג'ת",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.254305,
+                        31.824358
+                  ]
+            },
+            {
+                  "name": "ראש אבו מערוף",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.24084,
+                        31.820057
+                  ]
+            },
+            {
+                  "name": "חורבת כעכול",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.250665,
+                        31.815343
+                  ]
+            },
+            {
+                  "name": "ראס טוויל",
+                  "text": "Archäologische Stätte in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.241441,
+                        31.83151
+                  ]
+            },
+            {
+                  "name": "היכל פיס לתרבות ולאמנויות ירושלים",
+                  "text": "Theater in Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.239922,
+                        31.82305
+                  ]
+            },
+            {
+                  "name": "The White Statue",
+                  "text": "Denkmal in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.233401,
+                        31.800164
+                  ]
+            },
+            {
+                  "name": "מערת אבה",
+                  "text": "Höhleneingang in Anata, bekannt für antike Funde.",
+                  "category": "natural",
+                  "coords": [
+                        35.230395,
+                        31.803808
+                  ]
+            },
+            {
+                  "name": "جبل المشارف",
+                  "text": "Berggipfel in Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.246174,
+                        31.792256
+                  ]
+            },
+            {
+                  "name": "Kh. Almit",
+                  "text": "Berggipfel in Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.273272,
+                        31.825194
+                  ]
+            },
+            {
+                  "name": "תצפית יהודאי",
+                  "text": "Aussichtspunkt in Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.247441,
+                        31.790043
+                  ]
+            },
+            {
+                  "name": "Sabreen organisation",
+                  "text": "Kunstzentrum in Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.234823,
+                        31.794836
+                  ]
+            },
+            {
+                  "name": "البلدة القديمة من عناتا",
+                  "text": "Ruinen des alten Dorfes Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.260845,
+                        31.813343
+                  ]
+            },
+            {
+                  "name": "بيت الفن الفلسطيني",
+                  "text": "Kunstzentrum in Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.24968,
+                        31.80919
+                  ]
+            },
+            {
+                  "name": "החוויה הארכיאולוגית",
+                  "text": "Attraktion in Anata.",
+                  "category": "landmark",
+                  "coords": [
+                        35.243139,
+                        31.787872
+                  ]
+            },
+            {
+                  "name": "פסל הלטאה",
+                  "text": "Denkmal in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.243724,
+                        31.822967
+                  ]
+            },
+            {
+                  "name": "The Mark Stone Nature Study Square",
+                  "text": "Attraktion in Anata.",
+                  "category": "landmark",
+                  "coords": [
+                        35.243513,
+                        31.794958
+                  ]
+            },
+            {
+                  "name": "מצפה המשואות",
+                  "text": "Aussichtspunkt in Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.2439,
+                        31.790013
+                  ]
+            },
+            {
+                  "name": "Tomb entry",
+                  "text": "Attraktion in Anata.",
+                  "category": "landmark",
+                  "coords": [
+                        35.244901,
+                        31.793153
+                  ]
+            },
+            {
+                  "name": "בית הכנסת הכט",
+                  "text": "Gotteshaus in Anata.",
+                  "category": "religious",
+                  "coords": [
+                        35.242221,
+                        31.791858
+                  ]
+            },
+            {
+                  "name": "abdeen",
+                  "text": "Gotteshaus in Anata.",
+                  "category": "religious",
+                  "coords": [
+                        35.238646,
+                        31.791079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "מנזר הצבאים",
+                  "text": "Régészeti helyszín Anatában.",
+                  "category": "historical",
+                  "coords": [
+                        35.252068,
+                        31.820473
+                  ]
+            },
+            {
+                  "name": "חורבת זמרי",
+                  "text": "Régészeti helyszín Anatában.",
+                  "category": "historical",
+                  "coords": [
+                        35.246976,
+                        31.822285
+                  ]
+            },
+            {
+                  "name": "חורבת עדסה",
+                  "text": "Régészeti helyszín Anatában.",
+                  "category": "historical",
+                  "coords": [
+                        35.238049,
+                        31.827998
+                  ]
+            },
+            {
+                  "name": "אמפי פארק מורנו",
+                  "text": "Színház Anatában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.240834,
+                        31.823299
+                  ]
+            },
+            {
+                  "name": "המפעל החקלאי",
+                  "text": "Régészeti helyszín Anatában.",
+                  "category": "historical",
+                  "coords": [
+                        35.260545,
+                        31.826206
+                  ]
+            },
+            {
+                  "name": "קצר א-רובי",
+                  "text": "Régészeti lelőhely Anata városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.290421,
+                        31.811924
+                  ]
+            },
+            {
+                  "name": "קצר עלי",
+                  "text": "Régészeti lelőhely Anata városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.291482,
+                        31.807396
+                  ]
+            },
+            {
+                  "name": "ראס תמים",
+                  "text": "Régészeti lelőhely Anata városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.256929,
+                        31.791628
+                  ]
+            },
+            {
+                  "name": "חורבת עג'ג'ת",
+                  "text": "Régészeti lelőhely Anata városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.254305,
+                        31.824358
+                  ]
+            },
+            {
+                  "name": "ראש אבו מערוף",
+                  "text": "Régészeti lelőhely Anata városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.24084,
+                        31.820057
+                  ]
+            },
+            {
+                  "name": "חורבת כעכול",
+                  "text": "Régészeti lelőhely Anata városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.250665,
+                        31.815343
+                  ]
+            },
+            {
+                  "name": "ראס טוויל",
+                  "text": "Régészeti lelőhely Anata városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.241441,
+                        31.83151
+                  ]
+            },
+            {
+                  "name": "היכל פיס לתרבות ולאמנויות ירושלים",
+                  "text": "Színház Anata városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.239922,
+                        31.82305
+                  ]
+            },
+            {
+                  "name": "The White Statue",
+                  "text": "Emlékmű Anata városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.233401,
+                        31.800164
+                  ]
+            },
+            {
+                  "name": "מערת אבה",
+                  "text": "Barlangbejárat Anata városában, amely antik leleteiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        35.230395,
+                        31.803808
+                  ]
+            },
+            {
+                  "name": "جبل المشارف",
+                  "text": "Hegycsúcs Anata városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.246174,
+                        31.792256
+                  ]
+            },
+            {
+                  "name": "Kh. Almit",
+                  "text": "Hegycsúcs Anata városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.273272,
+                        31.825194
+                  ]
+            },
+            {
+                  "name": "תצפית יהודאי",
+                  "text": "Kilátópont Anata városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.247441,
+                        31.790043
+                  ]
+            },
+            {
+                  "name": "Sabreen organisation",
+                  "text": "Művészeti központ Anata városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.234823,
+                        31.794836
+                  ]
+            },
+            {
+                  "name": "البلدة القديمة من عناتا",
+                  "text": "Az ókori Anata falu romjai.",
+                  "category": "historical",
+                  "coords": [
+                        35.260845,
+                        31.813343
+                  ]
+            },
+            {
+                  "name": "بيت الفن الفلسطيني",
+                  "text": "Művészeti központ Anata városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.24968,
+                        31.80919
+                  ]
+            },
+            {
+                  "name": "החוויה הארכיאולוגית",
+                  "text": "Látnivaló Anata városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.243139,
+                        31.787872
+                  ]
+            },
+            {
+                  "name": "פסל הלטאה",
+                  "text": "Emlékmű Anata városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.243724,
+                        31.822967
+                  ]
+            },
+            {
+                  "name": "The Mark Stone Nature Study Square",
+                  "text": "Látnivaló Anata városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.243513,
+                        31.794958
+                  ]
+            },
+            {
+                  "name": "מצפה המשואות",
+                  "text": "Kilátópont Anata városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.2439,
+                        31.790013
+                  ]
+            },
+            {
+                  "name": "Tomb entry",
+                  "text": "Látnivaló Anata városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.244901,
+                        31.793153
+                  ]
+            },
+            {
+                  "name": "בית הכנסת הכט",
+                  "text": "Imaház Anata városában.",
+                  "category": "religious",
+                  "coords": [
+                        35.242221,
+                        31.791858
+                  ]
+            },
+            {
+                  "name": "abdeen",
+                  "text": "Imaház Anata városában.",
+                  "category": "religious",
+                  "coords": [
+                        35.238646,
+                        31.791079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "מנזר הצבאים",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.252068,
+                        31.820473
+                  ]
+            },
+            {
+                  "name": "חורבת זמרי",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.246976,
+                        31.822285
+                  ]
+            },
+            {
+                  "name": "חורבת עדסה",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.238049,
+                        31.827998
+                  ]
+            },
+            {
+                  "name": "אמפי פארק מורנו",
+                  "text": "Teatru în Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.240834,
+                        31.823299
+                  ]
+            },
+            {
+                  "name": "המפעל החקלאי",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.260545,
+                        31.826206
+                  ]
+            },
+            {
+                  "name": "קצר א-רובי",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.290421,
+                        31.811924
+                  ]
+            },
+            {
+                  "name": "קצר עלי",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.291482,
+                        31.807396
+                  ]
+            },
+            {
+                  "name": "ראס תמים",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.256929,
+                        31.791628
+                  ]
+            },
+            {
+                  "name": "חורבת עג'ג'ת",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.254305,
+                        31.824358
+                  ]
+            },
+            {
+                  "name": "ראש אבו מערוף",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.24084,
+                        31.820057
+                  ]
+            },
+            {
+                  "name": "חורבת כעכול",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.250665,
+                        31.815343
+                  ]
+            },
+            {
+                  "name": "ראס טוויל",
+                  "text": "Sit arheologic în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.241441,
+                        31.83151
+                  ]
+            },
+            {
+                  "name": "היכל פיס לתרבות ולאמנויות ירושלים",
+                  "text": "Teatru în Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.239922,
+                        31.82305
+                  ]
+            },
+            {
+                  "name": "The White Statue",
+                  "text": "Monument în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.233401,
+                        31.800164
+                  ]
+            },
+            {
+                  "name": "מערת אבה",
+                  "text": "Intrare în peșteră în Anata, cunoscută pentru descoperiri antice.",
+                  "category": "natural",
+                  "coords": [
+                        35.230395,
+                        31.803808
+                  ]
+            },
+            {
+                  "name": "جبل المشارف",
+                  "text": "Vârf de munte în Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.246174,
+                        31.792256
+                  ]
+            },
+            {
+                  "name": "Kh. Almit",
+                  "text": "Vârf de munte în Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.273272,
+                        31.825194
+                  ]
+            },
+            {
+                  "name": "תצפית יהודאי",
+                  "text": "Punct de observație în Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.247441,
+                        31.790043
+                  ]
+            },
+            {
+                  "name": "Sabreen organisation",
+                  "text": "Centru de artă în Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.234823,
+                        31.794836
+                  ]
+            },
+            {
+                  "name": "البلدة القديمة من عناتا",
+                  "text": "Ruinele vechiului sat Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.260845,
+                        31.813343
+                  ]
+            },
+            {
+                  "name": "بيت الفن الفلسطيني",
+                  "text": "Centru de artă în Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.24968,
+                        31.80919
+                  ]
+            },
+            {
+                  "name": "החוויה הארכיאולוגית",
+                  "text": "Atracție în Anata.",
+                  "category": "landmark",
+                  "coords": [
+                        35.243139,
+                        31.787872
+                  ]
+            },
+            {
+                  "name": "פסל הלטאה",
+                  "text": "Monument în Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.243724,
+                        31.822967
+                  ]
+            },
+            {
+                  "name": "The Mark Stone Nature Study Square",
+                  "text": "Atracție în Anata.",
+                  "category": "landmark",
+                  "coords": [
+                        35.243513,
+                        31.794958
+                  ]
+            },
+            {
+                  "name": "מצפה המשואות",
+                  "text": "Punct de observație în Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.2439,
+                        31.790013
+                  ]
+            },
+            {
+                  "name": "Tomb entry",
+                  "text": "Atracție în Anata.",
+                  "category": "landmark",
+                  "coords": [
+                        35.244901,
+                        31.793153
+                  ]
+            },
+            {
+                  "name": "בית הכנסת הכט",
+                  "text": "Lăcaș de cult în Anata.",
+                  "category": "religious",
+                  "coords": [
+                        35.242221,
+                        31.791858
+                  ]
+            },
+            {
+                  "name": "abdeen",
+                  "text": "Lăcaș de cult în Anata.",
+                  "category": "religious",
+                  "coords": [
+                        35.238646,
+                        31.791079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "מנזר הצבאים",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.252068,
+                        31.820473
+                  ]
+            },
+            {
+                  "name": "חורבת זמרי",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.246976,
+                        31.822285
+                  ]
+            },
+            {
+                  "name": "חורבת עדסה",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.238049,
+                        31.827998
+                  ]
+            },
+            {
+                  "name": "אמפי פארק מורנו",
+                  "text": "Theater in Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.240834,
+                        31.823299
+                  ]
+            },
+            {
+                  "name": "המפעל החקלאי",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.260545,
+                        31.826206
+                  ]
+            },
+            {
+                  "name": "קצר א-רובי",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.290421,
+                        31.811924
+                  ]
+            },
+            {
+                  "name": "קצר עלי",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.291482,
+                        31.807396
+                  ]
+            },
+            {
+                  "name": "ראס תמים",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.256929,
+                        31.791628
+                  ]
+            },
+            {
+                  "name": "חורבת עג'ג'ת",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.254305,
+                        31.824358
+                  ]
+            },
+            {
+                  "name": "ראש אבו מערוף",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.24084,
+                        31.820057
+                  ]
+            },
+            {
+                  "name": "חורבת כעכול",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.250665,
+                        31.815343
+                  ]
+            },
+            {
+                  "name": "ראס טוויל",
+                  "text": "Archaeological site in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.241441,
+                        31.83151
+                  ]
+            },
+            {
+                  "name": "היכל פיס לתרבות ולאמנויות ירושלים",
+                  "text": "Theatre in Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.239922,
+                        31.82305
+                  ]
+            },
+            {
+                  "name": "The White Statue",
+                  "text": "Monument in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.233401,
+                        31.800164
+                  ]
+            },
+            {
+                  "name": "The Abba Cave",
+                  "text": "Cave entrance in Anata, known for ancient findings.",
+                  "category": "natural",
+                  "coords": [
+                        35.230395,
+                        31.803808
+                  ]
+            },
+            {
+                  "name": "Mount Scopus",
+                  "text": "Mountain peak in Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.246174,
+                        31.792256
+                  ]
+            },
+            {
+                  "name": "Kh. Almit",
+                  "text": "Mountain peak in Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.273272,
+                        31.825194
+                  ]
+            },
+            {
+                  "name": "Yehuda Observation Point",
+                  "text": "Viewpoint in Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.247441,
+                        31.790043
+                  ]
+            },
+            {
+                  "name": "Sabreen organisation",
+                  "text": "Arts centre in Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.234823,
+                        31.794836
+                  ]
+            },
+            {
+                  "name": "The Old Village of Anata",
+                  "text": "Ruins of the old village of Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.260845,
+                        31.813343
+                  ]
+            },
+            {
+                  "name": "Palestinian Art House",
+                  "text": "Arts centre in Anata.",
+                  "category": "cultural",
+                  "coords": [
+                        35.24968,
+                        31.80919
+                  ]
+            },
+            {
+                  "name": "Archaeological experience",
+                  "text": "Attraction in Anata.",
+                  "category": "landmark",
+                  "coords": [
+                        35.243139,
+                        31.787872
+                  ]
+            },
+            {
+                  "name": "פסל הלטאה",
+                  "text": "Monument in Anata.",
+                  "category": "historical",
+                  "coords": [
+                        35.243724,
+                        31.822967
+                  ]
+            },
+            {
+                  "name": "The Mark Stone Nature Study Square",
+                  "text": "Attraction in Anata.",
+                  "category": "landmark",
+                  "coords": [
+                        35.243513,
+                        31.794958
+                  ]
+            },
+            {
+                  "name": "Masuot viewpoint",
+                  "text": "Viewpoint in Anata.",
+                  "category": "natural",
+                  "coords": [
+                        35.2439,
+                        31.790013
+                  ]
+            },
+            {
+                  "name": "Tomb entry",
+                  "text": "Attraction in Anata.",
+                  "category": "landmark",
+                  "coords": [
+                        35.244901,
+                        31.793153
+                  ]
+            },
+            {
+                  "name": "Hecht Synagogue",
+                  "text": "Place of worship in Anata.",
+                  "category": "religious",
+                  "coords": [
+                        35.242221,
+                        31.791858
+                  ]
+            },
+            {
+                  "name": "abdeen",
+                  "text": "Place of worship in Anata.",
+                  "category": "religious",
+                  "coords": [
+                        35.238646,
+                        31.791079
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Anata", hu: "Anata", ro: "Anata", en: "Anata" },
@@ -1803,7 +18219,412 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-anata-cities-v2.webp",
   },
   {
-    id: "palestine-birzeit-cities-v2",
+    id: "palestine-birzeit-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Palestinian Museum",
+                  "text": "The Palestinian Museum ist eine kulturelle Institution, die sich der palästinensischen Geschichte und Gesellschaft widmet.",
+                  "category": "museum",
+                  "coords": [
+                        35.182689,
+                        31.963557
+                  ]
+            },
+            {
+                  "name": "عين الحمام",
+                  "text": "عين الحمام ist ein Wasserpark in Bir Zait.",
+                  "category": "recreational",
+                  "coords": [
+                        35.200879,
+                        31.972464
+                  ]
+            },
+            {
+                  "name": "متحف الشعب",
+                  "text": "Das People's Museum ist ein Museum in der Stadt Bir Zait.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "text": "Die Al Rozana Association for Culture and Heritage ist eine kulturelle Einrichtung in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "سيرك فلسطين",
+                  "text": "Der Palestine Circus ist eine Attraktion in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.19846,
+                        31.970551
+                  ]
+            },
+            {
+                  "name": "مول بيرزيت",
+                  "text": "Die Birzeit Mall ist ein Einkaufszentrum und eine Attraktion in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.194423,
+                        31.968003
+                  ]
+            },
+            {
+                  "name": "اثريات بيزنطية",
+                  "text": "Die Ancient Byzantine Fortress ist eine historische Festungsanlage in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.191307,
+                        31.965994
+                  ]
+            },
+            {
+                  "name": "اسكان ريف",
+                  "text": "Die Reef neighborhood ist ein besichtigenswertes Viertel in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.174783,
+                        31.945041
+                  ]
+            },
+            {
+                  "name": "ابو انس",
+                  "text": "ابو انس ist eine Attraktion in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.171154,
+                        31.95506
+                  ]
+            },
+            {
+                  "name": "منزل فخري شريتح",
+                  "text": "Das Fakhri Shreitah House ist ein Denkmal in Bir Zait.",
+                  "category": "historical",
+                  "coords": [
+                        35.173666,
+                        31.952522
+                  ]
+            },
+            {
+                  "name": "طريق اسكان المزرعة الغربية",
+                  "text": "طريق اسكان المزرعة الغربية ist ein Denkmal in der Stadt Bir Zait.",
+                  "category": "historical",
+                  "coords": [
+                        35.175901,
+                        31.955592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Palestinian Museum",
+                  "text": "The Palestinian Museum a palesztin történelemnek és társadalomnak szentelt kulturális intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        35.182689,
+                        31.963557
+                  ]
+            },
+            {
+                  "name": "عين الحمام",
+                  "text": "A(z) عين الحمام egy vízipark Bir Zait városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.200879,
+                        31.972464
+                  ]
+            },
+            {
+                  "name": "متحف الشعب",
+                  "text": "A People's Museum egy múzeum Bir Zait városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "text": "Az Al Rozana Association for Culture and Heritage egy kulturális látványosság Bir Zait városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "سيرك فلسطين",
+                  "text": "A Palestine Circus egy látványosság Bir Zait városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.19846,
+                        31.970551
+                  ]
+            },
+            {
+                  "name": "مول بيرزيت",
+                  "text": "A Birzeit Mall egy látványosság Bir Zait városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.194423,
+                        31.968003
+                  ]
+            },
+            {
+                  "name": "اثريات بيزنطية",
+                  "text": "Az Ancient Byzantine Fortress egy történelmi erődítmény Bir Zait területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.191307,
+                        31.965994
+                  ]
+            },
+            {
+                  "name": "اسكان ريف",
+                  "text": "A Reef neighborhood egy látványosság Bir Zait városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.174783,
+                        31.945041
+                  ]
+            },
+            {
+                  "name": "ابو انس",
+                  "text": "A(z) ابو انس egy látványosság Bir Zait területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.171154,
+                        31.95506
+                  ]
+            },
+            {
+                  "name": "منزل فخري شريتح",
+                  "text": "A Fakhri Shreitah House egy emlékmű Bir Zait városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.173666,
+                        31.952522
+                  ]
+            },
+            {
+                  "name": "طريق اسكان المزرعة الغربية",
+                  "text": "A(z) طريق اسكان المزرعة الغربية egy emlékmű Bir Zait területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.175901,
+                        31.955592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Palestinian Museum",
+                  "text": "The Palestinian Museum este o instituție culturală dedicată istoriei și societății palestiniene.",
+                  "category": "museum",
+                  "coords": [
+                        35.182689,
+                        31.963557
+                  ]
+            },
+            {
+                  "name": "عين الحمام",
+                  "text": "عين الحمام este un parc acvatic din Bir Zait.",
+                  "category": "recreational",
+                  "coords": [
+                        35.200879,
+                        31.972464
+                  ]
+            },
+            {
+                  "name": "متحف الشعب",
+                  "text": "People's Museum este un muzeu din Bir Zait.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "text": "Al Rozana Association for Culture and Heritage este o atracție culturală din Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "سيرك فلسطين",
+                  "text": "Palestine Circus este o atracție din Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.19846,
+                        31.970551
+                  ]
+            },
+            {
+                  "name": "مول بيرزيت",
+                  "text": "Birzeit Mall este o atracție situată în Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.194423,
+                        31.968003
+                  ]
+            },
+            {
+                  "name": "اثريات بيزنطية",
+                  "text": "Ancient Byzantine Fortress este o cetate istorică din Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.191307,
+                        31.965994
+                  ]
+            },
+            {
+                  "name": "اسكان ريف",
+                  "text": "Reef neighborhood este un cartier de vizitat din Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.174783,
+                        31.945041
+                  ]
+            },
+            {
+                  "name": "ابو انس",
+                  "text": "ابو انس este o atracție din Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.171154,
+                        31.95506
+                  ]
+            },
+            {
+                  "name": "منزل فخري شريتح",
+                  "text": "Fakhri Shreitah House este un monument aflat în Bir Zait.",
+                  "category": "historical",
+                  "coords": [
+                        35.173666,
+                        31.952522
+                  ]
+            },
+            {
+                  "name": "طريق اسكان المزرعة الغربية",
+                  "text": "طريق اسكان المزرعة الغربية este un monument din Bir Zait.",
+                  "category": "historical",
+                  "coords": [
+                        35.175901,
+                        31.955592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Palestinian Museum",
+                  "text": "The Palestinian Museum is a cultural institution dedicated to Palestinian history and society.",
+                  "category": "museum",
+                  "coords": [
+                        35.182689,
+                        31.963557
+                  ]
+            },
+            {
+                  "name": "عين الحمام",
+                  "text": "عين الحمام is a water park located in Bir Zait.",
+                  "category": "recreational",
+                  "coords": [
+                        35.200879,
+                        31.972464
+                  ]
+            },
+            {
+                  "name": "People's Museum",
+                  "text": "The People's Museum is located in the city of Bir Zait.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "Al Rozana Association for Culture and Heritage",
+                  "text": "The Al Rozana Association for Culture and Heritage is an attraction in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "Palestine Circus",
+                  "text": "Palestine Circus is an attraction located in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.19846,
+                        31.970551
+                  ]
+            },
+            {
+                  "name": "Birzeit Mall",
+                  "text": "Birzeit Mall is an attraction in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.194423,
+                        31.968003
+                  ]
+            },
+            {
+                  "name": "Ancient Byzantine Fortress",
+                  "text": "The Ancient Byzantine Fortress is a historic attraction in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.191307,
+                        31.965994
+                  ]
+            },
+            {
+                  "name": "Reef neighborhood",
+                  "text": "Reef neighborhood is a local attraction in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.174783,
+                        31.945041
+                  ]
+            },
+            {
+                  "name": "ابو انس",
+                  "text": "ابو انس is an attraction located in Bir Zait.",
+                  "category": "landmark",
+                  "coords": [
+                        35.171154,
+                        31.95506
+                  ]
+            },
+            {
+                  "name": "Fakhri Shreitah House",
+                  "text": "Fakhri Shreitah House is a monument located in Bir Zait.",
+                  "category": "historical",
+                  "coords": [
+                        35.173666,
+                        31.952522
+                  ]
+            },
+            {
+                  "name": "طريق اسكان المزرعة الغربية",
+                  "text": "طريق اسكان المزرعة الغربية is a monument in Bir Zait.",
+                  "category": "historical",
+                  "coords": [
+                        35.175901,
+                        31.955592
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Bir Zait", hu: "Bírzeit", ro: "Birzeit", en: "Birzeit" },
@@ -1893,7 +18714,232 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-beitunia-cities-v2.webp",
   },
   {
-    id: "palestine-silwad-cities-v2",
+    id: "palestine-silwad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "בעל חצור",
+                  "text": "Berggipfel in Silwad.",
+                  "category": "natural",
+                  "coords": [
+                        35.285521,
+                        31.978781
+                  ]
+            },
+            {
+                  "name": "הבור הסיני",
+                  "text": "Höhleneingang in Silwad.",
+                  "category": "natural",
+                  "coords": [
+                        35.265776,
+                        31.959167
+                  ]
+            },
+            {
+                  "name": "المغر",
+                  "text": "Aussichtspunkt in Silwad.",
+                  "category": "natural",
+                  "coords": [
+                        35.260638,
+                        32.005008
+                  ]
+            },
+            {
+                  "name": "هون نام بهاء",
+                  "text": "Attraktion in Silwad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.25287,
+                        32.002746
+                  ]
+            },
+            {
+                  "name": "מצודת בורג׳ ברדוויל",
+                  "text": "Ruinen in Silwad.",
+                  "category": "historical",
+                  "coords": [
+                        35.244122,
+                        31.985323
+                  ]
+            },
+            {
+                  "name": "منزل السيدنادي عمار",
+                  "text": "Attraktion in Silwad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "בעל חצור",
+                  "text": "Hegycsúcs Silwad városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.285521,
+                        31.978781
+                  ]
+            },
+            {
+                  "name": "הבור הסיני",
+                  "text": "Barlangbejárat Silwad városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.265776,
+                        31.959167
+                  ]
+            },
+            {
+                  "name": "المغر",
+                  "text": "Kilátópont Silwad városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.260638,
+                        32.005008
+                  ]
+            },
+            {
+                  "name": "هون نام بهاء",
+                  "text": "Látnivaló Silwad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.25287,
+                        32.002746
+                  ]
+            },
+            {
+                  "name": "מצודת בורג׳ ברדוויל",
+                  "text": "Romok Silwad városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.244122,
+                        31.985323
+                  ]
+            },
+            {
+                  "name": "منزل السيدنادي عمار",
+                  "text": "Látnivaló Silwad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "בעל חצור",
+                  "text": "Vârf de munte în Silwad.",
+                  "category": "natural",
+                  "coords": [
+                        35.285521,
+                        31.978781
+                  ]
+            },
+            {
+                  "name": "הבור הסיני",
+                  "text": "Intrare în peșteră în Silwad.",
+                  "category": "natural",
+                  "coords": [
+                        35.265776,
+                        31.959167
+                  ]
+            },
+            {
+                  "name": "المغر",
+                  "text": "Punct de observație în Silwad.",
+                  "category": "natural",
+                  "coords": [
+                        35.260638,
+                        32.005008
+                  ]
+            },
+            {
+                  "name": "هون نام بهاء",
+                  "text": "Atracție în Silwad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.25287,
+                        32.002746
+                  ]
+            },
+            {
+                  "name": "מצודת בורג׳ ברדוויל",
+                  "text": "Ruine în Silwad.",
+                  "category": "historical",
+                  "coords": [
+                        35.244122,
+                        31.985323
+                  ]
+            },
+            {
+                  "name": "منزل السيدنادي عمار",
+                  "text": "Atracție în Silwad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tall Asur",
+                  "text": "Mountain peak in Silwad.",
+                  "category": "natural",
+                  "coords": [
+                        35.285521,
+                        31.978781
+                  ]
+            },
+            {
+                  "name": "הבור הסיני",
+                  "text": "Cave entrance in Silwad.",
+                  "category": "natural",
+                  "coords": [
+                        35.265776,
+                        31.959167
+                  ]
+            },
+            {
+                  "name": "المغر",
+                  "text": "Viewpoint in Silwad.",
+                  "category": "natural",
+                  "coords": [
+                        35.260638,
+                        32.005008
+                  ]
+            },
+            {
+                  "name": "هون نام بهاء",
+                  "text": "Attraction in Silwad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.25287,
+                        32.002746
+                  ]
+            },
+            {
+                  "name": "Burj Barduil",
+                  "text": "Ruins in Silwad.",
+                  "category": "historical",
+                  "coords": [
+                        35.244122,
+                        31.985323
+                  ]
+            },
+            {
+                  "name": "nadi ammar",
+                  "text": "Attraction in Silwad.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Silwad", hu: "Szilvád", ro: "Silwad", en: "Silwad" },
@@ -2028,7 +19074,232 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-turmus-ayya-cities-v2.webp",
   },
   {
-    id: "palestine-sinjil-cities-v2",
+    id: "palestine-sinjil-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "صالة سنجل الكبرى",
+                  "text": "Schloss in Sindschil.",
+                  "category": "castle",
+                  "coords": [
+                        35.262836,
+                        32.036253
+                  ]
+            },
+            {
+                  "name": "شعب فرحان",
+                  "text": "Schloss in Sindschil.",
+                  "category": "castle",
+                  "coords": [
+                        35.260938,
+                        32.027937
+                  ]
+            },
+            {
+                  "name": "المغر",
+                  "text": "Aussichtspunkt in Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.260638,
+                        32.005008
+                  ]
+            },
+            {
+                  "name": "راس العقبة",
+                  "text": "Aussichtspunkt in Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.253908,
+                        32.055629
+                  ]
+            },
+            {
+                  "name": "جبل القرقعة",
+                  "text": "Aussichtspunkt in Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.278277,
+                        32.019818
+                  ]
+            },
+            {
+                  "name": "منطقة ابو العوف",
+                  "text": "Aussichtspunkt in Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.266524,
+                        32.050516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "صالة سنجل الكبرى",
+                  "text": "Kastély Sindschil városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.262836,
+                        32.036253
+                  ]
+            },
+            {
+                  "name": "شعب فرحان",
+                  "text": "Kastély Sindschil városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.260938,
+                        32.027937
+                  ]
+            },
+            {
+                  "name": "المغر",
+                  "text": "Kilátópont Sindschil városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.260638,
+                        32.005008
+                  ]
+            },
+            {
+                  "name": "راس العقبة",
+                  "text": "Kilátópont Sindschil városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.253908,
+                        32.055629
+                  ]
+            },
+            {
+                  "name": "جبل القرقعة",
+                  "text": "Kilátópont Sindschil városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.278277,
+                        32.019818
+                  ]
+            },
+            {
+                  "name": "منطقة ابو العوف",
+                  "text": "Kilátópont Sindschil városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.266524,
+                        32.050516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "صالة سنجل الكبرى",
+                  "text": "Castel în Sindschil.",
+                  "category": "castle",
+                  "coords": [
+                        35.262836,
+                        32.036253
+                  ]
+            },
+            {
+                  "name": "شعب فرحان",
+                  "text": "Castel în Sindschil.",
+                  "category": "castle",
+                  "coords": [
+                        35.260938,
+                        32.027937
+                  ]
+            },
+            {
+                  "name": "المغر",
+                  "text": "Punct de observație în Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.260638,
+                        32.005008
+                  ]
+            },
+            {
+                  "name": "راس العقبة",
+                  "text": "Punct de observație în Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.253908,
+                        32.055629
+                  ]
+            },
+            {
+                  "name": "جبل القرقعة",
+                  "text": "Punct de observație în Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.278277,
+                        32.019818
+                  ]
+            },
+            {
+                  "name": "منطقة ابو العوف",
+                  "text": "Punct de observație în Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.266524,
+                        32.050516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "sinjil hall",
+                  "text": "Castle in Sindschil.",
+                  "category": "castle",
+                  "coords": [
+                        35.262836,
+                        32.036253
+                  ]
+            },
+            {
+                  "name": "sha’b farhan",
+                  "text": "Castle in Sindschil.",
+                  "category": "castle",
+                  "coords": [
+                        35.260938,
+                        32.027937
+                  ]
+            },
+            {
+                  "name": "المغر",
+                  "text": "Viewpoint in Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.260638,
+                        32.005008
+                  ]
+            },
+            {
+                  "name": "Aqaba peak",
+                  "text": "Viewpoint in Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.253908,
+                        32.055629
+                  ]
+            },
+            {
+                  "name": "جبل القرقعة",
+                  "text": "Viewpoint in Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.278277,
+                        32.019818
+                  ]
+            },
+            {
+                  "name": "Abu el 'Oof site",
+                  "text": "Viewpoint in Sindschil.",
+                  "category": "natural",
+                  "coords": [
+                        35.266524,
+                        32.050516
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Sindschil", hu: "Szindzsíl", ro: "Sinjil", en: "Sinjil" },
@@ -2073,7 +19344,376 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-sinjil-cities-v2.webp",
   },
   {
-    id: "palestine-jalazone-cities-v2",
+    id: "palestine-jalazone-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف الشعب",
+                  "text": "Das People's Museum ist ein Museum in Dschalazun.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "חוות אפרים",
+                  "text": "חוות אפרים ist ein Tierpark in Dschalazun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.223988,
+                        31.944429
+                  ]
+            },
+            {
+                  "name": "ח'ירבת כפר מור",
+                  "text": "Khirbat Kafr Murr ist eine archäologische Stätte in Dschalazun.",
+                  "category": "historical",
+                  "coords": [
+                        35.226468,
+                        31.935285
+                  ]
+            },
+            {
+                  "name": "Jacob's Ladder Dream Site",
+                  "text": "Jacob's Ladder Dream Site ist eine Attraktion in Dschalazun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231885,
+                        31.949362
+                  ]
+            },
+            {
+                  "name": "מצפור שא נא עינך",
+                  "text": "מצפור שא נא עינך ist ein Aussichtspunkt in Dschalazun.",
+                  "category": "natural",
+                  "coords": [
+                        35.229892,
+                        31.946837
+                  ]
+            },
+            {
+                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "text": "Al Rozana Association for Culture and Heritage ist eine Attraktion in Dschalazun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "אולם הפיס",
+                  "text": "אולם הפיס ist ein Kunstzentrum in Dschalazun.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222857,
+                        31.941312
+                  ]
+            },
+            {
+                  "name": "סולם יעקב",
+                  "text": "Sulam Yaakov ist ein Denkmal in Dschalazun.",
+                  "category": "historical",
+                  "coords": [
+                        35.223077,
+                        31.935005
+                  ]
+            },
+            {
+                  "name": "ישיבת בית אל",
+                  "text": "Beit Midrash ist eine Kultstätte in Dschalazun. Sie ist als Jeschiwa Beit El, eine religiös-zionistische Einrichtung, bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        35.222119,
+                        31.94255
+                  ]
+            },
+            {
+                  "name": "מקווה בני צבי",
+                  "text": "מקווה בני צבי ist ein Gewässer in Dschalazun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.22321,
+                        31.947281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف الشعب",
+                  "text": "A People's Museum egy múzeum Dschalazun városában.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "חוות אפרים",
+                  "text": "A(z) חוות אפרים egy állatkert Dschalazun területén.",
+                  "category": "recreational",
+                  "coords": [
+                        35.223988,
+                        31.944429
+                  ]
+            },
+            {
+                  "name": "ח'ירבת כפר מור",
+                  "text": "A Khirbat Kafr Murr egy régészeti lelőhely Dschalazun városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.226468,
+                        31.935285
+                  ]
+            },
+            {
+                  "name": "Jacob's Ladder Dream Site",
+                  "text": "A Jacob's Ladder Dream Site egy látványosság Dschalazun városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231885,
+                        31.949362
+                  ]
+            },
+            {
+                  "name": "מצפור שא נא עינך",
+                  "text": "A מצפור שא נא עינך egy kilátó Dschalazun városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.229892,
+                        31.946837
+                  ]
+            },
+            {
+                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "text": "Az Al Rozana Association for Culture and Heritage egy látványosság Dschalazun városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "אולם הפיס",
+                  "text": "A אולם הפיס egy művészeti központ Dschalazun városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222857,
+                        31.941312
+                  ]
+            },
+            {
+                  "name": "סולם יעקב",
+                  "text": "A Sulam Yaakov egy emlékmű Dschalazun városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.223077,
+                        31.935005
+                  ]
+            },
+            {
+                  "name": "ישיבת בית אל",
+                  "text": "A Beit Midrash egy istentiszteleti hely Dschalazun városában. A hely a Bét Él jesivaként, egy vallásos cionista intézményként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        35.222119,
+                        31.94255
+                  ]
+            },
+            {
+                  "name": "מקווה בני צבי",
+                  "text": "A מקווה בני צבי egy vízfelület Dschalazun városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.22321,
+                        31.947281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف الشعب",
+                  "text": "People's Museum este un muzeu din Dschalazun.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "חוות אפרים",
+                  "text": "חוות אפרים este o grădină zoologică din Dschalazun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.223988,
+                        31.944429
+                  ]
+            },
+            {
+                  "name": "ח'ירבת כפר מור",
+                  "text": "Khirbat Kafr Murr este un sit arheologic din Dschalazun.",
+                  "category": "historical",
+                  "coords": [
+                        35.226468,
+                        31.935285
+                  ]
+            },
+            {
+                  "name": "Jacob's Ladder Dream Site",
+                  "text": "Jacob's Ladder Dream Site este o atracție în Dschalazun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231885,
+                        31.949362
+                  ]
+            },
+            {
+                  "name": "מצפור שא נא עינך",
+                  "text": "מצפור שא נא עינך este un punct de belvedere în Dschalazun.",
+                  "category": "natural",
+                  "coords": [
+                        35.229892,
+                        31.946837
+                  ]
+            },
+            {
+                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "text": "Al Rozana Association for Culture and Heritage este o atracție în Dschalazun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "אולם הפיס",
+                  "text": "אולם הפיס este un centru de arte în Dschalazun.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222857,
+                        31.941312
+                  ]
+            },
+            {
+                  "name": "סולם יעקב",
+                  "text": "Sulam Yaakov este un monument în Dschalazun.",
+                  "category": "historical",
+                  "coords": [
+                        35.223077,
+                        31.935005
+                  ]
+            },
+            {
+                  "name": "ישיבת בית אל",
+                  "text": "Beit Midrash este un lăcaș de cult în Dschalazun. Este cunoscut sub numele de Yeshiva Beit El, o instituție religioasă sionistă.",
+                  "category": "religious",
+                  "coords": [
+                        35.222119,
+                        31.94255
+                  ]
+            },
+            {
+                  "name": "מקווה בני צבי",
+                  "text": "מקווה בני צבי este o apă în Dschalazun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.22321,
+                        31.947281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "People's Museum",
+                  "text": "The People's Museum is located in Dschalazun.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "חוות אפרים",
+                  "text": "חוות אפרים is a zoo located in Dschalazun.",
+                  "category": "recreational",
+                  "coords": [
+                        35.223988,
+                        31.944429
+                  ]
+            },
+            {
+                  "name": "Khirbat Kafr Murr",
+                  "text": "Khirbat Kafr Murr is an archaeological site located in Dschalazun.",
+                  "category": "historical",
+                  "coords": [
+                        35.226468,
+                        31.935285
+                  ]
+            },
+            {
+                  "name": "Jacob's Ladder Dream Site",
+                  "text": "Jacob's Ladder Dream Site is an attraction in Dschalazun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231885,
+                        31.949362
+                  ]
+            },
+            {
+                  "name": "מצפור שא נא עינך",
+                  "text": "מצפור שא נא עינך is a viewpoint situated in Dschalazun.",
+                  "category": "natural",
+                  "coords": [
+                        35.229892,
+                        31.946837
+                  ]
+            },
+            {
+                  "name": "Al Rozana Association for Culture and Heritage",
+                  "text": "Al Rozana Association for Culture and Heritage is an attraction in Dschalazun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "אולם הפיס",
+                  "text": "אולם הפיס is an arts centre in Dschalazun.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222857,
+                        31.941312
+                  ]
+            },
+            {
+                  "name": "Sulam Yaakov",
+                  "text": "Sulam Yaakov is a monument in Dschalazun.",
+                  "category": "historical",
+                  "coords": [
+                        35.223077,
+                        31.935005
+                  ]
+            },
+            {
+                  "name": "Beit Midrash",
+                  "text": "Beit Midrash is a place of worship in Dschalazun. It is known as the Beit El Yeshiva, a prominent religious Zionist institution.",
+                  "category": "religious",
+                  "coords": [
+                        35.222119,
+                        31.94255
+                  ]
+            },
+            {
+                  "name": "מקווה בני צבי",
+                  "text": "מקווה בני צבי is a water feature in Dschalazun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.22321,
+                        31.947281
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Dschalazun", hu: "Dzsalazun", ro: "Jalazone", en: "Jalazone" },
@@ -2118,7 +19758,160 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-jalazone-cities-v2.webp",
   },
   {
-    id: "palestine-azzun-cities-v2",
+    id: "palestine-azzun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Khirbet Barthone",
+                  "text": "Khirbet Barthone ist ein archäologische Stätte in Azzun.",
+                  "category": "historical",
+                  "coords": [
+                        35.032662,
+                        32.181959
+                  ]
+            },
+            {
+                  "name": "Social Center",
+                  "text": "Social Center ist ein Kunstzentrum in Azzun.",
+                  "category": "cultural",
+                  "coords": [
+                        35.036615,
+                        32.200264
+                  ]
+            },
+            {
+                  "name": "מצפה השניים",
+                  "text": "מצפה השניים ist ein Aussichtspunkt in Azzun.",
+                  "category": "natural",
+                  "coords": [
+                        35.013571,
+                        32.173586
+                  ]
+            },
+            {
+                  "name": "Kaus al-Nasr",
+                  "text": "Kaus al-Nasr ist ein Denkmal in Azzun.",
+                  "category": "historical",
+                  "coords": [
+                        35.03427,
+                        32.182342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Khirbet Barthone",
+                  "text": "A(z) Khirbet Barthone egy régészeti lelőhely Azzun területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.032662,
+                        32.181959
+                  ]
+            },
+            {
+                  "name": "Social Center",
+                  "text": "A(z) Social Center egy művészeti központ Azzun területén.",
+                  "category": "cultural",
+                  "coords": [
+                        35.036615,
+                        32.200264
+                  ]
+            },
+            {
+                  "name": "מצפה השניים",
+                  "text": "A(z) מצפה השניים egy kilátó Azzun területén.",
+                  "category": "natural",
+                  "coords": [
+                        35.013571,
+                        32.173586
+                  ]
+            },
+            {
+                  "name": "Kaus al-Nasr",
+                  "text": "A(z) Kaus al-Nasr egy emlékmű Azzun területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.03427,
+                        32.182342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Khirbet Barthone",
+                  "text": "Khirbet Barthone este un/o sit arheologic situat(ă) în Azzun.",
+                  "category": "historical",
+                  "coords": [
+                        35.032662,
+                        32.181959
+                  ]
+            },
+            {
+                  "name": "Social Center",
+                  "text": "Social Center este un/o centru de arte situat(ă) în Azzun.",
+                  "category": "cultural",
+                  "coords": [
+                        35.036615,
+                        32.200264
+                  ]
+            },
+            {
+                  "name": "מצפה השניים",
+                  "text": "מצפה השניים este un/o punct de belvedere situat(ă) în Azzun.",
+                  "category": "natural",
+                  "coords": [
+                        35.013571,
+                        32.173586
+                  ]
+            },
+            {
+                  "name": "Kaus al-Nasr",
+                  "text": "Kaus al-Nasr este un/o monument situat(ă) în Azzun.",
+                  "category": "historical",
+                  "coords": [
+                        35.03427,
+                        32.182342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khirbet Barthone",
+                  "text": "Khirbet Barthone is a archaeological site located in Azzun.",
+                  "category": "historical",
+                  "coords": [
+                        35.032662,
+                        32.181959
+                  ]
+            },
+            {
+                  "name": "Social Center",
+                  "text": "Social Center is a arts centre located in Azzun.",
+                  "category": "cultural",
+                  "coords": [
+                        35.036615,
+                        32.200264
+                  ]
+            },
+            {
+                  "name": "מצפה השניים",
+                  "text": "מצפה השניים is a viewpoint located in Azzun.",
+                  "category": "natural",
+                  "coords": [
+                        35.013571,
+                        32.173586
+                  ]
+            },
+            {
+                  "name": "Kaus al-Nasr",
+                  "text": "Kaus al-Nasr is a monument located in Azzun.",
+                  "category": "historical",
+                  "coords": [
+                        35.03427,
+                        32.182342
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Azzun", hu: "Azzun", ro: "Azzun", en: "Azzun" },
@@ -2163,7 +19956,232 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-azzun-cities-v2.webp",
   },
   {
-    id: "palestine-hableh-cities-v2",
+    id: "palestine-hableh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "صالة سرايا السلطان قلقيلية",
+                  "text": "Schloss in Habla.",
+                  "category": "castle",
+                  "coords": [
+                        34.961689,
+                        32.178813
+                  ]
+            },
+            {
+                  "name": "widding al qaseer",
+                  "text": "Theater in Habla.",
+                  "category": "cultural",
+                  "coords": [
+                        34.979868,
+                        32.191228
+                  ]
+            },
+            {
+                  "name": "Community Center",
+                  "text": "Kunstzentrum in Habla.",
+                  "category": "cultural",
+                  "coords": [
+                        34.991256,
+                        32.157701
+                  ]
+            },
+            {
+                  "name": "دوار الشيماء",
+                  "text": "Denkmal in Habla.",
+                  "category": "historical",
+                  "coords": [
+                        34.967311,
+                        32.187621
+                  ]
+            },
+            {
+                  "name": "سبوت لاند",
+                  "text": "Aussichtspunkt in Habla.",
+                  "category": "natural",
+                  "coords": [
+                        34.983191,
+                        32.190744
+                  ]
+            },
+            {
+                  "name": "מצפה השניים",
+                  "text": "Aussichtspunkt in Habla.",
+                  "category": "natural",
+                  "coords": [
+                        35.013571,
+                        32.173586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "صالة سرايا السلطان قلقيلية",
+                  "text": "Kastély Habla városában.",
+                  "category": "castle",
+                  "coords": [
+                        34.961689,
+                        32.178813
+                  ]
+            },
+            {
+                  "name": "widding al qaseer",
+                  "text": "Színház Habla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.979868,
+                        32.191228
+                  ]
+            },
+            {
+                  "name": "Community Center",
+                  "text": "Művészeti központ Habla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.991256,
+                        32.157701
+                  ]
+            },
+            {
+                  "name": "دوار الشيماء",
+                  "text": "Emlékmű Habla városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.967311,
+                        32.187621
+                  ]
+            },
+            {
+                  "name": "سبوت لاند",
+                  "text": "Kilátópont Habla városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.983191,
+                        32.190744
+                  ]
+            },
+            {
+                  "name": "מצפה השניים",
+                  "text": "Kilátópont Habla városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.013571,
+                        32.173586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "صالة سرايا السلطان قلقيلية",
+                  "text": "Castel în Habla.",
+                  "category": "castle",
+                  "coords": [
+                        34.961689,
+                        32.178813
+                  ]
+            },
+            {
+                  "name": "widding al qaseer",
+                  "text": "Teatru în Habla.",
+                  "category": "cultural",
+                  "coords": [
+                        34.979868,
+                        32.191228
+                  ]
+            },
+            {
+                  "name": "Community Center",
+                  "text": "Centru de artă în Habla.",
+                  "category": "cultural",
+                  "coords": [
+                        34.991256,
+                        32.157701
+                  ]
+            },
+            {
+                  "name": "دوار الشيماء",
+                  "text": "Monument în Habla.",
+                  "category": "historical",
+                  "coords": [
+                        34.967311,
+                        32.187621
+                  ]
+            },
+            {
+                  "name": "سبوت لاند",
+                  "text": "Punct de observație în Habla.",
+                  "category": "natural",
+                  "coords": [
+                        34.983191,
+                        32.190744
+                  ]
+            },
+            {
+                  "name": "מצפה השניים",
+                  "text": "Punct de observație în Habla.",
+                  "category": "natural",
+                  "coords": [
+                        35.013571,
+                        32.173586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "صالة سرايا السلطان قلقيلية",
+                  "text": "Castle in Habla.",
+                  "category": "castle",
+                  "coords": [
+                        34.961689,
+                        32.178813
+                  ]
+            },
+            {
+                  "name": "widding al qaseer",
+                  "text": "Theatre in Habla.",
+                  "category": "cultural",
+                  "coords": [
+                        34.979868,
+                        32.191228
+                  ]
+            },
+            {
+                  "name": "Community Center",
+                  "text": "Arts centre in Habla.",
+                  "category": "cultural",
+                  "coords": [
+                        34.991256,
+                        32.157701
+                  ]
+            },
+            {
+                  "name": "Shaimaa Roundabout",
+                  "text": "Monument in Habla.",
+                  "category": "historical",
+                  "coords": [
+                        34.967311,
+                        32.187621
+                  ]
+            },
+            {
+                  "name": "spot land",
+                  "text": "Viewpoint in Habla.",
+                  "category": "natural",
+                  "coords": [
+                        34.983191,
+                        32.190744
+                  ]
+            },
+            {
+                  "name": "מצפה השניים",
+                  "text": "Viewpoint in Habla.",
+                  "category": "natural",
+                  "coords": [
+                        35.013571,
+                        32.173586
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Habla", hu: "Habla", ro: "Hableh", en: "Hableh" },
@@ -2208,7 +20226,160 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-hableh-cities-v2.webp",
   },
   {
-    id: "palestine-jayyous-cities-v2",
+    id: "palestine-jayyous-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Horvat Dardar",
+                  "text": "Horvat Dardar ist eine archäologische Stätte in Dschayyus.",
+                  "category": "historical",
+                  "coords": [
+                        35.016923,
+                        32.239647
+                  ]
+            },
+            {
+                  "name": "Beit Jiffa",
+                  "text": "Beit Jiffa ist eine archäologische Stätte in Dschayyus.",
+                  "category": "historical",
+                  "coords": [
+                        35.063669,
+                        32.206978
+                  ]
+            },
+            {
+                  "name": "מצפה הדר",
+                  "text": "מצפה הדר ist ein Aussichtspunkt in Dschayyus.",
+                  "category": "natural",
+                  "coords": [
+                        35.038759,
+                        32.240837
+                  ]
+            },
+            {
+                  "name": "Social Center",
+                  "text": "Social Center ist ein Kunstzentrum in Dschayyus.",
+                  "category": "cultural",
+                  "coords": [
+                        35.036615,
+                        32.200264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Horvat Dardar",
+                  "text": "A Horvat Dardar egy régészeti lelőhely Dschayyus városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.016923,
+                        32.239647
+                  ]
+            },
+            {
+                  "name": "Beit Jiffa",
+                  "text": "A Beit Jiffa egy régészeti lelőhely Dschayyus városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.063669,
+                        32.206978
+                  ]
+            },
+            {
+                  "name": "מצפה הדר",
+                  "text": "A מצפה הדר egy kilátó Dschayyus városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.038759,
+                        32.240837
+                  ]
+            },
+            {
+                  "name": "Social Center",
+                  "text": "A Social Center egy művészeti központ Dschayyus városában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.036615,
+                        32.200264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Horvat Dardar",
+                  "text": "Horvat Dardar este un sit arheologic din Dschayyus.",
+                  "category": "historical",
+                  "coords": [
+                        35.016923,
+                        32.239647
+                  ]
+            },
+            {
+                  "name": "Beit Jiffa",
+                  "text": "Beit Jiffa este un sit arheologic din Dschayyus.",
+                  "category": "historical",
+                  "coords": [
+                        35.063669,
+                        32.206978
+                  ]
+            },
+            {
+                  "name": "מצפה הדר",
+                  "text": "מצפה הדר este un punct de belvedere în Dschayyus.",
+                  "category": "natural",
+                  "coords": [
+                        35.038759,
+                        32.240837
+                  ]
+            },
+            {
+                  "name": "Social Center",
+                  "text": "Social Center este un centru de arte în Dschayyus.",
+                  "category": "cultural",
+                  "coords": [
+                        35.036615,
+                        32.200264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horvat Dardar",
+                  "text": "Horvat Dardar is an archaeological site located in Dschayyus.",
+                  "category": "historical",
+                  "coords": [
+                        35.016923,
+                        32.239647
+                  ]
+            },
+            {
+                  "name": "Beit Jiffa",
+                  "text": "Beit Jiffa is an archaeological site in Dschayyus.",
+                  "category": "historical",
+                  "coords": [
+                        35.063669,
+                        32.206978
+                  ]
+            },
+            {
+                  "name": "מצפה הדר",
+                  "text": "מצפה הדר is a viewpoint situated in Dschayyus.",
+                  "category": "natural",
+                  "coords": [
+                        35.038759,
+                        32.240837
+                  ]
+            },
+            {
+                  "name": "Social Center",
+                  "text": "Social Center is an arts centre in Dschayyus.",
+                  "category": "cultural",
+                  "coords": [
+                        35.036615,
+                        32.200264
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Dschayyus", hu: "Dzsajjúsz", ro: "Jayyous", en: "Jayyous" },
@@ -2343,7 +20514,160 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-yabad-cities-v2.webp",
   },
   {
-    id: "palestine-arraba-cities-v2",
+    id: "palestine-arraba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "منزل جهاد موسى",
+                  "text": "jehad mousa home ist eine Burg in Arraba.",
+                  "category": "castle",
+                  "coords": [
+                        35.204784,
+                        32.40275
+                  ]
+            },
+            {
+                  "name": "طارق حمدان",
+                  "text": "طارق حمدان ist eine Attraktion in Arraba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.203572,
+                        32.404502
+                  ]
+            },
+            {
+                  "name": "ستوديو يارا للانتاج الفني محمد ابو صلاح",
+                  "text": "Yara Studios For Art Production Mohammed Abu Salah ist eine Attraktion in Arraba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.195915,
+                        32.390835
+                  ]
+            },
+            {
+                  "name": "الخال",
+                  "text": "الخال ist ein Aussichtspunkt in Arraba.",
+                  "category": "natural",
+                  "coords": [
+                        35.1875,
+                        32.384628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "منزل جهاد موسى",
+                  "text": "A jehad mousa home egy kastély Arraba városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.204784,
+                        32.40275
+                  ]
+            },
+            {
+                  "name": "طارق حمدان",
+                  "text": "A طارق حمدان egy látványosság Arraba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.203572,
+                        32.404502
+                  ]
+            },
+            {
+                  "name": "ستوديو يارا للانتاج الفني محمد ابو صلاح",
+                  "text": "A Yara Studios For Art Production Mohammed Abu Salah egy látványosság Arraba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.195915,
+                        32.390835
+                  ]
+            },
+            {
+                  "name": "الخال",
+                  "text": "A الخال egy kilátó Arraba városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.1875,
+                        32.384628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "منزل جهاد موسى",
+                  "text": "jehad mousa home este un castel în Arraba.",
+                  "category": "castle",
+                  "coords": [
+                        35.204784,
+                        32.40275
+                  ]
+            },
+            {
+                  "name": "طارق حمدان",
+                  "text": "طارق حمدان este o atracție în Arraba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.203572,
+                        32.404502
+                  ]
+            },
+            {
+                  "name": "ستوديو يارا للانتاج الفني محمد ابو صلاح",
+                  "text": "Yara Studios For Art Production Mohammed Abu Salah este o atracție în Arraba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.195915,
+                        32.390835
+                  ]
+            },
+            {
+                  "name": "الخال",
+                  "text": "الخال este un punct de belvedere în Arraba.",
+                  "category": "natural",
+                  "coords": [
+                        35.1875,
+                        32.384628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "jehad mousa home",
+                  "text": "jehad mousa home is a castle in Arraba.",
+                  "category": "castle",
+                  "coords": [
+                        35.204784,
+                        32.40275
+                  ]
+            },
+            {
+                  "name": "طارق حمدان",
+                  "text": "طارق حمدان is an attraction in Arraba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.203572,
+                        32.404502
+                  ]
+            },
+            {
+                  "name": "Yara Studios For Art Production Mohammed Abu Salah",
+                  "text": "Yara Studios For Art Production Mohammed Abu Salah is an attraction in Arraba.",
+                  "category": "landmark",
+                  "coords": [
+                        35.195915,
+                        32.390835
+                  ]
+            },
+            {
+                  "name": "الخال",
+                  "text": "الخال is a viewpoint located in Arraba.",
+                  "category": "natural",
+                  "coords": [
+                        35.1875,
+                        32.384628
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Arraba", hu: "Arraba", ro: "Arraba", en: "Arraba" },
@@ -2433,7 +20757,52 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-qabatiya-cities-v2.webp",
   },
   {
-    id: "palestine-jaba-cities-v2",
+    id: "palestine-jaba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maqam Hureish",
+                  "text": "Ruinen in Dschaba.",
+                  "category": "historical",
+                  "coords": [
+                        35.255824,
+                        32.337115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maqam Hureish",
+                  "text": "Romok Dschaba városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.255824,
+                        32.337115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maqam Hureish",
+                  "text": "Ruine în Dschaba.",
+                  "category": "historical",
+                  "coords": [
+                        35.255824,
+                        32.337115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maqam Hureish",
+                  "text": "Ruins in Dschaba.",
+                  "category": "historical",
+                  "coords": [
+                        35.255824,
+                        32.337115
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Dschaba", hu: "Dzsuba", ro: "Jaba'", en: "Jaba'" },
@@ -2478,7 +20847,124 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-jaba-cities-v2.webp",
   },
   {
-    id: "palestine-silat-ad-dhahr-cities-v2",
+    id: "palestine-silat-ad-dhahr-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "منزل عبد الرزاق شحاده",
+                  "text": "منزل عبد الرزاق شحاده ist ein Aussichtspunkt in Silat ad-Dhahr.",
+                  "category": "natural",
+                  "coords": [
+                        35.205587,
+                        32.32112
+                  ]
+            },
+            {
+                  "name": "الفاخوري لتجليس السيارات",
+                  "text": "الفاخوري لتجليس السيارات ist eine Attraktion in Silat ad-Dhahr.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205118,
+                        32.334941
+                  ]
+            },
+            {
+                  "name": "שייח אבו יזיד",
+                  "text": "שייח אבו יזיד sind Ruinen in Silat ad-Dhahr.",
+                  "category": "historical",
+                  "coords": [
+                        35.219227,
+                        32.304394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "منزل عبد الرزاق شحاده",
+                  "text": "A منزل عبد الرزاق شحاده egy kilátó Silat ad-Dhahr városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.205587,
+                        32.32112
+                  ]
+            },
+            {
+                  "name": "الفاخوري لتجليس السيارات",
+                  "text": "A الفاخوري لتجليس السيارات egy látványosság Silat ad-Dhahr városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205118,
+                        32.334941
+                  ]
+            },
+            {
+                  "name": "שייח אבו יזיד",
+                  "text": "A שייח אבו יזיד romok Silat ad-Dhahr városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.219227,
+                        32.304394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "منزل عبد الرزاق شحاده",
+                  "text": "منزل عبد الرزاق شحاده este un punct de belvedere în Silat ad-Dhahr.",
+                  "category": "natural",
+                  "coords": [
+                        35.205587,
+                        32.32112
+                  ]
+            },
+            {
+                  "name": "الفاخوري لتجليس السيارات",
+                  "text": "الفاخوري لتجليس السيارات este o atracție în Silat ad-Dhahr.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205118,
+                        32.334941
+                  ]
+            },
+            {
+                  "name": "שייח אבו יזיד",
+                  "text": "שייח אבו יזיד sunt niște ruine în Silat ad-Dhahr.",
+                  "category": "historical",
+                  "coords": [
+                        35.219227,
+                        32.304394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "منزل عبد الرزاق شحاده",
+                  "text": "منزل عبد الرزاق شحاده is a viewpoint situated in Silat ad-Dhahr.",
+                  "category": "natural",
+                  "coords": [
+                        35.205587,
+                        32.32112
+                  ]
+            },
+            {
+                  "name": "الفاخوري لتجليس السيارات",
+                  "text": "الفاخوري لتجليس السيارات is an attraction in Silat ad-Dhahr.",
+                  "category": "landmark",
+                  "coords": [
+                        35.205118,
+                        32.334941
+                  ]
+            },
+            {
+                  "name": "שייח אבו יזיד",
+                  "text": "שייח אבו יזיד are ruins located in Silat ad-Dhahr.",
+                  "category": "historical",
+                  "coords": [
+                        35.219227,
+                        32.304394
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Silat ad-Dhahr", hu: "Szilat ed-Dahr", ro: "Silat ad-Dhahr", en: "Silat ad-Dhahr" },
@@ -2523,7 +21009,376 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-silat-ad-dhahr-cities-v2.webp",
   },
   {
-    id: "palestine-burqin-cities-v2",
+    id: "palestine-burqin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Freedom Theatre",
+                  "text": "The Freedom Theatre ist ein Theater in Burqin.",
+                  "category": "cultural",
+                  "coords": [
+                        35.287232,
+                        32.463367
+                  ]
+            },
+            {
+                  "name": "Janat Park",
+                  "text": "Janat Park ist ein Freizeitpark in Burqin.",
+                  "category": "recreational",
+                  "coords": [
+                        35.287657,
+                        32.439851
+                  ]
+            },
+            {
+                  "name": "نفق بلعمة",
+                  "text": "نفق بلعمة ist ein archäologische Stätte in Burqin.",
+                  "category": "historical",
+                  "coords": [
+                        35.293678,
+                        32.444093
+                  ]
+            },
+            {
+                  "name": "منزل السيد خليل سيريسي",
+                  "text": "منزل السيد خليل سيريسي ist ein Schloss in Burqin.",
+                  "category": "castle",
+                  "coords": [
+                        35.293518,
+                        32.460613
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Monument ist ein Denkmal in Burqin.",
+                  "category": "historical",
+                  "coords": [
+                        35.292125,
+                        32.46597
+                  ]
+            },
+            {
+                  "name": "צומת הטנק",
+                  "text": "צומת הטנק ist ein Aussichtspunkt in Burqin.",
+                  "category": "natural",
+                  "coords": [
+                        35.266769,
+                        32.43092
+                  ]
+            },
+            {
+                  "name": "مسجد صلاح الدين",
+                  "text": "Salah Al-Din Mosque ist ein Sehenswürdigkeit in Burqin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.293916,
+                        32.459233
+                  ]
+            },
+            {
+                  "name": "منزل المرحوم انور الطاهر",
+                  "text": "منزل المرحوم انور الطاهر ist ein Sehenswürdigkeit in Burqin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.29085,
+                        32.46352
+                  ]
+            },
+            {
+                  "name": "قصر جرار التاريخي (الخوخة)",
+                  "text": "Jamar palace (el khukha) ist ein Aussichtspunkt in Burqin.",
+                  "category": "natural",
+                  "coords": [
+                        35.261871,
+                        32.45629
+                  ]
+            },
+            {
+                  "name": "Borken Churche",
+                  "text": "Burkin Church ist ein bekanntes Kultstätte in Burqin.",
+                  "category": "religious",
+                  "coords": [
+                        35.260061,
+                        32.457597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Freedom Theatre",
+                  "text": "A(z) The Freedom Theatre egy színház Burqin területén.",
+                  "category": "cultural",
+                  "coords": [
+                        35.287232,
+                        32.463367
+                  ]
+            },
+            {
+                  "name": "Janat Park",
+                  "text": "A(z) Janat Park egy vidámpark Burqin területén.",
+                  "category": "recreational",
+                  "coords": [
+                        35.287657,
+                        32.439851
+                  ]
+            },
+            {
+                  "name": "نفق بلعمة",
+                  "text": "A(z) نفق بلعمة egy régészeti lelőhely Burqin területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.293678,
+                        32.444093
+                  ]
+            },
+            {
+                  "name": "منزل السيد خليل سيريسي",
+                  "text": "A(z) منزل السيد خليل سيريسي egy kastély Burqin területén.",
+                  "category": "castle",
+                  "coords": [
+                        35.293518,
+                        32.460613
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "A(z) Monument egy emlékmű Burqin területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.292125,
+                        32.46597
+                  ]
+            },
+            {
+                  "name": "צומת הטנק",
+                  "text": "A(z) צומת הטנק egy kilátó Burqin területén.",
+                  "category": "natural",
+                  "coords": [
+                        35.266769,
+                        32.43092
+                  ]
+            },
+            {
+                  "name": "مسجد صلاح الدين",
+                  "text": "A(z) Salah Al-Din Mosque egy látványosság Burqin területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.293916,
+                        32.459233
+                  ]
+            },
+            {
+                  "name": "منزل المرحوم انور الطاهر",
+                  "text": "A(z) منزل المرحوم انور الطاهر egy látványosság Burqin területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.29085,
+                        32.46352
+                  ]
+            },
+            {
+                  "name": "قصر جرار التاريخي (الخوخة)",
+                  "text": "A(z) Jamar palace (el khukha) egy kilátó Burqin területén.",
+                  "category": "natural",
+                  "coords": [
+                        35.261871,
+                        32.45629
+                  ]
+            },
+            {
+                  "name": "Borken Churche",
+                  "text": "A(z) Burkin Church egy nevezetes istentiszteleti hely Burqin területén.",
+                  "category": "religious",
+                  "coords": [
+                        35.260061,
+                        32.457597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Freedom Theatre",
+                  "text": "The Freedom Theatre este un/o teatru situat(ă) în Burqin.",
+                  "category": "cultural",
+                  "coords": [
+                        35.287232,
+                        32.463367
+                  ]
+            },
+            {
+                  "name": "Janat Park",
+                  "text": "Janat Park este un/o parc de distracții situat(ă) în Burqin.",
+                  "category": "recreational",
+                  "coords": [
+                        35.287657,
+                        32.439851
+                  ]
+            },
+            {
+                  "name": "نفق بلعمة",
+                  "text": "نفق بلعمة este un/o sit arheologic situat(ă) în Burqin.",
+                  "category": "historical",
+                  "coords": [
+                        35.293678,
+                        32.444093
+                  ]
+            },
+            {
+                  "name": "منزل السيد خليل سيريسي",
+                  "text": "منزل السيد خليل سيريسي este un/o castel situat(ă) în Burqin.",
+                  "category": "castle",
+                  "coords": [
+                        35.293518,
+                        32.460613
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Monument este un/o monument situat(ă) în Burqin.",
+                  "category": "historical",
+                  "coords": [
+                        35.292125,
+                        32.46597
+                  ]
+            },
+            {
+                  "name": "צומת הטנק",
+                  "text": "צומת הטנק este un/o punct de belvedere situat(ă) în Burqin.",
+                  "category": "natural",
+                  "coords": [
+                        35.266769,
+                        32.43092
+                  ]
+            },
+            {
+                  "name": "مسجد صلاح الدين",
+                  "text": "Salah Al-Din Mosque este un/o atracție situat(ă) în Burqin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.293916,
+                        32.459233
+                  ]
+            },
+            {
+                  "name": "منزل المرحوم انور الطاهر",
+                  "text": "منزل المرحوم انور الطاهر este un/o atracție situat(ă) în Burqin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.29085,
+                        32.46352
+                  ]
+            },
+            {
+                  "name": "قصر جرار التاريخي (الخوخة)",
+                  "text": "Jamar palace (el khukha) este un/o punct de belvedere situat(ă) în Burqin.",
+                  "category": "natural",
+                  "coords": [
+                        35.261871,
+                        32.45629
+                  ]
+            },
+            {
+                  "name": "Borken Churche",
+                  "text": "Burkin Church este un/o lăcaș de cult notabil(ă) situat(ă) în Burqin.",
+                  "category": "religious",
+                  "coords": [
+                        35.260061,
+                        32.457597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Freedom Theatre",
+                  "text": "The Freedom Theatre is a theatre located in Burqin.",
+                  "category": "cultural",
+                  "coords": [
+                        35.287232,
+                        32.463367
+                  ]
+            },
+            {
+                  "name": "Janat Park",
+                  "text": "Janat Park is a theme park located in Burqin.",
+                  "category": "recreational",
+                  "coords": [
+                        35.287657,
+                        32.439851
+                  ]
+            },
+            {
+                  "name": "نفق بلعمة",
+                  "text": "نفق بلعمة is a archaeological site located in Burqin.",
+                  "category": "historical",
+                  "coords": [
+                        35.293678,
+                        32.444093
+                  ]
+            },
+            {
+                  "name": "منزل السيد خليل سيريسي",
+                  "text": "منزل السيد خليل سيريسي is a castle located in Burqin.",
+                  "category": "castle",
+                  "coords": [
+                        35.293518,
+                        32.460613
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Monument is a monument located in Burqin.",
+                  "category": "historical",
+                  "coords": [
+                        35.292125,
+                        32.46597
+                  ]
+            },
+            {
+                  "name": "צומת הטנק",
+                  "text": "צומת הטנק is a viewpoint located in Burqin.",
+                  "category": "natural",
+                  "coords": [
+                        35.266769,
+                        32.43092
+                  ]
+            },
+            {
+                  "name": "Salah Al-Din Mosque",
+                  "text": "Salah Al-Din Mosque is a attraction located in Burqin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.293916,
+                        32.459233
+                  ]
+            },
+            {
+                  "name": "منزل المرحوم انور الطاهر",
+                  "text": "منزل المرحوم انور الطاهر is a attraction located in Burqin.",
+                  "category": "landmark",
+                  "coords": [
+                        35.29085,
+                        32.46352
+                  ]
+            },
+            {
+                  "name": "Jamar palace (el khukha)",
+                  "text": "Jamar palace (el khukha) is a viewpoint located in Burqin.",
+                  "category": "natural",
+                  "coords": [
+                        35.261871,
+                        32.45629
+                  ]
+            },
+            {
+                  "name": "Burkin Church",
+                  "text": "Burkin Church is a notable place of worship located in Burqin.",
+                  "category": "religious",
+                  "coords": [
+                        35.260061,
+                        32.457597
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Burqin", hu: "Burkin", ro: "Burqin", en: "Burqin" },
@@ -2613,7 +21468,88 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-tamun-cities-v2.webp",
   },
   {
-    id: "palestine-al-yamun-cities-v2",
+    id: "palestine-al-yamun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "الصالة الملكية للافراح",
+                  "text": "الصالة الملكية للافراح ist eine Attraktion in al-Yamun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.237913,
+                        32.490211
+                  ]
+            },
+            {
+                  "name": "ديوان عائلة الجرادات",
+                  "text": "ديوان عائلة الجرادات ist eine Attraktion in al-Yamun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231257,
+                        32.490302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "الصالة الملكية للافراح",
+                  "text": "A الصالة الملكية للافراح egy látványosság al-Yamun városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.237913,
+                        32.490211
+                  ]
+            },
+            {
+                  "name": "ديوان عائلة الجرادات",
+                  "text": "A ديوان عائلة الجرادات egy látványosság al-Yamun városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231257,
+                        32.490302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "الصالة الملكية للافراح",
+                  "text": "الصالة الملكية للافراح este o atracție în al-Yamun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.237913,
+                        32.490211
+                  ]
+            },
+            {
+                  "name": "ديوان عائلة الجرادات",
+                  "text": "ديوان عائلة الجرادات este o atracție în al-Yamun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231257,
+                        32.490302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "الصالة الملكية للافراح",
+                  "text": "الصالة الملكية للافراح is an attraction in al-Yamun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.237913,
+                        32.490211
+                  ]
+            },
+            {
+                  "name": "ديوان عائلة الجرادات",
+                  "text": "ديوان عائلة الجرادات is an attraction in al-Yamun.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231257,
+                        32.490302
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "al-Yamun", hu: "el-Jamun", ro: "Al-Yamun", en: "Al-Yamun" },
@@ -2703,7 +21639,376 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-bani-suheila-cities-v2.webp",
   },
   {
-    id: "palestine-abasan-al-kabira-cities-v2",
+    id: "palestine-abasan-al-kabira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "بلدية بني سهيلا",
+                  "text": "Denkmal in Abasan al-Kabira.",
+                  "category": "historical",
+                  "coords": [
+                        34.322255,
+                        31.34033
+                  ]
+            },
+            {
+                  "name": "ملعب الزنة الرياضي",
+                  "text": "Attraktion in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.337174,
+                        31.350205
+                  ]
+            },
+            {
+                  "name": "صالة العاب النجار",
+                  "text": "Attraktion in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.364279,
+                        31.309278
+                  ]
+            },
+            {
+                  "name": "بيت جدي استراحة كوفي شوب",
+                  "text": "Attraktion in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.342668,
+                        31.340138
+                  ]
+            },
+            {
+                  "name": "ايديوكيد - هشام",
+                  "text": "Attraktion in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340913,
+                        31.324585
+                  ]
+            },
+            {
+                  "name": "ايدوكيد - نزيها",
+                  "text": "Attraktion in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352919,
+                        31.329728
+                  ]
+            },
+            {
+                  "name": "صندوق نور",
+                  "text": "Attraktion in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346159,
+                        31.322939
+                  ]
+            },
+            {
+                  "name": "شارع القدس",
+                  "text": "Attraktion in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.332647,
+                        31.342311
+                  ]
+            },
+            {
+                  "name": "AL-shhdda",
+                  "text": "Denkmal in Abasan al-Kabira.",
+                  "category": "historical",
+                  "coords": [
+                        34.35982,
+                        31.313056
+                  ]
+            },
+            {
+                  "name": "بلدية خزاعة",
+                  "text": "Attraktion in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.362203,
+                        31.307752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "بلدية بني سهيلا",
+                  "text": "Emlékmű Abasan al-Kabira városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.322255,
+                        31.34033
+                  ]
+            },
+            {
+                  "name": "ملعب الزنة الرياضي",
+                  "text": "Látnivaló Abasan al-Kabira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.337174,
+                        31.350205
+                  ]
+            },
+            {
+                  "name": "صالة العاب النجار",
+                  "text": "Látnivaló Abasan al-Kabira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.364279,
+                        31.309278
+                  ]
+            },
+            {
+                  "name": "بيت جدي استراحة كوفي شوب",
+                  "text": "Látnivaló Abasan al-Kabira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.342668,
+                        31.340138
+                  ]
+            },
+            {
+                  "name": "ايديوكيد - هشام",
+                  "text": "Látnivaló Abasan al-Kabira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340913,
+                        31.324585
+                  ]
+            },
+            {
+                  "name": "ايدوكيد - نزيها",
+                  "text": "Látnivaló Abasan al-Kabira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352919,
+                        31.329728
+                  ]
+            },
+            {
+                  "name": "صندوق نور",
+                  "text": "Látnivaló Abasan al-Kabira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346159,
+                        31.322939
+                  ]
+            },
+            {
+                  "name": "شارع القدس",
+                  "text": "Látnivaló Abasan al-Kabira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.332647,
+                        31.342311
+                  ]
+            },
+            {
+                  "name": "AL-shhdda",
+                  "text": "Emlékmű Abasan al-Kabira városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.35982,
+                        31.313056
+                  ]
+            },
+            {
+                  "name": "بلدية خزاعة",
+                  "text": "Látnivaló Abasan al-Kabira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.362203,
+                        31.307752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "بلدية بني سهيلا",
+                  "text": "Monument în Abasan al-Kabira.",
+                  "category": "historical",
+                  "coords": [
+                        34.322255,
+                        31.34033
+                  ]
+            },
+            {
+                  "name": "ملعب الزنة الرياضي",
+                  "text": "Atracție în Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.337174,
+                        31.350205
+                  ]
+            },
+            {
+                  "name": "صالة العاب النجار",
+                  "text": "Atracție în Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.364279,
+                        31.309278
+                  ]
+            },
+            {
+                  "name": "بيت جدي استراحة كوفي شوب",
+                  "text": "Atracție în Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.342668,
+                        31.340138
+                  ]
+            },
+            {
+                  "name": "ايديوكيد - هشام",
+                  "text": "Atracție în Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340913,
+                        31.324585
+                  ]
+            },
+            {
+                  "name": "ايدوكيد - نزيها",
+                  "text": "Atracție în Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352919,
+                        31.329728
+                  ]
+            },
+            {
+                  "name": "صندوق نور",
+                  "text": "Atracție în Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346159,
+                        31.322939
+                  ]
+            },
+            {
+                  "name": "شارع القدس",
+                  "text": "Atracție în Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.332647,
+                        31.342311
+                  ]
+            },
+            {
+                  "name": "AL-shhdda",
+                  "text": "Monument în Abasan al-Kabira.",
+                  "category": "historical",
+                  "coords": [
+                        34.35982,
+                        31.313056
+                  ]
+            },
+            {
+                  "name": "بلدية خزاعة",
+                  "text": "Atracție în Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.362203,
+                        31.307752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bani Suheila Municipality",
+                  "text": "Monument in Abasan al-Kabira.",
+                  "category": "historical",
+                  "coords": [
+                        34.322255,
+                        31.34033
+                  ]
+            },
+            {
+                  "name": "alzanna sport playgroung",
+                  "text": "Attraction in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.337174,
+                        31.350205
+                  ]
+            },
+            {
+                  "name": "صالة العاب النجار",
+                  "text": "Attraction in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.364279,
+                        31.309278
+                  ]
+            },
+            {
+                  "name": "بيت جدي استراحة كوفي شوب",
+                  "text": "Attraction in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.342668,
+                        31.340138
+                  ]
+            },
+            {
+                  "name": "ايديوكيد - هشام",
+                  "text": "Attraction in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.340913,
+                        31.324585
+                  ]
+            },
+            {
+                  "name": "ايدوكيد - نزيها",
+                  "text": "Attraction in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.352919,
+                        31.329728
+                  ]
+            },
+            {
+                  "name": "صندوق نور",
+                  "text": "Attraction in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.346159,
+                        31.322939
+                  ]
+            },
+            {
+                  "name": "شارع القدس",
+                  "text": "Attraction in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.332647,
+                        31.342311
+                  ]
+            },
+            {
+                  "name": "AL-shhdda",
+                  "text": "Monument in Abasan al-Kabira.",
+                  "category": "historical",
+                  "coords": [
+                        34.35982,
+                        31.313056
+                  ]
+            },
+            {
+                  "name": "بلدية خزاعة",
+                  "text": "Attraction in Abasan al-Kabira.",
+                  "category": "landmark",
+                  "coords": [
+                        34.362203,
+                        31.307752
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "Abasan al-Kabira", hu: "Abaszan el-Kabíra", ro: "Abasan al-Kabira", en: "Abasan al-Kabira" },
@@ -2748,7 +22053,592 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-abasan-al-kabira-cities-v2.webp",
   },
   {
-    id: "palestine-al-zawayda-cities-v2",
+    id: "palestine-al-zawayda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monastery of Saint-Hilarion",
+                  "text": "Das Monastery of Saint-Hilarion ist eine archäologische Stätte in al-Zawaida. Es bewahrt die Überreste eines der ältesten Klöster im Heiligen Land.",
+                  "category": "historical",
+                  "coords": [
+                        34.36639,
+                        31.44724
+                  ]
+            },
+            {
+                  "name": "أبو عبد الله العايدي",
+                  "text": "Abu Abdullah Al-Aidy ist eine Burg in al-Zawaida.",
+                  "category": "castle",
+                  "coords": [
+                        34.377113,
+                        31.423441
+                  ]
+            },
+            {
+                  "name": "مقبرة الإنجليز",
+                  "text": "The English Cemetery ist ein Denkmal in al-Zawaida.",
+                  "category": "historical",
+                  "coords": [
+                        34.374055,
+                        31.425159
+                  ]
+            },
+            {
+                  "name": "اسكان الحاج احمد",
+                  "text": "عمارة الحاج احمد ist eine Attraktion in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "صالون الوسامة ist ein Aussichtspunkt in al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "عمارة سكر ist eine Attraktion in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "شارع مصعب بن عمير ist eine Attraktion in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "شارع السكة ist eine Attraktion in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "ارض نشوان",
+                  "text": "ارض نشوان ist ein Aussichtspunkt in al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.371517,
+                        31.43433
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "قرية النخيل ist ein Aussichtspunkt in al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "مناظر طبيعية",
+                  "text": "مناظر طبيعية ist eine Attraktion in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.388963,
+                        31.444135
+                  ]
+            },
+            {
+                  "name": "الحملاوي",
+                  "text": "الحملاوي ist ein Aussichtspunkt in al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.385422,
+                        31.447456
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "شارع ال 20 ist ein Aussichtspunkt in al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            },
+            {
+                  "name": "محلات حجازي",
+                  "text": "محلات حجازي sind Ruinen in al-Zawaida.",
+                  "category": "historical",
+                  "coords": [
+                        34.392359,
+                        31.447028
+                  ]
+            },
+            {
+                  "name": "مخيم سوارحة",
+                  "text": "مخيم سوارحة ist ein Denkmal in al-Zawaida.",
+                  "category": "historical",
+                  "coords": [
+                        34.371139,
+                        31.441463
+                  ]
+            },
+            {
+                  "name": "Caramela Co.",
+                  "text": "Caramela Co. ist eine Attraktion in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.375484,
+                        31.42527
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monastery of Saint-Hilarion",
+                  "text": "A Monastery of Saint-Hilarion egy régészeti lelőhely al-Zawaida városában. A Szentföld egyik legrégebbi kolostorának maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        34.36639,
+                        31.44724
+                  ]
+            },
+            {
+                  "name": "أبو عبد الله العايدي",
+                  "text": "A Abu Abdullah Al-Aidy egy kastély al-Zawaida városában.",
+                  "category": "castle",
+                  "coords": [
+                        34.377113,
+                        31.423441
+                  ]
+            },
+            {
+                  "name": "مقبرة الإنجليز",
+                  "text": "A The English Cemetery egy emlékmű al-Zawaida városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.374055,
+                        31.425159
+                  ]
+            },
+            {
+                  "name": "اسكان الحاج احمد",
+                  "text": "A عمارة الحاج احمد egy látványosság al-Zawaida városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "A صالون الوسامة egy kilátó al-Zawaida városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "A عمارة سكر egy látványosság al-Zawaida városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "A شارع مصعب بن عمير egy látványosság al-Zawaida városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "A شارع السكة egy látványosság al-Zawaida városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "ارض نشوان",
+                  "text": "A ارض نشوان egy kilátó al-Zawaida városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.371517,
+                        31.43433
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "A قرية النخيل egy kilátó al-Zawaida városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "مناظر طبيعية",
+                  "text": "A مناظر طبيعية egy látványosság al-Zawaida városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.388963,
+                        31.444135
+                  ]
+            },
+            {
+                  "name": "الحملاوي",
+                  "text": "A الحملاوي egy kilátó al-Zawaida városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.385422,
+                        31.447456
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "A شارع ال 20 egy kilátó al-Zawaida városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            },
+            {
+                  "name": "محلات حجازي",
+                  "text": "A محلات حجازي romok al-Zawaida városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.392359,
+                        31.447028
+                  ]
+            },
+            {
+                  "name": "مخيم سوارحة",
+                  "text": "A مخيم سوارحة egy emlékmű al-Zawaida városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.371139,
+                        31.441463
+                  ]
+            },
+            {
+                  "name": "Caramela Co.",
+                  "text": "A Caramela Co. egy látványosság al-Zawaida városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.375484,
+                        31.42527
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monastery of Saint-Hilarion",
+                  "text": "Monastery of Saint-Hilarion este un sit arheologic din al-Zawaida. Acesta păstrează rămășițele uneia dintre cele mai vechi mănăstiri din Țara Sfântă.",
+                  "category": "historical",
+                  "coords": [
+                        34.36639,
+                        31.44724
+                  ]
+            },
+            {
+                  "name": "أبو عبد الله العايدي",
+                  "text": "Abu Abdullah Al-Aidy este un castel în al-Zawaida.",
+                  "category": "castle",
+                  "coords": [
+                        34.377113,
+                        31.423441
+                  ]
+            },
+            {
+                  "name": "مقبرة الإنجليز",
+                  "text": "The English Cemetery este un monument în al-Zawaida.",
+                  "category": "historical",
+                  "coords": [
+                        34.374055,
+                        31.425159
+                  ]
+            },
+            {
+                  "name": "اسكان الحاج احمد",
+                  "text": "عمارة الحاج احمد este o atracție în al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "صالون الوسامة este un punct de belvedere în al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "عمارة سكر este o atracție în al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "شارع مصعب بن عمير este o atracție în al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "شارع السكة este o atracție în al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "ارض نشوان",
+                  "text": "ارض نشوان este un punct de belvedere în al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.371517,
+                        31.43433
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "قرية النخيل este un punct de belvedere în al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "مناظر طبيعية",
+                  "text": "مناظر طبيعية este o atracție în al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.388963,
+                        31.444135
+                  ]
+            },
+            {
+                  "name": "الحملاوي",
+                  "text": "الحملاوي este un punct de belvedere în al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.385422,
+                        31.447456
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "شارع ال 20 este un punct de belvedere în al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            },
+            {
+                  "name": "محلات حجازي",
+                  "text": "محلات حجازي sunt niște ruine în al-Zawaida.",
+                  "category": "historical",
+                  "coords": [
+                        34.392359,
+                        31.447028
+                  ]
+            },
+            {
+                  "name": "مخيم سوارحة",
+                  "text": "مخيم سوارحة este un monument în al-Zawaida.",
+                  "category": "historical",
+                  "coords": [
+                        34.371139,
+                        31.441463
+                  ]
+            },
+            {
+                  "name": "Caramela Co.",
+                  "text": "Caramela Co. este o atracție în al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.375484,
+                        31.42527
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastery of Saint-Hilarion",
+                  "text": "Monastery of Saint-Hilarion is an archaeological site in al-Zawaida. It preserves the remains of one of the oldest monasteries in the Holy Land.",
+                  "category": "historical",
+                  "coords": [
+                        34.36639,
+                        31.44724
+                  ]
+            },
+            {
+                  "name": "Abu Abdullah Al-Aidy",
+                  "text": "Abu Abdullah Al-Aidy is a castle located in al-Zawaida.",
+                  "category": "castle",
+                  "coords": [
+                        34.377113,
+                        31.423441
+                  ]
+            },
+            {
+                  "name": "The English Cemetery",
+                  "text": "The English Cemetery is a monument situated in al-Zawaida.",
+                  "category": "historical",
+                  "coords": [
+                        34.374055,
+                        31.425159
+                  ]
+            },
+            {
+                  "name": "عمارة الحاج احمد",
+                  "text": "عمارة الحاج احمد is an attraction in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "صالون الوسامة is a viewpoint located in al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "عمارة سكر is an attraction in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "شارع مصعب بن عمير is an attraction situated in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "شارع السكة is an attraction located in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "ارض نشوان",
+                  "text": "ارض نشوان is a viewpoint in al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.371517,
+                        31.43433
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "قرية النخيل is a viewpoint situated in al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "مناظر طبيعية",
+                  "text": "مناظر طبيعية is an attraction in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.388963,
+                        31.444135
+                  ]
+            },
+            {
+                  "name": "الحملاوي",
+                  "text": "الحملاوي is a viewpoint located in al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.385422,
+                        31.447456
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "شارع ال 20 is a viewpoint in al-Zawaida.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            },
+            {
+                  "name": "محلات حجازي",
+                  "text": "محلات حجازي are ruins located in al-Zawaida.",
+                  "category": "historical",
+                  "coords": [
+                        34.392359,
+                        31.447028
+                  ]
+            },
+            {
+                  "name": "مخيم سوارحة",
+                  "text": "مخيم سوارحة is a monument situated in al-Zawaida.",
+                  "category": "historical",
+                  "coords": [
+                        34.371139,
+                        31.441463
+                  ]
+            },
+            {
+                  "name": "Caramela Co.",
+                  "text": "Caramela Co. is an attraction located in al-Zawaida.",
+                  "category": "landmark",
+                  "coords": [
+                        34.375484,
+                        31.42527
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "al-Zawaida", hu: "ez-Zavajda", ro: "Al-Zawayda", en: "Al-Zawayda" },
@@ -2793,7 +22683,664 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-al-zawayda-cities-v2.webp",
   },
   {
-    id: "palestine-al-nuseirat-cities-v2",
+    id: "palestine-al-nuseirat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "اسكان الحاج احمد",
+                  "text": "عمارة الحاج احمد ist ein Sehenswürdigkeit in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "صالون الوسامة ist ein Aussichtspunkt in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "عمارة سكر ist ein Sehenswürdigkeit in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "ديوان آل النباهين",
+                  "text": "ديوان آل النباهين ist ein Sehenswürdigkeit in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.423142,
+                        31.440802
+                  ]
+            },
+            {
+                  "name": "أراضي الشيخ يوسف النباهين",
+                  "text": "أراضي الشيخ يوسف النباهين ist ein Sehenswürdigkeit in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.421779,
+                        31.441152
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "شارع مصعب بن عمير ist ein Sehenswürdigkeit in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "شارع السكة ist ein Sehenswürdigkeit in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "الحزقي",
+                  "text": "الحزقي ist ein Sehenswürdigkeit in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.401041,
+                        31.467137
+                  ]
+            },
+            {
+                  "name": "منزل السيد اسامة جبر كحيل",
+                  "text": "Usama Jaber Kuhail Home ist ein Sehenswürdigkeit in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.39967,
+                        31.472056
+                  ]
+            },
+            {
+                  "name": "ابراج تكا",
+                  "text": "ابراج تكا ist ein Aussichtspunkt in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.426978,
+                        31.448957
+                  ]
+            },
+            {
+                  "name": "دوار ابو فياض",
+                  "text": "دوار ابو فياض ist ein Aussichtspunkt in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.390588,
+                        31.46088
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "قرية النخيل ist ein Aussichtspunkt in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "مناظر طبيعية",
+                  "text": "مناظر طبيعية ist ein Sehenswürdigkeit in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.388963,
+                        31.444135
+                  ]
+            },
+            {
+                  "name": "الحملاوي",
+                  "text": "الحملاوي ist ein Aussichtspunkt in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.385422,
+                        31.447456
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "شارع ال 20 ist ein Aussichtspunkt in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            },
+            {
+                  "name": "محلات حجازي",
+                  "text": "محلات حجازي ist ein Ruine in an-Nuseirat.",
+                  "category": "historical",
+                  "coords": [
+                        34.392359,
+                        31.447028
+                  ]
+            },
+            {
+                  "name": "مخيم سوارحة",
+                  "text": "مخيم سوارحة ist ein Denkmal in an-Nuseirat.",
+                  "category": "historical",
+                  "coords": [
+                        34.371139,
+                        31.441463
+                  ]
+            },
+            {
+                  "name": "مفترق نيتساريم",
+                  "text": "مفترق نيتساريم ist ein Sehenswürdigkeit in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.426626,
+                        31.465161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "اسكان الحاج احمد",
+                  "text": "A(z) عمارة الحاج احمد egy látványosság an-Nuseirat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "A(z) صالون الوسامة egy kilátó an-Nuseirat területén.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "A(z) عمارة سكر egy látványosság an-Nuseirat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "ديوان آل النباهين",
+                  "text": "A(z) ديوان آل النباهين egy látványosság an-Nuseirat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.423142,
+                        31.440802
+                  ]
+            },
+            {
+                  "name": "أراضي الشيخ يوسف النباهين",
+                  "text": "A(z) أراضي الشيخ يوسف النباهين egy látványosság an-Nuseirat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.421779,
+                        31.441152
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "A(z) شارع مصعب بن عمير egy látványosság an-Nuseirat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "A(z) شارع السكة egy látványosság an-Nuseirat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "الحزقي",
+                  "text": "A(z) الحزقي egy látványosság an-Nuseirat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.401041,
+                        31.467137
+                  ]
+            },
+            {
+                  "name": "منزل السيد اسامة جبر كحيل",
+                  "text": "A(z) Usama Jaber Kuhail Home egy látványosság an-Nuseirat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.39967,
+                        31.472056
+                  ]
+            },
+            {
+                  "name": "ابراج تكا",
+                  "text": "A(z) ابراج تكا egy kilátó an-Nuseirat területén.",
+                  "category": "natural",
+                  "coords": [
+                        34.426978,
+                        31.448957
+                  ]
+            },
+            {
+                  "name": "دوار ابو فياض",
+                  "text": "A(z) دوار ابو فياض egy kilátó an-Nuseirat területén.",
+                  "category": "natural",
+                  "coords": [
+                        34.390588,
+                        31.46088
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "A(z) قرية النخيل egy kilátó an-Nuseirat területén.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "مناظر طبيعية",
+                  "text": "A(z) مناظر طبيعية egy látványosság an-Nuseirat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.388963,
+                        31.444135
+                  ]
+            },
+            {
+                  "name": "الحملاوي",
+                  "text": "A(z) الحملاوي egy kilátó an-Nuseirat területén.",
+                  "category": "natural",
+                  "coords": [
+                        34.385422,
+                        31.447456
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "A(z) شارع ال 20 egy kilátó an-Nuseirat területén.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            },
+            {
+                  "name": "محلات حجازي",
+                  "text": "A(z) محلات حجازي egy romok an-Nuseirat területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.392359,
+                        31.447028
+                  ]
+            },
+            {
+                  "name": "مخيم سوارحة",
+                  "text": "A(z) مخيم سوارحة egy emlékmű an-Nuseirat területén.",
+                  "category": "historical",
+                  "coords": [
+                        34.371139,
+                        31.441463
+                  ]
+            },
+            {
+                  "name": "مفترق نيتساريم",
+                  "text": "A(z) مفترق نيتساريم egy látványosság an-Nuseirat területén.",
+                  "category": "landmark",
+                  "coords": [
+                        34.426626,
+                        31.465161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "اسكان الحاج احمد",
+                  "text": "عمارة الحاج احمد este un/o atracție situat(ă) în an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "صالون الوسامة este un/o punct de belvedere situat(ă) în an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "عمارة سكر este un/o atracție situat(ă) în an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "ديوان آل النباهين",
+                  "text": "ديوان آل النباهين este un/o atracție situat(ă) în an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.423142,
+                        31.440802
+                  ]
+            },
+            {
+                  "name": "أراضي الشيخ يوسف النباهين",
+                  "text": "أراضي الشيخ يوسف النباهين este un/o atracție situat(ă) în an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.421779,
+                        31.441152
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "شارع مصعب بن عمير este un/o atracție situat(ă) în an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "شارع السكة este un/o atracție situat(ă) în an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "الحزقي",
+                  "text": "الحزقي este un/o atracție situat(ă) în an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.401041,
+                        31.467137
+                  ]
+            },
+            {
+                  "name": "منزل السيد اسامة جبر كحيل",
+                  "text": "Usama Jaber Kuhail Home este un/o atracție situat(ă) în an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.39967,
+                        31.472056
+                  ]
+            },
+            {
+                  "name": "ابراج تكا",
+                  "text": "ابراج تكا este un/o punct de belvedere situat(ă) în an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.426978,
+                        31.448957
+                  ]
+            },
+            {
+                  "name": "دوار ابو فياض",
+                  "text": "دوار ابو فياض este un/o punct de belvedere situat(ă) în an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.390588,
+                        31.46088
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "قرية النخيل este un/o punct de belvedere situat(ă) în an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "مناظر طبيعية",
+                  "text": "مناظر طبيعية este un/o atracție situat(ă) în an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.388963,
+                        31.444135
+                  ]
+            },
+            {
+                  "name": "الحملاوي",
+                  "text": "الحملاوي este un/o punct de belvedere situat(ă) în an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.385422,
+                        31.447456
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "شارع ال 20 este un/o punct de belvedere situat(ă) în an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            },
+            {
+                  "name": "محلات حجازي",
+                  "text": "محلات حجازي este un/o ruine situat(ă) în an-Nuseirat.",
+                  "category": "historical",
+                  "coords": [
+                        34.392359,
+                        31.447028
+                  ]
+            },
+            {
+                  "name": "مخيم سوارحة",
+                  "text": "مخيم سوارحة este un/o monument situat(ă) în an-Nuseirat.",
+                  "category": "historical",
+                  "coords": [
+                        34.371139,
+                        31.441463
+                  ]
+            },
+            {
+                  "name": "مفترق نيتساريم",
+                  "text": "مفترق نيتساريم este un/o atracție situat(ă) în an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.426626,
+                        31.465161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "عمارة الحاج احمد",
+                  "text": "عمارة الحاج احمد is a attraction located in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "صالون الوسامة is a viewpoint located in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "عمارة سكر is a attraction located in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "ديوان آل النباهين",
+                  "text": "ديوان آل النباهين is a attraction located in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.423142,
+                        31.440802
+                  ]
+            },
+            {
+                  "name": "أراضي الشيخ يوسف النباهين",
+                  "text": "أراضي الشيخ يوسف النباهين is a attraction located in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.421779,
+                        31.441152
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "شارع مصعب بن عمير is a attraction located in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "شارع السكة is a attraction located in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "الحزقي",
+                  "text": "الحزقي is a attraction located in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.401041,
+                        31.467137
+                  ]
+            },
+            {
+                  "name": "Usama Jaber Kuhail Home",
+                  "text": "Usama Jaber Kuhail Home is a attraction located in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.39967,
+                        31.472056
+                  ]
+            },
+            {
+                  "name": "ابراج تكا",
+                  "text": "ابراج تكا is a viewpoint located in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.426978,
+                        31.448957
+                  ]
+            },
+            {
+                  "name": "دوار ابو فياض",
+                  "text": "دوار ابو فياض is a viewpoint located in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.390588,
+                        31.46088
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "قرية النخيل is a viewpoint located in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "مناظر طبيعية",
+                  "text": "مناظر طبيعية is a attraction located in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.388963,
+                        31.444135
+                  ]
+            },
+            {
+                  "name": "الحملاوي",
+                  "text": "الحملاوي is a viewpoint located in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.385422,
+                        31.447456
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "شارع ال 20 is a viewpoint located in an-Nuseirat.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            },
+            {
+                  "name": "محلات حجازي",
+                  "text": "محلات حجازي is a ruins located in an-Nuseirat.",
+                  "category": "historical",
+                  "coords": [
+                        34.392359,
+                        31.447028
+                  ]
+            },
+            {
+                  "name": "مخيم سوارحة",
+                  "text": "مخيم سوارحة is a monument located in an-Nuseirat.",
+                  "category": "historical",
+                  "coords": [
+                        34.371139,
+                        31.441463
+                  ]
+            },
+            {
+                  "name": "مفترق نيتساريم",
+                  "text": "مفترق نيتساريم is a attraction located in an-Nuseirat.",
+                  "category": "landmark",
+                  "coords": [
+                        34.426626,
+                        31.465161
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "an-Nuseirat", hu: "en-Nuszejrát", ro: "Al-Nuseirat", en: "Al-Nuseirat" },
@@ -2883,7 +23430,484 @@ export const palestineCitiesV2: POI[] = [
     image: "/poi-images/palestine-al-bureij-cities-v2.webp",
   },
   {
-    id: "palestine-al-maghazi-cities-v2",
+    id: "palestine-al-maghazi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "כנסיה ביזנטית ופסיפס",
+                  "text": "Byzantine church, mosaic ist eine archäologische Stätte in al-Maghazi.",
+                  "category": "historical",
+                  "coords": [
+                        34.435172,
+                        31.4182
+                  ]
+            },
+            {
+                  "name": "خربة الادار",
+                  "text": "Khirbat al-Adar sind Ruinen in al-Maghazi.",
+                  "category": "historical",
+                  "coords": [
+                        34.435833,
+                        31.433333
+                  ]
+            },
+            {
+                  "name": "חורבת גררית",
+                  "text": "Horbot Gerarit sind Ruinen in al-Maghazi.",
+                  "category": "historical",
+                  "coords": [
+                        34.440278,
+                        31.415833
+                  ]
+            },
+            {
+                  "name": "اسكان الحاج احمد",
+                  "text": "عمارة الحاج احمد ist eine Attraktion in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "صالون الوسامة ist ein Aussichtspunkt in al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "عمارة سكر ist eine Attraktion in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "ديوان آل النباهين",
+                  "text": "ديوان آل النباهين ist eine Attraktion in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.423142,
+                        31.440802
+                  ]
+            },
+            {
+                  "name": "أراضي الشيخ يوسف النباهين",
+                  "text": "أراضي الشيخ يوسف النباهين ist eine Attraktion in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.421779,
+                        31.441152
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "شارع مصعب بن عمير ist eine Attraktion in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "شارع السكة ist eine Attraktion in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "ابراج تكا",
+                  "text": "ابراج تكا ist ein Aussichtspunkt in al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.426978,
+                        31.448957
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "قرية النخيل ist ein Aussichtspunkt in al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "شارع ال 20 ist ein Aussichtspunkt in al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "כנסיה ביזנטית ופסיפס",
+                  "text": "A Byzantine church, mosaic egy régészeti lelőhely al-Maghazi városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.435172,
+                        31.4182
+                  ]
+            },
+            {
+                  "name": "خربة الادار",
+                  "text": "A Khirbat al-Adar romok al-Maghazi városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.435833,
+                        31.433333
+                  ]
+            },
+            {
+                  "name": "חורבת גררית",
+                  "text": "A Horbot Gerarit romok al-Maghazi városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.440278,
+                        31.415833
+                  ]
+            },
+            {
+                  "name": "اسكان الحاج احمد",
+                  "text": "A عمارة الحاج احمد egy látványosság al-Maghazi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "A صالون الوسامة egy kilátó al-Maghazi városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "A عمارة سكر egy látványosság al-Maghazi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "ديوان آل النباهين",
+                  "text": "A ديوان آل النباهين egy látványosság al-Maghazi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.423142,
+                        31.440802
+                  ]
+            },
+            {
+                  "name": "أراضي الشيخ يوسف النباهين",
+                  "text": "A أراضي الشيخ يوسف النباهين egy látványosság al-Maghazi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.421779,
+                        31.441152
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "A شارع مصعب بن عمير egy látványosság al-Maghazi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "A شارع السكة egy látványosság al-Maghazi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "ابراج تكا",
+                  "text": "A ابراج تكا egy kilátó al-Maghazi városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.426978,
+                        31.448957
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "A قرية النخيل egy kilátó al-Maghazi városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "A شارع ال 20 egy kilátó al-Maghazi városában.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "כנסיה ביזנטית ופסיפס",
+                  "text": "Byzantine church, mosaic este un sit arheologic din al-Maghazi.",
+                  "category": "historical",
+                  "coords": [
+                        34.435172,
+                        31.4182
+                  ]
+            },
+            {
+                  "name": "خربة الادار",
+                  "text": "Khirbat al-Adar sunt niște ruine în al-Maghazi.",
+                  "category": "historical",
+                  "coords": [
+                        34.435833,
+                        31.433333
+                  ]
+            },
+            {
+                  "name": "חורבת גררית",
+                  "text": "Horbot Gerarit sunt niște ruine în al-Maghazi.",
+                  "category": "historical",
+                  "coords": [
+                        34.440278,
+                        31.415833
+                  ]
+            },
+            {
+                  "name": "اسكان الحاج احمد",
+                  "text": "عمارة الحاج احمد este o atracție în al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "صالون الوسامة este un punct de belvedere în al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "عمارة سكر este o atracție în al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "ديوان آل النباهين",
+                  "text": "ديوان آل النباهين este o atracție în al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.423142,
+                        31.440802
+                  ]
+            },
+            {
+                  "name": "أراضي الشيخ يوسف النباهين",
+                  "text": "أراضي الشيخ يوسف النباهين este o atracție în al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.421779,
+                        31.441152
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "شارع مصعب بن عمير este o atracție în al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "شارع السكة este o atracție în al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "ابراج تكا",
+                  "text": "ابراج تكا este un punct de belvedere în al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.426978,
+                        31.448957
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "قرية النخيل este un punct de belvedere în al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "شارع ال 20 este un punct de belvedere în al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Byzantine church, mosaic",
+                  "text": "Byzantine church, mosaic is an archaeological site in al-Maghazi.",
+                  "category": "historical",
+                  "coords": [
+                        34.435172,
+                        31.4182
+                  ]
+            },
+            {
+                  "name": "Khirbat al-Adar",
+                  "text": "Khirbat al-Adar are ruins located in al-Maghazi.",
+                  "category": "historical",
+                  "coords": [
+                        34.435833,
+                        31.433333
+                  ]
+            },
+            {
+                  "name": "Horbot Gerarit",
+                  "text": "Horbot Gerarit are ruins situated in al-Maghazi.",
+                  "category": "historical",
+                  "coords": [
+                        34.440278,
+                        31.415833
+                  ]
+            },
+            {
+                  "name": "عمارة الحاج احمد",
+                  "text": "عمارة الحاج احمد is an attraction in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.403862,
+                        31.440988
+                  ]
+            },
+            {
+                  "name": "صالون الوسامة",
+                  "text": "صالون الوسامة is a viewpoint located in al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.396325,
+                        31.447071
+                  ]
+            },
+            {
+                  "name": "عمارة سكر",
+                  "text": "عمارة سكر is an attraction in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.398294,
+                        31.443243
+                  ]
+            },
+            {
+                  "name": "ديوان آل النباهين",
+                  "text": "ديوان آل النباهين is an attraction situated in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.423142,
+                        31.440802
+                  ]
+            },
+            {
+                  "name": "أراضي الشيخ يوسف النباهين",
+                  "text": "أراضي الشيخ يوسف النباهين is an attraction in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.421779,
+                        31.441152
+                  ]
+            },
+            {
+                  "name": "شارع مصعب بن عمير",
+                  "text": "شارع مصعب بن عمير is an attraction located in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.408648,
+                        31.436475
+                  ]
+            },
+            {
+                  "name": "شارع السكة",
+                  "text": "شارع السكة is an attraction situated in al-Maghazi.",
+                  "category": "landmark",
+                  "coords": [
+                        34.397925,
+                        31.441894
+                  ]
+            },
+            {
+                  "name": "ابراج تكا",
+                  "text": "ابراج تكا is a viewpoint in al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.426978,
+                        31.448957
+                  ]
+            },
+            {
+                  "name": "قرية النخيل",
+                  "text": "قرية النخيل is a viewpoint located in al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.394787,
+                        31.437773
+                  ]
+            },
+            {
+                  "name": "شارع ال 20",
+                  "text": "شارع ال 20 is a viewpoint situated in al-Maghazi.",
+                  "category": "natural",
+                  "coords": [
+                        34.394149,
+                        31.445188
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "town",
     name: { de: "al-Maghazi", hu: "el-Magázi", ro: "Al-Maghazi", en: "Al-Maghazi" },

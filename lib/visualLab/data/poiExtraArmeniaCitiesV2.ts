@@ -53,7 +53,700 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-gyumri-cities-v2",
+    id: "armenia-gyumri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum für Volksarchitektur und Stadtleben",
+                  "text": "Das Museum für nationale Architektur und städtisches Leben, auch bekannt als das Dsitochzjan-Haus-Museum, ist ein bedeutendes Museum in Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.845565,
+                        40.781324
+                  ]
+            },
+            {
+                  "name": "ԱՎԵՏԻՔ ԻՍԱՀԱԿՅԱՆԻ ՏՈՒՆ-ԹԱՆԳԱՐԱՆ",
+                  "text": "Avetic Isahakyan's Home and Museum ist ein Museum in der Stadt Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.843283,
+                        40.788293
+                  ]
+            },
+            {
+                  "name": "Ասլամազյան քույրերի պատկերասրահ",
+                  "text": "Die Gallery of Mariam and Eranuhi Aslamazyan Sister ist ein Museum in Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.840954,
+                        40.786246
+                  ]
+            },
+            {
+                  "name": "Վարդան Աճեմյանի անվան դրամատիկական թատրոն",
+                  "text": "Das Vardan Ajemyan Drama Theater ist ein Veranstaltungsort in der Stadt Gjumri.",
+                  "category": "cultural",
+                  "coords": [
+                        43.844894,
+                        40.790684
+                  ]
+            },
+            {
+                  "name": "Սև Բերդ",
+                  "text": "Die Schwarze Festung, auch bekannt als Sev Berd, ist eine verlassene russische kaiserliche Festung in Gjumri.",
+                  "category": "castle",
+                  "coords": [
+                        43.825287,
+                        40.782336
+                  ]
+            },
+            {
+                  "name": "Kumayri Archeological Museum",
+                  "text": "Das Kumayri Archeological Museum ist ein archäologisches Museum in der Stadt Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.85072,
+                        40.781308
+                  ]
+            },
+            {
+                  "name": "Շիրակի երկրագիտական թանգարան",
+                  "text": "Das Shirak Regional Museum ist ein Geschichtsmuseum in Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.837887,
+                        40.786829
+                  ]
+            },
+            {
+                  "name": "Մայր Հայաստան",
+                  "text": "Mutter Armenien ist eine Monumentalstatue in Gjumri, die die Stärke und Widerstandsfähigkeit des Landes symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        43.824691,
+                        40.780505
+                  ]
+            },
+            {
+                  "name": "Անդրանիկ",
+                  "text": "Andranik ist ein bedeutendes Denkmal in der Stadt Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.844603,
+                        40.781042
+                  ]
+            },
+            {
+                  "name": "Սայաթ-Նովա",
+                  "text": "Das Sayat-Nova-Denkmal ist ein öffentliches Mahnmal in der Stadt Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.845928,
+                        40.788291
+                  ]
+            },
+            {
+                  "name": "Շարլ Ազնավուր",
+                  "text": "Dieses Charles Aznavour gewidmete Denkmal befindet sich in Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.848151,
+                        40.806504
+                  ]
+            },
+            {
+                  "name": "Poloz Mukuch",
+                  "text": "Poloz Mukuch ist ein lokales Denkmal in Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.841026,
+                        40.782565
+                  ]
+            },
+            {
+                  "name": "Shiraz Monument",
+                  "text": "Das Shiraz-Denkmal ist eine Gedenkstätte in Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.845795,
+                        40.790983
+                  ]
+            },
+            {
+                  "name": "Անդրանիկ Ավետիսյանի սարդոստայն արվեստի սատկերասրահ",
+                  "text": "Die Spinnweben-Kunstgalerie von Andranik Avetisyan ist eine besondere Kunstgalerie in Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.837508,
+                        40.792815
+                  ]
+            },
+            {
+                  "name": "Former touristic base ruins",
+                  "text": "Die Ruinen der ehemaligen Touristenbasis sind die Überreste eines alten Gebäudes in Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.832799,
+                        40.78813
+                  ]
+            },
+            {
+                  "name": "Պարարվեստի դպրոց",
+                  "text": "Diese Schule für Choreografie dient als Kunstzentrum in Gjumri.",
+                  "category": "cultural",
+                  "coords": [
+                        43.844872,
+                        40.792265
+                  ]
+            },
+            {
+                  "name": "Muttergotteskathedrale",
+                  "text": "Die Kathedrale der Heiligen Muttergottes, auch bekannt als Kirche der Sieben Wunden, ist eine bedeutende religiöse Stätte in Gjumri.",
+                  "category": "religious",
+                  "coords": [
+                        43.842333,
+                        40.786187
+                  ]
+            },
+            {
+                  "name": "Սուրբ Ամենափրկիչ եկեղեցի",
+                  "text": "St. Amenaprkitch ist eine Kirche in Gjumri, die der religiösen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        43.841182,
+                        40.78409
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "St. Gregor der Erleuchter ist eine Kultstätte in Gjumri.",
+                  "category": "religious",
+                  "coords": [
+                        43.838201,
+                        40.789528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ձիթողցոնց տուն-թանգարան",
+                  "text": "A Nemzeti Építészeti és Városi Élet Múzeuma, más néven a Dzitoghcján Ház-Múzeum egy kiemelkedő múzeum Gjumriban.",
+                  "category": "museum",
+                  "coords": [
+                        43.845565,
+                        40.781324
+                  ]
+            },
+            {
+                  "name": "ԱՎԵՏԻՔ ԻՍԱՀԱԿՅԱՆԻ ՏՈՒՆ-ԹԱՆԳԱՐԱՆ",
+                  "text": "Az Avetik Iszahakjan Emlékház és Múzeum egy múzeum Gjumri városában.",
+                  "category": "museum",
+                  "coords": [
+                        43.843283,
+                        40.788293
+                  ]
+            },
+            {
+                  "name": "Ասլամազյան քույրերի պատկերասրահ",
+                  "text": "A Mariam és Eranuhi Aszlamazján Nővérek Galériája egy múzeum Gjumriban.",
+                  "category": "museum",
+                  "coords": [
+                        43.840954,
+                        40.786246
+                  ]
+            },
+            {
+                  "name": "Վարդան Աճեմյանի անվան դրամատիկական թատրոն",
+                  "text": "A Vardan Adzsemján Drámai Színház egy előadó-művészeti helyszín Gjumri városában.",
+                  "category": "cultural",
+                  "coords": [
+                        43.844894,
+                        40.790684
+                  ]
+            },
+            {
+                  "name": "Սև Բերդ",
+                  "text": "A Fekete Erőd, más néven Szev Berd egy elhagyatott orosz birodalmi erőd Gjumriban.",
+                  "category": "castle",
+                  "coords": [
+                        43.825287,
+                        40.782336
+                  ]
+            },
+            {
+                  "name": "Kumayri Archeological Museum",
+                  "text": "A Kumajri Régészeti Múzeum egy múzeum Gjumri városában.",
+                  "category": "museum",
+                  "coords": [
+                        43.85072,
+                        40.781308
+                  ]
+            },
+            {
+                  "name": "Շիրակի երկրագիտական թանգարան",
+                  "text": "A Sirak Regionális Múzeum egy múzeum Gjumriban.",
+                  "category": "museum",
+                  "coords": [
+                        43.837887,
+                        40.786829
+                  ]
+            },
+            {
+                  "name": "Մայր Հայաստան",
+                  "text": "Az Örményország Anyja egy monumentális szobor Gjumriban.",
+                  "category": "historical",
+                  "coords": [
+                        43.824691,
+                        40.780505
+                  ]
+            },
+            {
+                  "name": "Անդրանիկ",
+                  "text": "Az Andranik egy kiemelkedő emlékmű Gjumri városában.",
+                  "category": "historical",
+                  "coords": [
+                        43.844603,
+                        40.781042
+                  ]
+            },
+            {
+                  "name": "Սայաթ-Նովա",
+                  "text": "A Sayat-Nova-emlékmű egy nyilvános emlékmű Gjumri városában.",
+                  "category": "historical",
+                  "coords": [
+                        43.845928,
+                        40.788291
+                  ]
+            },
+            {
+                  "name": "Շարլ Ազնավուր",
+                  "text": "Ez a Charles Aznavournak szentelt emlékmű Gjumriban található.",
+                  "category": "historical",
+                  "coords": [
+                        43.848151,
+                        40.806504
+                  ]
+            },
+            {
+                  "name": "Poloz Mukuch",
+                  "text": "A Poloz Mukuch egy helyi emlékmű Gjumri városában.",
+                  "category": "historical",
+                  "coords": [
+                        43.841026,
+                        40.782565
+                  ]
+            },
+            {
+                  "name": "Shiraz Monument",
+                  "text": "A Siráz-emlékmű egy emlékmű, amely Gjumrin belül található.",
+                  "category": "historical",
+                  "coords": [
+                        43.845795,
+                        40.790983
+                  ]
+            },
+            {
+                  "name": "Անդրանիկ Ավետիսյանի սարդոստայն արվեստի սատկերասրահ",
+                  "text": "Andranik Avetiszjan pókháló művészeti galériája egy különleges galéria Gjumriban.",
+                  "category": "museum",
+                  "coords": [
+                        43.837508,
+                        40.792815
+                  ]
+            },
+            {
+                  "name": "Former touristic base ruins",
+                  "text": "Az egykori turisztikai bázis romjai egy múltbeli építmény maradványai Gjumriban.",
+                  "category": "historical",
+                  "coords": [
+                        43.832799,
+                        40.78813
+                  ]
+            },
+            {
+                  "name": "Պարարվեստի դպրոց",
+                  "text": "Ez a koreográfiai iskola művészeti központként működik Gjumriban.",
+                  "category": "cultural",
+                  "coords": [
+                        43.844872,
+                        40.792265
+                  ]
+            },
+            {
+                  "name": "Սուրբ Աստվածածին (Յոթ Վերք)",
+                  "text": "Az Istenanya Székesegyház, más néven a Hét Seb Temploma, egy jelentős vallási helyszín Gjumriban.",
+                  "category": "religious",
+                  "coords": [
+                        43.842333,
+                        40.786187
+                  ]
+            },
+            {
+                  "name": "Սուրբ Ամենափրկիչ եկեղեցի",
+                  "text": "A Szent Amenaprkitch egy templom, amely a gjumri vallási közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        43.841182,
+                        40.78409
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "Világosító Szent Gergely egy istentiszteleti hely Gjumriban.",
+                  "category": "religious",
+                  "coords": [
+                        43.838201,
+                        40.789528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ձիթողցոնց տուն-թանգարան",
+                  "text": "Muzeul de Arhitectură Națională și Viață Urbană, cunoscut și sub numele de Casa-Muzeu Dzitoghtsyan, este un muzeu important din Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.845565,
+                        40.781324
+                  ]
+            },
+            {
+                  "name": "ԱՎԵՏԻՔ ԻՍԱՀԱԿՅԱՆԻ ՏՈՒՆ-ԹԱՆԳԱՐԱՆ",
+                  "text": "Casa și Muzeul lui Avetic Isahakyan este un muzeu situat în orașul Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.843283,
+                        40.788293
+                  ]
+            },
+            {
+                  "name": "Ասլամազյան քույրերի պատկերասրահ",
+                  "text": "Galeria Surorilor Mariam și Eranuhi Aslamazyan este un muzeu situat în Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.840954,
+                        40.786246
+                  ]
+            },
+            {
+                  "name": "Վարդան Աճեմյանի անվան դրամատիկական թատրոն",
+                  "text": "Teatrul Dramatic Vardan Ajemyan este o locație de arte teatrale situată în orașul Gjumri.",
+                  "category": "cultural",
+                  "coords": [
+                        43.844894,
+                        40.790684
+                  ]
+            },
+            {
+                  "name": "Սև Բերդ",
+                  "text": "Fortăreața Neagră, cunoscută și ca Sev Berd, este o fortăreață imperială rusă abandonată din Gjumri.",
+                  "category": "castle",
+                  "coords": [
+                        43.825287,
+                        40.782336
+                  ]
+            },
+            {
+                  "name": "Kumayri Archeological Museum",
+                  "text": "Muzeul Arheologic Kumayri este un muzeu situat în orașul Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.85072,
+                        40.781308
+                  ]
+            },
+            {
+                  "name": "Շիրակի երկրագիտական թանգարան",
+                  "text": "Muzeul Regional Shirak este un muzeu situat în Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.837887,
+                        40.786829
+                  ]
+            },
+            {
+                  "name": "Մայր Հայաստան",
+                  "text": "Mama Armenia este o statuie monumentală din Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.824691,
+                        40.780505
+                  ]
+            },
+            {
+                  "name": "Անդրանիկ",
+                  "text": "Andranik este un monument important situat în orașul Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.844603,
+                        40.781042
+                  ]
+            },
+            {
+                  "name": "Սայաթ-Նովա",
+                  "text": "Monumentul Sayat-Nova este un memorial public situat în orașul Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.845928,
+                        40.788291
+                  ]
+            },
+            {
+                  "name": "Շարլ Ազնավուր",
+                  "text": "Acest monument dedicat lui Charles Aznavour este situat în Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.848151,
+                        40.806504
+                  ]
+            },
+            {
+                  "name": "Poloz Mukuch",
+                  "text": "Poloz Mukuch este un monument local situat în Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.841026,
+                        40.782565
+                  ]
+            },
+            {
+                  "name": "Shiraz Monument",
+                  "text": "Monumentul Shiraz este un sit memorial situat în Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.845795,
+                        40.790983
+                  ]
+            },
+            {
+                  "name": "Անդրանիկ Ավետիսյանի սարդոստայն արվեստի սատկերասրահ",
+                  "text": "Galeria de artă cu pânze de păianjen a lui Andranik Avetisyan este o galerie distinctă situată în Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.837508,
+                        40.792815
+                  ]
+            },
+            {
+                  "name": "Former touristic base ruins",
+                  "text": "Ruinele fostei baze turistice sunt rămășițele unei structuri trecute din Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.832799,
+                        40.78813
+                  ]
+            },
+            {
+                  "name": "Պարարվեստի դպրոց",
+                  "text": "Această școală de coregrafie funcționează ca un centru de arte în Gjumri.",
+                  "category": "cultural",
+                  "coords": [
+                        43.844872,
+                        40.792265
+                  ]
+            },
+            {
+                  "name": "Սուրբ Աստվածածին (Յոթ Վերք)",
+                  "text": "Catedrala Sfintei Maici a lui Dumnezeu, cunoscută și sub numele de Biserica Celor Șapte Răni, este un sit religios semnificativ din Gjumri.",
+                  "category": "religious",
+                  "coords": [
+                        43.842333,
+                        40.786187
+                  ]
+            },
+            {
+                  "name": "Սուրբ Ամենափրկիչ եկեղեցի",
+                  "text": "Sfântul Amenaprkitch este o biserică ce deservește comunitatea religioasă din Gjumri.",
+                  "category": "religious",
+                  "coords": [
+                        43.841182,
+                        40.78409
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "Sfântul Grigorie Iluminatorul este un lăcaș de cult situat în Gjumri.",
+                  "category": "religious",
+                  "coords": [
+                        43.838201,
+                        40.789528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of National Architecture and Urban Life",
+                  "text": "The Museum of National Architecture and Urban Life, also known as the Dzitoghtsyan House-Museum, is a prominent museum in Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.845565,
+                        40.781324
+                  ]
+            },
+            {
+                  "name": "Avetic Isahakyan's Home and Museum",
+                  "text": "Avetic Isahakyan's Home and Museum is a museum located in the city of Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.843283,
+                        40.788293
+                  ]
+            },
+            {
+                  "name": "The Gallery of Mariam and Eranuhi Aslamazyan Sister",
+                  "text": "The Gallery of Mariam and Eranuhi Aslamazyan Sister is a museum located in Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.840954,
+                        40.786246
+                  ]
+            },
+            {
+                  "name": "Vardan Ajemyan Drama Theater",
+                  "text": "Vardan Ajemyan Drama Theater is a performing arts venue situated in the city of Gjumri.",
+                  "category": "cultural",
+                  "coords": [
+                        43.844894,
+                        40.790684
+                  ]
+            },
+            {
+                  "name": "Black Fortress",
+                  "text": "The Black Fortress, also known as Sev Berd, is an abandoned Russian imperial fortress in Gjumri.",
+                  "category": "castle",
+                  "coords": [
+                        43.825287,
+                        40.782336
+                  ]
+            },
+            {
+                  "name": "Kumayri Archeological Museum",
+                  "text": "The Kumayri Archeological Museum is a museum located in the city of Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.85072,
+                        40.781308
+                  ]
+            },
+            {
+                  "name": "Shirak Regional Museum",
+                  "text": "The Shirak Regional Museum is a museum situated in Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.837887,
+                        40.786829
+                  ]
+            },
+            {
+                  "name": "Mother Armenia",
+                  "text": "Mother Armenia is a monumental statue in Gjumri symbolizing the strength and resilience of the country.",
+                  "category": "historical",
+                  "coords": [
+                        43.824691,
+                        40.780505
+                  ]
+            },
+            {
+                  "name": "Andranik",
+                  "text": "Andranik is a prominent monument located in the city of Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.844603,
+                        40.781042
+                  ]
+            },
+            {
+                  "name": "Sayat-Nova Monument",
+                  "text": "The Sayat-Nova Monument is a public memorial located in the city of Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.845928,
+                        40.788291
+                  ]
+            },
+            {
+                  "name": "Charles Aznavour",
+                  "text": "This monument dedicated to Charles Aznavour is situated in Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.848151,
+                        40.806504
+                  ]
+            },
+            {
+                  "name": "Poloz Mukuch",
+                  "text": "The Poloz Mukuch is a local monument situated in Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.841026,
+                        40.782565
+                  ]
+            },
+            {
+                  "name": "Shiraz Monument",
+                  "text": "The Shiraz Monument is a memorial site situated within Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.845795,
+                        40.790983
+                  ]
+            },
+            {
+                  "name": "Cobweb art gallery of Andranik Avetisyan",
+                  "text": "The Cobweb art gallery of Andranik Avetisyan is a distinct art gallery located in Gjumri.",
+                  "category": "museum",
+                  "coords": [
+                        43.837508,
+                        40.792815
+                  ]
+            },
+            {
+                  "name": "Former touristic base ruins",
+                  "text": "The Former touristic base ruins are the remains of a past structure in Gjumri.",
+                  "category": "historical",
+                  "coords": [
+                        43.832799,
+                        40.78813
+                  ]
+            },
+            {
+                  "name": "Պարարվեստի դպրոց",
+                  "text": "This school of choreography operates as an arts centre in Gjumri.",
+                  "category": "cultural",
+                  "coords": [
+                        43.844872,
+                        40.792265
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Mother of God",
+                  "text": "The Cathedral of the Holy Mother of God, also known as the Church of the Seven Wounds, is a significant religious site in Gjumri.",
+                  "category": "religious",
+                  "coords": [
+                        43.842333,
+                        40.786187
+                  ]
+            },
+            {
+                  "name": "St. Amenaprkitch",
+                  "text": "St. Amenaprkitch is a church serving the religious community in Gjumri.",
+                  "category": "religious",
+                  "coords": [
+                        43.841182,
+                        40.78409
+                  ]
+            },
+            {
+                  "name": "St Gregory the Illuminator",
+                  "text": "St Gregory the Illuminator is a place of worship located in Gjumri.",
+                  "category": "religious",
+                  "coords": [
+                        43.838201,
+                        40.789528
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-SH",
     coords: [43.8416, 40.7942],
@@ -109,7 +802,376 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-vanadzor-cities-v2",
+    id: "armenia-vanadzor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ստեփան Զորյանի տուն թանգարան",
+                  "text": "Das Stepan Zoryan's House Museum ist ein Museum in Wanadsor.",
+                  "category": "museum",
+                  "coords": [
+                        44.488237,
+                        40.806449
+                  ]
+            },
+            {
+                  "name": "Հովհաննես Աբելյանի անվան պետական դրամատիկական թատրոն",
+                  "text": "Das nach H. Abelyan benannte Theater ist ein Schauspielhaus in der Stadt Wanadsor.",
+                  "category": "cultural",
+                  "coords": [
+                        44.494174,
+                        40.8098
+                  ]
+            },
+            {
+                  "name": "Թագավորանիստ",
+                  "text": "Tagavoranist ist eine archäologische Stätte in Wanadsor.",
+                  "category": "historical",
+                  "coords": [
+                        44.500209,
+                        40.813434
+                  ]
+            },
+            {
+                  "name": "Կերպարվեստի Թանգարան",
+                  "text": "Das Vanadzor Museum of Fine Arts ist ein Kunstmuseum in Wanadsor.",
+                  "category": "museum",
+                  "coords": [
+                        44.496399,
+                        40.807058
+                  ]
+            },
+            {
+                  "name": "Վանաձորի Տիկնիկային Թատրոն",
+                  "text": "Das Vanadzor Puppet Theater ist ein Veranstaltungsort für Puppenspiele in Wanadsor.",
+                  "category": "cultural",
+                  "coords": [
+                        44.492312,
+                        40.806381
+                  ]
+            },
+            {
+                  "name": "Բուսաբանական այգի",
+                  "text": "Der botanische Garten von Wanadsor beherbergt verschiedene Pflanzensammlungen für die Stadt.",
+                  "category": "park",
+                  "coords": [
+                        44.487088,
+                        40.795089
+                  ]
+            },
+            {
+                  "name": "Երկրորդ Աշխարհամարտում Զոհվածների Հուշարձան",
+                  "text": "Dies ist ein Denkmal für die Opfer des Zweiten Weltkriegs in Wanadsor.",
+                  "category": "historical",
+                  "coords": [
+                        44.506171,
+                        40.791269
+                  ]
+            },
+            {
+                  "name": "Արտեկ մանկական ճամբար",
+                  "text": "Das Artek Children's Camp ist eine lokale Attraktion in Wanadsor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.486062,
+                        40.790454
+                  ]
+            },
+            {
+                  "name": "Ռուս ուղղափառ եկեղեցի",
+                  "text": "Die Geburtskirche der Allerheiligsten Jungfrau Maria ist eine russisch-orthodoxe Kirche in Wanadsor.",
+                  "category": "religious",
+                  "coords": [
+                        44.486118,
+                        40.814858
+                  ]
+            },
+            {
+                  "name": "սբ. Աստվածածին եկեղեցի",
+                  "text": "Die Kirche der Heiligen Muttergottes ist eine armenisch-apostolische Kirche in Wanadsor.",
+                  "category": "religious",
+                  "coords": [
+                        44.495716,
+                        40.814882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ստեփան Զորյանի տուն թանգարան",
+                  "text": "A Stepan Zoryan's House Museum egy múzeum Wanadsor városában.",
+                  "category": "museum",
+                  "coords": [
+                        44.488237,
+                        40.806449
+                  ]
+            },
+            {
+                  "name": "Հովհաննես Աբելյանի անվան պետական դրամատիկական թատրոն",
+                  "text": "A H. Abelyan nevét viselő színház egy drámai színház Wanadsor városában.",
+                  "category": "cultural",
+                  "coords": [
+                        44.494174,
+                        40.8098
+                  ]
+            },
+            {
+                  "name": "Թագավորանիստ",
+                  "text": "Tagavoranist egy régészeti lelőhely Wanadsor területén.",
+                  "category": "historical",
+                  "coords": [
+                        44.500209,
+                        40.813434
+                  ]
+            },
+            {
+                  "name": "Կերպարվեստի Թանգարան",
+                  "text": "A Vanadzor Museum of Fine Arts egy művészeti múzeum Wanadsor városában.",
+                  "category": "museum",
+                  "coords": [
+                        44.496399,
+                        40.807058
+                  ]
+            },
+            {
+                  "name": "Վանաձորի Տիկնիկային Թատրոն",
+                  "text": "A Vanadzor Puppet Theater egy bábszínházi előadóhely Wanadsor városában.",
+                  "category": "cultural",
+                  "coords": [
+                        44.492312,
+                        40.806381
+                  ]
+            },
+            {
+                  "name": "Բուսաբանական այգի",
+                  "text": "A wanadsori botanikus kert változatos növénygyűjteményeknek ad otthont a városban.",
+                  "category": "park",
+                  "coords": [
+                        44.487088,
+                        40.795089
+                  ]
+            },
+            {
+                  "name": "Երկրորդ Աշխարհամարտում Զոհվածների Հուշարձան",
+                  "text": "Ez a második világháború áldozatainak szentelt emlékmű Wanadsor városában.",
+                  "category": "historical",
+                  "coords": [
+                        44.506171,
+                        40.791269
+                  ]
+            },
+            {
+                  "name": "Արտեկ մանկական ճամբար",
+                  "text": "Az Artek Children's Camp egy helyi látványosság Wanadsor területén.",
+                  "category": "landmark",
+                  "coords": [
+                        44.486062,
+                        40.790454
+                  ]
+            },
+            {
+                  "name": "Ռուս ուղղափառ եկեղեցի",
+                  "text": "A Szűzanya Születése templom egy orosz ortodox templom Wanadsor városában.",
+                  "category": "religious",
+                  "coords": [
+                        44.486118,
+                        40.814858
+                  ]
+            },
+            {
+                  "name": "սբ. Աստվածածին եկեղեցի",
+                  "text": "Az Istenanya-templom egy örmény apostoli templom Wanadsor városában.",
+                  "category": "religious",
+                  "coords": [
+                        44.495716,
+                        40.814882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ստեփան Զորյանի տուն թանգարան",
+                  "text": "Stepan Zoryan's House Museum este un muzeu situat în Wanadsor.",
+                  "category": "museum",
+                  "coords": [
+                        44.488237,
+                        40.806449
+                  ]
+            },
+            {
+                  "name": "Հովհաննես Աբելյանի անվան պետական դրամատիկական թատրոն",
+                  "text": "Teatrul Numit După H. Abelyan este un teatru dramatic din orașul Wanadsor.",
+                  "category": "cultural",
+                  "coords": [
+                        44.494174,
+                        40.8098
+                  ]
+            },
+            {
+                  "name": "Թագավորանիստ",
+                  "text": "Tagavoranist este un sit arheologic situat în Wanadsor.",
+                  "category": "historical",
+                  "coords": [
+                        44.500209,
+                        40.813434
+                  ]
+            },
+            {
+                  "name": "Կերպարվեստի Թանգարան",
+                  "text": "Vanadzor Museum of Fine Arts este un muzeu de artă în Wanadsor.",
+                  "category": "museum",
+                  "coords": [
+                        44.496399,
+                        40.807058
+                  ]
+            },
+            {
+                  "name": "Վանաձորի Տիկնիկային Թատրոն",
+                  "text": "Vanadzor Puppet Theater este un teatru de păpuși situat în Wanadsor.",
+                  "category": "cultural",
+                  "coords": [
+                        44.492312,
+                        40.806381
+                  ]
+            },
+            {
+                  "name": "Բուսաբանական այգի",
+                  "text": "Grădina botanică din Wanadsor găzduiește diverse colecții de plante.",
+                  "category": "park",
+                  "coords": [
+                        44.487088,
+                        40.795089
+                  ]
+            },
+            {
+                  "name": "Երկրորդ Աշխարհամարտում Զոհվածների Հուշարձան",
+                  "text": "Acesta este un monument dedicat victimelor celui de-al Doilea Război Mondial, situat în Wanadsor.",
+                  "category": "historical",
+                  "coords": [
+                        44.506171,
+                        40.791269
+                  ]
+            },
+            {
+                  "name": "Արտեկ մանկական ճամբար",
+                  "text": "Artek Children's Camp este o atracție locală situată în Wanadsor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.486062,
+                        40.790454
+                  ]
+            },
+            {
+                  "name": "Ռուս ուղղափառ եկեղեցի",
+                  "text": "Biserica Nașterea Maicii Domnului este o biserică ortodoxă rusă situată în Wanadsor.",
+                  "category": "religious",
+                  "coords": [
+                        44.486118,
+                        40.814858
+                  ]
+            },
+            {
+                  "name": "սբ. Աստվածածին եկեղեցի",
+                  "text": "Biserica Sfânta Maica Domnului este o biserică apostolică armeană din Wanadsor.",
+                  "category": "religious",
+                  "coords": [
+                        44.495716,
+                        40.814882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stepan Zoryan's House Museum",
+                  "text": "Stepan Zoryan's House Museum is a museum located in Wanadsor.",
+                  "category": "museum",
+                  "coords": [
+                        44.488237,
+                        40.806449
+                  ]
+            },
+            {
+                  "name": "Theatre Named After H. Abelyan",
+                  "text": "The Theatre Named After H. Abelyan is a dramatic theatre serving the city of Wanadsor.",
+                  "category": "cultural",
+                  "coords": [
+                        44.494174,
+                        40.8098
+                  ]
+            },
+            {
+                  "name": "Tagavoranist",
+                  "text": "Tagavoranist is an archaeological site located in Wanadsor.",
+                  "category": "historical",
+                  "coords": [
+                        44.500209,
+                        40.813434
+                  ]
+            },
+            {
+                  "name": "Vanadzor Museum of Fine Arts",
+                  "text": "The Vanadzor Museum of Fine Arts is an art museum in Wanadsor.",
+                  "category": "museum",
+                  "coords": [
+                        44.496399,
+                        40.807058
+                  ]
+            },
+            {
+                  "name": "Vanadzor Puppet Theater",
+                  "text": "The Vanadzor Puppet Theater is a performing arts venue for puppet shows in Wanadsor.",
+                  "category": "cultural",
+                  "coords": [
+                        44.492312,
+                        40.806381
+                  ]
+            },
+            {
+                  "name": "Botanical garden",
+                  "text": "The botanical garden of Wanadsor features diverse plant collections for the city.",
+                  "category": "park",
+                  "coords": [
+                        44.487088,
+                        40.795089
+                  ]
+            },
+            {
+                  "name": "Երկրորդ Աշխարհամարտում Զոհվածների Հուշարձան",
+                  "text": "This is a monument dedicated to the victims of World War II located in Wanadsor.",
+                  "category": "historical",
+                  "coords": [
+                        44.506171,
+                        40.791269
+                  ]
+            },
+            {
+                  "name": "Artek Children's Camp",
+                  "text": "The Artek Children's Camp is a local attraction located in Wanadsor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.486062,
+                        40.790454
+                  ]
+            },
+            {
+                  "name": "Nativity church of the Blessed Virgin Mary",
+                  "text": "The Nativity Church of the Blessed Virgin Mary is a Russian Orthodox church located in Wanadsor.",
+                  "category": "religious",
+                  "coords": [
+                        44.486118,
+                        40.814858
+                  ]
+            },
+            {
+                  "name": "Holy Mother of God Church",
+                  "text": "The Church of the Holy Mother of God is an Armenian Apostolic church located in Wanadsor.",
+                  "category": "religious",
+                  "coords": [
+                        44.495716,
+                        40.814882
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-LO",
     coords: [44.4886, 40.8074],
@@ -165,7 +1227,484 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-vagharshapat-cities-v2",
+    id: "armenia-vagharshapat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Խորեն Տեր-Հարությանի թանգարան",
+                  "text": "Kunstmuseum in Wagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.16209
+                  ]
+            },
+            {
+                  "name": "Էջմիածին",
+                  "text": "Kloster in Wagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.291274,
+                        40.161884
+                  ]
+            },
+            {
+                  "name": "Հ.Հովհաննիսյանի անվան թանգարան",
+                  "text": "Museum in Wagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Էջմիածնի պատմաազգագրական թանգարան",
+                  "text": "Geschichtsmuseum in Wagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.29447,
+                        40.16453
+                  ]
+            },
+            {
+                  "name": "Ալեք և Մարի Մանուկյան Գանձատուն",
+                  "text": "Schatzkammer-Museum in Wagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորչի աջ",
+                  "text": "Denkmal in Wagharschapat.",
+                  "category": "historical",
+                  "coords": [
+                        44.316727,
+                        40.166398
+                  ]
+            },
+            {
+                  "name": "Եղիշե Չարենց",
+                  "text": "Denkmal in Wagharschapat.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Sehenswürdigkeit in Wagharschapat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160486
+                  ]
+            },
+            {
+                  "name": "Մաչանենց տուն",
+                  "text": "Sehenswürdigkeit in Wagharschapat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Շողակաթ",
+                  "text": "Kirche in Wagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.304805,
+                        40.168063
+                  ]
+            },
+            {
+                  "name": "Kirche St. Hripsime",
+                  "text": "Kirche in Wagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.309553,
+                        40.166977
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանե եկեղեցի",
+                  "text": "Kirche in Wagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.291854,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Սրբոց Հրեշտակապետաց եկեղեցի",
+                  "text": "Kirche in Wagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.162609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Խորեն Տեր-Հարությանի թանգարան",
+                  "text": "Művészeti múzeum Vagarshapatban.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.16209
+                  ]
+            },
+            {
+                  "name": "Էջմիածին",
+                  "text": "Kolostor Vagarshapatban.",
+                  "category": "religious",
+                  "coords": [
+                        44.291274,
+                        40.161884
+                  ]
+            },
+            {
+                  "name": "Հ.Հովհաննիսյանի անվան թանգարան",
+                  "text": "Múzeum Vagarshapatban.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Էջմիածնի պատմաազգագրական թանգարան",
+                  "text": "Történeti múzeum Vagarshapatban.",
+                  "category": "museum",
+                  "coords": [
+                        44.29447,
+                        40.16453
+                  ]
+            },
+            {
+                  "name": "Ալեք և Մարի Մանուկյան Գանձատուն",
+                  "text": "Kincstári múzeum Vagarshapatban.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորչի աջ",
+                  "text": "Emlékmű Vagarshapatban.",
+                  "category": "historical",
+                  "coords": [
+                        44.316727,
+                        40.166398
+                  ]
+            },
+            {
+                  "name": "Եղիշե Չարենց",
+                  "text": "Emlékmű Vagarshapatban.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Látnivaló Vagarshapatban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160486
+                  ]
+            },
+            {
+                  "name": "Մաչանենց տուն",
+                  "text": "Látnivaló Vagarshapatban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Շողակաթ",
+                  "text": "Templom Vagarshapatban.",
+                  "category": "religious",
+                  "coords": [
+                        44.304805,
+                        40.168063
+                  ]
+            },
+            {
+                  "name": "Սուրբ Հռիփսիմե եկեղեցի",
+                  "text": "Templom Vagarshapatban.",
+                  "category": "religious",
+                  "coords": [
+                        44.309553,
+                        40.166977
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանե եկեղեցի",
+                  "text": "Templom Vagarshapatban.",
+                  "category": "religious",
+                  "coords": [
+                        44.291854,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Սրբոց Հրեշտակապետաց եկեղեցի",
+                  "text": "Templom Vagarshapatban.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.162609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Խորեն Տեր-Հարությանի թանգարան",
+                  "text": "Muzeu de artă în Vagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.16209
+                  ]
+            },
+            {
+                  "name": "Էջմիածին",
+                  "text": "Mănăstire în Vagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.291274,
+                        40.161884
+                  ]
+            },
+            {
+                  "name": "Հ.Հովհաննիսյանի անվան թանգարան",
+                  "text": "Muzeu în Vagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Էջմիածնի պատմաազգագրական թանգարան",
+                  "text": "Muzeu de istorie în Vagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.29447,
+                        40.16453
+                  ]
+            },
+            {
+                  "name": "Ալեք և Մարի Մանուկյան Գանձատուն",
+                  "text": "Muzeu de tezaur în Vagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորչի աջ",
+                  "text": "Monument în Vagharschapat.",
+                  "category": "historical",
+                  "coords": [
+                        44.316727,
+                        40.166398
+                  ]
+            },
+            {
+                  "name": "Եղիշե Չարենց",
+                  "text": "Monument în Vagharschapat.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Atracție în Vagharschapat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160486
+                  ]
+            },
+            {
+                  "name": "Մաչանենց տուն",
+                  "text": "Atracție în Vagharschapat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Շողակաթ",
+                  "text": "Biserică în Vagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.304805,
+                        40.168063
+                  ]
+            },
+            {
+                  "name": "Սուրբ Հռիփսիմե եկեղեցի",
+                  "text": "Biserică în Vagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.309553,
+                        40.166977
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանե եկեղեցի",
+                  "text": "Biserică în Vagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.291854,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Սրբոց Հրեշտակապետաց եկեղեցի",
+                  "text": "Biserică în Vagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.162609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khoren Ter-Harutyunyan Museum",
+                  "text": "Art museum in Wagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.16209
+                  ]
+            },
+            {
+                  "name": "Etchmiadzin",
+                  "text": "Monastery in Wagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.291274,
+                        40.161884
+                  ]
+            },
+            {
+                  "name": "Museum aft. Hovhanes Hovhanisyan",
+                  "text": "Museum in Wagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Historical and Ethnographic Museum of Ejmiatsin",
+                  "text": "History museum in Wagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.29447,
+                        40.16453
+                  ]
+            },
+            {
+                  "name": "Alex and Marie Manoogian Treasury House",
+                  "text": "Treasury museum in Wagharschapat.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Saint Gregory's right hand",
+                  "text": "Monument in Wagharschapat.",
+                  "category": "historical",
+                  "coords": [
+                        44.316727,
+                        40.166398
+                  ]
+            },
+            {
+                  "name": "Egishe Charents",
+                  "text": "Monument in Wagharschapat.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Attraction in Wagharschapat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160486
+                  ]
+            },
+            {
+                  "name": "Machanents home",
+                  "text": "Attraction in Wagharschapat.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Shoghakat Church",
+                  "text": "Church in Wagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.304805,
+                        40.168063
+                  ]
+            },
+            {
+                  "name": "Saint Hripsime Church",
+                  "text": "Church in Wagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.309553,
+                        40.166977
+                  ]
+            },
+            {
+                  "name": "Saint Gayane Church",
+                  "text": "Church in Wagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.291854,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Archangels",
+                  "text": "Church in Wagharschapat.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.162609
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-AV",
     coords: [44.2939, 40.1669],
@@ -221,7 +1760,52 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-abovyan-cities-v2",
+    id: "armenia-abovyan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ՄԱԼԻԲՈւ",
+                  "text": "MALIBU ist eine lokale Touristenattraktion in der Stadt Abowjan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.640953,
+                        40.278479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ՄԱԼԻԲՈւ",
+                  "text": "A MALIBU egy helyi turisztikai látványosság Abowjan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        44.640953,
+                        40.278479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ՄԱԼԻԲՈւ",
+                  "text": "MALIBU este o atracție turistică locală situată în orașul Abowjan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.640953,
+                        40.278479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MALIBU",
+                  "text": "MALIBU is a local tourist attraction situated in the city of Abowjan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.640953,
+                        40.278479
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-KT",
     coords: [44.6264, 40.2747],
@@ -277,7 +1861,268 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-kapan-cities-v2",
+    id: "armenia-kapan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Պատմական թանգարան",
+                  "text": "Das Historical Museum Sh. Movsisyan ist ein Museum in der Stadt Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.399653,
+                        39.202816
+                  ]
+            },
+            {
+                  "name": "Kapan Theater",
+                  "text": "Das Kapan Theater ist ein Veranstaltungsort für Theater in Kapan.",
+                  "category": "cultural",
+                  "coords": [
+                        46.401977,
+                        39.206922
+                  ]
+            },
+            {
+                  "name": "Museum of Regional Studies",
+                  "text": "Das Museum of Regional Studies ist eine der lokalen Geschichte gewidmete Einrichtung in Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.418309,
+                        39.199766
+                  ]
+            },
+            {
+                  "name": "Kapan modern art museum",
+                  "text": "Das Kapan Modern Art Museum ist ein Museum in Kapan, das zeitgenössische Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        46.403222,
+                        39.207112
+                  ]
+            },
+            {
+                  "name": "Kapan Regional museum",
+                  "text": "Das Kapan Regional museum ist ein Museum, das sich dem Erbe der Region in Kapan widmet.",
+                  "category": "museum",
+                  "coords": [
+                        46.415852,
+                        39.201886
+                  ]
+            },
+            {
+                  "name": "Վազգեն Սարգսյանի անվան Կապանի կենտրոնական զբոսայգի",
+                  "text": "Der Vazgen Sargsyan Kapan central amusement park ist ein lokaler Freizeitpark in Kapan.",
+                  "category": "recreational",
+                  "coords": [
+                        46.404914,
+                        39.207855
+                  ]
+            },
+            {
+                  "name": "Գարեգին Նժդեհ հուշարձան",
+                  "text": "Das Garegin Nzhdeh Monument ist ein Denkmal in der Stadt Kapan.",
+                  "category": "historical",
+                  "coords": [
+                        46.394802,
+                        39.195715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Պատմական թանգարան",
+                  "text": "A Historical Museum Sh. Movsisyan egy múzeum Kapan városában.",
+                  "category": "museum",
+                  "coords": [
+                        46.399653,
+                        39.202816
+                  ]
+            },
+            {
+                  "name": "Kapan Theater",
+                  "text": "A Kapan Theater egy színházi helyszín Kapan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        46.401977,
+                        39.206922
+                  ]
+            },
+            {
+                  "name": "Museum of Regional Studies",
+                  "text": "A Museum of Regional Studies a helytörténetnek szentelt intézmény Kapan városában.",
+                  "category": "museum",
+                  "coords": [
+                        46.418309,
+                        39.199766
+                  ]
+            },
+            {
+                  "name": "Kapan modern art museum",
+                  "text": "A Kapan Modern Art Museum egy kortárs művészeti alkotásokat bemutató múzeum Kapanban.",
+                  "category": "museum",
+                  "coords": [
+                        46.403222,
+                        39.207112
+                  ]
+            },
+            {
+                  "name": "Kapan Regional museum",
+                  "text": "A Kapan Regional museum egy a régió örökségét bemutató múzeum Kapan városában.",
+                  "category": "museum",
+                  "coords": [
+                        46.415852,
+                        39.201886
+                  ]
+            },
+            {
+                  "name": "Վազգեն Սարգսյանի անվան Կապանի կենտրոնական զբոսայգի",
+                  "text": "A Vazgen Sargsyan Kapan central amusement park egy helyi vidámpark Kapan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        46.404914,
+                        39.207855
+                  ]
+            },
+            {
+                  "name": "Գարեգին Նժդեհ հուշարձան",
+                  "text": "A Garegin Nzhdeh Monument egy emlékmű Kapan városában.",
+                  "category": "historical",
+                  "coords": [
+                        46.394802,
+                        39.195715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Պատմական թանգարան",
+                  "text": "Historical Museum Sh. Movsisyan este un muzeu situat în orașul Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.399653,
+                        39.202816
+                  ]
+            },
+            {
+                  "name": "Kapan Theater",
+                  "text": "Kapan Theater este un teatru din Kapan.",
+                  "category": "cultural",
+                  "coords": [
+                        46.401977,
+                        39.206922
+                  ]
+            },
+            {
+                  "name": "Museum of Regional Studies",
+                  "text": "Museum of Regional Studies este o instituție dedicată istoriei locale din Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.418309,
+                        39.199766
+                  ]
+            },
+            {
+                  "name": "Kapan modern art museum",
+                  "text": "Kapan Modern Art Museum este un muzeu care expune opere de artă contemporană în Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.403222,
+                        39.207112
+                  ]
+            },
+            {
+                  "name": "Kapan Regional museum",
+                  "text": "Kapan Regional museum este un muzeu dedicat patrimoniului regional din Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.415852,
+                        39.201886
+                  ]
+            },
+            {
+                  "name": "Վազգեն Սարգսյանի անվան Կապանի կենտրոնական զբոսայգի",
+                  "text": "Vazgen Sargsyan Kapan central amusement park este un parc de distracții local situat în Kapan.",
+                  "category": "recreational",
+                  "coords": [
+                        46.404914,
+                        39.207855
+                  ]
+            },
+            {
+                  "name": "Գարեգին Նժդեհ հուշարձան",
+                  "text": "Garegin Nzhdeh Monument este un monument situat în orașul Kapan.",
+                  "category": "historical",
+                  "coords": [
+                        46.394802,
+                        39.195715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Historical Museum Sh. Movsisyan",
+                  "text": "Historical Museum Sh. Movsisyan is a museum situated in the city of Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.399653,
+                        39.202816
+                  ]
+            },
+            {
+                  "name": "Kapan Theater",
+                  "text": "The Kapan Theater is a theatre venue located in Kapan.",
+                  "category": "cultural",
+                  "coords": [
+                        46.401977,
+                        39.206922
+                  ]
+            },
+            {
+                  "name": "Museum of Regional Studies",
+                  "text": "The Museum of Regional Studies is an institution dedicated to local history in Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.418309,
+                        39.199766
+                  ]
+            },
+            {
+                  "name": "Kapan modern art museum",
+                  "text": "The Kapan Modern Art Museum is a museum exhibiting contemporary artworks in Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.403222,
+                        39.207112
+                  ]
+            },
+            {
+                  "name": "Kapan Regional museum",
+                  "text": "The Kapan Regional museum is a museum dedicated to the heritage of the region in Kapan.",
+                  "category": "museum",
+                  "coords": [
+                        46.415852,
+                        39.201886
+                  ]
+            },
+            {
+                  "name": "Vazgen Sargsyan Kapan central amusement park",
+                  "text": "The Vazgen Sargsyan Kapan central amusement park is a local theme park in Kapan.",
+                  "category": "recreational",
+                  "coords": [
+                        46.404914,
+                        39.207855
+                  ]
+            },
+            {
+                  "name": "Garegin Nzhdeh Monument",
+                  "text": "The Garegin Nzhdeh Monument is a monument situated in the city of Kapan.",
+                  "category": "historical",
+                  "coords": [
+                        46.394802,
+                        39.195715
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-SU",
     coords: [46.4058, 39.2075],
@@ -389,7 +2234,52 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-armavir-cities-v2",
+    id: "armenia-armavir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Կարմիր Ակումբ",
+                  "text": "Das Kulturzentrum Red Club fungiert als Theater in Armawir.",
+                  "category": "cultural",
+                  "coords": [
+                        44.039223,
+                        40.156179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Կարմիր Ակումբ",
+                  "text": "A Red Club Kulturális Központ színházként működik Armawirban.",
+                  "category": "cultural",
+                  "coords": [
+                        44.039223,
+                        40.156179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Կարմիր Ակումբ",
+                  "text": "Centrul Cultural Red Club funcționează ca teatru în Armawir.",
+                  "category": "cultural",
+                  "coords": [
+                        44.039223,
+                        40.156179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Red Club Cultural Center",
+                  "text": "The Red Club Cultural Center functions as a theatre in Armawir.",
+                  "category": "cultural",
+                  "coords": [
+                        44.039223,
+                        40.156179
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-AV",
     coords: [44.0375, 40.1558],
@@ -445,7 +2335,124 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-artashat-cities-v2",
+    id: "armenia-artashat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ԱՐՏԱՇԱՏԻ Ա. ԽԱՐԱԶՅԱՆԻ ԱՆՎԱՆ ՊԵՏ. ԴՐԱՄԱՏԻԿԱԿԱՆ ԹԱՏՐՈՆ",
+                  "text": "Das Theater aft. A. Kharazyan ist ein Theaterort in Artaschat.",
+                  "category": "cultural",
+                  "coords": [
+                        44.545313,
+                        39.956043
+                  ]
+            },
+            {
+                  "name": "Մայր Հայաստան",
+                  "text": "Dieses Denkmal, das Mutter Armenien bedeutet, ist eine prominente Statue in Artaschat.",
+                  "category": "historical",
+                  "coords": [
+                        44.55009,
+                        39.959085
+                  ]
+            },
+            {
+                  "name": "Սբ. Հակոբ եկեղեցի",
+                  "text": "Die Saint Jacob Church ist eine Kultstätte in der Stadt Artaschat.",
+                  "category": "religious",
+                  "coords": [
+                        44.534751,
+                        39.973528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ԱՐՏԱՇԱՏԻ Ա. ԽԱՐԱԶՅԱՆԻ ԱՆՎԱՆ ՊԵՏ. ԴՐԱՄԱՏԻԿԱԿԱՆ ԹԱՏՐՈՆ",
+                  "text": "A Theater aft. A. Kharazyan egy színházi helyszín Artaschat városában.",
+                  "category": "cultural",
+                  "coords": [
+                        44.545313,
+                        39.956043
+                  ]
+            },
+            {
+                  "name": "Մայր Հայաստան",
+                  "text": "Ez a Máté Örményországot jelentő emlékmű egy kiemelkedő szobor Artaschat városában.",
+                  "category": "historical",
+                  "coords": [
+                        44.55009,
+                        39.959085
+                  ]
+            },
+            {
+                  "name": "Սբ. Հակոբ եկեղեցի",
+                  "text": "A Saint Jacob Church egy vallási épület Artaschat városában.",
+                  "category": "religious",
+                  "coords": [
+                        44.534751,
+                        39.973528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ԱՐՏԱՇԱՏԻ Ա. ԽԱՐԱԶՅԱՆԻ ԱՆՎԱՆ ՊԵՏ. ԴՐԱՄԱՏԻԿԱԿԱՆ ԹԱՏՐՈՆ",
+                  "text": "Theater aft. A. Kharazyan este un spațiu teatral situat în Artaschat.",
+                  "category": "cultural",
+                  "coords": [
+                        44.545313,
+                        39.956043
+                  ]
+            },
+            {
+                  "name": "Մայր Հայաստան",
+                  "text": "Acest monument, însemnând Mama Armenia, este o statuie proeminentă situată în Artaschat.",
+                  "category": "historical",
+                  "coords": [
+                        44.55009,
+                        39.959085
+                  ]
+            },
+            {
+                  "name": "Սբ. Հակոբ եկեղեցի",
+                  "text": "Saint Jacob Church este un lăcaș de cult situat în orașul Artaschat.",
+                  "category": "religious",
+                  "coords": [
+                        44.534751,
+                        39.973528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theater aft. A. Kharazyan",
+                  "text": "Theater aft. A. Kharazyan is a theatrical venue situated in Artaschat.",
+                  "category": "cultural",
+                  "coords": [
+                        44.545313,
+                        39.956043
+                  ]
+            },
+            {
+                  "name": "Մայր Հայաստան",
+                  "text": "This monument, meaning Mother Armenia, is a prominent statue located in Artaschat.",
+                  "category": "historical",
+                  "coords": [
+                        44.55009,
+                        39.959085
+                  ]
+            },
+            {
+                  "name": "Saint Jacob Church",
+                  "text": "Saint Jacob Church is a place of worship situated in the city of Artaschat.",
+                  "category": "religious",
+                  "coords": [
+                        44.534751,
+                        39.973528
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-AR",
     coords: [44.5458, 39.9614],
@@ -501,7 +2508,196 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-ijevan-cities-v2",
+    id: "armenia-ijevan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ijevan Local Lore museum",
+                  "text": "Heimatmuseum in Idschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.144448,
+                        40.876132
+                  ]
+            },
+            {
+                  "name": "Իջևանի Պատմաերկրագիտական Թանգարան",
+                  "text": "Geschichtsmuseum in Idschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.138759,
+                        40.868703
+                  ]
+            },
+            {
+                  "name": "Իջևանի դենդրոպարկ",
+                  "text": "Arboretum in Idschewan.",
+                  "category": "park",
+                  "coords": [
+                        45.13635,
+                        40.865679
+                  ]
+            },
+            {
+                  "name": "Ashot II the Iron",
+                  "text": "Denkmal in Idschewan.",
+                  "category": "historical",
+                  "coords": [
+                        45.144103,
+                        40.873925
+                  ]
+            },
+            {
+                  "name": "Սուրբ Ամենափրկիչ եկեղեցի",
+                  "text": "Kirche in Idschewan.",
+                  "category": "religious",
+                  "coords": [
+                        45.147742,
+                        40.875244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ijevan Local Lore museum",
+                  "text": "Helytörténeti múzeum Idzsevánban.",
+                  "category": "museum",
+                  "coords": [
+                        45.144448,
+                        40.876132
+                  ]
+            },
+            {
+                  "name": "Իջևանի Պատմաերկրագիտական Թանգարան",
+                  "text": "Történeti múzeum Idzsevánban.",
+                  "category": "museum",
+                  "coords": [
+                        45.138759,
+                        40.868703
+                  ]
+            },
+            {
+                  "name": "Իջևանի դենդրոպարկ",
+                  "text": "Arborétum Idzsevánban.",
+                  "category": "park",
+                  "coords": [
+                        45.13635,
+                        40.865679
+                  ]
+            },
+            {
+                  "name": "Ashot II the Iron",
+                  "text": "Emlékmű Idzsevánban.",
+                  "category": "historical",
+                  "coords": [
+                        45.144103,
+                        40.873925
+                  ]
+            },
+            {
+                  "name": "Սուրբ Ամենափրկիչ եկեղեցի",
+                  "text": "Templom Idzsevánban.",
+                  "category": "religious",
+                  "coords": [
+                        45.147742,
+                        40.875244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ijevan Local Lore museum",
+                  "text": "Muzeu local în Idschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.144448,
+                        40.876132
+                  ]
+            },
+            {
+                  "name": "Իջևանի Պատմաերկրագիտական Թանգարան",
+                  "text": "Muzeu de istorie în Idschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.138759,
+                        40.868703
+                  ]
+            },
+            {
+                  "name": "Իջևանի դենդրոպարկ",
+                  "text": "Arboreta în Idschewan.",
+                  "category": "park",
+                  "coords": [
+                        45.13635,
+                        40.865679
+                  ]
+            },
+            {
+                  "name": "Ashot II the Iron",
+                  "text": "Monument în Idschewan.",
+                  "category": "historical",
+                  "coords": [
+                        45.144103,
+                        40.873925
+                  ]
+            },
+            {
+                  "name": "Սուրբ Ամենափրկիչ եկեղեցի",
+                  "text": "Biserică în Idschewan.",
+                  "category": "religious",
+                  "coords": [
+                        45.147742,
+                        40.875244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ijevan Local Lore museum",
+                  "text": "Local museum in Idschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.144448,
+                        40.876132
+                  ]
+            },
+            {
+                  "name": "Ijevan Museum of History and Regional Studies",
+                  "text": "History museum in Idschewan.",
+                  "category": "museum",
+                  "coords": [
+                        45.138759,
+                        40.868703
+                  ]
+            },
+            {
+                  "name": "Ijevan Arboretum",
+                  "text": "Arboretum in Idschewan.",
+                  "category": "park",
+                  "coords": [
+                        45.13635,
+                        40.865679
+                  ]
+            },
+            {
+                  "name": "Ashot II the Iron",
+                  "text": "Monument in Idschewan.",
+                  "category": "historical",
+                  "coords": [
+                        45.144103,
+                        40.873925
+                  ]
+            },
+            {
+                  "name": "Ijevan Church",
+                  "text": "Church in Idschewan.",
+                  "category": "religious",
+                  "coords": [
+                        45.147742,
+                        40.875244
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-TA",
     coords: [45.1472, 40.8753],
@@ -557,7 +2753,52 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-gavar-cities-v2",
+    id: "armenia-gavar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Սուրբ Աստվածածին եկեղեցի",
+                  "text": "Die Kirche Surb Astvatsatsin ist eine religiöse Einrichtung in Gawar.",
+                  "category": "religious",
+                  "coords": [
+                        45.127294,
+                        40.352253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Սուրբ Աստվածածին եկեղեցի",
+                  "text": "A Szurb Asztvacacin templom egy vallási intézmény Gawarban.",
+                  "category": "religious",
+                  "coords": [
+                        45.127294,
+                        40.352253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Սուրբ Աստվածածին եկեղեցի",
+                  "text": "Biserica Surb Astvatsatsin este o instituție religioasă situată în Gawar.",
+                  "category": "religious",
+                  "coords": [
+                        45.127294,
+                        40.352253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surb Astvatsatsin Church",
+                  "text": "Surb Astvatsatsin Church is a religious institution located in Gawar.",
+                  "category": "religious",
+                  "coords": [
+                        45.127294,
+                        40.352253
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-GR",
     coords: [45.1278, 40.3544],
@@ -613,7 +2854,304 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-goris-cities-v2",
+    id: "armenia-goris-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ակսել Բակունցի տուն-թանգարան",
+                  "text": "Das House Museum of Axel Bakunts ist ein Museum in Goris.",
+                  "category": "museum",
+                  "coords": [
+                        46.340797,
+                        39.511229
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "Das Archeological Museum ist eine Einrichtung in Goris.",
+                  "category": "museum",
+                  "coords": [
+                        46.343885,
+                        39.505987
+                  ]
+            },
+            {
+                  "name": "Սերո Խանզադյան թանգարան",
+                  "text": "Das Sero Khandzradzyan Museum ist eine Museumseinrichtung in der Stadt Goris.",
+                  "category": "museum",
+                  "coords": [
+                        46.344135,
+                        39.516104
+                  ]
+            },
+            {
+                  "name": "Գորիսի մուտք",
+                  "text": "Goris Gate ist ein bemerkenswertes Denkmal in Goris.",
+                  "category": "historical",
+                  "coords": [
+                        46.326702,
+                        39.503669
+                  ]
+            },
+            {
+                  "name": "Գորիսի Դիտակետ",
+                  "text": "Der Goris Viewpoint bietet einen malerischen Aussichtspunkt in der Stadt Goris.",
+                  "category": "natural",
+                  "coords": [
+                        46.341502,
+                        39.489076
+                  ]
+            },
+            {
+                  "name": "Գորիսի Զանգեր",
+                  "text": "Bells of Goris ist ein Denkmal in der Stadt Goris.",
+                  "category": "historical",
+                  "coords": [
+                        46.362756,
+                        39.515778
+                  ]
+            },
+            {
+                  "name": "Սբ. Հռիփսիմե",
+                  "text": "St. Hripsime ist eine Kultstätte in Goris.",
+                  "category": "religious",
+                  "coords": [
+                        46.350755,
+                        39.505243
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "Saint Gregory The Illuminator ist eine Kultstätte für die Gemeinde in Goris.",
+                  "category": "religious",
+                  "coords": [
+                        46.345737,
+                        39.5052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ակսել Բակունցի տուն-թանգարան",
+                  "text": "A House Museum of Axel Bakunts egy helyi múzeum Goris városában.",
+                  "category": "museum",
+                  "coords": [
+                        46.340797,
+                        39.511229
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "Az Archeological Museum egy intézmény Goris városában.",
+                  "category": "museum",
+                  "coords": [
+                        46.343885,
+                        39.505987
+                  ]
+            },
+            {
+                  "name": "Սերո Խանզադյան թանգարան",
+                  "text": "A Sero Khandzradzyan Museum egy múzeumi létesítmény Goris városában.",
+                  "category": "museum",
+                  "coords": [
+                        46.344135,
+                        39.516104
+                  ]
+            },
+            {
+                  "name": "Գորիսի մուտք",
+                  "text": "A Goris Gate egy jelentős emlékmű Goris városában.",
+                  "category": "historical",
+                  "coords": [
+                        46.326702,
+                        39.503669
+                  ]
+            },
+            {
+                  "name": "Գորիսի Դիտակետ",
+                  "text": "A Goris Viewpoint egy festői kilátópont Goris városában.",
+                  "category": "natural",
+                  "coords": [
+                        46.341502,
+                        39.489076
+                  ]
+            },
+            {
+                  "name": "Գորիսի Զանգեր",
+                  "text": "A Bells of Goris egy emlékmű Goris városában.",
+                  "category": "historical",
+                  "coords": [
+                        46.362756,
+                        39.515778
+                  ]
+            },
+            {
+                  "name": "Սբ. Հռիփսիմե",
+                  "text": "A St. Hripsime egy istentiszteleti hely Goris városában.",
+                  "category": "religious",
+                  "coords": [
+                        46.350755,
+                        39.505243
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "A Saint Gregory The Illuminator egy istentiszteleti hely Goris városában.",
+                  "category": "religious",
+                  "coords": [
+                        46.345737,
+                        39.5052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ակսել Բակունցի տուն-թանգարան",
+                  "text": "House Museum of Axel Bakunts este un muzeu situat în orașul Goris.",
+                  "category": "museum",
+                  "coords": [
+                        46.340797,
+                        39.511229
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "Archeological Museum este o instituție situată în Goris.",
+                  "category": "museum",
+                  "coords": [
+                        46.343885,
+                        39.505987
+                  ]
+            },
+            {
+                  "name": "Սերո Խանզադյան թանգարան",
+                  "text": "Sero Khandzradzyan Museum este un muzeu localizat în orașul Goris.",
+                  "category": "museum",
+                  "coords": [
+                        46.344135,
+                        39.516104
+                  ]
+            },
+            {
+                  "name": "Գորիսի մուտք",
+                  "text": "Goris Gate este un monument notabil situat în Goris.",
+                  "category": "historical",
+                  "coords": [
+                        46.326702,
+                        39.503669
+                  ]
+            },
+            {
+                  "name": "Գորիսի Դիտակետ",
+                  "text": "Goris Viewpoint oferă un punct de belvedere pitoresc în orașul Goris.",
+                  "category": "natural",
+                  "coords": [
+                        46.341502,
+                        39.489076
+                  ]
+            },
+            {
+                  "name": "Գորիսի Զանգեր",
+                  "text": "Bells of Goris este un monument ridicat în orașul Goris.",
+                  "category": "historical",
+                  "coords": [
+                        46.362756,
+                        39.515778
+                  ]
+            },
+            {
+                  "name": "Սբ. Հռիփսիմե",
+                  "text": "St. Hripsime este un lăcaș de cult situat în Goris.",
+                  "category": "religious",
+                  "coords": [
+                        46.350755,
+                        39.505243
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "Saint Gregory The Illuminator este un lăcaș de cult ce servește comunitatea din Goris.",
+                  "category": "religious",
+                  "coords": [
+                        46.345737,
+                        39.5052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House Museum of Axel Bakunts",
+                  "text": "The House Museum of Axel Bakunts is a museum dedicated to the local figure in Goris.",
+                  "category": "museum",
+                  "coords": [
+                        46.340797,
+                        39.511229
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "The Archeological Museum is an institution located in Goris.",
+                  "category": "museum",
+                  "coords": [
+                        46.343885,
+                        39.505987
+                  ]
+            },
+            {
+                  "name": "Sero Khandzradzyan Museum",
+                  "text": "Sero Khandzradzyan Museum is a museum facility located in the city of Goris.",
+                  "category": "museum",
+                  "coords": [
+                        46.344135,
+                        39.516104
+                  ]
+            },
+            {
+                  "name": "Goris Gate",
+                  "text": "Goris Gate is a notable monument situated in Goris.",
+                  "category": "historical",
+                  "coords": [
+                        46.326702,
+                        39.503669
+                  ]
+            },
+            {
+                  "name": "Goris Viewpoint",
+                  "text": "Goris Viewpoint offers a scenic overlook in the city of Goris.",
+                  "category": "natural",
+                  "coords": [
+                        46.341502,
+                        39.489076
+                  ]
+            },
+            {
+                  "name": "Bells of Goris",
+                  "text": "Bells of Goris is a monument established in the city of Goris.",
+                  "category": "historical",
+                  "coords": [
+                        46.362756,
+                        39.515778
+                  ]
+            },
+            {
+                  "name": "St. Hripsime",
+                  "text": "St. Hripsime is a place of worship located in Goris.",
+                  "category": "religious",
+                  "coords": [
+                        46.350755,
+                        39.505243
+                  ]
+            },
+            {
+                  "name": "Saint Gregory The Illuminator",
+                  "text": "Saint Gregory The Illuminator is a place of worship serving the community in Goris.",
+                  "category": "religious",
+                  "coords": [
+                        46.345737,
+                        39.5052
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-SU",
     coords: [46.3353, 39.5100],
@@ -669,7 +3207,52 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-charentsavan-cities-v2",
+    id: "armenia-charentsavan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Եկեղեցի Վարդան Զորավար",
+                  "text": "Kirche in Tscharenzawan.",
+                  "category": "religious",
+                  "coords": [
+                        44.631425,
+                        40.420749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Եկեղեցի Վարդան Զորավար",
+                  "text": "Templom Charentsavánban.",
+                  "category": "religious",
+                  "coords": [
+                        44.631425,
+                        40.420749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Եկեղեցի Վարդան Զորավար",
+                  "text": "Biserică în Tscharenzawan.",
+                  "category": "religious",
+                  "coords": [
+                        44.631425,
+                        40.420749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Vardan Church",
+                  "text": "Church in Tscharenzawan.",
+                  "category": "religious",
+                  "coords": [
+                        44.631425,
+                        40.420749
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-KT",
     coords: [44.6469, 40.4078],
@@ -781,7 +3364,52 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-masis-cities-v2",
+    id: "armenia-masis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Սուրբ Թադևոս եկեղեցի",
+                  "text": "St. Tadevos ist eine Kultstätte in der Stadt Masis.",
+                  "category": "religious",
+                  "coords": [
+                        44.442038,
+                        40.062206
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Սուրբ Թադևոս եկեղեցի",
+                  "text": "A St. Tadevos egy vallási épület Masis városában.",
+                  "category": "religious",
+                  "coords": [
+                        44.442038,
+                        40.062206
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Սուրբ Թադևոս եկեղեցի",
+                  "text": "St. Tadevos este un lăcaș de cult situat în orașul Masis.",
+                  "category": "religious",
+                  "coords": [
+                        44.442038,
+                        40.062206
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Tadevos",
+                  "text": "St. Tadevos is a place of worship located in the city of Masis.",
+                  "category": "religious",
+                  "coords": [
+                        44.442038,
+                        40.062206
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-AR",
     coords: [44.4444, 40.0681],
@@ -893,7 +3521,196 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-sevan-cities-v2",
+    id: "armenia-sevan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Արջանոց",
+                  "text": "Arjanots ist ein markanter Berggipfel in der Nähe von Sewan.",
+                  "category": "natural",
+                  "coords": [
+                        44.942738,
+                        40.573105
+                  ]
+            },
+            {
+                  "name": "Մշակույթի տուն",
+                  "text": "Der Kulturpalast dient als Kunstzentrum für die Gemeinde in Sewan.",
+                  "category": "cultural",
+                  "coords": [
+                        44.956825,
+                        40.546049
+                  ]
+            },
+            {
+                  "name": "Գարեգին Նժդեհ",
+                  "text": "Das Garegin-Njhdeh-Denkmal ist ein Erinnerungsbauwerk in Sewan.",
+                  "category": "historical",
+                  "coords": [
+                        44.958188,
+                        40.542811
+                  ]
+            },
+            {
+                  "name": "Վլադիմիր Կարապետյան",
+                  "text": "Das Wladimir-Karapetjan-Denkmal ist eine Gedenkstätte in der Stadt Sewan.",
+                  "category": "historical",
+                  "coords": [
+                        44.939321,
+                        40.547369
+                  ]
+            },
+            {
+                  "name": "Пик",
+                  "text": "Dieser Gipfel bietet einen malerischen Aussichtspunkt über die Umgebung von Sewan.",
+                  "category": "natural",
+                  "coords": [
+                        44.965132,
+                        40.571886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Արջանոց",
+                  "text": "Az Arjanots egy nevezetes hegycsúcs Sewan közelében.",
+                  "category": "natural",
+                  "coords": [
+                        44.942738,
+                        40.573105
+                  ]
+            },
+            {
+                  "name": "Մշակույթի տուն",
+                  "text": "A Kultúrpalota művészeti központként szolgál a sewani közösség számára.",
+                  "category": "cultural",
+                  "coords": [
+                        44.956825,
+                        40.546049
+                  ]
+            },
+            {
+                  "name": "Գարեգին Նժդեհ",
+                  "text": "A Garegin Nzhdeh-emlékmű egy emlékmű Sewanban.",
+                  "category": "historical",
+                  "coords": [
+                        44.958188,
+                        40.542811
+                  ]
+            },
+            {
+                  "name": "Վլադիմիր Կարապետյան",
+                  "text": "A Vlagyimir Karapetjan-emlékmű egy megemlékezési hely Sewan városában.",
+                  "category": "historical",
+                  "coords": [
+                        44.939321,
+                        40.547369
+                  ]
+            },
+            {
+                  "name": "Пик",
+                  "text": "Ez a csúcs festői kilátást nyújt Sewan környékére.",
+                  "category": "natural",
+                  "coords": [
+                        44.965132,
+                        40.571886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Արջանոց",
+                  "text": "Arjanots este un vârf montan notabil situat lângă Sewan.",
+                  "category": "natural",
+                  "coords": [
+                        44.942738,
+                        40.573105
+                  ]
+            },
+            {
+                  "name": "Մշակույթի տուն",
+                  "text": "Palatul Culturii servește ca centru de arte pentru comunitatea din Sewan.",
+                  "category": "cultural",
+                  "coords": [
+                        44.956825,
+                        40.546049
+                  ]
+            },
+            {
+                  "name": "Գարեգին Նժդեհ",
+                  "text": "Monumentul Garegin Njhdeh este o structură memorială în Sewan.",
+                  "category": "historical",
+                  "coords": [
+                        44.958188,
+                        40.542811
+                  ]
+            },
+            {
+                  "name": "Վլադիմիր Կարապետյան",
+                  "text": "Monumentul Vladimir Karapetyan este un sit comemorativ din orașul Sewan.",
+                  "category": "historical",
+                  "coords": [
+                        44.939321,
+                        40.547369
+                  ]
+            },
+            {
+                  "name": "Пик",
+                  "text": "Acest vârf oferă un punct de belvedere pitoresc asupra zonei din jurul orașului Sewan.",
+                  "category": "natural",
+                  "coords": [
+                        44.965132,
+                        40.571886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arjanots",
+                  "text": "Arjanots is a notable mountain peak situated near Sewan.",
+                  "category": "natural",
+                  "coords": [
+                        44.942738,
+                        40.573105
+                  ]
+            },
+            {
+                  "name": "Palace of Culture",
+                  "text": "The Palace of Culture serves as an arts centre for the community in Sewan.",
+                  "category": "cultural",
+                  "coords": [
+                        44.956825,
+                        40.546049
+                  ]
+            },
+            {
+                  "name": "Garegin Njhdeh",
+                  "text": "The Garegin Njhdeh monument is a memorial structure in Sewan.",
+                  "category": "historical",
+                  "coords": [
+                        44.958188,
+                        40.542811
+                  ]
+            },
+            {
+                  "name": "Vladimir Karapetyan",
+                  "text": "The Vladimir Karapetyan monument is a commemorative site in the city of Sewan.",
+                  "category": "historical",
+                  "coords": [
+                        44.939321,
+                        40.547369
+                  ]
+            },
+            {
+                  "name": "Пик",
+                  "text": "This peak provides a scenic viewpoint over the surrounding area of Sewan.",
+                  "category": "natural",
+                  "coords": [
+                        44.965132,
+                        40.571886
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-GR",
     coords: [44.9542, 40.5511],
@@ -949,7 +3766,124 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-artik-cities-v2",
+    id: "armenia-artik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ճեմարան",
+                  "text": "Das Ճեմարան (Tschemaran) ist ein Museum in der Stadt Artik.",
+                  "category": "museum",
+                  "coords": [
+                        43.999391,
+                        40.606869
+                  ]
+            },
+            {
+                  "name": "St. Astvatsatsin",
+                  "text": "St. Astvatsatsin besteht aus antiken Ruinen in Artik.",
+                  "category": "historical",
+                  "coords": [
+                        43.974699,
+                        40.619002
+                  ]
+            },
+            {
+                  "name": "Լմբաթավանք",
+                  "text": "St Gregory ist eine Kultstätte in Artik.",
+                  "category": "religious",
+                  "coords": [
+                        43.957778,
+                        40.608278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ճեմարան",
+                  "text": "A Ճեմարան egy múzeum Artik városában.",
+                  "category": "museum",
+                  "coords": [
+                        43.999391,
+                        40.606869
+                  ]
+            },
+            {
+                  "name": "St. Astvatsatsin",
+                  "text": "A St. Astvatsatsin ősi romokból áll Artikban.",
+                  "category": "historical",
+                  "coords": [
+                        43.974699,
+                        40.619002
+                  ]
+            },
+            {
+                  "name": "Լմբաթավանք",
+                  "text": "A St Gregory egy istentiszteleti hely Artikban.",
+                  "category": "religious",
+                  "coords": [
+                        43.957778,
+                        40.608278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ճեմարան",
+                  "text": "Ճեմարան este un muzeu situat în orașul Artik.",
+                  "category": "museum",
+                  "coords": [
+                        43.999391,
+                        40.606869
+                  ]
+            },
+            {
+                  "name": "St. Astvatsatsin",
+                  "text": "St. Astvatsatsin constă din ruine antice situate în Artik.",
+                  "category": "historical",
+                  "coords": [
+                        43.974699,
+                        40.619002
+                  ]
+            },
+            {
+                  "name": "Լմբաթավանք",
+                  "text": "St Gregory este un lăcaș de cult aflat în Artik.",
+                  "category": "religious",
+                  "coords": [
+                        43.957778,
+                        40.608278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ճեմարան",
+                  "text": "The Ճեմարան (Chemaran) is a museum located in the city of Artik.",
+                  "category": "museum",
+                  "coords": [
+                        43.999391,
+                        40.606869
+                  ]
+            },
+            {
+                  "name": "St. Astvatsatsin",
+                  "text": "St. Astvatsatsin consists of ancient ruins situated in Artik.",
+                  "category": "historical",
+                  "coords": [
+                        43.974699,
+                        40.619002
+                  ]
+            },
+            {
+                  "name": "St Gregory",
+                  "text": "St Gregory is a place of worship found in Artik.",
+                  "category": "religious",
+                  "coords": [
+                        43.957778,
+                        40.608278
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-SH",
     coords: [43.9725, 40.6158],
@@ -1005,7 +3939,88 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-dilijan-cities-v2",
+    id: "armenia-dilijan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Բերդատեղ",
+                  "text": "Archäologische Stätte in Dilidschan.",
+                  "category": "historical",
+                  "coords": [
+                        45.10374,
+                        40.744759
+                  ]
+            },
+            {
+                  "name": "Թփի ղաշ",
+                  "text": "Archäologische Stätte in Dilidschan.",
+                  "category": "historical",
+                  "coords": [
+                        45.088996,
+                        40.731781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Բերդատեղ",
+                  "text": "Régészeti lelőhely Dilidzsanban.",
+                  "category": "historical",
+                  "coords": [
+                        45.10374,
+                        40.744759
+                  ]
+            },
+            {
+                  "name": "Թփի ղաշ",
+                  "text": "Régészeti lelőhely Dilidzsanban.",
+                  "category": "historical",
+                  "coords": [
+                        45.088996,
+                        40.731781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Բերդատեղ",
+                  "text": "Situl arheologic în Dilidschan.",
+                  "category": "historical",
+                  "coords": [
+                        45.10374,
+                        40.744759
+                  ]
+            },
+            {
+                  "name": "Թփի ղաշ",
+                  "text": "Situl arheologic în Dilidschan.",
+                  "category": "historical",
+                  "coords": [
+                        45.088996,
+                        40.731781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Berdategh",
+                  "text": "Archaeological site in Dilidschan.",
+                  "category": "historical",
+                  "coords": [
+                        45.10374,
+                        40.744759
+                  ]
+            },
+            {
+                  "name": "Tpi ghash",
+                  "text": "Archaeological site in Dilidschan.",
+                  "category": "historical",
+                  "coords": [
+                        45.088996,
+                        40.731781
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-TA",
     coords: [45.0833, 40.7417],
@@ -1061,7 +4076,304 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-sisian-cities-v2",
+    id: "armenia-sisian-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ակսել Բակունցի տուն-թանգարան",
+                  "text": "Das Hausmuseum von Axel Bakunts ist ein besonderes Museum in Sisian.",
+                  "category": "museum",
+                  "coords": [
+                        46.340797,
+                        39.511229
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "Das Archäologische Museum bietet Ausstellungen historischer Artefakte in Sisian.",
+                  "category": "museum",
+                  "coords": [
+                        46.343885,
+                        39.505987
+                  ]
+            },
+            {
+                  "name": "Սերո Խանզադյան թանգարան",
+                  "text": "Das Sero-Khandzradzyan-Museum ist eine kulturelle Einrichtung in Sisian.",
+                  "category": "museum",
+                  "coords": [
+                        46.344135,
+                        39.516104
+                  ]
+            },
+            {
+                  "name": "Գորիսի մուտք",
+                  "text": "Das Goris-Tor ist ein bekanntes Denkmal in Sisian.",
+                  "category": "historical",
+                  "coords": [
+                        46.326702,
+                        39.503669
+                  ]
+            },
+            {
+                  "name": "Գորիսի Զանգեր",
+                  "text": "Die Glocken von Goris sind ein Denkmal in Sisian.",
+                  "category": "historical",
+                  "coords": [
+                        46.362756,
+                        39.515778
+                  ]
+            },
+            {
+                  "name": "Սբ. Հռիփսիմե",
+                  "text": "St. Hripsime ist eine traditionelle Kultstätte in Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.350755,
+                        39.505243
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "St. Gregor der Erleuchter ist eine religiöse Stätte und Kultstätte in Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.345737,
+                        39.5052
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Հռիփսիմե",
+                  "text": "Die St.-Hripsime-Kirche ist ein kirchliches Gotteshaus in Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.314679,
+                        39.533824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ակսել Բակունցի տուն-թանգարան",
+                  "text": "Axel Bakunc Házmúzeuma egy dedikált múzeum Sziszianban.",
+                  "category": "museum",
+                  "coords": [
+                        46.340797,
+                        39.511229
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "A Régészeti Múzeum történelmi műtárgyak kiállításait kínálja Sziszianban.",
+                  "category": "museum",
+                  "coords": [
+                        46.343885,
+                        39.505987
+                  ]
+            },
+            {
+                  "name": "Սերո Խանզադյան թանգարան",
+                  "text": "A Szero Handzradzjan Múzeum egy kulturális intézmény Sziszianban.",
+                  "category": "museum",
+                  "coords": [
+                        46.344135,
+                        39.516104
+                  ]
+            },
+            {
+                  "name": "Գորիսի մուտք",
+                  "text": "A Goris-kapu egy jól ismert emlékmű Sziszianban.",
+                  "category": "historical",
+                  "coords": [
+                        46.326702,
+                        39.503669
+                  ]
+            },
+            {
+                  "name": "Գորիսի Զանգեր",
+                  "text": "A gorisi harangok egy emlékműépítmény Sziszianban.",
+                  "category": "historical",
+                  "coords": [
+                        46.362756,
+                        39.515778
+                  ]
+            },
+            {
+                  "name": "Սբ. Հռիփսիմե",
+                  "text": "A Szent Hripszime egy hagyományos istentiszteleti hely Sziszianban.",
+                  "category": "religious",
+                  "coords": [
+                        46.350755,
+                        39.505243
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "Világosító Szent Gergely egy vallási és istentiszteleti hely Sziszianban.",
+                  "category": "religious",
+                  "coords": [
+                        46.345737,
+                        39.5052
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Հռիփսիմե",
+                  "text": "A Szent Hripszime-templom egy egyházi istentiszteleti hely Sziszianban.",
+                  "category": "religious",
+                  "coords": [
+                        46.314679,
+                        39.533824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ակսել Բակունցի տուն-թանգարան",
+                  "text": "Casa Memorială a lui Axel Bakunts este un muzeu dedicat situat în Sisian.",
+                  "category": "museum",
+                  "coords": [
+                        46.340797,
+                        39.511229
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "Muzeul Arheologic oferă expoziții de artefacte istorice în Sisian.",
+                  "category": "museum",
+                  "coords": [
+                        46.343885,
+                        39.505987
+                  ]
+            },
+            {
+                  "name": "Սերո Խանզադյան թանգարան",
+                  "text": "Muzeul Sero Khandzradzyan este o instituție culturală situată în Sisian.",
+                  "category": "museum",
+                  "coords": [
+                        46.344135,
+                        39.516104
+                  ]
+            },
+            {
+                  "name": "Գորիսի մուտք",
+                  "text": "Poarta Goris este un monument bine-cunoscut ce se află în Sisian.",
+                  "category": "historical",
+                  "coords": [
+                        46.326702,
+                        39.503669
+                  ]
+            },
+            {
+                  "name": "Գորիսի Զանգեր",
+                  "text": "Clopotele din Goris este o structură monumentală aflată în Sisian.",
+                  "category": "historical",
+                  "coords": [
+                        46.362756,
+                        39.515778
+                  ]
+            },
+            {
+                  "name": "Սբ. Հռիփսիմե",
+                  "text": "Sfânta Hripsime este un lăcaș de cult tradițional situat în Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.350755,
+                        39.505243
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գրիգոր Լուսավորիչ եկեղեցի",
+                  "text": "Sfântul Grigorie Iluminatorul este un sit religios și lăcaș de cult din Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.345737,
+                        39.5052
+                  ]
+            },
+            {
+                  "name": "Եկեղեցի Սբ. Հռիփսիմե",
+                  "text": "Biserica Sfânta Hripsime este un lăcaș de cult ecleziastic situat în Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.314679,
+                        39.533824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House Museum of Axel Bakunts",
+                  "text": "The House Museum of Axel Bakunts is a dedicated museum located in Sisian.",
+                  "category": "museum",
+                  "coords": [
+                        46.340797,
+                        39.511229
+                  ]
+            },
+            {
+                  "name": "Archeological Museum",
+                  "text": "The Archeological Museum offers exhibitions of historical artifacts in Sisian.",
+                  "category": "museum",
+                  "coords": [
+                        46.343885,
+                        39.505987
+                  ]
+            },
+            {
+                  "name": "Sero Khandzradzyan Museum",
+                  "text": "The Sero Khandzradzyan Museum is a cultural institution situated in Sisian.",
+                  "category": "museum",
+                  "coords": [
+                        46.344135,
+                        39.516104
+                  ]
+            },
+            {
+                  "name": "Goris Gate",
+                  "text": "The Goris Gate is a well-known monument standing in Sisian.",
+                  "category": "historical",
+                  "coords": [
+                        46.326702,
+                        39.503669
+                  ]
+            },
+            {
+                  "name": "Bells of Goris",
+                  "text": "The Bells of Goris is a monument structure found in Sisian.",
+                  "category": "historical",
+                  "coords": [
+                        46.362756,
+                        39.515778
+                  ]
+            },
+            {
+                  "name": "St. Hripsime",
+                  "text": "St. Hripsime is a traditional place of worship located in Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.350755,
+                        39.505243
+                  ]
+            },
+            {
+                  "name": "Saint Gregory The Illuminator",
+                  "text": "Saint Gregory The Illuminator is a religious site and place of worship in Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.345737,
+                        39.5052
+                  ]
+            },
+            {
+                  "name": "Saint Hripsime Church",
+                  "text": "Saint Hripsime Church is an ecclesiastical place of worship situated in Sisian.",
+                  "category": "religious",
+                  "coords": [
+                        46.314679,
+                        39.533824
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-SU",
     coords: [46.3314, 39.5256],
@@ -1117,7 +4429,304 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-alaverdi-cities-v2",
+    id: "armenia-alaverdi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Museum of Armenia(Alaverdi Branch)",
+                  "text": "Das Nationalmuseum von Armenien (Zweigstelle Alaverdi) ist ein kulturelles Museum in Alawerdi.",
+                  "category": "museum",
+                  "coords": [
+                        44.653201,
+                        41.098844
+                  ]
+            },
+            {
+                  "name": "Կոշաբերդ Ամրոց",
+                  "text": "Die Festung Koshaberd ist eine historische Burganlage in Alawerdi.",
+                  "category": "castle",
+                  "coords": [
+                        44.667607,
+                        41.107111
+                  ]
+            },
+            {
+                  "name": "Միկոյան եղբայների թանգարան",
+                  "text": "Das Mikoyan-Brüder-Museum ist ein lokales Museum in Alawerdi.",
+                  "category": "museum",
+                  "coords": [
+                        44.667651,
+                        41.089844
+                  ]
+            },
+            {
+                  "name": "Դարք",
+                  "text": "Dark ist ein natürlicher Berggipfel in der Nähe von Alawerdi.",
+                  "category": "natural",
+                  "coords": [
+                        44.629898,
+                        41.111952
+                  ]
+            },
+            {
+                  "name": "Sanahin bridge",
+                  "text": "Die Sanahin-Brücke ist eine bemerkenswerte Touristenattraktion in Alawerdi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.657548,
+                        41.099001
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Das Kulturhaus dient als Kunstzentrum in Alawerdi.",
+                  "category": "cultural",
+                  "coords": [
+                        44.658243,
+                        41.091653
+                  ]
+            },
+            {
+                  "name": "Часовня Св. Арутюн",
+                  "text": "Часовня Св. Арутюн ist eine lokale Attraktion in Alawerdi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.667587,
+                        41.086469
+                  ]
+            },
+            {
+                  "name": "Միջնադարյան ժամատուն սուրբ Սարգիս",
+                  "text": "Die Kapelle St. Sarkis ist eine Kultstätte in Alawerdi.",
+                  "category": "religious",
+                  "coords": [
+                        44.660965,
+                        41.087301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Museum of Armenia(Alaverdi Branch)",
+                  "text": "Az Örmény Nemzeti Múzeum (Alaverdi fiókintézménye) egy kulturális múzeum Alawerdiben.",
+                  "category": "museum",
+                  "coords": [
+                        44.653201,
+                        41.098844
+                  ]
+            },
+            {
+                  "name": "Կոշաբերդ Ամրոց",
+                  "text": "A Koshaberd erőd egy történelmi kastélyépület Alawerdiben.",
+                  "category": "castle",
+                  "coords": [
+                        44.667607,
+                        41.107111
+                  ]
+            },
+            {
+                  "name": "Միկոյան եղբայների թանգարան",
+                  "text": "A Mikojan fivérek múzeuma egy helyi múzeum Alawerdi városában.",
+                  "category": "museum",
+                  "coords": [
+                        44.667651,
+                        41.089844
+                  ]
+            },
+            {
+                  "name": "Դարք",
+                  "text": "A Dark egy természetes hegycsúcs Alawerdi közelében.",
+                  "category": "natural",
+                  "coords": [
+                        44.629898,
+                        41.111952
+                  ]
+            },
+            {
+                  "name": "Sanahin bridge",
+                  "text": "A Szanahin-híd egy jelentős turisztikai látványosság Alawerdiben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.657548,
+                        41.099001
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "A Kultúrház művészeti központként működik Alawerdiben.",
+                  "category": "cultural",
+                  "coords": [
+                        44.658243,
+                        41.091653
+                  ]
+            },
+            {
+                  "name": "Часовня Св. Арутюн",
+                  "text": "A Часовня Св. Арутюн egy helyi látványosság Alawerdiben.",
+                  "category": "landmark",
+                  "coords": [
+                        44.667587,
+                        41.086469
+                  ]
+            },
+            {
+                  "name": "Միջնադարյան ժամատուն սուրբ Սարգիս",
+                  "text": "A St. Sarkis-kápolna egy istentiszteleti hely Alawerdiben.",
+                  "category": "religious",
+                  "coords": [
+                        44.660965,
+                        41.087301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Museum of Armenia(Alaverdi Branch)",
+                  "text": "Muzeul Național al Armeniei (Filiala Alaverdi) este un muzeu cultural situat în Alawerdi.",
+                  "category": "museum",
+                  "coords": [
+                        44.653201,
+                        41.098844
+                  ]
+            },
+            {
+                  "name": "Կոշաբերդ Ամրոց",
+                  "text": "Cetatea Koshaberd este un castel istoric din Alawerdi.",
+                  "category": "castle",
+                  "coords": [
+                        44.667607,
+                        41.107111
+                  ]
+            },
+            {
+                  "name": "Միկոյան եղբայների թանգարան",
+                  "text": "Muzeul Fraților Mikoyan este un muzeu local situat în Alawerdi.",
+                  "category": "museum",
+                  "coords": [
+                        44.667651,
+                        41.089844
+                  ]
+            },
+            {
+                  "name": "Դարք",
+                  "text": "Dark este un vârf muntos natural situat în Alawerdi.",
+                  "category": "natural",
+                  "coords": [
+                        44.629898,
+                        41.111952
+                  ]
+            },
+            {
+                  "name": "Sanahin bridge",
+                  "text": "Podul Sanahin este o atracție turistică notabilă în Alawerdi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.657548,
+                        41.099001
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Casa de Cultură servește drept centru de arte în Alawerdi.",
+                  "category": "cultural",
+                  "coords": [
+                        44.658243,
+                        41.091653
+                  ]
+            },
+            {
+                  "name": "Часовня Св. Арутюн",
+                  "text": "Часовня Св. Арутюн este o atracție locală aflată în Alawerdi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.667587,
+                        41.086469
+                  ]
+            },
+            {
+                  "name": "Միջնադարյան ժամատուն սուրբ Սարգիս",
+                  "text": "Capela Sf. Sarkis este un lăcaș de cult în Alawerdi.",
+                  "category": "religious",
+                  "coords": [
+                        44.660965,
+                        41.087301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Armenia(Alaverdi Branch)",
+                  "text": "The National Museum of Armenia (Alaverdi Branch) is a cultural museum located in Alawerdi.",
+                  "category": "museum",
+                  "coords": [
+                        44.653201,
+                        41.098844
+                  ]
+            },
+            {
+                  "name": "Koshaberd Fortress",
+                  "text": "Koshaberd Fortress is a historic castle structure in Alawerdi.",
+                  "category": "castle",
+                  "coords": [
+                        44.667607,
+                        41.107111
+                  ]
+            },
+            {
+                  "name": "Mikoyan Brothers Museum",
+                  "text": "The Mikoyan Brothers Museum is a local museum situated in Alawerdi.",
+                  "category": "museum",
+                  "coords": [
+                        44.667651,
+                        41.089844
+                  ]
+            },
+            {
+                  "name": "Dark",
+                  "text": "Dark is a natural mountain peak located in Alawerdi.",
+                  "category": "natural",
+                  "coords": [
+                        44.629898,
+                        41.111952
+                  ]
+            },
+            {
+                  "name": "Sanahin bridge",
+                  "text": "The Sanahin bridge is a notable tourist attraction in Alawerdi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.657548,
+                        41.099001
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "The House of Culture serves as an arts centre in Alawerdi.",
+                  "category": "cultural",
+                  "coords": [
+                        44.658243,
+                        41.091653
+                  ]
+            },
+            {
+                  "name": "Часовня Св. Арутюн",
+                  "text": "Часовня Св. Арутюн is a local attraction found in Alawerdi.",
+                  "category": "landmark",
+                  "coords": [
+                        44.667587,
+                        41.086469
+                  ]
+            },
+            {
+                  "name": "Chapel of St. Sarkis",
+                  "text": "The Chapel of St. Sarkis is a place of worship in Alawerdi.",
+                  "category": "religious",
+                  "coords": [
+                        44.660965,
+                        41.087301
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-LO",
     coords: [44.6547, 41.1006],
@@ -1173,7 +4782,160 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-stepanavan-cities-v2",
+    id: "armenia-stepanavan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ստեփան Շահումյանի թանգարան",
+                  "text": "Museum in Stepanawan.",
+                  "category": "museum",
+                  "coords": [
+                        44.383983,
+                        41.008817
+                  ]
+            },
+            {
+                  "name": "Սոս Սարգսյան",
+                  "text": "Denkmal in Stepanawan.",
+                  "category": "historical",
+                  "coords": [
+                        44.382454,
+                        41.00719
+                  ]
+            },
+            {
+                  "name": "Ստեփան Շահումյան",
+                  "text": "Denkmal in Stepanawan.",
+                  "category": "historical",
+                  "coords": [
+                        44.384471,
+                        41.011079
+                  ]
+            },
+            {
+                  "name": "Մայորի ձոր",
+                  "text": "Sehenswürdigkeit in Stepanawan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.404061,
+                        41.009733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ստեփան Շահումյանի թանգարան",
+                  "text": "Múzeum Sztepanavanban.",
+                  "category": "museum",
+                  "coords": [
+                        44.383983,
+                        41.008817
+                  ]
+            },
+            {
+                  "name": "Սոս Սարգսյան",
+                  "text": "Emlékmű Sztepanavanban.",
+                  "category": "historical",
+                  "coords": [
+                        44.382454,
+                        41.00719
+                  ]
+            },
+            {
+                  "name": "Ստեփան Շահումյան",
+                  "text": "Emlékmű Sztepanavanban.",
+                  "category": "historical",
+                  "coords": [
+                        44.384471,
+                        41.011079
+                  ]
+            },
+            {
+                  "name": "Մայորի ձոր",
+                  "text": "Látnivaló Sztepanavanban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.404061,
+                        41.009733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ստեփան Շահումյանի թանգարան",
+                  "text": "Muzeu în Stepanawan.",
+                  "category": "museum",
+                  "coords": [
+                        44.383983,
+                        41.008817
+                  ]
+            },
+            {
+                  "name": "Սոս Սարգսյան",
+                  "text": "Monument în Stepanawan.",
+                  "category": "historical",
+                  "coords": [
+                        44.382454,
+                        41.00719
+                  ]
+            },
+            {
+                  "name": "Ստեփան Շահումյան",
+                  "text": "Monument în Stepanawan.",
+                  "category": "historical",
+                  "coords": [
+                        44.384471,
+                        41.011079
+                  ]
+            },
+            {
+                  "name": "Մայորի ձոր",
+                  "text": "Atracție în Stepanawan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.404061,
+                        41.009733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stepan Shaumian's Museum",
+                  "text": "Museum in Stepanawan.",
+                  "category": "museum",
+                  "coords": [
+                        44.383983,
+                        41.008817
+                  ]
+            },
+            {
+                  "name": "Սոս Սարգսյան",
+                  "text": "Monument in Stepanawan.",
+                  "category": "historical",
+                  "coords": [
+                        44.382454,
+                        41.00719
+                  ]
+            },
+            {
+                  "name": "Stepan Shahumyan",
+                  "text": "Monument in Stepanawan.",
+                  "category": "historical",
+                  "coords": [
+                        44.384471,
+                        41.011079
+                  ]
+            },
+            {
+                  "name": "Mayori dzor",
+                  "text": "Attraction in Stepanawan.",
+                  "category": "landmark",
+                  "coords": [
+                        44.404061,
+                        41.009733
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-LO",
     coords: [44.3853, 41.0064],
@@ -1229,7 +4991,52 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-spitak-cities-v2",
+    id: "armenia-spitak-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Սպիտակի Սուրբ Հարություն եկեղեցի",
+                  "text": "Die St.-Harutyun-Kirche ist ein lokales Gotteshaus in der Stadt Spitak.",
+                  "category": "religious",
+                  "coords": [
+                        44.268741,
+                        40.829843
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Սպիտակի Սուրբ Հարություն եկեղեցի",
+                  "text": "A Szent Harutyun-templom egy helyi istentiszteleti hely Spitak városában.",
+                  "category": "religious",
+                  "coords": [
+                        44.268741,
+                        40.829843
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Սպիտակի Սուրբ Հարություն եկեղեցի",
+                  "text": "Biserica Sfântul Harutyun este un lăcaș de cult local din orașul Spitak.",
+                  "category": "religious",
+                  "coords": [
+                        44.268741,
+                        40.829843
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Harutyun Church",
+                  "text": "St. Harutyun Church is a local place of worship in the city of Spitak.",
+                  "category": "religious",
+                  "coords": [
+                        44.268741,
+                        40.829843
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-LO",
     coords: [44.2694, 40.8358],
@@ -1509,7 +5316,376 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenia-metsamor-cities-v2",
+    id: "armenia-metsamor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Խորեն Տեր-Հարությանի թանգարան",
+                  "text": "Kunstmuseum in Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.16209
+                  ]
+            },
+            {
+                  "name": "Էջմիածին",
+                  "text": "Kloster in Mezamor.",
+                  "category": "religious",
+                  "coords": [
+                        44.291274,
+                        40.161884
+                  ]
+            },
+            {
+                  "name": "Հ.Հովհաննիսյանի անվան թանգարան",
+                  "text": "Museum in Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Էջմիածնի պատմաազգագրական թանգարան",
+                  "text": "Geschichtsmuseum in Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.29447,
+                        40.16453
+                  ]
+            },
+            {
+                  "name": "Ալեք և Մարի Մանուկյան Գանձատուն",
+                  "text": "Schatzkammer-Museum in Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Եղիշե Չարենց",
+                  "text": "Denkmal in Mezamor.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Sehenswürdigkeit in Mezamor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160486
+                  ]
+            },
+            {
+                  "name": "Մաչանենց տուն",
+                  "text": "Sehenswürdigkeit in Mezamor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանե եկեղեցի",
+                  "text": "Kirche in Mezamor.",
+                  "category": "religious",
+                  "coords": [
+                        44.291854,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Սրբոց Հրեշտակապետաց եկեղեցի",
+                  "text": "Kirche in Mezamor.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.162609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Խորեն Տեր-Հարությանի թանգարան",
+                  "text": "Művészeti múzeum Mecamorban.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.16209
+                  ]
+            },
+            {
+                  "name": "Էջմիածին",
+                  "text": "Kolostor Mecamorban.",
+                  "category": "religious",
+                  "coords": [
+                        44.291274,
+                        40.161884
+                  ]
+            },
+            {
+                  "name": "Հ.Հովհաննիսյանի անվան թանգարան",
+                  "text": "Múzeum Mecamorban.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Էջմիածնի պատմաազգագրական թանգարան",
+                  "text": "Történeti múzeum Mecamorban.",
+                  "category": "museum",
+                  "coords": [
+                        44.29447,
+                        40.16453
+                  ]
+            },
+            {
+                  "name": "Ալեք և Մարի Մանուկյան Գանձատուն",
+                  "text": "Kincstári múzeum Mecamorban.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Եղիշե Չարենց",
+                  "text": "Emlékmű Mecamorban.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Látnivaló Mecamorban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160486
+                  ]
+            },
+            {
+                  "name": "Մաչանենց տուն",
+                  "text": "Látnivaló Mecamorban.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանե եկեղեցի",
+                  "text": "Templom Mecamorban.",
+                  "category": "religious",
+                  "coords": [
+                        44.291854,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Սրբոց Հրեշտակապետաց եկեղեցի",
+                  "text": "Templom Mecamorban.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.162609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Խորեն Տեր-Հարությանի թանգարան",
+                  "text": "Muzeu de artă în Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.16209
+                  ]
+            },
+            {
+                  "name": "Էջմիածին",
+                  "text": "Mănăstire în Mezamor.",
+                  "category": "religious",
+                  "coords": [
+                        44.291274,
+                        40.161884
+                  ]
+            },
+            {
+                  "name": "Հ.Հովհաննիսյանի անվան թանգարան",
+                  "text": "Muzeu în Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Էջմիածնի պատմաազգագրական թանգարան",
+                  "text": "Muzeu de istorie în Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.29447,
+                        40.16453
+                  ]
+            },
+            {
+                  "name": "Ալեք և Մարի Մանուկյան Գանձատուն",
+                  "text": "Muzeu de tezaur în Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Եղիշե Չարենց",
+                  "text": "Monument în Mezamor.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Atracție în Mezamor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160486
+                  ]
+            },
+            {
+                  "name": "Մաչանենց տուն",
+                  "text": "Atracție în Mezamor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Սուրբ Գայանե եկեղեցի",
+                  "text": "Biserică în Mezamor.",
+                  "category": "religious",
+                  "coords": [
+                        44.291854,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Սրբոց Հրեշտակապետաց եկեղեցի",
+                  "text": "Biserică în Mezamor.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.162609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khoren Ter-Harutyunyan Museum",
+                  "text": "Art museum in Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.294521,
+                        40.16209
+                  ]
+            },
+            {
+                  "name": "Etchmiadzin",
+                  "text": "Monastery in Mezamor.",
+                  "category": "religious",
+                  "coords": [
+                        44.291274,
+                        40.161884
+                  ]
+            },
+            {
+                  "name": "Museum aft. Hovhanes Hovhanisyan",
+                  "text": "Museum in Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.292821,
+                        40.163583
+                  ]
+            },
+            {
+                  "name": "Historical and Ethnographic Museum of Ejmiatsin",
+                  "text": "History museum in Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.29447,
+                        40.16453
+                  ]
+            },
+            {
+                  "name": "Alex and Marie Manoogian Treasury House",
+                  "text": "Treasury museum in Mezamor.",
+                  "category": "museum",
+                  "coords": [
+                        44.288464,
+                        40.161332
+                  ]
+            },
+            {
+                  "name": "Egishe Charents",
+                  "text": "Monument in Mezamor.",
+                  "category": "historical",
+                  "coords": [
+                        44.282914,
+                        40.160768
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "Attraction in Mezamor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.295287,
+                        40.160486
+                  ]
+            },
+            {
+                  "name": "Machanents home",
+                  "text": "Attraction in Mezamor.",
+                  "category": "landmark",
+                  "coords": [
+                        44.298038,
+                        40.16068
+                  ]
+            },
+            {
+                  "name": "Saint Gayane Church",
+                  "text": "Church in Mezamor.",
+                  "category": "religious",
+                  "coords": [
+                        44.291854,
+                        40.157481
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Archangels",
+                  "text": "Church in Mezamor.",
+                  "category": "religious",
+                  "coords": [
+                        44.293462,
+                        40.162609
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AM-AR",
     coords: [44.2869, 40.1436],

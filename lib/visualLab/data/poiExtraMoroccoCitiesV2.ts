@@ -3,7 +3,1672 @@ import type { POI } from "./poi";
 
 export const poiExtraMoroccoCitiesV2: POI[] = [
   {
-    id: "ma-casablanca-cities-v2",
+    id: "ma-casablanca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église orthodoxe russe de la Dormition",
+                  "text": "Die Église orthodoxe russe de la Dormition ist eine russisch-orthodoxe Kirche in Casablanca.",
+                  "category": "religious",
+                  "coords": [
+                        -7.622635,
+                        33.582016
+                  ]
+            },
+            {
+                  "name": "Twin Center",
+                  "text": "Das Twin Center ist ein bemerkenswerter Komplex aus zwei Wolkenkratzern und ein markantes Wahrzeichen in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.632292,
+                        33.586584
+                  ]
+            },
+            {
+                  "name": "Place des Nations Unies ساحة الأمم المتحدة",
+                  "text": "Der United Nations Square ist ein belebter öffentlicher Platz und wichtiges Handelszentrum im Herzen von Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.618664,
+                        33.594996
+                  ]
+            },
+            {
+                  "name": "Murdoch Park",
+                  "text": "Der Murdoch Park ist ein öffentlicher Stadtpark in Casablanca.",
+                  "category": "park",
+                  "coords": [
+                        -7.613173,
+                        33.57942
+                  ]
+            },
+            {
+                  "name": "Parc de la Ligue Arabe حديقة الجامعة العربية",
+                  "text": "Der Parc de la Ligue Arabe ist der größte öffentliche Park in der Stadt Casablanca.",
+                  "category": "park",
+                  "coords": [
+                        -7.624064,
+                        33.588272
+                  ]
+            },
+            {
+                  "name": "Temple Beth El معبد بيت إيل",
+                  "text": "Die Beth El Synagoge ist ein jüdisches Gotteshaus in Casablanca.",
+                  "category": "religious",
+                  "coords": [
+                        -7.626833,
+                        33.595761
+                  ]
+            },
+            {
+                  "name": "Parc du Vélodrome حديقة الڤيلودروم",
+                  "text": "Der Parc du Vélodrome ist eine öffentliche Grünanlage in Casablanca.",
+                  "category": "park",
+                  "coords": [
+                        -7.645638,
+                        33.589411
+                  ]
+            },
+            {
+                  "name": "Musée de la Fondation Abderrahman slaoui",
+                  "text": "Dieses Museum in Casablanca stellt Kunstsammlungen und historische Artefakte aus.",
+                  "category": "museum",
+                  "coords": [
+                        -7.622616,
+                        33.592402
+                  ]
+            },
+            {
+                  "name": "Attarik Foundation",
+                  "text": "Die Attarik Foundation fungiert als Museum und Ausstellungsraum in Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.619778,
+                        33.606499
+                  ]
+            },
+            {
+                  "name": "Villa des Arts دار الفنون",
+                  "text": "Die Villa des Arts ist ein Museum für zeitgenössische Kunst in Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.629555,
+                        33.586425
+                  ]
+            },
+            {
+                  "name": "L'Atelier 21",
+                  "text": "L'Atelier 21 ist eine Kunstgalerie in Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.643257,
+                        33.586106
+                  ]
+            },
+            {
+                  "name": "Loft Art Gallery",
+                  "text": "Die Loft Art Gallery ist eine lokale Kunstgalerie in Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.643821,
+                        33.592298
+                  ]
+            },
+            {
+                  "name": "Galerie Nadar",
+                  "text": "Die Galerie Nadar ist eine Kunstgalerie in der Stadt Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.633406,
+                        33.585938
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "Das Théâtre Mohammed VI ist ein Veranstaltungsort für darstellende Künste in Casablanca.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.597061,
+                        33.591495
+                  ]
+            },
+            {
+                  "name": "Centre cinématographique marocain",
+                  "text": "Dieses Kunstzentrum in Casablanca widmet sich der marokkanischen Filmindustrie.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.627904,
+                        33.594633
+                  ]
+            },
+            {
+                  "name": "سوق بنجدية",
+                  "text": "Dieser traditionelle Markt ist eine lokale Einkaufsattraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610715,
+                        33.585676
+                  ]
+            },
+            {
+                  "name": "Elmanjra قسارية المنجرة",
+                  "text": "Elmanjra ist ein Handelsmarkt und eine Besucherattraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.603073,
+                        33.568518
+                  ]
+            },
+            {
+                  "name": "Kissariat Casa 1",
+                  "text": "Kissariat Casa 1 ist ein belebter Marktplatz in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.606896,
+                        33.585564
+                  ]
+            },
+            {
+                  "name": "سوق جمله",
+                  "text": "Dieser große Großmarkt dient als Handelszentrum und Attraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.611969,
+                        33.590362
+                  ]
+            },
+            {
+                  "name": "Garage Allel",
+                  "text": "Garage Allel ist ein bekannter Marktbezirk in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.601366,
+                        33.575209
+                  ]
+            },
+            {
+                  "name": "قيسارية العطارين",
+                  "text": "Diese traditionelle Kissaria ist eine beliebte Einkaufsattraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.600121,
+                        33.577366
+                  ]
+            },
+            {
+                  "name": "حديقة الجامعة العربية",
+                  "text": "Diese Attraktion ist Teil des Parks der Arabischen Liga in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.623625,
+                        33.589202
+                  ]
+            },
+            {
+                  "name": "Coupole Zevaco الكرة الأرضية",
+                  "text": "Die Coupole Zevaco ist eine ikonische kugelförmige architektonische Attraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.617628,
+                        33.596455
+                  ]
+            },
+            {
+                  "name": "Kissariat elbaraka",
+                  "text": "Kissariat elbaraka ist ein lokaler Marktplatz in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.612682,
+                        33.593174
+                  ]
+            },
+            {
+                  "name": "Kissariat Taieba",
+                  "text": "Kissariat Taieba ist ein Geschäftszentrum und eine lokale Attraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.611392,
+                        33.593575
+                  ]
+            },
+            {
+                  "name": "WeCasablanca Sign",
+                  "text": "Das WeCasablanca Sign ist eine beliebte Fotoattraktion in der Stadt Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.618276,
+                        33.591649
+                  ]
+            },
+            {
+                  "name": "Kissariat Akrim",
+                  "text": "Kissariat Akrim ist eine lebhafte Einkaufsattraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598187,
+                        33.574562
+                  ]
+            },
+            {
+                  "name": "Kissariat Al Andalous",
+                  "text": "Kissariat Al Andalous ist eine bekannte Marktattraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598813,
+                        33.573063
+                  ]
+            },
+            {
+                  "name": "قيسارية أخماسي",
+                  "text": "Kissaria Akhmasi ist ein lokaler Handelsmarkt in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.597812,
+                        33.572685
+                  ]
+            },
+            {
+                  "name": "Kissariat Ben Slimane",
+                  "text": "Kissariat Ben Slimane ist eine traditionelle Einkaufspassage in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.599187,
+                        33.574062
+                  ]
+            },
+            {
+                  "name": "Derb Sultan Gallery",
+                  "text": "Die Derb Sultan Gallery ist eine Einkaufsattraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.599312,
+                        33.57544
+                  ]
+            },
+            {
+                  "name": "سوق البيض بالجملة",
+                  "text": "Dieser Großmarkt ist eine spezialisierte lokale Handelsattraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.603243,
+                        33.583565
+                  ]
+            },
+            {
+                  "name": "قيسارية الأمراء",
+                  "text": "Kissaria Al Oumara ist eine Einzelhandelsattraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.600062,
+                        33.578438
+                  ]
+            },
+            {
+                  "name": "Kissariat El Fath",
+                  "text": "Kissariat El Fath ist eine kommerzielle Attraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598563,
+                        33.577812
+                  ]
+            },
+            {
+                  "name": "Caesarea 15 Ramadan",
+                  "text": "Caesarea 15 Ramadan ist eine gewerbliche Einkaufspassage in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.609188,
+                        33.587688
+                  ]
+            },
+            {
+                  "name": "Kissariat El Haffari",
+                  "text": "Kissariat El Haffari ist ein lokaler Handelsmarkt in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.601562,
+                        33.573189
+                  ]
+            },
+            {
+                  "name": "مركز سوق الحبوس",
+                  "text": "Das Habous Market Center ist eine traditionelle Attraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.604563,
+                        33.577812
+                  ]
+            },
+            {
+                  "name": "derb kabir",
+                  "text": "Derb Kabir ist ein Stadtviertel mit lokalen Einkaufsattraktionen in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.595813,
+                        33.573437
+                  ]
+            },
+            {
+                  "name": "قيسارية الزاس",
+                  "text": "Die Kissaria Alsace ist eine beliebte kommerzielle Galerie in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608313,
+                        33.586563
+                  ]
+            },
+            {
+                  "name": "برج الياقوت",
+                  "text": "Dieses Turmgebäude ist eine architektonische und kommerzielle Attraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610187,
+                        33.589062
+                  ]
+            },
+            {
+                  "name": "Kissariat Al Omra",
+                  "text": "Kissariat Al Omra ist eine lokale Einkaufsattraktion in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.609813,
+                        33.591686
+                  ]
+            },
+            {
+                  "name": "غرفة التجارة الصناعية و الخدمات",
+                  "text": "Die Industrie- und Handelskammer ist eine institutionelle Einrichtung in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.613688,
+                        33.594814
+                  ]
+            },
+            {
+                  "name": "Kissaria",
+                  "text": "Diese traditionelle Kissaria bietet ein lokales Markterlebnis in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608938,
+                        33.589813
+                  ]
+            },
+            {
+                  "name": "Kissariate safrioui",
+                  "text": "Kissariate safrioui ist ein regionaler Marktplatz in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610563,
+                        33.590687
+                  ]
+            },
+            {
+                  "name": "Palais Royal de Casablanca",
+                  "text": "Der Palais Royal ist eine königliche Residenz und ein wichtiges Wahrzeichen in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.604673,
+                        33.580228
+                  ]
+            },
+            {
+                  "name": "Joutia de Derb Ghallef جوطية درب غلف",
+                  "text": "Joutia de Derb Ghallef ist ein berühmter großer Flohmarkt in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.629795,
+                        33.570837
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église orthodoxe russe de la Dormition",
+                  "text": "Az Église orthodoxe russe de la Dormition egy orosz ortodox templom Casablanca városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.622635,
+                        33.582016
+                  ]
+            },
+            {
+                  "name": "Twin Center",
+                  "text": "A Twin Center két felhőkarcolóból álló komplexum, amely Casablanca egyik meghatározó nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.632292,
+                        33.586584
+                  ]
+            },
+            {
+                  "name": "Place des Nations Unies ساحة الأمم المتحدة",
+                  "text": "A United Nations Square egy nyüzsgő központi tér és jelentős kereskedelmi csomópont Casablanca szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.618664,
+                        33.594996
+                  ]
+            },
+            {
+                  "name": "Murdoch Park",
+                  "text": "A Murdoch Park egy nyilvános városi park Casablancában.",
+                  "category": "park",
+                  "coords": [
+                        -7.613173,
+                        33.57942
+                  ]
+            },
+            {
+                  "name": "Parc de la Ligue Arabe حديقة الجامعة العربية",
+                  "text": "A Parc de la Ligue Arabe Casablanca legnagyobb nyilvános parkja.",
+                  "category": "park",
+                  "coords": [
+                        -7.624064,
+                        33.588272
+                  ]
+            },
+            {
+                  "name": "Temple Beth El معبد بيت إيل",
+                  "text": "A Beth El Zsinagóga egy zsidó istentiszteleti hely Casablancában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.626833,
+                        33.595761
+                  ]
+            },
+            {
+                  "name": "Parc du Vélodrome حديقة الڤيلودروم",
+                  "text": "A Parc du Vélodrome egy nyilvános zöldterület Casablancában.",
+                  "category": "park",
+                  "coords": [
+                        -7.645638,
+                        33.589411
+                  ]
+            },
+            {
+                  "name": "Musée de la Fondation Abderrahman slaoui",
+                  "text": "Ez a casablancai múzeum művészeti gyűjteményeket és történelmi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.622616,
+                        33.592402
+                  ]
+            },
+            {
+                  "name": "Attarik Foundation",
+                  "text": "Az Attarik Foundation múzeumként és kiállítótérként működik Casablancában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.619778,
+                        33.606499
+                  ]
+            },
+            {
+                  "name": "Villa des Arts دار الفنون",
+                  "text": "A Villa des Arts egy kortárs művészeteknek szentelt múzeum Casablancában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.629555,
+                        33.586425
+                  ]
+            },
+            {
+                  "name": "L'Atelier 21",
+                  "text": "A L'Atelier 21 egy művészeti galéria Casablancában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.643257,
+                        33.586106
+                  ]
+            },
+            {
+                  "name": "Loft Art Gallery",
+                  "text": "A Loft Art Gallery egy helyi művészeti galéria Casablancában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.643821,
+                        33.592298
+                  ]
+            },
+            {
+                  "name": "Galerie Nadar",
+                  "text": "A Galerie Nadar egy művészeti galéria Casablanca városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.633406,
+                        33.585938
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "A Théâtre Mohammed VI egy előadó-művészeti helyszín Casablancában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.597061,
+                        33.591495
+                  ]
+            },
+            {
+                  "name": "Centre cinématographique marocain",
+                  "text": "Ez a casablancai művészeti központ a marokkói filmiparnak szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.627904,
+                        33.594633
+                  ]
+            },
+            {
+                  "name": "سوق بنجدية",
+                  "text": "Ez a hagyományos piac egy helyi bevásárlási látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610715,
+                        33.585676
+                  ]
+            },
+            {
+                  "name": "Elmanjra قسارية المنجرة",
+                  "text": "Az Elmanjra egy kereskedelmi piac és látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.603073,
+                        33.568518
+                  ]
+            },
+            {
+                  "name": "Kissariat Casa 1",
+                  "text": "A Kissariat Casa 1 egy nyüzsgő piactér Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.606896,
+                        33.585564
+                  ]
+            },
+            {
+                  "name": "سوق جمله",
+                  "text": "Ez a nagy nagykereskedelmi piac kereskedelmi központként és látványosságként szolgál Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.611969,
+                        33.590362
+                  ]
+            },
+            {
+                  "name": "Garage Allel",
+                  "text": "A Garage Allel egy jól ismert piaci negyed Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.601366,
+                        33.575209
+                  ]
+            },
+            {
+                  "name": "قيسارية العطارين",
+                  "text": "Ez a hagyományos kissaria egy népszerű bevásárló látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.600121,
+                        33.577366
+                  ]
+            },
+            {
+                  "name": "حديقة الجامعة العربية",
+                  "text": "Ez a látványosság a casablancai Arab Liga Park része.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.623625,
+                        33.589202
+                  ]
+            },
+            {
+                  "name": "Coupole Zevaco الكرة الأرضية",
+                  "text": "A Coupole Zevaco egy ikonikus gömb alakú építészeti látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.617628,
+                        33.596455
+                  ]
+            },
+            {
+                  "name": "Kissariat elbaraka",
+                  "text": "A Kissariat elbaraka egy helyi piactér Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.612682,
+                        33.593174
+                  ]
+            },
+            {
+                  "name": "Kissariat Taieba",
+                  "text": "A Kissariat Taieba egy bevásárlóközpont és helyi látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.611392,
+                        33.593575
+                  ]
+            },
+            {
+                  "name": "WeCasablanca Sign",
+                  "text": "A WeCasablanca Sign egy népszerű fotós látványosság Casablanca városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.618276,
+                        33.591649
+                  ]
+            },
+            {
+                  "name": "Kissariat Akrim",
+                  "text": "A Kissariat Akrim egy nyüzsgő bevásárló látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598187,
+                        33.574562
+                  ]
+            },
+            {
+                  "name": "Kissariat Al Andalous",
+                  "text": "A Kissariat Al Andalous egy jól ismert piaci látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598813,
+                        33.573063
+                  ]
+            },
+            {
+                  "name": "قيسارية أخماسي",
+                  "text": "A Kissaria Akhmasi egy helyi kereskedelmi piac Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.597812,
+                        33.572685
+                  ]
+            },
+            {
+                  "name": "Kissariat Ben Slimane",
+                  "text": "A Kissariat Ben Slimane egy hagyományos bevásárlóárkád Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.599187,
+                        33.574062
+                  ]
+            },
+            {
+                  "name": "Derb Sultan Gallery",
+                  "text": "A Derb Sultan Gallery egy bevásárló látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.599312,
+                        33.57544
+                  ]
+            },
+            {
+                  "name": "سوق البيض بالجملة",
+                  "text": "Ez a nagykereskedelmi piac egy speciális helyi kereskedelmi látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.603243,
+                        33.583565
+                  ]
+            },
+            {
+                  "name": "قيسارية الأمراء",
+                  "text": "A Kissaria Al Oumara egy kiskereskedelmi látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.600062,
+                        33.578438
+                  ]
+            },
+            {
+                  "name": "Kissariat El Fath",
+                  "text": "A Kissariat El Fath egy kereskedelmi látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598563,
+                        33.577812
+                  ]
+            },
+            {
+                  "name": "Caesarea 15 Ramadan",
+                  "text": "A Caesarea 15 Ramadan egy kereskedelmi bevásárlóárkád Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.609188,
+                        33.587688
+                  ]
+            },
+            {
+                  "name": "Kissariat El Haffari",
+                  "text": "A Kissariat El Haffari egy helyi kereskedelmi piac Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.601562,
+                        33.573189
+                  ]
+            },
+            {
+                  "name": "مركز سوق الحبوس",
+                  "text": "A Habous Market Center egy hagyományos látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.604563,
+                        33.577812
+                  ]
+            },
+            {
+                  "name": "derb kabir",
+                  "text": "A Derb Kabir egy olyan negyed, amely helyi bevásárlási látványosságokat kínál Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.595813,
+                        33.573437
+                  ]
+            },
+            {
+                  "name": "قيسارية الزاس",
+                  "text": "A Kissaria Alsace egy népszerű kereskedelmi galéria Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608313,
+                        33.586563
+                  ]
+            },
+            {
+                  "name": "برج الياقوت",
+                  "text": "Ez a toronyépület egy építészeti és kereskedelmi látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610187,
+                        33.589062
+                  ]
+            },
+            {
+                  "name": "Kissariat Al Omra",
+                  "text": "A Kissariat Al Omra egy helyi bevásárló látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.609813,
+                        33.591686
+                  ]
+            },
+            {
+                  "name": "غرفة التجارة الصناعية و الخدمات",
+                  "text": "A Kereskedelmi és Iparkamara egy intézményi látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.613688,
+                        33.594814
+                  ]
+            },
+            {
+                  "name": "Kissaria",
+                  "text": "Ez a hagyományos kissaria helyi piaci élményt kínál Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608938,
+                        33.589813
+                  ]
+            },
+            {
+                  "name": "Kissariate safrioui",
+                  "text": "A Kissariate safrioui egy regionális piactéri látványosság Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610563,
+                        33.590687
+                  ]
+            },
+            {
+                  "name": "Palais Royal de Casablanca",
+                  "text": "A Palais Royal egy királyi rezidencia és fontos nevezetesség Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.604673,
+                        33.580228
+                  ]
+            },
+            {
+                  "name": "Joutia de Derb Ghallef جوطية درب غلف",
+                  "text": "A Joutia de Derb Ghallef egy híres, hatalmas bolhapiac Casablancában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.629795,
+                        33.570837
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église orthodoxe russe de la Dormition",
+                  "text": "Église orthodoxe russe de la Dormition este o biserică ortodoxă rusă înființată în Casablanca.",
+                  "category": "religious",
+                  "coords": [
+                        -7.622635,
+                        33.582016
+                  ]
+            },
+            {
+                  "name": "Twin Center",
+                  "text": "Twin Center este un complex notabil de două zgârie-nori ce formează un reper proeminent în Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.632292,
+                        33.586584
+                  ]
+            },
+            {
+                  "name": "Place des Nations Unies ساحة الأمم المتحدة",
+                  "text": "Piața Națiunilor Unite este o piață publică plină de viață și un important centru comercial din inima orașului Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.618664,
+                        33.594996
+                  ]
+            },
+            {
+                  "name": "Murdoch Park",
+                  "text": "Parcul Murdoch este un parc urban public situat în Casablanca.",
+                  "category": "park",
+                  "coords": [
+                        -7.613173,
+                        33.57942
+                  ]
+            },
+            {
+                  "name": "Parc de la Ligue Arabe حديقة الجامعة العربية",
+                  "text": "Parc de la Ligue Arabe este cel mai mare parc public din orașul Casablanca.",
+                  "category": "park",
+                  "coords": [
+                        -7.624064,
+                        33.588272
+                  ]
+            },
+            {
+                  "name": "Temple Beth El معبد بيت إيل",
+                  "text": "Sinagoga Beth El este un lăcaș de cult evreiesc din Casablanca.",
+                  "category": "religious",
+                  "coords": [
+                        -7.626833,
+                        33.595761
+                  ]
+            },
+            {
+                  "name": "Parc du Vélodrome حديقة الڤيلودروم",
+                  "text": "Parc du Vélodrome este un spațiu verde public situat în Casablanca.",
+                  "category": "park",
+                  "coords": [
+                        -7.645638,
+                        33.589411
+                  ]
+            },
+            {
+                  "name": "Musée de la Fondation Abderrahman slaoui",
+                  "text": "Acest muzeu din Casablanca expune colecții de artă și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -7.622616,
+                        33.592402
+                  ]
+            },
+            {
+                  "name": "Attarik Foundation",
+                  "text": "Fundația Attarik funcționează ca muzeu și spațiu expozițional în Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.619778,
+                        33.606499
+                  ]
+            },
+            {
+                  "name": "Villa des Arts دار الفنون",
+                  "text": "Villa des Arts este un muzeu de artă contemporană din Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.629555,
+                        33.586425
+                  ]
+            },
+            {
+                  "name": "L'Atelier 21",
+                  "text": "L'Atelier 21 este o galerie de artă situată în Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.643257,
+                        33.586106
+                  ]
+            },
+            {
+                  "name": "Loft Art Gallery",
+                  "text": "Loft Art Gallery este o galerie de artă locală din Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.643821,
+                        33.592298
+                  ]
+            },
+            {
+                  "name": "Galerie Nadar",
+                  "text": "Galerie Nadar este o galerie de artă în orașul Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.633406,
+                        33.585938
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "Théâtre Mohammed VI este o sală de spectacole din Casablanca.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.597061,
+                        33.591495
+                  ]
+            },
+            {
+                  "name": "Centre cinématographique marocain",
+                  "text": "Acest centru de arte din Casablanca este dedicat industriei cinematografice marocane.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.627904,
+                        33.594633
+                  ]
+            },
+            {
+                  "name": "سوق بنجدية",
+                  "text": "Această piață tradițională este o atracție comercială locală din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610715,
+                        33.585676
+                  ]
+            },
+            {
+                  "name": "Elmanjra قسارية المنجرة",
+                  "text": "Elmanjra este o piață comercială și o atracție pentru vizitatori în Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.603073,
+                        33.568518
+                  ]
+            },
+            {
+                  "name": "Kissariat Casa 1",
+                  "text": "Kissariat Casa 1 este o piață aglomerată din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.606896,
+                        33.585564
+                  ]
+            },
+            {
+                  "name": "سوق جمله",
+                  "text": "Această mare piață angro servește ca centru comercial și atracție în Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.611969,
+                        33.590362
+                  ]
+            },
+            {
+                  "name": "Garage Allel",
+                  "text": "Garage Allel este un cartier comercial recunoscut din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.601366,
+                        33.575209
+                  ]
+            },
+            {
+                  "name": "قيسارية العطارين",
+                  "text": "Această kissaria tradițională este o atracție populară pentru cumpărături în Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.600121,
+                        33.577366
+                  ]
+            },
+            {
+                  "name": "حديقة الجامعة العربية",
+                  "text": "Această atracție face parte din Parcul Ligii Arabe din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.623625,
+                        33.589202
+                  ]
+            },
+            {
+                  "name": "Coupole Zevaco الكرة الأرضية",
+                  "text": "Coupole Zevaco este o atracție arhitecturală sferică iconică din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.617628,
+                        33.596455
+                  ]
+            },
+            {
+                  "name": "Kissariat elbaraka",
+                  "text": "Kissariat elbaraka este o piață locală din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.612682,
+                        33.593174
+                  ]
+            },
+            {
+                  "name": "Kissariat Taieba",
+                  "text": "Kissariat Taieba este un centru comercial și o atracție locală din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.611392,
+                        33.593575
+                  ]
+            },
+            {
+                  "name": "WeCasablanca Sign",
+                  "text": "Semnul WeCasablanca este o atracție fotografică populară în orașul Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.618276,
+                        33.591649
+                  ]
+            },
+            {
+                  "name": "Kissariat Akrim",
+                  "text": "Kissariat Akrim este o atracție comercială vibrantă din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598187,
+                        33.574562
+                  ]
+            },
+            {
+                  "name": "Kissariat Al Andalous",
+                  "text": "Kissariat Al Andalous este o atracție de piață bine-cunoscută în Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598813,
+                        33.573063
+                  ]
+            },
+            {
+                  "name": "قيسارية أخماسي",
+                  "text": "Kissaria Akhmasi este o piață comercială locală din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.597812,
+                        33.572685
+                  ]
+            },
+            {
+                  "name": "Kissariat Ben Slimane",
+                  "text": "Kissariat Ben Slimane este un pasaj comercial tradițional din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.599187,
+                        33.574062
+                  ]
+            },
+            {
+                  "name": "Derb Sultan Gallery",
+                  "text": "Galeria Derb Sultan este o atracție comercială din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.599312,
+                        33.57544
+                  ]
+            },
+            {
+                  "name": "سوق البيض بالجملة",
+                  "text": "Această piață angro este o atracție comercială locală specializată din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.603243,
+                        33.583565
+                  ]
+            },
+            {
+                  "name": "قيسارية الأمراء",
+                  "text": "Kissaria Al Oumara este o atracție de retail din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.600062,
+                        33.578438
+                  ]
+            },
+            {
+                  "name": "Kissariat El Fath",
+                  "text": "Kissariat El Fath este o atracție comercială din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598563,
+                        33.577812
+                  ]
+            },
+            {
+                  "name": "Caesarea 15 Ramadan",
+                  "text": "Caesarea 15 Ramadan este un pasaj comercial situat în Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.609188,
+                        33.587688
+                  ]
+            },
+            {
+                  "name": "Kissariat El Haffari",
+                  "text": "Kissariat El Haffari este o piață comercială locală din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.601562,
+                        33.573189
+                  ]
+            },
+            {
+                  "name": "مركز سوق الحبوس",
+                  "text": "Centrul Pieței Habous este o atracție tradițională în Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.604563,
+                        33.577812
+                  ]
+            },
+            {
+                  "name": "derb kabir",
+                  "text": "Derb Kabir este un cartier care oferă atracții de cumpărături locale în Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.595813,
+                        33.573437
+                  ]
+            },
+            {
+                  "name": "قيسارية الزاس",
+                  "text": "Kissaria Alsace este o galerie comercială populară din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608313,
+                        33.586563
+                  ]
+            },
+            {
+                  "name": "برج الياقوت",
+                  "text": "Această clădire turn este o atracție arhitecturală și comercială din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610187,
+                        33.589062
+                  ]
+            },
+            {
+                  "name": "Kissariat Al Omra",
+                  "text": "Kissariat Al Omra este o atracție locală de cumpărături din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.609813,
+                        33.591686
+                  ]
+            },
+            {
+                  "name": "غرفة التجارة الصناعية و الخدمات",
+                  "text": "Camera de Comerț și Industrie este o atracție instituțională din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.613688,
+                        33.594814
+                  ]
+            },
+            {
+                  "name": "Kissaria",
+                  "text": "Această kissaria tradițională oferă o experiență de piață locală în Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608938,
+                        33.589813
+                  ]
+            },
+            {
+                  "name": "Kissariate safrioui",
+                  "text": "Kissariate safrioui este o atracție de tip piață regională din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610563,
+                        33.590687
+                  ]
+            },
+            {
+                  "name": "Palais Royal de Casablanca",
+                  "text": "Palais Royal este o reședință regală și un punct de reper important în Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.604673,
+                        33.580228
+                  ]
+            },
+            {
+                  "name": "Joutia de Derb Ghallef جوطية درب غلف",
+                  "text": "Joutia de Derb Ghallef este o piață de vechituri faimoasă din Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.629795,
+                        33.570837
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église orthodoxe russe de la Dormition",
+                  "text": "Église orthodoxe russe de la Dormition is a Russian Orthodox church established in Casablanca.",
+                  "category": "religious",
+                  "coords": [
+                        -7.622635,
+                        33.582016
+                  ]
+            },
+            {
+                  "name": "Twin Center",
+                  "text": "The Twin Center is a notable complex of two skyscrapers forming a prominent landmark in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.632292,
+                        33.586584
+                  ]
+            },
+            {
+                  "name": "United Nations Square",
+                  "text": "United Nations Square is a bustling public square and major commercial hub in the center of Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.618664,
+                        33.594996
+                  ]
+            },
+            {
+                  "name": "Murdoch Park",
+                  "text": "Murdoch Park is a public urban park located in Casablanca.",
+                  "category": "park",
+                  "coords": [
+                        -7.613173,
+                        33.57942
+                  ]
+            },
+            {
+                  "name": "Parc de la Ligue Arabe حديقة الجامعة العربية",
+                  "text": "Parc de la Ligue Arabe is the largest public park in the city of Casablanca.",
+                  "category": "park",
+                  "coords": [
+                        -7.624064,
+                        33.588272
+                  ]
+            },
+            {
+                  "name": "Beth El Synagogue",
+                  "text": "Beth El Synagogue is a Jewish place of worship in Casablanca.",
+                  "category": "religious",
+                  "coords": [
+                        -7.626833,
+                        33.595761
+                  ]
+            },
+            {
+                  "name": "Parc du Vélodrome حديقة الڤيلودروم",
+                  "text": "Parc du Vélodrome is a public green space located in Casablanca.",
+                  "category": "park",
+                  "coords": [
+                        -7.645638,
+                        33.589411
+                  ]
+            },
+            {
+                  "name": "Musée de la Fondation Abderrahman slaoui",
+                  "text": "This museum in Casablanca exhibits art collections and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -7.622616,
+                        33.592402
+                  ]
+            },
+            {
+                  "name": "Attarik Foundation",
+                  "text": "Attarik Foundation operates as a museum and exhibition space in Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.619778,
+                        33.606499
+                  ]
+            },
+            {
+                  "name": "Villa des Arts دار الفنون",
+                  "text": "Villa des Arts is a museum dedicated to contemporary art in Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.629555,
+                        33.586425
+                  ]
+            },
+            {
+                  "name": "L'Atelier 21",
+                  "text": "L'Atelier 21 is an art gallery located in Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.643257,
+                        33.586106
+                  ]
+            },
+            {
+                  "name": "Loft Art Gallery",
+                  "text": "Loft Art Gallery is a local art gallery situated in Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.643821,
+                        33.592298
+                  ]
+            },
+            {
+                  "name": "Galerie Nadar",
+                  "text": "Galerie Nadar is an art gallery in the city of Casablanca.",
+                  "category": "museum",
+                  "coords": [
+                        -7.633406,
+                        33.585938
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "Théâtre Mohammed VI is a performing arts venue in Casablanca.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.597061,
+                        33.591495
+                  ]
+            },
+            {
+                  "name": "Centre cinématographique marocain",
+                  "text": "This arts centre in Casablanca is dedicated to the Moroccan cinematic industry.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.627904,
+                        33.594633
+                  ]
+            },
+            {
+                  "name": "سوق بنجدية",
+                  "text": "This traditional market is a local shopping attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610715,
+                        33.585676
+                  ]
+            },
+            {
+                  "name": "Elmanjra قسارية المنجرة",
+                  "text": "Elmanjra is a commercial market and visitor attraction located in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.603073,
+                        33.568518
+                  ]
+            },
+            {
+                  "name": "Kissariat Casa 1",
+                  "text": "Kissariat Casa 1 is a bustling marketplace attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.606896,
+                        33.585564
+                  ]
+            },
+            {
+                  "name": "سوق جمله",
+                  "text": "This large wholesale market serves as a trading hub and attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.611969,
+                        33.590362
+                  ]
+            },
+            {
+                  "name": "Garage Allel",
+                  "text": "Garage Allel is a widely recognized market district in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.601366,
+                        33.575209
+                  ]
+            },
+            {
+                  "name": "قيسارية العطارين",
+                  "text": "This traditional kissaria is a popular shopping attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.600121,
+                        33.577366
+                  ]
+            },
+            {
+                  "name": "حديقة الجامعة العربية",
+                  "text": "This attraction is part of the Arab League Park in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.623625,
+                        33.589202
+                  ]
+            },
+            {
+                  "name": "Coupole Zevaco الكرة الأرضية",
+                  "text": "Coupole Zevaco is an iconic globe-shaped architectural attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.617628,
+                        33.596455
+                  ]
+            },
+            {
+                  "name": "Kissariat elbaraka",
+                  "text": "Kissariat elbaraka is a local marketplace attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.612682,
+                        33.593174
+                  ]
+            },
+            {
+                  "name": "Kissariat Taieba",
+                  "text": "Kissariat Taieba is a commercial center and local attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.611392,
+                        33.593575
+                  ]
+            },
+            {
+                  "name": "WeCasablanca Sign",
+                  "text": "The WeCasablanca Sign is a popular photo attraction in the city of Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.618276,
+                        33.591649
+                  ]
+            },
+            {
+                  "name": "Kissariat Akrim",
+                  "text": "Kissariat Akrim is a vibrant shopping attraction situated in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598187,
+                        33.574562
+                  ]
+            },
+            {
+                  "name": "Kissariat Al Andalous",
+                  "text": "Kissariat Al Andalous is a well-known market attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598813,
+                        33.573063
+                  ]
+            },
+            {
+                  "name": "قيسارية أخماسي",
+                  "text": "Kissaria Akhmasi is a local commercial market attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.597812,
+                        33.572685
+                  ]
+            },
+            {
+                  "name": "Kissariat Ben Slimane",
+                  "text": "Kissariat Ben Slimane is a traditional shopping arcade and attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.599187,
+                        33.574062
+                  ]
+            },
+            {
+                  "name": "Derb Sultan Gallery",
+                  "text": "Derb Sultan Gallery is a notable shopping attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.599312,
+                        33.57544
+                  ]
+            },
+            {
+                  "name": "سوق البيض بالجملة",
+                  "text": "This wholesale market is a specialized local trading attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.603243,
+                        33.583565
+                  ]
+            },
+            {
+                  "name": "قيسارية الأمراء",
+                  "text": "Kissaria Al Oumara is a retail attraction situated in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.600062,
+                        33.578438
+                  ]
+            },
+            {
+                  "name": "Kissariat El Fath",
+                  "text": "Kissariat El Fath is a bustling commercial attraction located in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.598563,
+                        33.577812
+                  ]
+            },
+            {
+                  "name": "Caesarea 15 Ramadan",
+                  "text": "Caesarea 15 Ramadan is a commercial shopping arcade located in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.609188,
+                        33.587688
+                  ]
+            },
+            {
+                  "name": "Kissariat El Haffari",
+                  "text": "Kissariat El Haffari is a local trade market and attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.601562,
+                        33.573189
+                  ]
+            },
+            {
+                  "name": "مركز سوق الحبوس",
+                  "text": "The Habous Market Center is a traditional and highly popular attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.604563,
+                        33.577812
+                  ]
+            },
+            {
+                  "name": "derb kabir",
+                  "text": "Derb Kabir is a neighborhood offering local shopping attractions in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.595813,
+                        33.573437
+                  ]
+            },
+            {
+                  "name": "قيسارية الزاس",
+                  "text": "Kissaria Alsace is a popular commercial gallery and attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608313,
+                        33.586563
+                  ]
+            },
+            {
+                  "name": "برج الياقوت",
+                  "text": "This tower building is an architectural and commercial attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610187,
+                        33.589062
+                  ]
+            },
+            {
+                  "name": "Kissariat Al Omra",
+                  "text": "Kissariat Al Omra is a local shopping attraction set in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.609813,
+                        33.591686
+                  ]
+            },
+            {
+                  "name": "غرفة التجارة الصناعية و الخدمات",
+                  "text": "The Chamber of Commerce is an institutional attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.613688,
+                        33.594814
+                  ]
+            },
+            {
+                  "name": "Kissaria",
+                  "text": "This traditional kissaria offers a typical local market experience in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.608938,
+                        33.589813
+                  ]
+            },
+            {
+                  "name": "Kissariate safrioui",
+                  "text": "Kissariate safrioui is a regional marketplace attraction located in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.610563,
+                        33.590687
+                  ]
+            },
+            {
+                  "name": "Palais Royal de Casablanca",
+                  "text": "The Palais Royal is a grand royal residence and significant landmark in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.604673,
+                        33.580228
+                  ]
+            },
+            {
+                  "name": "Joutia de Derb Ghallef جوطية درب غلف",
+                  "text": "Joutia de Derb Ghallef is a famous massive flea market and attraction in Casablanca.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.629795,
+                        33.570837
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-06",
     coords: [-7.62, 33.59],
@@ -131,7 +1796,844 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       en: ["Rabat was named a UNESCO World Heritage Site in 2012.", "The city became the capital of Morocco in 1912 under French rule.", "The Hassan Tower's mosque would have been the second largest in Islam.", "Rabat's population is approximately 580,000 (city proper).", "The Chellah necropolis contains Phoenician, Roman, and Marinid ruins.", "The Grand Theatre of Rabat was designed by architect Zaha Hadid.", "Rabat is the second largest city in Morocco after Casablanca.", "The University of Mohammed V, founded in 1957, is the city's top academic hub."],
     }, image: "/poi-images/ma-rabat-cities-v2.webp"},
   {
-    id: "ma-fes-cities-v2",
+    id: "ma-fes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais Royal القصر الملكي",
+                  "text": "Königspalast in Fes, ein historisches Bauwerk.",
+                  "category": "castle",
+                  "coords": [
+                        -4.993727,
+                        34.055273
+                  ]
+            },
+            {
+                  "name": "Musée Meryem",
+                  "text": "Museum in Fes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.009804,
+                        34.038677
+                  ]
+            },
+            {
+                  "name": "Borj Sidi Bounafae",
+                  "text": "Festung in Fes.",
+                  "category": "castle",
+                  "coords": [
+                        -4.988737,
+                        34.053403
+                  ]
+            },
+            {
+                  "name": "باب السمارين Bab Semmarine",
+                  "text": "Historisches Tor in Fes.",
+                  "category": "historical",
+                  "coords": [
+                        -4.989977,
+                        34.054261
+                  ]
+            },
+            {
+                  "name": "Jnan Sbil جنان السبيل",
+                  "text": "Die Jnan Sbil Gärten sind eine historische Parkanlage in Fes.",
+                  "category": "park",
+                  "coords": [
+                        -4.987844,
+                        34.058555
+                  ]
+            },
+            {
+                  "name": "Cass-croute",
+                  "text": "Attraktion in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.997662,
+                        34.045097
+                  ]
+            },
+            {
+                  "name": "Cremerie",
+                  "text": "Attraktion in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.997296,
+                        34.04036
+                  ]
+            },
+            {
+                  "name": "Cofirad",
+                  "text": "Attraktion in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996762,
+                        34.042342
+                  ]
+            },
+            {
+                  "name": "Cendrillon",
+                  "text": "Attraktion in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.998513,
+                        34.039714
+                  ]
+            },
+            {
+                  "name": "Word @ work",
+                  "text": "Kunstzentrum in Fes.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.998836,
+                        34.037402
+                  ]
+            },
+            {
+                  "name": "Zaouia of Moulay Idriss II",
+                  "text": "Religiöse Stätte in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.987665,
+                        34.054548
+                  ]
+            },
+            {
+                  "name": "Fly center plus",
+                  "text": "Kunstzentrum in Fes.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.996192,
+                        34.037903
+                  ]
+            },
+            {
+                  "name": "Orientaliste Art Gallery",
+                  "text": "Kunstgalerie in Fes.",
+                  "category": "museum",
+                  "coords": [
+                        -4.995425,
+                        34.035815
+                  ]
+            },
+            {
+                  "name": "Sandwich Benmaseoud",
+                  "text": "Attraktion in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.985331,
+                        34.024652
+                  ]
+            },
+            {
+                  "name": "Art shows alami",
+                  "text": "Kunstgalerie in Fes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005712,
+                        34.017663
+                  ]
+            },
+            {
+                  "name": "Grillade Brahim",
+                  "text": "Attraktion in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.992407,
+                        34.016813
+                  ]
+            },
+            {
+                  "name": "Salle des fêtes Jamai",
+                  "text": "Attraktion in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.993713,
+                        34.01635
+                  ]
+            },
+            {
+                  "name": "New Boussole Travel",
+                  "text": "Attraktion in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.006469,
+                        34.013738
+                  ]
+            },
+            {
+                  "name": "Royal air maroc",
+                  "text": "Attraktion in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.998125,
+                        34.043794
+                  ]
+            },
+            {
+                  "name": "Bab Dekkakin",
+                  "text": "Historisches Denkmal in Fes.",
+                  "category": "historical",
+                  "coords": [
+                        -4.991308,
+                        34.058592
+                  ]
+            },
+            {
+                  "name": "Quartier Mellah",
+                  "text": "Attraktion in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.991981,
+                        34.052949
+                  ]
+            },
+            {
+                  "name": "منزل يهودي",
+                  "text": "Aussichtspunkt in Fes.",
+                  "category": "natural",
+                  "coords": [
+                        -4.992609,
+                        34.051982
+                  ]
+            },
+            {
+                  "name": "Complexe Culturel Al Houria المركب الثقافي الحرية",
+                  "text": "Kunstzentrum in Fes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.00282,
+                        34.041957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais Royal القصر الملكي",
+                  "text": "Királyi palota Fesben, történelmi építmény.",
+                  "category": "castle",
+                  "coords": [
+                        -4.993727,
+                        34.055273
+                  ]
+            },
+            {
+                  "name": "Musée Meryem",
+                  "text": "Múzeum Fesben.",
+                  "category": "museum",
+                  "coords": [
+                        -5.009804,
+                        34.038677
+                  ]
+            },
+            {
+                  "name": "Borj Sidi Bounafae",
+                  "text": "Erődítmény Fesben.",
+                  "category": "castle",
+                  "coords": [
+                        -4.988737,
+                        34.053403
+                  ]
+            },
+            {
+                  "name": "باب السمارين Bab Semmarine",
+                  "text": "Történelmi kapu Fesben.",
+                  "category": "historical",
+                  "coords": [
+                        -4.989977,
+                        34.054261
+                  ]
+            },
+            {
+                  "name": "Jnan Sbil جنان السبيل",
+                  "text": "A Jnan Sbil kertek egy történelmi park Fesben.",
+                  "category": "park",
+                  "coords": [
+                        -4.987844,
+                        34.058555
+                  ]
+            },
+            {
+                  "name": "Cass-croute",
+                  "text": "Látnivaló Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.997662,
+                        34.045097
+                  ]
+            },
+            {
+                  "name": "Cremerie",
+                  "text": "Látnivaló Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.997296,
+                        34.04036
+                  ]
+            },
+            {
+                  "name": "Cofirad",
+                  "text": "Látnivaló Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996762,
+                        34.042342
+                  ]
+            },
+            {
+                  "name": "Cendrillon",
+                  "text": "Látnivaló Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.998513,
+                        34.039714
+                  ]
+            },
+            {
+                  "name": "Word @ work",
+                  "text": "Művészeti központ Fesben.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.998836,
+                        34.037402
+                  ]
+            },
+            {
+                  "name": "Zaouia of Moulay Idriss II",
+                  "text": "Vallási emlékhely Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.987665,
+                        34.054548
+                  ]
+            },
+            {
+                  "name": "Fly center plus",
+                  "text": "Művészeti központ Fesben.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.996192,
+                        34.037903
+                  ]
+            },
+            {
+                  "name": "Orientaliste Art Gallery",
+                  "text": "Művészeti galéria Fesben.",
+                  "category": "museum",
+                  "coords": [
+                        -4.995425,
+                        34.035815
+                  ]
+            },
+            {
+                  "name": "Sandwich Benmaseoud",
+                  "text": "Látnivaló Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.985331,
+                        34.024652
+                  ]
+            },
+            {
+                  "name": "Art shows alami",
+                  "text": "Művészeti galéria Fesben.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005712,
+                        34.017663
+                  ]
+            },
+            {
+                  "name": "Grillade Brahim",
+                  "text": "Látnivaló Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.992407,
+                        34.016813
+                  ]
+            },
+            {
+                  "name": "Salle des fêtes Jamai",
+                  "text": "Látnivaló Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.993713,
+                        34.01635
+                  ]
+            },
+            {
+                  "name": "New Boussole Travel",
+                  "text": "Látnivaló Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.006469,
+                        34.013738
+                  ]
+            },
+            {
+                  "name": "Royal air maroc",
+                  "text": "Látnivaló Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.998125,
+                        34.043794
+                  ]
+            },
+            {
+                  "name": "Bab Dekkakin",
+                  "text": "Történelmi emlékmű Fesben.",
+                  "category": "historical",
+                  "coords": [
+                        -4.991308,
+                        34.058592
+                  ]
+            },
+            {
+                  "name": "Quartier Mellah",
+                  "text": "Látnivaló Fesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.991981,
+                        34.052949
+                  ]
+            },
+            {
+                  "name": "منزل يهودي",
+                  "text": "Kilátópont Fesben.",
+                  "category": "natural",
+                  "coords": [
+                        -4.992609,
+                        34.051982
+                  ]
+            },
+            {
+                  "name": "Complexe Culturel Al Houria المركب الثقافي الحرية",
+                  "text": "Művészeti központ Fesben.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.00282,
+                        34.041957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais Royal القصر الملكي",
+                  "text": "Palatul Regal din Fes, o construcție istorică.",
+                  "category": "castle",
+                  "coords": [
+                        -4.993727,
+                        34.055273
+                  ]
+            },
+            {
+                  "name": "Musée Meryem",
+                  "text": "Muzeu în Fes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.009804,
+                        34.038677
+                  ]
+            },
+            {
+                  "name": "Borj Sidi Bounafae",
+                  "text": "Castel în Fes.",
+                  "category": "castle",
+                  "coords": [
+                        -4.988737,
+                        34.053403
+                  ]
+            },
+            {
+                  "name": "باب السمارين Bab Semmarine",
+                  "text": "Poartă istorică în Fes.",
+                  "category": "historical",
+                  "coords": [
+                        -4.989977,
+                        34.054261
+                  ]
+            },
+            {
+                  "name": "Jnan Sbil جنان السبيل",
+                  "text": "Grădinile Jnan Sbil sunt un parc istoric în Fes.",
+                  "category": "park",
+                  "coords": [
+                        -4.987844,
+                        34.058555
+                  ]
+            },
+            {
+                  "name": "Cass-croute",
+                  "text": "Atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.997662,
+                        34.045097
+                  ]
+            },
+            {
+                  "name": "Cremerie",
+                  "text": "Atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.997296,
+                        34.04036
+                  ]
+            },
+            {
+                  "name": "Cofirad",
+                  "text": "Atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996762,
+                        34.042342
+                  ]
+            },
+            {
+                  "name": "Cendrillon",
+                  "text": "Atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.998513,
+                        34.039714
+                  ]
+            },
+            {
+                  "name": "Word @ work",
+                  "text": "Centru de artă în Fes.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.998836,
+                        34.037402
+                  ]
+            },
+            {
+                  "name": "Zaouia of Moulay Idriss II",
+                  "text": "Loc de atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.987665,
+                        34.054548
+                  ]
+            },
+            {
+                  "name": "Fly center plus",
+                  "text": "Centru de artă în Fes.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.996192,
+                        34.037903
+                  ]
+            },
+            {
+                  "name": "Orientaliste Art Gallery",
+                  "text": "Galerie de artă în Fes.",
+                  "category": "museum",
+                  "coords": [
+                        -4.995425,
+                        34.035815
+                  ]
+            },
+            {
+                  "name": "Sandwich Benmaseoud",
+                  "text": "Atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.985331,
+                        34.024652
+                  ]
+            },
+            {
+                  "name": "Art shows alami",
+                  "text": "Galerie de artă în Fes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005712,
+                        34.017663
+                  ]
+            },
+            {
+                  "name": "Grillade Brahim",
+                  "text": "Atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.992407,
+                        34.016813
+                  ]
+            },
+            {
+                  "name": "Salle des fêtes Jamai",
+                  "text": "Atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.993713,
+                        34.01635
+                  ]
+            },
+            {
+                  "name": "New Boussole Travel",
+                  "text": "Atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.006469,
+                        34.013738
+                  ]
+            },
+            {
+                  "name": "Royal air maroc",
+                  "text": "Atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.998125,
+                        34.043794
+                  ]
+            },
+            {
+                  "name": "Bab Dekkakin",
+                  "text": "Monument istoric în Fes.",
+                  "category": "historical",
+                  "coords": [
+                        -4.991308,
+                        34.058592
+                  ]
+            },
+            {
+                  "name": "Quartier Mellah",
+                  "text": "Atracție în Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.991981,
+                        34.052949
+                  ]
+            },
+            {
+                  "name": "منزل يهودي",
+                  "text": "Punct de observație în Fes.",
+                  "category": "natural",
+                  "coords": [
+                        -4.992609,
+                        34.051982
+                  ]
+            },
+            {
+                  "name": "Complexe Culturel Al Houria المركب الثقافي الحرية",
+                  "text": "Centru de artă în Fes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.00282,
+                        34.041957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Palace",
+                  "text": "Royal Palace in Fes, a historic structure.",
+                  "category": "castle",
+                  "coords": [
+                        -4.993727,
+                        34.055273
+                  ]
+            },
+            {
+                  "name": "Musée Meryem",
+                  "text": "Museum in Fes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.009804,
+                        34.038677
+                  ]
+            },
+            {
+                  "name": "Borj Sidi Bounafae",
+                  "text": "Castle in Fes.",
+                  "category": "castle",
+                  "coords": [
+                        -4.988737,
+                        34.053403
+                  ]
+            },
+            {
+                  "name": "Bab Semmarine",
+                  "text": "Historic monument in Fes.",
+                  "category": "historical",
+                  "coords": [
+                        -4.989977,
+                        34.054261
+                  ]
+            },
+            {
+                  "name": "Jnan Sbil Gardens",
+                  "text": "Jnan Sbil Gardens are a historic park in Fes.",
+                  "category": "park",
+                  "coords": [
+                        -4.987844,
+                        34.058555
+                  ]
+            },
+            {
+                  "name": "Cass-croute",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.997662,
+                        34.045097
+                  ]
+            },
+            {
+                  "name": "Cremerie",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.997296,
+                        34.04036
+                  ]
+            },
+            {
+                  "name": "Cofirad",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.996762,
+                        34.042342
+                  ]
+            },
+            {
+                  "name": "Cendrillon",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.998513,
+                        34.039714
+                  ]
+            },
+            {
+                  "name": "Word @ work",
+                  "text": "Arts centre in Fes.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.998836,
+                        34.037402
+                  ]
+            },
+            {
+                  "name": "Zaouia of Moulay Idriss II",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.987665,
+                        34.054548
+                  ]
+            },
+            {
+                  "name": "Fly center plus",
+                  "text": "Arts centre in Fes.",
+                  "category": "cultural",
+                  "coords": [
+                        -4.996192,
+                        34.037903
+                  ]
+            },
+            {
+                  "name": "Orientaliste Art Gallery",
+                  "text": "Art gallery in Fes.",
+                  "category": "museum",
+                  "coords": [
+                        -4.995425,
+                        34.035815
+                  ]
+            },
+            {
+                  "name": "Sandwich Benmaseoud",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.985331,
+                        34.024652
+                  ]
+            },
+            {
+                  "name": "Art shows alami",
+                  "text": "Art gallery in Fes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.005712,
+                        34.017663
+                  ]
+            },
+            {
+                  "name": "Grillade Brahim",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.992407,
+                        34.016813
+                  ]
+            },
+            {
+                  "name": "Salle des fêtes Jamai",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.993713,
+                        34.01635
+                  ]
+            },
+            {
+                  "name": "New Boussole Travel",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.006469,
+                        34.013738
+                  ]
+            },
+            {
+                  "name": "Royal air maroc",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.998125,
+                        34.043794
+                  ]
+            },
+            {
+                  "name": "Bab Dekkakin",
+                  "text": "Historic monument in Fes.",
+                  "category": "historical",
+                  "coords": [
+                        -4.991308,
+                        34.058592
+                  ]
+            },
+            {
+                  "name": "Quartier Mellah",
+                  "text": "Attraction in Fes.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.991981,
+                        34.052949
+                  ]
+            },
+            {
+                  "name": "منزل يهودي",
+                  "text": "Viewpoint in Fes.",
+                  "category": "natural",
+                  "coords": [
+                        -4.992609,
+                        34.051982
+                  ]
+            },
+            {
+                  "name": "Complexe Culturel Al Houria المركب الثقافي الحرية",
+                  "text": "Arts centre in Fes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.00282,
+                        34.041957
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-03",
     coords: [-5.0003, 34.0331],
@@ -197,7 +2699,1204 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["L'une des plus anciennes et des plus importantes villes impériales du Maroc.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-fes-cities-v2.webp"},
   {
-    id: "ma-marrakech-cities-v2",
+    id: "ma-marrakech-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dar Bellarj دار بلارج",
+                  "text": "Dieses Kulturmuseum in Marrakesch fördert die traditionellen und zeitgenössischen Künste Marokkos.",
+                  "category": "museum",
+                  "coords": [
+                        -7.986557,
+                        31.632183
+                  ]
+            },
+            {
+                  "name": "Musée de la Musique",
+                  "text": "Das im historischen Viertel Mouassine gelegene Museum in Marrakesch ist der marokkanischen Musik gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -7.988779,
+                        31.629359
+                  ]
+            },
+            {
+                  "name": "Synagogue Laazama",
+                  "text": "Dieses Museum in Marrakesch befindet sich in einer historischen Synagoge und zeigt das jüdische Erbe der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.982303,
+                        31.620073
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Bacha\n دار الباشا",
+                  "text": "Dieses Museum in Marrakesch befindet sich in einem prächtigen Palast, der einst dem Thami El Glaoui gehörte.",
+                  "category": "museum",
+                  "coords": [
+                        -7.992353,
+                        31.631387
+                  ]
+            },
+            {
+                  "name": "Musée Tiskiwin",
+                  "text": "Das Tiskiwin-Museum in Marrakesch zeigt eine faszinierende Sammlung nordafrikanischer Kunst und Handwerkskunst.",
+                  "category": "museum",
+                  "coords": [
+                        -7.984071,
+                        31.622273
+                  ]
+            },
+            {
+                  "name": "Musée du Parfum",
+                  "text": "Dieses interaktive Museum in Marrakesch widmet sich der Geschichte und Herstellung marokkanischer Parfüms.",
+                  "category": "museum",
+                  "coords": [
+                        -7.988278,
+                        31.634616
+                  ]
+            },
+            {
+                  "name": "Monde des Arts de la Parure (MAP)",
+                  "text": "Dieses Museum in Marrakesch stellt außergewöhnlichen traditionellen Schmuck und Verzierungen aus.",
+                  "category": "museum",
+                  "coords": [
+                        -7.987973,
+                        31.618669
+                  ]
+            },
+            {
+                  "name": "Galerie Sinya 28",
+                  "text": "Diese Galerie in Marrakesch ist ein Ausstellungsraum für zeitgenössische lokale Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        -8.011724,
+                        31.636167
+                  ]
+            },
+            {
+                  "name": "Museum Dar Si Said",
+                  "text": "Dieses Museum in Marrakesch beherbergt eine umfangreiche Sammlung marokkanischer Holzschnitzereien und Teppiche.",
+                  "category": "museum",
+                  "coords": [
+                        -7.983861,
+                        31.623385
+                  ]
+            },
+            {
+                  "name": "Musée Berbère",
+                  "text": "Das im Jardin Majorelle gelegene Museum in Marrakesch feiert die Kultur der indigenen Berber.",
+                  "category": "museum",
+                  "coords": [
+                        -8.002882,
+                        31.641902
+                  ]
+            },
+            {
+                  "name": "Musée Jamaâ el-Fna du patrimoine immatériel",
+                  "text": "Dieses Museum in Marrakesch bewahrt das immaterielle Kulturerbe des berühmten Marktplatzes Djemaa el Fna.",
+                  "category": "museum",
+                  "coords": [
+                        -7.989188,
+                        31.625
+                  ]
+            },
+            {
+                  "name": "Dar El Bacha دار الباشا",
+                  "text": "Dieser historische Palast in Marrakesch, einst Residenz von Thami El Glaoui, beeindruckt mit seiner andalusischen Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        -7.992658,
+                        31.629741
+                  ]
+            },
+            {
+                  "name": "Koutoubia Gardens",
+                  "text": "Diese ruhigen Gärten in Marrakesch bieten eine entspannende Grünfläche in der Nähe der berühmten Koutoubia-Moschee.",
+                  "category": "park",
+                  "coords": [
+                        -7.993171,
+                        31.622844
+                  ]
+            },
+            {
+                  "name": "Bab Ghemat",
+                  "text": "Dieses historische Tor in Marrakesch ist ein markanter Teil der alten Stadtmauer.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.974582,
+                        31.623849
+                  ]
+            },
+            {
+                  "name": "Gerberei-Viertel",
+                  "text": "Diese traditionellen Gerbereien in Marrakesch bieten einen authentischen Einblick in das uralte Handwerk der Lederverarbeitung.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.978875,
+                        31.633714
+                  ]
+            },
+            {
+                  "name": "Zimroda Art's Galerie",
+                  "text": "Diese Kunstgalerie in Marrakesch präsentiert eine vielfältige Auswahl an regionalen Kunstwerken.",
+                  "category": "museum",
+                  "coords": [
+                        -7.991025,
+                        31.631623
+                  ]
+            },
+            {
+                  "name": "Dar Cherifa",
+                  "text": "Diese in einem wunderschönen historischen Riad untergebrachte Galerie in Marrakesch ist ein kulturelles Zentrum für Kunstausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -7.990286,
+                        31.629188
+                  ]
+            },
+            {
+                  "name": "Maison de la Photographie",
+                  "text": "Diese Fotogalerie in Marrakesch beherbergt eine außergewöhnliche Sammlung historischer Fotografien aus Marokko.",
+                  "category": "museum",
+                  "coords": [
+                        -7.984367,
+                        31.631986
+                  ]
+            },
+            {
+                  "name": "Concerie",
+                  "text": "Von diesem Aussichtspunkt in Marrakesch hat man einen guten Blick auf das bunte Treiben der Gerbereien.",
+                  "category": "natural",
+                  "coords": [
+                        -7.98046,
+                        31.633405
+                  ]
+            },
+            {
+                  "name": "Souk El Jadid",
+                  "text": "Dieser traditionelle Souk in Marrakesch bietet eine Vielzahl von lokalen Waren und Handwerksprodukten.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.988438,
+                        31.62653
+                  ]
+            },
+            {
+                  "name": "Mausoleum von Sidi Abou Faris Abdelaziz Tebbâa",
+                  "text": "Diese historische Stätte in Marrakesch ist das Mausoleum eines der sieben Heiligen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.989019,
+                        31.632064
+                  ]
+            },
+            {
+                  "name": "central souqs",
+                  "text": "Die zentralen Souks von Marrakesch sind ein labyrinthartiges Netzwerk von Märkten voller lokaler Schätze.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.987464,
+                        31.6303
+                  ]
+            },
+            {
+                  "name": "derb essamour",
+                  "text": "Diese typische Gasse in Marrakesch lädt Besucher ein, die traditionelle Architektur der Medina zu entdecken.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.997923,
+                        31.632977
+                  ]
+            },
+            {
+                  "name": "carpet souq",
+                  "text": "In diesem speziellen Souk in Marrakesch können Besucher eine beeindruckende Auswahl an traditionellen marokkanischen Teppichen bewundern.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.987343,
+                        31.629241
+                  ]
+            },
+            {
+                  "name": "Souk des teinturiers",
+                  "text": "Dieser farbenfrohe Souk in Marrakesch ist berühmt für die zum Trocknen aufgehängten, frisch gefärbten Stoffbündel.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.988577,
+                        31.630366
+                  ]
+            },
+            {
+                  "name": "Jardin de l'Agdal",
+                  "text": "Diese weitläufigen historischen Gärten in Marrakesch sind mit zahlreichen Obstbäumen und großen Wasserbecken angelegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.979694,
+                        31.612183
+                  ]
+            },
+            {
+                  "name": "Subhan Art Gallery Marrakech",
+                  "text": "Diese Galerie in Marrakesch stellt zeitgenössische Kunstwerke lokaler und internationaler Künstler aus.",
+                  "category": "museum",
+                  "coords": [
+                        -7.989855,
+                        31.630346
+                  ]
+            },
+            {
+                  "name": "Jüdischer Friedhof Miaara",
+                  "text": "Dieser historische jüdische Friedhof in Marrakesch ist der größte seiner Art in Marokko.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.979068,
+                        31.620338
+                  ]
+            },
+            {
+                  "name": "Bab Ksiba",
+                  "text": "Dieses kleine, historische Stadttor in Marrakesch führte einst in das Kasbah-Viertel.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.989343,
+                        31.612225
+                  ]
+            },
+            {
+                  "name": "Bab Doukkala",
+                  "text": "Dieses imposante historische Stadttor in Marrakesch wird von zwei massiven Türmen flankiert.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.999019,
+                        31.633992
+                  ]
+            },
+            {
+                  "name": "Mosquee Berrima مسجد بريمة",
+                  "text": "Diese historische Moschee in Marrakesch ist eng mit der königlichen Kasbah verbunden.",
+                  "category": "religious",
+                  "coords": [
+                        -7.982873,
+                        31.616623
+                  ]
+            },
+            {
+                  "name": "Bab Hmar",
+                  "text": "Dieses traditionelle Stadttor in Marrakesch ist ein weiteres interessantes Beispiel der alten Festungsanlagen.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.976336,
+                        31.614628
+                  ]
+            },
+            {
+                  "name": "Jardins de La Mamounia",
+                  "text": "Jardins de La Mamounia ist ein Hotel in Marrakesch.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.99667,
+                        31.619834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dar Bellarj دار بلارج",
+                  "text": "Ez a marrákesi kulturális múzeum Marokkó hagyományos és kortárs művészeteit támogatja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.986557,
+                        31.632183
+                  ]
+            },
+            {
+                  "name": "Musée de la Musique",
+                  "text": "A marrákesi Mouassine történelmi negyedben található múzeum a marokkói zenének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -7.988779,
+                        31.629359
+                  ]
+            },
+            {
+                  "name": "Synagogue Laazama",
+                  "text": "Ez a történelmi zsinagógában található marrákesi múzeum a város zsidó örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.982303,
+                        31.620073
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Bacha\n دار الباشا",
+                  "text": "Ez a marrákesi múzeum egy csodálatos palotában található, amely egykor Thami El Glaoui birtokában volt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.992353,
+                        31.631387
+                  ]
+            },
+            {
+                  "name": "Musée Tiskiwin",
+                  "text": "A marrákesi Tiskiwin Múzeum az észak-afrikai művészet és kézművesség lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.984071,
+                        31.622273
+                  ]
+            },
+            {
+                  "name": "Musée du Parfum",
+                  "text": "Ez a marrákesi interaktív múzeum a marokkói parfümök történetének és készítésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -7.988278,
+                        31.634616
+                  ]
+            },
+            {
+                  "name": "Monde des Arts de la Parure (MAP)",
+                  "text": "Ez a marrákesi múzeum kivételes hagyományos ékszereket és díszítéseket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -7.987973,
+                        31.618669
+                  ]
+            },
+            {
+                  "name": "Galerie Sinya 28",
+                  "text": "Ez a marrákesi galéria a kortárs helyi művészek kiállítótere.",
+                  "category": "museum",
+                  "coords": [
+                        -8.011724,
+                        31.636167
+                  ]
+            },
+            {
+                  "name": "Musée Dar Si Saïd متحف دار السي سعيد",
+                  "text": "Ez a marrákesi múzeum a marokkói fafaragások és szőnyegek kiterjedt gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -7.983861,
+                        31.623385
+                  ]
+            },
+            {
+                  "name": "Musée Berbère",
+                  "text": "A Jardin Majorelle-ben található marrákesi múzeum a bennszülött berber kultúrát ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        -8.002882,
+                        31.641902
+                  ]
+            },
+            {
+                  "name": "Musée Jamaâ el-Fna du patrimoine immatériel",
+                  "text": "Ez a marrákesi múzeum a híres Djemaa el Fna tér szellemi kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -7.989188,
+                        31.625
+                  ]
+            },
+            {
+                  "name": "Dar El Bacha دار الباشا",
+                  "text": "Ez a marrákesi történelmi palota, amely egykor Thami El Glaoui rezidenciája volt, andalúz építészetével nyűgöz le.",
+                  "category": "historical",
+                  "coords": [
+                        -7.992658,
+                        31.629741
+                  ]
+            },
+            {
+                  "name": "Koutoubia Gardens",
+                  "text": "Ezek a nyugodt marrákesi kertek pihentető zöldövezetet kínálnak a híres Koutoubia mecset közelében.",
+                  "category": "park",
+                  "coords": [
+                        -7.993171,
+                        31.622844
+                  ]
+            },
+            {
+                  "name": "Bab Ghemat",
+                  "text": "Ez a történelmi marrákesi kapu a régi városfal egyik jellegzetes része.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.974582,
+                        31.623849
+                  ]
+            },
+            {
+                  "name": "Quartier des tanneurs",
+                  "text": "Ezek a hagyományos marrákesi cserzőüzemek autentikus bepillantást nyújtanak a bőrfeldolgozás ősi mesterségébe.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.978875,
+                        31.633714
+                  ]
+            },
+            {
+                  "name": "Zimroda Art's Galerie",
+                  "text": "Ez a marrákesi művészeti galéria a regionális művészeti alkotások változatos választékát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.991025,
+                        31.631623
+                  ]
+            },
+            {
+                  "name": "Dar Cherifa",
+                  "text": "Ez a gyönyörű történelmi riádban helyet kapó marrákesi galéria művészeti kiállítások kulturális központja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.990286,
+                        31.629188
+                  ]
+            },
+            {
+                  "name": "Maison de la Photographie",
+                  "text": "Ez a marrákesi fotógaléria a Marokkóból származó történelmi fényképek kivételes gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -7.984367,
+                        31.631986
+                  ]
+            },
+            {
+                  "name": "Concerie",
+                  "text": "Ebből a marrákesi kilátóból jó kilátás nyílik a cserzőüzemek színes forgatagára.",
+                  "category": "natural",
+                  "coords": [
+                        -7.98046,
+                        31.633405
+                  ]
+            },
+            {
+                  "name": "Souk El Jadid",
+                  "text": "Ez a hagyományos marrákesi souk helyi áruk és kézműves termékek széles választékát kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.988438,
+                        31.62653
+                  ]
+            },
+            {
+                  "name": "Tomb of Abdelaziz al-Tebaa",
+                  "text": "Ez a marrákesi történelmi helyszín a város hét szentjének egyikeként tisztelt személy mauzóleuma.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.989019,
+                        31.632064
+                  ]
+            },
+            {
+                  "name": "central souqs",
+                  "text": "Marrákes központi soukjai a helyi kincsekkel teli piacok labirintusszerű hálózatát alkotják.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.987464,
+                        31.6303
+                  ]
+            },
+            {
+                  "name": "derb essamour",
+                  "text": "Ez a jellegzetes marrákesi sikátor a medina hagyományos építészetének felfedezésére invitálja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.997923,
+                        31.632977
+                  ]
+            },
+            {
+                  "name": "carpet souq",
+                  "text": "Ebben a különleges marrákesi soukban a látogatók a hagyományos marokkói szőnyegek lenyűgöző választékát csodálhatják meg.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.987343,
+                        31.629241
+                  ]
+            },
+            {
+                  "name": "Souk des teinturiers",
+                  "text": "Ez a színes marrákesi souk a száradni kifeszített, frissen festett fonalakról és kelmékről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.988577,
+                        31.630366
+                  ]
+            },
+            {
+                  "name": "Jardin de l'Agdal",
+                  "text": "Ezeket a kiterjedt történelmi marrákesi kerteket számos gyümölcsfával és nagy víztározókkal alakították ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.979694,
+                        31.612183
+                  ]
+            },
+            {
+                  "name": "Subhan Art Gallery Marrakech",
+                  "text": "Ez a marrákesi galéria helyi és nemzetközi művészek kortárs alkotásait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -7.989855,
+                        31.630346
+                  ]
+            },
+            {
+                  "name": "Cimetière Juif Miaara",
+                  "text": "Ez a marrákesi történelmi zsidó temető a legnagyobb ilyen jellegű sírkert Marokkóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.979068,
+                        31.620338
+                  ]
+            },
+            {
+                  "name": "Bab Ksiba",
+                  "text": "Ez a kis történelmi városkapu Marrákesben egykor a Kasbah negyedbe vezetett.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.989343,
+                        31.612225
+                  ]
+            },
+            {
+                  "name": "Bab Doukkala",
+                  "text": "Ezt az impozáns történelmi marrákesi városkaput két hatalmas torony szegélyezi.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.999019,
+                        31.633992
+                  ]
+            },
+            {
+                  "name": "Mosquee Berrima مسجد بريمة",
+                  "text": "Ez a történelmi mecset Marrákesben szorosan kapcsolódik a királyi kasbah-hoz.",
+                  "category": "religious",
+                  "coords": [
+                        -7.982873,
+                        31.616623
+                  ]
+            },
+            {
+                  "name": "Bab Hmar",
+                  "text": "Ez a hagyományos marrákesi városkapu a régi erődítmények egy újabb érdekes példája.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.976336,
+                        31.614628
+                  ]
+            },
+            {
+                  "name": "Jardins de La Mamounia",
+                  "text": "A Jardins de La Mamounia egy szálloda Marrákesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.99667,
+                        31.619834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dar Bellarj دار بلارج",
+                  "text": "Acest muzeu cultural din Marrakech promovează artele tradiționale și contemporane ale Marocului.",
+                  "category": "museum",
+                  "coords": [
+                        -7.986557,
+                        31.632183
+                  ]
+            },
+            {
+                  "name": "Musée de la Musique",
+                  "text": "Situat în cartierul istoric Mouassine, acest muzeu din Marrakech este dedicat muzicii marocane.",
+                  "category": "museum",
+                  "coords": [
+                        -7.988779,
+                        31.629359
+                  ]
+            },
+            {
+                  "name": "Synagogue Laazama",
+                  "text": "Găzduit într-o sinagogă istorică, acest muzeu din Marrakech prezintă patrimoniul evreiesc al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -7.982303,
+                        31.620073
+                  ]
+            },
+            {
+                  "name": "Musée Dar El Bacha\n دار الباشا",
+                  "text": "Acest muzeu din Marrakech este situat într-un palat magnific care a aparținut odată lui Thami El Glaoui.",
+                  "category": "museum",
+                  "coords": [
+                        -7.992353,
+                        31.631387
+                  ]
+            },
+            {
+                  "name": "Musée Tiskiwin",
+                  "text": "Muzeul Tiskiwin din Marrakech expune o colecție fascinantă de artă și meșteșuguri nord-africane.",
+                  "category": "museum",
+                  "coords": [
+                        -7.984071,
+                        31.622273
+                  ]
+            },
+            {
+                  "name": "Musée du Parfum",
+                  "text": "Acest muzeu interactiv din Marrakech este dedicat istoriei și fabricării parfumurilor marocane.",
+                  "category": "museum",
+                  "coords": [
+                        -7.988278,
+                        31.634616
+                  ]
+            },
+            {
+                  "name": "Monde des Arts de la Parure (MAP)",
+                  "text": "Acest muzeu din Marrakech expune bijuterii și podoabe tradiționale excepționale.",
+                  "category": "museum",
+                  "coords": [
+                        -7.987973,
+                        31.618669
+                  ]
+            },
+            {
+                  "name": "Galerie Sinya 28",
+                  "text": "Această galerie din Marrakech este un spațiu expozițional pentru artiștii locali contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        -8.011724,
+                        31.636167
+                  ]
+            },
+            {
+                  "name": "Musée Dar Si Saïd متحف دار السي سعيد",
+                  "text": "Acest muzeu din Marrakech găzduiește o vastă colecție de sculpturi în lemn și covoare marocane.",
+                  "category": "museum",
+                  "coords": [
+                        -7.983861,
+                        31.623385
+                  ]
+            },
+            {
+                  "name": "Musée Berbère",
+                  "text": "Situat în Jardin Majorelle, acest muzeu din Marrakech celebrează cultura indigenă berberă.",
+                  "category": "museum",
+                  "coords": [
+                        -8.002882,
+                        31.641902
+                  ]
+            },
+            {
+                  "name": "Musée Jamaâ el-Fna du patrimoine immatériel",
+                  "text": "Acest muzeu din Marrakech păstrează patrimoniul cultural imaterial al faimoasei piețe Jemaa el-Fna.",
+                  "category": "museum",
+                  "coords": [
+                        -7.989188,
+                        31.625
+                  ]
+            },
+            {
+                  "name": "Dar El Bacha دار الباشا",
+                  "text": "Acest palat istoric din Marrakech, fosta reședință a lui Thami El Glaoui, impresionează prin arhitectura sa andaluză.",
+                  "category": "historical",
+                  "coords": [
+                        -7.992658,
+                        31.629741
+                  ]
+            },
+            {
+                  "name": "Koutoubia Gardens",
+                  "text": "Aceste grădini liniștite din Marrakech oferă un spațiu verde relaxant lângă faimoasa Moschee Koutoubia.",
+                  "category": "park",
+                  "coords": [
+                        -7.993171,
+                        31.622844
+                  ]
+            },
+            {
+                  "name": "Bab Ghemat",
+                  "text": "Această poartă istorică din Marrakech este o parte distinctivă a vechilor ziduri ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.974582,
+                        31.623849
+                  ]
+            },
+            {
+                  "name": "Quartier des tanneurs",
+                  "text": "Aceste tăbăcării tradiționale din Marrakech oferă o perspectivă autentică asupra meșteșugului străvechi al prelucrării pielii.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.978875,
+                        31.633714
+                  ]
+            },
+            {
+                  "name": "Zimroda Art's Galerie",
+                  "text": "Această galerie de artă din Marrakech prezintă o selecție diversă de opere de artă regionale.",
+                  "category": "museum",
+                  "coords": [
+                        -7.991025,
+                        31.631623
+                  ]
+            },
+            {
+                  "name": "Dar Cherifa",
+                  "text": "Găzduită într-un riad istoric frumos, această galerie din Marrakech este un centru cultural pentru expoziții de artă.",
+                  "category": "museum",
+                  "coords": [
+                        -7.990286,
+                        31.629188
+                  ]
+            },
+            {
+                  "name": "Maison de la Photographie",
+                  "text": "Această galerie de fotografie din Marrakech găzduiește o colecție excepțională de fotografii istorice din Maroc.",
+                  "category": "museum",
+                  "coords": [
+                        -7.984367,
+                        31.631986
+                  ]
+            },
+            {
+                  "name": "Concerie",
+                  "text": "Din acest punct de belvedere din Marrakech se poate observa activitatea colorată a tăbăcăriilor.",
+                  "category": "natural",
+                  "coords": [
+                        -7.98046,
+                        31.633405
+                  ]
+            },
+            {
+                  "name": "Souk El Jadid",
+                  "text": "Acest souk tradițional din Marrakech oferă o varietate de bunuri locale și produse artizanale.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.988438,
+                        31.62653
+                  ]
+            },
+            {
+                  "name": "Tomb of Abdelaziz al-Tebaa",
+                  "text": "Acest sit istoric din Marrakech este mausoleul unuia dintre cei șapte sfinți ai orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.989019,
+                        31.632064
+                  ]
+            },
+            {
+                  "name": "central souqs",
+                  "text": "Souk-urile centrale din Marrakech sunt o rețea labirintică de piețe pline de comori locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.987464,
+                        31.6303
+                  ]
+            },
+            {
+                  "name": "derb essamour",
+                  "text": "Această alee tipică din Marrakech invită vizitatorii să descopere arhitectura tradițională a medinei.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.997923,
+                        31.632977
+                  ]
+            },
+            {
+                  "name": "carpet souq",
+                  "text": "În acest souk special din Marrakech, vizitatorii pot admira o selecție impresionantă de covoare tradiționale marocane.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.987343,
+                        31.629241
+                  ]
+            },
+            {
+                  "name": "Souk des teinturiers",
+                  "text": "Acest souk colorat din Marrakech este renumit pentru mănunchiurile de țesături proaspăt vopsite, atârnate la uscat.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.988577,
+                        31.630366
+                  ]
+            },
+            {
+                  "name": "Jardin de l'Agdal",
+                  "text": "Aceste vaste grădini istorice din Marrakech sunt amenajate cu numeroși pomi fructiferi și mari bazine de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.979694,
+                        31.612183
+                  ]
+            },
+            {
+                  "name": "Subhan Art Gallery Marrakech",
+                  "text": "Această galerie din Marrakech expune opere de artă contemporană ale artiștilor locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        -7.989855,
+                        31.630346
+                  ]
+            },
+            {
+                  "name": "Cimetière Juif Miaara",
+                  "text": "Acest cimitir evreiesc istoric din Marrakech este cel mai mare de acest fel din Maroc.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.979068,
+                        31.620338
+                  ]
+            },
+            {
+                  "name": "Bab Ksiba",
+                  "text": "Această mică poartă istorică a orașului din Marrakech ducea odată în cartierul Kasbah.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.989343,
+                        31.612225
+                  ]
+            },
+            {
+                  "name": "Bab Doukkala",
+                  "text": "Această impunătoare poartă istorică a orașului din Marrakech este flancată de două turnuri masive.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.999019,
+                        31.633992
+                  ]
+            },
+            {
+                  "name": "Mosquee Berrima مسجد بريمة",
+                  "text": "Această moschee istorică din Marrakech este strâns legată de kasbah-ul regal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.982873,
+                        31.616623
+                  ]
+            },
+            {
+                  "name": "Bab Hmar",
+                  "text": "Această poartă tradițională a orașului din Marrakech este un alt exemplu interesant al vechilor fortificații.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.976336,
+                        31.614628
+                  ]
+            },
+            {
+                  "name": "Jardins de La Mamounia",
+                  "text": "Jardins de La Mamounia este un hotel din Marrakech.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.99667,
+                        31.619834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dar Bellarj دار بلارج",
+                  "text": "This cultural museum in Marrakech promotes the traditional and contemporary arts of Morocco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.986557,
+                        31.632183
+                  ]
+            },
+            {
+                  "name": "Museum of Music",
+                  "text": "Located in the historic Mouassine neighborhood, this museum in Marrakech is dedicated to Moroccan music.",
+                  "category": "museum",
+                  "coords": [
+                        -7.988779,
+                        31.629359
+                  ]
+            },
+            {
+                  "name": "Synagogue Salat Al-Azama",
+                  "text": "Housed in a historic synagogue, this museum in Marrakech showcases the city's Jewish heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -7.982303,
+                        31.620073
+                  ]
+            },
+            {
+                  "name": "Dar El Bacha Museum",
+                  "text": "This museum in Marrakech is housed in a magnificent palace that once belonged to Thami El Glaoui.",
+                  "category": "museum",
+                  "coords": [
+                        -7.992353,
+                        31.631387
+                  ]
+            },
+            {
+                  "name": "Tiskiwin Museum",
+                  "text": "The Tiskiwin Museum in Marrakech displays a fascinating collection of North African art and craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        -7.984071,
+                        31.622273
+                  ]
+            },
+            {
+                  "name": "Museum of Perfume",
+                  "text": "This interactive museum in Marrakech is dedicated to the history and creation of Moroccan perfumes.",
+                  "category": "museum",
+                  "coords": [
+                        -7.988278,
+                        31.634616
+                  ]
+            },
+            {
+                  "name": "Monde des Arts de la Parure (MAP)",
+                  "text": "This museum in Marrakech exhibits exceptional traditional jewelry and adornments.",
+                  "category": "museum",
+                  "coords": [
+                        -7.987973,
+                        31.618669
+                  ]
+            },
+            {
+                  "name": "Galerie Sinya 28",
+                  "text": "This gallery in Marrakech is an exhibition space for contemporary local artists.",
+                  "category": "museum",
+                  "coords": [
+                        -8.011724,
+                        31.636167
+                  ]
+            },
+            {
+                  "name": "Musée Dar Si Saïd متحف دار السي سعيد",
+                  "text": "This museum in Marrakech houses an extensive collection of Moroccan woodcarvings and carpets.",
+                  "category": "museum",
+                  "coords": [
+                        -7.983861,
+                        31.623385
+                  ]
+            },
+            {
+                  "name": "Berber Museum",
+                  "text": "Located in the Majorelle Garden, this museum in Marrakech celebrates the indigenous Berber culture.",
+                  "category": "museum",
+                  "coords": [
+                        -8.002882,
+                        31.641902
+                  ]
+            },
+            {
+                  "name": "Musée Jamaâ el-Fna du patrimoine immatériel",
+                  "text": "This museum in Marrakech preserves the intangible cultural heritage of the famous Jemaa el-Fna square.",
+                  "category": "museum",
+                  "coords": [
+                        -7.989188,
+                        31.625
+                  ]
+            },
+            {
+                  "name": "Dar El Bacha دار الباشا",
+                  "text": "This historic palace in Marrakech, once the residence of Thami El Glaoui, impresses with its Andalusian architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -7.992658,
+                        31.629741
+                  ]
+            },
+            {
+                  "name": "Koutoubia Gardens",
+                  "text": "These tranquil gardens in Marrakech offer a relaxing green space near the famous Koutoubia Mosque.",
+                  "category": "park",
+                  "coords": [
+                        -7.993171,
+                        31.622844
+                  ]
+            },
+            {
+                  "name": "Bab Ghemat",
+                  "text": "This historic gate in Marrakech is a distinctive part of the ancient city walls.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.974582,
+                        31.623849
+                  ]
+            },
+            {
+                  "name": "The Tanneries of Marrakech",
+                  "text": "These traditional tanneries in Marrakech offer an authentic glimpse into the ancient craft of leather processing.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.978875,
+                        31.633714
+                  ]
+            },
+            {
+                  "name": "Zimroda Art's Galerie",
+                  "text": "This art gallery in Marrakech presents a diverse selection of regional artworks.",
+                  "category": "museum",
+                  "coords": [
+                        -7.991025,
+                        31.631623
+                  ]
+            },
+            {
+                  "name": "Dar Cherifa",
+                  "text": "Housed in a beautiful historic riad, this gallery in Marrakech is a cultural center for art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -7.990286,
+                        31.629188
+                  ]
+            },
+            {
+                  "name": "Maison de la Photographie",
+                  "text": "This photography gallery in Marrakech houses an exceptional collection of historical photographs from Morocco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.984367,
+                        31.631986
+                  ]
+            },
+            {
+                  "name": "Concerie",
+                  "text": "From this viewpoint in Marrakech, one has a good view of the colorful bustle of the tanneries.",
+                  "category": "natural",
+                  "coords": [
+                        -7.98046,
+                        31.633405
+                  ]
+            },
+            {
+                  "name": "Souk El Jadid",
+                  "text": "This traditional souk in Marrakech offers a variety of local goods and handicrafts.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.988438,
+                        31.62653
+                  ]
+            },
+            {
+                  "name": "Mausoleum of Sidi Abou Faris Abdelaziz Tebbâa",
+                  "text": "This historic site in Marrakech is the mausoleum of one of the Seven Saints of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.989019,
+                        31.632064
+                  ]
+            },
+            {
+                  "name": "central souqs",
+                  "text": "The central souqs of Marrakech are a labyrinthine network of markets full of local treasures.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.987464,
+                        31.6303
+                  ]
+            },
+            {
+                  "name": "derb essamour",
+                  "text": "This typical alley in Marrakech invites visitors to discover the traditional architecture of the medina.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.997923,
+                        31.632977
+                  ]
+            },
+            {
+                  "name": "carpet souq",
+                  "text": "In this specific souk in Marrakech, visitors can admire an impressive selection of traditional Moroccan carpets.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.987343,
+                        31.629241
+                  ]
+            },
+            {
+                  "name": "Souk of the dyers",
+                  "text": "This colorful souk in Marrakech is famous for the bundles of freshly dyed fabrics hung up to dry.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.988577,
+                        31.630366
+                  ]
+            },
+            {
+                  "name": "Jardin de l'Agdal",
+                  "text": "These expansive historic gardens in Marrakech are laid out with numerous fruit trees and large water basins.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.979694,
+                        31.612183
+                  ]
+            },
+            {
+                  "name": "Subhan Art Gallery Marrakech",
+                  "text": "This gallery in Marrakech exhibits contemporary artworks by local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        -7.989855,
+                        31.630346
+                  ]
+            },
+            {
+                  "name": "Jewish Cemetery Miaara",
+                  "text": "This historic Jewish cemetery in Marrakech is the largest of its kind in Morocco.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.979068,
+                        31.620338
+                  ]
+            },
+            {
+                  "name": "Bab Ksiba",
+                  "text": "This small historic city gate in Marrakech once led into the Kasbah district.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.989343,
+                        31.612225
+                  ]
+            },
+            {
+                  "name": "Bab Doukkala",
+                  "text": "This imposing historical city gate in Marrakech is flanked by two massive towers.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.999019,
+                        31.633992
+                  ]
+            },
+            {
+                  "name": "Berrima Mosque",
+                  "text": "This historic mosque in Marrakech is closely associated with the royal kasbah.",
+                  "category": "religious",
+                  "coords": [
+                        -7.982873,
+                        31.616623
+                  ]
+            },
+            {
+                  "name": "Bab Hmar",
+                  "text": "This traditional city gate in Marrakech is another interesting example of the old fortifications.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.976336,
+                        31.614628
+                  ]
+            },
+            {
+                  "name": "Jardins de La Mamounia",
+                  "text": "Jardins de La Mamounia is a hotel located in Marrakech.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.99667,
+                        31.619834
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-07",
     coords: [-7.9811, 31.6295],
@@ -263,7 +3962,268 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville impériale animée, connue sous le nom de 'Ville rouge'.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-marrakech-cities-v2.webp"},
   {
-    id: "ma-tangier-cities-v2",
+    id: "ma-tangier-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jojo Land",
+                  "text": "Jojo Land ist ein Vergnügungs- und Themenpark in Tanger.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.858818,
+                        35.773465
+                  ]
+            },
+            {
+                  "name": "Sala de Exposiciones Instituto Cervantes",
+                  "text": "Diese Galerie im Instituto Cervantes beherbergt Kunstausstellungen in Tanger.",
+                  "category": "museum",
+                  "coords": [
+                        -5.813555,
+                        35.780588
+                  ]
+            },
+            {
+                  "name": "Palais des Institutions Italienns قصر المؤسسات الإيطالية",
+                  "text": "Der Palace of Italian Institutions ist ein historisches Kunstzentrum in Tanger.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.821765,
+                        35.78549
+                  ]
+            },
+            {
+                  "name": "Kathedrale von Tanger",
+                  "text": "Die Kathedrale Mariä Himmelfahrt ist eine markante katholische Kirche, die der Gemeinde in Tanger dient.",
+                  "category": "religious",
+                  "coords": [
+                        -5.817884,
+                        35.781746
+                  ]
+            },
+            {
+                  "name": "Mosquée Tariq Ibn Ziad مسجد طارق بن زياد",
+                  "text": "Die Große Moschee von Tanger ist ein historisches islamisches Gotteshaus im Herzen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -5.823556,
+                        35.766113
+                  ]
+            },
+            {
+                  "name": "Sankt-Andreas-Kirche",
+                  "text": "Die St.-Andreas-Kirche ist ein bekanntes anglikanisches Gotteshaus in Tanger.",
+                  "category": "religious",
+                  "coords": [
+                        -5.823084,
+                        35.784971
+                  ]
+            },
+            {
+                  "name": "Eglise Française",
+                  "text": "Die Französische Kirche ist ein bemerkenswertes christliches Gotteshaus in der Stadt Tanger.",
+                  "category": "religious",
+                  "coords": [
+                        -5.807075,
+                        35.77471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jojo Land",
+                  "text": "A Jojo Land egy vidámpark és tematikus park Tangerben.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.858818,
+                        35.773465
+                  ]
+            },
+            {
+                  "name": "Sala de Exposiciones Instituto Cervantes",
+                  "text": "Az Instituto Cervantes galériája művészeti kiállításoknak ad otthont Tangerben.",
+                  "category": "museum",
+                  "coords": [
+                        -5.813555,
+                        35.780588
+                  ]
+            },
+            {
+                  "name": "Palais des Institutions Italienns قصر المؤسسات الإيطالية",
+                  "text": "A Palace of Italian Institutions egy történelmi művészeti központ Tangerben.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.821765,
+                        35.78549
+                  ]
+            },
+            {
+                  "name": "Catedral del Espíritu Santo",
+                  "text": "A Nagyboldogasszony-katedrális egy kiemelkedő katolikus templom, amely a tangeri közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -5.817884,
+                        35.781746
+                  ]
+            },
+            {
+                  "name": "Mosquée Tariq Ibn Ziad مسجد طارق بن زياد",
+                  "text": "A tangeri Nagymecset egy történelmi iszlám istentiszteleti hely a város szívében.",
+                  "category": "religious",
+                  "coords": [
+                        -5.823556,
+                        35.766113
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Andrés كنيسة القديس أندرو",
+                  "text": "A Szent András-templom egy jól ismert anglikán istentiszteleti hely Tangerben.",
+                  "category": "religious",
+                  "coords": [
+                        -5.823084,
+                        35.784971
+                  ]
+            },
+            {
+                  "name": "Eglise Française",
+                  "text": "A Francia Templom egy figyelemre méltó keresztény istentiszteleti hely Tanger városában.",
+                  "category": "religious",
+                  "coords": [
+                        -5.807075,
+                        35.77471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jojo Land",
+                  "text": "Jojo Land este un parc de distracții și tematic situat în Tanger.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.858818,
+                        35.773465
+                  ]
+            },
+            {
+                  "name": "Sala de Exposiciones Instituto Cervantes",
+                  "text": "Această galerie de la Instituto Cervantes găzduiește expoziții de artă în Tanger.",
+                  "category": "museum",
+                  "coords": [
+                        -5.813555,
+                        35.780588
+                  ]
+            },
+            {
+                  "name": "Palais des Institutions Italienns قصر المؤسسات الإيطالية",
+                  "text": "Palatul Instituțiilor Italiene este un centru de artă istoric din Tanger.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.821765,
+                        35.78549
+                  ]
+            },
+            {
+                  "name": "Catedral del Espíritu Santo",
+                  "text": "Catedrala Adormirea Maicii Domnului este o biserică catolică proeminentă care deservește comunitatea din Tanger.",
+                  "category": "religious",
+                  "coords": [
+                        -5.817884,
+                        35.781746
+                  ]
+            },
+            {
+                  "name": "Mosquée Tariq Ibn Ziad مسجد طارق بن زياد",
+                  "text": "Marea Moschee din Tanger este un lăcaș de cult islamic istoric situat în inima orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -5.823556,
+                        35.766113
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Andrés كنيسة القديس أندرو",
+                  "text": "Biserica Sf. Andrei este un cunoscut lăcaș de cult anglican situat în Tanger.",
+                  "category": "religious",
+                  "coords": [
+                        -5.823084,
+                        35.784971
+                  ]
+            },
+            {
+                  "name": "Eglise Française",
+                  "text": "Biserica Franceză este un lăcaș de cult creștin notabil din orașul Tanger.",
+                  "category": "religious",
+                  "coords": [
+                        -5.807075,
+                        35.77471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jojo Land",
+                  "text": "Jojo Land is an amusement and theme park located in Tangier.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.858818,
+                        35.773465
+                  ]
+            },
+            {
+                  "name": "Sala de Exposiciones Instituto Cervantes",
+                  "text": "This gallery at the Instituto Cervantes hosts art exhibitions in Tangier.",
+                  "category": "museum",
+                  "coords": [
+                        -5.813555,
+                        35.780588
+                  ]
+            },
+            {
+                  "name": "Palace of Italian Institutions",
+                  "text": "The Palace of Italian Institutions is a prominent historical arts centre in Tangier.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.821765,
+                        35.78549
+                  ]
+            },
+            {
+                  "name": "Tangier Cathedral",
+                  "text": "The Cathedral of Our Lady of the Assumption is a prominent Catholic church serving the community in Tangier.",
+                  "category": "religious",
+                  "coords": [
+                        -5.817884,
+                        35.781746
+                  ]
+            },
+            {
+                  "name": "Grand Mosque of Tangier",
+                  "text": "The Grand Mosque of Tangier is a historic Islamic place of worship located in the heart of the city.",
+                  "category": "religious",
+                  "coords": [
+                        -5.823556,
+                        35.766113
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Andrés كنيسة القديس أندرو",
+                  "text": "St. Andrew's Church is a well-known Anglican place of worship located in Tangier.",
+                  "category": "religious",
+                  "coords": [
+                        -5.823084,
+                        35.784971
+                  ]
+            },
+            {
+                  "name": "Eglise Française",
+                  "text": "The French Church is a notable Christian place of worship in the city of Tangier.",
+                  "category": "religious",
+                  "coords": [
+                        -5.807075,
+                        35.77471
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-5.834, 35.7595],
@@ -329,7 +4289,268 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville portuaire majeure sur le détroit de Gibraltar.", "Se situe sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-tangier-cities-v2.webp"},
   {
-    id: "ma-agadir-cities-v2",
+    id: "ma-agadir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vallée des Oiseaux",
+                  "text": "Zoo in Agadir.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.602126,
+                        30.419633
+                  ]
+            },
+            {
+                  "name": "Théâtre de Plein-Air",
+                  "text": "Theater in Agadir.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.59809,
+                        30.415753
+                  ]
+            },
+            {
+                  "name": "Plage d'Agadir شاطئ أكادير",
+                  "text": "Strand in Agadir.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.607176,
+                        30.397614
+                  ]
+            },
+            {
+                  "name": "Museum of Amazigh Culture",
+                  "text": "Museum in Agadir.",
+                  "category": "museum",
+                  "coords": [
+                        -9.597133,
+                        30.416041
+                  ]
+            },
+            {
+                  "name": "Kasbah Agadir Oufellah",
+                  "text": "Ruinen in Agadir.",
+                  "category": "historical",
+                  "coords": [
+                        -9.624762,
+                        30.42974
+                  ]
+            },
+            {
+                  "name": "Bianca Beach",
+                  "text": "Attraktion in Agadir.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.616965,
+                        30.420926
+                  ]
+            },
+            {
+                  "name": "Souk El Had",
+                  "text": "Attraktion in Agadir.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.57975,
+                        30.41251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vallée des Oiseaux",
+                  "text": "Állatkert Agadirban.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.602126,
+                        30.419633
+                  ]
+            },
+            {
+                  "name": "Théâtre de Plein-Air",
+                  "text": "Színház Agadirban.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.59809,
+                        30.415753
+                  ]
+            },
+            {
+                  "name": "Plage d'Agadir شاطئ أكادير",
+                  "text": "Strand Agadirban.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.607176,
+                        30.397614
+                  ]
+            },
+            {
+                  "name": "Museum of Amazigh Culture",
+                  "text": "Múzeum Agadirban.",
+                  "category": "museum",
+                  "coords": [
+                        -9.597133,
+                        30.416041
+                  ]
+            },
+            {
+                  "name": "Kasbah Agadir Oufellah",
+                  "text": "Romok Agadirban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.624762,
+                        30.42974
+                  ]
+            },
+            {
+                  "name": "Bianca Beach",
+                  "text": "Látnivaló Agadirban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.616965,
+                        30.420926
+                  ]
+            },
+            {
+                  "name": "Souk El Had",
+                  "text": "Látnivaló Agadirban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.57975,
+                        30.41251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vallée des Oiseaux",
+                  "text": "Grădină zoologică în Agadir.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.602126,
+                        30.419633
+                  ]
+            },
+            {
+                  "name": "Théâtre de Plein-Air",
+                  "text": "Teatru în Agadir.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.59809,
+                        30.415753
+                  ]
+            },
+            {
+                  "name": "Plage d'Agadir شاطئ أكادير",
+                  "text": "Plajă în Agadir.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.607176,
+                        30.397614
+                  ]
+            },
+            {
+                  "name": "Museum of Amazigh Culture",
+                  "text": "Muzeu în Agadir.",
+                  "category": "museum",
+                  "coords": [
+                        -9.597133,
+                        30.416041
+                  ]
+            },
+            {
+                  "name": "Kasbah Agadir Oufellah",
+                  "text": "Ruine în Agadir.",
+                  "category": "historical",
+                  "coords": [
+                        -9.624762,
+                        30.42974
+                  ]
+            },
+            {
+                  "name": "Bianca Beach",
+                  "text": "Atracție în Agadir.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.616965,
+                        30.420926
+                  ]
+            },
+            {
+                  "name": "Souk El Had",
+                  "text": "Atracție în Agadir.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.57975,
+                        30.41251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vallée des Oiseaux",
+                  "text": "Zoo in Agadir.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.602126,
+                        30.419633
+                  ]
+            },
+            {
+                  "name": "Théâtre de Plein-Air",
+                  "text": "Theatre in Agadir.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.59809,
+                        30.415753
+                  ]
+            },
+            {
+                  "name": "Plage d'Agadir شاطئ أكادير",
+                  "text": "Beach in Agadir.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.607176,
+                        30.397614
+                  ]
+            },
+            {
+                  "name": "Museum of Amazigh Culture",
+                  "text": "Museum in Agadir.",
+                  "category": "museum",
+                  "coords": [
+                        -9.597133,
+                        30.416041
+                  ]
+            },
+            {
+                  "name": "Kasbah Agadir Oufellah",
+                  "text": "Ruins in Agadir.",
+                  "category": "historical",
+                  "coords": [
+                        -9.624762,
+                        30.42974
+                  ]
+            },
+            {
+                  "name": "Bianca Beach",
+                  "text": "Attraction in Agadir.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.616965,
+                        30.420926
+                  ]
+            },
+            {
+                  "name": "Souk El Had",
+                  "text": "Attraction in Agadir.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.57975,
+                        30.41251
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-09",
     coords: [-9.5981, 30.4278],
@@ -395,7 +4616,1312 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["A été presque entièrement reconstruite après le séisme de 1960.", "Offre 300 jours d'ensoleillement par an.", "Possède un port de pêche important.", "Un centre pour le tourisme de surf."],
     }, image: "/poi-images/ma-agadir-cities-v2.webp"},
   {
-    id: "ma-meknes-cities-v2",
+    id: "ma-meknes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mausolée de Moulay Ismaïl ضريح مولاي إسماعيل",
+                  "text": "Das Mausoleum von Moulay Ismail ist ein Museum in Meknès, das dem bedeutenden marokkanischen Sultan gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -5.562708,
+                        33.891058
+                  ]
+            },
+            {
+                  "name": "Musée Dar Jamaï",
+                  "text": "Das Dar Jamai Museum ist ein Museum in Meknès.",
+                  "category": "museum",
+                  "coords": [
+                        -5.566576,
+                        33.893658
+                  ]
+            },
+            {
+                  "name": "Medrasa Bou Inania",
+                  "text": "Medrasa Bou Inania ist ein historisches Museum in Meknès.",
+                  "category": "museum",
+                  "coords": [
+                        -5.56527,
+                        33.895154
+                  ]
+            },
+            {
+                  "name": "Theatre El Menouni",
+                  "text": "Das Theatre El Menouni ist ein Theater in Meknès.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.549936,
+                        33.894017
+                  ]
+            },
+            {
+                  "name": "Meknes Museum",
+                  "text": "Das Meknes Museum ist ein lokales Museum in Meknès.",
+                  "category": "museum",
+                  "coords": [
+                        -5.563819,
+                        33.893237
+                  ]
+            },
+            {
+                  "name": "باب بالقاري",
+                  "text": "Bab el Kari ist eine Burganlage in Meknès.",
+                  "category": "castle",
+                  "coords": [
+                        -5.565282,
+                        33.885557
+                  ]
+            },
+            {
+                  "name": "Palais Royal القصر الملكي",
+                  "text": "Das Palais Royal ist eine königliche Burganlage in Meknès.",
+                  "category": "castle",
+                  "coords": [
+                        -5.554538,
+                        33.88665
+                  ]
+            },
+            {
+                  "name": "Lahboul Zoo",
+                  "text": "Der Lahboul Zoo ist ein zoologischer Garten in Meknès.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.561604,
+                        33.897605
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air Lahboul",
+                  "text": "Das Théâtre en plein air Lahboul ist ein Freilichttheater in Meknès.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.563165,
+                        33.899268
+                  ]
+            },
+            {
+                  "name": "Bab bouamair باب بوعمير",
+                  "text": "Bab bouamair ist ein historisches Denkmal in Meknès.",
+                  "category": "historical",
+                  "coords": [
+                        -5.557717,
+                        33.894152
+                  ]
+            },
+            {
+                  "name": "Bab Rha (porte historique) باب الرحى",
+                  "text": "Bab Rha ist ein historisches Tor und Denkmal in Meknès.",
+                  "category": "historical",
+                  "coords": [
+                        -5.568427,
+                        33.891409
+                  ]
+            },
+            {
+                  "name": "Étang del Agdal",
+                  "text": "Étang del Agdal ist eine lokale Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.560019,
+                        33.881308
+                  ]
+            },
+            {
+                  "name": "Bab el-jadid",
+                  "text": "Bab el-jadid ist eine Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.569496,
+                        33.89718
+                  ]
+            },
+            {
+                  "name": "Heri es Souani",
+                  "text": "Heri es Souani ist ein monumentales Bauwerk in Meknès.",
+                  "category": "historical",
+                  "coords": [
+                        -5.557333,
+                        33.88076
+                  ]
+            },
+            {
+                  "name": "Bab Naoura",
+                  "text": "Bab Naoura ist ein Denkmal in Meknès.",
+                  "category": "historical",
+                  "coords": [
+                        -5.55273,
+                        33.885175
+                  ]
+            },
+            {
+                  "name": "Prison Kara",
+                  "text": "Die Prison Kara ist ein historisches Denkmal in Meknès.",
+                  "category": "historical",
+                  "coords": [
+                        -5.565,
+                        33.890892
+                  ]
+            },
+            {
+                  "name": "ساحة الهديم",
+                  "text": "Dieser Ort ist eine öffentliche Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.565666,
+                        33.893249
+                  ]
+            },
+            {
+                  "name": "Le portail de Moulay Ismaïl",
+                  "text": "Le portail de Moulay Ismaïl ist eine Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563829,
+                        33.890669
+                  ]
+            },
+            {
+                  "name": "باب سيدي عمر",
+                  "text": "Dieser Ort ist ein historisches Tor und eine Attraktion in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.559279,
+                        33.89207
+                  ]
+            },
+            {
+                  "name": "باب بريمة",
+                  "text": "Dieses Bauwerk ist ein historisches Denkmal in Meknès.",
+                  "category": "historical",
+                  "coords": [
+                        -5.568753,
+                        33.893875
+                  ]
+            },
+            {
+                  "name": "باب الدار الكبيرة",
+                  "text": "Dieses Tor ist eine Sehenswürdigkeit in der Stadt Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.561739,
+                        33.890919
+                  ]
+            },
+            {
+                  "name": "باب تيزمي",
+                  "text": "Dieser Ort ist eine lokale Touristenattraktion in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.567457,
+                        33.900119
+                  ]
+            },
+            {
+                  "name": "باب فيلالة",
+                  "text": "Diese historische Stätte ist eine Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563891,
+                        33.891909
+                  ]
+            },
+            {
+                  "name": "باب عقبة زيدان",
+                  "text": "Dieses Tor ist eine Sehenswürdigkeit in der Stadt Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563411,
+                        33.894946
+                  ]
+            },
+            {
+                  "name": "باب الأنوار",
+                  "text": "Dieses Bauwerk ist eine Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.565069,
+                        33.892348
+                  ]
+            },
+            {
+                  "name": "باب الخميس",
+                  "text": "Dieses Tor gilt als Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.572363,
+                        33.891289
+                  ]
+            },
+            {
+                  "name": "باب سراغ",
+                  "text": "Dieser Ort ist eine bemerkenswerte Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.553264,
+                        33.886443
+                  ]
+            },
+            {
+                  "name": "Bab El Bettioui",
+                  "text": "Bab El Bettioui ist eine lokale Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563449,
+                        33.870618
+                  ]
+            },
+            {
+                  "name": "باب بين القباب",
+                  "text": "Dieses architektonische Tor ist eine Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.566314,
+                        33.888385
+                  ]
+            },
+            {
+                  "name": "نحث الكراب",
+                  "text": "Dieser Ort dient als Sehenswürdigkeit in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.558387,
+                        33.881008
+                  ]
+            },
+            {
+                  "name": "Palais Al Mansour",
+                  "text": "Palais Al Mansour ist ein historisches Denkmal in Meknès.",
+                  "category": "historical",
+                  "coords": [
+                        -5.559896,
+                        33.868127
+                  ]
+            },
+            {
+                  "name": "maison des jeunes Abdelkarim al Khattabi دار الشباب - عبد الكريم الخطابي",
+                  "text": "Dieses Jugendhaus ist ein Kunstzentrum in Meknès.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.558141,
+                        33.89561
+                  ]
+            },
+            {
+                  "name": "Conservatoire de musique",
+                  "text": "Das Conservatoire de musique ist ein Kunstzentrum für Musik in Meknès.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.547486,
+                        33.899404
+                  ]
+            },
+            {
+                  "name": "Michel Joubert Cultural Center",
+                  "text": "Das Michel Joubert Cultural Center ist ein Veranstaltungsort für Kunst in Meknès.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.547503,
+                        33.901142
+                  ]
+            },
+            {
+                  "name": "Tannery of Meknes",
+                  "text": "Die Gerberei von Meknès ist eine historische Stätte, die lokale Traditionen widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.571248,
+                        33.896402
+                  ]
+            },
+            {
+                  "name": "Pont Al Foursane",
+                  "text": "Pont Al Foursane ist eine historische Brücke in Meknès.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.562547,
+                        33.876741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mausolée de Moulay Ismaïl ضريح مولاي إسماعيل",
+                  "text": "A Moulay Ismail mauzóleum egy múzeum Mekneszben, amelyet a jelentős marokkói szultánnak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -5.562708,
+                        33.891058
+                  ]
+            },
+            {
+                  "name": "Musée Dar Jamaï",
+                  "text": "A Dar Jamai Múzeum Meknesz városában található.",
+                  "category": "museum",
+                  "coords": [
+                        -5.566576,
+                        33.893658
+                  ]
+            },
+            {
+                  "name": "Medrasa Bou Inania",
+                  "text": "A Medrasa Bou Inania egy múzeumként működő történelmi helyszín Mekneszben.",
+                  "category": "museum",
+                  "coords": [
+                        -5.56527,
+                        33.895154
+                  ]
+            },
+            {
+                  "name": "Theatre El Menouni",
+                  "text": "A Theatre El Menouni egy színház Meknesz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.549936,
+                        33.894017
+                  ]
+            },
+            {
+                  "name": "Meknes Museum",
+                  "text": "A Meknesz Múzeum egy helyi múzeum Meknesz városában.",
+                  "category": "museum",
+                  "coords": [
+                        -5.563819,
+                        33.893237
+                  ]
+            },
+            {
+                  "name": "باب بالقاري",
+                  "text": "A Bab el Kari egy kastélyépület Mekneszben.",
+                  "category": "castle",
+                  "coords": [
+                        -5.565282,
+                        33.885557
+                  ]
+            },
+            {
+                  "name": "Palais Royal القصر الملكي",
+                  "text": "A Palais Royal egy királyi palota és kastély Mekneszben.",
+                  "category": "castle",
+                  "coords": [
+                        -5.554538,
+                        33.88665
+                  ]
+            },
+            {
+                  "name": "Lahboul Zoo",
+                  "text": "A Lahboul Állatkert Meknesz városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.561604,
+                        33.897605
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air Lahboul",
+                  "text": "A Théâtre en plein air Lahboul egy szabadtéri színház Mekneszben.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.563165,
+                        33.899268
+                  ]
+            },
+            {
+                  "name": "Bab bouamair باب بوعمير",
+                  "text": "A Bab bouamair egy történelmi emlékmű Meknesz városában.",
+                  "category": "historical",
+                  "coords": [
+                        -5.557717,
+                        33.894152
+                  ]
+            },
+            {
+                  "name": "Bab Rha (porte historique) باب الرحى",
+                  "text": "A Bab Rha egy történelmi kapu és emlékmű Mekneszben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.568427,
+                        33.891409
+                  ]
+            },
+            {
+                  "name": "Étang del Agdal",
+                  "text": "Az Étang del Agdal egy helyi látványosság Mekneszben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.560019,
+                        33.881308
+                  ]
+            },
+            {
+                  "name": "Bab el-jadid",
+                  "text": "A Bab el-jadid egy látványosság Meknesz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.569496,
+                        33.89718
+                  ]
+            },
+            {
+                  "name": "Heri es Souani",
+                  "text": "A Heri es Souani egy monumentális építmény Mekneszben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.557333,
+                        33.88076
+                  ]
+            },
+            {
+                  "name": "Bab Naoura",
+                  "text": "A Bab Naoura egy emlékmű Meknesz városában.",
+                  "category": "historical",
+                  "coords": [
+                        -5.55273,
+                        33.885175
+                  ]
+            },
+            {
+                  "name": "Prison Kara",
+                  "text": "A Kara börtön egy történelmi emlékmű Mekneszben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.565,
+                        33.890892
+                  ]
+            },
+            {
+                  "name": "ساحة الهديم",
+                  "text": "Ez a hely egy nyilvános látványosság Mekneszben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.565666,
+                        33.893249
+                  ]
+            },
+            {
+                  "name": "Le portail de Moulay Ismaïl",
+                  "text": "A Le portail de Moulay Ismaïl egy látványosság Mekneszben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563829,
+                        33.890669
+                  ]
+            },
+            {
+                  "name": "باب سيدي عمر",
+                  "text": "Ez a hely egy történelmi kapu és látványosság Mekneszben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.559279,
+                        33.89207
+                  ]
+            },
+            {
+                  "name": "باب بريمة",
+                  "text": "Ez az építmény egy történelmi emlékmű Meknesz városában.",
+                  "category": "historical",
+                  "coords": [
+                        -5.568753,
+                        33.893875
+                  ]
+            },
+            {
+                  "name": "باب الدار الكبيرة",
+                  "text": "Ez a kapu Meknesz városának egyik látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.561739,
+                        33.890919
+                  ]
+            },
+            {
+                  "name": "باب تيزمي",
+                  "text": "Ez a hely helyi turisztikai látványosságként szolgál Mekneszben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.567457,
+                        33.900119
+                  ]
+            },
+            {
+                  "name": "باب فيلالة",
+                  "text": "Ez a történelmi helyszín egy látványosság Mekneszben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563891,
+                        33.891909
+                  ]
+            },
+            {
+                  "name": "باب عقبة زيدان",
+                  "text": "Ez a kapu látványosságként áll Meknesz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563411,
+                        33.894946
+                  ]
+            },
+            {
+                  "name": "باب الأنوار",
+                  "text": "Ez az építmény Meknesz egyik látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.565069,
+                        33.892348
+                  ]
+            },
+            {
+                  "name": "باب الخميس",
+                  "text": "Ez a kapu látványosságként ismert Mekneszben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.572363,
+                        33.891289
+                  ]
+            },
+            {
+                  "name": "باب سراغ",
+                  "text": "Ez a hely egy figyelemre méltó látványosság Mekneszben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.553264,
+                        33.886443
+                  ]
+            },
+            {
+                  "name": "Bab El Bettioui",
+                  "text": "A Bab El Bettioui egy helyi látványosság Mekneszben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563449,
+                        33.870618
+                  ]
+            },
+            {
+                  "name": "باب بين القباب",
+                  "text": "Ez az építészeti kapu Meknesz egyik látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.566314,
+                        33.888385
+                  ]
+            },
+            {
+                  "name": "نحث الكراب",
+                  "text": "Ez a helyszín látványosságként szolgál Mekneszben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.558387,
+                        33.881008
+                  ]
+            },
+            {
+                  "name": "Palais Al Mansour",
+                  "text": "A Palais Al Mansour egy történelmi emlékmű Mekneszben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.559896,
+                        33.868127
+                  ]
+            },
+            {
+                  "name": "maison des jeunes Abdelkarim al Khattabi دار الشباب - عبد الكريم الخطابي",
+                  "text": "Ez az ifjúsági ház egy művészeti központ Mekneszben.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.558141,
+                        33.89561
+                  ]
+            },
+            {
+                  "name": "Conservatoire de musique",
+                  "text": "A Conservatoire de musique egy zenének szentelt művészeti központ Mekneszben.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.547486,
+                        33.899404
+                  ]
+            },
+            {
+                  "name": "Michel Joubert Cultural Center",
+                  "text": "A Michel Joubert Kulturális Központ egy művészeti helyszín Mekneszben.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.547503,
+                        33.901142
+                  ]
+            },
+            {
+                  "name": "Tannery of Meknes",
+                  "text": "A mekneszi cserzőüzem a helyi hagyományokat őrző örökségi helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.571248,
+                        33.896402
+                  ]
+            },
+            {
+                  "name": "Pont Al Foursane",
+                  "text": "A Pont Al Foursane egy örökségi híd Meknesz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.562547,
+                        33.876741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mausolée de Moulay Ismaïl ضريح مولاي إسماعيل",
+                  "text": "Mausoleul lui Moulay Ismail este un muzeu din Meknes, dedicat notabilului sultan marocan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.562708,
+                        33.891058
+                  ]
+            },
+            {
+                  "name": "Musée Dar Jamaï",
+                  "text": "Muzeul Dar Jamai este un muzeu situat în Meknes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.566576,
+                        33.893658
+                  ]
+            },
+            {
+                  "name": "Medrasa Bou Inania",
+                  "text": "Medrasa Bou Inania este un muzeu situat în orașul Meknes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.56527,
+                        33.895154
+                  ]
+            },
+            {
+                  "name": "Theatre El Menouni",
+                  "text": "Teatrul El Menouni este un teatru din orașul Meknes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.549936,
+                        33.894017
+                  ]
+            },
+            {
+                  "name": "Meknes Museum",
+                  "text": "Muzeul Meknes este un muzeu local situat în orașul Meknes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.563819,
+                        33.893237
+                  ]
+            },
+            {
+                  "name": "باب بالقاري",
+                  "text": "Bab el Kari este un castel situat în Meknes.",
+                  "category": "castle",
+                  "coords": [
+                        -5.565282,
+                        33.885557
+                  ]
+            },
+            {
+                  "name": "Palais Royal القصر الملكي",
+                  "text": "Palais Royal este un castel și complex monumental din Meknes.",
+                  "category": "castle",
+                  "coords": [
+                        -5.554538,
+                        33.88665
+                  ]
+            },
+            {
+                  "name": "Lahboul Zoo",
+                  "text": "Grădina Zoologică Lahboul este un parc zoologic situat în Meknes.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.561604,
+                        33.897605
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air Lahboul",
+                  "text": "Théâtre en plein air Lahboul este un teatru în aer liber din Meknes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.563165,
+                        33.899268
+                  ]
+            },
+            {
+                  "name": "Bab bouamair باب بوعمير",
+                  "text": "Bab bouamair este un monument istoric situat în Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.557717,
+                        33.894152
+                  ]
+            },
+            {
+                  "name": "Bab Rha (porte historique) باب الرحى",
+                  "text": "Bab Rha este o poartă istorică și un monument din Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.568427,
+                        33.891409
+                  ]
+            },
+            {
+                  "name": "Étang del Agdal",
+                  "text": "Étang del Agdal este o atracție locală situată în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.560019,
+                        33.881308
+                  ]
+            },
+            {
+                  "name": "Bab el-jadid",
+                  "text": "Bab el-jadid este o atracție situată în orașul Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.569496,
+                        33.89718
+                  ]
+            },
+            {
+                  "name": "Heri es Souani",
+                  "text": "Heri es Souani este o structură monumentală din Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.557333,
+                        33.88076
+                  ]
+            },
+            {
+                  "name": "Bab Naoura",
+                  "text": "Bab Naoura este un monument situat în Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.55273,
+                        33.885175
+                  ]
+            },
+            {
+                  "name": "Prison Kara",
+                  "text": "Închisoarea Kara este un monument istoric din Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.565,
+                        33.890892
+                  ]
+            },
+            {
+                  "name": "ساحة الهديم",
+                  "text": "Acest loc este o atracție publică situată în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.565666,
+                        33.893249
+                  ]
+            },
+            {
+                  "name": "Le portail de Moulay Ismaïl",
+                  "text": "Le portail de Moulay Ismaïl este o atracție situată în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563829,
+                        33.890669
+                  ]
+            },
+            {
+                  "name": "باب سيدي عمر",
+                  "text": "Acest loc este o poartă istorică și o atracție în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.559279,
+                        33.89207
+                  ]
+            },
+            {
+                  "name": "باب بريمة",
+                  "text": "Această structură este un monument istoric din Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.568753,
+                        33.893875
+                  ]
+            },
+            {
+                  "name": "باب الدار الكبيرة",
+                  "text": "Această poartă este o atracție situată în orașul Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.561739,
+                        33.890919
+                  ]
+            },
+            {
+                  "name": "باب تيزمي",
+                  "text": "Acest loc servește drept atracție turistică locală în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.567457,
+                        33.900119
+                  ]
+            },
+            {
+                  "name": "باب فيلالة",
+                  "text": "Acest sit istoric este o atracție situată în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563891,
+                        33.891909
+                  ]
+            },
+            {
+                  "name": "باب عقبة زيدان",
+                  "text": "Această poartă este o atracție în orașul Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563411,
+                        33.894946
+                  ]
+            },
+            {
+                  "name": "باب الأنوار",
+                  "text": "Această structură este o atracție situată în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.565069,
+                        33.892348
+                  ]
+            },
+            {
+                  "name": "باب الخميس",
+                  "text": "Această poartă este recunoscută ca o atracție în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.572363,
+                        33.891289
+                  ]
+            },
+            {
+                  "name": "باب سراغ",
+                  "text": "Acest loc este o atracție notabilă din Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.553264,
+                        33.886443
+                  ]
+            },
+            {
+                  "name": "Bab El Bettioui",
+                  "text": "Bab El Bettioui este o atracție locală din Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563449,
+                        33.870618
+                  ]
+            },
+            {
+                  "name": "باب بين القباب",
+                  "text": "Această poartă arhitecturală este o atracție în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.566314,
+                        33.888385
+                  ]
+            },
+            {
+                  "name": "نحث الكراب",
+                  "text": "Această locație servește drept atracție în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.558387,
+                        33.881008
+                  ]
+            },
+            {
+                  "name": "Palais Al Mansour",
+                  "text": "Palais Al Mansour este un monument istoric situat în Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.559896,
+                        33.868127
+                  ]
+            },
+            {
+                  "name": "maison des jeunes Abdelkarim al Khattabi دار الشباب - عبد الكريم الخطابي",
+                  "text": "Această casă de tineret este un centru de arte situat în Meknes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.558141,
+                        33.89561
+                  ]
+            },
+            {
+                  "name": "Conservatoire de musique",
+                  "text": "Conservatoire de musique este un centru de arte dedicat muzicii din Meknes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.547486,
+                        33.899404
+                  ]
+            },
+            {
+                  "name": "Michel Joubert Cultural Center",
+                  "text": "Centrul Cultural Michel Joubert este un spațiu pentru arte situat în Meknes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.547503,
+                        33.901142
+                  ]
+            },
+            {
+                  "name": "Tannery of Meknes",
+                  "text": "Tăbăcăria din Meknes este un sit de patrimoniu care reflectă tradițiile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.571248,
+                        33.896402
+                  ]
+            },
+            {
+                  "name": "Pont Al Foursane",
+                  "text": "Pont Al Foursane este un pod de patrimoniu situat în Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.562547,
+                        33.876741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mausoleum of Moulay Ismail",
+                  "text": "The Mausoleum of Moulay Ismail is a museum in Meknes dedicated to the notable Moroccan sultan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.562708,
+                        33.891058
+                  ]
+            },
+            {
+                  "name": "Dar Jamai Museum",
+                  "text": "Dar Jamai Museum is a museum located in Meknes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.566576,
+                        33.893658
+                  ]
+            },
+            {
+                  "name": "Medrasa Bou Inania",
+                  "text": "Medrasa Bou Inania is a historic museum site located in Meknes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.56527,
+                        33.895154
+                  ]
+            },
+            {
+                  "name": "Theatre El Menouni",
+                  "text": "Theatre El Menouni is a theatre located in Meknes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.549936,
+                        33.894017
+                  ]
+            },
+            {
+                  "name": "Meknes Museum",
+                  "text": "Meknes Museum is a local museum located in Meknes.",
+                  "category": "museum",
+                  "coords": [
+                        -5.563819,
+                        33.893237
+                  ]
+            },
+            {
+                  "name": "Bab el Kari",
+                  "text": "Bab el Kari is a castle structure located in Meknes.",
+                  "category": "castle",
+                  "coords": [
+                        -5.565282,
+                        33.885557
+                  ]
+            },
+            {
+                  "name": "Palais Royal القصر الملكي",
+                  "text": "Palais Royal is a royal castle and monumental complex located in Meknes.",
+                  "category": "castle",
+                  "coords": [
+                        -5.554538,
+                        33.88665
+                  ]
+            },
+            {
+                  "name": "Lahboul Zoo",
+                  "text": "Lahboul Zoo is a zoological park situated in Meknes.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.561604,
+                        33.897605
+                  ]
+            },
+            {
+                  "name": "Théâtre en plein air Lahboul",
+                  "text": "Théâtre en plein air Lahboul is an open-air theatre located in Meknes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.563165,
+                        33.899268
+                  ]
+            },
+            {
+                  "name": "Bab bouamair باب بوعمير",
+                  "text": "Bab bouamair is a historical monument located in Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.557717,
+                        33.894152
+                  ]
+            },
+            {
+                  "name": "Bab Rha (porte historique) باب الرحى",
+                  "text": "Bab Rha is a historic gate and monument located in Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.568427,
+                        33.891409
+                  ]
+            },
+            {
+                  "name": "Étang del Agdal",
+                  "text": "Étang del Agdal is a local attraction located in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.560019,
+                        33.881308
+                  ]
+            },
+            {
+                  "name": "Bab el-jadid",
+                  "text": "Bab el-jadid is an attraction situated in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.569496,
+                        33.89718
+                  ]
+            },
+            {
+                  "name": "Heri es Souani",
+                  "text": "Heri es Souani is a monumental structure located in Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.557333,
+                        33.88076
+                  ]
+            },
+            {
+                  "name": "Bab Naoura",
+                  "text": "Bab Naoura is a monument located in Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.55273,
+                        33.885175
+                  ]
+            },
+            {
+                  "name": "Prison Kara",
+                  "text": "Prison Kara is a historical monument found in Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.565,
+                        33.890892
+                  ]
+            },
+            {
+                  "name": "ساحة الهديم",
+                  "text": "This site is a public attraction located in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.565666,
+                        33.893249
+                  ]
+            },
+            {
+                  "name": "Le portail de Moulay Ismaïl",
+                  "text": "Le portail de Moulay Ismaïl is an attraction situated in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563829,
+                        33.890669
+                  ]
+            },
+            {
+                  "name": "باب سيدي عمر",
+                  "text": "This site is a historical gate attraction in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.559279,
+                        33.89207
+                  ]
+            },
+            {
+                  "name": "باب بريمة",
+                  "text": "This structure is a historical monument located in Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.568753,
+                        33.893875
+                  ]
+            },
+            {
+                  "name": "باب الدار الكبيرة",
+                  "text": "This gate is an attraction located in the city of Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.561739,
+                        33.890919
+                  ]
+            },
+            {
+                  "name": "باب تيزمي",
+                  "text": "This site serves as a local tourist attraction in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.567457,
+                        33.900119
+                  ]
+            },
+            {
+                  "name": "باب فيلالة",
+                  "text": "This historical site is an attraction situated in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563891,
+                        33.891909
+                  ]
+            },
+            {
+                  "name": "باب عقبة زيدان",
+                  "text": "This gate stands as an attraction in the city of Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563411,
+                        33.894946
+                  ]
+            },
+            {
+                  "name": "باب الأنوار",
+                  "text": "This structure is an attraction located in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.565069,
+                        33.892348
+                  ]
+            },
+            {
+                  "name": "باب الخميس",
+                  "text": "This gate is recognized as an attraction in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.572363,
+                        33.891289
+                  ]
+            },
+            {
+                  "name": "باب سراغ",
+                  "text": "This place is a notable attraction located in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.553264,
+                        33.886443
+                  ]
+            },
+            {
+                  "name": "Bab El Bettioui",
+                  "text": "Bab El Bettioui is a local attraction located in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.563449,
+                        33.870618
+                  ]
+            },
+            {
+                  "name": "باب بين القباب",
+                  "text": "This architectural gate is an attraction in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.566314,
+                        33.888385
+                  ]
+            },
+            {
+                  "name": "نحث الكراب",
+                  "text": "This location serves as an attraction in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.558387,
+                        33.881008
+                  ]
+            },
+            {
+                  "name": "Palais Al Mansour",
+                  "text": "Palais Al Mansour is a historic monument located in Meknes.",
+                  "category": "historical",
+                  "coords": [
+                        -5.559896,
+                        33.868127
+                  ]
+            },
+            {
+                  "name": "maison des jeunes Abdelkarim al Khattabi دار الشباب - عبد الكريم الخطابي",
+                  "text": "This youth house is an arts centre located in Meknes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.558141,
+                        33.89561
+                  ]
+            },
+            {
+                  "name": "Conservatoire de musique",
+                  "text": "The Conservatoire de musique is an arts centre dedicated to music in Meknes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.547486,
+                        33.899404
+                  ]
+            },
+            {
+                  "name": "Michel Joubert Cultural Center",
+                  "text": "The Michel Joubert Cultural Center is a venue for arts located in Meknes.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.547503,
+                        33.901142
+                  ]
+            },
+            {
+                  "name": "Tannery of Meknes",
+                  "text": "The Tannery of Meknes is a heritage site reflecting local traditions in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.571248,
+                        33.896402
+                  ]
+            },
+            {
+                  "name": "Pont Al Foursane",
+                  "text": "Pont Al Foursane is a heritage bridge located in Meknes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.562547,
+                        33.876741
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-03",
     coords: [-5.5547, 33.8935],
@@ -461,7 +5987,556 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["L'une des quatre villes impériales, marquée par le sultan Moulay Ismaïl.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-meknes-cities-v2.webp"},
   {
-    id: "ma-oujda-cities-v2",
+    id: "ma-oujda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie D'Art Maghreb Al Arabi",
+                  "text": "Die Galerie D'Art Maghreb Al Arabi ist ein Kunstmuseum, das regionale kulturelle Werke in Oujda ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -1.912261,
+                        34.678202
+                  ]
+            },
+            {
+                  "name": "Musée Ethnographique Lalla Aicha",
+                  "text": "Das Ethnographische Museum Lalla Aicha zeigt traditionelle Artefakte und das lokale Erbe in Oujda.",
+                  "category": "museum",
+                  "coords": [
+                        -1.907608,
+                        34.673804
+                  ]
+            },
+            {
+                  "name": "روما",
+                  "text": "Roma ist ein lokales Theater, das als Veranstaltungsort für darstellende Künste in Oujda dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.900721,
+                        34.655649
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "Das Mohamed VI Theatre ist ein bedeutender kultureller Veranstaltungsort für Shows und künstlerische Darbietungen in Oujda.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.930441,
+                        34.67881
+                  ]
+            },
+            {
+                  "name": "Parc d'Attraction et d'Animation d'Oujda",
+                  "text": "Dieser Freizeitpark in Oujda bietet verschiedene Fahrgeschäfte und familienfreundliche Unterhaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.912032,
+                        34.697859
+                  ]
+            },
+            {
+                  "name": "Galerie d'Art",
+                  "text": "Die Galerie d'Art ist ein Museum in Oujda, das sich der Ausstellung verschiedener bildender Künste widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -1.918389,
+                        34.691491
+                  ]
+            },
+            {
+                  "name": "Mueée régional du mouvement national",
+                  "text": "Dieses Regionalmuseum in Oujda konzentriert sich auf die Geschichte der nationalen Bewegung.",
+                  "category": "museum",
+                  "coords": [
+                        -1.915373,
+                        34.678065
+                  ]
+            },
+            {
+                  "name": "Musée Lalla Meryem",
+                  "text": "Das Musée Lalla Meryem ist ein Museum, das historische und kulturelle Sammlungen in Oujda ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -1.91444,
+                        34.677452
+                  ]
+            },
+            {
+                  "name": "Centre Culturel d'Oujda",
+                  "text": "Das Kulturzentrum von Oujda ist ein Treffpunkt für Gemeindekunst, Ausstellungen und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.919441,
+                        34.690222
+                  ]
+            },
+            {
+                  "name": "Bab Sidi Abdelwahab",
+                  "text": "Bab Sidi Abdelwahab ist ein historisches und bedeutendes Tor in der Stadt Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.910056,
+                        34.679918
+                  ]
+            },
+            {
+                  "name": "Bab Ahl Jamel",
+                  "text": "Bab Ahl Jamel ist eines der traditionellen Tore, das als lokale Attraktion in Oujda dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.917248,
+                        34.681206
+                  ]
+            },
+            {
+                  "name": "Les Trois Fontaines",
+                  "text": "Les Trois Fontaines ist eine beliebte lokale Attraktion mit einer malerischen Brunnenanlage in Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.913393,
+                        34.678993
+                  ]
+            },
+            {
+                  "name": "Dar Sebti",
+                  "text": "Dar Sebti ist ein wunderschönes denkmalgeschütztes Gebäude und ein kultureller Veranstaltungsort in der Stadt Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.911985,
+                        34.677241
+                  ]
+            },
+            {
+                  "name": "Souk El Ma",
+                  "text": "Souk El Ma ist ein traditionelles Marktgebiet, das Besucher anzieht, die sich für den lokalen Handel in Oujda interessieren.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.913717,
+                        34.680263
+                  ]
+            },
+            {
+                  "name": "Ancienne Synagogue",
+                  "text": "Die Alte Synagoge ist eine historische jüdische Stätte und eine bemerkenswerte Attraktion in Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.915534,
+                        34.682319
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie D'Art Maghreb Al Arabi",
+                  "text": "A Galerie D'Art Maghreb Al Arabi egy művészeti múzeum, amely regionális kulturális alkotásokat mutat be Oujdában.",
+                  "category": "museum",
+                  "coords": [
+                        -1.912261,
+                        34.678202
+                  ]
+            },
+            {
+                  "name": "Musée Ethnographique Lalla Aicha",
+                  "text": "A Lalla Aicha Néprajzi Múzeum hagyományos tárgyakat és a helyi örökséget mutatja be Oujdában.",
+                  "category": "museum",
+                  "coords": [
+                        -1.907608,
+                        34.673804
+                  ]
+            },
+            {
+                  "name": "روما",
+                  "text": "A Roma egy helyi színház, amely előadóművészeti helyszínként szolgál Oujdában.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.900721,
+                        34.655649
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "A VI. Mohamed Színház egy kiemelkedő kulturális helyszín előadások és művészeti produkciók számára Oujdában.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.930441,
+                        34.67881
+                  ]
+            },
+            {
+                  "name": "Parc d'Attraction et d'Animation d'Oujda",
+                  "text": "Ez az oujdai vidámpark különféle szórakoztató túrákat és családbarát szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.912032,
+                        34.697859
+                  ]
+            },
+            {
+                  "name": "Galerie d'Art",
+                  "text": "A Galerie d'Art egy múzeum Oujdában, amely a vizuális művészetek bemutatásának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -1.918389,
+                        34.691491
+                  ]
+            },
+            {
+                  "name": "Mueée régional du mouvement national",
+                  "text": "Ez a regionális múzeum Oujdában a nemzeti mozgalom történetére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -1.915373,
+                        34.678065
+                  ]
+            },
+            {
+                  "name": "Musée Lalla Meryem",
+                  "text": "A Musée Lalla Meryem egy múzeum, amely történelmi és kulturális gyűjteményeket állít ki Oujdában.",
+                  "category": "museum",
+                  "coords": [
+                        -1.91444,
+                        34.677452
+                  ]
+            },
+            {
+                  "name": "Centre Culturel d'Oujda",
+                  "text": "Az Oujdai Kulturális Központ a közösségi művészetek, kiállítások és kulturális események központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.919441,
+                        34.690222
+                  ]
+            },
+            {
+                  "name": "Bab Sidi Abdelwahab",
+                  "text": "Bab Sidi Abdelwahab egy történelmi és jelentős kapu Oujda városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.910056,
+                        34.679918
+                  ]
+            },
+            {
+                  "name": "Bab Ahl Jamel",
+                  "text": "A Bab Ahl Jamel az egyik hagyományos kapu, amely helyi látványosságként szolgál Oujdában.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.917248,
+                        34.681206
+                  ]
+            },
+            {
+                  "name": "Les Trois Fontaines",
+                  "text": "A Les Trois Fontaines egy népszerű helyi látványosság, amely festői szökőkúttal rendelkezik Oujdában.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.913393,
+                        34.678993
+                  ]
+            },
+            {
+                  "name": "Dar Sebti",
+                  "text": "A Dar Sebti egy gyönyörű műemléképület és kulturális helyszín Oujda városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.911985,
+                        34.677241
+                  ]
+            },
+            {
+                  "name": "Souk El Ma",
+                  "text": "A Souk El Ma egy hagyományos piac, amely vonzza a helyi kereskedelem iránt érdeklődő látogatókat Oujdában.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.913717,
+                        34.680263
+                  ]
+            },
+            {
+                  "name": "Ancienne Synagogue",
+                  "text": "A Régi Zsinagóga egy történelmi zsidó helyszín és figyelemre méltó látványosság Oujdában.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.915534,
+                        34.682319
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie D'Art Maghreb Al Arabi",
+                  "text": "Galerie D'Art Maghreb Al Arabi este un muzeu de artă care expune lucrări culturale regionale în Oujda.",
+                  "category": "museum",
+                  "coords": [
+                        -1.912261,
+                        34.678202
+                  ]
+            },
+            {
+                  "name": "Musée Ethnographique Lalla Aicha",
+                  "text": "Muzeul Etnografic Lalla Aicha expune artefacte tradiționale și moștenirea locală din Oujda.",
+                  "category": "museum",
+                  "coords": [
+                        -1.907608,
+                        34.673804
+                  ]
+            },
+            {
+                  "name": "روما",
+                  "text": "Roma este un teatru local care servește drept spațiu pentru artele spectacolului în Oujda.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.900721,
+                        34.655649
+                  ]
+            },
+            {
+                  "name": "Théâtre Mohammed VI",
+                  "text": "Teatrul Mohamed VI este un spațiu cultural proeminent pentru spectacole și reprezentații artistice în Oujda.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.930441,
+                        34.67881
+                  ]
+            },
+            {
+                  "name": "Parc d'Attraction et d'Animation d'Oujda",
+                  "text": "Acest parc tematic din Oujda oferă diverse atracții și divertisment pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.912032,
+                        34.697859
+                  ]
+            },
+            {
+                  "name": "Galerie d'Art",
+                  "text": "Galerie d'Art este un muzeu din Oujda dedicat expunerii diverselor arte vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        -1.918389,
+                        34.691491
+                  ]
+            },
+            {
+                  "name": "Mueée régional du mouvement national",
+                  "text": "Acest muzeu regional din Oujda se concentrează pe istoria mișcării naționale.",
+                  "category": "museum",
+                  "coords": [
+                        -1.915373,
+                        34.678065
+                  ]
+            },
+            {
+                  "name": "Musée Lalla Meryem",
+                  "text": "Musée Lalla Meryem este un muzeu care expune colecții istorice și culturale în Oujda.",
+                  "category": "museum",
+                  "coords": [
+                        -1.91444,
+                        34.677452
+                  ]
+            },
+            {
+                  "name": "Centre Culturel d'Oujda",
+                  "text": "Centrul Cultural din Oujda este un centru pentru arte comunitare, expoziții și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.919441,
+                        34.690222
+                  ]
+            },
+            {
+                  "name": "Bab Sidi Abdelwahab",
+                  "text": "Bab Sidi Abdelwahab este o poartă istorică și semnificativă situată în orașul Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.910056,
+                        34.679918
+                  ]
+            },
+            {
+                  "name": "Bab Ahl Jamel",
+                  "text": "Bab Ahl Jamel este una dintre porțile tradiționale care servesc drept atracție locală în Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.917248,
+                        34.681206
+                  ]
+            },
+            {
+                  "name": "Les Trois Fontaines",
+                  "text": "Les Trois Fontaines este o atracție locală populară, având un aranjament pitoresc de fântâni în Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.913393,
+                        34.678993
+                  ]
+            },
+            {
+                  "name": "Dar Sebti",
+                  "text": "Dar Sebti este o frumoasă clădire de patrimoniu și un spațiu cultural din orașul Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.911985,
+                        34.677241
+                  ]
+            },
+            {
+                  "name": "Souk El Ma",
+                  "text": "Souk El Ma este o zonă de piață tradițională care atrage vizitatorii interesați de comerțul local din Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.913717,
+                        34.680263
+                  ]
+            },
+            {
+                  "name": "Ancienne Synagogue",
+                  "text": "Vechea Sinagogă este un sit evreiesc istoric și o atracție notabilă situată în Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.915534,
+                        34.682319
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie D'Art Maghreb Al Arabi",
+                  "text": "Galerie D'Art Maghreb Al Arabi is an art museum showcasing regional cultural works in Oujda.",
+                  "category": "museum",
+                  "coords": [
+                        -1.912261,
+                        34.678202
+                  ]
+            },
+            {
+                  "name": "Musée Ethnographique Lalla Aicha",
+                  "text": "The Lalla Aicha Ethnographic Museum exhibits traditional artifacts and local heritage in Oujda.",
+                  "category": "museum",
+                  "coords": [
+                        -1.907608,
+                        34.673804
+                  ]
+            },
+            {
+                  "name": "Roma",
+                  "text": "Roma is a local theatre serving as a venue for performing arts in Oujda.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.900721,
+                        34.655649
+                  ]
+            },
+            {
+                  "name": "Mohamed VI Theatre",
+                  "text": "The Mohamed VI Theatre is a prominent cultural venue for shows and artistic performances in Oujda.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.930441,
+                        34.67881
+                  ]
+            },
+            {
+                  "name": "Parc d'Attraction et d'Animation d'Oujda",
+                  "text": "This theme park in Oujda offers various amusement rides and family-friendly entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.912032,
+                        34.697859
+                  ]
+            },
+            {
+                  "name": "Galerie d'Art",
+                  "text": "The Galerie d'Art is a museum in Oujda dedicated to displaying various visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        -1.918389,
+                        34.691491
+                  ]
+            },
+            {
+                  "name": "Mueée régional du mouvement national",
+                  "text": "This regional museum in Oujda focuses on the history of the national movement.",
+                  "category": "museum",
+                  "coords": [
+                        -1.915373,
+                        34.678065
+                  ]
+            },
+            {
+                  "name": "Musée Lalla Meryem",
+                  "text": "The Musée Lalla Meryem is a museum exhibiting historical and cultural collections in Oujda.",
+                  "category": "museum",
+                  "coords": [
+                        -1.91444,
+                        34.677452
+                  ]
+            },
+            {
+                  "name": "Centre Culturel d'Oujda",
+                  "text": "The Cultural Centre of Oujda is a hub for community arts, exhibitions, and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.919441,
+                        34.690222
+                  ]
+            },
+            {
+                  "name": "Bab Sidi Abdelwahab",
+                  "text": "Bab Sidi Abdelwahab is a historic and significant gateway located in the city of Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.910056,
+                        34.679918
+                  ]
+            },
+            {
+                  "name": "Bab Ahl Jamel",
+                  "text": "Bab Ahl Jamel is one of the traditional gates serving as a local attraction in Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.917248,
+                        34.681206
+                  ]
+            },
+            {
+                  "name": "Les Trois Fontaines",
+                  "text": "Les Trois Fontaines is a popular local attraction featuring a scenic fountain layout in Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.913393,
+                        34.678993
+                  ]
+            },
+            {
+                  "name": "Dar Sebti",
+                  "text": "Dar Sebti is a beautiful heritage building and cultural venue in the city of Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.911985,
+                        34.677241
+                  ]
+            },
+            {
+                  "name": "Souk El Ma",
+                  "text": "Souk El Ma is a traditional market area drawing visitors interested in local commerce in Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.913717,
+                        34.680263
+                  ]
+            },
+            {
+                  "name": "Ancienne Synagogue",
+                  "text": "The Old Synagogue is a historic Jewish site and notable attraction situated in Oujda.",
+                  "category": "landmark",
+                  "coords": [
+                        -1.915534,
+                        34.682319
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-02",
     coords: [-1.91, 34.68],
@@ -527,7 +6602,124 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["La ville la plus importante du nord-est du Maroc, près de la frontière algérienne.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-oujda-cities-v2.webp"},
   {
-    id: "ma-kenitra-cities-v2",
+    id: "ma-kenitra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Waves Aquapark Hotel",
+                  "text": "Wasserpark in Kenitra.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.554301,
+                        34.274735
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "Theater in Kenitra.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.611239,
+                        34.259162
+                  ]
+            },
+            {
+                  "name": "Cultural Center Kenitra",
+                  "text": "Kunstzentrum in Kenitra.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.580815,
+                        34.262245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Waves Aquapark Hotel",
+                  "text": "Vízipark Kenitrában.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.554301,
+                        34.274735
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "Színház Kenitrában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.611239,
+                        34.259162
+                  ]
+            },
+            {
+                  "name": "Cultural Center Kenitra",
+                  "text": "Művészeti központ Kenitrában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.580815,
+                        34.262245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Waves Aquapark Hotel",
+                  "text": "Parc acvatic în Kenitra.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.554301,
+                        34.274735
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "Teatru în Kenitra.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.611239,
+                        34.259162
+                  ]
+            },
+            {
+                  "name": "Cultural Center Kenitra",
+                  "text": "Centru de artă în Kenitra.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.580815,
+                        34.262245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Waves Aquapark Hotel",
+                  "text": "Water park in Kenitra.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.554301,
+                        34.274735
+                  ]
+            },
+            {
+                  "name": "Théâtre à ciel ouvert",
+                  "text": "Theatre in Kenitra.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.611239,
+                        34.259162
+                  ]
+            },
+            {
+                  "name": "Cultural Center Kenitra",
+                  "text": "Arts centre in Kenitra.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.580815,
+                        34.262245
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-04",
     coords: [-6.5802, 34.261],
@@ -593,7 +6785,592 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville importante au bord du fleuve Sebou, dotée d'une forte base industrielle.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-kenitra-cities-v2.webp"},
   {
-    id: "ma-tetouan-cities-v2",
+    id: "ma-tetouan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de Culture",
+                  "text": "Maison de Culture ist ein Theaterraum in Tétouan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.383218,
+                        35.570854
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "Das Musée Archéologique ist ein der Archäologie gewidmetes Museum in Tétouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.370667,
+                        35.570636
+                  ]
+            },
+            {
+                  "name": "Bab er Rouah",
+                  "text": "Bab er Rouah ist eine historische Burg in Tétouan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.368304,
+                        35.570279
+                  ]
+            },
+            {
+                  "name": "Musée d’Art Marocain",
+                  "text": "Das Musée d’Art Marocain ist ein Museum in Tétouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.363833,
+                        35.570332
+                  ]
+            },
+            {
+                  "name": "Bab Nouaber Bastion",
+                  "text": "Die Bastion Bab Nouaber ist eine archäologische Stätte in Tétouan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.375218,
+                        35.573084
+                  ]
+            },
+            {
+                  "name": "El-Fasi Zaouia",
+                  "text": "El-Fasi Zaouia ist eine archäologische Stätte in Tétouan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.369636,
+                        35.572027
+                  ]
+            },
+            {
+                  "name": "وفاء اسم على مسمى",
+                  "text": "Dieser Ort ist ein Museum in der Stadt Tétouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.358754,
+                        35.579456
+                  ]
+            },
+            {
+                  "name": "Kasbah",
+                  "text": "Die Kasbah ist eine historische Burganlage in Tétouan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.371991,
+                        35.574341
+                  ]
+            },
+            {
+                  "name": "Dar El Oddi",
+                  "text": "Dar El Oddi ist ein Museum in der Stadt Tétouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.366094,
+                        35.570688
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Moderno de Tetuan CAMT",
+                  "text": "Das Zentrum für moderne Kunst von Tétouan ist ein Museum in Tétouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.366955,
+                        35.566336
+                  ]
+            },
+            {
+                  "name": "Jbel Dersa جبل درسة",
+                  "text": "Jbel Dersa ist ein Berggipfel in Tétouan.",
+                  "category": "natural",
+                  "coords": [
+                        -5.389348,
+                        35.596568
+                  ]
+            },
+            {
+                  "name": "Bab Rmouz",
+                  "text": "Bab Rmouz ist ein Denkmal in der Stadt Tétouan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.366989,
+                        35.5676
+                  ]
+            },
+            {
+                  "name": "Oued Martil Viewpoint of Riff Mountains",
+                  "text": "Der Aussichtspunkt Oued Martil bietet einen Blick auf das Rif-Gebirge aus Tétouan.",
+                  "category": "natural",
+                  "coords": [
+                        -5.369806,
+                        35.557742
+                  ]
+            },
+            {
+                  "name": "Institut Français de Tétouan",
+                  "text": "Das Institut Français de Tétouan ist ein Kunstzentrum in Tétouan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.377088,
+                        35.569634
+                  ]
+            },
+            {
+                  "name": "Theatro National",
+                  "text": "Das Theatro National ist ein Kunstzentrum in Tétouan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.367925,
+                        35.568707
+                  ]
+            },
+            {
+                  "name": "Kirche Unserer Lieben Frau von den Siegen",
+                  "text": "Die Iglesia de Nuestra Señora de las Victorias ist eine Kultstätte in Tétouan.",
+                  "category": "religious",
+                  "coords": [
+                        -5.375077,
+                        35.570038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de Culture",
+                  "text": "A Maison de Culture egy színházépület Tetuánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.383218,
+                        35.570854
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "A Musée Archéologique egy régészeti múzeum Tetuánban.",
+                  "category": "museum",
+                  "coords": [
+                        -5.370667,
+                        35.570636
+                  ]
+            },
+            {
+                  "name": "Bab er Rouah",
+                  "text": "A Bab er Rouah egy történelmi kastély Tetuán városában.",
+                  "category": "castle",
+                  "coords": [
+                        -5.368304,
+                        35.570279
+                  ]
+            },
+            {
+                  "name": "Musée d’Art Marocain",
+                  "text": "A Musée d’Art Marocain egy múzeum Tetuánban.",
+                  "category": "museum",
+                  "coords": [
+                        -5.363833,
+                        35.570332
+                  ]
+            },
+            {
+                  "name": "Bab Nouaber Bastion",
+                  "text": "A Bab Nouaber bástya egy régészeti lelőhely Tetuánban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.375218,
+                        35.573084
+                  ]
+            },
+            {
+                  "name": "El-Fasi Zaouia",
+                  "text": "Az El-Fasi Zaouia egy régészeti lelőhely Tetuánban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.369636,
+                        35.572027
+                  ]
+            },
+            {
+                  "name": "وفاء اسم على مسمى",
+                  "text": "Ez a hely egy múzeum Tetuán városában.",
+                  "category": "museum",
+                  "coords": [
+                        -5.358754,
+                        35.579456
+                  ]
+            },
+            {
+                  "name": "Kasbah",
+                  "text": "A Kasbah egy történelmi kastélyépület Tetuánban.",
+                  "category": "castle",
+                  "coords": [
+                        -5.371991,
+                        35.574341
+                  ]
+            },
+            {
+                  "name": "Dar El Oddi",
+                  "text": "A Dar El Oddi egy múzeum Tetuán városában.",
+                  "category": "museum",
+                  "coords": [
+                        -5.366094,
+                        35.570688
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Moderno de Tetuan CAMT",
+                  "text": "A Tetuáni Modern Művészeti Központ egy múzeum Tetuánban.",
+                  "category": "museum",
+                  "coords": [
+                        -5.366955,
+                        35.566336
+                  ]
+            },
+            {
+                  "name": "Jbel Dersa جبل درسة",
+                  "text": "A Jbel Dersa egy hegycsúcs Tetuánban.",
+                  "category": "natural",
+                  "coords": [
+                        -5.389348,
+                        35.596568
+                  ]
+            },
+            {
+                  "name": "Bab Rmouz",
+                  "text": "A Bab Rmouz egy emlékmű Tetuán városában.",
+                  "category": "historical",
+                  "coords": [
+                        -5.366989,
+                        35.5676
+                  ]
+            },
+            {
+                  "name": "Oued Martil Viewpoint of Riff Mountains",
+                  "text": "Az Oued Martil kilátó a Rif-hegységre nyújt kilátást Tetuánból.",
+                  "category": "natural",
+                  "coords": [
+                        -5.369806,
+                        35.557742
+                  ]
+            },
+            {
+                  "name": "Institut Français de Tétouan",
+                  "text": "Az Institut Français de Tétouan egy művészeti központ Tetuánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.377088,
+                        35.569634
+                  ]
+            },
+            {
+                  "name": "Theatro National",
+                  "text": "A Theatro National egy művészeti központ Tetuánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.367925,
+                        35.568707
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de las Victorias",
+                  "text": "Az Iglesia de Nuestra Señora de las Victorias egy istentiszteleti hely Tetuánban.",
+                  "category": "religious",
+                  "coords": [
+                        -5.375077,
+                        35.570038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de Culture",
+                  "text": "Maison de Culture este un teatru situat în Tetouan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.383218,
+                        35.570854
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "Musée Archéologique este un muzeu dedicat arheologiei din Tetouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.370667,
+                        35.570636
+                  ]
+            },
+            {
+                  "name": "Bab er Rouah",
+                  "text": "Bab er Rouah este un castel istoric situat în Tetouan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.368304,
+                        35.570279
+                  ]
+            },
+            {
+                  "name": "Musée d’Art Marocain",
+                  "text": "Musée d’Art Marocain este un muzeu din Tetouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.363833,
+                        35.570332
+                  ]
+            },
+            {
+                  "name": "Bab Nouaber Bastion",
+                  "text": "Bastionul Bab Nouaber este un sit arheologic situat în Tetouan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.375218,
+                        35.573084
+                  ]
+            },
+            {
+                  "name": "El-Fasi Zaouia",
+                  "text": "El-Fasi Zaouia este un sit arheologic din Tetouan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.369636,
+                        35.572027
+                  ]
+            },
+            {
+                  "name": "وفاء اسم على مسمى",
+                  "text": "Acest loc este un muzeu situat în orașul Tetouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.358754,
+                        35.579456
+                  ]
+            },
+            {
+                  "name": "Kasbah",
+                  "text": "Kasbah este o structură istorică tip castel situată în Tetouan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.371991,
+                        35.574341
+                  ]
+            },
+            {
+                  "name": "Dar El Oddi",
+                  "text": "Dar El Oddi este un muzeu situat în orașul Tetouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.366094,
+                        35.570688
+                  ]
+            },
+            {
+                  "name": "Centro de Arte Moderno de Tetuan CAMT",
+                  "text": "Centrul de Artă Modernă din Tetouan este un muzeu situat în Tetouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.366955,
+                        35.566336
+                  ]
+            },
+            {
+                  "name": "Jbel Dersa جبل درسة",
+                  "text": "Jbel Dersa este un vârf muntos din Tetouan.",
+                  "category": "natural",
+                  "coords": [
+                        -5.389348,
+                        35.596568
+                  ]
+            },
+            {
+                  "name": "Bab Rmouz",
+                  "text": "Bab Rmouz este un monument aflat în orașul Tetouan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.366989,
+                        35.5676
+                  ]
+            },
+            {
+                  "name": "Oued Martil Viewpoint of Riff Mountains",
+                  "text": "Punctul de belvedere Oued Martil oferă priveliști asupra Munților Rif din Tetouan.",
+                  "category": "natural",
+                  "coords": [
+                        -5.369806,
+                        35.557742
+                  ]
+            },
+            {
+                  "name": "Institut Français de Tétouan",
+                  "text": "Institut Français de Tétouan este un centru de arte situat în Tetouan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.377088,
+                        35.569634
+                  ]
+            },
+            {
+                  "name": "Theatro National",
+                  "text": "Theatro National este un centru de arte situat în Tetouan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.367925,
+                        35.568707
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de las Victorias",
+                  "text": "Iglesia de Nuestra Señora de las Victorias este un lăcaș de cult din Tetouan.",
+                  "category": "religious",
+                  "coords": [
+                        -5.375077,
+                        35.570038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de Culture",
+                  "text": "Maison de Culture is a theatre space located in Tetouan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.383218,
+                        35.570854
+                  ]
+            },
+            {
+                  "name": "Musée Archéologique",
+                  "text": "Musée Archéologique is a museum dedicated to archaeology located in Tetouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.370667,
+                        35.570636
+                  ]
+            },
+            {
+                  "name": "Bab er Rouah",
+                  "text": "Bab er Rouah is a historic castle located in Tetouan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.368304,
+                        35.570279
+                  ]
+            },
+            {
+                  "name": "Musée d’Art Marocain",
+                  "text": "Musée d’Art Marocain is a museum located in Tetouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.363833,
+                        35.570332
+                  ]
+            },
+            {
+                  "name": "Bab Nouaber Bastion",
+                  "text": "Bab Nouaber Bastion is an archaeological site located in Tetouan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.375218,
+                        35.573084
+                  ]
+            },
+            {
+                  "name": "El-Fasi Zaouia",
+                  "text": "El-Fasi Zaouia is an archaeological site located in Tetouan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.369636,
+                        35.572027
+                  ]
+            },
+            {
+                  "name": "وفاء اسم على مسمى",
+                  "text": "This site is a museum located in the city of Tetouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.358754,
+                        35.579456
+                  ]
+            },
+            {
+                  "name": "Kasbah",
+                  "text": "The Kasbah is a historic castle structure located in Tetouan.",
+                  "category": "castle",
+                  "coords": [
+                        -5.371991,
+                        35.574341
+                  ]
+            },
+            {
+                  "name": "Dar El Oddi",
+                  "text": "Dar El Oddi is a museum located in the city of Tetouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.366094,
+                        35.570688
+                  ]
+            },
+            {
+                  "name": "Modern Art Center of Tetouan",
+                  "text": "The Modern Art Center of Tetouan is a museum located in Tetouan.",
+                  "category": "museum",
+                  "coords": [
+                        -5.366955,
+                        35.566336
+                  ]
+            },
+            {
+                  "name": "Jbel Dersa جبل درسة",
+                  "text": "Jbel Dersa is a mountain peak located in Tetouan.",
+                  "category": "natural",
+                  "coords": [
+                        -5.389348,
+                        35.596568
+                  ]
+            },
+            {
+                  "name": "Bab Rmouz",
+                  "text": "Bab Rmouz is a monument located in the city of Tetouan.",
+                  "category": "historical",
+                  "coords": [
+                        -5.366989,
+                        35.5676
+                  ]
+            },
+            {
+                  "name": "Oued Martil Viewpoint of Riff Mountains",
+                  "text": "The Oued Martil Viewpoint offers scenic views of the Riff Mountains from Tetouan.",
+                  "category": "natural",
+                  "coords": [
+                        -5.369806,
+                        35.557742
+                  ]
+            },
+            {
+                  "name": "Institut Français de Tétouan",
+                  "text": "The Institut Français de Tétouan is an arts centre situated in Tetouan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.377088,
+                        35.569634
+                  ]
+            },
+            {
+                  "name": "Theatro National",
+                  "text": "The Theatro National is an arts centre located in Tetouan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.367925,
+                        35.568707
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de las Victorias",
+                  "text": "Iglesia de Nuestra Señora de las Victorias is a place of worship in Tetouan.",
+                  "category": "religious",
+                  "coords": [
+                        -5.375077,
+                        35.570038
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-5.3684, 35.5785],
@@ -659,7 +7436,376 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Connue comme la 'colombe blanche', une ville au fort caractère andalou.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-tetouan-cities-v2.webp"},
   {
-    id: "ma-safi-cities-v2",
+    id: "ma-safi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Safi شاطئ آسفي",
+                  "text": "Der Strand Plage de Safi ist ein öffentlicher Sandstrand, der Meerblick und Entspannung an der Küste in Safi bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251881,
+                        32.316777
+                  ]
+            },
+            {
+                  "name": "قصر البحر",
+                  "text": "Qasr al-Bahr, das Meerschloss, ist eine historische Küstenfestung in Safi.",
+                  "category": "castle",
+                  "coords": [
+                        -9.244062,
+                        32.297155
+                  ]
+            },
+            {
+                  "name": "Tajine",
+                  "text": "Das Tajine-Monument ist eine groß angelegte Skulptur, die die berühmte traditionelle Töpferei von Safi feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.233904,
+                        32.294873
+                  ]
+            },
+            {
+                  "name": "Bab Agrou ( Porte de Agrou) باب آكرو",
+                  "text": "Bab Agro ist ein historisches Stadttor, das Teil der traditionellen Mauern in Safi ist.",
+                  "category": "historical",
+                  "coords": [
+                        -9.23817,
+                        32.298588
+                  ]
+            },
+            {
+                  "name": "Bab Shaaba",
+                  "text": "Bab Shaaba ist ein altes Eingangstor, das das architektonische Erbe von Safi präsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        -9.239828,
+                        32.299824
+                  ]
+            },
+            {
+                  "name": "Bab Alkhadid باب الخديد",
+                  "text": "Bab Alkhadid ist eines der historischen Denkmäler, die die alte Verteidigung von Safi bilden.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241816,
+                        32.297582
+                  ]
+            },
+            {
+                  "name": "باب الجديد",
+                  "text": "Das Neue Tor, oder Bab El Jdid, ist ein markantes historisches Denkmal in Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.240549,
+                        32.297637
+                  ]
+            },
+            {
+                  "name": "Bab Almaesara باب المعصرة",
+                  "text": "Bab Almaesara ist ein monumentales Stadttor, das einen Einblick in die Geschichte von Safi bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -9.243071,
+                        32.298821
+                  ]
+            },
+            {
+                  "name": "Cité des Arts مديمة الفنون",
+                  "text": "Arts City ist eine lokale Galerie, die sich der Ausstellung regionaler und zeitgenössischer Kunstwerke in Safi widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -9.237094,
+                        32.296623
+                  ]
+            },
+            {
+                  "name": "Cathédrale Portugaise",
+                  "text": "Die portugiesische Kathedrale weist alte architektonische Ruinen aus der portugiesischen Zeit in Safi auf.",
+                  "category": "historical",
+                  "coords": [
+                        -9.2416,
+                        32.298507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Safi شاطئ آسفي",
+                  "text": "A Plage de Safi egy homokos nyilvános strand, amely óceáni kilátást és tengerparti kikapcsolódást kínál Safiban.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251881,
+                        32.316777
+                  ]
+            },
+            {
+                  "name": "قصر البحر",
+                  "text": "A Qasr al-Bahr, vagyis a Tengeri Kastély egy történelmi tengerparti erőd Safiban.",
+                  "category": "castle",
+                  "coords": [
+                        -9.244062,
+                        32.297155
+                  ]
+            },
+            {
+                  "name": "Tajine",
+                  "text": "A Tajine emlékmű egy nagyszabású szobor, amely Safi híres hagyományos kerámiáját ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.233904,
+                        32.294873
+                  ]
+            },
+            {
+                  "name": "Bab Agrou ( Porte de Agrou) باب آكرو",
+                  "text": "A Bab Agro egy történelmi városkapu, amely a safi hagyományos falak részét képezi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.23817,
+                        32.298588
+                  ]
+            },
+            {
+                  "name": "Bab Shaaba باب الشعبة",
+                  "text": "A Bab Shaaba egy régi bejárati kapu, amely Safi építészeti örökségét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -9.239828,
+                        32.299824
+                  ]
+            },
+            {
+                  "name": "Bab Alkhadid باب الخديد",
+                  "text": "A Bab Alkhadid az egyik történelmi műemlék, amely Safi régi védműveit alkotja.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241816,
+                        32.297582
+                  ]
+            },
+            {
+                  "name": "باب الجديد",
+                  "text": "Az Új Kapu, vagy Bab El Jdid egy kiemelkedő történelmi emlékmű Safiban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.240549,
+                        32.297637
+                  ]
+            },
+            {
+                  "name": "Bab Almaesara باب المعصرة",
+                  "text": "A Bab Almaesara egy monumentális városkapu, amely bepillantást enged Safi történetébe.",
+                  "category": "historical",
+                  "coords": [
+                        -9.243071,
+                        32.298821
+                  ]
+            },
+            {
+                  "name": "Cité des Arts مديمة الفنون",
+                  "text": "Az Arts City egy helyi galéria, amely regionális és kortárs művészeti alkotások bemutatásának szenteli magát Safiban.",
+                  "category": "museum",
+                  "coords": [
+                        -9.237094,
+                        32.296623
+                  ]
+            },
+            {
+                  "name": "Cathédrale Portugaise",
+                  "text": "A portugál katedrális ősi építészeti romokat rejt a portugál korszakból Safiban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.2416,
+                        32.298507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Safi شاطئ آسفي",
+                  "text": "Plage de Safi este o plajă publică cu nisip care oferă vedere la ocean și relaxare pe coastă în Safi.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251881,
+                        32.316777
+                  ]
+            },
+            {
+                  "name": "قصر البحر",
+                  "text": "Qasr al-Bahr, sau Castelul Mării, este o cetate istorică de coastă situată în Safi.",
+                  "category": "castle",
+                  "coords": [
+                        -9.244062,
+                        32.297155
+                  ]
+            },
+            {
+                  "name": "Tajine",
+                  "text": "Monumentul Tajine este o sculptură la scară largă care celebrează faimoasa olărit tradițională din Safi.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.233904,
+                        32.294873
+                  ]
+            },
+            {
+                  "name": "Bab Agrou ( Porte de Agrou) باب آكرو",
+                  "text": "Bab Agro este o poartă istorică a orașului care face parte din zidurile tradiționale din Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.23817,
+                        32.298588
+                  ]
+            },
+            {
+                  "name": "Bab Shaaba باب الشعبة",
+                  "text": "Bab Shaaba este o veche poartă de intrare care prezintă moștenirea arhitecturală a orașului Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.239828,
+                        32.299824
+                  ]
+            },
+            {
+                  "name": "Bab Alkhadid باب الخديد",
+                  "text": "Bab Alkhadid este unul dintre monumentele istorice care formează vechea apărare a orașului Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241816,
+                        32.297582
+                  ]
+            },
+            {
+                  "name": "باب الجديد",
+                  "text": "Poarta Nouă, sau Bab El Jdid, este un monument istoric proeminent situat în Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.240549,
+                        32.297637
+                  ]
+            },
+            {
+                  "name": "Bab Almaesara باب المعصرة",
+                  "text": "Bab Almaesara este o poartă monumentală a orașului care oferă o privire în istoria orașului Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.243071,
+                        32.298821
+                  ]
+            },
+            {
+                  "name": "Cité des Arts مديمة الفنون",
+                  "text": "Arts City este o galerie locală dedicată expunerii operelor de artă regionale și contemporane din Safi.",
+                  "category": "museum",
+                  "coords": [
+                        -9.237094,
+                        32.296623
+                  ]
+            },
+            {
+                  "name": "Cathédrale Portugaise",
+                  "text": "Catedrala Portugheză prezintă ruine arhitecturale antice din epoca portugheză în Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.2416,
+                        32.298507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Safi شاطئ آسفي",
+                  "text": "Plage de Safi is a sandy public beach offering ocean views and coastal relaxation in Safi.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.251881,
+                        32.316777
+                  ]
+            },
+            {
+                  "name": "قصر البحر",
+                  "text": "Qasr al-Bahr, or the Sea Castle, is a historical coastal fortress situated in Safi.",
+                  "category": "castle",
+                  "coords": [
+                        -9.244062,
+                        32.297155
+                  ]
+            },
+            {
+                  "name": "Tajine",
+                  "text": "The Tajine monument is a large-scale sculpture celebrating Safi's famous traditional pottery.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.233904,
+                        32.294873
+                  ]
+            },
+            {
+                  "name": "Bab Agro (Gate of Agrou)",
+                  "text": "Bab Agro is a historic city gate that forms part of the traditional walls in Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.23817,
+                        32.298588
+                  ]
+            },
+            {
+                  "name": "Bab Shaaba باب الشعبة",
+                  "text": "Bab Shaaba is an old entrance gate showcasing the architectural heritage of Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.239828,
+                        32.299824
+                  ]
+            },
+            {
+                  "name": "Bab Alkhadid باب الخديد",
+                  "text": "Bab Alkhadid is one of the historic monuments forming the old defenses of Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.241816,
+                        32.297582
+                  ]
+            },
+            {
+                  "name": "باب الجديد",
+                  "text": "The New Gate, or Bab El Jdid, is a prominent historical monument located in Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.240549,
+                        32.297637
+                  ]
+            },
+            {
+                  "name": "Bab Almaesara باب المعصرة",
+                  "text": "Bab Almaesara is a monumental city gate offering a glimpse into the history of Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.243071,
+                        32.298821
+                  ]
+            },
+            {
+                  "name": "Arts City",
+                  "text": "Arts City is a local gallery dedicated to displaying regional and contemporary artwork in Safi.",
+                  "category": "museum",
+                  "coords": [
+                        -9.237094,
+                        32.296623
+                  ]
+            },
+            {
+                  "name": "Cathédrale Portugaise",
+                  "text": "The Portuguese Cathedral features ancient architectural ruins from the Portuguese era in Safi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.2416,
+                        32.298507
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-07",
     coords: [-9.2372, 32.2994],
@@ -725,7 +7871,124 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville portuaire importante et le centre de la céramique marocaine.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-safi-cities-v2.webp"},
   {
-    id: "ma-mohammedia-cities-v2",
+    id: "ma-mohammedia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Mannesmann",
+                  "text": "Strand in Mohammedia.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.371235,
+                        33.708882
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipale",
+                  "text": "Theater in Mohammedia.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.389261,
+                        33.685554
+                  ]
+            },
+            {
+                  "name": "Little London",
+                  "text": "Kunstzentrum in Mohammedia.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.395514,
+                        33.70334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Mannesmann",
+                  "text": "Strand Mohammediában.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.371235,
+                        33.708882
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipale",
+                  "text": "Színház Mohammediában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.389261,
+                        33.685554
+                  ]
+            },
+            {
+                  "name": "Little London",
+                  "text": "Művészeti központ Mohammediában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.395514,
+                        33.70334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Mannesmann",
+                  "text": "Plajă în Mohammedia.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.371235,
+                        33.708882
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipale",
+                  "text": "Teatru în Mohammedia.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.389261,
+                        33.685554
+                  ]
+            },
+            {
+                  "name": "Little London",
+                  "text": "Centru de artă în Mohammedia.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.395514,
+                        33.70334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Mannesmann",
+                  "text": "Beach in Mohammedia.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.371235,
+                        33.708882
+                  ]
+            },
+            {
+                  "name": "Théâtre Municipale",
+                  "text": "Theatre in Mohammedia.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.389261,
+                        33.685554
+                  ]
+            },
+            {
+                  "name": "Little London",
+                  "text": "Arts centre in Mohammedia.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.395514,
+                        33.70334
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-06",
     coords: [-7.3849, 33.6852],
@@ -857,7 +8120,160 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Le centre de l'exploitation des phosphates au Maroc.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-khouribga-cities-v2.webp"},
   {
-    id: "ma-beni-mellal-cities-v2",
+    id: "ma-beni-mellal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castle of Béni Mellal",
+                  "text": "Die Burg von Béni Mellal ist eine historische lokale Festung, die die Umgebung überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        -6.337649,
+                        32.324533
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Das Maison de la Culture ist ein spezielles Kunstzentrum für kulturelle Aufführungen und Ausstellungen in Béni Mellal.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.358705,
+                        32.330796
+                  ]
+            },
+            {
+                  "name": "Mohammed VI Mosque 10",
+                  "text": "Die Mohammed VI Moschee ist ein markantes islamisches Gotteshaus in Béni Mellal.",
+                  "category": "religious",
+                  "coords": [
+                        -6.333929,
+                        32.318821
+                  ]
+            },
+            {
+                  "name": "Ayat Mosque",
+                  "text": "Die Ayat-Moschee ist eine religiöse Stätte, die einen Ort für tägliche Gebete und Gottesdienste in Béni Mellal bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -6.346198,
+                        32.325408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castle of Béni Mellal",
+                  "text": "Béni Mellal kastélya egy történelmi helyi erődítmény, amely a környező vidékre néz.",
+                  "category": "castle",
+                  "coords": [
+                        -6.337649,
+                        32.324533
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "A Maison de la Culture egy dedikált művészeti központ kulturális előadások és kiállítások számára Béni Mellalban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.358705,
+                        32.330796
+                  ]
+            },
+            {
+                  "name": "Mohammed VI Mosque 10",
+                  "text": "A VI. Mohammed mecset egy kiemelkedő iszlám istentiszteleti hely Béni Mellalban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.333929,
+                        32.318821
+                  ]
+            },
+            {
+                  "name": "Ayat Mosque",
+                  "text": "Az Ayat mecset egy vallási hely, amely a napi imák és istentiszteletek színhelye Béni Mellalban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.346198,
+                        32.325408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castle of Béni Mellal",
+                  "text": "Castelul Béni Mellal este o fortăreață istorică locală care domină zona înconjurătoare.",
+                  "category": "castle",
+                  "coords": [
+                        -6.337649,
+                        32.324533
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "Maison de la Culture este un centru de arte dedicat spectacolelor și expozițiilor culturale din Béni Mellal.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.358705,
+                        32.330796
+                  ]
+            },
+            {
+                  "name": "Mohammed VI Mosque 10",
+                  "text": "Moscheea Mohammed VI este un lăcaș de cult islamic proeminent situat în Béni Mellal.",
+                  "category": "religious",
+                  "coords": [
+                        -6.333929,
+                        32.318821
+                  ]
+            },
+            {
+                  "name": "Ayat Mosque",
+                  "text": "Moscheea Ayat este un sit religios care oferă un loc pentru rugăciunile zilnice și cult în Béni Mellal.",
+                  "category": "religious",
+                  "coords": [
+                        -6.346198,
+                        32.325408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of Béni Mellal",
+                  "text": "The Castle of Béni Mellal is a historic local fortress that overlooks the surrounding area.",
+                  "category": "castle",
+                  "coords": [
+                        -6.337649,
+                        32.324533
+                  ]
+            },
+            {
+                  "name": "Maison de la Culture",
+                  "text": "The Maison de la Culture is a dedicated arts centre for cultural performances and exhibitions in Béni Mellal.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.358705,
+                        32.330796
+                  ]
+            },
+            {
+                  "name": "Mohammed VI Mosque 10",
+                  "text": "The Mohammed VI Mosque is a prominent Islamic place of worship situated in Béni Mellal.",
+                  "category": "religious",
+                  "coords": [
+                        -6.333929,
+                        32.318821
+                  ]
+            },
+            {
+                  "name": "Ayat Mosque",
+                  "text": "Ayat Mosque is a religious site providing a place for daily prayers and worship in Béni Mellal.",
+                  "category": "religious",
+                  "coords": [
+                        -6.346198,
+                        32.325408
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-05",
     coords: [-6.3498, 32.3373],
@@ -989,7 +8405,124 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville côtière dotée d'une citadelle portugaise bien conservée.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-el-jadida-cities-v2.webp"},
   {
-    id: "ma-taza-cities-v2",
+    id: "ma-taza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Tazekka",
+                  "text": "Der Tazekka-Nationalpark ist ein Naturschutzgebiet in Taza, das für seine Höhlen und Landschaften bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -4.207506,
+                        34.020651
+                  ]
+            },
+            {
+                  "name": "Espace Educatif Culturel Et Museal De La Resistance Et De L'Armée De Liberation De Taza",
+                  "text": "Dies ist ein Kultur- und Geschichtsmuseum in der Stadt Taza.",
+                  "category": "museum",
+                  "coords": [
+                        -4.016543,
+                        34.208679
+                  ]
+            },
+            {
+                  "name": "Place de l'Indépendance ساحة الاستقلال",
+                  "text": "Der Place de l'Indépendance ist eine Sehenswürdigkeit in Taza.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.008969,
+                        34.22224
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc national de Tazekka منتزه تازكة",
+                  "text": "A Tazekka Nemzeti Park egy természeti rezervátum Taza közelében, amely tájairól és barlangjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -4.207506,
+                        34.020651
+                  ]
+            },
+            {
+                  "name": "Espace Educatif Culturel Et Museal De La Resistance Et De L'Armée De Liberation De Taza",
+                  "text": "Ez egy kulturális és történelmi múzeum Taza városában.",
+                  "category": "museum",
+                  "coords": [
+                        -4.016543,
+                        34.208679
+                  ]
+            },
+            {
+                  "name": "Place de l'Indépendance ساحة الاستقلال",
+                  "text": "A Place de l'Indépendance egy látványosság Taza városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.008969,
+                        34.22224
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc national de Tazekka منتزه تازكة",
+                  "text": "Parcul Național Tazekka este o rezervație naturală din Taza, cunoscută pentru peisajele sale diverse.",
+                  "category": "natural",
+                  "coords": [
+                        -4.207506,
+                        34.020651
+                  ]
+            },
+            {
+                  "name": "Espace Educatif Culturel Et Museal De La Resistance Et De L'Armée De Liberation De Taza",
+                  "text": "Acesta este un muzeu cultural și istoric situat în orașul Taza.",
+                  "category": "museum",
+                  "coords": [
+                        -4.016543,
+                        34.208679
+                  ]
+            },
+            {
+                  "name": "Place de l'Indépendance ساحة الاستقلال",
+                  "text": "Place de l'Indépendance este o atracție turistică situată în Taza.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.008969,
+                        34.22224
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tazekka National Park",
+                  "text": "Tazekka National Park is a nature reserve in Taza known for its diverse landscapes and caves.",
+                  "category": "natural",
+                  "coords": [
+                        -4.207506,
+                        34.020651
+                  ]
+            },
+            {
+                  "name": "Espace Educatif Culturel Et Museal De La Resistance Et De L'Armée De Liberation De Taza",
+                  "text": "This is a cultural and historical museum located in the city of Taza.",
+                  "category": "museum",
+                  "coords": [
+                        -4.016543,
+                        34.208679
+                  ]
+            },
+            {
+                  "name": "Place de l'Indépendance ساحة الاستقلال",
+                  "text": "Place de l'Indépendance is a prominent tourist attraction situated in Taza.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.008969,
+                        34.22224
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-03",
     coords: [-4.0125, 34.2144],
@@ -1055,7 +8588,88 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville historique contrôlant le col stratégique entre le Rif et les montagnes de l'Atlas.", "Se situe sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-taza-cities-v2.webp"},
   {
-    id: "ma-nador-cities-v2",
+    id: "ma-nador-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mar Chica bay خليج مارتشيكا",
+                  "text": "Die Bucht Mar Chica bietet einen malerischen Küstenausblick über eine große Lagune in Nador.",
+                  "category": "natural",
+                  "coords": [
+                        -2.918439,
+                        35.176183
+                  ]
+            },
+            {
+                  "name": "أحب الناظور",
+                  "text": "Das Schild „I love Nador“ ist eine beliebte moderne Attraktion und ein Fotomotiv in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.923072,
+                        35.182087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mar Chica bay خليج مارتشيكا",
+                  "text": "A Mar Chica-öböl festői tengerparti kilátást nyújt egy nagy lagúnára Nadorban.",
+                  "category": "natural",
+                  "coords": [
+                        -2.918439,
+                        35.176183
+                  ]
+            },
+            {
+                  "name": "أحب الناظور",
+                  "text": "Az „I love Nador” felirat egy népszerű modern látványosság és fotóhely a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.923072,
+                        35.182087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mar Chica bay خليج مارتشيكا",
+                  "text": "Golful Mar Chica oferă o perspectivă pitorească pe coastă asupra unei lagune mari din Nador.",
+                  "category": "natural",
+                  "coords": [
+                        -2.918439,
+                        35.176183
+                  ]
+            },
+            {
+                  "name": "أحب الناظور",
+                  "text": "Semnul „I love Nador” este o atracție modernă populară și un loc de fotografiat în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.923072,
+                        35.182087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mar Chica bay خليج مارتشيكا",
+                  "text": "Mar Chica bay offers a scenic coastal viewpoint over a large lagoon in Nador.",
+                  "category": "natural",
+                  "coords": [
+                        -2.918439,
+                        35.176183
+                  ]
+            },
+            {
+                  "name": "I love Naor",
+                  "text": "The \"I love Nador\" sign is a popular modern attraction and photo spot in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.923072,
+                        35.182087
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-02",
     coords: [-2.9287, 35.174],
@@ -1121,7 +8735,88 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["La plus grande ville de la région du Rif, au bord d'une grande lagune.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-nador-cities-v2.webp"},
   {
-    id: "ma-settat-cities-v2",
+    id: "ma-settat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Picine Municipale",
+                  "text": "Wasserpark in Settat.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.622446,
+                        33.013951
+                  ]
+            },
+            {
+                  "name": "Horse of Settat",
+                  "text": "Denkmal in Settat.",
+                  "category": "historical",
+                  "coords": [
+                        -7.619819,
+                        33.002302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Picine Municipale",
+                  "text": "Vízipark Settatban.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.622446,
+                        33.013951
+                  ]
+            },
+            {
+                  "name": "Horse of Settat",
+                  "text": "Emlékmű Settatban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.619819,
+                        33.002302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Picine Municipale",
+                  "text": "Parc acvatic în Settat.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.622446,
+                        33.013951
+                  ]
+            },
+            {
+                  "name": "Horse of Settat",
+                  "text": "Monument în Settat.",
+                  "category": "historical",
+                  "coords": [
+                        -7.619819,
+                        33.002302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Picine Municipale",
+                  "text": "Water park in Settat.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.622446,
+                        33.013951
+                  ]
+            },
+            {
+                  "name": "Horse of Settat",
+                  "text": "Monument in Settat.",
+                  "category": "historical",
+                  "coords": [
+                        -7.619819,
+                        33.002302
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-06",
     coords: [-7.6166, 33.001],
@@ -1187,7 +8882,52 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville universitaire et industrielle en pleine croissance dans la plaine de la Chaouia.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-settat-cities-v2.webp"},
   {
-    id: "ma-ksar-el-kebir-cities-v2",
+    id: "ma-ksar-el-kebir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cultural house",
+                  "text": "Das Cultural House ist ein Theater in Ksar El Kebir.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.906167,
+                        35.001736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cultural house",
+                  "text": "A Cultural House egy színház Ksar El Kebirben.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.906167,
+                        35.001736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cultural house",
+                  "text": "Cultural House este un teatru situat în Ksar El Kebir.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.906167,
+                        35.001736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cultural house",
+                  "text": "The Cultural House is a theatre venue located in Ksar El Kebir.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.906167,
+                        35.001736
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-5.9053, 35.0017],
@@ -1253,7 +8993,124 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["L'une des plus anciennes villes du nord du Maroc avec une riche histoire islamique.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-ksar-el-kebir-cities-v2.webp"},
   {
-    id: "ma-larache-cities-v2",
+    id: "ma-larache-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tour de la cigogne",
+                  "text": "Die Tour de la cigogne ist ein historischer Burgturm in Larache, der für nistende Störche bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        -6.149851,
+                        35.195259
+                  ]
+            },
+            {
+                  "name": "Bordj Essadien KBIBATE",
+                  "text": "Bordj Essadien KBIBATE ist eine historische Verteidigungsburg, die einen Einblick in die Vergangenheit von Larache bietet.",
+                  "category": "castle",
+                  "coords": [
+                        -6.152777,
+                        35.199411
+                  ]
+            },
+            {
+                  "name": "Fischhalle",
+                  "text": "Die Fischhalle ist eine bemerkenswerte Marktattraktion, an der in Larache mit lokalen Meeresfrüchten gehandelt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.14353,
+                        35.19716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tour de la cigogne",
+                  "text": "A Tour de la cigogne egy történelmi kastélytorony Larache-ban, amely a fészkelő gólyákról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -6.149851,
+                        35.195259
+                  ]
+            },
+            {
+                  "name": "Bordj Essadien KBIBATE",
+                  "text": "A Bordj Essadien KBIBATE egy történelmi védelmi kastély, amely bepillantást nyújt Larache múltjába.",
+                  "category": "castle",
+                  "coords": [
+                        -6.152777,
+                        35.199411
+                  ]
+            },
+            {
+                  "name": "Fischhalle",
+                  "text": "A Fischhalle egy figyelemre méltó piaci látványosság, ahol a helyi tenger gyümölcsei kereskedelem zajlik Larache-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.14353,
+                        35.19716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tour de la cigogne",
+                  "text": "Tour de la cigogne este un turn istoric de castel din Larache, cunoscut pentru berzele care cuibăresc aici.",
+                  "category": "castle",
+                  "coords": [
+                        -6.149851,
+                        35.195259
+                  ]
+            },
+            {
+                  "name": "Bordj Essadien KBIBATE",
+                  "text": "Bordj Essadien KBIBATE este un castel defensiv istoric ce oferă o privire în trecutul orașului Larache.",
+                  "category": "castle",
+                  "coords": [
+                        -6.152777,
+                        35.199411
+                  ]
+            },
+            {
+                  "name": "Fischhalle",
+                  "text": "Fischhalle este o atracție notabilă a pieței unde are loc comerțul local cu fructe de mare în Larache.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.14353,
+                        35.19716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tour de la cigogne",
+                  "text": "Tour de la cigogne is a historical castle tower known for nesting storks in Larache.",
+                  "category": "castle",
+                  "coords": [
+                        -6.149851,
+                        35.195259
+                  ]
+            },
+            {
+                  "name": "Bordj Essadien KBIBATE",
+                  "text": "Bordj Essadien KBIBATE is a historic defensive castle offering a glimpse into Larache's past.",
+                  "category": "castle",
+                  "coords": [
+                        -6.152777,
+                        35.199411
+                  ]
+            },
+            {
+                  "name": "Fischhalle",
+                  "text": "The Fischhalle is a notable market attraction where local seafood trade takes place in Larache.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.14353,
+                        35.19716
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-6.15, 35.1833],
@@ -1649,7 +9506,52 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Centre administratif de la région de Drâa-Tafilalet et site militaire.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-errachidia-cities-v2.webp"},
   {
-    id: "ma-taroudant-cities-v2",
+    id: "ma-taroudant-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bab Agafay",
+                  "text": "Bab Agafay ist ein historisches befestigtes Tor in den Stadtmauern von Taroudant.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.888167,
+                        30.47305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bab Agafay",
+                  "text": "A Bab Agafay egy történelmi erődített kapu Taroudant városfalainál.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.888167,
+                        30.47305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bab Agafay",
+                  "text": "Bab Agafay este o poartă fortificată istorică situată în zidurile orașului Taroudant.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.888167,
+                        30.47305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bab Agafay",
+                  "text": "Bab Agafay is a historic fortified gate located in the city walls of Taroudant.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.888167,
+                        30.47305
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-09",
     coords: [-8.877, 30.4703],
@@ -1781,7 +9683,52 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Connue comme le 'Hollywood de l'Afrique' pour ses studios de cinéma.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-ouarzazate-cities-v2.webp"},
   {
-    id: "ma-berkane-cities-v2",
+    id: "ma-berkane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسرح الهواء الطلق",
+                  "text": "Dieses Freilichttheater ist ein Veranstaltungsort in der Stadt Berkane.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.338364,
+                        34.922604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسرح الهواء الطلق",
+                  "text": "Ez a szabadtéri színház egy szórakozóhely Berkane városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.338364,
+                        34.922604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسرح الهواء الطلق",
+                  "text": "Acest teatru în aer liber este un loc de divertisment în orașul Berkane.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.338364,
+                        34.922604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "مسرح الهواء الطلق",
+                  "text": "This open-air theatre is an entertainment venue in the city of Berkane.",
+                  "category": "cultural",
+                  "coords": [
+                        -2.338364,
+                        34.922604
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-02",
     coords: [-2.3167, 34.9167],
@@ -1847,7 +9794,448 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["La capitale de la production d'agrumes au Maroc.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-berkane-cities-v2.webp"},
   {
-    id: "ma-al-hoceima-cities-v2",
+    id: "ma-al-hoceima-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Quemado",
+                  "text": "Playa Quemado ist ein malerischer lokaler Strand in Al Hoceima, der zum Schwimmen und Entspannen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.926074,
+                        35.243945
+                  ]
+            },
+            {
+                  "name": "Playa Cala Bonita",
+                  "text": "Playa Cala Bonita ist ein charmanter mediterraner Strand an der Küste von Al Hoceima.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.922947,
+                        35.234645
+                  ]
+            },
+            {
+                  "name": "Place Rif",
+                  "text": "Der Place Rif ist ein belebter öffentlicher Platz und eine Attraktion, die als Treffpunkt in Al Hoceima dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.928327,
+                        35.241081
+                  ]
+            },
+            {
+                  "name": "annar n imjahden",
+                  "text": "Der Mohammed V Square ist eine wichtige Stadtattraktion in Al Hoceima, die dem historischen König gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.929676,
+                        35.245182
+                  ]
+            },
+            {
+                  "name": "كورنيش مورو ڤييخو",
+                  "text": "Cornice Morro Viejo bietet einen wunderbaren erhöhten Aussichtspunkt über das Meer in Al Hoceima.",
+                  "category": "natural",
+                  "coords": [
+                        -3.922108,
+                        35.241206
+                  ]
+            },
+            {
+                  "name": "فضاء ميرامار",
+                  "text": "Miramar Space ist ein Aussichtspunkt an der Küste, der einen Panoramablick auf das Mittelmeer von Al Hoceima bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -3.928736,
+                        35.242419
+                  ]
+            },
+            {
+                  "name": "مورو ڤييخو",
+                  "text": "Moro viejo ist ein malerischer Aussichtspunkt, der sich perfekt eignet, um die Schönheit der Küste von Al Hoceima zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920517,
+                        35.241033
+                  ]
+            },
+            {
+                  "name": "شاطيء الرمود",
+                  "text": "Der Rmod Beach ist eine schöne Attraktion am Meer, die Sonne und Sand in Al Hoceima bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.965728,
+                        35.243738
+                  ]
+            },
+            {
+                  "name": "شاطيء إيزدي",
+                  "text": "Der Izdhi Beach ist eine reizvolle Küstenattraktion, die sich perfekt für einen Spaziergang am Meer in Al Hoceima eignet.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.963093,
+                        35.245354
+                  ]
+            },
+            {
+                  "name": "شاطيء مقطوعة",
+                  "text": "Der Maktoâa Beach bietet eine natürliche Uferattraktion für Einheimische und Touristen in Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.918911,
+                        35.229623
+                  ]
+            },
+            {
+                  "name": "الرهبان",
+                  "text": "Los Frailes ist ein Aussichtspunkt an der Küste, der für seine dramatischen Klippen und den Meerblick in Al Hoceima bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -3.929535,
+                        35.261559
+                  ]
+            },
+            {
+                  "name": "شاطيء المطاديرو",
+                  "text": "Matadero Beach ist eine kleine und entspannende Küstenattraktion in der Stadt Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.923375,
+                        35.236735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Quemado",
+                  "text": "A Playa Quemado egy festői helyi strand, amely népszerű fürdésre és kikapcsolódásra Al Hoceimában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.926074,
+                        35.243945
+                  ]
+            },
+            {
+                  "name": "Playa Cala Bonita",
+                  "text": "A Playa Cala Bonita egy hangulatos mediterrán strand Al Hoceima partjai mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.922947,
+                        35.234645
+                  ]
+            },
+            {
+                  "name": "Place Rif",
+                  "text": "A Place Rif egy nyüzsgő középület és látványosság, amely gyülekezőhelyként szolgál Al Hoceimában.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.928327,
+                        35.241081
+                  ]
+            },
+            {
+                  "name": "annar n imjahden",
+                  "text": "A V. Mohammed tér a város egyik fő látványossága Al Hoceimában, amelyet a történelmi királynak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.929676,
+                        35.245182
+                  ]
+            },
+            {
+                  "name": "كورنيش مورو ڤييخو",
+                  "text": "A Cornice Morro Viejo csodálatos, magaslati kilátópontot kínál a tengerre Al Hoceimában.",
+                  "category": "natural",
+                  "coords": [
+                        -3.922108,
+                        35.241206
+                  ]
+            },
+            {
+                  "name": "فضاء ميرامار",
+                  "text": "A Miramar Space egy tengerparti kilátó, amely panorámás kilátást nyújt a Földközi-tengerre Al Hoceimából.",
+                  "category": "natural",
+                  "coords": [
+                        -3.928736,
+                        35.242419
+                  ]
+            },
+            {
+                  "name": "مورو ڤييخو",
+                  "text": "A Moro viejo egy festői kilátó, amely tökéletes Al Hoceima tengerparti szépségének megcsodálásához.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920517,
+                        35.241033
+                  ]
+            },
+            {
+                  "name": "شاطيء الرمود",
+                  "text": "A Rmod Beach egy kedves tengerparti látványosság, amely napsütést és homokot kínál Al Hoceimában.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.965728,
+                        35.243738
+                  ]
+            },
+            {
+                  "name": "شاطيء إيزدي",
+                  "text": "Az Izdhi Beach egy vonzó tengerparti látványosság, amely tökéletes egy tengerparti sétához Al Hoceimában.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.963093,
+                        35.245354
+                  ]
+            },
+            {
+                  "name": "شاطيء مقطوعة",
+                  "text": "A Maktoâa Beach egy természetes partvonalú látványosság a helyiek és a turisták számára Al Hoceimában.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.918911,
+                        35.229623
+                  ]
+            },
+            {
+                  "name": "الرهبان",
+                  "text": "A Los Frailes egy tengerparti kilátó, amely drámai szikláiról és tengeri kilátásáról ismert Al Hoceimában.",
+                  "category": "natural",
+                  "coords": [
+                        -3.929535,
+                        35.261559
+                  ]
+            },
+            {
+                  "name": "شاطيء المطاديرو",
+                  "text": "A Matadero Beach egy kicsi és pihentető tengerparti látványosság Al Hoceima városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.923375,
+                        35.236735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Quemado",
+                  "text": "Playa Quemado este o plajă locală pitorească populară pentru înot și relaxare în Al Hoceima.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.926074,
+                        35.243945
+                  ]
+            },
+            {
+                  "name": "Playa Cala Bonita",
+                  "text": "Playa Cala Bonita este o plajă mediteraneană fermecătoare situată de-a lungul coastei din Al Hoceima.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.922947,
+                        35.234645
+                  ]
+            },
+            {
+                  "name": "Place Rif",
+                  "text": "Place Rif este o piață publică aglomerată și o atracție care servește drept loc de adunare în Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.928327,
+                        35.241081
+                  ]
+            },
+            {
+                  "name": "annar n imjahden",
+                  "text": "Piața Mohammed V este o atracție majoră a orașului dedicată regelui istoric din Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.929676,
+                        35.245182
+                  ]
+            },
+            {
+                  "name": "كورنيش مورو ڤييخو",
+                  "text": "Cornice Morro Viejo oferă un minunat punct de vedere înalt asupra mării în Al Hoceima.",
+                  "category": "natural",
+                  "coords": [
+                        -3.922108,
+                        35.241206
+                  ]
+            },
+            {
+                  "name": "فضاء ميرامار",
+                  "text": "Miramar Space este un punct de belvedere de coastă care oferă priveliști panoramice ale Mediteranei din Al Hoceima.",
+                  "category": "natural",
+                  "coords": [
+                        -3.928736,
+                        35.242419
+                  ]
+            },
+            {
+                  "name": "مورو ڤييخو",
+                  "text": "Moro viejo este o zonă de belvedere pitorească, perfectă pentru a admira frumusețea coastei din Al Hoceima.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920517,
+                        35.241033
+                  ]
+            },
+            {
+                  "name": "شاطيء الرمود",
+                  "text": "Plaja Rmod este o atracție frumoasă la malul mării care oferă soare și nisip în Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.965728,
+                        35.243738
+                  ]
+            },
+            {
+                  "name": "شاطيء إيزدي",
+                  "text": "Plaja Izdhi este o atracție de coastă atrăgătoare, perfectă pentru o plimbare pe malul mării în Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.963093,
+                        35.245354
+                  ]
+            },
+            {
+                  "name": "شاطيء مقطوعة",
+                  "text": "Plaja Maktoâa oferă o atracție naturală pe țărm pentru localnici și turiști în Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.918911,
+                        35.229623
+                  ]
+            },
+            {
+                  "name": "الرهبان",
+                  "text": "Los Frailes este un punct de belvedere de coastă cunoscut pentru stâncile sale dramatice și priveliștile mării din Al Hoceima.",
+                  "category": "natural",
+                  "coords": [
+                        -3.929535,
+                        35.261559
+                  ]
+            },
+            {
+                  "name": "شاطيء المطاديرو",
+                  "text": "Plaja Matadero este o atracție de coastă mică și relaxantă din orașul Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.923375,
+                        35.236735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Quemado",
+                  "text": "Playa Quemado is a scenic local beach popular for swimming and relaxation in Al Hoceima.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.926074,
+                        35.243945
+                  ]
+            },
+            {
+                  "name": "Playa Cala Bonita",
+                  "text": "Playa Cala Bonita is a charming Mediterranean beach situated along the coast of Al Hoceima.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.922947,
+                        35.234645
+                  ]
+            },
+            {
+                  "name": "Place Rif",
+                  "text": "Place Rif is a bustling public square and attraction serving as a gathering spot in Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.928327,
+                        35.241081
+                  ]
+            },
+            {
+                  "name": "Mohammed V Square",
+                  "text": "Mohammed V Square is a major city attraction dedicated to the historical king in Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.929676,
+                        35.245182
+                  ]
+            },
+            {
+                  "name": "Cornice Morro Viejo",
+                  "text": "Cornice Morro Viejo provides a wonderful elevated viewpoint over the sea in Al Hoceima.",
+                  "category": "natural",
+                  "coords": [
+                        -3.922108,
+                        35.241206
+                  ]
+            },
+            {
+                  "name": "Miramar Space",
+                  "text": "Miramar Space is a coastal viewpoint offering panoramic sights of the Mediterranean from Al Hoceima.",
+                  "category": "natural",
+                  "coords": [
+                        -3.928736,
+                        35.242419
+                  ]
+            },
+            {
+                  "name": "Moro viejo",
+                  "text": "Moro viejo is a scenic viewpoint area perfect for taking in the coastal beauty of Al Hoceima.",
+                  "category": "natural",
+                  "coords": [
+                        -3.920517,
+                        35.241033
+                  ]
+            },
+            {
+                  "name": "Rmod Beach",
+                  "text": "Rmod Beach is a lovely seaside attraction offering sun and sand in Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.965728,
+                        35.243738
+                  ]
+            },
+            {
+                  "name": "Izdhi Beach",
+                  "text": "Izdhi Beach is an appealing coastal attraction perfect for a seaside walk in Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.963093,
+                        35.245354
+                  ]
+            },
+            {
+                  "name": "Maktoâa Beach",
+                  "text": "Maktoâa Beach provides a natural shoreline attraction for locals and tourists in Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.918911,
+                        35.229623
+                  ]
+            },
+            {
+                  "name": "Los Frailes",
+                  "text": "Los Frailes is a coastal viewpoint known for its dramatic cliffs and sea vistas in Al Hoceima.",
+                  "category": "natural",
+                  "coords": [
+                        -3.929535,
+                        35.261559
+                  ]
+            },
+            {
+                  "name": "Matadero Beach",
+                  "text": "Matadero Beach is a small and relaxing coastal attraction within the city of Al Hoceima.",
+                  "category": "landmark",
+                  "coords": [
+                        -3.923375,
+                        35.236735
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-3.9372, 35.2517],
@@ -1913,7 +10301,448 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Marquée par des influences espagnoles (fondée en 1925 sous le nom de Villa Sanjurjo).", "La baie compte parmi les plus belles du Maroc.", "Se trouve au cœur des montagnes du Rif.", "Lieu important pour la pêche."],
     }, image: "/poi-images/ma-al-hoceima-cities-v2.webp"},
   {
-    id: "ma-chefchaouen-cities-v2",
+    id: "ma-chefchaouen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "théâtre al kasaba",
+                  "text": "Theater in Chefchaouen.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.261354,
+                        35.168837
+                  ]
+            },
+            {
+                  "name": "Ecomusée du parc national Talassemtane",
+                  "text": "Museum in Chefchaouen.",
+                  "category": "museum",
+                  "coords": [
+                        -5.264496,
+                        35.175011
+                  ]
+            },
+            {
+                  "name": "Parc national Talassemtaneمنتزه تلاسمطان الوطني",
+                  "text": "Naturschutzgebiet in Chefchaouen.",
+                  "category": "natural",
+                  "coords": [
+                        -5.144412,
+                        35.224637
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "Dieser Aussichtspunkt in Chefchaouen bietet einen schönen Blick auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -5.258777,
+                        35.174755
+                  ]
+            },
+            {
+                  "name": "Art Studio Omar Saadoune",
+                  "text": "Eine Kunstgalerie in Chefchaouen, die lokale Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -5.26496,
+                        35.169307
+                  ]
+            },
+            {
+                  "name": "Conservatoire",
+                  "text": "Das Konservatorium in Chefchaouen ist ein Zentrum für künstlerische Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.259979,
+                        35.169516
+                  ]
+            },
+            {
+                  "name": "Mercato",
+                  "text": "Ein lebhafter Markt in Chefchaouen mit verschiedenen Waren.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.265509,
+                        35.166487
+                  ]
+            },
+            {
+                  "name": "Piazza",
+                  "text": "Ein beliebter Platz in Chefchaouen, ideal für einen Spaziergang.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268363,
+                        35.168948
+                  ]
+            },
+            {
+                  "name": "Bab El Marhouk",
+                  "text": "Ein historisches Stadttor in Chefchaouen.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.260916,
+                        35.171397
+                  ]
+            },
+            {
+                  "name": "Calle Sidi Buchuka",
+                  "text": "Ein bekannter Fotospot in Chefchaouen mit verzierten Säulen.",
+                  "category": "natural",
+                  "coords": [
+                        -5.262901,
+                        35.170152
+                  ]
+            },
+            {
+                  "name": "Al-Haouta Oven",
+                  "text": "Ein traditioneller Backofen in Chefchaouen.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.263549,
+                        35.168828
+                  ]
+            },
+            {
+                  "name": "The Rif Andalus Oven",
+                  "text": "Ein historischer Backofen, der die andalusische Tradition widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.261736,
+                        35.169905
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "théâtre al kasaba",
+                  "text": "Színház Chefchaouenben.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.261354,
+                        35.168837
+                  ]
+            },
+            {
+                  "name": "Ecomusée du parc national Talassemtane",
+                  "text": "Múzeum Chefchaouenben.",
+                  "category": "museum",
+                  "coords": [
+                        -5.264496,
+                        35.175011
+                  ]
+            },
+            {
+                  "name": "Parc national Talassemtaneمنتزه تلاسمطان الوطني",
+                  "text": "Természetvédelmi terület Chefchaouenben.",
+                  "category": "natural",
+                  "coords": [
+                        -5.144412,
+                        35.224637
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "Ez a chefchaoueni kilátó szép kilátást nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -5.258777,
+                        35.174755
+                  ]
+            },
+            {
+                  "name": "Art Studio Omar Saadoune",
+                  "text": "Egy művészeti galéria Chefchaouenben, amely helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -5.26496,
+                        35.169307
+                  ]
+            },
+            {
+                  "name": "Conservatoire",
+                  "text": "A chefchaoueni konzervatórium a művészeti tevékenységek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.259979,
+                        35.169516
+                  ]
+            },
+            {
+                  "name": "Mercato",
+                  "text": "Élénk piac Chefchaouenben, különféle árukkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.265509,
+                        35.166487
+                  ]
+            },
+            {
+                  "name": "Piazza",
+                  "text": "Népszerű tér Chefchaouenben, ideális egy sétához.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268363,
+                        35.168948
+                  ]
+            },
+            {
+                  "name": "Bab El Marhouk",
+                  "text": "Egy történelmi városkapu Chefchaouenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.260916,
+                        35.171397
+                  ]
+            },
+            {
+                  "name": "Calle Sidi Buchuka",
+                  "text": "Ismert fotózási helyszín Chefchaouenben díszes oszlopokkal.",
+                  "category": "natural",
+                  "coords": [
+                        -5.262901,
+                        35.170152
+                  ]
+            },
+            {
+                  "name": "Al-Haouta Oven",
+                  "text": "Hagyományos sütő Chefchaouenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.263549,
+                        35.168828
+                  ]
+            },
+            {
+                  "name": "The Rif Andalus Oven",
+                  "text": "Történelmi sütő, amely az andalúz hagyományokat tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.261736,
+                        35.169905
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "théâtre al kasaba",
+                  "text": "Teatru în Chefchaouen.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.261354,
+                        35.168837
+                  ]
+            },
+            {
+                  "name": "Ecomusée du parc national Talassemtane",
+                  "text": "Muzeu în Chefchaouen.",
+                  "category": "museum",
+                  "coords": [
+                        -5.264496,
+                        35.175011
+                  ]
+            },
+            {
+                  "name": "Parc national Talassemtaneمنتزه تلاسمطان الوطني",
+                  "text": "Rezervație naturală în Chefchaouen.",
+                  "category": "natural",
+                  "coords": [
+                        -5.144412,
+                        35.224637
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "Acest punct de belvedere din Chefchaouen oferă o vedere frumoasă asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -5.258777,
+                        35.174755
+                  ]
+            },
+            {
+                  "name": "Art Studio Omar Saadoune",
+                  "text": "O galerie de artă din Chefchaouen care prezintă lucrări locale.",
+                  "category": "museum",
+                  "coords": [
+                        -5.26496,
+                        35.169307
+                  ]
+            },
+            {
+                  "name": "Conservatoire",
+                  "text": "Conservatorul din Chefchaouen este un centru pentru activități artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.259979,
+                        35.169516
+                  ]
+            },
+            {
+                  "name": "Mercato",
+                  "text": "O piață animată din Chefchaouen cu diverse mărfuri.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.265509,
+                        35.166487
+                  ]
+            },
+            {
+                  "name": "Piazza",
+                  "text": "O piață populară din Chefchaouen, ideală pentru o plimbare.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268363,
+                        35.168948
+                  ]
+            },
+            {
+                  "name": "Bab El Marhouk",
+                  "text": "O poartă istorică a orașului Chefchaouen.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.260916,
+                        35.171397
+                  ]
+            },
+            {
+                  "name": "Calle Sidi Buchuka",
+                  "text": "Un loc popular pentru fotografii în Chefchaouen cu coloane decorate.",
+                  "category": "natural",
+                  "coords": [
+                        -5.262901,
+                        35.170152
+                  ]
+            },
+            {
+                  "name": "Al-Haouta Oven",
+                  "text": "Un cuptor tradițional din Chefchaouen.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.263549,
+                        35.168828
+                  ]
+            },
+            {
+                  "name": "The Rif Andalus Oven",
+                  "text": "Un cuptor istoric care reflectă tradiția andaluză.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.261736,
+                        35.169905
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "théâtre al kasaba",
+                  "text": "Theatre in Chefchaouen.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.261354,
+                        35.168837
+                  ]
+            },
+            {
+                  "name": "Ecomusée du parc national Talassemtane",
+                  "text": "Museum in Chefchaouen.",
+                  "category": "museum",
+                  "coords": [
+                        -5.264496,
+                        35.175011
+                  ]
+            },
+            {
+                  "name": "Talassemtane National Park",
+                  "text": "Nature reserve in Chefchaouen.",
+                  "category": "natural",
+                  "coords": [
+                        -5.144412,
+                        35.224637
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "This viewpoint in Chefchaouen offers a nice view of the city.",
+                  "category": "natural",
+                  "coords": [
+                        -5.258777,
+                        35.174755
+                  ]
+            },
+            {
+                  "name": "Art Studio Omar Saadoune",
+                  "text": "An art gallery in Chefchaouen showcasing local works.",
+                  "category": "museum",
+                  "coords": [
+                        -5.26496,
+                        35.169307
+                  ]
+            },
+            {
+                  "name": "Conservatoire",
+                  "text": "The conservatory in Chefchaouen is a center for artistic activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.259979,
+                        35.169516
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "A lively market in Chefchaouen with various goods.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.265509,
+                        35.166487
+                  ]
+            },
+            {
+                  "name": "Piazza",
+                  "text": "A popular square in Chefchaouen, ideal for a walk.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.268363,
+                        35.168948
+                  ]
+            },
+            {
+                  "name": "Bab El Marhouk",
+                  "text": "A historical city gate in Chefchaouen.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.260916,
+                        35.171397
+                  ]
+            },
+            {
+                  "name": "Photospot with round pillars with mosaic",
+                  "text": "A popular photospot in Chefchaouen with decorated pillars.",
+                  "category": "natural",
+                  "coords": [
+                        -5.262901,
+                        35.170152
+                  ]
+            },
+            {
+                  "name": "Al-Haouta Oven",
+                  "text": "A traditional oven in Chefchaouen.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.263549,
+                        35.168828
+                  ]
+            },
+            {
+                  "name": "The Rif Andalus Oven",
+                  "text": "A historical oven reflecting Andalusian tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.261736,
+                        35.169905
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-5.2697, 35.1714],
@@ -2243,7 +11072,412 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville en pleine croissance située sur le plateau du pays Zemmour.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-tiflet-cities-v2.webp"},
   {
-    id: "ma-essaouira-cities-v2",
+    id: "ma-essaouira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "كاراج",
+                  "text": "Dieses Museum in Essaouira bietet Besuchern einzigartige Ausstellungen und kulturelle Einblicke.",
+                  "category": "museum",
+                  "coords": [
+                        -9.762851,
+                        31.513503
+                  ]
+            },
+            {
+                  "name": "Plage d'Essaouira",
+                  "text": "Der Plage d'Essaouira ist ein breiter Sandstrand, der für seine malerische Aussicht auf die Küste und seine Wassersportarten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.767577,
+                        31.499204
+                  ]
+            },
+            {
+                  "name": "Bab El Mechouar",
+                  "text": "Bab El Mechouar ist eine bekannte Sehenswürdigkeit und ein historisches Tor in Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.771767,
+                        31.511105
+                  ]
+            },
+            {
+                  "name": "Bab Marrakech باب مراكش",
+                  "text": "Bab Marrakech باب مراكش ist eine lokale Sehenswürdigkeit in Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.765924,
+                        31.511924
+                  ]
+            },
+            {
+                  "name": "Fischmarkt",
+                  "text": "Fishery ist eine Sehenswürdigkeit in Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.774623,
+                        31.509337
+                  ]
+            },
+            {
+                  "name": "Bab Skala",
+                  "text": "Bab Skala ist ein historisches Denkmal in Essaouira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.772483,
+                        31.513654
+                  ]
+            },
+            {
+                  "name": "Borj El baroud",
+                  "text": "Borj El baroud ist eine Sehenswürdigkeit in Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.777636,
+                        31.487932
+                  ]
+            },
+            {
+                  "name": "Kitesensation Essaouira",
+                  "text": "Kitesensation Essaouira ist eine Sehenswürdigkeit in Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.762855,
+                        31.505606
+                  ]
+            },
+            {
+                  "name": "Prison de Mogador",
+                  "text": "Prison de Mogador umfasst historische Ruinen in Essaouira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.786647,
+                        31.495735
+                  ]
+            },
+            {
+                  "name": "Gallerie Pecheur",
+                  "text": "Gallerie Pecheur ist eine Galerie in Essaouira.",
+                  "category": "museum",
+                  "coords": [
+                        -9.766104,
+                        31.516349
+                  ]
+            },
+            {
+                  "name": "petit fort portuguess حصن برتغالي صغير",
+                  "text": "Das petit fort portuguess حصن برتغالي صغير besteht aus Ruinen in Essaouira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.775658,
+                        31.489019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "كاراج",
+                  "text": "Ez az Essaouirában található múzeum egyedi kiállításokat és kulturális betekintést kínál a látogatóknak.",
+                  "category": "museum",
+                  "coords": [
+                        -9.762851,
+                        31.513503
+                  ]
+            },
+            {
+                  "name": "Plage d'Essaouira",
+                  "text": "A Plage d'Essaouira egy széles, homokos strand, amely híres festői tengerparti kilátásáról és vízi sportjairól.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.767577,
+                        31.499204
+                  ]
+            },
+            {
+                  "name": "Bab El Mechouar",
+                  "text": "A Bab El Mechouar egy ismert látványosság és történelmi kapu Essaouira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.771767,
+                        31.511105
+                  ]
+            },
+            {
+                  "name": "Bab Marrakech باب مراكش",
+                  "text": "A Bab Marrakech باب مراكش egy helyi látványosság Essaouira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.765924,
+                        31.511924
+                  ]
+            },
+            {
+                  "name": "Marché aux Poissons",
+                  "text": "A Fishery egy látványosság Essaouira területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.774623,
+                        31.509337
+                  ]
+            },
+            {
+                  "name": "Bab Skala",
+                  "text": "A Bab Skala egy történelmi emlékmű Essaouira városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.772483,
+                        31.513654
+                  ]
+            },
+            {
+                  "name": "Borj El baroud",
+                  "text": "A Borj El baroud egy látványosság Essaouira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.777636,
+                        31.487932
+                  ]
+            },
+            {
+                  "name": "Kitesensation Essaouira",
+                  "text": "A Kitesensation Essaouira egy látványosság Essaouira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.762855,
+                        31.505606
+                  ]
+            },
+            {
+                  "name": "Prison de Mogador",
+                  "text": "A Prison de Mogador történelmi romokat foglal magában Essaouira városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.786647,
+                        31.495735
+                  ]
+            },
+            {
+                  "name": "Gallerie Pecheur",
+                  "text": "A Gallerie Pecheur egy galéria Essaouira városában.",
+                  "category": "museum",
+                  "coords": [
+                        -9.766104,
+                        31.516349
+                  ]
+            },
+            {
+                  "name": "petit fort portuguess حصن برتغالي صغير",
+                  "text": "A petit fort portuguess حصن برتغالي صغير ősi romokból áll Essaouira területén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.775658,
+                        31.489019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "كاراج",
+                  "text": "Acest muzeu din Essaouira oferă expoziții unice și perspective culturale pentru vizitatori.",
+                  "category": "museum",
+                  "coords": [
+                        -9.762851,
+                        31.513503
+                  ]
+            },
+            {
+                  "name": "Plage d'Essaouira",
+                  "text": "Plage d'Essaouira este o plajă largă cu nisip faimoasă pentru priveliștile sale pitorești de pe coastă și sporturile nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.767577,
+                        31.499204
+                  ]
+            },
+            {
+                  "name": "Bab El Mechouar",
+                  "text": "Bab El Mechouar este o atracție cunoscută și o poartă istorică în Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.771767,
+                        31.511105
+                  ]
+            },
+            {
+                  "name": "Bab Marrakech باب مراكش",
+                  "text": "Bab Marrakech باب مراكش este o atracție locală din Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.765924,
+                        31.511924
+                  ]
+            },
+            {
+                  "name": "Marché aux Poissons",
+                  "text": "Fishery este o atracție situată în Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.774623,
+                        31.509337
+                  ]
+            },
+            {
+                  "name": "Bab Skala",
+                  "text": "Bab Skala este un monument istoric din Essaouira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.772483,
+                        31.513654
+                  ]
+            },
+            {
+                  "name": "Borj El baroud",
+                  "text": "Borj El baroud este o atracție în Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.777636,
+                        31.487932
+                  ]
+            },
+            {
+                  "name": "Kitesensation Essaouira",
+                  "text": "Kitesensation Essaouira este o atracție în orașul Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.762855,
+                        31.505606
+                  ]
+            },
+            {
+                  "name": "Prison de Mogador",
+                  "text": "Prison de Mogador reprezintă ruine istorice din Essaouira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.786647,
+                        31.495735
+                  ]
+            },
+            {
+                  "name": "Gallerie Pecheur",
+                  "text": "Gallerie Pecheur este o galerie de artă situată în Essaouira.",
+                  "category": "museum",
+                  "coords": [
+                        -9.766104,
+                        31.516349
+                  ]
+            },
+            {
+                  "name": "petit fort portuguess حصن برتغالي صغير",
+                  "text": "Petit fort portuguess حصن برتغالي صغير constă în ruine vechi din Essaouira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.775658,
+                        31.489019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "كاراج",
+                  "text": "This museum in Essaouira offers unique exhibitions and cultural insights for visitors.",
+                  "category": "museum",
+                  "coords": [
+                        -9.762851,
+                        31.513503
+                  ]
+            },
+            {
+                  "name": "Plage d'Essaouira",
+                  "text": "Plage d'Essaouira is a wide, sandy beach famous for its scenic coastal views and water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.767577,
+                        31.499204
+                  ]
+            },
+            {
+                  "name": "Bab El Mechouar",
+                  "text": "Bab El Mechouar is a well-known attraction and historical gate located in Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.771767,
+                        31.511105
+                  ]
+            },
+            {
+                  "name": "Bab Marrakech باب مراكش",
+                  "text": "Bab Marrakech باب مراكش is a local attraction situated in Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.765924,
+                        31.511924
+                  ]
+            },
+            {
+                  "name": "Fishery",
+                  "text": "Fishery is an attraction located in Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.774623,
+                        31.509337
+                  ]
+            },
+            {
+                  "name": "Bab Skala",
+                  "text": "Bab Skala is a historic monument located in Essaouira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.772483,
+                        31.513654
+                  ]
+            },
+            {
+                  "name": "Borj El baroud",
+                  "text": "Borj El baroud is an attraction to visit in Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.777636,
+                        31.487932
+                  ]
+            },
+            {
+                  "name": "Kitesensation Essaouira",
+                  "text": "Kitesensation Essaouira is an attraction situated in Essaouira.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.762855,
+                        31.505606
+                  ]
+            },
+            {
+                  "name": "Prison de Mogador",
+                  "text": "Prison de Mogador features historical ruins located in Essaouira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.786647,
+                        31.495735
+                  ]
+            },
+            {
+                  "name": "Gallerie Pecheur",
+                  "text": "Gallerie Pecheur is a gallery situated in Essaouira.",
+                  "category": "museum",
+                  "coords": [
+                        -9.766104,
+                        31.516349
+                  ]
+            },
+            {
+                  "name": "petit fort portuguess حصن برتغالي صغير",
+                  "text": "The petit fort portuguess حصن برتغالي صغير consists of ruins in Essaouira.",
+                  "category": "historical",
+                  "coords": [
+                        -9.775658,
+                        31.489019
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-07",
     coords: [-9.77, 31.5125],
@@ -2375,7 +11609,88 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville du sud du Maroc réputée pour son artisanat de l'argent.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-tiznit-cities-v2.webp"},
   {
-    id: "ma-azrou-cities-v2",
+    id: "ma-azrou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "text": "Der Ifrane-Nationalpark ist ein Naturschutzgebiet bei Azrou, das für seine Atlaszedernwälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -5.140201,
+                        33.444559
+                  ]
+            },
+            {
+                  "name": "Musée Régional Berbère",
+                  "text": "Das Musée Régional Berbère ist ein Museum in Azrou.",
+                  "category": "museum",
+                  "coords": [
+                        -5.222881,
+                        33.434764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "text": "Az Ifrane Nemzeti Park egy természeti rezervátum Azrou közelében, amely Atlaszcédrus-erdőiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -5.140201,
+                        33.444559
+                  ]
+            },
+            {
+                  "name": "Musée Régional Berbère",
+                  "text": "A Musée Régional Berbère egy helyi örökséget bemutató múzeum Azrouban.",
+                  "category": "museum",
+                  "coords": [
+                        -5.222881,
+                        33.434764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "text": "Parcul Național Ifrane este o rezervație naturală lângă Azrou, faimoasă pentru pădurile sale de cedru de Atlas.",
+                  "category": "natural",
+                  "coords": [
+                        -5.140201,
+                        33.444559
+                  ]
+            },
+            {
+                  "name": "Musée Régional Berbère",
+                  "text": "Musée Régional Berbère este un muzeu localizat în Azrou.",
+                  "category": "museum",
+                  "coords": [
+                        -5.222881,
+                        33.434764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ifrane National Park",
+                  "text": "Ifrane National Park is a nature reserve near Azrou, famous for its Atlas cedar forests.",
+                  "category": "natural",
+                  "coords": [
+                        -5.140201,
+                        33.444559
+                  ]
+            },
+            {
+                  "name": "Musée Régional Berbère",
+                  "text": "Musée Régional Berbère is a museum showcasing local heritage in Azrou.",
+                  "category": "museum",
+                  "coords": [
+                        -5.222881,
+                        33.434764
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-03",
     coords: [-5.2167, 33.4333],
@@ -2441,7 +11756,88 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Le nom signifie 'rocher' dans la langue berbère locale.", "Située à une altitude de plus de 1200 mètres.", "Célèbre pour les macaques de Barbarie dans les forêts voisines.", "Un centre pour la sculpture sur bois et le tissage de tapis."],
     }, image: "/poi-images/ma-azrou-cities-v2.webp"},
   {
-    id: "ma-midelt-cities-v2",
+    id: "ma-midelt-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kashba",
+                  "text": "Kashba bietet einen Aussichtspunkt in Midelt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.749028,
+                        32.681597
+                  ]
+            },
+            {
+                  "name": "Rond Point La Pomme",
+                  "text": "Rond Point La Pomme ist eine Sehenswürdigkeit in Midelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.740841,
+                        32.67979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kashba",
+                  "text": "A Kashba egy kilátóhely Midelt városában.",
+                  "category": "natural",
+                  "coords": [
+                        -4.749028,
+                        32.681597
+                  ]
+            },
+            {
+                  "name": "Rond Point La Pomme",
+                  "text": "A Rond Point La Pomme egy látványosság Midelt városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.740841,
+                        32.67979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kashba",
+                  "text": "Kashba oferă un punct de belvedere în Midelt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.749028,
+                        32.681597
+                  ]
+            },
+            {
+                  "name": "Rond Point La Pomme",
+                  "text": "Rond Point La Pomme este o atracție din Midelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.740841,
+                        32.67979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kashba",
+                  "text": "Kashba provides a viewpoint in the town of Midelt.",
+                  "category": "natural",
+                  "coords": [
+                        -4.749028,
+                        32.681597
+                  ]
+            },
+            {
+                  "name": "Rond Point La Pomme",
+                  "text": "Rond Point La Pomme is an attraction found in Midelt.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.740841,
+                        32.67979
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-08",
     coords: [-4.7381, 32.6806],
@@ -2507,7 +11903,52 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville de montagne connue comme le 'centre de la pomme' du Maroc.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-midelt-cities-v2.webp"},
   {
-    id: "ma-sefrou-cities-v2",
+    id: "ma-sefrou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "BAD EL MAQAM",
+                  "text": "Ein historisches Stadttor in Sefrou.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.838795,
+                        33.830052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BAD EL MAQAM",
+                  "text": "Történelmi városkapu Sefrouban.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.838795,
+                        33.830052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BAD EL MAQAM",
+                  "text": "O poartă istorică în Sefrou.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.838795,
+                        33.830052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BAD EL MAQAM",
+                  "text": "A historical city gate in Sefrou.",
+                  "category": "landmark",
+                  "coords": [
+                        -4.838795,
+                        33.830052
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-03",
     coords: [-4.8333, 33.8333],
@@ -2705,7 +12146,88 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["La ville la plus importante à proximité des célèbres gorges du Todra.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-tinghir-cities-v2.webp"},
   {
-    id: "ma-zagora-cities-v2",
+    id: "ma-zagora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tombouctou 52 jours",
+                  "text": "Ein interessanter Anziehungspunkt in Zagora.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.842278,
+                        30.323434
+                  ]
+            },
+            {
+                  "name": "Zagora",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Stadt Zagora.",
+                  "category": "natural",
+                  "coords": [
+                        -5.840339,
+                        30.322816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tombouctou 52 jours",
+                  "text": "Érdekes látnivaló Zagorában.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.842278,
+                        30.323434
+                  ]
+            },
+            {
+                  "name": "Zagora زاكورة",
+                  "text": "Kilátópont a Zagora városára nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -5.840339,
+                        30.322816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tombouctou 52 jours",
+                  "text": "Un punct de atracție interesant în Zagora.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.842278,
+                        30.323434
+                  ]
+            },
+            {
+                  "name": "Zagora زاكورة",
+                  "text": "Un punct de belvedere cu vedere spre orașul Zagora.",
+                  "category": "natural",
+                  "coords": [
+                        -5.840339,
+                        30.322816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tombouctou 52 jours",
+                  "text": "An interesting attraction in Zagora.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.842278,
+                        30.323434
+                  ]
+            },
+            {
+                  "name": "Zagora زاكورة",
+                  "text": "A viewpoint overlooking the city of Zagora.",
+                  "category": "natural",
+                  "coords": [
+                        -5.840339,
+                        30.322816
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-08",
     coords: [-5.8381, 30.3306],
@@ -2837,7 +12359,88 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville industrielle développée suite à l'exploitation des phosphates.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-youssoufia-cities-v2.webp"},
   {
-    id: "ma-fnideq-cities-v2",
+    id: "ma-fnideq-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Tarajal",
+                  "text": "El Tarajal ist ein bekannter Strand in Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.343396,
+                        35.871829
+                  ]
+            },
+            {
+                  "name": "Plage riffiine",
+                  "text": "Plage riffiine ist ein Strand in der Stadt Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.351646,
+                        35.81568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Tarajal",
+                  "text": "Az El Tarajal egy ismert strand Fnideq városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.343396,
+                        35.871829
+                  ]
+            },
+            {
+                  "name": "Plage riffiine",
+                  "text": "A Plage riffiine egy strand Fnideq partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.351646,
+                        35.81568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Tarajal",
+                  "text": "El Tarajal este o plajă cunoscută din Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.343396,
+                        35.871829
+                  ]
+            },
+            {
+                  "name": "Plage riffiine",
+                  "text": "Plage riffiine este o plajă situată în Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.351646,
+                        35.81568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Tarajal",
+                  "text": "El Tarajal is a notable beach located in Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.343396,
+                        35.871829
+                  ]
+            },
+            {
+                  "name": "Plage riffiine",
+                  "text": "Plage riffiine is a beach in the city of Fnideq.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.351646,
+                        35.81568
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-5.3522, 35.8453],
@@ -2903,7 +12506,88 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une ville frontalière animée située à proximité de l'enclave espagnole de Ceuta.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-fnideq-cities-v2.webp"},
   {
-    id: "ma-ouezzane-cities-v2",
+    id: "ma-ouezzane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magana الماكنة (الساعة)",
+                  "text": "Ein historisches Monument in Ouezzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.579803,
+                        34.796335
+                  ]
+            },
+            {
+                  "name": "Lala Oum Hani لالة أم هاني",
+                  "text": "Ein Denkmal zu Ehren von Lala Oum Hani in Ouezzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.592496,
+                        34.801087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magana الماكنة (الساعة)",
+                  "text": "Történelmi emlékmű Ouezzane-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.579803,
+                        34.796335
+                  ]
+            },
+            {
+                  "name": "Lala Oum Hani لالة أم هاني",
+                  "text": "Lala Oum Hani tiszteletére állított emlékmű Ouezzane-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.592496,
+                        34.801087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magana الماكنة (الساعة)",
+                  "text": "Un monument istoric în Ouezzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.579803,
+                        34.796335
+                  ]
+            },
+            {
+                  "name": "Lala Oum Hani لالة أم هاني",
+                  "text": "Un monument în cinstea lui Lala Oum Hani în Ouezzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.592496,
+                        34.801087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magana الماكنة (الساعة)",
+                  "text": "A historical monument in Ouezzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.579803,
+                        34.796335
+                  ]
+            },
+            {
+                  "name": "Lala Oum Hani لالة أم هاني",
+                  "text": "A monument in honor of Lala Oum Hani in Ouezzane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.592496,
+                        34.801087
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-5.5833, 34.8],
@@ -3035,7 +12719,52 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Un carrefour de transport majeur au confluent de la Moulouya et du Melloulou.", "Situé sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-guercif-cities-v2.webp"},
   {
-    id: "ma-oued-zem-cities-v2",
+    id: "ma-oued-zem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مسجد الرحمه",
+                  "text": "مسجد الرحمه ist ein Museum in Oued Zem.",
+                  "category": "museum",
+                  "coords": [
+                        -6.585697,
+                        32.861706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مسجد الرحمه",
+                  "text": "A مسجد الرحمه egy múzeum Oued Zem városában.",
+                  "category": "museum",
+                  "coords": [
+                        -6.585697,
+                        32.861706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مسجد الرحمه",
+                  "text": "مسجد الرحمه este un muzeu localizat în Oued Zem.",
+                  "category": "museum",
+                  "coords": [
+                        -6.585697,
+                        32.861706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "مسجد الرحمه",
+                  "text": "مسجد الرحمه is a museum located in Oued Zem.",
+                  "category": "museum",
+                  "coords": [
+                        -6.585697,
+                        32.861706
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-05",
     coords: [-6.5667, 32.8667],
@@ -3233,7 +12962,160 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Une station balnéaire populaire sur la côte méditerranéenne près de Tétouan.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-martil-cities-v2.webp"},
   {
-    id: "ma-asilah-cities-v2",
+    id: "ma-asilah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palais Rassouni",
+                  "text": "Palais Rassouni ist ein Schloss in Asilah.",
+                  "category": "castle",
+                  "coords": [
+                        -6.040236,
+                        35.465729
+                  ]
+            },
+            {
+                  "name": "Fort Antonio da Fonseca",
+                  "text": "Fort Antonio da Fonseca ist ein historisches Schloss in Asilah.",
+                  "category": "castle",
+                  "coords": [
+                        -6.038932,
+                        35.464482
+                  ]
+            },
+            {
+                  "name": "Borj Sidi Al Assili",
+                  "text": "Borj Sidi Al Assili ist eine alte Festung in Asilah.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.036211,
+                        35.466343
+                  ]
+            },
+            {
+                  "name": "Médina",
+                  "text": "Die Médina ist eine Sehenswürdigkeit in Asilah.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.038166,
+                        35.465531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palais Rassouni",
+                  "text": "A Palais Rassouni egy kastély Asilah városában.",
+                  "category": "castle",
+                  "coords": [
+                        -6.040236,
+                        35.465729
+                  ]
+            },
+            {
+                  "name": "Fort Antonio da Fonseca",
+                  "text": "A Fort Antonio da Fonseca egy történelmi kastély Asilah városában.",
+                  "category": "castle",
+                  "coords": [
+                        -6.038932,
+                        35.464482
+                  ]
+            },
+            {
+                  "name": "Borj Sidi Al Assili",
+                  "text": "A Borj Sidi Al Assili egy régi erőd Asilah városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.036211,
+                        35.466343
+                  ]
+            },
+            {
+                  "name": "Médina",
+                  "text": "A Médina egy látványosság Asilah városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.038166,
+                        35.465531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palais Rassouni",
+                  "text": "Palais Rassouni este un castel situat în Asilah.",
+                  "category": "castle",
+                  "coords": [
+                        -6.040236,
+                        35.465729
+                  ]
+            },
+            {
+                  "name": "Fort Antonio da Fonseca",
+                  "text": "Fort Antonio da Fonseca este un castel din Asilah.",
+                  "category": "castle",
+                  "coords": [
+                        -6.038932,
+                        35.464482
+                  ]
+            },
+            {
+                  "name": "Borj Sidi Al Assili",
+                  "text": "Borj Sidi Al Assili este un vechi fort în Asilah.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.036211,
+                        35.466343
+                  ]
+            },
+            {
+                  "name": "Médina",
+                  "text": "Médina este o atracție în orașul Asilah.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.038166,
+                        35.465531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palais Rassouni",
+                  "text": "Palais Rassouni is a castle situated in Asilah.",
+                  "category": "castle",
+                  "coords": [
+                        -6.040236,
+                        35.465729
+                  ]
+            },
+            {
+                  "name": "Fort Antonio da Fonseca",
+                  "text": "Fort Antonio da Fonseca is a historic castle in Asilah.",
+                  "category": "castle",
+                  "coords": [
+                        -6.038932,
+                        35.464482
+                  ]
+            },
+            {
+                  "name": "Borj Sidi Al Assili",
+                  "text": "Borj Sidi Al Assili is an old fort located in Asilah.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.036211,
+                        35.466343
+                  ]
+            },
+            {
+                  "name": "Médina",
+                  "text": "The Médina is an attraction located in Asilah.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.038166,
+                        35.465531
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-01",
     coords: [-6.0333, 35.4667],
@@ -3299,7 +13181,160 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["La médina est réputée pour ses peintures murales renouvelées chaque année.", "Accueille un festival culturel international en été.", "Était une garnison portugaise au XVe siècle.", "Se distingue par ses rues propres et peintes en blanc."],
     }, image: "/poi-images/ma-asilah-cities-v2.webp"},
   {
-    id: "ma-ifrane-cities-v2",
+    id: "ma-ifrane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "text": "Der Ifrane-Nationalpark ist bekannt für seine Zedernwälder und Berberaffen.",
+                  "category": "natural",
+                  "coords": [
+                        -5.140201,
+                        33.444559
+                  ]
+            },
+            {
+                  "name": "Main Auditorium",
+                  "text": "Der Hauptsaal für Aufführungen in Ifrane.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.106594,
+                        33.537621
+                  ]
+            },
+            {
+                  "name": "Parque de jeux enfants",
+                  "text": "Ein Freizeitpark für Kinder in Ifrane.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.114257,
+                        33.525315
+                  ]
+            },
+            {
+                  "name": "Statue de Lion تمثال الأسد",
+                  "text": "Die Löwenstatue ist ein berühmtes Wahrzeichen von Ifrane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.105888,
+                        33.528424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "text": "Az Ifrane Nemzeti Park cédruserdeiről és berber makákóiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -5.140201,
+                        33.444559
+                  ]
+            },
+            {
+                  "name": "Main Auditorium",
+                  "text": "Az előadások főterme Ifrane-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.106594,
+                        33.537621
+                  ]
+            },
+            {
+                  "name": "Parque de jeux enfants",
+                  "text": "Vidámpark gyermekeknek Ifrane-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.114257,
+                        33.525315
+                  ]
+            },
+            {
+                  "name": "Statue de Lion تمثال الأسد",
+                  "text": "Az oroszlánszobor Ifrane híres látnivalója.",
+                  "category": "historical",
+                  "coords": [
+                        -5.105888,
+                        33.528424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc National D'Ifrane المنتزه الوطني إفران",
+                  "text": "Parcul Național Ifrane este cunoscut pentru pădurile sale de cedru și macacii berberi.",
+                  "category": "natural",
+                  "coords": [
+                        -5.140201,
+                        33.444559
+                  ]
+            },
+            {
+                  "name": "Main Auditorium",
+                  "text": "Sala principală pentru spectacole din Ifrane.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.106594,
+                        33.537621
+                  ]
+            },
+            {
+                  "name": "Parque de jeux enfants",
+                  "text": "Un parc de distracții pentru copii în Ifrane.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.114257,
+                        33.525315
+                  ]
+            },
+            {
+                  "name": "Statue de Lion تمثال الأسد",
+                  "text": "Statuia leului este un simbol celebru al orașului Ifrane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.105888,
+                        33.528424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ifrane National Park",
+                  "text": "Ifrane National Park is known for its cedar forests and Barbary macaques.",
+                  "category": "natural",
+                  "coords": [
+                        -5.140201,
+                        33.444559
+                  ]
+            },
+            {
+                  "name": "Main Auditorium",
+                  "text": "The main auditorium for performances in Ifrane.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.106594,
+                        33.537621
+                  ]
+            },
+            {
+                  "name": "Parque de jeux enfants",
+                  "text": "An amusement park for children in Ifrane.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.114257,
+                        33.525315
+                  ]
+            },
+            {
+                  "name": "Lion Statue",
+                  "text": "The lion statue is a famous landmark of Ifrane.",
+                  "category": "historical",
+                  "coords": [
+                        -5.105888,
+                        33.528424
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-03",
     coords: [-5.1, 33.5333],
@@ -3365,7 +13400,88 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
       fr: ["Surnommée la 'Suisse du Maroc' pour son architecture alpine et son enneigement hivernal.", "Située sur le territoire du Royaume du Maroc.", "Joue un rôle dans l'identité locale de la région."],
     }, image: "/poi-images/ma-ifrane-cities-v2.webp"},
   {
-    id: "ma-tan-tan-cities-v2",
+    id: "ma-tan-tan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "شقة مفروشة مزودة بحوض الإستحمام",
+                  "text": "Dieser Ort dient als Aussichtspunkt in der Stadt Tan-Tan.",
+                  "category": "natural",
+                  "coords": [
+                        -11.11002,
+                        28.425336
+                  ]
+            },
+            {
+                  "name": "مكتب الوطني للماء الصالح لشرب - مصلحة الخدمات",
+                  "text": "Dieser Ort ist als Aussichtspunkt in Tan-Tan ausgewiesen.",
+                  "category": "natural",
+                  "coords": [
+                        -11.111307,
+                        28.445767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "شقة مفروشة مزودة بحوض الإستحمام",
+                  "text": "Ez a hely kilátóként szolgál Tan-Tan városában.",
+                  "category": "natural",
+                  "coords": [
+                        -11.11002,
+                        28.425336
+                  ]
+            },
+            {
+                  "name": "مكتب الوطني للماء الصالح لشرب - مصلحة الخدمات",
+                  "text": "Ezt a helyet kilátópontként tartják számon Tan-Tanban.",
+                  "category": "natural",
+                  "coords": [
+                        -11.111307,
+                        28.445767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "شقة مفروشة مزودة بحوض الإستحمام",
+                  "text": "Acest loc servește drept punct de belvedere în orașul Tan-Tan.",
+                  "category": "natural",
+                  "coords": [
+                        -11.11002,
+                        28.425336
+                  ]
+            },
+            {
+                  "name": "مكتب الوطني للماء الصالح لشرب - مصلحة الخدمات",
+                  "text": "Această locație este desemnată ca punct de belvedere în Tan-Tan.",
+                  "category": "natural",
+                  "coords": [
+                        -11.111307,
+                        28.445767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "شقة مفروشة مزودة بحوض الإستحمام",
+                  "text": "This location serves as a viewpoint in the city of Tan-Tan.",
+                  "category": "natural",
+                  "coords": [
+                        -11.11002,
+                        28.425336
+                  ]
+            },
+            {
+                  "name": "مكتب الوطني للماء الصالح لشرب - مصلحة الخدمات",
+                  "text": "This location is designated as a viewpoint in Tan-Tan.",
+                  "category": "natural",
+                  "coords": [
+                        -11.111307,
+                        28.445767
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MA-10",
     coords: [-11.1, 28.4333],

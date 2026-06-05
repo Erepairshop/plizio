@@ -138,7 +138,1204 @@ export const palestineHistoryV2: POI[] = [
     image: "/poi-images/palestine-sebastia-ruins-history-v2.webp",
   },
   {
-    id: "palestine-hebron-old-city-history-v2",
+    id: "palestine-hebron-old-city-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Al-Sultan Pool",
+                  "text": "Al-Sultan Pool ist ein archäologische Stätte in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.108684,
+                        31.523108
+                  ]
+            },
+            {
+                  "name": "בית הדסה",
+                  "text": "Bet Hadasa Museum of History of Jewish Settlement in Hebron ist ein Museum in Hebron Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        35.104488,
+                        31.52611
+                  ]
+            },
+            {
+                  "name": "تل الرميدة",
+                  "text": "Tel Hebron ist ein archäologische Stätte in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.102063,
+                        31.525126
+                  ]
+            },
+            {
+                  "name": "מוזיאון עתיקות ארץ יהודה",
+                  "text": "Land of Judea Antiquities Museum ist ein Museum in Hebron Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        35.118906,
+                        31.528997
+                  ]
+            },
+            {
+                  "name": "Al Shibli Shrine",
+                  "text": "Al Shibli Shrine ist ein archäologische Stätte in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.106474,
+                        31.525945
+                  ]
+            },
+            {
+                  "name": "معصرة النتشة",
+                  "text": "Olive presser ist ein archäologische Stätte in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.107424,
+                        31.525804
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "Othman Bin Afan Mosque ist ein archäologische Stätte in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.108664,
+                        31.524793
+                  ]
+            },
+            {
+                  "name": "היכל התרבות קרית ארבע",
+                  "text": "Qiriyat Arba Theater ist ein Theater in Hebron Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.120306,
+                        31.528425
+                  ]
+            },
+            {
+                  "name": "بئر ابراهيم",
+                  "text": "Abraham's Well ist ein archäologische Stätte in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.104043,
+                        31.524304
+                  ]
+            },
+            {
+                  "name": "قلعة زلوم",
+                  "text": "Zalloum Castle ist ein Schloss in Hebron Altstadt.",
+                  "category": "castle",
+                  "coords": [
+                        35.107578,
+                        31.549204
+                  ]
+            },
+            {
+                  "name": "بركة القزازين",
+                  "text": "Qazzazin Pond ist ein archäologische Stätte in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.106358,
+                        31.524355
+                  ]
+            },
+            {
+                  "name": "حي العقابة",
+                  "text": "Al- Aqqaba Neighborhood ist ein archäologische Stätte in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.108564,
+                        31.525896
+                  ]
+            },
+            {
+                  "name": "حي المحتسبية",
+                  "text": "Al- Muhtasibya ist ein archäologische Stätte in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.109657,
+                        31.524324
+                  ]
+            },
+            {
+                  "name": "خان الوكالة",
+                  "text": "Khan Al-Wakaleh ist eine archäologische Stätte in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.107319,
+                        31.524374
+                  ]
+            },
+            {
+                  "name": "المقاطعة الخليل",
+                  "text": "المقاطعة الخليل ist eine Burg in der Stadt Hebron Altstadt.",
+                  "category": "castle",
+                  "coords": [
+                        35.095029,
+                        31.537317
+                  ]
+            },
+            {
+                  "name": "פארק מאיר כהנא",
+                  "text": "Der Meir Kahane Park ist ein öffentlicher Park in Hebron Altstadt.",
+                  "category": "park",
+                  "coords": [
+                        35.114677,
+                        31.532017
+                  ]
+            },
+            {
+                  "name": "Grab der Patriarchen",
+                  "text": "Die Cave of the Patriarchs ist eine bedeutende Sehenswürdigkeit in Hebron Altstadt, die als wichtige religiöse Stätte mit antiken Gräbern bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        35.110794,
+                        31.52478
+                  ]
+            },
+            {
+                  "name": "Gheith Printer",
+                  "text": "Gheith Printer ist ein Kunstzentrum in Hebron Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.118537,
+                        31.51417
+                  ]
+            },
+            {
+                  "name": "Al Fonon Center",
+                  "text": "Das Al Fonon Center ist ein lokales Kunstzentrum in Hebron Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.109794,
+                        31.521484
+                  ]
+            },
+            {
+                  "name": "مفرف",
+                  "text": "مفرف ist eine Sehenswürdigkeit in der Stadt Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102081,
+                        31.548179
+                  ]
+            },
+            {
+                  "name": "دوار المنارة",
+                  "text": "Manara roundabout ist eine Sehenswürdigkeit in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097351,
+                        31.529634
+                  ]
+            },
+            {
+                  "name": "ااىل",
+                  "text": "نتت ist eine Sehenswürdigkeit in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.083594,
+                        31.537068
+                  ]
+            },
+            {
+                  "name": "حارة حسونة",
+                  "text": "Der Hassouneh park ist eine lokale Sehenswürdigkeit in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097362,
+                        31.545588
+                  ]
+            },
+            {
+                  "name": "عمارة سنقرط",
+                  "text": "عمارة سنقرط ist eine Sehenswürdigkeit in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.109615,
+                        31.548868
+                  ]
+            },
+            {
+                  "name": "دوار نمره",
+                  "text": "دوار نمره ist eine Sehenswürdigkeit in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.104273,
+                        31.538907
+                  ]
+            },
+            {
+                  "name": "صالة الضيافه",
+                  "text": "صالة الضيافه ist eine Sehenswürdigkeit in der Stadt Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.099355,
+                        31.544998
+                  ]
+            },
+            {
+                  "name": "دوار الشعراوي",
+                  "text": "sharawi ist ein Aussichtspunkt, der in Hebron Altstadt besucht werden kann.",
+                  "category": "natural",
+                  "coords": [
+                        35.084803,
+                        31.529259
+                  ]
+            },
+            {
+                  "name": "مسجد المنشر",
+                  "text": "مسجد المنشر ist eine Sehenswürdigkeit in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.080627,
+                        31.524179
+                  ]
+            },
+            {
+                  "name": "صالة روجينا",
+                  "text": "صالة روجينا ist ein Denkmal in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.08874,
+                        31.507641
+                  ]
+            },
+            {
+                  "name": "زاوية و مقام و مسجد الزاهد",
+                  "text": "Al Zahid Sherin Zawiya and mosque ist eine Sehenswürdigkeit in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10626,
+                        31.526852
+                  ]
+            },
+            {
+                  "name": "מצפה רוח אחרת",
+                  "text": "מצפה רוח אחרת ist ein Aussichtspunkt in Hebron Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        35.129407,
+                        31.523396
+                  ]
+            },
+            {
+                  "name": "منزل انس قفيشه",
+                  "text": "anas qafesha home ist ein Aussichtspunkt in Hebron Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        35.102141,
+                        31.521807
+                  ]
+            },
+            {
+                  "name": "مسجد علي البكاء",
+                  "text": "Die Ali Bakka Mosque ist eine Kultstätte in Hebron Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        35.103696,
+                        31.528458
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Al-Sultan Pool",
+                  "text": "A(z) Al-Sultan Pool egy régészeti lelőhely Hebron Altstadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.108684,
+                        31.523108
+                  ]
+            },
+            {
+                  "name": "בית הדסה",
+                  "text": "A(z) Bet Hadasa Museum of History of Jewish Settlement in Hebron egy múzeum Hebron Altstadt területén.",
+                  "category": "museum",
+                  "coords": [
+                        35.104488,
+                        31.52611
+                  ]
+            },
+            {
+                  "name": "تل الرميدة",
+                  "text": "A(z) Tel Hebron egy régészeti lelőhely Hebron Altstadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.102063,
+                        31.525126
+                  ]
+            },
+            {
+                  "name": "מוזיאון עתיקות ארץ יהודה",
+                  "text": "A(z) Land of Judea Antiquities Museum egy múzeum Hebron Altstadt területén.",
+                  "category": "museum",
+                  "coords": [
+                        35.118906,
+                        31.528997
+                  ]
+            },
+            {
+                  "name": "Al Shibli Shrine",
+                  "text": "A(z) Al Shibli Shrine egy régészeti lelőhely Hebron Altstadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.106474,
+                        31.525945
+                  ]
+            },
+            {
+                  "name": "معصرة النتشة",
+                  "text": "A(z) Olive presser egy régészeti lelőhely Hebron Altstadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.107424,
+                        31.525804
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "A(z) Othman Bin Afan Mosque egy régészeti lelőhely Hebron Altstadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.108664,
+                        31.524793
+                  ]
+            },
+            {
+                  "name": "היכל התרבות קרית ארבע",
+                  "text": "A(z) Qiriyat Arba Theater egy színház Hebron Altstadt területén.",
+                  "category": "cultural",
+                  "coords": [
+                        35.120306,
+                        31.528425
+                  ]
+            },
+            {
+                  "name": "بئر ابراهيم",
+                  "text": "A(z) Abraham's Well egy régészeti lelőhely Hebron Altstadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.104043,
+                        31.524304
+                  ]
+            },
+            {
+                  "name": "قلعة زلوم",
+                  "text": "A(z) Zalloum Castle egy kastély Hebron Altstadt területén.",
+                  "category": "castle",
+                  "coords": [
+                        35.107578,
+                        31.549204
+                  ]
+            },
+            {
+                  "name": "بركة القزازين",
+                  "text": "A(z) Qazzazin Pond egy régészeti lelőhely Hebron Altstadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.106358,
+                        31.524355
+                  ]
+            },
+            {
+                  "name": "حي العقابة",
+                  "text": "A(z) Al- Aqqaba Neighborhood egy régészeti lelőhely Hebron Altstadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.108564,
+                        31.525896
+                  ]
+            },
+            {
+                  "name": "حي المحتسبية",
+                  "text": "A(z) Al- Muhtasibya egy régészeti lelőhely Hebron Altstadt területén.",
+                  "category": "historical",
+                  "coords": [
+                        35.109657,
+                        31.524324
+                  ]
+            },
+            {
+                  "name": "خان الوكالة",
+                  "text": "A Khan Al-Wakaleh egy régészeti lelőhely Hebron Altstadtban.",
+                  "category": "historical",
+                  "coords": [
+                        35.107319,
+                        31.524374
+                  ]
+            },
+            {
+                  "name": "المقاطعة الخليل",
+                  "text": "A المقاطعة الخليل egy kastély Hebron Altstadt városában.",
+                  "category": "castle",
+                  "coords": [
+                        35.095029,
+                        31.537317
+                  ]
+            },
+            {
+                  "name": "פארק מאיר כהנא",
+                  "text": "A Meir Kahane Park egy nyilvános park Hebron Altstadtban.",
+                  "category": "park",
+                  "coords": [
+                        35.114677,
+                        31.532017
+                  ]
+            },
+            {
+                  "name": "מערת המכפלה",
+                  "text": "A Cave of the Patriarchs egy kiemelkedő látványosság Hebron Altstadtban, amely ősi sírokat magában foglaló fontos vallási helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        35.110794,
+                        31.52478
+                  ]
+            },
+            {
+                  "name": "Gheith Printer",
+                  "text": "A Gheith Printer egy művészeti központ Hebron Altstadtban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.118537,
+                        31.51417
+                  ]
+            },
+            {
+                  "name": "Al Fonon Center",
+                  "text": "Az Al Fonon Center egy helyi művészeti központ Hebron Altstadtban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.109794,
+                        31.521484
+                  ]
+            },
+            {
+                  "name": "مفرف",
+                  "text": "A مفرف egy látványosság Hebron Altstadt városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102081,
+                        31.548179
+                  ]
+            },
+            {
+                  "name": "دوار المنارة",
+                  "text": "A Manara roundabout egy látványosság Hebron Altstadt területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097351,
+                        31.529634
+                  ]
+            },
+            {
+                  "name": "ااىل",
+                  "text": "A نتت egy látványosság Hebron Altstadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.083594,
+                        31.537068
+                  ]
+            },
+            {
+                  "name": "حارة حسونة",
+                  "text": "A Hassouneh park egy helyi látványosság Hebron Altstadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097362,
+                        31.545588
+                  ]
+            },
+            {
+                  "name": "عمارة سنقرط",
+                  "text": "A عمارة سنقرط egy látványosság Hebron Altstadt területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.109615,
+                        31.548868
+                  ]
+            },
+            {
+                  "name": "دوار نمره",
+                  "text": "A دوار نمره egy látványosság Hebron Altstadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.104273,
+                        31.538907
+                  ]
+            },
+            {
+                  "name": "صالة الضيافه",
+                  "text": "A صالة الضيافه egy látványosság Hebron Altstadt városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.099355,
+                        31.544998
+                  ]
+            },
+            {
+                  "name": "دوار الشعراوي",
+                  "text": "A sharawi egy kilátó, amely Hebron Altstadtban látogatható.",
+                  "category": "natural",
+                  "coords": [
+                        35.084803,
+                        31.529259
+                  ]
+            },
+            {
+                  "name": "مسجد المنشر",
+                  "text": "A مسجد المنشر egy látványosság Hebron Altstadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.080627,
+                        31.524179
+                  ]
+            },
+            {
+                  "name": "صالة روجينا",
+                  "text": "A صالة روجينا egy emlékmű Hebron Altstadtban.",
+                  "category": "historical",
+                  "coords": [
+                        35.08874,
+                        31.507641
+                  ]
+            },
+            {
+                  "name": "زاوية و مقام و مسجد الزاهد",
+                  "text": "Az Al Zahid Sherin Zawiya and mosque egy látványosság Hebron Altstadt területén.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10626,
+                        31.526852
+                  ]
+            },
+            {
+                  "name": "מצפה רוח אחרת",
+                  "text": "A מצפה רוח אחרת egy kilátó Hebron Altstadtban.",
+                  "category": "natural",
+                  "coords": [
+                        35.129407,
+                        31.523396
+                  ]
+            },
+            {
+                  "name": "منزل انس قفيشه",
+                  "text": "Az anas qafesha home egy kilátópont Hebron Altstadtban.",
+                  "category": "natural",
+                  "coords": [
+                        35.102141,
+                        31.521807
+                  ]
+            },
+            {
+                  "name": "مسجد علي البكاء",
+                  "text": "Az Ali Bakka Mosque egy istentiszteleti hely Hebron Altstadtban.",
+                  "category": "religious",
+                  "coords": [
+                        35.103696,
+                        31.528458
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Al-Sultan Pool",
+                  "text": "Al-Sultan Pool este un/o sit arheologic situat(ă) în Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.108684,
+                        31.523108
+                  ]
+            },
+            {
+                  "name": "בית הדסה",
+                  "text": "Bet Hadasa Museum of History of Jewish Settlement in Hebron este un/o muzeu situat(ă) în Hebron Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        35.104488,
+                        31.52611
+                  ]
+            },
+            {
+                  "name": "تل الرميدة",
+                  "text": "Tel Hebron este un/o sit arheologic situat(ă) în Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.102063,
+                        31.525126
+                  ]
+            },
+            {
+                  "name": "מוזיאון עתיקות ארץ יהודה",
+                  "text": "Land of Judea Antiquities Museum este un/o muzeu situat(ă) în Hebron Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        35.118906,
+                        31.528997
+                  ]
+            },
+            {
+                  "name": "Al Shibli Shrine",
+                  "text": "Al Shibli Shrine este un/o sit arheologic situat(ă) în Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.106474,
+                        31.525945
+                  ]
+            },
+            {
+                  "name": "معصرة النتشة",
+                  "text": "Olive presser este un/o sit arheologic situat(ă) în Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.107424,
+                        31.525804
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "Othman Bin Afan Mosque este un/o sit arheologic situat(ă) în Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.108664,
+                        31.524793
+                  ]
+            },
+            {
+                  "name": "היכל התרבות קרית ארבע",
+                  "text": "Qiriyat Arba Theater este un/o teatru situat(ă) în Hebron Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.120306,
+                        31.528425
+                  ]
+            },
+            {
+                  "name": "بئر ابراهيم",
+                  "text": "Abraham's Well este un/o sit arheologic situat(ă) în Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.104043,
+                        31.524304
+                  ]
+            },
+            {
+                  "name": "قلعة زلوم",
+                  "text": "Zalloum Castle este un/o castel situat(ă) în Hebron Altstadt.",
+                  "category": "castle",
+                  "coords": [
+                        35.107578,
+                        31.549204
+                  ]
+            },
+            {
+                  "name": "بركة القزازين",
+                  "text": "Qazzazin Pond este un/o sit arheologic situat(ă) în Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.106358,
+                        31.524355
+                  ]
+            },
+            {
+                  "name": "حي العقابة",
+                  "text": "Al- Aqqaba Neighborhood este un/o sit arheologic situat(ă) în Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.108564,
+                        31.525896
+                  ]
+            },
+            {
+                  "name": "حي المحتسبية",
+                  "text": "Al- Muhtasibya este un/o sit arheologic situat(ă) în Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.109657,
+                        31.524324
+                  ]
+            },
+            {
+                  "name": "خان الوكالة",
+                  "text": "Khan Al-Wakaleh este un sit arheologic din Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.107319,
+                        31.524374
+                  ]
+            },
+            {
+                  "name": "المقاطعة الخليل",
+                  "text": "المقاطعة الخليل este un castel situat în orașul Hebron Altstadt.",
+                  "category": "castle",
+                  "coords": [
+                        35.095029,
+                        31.537317
+                  ]
+            },
+            {
+                  "name": "פארק מאיר כהנא",
+                  "text": "Meir Kahane Park este un parc public situat în Hebron Altstadt.",
+                  "category": "park",
+                  "coords": [
+                        35.114677,
+                        31.532017
+                  ]
+            },
+            {
+                  "name": "Mormintele Patriarhilor",
+                  "text": "Cave of the Patriarchs este o atracție proeminentă din Hebron Altstadt, cunoscută ca un important sit religios ce conține morminte antice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.110794,
+                        31.52478
+                  ]
+            },
+            {
+                  "name": "Gheith Printer",
+                  "text": "Gheith Printer este un centru de arte situat în Hebron Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.118537,
+                        31.51417
+                  ]
+            },
+            {
+                  "name": "Al Fonon Center",
+                  "text": "Al Fonon Center este un centru local de arte din Hebron Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.109794,
+                        31.521484
+                  ]
+            },
+            {
+                  "name": "مفرف",
+                  "text": "مفرف este o atracție situată în orașul Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102081,
+                        31.548179
+                  ]
+            },
+            {
+                  "name": "دوار المنارة",
+                  "text": "Manara roundabout este o atracție aflată în Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097351,
+                        31.529634
+                  ]
+            },
+            {
+                  "name": "ااىل",
+                  "text": "نتت este o atracție situată în Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.083594,
+                        31.537068
+                  ]
+            },
+            {
+                  "name": "حارة حسونة",
+                  "text": "Hassouneh park este o atracție locală situată în Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097362,
+                        31.545588
+                  ]
+            },
+            {
+                  "name": "عمارة سنقرط",
+                  "text": "عمارة سنقرط este o atracție aflată în Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.109615,
+                        31.548868
+                  ]
+            },
+            {
+                  "name": "دوار نمره",
+                  "text": "دوار نمره este o atracție situată în Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.104273,
+                        31.538907
+                  ]
+            },
+            {
+                  "name": "صالة الضيافه",
+                  "text": "صالة الضيافه este o atracție situată în orașul Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.099355,
+                        31.544998
+                  ]
+            },
+            {
+                  "name": "دوار الشعراوي",
+                  "text": "sharawi este un punct de belvedere care poate fi vizitat în Hebron Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        35.084803,
+                        31.529259
+                  ]
+            },
+            {
+                  "name": "مسجد المنشر",
+                  "text": "مسجد المنشر este o atracție situată în Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.080627,
+                        31.524179
+                  ]
+            },
+            {
+                  "name": "صالة روجينا",
+                  "text": "صالة روجينا este un monument situat în Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.08874,
+                        31.507641
+                  ]
+            },
+            {
+                  "name": "زاوية و مقام و مسجد الزاهد",
+                  "text": "Al Zahid Sherin Zawiya and mosque este o atracție aflată în Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10626,
+                        31.526852
+                  ]
+            },
+            {
+                  "name": "מצפה רוח אחרת",
+                  "text": "מצפה רוח אחרת este un punct de belvedere situat în Hebron Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        35.129407,
+                        31.523396
+                  ]
+            },
+            {
+                  "name": "منزل انس قفيشه",
+                  "text": "anas qafesha home este un punct de belvedere situat în Hebron Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        35.102141,
+                        31.521807
+                  ]
+            },
+            {
+                  "name": "مسجد علي البكاء",
+                  "text": "Ali Bakka Mosque este un lăcaș de cult situat în Hebron Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        35.103696,
+                        31.528458
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al-Sultan Pool",
+                  "text": "Al-Sultan Pool is a archaeological site located in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.108684,
+                        31.523108
+                  ]
+            },
+            {
+                  "name": "Bet Hadasa Museum of History of Jewish Settlement in Hebron",
+                  "text": "Bet Hadasa Museum of History of Jewish Settlement in Hebron is a museum located in Hebron Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        35.104488,
+                        31.52611
+                  ]
+            },
+            {
+                  "name": "Tel Hebron",
+                  "text": "Tel Hebron is a archaeological site located in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.102063,
+                        31.525126
+                  ]
+            },
+            {
+                  "name": "Land of Judea Antiquities Museum",
+                  "text": "Land of Judea Antiquities Museum is a museum located in Hebron Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        35.118906,
+                        31.528997
+                  ]
+            },
+            {
+                  "name": "Al Shibli Shrine",
+                  "text": "Al Shibli Shrine is a archaeological site located in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.106474,
+                        31.525945
+                  ]
+            },
+            {
+                  "name": "Olive presser",
+                  "text": "Olive presser is a archaeological site located in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.107424,
+                        31.525804
+                  ]
+            },
+            {
+                  "name": "Othman Bin Afan Mosque",
+                  "text": "Othman Bin Afan Mosque is a archaeological site located in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.108664,
+                        31.524793
+                  ]
+            },
+            {
+                  "name": "Qiriyat Arba Theater",
+                  "text": "Qiriyat Arba Theater is a theatre located in Hebron Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.120306,
+                        31.528425
+                  ]
+            },
+            {
+                  "name": "Abraham's Well",
+                  "text": "Abraham's Well is a archaeological site located in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.104043,
+                        31.524304
+                  ]
+            },
+            {
+                  "name": "Zalloum Castle",
+                  "text": "Zalloum Castle is a castle located in Hebron Altstadt.",
+                  "category": "castle",
+                  "coords": [
+                        35.107578,
+                        31.549204
+                  ]
+            },
+            {
+                  "name": "Qazzazin Pond",
+                  "text": "Qazzazin Pond is a archaeological site located in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.106358,
+                        31.524355
+                  ]
+            },
+            {
+                  "name": "Al- Aqqaba Neighborhood",
+                  "text": "Al- Aqqaba Neighborhood is a archaeological site located in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.108564,
+                        31.525896
+                  ]
+            },
+            {
+                  "name": "Al- Muhtasibya",
+                  "text": "Al- Muhtasibya is a archaeological site located in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.109657,
+                        31.524324
+                  ]
+            },
+            {
+                  "name": "Khan Al-Wakaleh",
+                  "text": "Khan Al-Wakaleh is an archaeological site in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.107319,
+                        31.524374
+                  ]
+            },
+            {
+                  "name": "المقاطعة الخليل",
+                  "text": "المقاطعة الخليل is a castle located in the city of Hebron Altstadt.",
+                  "category": "castle",
+                  "coords": [
+                        35.095029,
+                        31.537317
+                  ]
+            },
+            {
+                  "name": "Meir Kahane Park",
+                  "text": "Meir Kahane Park is a public park situated in Hebron Altstadt.",
+                  "category": "park",
+                  "coords": [
+                        35.114677,
+                        31.532017
+                  ]
+            },
+            {
+                  "name": "Cave of the Patriarchs",
+                  "text": "The Cave of the Patriarchs is a prominent attraction in Hebron Altstadt, known as a major religious site containing ancient tombs.",
+                  "category": "landmark",
+                  "coords": [
+                        35.110794,
+                        31.52478
+                  ]
+            },
+            {
+                  "name": "Gheith Printer",
+                  "text": "Gheith Printer is an arts centre located in Hebron Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.118537,
+                        31.51417
+                  ]
+            },
+            {
+                  "name": "Al Fonon Center",
+                  "text": "Al Fonon Center is a local arts centre in Hebron Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        35.109794,
+                        31.521484
+                  ]
+            },
+            {
+                  "name": "مفرف",
+                  "text": "مفرف is an attraction situated in the city of Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.102081,
+                        31.548179
+                  ]
+            },
+            {
+                  "name": "Manara roundabout",
+                  "text": "Manara roundabout is an attraction found in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097351,
+                        31.529634
+                  ]
+            },
+            {
+                  "name": "نتت",
+                  "text": "نتت is an attraction located in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.083594,
+                        31.537068
+                  ]
+            },
+            {
+                  "name": "Hassouneh park",
+                  "text": "Hassouneh park is a local attraction located in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.097362,
+                        31.545588
+                  ]
+            },
+            {
+                  "name": "عمارة سنقرط",
+                  "text": "عمارة سنقرط is an attraction found within Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.109615,
+                        31.548868
+                  ]
+            },
+            {
+                  "name": "دوار نمره",
+                  "text": "دوار نمره is an attraction situated in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.104273,
+                        31.538907
+                  ]
+            },
+            {
+                  "name": "صالة الضيافه",
+                  "text": "صالة الضيافه is an attraction located in the city of Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.099355,
+                        31.544998
+                  ]
+            },
+            {
+                  "name": "sharawi",
+                  "text": "sharawi is a viewpoint that can be visited in Hebron Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        35.084803,
+                        31.529259
+                  ]
+            },
+            {
+                  "name": "مسجد المنشر",
+                  "text": "مسجد المنشر is an attraction located in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.080627,
+                        31.524179
+                  ]
+            },
+            {
+                  "name": "صالة روجينا",
+                  "text": "صالة روجينا is a monument situated in Hebron Altstadt.",
+                  "category": "historical",
+                  "coords": [
+                        35.08874,
+                        31.507641
+                  ]
+            },
+            {
+                  "name": "Al Zahid Sherin Zawiya and mosque",
+                  "text": "Al Zahid Sherin Zawiya and mosque is an attraction found in Hebron Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.10626,
+                        31.526852
+                  ]
+            },
+            {
+                  "name": "מצפה רוח אחרת",
+                  "text": "מצפה רוח אחרת is a viewpoint situated in Hebron Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        35.129407,
+                        31.523396
+                  ]
+            },
+            {
+                  "name": "anas qafesha home",
+                  "text": "anas qafesha home is a viewpoint located in Hebron Altstadt.",
+                  "category": "natural",
+                  "coords": [
+                        35.102141,
+                        31.521807
+                  ]
+            },
+            {
+                  "name": "Ali Bakka Mosque",
+                  "text": "The Ali Bakka Mosque is a place of worship located in Hebron Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        35.103696,
+                        31.528458
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "city",
     name: { de: "Hebron Altstadt", hu: "Hebron óvárosa", ro: "Orașul vechi Hebron", en: "Hebron Old City" },
@@ -543,7 +1740,952 @@ export const palestineHistoryV2: POI[] = [
     image: "/poi-images/palestine-jacobs-well-history-v2.webp",
   },
   {
-    id: "palestine-battir-history-v2",
+    id: "palestine-battir-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "גן החיות התנכי",
+                  "text": "Zoo in der Nähe von Battir, bekannt für seine vielfältige Tierwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        35.170209,
+                        31.746515
+                  ]
+            },
+            {
+                  "name": "חורבת קובי",
+                  "text": "Archäologische Stätte in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.12007,
+                        31.728241
+                  ]
+            },
+            {
+                  "name": "חורבת וואלג'ה",
+                  "text": "Archäologische Stätte in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.149823,
+                        31.742293
+                  ]
+            },
+            {
+                  "name": "מערת קבורה",
+                  "text": "Archäologische Stätte in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.146401,
+                        31.742542
+                  ]
+            },
+            {
+                  "name": "חורבת סעדים",
+                  "text": "Ruinen in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.129394,
+                        31.751
+                  ]
+            },
+            {
+                  "name": "הר שלמון",
+                  "text": "Berggipfel bei Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.123422,
+                        31.750873
+                  ]
+            },
+            {
+                  "name": "ביתר",
+                  "text": "Antike Ruinen in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.135606,
+                        31.729811
+                  ]
+            },
+            {
+                  "name": "מצפה ארתור רובינשטיין",
+                  "text": "Aussichtspunkt in Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.135164,
+                        31.751516
+                  ]
+            },
+            {
+                  "name": "אלקבו",
+                  "text": "Ruinen der Siedlung Al-Qabu bei Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.119156,
+                        31.728283
+                  ]
+            },
+            {
+                  "name": "הר עמינדב",
+                  "text": "Berggipfel bei Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.136404,
+                        31.751626
+                  ]
+            },
+            {
+                  "name": "יד קנדי",
+                  "text": "Denkmal in der Nähe von Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.134756,
+                        31.74929
+                  ]
+            },
+            {
+                  "name": "מצפה ביתר",
+                  "text": "Aussichtspunkt bei Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.142243,
+                        31.741294
+                  ]
+            },
+            {
+                  "name": "بيت قديم Old house",
+                  "text": "Ruinen eines alten Hauses in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.1609,
+                        31.726723
+                  ]
+            },
+            {
+                  "name": "بيوت قديمة Old houses",
+                  "text": "Ruinen alter Häuser in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.161913,
+                        31.735004
+                  ]
+            },
+            {
+                  "name": "Khirbet Najjar",
+                  "text": "Ruinen in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.149326,
+                        31.723717
+                  ]
+            },
+            {
+                  "name": "Unamed Tomb",
+                  "text": "Ruinen eines Grabes in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.152118,
+                        31.72203
+                  ]
+            },
+            {
+                  "name": "פשוט מקום",
+                  "text": "Aussichtspunkt in Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.110568,
+                        31.731502
+                  ]
+            },
+            {
+                  "name": "עין קובי",
+                  "text": "Natürliche Quelle in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.11756,
+                        31.725711
+                  ]
+            },
+            {
+                  "name": "עין איתמר",
+                  "text": "Historische Quelle in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.146989,
+                        31.740959
+                  ]
+            },
+            {
+                  "name": "عين الهدفة Al-Hadafeh water spring",
+                  "text": "Natürliche Quelle in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.154776,
+                        31.733433
+                  ]
+            },
+            {
+                  "name": "עינות עמינדב",
+                  "text": "Natürliche Quelle in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.133564,
+                        31.754089
+                  ]
+            },
+            {
+                  "name": "עין סיף",
+                  "text": "Natürliche Quelle in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.144287,
+                        31.745964
+                  ]
+            },
+            {
+                  "name": "עין אל קוסייר",
+                  "text": "Natürliche Quelle in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.156242,
+                        31.710579
+                  ]
+            },
+            {
+                  "name": "Ein El Bascine",
+                  "text": "Natürliche Quelle in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.128735,
+                        31.717792
+                  ]
+            },
+            {
+                  "name": "עין חניה",
+                  "text": "Antike Quelle in Battir mit historischen Becken.",
+                  "category": "landmark",
+                  "coords": [
+                        35.1563,
+                        31.743512
+                  ]
+            },
+            {
+                  "name": "עין אל עמוד",
+                  "text": "Natürliche Quelle in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.127385,
+                        31.711912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "גן החיות התנכי",
+                  "text": "Állatkert Battir közelében, amely gazdag állatvilágáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        35.170209,
+                        31.746515
+                  ]
+            },
+            {
+                  "name": "חורבת קובי",
+                  "text": "Régészeti lelőhely Battir városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.12007,
+                        31.728241
+                  ]
+            },
+            {
+                  "name": "חורבת וואלג'ה",
+                  "text": "Régészeti lelőhely Battir városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.149823,
+                        31.742293
+                  ]
+            },
+            {
+                  "name": "מערת קבורה",
+                  "text": "Régészeti lelőhely Battirban.",
+                  "category": "historical",
+                  "coords": [
+                        35.146401,
+                        31.742542
+                  ]
+            },
+            {
+                  "name": "חורבת סעדים",
+                  "text": "Romok Battirban.",
+                  "category": "historical",
+                  "coords": [
+                        35.129394,
+                        31.751
+                  ]
+            },
+            {
+                  "name": "הר שלמון",
+                  "text": "Hegycsúcs Battir közelében.",
+                  "category": "natural",
+                  "coords": [
+                        35.123422,
+                        31.750873
+                  ]
+            },
+            {
+                  "name": "ביתר",
+                  "text": "Ókori romok Battirban.",
+                  "category": "historical",
+                  "coords": [
+                        35.135606,
+                        31.729811
+                  ]
+            },
+            {
+                  "name": "מצפה ארתור רובינשטיין",
+                  "text": "Kilátópont Battirban.",
+                  "category": "natural",
+                  "coords": [
+                        35.135164,
+                        31.751516
+                  ]
+            },
+            {
+                  "name": "אלקבו",
+                  "text": "Az Al-Qabu település romjai Battir közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.119156,
+                        31.728283
+                  ]
+            },
+            {
+                  "name": "הר עמינדב",
+                  "text": "Hegycsúcs Battir közelében.",
+                  "category": "natural",
+                  "coords": [
+                        35.136404,
+                        31.751626
+                  ]
+            },
+            {
+                  "name": "יד קנדי",
+                  "text": "Emlékmű Battir közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.134756,
+                        31.74929
+                  ]
+            },
+            {
+                  "name": "מצפה ביתר",
+                  "text": "Kilátópont Battir közelében.",
+                  "category": "natural",
+                  "coords": [
+                        35.142243,
+                        31.741294
+                  ]
+            },
+            {
+                  "name": "بيت قديم Old house",
+                  "text": "Egy régi ház romjai Battirban.",
+                  "category": "historical",
+                  "coords": [
+                        35.1609,
+                        31.726723
+                  ]
+            },
+            {
+                  "name": "بيوت قديمة Old houses",
+                  "text": "Régi házak romjai Battirban.",
+                  "category": "historical",
+                  "coords": [
+                        35.161913,
+                        31.735004
+                  ]
+            },
+            {
+                  "name": "Khirbet Najjar",
+                  "text": "Romok Battirban.",
+                  "category": "historical",
+                  "coords": [
+                        35.149326,
+                        31.723717
+                  ]
+            },
+            {
+                  "name": "Unamed Tomb",
+                  "text": "Egy sír romjai Battirban.",
+                  "category": "historical",
+                  "coords": [
+                        35.152118,
+                        31.72203
+                  ]
+            },
+            {
+                  "name": "פשוט מקום",
+                  "text": "Kilátópont Battirban.",
+                  "category": "natural",
+                  "coords": [
+                        35.110568,
+                        31.731502
+                  ]
+            },
+            {
+                  "name": "עין קובי",
+                  "text": "Természetes forrás Battirban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.11756,
+                        31.725711
+                  ]
+            },
+            {
+                  "name": "עין איתמר",
+                  "text": "Történelmi forrás Battirban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.146989,
+                        31.740959
+                  ]
+            },
+            {
+                  "name": "عين الهدفة Al-Hadafeh water spring",
+                  "text": "Természetes forrás Battirban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.154776,
+                        31.733433
+                  ]
+            },
+            {
+                  "name": "עינות עמינדב",
+                  "text": "Természetes forrás Battirban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.133564,
+                        31.754089
+                  ]
+            },
+            {
+                  "name": "עין סיף",
+                  "text": "Természetes forrás Battirban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.144287,
+                        31.745964
+                  ]
+            },
+            {
+                  "name": "עין אל קוסייר",
+                  "text": "Természetes forrás Battirban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.156242,
+                        31.710579
+                  ]
+            },
+            {
+                  "name": "Ein El Bascine",
+                  "text": "Természetes forrás Battirban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.128735,
+                        31.717792
+                  ]
+            },
+            {
+                  "name": "עין חניה",
+                  "text": "Ókori forrás Battirban történelmi medencékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        35.1563,
+                        31.743512
+                  ]
+            },
+            {
+                  "name": "עין אל עמוד",
+                  "text": "Természetes forrás Battirban.",
+                  "category": "landmark",
+                  "coords": [
+                        35.127385,
+                        31.711912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "גן החיות התנכי",
+                  "text": "Grădină zoologică în apropiere de Battir, cunoscută pentru diversitatea faunei.",
+                  "category": "recreational",
+                  "coords": [
+                        35.170209,
+                        31.746515
+                  ]
+            },
+            {
+                  "name": "חורבת קובי",
+                  "text": "Sit arheologic în Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.12007,
+                        31.728241
+                  ]
+            },
+            {
+                  "name": "חורבת וואלג'ה",
+                  "text": "Sit arheologic în Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.149823,
+                        31.742293
+                  ]
+            },
+            {
+                  "name": "מערת קבורה",
+                  "text": "Sit arheologic în Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.146401,
+                        31.742542
+                  ]
+            },
+            {
+                  "name": "חורבת סעדים",
+                  "text": "Ruine în Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.129394,
+                        31.751
+                  ]
+            },
+            {
+                  "name": "הר שלמון",
+                  "text": "Vârf montan lângă Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.123422,
+                        31.750873
+                  ]
+            },
+            {
+                  "name": "ביתר",
+                  "text": "Ruine antice în Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.135606,
+                        31.729811
+                  ]
+            },
+            {
+                  "name": "מצפה ארתור רובינשטיין",
+                  "text": "Punct de observație în Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.135164,
+                        31.751516
+                  ]
+            },
+            {
+                  "name": "אלקבו",
+                  "text": "Ruinele așezării Al-Qabu lângă Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.119156,
+                        31.728283
+                  ]
+            },
+            {
+                  "name": "הר עמינדב",
+                  "text": "Vârf montan lângă Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.136404,
+                        31.751626
+                  ]
+            },
+            {
+                  "name": "יד קנדי",
+                  "text": "Monument în apropiere de Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.134756,
+                        31.74929
+                  ]
+            },
+            {
+                  "name": "מצפה ביתר",
+                  "text": "Punct de observație lângă Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.142243,
+                        31.741294
+                  ]
+            },
+            {
+                  "name": "بيت قديم Old house",
+                  "text": "Ruinele unei case vechi în Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.1609,
+                        31.726723
+                  ]
+            },
+            {
+                  "name": "بيوت قديمة Old houses",
+                  "text": "Ruinele unor case vechi în Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.161913,
+                        31.735004
+                  ]
+            },
+            {
+                  "name": "Khirbet Najjar",
+                  "text": "Ruine în Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.149326,
+                        31.723717
+                  ]
+            },
+            {
+                  "name": "Unamed Tomb",
+                  "text": "Ruinele unui mormânt în Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.152118,
+                        31.72203
+                  ]
+            },
+            {
+                  "name": "פשוט מקום",
+                  "text": "Punct de observație în Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.110568,
+                        31.731502
+                  ]
+            },
+            {
+                  "name": "עין קובי",
+                  "text": "Izvor natural în Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.11756,
+                        31.725711
+                  ]
+            },
+            {
+                  "name": "עין איתמר",
+                  "text": "Izvor istoric în Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.146989,
+                        31.740959
+                  ]
+            },
+            {
+                  "name": "عين الهدفة Al-Hadafeh water spring",
+                  "text": "Izvor natural în Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.154776,
+                        31.733433
+                  ]
+            },
+            {
+                  "name": "עינות עמינדב",
+                  "text": "Izvor natural în Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.133564,
+                        31.754089
+                  ]
+            },
+            {
+                  "name": "עין סיף",
+                  "text": "Izvor natural în Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.144287,
+                        31.745964
+                  ]
+            },
+            {
+                  "name": "עין אל קוסייר",
+                  "text": "Izvor natural în Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.156242,
+                        31.710579
+                  ]
+            },
+            {
+                  "name": "Ein El Bascine",
+                  "text": "Izvor natural în Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.128735,
+                        31.717792
+                  ]
+            },
+            {
+                  "name": "עין חניה",
+                  "text": "Izvor antic în Battir cu bazine istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        35.1563,
+                        31.743512
+                  ]
+            },
+            {
+                  "name": "עין אל עמוד",
+                  "text": "Izvor natural în Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.127385,
+                        31.711912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jerusalem Biblical Zoo",
+                  "text": "Zoo near Battir, known for its diverse wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        35.170209,
+                        31.746515
+                  ]
+            },
+            {
+                  "name": "Horvat Kobi",
+                  "text": "Archaeological site in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.12007,
+                        31.728241
+                  ]
+            },
+            {
+                  "name": "חורבת וואלג'ה",
+                  "text": "Archaeological site in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.149823,
+                        31.742293
+                  ]
+            },
+            {
+                  "name": "מערת קבורה",
+                  "text": "Archaeological site in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.146401,
+                        31.742542
+                  ]
+            },
+            {
+                  "name": "Hurvat Seadim",
+                  "text": "Ruins in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.129394,
+                        31.751
+                  ]
+            },
+            {
+                  "name": "Har Shalmon",
+                  "text": "Mountain peak near Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.123422,
+                        31.750873
+                  ]
+            },
+            {
+                  "name": "Beitar",
+                  "text": "Ancient ruins in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.135606,
+                        31.729811
+                  ]
+            },
+            {
+                  "name": "Rubinstein memorial",
+                  "text": "Viewpoint in Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.135164,
+                        31.751516
+                  ]
+            },
+            {
+                  "name": "Al-Qabu",
+                  "text": "Ruins of the Al-Qabu settlement near Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.119156,
+                        31.728283
+                  ]
+            },
+            {
+                  "name": "Har Aminadav",
+                  "text": "Mountain peak near Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.136404,
+                        31.751626
+                  ]
+            },
+            {
+                  "name": "Yad Kennedy",
+                  "text": "Monument near Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.134756,
+                        31.74929
+                  ]
+            },
+            {
+                  "name": "Beitar Lookout",
+                  "text": "Viewpoint near Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.142243,
+                        31.741294
+                  ]
+            },
+            {
+                  "name": "بيت قديم Old house",
+                  "text": "Ruins of an old house in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.1609,
+                        31.726723
+                  ]
+            },
+            {
+                  "name": "بيوت قديمة Old houses",
+                  "text": "Ruins of old houses in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.161913,
+                        31.735004
+                  ]
+            },
+            {
+                  "name": "Carpenter's Ruins",
+                  "text": "Ruins in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.149326,
+                        31.723717
+                  ]
+            },
+            {
+                  "name": "Unamed Tomb",
+                  "text": "Ruins of a tomb in Battir.",
+                  "category": "historical",
+                  "coords": [
+                        35.152118,
+                        31.72203
+                  ]
+            },
+            {
+                  "name": "פשוט מקום",
+                  "text": "Viewpoint in Battir.",
+                  "category": "natural",
+                  "coords": [
+                        35.110568,
+                        31.731502
+                  ]
+            },
+            {
+                  "name": "Ein Kobi",
+                  "text": "Natural spring in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.11756,
+                        31.725711
+                  ]
+            },
+            {
+                  "name": "Ein El-Baled;Ein Itamar",
+                  "text": "Historical spring in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.146989,
+                        31.740959
+                  ]
+            },
+            {
+                  "name": "عين الهدفة Al-Hadafeh water spring",
+                  "text": "Natural spring in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.154776,
+                        31.733433
+                  ]
+            },
+            {
+                  "name": "Ein Aminadav",
+                  "text": "Natural spring in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.133564,
+                        31.754089
+                  ]
+            },
+            {
+                  "name": "Ein Seif",
+                  "text": "Natural spring in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.144287,
+                        31.745964
+                  ]
+            },
+            {
+                  "name": "Ein Al Qseir",
+                  "text": "Natural spring in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.156242,
+                        31.710579
+                  ]
+            },
+            {
+                  "name": "Ein El Bascine",
+                  "text": "Natural spring in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.128735,
+                        31.717792
+                  ]
+            },
+            {
+                  "name": "Ein Haniya",
+                  "text": "Ancient spring in Battir with historical pools.",
+                  "category": "landmark",
+                  "coords": [
+                        35.1563,
+                        31.743512
+                  ]
+            },
+            {
+                  "name": "עין אל עמוד",
+                  "text": "Natural spring in Battir.",
+                  "category": "landmark",
+                  "coords": [
+                        35.127385,
+                        31.711912
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "village",
     name: { de: "Battir", hu: "Battir", ro: "Battir", en: "Battir" },
@@ -1533,7 +3675,160 @@ export const palestineHistoryV2: POI[] = [
     image: "/poi-images/palestine-khan-al-lubban-history-v2.webp",
   },
   {
-    id: "palestine-deir-ghassaneh-history-v2",
+    id: "palestine-deir-ghassaneh-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "vally of lemon",
+                  "text": "Wasserpark in Deir Ghassaneh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.072026,
+                        32.023753
+                  ]
+            },
+            {
+                  "name": "שמורת טבע נחל שילה עילי",
+                  "text": "Naturschutzgebiet bei Deir Ghassaneh.",
+                  "category": "natural",
+                  "coords": [
+                        35.0724,
+                        32.050651
+                  ]
+            },
+            {
+                  "name": "ديرغسانة وسط البلدة القديم",
+                  "text": "Sehenswürdigkeit in Deir Ghassaneh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.09818,
+                        32.046951
+                  ]
+            },
+            {
+                  "name": "الخواص مقام ومنتزه",
+                  "text": "Denkmal in Deir Ghassaneh.",
+                  "category": "historical",
+                  "coords": [
+                        35.08804,
+                        32.050178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "vally of lemon",
+                  "text": "Vízi park Deir Ghassaneh-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        35.072026,
+                        32.023753
+                  ]
+            },
+            {
+                  "name": "שמורת טבע נחל שילה עילי",
+                  "text": "Természetvédelmi terület Deir Ghassaneh közelében.",
+                  "category": "natural",
+                  "coords": [
+                        35.0724,
+                        32.050651
+                  ]
+            },
+            {
+                  "name": "ديرغسانة وسط البلدة القديم",
+                  "text": "Látnivaló Deir Ghassaneh-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        35.09818,
+                        32.046951
+                  ]
+            },
+            {
+                  "name": "الخواص مقام ومنتزه",
+                  "text": "Emlékmű Deir Ghassaneh-ben.",
+                  "category": "historical",
+                  "coords": [
+                        35.08804,
+                        32.050178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "vally of lemon",
+                  "text": "Parc acvatic în Deir Ghassaneh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.072026,
+                        32.023753
+                  ]
+            },
+            {
+                  "name": "שמורת טבע נחל שילה עילי",
+                  "text": "Rezervație naturală lângă Deir Ghassaneh.",
+                  "category": "natural",
+                  "coords": [
+                        35.0724,
+                        32.050651
+                  ]
+            },
+            {
+                  "name": "ديرغسانة وسط البلدة القديم",
+                  "text": "Atracție în Deir Ghassaneh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.09818,
+                        32.046951
+                  ]
+            },
+            {
+                  "name": "الخواص مقام ومنتزه",
+                  "text": "Monument în Deir Ghassaneh.",
+                  "category": "historical",
+                  "coords": [
+                        35.08804,
+                        32.050178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "vally of lemon",
+                  "text": "Water park in Deir Ghassaneh.",
+                  "category": "recreational",
+                  "coords": [
+                        35.072026,
+                        32.023753
+                  ]
+            },
+            {
+                  "name": "Nahal Shilo 'Illi Nature Reserve",
+                  "text": "Nature reserve near Deir Ghassaneh.",
+                  "category": "natural",
+                  "coords": [
+                        35.0724,
+                        32.050651
+                  ]
+            },
+            {
+                  "name": "Dirgasanah",
+                  "text": "Attraction in Deir Ghassaneh.",
+                  "category": "landmark",
+                  "coords": [
+                        35.09818,
+                        32.046951
+                  ]
+            },
+            {
+                  "name": "الخواص مقام ومنتزه",
+                  "text": "Monument in Deir Ghassaneh.",
+                  "category": "historical",
+                  "coords": [
+                        35.08804,
+                        32.050178
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "village",
     name: { de: "Deir Ghassaneh", hu: "Deir Gasszane", ro: "Deir Ghassaneh", en: "Deir Ghassaneh" },
@@ -1578,7 +3873,448 @@ export const palestineHistoryV2: POI[] = [
     image: "/poi-images/palestine-deir-ghassaneh-history-v2.webp",
   },
   {
-    id: "palestine-aboud-history-v2",
+    id: "palestine-aboud-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "المقاطع",
+                  "text": "mkata' ist eine archäologische Stätte in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.059927,
+                        32.02254
+                  ]
+            },
+            {
+                  "name": "أثار دير سمعان",
+                  "text": "Raised convent Samaan ist eine archäologische Stätte in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.06854,
+                        32.018189
+                  ]
+            },
+            {
+                  "name": "חורבת בלטה",
+                  "text": "חורבת בלטה ist eine archäologische Stätte in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.057235,
+                        32.05022
+                  ]
+            },
+            {
+                  "name": "القليعة",
+                  "text": "القليعة ist eine archäologische Stätte in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.061873,
+                        32.02101
+                  ]
+            },
+            {
+                  "name": "vally of lemon",
+                  "text": "Vally of lemon ist ein Wasserpark in Aboud.",
+                  "category": "recreational",
+                  "coords": [
+                        35.072026,
+                        32.023753
+                  ]
+            },
+            {
+                  "name": "دير مار إلياس أو دير الكوكب (Mar Elias convent, convent of the planet)",
+                  "text": "دير مار إلياس أو دير الكوكب (Mar Elias convent, convent of the planet) ist eine archäologische Stätte in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.084578,
+                        32.010008
+                  ]
+            },
+            {
+                  "name": "كنيسة الميسه",
+                  "text": "Mesah church ist eine archäologische Stätte in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.067806,
+                        32.015437
+                  ]
+            },
+            {
+                  "name": "שמורת טבע נחל שילה עילי",
+                  "text": "Nahal Shilo 'Illi Nature Reserve ist ein Naturschutzgebiet in Aboud.",
+                  "category": "natural",
+                  "coords": [
+                        35.0724,
+                        32.050651
+                  ]
+            },
+            {
+                  "name": "ديرغسانة وسط البلدة القديم",
+                  "text": "Dirgasanah ist eine Sehenswürdigkeit in Aboud.",
+                  "category": "landmark",
+                  "coords": [
+                        35.09818,
+                        32.046951
+                  ]
+            },
+            {
+                  "name": "الخواص مقام ومنتزه",
+                  "text": "الخواص مقام ومنتزه ist ein Denkmal in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.08804,
+                        32.050178
+                  ]
+            },
+            {
+                  "name": "מצפה עמירם",
+                  "text": "מצפה עמירם ist ein Aussichtspunkt in Aboud.",
+                  "category": "natural",
+                  "coords": [
+                        35.056049,
+                        32.032507
+                  ]
+            },
+            {
+                  "name": "המצוק הקטן בית אריה",
+                  "text": "המצוק הקטן בית אריה ist eine Sehenswürdigkeit in Aboud.",
+                  "category": "landmark",
+                  "coords": [
+                        35.058208,
+                        32.033645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "المقاطع",
+                  "text": "A mkata' egy régészeti lelőhely Aboud városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.059927,
+                        32.02254
+                  ]
+            },
+            {
+                  "name": "أثار دير سمعان",
+                  "text": "A Raised convent Samaan egy régészeti lelőhely Aboud városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.06854,
+                        32.018189
+                  ]
+            },
+            {
+                  "name": "חורבת בלטה",
+                  "text": "A חורבת בלטה egy régészeti lelőhely Aboud városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.057235,
+                        32.05022
+                  ]
+            },
+            {
+                  "name": "القليعة",
+                  "text": "A القليعة egy régészeti lelőhely Aboud városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.061873,
+                        32.02101
+                  ]
+            },
+            {
+                  "name": "vally of lemon",
+                  "text": "A vally of lemon egy vízipark Aboud városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.072026,
+                        32.023753
+                  ]
+            },
+            {
+                  "name": "دير مار إلياس أو دير الكوكب (Mar Elias convent, convent of the planet)",
+                  "text": "A(z) دير مار إلياس أو دير الكوكب (Mar Elias convent, convent of the planet) egy régészeti lelőhely Aboud városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.084578,
+                        32.010008
+                  ]
+            },
+            {
+                  "name": "كنيسة الميسه",
+                  "text": "A Mesah church egy régészeti lelőhely Aboud városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.067806,
+                        32.015437
+                  ]
+            },
+            {
+                  "name": "שמורת טבע נחל שילה עילי",
+                  "text": "A Nahal Shilo 'Illi Nature Reserve egy természetvédelmi terület Aboud városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.0724,
+                        32.050651
+                  ]
+            },
+            {
+                  "name": "ديرغسانة وسط البلدة القديم",
+                  "text": "A Dirgasanah egy látványosság Aboud városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.09818,
+                        32.046951
+                  ]
+            },
+            {
+                  "name": "الخواص مقام ومنتزه",
+                  "text": "A(z) الخواص مقام ومنتزه egy emlékmű Aboud városában.",
+                  "category": "historical",
+                  "coords": [
+                        35.08804,
+                        32.050178
+                  ]
+            },
+            {
+                  "name": "מצפה עמירם",
+                  "text": "A(z) מצפה עמירם egy kilátópont Aboud városában.",
+                  "category": "natural",
+                  "coords": [
+                        35.056049,
+                        32.032507
+                  ]
+            },
+            {
+                  "name": "המצוק הקטן בית אריה",
+                  "text": "A(z) המצוק הקטן בית אריה egy látványosság Aboud városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.058208,
+                        32.033645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "المقاطع",
+                  "text": "mkata' este un sit arheologic din Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.059927,
+                        32.02254
+                  ]
+            },
+            {
+                  "name": "أثار دير سمعان",
+                  "text": "Raised convent Samaan este un sit arheologic din Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.06854,
+                        32.018189
+                  ]
+            },
+            {
+                  "name": "חורבת בלטה",
+                  "text": "חורבת בלטה este un sit arheologic din Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.057235,
+                        32.05022
+                  ]
+            },
+            {
+                  "name": "القليعة",
+                  "text": "القليعة este un sit arheologic din Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.061873,
+                        32.02101
+                  ]
+            },
+            {
+                  "name": "vally of lemon",
+                  "text": "Vally of lemon este un parc acvatic situat în Aboud.",
+                  "category": "recreational",
+                  "coords": [
+                        35.072026,
+                        32.023753
+                  ]
+            },
+            {
+                  "name": "دير مار إلياس أو دير الكوكب (Mar Elias convent, convent of the planet)",
+                  "text": "دير مار إلياس أو دير الكوكب (Mar Elias convent, convent of the planet) este un sit arheologic situat în Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.084578,
+                        32.010008
+                  ]
+            },
+            {
+                  "name": "كنيسة الميسه",
+                  "text": "Mesah church este un sit arheologic situat în Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.067806,
+                        32.015437
+                  ]
+            },
+            {
+                  "name": "שמורת טבע נחל שילה עילי",
+                  "text": "Nahal Shilo 'Illi Nature Reserve este o rezervație naturală situată în Aboud.",
+                  "category": "natural",
+                  "coords": [
+                        35.0724,
+                        32.050651
+                  ]
+            },
+            {
+                  "name": "ديرغسانة وسط البلدة القديم",
+                  "text": "Dirgasanah este o atracție turistică situată în Aboud.",
+                  "category": "landmark",
+                  "coords": [
+                        35.09818,
+                        32.046951
+                  ]
+            },
+            {
+                  "name": "الخواص مقام ومنتزه",
+                  "text": "الخواص مقام ومنتزه este un monument situat în Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.08804,
+                        32.050178
+                  ]
+            },
+            {
+                  "name": "מצפה עמירם",
+                  "text": "מצפה עמירם este un punct de belvedere situat în Aboud.",
+                  "category": "natural",
+                  "coords": [
+                        35.056049,
+                        32.032507
+                  ]
+            },
+            {
+                  "name": "המצוק הקטן בית אריה",
+                  "text": "המצוק הקטן בית אריה este o atracție turistică situată în Aboud.",
+                  "category": "landmark",
+                  "coords": [
+                        35.058208,
+                        32.033645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "mkata'",
+                  "text": "mkata' is an archaeological site in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.059927,
+                        32.02254
+                  ]
+            },
+            {
+                  "name": "Raised convent Samaan",
+                  "text": "Raised convent Samaan is an archaeological site located in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.06854,
+                        32.018189
+                  ]
+            },
+            {
+                  "name": "חורבת בלטה",
+                  "text": "חורבת בלטה is an archaeological site in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.057235,
+                        32.05022
+                  ]
+            },
+            {
+                  "name": "القليعة",
+                  "text": "القليعة is an archaeological site situated in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.061873,
+                        32.02101
+                  ]
+            },
+            {
+                  "name": "vally of lemon",
+                  "text": "Vally of lemon is a water park located in Aboud.",
+                  "category": "recreational",
+                  "coords": [
+                        35.072026,
+                        32.023753
+                  ]
+            },
+            {
+                  "name": "دير مار إلياس أو دير الكوكب (Mar Elias convent, convent of the planet)",
+                  "text": "دير مار إلياس أو دير الكوكب (Mar Elias convent, convent of the planet) is an archaeological site located in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.084578,
+                        32.010008
+                  ]
+            },
+            {
+                  "name": "Mesah church",
+                  "text": "Mesah church is an archaeological site located in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.067806,
+                        32.015437
+                  ]
+            },
+            {
+                  "name": "Nahal Shilo 'Illi Nature Reserve",
+                  "text": "Nahal Shilo 'Illi Nature Reserve is a nature reserve located in Aboud.",
+                  "category": "natural",
+                  "coords": [
+                        35.0724,
+                        32.050651
+                  ]
+            },
+            {
+                  "name": "Dirgasanah",
+                  "text": "Dirgasanah is a tourist attraction located in Aboud.",
+                  "category": "landmark",
+                  "coords": [
+                        35.09818,
+                        32.046951
+                  ]
+            },
+            {
+                  "name": "الخواص مقام ومنتزه",
+                  "text": "الخواص مقام ومنتزه is a monument located in Aboud.",
+                  "category": "historical",
+                  "coords": [
+                        35.08804,
+                        32.050178
+                  ]
+            },
+            {
+                  "name": "מצפה עמירם",
+                  "text": "מצפה עמירם is a viewpoint located in Aboud.",
+                  "category": "natural",
+                  "coords": [
+                        35.056049,
+                        32.032507
+                  ]
+            },
+            {
+                  "name": "המצוק הקטן בית אריה",
+                  "text": "המצוק הקטן בית אריה is a tourist attraction located in Aboud.",
+                  "category": "landmark",
+                  "coords": [
+                        35.058208,
+                        32.033645
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "village",
     name: { de: "Aboud", hu: "Abúd", ro: "Aboud", en: "Aboud" },
@@ -1623,7 +4359,484 @@ export const palestineHistoryV2: POI[] = [
     image: "/poi-images/palestine-aboud-history-v2.webp",
   },
   {
-    id: "palestine-jifna-history-v2",
+    id: "palestine-jifna-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "عين الحمام",
+                  "text": "عين الحمام ist ein Wasserpark in der Stadt Jifna.",
+                  "category": "recreational",
+                  "coords": [
+                        35.200879,
+                        31.972464
+                  ]
+            },
+            {
+                  "name": "متحف الشعب",
+                  "text": "Das People's Museum ist ein Museum in Jifna.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "חוות אפרים",
+                  "text": "חוות אפרים ist ein Zoo in Jifna.",
+                  "category": "recreational",
+                  "coords": [
+                        35.223988,
+                        31.944429
+                  ]
+            },
+            {
+                  "name": "Jacob's Ladder Dream Site",
+                  "text": "Jacob's Ladder Dream Site ist eine Sehenswürdigkeit in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231885,
+                        31.949362
+                  ]
+            },
+            {
+                  "name": "מצפור שא נא עינך",
+                  "text": "מצפור שא נא עינך ist ein Aussichtspunkt, der in Jifna besucht werden kann.",
+                  "category": "natural",
+                  "coords": [
+                        35.229892,
+                        31.946837
+                  ]
+            },
+            {
+                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "text": "Die Al Rozana Association for Culture and Heritage ist eine Sehenswürdigkeit in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "سيرك فلسطين",
+                  "text": "Der Palestine Circus ist eine Sehenswürdigkeit in der Stadt Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.19846,
+                        31.970551
+                  ]
+            },
+            {
+                  "name": "مول بيرزيت",
+                  "text": "Birzeit Mall ist eine Sehenswürdigkeit und ein Einkaufsziel in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.194423,
+                        31.968003
+                  ]
+            },
+            {
+                  "name": "اثريات بيزنطية",
+                  "text": "Die Ancient Byzantine Fortress ist eine historische Sehenswürdigkeit in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.191307,
+                        31.965994
+                  ]
+            },
+            {
+                  "name": "אולם הפיס",
+                  "text": "אולם הפיס ist ein Kunstzentrum in Jifna.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222857,
+                        31.941312
+                  ]
+            },
+            {
+                  "name": "منزل السيدنادي عمار",
+                  "text": "nadi ammar ist eine Sehenswürdigkeit in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            },
+            {
+                  "name": "ישיבת בית אל",
+                  "text": "Beit Midrash ist eine bedeutende Kult- und Studienstätte in Jifna.",
+                  "category": "religious",
+                  "coords": [
+                        35.222119,
+                        31.94255
+                  ]
+            },
+            {
+                  "name": "מקווה בני צבי",
+                  "text": "מקווה בני צבי ist ein Wassermerkmal oder Gewässer in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.22321,
+                        31.947281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "عين الحمام",
+                  "text": "A عين الحمام egy vízipark Jifna városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.200879,
+                        31.972464
+                  ]
+            },
+            {
+                  "name": "متحف الشعب",
+                  "text": "A People's Museum egy múzeum Jifnában.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "חוות אפרים",
+                  "text": "A חוות אפרים egy állatkert Jifnában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.223988,
+                        31.944429
+                  ]
+            },
+            {
+                  "name": "Jacob's Ladder Dream Site",
+                  "text": "A Jacob's Ladder Dream Site egy látványosság Jifnában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231885,
+                        31.949362
+                  ]
+            },
+            {
+                  "name": "מצפור שא נא עינך",
+                  "text": "A מצפור שא נא עינך egy kilátó, amely Jifnában látogatható.",
+                  "category": "natural",
+                  "coords": [
+                        35.229892,
+                        31.946837
+                  ]
+            },
+            {
+                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "text": "Az Al Rozana Association for Culture and Heritage egy látványosság Jifnában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "سيرك فلسطين",
+                  "text": "A Palestine Circus egy látványosság Jifna városában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.19846,
+                        31.970551
+                  ]
+            },
+            {
+                  "name": "مول بيرزيت",
+                  "text": "A Birzeit Mall egy látványosság és bevásárlóközpont Jifnában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.194423,
+                        31.968003
+                  ]
+            },
+            {
+                  "name": "اثريات بيزنطية",
+                  "text": "Az Ancient Byzantine Fortress egy történelmi látványosság Jifnában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.191307,
+                        31.965994
+                  ]
+            },
+            {
+                  "name": "אולם הפיס",
+                  "text": "Az אולם הפיס egy művészeti központ Jifnában.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222857,
+                        31.941312
+                  ]
+            },
+            {
+                  "name": "منزل السيدنادي عمار",
+                  "text": "A nadi ammar egy látványosság Jifnában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            },
+            {
+                  "name": "ישיבת בית אל",
+                  "text": "A Beit Midrash egy kiemelkedő istentiszteleti és tanulmányi hely Jifnában.",
+                  "category": "religious",
+                  "coords": [
+                        35.222119,
+                        31.94255
+                  ]
+            },
+            {
+                  "name": "מקווה בני צבי",
+                  "text": "A מקווה בני צבי egy vízfelület vagy vizes létesítmény Jifnában.",
+                  "category": "landmark",
+                  "coords": [
+                        35.22321,
+                        31.947281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "عين الحمام",
+                  "text": "عين الحمام este un parc acvatic situat în orașul Jifna.",
+                  "category": "recreational",
+                  "coords": [
+                        35.200879,
+                        31.972464
+                  ]
+            },
+            {
+                  "name": "متحف الشعب",
+                  "text": "People's Museum este un muzeu situat în Jifna.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "חוות אפרים",
+                  "text": "חוות אפרים este o grădină zoologică situată în Jifna.",
+                  "category": "recreational",
+                  "coords": [
+                        35.223988,
+                        31.944429
+                  ]
+            },
+            {
+                  "name": "Jacob's Ladder Dream Site",
+                  "text": "Jacob's Ladder Dream Site este o atracție aflată în Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231885,
+                        31.949362
+                  ]
+            },
+            {
+                  "name": "מצפור שא נא עינך",
+                  "text": "מצפור שא נא עינך este un punct de belvedere care poate fi vizitat în Jifna.",
+                  "category": "natural",
+                  "coords": [
+                        35.229892,
+                        31.946837
+                  ]
+            },
+            {
+                  "name": "مووسسة الروزنا للتراث الفلسطيني",
+                  "text": "Al Rozana Association for Culture and Heritage este o atracție din Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "سيرك فلسطين",
+                  "text": "Palestine Circus este o atracție situată în orașul Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.19846,
+                        31.970551
+                  ]
+            },
+            {
+                  "name": "مول بيرزيت",
+                  "text": "Birzeit Mall este o atracție și o destinație de cumpărături din Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.194423,
+                        31.968003
+                  ]
+            },
+            {
+                  "name": "اثريات بيزنطية",
+                  "text": "Ancient Byzantine Fortress este o atracție istorică din Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.191307,
+                        31.965994
+                  ]
+            },
+            {
+                  "name": "אולם הפיס",
+                  "text": "אולם הפיס este un centru de arte situat în Jifna.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222857,
+                        31.941312
+                  ]
+            },
+            {
+                  "name": "منزل السيدنادي عمار",
+                  "text": "nadi ammar este o atracție aflată în Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            },
+            {
+                  "name": "ישיבת בית אל",
+                  "text": "Beit Midrash este un important lăcaș de cult și studiu din Jifna.",
+                  "category": "religious",
+                  "coords": [
+                        35.222119,
+                        31.94255
+                  ]
+            },
+            {
+                  "name": "מקווה בני צבי",
+                  "text": "מקווה בני צבי este o caracteristică de apă sau un corp de apă situat în Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.22321,
+                        31.947281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "عين الحمام",
+                  "text": "عين الحمام is a water park located in the city of Jifna.",
+                  "category": "recreational",
+                  "coords": [
+                        35.200879,
+                        31.972464
+                  ]
+            },
+            {
+                  "name": "People's Museum",
+                  "text": "The People's Museum is a museum located in Jifna.",
+                  "category": "museum",
+                  "coords": [
+                        35.200112,
+                        31.970706
+                  ]
+            },
+            {
+                  "name": "חוות אפרים",
+                  "text": "חוות אפרים is a zoo situated in Jifna.",
+                  "category": "recreational",
+                  "coords": [
+                        35.223988,
+                        31.944429
+                  ]
+            },
+            {
+                  "name": "Jacob's Ladder Dream Site",
+                  "text": "Jacob's Ladder Dream Site is an attraction found in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.231885,
+                        31.949362
+                  ]
+            },
+            {
+                  "name": "מצפור שא נא עינך",
+                  "text": "מצפור שא נא עינך is a viewpoint that can be visited in Jifna.",
+                  "category": "natural",
+                  "coords": [
+                        35.229892,
+                        31.946837
+                  ]
+            },
+            {
+                  "name": "Al Rozana Association for Culture and Heritage",
+                  "text": "The Al Rozana Association for Culture and Heritage is an attraction in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.201465,
+                        31.969624
+                  ]
+            },
+            {
+                  "name": "Palestine Circus",
+                  "text": "The Palestine Circus is an attraction located in the city of Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.19846,
+                        31.970551
+                  ]
+            },
+            {
+                  "name": "Birzeit Mall",
+                  "text": "Birzeit Mall is an attraction and shopping destination in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.194423,
+                        31.968003
+                  ]
+            },
+            {
+                  "name": "Ancient Byzantine Fortress",
+                  "text": "The Ancient Byzantine Fortress is an historical attraction in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.191307,
+                        31.965994
+                  ]
+            },
+            {
+                  "name": "אולם הפיס",
+                  "text": "אולם הפיס is an arts centre situated in Jifna.",
+                  "category": "cultural",
+                  "coords": [
+                        35.222857,
+                        31.941312
+                  ]
+            },
+            {
+                  "name": "nadi ammar",
+                  "text": "nadi ammar is an attraction found in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.242791,
+                        31.977919
+                  ]
+            },
+            {
+                  "name": "Beit Midrash",
+                  "text": "Beit Midrash is a prominent place of worship and study in Jifna.",
+                  "category": "religious",
+                  "coords": [
+                        35.222119,
+                        31.94255
+                  ]
+            },
+            {
+                  "name": "מקווה בני צבי",
+                  "text": "מקווה בני צבי is a water feature or body of water located in Jifna.",
+                  "category": "landmark",
+                  "coords": [
+                        35.22321,
+                        31.947281
+                  ]
+            }
+      ]
+},
     parent: "PS",
     type: "village",
     name: { de: "Jifna", hu: "Dzsiszna", ro: "Jifna", en: "Jifna" },

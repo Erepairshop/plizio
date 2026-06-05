@@ -519,7 +519,52 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "vuvulane-cities-v2",
+    id: "vuvulane-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mananaga Wetland Protected Area",
+                  "text": "Das Mananaga Wetland Protected Area ist ein Naturschutzgebiet in Vuvulane.",
+                  "category": "natural",
+                  "coords": [
+                        31.836698,
+                        -25.928318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mananaga Wetland Protected Area",
+                  "text": "A Mananaga Wetland Protected Area egy természetvédelmi terület Vuvulane környékén.",
+                  "category": "natural",
+                  "coords": [
+                        31.836698,
+                        -25.928318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mananaga Wetland Protected Area",
+                  "text": "Aria Protejată a Zonelor Umede Mananaga este o rezervație naturală din Vuvulane.",
+                  "category": "natural",
+                  "coords": [
+                        31.836698,
+                        -25.928318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mananaga Wetland Protected Area",
+                  "text": "The Mananaga Wetland Protected Area is a nature reserve in Vuvulane.",
+                  "category": "natural",
+                  "coords": [
+                        31.836698,
+                        -25.928318
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-LU",
     coords: [31.8667, -25.9833],
@@ -827,7 +872,52 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "tabankulu-cities-v2",
+    id: "tabankulu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sugar Cane Museum",
+                  "text": "Ein Museum in Tabankulu, das der Geschichte der Zuckerrohrproduktion gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        31.921699,
+                        -26.105499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sugar Cane Museum",
+                  "text": "Cukornád-múzeum Tabankuluban, amely a cukornádtermelés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        31.921699,
+                        -26.105499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sugar Cane Museum",
+                  "text": "Un muzeu în Tabankulu dedicat istoriei producției de trestie de zahăr.",
+                  "category": "museum",
+                  "coords": [
+                        31.921699,
+                        -26.105499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sugar Cane Museum",
+                  "text": "A museum in Tabankulu dedicated to the history of sugar cane production.",
+                  "category": "museum",
+                  "coords": [
+                        31.921699,
+                        -26.105499
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-LU",
     coords: [31.9167, -26.0833],
@@ -1003,7 +1093,52 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "tjaneni-cities-v2",
+    id: "tjaneni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "IYSIS",
+                  "text": "IYSIS ist ein geschütztes Naturschutzgebiet in Tjaneni.",
+                  "category": "natural",
+                  "coords": [
+                        31.73162,
+                        -26.069822
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "IYSIS",
+                  "text": "Az IYSIS egy védett természetvédelmi terület Tjaneniben.",
+                  "category": "natural",
+                  "coords": [
+                        31.73162,
+                        -26.069822
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "IYSIS",
+                  "text": "IYSIS este o rezervație naturală protejată în Tjaneni.",
+                  "category": "natural",
+                  "coords": [
+                        31.73162,
+                        -26.069822
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "IYSIS",
+                  "text": "IYSIS is a protected nature reserve in Tjaneni.",
+                  "category": "natural",
+                  "coords": [
+                        31.73162,
+                        -26.069822
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-LU",
     coords: [31.7167, -25.9833],
@@ -1091,7 +1226,52 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "lavumisa-cities-v2",
+    id: "lavumisa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Royal Jozini Big 6 Private Estate",
+                  "text": "Ein privates Wildreservat, das Safaris und Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        31.93064,
+                        -27.240537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Royal Jozini Big 6 Private Estate",
+                  "text": "Magán vadrezervátum, amely szafarikat és természetközeli élményeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        31.93064,
+                        -27.240537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Royal Jozini Big 6 Private Estate",
+                  "text": "O rezervație privată de animale sălbatice care oferă safariuri și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        31.93064,
+                        -27.240537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Jozini Big 6 Private Estate",
+                  "text": "A private wildlife reserve offering safaris and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        31.93064,
+                        -27.240537
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-SH",
     coords: [31.9, -27.3167],
@@ -1135,7 +1315,52 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "ngwenya-cities-v2",
+    id: "ngwenya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ngwenya Glass",
+                  "text": "Ngwenya Glass ist eine beliebte Touristenattraktion in Ngwenya.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031456,
+                        -26.22223
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ngwenya Glass",
+                  "text": "A Ngwenya Glass egy népszerű turisztikai látványosság Ngwenya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031456,
+                        -26.22223
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ngwenya Glass",
+                  "text": "Ngwenya Glass este o atracție turistică populară situată în Ngwenya.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031456,
+                        -26.22223
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ngwenya Glass",
+                  "text": "Ngwenya Glass is a popular tourist attraction located in Ngwenya.",
+                  "category": "landmark",
+                  "coords": [
+                        31.031456,
+                        -26.22223
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-HH",
     coords: [31.0333, -26.2333],
@@ -1487,7 +1712,52 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "nkambeni-cities-v2",
+    id: "nkambeni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "IYSIS",
+                  "text": "Ein Naturschutzgebiet in Nkambeni, das dem Erhalt der Artenvielfalt gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        31.73162,
+                        -26.069822
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "IYSIS",
+                  "text": "Természetvédelmi terület Nkambeniben a biológiai sokféleség megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        31.73162,
+                        -26.069822
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "IYSIS",
+                  "text": "O rezervație naturală în Nkambeni dedicată conservării biodiversității.",
+                  "category": "natural",
+                  "coords": [
+                        31.73162,
+                        -26.069822
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "IYSIS",
+                  "text": "A nature reserve in Nkambeni dedicated to biodiversity conservation.",
+                  "category": "natural",
+                  "coords": [
+                        31.73162,
+                        -26.069822
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-HH",
     coords: [31.6667, -26.05],
@@ -1531,7 +1801,52 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "buhleni-cities-v2",
+    id: "buhleni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Royal Palace",
+                  "text": "Der Royal Palace ist eine Schlossanlage in Buhleni.",
+                  "category": "castle",
+                  "coords": [
+                        31.504224,
+                        -25.921964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Royal Palace",
+                  "text": "A Royal Palace egy kastélyépület Buhleniben.",
+                  "category": "castle",
+                  "coords": [
+                        31.504224,
+                        -25.921964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Royal Palace",
+                  "text": "Royal Palace este o structură de castel situată în Buhleni.",
+                  "category": "castle",
+                  "coords": [
+                        31.504224,
+                        -25.921964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Palace",
+                  "text": "The Royal Palace is a castle structure situated in Buhleni.",
+                  "category": "castle",
+                  "coords": [
+                        31.504224,
+                        -25.921964
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-HH",
     coords: [31.5103, -25.923],
@@ -1663,7 +1978,124 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "havelock-cities-v2",
+    id: "havelock-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bulembu Museum",
+                  "text": "Das Bulembu Museum ist eine lokale Einrichtung in Havelock.",
+                  "category": "museum",
+                  "coords": [
+                        31.127493,
+                        -25.953737
+                  ]
+            },
+            {
+                  "name": "Mt Emlembe hiking trail",
+                  "text": "Der Mt Emlembe hiking trail ist eine Wanderattraktion in Havelock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13209,
+                        -25.935536
+                  ]
+            },
+            {
+                  "name": "Old mine tunnel",
+                  "text": "Der Old mine tunnel ist ein historisches Bergwerk in Havelock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.118509,
+                        -25.95994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bulembu Museum",
+                  "text": "A Bulembu Museum egy helyi múzeum Havelockban.",
+                  "category": "museum",
+                  "coords": [
+                        31.127493,
+                        -25.953737
+                  ]
+            },
+            {
+                  "name": "Mt Emlembe hiking trail",
+                  "text": "A Mt Emlembe hiking trail egy túraútvonal látványosság Havelockban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13209,
+                        -25.935536
+                  ]
+            },
+            {
+                  "name": "Old mine tunnel",
+                  "text": "Az Old mine tunnel egy történelmi bánya Havelockban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.118509,
+                        -25.95994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bulembu Museum",
+                  "text": "Bulembu Museum este o instituție muzeală în Havelock.",
+                  "category": "museum",
+                  "coords": [
+                        31.127493,
+                        -25.953737
+                  ]
+            },
+            {
+                  "name": "Mt Emlembe hiking trail",
+                  "text": "Mt Emlembe hiking trail este o atracție pentru drumeții în Havelock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13209,
+                        -25.935536
+                  ]
+            },
+            {
+                  "name": "Old mine tunnel",
+                  "text": "Old mine tunnel este o mină istorică în Havelock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.118509,
+                        -25.95994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bulembu Museum",
+                  "text": "Bulembu Museum is a local museum institution in Havelock.",
+                  "category": "museum",
+                  "coords": [
+                        31.127493,
+                        -25.953737
+                  ]
+            },
+            {
+                  "name": "Mt Emlembe hiking trail",
+                  "text": "Mt Emlembe hiking trail is an outdoor recreational attraction in Havelock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.13209,
+                        -25.935536
+                  ]
+            },
+            {
+                  "name": "Old mine tunnel",
+                  "text": "The Old mine tunnel offers a glimpse into the mining history of Havelock.",
+                  "category": "landmark",
+                  "coords": [
+                        31.118509,
+                        -25.95994
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-HH",
     coords: [31.1333, -25.95],
@@ -1927,7 +2359,88 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
     },
   },
   {
-    id: "holobela-cities-v2",
+    id: "holobela-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dombeya Game Reserve",
+                  "text": "Das Dombeya Game Reserve ist ein Naturschutzgebiet in Holobela.",
+                  "category": "natural",
+                  "coords": [
+                        31.540946,
+                        -26.350576
+                  ]
+            },
+            {
+                  "name": "Work number 2",
+                  "text": "Work number 2 ist als lokale Attraktion in Holobela anerkannt.",
+                  "category": "landmark",
+                  "coords": [
+                        31.539216,
+                        -26.341048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dombeya Game Reserve",
+                  "text": "A Dombeya Game Reserve egy természetvédelmi terület Holobelában.",
+                  "category": "natural",
+                  "coords": [
+                        31.540946,
+                        -26.350576
+                  ]
+            },
+            {
+                  "name": "Work number 2",
+                  "text": "A Work number 2 helyi látványosságként ismert Holobelában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.539216,
+                        -26.341048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dombeya Game Reserve",
+                  "text": "Dombeya Game Reserve este o rezervație naturală în Holobela.",
+                  "category": "natural",
+                  "coords": [
+                        31.540946,
+                        -26.350576
+                  ]
+            },
+            {
+                  "name": "Work number 2",
+                  "text": "Work number 2 este recunoscută ca o atracție locală în Holobela.",
+                  "category": "landmark",
+                  "coords": [
+                        31.539216,
+                        -26.341048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dombeya Game Reserve",
+                  "text": "Dombeya Game Reserve is a wildlife and nature conservation area in Holobela.",
+                  "category": "natural",
+                  "coords": [
+                        31.540946,
+                        -26.350576
+                  ]
+            },
+            {
+                  "name": "Work number 2",
+                  "text": "Work number 2 is recognized as a local attraction within Holobela.",
+                  "category": "landmark",
+                  "coords": [
+                        31.539216,
+                        -26.341048
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SZ-MA",
     coords: [31.55, -26.35],
